@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2011-09-16"
+last_updated: "2012-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,79 +23,25 @@ state: "GUA"
 ---
 # CODIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEON, GUANAJUATO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2012.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2026.
+Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
-Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
+EL CIUDADANO LIC. FRANCISCO RICARDO SHEFFIELD PADILLA, PRESIDENTE MUNICIPAL DE LEÓN, ESTADO DE GUANAJUATO, A LOS HABITANTES DEL MISMO HACE SABER:
 
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+QUE EL HONORABLE AYUNTAMIENTO CONSTITUCIONAL QUE PRESIDO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 117 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; 69 FRACCIONES I INCISO B), 202, 203, 203 A, 204 Y 205 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO, 84, 85, 86, 89, 90 Y 94 DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DE LEÓN, GUANAJUATO, EN SESIÓN ORDINARIA DE FECHA 08 DE JULIO DE 2010, APROBÓ EL CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO, ASÍ COMO LOS ANEXOS TÉCNICOS QUE LO CONFORMAN, ELLO CON BASE EN LA SIGUIENTE:
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+EXPOSICIÓN DE MOTIVOS.
 
-La LXI Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+Finalmente, el proyecto de Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato, pretende ser un proyecto urbano colectivo que socialice los costos y los beneficios colectivos de largo plazo, y que cuente con la suficiente voluntad y liderazgo político para activar recursos, logrando una interacción democrática y participativa en los asuntos de la ciudad.
 
-Decreto Número 331
+CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-###### ARTÍCULO PRIMERO.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Se aprueba el Código Penal para el Estado de Aguascalientes, para quedar en los siguientes términos:
-
-CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
-
-# LIBRO PRIMERO. PARTE GENERAL
-
-## TÍTULO PRIMERO. PRINCIPIOS
-
-### CAPÍTULO ÚNICO
-
-###### ARTÍCULO 1o.
-
-Principio de legalidad. A nadie se le aplicará pena o medida de seguridad alguna si éstas no se encuentran previamente establecidas por una figura típica exactamente aplicable al hecho punible que corresponda, quedando prohibido imponerlas por simple analogía y aún por mayoría de razón.
-
-###### ARTÍCULO 2o.
-
-Principios de intervención mínima, lesividad y exterioridad. Para que una acción u omisión sean consideradas delictivas, se requiere que afecten o pongan en peligro concreto, sin causa justificada, al bien jurídico tutelado por la ley penal.
-
-El bien jurídico es el interés individual o colectivo protegido por un tipo penal en particular.
-
-El resultado podrá ser de afectación, destrucción, disminución o compresión del bien jurídico tutelado o su puesta en peligro concreto, como probabilidad de afectación, destrucción, disminución o compresión del bien jurídico.
-
-###### ARTÍCULO 3o.
-
-Principio de culpabilidad. No podrá aplicarse pena alguna, si la acción o la omisión no han sido realizadas culpablemente. La medida de la pena estará en relación directa con el grado de culpabilidad del sujeto respecto del hecho punible cometido, así como de la gravedad de éste.
-
-Igualmente se requerirá la acreditación de la culpabilidad del sujeto para la aplicación de una medida de seguridad, si ésta se impone accesoriamente a la pena, y su duración estará en relación directa con el grado de aquélla.
-
-La sanción que se aplique por la comisión de un delito no trascenderá de la persona y bienes de los que intervengan en aquél.
-
-###### ARTÍCULO 4o.
-
-Principio de jurisdiccionalidad. Las consecuencias jurídicas del delito solo podrán imponerse por resolución de autoridad judicial.
-
-Las disposiciones establecidas en este Código se aplicarán respetando los derechos humanos, fundamentales y garantías de las personas establecidas en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos humanos del que el Estado Mexicano sea parte, la Constitución Política del Estado de Aguascalientes, y toda normatividad que derive de ellos.
-
-###### ARTÍCULO 5o.
-
-Principios de dignidad e igualdad. Las disposiciones establecidas en este Código se aplicarán respetando la dignidad humana de las personas, sin establecerse diferencia negativa alguna por razón de raza, origen étnico, idioma, nacionalidad, género, edad, discapacidades, condición social, posición económica, condiciones de salud, credo o religión, opiniones, preferencias, estado civil, cualesquiera otra circunstancia de análoga naturaleza u otros universalmente reconocidos como inaceptables con arreglo al derecho internacional.
-
-###### ARTÍCULO 6o.
-
-Principio Pro Homine. Toda persona será tratada como ser humano sujeto de derechos y no como objeto, respetando su dignidad, seguridad e integridad física, psíquica y moral.
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2023)</small>
-
-En caso de que disposiciones normativas aplicables sean contradictorias, o que de su interpretación o de una norma deriven diversos significados deberá escogerse aquel que beneficie más a la protección y garantía de los derechos humanos, atendiendo a los principios de universalidad, interdependencia, indivisibilidad y progresividad. En el supuesto de que se encuentren enfrentados derechos de diversas personas, deberá observarse, además, las reglas de adecuación, necesidad y proporcionalidad para equilibrar los derechos en la medida de lo posible
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
-
-En caso de delitos cometidos en contra de niñas, niños y adolescentes siempre se garantizará el interés superior de la niñez en la aplicación de este Código.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
-
-En caso de delitos cometidos en contra de personas adultas mayores, siempre se observará el principio de protección especial en los términos de la legislación de la materia en la aplicación de este Código.
+### CAPÍTULO I. DEL OBJETO Y CONCEPTOS
 
 ###### Artículo 1.
 
@@ -114,6 +60,10 @@ V. Normar y regular la zonificación y los usos del suelo del territorio municip
 VI. Establecer las normas técnicas para clasificar la utilización del suelo; y,
 
 VII. Instrumentar las políticas de zonificación y densificación contenidas en el POTE.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VIII. Implementar acciones de mejora en base a la normativa vigente que ayuden a la simplificación de los trámites, desregulación administrativa y reducción de tiempos de respuesta al ciudadano, a través de las mesas de trabajo que señala el presente ordenamiento.
 
 ###### Artículo 2.
 
@@ -165,6 +115,10 @@ XXII. Código: El presente Código Reglamentario de Desarrollo Urbano para el Mu
 
 XXIII. Código del Procedimiento Administrativo: Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXIII - A. Colegio de Profesionistas: Organización constituida en el municipio integrada por personas físicas que poseen título profesional debidamente registrado, con conocimientos en alguna de las disciplinas señaladas en la Ley de Profesiones para el Estado de Guanajuato, que se adquieren para realizar una actividad con motivo de la terminación de estudios del tipo superior y de formación terminal o bivalente en el tipo medio superior, realizados en las instituciones educativas pertenecientes al sistema educativo nacional o que hayan sido acreditados mediante otro procedimiento previsto por las disposiciones jurídicas aplicables, requiriendo para su ejercicio cumplir con las disposiciones que para tal efecto señala la mencionada ley;
+
 XXIV. COS: Al coeficiente de ocupación del suelo, entendiéndose como éste, al área permisible de desplante de edificación en un lote o predio expresada en porcentaje de la superficie total del terreno; considerando toda aquella superficie cubierta;
 
 XXV. Comisión de Desarrollo Urbano: A la Comisión del H. Ayuntamiento que tiene a su cargo el estudio, dictamen y propuestas de solución de los asuntos en materia de desarrollo urbano;
@@ -181,13 +135,19 @@ XXX. Contaminación Visual: El fenómeno mediante el cual se altere nocivamente 
 
 XXXI. Coordenadas UTM: Los valores X, Y que indican latitud y longitud en metros, a partir de un meridiano central y del ecuador terrestre, referenciadas a la Red de Vértices Geodésicos del Municipio;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXXI - A. Corresponsable: Es la persona física profesionista con los conocimientos técnicos adecuados para responder en forma solidaria con el Director Responsable de Obra, o en forma autónoma en su área de competencia, en todos los aspectos de las obras en las que otorgue su responsiva, de conformidad con el presente Código.
+
 XXXII. Demolición: Hacer caer al suelo un edificio o una construcción o parte de ésta, con los medios adecuados;
 
 XXXIII. Densidad de población: El número de habitantes por hectárea de acuerdo a las densidades que se establecen en el POTE, conforme al índice de ocupación de vivienda del Instituto Nacional de Estadística y Geografía - INEGI;
 
 XXXIV. Desarrollador: La persona física o moral que promueva los tramites necesarios para obtener la autorización de cualquier tipo de fraccionamiento o desarrollo en condominio previstos en la Ley de Fraccionamientos;
 
-XXXV. Desarrollo en Condominio: El proyecto de urbanización de un inmueble y en su caso, la lotificación, la construcción o modificación de una edificación o grupo de edificaciones en forma vertical, horizontal o mixta, a partir de veinticuatro unidades, para cualquier transmisión de derechos reales, en donde existan elementos indivisibles de uso común por condiciones constructivas o por voluntad del propietario;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXXV. Desarrollo en Condominio: El proyecto o modificación de edificios, de departamentos, de casas, de locales, de naves, de lotes de terreno, de un inmueble, en el que se consideran simultáneamente los proyectos de urbanización necesarios, construidos o proyectados en forma vertical, horizontal o mixta, a partir de 24 unidades privativas, para cualquier transmisión de derechos reales, en donde existan elementos indivisibles de uso común por condiciones constructivas o por voluntad del propietario;
 
 XXXVI. Destinos: Los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población o del territorio municipal;
 
@@ -205,7 +165,9 @@ XLII. Dirección: A la Dirección General de Desarrollo Urbano del Municipio;
 
 XLIII. Dirección de Obra: La Dirección General de Obra Pública del Municipio;
 
-XLIV. DRO: Director Responsable de Obra, quien es la persona física profesionista, registrada ante la Dirección, legalmente autorizada para dirigir obras completas o fracciones especializadas de una construcción y que es contratado directamente por el propietario, poseedor o en su caso, por el constructor en los términos de este Código;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XLIV. DRO: Director Responsable de Obra es la persona física profesionista que es contratado directamente por el propietario, poseedor o en su caso por el constructor, que se hace responsable ante ellos y ante la autoridad, en todos los aspectos de las obras en las que otorga su responsiva relativas a la seguridad estructural, diseño urbano, diseño arquitectónico e instalaciones, según sea el caso, obligado a contratar a los corresponsables necesarios de acuerdo a lo establecido en el manual técnico de las construcciones y el presente Código.
 
 XLV. Edificación: Todas las construcciones que se realicen en el Municipio;
 
@@ -273,6 +235,10 @@ LXXVI. MIV: Manifestación de impacto vial, consistente en el estudio presentado
 
 LXXVII. Manual Técnico de las Construcciones: Anexo complementario que prevé las características y especificaciones técnicas que deberá reunir toda construcción regulada por el presente Código;
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+LXXVII - A. Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas: Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas en la Zona del Patrimonio Histórico, como el documento donde se establecen los criterios y especificaciones técnicas que habrán de observarse en zonas patrimoniales, zonas de monumentos y en los inmuebles con valor arqueológico, artístico e histórico.
+
 LXXVIII. Manual Técnico de Usos del Suelo: Documento que complementa la normativa para la clasificación de las actividades y sus normas de intensidad a fin de facilitar la aplicación del presente Código;
 
 LXXIX. Manuales Técnicos: Son todas las normas relativas a la construcción, publicadas por Organismos Técnicos, aplicables a las construcciones, tales como: ACI, ASTM, IMCYC, FOVI, IMSS CFE, entre otras, avaladas o publicadas por un organismo gubernamental o no gubernamental;
@@ -321,7 +287,7 @@ C. Producción Industrial de Vivienda: Aquella que se realiza por empresas priva
 
 CI. Propietario: La persona física o moral que acredita legalmente mediante Escritura Pública o título debidamente reconocido por la Ley, la propiedad y posesión de un predio, finca o edificación;
 
-CII. Proyectista: Persona física que siendo profesionista se encuentra registrado ante la Dirección, en una o varias profesiones, legalmente autorizado para ejercer el proyecto en congruencia con su profesión y/o registrado en una o varias ramas profesionales, legalmente autorizado para ejercer la rama profesional en una fracción de proyecto;
+CII. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 CIII. Proyecto de Diseño Urbano: La propuesta de distribución y estructura urbana de un fraccionamiento o desarrollo en condominio, realizada conforme a los procedimientos y requisitos establecidos en la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Ordenamiento;
 
@@ -345,7 +311,9 @@ CXII. Remodelación: Se refiere indistintamente a la readaptación, modificació
 
 CXIII. Reparación: Las acciones que tienen por objeto corregir las deficiencias estructurales o funcionales de un anuncio o de sus elementos, generados por el deterioro natural o inducido;
 
-CXIV. Restauración: Reparar un edificio del deterioro que ha sufrido para recuperarlo o renovarlo, conservando sus características estéticas;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+CXIV. Restauración: Reparar un inmueble que se encuentre dentro del catálogo del INAH, del deterioro que ha sufrido para recuperarlo o renovarlo, conservando sus características estéticas;
 
 CXV. RUV.- Registro Único de Vivienda, es la inscripción con la información técnica y legal de la vivienda que se realiza ante la Comisión Nacional de Vivienda;
 
@@ -401,27 +369,7 @@ Para el caso de reformas, adiciones y derogaciones al presente Código, o bien a
 
 Si el proyecto normativo a que se refiere el párrafo anterior, tuviese relación con la materia de planeación del desarrollo integral del Municipio, o bien a usos, destinos y reservas territoriales, corresponderá a las Comisiones del H. Ayuntamiento de Gobierno, Régimen Interior y Seguridad Pública y la del Instituto Municipal de Planeación, su estudio análisis y dictaminación respectiva.
 
-### CAPÍTULO I. Ámbitos de Aplicación de la Ley Penal
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-###### ARTÍCULO 7o.
-
-Validez personal. El contenido de las figuras típicas descritas en este Código obliga a todos los habitantes del Estado de Aguascalientes, sin excepción alguna, sean nacionales o extranjeros, residentes o transeúntes, así como a las personas jurídicas nacionales o extranjeras residentes en el Estado, en cuanto a las figuras típicas que les son aplicables.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-Para los efectos de este Código, todas las referencias que los ordenamientos aplicables en materia penal hagan al término de personas jurídicas o equivalentes, se entenderá que se refieren también a las personas morales.
-
-###### ARTÍCULO 8o.
-
-Validez espacial. Las consecuencias jurídicas establecidas se aplicarán a los responsables, por los hechos punibles que se inicien, preparen o cometan en el Estado, y respecto de aquellos que se inicien o preparen fuera del Estado, cuando el resultado se produzca en la entidad.
-
-###### ARTÍCULO 9o.
-
-Validez temporal. Para efectos de aplicación de la norma, se tendrá por ejecutado el hecho punible descrito en cada figura típica, en el lugar y tiempo en que se concretice el resultado de lesión o de peligro del bien jurídico tutelado. Es aplicable la ley vigente al momento de realización del hecho punible.
-
-Cuando entre la comisión de un hecho punible y la extinción de la pena o medida de seguridad aplicadas, entrare en vigor un nuevo precepto legal en materia penal o se modificare uno vigente, se aplicará aquella norma que mantenga un equilibrio adecuado entre los derechos constitucionales de la víctima y del inculpado, sin que se afecten notablemente aquellos, situación que siempre será resuelta por la autoridad judicial que conozca del caso.
+### CAPÍTULO II. DE LAS AUTORIDADES COMPETENTES Y AUXILIARES
 
 ###### Artículo 4.
 
@@ -459,3805 +407,2273 @@ El INAH es competente en materia de monumentos y zonas de monumentos arqueológi
 
 El INBA es competente en materia de monumentos y zonas de monumentos artísticos, declarados por el Ejecutivo Federal.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 9.
 
-La Dirección y el H. Ayuntamiento promoverá la participación ciudadana para el cumplimiento del objeto del presente ordenamiento, en los términos del Reglamento del Consejo Consultivo para el Desarrollo Sustentable en Materia Urbanismo en el Municipio de León, Guanajuato.
+La Dirección y el H. Ayuntamiento promoverán la participación ciudadana para el cumplimiento del objeto del presente ordenamiento, en los términos del Reglamento del Consejo Consultivo para el Desarrollo Sustentable en Materia de Urbanismo en el Municipio de León, Guanajuato; instrumento donde se instituye al consejo como un órgano colegiado de carácter permanente de asesoría y consulta técnica, quien además de los objetivos y atribuciones originarias que le otorga dicho reglamento, estará participando a través de un grupo de trabajo especifico, en los procesos de registro de los DRO, peritos urbanos, proyectistas arquitectónicos, proyectistas estructurales y peritos topógrafos, que se encuentran normados por este Código.
 
-### CAPÍTULO II. Concurso Aparente de Normas
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LAS AUTORIDADES COMPETENTES
 
 #### SECCIÓN PRIMERA. DEL H. AYUNTAMIENTO
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-Regla de solución. Cuando una misma materia aparezca regulada por diversas disposiciones, se aplicará aquella que más beneficie a los derechos fundamentales. En el supuesto de que se encuentren enfrentados derechos de diversas personas, deberán observarse, además, las reglas de adecuación, necesidad y proporcionalidad para equilibrar los derechos en la medida de lo posible.
+El H. Ayuntamiento, en materia de Desarrollo Urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley y el Reglamento Interior del H. Ayuntamiento, tendrá las siguientes:
 
-Cuando se realicen conductas típicas contempladas en Leyes Generales expedidas por el Congreso de la Unión, y que por su disposición competa conocer y resolver a las autoridades del Estado, serán éstas las que se apliquen, observando las disposiciones generales de este Código en lo no previsto por tales leyes.
+I. Controlar y vigilar, a través de la Dirección, la zonificación y los usos del suelo que se deriven de los planes de desarrollo urbano;
+
+II. Aprobar y expedir las declaratorias sobre usos, destinos y reservas territoriales en los términos de este ordenamiento;
+
+III. Solicitar ante la autoridad competente la expropiación por causa de utilidad pública para llevar a cabo acciones de usos y destinos de áreas y predios definidos en el POTE;
+
+IV. Aprobar los Planos de Zonas para la instalación de Anuncios;
+
+V. Determinar las zonas de protección en las que por su belleza natural, valor escénico o de paisaje, se prohíba o restrinja la colocación, instalación y fijación de los distintos tipos de anuncios;
+
+VI. Prestar los servicios públicos municipales a partir de la recepción de los desarrollos, atendiendo a lo previsto en la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código;
+
+VII. Aprobar el Manual Técnico de Usos del Suelo y el Manual Técnico de de las Construcciones en los términos de la normativa aplicable, así como evaluar y en su caso autorizar las modificaciones y actualizaciones a los mismos;
+
+VIII. Acordar sobre las acciones que las dependencias y entidades municipales deberán realizar para promover el uso eficiente del suelo urbano y evitar el crecimiento descontrolado;
+
+IX. Autorizar la celebración de convenios con personas físicas o morales para la donación de placas de nomenclatura, las cuales deberán cubrir con los estándares determinados por la Dirección y el IMPLAN;
+
+X. Acordar en los términos del presente Código, la Ley de Desarrollo Urbano y demás normativa, las adecuaciones que en su caso sean procedentes realizar al POTE y los que de éste deriven, previa revisión y evaluación realizada, con el auxilio del IMPLAN;
+
+XI. Autorizar aquellos asuntos que por su naturaleza pudieran contrastar o generar problemas en zonas ya consolidadas;
+
+XII. Resolver los casos no previstos en el presente ordenamiento, previo dictamen técnico de la dependencia o entidad municipal competente; y,
+
+XIII. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN SEGUNDA. DEL PRESIDENTE MUNICIPAL
 
-###### ARTÍCULO 11.
+###### Artículo 11.
 
-Elementos del delito. Para que puedan aplicarse legalmente las penas y medidas de seguridad previstas en cada una de las figuras típicas reguladas en este Código debe acreditarse en cada hecho punible, la existencia de los siguientes elementos, para la configuración del delito:
+El Presidente Municipal, en materia de Desarrollo Urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley, el Reglamento Interior del H. Ayuntamiento, el Reglamento Interior de la Administración, tendrá las siguientes:
 
-I. La Conducta;
+I. Aplicar en el ámbito de su competencia el presente Código;
 
-II. La Tipicidad;
+II. Recibir las áreas de donación y las vialidades de los fraccionamientos y desarrollos en condominio, en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código; celebrando para esos efectos, los contratos de donación respectivos, que deberán hacerse constar en escritura pública;
 
-III. La Antijuridicidad; y
+III. Imponer las sanciones y medidas de seguridad que correspondan, por violaciones a este Código, facultad que ejercerá a través de las dependencias municipales que en este mismo ordenamiento se delega; y,
 
-IV. La Culpabilidad.
-
-Tratándose de sujetos declarados inimputables, para que se les pueda aplicar la correspondiente medida de seguridad, bastará la acreditación de los elementos descritos en las Fracciones I a la III.
+IV. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DEL H. AYUNTAMIENTO
 
-###### ARTÍCULO 12.
+###### Artículo 12.
 
-Delito instantáneo, permanente y continuado. El delito es Instantáneo cuando su consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos; es Permanente o Continuo cuando la consumación se prolonga en el tiempo; y Continuado cuando con unidad de propósito y pluralidad de conductas, se configura una misma figura típica en perjuicio de la misma víctima.
+Son atribuciones de la Secretaría del H. Ayuntamiento, además de las que estatuye el Reglamento Interior de la Administración, las siguientes:
+
+I. Vigilar a través de la Dirección General de Verificación Normativa, el cumplimiento del presente Código en los términos del Título Séptimo relativo al Procedimiento Administrativo en materia Urbana, ello mediante la ejecución de visitas de verificación e inspección, decretando en su caso las medidas de seguridad que procedan, e imponiendo las sanciones que correspondan;
+
+II. Representar a través de la Dirección General de Servicios Jurídicos, a las Dependencias Municipales en los juicios contenciosos administrativos que se generen con motivo del presente Código, estableciendo en coordinación con aquellas, los procesos y estrategias para llevar a cabo la defensa jurídica de los asuntos, en los términos del Reglamento Interior de la Administración y demás normativa aplicable; y,
+
+III. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
-La conducta y nexo. Tanto las personas físicas como las personas jurídicas podrán ser imputadas por los hechos punibles previstos en el presente Código, pero las segundas únicamente por aquellos tipos penales previstos en el artículo 21 A de este mismo ordenamiento
+La Dirección General de Desarrollo Urbano, en materia de Desarrollo Urbano, además de las atribuciones previstas en la Ley Orgánica Municipal, la Ley de Desarrollo Urbano, la Ley de Fraccionamientos, el Reglamento de la Ley, el Reglamento Interior de la Administración, tendrá las siguientes:
 
-La conducta penalmente relevante puede ser de acción u omisión en las que medie voluntad.
+En materia de Licencias, Permisos y Autorizaciones:
 
-El resultado de afectación o de puesta en peligro concreto será imputado objetivamente a una persona cuando fuere consecuencia de su acción y medios adecuados para producirlo, salvo que hubiesen sobrevenido en virtud de un acontecimiento ajeno a la propia acción.
+I. Expedir, negar o en su caso revocar, por sí o a través de las direcciones y unidades administrativas que la integran, las licencias, permisos, certificaciones, dictámenes, constancias o autorizaciones en materia de gestión urbana, fraccionamientos y desarrollos en condominio, construcción, zonificación y usos del suelo, anuncios y nomenclatura, ello en los términos del presente Código Reglamentario y demás ordenamientos legales aplicables, así como determinar los montos y modalidades de las garantías que a favor del Municipio deberán otorgarse por los particulares para garantizar el cumplimiento de sus obligaciones, todo ello siempre y cuando no se encuentre reservado para otras autoridades competentes;
 
-El resultado de afectación o de puesta en peligro concreto, se entenderá imputado objetivamente por omisión, cuando la no evitación de aquel, al infringir un especial deber jurídico de la persona equivalga, según el sentido del texto de la Ley, a una causación. A tal efecto, se equiparará la acción a la omisión:
+II. Auxiliarse de las instancias correspondientes para acordar las medidas que fueran procedentes en relación con los edificios ruinosos, peligrosos, en mal estado o que causen molestias;
 
-I. Cuando exista una específica obligación legal o contractual de actuar;
+III. Solicitar el auxilio de la fuerza pública cuando fuere necesario, para hacer cumplir sus determinaciones;
 
-II. La persona se encuentre en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia; o
+En materia del desarrollo urbano integral del Municipio:
 
-III. Cuando el omitente haya creado una ocasión de riesgo para el bien jurídicamente protegido por el particular tipo penal, mediante una acción u omisión precedente.
+IV. Aplicar el presente Código Reglamentario, así como ejercer por si o a través de las direcciones y unidades administrativas que se le encuentren adscritas, las atribuciones que le confiere dicho ordenamiento;
 
-La conducta de acción u omisión puede ser de contenido doloso o de contenido culposo.
+V. Llevar a cabo en coordinación con el IMPLAN, las acciones adecuadas a efecto de sustentar la microplaneación necesaria que conlleve a una mejor operación del presente ordenamiento;
 
-Las conductas dolosas o culposas solamente serán punibles en los casos expresamente determinados por la ley.
+VI. Promover la investigación por parte de las Instituciones educativas, de investigación, agrupaciones o sociedades civiles que contribuyan al desarrollo urbano en todos sus ámbitos;
 
-### CAPÍTULO I. Elementos del Delito
+VII. Promover acciones y programas de recuperación, restauración y conservación de los monumentos y mejoramiento de la imagen urbana del municipio;
+
+VIII. Asesorar y coadyuvar con el Ayuntamiento, el Presidente Municipal y el Secretario del Ayuntamiento en el ejercicio de las atribuciones que les competen conforme al presente Código;
+
+En materia de Zonificación y Usos del Suelo:
+
+IX. Coadyuvar con el IMPLAN en las actualizaciones al POTE;
+
+X. Proponer al Ayuntamiento, conjuntamente con el IMPLAN las modificaciones y actualizaciones que considere necesarias realizar al Manual Técnico de Usos del Suelo y al Manual Técnico de las Construcciones;
+
+XI. Verificar que las acciones, inversiones, obras y servicios de desarrollo urbano que se ejecuten en el territorio municipal, se ajusten en su caso a la Ley de Desarrollo Urbano, al POTE y a los Programas de Desarrollo Urbano;
+
+XII. Establecer y dictaminar los requisitos técnicos indispensables dispuestos en este ordenamiento y demás leyes u ordenamientos legales en vigencia, que los particulares deberán acatar en materia de uso del suelo a fin de satisfacer las condiciones que sean compatibles con las zonas;
+
+XIII. Establecer de acuerdo a la Ley de Desarrollo Urbano, al POTE, al presente ordenamiento, y demás disposiciones aplicables, los lineamientos a seguir para el uso del suelo, estableciendo los tipos de construcciones y predios afines de acuerdo a las características y normas a seguir para su autorización;
+
+XIV. Clasificar los usos del suelo de acuerdo a las características y normas del presente ordenamiento y del Manual Técnico de Usos del Suelo;
+
+XV. Ejecutar las medidas necesarias a que deban sujetarse los usos en los predios o zonas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, reservas ecológicas o especiales o de protección del patrimonio cultural por tratarse de áreas sujetas a conservación y mejoramiento, en apego a lo que dispongan las autoridades competentes en la materia;
+
+XVI. Aplicar en el ámbito de su competencia las diferentes restricciones que marquen las Leyes y Reglamentos aplicables, así como las especificaciones técnicas y normativas que dicten la Comisión Nacional del Agua, la CFE, el SAPAL y todos los demás aplicables, para evitar el mal uso del suelo;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XVII. Clasificar y reclasificar las vías colectoras, locales y las vialidades que conforman el sistema vial primario del Municipio, de acuerdo a la sección de las mismas, previa opinión del IMPLAN y al planteamiento de proyecto de los desarrollos; así como coadyuvar con dicho instituto en las propuestas de usos del suelo.
+
+En el caso de la clasificación y reclasificación de las vialidades que se actualice al amparo de esta fracción, deberán integrarse al plano de zonificación del Municipio y los que de éste se deriven.
+
+XVIII. Resolver auxiliados por el IMPLAN, las compatibilidades de uso de suelo que presenten problemática de incompatibilidad aparente, a partir de estudios de compatibilidad urbanística, siempre y cuando no impliquen modificación al POTE, al Plano de Zonificación y los que de estos deriven, en tal caso, corresponderá al H. Ayuntamiento su autorización;
+
+XIX. Crear el sistema de información sobre uso del suelo y Banco de Datos para control urbano;
+
+XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XXII (sic) establecido en el presente Código;
+
+XXI. Autorizar los usos o actividades con normas particulares, en los términos del presente Código, del Manual Técnico de Usos del Suelo, Manual Técnico de las Construcciones y demás normativa aplicable;
+
+En materia de Fraccionamientos y Desarrollos en Condominio:
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXI - A. Emitir la opinión, a través de la información de uso de suelo, sobre la instalación de los espacios para apuestas, que le sea solicitada en los términos de la Ley Federal de Juegos y Sorteos, del Reglamento de la Ley Federal de Juegos y Sorteos, así como del presente Código;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXI - B. Autorizar la instalación de terrazas móviles, en zona de patrimonio histórico de conformidad con los lineamientos que establece el Anexo 7 del presente código denominado Manual Técnico de los Anuncios, Terrazas Móviles y Fachadas;
+
+XXII. Otorgar el permiso de venta de los lotes de un fraccionamiento y de los departamentos, viviendas, locales o áreas de un desarrollo en condominio, en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley, este Código y demás normativa aplicable;
+
+XXIII. Llevar a cabo el procedimiento de suspensión del permiso de venta, en los supuestos que establece la Ley de Fraccionamientos y el presente Código, aplicando para ello el procedimiento establecido en el Código del Procedimiento Administrativo para el caso de las medidas de seguridad;
+
+XXIV. Calcular y fijar el monto de las garantías contempladas en la Ley de Fraccionamientos, el Reglamento de la Ley y este ordenamiento;
+
+XXV. Determinar el costo de las obras faltantes de guarniciones, banquetas, pavimentos en arroyos vehiculares y alumbrado público de los fraccionamientos y desarrollos en condominio para el cálculo de las garantías que señala la Ley de Fraccionamientos, el Reglamento de la Ley y el presente ordenamiento;
+
+XXVI. Supervisar conjuntamente con el SAPAL y la CFE, la ejecución de las obras de urbanización que se realicen en los fraccionamientos o desarrollos en condominio, a efecto de verificar que se cumpla con las especificaciones y normas señaladas en la autorización correspondiente;
+
+Para los efectos del párrafo anterior, la Dirección llevará un registro mensual de evaluación del avance de obra;
+
+XXVII. Verificar que las áreas de donación se entreguen en la forma y términos establecidos en la Ley de Fraccionamientos y el Reglamento de la Ley;
+
+XXVIII. Acordar en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley, y el presente Código, el destino de las áreas de donación para equipamiento urbano y áreas verdes de los desarrollos, previa anuencia de la Comisión de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXVIII - A. Otorgar, negar, suspender o revocar el registro y refrendo a los peritos urbanos y topógrafos, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXVIII - B. Dictaminar sobre la ejecución de las actividades realizadas por los peritos urbanos y topógrafos, respecto a las cuales haya sido extendida su responsiva;
+
+XXIX. Establecer las especificaciones técnicas para la construcción de guarniciones, banquetas, pavimentos en arroyos vehiculares, alumbrado público y demás servicios dentro los fraccionamientos y desarrollos en condominio; así como supervisar que su ejecución se realice conforme a las especificaciones técnicas autorizadas, verificando el avance y la calidad de las mismas;
+
+XXX. Establecer, las especificaciones técnicas de las obras de equipamiento de las áreas verdes que proponga el desarrollador;
+
+XXXI. Requerir al desarrollador los estudios, y la realización de las acciones resultantes de los mismos, para erradicar los factores de riesgo que en su caso se hubiesen presentado en la ejecución de las obras de urbanización de un fraccionamiento o de un desarrollo en condominio;
+
+XXXII. Poner en conocimiento de las dependencias y entidades de la administración pública federal, estatal y municipal, las situaciones que puedan constituir infracciones a disposiciones legales cuya aplicación les competa;
+
+XXXIII. Llevar a cabo el procedimiento de recepción de las obras de urbanización, en coordinación con el SAPAL y la CFE, en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente ordenamiento;
+
+XXXIV. Informar a la Comisión de Desarrollo Urbano sobre las solicitudes que en materia de fraccionamientos y desarrollos en condominio le sean presentadas y, el trámite que a las mismas se dé;
+
+XXXV. Ejecutar las acciones necesarias para la recepción material de las áreas de donación y en su caso de las áreas de servicio;
+
+XXXVI. Emitir opinión sobre el ejercicio del derecho de preferencia del Municipio, respecto de la enajenación de terrenos ejidales, que se realice en los términos de la legislación agraria;
+
+XXXVII. Identificar las áreas de servicio que requiera un fraccionamiento o desarrollo en condominio;
+
+XXXVIII. Las que de conformidad con lo dispuesto por los artículos 8 fracción IV y 87 de la Ley de Fraccionamientos, le delega el Presidente Municipal, siendo las siguientes:
+
+a. Otorgar el permiso de relotificación de un fraccionamiento o desarrollo en condominio;
+
+b. Mantener coordinación con el SAPAL, la CFE y demás dependencias y entidades gubernamentales, para la aplicación conjunta de las disposiciones de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente código;
+
+c. Autorizar los desarrollos en condominio cuyo número de unidades o lotes sea inferior a 24;
+
+En materia de Construcciones:
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XXXIX.- Otorgar, negar, suspender o revocar el registro y refrendo a los DRO, proyectista arquitectónico, proyectista estructural, conformando para esto un padrón municipal, todo ello de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+
+XL. Conformar los expedientes derivados de los registros y refrendos previstos en la fracción anterior, en los términos del presente Código;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XLI.- Dictaminar sobre la ejecución de las actividades realizadas por los DRO, proyectista arquitectónico y proyectista estructural y peritos topógrafos, respecto a las cuales haya sido extendida su responsiva;
+
+XLII. Instaurar, substanciar y resolver los procedimientos administrativos que se generen con motivo de la fracción anterior, e imponer en su caso las sanciones a las que se hagan acreedores;
+
+En materia de Anuncios:
+
+XLIII. Asesorar y apoyar técnicamente a la Dirección General de Movilidad en materia de anuncios, emitiendo los dictámenes y opiniones correspondientes;
+
+XLIV. Ordenar los trabajos de mantenimiento y reparación de anuncios que fueren necesarios para garantizar su estabilidad, seguridad y buen aspecto;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+LXV.- Recibir y tramitar a través de la ventanilla única las solicitudes de dictámenes de impacto ambiental, vial, protección civil, seguridad contra incendios y/o de riesgo.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+LXV - A. Entregar los dictámenes a que se refiere la fracción anterior, para lo que las dependencias y entidades municipales correspondientes deberán designar un especialista en las materias antes señaladas que de manera permanentemente (sic) se encuentre físicamente en la Dirección para la elaboración de los dictámenes anteriormente referidos.
+
+XLVI. Elaborar y someter a la consideración del Ayuntamiento, los Planos de Zonas para la instalación de Anuncios para su aprobación, expedición y publicación correspondiente;
+
+XLVII. Evaluar y proponer al H. Ayuntamiento a través de la Comisión de Desarrollo Urbano, las modificaciones y actualizaciones necesarias a los Planos de Zonas para la instalación de Anuncios;
+
+XLVIII. Obtener del IMPLAN, cuando lo estime necesario, las opiniones técnicas correspondientes en materia de anuncios;
+
+XLIX. Coordinarse con las autoridades federales competentes para salvaguardar los inmuebles catalogados como Monumentos Arqueológicos, Históricos y Artísticos, con motivo de la instalación, fijación, colocación, modificación o retiro de anuncios;
+
+L. Establecer un registro de licencia y permisos otorgados de los anuncios;
+
+LI. Otorgar, negar, suspender o revocar el registro y refrendo a los especialistas estructurales en materia de anuncios, de conformidad con lo establecido en el presente Código, y demás normativa aplicable;
+
+LII. Conformar los expedientes derivados de los registros y refrendos previstos en la fracción anterior, en los términos del presente Código;
+
+LIII. Dictaminar sobre la ejecución de las actividades realizadas por los especialistas estructurales, respecto a los anuncios sobre los que haya sido extendida su responsiva;
+
+LIV. Instaurar, substanciar y resolver los procedimientos administrativos que se generen con motivo de la fracción anterior, e imponer en su caso las sanciones a las que se hagan acreedores;
+
+En materia de Nomenclatura y Número Oficial:
+
+LV. Conservar y reforzar la congruencia de la nomenclatura y numeración oficial;
+
+LVI. Revisar, evaluar y autorizar la asignación y modificación de nomenclatura a los bienes de uso común destinados a la vialidad, así como de las colonias, fraccionamientos, barrios, parques y jardines;
+
+LVII. Aprobar los cambios de numeración oficial que corresponda a las fincas, lotes baldíos y predios;
+
+LVIII. Revisar periódicamente el estado actual de las placas de nomenclatura;
+
+LIX. Vigilar y revisar que la nomenclatura y la numeración oficial existentes correspondan a las que les fue asignada, así como que esta última lleve un orden numérico;
+
+LX. Mantener vigente la cartografía básica de nomenclatura y el nomenclátor;
+
+LXI. Verificar periódicamente que la visibilidad de las placas de nomenclatura y los señalamientos de numeración oficial no se encuentren impedidos por elementos arbóreos o de otra índole, garantizando que se encuentren visibles para el peatón y conductor vehicular;
+
+LXII. Equipar de placas de nomenclatura a los bienes de uso común destinados a la vialidad, a excepción de aquéllos nuevos fraccionamientos o desarrollos en condominio sobre los cuales el desarrollador está obligado a instalar;
+
+En materia de Inspección Urbana:
+
+LXIII. Vigilar el cumplimiento del presente Código en los términos del Título Séptimo relativo al Procedimiento Administrativo en materia Urbana, ello mediante la ejecución de visitas de verificación e inspección, decretando en su caso las medidas de seguridad y sanciones que procedan;
+
+En general:
+
+LXIV. Desempeñar y aplicar las atribuciones y facultades que le sean delegadas a través del presente ordenamiento;
+
+LXV. Emitir en los términos del presente Código y demás normativa aplicable, los dictámenes de impacto ambiental, vial y/o de riesgo;
+
+LXVI. Solicitar dictámenes, opiniones técnicas, manifiestos, y cualquier otra información a las dependencias y entidades municipales, estatales y federales, que resulten necesarios para el desempeño de sus funciones; y,
+
+LXVII. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LAS AUTORIDADES AUXILIARES
 
 #### SECCIÓN PRIMERA. DEL INSTITUTO MUNICIPAL DE PLANEACION
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
-Dolo. Actúa dolosamente el que conociendo los elementos de la descripción típica o previendo como posible el resultado típico, quiere o acepta la realización del hecho punible descrito.
+Son atribuciones del IMPLAN las siguientes:
 
-También actúa dolosamente el que queriendo producir el resultado de afectación o puesta en peligro concreto, produce otro, por error en la persona o en el objeto, y se aplicará en este caso, la pena o medida de seguridad correspondiente al tipo comprobado, valorándose las circunstancias de configuración del hecho.
+I. Promover la participación ciudadana a través del Consejo Directivo de Planeación, organismos o dependencias, por medio de consultas públicas en el proceso de elaboración de estudios, programas y proyectos en materia de zonificación y usos del suelo;
+
+II. Proponer al H. Ayuntamiento las acciones a tomar, para promover el uso eficiente del suelo urbano y evitar el crecimiento descontrolado;
+
+III. Auxiliar, como asesor técnico, al H. Ayuntamiento en cambios a la zonificación del territorio municipal que les sean solicitados rindiendo dictámenes técnicos correspondientes;
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+III- A. Clasificar, reclasificar y asignar los usos del suelo en los Ejes Metropolitanos, Vías Primarias e Interbarrios, de manera conjunta y coordinada con la Dirección General de Desarrollo Urbano, dicho procedimiento, deberá estar soportado en un estudio técnico que avale su procedencia;
+
+IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las declaratorias de asignación de uso del suelo en zonas de reserva para el crecimiento (ZRC y ZRC-C);
+
+V. Rendir opinión sobre los estudios de compatibilidad urbana y propuestas en materia de usos del suelo, que la Dirección le turne;
+
+VI. Brindar asesoría técnica en materia de planeación urbana a las autoridades competentes y auxiliares de este Código;
+
+VII. Solicitar dictámenes, opiniones técnicas, manifiestos, y cualquier otra información a las dependencias y entidades municipales, estatales y federales, que resulten necesarios para el desempeño de sus funciones;
+
+VIII. Requerir la información que estime necesaria de los particulares, para el cumplimiento de su objeto; y,
+
+IX. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN SEGUNDA. DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO
 
-###### ARTÍCULO 15.
+###### Artículo 15.
 
-Culpa. Actúa culposamente el que realiza el hecho punible por incumplir un deber de cuidado que debía y podía haber observado, según sus condiciones personales y las circunstancias de realización del hecho.
+Son atribuciones del SAPAL las siguientes:
+
+I. Autorizar los proyectos de construcción e introducción de los sistemas de agua potable, alcantarillado sanitario y pluvial en las vías públicas de los fraccionamientos y desarrollos en condominio, así como los relativos a plantas de tratamiento de aguas residuales e infraestructura para saneamiento, en su caso;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Otorgar factibilidades de servicios de su competencia, buscando con ello la consolidación y crecimiento urbano ordenado, considerando las condiciones hidrológicas de la zona;
+
+III. Ordenar la realización de inspecciones a fin de verificar que se cumpla con los lineamientos marcados en el presente Código, únicamente en lo que hace a la construcción e introducción de los servicios de su competencia y, en su caso, notificar a la Dirección para la imposición de las sanciones y medidas de seguridad que resulten procedentes;
+
+IV. Identificar las áreas de servicio que requiera un fraccionamiento o desarrollo en condominio;
+
+V. Supervisar que la ejecución de las obras de construcción e introducción de los sistemas de agua potable, drenaje sanitario y pluvial en los fraccionamientos y desarrollos en condominio, así como las relativas a plantas de tratamiento de aguas residuales e infraestructura para saneamiento, se realicen conforme a las especificaciones técnicas establecidas en los proyectos respectivos;
+
+VI. Autorizar el proyecto de rasantes de vialidades para los fraccionamientos y los desarrollos en condominio; y,
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. Determinar para el caso de fraccionamientos y desarrollos en condominio, las obras que habrán de efectuarse para la regulación de aguas pluviales, en los términos del presente Código;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VIII. Operar y brindar el mantenimiento necesario al drenaje pluvial y al alcantarillado, que atraviese por predios particulares, siempre y cuando se haya constituido en escritura pública a su favor una servidumbre de paso; y,
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IX. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE OBRA PÚBLICA
 
-###### ARTÍCULO 16.
+###### Artículo 16.
 
-Determinación de la conducta culposa. Para que una conducta sea culposa debe determinarse:
+Son atribuciones de la Dirección de Obra las siguientes:
 
-I. El deber de cuidado motivo de observación, y la base legal de su existencia y obligatoriedad;
+I. Fijar los requisitos técnicos a que deberán sujetarse las obras de construcción, modificaciones o reparaciones en vías públicas, a fin de que se satisfagan las condiciones de seguridad, higiene, comodidad y estética;
 
-II. Si el deber de cuidado pudo ser observado por la persona según sus circunstancias personales y las condiciones del hecho;
+II. Ejecutar por cuenta del propietario del predio o de la construcción, las obras que el municipio a través de cualquier dependencia o entidad municipal con base en los ordenamientos municipales, le hubiere ordenado o requerido realizar y que dicho propietario en rebeldía no las haya llevado a cabo;
 
-III. El lugar, tiempo y circunstancias en que se incumplió el deber de cuidado; y
+III. Autorizar o negar, de acuerdo con este ordenamiento, la ocupación o el uso de la vía pública y edificios públicos, así como llevar a cabo las visitas de verificación e inspección respectivas; y,
 
-IV. Que el incumplimiento a tal deber de cuidado sea lo que provocó el resultado típico que se atribuye a la persona.
+IV. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
-## TÍTULO SEGUNDO. LA LEY PENAL
+## TÍTULO SEGUNDO. DE LA ZONIFICACIÓN Y USOS DEL SUELO
 
-### CAPÍTULO II. Conducta
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+###### Artículo 17.
 
-###### ARTÍCULO 17.
+Además de los objetivos generales previstos en este Código, son objetivos específicos del presente Título, los siguientes:
 
-Formas de intervención. Serán considerados interventores del hecho punible:
+I. Normar sobre las modificaciones de la zonificación y los usos del suelo del territorio municipal;
 
-I. Los autores, teniendo esa calidad:
+II. Normar sobre las densidades de población del territorio municipal;
 
-a) Los que realicen la actividad típica por sí solos;
+III. Regular el procedimiento para expedir las licencias, permisos, certificaciones, dictámenes, constancias y autorizaciones en materia de gestión urbana, precisando su objeto, naturaleza, requisitos y tiempos de respuesta al particular; y,
 
-b) Los que realicen la actividad típica conjuntamente; o
+IV. Normar los procedimientos de gestión urbana para lograr un desarrollo sustentable del Municipio.
 
-c) Los que realicen la actividad típica por medio de otro, del que se sirvan como instrumento.
+###### Artículo 18.
 
-II. Los partícipes, teniendo esa calidad:
+Los estudios, dictámenes o acuerdos para autorizar los diferentes usos del suelo en zonas, predios y lotes, deberán ser compatibles con lo dispuesto en el POTE vigente y cumplir con los requisitos y procedimientos que se señalan en este Código, demás leyes, reglamentos y manuales técnicos aplicables en materia urbana.
 
-a) Los que inducen dolosa y directamente al autor o coautores a ejecutar la actividad típica
+Ningún uso del suelo se podrá llevar a cabo sin que previamente se obtenga la licencia correspondiente, y se cumplan los requisitos que se establecen en este Código y demás disposiciones legales aplicables.
 
-b) Los que cooperan dolosamente en su ejecución con una conducta sin la cual no se habría efectuado;
+### CAPÍTULO II. DE LOS GRUPOS DE USOS DEL SUELO
 
-c) Los que cooperan dolosamente en la ejecución de la actividad típica con conductas anteriores o posteriores a la misma, previo acuerdo con el autor o coautores; y
+###### Artículo 19.
 
-d) Los que intervinieren dolosamente con otros en la comisión del hecho, aunque no conste cuál de ellos produjo directamente el resultado.
+Para los efectos de este Código los diferentes Usos del Suelo se agrupan de acuerdo a la intensidad de los mismos, los cuales estarán sujetos a compatibilidad dentro de las zonas marcadas por el Plano de Zonificación Municipal, dichos grupos son los siguientes:
 
-Los autores y partícipes a que se refiere el presente Artículo, responderán cada uno en la medida de su propia culpabilidad.
+Grupo de usos I: Habitacional densidad mínima;
 
-En los casos de complicidad correspectiva a que se refiere el inciso d) de la Fracción II del presente Artículo, se aplicará a los responsables hasta la mitad de la punibilidad señalada en la descripción típica que corresponda.
+Grupo de usos II: Habitacional densidad baja;
 
-###### ARTÍCULO 18.
+Grupo de usos III: Habitacional densidad media;
 
-Hecho punible emergente. Si varias personas toman parte en la realización de un hecho punible determinado y alguna de ellas realiza uno distinto, sin existir acuerdo con las otras, todas serán consideradas como inculpados en la comisión del nuevo hecho punible, salvo que concurran los requisitos siguientes:
+Grupo de usos IV: Habitacional densidad alta;
 
-I. Que el nuevo hecho punible no sirva de medio adecuado para cometer el principal o inicial;
+Grupo de usos V: Habitacional densidad libre;
 
-II. Que el nuevo hecho punible no sea una consecuencia necesaria o natural del principal o inicial, o de los medios utilizados; o
+Grupo de usos VI: Equipamiento urbano Vecinal;
 
-III. Que no se haya sabido antes que se iba a cometer el nuevo hecho punible.
+Grupo de usos VII: Equipamiento urbano Zonal;
 
-### CAPÍTULO III. Tipicidad
+Grupo de usos VIII: Equipamiento urbano Especializado;
 
-###### ARTÍCULO 19.
+Grupo de usos IX: Comercio de Intensidad Mínima;
 
-Comunicabilidad de las circunstancias. El aumento, disminución o exclusión de las penas o medidas de seguridad, fundados en las calidades, en las relaciones personales o en las circunstancias subjetivas del autor de un hecho delictivo, no son aplicables a los demás autores, partícipes o cómplices.
+Grupo de usos X: Comercio de Intensidad Baja;
 
-Son aplicables los que se fundan en circunstancias objetivas, si los demás autores, partícipes o cómplices tienen conocimiento de ellas en el momento de la realización del hecho.
+Grupo de usos XI: Comercio de Intensidad Media;
 
-###### ARTÍCULO 20.
+Grupo de usos XII: Comercio de Intensidad Alta;
 
-Ausencia de conducta. No existe conducta cuando se provoca un resultado de afectación o de puesta en peligro concreto por fuerza física irresistible, impedimento físico, movimientos reflejos o cualquier otro caso en que haya ausencia de voluntad del inculpado.
+Grupo de usos XIII: Servicios de Intensidad Mínima;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+Grupo de usos XIV: Servicios de Intensidad Baja;
 
-###### ARTÍCULO 21.
+Grupo de usos XV: Servicios de Intensidad Media;
 
-Responsabilidad de personas jurídicas. Las personas jurídicas serán penalmente responsables con excepción de las Instituciones del Estado, de los delitos cometidos a su nombre, por su cuenta, en su beneficio o a través de los medios que estas proporcionen, cuando se haya determinado que además existió inobservancia del debido control en su organización, con independencia de responsabilidad penal en que puedan incurrir sus representantes o administradores de hecho o de derecho.
+Grupo de usos XVI: Servicios de Intensidad Alta;
 
-La persona jurídica quedará excluida de responsabilidad penal si demuestra que cuenta con un debido control en su organización, a partir de los siguientes supuestos:
+Grupo de usos XVII: Servicios Carreteros;
 
-I. Que ha adoptado y ejecutado con eficacia, antes de la comisión del delito algún modelo de organización, gestión y prevención del delito acorde a su naturaleza, el volumen de sus operaciones y su objeto social;
+Grupo de usos XVIII: Taller Familiar;
 
-II. Que cuenta con un órgano encargado de la supervisión y seguimiento para el cumplimiento del modelo de organización, gestión y prevención del delito con facultades suficientes y preferentemente autónomo; y
+Grupo de usos XIX: Industria de intensidad baja;
 
-III. Que los hechos punibles por los que esté siendo investigada o imputada no se produjeron por una omisión deliberada o negligente de las funciones de supervisión y seguimiento, o bien, porque se haya dejado de aplicar debidamente el modelo de organización, gestión y prevención o no se haya actualizado suficientemente a nuevas formas de funcionamiento, giros sociales o comerciales o no se haya adecuado a cambios normativos generales.
+Grupo de usos XX: Industria de intensidad media;
 
-Los modelos de organización, gestión y prevención del delito, para poder ser considerados como una forma de exclusión de la responsabilidad penal para la persona jurídica, deberán estar diseñados e implementados al menos con las siguientes características:
+Grupo de usos XXI: Industria de intensidad alta;
 
-a) Identificar y abarcar todos los giros, operaciones y actividades susceptibles de generar actos u omisiones que se encuentren considerados en la ley como figuras típicas punibles;
+Grupo de usos XXII: Actividades de Riesgo;
 
-b) Contemplar procedimientos, lineamientos, protocolos, códigos o cualquier otra norma interna para el adecuado funcionamiento de las actividades desarrolladas por la organización;
+Grupo de usos XXIII: Uso Ecológico;
 
-c) Disponer de modelos de gestión de los recursos financieros que permitan evitar o prevenir la comisión de delitos o conductas que puedan ser consideradas como operaciones con recursos de procedencia ilícita o cualquiera otra contemplada como actos de corrupción;
+Grupo de usos XXIV: Uso Agrícola;
 
-d) Contar con algún esquema que permita a los órganos de supervisión y vigilancia conocer y anticiparse a los posibles riesgos y formas de comisión de conductas consideradas en la ley como delitos;
+Grupo de usos XXV: Uso Forestal; y,
 
-e) Adoptar sistemas de control disciplinario para aplicar consecuencias tanto positivas como negativas al cumplimiento e incumplimiento de los miembros de la organización respecto de la normatividad interna implementada; y
+Grupo de usos XXVI: Uso Pecuario.
 
-f) Promover la actualización constante de los protocolos y normas internas de la organización, así como de los modelos de supervisión y control, que mantengan la eficacia del modelo organizacional.
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+Grupo de usos XXVII: Servicios de Alojamiento Temporal, en zonas de reserva forestal y ecológica.
 
-ARTÍCULO 21 A.- Las personas jurídicas únicamente podrán ser sujetos procesales de investigación e imputación penal por los hechos que la ley señala como delito consumados o tentados, siguientes:
+###### Artículo 20.
 
-I. Homicidio doloso y culposo;
+Grupo de usos I
 
-II. Feminicidio;
+Habitacional densidad mínima:
 
-III. Aborto doloso y culposo;
+1.- Norma de Intensidad: hasta 50 habitantes/hectárea;
 
-IV. Lesiones dolosas y culposas;
+2.- Dimensión mínima del predio: 800 metros cuadrados; y,
 
-V. Hostigamiento sexual;
+3.- Frente mínimo del predio: 20 metros lineales.
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-VI. Abuso sexual;
+###### Artículo 21.
 
-VII. Corrupción de menores e incapaces;
+Grupo de usos II
 
-VIII. Pornografía infantil o de incapaces;
+Habitacional densidad baja:
 
-IX. Violación y Violación equiparada;
+1.- Norma de Intensidad: hasta 120 habitantes/hectárea;
 
-X. Fecundación artificial indebida;
+2.- Dimensión mínima del predio: 450 metros cuadrados en fraccionamientos urbanos tipo A;
 
-XI. Tráfico de menores;
+3.- Frente mínimo del predio: 15 metros lineales fraccionamientos urbanos tipo A;
 
-XII. Privación Ilegal de la libertad;
+4.- Dimensión mínima del predio: 300 metros cuadrados en fraccionamientos urbanos tipo B; y,
 
-XIII. Desaparición forzada de personas;
+5.- Frente mínimo del predio: 10 metros lineales fraccionamientos urbanos tipo B.
 
-XIV. Robo, robo equiparado, robo calificado;
+###### Artículo 22.
 
-XV. Abigeato, abigeato equiparado y abigeato calificado;
+Grupo de usos III
 
-XVI. Abuso de confianza;
+Habitacional densidad media:
 
-XVII. Fraude;
+1.- Norma de Intensidad: hasta 450 habitantes/hectárea;
 
-XVIII. Usura;
+2.- Dimensión mínima del predio: 140 metros cuadrados; y,
 
-XIX. Extorsión;
+3.- Frente mínimo del predio: 8 metros lineales.
 
-XX. Despojo;
+###### Artículo 23.
 
-XXI. Daño en las cosas doloso y culposo;
+Grupo de usos IV
 
-XXII. Atentados al desarrollo urbano ordenado;
+Habitacional densidad alta:
 
-XXIII. Responsabilidad profesional médica;
+1.- Norma de Intensidad: hasta 900 habitantes/hectárea;
 
-XXIV. Responsabilidad médica asistencial;
+2.- Dimensión mínima del predio: 105 metros cuadrados; y,
 
-XXV. Quebrantamiento de sellos;
+3.- Frente mínimo del predio: 6 metros lineales.
 
-XXVI. Cohecho;
+###### Artículo 24.
 
-XXVII. Peculado;
+Grupo de usos V
 
-XXVIII. Tráfico de influencia;
+Habitacional densidad libre:
 
-XXIX. Encubrimiento;
+Norma de Intensidad: Más de 900 habitantes/hectárea.
 
-XXX. Revelación de secretos;
+###### Artículo 25.
 
-XXXI. Acceso informático indebido;
+Grupo de uso VI
 
-XXXII. Suplantación de identidad;
+Equipamiento urbano vecinal:
 
-XXXIII. Violación a la intimidad personal;
+Norma de Intensidad: hasta 10,000 habitantes por radio de influencia.
 
-XXXIV. Ataques a las vías de comunicación y medios de transporte, doloso y culposo;
+###### Artículo 26.
 
-XXXV. Defraudación fiscal;
+Grupo de usos VII
 
-XXXVI. Atentados al equilibrio ecológico doloso y culposo;
+Equipamiento urbano zonal:
 
-XXXVII. Discriminación;
+Norma de Intensidad: hasta 100,000 habitantes por radio de influencia.
 
-XXXVIII. Asedio laboral; o
+###### Artículo 27.
 
-XXXIX. Atentados a la salud pública.
+Grupo de usos VIII
 
-###### ARTÍCULO 22.
+Equipamiento urbano especializado:
 
-La tipicidad. La tipicidad se integra cuando la conducta desplegada por el sujeto activo se adecua a los elementos contenidos en la descripción típica establecida en la norma penal.
+Norma de Intensidad: Más de 100,000 habitantes por radio de influencia.
 
-###### ARTÍCULO 23.
+###### Artículo 28.
 
-Elementos de la descripción típica. Se considerará adecuada la conducta a la descripción típica cuando se reúnan los siguientes elementos:
+Grupo de usos IX
 
-I. Bien jurídico tutelado por la figura típica;
+Comercio de Intensidad Mínima:
 
-II. El resultado de afectación o de puesta en peligro concreto del bien jurídico tutelado, y su imputación objetiva a la acción u omisión;
+1.- Norma de Intensidad: Hasta 5 personas activas;
 
-III. La acción o movimiento corporal establecida en la figura típica, adecuada para producir el resultado; o la omisión o no realización de una actividad ordenada en la figura típica, adecuada para evitar el resultado;
+2.- Dimensión máxima del predio: 90 metros cuadrados; y,
 
-IV. La víctima o sujeto pasivo, titular del bien jurídico tutelado, tomando en cuenta las calidades que requiera la figura típica;
+3.- Servicio de carga y descarga: Hasta camioneta de 1 tonelada.
 
-V. El inculpado o sujeto activo, por haber ejecutado la acción u omisión como autor o partícipe, tomando en cuenta las calidades que requiera la figura típica;
+###### Artículo 29.
 
-VI. El objeto material, persona o entidad sobre el que recae la conducta establecida en la figura típica;
+Grupo de usos X
 
-VII. Las referencias de medios, tiempo, lugar, modo y ocasión que pueda requerir la descripción típica;
+Comercio de Intensidad Baja:
 
-VIII. Los elementos normativos que puedan exigirse en la particular descripción típica, que requieran un especial juicio de valoración jurídica o cultural; y
+1.- Norma de Intensidad: Hasta 15 personas activas;
 
-IX. El dolo o la culpa según lo requiera el particular tipo penal.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 24.
+2.- Dimensión máxima del predio: 300 metros cuadrados; y,
 
-Atipicidad. No existe tipicidad cuando falte alguno de los elementos que integren la figura típica que corresponda.
+3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-###### ARTÍCULO 25.
+###### Artículo 30.
 
-Error de tipo. Tampoco existirá tipicidad cuando se ejecute la acción u omisión bajo un error invencible respecto de alguno de los elementos esenciales que integren la figura típica que corresponda.
+Grupo de usos XI
 
-###### ARTÍCULO 26.
+Comercio de Intensidad Media:
 
-La antijuridicidad. Un hecho punible se considera antijurídico cuando el inculpado incumple un mandato o viola una prohibición y afecta o pone en peligro concreto un interés jurídicamente tutelado por la figura típica que corresponda, sin estar justificado para actuar de esa manera.
+1.- Norma de Intensidad: Hasta 100 personas activas;
 
-###### ARTÍCULO 27.
+2.- Dimensión máxima del predio: 1600 metros cuadrados; y,
 
-Causas de Justificación. La realización de una conducta típica y antijurídica, se justifica:
+3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-I. Cuando exista consentimiento válido del titular del bien jurídico, o del legitimado jurídicamente para otorgarlo, y siempre que el bien jurídico afectado sea de aquellos de que puedan disponer libremente los particulares;
+###### Artículo 31.
 
-II. Cuando se actúa en defensa de bienes jurídicos propios o ajenos, repeliendo una agresión imprevista, actual o inminente, sin derecho, y siempre que exista la necesidad razonable del medio empleado para impedirla o rechazarla, y que no medie provocación suficiente e inmediata por parte del agredido o de la persona a quien se defienda;
+Grupo de usos XII
 
-III. Cuando en situación de peligro grave, actual o inminente, para un bien jurídico, propio o ajeno, se afecte otro bien jurídico de igual o menor jerarquía, para evitar un resultado mayor, siempre que el titular del bien salvado no haya provocado dolosamente el propio peligro y que no se tenga al alcance otro medio utilizable y menos perjudicial;
+Comercio de Intensidad Alta:
 
-IV. Cuando se afecte a una persona en cumplimiento de un deber jurídico, siempre y cuando no exista el sólo propósito de causarle daño; o
+1.- Norma de Intensidad: Más de 100 personas activas;
 
-V. Cuando se actúa por obediencia legítima y jerárquica, aún cuando la orden constituya comisión de un hecho delictivo, si esta circunstancia no es notoria, ni se prueba que el sujeto activo la conocía, ni era previsible racionalmente.
+2.- Dimensión del predio: Más de 1601 metros cuadrados; y,
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+3.- Servicio de carga y descarga: Trailer (Transporte Pesado).
 
-Se justificará igualmente la conducta típica y antijurídica, cuando se cause, a la persona o las personas, un daño suficiente para evitar la introducción o los actos idóneos tendientes a introducirse, sin derecho, a su negocio, su hogar o sus dependencias, a los de su familia, a los de cualquier persona que tenga el deber de defender, o al sitio donde se encuentren bienes jurídicos propios o ajenos sobre los que tenga la misma obligación.
+###### Artículo 32.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+Grupo de usos XIII
 
-También se justificará la conducta típica y antijurídica, cuando se cause un daño suficiente para evitar cualquier agresión real, actual e inminente, que se cometa en el interior o en las dependencias de una negociación o de una casa habitación.
+Servicio de Intensidad Mínima:
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+1.- Norma de Intensidad: Hasta 5 personas activas;
 
-Para determinar la relación de suficiencia en los supuestos descritos en los dos párrafos anteriores, se tomará en cuenta la furtividad y la violencia que, sobre las personas o sobre las cosas, haya ejercido el agresor para introducirse al inmueble o que ejerza para mantenerse dentro de él.
+2.- Dimensión máxima del predio: 90 metros cuadrados; y,
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+3.- Servicio de carga y descarga: Hasta camioneta de 1 tonelada.
 
-En los casos de exceso de legítima defensa se impondrá una cuarta parte de la sanción prevista para el delito de que se trate, quedando subsistente la imputación a título doloso.
+###### Artículo 33.
 
-###### ARTÍCULO 28.
+Grupo de usos XIV
 
-La culpabilidad. Para que la conducta típica y antijurídica pueda ser considerada delictiva, debe además realizarse culpablemente.
+Servicio de Intensidad Baja:
 
-La culpabilidad consiste en el juicio de reproche que formula la autoridad judicial al inculpado, por ser éste imputable, haya realizado la conducta típica y antijurídica conociendo la ilicitud de su actuar, y se encontraba en condiciones de actuar sin contrariar la norma penal.
+1.- Norma de Intensidad: Hasta 15 personas activas;
 
-###### ARTÍCULO 29.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Imputabilidad. Es imputable la persona que tiene capacidad para comprender la naturaleza e ilicitud de la conducta que realizó, y conducirse con base a esa comprensión.
+2.- Dimensión máxima del predio: 300 metros cuadrados; y,
 
-###### ARTÍCULO 30.
+3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-Inimputabilidad y acción libre en su causa. Si el inculpado, al realizar la conducta típica productora del resultado de afectación o de puesta en peligro concreto, padece trastorno mental o se encuentra en una etapa de desarrollo intelectual retardado, que le impida comprender el carácter ilícito del hecho o conducirse de acuerdo a esa comprensión, atendiendo a las peculiaridades de su personalidad y a las circunstancias específicas de su comportamiento, los tribunales, tomando en cuenta opinión médica especializada sobre las características personales de tal inculpado, ordenará la aplicación de una medida de seguridad.
+###### Artículo 34.
 
-Lo dispuesto en el párrafo anterior no se aplica en los casos en que el inculpado hubiere provocado dolosamente su estado de trastorno mental en cuyo caso se considerará imputable y responderá por el resultado típico producido en tal situación.
+Grupo de usos XV
 
-###### ARTÍCULO 31.
+Servicio de Intensidad Media:
 
-Inculpabilidad, error de prohibición y no exigibilidad de otra conducta. No se formulará juicio de reproche al inculpado que:
+1.- Norma de Intensidad: Hasta 100 personas activas;
 
-I. Realice la conducta típica y antijurídica, bajo miedo o temor de un mal actual y grave, sea o no provocado por el actuar de un tercero;
+2.- Dimensión máxima del predio: 1600 metros cuadrados; y,
 
-II. Realice la conducta típica y antijurídica, bajo un error invencible sobre la ilicitud de la conducta, ya sea porque desconozca la existencia de la norma o su alcance, o porque crea que está justificada su conducta; o
+3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-III. Cuando razonablemente no pueda exigírsele una conducta diversa, en virtud de no haberse podido conducir conforme a derecho.
+###### Artículo 35.
 
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2025)</small>
+Grupo de usos XVI
 
-En aquellos casos en que se analice la conducta de una mujer o se actúe en defensa de ésta, la autoridad deberá actuar con perspectiva de género para determinar la procedencia.
+Servicio de Intensidad Alta:
 
-###### ARTÍCULO 32.
+1.- Norma de Intensidad: Más de 100 personas activas;
 
-Punibilidad en caso de errores vencibles. Los errores previstos en los Artículos 25 y 31 de este Código se considerarán vencibles si las condiciones personales del inculpado y las circunstancias en que se encontraba le permitían advertir con facilidad su falsa apreciación de la realidad, para salir de su error.
+2.- Dimensión del predio: Más de 1601 metros cuadrados; y,
 
-Cuando los errores a que se refiere el presente capítulo sean vencibles:
+3.- Servicio de carga y descarga: Hasta Trailer.
 
-I. La sanción será la establecida en la figura típica culposa, si el hecho de que se trata admite tal configuración; o
+###### Artículo 36.
 
-II. En caso de que el hecho no admita configuración culposa, se aplicará al responsable hasta la mitad de la punibilidad prevista en la figura típica de que se trate.
+Grupo de usos XVII
 
-###### ARTÍCULO 33.
+Servicios Carreteros:
 
-Concurso ideal de delitos. Existe concurso ideal cuando con una sola conducta se producen varios resultados de afectación o de puesta en peligro concreto.
+1.- Norma de Intensidad: Actividades con afluencia continúa de transporte de carga, acopio de chatarra o actividades relacionadas con el medio rural;
 
-###### ARTÍCULO 34.
+2.- Dimensión mínima del predio: 1000 metros cuadrados; y,
 
-Concurso real de delitos. Existe concurso real cuando con pluralidad de conductas se producen varios resultados de afectación o de puesta en peligro concreto. No hay concurso en los casos de delito continuado.
+3.- Servicio de carga y descarga: Hasta Trailer.
 
-###### ARTÍCULO 35.
+###### Artículo 37.
 
-Punibilidad en concurso de delitos. En los casos de concurso ideal, se tendrá en cuenta la punibilidad correspondiente a la figura típica que establezca la mayor, la cual se aumentará hasta en una mitad más del máximo de su duración.
+Grupo de usos XVIII
 
-En los casos de concurso real, se impondrán las penas descritas en cada figura típica demostrada, unificándose las mismas en una sola, para efectos de ejecución.
+Taller familiar:
 
-###### ARTÍCULO 36.
+1.- Norma de Intensidad: Hasta 5 personas activas;
 
-Tentativa Punible. Existe tentativa punible cuando la resolución de provocar un resultado lesivo se exterioriza realizando los actos idóneos que deberían producirlo u omitiendo los adecuados que deberían evitarlo, si aquél no se consuma por causas ajenas a la voluntad del inculpado, pero se provoca con ello la puesta en peligro concreto del bien jurídico protegido por la norma.
+2.- Dimensión máxima del predio: 120 metros cuadrados; y,
 
-Para la aplicación de penas o medidas de seguridad en los casos de tentativa, los tribunales tendrán en cuenta el grado a que se hubiese llegado en la ejecución del hecho de contenido doloso.
+3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-Si el inculpado desiste espontáneamente de la realización de la conducta o impide la consumación del hecho punible, no se le impondrá sanción por lo que a éste se refiere, a menos que las conductas ejecutadas por sí mismas constituyan hechos punibles diversos, en cuyo caso se le impondrá la pena o medida de seguridad señalada para éstos.
+###### Artículo 38.
 
-###### ARTÍCULO 37.
+Grupo de usos XIX
 
-Punibilidad en tentativa. En los casos de tentativa, la punibilidad establecida en la figura típica del hecho que el inculpado quiso realizar, se reducirá a la mitad en sus mínimos y máximos.
+Industria de Intensidad Baja:
 
-###### ARTÍCULO 38.
+1.- Norma de Intensidad: Hasta 50 personas activas;
 
-Exclusión de punibilidad. Cuando el responsable hubiese sufrido consecuencias graves en su persona, tenga 60 años cumplidos, padezca enfermedad grave e incurable en estado avanzado, o tenga precario estado de salud, que hicieran notoriamente innecesaria o irracional la aplicación de una pena privativa o restrictiva de la libertad, el juez podrá prescindir de ella.
+2.- Dimensión máxima del predio: 600 metros cuadrados; y,
 
-Si se trata de un hecho punible culposo cometido en contra de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado del responsable, o cuando el responsable en ocasión de un hecho punible culposo haya sufrido un daño moral de difícil reparación, el juez podrá prescindir de la aplicación de penas privativas o restrictivas de libertad. Esta disposición no se considerará si el responsable en el momento de la realización del hecho, se encontrare bajo el efecto de bebidas embriagantes o narcóticos, o no auxiliare debidamente a las víctimas.
+3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2026)</small>
+###### Artículo 39.
 
-ARTÍCULO 38 BIS.- Reincidencia. Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de los Estados Unidos Mexicanos o del extranjero, cometa otro delito en la entidad, si no ha transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la pena, salvo las excepciones de los delitos señalados como imprescriptibles.
+Grupo de usos XX
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+Industria de Intensidad Media:
 
-Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta en dos terceras partes de sus mínimos y máximos de la pena establecida en el tipo penal correspondiente.
+1.- Norma de Intensidad: Hasta 100 personas activas;
 
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+2.- Dimensión máxima del predio: 2000 metros cuadrados; y,
 
-En la determinación sobre la existencia de la reincidencia se comprenden los casos en que exista la tentativa punible del tipo penal que corresponda, sea cual fuere el carácter con que intervenga el responsable.
+3.- Servicio de carga y descarga: Hasta trailer.
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+###### Artículo 40.
 
-ARTÍCULO 38 TER.- Agravantes. Existen agravantes cuando durante la realización de la conducta típica concurren circunstancias que aumentan la responsabilidad penal de un delito.
+Grupo de usos XXI
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+Industria de Intensidad Alta:
 
-ARTÍCULO 38 QUATER.- Cuando la realización de un hecho punible contemplado en este Código Penal, se haga mediante o utilizando como herramienta, el uso de los sistemas de inteligencia artificial, se le aumentarán las penas previstas en el delito que fuese realizado hasta en una mitad más respecto a sus mínimos y máximos, únicamente en aquellos casos en los que no exista disposición expresa, que sancione el uso de la inteligencia artificial en la comisión del delito que corresponda.
+1.- Norma de Intensidad: Más de 100 personas activas;
 
-Para efectos del párrafo anterior, se entenderá por sistemas de inteligencia artificial aquellos basados en máquinas que están diseñados para funcionar con distintos niveles de autonomía y que pueden mostrar capacidad de adaptación tras el despliegue, y que, para objetivos explícitos o implícitos, infiere de la información de entrada que recibe, la manera de generar resultados de salida, como predicciones, contenidos, recomendaciones o decisiones, que pueden influir en entornos físicos o virtuales. Esto considera softwares como asistentes virtuales, de análisis de imágenes, motores de búsqueda o sistemas de reconocimiento de voz y rostro; o inteligencia artificial integrada como robots, drones, vehículos autónomos o el internet de las cosas.
+2.- Dimensión del predio: Más de 2000 metros cuadrados; y,
 
-###### ARTÍCULO 39.
+3.- Servicio de carga y descarga: Hasta Trailer.
 
-Individualización de las sanciones. El juez al dictar la sentencia que corresponda, fijará las sanciones que estime justas dentro de los límites señalados en cada figura típica, teniendo en cuenta los aspectos objetivos y subjetivos del hecho, la afectación o puesta en peligro concreto del bien jurídico, las circunstancias de modo, tiempo y lugar de realización, los motivos determinantes de la conducta, la forma de intervención, la relación víctima victimario, y las demás circunstancias que determinen la gravedad del hecho y la culpabilidad del responsable.
+###### Artículo 41.
 
-Para la adecuada aplicación de las sanciones, el juzgador deberá tomar conocimiento directo del inculpado y de la víctima, así como de las circunstancias de realización del hecho punible.
+Grupo de usos XXII
 
-###### ARTÍCULO 40.
+Actividades de Riesgo:
 
-Las Penas. Las penas que pueden imponerse son:
+Norma de Intensidad: Manejo de materiales, procesos o residuos: corrosivos, reactivos, explosivos, tóxicos, flamables y biológico infecciosos; normados por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y por las Normas Oficiales Mexicanas correspondientes y en vigor, y demás disposiciones Estatales o Municipales en la materia.
 
-I. Prisión;
+###### Artículo 42.
 
-II. Multa;
+Grupo de usos XXIII
 
-III. Decomiso;
+Uso Ecológico: Norma de Intensidad: Áreas verdes urbanas, públicas o privadas y áreas naturales protegidas.
 
-IV. Reparación del daño; y
+###### Artículo 43.
 
-V. Suspensión, privación o inhabilitación de derechos.
+Grupo de usos XXIV
 
-###### ARTÍCULO 41.
+Uso Agrícola:
 
-La prisión. La Prisión consiste en la privación de la libertad personal del responsable, con la posibilidad de imposición de trabajo y estudio obligatorios, y se ejecutará en los establecimientos o lugares y con las modalidades que al efecto señale el presente Código y la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+Norma de Intensidad: Actividades rurales dedicadas a la siembra, cosecha y almacenaje de productos vegetales.
 
-Tan pronto como un sentenciado a pena de prisión ingrese a un establecimiento, se le realizará un estudio de su personalidad y se establecerá un programa de reinserción social, teniendo en cuenta los datos obtenidos sobre sus necesidades individuales, su capacidad y sus intereses.
+###### Artículo 44.
 
-Para efecto de este Código, la reinserción social se entenderá como un conjunto de condiciones y bases del respeto a los derechos humanos, del trabajo, capacitación para el mismo, educación, salud y deporte como medios para garantizar el desarrollo social del sentenciado, procurando que no vuelva a delinquir y lleve una vida de respeto a la norma, en términos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y el derecho internacional en materia de derechos humanos del que el Estado Mexicano sea parte.
+Grupo de usos XXV
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+Uso Forestal: Norma de Intensidad: Actividades rurales dedicadas al manejo y aprovechamiento de los bosques.
 
-En toda pena de prisión, se computará el tiempo de la prisión preventiva a favor del sentenciado.
+###### Artículo 45.
 
-###### ARTÍCULO 42.
+Grupo de usos XXVI
 
-Efectos de la prisión. La Pena de Prisión produce la Suspensión de los derechos políticos, así como los de tutela, curatela, apoderado, defensor, albacea, perito, depositario, interventor, síndico o representante de ausentes, y dejará de surtir sus efectos al momento en que la autoridad ejecutora dé por cumplida la referida pena de prisión, sea por compurgación total o por obtención de beneficios, y se informará de ello, mediante oficio, a las autoridades que hayan tenido conocimiento de tal situación.
+Uso Pecuario: Norma de Intensidad: Actividades rurales dedicadas a la ganadería, piscicultura y avicultura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 43.
+###### Artículo 45 - A.
 
-Sustitutivos de prisión. La pena de prisión puede ser sustituida por el juez, en procesos seguidos por hechos punibles no considerados de prisión preventiva oficiosa por el Código Nacional de Procedimientos Penales, atendiendo a las condiciones personales del sentenciado, por:
+Grupo de usos XXVII
 
-I. Multa o trabajo en favor de la comunidad, cuando no exceda de dos años;
+Servicio de Alojamiento Temporal: Norma de Intensidad: Actividades con fines de ocio y recreación, por lo que no se permitirá el establecimiento de asentamientos humanos y/o centros de población.
 
-II. Trabajo en favor de la comunidad, cuando no exceda de tres años;
+###### Artículo 46.
 
-III. Tratamiento en libertad, cuando no exceda de cuatro años; y
+A excepción de los Usos Habitacionales de cualquier tipo y en desarrollos autorizados, para el resto de las actividades y usos el solicitante deberá presentar conjuntamente con la solicitud de información de uso de suelo, un Informe de actividades y procesos, a la Dirección.
 
-IV. Semilibertad, cuando no exceda de cinco años.
+###### Artículo 47.
 
-En el caso de la Fracción I, cuando se opte por la sustitución de la pena de prisión por multa, aquella podrá ser sustituida de uno a dos tantos de la multa impuesta como pena en la sentencia que corresponda.
+Una vez que la Dirección cuente con el Informe de actividades y procesos, determinará si el uso solicitado corresponde o no al grupo de usos de actividades de riesgo, dictaminando en tal caso, si se cumple con los radios de riesgo indicados en el Manual Técnico de Usos del Suelo.
 
-La multa que resulte de la sustitución es independiente de la establecida, en su caso, como pena. Ambas deben pagarse totalmente para que proceda la sustitución.
+###### Artículo 48.
 
-###### ARTÍCULO 44.
+A partir de dicho Informe de actividades y procesos, la Dirección de (sic) determinará cuáles usos requieren la MIA y la MIV y los estudios de riesgo señalando las medidas de seguridad a efecto de mitigar los impactos que se pudieran generar.
 
-Trabajo en favor de la comunidad. El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, en instituciones públicas educativas o de asistencia social o en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de periodos distintos al horario de las labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora. Por ningún concepto se desarrollara este trabajo en forma que resulte degradante o humillante para el condenado.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-El trabajo en favor de la comunidad puede ser sustitutivo tanto de la prisión o de la multa. Cada día de prisión o cada día multa, podrá ser sustituido por una jornada de trabajo en favor de la comunidad.
+###### Artículo 49.
 
-La jornada de trabajo tendrá una duración de tres horas. El número de jornadas de trabajo a favor de la comunidad serán fijadas por el Juez de Ejecución tomando en cuenta las circunstancias del caso, pero no podrán exceder de la correspondiente a la pena de prisión sustituida.
+En el caso de los usos del suelo que requieran la MIA y/o estudios de Riesgo, los particulares deberán obtener de la Dirección y/o de las entidades estatales y federales correspondientes, el dictamen de impacto ambiental, así como el dictamen de riesgo, previamente a solicitar la licencia de construcción; en caso de tratarse de algún inmueble ya edificado o un predio al que se le pretenda dar un uso sin realizar ningún tipo de construcción, el dictamen de impacto ambiental y el dictamen de riesgo, deberán presentarse para el otorgamiento de la licencia del uso del suelo.
 
-###### ARTÍCULO 45.
+###### Artículo 50.
 
-Tratamiento en libertad. El tratamiento en libertad consiste en la aplicación de las medidas laborales, educativas, curativas y deportivas conducentes a la reinserción social del sentenciado, bajo la orientación y el cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+Los usos de suelo a desarrollarse en lotes o predios que requieran la MIV, serán los clasificados como:
 
-###### ARTÍCULO 46.
+I. Habitacional de Alta Densidad;
 
-Semilibertad. La Semilibertad implica alternación de períodos de privación de libertad y de tratamiento en libertad, y su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
+II. Comercios, Servicios e Industria de Alta Intensidad; y,
 
-Se ejecutará según las circunstancias del caso, y en las instalaciones propias y construidas para el efecto, del siguiente modo:
+III. Servicios Carreteros, Actividades de Riesgo.
 
-I. Externación durante la jornada de trabajo o educativa, con reclusión de fin de semana;
+De igual forma tratándose de cualquier solicitud que implique el nuevo desarrollo de una zona, deberán realizarse los estudios mencionados, como antecedente para el otorgamiento de la licencia de uso de suelo o de construcción.
 
-II. Salida de fin de semana con reclusión durante el resto de ésta; o
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-III. Salida diurna con reclusión nocturna, o viceversa.
+###### Artículo 51.
 
-###### ARTÍCULO 47.
+Para la Instalación de cualquier uso comercial, de servicios o industrial que contemple dos ó más locales individuales, el predio en su conjunto habrá de reunir las normas de intensidad, dimensiones y parámetros para el servicio de carga y descarga, que estatuye el presente Código para cada grupo de uso del suelo.
 
-Procedencia de los sustitutivos. Para que proceda la sustitución, se requiere que el sentenciado pague totalmente la reparación de los daños y perjuicios causados y el juzgador estime la conveniencia de este medio en atención a sus fines y a las condiciones personales del beneficiado.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 48.
+### CAPÍTULO III. USOS DE SUELO ESPECIALES
 
-Revocación de los sustitutivos. La sustitución dejará de surtir sus efectos y se procederá a ejecutar la pena de prisión impuesta, cuando el sentenciado no cumpla las condiciones que le hayan sido fijadas para el efecto, o se le declare responsable en la comisión de otro hecho delictivo doloso.
+###### Artículo 52.
 
-En caso de hacerse efectiva la pena de prisión sustituida, se tomará en cuenta el tiempo durante el cual el sentenciado hubiese cumplido con los términos de la sustitución.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Suspensión condicional de la pena de prisión. Se podrá de oficio suspender condicionalmente la ejecución de la pena de prisión que no exceda de dos años en beneficio del sentenciado, si se cubren los siguientes requisitos:
+###### Artículo 53.
 
-I. Que sea la primera vez que delinque el responsable del hecho y ha observado buena conducta, en general;
+Los usos especiales se encuentran regulados en el Manual Técnico de Usos del Suelo, y serán autorizados por la Dirección, a través de las licencias de construcción y de uso del suelo, según corresponda, para lo cual, además de observarse lo dispuesto por el presente Código para la expedición de dichas licencias, se estará a lo que estatuyen las NOM, las disposiciones o especificaciones técnicas que una autoridad o ente normativo en la materia determinen, así como a lo que señala el Manual Técnico de las Construcciones y el mencionado Manual Técnico de Usos del Suelo.
 
-II. Que por sus antecedentes personales y modo honesto de vivir, así como la naturaleza, modalidades y móviles del hecho delictivo, se presuma fundadamente que no se volverá a delinquir;
+### CAPÍTULO IV. DE LAS NORMAS TÉCNICAS DE ZONIFICACIÓN MUNICIPAL
 
-III. Que durante el desarrollo del procedimiento penal no se haya sustraído de la acción de la justicia;
+###### Artículo 54.
 
-IV. Que haya pagado totalmente la reparación de daños y perjuicios, en su caso; y
+Para los efectos de este Código, los tipos de zonas ubicadas en el Municipio, se clasifican e identifican en forma ascendente de intensidad, excluyendo las zonas de reserva y parques, siendo las siguientes:
 
-V. Que no haya necesidad de sustituir la pena de prisión, en función del fin para el que fue impuesta.
+Zonas habitacionales (H):
 
-###### ARTÍCULO 50.
+HR Habitacional campestre rústico;
 
-Garantías para otorgarla suspensión condicional. Para gozar del beneficio de la suspensión condicional, el sentenciado deberá:
+H1 Habitacional campestre residencial;
 
-I. Garantizar su comparecencia ante el Juez de Ejecución, cada vez que sea requerido y no causar daños o molestias a la víctima u ofendidos del hecho;
+H2 Habitacional residencial de densidad baja;
 
-II. Obligarse a residir en determinado lugar e informar cualquier cambio de residencia al Juez de Ejecución;
+H3 Habitacional residencial de densidad baja y usos mixtos condicionados;
 
-III. Comprobar que desarrollará una ocupación lícita; y
+H4 Habitacional de densidad media;
 
-IV. Abstenerse del abuso de bebidas embriagantes y del empleo de narcóticos u otras substancias que produzcan efectos similares, salvo que sea por prescripción médica.
+H5 Habitacional de densidad media y usos mixtos de comercio y servicio de intensidad media;
 
-###### ARTÍCULO 51.
+H6 Usos mixtos de comercio y servicio de intensidad media, industria ligera y mediana con Habitacional de densidad media;
 
-Efectos de la suspensión condicional. La suspensión condicional de la pena de prisión comprenderá la multa que haya sido impuesta conjuntamente con aquélla. En cuanto a las demás penas impuestas, el juzgador resolverá discrecionalmente sobre las mismas, al igual que sobre las medidas de seguridad.
+H6-E Habitacional de densidad media y usos mixtos de comercio, servicio e industria dentro de las Zonas de Protección de Monumentos;
 
-### CAPÍTULO IV. Antijuridicidad
+H7 Habitacional de densidad alta; y,
 
-###### ARTÍCULO 52.
+H8 Habitacional de densidad alta con usos mixtos de comercio y servicio de intensidad media e industria ligera y mediana.
 
-Duración y revocación de la suspensión condicional. La suspensión condicional tendrá la duración de la pena de prisión suspendida. Transcurrido el término, se considerará extinguida la pena de prisión impuesta, siempre que el sentenciado no diere motivo para un nuevo procedimiento penal que concluya con sentencia condenatoria. Si esto sucediere, se ejecutarán en forma sucesiva ambas sentencias.
+Tratándose de nuevos desarrollos la Dirección, a petición del desarrollador podrá clasificar para las zonas habitacionales, una sub-clasificación exclusivamente de Uso Habitacional, que se identificará con el sufijo - F; de dicha sub -clasificación, la Dirección deberá informar al IMPLAN dentro de un término de 10 días hábiles.
 
-Si el beneficiado no cumpliere con las obligaciones contraídas, se podrá hacer efectiva la pena de prisión aplicada en su totalidad. En este caso, el Juez de Ejecución, con audiencia del interesado, procederá a decidir sobre la revocación.
+Para los casos no previstos en el párrafo anterior, el Ayuntamiento podrá autorizar la misma sub-clasificación, previo análisis del IMPLAN y a petición del Comité de Colonos registrado en la Dirección General de Desarrollo Social.
 
-###### ARTÍCULO 53.
+Zonas de comercio (C):
 
-Solicitud de la suspensión condicional. El sentenciado que considere que al dictarse su sentencia reunía las condiciones para el disfrute de la sustitución de la pena de prisión o de la suspensión condicional, y por inadvertencia de su parte o del Juez no se le hubieren otorgado, podrá promover su concesión mediante el trámite de un incidente ante el Juez de Ejecución conforme a lo dispuesto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+C1 Comercios de intensidad baja;
 
-Toda resolución relativa a sustitución de prisión u otorgamiento de suspensión condicional de pena de prisión, será notificada inmediatamente a la entidad dependiente del Poder Ejecutivo encargada de la ejecución de las penas y medidas de seguridad, para provocar la participación de ésta en lo que legalmente le corresponda, precisamente para informar si existen las condiciones operativas para llevarla a cabo.
+C2 Comercios de intensidad media; y,
 
-### CAPÍTULO V. Culpabilidad
+C3 Comercios de intensidad alta.
 
-###### ARTÍCULO 54.
+Zonas de servicio (S):
 
-MULTA. La Multa consiste en el pago al Estado de una cantidad de dinero que se fijará por días multa y que no podrán exceder de doce mil.
+S1 Servicios de intensidad baja;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2016)</small>
+S2 Servicios de intensidad media;
 
-###### ARTÍCULO 55.
+S3 Servicios de intensidad alta;
 
-Equivalencia del día multa. El día multa equivale a la percepción neta diaria del responsable del hecho delictivo al momento de cometerlo, tomando en cuenta todas sus percepciones, siendo el límite inferior el equivalente al valor diario de la Unidad de Medida y Actualización.
+S4 Servicios carreteros; y,
 
-Si el responsable se negare a cubrir el importe de la multa que se le imponga, se hará efectiva en términos de la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes.
+EQ Equipamiento.
 
-###### ARTÍCULO 56.
+Zonas de industria (I):
 
-Decomiso. El decomiso consistirá en la pérdida de la propiedad, a favor de las víctimas u ofendidos y/o del Estado, de los bienes relacionados con el hecho punible o de los utilizados como instrumento para cometerlo.
+I1 Industria de intensidad baja;
 
-El destino de los bienes decomisados atenderá a lo establecido por el Artículo 71 de este Código.
+I2 Industria de intensidad media;
 
-###### ARTÍCULO 57.
+I3 Industria de intensidad alta; y,
 
-Reparación de daño y perjuicios. La reparación del daño debe ser oportuna, plena, integral, diferenciada, transformadora, adecuada, eficaz, efectiva y proporcional a la gravedad del daño causado y a la afectación del desarrollo integral de la víctima u ofendido y, según la naturaleza del delito de que se trate, comprenderá:
+I4 Industria de alto riesgo.
 
-I.-·El restablecimiento de las cosas en el estado en que se encontraban antes de cometer el delito o la restitución, en cuanto fuere posible, del bien obtenido por el delito en el estado que tenía antes de que se cometiera y sus frutos o accesiones, sí (sic) como el pago, en su caso, de deterioros y menoscabos sufridos o de la depreciación que en su valor comercial, físicos o funcional hubiere sufrido, o si no fuere posible, el pago del precio comercial de los mismos al momento en que se haga efectiva;
+Zonas de reserva (R):
 
-Si se trata de bienes fungibles, el juez podrá condenar a la entrega de un objeto igual al que fuese materia de delito sin necesidad de recurrir a prueba pericial;
+RE Reserva ecológica;
 
-II.- La indemnización del daño físico, material, psicológico y moral causado. Incluirá, por lo menos, los costos de tratamiento médico, medicina, exámenes clínicos e intervenciones necesarias, rehabilitación física, prótesis o aparatos ortopédicos, asimismo la terapia o tratamiento psicoterapéutico, psiquiátrico, psicológico y rehabilitación social y ocupacional hasta la rehabilitación total de la víctima o del ofendido;
+RA Reserva agrícola;
 
-La indemnización por el daño moral, entendiéndose por éste la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de sí misma tienen los demás, y su monto será de uno a tres tantos del importe fijado para el pago de daño material, y cuando éste no se hubiese cuantificado o no pudiera cuantificarse, el tribunal fijará la indemnización correspondiente, de acuerdo con las circunstancias del caso, la cual será de tres a seis tantos de la multa impuesta al sentenciado por el delito de que se trate;
+RF Reserva forestal;
 
-III.- El resarcimiento de los perjuicios ocasionados;
+RP Reserva pecuaria; y,
 
-> <small>(REFORMADO [N. DE E. DEL ANÁLISIS A LA APLICACIÓN DEL DECRETO 371, SE ADVIERTE QUE EL CONTENIDO DEL SEGUNDO PÁRRAFO DE LA FRACCIÓN III, CORRESPONDE AL SEGUNDO PÁRRAFO DE LA FRACCIÓN II, VÉASE PROCESO LEGISLATIVO], P.O. 12 DE ENERO DE 2026)</small>
+RQ Reserva arqueológica.
 
-La reparación del daño moral, entendida conforme a lo dispuesto en la fracción II del artículo 64 de la Ley General de Víctimas, deberá ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento de la(s) persona(s) con derecho a esta. Será fijada por el tribunal con base en la gravedad de la conducta, la condición de la víctima, las pruebas aportadas, la capacidad económica del responsable y demás elementos objetivos y subjetivos que permitan determinar un monto adecuado para el resarcimiento y su cumplimiento; y
+Zonas de Parque (P):
 
-IV.- Tratándose de las figuras típicas que puedan concretizar los servidores públicos, la reparación de daños y perjuicios abarcará la restitución de la cosa o de su valor, y, además, hasta dos tantos el valor de la cosa o de los bienes obtenidos por el hecho delictivo específico; y
+PD Parque Distrital; y,
 
-V.- El pago de los alimentos caídos en términos del Código Civil del Estado de Aguascalientes, en relación con el artículo 131 del presente Código.
+PM Parque metropolitano.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+Zonas de Crecimiento (Z):
 
-###### ARTICULO 58.
+ZRC Zona de reserva para el crecimiento; y,
 
-Reparación del daño en delitos que afecten la vida e integridad corporal. En los casos de las figuras típicas que afecten la vida e integridad corporal, dolosas o culposas, y a falta de pruebas específicas para cuantificar el daño material, los jueces tomarán como base un tanto de la tabulación de indemnización que fija la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando como base la utilidad o salario que hubiese percibido, y si éste no percibía salario o utilidad, o no pudiere determinarse el monto de la indemnización se fijará tomando como base el valor diario de la Unidad de Medida y Actualización que rija en el momento de la producción del resultado.
+ZRC-C Zona de reserva para el crecimiento condicionada.
 
-###### ARTÍCULO 59.
+###### Artículo 55.
 
-Derecho a la reparación del daño. Tienen derecho a la reparación de los daños y perjuicios, en el siguiente orden:
+Los tipos de zonas a que se refiere el artículo anterior, se localizan dentro del POTE y en el Plano de Zonificación del Municipio.
 
-I. La víctima del hecho delictivo;
+###### Artículo 56.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 20 DE OCTUBRE DE 2025)</small>
+Los objetivos de las Normas de Zonificación son los siguientes:
 
-II. En caso de fallecimiento de la víctima, los ofendidos, en el siguiente orden de prelación:
+I. Facilitar la consulta de las normas tanto por la ciudadanía en general, como por las autoridades competentes encargadas de aplicar este Código; y,
 
-a. El o la cónyuge, la concubina o el concubinario;
+II. Establecer los usos predominantes, compatibles, condicionados e incompatibles hacia el interior de cada una de las zonas y corredores.
 
-b. Los descendientes y/o ascendientes en primer grado que dependan económicamente de la víctima;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-c. Quien se hubiese encargado en los últimos tres años del cuidado de la víctima, si ésta fuere persona menor de edad, mayor de setenta años, persona con discapacidad o enfermo terminal;
+###### Artículo 57.
 
-Para los efectos de la fracción anterior, se entenderá por enfermo terminal a la persona que, por razón de una enfermedad avanzada, progresiva e incurable, presente, un pronóstico de vida limitado.
+Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla de Compatibilidades y en el Manual Técnico de Usos de suelo.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+###### Artículo 58.
 
-III. Las personas físicas o entidades privadas o públicas que acrediten haber realizado erogaciones a favor de víctima u ofendido, con motivo de los hechos punibles materia del procedimiento; y
+Las compatibilidades de uso se establecen en base a lo siguiente:
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+I. Los Usos Predominantes son aquellos que caracterizan a cada zona y su intensidad;
 
-IV.-El Estado, cuando se trate de delitos cometidos en su contra.
+II. Los Usos Compatibles son aquellos que pueden colindar con los usos predominantes;
 
-###### ARTÍCULO 60.
+III. Los Usos Condicionados son aquellos que para colindar con los usos predominantes, requieren de localizaciones especiales y cumplir con lo señalado en la Tabla de Normas para Usos Condicionados, localizada en el Anexo 5 del presente código; y,
 
-Reparación del daño exigible a terceros. Son terceros obligados al pago de la reparación de los daños y perjuicios:
+IV. Los Usos Incompatibles son aquellos que no pueden coexistir bajo ningún supuesto, con los usos predominantes o compatibles.
 
-I. Los ascendientes, por los hechos delictivos o punibles de sus descendientes que se hallaren bajo su patria potestad o custodia;
+###### Artículo 59.
 
-II. Los tutores y los custodios, por los hechos delictivos o punibles de los inimputables que se hallen bajo su responsabilidad;
+Las condicionantes de localización y proyecto, se establecen en la Tabla de Normas para Usos Condicionados, localizada en el Anexo 5 del presente código.
 
-III. Los directores de internados o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciséis años, por los hechos punibles que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquellos;
+###### Artículo 60.
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+De acuerdo a la ubicación del lote o predio, se autorizará el número de niveles de construcción, considerando el tipo de vía y la densidad de la zona, en base a la siguiente tabla:
 
-IV. Los dueños de negociaciones, las empresas o establecimientos civiles o mercantiles de cualquier clase, por los hechos delictivos o punibles que cometan sus aprendices, obreros, jornaleros, empleados o artesanos, con motivo o en el desempeño de su trabajo;
+TIPO DE SEC DENSIDAD HABITACIONAL DENSIDAD
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+VIA DE DENSIDAD BAJA
 
-V. Las sociedades o agrupaciones, por los hechos delictivos de sus socios o gerentes directores, en los mismos términos en que, conforme a las leyes aplicables, sean responsables por las demás obligaciones que los segundos contraigan.
+MEDIA Y Y ZONA
 
-Se exceptúa de esta regla la sociedad conyugal, pues en todo caso, cada cónyuge responde con sus bienes propios por la reparación de los daños y perjuicios que cause; y el Estado y los Municipios, por los hechos delictivos que cometan los servidores públicos con motivo o en el desempeño de sus funciones.
+ALTA DE
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2025)</small>
+COMERCIOS PROTEC-
 
-VI. Los propietarios de mecanismos, instrumentos, aparatos, vehículos o sustancias peligrosas, con inclusión de los de cualquier vehículo automotor, por los delitos que, con motivo de su uso, cometan culposamente las personas que los manejen o tengan a su cargo, siempre y cuando el uso lo confieran voluntariamente. Exceptuándose los casos de contratos de compraventa en abonos o con reserva de dominio.
+Y SERVICIOS CION DE
 
-En el caso de los supuestos establecidos en las Fracciones I a III del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, en los términos establecidos para el efecto en el Código de Procedimientos Civiles y demás leyes aplicables.
+MONUMEN-
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+TOS
 
-En el caso de los supuestos establecidos en las fracciones IV a VI del presente Artículo, se requerirá del pago de la reparación de los daños y perjuicios a los terceros obligados, al existir importe y nombre de los beneficiarios en el procedimiento penal correspondiente, por la autoridad judicial, y será en los términos establecidos en el Código de Procedimientos Civiles y demás leyes aplicables, pero sólo en los casos en que se acredite que el directamente obligado no cuenta con los recursos suficientes para cubrir su pago.
+Ejes
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+Metropo- +40 Libre Libre Libre
 
-###### ARTICULO 61.
+litanos
 
-Preferencia de pago de la reparación del daño. La obligación de pagar la reparación de los daños y perjuicios es preferente con respecto a cualesquiera otras contraídas con posterioridad a la comisión del delito, a excepción de las referentes al pago de alimentos y salarios.
+Vías
 
-###### ARTÍCULO 62.
+Primarias 30-40 900 Hasta 15 niveles Hasta 10 niveles
 
-Exigibilidad de la reparación del daño. El pago de la reparación de los daños y perjuicios tiene el carácter de pena pública y siempre se exigirá su pago por el Ministerio Público en todo procedimiento penal, y los tribunales y autoridades competentes, no podrán absolver al responsable del pago de dicha reparación, si se ha emitido una sentencia condenatoria o si se determina la aplicación de medida de seguridad.
+En
 
-###### ARTÍCULO 63.
+Plano
 
-Pago solidario y mancomunado de la reparación del daño. Cuando sean varios los responsables en la comisión del hecho delictivo, el pago de la reparación de los daños y perjuicios, se hará en forma mancomunada y solidaria.
+Interbarrios 20-30 de 5 niveles 4 niveles
 
-###### ARTÍCULO 64.
+Zonifi-
 
-Cumplimiento diferido de la reparación del daño. La autoridad judicial, teniendo en cuenta el monto que haya sido establecido por concepto de pago de daños y perjuicios y la situación económica del responsable, podrá fijar los plazos para cubrir su importe, los que en conjunto no excederán de un año, debiendo para ello exigir garantías suficientes. Si se establecen tales pagos diferidos, se fijaran los intereses legales correspondientes, tanto de carácter ordinario como moratorios.
+cación
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+En
 
-ARTÍCULO 64 BIS.- Si no se logra hacer efectivo todo el importe de la reparación del daño, lo que se obtenga se distribuirá proporcionalmente entre quienes tienen derecho a ella, atendiendo a las cuantías señaladas en la sentencia ejecutoria, sin perjuicio de que si posteriormente el obligado adquiere bienes suficientes se cubra lo insoluto.
+Plano
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+Colectoras 15-20 de 5 niveles 2 niveles
 
-ARTÍCULO 64 TER.- La multa y la reparación del daño en favor del Estado, se harán efectivas en los términos de las disposiciones fiscales correspondientes y su importe se aplicará en los términos de la ley.
+Zonifi-
 
-###### ARTÍCULO 65.
+Cación
 
-Ejecución de la reparación del daño. Si el responsable se niega a pagar voluntariamente el monto de la reparación de los daños y perjuicios, se estará a lo dispuesto en la Ley de Ejecución de Sanciones Penales del Estado de Aguascalientes.
+En
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
+Plano
 
-ARTÍCULO 65 BIS.- Cuando la reparación del daño se cubra con cargo al Fondo de Ayuda, Asistencia y Reparación Integral del Estado de Aguascalientes; esta situación no aprovechará a la persona sentenciada, salvo que esta reintegre el monto de la reparación del daño cubierto a favor de la víctima u ofendido a dicho Fondo.
+Locales -15 de 3 niveles 2 niveles
 
-###### ARTÍCULO 66.
+Zonifi-
 
-Suspensión, privación e inhabilitación de derechos. La Suspensión consiste en la pérdida temporal, del responsable, de sus derechos, funciones, cargos, empleos, comisiones o profesiones que haya estado ejerciendo.
+cación
 
-La Suspensión es de dos clases:
+###### Artículo 61.
 
-I. La que resulta como consecuencia de la ejecución de la pena de prisión; y
+Para efectos de este Código se consideraran los siguientes rangos de densidad, calculadas a partir de la superficie bruta a desarrollarse:
 
-II. La que por sentencia se establece como pena.
+LIBRE: Más de 900 habitantes/hectárea.
 
-Respecto de lo ordenado en la Fracción I, la suspensión dejará de surtir sus efectos al momento en que la autoridad ejecutora dé por cumplida la pena de prisión, sea por compurgación total o por obtención de beneficios, y se informará de ello, mediante oficio, a las autoridades que hayan tenido conocimiento de tal situación.
+ALTA: Hasta 900 habitantes/hectárea.
 
-La Privación consiste en la pérdida definitiva de sus derechos, funciones, cargos, empleos, comisiones o profesiones que haya estado ejerciendo el responsable.
+MEDIA: Hasta 450 habitantes/hectárea.
 
-La Inhabilitación implica la incapacidad legal, temporal o definitiva, del responsable, a obtener o ejercer derechos, funciones, cargos, empleos, comisiones o profesiones.
+BAJA: Hasta 120 habitantes/hectárea.
 
-###### ARTÍCULO 67.
+MINIMA: Hasta 50 habitantes/hectárea.
 
-Las medidas de seguridad. La autoridad jurisdiccional, a petición del Ministerio Público, y con relación a los hechos punibles motivo del procedimiento, podrá aplicar, además de las penas que legalmente correspondan para cada figura típica, las siguientes Medidas de Seguridad:
+El rango de densidad se sujetará a lo dispuesto por el Título de Fraccionamientos y Desarrollos en Condominio del presente Código.
 
-I. Confinamiento;
+###### Artículo 62.
 
-II. Prohibición de ir a una circunscripción territorial determinada o de residir en ella;
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-III. Aseguramiento, destrucción y pérdida de objetos, instrumentos y productos del delito;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+###### Artículo 63.
 
-IV. Caución;
+La Dirección podrá autorizar niveles más de lo establecido en el Manual Técnico de Usos de Suelo y/o COS mayores, mediante un dictamen de compatibilidad urbanística, que deberá cumplir el no dañar la imagen urbana de la zona, que no aumente la densidad de la misma y que SAPAL otorgue la factibilidad de servicios.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-V. Vigilancia de Autoridad; y
+###### Artículo 64.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+Tratándose de los cajones de estacionamiento, los particulares deberán cumplir con lo dispuesto en la Tabla de Requerimientos de cajones de estacionamiento.
 
-VI. Tratamiento Psicológico.
+Excepcionalmente cuando por la magnitud del proyecto o bien por el impacto ambiental que pudiera generar el mismo, resulte materialmente imposible el cumplimiento de los requerimientos señalados en la tabla referida en el párrafo precedente, deberá exponer tal situación por escrito ante la Dirección expresando las causas que debidamente justificadas respalden la imposibilidad de dicho cumplimiento.
 
-###### ARTÍCULO 68.
+Una vez recibido el escrito del particular, la Dirección procederá al análisis respectivo, verificando que efectivamente el cumplimiento no sería materialmente posible; determinando la viabilidad del proyecto y sujetando su autorización a que garantice fehacientemente con documentación, el acceso fácil y permanente para cajones de estacionamiento en un inmueble lo más contiguo posible.
 
-Confinamiento. El Confinamiento consiste en la obligación de residir en determinado lugar y no salir de él. La autoridad jurisdiccional hará la designación del lugar, conciliando las exigencias de la tranquilidad pública y las necesidades del responsable y de las víctimas u ofendidos.
+Cuando los cajones de estacionamiento según el proyecto constructivo se ubiquen donde exista vegetación o arboles, el solicitante agregara evidencia fotográfica, para que la Dirección General de Medio Ambiente evalúe el impacto ambiental que representaría la ejecución del proyecto en los términos propuestos; de lo cual posteriormente la Dirección podrán resultar las siguientes vertientes:
 
-###### ARTÍCULO 69.
+I. Si el árbol y la vegetación no son objeto de trasplante; estos deberán ser integrados al proyecto constructivo en los términos que determine la Dirección, en caso de que la naturaleza del mencionado proyecto no permitiese técnicamente su integración, la Dirección podrá optar por aplicar como segunda alternativa la facilidad administrativa señalada en el párrafo tercero del presente artículo siempre que de la misma no se desprendan impactos negativos en la zona ya sea urbanos o viales.
 
-Prohibición de ir a algún lugar o residir en él. La autoridad jurisdiccional, tomando en cuenta las circunstancias del hecho delictivo y las propias del responsable, podrá disponer que éste no vaya a una circunscripción territorial determinada o que no resida en ella.
+II. Si el árbol y la vegetación son objeto de trasplante; estos deberán ser incorporados a costa del interesado, a las áreas verdes del Municipio en los lugares que le indique la Dirección General de Medio Ambiente de conformidad con el Reglamento de Parques y Jardines para el Municipio de León, Guanajuato.
 
-Estas prohibiciones, como el confinamiento, se podrán fijar por un término de seis meses a tres años y se impondrán adicionalmente por la comisión de cualquier delito, e incluso en cualquier etapa del procedimiento, específicamente cuando el inculpado obtenga su libertad provisional bajo caución.
+III. Si el árbol y la vegetación pueden ser objeto de tala o derribo; el interesado deberá restaurar sustitutivamente el daño ambiental ocasionado, en los lugares que le indique el Municipio a través de la Dirección General de Medio Ambiente y en los términos del Reglamento de Parques y Jardines para el Municipio de León, Guanajuato.
 
-###### ARTÍCULO 70.
+###### Artículo 65.
 
-Aseguramiento de los instrumentos, objetos o productos del hecho delictivo. Las autoridades competentes que conozcan del procedimiento, procederán al inmediato aseguramiento de los bienes relacionados con el hecho punible en cualquier etapa del procedimiento penal, cualquiera que sea la naturaleza de los instrumentos, objetos o productos utilizados, para el posterior efecto del decomiso si son de uso prohibido. Si son de uso lícito, se decomisarán solamente cuando el hecho delictivo sea doloso. Si pertenecen a un tercero, sólo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos de la figura jurídica del encubrimiento, independientemente de la naturaleza jurídica de dicho tercero y de la relación de éste con el responsable del hecho delictivo básico, en su caso.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-Cuando se trate de bienes inmuebles se deberá ordenar la inscripción respectiva en el Registro Público de la Propiedad.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### ARTÍCULO 71.
+###### Artículo 66.
 
-Destino de los instrumentos, objetos o productos del hecho delictivo. El destino de los instrumentos, objetos o productos del hecho delictivo se determinará por la autoridad jurisdiccional en primer lugar al pago de la reparación de daños y perjuicios a favor de las víctimas u ofendidos, y en caso de existir remanente, al Fondo de Atención a Víctimas u Ofendidos del Delito.
+Se podrán autorizar usos distintos al habitacional, en las viviendas clasificadas como H-7, siempre que los usos sean compatibles de acuerdo al presente Código.
 
-Si se tratara de substancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, la que, cuando lo estime conveniente, podrá determinar su conservación para fines de docencia o investigación. Dicha autoridad podrá disponer aún antes de declararse su decomiso, estas medidas de precaución, incluyendo su destrucción, si fuere indispensable.
+###### Artículo 67.
 
-Respecto de los objetos o valores que se encuentren a disposición de las autoridades investigadoras o judiciales que no hayan sido asegurados o decomisados y que no sean recogidos por quien tenga derecho a ello en un lapso de noventa días naturales, contados a partir de la notificación que se haga al interesado se procederá de la siguiente forma:
+Cuando se pretenda desarrollar un uso del suelo habitacional plurifamiliar de renta o de venta, el proyecto deberá respetar la normativa marcada por el Título de Fraccionamientos y Desarrollos en Condominio de este Código; y el mismo procedimiento se seguirá para cualquier otro uso no habitacional susceptible de constituirse en régimen de condominio.
 
-I. Si los objetos o valores referidos no se pueden conservar o sean de costoso mantenimiento, se procederá a su venta inmediata, aplicándose a lo conducente las reglas que se establecen en la Fracción III;
+###### Artículo 68.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+Las normas para determinar el COS se establecen en la Tabla de Normas para las Zonas, localizada en el Anexo 5 del presente código.
 
-II. Cuando su naturaleza lo permita serán aprovechados en beneficio de la procuración o impartición de justicia y podrán ser entregados en depósito a los servidores públicos, mediante resolución fundada y motivada dictada por el Fiscal General del Estado o el tribunal competente según sea el caso. Dicho aprovechamiento no causará al Estado costo alguno; y
+###### Artículo 69.
 
-III. Si los objetos no reúnen las características descritas en la fracción anterior, se enajenarán en subasta pública, conforme al procedimiento establecido para remates en el Código Fiscal del Estado, y el producto de la venta se aplicará a quien tenga derecho a recibirlo. Si notificado no se presenta dentro de los ciento veinte días siguientes a la fecha de la notificación, el producto de la venta se destinará al mejoramiento de la procuración o administración de justicia según sea el caso, previas las deducciones de los gastos ocasionados al respecto.
+En las zonas Habitacional de densidad media y usos mixtos de comercio, servicio e industria dentro de las Zonas de Protección de Monumentos "A", "B" y "C" (H6-E) consideradas, delimitadas y normadas dentro del Reglamento de la imagen urbana, se sujetarán a las normas siguientes:
 
-###### ARTÍCULO 72.
+I. El COS no será mayor del 80% de la superficie total del lote;
 
-Caución para no ofender. La Caución consiste en la garantía sobre la posesión de las cosas y para no ofender. Será establecida en la sentencia por la autoridad jurisdiccional, a petición del Ministerio Público, en aquellos casos en que sea necesaria, y se hará efectiva cuando el sentenciado altere los objetos de que tenga posesión, o realice actos de molestia a las personas que se ordene no incomodar. El monto se fijará en base al valor de las cosas que se entreguen en posesión o de las características de la persona objeto de protección.
+II. En la Zona "A" y "B" no será obligatoria la dotación de cajones de estacionamiento;
 
-###### ARTÍCULO 73.
+III. No se autorizará el uso de estacionamiento público o privado, en edificios catalogados por el INAH; a menos que se cuente con la aprobación por parte del INAH previo a la emisión de la Licencia de Construcción respectiva;
 
-Vigilancia de autoridad. Cuando en la sentencia se determine la suspensión condicional de la pena de prisión, la vigilancia de su cumplimiento le corresponderá a la autoridad judicial. Tal vigilancia no podrá exceder a la pena de prisión impuesta.
+IV. En las zonas de protección de Monumentos "A", "B" Y "C" no se permitirá el uso de estacionamiento en lotes baldíos que no sean equipados para tal fin, debiendo construir muros perimetrales cuya altura máxima coincida con el primer nivel de los edificios colindantes. Los accesos, salidas y casetas de control, deberán apegarse a las alturas y proporciones tipológicas de los edificios históricos; y,
 
-La vigilancia consistirá en ejercer sobre el sentenciado, observación y orientación de su conducta, por personal especializado auxiliar del Juez de Ejecución, para coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad. El no cumplimiento de las indicaciones de la autoridad judicial a cargo del sentenciado, se considera causa suficiente para revocar el beneficio de la suspensión.
+V. Cuando los locales equipados para estacionamiento, público o privado, requieran de cubiertas de estructura metálica o de concreto, estas no podrán rebasar la altura autorizada en la zona o vialidad, debiendo quedar ocultas en fachada mediante pretil o muro falso de acuerdo a la propuesta presentada por el solicitante a la Dirección.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2020)</small>
+###### Artículo 70.
 
-ARTÍCULO 73 A.- Tratamiento Psicológico.- El tratamiento psicológico consiste en la aplicación de los procedimientos médicos, psicológicos, psiquiátricos o afectivos, en Instituciones Públicas, que buscan atender las causas, patrones de conducta, heridas emocionales o afectaciones que pueda padecer el sentenciado y que imposibiliten su reinserción familiar y social, con la finalidad de lograr su plena readaptación social.
+Para la construcción de estacionamientos que se ubiquen dentro de las Zonas de Protección de Monumentos "B" y "C" consideradas (H6-E) y delimitadas dentro del Reglamento de la Imagen Urbana, se deberán cumplir los siguientes requisitos:
 
-El tratamiento psicológico no deberá exceder de la pena de prisión que hubiere sido impuesta, o de las medidas de Tratamiento en Libertad o Semilibertad precisadas en este Código.
+I. Obtener en su caso, factibilidad de demolición expedida por la Dirección;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+II. Obtener factibilidad de uso del suelo; y,
 
-###### ARTÍCULO 74.
+III. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-Consecuencias jurídicas. Cuando una persona jurídica cometa un hecho delictivo, se le aplicarán las siguientes consecuencias jurídicas:
+###### Artículo 71.
 
-I. Intervención;
+Los usos en las zonas de Reserva Ecológica (RE), se sujetarán a las normas siguientes:
 
-II. Suspensión;
+I. La densidad máxima será de 50 hab/Ha;
 
-III. Disolución o Liquidación;
+II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
 
-IV. Prohibición para realizar determinados actos y operaciones;
+III. Los usos compatibles con la zona de Reserva Ecológica (RE), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código.
 
-V. Remoción de funcionarios; y
+###### Artículo 72.
 
-VI. Multa y Reparación de Daños y Perjuicios.
+Los usos en las Zonas de Reserva Agrícola (RA), se sujetarán a las normas siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+I. La densidad máxima será de 50 hab/Ha;
 
-###### ARTÍCULO 75.
+II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
 
-Forma de aplicación de las consecuencias jurídicas. Las consecuencias jurídicas señaladas en el artículo anterior, se aplicarán de la siguiente forma:
+III. Los usos compatibles con la Zona de Reserva Agrícola (RA), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente Código.
 
-I. Intervención de sus órganos de representación, con las atribuciones que al Interventor confiere la ley aplicable a la materia, sin que su duración pueda exceder de dos años;
+###### Artículo 73.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+Las zonas de Reserva Forestal (RF) por sus características y vocación natural, deberán de protegerse y preservarse.
 
-II. Suspensión temporal de actividades, en términos de la ley de la materia, hasta por cinco años;
+###### Artículo 74.
 
-III. Disolución y liquidación de las personas jurídicas, en términos de la ley de la materia;
+Para el otorgamiento de los usos en las Zonas de Reserva Forestal (RF), se deberán observar las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+I. La densidad máxima será de 50 hab/Ha;
 
-IV. Prohibición de hasta diez años para realizar determinados actos u operaciones, limitándose exclusivamente a los que señale la autoridad y que deberán tener relación directa con el hecho delictivo cometido; y
+II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL);
 
-V. Remoción de sus funcionarios, solo por el tiempo indispensable para sustituirlos conforme a la ley de la materia.
+III. Los usos compatibles con la zona de Reserva Forestal (RF), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código; y,
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+IV. Para el caso de usos habitacionales, los mismos deberán ser verificados de conformidad con los Decretos Gubernativos que declaren áreas naturales protegidas, así como con sus respectivos Programas de Manejo y demás normativa aplicable.
 
-Con relación a la multa y al pago de reparación de daños y perjuicios se estará a lo dispuesto por este Código respecto a lo señalado para las personas físicas con las adecuaciones correspondientes tratándose de personas jurídicas en caso de multa.
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2017)</small>
+V. Se fomentaran actividades rurales dedicadas al manejo y aprovechamiento de las áreas naturales; y,
 
-###### ARTÍCULO 76.
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
-Causas de extinción. Son causas de extinción de la pretensión punitiva y de la potestad de ejecutar penas y medidas de seguridad:
+VI. Estas zonas estarán dedicadas al fomento de actividades eco - turísticas como una alternativa para la promoción del desarrollo sustentable y económico para los campesinos.
 
-I. Cumplimiento de la pena o medida de seguridad;
+###### Artículo 75.
 
-II. Muerte del sentenciado;
+Los predios identificados como sitios arqueológicos (RQ) en el Reglamento de la Imagen Urbana, se sujetará a las normas que disponga el INAH en cuanto a su área de aprovechamiento y al uso de sus edificaciones.
 
-III. Amnistía;
+###### Artículo 76.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+Los lotes y edificaciones que se construyan en las Zonas de Parque Metropolitano (PM) y Parque Distrital (PD), se sujetarán a las normas siguientes:
 
-IV. Perdón de la víctima u ofendido, o de la persona legitimada para realizarlo, en los casos autorizados por este Código;
+I. La clasificación del tipo de parque estará en función de la cobertura de servicio que se pretenda dar al mismo;
 
-V. Reconocimiento de inocencia; y
+II. Se deberán dejar áreas para estacionamientos vehiculares, de acuerdo a las normas de estacionamientos que se mencionan en la Tabla de Requerimiento de Estacionamientos, localizada en el Anexo 4 de este Código;
 
-VI. Prescripción.
+III. Las edificaciones destinadas a equipamiento urbano, deberán de respetar las normas establecidas por el Sistema Normativo de Equipamiento Urbano expedido por la Secretaria de Desarrollo Social (SEDESOL); y,
 
-###### ARTÍCULO 77.
+IV. Cuando se pretenda desarrollar con usos urbanos, un predio en el cual se designe la política de ubicación de un parque urbano, se seguirán los siguientes criterios:
 
-Cumplimiento de la sanción. El cumplimiento de la pena, así como aquella que la sustituya, o de la medida de seguridad, la extingue con todos sus efectos.
+a) Cuando el área de donación sea mayor a una hectárea, ésta se deberá diseñar de forma concentrada y con frente a una vía primaria o secundaria;
 
-La pena de prisión sustituida o cuya ejecución se hubiera suspendido, se extinguirá por el cumplimiento de los requisitos establecidos para su otorgamiento, y en su caso, una vez transcurrido el término de la pena impuesta o del tiempo para compurgarla.
+b) Cuando el área de donación sea menor a una hectárea y el predio a desarrollar colinde con otros predios con posibilidad de desarrollo futuro, ésta deberá diseñarse de forma concentrada, con frente a una vía primaria o secundaria, y colindancia de forma que puede ser complementada por otro u otros desarrollo futuros;
 
-###### ARTÍCULO 78.
+c) Cuando el Uso del Suelo propuesto en un Parque Metropolitano (PM) y/o Parque Distrital (PD), no implique el desarrollo de un fraccionamiento, la edificación deberá respetar en su proyecto un área perimetral mínima de 1.50 metros, destinada a forestación, para mantener la imagen urbana del lugar además de lo normado por cada grupo de usos y zona, así como lo mencionado por el Título de Fraccionamientos y Desarrollos en Condominio de este Código; y,
 
-Muerte del sentenciado. La muerte del sentenciado extingue la acción penal y la potestad de ejecutar penas y medidas de seguridad, excepto lo relacionado con el decomiso, destrucción y pérdida de objetos, instrumentos y productos del hecho delictivo, y la reparación de daños y perjuicios.
+d) Cuando dentro del predio o lote existan elementos naturales de foresta, la edificación deberá respetarlas dentro del proyecto.
 
-###### ARTÍCULO 79.
+###### Artículo 77.
 
-Amnistía. La amnistía extingue la acción penal y la potestad de ejecutar las penas impuestas, a excepción del decomiso, destrucción de los objetos, instrumentos y productos del hecho delictivo, y la reparación de daños y perjuicios. Si aquélla no expresare su alcance, se entenderá que la acción penal y la potestad ejecutiva se extinguen con todos sus efectos, en relación con todos los responsables del hecho delictivo.
+Dentro de las zonas de crecimiento se consideran las etapas para el desarrollo de mediano y largo plazo que son las zonas de reserva para el crecimiento (ZRC) y la Zona de Reserva para el Crecimiento Condicionada (ZRC-C).
 
-###### ARTÍCULO 80.
+###### Artículo 78.
 
-Perdón de la víctima u ofendido. El perdón de la víctima u ofendidos en su caso, en los supuestos descritos en este Código, extingue el ejercicio de la acción penal y la potestad de imponer penas y medidas de seguridad.
+Para los usos que deseen establecerse en las zonas de reserva para el crecimiento deberán cumplir con los siguientes requisitos:
 
-El perdón, en la fase de ejecución, siempre deberá ser otorgado ante el Juez de Ejecución para que tenga efectos legales.
+I. Presentar un Estudio de factibilidad para la dotación de servicios y la construcción de infraestructura necesaria, en esquemas de respeto ambiental y una nueva cultura en el tratamiento y reutilización del agua, avalados por las Dependencias competentes; y,
 
-###### ARTÍCULO 81.
+II. Presentar un Plan parcial de desarrollo, tratándose de las Zonas de de Reserva para el Crecimiento Condicionada (ZRC-C).
 
-Perdón tácito. La víctima o el ofendido podrán otorgar el perdón al inculpado en cualquier etapa del procedimiento. La víctima o el ofendido, serán enterados, por la autoridad que corresponda, de las consecuencias legales que implica el otorgamiento del perdón.
+###### Artículo 79.
 
-Se considerará que la víctima u ofendido otorga el perdón:
+Tomando en cuenta las características topográficas de la ciudad, el crecimiento de la ciudad se realizará en etapas progresivas de crecimiento, por lo que se mantiene la Zona de Reserva para el Crecimiento (ZRC) y, otra más denominada Zona de Reserva para el Crecimiento Condicionada (ZRC-C), teniendo como objetivo un crecimiento ordenado y sustentable, respetando los lineamientos del IMPLAN y criterios de Desarrollo Urbano.
 
-I. Cuando, citado a participar en la realización de diligencias necesarias para el trámite del procedimiento, no concurriere sin justa causa, o se negare a colaborar en tales diligencias;
+###### Artículo 80.
 
-II. Cuando no presente los medios probatorios que sean necesarios y que tenga en su poder, en las etapas de averiguación previa y averiguación procesal.
+En las Zonas de reserva para el crecimiento (ZRC y ZRC-C), su desarrollo estará condicionado a estudios de impactos urbanos, económicos y ambientales del mismo y a su beneficio social. Los nuevos proyectos de desarrollo propuestos en esta zona, deberán asegurar la infraestructura y servicios en esquemas de respeto ambiental y una nueva cultura para el tratamiento y utilización del agua; su incorporación al desarrollo urbano deberá de igual forma otorgar ventajas sociales y económicas; en todo caso deberán ser aprobados por el Ayuntamiento.
 
-El desistimiento podrá ser declarado de oficio o a petición de cualquiera de los sujetos procesales interesados, y su declaratoria provocará el no ejercicio de la acción penal o el sobreseimiento, según el estado del procedimiento, lo que impedirá toda posterior persecución, en virtud del mismo hecho que constituyó el objeto de su instancia.
+###### Artículo 81.
 
-###### ARTÍCULO 82.
+Las zonas de reserva para el crecimiento (ZRC y ZRC-C), no tienen usos predeterminados, estos deberán de ajustarse a las compatibilidades urbanas que se vayan definiendo entre los diferentes desarrollos; las compatibilidades y densidades estarán establecidas para lograr un desarrollo de usos mixtos de forma estratificada, de acuerdo a la clasificación de vialidad, al diseño del fraccionamiento y a los planes parciales por barrio.
 
-Ejercicio separado del perdón. Cuando sean varios las víctimas u ofendidos y cada uno de ellos pueda ejercer separadamente la facultad de otorgar el perdón, esto solo surtirá efectos por lo que hace a quien lo concede.
+###### Artículo 82.
 
-Si los inculpados fueren varios el perdón otorgado a uno de ellos, solo beneficia a aquel a quien se le otorgue.
+Las zonas de reserva para el crecimiento condicionadas (ZRC-C), tendrán las mismas características para compatibilidades señaladas en el artículo anterior, sin embargo, su proceso de desarrollo estará condicionado a que el desarrollador presente un plan parcial de desarrollo urbano donde demuestre y asegure mediante los estudios y análisis correspondientes la factibilidad de toda la infraestructura necesaria para que el desarrollo sea sustentable.
 
-###### ARTÍCULO 83.
+###### Artículo 83.
 
-Hechos punibles de querella. El otorgamiento del perdón solo operará, para los efectos señalados, respecto de hechos que puedan ser o hayan sido tipificados en relación con las siguientes figuras típicas, consideradas como hechos punibles de querella:
+Los desarrollos inmobiliarios en esta zona, en el resolutivo correspondiente deberá establecerse que el promovente aporte un porcentaje del 3% del valor de la urbanización a favor del fideicomiso ambiental que se cree e incorporar garantías ambientales, a favor del mismo fideicomiso con fin de promover los costos de conservación de la zona. En caso de un desarrollo de vivienda de interés social, el porcentaje será del 1%.
 
-I. Lesiones Dolosas, previstas en el Artículo 104, Fracciones I, II, III y IV;
+###### Artículo 84.
 
-II. Lesiones Dolosas en Riña, previstas en el Artículo 105;
+En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad urbanística, quien lo turnara al H. Ayuntamiento para análisis y en su caso la aprobación de la declaratoria de asignación de uso de suelo.
 
-III. Hostigamiento Sexual, prevista en el Artículo 114;
+###### Artículo 85.
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+En la zona de reserva para el crecimiento (ZRC) y en las Zonas de reserva para el crecimiento condicionada (ZRC-C) no se permitirá la industria pesada y de riesgo.
 
-IV. Abuso sexual y Abuso sexual Equiparado previstos en el Artículo 115 con excepción del caso previsto en su párrafo quinto;
+###### Artículo 86.
 
-V. Estupro, prevista en el Artículo 118;
+La licencia de uso del suelo en locales comerciales, centros comerciales y bodegas, destinados para la venta o renta, sin un uso predeterminado, se deberá otorgar de acuerdo a la zona en donde se ubique con base a la Tabla de Compatibilidades, debiendo cumplirse además con las áreas para estacionamientos, de acuerdo a las normas que se mencionan en la Tabla de Requerimiento de Estacionamiento, localizada en el Anexo 4 del presente código.
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+###### Artículo 87.
 
-V.A. Violación entre cónyuges o concubinos, prevista en el penúltimo párrafo del artículo 119.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-V.B. Violación equiparada entre cónyuges o concubinos, prevista en el último párrafo del artículo 120.
+###### Artículo 88.
 
-VI. Fecundación Artificial Indebida prevista en el Artículo 125, únicamente cuando el cónyuge o concubinario de la víctima tenga algún grado de intervención en la comisión del hecho punible;
+La Dirección podrá autorizar en un solo predio más de un local comercial o de servicios.
 
-VII. Sustracción de Menores e Incapaces, cuando el inculpado sea familiar de la víctima, prevista en el Artículo 127;
+###### Artículo 89.
 
-VIII. Bigamia, prevista en el Artículo 129;
+Las zonas industriales quedarán sujetas a normas sobre control ambiental que establezcan las Leyes y Ordenamientos vigentes en la materia.
 
-IX. Incumplimiento de las Obligaciones de Asistencia Familiar, prevista en el Artículo 131;
+###### Artículo 90.
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2023)</small>
+Toda industria clasificada como de intensidad media y alta que colinde con usos habitacionales, deberá dejar una zona arbolada como mínimo de 3 metros en la parte posterior del predio.
 
-IX Bis. Violencia Vicaria, prevista en el Artículo 132 Bis;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-X. Allanamiento de Morada, prevista en el Artículo 137;
+###### Artículo 91.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+Los lotes en zonas industriales que se localicen colindando o frente a una zona habitacional deberán dejar una franja libre de construcción de 6 metros en el lado colindante con la zona habitacional mismo que deberá utilizarse como estacionamiento y zona arbolada.
 
-X.A. Amenazas, prevista en el artículo 139, con excepción de lo dispuesto en el párrafo tercero.
+###### Artículo 92.
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2026)</small>
+Las compatibilidades en los corredores, serán las mismas que las marcadas para las zonas con igual denominación y deberán contar con estacionamientos de acuerdo a la Tabla de Requerimiento de Estacionamientos localizada en el Anexo 4 del presente código, así como con área de carga y descarga dentro de los mismos.
 
-X. B. Acecho, previsto en el artículo 139 Ter, con excepción de los supuestos en los que deba perseguirse de oficio.
+###### Artículo 93.
 
-XI. Abuso de Confianza, prevista en el Artículo 146;
+Cuando los predios no formen parte de un desarrollo previo, el límite de la zona de los corredores será de la dimensión y colindancias totales del predio a desarrollarse que de frente a la vialidad del corredor.
 
-XII. Fraude, prevista en el Artículo 147;
+###### Artículo 94.
 
-XIII. Usura, previsto en el Artículo 148;
+Cuando los lotes formen parte de un desarrollo habitacional previamente autorizado, la delimitación del corredor donde se encuentre estará en función del fondo de los lotes autorizados y el uso de suelo será de acuerdo a la Tabla de compatibilidades.
 
-XIV. Despojo previsto en el Artículo 150;
+###### Artículo 95.
 
-XV. Daño en las Cosas Doloso, prevista en el Artículo 151;
+Para los nuevos fraccionamientos en los cuales se contemplen ejes metropolitanos o vialidades primarias en los mismos, se podrán considerar usos de suelo distintos al habitacional en aquellos lotes que colinden con las vialidades mencionadas.
 
-XVI. Ejercicio Indebido del Propio Derecho, prevista en el Artículo 164;
+###### Artículo 96.
 
-XVII. Revelación de Secretos, prevista en el Artículo 179;
+La localización de los corredores se determinará en el Plano de Zonificación Municipal.
 
-XVIII. Violación de Correspondencia, prevista en el Artículo 180;
+###### Artículo 97.
 
-XIX. Acceso Informático indebido, previsto en el Artículo 181;
+En el caso de que la vía colectora no este incluida en el listado anterior, la Dirección la clasificará tomando en cuenta la intensidad de usos que se estén dando en dichas vías y su sección, o de acuerdo a lo manifestado por el proyecto del fraccionamiento y deberá de contar con el visto bueno del IMPLAN.
 
-XX. Defraudación Fiscal, prevista en el Artículo 190;
+###### Artículo 98.
 
-XXI. Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en las Fracciones I y II del Artículo 194, con excepción de lo dispuesto en el último párrafo;
+Los límites de cada una de las zonas, serán las señaladas dentro del plano de zonificación, siendo obligatorios los siguientes aspectos:
 
-XXII. Homicidio Culposo, prevista en los párrafos primero y segundo del Artículo 195;
+I. La delimitación de las zonas referidas en este Título; y,
 
-XXIII. Aborto Culposo, previsto en los párrafos primero y segundo el Artículo 196;
+II. La demarcación de las áreas y predios comprendidos en las mismas.
 
-XXIV. Lesiones culposas previstas en el Artículo 197, con excepción de lo dispuesto en el último párrafo; y
+###### Artículo 99.
 
-XXV. Daño en las Cosas Culposo, previsto en el Artículo 198 con excepción de lo dispuesto en el último párrafo.
+Los límites de las zonas señaladas en el plano de zonificación, se analizarán de acuerdo a los siguientes criterios:
 
-###### ARTÍCULO 84.
+I. En los límites de zonas marcadas con usos distintos, la Dirección podrá autorizar los usos del suelo que se clasifiquen como usos compatibles en ambas zonas;
 
-Reconocimiento de inocencia. El reconocimiento de la inocencia del sentenciado extingue la potestad de ejecutar las penas y medidas de seguridad impuestas por la sentencia, y procede en los siguientes supuestos:
+II. Cuando una línea divisoria de zona sea señalada entre las manzanas de la dimensión más larga, el límite se considerará con la distancia de lo que mida de fondo cada lote tipo ubicado a lo largo de la línea divisoria;
 
-I. Cuando la sentencia se haya basado exclusivamente en medios probatorios cuya falsedad sea declarada con posterioridad;
+III. Cuando una línea divisoria de zona sea señalada entre las manzanas de la dimensión más corta, el límite será el lote completo ubicado en la cabecera de manzana; y,
 
-II. Cuando después de la sentencia se presenten documentos públicos que invaliden los medios probatorios en que se haya basado la sentencia;
+IV. No se autorizará la ampliación de usos del suelo en los límites de zonas, cuando dichos usos no sean compatibles entre las mismas.
 
-III. Cuando dictada sentencia por homicidio de persona que haya desaparecido, se presentare ésta o medio probatorio pleno de que la supuesta víctima vive;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-IV. Cuando dos personas hayan sido sentenciadas por el mismo hecho punible con la calidad de autores, y se demuestre la imposibilidad de que uno de ellos lo hubiere realizado; o
+###### Artículo 100.
 
-V. Cuando el sentenciado lo hubiere sido por los mismos hechos en dos procedimientos diversos. En este caso, será nula la segunda sentencia.
+Para las zonas en donde existan usos de suelo diferentes a los señalados en el mapa de zonificación, se tomará en cuenta la consolidación de la manzana y el frente de ésta o incluso de la zona, según el caso, en relación con los usos existentes, se podrá autorizar por parte de la Dirección el uso de suelo predominante o compatible.
 
-###### ARTÍCULO 85.
-
-Procedimiento para el reconocimiento de inocencia. El sentenciado que se crea con derecho a obtener el reconocimiento de inocencia, presentará solicitud al Juez de Ejecución, en el que expondrá la causa en que funda su petición, anexando los medios probatorios correspondientes o protestando exhibirlos oportunamente.
-
-En la misma solicitud, designará al Licenciado en Derecho que lo represente durante el trámite del procedimiento, hasta su total conclusión.
-
-Recibida la solicitud, el Juez de Ejecución solicitará los expedientes relacionados y señalará día y hora para audiencia oral en el que se desahogarán los medios probatorios propuestos, citando al Ministerio Público del tribunal donde se haya tramitado el expediente que dio motivo al trámite.
-
-Desahogadas las pruebas admitidas, las partes formularán sus alegatos oralmente. Una vez realizado lo anterior se declarará cerrado el debate y el Juez de Ejecución resolverá en el momento o a más tardar en un término que no excederá de diez días.
-
-Contra la resolución que emita el Juez de Ejecución procede el recurso de apelación en términos de lo establecido en la Ley de Ejecución de Sanciones Penales para el Estado de Aguascalientes.
-
-Si se declara procedente la solicitud, se notificará inmediatamente a la autoridad ejecutora para que surta desde luego sus efectos legales. En caso contrario, se mandará archivar el expediente, previa notificación personal a los sujetos procesales interesados.
-
-###### ARTÍCULO 86.
-
-Prescripción. Por la prescripción se extingue la acción penal y la potestad de ejecutar las penas y medidas de seguridad, salvo en los casos que la propia ley no permita la prescripción. Es personal y para ello bastará el simple transcurso del tiempo señalado por la Ley. Los plazos para la prescripción se duplicarán respecto de quienes se encuentren fuera del territorio del Estado, si por esta circunstancia no es posible ejecutar una pena o medida de seguridad.
-
-###### ARTÍCULO 87.
-
-Prescripción de la acción penal. El ejercicio de la acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que establezca la descripción típica que corresponda, pero en ningún caso será menor de tres años, y se contará a partir del momento en que se haya concretizado el resultado de lesión o de puesta en peligro del bien jurídico, si el delito es calificado de instantáneo; del momento en que se realizó el último acto de ejecución o se omitió la acción ordenada, si el delito se califica en grado de tentativa; desde el día en que se realizó la última conducta provocadora del resultado de lesión o de puesta en peligro del bien jurídico, si se trata de un delito continuado; y desde el momento en que deje de tener sus efectos, si se trata de delito permanente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-En el caso de los Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, el inicio del cómputo de los plazos de la prescripción comenzará a partir del día en que la víctima cumpla la mayoría de edad, con excepción de los delitos previstos en los artículos 114, 115, 116, 117, 118, 119 y 120 de este Código, los cuales serán imprescriptibles.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
-
-(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE SEPTIEMBRE DE 2024) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2024)
-
-El ejercicio de la acción penal también será imprescriptible si el echo (sic) encuadra en el tipo penal de incumplimiento de las obligaciones de asistencia familiar.
-
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
-
-###### ARTÍCULO 88.
-
-Prescripción en caso de concurso. En los casos de concurso real o ideal, los plazos de la prescripción se computarán separadamente para cada hecho punible, pero correrán en forma simultánea, salvo que uno de los hechos sea tipificado bajo los supuestos previstos por el párrafo segundo del artículo 87 de este Código, puesto que en estos casos no opera la prescripción.
-
-###### ARTÍCULO 89.
-
-Requisito previo. Cuando para ejercitar o continuar el ejercicio de la acción penal sea necesaria una declaración o una resolución previa de autoridad, la prescripción comenzará a correr desde que sea satisfecho tal requisito.
-
-###### ARTÍCULO 90.
-
-Interrupción de la prescripción. La prescripción de la acción penal se interrumpirá:
-
-I. Por las actuaciones que se practiquen directamente para la investigación de hechos punibles en la averiguación previa correspondiente. Si se dejare de actuar, la prescripción comenzará de nuevo desde el día siguiente al de la última diligencia;
-
-II. Con la aprehensión del inculpado, y en todo caso en que éste se encuentre sujeto a procedimiento; y
-
-III. Cuando el inculpado se encuentre sujeto a procedimiento penal o compurgando una pena de prisión en otra Entidad Federativa o en el Distrito Federal.
-
-Si el inculpado se sustrae a la acción de la autoridad, el término de la prescripción correrá a partir del día siguiente.
-
-En el caso de que el procesado se haya sustraído valiéndose del beneficio de la libertad provisional bajo caución, la prescripción comenzará a correr desde el día siguiente a aquel en que debió ordenarse la reaprehensión.
-
-###### ARTÍCULO 91.
-
-Prescripción de la potestad de ejecutar penas y medidas de seguridad. Los términos para la prescripción de la potestad de ejecutar las penas y medidas de seguridad serán continuos y correrán desde el día siguiente a aquél en que el sentenciado se substraiga a la acción de la autoridad, si las penas son privativas o restrictivas de la libertad, y si no lo son, desde la fecha en que la sentencia sea ejecutoria.
-
-###### ARTÍCULO 92.
-
-Prescripción de la multa y la reparación del daño. La potestad de ejecución de la pena de multa prescribirá en dos años y la de reparación de daños y perjuicios en cuatro años, contados a partir de la fecha en que haya causado ejecutoria la sentencia.
-
-###### ARTÍCULO 93.
-
-Prescripción de la pena de prisión. La potestad de ejecutar la pena de prisión prescribirá en un lapso igual al fijado en la sentencia, pero no podrá ser inferior a tres años, ni superior a veinte años. Cuando se haya cumplido parte de la pena de prisión, se necesitará para la prescripción un tiempo igual al que falte para su cumplimiento, tomando en cuenta los límites fijados en este Artículo.
-
-###### ARTÍCULO 94.
-
-Prescripción de las demás sanciones. La potestad de ejecutar las demás penas y las medidas de seguridad, prescribirá por el transcurso de un término igual al de su duración, pero ésta no podrá ser inferior a dos años ni exceder de diez años. Las que no tengan temporalidad, prescribirán en tres años contados a partir de la fecha en que la resolución haya causado ejecutoria.
-
-###### ARTÍCULO 95.
-
-Prescripción del derecho a formular querella. El derecho para formular querella prescribirá en dos años, contados a partir del momento en que la víctima u ofendido tengan conocimiento directo del resultado de afectación o de puesta en peligro del bien jurídico protegido por la correspondiente figura típica del que sea titular.
-
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2026)</small>
-
-Tratándose del delito previsto en el artículo 131 de este Código, relativo al incumplimiento de obligaciones de asistencia familiar, el derecho de querella será imprescriptible.
-
-###### ARTÍCULO 96.
-
-Resolución de la extinción. La extinción de la acción penal y de la potestad para ejecutar penas y medidas de seguridad, podrá resolverse de oficio o a petición de la parte interesada.
-
-# LIBRO SEGUNDO. PARTE ESPECIAL
-
-###### ARTÍCULO 97.
-
-Homicidio Doloso. El Homicidio Doloso consiste en privar de la vida a un ser humano por cualquier medio.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-Al responsable de Homicidio Doloso se le aplicarán de 25 a 35 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-###### ARTÍCULO 97-A.
-
-Feminicidio. Comete el delito de feminicidio la persona que por razones de género prive de la vida a una mujer.
-
-Se considerará que existen razones de género cuando se acredite cualquiera de las siguientes hipótesis:
-
-I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, amistad o cualquier otra relación de hecho;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, docente, política o cualquiera otra que implique confianza, subordinación o superioridad;
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
-
-III. La víctima presente signos de violencia sexual de cualquier tipo o su cadáver presente signos de necrofilia;
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
-
-IV. A la víctima se le hayan infligido lesiones, mutilaciones o signos de haber sufrido tortura, previas o posteriores a la privación de la vida;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-V. Existan antecedentes o actos que establezcan que el sujeto activo ha cometido amenazas, acoso, lesiones, violencia familiar, laboral, escolar, política, o de cualquier otro tipo en contra de la víctima;
-
-VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público;
-
-VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de su vida;
-
-VIII. Que el activo haya obligado a la víctima a ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2019)</small>
-
-IX. La víctima se hubiere encontrado en estado de gravidez.
-
-X. Cuando el sujeto activo abuse de su cargo público para la comisión del delito.
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-A quien cometa el delito de feminicidio se sancionará con prisión de cuarenta a sesenta años, de 500 a 1000 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión se aumentará en una tercera parte más respecto de los mínimos y máximos indicados, cuando la víctima sea menor de 16 años de edad o tenga 60 años o más.
-
-Se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
-
-Cuando la víctima tenga hijos menores de edad que queden en la orfandad, el responsable deberá indemnizar en concepto de reparación del daño a los representantes de los menores con el doble de la indemnización a que alude el artículo 58 del presente Código.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2025)</small>
-
-Cuando en los hechos no concurran las razones de género previstas en el presente Artículo, al que dolosamente prive de la vida a una mujer por cualquier medio, se le impondrán de 25 a 35 años de prisión y de 25 a 250 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados. Lo anterior salvo lo previsto en el artículo 107 de este Código, en relación con el delito de homicidio doloso considerado como calificado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2023)</small>
-
-###### ARTÍCULO 98.
-
-Homicidio en riña, en vindicación y por móviles de piedad. Si el Homicidio Doloso se cometiera en Riña, se aplicará al responsable de 6 a 12 años de prisión y multa de 30 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, tomándose en cuenta, para la individualización de las penas, si el responsable tuvo el carácter de provocado o provocador. En caso de que el responsable tenga el carácter de provocado, la pena de prisión establecida se disminuirá en una tercera parte, en lo que se refiere a su mínimo y a su máximo.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2023)</small>
-
-Se aplicará la punibilidad de 4 a 10 años de prisión, multa de 15 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, al responsable de Homicidio Doloso previsto en las dos fracciones siguientes:
-
-I. En vindicación próxima de una ofensa grave causada al responsable, a su cónyuge, concubino, ascendientes, descendientes o hermanos; y
-
-II. Por móviles de piedad, mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2025)</small>
-
-###### ARTÍCULO 99.
-
-Homicidio Doloso agravado. Cuando el Homicidio Doloso se cometa por motivo de tortura, violación, robo, después de concluida una rebelión, en el interior de casa habitación o sus dependencias a la que el responsable haya penetrado de manera furtiva, con engaño, con violencia o sin permiso de la persona autorizada para otorgarlo, cuando la víctima presente signos de violencia sexual previos o contemporáneos a la realización del homicidio, o el hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello, se aplicarán al responsable de 35 a 45 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, atendiendo en este caso, además, a las reglas del concurso.
-
-###### ARTÍCULO 100.
-
-Instigación o ayuda al suicidio. La Instigación o Ayuda al Suicidio consiste en prestar auxilio o inducir a otro para que se suicide.
-
-Al responsable de Instigación o Ayuda al Suicidio se le aplicarán de 2 a 5 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
-
-Si la víctima fuere menor de 18 años de edad, mayor de 60 o se tratare de persona que no tenga la capacidad para comprender el significado del hecho o con discapacidad, se aplicarán al responsable de 3 a 8 años de prisión y de 20 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
-
-Las penas de prisión y multa referidas en los dos párrafos anteriores, se duplicarán en sus mínimos y máximos, cuando la víctima sea una mujer y se acredite alguna de las razones de género previstas en el Artículo 97-A de este Código.
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
-
-Si el acto de instigación ocurrió en circunstancias relacionadas con motivo del acoso escolar sobre la víctima, la pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-### CAPÍTULO VI. Circunstancias Modificadoras de la Punición
+### CAPÍTULO V. DE LAS AUTORIZACIONES EN MATERIA DE GESTIÓN URBANA PARA LA ZONIFICACIÓN Y USOS DEL SUELO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
-###### ARTÍCULO 101.
+###### Artículo 101.
 
-Aborto. El aborto consiste en la interrupción del embarazo con el consentimiento de la mujer embarazada, después de la sexta semana de gestación. Para los efectos de esta (sic) Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+En materia de gestión urbana, se podrán expedir, los documentos siguientes:
 
-A quien voluntariamente se practique un aborto u otorgue consentimiento para que otro lo realice en su persona, se le aplicarán de 3 a 6 meses de prisión, de 500 a 1000 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
+I. Declaratoria de Asignación de Uso del Suelo;
 
-Cuando el aborto lo realice un médico, cirujano o partero, se le aplicará de 6 meses a 1 año de prisión, de 1500 a 2000 días multa y al pago total de la reparación de los daños y perjuicios ocasionados, y en su caso, la inhabilitación para el ejercicio profesional hasta por 1 año.
+II. Licencia de Alineamiento y Asignación de Numero Oficial;
 
-En caso de que el responsable de aborto sea persona distinta al personal indicado en el párrafo que antecede, se le aplicarán de 3 a 6 años de prisión y de 2500 a 3000 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
+III. Información de Uso de Suelo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+IV. Licencia de Construcción;
 
-###### ARTÍCULO 102.
+V. Certificación de Terminación de Obra;
 
-Aborto forzado. El aborto forzado consiste en la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada.
+VI. Licencia de Uso de Suelo;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+VII. Licencia Condicionada de Uso de Suelo; y,
 
-Al responsable de Aborto forzado se le aplicarán de 3 a 6 años y de 70 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si mediare violencia física o moral sobre la mujer embarazada o persona gestante, se impondrán al responsable de 6 a 8 años de prisión y de 80 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+VIII. Permiso de División o Fusión de inmuebles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+La Declaratoria de Asignación de uso del Suelo prevista en la fracción I de este artículo, corresponde su otorgamiento al H. Ayuntamiento a propuesta del IMPLAN a través de la Comisión del Instituto Municipal de Planeación, para lo cual deberá observarse lo previsto en este Código, la Ley de Desarrollo Urbano y demás normativa aplicable.
 
-###### ARTÍCULO 103.
+En lo que hace a las fracciones II a VIII, corresponde a la Dirección su expedición, en los términos del presente Código y demás normativa aplicable.
 
-Se consideran como excluyentes de responsabilidad penal en el delito de Aborto:
+###### Artículo 102.
 
-I. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2024)
+El otorgamiento de los documentos referidos en el Artículo anterior a excepción de la Información de uso de suelo, causarán los derechos que anualmente fijen las tarifas establecidas en la Ley de Ingresos y las disposiciones administrativas, según sea el caso, para el Municipio para el ejercicio fiscal que corresponda; por lo que los particulares solicitantes deberán de presentar el recibo que acredite el pago de tales derechos.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
+###### Artículo 103.
 
-II. Cuando el embarazo haya sido causado por hecho punible tipificado como violación o estupro;
+Cuando los particulares no cumplan con los requisitos que exige el presente Reglamento para la expedición de cada uno de los documentos citados en el presente capítulo, la Dirección o el IMPLAN, para el caso de las Declaratorias de asignaciones de uso, requerirán al solicitante a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la petición se tendrá por no presentada.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+###### Artículo 104.
 
-III. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada; o
+Tratándose de la Información de uso de suelo, los particulares podrán tramitarlas vía electrónica a través del Sitio Web que la Dirección diseñe para ese efecto.
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+###### Artículo 105.
 
-IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para determinar que el aborto fue espontáneo o diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada.
+Para la utilización o uso de predios o inmuebles, es necesario obtener previamente la Licencia de uso del suelo, o bien la Licencia condicionada de uso del suelo en los términos de este Código.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-En los casos de las fracciones III y IV que anteceden, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
+###### Artículo 106.
 
-###### ARTÍCULO 104.
+Las licencias, certificaciones y demás autorizaciones contempladas en este capítulo no constituyen constancia de apeo y deslinde respecto de los inmuebles, ni acreditan la propiedad o posesión de los mismos. La licencia de alineamiento y asignación del número oficial, tendrán una vigencia igual al POTE; de tal forma, que si éste se modifica, deberá obtenerse una nueva.
 
-Lesiones dolosas. Las Lesiones Dolosas consisten en alterar la salud o provocar cualquier otro daño en el cuerpo humano, por utilización de cualquier agente externo.
+###### Artículo 107.
 
-Al responsable de Lesiones Dolosas se le aplicarán:
+Para cualquier otro trámite posterior respecto de las licencias ya otorgadas, se deberá presentar ante la Dirección una copia del trámite autorizado.
 
-I. De 3 a 6 meses de prisión y de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y tardan en sanar hasta 15 días;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-II. De 6 meses a 2 años de prisión y de 20 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y tardan en sanar más de 15 días;
+###### Artículo 108.
 
-III. De 1 a 4 años de prisión y de 20 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y dejan al sujeto pasivo cicatriz notable y permanente;
-
-IV. De 1 a 5 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y le provocan al sujeto pasivo la disminución de facultades o el normal funcionamiento de órganos o miembros, o le producen incapacidad temporal de hasta un año para trabajar;
-
-V. De 2 a 8 años de prisión y de 30 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y le provocan al sujeto pasivo la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad, o le causan una enfermedad incurable o deformidad incorregible, o incapacidad de más de un año para trabajar; y
-
-VI. De 3 a 7 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si ponen en peligro la vida, independientemente del tiempo que tarde en sanar;
-
-Si las Lesiones Dolosas provocaran varias de las consecuencias aquí establecidas, sólo se tomará en cuenta la punibilidad prevista para las de mayor gravedad.
-
-Si las Lesiones Dolosas que provocan las consecuencias establecidas en las Fracciones III, IV y V de este Artículo, pusieran en peligro la vida de la víctima, la punibilidad se aumenta hasta en una mitad más respecto de los mínimos y máximos señalados en cada fracción.
-
-###### ARTÍCULO 105.
-
-Lesiones en riña. Si las Lesiones Dolosas fueron por motivo de Riña, se aplicará a los responsables la mitad del mínimo y máximo establecidos en las diversas Fracciones del Artículo anterior, si se trata del provocado, hasta las dos terceras partes de tales mínimo y máximo, si se trata de provocador.
-
-###### ARTÍCULO 106.
-
-Riña. Por Riña se entiende la contienda de obra entre dos o más personas, o la agresión física de una parte y la disposición material para contender de la otra, con el propósito de dañarse recíprocamente.
-
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 2 DE JULIO DE 2018)</small>
-
-###### ARTÍCULO 107.
-
-Homicidio y lesiones calificados. El Homicidio Doloso y las Lesiones Dolosas serán considerados como calificados:
-
-I. Cuando se cometan con:
-
-a) Premeditación;
-
-b) Ventaja;
-
-c) Alevosía;
-
-d) Traición; o
-
-e) Brutal ferocidad.
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-II. Cuando la víctima sea menor de 16 años de edad o tenga 60 años o más.
-
-III. Cuando la víctima se dedique al ejercicio de las labores periodísticas, y el resultado se provoque con motivo del ejercicio de su profesión;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-IV. El hecho se haya cometido aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello;
-
-V. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2024)
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-VI. Cuando se cometa con discriminación a razón de alguna característica específica de la persona como la condición social o económica; vinculación, pertenencia o relación con un grupo social definido; origen étnico o social; nacionalidad o lugar de origen; color de la piel; lengua; sexo o género; religión; edad; opiniones; discapacidad; condiciones de salud; apariencia física; orientación sexual; estado civil; ocupación o actividad laboral;
-
-> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-VII. Cuando el responsable tenga o haya tenido relación de pareja o de carácter conyugal, sea pariente consanguíneo o civil en línea recta, ascendente o descendente sin limitación de grado, pariente colateral consanguíneo, civil o afín hasta el cuarto grado, con la victima;
-
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2023)</small>
-
-VIII. Cuando la víctima sea una persona integrante de alguna de las Instituciones de Seguridad Pública, o de sus corporaciones auxiliares de acuerdo con la Ley del Sistema Estatal de Seguridad Pública de Aguascalientes, y el resultado se provoque con motivo del ejercicio de sus funciones.
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-IX. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custodia del responsable; o
-
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-X. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-En el caso de homicidio doloso calificado a que se refieren las fracciones I, II, III y VIII se aplicará al responsable de 30 a 45 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV, V, VI, VII y IX se aplicará al responsable de 35 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
-
-Si las lesiones dolosas son calificadas, la punibilidad establecida en el artículo 104 de este código, se aumentará hasta en dos terceras partes en sus mínimos y máximos, en tratándose de los supuestos de las fracciones VI, VII, VIII, IX y X del presente artículo.
-
-###### ARTÍCULO 108.
-
-Premeditación. Existe Premeditación siempre que el inculpado provoque dolosamente el resultado lesivo, después de haber reflexionado sobre el hecho a realizar con ponderación de los factores que concurran en su realización.
+La Dirección establecerá un procedimiento unificado y simplificado para que el ciudadano, a través de una sola ventanilla, realice y obtenga todas las autorizaciones, licencias, permisos, así como la información de uso de suelo antes mencionada.
 
 #### SECCIÓN SEGUNDA. DE LAS DECLARATORIAS DE ASIGNACIÓN DE USO DEL SUELO
 
-###### ARTÍCULO 109.
+###### Artículo 109.
 
-Ventaja. Existe Ventaja cuando el inculpado provoca el resultado lesivo empleando medios o aprovechando circunstancias o situaciones tales que imposibiliten la defensa de la víctima y aquél no corra riesgo alguno de ser muerto o lesionado, con conocimiento de esta situación.
+Las Declaratorias de asignación de usos, destinos y reservas territoriales constituyen la autorización que, atendiendo al interés público y a lo que estatuye el POTE, expide el H. Ayuntamiento para dictar las modalidades en el ejercicio del derecho de propiedad de bienes inmuebles ubicados en los centros de población del Municipio, regulando además la fundación, conservación, mejoramiento y crecimiento de los mismos, así como el establecimiento de adecuadas provisiones, usos, reservas y destinos de áreas y predios.
 
-###### ARTÍCULO 110.
+###### Artículo 110.
 
-Alevosía. Existe Alevosía cuando el inculpado sorprende dolosamente a la víctima de forma imprevista o empleando asechanza u otro medio que no le dé oportunidad a ésta para que se defienda, ni evitar el mal que se le quiera hacer.
+Las Declaratorias de asignación de usos, destinos y reservas territoriales, deberán derivarse del POTE, así como de los programas de desarrollo urbano a nivel municipal, y deberán expedirse de conformidad con el presente Código, la Ley de Desarrollo Urbano y demás normativa aplicable.
 
-###### ARTÍCULO 111.
+###### Artículo 111.
 
-Traición. Existe Traición cuando el inculpado provoca el resultado de lesión, quebrantando la confianza o seguridad que expresamente había prometido a la víctima, o la tácita que debía existir por sus relaciones de parentesco, gratitud, amistad o cualquiera otra causa que inspire tal confianza o seguridad.
+Para obtener la Declaratoria de asignación de usos, destinos y reservas territoriales, el interesado deberá cubrir los requisitos siguientes:
 
-###### ARTÍCULO 112.
+I. Solicitud debidamente completada en los formatos que proporcione el IMPLAN;
 
-Brutal ferocidad. Existe Brutal Ferocidad, cuando el inculpado provoca el resultado lesivo sin causa o motivo que lo explique, o por una causa móvil notoriamente desproporcionada.
+II. Poder Notarial del representante legal del promoverte, en su caso;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+III. Copia certificada de la escritura que acredite la propiedad debidamente inscrita en el Registro Público de la Propiedad y del Comercio;
 
-###### ARTÍCULO 113.
+IV. Plano a escala legible en las que se identifique plenamente los inmuebles a que se refieren las escrituras;
 
-Existe discriminación cuando se acredite que los actos del inculpado son motivados por ideologías basadas en la superioridad, aborrecimiento, intolerancia, rechazo, desprecio, humillación o cualquier otro acto que estigmatice o segregue a la víctima, por alguna de las características específicas de la persona descritas en la fracción VI del artículo 107 de este Código.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+V. Plan Parcial de Desarrollo Urbano en las zonas de reserva para el crecimiento condicionado ZRC-C, de conformidad con el presente Ordenamiento;
 
-ARTÍCULO 113 A.- Administración subrepticia de sustancias. Comete el delito de administración subrepticia de sustancias quien, sin el consentimiento de la víctima, administre, introduzca, suministre o aplique cualquier sustancia de manera subrepticia o mediante engaño.
+VI. Licencia de Factibilidad de Uso de Suelo, incluido plano, así como Anteproyecto Arquitectónico o de lotificación, tratándose de Desarrollos habitacionales; y,
 
-La conducta podrá realizarse por cualquier vía, incluyendo oral, intravenosa, intramuscular, dérmica o subcutánea, mediante el uso de bebidas, alimentos, objetos punzocortantes, inyecciones, agujas o cualquier otro medio. La conducta será sancionada independientemente de la finalidad con la que se lleve a cabo.
+VII. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-Para efectos del presente artículo, sustancia es aquella que produzca alteraciones en la conciencia, la voluntad, la salud, el estado físico o mental de una persona que está definida conforme a la Ley General de Salud a fin de dar certeza respecto de la conducta que se pretende sancionar.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Al responsable de Administración subrepticia de sustancias se le aplicarán de 2 a 5 años de prisión y de 50 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+###### Artículo 112.
 
-Las penas de prisión y multa referidas en el párrafo anterior, se duplicarán en sus mínimos y máximos, cuando:
+El interesado presentará la solicitud de declaratoria de asignación de uso de suelo directamente al IMPLAN.
 
-I. La sustancia administrada sea psicoactiva, narcótica, psicotrópica o tóxica, de acuerdo con la clasificación de la Ley General de Salud;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-II. La sustancia administrada ponga en peligro la vida o salud de la víctima;
+###### Artículo 113.
 
-III. El acto se cometa en medios de transporte público, instalaciones públicas o eventos de concentración masiva;
+El IMPLAN deberá analizar la documental e información presentada por el interesado, y posteriormente someterla a la consideración del H. Ayuntamiento, para su análisis, discusión y en su caso dictaminación respectiva. Si el asunto fue acordado favorablemente por dicho cuerpo colegiado, el IMPLAN deberá notificar el contenido de la resolución respectiva al interesado, solicitante y a la Dirección.
 
-IV. La conducta se realice contra dos o más personas, en un mismo acto o mediante actos sucesivos;
+###### Artículo 114.
 
-V. El acto tenga como finalidad facilitar la comisión de otros delitos;
+Si del análisis realizado por el IMPLAN, la documental e información presentada por el particular no cumple con los requisitos legales y técnicos requeridos, el mismo Instituto notificará fundada y motivadamente al interesado la negativa sobre la Declaratoria de Asignación de Uso del Suelo.
 
-VI. La conducta se realice por dos o más personas o por un grupo de manera coordinada; o
+###### Artículo 115.
 
-VII. La conducta se realice en un lugar cerrado o con acceso restringido.
-
-###### ARTÍCULO 114.
-
-Hostigamiento sexual. El Hostigamiento Sexual consiste en:
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
-
-I. El asedio que se haga con fines lascivos, sobre cualquier persona por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
-
-II. El asedio con fines lascivos, para sí o por tercera persona, a cualquier persona, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
-
-III. El asedio que se haga con fines lascivos, sobre cualquier persona en espacios o establecimientos públicos, que afecte o perturben el derecho a la integridad física, psíquica y moral o el derecho al libre tránsito; causándole intimidación, degradación, humillación o un ambiente ofensivo; o
-
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
-
-IV. Captar imágenes o cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico sexual.
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-Al responsable de Hostigamiento Sexual previsto en las Fracciones I y II del presente Artículo se le aplicarán de 1 a 2 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 años de edad o cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-Al responsable de Hostigamiento Sexual previsto en las Fracciones III y IV se le aplicarán de 6 meses a 1 año 6 meses de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-La pena de prisión y días de multa de Hostigamiento Sexual se aumentará hasta en una mitad en sus mínimos y sus máximos cuando la conducta sea cometida por ascendiente contra su descendiente, el tutor contra su pupilo, o adoptante contra su adoptado, o el guía religioso contra su asesorado.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Si el hostigador fuese servidor público y utilizare los medios o circunstancias que el encargo le proporcione, además de las penas señaladas en el presente Artículo, se le destituirá del cargo y será inhabilitado para ocupar cualquier otro cargo público por un año.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
-
-Si el sujeto activo fuese personal docente o administrativo de una institución educativa, pública o privada, y la víctima fuese estudiante de la misma, la pena de prisión se aumentará hasta en una mitad en sus mínimos y máximos. Además de las penas señaladas, se le destituirá del cargo y quedará inhabilitado para desempeñar cualquier empleo, cargo o comisión en el sistema educativo por un periodo de uno a cinco años.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
-
-###### ARTÍCULO 115.
-
-Abuso sexual. El Abuso sexual consiste en:
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
-
-I. La ejecución de cualquier acto de naturaleza sexual distintos a la copula, sin consentimiento de la víctima;
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
-
-II. Que se obligue a la víctima a observar cualquier acto de naturaleza sexual;
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
-
-III. Que se obligue a la víctima a ejecutar sobre sí para un tercero o para el propio sujeto activo cualquier acto de naturaleza sexual distintos a la copula; o
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
-
-IV. Que se obligue a la víctima a exhibir su cuerpo;
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
-
-Se entenderá por acto de naturaleza sexual, cualquier tocamiento corporal en los glúteos, senos, zona pélvica o región perianal, o bien, aquellos que sin llegar al contacto físico representen actos explícitamente sexuales, como caricias o masturbaciones sin penetración.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
-
-También se equiparará a Abuso sexual, cuando se realicen los actos descritos en las fracciones I, II, III y IV del presente artículo, y si exista consentimiento sea otorgado por la víctima , pero esta sea una persona menor de quince años, que no tenga capacidad para comprender el significado del hecho o capacidad para resistir la conducta del sujeto activo.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
-
-Al responsable del delito de Abuso sexual o Abuso sexual equiparado se le impondrá de 6 meses a 3 años de prisión y de 25 a 250 días multa, así como el pago de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de quince años, pero menor de 18 años de edad, al inculpado se le aplicará de 1 año con 6 meses a 3 años de prisión, de 50 a 250 días de multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
-
-Si el inculpado hiciere uso de violencia física o moral, las punibilidades referidas en el párrafo anterior incrementarán y se aplicarán de 2 a 6 años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
-
-Si la víctima es menor de quince años de edad o por cualquier causa no puede resistir la conducta del sujeto activo, al responsable se le aplicarán de tres a seis años de prisión y de 100 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Las declaratorias de asignación de uso del suelo, deberán inscribirse en el Registro Público de la Propiedad y del Comercio y publicarse en el Periódico Oficial del Gobierno del Estado, ello a costa del solicitante.
 
 #### SECCIÓN TERCERA. DE LA LICENCIA DE ALINEAMIENTO Y ASIGNACIÓN DEL NÚMERO OFICIAL
 
-###### ARTÍCULO 116.
+###### Artículo 116.
 
-Corrupción de menores e incapaces. La Corrupción de Menores e incapaces consiste en:
+La licencia de alineamiento y asignación del número oficial constituye la delimitación gráfica sobre el terreno que limita el predio respectivo con la vía pública existente o con la futura, señalando las restricciones que existen en cuanto a las vías y la infraestructura como son las líneas de torres de electricidad, ductos, arroyos, cañadas entre otros, además de la asignación de nomenclatura y número oficial.
 
-I. La inducción que se realice sobre una persona menor de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, para la práctica de la mendicidad, ebriedad, toxicomanía o prostitución;
+La Dirección otorgará las Licencias de Alineamiento y Asignación del Número Oficial al desarrollador cuando éste realice el trámite de la numeración oficial del conjunto del desarrollo.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2015)</small>
+###### Artículo 117.
 
-II. La inducción que se realice sobre una persona menor de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, para que lleve a cabo actos de exhibicionismo corporal o de carácter sexual;
+Para obtener la licencia de Alineamiento y asignación del Número Oficial, se atenderá a lo siguiente:
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+I. Cuando se trate de predios que formen parte de un desarrollo autorizado por el Municipio, deberá presentar solicitud de la licencia de alineamiento, en el formato que proporcione la Dirección debidamente completada, anexando croquis de ubicación, lote, manzana y nombre del desarrollo.
 
-III. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares;
+El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será de hasta 2 días hábiles; dentro de dicho término, la Dirección deberá expedir la licencia correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+II. Cualquier predio sin importar su superficie, no previsto en la fracción anterior y que de acuerdo a su ubicación se encuentre en la cobertura del sistema vial primario y secundario establecido en el POTE, deberá presentar la siguiente documentación:
 
-IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando preste sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente;
+a) Presentar solicitud de la licencia de alineamiento, en el formato que proporcione la Dirección, debidamente completada, anexando croquis de ubicación que permita la exacta identificación del inmueble; y,
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+b) La Dirección podrá solicitar cuando así se requiera para la exacta identificación del inmueble, copia simple de la escritura pública de propiedad y/o una impresión con dimensiones mínimas de 90 x 60 cms. legible a una distancia de 50 cms. Levantamiento topográfico referido a coordenadas UTM - WGS 84, y en medio magnético, en archivo DWG (autocad) que incluya curvas de nivel como mínimo a cada metro, así como medidas, colindancias, detalles y características de su entorno, mediante descripciones dentro de un perímetro de 50 metros, a partir del polígono de propiedad, ligadas a la cartografía del Municipio, con la responsiva profesional de un Perito Topógrafo registrado en el Padrón del Municipio, y en caso de que el predio este muy accidentado o existan pliegues naturales, deberá indicar las curvas de nivel correspondientes.
 
-V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código; o
-
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
-
-VI . Inducir, incitar, facilitar, permitir o tolerar que una persona menor de dieciocho años de edad o una persona que no tenga capacidad para comprender el significado del hecho o resistirlo utilice máquinas de juegos de azar o dispositivos electrónicos de apuesta cuyo funcionamiento dependa predominantemente del azar y no de la destreza o habilidad del usuario, en los que se ofrezca o permita la obtención de un beneficio económico directo en dinero.
-
-Para los efectos de este Artículo, por exhibicionismo corporal se entenderá mostrar la vagina, pene, senos, glúteos o ano.
-
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
-
-Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II, III y V se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de las Fracciones IV y VI al responsable se le aplicaran de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
-
-Las punibilidades descritas en el párrafo anterior se duplicarán cuando el inculpado sea ascendiente, padrastro, o madrastra de la víctima, o cuando el inculpado habite en el mismo domicilio de la víctima, y se aplicará como pena la privación de los derechos de familia que el inculpado tenga en relación con la víctima.
-
-Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-###### ARTÍCULO 117.
-
-Pornografía de personas menores de dieciocho años de edad, de las que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo. La Pornografía de personas menores de dieciocho años de edad, de las que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, consiste en:
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-I. Ofrecer o facilitar la observación de actos de exhibicionismo corporal o de carácter sexual en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-II. Fotografiar, videograbar, fijar, imprimir, o exhibir actos de exhibicionismo corporal o de carácter sexual reales o simulados, en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-III. Comercializar, reproducir, comprar, distribuir, arrendar, transmitir, adquirir o difundir fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-IV. Almacenar o poseer, con fines de comercialización, fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo; o
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-V. Extraer o utilizar de forma indebida, imágenes de actos de exhibicionismo corporal o de carácter sexual, contenidos en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información, en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo.
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-VI. Elabore, manipule o gestione, por medio de tecnologías digitales, imágenes, audios, grabaciones de voz o contenidos audiovisuales, con la finalidad de generar elementos de naturaleza erótica o sexual, utilizando total o parcialmente las partes del cuerpo de una persona menor de dieciocho años o una persona que no tengan (sic) capacidad para comprender el significado del hecho o capacidad para resistirlo.
-
-Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar la vagina, pene, senos, glúteos o ano.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-Al responsable de pornografía de personas menores de dieciocho años de edad, de las que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de 15 años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
-
-Si el inculpado es ascendiente, padrastro, o madrastra de la víctima, o habita el mismo domicilio de la víctima, las penas referidas en el párrafo anterior se incrementarán, aplicándose de 14 a 28 años de prisión, de 600 a 1400 días multa, el pago total de la reparación de los daños y perjuicios ocasionados y privación de los derechos de familia que el inculpado tenga en relación con la víctima.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-Si el inculpado labora en organizaciones dedicadas al cuidado o atención de personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, también se le aplicará como pena, la privación del cargo, empleo o comisión que ahí desempeñe.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-Cuando las conductas previstas en la fracción VI se realice mediante la revelación, publicación, difusión, exhibición o comercialización de imágenes, audios o videos por cualquier medio tecnológico o tradicional, la pena se incrementará en una mitad en su mínimo y en su máximo, además del pago total de la reparación del daño y la garantía de protección integral de la víctima.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-Cuando en la comisión de este delito concurran dos o más de las circunstancias o agravantes previstas en este artículo, se aplicará de 14 a 28 años de prisión, de 600 a 1400 días multa, la cual podrá incrementarse hasta en una mitad, sin exceder los límites máximos previstos en este Código, además del pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2023)</small>
+El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será de hasta 5 días hábiles; dentro de dicho término, la Dirección deberá expedir la licencia correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
 #### SECCIÓN CUARTA. DE LA INFORMACIÓN DE USO DE SUELO
 
-###### ARTÍCULO 118.
+###### Artículo 118.
 
-Estupro. El estupro consiste en realizar cópula con persona mayor de quince y menor de dieciocho años de edad, obteniendo su consentimiento por medio de seducción o engaño.
+Previo al trámite de alguna licencia de construcción o de uso del suelo, el ciudadano deberá solicitar a la Dirección la Información de Uso de Suelo del predio. Esta información es el documento en donde se indican los usos permitidos o el destino asignado al predio o lote, de conformidad con el POTE, los que de éste deriven y el presente Código.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
+###### Artículo 119.
 
-Al responsable de Estupro se le aplicarán de 1 a 6 años de prisión y de 25 a 75 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Los requisitos que deberá cubrir el solicitante como mínimo serán los siguientes:
 
-La reparación del daño, comprenderá además el pago de los alimentos a la víctima y también a los hijos si los hubiera.
+I. Nombre y domicilio para oír y recibir notificaciones;
 
-El pago de los alimentos se hará en la forma y términos que la ley civil fije para el efecto.
+II. Superficie, medidas y colindancias del lote o predio;
 
-###### ARTÍCULO 119.
+III. Croquis de localización del predio o lote, en zona urbana; y plano de localización, si se ubica fuera de la mancha urbana; y,
 
-Violación. La Violación consiste en realizar cópula con persona de cualquier sexo, utilizando fuerza física, moral o psicológica, para lograr el sometimiento de la víctima.
+IV. Informe de actividades y procesos en su caso.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
-Al responsable de violación se le aplicarán de 12 a 18 años de prisión y de 300 a 600 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. Si la víctima es mayor de 15 años, pero menor de 18 años, al responsable se le aplicarán de 14 a 20 años de prisión y de 450 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+###### Artículo 120.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
+El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será al momento mismo de la solicitud, tratándose de usos del suelo hasta de intensidad media, y tratándose de otros usos el tiempo será de hasta 3 días hábiles; dentro de dicho término, la Dirección deberá rendir la información solicitada.
 
-Si entre el activo y pasivo de la Violación, existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella de parte ofendida y se impondrá la pena prevista en el presente Artículo; y en su caso, el aumento de sanción prevista en el Artículo 124 de este Código.
+Con la información de uso del suelo, la Dirección deberá proporcionar las guías correspondientes al uso del suelo específico.
 
-Para los efectos de este Código, se entiende por cópula la introducción del pene en el cuerpo humano, por vía vaginal, anal u oral.
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+###### Artículo 120.
 
-###### ARTÍCULO 120.
+A.- La información de uso de suelo tendrá una vigencia igual al POTE, a la tabla de compatibilidades, al manual técnico de usos del suelo, así como al presente Código de tal forma, que si éstos se modifican, deberá obtenerse una nueva información de uso de suelo. Excepción hecha de las modificaciones al citado Código que no impliquen adecuación a los anexos técnicos ni alteren el contenido de las disposiciones previstas para la información de uso de suelo, donde esta continuara vigente.
 
-Violación equiparada. También se equiparan a la Violación, los hechos punibles siguientes:
+Tratándose de usos especiales, la información de uso de suelo tendrá una vigencia de tres meses contados a partir de la fecha de su expedición; por lo que si el interesado no realizó tramite alguno posterior a dicha información, esta deberá de solicitarse de nueva cuenta.
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+###### Artículo 121.
 
-I.- Realizar cópula con persona menor de quince años de edad sin hacer uso de la fuerza física o moral;
+Los usos de suelo identificados en la Tabla de Giros relacionados con el Sistema de Apertura Rápida de Empresas con Actividades de Intensidad Mínima, Baja y Media, deberán contar con las siguientes características:
 
-II.- Realizar cópula con persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado;
+I. Que se encuentren ya edificados;
 
-III.- Introducir por vía vaginal o anal cualquier elemento o instrumento distinto del pene, mediante el uso de la fuerza física, moral o psicológica para el sometimiento de la víctima, sea cual fuere el sexo de ésta;
+II. Que la superficie del predio no exceda de 1,600 metros cuadrados y no se tengan en él, más de 100 personas activas; y,
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
-
-IV.- El llevar a cabo la introducción descrita en la Fracción III en persona menor de quince años de edad sin hacer uso de la fuerza física o moral; o
-
-V.- El llevar a cabo la introducción descrita en la Fracción III en persona que no tenga capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirla, sin uso de la fuerza física o moral de parte del inculpado.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
-
-Al responsable de Violación Equiparada descrita en las Fracciones I y II se le aplicarán de 16 a 22 años de prisión y de 250 a 450 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable hace uso de la fuerza física o moral sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 18 a 28 años de prisión y de 750 a 900 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
-
-Al responsable de Violación Equiparada descrita en la Fracción III se le aplicarán de 8 a 12 años de prisión y de 300 a 600 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 2025)</small>
-
-Al responsable de Violación Equiparada descrita en las Fracciones IV y V se le aplicarán de 10 a 14 años de prisión y de 360 a 720 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si además el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 12 a 18 años de prisión y de 450 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ENERO DE 2025)</small>
-
-Si entre el activo y pasivo de la Violación equiparada, existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella de parte ofendida.
-
-###### ARTÍCULO 121.
-
-Alimentos en caso de violación. Si como consecuencia de violación resultan hijos, la reparación del daño, en este caso, comprenderá además el pago de los alimentos a la mujer y también a los hijos, si los hubiera.
-
-El pago de los alimentos se hará en la forma y términos que la ley civil fije para el efecto.
+III. Que cuenten con servicios de agua potable y alcantarillado.
 
 #### SECCIÓN QUINTA. DE LA LICENCIA DE CONSTRUCCIÓN Y CERTIFICACIÓN DE TERMINACIÓN DE OBRA
 
-###### ARTÍCULO 122.
+###### Artículo 122.
 
-(DEROGADO, P.O. 2 DE FEBRERO DE 2015)
+Para el procedimiento de expedición de la licencia de construcción y de la certificación de terminación de obra, se estará a lo dispuesto por el Título de las Construcciones del presente Código.
 
 #### SECCIÓN SEXTA. DE LA LICENCIA DE USO DEL SUELO
 
-###### ARTÍCULO 123.
+###### Artículo 123.
 
-(DEROGADO, P.O. 2 DE FEBRERO DE 2015)
+La Dirección podrá autorizar usos o actividades en apego a lo establecido por este Título, por el POTE y por las Declaratorias de usos y destinos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2026)</small>
+###### Artículo 124.
 
-###### ARTÍCULO 124.
+La licencia de uso del suelo es el documento expedido por la Dirección que tiene como finalidad autorizar la utilización de los lotes o predios y sus construcciones, conforme al uso del suelo que les corresponda según el POTE del Municipio y el presente Código, así como a lo establecido en la respectiva licencia de construcción.
 
-Aumento de sanción. La punibilidad prevista para los Tipos Penales de violación, violación equiparada, estupro y abuso sexual, se aumentará de conformidad con lo siguiente:
+###### Artículo 125.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ENERO DE 2026)</small>
+Para obtener esta licencia el solicitante deberá presentar la documentación siguiente:
 
-I. En una mitad en sus mínimos y sus máximos, tratándose de violación, violación equiparada, estupro o abuso sexual, si concurre alguna de las siguientes circunstancias:
+I. Solicitud en el formato que proporcione la Dirección, debidamente requisitada;
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+II. Información de uso de suelo, indicando todos los usos que se encuentren dentro del predio;
 
-a) Los hechos descritos sean cometidos a nivel de coautoría;
+III. Si la licencia es solicitada por el propietario, copia simple del título que acredite la propiedad debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+IV. Si la licencia es solicitada por el arrendatario, comodatario o cualquier otro poseedor derivado, presentará original del contrato o documento en que conste el acto jurídico correspondiente, sin necesidad de certificación de firmas ante fedatario público, y copia de credencial de elector para cotejo de firmas; así como copia simple de la escritura de propiedad inscrita ante el Registro Público de la Propiedad y del Comercio;
 
-b) Los hechos descritos sean cometidos por servidores públicos con motivo del ejercicio de sus funciones;
+V. Proyecto arquitectónico y dos fotografías impresas donde se observen los usos dentro del inmueble, así como los cajones de estacionamiento; y,
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+VI. Los dictámenes que conforme al presente ordenamiento y al Manual Técnico de Usos del Suelo, correspondan al uso solicitado.
 
-c) Los hechos descritos sean cometidos por algún familiar hasta el cuarto grado, el tutor con su pupilo o el padrastro, madrastra o pareja sentimental de alguno de los progenitores, con el hijastro o hijastra, el maestro con el alumno o alumna el guía religioso con su asesorado o asesorada;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
+###### Artículo 126.
 
-d) Los hechos descritos sean cometidos aprovechándose de la prestación de un servicio de transporte público, privado o contratado a través de plataformas tecnológicas, se cuente o no con autorización legal para ello; o
+En caso de inmuebles que concluyeron un proceso de construcción, deberá obtenerse la certificación de terminación de obra, y de manera simultánea la Dirección expedirá la Licencia de Uso del Suelo, excepto tratándose de uso habitacional, donde será suficiente la certificación de terminación de obra, para poder utilizar y ocupar el inmueble.
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+###### Artículo 127.
 
-e) Los hechos descritos fueren cometidos por una persona en la prestación de un servicio o en ejercicio de su profesión, utilizando los medios o circunstancia que estos le proporcionen.
+Para el otorgamiento de la licencia de uso del suelo en aquellos inmuebles comprendidos dentro de los grupos de usos a que se refiere el Anexo número 2 del presente código identificado como Tabla de Giros del Sistema de Apertura Rápida de Empresas con actividades de intensidad mínima, baja y media, el solicitante deberá cubrir los requisitos siguientes:
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
+I. Solicitud en el formato que proporcione la Dirección, debidamente requisitada;
 
-Además de la pena de prisión la persona condenada será suspendida por el término de cinco años en el ejercicio de su profesión o la prestación del servicio, dicho término se duplicará en el caso de que el delito fuere cometido por personas que se desempeñen en lugares o espacios en los que se brinde atención o servicios a niñas, niños o adolescentes.
+II. Copia simple del título que acredite la propiedad debidamente inscrito en el Registro Público de la Propiedad y del Comercio; si la licencia es solicitada por el arrendatario, comodatario o cualquier otro poseedor derivado, presentará copia simple del contrato o documento en que conste el acto jurídico correspondiente, sin necesidad de certificación de firmas ante fedatario público, y copia de credencial de elector para cotejo de firmas; y,
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+III. Croquis de distribución del inmueble y mínimo dos fotografías impresas donde se observen los usos dentro del inmueble, así como los cajones de estacionamiento.
 
-II.- En una mitad en sus mínimos y sus máximos, tratándose de violación equiparada o abuso sexual, si para llevar a cabo la conducta típica y obtener su resultado, se suministraron a la víctima sustancias estupefacientes, psicotrópicas o cualquiera otra que produzca efectos similares, o bien, tratándose de violación, violación equiparada o estupro se produjera el contagio de alguna infección de trasmisión sexual; o
+Los requerimientos de estacionamiento para los giros mencionados en la Tabla relacionada con el Sistema de Apertura Rápida de Empresa referida en el Anexo 2 del presente código, se aplicarán a partir de los usos considerados como de intensidad media en adelante.
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+Una vez que se presenten todos los requisitos, para esta licencia, la Dirección expedirá la licencia correspondiente el mismo día en que fue solicitada o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
-III. En una cuarta en sus mínimos y sus máximos, tratándose de violación, violación equiparada o abuso sexual, cuando el responsable tenga o haya tenido una relación de pareja con la víctima.
+###### Artículo 128.
 
-###### ARTÍCULO 125.
-
-Fecundación artificial indebida. La Fecundación Artificial Indebida, consiste en utilizar cualquier medio diferente al coito sobre una mujer con el fin de preñarla, sin su consentimiento o con su consentimiento tratándose de una menor de dieciocho años de edad o incapaz de comprender el significado del hecho o para resistirlo.
-
-Al responsable de Fecundación Artificial Indebida, se le aplicarán de 5 a 10 años de prisión y de 20 a 100 días multa, y el pago total de la reparación de los daños y perjuicios ocasionados. Cuando la víctima resulte preñada, la punibilidad será de 7 a 14 años de prisión y de 50 a 150 días multa, y el pago total de la reparación de los daños y perjuicios ocasionados.
-
-Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un tiempo igual al de la pena de prisión Impuesta, siempre que en virtud de su ejercicio haya realizado la Fecundación Artificial Indebida; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
-
-###### ARTÍCULO 126.
-
-Tráfico de menores. El Tráfico de Menores consiste en la entrega ilegítima de un menor a un tercero para su custodia definitiva, a cambio de un beneficio económico, por quien ejerza la patria potestad o la tenga a su cargo.
-
-Al responsable de Tráfico de Menores se le aplicarán de 5 a 10 años de prisión y de 200 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, considerándose como tal, no sólo quien entrega al menor, sino también el tercero que lo recibe.
-
-Si la entrega del menor se hace sin la finalidad de obtener un beneficio económico, la punibilidad será de 2 a 4 años de prisión y de 20 a 125 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-Si quien recibe al menor acredita que lo hizo para incorporarlo a un núcleo familiar para otorgarle los beneficios propios de tal incorporación, la punibilidad será de 6 meses a 2 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
-
-###### ARTÍCULO 127.
-
-Sustracción de niñas, niños, adolescentes e incapaces. La sustracción de Niñas, Niños, Adolescentes e Incapaces consiste en sustraer o retener a un menor de dieciocho años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia, guarda o retención.
-
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
-
-Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de las daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 3 a 6 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 128.
-
-Incesto. El Incesto es la realización voluntaria de cópula entre parientes consanguíneos, sean ascendientes, descendientes o hermanos, con conocimiento de su parentesco.
-
-A los responsables de Incesto se les aplicarán de 6 meses a 5 años de prisión y de 10 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+El uso de suelo que ampare la licencia deberá estar a la vista del público, excepto en los inmuebles destinados a casa habitación y deberá mostrarse cuando así lo solicite cualquier autoridad competente.
 
 #### SECCIÓN SEPTIMA. DE LA LICENCIA CONDICIONADA DE USO DEL SUELO
 
-###### ARTÍCULO 129.
+###### Artículo 129.
 
-Bigamia. La Bigamia consiste en contraer nuevo matrimonio sin hallarse legítimamente disuelto o declarado nulo el anterior, con conocimiento de esa circunstancia por el o los inculpados.
+En las zonas de preservación, sólo se autorizarán los usos del suelo de acuerdo a lo previsto en este Código, el POTE y demás disposiciones legales federales, estatales y municipales en la materia.
 
-A los responsables de Bigamia se les aplicarán de 1 a 5 años de prisión y de 30 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 129.
+
+A.- Tratándose de Espacios para Apuestas deberá observarse lo dispuesto por la Ley Federal de Juegos y Sorteos, su Reglamento, además de lo previsto en el Manual Técnico de Usos del Suelo del presente Código en el apartado de usos especiales.
 
 #### SECCIÓN OCTAVA. DE LAS FUSIONES Y DIVISIONES
 
 #### SECCIÓN PRIMERA. DE LOS FRACCIONAMIENTOS RESIDENCIALES
 
-###### ARTÍCULO 130.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Alteración del estado civil. La Alteración de Estado Civil consiste en:
+###### Artículo 130.
 
-I. Atribuir un recién nacido a una mujer que no sea realmente su madre;
+La Licencia Condicionada de Uso de Suelo es el documento expedido por la Dirección que autoriza temporalmente la utilización de lotes o predios y sus construcciones.
 
-II. Registrar en las oficialías de la Dirección del Registro Civil en el Estado, un nacimiento o fallecimiento no verificado;
+###### Artículo 131.
 
-III. No registrar los padres a un hijo suyo en las oficialías de la Dirección del Registro Civil en el Estado, con el propósito de hacerle perder su estado civil; declarar falsamente su fallecimiento; o presentarlo ocultando sus nombres y apellidos reales o suponiendo que los padres son otras personas;
+La licencia condicionada de uso del suelo es provisional y podrá otorgarse en los siguientes casos:
 
-IV. Sustituir un niño por otro u ocultar a un infante; o
+I. Cuando por algún motivo debidamente justificado el solicitante no pueda cumplir con la totalidad de los requisitos previstos en este Código para la licencia de uso del suelo, y demuestre que los impactos negativos que pudieran generarse de estas deficiencias han sido remediados o mitigados;
 
-V. Usurpar el estado civil de otro, con el fin de adquirir derechos de familia que no le correspondan.
+II. Cuando existan actividades o eventos que se pretendan desarrollar en un inmueble, y que estos sean por temporada, o con motivo de festividades; y,
 
-Al responsable de Alteración de Estado Civil se le aplicarán de 1 a 5 años de prisión y de 30 a 80 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+III. En el caso de inmuebles que estén en proceso de construcción, previo análisis de la Dirección.
 
-###### ARTÍCULO 131.
+###### Artículo 132.
 
-Incumplimiento de las obligaciones de asistencia familiar. El Incumplimiento de las Obligaciones de Asistencia Familiar consiste en:
+Para obtener la Licencia condicionada de usos de suelo deberá presentarse:
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+I. Solicitud en el formato que proporcione la Dirección, debidamente requisitada;
 
-I. No cumplir con la obligación de dar alimentos en términos de lo establecido en el Código Civil del Estado de Aguascalientes;
+II. Información de uso del suelo;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+III. Constancia de registro e inscripción ante la Secretaría de Hacienda y Crédito Público ó cualquier otro documento que acredite fehacientemente la temporalidad de su actividad;
 
-II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que el Código Civil del Estado de Aguascalientes señale; o
+IV. Copia simple del título que acredite la propiedad debidamente inscrito en el Registro Público de la Propiedad y del Comercio; si la licencia es solicitada por el arrendatario, comodatario o cualquier otro poseedor derivado, presentará original del contrato o documento en que conste el acto jurídico correspondiente, sin necesidad de certificación de firmas ante fedatario público, y copia de credencial de elector;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2026)</small>
+V. Cuando se trate de predios con giros de alta intensidad se deberá presentar la MIA y la MIV según sea el caso;
 
-III. La alteración o variación de nombre, domicilio o ingresos con el fin de eludir una responsabilidad de orden familiar o el incumplimiento de obligaciones alimentarias que el Código Civil del Estado de Aguascalientes señale.
+VI. Proyecto arquitectónico; y mínimo dos fotografías impresas donde se observen los usos dentro del inmueble, así como los cajones de estacionamiento; y,
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2026)</small>
+VII. Dictámenes correspondientes al uso de suelo solicitado, de conformidad con el presente código, el manual técnico de usos del suelo y demás normativa aplicable.
 
-Las anteriores conductas se sancionarán conforme al presente código, independientemente de que los alimentos sean brindados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona.
+###### Artículo 133.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE JUNIO DE 2026)</small>
+Sin perjuicio de lo que señala el artículo anterior, la Dirección podrá requerir al solicitante todos aquellos elementos, estudios, dictámenes o información que considere necesario para que quede avalada la mitigación de cualquier impacto negativo.
 
-Al responsable de la conducta descrita en la fracción I se le aplicarán de 3 años 2 meses a 7 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados, y la suspensión o privación de los derechos de familia, en relación con la víctima.
+###### Artículo 134.
 
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
+No se podrán otorgar licencias condicionadas de uso del suelo, tratándose de actividades consideradas por la legislación ambiental como de alto riesgo.
 
-Mientras que al responsable de las conductas descritas en las fracciones II y III se le aplicarán de 2 años a 5 años de prisión, al pago de una multa de 100 a 500 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+###### Artículo 135.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2026)</small>
+Las Licencias condicionadas, tendrán una vigencia máxima de un año y podrán refrendarse.
 
-Cuando el acreedor alimentario sea una persona con discapacidad, la pena de prisión se aumentará hasta una tercera parte más respecto de los mínimos y máximos.
+El costo de esta Licencia será igual al que generaría la licencia de uso del suelo respectiva. El refrendo no generará costo alguno.
 
-###### ARTÍCULO 132.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Violencia familiar. La violencia familiar consiste en usar la fuerza física o moral en contra de un miembro de la familia por otro integrante de la misma y que ello le cause afectación en su integridad física o psíquica.
+###### Artículo 136.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-Se consideran autores de violencia familiar a los cónyuges, la concubina o el concubino, el pariente consanguíneo en línea recta ascendiente o descendiente sin limitación de grado, el pariente colateral consanguíneo o afín hasta el cuarto grado, el adoptante o el adoptado y el pariente por afinidad hasta el cuarto grado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2022)</small>
-
-También se considera autor a quien ejerza violencia familiar contra los hijos del cónyuge o pareja, pupilos o incapaces que se encuentren sujetos a la tutela, guarda o custodia de uno u otro.
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2026)</small>
-
-Al responsable de violencia familiar se le aplicarán de 3 a 7 años de prisión.
-
-> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE ENERO DE 2026)</small>
-
-El delito de Violencia Familiar se aumentará en una mitad en sus mínimos y máximos cuando la violencia se ejerza sobre:
-
-I. Persona niña, niño o adolescente;
-
-II. Persona que no tenga la capacidad para comprender el significado del hecho o posibilidad para resistir la conducta delictuosa;
-
-III. Personas (sic) sea mayor de sesenta años de edad;
-
-IV. Persona con alguna discapacidad; o
-
-V. Personas embarazadas o durante los tres meses posteriores al parto o cesárea.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE ENERO DE 2026)</small>
-
-Así mismo, el delito de Violencia Familiar será calificado y se aumentará en dos terceras partes en sus mínimos y máximos cuando la violencia se cometa:
-
-I. Con la participación de dos o más personas;
-
-II. Con el uso de armas de fuego o punzocortantes;
-
-III. Por persona que pertenezca a alguna institución de seguridad pública o realice funciones de seguridad privada, aun y cuando éstas sean temporales;
-
-IV. Por persona agresora en estado de ebriedad o bajo el influjo de sustancias tóxicas; o
-
-V. Por persona agresora que consuma alcohol de forma consuetudinaria o tenga un uso no terapéutico de sustancias ilícitas conforme a lo previsto por la Ley General de Salud y se realice de manera habitual.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
-
-Al responsable de Violencia Familiar en cualquiera de sus modalidades o expresiones, además de la pena privativa de libertad correspondiente, al responsable se le aplicarán de 70 a 150 veces el valor diario de la Unidad de Medida y Actualización, así como al pago de la reparación de los daños y perjuicios ocasionados, así como a la prohibición de acudir al domicilio de la víctima o acercarse a ésta y se le someterá a tratamiento psicológico para su reinserción, de conformidad con lo dispuesto por el artículo 73 A de este Código.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
-
-La aplicación de las penas y medidas establecidas en este artículo, en caso de que la víctima sea niña, niño o adolescente, se realizará en estricta observancia al Interés Superior de la Niñez, en términos de lo dispuesto por el artículo 6o. de este ordenamiento.
-
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
-
-###### ARTÍCULO 132 Bis.
-
-Violencia Vicaria. La violencia vicaria consiste en la acción u omisión dirigida hacia las hijas y/o los hijos de la víctima, cometida por quien mantenga o haya mantenido una relación de hecho, concubinato o matrimonio con la misma, y que le cause un daño o afectación física, psicoemocional o económica, con el objeto de romper el vínculo filial parental entre el sujeto pasivo y sus hijas y/o hijos.
-
-Para efectos del presente artículo se entiende por vínculo filial parental el derecho que tienen las personas menores de edad de relacionarse con sus ascendientes, surgido de la relación jurídica derivada de la filiación, sea por un hecho natural o por un acto jurídico y siempre que ello sea acorde con el interés superior de la niñez.
-
-Se considera que existe violencia vicaria cuando concurra alguna de las siguientes circunstancias:
-
-I. Existen antecedentes de violencia familiar registrados ante la autoridad competente, realizada por el sujeto activo en contra del sujeto pasivo;
-
-II. Cuando sin orden de la autoridad competente, el sujeto activo separe a las hijas y/o los hijos menores de edad del núcleo familiar al que están incorporados;
-
-III. Cuando el sujeto activo no permita la convivencia de las hijas y/o los hijos menores de edad con el sujeto pasivo, sin que medie orden de autoridad competente;
-
-IV. Cuando exista resolución judicial en la que se haya declarado que el sujeto activo ha incurrido en el supuesto de alienación parental establecido en el artículo 434 del Código Civil del Estado de Aguascalientes; o
-
-V. Cuando el sujeto activo dilate injustificadamente los procesos judiciales, administrativos o de cualquier naturaleza en los que el sujeto activo y pasivo sean partes y que versen sobre las hijas y/o los hijos.
-
-Al responsable de violencia vicaria, se le impondrán de 1 a 4 años de prisión, el pago total de la reparación de los daños y perjuicios ocasionados, y se le someterá a tratamiento psicológico para su reinserción de conformidad con lo dispuesto por el artículo 73-A de este código.
-
-Cuando la víctima sea mujer, las penas previstas se incrementarán hasta en una mitad más respecto de sus mínimos y máximos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2020)</small>
-
-###### ARTÍCULO 133.
-
-Violencia a partir de una relación de pareja.- La violencia a partir de una relación de pareja consiste en la fuerza física o psicológica que ejerza una persona en contra de otra en una relación de pareja y que ello le cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona.
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 2022)</small>
-
-Al responsable de violencia a partir de una relación de pareja se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa y al pago total de la reparación de los daños y perjuicios ocasionados. La pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos, cuando la víctima sea menor de 18 o mayor de 60 años de edad.
-
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2021)</small>
-
-###### ARTÍCULO 133-A.
-
-Exposición de menores, incapaces o adultos mayores. La exposición de menores, incapaces o adultos mayores consiste en dejar en total vulnerabilidad o abandono, a una persona menor de edad, o que siendo mayor de edad le es imposible cuidar de sí mismo, colocándole en una situación de desamparo, de tal manera que se pongan en riesgo la integridad personal y libre desarrollo de la personalidad; por parte de quienes tienen su guarda y custodia, los hayan acogido materialmente, o tengan el deber de cuidarlo.
-
-Al responsable de Exposición de menores, incapaces o adultos mayores se le aplicaran de 1 a 4 años de prisión y de 50 a 100 días multa, además de perder la patria potestad o ser destituido de la tutela, según corresponda.
-
-###### ARTÍCULO 134.
-
-Privación ilegal de la libertad. La Privación Ilegal de la Libertad consiste en el arresto o detención de una persona por un particular, fuera de los casos previstos en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, o cuando el particular obligue a una persona, por cualquier medio, a prestarle trabajos y servicios personales sin la debida retribución, o celebre un contrato que ponga en condiciones de servidumbre a otra, o le afecte su libertad de cualquier modo.
-
-Al responsable de Privación Ilegal de la Libertad se le aplicarán de 6 meses a 3 años de prisión y de 50 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2026)</small>
-
-###### ARTÍCULO 135.
-
-Aumento de sanción. La punibilidad en la privación ilegal de la libertad será de 2 a 8 años de prisión, de 100 a 200 días multa y el pago total de la reparación de los daños y perjuicios ocasionados, cuando:
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
-
-I. Se lleve a cabo con violencia física, moral o psicológica contra la víctima;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
-
-II. La víctima sea niña, niño, adolescente o mayor de 60 años, o que por cualquier otra circunstancia esté en situación de desventaja o inferioridad física o mental respecto de la persona inculpada;
-
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2026)</small>
-
-III. El resultado lesivo se prolongue por más de 24 horas;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
-
-IV. La persona inculpada tenga un vínculo familiar, afectivo o contractual, en virtud del cual la víctima haya depositado su confianza en este;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
-
-V. Por razones de género, cuando la conducta se cometa en agravio de una mujer y el hecho tenga como finalidad, efecto o contexto someterla, controlarla, dominarla, restringir su autonomía o castigarla, aprovechándose de una relación de poder o sentimental;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
-
-VI. Cuando el sujeto activo sea una persona servidora pública, y cometa la conducta aprovechándose de su cargo, funciones, investidura o de la confianza que la función pública le confiere, independientemente de que el hecho se ejecute dentro o fuera del horario de servicio o sin utilizar medios oficiales; o
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2026)</small>
-
-VII. Que la conducta se realice en el domicilio familiar o lugar de residencia de la víctima, valiéndose del uso de candados, cerraduras, ataduras o instrumentos de inmovilización que anulen su libertad de tránsito o movimiento.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
-
-Las agravantes previstas en este artículo podrán concurrir de manera simultánea, sin que se excluyan entre sí, y deberán ser valoradas conforme a las circunstancias del caso concreto.
-
-###### ARTÍCULO 136.
-
-(DEROGADO, P.O. 17 DE JULIO DE 2023)
+El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 5 días hábiles; dentro de dicho término, la Dirección expedirá la licencia correspondiente o, en su caso, notificará al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
 #### SECCIÓN SEGUNDA. DE LOS FRACCIONAMIENTOS DE HABITACION POPULAR, DE INTERÉS SOCIAL O DENSIDAD ALTA
 
-###### ARTÍCULO 137.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Allanamiento de morada. El Allanamiento de Morada consiste en la introducción furtiva o violenta, con engaño o sin permiso de la persona autorizada para darlo, a una casa-habitación o sus dependencias, o en establecimientos públicos mientras permanezcan cerrados, estando habitados o deshabitados, a cualquier hora del día, por una o varias personas, sin orden de autoridad competente y fuera de los casos que la Ley lo permita.
+###### Artículo 137.
 
-Al responsable de Allanamiento de Morada se le aplicarán de 2 a 7 años de prisión y de 50 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Para el otorgamiento del permiso de fusiones de inmuebles se exigirán, en lo conducente, los requisitos que para las divisiones señala la Ley de Fraccionamientos y el Reglamento de la Ley, y tendrán una vigencia igual al POTE.
 
-###### ARTÍCULO 138.
+###### Artículo 138.
 
-Omisión de auxilio. La Omisión de Auxilio consiste en:
+Para obtener el permiso de fusiones y divisiones de inmuebles deberá anexarse la información y documental prevista por el artículo anterior, la Ley de Fraccionamientos y el Reglamento de la Ley, y el tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será de hasta 7 días hábiles; dentro de dicho término, la Dirección, deberá expedir el permiso correspondiente, o en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+###### Artículo 139.
 
-I. No avisar de inmediato a las autoridades estatales competentes, o no prestar el auxilio necesario, a un menor abandonado e incapaz de cuidarse a sí mismo; a un adulto mayor; a una persona herida o inválida, o amenazada de un peligro cualquiera; o
+Tratándose de inmuebles ejidales sobre los que se haya adquirido el dominio pleno, el propietario interesado en realizar alguna enajenación sobre el bien inmueble de que se trate, deberá acreditar que se respetó en favor del Municipio y del Estado el derecho de preferencia a que se refiere la Ley Agraria y la Ley General de Asentamientos Humanos.
 
-II. Dejar el automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete, en estado de abandono, sin prestarle o facilitarle asistencia, a la persona o personas a quienes haya lesionado.
+###### Artículo 140.
 
-Al responsable de Omisión de Auxilio se le aplicarán de 3 meses a 2 años de prisión y de 25 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Tratándose de las comunidades rurales que se encuentren delimitadas dentro del POTE, para la división de inmuebles que no se deriven de un fraccionamiento, se tendrá que considerar, en los lotes resultantes, la tipología de la comunidad rural, además de contar con un acceso independiente.
 
-###### ARTÍCULO 139.
+###### Artículo 141.
 
-Amenazas. Las Amenazas consisten en la advertencia que se hace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de 6 meses a 2 años de prisión y de 90 a 180 días de multa y a la reparación total de los daños y perjuicios ocasionados.
+Las divisiones en los inmuebles que no se encuentren en los supuestos del artículo anterior, así como aquellos que no se deriven de un fraccionamiento, los lotes resultantes deberán cumplir con las superficies mínimas establecidas para los diversos tipos de fraccionamientos conforme al uso de suelo manifestado por el solicitante, de conformidad con la Ley de Fraccionamientos y el presente Código.
 
-Se debe entender como ligados por algún vínculo con la persona:
+###### Artículo 142.
 
-I. A los ascendientes y descendientes consanguíneos o afines;
+Los inmuebles catalogados de valor arqueológico, artístico e histórico ubicados dentro del territorio municipal, podrán fusionarse o dividirse previa autorización de las autoridades competentes.
 
-II. El cónyuge, la concubina, el concubinario, pareja permanente, parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo; y
+###### Artículo 143.
 
-III. Los que estén ligados con las personas por amor, respeto, gratitud o estrecha amistad.
+El permiso para llevar a cabo una fusión de inmuebles, no implica la autorización para fusionar los usos o destinos del suelo que los mismos tengan o se les hayan asignado, así como tampoco constituyen constancias de apeo y deslinde respecto de los inmuebles a que se refieren, ni acreditan la propiedad o posesión de los mismos.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+###### Artículo 144.
 
-Si la amenaza fuera dirigida a una persona integrante de un Órgano jurisdiccional, asesor jurídico, defensor, Ministerio Público, ofendido, víctima o testigo, intervinientes en un procedimiento penal, con el propósito de que no concurran a las audiencias o de incidir en ellos evitando que se conduzcan con verdad, u oculten hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia motivo del procedimiento en el que intervienen, se impondrán de tres a siete años de prisión, de 200 a 400 días multa y a la reparación total de los daños y perjuicios ocasionados.
+Las superficies resultantes de la división de un lote o predio perteneciente a un fraccionamiento autorizado en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código, no deberán ser de medidas inferiores a las que correspondan a los lotes del propio desarrollo, de acuerdo con dicha normativa.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE ENERO DE 2024)</small>
+Cuando un desarrollador no ha enajenado lotes, no procede la fusión o división de estos, deberá en este caso solicitar una relotificación en los términos de este Código.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2023)</small>
+###### Artículo 145.
 
-ARTÍCULO 139 BIS.- Cobranza extrajudicial ilegal. La cobranza extrajudicial ilegal consiste en el uso de la violencia o intimidación mediante la cual hostiguen a la persona deudora o a cualquiera vinculada a esta, ya sea personalmente, o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en las leyes; con independencia de la persona tenedora de los derechos de cobro al momento de llevar a cabo la cobranza.
+La Dirección podrá regularizar aquellos inmuebles que se hayan dividido sin obtener la autorización correspondiente, siempre y cuando cumplan como mínimo con los siguientes requisitos:
 
-A la persona responsable de cobranza extrajudicial ilegal se le aplicarán de 1 a 4 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+I. Que no se deriven de un fraccionamiento;
 
-Si la persona responsable de la conducta descrita en el primer párrafo simula resoluciones judiciales, utiliza documentos o sellos falsos, la pena y la sanción económica aumentarán hasta en una mitad de sus mínimos y máximos señalados; si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en este Código.
+II. Tener una antigüedad mínima de 5 años, comprobable de división y construcción;
 
-No se considerará como cobranza extrajudicial ilícita informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra de la persona deudora, aval, obligada solidaria o cualquiera relacionada a las anteriores, cuando estas sean jurídicamente posibles.
+III. Encontrarse dentro de zona urbana; y,
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2026)</small>
+IV. Que las partes resultantes:
 
-###### ARTÍCULO 139 Ter.
+a. Tengan acceso independiente a la vía pública;
 
-Acecho. Comete el delito de acecho quien, de manera reiterada y sin consentimiento, vigile, siga o intente establecer contacto por cualquier medio físico, digital o tecnológico con una persona, alterando el normal desarrollo de su vida cotidiana o causando una afectación verificable en su salud psíquica.
+b. No tengan áreas comunes o muros medianeros; y,
 
-Al responsable se le aplicarán de seis meses a dos años de prisión y de noventa a ciento ochenta días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+c. No estén sujetas al régimen de propiedad en condominio.
 
-La pena de prisión y multa se aumentarán hasta en una mitad cuando:
+### CAPÍTULO VI. DE LOS ANEXOS TÉCNICOS
 
-I. La víctima sea persona menor de dieciocho años, mayor de sesenta años, con discapacidad o que no tenga capacidad para comprender el significado del hecho;
+###### Artículo 146.
 
-II. El sujeto activo tenga o haya tenido una relación de matrimonio, concubinato, noviazgo, amistad o relación laboral o docente con la víctima;
+Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa para la clasificación de las actividades y sus normas de intensidad, se conforman los anexos técnicos que a continuación se señalan, los cuales forman parte integrante de este ordenamiento:
 
-III. Se cometa quebrantando una orden de protección o medida de restricción judicial; o
+I. ANEXO 1: Manual Técnico de Usos del Suelo;
 
-IV. El sujeto activo se valga de armas o medios violentos para la comisión del delito.
+II. ANEXO 2: Tabla de Giros del Sistema de Apertura Rápida de Empresas con actividades de intensidad mínima, baja y media;
 
-Este delito se perseguirá por querella, salvo que la víctima se encuentre en los supuestos de la fracción I de este artículo, en cuyo caso se perseguirá de oficio.
+III. ANEXO 3: Tabla de Compatibilidades;
 
-###### ARTÍCULO 140.
+IV. ANEXO 4: Tabla de Requerimiento de Estacionamientos; y,
 
-Robo. El Robo consiste en:
+V. ANEXO 5: Tabla de Normas para las Zonas y Tabla de Normas para Usos Condicionados.
 
-I. El apoderamiento de una cosa ajena mueble, dinero o valores, sin derecho y sin consentimiento de la persona que puede disponer de ella con arreglo a la ley;
+## TÍTULO TERCERO. DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
-II. El apoderamiento de cosa propia, dinero o valores, cuando éstos se hallen en poder de otra persona por cualquier título legítimo, en la medida que ello afecte el patrimonio de quien los detente; o
+### CAPÍTULO I. DE LAS CARACTERÍSTICAS GENERALES DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
-III. El aprovechamiento de energía eléctrica, agua, gas, servicio telefónico, servicio de Internet o de imagen televisiva, sin consentimiento de la persona que legalmente pueda disponer de ellos.
+###### Artículo 147.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+Los proyectos de fraccionamientos y desarrollos en condominio, así como las obras de urbanización, deberán sujetarse a las especificaciones técnicas establecidas por la Dirección, el SAPAL y la CFE en cuanto a:
 
-Al responsable de Robo se le aplicarán de:
+I. Diseño Urbano;
 
-I. 6 Meses a 2 años con 6 meses de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la unidad de medida y actualización;
+II. Sistemas de agua potable, drenaje y alcantarillado sanitario y/o pluvial;
 
-II. 2 a 5 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
+III. Pavimentación;
 
-III. 5 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
+IV. Electrificación y alumbrado público;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+V. Vialidades y su señalización vial; y,
 
-La valoración que se haga de la afectación patrimonial tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concreticen los hechos descritos en el presente Artículo.
+VI. Nomenclatura.
 
-###### ARTÍCULO 141.
+###### Artículo 148.
 
-Robo Equiparado. Se equipara al robo la conducta de quien:
+Los desarrolladores deberán atender a las normas técnicas establecidas en este ordenamiento, la Ley de Fraccionamientos y el Reglamento de la Ley, para proyectar la distribución de lotes, viviendas, departamentos o locales y su agrupamiento en manzanas o edificios; la localización de áreas de equipamiento urbano, áreas verdes y espacios abiertos destinados para recreación; el trazo de calles, avenidas y andadores, cruceros y entronques de acuerdo a su función y nivel de servicio, así como la señalización y mobiliario urbano.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
-I. Adquiera o posea uno o más vehículos robados;
+###### Artículo 149.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+Las áreas de donación que sean entregadas en propiedad al Municipio, estarán ubicadas y distribuidas estratégicamente atendiendo a las necesidades del propio desarrollo en cuanto a equipamiento urbano y áreas verdes. Las áreas de donación que entregue el desarrollador al Municipio deberán estar forestadas, equipadas y urbanizadas, asimismo cuando el fraccionamiento se desarrolle en una superficie de hasta una hectárea, el área de donación será en una sola porción. Cuando la superficie en la que se lleve a cabo el fraccionamiento sea mayor a la referida, la Dirección determinará por medio de un estudio, las porciones en que el desarrollador entregará dicha área de donación.
 
-II. Desmantele uno o más vehículos robados o comercialice conjunta o separadamente sus partes;
+La Dirección podrá autorizar que las áreas de equipamiento urbano se ubiquen fuera del fraccionamiento, siempre y cuando en la zona en que éste se localice, se encuentre satisfecho ese requerimiento. En este caso, la superficie a recibir por parte del Municipio deberá ser equivalente al valor comercial incluyendo dotación de servicios y obras de urbanización del inmueble que, por dicho concepto, debería entregarle el desarrollador.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+###### Artículo 150.
 
-III. Comercialice o trafique de cualquier manera con uno o más vehículos robados;
+La Dirección determinará las áreas de equipamiento urbano a que se refiere el artículo anterior, previo estudio que deberá presentar el desarrollador, el cual deberá contener los siguientes puntos:
 
-(NOTA: EL 2 DE JUNIO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2017 Y SU ACUMULADA 127/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE AGOSTO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 127, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+I. Radio de Estudio de 1,000 metros, en el contorno del predio a desarrollar, para lo cual deberá tomarse en cuenta de los desarrollos habitacionales contiguos, el tipo de fraccionamiento y los elementos geográficos y topográficos existentes;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+II. Equipamiento existente, el número de áreas de donación que tienen los desarrollos con sus usos, revisión de áreas verdes, de equipamiento básico y del equipamiento zonal; y,
 
-IV. A QUIEN ADQUIERA, COMERCIALICE O ESTÉ EN POSESIÓN DE UNO O MÁS DISPOSITIVOS ELECTRÓNICOS CON CAPACIDAD DE CONECTARSE A INTERNET DE MANERA INALÁMBRICA POR MEDIO DE CUALQUIER TIPO DE RED, QUE TENGA DENUNCIA DE ROBO ANTE LA AUTORIDAD COMPETENTE; O
+III. Planeación del equipamiento dentro del desarrollo, como el tipo de desarrollo, densidad de población, características del desarrollo, tipo de vivienda, dosificación y distribución de las áreas de donación y requerimiento de equipamiento.
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+###### Artículo 151.
 
-V. Adquiera, comercialice o tenga la posesión de uno o más bienes muebles que sean producto de robo a sabiendas de ello, según se haya acreditado con denuncia ante la autoridad competente; o
+Los fraccionamientos, cualquiera que sea su tipo, excepción hecha de los de urbanización progresiva, deben contar con las siguientes obras e instalaciones:
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
+I. Vialidades;
 
-VI. Adquiera, comercialice o tenga la posesión sin derecho de una o más tapas de registro o rejillas de alcantarillado propiedad del Estado, de algún Municipio o del titular de la concesión del servicio público de que se trate, a sabiendas de que son producto de robo.
+II. Red de agua potable;
 
-Al responsable de Robo Equiparado se le aplicarán de 2 a 4 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en el supuesto de la Fracción I.
+III. Red de drenaje y alcantarillado;
 
-> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI, P.O. 18 DE JULIO DE 2022.]</small>
+IV. Sistema para la conducción de aguas pluviales, indicando su canalización y destino, o su conexión a colector pluvial en caso de existir;
 
-Se aplicarán de 4 a 6 años de prisión y de 200 a 400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando se cometa en cualquiera de los supuestos de las Fracciones II y III.
+V. Red de energía eléctrica, alumbrado público y preparación para acometidas domiciliarias;
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2022)</small>
+VI. Pavimentación;
 
-Se aplicarán de 2 a 4 años de prisión y de 100 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la unidad de medida y actualización; y de 6 meses a 2 años y de 50 a 150 días de multa cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la unidad de medida y actualización, cuando se cometa en cualquiera de los supuestos previstos en las Fracciones IV, V y VI.
+VII. Guarniciones diseñadas para el acceso vehicular a las banquetas;
 
-###### ARTÍCULO 142.
+VIII. Banquetas;
 
-Robo Calificado. El Robo será Calificado cuando:
+IX. Rampas para discapacitados;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
+X. Placas de nomenclatura en los cruces de las calles de acuerdo al diseño de la Dirección y del IMPLAN;
 
-I. Se cometa con medios violentos como armas o instrumentos que por su forma y características simulen serlo, o uso de violencia física o moral, suficiente en contra de la víctima o sobre otra persona que la acompañe, o cuando se ejerza aquélla para proporcionarse la fuga o mantenerse con lo apropiado;
+XI. Áreas verdes forestadas y equipadas; y,
 
-II. El objeto material del apoderamiento sea un expediente o algún documento de protocolo, oficina o archivo públicos, o de documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
+XII. Señalización vial.
 
-III. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, o en sus dependencias;
+###### Artículo 152.
 
-IV. Se cometa aprovechando la falta de vigilancia, el desorden o confusión que se produzcan por un incendio, inundación o accidentes en el tránsito de vehículos o aeronaves, u otros siniestros;
+Las vialidades que integran el sistema vial primario deben tener las siguientes características:
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
+I. La traza se establecerá en función de los puntos cardinales y debe atender a los lineamientos considerados en el POTE;
 
-V. El objeto material del apoderamiento sean tubos, conexiones, tapas de registro, rejillas de alcantarillado o cualesquiera otros implementos de infraestructura pública o equipamiento destinada a la prestación de servicios públicos estatales o municipales, tales como los servicios de salud, de educación o la prestación del servicio de agua potable, drenaje o alcantarillado; así como de los bienes para la prestación del servicio de alumbrado público, transformadores de voltaje de energía eléctrica que no pertenezcan a la Federación, contenedores o demás instalaciones o aquellos destinados para la limpia, recolección, traslado, tratamiento o disposición final de residuos;
+II. La sección transversal se determinará de conformidad con el presente Código;
 
-VI. Se lleve a cabo con destrucción o deterioro de bienes muebles o inmuebles;
+III. Su destino primordial es la circulación de vehículos en alta y baja velocidad; y,
 
-VII. La acción de apoderamiento se realice respecto de vehículos de motor, sobre parte de ellos o de objetos guardados en su interior;
+IV. Las demás que determinen las autoridades municipales competentes, en los términos de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código.
 
-VIII. Se cometa en local comercial abierto al público;
+###### Artículo 153.
 
-IX. El objeto material del apoderamiento sean instrumentos de labranza, objetos utilizados para cercar frutos cosechados o por cosechar;
+Las vialidades que conforman el sistema vial secundario deben tener las siguientes características:
 
-X. El objeto material del apoderamiento sean postes, alambres u otros materiales de las cercas de los sembradíos o potreros, dejando éstos al descubierto en todo o en parte;
+I. Soportar la circulación de vehículos en baja velocidad;
 
-XI. Se lleve a cabo el apoderamiento mediante el uso de sistemas de informática, sistema de redes de computadoras, base de datos, soporte lógico o programas de cómputo;
+II. Debe atender a los lineamientos del POTE;
 
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
+III. La sección transversal se determinará de conformidad con el presente Código; y,
 
-XII. El apoderamiento se realice respecto de vehículos de transporte público de pasajeros, o de aquellos destinados al servicio de transporte de personas contratado a través de plataformas tecnológicas administrado por empresas de redes de transporte, que cuenten con el registro o autorización legal vigente conforme a la legislación de la materia; sobre parte de ellos o sobre los bienes a cargo o disposición de su conductor o pasajeros;
+IV. Ofrecer alternativas de viajes entre zonas de corto recorrido.
 
-XIII. El objeto material del apoderamiento sean cables, conexiones u otros materiales que formen parte integrante de alguna o algunas instalaciones eléctricas;
+###### Artículo 154.
 
-XIV. El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola;
+Las vialidades que conforman el sistema vial terciario deben tener las siguientes características:
 
-XV. (DEROGADA, P.O. 3 DE JUNIO DE 2019)
+I. Calles Locales:
 
-XVI. El objeto material del apoderamiento sean vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, asociados a un sistema de pagos y prestaciones laborales, emitidos por persona moral, utilizados para intercambiar o canjear bienes y servicios;
+a) En los fraccionamientos residenciales tipo A, B ó C, tendrán un arroyo vehicular que no será menor de 7 metros y su sección transversal de paramento a paramento, tendrá un mínimo de 12 metros;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+b) En los fraccionamientos comerciales, tendrán un arroyo vehicular que no será menor de 14 metros y una sección transversal de paramento a paramento que no será menor de 19 metros;
 
-XVII. Se lleve a cabo dentro de las instalaciones de templos o lugares destinados a culto religioso;
+c) En los fraccionamientos industriales, tendrán un arroyo vehicular que no será menor de 14 metros y una sección transversal de paramento a paramento que no será menor de 19 metros;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+d) En los fraccionamientos de interés social o de habitación popular, tendrán un arroyo vehicular que no será menor de 7 metros y una sección transversal de paramento a paramento con un mínimo de 11 metros;
 
-XVIII. El objeto del apoderamiento sea sustraído del interior de las instalaciones de instituciones educativas públicas o privadas, o sea parte integrante de ellas; o
+e) Sólo se permitirán en un sólo sentido de circulación; y,
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
+f) Cuando dividan dos o más tipos de desarrollos deberán contemplar la sección mayor dependiendo del desarrollo que se trate.
 
-XIX. Se cometa en contra de persona con discapacidad, menor de edad o de más de sesenta años de edad. Para los efectos de este Código se entiende por persona con discapacidad aquella que por razón congénita o adquirida presenta una o más alteraciones funcionales de carácter físico, mental, intelectual o sensorial, ya sean permanentes o temporales, que impliquen desventajas considerables en su interacción con el entorno social.
+II. Calles Cerradas:
 
-Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
+a) Tendrán un arroyo vehicular de un mínimo de 9 metros en doble sentido de circulación, y su sección transversal de paramento a paramento será de 13 metros;
 
-Si concurren dos o más calificativas, la punibilidad se aumenta hasta las dos terceras partes de los mínimos y máximos previstos para el tipo penal de Robo.
+b) En los fraccionamientos industriales tendrán una longitud máxima de 120 metros y un retorno de 32 metros de diámetro como mínimo de guarnición a guarnición;
 
-###### ARTÍCULO 143.
+c) En los demás tipos de fraccionamientos tendrán una longitud máxima de 90 metros lineales y un retorno en forma de "T" perpendicular a la vialidad o de forma circular con un diámetro de 21 metros como mínimo de guarnición a guarnición; y,
 
-Abigeato. El Abigeato consiste en:
+d) Sólo se permitirán en aquellos casos en que la Dirección determine su conveniencia, atendiendo tanto a la propuesta del diseño urbano del desarrollo, como a la movilidad vial de la zona.
 
-I. El apoderamiento de una o más cabezas de ganado ajeno, cualquiera que sea su especie, independientemente del lugar en el que se encuentren, sin consentimiento de quien legalmente pueda disponer de las mismas; o
+###### Artículo 155.
 
-II. El apoderamiento de una o más cabezas de ganado propio, cualquiera que sea su especie, que se halle en poder de otro, en virtud de una relación contractual o por mandamiento de autoridad, en la medida que ello afecte el patrimonio de quien las detente.
+Todas las banquetas de los sistemas viales antes mencionados deberán tener como mínimo una sección de 2 metros y deberán incluir un área jardinada equivalente a una tercera parte del ancho total de las mismas como mínimo y un 50 % como máximo, una guarnición de 0.20 metros tipo "pecho de paloma" para acceso vehicular, así como un área de circulación peatonal con la superficie restante.
 
-Al responsable de Abigeato contemplado en la Fracción I se le aplicarán de 4 a 10 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Sin perjuicio de lo que se establece en el párrafo anterior, la Dirección podrá valorar, por si o bien a petición del desarrollador, otros tipos de diseños de banquetas, sin que la sección de la banqueta pueda ser de menores dimensiones a lo establecido en dicho párrafo.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+Asimismo, los desarrolladores deberán prever en su diseño urbano, un sistema de rampas para que en su ejecución, las personas con capacidades diferentes cuenten con facilidades para su desplazamiento en banquetas, cruces de vialidades y áreas a desnivel; la longitud y ancho mínimos será de un metro, debiendo contar con superficies antiderrapantes, y la señalización adecuada para su protección.
 
-Al responsable de Abigeato contemplado en la Fracción II se le aplicarán de 3 a 10 años de prisión y de 150 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+###### Artículo 156.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2023)</small>
+Se permitirán motivos de acceso, siempre y cuando se cumpla las condicionantes siguientes:
 
-Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colmenas o colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+I. El desplante de los motivos de acceso no sean considerados como áreas de donación;
 
-###### ARTÍCULO 144.
+II. Que la superficie que ocupe el desplante del motivo de acceso se escriture a favor del Municipio y que el cuidado, mantenimiento y conservación corran a cuenta del desarrollador, durante el desarrollo del fraccionamiento y garantizar su mantenimiento hasta la entrega recepción del conjunto habitacional al Municipio;
 
-Abigeato calificado. El Abigeato será calificado cuando:
+III. Que las instalaciones permitan el libre tránsito vehicular y peatonal;
 
-I. Se cometa aprovechando la falta de vigilancia sobre las cabezas de ganado objeto del apoderamiento;
+IV. Respeten un radio de giro interior de 9 metros como mínimo en el acceso y salida vehicular, o en su caso a lo que se derive del dictamen de impacto vial;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+V. Cuenten con un arroyo vehicular que incluya el sobre ancho de la vialidad producto del radio de giro; y,
 
-II. Se cometa con medios violentos como armas o uso de violencia física o moral suficiente en contra de la víctima o sobre la persona que esté encargada de la vigilancia de la o las cabezas de ganado, o cuando se ejerza aquella para proporcionarse la fuga o mantenerse con lo apropiado;
+VI. Se garantice un gálibo mínimo a los 5.50 metros.
 
-III. Cuando la afectación patrimonial producida sea el equivalente al valor del veinte por ciento o más de los animales propiedad de la víctima.
+Tratándose de desarrollos en condominio, los motivos de acceso deberán atender a las condicionantes antes señaladas, con excepción de lo establecido en la fracción II, así como las que, en su caso, le señale el dictamen de impacto vial; en este supuesto, las instalaciones se ubicarán a una distancia mínima de 5 metros hacia el interior del predio con respecto al parámetro perpendicular de la vialidad pública.
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+###### Artículo 157.
 
-IV. Al que, con ánimo de apropiársela, se apodere de una o más cabezas de ganado ajeno, alterando o eliminando las marcas o señales de identificación; o
+Se autorizará la colocación de casetas de control de acceso en los fraccionamientos y desarrollos en condominio siempre y cuando el desarrollador solicitante cumpla con las condicionantes y lineamientos siguientes:
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+I. Únicamente se otorgará el visto bueno de las casetas de acceso para vialidades cuya clasificación sea de tipo terciaria y/o local, las cuales estén constituidas como un circuito vial y que la vialidad no sea continuación de otra calle interna o externa del fraccionamiento;
 
-V. Se cometa por quien tenga una relación contractual, laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado.
+II. El área donde se desplante y se ubique la caseta deberá de considerarse como área de servicio en el Dictamen de proyecto de Diseño Urbano, de tal manera que no esté constituido como vía pública y tampoco podrá desplantarse en área de donación; el motivo de acceso, la caseta o pluma de acceso deberá ser escriturada por el Desarrollador en favor del Municipio, y se otorgará en administración a favor del Comité de Colonos del desarrollo, en el entendido de que éste se hará cargo de su cuidado y mantenimiento, y si no lo aceptase, la Dirección removerá la pluma de acceso y/o caseta de control;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+III. No se permitirá la colocación de ningún tipo de elemento que obstruya el libre transito;
 
-VI. Se cometa por un servidor público.
+IV. Deberá garantizar en las banquetas las rampas así como el libre tránsito de las personas con capacidades diferentes;
 
-Al responsable de Abigeato Calificado se le aplicará hasta en dos terceras partes más de los mínimos y máximos previstos para el tipo penal de Abigeato.
+V. Se deberá garantizar en todo momento la libertad de tránsito, ante ello, el desarrollador deberá realizar las medidas necesarias para que cualquier persona pueda ingresar y transitar, ya sea en su vehículo o caminando, dentro del fraccionamiento, lo anterior a fin de no violar la garantía constitucional que consagran los artículos 11, 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos; para ello y si hubiere alguna persona encargada de la seguridad del fraccionamiento que se ubique en la caseta de vigilancia, deberá de permitir el libre paso a cualquier persona, llevando un registro de personas y vehículos que ingresen, siendo que no deberá requerirles documentación;
 
-###### ARTÍCULO 145.
+VI. Las vialidades externas e internas y las áreas de donación que por su ubicación se encuentren dentro del fraccionamiento seguirán siendo propiedad del municipio y cualquier persona podrá acceder a ellas;
 
-Abigeato equiparado. Se equipara al Abigeato:
+VII. La autorización de una caseta de vigilancia y/o control de acceso en el fraccionamiento, será vigente hasta en tanto la Dirección decida revocarla, previa sustanciación del procedimiento correspondiente, por lo que quien las tenga bajo su responsabilidad deberá proceder a su retiro inmediato;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+VIII. De existir alguna inconformidad o queja justificada con respecto al funcionamiento u operación de la caseta de vigilancia y plumas de control de acceso, el Comité de Colonos deberá presentar a la Dirección, el Acuerdo tomado en Asamblea General, mismo que será analizado por dicha dependencia para determinar lo procedente; y,
 
-I. Alterar o eliminar los fierros, marcas o señales, aretes o elementos electromagnéticos, o cualquier otro signo, señal o elemento de identificación de una o más cabezas de ganado ajeno, sin el consentimiento del que legalmente pueda otorgarlo;
+IX. Para fraccionamientos concluidos y/o municipalizados, este trámite podrá ser realizado a través del comité de colonos reconocidos ante la Dirección General de Desarrollo Social.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+###### Artículo 158.
 
-II. Transportar o comercializar dolosamente ganado robado, así como pieles o carne de los mismos; y en el caso de que se trate de colmenas de abejas, todos los derivados de la actividad apícola;
+Deberá retirarse el motivo de acceso y/o la caseta de control de acceso, cuando se incumplan alguna de las condicionantes señaladas en los artículos anteriores, o así lo ordene alguna autoridad municipal competente, previa sustanciación del procedimiento correspondiente.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
+###### Artículo 159.
 
-III. Expedir certificados falsos para obtener guías simulando ventas y/o hacer uso de dichos certificados; y/o
+Las instalaciones para la prestación de los servicios, en banquetas y arroyo vehicular, se ubicarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+I. A partir del paramento y en una franja de 60 centímetros de ancho, a una profundidad mínima de 90 centímetros, de la red de distribución de agua potable;
 
-IV. Proceder al sacrificio de ganado o la utilización de químicos, agroquímicos, plaguicidas y herbicidas para envenenar una o varias colmenas o colonias, sin el consentimiento de quien legalmente pueda otorgarlo o sin que medie causa justificada por autoridad competente.
+II. Contigua a la anterior y en una franja de 30 centímetros de ancho, a una profundidad mínima de 90 centímetros, de la red de distribución de energía eléctrica;
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2017)</small>
+III. Contigua a la anterior y en una franja de 30 centímetros de ancho, a una profundidad mínima de 90 centímetros, la red de telefonía regulada y autorizada por la instancia ejecutora;
 
-Al responsable de Abigeato Equiparado se le aplicarán de 2 a 8 años de prisión y de 150 a 350 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+IV. Colindante con el área jardinada en dirección al paramento y en una franja de 30 centímetros de ancho, a una profundidad máxima de 90 centímetros, de la red de alumbrado público;
 
-### CAPÍTULO I. Individualización de las Sanciones
+V. A partir del inicio de la guarnición y en una franja de 50 centímetros de ancho máxima, a una profundidad mínima de 90 centímetros;
 
-###### ARTÍCULO 146.
+VI. La red de drenaje sanitario deberá instalarse:
 
-Abuso de confianza. El Abuso de Confianza consiste en:
+a) En el centro del arroyo vehicular, a una profundidad mínima de 90 centímetros medidos a partir de la parte superior del ducto, tratándose de vialidades de un solo cuerpo; y,
 
-I. Disponer para sí o para otro, con perjuicio de alguien, de una cantidad de dinero, de un documento que importe obligación, liberación o transmisión de derechos, o de cualquier otra cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio;
+b) En el centro del carril colindante con la banqueta, en vialidades de dos o más cuerpos.
 
-II. El disponer o substraer una cosa, su dueño, si le ha sido embargada y la tiene en su poder con el carácter de depositario judicial, y no la ponga a disposición de un nuevo depositario, cuando sea legalmente requerido para ello, y esto provoque menoscabo patrimonial a la parte actora en el litigio correspondiente, o a un tercero;
+VII. La red de drenaje pluvial deberá instalarse bajo la superficie de rodamiento del arroyo vehicular, a una profundidad mínima de 90 centímetros.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+En el caso de las fracciones I, II, III, IV y V podrán instalarse ductos unidos por registros y en todo caso deberá avalarse la propuesta de diseño por la Dirección, SAPAL y la CFE en el ámbito de sus competencias.
 
-III. El no hacer entrega de la cosa embargada el depositario judicial o el designado por o ante la autoridad judicial, administrativa o del trabajo, que no sea el dueño de la misma, al ser requerido legalmente;
+Las profundidades de las instalaciones de energía eléctrica, alumbrado público, agua potable y telefonía serán medidas a partir del nivel de piso terminado (banqueta) y hasta el desplante del ducto. Las restantes serán medidas a partir de dicho nivel y hasta el lomo de tubo.
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2021)</small>
+Las instalaciones a que se refieren las fracciones de la I a la V deben estar señalizadas conforme a las normas oficiales correspondientes. Asimismo, la ubicación de los sistemas de medición será el que señalen la Dirección, SAPAL y la CFE en el ámbito de sus respectivas competencias. En su caso, deberán colocarse en un murete de resguardo.
 
-IV. El disponer para sí o para otro de una o más cabezas de ganado, cualquiera que sea su especie, con perjuicio de alguien, de las cuales se le haya transmitido la tenencia y no el dominio, o bien se las hayan entregado para su custodia; o
+Las medidas señaladas en este artículo, son las mínimas requeridas y quedarán sujetas a lo que dictaminen las dependencias, instancias u organismos operadores competentes.
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2021)</small>
+Las instalaciones en vía pública referidas a la telefonía, gas natural y demás servicios deben ser subterráneas y cumplir con las normas oficiales vigentes, siendo la Dirección la responsable de la autorización del Diseño.
 
-V. El disponer o utilizar para sí o para otro los bienes que le son transmitidos como obligación alimentaria en virtud de su relación de patria potestad, tutela, guardia o custodia con la víctima, para un fin distinto u omitir destinarlo a ésta última.
+Una vez formalizada la entrega - recepción las obras de urbanización relativas a las banquetas y arroyo vehicular no podrá ser autorizada la instalación subterránea de los servicios a que se refiere el párrafo anterior, sino hasta que hubiesen transcurrido por lo menos 10 años; salvo las reparaciones que resulten necesarias de los servicios ya existentes.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+###### Artículo 160.
 
-Al responsable de Abuso de Confianza se le aplicarán de:
+En los fraccionamientos los transformadores de la red de distribución de energía eléctrica oculta, podrán instalarse en superficies que den frente a la vía pública. No deben invadir la banqueta o arroyo peatonal y deberán escriturarse a favor del municipio.
 
-I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
+El proyecto urbano reconocido en la aprobación de la traza debe asegurar la adecuada ubicación de la infraestructura requerida de acuerdo al diseño urbano del desarrollo propuesto.
 
-II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
+En este caso, las superficies que ocupen estos transformadores serán consideradas vías públicas, debiendo identificarse como tal en la entrega que realice el desarrollador respecto de las obras de urbanización y vías públicas.
 
-III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
+En el permiso de venta se determinarán los lotes que sufrirán alguna variación en cuanto a su superficie, con motivo de lo dispuesto en el presente artículo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+###### Artículo 161.
 
-La valoración que se haga de la afectación patrimonial tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concreticen los hechos descritos en el presente Artículo.
+Las vialidades que conforman el sistema vial alternativo tendrán las siguientes características:
 
-## TÍTULO TERCERO. EL DELITO
+I. Los andadores:
 
-### CAPÍTULO II. Las Penas
+a) No podrán ser tomados como áreas verdes; áreas de estacionamiento, áreas privativas o libres en condominio, ni tampoco como áreas de donación;
 
-###### ARTÍCULO 147.
+b) No podrán transitar vehículos motorizados salvo los de emergencia. Su prioridad es peatonal;
 
-Fraude. El Fraude consiste en:
+c) Tendrán una sección transversal mínima de 6 metros de paramento a paramento cuando no cuenten con área jardinada; y,
 
-I. El obtener ilícitamente una cosa o alcanzar un lucro indebido, para sí o para otro, engañando a la víctima o aprovechándose del error o la ignorancia en que se encuentre;
+d) Los andadores que cuenten con áreas jardinadas tendrán 6.50 metros mínimo de sección de paramento a paramento, respetándose una sección libre de 4.50 metros a lo largo del andador y de 3.50 metros tratándose de desarrollos en condominio. Toda la jardinería tendrá una guarnición a nivel del arroyo de circulación;
 
-II. El enajenar por título oneroso alguna cosa, con conocimiento de que no se tiene derecho a disponer legalmente de ella, si se recibió el precio, el alquiler, la cantidad en que la grave, parte de ellos o una ganancia equivalente;
+II. Las Ciclovías:
 
-III. El obtener de otro una cantidad de dinero o cualquier otro lucro, al otorgarle o endosarle a nombre propio o de otro, un documento nominativo, a la orden o al portador, contra una persona supuesta o que el otorgante o endosante sabe que no ha de pagarse;
+a) Tendrán una sección transversal mínima de 1.50 metros por sentido de circulación;
 
-IV. El admitir un servicio u obtener alguna cosa en cualquier establecimiento comercial de bienes o de servicios y no pagar el importe que corresponda;
+b) Deben ubicarse dentro de parques ó espacios públicos y/o restricciones federales como ríos y arroyos reconocidos en el plan maestro de ciclovías; y,
 
-V. El no hacer la entrega de una cosa mueble, objeto de una compraventa, el que la hubiese vendido, no obstante haber recibido su precio o parte de él, o no devolver su precio cuando el comprador se lo exija, o no entregar la cosa en la cantidad o calidad convenidas;
+c) Cuando se ubiquen dentro del sistema vial primario y secundario deberán estar colindantes a las banquetas, podrán ubicarse sobre camellones siempre que éste cuente con sección igual o mayor a 10 metros al igual que la pista para trotar.
 
-VI. El emplear el fabricante, empresario, contratista o constructor de una obra cualquiera, en la construcción de la misma, materiales en calidad o cantidad inferior a la convenida o prometida, o mano de obra de inferior calidad a la estipulada u ofrecida, si han recibido el precio o parte de él;
+III. Pistas para trotar de bajo impacto:
 
-VII. El provocar deliberadamente cualquier acontecimiento que pudiere considerarse como fortuito o de fuerza mayor, para liberarse de obligaciones o cobrar fianzas o seguros a favor del inculpado;
+a) Tendrán una sección transversal mínima de 1.50 metros cuando sea de ida y vuelta, y de 0.75 metros cuando sea a ambos lados de la ciclovía;
 
-VIII. El obtener dinero, valores, dádivas u obsequios el servidor público del Estado, de un organismo público descentralizado, de una empresa de participación estatal o de cualquier agrupación sindical, al prometer a la víctima un trabajo, un ascenso, un aumento de salario u otras prestaciones en tales organismos, sin cumplir con ello;
+b) Podrán ubicarse dentro de parques públicos o restricciones de ríos y arroyos;
 
-IX. El alterar cuentas o condiciones de los contratos; hacer operaciones o gastos inexistentes o exagerar los reales; ocultar o retener valores o emplearlos indebidamente, el que por cualquier razón tuviere a su cargo la administración o cuidado de bienes ajenos, perjudicando al titular de éstos;
+c) En el sistema vial primario solo se podrán alojar en el camellón siempre que éste cuente con una sección mínima de 6 metros;
 
-X. El obtener un beneficio indebido mediante la simulación de un acto jurídico, de un acto o escrito judiciales, o mediante la alteración de elementos de prueba, en perjuicio de otro, y que estén claramente demostrados tales hechos en el procedimiento relativo ante la autoridad judicial; o
+d) En el sistema vial secundario podrán alojarse colindantes con banquetas; y,
 
-XI. Obtener un lucro indebido o una prestación que no le corresponda a un particular, por utilizar una credencial, identificación o nombramiento que no le pertenezca y que lo acredite como servidor público;
+e) El acabado superficial de la pista deberá de ser de materiales que brinden un amortiguamiento suficiente para reducir el daño en las articulaciones debido al impacto.
 
-XII. Causar un perjuicio público o privado por sí o por interpósita persona, al fraccionar, enajenar o comprometerse a enajenar, la propiedad, la posesión o cualquier derecho sobre un lote de terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en tal permiso señalados;
+###### Artículo 162.
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+El proyecto de diseño urbano de un fraccionamiento o desarrollo en condominio deberá respetar la estructura vial existente en los desarrollos colindantes y la establecida en los planes y programas de desarrollo urbano vigentes.
 
-XIII. El obtener un lucro indebido para sí o para otro, empleando como objeto de medio comisivo máquinas de juegos de azar o dispositivos electrónicos de apuesta cuyo funcionamiento dependa predominantemente del azar y no de la destreza o habilidad del usuario, en los que se ofrezca o permita la obtención de un beneficio económico directo en dinero, para inducir al error o engaño de los usuarios respecto de las probabilidades de obtención de premios, generando un perjuicio patrimonial a éstos.
+Asimismo, deberá considerar una longitud máxima de 180 metros lineales para las manzanas, excepto en los fraccionamientos campestres, industriales y agropecuarios, en los que podrán tener una longitud máxima de 380 metros lineales. No se exigirá la continuidad de vialidades ni la longitud de las manzanas cuando exista un elemento físico o natural que la impida.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+###### Artículo 163.
 
-Al responsable de Fraude se le aplicarán de:
+En el diseño de los fraccionamientos o desarrollos en condominio, se deberá dejar previsto en las esquinas de las manzanas el radio de giro adecuado para la circulación de los vehículos que contemple el proyecto el cual será calculado en la MIV de acuerdo al diseño del sistema vial.
 
-I. 6 Meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
+###### Artículo 164.
 
-II. 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
+La postería del alumbrado público, señalamientos, indicadores o letreros de cualquier otro tipo, deberá ubicarse en las áreas jardinadas de las banquetas, sin obstaculizar el área de circulación de peatones ni de los vehículos.
 
-III. 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
+###### Artículo 165.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+Los servicios de agua potable, drenaje y alcantarillado sanitario, deberán ser calculados de acuerdo a la población proyectada, con base en el número de lotes reales autorizados y considerándose una población de acuerdo al Instituto Nacional de Estadística y Geografía - INEGI.
 
-La valoración que se haga de la afectación patrimonial tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concreticen los hechos descritos en el presente Artículo.
+Para los efectos del cálculo técnico del proyecto, la capacidad mínima de las instalaciones se debe calcular de acuerdo al valor máximo del rango de densidad de población que corresponda a la zona de ubicación del desarrollo, conforme a lo establecido en la aprobación de la traza correspondiente, así como a los Planes y Programas de Desarrollo Urbano, conjunta o indistintamente con las normas dictadas por la Dirección y el SAPAL.
 
-###### ARTÍCULO 148.
+###### Artículo 166.
 
-Usura. La Usura consiste en:
+La capa de rodamiento para los sistemas viales primario y secundario será preferentemente de concreto hidráulico. Sin perjuicio de lo anterior, la Dirección podrá autorizar que se utilice otro tipo de pavimento, siempre y cuando el diseño de éste, garantice una vida útil mínima de 30 años.
 
-I. Obtener para sí o para otro, al celebrar un acto jurídico de carácter económico, independientemente de su naturaleza, un interés convencional evidente o encubierto, que exceda a un treinta y siete por ciento anual; o
+Las características y espesores de las capas que conformen la estructura de pavimento, se determinarán a partir de los estudios de geotecnia y diseño de pavimento presentados por el desarrollador, el cual deberá ser avalado por parte de la Dirección. El criterio para la autorización de una determinada estructura de pavimento, se basará en el cumplimiento de adecuadas características de resistencia, durabilidad, comportamiento y seguridad.
 
-II. Obtener del deudor o sus garantes, al celebrar un acto jurídico accesorio derivado del negocio principal, un interés evidente o encubierto, que por sí o sumado al principal exceda a un treinta y siete por ciento anual.
+###### Artículo 167.
 
-Al responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+El espesor mínimo para la capa de rodamiento de las vialidades que conforman el sistema vial terciario será de 15 centímetros en concreto hidráulico y con una resistencia mínima a la flexión de Mr=38 kg/cm2. Sin perjuicio de lo anterior, la Dirección podrá autorizar que se utilice otro tipo de pavimento, siempre y cuando el diseño de éste presentado por el desarrollador y aprobado por la citada dependencia, garantice una vida útil mínima de 30 años.
 
-(NOTA: EL 31 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2026 Y SU ACUMULADA 45/2026, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE FEBRERO DE 2026 FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 405, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+En el caso del sistema vial alternativo la capa de rodamiento podrá ser de cualquier tipo de material aprobado por la Dirección, siempre y cuando se garantice la misma duración señalada por el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+###### Artículo 168.
 
-###### ARTÍCULO 149.
+Tratándose de fraccionamientos de vivienda de interés social, se autorizarán pavimentos en asfalto en el mayor número de vialidades que así lo permitan, a excepción de las vialidades tipo interbarrios, primarias y ejes metropolitanos. Además la duración de estos pavimentos no podrá ser menor a 10 diez años.
 
-Extorsión. Comete el delito de Extorsión quien, sin derecho, obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un beneficio o lucro para sí o para otro o causando a alguien un daño o perjuicio patrimonial, moral, físico o psicológico, y se le impondrán de quince a veinticinco años de prisión y una multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+###### Artículo 169.
 
-I.- Las penas previstas se aumentarán de cuatro a ocho años de prisión, cuando en la comisión del delito de extorsión, se presente alguna de las circunstancias siguientes:
+En todos los Sistemas Viales, las guarniciones serán de concreto hidráulico y las banquetas se construirán de ese mismo material o de cualquier otro tipo de pavimento que autorice la dependencia señalada en el párrafo anterior.
 
-a) El sujeto activo manifieste su pretensión de obtener un beneficio en especie, dinero o bienes, por concepto del cobro de cuotas o prestaciones de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
+Sobre las guarniciones de las áreas de donación en favor del Municipio, se deberá marcar físicamente con una placa que señale toma domiciliaria, haciendo referencia a la ubicación de la toma domiciliaria que correspondan a los servicios descritos a continuación: Agua, Luz, Drenaje Sanitario y Drenaje Pluvial.
 
-b) Se cometa en contra de quien realice actividades comerciales, empresariales, industriales, agrícolas, ganaderas, pesqueras, de servicios públicos o privados;
+###### Artículo 170.
 
-c) El sujeto activo por sí o en representación de un sindicato, agrupación o asociación, sea real o simulada, coaccione a la víctima para que contrate, obtenga o adquiera de otra persona, ya sea física o moral, bienes, insumos o servicios para el desarrollo de su actividad comercial. Esta agravante se consuma con independencia de que se concrete el acto de comercio coaccionado;
+El desarrollador deberá donar un árbol por cada uno de los lotes, unidades, locales y/o las viviendas que integren el proyecto de diseño urbano, los cuales deberán plantarse en los lugares que determine la Dirección de conformidad con lo establecido en el dictamen de impacto ambiental.
 
-d) Se le imponga a la víctima el precio de los productos, bienes o servicios que comercializa;
+###### Artículo 171.
 
-e) Se obligue por cualquier medio a la víctima a celebrar un acto jurídico, independientemente de su objeto;
+Para la construcción de los fraccionamientos a que se refiere la Ley de Fraccionamientos, se aplicarán en lo conducente los parámetros establecidos en el Título de Zonificación y usos del suelo de este Código clasificándose los diferentes tipos de desarrollos conforme a su densidad, en los siguientes:
 
-f) Se exija que el beneficio económico o lucro indebido, sea depositado o transferido mediante el uso del sistema bancario o financiero mexicano o de cualquier otro país, sin importar la denominación de moneda, divisa o activos virtuales, que se utilice;
+I. Campestre Rústico: HR;
 
-g) Cuando para lograr los fines de la extorsión se empleé a un tercero sin que tenga conocimiento del hecho delictivo;
+II. Campestre Residencial: H1;
 
-h) Cuando se utilice a dependencias o entidades de la Administración Pública Federal, estatal o municipal, sindicatos, asociaciones, cámaras empresariales, organizaciones civiles, ganaderas, del ramo de la construcción y demás instituciones u organismos, indebidamente, para coaccionar, amedrentar o presionar para realizar prácticas que no permita el libre consumo de los bienes o servicios necesarios para su desarrollo;
+III. Residencial A: H2;
 
-i) La conducta sea cometida en contra de alguna persona candidata a un cargo de elección popular o cuando sea electa; o
+IV. Residencial B: H3;
 
-j) Cuando se requiera la entrega de una cantidad de dinero o un beneficio en especie para sí o para un tercero, por encontrarse alguien en un supuesto riesgo, peligro inminente o procedimiento legal.
+V. Residencial C: H4, H5 y H6;
 
-II. Las penas se aumentarán de cinco a doce años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes:
+VI. Habitacional popular o de interés social: H7 y H8;
 
-a) Se cometa en contra de una o varias personas migrantes, cualquiera que sea su condición migratoria;
+VII. Industria ligera: I 1;
 
-b) Se cometa en contra de persona menor de 18 años, en estado de embarazo o mayor de sesenta años de edad;
+VIII. Industria mediana: I 2;
 
-c) El sujeto activo tenga alguna relación de confianza, laboral, de parentesco o de negocios con el sujeto pasivo o con quien éste último esté ligado;
+IX. Industria pesada: I 3;
 
-d) El sujeto activo utilice información privada de la víctima o de sus familiares, como datos personales, imágenes, audios, textos o videos, ya sean reales, manipulados o alterados, para coaccionarla;
+X. Industria de alto riesgo: I 4;
 
-e) Se utilicen dispositivos, medios, servicios o plataformas a través de los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, datos, sonidos o información de cualquier naturaleza que se efectué a través de hilos, radioelectricidad, medios ópticos, físicos, sistemas electromagnéticos o cualquier otro medio electrónico;
+XI. Turístico, recreativo o deportivo: RE;
 
-f) Cuando se utilice a un tercero para recibir alguna cantidad de dinero o un beneficio en especie derivado de la extorsión;
+XII. Agropecuario: RA, RF, RE y RP; y,
 
-g) Por cualquier medio señale tener privada de la libertad a una persona, sin estarlo, y exija el pago de una determinada cantidad de dinero o beneficio en especie para su supuesta liberación; o
+XIII. Comerciales: C1, C2 y C3:
 
-h) Cuando para lograr los fines de la extorsión, se empleen acciones fraudulentas, actos ilícitos o actos cuya finalidad sea ilícita.
+En los proyectos de diseño urbano de los fraccionamientos, se podrán prever diferentes tipos de uso considerando las disposiciones que establezca el Título de la Zonificación y usos del suelo de este Código, para la zona en que aquellos se ubiquen.
 
-III. Las penas se aumentarán de siete a diecisiete años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes
+###### Artículo 172.
 
-a) Se emplee violencia física;
+En la construcción de los desarrollos en condominio a que se refiere la Ley de Fraccionamientos, se aplicarán en lo conducente los parámetros establecidos en el Título de Zonificación y usos del suelo del presente ordenamiento, clasificándose los diferentes tipos de desarrollos en condominio conforme a su densidad, en los siguientes:
 
-b) Se emplee violencia física o moral para exigir el cobro de un daño, derivado de un hecho de tránsito provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción;
+I. Habitacional: H1, H2, H3, H4, H5, H6;
 
-c) El sujeto activo utilice violencia física, moral o psicológica para exigir el cobro de un daño ocurrido en algún objeto de su propiedad, derivado de un supuesto accidente cualquiera que este sea, pero provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción;
+II. Comercial: C1, C2 y C3;
 
-d) Se realice mediante el uso de una o más armas o instrumentos peligrosos u otro objeto de apariencia, forma o configuración de armas de fuego;
+III. De Servicios: S1, S2 y S3;
 
-e) El agente se ostente por cualquier medio como miembro de algún grupo vinculado a la delincuencia o delincuencia organizada, asociación delictuosa o pandilla, con independencia de que esto sea real o simulado;
+IV. Turístico: RE, RQ y PM; y,
 
-f) Se empleé cualquier medio para tratar de impedir que la víctima denuncie la conducta extorsiva;
+V. Industrial: I 1, I 2, I 3 e I 4.
 
-g) Cuando tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el ejercicio del derecho a la libertad de expresión o la defensa de los derechos humanos;
+###### Artículo 173.
 
-h) El sujeto activo sea o simule ser empleado de una institución o entidad financiera, de gobierno, o de alguna empresa estatal o privada, con el ánimo de utilizar u obtener los datos personales o financieros de la víctima;
+En los desarrollos en condominio horizontal de uso habitacional, se estará atendiendo a las disposiciones especificas establecidas en la Ley de Fraccionamientos.
 
-i) Se cometa por persona servidora o exservidora pública de cualquier nivel de gobierno o un elemento que sea miembro o ex miembro de una empresa de seguridad privada;
+Bajo ninguna modalidad se podrá autorizar en zonas habitacionales popular o de interés social.
 
-j) El sujeto activo se encuentre privado de su libertad en un centro penitenciario a disposición de cualquier autoridad, independientemente de su situación procesal;
+###### Artículo 174.
 
-k) Se afecte de manera directa la economía de alguna comunidad;
+En los desarrollos mixtos deberán respetarse los parámetros de densidad a que se refieren los artículos anteriores, pero deberán ser compatibles en cuanto al uso y especificaciones técnicas establecidas en el Título de Zonificación y usos del suelo de este Código, según corresponda a cada tipo de desarrollo.
 
-l) Cuando el beneficio obtenido o que se pretenda obtener del delito de extorsión, provenga del erario;
+###### Artículo 175.
 
-m) Cuando se utilicen o empleen personas menores de edad;
+El diseño y ejecución de los fraccionamientos o desarrollos en condominio que se destinen a uso industrial, bajo el concepto de parques industriales, deberá realizarse cumpliendo con lo establecido en las Normas Oficiales Mexicanas correspondientes.
 
-n) Se cometa en contra de cualquier persona servidora pública en razón de su empleo, cargo o comisión público;
+Para los efectos de este artículo, se establecen las siguientes definiciones:
 
-o) Cuando intervengan dos o más personas;
+I. Nave industrial.- Es la instalación física o edificación diseñada y construida para realizar actividades industriales de producción, transformación, manufactura, ensamble, procesos industriales, almacenaje y distribución;
 
-p) El sujeto activo porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de Instituciones de Seguridad Pública; o
+II. Parque industrial.- Es la superficie geográficamente delimitada y diseñada especialmente para el asentamiento de la planta industrial en condiciones adecuadas de ubicación, infraestructura, equipamiento y de servicios, con una administración permanente para su operación. Busca el ordenamiento de los asentamientos industriales y la desconcentración de las zonas urbanas y conurbadas, hacer un uso adecuado del suelo, proporcionar condiciones idóneas para que la industria opere eficientemente y se estimule la creatividad y productividad dentro de un ambiente confortable. Además, coadyuva a las estrategias de desarrollo industrial de una región; y,
 
-q) Se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima.
+III. Terreno industrial.- Es el lote o lotes de terreno colindantes entre sí ocupados por una misma empresa para la instalación de una industria.
 
-A la persona servidora pública que participe en la comisión del delito de extorsión, además de las penas a que refiere el presente artículo, se le impondrá la destitución del empleo, cargo o comisión públicos, e inhabilitación para desempeñar algún empleo, cargo o comisión públicos hasta por un plazo igual al de la pena de prisión impuesta, la cual comenzará a computarse a partir de que se haya cumplido la pena privativa de libertad.
+###### Artículo 176.
 
-Las penas previstas en el presente artículo se impondrán, independientemente de las que correspondan por la comisión de otros delitos.
+Las vialidades colindantes a las áreas de donación para equipamiento y áreas verdes deberán ser urbanizadas por el desarrollador conforme a las especificaciones que se le establezcan en la propia licencia de urbanización.
 
-El delito de extorsión se investigará y perseguirá de oficio.
+Todas las vialidades que se le señalen al desarrollador para el buen funcionamiento vial del fraccionamiento deberán señalarse al interior del predio a desarrollar.
 
-###### ARTÍCULO 150.
+No se requerirá urbanizar vialidades fuera del polígono, ni presentes ni futuras, a menos que el desarrollador presente en su proyecto lotes que den al frente de las mismas, en este caso la Dirección clasificará la colindancia con dichas vialidades con un uso exclusivamente Habitacional (F), excepción hecha de los usos que presente el desarrollador desde su proyecto, siempre y cuando sean compatibles con el POTE.
 
-Despojo. El Despojo consiste en:
+###### Artículo 177.
 
-I. Ocupar de propia autoridad, por medio de la violencia física o furtivamente, de la amenaza o del engaño, un inmueble ajeno o hacer uso de él, o de un derecho real que no le pertenezca, con perjuicio patrimonial de alguien; o impedir materialmente el disfrute de tal bien inmueble o derecho real, con perjuicio patrimonial de alguien;
+La aprobación que emitan las dependencias y entidades públicas con respecto a la factibilidad de servicios y su infraestructura, no constituye autorización alguna para la realización de un fraccionamiento o desarrollo en condominio.
 
-II. Ocupar un inmueble propio que se halle en poder de otra persona por alguna causa legítima, o ejercer actos de dominio que lesionen los derechos patrimoniales del legítimo ocupante;
-
-III. Alterar términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
-
-IV. Desviar o hacer uso de las aguas propias o ajenas, en los casos en que la ley no lo permita, o hacer uso de un derecho real sobre aguas que no le pertenezcan, con perjuicio patrimonial de alguien; o
-
-V. Ocupar de propia autoridad, por medio de la violencia física, furtivamente, de la amenaza o del engaño, instalaciones de una institución pública o privada destinada a prestar servicios públicos y se impida su prestación.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
-
-Al responsable del Despojo se le aplicarán:
-
-I. De 1 a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado no exceda de tres mil setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
-
-II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de tres mil setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, pero no de ocho mil; o
-
-III. De 4 a 6 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo despojado exceda de ocho mil veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2019)</small>
-
-La punibilidad prevista para el presente tipo penal, se incrementará en una mitad en sus mínimos y sus máximos, cuando el delito se cometa en contra de persona mayor de sesenta años de edad o de persona con discapacidad. Estándose para los efectos del presente Artículo, a la definición de persona con discapacidad contenida en el Artículo 142 Fracción XIX de este ordenamiento.
-
-Se aplicará la misma penalidad en los casos a que se refiere la Fracción V, de este Artículo.
-
-###### ARTÍCULO 151.
-
-Daño en las cosas doloso. El Daño en las Cosas Doloso consiste en la destrucción o deterioro de cosa ajena o propia, en perjuicio de otro, por utilización de cualquier medio.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
-
-Al responsable de Daño en las Cosas Doloso se le aplicarán:
-
-I. De 6 meses a 2 años de prisión y de 15 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado no exceda de cien veces el valor diario de la Unidad de Medida y Actualización;
-
-II. De 2 a 4 años de prisión y de 100 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado exceda de cien veces el valor diario de la Unidad de Medida y Actualización, pero no de trescientas; o
-
-III. De 4 a 10 años de prisión y de 150 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de lo dañado exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
-
-La valoración que se haga de lo dañado tomará en consideración el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se concretice el hecho descrito en el presente Artículo.
-
-###### ARTÍCULO 152.
-
-Aumento de sanción. La punibilidad establecida en el Artículo anterior se aumentará hasta una mitad más respecto de los mínimos y máximos señalados:
-
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2023)</small>
-
-I. Si el daño se causa en bienes con valor científico y artístico;
-
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2022)</small>
-
-II. Si se utiliza para la destrucción o deterioro de los bienes inundación, incendio o explosión;
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
-
-III. Si el daño se causa en forma total o parcial respecto de programas, archivos, bases de datos o cualquier otro elemento intangible contenido en sistemas o redes de computadoras, soportes lógicos o cualquier medio magnético;
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2026)</small>
-
-IV. Si el daño se produce a la infraestructura o equipamiento urbano, así como al mobiliario que se encuentre dentro de estos; o
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2026)</small>
-
-V. Si el daño se produce a bienes destinados a la prestación del servicio de transporte público.
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2026)</small>
-
-###### ARTÍCULO 153.
-
-(DEROGADO, P.O. 11 DE MAYO DE 2026)
-
-###### ARTÍCULO 154.
-
-(DEROGADO, P.O. 11 DE MAYO DE 2026)
-
-###### ARTÍCULO 155.
-
-Atentados al desarrollo urbano ordenado. Los Atentados al Desarrollo Urbano Ordenado consisten en:
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
-
-I. Fraccionar, dividir en lotes o construir en un predio rústico o urbano, propio o ajeno, sin contar con el permiso de autoridad administrativa correspondiente, estatal o municipal, o sin atender los lineamientos o especificaciones del permiso que se haya obtenido, con el objeto de ocuparlo o de transferir la propiedad, la posesión o cualquier otro derecho sobre él;
-
-II. Comercializar lotes, rústicos o urbanos, que hayan sido fraccionados o divididos sin contar con el permiso de la autoridad administrativa correspondiente, estatal o municipal, o sin haber atendido los lineamientos o especificaciones del permiso que se haya obtenido;
-
-III. Facilitar la ocupación de lotes, rústicos o urbanos, sin haberse regularizado o realizado los trámites necesarios para la debida prestación de los servicios públicos, a cargo de las autoridades administrativas o municipales correspondientes;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
-
-IV. Expedir el servidor público licencia o permiso de construcción o de uso de suelo, u ordenar la prestación de servicios públicos en lotes de terreno, rústicos o urbanos, previamente fraccionados o divididos, sin haberse cubierto los requisitos que la ley de la materia exige, o los expida sin tener la facultad legal para ello; o
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 JUNIO DE 2018)</small>
-
-V. Realizar, directamente o por medio de un tercero, obras de urbanización o de construcción de fraccionamientos, condominios, desarrollos especiales o cualquier edificación, sin respetar las restricciones establecidas en la constancia de compatibilidad urbanística, cuando:
-
-a) Estén ubicadas en discontinuidades geológicas, márgenes de ríos o arroyos, zonas de restricción de líneas de alta tensión de energía eléctrica, oleoductos o poliductos, o bien, zonas inundables, de deslaves o derrumbes;
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-b) Generen inestabilidad en laderas, zonas de pozos, cavernas, minas, o de derechos de vía de carreteras o ferrocarril;
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-c) Estén ubicadas en zonas bajo la influencia de depósitos de residuos peligrosos, confinamiento de desechos industriales o rellenos sanitarios;
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-d) Estén ubicadas en zonas de salvaguarda, de amortiguamiento entorno a la infraestructura, equipamientos o instalaciones de Seguridad Nacional, o en zonas federales; o
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-e) Estén ubicadas en polígonos de protección.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Al responsable de Atentados al Desarrollo Urbano Ordenado se le aplicarán de 5 a 15 años de prisión y de 300 a 1000 días multa, y al pago de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-En el caso previsto dentro de la Fracción I, es decir, en el supuesto del propietario de un predio rústico y/o urbano, que no cuenta con el permiso de la autoridad administrativa correspondiente, o sin atender los lineamientos o especificaciones del permiso obtenido, con el único objeto de ocuparlo y no de transferir la propiedad, posesión o cualquier otro derecho sobre él, será responsable de atentados al desarrollo urbano ordenado y se le aplicarán de 2 a 5 años de prisión y de 100 a 500 días de multa. Además de reparar a su costa el daño causado, devolviendo las cosas al estado que guardaban.
-
-###### ARTÍCULO 156.
-
-Responsabilidad técnica y profesional. La Responsabilidad Técnica y Profesional consiste en el incumplimiento de las obligaciones sobre la materia correspondiente, a cargo de profesionistas o técnicos y sus auxiliares, cuando provoquen daño o afectación en otra persona.
-
-Al responsable de la comisión de la presente figura típica se le aplicarán de 6 meses a 3 años de prisión, de 10 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión del ejercicio profesional correspondiente de 6 meses a 1 año.
-
-###### ARTÍCULO 157.
-
-Responsabilidad profesional médica. La Responsabilidad Profesional Médica consiste en:
-
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
-
-I. Otorgar responsiva para hacerse cargo de la atención de algún lesionado o persona afectada de su salud, y abandonarlo en su tratamiento sin causa justificada, o no cumplir con las obligaciones que al respecto se establecen en la normatividad aplicable, respecto de las víctimas de hechos punibles;
-
-II. No recabar la autorización del paciente o de la persona que deba otorgarla, salvo en los casos de urgencia debidamente comprobada, cuando se trate de practicar alguna operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo, cause pérdida de un miembro o ataque la integridad de una función vital;
-
-III. Practicar una intervención quirúrgica innecesaria;
-
-IV. Ejercer la profesión, y sin motivo justificado, negarse a prestar asistencia a un enfermo en caso de notoria urgencia, poniendo en peligro la vida o la salud de dicho enfermo, cuando éste por las circunstancias del caso, no pudiera recurrir a otro médico o a un servicio de salud, o abandonar sin causa justificada a la persona de cuya asistencia esté encargado;
-
-V. Certificar falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de cumplir una obligación que la ley impone o para adquirir algún derecho;
-
-VI. Suministrar un medicamento evidentemente inapropiado con perjuicio de la salud del paciente;
-
-VII. Expedir recetas para la adquisición de sustancias psicotrópicas cuyo empleo no sea para fines curativos;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
-
-VIII. Utilizar un óvulo o esperma para procrear sin que quien lo produjo otorgue su consentimiento o con su consentimiento tratándose de un menor de dieciocho años de edad o incapaz de comprender el significado del hecho;
-
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
-
-IX. Incumplir o dejar de realizar los actos o los protocolos necesarios para la atención médica a la mujer durante el embarazo, parto, puerperio o emergencias obstétricas;
-
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2018)</small>
-
-X. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XI. Practicar una cesárea, existiendo condiciones para el parto natural y sin obtener el consentimiento voluntario de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XII. Imponer cualquier método anticonceptivo, realice esterilización o cualquier intervención quirúrgica que impida la concepción, sin justificación médica de emergencia o sin consentimiento expreso de la mujer o ante su imposibilidad el consentimiento de quien esté facultado legalmente para otorgarlo; o
-
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2018)</small>
-
-XIII. Practicar un procedimiento médico quirúrgico de especialidad sin contar con los requisitos establecidos en la Ley General de Salud.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión; tratándose de los supuestos descritos por las fracciones VIII a la XIII, la pena de prisión incrementará hasta dos terceras partes en sus mínimos y máximos, imponiéndose una multa de 100 a 300 días, el pago total de la reparación de los daños y perjuicios ocasionados y de 1 a 5 años de inhabilitación para ejercer su profesión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2025)</small>
-
-###### ARTÍCULO 158.
-
-Responsabilidad médica asistencial. La Responsabilidad Médica Asistencial se cometerá por directores, encargados o administradores de cualquier centro de salud, cuando:
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
-
-I. Habiendo prestado un servicio médico, impidan la salida del paciente o retengan sin necesidad a un recién nacido, cuando aquél o sus familiares lo soliciten, aduciendo adeudos de cualquier índole;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
-
-II. Habiendo prestado un servicio médico, retarden o nieguen por cualquier motivo la entrega de un cadáver a sus deudos, excepto cuando se requiera orden de autoridad competente para el efecto;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
-
-III. Nieguen o restrinjan el acceso al hospital o centro de salud, a una mujer embarazada, cuando haya riesgo de afectación a su salud o integridad física, así como del producto de la concepción;
-
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2025)</small>
-
-IV. Proporcionen sin causa justificada un lugar inapropiado a la mujer embarazada para realizarle el parto; o
-
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2025)</small>
-
-V. Nieguen o restrinjan el acceso a un hospital o centro de salud a cualquier persona cuya vida se encuentre en riesgo, sin que le procure el acceso a atención médica de emergencia prehospitalaria poniendo al paciente fuera de peligro para su traslado a otra institución de salud.
-
-Así mismo, se considerará como Responsabilidad Médica Asistencial, el surtir una receta los encargados, empleados o dependientes de una farmacia, sustituyendo la medicina específicamente señalada por otra que cause daño a la salud del paciente, o sea evidentemente inapropiada al padecimiento para el que se prescribió.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-Al responsable de la comisión de la presente figura típica se le aplicarán de 6 meses a 2 años de prisión, de 20 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 3 meses a 1 año; tratándose de los supuestos descritos por las fracciones III y IV, la pena de prisión incrementará hasta dos terceras partes en sus mínimos y máximos, imponiéndose una multa de 100 a 200 días, el pago total de la reparación de los daños y perjuicios ocasionados y de 1 a 3 años de inhabilitación para ejercer su profesión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2023)</small>
-
-###### ARTÍCULO 159.
-
-Responsabilidad profesional de abogados, defensores, asesores jurídicos o litigantes. La Responsabilidad Profesional de Abogados, Defensores, Asesores Jurídicos o Litigantes, consiste en:
-
-I. Abandonar una defensa o negocio, sin motivo justificado;
-
-II. Asistir o ayudar a dos o más contendientes o partes con intereses opuestos en el mismo negocio o en negocios conexos, o aceptar el patrocinio de algunos y admitan después el de la parte contraria en un mismo negocio;
-
-III. Procurar la dilación del juicio o procedimiento en el que tengan representación legal, mediante la utilización de recursos, incidentes o medios notoriamente improcedentes o ilegales;
-
-IV. Procurar deliberadamente resoluciones desfavorables en un juicio o procedimiento;
-
-V. Pedir términos para probar lo que notoriamente no puede demostrarse o no ha de aprovechar a su parte;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2023)</small>
-
-VI. Concretarse solamente a aceptar el cargo de asesor jurídico o defensor, de oficio o particular, sin promover más pruebas habiéndolas, ni dirigir al inculpado o a la víctima en su defensa, ni promover las acciones que puedan corresponder en materia de derechos humanos; o
-
-VII. Patrocinar o defender directa o indirectamente, los negocios en los que, no siendo parte interesada los litigantes sin Título, persigan éstos obtener un lucro cualquiera, así como cuando autoricen con su firma, en las condiciones indicadas, promociones en negocios judiciales.
-
-Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 25 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 6 meses a 3 años para ejercer la profesión.
-
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2023)</small>
-
-Para efecto del presente artículo, se entiende como asesor jurídico a la persona profesional en derecho con cédula registrada ante la Secretaría de Educación Pública, encargada de brindar asesoría jurídica a las víctimas en materia penal.
-
-###### ARTÍCULO 160.
-
-Falsificación y uso indebido de sellos, marcas, llaves, contraseñas y otros objetos. La Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos consiste en la suplantación, alteración, enajenación, destrucción u ocultamiento de cualquier clase de sellos, marcas, llaves, boletos, contraseñas, troqueles o cuños oficiales o particulares o uso no autorizado de los mismos, con el fin manifiesto de obtener un beneficio indebido o para causar un daño.
-
-Al responsable de Falsificación y Uso Indebido de Sellos, Marcas, Llaves, Contraseñas y Otros Objetos se le aplicarán de 1 a 5 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 161.
-
-Falsificación de documentos. La Falsificación de Documentos consiste en:
-
-I. Alterar un documento público o privado, o cualquier dispositivo electrónico en forma de tarjeta plástica, o imitar los originales, obteniendo un beneficio o provocando un daño; o
-
-II. Ejercer el fedatario público sus funciones cuando deba abstenerse en términos de la Ley del Notariado del Estado, o dar fe de lo que no consta en autos, registros, protocolos o documentos, y que el documento expedido sea utilizado para obtener un beneficio o provocar un daño.
-
-Al responsable de Falsificación de Documentos se le aplicarán de 1 a 5 años de prisión y multa de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Respecto de los fedatarios, se informará de la responsabilidad que haya tenido a las autoridades administrativas competentes de su vigilancia y control, para los efectos legales correspondientes.
-
-###### ARTÍCULO 162.
-
-Uso de documentos falsos. El Uso de Documentos Falsos consiste en utilizar en su provecho, el inculpado, con conocimiento de esa circunstancia:
-
-I. Un documento original alterado;
-
-II. Un documento imitación del original; o
-
-III. Un documento original expedido a favor de otro, como si hubiera sido expedido a su nombre.
-
-Al responsable de Uso de Documentos Falsos se le aplicarán de 1 a 5 años de prisión y de 25 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 163.
-
-Usurpación de profesiones. La Usurpación de Profesiones consiste en el ejercicio que se haga por el inculpado de los actos propios de una profesión, sin tener Título o autorización legal y se ostente como profesional de la materia.
-
-Al responsable de Usurpación de Profesiones se le aplicarán de 6 meses a 5 años de prisión y de 20 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
-
-Cuando el imputado cometa Usurpación de Profesiones realizando actos propios de la profesión médica, se le aplicarán de 3 a 7 años de prisión, de 100 a 500 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 164.
-
-Ejercicio indebido del propio derecho. El Ejercicio Indebido del Propio Derecho consiste en el empleo de la violencia física o moral, la furtividad, el hostigamiento o la intimidación para hacer efectivo un derecho o pretendido derecho que puede ejercitarse por vía legal.
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-Al responsable de Ejercicio Indebido del Propio Derecho se le aplicarán de 6 meses a 3 años de prisión y de 15 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el Ejercicio Indebido del Propio Derecho se usó para lograr el pago de una deuda o supuesta deuda, se aplicarán de 9 meses a 3 años con 6 meses de prisión, de 30 a 60 días multa y el pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 165.
-
-Falsedad ante la autoridad o fedatario público. La Falsedad ante la Autoridad o Fedatario Público consiste en:
-
-I. Ocultar la verdad por parte del que tiene la obligación legal de manifestarla, en un acto ante la autoridad o fedatario público, o el de proporcionarles información que no concuerde con la realidad, conociendo el inculpado tal situación;
-
-II. Imputar a una persona, ante la autoridad ministerial, un hecho determinado por esta Ley como punible, si este hecho es falso o la persona imputada no tiene el carácter de autor, partícipe o cómplice en la realización del mismo; o
-
-III. Hacer aparecer a un no autor, partícipe o cómplice, como inculpado de un hecho punible, colocando sobre tal persona, en su casa o en otro lugar adecuado para ese fin, un elemento que pueda dar indicios de autoría, participación o complicidad en el hecho punible referido;
-
-IV. Sin motivo justificado oculte su domicilio o de cualquier forma señale o utilice uno inexistente, o el de otra persona sin su autorización, y obtenga con ello documentación oficial o de cualquier índole en original, o copia, aún y cuando se utilice su propio nombre o el de una persona diversa, real o inexistente;
-
-V. Oculte su nombre; o apellidos, o ambos y de cualquier forma tome o utilice otro imaginario, o el de otra persona, y obtenga con ello documentación oficial o de cualquier índole en original o copia, para sí o para terceros.
-
-En todo caso se entenderá por obtención, además de la expedición por parte de la autoridad o del particular, la posesión, tenencia o portación del documento o copia de que se trate por parte del inculpado.
-
-Al responsable de Falsedad ante la Autoridad o Fedatario Público se le aplicarán de 3 a 5 años de prisión y de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, para el caso de las Fracciones IV y V la pena se incrementará hasta en un tercio de los mínimos y máximos señalados para las demás Fracciones.
-
-Si el inculpado se retracta oportunamente de sus falsas declaraciones antes de que se pronuncie sentencia, solo se le aplicarán de 3 meses a 2 años de prisión y de 10 a 50 días multa.
-
-No podrá ser responsable de Falsedad ante la Autoridad quien tenga el carácter de indiciado, procesado, inculpado o imputado en un procedimiento penal.
-
-###### ARTÍCULO 166.
-
-Desobediencia de particulares. La Desobediencia de Particulares consiste en:
-
-I. Rehusar, sin justa causa, prestar un servicio de interés público a que la ley lo obligue;
-
-II. Desobedecer un mandato legítimo de la autoridad;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-III. No comparecer ante autoridad cuando legalmente se lo exija, para declarar o rendir los informes que le pidan, previo agotamiento de los medios de apremio existentes para cada caso; o
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
-
-IV. Generar y utilizar información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte, siempre que tenga el carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Al responsable de Desobediencia de Particulares se le aplicarán de 3 meses a 9 años de prisión y de 30 a 100 días multa.
-
-###### ARTÍCULO 167.
-
-Resistencia de particulares. La Resistencia de Particulares consiste en:
-
-I. La oposición a que la autoridad o sus agentes ejerzan alguna de sus funciones empleando la violencia física o moral;
-
-II. Evitar por todos los medios posibles, el cumplimiento de un mandato de autoridad que cumpla con todos los requisitos legales;
-
-III. Coaccionar a la autoridad pública, por medio de violencia física o moral, para obligarla a que ejecute u omita un acto oficial sin los requisitos legales, o que no esté dentro de sus atribuciones;
-
-IV. La negativa a otorgar la protesta legal o a declarar por quien deba ser examinado en juicio y sin que le aprovechen las excepciones que establezcan las leyes de la materia; o
-
-V. Impedir, mediante actos materiales, la ejecución de una obra o trabajo públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización.
-
-Al responsable de Resistencia de Particulares se aplicarán de 1 a 3 años de prisión y de 30 a 70 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-En el caso de la Fracción V del presente Artículo, si se hiciere uso de la violencia, la punibilidad aumentará hasta en una mitad más de la señalada, respecto de los mínimos y máximos.
-
-###### ARTÍCULO 168.
-
-Quebrantamiento de sellos. El Quebrantamiento de Sellos consiste en la reanudación de obras o actividades previamente clausuradas mediante la aplicación de sellos, sin que exista autorización de la autoridad que haya colocado tales sellos.
-
-Al responsable de Quebrantamiento de Sellos se le aplicarán de 1 a 3 años de prisión y de 50 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 169.
-
-Ejercicio indebido del servicio público. El Ejercicio Indebido del Servicio Público consiste en:
-
-I. Ejercer funciones de un empleo, cargo o comisión para el que no hubiese sido nombrado, hubiese sido cesado o no se le haya dado posesión;
-
-II. Otorgar cualquier identificación que acredite a un particular como servidor público, cuando realmente no desempeñe el empleo, cargo o comisión a que haga referencia tal identificación;
-
-III. Abandonar sin justa causa su empleo, cargo o comisión;
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
-
-IV. Sustraer, destruir, ocultar, difundir, utilizar o inutilizar ilícitamente imágenes, audios, videos, información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
-
-V. Otorgar empleo, cargo o comisión pública o contrato de prestación de servicios profesionales, que sean remunerados, sabiendo que no se prestará el servicio para el que se les nombra, o no se cumplirán los términos del contrato celebrado;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-VI. Autorizar o contratar a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que tenga conocimiento de tal situación;
-
-VII. Otorgar indebidamente, por sí o por interpósita persona:
-
-a) Concesiones de prestación de servicios públicos o de explotación, aprovechamiento y uso de bienes de dominio del Estado o del Municipio;
-
-b) Permisos, licencias o autorizaciones de contenido económico;
-
-c) Franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, sobre ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la administración pública estatal o municipal; o
-
-d) Contratos de obras públicas, deudas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos;
-
-VIII. Conocer de negocios para los cuales tengan impedimento legal o abstenerse de conocer de los que les corresponde sin tener impedimento legal para ello;
-
-IX. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la Ley les prohíba;
-
-X. Litigar por sí o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión;
-
-XI. Dirigir o aconsejar a las personas que ante ellos litiguen;
-
-XII. No cumplir una disposición que legalmente se les comunique por su superior competente, sin causa fundada para ello;
-
-XIII. Dictar maliciosamente una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley o ser contrarias a las actuaciones seguidas en juicio, u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley;
-
-XIV. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
-
-XV. Retardar o entorpecer maliciosamente las actividades de administración pública que le corresponda realizar;
-
-XVI. Abstenerse injustificadamente de hacer la consignación que corresponda con arreglo a la ley de una persona que se encuentre detenida a su disposición como probable responsable de algún delito;
-
-XVII. Ordenar la aprehensión de un individuo cuando no se comprueben plenamente el cuerpo del delito que se le imputa y su probable responsabilidad;
-
-XVIII. No otorgar, cuando se solicite, la libertad caucional, si procede legalmente, sin fundar y motivar adecuadamente su negativa;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-XIX. Utilizar violencia física o moral que inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por este Código o por la Ley General de Responsabilidades Administrativas;
-
-XX. Prolongar la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
-
-XXI. Imponer gabelas o contribuciones en cualquier lugar de detención e internamiento;
-
-XXII. Demorar injustificadamente el cumplimiento de las providencias judiciales, en las que se ordene poner en libertad a un detenido;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXIII. No dictar auto de vinculación a proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a las que haya sido puesto a disposición de la autoridad judicial;
-
-XXIV. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
-
-XXV. Ejercitar acción penal contra un servidor público con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
-
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
-
-XXVI. Realizar la aprehensión sin poner inmediatamente al detenido a disposición del juez.
-
-En el caso de los elementos de las instituciones policiales estatales y municipales, liberar a una persona detenida en flagrancia sin razón que lo justifique;
-
-XXVII. A los encargados o empleados de lugares de reclusión o internamiento que cobren cualquier cantidad a los internos o a sus familiares a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
-
-XXVIII. Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo oficio hubieran intervenido;
-
-XXIX. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
-
-XXX. Hacer conocer al demandado, indebidamente, la providencia de embargo decretada en su contra;
-
-XXXI. Permitir, fuera de los casos previstos por la Ley, la salida temporal de las personas que están recluidas o favorecer la evasión de algún detenido, procesado o condenado;
-
-XXXII. Ostentarse como servidor público quien no lo sea a fin de lograr un lucro indebido o una prestación que no le corresponda;
-
-XXXIII. Utilizar o haber utilizado, la fuerza o los medios a su disposición o bajo su mando resguardo, o brinde facilidades o protección o le proporcione materiales a cualquier persona para la comisión de un delito o a quien se le impute un delito;
-
-XXXIV. Comunicar a cualquier persona a quien se le impute un delito, información de la que tenga o haya tenido acceso por su empleo, cargo o comisión y que hubiere podido facilitarle la realización de dicho ilícito;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXXV. Inducir a uno o más elementos activos de las instituciones policiales o servidores públicos de una institución de procuración o de administración de justicia o de ejecución de sanciones, a participar en actividades ilícitas;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXXVI. Poner fuera del procedimiento legal y sin tener facultades para ello, en libertad a un detenido;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXXVII. Abstenerse de informar por escrito a su superior jerárquico cualquier acto u omisión que sea de su conocimiento por razón de su empleo, cargo o comisión cuando pueda resultar gravemente afectados (sic) el patrimonio o los intereses de alguna dependencia o entidad de la Administración Pública Estatal, del Congreso del Estado o del Poder Judicial del Estado;
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXXVIII. Aplicar los recursos públicos de manera distinta a aquella a la que estuvieren destinados o realizar un pago ilegal, cuando tenga a su cargo dichos recursos; o
-
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
-
-XXXIX. Otorgar por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Al responsable de Ejercicio Indebido de Servicio Público, se le impondrá de 3 meses a 12 años de prisión, y de 30 a 100 días multa, cuando el delito no importe alguna cuantía.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando los delitos importen una cuantía que no exceda del equivalente a 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando la cuantía exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 12 años de prisión y de 100 a 150 días multa.
-
-###### ARTÍCULO 170.
-
-Abuso de autoridad. El Abuso de Autoridad consiste en:
-
-I. Impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, mediante el uso de la fuerza pública;
-
-II. Hacer violencia sobre una persona sin causa legítima, vejarla o insultarla en el ejercicio de sus funciones o con motivo de ellas;
-
-III. Retardar indebidamente o negar a los particulares la protección o servicio que tenga obligación de otorgarles o impedir la presentación o el curso de una solicitud;
-
-IV. Negarse injustificadamente y bajo cualquier pretexto, el encargado de administrar justicia, a despachar un negocio pendiente dentro de los términos establecidos por la Ley;
-
-V. Negarse indebidamente el encargado de una fuerza pública, requerida legalmente por una autoridad competente, a proporcionar el auxilio solicitado;
-
-VI. Recibir, sin los requisitos constitucionales y legales, el encargado de cualquier establecimiento, destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, a una persona privada de su libertad y mantenerla en ese lugar, sin informar de ello a la autoridad correspondiente; negar que esté privada de su libertad, si lo estuviere, o no cumplir la orden de libertad girada por la autoridad competente;
-
-VII. No denunciar de manera inmediata a la autoridad competente de una privación ilegal de libertad o no la haga cesar, si esto último estuviere dentro de sus atribuciones; o
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-VIII. Obtener, exigir o solicitar sin derecho o causa legítima, para sí o para cualquier otra persona, de un subalterno, parte de su sueldo o remuneración, dádivas u otros bienes servicios con cualquier pretexto.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Al responsable de Abuso de Autoridad se le aplicarán de 1 a 9 años de prisión, y de 50 a 150 días multa.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 171.
-
-Coalición de servidores públicos. La Coalición de Servidores Públicos consiste en la reunión de servidores públicos para tomar medidas contrarias a una ley, reglamento u otras disposiciones, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
-
-A los responsables de Coalición de Servidores Públicos se les impondrán de 2 años a 7 años de prisión y de 30 a 300 días multa.
-
-No se configura el tipo de Coalición de Servidores Públicos cuando los trabajadores al servicio del Estado se unifiquen en ejercicio de sus derechos constitucionales o que hagan uso legítimo del derecho de huelga.
-
-###### ARTÍCULO 172.
-
-Concusión. La Concusión consiste en la exigencia que haga el servidor público, por sí o por medio de otro, y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, de dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de 500 días de Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valorable, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando la cantidad o el valor de lo exigido indebidamente exceda de 500 días de Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 12 años de prisión y de 100 a 150 días multa.
-
-###### ARTÍCULO 173.
-
-Cohecho. El Cohecho consiste en:
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-I. La solicitud u obtención ilícita de dinero o cualquier otra dádiva, o acepte una promesa, para sí o para otro, el servidor público, por sí o por interpósita persona, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión; o
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-II. El ofrecimiento o entrega de dinero o cualquier otra dádiva que de manera espontánea haga el particular a favor de los servidores públicos, para que hagan u omitan un acto relacionado con sus funciones inherentes a su empleo, cargo o comisión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2017)</small>
-
-Al responsable de Cohecho se le impondrán las siguientes sanciones:
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación no exceda del equivalente de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valorable, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 a 14 años de prisión y de 100 a 150 días multa.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-En ningún caso se devolverá a los responsables del delito de Cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
-
-###### ARTÍCULO 174.
-
-Peculado. El Peculado consiste en:
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-I. La distracción que haga el servidor público, para su beneficio o el de una tercera persona física o moral, de dinero, valores, fincas o cualquier cosa perteneciente al Estado o a un Municipio, a un organismo descentralizado o a un particular, si por razón de su cargo los hubiese recibido en administración, en depósito, en posesión o por otra causa;
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2017)</small>
-
-II. La utilización ilícita por el servidor público de fondos públicos con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona; así como la solicitud o aceptación de cualquier persona para realizar las promociones o denigraciones a que se refiere esta fracción, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo del Ejercicio Indebido del Servicio Público;
-
-III. La distracción que de su objeto haga cualquier persona que, sin tener el carácter de servidor público estatal o municipal, está obligada legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, para usos propios o ajenos, o les dé una aplicación distinta a la que se les haya destinado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2017)</small>
-
-Al responsable de Peculado se le aplicarán las siguientes sanciones:
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valorable, se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de 500 veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de 2 años a 14 años de prisión y de 100 a 150 días multa.
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 175.
-
-Tráfico de Influencias. El Tráfico de Influencias consiste en la promoción o gestión del servidor público del Estado, por sí o por interpósita persona, de trámites de negocios o resoluciones públicas ajenas a las responsabilidades inherentes a su empleo, cargo o comisión. Asimismo, afirmar un particular que, sin estar autorizado legalmente para intervenir en un negocio público, tiene influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
-
-Al responsable de Tráfico de Influencias se le aplicarán de 2 a 6 años de prisión, y de 30 a 100 días multa.
-
-###### ARTÍCULO 176.
-
-Encubrimiento. El Encubrimiento consiste en:
-
-I. Custodiar, recibir u ocultar el producto de un hecho punible, con ánimo de lucro, después de realizado tal hecho, conociendo el inculpado tal circunstancia y sin haber participado en su realización;
-
-II. Prestar auxilio o cooperación de cualquier especie a los autores o partícipes de cualquier hecho punible, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución de tal hecho;
-
-III. Ocultar a los autores o partícipes de cualquier hecho punible, o los efectos, objetos o instrumentos del mismo, o impida que se investigue tal hecho por las autoridades competentes;
-
-IV. No dar auxilio para la investigación de hechos punibles o para llevar a cabo la persecución de los autores o partícipes en aquéllos, cuando para ello sea requerido por las autoridades competentes; o
-
-V. Omitir o retardar dolosamente la denuncia de los hechos punibles ante la autoridad competente, cuando un funcionario o servidor público en el ejercicio de sus funciones tuviere conocimiento de estos.
-
-Al Responsable de Encubrimiento se le aplicarán de 1 a 6 años de prisión y de 50 a 200 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-En relación con las Fracciones II, III y IV del presente Artículo, no se tendrán por tipificados los hechos descritos, si quienes llevan a cabo las conductas tienen el carácter de ascendientes o descendientes consanguíneos o afines, se trate del cónyuge, concubina o concubinario, o parientes colaterales por consanguinidad hasta el segundo grado, respecto de los autores o partícipes del diverso hecho punible.
-
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
-
-###### ARTÍCULO 176 Bis.
-
-Enriquecimiento Ilícito. El Enriquecimiento Ilícito consiste en la imposibilidad del servidor público para acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
-
-Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
-
-No será enriquecimiento ilícito en caso de que el aumento del patrimonio sea producto de una conducta que encuadre en otra hipótesis del presente Capítulo. En este caso se aplicará la hipótesis y la sanción correspondiente, sin que dé lugar al concurso de delitos.
-
-Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
-
-Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
-
-Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de 5,000 veces el valor diario de la Unidad de Medida y Actualización se impondrán de 3 meses a 2 años de prisión y de 30 a 100 días multa.
-
-Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de 5,000 veces el valor diario de la Unidad de Medida y Actualización se impondrán de 2 años a 14 años de prisión y multa de 100 a 150 días multa.
-
-###### ARTÍCULO 177.
-
-Evasión de presos. La Evasión de Presos consiste en favorecer o poner en libertad a una o varias personas que se encuentren legalmente privadas de aquélla.
-
-Al responsable de Evasión de Presos se le aplicarán de 6 meses a 7 años de prisión y de 25 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-Si el inculpado fuere el encargado de conducir o custodiar al evadido, se le aplicará la pena de Inhabilitación hasta por 5 años.
-
-Si la reaprehensión del o de los prófugos se lograre por gestiones del responsable de la evasión, la punibilidad establecida se reducirá hasta en una mitad de los mínimos y máximos establecidos.
-
-La punibilidad establecida en el presente Artículo no se aplicará si el inculpado tiene el carácter de ascendiente, descendiente, cónyuge o hermano de la persona o personas evadidas, excepto en el caso de que hayan realizado la conducta por medio de la violencia en las personas.
-
-### CAPÍTULO III. Prisión
+### CAPÍTULO II. DE LOS FRACCIONAMIENTOS
 
 #### SECCIÓN TERCERA. DE LOS FRACCIONAMIENTOS INDUSTRIALES
 
-###### ARTÍCULO 178.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Regla especial. A las personas privadas legítimamente de su libertad y que se evadan del establecimiento donde se encuentran internadas o cuando sean motivo de traslado a otro, no se les aplicará pena o medida de seguridad alguna, salvo que en el hecho utilizaren o ejercieren violencia sobre las personas.
+###### Artículo 178.
 
-En este caso, la punibilidad será de 6 meses a 3 años de prisión y de 25 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Los lotes de los fraccionamientos residenciales urbanos tipo A habitacional de densidad baja (H2), deberán tener un frente no menor de 15 metros y una superficie no menor de 450 metros cuadrados, además de contar con las obras señaladas en el presente ordenamiento.
 
-La persona privada legítimamente de su libertad que se evada del establecimiento donde se encuentra internada, por estar cumpliendo una sanción privativa de la libertad, o en período de detención o prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+###### Artículo 179.
 
-Artículo 178 A.- Comete el delito de Atentados contra la Seguridad de los Centros Penitenciarios:
+Los lotes de los fraccionamientos residenciales urbanos tipo B habitacional de densidad baja (H3), deberán tener un frente no menor de 10 metros y una superficie no menor de 300 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
 
-I. Toda persona que introduzca o trafique en los Centros Penitenciarios o suministre a los internos en el mismo, algún aparato de telefonía celular o cualquier otro dispositivo o medio de comunicación con conectividad o vinculación inalámbrica, satelital, drones, o introduzca armas, o sustancias tóxicas tales como materiales solventes, alcoholes, y otras sustancias que produzcan efectos similares.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-II. Toda persona privada de la libertad dentro de los Centros Penitenciarios del Estado, que sea poseedor de algún aparato de telefonía celular o cualquier otro aparato o medio de comunicación con conectividad o vinculación inalámbrica, satelital, de drones, de armas, o sustancias tóxicas tales como materiales solventes, alcoholes, y otras sustancias que produzcan efectos similares.
+###### Artículo 180.
 
-Al responsable del delito de Atentados contra la Seguridad de los Centros Penitenciarios descrito en la fracción I del párrafo anterior, se le aplicarán, de 3 a 6 años de prisión y de 25 a 200 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados.
-
-Al responsable del delito de Atentados contra la Seguridad de los Centros Penitenciarios descrito en la fracción II del párrafo primero, se le aplicarán, de 2 a 4 años de prisión y de 20 a 100 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados en su caso.
-
-Si el responsable del delito es Servidor Público adscrito a cualquiera de las Instituciones de Seguridad Pública de la Federación, de esta o cualquiera otra Entidad Federativa, o de los Órganos Jurisdiccionales del Estado, se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos. De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, conforme a los criterios previstos en el artículo 163 A, del presente Código.
-
-En el caso de que el responsable del delito sea Servidor Público, distinto de los señalados en el párrafo que antecede, se aumentará la punibilidad que corresponda hasta en un tercio de sus mínimos y máximos. De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, conforme los criterios previstos en el artículo 163 A, del presente Código.
-
-El hecho punible descrito en este artículo será aplicable también en el Centro Estatal para el Desarrollo del Adolescente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2026)</small>
-
-Artículo 178 BIS.- Atentados a la Seguridad Pública. Los Atentados a la Seguridad Pública consisten en acechar, vigilar o realizar actos tendientes a obtener información de manera injustificada, sobre las actividades oficiales de las Instituciones del Sistema Estatal de Seguridad Pública, Corporaciones Auxiliares de la Seguridad en el Estado, particulares o personas servidoras públicas, con la finalidad de informar o alertar a otras personas para que estas puedan organizar o planear la comisión de un delito, cometerlo o evitar el cumplimiento de la función pública.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
-
-Al responsable de Atentados a la Seguridad Publica se aplicarán de 3 a 7 años de prisión y de 25 a 100 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
-
-Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando:
-
-I. Sea cometido por servidores públicos de Instituciones del Sistema Estatal de Seguridad Pública, Corporaciones Auxiliares de la Seguridad en el Estado u Órganos Jurisdiccionales en el Estado;
-
-II. Se utilice a menores de edad o a quienes no tienen la capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirla;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
-
-III. Se utilice para ello algún bien público;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
-
-IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Pública; o
-
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
-
-V. Se utilice para ello artefactos equipados para captar imágenes.
-
-> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
-
-ARTÍCULO 178 C (SIC).- Portación de Armas Prohibidas. La portación de armas prohibidas consiste en portar, fabricar, comercializar o acopiar, sin un fin lícito, armas químicas, instrumentos u objetos punzantes, cortantes, contundentes, punzo-cortantes, punzo-contundentes y/o corto-contundentes que solo puedan ser utilizados para agredir y que no tengan aplicación en actividades laborales, domésticas, deportivas, recreativas o cuya naturaleza sea la defensa.
-
-Al responsable de Portación de Armas Prohibidas se le aplicarán de 6 meses a 4 años de prisión y de 25 a 250 días multa, así como el decomiso de la misma.
-
-Para efectos del presente artículo se entiende por acopio la detentación de tres o más instrumentos u objetos de aquellos a que se refiere el primer párrafo de este artículo.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
-
-ARTÍCULO 178 D.- Asociación Delictuosa. La Asociación Delictuosa consiste en formar parte de una asociación o banda integrada por tres o más personas cuyo propósito es realizar conductas delictivas.
-
-Al responsable de Asociación Delictuosa se aplicarán de 2 a 5 años de prisión y de 25 a 100 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados, independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
-
-En caso de que exista algún grado de consumación de otros tipos penales, al responsable de Asociación Delictuosa se aplicarán de 3 a 6 años de prisión y de 50 a 150 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados; salvo lo dispuesto en los Artículos 116 Fracción V y 149 Fracción III de este Código.
-
-Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando se trate de cualquier servidor público que participe en la realización de los delitos previstos en este artículo. Además, se impondrá a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión pública.
-
-> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2025)</small>
-
-ARTÍCULO 178 E.- Provocación a cometer un delito o apología del delito.- Comete el delito de provocación o apología del delito quien, mediante la difusión pública de imágenes, mensajes, expresiones, interpretaciones o representaciones que exalten, justifiquen o glorifiquen algún tipo penal de los contenidos en este Código, a personas vinculadas con la delincuencia organizada, al uso de armas prohibidas, al narcotráfico, a grupos delictivos o a la violencia contra la autoridad o la sociedad, a través de música, representaciones artísticas de cualquier tipo, o mediante cualquier otro medio expresivo, ya sea de forma presencial o mediante su transmisión por medios de comunicación o plataformas digitales, en el contexto de espectáculos abiertos al público, públicos o realizados por particulares.
-
-A quien incurra en esta conducta se le impondrá una pena de 6 meses a 1 año de prisión y de 6,000 a 8,000 días multa, cuando el delito del que se haya hecho apología no se haya ejecutado.
-
-En caso de que el delito instigado se lleve a cabo, se impondrá al responsable la pena prevista para el delito consumado, en atención a su calidad de instigador y al grado de participación que haya tenido en su comisión.
-
-Las penas de prisión y multa señaladas se aumentarán hasta en una mitad más respecto de los mínimos y máximos establecidos, cuando el mensaje esté dirigido a niñas, niños o adolescentes, se difunda en centros escolares, culturales o recreativos, o se relacione con la promoción explícita de grupos delictivos organizados.
-
-Además de la sanción penal correspondiente, en todos los casos se impondrá al responsable la obligación de reparar íntegramente los daños y perjuicios ocasionados.
-
-No se configurará el delito cuando el contenido tenga una finalidad informativa, periodística, crítica, educativa, cultural o de denuncia social, y no tenga por objeto la incitación o promoción del delito.
-
-La imposición de la pena prevista en este artículo no excluirá la aplicación de sanciones de carácter administrativo que, en su caso, correspondan conforme a la legislación municipal o estatal aplicable en materia de espectáculos, cultura, seguridad pública o prevención del delito.
-
-El presente delito se perseguirá por noticia criminal, sin necesidad de querella o denuncia previa.
-
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2025)</small>
-
-ARTÍCULO 178 F.- Colocación de mensajes intimidatorios. Comete el delito de colocación de mensajes intimidatorios quien, por sí o por interpósita persona, elabore, coloque o exhiba en espacios públicos o privados visibles al público, mensajes en cualquier medio físico, tales como, mantas, cartulinas, pancartas, lonas, en el que se amenace, intimide, justifique, atribuya o promueva hechos con apariencia de delito, que pretendan generar intimidación, alterar la paz pública o influir en decisiones de autoridades o particulares.
-
-A quien cometa el delito de colocación de mensajes intimidatorios se le impondrá una pena de 1 a 4 años de prisión y de 500 a 1,500 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
-
-ARTÍCULO 178 G.- Reclutamiento forzado. Comete el delito de Reclutamiento forzado quien, por medio de la violencia física, moral, intimidación, engaño o amenaza grave, reclute, utilice u obligue a una persona, ya sea de forma presencial o a través de cualquier medio de comunicación, tecnológico, plataforma digital o videojuego, a participar de manera directa o indirecta, en la comisión de conductas delictivas.
-
-El delito se considerará cometido en el lugar donde se realice total o parcialmente la conducta, donde se produzca el resultado, o donde éste deba producirse, tratándose de conductas realizadas a través de cualquier medio de comunicación, tecnológico, plataforma digital o videojuego, el delito se considerará cometido en el lugar donde se reciban, almacenen, procesen o generen efectos los datos.
-
-Al responsable de Reclutamiento forzado se aplicarán de 3 a 6 años de prisión y de 25 a 100 días multa, así como el pago total de la reparación de daños y perjuicios ocasionados, independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
-
-Las penas previstas en el presente artículo se aumentarán hasta en una mitad de sus mínimos y máximos cuando el delito se cometa en contra de niñas, niños o adolescentes, o de personas que no tengan la capacidad para comprender el significado del hecho o que, por cualquier causa, no puedan resistir la conducta.
-
-El presente delito se investigará y perseguirá de oficio.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2026)</small>
-
-ARTÍCULO 178 H.- Uso indebido de sistemas de videovigilancia. Al que, sin la autorización o registro correspondiente ante la autoridad competente, instale, ubique, utilice u opere sistemas de videovigilancia en cualquier espacio público o privado, empleando uno o más de los siguientes distintivos o elementos: emblemas, siglas, cromática, carátulas, carcasas o dispositivos que simulen la apariencia de los utilizados oficialmente por las instituciones de seguridad pública del Estado o de los Municipios, induciendo al error sobre su carácter oficial, se le impondrá pena de 3 a 6 años de prisión, de 300 a 600 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
-
-###### ARTÍCULO 179.
-
-Revelación de secretos. La Revelación de Secretos consiste en:
-
-I. El aprovechamiento o difusión que una persona realice sobre archivos informáticos de uso personal de otra sin que ésta dé su consentimiento;
-
-II. Difundir la información confidencial obtenida en los términos que marca la Ley de Video Vigilancia del Estado de Aguascalientes; o
-
-III. La revelación de una comunicación reservada que se conozca o que se haya recibido por motivo de empleo, cargo o puesto, sin justa causa, con perjuicio de alguien y sin consentimiento de la víctima.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Al responsable de la Revelación de Secretos se le aplicarán de 6 meses a 2 años de prisión y de 150 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Si el responsable de la Revelación de Secretos presta sus servicios profesionales o técnicos, o se trata de un servidor público; o el secreto revelado es de carácter industrial o científico, la punibilidad será de 2 a 6 años de prisión y de 300 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 180.
-
-Violación de correspondencia. La Violación de Correspondencia consiste en abrir o interceptar en forma dolosa, una comunicación escrita, electrónica, magnética, óptica o informática que no esté dirigida al inculpado.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Al responsable de Violación de Correspondencia se le aplicarán de 5 a 10 meses de prisión y de 50 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-Esta punibilidad no se aplicará si el responsable ejerce la patria potestad, tutela o custodia, y la comunicación escrita se dirige a las personas bajo su tutela o guarda.
+Los lotes de los fraccionamientos residenciales urbanos tipo C habitacional de densidad media (H4, H5 y H6), deberán tener un frente no menor de 8 metros y una superficie no menor de 140 metros cuadrados y contar con las obras señaladas en el presente ordenamiento.
 
 #### SECCIÓN CUARTA. DE LOS FRACCIONAMIENTOS CAMPESTRES
 
-###### ARTÍCULO 181.
+###### Artículo 181.
 
-Acceso informático indebido. El Acceso Informático Indebido consiste en:
+Los lotes de los fraccionamientos de habitación popular, de interés social o de densidad alta (H7 y H8), deberán tener un frente no menor de 6 metros y una superficie no menor de 105 metros cuadrados.
 
-I. Acceder a la información contenida en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información sin autorización de su propietario o poseedor legítimo; o
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
-II. Interferir el buen funcionamiento de un sistema operativo, programa de computadora, base de datos o cualquier archivo informático, sin autorización de su propietario o poseedor legítimo.
+###### Artículo 182.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+En los lotes a que se refiere esta sección se podrán realizar dos edificaciones por cada lote, constituyéndose un condominio sobre esas dos unidades siempre que el mismo tenga una superficie mínima de 135.00 metros cuadrados, y que cada unidad tenga un frente mínimo de 4.50 metros, y una superficie mínima de 67.50 metros cuadrados; cada vivienda contará con un cajón de estacionamiento como mínimo y podrán tener muro medianero, siempre y cuando el régimen de condominio y su reglamento así lo estipulen, de tal manera que las modificaciones a dicho muro, queden definidas desde su constitución para cada una de las edificaciones.
 
-Al responsable del Acceso Informático Indebido se le aplicará de 3 a 6 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 6 meses a 1 año de prisión, de 300 a 600 días multa, así como el pago de la reparación de daños y perjuicios ocasionados.
+En este caso, el desarrollador estará obligado a respetar las densidades que correspondan a la zona en que se ubique el fraccionamiento, así como a iniciar las obras de edificación simultáneamente a las de urbanización, y a no imponer gastos comunes de mantenimiento del lote para los adquirentes.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+Conjuntamente con el permiso de venta, y previo pago del impuesto de división para la individualización de las viviendas, el desarrollador podrá solicitar a la Tesorería Municipal la apertura de una cuenta catastral por cada una de estas edificaciones que conforman el fraccionamiento, en la que se identificará cada unidad dispuesta sobre el lote que les corresponda.
 
-Si mediante el Acceso Informático Indebido referido en la Fracción I, se accede a imágenes o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales de cualquier persona, sin permiso de ésta o bien, del propietario o tenedor legítimo del aparato para el procesamiento de datos o del dispositivo de almacenamiento de información de que se trate, al responsable se le aplicará de 1 a 3 años de prisión, de 300 a 600 días multa, así como el pago de la reparación de daños y perjuicios ocasionados.
+###### Artículo 183.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-ARTÍCULO 181 A.- Suplantación de la Identidad. La suplantación de la identidad consiste en usurpar o sustituir a otra persona a través de cualquier medio, utilizando sin consentimiento, sus datos personales con fines ilícitos o lucrativos, aun cuando estos no se logren.
-
-También se considerará suplantación de la identidad cuando el titular otorgue su consentimiento para que se utilice su identidad en beneficio o perjuicio de un tercero.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Al responsable de Suplantación de la Identidad se aplicarán de 4 a 12 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-La pena de prisión y días de multa se aumentará hasta en una mitad en sus mínimos y sus máximos cuando el sujeto activo se aproveche de su profesión; de su calidad como servidor público; o se valga de su empleo dentro de cualquier institución crediticia para la comisión de la conducta.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-ARTÍCULO 181 B.- Violación a la intimidad personal. La violación a la intimidad personal consiste en la conducta del sujeto activo que divulgue, comparta, distribuya, comercialice, publique o amenace con publicar información personal, privada o confidencial de una persona sin consentimiento expreso, voluntario, y deseado de la víctima.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-También se equipará a violación a la intimidad personal, la conducta del sujeto activo que divulgue comparta, distribuya, comercialice, publique o amenace con publicar una o más imágenes, audios o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales o eróticos de cualquier persona, ya sea impreso, grabado o digital, sin consentimiento expreso, voluntario, y deseado de la víctima mayor de 18 años.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-También se equipara a violación a la intimidad personal, la conducta del sujeto activo que elabore, manipule o gestione por medio de tecnologías digitales, imágenes, audios, textos, grabaciones de voz o contenidos audiovisuales, con la finalidad de generar elementos de naturaleza erótica o sexual, utilizando las partes del cuerpo a que se refiere el párrafo anterior, que correspondan total o parcialmente a la víctima, y las revele, publique, comparta, difunda, exhiba o comercialice por cualquier medio tecnológico o tradicional, sin consentimiento expreso, voluntario, y deseado de la víctima mayor de 18 años.
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
-
-Al responsable de violar la intimidad personal se le aplicarán de 1 a 4 años de prisión, y de 300 a 600 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-Se impondrán las mismas penas previstas en el párrafo anterior, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin consentimiento expreso, voluntario, genuino y deseado de la víctima mayor de 18 años.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2025)</small>
-
-Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
-
-###### ARTÍCULO 182.
-
-Ataques a las vías de comunicación y medios de transporte dolosos. Los Ataques a las Vías de Comunicación y a los Medios de Transporte Dolosos consisten en:
-
-I. La interrupción total o parcial que se haga de cualquier forma a los servicios de comunicación, vialidades y de transporte locales;
-
-II. La retención de cualquier vehículo destinado al servicio público de transporte de jurisdicción local, sin orden previa de autoridad;
-
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2023)</small>
-
-III. La destrucción, inutilización o cambio de sentido o de lugar de una señal establecida para la seguridad de las vías de comunicación o medios de transporte;
-
-IV. (DEROGADA, P.O. 20 DE MAYO DE 2024)
-
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2023)</small>
-
-V. La colocación en las vialidades, de instrumentos u objetos que impidan la movilidad de medios de locomoción utilizados por las Instituciones de Seguridad Pública, la Guardia Nacional y/o las Fuerzas Armadas.
-
-Para la adecuada aplicación de la presente figura típica, se entiende por vías de comunicación, las de tránsito destinadas habitualmente al uso público, sea quien fuere el propietario y cualquiera que fuere el medio de locomoción que se utilice en ellas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE OCTUBRE DE 2023)</small>
-
-Para efectos de este artículo, quedan excluidas las Instituciones de Seguridad Pública, la Guardia Nacional y las Fuerzas Armadas, que en el ejercicio de sus funciones empleen los instrumentos u objetos señalados en la fracción V del presente artículo.
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 23 DE OCTUBRE DE 2023)</small>
-
-Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transporte Dolosos se le aplicarán de 6 meses a 4 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE OCTUBRE DE 2023)</small>
-
-Si para la ejecución de los hechos descritos en este Artículo se utilizan materias explosivas o incendiarias, la punibilidad será de 1 a 6 años de prisión y de 15 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
-
-Tratándose de la conducta descrita en la fracción III de este artículo, cuando se perpetre sobre señales de jurisdicción local ubicadas en las inmediaciones de cruzamientos ferroviarios cuyo propósito sea informar la proximidad de dichos cruzamientos o la necesidad de disminuir la velocidad, las penas de prisión y de multa previstas en los dos párrafos anteriores, aumentarán hasta en una tercera parte en sus mínimos y máximos.
-
-###### ARTÍCULO 183.
-
-Dignidad de los muertos. Se afecta la dignidad de las personas muertas o cadáveres, mediante:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-I. Su destrucción, desecho, mutilación, incineramiento, ocultamiento, inhumación o exhumación, sin la debida autorización de las autoridades sanitarias correspondientes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-II. El ocultamiento o abandono del cadáver o alguna parte de éste, o la omisión de aviso a las autoridades ante el conocimiento de su existencia;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-III. Usarlos para cualquier fin, sin la autorización de las autoridades competentes;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-IV. Cometer actos de vilipendio sobre los mismos o violar el lugar donde éstos se encuentren;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-V. Profanarlos con actos de necrofilia; o
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2022)</small>
-
-VI. Fotografiar o videograbar, así como difundir o permitir la difusión o por cualquier medio, de las imágenes o videos de uno o más cadáveres, restos humanos, documentos o datos que permitan su identificación, sin la autorización de los ofendidos o autoridad competente.
-
-Al responsable de las conductas descritas en este Artículo, se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
-
-Si quien comete este delito es servidor público o que por su trabajo o labores se encuentre bajo su resguardo o custodia el cadáver o restos humanos, las penas se incrementarán en una tercera parte en sus mínimos y máximos.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2026)</small>
-
-Al responsable de las conductas descritas en las fracciones anteriores, tratándose de cuerpos sin vida o restos humanos de niñas, niños y adolescentes, las penas previstas en este artículo se incrementarán hasta en una mitad, en sus mínimos y máximos.
+Cuando se pretenda realizar este tipo de fraccionamientos bajo el proceso constructivo de urbanización progresiva, los desarrolladores deberán coordinarse con el IMUVI.
 
 #### SECCIÓN QUINTA. DE LOS FRACCIONAMIENTOS AGROPECUARIOS
 
-###### ARTÍCULO 184.
+###### Artículo 184.
 
-Rebelión. La Rebelión consiste en el levantamiento de armas por un grupo de personas en contra del Gobierno del Estado, para:
+Los lotes de los fraccionamientos para industria ligera (I1) deberán tener un frente no menor de 10 metros y una superficie no menor de 300 metros cuadrados.
 
-I. Abolir o reformar la Constitución Política de éste, o las instituciones que de ella emanen;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-II. Impedir la integración de éstas o su libre ejercicio y funcionamiento; o
+###### Artículo 185.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+Los lotes de los fraccionamientos para industria mediana (I2) deberán tener un frente no menor de 15 metros y una superficie no menor de 600 metros cuadrados.
 
-III. Separar de sus cargos al Gobernador, diputados al Congreso Estatal, Magistrados del Supremo Tribunal de Justicia, Secretario General de Gobierno, Fiscal General del Estado, Presidentes Municipales, regidores y síndicos de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-A los responsables de Rebelión se les aplicarán de 1 a 8 años de prisión, de 30 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y privación de derechos políticos hasta por 5 años.
+###### Artículo 186.
 
-Si el inculpado ostenta el carácter de servidor público o empleado del Gobierno del Estado, ser además destituido del cargo o empleo, y se le inhabilitará para obtener otro de las mismas características por el término de 10 años.
+Los lotes de los fraccionamientos para industria pesada (I3) e industria de alto riesgo (I4) deberán tener un frente no menor de 20 metros, y una superficie no menor de 1000 metros cuadrados.
 
-###### ARTÍCULO 185.
+###### Artículo 187.
 
-Rebelión equiparada. Se equipara a la Rebelión:
+Los fraccionamientos industriales, cualquiera que sea su tipo, deberán ajustarse en materia ambiental a la normativa aplicable, a fin de que en ellos se controle y mitiguen las emisiones de humos, ruidos, olores, vibraciones y desperdicios contaminantes.
 
-I. El impedir que las fuerzas del Gobierno del Estado reciban el auxilio necesario para ejercer sus funciones de defensa;
+###### Artículo 188.
 
-II. El revelar o entregar el servidor público, a los inculpados de la rebelión, información estratégica, que por razón de su empleo o cargo, pueda tener acceso a ella;
+Además de contar con las obras de urbanización señaladas en el presente ordenamiento, todo fraccionamiento industrial deberá reunir lo siguiente:
 
-III. El mantener relaciones con los inculpados de la Rebelión, para proporcionales noticias concernientes a operaciones militares u otras que pudieran ser útiles, una vez realizado el levantamiento; o
+I. Sistema de alcantarillado separado, con descargas domiciliarias para drenaje pluvial, sanitario e industrial, que incluya Planta de Pre-Tratamiento de aguas residuales industriales;
 
-IV. El tener voluntariamente un empleo, cargo subalterno o comisión en el lugar ocupado por los inculpados de la rebelión.
+II. Red de distribución de energía eléctrica y alumbrado público, para uso industrial;
 
-A los responsables de Rebelión Equiparada se les aplicarán de 1 a 8 años de prisión, de 15 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y privación de derechos políticos hasta por cinco años.
+III. Hidrantes contra incendios;
 
-###### ARTÍCULO 186.
+IV. Caseta de vigilancia para seguridad pública;
 
-Sedición. La Sedición consiste en:
+V. Deben realizarse las obras establecidas en las Normas Oficiales Mexicanas correspondientes; y
 
-I. La resistencia o ataque a la autoridad, para impedirle el libre ejercicio de sus funciones, por personas físicas reunidas tumultuariamente y sin armas; o
-
-II. La invitación formal y directa que se haga de cualquier forma, para desobedecer las leyes legalmente promulgadas.
-
-A los responsables de Sedición se les aplicarán de 2 a 5 años de prisión y de 15 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-###### ARTÍCULO 187.
-
-Motín. El Motín consiste en la reunión en forma tumultuaria que cause grave desorden público, con el objeto de buscar el reconocimiento o concesión de algún derecho.
-
-A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 20 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2023)</small>
-
-ARTÍCULO 187 A.- Sabotaje. El Sabotaje consiste en dañar o destruir la infraestructura pública o equipamiento destinado a la prestación de servicios públicos estatales o municipales, con el fin de suspender o afectar:
-
-I. Los servicios de salud, de educación, la prestación del servicio de agua potable, drenaje o alcantarillados;
-
-II. Los bienes para la prestación del servicio de alumbrado público, transformadores de voltaje de energía eléctrica que no pertenezcan a la Federación, contenedores o demás instalaciones o bienes del servicio público para la limpia, recolección, traslado, tratamiento o disposición final de residuos; o
-
-III. Las funciones de las dependencias municipales, del Estado, organismos públicos descentralizados, empresas de participación estatal o sus instalaciones.
-
-A los responsables de Sabotaje se les impondrán de 5 a 10 años de prisión y multa de 1,000 a 1,400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2015)</small>
-
-###### ARTÍCULO 188.
-
-(DEROGADO, P.O. 8 DE JUNIO DE 2015)
+VI. Las demás que determinen otras disposiciones legales.
 
 #### SECCIÓN SEXTA. DE LOS FRACCIONAMIENTOS TURÍSTICO, RECREATIVO - DEPORTIVOS
 
-###### ARTÍCULO 189.
+###### Artículo 189.
 
-(DEROGADO, P.O. 8 DE JUNIO DE 2015)
+Los fraccionamientos campestres de tipo residencial, deberán estar ubicados dentro de la zona de crecimiento de la ciudad, señalada en el POTE y sus lotes tendrán como mínimo un frente de 20 metros, con una superficie no menor de 800 metros cuadrados; y cumplir con las obras de urbanización señaladas en el presente ordenamiento.
 
-###### ARTÍCULO 190.
+Los fraccionamientos campestres señalados en el POTE en la UGA 1, 2 y 4 sus lotes tendrán como mínimo una superficie de 2,500 metros cuadrados.
 
-Defraudación fiscal. La Defraudación Fiscal consiste en:
+Este tipo de fraccionamientos contarán además con lo siguiente:
 
-I. Utilizar el engaño o el aprovechamiento del error para omitir total o parcialmente el pago de algún crédito fiscal;
+I. Fuente de abastecimiento de agua potable y red de distribución autónomas;
 
-II. Proporcionar datos falsos una persona física al realizar su inscripción en el registro de contribuyentes, en perjuicio del interés fiscal;
+II. Sistema de alcantarillado con salidas domiciliarias de albañal, debiendo prever el tratamiento de aguas residuales;
 
-III. Grabar o manufacturar sin autorización de la Secretaría de Finanzas del Estado, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría usa para imprimir, grabar o troquelar comprobantes de pago de prestaciones fiscales y objetos que se utilicen oficialmente como medios de control fiscal;
+III. Red de distribución de energía eléctrica para uso doméstico y alumbrado público;
 
-IV. Imprimir, grabar o troquelar sin autorización de la Secretaría de Finanzas del Estado, placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+IV. Sistema de escurrimiento pluvial de acuerdo a las pendientes naturales y demás obras que sean necesarias para el desalojo de aguas pluviales;
 
-V. Alterar en sus características, las placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+V. Camino de acceso que cumpla con las especificaciones que establezca la Dirección en cuanto a pavimentación y alumbrado público;
 
-VI. Usar, vender o poner en circulación, placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medios de control fiscal;
+VI. Las calles locales tendrán un arroyo de circulación de 8 metros como mínimo y su sección transversal de paramento a paramento, tendrá como mínimo 12 metros;
 
-VII. Consignar en las declaraciones que se presenten para fines fiscales, ingresos o utilidades menores que los realmente obtenidos, o deducciones falsas;
+VII. Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin; y,
 
-VIII. Proporcionar con falsedad a las autoridades fiscales que lo requieran, los datos que obren en su poder y que sean necesarios para determinar la producción, la base gravable o los impuestos que cause;
+VIII. Demás disposiciones previstas en el POTE.
 
-IX. Ocultar a las autoridades fiscales estatales, total o parcialmente, la producción sujeta a impuestos o el monto de las ventas;
+###### Artículo 190.
 
-X. No expedir los documentos con los requisitos establecidos por las disposiciones fiscales para acreditar el pago de un impuesto.
+Los fraccionamientos campestres de tipo rústico podrán ser aquellos que se localizan en las comunidades rurales dentro del fundo legal que se haya determinado para el asentamiento humano, y tendrán que cumplir con las obras de urbanización señaladas en el presente ordenamiento, además de lo siguiente:
 
-XI. Traficar con productos, sin llenar los requisitos de control a que obliguen las disposiciones fiscales a los fabricantes, porteadores, comerciantes o expendedores;
+I. Sus lotes serán destinados para uso habitacional y huertos familiares;
 
-XII. No enterar a las autoridades fiscales dentro del plazo del requerimiento que se le haga, de las cantidades que haya retenido o recaudado de los contribuyentes por concepto de créditos fiscales;
+II. Los lotes tendrán una superficie no menor de 600 metros cuadrados;
 
-XIII. Llevar dos o más libros similares o sistemas informáticos con distintos asientos o datos para registrar sus operaciones contables, fiscales o sociales;
+III. Integrar el desarrollo a la comunidad rural respetando sus características, de conformidad al estudio urbanístico zonal, que al efecto presente el desarrollador;
 
-XIV. Destruir, ordenar o permitir la destrucción total o parcial de los libros de contabilidad o sistemas informáticos previstos en la Fracción anterior;
+IV. Fuente de abastecimiento de agua potable y red de distribución, autónomas;
 
-XV. Utilizar pastas o encuadernaciones de los libros a que se refiere la Fracción XIII, para sustituir o cambiar las páginas foliadas, o alterar los sistemas informáticos de contabilidad que correspondan;
+V. Sistema de alcantarillado con salidas domiciliarias de albañal, debiendo prever el tratamiento de aguas residuales;
 
-XVI. Confeccionar o utilizar facturas, notas o comprobantes apócrifos;
+VI. Red de distribución de energía eléctrica para uso doméstico y alumbrado público;
 
-XVII. Hacer mal uso de los incentivos fiscales o aplicarlos para usos distintos de los que fueron otorgados;
+VII. Sistema de escurrimiento pluvial de acuerdo a las pendientes naturales y demás obras que sean necesarias para el desalojo de aguas pluviales;
 
-XVIII. Obtener beneficios sin tener derecho a ello, de un subsidio o estímulo fiscal.
+VIII. Camino de acceso que cumpla con las especificaciones que establezca la Dirección en cuanto a pavimentación y alumbrado público;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+IX. Las calles locales tendrán un arroyo de circulación de 8 metros como mínimo y su sección transversal de paramento a paramento tendrá como mínimo 12 metros;
 
-Al responsable de Defraudación Fiscal se le aplicarán de 2 a 6 de prisión y de 25 a 150 días multa y al pago total de los daños y perjuicios ocasionados, si el monto de lo defraudado es inferior a cien veces el valor diario de la Unidad de Medida y Actualización, y si se rebasa tal monto, la pena será de 4 a 12 años de prisión y de 50 a 250 días multa y al pago total de los daños y perjuicios ocasionados.
+X. Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin; y,
 
-Cuando no se pueda determinar con exactitud la cuantía del crédito fiscal que se defraudó, se aplicarán de 6 meses a 2 años de prisión y de 10 a 100 días multa y al pago total de los daños y perjuicios ocasionados.
+XI. Demás disposiciones previstas en el POTE.
+
+Podrán ser consideradas también como fraccionamientos campestres de tipo rústico, aquellos nuevos desarrollos que por sus características de ubicación, diseño y urbanización sean similares a lo preceptuado en el presente artículo, excepción hecha del tipo y dimensiones de los lotes, dado que estos deberán de ser las que señalan por el presente Código para los fraccionamientos campestres de tipo residencial.
 
 #### SECCIÓN SÉPTIMA. DE LOS FRACCIONAMIENTOS COMERCIALES
 
-###### ARTÍCULO 191.
+###### Artículo 191.
 
-Atentados al equilibrio ecológico dolosos. Los Atentados al Equilibrio Ecológico Dolosos consisten en:
+Los fraccionamientos agropecuarios son aquellos que se ubican fuera de las áreas previstas para el crecimiento urbano; sus lotes serán destinados para actividades agropecuarias y deberán cumplir con las obras de urbanización señaladas en el presente ordenamiento, además de lo siguiente:
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+I. Las actividades predominantes para el uso y destino del suelo serán las agropecuarias además de la vivienda unifamiliar;
 
-I. Fabricar, elaborar, transportar, distribuir, comerciar, almacenar, poseer, usar, reusar, reciclar, recolectar, tratar, desechar, descargar, abandonar, disponer o realizar actos con materiales o residuos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna, o los ecosistemas del Estado, sin la autorización de la autoridad estatal competente o contraviniendo los términos en que aquella se haya concedido;
+II. Si se ubican en zona de reserva agrícola (RA) sus lotes tendrán como mínimo un frente de 50 metros y una superficie no menor de 5,000 metros cuadrados;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
+III. Los fraccionamientos que queden ubicados en área de reserva ecológica (RE) tendrán como mínimo un frente de 50 metros y una superficie no menor de 3,500 metros cuadrados;
 
-II. Despedir, emitir o descargar en la atmósfera, gases, humos y polvos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, siempre que dichas emisiones provengan de fuentes fijas:
+IV. Fuente de abastecimiento de agua potable y red de distribución, autónomas;
 
-III. Descargar, depositar o infiltrar aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos y demás depósitos o corrientes de agua, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, sin la autorización de la autoridad estatal competente o contraviniendo los términos en que aquella se haya concedido;
+V. Sistema de alcantarillado con salidas domiciliarias de albañal, debiendo prever el tratamiento de aguas residuales;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+VI. Red de distribución de energía eléctrica para uso doméstico y alumbrado público;
 
-IV. Generar emisiones de ruido, vibraciones, energía térmica o lumínica que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, rebasando los límites fijados en las normas técnicas propuestas por la Ley de Protección Ambiental para el Estado de Aguascalientes;
+VII. Sistema de drenaje pluvial y demás obras que sean necesarias para el escurrimiento y desalojo de aguas pluviales;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+VIII. Camino de acceso que cumpla con las especificaciones que establezca la Dirección en cuanto a pavimentación y alumbrado público;
 
-V. Generar o causar por cualquier medio o forma, alteraciones, destrucción, daños o enfermedades graves a las áreas verdes, flora, fauna, salud pública o a los ecosistemas del Estado; o
+IX. Las calles locales deberán tener un arroyo de circulación de 8 metros como mínimo y su sección transversal de paramento a paramento tendrá como mínimo 13 metros;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+X. Arbolado y jardinería en áreas de calles, glorietas y demás lugares destinados a ese fin; y,
 
-VI. Causar la muerte o lesiones que afecten la salud de animales domésticos, sin justificación o autorización legal. Para los efectos de la presente Fracción, los animales domésticos serán aquellos que habiten con un ser humano con la finalidad de convivir y dependan de éste para subsistir, así como los que deambulen libremente por la vía pública sin que habiten con un ser humano.
-
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
-
-Al responsable de Atentados al Equilibrio Ecológico se le aplicarán de 1 a 10 años de prisión y de 500 a 2000 días multa, reparación total de los daños y perjuicios causados.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE JULIO DE 2025)</small>
-
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2024)</small>
-
-ARTÍCULO 191 A.- Participación en Peleas de Perros. La Participación en Peleas de Perros consiste en organizar, realizar o participar en peleas de perros.
-
-A la persona responsable de Participación en Peleas de Perros se le aplicará pena de 6 meses a 2 años de prisión, de 100 a 500 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-Si las conductas descritas en este Artículo las realiza una persona servidora pública, la sanción punitiva originalmente aplicable, se incrementará en una mitad en cuanto a su mínimo y máximo.
-
-Para los efectos de este artículo se entenderá por peleas de perros, el combate entre dos o más perros, propiciado por el hombre.
-
-Para los efectos de este Artículo se entenderá por perro, a cualquier animal de la familia de los cánidos, con independencia de su raza o sexo.
+XI. Demás disposiciones previstas en el POTE.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
-###### ARTÍCULO 192.
+###### Artículo 192.
 
-Discriminación. Comete el delito de discriminación quien por razón de raza, origen étnico, nacionalidad, idioma o lengua, sexo, género, origen o situación familiar, edad, discapacidad, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil, antecedentes penales, apariencia física, trabajo o profesión, o de cualquier otro motivo que atente contra la dignidad humana, anule o menoscabe los derechos humanos y libertades de las personas mediante la realización de una de las siguientes conductas:
+Fraccionamientos Turístico, Recreativo-Deportivos: Aquellos que se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turísticas, recreativo-deportivas que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso y deberán contar con lo siguiente:
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+I. Áreas necesarias para el adecuado desplazamiento peatonal y vehicular que permitan el acceso a las instalaciones recreativas y a cada uno de los lotes del predio; y,
 
-I. Provocar o incitar al odio o a la violencia, negar o restringir derechos laborales;
-
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
-
-II. Vejar o excluir a alguna persona o grupo de personas cuando dichas conductas tengan por resultado un daño material o moral; y
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
-
-III. Negar o restringir a una persona un servicio una prestación a la que tenga derecho.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
-
-Al responsable de Discriminación se le aplicará pena de 6 meses a 2 años de prisión y de 15 a 50 días multa, así como el pago total de la reparación del daño y los perjuicios ocasionados.
-
-Si las conductas descritas en este Artículo las realiza un servidor público se le aumentará en una mitad el mínimo y el máximo de la punibilidad descrita en el párrafo anterior.
-
-No serán punibles las conductas descritas en este Artículo, si se trata de medidas tendientes a la protección de grupos sociales desfavorecidos.
-
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
-
-ARTÍCULO 192 A.- Asedio Laboral. El Asedio laboral consiste en ejercer en el ámbito laboral, violencia psicológica de forma recurrente y sistemática, que cause afectación en su autoestima o seguridad, con el objeto de controlar, intimidar, humillar, someter o dominar a la persona, impidiendo el libre desarrollo de la actividad laboral.
-
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2018)</small>
-
-Al responsable de asedio laboral se le aplicará pena de 2 a 6 meses de prisión y de 50 a 100 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
-
-En caso de reincidencia o si la persona que realiza el acoso es superior jerárquico, la punibilidad descrita en el párrafo anterior, se aumentará hasta en una mitad en sus mínimos y máximos.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2026)</small>
-
-ARTÍCULO 192 B.- Asedio por medios digitales. Comete el delito de asedio por medios digitales quien, sirviéndose de las tecnologías de la información y la comunicación, acose, hostigue, amenace o presione de manera persistente o reiterada a otro, con el propósito de menoscabar su dignidad, provocar miedo o afectar la imagen pública o social de la víctima, mediante el empleo de mensajes o videograbaciones, imágenes, o cualquier otro mecanismo de comunicación proporcionado por el entorno digital.
-
-Al responsable del delito de asedio por medios digitales se le impondrá pena de prisión entre uno y dos años de prisión; y de cien a doscientos días de multa. La sanción se podrá incrementar hasta un medio en sus mínimos y máximos cuando la víctima sea mujer, menor de edad, o el tipo penal se cometa por razones de género u orientación sexual.
-
-Este delito solo se perseguirá por querella.
+II. La distribución de las calles internas será de conformidad con la MIV y, las áreas de estacionamiento, deberán cumplir con la norma de dotación especificada en el Título de Zonificación y usos del suelo de este ordenamiento.
 
 #### SECCIÓN SEGUNDA. DE LAS MESAS DE TRABAJO
 
-###### ARTÍCULO 193.
+###### Artículo 193.
 
-Atentados a la salud pública. Los atentados a la Salud Pública consisten en:
+Los fraccionamientos comerciales deberán contar con las obras de urbanización previstas en este ordenamiento y cumplir además con lo siguiente:
 
-I. Comerciar o expender sustancias beta-agonistas para fines distintos a los médico-terapéuticos;
+I. Sus lotes serán destinados exclusivamente para usos comerciales de venta al menudeo y al mayoreo, de almacenamiento y que no impliquen un proceso de transformación;
 
-II. Administrar sustancias beta-agonistas a los animales cuyas carnes o productos se destinen al consumo humano;
+II. Los lotes de un fraccionamiento comercial de intensidad mínima (CM) deberán tener por lo menos 6 metros de frente y una superficie no menor de 105 metros cuadrados;
 
-III. Sacrificar animales o destinar los productos de animales de abasto para consumo humano, a los que se les haya administrado sustancias beta- agonistas;
+III. Los lotes de un fraccionamiento comercial de intensidad baja (C1) deberán tener por lo menos 8 metros de frente y una superficie no menor de 240 metros cuadrados;
 
-IV. Comerciar o expender carnes o productos de animales para consumo humano, a los que se les haya administrado sustancias beta-agonistas; y
+IV. Los lotes de un fraccionamiento comercial de intensidad media (C2) tendrán por lo menos 20 metros de frente y una superficie no menor de 1000 metros cuadrados;
 
-V. Expedir certificados oficiales de no presencia de sustancias beta-agonistas en animales o productos destinados al consumo humano, a los cuales se les haya administrado.
+V. Los lotes de un fraccionamiento comercial de intensidad alta (C3) deberán tener por lo menos 20 metros de frente y una superficie no menor de 1600 metros cuadrados;
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2022)</small>
+VI. Área de carga y descarga;
 
-En el caso de los atentados a la Salud Pública a que se refieren las Fracciones I, II y III se le aplicará al responsable de 4 a 8 años de prisión y de 400 a 800 días multa; en el caso de la Fracción IV se le aplicará al responsable de 2 a 4 años de prisión y de 250 a 500 días multa; y en el caso de la Fracción V, se le aplicará al responsable de 5 a 10 años de prisión y de 500 a 1000 días multa; en todos los casos, el responsable deberá hacer el pago total de los daños y perjuicios ocasionados.
+VII. Cajones de estacionamiento;
 
-Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, cuando no tenga conocimiento de que la carne o productos animales para consumo humano que comercializa o expende se encuentren contaminados con sustancias beta-agonistas.
+VIII. Servicios sanitarios y de recolección de basura; y,
 
-### CAPÍTULO IV. Multa
+IX. Hidrantes contra incendios.
 
-###### ARTÍCULO 194.
+### CAPÍTULO III. DE LOS DESARROLLOS EN CONDOMINIO
 
-El Uso Indebido de Medios de Comunicación para movilizar los sistemas de respuesta de emergencia consiste en:
+###### Artículo 194.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+La realización de los desarrollos a que se refiere este capítulo se sujetará a lo dispuesto en la legislación civil del Estado de Guanajuato, en cuanto al régimen de propiedad en condominio, debiendo cumplir asimismo con lo dispuesto en el presente ordenamiento y demás disposiciones legales de la materia.
 
-I. Permitir o realizar mensajes o llamadas sin que exista necesidad o justificación, a cualquier sistema de respuesta de emergencia o su equivalente que preste este tipo de servicios; o
+###### Artículo 195.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+Por el tipo de uso o destino, los desarrollos en condominio se clasifican en:
 
-II. Permitir o realizar una llamada telefónica, emitir mensajes o cualquier tipo de comunicación a los sistemas de respuesta de emergencias o su equivalente para dar un aviso falso de alerta, emergencia, ayuda a un particular o cualquier otra situación que genere la movilización o presencia del cuerpo de bomberos, personal de emergencias médicas, personal de protección civil o elementos de las corporaciones de seguridad pública.
+I. Habitacional: Son aquellos en los que las unidades de propiedad exclusiva están destinadas a la vivienda;
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+II. Habitacional Campestre: son aquellos en los que las unidades de propiedad están destinadas a la vivienda y se ubiquen en las Zonas permitidas por el POTE;
 
-Al responsable del Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia se le aplicarán de 6 meses a 2 años de prisión y de 50 a 100 días multa, así como el pago total de la reparación del daño y los perjuicios ocasionados.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+III. Comercial; Aquellos cuyas unidades de propiedad exclusiva se destinarán al establecimiento de bodegas para depósito y expendio de mercancías y, que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento destinadas a este uso;
 
-Tratándose de la conducta prevista en la Fracción II de este Artículo, se impondrán de 3 a 8 años de prisión y de 200 a 300 días multa y al pago total de los daños y perjuicios causados, si la conducta del infractor provoca un accidente o daños a consecuencia de la falsedad de dicha comunicación.
+IV. Servicios: Son aquellos donde las unidades de propiedad exclusivas están destinadas al giro o servicio que corresponda según su actividad;
 
-###### ARTÍCULO 195.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-Homicidio culposo. El Homicidio Culposo consiste en privar de la vida a un ser humano, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
+V. Turístico - Recreativo: Aquellos cuyas unidades de propiedad exclusiva se destinarán además de la vivienda, al fomento de las actividades de esparcimiento y cuyo aprovechamiento predominante para el uso y destino del suelo será para el desarrollo de las actividades turística - recreativo (sic) que deberán estar ubicados dentro de la zona urbana o áreas de futuro crecimiento, destinadas a este uso;
 
-Al responsable de Homicidio Culposo se le aplicarán de 3 a 7 años de prisión y de 25 a 175 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y privación de 1 a 3 años para ejercer profesión u oficio.
+VI. Industrial: Aquellos cuyos lotes se destinarán al establecimiento de fábricas o plantas industriales y que deberán estar ubicados dentro de las áreas destinadas a ese uso, de conformidad con lo establecido por el POTE, en su caso, se sujetarán a lo dispuesto por el Plan o Programa Municipal de Desarrollo Urbano que corresponda; y,
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-Si el Homicidio Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el inculpado efectos similares, se aplicarán al responsable de 5 a 15 años de prisión, de 50 a 180 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
+VII. Mixto de usos compatibles: Aquellos en los que se podrán determinar diferentes usos y destinos de sus unidades de propiedad exclusiva, siempre y cuando sean compatibles de acuerdo a lo dispuesto por el POTE.
 
-###### ARTÍCULO 196.
+###### Artículo 196.
 
-Aborto culposo. El Aborto Culposo consiste en provocar la muerte del producto de la concepción en cualquier momento de la preñez, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
+Por el tipo de construcción, los desarrollos en condominio se clasifican en:
 
-Al responsable de Aborto Culposo se le aplicarán de 6 meses a 2 años de prisión y de 20 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+I. Condominio horizontal: Es aquel en el que cada condómino es propietario exclusivo de un terreno y de la edificación constituida sobre él y copropietario de las áreas de aprovechamiento común, con las edificaciones o instalaciones correspondientes;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-Si el Aborto Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
+II. Condominio vertical: Es aquel en el que cada condómino es propietario exclusivo de una parte definida y perfectamente identificada de la edificación y copropietario de todo el terreno en donde se constituye el condominio, así como de las edificaciones o instalaciones de uso y aprovechamiento comunes; y,
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+III. Condominio Mixto. Es aquel formado por condominios verticales y horizontales, que pueden estar constituidos en grupos de unidades de propiedad exclusiva como: Edificios, cuerpos, torres, manzanas, secciones o zonas.
 
-La punibilidad prevista en el presente artículo no se aplicará si el aborto se causa por conducta culposa de la mujer embarazada.
+###### Artículo 197.
 
-###### ARTÍCULO 197.
+Los desarrollos en condominio cualquiera que sea su tipo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, deberán contar con los espacios necesarios para área de estacionamiento de conformidad con el Título de Zonificación y usos del suelo de este Código.
 
-Lesiones culposas. Las Lesiones Culposas consisten en la alteración de la salud o la provocación de cualquier otro daño en el cuerpo humano, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
+###### Artículo 198.
 
-Al responsable de Lesiones Culposas se le aplicarán:
+Las áreas verdes deberán estar jardinadas y arboladas de conformidad con lo establecido en el dictamen de impacto ambiental presentada para la autorización de traza.
 
-I. De 3 a 6 meses de prisión, de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si no ponen en peligro la vida y tardan en sanar menos o más de 15 días; o
+El mobiliario urbano para estas áreas será propuesto por el desarrollador y aprobado por la Dirección.
 
-II. De 2 a 7 años de prisión, de 25 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y privación de 1 a 2 años para ejercer profesión u oficio, si ponen en peligro la vida, independientemente del tiempo que tarden en sanar; si no ponen en peligro la vida y dejan a la víctima cicatriz notable y permanente o le provocan la disminución de facultades o el normal funcionamiento de órganos o miembros, o le producen incapacidad temporal de hasta un año para trabajar; o le provocan la pérdida definitiva de cualquier función orgánica, miembro, órgano o facultad; o le causan una enfermedad incurable o deformidad incorregible, o incapacidad de más de un año para trabajar.
+###### Artículo 199.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+En los desarrollos en condominio habitacionales, no se podrán edificar un número de departamentos o viviendas que exceda la densidad de población establecida en el Título de Zonificación y usos del suelo del presente ordenamiento, de acuerdo a la zona de su ubicación, y al número de habitantes por vivienda conforme al Instituto Nacional de Estadística y Geografía - INEGI.
 
-Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
+###### Artículo 200.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
+Los desarrollos en condominio deberán contar con áreas verdes y áreas de uso común, entendiéndose que la superficie de área verde será independiente del área de uso común. Dentro del mismo desarrollo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, de conformidad con lo siguiente:
 
-Al responsable de la conducta referida en el párrafo anterior, también se le sancionará con la inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
+I. Para condominios verticales 7.30 metros cuadrados de área verde y 5.30 metros cuadrados de área de uso común, por cada unidad, cuando ésta cuente con una superficie menor a 80 metros cuadrados;
 
-###### ARTÍCULO 198.
+II. Para condominios verticales 8.30 metros cuadrados de área verde y 6 metros cuadrados de área de uso común por cada unidad, cuando ésta cuente con una superficie igual o mayor a 80 metros cuadrados; y,
 
-Daño en las cosas culposo. El Daño en las Cosas Culposo consiste en la destrucción o deterioro de cosa ajena o propia, en perjuicio de otro, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
+III. Para condominios horizontales 9.70 metros cuadrados de área verde y 7.30 metros cuadrados de área de uso común por cada unidad.
 
-Al responsable de Daño en las Cosas Culposo se le aplicarán de 3 meses a 2 años de prisión, de 15 a 100 días multa, al pago total de la reparación de los daños y perjuicios ocasionados.
+Además deberá otorgarse a favor del Municipio, el 4% de la superficie total del predio a desarrollar, para área de donación, conforme a lo establecido en el artículo 62 fracción III de la Ley de Fraccionamientos.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+###### Artículo 201.
 
-Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
+Las superficies que se determinen en el proyecto como áreas de uso común y las áreas verdes deberán considerarse como elementos o partes comunes del condominio, indicando con sus respectivas leyendas desde la propuesta del desarrollo en el proyecto, las áreas de donación deberán escriturarse en favor del Municipio e inscribirse en el Registro Público de la Propiedad y del Comercio de León, Guanajuato.
 
-###### ARTÍCULO 199.
+Las áreas que se escrituren en favor del municipio, deberán ubicarse de tal forma que se pueda acceder a ellas por la vía pública.
 
-Ataques a las vías de comunicación y a los medios de transporte culposos. Los Ataques a las Vías de Comunicación y a los Medios de Transporte Culposos consisten en la interrupción total o parcial que se haga a los servicios de comunicación y de transporte locales o la destrucción o inutilización de una señal establecida para la seguridad de las vías de comunicación o medios de transporte, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
+###### Artículo 202.
 
-Para la adecuada aplicación de la presente figura típica, se entiende por vías de comunicación, las de tránsito destinadas habitualmente al uso público, sea quien fuere el propietario y cualquiera que fuere el medio de locomoción que se utilice en ellas.
+Las áreas de uso común estarán acondicionadas conforme al tipo de desarrollo en condominio autorizado, debiéndose señalar tal característica en el proyecto del diseño urbano del conjunto, en la escritura constitutiva del régimen, así como en su reglamento y en las escrituras públicas que se realicen con motivo de enajenaciones subsecuentes.
 
-Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transporte Culposos se le aplicarán de 3 meses a 2 años de prisión y de 10 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+###### Artículo 203.
 
-###### ARTÍCULO 200.
+Los desarrollos en condominio, tendrán las siguientes características de funcionamiento:
 
-Atentados al equilibrio ecológico culposos. Los Atentados al Equilibrio Ecológico Culposos consisten en desechar, descargar, o realizar actos con materiales o residuos que ocasionen o puedan ocasionar daños; o despedir o descargar en la atmósfera, gases, humos y polvos que ocasionen o puedan ocasionar daños; o descargar, depositar o infiltrar aguas residuales, desechos o contaminantes en los suelos, ríos, cuencas, vasos y demás depósitos o corrientes de agua, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas del Estado, rebasando los límites fijados en las normas técnicas propuestas por la Ley de Protección Ambiental para el Estado de Aguascalientes, por incumplimiento de un deber de cuidado que debía y podía haber observado el autor, según sus condiciones personales y las circunstancias de realización del hecho.
+I. Las vialidades internas deberán tener el tipo de sección que determine la Dirección;
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+II. Los desarrollos en condominio contarán con áreas de estacionamiento de acuerdo a la proporción establecida en el Título de Zonificación y usos del suelo de este Código;
 
-Al responsable de Atentados al Equilibrio Ecológico Culposos, se le aplicarán de 6 meses a 4 años de prisión, de 10 a 100 días multa, reparación total de los daños y perjuicios causados.
+III. En los desarrollos en condominio para uso comercial, se deberán instalar servicios sanitarios públicos;
 
-> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+IV. Las instalaciones de agua potable deberán construirse de tal manera que permitan la prestación del servicio para cada una de las viviendas, locales, departamentos o unidades;
 
-# LIBRO TERCERO. INDEMNIZACIONES
+V. Contarán con depósitos o contenedores de basura que deberán lindar con la vía pública, sin invadirla, con las dimensiones y características que dictamine la Dirección; y,
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+VI. Deberán existir espacios disponibles para estacionamiento de vehículos, de tal forma que cada vehículo pueda salir a la vía pública o área de circulación enlazada con ésta, sin necesidad de mover otro vehículo estacionado.
 
-## TÍTULO ÚNICO. PROCEDENCIA DE LA INDEMNIZACIÓN POR PRIVACIÓN DE LA LIBERTAD O CONDENA INJUSTA
+Los desarrollos en condominio de tipo horizontal de uso habitacional no podrán realizarse en zonas habitacionales de densidad alta H7 y H8, de habitación popular o de interés social. Asimismo, en este tipo de desarrollos no se permitirán unidades de propiedad exclusiva que tengan un frente menor a 9.00 metros y una superficie inferior a 225.00 metros cuadrados, debiendo construirse como máximos dos viviendas en este tamaño de lote.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+###### Artículo 204.
 
-###### ARTÍCULO 201.
+En los desarrollos en condominio de uso habitacional, se podrán construir andadores que sirvan de enlace entre las edificaciones.
 
-Derecho de indemnización. Si el procesado es liberado por haber sido privado de su libertad injustamente, es absuelto, se dicta el sobreseimiento a su favor, o se declara procedente su reconocimiento de inocencia, por decisión de la propia autoridad judicial o por cumplimiento de ejecutoria de amparo, será indemnizado en razón del tiempo de privación de libertad, salvo que él haya provocado su propia persecución u ocultado o alterado dolosamente la prueba que condujo al error judicial.
+###### Artículo 205.
 
-Este precepto también regirá en los procedimientos que tengan por objeto la aplicación de una medida de seguridad.
+Para los efectos del último párrafo del artículo 42 de la Ley de Fraccionamientos, el interesado deberá adjuntar a su solicitud, el reglamento del propio condominio, autorizado previamente por la Dirección, que contenga las normas de diseño urbano y el diseño arquitectónico, a las que se sujetarán las construcciones sobre los lotes que integren el desarrollo.
 
-En caso de fallecimiento del titular del derecho a recibir indemnización, éste pasará a su cónyuge, concubina, concubinario, hijos, o demás herederos o dependientes económicos.
-
-La aplicación de una ley posterior más benigna durante el procedimiento que torne injusta la pena o la medida de seguridad, no habilitará la indemnización regulada en este título.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 202.
-
-Trámite para otorgar la indemnización. La persona que tenga derecho a la indemnización referida en el Artículo 201 de este Código, podrá hacerla válida mediante escrito presentado ante el Pleno del Supremo Tribunal de Justicia, luego de que cause estado la sentencia o la resolución que declare el sobreseimiento; tratándose del reconocimiento de inocencia, se procederá conforme a lo dispuesto por el Artículo 490 del Código Nacional de Procedimientos Penales y se fijará el importe de la indemnización conforme a las reglas previstas en el Artículo 203 de este Código.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 203.
-
-Bases para el cálculo. El Pleno del Supremo Tribunal de Justicia requerirá al Juez para que le remita el expediente, y fijará el importe de la indemnización con base a las siguientes reglas:
-
-l. Si la persona estaba desempleada al momento de dar inicio la privación de su libertad, se le deberá indemnizar en razón de un día de salario mínimo general vigente por cada día, hasta que concluya tal privación;
-
-II. Si la persona tenia empleo al momento de dar inicio la privación de su libertad y al concluirla aún lo conserva, deberá recibir indemnización a razón del salario real que dejó de percibir en su fuente de empleo, además de las prestaciones laborales que no haya gozado por estar privada de la libertad;
-
-III. En caso de que la persona contara con empleo al momento de dar inicio la privación de su libertad, y que en el transcurso del periodo que dure tal privación se le rescindiera su relación laboral, deberá recibir indemnización equivalente a las prestaciones que con motivo de un despido injustificado ordena la legislación laboral aplicable;
-
-IV. En caso de que al momento de dar inicio la privación de la libertad de la persona, ésta no fuera un trabajador asalariado pero desarrollara alguna actividad económica por cuenta propia, deberá recibir indemnización equivalente al promedio de ingresos que por dicha actividad recibía diariamente hasta el momento de su detención, multiplicado por el número de días que haya estado privada de su libertad.
-
-La autoridad judicial deberá allegarse por sí, o bien, a través de las partes o terceros, información suficiente para fijar el monto de la indemnización.
-
-En la resolución en que se ordene la indemnización, se podrá establecer la conducta que hubiere propiciado el error judicial.
-
-En todo caso, se deberá ordenar la publicación en el Periódico Oficial del Estado, de un extracto de la sentencia o de la resolución que declare su absolución, sobreseimiento o reconocimiento de inocencia.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-###### ARTÍCULO 204.
-
-Ejercicio de otras vías. La indemnización que se otorgue en términos del Artículo anterior, no será impedimento para que quien la reciba pueda ejercer otras acciones ante los tribunales competentes por la vía que corresponda.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
-
-###### ARTÍCULO 205.
-
-Obligación indemnizatoria. El Estado pagará la indemnización regulada en este título haciendo uso, preferentemente, del Fondo para la Indemnización de Sentenciados Absueltos; una vez pagada la indemnización, el Poder Ejecutivo, a través de la vía civil correspondiente, podrá exigir la cantidad erogada a los particulares que hayan contribuido al error judicial; tratándose de servidores públicos que hayan intervenido por el ejercicio de sus funciones, se estará a lo dispuesto en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-El Fondo para la Indemnización de Sentenciados Absueltos, únicamente podrá ser destinado a lo establecido por este título y estará integrado por:
-
-I. La aportación anual que se le asigne en el Presupuesto de Egresos del Estado de Aguascalientes;
-
-II. Las aportaciones que para este fin realicen los particulares u organismos privados, públicos y sociales, nacionales e internacionales de manera altruista;
-
-III. Los productos financieros que se obtengan de las inversiones y reinversiones de los recursos asignados al Fondo;
-
-IV. Lo recuperado por el Estado en términos del primer párrafo del presente Artículo; y
-
-V. Los demás ingresos que por ley le sean asignados.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-La Secretaría de Finanzas del Estado, constituirá este Fondo y lo pondrá a disposición del Supremo Tribunal de Justicia del Estado, a fin de que entregue las indemnizaciones correspondientes.
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
-
-En ningún caso, la Secretaría de Finanzas del Estado podrá disponer del capital mediante el que se constituya el Fondo, mismo que se deberá invertir en valores gubernamentales de renta fija del más alto rendimiento, a fin de que se incremente con los intereses que se acumulen.
-
-T R A N S I T O R I O S
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
-
-###### ARTÍCULO SEGUNDO.
-
-Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
-
-###### ARTÍCULO TERCERO.
-
-La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-I.- El 16 de junio de 2014 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-II.- El 5 de enero de 2015 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
-
-III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-IV.- El 1° de junio de 2015 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-V.- El 4 de enero de 2016 en el tercer partido judicial con sede en Pabellón de Arteaga, respecto de la totalidad de hechos punibles;
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-VI.- El 4 de enero de 2016 en el cuarto y quinto partidos judiciales con sede en Rincón de Romos y Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
-
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-VII.- El 18 de junio de 2016, en el primer, segundo, cuarto y quinto partidos judiciales con sede en Aguascalientes, Calvillo, Rincón de Romos y Jesús María, respecto de la totalidad de hechos punibles.
-
-Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
-
-###### ARTÍCULO CUARTO.
-
-Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
-
-###### ARTÍCULO QUINTO.
-
-Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
-
-###### ARTÍCULO SEXTO.
-
-A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
-
-En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
-
-I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
-
-II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
-
-Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
-
-###### ARTÍCULO SÉPTIMO.
-
-El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
-
-###### ARTÍCULO OCTAVO.
-
-A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
-
-Al Ejecutivo para su promulgación y publicación.
-
-Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los catorce días del mes de marzo del año dos mil trece.
-
-Lo que tenemos el honor de comunicar a Usted, para los efectos constitucionales conducentes.
-
-Aguascalientes, Ags., a 14 de marzo del año 2013.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.
-
-LA MESA DIRECTIVA
-
-Dip. Juan Manuel Gómez Morales,
-
-PRESIDENTE
-
-Dip. Jesús Alfredo Nieto Estebanez,
-
-PRIMER SECRETARIO
-
-Dip. Mario Antonio Guevara Palomino,
-
-SEGUNDO SECRETARIO
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 9 de mayo de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 11 DE NOVIEMBRE DE 2013.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 19 DE FEBRERO DE 2014.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 28 DE JULIO DE 2014.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE SEPTIEMBRE DE 2014.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 2 DE FEBRERO DE 2015.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
-
-###### ARTÍCULO TERCERO.
-
-A partir del inicio de la vigencia del presente Decreto, toda referencia al Código de Procedimientos Penales para el Estado de Aguascalientes que se realice en otras leyes, se entenderá hecha al Código Nacional de Procedimientos Penales.
-
-###### ARTÍCULO CUARTO.
-
-Los procedimientos penales iniciados por las conductas descritas en los tipos penales contemplados en los Artículos 122 y 123 del Código Penal para el Estado de Aguascalientes, que se derogan en el presente Decreto, se seguirán en los mismos términos, sin que a ello importe que haya traslación de tipo y sean ahora contemplados con sus mismos elementos típicos y sus mismas sanciones en las modalidades de la violación equiparada del Artículo 120 del mismo ordenamiento.
-
-###### ARTÍCULO QUINTO.
-
-En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, las referencias tanto a la Fiscalía General del Estado como al Fiscal General del Estado del presente Decreto, se entenderán hechas a la Procuraduría General de Justicia y al Procurador General de Justicia respectivamente.
-
-###### ARTÍCULO SEXTO.
-
-En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada (sic) a delitos graves, según sea el caso.
-
-P.O. 23 DE MARZO DE 2015.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 8 DE JUNIO DE 2015.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, a excepción de lo dispuesto por el siguiente Artículo.
-
-###### ARTÍCULO SEGUNDO.
-
-Las reformas a la Ley Orgánica del Poder Judicial iniciarán su vigencia una vez que haya sido instalado el Tribunal Electoral del Estado, en términos del Artículo Séptimo de las disposiciones transitorias del Decreto Número 152 que contiene el Código Electoral del Estado de Aguascalientes.
-
-P.O. 8 DE AGOSTO DE 2016.
-
-### CAPÍTULO V. Decomiso
+### CAPÍTULO IV. DE LOS DESARROLLOS MIXTOS
 
 ###### Artículo 206.
 
@@ -4267,13 +2683,7 @@ Cuando se pretenda llevar a cabo un desarrollo mixto, el interesado lo señalar�
 
 Para los desarrollos mixtos se aplicarán las disposiciones particulares para cada tipo de desarrollo que se establecen en la Ley de Fraccionamientos y el presente Código, en la superficie que corresponda a cada uno de ellos.
 
-### CAPÍTULO VI. Reparación de Daños y Perjuicios
-
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2025)</small>
-
-ARTÍCULO 56 BIS.- Toda persona víctima u ofendida por un delito tiene derecho a la reparación del daño, la cual se hará efectiva en los términos de las disposiciones de este Capítulo, de la Ley General de Víctimas y la Ley de Víctimas del Estado de Aguascalientes.
-
-> <small>(REFORMADO , P.O. 20 DE OCTUBRE DE 2025)</small>
+### CAPÍTULO V. DE LA AUTORIZACIÓN DE LOS FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
@@ -4331,11 +2741,15 @@ La Dirección podrá autorizar la regularización de los fraccionamientos y desa
 
 Para tal efecto, el desarrollador deberá presentar un peritaje sobre las condiciones y características de las obras y construcciones realizadas o en proceso, avalado por un perito urbano, a partir del cual la Dirección podrá autorizar el trámite que proceda a la situación que guarde el desarrollo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 214.
 
-El diseño de los fraccionamientos o desarrollos en condominio, así como su ejecución de acuerdo a la licencia de urbanización, deberán supervisarse con la responsiva de un perito urbano, quien se obliga solidariamente con los desarrolladores en el cumplimiento de todas y cada una de las especificaciones técnicas que establezcan las entidades y dependencias públicas y las que se deriven de la Ley de Fraccionamientos su reglamento y el presente ordenamiento.
+El diseño de los fraccionamientos o desarrollos en condominio, deberán autorizarse previa responsiva de un perito urbano, quien debe verificar el cumplimiento de todas y cada una de las especificaciones técnicas que establezcan las entidades y dependencias públicas y las que se deriven de la Ley de Fraccionamientos su reglamento y el presente ordenamiento.
 
-#### SECCIÓN SEGUNDA. DEL PERITO RESPONSABLE DEL DISEÑO URBANO
+#### SECCIÓN SEGUNDA. DEL PERITO URBANO EN DISEÑO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 215.
 
@@ -4373,7 +2787,7 @@ Las mesas de trabajo contarán con la estructura que se establezca en el instrum
 
 Los acuerdos que tomen las mesas de trabajo serán de carácter obligatorio para los titulares de las Dependencias y Entidades que los conforman en el ámbito de su respectiva competencia, salvo que tengan que ser aprobados por el H. Ayuntamiento, o bien por sus respectivos órganos de gobierno de conformidad con la legislación vigente.
 
-### CAPÍTULO VII. Suspensión, Privación e Inhabilitación de Derechos
+### CAPÍTULO VI. DE LA LICENCIA DE FACTIBILIDAD DE USO DEL SUELO
 
 ###### Artículo 220.
 
@@ -4413,7 +2827,7 @@ Para obtener la Licencia de factibilidad de uso de suelo deberá anexarse la inf
 
 Transcurrido dicho término, la Dirección según corresponda, deberá expedir la licencia correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
-### CAPÍTULO VIII. Medidas de Seguridad
+### CAPÍTULO VII. DEL PROYECTO DE DISEÑO URBANO
 
 ###### Artículo 224.
 
@@ -4551,7 +2965,7 @@ Si los documentos presentados por el desarrollador cumplen con los requisitos le
 
 En ningún caso el dictamen positivo de la Dirección sobre la viabilidad del proyecto de diseño urbano, se considerará como autorización de traza.
 
-### CAPÍTULO IX. Confinamiento y Prohibición de ir a algún lugar o residir en el
+### CAPÍTULO VIII. DE LA AUTORIZACIÓN DE LA TRAZA
 
 ###### Artículo 229.
 
@@ -4565,7 +2979,9 @@ III. Original de el dictamen de impacto ambiental;
 
 IV. Original del dictamen de impacto vial; y,
 
-V. En su caso, los originales o copias legibles de las autorizaciones emitidas por la Dirección, SAPAL y la CFE.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. En su caso, los originales o copias legibles de las factibilidades de dotación de servicio emitidas por la Dirección, SAPAL y la CFE.
 
 ###### Artículo 230.
 
@@ -4601,9 +3017,13 @@ V. Cuando la afectación se derive del trazo de vías públicas, sólo se consid
 
 VI. En cualquier caso las vialidades mencionadas en la fracción anterior, éstas podrán ser tomadas hasta el 50 por ciento como áreas de donación correspondiente al equipamiento urbano siempre y cuando el porcentaje de áreas verdes esté cubierto al 100 por ciento.
 
-Tratándose de fraccionamientos de vivienda de interés social, podrán ser tomadas hasta el 100 por ciento, con la misma condición de que las áreas verdes estén cubiertas en su totalidad, excepción hecha del supuesto que se establece en el párrafo siguiente.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Cuando para la autorización de cualquier tipo de desarrollo exista un plan parcial, éste deberá ser respetado en su totalidad de acuerdo a su aprobación por parte del Ayuntamiento.
+Tratándose de fraccionamientos de vivienda de interés social, podrán ser tomadas hasta el 100 por ciento, con las mismas condicionantes establecidas en el presente artículo, siempre y cuando de dicha operación no se genere adeudo alguno a cargo del Municipio.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Lo anterior, sin perjuicio del plan parcial, aprobado por el Ayuntamiento.
 
 ###### Artículo 235.
 
@@ -4615,7 +3035,7 @@ Una vez otorgada la anuencia por parte de la Comisión de Desarrollo Urbano, la 
 
 Si del análisis realizado por la Dirección, la documental e información presentada por el desarrollador no cumple con los requisitos legales y técnicos requeridos, se notificará fundada y motivadamente al interesado, la negativa sobre la modificación de traza.
 
-### CAPÍTULO X. Aseguramiento, Destrucción y Pérdida de Objetos, Instrumentos y Productos del Delito
+### CAPÍTULO IX. DEL PERMISO PARA TRABAJOS PRELIMINARES
 
 ###### Artículo 236.
 
@@ -4639,6 +3059,10 @@ V. Plano del predio indicando el área a intervenir; y,
 
 VI. Cubrir el costo del permiso de acuerdo a la Ley de Ingresos vigente.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. Solicitud y planos firmados por Perito Urbano en ejecución de obras de urbanización tratándose de fraccionamientos y desarrollos en condominio.
+
 ###### Artículo 238.
 
 El permiso para Trabajos Preliminares establecerá:
@@ -4657,7 +3081,7 @@ Esta autorización en ningún caso se considerará una Licencia de Urbanización
 
 La Dirección podrá otorgar el permiso referido, estableciendo las condicionantes que se consideren necesarias y el plazo en que el interesado debe cumplirlas.
 
-### CAPÍTULO XI. Caución para no Ofender
+### CAPÍTULO X. DE LA LICENCIA DE URBANIZACIÓN
 
 ###### Artículo 241.
 
@@ -4679,6 +3103,10 @@ VII. Proyecto para la construcción e instalación del alumbrado público aproba
 
 VIII. Los proyectos de obras de cabecera.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IX. Proyecto de ejecución de obras para la regulación de aguas pluviales mediante la construcción de uno o varios vasos reguladores y/o tanques de tormenta en caso de ser necesarios, o bien cualquier otra solución técnicamente factible que sea validada por el SAPAL, según sea el área que al efecto se reserve en dicho desarrollo.
+
 ###### Artículo 242.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será de hasta 15 días hábiles, dentro de dicho término, la dirección deberá expedir la licencia de urbanización conforme a los proyectos aprobados o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
@@ -4697,11 +3125,11 @@ Para obtener la certificación de terminación de las obras de edificación, ser
 
 En el caso de los fraccionamientos que se ejecuten por urbanización progresiva, se atenderá a los plazos establecidos en el convenio a que se refiere el artículo 247 del presente código y en la licencia de urbanización respectiva.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 246.
 
 El desarrollador deberá instalar a su costa las señales dentro y fuera del desarrollo, así como las placas de nomenclatura de las calles de acuerdo al proyecto autorizado por la Dirección; de igual forma tratándose de los dispositivos de control de tránsito, el desarrollador deberá instalarlos a su cargo dentro del desarrollo habitacional de que se trate; en el caso de los dispositivos de control que resulte necesario instalar fuera del desarrollo, será obligación de los desarrolladores de manera proporcional de acuerdo al impacto que generen en la zona, según los dictámenes respectivos y de acuerdo a los mecanismos que para tal efecto diseñe la Dirección.
-
-En tratándose de fraccionamientos de interés social, el desarrollador estará obligado a instalar a su costa sólo las señales de tránsito dentro y fuera del desarrollo habitacional de que se trate, así como las placas de nomenclatura de las calles, ello con base en los dictámenes de impacto vial y a los proyectos autorizados por la Dirección.
 
 ###### Artículo 247.
 
@@ -4743,11 +3171,15 @@ Concluido Dicho plazo, se podrá solicitar la renovación de la licencia, previa
 
 Los desarrolladores podrán presentar a la Dirección propuesta para emplear innovación tecnológica sustentable en la ejecución de las obras de urbanización de los desarrollos, para lo cual deberá observarse en lo conducente lo que estatuye el presente Código en el apartado de las construcciones con respecto a la innovación tecnológica en arquitectura y construcción.
 
-### CAPÍTULO XII. Vigilancia de Autoridad
+### CAPÍTULO XI. DEL PERMISO DE VENTA
 
 ###### Artículo 252.
 
 Para obtener el permiso de venta, además de los requisitos señalados en la Ley de Fraccionamientos y el Reglamento de la Ley, el desarrollador deberá acompañar a su solicitud copia certificada de la escritura pública debidamente inscrita en el Registro Público de la Propiedad y del Comercio, en la que conste la transmisión en favor del municipio, de las áreas de donación y de las vialidades libres de gravamen, según se trate de fraccionamientos o desarrollos en condominio.
+
+> <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2012)</small>
+
+Una vez escrituradas las áreas de donación, la Dirección acordara el destino de las mismas, señalando en los términos y en los porcentajes de la normativa aplicable, que fracción será para área verde y cual otra para equipamiento urbano.
 
 ###### Artículo 253.
 
@@ -4781,9 +3213,7 @@ El desarrollador deberá protocolizar el permiso de venta ante notario público 
 
 Tratándose de desarrollos en condominio o de fraccionamientos con edificación, los desarrolladores están obligados a responder frente a sus adquirentes de los desperfectos y vicios ocultos que pudieran sobrevenir en las construcciones, en los términos de la legislación aplicable.
 
-### CAPÍTULO XIII. Consecuencias Jurídicas Aplicables a Personas Jurídicas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+### CAPÍTULO XII. DE LA RELOTIFICACIÓN
 
 ###### Artículo 259.
 
@@ -4811,17 +3241,17 @@ De la misma forma el desarrollador deberá promover la modificación al instrume
 
 Los gastos que se generen con motivo de dichos actos, serán a cargo del mismo desarrollador.
 
-### CAPÍTULO XIV. Delitos Graves que Ameritan Prisión Preventiva Oficiosa
-
-###### ARTÍCULO 75-A.
-
-(DEROGADO, P.O. 31 DE MAYO DE 2021)
+### CAPÍTULO XIII. DE LA ENTREGA RECEPCIÓN
 
 ###### Artículo 263.
 
 Concluidas las obras de urbanización de los fraccionamientos y desarrollos en condominio de conformidad con las autorizaciones otorgadas al efecto, el desarrollador podrá solicitar su recepción a la Dirección, de conformidad con la Ley de Fraccionamientos, el Reglamento de la Ley y demás normativa aplicable.
 
 En el caso de fraccionamientos realizados mediante urbanización progresiva se podrá realizar la recepción de las obras de urbanización conforme se vaya concluyendo cada una de ellas, de acuerdo al convenio celebrado y a la licencia otorgada.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Será materia de la entrega recepción de los desarrollos que las áreas verdes se encuentren debidamente forestadas y equipadas, en los términos de la Ley de Fraccionamientos y demás normativa aplicable.
 
 ###### Artículo 264.
 
@@ -4845,7 +3275,9 @@ Para los efectos de la recepción de las obras de urbanización o equipamiento u
 
 La entrega recepción de las obras de urbanización, podrá efectuarse en lo individual, por cada obra correspondiente a una etapa, sección o bien a la totalidad del desarrollo, según éste se haya autorizado por las dependencias y entidades competentes.
 
-Para los efectos del párrafo que antecede, el supervisor de la Dirección o en su caso el Perito Responsable de la Ejecución de las Obras de Urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de 3 días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término 3 días hábiles y en su caso realizar la entrega recepción de las mismas.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Para los efectos del párrafo que antecede, el supervisor de la Dirección o en su caso el Perito Urbano en Ejecución de Obras de Urbanización, designado por la autoridad para firmar en la bitácora, una vez concluidas las obras, hará constar las observaciones en un término que no exceda de 3 días hábiles y el desarrollador informará su conclusión para que la Dirección proceda a revisarlas dentro de un término 3 (sic) días hábiles y en su caso realizar la entrega recepción de las mismas.
 
 Lo anterior en el entendido de que la garantía otorgada para la terminación de las obras de urbanización, se liberará hasta que el desarrollador realice la formal entrega recepción de todas las obras correspondientes a la Licencia de Urbanización respectiva, según corresponda a una sección, etapa o bien a la totalidad del desarrollo.
 
@@ -4855,9 +3287,11 @@ El monto de la garantía para responder por los desperfectos o vicios ocultos de
 
 El desarrollador deberá otorgar la garantía a que se refiere este artículo dentro de los quince días hábiles posteriores al dictamen positivo de la recepción de las obras que, en su caso, emita la Dirección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 269.
 
-Seis meses previos al vencimiento de la garantía, la Dirección conjuntamente con SAPAL y CFE, llevará a cabo la inspección para verificar el estado y buen funcionamiento de las obras de urbanización.
+Dentro de los diez meses previos al vencimiento de la garantía, la Dirección conjuntamente con SAPAL y CFE, podrá llevar a cabo la inspección para verificar el estado y buen funcionamiento de las obras de urbanización.
 
 Si de la verificación realizada, se detectan desperfectos o inconsistencias en el funcionamiento de las obras de urbanización, dicha dependencia deberá notificarlo al desarrollador, a más tardar quince días después de la inspección, ello a efecto de que proceda a subsanar las observaciones resultantes de la inspección efectuada dentro de los siguientes dos meses.
 
@@ -4865,7 +3299,7 @@ Si de la verificación realizada, se detectan desperfectos o inconsistencias en 
 
 Para la liberación de la garantía, deberá transcurrir un año posterior al acto de Entrega - Recepción, sin que se haya presentado ningún desperfecto y/o vicio de las obras de urbanización, en caso contrario se hará efectiva la garantía otorgada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XIV. DE LAS OBLIGACIONES DE LOS DESARROLLADORES
 
 ###### Artículo 271.
 
@@ -4873,19 +3307,25 @@ Además de las obligaciones señaladas en la Ley de Fraccionamientos y el Reglam
 
 I. Cumplir y ejecutar las indicaciones que se deriven de la supervisión de la Dirección, SAPAL y CFE;
 
-II. Notificar por escrito a la Dirección sobre la designación que haga sobre el Perito Urbano responsable del Proyecto de Diseño Urbano o bien de la ejecución de las obras de urbanización de los fraccionamientos y desarrollos en condominio; notificación que deberá efectuar en la primer gestión que realice ante la Dirección para la obtención de las autorizaciones, licencias y permisos respectivos;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Notificar por escrito a la Dirección sobre la designación que haga sobre el Perito Urbano en Diseño o bien de la ejecución de las obras de urbanización de los fraccionamientos y desarrollos en condominio; notificación que deberá efectuar en la primer gestión que realice ante la Dirección para la obtención de las autorizaciones, licencias y permisos respectivos;
 
 III. Realizar los estudios ordenados por la Dirección, así como llevar a cabo las acciones resultantes de los mismos, cuando en la ejecución de las obras de urbanización de un desarrollo, se hayan detectado factores de riesgo;
 
-IV. Abstenerse de presentar para inscripción ante el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cualquier licencia, permiso o autorización relacionada con el trámite y ejecución de algún fraccionamiento o desarrollo en condominio, diverso al permiso de venta o al de relotificación;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Abstenerse de presentar para inscripción ante el Registro Público de la Propiedad y del Comercio de León, Guanajuato, cualquier licencia, permiso o autorización relacionada con el trámite y ejecución de algún fraccionamiento o desarrollo en condominio, diverso a la autorización de traza, régimen en condominio, permiso de venta o al de relotificación
+
+Para la inscripción de la autorización de traza ante el Registro Público de la Propiedad y del Comercio, el Notario Público encargado de su protocolización en la escritura pública correspondiente deberá describir las áreas que integran el desarrollo, tales como manzanas, lotes y vialidades para efecto de que queden plenamente identificadas además se deberá estipular que la inscripción de dicho trámite no es para efectos de traslados de dominio; para lo cual el Notario Público en la Escritura Pública correspondiente, agregara la leyenda "Folio en trámite, no válido para la realización de traslado de dominio por no contar con permiso de venta".
 
 V. Garantizar el libre tránsito peatonal y vehicular en las áreas destinadas para tal fin, a partir del permiso de venta y hasta la entrega recepción del desarrollo al municipio;
 
 VI. Incluir los datos de la autorización de traza y permiso de venta en todos los actos jurídicos de traslado de dominio que deriven del desarrollo de que se trate; y,
 
-VII. Urbanizar la totalidad y en secciones completas las vialidades internas del desarrollo, así como las vías de enlace con la zona urbanizada más próxima de la ciudad, necesarias para dar acceso al mismo, de acuerdo a los requerimientos identificados en el dictamen de impacto vial, y con las especificaciones que determine la Dirección, excepción hecha de lo que estatuye el artículo 176 de este ordenamiento, cuando el proyecto contemple frentes de vivienda a la vialidad, en tal caso el desarrollador estará obligado a urbanizar la mitad de la sección de la vialidad o el carril de baja velocidad en el supuesto de bulevares.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-Además de lo señalado en el Artículo 62 fracción II de la Ley de Fraccionamientos.
+VII. Urbanizar la totalidad y en secciones completas las vialidades internas del desarrollo, así como las vías de enlace con la zona urbanizada más próxima de la ciudad, necesarias para dar acceso al mismo, de acuerdo a los requerimientos identificados en el dictamen de impacto vial, y con las especificaciones que determine la Dirección, excepción hecha de lo que estatuye el artículo 176 de este ordenamiento, cuando el proyecto contemple frentes de vivienda a la vialidad, en tal caso el desarrollador estará obligado a urbanizar la mitad de la sección de la vialidad o el carril de baja velocidad en el supuesto de bulevares.
 
 El diseño de las vialidades, deberán de realizarse sin excepción alguna con secciones completas.
 
@@ -4899,59 +3339,91 @@ X. Abstenerse de promover la venta o de recibir dinero o cualquier otra prestaci
 
 XI. Informar por escrito al comprador, del contenido de las autorizaciones otorgadas con relación al desarrollo de que se trate, incluyendo el permiso de venta respectivo; indicándole además a quien corresponderá la conservación y mantenimiento de las obras de urbanización, de las áreas de uso común y el pago de los servicios públicos;
 
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
 XII. Debe escriturar las áreas de servicio que se encuentren en el interior del desarrollo a favor del Municipio o la dependencia o entidad pública correspondiente;
+
+Constituir en escritura pública a favor de SAPAL las servidumbres de paso para el drenaje pluvial y el alcantarillado en los desarrollos que por su topografía se requiera que la infraestructura atraviese por predios particulares.
 
 XIII. Asegurar ante la Dirección los instrumentos jurídicos, administrativos y operativos que den garantía a corto, mediano y largo plazo del mantenimiento y conservación del motivo de acceso al momento de solicitar la autorización correspondiente, el cual no debe implicar impacto de inversión pública municipal;
 
 XIV. Presentará las especificaciones técnicas necesarias de las obras complementarias propuestas en las áreas verdes para su validación por parte de la Dirección; y,
 
-XV. Las demás que se establezcan en los ordenamientos legales aplicables en la materia.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-### CAPÍTULO I. Tipos Penales Protectores de la Vida y la Salud Personales
+XV. Realizar los estudios hidrológicos necesarios en los casos que el SAPAL lo haya dictaminado en función de las condiciones topográficas, así como de la consolidación presente y futura de la zona donde se ubique el desarrollo, construyendo para tal efecto los vasos reguladores y/o tanques tormenta que dicho organismo le dictamine; y,
 
-#### SECCIÓN TERCERA. DEL PERITO RESPONSABLE DE LA EJECUCIÓN DE LAS OBRAS DE URBANIZACIÓN
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XVI. Las demás que se establezcan en los ordenamientos legales aplicables en la materia.
+
+### CAPÍTULO XV. DEL PERITO URBANO
+
+#### SECCIÓN TERCERA. DEL PERITO URBANO EN EJECUCIÓN DE OBRAS DE URBANIZACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 272.
 
 El Perito Urbano es el profesionista responsable, persona física que otorga su responsiva para que el diseño de los fraccionamientos y desarrollos en condominio, así como la ejecución de las obras de urbanización de dichos desarrollos habitacionales, se realice conforme a las especificaciones técnicas que establezca la Dirección, SAPAL y la CFE, la Ley de Fraccionamientos, el Reglamento de la Ley, el presente Código y demás normativa aplicable.
 
-En los términos del párrafo precedente, el Perito Urbano tiene el carácter de obligado solidario con los desarrolladores en el cumplimiento de todas y cada una de las obligaciones que a su cargo se deriven de los instrumentos señalados en supra líneas. Dicha obligación solidaria comenzará a surtir sus efectos desde el momento mismo en que el desarrollador haga la designación del Perito Urbano respectivo.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+En los términos del párrafo precedente, el Perito Urbano será responsable de las obligaciones que se deriven de los ordenamientos señalados. Dicha obligación comenzará a surtir sus efectos desde el momento mismo en que el desarrollador haga la designación del Perito Urbano respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 273.
 
-El Perito Urbano, atendiendo al objeto para el cual otorgue su responsiva dentro de los desarrollos habitacionales, se clasifica de la siguiente manera:
+El Perito Urbano, atendiendo al objeto para el cual otorga su responsiva dentro de los desarrollos habitacionales, se clasifica de la siguiente manera:
 
-I. El Perito Responsable del Diseño Urbano: Aquél que otorga su responsiva para los proyectos de diseño urbano de los fraccionamientos y desarrollos en condominio, incluyendo los planos respectivos; y,
+I. El Perito Urbano en Diseño: Es el Profesionista, responsable del Diseño Urbano y de coordinar a los especialistas que participan en el Desarrollo de Proyectos Arquitectónicos Urbanos sustentables desde la óptica de la Planeación Urbana, el Diseño Urbano y del Diseño de Paisaje, capaz de gestionar, coordinar e integrar dentro de la normatividad aplicable, equipos interdisciplinarios en las áreas de Movilidad, Medio Ambiente, Patrimonio Cultural e Histórico, Infraestructura, Equipamiento, Sociología, Economía y Tecnología; así como los necesarios para obtener de la Dirección las autorizaciones correspondientes, para que bajo su responsabilidad como perito se ejecuten los proyectos de diseño urbano de los fraccionamientos y desarrollos en condominio; y,
 
-II. Perito Responsable de la Ejecución de Obras de Urbanización: Es aquél que bajo su responsiva, se ejecutan las obras de urbanización de un fraccionamiento o desarrollo en condominio, quien además coordina a los especialistas que intervienen en ello.
+II. El Perito Urbano en Ejecución de Obras de Urbanización: Es el profesionista especialista que bajo su responsiva, se ejecutan las obras de urbanización de un fraccionamiento o desarrollo en condominio, de acuerdo a las licencias respectivas, quien además coordina a los especialistas que intervienen en ello, hasta la entrega - recepción para la municipalización del desarrollo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 274.
 
-Los cargos de Perito Responsable del Diseño Urbano y Perito Responsable de la Ejecución de las obras de Urbanización, podrán ser ejercidos por el mismo profesionista siempre y cuando cubra los requisitos establecidos en el presente Código.
+Los cargos de Perito en Diseño Urbano y Perito Urbano en Ejecución de Obras de Urbanización, podrán ser ejercidos por el mismo profesionista siempre y cuando cubra los requisitos establecidos en el presente Código.
 
-Los proyectos o trámites realizados por los peritos deberán presentarse ante la Dirección para su autorización, de tal manera que cubriendo los requisitos legales en un término no mayor de dos días hábiles deberán ser aprobados. El Perito Responsable de la Ejecución de las obras de urbanización firmará en la bitácora de obra, de tal manera que su aprobación en cuanto a la terminación hará las veces de inicio de la entrega recepción del desarrollo en los términos establecidos en este Código, sin perjuicio de las facultades y el pago de derechos de la supervisión que tiene a su cargo la Dirección.
+Los proyectos o trámites realizados por los peritos deberán presentarse ante la Dirección para su autorización, de tal manera que cubriendo los requisitos legales en un término no mayor de dos días hábiles deberán ser aprobados. Perito Urbano en Ejecución de Obras de Urbanización firmará en la bitácora de obra, de tal manera que su aprobación en cuanto a la terminación hará las veces de inicio de la entrega recepción del desarrollo en los términos establecidos en este Código, sin perjuicio de las facultades y el pago de derechos de la supervisión que tiene a su cargo la Dirección.
 
 ###### Artículo 275.
 
 El perito urbano para el ejercicio de sus atribuciones, y cualquiera que sea el objeto para el que otorgue su responsiva, deberá estar registrado ante la Dirección, en los términos del presente Código.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 276.
 
-El registro del perito urbano tendrá una vigencia de tres años, el cual podrá refrendarse por iguales periodos.
+El registro de los peritos urbanos tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
 
-Tratándose del refrendo, este deberá solicitarse por escrito con quince días hábiles de anticipación al vencimiento del registro.
+Para el refrendo bianual de los peritos urbanos, los interesados deberán presentar a la Dirección, los siguientes requisitos:
 
-No se autorizará el refrendo del registro cuando el mismo haya sido suspendido.
+I. Datos actualizados; y,
+
+II. Presentar un listado de los desarrollos habitacionales donde haya emitido su responsiva para el diseño o ejecución de obras de urbanización.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 277.
 
-El registro o su refrendo deberá solicitarse por los interesados, previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+El registro de los peritos urbanos, deberá solicitarse por los interesados a la Dirección, reuniendo los requisitos que al efecto establece el presente ordenamiento y previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 278.
 
-La Dirección resolverá sobre la procedencia del registro o refrendo de los peritos urbanos, en un término no mayor a quince días hábiles a partir de que se presenten los requisitos que para cada perito se encuentran previstos en este ordenamiento.
+El consejo como órgano colegiado de carácter permanente, de asesoría y consulta técnica, participara en el registro de los peritos urbanos.
 
-En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro o refrendo.
+En ese sentido, la Dirección comunicara al Consejo dentro del término de 2 días hábiles siguientes, las solicitudes presentadas al tenor del artículo anterior, a efecto de que a través del grupo de trabajo que al efecto éste conforme, analice y rinda su opinión técnica en un término no mayor a 5 días hábiles.
+
+En caso de que el grupo de trabajo conformado por el consejo, no emitiese su recomendación en el plazo establecido en el párrafo que antecede o lo hiciera habiendo transcurrido el mismo, se entenderá que su recomendación es en sentido factible o positivo, por lo que la Dirección resolverá sobre la procedencia del registro de los peritos urbanos, dentro de un término no mayor a 8 días hábiles.
+
+Si el grupo de trabajo conformado por el consejo, hubiese emitido su opinión técnica en los plazos establecidos, la Dirección valorara dicha opinión y resolverá sobre la procedencia del registro en el plazo establecido.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
 
 ###### Artículo 279.
 
@@ -4975,31 +3447,45 @@ La substitución del perito urbano, no exime de su responsabilidad al substituid
 
 El término de las funciones de los peritos urbanos no les exime de la responsabilidad de carácter civil, penal o administrativa que pudiera derivarse de su intervención en los fraccionamientos y desarrollos en condominio para los cuales haya otorgado su responsiva profesional.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 282.
 
-Para obtener el registro como perito responsable del Proyecto de Diseño Urbano, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín a la materia, y deberá presentar ante la Dirección, lo siguiente:
+Para obtener el registro como Perito Urbano en Diseño, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín a la materia, y deberá presentar ante la Dirección, lo siguiente:
 
 I. Solicitud por escrito debidamente completada en los formatos de la Dirección;
 
-II. Documental que avale el requisito señalado en el primer párrafo de este artículo;
+II. Acreditar su experiencia en el Diseño de fraccionamientos y espacios urbanos;
 
-III. Currículum vitae adjuntando la documentación que soporte la información otorgada;
+III. Presentar por escrito y debidamente firmado su Currículum vitae adjuntando la documentación que soporte la información otorgada;
 
-IV. Copia de la cédula profesional; y,
+IV. Copia de la cédula profesional que avale la profesión indicada en el primer párrafo del presente artículo;
 
-V. Dos fotografías tamaño infantil.
+V. Copia de la cédula de especialidad que avale tener en materia de diseño urbano;
+
+VI. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento.
+
+VII. Dos fotografías tamaño infantil.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 283.
 
-El Perito Responsable del Diseño Urbano, tendrá las obligaciones siguientes:
+El Perito de Diseño Urbano, tendrá las obligaciones siguientes:
 
-I. Suscribir las solicitudes y proyectos de diseño urbano así como los planos correspondientes;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-II. Conocer y sujetarse a las disposiciones contenidas en el presente ordenamiento;
+I. Cumplir con lo dispuesto en el presente Código y demás normativa aplicable al proyecto que realiza;
 
-III. Vigilar que se cumplan las condicionantes y especificaciones que establezcan las autoridades competentes, así como la normativa aplicable, en los instrumentos referidos en la fracción anterior;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Suscribir las solicitudes y proyectos de diseño urbano así como los planos y memorias correspondientes;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Vigilar que se cumplan las condicionantes y especificaciones que establezcan las autoridades competentes, así como la normativa aplicable;
 
 IV. Cumplir con las obligaciones que se deriven de los trámites y autorizaciones relacionados con la aprobación de traza;
 
@@ -5011,31 +3497,43 @@ VII. Contar con registro vigente ante la Dirección; y,
 
 VIII. Las demás que se deriven de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código en materia del diseño de los fraccionamientos y desarrollos en condominio.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
 #### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN PARA OBRAS NUEVAS
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 284.
 
-Para obtener el registro como perito responsable de la ejecución de obras de urbanización, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín, en este último supuesto deberá contar con estudios de especialización en materia de ejecución de obras de urbanización.
+Para obtener el registro como Perito Urbano en Ejecución de Obras de Urbanización, el interesado deberá acreditar ser arquitecto, ingeniero civil o tener una profesión afín, y deberá presentar ante la Dirección, lo siguiente:
 
 El interesado en la obtención de este registro, deberá presentar ante la Dirección lo siguiente:
 
 I. Solicitud por escrito debidamente completada en los formatos de la Dirección;
 
-II. Documental que avale el requisito señalado en el primer párrafo de este artículo;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-III. Acreditar experiencia en la materia;
+II. Acreditar su experiencia en la ejecución de obras de urbanización;
 
-IV. Currículum vitae adjuntando la documentación que soporte la información otorgada;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-V. Copia de la cédula profesional; y,
+III. Presentar por escrito y debidamente firmado su Currículum vitae adjuntando la documentación que soporte la información otorgada;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Copia de la cédula profesional que avale la profesión indicada en el primer párrafo del presente artículo;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento; y,
 
 VI. Dos fotografías tamaño infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 285.
 
-El Perito Responsable de la Ejecución de Obras de Urbanización, tendrá las obligaciones siguientes:
+El Perito Urbano en Ejecución de Obras de Urbanización, tendrá las obligaciones siguientes:
 
 I. Suscribir las solicitudes y proyectos de obras de urbanización, así como los planos correspondientes;
 
@@ -5043,9 +3541,13 @@ II. Llevar a cabo la supervisión del desarrollo y vigilar que se cumplan las co
 
 III. Cumplir con las obligaciones que se deriven de los trámites y autorizaciones relacionados con la licencia de urbanización;
 
-IV. Conocer y sujetarse a las disposiciones contenidas en el presente ordenamiento;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-V. Asegurarse que las obras de urbanización y edificación del desarrollo se realicen conforme a los permisos, licencias y autorizaciones expedidas, a las normas técnicas establecidas en el presente ordenamiento, así como en apego a las especificaciones técnico constructivas que establezca la Dirección, SAPAL y CFE, y demás disposiciones legales o reglamentarias, a fin de asegurar en dichas construcciones condiciones optimas de durabilidad, calidad funcionalidad y mantenimiento;
+IV. Cumplir con lo dispuesto en el presente Código y demás normativa aplicable al proyecto que realiza;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. Asegurarse que las obras de urbanización y edificación del desarrollo se realicen conforme a los permisos, licencias y autorizaciones expedidas, a las normas técnicas aplicables, así como en apego a las especificaciones técnico constructivas que establezca la Dirección, SAPAL y CFE, y demás disposiciones legales o reglamentarias, a fin de asegurar en dichas construcciones condiciones optimas de durabilidad, calidad, funcionalidad y mantenimiento;
 
 VI. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
 
@@ -5063,27 +3565,131 @@ XII. Responder por cualquier violación u omisión a las disposiciones de la Ley
 
 XIII. Contar con registro vigente ante la Dirección;
 
-XIV. Colocar en un lugar visible del desarrollo, la información relativa a las autorizaciones con que cuenta el desarrollo, así como los datos generales de la obra, el nombre y registro del perito responsable de la ejecución de obras de urbanización;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+XIV. Colocar en un lugar visible del desarrollo, la información relativa a las autorizaciones con que cuenta el desarrollo, así como los datos generales de la obra, el nombre y registro del Perito Urbano en Ejecución de Obras de Urbanización;
 
 XV. Colocar en la obra, además de la bitácora, copia de las licencias, permisos y autorizaciones otorgados con motivo del desarrollo; y,
 
 XVI. Las demás que se deriven de la Ley de Fraccionamientos, el Reglamento de la Ley y el presente Código en materia de ejecución de obras de urbanización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 286.
 
-El contenido o resultado de los estudios, dictámenes, proyectos, planos y demás documentos que suscriba el perito responsable de la ejecución de obras de urbanización con motivo de su desempeño, son su responsabilidad.
+El contenido o resultado de los estudios, dictámenes, proyectos, planos y demás documentos que suscriba el Perito Urbano en Ejecución de Obras de Urbanización con motivo de su desempeño, son su responsabilidad.
 
 Lo anterior, sin perjuicio de las atribuciones que legalmente correspondan a la Dirección, SAPAL y CFE, quienes asimismo podrán supervisar y verificar en cualquier momento la veracidad de la información proporcionada por el perito urbano, así como la correcta realización de los trabajos constructivos y de edificación del desarrollo de que se trate.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 287.
 
-La recepción del desarrollo de que se trate, no exime de responsabilidad al perito responsable de la ejecución de obras de urbanización, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativa que pudiera derivarse por la actividad para la cual haya otorgado su responsiva profesional.
+La recepción del desarrollo de que se trate, no exime de responsabilidad al Perito Urbano en Ejecución de Obras de Urbanización, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativa que pudiera derivarse por la actividad para la cual haya otorgado su responsiva profesional.
 
-### CAPÍTULO II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 2012)</small>
 
-## TÍTULO CUARTO. CONSECUENCIAS JURIDICAS DEL DELITO
+### CAPITULO XVI. DEL PERITO TOPÓGRAFO
 
-### CAPÍTULO III. Tipos Penales Protectores de la Familia
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - A.
+
+El Perito Topógrafo es el profesionista que otorga su responsiva sobre la forma, dimensiones, representaciones y probables adecuaciones de un terreno o superficie, representada en planos.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - B.
+
+El perito topógrafo deberá registrarse ante la Dirección, cumpliendo para ello con los requisitos siguientes:
+
+I. Solicitud debidamente completada;
+
+II. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio nacional;
+
+III. Cédula Profesional que lo acredite como arquitecto, ingeniero civil, ingeniero arquitecto o ingeniero topógrafo en copia y original para cotejo;
+
+IV. Acreditar su pertenencia como miembro vigente del colegio de su profesión;
+
+V. Acreditar experiencia en procedimientos para establecer la posición de un punto referente la (sic) superficie de la Tierra, tanto en geodesia como en topografía, así como en la planeación, organización, dirección y ejecución en la áreas de Geomática, Sistemas de Información Geográfica, Cartografía, Geodesia, Topografía, Fotogrametría y Ciencia afines, con el objeto de establecer el marco geográfico y geométrico de referencia en todos los proyectos en que se apliquen estas disciplinas.
+
+VI. Presentar por escrito y debidamente firmado, su currículum vitae;
+
+VII. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento;
+
+VIII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes; y,
+
+IX. Dos fotografías tamaño infantil.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - C.
+
+Los requisitos en el artículo anterior, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se (sic) encuentren registrados ante la Dirección.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - D.
+
+La Dirección resolverá sobre la solicitud del registro, en un término no mayor a quince días hábiles contados a partir de la fecha de recepción de la misma; previa substanciación del procedimiento que se establece en el presente código para el registro de los Peritos Urbanos.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - E.
+
+El registro como Perito Topógrafo, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - F.
+
+Para el refrendo bianual del Perito Topógrafo, deberá presentarse a la Dirección, los siguientes requisitos:
+
+I. Datos actualizados; y,
+
+II. Presentar un listado de las actividades para las que emitió su responsiva.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - G.
+
+La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - H.
+
+El Perito Topógrafo, tiene las obligaciones siguientes:
+
+I. Observar lo dispuesto por el presente Código y demás normativa aplicable al proyecto que realiza;
+
+II. Conducirse con veracidad en toda clase de informes que entregue al DRO y documentos que suscriba;
+
+III. Aplicar las Normas Técnicas que considere necesarias y convenientes para el proyecto que diseñe;
+
+IV. Diseñar o proyectar en función de los usuarios y el uso de suelo autorizado;
+
+V. Diseñar o proyectar tomando en cuenta los posibles impactos, para que sean mínimos y mitigables;
+
+VI. Promover en sus proyectos acciones de sustentabilidad y aprovechamiento de los recursos naturales;
+
+VII. Entregar los planos, memoria, estudios y resoluciones de dictámenes de otras dependencias;
+
+VIII. Contar con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los proyectos demandan; y,
+
+IX. Suscribir los planos, proyectos, memoria, estudios y demás documentos que elabore.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 287 - I.
+
+El Perito Topógrafo, podrá intervenir en el apartado de construcciones, para lo cual se aplicará en lo conducente lo que establece el Título Cuarto del presente Código.
+
+## TÍTULO CUARTO. DE LAS CONSTRUCCIONES
+
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 288.
 
@@ -5093,9 +3699,13 @@ I. Regular el procedimiento para expedir la licencia de construcción en sus div
 
 II. Definir los procesos de control de las construcciones en el Municipio;
 
-III. Determinar el procedimiento para el registro de los Proyectistas y DRO, precisando requisitos, supuestos para la admisión y refrendo, así como tiempos de respuesta;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-IV. Definir las obligaciones, atribuciones y alcances sobre las responsabilidades de los Proyectistas y DRO;
+III. Determinar el procedimiento para el registro del DRO, proyectista arquitectónico y proyectista estructural, precisando requisitos, supuestos para la admisión y refrendo, así como tiempos de respuesta;
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Definir las obligaciones, atribuciones y alcances sobre las responsabilidades de los proyectistas arquitectónicos, proyectistas estructurales, peritos topógrafos y DRO;
 
 V. Precisar las responsabilidades de los particulares o poseedores con respecto a las construcciones;
 
@@ -5103,21 +3713,25 @@ VI. Establecer las normas específicas que deberán observarse en la supervisió
 
 VII. Regular la arquitectura ecológica, así como la innovación tecnológica en arquitectura y construcción.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 289.
 
 La planeación y la ejecución de las obras de construcción que impliquen ampliación, remodelación, conservación, restauración, reconstrucción, reestructuración y demolición, de cualquier género de edificaciones o construcciones, públicas o privadas, se sujetarán a lo previsto en el presente Código para la Licencia de Construcción, al Manual Técnico de las Construcciones y demás normativa aplicable.
 
-Excepción hecha de aquellas ampliaciones relativas a la techumbre en zonas habitacionales que incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y que no implique edificación alguna por encima de ellas. En tal caso si deberá obtenerse la licencia respectiva, pero no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 290.
 
-La dirección y ejecución de un proyecto de construcción o parte de él, deberá realizarse bajo la responsiva de un Proyectista o un DRO, de conformidad con lo dispuesto por el presente Código y el Manual técnico de las construcciones, con las excepciones que sobre esa responsiva se establecen en dichos instrumentos.
+La dirección y ejecución de un proyecto de construcción o parte de él, deberá realizarse bajo la responsiva de un DRO, de conformidad con lo dispuesto por el presente Código y el Manual técnico de las construcciones, instituyéndose como figura única responsable ante la Dirección y ante los propietarios o poseedores que lo contraten, con respecto a los proyectos en que tenga participación.
 
-### CAPÍTULO IV. Tipos Penales Protectores de la Libertad y Seguridad de las Personas
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 290 - A.
+
+En los proyectos de construcción que presenten los DRO sobre cualquier tipo de edificaciones, excepción hecha de casas habitación unifamiliares, se deberán de contemplar en lugares visibles, la señalización y equipo adecuado, así como los instructivos para casos de emergencia, en los que se consignarán las reglas que deberán observarse antes, durante y después del siniestro o desastre; asimismo, deberán señalarse las zonas de seguridad y las rutas de evacuación.
+
+### CAPÍTULO II. DE LA LICENCIA DE CONSTRUCCIÓN
 
 #### SECCIÓN TERCERA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AMPLIACIONES
 
@@ -5153,47 +3767,29 @@ VIII. Especiales.
 
 Las fracciones previstas en el presente artículo, constituyen en sí mismas modalidades de la Licencia de construcción, dada la particularidad que ostentan en materia de requisitos para su obtención, alcances y supuestos en que habrán de expedirse, ello de conformidad con lo establecido en este Código.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
-
 ###### Artículo 293.
 
-Se requiere Licencia de Construcción para cualquiera de las modalidades señaladas en el artículo anterior, sin planos básicos mínimos y sin necesidad de Proyectista, ni responsiva de un DRO, en los siguientes casos:
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-I. Los usos habitacionales de tipo horizontal independientemente del régimen de propiedad, que se clasifiquen como H-5, H-6, H-7, H-8, excepto en la zona de centro histórico y la construcción de Conjuntos Habitacionales, ya sea fraccionamientos o desarrollos en condominio;
-
-II. Comercios y servicios de intensidad mínima y baja, hasta 90 metros cuadrados de construcción;
-
-III. Talleres familiares, hasta 90 metros cuadrados de construcción;
-
-IV. Las autoconstrucciones; y,
-
-V. Las ampliaciones relativas a la techumbre en zonas habitacionales, siempre y cuando éstas incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y que no implique edificación alguna por encima de ellas.
-
-Independientemente de que el solicitante sea propietario o poseedor, de más de un inmueble, la facilidad administrativa prevista por la fracción I de este artículo, operará únicamente para uno de ellos, siempre y cuando la construcción no exceda de 90 metros cuadrados.
-
-Los metros cuadrados de construcción enunciadas en las fracciones II y III de este artículo, se consideraran como totales por lo que no podrán ser rebasados, aun tratándose de ampliaciones pues en el caso de estas últimas, se considerara tanto la edificación existente como el proyecto de ampliación.
-
-Estos usos deberán llenar un formato en el que se indiquen las actividades de construcción que realizarán, presentando un croquis donde se especifiquen los espacios que conformarán su construcción.
-
-Lo anterior sin perjuicio de que se puedan realizar los planos arquitectónicos a través de programas de servicio social profesional gratuito, que presten estudiantes de la rama de arquitectura o cualquier otra afín, autorizados por la institución educativa a la que pertenecen, como parte del servicio social universitario en actividades de supervisión de obra o realización de planos. De igual forma será optativo para el particular solicitar los planos básicos mínimos necesarios ante los diversos colegios de profesionistas existentes en el Municipio, quienes deberán expedirlos sin costo alguno.
-
-En los casos previstos por las fracciones de este artículo, las responsabilidades recaerán directamente sobre el propietario o poseedor, por lo que éstos deberán tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 293 - A.
 
-Tratándose de los usos habitacionales que no se encuentren comprendidos en la fracción I del artículo anterior, se requerirá licencia de construcción sea cual fuere su modalidad, y deberá presentarse la responsiva del DRO, y los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos; sin necesidad de proyectista.
+La responsiva que otorgue el DRO, abarcará la validación de la parte estructural y de proyecto que implique la construcción en cualquiera de las modalidades que señala el artículo 292 de este Código.
 
-En el entendido de que la responsiva que otorgue el DRO, abarcará la validación de la parte estructural y de proyecto que implique la construcción en cualquiera de las modalidades que señala el artículo 292 de este Código.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 294.
 
-No requieren de Licencia de Construcción las restauraciones, la conservación y/o remodelaciones de las Construcciones, siempre y cuando el inmueble a intervenir no se encuentre dentro de la zona de Patrimonio Histórico, ni se encuentre dentro del catálogo del INAH.
+No requieren de Licencia de Construcción la conservación y/o remodelaciones de las Construcciones, siempre y cuando el inmueble a intervenir no se encuentre dentro de la zona de Patrimonio Histórico, ni se encuentre dentro del catálogo del INAH.
+
+Tratándose de restauraciones sobre inmuebles catalogados, deberá obtenerse el visto bueno del INAH.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 295.
 
-Para los efectos del artículo que antecede, se consideran acciones de restauración, conservación y remodelación, las señaladas en las fracciones de este artículo siempre y cuando, no se modifique ni afecte la estructura del inmueble, no exista aumento de la superficie cubierta construida y no se cambie total o parcialmente el uso o destino del inmueble:
+Para los efectos del artículo que antecede, se consideran acciones de conservación y remodelación, las señaladas en las fracciones de este artículo siempre y cuando, no se modifique ni afecte la estructura del inmueble, no exista aumento de la superficie cubierta construida y no se cambie total o parcialmente el uso o destino del inmueble:
 
 I. Resanes y aplanados de interiores;
 
@@ -5233,9 +3829,9 @@ VI. Cubrir el costo de la Licencia de acuerdo a la Ley de Ingresos vigente, exce
 
 VII. Cumplir con la normativa en materia de usos del suelo.
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-VIII. Presentar los planos básicos mínimos que en su caso se establezcan en el presente Código, en el Manual Técnico de las Construcciones y los anexos de éste último, excepto los casos previstos por el artículo 293 del presente Código.
+VIII.- Presentar los planos básicos mínimos que en su caso se establezcan en el presente Código, en el Manual Técnico de las Construcciones y los anexos de éste último.
 
 ###### Artículo 297.
 
@@ -5273,8 +3869,6 @@ Los propietarios o poseedores estarán obligados a efectuar las reparaciones cor
 
 Tratándose de Obra Nueva para Uso Habitacional Unifamiliar, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción, se requerirán tres copias de los planos básicos mínimos de acuerdo al Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, así como por el DRO.
 
-Quedarán exceptuado de lo anterior, los supuestos previstos por el artículo 293 y 293 - A del presente Código.
-
 ###### Artículo 300.
 
 En el caso de Obra Nueva para Uso no Habitacional, Individual o de una Sola Unidad, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción, se requerirá lo siguiente:
@@ -5283,7 +3877,9 @@ I. Original y copia de la Información de Uso de Suelo;
 
 II. Original y copia de las resoluciones positivas, oficio y/o plano, de acuerdo a la normativa aplicable; y,
 
-III. Tres copias del proyecto, con los planos requeridos de acuerdo al uso autorizado según la tabla de requerimientos de Proyectistas, DRO, y Servicio Social, del Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el Proyectista registrado ante la Dirección en su caso.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III.- Tres copias del proyecto, con los planos requeridos de acuerdo al uso autorizado según la Tabla de Requerimientos de Corresponsables, DRO, y Servicio Social, del Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, así como por los corresponsables en su caso.
 
 ###### Artículo 301.
 
@@ -5293,11 +3889,13 @@ I. Original y copia de la Información de Uso de Suelo;
 
 II. Original y copia de las resoluciones positivas, oficio y/o plano, solicitadas en la Información de Uso de Suelo; y,
 
-III. Tres copias del proyecto, con los planos requeridos de acuerdo a este tipo de licencias según la tabla de requerimientos de Proyectistas, DRO y Servicio Social, Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el Proyectista registrado ante la Dirección, en su caso.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III.- Tres copias del proyecto, con los planos requeridos de acuerdo a este tipo de licencias según la tabla de requerimientos de Corresponsables, DRO y Servicio Social, Manual Técnico de las Construcciones, firmados por el propietario y/o poseedor, y por el corresponsable registrado ante la Dirección, en su caso.
 
 #### SECCIÓN QUINTA. DE LA LICENCIA DE CONSTRUCCIÓN PARA REESTRUCTURACIONES
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 302.
 
@@ -5309,17 +3907,19 @@ I. Copia de permisos y planos anteriores o copia del avalúo catastral o levanta
 
 II. Tres copias del proyecto de ampliación, diferenciando las áreas existentes de la ampliación, firmados por el propietario y/o poseedor, y por el DRO en su caso.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 302 - A.
 
-Tratándose de ampliaciones en zonas habitacionales de tipo horizontal, independientemente del régimen de propiedad, se seguirán las siguientes normas:
+La responsiva del DRO, de los corresponsables, y de los planos básicos mínimos que establece el anexo 1 del manual técnico de las construcciones de este Código, deberán ser proporcionados por parte de los colegios de profesionistas, de manera gratuita y sin distinción alguna a los interesados, cuando se trate de ampliaciones por techumbre en zonas habitacionales, que cumplan con los requisitos siguientes:
 
-l. Para los inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se encuentren dentro de usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, no se requerirán planos básicos mínimos, Proyectista, ni responsiva de un DRO;
+I.- Incrementen como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble;
 
-II. Para los usos habitacionales que no se encuentren comprendidos en la fracción anterior, se deberán presentar los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos, con la responsiva de un DRO; ello sin necesidad del aval de un proyectista; y,
+II.- Que no impliquen edificación alguna por encima de ellas; y,
 
-III. Para las ampliaciones relativas a la techumbre en zonas habitacionales, independientemente del grupo de uso de suelo donde se ubiquen, no se requerirán planos básicos mínimos, ni responsiva de proyectista o DRO, si éstas incrementan como máximo 60 metros cuadrados de la superficie cubierta construida en el inmueble y no impliquen edificación alguna por encima de ellas.
+III.- Que no se tengan claros mayores a 4 metros entre apoyos principales.
+
+Para las ampliaciones en usos habitacionales que no se encuentren comprendidos en el supuesto que establece el presente artículo, el interesado deberá contratar a su costa, los servicios del DRO y los corresponsables, así como la elaboración de los planos básicos mínimos que refiere el Manual Técnico de las Construcciones y sus anexos.
 
 ###### Artículo 303.
 
@@ -5357,11 +3957,11 @@ Para la autorización de las reconstrucciones, se requerirá cubrir los requisit
 
 #### SECCIÓN SEPTIMA. DE LA LICENCIA DE CONSTRUCCIÓN PARA AUTOCONSTRUCCIÓN
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 306.
 
 La Reestructuración implica modificar o afectar la estructura de una construcción existente, exclusivamente; y para su otorgamiento, además de los requisitos comunes que señala el presente Código para las Licencias de Construcción se requerirán tres copias del proyecto, indicando los elementos que se reestructuran. El proyecto en este caso deberá estar firmado por el propietario y/o poseedor, y por un profesionista o especialista en proyectos estructurales y la obra deberá contar con un DRO.
-
-Quedarán exceptuado de lo anterior, los supuestos previstos por el artículo 293 y 293 - A del presente Código.
 
 ###### Artículo 307.
 
@@ -5389,11 +3989,15 @@ Para las restauraciones de bienes inmuebles referidos en el artículo anterior, 
 
 Se podrá autorizar la Autoconstrucción siempre y cuando se actualicen la totalidad de los supuestos siguientes:
 
-I. Que el Uso de Suelo sea para vivienda unifamiliar, con una superficie no mayor a 60 metros cuadrados;
+I. Que el Uso de Suelo sea para vivienda unifamiliar, con una superficie de terreno no mayor a 60 metros cuadrados y que el área de construcción no exceda de 90 metros cuadrados;
 
-II. Que el inmueble se localice en zonas habitacionales H5, H6, H7, H8 y HR; y,
+II. Que el inmueble se localice en zonas habitacionales H5, H6, H7, H8 y HR;
 
-III. Que los fraccionamientos estén autorizados o regularizados y cuenten con Servicios Municipales de Agua Potable, drenaje y electricidad a excepción de los de urbanización progresiva, los cuales deberán contar con las obras mínimas de urbanización que estatuye la Ley de Fraccionamientos.
+III. Que los fraccionamientos estén autorizados o regularizados y cuenten con Servicios Municipales de Agua Potable, drenaje y electricidad a excepción de los de urbanización progresiva, los cuales deberán contar con las obras mínimas de urbanización que estatuye la Ley de Fraccionamientos;
+
+IV. No se tengan claros mayores a 4 metros entre apoyos principales;
+
+Los 90 metros cuadrados de construcción enunciados en la fracción I de este artículo, se consideraran como totales por lo que no podrán ser rebasados, aun tratándose de ampliaciones pues en el caso de estas últimas, se considerara tanto la edificación existente como el proyecto de ampliación.
 
 ###### Artículo 311.
 
@@ -5401,13 +4005,17 @@ Para la obtención de la Licencia de Autoconstrucción, además de los requisito
 
 Para los efectos del párrafo anterior, será necesario que la Licencia de Alineamiento y asignación del número oficial, que en su momento se adjunte, ésta sea de acuerdo a la lista de Fraccionamientos que la Dirección emita.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 312.
 
-La Licencia Construcción en la modalidad de autoconstrucción, será gratuita y ninguna persona podrá resultar beneficiada con una Licencia en más de un predio.
+La Licencia de Construcción en la modalidad de autoconstrucción, será gratuita y no podrá otorgarse más de una licencia en dicha modalidad, en el mismo predio. Y los niveles de la construcción no podrán ser más de dos.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 313.
 
-La Dirección entregará al propietario o poseedor conjuntamente con la Licencia de Autoconstrucción un Manual de Autoconstrucción de manera gratuita.
+En las autoconstrucciones que cumplan con los requisitos señalados en el artículo 310 del presente ordenamiento, la responsiva del DRO, de los corresponsables, y de los planos básicos mínimos que establece el anexo 1 del manual técnico de las construcciones de este Código, deberán ser proporcionados por parte de los colegios de profesionistas, de manera gratuita y sin distinción alguna a los interesados.
 
 #### SECCIÓN DECIMA. DE SU EXPEDICIÓN, VIGENCIA Y REFRENDO
 
@@ -5429,11 +4037,11 @@ V. Autorización correspondiente de la Autoridad Estatal o Federal en el caso de
 
 Para efectuar obras de demolición de edificaciones peligrosas o ruinosas, adjunto a la solicitud respectiva se deberá acompañar una memoria en que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el profesionista o especialista en proyecto estructural.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 315 - A.
 
-Tratándose de inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se ubiquen en usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, las obligaciones a que se refiere la fracción IV del artículo 314 y 315 del presente ordenamiento, serán asumidas directamente por el propietario y/o poseedor. Para los demás grupos de uso habitacionales, sólo se deberá presentar la responsiva del DRO, la cual abarcará la validación del proyecto de demolición, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
+Para los grupos de uso habitacionales, sólo se deberá presentar la responsiva del DRO, la cual abarcará la validación del proyecto de demolición, así como el procedimiento y las medidas de seguridad que se vayan a emplear en tratándose de edificaciones peligrosas o ruinosas.
 
 #### SECCIÓN DÉCIMA PRIMERA. DISPOSICIONES COMPLEMENTARIAS
 
@@ -5461,7 +4069,7 @@ I. Tres copias de los planos necesarios que indiquen los trabajos que se realiza
 
 II. Memoria en que se especifique el procedimiento y las medidas de seguridad que se vayan a emplear, avaladas por el especialista respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2011)</small>
 
 ###### Artículo 318.
 
@@ -5507,6 +4115,10 @@ II. Copia de Identificación oficial del Propietario o poseedor; y,
 
 III. Cubrir el costo de la licencia de acuerdo a la Ley de Ingresos vigente.
 
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. Solicitud y planos firmados por DRO en casos de edificación; y,
+
 ###### Artículo 323.
 
 La Licencia para realización de Trabajos Preliminares y de Cimentación establecerá:
@@ -5515,29 +4127,37 @@ I. Las condicionantes necesarias para su ejecución; y,
 
 II. El plazo en que el interesado habrá de integrar el expediente para la autorización de la Licencia de Construcción en su modalidad de Obra Nueva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 324.
 
-La vigencia de la Licencia para realización de Trabajos Preliminares y de Cimentación, será de 45 días.
+La Licencia para realización de Trabajos Preliminares y de Cimentación, estará vigente por el mismo plazo que se otorgó al particular para integrar el expediente para la obtención de la licencia de construcción; pudiendo prorrogarse a criterio de la Dirección.
 
 Esta autorización en ningún caso se considerará una Licencia de Construcción, por lo que el solicitante deberá continuar con los trámites para su obtención.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 325.
 
-En caso de que el solicitante no obtenga la Licencia de Construcción durante los 45 días de vigencia de la Licencia para realización de Trabajos Preliminares y de Cimentación, podrá otorgarse, por una sola ocasión, prórroga de 45 días más, únicamente tratándose de construcciones que excedan los 500 metros cuadrados de construcción.
+En caso de que el solicitante no obtenga la Licencia de Construcción en el tiempo determinado por la Dirección, podrá otorgarse prórroga por una sola ocasión de la licencia para la realización de trabajos preliminares, tratándose de construcciones que excedan los 500 metros cuadrados de construcción.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL PROYECTISTA
+#### SECCIÓN SEGUNDA. DE LOS ESPECIALISTAS ESTRUCTURALES
 
-#### SECCIÓN TERCERA. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL DIRECTOR RESPONSABLE DE OBRA
+#### SECCIÓN TERCERA. DE LAS SOLICITUDES DE LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 ###### Artículo 326.
 
-Sin perjuicio de la licencia de construcción expedida, la Dirección analizará en un plazo máximo de 10 días hábiles, de manera interna el expediente recibido, verificando que se hayan cumplido en los planos las normas técnicas correspondientes y aplicables de acuerdo al proyecto y que la información sea verdadera. En caso de que los planos infrinjan los requisitos solicitados en las normas técnicas aplicables y las resoluciones emitidas por otras dependencias; la información carezca de veracidad; se haya actuado con negligencia, dolo o ignorancia, se avisará al propietario, poseedor y/o proyectista para que reparen los daños. Lo anterior independientemente de las sanciones aplicables a quien resulte responsable y las sanciones respectivas que resulten en consecuencia.
+(DEROGADO, P.O. 31 DE ENERO DE 2012)
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 327.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos que establece el presente Código para cada una de las modalidades de la Licencia de Construcción, será un plazo máximo de hasta 5 días. Dentro de dicho término, la Dirección deberá expedir la licencia correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
+
+Lo anterior en el entendido que la validación de la parte estructural y de todo el proyecto que implica la construcción en cualquiera de sus modalidades, la otorga el DRO a través de su responsiva, y esta se verifica y convalida por parte de la autoridad con el resultado de la revisión y análisis que la Dirección efectúa al amparo del artículo 332 - A de este ordenamiento.
 
 Tratándose de inmuebles comprendidos dentro de los grupos de usos a que se refiere el Anexo número 2 del presente Código identificado como Tabla de Giros del Sistema de Apertura Rápida de Empresas con actividades de intensidad mínima, baja y media, la Dirección expedirá la licencia correspondiente el mismo día en que fue solicitada, siempre y cuando se hubiesen presentado todos los requisitos, o en su caso, deberá notificar al particular dentro de ese mismo término, la negativa de la misma, fundando y motivando su resolución.
 
@@ -5551,7 +4171,9 @@ La licencia, memorias, planos y especificaciones aprobados, se entregarán al in
 
 Si en un plazo de 30 días a partir de su aprobación, la licencia no se expide por falta de pago de dichos derechos, será cancelada la solicitud correspondiente, se dará de baja el expediente, se le colocará el sello de cancelado a la solicitud de la licencia y el expediente será enviado al archivo general.
 
-Lo anterior sin perjuicio de las sanciones a que se haga acreedor el propietario, poseedor y/o proyectista por infracciones a la normativa aplicable aún cuando la solicitud haya sido cancelada.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Lo anterior sin perjuicio de las sanciones a que se haga acreedor el propietario, poseedor y/o DRO por infracciones a la normativa aplicable aún cuando la solicitud haya sido cancelada.
 
 En este supuesto, el propietario o poseedor deberá tramitar nuevamente la licencia.
 
@@ -5569,7 +4191,17 @@ Si concluido el plazo de vigencia de la Licencia de Construcción, la obra autor
 
 El refrendo deberá solicitarse dentro de los 15 días hábiles previos a la fecha de vencimiento de la Licencia; concluido dicho término, será necesario obtener nueva licencia para continuar la construcción.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 332 - A.
+
+Sin perjuicio de la licencia de construcción expedida, la Dirección analizará en un plazo máximo de 15 días hábiles, de manera interna el expediente recibido, verificando que se hayan cumplido en los planos las normas técnicas correspondientes y aplicables de acuerdo al proyecto y que la información sea verdadera.
+
+En caso de que los planos infrinjan los requisitos solicitados en las normas técnicas aplicables y las resoluciones emitidas por otras dependencias; la información carezca de veracidad; se haya actuado con negligencia, dolo o ignorancia, se comunicarán las inconsistencias encontradas por una sola ocasión al propietario, poseedor y/o DRO para su solventación y en su caso reparación de los daños.
+
+Lo anterior independientemente de las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse.
+
+#### SECCIÓN CUARTA. DE LAS LICENCIAS
 
 ###### Artículo 333.
 
@@ -5609,7 +4241,7 @@ Cuando se trate de obras o instalaciones en zonas de protección de monumentos o
 
 Las licencias, autorizaciones o permisos de otras dependencias de acuerdo a lo que señale la información de Uso de Suelo, deberán presentarse para la autorización de la Licencia de Construcción a que se refiere este ordenamiento y al momento de solicitar la Certificación de Terminación de Obra.
 
-### CAPÍTULO V. Tipos Penales Protectores del Patrimonio
+### CAPÍTULO III. AUTORIZACIÓN DE OCUPACIÓN DE OBRAS NO TERMINADAS O EN PROCESO DE CONSTRUCCIÓN EN USOS HABITACIONALES
 
 ###### Artículo 342.
 
@@ -5631,7 +4263,7 @@ II. Copia de Identificación oficial del Propietario o poseedor.
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos para esta autorización, será de un plazo máximo de 5 días hábiles; dentro de dicho término, la Dirección deberá expedir la autorización correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
-### CAPÍTULO VI. Tipos Penales Protectores de la Estética Urbana
+### CAPÍTULO IV. DE LA CERTIFICACIÓN DE TERMINACIÓN DE OBRA
 
 ###### Artículo 345.
 
@@ -5647,9 +4279,9 @@ Los requisitos para solicitar la certificación de terminación de obra son los 
 
 I. Para uso habitacional:
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-a) Formatos de terminación de obra debidamente llenados y firmados por el propietario y/o poseedor, y el DRO en su caso; tratándose de inmuebles edificados bajo la figura de autoconstrucción, así como para los bienes que se ubiquen en usos del suelo clasificados como H-5, H-6, H-7, H-8, excepto zona de centro histórico, el formato deberá suscribirse única y exclusivamente por el propietario y/o poseedor; y,
+a) Formatos de terminación de obra debidamente llenados y firmados por el propietario y/o poseedor, y el DRO;
 
 b) Pago de derechos de acuerdo a la Ley de Ingresos.
 
@@ -5667,9 +4299,11 @@ En ambas Fracciones, el inmueble deberá tener el número oficial de un tamaño 
 
 El tiempo de respuesta al ciudadano, una vez que se presenten todos los requisitos, será en un plazo de hasta 3 días hábiles; dentro de dicho término, la Dirección deberá expedir la Certificación de Terminación de Obra correspondiente o, en su caso, notificar al particular sobre la negativa de la misma, fundando y motivando su resolución.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 348.
 
-En el caso de conjuntos habitacionales y unidades en condominio cuando exista un avance que permita el uso de una parte de la obra realizada, el particular podrá solicitar una certificación parcial de terminación de obra siempre que las obras de urbanización correspondientes estén concluidas y cumpla con los requisitos de habitabilidad señaladas en el Manual Técnico de las Construcciones.
+En el caso de conjuntos habitacionales y unidades en condominio cuando exista un avance que permita el uso de una parte de la obra realizada, el particular podrá solicitar una certificación parcial de terminación de obra siempre que las obras de urbanización correspondientes estén concluidas y cumpla con los requisitos de habitabilidad señaladas en el Manual Técnico de las Construcciones; para el caso de usos no habitacionales, se deberá cumplir en la parte de la obra concluida con lo indicado en las autorizaciones de los dictámenes correspondientes.
 
 ###### Artículo 349.
 
@@ -5677,15 +4311,23 @@ La Dirección emitirá la certificación de terminación de obra al solicitante 
 
 De igual forma, se turnará un tanto a la Dirección General de Impuestos Inmobiliarios y Catastro, para efectos de la actualización del inmueble.
 
-### CAPÍTULO VII. Tipos Penales Protectores del Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
+
+### CAPÍTULO V. DEL REGISTRO, ADMISIÓN Y REFRENDO DEL DIRECTOR RESPONSABLE DE OBRA
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 350.
 
-Toda persona que pretenda figurar como Proyectista o DRO de un proyecto de construcción o parte de él, deberá registrarse ante la Dirección.
+Toda persona que pretenda figurar como DRO de un proyecto de construcción o parte de él, deberá registrarse ante la Dirección.
+
+El rango de DRO, se adquiere con el registro del profesionista ante la Dirección, habiendo cumplido previamente con los requisitos establecidos para su ingreso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 351.
 
-Podrán solicitar el registro de DRO aquellas personas que cuenten con las profesiones y ramas afines, que de acuerdo con la Ley de Profesiones para el Estado de Guanajuato, se mencionan a continuación:
+Podrán solicitar el registro de DRO aquellas personas que cuenten con las profesiones, que de acuerdo con la Ley de Profesiones para el Estado de Guanajuato, se mencionan a continuación:
 
 I. Arquitecto;
 
@@ -5693,221 +4335,113 @@ II. Ingeniero civil; y,
 
 III. Ingeniero Arquitecto.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 352.
 
-Podrán solicitar el registro de Proyectista, además de los profesionistas enunciados en el artículo anterior, aquellas personas que cuenten con las profesiones y ramas afines, que de acuerdo con la Ley de Profesiones para el Estado de Guanajuato, se mencionan a continuación:
+Para el Registro del DRO, así como para definir su participación en los proyectos, los aspirantes deberán reunir los requisitos siguientes:
 
-I. Ingeniería eléctrica;
+I. Solicitud debidamente completada;
 
-II. Ingeniería electrónica;
+II. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio del (sic) nacional;
 
-III. Ingeniería electrónica y comunicaciones;
+III. Cedula Profesional que lo acredite como arquitecto, ingeniero civil o ingeniero arquitecto en copia y original para cotejo;
 
-IV. Ingeniería electrónica y sistemas digitales;
+IV. Acreditar su pertenencia como miembro vigente del colegio de su profesión;
 
-V. Ingeniería en sistemas electrónicos;
+V. Acreditar experiencia en ejecución de obras de edificación de las que trata el presente ordenamiento;
 
-VI. Ingeniería hidráulica;
+VI. Presentar por escrito y debidamente firmado, su currículum vitae;
 
-VII. Ingeniería mecánica;
+VII. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento;
 
-VIII. Ingeniería topográfica y geomática;
+VIII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes; y,
 
-IX. Ingeniería industrial y de sistemas; y,
+IX. Dos fotografías tamaño infantil.
 
-X. Ingeniería mecánico electricista.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 353.
 
-Los DRO y Proyectistas, podrán contratar para la ejecución de fracciones del proyecto o de la obra, a los especialistas o profesionales en las ramas que de manera enunciativa más no limitativa, se señalan a continuación:
+Los requisitos señalados para el registro del DRO en una rama profesional, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se encuentren registrados ante la Dirección.
 
-I. Diseño urbano;
-
-II. Restauración del patrimonio histórico;
-
-III. Diseño de estructuras;
-
-IV. Mecánica de suelos y geotecnia;
-
-V. Instalaciones eléctricas;
-
-VI. Instalaciones hidráulicas y/o sanitarias;
-
-VII. Instalaciones de Gas L.P.;
-
-VIII. Instalaciones telefónicas,
-
-IX. Comunicación de imagen, voz, datos y telecomunicaciones;
-
-X. Instalaciones electromecánicas;
-
-XI. Instalaciones contra incendios;
-
-XII. Seguridad e higiene;
-
-XIII. Instalaciones de climatización, aire acondicionado y refrigeración;
-
-XIV. Topografía;
-
-XV. Movilidad;
-
-XVI. Protección al ambiente; y,
-
-XVII. Sustentabilidad.
-
-Los especialistas o profesionistas que hayan sido contratados por los DRO y proyectistas, tendrán responsabilidad directa únicamente con los contratantes, de tal manera que ante la Dirección, los únicos responsables de la obra o proyecto, serán los mismos DRO y proyectistas.
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2011)</small>
-
-Para el caso de las autoconstrucciones, así como para los grupos de uso del suelo H-5, H-6, H-7, H-8, excepto zona de centro histórico, la responsabilidad recaerá directamente en el propietario o poseedor.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 354.
 
-El rango de Proyectista o DRO, se adquiere con el registro del profesionista ante la Dirección, habiendo cumplido previamente con los requisitos establecidos para su ingreso.
+La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 355.
 
-El registro de Proyectistas y del DRO, tendrá una vigencia de tres años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
+El consejo como órgano colegiado de carácter permanente, de asesoría y consulta técnica, a través del grupo de trabajo que en los términos de su reglamento conforme, participará en los siguientes procesos:
+
+I. En el registro del DRO; y,
+
+II. Validación del formato y condiciones generales que deberá contener el contrato de prestación de servicios que deba celebrarse entre el DRO, los propietarios y/o poseedores, así como con los corresponsables; ello sin perjuicio de las clausulas y demás condiciones que en lo particular, se lleguen a pactar por las partes que suscriban dicho instrumento jurídico.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 356.
 
-La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
+Para los efectos de la fracción I del artículo anterior, la Dirección comunicara al Consejo dentro del término de 2 días hábiles siguientes, las solicitudes presentadas para el registro de los DRO, a efecto de que a través del grupo de trabajo que el mencionado consejo conforme, proceda al análisis respectivo y rinda su opinión técnica en un término no mayor a 8 días hábiles.
+
+En caso de que el grupo de trabajo conformado por el consejo, no emitiese su recomendación en el plazo establecido en el párrafo que antecede o lo hiciera habiendo transcurrido el mismo, se entenderá que su recomendación es en sentido factible o positivo, por lo que la Dirección resolverá sobre la procedencia del registro de los peritos urbanos, dentro de un término no mayor a 20 días hábiles.
+
+Si el grupo de trabajo conformado por el consejo, hubiese emitido su opinión técnica en los plazos establecidos, la Dirección valorara dicha opinión y resolverá sobre la procedencia del registro en el plazo establecido.
+
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 357.
 
-La Dirección resolverá sobre la solicitud del registro o refrendo, en un término no mayor a treinta días hábiles, contados a partir de la fecha de recepción de la misma; en caso de que la contestación se emita en sentido negativo, se deberá comunicar al solicitante por escrito, los motivos y fundamentos por los cuales no se le otorgará el registro o refrendo.
+Un mismo DRO podrá obtener simultáneamente su registro como Proyectista Arquitectónico, Proyectista Estructural y/o Perito Topógrafo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 358.
 
-Un mismo profesionista podrá obtener simultáneamente el registro de Proyectista y DRO.
+El registro del DRO, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud por escrito del interesado, presentada con quince días hábiles de anticipación a su vencimiento.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 359.
 
-Un Proyectista podrá ser el constructor, propietario y/o poseedor a la vez, siempre y cuando reúnan los requisitos de registro que prevé el presente Código y lo manifiesten por escrito ante la Dirección.
-
-### CAPÍTULO VIII. Tipos Penales Protectores del Ejercicio Profesional
-
-###### Artículo 360.
-
-Los requisitos señalados para el registro del profesionista en una rama profesional, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se encuentren registrados ante la Dirección.
-
-###### Artículo 361.
-
-Una rama profesional o especialidad no sustituye a la profesión, por lo que sus actividades, deberán ejercerse bajo la coordinación de las profesiones enlistadas en el artículo 353.
-
-###### Artículo 362.
-
-Un propietario o poseedor, podrá asumir las responsabilidades del DRO, siempre y cuando reúna los requisitos de registro y lo manifieste por escrito ante la Dirección.
-
-###### Artículo 363.
-
-En los casos previstos en el presente Código, así como en el Manual técnico de las construcciones, donde no se requiera el DRO las responsabilidades recaerán directamente sobre el propietario o poseedor.
-
-###### Artículo 364.
-
-En todos los casos para registro de Proyectista o DRO, los solicitantes deberán presentar original para cotejo y copia de los documentos legales previstos por el presente Código, dos fotografías tamaño infantil y llenar el formato de solicitud.
-
-###### Artículo 365.
-
-Para obtener el rango de Proyectista y obtener el registro de la Dirección, se requiere cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en territorio nacional;
-
-II. Tener Título Profesional obtenido mediante la formación en instituciones educativas pertenecientes al Sistema Educativo Nacional, además de la Cédula Profesional o en su defecto la autorización provisional para el ejercicio profesional, en original para cotejo y dos copias;
-
-III. Presentar por escrito y debidamente firmado, su currículum vitae;
-
-IV. Estar domiciliado en la ciudad de León, Guanajuato por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento del Municipio; y,
-
-V. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, manuales técnicos y normas correspondientes a la especialidad para la cual solicita su registro, mediante los procedimientos que la Dirección le establezca.
-
-###### Artículo 366.
-
-Para el refrendo trianual como Proyectista éste deberá presentar, a la Dirección, los siguientes requisitos:
-
-I. Actualizar sus datos; y,
-
-II. Presentar un enlistado de los proyectos en los cuales, la Dirección haya autorizado la Licencia de Construcción.
-
-### CAPÍTULO IX. Tipos Penales Protectores de la Fe Pública
-
-###### Artículo 367.
-
-Para el Registro del DRO, así como para definir su participación en los proyectos, los aspirantes deberán presentar los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio del nacional;
-
-II. Tener Título Profesional que sea acorde a la rama profesional de la construcción, ya sea arquitecto, ingeniero civil o cualquier profesión afín, entre otros de acuerdo a lo establecido en la Ley de profesiones para el Estado de Guanajuato y obtenido mediante la formación en instituciones educativas pertenecientes al Sistema Educativo Nacional, además de la Cédula Profesional correspondiente, en original para cotejo y dos copias;
-
-III. Acreditar su pertenencia como miembro de un colegio de profesionistas cuando éste exista en la localidad;
-
-IV. Acreditar experiencia en ejecución de obras de edificación de las que trata el presente ordenamiento;
-
-V. Presentar por escrito y debidamente firmado, su currículum vitae;
-
-VI. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento; y,
-
-VII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes.
-
-###### Artículo 368.
-
-Para el refrendo trianual de DRO, éste deberá presentar a la Dirección, los siguientes requisitos:
+Para el refrendo bianual de DRO, éste deberá presentar a la Dirección, los siguientes requisitos:
 
 I. Datos actualizados; y,
 
-II. Presentar un listado de las Obras de Construcción para las que emitió su responsiva y de las cuales la Dirección haya autorizado la Licencia de Construcción.
+II. Presentar un listado de las Obras de Construcción para las que emitió su responsiva y de las cuales la Dirección haya autorizado la Licencia de Construcción; precisando aquellas donde otorgó su responsiva e intervención de manera gratuita como parte de su servicio profesional.
 
-###### Artículo 369.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-Las construcciones en las que el Proyectista interviene de acuerdo a su disciplina se ubican en el Manual Técnico de las Construcciones.
+### CAPÍTULO VI. DE LAS OBLIGACIONES Y ATRIBUCIONES DEL DIRECTOR RESPONSABLE DE OBRA (DRO)
 
-En el caso de usos habitacionales, no se requerirá su intervención en las autoconstrucciones, así como en las construcciones que en su diversas modalidades, pretendan efectuarse en cualquiera de los grupos de uso del suelo H-5, H-6, H-7, H-B, excepto zona de centro histórico; tratándose de los demás usos habitacionales, la responsabilidad sobre la obra o el proyecto, será únicamente del DRO.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### Artículo 370.
+###### Artículo 360.
 
-Las obras de construcción a que se refiere este ordenamiento, podrán de acuerdo a sus características, contar con la cantidad de Proyectistas que éstas requieran en su caso, y sólo podrán realizar proyectos afines a su profesión o especialidad.
+El DRO es el enlace técnico con la Dirección y debe verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte de la Licencia de Construcción, y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista en base a manuales, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
 
-###### Artículo 371.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Los Proyectista tienen las siguientes obligaciones:
-
-I. Cumplir con lo dispuesto por el presente Código y demás normativa aplicable al proyecto que realiza;
-
-II. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
-
-III. Aplicar las Normas Técnicas que el Proyectista considere necesarias y convenientes para el proyecto que diseñe, mismas que deberá citar en la memoria descriptiva y normativa que acompañará al proyecto;
-
-IV. Diseñar o proyectar en función de los usuarios y el uso de suelo autorizado;
-
-V. Diseñar o proyectar tomando en cuenta los posibles impactos que ocasione la construcción de su proyecto al interior y al exterior de la edificación una vez concluida ésta, para que sean mínimos y mitigables;
-
-VI. Promover en sus proyectos acciones de sustentabilidad y aprovechamiento de los recursos naturales, con propuestas para la eficacia y moderación del consumo de energía; teniendo como objetivo principal minimizar el impacto ambiental de las construcciones;
-
-VII. Entregar al propietario o poseedor los planos, memoria, estudios y resoluciones de dictámenes de otras dependencias, para que el propietario o poseedor obtenga la Licencia de Construcción; y,
-
-VIII. Suscribir los planos, proyectos, memoria, estudios y demás documentos que elabore.
-
-###### Artículo 372.
-
-Las funciones del Proyectista terminarán cuando se otorgue la licencia correspondiente.
-
-El término de las funciones como Proyectista, no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención profesional.
-
-###### Artículo 373.
-
-El DRO será enlace técnico con la Dirección y deberá verificar conjuntamente con el propietario o poseedor, el cumplimiento de todas y cada una de las especificaciones técnicas de edificación que autorizó la Dirección como parte de la Licencia de Construcción y/o demolición, y para responder por las consecuencias que resulten del incumplimiento a la normativa emanada del proyecto autorizado, a las recomendaciones para seguridad y calidad en los procesos constructivos, a las obligaciones de la normativa laboral y a todas las que competan técnicamente al contratista en base a manuales, normas mexicanas (NMX) y normas oficiales mexicanas (NOM).
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2011)</small>
-
-###### Artículo 374.
+###### Artículo 361.
 
 Las construcciones en las que un DRO interviene están señaladas en el presente ordenamiento y en el Manual Técnico de las Construcciones.
 
-En el caso de usos habitacionales, no se requerirá su intervención en las autoconstrucciones, así como en las construcciones que en su diversas modalidades, pretendan efectuarse en cualquiera de los grupos de uso del suelo H-5, H-6, H-7, H-8, excepto zona de centro histórico.
+El DRO, no podrá otorgar más de 7 responsivas mensuales a efecto de garantizar el pleno cumplimiento de la normativa aplicable y la observancia de las especificaciones técnicas en la ejecución de los proyectos u obras con base en el presente Código y a los lineamientos dictaminados por la Dirección.
 
-Siendo materia de su responsiva en usos habitacionales, los que no se encuentren previstos por el párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### Artículo 375.
+###### Artículo 362.
+
+Para el caso de que los DRO, no cuenten con la experiencia, especialidad y conocimientos para la ejecución de un proyecto constructivo en su totalidad, deberá contratar los servicios de un corresponsable; en caso contrario, el DRO deberá acreditar ante la Dirección que pueda hacerlo por si mismo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 363.
 
 El DRO, tiene las siguientes obligaciones:
 
@@ -5955,19 +4489,27 @@ d) Fecha de las visitas, observaciones e instrucciones del D.R.O, Constructor, S
 
 e) Fecha de inicio y de terminación de cada etapa de la obra; y,
 
-f) Incidentes de la obra;
+f) Incidentes de la obra.
 
-Los datos anteriores se anotarán en original y las copias necesarias;
+Los datos anteriores se anotarán en original y las copias necesarias.
 
 XI. Planear y supervisar el cumplimiento de las medidas de seguridad en la obra, relativas al personal, terceras personas, sus colindancias y la vía pública;
 
 XII. Responder de cualquier violación a las disposiciones de este ordenamiento relativas a su actuación;
 
-XIII. Solicitar constancia de suspensión de obra para los casos en que la misma así lo requiera; y,
+XIII. Solicitar constancia de suspensión de obra para los casos en que la misma así lo requiera;
 
-XIV. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
+XIV. Presentar ante la Dirección, el Contrato de Prestación de Servicios profesionales que celebre con el propietario y/o poseedor, así como con los corresponsables, donde se detalle las obras a realizar en la edificación, los alcances en la ejecución de la obra, así como el número de visitas a efectuar;
 
-###### Artículo 376.
+XV. Asegurarse que los corresponsables que contraten al tenor de la fracción anterior, cuenten con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los mismos demandan;
+
+XVI. Otorgar como parte de su servicio profesional, su responsiva e intervención de manera gratuita en las autoconstrucciones y ampliaciones por techumbres que establecen los artículos 302-A primer párrafo y 310, ambos del presente Código; y,
+
+XVII. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 364.
 
 Las funciones del DRO, en aquellas obras para las que haya intervenido, terminarán cuando:
 
@@ -5981,129 +4523,183 @@ IV. La Dirección ordenará la suspensión de la obra cuando el DRO, no sea sust
 
 V. Cuando la Dirección autorice la ocupación o terminación de la obra.
 
-###### Artículo 377.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-El término de las funciones del DRO, no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+###### Artículo 365.
 
-###### Artículo 378.
+El término de las funciones del DRO, no le exime de la responsabilidad de carácter civil, penal o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 366.
 
 Para efectos del presente ordenamiento, la responsabilidad profesional y carácter administrativo de los DRO, concluirá en el plazo que determine el Código Civil para el Estado de Guanajuato, en su capítulo de contratos de obra a partir de la terminación de la obra. Dentro del mismo lapso, la Dirección podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
-### CAPÍTULO X. Tipos Penales Protectores de la Administración Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO VII. DE LOS CORRESPONSABLES
 
-ARTÍCULO 163 A.- Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, organismos públicos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado, en los órganos autónomos constitucionales, en el Congreso del Estado, en el Poder Judicial del Estado, o aquellos que manejen recursos económicos públicos. Las disposiciones contenidas en el presente Capítulo, son aplicables al Gobernador del Estado, a los Diputados, a los Magistrados del Supremo Tribunal de Justicia del Estado, por la comisión de los delitos previstos en este Capítulo, en materia estatal; y a los Presidentes Municipales, Regidores y Síndicos en materia municipal.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+###### Artículo 367.
 
-Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Capítulo
+Las construcciones en las que el corresponsable interviene se ubican en el Manual Técnico de las Construcciones y participaran en forma total o parcial dentro de un proyecto, ello atendiendo a la especialidad o profesión con la que cuenten.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicios públicos o de explotación, aprovechamiento y uso de bienes de dominio del Estado y los Municipios por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+###### Artículo 368.
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+Los corresponsables no deberán estar registrados ante la Dirección, hecha excepción de los siguientes:
 
-I. Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+I. Proyectista Arquitectónico;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+II. Proyectista Estructural; y,
 
-II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+III. Perito Topógrafo.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 163 Ter de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+###### Artículo 369.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ENERO DE 2024)</small>
+Para obtener el registro como Proyectista Arquitectónico y Proyectista Estructural, los interesados deberán reunir los requisitos siguientes:
 
-Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y los Municipios, aplicando los criterios establecidos en las fracciones del párrafo tercero de este artículo, considerando, en su caso, lo siguiente:
+I. Solicitud debidamente completada;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+II. Ser ciudadano mexicano por nacimiento o naturalización, y en caso de ser extranjero, tener la autorización legal correspondiente para ejercer la profesión en el territorio nacional;
 
-I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+III. Cédula Profesional que lo acredite como arquitecto, ingeniero civil, ingeniero arquitecto, en copia y original para cotejo;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+IV. Acreditar su pertenencia como miembro vigente del colegio de su profesión;
 
-II. Las circunstancias socioeconómicas del responsable;
+V. Acreditar experiencia en ejecución de obras de edificación de las que trata el presente ordenamiento;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+VI. Presentar por escrito y debidamente firmado, su currículum vitae;
 
-III. Las condiciones exteriores y los medios de ejecución; y
+VII. Estar domiciliado en la ciudad de León, Guanajuato, por lo menos tres años anteriores a la solicitud, presentando la constancia de residencia correspondiente emitida por la Secretaría del H. Ayuntamiento;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2017)</small>
+VIII. Demostrar ante la Dirección, en los casos en que ésta lo requiera, conocimientos sobre el contenido y aplicación del presente ordenamiento, Manuales Técnicos y normas correspondientes; y,
 
-IV. El monto del beneficio que haya obtenido el responsable.
+IX. Dos fotografías tamaño infantil.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+Tratándose del registro de los Peritos Topógrafos, se estará a lo dispuesto por el Capítulo XVI, del Título Tercero del presente ordenamiento.
 
-Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+###### Artículo 370.
 
-Cuando los delitos a que se refieren los artículos 169, 173, 174, 175 y 176 Bis del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
+Los requisitos en el artículo anterior, son independientes y sin perjuicio de los requisitos que puedan solicitar otras dependencias gubernamentales u organismos no gubernamentales para la realización de los proyectos en que se encuentren registrados ante la Dirección.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-En el caso de los tipos penales establecidos en los Artículos 169, 171, 172, 173, 174, 175, 176 y 176 Bis, cuando se compruebe que los mismos se configuraron dentro de un procedimiento de adquisición gubernamental, licitación pública o cualquier procedimiento de contratación dentro de la Administración Pública, se aumentará hasta en un tercio en sus mínimos y máximos la pena de inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas ya sea a los servidores públicos o a los particulares que sean responsables en la comisión de los mismos. En este supuesto se ordenará la cancelación de los registros del inhabilitado, que en su caso obren en los padrones de proveedores de la Administración Pública Estatal como Municipal, según sea el caso.
+###### Artículo 371.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
+La Dirección resolverá sobre la solicitud del registro, en un término no mayor a treinta días hábiles contados a partir de la fecha de recepción de la misma; previa substanciación del procedimiento que se establece en el presente código para el registro del DRO.
 
-Las sanciones impuestas a servidores públicos y particulares por las figuras típicas previstas en este capítulo como tipos penales protectores de la administración pública, se inscribirán en el Sistema de Información Estatal de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Estatal, de conformidad con lo establecido en la Ley del Sistema Estatal Anticorrupción de Aguascalientes y las disposiciones que emita la Secretaría Ejecutiva del Sistema Estatal Anticorrupción del Estado de Aguascalientes.
+En caso de negativa, se comunicará al solicitante por escrito los motivos y fundamentos por los que no es procedente el otorgamiento del registro.
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-ARTÍCULO 163 B.- Para la individualización de las sanciones previstas en este Capítulo, el juez tomará en cuenta lo siguiente:
+###### Artículo 372.
 
-I. El nivel jerárquico del servidor público y el grado de responsabilidad del encargo;
+El registró como Proyectista Arquitectónico y Proyectista Estructural, tendrá una vigencia de dos años, el cual podrá refrendarse por iguales periodos, previa solicitud del interesado presentada con quince días hábiles de anticipación.
 
-II. La antigüedad en el empleo;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-III. Las percepciones del servidor público;
+###### Artículo 373.
 
-IV. El grado de instrucción;
+Para el refrendo bianual de Proyectista Arquitectónico y Proyectista Estructural, deberán presentar a la Dirección, los siguientes requisitos:
 
-V. La necesidad de reparar los daños y perjuicios causados por la conducta ilícita; y
+I. Datos actualizados; y,
 
-VI. Las circunstancias especiales de los hechos constitutivos del delito.
+II. Presentar un listado de las Obras de Construcción para las que emitió su responsiva y de las cuales la Dirección haya autorizado la Licencia de Construcción.
 
-Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+###### Artículo 374.
 
-ARTÍCULO 163 C.- Cuando los delitos a que se refieren los artículos 169, 170 y 173 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca las penas previstas serán aumentadas hasta en una mitad.
+La solicitud de registro o refrendo se realizará previo pago de los derechos que se establezcan en la legislación fiscal aplicable.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 375.
+
+El Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, podrán ser contratados directamente por el propietario o poseedor a efecto de participar en la planeación, diseño y estudios necesarios para un proyecto u obra, siempre y cuando ello no implique la ejecución de los mismos, pues en tal caso deberá realizarse bajo la responsiva de un DRO, de conformidad con el Anexo 1 del Manual Técnico de las Construcciones del presente Código.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 376.
+
+Los corresponsables que hayan sido contratados por los DRO, tendrán responsabilidad directa únicamente con los contratantes: De tal manera que ante la Dirección, los únicos responsables de la obra o proyecto, serán los mismos DRO.
+
+Cuando de conformidad con el artículo anterior, el Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, participen en la planeación, diseño y estudios de un proyecto, los mismos serán los únicos responsables ante la Dirección.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 377.
+
+Cuando de conformidad con el presente Código, el Proyectista Arquitectónico, el Proyectista Estructural y el Perito Topógrafo, participen en un proyecto sin la intervención de un DRO, estos tendrán las obligaciones siguientes:
+
+I. Observar lo dispuesto por el presente Código y demás normativa aplicable al proyecto que realiza;
+
+II. Conducirse con veracidad en toda clase de informes que entregue al DRO y documentos que suscriba;
+
+III. Aplicar las Normas Técnicas que considere necesarias y convenientes para el proyecto que diseñe, mismas que deberá citar en la memoria descriptiva y normativa que acompañará al proyecto;
+
+IV. Diseñar o proyectar en función de los usuarios y el uso de suelo autorizado;
+
+V. Diseñar o proyectar tomando en cuenta los posibles impactos que ocasione la construcción de su proyecto al interior y al exterior de la edificación una vez concluida ésta, para que sean mínimos y mitigables;
+
+VI. Promover en sus proyectos acciones de sustentabilidad y aprovechamiento de los recursos naturales, con propuestas para la eficacia y moderación del consumo de energía; teniendo como objetivo principal minimizar el impacto ambiental de las construcciones;
+
+VII. Entregar los planos, memoria, estudios y resoluciones de dictámenes de otras dependencias, para que el propietario o poseedor obtenga la Licencia de Construcción;
+
+VIII. Contar con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los proyectos demandan;
+
+IX. Suscribir los planos, proyectos, memoria, estudios y demás documentos que elabore.
+
+X. Otorgar como parte de su servicio profesional, su responsiva e intervención de manera gratuita en las autoconstrucciones y ampliaciones por techumbres que establecen los artículos 302-A primer párrafo y 310, ambos del presente Código.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 378.
+
+Los corresponsables que sean contratados por los DRO, deberán contar con la debida experiencia, conocimientos, capacidad, seriedad y responsabilidad que los proyectos demandan y tendrán las obligaciones que se consignen en el contrato de prestación de servicios respectivo, así como las que se deriven del presente Código y demás normativa aplicable al proyecto en el que participen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 378 - A.
+
+Las funciones del Corresponsable terminarán cuando se otorgue la licencia correspondiente.
+
+El término de las funciones como Corresponsable, no le exime de la responsabilidad de carácter civil, penal o administrativo que pudiera derivarse de su intervención profesional.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 378 - B.
+
+Las obras de construcción a que se refiere este ordenamiento, podrán contar con la cantidad de Corresponsables que éstas requieran de acuerdo a sus características, y sólo podrán realizar proyectos afines a su profesión o especialidad.
+
+### CAPÍTULO VIII. DEL PROPIETARIO O POSEEDOR
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 379.
 
-Para los casos donde el presente Código, el Manual técnico de las construcciones y demás normativa aplicable, no exija la responsiva de un DRO o de un Proyectista, el propietario o poseedor de la licencia de la construcción, tendrá las obligaciones siguientes:
+Un propietario o poseedor, podrá fungir como DRO y/o corresponsable, siempre y cuando reúna los requisitos de registro que establece el presente Código y lo manifieste por escrito ante la Dirección; en tal caso, tendrá las mismas obligaciones y responsabilidades que se establecen para dichas figuras.
 
-I. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
+En los casos previstos por este artículo, la planeación y/o ejecución de la obra será responsabilidad directa del propietario o poseedor, por lo que éstos deberán tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra.
 
-II. Observar las disposiciones de este ordenamiento y demás disposiciones aplicables;
-
-III. Tomar las precauciones, adoptar las medidas técnicas y realizar los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de terceros, así como para evitar todos los daños o perjuicios que directa o indirectamente pudiera causar la ejecución de la obra;
-
-IV. Las demás responsabilidades que señala el presente Código para el DRO;
-
-V. Suscribir la solicitud de licencia de construcción y/o demolición;
-
-VI. Firmar el informe de actividades de construcción que pretende realizar con relación a la licencia que solicita;
-
-VII. En caso de que se vean afectados pavimentos o elementos de la vía pública por la ejecución de una obra de construcción, la reposición de los mismos; y,
-
-VIII. Las demás que deriven del presente Código y de más normativa aplicable.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 380.
 
-Cuando de conformidad con el presente Código y el Manual Técnico de las construcciones, se requiera de la intervención del Proyectista y/o DRO, el propietario o poseedor, deberá contar con la responsiva de dichas figuras, de conformidad con los padrones de la Dirección.
+Cuando de conformidad con el presente Código y el Manual Técnico de las construcciones, se requiera de la intervención de los corresponsables y/o DRO, el propietario o poseedor, deberá contar con la responsiva de este último, de conformidad con los padrones de la Dirección.
 
 ###### Artículo 381.
 
 El propietario tendrá como obligación el realizar las obras necesarias para la urbanización a lo largo de los frentes de sus propiedades conforme al presente ordenamiento y acatando las especificaciones de la Dirección de Obra Pública.
 
-### CAPÍTULO XI. Tipos Penales Protectores de la Seguridad Pública
+### CAPÍTULO IX. ARQUITECTURA ECOLÓGICA
 
 ###### Artículo 382.
 
@@ -6119,17 +4715,21 @@ II. La arquitectura ecológica o bioclimática, buscará el aprovechamiento del 
 
 III. Los factores que definan esta arquitectura, deberán buscar el ahorro de energía y el uso de sistemas de alto rendimiento y bajo consumo eléctrico para la ventilación, iluminación artificial y aparatos eléctricos; y,
 
-IV. El proyectista de este tipo de construcciones, deberá proponer y fundamentar el uso de tecnologías que utilicen energías renovables y que optimicen el aprovechamiento del agua.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
 
-### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
+IV. El DRO y los corresponsables de este tipo de construcciones, deberán proponer y fundamentar el uso de tecnologías que utilicen energías renovables y que optimicen el aprovechamiento del agua.
+
+### CAPÍTULO X. INNOVACIÓN TECNOLÓGICA EN ARQUITECTURA Y CONSTRUCCIÓN
 
 ###### Artículo 383.
 
 La Dirección podrá autorizar innovación tecnológica en las construcciones. La innovación tecnológica podrá ser en los equipos, materiales y procesos o sistemas constructivos, o bien, para el funcionamiento del inmueble concluido tales como edificios inteligentes, hogares digitales y eficiencia energética entre otros supuestos.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 384.
 
-Las propuestas para la utilización tecnológica deberán revisarse por los proyectistas de las ramas profesionales registrados en la Dirección, de acuerdo a las características del proyecto, quienes deberán incluir en sus dictámenes las fuerzas y debilidades de dicha innovación. El criterio de la Dirección para este tipo de autorizaciones, estará en función de la sustentabilidad y el impacto ambiental.
+Las propuestas para la utilización tecnológica deberán revisarse por los DRO, y los corresponsables de las ramas profesionales, de acuerdo a las características del proyecto, quienes deberán incluir en sus dictámenes las fuerzas y debilidades de dicha innovación. El criterio de la Dirección para este tipo de autorizaciones, estará en función de la sustentabilidad y el impacto ambiental.
 
 ###### Artículo 385.
 
@@ -6139,15 +4739,15 @@ Las propuestas de innovación tecnológica de carácter experimental, podrán au
 
 En todos los casos la innovación tecnológica en la rama de la arquitectura y construcción podrá autorizarse si los impactos ambientales que se pudieran generar son mitigados y avalados por el profesionista o rama profesional en proyectos de protección al ambiente y sustentabilidad, instalaciones, o los que la Dirección determine, con el propósito de garantizar la seguridad de los trabajadores de la construcción, de los usuarios y de los habitantes.
 
-### CAPÍTULO XIII. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
+### CAPÍTULO XI. DE LOS ANEXOS TÉCNICOS
 
 ###### Artículo 387.
 
 Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa de construcciones, se conforma el ANEXO 6 relativo al Manual Técnico de las Construcciones, el cual forma parte integrante de este ordenamiento.
 
-## TÍTULO QUINTO. EXTINCIÓN DE LA PRETENSIÓN PUNITIVA Y DE LA POTESTAD DE EJECUTAR PENAS Y MEDIDA DE SEGURIDAD
+## TÍTULO QUINTO. DE LOS ANUNCIOS
 
-### CAPÍTULO XIV. Tipos Penales Protectores de la Dignidad de los Muertos
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 388.
 
@@ -6157,7 +4757,9 @@ I. Salvaguardar la imagen urbana ordenada del Municipio, libre de elementos que 
 
 II. Prevenir daños a quienes transiten a pie o en vehículo por el Municipio;
 
-III. Proteger la imagen urbana en las zonas de Protección de Monumentos y obras de alto valor Arquitectónico, Histórico y Cultural;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Salvaguardar la imagen urbana en las Zonas de Protección de Monumentos y obras de alto valor Arquitectónico, Histórico y Cultural, conforme al Reglamento de la Imagen Urbana y el anexo 7 del Código;
 
 IV. Prevenir daños a vialidades, mobiliario urbano, instalaciones de servicio, inmuebles y diferentes áreas y espacios públicos;
 
@@ -6195,7 +4797,7 @@ Los volantes y folletos no requerirán de las licencias, permisos o autorizacion
 
 Las personas físicas o morales, públicas o privadas que pretendan fijar, instalar, colocar o difundir anuncios regulados por este Ordenamiento, deberán obtener, previamente la licencia, permiso o autorización respectiva, en los términos dispuestos por este Título, y demás disposiciones aplicables.
 
-### CAPÍTULO XV. Tipos Penales Protectores de la Seguridad Interior del Estado
+### CAPÍTULO II. DE LA CLASIFICACIÓN DE LOS ANUNCIOS
 
 ###### Artículo 393.
 
@@ -6229,6 +4831,10 @@ g) Anuncios en muro de colindancia: Los que se coloquen sobre los muros laterale
 
 h) Anuncios en objetos inflables: Aquellos cuya característica principal sea la de aparecer en objetos que contengan algún tipo de gas en su interior, ya sean que se encuentren fijados al piso o suspendidos en el aire.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+i) Anuncios tipo valla: Los que se encuentren sustentados por uno o más elementos estructurales que estén apoyados o anclados directamente al piso de un predio y cuya característica principal sea que sus soportes y su carátula no tenga contacto con edificación alguna; mismos que deberán encontrarse dentro de la propiedad.
+
 III.- Por los materiales empleados:
 
 a) Anuncios pintados: Los que se hagan mediante la aplicación de cualquier tipo de pintura sobre la superficie de edificaciones o cualquier objeto fijo idóneo para tal fin;
@@ -6236,6 +4842,10 @@ a) Anuncios pintados: Los que se hagan mediante la aplicación de cualquier tipo
 b) Anuncios de neón: Los instalados a partir de elementos de iluminación con la utilización de gas neón o argón; y,
 
 c) Anuncios con elementos naturales: Los cuales podrán ser de plantas de ornato, flores, combinados con materiales pétreos y cualquier otro recurso natural.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+d) Anuncios en pantallas tipo LED: Los que se difundan a través de pantallas elaboradas con focos tipo LED, en sus diversas modalidades Led Deporte; Móvil; para Alquiler; Teatro; y para Centros Comerciales;
 
 IV.- Por el lugar de su ubicación:
 
@@ -6259,7 +4869,7 @@ i) Muros interiores, laterales, o de colindancia; y,
 
 j) Jardines.
 
-### CAPÍTULO XVI
+### CAPÍTULO III. DE LA ESTRUCTURA DE LOS ANUNCIOS Y PLANOS DE ZONAS PARA LA INSTALACIÓN DE ANUNCIOS
 
 ###### Artículo 394.
 
@@ -6275,7 +4885,7 @@ II. La tabla de clasificación de anuncios donde se indique claramente la relaci
 
 Los Planos de Zonas para la instalación de Anuncios deberán ser aprobados por el H. Ayuntamiento en congruencia con los instrumentos de planeación Municipal.
 
-### CAPÍTULO XVII. Tipos Penales Protectores del Fisco Estatal
+### CAPÍTULO IV. DE LAS ESPECIFICACIONES TÉCNICAS DE LOS ANUNCIOS
 
 ###### Artículo 396.
 
@@ -6289,7 +4899,9 @@ III. Se permitirá un anuncio por inmueble, siempre y cuando la construcción de
 
 IV. No se permitirá que los anuncios o sus estructuras invadan físicamente o en su plano virtual la vía pública o los predios colindantes; Solo se autorizarán los anuncios o sus estructuras cuando se encuentren completamente al interior del predio o construcción y respeten físicamente o en su plano virtual la vía pública o los predios colindantes;
 
-V. La distancia radial mínima entre un anuncio no denominativo respecto de otro igual deberá ser de 160 metros; y,
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V.- La distancia radial mínima entre un anuncio no denominativo respecto de otro igual deberá ser de 160 metros; para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros, la cual se medirá de forma lineal en el sentido de la circulación; y,
 
 VI. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
 
@@ -6309,7 +4921,9 @@ V. No se permitirá anuncios que obstruyan la visibilidad a los vecinos del pred
 
 VI. Sólo se permitirá una estructura por inmueble, la cuál podrá contener dos carátulas a un mismo nivel formando un ángulo o paralelos; la altura máxima de la base o parte de sustentación del anuncio será de hasta 2.20 metros, contados desde la losa de la azotea hasta la parte inferior de la cartelera, sin que la altura del anuncio sea mayor de 25 metros, contados a partir del nivel de la banqueta a la parte superior de la carátula;
 
-VII. La distancia mínima entre un anuncio de éstos respecto de otro igual o de cualquier tipo deberá ser de 250 metros radiales, y;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+VII. La distancia mínima entre un anuncio no denominativo respecto de otro igual deberá ser de 250 metros radiales, y;
 
 VIII. No se permitirá instalar este tipo de anuncios en zonas patrimoniales.
 
@@ -6351,7 +4965,27 @@ III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales;
 
 IV. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o funcionamiento de señalizaciones oficiales de cualquier tipo; y,
 
-V. No estarán permitidos en lugares donde ocasionen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+V. No estarán permitidos en lugares donde ocasionen contaminación con la que causen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 400 - A.
+
+Para la fijación, instalación, ubicación o modificación de los anuncios en pantallas tipo LED se deberá cumplir con lo siguiente:
+
+I. La pantalla podrá tener como dimensiones máximas 10.50 metros de longitud por 5.40 metros de altura;
+
+II. El sistema de iluminación deberá tener un reductor que disminuya su luminosidad de las 19:00 a las 06:00 horas, del día siguiente;
+
+III. No se permitirá instalar este tipo de anuncios en zonas patrimoniales, o en inmuebles considerados como monumentos arqueológicos, artísticos, históricos o de patrimonio cultural, ni dentro de una distancia menor de 100 metros medidos en proyección horizontal a partir de los límites de las zonas referidas o de las fachadas de los inmuebles mencionados en esta fracción;
+
+IV. No estarán permitidos en lugares donde ocasionen contaminación con la que causen molestias a los vecinos, con la producción de cambios violentos en la intensidad de la luz, cuyos efectos penetren hacia el interior de las habitaciones;
+
+V. Sólo podrán instalarse en lugares donde no interfieran la visibilidad o el funcionamiento de señalizaciones oficiales de cualquier tipo, ni provoquen deslumbramiento a conductores de vehículos o a peatones; y,
+
+VI. La distancia radial mínima entre un anuncio de estos respecto de otro igual o de un autosoportado o de azotea deberá ser de 160 metros; para el caso de ejes metropolitanos, la distancia mínima entre los anuncios será de 500 metros, la cual se medirá de forma lineal en el sentido de la circulación.
 
 ###### Artículo 401.
 
@@ -6371,13 +5005,21 @@ Los espacios destinados para la publicidad en el mobiliario urbano serán determ
 
 El porcentaje de espacios publicitarios en el mobiliario urbano será determinado por la autoridad competente de acuerdo al tipo de mueble, diseño y dimensiones del mismo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 405.
 
-En el caso de puentes peatonales y/o vehiculares no se autorizarán ningún tipo de anuncios.
+En los puentes peatonales y/o vehiculares la Dirección podrá autorizar la instalación de anuncios con la anuencia de la Comisión de Desarrollo Urbano, siempre que el solicitante cuente previamente con la opinión técnica favorable de las Direcciones Generales de Obra Pública y de Tránsito Municipal.
+
+En los términos del párrafo anterior, la solicitud deberá presentarse ante la ventanilla única de la Dirección, y ésta deberá turnarla en un término de 3 días hábiles a las citadas direcciones generales para su revisión técnica, quienes deberán responder en un plazo no mayor a 3 días hábiles; una vez lo anterior, dicha solicitud deberá turnarse para anuencia de la Comisión quien determinará lo conducente en la sesión misma en que se someta a su consideración.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 406.
 
-Tratándose de anuncios que indiquen la localización de desarrollos habitacionales, comerciales o destinos específicos podrán incorporarse a la señalización vial oficial apegándose a las especificaciones que determine la Dirección.
+Tratándose de anuncios que indiquen la localización de desarrollos habitacionales, comerciales o destinos específicos podrán incorporarse a la señalización vial oficial apegándose a las especificaciones que determine la Dirección General de Tránsito Municipal.
+
+Para esos efectos el interesado deberá ingresar su solicitud a la Dirección General de Tránsito Municipal, quien deberá emitir su resolución respectiva dentro de un plazo no mayor de 15 días hábiles.
 
 ###### Artículo 407.
 
@@ -6393,13 +5035,19 @@ III. Obstaculicen o impidan la circulación y señalización vial y peatonal.
 
 Los anuncios en mobiliario urbano, sólo se podrán autorizar a las personas físicas o morales que cuenten con la contratación correspondiente, de conformidad con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO XVIII. Tipos Penales Protectores del Equilibrio Ecológico
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE JUNIO DE 2020)</small>
+###### Artículo 408 - A.
+
+Los anuncios que pretendan instalarse en postes de líneas telefónicas, postes de alumbrado y postes de la CFE, deberán guardar una distancia mínima entre un anuncio y otro del mismo tipo, de 250 metros lineales en el sentido de la circulación;
+
+### CAPÍTULO V. NORMAS GENERALES DEL MANTENIMIENTO Y MODIFICACIÓN DE ANUNCIOS
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 409.
 
-Para que los anuncios se mantengan en buen estado, los propietarios de éstos y los especialistas estructurales, tendrán la obligación de realizar inspecciones periódicas con el fin de revisar que sus elementos de sustentación, su estructura de soporte, los elementos de fijación o sujeción estén protegidos con esmalte para evitar su deterioro. Asimismo deberán pintar sus carátulas periódicamente, y sus fuentes de iluminación e instalación deberán estar en buenas condiciones de funcionamiento. De igual forma, deberán de repararlos o sustituir los elementos dañados por otros tantos de las mismas características, en caso de ser necesario.
+Para que los anuncios se mantengan en buen estado, los propietarios, tendrán la obligación de realizar el mantenimiento permanente con el fin de revisar y preservar sus elementos de sustentación, su estructura de soporte, y que los elementos de fijación o sujeción estén protegidos para evitar su deterioro. Asimismo deberán pintar sus carátulas periódicamente, y sus fuentes de iluminación e instalación deberán estar en buenas condiciones de funcionamiento. De acuerdo con el plan de mantenimiento preventivo acordado con los especialistas y la Dirección.
 
 ###### Artículo 410.
 
@@ -6411,63 +5059,43 @@ No se cubrirá ningún derecho por la autorización para reparación o modificac
 
 No se otorgarán nuevas licencias, permisos o autorizaciones respecto de anuncios que no estén en perfecto estado de mantenimiento aún y cuando se hayan otorgado con anterioridad.
 
-### CAPÍTULO XIX. Tipos Penales Protectores de la Dignidad de las Personas
+### CAPÍTULO VI. DE LOS ANUNCIOS EN ZONAS PATRIMONIALES, ZONAS DE MONUMENTOS Y EN LOS INMUEBLES CON VALOR ARQUEOLÓGICO, ARTÍSTICO E HISTÓRICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 412.
 
-Los anuncios instalados en inmuebles considerados monumentos, con valor arqueológico, artístico e histórico además de lo establecido en el presente ordenamiento, deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana y en las demás disposiciones jurídicas aplicables.
+Los anuncios instalados en inmuebles considerados monumentos, con valor arqueológico, artístico e histórico además de lo establecido en el presente ordenamiento, deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana, así como el anexo 7 de este Código.
 
 ###### Artículo 413.
 
 En los inmuebles ubicados dentro de las zonas patrimoniales, y en zonas de monumentos arqueológicos, artísticos e históricos, sólo se permitirán anuncios adosados o pintados. Los interesados deberán estarse a lo dispuesto en el presente Título, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y su Reglamento, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 414.
 
-En los inmuebles referidos en el artículo anterior, los anuncios adosados serán ubicados dentro del vano de acceso del inmueble y se instalarán de conformidad con las especificaciones siguientes:
+En los inmuebles referidos en el artículo anterior, los anuncios adosados serán ubicados dentro del vano de acceso del inmueble y se instalarán de conformidad con las especificaciones establecidas en el anexo 7 del presente Código.
 
-I. En la parte superior del vano y tendrán una altura máxima de 45 centímetros;
-
-II. Cuando el cerramiento sea en forma de arco, llevarán la forma de éste y se instalaran a partir de la línea horizontal imaginaria de donde arranque el arco, la cual no podrá ser rebasada hacia abajo;
-
-III. Podrán tener iluminación indirecta o con reflectores integrados al anuncio. No se permitirá su iluminación con unidades que indiquen movimiento;
-
-IV. Tratándose de espectáculos o diversiones se podrá instalar en la fachada un anuncio sobre muros intermedios entre vanos de planta baja, siempre y cuando no exceda de 75 centímetros de altura y 50 centímetros de longitud, o con un área de hasta 3,750 centímetros cuadrados dependiendo de las características del edificio y de las disposiciones administrativas correspondientes para zona determinada; y,
-
-V. En caso de monumentos en donde por sus características arquitectónicas se tengan que ubicar fuera del vano, deberán instalarse en las superficies lisas de las fachadas, entre la pared superior del cerramiento de la puerta y el repisón de la ventana del primer piso, de tal manera que no afecten elementos arquitectónicos importantes, los cuales podrán tener sus carteleras con el largo de los vanos hasta una altura de 60 centímetros o bien podrán ser de caracteres aislados, conservando las proporciones de las fachadas, hasta 5 metros de longitud y 70 centímetros de altura.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 415.
 
 En los inmuebles a que se refiere el presente Capítulo, no se permitirá la instalación de anuncios de marcas o logotipos ajenos a la razón social del establecimiento comercial.
 
-En las zonas reguladas en esta Capítulo, sólo se permitirá la instalación de un anuncio en la cenefa del toldo que se ubique en el acceso principal, de acuerdo a la forma y dimensiones del cerramiento y del vano, siempre y cuando su diseño y lugar de ubicación sean aprobados por la Dirección.
+En las zonas reguladas en este Capítulo, sólo se permitirá la instalación de un anuncio en la cenefa del toldo que se ubique en el acceso principal, de acuerdo a la forma y dimensiones del cerramiento y del vano, siempre y cuando su diseño y lugar de ubicación sean aprobados por la Dirección y se instalarán de conformidad con las especificaciones establecidas en el anexo 7 del presente Código.
 
-Cuando los anuncios se instalen en toldos o cortinas, sólo será en el acceso principal, los que deberán estar fabricados en tela de lona o en algún material similar y en colores verde obscuro, azul marino, café o vino, en calidad mate.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 416.
 
-Para efectos de esta Capítulo, no podrán ser instalados anuncios en:
-
-I. La parte interior de los marcos de los vanos de acceso a los establecimientos que den a la calle;
-
-II. Los costados de los toldos;
-
-III. Los muros laterales de las edificaciones;
-
-IV. Los vanos de la fachada exterior de portales;
-
-V. Las azoteas;
-
-VI. Predios sin construir y en áreas libres de predios semiconstruidos; y,
-
-VII. Las cercas o bardas consideradas como monumentos históricos o artísticos.
+Para efectos de este Capítulo, no podrán ser instalados anuncios en las ubicaciones indicadas en el anexo 7, del Código Reglamentario.
 
 ###### Artículo 417.
 
 En los inmuebles considerados como monumentos arqueológicos, artísticos, históricos o de patrimonio cultural, queda prohibida la instalación de anuncios mixtos.
 
-### CAPÍTULO XX. Tipos Penales Protectores de la Salud Pública
+### CAPÍTULO VII. DE LOS ANUNCIOS DE CARÁCTER POLÍTICO
 
 ###### Artículo 418.
 
@@ -6477,7 +5105,9 @@ I. Dentro de los periodos de campaña electoral la Secretaría del Ayuntamiento 
 
 II. Corresponderá a los partidos políticos, coaliciones o candidatos registrados mantener en buen estado, la propaganda electoral, evitando afectar la imagen urbana;
 
-III. No podrá colocarse propaganda electoral en la Zona "A" descrita en el Reglamento de la Imagen Urbana;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. No podrá colocarse propaganda electoral en la Zona "A" señalada en el Reglamento de Imagen Urbana y el POTE;
 
 IV. Tratándose de mitin o cierre de campaña electorales en las plazas cívicas de los Mártires del 2 de enero y la de Los Fundadores, la propaganda sólo podrá colocarse colgada un día anterior al evento y retirarse al día siguiente del mismo;
 
@@ -6487,9 +5117,7 @@ VI. La propaganda que se ubique en los postes y registros de servicios públicos
 
 El retiro de la propaganda electoral se realizará en los términos que se establezcan en los acuerdos de coordinación que se celebren con las autoridades electorales.
 
-### CAPÍTULO XXI. Tipos Penales Protectores de la Movilización de los Sistemas de Respuesta de Emergencia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
+### CAPÍTULO VIII. DE LOS ANUNCIOS PROHIBIDOS
 
 ###### Artículo 419.
 
@@ -6501,7 +5129,7 @@ II. Que tengan caracteres, combinaciones de colores o tipología iguales a las d
 
 III. Que promuevan el consumo de tabaco y alcohol entre otros;
 
-IV. Que transmitan mensajes e imágenes en movimiento y animación por medio de focos, lámparas o diodos emisores de luz o similares;
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 V. Aquellos que por su ubicación, dimensiones o materiales empleados en su construcción o instalación, puedan poner en peligro la vida o la integridad física de las personas o la seguridad de sus bienes; produzcan cambios violentos en la intensidad de la luz y efectos hacia el interior de las habitaciones; limiten la ventilación e iluminación a las mismas; afecten o puedan alterar la adecuada prestación de los servicios públicos o la limpieza e higiene, de conformidad con las normas de desarrollo urbano o bien, que no cumplan cabalmente con lo establecido en este Capítulo;
 
@@ -6513,11 +5141,15 @@ VIII. Cuando se pretendan instalar en:
 
 a) Áreas no autorizadas para ello de acuerdo con los planos de zonas correspondientes;
 
-b) Pavimentos, banquetas, guarniciones, glorietas, puentes vehiculares y peatonales, unidades de alumbrado público, kioscos, bancas, así como depósitos de basura, casetas, registros telefónicos, postes de líneas telefónicas, postes de alumbrado, postes de la CFE, pedestales, plataformas si están sobre la banqueta, arrollo o camellones de la vía pública y buzones de correo, y en general todos aquellos elementos de utilidad u ornato de plazas, paseos, jardines, calles y avenidas. Quedarán fuera de esta prohibición los espacios publicitarios de los elementos del mobiliario urbano;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+b) Pavimentos, banquetas, guarniciones, glorietas, unidades de alumbrado público, kioscos, bancas, así como depósitos de basura, casetas, registros telefónicos, pedestales, plataformas si están sobre la banqueta, arrollo o camellones de la vía pública y buzones de correo, y en general todos aquellos elementos de utilidad u ornato de plazas, paseos, jardines, calles y avenidas. Quedarán fuera de esta prohibición los espacios publicitarios de los elementos del mobiliario urbano;
 
 c) Un radio de 200 metros, a partir del cruce de los ejes de vialidades primarias, de acceso controlado, vías federales y vías de ferrocarril en uso;
 
-d) Cerros, rocas, árboles, bordes de ríos, presas, lomas, laderas, bosques, lagos, canales o puentes;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+d) Cerros, rocas, árboles, bordes de ríos, presas, lomas, laderas, bosques, lagos o canales;
 
 e) Entradas o áreas de circulación de pórticos, pasajes y portales;
 
@@ -6537,9 +5169,9 @@ Los propietarios o poseedores de bienes muebles e inmuebles, deberán abstenerse
 
 Cualquier tipo de anuncio no podrá invadir ni prolongarse sobre las propiedades colindantes, ni en la vía pública, ni interferir con la visibilidad o funcionamiento de cualquier señalización oficial, asimismo, deberán ajustarse a las dimensiones, aspectos y ubicación que se señalen en el presente ordenamiento.
 
-### CAPÍTULO I. Tipos Penales Protectores de la Vida y Salud Personales
+### CAPÍTULO IX. DE LAS LICENCIAS, PERMISOS Y AUTORIZACIONES PARA FIJAR, INSTALAR O MODIFICAR ANUNCIOS
 
-#### SECCIÓN SEGUNDA. DE LOS ESPECIALISTAS ESTRUCTURALES
+#### SECCIÓN QUINTA. DE LOS PERMISOS
 
 ###### Artículo 422.
 
@@ -6597,7 +5229,9 @@ Cuando haya sido necesario retirar un anuncio, la Dirección no dará trámite p
 
 En el supuesto de que alguna empresa promotora de anuncios, a la que se haya tenido que retirar tres o más anuncios, además de la sanción a la que se haga acreedor cada anuncio individual, se le restringirá la autorización para instalar nuevos anuncios en el Municipio por un plazo mínimo de dos años.
 
-#### SECCIÓN TERCERA. DE LAS SOLICITUDES DE LICENCIAS, PERMISOS Y AUTORIZACIONES
+#### SECCIÓN SEXTA. DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 432.
 
@@ -6625,7 +5259,9 @@ I. Solicitud debidamente requisitada en los formatos que le proporcione la Direc
 
 II. Dos fotografías tamaño infantil;
 
-III. Ser Ingeniero Civil, o Ingeniero-Arquitecto con especialidad en estructuras, o profesión afín, o en su defecto persona física con conocimientos en la materia, pero indistintamente deberán contar con experiencia en la ejecución de obras de construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios;
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Ser Ingeniero Civil, Arquitecto, Ingeniero-Arquitecto, o profesión afín, con especialidad en estructuras, pero indistintamente deberán contar con experiencia en la ejecución de obras de construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios;
 
 IV. Presentar por escrito y debidamente firmado, su currículum vitae;
 
@@ -6653,9 +5289,11 @@ El especialista estructural podrá ser el mismo publicista, la persona que va a 
 
 El Especialista Estructural, tiene las siguientes obligaciones:
 
-I. Conducirse con veracidad en toda clase de informes y documentos que suscriba;
+I. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-II. Revisar, dirigir y supervisar que la ejecución de la construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios, durante el tiempo que ampare la Licencia, Permiso o Autorización correspondiente se realice de acuerdo a lo previsto por este Código y demás especificaciones técnicas que le señale la Dirección; observando en todo momento las medidas de seguridad que deban implementarse;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II. Revisar, dirigir y supervisar que la ejecución de la construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios, se realicen de conformidad con las especificaciones técnicas que le señale la Dirección observando las normas aplicables.
 
 III. Llevar en la obra un libro de Bitácora foliado y encuadernado, en la cual se asentarán la Fecha de las visitas, observaciones e instrucciones del Especialista Estructural, así como los incidentes que se hubiesen generado;
 
@@ -6669,15 +5307,17 @@ VII. Responder de cualquier evento que se genere durante de la vigencia de una l
 
 VIII. Las demás que establezcan las disposiciones legales y administrativas aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 441.
 
-En caso de daños causados por fenómenos naturales, el Especialista estructural que haya dado su responsiva respecto de un anuncio, inspeccionará el mismo, elaborando un reporte de las condiciones del anuncio, el cuál constará en la bitácora correspondiente. Así mismo, en un plazo que no excederá de tres días hábiles contados a partir de la fecha de su realización rendirá un dictamen técnico a la Dirección.
+Tratándose de daños a los anuncios que hayan sido ocasionados por casos fortuitos, el propietario o poseedor del bien inmueble donde este instalado el anuncio, deberá consultar a un especialista estructural, mismo que inspeccionará y elaborará un reporte de las condiciones del mismo, informando a la Dirección en un plazo que no excederá de cinco días hábiles para que de manera conjunta determinen las acciones de remediación.
 
 ###### Artículo 442.
 
 El retiro de los anuncios, no exime de responsabilidad al Especialista Estructural, quien estará obligado a asumir las responsabilidades de carácter civil, penal o administrativo que pudieran derivarse por la actividad para la cual haya otorgado su responsiva.
 
-#### SECCIÓN CUARTA. DE LAS LICENCIAS
+#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES DE UNA LICENCIA, PERMISO O AUTORIZACIÓN
 
 ###### Artículo 443.
 
@@ -6713,6 +5353,10 @@ II.- Póliza global de seguro de responsabilidad civil y daños a terceros, úni
 
 III.- La demás documental e información que para caso concreto señala el presente Código.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+Para el caso de que el inmueble donde pretende instalarse el anuncio, este en posesión de persona distinta al propietario, además los requisitos señalados en el presente artículo deberá acreditarse por el solicitante, la legal posesión del bien inmueble, mediante contrato original y copia para cotejo; así como instrumento donde conste ostentar facultades para solicitar licencias, permisos o autorizaciones en materia de anuncios en el inmueble del propietario.
+
 ###### Artículo 446.
 
 El otorgamiento de las licencias, permisos y autorizaciones previstos en el presente Título, causarán los derechos que anualmente fijen las tarifas establecidas en la Ley de Ingresos y las disposiciones administrativas, según sea el caso, para el Municipio para el ejercicio fiscal que corresponda.
@@ -6725,7 +5369,13 @@ Cuando los particulares no cumplan con los requisitos que exige el presente Cód
 
 Recibida la solicitud con la información y documentación completa, la Dirección, en un plazo de quince días hábiles, contados a partir del día siguiente al de la fecha de recepción de la misma, deberá expedirse la licencia, permiso o autorización correspondiente o, en su caso, contestar de manera negativa, fundando y motivando su resolución.
 
-#### SECCIÓN QUINTA. DE LOS PERMISOS
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 448 - A.
+
+Cuando se soliciten anuncios adosados o autosoportados denominativos en una plaza comercial o locales comerciales, deberán de presentar a la Dirección una propuesta de todos los anuncios adosados que sean uniformes en dimensiones, forma y material y en lo que respecta a los anuncios autosoportados denominativos, solamente se autorizará un tipo directorio.
+
+#### SECCIÓN OCTAVA. DE LA RESPONSABILIDAD SOLIDARIA
 
 ###### Artículo 449.
 
@@ -6737,9 +5387,9 @@ II. De neón;
 
 III. En mobiliario urbano;
 
-IV. Mantas;
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-V. Banderolas;
+V. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
 VI. Todos aquellos que se vayan a instalar en inmuebles considerados como monumentos o colindantes a monumentos o en la zona patrimonial, monumentos con valor arqueológico, artístico o histórico; y,
 
@@ -6753,9 +5403,11 @@ I. Representación gráfica que describa la forma, dimensiones y contenido del a
 
 II. Copia de la Licencia de Construcción correspondiente para los casos previstos en el Artículo 427 de este Capítulo;
 
-III. Copia de la Licencia de Uso de Suelo, para los casos previstos en el Artículo 393 fracción II de este ordenamiento;
+III. (DEROGADA, P.O. 31 DE ENERO DE 2012)
 
-IV. Original y copia simple del contrato vigente correspondiente para cotejo, tratándose de anuncios en mobiliario urbano;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+IV. En caso de no ser propietario original y copia simple del contrato vigente correspondiente para cotejo;
 
 V. Memoria de cálculo estructural; con excepción de anuncios en muros de colindancia, ya que el especialista, deberá firmar una carta responsiva que especifique, la revisión del mantenimiento y buen estado de la estructura.
 
@@ -6781,7 +5433,7 @@ II. Colocar en lugar visible del anuncio el nombre, denominación o razón socia
 
 III. Dar aviso por escrito a las autoridades correspondientes de la terminación de los trabajos de instalación del anuncio.
 
-#### SECCIÓN SEXTA. DE LAS AUTORIZACIONES
+#### SECCIÓN PRIMERA. DE LAS NORMAS PARA SU ASIGNACIÓN
 
 ###### Artículo 453.
 
@@ -6813,17 +5465,17 @@ Los permisos tendrán una vigencia de hasta 120 días, excepto en los casos a qu
 
 La revalidación debe solicitarse dentro de los 15 días hábiles previos a la conclusión de la vigencia del permiso.
 
-#### SECCIÓN SÉPTIMA. DE LAS OBLIGACIONES COMUNES PARA LOS TITULARES DE UNA LICENCIA, PERMISO O AUTORIZACIÓN
+#### SECCIÓN SEGUNDA. DE LAS PROPUESTAS DE CAMBIO DE NOMENCLATURA Y SU PROCEDIMIENTO
 
 ###### Artículo 456.
 
-Cuando alguna autoridad, asociación civil o institución de asistencia social, pretenda instalar en la vía pública anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal, o de folklore nacional, se requerirá de la autorización de la Dirección, debiendo observar lo siguiente:
+Cuando algún particular, autoridad, asociación civil o institución de asistencia social, pretenda instalar en la vía pública anuncios que contengan mensajes de carácter cívico, social, cultural, ambiental, deportivo, artesanal y folklore nacional, se requerirá de la autorización de la Dirección, debiendo observar lo siguiente:
 
-I. Anuncios en mantas hasta 1.80 metros de longitud por 90 centímetros de altura, banderolas o pendones de hasta 1.80 metros de altura por 90 centímetros de longitud, adornos colgantes, siempre y cuando no obstruyan vanos del predio o inmueble donde el anunciante desarrolle su actividad y la temporalidad de la publicidad no sea mayor de sesenta días naturales;
+I. Anuncios en mantas, banderolas o pendones de hasta 1.80 metros de altura por 90 centímetros de longitud, adornos colgantes, siempre y cuando no obstruyan vanos del predio o inmueble donde el anunciante desarrolle su actividad y la temporalidad de la publicidad no sea mayor de sesenta días naturales;
 
 II. En marquesinas, adosados e integrados cuyas dimensiones no excedan de 1.80 metros de longitud y una altura de 90 centímetros;
 
-III. Anuncios en saliente, volados o colgantes, cuando su altura no rebase los 2.50 metros y una saliente no mayor a 20 centímetros; y,
+III. Solo se permitirá la colocación de un anuncio perpendicular a la pared de la fachada, respetando las dimensiones máximas de 60 centímetros de saliente por 1.20 metros de altura, hasta 40 centímetros de espesor y la colocación del anuncio debe tener 2.50 metros libres entre el nivel inferior del anuncio y el nivel de banqueta, siempre y cuando no se invadan ni obstruyan los predios colindantes; y,
 
 IV. El logotipo del patrocinador en su caso, no podrá ocupar superficie mayor al 5 por ciento del anuncio.
 
@@ -6835,7 +5487,7 @@ La solicitud de la autorización respectiva, deberá reunir los requisitos comun
 
 La vigencia máxima de la autorización será de 60 días a partir de la fecha señalada para la instalación, prorrogable por el periodo que determine la Dirección.
 
-#### SECCIÓN OCTAVA. DE LA RESPONSABILIDAD SOLIDARIA
+#### SECCIÓN TERCERA. DE LAS PLACAS DE NOMENCLATURA
 
 ###### Artículo 459.
 
@@ -6845,7 +5497,7 @@ I. Conservar el anuncio en condiciones de seguridad, estabilidad y mantenimiento
 
 II. Pagar los gastos que en su caso haya cubierto el Municipio a cargo del infractor, con motivo del retiro de sus anuncios.
 
-#### SECCIÓN PRIMERA. DE LAS NORMAS PARA SU ASIGNACIÓN
+#### SECCIÓN CUARTA. DE LA DONACIÓN DE PLACAS DE NOMENCLATURA
 
 ###### Artículo 460.
 
@@ -6867,13 +5519,21 @@ II.- El pago de los gastos y multas que se determinen por la autoridad municipal
 
 II.- El retiro de anuncios, o en su caso el pago de los gastos que en su caso haya cubierto el Municipio a cargo del infractor con dicho motivo.
 
-### CAPÍTULO II. Tipos Penales Protectores del Patrimonio
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 2012)</small>
 
-## TÍTULO PRIMERO. FIGURAS TÍPICAS DOLOSAS
+### CAPÍTULO X. DE LOS ANEXOS TÉCNICOS
 
-### CAPÍTULO III. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
-#### SECCIÓN SEGUNDA. DE LAS PROPUESTAS DE CAMBIO DE NOMENCLATURA Y SU PROCEDIMIENTO
+###### Artículo 461 - A.
+
+Con el objeto de facilitar la aplicación del presente Código, y como materia complementaria a la normativa de anuncios, se conforma el ANEXO 7 relativo al Manual Técnico de Anuncios, Terrazas Móviles y Fachadas en la Zona de Patrimonio Histórico, el cual forma parte integrante de este ordenamiento.
+
+## TÍTULO SEXTO. DE LA NOMENCLATURA Y NUMERACIÓN OFICIAL
+
+### CAPÍTULO I. DE LA NOMENCLATURA
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
 ###### Artículo 462.
 
@@ -6911,7 +5571,7 @@ VIII. Que la nomenclatura no tenga palabras confusas, ofensivas, injuriosas o co
 
 Para los asentamientos irregulares, la Dirección asignará nomenclatura, siempre y cuando se encuentre en proceso de regularización.
 
-#### SECCIÓN TERCERA. DE LAS PLACAS DE NOMENCLATURA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN NORMATIVA
 
 ###### Artículo 467.
 
@@ -7027,7 +5687,7 @@ Como único caso y por la antigüedad e importancia de la nomenclatura "Hermanos
 
 Del mismo modo, la Dirección podrá determinar que permanezca nomenclatura distinta en todo lo largo de los cauces correspondientes a las vialidades, aún y cuando de conformidad a lo señalado en el artículo 465 fracción III de este ordenamiento deban de corresponderle una sola nomenclatura, esto por el arraigo con la que cuenta la misma y por su trascendencia en cuanto a tradiciones, eventos y fechas históricas.
 
-#### SECCIÓN CUARTA. DE LA DONACIÓN DE PLACAS DE NOMENCLATURA
+#### SECCIÓN TERCERA. DE LAS AUTORIDADES AUXILIARES
 
 ###### Artículo 482.
 
@@ -7089,7 +5749,7 @@ Una vez que la Dirección tenga conocimiento que algún bien de uso común desti
 
 Corresponderá a los desarrolladores de fraccionamientos o desarrollos en condominio, la instalación de las placas de nomenclatura, de acuerdo a las especificaciones que la propia Dirección le señale.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE DESARROLLO URBANO
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 493.
 
@@ -7125,7 +5785,7 @@ IX. Causas de terminación del contrato; y,
 
 X. Las demás que acuerde el Ayuntamiento.
 
-### CAPÍTULO IV. Tipos Penales Protectores del Equilibrio Ecológico
+### CAPÍTULO II. DE LA NUMERACIÓN OFICIAL
 
 ###### Artículo 496.
 
@@ -7187,9 +5847,7 @@ III. Cuando no se refiera ni a números arábigos ni a letras; y,
 
 IV. Cuando la Dirección así lo determine, por así convenir al interés general.
 
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO III. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 508.
 
@@ -7205,9 +5863,9 @@ IV. Cambiar la nomenclatura o numeración oficial, sin la autorización correspo
 
 V. Incumplir con la colocación del número oficial, dentro del plazo que la Dirección haya determinado.
 
-## TÍTULO SEGUNDO. FIGURAS TÍPICAS CULPOSAS
+## TÍTULO SEPTIMO. DEL PROCEDIMIENTO ADMINISTRATIVO EN MATERÍA URBANA
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 509.
 
@@ -7233,7 +5891,7 @@ Para los efectos del artículo anterior, las autoridades competentes de este Có
 
 El Procedimiento Administrativo se instaurará, substanciará y resolverá bajo los requisitos y formalidades que al efecto estatuye el Código del Procedimiento Administrativo, por lo que éste último se constituye como norma supletoria del presente ordenamiento en materia de actos y formalidades procesales y de procedimiento.
 
-### CAPÍTULO IV. DE LA INSPECCIÓN
+### CAPÍTULO II. DE LA DENUNCIA POPULAR
 
 ###### Artículo 514.
 
@@ -7275,9 +5933,9 @@ Tratándose de bienes de propiedad de la Federación, el Estado o Municipio, se 
 
 Para los requisitos, formalidades, seguimiento y culminación en la atención de las denuncias, se estará además del presente Código, a lo que dispone el Código del Procedimiento Administrativo.
 
-### CAPÍTULO V. MEDIDAS DE SEGURIDAD
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE VERIFICACIÓN NORMATIVA
+#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
 
 ###### Artículo 523.
 
@@ -7287,7 +5945,13 @@ I.- Fraccionamientos y Desarrollos en Condominio;
 
 II.- Nomenclatura y numeración oficial;
 
-III.- Obligaciones de los Proyectistas y DRO del apartado de las construcciones, así como de los Especialistas Estructurales en materia de anuncios; y,
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II - A.- Terrazas Móviles
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+III. Obligaciones del DRO, Proyectista Arquitectónico, Proyectista Estructural y Perito Topógrafo que intervengan al tenor del apartado de las construcciones, así como de los Especialistas Estructurales en materia de anuncios; y,
 
 IV.- Las demás que se deriven del presente Código, del Reglamento Interior de la Administración y demás normativa aplicable.
 
@@ -7303,7 +5967,7 @@ Corresponde a la Dirección imponer, por delegación expresa que el Presidente M
 
 La Dirección hará del conocimiento de la Dirección General de Verificación Normativa los hechos u omisiones que puedan constituir alguna infracción en las materias competencia de esta última, remitiendo la documental e información relacionada con dichos actos, para el efecto de que se inicien los procedimientos de verificación e inspección respectivos.
 
-#### SECCIÓN TERCERA. DE LAS AUTORIDADES AUXILIARES
+#### SECCIÓN TERCERA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 ###### Artículo 527.
 
@@ -7311,7 +5975,9 @@ Corresponde a la Dirección General de Verificación Normativa, vigilar el cumpl
 
 I.- Zonificación y usos de suelo;
 
-II.- Construcciones, excepción hecha de las obligaciones de los Proyectistas y DRO;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+II.- Construcciones, excepción hecha de las obligaciones del DRO, Proyectista Arquitectónico, Proyectista Estructural y Perito Topógrafo;
 
 III.- Anuncios, excepción hecha de las obligaciones de los especialistas estructurales; y,
 
@@ -7329,7 +5995,7 @@ Corresponde a la Dirección General de Verificación Normativa imponer, por dele
 
 La Dirección General de Verificación Normativa hará del conocimiento de la Dirección los hechos u omisiones que puedan constituir alguna infracción en las materias competencia de esta última, remitiendo la documental e información relacionada con dichos actos, para el efecto de que se inicien los procedimientos de verificación e inspección respectivos.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE CONSTRUCCIONES
 
 ###### Artículo 531.
 
@@ -7339,15 +6005,15 @@ Sin perjuicio de la distribución de competencias señalada por el presente Cód
 
 Para los Procedimientos Administrativos señalados en el artículo anterior, se estará a la preceptuado por el presente Código y al Código del Procedimiento Administrativo.
 
-### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO IV. DE LA INSPECCIÓN
 
 ###### Artículo 533.
 
 Las dependencias y entidades municipales que ostenten el carácter de autoridades competentes o auxiliares del presente Código, podrán llevar a cabo visitas de verificación o inspección para comprobar en el ámbito de sus respectivas competencias, el cumplimiento de lo dispuesto por este ordenamiento, las cuales podrán efectuarse en el domicilio, instalaciones, equipos y bienes de los particulares, sujetándose en todo momento a las reglas previstas por el Código del Procedimiento Administrativo y demás normativa aplicable.
 
-### CAPÍTULO VII. DE LOS RECURSOS Y MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO V. MEDIDAS DE SEGURIDAD
 
-#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
+#### SECCIÓN QUINTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ANUNCIOS
 
 ###### Artículo 534.
 
@@ -7361,7 +6027,7 @@ Para los efectos del artículo anterior, se considerarán medidas de seguridad, 
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán de conformidad con el presente Código y el Código del Procedimiento Administrativo, ello sin perjuicio de las sanciones que en su caso correspondan.
 
-#### SECCIÓN TERCERA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+#### SECCIÓN SEXTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 537.
 
@@ -7419,7 +6085,9 @@ Para el caso de la clausura temporal, o suspensión temporal o definitiva, parci
 
 La diligencia de levantamiento de sellos de clausura o suspensión, cuando procedan, sólo podrá realizarse mediante orden escrita de la Dirección General de Verificación Normativa.
 
-#### SECCIÓN CUARTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE CONSTRUCCIONES
+#### SECCIÓN SÉPTIMA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 543.
 
@@ -7441,7 +6109,7 @@ VI. Las demás que se encuentren previstas en la Ley de Fraccionamientos y el C�
 
 Transcurrido el plazo señalado para el cumplimiento de las acciones o medidas ordenadas, el desarrollador dará aviso a la Dirección, según sea el caso para que ésta proceda a inspeccionar su cumplimiento.
 
-#### SECCIÓN QUINTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ANUNCIOS
+#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 545.
 
@@ -7505,7 +6173,7 @@ Si vencido el plazo no se cumpliera la orden, la Dirección General de Verificac
 
 Asimismo, la Dirección General de Verificación Normativa podrá clausurar cualquier construcción que se haya ejecutado o se esté ejecutando que contravenga lo establecido en el POTE, el Plano de Zonificación y los que de éstos deriven.
 
-#### SECCIÓN SEXTA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
+#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
 
 ###### Artículo 551.
 
@@ -7541,17 +6209,25 @@ I. Por haber modificado las especificaciones establecidas por la Dirección; y,
 
 II. Por impedir u obstaculizar a los inspectores de la Dirección y de la Dirección General de Verificación Normativa, el cumplimiento de sus funciones.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
+#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 ###### Artículo 554.
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
-#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
-
-#### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 2012)</small>
 
 #### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
+
+###### Artículo 554 - A.
+
+La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
+
+#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+
+### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
+
+#### SECCIÓN SEXTA. DE LAS SANCIONES EN MATERIA DE NOMENCLATURA Y NUMERACIÓN OFICIAL
 
 ###### Artículo 555.
 
@@ -7577,7 +6253,9 @@ La imposición de cualquiera de las sanciones administrativas contenidas en este
 
 Para la aplicación, determinación, imposición y caducidad de las sanciones previstas en este Código, se estará a lo dispuesto por el Código del Procedimiento Administrativo.
 
-#### SECCIÓN QUINTA. DE LAS SANCIONES EN MATERIA DE ANUNCIOS
+#### SECCIÓN SÉPTIMA. DE LAS SANCIONES EN MATERIA DE TERRAZAS MÓVILES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 561.
 
@@ -7615,7 +6293,9 @@ Si el propietario o poseedor no efectúan voluntariamente el pago del costo de l
 
 Se podrán revocar las licencias, permisos y autorizaciones otorgadas por las siguientes causas:
 
-I. Por haber incurrido en falsedad en los datos consignados en la solicitud de la licencia respectiva;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+I. Por haber incurrido en falsedad, dolo u omisiones en los datos consignados en la solicitud de la licencia respectiva;
 
 II. Por darse un uso a una construcción, instalación o predio, o parte de él sin la licencia correspondiente o por darse un uso diferente de aquel para el cual haya sido expedida la licencia;
 
@@ -7631,9 +6311,11 @@ V. Cuando el interesado incumpla las condiciones impuestas en la licencia otorga
 
 A quien infrinja las disposiciones de la Ley de Fraccionamientos, el Reglamento de la Ley, así como del presente Código en lo que respecta a la materia de fraccionamientos y desarrollos en condominio, la Dirección aplicará una o más de las sanciones que aquélla establece, previa substanciación del procedimiento establecido en este ordenamiento y el Código del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 568.
 
-Tratándose de los peritos responsables de la ejecución de obras de urbanización, la Dirección podrá imponer las sanciones siguientes:
+Tratándose de los Peritos Urbanos y Topógrafos, la Dirección podrá imponer las sanciones siguientes:
 
 I. Apercibimiento;
 
@@ -7641,11 +6323,15 @@ II. Suspensión del registro de tres a veinticuatro meses; o,
 
 III. Cancelación del Registro.
 
-Lo anterior sin perjuicio de que el perito responsable de la ejecución de obras de urbanización subsane las irregularidades derivadas de su incumplimiento.
+Lo anterior sin perjuicio de su obligación de subsanar las irregularidades derivadas de su incumplimiento.
+
+La cancelación del Registro será por un término de diez años, en el entendido de que dichos peritos no podrán otorgar su responsiva en el mencionado plazo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 569.
 
-Con independencia de lo establecido en el artículo anterior, procederá también la cancelación del registro del perito responsable de la ejecución de obras de urbanización, en los supuestos siguientes:
+Con independencia de lo establecido en el artículo anterior, procederá también la cancelación del registro de los Peritos Urbanos y del Perito Topógrafo, en los supuestos siguientes:
 
 I. Haber obtenido el registro con información o documentación falsa;
 
@@ -7653,25 +6339,31 @@ II. Cuando habiendo sido suspendido temporalmente el registro, el perito respons
 
 III. Por estar privado de su libertad, ya sea por estar sujeto a proceso o por haberse dictado sentencia condenatoria, o cuando en ésta sea suspendido del ejercicio profesional.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 570.
 
-Para los efectos del artículo precedente, se considera reincidente al perito responsable de la ejecución de obras de urbanización aquel que en un periodo de doce meses infrinja más de dos veces, las disposiciones del presente Código y de la Ley de Fraccionamientos, el Reglamento de la Ley y demás normativa en la materia.
+Para los efectos del artículo precedente, se considera reincidente a aquel que en un periodo de doce meses infrinja más de dos veces, las disposiciones del presente Código y de la Ley de Fraccionamientos, el Reglamento de la Ley y demás normativa en la materia.
 
 ###### Artículo 571.
 
 La Dirección General de Verificación Normativa en materia de construcciones, podrá imponer a los particulares propietarios o poseedores del inmueble de que se trate, las mismas sanciones que se encuentran previstas por el presente Código, para las infracciones relacionadas con la zonificación y usos del suelo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 572.
 
-Tratándose de Proyectistas y DRO corresponderá a la Dirección la imposición de sanciones, las cuales podrán consistir en
+Tratándose de DRO, Proyectista Arquitectónico y Proyectista Estructural corresponderá a la Dirección la imposición de sanciones, las cuales podrán consistir en:
 
 I.- Suspensión temporal o definitiva del registro: y,
 
 II.- Multa por el equivalente de 10 a 500 días de salario mínimo vigente en el Estado, al momento de cometer la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 573.
 
-La Dirección, podrá determinar la suspensión del registro de un proyectista o de un DRO, en los siguientes casos:
+La Dirección, podrá determinar la suspensión del registro de un DRO, Proyectista Arquitectónico y Proyectista Estructural en los siguientes casos:
 
 I. Cuando haya obtenido su inscripción proporcionando datos falsos;
 
@@ -7683,33 +6375,53 @@ III. Por haber incurrido en violaciones a las disposiciones previstas en el pres
 
 En el caso del artículo anterior, la Dirección levantará el dictamen correspondiente y entregará aviso de la suspensión a la Dirección de Profesiones del Estado, para que se proceda en consecuencia.
 
-La suspensión de un proyectista o de un DRO, se dictará por un lapso mínimo de tres meses y máximo de tres años o en casos extremos o podrá ser definitiva la cancelación del registro sin liberar al responsable de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
+La suspensión de un DRO, así como del Proyectista Arquitectónico y Proyectista Estructural se dictará por un lapso mínimo de tres meses y máximo de tres años o en casos extremos o podrá ser definitiva la cancelación del registro sin liberar al responsable de la obligación de subsanar las irregularidades en que haya incurrido e independientemente de las sanciones administrativas o multas que le fuesen impuestas
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 575.
 
-A los proyectistas que incurran en omisiones o en infracciones les será suspendido el registro hasta en tanto no se de cumplimiento a las ordenes de la Dirección, se repare el daño y hayan pagado las multas que se les hubieren impuesto.
+Al Proyectista Arquitectónico y Proyectista Estructural que incurran en omisiones o en infracciones les será suspendido el registro hasta en tanto no se de cumplimiento a las ordenes de la Dirección, se repare el daño y hayan pagado las multas que se les hubieren impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 576.
 
-En caso de suspensión del registro al proyectista, este queda imposibilitado para ingresar documentación bajo su responsiva, independientemente de que cubra los daños y pague las multas a que se haya hecho acreedor. Podrá seguir supervisando las obras en la que sea DRO.
+En caso de suspensión del registro al Proyectista Arquitectónico y Proyectista Estructural, estos quedan imposibilitados para ingresar documentación bajo su responsiva, independientemente de que cubra los daños y pague las multas a que se haya hecho acreedor; y podrá seguir supervisando las obras en la que sea DRO.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 577.
 
-Podrá habilitarse nuevamente el registro de un DRO o proyectista antes del plazo fijado para suspensión, si se han reparado todos los daños y cubierto las sanciones que le hubieran sido aplicadas a todos los que resultaran responsables.
+Podrá habilitarse nuevamente el registro de un DRO o Proyectista Arquitectónico y Proyectista Estructural antes del plazo fijado para suspensión, si se han reparado todos los daños y cubierto las sanciones que le hubieran sido aplicadas a todos los que resultaran responsables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2012)</small>
 
 ###### Artículo 578.
 
-Para la imposición de la multa, además de lo preceptuado por el Código del Procedimiento Administrativo, se fijará conforme a la siguiente clasificación de las infracciones cometidas por los DRO y Proyectistas:
+Para la imposición de la multa, además de lo preceptuado por el Código del Procedimiento Administrativo, se fijará conforme a la siguiente clasificación de las infracciones cometidas por el DRO, Proyectista Arquitectónico y Proyectista Estructural:
 
-I. Leves: Que el daño es reparable y no tiene como consecuencia la suspensión de la obra. Si el daño es imputable al proyectista o al DRO, le será suspendido el registro por un período mínimo de 3 meses y las multas serán hasta de 100 días de salario mínimo vigente en el Estado, al momento de cometer la infracción;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2012)</small>
+
+I. Leves: Que el daño es reparable y no tiene como consecuencia la suspensión de la obra. Si el daño es imputable al DRO, al Proyectista Arquitectónico o al Proyectista Estructural, le será suspendido el registro por un periodo mínimo de 3 meses y las multas serán hasta de 100 días de salario mínimo vigente en el Estado, al momento de cometer la infracción;
 
 II. Graves: Que el daño tiene como consecuencia la suspensión del registro del profesionista y/o clausura parcial de la obra. En caso de suspensión al profesionista el período será de 6 meses y las multas serán hasta por 300 días de salario mínimo vigente en el Estado, al momento de cometer la infracción; y,
 
 III. Muy Graves: cuando existe falsedad, dolo, ignorancia o mala fe en la información y documentación presentada para la obtención de licencias, permisos o constancias de terminación de obra y el daño tiene como consecuencia la suspensión del registro del profesionista y/o los daños afectan al control del desarrollo y/o la obra debe ser clausurada totalmente o demolida parcial o totalmente. En este supuesto en caso de suspensión al profesionista, el período se suspensión será de 1 a 3 años, y las multas serán hasta por 500 días de salario mínimo vigente en el Estado al momento de cometer la infracción.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 579.
 
-En caso de reincidencia, el monto de la sanción pecuniaria podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, para los efectos de este Código, se considera reincidente al Proyectista o DRO, que en un periodo de doce meses infrinja dos veces, a partir de una sanción, las disposiciones del presente Código, si este es el caso, se suspenderá al proyectista o al DRO un año y será sustituido en las obras en que se encuentre participando.
+En caso de reincidencia, el monto de la sanción pecuniaria podrá ser hasta por dos tantos del importe originalmente impuesto, sin que exceda del doble del máximo permitido, para los efectos de este Código, se considera reincidente al DRO, al Proyectista Arquitectónico y al Proyectista Estructural que en un periodo de doce meses infrinja dos veces, a partir de una sanción, las disposiciones del presente Código, si este es el caso, se les suspenderá un año y serán sustituidos en las obras en que se encuentren participando.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 579 - A.
+
+Será aplicable en lo conducente la presente sección, a los peritos topógrafos que intervengan en la materia de las construcciones, siempre y cuando no guarde relación con el apartado de fraccionamientos y desarrollos en condominio.
 
 ###### Artículo 580.
 
@@ -7789,9 +6501,11 @@ III. Por no respetar las restricciones para cada tipo de anuncio.
 
 Si en un lapso de 15 días naturales no se cumple con la orden de retiro, la Dirección General de Verificación Normativa, procederá al desmantelamiento y retiro del anuncio, depositándose en el lugar que indique el infractor y en caso de negativa, el lugar que determine la autoridad competente. Los gastos que se originen por el retiro y almacenamiento serán a costa del infractor.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
+
 ###### Artículo 586.
 
-Procederá la clausura de un anuncio, cuando se violen las prohibiciones previstas en el artículo 419 de este Código.
+Procederá la clausura de un anuncio, cuando se violen las prohibiciones previstas en el artículo 419 de este Código y el anexo 7 del mismo ordenamiento en tratándose de anuncios en la zona del patrimonio histórico.
 
 ###### Artículo 587.
 
@@ -7831,23 +6545,49 @@ Podrá habilitarse nuevamente el registro de un Especialista Estructural antes d
 
 La Dirección podrá imponer las medidas de seguridad previstas en el Código del Procedimiento Administrativo, previo cumplimiento de los requisitos y formalidades que ahí se consignan.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 593 - A.
+
+Por infracción de las disposiciones relativas a la instalación de las Terrazas Móviles, contenidas en el anexo 7 del presente Código, la Dirección podrá imponer las sanciones siguientes:
+
+I.- Multa de 100 a 500 días del salario mínimo diario que rija en el Estado;
+
+II.- Suspensión de la autorización hasta por 30 treinta días; y
+
+III.- Revocación de la autorización.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+
+###### Artículo 593 - B.
+
+En la resolución donde se declare la revocación de la autorización, se ordenará el retiro de la Terraza Móvil y el mobiliario de ésta.
+
+Si en un lapso de 15 días naturales no se cumple con la orden de retiro, la Dirección procederá al desmantelamiento y retiro de la Terraza Móvil, depositándose en el lugar que indique el infractor y en caso de negativa, el lugar que determine la autoridad competente.
+
+Los gastos que se originen por el retiro y almacenamiento serán a costa del infractor.
+
+### CAPÍTULO VII. DE LOS RECURSOS Y MEDIOS DE IMPUGNACIÓN
+
 ###### Artículo 594.
 
 En contra de los actos y resoluciones de las autoridades competentes en la aplicación del presente Código, los interesados afectados podrán interponer los medios de defensa señalados por el Código del Procedimiento Administrativo.
 
 ANEXOS
 
-> <small>N. DE E. VEASE ANEXO 1: MANUAL TECNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PAGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PAGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PAGINAS 66 A LA 67.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69.</small>
 
-> <small>N. DE E. VEASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MINIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 194 A LA 201.</small>
+> <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201.</small>
 
-> <small>N. DE E. VEASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 52 A LA 53.</small>
+> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 52 A LA 53.</small>
 
-> <small>N. DE E. VEASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 203 A LA 208.</small>
+> <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70.</small>
 
-> <small>N. DE E. VEASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PAGINAS 54 A LA 55.</small>
+> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE DE 2011, PÁGINAS 54 A LA 55.</small>
 
-> <small>N. DE E. VEASE ANEXO 6: MANUAL TECNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PAGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PAGINAS 34 A LA 35.</small>
+> <small>N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75.</small>
+
+> <small>N. DE E. VÉASE ANEXO 7: MANUAL TÉCNICO DE ANUNCIOS, TERRAZAS MÓVILES Y FACHADAS EN LA ZONA DE PATRIMONIO HISTÓRICO EN EL P.O. 31 DE ENERO DE 2012, PÁGINAS 75 A LA 87.</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -7891,7 +6631,7 @@ LIC. MAYRA ANGÉLICA ENRÍQUEZ VANDERKAM
 
 SECRETARIA DEL H. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE OCTUBRE DE 2010.
 
@@ -7933,1114 +6673,30 @@ SEGUNDO.- Los procedimientos administrativos iniciados antes de la entrada en vi
 
 TERCERO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
 
+P.O. 16 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
+
+P.O. 31 DE ENERO DE 2012.
+
+PRIMERO.- Las presentes modificaciones, entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Consultivo para el Desarrollo Sustentable en materia Urbanismo (sic) en el Municipio de León, Guanajuato, tendrá un término de 30 días hábiles posteriores a la entrada en vigor de las presentes modificaciones, para conformar el grupo de trabajo que conocerá de las recomendaciones y opiniones técnicas para el registro de los DRO, Peritos Urbanos, Proyectistas Arquitectónicos, Proyectistas Estructurales y Peritos Topógrafos.
+
+TERCERO.- La Dirección General de Desarrollo Urbano contará con un término de 3 meses contados a partir de la entrada en vigor del presente ordenamiento, para la conformación y actualización del padrón municipal de registro de los Proyectistas Arquitectónicos, Proyectistas Estructurales y Peritos Topógrafos.
+
+CUARTO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas municipales que se opongan a las presentes modificaciones.
+
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 360.- SE REFORMAN LOS ARTÍCULOS 55, 140, 146, 147, 150, 151 Y 190, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE AGOSTO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 374.- SE ADICIONA EL ARTÍCULO 38 BIS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE NOVIEMBRE DE 2016.
-
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 417.- SE REFORMA EL ARTÍCULO 164, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 7 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 420.- SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 117 Y 181 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
 
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia dentro del término de 120 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-La Fiscalía General del Estado constituirá la Unidad Especializada en Delitos Informáticos, dentro del término de 120 días naturales contados a partir del día siguiente de la publicación del presente Decreto en el Periódico Oficial del Estado de Aguascalientes; dicha Unidad estará encargada de auxiliar al Ministerio Público en la investigación de las conductas relacionadas con el presente Decreto y otros tipos penales cometidos a través de plataformas informáticas.
-
-Dentro del término referido en el párrafo anterior, la Fiscalía General del Estado deberá realizar los ajustes pertinentes al Reglamento de la Ley Orgánica de la Fiscalía General del Estado y a toda su normatividad interna, a efecto de constituir y poner en funcionamiento a la Unidad Especializada en Delitos Informáticos.
-
-P.O. 7 DE NOVIEMBRE DE 2016.
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 421.- SE ADICIONA UN LIBRO TERCERO DENOMINADO “INDEMNIZACIONES” AL CAPÍTULO ÚNICO Y LOS ARTÍCULOS 201, 202, 203, 204 Y 205 AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-El Fondo para la Indemnización de Sentenciados Absueltos referido en el Artículo 204 de este Decreto, es el mismo que prevé el Artículo 303 del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del Decreto 331 publicado en el Periódico Oficial del Estado el 20 de mayo de 2013.
-
-P.O. 8 DE MAYO DE 2017.
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 79.- LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá expedir las leyes y realizar las adecuaciones normativas correspondientes, de conformidad con lo previsto en el presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado deberá designar a los primeros integrantes de la Comisión de Selección.
-
-La Comisión de Selección nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes:
-
-a. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
-
-b. Un integrante que durará en su encargo dos años.
-
-c. Un integrante que durará en su encargo tres años.
-
-d. Un integrante que durará en su encargo cuatro años.
-
-e. Un integrante que durará en su encargo cinco años.
-
-Los integrantes del Comité de Participación Ciudadana a que se refieren los incisos anteriores se rotarán la representación ante el Comité Coordinador en el mismo orden.
-
-La sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción, se llevará a cabo dentro del plazo de quince días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana en los términos de los párrafos anteriores.
-
-La Secretaría Ejecutiva deberá iniciar sus operaciones, a más tardar a los treinta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
-
-Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
-
-P.O. 21 DE AGOSTO DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 127.- SE ADICIONA Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 25 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 218.- SE REFORMAN LOS ARTÍCULOS 114, 163 Y 164; Y SE ADICIONA EL ARTÍCULO 27, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 11 DE JUNIO DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 306.- SE REFORMAN LOS ARTÍCULOS 97-A, 107, 124, 157, 169, 179, 180, 181, 181 A, 192 Y 194; SE ADICIONAN LOS ARTÍCULOS 97-A, 100, 114, 124, 157 Y 158; SE DEROGA LA FRACCIÓN IX DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 97 A, LA FRACCIÓN VII DEL ARTÍCULO 107 Y EL ARTÍCULO 113 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 11 DE JUNIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 315 ARTÍCULO PRIMERO.- SE REFORMA Y ADICIONA EL ARTÍCULO 155 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 43 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigencia al día siguiente de su publicación.
-
-###### ARTÍCULO SEGUNDO.
-
-La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
-
-P.O. 2 DE JULIO DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 332.- SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 107; LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 142; LA FRACCIÓN IV DEL ARTÍCULO 150; LAS FRACCIONES XI Y XII DEL ARTÍCULO 157; Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 192 A. ASÍ COMO SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 142; UNA FRACCIÓN XIII AL ARTÍCULO 157; Y UN TERCER PÁRRAFO AL ARTÍCULO 163, AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 9 DE JULIO DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 342.- SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 75-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 17 DE SEPTIEMBRE DE 2018.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 82, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 82 A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO ÚNICO.
-
-Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 3 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 162.- SE REFORMAN LOS ARTÍCULOS 138, 141, Y SE DEROGA LA FRACCIÓN XV DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 8 DE JULIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES V, XII, XIII Y XIV DEL ARTÍCULO 75-A, SE ADICIONAN LAS FRACCIONES XV, XVI Y XVII AL ARTÍCULO 75-A; UNA FRACCIÓN VII Y SE REFORMA EL ÚLTIMO PÁRRAFO AL ARTÍCULO 107; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 150 Y SE RECORRE EL SUBSECUENTE; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
-
-P.O. 30 DE SEPTIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 206.- SE ADICIONA EL ARTÍCULO 178 A AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 11 DE NOVIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238.- ARTÍCULO ÚNICO.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 131 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 28 DE NOVIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244.- ARTÍCULO PRIMERO.- SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 3°; LA FRACCIÓN I, VIII Y IX DEL ARTÍCULO 8°; LA FRACCIÓN XV DEL ARTÍCULO 36; Y LA FRACCIÓN XIV DEL ARTÍCULO 48; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XXI AL ARTÍCULO 3° Y LA FRACCIÓN X DEL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 181, Y SE ADICIONA EL ARTÍCULO 181 B DEL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 290.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES I, II, III, Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 145 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 291.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II, III, IV Y IX DEL ARTÍCULO 97 A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 30 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 297.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 30 DE DICIEMBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 298.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES I, II, III Y IV Y SE ADICIONAN LAS FRACCIONES V Y VI, ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE MARZO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 316.- ARTÍCULO ÚNICO.- SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 118, LA FRACCIÓN I DEL ARTÍCULO 120 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 133, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 29 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 354.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 107 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 29 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 355.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES IV Y V DEL ARTICULO 67, Y SE ADICIONA UNA FRACCIÓN VI, AL ARTÍCULO 67, Y EL ARTÍCULO 73 A, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la Comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 29 DE JUNIO DE 2020.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 356".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 22 DE MARZO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 509.- SE REFORMAN LAS FRACCIONES V Y VII DEL ARTÍCULO 107 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE MARZO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 510.- SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 146, Y SE ADICIONAN (SIC) LA FRACCIÓN V AL ARTÍCULO 146 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El Presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 22 DE MARZO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 511.- SE REFORMAN LAS FRACCIONES II Y IV DEL ARTÍCULO 75 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 29 DE MARZO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 517.- SE REFORMA EL ARTÍCULO 133-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9º del Código Penal para el Estado de Aguascalientes.
-
-P.O. 19 DE ABRIL DE 2021.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 527.- SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 107 Y SE ADICIONA EL ARTÍCULO 113 AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 31 DE MAYO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 557.- SE DEROGA EL ARTÍCULO 75-A DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 3 DE ENERO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 53.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 132 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 133 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 11 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 109.- SE REFORMAN LOS ARTÍCULOS 87 SEGUNDO PÁRRAFO Y 88 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 193 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-– El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 16 DE MAYO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 124.- SE REFORMAN LAS FRACCIONES II Y III Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 152 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 18 DE JULIO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 155.- "SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y II, Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 192 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 18 DE JULIO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 160.- SE REFORMAN LAS FRACCIONES II Y III DEL PÁRRAFO SEXTO Y EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 97-A; EL ARTÍCULO 99; LOS INCISOS B) Y C) DE LA FRACCIÓN I DEL ARTÍCULO 124; Y SE ADICIONA UNA FRACCIÓN IV AL PÁRRAFO SEXTO DEL ARTÍCULO 97-A Y UN INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 124 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Los hechos que pudieran encuadrar en las modificaciones aprobadas, se enjuiciarán y sentenciarán conforme a las leyes que les eran aplicables al momento de su comisión, sin que les resulten aplicables las disposiciones contenidas en el presente Decreto.
-
-P.O. 18 DE JULIO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 161.- SE REFORMA LA FRACCIÓN V Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 141, AL CUAL TAMBIÉN SE LE ADICIONA UNA FRACCIÓN VI; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 142, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de supublicación (sic) en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 17 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 195.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 17 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 197.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 7 DE NOVIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 221.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE ENERO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 8 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 322.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES, Y, REFORMA A LA LEY PARA EL DESARROLLO PECUARIO DEL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 8 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 323.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 15 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 332.- REFORMA AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 30 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 341.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 30 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 342.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 5 DE JUNIO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 351.- SE REFORMAN EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-La situación jurídica de las personas procesadas, sentenciadas y que estén compurgando una pena, así como los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se seguirán y resolverán con base en la norma vigente al momento en el que ocurrieron los hechos materia de ellos.
-
-P.O. 12 DE JUNIO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 358.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
-
-P.O. 19 DE JUNIO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 366.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
-
-P.O. 26 DE JUNIO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 368.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 3 DE JULIO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 378.- SE ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE JULIO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 387.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-– El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-– Los procesos penales iniciados durante la vigencia del artículo 136 del Código Penal para el Estado de Aguascalientes, deberán seguirse conforme al tipo penal y sus sanciones respectivas, según lo previsto en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, previa reposición del procedimiento, sin que ello signifique la doble sanción por un mismo hecho delictivo en perjuicio del particular.
-
-P.O. 7 DE AGOSTO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 410.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
-
-P.O. 7 DE AGOSTO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 413.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO UNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado de Aguascalientes.
-
-P.O. 4 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 426.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Estado de Aguascalientes.
-
-P.O. 23 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 423.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 427.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 6 DE NOVIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 462.- SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Aquellos procedimientos judiciales, que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 6 DE NOVIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 464.- SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 27 DE NOVIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 480.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 11 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 504.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
-
-P.O. 27 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 573.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-Artículo Primero.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 15 DE ENERO DE 2024.
-
-[N. DE. TRANSITORIOS DEL “DECRETO NÚMERO 543.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 8 DE ENERO DE 2024.
-
-[N. DE. TRANSITORIOS DEL “DECRETO NÚMERO 533.- SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 22 DE ENERO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 561.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 1 DE ABRIL DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 612.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Con la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones legales que se opongan al mismo.
-
-P.O. 20 DE MAYO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 662.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 20 DE MAYO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 663.- SE DEROGAN DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 27 DE MAYO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 670.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 3 DE JUNIO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 687.- SE REFORMA EL CÓDIGO PENAL DEL (SIC) ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 15 DE JULIO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 739.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión el hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 5 DE AGOSTO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 755.- SE ADICIONAN DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 13 DE AGOSTO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 782.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-– El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 786.·SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforma, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9o del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 787.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se forman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 788.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 792.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforma, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9o del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 800.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 23 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 804.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-Artículo Único.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 25 DE NOVIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 12.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del estado de Aguascalientes.
-
-P.O. 27 DE ENERO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 75.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes
-
-P.O. 16 DE ABRIL DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 175.- SE ADICIONA EL ARTÍCULO 178 E AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 19 DE MAYO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 167.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES."]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 26 DE MAYO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 180.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
-
-P.O. 16 DE JUNIO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 198.- SE REFORMA CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
-
-P.O. 28 DE JULIO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 234.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 28 DE JULIO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 239.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 20 DE OCTUBRE DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 260.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 20 DE OCTUBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones que se opongan a lo preceptuado por el presente Decreto.
-
-P.O. 24 DE NOVIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 299.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 8 DE DICIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 15 DE DICIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Los procedimientos penales iniciados con antelación a la entrada en vigor de este Decreto se regirán por las disposiciones vigentes al momento de su inicio.
-
-###### ARTÍCULO TERCERO.
-
-Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 355.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 356.- SE ADICIONA EL ARTÍCULO 192-B AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 357.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 358.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforma, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9º del Código Penal para el Estado de Aguascalientes.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 364.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 114 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 370.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE ENERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 371.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 24 DE FEBRERO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 405.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
-
-###### ARTÍCULO TERCERO.
-
-El delito de extorsión previsto en el Código Penal para el Estado de Aguascalientes vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones.
-
-Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
-
-###### ARTÍCULO CUARTO.
-
-La Fiscalía General del Estado de Aguascalientes deberá crear una unidad especializada de atención a los delitos de extorsión, y contar con ministerios públicos, policías y analistas capacitados, evaluados, certificados y especializados en materia de extorsión, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
-
-La Secretaría de Seguridad Pública del Estado de Aguascalientes deberá contar con una unidad especializada en materia de extorsión y con el personal capacitado y especializados en materia de extorsión, en un término no mayor a 90 días posteriores a la entrada en vigencia del presente Decreto.
-
-###### ARTÍCULO QUINTO.
-
-Quedan sin efectos todas aquellas disposiciones que se oponga al presente Decreto.
-
-P.O. 24 DE FEBRERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 406.- SE ADICIONA UN ARTÍCULO AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 24 DE FEBRERO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 407.- SE ADICIONAN ARTÍCULOS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 6 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 426.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 6 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 427.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 6 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 428.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 20 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 443.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 20 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 483.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Las autoridades competentes adoptarán las medidas necesarias para la debida aplicación del presente Decreto.
-
-###### ARTÍCULO TERCERO.
-
-Las autoridades competentes implementarán, en el ámbito de sus atribuciones, campañas de prevención dirigidas a evitar la participación de niñas, niños y adolescentes en juegos de azar, así como acciones de sensibilización sobre los riesgos asociados a dichas actividades.
-
-P.O. 11 DE MAYO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 482.- SE DEROGA UN CAPÍTULO VI DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 25 DE MAYO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 495.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTICULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-Aquellos procedimientos judiciales, que se estén llevando a cabo respecto del tipo penal que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
-
-P.O. 25 DE MAYO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 496.- SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE JUNIO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 514.- SE REFORMA EL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE JUNIO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 521.- SE ADICIONA EL ARTÍCULO 113 A AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE JUNIO DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 529.- SE ADICIONA EL ARTÍCULO 178 H AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 29 DE JUNIO DE 2026.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 535.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; Y, SE ADICIONA UNA FRACCIÓN X B AL ARTÍCULO 83 Y UN ARTÍCULO 139 TER AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones legales que se opongan al presente Decreto.
