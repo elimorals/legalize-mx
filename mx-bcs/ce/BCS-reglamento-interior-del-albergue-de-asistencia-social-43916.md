@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-albergue-de-asistencia-social-43916"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-10"
-last_updated: "2005-02-10"
+last_updated: "2012-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DEL ALBERGUE DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ALBERGUE DE ASISTENCIA SOCIAL, PUBLICADO EN EL B.O. DE 31 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EN EL BOLETÍN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 10 de febrero de 2005.
 
@@ -362,3 +364,15 @@ Procurador General de Justicia del Estado de B.C.S.
 Lic. Siria Verdugo Davis
 
 Secretaria Técnica de la Junta de Gobierno
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE ENERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Albergue de Asistencia Social, publicado en el Boletín Oficial del Gobierno del Estado número 9 de fecha 10 de febrero del 2005.
