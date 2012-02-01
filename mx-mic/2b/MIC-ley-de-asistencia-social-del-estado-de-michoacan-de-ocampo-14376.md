@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2007-08-31"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -85,7 +85,9 @@ II. Menores infractores;
 
 III. Alcohólicos y farmacodependientes;
 
-IV. Mujeres en período de gestación o lactancia;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+IV. La mujer que se encuentre en período de gestación, lactancia o que tenga a su cargo exclusivo los alimentos de hijo menor de edad o con discapacidad, que no tenga ingreso adicional o empleo, o teniéndolos, su ingreso no sea mayor de un salario mínimo general diario vigente en la entidad;
 
 V. Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
 
@@ -516,3 +518,7 @@ P.O. 31 DE AGOSTO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
