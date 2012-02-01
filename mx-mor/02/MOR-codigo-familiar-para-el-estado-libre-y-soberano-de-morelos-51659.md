@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2010-04-21"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-CODIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
+CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -583,11 +583,19 @@ En caso de disolución de concubinato o matrimonio, los alimentos se otorgarán 
 
 OBLIGACIÓN ALIMENTARlA DE LOS ASCENDIENTES.- Los padres están obligados a dar alimentos a sus hijos, se exceptúa de esta obligación a los padres y quienes ejerzan la patria potestad cuando se encuentren imposibilitados de otorgarlos, siempre que lo anterior este fehacientemente acreditado. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Para lo cual el Juzgador, de oficio, hará uso de las facultades en materia de prueba y de la posibilidad de decretar diligencias probatorias, contenidas en los artículos 301 y 302 del Código Procesal Familiar del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+En caso de que el deudor alimentario tenga impedimento para otorgarlos, debe probar plenamente que le faltan los medios para proporcionar alimentos, que no le es posible obtener ingresos derivados de un trabajo remunerado por carecer de éste o bien que tenga un impedimento físico o mental para desempeñarlo.
+
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 39.
 
-OBLIGACIÓN ALlMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado, se exceptúa de esta obligación cuando los padres hayan dejado de cumplir con la obligación que señala el artículo 38, siempre que lo anterior este fehacientemente acreditado.
+OBLIGACIÓN ALIMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado, se exceptúa de esta obligación cuando los padres hayan dejado de cumplir con la obligación que señala el artículo 38, siempre que lo anterior este fehacientemente acreditado.
 
 ###### ARTÍCULO 40.
 
@@ -616,6 +624,18 @@ La obligación de dar alimentos no comprende la de proveer capital a los hijos p
 ###### ARTÍCULO 44.
 
 CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTICIA. El obligado a dar alimentos cumple con la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Aquella persona que incumpla con lo señalado en el párrafo anterior, por un periodo de noventa días, se constituirá deudor alimentario moroso. El Juez de lo Familiar, ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+El deudor alimentario moroso que acredite ante el Juez de lo Familiar, que han sido pagadas en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+El Registro Civil, cancelará las inscripciones a que se refiere el segundo párrafo de este artículo, previa orden judicial.
 
 ###### ARTÍCULO 45.
 
@@ -743,17 +763,45 @@ INICIO DE LA MAYORÍA DE EDAD. La mayoría de edad comienza a los dieciocho año
 
 LIBRE DISPOSICIÓN DEL MAYOR DE EDAD. El mayor de edad dispone libremente de su persona y de sus bienes.
 
-### CAPÍTULO I. DEL CONCUBINATO Y DE LOS ESPONSALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO VI. DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 64 BIS.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 44 del presente Código. Dicho registro deberá contener:
+
+I. Nombre, apellidos y Clave Única del Registro de de Población del Deudor alimentario moroso;
+
+II.- Nombre del acreedor o acreedores alimentarios;
+
+III.- Datos del acta que acrediten el vínculo entre el deudor y acreedor alimentario, en su caso;
+
+IV.- Número de pagos incumplidos y monto del adeudo alimentario;
+
+V.- Órgano jurisdiccional que ordena el registro; y
+
+VI.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 64 TER.- El Certificado a que se refiere el artículo 419 de éste Código contendrá lo siguiente:
+
+I.- Nombre, apellidos y Clave Única de Registro de Población del deudor alimentario moroso;
+
+II.- Número de acreedores alimentarios;
+
+III.- Monto de la obligación adeudada;
+
+IV.- Órgano jurisdiccional que ordenó el registro; y
+
+V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
 # LIBRO TERCERO. DEL CONCUBINATO, DEL MATRIMONIO Y SU DISOLUCIÓN
 
 ## TÍTULO PRIMERO. DEL CONCUBINATO, LOS ESPONSALES Y EL MATRIMONIO
 
-### CAPÍTULO II. DEL MATRIMONIO
-
-GENERALIDADES
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+### CAPÍTULO I. DEL CONCUBINATO Y DE LOS ESPONSALES
 
 ###### ARTÍCULO 65.
 
@@ -771,7 +819,11 @@ Para acreditar el concubinato, el Juez deberá tomar en consideración que los c
 
 (DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
-### CAPÍTULO III. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
+### CAPÍTULO II. DEL MATRIMONIO
+
+GENERALIDADES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 68.
 
@@ -791,7 +843,7 @@ ESTABLECIMIENTO DEL MATRIMONIO POR EL ESTADO. El Estado establece el matrimonio,
 
 PROTECCIÓN DEL ESTADO A LA INSTITUCIÓN DEL MATRIMONIO. El Estado protegerá la institución del matrimonio, por ser el fundamento de la familia y la conservación de la especie.
 
-### CAPÍTULO IV. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
+### CAPÍTULO III. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
 ###### ARTÍCULO 72.
 
@@ -811,7 +863,7 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL VÍNCULO MATRIMONIAL
+### CAPÍTULO IV. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
 ###### ARTÍCULO 75.
 
@@ -899,7 +951,7 @@ INSCRIPCIÓN DEL MATRIMONIO CONTRAÍDO EN EL EXTRANJERO POR MORELENSES. Tratánd
 
 Si la trascripción se hace dentro de esos tres meses, sus efectos civiles y familiares se retrotraerán a la fecha en que se celebró el matrimonio; si se hace después, sólo producirá efectos desde el día en que se hizo la trascripción.
 
-### CAPÍTULO VI. DISPOSICIONES GENERALES DEL MATRIMONIO CON RELACIÓN A LOS BIENES
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL VÍNCULO MATRIMONIAL
 
 ###### ARTÍCULO 84.
 
@@ -959,7 +1011,7 @@ DE LOS CONTRATOS ENTRE CÓNYUGES. El contrato de compraventa, permuta o donació
 
 RÉGIMEN LEGAL DE BIENES Y ADMINISTRACIÓN. Antes de celebrar el matrimonio, los pretendientes están obligados a manifestar su voluntad, respecto al régimen legal de sus bienes y a su administración.
 
-### CAPÍTULO VII. DE LA SOCIEDAD CONYUGAL
+### CAPÍTULO VI. DISPOSICIONES GENERALES DEL MATRIMONIO CON RELACIÓN A LOS BIENES
 
 ###### ARTÍCULO 95.
 
@@ -985,7 +1037,7 @@ CAMBIO DE RÉGIMEN MATRIMONIAL. Durante el matrimonio, los esposos pueden dar po
 
 RÉGIMEN MATRIMONIAL DEL MENOR DE EDAD. El menor de edad que contraiga matrimonio manifestará el régimen bajo el cual lo celebra con aprobación de su representante legal. También requerirá de representación legal para la liquidación anticipada de la sociedad.
 
-### CAPÍTULO VIII. DE LA SEPARACIÓN DE BIENES
+### CAPÍTULO VII. DE LA SOCIEDAD CONYUGAL
 
 ###### ARTÍCULO 100
 
@@ -1105,7 +1157,7 @@ POSESIÓN Y ADMINISTRACIÓN POR EL CÓNYUGE SUPÉRSTITE. Muerto uno de los cóny
 
 El consorte supérstite tendrá derecho a una remuneración por la administración que desempeñe que será fijado por convenio entre él y los herederos o por el Juez si no se llega a un acuerdo entre ellos.
 
-### CAPÍTULO IX. DE LAS REGLAS COMUNES A LOS REGÍMENES ECONÓMICOS CONYUGALES
+### CAPÍTULO VIII. DE LA SEPARACIÓN DE BIENES
 
 ###### ARTÍCULO 116.
 
@@ -1135,7 +1187,7 @@ DOMINIO Y ADMINISTRACIÓN EN LA SEPARACIÓN DE BIENES. En el régimen de separac
 
 Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicio personal, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
-### CAPÍTULO X. DE LAS DONACIONES ANTENUPCIALES
+### CAPÍTULO IX. DE LAS REGLAS COMUNES A LOS REGÍMENES ECONÓMICOS CONYUGALES
 
 ###### ARTÍCULO 121.
 
@@ -1157,7 +1209,7 @@ PARTICIPACIÓN DEL USUFRUCTO ENTRE CÓNYUGES. El marido y la mujer que ejerzan l
 
 RECIPROCIDAD CONYUGAL DE PAGO POR DAÑOS Y PERJUICIOS. El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
-### CAPÍTULO XI. DE LAS DONACIONES ENTRE CONSORTES
+### CAPÍTULO X. DE LAS DONACIONES ANTENUPCIALES
 
 ###### ARTÍCULO 125.
 
@@ -1199,7 +1251,7 @@ CESACIÓN DE EFECTOS DE LAS DONACIONES ANTENUPCIALES. Las donaciones antenupcial
 
 DONACIONES COMUNES Y ANTENUPCIALES. Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes en todo lo que no fueren contrarias a este capítulo.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES AL PATRIMONIO DE FAMILIA
+### CAPÍTULO XI. DE LAS DONACIONES ENTRE CONSORTES
 
 ###### ARTÍCULO 133.
 
@@ -1217,7 +1269,7 @@ HIPÓTESIS DE NO REVOCACIÓN Y REDUCCIÓN DE LAS DONACIONES ENTRE CÓNYUGES. Las
 
 ## TÍTULO SEGUNDO. DEL PATRIMONIO DE FAMILIA
 
-### CAPÍTULO I. DE LOS MATRIMONIOS NULOS, INEXISTENTES E ILÍCITOS
+### CAPÍTULO ÚNICO. DISPOSICIONES COMUNES AL PATRIMONIO DE FAMILIA
 
 ###### ARTÍCULO 136.
 
@@ -1359,7 +1411,7 @@ INTERVENCIÓN DEL MINISTERIO PUBLICO EN ASUNTOS RELATIVOS AL PATRIMONIO FAMILIAR
 
 ## TÍTULO TERCERO. DE LA DISOLUCIÓN DEL MATRIMONIO
 
-### CAPÍTULO II. DEL DIVORCIO
+### CAPÍTULO I. DE LOS MATRIMONIOS NULOS, INEXISTENTES E ILÍCITOS
 
 ###### ARTÍCULO 155.
 
@@ -1481,7 +1533,7 @@ En los casos anteriores, la nulidad sólo podrá ser exigida por el Ministerio P
 
 Los que infrinjan este artículo, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
-### CAPÍTULO I. DE LA PATERNIDAD Y LA MATERNIDAD
+### CAPÍTULO II. DEL DIVORCIO
 
 ###### ARTÍCULO 174.
 
@@ -1591,7 +1643,7 @@ Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer
 
 ## TÍTULO PRIMERO. DE LA RELACIÓN DE LOS ASCENDIENTES CON LOS HIJOS
 
-### CAPÍTULO II. DE LOS HIJOS DE MATRIMONIO
+### CAPÍTULO I. DE LA PATERNIDAD Y LA MATERNIDAD
 
 ###### ARTÍCULO 181.
 
@@ -1607,7 +1659,7 @@ IV. -Los alimentos, conforme a lo dispuesto en el Capítulo III, Título Único,
 
 V.- Una familia estable y solidaria de manera que constituya un medio adecuado para el desarrollo del amor y atenciones que requiere el desenvolvimiento de la personalidad de los hijos.
 
-### CAPÍTULO III. DE LAS PRUEBAS DE LA FILIACIÓN DE LOS HIJOS NACIDOS DE MATRIMONIO
+### CAPÍTULO II. DE LOS HIJOS DE MATRIMONIO
 
 ###### ARTÍCULO 182.
 
@@ -1661,7 +1713,7 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 Sobre la filiación no puede haber compromiso en árbitros, cláusula compromisoria ni transacción.
 
-### CAPÍTULO IV. DE LA FILIACIÓN DE LOS HIJOS NACIDOS FUERA DE MATRIMONIO
+### CAPÍTULO III. DE LAS PRUEBAS DE LA FILIACIÓN DE LOS HIJOS NACIDOS DE MATRIMONIO
 
 ###### ARTÍCULO 188.
 
@@ -1717,7 +1769,7 @@ Los acreedores, legatarios y donatarios tendrán los mismos derechos que los her
 
 PÉRDIDA DE LA POSESIÓN DE HIJO DE MATRIMONIO. La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que establezca el Código Procesal Familiar.
 
-### CAPÍTULO ÚNICO. EFECTOS RELATIVOS A LA PERSONA DE LOS HIJOS
+### CAPÍTULO IV. DE LA FILIACIÓN DE LOS HIJOS NACIDOS FUERA DE MATRIMONIO
 
 ###### ARTÍCULO 198.
 
@@ -1853,7 +1905,7 @@ III.- Percibir la porción hereditaria que fije la Ley, o en su caso los aliment
 
 ## TÍTULO SEGUNDO. DE LA PATRIA POTESTAD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. EFECTOS RELATIVOS A LA PERSONA DE LOS HIJOS
 
 ###### ARTÍCULO 218.
 
@@ -2083,7 +2135,7 @@ PATRIA POTESTAD DEL HIJO MENOR DE UN INCAPACITADO. Los hijos menores de un incap
 
 ## TÍTULO TERCERO. DE LA TUTELA
 
-### CAPÍTULO II. DE LA TUTELA TESTAMENTARIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 252.
 
@@ -2153,7 +2205,7 @@ CUIDADO PROVISIONAL DE LA PERSONA Y BIENES DEL INCAPACITADO. El Juez de lo Famil
 
 El Juez que no cumpla con las prescripciones del párrafo anterior relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPÍTULO III. DE LA TUTELA LEGÍTIMA
+### CAPÍTULO II. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTÍCULO 265.
 
@@ -2199,7 +2251,7 @@ IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento d
 
 PROPORCIONALIDAD EN LA CAUCIÓN DEL TUTOR TESTAMENTARIO. Si los bienes del incapacitado aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la caución.
 
-### CAPÍTULO IV. DE LA TUTELA DATIVA
+### CAPÍTULO III. DE LA TUTELA LEGÍTIMA
 
 ###### ARTÍCULO 273.
 
@@ -2239,7 +2291,7 @@ Cuando haya dos o más hijos, el Juez elegirá al que le parezca más apto y pod
 
 SUPLENCIA DE LA FALTA TEMPORAL DEL TUTOR LEGÍTIMO. La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPÍTULO V. DE LA TUTELA PREVENTIVA
+### CAPÍTULO IV. DE LA TUTELA DATIVA
 
 ###### ARTÍCULO 277
 
@@ -2275,7 +2327,7 @@ PERSONAS QUE PUEDEN SOLICITAR O DESEMPEÑAR LA TUTELA DATIVA DE MENORES QUE NO T
 
 NOMBRAMIENTO DE TUTOR DATIVO DE MENORES CON BIENES. Si el menor que se encuentre en el caso previsto por el artículo anterior tuviere o adquiriere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
-### CAPÍTULO VI. DE LOS IMPEDIMENTOS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPÍTULO V. DE LA TUTELA PREVENTIVA
 
 ###### ARTÍCULO 284.
 
@@ -2291,7 +2343,7 @@ Estas designaciones sólo serán válidas si se hacen ante Notario o Juez de lo 
 
 APLICACIÓN DE LA NORMATIVIDAD DE LA TUTELA TESTAMENTARIA A LA PREVENTIVA. Serán aplicables a la tutela preventiva todas las disposiciones de la tutela testamentaria en cuanto no se opongan a lo dispuesto en el artículo anterior.
 
-### CAPÍTULO VII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPÍTULO VI. DE LOS IMPEDIMENTOS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTÍCULO 287.
 
@@ -2331,7 +2383,7 @@ XV.- Los demás a quienes lo prohíbe la Ley.
 
 PROHIBICIÓN PARA SER TUTOR DEL SUJETO A INTERDICCIÓN O INHABILITACIÓN. No pueden ser tutores del interdicto o inhabilitado los que hayan sido causa de su interdicción o inhabilitación o hubieren fomentado directa o indirectamente dicha causa.
 
-### CAPÍTULO VIII. DE LA SEPARACIÓN Y DE LA EXTINCIÓN DE LA TUTELA
+### CAPÍTULO VII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### ARTÍCULO 289.
 
@@ -2375,7 +2427,7 @@ PÉRDIDA DE DERECHOS DEL TUTOR TESTAMENTARIO QUE SE EXCUSE. El tutor testamentar
 
 OBLIGACIÓN DE DAR AVISO DEL FALLECIMIENTO DEL TUTOR. Muerto el tutor que hubiere desempeñado la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez de lo Familiar, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la Ley.
 
-### CAPÍTULO IX. DE LA GARANTÍA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPÍTULO VIII. DE LA SEPARACIÓN Y DE LA EXTINCIÓN DE LA TUTELA
 
 ###### ARTÍCULO 294.
 
@@ -2419,7 +2471,7 @@ I.- Por la muerte del tutor o pupilo o porque desaparezca la incapacidad de ést
 
 II.- Cuando el incapacitado sujeto a tutela entre a la patria potestad por admisión o reconocimiento, o por adopción.
 
-### CAPÍTULO X. DEL DESEMPEÑO DE LA TUTELA
+### CAPÍTULO IX. DE LA GARANTÍA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTÍCULO 298.
 
@@ -2437,7 +2489,7 @@ GARANTÍA DEL TUTOR COHEREDERO DEL INCAPAZ. Siempre que el tutor sea también co
 
 PROPORCIONALIDAD DE LA GARANTÍA DE LOS TUTORES DE HERENCIA INDIVISA. Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
 
-### CAPÍTULO XI. DE LAS CUENTAS DE LA TUTELA
+### CAPÍTULO X. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTÍCULO 302.
 
@@ -2605,7 +2657,7 @@ Para que pueda hacerse en la retribución de los tutores el aumento extraordinar
 
 PÉRDIDA DE DERECHO A RETRIBUCIÓN DEL TUTOR. El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este concepto hubiese recibido, si contraviniese lo dispuesto en el artículo 82 de este Código.
 
-### CAPÍTULO XII. DE LA ENTREGA DE LOS BIENES
+### CAPÍTULO XI. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTÍCULO 333.
 
@@ -2657,7 +2709,7 @@ CANCELACIÓN DE LA GARANTÍA DEL TUTOR HASTA LA APROBACIÓN DE CUENTAS. La garan
 
 NULIDAD DE CONVENIO ENTRE TUTOR E INCAPACITADO SOBRE LA ADMINISTRACIÓN O SU CUENTA. Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, o libre de la incapacidad que le afectaba relativo a la administración de la tutela o las cuentas mismas.
 
-### CAPÍTULO XIII. DE LA CURATELA
+### CAPÍTULO XII. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTÍCULO 344.
 
@@ -2689,7 +2741,7 @@ Si no se hiciere saber el convenio al fiador, dicho pacto y la espera no surtir�
 
 PRESCRIPCIÓN DE LAS PRETENSIONES POR HECHOS RELATIVOS A LA TUTELA. Todas las pretensiones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedarán extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la Ley.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO XIII. DE LA CURATELA
 
 ###### ARTÍCULO 351.
 
@@ -2743,7 +2795,7 @@ HONORARIOS DEL CURADOR. En los casos en que conforme a este Código tenga que in
 
 ## TÍTULO CUARTO. DE LOS CONSEJOS LOCALES DE TUTELA
 
-### CAPÍTULO I. DE LA ADOPCIÓN
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 358.
 
@@ -2771,7 +2823,7 @@ VII.- En general, investigar, vigilar y fomentar cualquier medida protectora de 
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO II. DE LA ADOPCIÓN INTERNACIONAL
+### CAPÍTULO I. DE LA ADOPCIÓN
 
 ###### ARTÍCULO 360.
 
@@ -2865,7 +2917,7 @@ I.- Para efectos de impedimento para contraer matrimonio, y
 
 II.- Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con la mayoría e (sic) edad; si fuere menor de edad se requerirá el consentimiento del o los adoptantes.
 
-### CAPÍTULO ÚNICO. DEL ESTADO DE INTERDICCIÓN
+### CAPÍTULO II. DE LA ADOPCIÓN INTERNACIONAL
 
 ###### ARTÍCULO 371.
 
@@ -2895,13 +2947,13 @@ V.- Que aceptan expresamente, que el Sistema para el Desarrollo Integral de la F
 
 EFECTOS ANTE LAS DEPENDENCIAS ADMINISTRATIVAS.- Una vez declarada la adopción, el Juez de lo Familiar lo informará al Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, a la Secretaría de Relaciones Exteriores y a la autoridad migratoria dependiente de la Secretaría de Gobernación, para los efectos legales y administrativos subsecuentes.
 
-### CAPÍTULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPÍTULO ÚNICO. DEL ESTADO DE INTERDICCIÓN
 
 # LIBRO QUINTO. DE LAS DECLARACIONES Y EFECTOS DE INTERDICCIÓN, AUSENCIA Y PRESUNCIÓN DE MUERTE
 
 ## TÍTULO PRIMERO. DE LA INTERDICCIÓN
 
-### CAPÍTULO II. DE LA DECLARACIÓN DE AUSENCIA
+### CAPÍTULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### ARTÍCULO 375.
 
@@ -2913,7 +2965,7 @@ PERSONAS QUE PUEDEN ALEGAR LA NULIDAD POR ACTOS DEL INCAPAZ O DEL MENOR EMANCIPA
 
 ## TÍTULO SEGUNDO. DE LA AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
 
-### CAPÍTULO III. DE LOS EFECTOS DE LA DECLARACIÓN DE AUSENCIA
+### CAPÍTULO II. DE LA DECLARACIÓN DE AUSENCIA
 
 ###### ARTÍCULO 377.
 
@@ -2975,7 +3027,7 @@ IV.- Con la posesión provisional de los herederos.
 
 OBLIGACIÓN DEL REPRESENTANTE DE PROMOVER LA PUBLICACIÓN DE EDICTOS. El representante está obligado a promover la publicación de los edictos de acuerdo con lo previsto por el artículo 542 del Código Procesal Familiar, durante dos meses con intervalos de quince días. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al desaparecido e ignorado y es causa legítima de remoción.
 
-### CAPÍTULO IV. DE LA ADMINISTRACIÓN DE LOS BIENES DEL AUSENTE CASADO
+### CAPÍTULO III. DE LOS EFECTOS DE LA DECLARACIÓN DE AUSENCIA
 
 ###### ARTÍCULO 387.
 
@@ -3007,7 +3059,7 @@ SUPUESTO DE LA NO DECLARACIÓN DE AUSENCIA. Concluidos los términos a que se re
 
 PUBLICIDAD DE LA DECLARACIÓN DE AUSENCIA. La declaración de ausencia se publicará como lo ordena el artículo 544 del Código Procesal Familiar, remitiéndose a los Cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
 
-### CAPÍTULO V. DE LA PRESUNCIÓN DE MUERTE DEL AUSENTE
+### CAPÍTULO IV. DE LA ADMINISTRACIÓN DE LOS BIENES DEL AUSENTE CASADO
 
 ###### ARTÍCULO 392.
 
@@ -3069,7 +3121,7 @@ SUCESIÓN EN CASO DE MUERTE DEL POSEEDOR PROVISIONAL. Muerto el que haya obtenid
 
 RECUPERACIÓN DE LA CONDICIÓN CIVIL DEL AUSENTE QUE REGRESA. Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales, civiles y familiares.
 
-### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
+### CAPÍTULO V. DE LA PRESUNCIÓN DE MUERTE DEL AUSENTE
 
 ###### ARTÍCULO 404.
 
@@ -3095,7 +3147,7 @@ DERECHO ALIMENTARIO DEL CÓNYUGE O PRESENTE. Si el cónyuge presente no fuere he
 
 RESTAURACIÓN DE LA SOCIEDAD CONYUGAL. Cuando el cónyuge ausente regrese o se probare su existencia, antes de la presunción de muerte, quedará restaurada la sociedad conyugal.
 
-### CAPÍTULO VI. DE LOS EFECTOS DE LA PRESUNCIÓN DE MUERTE EN RELACIÓN CON LOS DERECHOS EVENTUALES DE AQUEL SOBRE EL QUE RECAE LA DECLARACIÓN
+### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
 
 ###### ARTÍCULO 410.
 
@@ -3133,7 +3185,7 @@ III.- Con la certidumbre de su muerte; y
 
 IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 414 de este Ordenamiento y de acuerdo con lo previsto por los artículos 549 y 550 del Código Procesal Familiar.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LOS EFECTOS DE LA PRESUNCIÓN DE MUERTE EN RELACIÓN CON LOS DERECHOS EVENTUALES DE AQUEL SOBRE EL QUE RECAE LA DECLARACIÓN
 
 ###### ARTÍCULO 416.
 
@@ -3155,11 +3207,15 @@ Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena
 
 ## TÍTULO PRIMERO. DEL REGISTRO CIVIL
 
-### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 419.
 
 NATURALEZA Y FUNCIÓN. El Registro Civil es la institución de orden público y de interés social, por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios, Morosos del Estado de Morelos, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los Jueces y Tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
 ###### ARTÍCULO 420.
 
@@ -3259,7 +3315,7 @@ ALTERACIÓN DE ACTAS POR EL OFICIAL O FUNCIONARIO DEL REGISTRO CIVIL. La alterac
 
 CORRECCIONES NO SUBSTANCIALES DE LAS ACTAS DEL REGISTRO CIVIL. Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro Civil a las correcciones que señale el Reglamento respectivo, pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-### CAPÍTULO III. DE LAS ACTAS DE ADMISIÓN Y RECONOCIMIENTO
+### CAPÍTULO II. DE LAS ACTAS DE NACIMIENTO
 
 ###### ARTÍCULO 438.
 
@@ -3339,7 +3395,7 @@ ACTAS DE NACIMIENTO EN CASO DE PARTO MÚLTIPLE. Cuando se trate de parto múltip
 
 ACTAS DE NACIMIENTO Y DE DEFUNCIÓN DEL RECIEN NACIDO. Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento atento lo dispuesto por el artículo 3 de este Código y otra de defunción.
 
-### CAPÍTULO IV. DE LAS ACTAS DE MATRIMONIO
+### CAPÍTULO III. DE LAS ACTAS DE ADMISIÓN Y RECONOCIMIENTO
 
 ###### ARTÍCULO 451.
 
@@ -3367,7 +3423,7 @@ RECONOCIMIENTO DIVERSO AL DEL REGISTRO. Si el reconocimiento se hace por alguno 
 
 La omisión del Registro en el caso del párrafo que precede no quita los efectos legales al reconocimiento o admisión hecho conforme a las disposiciones de este Código.
 
-### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
+### CAPÍTULO IV. DE LAS ACTAS DE MATRIMONIO
 
 ###### ARTÍCULO 456.
 
@@ -3380,6 +3436,10 @@ II.- Que no tienen impedimento legal para casarse; y
 III.- Que es su libre voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir, imprimirá su huella digital.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+El Oficial del Registro Civil, hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
 ###### ARTÍCULO 457.
 
@@ -3477,7 +3537,7 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 ANOTACIÓN DEL ACTA DE MATRIMONIO EN OTRAS ACTAS. Extendida el acta de matrimonio, se anotará ésta en las de nacimiento, reconocimiento u adopción de los contrayentes, si las hubiere y remitirá el aviso correspondiente al Oficial del Registro Civil del lugar en donde obren los registros. El Oficial del Registro Civil que no de cumplimiento a esta disposición, será sancionado con cien días de salario mínimo general en el Estado.
 
-### CAPÍTULO VI. DE LAS ACTAS DE DEFUNCIÓN
+### CAPÍTULO V. DE LAS ACTAS DE DIVORCIO
 
 ###### ARTÍCULO 468.
 
@@ -3491,7 +3551,7 @@ CONTENIDO DEL ACTA DE DIVORCIO. El acta de divorcio contendrá: los nombres, ape
 
 ANOTACIÓN DEL ACTA DE DIVORCIO EN OTRAS ACTAS. Extendida el acta de divorcio, se anotará ésta en las de nacimiento y matrimonio de los divorciados.
 
-### CAPÍTULO I. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA ADOPCIÓN
+### CAPÍTULO VI. DE LAS ACTAS DE DEFUNCIÓN
 
 ###### ARTÍCULO 471.
 
@@ -3555,7 +3615,7 @@ PROHIBICIÓN DE INSCRIBIR CIRCUNSTANCIAS PERJUDICIALES EN EL ACTA DE DEFUNCIÓN.
 
 ## TÍTULO SEGUNDO. DE LA INSCRIPCIÓN, RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
-### CAPÍTULO II. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA TUTELA
+### CAPÍTULO I. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA ADOPCIÓN
 
 ###### ARTÍCULO 478.
 
@@ -3573,7 +3633,7 @@ El acta de adopción será guardada en los archivos del registro civil sin exped
 
 DE LA INVALIDACIÓN DE LA ADOPCIÓN. El Juzgado o Tribunal al resolver que una adopción queda sin efectos, remitirá dentro del plazo de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y haga la anotación conducente en el acta de nacimiento.
 
-### CAPÍTULO III. DE LA INSCRIPCIÓN EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACIÓN DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
+### CAPÍTULO II. INSCRIPCIÓN EN ACTAS SOBRE EJECUTORIAS QUE DECLAREN LA TUTELA
 
 ###### ARTÍCULO 481.
 
@@ -3591,7 +3651,7 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado obser
 
 NOTIFICACIÓN DE LA RECUPERACIÓN DE LA CAPACIDAD LEGAL DEL PUPILO AL OFICIAL DEL REGISTRO CIVIL. Cuando se recobre la capacidad legal, se dará aviso al Oficial del Registro Civil que corresponda por conducto del interesado, mediante la copia certificada de resolución judicial que así lo determine, para efectos de cancelar la inscripción o inscripciones a que se refieren los artículos 481 y 482 de este Código.
 
-### CAPÍTULO IV. DE LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
+### CAPÍTULO III. DE LA INSCRIPCIÓN EN ACTAS DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD PARA ADMINISTRAR BIENES, DE LA DECLARACIÓN DE AUSENCIA Y DE LA PRESUNCIÓN DE MUERTE
 
 ###### ARTÍCULO 484.
 
@@ -3607,7 +3667,7 @@ El acta en donde se asiente la ejecutoria en que se declare la ausencia o la pre
 
 CANCELACIÓN DEL ACTA CUANDO CESE LA INCAPACIDAD, O SE PRESENTE EL AUSENTE O EL PRESUNTO MUERTO. Cuando se recobre la capacidad legal para administrar bienes o su persona, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-### CAPÍTULO ÚNICO. REGLAS GENERALES
+### CAPÍTULO IV. DE LA RECTIFICACIÓN Y ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
 ###### ARTÍCULO 487.
 
@@ -3621,7 +3681,7 @@ EFECTOS JURÍDICOS CIVILES PARA DESPUÉS DE LA MUERTE
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO I. DE LOS TESTAMENTOS EN GENERAL
+### CAPÍTULO ÚNICO. REGLAS GENERALES
 
 ###### ARTÍCULO 488.
 
@@ -3677,7 +3737,7 @@ PREFERENCIA EN EL USO DEL DERECHO DEL TANTO ENTRE COHEREDEROS. Si dos o más coh
 
 ## TÍTULO SEGUNDO. DE LA SUCESIÓN TESTAMENTARIA
 
-### CAPÍTULO II. DE LA CAPACIDAD PARA HEREDAR POR TESTAMENTO
+### CAPÍTULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ###### ARTÍCULO 500.
 
@@ -3691,7 +3751,7 @@ PROHIBICIÓN DE TESTAR CONJUNTAMENTE. No pueden testar en el mismo acto dos o m�
 
 IMPOSIBILIDAD DE UN TERCERO PARA UTILIZAR SU LIBRE ARBITRIO EN TESTAMENTO. Ni la subsistencia del nombramiento de los herederos o de los legatarios, ni la designación de las cantidades que a ellos corresponda, pueden dejarse al arbitrio de un tercero, aun cuando lo hubiere dispuesto el testador.
 
-### CAPÍTULO III. DE LA CAPACIDAD PARA TESTAR
+### CAPÍTULO II. DE LA CAPACIDAD PARA HEREDAR POR TESTAMENTO
 
 ###### ARTÍCULO 503.
 
@@ -3853,7 +3913,7 @@ DECLARACIÓN JUDICIAL DE INCAPACIDAD DEL HEREDERO QUE HUBIERE ENTRADO EN POSESI�
 
 Lo dispuesto en este artículo también se aplicará al heredero aparente cuando fuere privado de la herencia, así como respecto a los actos y contratos que celebre.
 
-### CAPÍTULO IV. DE LAS CONDICIONES, TÉRMINOS O PLAZOS QUE PUEDEN ESTABLECERSE EN LOS TESTAMENTOS
+### CAPÍTULO III. DE LA CAPACIDAD PARA TESTAR
 
 ###### ARTÍCULO 530.
 
@@ -3883,7 +3943,7 @@ I.- Los menores que no han cumplido dieciséis años de edad; y
 
 II.- Los que constante o accidentalmente no disfruten de su cabal juicio.
 
-### CAPÍTULO V. DE LA OBLIGACIÓN TESTAMENTARIA DE PROPORCIONAR ALIMENTOS Y DEL TESTAMENTO INOFICIOSO
+### CAPÍTULO IV. DE LAS CONDICIONES, TÉRMINOS O PLAZOS QUE PUEDEN ESTABLECERSE EN LOS TESTAMENTOS
 
 ###### ARTÍCULO 533.
 
@@ -3953,7 +4013,7 @@ CONOCIMIENTO O NO DEL TESTADOR DEL CUMPLIMIENTO DE LA CONDICIÓN. Si la condici�
 
 EFECTOS RETROACTIVOS CUANDO SE CUMPLE LA CONDICIÓN. La condición que se ha cumplido, existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
 
-### CAPÍTULO VI. DE LA INSTITUCIÓN DE HEREDERO
+### CAPÍTULO V. DE LA OBLIGACIÓN TESTAMENTARIA DE PROPORCIONAR ALIMENTOS Y DEL TESTAMENTO INOFICIOSO
 
 ###### ARTÍCULO 545.
 
@@ -4013,9 +4073,7 @@ No obstante, el hijo póstumo tendrá derecho a percibir íntegra la porción qu
 
 PENSIÓN ALIMENTICIA COMO CARGA DE LA MASA HEREDITARIA. La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
 
-### CAPÍTULO VII. DE LOS LEGADOS
-
-DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LA INSTITUCIÓN DE HEREDERO
 
 ###### ARTÍCULO 553.
 
@@ -4063,7 +4121,9 @@ ERROR CIRCUNSTANCIAL EN LA INSTITUCIÓN DE HEREDERO. El error en el nombre, apel
 
 NULIDAD DEL TESTAMENTO POR INCERTIDUMBRE EN LA PERSONA O EN LA COSA. Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
-### CAPÍTULO VIII. DE LAS SUBSTITUCIONES
+### CAPÍTULO VII. DE LOS LEGADOS
+
+DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 563.
 
@@ -4369,7 +4429,7 @@ En el caso del párrafo anterior, si el legado consiste en prestación periódic
 
 CONCLUSIÓN DEL LEGADO. Cuando el legado debe concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
 
-### CAPÍTULO IX. INEXISTENCIA, NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
+### CAPÍTULO VIII. DE LAS SUBSTITUCIONES
 
 ###### ARTÍCULO 622.
 
@@ -4407,7 +4467,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IX. INEXISTENCIA, NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
 
 ###### ARTÍCULO 627.
 
@@ -4477,7 +4537,7 @@ FALTA DE CADUCIDAD DE LA DISPOSICIÓN TESTAMENTARIA CON CONDICIÓN DE SUCESO PAS
 
 ## TÍTULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
-### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 638.
 
@@ -4545,7 +4605,7 @@ Lo dispuesto en el párrafo que precede se observará también por cualquiera qu
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al Juez.
 
-### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
+### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
 ###### ARTÍCULO 646.
 
@@ -4581,7 +4641,7 @@ SOLEMNIDADES EN EL TESTAMENTO. Las solemnidades se practicarán de modo continuo
 
 Faltando alguna de las referidas, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pérdida de oficio.
 
-### CAPÍTULO IV. DEL TESTAMENTO OLÓGRAFO
+### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
 
 ###### ARTÍCULO 651.
 
@@ -4677,7 +4737,7 @@ EFECTOS DE LA ALTERACIÓN DEL TESTAMENTO PÚBLICO CERRADO. El testamento cerrado
 
 SANCIONES POR FALTA DE PRESENTACIÓN O POR SUSTRACCIÓN DEL TESTAMENTO PÚBLICO CERRADO. Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en el artículo 645 de este Código, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-### CAPÍTULO V. DEL TESTAMENTO PRIVADO
+### CAPÍTULO IV. DEL TESTAMENTO OLÓGRAFO
 
 ###### ARTÍCULO 669.
 
@@ -4739,7 +4799,7 @@ FALTA DE EFECTOS DEL TESTAMENTO ORIGINAL O DUPLICADO. El testamento ológrafo qu
 
 PERSONAS A LAS QUE SE PUEDE INFORMAR DE LA EXISTENCIA DE TESTAMENTO OLÓGRAFO. El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
-### CAPÍTULO VI. DEL TESTAMENTO MILITAR
+### CAPÍTULO V. DEL TESTAMENTO PRIVADO
 
 ###### ARTÍCULO 682.
 
@@ -4803,7 +4863,7 @@ MUERTE O AUSENCIA DE ALGÚN TESTIGO. Si después de la muerte del testador murie
 
 Lo dispuesto en el párrafo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
 
-### CAPÍTULO VII. DEL TESTAMENTO MARÍTIMO
+### CAPÍTULO VI. DEL TESTAMENTO MILITAR
 
 ###### ARTÍCULO 690.
 
@@ -4819,7 +4879,7 @@ ENTREGA DEL TESTAMENTO MILITAR. Los testamentos otorgados por escrito, conforme 
 
 TESTAMENTO MILITAR ORAL. Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto a la Secretaría de la Defensa Nacional, y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos 685 al 689 de este Código.
 
-### CAPÍTULO VIII. DEL TESTAMENTO HECHO EN PAÍS EXTRANJERO O FUERA DEL ESTADO
+### CAPÍTULO VII. DEL TESTAMENTO MARÍTIMO
 
 ###### ARTÍCULO 693.
 
@@ -4857,7 +4917,7 @@ APLICACIÓN SUPLETORIA DEL CÓDIGO CIVIL DEL DISTRITO FEDERAL EN EL PROCEDIMIENT
 
 SUPUESTOS PARA QUE PRODUZCA EFECTOS EL TESTAMENTO MARÍTIMO. El testamento marítimo solamente producirá efectos legales falleciendo el testador en el mar o dentro de un mes contado desde su desembarque en algún lugar, donde, conforme a la Ley mexicana o a la extranjera, haya podido ratificar u otorgar de nuevo su última disposición.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DEL TESTAMENTO HECHO EN PAÍS EXTRANJERO O FUERA DEL ESTADO
 
 ###### ARTÍCULO 701.
 
@@ -4881,7 +4941,7 @@ El papel en que se extiendan los testamentos otorgados ante los agentes diplomá
 
 ## TÍTULO CUARTO. DE LA SUCESIÓN LEGÍTIMA
 
-### CAPÍTULO II. DE LA SUCESIÓN DE LOS DESCENDIENTES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 705.
 
@@ -4933,7 +4993,7 @@ HERENCIA A PRORRATA DE PARIENTES DEL MISMO GRADO. Los parientes que se hallaren 
 
 APLICACIÓN DE LAS REGLAS DE PARENTESCO EN SUCESIÓN LEGÍTIMA. Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo II, Título Único, Libro Segundo de este Código.
 
-### CAPÍTULO III. DE LA SUCESIÓN DE LOS ASCENDIENTES
+### CAPÍTULO II. DE LA SUCESIÓN DE LOS DESCENDIENTES
 
 ###### ARTÍCULO 713.
 
@@ -4965,7 +5025,7 @@ HERENCIA DEL ADOPTADO. El adoptado hereda como un hijo, pero no hay derecho de s
 
 Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
-### CAPÍTULO IV. DE LA SUCESIÓN DEL CÓNYUGE SUPÉRSTITE
+### CAPÍTULO III. DE LA SUCESIÓN DE LOS ASCENDIENTES
 
 ###### ARTÍCULO 719.
 
@@ -5007,7 +5067,7 @@ Cuando se reconozca o admita a algún hijo después de que éste haya adquirido 
 
 En todo caso de reconocimiento o admisión de un descendiente antes de su muerte, a pesar de la impugnación de parte legítima, el que reconoce o admite tendrá por lo menos derecho a alimentos, en el caso de que el reconocimiento o admisión se haya hecho cuando el reconocido o admitido tuvo también derecho a percibirlos.
 
-### CAPÍTULO V. DE LA SUCESIÓN DE LOS COLATERALES
+### CAPÍTULO IV. DE LA SUCESIÓN DEL CÓNYUGE SUPÉRSTITE
 
 ###### ARTÍCULO 727.
 
@@ -5031,7 +5091,7 @@ DERECHO DEL CÓNYUGE A HEREDAR AUN TENIENDO BIENES PROPIOS. El cónyuge recibir�
 
 SUCESIÓN TOTAL DEL CÓNYUGE. A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### CAPÍTULO VI. DE LA SUCESIÓN DE LOS CONCUBINOS
+### CAPÍTULO V. DE LA SUCESIÓN DE LOS COLATERALES
 
 ###### ARTÍCULO 732.
 
@@ -5053,7 +5113,7 @@ SUCESIÓN DE LOS HIJOS DE LOS HERMANOS A FALTA DE ESTOS. A falta de hermanos, su
 
 SUCESIÓN DE LOS PARIENTES MAS PRÓXIMOS POR AUSENCIA DE TODOS LOS ANTERIORES. A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de línea, ni consideración al doble vínculo, y heredarán por partes iguales.
 
-### CAPÍTULO VII. DE LA SUCESIÓN DEL ESTADO
+### CAPÍTULO VI. DE LA SUCESIÓN DE LOS CONCUBINOS
 
 ###### ARTÍCULO 737.
 
@@ -5061,7 +5121,7 @@ SUCESIÓN DE LOS CONCUBINOS. La concubina y el concubino tienen derecho a hereda
 
 Si al morir el autor de la herencia le sobreviven varias concubinas o concubinos en las condiciones mencionadas al principio de este artículo, ninguno de ellos heredará.
 
-### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDA ENCINTA
+### CAPÍTULO VII. DE LA SUCESIÓN DEL ESTADO
 
 ###### ARTÍCULO 738.
 
@@ -5069,7 +5129,7 @@ CONDICIONES DE LA SUCESIÓN DEL ESTADO. A falta de los herederos designados en l
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGÍTIMA
 
-### CAPÍTULO II. DE LA APERTURA DE LA HERENCIA
+### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDA ENCINTA
 
 ###### ARTÍCULO 739.
 
@@ -5117,7 +5177,7 @@ NOTIFICACIÓN DE DILIGENCIAS JUDICIALES A LA VIUDA. Para cualquiera de las dilig
 
 SUSPENSIÓN DE LA DIVISIÓN DE LA HERENCIA. La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, mas los acreedores podrán ser pagados por mandato judicial.
 
-### CAPÍTULO III. DE LOS ALBACEAS
+### CAPÍTULO II. DE LA APERTURA DE LA HERENCIA
 
 ###### ARTÍCULO 750.
 
@@ -5235,7 +5295,7 @@ POSIBILIDAD DE IMPEDIR LA ACEPTACIÓN DE ACREEDORES DE LA HERENCIA REPUDIADA. El
 
 HEREDERO DECLARADO PROVENIENTE DE LEGATARIO O ACREEDOR HEREDITARIO. El que a instancias de un legatario o acreedor hereditario haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
 
-### CAPÍTULO IV. DEL INVENTARIO, SU FORMACIÓN Y DE LA LIQUIDACIÓN DE LA HERENCIA
+### CAPÍTULO III. DE LOS ALBACEAS
 
 ###### ARTÍCULO 774.
 
@@ -5601,7 +5661,7 @@ REQUISITOS PARA LA REMOCIÓN DEL CARGO DEL ALBACEA O INTERVENTOR. La remoción d
 
 Las causas de remoción obligatoria del albacea se regirán por lo dispuesto en la fracción IV del artículo 742 del Código Procesal Familiar.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DEL HEREDERO
+### CAPÍTULO IV. DEL INVENTARIO, SU FORMACIÓN Y DE LA LIQUIDACIÓN DE LA HERENCIA
 
 ###### ARTÍCULO 838.
 
@@ -5657,7 +5717,7 @@ REQUISITOS Y APLICACIÓN PARA LA VENTA DE BIENES HEREDITARIOS. La venta de biene
 
 La mayoría de los interesados, o la autoridad judicial en su caso, determinará la aplicación que haya de darse al precio de las cosas vendidas.
 
-### CAPÍTULO VI. DE LA PARTICIÓN
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DEL HEREDERO
 
 ###### ARTÍCULO 849.
 
@@ -5743,7 +5803,7 @@ RESPETO A LOS ACTOS DE ADMINISTRACIÓN DEL POSEEDOR DE LA HERENCIA EN FAVOR DE T
 
 Los actos de enajenación de bienes a título oneroso que hubiese hecho el poseedor de la herencia, a favor de tercero, serán válidos respecto al heredero o herederos, a no ser que dicho tercero hubiere procedido de mala fe. Los actos de enajenación a título gratuito, serán nulos aun cuando hubiere habido buena fe en el tercero y en el enajenante.
 
-### CAPÍTULO VII. DE LOS EFECTOS DE LA PARTICIÓN
+### CAPÍTULO VI. DE LA PARTICIÓN
 
 ###### ARTÍCULO 867.
 
@@ -5817,7 +5877,7 @@ FORMALIDADES Y GASTOS DE LA PARTICIÓN. La partición constará en escritura pú
 
 Los gastos de la partición se rebajarán del fondo común; los que se hagan por interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
 
-### CAPÍTULO VIII. DE LA RESCISIÓN Y NULIDAD DE LAS PARTICIONES
+### CAPÍTULO VII. DE LOS EFECTOS DE LA PARTICIÓN
 
 ###### ARTÍCULO 880.
 
@@ -5869,7 +5929,7 @@ PRETENSIÓN DE ACREEDORES Y LEGATARIOS DESPUÉS DE REALIZADA LA PARTICIÓN. Los 
 
 Los acreedores tendrán, en el mismo caso, pretensión contra los legatarios, en la parte que no sean cubiertos sus créditos con los bienes de la herencia. En todos los supuestos anteriores, procede la pretensión de enriquecimiento indebido.
 
-### CAPÍTULO IX. DE LA TRANSMISIÓN HEREDITARIA DE LOS DERECHOS NO PATRIMONIALES
+### CAPÍTULO VIII. DE LA RESCISIÓN Y NULIDAD DE LAS PARTICIONES
 
 ###### ARTÍCULO 889.
 
@@ -5894,6 +5954,8 @@ NULIDAD DE LA PARTICIÓN POR AUSENCIA DE INTERVENCIÓN DE TODOS LOS HEREDEROS. E
 La nulidad por inobservancia de la forma puede ser convalidada por ratificación en la que se observen las formalidades omitidas. Esta última tendrá el carácter de relativa y serán aplicables a la misma las disposiciones generales contenidas en este Código para las nulidades de esta clase.
 
 Será absoluta la nulidad que afecte la partición que no hubiere sido hecha ante el Juez en los casos previstos en el artículo 877 de este Ordenamiento.
+
+### CAPÍTULO IX. DE LA TRANSMISIÓN HEREDITARIA DE LOS DERECHOS NO PATRIMONIALES
 
 ###### ARTÍCULO 894.
 
@@ -6010,3 +6072,23 @@ P.O. 21 DE ABRIL DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- Los juicios y procedimientos relacionados con las reformas contenidas en este Decreto, serán substanciados hasta su culminación, conforme a las normas bajo las cuales fueron iniciados.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+DECRETO No. 1631 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 44; UN PÁRRAFO SEGUNDO AL ARTÍCULO 419; Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 456, SE ADICIONA UN CAPÍTULO VI "DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS", AL TÍTULO ÚNICO DEL LIBRO SEGUNDO DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- En un plazo de seis meses contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el Registro de Deudores Alimentarios Morosos del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+DECRETO No. 1635 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 38 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+###### ARTICULO PRIMERO.
+
+Aprobado el presente, remítase para su publicación en el Periódico Oficial Tierra y Libertad, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
