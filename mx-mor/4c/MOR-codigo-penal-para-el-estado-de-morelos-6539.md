@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2011-10-26"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-CODIGO PENAL PARA EL ESTADO DE MORELOS
+CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -435,7 +435,7 @@ Obra dolosamente la persona que conociendo los elementos del tipo penal, o previ
 
 Obra culposamente la persona que produce el resultado típico, que no previó siendo previsible, o previó confiado en que no se produciría, en virtud de la violación a un deber de cuidado, que debía y podía observar según las circunstancias y condiciones personales.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 1999)</small>
 
@@ -455,7 +455,7 @@ III. Continuado, cuando con unidad de propósito delictivo, pluralidad de conduc
 
 ### CAPITULO II. TENTATIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -709,7 +709,7 @@ Para el cumplimiento de esta sanción se podrá emplear un localizador electrón
 
 ### CAPITULO VIII. MULTA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 35.
 
@@ -781,7 +781,7 @@ Si el ofendido o sus derechohabientes renuncian a la reparación, el importe de 
 
 Atendiendo al monto de los daños y perjuicios y a la capacidad económica del obligado, el tribunal podrá fijar plazos para el pago, sin exceder de un año. Para ello podrá requerir el otorgamiento de garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 41.
 
@@ -805,7 +805,7 @@ Cuando se sobresea en el proceso penal o se dicte sentencia absolutoria, el juez
 
 ### CAPITULO X. DECOMISO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 43.
 
@@ -817,7 +817,7 @@ Las autoridades que conozcan de la averiguación previa o el proceso ordenarán 
 
 Los bienes asegurados podrán aplicarse a favor del Estado cuando hayan sido objeto de abandono por parte de quien, con derecho acreditado, hubiere podido reclamar su entrega desde su aseguramiento hasta la sentencia definitiva de Primera Instancia, siempre y cuando ésta sea condenatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 44.
 
@@ -965,7 +965,7 @@ En la prohibición de comunicarse con personas determinadas, serán objeto de di
 
 ### CAPITULO I. REGLAS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 58.
 
@@ -1089,7 +1089,7 @@ Cuando se trate de delito grave, en el primer caso al que se refiere el segundo 
 
 ### CAPITULO VII. CONCURSO Y DELITO CONTINUADO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 68.
 
@@ -1185,7 +1185,7 @@ VI. Que aquél se abstenga de causar molestias al ofendido, a sus familiares y a
 
 Antes de resolver la sustitución, el juez requerirá al sentenciado para que, una vez enterado de estas condiciones, asuma el expreso y formal compromiso de cumplirlas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 77.
 
@@ -1303,7 +1303,7 @@ La amnistía extingue la pretensión punitiva y la potestad ejecutiva de la sanc
 
 ### CAPITULO VII. RECONOCIMIENTO DE INOCENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 89.
 
@@ -1315,7 +1315,7 @@ II. Cuando después de dictada la sentencia aparezcan documentos públicos que i
 
 III. Cuando se demuestre por prueba indubitable que no hubo delito o que el sentenciado no tuvo participación alguna en los hechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 90.
 
@@ -1455,7 +1455,7 @@ DELITOS CONTRA EL INDIVIDUO
 
 Al que prive de la vida a otro se le impondrán de quince a treinta años de prisión y de quinientos a diez mil días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 107.
 
@@ -1657,7 +1657,7 @@ Las calificativas deberán estar plenamente acreditadas.
 
 La riña es la contienda de obra entre dos o más personas, con el propósito de causarse daño.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 128.
 
@@ -1777,7 +1777,7 @@ II. Imponer el cumplimiento de una condición a cualquier persona, particular o 
 
 III. Causar daño o perjuicio al secuestrado o a otra persona.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2004)</small>
 
 Se impondrán de treinta a setenta años de prisión y de mil a veinte mil días multa a quien incurra en el delito previsto en la primera parte de este artículo, si en el hecho concurre alguna de las siguientes circunstancias:
 
@@ -1851,7 +1851,7 @@ Si el autor de la extorsión obtiene lo que se propuso, la sanción se aumentar�
 
 ### CAPITULO VII. TRATA DE PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 148 Bis.
 
@@ -1867,9 +1867,7 @@ Para efectos de este artículo se entenderá por explotación el obtener provech
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2008)</small>
 
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender, el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el
-
-primer párrafo del presente artículo.
+Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender, el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1975,7 +1973,7 @@ El allanamiento de morada se perseguirá por querella, cuando no medie violencia
 
 ### CAPITULO III. HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 150.
 
@@ -1999,7 +1997,7 @@ Se impondrán de seis meses a dos años de prisión, al que sin consentimiento d
 
 ### CAPITULO V. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 152.
 
@@ -2051,7 +2049,7 @@ Si la inseminación se realiza con violencia, se impondrá a los autores una pen
 
 Al que con fines lascivos asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, a persona de cualquier sexo, con la amenaza de causarle un mal o negarle un beneficio a que tenga derecho, relacionado con las expectativas que pueda tener en el ámbito de una relación, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en las áreas laborales, docentes, domésticas o de cualquier otra, se le impondrá sanción de tres a cinco años de prisión y de trescientos a quinientos días multa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2004)</small>
 
@@ -2095,7 +2093,7 @@ La sanción prevista en el párrafo anterior se incrementará de 5 a 10 años de
 
 Las autoridades educativas de los centros escolares, las de las instituciones de asistencia social y del Gobierno relacionadas con la materia, que tengan conocimiento de la comisión de este ilícito en contra de los educandos, deberán inmediatamente proceder, a hacerlo del conocimiento de sus padres o de sus representantes legítimos, y denunciarlo ante el Ministerio Público, en el caso de lo dispuesto en el párrafo anterior, sin perjuicio del análisis de su responsabilidad en términos de lo dispuesto por el artículo 18 de este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 162.
 
@@ -2115,7 +2113,7 @@ Las autoridades educativas de los centros escolares, las de las instituciones de
 
 ### CAPITULO III. DESPOJO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2003)</small>
 
 ## TITULO OCTAVO. DELITOS CONTRA EL PRESTIGIO
 
@@ -2245,7 +2243,7 @@ XII. Cuando se realice sobre embarcaciones o cosas que se encuentren en ellas; y
 
 XIII. Cuando se realice sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2257,7 +2255,7 @@ B).- Cuando el robo sea cometido por dos o más sujetos, sin importar el monto d
 
 C).- (DEROGADO, P.O. 6 DE MARZO DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 176 Bis.
 
@@ -2469,13 +2467,13 @@ VI. Siendo fabricante, empresario, contratista o constructor de una obra emplee 
 
 VII. Provoque deliberadamente cualquier acontecimiento, simulando que se trata de caso fortuito o fuerza mayor, para liberarse de obligaciones o cobrar fianzas o seguros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 VIII. Quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios con conocimientos de que son falsos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2491,7 +2489,7 @@ Se impondrán las sanciones previstas en el artículo 188, según el valor del l
 
 ### CAPITULO XIII. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 191.
 
@@ -2499,7 +2497,7 @@ Al que artificiósamente se coloque en estado de insolvencia con el objeto de el
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA ALIMENTARIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 192.
 
@@ -2507,7 +2505,7 @@ Se impondrán las sanciones previstas para el fraude, conforme al monto del dañ
 
 ### CAPITULO I BIS. VIOLENCIA FAMILIAR
 
-(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
+(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2008) (F. DE E., P.O. 18 DE JUNIO DE 2008)
 
 ###### ARTICULO 193.
 
@@ -2607,7 +2605,7 @@ En los casos previstos en este Título, el juzgador podrá suspender al agente e
 
 ###### ARTICULO 201.
 
-Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, se le impondrán de un año a cuatro años de prisión "y" de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida.
+Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, y exceda de un lapso de treinta días naturales, se le impondrán de un año a cuatro años de prisión "y" (sic) de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida. Si el adeudo excede de noventa días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios a que se refiere el Código Familiar para el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -2615,7 +2613,11 @@ Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir e
 
 Si la omisión mencionada en este artículo ocurre en incumplimiento de una resolución judicial, las sanciones se incrementarán en una mitad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte, deberá ordenar al Registro Civil la cancelación de la inscripción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 202.
 
@@ -2645,7 +2647,7 @@ Comete el delito de lenocinio quien habitual o reiteradamente obtenga una ventaj
 
 La misma sanción se impondrá al que regentee, administre o sostenga directa o indirectamente prostíbulos, casas de citas o lugares de concurrencia expresamente dedicados a la prostitución.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 203.
 
@@ -2729,7 +2731,7 @@ II. Sustituya a un menor por otro o lo oculte para ocasionarle perjuicio en sus 
 
 ### CAPITULO I. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTO FALSO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 207.
 
@@ -2743,7 +2745,7 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 ### CAPITULO III. FALSEDAD ANTE AUTORIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 209.
 
@@ -2753,7 +2755,7 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 (DEROGADO, P.O. 11 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA EL DESARROLLO, LA DIGNIDAD DE LA PERSONA Y LA EQUIDAD DE GENERO
 
@@ -2761,7 +2763,7 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 ### CAPITULO IV. VARIACION DE NOMBRE, DOMICILIO O CIUDADANIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 211.
 
@@ -2861,7 +2863,7 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA MORAL PUBLICA
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 2008)</small>
 
 ### CAPITULO UNICO. DELITOS CONTRA EL EQUILIBRIO ECOLGICO (SIC) Y LA PROTECCION DEL AMBIENTE
 
@@ -2891,7 +2893,7 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 ### CAPITULO II. ASOCIACION DELICTUOSA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO III. PORTACION, FABRICACION, IMPORTACION Y ACOPIO DE ARMAS
 
@@ -2959,7 +2961,7 @@ Cuando el objeto falsificado, alterado o utilizado indebidamente sea de aquéllo
 
 A quien falsifique una obra artística de carácter plástico o la haga pasar por auténtica siendo falsa, si su conducta no se halla sancionada por la legislación autoral, se le impondrán las sanciones mencionadas en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2973,9 +2975,9 @@ Se impondrán de cuatro a nueve años de prisión y multa de mil a cinco mil dí
 
 Al que teniendo legalmente la obligación de conducirse con verdad en un acto ante la autoridad, apercibido por ésta, se condujere con falsedad u ocultare la verdad, se le impondrán de dos a ocho años de prisión y de doscientos a trescientos sesenta días multa.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 Lo previsto en el primer párrafo de este artículo no será aplicable a quienes hubiesen cometido el delito que se investiga ni a quienes se encuentren en alguno de los supuestos previstos en el artículo 313.
 
@@ -3135,7 +3137,7 @@ No se sancionará a quienes ejerzan la patria potestad, la tutela o la custodia 
 
 (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
@@ -3225,7 +3227,7 @@ Al que sin derecho estorbare de cualquier forma el aprovechamiento de bienes de 
 
 Quienes ejercen una profesión, arte o técnica, así como quienes les auxilian en este ejercicio, serán responsables de los delitos en que incurran en el desempeño de esta actividad. Se les impondrán las sanciones previstas en este Título, y además la suspensión, hasta por tres años, del derecho para ejercerla, o la inhabilitación para este mismo efecto hasta por cinco años.
 
-REFORMADA SU DENOMINACION, P.O. 26 DE OCTUBRE DE 2011)
+REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2011)
 
 ### CAPITULO IX. TRAFICO DE INFLUENCIA
 
@@ -3281,7 +3283,7 @@ Las sanciones previstas en este Capítulo se impondrán sin perjuicio de las que
 
 ### CAPITULO X. COHECHO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 253.
 
@@ -3307,7 +3309,7 @@ Para los efectos legales, solamente se consideran como de carácter político lo
 
 ### CAPITULO XII. ENRIQUECIMIENTO ILICITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 256.
 
@@ -3425,7 +3427,7 @@ Al responsable de los delitos previstos en este artículo, se le impondrá de do
 
 ### CAPITULO II. OBSTRUCCION DE LA JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 271.
 
@@ -3467,7 +3469,7 @@ IX. Autorice el cobro de sueldo a algún servidor público en cantidad mayor a l
 
 X. Autorice el cobro de sueldo a algún servidor público, cuyo monto sea mayor o igual al asignado al superior jerárquico de dicho servidor público, excepto en los siguientes casos: cuando el importe sea producto del cumplimiento de las condiciones generales del trabajo que se pacten; o cuando derive de un trabajo calificado o especializado de la función encomendada, siempre que en cualquiera de ambos casos, el monto no exceda la mitad de la remuneración asignada al Presidente de la República de conformidad al Presupuesto de Egresos de la Federación correspondiente.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO DEL DECRETO No. 125, LOS PARRAFOS SEGUNDO Y TERCERO ANTERIORES DE LA FRACCION VIII, PASAN A FORMAR PARTE DE LA FRACCION X.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO No. 125, LOS PÁRRAFOS SEGUNDO Y TERCERO ANTERIORES DE LA FRACCIÓN VIII, PASAN A FORMAR PARTE DE LA FRACCIÓN X.</small>
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
 
@@ -3533,7 +3535,7 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por la 
 
 ### CAPITULO IV. ACUSACION O DENUNCIAS FALSAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ### CAPITULO V. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
@@ -3545,7 +3547,7 @@ No cometen este delito los trabajadores que se coaliguen en ejercicio de sus der
 
 ### CAPITULO VI. EVASION DE PRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 274.
 
@@ -3575,7 +3577,7 @@ Al que cometa el delito de intimidación se le impondrán de dos a nueve años d
 
 ### CAPITULO VIII. DELITOS COMETIDOS POR ABOGADOS, DEFENSORES Y LITIGANTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 276.
 
@@ -3595,7 +3597,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 ### CAPITULO IX. ENCUBRIMIENTO POR FAVORECIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 277.
 
@@ -4191,7 +4193,7 @@ GUILLERMO MALO VELASCO
 
 RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE FEBRERO DE 1997.
 
@@ -4275,7 +4277,7 @@ TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan al presen
 
 P.O. 28 DE JUNIO DE 2007.
 
-DECRETO NUMERO 354 POR EL QUE SE REFORMA EL ARTICULO 164, LA FRACCION III, SE ADICIONAN LAS FRACCIONES IV Y V DEL ARTICULO 165 Y EL PARRAFO SEGUNDO AL ARTICULO 168 DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 354 POR EL QUE SE REFORMA EL ARTÍCULO 164, LA FRACCIÓN III, SE ADICIONAN LAS FRACCIONES IV Y V DEL ARTÍCULO 165 Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 168 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4287,7 +4289,7 @@ Aprobado que sea remítase el presente, al titular del poder Ejecutivo del Estad
 
 P.O. 28 DE JUNIO DE 2007.
 
-DECRETO NUMERO 355 POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO AL ARTICULO 147 DEL CODIGO PENAL VIGENTE DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 355 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 147 DEL CÓDIGO PENAL VIGENTE DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4423,7 +4425,7 @@ Remítase para su publicación en el Periódico Oficial "Tierra y Libertad" órg
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUMERO 1250 POR EL QUE SE REFORMA LA DENOMINACION DEL TITULO DECIMO PRIMERO Y SE ADICIONA EL CAPITULO III DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTICULO 213 QUINTUS AL CODIGO PENAL PARA EL ESTADO DE MORELOS.
+DECRETO NÚMERO 1250 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO DÉCIMO PRIMERO Y SE ADICIONA EL CAPÍTULO III DEL LIBRO SEGUNDO Y SE ADICIONA EL ARTÍCULO 213 QUINTUS AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4443,7 +4445,7 @@ La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUMERO 1251 POR EL QUE SE ADICIONA UN PARRAFO QUINTO AL ARTICULO 148 BIS, DEL CAPITULO SEPTIMO DENOMINADO DE LA TRATA DE PERSONAS DEL CODIGO PENAL PARA EL ESTADO DE MORELOS.
+DECRETO NÚMERO 1251 POR EL QUE SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 148 BIS, DEL CAPÍTULO SÉPTIMO DENOMINADO DE LA TRATA DE PERSONAS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS.
 
 Primero.- Aprobado que sea el presente decreto, túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del estado de Morelos.
 
@@ -4451,7 +4453,7 @@ Segundo.- El presente decreto, entrará en vigor al siguiente día de su publica
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUMERO 1256 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS EN SUS ARTICULOS 248, 249 Y 250.
+DECRETO NÚMERO 1256 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS EN SUS ARTÍCULOS 248, 249 Y 250.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -4459,7 +4461,7 @@ Segundo. Se deroga toda disposición legal y reglamentaria que se opongan al pre
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUMERO 1266 MEDIANTE EL CUAL SE REFORMA EL ARTICULO 238 DEL CODIGO PENAL DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 1266 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 238 DEL CÓDIGO PENAL DEL ESTADO DE MORELOS.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial Tierra y Libertad.
 
@@ -4488,3 +4490,9 @@ P.O. 26 DE OCTUBRE DE 2011.
 Primero.- Aprobado que sea el presente decreto, túrnese al titular del Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 Segundo.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 1 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- En un plazo de seis meses contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el Registro de Deudores Alimentarios Morosos del Estado de Morelos.
