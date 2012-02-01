@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2010-12-08"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -1587,7 +1587,7 @@ I. Hubiere temor de que se ausente u oculte la persona contra quien deba estable
 
 II. Se tema que se realicen actos de simulación, oculten o dilapiden los bienes en que debe ejercitarse una acción real; y,
 
-IlI. La acción sea personal, siempre que el deudor no tuviere otros bienes que aquéllos en que se ha de practicar la diligencia y se tema que los oculte o enajene.
+III. La acción sea personal, siempre que el deudor no tuviere otros bienes que aquéllos en que se ha de practicar la diligencia y se tema que los oculte o enajene.
 
 ###### Artículo 266.
 
@@ -4025,61 +4025,119 @@ III. La sentencia o auto firme que haya puesto término al pleito.
 
 En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil alterará la sentencia firme que haya recaído en el pleito en que se hubiere ocasionado el agravio.
 
-## Título Noveno. De la caducidad de la instancia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
 
-### Capítulo Único
+## Título Noveno. De la suspensión, interrupción y caducidad de la instancia
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO I. De la suspensión
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 710.
 
-Se tendrán por abandonadas las instancias y caducarán en derecho, si no se promueve su curso por cualquiera de las partes durante ciento veinte días naturales.
+El proceso se suspende cuando el tribunal del juicio no está en posibilidad de funcionar por un caso de fuerza mayor, y cuando alguna de las partes o su representante procesal, en su caso, sin culpa alguna suya, se encuentra en la absoluta imposibilidad de atender al cuidado de sus intereses en el litigio. Los efectos de esta suspensión se surtirán de pleno derecho, con declaración judicial o sin ella.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 711.
 
-El término a que se refiere el artículo anterior, se contará desde el día siguiente al de la última notificación que se hubiere hecho a las partes y se interrumpirá por alguna promoción de éstas que inste el curso de los autos.
+El proceso se suspenderá cuando no pueda pronunciarse la decisión, sino hasta que se pronuncie una resolución en otro negocio, y en cualquier otro caso especial determinado por la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 712.
 
-No procederá la caducidad de la instancia por el transcurso del término señalado en el artículo 710 de este Código cuando haya dejado de promoverse por fuerza mayor o cuando esté pendiente de resolución alguna promoción de las partes.
+El estado de suspensión se hará constar mediante declaración judicial, a instancia de parte o de oficio. Igual declaración se hará cuando· hayan desaparecido las casusas (sic) de la suspensión. Si el representante fuera un procurador, la suspensión no puede prolongarse por más de un mes. Si pasado este plazo subsiste la causa, seguirá el proceso su curso, siendo a perjuicio de la parte si no provee a su representación en el juicio.
 
-En estos casos se contará dicho término desde que los litigantes hubieren podido instar el curso de los autos.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 713.
 
-La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes; operará de pleno derecho y podrá declararse de oficio o a pedimento de parte legítima.
+Con excepción de las medidas urgentes y de aseguramiento, todo acto procesal verificado durante la suspensión es ineficaz, sin que sea necesario pedir ni declarar su nulidad. Los actos ejecutados ante tribunal diverso del que conozca del negocio, sólo son ineficaces si la suspensión es debida a imposibilidad de las partes para cuidar de sus intereses en el litigio. El tiempo de la suspensión no se computa en ningún término.
 
-### Capítulo I. De la ejecución de las sentencias dictadas por las Salas del Tribunal y por los jueces del Estado
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO ll. De la interrupción
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 714.
 
-Si los autos se hallaren en primera instancia y resultare de ellos que ha transcurrido el término previsto en el artículo 710 de este Código, sin que ninguna de las partes haya agitado su curso, pudiendo hacerlo, se tendrá por abandonada la instancia y el Juez mandará archivarlos, previa notificación. Las costas que hubiere causado serán de cuenta de cada parte.
+El proceso se interrumpe cuando se muere o se extingue antes de la citación para sentencia del juicio, una de las partes.
+
+También se interrumpe cuando muere el representante procesal de una parte, antes de la citación para sentencia del juicio.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 715.
 
-Cuando los autos se hallaren en segunda instancia, luego que transcurra el término respectivo se tendrá por abandonado el recurso y causará ejecutoria la sentencia apelada, mandando devolver el expediente al Juzgado o Tribunal, con certificación del auto en que se declare la caducidad para los efectos correspondientes. En este caso las costas de la instancia caducada serán de cuenta del apelante.
+En el primer caso del artículo anterior, la interrupción durará el tiempo indispensable para que se apersone, en el juicio, el causahabiente de la desaparecida o su representante. En el segundo caso del mismo artículo, la interrupción durará el tiempo necesario para que la parte que ha quedado sin representante procesal provea a su substitución.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 716.
 
-De los autos a que se refieren los dos artículos anteriores, el demandante o apelante podrá pedir revocación, si creyere que se ha procedido con error al declarar transcurrido el término legal, en cuya virtud se hubiere tenido por caducada la instancia, o se hallare en el caso del artículo 712 de este Código. No podrá fundarse la pretensión en ningún otro motivo.
+En caso de muerte de la parte, la interrupción cesará tan pronto como se acredite la existencia de un representante de la sucesión. En el segundo caso, la interrupción cesa al vencimiento del término señalado por el tribunal para la substitución del representante procesal desaparecido, siendo a perjuicio de la parte si no provee a su representación en el juicio.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 717.
 
-Lo dispuesto en los artículos que anteceden no será aplicable a las diligencias que sean necesarias para ejecutar una sentencia que haya pasado en autoridad de cosa juzgada, sino que podrán continuarse hasta conseguir el cumplimiento de ella, aunque hubiere quedado sin curso durante el plazo señalado en el artículo 710.
+Es aplicable, al caso de interrupción, lo dispuesto por el artículo 713.
 
-### Capítulo II
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2012)</small>
 
-De la ejecución de las sentencias y resoluciones dictadas por los jueces de los otros Estados de la Federación y del Distrito Federal.
+### CAPÍTULO III. De la caducidad de la instancia
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 718.
 
-La caducidad de la primera instancia no extingue la acción, la cual podrá ejercitarse de nuevo en el juicio correspondiente, mediante nueva demanda, si no hubiere prescrito con arreglo a derecho.
+Se tendrán por abandonadas las instancias y caducarán en derecho, si no se promueve su curso por cualquiera de las partes durante ciento veinte días naturales.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 A. El término a que se refiere el artículo anterior, se contará desde el día siguiente al de la última notificación que se hubiere hecho a las partes y se interrumpirá por alguna promoción de éstas que inste el curso de los asuntos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 B. No procederá la caducidad de la instancia por el transcurso del término señalado en el artículo 718 de este Código cuando haya dejado de promoverse por fuerza mayor o cuando esté pendiente de resolución alguna promoción de las partes.
+
+En estos casos se contará dicho término desde que los litigantes hubieren podido instar el curso de los autos.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 C. La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenio entre las partes; operará de pleno derecho y podrá declararse de oficio o a pedimento de parte legítima.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 D. Si los autos se hallaren en primera instancia y resultare de ellos que ha transcurrido el término previsto en el artículo 718 de este Código, sin que ninguna de las partes haya agitado su curso, pudiendo hacerlo, se tendrá por abandonada la instancia y el Juez mandará archivarlos, previa notificación. Las costas que hubiere causado serán de cuenta de cada parte.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 E. Cuando los autos se hallaren en segunda instancia, luego que transcurra el término respectivo se tendrá por abandonado el recurso y causará ejecutoria la sentencia apelada, mandando devolver el expediente al Juzgado o Tribunal, con certificación del auto en que se declare la caducidad para los efectos correspondientes. En este caso las costas de la instancia caducada serán de cuenta del apelante.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 F. De los autos a que se refieren los dos artículos anteriores, el demandante o apelante podrá pedir revocación, si creyere que se ha procedido con error al declarar transcurrido el término legal, en cuya virtud se hubiere tenido por caducada la instancia, o se hallare en el caso del artículo 718 B de este Código. No podrá fundarse la pretensión en ningún otro motivo.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Artículo 718 G. Lo dispuesto en los artículos que anteceden no será aplicable a las diligencias que sean necesarias para ejecutar una sentencia que haya pasado en autoridad de cosa juzgada, sino que podrán continuarse hasta conseguir el cumplimiento de ella, aunque hubiere quedado sin curso durante el plazo señalado en el artículo 718.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+###### Artículo 718.
+
+H. La caducidad de la primera instancia no extingue la acción, la cual podrá ejercitarse de nuevo en el juicio correspondiente, mediante nueva demanda, si no hubiere prescrito con arreglo a derecho.
 
 La declaración de caducidad en primera instancia no procederá en los juicios universales de concursos y sucesiones, pero sí en los juicios relacionados con éstos, independientemente de que surjan de aquellos o por ellos se motiven; y en los juicios seguidos ante los juzgados menores.
 
 ## Título Décimo. De la ejecución de las sentencias
 
-### Capítulo III
-
-De la ejecución de las sentencias y demás resoluciones dictadas por tribunales extranjeros.
+### Capítulo I. De la ejecución de las sentencias dictadas por las Salas del Tribunal y por los jueces del Estado
 
 ###### Artículo 719.
 
@@ -4231,7 +4289,9 @@ Señalará a éste un término prudente para que presente el proyecto partitorio
 
 Presentado el proyecto de partición, quedará en la secretaría a la vista de los interesados, por seis días comunes, para que formulen las objeciones dentro de ese mismo tiempo y de las que se correrá traslado al partidor y se sustanciarán en la misma forma de los incidentes de liquidación de sentencia. El Juez al resolver mandará hacer las adjudicaciones y extender las hijuelas con una breve relación de los antecedentes respectivos.
 
-### Capítulo I. Del secuestro judicial
+### Capítulo II
+
+De la ejecución de las sentencias y resoluciones dictadas por los jueces de los otros Estados de la Federación y del Distrito Federal.
 
 ###### Artículo 750.
 
@@ -4253,7 +4313,9 @@ Los jueces requeridos no ejecutarán las sentencias que no versen sobre cantidad
 
 El Juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es menor ejecutor y, en consecuencia, no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente antes de devolverlo.
 
-### Capítulo II. De los remates
+### Capítulo III
+
+De la ejecución de las sentencias y demás resoluciones dictadas por tribunales extranjeros.
 
 ###### Artículo 755.
 
@@ -4321,7 +4383,7 @@ Título Décimoprimero
 
 Del secuestro y de los remates
 
-### Capítulo I. De los incidentes en general
+### Capítulo I. Del secuestro judicial
 
 ###### Artículo 768.
 
@@ -4621,7 +4683,7 @@ Cuando se promoviere ampliación de embargo, se tramitará también por cuerda s
 
 Lo dispuesto en este capítulo es aplicable a todos los casos de secuestro judicial, salvo aquellos en que se dispusiere expresamente otra cosa.
 
-### Capítulo II. De los incidentes obstativos
+### Capítulo II. De los remates
 
 ###### Artículo 815.
 
@@ -4835,7 +4897,7 @@ Título Décimosegundo
 
 De los incidentes
 
-### Capítulo III. De la acumulación de autos
+### Capítulo I. De los incidentes en general
 
 ###### Artículo 860.
 
@@ -4921,7 +4983,7 @@ La sentencia de los incidentes será apelable en ambos efectos, únicamente, cua
 
 Si el incidente se promoviere en segunda instancia, no tendrá recurso alguno la sentencia que en ellos se pronuncie.
 
-### Capítulo I. De las tercerías coadyuvantes
+### Capítulo II. De los incidentes obstativos
 
 ###### Artículo 878.
 
@@ -4957,7 +5019,7 @@ Si el embargo se practica en bienes muebles, el tercero deberá justificar que l
 
 Las disposiciones de este capítulo son aplicables a todos los casos de embargo, secuestro o intervención de bienes sitos en el territorio del Estado, ya provengan aquellas diligencias de resoluciones o sentencias de los jueces del Estado, de la Federación o de las otras entidades, si se trata de cumplimentar requisitorias de estos funcionarios.
 
-### Capítulo II. De las tercerías excluyentes
+### Capítulo III. De la acumulación de autos
 
 ###### Artículo 886.
 
@@ -5057,7 +5119,7 @@ Título Décimotercero
 
 De las tercerías
 
-### Capítulo Único
+### Capítulo I. De las tercerías coadyuvantes
 
 ###### Artículo 899.
 
@@ -5103,7 +5165,7 @@ La acción que deduzca el tercer coadyuvante deberá decidirse con la principal 
 
 Si la tercería coadyuvante se interpone ante un Juez Menor y el interés de ella excede al que la ley somete a su competencia, remitirá lo actuado en el negocio principal y tercería al Juez competente.
 
-### Capítulo I. Reglas generales
+### Capítulo II. De las tercerías excluyentes
 
 ###### Artículo 908.
 
@@ -5161,7 +5223,7 @@ Título Décimocuarto
 
 Del juicio arbitral
 
-### Capítulo II. De la rectificación y graduación de créditos
+### Capítulo Único
 
 ###### Artículo 920.
 
@@ -5335,7 +5397,7 @@ Título Décimoquinto
 
 De los concursos
 
-### Capítulo III. De la administración del concurso
+### Capítulo I. Reglas generales
 
 ###### Artículo 953.
 
@@ -5387,7 +5449,7 @@ El concursado en el caso del concurso forzoso deberá presentar al juzgado dentr
 
 Son apelables en el efecto devolutivo los autos dictados durante la tramitación del concurso.
 
-### Capítulo IV. Reglas comunes al deudor
+### Capítulo II. De la rectificación y graduación de créditos
 
 ###### Artículo 960.
 
@@ -5475,9 +5537,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiera acreedores hipotecarios, se observarán las disposiciones correspondientes del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores y se observará lo dispuesto en los artículos precedentes.
 
-### Capítulo I. Disposiciones generales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2009)</small>
+### Capítulo III. De la administración del concurso
 
 ###### Artículo 976.
 
@@ -5519,7 +5579,7 @@ El síndico será removido de plano si dejare de rendir cuenta mensual o dejare 
 
 Será removido mediante los trámites establecidos para los incidentes, por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 978.
 
-### Capítulo II. De las testamentarías
+### Capítulo IV. Reglas comunes al deudor
 
 ###### Artículo 984.
 
@@ -5539,7 +5599,9 @@ Título Décimosexto
 
 De los juicios de sucesión
 
-### Capítulo III. De los intestados
+### Capítulo I. Disposiciones generales
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 986.
 
@@ -5749,7 +5811,7 @@ Se sobreseerá de plano cualquier juicio testamentario o de intestado que se pro
 
 Los autos de sobreseimiento que se dicten en los casos de los dos artículos anteriores, no admiten recurso alguno; y los que lo nieguen son apelables en ambos efectos.
 
-### Capítulo IV. Del inventario y avalúo
+### Capítulo II. De las testamentarías
 
 ###### Artículo 1021.
 
@@ -5789,7 +5851,7 @@ Tampoco se suspenderán el inventario ni el avalúo con motivo de las demandas q
 
 Serán respetadas las reglas que los testadores hayan establecido para el inventario, avalúo, liquidación y división de bienes, salvo en todo caso el interés del Fisco y sin perjuicio del tercero.
 
-### Capítulo V. De la administración
+### Capítulo III. De los intestados
 
 ###### Artículo 1030.
 
@@ -5821,9 +5883,7 @@ En la sentencia el Juez declarará herederos a los que hubieren justificado su p
 
 La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del difunto, a la persona en cuyo favor se hizo.
 
-### Capítulo VI. De la rendición de cuentas
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+### Capítulo IV. Del inventario y avalúo
 
 ###### Artículo 1037.
 
@@ -5947,7 +6007,7 @@ Ejecutoriados que sean los pleitos sobre inclusión o exclusión de bienes, en l
 
 El avalúo de los bienes servirá de base para fijar definitivamente la competencia del Juez que deba conocer de los juicios sucesorios. Si esto ameritare que conozca del juicio otra autoridad distinta de la que conocía, se remitirá el expediente a quien corresponda, quedando válidas y subsistentes las actuaciones anteriores.
 
-### Capítulo VII. De la liquidación y partición de la herencia
+### Capítulo V. De la administración
 
 ###### Artículo 1062.
 
@@ -6047,7 +6107,9 @@ Si nadie se presentare alegando derechos a la herencia, o no fueren reconocidos 
 
 Concluidos y aprobados el inventario y avalúo de los bienes, el albacea procederá a la liquidación de la herencia.
 
-### Capítulo VIII. De la transmisión hereditaria del patrimonio familiar
+### Capítulo VI. De la rendición de cuentas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### Artículo 1082.
 
@@ -6081,7 +6143,7 @@ Presentada la cuenta mensual o general de administración, se mandará poner en 
 
 Pasado ese término, se citará a las partes a una audiencia que celebrará dentro de los tres días siguientes, en la que se aprobará o reprobará la cuenta. El auto correspondiente será apelable en el efecto devolutivo.
 
-### Capítulo IX. De la tramitación por notarios
+### Capítulo VII. De la liquidación y partición de la herencia
 
 ###### Artículo 1089.
 
@@ -6291,7 +6353,7 @@ II. Los legatarios de cantidad, de alimentos, de educación y de pensiones, mien
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, de acuerdo con su cuantía.
 
-### Capítulo X. Del testamento público cerrado
+### Capítulo VIII. De la transmisión hereditaria del patrimonio familiar
 
 ###### Artículo 1128.
 
@@ -6309,7 +6371,7 @@ IV. Todas las resoluciones se harán constar en actas y no se requieren peticion
 
 V. El acta o actas en que consten las adjudicaciones pueden servir de título a los interesados.
 
-### Capítulo XI. Declaración de ser formal el testamento ológrafo
+### Capítulo IX. De la tramitación por notarios
 
 ###### Artículo 1129.
 
@@ -6327,7 +6389,7 @@ IV. Formado por el albacea, con aprobación de los herederos, el proyecto de par
 
 V. En caso de oposición de algún aspirante a la herencia, o de algún acreedor, el notario suspenderá su intervención.
 
-### Capítulo XII. Declaración de ser formal el testamento privado
+### Capítulo X. Del testamento público cerrado
 
 ###### Artículo 1130.
 
@@ -6347,9 +6409,7 @@ Será preferida para la protocolización, la Notaría Pública del lugar en que 
 
 Si se presentaren dos o más testamentos públicos cerrados, ya sea de una misma fecha, ya de diversa, el Juez procederá en cada uno de ellos como se previene en este Capítulo y los hará protocolizar en una misma notaría para los efectos a que haya lugar en los casos previstos por los artículos 666 y 668.
 
-### Capítulo XIII. Del testamento militar
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+### Capítulo XI. Declaración de ser formal el testamento ológrafo
 
 ###### Artículo 1134.
 
@@ -6363,7 +6423,7 @@ Recibido el pliego, procederá el tribunal como se dispone en el artículo 727 d
 
 Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### Capítulo XIV. Del testamento marítimo
+### Capítulo XII. Declaración de ser formal el testamento privado
 
 ###### Artículo 1137.
 
@@ -6407,7 +6467,9 @@ De la resolución que niegue la declaración solicitada pueden apelar el promove
 
 La protocolización del testamento privado se hará en los términos del artículo 1132 de este Código.
 
-### Capítulo XV. Del testamento hecho en país extranjero
+### Capítulo XIII. Del testamento militar
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### Artículo 1145.
 
@@ -6419,7 +6481,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de Guerr
 
 En lo demás, se observará lo dispuesto en el capítulo que antecede.
 
-### Capítulo I. Disposiciones generales
+### Capítulo XIV. Del testamento marítimo
 
 ###### Artículo 1147.
 
@@ -6433,7 +6495,7 @@ Recibido en la Secretaría de Relaciones Exteriores el testamento marítimo, y h
 
 Para el examen de los testigos que hayan autorizado el testamento, siempre que no se hubiere hecho la ratificación que previene el artículo 1147 de éste Código, se observarán las disposiciones de los artículos 1139 a 1141 de éste texto normativo.
 
-### Capítulo II. De las informaciones ad perpétuam
+### Capítulo XV. Del testamento hecho en país extranjero
 
 ###### Artículo 1150.
 
@@ -6453,7 +6515,7 @@ Título Decimoséptimo
 
 De la jurisdicción voluntaria
 
-### Capítulo III. Del apeo, deslinde y amojonamiento
+### Capítulo I. Disposiciones generales
 
 ###### Artículo 1153.
 
@@ -6518,6 +6580,8 @@ Los actos de jurisdicción voluntaria de que no hiciere mención especial este C
 ###### Artículo 1163.
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
+
+### Capítulo II. De las informaciones ad perpétuam
 
 ###### Artículo 1164.
 
@@ -6606,6 +6670,8 @@ El poseedor que se encuentre en el caso del artículo 2157 del Código Civil, ju
 ###### Artículo 1175.
 
 Comprobada debidamente la posesión la aprobará el Juez y mandará inscribir tal resolución en el Registro Público, expidiendo las copias certificadas que se le soliciten en los términos del artículo 1166 de este Código.
+
+### Capítulo III. Del apeo, deslinde y amojonamiento
 
 ###### Artículo 1176.
 
@@ -6704,3 +6770,7 @@ P.O. 8 DE DICIEMBRE DE 2010.
 PRIMERO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
