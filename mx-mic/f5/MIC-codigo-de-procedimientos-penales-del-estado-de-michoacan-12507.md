@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2012-01-13"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 13 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL 22 DE OCTUBRE DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -3301,9 +3301,13 @@ II.- Que garantice las sanciones pecuniarias, que en su caso, puedan imponérsel
 
 III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la ley establece en razón del proceso.
 
-(REFORMADO, P.O. 1 DE MARZO DE 2011) (FE DE E., P.O. 3 DE JUNIO DE 2011)
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos; 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 167, 168 y 168 Bis lenocinio y trata de personas; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 y 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
+No procede conceder la libertad provisional bajo caución en los delitos graves previstos en los siguientes artículos del Código Penal: 57, homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes; 108, homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de Gobierno y rebeldes; 109, rebelión, ejecutado por extranjeros; 120, evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave; 132, delincuencia organizada; 137 fracción VIII y último párrafo, ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado, y para realizar las conductas de que habla el citado precepto se valga de explosivos;. (sic) 138, incendio de un vehículo del servicio público ocupado por una o más personas; 158, terrorismo; 162 Corrupción de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 164 y 165 pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado del hecho; 203 bis, falsificación de documentos y uso de documentos falsos; 220, incesto; 228, secuestro; 229 bis, tráfico de personas, sus miembros y órganos; 236 y 236 bis, extorsión; 237 y 238, asalto; 240, violación; 246, abusos deshonestos perpetrados en las hipótesis normativas consistentes en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa; 264, homicidio simple intencional; 265, homicidio en riña o duelo; 267, homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279; 270 fracciones IV y V, lesiones perpetradas dolosamente; 271, lesiones dolosas que pongan en peligro la vida; 283, parricidio; 283 bis, filicidio; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; 312 fracción III y 313, abigeato; 330, último párrafo, despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal; 334, daño en las cosas por incendio, inundación o explosión; 347 fracciones II y III y 348, delitos contra la ecología.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Tampoco se concederá este beneficio tratándose del delito de Trata de Personas contenidos en la Ley de Trata de Personas del Estado de Michoacán de Ocampo.
 
 > <small>(ADICIONADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -4412,3 +4416,29 @@ Lo expedido por este Decreto deberá aplicarse de manera supletoria a los proced
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 Para la implementación del sistema procesal penal acusatorio el Poder Ejecutivo del Estado y el Consejo del Poder Judicial del Estado, adoptarán las medidas necesarias para que los servidores públicos que deban ejercer funciones relacionadas con dicho sistema estén debidamente capacitados, bajo la coordinación del Consejo de Coordinación para la Implementación, Seguimiento y Evaluación del nuevo Sistema de Justicia Penal en el Estado.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Interinstitucional establecida en la Ley, deberá instalarse en los primeros ciento veinte días a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo Estatal contará con un plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley para expedir el reglamento de la misma, en caso de que éste no se expida, el Congreso del Estado de Michoacán de Ocampo deberá hacerlo en salvaguarda de los derechos fundamentales de los ciudadanos michoacanos.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Interinstitucional, una vez instalada, contará con un plazo de ciento veinte días a partir de la entrada en vigor de la presente Ley para elaborar el Programa Estatal para Prevenir y Erradicar la trata de personas.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado de Michoacán de Ocampo, realizará las reformas, adiciones y derogaciones en su caso, del Código de Procedimientos Penales del Estado de Michoacán de Ocampo, acordes al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan aquellas disposiciones que se opongan al presente Decreto.
