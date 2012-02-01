@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-metodos-alternos-para-la-solucion-de-conflictos-del-4289
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-14"
-last_updated: "2011-12-26"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE METODOS ALTERNOS PARA LA SOLUCION DE CONFLICTOS DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE MÉTODOS ALTERNOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE FEBRERO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de enero de 2005.
 
@@ -183,7 +183,7 @@ Los Métodos Alternos son de carácter confidencial, implicando que toda persona
 
 Los prestadores de servicios de Métodos Alternos serán personas físicas y podrán ejercer esta función, en la modalidad respectiva, dentro del Centro Estatal, de Centros de Métodos Alternos, o desarrollar su actividad en forma independiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 10.
 
@@ -233,7 +233,7 @@ X. Las demás que se deriven de las disposiciones legales.
 
 Los prestadores de servicios de Métodos Alternos que no estén certificados, se encontrarán obligados a cumplir con lo dispuesto en las fracciones I a VII y X del presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 12.
 
@@ -409,13 +409,11 @@ VIII. Por convenio que establezca la solución parcial del conflicto; o
 
 IX. Los demás que establezcan las disposiciones legales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011) (F. DE E., P.O. 1 DE FEBRERO DE 2012)
 
 ###### Artículo 29.
 
-No se admitirá recurso alguno y previa la observancia de las disposiciones aplicables, a instancia de parte se podrá elevar a cosa juzgada o sentencia ejecutoriada y en consecuencia proceder a su ejecución. Una vez cumplida la ejecución, y salvo los casos en que haya obligaciones de tracto sucesivo, el Juez o el Magistrado del Tribunal que corresponda, ordenará el archivo del asunto como totalmente concluido.
+Cuando un método alterno hubiere concluido en los términos de la fracción VII del Artículo anterior, no se admitirá recurso alguno y previa la observancia de las disposiciones aplicables, a instancia de parte se podrá elevar a cosa juzgada o sentencia ejecutoriada y en consecuencia proceder a su ejecución. Una vez cumplida la ejecución, y salvo los casos en que haya obligaciones de tracto sucesivo, el Juez o el Magistrado del Tribunal que corresponda, ordenará el archivo del asunto como totalmente concluido.
 
 Cuando el método alterno de solución de conflictos finalice en los términos de la fracción VIII del Artículo anterior, no se admitirá recurso alguno en relación con la parte del conflicto en que sí se hubiere logrado un convenio, procediéndose en los términos de lo dispuesto en el párrafo anterior. Tratándose de derechos sobre los cuales no se hubiere llegado a un Convenio, quedarán a salvo a fin de obtener una solución a través de algún otro Método Alterno o por la vía jurisdiccional.
 
@@ -491,7 +489,7 @@ EL C. PROCURADOR GENERAL DE JUSTICIA
 
 LUIS CARLOS TREVIÑO BERCHELMANN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2006.
 
