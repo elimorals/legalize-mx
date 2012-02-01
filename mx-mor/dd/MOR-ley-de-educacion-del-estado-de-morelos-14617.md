@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2011-12-14"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -69,7 +69,7 @@ Los Capítulos Octavo y Noveno se refieren a la Educación Media Superior y Supe
 
 En el Décimo Capítulo, se determinan las reglas generales que rigen la educación para los adultos y en el Capítulo Décimo Primero se hace referencia a la Educación Informal, destacando la importancia de los medios de comunicación y la necesidad de utilizar en el cumplimiento de la tarea educativa los medios que proporciona el avance tecnológico.
 
-En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá (sic) mejorar los contenidos y los programas educativos.
+En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá mejorar los contenidos y los programas educativos.
 
 El Título Cuarto está dedicado a la participación social en la educación y contiene las normas que especifican los derechos y obligaciones de los padres de familia y de quienes, en su caso, ejercen la patria potestad sobre los educandos y las relativas a la integración y funcionamiento de los Consejos de Participación Social que deben operar, tanto a nivel estatal como municipal y en el marco de cada una de las instituciones educativas, con el objeto de propiciar la mayor atención de la comunidad en el correcto funcionamiento de la escuela, sus instalaciones, su mobiliario, el material didáctico de que disponen los maestros y el cumplimiento de los planes y programas de estudio.
 
@@ -351,6 +351,8 @@ Para ejercer la docencia en instituciones establecidas por el Gobierno del Estad
 
 ### CAPITULO V. DE LA EDUCACION FISICA Y ARTISTICA
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ### CAPITULO VI. DE LA EDUCACION INDIGENA
 
 ## TITULO SEGUNDO. DE LA EDUCACION QUE SE IMPARTA EN EL ESTADO
@@ -443,7 +445,9 @@ Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre 
 
 ###### ARTICULO 36.
 
-La educación física contribuirá al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación básica.
+La educación física contribuirá al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación inicial, primaria, secundaria, media superior y superior.
+
+En el nivel superior, la educación física deberá tener el objetivo primordial de fomentar la práctica de un deporte o disciplina deportiva, o bien, el acondicionamiento físico permanente y cotidiano de los estudiantes.
 
 ###### ARTICULO 37.
 
@@ -1232,3 +1236,11 @@ P.O. 14 DE DICIEMBRE DE 2011.
 PRIMERO.- Aprobado el presente Decreto, túrnese al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto, remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+TERCERO.- Las instituciones de educación superior que forman parte del Sistema Educativo Estatal, contarán con un periodo de doce meses contados a partir de la vigencia de este decreto para cumplir a cabalidad con la observancia de las nuevas disposiciones contenidas en el artículo 36 de la Ley de Educación del Estado de Morelos.
