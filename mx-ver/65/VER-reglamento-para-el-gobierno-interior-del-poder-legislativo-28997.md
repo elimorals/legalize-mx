@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2011-11-18"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -1097,9 +1097,11 @@ Los titulares de las dependencias y entidades de la administración pública, no
 
 #### SECCIÓN SEXTA. De las Discusiones en lo General y en lo Particular
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 120.
 
-Todo dictamen estará sujeto a una primera discusión en lo general y a una segunda en lo particular; cuando conste de menos de diez artículos, será discutido en una sola vez. La discusión en lo particular tendrá por objeto analizar cada artículo o conjunto de los mismos, reservados por los diputados o por los grupos legislativos.
+Todo dictamen se discutirá primero en lo general y después en lo particular. Si consta de menos de diez artículos será discutido en ambas formas al mismo tiempo. En este último caso, si no se reserva algún artículo, toda la discusión se referirá a la aceptación o rechazo del proyecto en su conjunto sin poder proponer cambio alguno.
 
 ###### Artículo 121.
 
@@ -1121,13 +1123,21 @@ V. Los diputados podrán solicitar el uso de la palabra para rectificar hechos o
 
 VI. Los diputados inscritos en la lista de oradores podrán declinar el uso de la palabra en el momento de su turno y ser sustituidos por otro miembro de su grupo legislativo. Cuando un diputado no se encuentre en el momento de ser llamado, se entenderá que renuncia a intervenir.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 122.
 
-Aprobado un dictamen en lo general, el Presidente ordenará al Secretario dé a conocer los artículos o conjunto de ellos reservados en lo particular y dispondrá se inicie el debate.
+Cuando haya concluido la votación de un proyecto en lo general, o cuando se inicie la discusión de un proyecto del que el Pleno conozca simultáneamente en lo general y en lo particular, el Presidente instruirá a la Secretaría para que consulte a la asamblea qué diputados tienen interés en reservar algún artículo para su discusión en lo particular.
 
-De inmediato, el Secretario dará lectura a las propuestas de los diputados o de los grupos legislativos que se hayan reservado algunos artículos o conjunto de ellos, para suprimirlos o modificarlos y el Presidente concederá la palabra a cada ponente, en el orden en que estuvieren inscritos, para que expresen los argumentos en que funden su propuesta en un término que no exceda de diez minutos.
+Cuando el artículo a reservar conste de varios apartados, párrafos, fracciones o incisos, el diputado que lo reserve deberá indicar la parte específica cuya reserva solicite y sobre la cual versará su propuesta.
 
-Si la comisión dictaminadora no acepta la modificación o la supresión, el Presidente abrirá de inmediato la discusión, pudiendo hablar diputados en contra y en pro. Si la comisión la acepta, procederá de inmediato a redactar y firmar el texto que se propone, pudiendo el Presidente declarar un receso. Si el Pleno acepta la supresión o la modificación propuesta, el Presidente ordenará a la comisión haga las enmiendas al dictamen en el sentido de la votación.
+Una vez registradas todas las reservas por la Secretaría, ésta informará respecto de las mismas y, si ya no hay diputado que desee formular alguna reserva, la Presidencia declarará cerrado el registro de éstas. Después de dicha declaración no se admitirá otra nueva reserva, salvo que, como resultado de algún cambio aprobado durante la discusión en lo particular, deba considerarse una propuesta adicional, en cuyo caso será necesaria la aprobación del Pleno en votación económica, previa consulta que le formule el Presidente. Las propuestas adicionales se discutirán una vez que se hayan agotado la discusión y votación de las originalmente registradas.
+
+Las propuestas relativas a las reservas enlistadas se discutirán separadamente una por una, aunque se refieran a un mismo párrafo, fracción o apartado del artículo reservado.
+
+Una vez expuesta la propuesta por su autor, el Presidente consultará al Pleno si se admite para su discusión. Si no se admite ninguna propuesta para una determinada parte de un artículo, el Presidente declarará que dicha parte queda aprobada junto con los demás artículos que no se hubieren reservado.
+
+Si discutida la propuesta es aprobada por el Pleno, la Secretaría tomará nota de la misma. Si es rechazada, se tendrá por aprobado el texto original sin modificación.
 
 ###### Artículo 123.
 
@@ -1137,13 +1147,15 @@ En la discusión en lo particular se guardará el orden en el debate, no pudiend
 
 En la discusión en lo particular, cada diputado podrá hacer uso de la palabra dos veces hasta por diez minutos. Los miembros de la comisión que emitió el dictamen, podrán intervenir cuantas veces lo consideren necesario y hasta por diez minutos cuando existan alusiones personales.
 
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 125.
 
-Durante la discusión en lo particular, podrán presentarse por escrito propuestas alternativas a los artículos reservados. Si la mayoría de los miembros de la comisión dictaminadora aceptan la propuesta de supresión o modificación, pasarán a formar parte del dictamen.
+Durante la discusión en lo particular, cuando se pretenda modificar un dictamen, la comisión o comisiones dictaminadoras podrán presentar contrapropuestas, alternas a la redacción original, mismas que se discutirán siempre que no se apruebe previamente la propuesta que las motive y se les aplicará lo previsto en el párrafo final del artículo 122.
 
 ###### Artículo 126.
 
-Todos los proyectos de ley que consten de más de diez artículos, podrán ser discutidos y aprobados bajo la denominación de libros, títulos, capítulos, secciones o párrafos en que los dividieren sus autores o las comisiones encargadas de su despacho, siempre que así lo acuerde el Pleno a moción de uno o más de sus miembros.
+(DEROGADO, G.O. 1 DE FEBRERO DE 2012)
 
 #### SECCIÓN SÉPTIMA. De la Votación de los Dictámenes
 
@@ -1151,9 +1163,15 @@ Todos los proyectos de ley que consten de más de diez artículos, podrán ser d
 
 La votación de los dictámenes en lo general será nominal. Aprobado un dictamen en lo general, los artículos no reservados se tendrán por aprobados.
 
+> <small>(ADICIONADO, G.O. 1 DE FEBRERO DE 2012)</small>
+
+De no aprobarse un dictamen en lo general, la asamblea decidirá, en votación económica, si se devuelve el proyecto a la comisión dictaminadora para que lo modifique o si la iniciativa contenida en el dictamen se tiene por desechada.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 128.
 
-Los artículos, libros, títulos, capítulos, secciones o párrafos que sean reservados, se votarán al concluir la discusión de cada uno.
+En la votación en lo particular, la Secretaría dará cuenta de los votos que alcance cada propuesta o contrapropuesta e informará a la Presidencia del texto que finalmente se apruebe, para que ésta realice la declaratoria respectiva.
 
 ###### Artículo 129.
 
@@ -1614,3 +1632,7 @@ G.O. 18 DE NOVIEMBRE DE 2011.
 Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 1 DE FEBRERO DE 2012.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
