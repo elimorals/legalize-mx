@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-electoral-y-participacion-ciudadana-del-54292"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-11"
-last_updated: "2007-07-06"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE JUSTICIA ELECTORAL Y PARTICIPACION CIUDADANA DEL ESTADO DE MICHOACAN DE OCAMPO -ANTES LEY DE JUSTICIA ELECTORAL DEL ESTADO DE MICHOACAN DE OCAMPO-
 
-LEY DE JUSTICIA ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY DE JUSTICIA ELECTORAL Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el domingo 11 de febrero de 2007.
 
@@ -37,7 +37,9 @@ EL CONGRESO DEL MICHOACÁN DE OCAMPO DECRETA:
 
 NÚMERO 130
 
-LEY DE JUSTICIA ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
+
+LEY DE JUSTICIA ELECTORAL Y PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 # Libro Primero. Del sistema de medios de impugnación
 
@@ -45,9 +47,11 @@ LEY DE JUSTICIA ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### Capítulo I. Del ámbito de aplicación y de los criterios de interpretación
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de observancia general en todo el Estado de Michoacán y reglamentaria de los artículos 13 y 98 A de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+La presente Ley es de orden público, de observancia general en todo el Estado de Michoacán y tiene por objeto reglamentar los procesos electorales y, en su caso, los procedimientos de participación ciudadana previstos en la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 ###### Artículo 2.
 
@@ -205,7 +209,13 @@ a) Los registrados formalmente ante el órgano electoral responsable, cuando és
 
 b) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello; y,
 
-II. Las coaliciones a través de sus representantes legítimos en los términos del convenio de coalición respectivo, aprobado por el Consejo General del Instituto.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+II. Las coaliciones a través de sus representantes legítimos en los términos del convenio de coalición respectivo, aprobado por el Consejo General del Instituto; y,
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+III. En el caso de los procesos de Referéndum y Plebiscito, el sujeto que los haya solicitado.
 
 ### Capítulo VII. De las pruebas
 
@@ -637,6 +647,16 @@ c) Existir error aritmético en los resultados consignados en el acta de cómput
 
 d) Contravenir las reglas y fórmulas de asignación de los diputados electos por el principio de representación proporcional.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Asimismo, el juicio de inconformidad procederá para impugnar, dentro de los procesos de Referéndum y Plebiscito, los siguientes actos:
+
+I. Contra los resultados consignados en las actas de cómputo distritales o municipales, por nulidad de la votación recibida en una o varias casillas, o por error aritmético;
+
+II. En su caso, contra los resultados consignados en el acta de cómputo estatal, por error aritmético; y,
+
+III. Las declaraciones de validez de los procesos mencionados.
+
 ###### Artículo 51.
 
 El escrito de protesta es un medio para establecer la existencia de presuntas violaciones durante la jornada electoral y, en su caso, contra los resultados consignados en el acta de escrutinio y cómputo de las casillas.
@@ -663,7 +683,9 @@ El escrito de protesta podrá presentarse por los representantes de partido o co
 
 Además de los requisitos establecidos en el artículo 9 del presente Ordenamiento, el escrito por el cual se promueva el juicio de inconformidad deberá cumplir con los siguientes:
 
-I. Mencionar la elección que se impugna señalando expresamente si se objeta el resultado del cómputo, la declaración de validez de la elección y por consecuencia, el otorgamiento de las constancias respectivas. No podrá impugnarse más de una elección con el mismo juicio;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+I. Mencionar la elección, proceso de Referéndum o Plebiscito que se impugna señalando expresamente si se objeta el resultado del cómputo, la declaración de validez de la elección, proceso de Referéndum o Plebiscito y por consecuencia, el otorgamiento de las constancias respectivas. No podrá impugnarse más de una elección con el mismo juicio;
 
 II. La mención individualizada de las casillas cuya votación se solicite anular en cada caso y la causal que se invoca para cada una de ellas;
 
@@ -685,9 +707,17 @@ Es competente para resolver el Juicio de Inconformidad el Pleno del Tribunal Ele
 
 El juicio de inconformidad sólo podrá ser promovido por:
 
-I. Los representantes de los partidos políticos o coaliciones acreditados ante los organismos electorales; y,
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes.
+I. Los representantes de los partidos políticos o coaliciones acreditados ante los organismos electorales;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+II. Los candidatos, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría. En todos los demás casos, sólo podrán intervenir como coadyuvantes; y,
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+III. En el caso de los procesos de Referéndum y Plebiscito, el sujeto que los haya solicitado.
 
 ### Capítulo V. De los plazos y de los términos
 
@@ -719,9 +749,21 @@ IV. Revocar la constancia expedida en favor de un candidato, fórmula o planilla
 
 V. Declarar la nulidad de la elección y, en consecuencia, revocar las constancias expedidas cuando se den los supuestos previstos en el Título Cuarto de este Libro;
 
-VI. Revocar la determinación sobre la declaración de validez y otorgamiento de constancias de mayoría y validez o de asignación en las elecciones de diputados y ayuntamientos, según corresponda; y,
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-VII. Hacer la corrección de los cómputos estatal, distrital o municipal cuando sean impugnados por error aritmético.
+VI. Revocar la determinación sobre la declaración de validez y otorgamiento de constancias de mayoría y validez o de asignación en las elecciones de diputados y ayuntamientos, según corresponda;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+VII. Hacer la corrección de los cómputos estatal, distrital o municipal cuando sean impugnados por error aritmético;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+VIII. Declarar la nulidad de la votación emitida en una o varias casillas para los procesos de Referéndum o Plebiscito cuando se den los supuestos previstos en el Título Quinto de este Libro y modificar, en consecuencia, los cómputos respectivos; y,
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+IX. Declarar la nulidad de los procesos de Referéndum o Plebiscito y revocar los actos emitidos como consecuencia de su realización cuando se den los supuestos previstos en esta Ley.
 
 ###### Artículo 57.
 
@@ -737,13 +779,23 @@ I. Los relativos a la elección de ayuntamiento, a más tardar quince días desp
 
 II. Los relativos a la elección de diputados por el principio de mayoría relativa, a más tardar veintiséis días después de su recepción por el Tribunal Electoral del Estado;
 
-III. Los correspondientes a la elección de diputados por el principio de representación proporcional, a más tardar veintiocho días después de su recepción por el Tribunal Electoral del Estado; y,
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-IV. Los relativos a la elección de Gobernador, a más tardar a los cuarenta y tres días después de su recepción por el Tribunal Electoral del Estado
+III. Los correspondientes a la elección de diputados por el principio de representación proporcional, a más tardar veintiocho días después de su recepción por el Tribunal Electoral del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+IV. Los relativos a la elección de Gobernador, a más tardar a los cuarenta y tres días después de su recepción por el Tribunal Electoral del Estado; y,
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+V. Los relativos a los procesos de Referéndum o Plebiscito, a más tardar quince días después de su recepción por el Tribunal Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 59.
 
-Las sentencias que recaigan a los juicios de inconformidad presentados en contra de los resultados de las elecciones de diputados, ayuntamientos y Gobernador que no sean impugnados en tiempo y forma, serán definitivas e inatacables.
+Las sentencias que recaigan a los juicios de inconformidad que no sean impugnados en tiempo y forma, serán definitivas e inatacables.
 
 ## Título Cuarto. De las nulidades
 
@@ -799,11 +851,15 @@ X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudad
 
 XI. Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, pongan en duda la certeza de la votación y sean determinantes para el resultado de la misma.
 
-### Capítulo III. De la nulidad de la elección
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
+
+### Capítulo III. De la nulidad de la elección y de los procesos de Referéndum o Plebiscito
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 65.
 
-Una elección podrá declararse nula cuando:
+Una elección, proceso de Referéndum o Plebiscito, según corresponda, podrá declararse nula cuando:
 
 I. Alguna o algunas de las causales señaladas en esta Ley se acrediten en por lo menos el veinte por ciento de las casillas electorales, en el ámbito de la demarcación correspondiente;
 
@@ -856,3 +912,7 @@ P.O. 6 DE JULIO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+ÚNICO. La presente reforma entrará en vigor a partir del día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y una vez concluido el proceso electoral del Estado próximo pasado.
