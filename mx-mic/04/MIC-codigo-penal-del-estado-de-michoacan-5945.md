@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "2011-07-01"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-CODIGO PENAL DEL ESTADO DE MICHOACAN
+CÓDIGO PENAL DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -321,13 +321,17 @@ XVI. Intervención, prohibición de realizar determinadas operaciones o negocios
 
 XVII. Tratamiento en libertad, semiliberación y trabajo en favor de la comunidad.
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-XVIII. Restricción de la comunicación o del acercamiento con la víctima; y,
+XVIII. Restricción de la comunicación o del acercamiento con la víctima;
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-XIX. Tratamiento psicológico especializado.
+XIX. Tratamiento psicológico especializado; y,
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XX. Intervención especializada cuando se trate de violencia contra las mujeres por su condición de género.
 
 ### CAPITULO II. Prisión
 
@@ -375,13 +379,25 @@ La reparación del daño comprende:
 
 I. La restitución de la cosa obtenida por el delito y sus frutos, y si no fuere posible, el pago del precio correspondiente; y,
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-II. El resarcimiento del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima; y
+II. El resarcimiento del daño material y moral causado, incluyendo los gastos de asistencia jurídica y el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud física y psicológica de la víctima;
 
-> <small>(ADICIONADA, P.O. 3 DE MARZO DE 1994)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-III. La indemnización de los perjuicios ocasionados.
+III. La indemnización de los perjuicios ocasionados;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+IV. El pago de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales de acuerdo a sus circunstancias;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+V. El pago de la pérdida de ingreso económico y lucro cesante, que será determinado conforme al último ingreso comprobable y en caso de no contar con esa información, será conforme al salario mínimo vigente en la región; y,
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+VI. La declaración que restablezca la reputación de la víctima a través de medios electrónicos o escritos.
 
 ###### Artículo 31.
 
@@ -411,17 +427,23 @@ El monto de la reparación del daño moral será fijado por el juzgador a su pru
 
 La capacidad económica del obligado, tendrá como único fin, aumentar el monto de la reparación del daño moral o material en beneficio de la víctima, y la falta de acreditación de la misma en ningún caso servirá de fundamento para absolver al acusado.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+En el caso de los delitos que se contemplan en los Títulos, Quinto Delitos Contra el Libre Desarrollo de la Personalidad y, Décimocuarto Delitos Contra la Libertad y Seguridad Sexual, siempre se considerará acreditado el daño moral causado y la reparación del daño comprenderá además, el pago de todo tipo de gastos derivados de tratamientos médicos y psicológicos que requiera la víctima, por todo el tiempo que éstos sean necesarios a juicio de peritos.
+
 ###### Artículo 34.
 
 En orden de preferencia, tienen derecho a la reparación del daño:
 
 I. El ofendido;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
 
-II. El cónyuge, los hijos menores de edad y aquellos que no tienen capacidad de comprender el significado del hecho;
+II. El cónyuge, la concubina o concubinario, los hijos menores de edad y aquellos que no tienen capacidad de comprender el significado del hecho;
 
-III. Los que dependían económicamente del ofendido; y,
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+III. Los que dependan económicamente del ofendido; y,
 
 IV. Sus herederos.
 
@@ -477,6 +499,10 @@ Si no se logra hacer efectivo todo el importe de la reparación del daño y el d
 
 Si las personas que tienen derecho acreditado a la reparación del daño renuncian a ella, su importe se aplicará en favor del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Tratándose de menores de edad, adultos mayores o quien no tiene capacidad para comprender el significado del hecho o no puede resistirlo, este derecho es irrenunciable.
+
 ###### Artículo 42.
 
 La autoridad judicial, tratándose del pago de la reparación del daño, podrá fijar plazos y autorizar pagos parciales, siempre que el término señalado no exceda de un año.
@@ -521,13 +547,15 @@ El apercibimiento consiste en la conminación que el juez hace al acusado, cuand
 
 Cuando los jueces estimen que no es suficiente el apercibimiento, exigirán además al acusado una caución de no ofender.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 48.
 
-La caución, de no ofender consiste en la garantía que el juez puede exigir al sentenciado, en los casos que estime conveniente, para que no cause un nuevo daño al ofendido, la cual se fijará atendiendo a sus condiciones personales.
+La caución de no ofender consiste en la garantía que el Juez puede exigir al sentenciado, en los casos que estime conveniente, para que no cause un nuevo daño al ofendido, la cual se fijará atendiendo a sus condiciones personales.
 
 Si el nuevo daño se realiza, la garantía se hará efectiva, en favor del ofendido.
 
-Si el sentenciado prueba que no puede otorgar la garantía, el juez la substituirá por vigilancia de la autoridad.
+Si el sentenciado prueba que no puede otorgar la garantía, el Juez la substituirá por vigilancia de la autoridad y la obligación de acudir a tratamiento especializado por el tiempo que determine.
 
 ### CAPITULO X. Suspensión, Privación e Inhabilitación de Derechos
 
@@ -651,13 +679,17 @@ IV. Si tuvo tiempo de obrar con reflexión y cuidado necesarios; y,
 
 V. El estado del equipo y demás condiciones de funcionamiento mecánico.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 59.
 
-Los delitos de homicidio y lesiones culposos, cometidos con motivo de tránsito de vehículos en agravio de un descendiente o ascendiente consanguíneo en línea recta, cónyuge, concubino o hermano, no se sancionarán, salvo que el autor hubiese consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas o de cualquiera otra sustancia que produzca efectos similares.
+Los delitos de homicidio y lesiones culposos, cometidos con motivo de tránsito de vehículos en agravio de un descendiente o ascendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, no se sancionarán, salvo que el autor hubiese consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas o de cualquiera otra sustancia que produzca efectos similares.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 En los casos a que se refiere la primera parte del párrafo anterior, si resultan ofendidos que no tengan el referido parentesco con el conductor, sólo se perseguirá el delito por querella de los herederos del occiso, de los lesionados o de sus legítimos representantes.
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 Lo anterior es aplicable al conductor, cuando éste y los sujetos pasivos viajen en el mismo vehículo.
 
@@ -807,9 +839,15 @@ Siempre que el beneficiado con la libertad condicional revele nuevamente peligro
 
 Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el cuidado y vigilancia de la Dirección de Prevención y Readaptación Social del Estado.
 
-(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2011) (F. DE E., P.O. 3 DE JUNIO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-Artículo 76 bis. La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; corrupción de personas menores de edad o de personas que no tiene capacidad para comprender el significado del hecho, artículo 162; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado de hecho, artículos 164 y 165; lenocinio y trata de personas, artículos 167, 168 y 168 Bis; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228; tráfico de personas, sus miembros y órganos, artículo 229 bis; extorsión, artículo 236 y 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abusos deshonestos perpetrados en la hipótesis normativa consistente en la introducción, por medio de la violencia física o moral, por motivo de actos eróticos o cualquier otra causa, por vía anal o vaginal, de cualquier elemento o instrumento diferente al miembro viril, o cuando sin emplearse la violencia el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, artículo 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; abigeato, previsto en los artículos 312 fracción III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+###### Artículo 76 Bis.
+
+La libertad condicional no se concederá a los sentenciados por los delitos de: homicidio culposo en agravio de dos o más personas, cometido por conductores de transporte de pasajeros o de carga, de servicio público o concesionado por autorización, permiso o licencia de autoridades competentes, artículo 57; homicidio en perjuicio de prisioneros, consumado en el tipo de rebelión, por jefes o agentes de gobierno y rebeldes, artículo 108; rebelión, ejecutado por extranjeros, artículo 109; evasión de presos, en el supuesto de que el sujeto activo facilite, al mismo tiempo o en un solo acto, la evasión de una o varias personas privadas de su libertad por la autoridad competente, por delito grave, artículo 120; delincuencia organizada, artículo 132; ataques a las vías de comunicación en la modalidad de destrucción e inutilización de un campo de aviación particular o del Estado y para realizar las conductas de que habla el citado precepto se valga de explosivos, artículo 137, fracción VIII y último párrafo; incendio de un vehículo del servicio público ocupado por una o más personas, artículo 138; terrorismo, artículo 158; corrupción de personas menores de edad o de personas que no tiene capacidad para comprender el significado del hecho, artículo 162 y 163; pornografía y turismo sexual de personas menores de edad o de personas que no tienen capacidad para comprender el significado de hecho, artículos 164 y 165; tortura, artículos 186 A y 186 B; falsificación de documentos y uso de documentos falsos, artículo 203 bis; incesto, artículo 220; secuestro, artículo 228 y 229 bis; extorsión, artículo 236 bis; asalto, artículos 237 y 238; violación, artículo 240; abuso sexual, artículos 245 y 246; homicidio simple intencional, artículo 264; homicidio en riña o duelo, artículo 265; homicidio calificado, ejecutado con las agravantes contempladas en el artículo 279, artículo 267; lesiones perpetradas dolosamente, artículo 270, fracciones IV y V; lesiones dolosas que pongan en peligro la vida, artículo 271; parricidio, artículo 283; filicidio, artículo 283 bis; robo perpetrado con las calificativas contenidas en el artículo 303 fracciones I, IV, V, VII, VIII, X y XI en relación a las modalidades establecidas en el primero y segundo párrafos; abigeato, previsto en los artículos 312 fracción III y 313; despojo cometido por dos o más personas, únicamente por lo que respecta a los autores intelectuales y a quienes dirijan la ejecución del injusto penal, artículo 330, fracción IV segundo párrafo; daño en las cosas por incendio, inundación o explosión, artículo 334; y delitos contra la ecología, artículo 347 fracciones II y III y 348; todos de este Código; así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Tampoco se concederá este beneficio tratándose del delito de Trata de Personas contenidos en la Ley de Trata de Personas del Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
 
@@ -969,9 +1007,9 @@ La prescripción será declarada de oficio o a petición de parte.
 
 Los términos para la prescripción de la acción penal, serán continuos y se contarán a partir del momento en que se cometió el delito si fuere instantáneo; desde que cesó, si fuere permanente, y desde el día en que se hubiere realizado el último acto de ejecución, si el delito fuere continuado o si se tratare de tentativa.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-Tratándose de los delitos previstos en los artículos: 164 fracciones I y II, pornografía; 165, turismo sexual; 167 fracciones I y II, lenocinio; 168 bis, trata de personas; 220, incesto; 240, violación; 243, estupro; 245 y 246, abusos deshonestos y 246 bis, acoso sexual, cometidos en contra de persona menor de edad, que en su momento no haya denunciado el hecho, la prescripción de la acción penal, se computará a partir de que el menor cumpla su mayor edad.
+Tratándose de los delitos previstos en los artículos: 162 y 163, corrupción de personas menores de edad; 164 fracciones I y II, pornografía; 165, turismo sexual; 167 fracciones I y II, lenocinio; 168 bis, trata de personas; 220, incesto; 240, violación; 243, estupro; 245 y 246, abuso sexual y 246 bis, acoso sexual, cometidos en contra de persona menor de edad que en su momento no haya denunciado el hecho, la prescripción de la acción penal, se computará a partir de que el menor cumpla su mayor edad.
 
 ###### Artículo 92.
 
@@ -1041,7 +1079,9 @@ I. Con la aprehensión del reo o cuando se presente espontáneamente;
 
 II. Si el reo comete un nuevo delito de la misma naturaleza del que motivó la pena impuesta; y,
 
-III. Desde la fecha en que el reo contraiga matrimonio con la ofendida, en los casos de rapto y estupro, si se declara nulo dicho acto jurídico.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+III. En el caso de estupro, desde la fecha en que el reo contraiga matrimonio con la ofendida, si se declara nulo dicho acto jurídico.
 
 ## TITULO PRIMERO. DELITO CONTRA LA SEGURIDAD DEL ESTADO
 
@@ -1551,8 +1591,6 @@ Al que ultraje insignias de las instituciones que tengan actuación pública, de
 
 ### CAPITULO III. Lenocinio y trata de personas
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
 ###### Artículo 162.
 
 A quien induzca, procure o facilite a persona menor de edad o a persona que no tenga capacidad para comprender el significado del hecho, a realizar actos de exhibicionismo corporales o sexuales, prostitución o consumo de algún narcótico, prácticas sexuales o a cometer hechos delictivos, se le aplicarán de cinco a nueve años de prisión y multa de quinientos a mil doscientos días de salario mínimo general vigente.
@@ -1595,6 +1633,20 @@ Se impondrá pena de seis a diez años de prisión y multa de mil a cuatro mil d
 
 En los casos de delincuencia organizada, se agravará la pena en los términos del Título Segundo, Capítulo IV del Libro Segundo de este Código.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+###### Artículo 164 Bis.
+
+Las sanciones señaladas en los artículos 162, 163 y 164 se aumentarán de conformidad con lo siguiente:
+
+I. eHasta (sic) una tercera parte del máximo de la sanción, si el delito es cometido por servidor público en contra de una persona menor de edad. Además, se impondrá la destitución del empleo, cargo o comisión e inhabilitación para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta;
+
+II. Hasta una mitad del máximo de la sanción, si el delito es cometido en contra de una persona menor de doce años de edad;
+
+III. Hasta una mitad del máximo de la sanción, cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima; además, según las circunstancias del hecho, podrá perder la patria potestad, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto a los bienes de ésta; y,
+
+IV. Hasta una mitad del máximo de la sanción, cuando se hiciere uso de violencia física o moral.
+
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 165.
@@ -1603,13 +1655,13 @@ Comete el delito de turismo sexual de personas menores de edad o de personas que
 
 A quien en virtud de las conductas antes descritas tenga relaciones sexuales con persona menor de edad o con persona no tenga capacidad para comprender el significado del hecho, se le impondrá una pena de diez a veinte años de prisión y multa de dos a cuatro mil días de salario mínimo general vigente.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 166.
 
-Los sujetos activos de los delitos previstos en los Capítulos I, II y III, del Título Quinto, Libro Segundo de este Código, serán privados del derecho a ejercer la patria potestad, la tutela o curatela, según el caso.
+Los sujetos activos de los delitos previstos en los Capítulos I, II y III, del Título Quinto, Libro Segundo de este Código, serán privados del derecho a ejercer la patria potestad, la tutela o curatela, según el caso, quedando inhabilitados para nuevo nombramiento como tutores o curadores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ### CAPITULO I. Cohecho
 
@@ -1617,51 +1669,19 @@ Los sujetos activos de los delitos previstos en los Capítulos I, II y III, del 
 
 ###### Artículo 167.
 
-Comete el delito de lenocinio:
-
-I. Quien explote el cuerpo de otra persona por medio del comercio carnal, se mantenga de este comercio u obtenga de él un lucro cualquiera;
-
-II. Quien induzca a una persona o la solicite para que con otra, comercie sexualmente con su cuerpo o le facilite los medios para que ejerza la prostitución;
-
-III. Quien regentee, dirija, patrocine, administre o sostenga directa o indirectamente prostíbulos, casas de cita o lugares de concurrencia, en donde se explote la prostitución u obtenga cualquier beneficio de la ejecución de esos actos; y,
-
-IV. Quien oculte, concierte o permita el comercio carnal de una persona menor de edad.
-
-El delito de lenocinio se sancionará con prisión de cinco a diez años y multa de quinientos a dos mil días de salario mínimo general vigente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
 ###### Artículo 168.
 
-Comete el delito de trata de personas, quien promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a una persona para someterla a cualquier forma de explotación, incluida entre otras, la explotación sexual, laboral o prácticas análogas a la esclavitud o para ser extirpada de sus órganos, tejidos o sus componentes, dentro o fuera del territorio del Estado, se le impondrá una pena de seis a doce años de prisión y multa de quinientos a mil días de salario mínimo general vigente.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
-Si se emplease violencia física o moral o el agente se valiese de la función pública que tuviere, la pena se aumentará hasta la mitad del máximo de la sanción.
+###### Artículo 168 Bis.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE AGOSTO DE 2006)</small>
-
-Artículo 168 bis.- Al que promueva, ofrezca, facilite, consiga, traslade, entregue o reciba para sí o para un tercero, a persona menor de edad o a persona que no tenga capacidad para comprender el significado del hecho, para someterla a cualquier forma de explotación, incluida entre otras, la explotación sexual, laboral o prácticas análogas a la esclavitud o para ser extirpada de sus órganos, tejidos o sus componentes, se le impondrá la pena de ocho a catorce años de prisión y multa de mil a dos mil días de salario mínimo general vigente.
-
-Las penas que resulten aplicables por los delitos previstos en este artículo se incrementarán:
-
-I. Hasta una tercera parte del máximo de la sanción, si el delito es cometido en contra de una persona menor de catorce años de edad o es cometido por un servidor público. En este último caso, se impondrá, además de la destitución del empleo, cargo o comisión públicos, la inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta;
-
-II. Hasta una mitad del máximo de la sanción, si el delito es cometido en contra de una persona menor de doce años de edad o se emplee violencia física o moral; y,
-
-III. Hasta una mitad del máximo de la sanción, cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima, aunque no existiere parentesco alguno o sea tutor o curador de la víctima; además, según las circunstancias del hecho, podrá perder la patria potestad, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto a los bienes de ésta.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2006)</small>
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
 ###### Artículo 169.
 
-Las sanciones señaladas en los artículos 162, 163 y 164 se aumentarán de conformidad con lo siguiente:
-
-I. Hasta una tercera parte del máximo de la sanción, si el delito es cometido por servidor público en contra de una persona menor de edad. Además, se impondrá la destitución del empleo, cargo o comisión e inhabilitación para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta;
-
-II. Hasta una mitad del máximo de la sanción, si el delito es cometido en contra de una persona menor de doce años de edad;
-
-III. Hasta una mitad del máximo de la sanción, cuando el sujeto activo del delito tenga parentesco por consanguinidad, afinidad o civil o habite en el mismo domicilio con la víctima; además, según las circunstancias del hecho, podrá perder la patria potestad, el derecho a alimentos que le correspondiera por su relación con la víctima y el derecho que pudiere tener respecto a los bienes de ésta; y,
-
-IV. Hasta una mitad del máximo de la sanción, cuando se hiciere uso de violencia física o moral.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 24 DE AGOSTO DE 2006)</small>
 
@@ -1915,7 +1935,9 @@ VII. Teniendo conocimiento de una detención ilegal, omitan, retarden o rehusen 
 
 VIII. Estando encargados de la custodia o conducción de alguna persona detenida o condenada, cometan contra ella cualquier acto expresamente prohibido por la ley;
 
-IX. Ejerciendo sus funciones o con motivo de ellas, hicieren violencia a una persona sin causa legítima, o la vejaren injustamente o la insultaren;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+IX. En uso de sus funciones o con motivo de ellas, ejerza violencia física o psicológica a una persona;
 
 X. Indebidamente retarden o nieguen a los particulares la protección o servicio que tengan obligación de otorgarles impidan la presentación o el curso de una solicitud;
 
@@ -2433,7 +2455,7 @@ DELITOS CONTRA EL ORDEN FAMILIAR
 
 ### CAPITULO III. Incesto
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 213.
 
@@ -2453,15 +2475,17 @@ V. Usurpe el estado civil o la filiación de otro con el fin de adquirir derecho
 
 El que cometa alguno de los delitos expresados en el artículo anterior perderá el derecho de heredar que tuviere respecto de las personas a quienes por la comisión del delito perjudique en sus derechos.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 215.
 
-Al que abandone en una casa de expósitos a un niño menor de siete años que se le hubiere confiado o lo entregue en otro establecimiento de beneficencia o a cualquier otra persona sin anuencia de la que se lo confió o en su defecto, de la autoridad, se le aplicarán de tres días a dos años de prisión y multa de diez a ciento cincuenta días de salario.
+Al que abandone a un menor de doce años de edad que se le hubiere confiado, o lo entregue a un establecimiento de beneficencia o a persona distinta, sin anuencia de los ascendientes, tutores o en su defecto de la autoridad competente, se le aplicarán de dos a cinco años de prisión y multa de diez a ciento cincuenta días de salario. Se considera abandono cuando se compromete la salud o seguridad del menor de edad.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 216.
 
-Los ascendientes o tutores que entreguen a un menor de siete años que esté bajo su potestad, a una casa de expósitos, a un establecimiento de beneficencia o a cualquiera otra persona, perderán los derechos que tengan sobre la persona o bienes del expósito.
+Los ascendientes o tutores que entreguen a un menor de doce años de edad que esté bajo su potestad, a un establecimiento de beneficencia o a persona distinta, perderán los derechos que tengan sobre la persona y sus bienes.
 
 ### CAPITULO IV. Incumplimiento de las Obligaciones de Asistencia Familiar
 
@@ -2485,21 +2509,21 @@ Se aplicarán de uno a cinco años de prisión, destitución e inhabilitación h
 
 ###### Artículo 220.
 
-Se impondrán sanción de uno a seis años de prisión y multa de cincuenta a quinientos días de salario, a los ascendientes que tengan cópula con sus descendientes.
+Se impondrá la pena de uno a seis años de prisión a los ascendientes que tengan relaciones sexuales con sus descendientes, sin violencia, siempre que sean mayores de edad. Se aplicará sanción de tratamiento psicológico especializado de uno a cuatro años y en caso de incumplimiento prisión por el mismo término cuando el caso de incesto sea entre hermanos.
 
-La sanción aplicable a estos últimos será de tres días a un año de prisión y multa de diez a cien días de salario.
-
-Se aplicará de seis meses a tres años de prisión y multa de veinticinco a ciento cincuenta días de salario en caso de cópula entre hermanos.
+Cuando participe un menor de edad, la conducta siempre será entendida como típica de violación.
 
 ### CAPITULO VI. De la violencia familiar
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-Artículo 224 bis.- Al que por omisiones graves o haciendo uso intencional de la fuerza física o moral, cause perjuicio o menoscabo a la integridad física, psíquica o ambas, de su cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado o de las personas con quienes mantengan relaciones familiares de hecho, se le impondrá de seis meses a cuatro años de prisión.
+Artículo 224 bis.- Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre o haya estado unida por vínculo matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho, dentro o fuera del domicilio familiar.
 
-Además se podrá imponer alternativa o simultáneamente la prohibición de ir a lugar determinado o de residir en él, la restricción de la comunicación o acercamiento con la víctima será por el tiempo de la pena impuesta, privación de derechos sucesorios respecto de su víctima, pérdida de la patria potestad y en su caso, tratamiento psicológico especializado.
+Se sancionará con seis meses a cuatro años de prisión, también quien realice cualquiera de los actos señalados en contra de la persona que esté sujeta a la custodia, guarda, protección, educación, instrucción o cuidado de dicha persona.
 
-Se considera de interés público la asistencia médica y psicológica de la víctima, para lo cual el Estado prestará la asistencia a través de las dependencias oficiales, pudiendo realizar convenios con instituciones privadas o con organismos no gubernamentales.
+Además, en protección de la víctima se podrá imponer alternativa o simultáneamente la prohibición de ir a lugar determinado o de residir en él, la restricción de la comunicación o acercamiento por el tiempo de la pena impuesta, privación de derechos sucesorios respecto de su víctima, pérdida de la patria potestad y en su caso, tratamiento psicológico especializado.
+
+Se considera de interés público la asistencia médica y psicológica de la víctima o víctimas, para lo cual el Estado prestará la asistencia a través de las dependencias oficiales, pudiendo realizar convenios con instituciones privadas o con organismos no gubernamentales.
 
 Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de dieciséis años de edad, mayor de sesenta y cinco años de edad o incapaz, caso en que se perseguirá de oficio.
 
@@ -2697,7 +2721,7 @@ La misma pena se impondrá a los que hayan intervenido en la comisión de este i
 
 ### CAPITULO I. Violación
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 237.
 
@@ -2725,9 +2749,9 @@ TITULO DECIMOCUARTO
 
 DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
-### CAPITULO III. Abusos Deshonestos
+### CAPÍTULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ### CAPITULO IV. Acoso Sexual
 
@@ -2745,33 +2769,33 @@ DELITOS CONTRA EL HONOR
 
 ###### Artículo 240.
 
-Se impondrán de cinco a quince años de prisión y multa de cien a mil días de salario, a quien por medio de la violencia física o moral, tenga cópula con una persona cualquiera que sea su sexo.
+Se impondrán de cinco a quince años de prisión y multa de cien a mil días de salario, a quien por medio de la violencia física o psicológica, tenga cópula con una persona cualquiera que sea su sexo.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+Se impondrá prisión de diez a veinte años y multa de cien a mil días de salario, a quien tenga cópula con persona menor de doce años de edad o no tenga capacidad para comprender el significado del hecho o no pueda resistirlo.
 
-Se impondrá prisión diez a veinte años y multa de cien a mil días de salario, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de conducirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
+Para los efectos legales de este título, se entiende por cópula, la introducción del pene en el cuerpo de la víctima vía vaginal, anal u oral, o cualquier parte del cuerpo humano, elemento o instrumento material vía vaginal o anal.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
-Cuando en la ejecución del delito de violación intervengan dos o más personas, la pena será de diez a veinte años de prisión y multa de cien a mil días de salario.
-
-La misma sanción prevista en el párrafo anterior se impondrá cuando el delito de violación se consume en vehículo de tránsito en caminos o carreteras, particular o de servicio público o cuando la víctima haya sido obligada a descender de aquéllos para su consumación.
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
-Para los efectos legales de este título, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima vaginal, anal u oral, independientemente de su sexo.
-
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 241.
 
-Se impondrán de tres a siete años de prisión y multa de cien a trescientos días de salario, a quien abusando del error de una mujer, fingiéndose su marido o concubino, tuviera cópula con ella. Este delito sólo se perseguirá por querella de la parte ofendida.
+La violación entre cónyuges, concubinarios o cualquier otra relación de pareja sólo se perseguirá por querella.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 242.
 
-Cuando el delito de violación a que se refiere el artículo 240, recaiga sobre mujer casada, no se perseguirá de oficio, sino a petición de la afectada y en caso de incapacidad para hacerlo, se podrá presentar por el cónyuge, ascendientes, descendientes o cualquier otro familiar directo.
+Las penas previstas para el delito de violación, se aumentarán hasta en diez años, cuando fuere cometido:
+
+I. Por dos o más personas;
+
+II. Por ascendiente contra su descendiente, éste contra aquél, y el hermano contra su colateral;
+
+III. Por el tutor de la víctima o por uno de los integrantes en una relación familiar de hecho contra de uno de sus integrantes;
+
+IV. Por la persona que tiene a la víctima bajo su custodia o instrucción; y,
+
+V. Por quien se aproveche de su cargo, empleo público o de su profesión, para la comisión del delito.
 
 ### CAPITULO I. Injurias
 
@@ -2785,19 +2809,23 @@ Al que tenga cópula con persona, menor de dieciséis años y mayor de doce año
 
 Este delito se perseguirá por querella de la parte ofendida o de sus padres; y a falta de éstos, por sus representantes legítimos y si no los tuviere, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial.
 
-> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
-
 ###### Artículo 244.
 
-La ofendida podrá acudir ante los tribunales civiles a demandar los alimentos.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ### CAPITULO II. Difamación
 
 ###### Artículo 245.
 
-Se impondrá de uno a seis años de prisión y multa cien a quinientos días de salario mínimo general vigente, al que sin consentimiento de una persona ejecute o haga ejecutar un acto sexual, sin el propósito de llegar a la cópula.
+Comete delito de abuso sexual quien ejecute en la víctima actos eróticos sexuales sin su consentimiento o se le obligue a ejecutarlos, para sí o en otra persona, sin llegar a la cópula u obliguen a la víctima a representarlos
 
-Se impondrá de dos a ocho años de prisión y multa de ciento cincuenta a seiscientos días de salario mínimo general vigente, al que ejecute, haga ejecutar u obligue a observar un acto sexual, sin el propósito de llegar a la cópula a persona menor de doce años, que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pudiere resistir.
+Al responsable del delito de abuso sexual se le impondrá de uno a seis años de prisión y multa de cien a quinientos días de salario mínimo general vigente.
+
+Si la víctima fuese persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho o que por cualquiera causa no pueda resistirlo, se aplicará prisión de dos a ocho años y multa de ciento cincuenta a seiscientos días de salario mínimo general vigente.
+
+Cuando el agente hiciere uso de la violencia física o psicológica, ejerciere autoridad sobre la víctima o fuere su tutor o maestro, o cometiere el delito valiéndose de un cargo o empleo público, y utilice los medios o circunstancias que éste le proporcione, o sea ministro de algún culto religioso, se duplicarán las penas señaladas en los párrafos anteriores.
 
 Este delito se perseguirá por querella en el supuesto del primer párrafo.
 
@@ -3001,6 +3029,10 @@ De las lesiones que a una persona cause algún animal bravío será responsable 
 
 Si el ofendido fuere ascendiente, descendiente, pupilo, cónyuge o concubino del autor de las lesiones y éstas fueren causadas dolosamente, se aumentará hasta cinco años de prisión la sanción que correspondería con arreglo a los artículos precedentes y multa hasta de doscientos días de salario.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Se incrementan hasta una tercera parte de la máxima de la sanción que corresponda cuando, entre el agresor y víctima u ofendido, exista un vínculo familiar o relación familiar de hecho.
+
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 277.
@@ -3053,11 +3085,11 @@ Para los efectos de este artículo bastará que esté plenamente comprobada cual
 
 ###### Artículo 280.
 
-Se impondrá de tres días a cinco años de prisión al que, sorprendiendo a su cónyuge en el acto carnal o en otro próximo anterior o posterior a su consumación, prive de la vida o lesione a cualquiera de los culpables, o a ambos, excepto cuando el autor del delito haya contribuido a la corrupción de su cónyuge. En este último caso se impondrá al homicida de cinco a diez años de prisión.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
 ###### Artículo 281.
 
-Se impondrá de tres días a cinco años de prisión, al ascendiente que mate o lesione al corruptor del descendiente que esté bajo su potestad, si lo hiciere en el momento de hallarlo en el acto carnal o en uno próximo anterior o posterior a su consumación, si no hubiere procurado la corrupción de su descendiente con el varón con quien lo sorprenda, ni con otro. En este último caso se impondrá al homicida de cinco a diez años de prisión.
+(DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
 ### CAPITULO VII. Aborto
 
@@ -3513,8 +3545,6 @@ XIX. Al que venda, prometa vender o transfiera, mediante fraccionamiento, lotifi
 
 XX. Al que utilizando un documento falso o auténtico se haga pasar por su titular y obtenga un lucro indebido.
 
-Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
-
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 326.
@@ -3863,7 +3893,7 @@ Por tanto, mando se publique y observe.
 
 PALACIO DEL PODER EJECUTIVO.- Morelia, Mich. a 7 de julio de 1980.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS TORRES MANZO.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. AUSENCIO CHAVEZ HERNANDEZ.- Firmados.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CÓDIGO.</small>
 
 P.O. 27 DE NOVIEMBRE DE 1980.
 
@@ -4028,3 +4058,37 @@ P.O. 1 DE JULIO DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+DECRETO NÚMERO 368 POR LO QUE SE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 23, LAS FRACCIONES II Y III DEL ARTÍCULO 30, LAS FRACCIONES II Y III DEL ARTÍCULO 34, LOS ARTÍCULOS 48, 59, 76 BIS, ARTÍCULO 91, LA FRACCIÓN III DEL ARTÍCULO 101, 166, LA FRACCIÓN IX DEL ARTÍCULO 185 Y LOS ARTÍCULOS 215, 216, 220, 224 BIS, 240, 241, 242 Y 245, LA DENOMINACIÓN DEL CAPÍTULO III, DEL TÍTULO DÉCIMO CUARTO, DEL LIBRO SEGUNDO; ASIMISMO SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 23, LAS FRACCIONES IV, V Y VI AL ARTÍCULO 30, UN TERCER PARRAFO AL ARTÍCULO 33, EL SEGUNDO PARRAFO AL ARTÍCULO 41, UN SEGUNDO PÁRRAFO AL ARTÍCULO 276; Y SE DEROGAN LOS ARTÍCULOS 244, 280 Y 281 DEL CÓDIGO PENAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 1 DE FEBRERO DE 2012.
+
+DECRETO NÚMERO 422 POR LO QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIENDO EL ORDEN DE LOS SUBSECUENTES DEL ARTÍCULO 76 BIS; SE ADICIONA EL ARTÍCULO 164 BIS; Y SE DEROGA EL CAPÍTULO III LENOCINIO Y TRATA DE PERSONAS, DEL TÍTULO QUINTO DEL LIBRO SEGUNDO, PARTE ESPECIAL, Y SUS ARTÍCULOS 167, 168, 168 BIS Y 169 DEL CÓDIGO PENAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión Interinstitucional establecida en la Ley, deberá instalarse en los primeros ciento veinte días a partir de la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo Estatal contará con un plazo de ciento ochenta días a partir de la entrada en vigor de la presente Ley para expedir el reglamento de la misma, en caso de que éste no se expida, el Congreso del Estado de Michoacán de Ocampo deberá hacerlo en salvaguarda de los derechos fundamentales de los ciudadanos michoacanos.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión Interinstitucional, una vez instalada, contará con un plazo de ciento veinte días a partir de la entrada en vigor de la presente Ley para elaborar el Programa Estatal para Prevenir y Erradicar la trata de personas.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado de Michoacán de Ocampo, realizará las reformas, adiciones y derogaciones en su caso, del Código de Procedimientos Penales del Estado de Michoacán de Ocampo, acordes al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan aquellas disposiciones que se opongan al presente Decreto.
