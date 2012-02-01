@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2011-11-16"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 16 DE NOVIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL ACUERDO G/40/2011 PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 28 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -415,7 +413,7 @@ IV. Otorgar al Magistrado de su adscripción la más amplia colaboración en el 
 
 V. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 20.
 
@@ -535,7 +533,11 @@ III. Región del Noroeste III: Una Sala que se denominará “Sala Regional del 
 
 IV. Región del Norte-Centro I: Una Sala que se denominará “Sala Regional del Norte-Centro I”, con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
 
-V. Región del Norte-Centro II: Tres Salas que se denominarán, “Primera Sala Regional del Norte-Centro II”, “Segunda Sala Regional del Norte-Centro II” y “Tercera Sala Regional del Norte-Centro II”, todas con sede en la Ciudad de Torreón, Estado de Coahuila;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2012)</small>
+
+V. Región del Norte-Centro II: Dos Salas que se denominarán, "Primera Sala Regional del Norte-Centro II" y "Segunda Sala Regional del Norte-Centro II", ambas con sede en la Ciudad de Torreón, Estado de Coahuila;
 
 VI. Región del Noreste: Dos Salas que se denominarán, “Primera Sala Regional del Noreste” y “Segunda Sala Regional del Noreste”, ambas con sede en la Ciudad de Monterrey, Estado de Nuevo León;
 
@@ -549,7 +551,11 @@ X. Región del Centro III: Una Sala que se denominará “Sala Regional del Cent
 
 XI. Región Hidalgo-México: Tres Salas que se denominarán, “Primera Sala Regional Hidalgo-México”, “Segunda Sala Regional Hidalgo-México” y “Tercera Sala Regional Hidalgo-México”, con sede en Tlalnepantla, Estado de México;
 
-XII. Región de Oriente: Tres Salas que se denominarán, “Primera Sala Regional de Oriente”, “Segunda Sala Regional de Oriente” y “Tercera Sala Regional de Oriente”, todas con sede en la Ciudad de Puebla, Estado de Puebla;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2012)</small>
+
+XII. Región de Oriente: Una Sala que se denominará, "Sala Regional de Oriente" con sede en la Ciudad de Puebla, Estado de Puebla;
 
 XIII. Región del Golfo: Dos Salas que se denominarán, “Primera Sala Regional del Golfo” y “Segunda Sala Regional del Golfo”, ambas con sede en la Ciudad de Jalapa, Estado de Veracruz;
 
@@ -559,7 +565,7 @@ XV. Región del Sureste: Una Sala que se denominará “Sala Regional del Surest
 
 XVI. Región Peninsular: Una Sala que se denominará “Sala Regional Peninsular”, con sede en la Ciudad de Mérida, Estado de Yucatán;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
@@ -613,9 +619,21 @@ m) Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios
 
 n) Comisión Reguladora de Energía (CRE)
 
-###### Artículo 23 Bis.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-(DEROGADO, D.O.F. 28 DE OCTUBRE DE 2011)
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
+
+###### Artículo 23
+
+Bis.- El Tribunal contará con tres Salas Auxiliares, cuya denominación y sede serán las siguientes:
+
+I. Primera Sala Auxiliar, con sede en la Ciudad de Puebla, Estado de Puebla;
+
+II. Segunda Sala Auxiliar, con sede en la Ciudad de Puebla, Estado de Puebla, y
+
+III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila.
+
+Dichas Salas auxiliarán en el dictado de las sentencias definitivas, incluso en la instancia de aclaración y en el cumplimiento de ejecutorias del Poder Judicial de la Federación, cuando corresponda a sentencias dictadas por ellas mismas, en los juicios instruidos por las Salas Regionales que se determinen por el Pleno de la Sala Superior en su integración de once Magistrados, en términos de lo establecido por el artículo 18, fracción X, de la Ley.
 
 ###### Artículo 24.
 
@@ -2442,3 +2460,13 @@ D.O.F. 16 DE NOVIEMBRE DE 2011.
 PRIMERO.- Se ordena la publicación del presente Acuerdo en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor el día 1 de diciembre de 2011.
+
+D.O.F. 1 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día 1 de marzo de 2012.
+
+SEGUNDO.- El Pleno de la Sala Superior en su integración de once Magistrados, determinará las Salas Regionales que serán apoyadas por las Salas Auxiliares que se crean, así como el número y cualidad de los asuntos que se les enviarán a estas últimas.
+
+TERCERO.- En términos de lo señalado por el artículo 41, fracción I, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración deberá dictar los demás acuerdos que sean necesarios para la operación de las Salas Auxiliares, y precisará las reglas para atender los juicios y distribuir los expedientes en trámite y concluidos de las Salas Regionales que se transforman, entre las restantes de las Regiones a las que pertenecen, conforme a una equitativa división de cargas de trabajo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
