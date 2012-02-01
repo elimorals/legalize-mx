@@ -4,7 +4,7 @@ identifier: "SON-reglamento-que-regula-el-funcionamiento-del-consejo-estatal-517
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-11"
-last_updated: "2009-02-19"
+last_updated: "2012-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DEL CONSEJO ESTATAL ELECTORAL, SUS COMISIONES, LOS CONSEJOS DISTRITALES ELECTORALES Y CONSEJOS MUNICIPALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 11 de septiembre de 2006.
 
@@ -431,77 +431,57 @@ VII.- Las demás que le encomiende la comisión.
 
 La Comisión de Fiscalización, en términos de lo dispuesto por el Código, tiene como funciones principales, precisamente la fiscalización de los recursos que reciben los partidos políticos para sus actividades ordinarias permanentes y para actividades tendientes a la obtención del voto y precampañas electorales, así como los que reciban para este último efecto las alianzas y coaliciones; asimismo le corresponde substanciar los procedimientos de fiscalización correspondientes, así como los relacionados con las denuncias que se presenten por irregularidades sobre el origen, aplicación y destino de los recursos utilizados en precampañas electorales, y presentar al pleno los proyectos de dictamen respectivos.
 
+> <small>(REFORMADO, B.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 26.
 
 La Comisión de Fiscalización, además de las que se señalan en el artículo anterior, tendrá las funciones siguientes:
 
-En materia de fiscalización de recursos de partidos:
+I.- Aprobar las fechas de visitas a los partidos políticos con el fin de comprobar el cumplimiento de sus obligaciones y la veracidad de sus informes; a efecto de que por acuerdo Administrativo se resuelva lo conducente.
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+II.- Recibir por medio (sic) la oficialía de partes en las fechas señaladas en el Código los informes semestrales de ingresos y egresos, de situación patrimonial, y de origen y aplicación de los recursos por transferencia de sus dirigencias nacionales; los informes financieros del ejercicio fiscal del año anterior auditados por contador público certificado; los informes integrales de precampañas, junto con la relación de los aportantes, que presenten los partidos, alianzas o coaliciones; los informes preliminares al cierre de la campañas electorales, así como los informes de gastos de cada una de las campañas electorales de las elecciones respectivas.
 
-I.- Recibir en las fechas señaladas en el Código los informes semestrales de ingresos y egresos, de situación patrimonial y de origen y aplicación de los recursos por transferencia de dirigencias nacionales, así como los informes financieros del ejercicio del año anterior auditados por contador público certificado y el informe general de campañas y precampañas, en la parte relativa al monto, origen, aplicación y destino de recursos de precampaña, junto con la relación de aportantes que presenten los partidos, alianzas y coaliciones;
+IIl.- Llevar a cabo el procedimiento de revisión a los informes señalados en la fracción anterior conforme lo previsto por el Código.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 19 DE FEBRERO DE 2009)</small>
+IV.- Considerar los informes de la Comisión de Monitoreo de Medios de Comunicación sobre la utilización que partidos, alianzas, coaliciones, sus candidatos o precandidatos, hicieren de tales medios y determinar los gastos correspondientes.
 
-II.- Verificar y revisar los informes señalados en la fracción anterior, dentro de los plazos y conforme el procedimiento previsto por el Código;
+V.- Notificar a los partidos, alianzas o coaliciones que hubiesen incurrido en irregularidades, omisiones o errores en los informes respectivos.
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+VI.- Requerir a los partidos, alianzas o coaliciones para la presentación de aclaraciones, rectificaciones o documentos, cuando se advierta alguna irregularidad, omisión o error en los informes;
 
-III.- Tomar en cuenta los informes de la Comisión de Monitoreo de Medios de Comunicación sobre la utilización que partidos, alianzas, coaliciones, sus candidatos o precandidatos, hicieren de tales medios;
+VIl.- Recibir por medio de la oficialía de partes, las aclaraciones, rectificaciones o documentos que partidos, alianzas o coaliciones, presenten en términos del Código.
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+VIlI.- Ordenar la práctica de auditorías cuando algún partido, alianza o coalición omita la presentación de algún informe o cuando lo estime necesario, observando criterios objetivos emanados de las normas de auditoría generalmente aceptadas, las que podrán ser parciales o totales, o de manera muestral en uno o varios rubros;
 
-IV.- Requerir a los partidos, alianzas o coaliciones por la presentación de aclaraciones, rectificaciones o documentos, cuando se advierta alguna irregularidad en los informes;
+IX.- Llevar el procedimiento para las investigaciones de las quejas o denuncias que se presenten sobre el origen y la aplicación de los recursos de los partidos políticos, asociaciones políticas y coaliciones, en su caso;
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+X.- Elaborar y aprobar el dictamen que presentará a la consideración del Consejo, que deberá contener el resultado y las conclusiones de la revisión, proponiendo las sanciones que procedan, y de tal forma, el proyecto de dictamen en cuanto al informe integral de precampaña.
 
-V.- Recibir de los partidos, alianzas o coaliciones la solventación de las observaciones requeridas;
+XI.- Someter al Consejo, para su aprobación, lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, ingresos y egresos que realicen los partidos, alianzas, coaliciones, candidatos o precandidatos, relacionados con sus actividades ordinarias y las tendientes a la obtención del voto;
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+XIl.- Diseñar y elaborar los formatos, instructivos, catálogo de cuentas y guía contabilizadora que deberá observarse para la presentación de los informes previstos por el Código y el presente Reglamento, con el fin de unificar criterios;
 
-VI.- Ordenar la práctica de auditorias cuando algún partido, alianza o coalición omita la presentación de algún informe o cuando lo estime necesario, observando criterios objetivos emanados de las normas y procedimientos de auditoria, las que podrán ser parciales o totales, o de manera muestral en uno o varios rubros;
+XIIl.- Inscribir a las personas morales civiles mexicanas, con cláusula de exclusión de extranjeros, que en su objeto social tengan la autorización para aportar recursos para y durante las precampañas y campañas electorales;
 
-VII.- Llevar el procedimiento para las investigaciones de las quejas o denuncias que se presenten sobre el origen y la aplicación de los recursos de los partidos políticos, asociaciones políticas y coaliciones, en su caso;
+XIV.- Solicitar a las personas físicas y morales que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes, así como a los que sin haber extendido comprobante alguno, hayan realizado cualquier tipo de operación con éstos.
 
-VIII.- Elaborar y aprobar el dictamen que presentará a la consideración del Consejo, que deberá contener el resultado y las conclusiones de la revisión, proponiendo las sanciones que procedan;
+XV.- Recibir por medio de la oficialía de partes, los informes del origen y aplicación de recursos que anualmente deben presentar las asociaciones políticas estatales;
 
-IX.- Proponer las fechas de visitas de verificación a los partidos políticos con el fin de comprobar el cumplimiento de sus obligaciones y la veracidad de sus informes; a efecto de que en acuerdo administrativo se resuelva lo conducente.
+XVl.- Elaborar informes periódicos de sus actividades y presentarlos a la consideración del Consejo;
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+XVIl.- Proporcionar a los partidos, alianzas y coaliciones la orientación y asesoría necesarias para el cumplimiento de las obligaciones consignadas en el Código, en materia de informes de ingresos y egresos;
 
-X.- Someter al Consejo, para su aprobación, lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, ingresos y egresos que realicen los partidos, alianzas, coaliciones, candidatos o precandidatos, relacionados con sus actividades ordinarias y las tendientes a la obtención del voto;
+XVIII.- Hacer efectiva la garantía de audiencia al titular del órgano interno de los partidos;
 
-XI.- Diseñar y elaborar los formatos, instructivos, catálogo de cuentas y guía contabilizadora que deberá observarse para la presentación de los informes previstos por el Código y el presente Reglamento, con el fin de unificar criterios;
+XIX.- En términos de la Ley de Acceso a la Información Pública del Estado de Sonora, solicitar a las unidades Administrativas y de Enlace del Consejo, la publicación de los informes presentados por los partidos políticos, así como el resultado de las auditorias o revisiones que ordene sobre el manejo y la distribución de recursos públicos de los partidos, al concluir el proceso de fiscalización;
 
-XII.- Inscribir a las personas morales civiles mexicanas, con cláusula de exclusión de extranjeros, que en su objeto social tengan la autorización para aportar recursos para y durante las precampañas y campañas electorales;
+XX.- Recibir por medio de la oficialía de partes, los anexos a los informes financieros en que se registre el gasto, las copias de los contratos que celebren los partidos, alianzas o coaliciones con los medios masivos de comunicación;
 
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
+XXI.- Someter al Consejo, para su aprobación, la determinación de productos, actos y servicios que se considerarán gastos de campaña;
 
-XIII.- Solicitar a las personas físicas y morales civiles que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes;
+XXIl.- Coordinarse con el Instituto Federal Electoral, mediante convenio público, en materia de fiscalización de las finanzas de los partidos, en los términos del penúltimo párrafo de la Base V del artículo 41 de la Constitución Federal.
 
-XIV.- Recibir los informes del origen y aplicación de recursos que anualmente deben presentar las asociaciones políticas estatales;
-
-XV.- Elaborar informes periódicos de sus actividades y presentarlos a la consideración del Consejo;
-
-XVI.- Proporcionar a los partidos políticos la orientación y asesoría necesarias para el cumplimiento de las obligaciones consignadas en el Código, en materia de informes de ingresos y egresos;
-
-XVII.- Hacer efectiva la garantía de audiencia al titular del órgano interno de los partidos;
-
-XVIII.- En términos de la Ley de Acceso a la Información Pública del Estado de Sonora, solicitar a las unidades Administrativas y de Enlace del Consejo, la publicación de los informes presentados por los partidos políticos, así como el resultado de las auditorias y verificaciones que ordene sobre el manejo y la distribución de recursos públicos de los partidos, al concluir el proceso de fiscalización;
-
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
-
-XIX.- Recibir, anexo a los informes financieros en que se registre el gasto, las copias de los contratos que celebren los partidos, alianzas o coaliciones con los medios masivos de comunicación;
-
-XX.- Someter al Consejo, para su aprobación, la determinación de productos, actos y servicios que se considerarán gastos de campaña;
-
-> <small>(REFORMADA, B.O. 19 DE FEBRERO DE 2009)</small>
-
-XXI.- Coordinarse con el Instituto Federal Electoral, mediante convenio público, en materia de fiscalización de las finanzas de los partidos, en los términos del penúltimo párrafo de la Base V del artículo 41 de la Constitución Federal;
-
-> <small>(ADICIONADA, B.O. 19 DE FEBRERO DE 2009)</small>
-
-XXII.- Las demás que le confiera el Código, el presente Reglamento y el Pleno del Consejo.
+XXIII.- Las demás que le confiera el Código, el presente Reglamento y el Pleno del Consejo.
 
 > <small>(REFORMADO, B.O. 19 DE FEBRERO DE 2009)</small>
 
@@ -783,35 +763,55 @@ Al frente de cada una de las Direcciones Ejecutivas habrá un Director, quien t�
 
 En término de lo dispuesto por el artículo 95 del Código, la Dirección Ejecutiva de Control Interno y Fiscalización, queda asignada al Pleno bajo la coordinación del Presidente del Consejo.
 
+> <small>(REFORMADO, B.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 45.
 
-En materia de control interno tendrá las siguientes atribuciones:
+La Dirección Ejecutiva de Fiscalización tendrá las siguientes atribuciones:
 
-I.- Efectuar, visitas, inspecciones, auditorias, revisiones, a las Direcciones Ejecutivas y demás áreas de Consejo, con objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas, y tendentes a:
+I.- Elaborar en el mes de enero de cada año, un programa anual de revisiones a partidos, alianzas, coaliciones, precandidatos y candidatos y someterlas a consideración de la Comisión de Fiscalización;
 
-a) Verificar que sus actos, tanto sustantivos como de apoyo administrativo, inherentes a su competencia se lleven a cabo de acuerdo con las disposiciones legales aplicables;
+Il.- Establecer las bases generales para la realización de auditorías y someterla a autorización de la Comisión de Fiscalización;
 
-b). Controlar, verificar y evaluar el cumplimiento por parte de las Direcciones Ejecutivas y de la Subdirección, de las normas y disposiciones en materia de sistemas de registro y contabilidad; contratación y pago de personal; contratación de servicios de cualquier naturaleza y obra, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; concesiones; almacenes y demás activos y recursos materiales del Consejo, así como de las obligaciones derivadas en materia de planeación, programación, presupuestación, ingresos, egresos, patrimonio, fondos y valores de la propiedad o al cuidado (sic) Consejo;
+III.- Recibir por medio de la Comisión de Fiscalización, los informes que presenten los partidos, alianzas o coaliciones;
 
-II.- Comprobar la razonabilidad de la información financiera que formulen;
+IV.- Vigilar mediante la práctica de auditorías o revisiones, que los partidos, alianzas, coaliciones, precandidatos y candidatos den cumplimiento a las disposiciones del Código en materia de origen, monto, aplicación y destino del financiamiento público y privado que realicen con motivo de la operación ordinaria, así como por los procesos electorales en que participen;
 
-III.- Comprobar el cumplimiento de las obligaciones a su cargo, derivadas de los convenios o acuerdos de coordinación celebrados entre el Consejo y otras instituciones; y (sic)
+V.- Coordinarse con la Comisión de Monitoreo y Medios de Comunicación con el propósito de verificar el ejercicio del gasto que los partidos, alianza, coaliciones, precandidatos y candidatos realicen en tales medios;
 
-IV.- Recomendar, con base en los resultados determinados en las auditorias realizadas a las Direcciones Ejecutivas y demás áreas, así como en la información obtenida, la realización de las medidas preventivas y/o correctivas que se requieran, de conformidad con las disposiciones que regulan su marco de actuación; para la corrección de situaciones anómalas o el mejoramiento de la eficiencia y el logro de sus objetivos;
+VI.- Informar a la Comisión de Fiscalización, las irregularidades, omisiones o errores que se adviertan en la revisión de los informes presentados por los partidos, alianzas o coaliciones, así como proponer las sugerencias y recomendaciones para que estos, estén en posibilidad de solventar las irregularidades, omisiones o errores derivadas durante el procedimiento de revisión.
 
-V.- Proponer e impulsar la aplicación de medidas y acciones de carácter preventivo a cargo de las Direcciones Ejecutivas y Subdirección, con el objeto de evitar incurrir en actuaciones irregulares en su desempeño;
+VIl.- Elaborar informe de resultados de auditorías o revisiones realizadas y presentarlo a la Comisión de Fiscalización;
 
-VI.- Solicitar y obtener de los Directores Ejecutivos y Subdirector , así como, en su caso, de los proveedores o contratistas, todos los datos e informes relacionados con el ejercicio del gasto del Consejo, y hacer las compulsas que se requieran de los documentos que obren en los archivos de las personas físicas o morales señaladas en esta fracción;
+VIll.- Requerir cuando sea necesario a los partidos, alianzas y coaliciones por la presentación de aclaraciones, rectificaciones o documentos, presentados para su revisión;
 
-VII.- Establecer las bases generales para la realización de auditorias en las Direcciones Ejecutivas, Subdirecciones y demás Unidades Administrativas del Consejo;
+IX.- Analizar en Coordinación con la Comisión de Fiscalización las quejas o denuncias que se presenten sobre el origen y la aplicación de los recursos de los partidos, alianzas y coaliciones, así como asociaciones políticas, en su caso;
 
-VIII.- Implementar y operar un sistema de quejas, denuncias o sugerencias relacionadas con las funciones del Consejo;
+X.- Elaborar el proyecto dictamen en relación a los informes semestrales, los informes financieros auditados por contador público certificado y, de campañas, presentados por los partidos, alianzas o coaliciones, así como el anteproyecto de dictamen de los informes integrales de precampaña, los cuales deberán contener el resultado y las conclusiones de la revisión, proponiendo las sanciones que procedan; y turnarlos a la Comisión de Fiscalización.
 
-IX.- Dar seguimiento a los dictámenes de la cuenta Pública y las recomendaciones que como resultado de las auditorias internas se hayan formulado con el fin de que (sic) informar al Presidente;
+XI.- Emitir en coordinación con la Comisión de Fiscalización los lineamientos con bases técnicas para la presentación de los informes sobre el origen, montos, aplicación y destino que realicen los partidos, alianzas, coaliciones, precandidatos y candidatos, con motivo de la operación ordinaria, así como por los procesos electorales en que participen;
 
-X.- Participar en los actos de entrega-recepción del personal del Consejo con motivo de su separación;
+XII.- Elaborar los formatos, instructivos, catálogo de cuentas y guía contabilizadora que deberá observarse para la presentación de informes previstos por el Código y el presente Reglamento, con el fin de unificar criterios;
 
-XI.- Las demás que le confieran las disposiciones legales aplicables y las que le atribuya expresamente el Pleno del Consejo.
+XIII.- Llevar un registro de las personas morales civiles mexicanas, con cláusula de exclusión de extranjeros, que en su objeto social tengan la autorización para aportar recursos para y durante las precampañas y campañas electorales;
+
+XIV.- Realizar las compulsas que sean necesarias, a personas físicas y morales que hayan extendido comprobantes de ingresos o egresos a los partidos, alianzas, coaliciones, precandidatos o candidatos, que confirmen o rectifiquen las operaciones amparadas en dichos comprobantes; así como a los que sin haber extendido comprobante alguno, hayan realizado cualquier tipo de operación con éstos.
+
+XV.- Recibir por medio de la Comisión de Fiscalización, los informes del origen y aplicación de recursos que anualmente deben presentar las asociaciones políticas estatales;
+
+XVI.- Elaborar informes periódicos de sus actividades y presentarlos a la consideración del Consejo;
+
+XVII.- Brindar cuando lo soliciten orientación o asesoría a los partidos políticos para el cumplimiento de las obligaciones consignadas en el Código, en materia de informes de ingresos, egresos, utilización de formatos entre otros;
+
+XVIII.- Recibir en audiencia al titular del órgano interno de los partidos cuando sea solicitado o cuando sea necesario;
+
+XIX.- Verificar que las unidades Administrativas y de Enlace del Consejo, lleven a cabo la publicación de los informes presentados por los partidos, alianzas o coaliciones, así como el resultado de las auditorías y revisiones que ordene sobre el manejo y la distribución de recursos públicos y privados de los mismos, al concluir el proceso de fiscalización;
+
+XX.- Coordinarse con la Comisión de Fiscalización con el propósito de proponer, el monto del financiamiento público que se otorgue a los partidos políticos, así como los topes a los gastos de precampaña y campaña para cada elección;
+
+XXI.- Elaborar las medidas de carácter general y resolver los asuntos particulares de la Dirección que se presenten; y
+
+XXII.- Las demás que le confiera el presente Reglamento, otras disposiciones y el Pleno del Consejo.
 
 ###### ARTÍCULO 46.
 
@@ -1762,3 +1762,17 @@ Las presentes reformas al Reglamento que regula el funcionamiento del Consejo Es
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a la aplicación del presente reglamento.
+
+B.O. 1 DE FEBRERO DE 2012.
+
+ACUERDO
+
+PRIMERO.- Se aprueban las modificaciones a diversas disposiciones del Reglamento que Regula el Funcionamiento del Consejo Estatal Electoral, sus Comisiones, los Consejos Distritales Electorales y los Consejos Municipales Electorales, contenidas en el presente instrumento, en cuanto a las atribuciones de la Dirección Ejecutiva de Fiscalización, así como las de la Comisión Ordinaria de Fiscalización, en términos de los considerandos VII y VIII.
+
+SEGUNDO.- Las modificaciones al Reglamento que Regula el Funcionamiento del Consejo Estatal Electoral, sus Comisiones, los Consejos Distritales Electorales y los Consejos Municipales Electorales, entrarán en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Se derogan todas las disposiciones que se opongan a las modificaciones antes señaladas.
+
+TERCERO.- Publíquese el presente Acuerdo en el Boletín Oficial del Gobierno del Estado de Sonora, en los estrados y en la página de internet del Consejo Estatal Electoral.
+
+CUARTO.- Se autoriza al personal de la Dirección Ejecutiva de Asuntos Jurídicos para que en Auxilio de la Secretaría de este Consejo realice las notificaciones ordenadas en el presente Acuerdo.
