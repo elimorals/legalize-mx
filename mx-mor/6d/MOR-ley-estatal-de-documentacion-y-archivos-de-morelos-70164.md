@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-documentacion-y-archivos-de-morelos-70164"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-16"
-last_updated: "2009-09-16"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ESTATAL DE DOCUMENTACION Y ARCHIVOS DE MORELOS
 
-LEY ESTATAL DE DOCUMENTACION Y ARCHIVOS DE MORELOS
+LEY ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de septiembre de 2009.
 
@@ -147,9 +147,11 @@ Los documentos de interés público podrán ser consultados en las Unidades Docu
 
 Los documentos generados con motivo de una función pública son patrimonio Estatal y municipal, por lo que bajo ningún concepto se consideran propiedad de quien lo produjo.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 11.
 
-Los documentos que los servidores públicos generen o reciban en el desempeño de su función, cargo o comisión, deben registrarse en las unidades documentales correspondiente, a efecto de garantizar el control, la propiedad y la utilidad pública de dichos documentos.
+los documentos que los servidores públicos generen o reciban en el desempeño de su función, cargo o comisión, deberán integrarse y organizarse en cada ente público, a efecto de que en el tiempo correspondiente se registren en las unidades documentales correspondientes, a efecto de garantizar el control, la propiedad y la utilidad pública de dichos documentos.
 
 ###### ARTÍCULO 12.
 
@@ -291,7 +293,9 @@ IV. En el Poder Legislativo: Las comisiones del Congreso, la Auditoría Superior
 
 V. En los órganos autónomos: En el Instituto Estatal Electoral: la Dirección Ejecutiva de Administración y Financiamiento, la Dirección Ejecutiva de Organización y Partidos Políticos, la Dirección Ejecutiva de Capacitación y Educación Cívica, la Secretaría Ejecutiva, la Oficina del presidente del Instituto; para el IDEFOMM, todas sus coordinaciones y la Dirección General; en la Universidad Autónoma del Estado de Morelos, la Rectoría, la Secretaría General, la Secretaría Académica, la Dirección General de Investigación y Postgrado, la Secretaría de Extensión, y la Coordinación General de Planeación y Desarrollo; en la Comisión Estatal de Derechos Humanos, todas sus visitadurías, las Direcciones, la Oficina del Presidente de la Comisión, y la Secretaría Ejecutiva; en el IMIPE, el pleno, la Secretaría Ejecutiva, y las Direcciones Generales.
 
-La formulación y entrega de los catálogos de referencia debe realizarse de manera semestral en los términos señalados con anterioridad dentro los primeros 20 días hábiles posteriores al cumplimiento de cada semestre en los términos y por los funcionaros mencionados con antelación.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+La formulación y entrega de los catálogos de referencia debe realizarse de manera anual dentro de los primeros 30 días naturales del mes de enero, en los términos y por los funcionarios mencionados con antelación.
 
 ###### ARTÍCULO 27.
 
@@ -365,13 +369,17 @@ IX. Promover el conocimiento de la documentación en su poder que tenga un alto 
 
 Se entiende por transferencia documental el tránsito de ciertos expedientes del archivo de concentración al archivo histórico. De conformidad con lo anterior, toda la documentación la resguardarán las respectivas áreas de control y para su vigilancia se elaborarán catálogos tanto de archivo de trámite como de concentración que resguarda el área coordinadora de archivos en los términos que marcan la presente ley. Los catálogos de control documental serán elaborados por aquellos servidores públicos que designe el titular de la unidad administrativa correspondiente.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
-Previa entrega de los formatos correspondientes por parte del área coordinadora de archivos las unidades administrativas realizarán los catálogos correspondientes a los archivos de trámite y de concentración de conformidad con lo determinado por el área coordinadora de archivos y lo entregarán a esta área dentro de los primeros 20 días hábiles del mes siguiente a aquel en que se cumpla cada trimestre del año. El área coordinadora de archivos revisará los catálogos emitidos por las unidades administrativas, a través de los funcionarios especificados en el artículo 26 de la presente Ley, y tendrá 10 días para su aprobación o en su caso emitir las recomendaciones necesarias para su aprobación.
+Previa entrega de los formatos correspondientes por parte del área coordinadora de archivos, las unidades administrativas realizarán los catálogos correspondientes a los archivos de trámite y de concentración de conformidad con lo determinado por el área coordinadora de archivos y lo entregarán a esta área dentro de los primeros 20 días hábiles del mes siguiente a aquel en que se cumpla cada semestre del año.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
-El área coordinadora de archivos revisará los catálogos emitidos por las unidades administrativas, y tendrá 10 días para su aprobación o en su caso emitir las recomendaciones necesarias para su aprobación. En caso de existir alguna recomendación la unidad administrativa la realizará en un plazo de 3 días hábiles para atender dicha recomendación y reponer el catálogo en los términos solicitados, si no existiere recomendación alguna por parte del área coordinadora de archivos ésta resguardará los catálogos originales, para conformar el inventario correspondiente y tomará las determinaciones necesarias para que en la medida de lo posible el resguardo de la información se realice de manera electrónica.
+El área coordinadora de archivos revisará los catálogos emitidos por las unidades administrativas, a través de los funcionarios específicos en el artículo 26 de la presente Ley, y tendrá 10 días para su aprobación o en su caso emitir las recomendaciones necesarias para su aprobación. En caso de existir alguna recomendación la unidad administrativa la realizará en un plazo de 3 días hábiles para atender dicha recomendación y reponer el catálogo en los términos solicitados, si no existiere recomendación alguna por parte del área coordinadora de archivos ésta resguardará los catálogos originales, para conformar el inventario correspondiente y tomará las determinaciones necesarias para que en la medida de lo posible el resguardo de la información se realice de manera electrónica.
 
 ###### ARTÍCULO 34.
 
@@ -481,7 +489,9 @@ El titular del área coordinadora de archivos es el responsable de actualizar la
 
 En dicho catálogo deben establecerse los períodos de vigencia documental y sus plazos de conservación, por otra parte, la Unidad de Información Pública deberá observar las presentes disposiciones para efecto de la información con carácter de reserva o confidencial así como los plazos en lo particular.
 
-Los sujetos obligados, a través del área coordinadora de archivos, enviarán al SEDA copia de su catálogo general de información actualizado en soporte electrónico, así como copia de los inventarios anualizados, a más tardar dentro de los primeros 20 días hábiles del mes de enero.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Los sujetos obligados, a través del área coordinadora de archivos enviarán al SEDA copia de su catálogo general de información actualizado en soporte electrónico, así como copia de los inventarios anualizados, a más tardar dentro de los primeros 30 días naturales del mes de enero.
 
 ###### ARTÍCULO 48.
 
@@ -740,3 +750,13 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2012.
+
+PRIMERO.- Aprobado que sea el presente decreto, túrnese al Titular del Poder Ejecutivo para su publicación inmediata en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
