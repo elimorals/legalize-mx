@@ -4,7 +4,7 @@ identifier: "MOR-estatutos-del-partido-socialdemocrata-del-estado-de-morelos-831
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "MOR"
 
 ESTATUTOS DEL PARTIDO SOCIAL DEMÓCRATA DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS SEGUNDO Y TERCERO DEL ACUERDO RELATIVO A LA SOLICITUD DE MODIFICACIÓN A LOS ESTATUTOS DEL PARTIDO SOCIALDEMÓCRATA DE MORELOS, PUBLICADO EN EL P.O. DE 1 DE FEBRERO DE 2012, SE ACTUALIZARON ÚNICAMENTE LOS TEXTOS DE LOS ARTÍCULOS QUE EXPRESAMENTE SE INDICAN COMO APROBADOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Estatutos publicados en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 28 de septiembre de 2011.
 
@@ -44,9 +46,11 @@ El Partido asume la identidad política e ideológica de la socialdemocracia.
 
 Su denominación es “Partido Socialdemócrata”. El lema es ¡Que nadie quede fuera!.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 4.
 
-El emblema consiste en un cuadro dividido en dos segmentos horizontales, en la parte superior aparece un grafismo que integra una mano estilizada como una paloma en color rojo, la parte de abajo está compuesta por las siglas del partido PSD; el logotipo es de color rojo 485.
+El logotipo está compuesto por un cuadro lineal color negro, puntas redondas. El isotipo son dos manos entrelazadas, que forman un corazón; De la primera sólo puede apreciarse el dedo pulgar y cierta parte de la palma, tiene un relleno color rojo (485). La segunda muestra los dedos de frente, está trazada en color rojo (485) con color blanco de fondo, tiene escrita en el interior con forma vertical ascendente la palabra MORELOS en color negro con tipografía Segoe Script. En la parte inferior centrado están las siglas PSD en color negro.
 
 ###### Artículo 5.
 
@@ -498,7 +502,11 @@ f) Conocer y valorar los informes del Consejo Político Estatal, del Comité Eje
 
 g) Instruir al Consejo Político Estatal sobre las estrategias o políticas locales que requieran de su análisis, particularmente aquellas vinculadas con temas electorales, de alianzas y financieros.
 
-h) Las demás que le otorguen los presentes Estatutos y las que, en su caso, le establezca la ley electoral; (sic)
+h) Las demás que le otorguen los presentes Estatutos y las que, en su caso, le establezca la ley electoral;
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+i) Designar y revocar a los integrantes de las Comisiones Estatales Autónomas de entre las propuestas presentadas por el Comité Ejecutivo Estatal
 
 ###### Artículo 43.
 
@@ -592,7 +600,9 @@ c) Aprobar los reglamentos que garanticen la observancia de estos Estatutos, de 
 
 d) Aprobar el Programa Anual de Trabajo del Comité Ejecutivo Estatal; el Presupuesto Anual, antes del inicio del ejercicio correspondiente, y establecer los mecanismos de evaluación de los recursos que garanticen la transparencia y la rendición de cuentas sobre el uso y destino de los mismos;
 
-e) Conocer y aprobar el Informe Anual de Actividades del Comité Ejecutivo Estatal, que deberá ser presentado por la Presidencia, así como el Informe Anual sobre el Ejercicio Presupuestario, que deberá ser presentado por la Vicepresidencia, con el apoyo de la Secretaria General y la Coordinación de Administración y Finanzas del Partido;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+e) Conocer y aprobar el Informe Anual de Actividades del Comité Ejecutivo Estatal, que deberá ser presentado por la Presidencia, así como el Informe Anual sobre el Ejercicio Presupuestario, que deberá ser presentado por la Secretaria General y la Coordinación de Administración y Finanzas del Partido;
 
 f) Definir el método para la selección de las candidaturas a cargos de elección popular, que será elección abierta o interna, voto secreto y mayoría simple, y designar a las consejeras y los consejeros que deban hacerse cargo de su organización y desarrollo, a través de una Comisión Electoral, de conformidad a lo previsto en el reglamento correspondiente;
 
@@ -604,9 +614,13 @@ i) Aprobar los convenios de coalición, frentes o candidaturas comunes, a propue
 
 j) Convocar y organizar las Asambleas Estatales, ordinarias y extraordinarias;
 
-k) Elegir, entre sus integrantes, a la Presidencia y la Vicepresidencia del Comité Ejecutivo Estatal, conforme al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-i. La elección se realizará mediante votación secreta de fórmulas para la Presidencia y la Vicepresidencia, por el principio de mayoría absoluta, con mecanismo de segunda vuelta, de conformidad con lo expuesto en las fracciones IV y V del presente inciso;
+k) Elegir, entre sus integrantes, a la Presidencia y Secretaria General del Comité Ejecutivo Estatal, conforme al siguiente procedimiento:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+i. La elección se realizará mediante votación secreta de fórmulas para la Presidencia y Secretaria General, por el principio de mayoría absoluta, con mecanismo de segunda vuelta, de conformidad con lo expuesto en las fracciones IV y V del presente inciso;
 
 ii. La postulación de cada fórmula deberá contar, para ser válida, con el respaldo de, al menos, el 20 por ciento de los consejeros políticos presentes, quienes deberán indicar su nombre y asentar sus firmas en el formato que, para tal efecto, pondrá a disposición la Mesa Directiva del Consejo Político;
 
@@ -616,17 +630,23 @@ iv. Si una fórmula obtiene el 50 por ciento más uno de la votación, será dec
 
 v. Si ninguna de las fórmulas obtiene la mayoría absoluta de los votos, se procederá a una segunda ronda de votación, en la cual participarán únicamente las dos fórmulas que mayor votación hayan obtenido. Será declarada electa y recibirá la constancia correspondiente la que más votos obtenga en la segunda ronda;
 
-l) Aprobar los nombramientos de las y los integrantes del Comité Ejecutivo Estatal, de los cargos comprendidos entre los incisos c) al f) del artículo 51 de los presentes Estatutos, de entre las personas afiliadas al partido a propuesta de la Presidencia;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+l) Aprobar los nombramientos de las y los integrantes del Comité Ejecutivo Estatal, de los cargos comprendidos entre los incisos c) al e) del artículo 51 de los presentes Estatutos, de entre las personas afiliadas al partido a propuesta de la Presidencia;
 
 m) Aprobar la creación de hasta tres carteras temáticas adicionales, a propuesta de la Presidencia del Comité Ejecutivo Estatal, siempre y cuando se garantice suficiencia presupuestaria;
 
-n) Nombrar, por mayoría simple a las y los titulares del Consejo Consultivo y de las fundaciones o institutos de investigación; así como revocar su mandato en los términos previstos en el reglamento correspondiente
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+n) Nombrar, por mayoría simple a las y los titulares de las fundaciones o institutos de investigación; así como revocar su mandato en los términos previstos en el reglamento correspondiente
 
 o) Conocer, aprobar y evaluar el programa anual de trabajo del Consejo Consultivo Estatal;
 
 p) Conocer las sanciones que dictamine la Comisión Autónoma de Conciliación y Justicia, sobre los afiliados o los integrantes de cualquier órgano del partido;
 
-q) Designar a los cargos del Comité Ejecutivo Estatal de los incisos a) al f) del artículo 51 de los presentes Estatutos, en los casos de revocación de mandato, ausencia injustificada por más de seis meses, renuncia o muerte;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+q) Designar a los cargos del Comité Ejecutivo Estatal de los incisos a) al e) del artículo 51 de los presentes Estatutos, en los casos de revocación de mandato, ausencia injustificada por más de tres meses, renuncia o muerte;
 
 r) Intervenir en algún municipio, en los casos de ingobernabilidad, violaciones sistemáticas a los derechos partidistas y riesgo de pérdida de registro del Partido, de conformidad con el reglamento del propio Consejo, a solicitud del Comité Ejecutivo Estatal;
 
@@ -1056,7 +1076,9 @@ h) (sic) Coordinación de Finanzas
 
 ###### Artículo 79.
 
-Son atribuciones del Comité Ejecutivo Estatal:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Son atribuciones del Comité Ejecutivo Municipal:
 
 a) Ejecutar los acuerdos del Consejo Político Estatal y desarrollar las acciones necesarias para el cumplimiento de los objetivos establecidos en el programa de acción y las resoluciones de la Asamblea Estatal y Municipal;
 
@@ -1068,11 +1090,17 @@ d) Proponer al Comité Ejecutivo Estatal las candidaturas externas a cargos loca
 
 e) Proponer al Comité Ejecutivo Estatal los convenios de frentes o candidaturas comunes;
 
-i) (sic) Proponer al Consejo Político Estatal modificaciones a su estructura;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-j) Emitir resoluciones y declaraciones que expresen la posición partidaria sobre temas coyunturales municipales, respecto de los cuales el Consejo Político Estatal o el Comité ejecutivo Estatal no haya dictado posición expresa;
+f) Proponer al Consejo Político Estatal modificaciones a su estructura;
 
-p) (sic) Las demás que señalen los presentes estatutos y aquellas que confiera el Consejo Político Estatal; (sic)
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+g) Emitir resoluciones y declaraciones que expresen la posición partidaria sobre temas coyunturales municipales, respecto de los cuales el Consejo Político Estatal o el Comité ejecutivo Estatal no haya dictado posición expresa;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+h) Las demás que señalen los presentes estatutos y aquellas que confiera el Consejo Político Estatal; (sic)
 
 ### Capítulo XVIII. La Comisión Autónoma de Vigilancia y Rendición de Cuentas
 
@@ -1080,27 +1108,47 @@ p) (sic) Las demás que señalen los presentes estatutos y aquellas que confiera
 
 Son atribuciones y facultades de la Presidencia del Comité Ejecutivo Municipal:
 
-c) (sic) Representar al Partido en su respectivo ámbito territorial, en todo acto que se realice a nombre de éste y en cualquier gestión que practique ante las autoridades correspondientes y facultar a otras personas para que la ejerzan;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-d) Convocar y presidir las sesiones del Comité Ejecutivo Municipal y ejecutar sus acuerdos;
+a) Representar al Partido en su respectivo ámbito territorial, en todo acto que se realice a nombre de éste y en cualquier gestión que practique ante las autoridades correspondientes y facultar a otras personas para que la ejerzan;
 
-e) Presentar el programa anual del Partido ante el Consejo Político Estatal y el Comité Ejecutivo Municipal;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-f) Dirigir, en su respectivo ámbito territorial, la ejecución del programa anual aprobado por el Consejo Político Estatal y supervisar su debido desarrollo;
+b) Convocar y presidir las sesiones del Comité Ejecutivo Municipal y ejecutar sus acuerdos;
 
-g) Conducir las relaciones del Partido con otras instituciones y organizaciones municipales.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-h) Rendir un informe semestral de actividades al Consejo Político Estatal que contenga un capítulo relativo al origen y aplicación de los recursos del Partido;
+c) Presentar el programa anual del Partido ante el Consejo Político Estatal y el Comité Ejecutivo Estatal;
 
-i) Delegar las atribuciones y facultades que estime conveniente a otros integrantes del Comité Ejecutivo Municipal;
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-j) Firmar los acuerdos del Comité Ejecutivo Municipal junto con el Secretario General;
+d) Dirigir, en su respectivo ámbito territorial, la ejecución del programa anual aprobado por el Consejo Político Estatal y supervisar su debido desarrollo;
 
-p) (sic) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal, el Comité Ejecutivo Estatal o la Asamblea Municipal.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+e) Conducir las relaciones del Partido con otras instituciones y organizaciones municipales.
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+f) Rendir un informe semestral de actividades al Consejo Político Estatal que contenga un capítulo relativo al origen y aplicación de los recursos del Partido;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+g) Delegar las atribuciones y facultades que estime conveniente a otros integrantes del Comité Ejecutivo Municipal;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+h) Firmar los acuerdos del Comité Ejecutivo Municipal junto con el Secretario General;
+
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+i) Las demás que señalen los estatutos y aquellas otras que le confiera el Consejo Político Estatal, el Comité Ejecutivo Estatal o la Asamblea Municipal.
 
 ###### Artículo 81.
 
-Son atribuciones y facultades de la Secretaría de (sic) General:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Son atribuciones y facultades de la Secretaría General:
 
 a) Dar seguimiento a los acuerdos del Comité Ejecutivo Municipal;
 
@@ -1471,3 +1519,11 @@ CUARTO.- Todos los órganos del Partido Socialdemócrata iniciaran sus funciones
 QUINTO.- Por única vez se designara a la totalidad de las personas integrantes de la Asamblea Estatal, Consejo Político Estatal, Comité Ejecutivo Estatal y Comisiones Autónomas, que durarán en su cargo, salvo lo previsto en los artículos 49 inciso s y 53 inciso m, hasta la primera Asamblea Estatal que se realizara en septiembre de 2012.
 
 SEXTO.- Se faculta al Comité Ejecutivo Estatal, para que apruebe los ajustes y enmiendas correspondientes, que observe, en su caso, el Instituto Estatal Electoral a los presentes Estatutos.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2012.
+
+DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL ACUERDO DE REFORMA QUE SE RELACIONA CON EL ORDENAMIENTO.
+
+., modificaciones que entrarán en vigor una vez que el presente acuerdo sea publicado en el Periódico Oficial "Tierra y Libertad" Órgano del Gobierno del Estado Libre y Soberano de Morelos;.
