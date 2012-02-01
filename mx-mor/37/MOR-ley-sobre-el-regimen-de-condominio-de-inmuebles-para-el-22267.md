@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-regimen-de-condominio-de-inmuebles-para-el-22267"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-02"
-last_updated: "1994-02-02"
+last_updated: "2012-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL RÉGIMEN DE CONDOMINIO DE INMUEBLES PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el 2 de febrero de 1994.
 
@@ -67,21 +67,41 @@ LEY SOBRE EL REGIMEN DE CONDOMINIO DE INMUEBLES PARA EL ESTADO DE MORELOS
 
 La presente Ley regula la constitución, modificación y extinción del régimen de condominio establecido por los artículos del 1106 al 1109 del Código Civil, así como el funcionamiento y administración de los bienes sujetos a dicho régimen.
 
-###### ARTICULO 2.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
-Para los efectos de esta Ley se entiende por:
+###### Artículo 2.
 
-I.- LEY: La presente Ley sobre el Régimen de Condominio de Inmuebles;
+Para los efectos de esta Ley entiende por:
 
-II.- UNIDAD CONDOMINIAL: Cada una de las partes de propiedad singular y exclusiva, en que de conformidad con lo que establece al artículo 1106 del Código Civil, se divide un inmueble sujeto al régimen de condominio.
+I.- ADMINISTRADOR CONDÓMINO: Es el condómino de la unidad de propiedad privativa, que no siendo administrador profesional, sea nombrado Administrador por la Asamblea General;
 
-III.- CONDOMINO: La persona física o moral que en calidad de propietario, esté en posesión de una o más unidades condominiales, y a la que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario.
+II.- ADMINISTRADOR PROFESIONAL: Persona física o moral, que demuestre capacidad y conocimientos en administración de condominios y que es contratado por la Asamblea General;
 
-IV.- INDIVISO: Es la proporción que guarda el valor nominal de cada unidad condominial, respecto de la suma de los valores nominales de todas las unidades que integran el condominio, expresada en una cifra porcentual.
+III.- ARRENDATARIO: Es la persona que tiene el uso, goce y disfrute de una unidad de propiedad privativa, a través de un contrato o convenio, que no tiene la calidad de condómino;
 
-V.- REGLAMENTO DE CONDOMINIO: Es el reglamento de condominio y administración, que, agregado a la escritura constitutiva de cada condominio, contiene las normas especiales a que deberán sujetarse los condóminos, en relación al uso, goce y disposición, tanto de los bienes propios como de los comunes, así como lo referente a la administración de estos últimos.
+IV.- BIENES Y ÁREAS DE USO COMUN: Son aquellos que pertenecen en forma proindiviso a los condóminos y su uso estará regulado por esta Ley, su Reglamento, la Escritura Constitutiva y el Reglamento Interno;
 
-VI.- ESCRITURA CONSTITUTIVA.- A la escritura pública o documento privado, que contenga la declaración unilateral de voluntad, por la que se constituya el régimen de condominio para un inmueble determinado.
+V.- CONDÓMINO: La persona física o moral que en calidad de propietario, esté en posesión de una o más unidades con domínales (sic), y a la que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario;
+
+VI.- CONDOMINIO SUBDIVIDIDO.- Condominio con un número mayor a 400 unidades condominales; subdividido en razón a las características del condominio;
+
+VII.- CUOTA ORDINARIA: Cantidad en dinero acordada por la Asamblea General, para sufragar los gastos de administración, mantenimiento, de reserva, operación y servicios no individualizados de uso común;
+
+VIII.- CUOTA EXTRAORDINARIA: Cantidad en dinero acordada por la Asamblea General para sufragar los gastos imprevistos o extraordinarios;
+
+IX.- ESCRITURA CONSTITUTIVA.- A la escritura pública o documento privado, que contenga la declaración unilateral de voluntad, por la que se constituya el régimen de condominio para un inmueble determinado;
+
+X.- INDIVISO: Es la proporción que guarda el valor nominal de cada unidad condominal, respecto de la suma de los valores nominales de todas las unidades que integran el condominio, expresada en una cifra porcentual;
+
+XI.- LEY: La presente Ley sobre el Régimen de Condominio de Inmuebles;
+
+XII.- MOROSO: Es el condómino o arrendatario que no ha cumplido con su obligación de pagar dos cuotas ordinarias o una extraordinaria en el plazo establecido por la Asamblea General;
+
+XIII.- REGLAMENTO DE CONDOMINIO: Es el reglamento de condominio y administración, que, agregado a la escritura constitutiva de cada condominio, contiene las normas especiales a que deberán sujetarse los condóminos, en relación al uso, goce y disposición, tanto de los bienes propios como de los comunes, así como lo referente a la administración de éstos últimos;
+
+XIV.- REGLAMENTO: Es el Reglamento de la presente Ley que cada municipio apruebe, y;
+
+XV.- UNIDAD CONDOMINIAL: Cada una de las partes de propiedad singular y exclusiva, en que de conformidad como lo establece el Código Civil, se divide un inmueble sujeto al régimen de condominio.
 
 ###### ARTICULO 3.
 
@@ -287,9 +307,33 @@ Se prohiben las obras que puedan poner en peligro la seguridad, estabilidad y co
 
 ### CAPITULO IV. DE LA ADMINISTRACION
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 26.
 
-Los condominios serán administrados por la persona física o moral que designen los condóminos reunidos en asamblea; en los términos de esta Ley y del Reglamento de Condominio.
+Los condominios serán administrados por la persona física o moral que designen los condóminos reunidos en asamblea en primera convocatoria, por mayoría de cincuenta y uno por ciento de los propietarios o de quienes conforme a la ley éstos deleguen la facultad de votar en dicho órgano; en los términos de esta Ley y del Reglamento de la misma.
+
+Las medidas que tome y las disposiciones que dicte el Administrador dentro de sus facultades, serán obligatorias para todos los propietarios, pero se podrán modificar o revocar por acuerdo de la Asamblea, por mayoría del cincuenta y uno por ciento de los condóminos.
+
+El administrador continuará en el desempeño de sus funciones aún cuando hubiese concluido el plazo, mientras que no se haga nuevo nombramiento y el nombrado tome posesión de su cargo.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+ARTICULO 26 BIS.- El administrador podrá ser persona física o moral ajena al condominio y estará obligado a caucionar su encargo, prestar con probidad sus servicios profesionales previo cumplimiento de los requisitos que para ocupar tal encargo señale el reglamento de la presente ley.
+
+La misma Asamblea que haga el nombramiento del Administrador deberá acordar los emolumentos y honorarios que deberán cubrírsele por los servicios profesionales que preste, precisándole en la contratación respectiva que no quedará vinculado al condominio por un relación laboral, por no quedar comprendido dentro del artículo ocho de la Ley Federal del Trabajo.
+
+Tratándose de administrador nombrado de entre los mismos condóminos, quedará exceptuado de garantizar su encargo y de los requisitos que para la prestación del servicio profesional se señalan en el párrafo anterior, debiendo acreditar únicamente tener cubiertas sus cuotas de mantenimiento, administración, de reserva y extraordinarias.
+
+El nombramiento del administrador consignará sus facultades, debiendo constar su nombramiento en el libro de actas del condominio y efectuando la protocolización de su nombramiento en un término de treinta días naturales contados a partir de la fecha de su nombramiento.
+
+El administrador durará en su encargo un año, contado a partir del nombramiento hecho por la asamblea, pudiendo ser reelecto hasta por dos ocasiones consecutivas por acuerdo del cincuenta y uno por ciento de los condóminos en primera convocatoria.
+
+Para el caso de no reunirse el quórum requerido en segunda y tercera convocatoria, se estará a lo dispuesto en el artículo 31 de esta ley.
+
+Para que proceda la ratificación a que aluden los párrafos correspondientes, tratándose de administrador profesional, deberá hacerse constar en la asamblea la renovación de su contrato y de la fianza que garantice su encargo.
+
+Para el caso del administrador condómino, éste podrá ser ratificado siempre que acredite el cumplimiento de sus funciones mediante los documentos soporte, así como el cumplimiento durante su encargo de las obligaciones condominales que le corresponden.
 
 ###### ARTICULO 27.
 
@@ -297,7 +341,9 @@ Corresponderá al administrador:
 
 I.- Cuidar y vigilar los bienes y servicios comunes del condominio;
 
-II.- Recabar y conservar los libros y la documentación relacionada con el condominio, los que en todo tiempo podrán ser consultados por los condóminos;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+II.- Recabar y conservar los libros y la documentación relacionada con el condominio, los que en todo tiempo podrán ser consultados por los condóminos, siendo sancionable en los términos establecidos por esta ley y su reglamento, la omisión o negativa a que alude la presente fracción;
 
 III.- Mantener y operar las instalaciones y servicios generales;
 
@@ -327,15 +373,71 @@ XI.- Rendir a la asamblea de condóminos la cuenta anual de su gestión, y formu
 
 XII.- Exigir la responsabilidad en que incurran los condóminos por infracción a lo dispuesto por el artículo 23 de esta Ley;
 
-XIII.- Cuidar de la debida observancia de las disposiciones de esta Ley, el Reglamento de Condominio y de la escritura constitutiva; y
+XIII.- Cuidar de la debida observancia de las disposiciones de esta Ley, el Reglamento de Condominio y de la escritura constitutiva; y (sic)
 
-XIV.- Cumplir las demás funciones y obligaciones que establezcan a su cargo la Ley, el Reglamento de Condominio, la escritura constitutiva y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XIV.- Convocar a Asambleas Generales en los términos establecidos en esta Ley, su reglamento y el reglamento interno del condominio.
+
+Tratándose de administrador profesional, será obligación del mismo el convocar a una Asamblea General con siete días de anticipación al vencimiento de su contrato para notificar la terminación del mismo, de acuerdo a lo establecido en la presente ley.
+
+En caso de que el Administrador no cumpla con lo dispuesto en el párrafo anterior, el Comité de Vigilancia convocará a una Asamblea General de acuerdo a lo establecido en el artículo 32, para informar a la misma el desempeño del Administrador; y en su caso, nombrar al nuevo Administrador o bien renovar el contrato con este.
+
+Excepcionalmente, cuando por causas de fuerza o caso fortuito evidente, no se hubiera convocado, o habiéndose convocado esta asamblea no se constituyera o no se nombrara nuevo Administrador, aquél podrá convocar treinta días naturales después de haber concluido su encargo.
+
+Si las convocatorias previstas en los párrafos anteriores, no tuvieran como resultado el nombramiento del Administrador, el periodo señalado se prorrogará por quince días naturales más.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XV.- Tener la documentación necesaria en cualquier momento, para que, en caso de que la Asamblea General y/o el Comité de Vigilancia o cualquier condómino o cualquier autoridad que la solicite;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XVI.- Dirimir controversias derivadas de actos de molestia entre los condóminos, arrendatarios o habitantes en general para mantener la paz y tranquilidad entre los mismos;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XVII.- Fomentar entre los condóminos, arrendatarios y habitantes del condominio, el conocimiento y el cumplimiento de la presente Ley, su Reglamento, la Escritura Constitutiva y su Reglamento Interno del condominio;
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XVIII.- Cumplir con sus funciones en estricto apego a sus atribuciones y conduciéndose con respeto a los condóminos.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XIX.- Nombrar y remover al intendente, si hubiere, así como al personal de administración en su caso y servidumbre que estará a sus órdenes directas, del que se valdrá para la limpieza del inmueble y de sus servicios, y para el perfecto funcionamiento del servicio de iluminación de las partes comunes.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XX.- Contratar los seguros que determine la Asamblea de propietarios y el monto de los mismos.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XXI.- Llevar a cabo actos tendientes a propiciar la protección civil dentro del condominio, estableciendo para ello un programa que involucre simulacros periódicos y medidas de emergencia, en coadyuvancia del Comité de Vigilancia.
+
+En el caso de siniestro parcial recibir la indemnización correspondiente que empleará envolver las cosas al estado que guardaban antes del siniestro.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XXII.- Cumplir y hacer cumplir todas las disposiciones que en materia sanitaria correspondan al inmueble.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XXIII.- Llevar la contabilidad detallada de todos los movimientos de fondos relacionados con su cometido, la que en todo tiempo podrá ser consultada por los condóminos.
+
+XXIV.- Cumplir las demás funciones y obligaciones que establezcan a su cargo la Ley, el Reglamento de Condominio, la escritura constitutiva y demás disposiciones aplicables.
 
 ###### ARTICULO 28.
 
 En relación con los bienes comunes del condominio, el administrador tendrá las facultades de representación de un apoderado general de los condóminos, para administrar bienes y para pleitos y cobranzas, con facultad de absolver posiciones; pero otras facultades especiales y las que requieran cláusula especial necesitarán acuerdo favorable de los condóminos que en la asamblea representen por lo menos el 51% del valor total de inmueble, salvo los casos en que esta Ley, el Reglamento de Condominio o la escritura constitutiva exijan una representación mayor.
 
 Las medidas que adopte y las disposiciones que dicte el administrador dentro de sus funciones y con base en la Ley y el Reglamento de Condominio, serán obligatorias para todos los condóminos. La asamblea por mayoría que fije el Reglamento del Condominio, podrá modificar o revocar dichas medidas o disposiciones.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+ARTICULO 28 BIS.- Cuando la asamblea de condóminos designe una nueva administración, la saliente deberá entregar, en un término que no exceda de siete días naturales al día de la designación, todos los documentos incluyendo los estados de cuenta, valores, muebles y demás bienes que tuviera bajo su resguardo y responsabilidad, la cual sólo podrá posponerse por resolución judicial, debiéndose levantar un acta circunstanciada de la misma.
+
+Antes de la designación del nuevo administrador, la Asamblea General podrá acordar auditoría al administrador saliente.
 
 ### CAPITULO V. DE LAS ASAMBLEAS
 
@@ -359,7 +461,9 @@ II.- Cada condómino gozará de un número de votos igual al indiviso que corres
 
 III.- No obstante lo dispuesto como regla general en la fracción anterior en el caso de condóminos que hayan celebrado contrato en virtud del cual, de cumplirse en sus términos, lleguen a ser propietarios, si media crédito hipotecario o compraventa con reserva de dominio, el porcentaje de sus votos se reducirá a la proporción de la parte que hubieran pagado y corresponderá al acreedor la otra proporción del porcentaje. Esta prevención sólo regirá si los acreedores asisten a la asamblea; pero para tener derecho a esta asistencia y a intervenir con voz y voto en la proporción de que se trata, deberán contar con una constancia expedida por el administrador del último saldo pendiente de cubrirse aceptado por deudor y acreedor que permita determinar la proporción en que les corresponda el voto;
 
-IV.- La votación será personal, nominal y directa; pero el Reglamento de Condominio puede facultar la representación y determinar otras formas y procedimientos;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+IV.- La votación será personal, nominal y directa. El Reglamento de Condominio facultará la representación y determinará otras formas y procedimientos;
 
 V.- Las resoluciones de la asamblea se tomarán por mayoría simple de votos excepto en los casos en que la presente Ley o el Reglamento de Condominio prescriban una mayoría especial;
 
@@ -382,6 +486,10 @@ Las determinaciones adoptadas por las asambleas en los términos de esta Ley, de
 ###### ARTICULO 32.
 
 La convocatoria expresará; día, hora y lugar dentro del condominio en que deberá celebrarse la asamblea. Salvo que el Reglamento autorice lugar distinto; así mismo incluirá el orden del día. Los condóminos y acreedores registrados o sus representantes serán notificados en el lugar que para tal efecto hubieren señalado mediante nota por escrito, además del envío de la nota anterior el administrador fijará la convocatoria en uno o más lugares visibles del condominio.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Por ningún motivo dejarán de celebrarse al menos las asambleas anuales, a efecto de no vulnerar los principios de rendición de cuentas y transparencia a que se encuentra obligado el administrador. Deberá asentarse la constancia correspondiente en el libro de actas del condominio, de todas y cada una de las asambleas celebradas.
 
 ###### ARTICULO 33.
 
@@ -415,9 +523,11 @@ XII.- Modificar la escritura constitutiva del condominio y el reglamento del mis
 
 XIII.- Las demás que le confieran la presente ley, el reglamento de condominio, la escritura constitutiva y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 34.
 
-El comité de vigilancia tendrá las siguientes atribuciones y deberes:
+Los condominios deberán contar con un Comité de Vigilancia integrado por dos o hasta cinco condóminos, dependiendo del número de unidades condominales, el cual actuará de manera colegiada, y sus decisiones se tomarán por mayoría simple. El comité de vigilancia tendrá las siguientes atribuciones y deberes:
 
 I.- Cerciorarse de que el administrador cumpla los acuerdos de la asamblea general;
 
@@ -437,7 +547,13 @@ VIII.- Apoyar al administrador en las medidas a tomar, para que los condóminos 
 
 IX.- Convocar a asamblea de condóminos cuando a su juicio sea necesario;
 
-X.- Las demás que se deriven de esta ley y de otras que impongan deberes a su cargo, así como de la escritura constitutiva y del reglamento de condominio.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+X.- Convocar a Asamblea General cuando a requerimiento por escrito, el Administrador no lo haga dentro de los tres días siguientes a la petición, en términos de lo señalado en la presente ley.
+
+> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 2012)</small>
+
+XI.- Las demás que se deriven de esta ley y de otras que impongan deberes a su cargo, así como de la escritura constitutiva y del reglamento de condominio.
 
 ### CAPITULO VI. DEL REGLAMENTO DE CONDOMINIO
 
@@ -471,6 +587,10 @@ Para modificar el reglamento de condominio en la convocatoria a la celebración 
 
 Toda modificación deberá ser inscrita en el Registro Público de la Propiedad.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
+Será obligación conjunta del administrador y del comité de vigilancia, la actualización del reglamento el cual deberá revisarse por lo menos una vez cada año, previa aprobación de la asamblea; debiendo protocolizar lo anterior.
+
 ### CAPITULO VII. DE LOS GASTOS, OBLIGACIONES FISCALES Y CONTROVERSIAS
 
 ###### ARTICULO 39.
@@ -501,9 +621,11 @@ Si quien no cumpla sus obligaciones fuese un ocupante no propietario, el adminis
 
 Los condóminos cubrirán independientemente de los impuestos que cause su unidad condominial, la parte que les corresponda de los que causen los bienes comunes, así como los demás impuestos o derechos de que en razón del condominio sean causantes por sí mismos.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 45.
 
-Las controversias que se susciten con motivo de la interpretación y aplicación de la presente ley, del reglamento de condominio, de la escritura constitutiva y de la traslativa de dominio así como de las demás disposiciones legales aplicables, serán sometidas al arbitraje si lo prevee el reglamento, o a los tribunales competentes.
+Las controversias que se susciten con motivo de la interpretación y aplicación de la presente ley, del reglamento de condominio, de la escritura constitutiva y de la traslativa de dominio así como las demás disposiciones aplicables, serán resueltas por el administrador y el Comité de Vigilancia en el ámbito de sus atribuciones, de acuerdo a lo que señale el Reglamento de Condominio, de no existir las condiciones o encontrarse fuera de las atribuciones, serán conocidas por el Síndico Municipal correspondiente, de acuerdo a lo que para tal efecto prevea la Ley Orgánica Municipal, o por los tribunales competentes en caso de tratarse de cuestiones de liquidación de adeudos o de cualquier conducta que no sea competencia de las instancias antes mencionadas.
 
 ### CAPITULO VIII. DE LOS GRAVAMENES
 
@@ -594,3 +716,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2012.
+
+PRIMERO.- Aprobado (sic) que sea la presente remítase al titular del ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Los condominios existentes en el Estado de Morelos, tendrán un plazo de doce meses para adecuar sus reglamentos conforme a este decreto y cumplir con las disposiciones del mismo, contados a partir del día siguiente de su entrada en vigor.
+
+TERCERO.- El Ejecutivo del Estado tendrá tres meses, contados a partir de la entrada en vigor de este decreto, para adecuar el Reglamento de la Ley sobre el Régimen de Condominio de Inmuebles para el Estado de Morelos a las disposiciones del presente decreto
+
+CUARTO.- Se derogan todas aquellas que contravengan en lo dispuesto al presente decreto.
+
+QUINTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Tierra y Libertad, órgano de difusión del Gobierno del Estado de Morelos.
