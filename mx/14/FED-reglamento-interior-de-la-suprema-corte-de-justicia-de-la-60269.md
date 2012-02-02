@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-suprema-corte-de-justicia-de-la-60269
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-01"
-last_updated: "2009-10-01"
+last_updated: "2012-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60269&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-03-11"
 ---
 # REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
+REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de abril de 2008.
 
@@ -931,7 +931,9 @@ XXII. Asistir a las sesiones de los Comités, cuando sea requerido para ello;
 
 XXIII. Proporcionar, en el ámbito de su competencia, los datos necesarios para la elaboración del informe anual de labores, y
 
-XXIV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Pleno, los Comités o el Presidente.
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+XXIV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables, así como las que le sean encomendadas por el Pleno, los Comités, el Presidente o el Secretario General de Acuerdos.
 
 ###### Artículo 73.
 
@@ -967,7 +969,9 @@ II. Llevar el libro de registro de turno;
 
 III. Elaborar diariamente, previo estudio de los expedientes respectivos, los proveídos que se someterán a la consideración del Presidente;
 
-IV. Una vez registrado el expediente y determinado el turno respectivo, enviar al Ministro Ponente los asuntos cuyo estudio le corresponda. Tratándose de incidentes de inejecución y de repetición del acto reclamado, así como las inconformidades y los recursos de reclamación, los expedientes respectivos se remitirán directamente a las Salas;
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+IV. Una vez registrado el expediente y determinado el turno respectivo, enviar al Ministro ponente los asuntos cuyo estudio le corresponda. Tratándose de incidentes de inejecución derivados de incidentes de repetición del acto reclamado, así como las inconformidades y los recursos de reclamación, los expedientes respectivos se remitirán directamente a las Salas;
 
 V. Notificar los proveídos dictados por el Ministro Presidente;
 
@@ -1031,11 +1035,13 @@ XI. Compilar y publicar el informe anual de estadística de la Suprema Corte;
 
 XII. Las demás que le confieran las disposiciones de observancia general aplicables, así como las que le sean encomendadas por el Subsecretario General de Acuerdos.
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 77.
 
-En caso de ausencias temporales del Subsecretario General de Acuerdos autorizadas por el Pleno o el Presidente, aquél será suplido por el Titular de sección, adscrito a la propia Subsecretaría General, que determine el Presidente, a propuesta del Subsecretario.
+En caso de ausencias temporales del Subsecretario General de Acuerdos autorizadas por el Pleno o el Presidente, aquél será suplido por el Titular de sección, adscrito a la propia Subsecretaría General, que determine el Presidente, a propuesta del Secretario General de Acuerdos.
 
-Ante la ausencia de alguno de los Titulares de sección, el Subsecretario General de Acuerdos designará al Secretario de Estudio y Cuenta o al Secretario Auxiliar de Acuerdos que deban suplirlos.
+Ante la ausencia de alguno de los Titulares de sección, el Secretario General de Acuerdos designará al Secretario de Estudio y Cuenta o al Secretario Auxiliar de Acuerdos que deban suplirlos.
 
 ### CAPITULO TERCERO. DE LAS SECRETARIAS DE ACUERDOS DE LAS SALAS
 
@@ -1055,11 +1061,15 @@ V. Supervisar que se lleven a cabo las notificaciones ordenadas en autos;
 
 VI. Expedir las certificaciones ordenadas en autos y las que procedan conforme a la normatividad aplicable;
 
-VII. Supervisar, vigilar y dar seguimiento a la elaboración de los expedientes de turno virtual que se derivan de las denuncias de contradicción de tesis que ingresan a la Sala;
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+VII. Supervisar, vigilar y dar seguimiento a la elaboración de los expedientes de turno virtual realizado por el Presidente, que derivan de las denuncias de contradicción de tesis que ingresan a la Sala;
 
 VIII. Supervisar que todos los expedientes que se encuentren bajo su responsabilidad estén foliados, rubricados y sellados;
 
-IX. Llevar el control de turno de los expedientes entre los Ministros que integren cada Sala;
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+IX. Llevar el control de turno entre los Ministros que integren cada Sala, de los expedientes relativos a las solicitudes de facultad de atracción presentadas originalmente por parte no legitimada, de los recursos de reclamación interpuestos en contra de acuerdos del Presidente de la Sala respectiva y de los asuntos returnados en sesión;
 
 X. Informar a los Secretarios de Estudio y Cuenta sobre las promociones que se reciban respecto de los asuntos que les corresponda proyectar;
 
@@ -1119,9 +1129,11 @@ XXXVII. Proporcionar al Presidente de la Sala los datos necesarios para la elabo
 
 XXXVIII. Las demás que les confieran las disposiciones legales y reglamentarias aplicables, así como las que les sean encomendadas por el Presidente de la Sala.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 79.
 
-Las Subsecretarías de Acuerdos de las Salas, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
+Las Subsecretarías de Acuerdos, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
 
 I. Revisar los proyectos de acuerdos;
 
@@ -1129,7 +1141,9 @@ II. Verificar que los acuerdos de las promociones no estén rezagados;
 
 III. Suscribir los oficios, despachos y cartas rogatorias que se requieran;
 
-IV. Llevar el trámite del procedimiento de turno virtual de los expedientes de contradicciones de tesis y repartirlos en las Ponencias;
+> <small>(REFORMADA, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+IV. Llevar el trámite del procedimiento de turno virtual realizado por el Presidente, de los expedientes de contradicciones de tesis y repartirlos en las Ponencias;
 
 V. Coordinar la sección de actuarios de la Sala;
 
@@ -1153,9 +1167,21 @@ En caso de ausencias temporales de los Secretarios de Acuerdos de las Salas, aut
 
 #### SECCION I. DISPOSICIONES COMUNES AL PLENO Y A LAS SALAS
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 81.
 
-Los asuntos de la competencia del Pleno se turnarán por su Presidente entre los demás Ministros, por conducto de la Subsecretaría General, siguiendo rigurosamente el orden de su designación y el cronológico de presentación de cada tipo de expedientes que se encuentren en condiciones de ser enviados a una Ponencia, tanto para formular proyecto de resolución como para instruir el procedimiento. El Presidente de cada Sala distribuirá de igual forma los asuntos que le correspondan entre todos sus integrantes.
+Los asuntos de la competencia de la Suprema Corte se turnarán por su Presidente entre los demás Ministros, por conducto de la Subsecretaría General, siguiendo rigurosamente el orden de su designación y el cronológico de presentación de cada tipo de expedientes que se encuentren en condiciones de ser enviados a una Ponencia, tanto para formular proyecto de resolución como para instruir el procedimiento.
+
+El Presidente de cada Sala turnará entre sus integrantes, las solicitudes de facultad de atracción presentadas originalmente por parte no legitimada, los recursos de reclamación interpuestos en contra de los acuerdos que emita y los asuntos cuyo proyecto se tenga por desechado en sesión y su returno se ordene en ésta. Una vez atraído un asunto, se remitirá a la Presidencia de la Suprema Corte para el turno correspondiente entre los Ministros de la Sala respectiva.
+
+Todos los asuntos del mismo tipo se registrarán en el libro correspondiente a cada uno de ellos debidamente autorizado por los titulares de los respectivos órganos encargados de los trámites correspondientes.
+
+Tratándose de asuntos presentados ante la Suprema Corte que por algún motivo se remitan a otros órganos jurisdiccionales y llegaran a reintegrarse a aquélla para que conozca de los mismos se atenderá para su turno, conforme a las reglas anteriores, a la fecha y hora de recepción del nuevo oficio-remisión respectivo.
+
+Cuando el Ministro decano dicte acuerdos de turno como presidente en funciones, si conforme al orden le corresponde el conocimiento de un asunto, deberá turnarlo a su Ponencia.
+
+El Secretario General de Acuerdos girará las instrucciones que resulten necesarias para el adecuado funcionamiento y supervisión del sistema de turnos establecido en este Reglamento Interior.
 
 ###### Artículo 82.
 
@@ -1175,39 +1201,79 @@ El Subsecretario General de Acuerdos o los Secretarios de Acuerdos de las Salas,
 
 Desde que se ordene formar y registrar algún expediente, los datos de identificación del mismo se deberán ingresar en la Red Jurídica, para que ésta se mantenga debidamente actualizada. Igualmente, deberán registrarse de inmediato los trámites relevantes llevados a cabo, para que los usuarios conozcan el estado procesal en el que se encuentran los asuntos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 86.
 
-Los amparos en revisión y amparos directos en revisión de la competencia originaria del Pleno, una vez agotado el trámite para su admisión, se clasificarán de acuerdo con la materia a la que correspondan y todos los que sean en materia civil y penal deberán turnarse a las ponencias de los Ministros que integran la Primera Sala, los que sean en materia de trabajo deberán turnarse a las ponencias de los Ministros que integran la Segunda Sala y los que sean en materia administrativa se turnarán a los Ministros de ambas Salas.
+Los amparos en revisión y amparos directos en revisión de la competencia originaria del Pleno, incluyendo los que versen únicamente sobre la interpretación directa de la Constitución, o de las Salas, una vez agotado el trámite para su admisión, se clasificarán de acuerdo con la materia a la que correspondan y todos los que sean en materia civil y penal deberán turnarse por el Presidente a las Ponencias de los Ministros que integran la Primera Sala, los que sean en materia agraria y de trabajo deberán turnarse por el Presidente a las Ponencias de los Ministros que integran la Segunda Sala y los que sean en materia administrativa se turnarán a los Ministros de ambas Salas.
 
-Tratándose de contradicciones de tesis, las que correspondan a las materias civil y penal se turnarán a las ponencias de los Ministros integrantes de la Primera Sala, las que sean en materia administrativa y laboral se turnarán a las ponencias de los Ministros integrantes de la Segunda Sala. Cuando la materia de la contradicción no esté claramente definida o se trate de materia común, se turnará al Ministro que conforme al orden corresponda, sin distinción de Sala.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+Tratándose de conflictos competenciales y de contradicciones de tesis, las que correspondan a las materias civil y penal se turnarán por el Presidente a las Ponencias de los Ministros integrantes de la Primera Sala, las que sean en materia administrativa y laboral se turnarán por el Presidente a las Ponencias de los Ministros integrantes de la Segunda Sala. Cuando la materia del conflicto o de la contradicción no esté claramente definida, se trate de materia común o trascienda a la competencia de ambas Salas, se turnará al Ministro que conforme al orden corresponda, sin distinción de Sala.
 
 En el caso de denuncias de contradicción de tesis suscitadas entre las Salas o entre éstas y el Tribunal Electoral del Poder Judicial de la Federación, se turnarán al Ministro que corresponda sin distinción de adscripción.
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 87.
 
-Los asuntos de nuevo ingreso que correspondan a incidentes de inejecución de sentencia, inconformidades previstas en los artículos 105, párrafo tercero, y 108 de la Ley de Amparo, denuncias de repetición del acto reclamado, quejas y recursos de reclamación, se enviarán por el Presidente, por conducto de la Subsecretaría General, a las Salas para su resolución.
-
-Las contradicciones de tesis suscitadas entre los Tribunales Colegiados que sean denunciadas ante el Presidente, serán enviadas a las Salas conforme a su especialización.
-
-###### Artículo 88.
-
-Para el envío de los asuntos de la competencia originaria del Pleno a las Salas se cumplirá con lo siguiente:
+Para el envío de los asuntos de la competencia originaria del Pleno a las Salas, se cumplirá con lo siguiente:
 
 I. Previo dictamen del Ministro ponente, el Presidente turnará el asunto a la Sala de adscripción de aquél;
 
 II. El Presidente de la Sala respectiva radicará el asunto en ella y lo turnará al Ministro a quien inicialmente le había correspondido;
 
-III. Cuando se trate de asuntos que se encuentren con proyecto en la Secretaría General, el Presidente ordenará a dicha Secretaría envíe los expedientes a la Secretaría de Acuerdos de la Sala respectiva para que se radiquen en ésta y los expedientes se devuelvan al Ministro ponente, debiéndose informar de lo anterior a la Subsecretaría General, y
+III. Cuando se trate de asuntos que se encuentren con proyecto en la Secretaría General, el Presidente ordenará a dicha Secretaría envíe los expedientes a la Secretaría de Acuerdos de la Sala respectiva para que se radiquen en ésta, y los expedientes se devuelvan al Ministro ponente, debiéndose informar de lo anterior a la Subsecretaría General, y
 
-IV. En estos casos, el Subsecretario General de Acuerdos y los Subsecretarios de las Salas vigilarán, en el ámbito de sus respectivas competencias, que se realicen los ajustes estadísticos de ingreso y egreso que correspondan en el Pleno y en las Salas, cuidando escrupulosamente que coincidan con la existencia física de los expedientes.
+IV. En estos casos, el Subsecretario General de Acuerdos y los Subsecretarios de Acuerdos de las Salas vigilarán, en el ámbito de sus respectivas competencias, que se realicen los ajustes estadísticos de ingreso y egreso que correspondan en el Pleno y en las Salas, verificando que coincidan con la existencia física de los expedientes.
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+###### Artículo 88.
+
+En materia de controversias constitucionales y de acciones de inconstitucionalidad se exceptúan de lo previsto en el artículo 81 de este Reglamento Interior:
+
+I. Las controversias constitucionales en las que exista conexidad, entendiéndose por tales:
+
+a. Cuando se impugnen con motivo de su publicación las mismas normas;
+
+b. Cuando se impugnen las mismas normas con motivo de su aplicación en diversos actos concretos, si éstos se refieren al mismo tema jurídico;
+
+c. Cuando se impugnen los mismos actos concretos, aun cuando también se controviertan diversas normas;
+
+d. Cuando se impugnen diversos actos concretos de contenido igual o similar; y si existen más de tres asuntos podrá plantearse al Pleno, a solicitud del Ministro instructor, la posibilidad de que se turnen los asuntos conexos en forma ordinaria, y que éstos se resuelvan en la misma sesión, y
+
+e. En el caso de que se impugne el mismo decreto legislativo, aun cuando se controviertan distintos preceptos o porciones normativas, siempre que se refieran al mismo tema jurídico y ordenamiento legal;
+
+II. Las acciones de inconstitucionalidad en las que se impugna un decreto legislativo que fue controvertido en otra previamente turnada, con independencia de que no coincidan los preceptos impugnados, y
+
+III. Los recursos de reclamación en controversias constitucionales y en acciones de inconstitucionalidad en los que se impugne el mismo proveído.
+
+Las controversias constitucionales conexas, las acciones de inconstitucionalidad que se deban acumular y los recursos de reclamación antes referidos, se turnarán por el Presidente al Ministro que conozca del asunto original, en la inteligencia de que los asuntos de esa naturaleza que se presenten con posterioridad al que se estimó conexo o que debía acumularse con uno ya en trámite, se turnarán de inmediato al Ministro al que le hubiera correspondido conocer de éstos y a los que sigan en el orden correspondiente.
+
+En el caso de impedimentos y recursos de reclamación en controversias constitucionales y en acciones de inconstitucionalidad, se seguirán en principio las reglas ordinarias del turno, salvo que le correspondiera al Ministro respecto del cual se hagan valer aquéllos y en cuanto a los que hayan dictado los acuerdos que se impugnen, en cuyo caso el asunto se turnará al siguiente Ministro atendiendo al orden de su designación, sin que proceda compensación alguna, asentándose en el libro respectivo el motivo por el que quedó excluido del turno el Ministro de que se trate.
+
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 89.
 
-Se exceptúan de lo dispuesto en el artículo 81 de este Reglamento Interior, los expedientes de impedimentos y de recursos de reclamación previstos en el artículo 53 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como los de aclaraciones de sentencia.
+Tratándose de diversos asuntos de la competencia de este Alto Tribunal, se exceptúan de lo dispuesto en el artículo 81 de este Reglamento Interior, los siguientes:
 
-En el caso de impedimentos y recursos de reclamación en controversias constitucionales y acciones de inconstitucionalidad, se seguirán en principio las reglas ordinarias del turno, salvo que le correspondiera al Ministro respecto del cual se hagan valer aquéllos y en cuanto a los que hayan dictado los acuerdos que se impugnen, en cuyo caso el asunto se turnará al siguiente Ministro atendiendo al orden de su designación, sin que proceda compensación alguna, asentándose en el libro respectivo el motivo por el que quedó excluido del turno el Ministro de que se trate.
+I. Cuando se interpongan dos o más recursos de reclamación en contra de un mismo proveído, se turnarán al mismo Ministro ponente;
 
-Tratándose de expedientes de aclaración de sentencia, fungirá como Ministro ponente el que haya elaborado el proyecto conforme al cual se dictó la sentencia respectiva.
+II. Tratándose de recursos de reclamación interpuestos respecto de diversos acuerdos dictados en un mismo expediente, se turnarán al mismo Ministro ponente, siempre que la resolución del primero trascienda a la materia del segundo;
+
+III. Cuando se reciba un incidente de inejecución de sentencia de amparo o una inconformidad que tenga relación con otro asunto de esa naturaleza, en cuya resolución se haya ordenado devolverlo al órgano jurisdiccional de su origen y el archivo del toca, deberá turnarse al mismo Ministro ponente;
+
+IV. Si durante el trámite de un incidente de inejecución o de una inconformidad sobreviniere una inconformidad o un incidente de inejecución derivado de un incidente de repetición del acto reclamado en el mismo juicio de amparo y aquél no se ha resuelto, se turnarán los asuntos relacionados al mismo Ministro designado como ponente, para que las resoluciones correspondientes se dicten conjuntamente;
+
+V. Cuando se hagan valer dos o más recursos de revisión en contra de sentencias dictadas en amparos directos, o dos o más de éstos, promovidos en contra de una misma sentencia definitiva, se turnarán al mismo Ministro ponente;
+
+VI. En el caso de los asuntos respecto de los cuales se integre una Comisión de Secretarios de Estudio y Cuenta, los recibidos originalmente y los que se presenten con posterioridad que contengan nuevos temas, serán remitidos a la Comisión respectiva y, una vez que se integren a la lista oficial, turnados al Ministro designado para supervisar y aprobar la elaboración de los proyectos respectivos;
+
+VII. Las aclaraciones de sentencia se tramitarán en el expediente en donde se dictó ésta, y fungirá como Ministro ponente el que haya elaborado el proyecto conforme al cual se dictó la sentencia respectiva, y
+
+VIII. Tratándose de aclaraciones de jurisprudencia, se integrará en nuevo expediente que se turnará al Ministro que haya fungido como ponente del asunto del que derivó aquélla.
 
 ###### Artículo 90.
 
@@ -1237,21 +1303,27 @@ En caso de ausencia definitiva del Ministro al que correspondía turnársele un 
 
 El Pleno o las Salas, en el ámbito de sus respectivas competencias, podrán acordar el returno de asuntos en los supuestos de impedimento, desechamiento del proyecto, licencia o ausencia definitiva del Ministro al que fueron turnados originalmente.
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 96.
 
-Excepcionalmente, mediante el acuerdo respectivo, podrán el Pleno o las Salas disponer que su Presidente envíe uno o varios asuntos a los Ministros bajo otro sistema distinto.
+Durante los primeros diez días hábiles de cada mes, la Secretaría General rendirá al Pleno un informe pormenorizado sobre los turnos realizados durante el mes anterior.
 
 #### SECCION II. DISPOSICIONES ESPECIFICAS DE LAS SALAS
 
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 97.
 
-Los asuntos que sean de la competencia originaria de las Salas y se radiquen directamente en ellas, serán turnados por su Presidente, por conducto de la correspondiente Secretaría de Acuerdos.
+Al Presidente de cada una de las Salas le corresponderá turnar las solicitudes de facultad de atracción presentadas originalmente por parte no legitimada, los recursos de reclamación interpuestos en contra de los proveídos que dicte y los asuntos cuyo proyecto se haya desechado en sesión y su returno se ordene en ésta, por conducto de la respectiva Secretaría de Acuerdos.
 
 ###### Artículo 98.
 
 Una vez integrado el expediente, se turnará el asunto, asentándose los datos de registro del turno en los libros respectivos y en la Red Jurídica.
 
-Todo turno se hará conforme al artículo 81 de este Reglamento Interior, salvo que se trate de un caso de excepción, supuesto en el cual se determinará el turno por acuerdo del Presidente de la Sala o de esta última.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+Todo turno se hará conforme al artículo 81 de este Reglamento Interior, salvo que se trate de un returno por desechamiento, supuesto en el cual la Sala respectiva determinará lo conducente.
 
 ###### Artículo 99.
 
@@ -1275,21 +1347,25 @@ Cuando menos trimestralmente las Secretarías de Acuerdos llevarán a cabo una r
 
 En la Suprema Corte se llevará un registro estadístico del ingreso, movimiento y egreso de los asuntos, que deberá mantenerse debidamente actualizado, en términos de las disposiciones aplicables de este Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 104.
 
-El control estadístico de la Suprema Corte corresponderá a la Subsecretaría General, para lo cual la Secretaría General y las Secretarías de Acuerdos, según corresponda, deberán reportarle diariamente el ingreso de asuntos, los que cuenten con proyecto de resolución, los fallados, aplazados, retirados y en lista, a fin de que se mantenga debidamente actualizada la información y se registre en los cuadros estadísticos respectivos el resultado de dichos movimientos.
+El control estadístico de la Suprema Corte corresponderá a la Secretaría General, para lo cual la Subsecretaría General y las Secretarías de Acuerdos, según corresponda, deberán reportarle diariamente el ingreso de asuntos, los que cuenten con proyecto de resolución, los fallados, aplazados, retirados y en lista, a fin de que se mantenga debidamente actualizada la información y se registre en los cuadros estadísticos respectivos el resultado de dichos movimientos.
 
-Para tal fin, la Subsecretaría General contará con personal encargado de la alimentación de la Red Jurídica en las Secretarías de Acuerdos, el cual deberá coordinarse con los Titulares de dichas áreas, con objeto de cuidar que haya fidelidad entre los datos registrados y la existencia física de expedientes, atendiendo a la situación real de si un asunto ha sido resuelto en definitiva o no, y evitar disparidades en los datos estadísticos.
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
+
+Para tal fin, la Secretaría General contará con personal encargado de la alimentación de la Red Jurídica en la Subsecretaría General y en las Secretarías de Acuerdos, el cual deberá coordinarse con los Titulares de dichas áreas, con objeto de cuidar que haya fidelidad entre los datos registrados y la existencia física de expedientes, atendiendo a la situación real de si un asunto ha sido resuelto en definitiva o no, y evitar disparidades en los datos estadísticos.
 
 Para este efecto, se considerará que un asunto estadísticamente está vigente hasta el momento de su resolución, sin considerar trámites posteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 2 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 105.
 
-La Subsecretaría General generará reportes estadísticos de forma cotidiana, semanal, mensual y anual, haciéndose el desglose respectivo por Ponencias, así como entre asuntos radicados en Pleno y en Salas, de conformidad con lo aprobado por el Comité de Reglamentos, Acuerdos y Programación de Asuntos.
+La Secretaría General por conducto de la Subsecretaría General generará reportes estadísticos de forma cotidiana, semanal, mensual y anual, haciéndose el desglose respectivo por Ponencias, así como entre asuntos radicados en Pleno y en Salas, de conformidad con lo aprobado por el Comité de Reglamentos, Acuerdos y Programación de Asuntos.
 
-Con independencia de lo anterior, la Secretaría General y las Secretarías de Acuerdos elaborarán y rendirán los reportes estadísticos o resúmenes informativos, en los términos y con la periodicidad que se determine por el Pleno o las Salas.
+Con independencia de lo anterior, las Secretarías de Acuerdos elaborarán y rendirán los reportes estadísticos o resúmenes informativos, en los términos y con la periodicidad que se determine por las Salas.
 
 ###### Artículo 106.
 
@@ -2614,3 +2690,11 @@ SEGUNDO. Publíquese este instrumento normativo en el Diario Oficial de la Feder
 TERCERO. La nueva conformación de los Comités ordinarios de Ministros funcionará a partir de la fecha en que el Tribunal Pleno determine su integración.
 
 CUARTO. A más tardar dentro de los seis meses siguientes a la aprobación de este instrumento normativo la Oficialía Mayor de la Suprema Corte de Justicia de la Nación transferirá a la Dirección General de Informática los recursos humanos y técnicos de la Dirección General de la Coordinación de Compilación y Sistematización de Tesis destinados actualmente para la administración y sistematización de la información contenida en el Sistema de Jurisprudencia y Tesis Aisladas.
+
+D.O.F. 2 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 14/2008, de ocho de diciembre de dos mil ocho; y se deroga el Punto Décimo del diverso 12/2009, de veintitrés de noviembre de dos mil nueve, modificado por última vez mediante Instrumento Normativo de dieciséis de enero de dos mil doce.
+
+TERCERO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
