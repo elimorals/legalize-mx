@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-12-2009-del-pleno-de-la-suprema-71054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-12-01"
-last_updated: "2011-10-06"
+last_updated: "2012-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-11-23"
 ---
 # ACUERDO GENERAL NUMERO 12/2009 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCION DE SENTENCIA Y DE REPETICION DEL ACTO RECLAMADO]
 
-ACUERDO GENERAL NUMERO 12/2009, DE VEINTITRES DE NOVIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LAS ATRIBUCIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO AL EJERCER LA COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCION DE SENTENCIA Y DE REPETICION DEL ACTO RECLAMADO ASI COMO AL PROCEDIMIENTO QUE SE SEGUIRA EN ESTE ALTO TRIBUNAL AL CONOCER DE ESOS ASUNTOS
+ACUERDO GENERAL NÚMERO 12/2009, DE VEINTITRÉS DE NOVIEMBRE DE DOS MIL NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS ATRIBUCIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO AL EJERCER LA COMPETENCIA DELEGADA PARA CONOCER DE LOS INCIDENTES DE INEJECUCIÓN DE SENTENCIA Y DE REPETICIÓN DEL ACTO RECLAMADO ASÍ COMO AL PROCEDIMIENTO QUE SE SEGUIRÁ EN ESTE ALTO TRIBUNAL AL CONOCER DE ESOS ASUNTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE FEBRERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 1 de diciembre de 2009.
 
@@ -91,11 +91,15 @@ Excepcionalmente, dicha remisión podrá realizarse aun cuando el fallo protecto
 
 Al conocer de un incidente de inejecución de sentencia, los Tribunales Colegiados de Circuito no podrán tener por cumplida una sentencia concesoria.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL DOCE, D.O.F. 2 DE FEBRERO DE 2012)</small>
 
-CUARTO. Mediante proveído dictado por el Presidente de la Suprema Corte de Justicia de la Nación todos los asuntos de nuevo ingreso que correspondan a incidentes de inejecución de sentencia, inconformidades previstas en los artículos 105, párrafo tercero, y 108 de la Ley de Amparo, así como las denuncias de repetición del acto reclamado, se remitirán a las Salas, de conformidad con lo dispuesto en la fracción IV del artículo 74 del Reglamento Interior de este Alto Tribunal, lo cual se notificará por oficio a las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, a su superior jerárquico inmediato.
+CUARTO. Mediante proveído dictado por el Presidente de la Suprema Corte de Justicia de la Nación, todos los asuntos de nuevo ingreso que correspondan a incidentes de inejecución de sentencia se radicarán en el Pleno, lo que se notificará por oficio a las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, a su superior jerárquico inmediato, precisando en el caso de las sentencias cuyo cumplimiento implique la devolución de una cantidad líquida, las actuaciones realizadas por las autoridades vinculadas, las necesarias para el debido acatamiento del fallo protector y el plazo para que se cumpla con éste o para que se justifique el incumplimiento, con el apercibimiento de que de no acatarse la sentencia protectora o acreditarse la justificación de su incumplimiento en dicho plazo, el asunto se listará ante el Pleno de este Alto Tribunal dentro de los quince días hábiles siguientes, para los efectos indicados en la fracción II del Punto Quinto del presente Acuerdo General.
 
-En el supuesto de que un incidente de inejecución se remita por un Tribunal Colegiado de Circuito al haber dictaminado que la o las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, los superiores jerárquicos incurrieron en contumacia, con base en las constancias remitidas por dicho tribunal o las que en su caso se presenten ante la Suprema Corte, previo análisis de éstas, sin más notificación que la indicada en el párrafo anterior, el Ministro ponente podrá someter el asunto al Pleno o a la Sala de su adscripción, en términos de lo indicado en los puntos Quinto o Sexto de este Acuerdo General, según corresponda.
+Si se acredita que la causa del incumplimiento es la falta de recursos en la partida presupuestal correspondiente, el Presidente de la Suprema Corte de Justicia de la Nación requerirá a la autoridad competente para que dentro de los diez días hábiles siguientes realice las adecuaciones presupuestales necesarias, y a la autoridad responsable del pago respectivo, para que dentro de un plazo igual, computado a partir de que se le notifique la adecuación, expida el contra-recibo o el documento que permita el debido cumplimiento del fallo protector.
+
+Las inconformidades previstas en los artículos 105, párrafo tercero, y 108 de la Ley de Amparo, así como los incidentes de inejecución derivados de los incidentes de repetición del acto reclamado, se turnarán por el Presidente de la Suprema Corte de Justicia de la Nación al Ministro que corresponda, y se remitirán a la Sala respectiva.
+
+En el supuesto de que un incidente de inejecución se remita por un Tribunal Colegiado de Circuito al haber dictaminado que la o las autoridades vinculadas al cumplimiento del fallo protector y, en su caso, los superiores jerárquicos incurrieron en contumacia, con base en las constancias remitidas por dicho tribunal o las que en su caso se presenten ante la Suprema Corte, previo análisis de éstas, sin más notificación que la indicada en el párrafo primero que antecede, el Ministro ponente podrá someter el asunto al Pleno o a la Sala de su adscripción, en términos de lo indicado en los puntos Quinto o Sexto de este Acuerdo General, según corresponda.
 
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION EL TRES DE OCTUBRE DE DOS MIL ONCE, D.O.F. 6 DE OCTUBRE DE 2011)</small>
 
@@ -139,7 +143,7 @@ OCTAVO. Una vez vencido el plazo razonable al que se refiere la fracción I del 
 
 NOVENO. Cuando se devuelva el expediente al Juzgado de Distrito o al Tribunal Colegiado de Circuito para que subsane alguna omisión del procedimiento, el incidente registrado en la Suprema Corte de Justicia de la Nación quedará cerrado para efectos estadísticos y causará baja, por lo que únicamente permanecerán en archivo provisional los incidentes de inejecución o repetición del acto reclamado en los que el Pleno haya estimado justificado el incumplimiento y el mencionado en el párrafo último del punto Sexto de este Acuerdo General, en el que se devuelva el expediente al Juez de Distrito del conocimiento; sin menoscabo de que la Secretaría General de Acuerdos adopte las medidas necesarias para que de integrarse un nuevo incidente de inejecución derivado del mismo juicio de amparo, se turne a la misma Ponencia con la información correspondiente.
 
-DECIMO. Si durante el trámite de un incidente de inejecución sobreviniere una inconformidad o denuncia de repetición del acto reclamado en el mismo juicio de amparo y dicho incidente no se encuentra aún resuelto, se turnarán los asuntos relacionados al mismo Ministro designado como ponente, para que las resoluciones correspondientes se dicten conjuntamente.
+DECIMO. (DEROGADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL DOCE, D.O.F. 2 DE FEBRERO DE 2012)
 
 TRANSITORIOS:
 
@@ -168,5 +172,19 @@ SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Feder
 D.O.F. 6 DE OCTUBRE DE 2011.
 
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2009 en dichos medios electrónicos.
+
+D.O.F. 2 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 14/2008, de ocho de diciembre de dos mil ocho; y se deroga el Punto Décimo del diverso 12/2009, de veintitrés de noviembre de dos mil nueve, modificado por última vez mediante Instrumento Normativo de dieciséis de enero de dos mil doce.
+
+TERCERO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
+
+D.O.F. 2 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 12/2009 en dichos medios electrónicos.
