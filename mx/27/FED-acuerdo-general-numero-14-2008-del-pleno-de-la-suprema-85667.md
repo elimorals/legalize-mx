@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-14-2008-del-pleno-de-la-suprema-85667"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-08"
-last_updated: "2008-12-08"
+last_updated: "2012-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-12-08"
 
 ACUERDO GENERAL NÚMERO 14/2008, DE OCHO DE DICIEMBRE DE DOS MIL OCHO, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PARA REGULAR EL TURNO DE EXPEDIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL DOCE, POR EL QUE SE MODIFICAN LOS ARTÍCULOS 72, FRACCIÓN XXIV; 74, FRACCIÓN IV; 77; 78, FRACCIONES VII Y IX; 79, FRACCIÓN IV; 81; 86; 87; 88; 89; 96; 97; 98, PÁRRAFO SEGUNDO; 104, PÁRRAFOS PRIMERO Y SEGUNDO, Y 105, TODOS DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 2 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIX, Enero de 2009, páginas 3081 a la 3087.
 
@@ -118,3 +120,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo General Número 14/2008, de ocho de diciembre de dos mil ocho, para regular el turno de expedientes, fue emitido por el Tribunal Pleno en sesión privada celebrada hoy, por unanimidad de diez votos de los señores Ministros presidente Guillermo I. Ortiz Mayagoitia, Sergio Salvador Aguirre Anguiano, José Ramón Cossío Díaz, José Fernando Franco González Salas, Genaro David Góngora Pimentel, José de Jesús Gudiño Pelayo, Mariano Azuela Güitrón, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas y Juan N. Silva Meza.-México, Distrito Federal, a ocho de diciembre de dos mil ocho.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario 14/2008, de ocho de diciembre de dos mil ocho; y se deroga el Punto Décimo del diverso 12/2009, de veintitrés de noviembre de dos mil nueve, modificado por última vez mediante Instrumento Normativo de dieciséis de enero de dos mil doce.
+
+TERCERO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Reglamento Interior de la Suprema Corte de Justicia de la Nación en dichos medios electrónicos.
