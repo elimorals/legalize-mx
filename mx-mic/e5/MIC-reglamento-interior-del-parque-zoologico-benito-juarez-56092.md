@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-parque-zoologico-benito-juarez-56092"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-27"
-last_updated: "2007-06-27"
+last_updated: "2012-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL PARQUE ZOOLOGICO "BENITO JUAREZ", MICHOACAN
 
-REGLAMENTO INTERIOR DEL PARQUE ZOOLOGICO "BENITO JUAREZ"
+REGLAMENTO INTERIOR DEL PARQUE ZOOLOGICO "BENITO JUAREZ", DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL PARQUE ZOOLÓGICO BENITO JUÁREZ DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. 2 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 27 de junio de 2007.
 
@@ -320,3 +322,13 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 SECRETARIA DE CONTRALORÍA Y DESARROLLO ADMINISTRATIVO
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE FEBRERO DE 2012.
+
+Artículo Primero. El Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Parque Zoológico Benito Juárez, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 27 de junio del año 2007.
+
+Artículo Tercero. Se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
