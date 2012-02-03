@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-poblano-para-la-50717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-12"
-last_updated: "2006-05-12"
+last_updated: "2012-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO POBLANO PARA LA PRODUCTIVIDAD COMPETITIVA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO ÚNICO DEL DECRETO POR EL QUE SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO POBLANO PARA LA PRODUCTIVIDAD COMPETITIVA, PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2012, SE EXTINGUE EL MENCIONADO ORGANISMO, TRANSFIRIENDO SUS RECURSOS, DERECHOS, OBLIGACIONES Y DEMÁS ASUNTOS A LAS SECRETARÍAS DE FINANZAS Y DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO, EN LOS TÉRMINOS DE LOS ARTÍCULOS TRANSITORIOS DE DICHO DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 12 de mayo de 2006.
 
@@ -349,3 +351,47 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 Secretario de Trabajo y Competitividad. Presidente Ejecutivo. LICENCIADO JOSÉ ANTONIO LÓPEZ MALO CAPELLINI.- Rúbrica.- Director General.- DOCTOR GABRIEL GONZÁLEZ MOLINA.- Rúbrica.- En representación del Maestro Darío Carmona García, Secretario de Educación Pública del Estado.- Vocal.- INGENIERO MIGUEL CHOY LOPEZ.- Rúbrica.- Secretario de Turismo. Vocal.- LICENCIADO JUAN JOSE BRETON AVALOS.- Rúbrica.- En representación del Ingeniero Alberto Jiménez Merino, Secretario de Desarrollo Rural.- Vocal.- LICENCIADA ADRIANA MARTINEZ MONDRAGON.- Rúbrica.- Presidente de Canacintra. Vocal. DOCTOR CHARLES MTANOUS ABOUD.- Rúbrica.- En representación del Licenciado Javier López Zavala, Secretario de Gobernación.- Vocal.- LICENCIADO ARMANDO TOXQUI QUINTERO.- Rúbrica.- Presidente del Consejo Coordinador Empresarial.- Vocal.- LICENCIADO JUAN JOSE RODRIGUEZ POSADA.- Rúbrica.- En representación del Licenciado Gerardo Fernández Sánchez, Secretario de Desarrollo Económico.- Vocal.- LICENCIADA MARÍA FERNANDA DIEZ TORRES.- Rúbrica.- Secretario General de la FROC-CROC.- Vocal.- LICENCIADO JORGE RENE SÁNCHEZ JUÁREZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Honorable Congreso del Estado, por el cual se crea el Organismo Público Descentralizado denominado Instituto Poblano para la Productividad Competitiva, publicado en el Periódico Oficial del Estado de fecha catorce de julio de dos mil cinco.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, asignados al Instituto Poblano para la Productividad Competitiva, que sean necesarios, serán transferidos a la Secretaría de Competitividad, Trabajo y Desarollo Económico; las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, deberán realizar las acciones correspondientes para respaldar dichos movimientos.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales propiedad del Instituto Poblano para la Productividad Competitiva, a la entrada en vigor del presente Decreto, deberán ser transferidos a la Secretaría de Administración para que en el ámbito de su competencia, realice las acciones correspondientes respecto del destino de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros con los que cuente el Instituto Poblano para la Productividad Competitiva a la entrada en vigor del presente Decreto, cualquiera que sea su origen, serán transferidos a la Secretaría de Finanzas.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Competitividad, Trabajo y Desarrollo Económico, realizará los trámites correspondientes para la cancelación del Registro Federal de Contribuyentes ante la Secretaría de Hacienda y Crédito Público.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Competitividad, Trabajo y Desarrollo Económico, a partir de la fecha de entrada en vigor del presente Decreto, conocerá de los juicios, procesos o trámites análogos incluidos los contratos, convenios y demás instrumentos jurídicos, que eran competencia del Instituto Poblano para la Productividad Competitiva.
+
+###### ARTÍCULO OCTAVO.
+
+Los derechos, obligaciones y demás asuntos y disposiciones legales a favor o en los que se haga referencia al Instituto Poblano para la Productividad Competitiva, se entenderán subrogados y concedidas las atribuciones a la Secretaría de Competitividad, Trabajo y Desarrollo Económico.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría de Competitividad, Trabajo y Desarrollo Económico, en términos de la normatividad vigente, se coordinará con las Secretarías de Finanzas, de Administración, y de la Contraloría, a fin de que lleven a cabo las acciones que deriven de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
