@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2009-03-11"
+last_updated: "2012-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TLA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -981,15 +981,13 @@ XXVII. Nombrar, evaluar y, en su caso, ratificar a los magistrados del Tribunal 
 
 En el procedimiento referido en el párrafo que antecede se deberán observar las bases siguientes:
 
-a) Cuatro meses antes de que concluya el período por el que fueron nombrados los magistrados, el Congreso en sesión del pleno constituirá una comisión de evaluación integrada por seis diputados que realizará las acciones siguientes:
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
 
-Emitir una convocatoria dirigida a las instituciones, asociaciones y sociedad en general para que aporten dentro de los primeros veinte días a su publicación los elementos sobre la actuación de los magistrados. En el mismo término solicitará a la Institución del Ministerio Público, Comisión Estatal de Derechos Humanos, y Procuraduría General de la República, rindan un informe sí en el caso existiera algún expediente sobre las responsabilidades de los evaluados. Así mismo se analizarán los informes anuales que rindan los magistrados en términos de lo que se establezca en la Ley Orgánica del Poder Legislativo.
+a) Una vez cumplido el plazo para el que fueron designados, los Magistrados podrán ser ratificados por un periodo igual. El Congreso con la aprobación de las dos terceras partes del total de los diputados que integren la Legislatura y previa opinión del Consejo de la Judicatura sobre el desempeño del Magistrado correspondiente, resolverá sobre la ratificación o remoción, con anticipación de noventa días naturales a la fecha en que expire el plazo de ejercicio;
 
-Con los resultados obtenidos, la comisión de evaluación dará vista por el término de quince días hábiles a los magistrados involucrados a fin de que manifiesten lo que a su derecho e interés convenga y aporten pruebas.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
 
-Transcurrido dicho término, la comisión de evaluación emitirá un proyecto individualizado por cada magistrado evaluado, que se presentará al pleno del Congreso, quien con base en los resultados de la evaluación analizará y decidirá si ratifica o no a los magistrados;
-
-b) En caso de que exista la necesidad de designar a un nuevo o nuevos magistrados, la Mesa Directiva ordenará a la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos emitir una convocatoria y desahogar un procedimiento de selección el cual se sujetará a lo que disponga la Ley Orgánica del poder Legislativo del Estado;
+b) En caso de que exista la necesidad de designar a un nuevo o nuevos Magistrados, se atenderá lo dispuesto en los artículos 83 y 84 de esta Constitución y en la Ley Orgánica del Poder Legislativo del Estado;
 
 XXVIII. Elegir a los miembros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos;
 
@@ -1585,9 +1583,7 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-(NOTA: EL 8 DE NOVIEMBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 138/2008, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ EFECTOS A PARTIR DEL 1 DE ENERO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2012)</small>
 
 ## TITULO VI. DEL PODER JUDICIAL
 
@@ -1599,13 +1595,21 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
 
-El Tribunal Superior de Justicia funcionará en pleno y en salas de carácter colegiado. Se determinará en la Ley Orgánica del Poder Judicial las materias de que conocerán las salas y el número de ellas, así como el número de magistrados que deben ser suficientes para atender las competencias asignadas y las necesidades de los justiciables.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+El Tribunal Superior de Justicia funcionará en pleno, en dos salas de carácter colegiado integradas por tres Magistrados cada una, en las materias Civil-Familiar y Penal; y dos salas de carácter unitario en las materias Electoral-Administrativa y de Administración de Justicia para Adolescentes respectivamente. Se integrará por nueve magistrados propietarios, incluyendo a su Presidente, quien no integrará Sala, para atender las competencias asignadas y las necesidades de los justiciables.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 El pleno del Tribunal estará facultado para expedir acuerdos generales a fin de lograr una adecuada distribución competencial y de las cargas de trabajo.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 La administración, vigilancia y disciplina del Poder Judicial, estará a cargo del Consejo de la Judicatura en los términos y las bases que señalan esta Constitución y la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Los magistrados del Tribunal Superior de Justicia durarán en el cargo seis años y podrán ser ratificados, previa evaluación en términos de lo establecido por esta Constitución. Elegirán de entre ellos a un presidente que durará en su encargo dos años y podrá ser reelecto por una sola vez. Solo podrán ser removidos de sus cargos, por el Congreso del Estado por faltas u omisiones graves en el desempeño de sus funciones; por incapacidad física o mental; por sanción impuesta en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, o por haber cumplido sesenta y cinco años.
 
@@ -1725,9 +1729,13 @@ c) La promoción para el juicio de competencia constitucional suspenderá la eje
 
 Cuando se trate de impugnaciones a normas jurídicas, mediante juicios de competencia constitucional o acciones de inconstitucionalidad, no procederá la suspensión de la aplicación de la norma;
 
-d) Las resoluciones que declaren procedentes los juicios de competencia constitucional, cuando versen sobre normas jurídicas y las acciones de inconstitucionalidad, deberán ser aprobadas, cuando menos por diez Magistrados, si el fin es declarar inválida la norma y con efectos generales; en caso contrario se desestimará la impugnación;
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
 
-e) El quórum en las sesiones del Tribunal cuando deban votarse resoluciones que versen sobre normas jurídicas, se formará cuando menos con doce Magistrados. De no obtenerse ese quórum, se suspenderá la sesión y se convocará para el día hábil siguiente; y si tampoco así se pudiese sesionar, se llamará a los suplentes que corresponda, hasta obtener dicho quórum, informando de ello al Congreso, para que, de no tener justificación, suspenda de sus funciones a los ausentes;
+d) Las resoluciones que declaren procedentes los juicios de competencia constitucional, cuando versen sobre normas jurídicas y las acciones de inconstitucionalidad, deberán ser aprobadas por mayoría de seis magistrados, si el fin es declarar inválida la norma y con efectos generales; en caso contrario se desestimará la impugnación;
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+e) El quórum en las sesiones del Tribunal cuando deban votarse resoluciones que versen sobre normas jurídicas, se formará cuando menos con siete Magistrados. De no obtenerse ese quórum, se suspenderá la sesión y se convocará para el día hábil siguiente; y si tampoco así se pudiese sesionar, se llamará a los suplentes que corresponda, hasta obtener dicho quórum, informando de ello al Congreso, para que, de no tener justificación, suspenda de sus funciones a los ausentes;
 
 f) Los acuerdos de trámite que dicte el Presidente del Tribunal y el Magistrado ponente, podrán ser recurridos ante el Pleno del Tribunal.
 
@@ -1777,19 +1785,41 @@ V. Haber residido en el Estado durante los cinco años anteriores al día de la 
 
 VI. No haber sido Gobernador o servidor público de primer nivel en la administración pública estatal, Procurador General de Justicia, diputado local, senador, diputado federal o presidente municipal; no ser titular de algún organismo público autónomo en el Estado ni tener funciones de dirección y atribuciones de mando, durante el año previo a su designación, y
 
-VII. Para el caso de los magistrados que se designen en la integración de la Sala Electoral Administrativa, además de cumplir los requisitos anteriores, no haber sido dirigente de algún partido político ni candidato, durante los tres años previos a la fecha de la designación.
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2012)</small>
 
-Los aspirantes a magistrados deberán aprobar los exámenes públicos de oposición, que se efectúen conforme a la Ley Orgánica del Poder Legislativo, ante el pleno del Congreso, quien nombrará a los miembros del jurado; el que estará integrado por académicos e investigadores ajenos al Estado.
+VII. Para el caso del magistrado que se designe en la integración de la Sala Electoral Administrativa, además de cumplir los requisitos anteriores, no haber sido dirigente de algún partido político ni candidato, durante los tres años previos a la fecha de la designación.
 
-Previamente a la práctica de esos exámenes, deberá expedirse con treinta días de anticipación, una convocatoria dirigida a todos los abogados de la Entidad, debidamente publicitada en los periódicos de mayor circulación, en la que se hará saber el nombre de los sinodales.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+Para nombrar a los Magistrados del Tribunal Superior de Justicia, el Gobernador del Estado someterá una terna a consideración del Congreso, el cual, previa comparecencia de las personas propuestas, designará al Magistrado que deba cubrir la vacante dentro del improrrogable plazo de treinta días, contados a partir de la fecha de la recepción de la propuesta. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna designe el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Gobernador.
 
 Los nombramientos serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+Los Jueces de Primera Instancia deberán reunir los mismos requisitos que se establecen para los Magistrados, a excepción de la edad, que será de cuando menos treinta años y del título profesional que deberá tener fecha de expedición de al menos cinco años anterior al día de su nombramiento.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 84.
 
 Los magistrados serán nombrados por el Congreso, con la votación de las dos terceras partes del total de los diputados que integren la Legislatura, tomando como base el cumplimiento de los requisitos a que se refiere el artículo anterior y lo dispuesto en la fracción XXVII del artículo 54 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+Los Jueces de Primera Instancia podrán ser ratificados y declarados inamovibles. El Consejo de la Judicatura resolverá sobre la confirmación o remoción, con anticipación de sesenta días naturales a la fecha en que expire el plazo de ejercicio del Juez que corresponda, considerando los informes que se tengan respecto al desempeño de su labor y la opinión del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+Los Jueces de Primera Instancia ratificados serán inamovibles durante el periodo de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, en los casos que este proceda, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o encargo de la Federación, estados, municipios o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+Los Jueces de Primera Instancia solo podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2149,7 +2179,9 @@ En la propaganda que difundan los partidos políticos y los candidatos deberán 
 
 De acuerdo con las bases que determinan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución y en los términos de la ley de la materia, se establecerá un sistema jurisdiccional estatal de medios de impugnación uniinstancial, para garantizar los principios de constitucionalidad y legalidad en materia electoral del Estado. Este sistema dará definitividad y legalidad a los distintos actos y etapas de los procesos electorales y garantizará la protección de los derechos político electorales de los ciudadanos.
 
-En la Ley Orgánica correspondiente se determinará la sala que conocerá en única instancia de las impugnaciones que se presenten en materia electoral, las que se sustanciarán en términos de lo establecido en la ley de la materia; su estructura, temporalidad y demás características que se establecen en esta Constitución.
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
+La Sala Electoral Administrativa del Tribunal Superior de Justicia conocerá en única instancia de las impugnaciones que se presenten en materia electoral, las que se sustanciarán en términos de lo establecido en la ley y será la máxima autoridad jurisdiccional y órgano especializado del Poder Judicial del Estado en la materia. Contará con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial del Estado y la legislación electoral.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3017,7 +3049,7 @@ Con motivo de las reformas constitucionales respecto de los poderes Ejecutivo, L
 
 ###### ARTÍCULO CUARTO.
 
-En caso, que el Tribunal Superior de Justicia requiera nombrar un juez, se aplicarán los mismos requisitos que se requieren para ser magistrado, de acuerdo con lo que establece el artículo 83 de la Constitución vigente, en tanto se reforme la Ley Orgánica del Poder Judicial.
+(DEROGADO, P.O. 3 DE FEBRERO DE 2012)
 
 ###### ARTÍCULO QUINTO.
 
@@ -3043,9 +3075,11 @@ A partir del segundo año de ejercicio constitucional de la LIX Legislatura del 
 
 Todas las disposiciones que de esta reforma constitucional incidan en la Ley de Fiscalización Superior del Estado de Tlaxcala y sus Municipios y el Código Financiero para el Estado de Tlaxcala y sus Municipios, habrán de ser reformadas antes del último día hábil del mes de octubre del año en curso.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
-El sistema procesal penal previsto en el artículo 20 de la presente reforma constitucional, entrará en vigor cuando se expida la ley secundaria correspondiente, sin exceder el plazo de cinco años, posteriores a la publicación de este Decreto.
+El sistema procesal penal previsto en el artículo 20 de la presente reforma constitucional, entrará en vigor cuando se expida la ley secundaria correspondiente, sin exceder del 19 de junio del año 2016.
 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
@@ -3092,5 +3126,29 @@ En términos de lo previsto por el artículo 120 de la Constitución Política d
 El presente Decreto de reformas a la Constitución en términos generales entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los Magistrados del Tribunal Superior de Justicia que se encuentren en funciones a la entrada en vigor de este Decreto y que sean separados del cargo en virtud de la reducción del número de magistrados derivada de este Decreto, tendrán derecho a recibir un haber de retiro que consistirá en una prestación económica que le será entregada en una sola exhibición.
+
+El Consejo de la Judicatura tomará las previsiones, presupuestarias necesarias para pagar el haber de retiro a los Magistrados que correspondan.
+
+###### ARTÍCULO CUARTO.
+
+La función jurisdiccional de la Sala Electoral Administrativa del Tribunal Superior de Justicia del Estado, en materia administrativa, estará regulada por la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
+
+###### ARTÍCULO QUINTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
