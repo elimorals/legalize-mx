@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2010-12-08"
+last_updated: "2012-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-CODIGO CIVIL PARA EL ESTADO DE MICHOACAN DE OCAMPO
+CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -119,7 +119,7 @@ La ignorancia de las leyes no excusa su cumplimiento; pero los jueces tomando en
 
 Son personas físicas los seres humanos, quienes adquieren la capacidad de goce y ejercicio en los términos y condiciones establecidos legalmente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ## TÍTULO SEGUNDO. DE LAS PERSONAS MORALES
 
@@ -159,7 +159,7 @@ VII. Cualquiera otra a asociación o agrupación a la que la ley conceda persona
 
 ## TÍTULO TERCERO. DE LA CAPACIDAD
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -189,7 +189,7 @@ II. Las personas físicas que, siendo mayores de edad, presenten una perturbaci�
 
 Los incapaces podrán ejercer sus derechos y contraer obligaciones por medio de sus representantes.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO II. DE LA MAYORÍA Y MINORÍA DE EDAD
 
@@ -201,7 +201,7 @@ Una persona física es mayor de edad al cumplir los dieciocho años. Se consider
 
 Las personas mayores de edad pueden disponer de sí y de sus bienes con sólo las limitaciones establecidas por la ley.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO III. DE LA EMANCIPACIÓN Y LA HABILITACIÓN DE EDAD
 
@@ -3911,7 +3911,7 @@ La resolución que declare heredero al fisco del Estado, hará mención de los b
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGÍTIMA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO I. DE LAS MEDIDAS QUE DEBEN ADOPTARSE CUANDO LA MUJER QUEDA EMBARAZADA
 
@@ -10487,309 +10487,209 @@ Pagados los créditos enumerados en los capítulos que preceden, se pagarán los
 
 Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
+
 ## TÍTULO SEGUNDO. DEL REGISTRO PÚBLICO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 2132.
 
-Habrá en la Capital del Estado una oficina denominada Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2133.
 
-El registro en dicha oficina se llevará en las secciones siguientes:
-
-I. Registro de títulos traslativos del dominio de los inmuebles o de los derechos reales, diversos de la hipoteca, impuestos sobre aquéllos;
-
-II. Registro de hipotecas;
-
-III. Registro de arrendamientos;
-
-IV. Registro de sentencias; y,
-
-V. Registro de varios.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2134.
 
-Además de las secciones de que habla el artículo anterior habrá otra destinada a llevar el registro general de la propiedad raíz.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2135.
 
-Ninguna inscripción de inmueble o derecho real en favor de una persona, podrá inscribirse en favor de ésta, si aparece ya inscrito en favor de otra persona.
-
-Si no estuviese inscrito en favor de otra persona podrá hacerse el registro, aun cuando no esté inscrito el título anterior.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2136.
 
-Los actos y contratos que conforme a la ley deban registrarse, no producirán efecto contra tercero si no estuvieren inscritos en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán.
-
-Las escrituras y contratos de compra-venta si se registran dentro de los diez días siguientes a su autorización, producirán efectos contra tercero desde el día de su presentación al Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2137.
 
-Los actos y contratos que conforme a la ley no deban inscribirse, podrán ser registrados si lo piden los interesados; y tal inscripción producirá los efectos a que haya lugar en derecho y en todo caso servirá de comprobación de la existencia del título en el momento de hacerse el registro.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2138.
 
-Los actos ejecutados, los contratos otorgados y las sentencias pronunciadas en país extranjero sólo se inscribirán cuando concurran las siguientes circunstancias:
-
-I. Que si los actos o contratos hubieren sido celebrados o las sentencias pronunciadas en el Estado, harían necesaria su inscripción en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán;
-
-II. Que estén convenientemente legalizados conforme a la ley; y,
-
-III. Si se tratare de sentencias cuya ejecución sea ordenada por el Poder Judicial del Estado de Michocán (sic).
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2139.
 
-El registro no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2140.
 
-No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el registro aparezcan con derecho para ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud del título anterior no inscrito o de causas que no resulten claramente del mismo registro.
-
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2141.
 
-No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2142.
 
-No pueden los bienes raíces o los derechos reales impuestos sobre los mismos aparecer inscritos a la vez en favor de dos o más personas, a menos que éstas sean copartícipes.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2143.
 
-La inscripción de documentos en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya intervenido en la autorización de la escritura respectiva o en la ratificación del contrato privado correspondiente.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2144.
 
-Presentado para su registro un documento, el Jefe del Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán le dará entrada en todo caso.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2145.
 
-Si el Jefe del Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán se niega a registrarlo, terminado el procedimiento que señala la Ley del Notariado vigente para determinar si debe o no hacerse la inscripción; si se resuelve afirmativamente, el registro producirá sus efectos desde el día de la presentación.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2146.
 
-Cuando deban pagarse derechos fiscales por una inscripción, si dentro de los diez días siguientes a la presentación del título, no se comprueba haber hecho el pago respectivo, el documento se tendrá por no presentado.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO II. DE LOS TÍTULOS SUJETOS A REGISTRO
 
 ###### Artículo 2147.
 
-Se inscribirán en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán:
-
-I. Los títulos por los cuales se adquiere, trasmite, grava, modifica o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
-
-II. La constitución del patrimonio de familia;
-
-III. Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquéllos en que hay anticipos de rentas por más de tres;
-
-IV. La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 1475;
-
-V. Los contratos de prenda que menciona el artículo 1994;
-
-VI. La escritura constitutiva de las sociedades civiles y la que las reforme, así como las escrituras constitutivas de asociaciones;
-
-VII. Las fundaciones de beneficencia privada;
-
-VIII. Las resoluciones judiciales o de árbitros o arbitradores que produzcan algunos de los efectos mencionados en la fracción I;
-
-IX. Los testamentos por efecto de los cuales se afecte la propiedad de bienes raíces o de derechos reales; bajo el concepto de que el registro se hará después de la muerte del testador;
-
-X. En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
-
-XI. Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
-
-XII. El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas de acuerdo con lo que disponga el Código de Procedimientos Civiles;
-
-XIII. Las fianzas judiciales, cuidándose de anotar al margen de los registros que amparen bienes del fiador, la inscripción de la fianza;
-
-XIV. La demanda y el auto que la admite, cuando el negocio verse sobre alguna de las cuestiones a que se refiere la fracción I, debiendo, además, hacerse anotación al margen del registro del título del demandado; y,
-
-XV. Los demás títulos que la ley ordene expresamente que sean registrados.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2148.
 
-Los documentos que conforme a este Código y a la Ley deben registrarse y no se registran sólo producirán efectos entre quienes las otorguen; pero no podrán producir perjuicios a tercero, el que sí podrá aprovecharlos en cuanto le fueren favorables.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO III. DEL MODO DE HACER EL REGISTRO
 
 ###### Artículo 2149.
 
-El registro se hará en la manera y términos que previene el Reglamento del Registro Público de la Propiedad Raíz y del Comercio en el Estado.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2150.
 
-El registro deberá contener:
-
-I. Los nombres, edades, profesiones y domicilios de los contratantes. Las personas morales se designarán con el nombre oficial que lleven y las compañías por su razón social;
-
-II. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
-
-III. La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
-
-IV. El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
-
-V. Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantizado, y si causare réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
-
-VI. La naturaleza del acto o contrato;
-
-VII. La fecha del título y el funcionario que lo haya autorizado; y,
-
-VIII. El día y la hora de la presentación del título en el Registro.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2151.
 
-El registrador que haga la inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2152.
 
-El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2153.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario o Juez receptor que la autorice preventivamente dará al Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán, un aviso en el que conste la finca de que se trate la indicación de que se ha transmitido o modificado su dominio o se ha constituido, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro.
-
-El Registrador, con el aviso del notario o Juez receptor y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo su inscripción surtirá efectos contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación. En la misma forma deberán proceder los notarios o jueces receptores cuando se trate de documentos privados que ante ellos se ratifiquen.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2154.
 
-Hecho el registro serán devueltos los documentos al que los presentó.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2155.
 
-Los derechos y obligaciones de los registradores así como las fórmulas y demás requisitos que deben llenar las inscripciones, son los establecidos por el Reglamento del Registro.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
 ###### Artículo 2156.
 
-El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso si no está en el caso de deducir la acción que le concede el artículo 427 por no estar inscrita en el Registro Público de la Propiedad Raíz y del Comercio del Estado la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
-La información se recibirá con citación de la persona de quien se haya adquirido la posesión, o de sus herederos, si aquélla o éstos fueren conocidos; del Ministerio Público, del representante del fisco del Estado, del registrador de la propiedad y de los colindantes.
-
-Los testigos deben ser por lo menos cinco de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
-
-No se recibirá la información sin que previamente se haya dado una amplia publicación por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente. Comprobada debidamente la posesión el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y la primera copia certificada de las diligencias originales que se expida o el primer testimonio del Notario, cuando aquéllas fueren protocolizadas, se tendrá como título de propiedad y será inscrito en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán en la forma que establece el artículo 26 de la Ley sobre Reorganización del Registro Público de la Propiedad en el Estado, vigente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO V. DE LAS INSCRIPCIONES DE POSESIÓN
 
 ###### Artículo 2157.
 
-El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión, mediante resolución judicial que dicte el Juez competente, ante quien la acredite del modo que fije el Código de Procedimientos Civiles.
-
-La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
-
-Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deben tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
-
-El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años, contados desde la misma inscripción.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2158.
 
-Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y, además, las siguientes.
-
-Los nombres de los testigos que hayan declarado; el resultado de las declaraciones, y la resolución judicial que ordene la inscripción.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2159.
 
-Cualquiera que se crea con derecho a los bienes cuya inscripción se solicite mediante información de posesión, podrá alegarlo ante la autoridad judicial competente.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
-La interposición de su demanda suspenderá el curso del expediente de información; si estuviere ya concluido y aprobado, deberá el Juez ponerlo en conocimiento del registrador para que suspenda la inscripción; y si ya estuviere hecha, para que anote la inscripción de la demanda. Para que se suspenda la tramitación del expediente o de la inscripción, así como para que se haga la anotación de ésta, es necesario que el demandante otorgue fianza de responder de los daños y perjuicios que se originen si su oposición se declara infundada.
-
-Si el opositor deja transcurrir seis meses sin promover en el juicio de oposición, quedará éste sin efecto haciéndose en su caso la cancelación que proceda.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO VI. DE LA EXTINCIÓN DE LAS INSCRIPCIONES
 
 ###### Artículo 2160.
 
-Las inscripciones no se extinguen en cuanto a tercero, sino por su cancelación, o por el registro de la transmisión del dominio, o derecho real inscrito a otra persona.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2161.
 
-Las inscripciones pueden cancelarse por consentimiento de las partes o por decisión judicial.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2162.
 
-La cancelación de las inscripciones podrá ser total o parcial.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2163.
 
-Podrá pedirse y deberá ordenarse en su caso, la cancelación total:
-
-I. Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II. Cuando se extinga también por completo el derecho inscrito;
-
-III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción;
-
-IV. Cuando se declare la nulidad de la inscripción; y,
-
-V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto por el artículo 1486.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2164.
 
-Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
-
-I. Cuando se reduzca el inmueble objeto de la inscripción; y,
-
-II. Cuando se reduzca el derecho inscrito a favor del dueño de la finca gravada.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2165.
 
-Para que el registro pueda ser cancelado por consentimiento de las partes, se requiere que éstas lo sean legítimas, tengan capacidad de contratar y hagan constar su voluntad de un modo auténtico ante notario.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2166.
 
-Si para cancelar el registro se pusiese alguna condición, se requiere, además, el cumplimiento de ésta.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2167.
 
-Cuando se registre la propiedad o cualquier otro derecho real sobre inmuebles, en favor del que adquiere, se cancelará el registro relativo al que enajene.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2168.
 
-Cuando se registre una sentencia que declare haber cesado los efectos de otra que esté registrada, se cancelará ésta.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2169.
 
-Los padres, como administradores de los bienes de sus hijos, los tutores de los incapaces, y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir en la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2170.
 
-La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, puede hacerse:
-
-I. Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables;
-
-II. Por solicitud firmada por dichos interesados y por el deudor, a la cual se acompañen inutilizados los referidos títulos; y,
-
-III. Por ofrecimiento de pago y consignación del importe de los títulos, hechos de acuerdo con las disposiciones relativas.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2171.
 
-Las inscripciones constituidas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor toda la emisión de títulos debidamente inutilizados.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2172.
 
-Procederá también la cancelación total, si se presentase, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe, y el de los intereses que procedan.
-
-La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2173.
 
-Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial de estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trata de extinguir, siempre que dichos títulos asciendan por lo menos a la décima parte del total de la emisión.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2174.
 
-Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa por qué se hace la cancelación y su fecha.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ###### Artículo 2175.
 
-Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 435, PUBLICADO EN EL P.O. 3 DE FEBRERO DE 2012)
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -10817,7 +10717,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 29 DE JULIO DE 2008.
 
@@ -10840,3 +10740,7 @@ P.O. 8 DE DICIEMBRE DE 2010.
 PRIMERO. Los procedimientos que hasta la entrada en vigor del presente Decreto se encuentren en sustanciación jurisdiccional, se sujetarán a las disposiciones de la legislación vigente, hasta su total conclusión.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 3 DE FEBRERO DE 2012.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
