@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2011-12-30"
+last_updated: "2012-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -255,7 +255,7 @@ En el caso de trastorno mental transitorio o de cualquier otro estado mental de 
 
 Cuando la capacidad a que se refiere el párrafo primero de esta fracción sólo se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 57 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 X.- Error de tipo, prohibición invencibles y Error Vencible.- Se realice el hecho bajo un error invencible respecto de alguno de los elementos esenciales que integran el tipo penal; o, por error igualmente invencible, estime el sujeto activo que su conducta es lícita.
 
@@ -293,7 +293,7 @@ VI.- Las demás que prevengan las leyes.
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 26.
 
@@ -331,7 +331,7 @@ Substitución de la Multa.- Cuando se acredite que el sentenciado no puede pagar
 
 Cuando no sea posible o conveniente la substitución de la multa por prestación de servicios, la autoridad judicial podrá decretar la libertad bajo vigilancia, cuya duración no excederá del número de días multa substituido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 31.
 
@@ -341,7 +341,7 @@ En cualquier tiempo podrá cubrirse el importe de la multa, descontándose de é
 
 Si el Estado no logra el pago de la multa a través del procedimiento económico coactivo se estará a lo dispuesto por el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 32.
 
@@ -361,7 +361,7 @@ Cuando la reparación del daño sea cubierta por cualquier vía, su pago excluir
 
 Contenido de la reparación del daño.- La reparación del daño comprende:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2002)</small>
 
 I.- La restitución de la cosa obtenida por el delito, incluyendo sus frutos, accesiones y en su caso, el pago de los deterioros o menoscabo; si no fuese posible, el pago de su valor actualizado por el Juez atendiendo a las pruebas aportadas o en su caso a los índices inflacionarios publicados por el Banco de México.
 
@@ -413,7 +413,7 @@ VII.- Sus herederos.
 
 En caso de concurrencia, serán preferidos en el orden que antecede.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Salvo prueba en contrario, se presume que dependen económicamente del ofendido:
 
@@ -469,7 +469,7 @@ Obligación del reo al pago de la reparación del daño.- Si no alcanza a cubrir
 
 Plazos para el pago de la reparación del daño.- La autoridad judicial tomando en cuenta la situación económica del obligado y a petición de parte interesada, podrá fijar plazos para el pago de la reparación del daño, siempre y cuando no exceda de un año y se garantice suficientemente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 43.
 
@@ -639,7 +639,7 @@ Modificación o conclusión de la medida.- La autoridad ejecutora podrá resolve
 
 Duración de la medida.- En ningún caso la medida de tratamiento impuesta por el juez penal excederá de la duración que corresponda al máximo de la pena aplicable al delito. Si concluido este tiempo la autoridad ejecutora considera que el sujeto continúe necesitando el tratamiento, podrá ampliarlo hasta en una mitad mas del máximo de la pena aplicable al delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO IV. PROHIBICION DE IR A CIRCUNSCRIPCION DETERMINADA O DE RESIDIR EN ELLA
 
@@ -667,7 +667,7 @@ Objetos susceptibles de decomiso.- Los instrumentos del delito, así como las co
 
 Destino de los objetos decomisados.- Los instrumentos o cosas decomisadas se destinarán por la autoridad competente, al pago de la reparación del daño, o en su defecto, a favor de las Instituciones de Beneficencia o en beneficio de la administración de la justicia, según sea su utilidad. Si se tratare de substancias nocivas, peligrosas o productos perecederos, dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción si fuere indispensable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 64.
 
@@ -883,7 +883,7 @@ Conversión de prisión por multa.- Tratándose de la multa substitutiva de la p
 
 Substitución de la multa.- La multa impuesta como pena única, conjuntamente con otra, o como pena alternativa o substitutiva, podrá ser substituida por trabajo en favor de la comunidad, en los términos del artículo 48.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 89.
 
@@ -891,7 +891,7 @@ Revocación de la substitución.- El juez podrá dejar sin efecto la substituci�
 
 En caso de hacerse efectiva la pena de prisión substituida se tomará en cuenta el tiempo durante el cual el reo hubiera cumplido la pena substituida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 90.
 
@@ -941,7 +941,7 @@ IV.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefaciente
 
 V.- Cumplir con las modalidades que le imponga el tratamiento para dependientes de bebidas alcohólicas, estupefacientes y psicotrópicos apercibido respecto de su incumplimiento;
 
-((REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2007)</small>
 
 VI.- Pagar o garantizar la reparación de los daños y perjuicios causados.
 
@@ -949,7 +949,7 @@ VI.- Pagar o garantizar la reparación de los daños y perjuicios causados.
 
 Extensión de la suspensión de la pena de prisión.- La suspensión de la pena de prisión comprenderá la de multa que haya sido impuesta conjuntamente con aquella, y en cuanto a las demás penas impuestas, el Juez o Tribunal resolverá discrecionalmente según las circunstancias del caso, al igual que sobre las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 95.
 
@@ -995,7 +995,7 @@ IX.- Las demás que señalen las leyes.
 
 Procedencia de la Extinción.- La Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad se resolverá de oficio o a petición de parte, según proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 99.
 
@@ -1119,7 +1119,7 @@ IV.- Desde la cesación de la consumación en el delito permanente.
 
 Artículo 113 BIS.- Los plazos para la prescripción de la pretensión punitiva en el caso de los delitos previstos por los artículos 176, 177, 178, 180, 180 bis, 238, 261, 262, 264, y 265 de este Código, empezaran a computarse a partir de que la victima cumpla 18 años de edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2009)</small>
 
 ###### Artículo 114.
 
@@ -1135,7 +1135,7 @@ En los demás casos, la pretensión punitiva prescribirá en dos años.
 
 Artículo 114 BIS.- En los delitos de homicidio, secuestro, violación, trata de personas y terrorismo, que refiere este Código, el plazo de la prescripción de la pretensión punitiva será el equivalente a la pena máxima señalada para el delito de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 115.
 
@@ -1153,7 +1153,7 @@ Prescripción en caso de concurso de delitos.- En los casos de concurso real o i
 
 Necesidad de la declaración o resolución previa a la prescripción.- Cuando para ejercitar o continuar el ejercicio de la pretensión punitiva sea necesaria una declaración o resolución previa de autoridad competente, la prescripción no comenzará a correr sino hasta que sea satisfecho ese requisito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 118.
 
@@ -1215,7 +1215,7 @@ Tipo.- Comete el delito de homicidio el que priva de la vida a otro.
 
 Punibilidad de homicidio simple.- Al que prive de la vida a otro se le impondrá de ocho a quince años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 125.
 
@@ -1327,7 +1327,7 @@ Lesiones en riña.- Si las lesiones fueren inferidas en riña, se disminuirán h
 
 Lesiones agravadas por razón del parentesco.- Al que dolosamente lesione a su ascendiente o descendiente consanguíneo en línea recta, a su hermano, cónyuge, concubino, concubina, adoptante o adoptado, con conocimiento de ese parentesco o relación, se le impondrá hasta una mitad más de la pena que corresponda a la lesión inferida.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ###### Artículo 143.
 
@@ -1355,13 +1355,13 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 ### CAPITULO VIII. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 146.
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 147.
 
@@ -1371,7 +1371,7 @@ Concepto de premeditación.- Hay premeditación, siempre que el reo cause intenc
 
 Se presumirá que existe premeditación cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquier otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 148.
 
@@ -1461,13 +1461,13 @@ El artículo anterior sólo tendrá aplicación cuando no pueda sancionarse el h
 
 ### CAPITULO IX. DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 Artículo 160 BIS.- Para los efectos de este Código, tendrán el carácter de delitos, las conductas previstas en el capítulo VII del título XVIII de la Ley General de Salud, siempre que se colmen los supuestos del artículo 474 de dicho ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 157.
 
@@ -1513,7 +1513,7 @@ En ambos casos se impondrá tratamiento curativo obligatorio en institución ade
 
 Cuando se trate de cónyuges, concubina o concubinario sólo podrá procederse por querella del sujeto pasivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1551,7 +1551,7 @@ Las sanciones previstas en los párrafos precedentes se disminuirán en una terc
 
 Tipo y punibilidad.- Al particular que ilegítimamente prive a otro de su libertad personal, se le aplicará prisión de tres a siete años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 162.
 
@@ -1599,7 +1599,7 @@ I.- Secuestro express.- Prive de la libertad a otro y lo persuada u obligue de c
 
 II.- Auto Secuestro.- Simule encontrarse secuestrado con amenaza de un daño a su persona con el propósito de obtener un beneficio indebido, o con la intención de que la autoridad o particular realice o deje de realizar un acto cualquiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 165.
 
@@ -1613,7 +1613,7 @@ I.- Que se realice en lugar desprotegido o solitario;
 
 II.- Que el autor sea o haya sido integrante de alguna institución de Seguridad Pública, o se ostente como tal sin serlo, o utilice uniformes, insignias, frecuencias, placas, divisas, armas, claves, códigos oficiales o demás equipo reglamentario correspondiente a los cuerpos de seguridad;
 
-(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999)(F. DE E., P.O. 31 DE DICIEMBRE DE 1999)
+(REFORMADA, P.O. 12 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 31 DE DICIEMBRE DE 1999)
 
 III.- Que se lleve a cabo en grupo de dos o más personas;
 
@@ -1625,7 +1625,7 @@ IV.- Que se realice con violencia, se veje o se torture a la víctima o,
 
 V.- Que la víctima sea menor de edad o mayor de sesenta años de edad, o que por cualquier otra circunstancia esté en situación de inferioridad respecto del agente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2004)</small>
 
 Artículo 165 BIS.- Se impondrá de uno a ocho años de prisión y de doscientos a quinientos días multa, al que en relación con las conductas mencionadas en los artículos 164, 164 BIS y 165 de este Código y fuera de las causas de exclusión del delito:
 
@@ -1645,7 +1645,7 @@ II.- Intimide a la víctima, a sus familiares o a sus representantes o gestores,
 
 Tipo y punibilidad.- Se impondrán de tres meses a dos años de prisión hasta cincuenta días multa, al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otra con el objeto de que ésta celebre dicho contrato.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. REVELACION DEL SECRETO
 
@@ -1667,7 +1667,7 @@ Artículo 175 QUATER.- Agravación de la pena.- Las penas previstas en los artí
 
 Sin perjuicio de la agravación de la pena, que se imponga conforme al párrafo anterior, la pena se aumentará hasta en una mitad más, cuando el delito se ejecute por un servidor público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 168.
 
@@ -1765,15 +1765,15 @@ Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una
 
 Cuando el activo del delito tenga parentesco por consanguineidad o afinidad con el ofendido o víctima hasta el tercer grado, el delito se perseguirá por querella de parte.
 
-(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2007))
+(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2007))
 
 ## TITULO TERCERO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO Y DE LOS SISTEMAS Y EQUIPOS DE INFORMÁTICA
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO I. DIFAMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 175.
 
@@ -1783,7 +1783,7 @@ REVELACION DEL SECRETO: Se entiende por revelación de secreto cualquier informa
 
 QUERELLA: El delito de revelación de secreto se perseguirá por querella de la persona afectada o de su representante legal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO II. CALUMNIA
 
@@ -1817,7 +1817,7 @@ Violación impropia.- Se equipara a la violación, al que sin consentimiento de 
 
 Artículo 178 BIS.- (DEROGADO, P.O. 17 DE FEBRERO DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 179.
 
@@ -1837,11 +1837,11 @@ Es aplicable para todos los casos de violación lo que para la reparación del d
 
 Las penas señaladas en los artículos 176, 177 y 178, se incrementarán hasta en una tercera parte, cuando el agente sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
 ### CAPITULO II. DELITO DE ABIGEATO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2011)</small>
 
 ###### Artículo 180.
 
@@ -1911,7 +1911,7 @@ Querella.- No se procederá contra el estuprador, sino por queja de la mujer ofe
 
 Reparación del daño.- La reparación del daño en los casos de estupro, comprenderá los gastos derivados del delito a favor de la mujer y también los alimentos al hijo o hijos que de dicho delito resultare, observándose las reglas que sobre la forma y términos de pago fija el Código Civil.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE OCTUBRE DE 1992)</small>
 
 ### CAPITULO IV. FRAUDE
 
@@ -2083,7 +2083,7 @@ III.- De seis a catorce años de prisión y de doscientos hasta quinientos días
 
 Cuando el valor de lo robado no exceda de 40 días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa o investigación y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 208 fracciones I y II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
 Artículo 201 BIS.- Tipo y punibilidad. A quien cometa el delito de robo en terrenos rústicos, además de las penas previstas en el artículo 201, se le impondrán de uno a cinco años de prisión y de cien hasta doscientos días multa, cuando este se realice respecto de semillas, frutos recolectados o pendientes de recolectar, postes o alambres integrantes de una cerca, motor eléctrico o cualquier parte de éste, tuberías para riego, cableado para el aprovechamiento de energía eléctrica o cualesquiera otros artículos destinados al aprovechamiento agropecuario, pesquero o acuícola.
 
@@ -2165,7 +2165,7 @@ VII.- Cuando se cometa por los empleados, obreros, artesanos, aprendices o disc�
 
 VIII.- Cuando se cometa en contra de bienes afectados a la prestación de un servicio público Estatal o Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2011)</small>
 
 Artículo 208 BIS.- Robo de Vehículo. Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de cinco a doce años de prisión y de quinientos hasta mil días multa.
 
@@ -2173,7 +2173,7 @@ Artículo 208 BIS.- Robo de Vehículo. Al que se apodere de un vehículo de moto
 
 Si el robo del vehículo se ejecutare con violencia, a la pena impuesta se le agregarán de uno a tres años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE OCTUBRE DE 2002)</small>
 
 Artículo 208 TER.- Robo equiparado de vehículo de motor.- Se impondrá prisión de dos a ocho años y de cien hasta quinientos días multa, a quien:
 
@@ -2213,7 +2213,7 @@ VIII.- Posea, use, compre, custodie o de cualquier otra manera adquiera o reciba
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de las penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por el período igual a la pena de prisión impuesta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Artículo 208 QUARTER.- Excluyente de Pretensión Punitiva.- Será causa excluyente de pretensión punitiva el contar con documento expedido por la Procuraduría General de Justicia del Estado, que haga constar que en sus registros no se encuentra denuncia o reporte de robo de vehículo de motor de que se trate o de cualquiera de las partes de éste, o bien el comparecer voluntariamente ante ésta autoridad a presentar un vehículo de motor, o bien, alguna o algunas de sus partes, con el objeto de cerciorarse de su legítima procedencia.
 
@@ -2293,7 +2293,7 @@ Abigeato por querella.- Es aplicable al delito de abigeato lo dispuesto en el ar
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 214.
 
@@ -2427,7 +2427,7 @@ IV. La víctima del delito sea persona menor de dieciocho años de edad, o de pe
 
 ### CAPITULO IV. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 225.
 
@@ -2523,7 +2523,7 @@ Acumulación.- Si además de los daños directos resulta consumado algún otro d
 
 Querella.- Los daños en propiedad ajena se perseguirán por querella de parte ofendida, con excepción de los causados por las conductas previstas en el artículo 228 Ter; aquellas conductas agravadas cometidas con dolo previstas en el artículo 229 y los producidos por tránsito de vehículos y el conductor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos o cualquier sustancia de efectos similares previstas en los artículos 255 y 256 de este Código, cuya persecución será de manera oficiosa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO VII. VIOLENCIA FAMILIAR
 
@@ -2557,13 +2557,43 @@ Tipo y punibilidad.- Al que a sabiendas de la comisión de un delito y sin haber
 
 Para los efectos de lo anterior, se presume que existe conocimiento de que los objetos provienen de un delito cuando el sujeto activo se dedique a una actividad comercial o sea dependiente de un establecimiento cuyo giro se relacione con la naturaleza de los bienes objeto de la adquisición, recepción en prenda o guarda. Será excluyente de responsabilidad de la presunción anterior, que dichos actos se respalden con copia del documento público con fotografía que acrediten los datos de identificación personal del que ofreció la cosa o la constancia del dicho de dos personas debidamente identificadas, con copia del documento público con fotografía que acrediten sus datos de identificación personal, que atestigüen que el oferente dispuso de la cosa.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2012)</small>
+
+Asimismo se presume que existe conocimiento de que los objetos provienen de un delito cuando:
+
+I. De los mismos objetos o por su naturaleza se advierta que pertenecen a algún órgano público estatal o municipal, o que se trata de bienes destinados a la prestación de un servicio público, salvo cuando la adquisición, recepción o guarda de los referidos objetos se respalde con:
+
+a) Copia de la documental que acredite la propiedad o el derecho para disponer de ellos;
+
+b) Copia de una documental pública con fotografía que acredite los datos de identificación personal de quien los ofrece, o la de dos personas que atestigüen que el oferente dispuso de los objetos;
+
+c) Copia de un comprobante de domicilio de quien los ofrece, y
+
+d) Registro de la fecha, cantidad y tipo de objetos que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial
+
+II. Se trate de metales que se utilicen para la construcción de obras; instalaciones eléctricas, de gas, agua potable, drenaje o para cualquier otra que forme parte de un inmueble, así como para la producción y/o suministro de bienes y/o servicios empresariales, salvo cuando la adquisición, recepción o guarda de los referidos metales se respalde con:
+
+a) Copia de la documental que acredite la propiedad o el derecho para disponer de ellos, o
+
+b) Copia de una documental pública con fotografía que acredite los datos de identificación personal de quien los ofrece, o la de dos personas que atestigüen que el oferente dispuso del objeto, así como copia de un comprobante de domicilio de quien los ofrece.
+
+En los casos a que se refiere la fracción II, de este artículo se llevará un registro de la fecha, cantidad y tipo de metales que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial competente que así lo solicite de conformidad con las disposiciones legales aplicables; y
+
+III. Se trate de cualquier clase de metal fundido o alterado de su forma comercial, salvo cuando la adquisición, recepción o guarda de los referidos metales se respalde con:
+
+a) Copia de una documental pública con fotografía que acrediten los datos de identificación personal de quien los ofrece, o la de dos personas que atestigüen que el oferente dispuso de la cosa;
+
+b) Copia de un comprobante de domicilio de quien los ofrece, y
+
+c) Registro de la fecha, cantidad y tipo de metales que se hayan adquirido, recibido en prenda o guardado, el cual deberá ser proporcionado al Ministerio Público en el ejercicio de sus funciones de investigación, o a la autoridad judicial competente que así lo solicite de conformidad con las disposiciones legales aplicables.
+
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 233.
 
 Tipo y punibilidad.- Al que sin cerciorarse de su procedencia legítima, adquiera, reciba en prenda o guarde objetos producto de un delito, se le aplicará, de tres meses a tres años y hasta cincuenta días multa si el valor de los bienes adquiridos, receptados u ocultados no excede de setenta y cinco días de salario mínimo diario vigente en el estado; si excede de este valor se aplicará prisión de dos a cuatro años de prisión y de cien hasta doscientos cincuenta días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2007)</small>
 
 Para los efectos del párrafo anterior, se presume que el sujeto activo no se cercioró de la procedencia legítima del objeto, sino cumple con cualquiera de los siguientes requisitos:
 
@@ -2583,7 +2613,7 @@ IV.- (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2007)
 
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACION Y EXHUMACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 234.
 
@@ -2593,9 +2623,27 @@ Exención o disminución de pena o de arrepentimiento post-factum.- En los casos
 
 Artículo 234 BIS.- Agravación de la punibilidad.- Las penas señaladas en los artículos 208 BIS y 208 TER se incrementarán hasta en una tercera parte, cuando el autor haya sido integrante de alguna institución de seguridad pública o corporación policíaca.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
 
-Las penas señaladas en los artículos 224 y 232, se incrementarán hasta en una mitad más respecto del primero de ellos, y hasta en una tercera parte tratándose del segundo, cuando el autor sea o haya sido servidor público, hasta un año después de haber concluido el empleo, cargo o comisión, y se hayan utilizado los medios o circunstancias proporcionados por estos.
+Las penas señaladas en el artículo 224, se incrementarán hasta en una mitad más, cuando el autor sea o haya sido servidor público, hasta un año después de haber concluido el empleo, cargo o comisión, y se hayan utilizado los medios o circunstancias proporcionados por éstos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2012)</small>
+
+Asimismo, las penas señaladas en el artículo 232 se incrementarán:
+
+I. Hasta en una mitad más cuando:
+
+a) Se trate de objetos que de los mismos o por su naturaleza se advierta que pertenecen a algún órgano público estatal o municipal, o que se trata de bienes destinados a la prestación de un servicio público, siempre que la adquisición, recepción o guarda de los referidos objetos no se respalde en términos de lo dispuesto por la fracción I, del artículo 232 de este Código, y
+
+b) El autor sea o haya sido servidor público, hasta un año después de haber concluido el empleo, cargo o comisión, y se hayan utilizado los medios o circunstancias proporcionados por éstos.
+
+Además de las penas de prisión y multa que correspondan en cada caso, los servidores públicos que cometan algún delito previsto en el artículo 232 de este Código, serán destituidos de su cargo y quedarán inhabilitados para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad, y
+
+II. Hasta en una tercera parte más, cuando se adquieran, reciban en prenda o guarda por interés propio o ajeno:
+
+a) Metales que se utilicen para la construcción de obras; instalaciones eléctricas, de gas, agua potable, drenaje o para cualquier otra que forme parte de un inmueble, así como para la producción y/o suministro de bienes y/o servicios empresariales, sin que la adquisición, recepción o guarda de los referidos metales se respalde en términos de lo dispuesto por la fracción II, del artículo 232 de este Código, o no se haya registrado la fecha, cantidad y tipo de metales, y
+
+b) Metales fundidos o que hayan sido alterados de su forma comercial, sin que la adquisición, recepción o guarda de los referidos metales se respalde en términos de lo dispuesto por la fracción III, del artículo 232 de este Código.
 
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
@@ -2633,7 +2681,7 @@ Insolvencia dolosa para cumplir las obligaciones alimentarias.- Al que dolosamen
 
 El delito previsto en este artículo se perseguirá por querella de parte ofendida.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO II. ASOCIACION DELICTUOSA Y PANDILLERISMO
 
@@ -2671,7 +2719,7 @@ Además de las penas señaladas, se privará de los derechos de la patria potest
 
 Artículo 237 QUATER.- Persecución oficiosa.- El delito de sustracción de menores o incapaces previsto en el artículo 237 se perseguirá de oficio; excepto lo dispuesto en su segundo párrafo y las conductas a que se refieren los artículos 237 bis y 237 ter, las cuales se perseguirán por querella de la parte ofendida o de sus representantes legítimos, salvo que dichas conductas se hayan ejercitado con violencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO III. PROVOCACION DE UN DELITO Y APOLOGIA DE ESTE O DE ALGUN VICIO
 
@@ -2697,7 +2745,7 @@ Artículo 238 BIS.- Agravación de la punibilidad.- La pena señalada en El art�
 
 ### CAPITULO IV. DELITOS CONTRA EL CONSUMO Y LA RIQUEZA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 239.
 
@@ -2741,13 +2789,13 @@ Tipo y punibilidad.- Al que contraiga nuevo matrimonio, sin hallarse legítimame
 
 ### CAPITULO I. ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 242.
 
 Tipo y punibilidad del delito de incesto.- A los parientes consanguíneos, sean ascendientes, descendientes o hermanos, que con conocimiento de su parentesco tengan cópula entre sí, se les impondrá prisión de dos a seis años.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 2003)</small>
 
 ### CAPITULO II. DELITOS CONTRA LA SEGURIDAD DEL TRANSITO DE VEHICULO
 
@@ -2785,7 +2833,7 @@ I.- Los puñales, cuchillos, verduguillos y demás armas ocultas o disimuladas e
 
 II.- Los boxes, manoplas, macanas, hondas, correas con balas, pesas o puntas y las demás similares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 246.
 
@@ -2801,11 +2849,11 @@ En todos los casos incluidos en este artículo, además de las sanciones señala
 
 Artículo 246 BIS.- Excluyente de pretensión punitiva.- Será causa de excluyente de pretensión punitiva, el que el portador compruebe fehacientemente que los instrumentos, herramientas o utensilios comprendidos en el artículo 245, sean utilizados en las labores domésticas, del campo o en cualquier oficio, profesión o actividad deportiva, pero su uso deberá limitarse al local, ruta o área en que su poseedor se aboque o desempeñe tales actividades.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO III. USURPACION DE PROFESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 247.
 
@@ -2963,11 +3011,11 @@ Tipo y punibilidad.- Al que sin serlo, se atribuya el carácter de profesionista
 
 Las mismas penas se aplicarán al que sin tener título o autorización para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
 ### CAPITULO VII. ULTRAJES CONTRA INSTITUCIONES PUBLICAS
 
@@ -3021,7 +3069,7 @@ En el supuesto previsto en la fracción I de este artículo, además se les priv
 
 En el supuesto previsto en la fracción VI de este artículo al sujeto activo, además se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
 ### CAPITULO VIII. ULTRAJES A INSIGNIAS PUBLICAS
 
@@ -3075,7 +3123,7 @@ En el supuesto previsto en la fracción I de este artículo, además se les priv
 
 En el supuesto previsto en la fracción VI de este artículo al sujeto activo, además se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, hasta por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2007)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -3267,7 +3315,7 @@ Tipo y punibilidad.- Al que ultraje las insignias del Estado o del Municipio o d
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 284.
 
@@ -3291,7 +3339,7 @@ Agravación de pena para servidores públicos.- Se impondrá de dos a diez años
 
 Se impondrá la pena establecida en el párrafo anterior, cuando el autor sea o haya sido integrante de alguna institución de seguridad pública o corporación policíaca, hasta un año después de haber concluido el empleo, cargo o comisión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2003)</small>
 
 ## TITULO SEGUNDO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
@@ -3325,7 +3373,7 @@ Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigad
 
 No se consideran como causas excluyentes de responsabilidad del delito de tortura el que se invoquen o existan situaciones excepcionales como inestabilidad política interna, urgencia en la investigación o cualquier otra circunstancia. Tampoco podrá invocarse como justificación la orden de un superior jerárquico o de cualquier otra autoridad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE MARZO DE 2003)</small>
 
 ###### Artículo 288.
 
@@ -3519,7 +3567,7 @@ Punibilidad.- Al servidor público que cometa el delito de concusión se le apli
 
 ### CAPITULO VII. FALSEDAD ANTE LAS AUTORIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 302.
 
@@ -3535,7 +3583,7 @@ Utilización indebida de descubrimiento científico, etc.- Igual pena se impondr
 
 ### CAPITULO VIII. VARIACION DEL NOMBRE O DEL DOMICILIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 305.
 
@@ -3547,7 +3595,7 @@ II.- Valiéndose de la información que posea por razón de su empleo, cargo o c
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 306.
 
@@ -3563,7 +3611,7 @@ Al que cometa el delito de intimidación se le impondrán de dos a seis años de
 
 ### CAPITULO II. FRAUDE PROCESAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 307.
 
@@ -3575,7 +3623,7 @@ I.- Promueva o gestione la tramitación o resolución de negocios públicos ajen
 
 II.- Indebidamente solicite o promueva alguna resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que se hace referencia en la fracción I del artículo 305 de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 1992)</small>
 
 ### CAPITULO III. EVASION DE PRESOS
 
@@ -3587,7 +3635,7 @@ II.- Indebidamente solicite o promueva alguna resolución o la realización de c
 
 ### CAPITULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ## TITULO TERCERO. DELITOS CONTRA LA ADMINISTRACION PUBLICA COMETIDOS POR PARTICULARES
 
@@ -3611,7 +3659,7 @@ Peculado impropio.- Al particular que estando obligado legalmente a la custodia,
 
 Tipo y punibilidad.- Al que sin causa legítima rehusare prestar un servicio de interés público que la Ley lo obligue o desobedeciere un mandato legítimo de la autoridad, se le impondrá prisión de seis meses a un año o trabajo en favor de la comunidad de tres a seis meses.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 312.
 
@@ -3639,7 +3687,7 @@ Consumación de medios de apremio.- Cuando la Ley autorice el empleo de medios d
 
 Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro modo, quebrante los sellos puestos por orden legítima de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de veinte a sesenta días multa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ENERO DE 1997)</small>
 
 ### CAPITULO UNICO
 
@@ -3651,7 +3699,7 @@ Tipo y punibilidad.- Al que de palabra o de obra ultraje a una autoridad en el e
 
 Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
 Artículo 317 BIS.- delitos cometidos contra miembros de las instituciones policiales del Estado.- .Al que cometa un delito en contra de los miembros activos de las instituciones policiales del Estado, en el acto de ejercer sus funciones o con motivo de ellas se le impondrá prisión de cuatro a doce años, además de la que le corresponda por el delito cometido.
 
@@ -3807,7 +3855,7 @@ La misma pena se aplicará a quien requerido por la autoridad, no dé auxilio pa
 
 Igualmente esta pena se aplicará al que no procure por los medios lícitos que tenga a su alcance impedir la consumación de los delitos que sepa van a cometerse o se estén cometiendo, si son de los que se persiguen de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 1998)</small>
 
 ###### Artículo 335.
 
@@ -3861,11 +3909,11 @@ Abandono de defensa.- Al defensor de oficio o particular de un inculpado que no 
 
 Este delito se perseguirá por querella de parte ofendida.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
 
 ## TITULO QUINTO. DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE MARZO DE 1992)</small>
 
 ###### Artículo 339.
 
@@ -3919,11 +3967,11 @@ Cuando las conductas a que se refiere este artículo se lleven a cabo por los au
 
 (REFORMADO [N. DE E. DEROGADO], P.O. 27 DE ABRIL DE 2007)
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
 
 ## TITULO SEXTO. DE LOS DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
 
 ###### Artículo 343.
 
@@ -4227,7 +4275,7 @@ LIC. OSCAR R. TELLEZ ULLOA.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE MARZO DE 1992.
 
@@ -4754,3 +4802,9 @@ P.O. 23 DE DICIEMBRE DE 2011.
 P.O. 30 DE DICIEMBRE DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el Periódico Oficial de Estado de Baja California.
+
+P.O. 3 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
