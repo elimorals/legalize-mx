@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-evaluacion-y-medicion-6460
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-12"
-last_updated: "2008-11-12"
+last_updated: "2012-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE EVALUACIÓN Y MEDICIÓN DE MARGINACIÓN Y POBREZA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO ÚNICO DEL DECRETO POR EL QUE SE EXTINGUE EL INSTITUTO DE EVALUACIÓN Y MEDICIÓN DE MARGINACIÓN Y POBREZA PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2012, SE EXTINGUE EL MENCIONADO ORGANISMO, TRANSFIRIENDO SUS RECURSOS, DERECHOS, OBLIGACIONES Y DEMÁS ASUNTOS A LAS SECRETARÍAS DE DESARROLLO SOCIAL, DE FINANZAS Y DE ADMINISTRACIÓN EN LOS TÉRMINOS DE LOS ARTÍCULOS TRANSITORIOS DE DICHO DECRETO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Puebla, el miércoles 12 de noviembre de 2008.
 
@@ -258,3 +260,47 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Los acuerdos, circulares y demás disposiciones pronunciadas antes y durante la expedición de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
 
 Dado en el Auditorio UPP de la Secretaría de Desarrollo Social en la Ciudad de Puebla, a los diez días del mes de noviembre de dos mil ocho.- Representante del Secretario de Desarrollo Social y Presidente Ejecutivo del; Instituto.- LICENCIADO JUAN CARLOS LASTIRI QUIRÓS.- Rúbrica.- Vocal Suplente del Secretario de Finanzas y Administración.- LICENCIADO CESAR FRANQUIS CASTELANO.- Rúbrica.- Vocal Suplente del Sistema Integral para el Desarrollo de las Familias.- LICENCIADO FRANCISCO JAVIER GIL FLORES.- Rúbrica.- Vocal Suplente del Comisionado Estatal de Desarrollo Integral de los Pueblos Indígenas.- ANTROPÓLOGO IGNACIO ÁLVAREZ LÓPEZ.- Rúbrica.- Vocal Suplente del Secretario de: Desarrollo Rural.- INGENIERO OSCAR ROMERO BRITO.- Rúbrica.- Vocal Suplente del Director General del Instituto Poblano de la Vivienda.- LICENCIADA ERIKA OCHOA VILLAR.- Rúbrica.- Vocal del Colegio de Puebla.- MAESTRO JOEL CORDERO ELIZALDE.- Rúbrica.- Vocal Suplente del Secretario de Educación Pública.- LICENCIADO JAVIER ARCE LOZADA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto del Honorable Congreso del Estado, por el cual se crea el Organismo Público Descentralizado denominado Instituto de Evaluación y Medición de Marginación y Pobreza, publicado en el Periódico Oficial del Estado de fecha catorce de mayo de dos mil siete.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, asignados al Instituto de Evaluación y Medición de Marginación y Pobreza, que sean necesarios, serán transferidos a la Secretaría de Desarrollo Social: las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, deberán realizar las acciones correspondientes para respaldar dichos movimientos.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales propiedad del Instituto de Evaluación y Medición de Marginación y Pobreza, a la entrada en vigor del presente Decreto, deberán ser transferidos a la Secretaría de Administración para que en el ámbito de su competencia, realice las acciones correspondientes respecto del destino de los mismos.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros con los que cuenta el Instituto de Evaluación y Medición de Marginación y Pobreza, a la entrada en vigor del presente Decreto, cualquiera que sea su origen, serán transferidos a la Secretaría de Finanzas.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Desarrollo Social realizará los trámites correspondientes para la cancelación del Registro Federal de Contribuyentes ante la Secretaría de Hacienda y Crédito Público.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Desarrollo Social, a partir de la fecha de entrada en vigor del presente Decreto, conocerá de los juicios, procesos o trámites análogos incluidos los contratos, convenios y demás instrumentos jurídicos, que eran competencia del Instituto de Evaluación y Medición de Marginación y Pobreza.
+
+###### ARTÍCULO OCTAVO.
+
+Los derechos, obligaciones y demás asuntos y disposiciones legales a favor o en los que se haga referencia al del Instituto de Evaluación y Medición de Marginación y Pobreza, se entenderán subrogados y concedidas las atribuciones a la Secretaría de Desarrollo Social.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría de Desarrollo Social, en términos de la normatividad vigente, se coordinará con las Secretarías de Finanzas, de Administración y de la Contraloría, a fin de que lleven a cabo las acciones que deriven de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan aquellas disposiciones que contravengan el presente Decreto.
