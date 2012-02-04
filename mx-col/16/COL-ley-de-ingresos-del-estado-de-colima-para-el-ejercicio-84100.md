@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-84100"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-11-26"
-last_updated: "2011-11-26"
+last_updated: "2012-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Ley publicada en el Suplemento No. 8 del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2011.
 
@@ -261,9 +261,17 @@ SUBSIDIOS Y OTRAS AYUDAS 0.00
 
 Subsidios y subvenciones. 0.00
 
-T O T A L 8,187´190,000.00
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2012)</small>
 
-(OCHO MIL CIENTO OCHENTA Y SIETE MILLONES CIENTO NOVENTA MIL PESOS 00/100 M. N.)
+VIII.- INGRESOS EXTRAORDINARIOS 300´000,000.00
+
+a).- Empréstitos 300´000,000.00
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
+
+T O T A L 8,487´190,000.00
+
+(OCHO MIL CUATROCIENTOS OCHENTA Y SIETE MILLONES CIENTO NOVENTA MIL PESOS 00/100 M. N.)
 
 ###### Artículo 2.
 
@@ -362,3 +370,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 25 del mes de noviembre del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 4 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Con motivo del presente Decreto, el Ejecutivo del Estado de Colima, podrá ejercer en sus términos todo lo autorizado en el Decreto 410, publicado en el Periódico Oficial "El Estado de Colima" de fecha 26 de noviembre de 2011.
