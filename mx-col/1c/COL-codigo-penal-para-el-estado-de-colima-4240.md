@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2011-12-17"
+last_updated: "2012-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -189,7 +189,7 @@ IX.- La conducta o el hecho se realicen bajo un error invencible respecto de alg
 
 X.- Razonablemente no pueda exigírsele una conducta diversa de la que realizó.
 
-En tratándose de los delitos previstos en los Artículos 119, 121, párrafo 1o., 124, 125, y 162 fracción II, será operante la hipótesis anterior, si en la conducta o hecho no hubiese mediado interés bastardo ni otra conducta constitutiva de delito por sí, siempre que se trate de:
+En tratándose de los delitos previstos en los Artículos 119, 121, párrafo 1o, 124, 125, y 162 fracción II, será operante la hipótesis anterior, si en la conducta o hecho no hubiese mediado interés bastardo ni otra conducta constitutiva de delito por sí, siempre que se trate de:
 
 a).- Los ascendientes o descendientes consanguíneos, civiles o afines;
 
@@ -265,7 +265,7 @@ No es imputable al acusado el aumento de sanción proveniente de circunstancias 
 
 Las circunstancias del delito que aumenten o disminuyan la sanción, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión del mismo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO VIII.
 
@@ -385,7 +385,7 @@ I.- La restitución de la cosa obtenida por el delito con sus frutos y accesione
 
 II.- La indemnización de los daños material y moral causados, incluyendo el pago de tratamientos médicos y de rehabilitación necesarios para la recuperación de la salud de la víctima, y en general el resarcimiento de los perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 33.
 
@@ -397,7 +397,7 @@ Cuando la reparación del daño sea exigible a terceros, tendrá el carácter de
 
 Los responsables del delito están obligados mancomunada y solidariamente a cubrir el importe de la reparación del daño.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 35.
 
@@ -541,7 +541,7 @@ PROHIBICION DE IR A UNA CIRCUNSCRIPCION TERRITORIAL DETERMINADA O DE RESIDIR EN 
 
 Tomando en cuenta las circunstancias del delito y las propias del sentenciado y de la víctima, así como al cónyuge de esta y demás parientes consanguíneos en línea recta o colateral hasta el segundo grado, el juez podrá disponer que aquél no vaya a un lugar determinado o resida en él. La prohibición tendrá una duración máxima de cinco años y se contará a partir de que el sentenciado obtenga su libertad o desde que cause ejecutoria la sentencia, según el caso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 1994)</small>
 
 ### CAPITULO IX.
 
@@ -611,7 +611,7 @@ Estas medidas de seguridad serán decretadas por el Juzgador considerando la per
 
 En ningún caso la medida de tratamiento impuesta por el Juez excederá del tiempo que corresponda al máximo de la pena aplicable al delito, salvo que el sujeto continúe necesitando el tratamiento, en cuyo caso, será puesto a disposición de las autoridades sanitarias para que procedan conforme a sus atribuciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE JULIO DE 1994)</small>
 
 ### CAPITULO I.
 
@@ -751,7 +751,7 @@ Cuando alguien por error cometa un delito en persona distinta de aquélla contra
 
 CONMUTACION Y SUSPENSION CONDICIONAL DE LA EJECUCION DE PENAS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 75.
 
@@ -765,7 +765,7 @@ En caso de delito continuando, la sanción podrá aumentarse hasta una mitad má
 
 Cuando una conducta o hecho pueda ser considerado bajo dos o más tipos, y bajo cada uno de ellos merezca sanciones diversas, se impondrá la mayor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2005)</small>
 
 ### CAPITULO IX.
 
@@ -1131,7 +1131,7 @@ FALSEDAD ANTE LA AUTORIDAD.
 
 Al que ante autoridad no judicial, en ejercicio de sus funciones, se conduzca con falsedad u oculte la verdad, se le aplicarán de seis meses a dos años de prisión y multa hasta por 25 unidades.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO II.
 
@@ -1203,7 +1203,7 @@ Al que no procure por los medios lícitos que tenga a su alcance, impedir la con
 
 EJERCICIO INDEBIDO DE FUNCIONES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 126.
 
@@ -1305,7 +1305,7 @@ Este delito se aplicará únicamente para los casos en que conforme a la Ley no 
 
 DELITOS COMETIDOS EN LA PROCURACION E IMPARTICION DE JUSTICIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 131.
 
@@ -1315,7 +1315,7 @@ Al servidor público que en provecho propio o ajeno, disponga ilícitamente de d
 
 DELITO DE FALSEDAD DE LOS SERVIDORES PUBLICOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 132.
 
@@ -1341,7 +1341,7 @@ Al autor de este delito se le impondrá de uno a nueve años de prisión, multa 
 
 Se requerirá la declaración previa de la contraloría Estatal, sobre la existencia del enriquecimiento ilegítimo como un requisito de procedibilidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE MARZO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2000)</small>
 
 ### CAPITULO I.
 
@@ -1399,7 +1399,7 @@ Se considerará como delito de falsedad y será sancionado igualmente, cuando el
 
 Igual sanción será aplicable al fedatario público que incurra en las conductas anteriormente previstas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JULIO DE 1994)</small>
 
 ### CAPITULO III.
 
@@ -1589,7 +1589,7 @@ Cuando sea o haya sido miembro de alguna corporación policíaca pública o priv
 
 Se entiende por pandilla, para los efectos de esta disposición, a la reunión habitual, ocasional o transitoria, de tres o más personas que, sin estar organizados con fines delictuosos, cometen en común algún delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO I.
 
@@ -1635,7 +1635,7 @@ DELITOS CONTRA LA SEGURIDAD VIAL Y LOS MEDIOS DE TRANSPORTE.
 
 Al que dispare un arma de fuego en forma que pueda resultar daño a las personas, se le impondrán de tres días a cinco años de prisión y multa hasta por 50 unidades.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO III.
 
@@ -1731,7 +1731,7 @@ No se impondrá sanción a los que ejerciendo la patria potestad o la tutela, ab
 
 DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO IV. USO INDEBIDO DE LLAMADAS TELEFONICAS
 
@@ -1785,7 +1785,7 @@ Al que sin tener título profesional o autorización para ejercer alguna profesi
 
 Se impondrá la misma sanción del Artículo anterior al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO III.
 
@@ -1801,7 +1801,7 @@ En caso de reincidencia, se impondrá de seis meses a un año de prisión y mult
 
 Cuando como consecuencia de la llamada o mensaje indebido se produzca un daño, pérdida o alteración de cualquier índole o distracción, independientemente del resultado se impondrá la pena de uno a 3 años de prisión y multa hasta por 500 unidades.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2008)</small>
 
 ## TITULO SEXTO.
 
@@ -1867,13 +1867,15 @@ Al que obtenga un lucro o cualquier satisfacción con la explotación de una o m
 
 Para este efecto, se entiende por explotación el hecho de que un adulto, teniendo otras alternativas para apoyar la economía personal o familiar, permita o induzca que una o más de las personas señaladas en párrafo precedente, trabajen con fines económicos y el ingreso aportado por el menor sea utilizado con objetivos ajenos a su desarrollo sano e integral y el de su familia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO V.
 
 TRATA DE PERSONAS.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE MAYO DE 2008)</small>
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO NOVENO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2012, DECLARÓ LA INVALIDEZ DEL DECRETO 460 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 157 Bis 1.
 
@@ -1919,7 +1921,7 @@ A Quien almacene, compre, transmita, o adquiera, por cualquier medio, el materia
 
 A quien promueva, invite, promocione, anuncie, gestione, facilite o asista a la realización de actividades en las que se ofrezca la posibilidad de observar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados en el que participen personas menores de edad o personas que no tienen capacidad para comprender el significado del hecho o no se pueda resistir a éste, se le impondrá de dos a seis años de prisión y multa de cien a trescientas unidades.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO VI.
 
@@ -1939,7 +1941,7 @@ Se impondrá una pena de prisión de diez a veinte años y multa de quinientas a
 
 A quienes realicen cualquier tipo de actos sexuales reales o simulados con una o varias de las personas a que se refiere el artículo anterior, en virtud del turismo sexual, se le impondrá una pena de ocho a veinte años de prisión y una multa de dos mil a tres mil unidades.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO III], P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPÍTULO III], P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO I.
 
@@ -1977,7 +1979,9 @@ DELITO CONTRA EL RESPETO A LOS MUERTOS.
 
 ###### ARTICULO 161.
 
-A quien promueva, solicite, ofrezca, facilite, consiga, traslade, entregue o reciba, para sí o para un tercero, a una persona para someterla a cualquier forma de explotación, ya sea sexual, trabajos o servicios impuestos de manera coercitiva, o para que le sean extirpados cualquiera de sus órganos, tejidos o sus componentes, dentro o fuera del territorio nacional, se le impondrá pena de seis a doce años y multa de cuatrocientas a novecientas unidades.
+A QUIÉN PROMUEVA, SOLICITE, OFREZCA, FACILITE, CONSIGA, TRASLADE, ENTREGUE O RECIBA A UNA PERSONA PARA SÍ O PARA UN TERCERO, RECURRIENDO A LA AMENAZA O AL USO DE LA FUERZA U OTRAS FORMAS DE COACCIÓN, AL RAPTO, AL FRAUDE, AL ENGAÑO, AL ABUSO DE PODER, A UNA SITUACIÓN DE VULNERABILIDAD, O A LA CONCESIÓN O RECEPCIÓN DE PAGOS O BENEFICIOS PARA OBTENER EL CONSENTIMIENTO DE UNA PERSONA QUE TENGA AUTORIDAD SOBRE OTRA CON FINES DE EXPLOTACIÓN, LA CUAL PODRÁ CONSISTIR EN LA EXPLOTACIÓN DE LA PROSTITUCIÓN AJENA U OTRAS FORMAS DE EXPLOTACIÓN SEXUAL, LOS TRABAJOS O SERVICIOS FORZADOS, LA ESCLAVITUD O LAS PRÁCTICAS ANÁLOGAS A LA ESCLAVITUD, LA SERVIDUMBRE O LA EXTRACCIÓN DE ÓRGANOS, LE SERÁ IMPUESTA UNA PENA DE SEIS A DOCE AÑOS Y MULTA DE CUATROCIENTAS A NOVECIENTAS UNIDADES.
+
+> <small>(REFORMADO, P.O. 3 DE MAYO DE 2008)</small>
 
 Si el sujeto pasivo es persona menor de dieciocho años o no tiene capacidad para comprender el significado del hecho o no se pueda resistir a éste, se le impondrá prisión de diez a veinte años y de mil a dos mil quinientos días de multa, y no requerirá acreditación de los hechos comisivos.
 
@@ -1989,7 +1993,7 @@ Al que gestione para que una persona que ejerza la patria potestad o la tutela s
 
 La tentativa del delito de trata de persona se sancionará con pena de prisión de acuerdo a la regla general prevista para tales efectos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO I.
 
@@ -2133,9 +2137,9 @@ DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES.
 
 DELITOS CONTRA LAS PERSONAS.
 
-## TÍTULO PRIMERO BIS. DELITOS CONTRA LA IGUALDAD DE GÉNERO
+## TITULO PRIMERO BIS. DELITOS CONTRA LA IGUALDAD DE GÉNERO
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO IV.
 
@@ -2255,7 +2259,7 @@ III.- De dos años seis meses a ocho años seis meses de prisión y multa hasta 
 
 VIOLENCIA INTRAFAMILIAR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 182.
 
@@ -2325,7 +2329,7 @@ Al que sin estar autorizado por la Ley hiciere abortar a una mujer con consentim
 
 A la mujer que se procure el aborto o consienta en él se le aplicarán de uno a tres años de prisión y multa hasta por 40 unidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 190.
 
@@ -2349,7 +2353,7 @@ IV.- Cuando se practique con el consentimiento de la mujer embarazada y a juicio
 
 Si el aborto punible lo causa un médico, enfermero o partero, además de las sanciones previstas, se les inhabilitará de dos a cinco años en el ejercicio de su profesión o actividad, y definitivamente en caso de habitualidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO I.
 
@@ -2389,7 +2393,7 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 Toda conducta sancionada por el artículo 191 Bis y 191 Bis 1 del presente Código será investigada y perseguida de oficio.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO II.
 
@@ -2401,7 +2405,7 @@ Al que atente en contra de la integridad física y psicológica de personas meno
 
 De igual manera, el mínimo y el máximo de la pena prevista en el párrafo anterior se aumentará en una mitad más con la consecuente inhabilitación para ejercer cualquier función pública de tres meses a un año, si el delito fuese cometido por personas quienes por su responsabilidad profesional o laboral mantiene relación directa temporal o permanente con la víctima.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ## TITULO SEGUNDO.
 
@@ -2473,7 +2477,7 @@ Si en razón de la omisión de auxilio sobreviene la muerte del sujeto, se impon
 
 ARTICULO 195 BIS 1.- A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y multa de 50 a 500 unidades, y en su caso, inhabilitación para ejercer su profesión por un tiempo igual al de la pena de prisión impuesta cuando ésta este relacionada con las ciencias de la salud o afines, y tratándose de servidores públicos inhabilitación para el desempeño del empleo, cargo o comisión, por un tiempo igual al de la pena de prisión impuesta.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 194.
 
@@ -2497,7 +2501,7 @@ Al que teniendo la obligación de cuidado de un incapaz de valerse por sí mismo
 
 No se aplicará pena alguna a la madre que entregue a su hijo por extrema pobreza o cuando aquél haya sido producto de una violación o inseminación artificial indebida.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO I.
 
@@ -2511,13 +2515,13 @@ Al que sabiendo que padece una enfermedad contagiosa, que a través de relacione
 
 Si la enfermedad padecida fuera incurable, se impondrá de tres a ocho años de prisión y de 500 a 1500 unidades de multa. Este delito se perseguirá de querella de la víctima u ofendida.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO II.
 
 SECUESTRO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO III.
 
@@ -2687,7 +2691,7 @@ Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que 
 
 Este delito sólo se perseguirá por querella necesaria.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO III.
 
@@ -2737,7 +2741,7 @@ Al que teniendo conocimiento de un secreto, lo revelare, si de ello pudiera resu
 
 Las sanciones serán de uno a cinco años de prisión y multa hasta por 60 unidades, cuando la revelación sea hecha por persona que lo hubiere conocido por razón de su empleo, profesión, arte u oficio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ## TITULO SEXTO.
 
@@ -2761,7 +2765,7 @@ Para los efectos de este artículo se entiende por cópula, la introducción del
 
 Al responsable del delito de violación se le impondrán de cinco a quince años y multa hasta por 100 unidades, si el sujeto pasivo es mayor de dieciocho años de edad, o de ocho a dieciséis años de prisión, y multa hasta de 200 unidades cuando el pasivo tenga entre catorce y dieciocho años de edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 207.
 
@@ -2811,9 +2815,9 @@ Los casos en que la relación sea producto del comercio carnal, se sancionarán 
 
 No se procederá contra el activo sino por querella de la mujer ofendida o de sus representantes legítimos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO II.
 
@@ -2851,7 +2855,7 @@ El delito de abuso sexual se perseguirá por querella de parte ofendida.
 
 Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE JUNIO DE 2002)</small>
 
 ### CAPITULO III.
 
@@ -2935,7 +2939,7 @@ Los documentos físicos o electrónicos u objetos que hubieren servido de medio 
 
 Siempre que sea condenado el responsable de la difamación o calumnia se ordenará la publicación de la sentencia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO IV.
 
@@ -2959,7 +2963,7 @@ Este delito se perseguirá por querella.
 
 ## TITULO UNICO.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
 
 ### CAPITULO V.
 
@@ -3167,7 +3171,7 @@ VII.- Con el fin de procurarse ilícitamente una cosa u obtener un lucro indebid
 
 La certificación relativa a la inexistencia de la cuenta o a la falta de fondos suficientes para el pago deberá realizarse exclusivamente por personal específicamente autorizado para tal efecto por la institución de crédito de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2009)</small>
 
 ###### ARTICULO 234.
 
@@ -3271,7 +3275,7 @@ Al que después de la ejecución del delito y sin haber participado en él, con 
 
 Al que con unidad de propósito incurra en más de dos ocasiones en cualquiera de las conductas previstas en el Artículo anterior, se le aplicarán de tres a siete años de prisión y multa hasta por 100 unidades.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2008)</small>
 
 ### CAPITULO III. Inexistencia del Delito................................ 325
 
@@ -3281,13 +3285,13 @@ Se le impondrá una pena de seis meses a seis años de prisión y multa de tresc
 
 De igual forma, la misma sanción del párrafo anterior se impondrá a quien intercepte, interfiera, reciba, use, altere, dañe o destruya un soporte lógico o programa de computadora o los datos contenidos en la misma, en la base, sistema o red.
 
-> <small>(ADICIONADA CON EL TITULO, CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
 
 #### SECCION QUINTA.
 
 DELITOS CONTRA EL MEDIO AMBIENTE.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
 
 ## TITULO I............................................................................... 323
 
@@ -3439,7 +3443,7 @@ INDICE:
 
 ### CAPITULO IV. Reparación de Daño.................................. 327
 
-### CAPÍTULO V. Inhabilitación de Derechos o Funciones...... 328
+### CAPITULO V. Inhabilitación de Derechos o Funciones...... 328
 
 ### CAPITULO VI. Publicación de sentencia........................... 328
 
@@ -3457,7 +3461,7 @@ INDICE:
 
 ### CAPITULO I. Reglas Generales........................................ 330
 
-### CAPÍTULO II. Exceso en las causas de licitud.................. 330
+### CAPITULO II. Exceso en las causas de licitud.................. 330
 
 ### CAPITULO III. Tentativa................................................... 331
 
@@ -3685,7 +3689,7 @@ Palacio de Gobierno, Colima, Colima, a 11 de julio de 1985.
 
 La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. ADOLFO VIRGEN SCHULTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 9 DE JULIO DE 1994.
 
@@ -3769,13 +3773,13 @@ P.O. 13 DE OCTUBRE DE 2007.
 
 P.O. 3 DE MAYO DE 2008.
 
-DECRETO NO. 286, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 128, 153 BIS 233 Y UN CAPITULO IV AL CODIGO PENAL PARA EL ESTADO DE COLIMA.
+DECRETO NO. 286, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 128, 153 BIS 233 Y UN CAPÍTULO IV AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 3 DE MAYO DE 2008.
 
-DECRETO NO. 294, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS TITULOS, CAPITULOS Y ARTICULOS AL CODIGO PENAL PARA EL ESTADO DE COLIMA.
+DECRETO NO. 294, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -3825,13 +3829,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 P.O. 27 DE AGOSTO DE 2011.
 
-DECRETO No. 353 POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTICULO 231, EL ARTICULO 10 Y SE ADICIONAN LOS ARTICULOS 227 BIS 3, 227 BIS 4 Y 227 BIS 5, DEL CODIGO PENAL DEL ESTADO DE COLIMA.
+DECRETO No. 353 POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 231, EL ARTÍCULO 10 Y SE ADICIONAN LOS ARTÍCULOS 227 BIS 3, 227 BIS 4 Y 227 BIS 5, DEL CÓDIGO PENAL DEL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 27 DE AGOSTO DE 2011.
 
-DECRETO No. 356 POR EL QUE SE REFORMAN EL PRIMER PARRAFO DEL ARTICULOS (SIC) 10 Y 27, Y SE ADICIONA EL TITULO PRIMERO BIS DENOMINADO "DELITOS CONTRA LA IGUALDAD DE GENERO", CON UN CAPITULO UNICO DENOMINADO "FEMINICIDIO", QUE CONTIENE EL ARTICULO 191 BIS 5 QUE TAMBIEN SE ADICIONA, TODOS DEL CODIGO PENAL DE COLIMA.
+DECRETO NO. 356 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DE LOS ARTÍCULOS 10 Y 27, Y SE ADICIONA EL TÍTULO PRIMERO BIS DENOMINADO "DELITOS CONTRA LA IGUALDAD DE GENERO", CON UN CAPÍTULO ÚNICO DENOMINADO "FEMINICIDIO", QUE CONTIENE EL ARTÍCULO 191 BIS 5 QUE TAMBIÉN SE ADICIONA, TODOS DEL CÓDIGO PENAL DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -3841,13 +3845,13 @@ P.O. 31 DE AGOSTO DE 2011.
 
 P.O. 8 DE OCTUBRE DE 2011.
 
-DECRETO No. 367 POR EL QUE SE REFORMA EL ARTICULO 10, 98 FRACCION I, Y SE ADICIONAN LOS ARTICULOS 202 BIS Y 202 BIS 1, ESTOS ULTIMOS QUE CONFORMARAN UN NUEVO CAPITULO IV DENOMINADO DESAPARICION FORZADA DE PERSONAS, DEL TITULO TERCERO DENOMINADO DELITOS CONTRA LA LIBERTAD PERSONAL DE LA SECCION CUARTA DENOMINADA DELITOS CONTRA LAS PERSONAS, DEL LIBRO SEGUNDO, TODOS DEL CODIGO PENAL PARA EL ESTADO DE COLIMA.
+DECRETO NO. 367 POR EL QUE SE REFORMA EL ARTÍCULO 10, 98 FRACCIÓN I, Y SE ADICIONAN LOS ARTÍCULOS 202 BIS Y 202 BIS 1, ESTOS ÚLTIMOS QUE CONFORMARAN UN NUEVO CAPÍTULO IV DENOMINADO DESAPARICIÓN FORZADA DE PERSONAS, DEL TÍTULO TERCERO DENOMINADO DELITOS CONTRA LA LIBERTAD PERSONAL DE LA SECCIÓN CUARTA DENOMINADA DELITOS CONTRA LAS PERSONAS, DEL LIBRO SEGUNDO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el (sic) "El Estado de Colima".
 
 P.O. 8 DE OCTUBRE DE 2011.
 
-DECRETO No. 369 POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 211, DEL CODIGO PENAL PARA EL ESTADO DE COLIMA.
+DECRETO No. 369 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 211, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -3868,5 +3872,9 @@ P.O. 10 DE NOVIEMBRE DE 2011.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 17 DE DICIEMBRE DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
