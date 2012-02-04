@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2011-07-23"
+last_updated: "2012-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1868,6 +1868,10 @@ En todos los casos prevalecerá el interés superior del adoptado y el respeto a
 > <small>(F. DE E., P.O. 31 DE ENERO DE 2004)</small>
 
 I.- Quien o quienes ejercen la patria potestad sobre el menor que se pretende adoptar; excepto el que haya incumplido con la obligación de suministrar alimentos;
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2012)</small>
+
+Cuando las personas referidas se presenten ante la Procuraduría de Asistencia Jurídica y Social o ante los Sistemas Estatal o Municipal para el Desarrollo Integral de la Familia, para otorgar el consentimiento en los términos de esta fracción, corresponderá a dichas autoridades trasladarlos ante el juez competente, quien levantará en el mismo acto la constancia relativa, siguiendo el procedimiento establecido para las diligencias de jurisdicción voluntaria, aun y cuando no se hubiese iniciado el trámite de adopción.
 
 II.- El tutor;
 
@@ -12766,3 +12770,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
