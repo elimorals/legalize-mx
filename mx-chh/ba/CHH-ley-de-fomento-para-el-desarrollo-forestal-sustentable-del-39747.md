@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-3974
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-22"
-last_updated: "2010-11-20"
+last_updated: "2012-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de mayo de 2004.
 
@@ -713,6 +713,10 @@ La forestación, reforestación o revegetación, de las áreas degradadas, será
 
 Para los efectos del presente capítulo, se consideran prioritarias las zonas incendiadas, especialmente las que hayan sufrido incendios reiterados.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2012)</small>
+
+Por lo que se refiere a las áreas prioritarias a las que alude el párrafo anterior, y en atención a lo dispuesto por la Ley General de Desarrollo Forestal Sustentable, se recomienda utilizar preferentemente en toda campaña de reforestación, plantas de renuevo que hayan germinado y se hayan desarrollado en la región a reforestar.
+
 ###### ARTÍCULO 62.
 
 La Secretaría, así como los Municipios en el ámbito de su competencia, promoverán programas tendientes a la forestación, reforestación y revegetación de los terrenos idóneos en el Estado y Municipios.
@@ -1006,6 +1010,12 @@ LIC. SERGIO ANTONIO MARTÍNEZ GARZA.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE NOVIEMBRE DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
