@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2011-09-03"
+last_updated: "2012-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
+LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -173,13 +173,15 @@ Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado debe
 
 Los titulares de las dependencias, para el despacho de los asuntos de su competencia, se auxiliarán de Subsecretarios, Directores Generales, Directores, Jefes de Departamento, y demás servidores públicos que establezca el reglamento interior respectivo y autorice el presupuesto de egresos. Los titulares y demás funcionarios que establezca el Reglamento Interior de cada dependencia, tendrán fe pública respecto a los actos que realicen en el ámbito de su competencia y respecto a la certificación o constancia de los documentos y archivos que obren en su poder con motivo de sus atribuciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 13.
 
-Al frente de la Fiscalía General del Estado, habrá un Fiscal General, quien se auxiliará en el ejercicio de sus funciones por las siguientes Fiscalías Especializadas: De Seguridad Pública y Prevención del Delito; De Investigación y Persecución del Delito; De Atención a Víctimas y Ofendidos del Delito; De Control, Análisis y Evaluación; y, de Ejecución de Penas y Medidas Judiciales; así como los demás órganos que determine su Ley Orgánica.
+Al frente de la Fiscalía General del Estado, habrá un Fiscal General, quien se auxiliará en el ejercicio de sus funciones por las siguientes Fiscalías Especializadas: De Seguridad Pública y Prevención del Delito; en Atención a Mujeres Víctimas del Delito por razones de Género; De Investigación y Persecución del Delito; De Atención a Víctimas y Ofendidos del Delito; De Control, Análisis y Evaluación; y, de Ejecución de Penas y Medidas Judiciales; así como los demás órganos que determine su Ley Orgánica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 El Fiscal General del Estado será nombrado por el Gobernador y sometido a la aprobación del Congreso del Estado, conforme al siguiente procedimiento:
 
@@ -195,11 +197,17 @@ V. Una vez que el Congreso apruebe el nombramiento del Fiscal General del Estado
 
 VI. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
 El procedimiento descrito en las fracciones anteriores, se realizará cada vez que se amerite el nombramiento de un nuevo Fiscal General del Estado.
 
-Durante el tiempo que dure el procedimiento de nombramiento del Fiscal General del Estado, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+
+Durante el tiempo que dure el procedimiento de nombramiento del Fiscal General del Estado, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General.
 
 ###### ARTICULO 14.
 
@@ -1920,3 +1928,23 @@ P.O. 3 DE SEPTIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 4 DE FEBRERO DE 2012.
+
+DECRETO No. 386/2011 II P.O. POR EL QUE SE REFORMA EL ARTÍCULO 13, PRIMER PÁRRAFO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Poder Ejecutivo Estatal, para organizar la nueva estructura administrativa de la Fiscalía General del Estado, y para reasignar las partidas conducentes que sean necesarias en el Presupuesto de Egresos de 2011.
+
+P.O. 4 DE FEBRERO DE 2012.
+
+DECRETO No. 733/2012 V P.E. POR EL QUE SE REFORMA EL DECRETO No. 386/2011 II P.O., DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
