@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2011-06-18"
+last_updated: "2012-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -637,15 +637,15 @@ a) Administrar libremente su hacienda y los bienes destinados al servicio públi
 
 b) Remitir mensualmente al Congreso, a más tardar el día 15, la cuenta detallada de los ingresos y egresos habidos en el mes anterior;
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
 
-c) Autorizar y remitir anualmente al Congreso para su aprobación, la iniciativa de ley de ingresos municipales para el siguiente año, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, con motivo del cambio de gobierno municipal; en caso de incumplimiento quedará en vigor la ley de ingresos municipales del ejercicio fiscal vigente;
+c) Autorizar y remitir anualmente al Congreso, para su aprobación, a más tardar el 31 de octubre y hasta el 15 de noviembre de cada tres años, cuando con motivo del cambio de gobierno municipal, la iniciativa de ley general de ingresos municipales para el siguiente año; en caso de incumplimiento quedará la (sic) vigente la ley general de ingresos municipales del ejercicio fiscal vigente.
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 d) Aprobar el dictamen de revisión de la cuenta pública municipal del ejercicio fiscal que presenten conjuntamente la comisión de hacienda y síndico municipal, con base en el proyecto que presente la tesorería municipal, así como del informe de revisión que entregue la contraloría municipal, y remitirla al Congreso a más tardar el último día de febrero del ejercicio siguiente, para los efectos señalados en el artículo 33 fracción XI de la Constitución.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 La aprobación del dictamen de revisión por el Cabildo no impide que se finquen responsabilidades a los servidores públicos que hayan incurrido en ellas, si del resultado de la revisión se determinan faltas administrativas ello en los términos que establece la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
@@ -1863,7 +1863,7 @@ Dado en Palacio de Gobierno, a los 30 días del mes de marzo del año dos mil un
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA, Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE NOVIEMBRE DE 2003.
 
@@ -1916,5 +1916,9 @@ P.O. 14 DE AGOSTO DE 2010.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 18 DE JUNIO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
