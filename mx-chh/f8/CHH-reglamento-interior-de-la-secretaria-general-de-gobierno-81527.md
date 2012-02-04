@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-general-de-gobierno-81527"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-25"
-last_updated: "2011-05-25"
+last_updated: "2012-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE CHIHUAHUA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE CHIHUAHUA
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 25 de mayo de 2011.
 
@@ -1007,6 +1007,10 @@ I. Asesorar jurídicamente al Secretario y, cuando lo soliciten, a las dependenc
 
 II. Revisar los proyectos de iniciativas de leyes y decretos del Ejecutivo y dar a los mismos el trámite que corresponda;
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2012)</small>
+
+II Bis. Representar al Secretario en los juicios de amparo en los que éste sea señalado como autoridad responsable, así como en cualquier procedimiento contencioso en el que sea parte o intervenga en cualquier forma como titular de la Secretaría, con todas las facultades que se requieran para dicha representación, incluyendo, sin limitar, las de rendir informes, hacer promociones, concurrir a audiencias, rendir pruebas, formular alegatos, promover incidentes e interponer recursos, así como acreditar delegados con todas las facultades permitidas por la normatividad aplicable;
+
 III. Elaborar los proyectos de iniciativas de ley o de decreto, así como cualquiera otra disposición del Ejecutivo o del Secretario, conforme a las instrucciones de éste;
 
 IV. Supervisar la aplicación de la normatividad correspondiente por parte de las Unidades Orgánicas de la Secretaría;
@@ -1074,6 +1078,10 @@ II. Brindar la substanciación debida a los recursos administrativos que competa
 III. Representar al Ejecutivo en los procedimientos y juicios derivados de actos administrativos que le competan, en todas sus instancias y con todas las facultades, salvo en los casos en que la Consejería Jurídica asuma dicha representación;
 
 IV. Preparar y tramitar, en su caso y cuando no lo asuma la Consejería Jurídica, los documentos que permitan al Ejecutivo o al Secretario la comparecencia a juicio de amparo con cualquier carácter que se le atribuya a los mismos en el procedimiento;
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2012)</small>
+
+IV Bis. Representar al Secretario en los juicios de amparo en los que éste sea señalado como autoridad responsable, así como en cualquier procedimiento contencioso en el que sea parte o intervenga en cualquier forma como titular de la Secretaría, con todas las facultades que se requieran para dicha representación, incluyendo, sin limitar, las de rendir informes, hacer promociones, concurrir a audiencias, rendir pruebas, formular alegatos, promover incidentes e interponer recursos, así como acreditar delegados con todas las facultades permitidas por la normatividad aplicable;
 
 V. Llevar un registro general de firmas de funcionarios y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo; y
 
@@ -1250,3 +1258,9 @@ Dado en la residencia del Poder Ejecutivo, en la ciudad de Chihuahua, Chih., a l
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2012
+
+ÚNICO: El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
