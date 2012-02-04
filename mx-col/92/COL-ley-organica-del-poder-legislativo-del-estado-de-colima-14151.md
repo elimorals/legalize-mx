@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2009-12-26"
+last_updated: "2012-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DEL 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -77,7 +77,7 @@ El Congreso funcionará en reuniones que se denominarán sesiones.
 
 El Poder Legislativo tendrá su residencia en la capital del Estado, sin perjuicio de que pueda sesionar en cualquier lugar del mismo, que para el efecto acuerde la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 6º.
 
@@ -89,7 +89,7 @@ El primer período iniciará precisamente el primero de octubre y concluirá el 
 
 Se consideran días hábiles para el trabajo legislativo y parlamentario, todos los comprendidos dentro de cada uno de los períodos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7º.
 
@@ -1165,7 +1165,9 @@ III.- Mayoría calificada, la correspondiente a cuando menos las dos terceras pa
 
 Cuando en la Constitución o en una ley se señale una mayoría diferente, se estará a lo que dispongan dichos ordenamientos. En todos los casos, cuando la mayoría resulte en fracciones, se estará al entero inmediato superior.
 
-Cuando en la presente ley o en su reglamento no se señale expresamente el tipo de mayoría requerida, se entenderá que deberá ser absoluta.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
+
+Cuando en la presente Ley o en su Reglamento no se señale expresamente el tipo de mayoría requerida, se entenderá que deberá ser simple.
 
 ###### ARTICULO 96.
 
@@ -1189,7 +1191,7 @@ DE LAS FACULTADES DEL CONGRESO.
 
 DE LAS FACULTADES DEL CONGRESO EN LA ELECCION O NOMBRAMIENTO DE GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 99.
 
@@ -1303,7 +1305,7 @@ Dado en el Poder Legislativo a los veintinueve días del mes de enero de mil nov
 
 C. ENRIQUE A. SALAZAR ABAROA, DIPUTADO PRESIDENTE.- Rúbrica.- C. JORGE LUIS PRECIADO RODRIGUEZ, DIPUTADO SECRETARIO.- Rúbrica.- C. JORGE A. GAYTAN GUDIÑO, DIPUTADO SECRETARIO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 27 DE MAYO DE 2000.
 
@@ -1386,3 +1388,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
