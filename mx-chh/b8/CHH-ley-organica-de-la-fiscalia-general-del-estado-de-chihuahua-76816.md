@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2011-09-03"
+last_updated: "2012-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
 
-LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE CHIHUAHUA
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -143,15 +143,23 @@ I. Las Fiscalías Especializadas en Seguridad Pública y Prevención del Delito;
 
 II. Las Fiscalías Especializadas en Investigación y Persecución del Delito;
 
-III. La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito;
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2012)</small>
 
-IV. La Fiscalía Especializada en Control, Análisis y Evaluación;
+III. La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género;
 
-V. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales; y
+IV. La Fiscalía Especializada en Atención a Víctimas y Ofendidos del Delito;
 
-VI. Los agentes del Ministerio Público.
+V. La Fiscalía Especializada en Control, Análisis y Evaluación;
 
-El Fiscal General del Estado y los Fiscales Especializados en la Investigación y Persecución del Delito; en Control, Análisis y Evaluación, y en la Ejecución de Penas y Medidas Judiciales, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
+VI. La Fiscalía Especializada en Ejecución de Penas y Medidas Judiciales; y
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2012)</small>
+
+VII. Los agentes del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2012)</small>
+
+El Fiscal General del Estado y los Fiscales Especializados en la Investigación y Persecución del Delito; en Atención a Mujeres Víctimas del Delito por Razones de Género; en Control, Análisis y Evaluación, y en la Ejecución de Penas y Medidas Judiciales, intervendrán como representantes del Ministerio Público, de acuerdo con las facultades otorgadas por la ley y las expresamente conferidas por el Fiscal General del Estado.
 
 ###### Artículo 4.
 
@@ -238,6 +246,30 @@ III.- Zona Sur, con sede en la ciudad de Hidalgo del Parral, y comprende los dis
 IV.- Zona Occidente, con sede en Ciudad Cuauhtémoc, y comprende los distritos judiciales de Benito Juárez, Guerrero, Rayón y Arteaga.
 
 Las fiscalías a que se refiere este artículo, ejercerán las atribuciones a que se refiere el apartado B del artículo 2° de esta Ley, con excepción de las que sean exclusivas del Fiscal General.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE FEBRERO DE 2012)</small>
+
+###### Artículo 8 Bis.
+
+La Fiscalía Especializada en Atención a Mujeres Víctimas del Delito por Razones de Género, tendrá a su cargo:
+
+A. El ejercicio de las atribuciones a que se refiere el Apartado B del artículo 2 de esta Ley, cuando se trate de hechos en los que se haya privado de la vida a mujeres por razones de violencia de género; igualmente en los casos de los siguientes hechos o conductas delictivas en que la víctima sea mujer:
+
+a) Que atenten contra la libertad y seguridad sexual y el normal desarrollo psicosexual;
+
+b) Violencia familiar;
+
+c) Que atenten contra la obligación alimentaria;
+
+d) Desaparición de mujeres respecto de hechos no vinculados a la delincuencia organizada, y
+
+e) Discriminación por razones de género.
+
+B. La atención psicológica, médica y otras, en los casos de violencia contra las mujeres en los delitos o hechos contemplados en el apartado A de este artículo, en coordinación con otros órganos o unidades administrativas de la Fiscalía General que proporcionen los servicios a que se refiere el presente apartado.
+
+C. La canalización a víctimas u ofendidos, en los casos de los apartados anteriores, hacia las dependencias o instituciones que proporcionen los servicios de carácter tutelar, asistencial, preventivo, educacional y demás de contenido similar, así como la vigilancia de su debida atención.
+
+Este órgano estará a cargo de un Fiscal Especializado, quien contará con el apoyo de cuatro Coordinaciones Regionales de Ministerio Público y Policía Ministerial de Investigación del Delito, de las unidades administrativas necesarias y demás personal que requiera para el cumplimiento de sus funciones. En todo caso, el personal adscrito a esta Fiscalía deberá contar con el perfil especializado que corresponda a la naturaleza propia de sus funciones.
 
 ###### Artículo 9.
 
@@ -518,3 +550,23 @@ DECRETO No. 393/2011 II P.O. POR EL QUE SE ADICIONA EL ARTICULO 5 BIS A LA LEY O
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
+
+P.O. 4 DE FEBRERO DE 2012.
+
+DECRETO No. 386/2011 II P.O. POR EL QUE SE REFORMAN LA FRACCIÓN III DEL PÁRRAFO PRIMERO, RECORRIENDO SU CONTENIDO ACTUAL Y SUBSECUENTES; Y EL SEGUNDO PÁRRAFO, DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN VII AL PRIMER PÁRRAFO DEL ARTÍCULO 3, Y UN ARTÍCULO 8 BIS; TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Titular del Poder Ejecutivo Estatal, para organizar la nueva estructura administrativa de la Fiscalía General del Estado, y para reasignar las partidas conducentes que sean necesarias en el Presupuesto de Egresos de 2011.
+
+P.O. 4 DE FEBRERO DE 2012.
+
+DECRETO No. 733/2012 V P.E. POR EL QUE SE REFORMA EL DECRETO No. 386/2011 II P.O., DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
