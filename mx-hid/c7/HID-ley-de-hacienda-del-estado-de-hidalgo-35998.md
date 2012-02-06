@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2012-01-30"
+last_updated: "2012-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 30 DE ENERO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -342,6 +340,8 @@ II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en di
 III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 25 de esta Ley, en las que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
 IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguiente (sic) al en que ocurra el hecho.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1101,6 +1101,8 @@ Este impuesto se determinará a la tasa del 4.5% de la base gravable que estable
 
 Este impuesto se causará en el momento que los Organismos Descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas y Administración o a través de transferencia electrónica de fondos de forma definitiva.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 66.
@@ -1420,6 +1422,8 @@ XIV.- Por ratificación de firmas 2 salarios mínimos
 Por la cancelación de actos a que se refieren las fracciones VI, VII y X de este Artículo, se pagará el 50% del valor de la inscripción principal.
 
 Cuando el valor catastral o el valor fiscal del avalúo, del acto que se trate de inscribir, difieran entre sí, se atenderá al mayor para fijar el monto de los derechos que deberán cubrirse.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO [N. DE E. ANTES ARTÍCULO 59], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
