@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2007-11-30"
+last_updated: "2012-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
+LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -35,7 +35,7 @@ El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quinc
 
 DECRETO NUMERO 66
 
-LEY DE TRANSITO Y TRANSPORTES DEL ESTADO DE SINALOA
+LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
 ## TITULO PRIMERO
 
@@ -501,9 +501,15 @@ Los vehículos de servicio público de transporte y escolar no podrán circular 
 
 SECCION OTROS DISPOSITIVOS
 
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 69.
 
-Los automóviles deberán estar provistos de cinturones de seguridad, cuando menos en los asientos delanteros.
+Los vehículos deberán estar provistos de cinturones de seguridad en todos sus asientos y de los aditamentos especiales para los infantes que esta Ley determina.
+
+Para los efectos de éste apartado, infante es aquella persona cuya edad no rebasa los 12 años.
+
+Según su fisionomía, los infantes deberán viajar asegurados con sistemas de protección adicionales a los del vehículo automotriz.
 
 ###### ARTICULO 70.
 
@@ -593,9 +599,23 @@ Queda prohibido a toda persona conducir un vehículo en estado de ebriedad o baj
 
 Los conductores deben tener cuidado para evitar atropellamientos o accidentes de tránsito, guardando la distancia prudente de vehículo a vehículo; y cuando observen sobre el arroyo de la vía pública a cualquier persona deberán disminuir su velocidad hasta el mínimo.
 
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+
 ###### ARTICULO 90.
 
-Al manejar todo conductor y sus acompañantes deberán tener el cinturón de seguridad ajustado, cuando menos los ocupantes de los asientos delanteros; los motociclistas deberán portar casco protector.
+Al manejar, todo conductor y sus acompañantes deberán tener el cinturón de seguridad ajustado. Si el acompañante es un infante, deberá hacerlo de la manera siguiente:
+
+I. Los infantes con un peso hasta de 10 kilos, deberán ir en silla de seguridad, colocada en la parte posterior mirando hacia atrás;
+
+II. Los infantes con un peso de 10 hasta 16 kilos, deberán ir en el asiento trasero con silla de seguridad mirando hacia adelante;
+
+III. Los infantes con un peso de más de 16 kilos, con estatura menor a ciento cuarenta y cinco centímetros, deberán viajar en el asiento trasero, colocados en asientos elevados y sujetados con el cinturón de seguridad.
+
+Queda prohibido circular con menores de 12 años de edad situados en los asientos delanteros del vehículo, salvo que se utilicen dispositivos homologados al efecto. Excepcionalmente, cuando la estatura del infante sea igual o superior a los ciento cuarenta y cinco centímetros, los menores de doce años podrán utilizar como tal dispositivo el propio cinturón de seguridad para adultos de que estén dotados los asientos delanteros.
+
+Los conductores cuando presten el servicio público de transporte a terceros, no se considerarán responsables del incumplimiento de esta disposición por parte de los ocupantes del vehículo.
+
+Los motociclistas y sus acompañantes deberán portar el casco protector.
 
 ###### ARTICULO 91.
 
@@ -1806,3 +1826,17 @@ P.O. 30 DE NOVIEMBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con un plazo de 180 días para realizar las modificaciones correspondientes al Reglamento General de la Ley de Tránsito y Transportes del Estado de Sinaloa; a su vez las autoridades competentes implementaran una adecuada campaña pública de información a los conductores de vehículos automotores, exhortándolos a incorporar los equipos y aditamentos necesarios a sus vehículos a fin de cumplir con lo establecido en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no transcurra el plazo establecido en el artículo anterior las autoridades competentes no podrán infraccionar a las personas que no cumplan con lo establecido en el presente decreto.
