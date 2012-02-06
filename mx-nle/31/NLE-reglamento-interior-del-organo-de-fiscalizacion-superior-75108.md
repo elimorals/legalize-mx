@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-organo-de-fiscalizacion-superior-75108"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-26"
-last_updated: "2010-05-26"
+last_updated: "2012-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE FECHA 6 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 26 de mayo de 2010.
 
@@ -1220,3 +1222,15 @@ Dado en la sede oficial del Órgano, en la ciudad de Monterrey, Nuevo León a lo
 EL C. AUDITOR GENERAL DEL ESTADO DE NUEVO LEÓN
 
 C.P. SERGIO MARENCO SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2012.
+
+Artículo Primero. El presente Reglamento entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. A partir de la entrada en vigor del presente Reglamento se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha veintiséis de mayo de dos mil diez.
+
+Artículo Tercero. El trámite y despacho de los asuntos a cargo de las unidades administrativas que con motivo de la entrada en vigor del presente Reglamento se modifican o extinguen, corresponderá a las unidades administrativas que éste determina, conforme a la distribución de atribuciones y facultades previstas en el mismo.
+
+Artículo Cuarto. Las menciones contenidas en los acuerdos, resoluciones o cualquier otro instrumento relacionado con la actividad de la Auditoría Superior del Estado a las unidades administrativas previstas en el Reglamento que se abroga, se entenderán referidas a las establecidas en el presente Reglamento, conforme a la distribución de atribuciones y facultades previstas en el mismo.
