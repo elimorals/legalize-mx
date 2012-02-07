@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-finanzas-y-44463"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-25"
-last_updated: "2006-01-13"
+last_updated: "2012-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guarrero, el viernes 25 de marzo de 2005.
 
@@ -63,7 +63,7 @@ C A P I T U L O II
 
 DE LA ORGANIZACION DE LA SECRETARIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2006)</small>
 
 ###### ARTICULO 5o.
 
@@ -75,7 +75,9 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 1.0.2.- Delegación Administrativa.
 
-1.0.3.- Coordinación de Evaluación y Seguimiento.
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2012)</small>
+
+1.0.3.- Unidad de Evaluación y Seguimiento.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2006)</small>
 
@@ -283,29 +285,49 @@ VIII. Gestionar y comprobar el fondo revolvente ante la Dirección General de Te
 
 IX. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría de Finanzas y Administración y su superior jerárquico inmediato.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 11.
 
-Corresponde a la Coordinación de Evaluación y Seguimiento el despacho de las atribuciones siguientes:
+Corresponde a la Unidad de Evaluación y Seguimiento (UES) el despacho de las atribuciones siguientes:
 
-I. Supervisar la atención que se brinde a los acuerdos concretos por el Secretario de Finanzas y Administración con el C. Gobernador del Estado, con las diferentes unidades administrativas, con las entidades del gobierno estatal y con las demás dependencias del sector público, a fin de garantizar su cumplimiento;
+I. Monitorear la atención que se brinde a los acuerdos del Secretario de Finanzas y Administración con el C. Gobernador, así como con las diferentes dependencias y entidades del sector público, a fin de garantizar su cumplimiento.
 
-II. Dar seguimiento a las aportaciones financieras del Gobierno del Estado, a través de los diversos fideicomisos instituidos para la implementación de programas específicos;
+II. Monitorear la transparencia y rendición de cuentas de las aportaciones financieras que transfiere la federación al Gobierno del Estado, para la implementación de programas y convenios específicos.
 
-III. Obtener los productos informativos generados por los sistemas computacionales de la Secretaría de Finanzas y Administración, para entregar información veraz y oportuna en primera instancia, al Secretario de Finanzas y Administración y posteriormente al C. Gobernador del Estado;
+III. Gestionar ante la Unidad de Política y Control Presupuestario de la Secretaría de Hacienda y Crédito Público, recursos adicionales para fortalecer los programas del Estado.
 
-IV. Integrar y procesar la información estadística y financiera necesaria para la elaboración del Informe de Gobierno del Ejecutivo Estatal, correspondiente a la Secretaría de Finanzas y Administración;
+IV. Capacitar y asesorar a los ejecutores de los fondos del Ramo 33 (Municipios y Entidades del Gobierno), para informar sobre sus resultados (Formato Único, Recursos Nivel Fondo y Ficha Técnica de Indicadores) al Sistema de Formato Único (SFU) de la Secretaría de Hacienda y Crédito Público, conforme a la normatividad emitida.
 
-V. Emitir opinión y coadyuvar en la elaboración y/o modificación de la estructura orgánica y sus atribuciones, de las dependencias de las Administración Pública Estatal;
+V. En coordinación con la Dirección General de Transparencia y Acceso a la Información, de la Contraloría General del Estado, validar los indicadores de desempeño que se subirán al portal de transparencia de cada Dependencia y Entidad del Gobierno del Estado.
 
-VI. Dar seguimiento a la publicación en el Periódico Oficial del Gobierno del Estado en relación al calendario de entrega y monto estimado de los recursos que por concepto de participaciones en impuestos federales, recibirán los municipios del Estado de Guerrero, durante el ejercicio fiscal correspondiente;
+VI. Monitorear la evolución de los indicadores de los programas y proyectos derivados del Programa Operativo Anual (POA) de cada una de las unidades administrativas de la Secretaría de Finanzas y Administración.
 
-VII. Dar seguimiento a la publicación en el Periódico Oficial del Gobierno del Estado en relación a la distribución y calendarización para la ministración de los recursos del Fondo IV del Ramo 33 “Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal” (Fortamun-DF), durante el ejercicio fiscal correspondiente;
+VII. Participar en la elaboración de la estructura programática, exposición de motivos y proyecto de presupuesto de egresos del Estado con base en la Gestión para Resultados (GpR).
 
-VIII. Dar seguimiento a la publicación trimestral en el Periódico Oficial del Gobierno del Estado, en relación al monto de las participaciones entregadas a los municipios por cada uno de los conceptos participables;
+VIII. Estandarizar el método de planeación de acciones del Gobierno del Estado (Dependencias y OPD´s), Órganos Autónomos y Municipios, a través de la capacitación de los servidores públicos en Metodología de Marco Lógico (MML).
 
-IX. Dar seguimiento al envío mensual, a la Unidad de Coordinación Hacendaria con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, de los montos de las participaciones entregadas a cada uno de los municipios del Estado de Guerrero, por cada uno de los conceptos participables; y
+IX. Proponer criterios generales para elaborar la planeación estratégica de las Dependencias, Entidades y Municipios del Estado, a través de la Metodología de Marco Lógico.
 
-X. Las demás que las disposiciones legales le atribuyan, así como aquellas que le confiera el titular de la Secretaría de Finanzas y Administración.
+X. Coordinar la construcción y actualización de las Matrices de Indicadores para Resultados (MIR) de los programas presupuestarios del Estado.
+
+XI. Alinear los objetivos de los programas y proyectos del presupuesto de egresos, a los objetivos del Plan Estatal de Desarrollo (PED).
+
+XII. Monitorear los indicadores de desempeño (estratégicos y de gestión) de las MIR de las Dependencias y Entidades, a través del Sistema Estatal de Evaluación de Desempeño.
+
+XIII. Proponer adecuaciones e innovaciones técnicas al Sistema Estatal de Evaluación de Desempeño.
+
+XIV. Gestionar capacitación y asesoría técnica en Gestión para Resultados (Presupuesto basado en Resultados, Sistema de Evaluación del Desempeño y MML) con organismos o entes externos con experiencia probada en el tema.
+
+XV. Gestionar recursos económicos ante la Federación y otros organismos nacionales e internacionales, para a evaluación de programas del Estado.
+
+XVI. Elaborar un Plan Anual de Evaluaciones (PAE) para el Estado, y emitir los lineamientos generales para su ejecución.
+
+XVII. Proponer y coordinar la evaluación de programas del Estado, con organismos o entes externos especializados en el tema.
+
+XVIII. Publicar en el portal del Gobierno del Estado y otros medios disponibles, los avances en materia de Seguimiento y Evaluación (SyE).
+
+XIX. Las demás disposiciones legales que le atribuyan, así como aquellas que le confiera el titular de la Secretaría de Finanzas y Administración.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2006)</small>
 
@@ -1261,8 +1283,16 @@ C. C.P. RAFAEL ACEVEDO ANDRADE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 13 DE ENERO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En el Poder Ejecutivo, cada dependencia y entidad otorgará los recursos humanos y materiales para la conformación de la Instancia Técnica de Evaluación del Desempeño (Unidad de Evaluación y Seguimiento) de la Secretaría de Finanzas y Administración. Dicha Unidad deberá elaborar el Manual de Procedimiento en el que se definirán las reglas para la organización de los trabajos y el funcionamiento de la misma, dentro de los sesenta días siguientes a la entrada en vigor del presente acuerdo.
+
+TERCERO.- El personal que conforme al artículo sexto transitorio de la Ley Número 454 de Presupuesto y Disciplina Fiscal del Estado de Guerrero, cada una de las dependencias y entidades aporten (sic) para conformar la unidad de evaluación y seguimiento a cargo de la Secretaría de Finanzas y Administración, conservará su relación laboral con las Instituciones a quienes representen, y continuará bajo, su dirección y dependencia, por lo que no se establecerán relaciones de carácter laboral, ni se dará lugar a sustentaciones patronales o de carácter solidario.
