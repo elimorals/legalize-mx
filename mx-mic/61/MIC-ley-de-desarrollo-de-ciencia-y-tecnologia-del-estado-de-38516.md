@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-de-ciencia-y-tecnologia-del-estado-de-38516"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-29"
-last_updated: "2004-03-29"
+last_updated: "2012-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE DESARROLLO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE MICHOACAN
 
-LEY DE DESARROLLO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE MICHOACAN
+LEY DE DESARROLLO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA LEY DE DESARROLLO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. 7 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 29 de marzo de 2004.
 
@@ -866,3 +868,53 @@ PRESIDENTE.- DIP. RAÚL MORÓN OROZCO.- SECRETARIO.- DIP. RAFAEL RAMÍREZ SÁNCH
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 04 cuatro días del mes de marzo del año 2004 dos mil cuatro.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+En plazo no mayor a treinta días contados a partir del 14 de Febrero del 2012, deberá estar integrado los Consejos Directivo y Consultivo, y nombrado su Director General.
+
+En tanto no sean nombrados los Consejeros del Consejo Directivo y los integrantes del Comité Consultivo así como el Director General, los que actualmente realizan dicha función en el COECYT permanecerán en su cargo.
+
+###### ARTÍCULO TERCERO.
+
+A partir del 14 de Enero del 2012, el CECTI tendrá treinta días para formular y presentar al Gobernador el Programa Estatal de Ciencia, Tecnología e Innovación. El Programa deberá ser publicado igualmente en el Periódico Oficial.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador deberá disponer lo necesario para la modificación del contrato del actual Fideicomiso de Fomento al Desarrollo de la Ciencia y la Tecnología en el Estado, de conformidad con la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador tendrá un plazo de noventa días naturales para realizar los reglamentos correspondientes a partir de la publicación de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+El patrimonio, incluyendo bienes muebles e inmuebles, derechos monetarios y no monetarios, archivos, papelería, programas, investigaciones o procesos similares en curso con que a la fecha cuente el COECYT y el presupuesto de egresos del mismo que no se haya ejercido a la fecha, pasará a dominio del CECTI.
+
+###### ARTÍCULO SÉPTIMO.
+
+Para los efectos de lo dispuesto en la fracción II del artículo 4 de la presente Ley, los recursos destinados al CECTI deberán incrementarse anualmente, hasta alcanzar el porcentaje referido, en un término de tres años a partir del ejercicio fiscal del año 2012 dos mil doce.
+
+###### ARTÍCULO OCTAVO.
+
+Lo dispuesto en la fracción XVI del artículo 14 de la presente Ley, con relación a destinar más del diez por ciento para gasto corriente entrará en vigencia a partir de que el Congreso del Estado destine el recurso establecido en el artículo 4 fracción II de esta Ley.
+
+###### ARTÍCULO NOVENO.
+
+Los derechos laborales del personal que actualmente labora en el COECYT quedarán a salvo, convirtiéndose el CECTI en patrón sustituto.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los convenios, contratos y obligaciones vinculadas al COECYT, serán cumplimentados en sus términos por el CECTI.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se abroga la Ley de Desarrollo de Ciencia y Tecnología del Estado de Michoacán, publicada en el Periódico Oficial el día 29 de marzo del 2004.
