@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2011-10-29"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
-LEY ESTATAL DE EDUCACION
+LEY ESTATAL DE EDUCACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -96,6 +96,14 @@ X. Perspectiva de género, forma de determinar el proceso educativo mediante una
 XI. Minoría Cultural, grupo significativo de población con ciertas características comunes que permiten identificar a sus miembros de entre todos los habitantes de la comunidad a la que pertenecen, y suelen ser de tipo étnico, religioso, lingüístico o más genéricamente, sociales y culturales;
 
 XII. Organismo Descentralizado, entidad de la administración pública paraestatal, con personalidad jurídica, competencia y patrimonio propios cualquiera que sea la estructura legal que adopte, constituida con fondos o bienes provenientes de la Administración Pública; su objeto es la prestación de un servicio público o social.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+XIII. Competencia: Conjunto de habilidades, conocimientos, destrezas y aptitudes a desarrollar y acreditar por el educando, mismas que deberán ser detectadas y fomentadas por los docentes con la finalidad de potencializarlas.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+XIV. Sistema de Competencias Educativas: Conjunto de procesos o elementos para la detección oportuna de capacidades y habilidades de los estudiantes a fin de impulsar su desarrollo; tanto para perfilar una carrera, como para prepararlos para la vida.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2010)</small>
 
@@ -373,9 +381,13 @@ XL. Crear y sostener un sistema estatal de estímulos para estudiantes del Estad
 
 XLI. Promover la creación y dirigir el funcionamiento de un ente gubernamental en el Estado encargado de promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablen en el territorio estatal, así como de la difusión del conocimiento y disfrute de la riqueza cultural de los grupos étnicos tarahumara, pima, tepehuano y guarojío, asentados en la Entidad, a efecto de facilitarles el acceso y permanencia a la educación en general y a la formación para la vida, el trabajo y la productividad.
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
 
-XLII. Establecer los mecanismos o instrumentos debidamente reglamentados, que permitan garantizar la atención médica al alumnado menor de edad, así como la cobertura de todos aquellos daños causados a las instalaciones, equipos y material de los centros escolares de educación básica.
+XLII. Establecer los mecanismos e instrumentos debidamente reglamentados, que permitan garantizar la atención médica o psicológica al alumnado menor de edad cuando dicha necesidad sea detectada, cualquiera que haya sido su origen, y para el buen desempeño de sus actividades escolares; así como la cobertura de todos aquellos daños causados a las instalaciones, equipos y material de los centros escolares de educación básica.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+XLIII. Coadyuvar en la actualización y vigilar la aplicación del Sistema de Competencias Educativas.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -623,11 +635,11 @@ IV. La asociación de padres y madres de familia; y
 
 V. La asociación de alumnas y alumnos en los niveles de primaria y secundaria.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-En la impartición de educación para menores de edad, se tomarán medidas que aseguren a las y los educandos la protección y el cuidado necesarios para preservar su integridad física, emocional, social y cultural sobre la base del respeto a la dignidad y a los derechos humanos.
+En la impartición de educación para menores de edad, se tomarán medidas que aseguren a las y los educandos la protección y el cuidado necesarios para preservar su integridad física, psicológica, social y cultural sobre la base del respeto a la dignidad y a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1687,9 +1699,13 @@ II. Colaborar para una mejor integración de la comunidad escolar, así como el 
 
 III. Proponer las medidas que se estimen adecuadas para alcanzar los propósitos de la educación;
 
-IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos; y
+IV. Informar a la autoridad educativa inmediata, sobre cualquier irregularidad de que sean objeto las y los educandos; y (sic)
 
 V. Abstenerse de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+VI. Informar anualmente en asamblea, a los integrantes de la asociación por conducto de su mesa directiva, en forma escrita, un mes antes del último día del ciclo escolar, sobre las actividades desempeñadas dentro de su gestión, incluyendo la administración de los recursos a su cargo. Además, deberá ser presentado dicho informe en el mismo plazo ante la Autoridad Educativa inmediata que corresponda.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1701,21 +1717,37 @@ V. Abstenerse de intervenir en los aspectos pedagógicos y laborales de los esta
 
 Los Consejos de Participación Social en la Entidad son órganos de consulta, orientación y apoyo a la educación. Las autoridades educativas promoverán, de conformidad con los lineamientos que establezca la Autoridad Educativa Federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos. Para su operatividad, deberá constituirse un Consejo de Participación Social a nivel estatal, uno por cada municipio y uno por cada escuela.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 136.
 
-El Consejo Estatal de Participación Social estará constituido por padres y madres de familia y representantes de sus asociaciones, docentes e integrantes de su organización sindical, Instituciones Formadoras de Profesionales de la Educación, autoridades educativas estatales y municipales, así como por miembros de los diferentes sectores sociales del Estado especialmente interesados en la educación, teniendo las siguientes atribuciones:
+El Consejo Estatal de Participación Socia l estará constituido por padres y madres de familia y representantes de sus asociaciones, docentes e integrantes de su organización sindical, instituciones formadoras de profesionales de la educación, autoridades educativas estatales y municipales, así como por miembros de los diferentes sectores sociales y productivos del Estado especialmente interesados en la educación, teniendo las siguientes atribuciones:
 
-l. Promover y apoyar actividades extraescolares de carácter cívico, cultural, deportivo, de seguridad, salud, protección al ambiente y bienestar social;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
+I. Promover y apoyar actividades extraescolares de carácter cívico, cultural, deportivo, de seguridad, salud, protección al ambiente y bienestar social;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 II. Coadyuvar a nivel estatal en actividades de seguridad escolar, protección civil y emergencia escolar;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+
 III. Opinar en asuntos pedagógicos y conocer las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar su apoyo y resolución ante las instancias competentes;
 
-IV. Conocer de los resultados de las evaluaciones que efectúen las autoridades educativas y colaborar con ellas en la implementación de acciones que coadyuven al mejoramiento de la calidad y cobertura de la educación; y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
-V. Los demás asuntos que el reglamento respectivo establezca.
+IV. Conocer de los resultados de las evaluaciones que efectúen las autoridades educativas y colaborar con ellas en la implementación de acciones que coadyuven al mejoramiento de la calidad y cobertura de la educación; y (sic)
+
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+V. Proponer ante la Secretaría de Educación, Cultura y Deporte, la actualización de los planes o la creación de nuevas áreas de estudio o profesiones de las diversas Instituciones educativas en el Estado, en coordinación y colaboración con los sectores productivos, a nivel estatal, para que esta Secretaría gestione su aprobación ante las autoridades federales competentes.
+
+Para efecto de dar eficacia a la medida señalada con anterioridad, el Consejo habrá de pedir la opinión del sector productivo del ramo que se trate para delinear los perfiles técnicos o profesionales que requieran sus áreas.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+VI. Los demás asuntos que el reglamento respectivo establezca.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2570,6 +2602,38 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Para dar pleno cumplimiento a la reforma, la Secretaría de Educación, Cultura y Deporte, reforzará aquellos programas enfocados a prevenir, detectar y atender los casos de violencia y abuso entre escolares que se presenten en las instituciones educativas del Estado.
 
 P.O. 29 DE OCTUBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+DECRETO No. 468/2011 QUE REFORMA LOS ARTÍCULOS 13, FRACCIÓN XLII Y 30 DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+DECRETO No. 485/2011 QUE ADICIONA LAS FRACCIONES XIII Y XIV AL ARTÍCULO 2, Y UNA FRACCIÓN XLIII AL ARTÍCULO 13, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+DECRETO No. 495/2011 QUE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 134 DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+DECRETO No. 531/2011 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 136 Y LA FRACCIÓN V; Y ADICIONA UNA FRACCIÓN VI, DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
