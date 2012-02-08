@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2012-01-27"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE ENERO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE FEBRERO DE 2012.</small>
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -55,8 +53,6 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 La presente Ley es de orden e interés público y tiene por objeto regular la organización, atribuciones y funcionamiento del Poder Legislativo del Estado, de conformidad con lo establecido por la Constitución Política del Estado Libre y Soberano de Puebla.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 2.
 
 Para efectos de la presente Ley se entenderá como:
@@ -71,7 +67,9 @@ IV.- Convocatoria: El acto por virtud del cual se cita por escrito o medio elect
 
 V.- Dieta: La remuneración económica e irrenunciable por el desempeño de las funciones del cargo de Diputado;
 
-VI.- Gaceta Parlamentaria: La publicación a través de la cual se difunden las resoluciones, comunicaciones, actividades y demás documentos que guardan relación con el Congreso;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+VI.- Gaceta Legislativa: La publicación a través de la cual se difunden las resoluciones, comunicaciones, actividades y demás documentos que guardan relación con el Congreso;
 
 VII.- Iniciativa: El acto jurídico por el cual da inicio el proceso legislativo;
 
@@ -673,15 +671,15 @@ Una vez en funciones la Mesa Directiva, el Presidente hará la siguiente declara
 
 "La (número) Legislatura del Honorable Congreso Constitucional del Estado Libre y Soberano de Puebla, declara abierto el (número) periodo de Sesiones ordinarias (extraordinarias o solemnes) correspondientes al (número) año de su ejercicio legal".
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 71.
 
 Son atribuciones de la Mesa Directiva, las siguientes:
 
 I.- Establecer el calendario de sesiones, conducirlas y asegurar el adecuado desarrollo de las mismas;
 
-II.- Ordenar el trabajo legislativo y disponer lo necesario para que el Congreso cuente con Gaceta Parlamentaria y Diario de Debates;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+II.- Ordenar el trabajo legislativo y disponer lo necesario para que el Congreso cuente con Gaceta Legislativa y Diario de Debates;
 
 III.- Emitir el Orden del Día de las Sesiones del Pleno, a propuesta del Presidente de la Mesa Directiva, con aprobación de la Junta de Gobierno y Coordinación Política;
 
@@ -1319,15 +1317,15 @@ El Presidente del Comité es el responsable de los documentos y expedientes de l
 
 Para el buen desempeño de sus funciones, los Comités se regulan conforme a lo establecido en el presente Capítulo, el Reglamento Interior y demás disposiciones aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 133.
 
 El Congreso del Estado para su funcionamiento administrativo y operativo tiene los siguientes Comités:
 
 I.- Adquisiciones, Arrendamientos y Servicios;
 
-II.- Archivo, Biblioteca, Asuntos Editoriales y Crónica Parlamentaria;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+II.- Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa;
 
 III.- Gestoría y Quejas;
 
@@ -1891,9 +1889,9 @@ IV.- No haber sido sentenciado por delitos patrimoniales o estar inhabilitado po
 
 V.- Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
 
-### CAPÍTULO IV. DE LOS ÓRGANOS DE APOYO PARLAMENTARIO Y ADMINISTRATIVO
+### CAPÍTULO IV. DE LOS ÓRGANOS DE APOYO LEGISLATIVO Y ADMINISTRATIVO
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL DEL CONGRESO
 
@@ -1951,13 +1949,13 @@ La Dirección General de Servicios Legislativos está a cargo de un Director Gen
 
 El Director General de Servicios Legislativos dependerá de la Secretaría General; coordinará sus actividades con los demás Órganos Legislativos, de Representación y Técnicos Administrativos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 210.
 
 Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, contará con las áreas administrativas siguientes:
 
-I.- Coordinación de Servicios Parlamentarios y Vinculación Institucional;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+I.- Coordinación de Servicios Legislativos y Vinculación Institucional;
 
 II.- Coordinación del Diario de Debates, Gaceta Legislativa, Archivo y Biblioteca; y
 
@@ -2191,8 +2189,6 @@ El Congreso del Estado cuenta con una Unidad de Acceso a la Información, que es
 
 La Comisión de Transparencia y Acceso a la Información Pública del Honorable Congreso del Estado es el área encargada de vigilar el cumplimiento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y del Reglamento para la Transparencia y Acceso a la Información Pública del Poder Legislativo del Estado de Puebla.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -2243,7 +2239,9 @@ Se modifica la denominación, se amplía la competencia y se crean los siguiente
 
 El Comité de Administración del Patrimonio y de los Recursos Materiales, Técnicos y Humanos; modificará su denominación y competencia, estableciéndose el Comité de Adquisiciones, Arrendamientos y Servicios.
 
-Por su parte los Comités de Archivo y Biblioteca, y de Asuntos Editoriales y Crónica Parlamentaria se fusionan para crear el Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Parlamentaria.
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+Por su parte los Comités de Archivo y Biblioteca, y de Asuntos Editoriales y Crónica Legislativa se fusionan para crear el Comité de Archivo, Biblioteca, Asuntos Editoriales y Crónica Legislativa.
 
 El Comité de Informática modificará su denominación, estableciéndose el Comité de Tecnologías de la información.
 
