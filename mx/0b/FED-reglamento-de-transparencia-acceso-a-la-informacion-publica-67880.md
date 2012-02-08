@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-acceso-a-la-informacion-publica-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-06"
-last_updated: "2009-04-06"
+last_updated: "2012-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67880&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-03-31"
 ---
 # REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DE LA CAMARA DE DIPUTADOS
 
-REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DE LA CAMARA DE DIPUTADOS
+REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LA CÁMARA DE DIPUTADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 6 de abril de 2009.
 
@@ -229,13 +229,17 @@ IV. Tener por lo menos tres años de experiencia comprobada en la materia.
 
 ###### Artículo 10.
 
-1. El Órgano Rector es la instancia encargada de establecer las políticas institucionales en materia de transparencia, acceso a la información pública y protección de datos personales en la Cámara.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+1. El Órgano Rector es la instancia encargada de establecer las políticas institucionales en materia de transparencia, acceso a la información pública y protección de datos personales en la Cámara. La Junta de Coordinación Política de la Cámara funge como el Órgano Rector a que se refiere este Capítulo.
 
 2. El Órgano Rector de la Cámara se integra con un Presidente, tantos vocales como coordinadores de grupos parlamentarios haya y cuatro consultores.
 
 3. Preside al Órgano Rector quien funja como Presidente de la Junta.
 
-4. Los vocales son los coordinadores de los grupos parlamentarios que integran la Junta.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+4. Los vocales son los integrantes de la Junta que representan a los Grupos.
 
 5. Los consultores son el Secretario General, el Contralor Interno, el Director General de Asuntos Jurídicos y el Titular de la Unidad.
 
@@ -247,7 +251,9 @@ IV. Tener por lo menos tres años de experiencia comprobada en la materia.
 
 3. Las sesiones son por regla general públicas y se deben hacer versiones estenográficas de ellas, salvo cuando se traten asuntos reservados o información confidencial.
 
-4. Los integrantes del Órgano Rector pueden nombrar, de entre los diputados, suplentes que los representen y asuman sus responsabilidades en las sesiones.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+4. Los integrantes del Órgano Rector pueden nombrar, de entre los diputados Vicecoordinadores de los Grupos representados en la Cámara, suplentes que los representen y asuman sus responsabilidades en las sesiones.
 
 5. A sus sesiones se pueden invitar a otras personas, para ilustrar sobre asuntos determinados.
 
@@ -287,7 +293,9 @@ VIII. Clausura.
 
 ###### Artículo 15.
 
-1. El Órgano Rector:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+1. Son facultades del Órgano Rector:
 
 I. Establece los lineamientos y programas en materia de transparencia institucional en la Cámara y da seguimiento a su cumplimiento;
 
@@ -311,7 +319,9 @@ X. Coordina y supervisa las acciones de la Cámara en materia de transparencia, 
 
 XI. Recibe de los órganos obligados de la Cámara el índice de los expedientes clasificados como reservados para su aprobación o señalamiento de su corrección;
 
-XII. Presenta a la Cámara y al Consejo informes semestrales;
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XII. Presentar al Pleno los informes semestrales;
 
 XIII. Confirma, modifica o revoca la clasificación de la información hecha por los titulares de los órganos obligados;
 
@@ -323,9 +333,41 @@ XVI. Da vista a la autoridad en caso de encontrar irregularidades u omisiones a 
 
 XVII. Tiene acceso en cualquier momento a todos los documentos e información de la Cámara, a fin de resolver la revisión;
 
-XVIII. Propone a la Presidencia de la Mesa Directiva la celebración o renovación de los convenios que en materia de transparencia, acceso a la información y datos personales deba celebrar la Cámara, y
+XVIII. Propone a la Presidencia de la Mesa Directiva la celebración o renovación de los convenios que en materia de transparencia, acceso a la información y datos personales deba celebrar la Cámara, y (sic)
 
 XIX. Establece los lineamientos, acuerdos y normas internos necesarios para su funcionamiento interior y las que requiera para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XX. Conocer, sustanciar y resolver el recurso de revisión, en materia de transparencia, acceso a la información y protección de datos personales en la Cámara. La Junta de Coordinación Política de la Cámara deberá excusarse de conocer de los asuntos relacionados con solicitudes de información en las que haya actuado o tuviere que actuar como órgano obligado, en cuyo caso, excepcionalmente, corresponderá al Comité de Administración asumir las funciones que a este corresponden en la sustanciación y resolución del procedimiento relativo.
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXI. Interpretar el Reglamento para su exacta observancia;
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXII. Aplicar las medidas correctivas o de apremio conducentes;
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXIII. Diseñar y aplicar indicadores para evaluar el desempeño de la Cámara en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXIV. Establecer los indicadores de gestión de órganos y sujetos obligados;
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXV. Emitir semestralmente un análisis y evaluación de las políticas institucionales de transparencia, acceso a la información pública y protección de datos personales y concluye con recomendaciones generales y específicas;
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXVI. Hacer del conocimiento de la Contraloría Interna de la Cámara las presuntas infracciones a la Ley, al presente ordenamiento, así como a otras disposiciones legales e informa (sic) a la Mesa Directiva, de las resoluciones que al respecto expida, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XXVII. Tener acceso, en cualquier momento, a la información reservada o confidencial para determinar su debida clasificación, desclasificación o la procedencia de su acceso.
 
 2. Toda normatividad y documentos generados por el Órgano Rector deben divulgarse en la Gaceta Parlamentaria y en el portal de Internet de la Cámara, dentro de los diez días hábiles siguientes a su expedición.
 
@@ -405,9 +447,15 @@ XIV. Instrumenta todas las acciones necesarias para el cumplimiento de los acuer
 
 XV. Divulga las convocatorias para la sesión, las actas y los acuerdos del Órgano Rector;
 
-XVI. Cumple las tareas que le sean encomendadas por los vocales, el Pleno o el Presidente del Órgano Rector, y
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
 
-XVII. Realiza las demás tareas que sean necesarias para el cumplimiento de los objetivos del Órgano Rector o inherentes a las responsabilidades de su cargo.
+XVI. Cumple las tareas que le sean encomendadas por los vocales, el Pleno o el Presidente del Órgano Rector;
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XVII. Asiste al Órgano Rector en la sustanciación del recurso de revisión, y
+
+XVIII. Realiza las demás tareas que sean necesarias para el cumplimiento de los objetivos del Órgano Rector o inherentes a las responsabilidades de su cargo.
 
 ###### Artículo 20.
 
@@ -427,7 +475,9 @@ I. Los datos respecto del número y tipo de todas las solicitudes de informació
 
 II. Los tiempos de respuesta a las diferentes solicitudes;
 
-III. El estado en que se encuentran las denuncias presentadas por el Consejo ante los órganos internos de control, y
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+III. El estado en que se encuentran las denuncias presentadas por el Consejo ante la Contraloría Interna, y
 
 IV. Las dificultades observadas en el cumplimiento de la ley, de este Reglamento y de las demás disposiciones aplicables.
 
@@ -441,9 +491,13 @@ IV. Las dificultades observadas en el cumplimiento de la ley, de este Reglamento
 
 3. Uno funge como Presidente, electo por el voto directo y secreto de los consejeros, los otros dos como miembros de número.
 
-4. Los consejeros duran en su cargo cinco años y pueden ser reelectos una sola vez.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
 
-5. El rango salarial de todos es equivalente al de Director General en la Cámara.
+4. Los consejeros duran en su cargo cinco años, sin posibilidad de reelección.
+
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+5. El ejercicio del cargo de consejero podrá ser retribuido con una compensación, de acuerdo a los casos atendidos. Para ello, el Comité de Administración deberá establecer los criterios correspondientes y, en su caso, los apoyos administrativos necesarios para el cumplimiento de las funciones de los consejeros.
 
 6. El Consejo funciona en Pleno con la concurrencia de la mayoría de sus integrantes y sesiona una vez a la semana de manera ordinaria y cuantas veces lo decida de manera extraordinaria.
 
@@ -495,7 +549,9 @@ XVI. Emite semestralmente un análisis y evaluación de las políticas instituci
 
 ###### Artículo 25.
 
-1. Corresponde a la Cámara, por conducto de la Comisión de la Función Pública, emitir una convocatoria a las instituciones públicas y privadas de educación superior para que presenten aspirantes a consejeros.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+1. Corresponde a la Cámara, por conducto de la Comisión de la Función Pública, emitir una convocatoria pública abierta a especialistas e investigadores en la materia que se interesen en desempeñar las funciones otorgadas al Consejo, señaladas en el artículo anterior del presente Reglamento.
 
 2. La convocatoria debe establecer plazos, lugares, horarios de presentación de solicitudes, forma de acreditación de los requisitos y cualquier otra disposición necesaria para clarificar el proceso.
 
@@ -521,7 +577,9 @@ III. Perfil académico.
 
 2. Los aspirantes deben presentar un ensayo inédito por escrito que debe:
 
-I. Ser de un mínimo de veinticinco cuartillas, y
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+I. Ser de un mínimo de quince cuartillas, y
 
 II. Abordar algún tema relativo a la transparencia, el acceso a la información pública y la protección de datos personales.
 
@@ -553,9 +611,17 @@ I. Ser mexicano;
 
 II. Contar con una edad mínima de treinta años al momento de la designación;
 
-III. Contar con grado de licenciatura en el campo de las ciencias sociales, preferentemente con algún postgrado, y
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
 
-IV. Contar con experiencia mínima comprobable de cinco años en la docencia y/o investigación.
+III. Contar con grado de licenciatura en el campo de las ciencias sociales, preferentemente con algún postgrado;
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+IV. Contar con experiencia mínima comprobable de cinco años en la docencia y/o investigación, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+V. Gozar de prestigio en el medio relacionado con la transparencia y acceso a la información pública.
 
 ###### Artículo 31.
 
@@ -581,7 +647,7 @@ VIII. Haber sido condenado por la comisión de un delito grave.
 
 1. El cargo de Consejero es incompatible con:
 
-I. Cualquier otro empleo, cargo o comisión en el mismo horario en el que se desempeñe el de Consejero;
+I. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2012)
 
 II. Cualquier patrocinio, iguala, premio o estímulo otorgado por los partidos políticos, grupos parlamentarios o diputados sin partido, y
 
@@ -717,7 +783,9 @@ VI. Acompañar los elementos probatorios que respalden su dicho.
 
 ###### Artículo 46.
 
-1. La Cámara, esta obligada a divulgar información sobre:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+1. La Cámara está obligada a publicar información actualizada sobre:
 
 I. Estructura orgánica;
 
@@ -737,9 +805,13 @@ VIII. Los servicios que se ofrecen;
 
 IX. Los trámites, requisitos y formatos;
 
-X. Presupuesto asignado e informe de ejecución;
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
 
-XI. Resultado de las auditorías al ejercicio presupuestal de cada órgano y sujeto obligados;
+X. Presupuesto asignado e informe semestral del ejercicio del gasto, debidamente desglosado por partidas y montos;
+
+> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+XI. El Programa de Trabajo de la Contraloría Interna y el resultado de las auditorías al ejercicio presupuestal de cada órgano y sujeto obligados;
 
 XII. Licitaciones y contrataciones otorgadas, especificando los titulares;
 
@@ -1049,6 +1121,20 @@ II. Formatos impresos que le proporcione la Unidad, o
 
 III. El sistema electrónico que tenga a su disposición la Unidad.
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+2. Toda solicitud de información debe contener:
+
+I. Nombre del solicitante;
+
+II. Domicilio completo del solicitante;
+
+III. La descripción clara y precisa de los documentos que solicita;
+
+IV. Cualquier otro dato que facilite la búsqueda de información, y
+
+V. La modalidad en la que prefiera se otorgue el acceso a la información, la cual podrá ser verbalmente, siempre y cuando sea para fines de orientación, a través de consulta directa, copias simples o certificadas, correo electrónico u otro tipo de medio. No obstante ello, el acceso se dará solamente en la forma en que lo permita el documento de que se trate.
+
 ###### Artículo 70.
 
 1. Si el trámite se realiza mediante un representante, se requiere presentar ante la Unidad, carta poder firmada de manera autógrafa ante dos testigos, identificación oficial con foto y firma de representante y representado.
@@ -1125,7 +1211,9 @@ III. El sistema electrónico que tenga a su disposición la Unidad.
 
 ###### Artículo 81.
 
-1. La resolución que emite el Órgano Rector debe notificarse al interesado, dentro del plazo que tiene la Unidad para resolver; en caso de ser negativa, la Unidad esta obligada a indicar al solicitante que puede interponer un recurso contra la resolución ante el Consejo.
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+1. La resolución que emite el Órgano Rector debe notificarse al interesado, dentro del plazo que tiene la Unidad para atender la solicitud; en caso de ser negativa, la Unidad está obligada a indicar al solicitante que puede interponer un recurso de reconsideración contra la resolución ante el Consejo.
 
 ###### Artículo 82.
 
@@ -1609,6 +1697,12 @@ III. Los inventarios documentales.
 
 1. En la administración y tratamiento de los sistemas de datos y la custodia de los datos personales que se encuentren bajo su resguardo, los funcionarios de los órganos obligados deben observar los principios de licitud, consentimiento, calidad e información.
 
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+###### Artículo 141.
+
+1. Conforme a lo dispuesto por el artículo 61 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en lo no previsto por este Reglamento serán aplicables los principios y plazos establecidos en esa Ley.
+
 ## TRANSITORIOS
 
 Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1621,7 +1715,7 @@ Cuarto. El Órgano Rector tendrá 180 días hábiles para presentar los lineamie
 
 Quinto. El Órgano Rector, en un plazo de 50 días hábiles, contados a partir de su instalación, deberá emitir los lineamientos generales en materia de datos personales, donde se considerarán los niveles de seguridad que se deberán emplear en la Cámara.
 
-Sexto. La Junta de Coordinación Política de la Cámara de Diputados, por única vez, en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigor de este Decreto, propondrá para su elección al pleno en un solo acto, una terna para elección de los consejeros fundadores del Consejo.
+Sexto. (DEROGADO, D.O.F. 8 DE FEBRERO DE 2012)
 
 Séptimo. El particular puede optar por sustanciar las solicitudes no resueltas a la entrada en vigor de este Reglamento, en términos del Reglamento anterior o de éste.
 
@@ -1634,3 +1728,11 @@ Décimo. La Secretaría General y las de Servicios Administrativos y Financieros
 Décimo Primero. Lo previsto por los artículos 46 y 51 del presente Reglamento, será implementado por los órganos obligados, una vez concluidos los plazos y condiciones a que hacen referencia los Artículos Cuarto y Décimo Transitorios.
 
 SALÓN DE SESIONES DE LA CÁMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNIÓN. México, D.F., a 31 de marzo de 2009.- Dip. Cesar Horacio Duarte Jaquez, Presidente.- Rúbrica.- Dip. Rosa Elia Romero Guzmán, Secretaria.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE FEBRERO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Una vez que haya entrado en vigor el presente Decreto, la Junta de Coordinación Política de la Cámara de Diputados, por única vez, propondrá para su elección al Pleno en un solo acto, una lista de tres personas que reúnan los requisitos que el Reglamento establece para la elección de los Consejeros fundadores del Consejo.
