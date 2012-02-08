@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2011-10-28"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -219,9 +219,9 @@ El territorio del Estado es el que de hecho y de derecho le corresponde, en los 
 
 La Heroica Ciudad de Puebla de Zaragoza será la Capital del Estado; los Poderes del Estado residirán en ella o en los municipios conurbados de la misma, no obstante el Ejecutivo podrá, con autorización del Congreso o de la Comisión Permanente, en su caso, cambiar a otro lugar esa residencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2011)</small>
 
-### CAPITULO III. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
+### CAPITULO III. DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -405,7 +405,7 @@ III.- Prestar auxilio a las autoridades cuando para ello sean legalmente requeri
 
 IV.- Realizar sus actividades y usar y disponer de sus bienes, en forma que no perjudiquen a la colectividad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2009)</small>
 
 ### CAPITULO IV. DE LOS POBLANOS Y DE LOS CIUDADANOS DEL ESTADO
 
@@ -507,7 +507,7 @@ II.- En los demás casos por cumplimiento de la pena, por haber finalizado el t�
 
 Las leyes determinarán a qué autoridad corresponde decretar la suspensión, pérdida o recuperación de los derechos del ciudadano, en qué términos y con qué requisitos ha de dictarse el fallo respectivo, y el tiempo que deba durar la suspensión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2009)</small>
 
 ### CAPITULO V. DE LA FAMILIA
 
@@ -619,7 +619,7 @@ El Congreso del Estado estará integrado por 26 Diputados electos por el princip
 
 Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 35.
 
@@ -767,11 +767,11 @@ El Congreso tendrá cada año tres períodos de Sesiones, en la forma siguiente:
 
 I.- El Primero comenzará el día quince de enero, terminará el quince de marzo y se ocupará de estudiar, discutir y votar las iniciativas de Ley que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -1365,7 +1365,7 @@ I.- Las bases generales para la creación de entidades de la Administración Pú
 
 II.- La intervención del Ejecutivo en la operación de esas entidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2004)</small>
 
 ###### Artículo 84.
 
@@ -1567,7 +1567,7 @@ Los funcionarios de que trata este título no tendrán en los juicios en que int
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 102.
 
@@ -1613,7 +1613,7 @@ b).- Las personas que desempeñen o hayan desempeñado las funciones propias de 
 
 III.- Los funcionarios mencionados en las fracciones anteriores, cuando hayan tenido el carácter de propietarios, no podrán ser electos para el período inmediato, como suplentes; pero los que fueron suplentes podrán ser electos para el período inmediato como propietarios, salvo que hayan estado en ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 IV.- Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de octubre del año en el que se celebre la elección.
 
@@ -1639,7 +1639,7 @@ III.- Los ingresos derivados de la prestación de servicios públicos a su cargo
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2001)</small>
 
-a) Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones a que se refieren las fracciones I y III de este artículo. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+a).- Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones a que se refieren las fracciones I y III de este artículo. Sólo estarán exentos los bienes del dominio público de la Federación, del Estado o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 b).- Los Municipios podrán celebrar convenios con el Estado, para que éste se encargue, parcialmente, de las funciones relacionadas con la administración de las contribuciones que les corresponda.
 
@@ -1653,7 +1653,7 @@ Los Ayuntamientos podrán autorizar las erogaciones plurianuales para Proyectos 
 
 (REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
-d) Los Ayuntamientos, en el ámbito de su competencia, propondrán a la legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y productos; así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+d).- Los Ayuntamientos, en el ámbito de su competencia, propondrán a la legislatura del Estado, las cuotas y tarifas aplicables a impuestos, derechos, aprovechamientos, contribuciones de mejoras y productos; así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
 > <small>(ADICIONADA, P.O. 5 DE MARZO DE 2001)</small>
 
@@ -1845,7 +1845,7 @@ La participación de los particulares y del sector social será considerada en t
 
 El Plan Estatal de Desarrollo considerará los principios del desarrollo sustentable, a través de la prevención, preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 108.
 
@@ -1977,7 +1977,7 @@ La educación que se imparta en el Estado de Puebla, formará a los alumnos para
 
 ###### Artículo 119.
 
-Las Universidades e Instituciones públicas de educación superior a las que la ley otorgue autonomía, expedirán títulos profesionales y tendrán las facultades que les confiera la ley conforme a lo establecido por la fracción VIII del artículo 3°. de la Constitución General de la República.
+Las Universidades e Instituciones públicas de educación superior a las que la ley otorgue autonomía, expedirán títulos profesionales y tendrán las facultades que les confiera la ley conforme a lo establecido por la fracción VIII del artículo 3° de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1987)</small>
 
@@ -1989,17 +1989,17 @@ Cuando la Universidad o Institución de Educación Superior no goce de Autonomí
 
 El ejercicio de las profesiones se sujetará a lo que disponga la Ley Reglamentaria del artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, que rija en la Entidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE FEBRERO DE 2012)</small>
 
-### CAPITULO V. DE LA PROTECCION AL AMBIENTE Y DE LA HIGIENE Y SALUBRIDAD PUBLICAS
+### CAPITULO V. DE LA PROTECCION AL AMBIENTE, PRESERVACION Y RESTAURACION DEL EQUILIBRIO ECOLOGICO Y DE LA SALUBRIDAD PUBLICA
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 121.
 
-El Ejecutivo del Estado y los Municipios promoverán, en sus respectivas competencias, mejorar la calidad de vida y la productividad de las personas, a través de la preservación del equilibrio ecológico y protección del ambiente, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras. Al efecto se dictarán las leyes y disposiciones necesarias.
+Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo, salud y bienestar. El Estado y los Municipios promoverán y garantizarán, en sus respectivos ámbitos de competencia, mejorar la calidad de vida y la productividad de las personas, a través de la protección al ambiente y la preservación, restauración y mejoramiento del equilibrio ecológico, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras. Al efecto se expedirán las leyes y disposiciones necesarias.
 
-Asimismo, es deber del Estado vigilar por la observancia de las reglas de la higiene pública, conservar un ambiente sano y favorable a sus habitantes, así como combatir las epidemias que se desarrollen dentro de su territorio.
+Asimismo, es deber del Estado combatir las epidemias que se desarrollen dentro del territorio.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2233,9 +2233,9 @@ La presente Constitución puede ser adicionada o reformada. Para que las adicion
 
 Si transcurre un mes, a partir de la fecha en que se hubiere enviado el Proyecto de adiciones o reformas a los Ayuntamientos y éstos no contestaren, se entenderá que lo aprueban.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2011)</small>
 
-## TÍTULO DÉCIMO. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
+## TITULO DECIMO. DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2257,13 +2257,13 @@ Contará con un Consejo Consultivo, el cual se conformará en los términos que 
 
 El Presidente de la Comisión, lo será también del Consejo Consultivo, su elección se ajustará al procedimiento que establezca la Ley de la materia, que deberá ser transparente e informado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2011)</small>
 
-## TÍTULO DÉCIMO PRIMERO. DE LA INVIOLABILIDAD DE LA CONSTITUCIÓN
+## TITULO DECIMO PRIMERO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2011)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -2311,15 +2311,15 @@ CONSTITUCION Y REFORMAS.
 
 Palacio del Departamento Ejecutivo. Puebla de Zaragoza, 8 de septiembre de 1917.- El Gobernador del Estado.- Alfonso Cabrera,- El Srio. Gral. de Gob,- Lic. Miguel Moto.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -2357,7 +2357,7 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 
 P.O. 4 DE MAYO DE 1979.
 
-DECRETO QUE REFORMA ART. 72 Y 73 DE LA CONSTITUCION
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 72 Y 73 DE LA CONSTITUCION POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTICULO UNICO.
 
@@ -2365,7 +2365,7 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 
 P.O. 4 DE MAYO DE 1979.
 
-DECRETO QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2471,7 +2471,7 @@ Los nuevos Consejeros Electorales y el Consejero Presidente del Instituto Electo
 
 P.O. 5 DE MARZO DE 2001.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE SE REFORMAN LAS FRACCIONES IX, X, XI Y XII DEL ARTÍCULO 57; LA FRACCIÓN III DEL 61; LOS ARTÍCULOS 113, 114, 115 Y 116 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2503,7 +2503,7 @@ Las referencias que se hagan, en todas las disposiciones, a la Contaduría Mayor
 
 P.O. 5 DE MARZO DE 2001.
 
-DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VIII Y EL SEGUNDO PÁRRAFO DEL PUNTO 3 DE LA FRACCIÓN XXI DEL ARTÍCULO 57, LAS FRACCIONES X Y XVII DEL ARTÍCULO 79, EL PRIMER PÁRRAFO DEL ARTÍCULO 102, EL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 103, EL PRIMER PÁRRAFO, LOS INCISOS A), C), G) Y H) Y LAS FRACCIONES II Y III DEL ARTÍCULO 104, LAS FRACCIONES III Y IV DEL ARTÍCULO 105; SE ADICIONA LA FRACCIÓN XXVIII AL ARTÍCULO 57, UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 102, EL INCISO D) A LA FRACCIÓN III Y LA FRACCIÓN IV AL ARTÍCULO 103, UN PÁRRAFO SEGUNDO AL ARTÍCULO 104, LAS FRACCIONES XVI, XVII Y XVIII AL ARTÍCULO 105; Y SE DEROGA LA FRACCIÓN XVIII DEL ARTÍCULO 79 Y LA FRACCIÓN VI DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2565,7 +2565,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 2 DE JULIO DE 2004.
 
-DECRETO QUE REFORMA LA FRACCION V DEL ARTICULO 12 DE LA CONSTITUCION.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
 
@@ -2575,7 +2575,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 2 DE JULIO DE 2004.
 
-DECRETO QUE REFORMA EL PRIMER PARRAFO DEL ARTICULO 84 DE LA CONSTITUCION.
+DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
 
@@ -2585,7 +2585,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 10 DE DICIEMBRE DE 2004.
 
-DECRETO QUE REFORMA EL ARTICULO 131.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA..
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2601,7 +2601,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 10 DE DICIEMBRE DE 2004.
 
-DECRETO QUE REFORMA LOS ARTICULOS 11, 12 Y 13.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 11, 12 Y 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de lo dispuesto por los artículos 140 y 141 de la Constitución Política del Estado Libre y Soberano de Puebla, y forman parte del mismo ordenamiento Constitucional.
 
@@ -2671,7 +2671,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 9 DE OCTUBRE DE 2009.
 
-DECLARATORIA DEL DECRETO POR EL QUE SE REFORMA EL ARTICULO 11 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2681,7 +2681,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 9 DE OCTUBRE DE 2009.
 
-DECLARATORIA DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONA LOS ARTICULOS 107, 121 Y LA DENOMINACION DEL CAPITULO V DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 121, LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO OCTAVO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 107 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2691,7 +2691,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 9 DE OCTUBRE DE 2009.
 
-DECLARATORIA DEL DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN II Y EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 50, EL 53, EL 54, LAS FRACCIONES IX, XI, XV, XXIII Y XXVIII DEL 57, LAS FRACCIONES II Y III DEL 61, EL 108, EL 113, EL 114 Y EL 115; SE ADICIONAN UN SEGUNDO, TERCERO Y CUARTO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 50; Y SE DEROGA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DEL ARTÍCULO 50, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2711,7 +2711,7 @@ Para efectos del penúltimo párrafo del Artículo 113 de la Constitución Polí
 
 P.O. 16 DE JUNIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y SE ADICIONAN LOS ARTICULO 12, 57, 79 Y 95 DE LA CONSTITUCION POLITICA DEL ESTADO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN Y SE ADICIONAN LOS ARTÍCULO 12, 57, 79 Y 95 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE PUEBLA.
 
 PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2721,7 +2721,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE JUNIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 58, 103 Y 134 DE LA CONSTITUCION POLITICA DEL ESTADO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 58, 103 Y 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE PUEBLA.
 
 PRIMERO.- La Comisión Permanente del Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2829,7 +2829,7 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 P.O. 25 DE JULIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 89 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 89 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2839,7 +2839,7 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE JULIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 99 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2849,7 +2849,7 @@ TERCERO.- El nombramiento del Procurador General de Justicia del Estado, vigente
 
 P.O. 25 DE JULIO DE 2011.
 
-DECRETO POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO III DEL TITULO PRIMERO, EL ARTICULO 11, EL PRIMER PARRAFO DE LA FRACCION VII DEL ARTICULO 12, EL ARTICULO 142 Y LA DENOMINACION DEL TITULO DECIMO; SE ADICIONAN LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTICULO 7, EL TITULO DECIMO PRIMERO Y EL ARTICULO 143 Y SE DEROGA LA FRACCION VI DEL ARTICULO 12, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+DECRETO POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO PRIMERO, EL ARTÍCULO 11, EL PRIMER PÁRRAFO DE LA FRACCIÓN VII DEL ARTÍCULO 12, EL ARTÍCULO 142 Y LA DENOMINACIÓN DEL TÍTULO DÉCIMO; SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 7, EL TÍTULO DÉCIMO PRIMERO Y EL ARTÍCULO 143 Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 12, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
@@ -2896,3 +2896,11 @@ SEXTO.- El Consejo General nombrará al Secretario Ejecutivo y al Titular de la 
 SÉPTIMO.- El Consejero Presidente y los Consejeros Electorales que sean designados en octubre de dos mil doce, durarán en su encargo hasta el mes de octubre de dos mil diecinueve.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
