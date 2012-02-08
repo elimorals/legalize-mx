@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2011-03-23"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -1343,7 +1343,31 @@ Al que prive de la vida a su ascendiente o descendiente consanguíneo en línea 
 
 El juzgador tomará en cuenta para los efectos de la sanción las modalidades calificativas y atenuantes en que el homicidio se hubiere perpetrado.
 
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
 ### Capítulo VI. Aborto
+
+###### Artículo 164 Bis.
+
+Comete el delito de feminicidio y se sancionará con prisión de veinticinco a sesenta años, a quien por razones de género prive de la vida a una mujer.
+
+Serán consideradas razones de género las siguientes:
+
+I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, conyugal, concubinato, noviazgo o cualquier otra relación de hecho.
+
+II. Exista o haya existido entre el activo y la víctima una relación laboral, docente o cualquiera que implique subordinación o superioridad.
+
+III. La víctima presente signos de violencia sexual de cualquier tipo.
+
+IV. A la víctima se le hayan infligido lesiones o mutilaciones, previas o posteriores a la privación de la vida.
+
+V. Existan datos o antecedentes que establezcan que se han cometido amenazas, acoso, violencia o lesiones de cualquier tipo del sujeto activo en contra de la víctima.
+
+VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en lugar público.
+
+VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de su vida.
+
+En el caso de la fracción I se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
 ### Capítulo I. Procreación Asistida e Inseminación Artificial
 
@@ -1433,7 +1457,9 @@ Los delitos de homicidio, muerte cerebral y lesiones serán atenuados cuando se 
 
 I. Existe riña, cuando se presenta una contienda de obra, una agresión física entre dos o más personas con el propósito de causarse daño recíprocamente.
 
-II. Existe imputabilidad disminuida por emoción violenta, cuando el sujeto activo sorprenda a su cónyuge, concubina o concubinario, o al corruptor de su ascendiente, descendiente o hermanos que estén bajo su potestad o custodia en el acto sexual o en uno próximo a su consumación, siempre que el sujeto activo no haya tolerado o contribuido a la realización de tales actos.
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
+
+II. Existe imputabilidad disminuida por emoción violenta, cuando el sujeto activo sorprenda al corruptor de su ascendiente, descendiente o hermanos que estén bajo su potestad o custodia en el acto sexual o en uno próximo a su consumación, siempre que el sujeto activo no haya tolerado o contribuido a la realización de tales actos.
 
 III. Existe imputabilidad disminuida por emoción violenta, cuando en virtud de las circunstancias que desencadenaron el delito, se atenúa en forma considerable y transitoria la imputabilidad del agente.
 
@@ -4610,3 +4636,9 @@ P.O. 23 DE MARZO DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
