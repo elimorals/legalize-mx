@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2012-02-01"
+last_updated: "2012-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -611,7 +611,7 @@ i) Comisión Nacional de Seguridad Nuclear y Salvaguardias (CNSNS)
 
 j) Comisión Nacional de Seguros y Fianzas (CNSF)
 
-k) Comisión Nacional del Agua (CONAGUA)
+k) (DEROGADO, D.O.F. 8 DE FEBRERO DE 2012)
 
 l) Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR)
 
@@ -2470,3 +2470,13 @@ SEGUNDO.- El Pleno de la Sala Superior en su integración de once Magistrados, d
 TERCERO.- En términos de lo señalado por el artículo 41, fracción I, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración deberá dictar los demás acuerdos que sean necesarios para la operación de las Salas Auxiliares, y precisará las reglas para atender los juicios y distribuir los expedientes en trámite y concluidos de las Salas Regionales que se transforman, entre las restantes de las Regiones a las que pertenecen, conforme a una equitativa división de cargas de trabajo.
 
 CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los juicios que hayan sido remitidos por las Salas Regionales a la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, en los que se controviertan resoluciones emitidas por la Comisión Nacional del Agua a la entrada en vigor del presente Acuerdo, serán devueltos a la sala de origen para que ésta continúe su atención.
+
+TERCERO.- Los juicios promovidos en contra de resoluciones emitidas por la Comisión Nacional del Agua que hayan sido presentados en la Ciudad de México, sede de la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, hasta la fecha de entrada en vigor del presente Acuerdo, se tramitarán hasta su conclusión en dicha Sala Especializada.
+
+CUARTO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
