@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transporte-del-distrito-federal-35723"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-30"
-last_updated: "2009-06-24"
+last_updated: "2012-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35723&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-12-19"
 
 REGLAMENTO DE TRANSPORTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de diciembre de 2003.
 
@@ -61,6 +61,28 @@ VI. Reglamento: El presente Reglamento; y (sic)
 VII. Secretaría: La Secretaría de Transportes y Vialidad del Distrito Federal;
 
 VIII. Servicio de Taxi: El Servicio de Transporte Público Individual de Pasajeros.
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+IX. Servicio Colectivo Concesionado: Servicio de transporte público de alta capacidad que opera en una vialidad primaria.
+
+El Servicio Colectivo Concesionado se clasifica en:
+
+a) Líneas de Metrobús
+
+b) Corredor Concesionado
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+X. Ruta Alimentadora: Servicio Colectivo de mediana o baja capacidad que se conectará e integrará con los demás modos de transporte;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XI. Ruta local: Servicio Colectivo de mediana o baja capacidad que presta el servicio sin conexión directa con el Servicio Troncal, y
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XII. Servicio troncal: Es el servicio de transporte colectivo que opera sobre vialidades primarias, el cual podrá contar con carriles exclusivos confinados o semi confinados, para el tránsito de vehículos de transporte público de pasajeros.
 
 ###### Artículo 3°.
 
@@ -101,6 +123,10 @@ El usuario del servicio de transporte público de pasajeros, debe realizar el pa
 En el servicio de taxi, el usuario debe realizar el pago al término de su viaje. Cuando por cualquier causa no sea posible concluir el viaje, el usuario pagará la parte proporcional al tramo de viaje realizado, descontando el banderazo inicial.
 
 En el servicio de transporte de carga, los usuarios pueden convenir libremente con los prestadores del servicio las tarifas y formas de pago.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+En el Servicio colectivo concesionado el usuario pagará la tarifa mediante tarjeta de prepago. El ingreso y control de los recursos deberá hacerse de conformidad con lo establecido en este Reglamento, la Declaratoria de Necesidad correspondiente, y la normatividad que al efecto emita la Secretaría.
 
 ###### Artículo 10.
 
@@ -184,11 +210,17 @@ Las personas invidentes que se desplacen acompañados de perros guías, tendrán
 
 #### Sección I. De su Otorgamiento
 
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 17.
 
 La Secretaría puede otorgar a particulares concesiones para la prestación del servicio público de pasajeros y de carga, previa Declaratoria de Necesidad emitida por el Jefe de Gobierno.
 
-Las concesiones que otorgue la Secretaría no crean derechos reales ni de exclusividad a sus titulares; sólo les otorgan el derecho al uso, aprovechamiento y explotación del servicio de acuerdo con las reglas y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables. La Secretaría podrá prorrogar la vigencia o rescatar las concesiones y permisos, con fines de orden público e interés general, previo estudio que al efecto realice.
+En el Servicio colectivo concesionado, únicamente se otorgarán concesiones a personas morales.
+
+Las concesiones que otorgue la Secretaría no crean derechos reales ni de exclusividad a sus titulares; sólo les otorgan el derecho al uso, aprovechamiento y explotación del servicio de acuerdo con las reglas y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables. La Secretaría podrá prorrogar la vigencia o rescatar las concesiones y permisos, con fines de orden público e interés general, previo estudio que al efecto realice, evitando se establezca competencia ruinosa, conforme se señala en el artículo 28 de la Ley, que aplicará incluso, en los casos en que participe algún organismo público en la prestación del servicio.
+
+Cuando la operación del Corredor Concesionado no se proporcione en los términos autorizados en el título concesión, la Secretaría actuará conforme lo previsto en el artículo 26 de la Ley y 18, fracción II del presente Reglamento.
 
 Ninguna persona física o moral puede ser titular de más de cinco concesiones.
 
@@ -208,13 +240,23 @@ IV. Por resolución de autoridad competente.
 
 Tratándose del servicio público de transporte de pasajeros y de carga, la Secretaría publicará, previamente a la emisión de la Declaratoria de Necesidad, en la Gaceta Oficial del Distrito Federal el estudio que contenga el balance entre la oferta y la demanda, mismo que debe incluir:
 
-I. Tratándose del transporte público de pasajeros, los resultados del estudio de frecuencia de paso y cargas en las secciones de mayor demanda de la ruta y en el periodo de máxima demanda, para el servicio de taxi los usuarios potenciales por atender, y para el servicio de carga, los volúmenes promedio diario a transportar y sus zonas de generación y atracción;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+I. Tratándose del transporte público de pasajeros, los resultados del estudio técnico de oferta y demanda de transporte que incluya: el estudio de ascenso - descenso, el inventario de servicios de transporte que participan en la vialidad de la que se trate y el estudio de frecuencia de paso y ocupación en las secciones de mayor demanda y en el periodo de máxima demanda; para el servicio de taxi los usuarios potenciales por atender; y para el servicio de carga, los volúmenes promedio diario a transportar y sus zonas de generación y atracción;
 
 II. La oferta de unidades equivalentes, para cada modalidad que se pretenda concesionar, así como de las unidades de las diversas modalidades y prestadores de servicio, que actualmente se encuentran en operación;
 
 III. La demanda atendida, para cada modalidad y prestadores de servicio que actualmente se encuentren en operación, y
 
 IV. Ocupación promedio de los vehículos, para cada modalidad y prestadores de servicio que actualmente se encuentren en operación.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+En el Servicio colectivo concesionado, previamente a la emisión del balance entre la oferta y la demanda, la Secretaría establecerá la vialidad en la que establecerá el servicio considerando la longitud que recorren y la magnitud de la demanda que atienden.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+La Secretaría identificará los servicios de transporte colectivo que deberán modificarse como consecuencia del establecimiento de Servicio Colectivo Concesionado, misma que será señalada en el estudio que contenga el balance entre la oferta y demanda y en la declaratoria de necesidad correspondientes.
 
 ###### Artículo 20.
 
@@ -258,7 +300,9 @@ VI. Los demás requisitos que establezca la Secretaría.
 
 Los estudios técnicos realizados por la Secretaría deben contener:
 
-I. La demanda y los programas de explotación respectivos, que soporten las características de las rutas, bases de servicio o sitios de carga, por autorizar;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+I. La oferta y demanda, así como los programas de explotación respectivos, que soporten las características de las rutas, bases de servicio o sitios de carga, por autorizar;
 
 II. Infraestructura, espacios físicos, cobertura y zona de influencia para la prestación del servicio;
 
@@ -266,9 +310,39 @@ III. Características del mantenimiento del parque vehicular;
 
 IV. Características del tipo de vehículo a utilizar;
 
-V. Programa de capacitación, incentivos, renovación de flota y, en su caso, protección al ambiente y atención al público; y
+V. Programa de capacitación, incentivos, renovación de flota y, en su caso, protección al ambiente y atención al público; y (sic)
 
-VI. El análisis del posible impacto en la operación del servicio.
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+VI. El análisis del posible impacto en la operación del servicio y el impacto en la prestación de servicios por empresas diferentes a la empresa concesionada.
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+VII. En el Servicio Colectivo Concesionado, la red de servicios de transporte colectivo que deberá modificarse como consecuencia de su establecimiento.
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+VIII. Estudio de origen y destino;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+IX. La demanda y los programas de explotación respectivos, que soporten las características de la ruta o rutas a concesionar;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+X. Oferta y ordenamiento de los servicios existentes;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XI. Proyección financiera de amortización de inversiones y utilidad, y
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XII. La red de servicio que se relaciona con la movilidad de la demanda en la vialidad de que se trate y que será modificada con el establecimiento del servicio.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+En el caso del Servicio colectivo concesionado, para la modalidad referida en el artículo 2 fracción IX, inciso b), los estudios técnicos podrán ser realizados por particulares, ya sean personas físicas o morales, debidamente acreditadas ante la Secretaría y correrán a cargo de los interesados en implementar un servicio.
 
 Los particulares interesados pueden aportar estudios elaborados por su cuenta para apoyar la emisión del dictamen correspondiente.
 
@@ -296,15 +370,25 @@ IX. Causas de revocación y caducidad de la concesión o permiso;
 
 X. Prohibición de variar las condiciones de la concesión o permiso, sin la previa autorización de la Secretaría;
 
-XI. Prohibición de gravar o transmitir la concesión o permiso sin la previa autorización expresa y por escrito de la Secretaría;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
 
-XII. Determinación del tipo de los seguros que contratará; y
+XI. Prohibición de gravar o transmitir la concesión o permiso sin la previa autorización expresa y por escrito de la Secretaría. El gravamen de la concesión que en la modalidad a que se refiere el artículo 2, fracción IX, inciso b) determine en su caso la Secretaría, deberá incluirse en el título concesión.
 
-XIII. Las demás condiciones previstas en las disposiciones jurídicas y administrativas aplicables.
+XII. Determinación del tipo de los seguros que contratará; y (sic)
 
-La Secretaría puede expedir a petición de los interesados que cuenten con sus derechos vigentes, constancias de titularidad provisionales prorrogables con vigencia máxima de 6 meses.
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
 
-Sólo con autorización previa y por escrito de la Secretaría los concesionarios y permisionarios pueden gravar sus concesiones, exclusivamente para garantizar el otorgamiento de créditos para la substitución, modernización, mejoramiento y desarrollo del equipo, infraestructura y equipamiento auxiliar de transporte.
+XIII. Características de operación del Servicio Colectivo Concesionado;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XIV. Las demás condiciones previstas en las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+Sólo con autorización previa y por escrito de la Secretaría los concesionarios y permisionarios pueden gravar sus concesiones, exclusivamente para garantizar el otorgamiento de créditos para la substitución, modernización, mejoramiento y desarrollo del equipo, infraestructura y equipamiento auxiliar de transporte. La modalidad referida en el artículo 2 fracción IX, inciso a) también deberá garantizar la operación del servicio que se concesione.
 
 Los concesionarios y permisionarios que se ubiquen en este supuesto, deben solicitar la constancia de inscripción del gravamen en el Registro Público de Transporte.
 
@@ -314,9 +398,17 @@ Los concesionarios y permisionarios que se ubiquen en este supuesto, deben solic
 
 Las concesiones para la prestación del servicio público de transporte de pasajeros se otorgarán hasta por 20 años y pueden ser prorrogadas hasta por un plazo igual al concedido, siempre y cuando se den los supuestos a que se refiere la Ley.
 
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+La vigencia de las concesiones del Servicio colectivo concesionado, en la modalidad señalada en el artículo 2 fracción IX, inciso b) deberá considerar la recuperación de la inversión, la obsolescencia de la tecnología y las especificaciones de fabricación y la vida útil de los vehículos.
+
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 25.
 
-La solicitud de prórroga deberá presentarse por escrito dentro del cuarto mes anterior al vencimiento de la concesión, previa notificación que realice la Secretaría al concesionario, conforme a los datos que obren en el Registro Público de Transporte. Transcurrido el plazo para ello, se tendrá por no presentada la solicitud.
+La solicitud de prórroga deberá presentarse por escrito dentro del cuarto mes anterior al vencimiento de la concesión.
+
+Para el Servicio colectivo concesionado, el estudio técnico a que se refiere la fracción II del artículo 35 de la Ley, deberá cumplir con los requisitos que establecen los artículos 22 y 73 del presente Reglamento.
 
 #### Sección III. De la Transmisión de las Concesiones
 
@@ -378,11 +470,15 @@ La duración de los permisos podrá ser de hasta 6 años; serán prorrogables po
 
 #### Sección I. Obligaciones de los Concesionarios y Permisionarios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 33.
 
-Los concesionarios y permisionarios del servicio público de transporte de pasajeros y carga están obligados a:
+Sin perjuicio de las obligaciones que establece el artículo 42 de la Ley, los concesionarios y permisionarios del servicio público de transporte de pasajeros y carga están obligados a:
 
-I. Efectuar el servicio en los vehículos autorizados por la Secretaría;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+I. Efectuar el servicio en los vehículos autorizados por la Secretaría y en caso de personas morales, contar con el número y tipo de vehículos señalados en la concesión;
 
 II. Suspender o prestar el servicio público de transporte de manera gratuita, cuando por causas de fuerza mayor, casos fortuitos, desastres naturales, contingencias, problemas de salud pública, suspensión del servicio de transporte masivo, movimientos sociales, cuestiones de seguridad pública, o seguridad de la Nación que así lo requieran, y en cuyas situaciones la Secretaría informará a los concesionarios y permisionarios y, en su caso, sin perjuicio de percibir el pago o la indemnización correspondiente, otorgar los créditos de pago;
 
@@ -398,25 +494,39 @@ VII. Contar con encierros, equipamiento auxiliar y demás servicios auxiliares q
 
 VIII. En su caso, instalar los equipos necesarios para cobrar y recolectar la tarifa autorizada;
 
-IX. En su caso, mostrar en lugar visible del interior de los vehículos, las tarifas autorizadas, matricula y números telefónicos donde se pueden realizar quejas sobre la tarifa o el servicio; y obligar al operador a que porte en lugar visible la licencia de conducir;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+IX. En su caso, mostrar en lugar visible del interior de los vehículos, las tarifas autorizadas, matricula y números telefónicos donde se pueden realizar quejas sobre la tarifa o el servicio; y obligar al operador a que porte en lugar visible la licencia de conducir. En el Servicio Colectivo, el concesionario deberá difundir en unidades, bases y puntos de ascenso y descenso, las características del servicio siguientes: horarios, frecuencias, recorridos, atención de quejas, tarifa y medio de pago;
 
 X. Mostrar en el exterior del vehículo el domicilio donde se localiza el lugar de encierro de la unidad;
 
 XI. Capacitar a los conductores para la prestación de los servicios de transporte;
 
-XII. Presentar a la Secretaría el padrón de conductores, con todos los datos necesarios para su ubicación e identificación y la unidad a la cual están asignados;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XII. Presentar a la Secretaría el padrón de conductores, con todos los datos necesarios para su ubicación e identificación y la unidad a la cual están asignados. En concesiones otorgadas a personas morales, se deberá contar con el número de operadores suficiente para cumplir con el programa de servicio;
 
 XIII. No destinar los vehículos a fines distintos a la modalidad autorizada en el título de concesión o permiso, salvo disposición previa y temporal de la Secretaría;
 
 XIV. En su caso, proporcionar a los conductores el uniforme correspondiente;
 
-XV. Operar únicamente en los recorridos, sitios y bases de servicio autorizadas, así como mantener frecuencias de paso, respetar paradas de ascenso y descenso, vialidades, carriles autorizados y derechos de los usuarios;
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XV. Operar únicamente en los recorridos, sitios y bases de servicio autorizadas, así como mantener frecuencias de paso, respetar paradas de ascenso y descenso, vialidades, carriles autorizados y derechos de los usuarios; En el Servicio Colectivo Concesionado, el concesionario deberá operar conforme a un programa de servicio en función de la demanda que será determinado por el organismo correspondiente;
 
 XVI. Participar en los programas de seguridad, mejoramiento de los servicios de transporte y de la fluidez del tránsito que implemente la Secretaría;
 
-XVII. Respetar la capacidad de carga, volumen, dimensiones y servicios del vehículo autorizado incluyendo los de diseño especial; y
+XVII. Respetar la capacidad de carga, volumen, dimensiones y servicios del vehículo autorizado incluyendo los de diseño especial; y (sic)
 
 XVIII. Observar las obligaciones contenidas en las demás disposiciones jurídicas y administrativas, que tengan injerencia en el servicio público de transporte.
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XIX. Proporcionar a la Secretaría, los informes, datos y documentos que le sean requeridos para conocer y evaluar la prestación del servicio público autorizado.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+En el Servicio colectivo concesionado, los organismos correspondientes, serán coadyuvantes de la Secretaría en el cumplimiento de las obligaciones anteriores.
 
 #### Sección II. Obligaciones de los Conductores
 
@@ -462,9 +572,23 @@ XVIII. Estando en servicio, no desviar el vehículo del recorrido, excepto por c
 
 XIX. No utilizar los vehículos para el bloqueo de vialidades;
 
-XX. Entregar a la ventanilla única de la Secretaría para su resguardo y devolución, los objetos de los usuarios, recuperados en los vehículos de transporte de pasajeros; y
+XX. Entregar a la ventanilla única de la Secretaría para su resguardo y devolución, los objetos de los usuarios, recuperados en los vehículos de transporte de pasajeros; y (sic)
 
-XXI. Cumplir con las demás disposiciones jurídicas y administrativas aplicables.
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XXI. Estar libres de los efectos del consumo de alcohol o enervantes, estupefacientes, o sustancias psicotrópicas;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XXII. Someterse a los exámenes médicos que establezcan las disposiciones jurídicas y administrativas aplicables, y
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+XXIII. Cumplir con las demás disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+En el Servicio Colectivo Concesionado, los organismos correspondientes, serán coadyuvantes de la Secretaría en el cumplimiento de las obligaciones anteriores
 
 #### Sección III. De la Capacitación
 
@@ -504,9 +628,11 @@ I. Tren urbano de pasajeros "Metro";
 
 II. Tren ligero de pasajeros;
 
-III. Corredores de transporte; y
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
 
-IV. Otros que la Secretaría determine.
+III. Otros que la Secretaría determine.
+
+IV. (DEROGADA, G.O. 8 DE FEBRERO DE 2012)
 
 Cuando el servicio público de transporte masivo de pasajeros se suspenda por causas de fuerza mayor, caso fortuito, desastres naturales, contingencias, problemas de salud pública, suspensión del servicio de transporte masivo, movimientos sociales, cuestiones de seguridad pública, o seguridad de la Nación que así lo requieran, la Secretaría establecerá las medidas necesarias para garantizar la continuidad del mismo, también, podrá ordenar la suspensión de éste.
 
@@ -528,6 +654,10 @@ Los servicios directo, exprés y extraordinario pueden tener tarifas diferenciad
 
 El servicio público de transporte colectivo de pasajeros puede ser local o metropolitano, y requiere de un permiso complementario que al efecto expida la Secretaría para la operación de recorridos, bases e infraestructura complementaria.
 
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+El Servicio colectivo concesionado contará con Rutas Alimentadoras.
+
 ###### Artículo 41.
 
 El horario para la prestación del servicio público de transporte colectivo de pasajeros y la categoría respectiva se establecerán en el título de concesión, y deben portarse a la vista de los usuarios las cartulinas de las tarifas oficiales que al efecto expida la Secretaría.
@@ -541,6 +671,32 @@ I. Los que sean utilizados en el servicio ordinario conforme a lo que establezca
 II. Los que sean utilizados en el servicio exprés hasta en 20% del número de asientos con los que cuente.
 
 Los vehículos que sean utilizados en el servicio directo no pueden llevar pasajeros de pie.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+###### Artículo 42 Bis.
+
+La administración y supervisión operativa, frecuencia del servicio, regulado y controlado de los Corredores Concesionado y de otras modalidades del transporte público de pasajeros estarán a cargo del organismo que se cree por acuerdo del Jefe de Gobierno para tal efecto.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+###### Artículo 42 Ter.
+
+El servicio colectivo concesionado tendrá además, las siguientes características:
+
+I. Servicio de alta capacidad que opera en una vialidad con carriles preferenciales o reservados para el transporte público, total o parcialmente confinado, que además incluye:
+
+a) Paradas preestablecidas;
+
+b) Autobuses con tecnología actual y ambientalmente adecuada;
+
+c) Servicio programado y regulado en función de la demanda;
+
+d) Cobro de la tarifa al usuario mediante tarjeta de prepago;
+
+e) Concesionarios en la forma de personas morales en la modalidad que establezca la Declaratoria de Necesidad correspondiente, y
+
+f) Un fideicomiso que administre los recursos generados por la operación del corredor.
 
 #### Sección III. Del Servicio Individual de Pasajeros, o de Taxi
 
@@ -792,7 +948,21 @@ II. El Servicio de Transportes Eléctricos;
 
 IV (SIC). La Red de Transportes de Pasajeros; y
 
-IV. Otros sistemas que la Secretaría establezca.
+> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+IV. Metrobús;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+V. Corredores Concesionados;
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+VI. Rutas alimentadoras, y
+
+> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2012)</small>
+
+VII. Otros sistemas que la Secretaría establezca.
 
 ###### Artículo 70.
 
@@ -802,9 +972,11 @@ Los organismos descentralizados y empresas de participación estatal, de la Admi
 
 Los Organismos descentralizados y empresas de participación estatal, de la Administración Pública del Distrito Federal deben dar de alta ante la Secretaría los vehículos para circular en las vías públicas del Distrito Federal.
 
+> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 72.
 
-La Secretaría autorizará el establecimiento de vialidades confinadas, carriles confinados y corredores de transporte.
+La Secretaría autorizará el establecimiento de vialidades confinadas y carriles confinados.
 
 ###### Artículo 73.
 
@@ -937,6 +1109,10 @@ La Secretaría podrá autorizar los permisos para contratar y colocar anuncios p
 En el caso de los anuncios que se encuentren en unidades propias y éstos se refieran al giro mercantil de la empresa, así como, cuando se trate de aquellos que contengan mensajes de carácter cívico, social, cultural, deportivo, artesanal, teatral o de folklore y la actividad o evento que promocionen no persiga fines de lucro, y sean promovidos por alguna autoridad, asociación civil o institución de asistencia social, no se requerirá obtener el permiso mencionado en el párrafo que antecede.
 
 Los concesionarios y permisionarios interesados en colocar publicidad en vehículos del servicio de transporte, deben tramitar su permiso correspondiente en la Secretaría. En el caso de bicicletas adaptadas, la Delegación emitirá, la autorización correspondiente.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+En el servicio colectivo concesionado queda prohibida la instalación de publicidad en el exterior de los vehículos. La publicidad al interior de los vehículos que autorice la Secretaría deberá contar con el dictamen técnico del organismo que corresponda.
 
 ###### Artículo 85.
 
@@ -1140,6 +1316,12 @@ Las tarifas y sus modificaciones deben ser publicadas en la Gaceta Oficial del D
 
 Las tarifas autorizadas por el Jefe de Gobierno, son de cumplimiento obligatorio, cualquier alteración de éstas es causal de cancelación de la concesión o permiso.
 
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+###### Artículo 100 Bis.
+
+Las tarifas del Metrobús se actualizarán conforme al aumento que se autorice en el precio del diesel. Dicho incremento surtirá efectos a partir de la publicación del aviso que emita la Secretaría, en la Gaceta Oficial del Distrito Federal.
+
 ## TÍTULO TERCERO. DE LA VERIFICACIÓN, INFRACCIONES Y SANCIONES
 
 ### Capítulo Primero. De la Verificación
@@ -1284,6 +1466,14 @@ Cualquier otra violación a las condiciones establecidas en la concesión o perm
 
 En la comisión de las infracciones establecidas en este Reglamento, se considera solidariamente responsable, al titular de la Concesión o permiso de que se trate.
 
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+La aplicación de multas a los conductores es sin perjuicio de la responsabilidad en que incurran los concesionarios y permisionarios del servicio público y sin perjuicio de su propia responsabilidad conforme a otras disposiciones legales.
+
+> <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2012)</small>
+
+Los concesionarios y permisionarios del servicio de transporte son solidariamente responsables del pago de las multas de tránsito impuestas a sus conductores.
+
 > <small>(ADICIONADO, G.O. 17 DE ABRIL DE 2009)</small>
 
 ###### Artículo 102 Bis.
@@ -1339,3 +1529,11 @@ G.O. 24 DE JUNIO DE 2009.
 PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. - El presente acuerdo entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE FEBRERO DE 2012.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente decreto entrará en vigor el día de su publicación.
+
+Tercero. Las referencias que en éste Reglamento se hacen a los Corredores de Transporte Público de Pasajeros del Distrito Federal se entenderán dirigidas a Metrobús.
