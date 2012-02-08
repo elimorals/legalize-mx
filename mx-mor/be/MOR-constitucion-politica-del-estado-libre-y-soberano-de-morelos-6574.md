@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2011-10-19"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -30,7 +30,7 @@ VICENTE ESTRADA CAJIGAL, Gobernador Constitucional del Estado Libre y Soberano d
 
 Que el H. Congreso Constituyente del Estado, se ha servido enviarme para su promulgación, la siguiente
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS,
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS,
 
 que reforma la del año de 1888.
 
@@ -38,7 +38,7 @@ que reforma la del año de 1888.
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ### CAPITULO I.
 
@@ -50,7 +50,7 @@ DE LA SOBERANIA, INDEPENDENCIA, TERRITORIO, Y FORMA DE GOBIERNO DEL ESTADO Y DE 
 
 El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estado Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, Laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la ciudad de Cuernavaca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 2.
 
@@ -310,7 +310,7 @@ Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ci
 
 La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 19.
 
@@ -320,7 +320,7 @@ La mujer y el varón tienen igualdad de derechos ante la Ley. Los ordenamientos 
 
 I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 II.- Los niños, niñas y adolescentes tienen derecho:
 
@@ -390,7 +390,7 @@ g).- Las medidas de seguridad preventivas y definitivas a favor de las mujeres.
 
 Asimismo, los morelenses tienen el derecho de contar con las oportunidades y condiciones necesarias para su desarrollo físico y mental, en el ámbito de las diferentes disciplinas y niveles del deporte.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 1999)</small>
 
 ### CAPITULO IV.
 
@@ -496,15 +496,15 @@ No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Con
 
 El Instituto Estatal Electoral será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, así como de preparar, desarrollar y vigilar estos procedimientos de conformidad con la presente Constitución y la Ley de la materia.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO OCTAVO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
-> <small>(DEROGADO NOVENO PARRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
 
@@ -614,7 +614,7 @@ VI.- Para garantizar los principios de legalidad y constitucionalidad de los act
 
 VII.- Quienes hubieren ejercido los cargos de Consejero Presidente y consejeros estatales electorales, los magistrados del Tribunal Estatal Electoral y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ### CAPITULO III.
 
@@ -650,7 +650,7 @@ DEL PODER LEGISLATIVO.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 24.
 
@@ -668,7 +668,7 @@ El Congreso del Estado se renovará en su totalidad cada tres años. Por cada di
 
 Ningún partido político podrá contar con más de dieciocho Diputados por ambos principios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 25.
 
@@ -698,7 +698,7 @@ Para poder figurar en las listas de las circunscripciones electorales plurinomin
 
 La vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 1996)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 26.
 
@@ -794,7 +794,7 @@ Para el caso de que el Congreso dejare de aprobar, en los términos de esta Cons
 
 En los casos en que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Estado deba continuar vigente no obstante haber sido aprobado para el ejercicio fiscal anterior, las partidas correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada que hubiesen sido autorizadas en el Presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1016,13 +1016,13 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XXVII.- Recibir de los Diputados, Gobernador, Procurador General de Justicia, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Estatal Electoral, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor Superior de Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1042,13 +1042,13 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Consejero Presidente y Consejeros Estatales Electorales del Instituto Estatal Electoral y del Procurador General de Justicia, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor Superior de Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los órganos superiores de los organismos constitucionales autónomos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1086,7 +1086,7 @@ XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al E
 
 XL.- Nombrar a los Consejeros propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1100,7 +1100,7 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1110,13 +1110,13 @@ XLIV.- Designar, con el voto de las dos terceras partes de los miembros presente
 
 XLV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
 XLVI.- Expedir leyes o decretos a fin de crear organismos descentralizados, empresas de participación o fideicomisos públicos, sean estatales o municipales y sus modificaciones. Así mismo, para integrar con el voto de la tercera parte de los Diputados, las comisiones que procedan para la investigación del funcionamiento de los citados organismos auxiliares estatales o municipales o de cualquier dependencia de la administración central de ambos órdenes de gobierno dando a conocer los resultados al Ejecutivo o al Ayuntamiento, sin demérito de la intervención que corresponda en su caso a la Auditoría Superior de Fiscalización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1154,7 +1154,7 @@ LIV.- Solicitar al Consejo de Participación Ciudadana y al Instituto Estatal El
 
 LV.- Incoar el procedimiento sobre responsabilidades políticas y de declaración de procedencia a los servidores públicos señalados en los artículos 136 y 137 de esta Constitución; determinar las responsabilidades administrativas a que alude el artículo 141 de este ordenamiento y la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos, a los servidores públicos estatales y municipales, sea que presten sus servicios en la Administración Central o en cualquier organismo auxiliar, cuando éstas se deriven de los actos de fiscalización a los recursos humanos, materiales y financieros, plan o planes, y programas tanto del erario público estatal como de los municipales, e iniciar los juicios civiles o las querellas o denuncias respectivas, considerando la excepción prevista en el artículo 145 de esta Constitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1176,7 +1176,7 @@ b) Autorizar, en su caso, conforme a las bases que se establezcan en la ley, al 
 
 LVIII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 41.
 
@@ -1294,7 +1294,7 @@ En la reforma, derogación o abrogación de las leyes o decretos, se observarán
 
 Todo proyecto de Ley o Decreto que fuese desechado por el Congreso, no podrá volver a presentarse en las sesiones del año; a menos que lo acuerde la mayoría simple de sus integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 52.
 
@@ -1458,7 +1458,7 @@ El cargo de Gobernador sólo es renunciable por causa grave calificada por el Co
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
 
-###### ARTICULO 63.
+###### Artículo 63.
 
 Las faltas del Gobernador hasta por sesenta días, serán cubiertas por el Secretario de Gobierno. Si la falta fuera por mayor tiempo, será cubierta por un Gobernador interino que nombrará el Congreso, y en los recesos de éste, la Diputación Permanente convocará a período de sesiones extraordinarias para que se haga la designación.
 
@@ -1484,7 +1484,7 @@ Si el Congreso no estuviere reunido al ocurrir cualquiera de los casos a que se 
 
 Los ciudadanos nombrados por el Congreso, conforme al artículo 65 de esta Constitución, no podrán ser electos para Gobernador Constitucional del Estado, para el período inmediato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 68.
 
@@ -1506,7 +1506,7 @@ En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la p
 
 DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 70.
 
@@ -1688,7 +1688,7 @@ El Gobernador del Estado podrá celebrar convenios sobre las materias que sean n
 
 En el ámbito municipal y en el caso en que no exista el convenio respectivo, el Congreso del Estado, a solicitud previa del Ayuntamiento, aprobada por cuando menos las dos terceras partes de sus integrantes, valorará la conveniencia de que el Estado asuma funciones o servicios municipales, cuando se considere que el Gobierno Municipal se encuentra imposibilitado para ejercerlos o prestarlos, determinando en estos casos el procedimiento y las condiciones para que el Gobierno Estatal las asuma.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 72.
 
@@ -1706,7 +1706,7 @@ II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterio
 
 El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de esta Constitución, ejercerá las facultades, tendrá las atribuciones y quedará sujeto a las restricciones a que se refieren los tres artículos anteriores, en cuanto fueren aplicables e indispensables para la conservación del orden, la continuación de los servicios públicos, hasta donde lo permita la normalidad de la situación, y para restablecer el orden constitucional en el Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO III.
 
@@ -1726,15 +1726,15 @@ La creación, fusión, modificación o extinción de las Secretarías de Despach
 
 Las funciones de apoyo interno del Poder Ejecutivo, tales como: La de servicios jurídicos de cualquier naturaleza, sean de asesoría, consultoría o contencioso administrativo o jurisdiccional, entre otras; así como las de administración de recursos materiales y financieros y en su caso las de evaluación, control y seguimiento o sus equivalentes, sea cual sea su denominación, no podrán recibir el rango jurídico, presupuestal ni operativo de secretarías de despacho. El Congreso valorará y vigilará en todos los casos el cumplimiento de esta disposición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 75.
 
 Para ser Secretario de Despacho se requiere:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2012)</small>
 
-I.- Ser ciudadano morelense por nacimiento ó por residencia, debiendo en éste último caso, tener un mínimo de 10 años de residencia en el Estado.
+I.- Ser ciudadano morelense por nacimiento o ciudadano mexicano por nacimiento, debiendo en este último caso, tener un mínimo de tres años de residencia en el Estado. Para tal efecto, no se considerará interrumpido ese plazo de residencia cuando la o las ausencias sumen un máximo de ciento veinte días, así como tampoco cuando las mismas, independientemente de su duración, sean con motivo del desempeño de un cargo público de la Federación por elección popular o designación o en un partido político.
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 1998)</small>
 
@@ -1778,13 +1778,13 @@ Los Servidores Públicos a que se refiere el artículo 74 de esta Constitución,
 
 Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán entregar al Congreso del Estado, las declaraciones patrimoniales de bienes que establece el Artículo 133 bis de la presente Constitución.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
 ### CAPITULO IV.
 
 DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 79-A.
 
@@ -1816,7 +1816,7 @@ VI.- Bajo pena de responsabilidad, remitir al Juez competente, dentro de los pla
 
 VII.- Ejercer las demás atribuciones que le encomienden las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 79-B.
 
@@ -1902,7 +1902,7 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con auto
 
 No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de esté artículo constituye en responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -1968,7 +1968,7 @@ El fenómeno de conurbación interestatal se presenta cuando dos o más centros 
 
 El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2007)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2007)</small>
 
 ### CAPITULO VI.
 
@@ -1978,25 +1978,25 @@ DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
 (DEROGADO, P.O. 21 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1995)</small>
 
 ### CAPITULO VII.
 
 DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 85-D.
+###### Artículo 85-D.
 
 Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
-###### ARTÍCULO 85-E.
+###### Artículo 85-E.
 
 El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integral y sustentable, para este efecto, también garantizará la conservación del patrimonio natural del estado, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del estado.
 
@@ -2004,7 +2004,7 @@ El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integra
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ## TITULO QUINTO.
 
@@ -2208,7 +2208,7 @@ Las faltas absolutas de los Magistrados se cubrirán mediante nombramiento, en t
 
 Los Magistrados, los Jueces y los Consejeros de la Judicatura Estatal percibirán una remuneración adecuada a su alta responsabilidad, la cual será irrenunciable y no podrá ser disminuida durante el ejercicio del cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 99.
 
@@ -2304,7 +2304,7 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO V.
 
@@ -2316,9 +2316,9 @@ DEL TRIBUNAL ESTATAL ELECTORAL.
 
 DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
 
@@ -2354,7 +2354,7 @@ La Ley establecerá su organización, su funcionamiento, el procedimiento y los 
 
 Los Magistrados deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales de bienes en los términos del Artículo 133-bis de esta Constitución.
 
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
 
 ### CAPÍTULO VII.
 
@@ -2378,7 +2378,7 @@ La Defensoría Pública ejercerá las funciones que en materia penal le atribuye
 
 El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario de Gobierno.
 
-> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION] CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JULIO DE 2008)</small>
 
 ### CAPITULO II.
 
@@ -2406,7 +2406,7 @@ En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el c
 
 En caso de retiro y retiro forzoso, les serán aplicables las disposiciones previstas para los Magistrados del Tribunal Superior de Justicia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO IV.
 
@@ -2440,13 +2440,13 @@ El Magistrado del Tribunal Unitario de Justicia para Adolescentes administrará 
 
 Habrá un Magistrado titular y suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado. Serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición, y durarán en su encargo tres años, pudiendo ser reelecto únicamente por otro periodo igual.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NUMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENULTIMO Y ULTIMO PARRAFOS, QUEDAN INTEGRADOS EN UNO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENÚLTIMO Y ÚLTIMO PÁRRAFOS, QUEDAN INTEGRADOS EN UNO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 La Ley Orgánica establecerá la organización, el funcionamiento, las atribuciones del Tribunal y demás disposiciones para el correcto desempeño de sus funciones. La información relacionada con los procesos jurisdiccionales en materia de justicia para adolescentes no será pública.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPÍTULO III.
 
@@ -2474,11 +2474,11 @@ La información relacionada con los procesos jurisdiccionales en materia de just
 
 DEL MUNICIPIO LIBRE.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V.
+### CAPITULO VI.
 
-DE SU HACIENDA.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2498,11 +2498,11 @@ Los Municipios citados se agruparán en Distritos Judiciales para la mejor admin
 
 La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO VII.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE LOS REQUISITOS DE ELEGIBILIDAD.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2528,9 +2528,9 @@ Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VII.
+### CAPITULO V.
 
-DE LOS REQUISITOS DE ELEGIBILIDAD.
+DE SU HACIENDA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2734,7 +2734,7 @@ VI.- Las disposiciones aplicables en aquellos municipios que no cuenten con los 
 
 VII.- Los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquéllos, con motivo de los actos derivados de las fracciones II, III, IV y V de este Artículo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ### CAPITULO IV.
 
@@ -2770,7 +2770,7 @@ El Congreso del Estado expedirá la Ley o Decreto de Ley respectiva, en la que s
 
 DE LA ADMINISTRACION DEL ESTADO.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPITULO X DEL TITULO SEXTO], P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO X DEL TÍTULO SEXTO], P.O. 11 DE AGOSTO DE 2003)</small>
 
 ### CAPITULO I.
 
@@ -2904,7 +2904,7 @@ El Presidente del Congreso protestará en iguales términos al instalarse el Con
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADA SU NUMERACION, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE JULIO DE 2005)</small>
 
 ###### Artículo 133
 
@@ -2916,7 +2916,7 @@ Las declaraciones deberán contener los bienes propios, de todo tipo, los de su 
 
 La presentación se hará ante el propio Congreso del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE JULIO DE 2005)</small>
 
 ###### Artículo 133
 
@@ -2924,13 +2924,13 @@ TER.- La responsabilidad del Estado por los daños que, con motivo de su activid
 
 El pago de la indemnización se efectuará después de seguir los procedimientos que la ley establezca, el cual estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 1983)</small>
 
 ## TITULO SEPTIMO.
 
 DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 134.
 
@@ -2946,9 +2946,9 @@ Al Gobernador solo se le podrá exigir responsabilidad durante su cargo, mediant
 
 El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
 
 ###### Artículo 136.
 
@@ -2974,7 +2974,7 @@ Son responsables y serán sometidos a juicio político por actos y omisiones en 
 
 En los casos del Artículo anterior, el Congreso erigido en Jurado de declaración oirá al acusado, a su defensor o a ambos si quisieren, y previa lectura del expediente respectivo decidirá si es o no responsable. Si la declaración fuere absolutoria el Servidor Público continuará en el ejercicio de su encargo. Si fuere condenatorio, quedará suspenso y a disposición del Tribunal Superior de Justicia para los efectos del Artículo siguiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 139.
 
@@ -3008,7 +3008,7 @@ En asuntos del orden civil no hay inmunidad para ningún servidor público.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
-###### ARTICULO 143.
+###### Artículo 143.
 
 La responsabilidad que dé origen a Juicio Político sólo podrá exigirse contra el Servidor durante el período de su encargo o dentro de un año después de la terminación del mismo.
 
@@ -3030,7 +3030,7 @@ La responsabilidad administrativa en que incurran los Secretarios de las Salas, 
 
 Se concede acción popular para denunciar ante las Autoridades correspondientes los actos u omisiones que realicen los Servidores Públicos que les originen responsabilidad alguna en los términos del presente Título.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ## TITULO OCTAVO.
 
@@ -3060,7 +3060,7 @@ En caso de invasión o perturbación grave de la paz o del orden público, el Ej
 
 Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2002)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2002)</small>
 
 ###### Artículo 151.
 
@@ -3102,19 +3102,19 @@ El Oficial Mayor Encargado de la Secretaría General de Gobierno,
 
 LUIS G. CAMPO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS A LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS A LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 16 DE OCTUBRE DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 12 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 13 DE DICIEMBRE DE 1936.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 28 DE ABRIL DE 1946.
 
@@ -3130,7 +3130,7 @@ P.O. 14 DE JUNIO DE 1950.
 
 P.O. 26 DE JULIO DE 1950.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 28 DE OCTUBRE DE 1953.
 
@@ -3144,7 +3144,7 @@ Remítase al Ejecutivo del Estado para los efectos a que se contrae la fracción
 
 P.O. 28 DE OCTUBRE DE 1953.
 
-DECRETO NUMERO 10
+DECRETO NÚMERO 10
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1954)</small>
 
@@ -3296,13 +3296,13 @@ SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgació
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NUMERO 76
+DECRETO NÚMERO 76
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NUMERO 77
+DECRETO NÚMERO 77
 
 PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado libre y soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
 
@@ -3350,7 +3350,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 7 DE JULIO DE 1988.
 
-DECRETO NUMERO 8
+DECRETO NÚMERO 8
 
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3358,7 +3358,7 @@ SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efecto
 
 P.O. 7 DE JULIO DE 1988.
 
-DECRETO NUMERO 9
+DECRETO NÚMERO 9
 
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3442,19 +3442,19 @@ SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal p
 
 P.O. 3 DE JUNIO DE 1992.
 
-DECRETO NUMERO 222
+DECRETO NÚMERO 222
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 P.O. 3 DE JUNIO DE 1992.
 
-DECRETO NUMERO 223
+DECRETO NÚMERO 223
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 P.O. 3 DE JUNIO DE 1992.
 
-DECRETO NUMERO 224
+DECRETO NÚMERO 224
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
@@ -3466,7 +3466,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 22 DE MARZO DE 1995.
 
-DECRETO NUMERO 212
+DECRETO NÚMERO 212
 
 PRIMERO.- Se deroga la Ley Orgánica de la Procuraduría Ecológica, publicada en el Periódico Oficial "Tierra y Libertad" Número 3600, de fecha siete de agosto de mil novecientos noventa y dos.
 
@@ -3476,7 +3476,7 @@ TERCERO.- El presente decreto iniciará su vigencia al día siguiente de su publ
 
 P.O. 22 DE MARZO DE 1995.
 
-DECRETO NUMERO 214
+DECRETO NÚMERO 214
 
 PRIMERO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales en el Estado, para los efectos que indica el artículo 147 de la Constitución Política del Estado de Morelos.
 
@@ -3552,7 +3552,7 @@ Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los e
 
 P.O. 1 DE SEPTIEMBRE DE 2000.
 
-DECRETO NUMERO 1234
+DECRETO NÚMERO 1234
 
 PRIMERO.- El Presente Decreto de reformas, adiciones y derogaciones a diversas disposiciones de la Constitución Política del Estado de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos; por tanto se dejan sin efectos jurídicos el artículo tercero transitorio de la reforma a esta Constitución, aprobado en el Decreto Número 789 de fecha 30 de octubre de 1996, y publicado en el Periódico Oficial Tierra y Libertad número 3824, con la misma fecha.
 
@@ -3572,7 +3572,7 @@ QUINTO.- Lo dispuesto por los artículos 33, 19-bis en su apartado de reforma, 6
 
 P.O. 1 DE SEPTIEMBRE DE 2000.
 
-DECRETO NUMERO 1235
+DECRETO NÚMERO 1235
 
 PRIMERO.- El presente Decreto de reformas y adiciones a diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día en que el Congreso del Estado haga el cómputo de los Ayuntamientos, siempre que resulte favorable, emitirán también la declaratoria correspondiente, el Decreto será publicado en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
@@ -3590,7 +3590,7 @@ QUINTO.- Las disposiciones contenidas en el artículo 19-bis, en su apartado de 
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 624
+DECRETO NÚMERO 624
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3604,7 +3604,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 625
+DECRETO NÚMERO 625
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3616,7 +3616,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 626
+DECRETO NÚMERO 626
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3630,7 +3630,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 628
+DECRETO NÚMERO 628
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3644,7 +3644,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 11 DE AGOSTO DE 2003.
 
-DECRETO NUMERO 1067
+DECRETO NÚMERO 1067
 
 Artículo Primero.- Las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por la fracción I de su artículo 147.
 
@@ -3668,7 +3668,7 @@ Artículo Noveno.- Remítase el presente decreto al Titular del Poder Ejecutivo 
 
 P.O. 11 DE AGOSTO DE 2003.
 
-DECRETO NUMERO 1068
+DECRETO NÚMERO 1068
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3684,7 +3684,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 11 DE AGOSTO DE 2003.
 
-DECRETO NUMERO 1069
+DECRETO NÚMERO 1069
 
 Artículo Primero.- Las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por la fracción I de su artículo 147.
 
@@ -3896,7 +3896,7 @@ Segundo.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 P.O. 16 DE JULIO DE 2008.
 
-DECRETO No. 822, POR EL QUE SE REFORMA EL ARTICULO 23 FRACCION VI, PARRAFO TERCERO; 32, PARRAFOS NOVENO Y DECIMO, 40, FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLIV, XLVI, XLVII Y LV; 84, 109-BIS, PRIMER PARRAFO, 109-TER, TERCER PARRAFO Y 136 DE LA CONSTITUCION POLITICA DEL ESTADO DE MORELOS.
+DECRETO No. 822, POR EL QUE SE REFORMA EL ARTÍCULO 23 FRACCIÓN VI, PÁRRAFO TERCERO; 32, PÁRRAFOS NOVENO Y DÉCIMO, 40, FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLIV, XLVI, XLVII Y LV; 84, 109-BIS, PRIMER PÁRRAFO, 109-TER, TERCER PÁRRAFO Y 136 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -3922,7 +3922,7 @@ DÉCIMO.- Se derogan todas las disposiciones que se opongan al presente.
 
 P.O. 16 DE JULIO DE 2008.
 
-DECRETO No. 823, POR EL QUE SE ADICIONA UN PARRAFO A LA FRACCION I DEL ARTICULO 14; SE REFORMAN LOS ARTICULOS 23 Y 134 DE LA CONSTITUCION POLITICA DEL ESTADO DE MORELOS.
+DECRETO No. 823, POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 14; SE REFORMAN LOS ARTÍCULOS 23 Y 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -3980,7 +3980,7 @@ Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente 
 
 P.O. 29 DE ABRIL DE 2009.
 
-DECRETO NO. 1208, POR EL QUE REFORMA LA FRACCION VIII DEL ARTICULO 90 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NO. 1208, POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
 
@@ -4084,7 +4084,7 @@ TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo disp
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 1372 POR EL QUE SE ADICIONA EL ARTICULO 85-D RECORRIENDOSE EL SUBSECUENTE PARA QUEDAR COMO ARTICULO 85-E, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+DECRETO NÚMERO 1372 POR EL QUE SE ADICIONA EL ARTÍCULO 85-D RECORRIÉNDOSE EL SUBSECUENTE PARA QUEDAR COMO ARTÍCULO 85-E, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 PRIMERO.- Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto a la adición de un Artículo 85-D, de la propia Constitución, junto con el dictamen y los debates que se hayan generado.
 
@@ -4096,7 +4096,7 @@ CUARTO.- El presente decreto iniciará su vigencia, 15 días después de su publ
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 1373 POR EL QUE SE ADICIONA EL ARTICULO 2 TER AL CAPITULO PRIMERO DEL TITULO PRIMERO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1373 POR EL QUE SE ADICIONA EL ARTÍCULO 2 TER AL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4108,7 +4108,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 1374 POR EL QUE SE REFORMA EL ARTICULO 19, FRACCION II, INCISO E) DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1374 POR EL QUE SE REFORMA EL ARTÍCULO 19, FRACCIÓN II, INCISO E) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4128,7 +4128,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 1375 POR EL QUE SE ADICIONA LA FRACCION XVI AL ARTICULO 40 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1375 POR EL QUE SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -4137,3 +4137,9 @@ SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto 
 TERCERO.- La revisión y observaciones a que se refiere la fracción XVI del artículo 40, se realizarán a partir del Plan Estatal de Desarrollo que entregue la administración cuyo encargo inicie en el año 2012.
 
 CUARTO.- El Congreso del Estado de Morelos, en un término de ciento veinte días hábiles, a partir de la publicación de la declaratoria correspondiente, deberá aprobar y publicar la reforma respectiva a la Ley de Planeación Estatal y la Ley Orgánica para el Congreso del Estado de Morelos, con el fin de adecuarla a la presente reforma constitucional.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
+
+SEGUNDO.- Aprobado que sea el presente Decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
