@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2011-12-06"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1059,9 +1059,15 @@ d) Guardar reserva de los asuntos que el Pleno haya acordado mantener con ese ca
 
 e) Cumplir oportuna y eficazmente con las tareas que se le encomienden;
 
-f) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cortesía hacia los demás integrantes del Pleno y respetar las determinaciones del presidente de la Mesa Directiva, y
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-g) Preservar la dignidad de la representación popular que tienen conferida con motivo de su actuación en el Congreso y los órganos del mismo, así como en su desempeño en todo acto de carácter público.
+f) Rendir un informe anual a la sociedad respecto de sus actividades legislativas, de gestión y de representación;
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
+g) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cortesía hacia los demás integrantes del Pleno y respetar las determinaciones del Presidente de la Mesa Directiva; y
+
+h) Preservar la dignidad de la representación popular que tienen conferida con motivo de su actuación en el Congreso y los órganos del mismo, así como en su desempeño en todo acto de carácter público.
 
 2. Los diputados cumplirán con los deberes que deriven de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de las leyes que de ellas emanen.
 
@@ -2498,5 +2504,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 6 DE DICIEMBRE DE 2011.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
