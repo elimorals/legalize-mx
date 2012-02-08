@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2011-10-13"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2012.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -286,9 +286,13 @@ Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad
 
 Toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud y establecerá la concurrencia de la Federación y las entidades federativas en materia de salubridad general, conforme a lo que dispone la fracción XVI del artículo 73 de esta Constitución.
 
-> <small>(ADICIONADO, D.O.F. 28 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
 
-Toda persona tiene derecho a un medio ambiente adecuado para su desarrollo y bienestar.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
+
+> <small>(ADICIONADO, D.O.F. 8 DE FEBRERO DE 2012)</small>
+
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 7 DE FEBRERO DE 1983)</small>
 
@@ -9699,6 +9703,14 @@ DECRETO POR EL QUE SE REFORMAN LOS PARRAFOS SEXTO Y SEPTIMO DEL ARTICULO 4o. Y S
 D.O.F. 13 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE FEBRERO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión, contará con un plazo de 180 días para incorporar las disposiciones relativas al derecho a un medio ambiente sano y las responsabilidades por el daño y deterioro ambiental.
+
+Tercero.- El Congreso de la Unión, contará con un plazo de 360 días para emitir una Ley General de Aguas.
 
 ###### ARTICULO PRIMERO.
 
