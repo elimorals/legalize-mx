@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-para-los-municipios-del-estado-de-michoacan-843
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-29"
-last_updated: "2011-12-29"
+last_updated: "2012-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS PARA LOS MUNICIPIOS DEL ESTADO DE MICHOACAN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS PARA LOS MUNICIPIOS DEL ESTADO DE MICHOACÁN DE OCAMPO, PARA EL EJERCICIO FISCAL DEL AÑO 2012
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE FEBRERO DE 2012.</small>
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 29 de diciembre de 2011.
 
@@ -343,13 +343,13 @@ En ningún caso el impuesto a pagar será menor a tres días de salario mínimo 
 
 ### CAPÍTULO V. IMPUESTO SOBRE LOTES BALDÍOS SIN BARDEAR O FALTA DE BANQUETAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 10.
 
 El impuesto sobre lotes baldíos, sin bardear o falta de banquetas, se causará, liquidará y pagará anualmente por cada metro lineal o fracción del frente de los inmuebles, conforme a la siguiente:
 
-I. Para los municipios referidos en el Grupo 1, del penúltimo párrafo del artículo 1° de esta Ley:
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+I. Para los municipios referidos en el Grupo 1, del último párrafo del artículo 1° de esta Ley:
 
 CONCEPTO TARIFA
 
@@ -361,7 +361,9 @@ sus municipios. $ 101.00
 
 B) Las no comprendidas dentro del inciso anterior. $ 45.80
 
-II. Para los municipios referidos en el Grupo 2, del penúltimo párrafo del Artículo 1° de esta Ley:
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+II. Para los municipios referidos en el Grupo 2, del último párrafo del artículo 1° de esta Ley:
 
 A) Dentro del primer cuadro de la ciudad,
 
@@ -371,17 +373,17 @@ sus municipios. $ 40.00
 
 B) Las no comprendidas dentro del inciso anterior. $ 17.70
 
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
 III. Para los municipios referidos en el Grupo 3,
 
-del penúltimo párrafo del artículo 1° de esta Ley. $ 14.00
+del último párrafo del artículo 1° de esta Ley. $ 14.00
 
 No causarán este impuesto los lotes baldíos que no hayan sido enajenados por primera vez en fraccionamientos de nueva creación, dentro de los dos primeros años, así como tampoco aquellos lotes baldíos que carezcan únicamente de banqueta por falta de pavimento, adoquinado, empedrado o similares en la calle de su ubicación o en los linderos a la vía pública.
 
 El pago de este impuesto es anual y se dividirá en seis partes que se pagarán bimestralmente a partir del siguiente bimestre de su registro en el padrón de contribuyentes de impuesto sobre lotes baldíos sin bardear o falta de banquetas.
 
 Para los efectos de la aplicación de este impuesto, los ayuntamientos definirán el primer cuadro y las zonas, en planos que estarán a la vista de los contribuyentes.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ###### ARTÍCULO 11.
 
@@ -391,7 +393,9 @@ I. Honorarios y gastos de ejecución;
 
 II. Recargos:
 
-A) Por falta de pago oportuno fuera del primer trimestre del Ejercicio Fiscal, el 1.0% mensual;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+A) Por falta de pago oportuno, el 1.0% mensual;
 
 B) Por prórroga o pago en parcialidades hasta 12 meses, el 1.25% mensual; y,
 
@@ -495,8 +499,6 @@ Para los efectos del cobro de este derecho, los ayuntamientos definirán el prim
 
 El pago de las contribuciones a que se refiere este artículo, no convalida el derecho al uso de la vía pública, quedando este último, sujeto a las disposiciones reglamentarias que emita el Ayuntamiento en cada municipio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 15.
 
 Los derechos por servicios de mercados, se causarán, liquidarán y pagarán diariamente, por metro cuadrado o fracción, de acuerdo con la siguiente:
@@ -519,7 +521,9 @@ III. Por el servicio de sanitarios públicos. $ 2.00
 
 Para los efectos de la aplicación de las cuotas a que se refiere este artículo y el anterior, se atenderá a lo que disponga el Reglamento Municipal de la materia respectiva.
 
-Para los efectos de la aplicación de las cuotas a que se refiere este artículo y el anterior, se atenderá a la clasificación de municipios señalados en el penúltimo párrafo del Artículo 1° de esta Ley.
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+Para los efectos de la aplicación de las cuotas a que se refiere este artículo y el anterior, se atenderá a la clasificación de municipios señalados en el último párrafo del artículo 1° de esta Ley.
 
 DERECHOS POR PRESTACIÓN DE SERVICIOS
 
@@ -595,8 +599,6 @@ Los derechos por el abastecimiento de agua potable y por los servicios de alcant
 
 ### CAPÍTULO IV. POR SERVICIOS DE PANTEONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 18.
 
 Los derechos por servicios prestados en panteones municipales, se causarán, liquidarán y pagarán conforme a la siguiente:
@@ -617,7 +619,9 @@ II. Por inhumación de un cadáver o restos, por cinco
 
 años de temporalidad o más. $ 66.50
 
-III. Los derechos de perpetuidad en las cabeceras municipales referidas en los Grupos 1 y 2 del penúltimo párrafo del artículo 1° de esta Ley, adicionalmente a la cuota correspondiente a la inhumación del cadáver o depósito de restos, se causarán, liquidarán y pagarán como sigue:
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+IlI. Los derechos de perpetuidad en las cabeceras municipales referidas en los Grupos 1 y 2 del último párrafo del artículo 1° de esta Ley, adicionalmente a la cuota correspondiente a la inhumación del cadáver o depósito de restos, se causarán y pagarán como sigue:
 
 A) Concesión de perpetuidad:
 
@@ -635,7 +639,9 @@ B) Refrendo anual:
 
 3. Sección C. $ 105.00
 
-IV. Los derechos de perpetuidad en las cabeceras municipales del Estado, referidas en el Grupo 3, del penúltimo párrafo del artículo 1° de esta Ley, adicionalmente a la cuota correspondiente a la inhumación del cadáver o depósito de restos, se causarán, liquidarán y pagarán como sigue:
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+IV. Los derechos de perpetuidad en las cabeceras municipales del Estado, referidas en el Grupo 3, del último párrafo del artículo 1° de esta Ley, adicionalmente a la cuota correspondiente a la inhumación del cadáver o depósito de restos, se causarán y pagarán como sigue:
 
 A) Concesión de perpetuidad:
 
@@ -949,8 +955,6 @@ Para los efectos de aplicación de lo dispuesto en este artículo, se entenderá
 
 ### CAPÍTULO IX. POR EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS O PERMISOS PARA LA COLOCACIÓN DE ANUNCIOS PUBLICITARIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 25.
 
 Los derechos por la expedición de licencias o permisos y revalidación anual de las mismas, por la colocación de anuncios publicitarios, cualquiera que sea el lugar en que se fijen o instalen, el procedimiento para su colocación y los materiales, estructuras y soportes que se utilicen en su construcción, se causarán, liquidarán y pagarán conforme a las cuotas por metro cuadrado que en el equivalente a días de salario mínimo general vigente en el Estado, se establecen para los municipios, como se señala a continuación:
@@ -963,21 +967,27 @@ POR POR
 
 EXPEDICIÓN REVALIDACIÓN
 
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
 A) En los municipios señalados en el
 
-Grupo 1 del penúltimo párrafo
+Grupo 1 del último párrafo
 
 del artículo 1° de esta Ley. 12 3
 
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
 B) En los municipios señalados en el
 
-Grupo 2 del penúltimo párrafo
+Grupo 2 del último párrafo
 
 del artículo 1° de esta Ley. 8 2
 
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
 C) En los municipios señalados en el
 
-Grupo 3 del penúltimo párrafo
+Grupo 3 del último párrafo
 
 del artículo 1° de esta Ley. 5 1
 
@@ -1589,8 +1599,6 @@ XIII. Certificación y reposición de copias heliográficas por cada decímetro 
 
 XIV. Por dictamen técnico para la autorización de publicidad en desarrollo y desarrollo en condominio. $ 2,058.20
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 32.
 
 Tratándose de las contribuciones por concepto de Derechos a que se refiere el presente Título, que no hayan sido cubiertas en la fecha o dentro del plazo fijado por la Ley de Hacienda Municipal del Estado de Michoacán, se causarán honorarios y gastos de ejecución, recargos, multas e indemnización, de conformidad con lo siguiente:
@@ -1599,7 +1607,9 @@ I. Honorarios y gastos de ejecución;
 
 II. Recargos:
 
-A) Por falta de pago oportuno fuera del primer trimestre del Ejercicio Fiscal, el 1.0% mensual;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+A) Por falta de pago oportuno, el 1.0% mensual;
 
 B) Por prórroga o pago en parcialidades hasta 12 meses, el 1.25% mensual; y,
 
@@ -1655,8 +1665,6 @@ APROVECHAMIENTOS DE TIPO CORRIENTE
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 37.
 
 Los ingresos que perciba el Municipio y que no queden comprendidos dentro de la clasificación de Impuestos, Contribuciones de Mejoras, Derechos, Productos y Participaciones, se considerarán como Aprovechamientos.
@@ -1667,7 +1675,9 @@ I. Honorarios y gastos de ejecución;
 
 II. Recargos:
 
-A) Por falta de pago oportuno fuera del primer trimestre del Ejercicio Fiscal, el 1.0% mensual;
+> <small>(F. DE E., P.O. 8 DE FEBRERO DE 2012)</small>
+
+A) Por falta de pago oportuno, el 1.0% mensual;
 
 B) Por prórroga o pago en parcialidades hasta 12 meses, el 1.25% mensual; y,
 
