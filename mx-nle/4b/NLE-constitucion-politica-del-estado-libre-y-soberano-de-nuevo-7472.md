@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2011-11-04"
+last_updated: "2012-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -3751,19 +3751,27 @@ Las funciones y servicios públicos enumerados, que sean prestados por el Estado
 
 En el caso de las funciones y servicios previstos por el inciso a) de esta fracción, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar al Congreso conservarlas en su ámbito de competencia, cuando se justifique de manera fehaciente que la transferencia del Estado al Municipio afecta en perjuicio a la población, su prestación. El Congreso del Estado resolverá lo conducente.
 
-II.- Ejercer, en los términos de las leyes federales y estatales relativas, las facultades para:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+II. Asimismo, los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
 c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia; cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios;
 
-d) Autorizar, controlar y vigilar, por conducto del Ayuntamiento o por la autoridad que señalen las normas de carácter general, la utilización del suelo, en el ámbito de su competencia y dentro de sus respectivos territorios;
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
+d) Autorizar, controlar y vigilar, por conducto del Ayuntamiento o por la autoridad que señalen las normas de carácter general, la utilización del suelo, en el ámbito de su competencia y dentro de sus respectivos territorios. No estarán permitidos en el Estado los permisos o licencias de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
 e) Intervenir en la regularización de la tenencia de la tierra urbana;
 
-f) Otorgar licencias y permisos para construcciones por conducto del Ayuntamiento o por la autoridad que señalen las normas de carácter general;
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
+
+f) Otorgar licencias y permisos para construcciones por conducto del Ayuntamiento o por la autoridad que señalen las normas de carácter general. No estarán permitidos en el Estado los permisos o licencias de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
 g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
@@ -14099,17 +14107,17 @@ Los extranjeros, las asociaciones religiosas denominadas iglesias, las instituci
 
 Una Ley del Congreso establecerá; la extensión máxima de terreno de que pueda ser dueño un individuo o sociedad e indicará la forma y términos en que se ha de fraccionar la excedente. La misma Ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-El Congreso del Estado podrá legislar en materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, previendo el mejor uso del suelo, la atmósfera y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales y orientando el destino de tierras, aguas y bosques de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés público.
+El Congreso del Estado podrá legislar en materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, previendo el mejor uso del suelo, la atmósfera y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales y orientando el destino de tierras, aguas y bosques de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés público. No estarán permitidos en el Estado los usos de suelo y edificaciones para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, en los términos que señale la legislación correspondiente.
+El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, en los términos que señale la legislación correspondiente. El Programa deberá establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casa de juego y similares.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-Los Municipios del Estado deberán formular, aprobar y administrar los Planes y Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos en los términos de la Ley; así como, participar en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de las mismas, conforme a la legislación correspondiente.
+Los Municipios del Estado deberán formular, aprobar y administrar los Planes y Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos en los términos de la Ley; así como, participar en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de las mismas, conforme a la legislación correspondiente. Los Planes y Programas deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
@@ -14457,7 +14465,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -14485,7 +14493,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 13 DE FEBRERO DE 1981.
 
-UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ENERO DE 1982.
 
@@ -15096,5 +15104,9 @@ DECRETO NUMERO 232 POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 3 DE LA
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE NOVIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
