@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2011-11-23"
+last_updated: "2012-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -109,17 +109,33 @@ El Procurador intervendrá por sí o por conducto del Subprocurador, los Fiscale
 
 Son atribuciones del Ministerio Público:
 
-I. Investigar y perseguir los delitos del orden común. El ejercicio de esta atribución comprende:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a) En la Averiguación Previa:
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
 
-1. Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito, así como ordenar a la Policía que investigue la veracidad de los datos aportados mediante denuncias anónimas en términos de las disposiciones aplicables.
+I. Investigar y perseguir los hechos probablemente constitutivos de delitos del orden común. El ejercicio de esta atribución comprende:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+a) En la Investigación:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+1. Recibir denuncias, querellas o su equivalente que le presenten de forma oral, por escrito, o a través de medios digitales, sobre acciones u omisiones que puedan constituir delito, así como ordenar a la Policía que investigue la veracidad de los datos aportados mediante denuncias anónimas en términos de las disposiciones aplicables.
 
 2. Practicar las diligencias necesarias para la acreditación del cuerpo del delito de que se trate y la probable responsabilidad del indiciado.
 
 3. Ordenar la detención y, en su caso la retención de los probables responsables de la comisión de delitos, en los términos previstos por el artículo 16, de la Constitución Federal.
 
-4. Asegurar precautoriamente los instrumentos, huellas, objetos y productos del delito, en los términos que establezcan las normas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+4. Dictar las medidas y providencias necesarias para impedir que se pierdan, destruyan o alteren los indicios; y Asegurar precautoriamente los instrumentos, huellas, objetos y productos del delito, en los términos que establezcan las normas aplicables.
 
 5. Llevar la conducción y mando de la Policía en el ejercicio de la función de la investigación de los delitos, en términos de lo dispuesto en el artículo 21, de la Constitución Federal.
 
@@ -129,23 +145,47 @@ a) En la Averiguación Previa:
 
 8. Realizar el aseguramiento de bienes de conformidad con las disposiciones aplicables.
 
-9. Restituir provisionalmente a la víctima u ofendido en el goce de sus derechos, siempre y cuando no se afecte a terceros y este acreditado el cuerpo del delito de que se trate; en caso necesario, ordenará que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que de ejercitarse la acción penal se pondrán a disposición del órgano jurisdiccional en los términos de las disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+9. Restituir provisionalmente a la víctima u ofendido en el goce de sus derechos, siempre y cuando no se afecte a terceros y esté acreditada la comisión del hecho delictivo de que se trate; en caso necesario, ordenará que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que de ejercitarse la acción penal se pondrán a disposición del órgano jurisdiccional en los términos de las disposiciones aplicables.
 
 10. Conceder la libertad provisional a los indiciados, en los términos previstos por el artículo 20, de la Constitución Federal.
 
-11. Solicitar al órgano jurisdiccional las órdenes de cateo, la imposición del arraigo, la prohibición de abandonar una demarcación geográfica u otras medidas cautelares que resulten necesarias para asegurar el éxito de la investigación y evitar que el probable responsable se sustraiga de la acción de la justicia, la protección de personas o bienes jurídicos y el debido cumplimiento de la sentencia que se dicte.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-12. Practicar las diligencias de cateo en términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
-13. Determinar la incompetencia y remitir el asunto a la autoridad que deba conocerlo, así como la acumulación de las averiguaciones previas cuando sea procedente.
+11. Solicitar al órgano jurisdiccional las órdenes de cateo, la prohibición de abandonar una demarcación geográfica u otras medidas cautelares que resulten necesarias para asegurar el éxito de la investigación y evitar que el probable responsable se sustraiga de la acción de la justicia, la protección de personas o bienes jurídicos y el debido cumplimiento de la sentencia que se dicte.
 
-14. Determinar el ejercicio de la acción penal o la reserva de la averiguación previa, conforme a las disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+12. Practicar las diligencias de cateo en términos de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+13. Determinar la incompetencia y remitir el asunto a la autoridad que deba conocerlo, así como la acumulación de las investigaciones cuando sea procedente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+14. Determinar el ejercicio de la acción penal o la reserva de la investigación, conforme a las disposiciones aplicables.
 
 15. Determinar el no ejercicio de la acción penal cuando:
 
 Los hechos de que conozca no sean constitutivos de delito.
 
-No se acredite el cuerpo del delito o la probable responsabilidad del indiciado, una vez agotadas todas las diligencias y los medios de prueba correspondientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+No se acredite el hecho delictivo o la probable responsabilidad del imputado, una vez agotadas todas las diligencias y los medios de prueba correspondientes.
 
 La acción penal se hubiese extinguido en los términos de las normas aplicables.
 
@@ -155,7 +195,11 @@ Si la ley vigente, le ha quitado el carácter de delito a una conducta que la le
 
 Resulte imposible la prueba de la existencia de los hechos constitutivos de delito, por obstáculo material insuperable.
 
-En los demás casos que determinen las leyes aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+Decida aplicar los criterios de oportunidad conforme a lo establecido en la legislación aplicable; y en los demás casos que determinen las leyes aplicables.
 
 > <small>(REFORMADO, 17 DE NOVIEMBRE DE 2010)</small>
 
@@ -179,9 +223,11 @@ En los demás casos que determinen las leyes aplicables.
 
 24. El Ministerio Público podrá expedir copias simples o certificadas de constancias o registros que obren en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento o cuando lo soliciten el denunciante o el querellante, la víctima o el ofendido, para el ejercicio de derechos o el cumplimiento de obligaciones previstos por la Ley, siempre que no se afecte la investigación de delitos.
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-25. Recabar por sí o por medio de la policía especializada o de los cuerpos de seguridad pública, los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos materia de denuncias o querellas.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+25. Recabar por sí o por medio de la policía especializada o de los cuerpos de seguridad pública, los antecedentes y elementos de convicción tendientes al esclarecimiento de los hechos metería de denuncias o querella, instruyéndolos o asesorándolos sobre la legalidad, pertinencia y suficiencia de los indicios recolectados o por recolectar, así como en las demás actividades de investigación.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
@@ -197,7 +243,11 @@ En los demás casos que determinen las leyes aplicables.
 
 b) Ante los órganos jurisdiccionales:
 
-1. Ejercer la acción penal cuando exista denuncia o querella, esté acreditado el cuerpo del delito de que se trate y la probable responsabilidad de quien o quienes en el hubieren intervenido, solicitando las ordenes de aprehensión o de comparecencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+1. Ejercer la acción penal cuando exista denuncia o querella, esté acreditado el hecho delictivo de que se trate y la probable responsabilidad de quien o quienes en el hubieren intervenido, solicitando las ordenes de aprehensión o de comparecencia.
 
 2. Poner a disposición de la autoridad judicial a las personas detenidas y aprehendidas, dentro de los plazos establecidos por la Ley.
 
@@ -205,17 +255,29 @@ b) Ante los órganos jurisdiccionales:
 
 4. Solicitar las medidas cautelares que procedan en términos de la legislación aplicable, así como la constitución de garantías para los efectos de la reparación del daño.
 
-5. Solicitar el aseguramiento precautorio de bienes, o en su caso el decomiso, y la constitución de garantías para los efectos de la reparación de los daños y perjuicios, salvo que el inculpado los hubiese garantizado previamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+5. Solicitar el aseguramiento precautorio de bienes, o en su caso el decomiso, y la constitución de garantías para los efectos de la reparación de los daños y perjuicios, salvo que el imputado los hubiese garantizado previamente.
 
 6. Impugnar, en los términos previstos por la Ley, las resoluciones judiciales.
 
-7. En general, promover lo conducente al desarrollo de los procesos y realizar las demás atribuciones que le señalen las normas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+7. Intervenir en las audiencias de juicio oral, en los términos previstos por la Ley; y en general, promover lo conducente al desarrollo de los procesos y realizar las demás atribuciones que le señalen las normas aplicables.
 
 c) En materia de atención y seguridad a la víctima o el ofendido por algún delito:
 
 1. Proporcionar asesoría jurídica a la víctima u ofendido e informarle de los derechos que en su favor establece la Constitución Federal y, cuando lo solicite sobre el desarrollo del procedimiento penal.
 
-2. Recibir todas aquellas pruebas que presente la víctima u ofendido, que considere que ayude a acreditar el cuerpo del delito de que se trate, la probable responsabilidad del indiciado y la procedencia y cuantificación por concepto de reparación del daño, fundando y motivando la recepción o negativa de las mismas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+2. Recibir y aportar todas aquellas pruebas que presente la víctima u ofendido, que considere que ayude a acreditar la comisión del hecho delictivo de que se trate, la probable participación del imputado y la procedencia y cuantificación por concepto de reparación del daño, fundando y motivando la recepción o negativa de las mismas.
 
 3. Ordenar la práctica de las diligencias conducentes en la investigación que solicite la víctima o el ofendido o en su caso, fundar y motivar su negativa.
 
@@ -223,19 +285,35 @@ c) En materia de atención y seguridad a la víctima o el ofendido por algún de
 
 5. Dictar las medidas necesarias y que estén a su alcance para que la víctima u ofendido reciba atención médica y psicológica de urgencia.
 
-6. Solicitar a la autoridad judicial que el inculpado sea separado del domicilio de la víctima cuando se trate de delitos que pongan en peligro su integridad física o mental, así como otras medidas cautelares.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+6. Solicitar a la autoridad judicial que el imputado sea separado del domicilio de la víctima cuando se trate de delitos que pongan en peligro su integridad física o mental, así como otras medidas cautelares.
 
 7. Promover la reserva de identidad y otros datos de la víctima u ofendido cuando sean menores de edad, se trate de delitos de violación, secuestro o delincuencia organizada, y en los demás casos en que se considere necesario para su protección.
 
-8. Informar a la víctima o al ofendido menor de edad que no está obligado a carearse con el inculpado cuando se trate de los delitos de violación o secuestro. En estos casos las declaraciones respectivas se efectuarán conforme lo establezcan las disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+8. Informar a la víctima o al ofendido menor de edad que no está obligado a carearse con el imputado cuando se trate de los delitos de violación o secuestro. En estos casos las declaraciones respectivas se efectuarán conforme lo establezcan las disposiciones aplicables.
 
 II. Vigilar la ejecución y cumplimiento de las sanciones penales y medidas de seguridad que imponga en cada caso concreto la autoridad judicial.
 
 III. Proteger los derechos de los menores, incapaces, personas con discapacidad, ausentes, adultos mayores y de aquellos que por sus condiciones sociales y económicas se encuentren en situación de desventaja y de vulnerabilidad frente a otros. La protección consistirá en la intervención en los procedimientos jurisdiccionales, conforme a las disposiciones legales aplicables.
 
-IV. Coordinarse en el ámbito de su competencia, con la Comisión Nacional de Derechos Humanos y la Comisión de Derechos Humanos del Estado, para procurar el respeto a los derechos humanos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión de Derechos Humanos del Estado, conforme a las normas aplicables.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+IV. Coordinarse en el ámbito de su competencia, con la Comisión Nacional de Derechos Humanos y el Consejo Estatal de los Derechos Humanos, para procurar el respeto a los derechos humanos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+V. Atender las visitas, quejas, propuestas de conciliación y recomendaciones del Consejo Estatal de los Derechos Humanos, conforme a las normas aplicables.
 
 VI. Promover la pronta, expedita y debida procuración e impartición de justicia.
 
@@ -245,7 +323,11 @@ VIII. Conformar el Sistema Nacional y Estatal de Seguridad Pública, e interveni
 
 IX. Auxiliar a otras autoridades en la persecución de los delitos de la competencia de estas, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto.
 
-X. Las demás que las leyes determinen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+X. Promover la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal cuando proceda, en términos de la legislación aplicable.
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
@@ -271,7 +353,11 @@ El Fiscal Especializado Jurídico Normativo resolverá en definitiva el recurso 
 
 Los Secretarios de Acuerdos Ministeriales, tendrán las facultades y obligaciones siguientes:
 
-I. Intervenir en todo acto en que deba dejarse constancia en los autos de la averiguación previa o acta administrativa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+I. Intervenir en todo acto en que deba dejarse constancia en los autos de la investigación o acta administrativa.
 
 II. Hacer constar la hora, día, mes y año en que se lleva a cabo la diligencia o actuación.
 
@@ -283,23 +369,35 @@ V. Asistir al Fiscal del Ministerio Público en las diligencias y actuaciones qu
 
 VI. Asentar las certificaciones, constancias y demás razones.
 
-VII. Guardar con la seguridad debida bajo su responsabilidad, objetos, averiguaciones previas, actas administrativas, libros y documentos que existan en la Agencia; Cuando por disposición de la Ley o del Ministerio Público, deba entregar alguno de los antes mencionados, a otro funcionario o empleado, recabará recibo para su resguardo; y en este caso la responsabilidad pasará a la persona que los reciba.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
 
-VIII. Custodiar, sellar, foliar y rubricar los expedientes de las averiguaciones previas y actas administrativas.
+VII. Guardar con la seguridad debida bajo su responsabilidad, objetos, investigación, actas administrativas, libros y documentos que existan en la Agencia; Cuando por disposición de la Ley o del Ministerio Público, deba entregar alguno de los antes mencionados, a otro funcionario o empleado, recabará recibo para su resguardo; y en este caso la responsabilidad pasará a la persona que los reciba.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX. Llevar el control de los libros de gobierno, en los que deberán asentar los movimientos diarios de las averiguaciones previas y actas administrativas radicadas en la Fiscalía del Ministerio Público.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+VIII. Custodiar, sellar, foliar y rubricar los expedientes de las investigaciones y actas administrativas.
 
-X. Coadyuvar con el Fiscal del Ministerio Público en la elaboración del informe estadístico, respecto a las averiguaciones previas y actas administrativas radicadas en la Fiscalía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
 
-XI. Separar en original y duplicado los expedientes de averiguaciones previas y actas administrativas.
+IX. Llevar el control de los libros de gobierno, en los que deberán asentar los movimientos diarios de las investigaciones y actas administrativas radicadas en la Fiscalía del Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+X. Coadyuvar con el Fiscal del Ministerio Público en la elaboración del informe estadístico, respecto a las investigaciones y actas administrativas radicadas en la fiscalía.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XI. Separar en original y duplicado los expedientes de investigación y actas administrativas.
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
@@ -415,11 +513,17 @@ III. Vigilar que se respeten las garantías individuales y los derechos humanos 
 
 a) Fomentar entre los servidores públicos de la Procuraduría, una cultura de respeto a las garantías individuales y los derechos humanos que ampara el orden jurídico mexicano y los tratados internacionales en que el Estado Mexicano sea parte.
 
-b) Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y Estatal de los Derechos Humanos, conforme a las normas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
-c) Proporcionar información a la Comisión Nacional de los Derechos Humanos y al Comisión de los Derechos Humanos del Estado, cuando lo soliciten en ejercicio de sus funciones, siempre que no se ponga en riesgo investigaciones en curso o la seguridad de personas.
+b) Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y del Consejo Estatal de los Derechos Humanos, conforme a las normas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+c) Proporcionar información a la Comisión Nacional de los Derechos Humanos y al Consejo Estatal de los Derechos Humanos, cuando lo soliciten en ejercicio de sus funciones, siempre que no se ponga en riesgo investigaciones en curso o la seguridad de personas.
 
 IV. Participar en el Sistema de Planeación del Estado, en términos de su competencia que establezca la Ley de la materia.
 
@@ -431,9 +535,17 @@ VII. Prever lo necesario para dar cumplimiento a la normatividad en materia de T
 
 VIII. Orientar a los particulares respecto de asuntos que presenten ante el Ministerio Público, que no constituyan delitos del orden local o que no sean de su competencia, sobre el trámite que legalmente corresponda al asunto de que se trate.
 
-IX. Ofrecer y entregar con cargo a su presupuesto, recompensas en numerario a aquellas personas que auxilien eficientemente a la Procuraduría, proporcionando información sobre las averiguaciones previas que realice, o bien a quienes colaboren en la localización o detención de personas en contra de las cuales existan mandamientos judiciales de aprehensión, en los términos y condiciones que el Consejo determine.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X. Celebrar acuerdos o convenios con las instituciones públicas o privadas para garantizar a los inculpados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y/o traductores.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+IX. Ofrecer y entregar con cargo a su presupuesto, recompensas en numerario a aquellas personas que auxilien eficientemente a la Procuraduría, proporcionando información sobre las investigaciones que realice, o bien a quienes colaboren en la localización o detención de personas en contra de las cuales existan mandamientos judiciales de aprehensión, en los términos y condiciones que el Consejo determine.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+X. Celebrar acuerdos o convenios con las instituciones públicas o privadas para garantizar a los imputados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y/o traductores.
 
 XI. Coordinar su actuación con las autoridades federales y de otras entidades federativas en la investigación de los delitos, así como de las conductas antisociales imputadas a los adolescentes cuya edad esté comprendida entre doce años cumplidos y hasta antes de los dieciocho años cumplidos.
 
@@ -517,7 +629,11 @@ XVI. Requerir y recabar los informes que sean necesarios de los Fiscales de Dist
 
 XVII. Administrar a través del área competente, los recursos humanos, materiales y financieros de la Procuraduría.
 
-XVIII. Conocer y resolver las averiguaciones previas relacionadas con los delitos considerados como asuntos relevantes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XVIII. Conocer y resolver de las investigaciones relacionadas con los delitos considerados como asuntos relevantes.
 
 XIX. Asistir a las reuniones a las que sea convocado por el Ejecutivo del Estado, así como acordar con éste los asuntos encomendados a la Procuraduría que así lo ameriten, desempeñando las comisiones y funciones que le confiera, manteniéndolo informado sobre el desarrollo y resultado de las mismas.
 
@@ -581,9 +697,29 @@ XLII. Emitir las directrices y pautas generales para la aplicación de criterios
 
 XLIII. Solicitar al órgano de jurisdicción federal, cuando la ley lo faculte, la intervención de comunicaciones privadas.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XLIV. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XLIV. Dirigir y coordinar el desarrollo de la función investigativa y acusatoria contra los presuntos infractores de la Ley penal, directamente o a través de los servidores públicos facultados;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XLV. Coadyuvar en la política estatal de prevención del delito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XLVI. Solicitar a la autoridad competente, la aplicación de sanciones a los miembros de los cuerpos de seguridad pública o empresas de seguridad privada, que infrinjan disposiciones legales o reglamentarias, omitan o retarden la ejecución de un acto propio relacionado con funciones de investigación o lo cumplan negligentemente; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XLVII. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 17.
 
@@ -595,7 +731,11 @@ II. La formulación de conclusiones no acusatorias.
 
 III. El acuerdo para el desistimiento total o parcial del ejercicio de la acción penal, por parte del Ministerio Público.
 
-Las consultas que Fiscales del Ministerio Público formulen o las prevenciones que la autoridad judicial acuerde en los términos que la Ley prevenga, respecto de la omisión de formular conclusiones en el término legal, de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
+Las consultas que Fiscales del Ministerio Público formulen o las prevenciones que la autoridad judicial acuerde en los términos que la Ley prevenga, respecto de la omisión de formular conclusiones en el término legal, de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del imputado antes de que se pronuncie sentencia.
 
 ## Título Cuarto. De los Órganos Sustantivos Ministeriales
 
@@ -695,7 +835,11 @@ IV. Crear las Fiscalías Especiales a propuesta del Procurador de conformidad co
 
 V. Establecer comisiones para el desempeño de sus atribuciones de conformidad con el Reglamento de esta Ley.
 
-VI. Emitir los criterios que deban adoptar los órganos integrantes de la Procuraduría, en el ejercicio de sus funciones, a fin de que exista uniformidad en la atención de las averiguaciones previas, procesos y juicios en los que intervienen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+VI. Emitir los criterios que deban adoptar los órganos integrantes de la Procuraduría, en el ejercicio de sus funciones, a fin de que exista uniformidad en la atención de las investigaciones, procesos y juicios en los que intervienen.
 
 VII. Las demás que le confieran esta Ley y su Reglamento.
 
@@ -759,7 +903,11 @@ Estarán a cargo de un Titular que se denominará Fiscal de Distrito, quien tend
 
 El Fiscal de Distrito, tendrá las atribuciones siguientes:
 
-I. Atender los asuntos en materia de averiguación previa, así como autorizar la determinación del no ejercicio de la acción penal, reserva, incompetencia y acumulación, de conformidad con las facultades que le otorgue la presente Ley, su Reglamento, y otras disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+I. Atender los asuntos en materia de investigación, así como autorizar la determinación del no ejercicio de la acción penal, reserva, incompetencia y acumulación, de conformidad con las facultades que le otorgue la presente Ley, su Reglamento, y otras disposiciones aplicables.
 
 II. Dirigir las actuaciones a través de los Fiscales del Ministerio Público Titulares y Auxiliares que les estén adscritos, de los Auxiliares Directos del Ministerio Público, en los asuntos de su competencia.
 
@@ -777,7 +925,11 @@ VIII. Delegar facultades en servidores públicos subalternos, que se estime nece
 
 IX. Acordar con los titulares de los órganos de su adscripción y resolver los asuntos que sean competencia de los mismos.
 
-X. Integrar por sí o a través de los Fiscales del Ministerio Público Titulares y Auxiliares adscritos a las Fiscalías de Distritos, las averiguaciones previas relacionadas con los delitos de su competencia que le sean denunciados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+X. Integrar por sí o a través de los Fiscales del Ministerio Público Titulares y Auxiliares adscritos a las Fiscalías de Distritos, las investigaciones relacionadas con los delitos de su competencia que le sean denunciados.
 
 XI. Definir e instrumentar las políticas y los mecanismos que orienten el adecuado desarrollo de las funciones de investigación de los delitos, que sean competencia de las unidades administrativas a estas adscritas y remitirlo al Procurador para su inclusión en el proyecto general de la Procuraduría.
 
@@ -795,9 +947,17 @@ XVII. Enviar un informe trimestral, al Subprocurador sobre las actividades que h
 
 XVIII. Vigilar que los Fiscales del Ministerio Público proporcionen un trato de calidad y calidez a los ofendidos o víctimas del delito y que su actuación se traduzca en una procuración de justicia pronta y expedita, evitando la dilación de los asuntos y el rezago en sus actuaciones.
 
-XIX. Emitir en su ámbito de competencia territorial, la opinión que corresponda en los casos en que la autoridad judicial estime que un inculpado no debe ser internado en prisión preventiva o establecimiento de detención por el precario estado de salud, edad avanzada o por su constitución física.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XX. Coordinar y supervisar a los Fiscales del Ministerio Público que estén adscritos a los Juzgados de su respectiva demarcación territorial para que promuevan las diligencias tendientes a comprobar el cuerpo del delito, la responsabilidad penal, exigir la reparación del daño, interponer los recursos legales que procedan; así como velar que se presten los servicios correspondientes al ejercicio de la representación en los juicios relativos a la familia, al estado civil de las personas y sucesiones, para la protección de los intereses individuales y sociales en los que el Ministerio Público sea parte.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XIX. Emitir en su ámbito de competencia territorial, la opinión que corresponda en los casos en que la autoridad judicial estime que un imputado no debe ser internado en prisión preventiva o establecimiento de detención por el precario estado de salud, edad avanzada o por su constitución física.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+XX. Coordinar y supervisar a los Fiscales del Ministerio Público que estén adscritos a los Juzgados de su respectiva demarcación territorial para que promuevan las diligencias tendientes a comprobar el hecho delictivo, la responsabilidad penal, exigir la reparación del daño, interponer los recursos legales que procedan; así como velar que se presten los servicios correspondientes al ejercicio de la representación en los juicios relativos a la familia, al estado civil de las personas y sucesiones, para la protección de los intereses individuales y sociales en los que el Ministerio Público sea parte.
 
 XXI. Solicitar el sobreseimiento en las causas penales que correspondan al ámbito territorial de su competencia.
 
@@ -853,9 +1013,11 @@ I. Realizar investigación y persecución de los delitos, en el ámbito de su re
 
 II. Dirigir las actuaciones a través de los Fiscales del Ministerio Público Titulares y Auxiliares que les estén adscritos, de los Auxiliares Directos del Ministerio Público, en los asuntos de su competencia.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Autorizar los acuerdos de consignación, libertad provisional bajo caución, de incompetencia y acumulación, así como la propuesta de determinación del no ejercicio de la acción penal, y reserva de la averiguación previa; con excepción de las Fiscalías Especiales que se encuentren adscritas a una Fiscalía de Distrito, Especializadas o a la Subprocuraduría General de Justicia, previa consulta y autorización del titular del órgano a que estén adscritas.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+III. Autorizar los acuerdos de consignación, libertad provisional bajo caución, de incompetencia y acumulación, así como la propuesta de determinación del no ejercicio de la acción penal, y reserva de la investigación; con excepción de las Fiscalías Especiales que se encuentren adscritas a una Fiscalía de Distrito, Especializadas o a la Subprocuraduría general de Justicia, previa consulta y autorización del titular del órgano a que estén adscritas.
 
 IV. Solicitar al Procurador, la atracción de los asuntos que tengan vinculación con los delitos que persiguen, y las materias que tienen encomendadas, de acuerdo a su especialización o especialidad.
 
@@ -939,9 +1101,13 @@ b) Los servicios periciales.
 
 #### Sección Primera. De la Policía Especializada
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 39.
 
-La Policía Especializada, es un órgano Auxiliar Directo del Ministerio Público y forma parte de la Procuraduría, su actuación se rige por los principios de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Federal.
+La Policía Especializada, es un órgano Auxiliar Directo del Ministerio Público y forma parte de la Procuraduría, su actuación se rige por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, confidencialidad, lealtad, responsabilidad, transparencia y respeto a los derechos humanos reconocidos por la Constitución Federal.
 
 La Policía se integra por el Buró Ministerial de Investigación y la Policía de Apoyo Ministerial. Ambas estarán a cargo de un Director General quien dependerá directamente del Procurador, y tendrá la obligación de velar por el cumplimiento de las presentes disposiciones, así como por las establecidas en la Ley General del Sistema Nacional de Seguridad Pública y el Reglamento de esta Ley.
 
@@ -951,7 +1117,11 @@ La Policía podrá recibir denuncias de hechos que puedan constituir delito, só
 
 Conforme a las instrucciones que en cada caso dicte el Fiscal del Ministerio Público, la Policía podrá:
 
-I. Desarrollar las diligencias ordenadas por el Fiscal del Ministerio Público para la debida integración de la Averiguación Previa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2012)</small>
+
+I. Desarrollar las diligencias ordenadas por el Fiscal del Ministerio Público para la debida integración de la investigación.
 
 II. Atender a los mandamientos que hagan las autoridades jurisdiccionales, conforme a los protocolos de actuación policial.
 
@@ -975,9 +1145,13 @@ La organización, funcionamiento y atribuciones específicas, así como los prot
 
 #### Sección Segunda. De los Servicios Periciales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 43.
 
-Los Servicios Periciales, serán proporcionados por el órgano auxiliar directo competente del Ministerio Público a través de los peritos, en la investigación y en la persecución de los delitos, encargándose de buscar, obtener, preservar y analizar, conforme a los principios técnico-científicos apropiados, los indicios y medios de pruebas tendentes al esclarecimiento de los hechos y de la probable responsabilidad de los inculpados, así como de emitir los dictámenes pertinentes.
+Los Servicios Periciales, serán proporcionados por el órgano auxiliar directo competente del Ministerio Público a través de los peritos, en la investigación y en la persecución de los delitos, encargándose de buscar, obtener, preservar y analizar, conforme a los principios técnico-científicos apropiados, los indicios y medios de pruebas tendentes al esclarecimiento de los hechos y de la probable responsabilidad de los imputados, así como de emitir los dictámenes pertinentes.
 
 ###### Artículo 44.
 
@@ -1173,7 +1347,7 @@ Las atribuciones específicas del Instituto de Investigación y Profesionalizaci
 
 ### Capítulo I. De la Fiscalía Especializada de Visitaduría
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
@@ -1645,9 +1819,13 @@ Los Fiscales del Ministerio Público, elementos de la Policía, Peritos y Secret
 
 Las normas reglamentarias y las demás disposiciones aplicables establecerán sistemas de estímulos económicos derivados del desempeño y antigüedad de los Fiscales del Ministerio Público, elementos de la Policía, Peritos y Secretarios de Acuerdos Ministeriales.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 99.
 
-Los Fiscales del Ministerio Público, Peritos, Secretarios de Acuerdos Ministeriales y elementos de la Policía, que formen parte de la Procuraduría, y que estén sujetos a proceso penal, como probables responsables de delitos dolosos o culposos calificados como graves por la Ley, serán suspendidos desde que se dicte el auto de formal prisión o de sujeción a proceso.
+Los Fiscales del Ministerio Público, Peritos, Secretarios de Acuerdos Ministeriales y elementos de la Policía, que formen parte de la Procuraduría, y que estén sujetos a proceso penal, como probables responsables de delitos dolosos o culposos calificados como graves por la Ley, serán suspendidos desde que se dicte el auto de vinculación a proceso.
 
 ###### Artículo 100.
 
@@ -1669,11 +1847,13 @@ V. Ejercer o desempeñar los demás empleos, cargos, comisiones o actividades qu
 
 Los Fiscales del Ministerio Público y los Secretarios de Acuerdos Ministeriales no son recusables, pero deben excusarse del conocimiento de los asuntos en que intervengan, cuando exista alguna de las causas de impedimento que señale la Ley.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 102.
 
-Cuando se impute la comisión de un delito al Procurador, al Subprocurador o al Fiscal Electoral, sin perjuicio de lo dispuesto por el Titulo Noveno de la Constitución local; la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones aplicables. Se procederá conforme a lo siguiente: conocerá de la denuncia y se hará cargo de la averiguación previa respectiva, el servidor público de la Procuraduría que determine el Gobernador del Estado, quien resolverá sobre el inicio del procedimiento para la declaración de procedencia ante el Congreso del Estado, en términos de Ley.
+Cuando se impute la comisión de un delito al Procurador, al Subprocurador, o al Fiscal Electoral, sin perjuicio de lo dispuesto por el Título Noveno de la Constitución local; la Ley de Responsabilidades de los Servidores Públicos del Estado, y demás disposiciones aplicables, se procederá conforme a lo siguiente: conocerá de la denuncia y se hará cargo de la investigación respectiva, el servidor público de la Procuraduría que determine el Gobernador del Estado, quien resolverá sobre el inicio del procedimiento para la declaración de procedencia ante el Congreso del Estado, en términos de Ley.
 
 ### Capítulo III. De los Derechos de los Fiscales del Ministerio Público, elementos de la Policía Especializada, Peritos y Secretarios de Acuerdos Ministeriales
 
@@ -1711,9 +1891,13 @@ Los Fiscales del Ministerio Público, los elementos de la Policía y los peritos
 
 En el ejercicio de sus funciones, el personal de la Procuraduría, observará las obligaciones inherentes a su calidad de servidor público y actuarán con la diligencia necesaria para la pronta, completa y debida procuración de justicia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 105.
 
-Los Fiscales del Ministerio Público, los elementos de la Policía, peritos, los Secretarios de Acuerdos Ministeriales y en lo conducente, los demás servidores públicos de la Procuraduría, para salvaguardar la legalidad, certeza, objetividad, eficiencia, profesionalismo, honradez, lealtad, disciplina e imparcialidad y de respeto a los derechos humanos en el desempeño de sus funciones, cargo o comisión, tienen las siguientes obligaciones:
+Los Fiscales del Ministerio Público, los elementos de la Policía, peritos, los Secretarios de Acuerdos Ministeriales y en lo conducente, los demás servidores públicos de la Procuraduría, se sujetarán a los principios de legalidad, certeza, objetividad, eficiencia, profesionalismo, honradez, confidencialidad, lealtad, responsabilidad, transparencia, disciplina e imparcialidad y respeto a los derechos humanos en el desempeño de sus funciones, cargo o comisión, y tienen las siguientes obligaciones:
 
 I. Observar buena conducta, tratar con cortesía, diligencia y respeto al público, así como a sus superiores jerárquicos, compañeros y subordinados en su empleo, cargo o comisión.
 
@@ -1913,9 +2097,13 @@ VIII. Cuando la falta implique un deterioro en el prestigio de la Procuraduría 
 
 Los servidores públicos removidos, deberán entregar sus identificaciones, placa o gafete; equipo de trabajo que tengan bajo su resguardo; así como los documentos y en general los bienes que le hayan sido proporcionados para el desempeño de sus funciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 121.
 
-Los bienes a que se refiere el párrafo anterior, deberán entregarse a su jefe inmediato, a más tardar en la fecha en que surta efecto su separación y su incumplimiento hará incurrir al sancionado en responsabilidad penal, por lo que la Procuraduría iniciará la averiguación previa respectiva.
+Los bienes a que se refiere el párrafo anterior, deberán entregarse a su jefe inmediato, a más tardar en la fecha en que surta efecto su separación y su incumplimiento hará incurrir al sancionado en responsabilidad penal, por lo que la Procuraduría iniciará la investigación respectiva.
 
 ###### Artículo 122.
 
@@ -2080,3 +2268,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de s
 Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto y se opongan al mismo.
 
 Artículo Tercero.- Se instruye al órgano administrativo de la Procuraduría General de Justicia del Estado, para que lleve a cabo de inmediato las acciones que sean necesarias ante las instituciones federales y estatales, así como ante los organismos nacionales e internacionales, para la asignación de los recursos humanos, materiales y financieros que requiera la Dirección General del Centro de Justicia para las Mujeres, mismos que pasarán a formar parte del presupuesto de la Procuraduría General de Justicia del Estado.
+
+P.O. 9 DE FEBRERO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día veintiuno del mes de mayo del año 2012.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
