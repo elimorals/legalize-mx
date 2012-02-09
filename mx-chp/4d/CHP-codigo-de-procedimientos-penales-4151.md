@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-4151"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-03-02"
-last_updated: "2012-02-08"
+last_updated: "2012-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR SUCESIVA Y TERRITORIALMENTE POR REGIONES, DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO EL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el 2 de marzo de 1938.
 
@@ -4356,3 +4358,39 @@ P.O. 8 DE FEBRERO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial Estado (sic).
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2012.
+
+Artículo Primero.- El presente Código de Procedimientos Penales para el Estado de Chiapas, entrará en vigor el día veintiuno del mes de mayo del año 2012.
+
+Artículo Segundo.- En cumplimiento al Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 18 de junio de 2008, se establece y declara en Chiapas, la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio.
+
+Artículo Tercero.- Para los efectos de la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio y en base a la gradualidad contemplada en la Reforma Constitucional Federal, el territorio chiapaneco se dividirá de la siguiente forma:
+
+Región Uno.- Distrito Judicial de Tuxtla, Cintalapa y Chiapa; Región Dos.- Distrito Judicial de Tapachula, San Cristóbal de Las Casas y Comitán de Domínguez; Región Tres.- Distrito Judicial de Villaflores, Tonalá, Pichucalco, Acapetahua, Catazajá-Palenque, Ocosingo, Yajalón, Huixtla, Motozintla, Copainalá, Simojovel, Bochil, Venustiano Carranza, Salto de Agua y Benemérito de las Américas.
+
+La implementación del Sistema de Seguridad y Justicia Penal será en forma gradual y progresiva bajo el criterio de delitos en bloques y regiones, en principio el Juicio de Corte Acusatorio iniciará con la cobertura total de los delitos NO GRAVES, en la Región Uno, en el año 2012; y en las Regiones Dos y Tres, comenzará con la cobertura total de los delitos NO GRAVES entre los años de 2013, al Primer Trimestre del año 2016. Inmediatamente en el Segundo Trimestre del año 2016, la implementación del Sistema de Justicia Penal a través del Juicio de Corte Acusatorio, incluirá a la totalidad de los Delitos Graves simultáneamente en las Regiones Uno, Dos y Tres.
+
+Artículo Cuarto.- La competencia de los Jueces Municipales prevista en la fracción IV del artículo 100 del Código de Organización del Poder Judicial del Estado, será trasladada a los jueces penales del nuevo sistema acusatorio, de conformidad con la gradualidad prevista en el artículo anterior. En materia penal, seguirán siendo competentes en los términos de la fracción I del mismo artículo.
+
+Artículo Quinto.- Las Averiguaciones Previas, los Procesos Penales y los Recursos iniciados, o que se estén substanciando, con fundamento en las legislaciones previas a la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio, se tramitarán hasta su conclusión y en su caso, ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+Artículo Sexto.- El Consejo de la Judicatura acordará lo referente al registro de peritos, los requisitos, los derechos y costos que deberán sufragar los peritos en el Estado. En tanto no entren en vigor dichas disposiciones, no se les podrá exigir a los peritos su registro respectivo. Las disposiciones relativas a la entrada en vigor del registro de peritos, su trámite y requisitos, deberán publicarse en el Periódico Oficial del Estado.
+
+Artículo Séptimo.- Se abroga el Código de Procedimientos Penales, promulgado el cinco de marzo de mil novecientos treinta y ocho y sus respectivas reformas, conforme este Código entre en vigor sucesiva y territorialmente por regiones, de conformidad con el artículo Tercero Transitorio, del presente Decreto. En ese tenor, se Deroga cualquier disposición que se oponga a lo preceptuado en este Código.
+
+Artículo Octavo.- Los delitos permanentes o continuados, que inicien su comisión bajo la vigencia del Código de Procedimientos Penales de mil novecientos treinta y ocho se investigarán, procesarán y juzgarán conforme a dicho ordenamiento, aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+Artículo Noveno.- No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de Procedimientos Penales, promulgado el cinco de marzo de mil novecientos treinta y ocho.
+
+Artículo Décimo.- Siempre que sea oportuno dentro del trámite procesal, deberán de aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente Ordenamiento que se refieran a: a) indemnización del imputado; b) Aplicación de los Criterios de Oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada; c) Imposición de Medidas Cautelares Personales; d) Acuerdos reparatorios y suspensión del proceso a prueba; e) Procedimiento abreviado; f) Pueblos o Comunidades Indígenas; g) Procedimientos para inimputables, y h) Recurso de Revisión.
+
+Las facultades que este Código le concede al Juez de Control, serán ejercidas por el Juez de primera instancia mixto o penal según corresponda.
+
+Artículo Décimo Primero.- Cuando una autoridad penal reciba por exhorto, despacho, mandamiento o comisión, una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
+
+Artículo Décimo Segundo.- Dentro del término de seis meses contados a partir del día siguiente de la publicación de este Código en el Periódico Oficial, los poderes Legislativo, Ejecutivo y Judicial deberán, en el ámbito de sus respectivas competencias, expedir las disposiciones legales correspondientes para adecuar el orden jurídico estatal a lo establecido en el presente Código; así como, gestionar y adecuar sus estructuras administrativas, recursos humanos, materiales, financieros e infraestructura, de tal forma que responda al Juicio de Corte Acusatorio que exige el Sistema de Justicia Penal.
+
+Artículo Décimo Tercero.- Para instrumentar la aplicación del presente Código, se autoriza al Consejo de la Judicatura del Estado, para que tome las medidas necesarias sobre: traslado de funcionarios, designación de jueces de control, integración de tribunales de juicio oral y tribunales de alzada, designación de defensores públicos especializados en el sistema acusatorio, redistribución de competencias territoriales, asignación del despacho de rezagos y creación de órganos que resulten pertinentes, así también lo relativo a sueldos y salarios de los funcionarios judiciales.
+
+Artículo Décimo Cuarto.- A la entrada en vigor del presente Código, se derogan los artículos 15, 32, 41, 42, 46, 47, 49, 50, 60, 72, 90, 91, 92, 171 y del 200 al 223, todos del Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas.
