@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-ejecucion-de-sanciones-penales-y-medidas-de-56604"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-05-30"
-last_updated: "2011-05-11"
+last_updated: "2012-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE LIBERTAD ANTICIPADA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de mayo de 2007.
 
@@ -223,13 +223,11 @@ Dicho tratamiento, tendrá como finalidad desarrollar en ellos una actitud de re
 
 El cumplimiento de este Código corresponde al Juez de Ejecución, al Tribunal de Apelación y a la Secretaría, a través de la Subsecretaría y las demás autoridades que este ordenamiento y otras disposiciones legales, les encomienden su cumplimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 15.
 
-Todos los cuerpos de seguridad pública del Estado, están obligados a prestar auxilio y apoyo necesarios al Juez de Ejecución, al Tribunal de Apelación y a la Subsecretaría, para el cumplimiento de sus determinaciones en materia de ejecución de sanciones privativas y restrictivas de la libertad, así como de medidas de seguridad.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ## Título Segundo. De las Autoridades en Materia de Ejecución de las Sanciones Penales, y de Medidas de Seguridad
 
@@ -629,13 +627,11 @@ La Subsecretaría, controlará el cumplimiento adecuado del régimen penitenciar
 
 El sentenciado podrá, durante la ejecución de su sanción, plantear ante la Secretaría, todas las observaciones y quejas en forma oral o por escrito que estime convenientes, la cual deberá responder en forma puntual, a través de la Subsecretaría, en un plazo no mayor de veinte días, pero en caso de que esté en peligro la vida o la integridad de los internos, la respuesta ha de ser inmediata. En caso de omisión, la Subsecretaría será sujeta a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Chiapas, sin perjuicio de las responsabilidades penales que sean aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 32.
 
-El sentenciado, tendrá derecho a una adecuada defensa por Licenciado en Derecho que cuente con cédula profesional, en caso de no poder o no querer nombrar un particular, el Estado le garantizará esta prerrogativa designándole un defensor social.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ### Capítulo III. De la Ejecución de Sanciones Penales Pecuniarias
 
@@ -715,15 +711,17 @@ La jornada máxima de trabajo a favor de la comunidad será de cuatro horas. El 
 
 Por ningún concepto, se desarrollará el trabajo a favor de la comunidad en forma que resulte degradante o humillante para el sentenciado.
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 41.
 
-La Subsecretaría, designará delegados para vigilar el cumplimiento de las sanciones de trabajo a favor de la comunidad, de cuyo resultado deberá expedir, trimestralmente, constancias que serán agregadas al expediente técnico.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 42.
 
-Los delegados, proporcionarán orientación e información a los sentenciados sobre el cumplimiento de su sanción.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 #### Sección Segunda. Del Tratamiento en Libertad
 
@@ -745,17 +743,17 @@ El tratamiento en libertad, se llevará a cabo en instituciones públicas, educa
 
 #### Sección Tercera. De la Impugnación de las Constancias y Modalidades de las Sanciones de Trabajo a Favor de la Comunidad y Tratamiento en Libertad
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 46.
 
-Los sentenciados, podrán impugnar, de conformidad con lo dispuesto en este Código, el contenido de las constancias de las sanciones de trabajo a favor de la comunidad y tratamiento en libertad, así como las modalidades que la Subsecretaría les hubiere impuesto para cumplir las sanciones de tratamiento en libertad y semilibertad, y trabajo a favor de la comunidad.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 47.
 
-Toda persona podrá acudir ante la Subsecretaría, para denunciar cualquier incumplimiento o forma de simulación que favorezca la impunidad del sentenciado.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ### Capítulo V. De las Sanciones Privativas y Restrictivas de Derechos
 
@@ -769,21 +767,17 @@ La ejecución de las sanciones privativas y restrictivas de derechos consistirá
 
 #### Sección Segunda. Suspensión e Inhabilitación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 49.
 
-El Juez de Ejecución, proveerá lo conducente para el cumplimiento de la suspensión de los derechos políticos y los de tutela, cúratela, de ser apoderado, defensor, albacea, perito, depositario o interventor judicial, síndico o interventor en quiebras, árbitro o representante de ausentes, así como, de los derechos directamente afectados por la sentencia condenatoria exclusivamente, haciendo del conocimiento de la autoridad correspondiente el contenido de la misma.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 50.
 
-Después de practicado el cómputo definitivo de la suspensión o inhabilitación, el Juez de Ejecución, ordenará las comunicaciones e inscripciones que correspondan e informará a la (sic) autoridades correspondientes. Asimismo, les informará sobre la finalización de la condena.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ### Capítulo VI. De las Medidas de Seguridad
 
@@ -839,15 +833,11 @@ El Juez de Ejecución, de oficio o a petición de parte, comprobará que el inte
 
 ### Capítulo I. De la Semilibertad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 60.
 
-La semilibertad se aplicará según las circunstancias del caso, bajo las siguientes modalidades:
-
-a) Externación durante la semana de trabajo o educativa, con reclusión de fin de semana;
-
-b) Salida de fin de semana, con reclusión durante el resto de ésta; y,
-
-c) Salida diurna con reclusión nocturna y viceversa.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ### Capítulo II. De los Sentenciados a Confinamiento
 
@@ -927,9 +917,11 @@ Tratándose de delitos graves, así calificados por la ley, el Ministerio Públi
 
 Cuando el sentenciado debiere cumplir una sanción privativa de libertad, el órgano jurisdiccional de la causa, dentro de las siguientes cuarenta y ocho horas, remitirá copia certificada de la sentencia, con la manifestación de hallarse firme, al Juez de Ejecución, a la Subsecretaría y al Director del Centro de Reinserción Social respectivo, dando orden de su ingreso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 72.
 
-Si el sentenciado se hallare en libertad, el Órgano Jurisdiccional de la causa, ordenará inmediatamente su aprehensión y, una vez efectuada, se procederá a su ingreso.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ###### Artículo 73.
 
@@ -1043,29 +1035,23 @@ Para los efectos del presente capítulo, los internos o sus defensores promover�
 
 ### Capítulo IV. Rehabilitación de Derechos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 90.
 
-El sentenciado que haya sido inhabilitado en el goce y ejercicio de los derechos previstos específicamente por la ley y la sentencia, podrá solicitar su rehabilitación por escrito. La rehabilitación de los derechos políticos se otorgará en la forma y términos que disponga la legislación aplicable.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 91.
 
-Si el sentenciado hubiera cumplido ya la sanción privativa de libertad, pasado el término que señala el artículo siguiente, podrá ocurrir ante el Juez de Ejecución, solicitando se le rehabilite en los derechos que se le privó, o en cuyo ejercicio estuviere suspenso, para lo cual acompañará a su escrito relativo, los documentos siguientes:
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-I. Certificado expedido por la autoridad penitenciaria que acredite haber extinguido la sanción privativa de libertad que se le hubiere impuesto, o que se le concedió la conmutación;
-
-II. Certificado de la autoridad municipal o su equivalente del lugar donde hubiere residido desde que comenzó la inhabilitación o la suspensión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 92.
 
-Recibida la solicitud, el Juez de Ejecución, emitirá la declaración de rehabilitación dentro de cinco días hábiles siguientes, expidiendo la constancia misma que comunicará a las autoridades respectivas.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ### Capítulo V. Del Tratamiento de Reinserción Social
 
@@ -1639,19 +1625,11 @@ I. Los sentenciados por los delitos de homicidio calificado, delincuencia organi
 
 II. Los reincidentes por delito doloso, o sean considerados delincuentes habituales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 171.
 
-El Juez de Ejecución podrá revocar la libertad del sentenciado y ordenar su reaprehensión, tan pronto tenga conocimiento que éste incurra en alguna de las siguientes causas:
-
-l. El liberado incumpla injustificadamente con las condiciones impuestas al otorgarle el beneficio; el Juez de Ejecución podrá, en caso de un primer incumplimiento, apercibirlo de la revocación del beneficio. Cuando el liberado infrinja medidas que establezcan presentaciones frecuentes para tratamiento, la revocación sólo procederá al tercer incumplimiento.
-
-II. El liberado sea condenado por nuevo delito doloso, mediante sentencia ejecutoriada. Si el nuevo delito fuere culposo, el Juez de Ejecución podrá motivadamente y, según la gravedad del hecho, revocar o mantener la libertad preparatoria.
-
-El condenado cuya libertad preparatoria sea revocada deberá cumplir el resto de la pena de prisión, para lo cual la autoridad considerará el tiempo de cumplimiento en libertad.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -1951,73 +1929,47 @@ Concluido el plazo concedido, la Subsecretaría realizará una inspección para 
 
 ### Capítulo I. Reglas Generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 200.
 
-El Juez de Ejecución tiene competencia para modificar, substituir o extinguir la pena, o aplicar la ley más favorable al reo.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 201.
 
-Son partes en el incidente de Ejecución:
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-l. El sentenciado.
-
-II. El Ministerio Público.
-
-III. La víctima, el ofendido o las personas que, conforme a la ley, tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, en su caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 202.
 
-El sentenciado podrá por sí o a través de su defensor, ejercer, durante la ejecución de la pena, los derechos que las leyes penales, penitenciarias y los reglamentos le otorgan.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 203.
 
-Para controlar el cumplimiento de las penas y medidas de seguridad impuestas y el respeto de las finalidades constitucionales y legales del sistema penitenciario, los Jueces de Ejecución tendrán las siguientes atribuciones:
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-a) Hacer cumplir, mantener, sustituir, modificar o declarar extintas las penas y/o las medidas de seguridad, así como las condiciones de su cumplimiento. En ejercicio de esta función, las áreas administrativas del sistema penitenciario estarán obligadas a informar del contenido de los expedientes clínico-criminológicos, así como sus avances e incidencias.
-
-b) Resolver en relación con la extinción de la sanción penal.
-
-c) Resolver por vía de incidente, los reclamos que formulen los internos sobre sanciones disciplinarias.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 204.
 
-Durante el trámite de los incidentes, el Juez de Ejecución podrá ordenar la suspensión provisional de toda medida administrativa carcelaria que entorpezca el procedimiento incidental.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 205.
 
-El Juez de Ejecución, para hacer valer sus determinaciones, gozará de todas las medidas de apremio y correcciones disciplinarias que contempla el Código de Procedimientos Penales.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 206.
 
-La sentencia que condene a la reparación de daños y perjuicios, cuando no sea inmediatamente ejecutada o no pueda serlo por simple orden del juez que la dictó, se solicitará su cumplimiento ante el Juez de Ejecución.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
@@ -2025,147 +1977,107 @@ La sentencia que condene a la reparación de daños y perjuicios, cuando no sea 
 
 ### Capítulo II. Incidentes Jurisdiccionales en la Etapa de Ejecución
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 207.
 
-Tan pronto como el Juez de Ejecución reciba copia certificada de la sentencia ejecutoriada radicará el expediente de control de ejecución, determinará su cumplimiento y ordenará las comunicaciones y anotaciones correspondientes.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 208.
 
-Si el sentenciado se encuentra en libertad y debe compurgar pena privativa, se ordenará su aprehensión o reaprehensión, lo que proceda en su caso, previo cumplimiento del trámite que marca la ley.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 209.
 
-El Juez de Ejecución realizará el cómputo de las penas o medidas de seguridad, tomando en cuenta el tiempo de la prisión preventiva y el arraigo cumplidos por el sentenciado, para determinar con precisión la fecha en que queden cumplidas. El cómputo podrá modificarse, aún de oficio, en caso de error.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-La fecha de cumplimiento de la pena se notificará inmediatamente al sentenciado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 210.
 
-No será deber de la defensa del proceso vigilar el cumplimiento de la pena, pero se prorrogará su labor si así se lo solicitare expresamente el sentenciado.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-El ejercicio de la defensa durante la ejecución penal, consistirá, cuando se requiera, en el asesoramiento o realización de las gestiones necesarias en resguardo de sus derechos.
-
-Lo anterior, no exime al Estado de la obligación de proporcionar y garantizar la asistencia y representación jurídica a los internos a través de la Defensoría Social, durante los trámites jurídicos correspondientes a la etapa de ejecución penal y de otorgamiento de determinado beneficio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 211.
 
-Los incidentes que se tramiten en la etapa de ejecución, pueden promoverse personalmente por el sentenciado, por su representante legal o por su defensor.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 212.
 
-Igualmente podrá promover el incidente de ejecución el Ministerio Público, la víctima, el ofendido o las personas que conforme a la ley, tengan derecho a la reparación del daño o a exigir la responsabilidad civil proveniente de la comisión de un delito, en su caso.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 213.
 
-Los incidentes deberán ser resueltos siempre en audiencia oral dentro de los diez días hábiles contados a partir de su inicio, previa notificación a los interesados con al menos cinco días de anticipación a la audiencia. Solamente podrá prorrogarse por única vez y por un término no mayor de tres días cuando no concurriere el defensor o Ministerio Público, dándose vista al superior jerárquico para la debida sanción administrativa o penal que corresponda.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 214.
 
-Será imprescindible en la audiencia la presencia del sentenciado, su defensor y el Ministerio Público.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 215.
 
-La presencia de la víctima u ofendido, no será requisito de validez para la celebración de la audiencia, cuando por alguna circunstancia no pudiere comparecer, o no sea su deseo hacerlo y que quede constancia de ello. Sin embargo, el Juez de Ejecución cuidará porque en todo caso sea debidamente notificado de su derecho a estar presente e intervenir.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 216.
 
-En la tramitación del incidente, el Juez de Ejecución velará en todo momento por el respeto a los principios de oralidad, inmediación, inmediatez, contradicción y concentración.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 217.
 
-El Juez de Ejecución podrá actuar de oficio cuando a su consideración se vulneren garantías de tipo constitucional del sentenciado o la víctima.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 218.
 
-El día y hora fijados para la celebración de la audiencia, el Juez de Ejecución se constituirá a la sala de audiencias. Verificará la asistencia de las partes y las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada y a continuación identificará a los intervinientes.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 219.
 
-Acto seguido se procederá a dar el uso de la palabra a los intervinientes, para que hagan una exposición sintetizada de sus pretensiones, de la siguiente manera: en primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; posteriormente al Ministerio Público, y si está presente en la audiencia, a la víctima u ofendido.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 220.
 
-Si fuera necesario incorporar alguna o algunas de las pruebas previstas por el Código de Procedimientos Penales para el Estado, el Juez de Ejecución brindará el auxilio necesario de manera pronta, para que sean desahogadas en esta etapa de la audiencia de incidente, pero en todo caso deberán ser anunciados como medios de prueba, al menos con tres días de anticipación a la audiencia, para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 221.
 
-Desahogadas las pruebas, haciendo uso del derecho de réplica y dúplica de las partes, el Juez de Ejecución dará nuevamente el uso de la palabra a los intervinientes, en el mismo orden que marca el artículo 219, para que presenten sus alegatos finales. A continuación, declarará cerrado el debate.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 222.
 
-La resoluciones deberán emitirse inmediatamente después de concluido el debate y de manera oral, salvo en casos de complejidad, en los que el Juez podrá retirarse á. deliberar su fallo. La deliberación no podrá durar más de veinticuatro horas.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 223.
 
-En un plazo que en ningún caso será mayor a cinco días, el Juez de Ejecución mandará a comunicar a las partes el documento por escrito que contenga la resolución, acto que tendrá efectos de notificación y a partir del cual correrá el término para interponer el recurso de apelación, mismo que se tramitará en los términos del Código de Procedimientos Penales para el Estado de Chiapas.
+(DEROGADO POR ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, P.O. 9 DE FEBRERO DE 2012)
 
 ## Transitorios
 
@@ -2286,3 +2198,39 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 Tercero.- En un término no mayor de sesenta días contados a partir de la entrada en vigor del presente Decreto, se llevarán a cabo las reformas y modificaciones necesarias al marco jurídico correspondiente, para adecuarlo a las disposiciones que se establecen en el presente Decreto.
 
 Cuarto.- Los procedimientos de ejecución de penas y medidas de seguridad iniciados con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+P.O. 9 DE FEBRERO DE 2012.
+
+Artículo Primero.- El presente Código de Procedimientos Penales para el Estado de Chiapas, entrará en vigor el día veintiuno del mes de mayo del año 2012.
+
+Artículo Segundo.- En cumplimiento al Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 18 de junio de 2008, se establece y declara en Chiapas, la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio.
+
+Artículo Tercero.- Para los efectos de la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio y en base a la gradualidad contemplada en la Reforma Constitucional Federal, el territorio chiapaneco se dividirá de la siguiente forma:
+
+Región Uno.- Distrito Judicial de Tuxtla, Cintalapa y Chiapa; Región Dos.- Distrito Judicial de Tapachula, San Cristóbal de Las Casas y Comitán de Domínguez; Región Tres.- Distrito Judicial de Villaflores, Tonalá, Pichucalco, Acapetahua, Catazajá-Palenque, Ocosingo, Yajalón, Huixtla, Motozintla, Copainalá, Simojovel, Bochil, Venustiano Carranza, Salto de Agua y Benemérito de las Américas.
+
+La implementación del Sistema de Seguridad y Justicia Penal será en forma gradual y progresiva bajo el criterio de delitos en bloques y regiones, en principio el Juicio de Corte Acusatorio iniciará con la cobertura total de los delitos NO GRAVES, en la Región Uno, en el año 2012; y en las Regiones Dos y Tres, comenzará con la cobertura total de los delitos NO GRAVES entre los años de 2013, al Primer Trimestre del año 2016. Inmediatamente en el Segundo Trimestre del año 2016, la implementación del Sistema de Justicia Penal a través del Juicio de Corte Acusatorio, incluirá a la totalidad de los Delitos Graves simultáneamente en las Regiones Uno, Dos y Tres.
+
+Artículo Cuarto.- La competencia de los Jueces Municipales prevista en la fracción IV del artículo 100 del Código de Organización del Poder Judicial del Estado, será trasladada a los jueces penales del nuevo sistema acusatorio, de conformidad con la gradualidad prevista en el artículo anterior. En materia penal, seguirán siendo competentes en los términos de la fracción I del mismo artículo.
+
+Artículo Quinto.- Las Averiguaciones Previas, los Procesos Penales y los Recursos iniciados, o que se estén substanciando, con fundamento en las legislaciones previas a la implementación del Sistema de Justicia Penal, a través del Juicio de Corte Acusatorio, se tramitarán hasta su conclusión y en su caso, ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+Artículo Sexto.- El Consejo de la Judicatura acordará lo referente al registro de peritos, los requisitos, los derechos y costos que deberán sufragar los peritos en el Estado. En tanto no entren en vigor dichas disposiciones, no se les podrá exigir a los peritos su registro respectivo. Las disposiciones relativas a la entrada en vigor del registro de peritos, su trámite y requisitos, deberán publicarse en el Periódico Oficial del Estado.
+
+Artículo Séptimo.- Se abroga el Código de Procedimientos Penales, promulgado el cinco de marzo de mil novecientos treinta y ocho y sus respectivas reformas, conforme este Código entre en vigor sucesiva y territorialmente por regiones, de conformidad con el artículo Tercero Transitorio, del presente Decreto. En ese tenor, se Deroga cualquier disposición que se oponga a lo preceptuado en este Código.
+
+Artículo Octavo.- Los delitos permanentes o continuados, que inicien su comisión bajo la vigencia del Código de Procedimientos Penales de mil novecientos treinta y ocho se investigarán, procesarán y juzgarán conforme a dicho ordenamiento, aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+Artículo Noveno.- No procederá la acumulación de procesos sobre hechos delictuosos, cuando alguno de ellos esté sometido al presente Código y otro al Código de Procedimientos Penales, promulgado el cinco de marzo de mil novecientos treinta y ocho.
+
+Artículo Décimo.- Siempre que sea oportuno dentro del trámite procesal, deberán de aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente Ordenamiento que se refieran a: a) indemnización del imputado; b) Aplicación de los Criterios de Oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada; c) Imposición de Medidas Cautelares Personales; d) Acuerdos reparatorios y suspensión del proceso a prueba; e) Procedimiento abreviado; f) Pueblos o Comunidades Indígenas; g) Procedimientos para inimputables, y h) Recurso de Revisión.
+
+Las facultades que este Código le concede al Juez de Control, serán ejercidas por el Juez de primera instancia mixto o penal según corresponda.
+
+Artículo Décimo Primero.- Cuando una autoridad penal reciba por exhorto, despacho, mandamiento o comisión, una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
+
+Artículo Décimo Segundo.- Dentro del término de seis meses contados a partir del día siguiente de la publicación de este Código en el Periódico Oficial, los poderes Legislativo, Ejecutivo y Judicial deberán, en el ámbito de sus respectivas competencias, expedir las disposiciones legales correspondientes para adecuar el orden jurídico estatal a lo establecido en el presente Código; así como, gestionar y adecuar sus estructuras administrativas, recursos humanos, materiales, financieros e infraestructura, de tal forma que responda al Juicio de Corte Acusatorio que exige el Sistema de Justicia Penal.
+
+Artículo Décimo Tercero.- Para instrumentar la aplicación del presente Código, se autoriza al Consejo de la Judicatura del Estado, para que tome las medidas necesarias sobre: traslado de funcionarios, designación de jueces de control, integración de tribunales de juicio oral y tribunales de alzada, designación de defensores públicos especializados en el sistema acusatorio, redistribución de competencias territoriales, asignación del despacho de rezagos y creación de órganos que resulten pertinentes, así también lo relativo a sueldos y salarios de los funcionarios judiciales.
+
+Artículo Décimo Cuarto.- A la entrada en vigor del presente Código, se derogan los artículos 15, 32, 41, 42, 46, 47, 49, 50, 60, 72, 90, 91, 92, 171 y del 200 al 223, todos del Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas.
