@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-mulege-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2012-01-10"
+last_updated: "2012-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MULEGÉ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -1331,7 +1331,13 @@ a). Por este servicio se cobrará el 20% del valor del consumo de agua potable.
 
 b). El usuario pagara los accesorios, materiales y trabajos extraordinarios de la conexión del servicio de alcantarillado.
 
-#### SECCIÓN I. DEL PANTEÓN MUNICIPAL
+> <small>(ADICIONADA, B.O. 10 DE FEBRERO DE 2012)</small>
+
+#### SECCIÓN III. DERECHOS POR CONEXIÓN
+
+Los usuarios del sistema de agua potable y alcantarillado del municipio de Mulegé con giro comercial, industrial y turístico, así como fraccionadoras, urbanizadoras y desarrolladoras, deberán pagar una cuota única que se entenderá como derechos de conexión, por el uso y aprovechamiento de la infraestructura hidráulica y sanitaria que opera el Organismo Operador del Sistema de Agua Potable y Alcantarillado de Mulegé, misma que deberá ser cubierta con anterioridad al inicio de las obras y será un requisito indispensable para el trámite de las licencias de construcción necesarias.
+
+Las formulas para el cálculo de los derechos de conexión a la red de agua potable o a la red de drenaje las establecerá la Junta de Gobierno del organismo operador, apegándose a lo establecido por la sección tercera del Capítulo IV de la Ley de Aguas para el Estado de Baja California Sur.
 
 ### CAPÍTULO VI. DERECHOS POR COOPERACIÓN PARA OBRAS PÚBLICAS QUE REALICE EL MUNICIPIO
 
@@ -1521,7 +1527,7 @@ IV. Búsqueda de documentos del archivo Municipal, cuando no se precisen los dat
 
 ### CAPÍTULO IX. SERVICIOS FUNERARIOS Y PANTEONES
 
-#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+#### SECCIÓN I. DEL PANTEÓN MUNICIPAL
 
 ###### Artículo 92.
 
@@ -1651,7 +1657,7 @@ II. De morada conyugal 1 salario mínimo.
 
 ### CAPÍTULO XIV. SERVICIOS DE SEGURIDAD Y TRÁNSITO
 
-#### SECCIÓN II. SERVICIOS DE SEGURIDAD PÚBLICA
+#### SECCIÓN I. DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
 ###### Artículo 108.
 
@@ -1750,6 +1756,8 @@ De 18 años (máximo 90 días), previo curso de manejo.
 ###### Artículo 115.
 
 Por concepto de inscripción en cursos de educación vial, por cada participante se cobrará 3 salarios mínimos.
+
+#### SECCIÓN II. SERVICIOS DE SEGURIDAD PÚBLICA
 
 ###### Artículo 116.
 
@@ -2856,3 +2864,9 @@ B.O. 10 DE ENERO DE 2012.
 PRIMERO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto en lo referente a sus respectivas leyes de hacienda municipales.
+
+B.O. 10 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
