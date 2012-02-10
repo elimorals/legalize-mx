@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-inscripcion-pago-de-aportaciones-y-entero-de-1105
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-12-09"
-last_updated: "1997-12-09"
+last_updated: "2012-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11052&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1997-12-05"
 ---
 # REGLAMENTO DE INSCRIPCION, PAGO DE APORTACIONES Y ENTERO DE DESCUENTOS AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-REGLAMENTO DE INSCRIPCION, PAGO DE APORTACIONES Y ENTERO DE DESCUENTOS AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
+REGLAMENTO DE INSCRIPCIÓN, PAGO DE APORTACIONES Y ENTERO DE DESCUENTOS AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE INSCRIPCIÓN, PAGO DE APORTACIONES Y ENTERO DE DESCUENTOS AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 10 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 9 de diciembre de 1997.
 
@@ -712,3 +714,17 @@ SEXTO.- A los créditos otorgados por el Instituto con anterioridad a la entrada
 SÉPTIMO.- Los trámites y procedimientos pendientes al momento de la entrada en vigor de este Reglamento se resolverán conforme con las disposiciones vigentes en el momento en que se hayan iniciado.
 
 Dado en la Residencia de Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los cinco días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Javier Bonilla García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Inscripción, Pago de Aportaciones y Entero de Descuentos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, publicado en el Diario Oficial de la Federación el 9 de diciembre de 1997.
+
+TERCERO. Se derogan las demás disposiciones reglamentarias o administrativas que se opongan o no se sujeten a este Reglamento.
+
+CUARTO. Los asuntos que se encuentren en trámite iniciados con base en el Reglamento que se abroga deberán concluirse conforme a lo previsto en él y en las demás disposiciones que resulten aplicables.
+
+QUINTO. La obligación patronal a que se refiere el artículo 12 de este Reglamento, será sustituida por la obligación de proporcionar únicamente la Clave Única de Registro de Población, una vez que el Instituto Mexicano del Seguro Social sustituya el Número de Seguridad Social por la Clave única de Registro de Población.
