@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2012-01-23"
+last_updated: "2012-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -155,9 +155,11 @@ Es objeto de este Impuesto, la prestación de servicios de hospedaje en hoteles,
 
 Para los efectos de este Impuesto, se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con aquellos.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 14.
 
-Son sujetos de este Impuesto las personas físicas y morales que dentro del Estado de Baja California Sur, de manera permanente o temporal presten servicios de albergue u hospedaje en los lugares indicados en el Artículo anterior, a cambio de una contraprestación en dinero o especie, sin importar la duración de los mismos.
+Son sujetos de este Impuesto las personas físicas y morales que dentro del Estado de Baja California Sur, de manera permanente o temporal presten servicios de albergue u hospedaje, de manera directa o a través de operadores turísticos, intermediarios, representantes, o como se les designe, en los lugares indicados en el artículo anterior, a cambio de una contraprestación en dinero o especie, sin importar la duración de los mismos.
 
 ###### Artículo 15.
 
@@ -226,6 +228,12 @@ I. Solicitar su inscripción en el Registro Estatal de Contribuyentes del Estado
 II. Trasladar a los usuarios de los servicios gravados el impuesto correspondiente, y enterarlo en las oficinas o instituciones indicadas en el Artículo 4 y en los plazos establecidos por el Artículo 20 de esta Ley.
 
 Los contribuyentes están obligados a enterar el impuesto, aún cuando no lo hubiesen trasladado a las personas que reciban el servicio de hospedaje.
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
+
+###### Artículo 22 Bis.
+
+Cuando las actividades que son objeto de este impuesto se presten a través de operadores turísticos, intermediarios, representantes, o como se les designe, estos tendrán la obligación de recaudar el impuesto que se cause y efectuar pagos provisionales mensuales a cuenta del impuesto anual en los términos y plazos que se indican en el Artículo 20 de la presente Ley.
 
 ### Capítulo Tercero. Del Impuesto sobre Loterías, Rifas, Sorteos y Concursos
 
@@ -1102,3 +1110,7 @@ B.O. 7 DE OCTUBRE DE 2011.
 B.O. 23 DE ENERO DE 2012.
 
 Único.- La presente reforma entrará en vigor el día 31 de enero del año 2012, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, debiendo la Secretaría de Finanzas del Gobierno del Estado, realizar los redireccionamientos necesarios en el presupuesto de egresos del ejercicio fiscal 2012, con relación a los recursos materia de este Decreto.
+
+B.O. 10 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.<a (sic)
