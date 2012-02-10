@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2011-12-27"
+last_updated: "2012-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE FEBRERO DE 2012.</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -235,13 +235,11 @@ El Registro Civil es una institución de orden público e interés social a trav
 
 El funcionamiento del Registro Civil está a cargo de la Dirección General del Registro Civil, cuya estructura, organización y facultades se regulará en el Reglamento del Registro Civil, éste determinará, además, los servidores dotados de fe pública en el ejercicio de la función registral civil.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011) (F. DE E., P.O. 10 DE FEBRERO DE 2012)
 
 ###### Art. 37.
 
-Los Oficiales del Registro Civil tienen a su cargo autorizar los actos del estado civil y extender las actas relativas a nacimientos, matrimonios y defunciones; así como realizar las anotaciones en las actas respectivas de adopción simple, divorcio e inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
+Los Oficiales del Registro Civil tienen a su cargo autorizar los actos del estado civil y extender las actas relativas a nacimientos, matrimonios y defunciones; así como realizar las anotaciones en las actas respectivas en los casos de reconocimiento de hijos, adopción simple, divorcio e inscripción de las ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -261,9 +259,9 @@ La Dirección General del Registro Civil proporcionará la información correspo
 
 Los formatos de asentamiento de las actas del Registro Civil estarán constituidos por tres secciones:
 
-I. Encabezado: contendrá el escudo nacional, el nombre de Estados Unidos Mexicanos y del Estado de Guanajuato, la Clave Única de Registro de Población, la Clave de Registro e Identificación Personal que corresponda y el tipo de acta. Por la naturaleza de la emisión de la Clave Única de Registro de Población, ésta no aparece en las actas de nacimiento;
+I. Encabezado: contendrá el escudo nacional, el nombre de Estados Unidos Mexicanos y del Estado de Guanajuato, la Clave Única de Registro de Población, la Clave de Registro e Identificación Personal que corresponda y el tipo de acta. Por la naturaleza de la emisión de la Clave Única de Registro de Población, ésta no aparece en las actas de nacimiento:
 
-II. Localización del acta: contendrá el nombre y número de la Oficialía, localidad y municipio donde se ubica, número de libro, número de acta y la fecha de registro; y
+II. Localización del acta: contendrá el nombre y número de la Oficialía, localidad y municipio donde se ubica, número de libro, número de acta y la fecha de registro: y
 
 III. Cuerpo del acta: en la cual se asentarán los datos generales de todos los que intervengan en el acta, firmas y huellas dactilares si el acto lo requiere; así como el nombre y firma del Oficial del Registro Civil y sello de la Oficialía.
 
@@ -533,7 +531,7 @@ Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro C
 
 ###### Art. 67.
 
-Cuando alguno de los padres sea de nacionalidad extranjera, y a juicio de la Dirección General del Registro Civil, existan elementos que acrediten que no se puede imponer en primer lugar el primer apellido del padre y en segundo lugar el primer apellido de la madre por que pueda ocasionar la pérdida o la confusión en la filiación del registrado respecto de sus familiares, podrá autorizarse una variación o cambio en el orden de los apellidos.
+Cuando alguno de los padres sea de nacionalidad extranjera, y a juicio de la Dirección General del Registro Civil, existan elementos que acrediten que no se puede imponer en primer lugar el primer apellido del padre y en segundo lugar el primer apellido de la madre por que pueda ocasionar la pérdida o la confusión en la filiación del registrado respecto de sus familiares. Podrá autorizarse una variación o cambio en el orden de los apellidos.
 
 En caso de que ambos padres sean extranjeros, el orden o variación de los apellidos se establecerá de acuerdo a la decisión de éstos, cuidando siempre que no se pierda o confunda la filiación del registrado con respecto al resto de sus familiares. En este caso se requerirán las firmas del padre y de la madre, respecto del acuerdo que pacten para el orden de transmisión y registro de sus apellidos. El orden de apellidos establecidos para el primero de los hijos registrados, regirá para los que se registren posteriormente.
 
@@ -591,19 +589,19 @@ En las actas de nacimiento por ningún concepto se asentarán palabras que calif
 
 ###### Art. 73.
 
-Toda persona que encontrase a un menor, ya sea que éste estuviere extraviado o abandonado, o en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría en Materia de Asistencia Social en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, para que ésta proceda a lo siguiente:
+Toda persona que encontrase a un menor, ya sea que éste estuviere extraviado o abandonado, en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría en Materia de Asistencia Social en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, para que ésta proceda a lo siguiente:
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-I. Denunciar los hechos inmediatamente ante el Ministerio Público;
+I.- Denunciar los hechos inmediatamente ante el Ministerio Público;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-II. Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede cuando se haya definido la situación jurídica del menor;
+II.- Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede cuando se haya definido la situación jurídica del menor;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-III. Entregar la custodia temporal del menor a una institución de asistencia social que pueda atenderlo adecuadamente;
+III.- Entregar la custodia temporal del menor a una institución de asistencia social que pueda atenderlo adecuadamente;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -837,7 +835,7 @@ La solicitud deberá ser firmada por los solicitantes, si alguno no pudiere o no
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-En caso de que alguno o ambos pretendientes sean menores de edad, la solicitud también deberá ir firmada por las personas que deban otorgar su consentimiento de acuerdo con el artículo 145 de este Código.
+En caso de que alguno ó ambos pretendientes sean menores de edad, la solicitud también deberá ir firmada por las personas que deban otorgar su consentimiento de acuerdo con el artículo 145 de este Código.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -975,7 +973,9 @@ IV. Nombre y firma del Oficial y sello de la Oficialía del Registro Civil.
 
 La copia de la sentencia o resolución del divorcio se archivará con el mismo número del acta de matrimonio. Si las actas de nacimiento de los divorciados se encuentran en otra Oficina del Registro Civil, dentro de la República, pero fuera del Estado de Guanajuato, el Oficial del Registro Civil deberá enviar aviso a esa oficina, solicitándole hacer las anotaciones correspondientes en las citadas actas.
 
-### Capítulo X. De las anotaciones de las ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
+### Capítulo X. De las anotaciones de las ejecutorias que declaren la incapacidad legal para administrar bienes, la ausencia o la
+
+presunción de muerte
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1017,7 +1017,7 @@ I. El nombre, apellidos, sexo y domicilio que tuvo el difunto;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-II. Nombres de los padres que se acrediten con el acta de nacimiento;
+II. Nombres de los padres que se acrediten con el acto de nacimiento;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1101,7 +1101,7 @@ Los Oficiales del Registro Civil al momento de levantar un acta de defunción, d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-### Capítulo XI. De las modificaciones de las actas del estado civil
+### Capítulo XI. De las aclaraciones, rectificaciones y modificaciones de las actas del estado civil
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1127,7 +1127,7 @@ III. Nombre y firma del Oficial y sello de la Oficialía del Registro Civil.
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso a los Oficiales del Registro Civil que correspondan por el mismo interesado o por la autoridad respectiva, para que cancele las anotaciones a que se refieren los artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE JUNIO DE 2005)</small>
 
 ### Capítulo XII. De la nulidad de las actas del registro civil
 
@@ -1229,15 +1229,13 @@ La tramitación del asentamiento de actas del Registro Civil, así como su recti
 
 #### Sección Segunda. De las rectificaciones judiciales de las actas del estado civil
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011) (F. DE E., P.O. 10 DE FEBRERO DE 2012)
 
 ###### Art. 140-A.
 
-La rectificación judicial es procedente en los casos no previstos por los artículos 137-A y 141 de este Código. El interesado, deberá acudir ante el juez competente para su trámite, en los términos que prescribe el Código de Procedimientos Civiles para el Estado de Guanajuato.
+La rectificación judicial es procedente en los casos no previstos por los artículos 138 y 141 de este Código. El interesado, deberá acudir ante el juez competente para su trámite, en los términos que prescribe el Código de Procedimientos Civiles para el Estado de Guanajuato.
 
-Cuando la sentencia que conceda la rectificación de acta cause ejecutoria, se comunicará al Oficial del Registro Civil y éste asentara la anotación correspondiente en el acta rectificada.
+Cuando la sentencia que conceda la rectificación de acta cause ejecutoria, se comunicará al Oficial del Registro Civil y éste asentará la anotación correspondiente en el acta rectificada.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -2361,7 +2359,7 @@ I. (DEROGADA, P.O. 10 DE JUNIO DE 2005)
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-II. Proceder en cuanto a la separación de los cónyuges en los términos del Código de Procedimientos Civiles, ordenando quién de los dos debe permanecer en el domicilio conyugal. Asimismo, previo inventario, deberá determinar los bienes y enseres que deberán continuar en éste y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
+II. Proceder en cuanto a la separación de los cónyuges en los términos del Código de Procedimientos Civiles, ordenando quién de los dos debe permanecer en el domicilio conyugal. Asimismo, previo inventario, deberá determinar los bienes y enseres que deberán continuar en éste y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia.
 
 La separación conyugal decretada por el juez interrumpe los términos a que se refieren las fracciones VIII y XVIII del artículo 323 de este Código;
 
@@ -2451,7 +2449,7 @@ I. Haber estado casado bajo el régimen de separación de bienes; y
 
 II. Que el demandante se haya dedicado en el lapso en que duró el matrimonio preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos.
 
-El Juez en la sentencia de divorcio habrá de resolver atendiendo al tiempo que duró el matrimonio, los bienes con que cuente el cónyuge inocente, la custodia de los hijos y las demás circunstancias especiales de cada caso.
+El Juez en la sentencia de divorcio habrá de resolver atendiendo al tiempo que duró el matrimonio, los bienes con que cuenta el cónyuge inocente, la custodia de los hijos y las demás circunstancias especiales de cada caso.
 
 Se exceptúan de los bienes establecidos en este artículo, los que se adquieran por sucesión y donación.
 
@@ -3103,7 +3101,7 @@ II. Presentar el adoptante un certificado de idoneidad expedido por el Sistema p
 
 a) Que el adoptante cuenta con preparación psicológica para adoptar;
 
-b) Que el adoptante es idóneo jurídica, social, física, psicológica, económica y moralmente para adoptar; y
+b) Que el adoptante es idóneo jurídica, social, física, psicológica, económica y moralmente para adopta; y
 
 c) Tener el adoptante condiciones apropiadas para proveer al cuidado y educación del adoptado.
 
@@ -3213,7 +3211,7 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 ###### Art. 464.
 
-El Juez que apruebe la adopción, remitirá el duplicado del expediente y la resolución judicial al Oficial del Registro Civil del lugar, para que realice la anotación correspondiente, previo pago de derechos.
+El Juez que apruebe la adopción, remitirá el duplicado del expediente y la resolución judicial al Oficial del Registro Civil del lugar, para que realice la anotación correspondiente, previo pago de derechos..
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -3299,7 +3297,7 @@ Esta adopción se regirá por los tratados internacionales en la materia suscrit
 
 En las adopciones internacionales, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato será autoridad central, y deberá atender entre otras disposiciones, las siguientes:
 
-I. Solicitar informes a la autoridad central del país de origen de los adoptantes a efecto de asegurarse sobre la conveniencia de la adopción, una vez que se tenga la petición de una adopción internacional;
+l. Solicitar informes a la autoridad central del país de origen de los adoptantes a efecto de asegurarse sobre la conveniencia de la adopción, una vez que se tenga la petición de una adopción internacional;
 
 II. La reciprocidad entre el país de origen y el país receptor en materia de adopciones;
 
@@ -3341,17 +3339,17 @@ La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la mad
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
-I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y, en su defecto, al ministerio público.
+I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y en su defecto al ministerio público.
 
-En cuanto tenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
+En cuanto atenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
-> <small>(REFORMADA, P.O. P.O. 10 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-II. Cuando sean dos o más los menores de una misma familia que convivan juntos, el juez procurará la continuación de dicha convivencia, si ello fuere posible;
+II. Cuando sean dos o más los menores de una misma familia que convivan juntos, el juez procurará la continuación de dicha convivencia si ello fuere posible;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
-III. En todos los casos, para determinar a quién corresponde ejercer la patria potestad, el juez tendrá en cuenta el interés superior de los menores.
+III. En todos los casos para determinar a quién corresponde ejercer la patria potestad, el juez tendrá en cuenta el interés superior de los menores.
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -3391,7 +3389,7 @@ La menor o incapacitada que procree un hijo, ejercerá la patria potestad a trav
 
 ###### Art. 474.
 
-Si sólo faltare alguna de las dos personas a quienes corresponda ejercer la patria potestad, la que quede continuará en ejercicio de ese derecho.
+Si solo faltare alguna de las dos personas a quienes corresponda ejercer la patria potestad, la que quede continuará en ejercicio de ese derecho.
 
 > <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -3511,7 +3509,7 @@ En todos los casos en que las personas que ejercen la patria potestad tengan un 
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
 
-Tratándose de casos de violencia intrafamiliar, quienes carezcan de capacidad de ejercicio y tengan un interés opuesto con quienes ejerzan la patria potestad o la tutela, serán representados en juicio y fuera de él, por quien dirija el Centro para la Atención de Violencia Intrafamiliar.
+Tratándose de casos de violencia intrafamiliar, quienes carezcan de incapacidad de ejercicio y tengan un interés opuesto con quienes ejerzan la patria potestad o la tutela, serán representados en juicio y fuera de él, por quien dirija el Centro para la Atención de Violencia Intrafamiliar.
 
 ###### Art. 494.
 
@@ -3583,7 +3581,7 @@ III. Por la sentencia condenatoria que imponga esta suspensión.
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-IV. Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos o amenacen causar algún perjuicio cualquiera que este sea al menor, y a juicio del juez esta situación sea sólo temporal;
+IV. Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos o amenacen causar algún perjuicio cualquiera que éste sea al menor, y a juicio del juez esta situación sea sólo temporal;
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -4989,7 +4987,7 @@ El patrimonio familiar se constituye con la finalidad de garantizar la subsisten
 
 Es susceptible de constituirse como patrimonio familiar lo siguiente:
 
-I. Una casa habitación;
+l. Una casa habitación;
 
 II. El menaje de uso ordinario de la casa habitación;
 
@@ -5051,7 +5049,7 @@ Los bienes que hayan quedado afectos al patrimonio familiar gozarán de los priv
 
 ###### Art. 779.
 
-El miembro del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado, que quiera constituir el patrimonio familiar, lo manifestará por escrito ante el juez de su domicilio, señalando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a quedar afectados.
+El miembro del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado, que quiera constituir el patrimonio familiar, lo manifestará por escrito ante el juez de su domicilio, señalando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes qué van a quedar afectados.
 
 Además, comprobará lo siguiente:
 
@@ -5083,7 +5081,7 @@ VII. Que los bienes no excedan del valor fijado en el artículo 778.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE JUNIO DE 2008)</small>
 
-En tratándose de reemplazo de alguno o algunos bienes afectos al patrimonio familiar, el constituyente deberá señalar por escrito ante el juez, con toda precisión el bien que deberá darse de baja y el nuevo que ha de quedar en su lugar. El registrador público procederá a hacer la anotación correspondiente, dando de baja el bien sustituido y señalando con todas sus especificidades el nuevo bien. Para efectos de lo señalado por este párrafo deberá cumplirse con los requisitos establecidos en las fracciones III, V y VII y, en su caso, la fracción VI, de este artículo.
+En tratándose de reemplazo de alguno o algunos bienes afectos al patrimonio familiar, el constituyente deberá señalar por escrito ante el juez, con toda precisión el bien que deberá darse de baja y el nuevo que ha de quedar en su lugar. El registrador público procederá a hacer la anotación correspondiente, dando de baja el bien sustituido y señalando con todas sus especificidades el nuevo bien. Para efectos de lo señalado por este párrafo deberá cumplirse con los requisitos establecidos en las fracciones III, V y VII, en su caso, la fracción VI, de este artículo.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -5115,11 +5113,9 @@ La constitución del patrimonio familiar no puede hacerse en fraude de los derec
 
 Constituido el patrimonio familiar, los miembros del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado, tienen obligación de habitar la casa y de trabajar la tierra. El juez del domicilio donde se encuentre constituido el patrimonio familiar, por justa causa, podrá autorizar para que se dé en arrendamiento el bien inmueble afecto al patrimonio familiar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2008)</small>
-
 ###### Art. 785.
 
-El patrimonio familiar se extingue:
+El patrimonio de la familia se extingue:
 
 I. Cuando todos los beneficiarios cesan de tener derecho de percibir alimentos;
 
@@ -5149,7 +5145,7 @@ El precio del patrimonio familiar expropiado y la indemnización proveniente del
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
-Si el dueño de los bienes vendidos no lo constituye dentro del plazo de seis meses, cualquier miembro del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado, a que se refiere el artículo 773 tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
+Si el dueño de los bienes vendidos no lo constituye dentro del plazo de seis meses, cualquier miembro del núcleo familiar o de la familia, compuesta ésta por los parientes consanguíneos hasta el segundo grado, a que se refiere el articulo 773 tienen derecho de exigir judicialmente la constitución del patrimonio familiar.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -6977,7 +6973,7 @@ Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufruct
 
 ###### Art. 1092.
 
-Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima; debe volverse a imponer a satisfacción del usufructuario y propietario.
+Si el usufructo se constituye sobre capitales impuestos a réditos, el usufructuario sólo hace suyos éstos y no aquellos, y aun cuando el capital se redima, debe volverse a imponer a satisfacción del usufructuario y propietario.
 
 ###### Art. 1093.
 
@@ -7407,7 +7403,7 @@ Si el que disfruta del acueducto necesita ampliarlo, deberá costear las obras n
 
 ###### Art. 1186.
 
-La servidumbre legal establecida por el artículo 1175, trae consigo el derecho de transito para las personas, maquinarias y animales y el de conducción de los materiales necesarios para el uso y reparación del acueducto, así como para el cuidado del agua que por él se conduce, observándose lo dispuesto en los artículos del 1195 al 1200.
+La servidumbre legal establecida por el artículo 1175, trae consigo el derecho de transito para las personas, maquinarias y animales y el de conducción de los materiales necesarios para el uso y reparación del acueducto, así como para el cuidado del agua que por él se conduce, observándose lo dispuesto en los artículos del 1185 al 1200.
 
 ###### Art. 1187.
 
@@ -7763,7 +7759,7 @@ La prescripción corre desde el día en que fueron entregados los objetos, si la
 
 III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
-IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
+IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquél en que se causó el daño;
 
 V. La responsabilidad civil proveniente de actos ilícitos que no constituyen delitos.
 
@@ -8439,7 +8435,7 @@ El que sin mandato y sin estar obligado a ello se encarga de un asunto de otro, 
 
 ###### Art. 1386.
 
-El gestor debe desempeñar su encargo con toda la diligencia que emplea en sus negocios propios, e indemnizará los daños y perjuicios que por su culpa o negligencia se erroguen al dueño de los bienes o negocios que gestione.
+El gestor debe desempeñar su encargo con toda la diligencia que emplea en sus negocios propios, e indemnizará los daños y perjuicios que por su culpa o negligencia se eroguen al dueño de los bienes o negocios que gestione.
 
 ###### Art. 1387.
 
@@ -10453,7 +10449,7 @@ Si no se ha fijado tiempo y lugar, el pago se hará en el tiempo y lugar en que 
 
 ###### Art. 1793.
 
-Si ocurre duda sobre cuál de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
+Si ocurre duda sobre cual de los contratantes deberá hacer primero la entrega, uno y otro harán el depósito en manos de un tercero.
 
 ###### Art. 1794.
 
@@ -11587,7 +11583,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -11727,7 +11723,7 @@ El mandato escrito puede otorgarse:
 
 I. En escritura pública;
 
-II. En escrito privado firmado por el otorgante y ratificada la firma anteNnotario público o quien haga sus veces.
+II. En escrito privado firmado por el otorgante y ratificada la firma ante Notario público o quien haga sus veces.
 
 III. En carta poder sin ratificación de dichas firmas.
 
@@ -13529,7 +13525,7 @@ Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede 
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
-Se podrán ceder los créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la sesión (sic) al deudor. En cualquier caso, a requerimiento del deudor hipotecario, el acreedor primitivo podrá informarle a quién cedió el crédito.
+Se podrán ceder los créditos con garantía hipotecaria, sin necesidad de notificación al deudor, de escritura pública, ni de inscripción en el Registro Público, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la sesión al deudor. En cualquier caso, a requerimiento del deudor hipotecario, el acreedor primitivo podrá informarle a quién cedió el crédito.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -14091,7 +14087,9 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos ap
 
 ###### Art. 2505.
 
-Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgue o en cuyo nombre se otorguen esos actos. En el caso del folio real se observará esta disposición.
+Para inscribir o anotar títulos por los que se declaren, transmitan, graven, modifiquen o extingan el dominio y demás derechos reales sobre inmuebles, deberá constar previamente inscrito el derecho de la persona que otorgue o en cuyo nombre se otorguen esos actos.
+
+En el caso del folio real se observará esta disposición.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 1971)</small>
 
@@ -14529,7 +14527,7 @@ I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a l
 
 II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, denuncia por delito que merezca pena capital o de prisión por más de dos años, aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el denunciante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge, o actúe en cumplimiento de una obligación legal;
 
-III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+III. El cónyuge que mediante juicio ha sido declarado adultero, si se trata de suceder al cónyuge inocente;
 
 IV. El coautor del cónyuge adúltero ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
 
@@ -14843,7 +14841,7 @@ Aunque el testador nombre algunos herederos individualmente y a otros colectivam
 
 ###### Art. 2640.
 
-Si el testador instituye a sus hermanos, y los tiene solo de padre, sólo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
+Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
 
 ###### Art. 2641.
 
@@ -15409,7 +15407,7 @@ En el caso del artículo que precede, no tendrá validez el testamento mientras 
 
 ###### Art. 2763.
 
-Se prohÍbe a los notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
+Se prohíbe a los Notarios y a cualquiera otra persona que hayan de redactar disposiciones de última voluntad, dejar espacios en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los Notarios y de la mitad a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 1997)</small>
 
@@ -15595,7 +15593,7 @@ Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, 
 
 ###### Art. 2800.
 
-Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así. También hará constar la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquellos en el lugar en que éste se otorgó. Para esos efectos el Juez recibirá las pruebas que fueren procedentes.
+Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así. También hará constar la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar en que éste se otorgó. Para esos efectos el Juez recibirá las pruebas que fueren procedentes.
 
 ###### Art. 2801.
 
@@ -15831,7 +15829,7 @@ Tiene derecho a heredar por sucesión legítima:
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1992)</small>
 
-I. Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del sexto grado, así como la concubina o el concubinario, en los términos a que se refiere el artículo 2873.
+I. Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del sexto grado, así como la concubina o el concubinario, en los términos a que se refiere el artículo 2873;
 
 II. A falta de los anteriores, la Universidad de Guanajuato.
 
@@ -16795,7 +16793,7 @@ La dote ya constituída será regida por las disposiciones de la ley bajo la que
 
 ###### Art. 9.
 
-Las disposiciones del Reglamento del Registro Público seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras se expide el nuevo Reglamento de la materia.
+Las disposiciones del Reglamento del Registro Público sugerirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras se expide el nuevo Reglamento de la materia.
 
 ###### Art. 10.
 
