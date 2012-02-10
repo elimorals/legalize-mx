@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-crea-el-instituto-de-capacitacion-y-desarrollo-de-2958"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-30"
-last_updated: "1988-06-30"
+last_updated: "2012-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY QUE CREA EL INSTITUTO DE CAPACITACION Y DESARROLLO DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS EN BAJA CALIFORNIA SUR
 
-LEY QUE CREA EL INSTITUTO DE CAPACITACION Y DESARROLLO DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS EN BAJA CALIFORNIA SUR
+LEY QUE CREA EL INSTITUTO DE CAPACITACIÓN Y DESARROLLO DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS EN BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL INSTITUTO DE CAPACITACIÓN PARA LOS TRABAJADORES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. 10 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 30 de junio de 1988.
 
@@ -312,3 +314,19 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUIAR.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Decreto 669 emitido por el Congreso del Estado y publicado en el Boletín Oficial del Gobierno del Estado, número 18 de fecha 30 del mes de junio de 1988.
+
+TERCERO.- El Reglamento Interior del Instituto deberá expedirse en un término de noventa días siguientes a la fecha en que la presente Ley inicie su vigencia.
+
+CUARTO.- Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
+
+QUINTO.- La instalación de la Junta Directiva deberá hacerse dentro del primer mes de vigencia de esta Ley y la instalación del Comité Consultivo de Vinculación, deberá instalarse en un plazo no mayor de 90 días, contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO.- El Ejecutivo del Estado, a través de las Secretarías de Finanzas, de la Secretaría del Trabajo y Previsión Social y la Oficialía Mayor de Gobierno, en sus respectivos ámbitos de competencia, llevarán a cabo los trámites y modificaciones financieras y administrativas necesarias para la integración y operación del Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur, creado en la presente Ley.
