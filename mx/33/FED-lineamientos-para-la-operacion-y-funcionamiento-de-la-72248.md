@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-operacion-y-funcionamiento-de-la-72248"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-01-27"
-last_updated: "2010-01-27"
+last_updated: "2012-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-07-29"
 ---
 # LINEAMIENTOS PARA LA OPERACION Y FUNCIONAMIENTO DE LA NORMATECA INTERNA
 
-LINEAMIENTOS PARA LA OPERACION Y FUNCIONAMIENTO DE LA NORMATECA INTERNA
+LINEAMIENTOS PARA LA OPERACIÓN Y FUNCIONAMIENTO DE LA NORMATECA INTERNA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL MANUAL DE LINEAMIENTOS Y PROCEDIMIENTOS ADMINISTRATIVOS POR LA COORDINACIÓN DE ASUNTOS JURÍDICOS, PUBLICADO EN EL D.O.F. DE 10 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de enero de 2010.
 
@@ -150,3 +152,13 @@ EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMIN
 CERTIFICA
 
 Que el presente documento, en 9 fojas útiles, incluyendo la presente, corresponden a los LINEAMIENTOS PARA LA OPERACION Y FUNCIONAMIENTO DE LA NORMATECA INTERNA, aprobados por el Pleno de la Comisión de Administración, mediante acuerdo 208/S7(8-VII-2009) emitido en la Séptima Sesión Ordinaria de 2009, que obra en los archivos de la Coordinación de Asuntos Jurídicos. DOY FE.- México, Distrito Federal, a 29 de julio de 2009.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE FEBRERO DE 2012.
+
+PRIMERO. Se abrogan los Lineamientos que regulan la operación y funcionamiento de la normateca interna, aprobados por la Comisión de Administración mediante Acuerdo 208/S7(8-VII-2009), así como el Manual de procedimientos para la validación y formalización de instrumentos jurídicos aprobado mediante Acuerdo 158/S5(19-V-2010).
+
+SEGUNDO. El presente Manual de lineamientos y procedimientos administrados por la Coordinación de Asuntos Jurídicos, entrará en vigor a partir de la fecha de su publicación la (sic) página de intranet del Tribunal Electoral.
+
+TERCERO. Publíquese en el Diario Oficial de la Federación.
