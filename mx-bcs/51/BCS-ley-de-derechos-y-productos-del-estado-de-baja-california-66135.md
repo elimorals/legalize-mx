@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2011-07-06"
+last_updated: "2012-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2012.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -281,131 +279,11 @@ De los servicios prestados por la Secretaría de Seguridad Pública.
 
 ###### Artículo 11.
 
-Por los servicios prestados por la Dirección Estatal del Registro Público de la Propiedad, Registro Civil y Archivo General de Notarías, se causarán y pagarán derechos conforme a lo siguiente:
-
-A).- Por los servicios derivados del Archivo General de Notarías y Registro Público de la Propiedad, se pagarán los derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O: NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTE
-
-EN EL ESTADO
-
-I. Expedición de testimonios y copias
-
-certificadas de actas y escrituras incluida
-
-la autorización, por cada hoja; 4
-
-II. Expedición de copias certificadas de
-
-documentos o planos que obren en el
-
-apéndice, por cada hoja, incluida la
-
-autorización; 4
-
-III. Por expedición de copia simple del
-
-protocolo y apéndice, por cada hoja; 2
-
-IV. Por la autorización de protocolos
-
-notariales, en los Términos del Artículo
-
-47 de la Ley del Notariado; 5
-
-V. Autorización de protocolos especiales; 1
-
-VI. Búsqueda de antecedentes notariales; 5
-
-VII. Búsqueda, certificación y autorización
-
-definitiva de las escrituras o actas notariales
-
-de valor determinado que no contengan
-
-cuota especial en esta Ley; 5
-
-Por autorización de actas o escrituras
-
-de valor indeterminado. 3
-
-B) Por los servicios derivados del Registro Civil se causarán y pagarán los derechos conforme a la siguiente:
-
-T A R I F A:
-
-C O N C E P T O: NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTE
-
-EN EL ESTADO
-
-I. Expedición de copias simples de la
-
-documentación concentrada en la
-
-dirección y oficinas regionales; 2
-
-II. Expedición de copias certificadas
-
-de la documentación concentrada
-
-en la dirección y oficinas regionales,
-
-por cada hoja; 4
-
-III. Búsqueda de antecedentes
-
-registrables en los libros que se
-
-encuentran concentrados en la
-
-dirección, para la expedición de
-
-copias certificadas cuando no se
-
-señale la fecha, por cada año o fracción; 1.50
-
-IV. Anotaciones marginales; 1.5
-
-V. Trámite de actas administrativas
-
-por aclaración; 2.5
-
-VI. Inscripción de Extranjería; 2
-
-VII. Inexistencia de Nacimiento; 3
-
-VIII. Inexistencia de Matrimonio; 3
-
-IX. Extemporaneidades. 5
-
-Los trámites urgentes prestados el mismo día causarán una tarifa adicional del 100%.
+(DEROGADO, B.O. 10 DE FEBRERO DE 2012)
 
 ###### Artículo 12.
 
-Por los servicios prestados por la Dirección de Asuntos Jurídicos se causarán y pagarán derechos conforme a la siguiente tarifa:
-
-T A R I F A:
-
-C O N C E P T O: NÚMERO DE SALARIOS
-
-MÍNIMOS VIGENTE
-
-EN EL ESTADO
-
-I. Por la inscripción en el Registro
-
-Único de Aspirantes al ejercicio del
-
-Notariado; 5
-
-Por la aplicación del examen para el
-
-ejercicio notarial. 15
+(DEROGADO, B.O. 10 DE FEBRERO DE 2012)
 
 ### Capítulo III.
 
@@ -955,7 +833,9 @@ h) Consulta a otras entidades federativas
 
 sobre trámites y pagos efectuados 1
 
-### Capítulo Único
+### Capítulo IX. De los Servicios prestados por la Secretaría de la Consejería Jurídica
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 31.
 
@@ -973,13 +853,187 @@ Constancia de no inhabilitación en
 
 la Administración Pública Estatal. 1
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE FEBRERO DE 2012)</small>
+
+### Capítulo Único
+
 #### Sección Única.. Servicios prestado por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
+
+###### Artículo 31
+
+Bis.- Por los servicios derivados del Registro Civil se causarán y pagarán los derechos conforme a la siguiente:
+
+TARIFA:
+
+NÚMERO DE
+
+SALARIOS
+
+CONCEPTO MÍNIMOS
+
+VIGENTES EN
+
+EL ESTADO.
+
+I. Expedición de copias simples de la 2
+
+documentación concentrada en la
+
+dirección y oficinas regionales;
+
+II. Expedición de copias certificadas de la 4
+
+documentación concentrada en la
+
+dirección y oficinas regionales, por cada
+
+hoja;
+
+III. Búsqueda de antecedentes registrables en
+
+los libros que se encuentran concentrados 1.50
+
+en la dirección, para la expedición de
+
+copias certificadas cuando no se señale la
+
+fecha, por cada año o fracción;
+
+IV. Anotaciones marginales; 1.5
+
+V. Trámite de actas administrativas por 2.5
+
+aclaración;
+
+VI. Inscripción de Extranjería: 2
+
+VII. Inexistencia de Nacimiento; 3
+
+VIII. Inexistencia de Matrimonio; 3
+
+IX. Extemporaneidades. 5
+
+Los trámites urgentes prestados el mismo día causarán una tarifa adicional del 100%.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinaran a la modernización y equipamiento de la Dirección Estatal del Registro Civil.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 10 DE FEBRERO DE 2012)</small>
 
 #### Sección Única.. Servicios prestados por las autoridades fiscales
 
-#### Sección Primera.
+###### Artículo 31
 
-Servicios prestados por el Archivo General del Estado.
+Ter.- Por los servicios prestados por el Archivo General de Notarías se causarán y pagarán derechos conforme a lo siguiente:
+
+TARIFA:
+
+NÚMERO DE
+
+SALARIOS
+
+CONCEPTO MÍNIMOS
+
+VIGENTES EN
+
+EL ESTADO
+
+I. Expedición de testimonios y 1
+
+copias certificadas de actas
+
+y escrituras incluida la
+
+autorización, por cada hoja;
+
+II. Expedición de copias .75
+
+certificadas de documentos
+
+o planos que obren en el
+
+apéndice, por cada hoja,
+
+incluida la autorización;
+
+III. Por expedición de copia .5
+
+simple del protocolo y
+
+apéndice, por cada hoja;
+
+IV. Por lo autorización de 5
+
+protocolos notariales, en los
+
+Términos del Artículo 47 de la
+
+Ley del Notariado;
+
+V. Autorización de protocolos 1
+
+especiales;
+
+VI. Búsqueda de antecedentes 5
+
+notariales;
+
+VII. Búsqueda, certificación y 3
+
+autorización definitiva de las
+
+escrituras o actas notariales
+
+de valor determinado que
+
+no contengan cuota
+
+especial en esta Ley;
+
+VIII. Por autorización de actas o 3
+
+escrituras de valor
+
+indeterminado;
+
+IX. Por búsqueda de registro de 1
+
+aviso de testamento;
+
+X. Por informes de disposiciones 2
+
+testamentarias;
+
+XI. Por la recepción y resguardo 117
+
+de convenios de asociación
+
+y de suplencia;
+
+XII. Por la inscripción en el 40
+
+Registro Único de Aspirantes
+
+al Ejercicio del Notariado;
+
+XIII. Por apertura de expediente 140
+
+de Notario Adscrito;
+
+XIV. Por celebración de examen 117
+
+para Notario Titular;
+
+XV. Por apertura de expediente 160
+
+de Notario Titular.
+
+Los servicios extraordinarios tendrán un incremento del 100% de su costo regular.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinaran al Archivo General de Notarias, para el mantenimiento, conservación y operación de los servicios en materia notarial.
+
+#### Sección I. De los servicios prestados por la Dirección Estatal del Registro Civil
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
 
 ## Título Tercero. De los productos
 
@@ -1003,9 +1057,9 @@ VI. Productos diversos.
 
 Los productos especificados en este capítulo se cobrarán de acuerdo con las cuotas que fije la tarifa que expida el Gobierno del Estado y las reformas que se hicieran a la misma, las que surtirán efecto diez días hábiles después de su publicación en el Boletín Oficial.
 
-#### Sección Segunda.
+#### Sección II. De los servicios prestados por el Archivo General de Notarías
 
-Servicios prestados por los Talleres Gráficos del Gobierno.
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 34.
 
@@ -1023,35 +1077,77 @@ Por ejemplar del Boletín Oficial:
 
 Número atrasado. 1
 
+#### Sección Segunda.
+
+Servicios prestados por los Talleres Gráficos del Gobierno.
+
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2012)</small>
+
+#### Sección Primera.
+
+Servicios prestados por el Archivo General del Estado.
+
 ###### Artículo 35.
 
-Por los servicios prestados por los Talleres Gráficos del Gobierno, se causarán y pagarán los productos conforme a la siguiente tarifa:
+Por los servicios prestados por los Talleres Gráficos del Gobierno del Estado se causarán y pagarán conforme a la siguiente tarifa:
 
-T A R I F A:
+TARIFA:
 
-C O N C E P T O: NÚMERO DE SALARIOS
+NÚMERO DE
 
-MÍNIMOS VIGENTE
+SALARIOS
 
-EN EL ESTADO
+CONCEPTO MÍNIMOS
 
-I. Suscripción al Boletín Oficial del Gobierno del Estado:
+VIGENTES EN
 
-a). Por un trimestre; 3
+EL ESTADO
 
-b). Por un semestre; 6
+I. Suscripción al Boletín
 
-c). Por un año. 12
+Oficial del Gobierno del
 
-II. Por ejemplar del Boletín Oficial:
+Estado:
 
-a) Número del día; 0.5
+a) Por un trimestre 5
 
-b) Número extraordinario. 0.75
+b) Por un semestre 10
 
-III. Por publicación de avisos en el Boletín Oficial:
+c) Por un año 15
 
-a) Por palabra. 0.05
+II. Por ejemplar del Boletín
+
+Oficial:
+
+a) Por número del día .75
+
+b) Por número 1
+
+extraordinario
+
+III. Por inserciones de 16
+
+Particulares en el Boletín
+
+Oficial, por Plana:
+
+IV. Por inserciones de 10
+
+Organismos Descentralizados
+
+y Autónomos Federales,
+
+Estatales y Municipales; así
+
+como a dependencias
+
+Federales y Municipios en el
+
+Boletín Oficial, por Plana:
+
+No se estará obligado al pago de dicha cuota tratándose de las publicaciones de Presupuestos de Egresos, Reglamentos y Estados Financieros de los Ayuntamientos del Estado.
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el presente artículo, se destinaran a la modernización y equipamiento de la Secretaria de la Consejería Jurídica y de los Talleres Gráficos del Gobierno del Estado.
 
 ###### Artículo 36.
 
@@ -1092,3 +1188,7 @@ T.C. LUIS ARMANDO DIAZ
 B.O. 30 DE JUNIO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE FEBRERO DE 2012.
+
+ÚNICO- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
