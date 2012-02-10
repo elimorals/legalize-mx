@@ -4,7 +4,7 @@ identifier: "FED-manual-de-procedimientos-para-la-verificacion-de-la-72483"
 country: "mx"
 rank: "manual"
 publication_date: "2010-02-04"
-last_updated: "2010-02-04"
+last_updated: "2012-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72483&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-01-11"
 
 MANUAL DE PROCEDIMIENTOS PARA LA VERIFICACIÓN DE LA AUTENTICIDAD DE LAS CÉDULAS Y TÍTULOS PROFESIONALES DE LOS SERVIDORES PÚBLICOS ADSCRITOS AL TRIBUNAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL MANUAL DE PROCEDIMIENTOS PARA LA VERIFICACIÓN DE LA AUTENTICIDAD DE LAS CÉDULAS PROFESIONALES DEL PERSONAL ADSCRITO AL TRIBUNAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 10 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Manual publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de febrero de 2010.
 
@@ -322,3 +324,13 @@ EL SUSCRITO, MAESTRO DIEGO GUTIERREZ MORALES, SECRETARIO DE LA COMISION DE ADMIN
 CERTIFICA
 
 Que el presente documento, en 12 fojas útiles, incluyendo la presente, corresponden a la modificación del "MANUAL DE PROCEDIMIENTOS PARA LA VERIFICACION DE LA AUTENTICIDAD DE LAS CEDULAS Y TITULOS PROFESIONALES DE LOS SERVIDORES PUBLICOS ADSCRITOS AL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION", aprobadas por el Pleno de la Comisión de Administración, mediante acuerdo 316/S10(21-X-2009) emitido en la Décima Sesión Ordinaria de 2009, que obra en los archivos de la Coordinación de Asuntos Jurídicos, de esta Secretaría. DOY FE.- México, Distrito Federal, 11 de enero de 2010.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE FEBRERO DE 2012.
+
+Primero. Se abroga el Manual de Procedimientos para la Verificación de la Autenticidad de las Cédulas Profesionales al personal adscrito al Tribunal Electoral, autorizado mediante acuerdo 316/S10(21-X-2009).
+
+Segundo. El presente Manual de Procedimientos para la Verificación de la Autenticidad de las Cédulas Profesionales al personal adscrito al Tribunal Electoral, entrará en vigor el día de su publicación en la página de intranet del Tribunal Electoral.
+
+Tercero. Publíquese en el Diario Oficial de la Federación.
