@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2011-09-02"
+last_updated: "2012-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -547,53 +547,35 @@ La Presidencia de la Junta de Coordinación Política, la Presidencia de la Mesa
 
 Las Comisiones del Congreso, son órganos de trabajo que se integran de conformidad con esta Ley, y cuyo objeto lo constituye el estudio, consulta, supervisión, vigilancia, investigación, opinión o dictamen de los asuntos que esta Ley o la Mesa Directiva les atribuya o encomiende, para el cumplimiento de las facultades que la Constitución Local le confiere al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 40.
 
-Son órganos de Apoyo Parlamentario y Administrativo, las áreas profesionales del Congreso del Estado a las que les corresponden tareas de apoyo a los órganos de Gobierno; así como a los órganos de Trabajo, para el cumplimiento de sus atribuciones constitucionales y legales, siendo estos:
+Son órganos de Apoyo Parlamentario y Administrativo, las áreas profesionales del Congreso del Estado a las que les corresponden tareas de apoyo a los Órganos de Gobierno; así como a los Órganos de Trabajo, para el cumplimiento de sus atribuciones constitucionales y legales, siendo estos:
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+Órganos de Apoyo Parlamentario:
 
-I.- La Secretaría de Servicios Parlamentarios; y, la Secretaría de Servicios
+I.- La Secretaría de Servicios Parlamentarios;
 
-Administrativos;
+II.- La Dirección General de Asuntos Jurídicos;
 
-II.- (DEROGADA, P.O. 19 DE NOVIEMBRE DE 2004)
+III.- El Instituto de Estudios Legislativos; y,
 
-III.- La Contraloría Interna;
+IV.- El Instituto de Opinión Ciudadana, Estudios Económicos y Sociales.
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+Órganos de Apoyo Administrativo:
 
-IV.- La Dirección General de Asuntos Jurídicos;
+I.- La Secretaría de Servicios Administrativos;
 
-V.- La Dirección de Programación y Gasto Interno;
+II.- La Contraloría Interna;
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+III.- La Dirección de Programación y Gasto Interno;
 
-VI.- La Dirección General de Comunicación Social;
+IV.- La Dirección General de Comunicación Social; y,
 
-VII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2010)
+V.- La Biblioteca del Congreso.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-VIII.- La Biblioteca del Congreso;
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-IX.- Las Direcciones del Instituto de Estudios Legislativos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-X.- El Instituto de Estudios de Opinión Pública;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-XI.- El Instituto de Estudios de Economía y Finanzas Públicas del Estado; y,
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-XII.- Las demás direcciones u órganos técnicos que sean necesarios para apoyar el cumplimiento de las atribuciones del Congreso del Estado.
+Además de los anteriores, el Poder Legislativo del Estado por mayoría del Pleno y a solicitud de la Junta de Coordinación Política, creará los demás Órganos de Apoyo Parlamentario y Administrativo que sean necesarios para apoyar el cumplimiento de las atribuciones del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1021,19 +1003,15 @@ II.- Las que se refieren a las modificaciones de Leyes secundarias producto de l
 
 El Reglamento establecerá los mecanismos y procedimientos de organización bajo los cuales funcionará dicha Comisión, quien lo propondrá al Pleno del Congreso para su aprobación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO , P.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 65.
 
 Corresponde a la Comisión de Hacienda y Presupuesto el conocimiento, estudio y dictamen de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2003)</small>
-
 I.- De Estudio Legislativo, los relacionados con la Hacienda y Administración Pública Federal, Estatal o Municipal que en materia fiscal señale la Constitución Local del Estado, otras disposiciones legales o por acuerdo del Pleno del Congreso;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2003)</small>
-
-II.- De Orden Presupuestal y Crédito Público, el conocimiento, estudio y Dictamen de los siguientes asuntos:
+II.- De Orden Presupuestal v (sic) Crédito Público, el conocimiento, estudio y Dictamen de los siguientes asuntos:
 
 1.- Presupuesto de egresos y sus programas y subprogramas de las Entidades que corresponda aprobar al Congreso del Estado;
 
@@ -1043,21 +1021,13 @@ II.- De Orden Presupuestal y Crédito Público, el conocimiento, estudio y Dicta
 
 4.- Celebración de contratos, convenios, o actos que afecten cualquier aspecto de la situación presupuestal de las Entidades, cuando sus efectos excedan del período de Gobierno del Ejecutivo del Estado;
 
-5.- Todos los actos, convenios o contratos celebrados entre las Entidades de la Administración Publica Estatal y Municipal o entre éstas con terceros cuando requieran aprobación o autorización del Congreso del Estado;
-
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+5.- Todos los actos, convenios o contratos celebrados entre las Entidades de la Administración Publica Estatal y Municipal o entre éstas con terceros cuando requieran aprobación o autorización del Congreso del Estado.
 
 6.- Los acuerdos del Ejecutivo del Estado para asociarse en empresas de participación estatal mayoritaria o minoritaria o para asociarse a los intereses de los particulares en los términos de las Leyes que rijan en la materia;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-7.- El conocimiento, estudio y elaboración de dictámenes para la desincorporación de bienes muebles e inmuebles de dominio público, para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades, exceptuando a los Ayuntamientos; y,
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+7. - El conocimiento, estudio y elaboración de dictámenes para la desincorporación de bienes muebles e inmuebles de dominio público, para su enajenación, cambio de destino o desafectación de dichos bienes cuando estén destinados a un servicio público o sean de uso común, solicitada por las Entidades, exceptuando a los Ayuntamientos; y,
 
 8.- Los demás asuntos relacionados que le encomiende el Congreso en esta materia y que requieran la elaboración de dictamen o de estudio.
-
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
 
 III.- De Orden Hacendario, el conocimiento, estudio y dictamen de los siguientes asuntos:
 
@@ -1069,19 +1039,9 @@ III.- De Orden Hacendario, el conocimiento, estudio y dictamen de los siguientes
 
 4.- Iniciativas de Ley y de reformas a las Leyes, así como los Decretos o Acuerdos para la creación, liquidación, escisión o fusión de Entidades del Ejecutivo del Estado y de los Ayuntamientos;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará al Órgano Superior de Fiscalización, el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo. Así mismo podrá solicitar al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, los trabajos de investigación relativos a los asuntos que le encomiende.
 
-Para el cumplimiento de sus atribuciones, la Comisión de Hacienda y Presupuesto, solicitará al Órgano Superior de Fiscalización el estudio, análisis y opinión de los asuntos que le encomiende, así como la elaboración de los proyectos de dictamen que le correspondan, en los términos de este artículo.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
-
-La Comisión de Hacienda y Presupuesto, presentará a la Comisión de Legislación y Puntos Constitucionales, las propuestas de carácter reglamentario o administrativo que estimen adecuadas para optimizar la organización, funcionamiento y desempeño de sus responsabilidades.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-La Comisión de Hacienda y Presupuesto presentará a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Director del Instituto de Estudios de Economía y Finanzas Públicas.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 66.
 
@@ -1101,21 +1061,13 @@ a).- Vigilar, coordinar y evaluar el funcionamiento del Órgano de Fiscalizació
 
 IV.- Proponer a la Comisión de Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de la propia Comisión de Fiscalización para incorporarse a los Reglamentos de la presente Ley;
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
-
 V.- Conocer y enviar a la Comisión de Administración y Finanzas el proyecto de presupuesto anual del Órgano de Fiscalización Superior, cuidando que el monto que se formule sea suficiente para que dicho Órgano cumpla con las atribuciones que establece la Ley de Fiscalización Superior para el Estado de Baja California;
 
 VI.- Vigilar y evaluar el avance presupuestal y programático del Órgano de Fiscalización Superior; y,
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
-
 VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular del Órgano de Fiscalización Superior.
 
-Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gasto Público, ordenará al Órgano de Fiscalización Superior el estudio, análisis y opinión de los asuntos que le encomiende, así como el conocimiento, estudio y elaboración de los anteproyectos de dictamen con motivo del resultado de la fiscalización la Cuenta Pública Anual de las Entidades Fiscalizables, previstas en la Ley de Fiscalización Superior para el Estado de Baja California.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Estudios de Economía y Finanzas Públicas el estudio, análisis y opinión de los asuntos que le encomiende.
+La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales el estudio, análisis y opinión de los asuntos que le encomiende.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
@@ -1401,81 +1353,63 @@ ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 #### SECCION VII. DE LA BIBLIOTECA DEL CONGRESO Y DE LOS INSTITUTOS DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
 
-ARTICULO 83 SEXIES.- El Congreso del estado cuenta con una Biblioteca a través de la cual se conservan, man tienen (sic) y acrecientan los acervos bibliográficos y de otros contenidos científico, cultural o informativo. Para contribuir al cumplimiento de las atribuciones del propio Congreso, sus comisiones y legisladores. Estos acervos tendrán carácter público.
+ARTICULO 83 SEXIES.- El Congreso del estado cuenta con una Biblioteca a través de la cual se conservan, mantienen y acrecientan los acervos bibliográficos y de otros contenidos científico, cultural o informativo. Para contribuir al cumplimiento de las atribuciones del propio Congreso, sus comisiones y legisladores. Estos acervos tendrán carácter público. La Biblioteca del Congreso del Estado contará con los siguientes Institutos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+El Congreso del Estado contará con el Instituto de Estudios Legislativos y, el Instituto de Opinión Ciudadana, Estudios Económicos y Sociales.
 
-El Congreso del Estado contará con los siguientes Institutos:
-
-I. Instituto de Estudios Legislativos;
-
-II. Instituto de Estudios de Economía y Finanzas Públicas del Estado; y,
-
-III. Instituto de Estudios sobre la Opinión Pública.
-
-El Instituto de Estudios Legislativos es la instancia que realiza de manera preponderante la actividad de investigación aplicada a las actividades legislativas del Congreso de Baja California y, por ende, trate de la investigación aplicada a los temas que interesan a los legisladores y a los Órganos de Trabajo del Poder Legislativo, concretados en el Plan de Desarrollo Legislativo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
+El Instituto de Estudios Legislativos es la instancia que realiza de manera preponderante la actividad de investigación aplicada a las actividades legislativas del Congreso de Baja California y, por ende, trate de la investigación aplicada a los temas que interesan a los Legisladores y a los Órganos de Trabajo del Poder Legislativo, concretados en el Plan de Desarrollo Legislativo.
 
 La dirección general de los trabajos del Instituto de Estudios Legislativos recae en un Órgano Colegiado, mismo que se integra conforme al procedimiento señalado en el artículo 38 de esta Ley Orgánica.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 Corresponde al Presidente del Órgano Colegiado del Instituto de Estudios Legislativos representar al Instituto; celebrar convenios de colaboración, establecer mecanismos de coordinación por parte del Congreso del Estado con las Instituciones homólogas en el Congreso de la Unión, así como con los institutos y organizaciones homólogas de las Legislaturas Locales, previa consulta a la Comisión de Gobernación, Legislación y Puntos Constitucionales; nombrar y remover libremente al Secretario Técnico, y al personal de Apoyo Técnico, Administrativo y de Asesoría de la Presidencia del Instituto; cumplir y hacer cumplir la Ley Orgánica del Congreso y del Reglamento específico; y, convocar y presidir las sesiones del Órgano Colegiado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 Al Órgano Colegiado del Instituto de Estudios Legislativos corresponde acordar y definir la dirección técnica y administrativa del Instituto; aprobar el Programa Anual de Actividades, de acuerdo con los objetivos y funciones del Instituto; remitir a la Mesa Directiva, un informe anual por escrito de los resultados obtenidos durante el período que corresponda; proponer las directrices generales para la conducción del Instituto y el cumplimiento de sus objetivos; aprobar la contratación de los servicios profesionales y especializados necesarios para el cumplimiento de los objetivos y funciones del Instituto, requiriendo, a su vez, la intervención de la Secretaría de Servicios Administrativos para los trámites a que haya lugar; nombrar y, en su caso, remover a los directores del Instituto; y, cumplir y hacer cumplir la Ley Orgánica del Congreso y del Reglamento específico.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 El Órgano Colegiado del Instituto de Estudios Legislativos tomará sus decisiones y acuerdos por el voto de la mayoría de sus integrantes, el Presidente tendrá voto de calidad.
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
 
 El Instituto de Estudios Legislativos tendrá tres titulares de las Direcciones que dependerán del Órgano Colegiado y serán nombrados por el mismo a propuesta de cada uno de sus secretarios. A fin de que las direcciones trabajen de manera armónica para alcanzar los objetivos contenidos en esta Ley Orgánica, en el Plan de Desarrollo Legislativo y en sus Planes de Trabajo, el Presidente del Instituto someterá a la aprobación de los integrantes del Órgano Colegiado la propuesta del Coordinador de Direcciones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 A los directores les corresponde presentar los presupuestos y propuestas del área a su cargo e informar periódicamente al Órgano Colegiado sobre el avance de los mismos; elaborar y supervisar las investigaciones a su cargo, relacionadas con los temas y las prioridades del Plan de Desarrollo Legislativo; proporcionar de manera oportuna, a los diputados y a las Comisiones, información e investigaciones relacionadas con los temas y las prioridades de la Agenda Legislativa; promover, coordinar y supervisar que las investigaciones, vínculos institucionales y planes de trabajo estén enfocados a propiciar información y argumentación útil a las prioridades de la Agenda Legislativa; coordinar, supervisar, controlar y evaluar el avance de los proyectos asignados a su Dirección; responsabilizarse de los recursos asignados a la Dirección a su cargo; nombrar, previa autorización del Órgano Colegiado, a los investigadores, analistas y personal de apoyo del área a su cargo; y, las demás actividades que se les indiquen por el Órgano Colegiado y aquellas que deriven del Programa Anual de Trabajo.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+El Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, contribuye a la función legislativa en materia de estudios económicos y sociales, así como el análisis, seguimiento y evaluación técnica de las políticas públicas, la eficiencia en la ejecución del gasto público; y, el apoyo directo a los Órganos de Gobierno, de Trabajo y de los Diputados de una manera objetiva y apartidista. Así también, brinda los servicios de apoyo técnico e información analítica requerida para el cumplimiento de las funciones del Congreso, conforme al Plan de Desarrollo Legislativo y con apego a los criterios de investigación científica en materia de estudios económicos, sociales y de opinión ciudadana.
 
-El Instituto de Estudios de Economía y Finanzas Públicas es la instancia que contribuye a la función legislativa en materia de estudios económicos y sociales, así como el análisis, seguimiento y evaluación técnica de las políticas públicas y el apoyo directo a los Órganos de Gobierno, de Trabajo y de los diputados de una manera objetiva y apartidista.
+De igual forma el Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, proporcionará a los Órganos de Trabajo y de Gobierno del Congreso del Estado, información analítica y apoyo técnico en materia económica, social y de opinión ciudadana y, propondrá las adecuaciones normativas que contribuyan al progreso del Estado y desarrollo de sus ciudadanos.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+Entre las atribuciones y facultades del Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, se encuentran:
 
-El Instituto de Estudios sobre la Opinión Pública es la instancia que de manera objetiva, imparcial y oportuna, brinda los servicios de apoyo técnico e información analítica requerida para el cumplimiento de las funciones del Congreso, conforme al Plan de Desarrollo Legislativo y con apego a los criterios de investigación científica en materia de estudios de la opinión pública.
+1. Llevar a cabo estudios e investigaciones en las vertientes económica, social y de opinión ciudadana, identificando las dinámicas sociales y económicas que propician el nivel actual de desarrollo, las necesidades de infraestructura y servicios, las tendencias, fortalezas y oportunidades que podrán aprovecharse considerando la dinámica poblacional y productiva de Baja California;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+2. El análisis, seguimiento y evaluación técnica de las políticas públicas; y, la eficiencia en la ejecución del gasto público;
+
+3. Proponer las adecuaciones normativas necesarias para resolver la problemática estatal, cuyos resultados se presentaran al Pleno del Congreso del Estado a través de la Junta de Coordinación Política;
+
+4. Integra bases de datos con información en materia social y de opinión ciudadana;
+
+5. Difunde el trabajo que se lleva a cabo entre los Legisladores, los Órganos de Trabajo y los Órganos de Gobierno del Congreso del Estado;
+
+6. Propone, a través de la Junta de Coordinación Política, la Agenda de acercamiento con la sociedad civil, organizaciones privadas y sociales, para conocer sus problemas y asumir compromisos de manera directa;
+
+7. Genera Foros temáticos regionales incluyendo la colaboración y coordinación de la sociedad civil y de las organizaciones privadas y sociales; con el fin de ciudadanizar las propuestas de adecuaciones normativas;
+
+8. Organiza y sistematiza las demandas y necesidades de la sociedad Bajacaliforniana, considerando su diversidad municipal, regional, cultural, económica, social, ambiental e institucional;
+
+9. Establece relación con instituciones académicas, organizaciones de la sociedad civil y profesionales; así como organismos afines al Instituto, y promueve la vinculación con ellos del Poder Legislativo; y,
+
+10. Las demás que determine la Junta de Coordinación Política.
+
+Al frente del Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, estará un Director General que designará y removerá libremente a los Directores, Subdirectores y demás personal a su cargo.
 
 La Biblioteca del Congreso, así como los Institutos, estarán conformados por un servicio profesional de apoyo apartidista a las tareas parlamentarias del congreso, sus comisiones y legisladores.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 Las funciones de director e investigadores titulares de la Biblioteca y los Institutos, serán compatibles con las tareas remuneradas docentes en instituciones de educación.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-Los Titulares de la Biblioteca del Congreso y del Instituto de Estudios sobre Opinión Pública, serán nombrados y removidos libremente por la mayoría absoluta del Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-El Titular del Instituto de Estudios de Economía y Finanzas Públicas será nombrado y removido libremente por la mayoría del Pleno del Congreso, a propuesta de la Comisión de Hacienda y Presupuesto.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+Los Titulares de la Biblioteca del Congreso y del Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, serán nombrados y removidos libremente por la mayoría calificada del Pleno del Congreso, a propuesta de la Junta de Coordinación Política.
 
 Sus Titulares serán auxiliados por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designarán y removerán directamente al personal a su cargo de acuerdo a las previsiones presupuestales.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 El Reglamento Interior fijará los lineamientos que deberá cumplir el personal de dicho Órgano, sus facultades y obligaciones.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
-
-El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Parlamentarios, estará bajo la vigilancia y control de la Mesa Directiva.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1543,7 +1477,7 @@ ARTICULO 87 BIS.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 TER.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-ARTICULO 87 QUARTER (SIC).- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
+ARTICULO 87 QUARTER (SIC) .- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 QUINQUIES.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
@@ -1843,7 +1777,9 @@ Todo proyecto se turnará por el Presidente del Congreso a la Comisión que corr
 
 Las iniciativas de ley que presenten los legisladores deberán turnarse para su análisis a los Institutos según su materia. El informe de su análisis se hará del conocimiento de la comisión a que se haya turnado la iniciativa de ley.
 
-Asimismo, las iniciativas de ley que presenten los legisladores, deberán turnarse para su estudio al Instituto de Estudios de Economía y Finanzas Públicas sobre las Finanzas Públicas, al efecto de que produzca un informe de su posible impacto en el presupuesto al momento de su aplicación. El informe será remitido para el conocimiento de la comisión a que se haya turnado la iniciativa de ley en un plazo no mayor de 20 días naturales.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
+
+Asimismo, las iniciativas de ley que presenten los Legisladores, deberán turnarse para su estudio al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, al efecto de que produzca un informe de su posible impacto en el presupuesto al momento de su aplicación. El informe será remitido para el conocimiento de la comisión a que se haya turnado la iniciativa de ley en un plazo no mayor de 20 días naturales.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2488,3 +2424,15 @@ PRIMERO.- Dado que la presente reforma implica modificaciones a la Ley Orgánica
 SEGUNDO.- Se derogan todas las disposiciones normativas que contravengan el presente ordenamiento.
 
 TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 2012.
+
+PRIMERO.- Conforme a las facultades del Congreso del Estado que se establecen en la base H del artículo 34 de la Constitución Política del Estado, las presentes reformas entrarán en vigor al momento de su aprobación por el Pleno y para terceros al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Aprobadas las reformas que aquí se consignan, la Junta de Coordinación Política, deberá proponer al pleno del H. Congreso, a efecto de su correspondiente designación, a quien habrá de fungir como Director General del Instituto de Opinión Ciudadana, Estudios Económicos y Sociales, en sustitución de los actuales titulares de los extintos Institutos, de Estudios de Economía y Finanzas Publicas y de Estudios sobre la Opinión Publica.
+
+TERCERO.- A la entrada en vigor de las presentes reformas, cualquier inmueble, asignaciones presupuestales autorizadas, mobiliario, vehículos, instrumentos, aparatos, equipo de cómputo y comunicación, archivos y demás bienes que hayan estado asignados, respectivamente, al Instituto de Estudios de Economía y Finanzas Publicas y al Instituto de Estudios sobre la Opinión Publica, pasarán a ser parte integrante del patrimonio y presupuesto del Instituto de Opinión Ciudadana, Estudios Económicos y Sociales.
+
+CUARTO.- Se derogan todas las disposiciones normativas que contravengan las presentes reformas.
+
+QUINTO.- Publíquese en la Gaceta Parlamentaria y túrnese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
