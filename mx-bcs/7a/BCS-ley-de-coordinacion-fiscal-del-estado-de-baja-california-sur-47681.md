@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2011-12-31"
+last_updated: "2012-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2012.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -45,7 +45,7 @@ LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 Esta Ley tiene por objeto:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -85,7 +85,7 @@ j) Secretaría: La Secretaría de Finanzas del Gobierno del Estado de Baja Calif
 
 k) Sistema de Coordinación Fiscal del Estado: El régimen jurídico relativo a las participaciones de tributos y otros ingresos estatales a favor de los municipios, incluyendo reglas sobre la colaboración administrativa, las conducentes a los organismos en materia de coordinación fiscal, y sobre los montos porcentuales que deben otorgarse a dichos municipios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -95,17 +95,17 @@ l) Incentivos: Los incentivos federales que el Estado y los Municipios perciben 
 
 #### SECCIÓN I. DE LAS PARTICIPACIONES FEDERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 3.
 
-Las participaciones e incentivos que correspondan a los Municipios en los porcentajes que establece esta Ley se calcularan para cada ejercicio fiscal.
+Las participaciones e incentivos que correspondan a los Municipios en los porcentajes que establece esta Ley se calcularán para cada ejercicio fiscal.
 
 Los municipios participarán en el total de los impuestos federales a que tengan derecho de conformidad con lo establecido en la Ley de Coordinación Fiscal y en otros ingresos que señale expresamente esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -175,9 +175,9 @@ Los Municipios, cuando así corresponda, además de las Participaciones establec
 
 ###### Artículo 8.
 
-De las cantidades que el Estado perciba por concepto del Impuesto Especial sobre Producción y Servicios sobre: cerveza; bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, conforme a la Ley de Coordinación, los Municipios participarán y les corresponderá el 22% y se distribuirá en los mismos porcentajes establecidos para la distribución del Fondo General de Participaciones, de conformidad con lo previsto en el artículo 5 de esta Ley.
+De las cantidades que el Estado perciba por concepto del Impuesto Especial sobre Producción y Servicios sobre: cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, conforme a la Ley de Coordinación, los Municipios participarán y les corresponderá el 22% y se distribuirá en los mismos porcentajes establecidos para la distribución del Fondo General de Participaciones, de conformidad con lo previsto en el artículo 5 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -189,7 +189,7 @@ De las cantidades que el Estado reciba por concepto de Fondo de Fiscalización c
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -249,11 +249,9 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenac
 
 De las cantidades que el Estado perciba por concepto del Impuesto Estatal Vehicular, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 16 Bis.
 
-De las cantidades que el Estado perciba por concepto del Impuesto sobre la Prestación de Servicios de Hospedaje, conforme al Artículo 18 de la Ley de Hacienda del Estado, se distribuirá el 33% a los Municipios del Estado, recursos que deberán ser destinados para obras de infraestructura social y administrados por los fideicomisos que para tales efectos se constituyan en cada uno de ellos.
+(DEROGADO, B.O. 10 DE FEBRERO DE 2012)
 
 ### CAPÍTULO TERCERO. DEL CÁLCULO Y LIQUIDACIÓN DE LAS PARTICIPACIONES
 
@@ -367,7 +365,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 11 DE JULIO DE 2006.
 
@@ -394,3 +392,7 @@ B.O. 31 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Artículo 16 del presente Decreto entrará en vigor el 1 de enero del 2012, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.<a (sic)
