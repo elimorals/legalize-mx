@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-ingresos-del-estado-de-baja-california-sur-para-el-85572
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2012-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL 2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2012 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA SUR PARA EL EJERCICIO FISCAL 2012.
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 10 DE FEBRERO DE 2012.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -851,8 +851,6 @@ I. Los Contribuyentes, que integren a su planta laboral a personas con capacidad
 
 II. Los contribuyentes, que durante los meses de enero, febrero o Marzo, liquiden en su totalidad el monto anual del impuesto en una sola exhibición, que no se hubiere causado aún, gozarán de un subsidio en el importe a pagar por dicho impuesto, en los porcentajes del 4% quien liquide el impuesto durante el mes de enero, del 3% quien lo liquide durante el mes de febrero y del 2% quien lo liquide durante el mes de marzo. Quienes ejerzan esta opción deberán realizar el respectivo ajuste al final del ejercicio.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE FEBRERO DE 2012 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -877,7 +875,9 @@ DIP. JUAN DOMINGO CARBALLO RUÍZ
 
 PRESIDENTE
 
-DIP. SERGIO PABLO BARRÓN PINTO
+> <small>(F. DE E., B.O. 10 DE FEBRERO DE 2012)</small>
+
+DIP. PABLO SERGIO BARRÓN PINTO
 
 SECRETARIO
 
