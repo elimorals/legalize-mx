@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2011-12-13"
+last_updated: "2012-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -555,7 +555,7 @@ En la primera sesión de cada periodo ordinario se someterá a la consideración
 
 En la primera sesión ordinaria de cada periodo se dará cuenta de las comunicaciones dirigidas al Congreso, que no hayan sido acordadas por la Diputación Permanente, para disponer lo conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 56.
 
@@ -619,9 +619,11 @@ i) Mensaje institucional a la ciudadanía.
 
 ### CAPITULO I. DE LAS FORMALIDADES DE LAS INICIATIVAS DE LEY
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 61.
 
-Quienes propongan iniciativas de leyes, decretos, puntos de acuerdo, acuerdos administrativos o económicos al Congreso, en uso de las atribuciones que les otorgan la Constitución y la Ley Orgánica, se sujetarán a las formalidades y procedimientos que establece el presente Reglamento.
+Quienes propongan al Congreso iniciativas de, leyes, decretos, acuerdos administrativos o económicos, así como puntos de acuerdo, en uso de las atribuciones que les otorgan la Constitución, y la Ley Orgánica, los presentarán por escrito y en dispositivo de almacenamiento de datos, con las formalidades y procedimientos que establece el presente reglamento.
 
 ###### ARTICULO 62.
 
@@ -671,7 +673,9 @@ La estructura jurídica o cuerpo de ley deberá estar conformada por un orden l�
 
 Las iniciativas de decretos se sujetarán a lo siguiente:
 
-I. Deberán presentarse por escrito; y hacer referencia en su planteamiento a la búsqueda de una solución relativa en un determinado tiempo y espacio, para los poderes Ejecutivo, y Judicial del Estado, ayuntamientos, organismos descentralizados, organismos constitucionales autónomos, corporaciones, establecimientos o personas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+
+I. Deberán presentarse por escrito y en dispositivo de almacenamiento de datos; harán referencia en su planteamiento a la búsqueda de una solución relativa en un determinado tiempo y espacio, para los poderes, Ejecutivo, y Judicial del Estado, ayuntamientos, organismos descentralizados, organismos constitucionales autónomos, corporaciones, establecimientos o personas;
 
 II. El planteamiento explicará con argumentos y razonamientos su justificación;
 
@@ -729,11 +733,15 @@ Sólo aquellos puntos de acuerdo cuya materia no sea de urgente y obvia resoluci
 
 El procedimiento que seguirán las iniciativas presentadas al Congreso, será el siguiente:
 
-I. Serán recibidas en la Oficialía Mayor en original y tres copias una de las cuales será firmada de recibida y devuelta al proponente;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+
+I. Serán recibidas en la oficialía de partes; además de su dispositivo de almacenamiento de datos, en original y tres copias, una de las cuales será firmada de recibida y devuelta al proponente;
 
 II. La Oficialía Mayor las turnará a la Directiva del Congreso para su registro;
 
-III. El registro de las iniciativas se hará del conocimiento del Pleno, y el Presidente las turnará a las comisiones correspondientes para su análisis y dictamen;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+
+III. El registro de las iniciativas se hará del conocimiento del Pleno, y el Presidente las turnará por escrito y en dispositivo de almacenamiento de datos, a las comisiones correspondientes para su análisis y dictamen;
 
 IV. El dictamen de las comisiones se discutirá en el Pleno luego de su lectura; ésta podrá ser dispensada por acuerdo del Pleno, siempre que se haya publicado con la debida antelación en la Gaceta Parlamentaria;
 
@@ -741,9 +749,11 @@ V. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2011)
 
 VI. La dispensa de trámites en el procedimiento de las iniciativas, sólo será posible por acuerdo expreso de las dos terceras partes de los diputados presentes en el recinto oficial.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 76.
 
-Las propuestas de iniciativas de los diputados deberán estar firmadas y serán presentadas al Presidente, pudiendo leer en la sesión respectiva, un extracto de la misma. La iniciativa será turnada a la comisión correspondiente.
+Las propuestas de iniciativas de los diputados deberán estar firmadas y serán presentadas al Presidente por escrito y en dispositivo de almacenamiento de datos; podrá leer en la sesión respectiva un extracto de la misma. La iniciativa será turnada a la comisión correspondiente en los términos establecidos en la fracción III del artículo 75 de este mismo Ordenamiento.
 
 ###### ARTICULO 77.
 
@@ -823,9 +833,11 @@ III. De tratarse de un decreto, el dictamen propuesto contendrá las consideraci
 
 IV. Para los acuerdos administrativos o económicos, o puntos de acuerdo, se presentarán en el planteamiento, los argumentos de discusión y la respuesta positiva o negativa.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 87.
 
-Una vez firmados en los términos de ley, los dictámenes sólo podrán ser modificados por acuerdo de la mayoría de los que lo suscribieron hasta antes de su lectura en el Pleno.
+Una vez firmados en los términos de ley, los dictámenes sólo podrán ser modificados por acuerdo de la mayoría de los que lo suscribieron, hasta antes de su lectura en el Pleno, siempre y cuando se trate de modificaciones que cambien su sentido y alcance. Tratándose de enmiendas meramente de forma, éstas deberán hacerse antes de su inclusión en la Gaceta Parlamentaria.
 
 ### CAPITULO IV. DE LAS VOTACIONES
 
@@ -841,7 +853,7 @@ III. Cuando el Pleno del Congreso haga observaciones a un dictamen, ya sea en fo
 
 IV. La discusión en el Pleno de los dictámenes será una sola vez en lo general y en lo particular, conforme a lo dispuesto y su votación será nominal.
 
-REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 2011)
+REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2011)
 
 ###### ARTICULO 89.
 
@@ -1023,9 +1035,11 @@ III. El secretario dará a conocer el resultado a la Presidencia del Congreso, s
 
 IV. Si al conocerse los resultados de la votación económica en voz de la Presidencia, algún diputado solicita que se cuenten los votos, el Presidente, los secretarios y todos los diputados volverán a ponerse de pie; en primer término los que hayan votado por la afirmativa y, posteriormente, los que se hayan manifestado por la negativa.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 117.
 
-Previamente a su discusión por el Pleno, el texto de los dictámenes aprobados por las comisiones deberá ser revisado, en cuanto a redacción y estilo, por la Coordinación de Servicios Parlamentarios, la que, de encontrar inconsistencias que trasciendan su sentido, lo comunicará a los presidentes de las comisiones de origen, a efecto de que tomen las medidas que estimen pertinentes.
+Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado, en cuanto a redacción y estilo, por la Coordinación de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
 
 ### CAPITULO II. DE LAS COMISIONES
 
@@ -1305,7 +1319,7 @@ En la votación de los dictámenes, acuerdos o resoluciones, los diputados deber
 
 Cuando un diputado tenga un voto particular sobre un dictamen, deberá hacerlo del conocimiento del presidente de la comisión y presentarlo por escrito, a fin de adjuntarlo al dictamen previo a su entrega a la Secretaría del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 151.
 
@@ -1549,7 +1563,7 @@ XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
 ### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 178.
 
@@ -1761,7 +1775,7 @@ II. Tener cuando menos treinta años de edad al día de su nombramiento; y
 
 III. No haber sido condenado por delito doloso que haya ameritado más de un año de prisión, ni por algún otro que lesione la buena fama en el concepto público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 188.
 
@@ -2020,5 +2034,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE DICIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
