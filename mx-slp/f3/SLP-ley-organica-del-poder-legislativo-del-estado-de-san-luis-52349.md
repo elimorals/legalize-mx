@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2011-12-20"
+last_updated: "2012-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1033,7 +1033,9 @@ XVI. Salud y Asistencia Social;
 
 XVII. Segunda de Hacienda y Desarrollo Municipal;
 
-XVIII. Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+
+XVIII. Seguridad Pública, Prevención y Reinserción Social;
 
 XIX. Trabajo y Previsión Social;
 
@@ -1451,9 +1453,11 @@ V. Los tocantes a las relaciones con las demás dependencias y entidades de la a
 
 VI. Los análogos a los anteriores que, a juicio del Presidente de la Directiva en los periodos ordinarios, o del Presidente de la Diputación Permanente en los recesos del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 115.
 
-Es competencia de la Comisión de Seguridad Pública, Prevención y Readaptación Social, la atención, análisis, discusión y, en su caso, dictamen o resolución de los asuntos que:
+Es competencia de la Comisión de Seguridad Pública, Prevención y Reinserción Social, la atención, análisis, discusión y, en su caso, dictamen o resolución de los asuntos que:
 
 l. Se refieran al orden público, la tranquilidad y la seguridad jurídica de las personas;
 
@@ -1657,9 +1661,11 @@ Los titulares de los órganos de soporte técnico y de apoyo del Congreso, deben
 
 El derecho de iniciar leyes corresponde a los diputados, al Gobernador, al Supremo Tribunal de Justicia y a los ayuntamientos, así como a los ciudadanos del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 131.
 
-Las iniciativas deben presentarse por escrito al Congreso del Estado y, preferentemente, acompañarse de versión magnética; y podrán ser:
+Las iniciativas se presentarán por escrito al Congreso del Estado y deberán acompañarse de su dispositivo de almacenamiento de datos; podrán ser:
 
 l. De ley: cuando contengan un proyecto de resolución por el que se otorguen derechos o impongan obligaciones a todas las personas en general;
 
@@ -1954,5 +1960,21 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE DICIEMBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2012.
+
+DECRETO 909 POR EL QUE SE REFORMA EL ARTÍCULO 131 EN SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE FEBRERO DE 2012.
+
+DECRETO 910 POR EL QUE SE REFORMA LOS ARTÍCULOS, 98 EN SU FRACCIÓN XVIII, Y 115 EN SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
