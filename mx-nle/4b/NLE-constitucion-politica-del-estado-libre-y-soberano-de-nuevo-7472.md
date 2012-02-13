@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-02-08"
+last_updated: "2012-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -639,11 +639,9 @@ I.- El Gobernador del Estado.
 
 II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
-
-III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información y el Procurador General de Justicia;
+III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la información y el Procurador General de Justicia;
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -859,17 +857,13 @@ XIV.- Promover e impulsar la educación pública, la cultura física, el deporte
 
 XV.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador Electo, que hubiere hecho la autoridad electoral correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
+XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Transparencia y Acceso a la Información, Comisionados Ciudadanos de la Comisión Estatal Electoral, Auditor General del Estado y, Magistrados del Tribunal Electoral del Estado en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las Leyes que de ambas emanen;
 
-XVI.- Recibir del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Consejeros de la Judicatura del Estado, Presidente de la Comisión Estatal de Derechos Humanos, Comisionados de la Comisión de Transparencia y Acceso a la Información, Comisionados Ciudadanos de la Comisión Estatal Electoral, Auditor General del Estado y, Magistrados del Tribunal Electoral del Estado en su caso, la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las Leyes que de ambas emanen.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
-
-XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado, Auditor General del Estado, Comisionados de la Comisión de Transparencia y Acceso a la Información, y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada.
+XVII.- Aceptar las renuncias del Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, Consejeros de la Judicatura del Estado, Comisionados Ciudadanos de la Comisión Estatal Electoral, Magistrados del Tribunal Electoral del Estado, Auditor General del Estado, Comisionados de la Comisión de Transparencia y Acceso a la Información, y Presidente de la Comisión Estatal de Derechos Humanos, cuando se funden en una imposibilidad justificada;
 
 XVIII.- Facultar al Ejecutivo para que celebre arreglos amistosos relativos a límites del Estado; aprobar éstos en su caso, y pedir al Congreso de la Unión su aprobación.
 
@@ -883,9 +877,9 @@ XX.- Dirimir las competencias que se susciten entre el Ejecutivo y el Superior T
 
 XXI.- Nombrar al Gobernador interino o sustituto del Estado, en los casos que previenen los arts. 89, 90 y 91 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Presidente de la Comisión Estatal de Derechos Humanos, le presente el Titular del Poder Ejecutivo.
+XXII.- Elegir al Consejero de la Judicatura del Estado a que se refiere el artículo 94, párrafo noveno, de esta Constitución y conocer, para su aprobación, de la propuesta que sobre los cargos de: Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa y Presidente de la Comisión Estatal de Derechos Humanos, le presente el Titular del Poder Ejecutivo.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -987,9 +981,11 @@ Las controversias del Estado, los Municipios o las entidades paraestatales y sus
 
 XLIV.- Designar de entre los vecinos, los Concejos Municipales, en los casos que establezca esta Constitución y las leyes.
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO 2012)</small>
 
-XLV.- Instituir mediante las leyes que expida, el Tribunal de lo Contencioso Administrativo dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre los particulares y la administración pública estatal, ya sea central o paraestatal; estableciendo las normas de su organización y funcionamiento, los requisitos, las licencias y renuncias de sus integrantes, sus procedimientos y los recursos contra las resoluciones que pronuncien. Dicho Tribunal conocerá de las controversias que se susciten entre los particulares y la administración pública municipal, central o paramunicipal, en los casos en que los municipios no cuenten con un Órgano de lo Contencioso Administrativo municipal.
+XLV.- Instituir mediante las leyes que expida, el Tribunal de Justicia Administrativa dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre los particulares y la administración pública estatal, ya sea central o paraestatal; estableciendo las normas de su organización y funcionamiento, los requisitos, las licencias y renuncias de sus integrantes, sus procedimientos y los recursos contra las resoluciones que pronuncien. Dicho Tribunal conocerá de las controversias que se susciten entre los particulares y la administración pública municipal, central o paramunicipal, en los casos en que los municipios no cuenten con un Órgano de Justicia Administrativa municipal. Los Magistrados del Tribunal serán nombrados por un período de diez años, los que se computarán a partir de la fecha de su nombramiento. Al concluir el período para el que fueron nombrados, podrán ser considerados para nuevo nombramiento.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2005)</small>
 
 Los Municipios podrán contar con Órganos de lo Contencioso Administrativo, autónomos sin subordinación jerárquica a la autoridad municipal, con facultades plenas para el pronunciamiento de sus fallos y para resolver las controversias que se susciten entre la administración pública municipal, central o paramunicipal, y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; los que se regirán por los ordenamientos legales que al efecto se emitan.
 
@@ -1685,11 +1681,9 @@ I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con vecindad en e
 
 II.- Tener cuando menos treinta años cumplidos el día de la elección.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
-
-III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Transparencia y Acceso a la Información, Servidor Público o Militar en servicio activo.
+III.- No desempeñar el cargo de Secretario del Despacho del Ejecutivo, Magistrado del Tribunal Superior de Justicia o del Tribunal de Justicia Administrativa, Consejero de la Judicatura del Estado, Procurador General de Justicia, Presidente de la Comisión Estatal de Derechos Humanos, Comisionado Ciudadano de la Comisión Estatal Electoral, Magistrado del Tribunal Electoral del Estado, Comisionado de la Comisión de Transparencia y Acceso a la Información, Servidor Público o Militar en servicio activo.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -1777,9 +1771,9 @@ XVIII.- Ordenar el uso de la fuerza pública municipal en los términos de lo di
 
 XIX.- Expedir los títulos profesionales con arreglo a las leyes.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-XX.- Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Presidente de la Comisión Estatal de Derechos Humanos, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de ésta Constitución.
+XX. Someter a la aprobación del Congreso del Estado, la propuesta que le presente respecto a los cargos de Magistrados del Tribunal Superior de Justicia, Magistrados de la Sala Superior y de las Salas Ordinarias del Tribunal de Justicia Administrativa y Presidente de la Comisión Estatal de Derechos Humanos, de acuerdo con lo dispuesto por los artículos 63 fracción XXII, 98 y 99 de ésta Constitución;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
@@ -2245,33 +2239,33 @@ XVI. Dictar las medidas necesarias para la recepción, control y destino de los 
 
 XVII. Las demás facultades que las leyes le otorguen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO 2012)</small>
 
 ###### Art. 98.
 
-Para ser Magistrado del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, se requiere:
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 II.- Tener cuando menos 35 años el día de la designación;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 III.- Poseer el día de la designación, título profesional de licenciado en derecho, con antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 V.- Haber residido en el Estado durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 VI.- No haber sido Gobernador, Secretario de Despacho del Ejecutivo, Procurador General de Justicia, Senador, ni Diputado Federal o Local, cuando menos un año previo al día de su nombramiento.
 
@@ -2879,13 +2873,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante el Congreso del Estado, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse con elementos de prueba que hagan presumir la ilicitud de la conducta del servidor público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO 2012)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
+Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de Justicia Administrativa, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -2901,13 +2893,11 @@ Las declaraciones y resoluciones tanto del Congreso como del Tribunal Superior d
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO 2012)</small>
 
 ###### Art. 112.
 
-Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información, el Auditor General del Estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de lo Contencioso Administrativo, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder en contra de él.
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal superior de justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información, el Auditor General del estado, los Consejeros de la Judicatura, el Procurador General de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los Secretarios del Despacho del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta de sus integrantes y previa audiencia del indiciado, si ha o no lugar a proceder en contra de él.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -14991,6 +14981,14 @@ P.O. 27 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
+P.O. 30 DE MAYO DE 2007.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
 Artículo Único.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Estado.
@@ -15110,3 +15108,7 @@ P.O. 4 DE NOVIEMBRE DE 2011.
 P.O. 8 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, en el entendido de que el Tribunal de Justicia Administrativa iniciará sus funciones una vez que sean designados y rindan su protesta los Magistrados de la Sala Superior del propio Tribunal. Entre tanto, continuará en funciones el Tribunal de lo Contencioso Administrativo.
