@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-68321"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-04-27"
-last_updated: "2011-05-30"
+last_updated: "2012-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE CALVILLO, AGS.
+CÓDIGO MUNICIPAL DE CALVILLO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2012.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 27 de abril de 2009.
 
@@ -1137,15 +1137,21 @@ VI.- Comisión de Desarrollo Económico y Rural Sustentable;
 
 VII.- Comisión de Servicios Públicos y Ecología;
 
-VIII.- Comisión de Agua Potable y Alcantarillado; y (sic)
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
+VIII.- Comisión de Agua Potable y Alcantarillado;
 
-IX.- Comisión de Obras Públicas, Vialidad y Transporte; y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
+IX.- Comisión de Obras Públicas, Vialidad y Transporte;
 
-X.- Igualdad y Género.
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2012)</small>
+
+X.- Comisión de Igualdad y Género; y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2012)</small>
+
+XI.- Comisión del Migrante.
 
 ###### Artículo 91.
 
@@ -1588,6 +1594,50 @@ IV.- Promover que se investiguen los antecedentes de los trámites, construccion
 V.- Supervisar el trabajo realizado por las áreas administrativas encargadas del desarrollo urbano y de obras públicas; y
 
 VI.- Los demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2012)</small>
+
+Artículo 121 BIS.- Corresponden a la Comisión de Igualdad y Género los siguientes asuntos:
+
+I.- Realizar acciones de promoción de los derechos políticos, económicos, sociales y culturales de las mujeres, poniendo énfasis en la prevención y erradicación de la violencia familiar y contra las mujeres;
+
+II.- Promover una cultura de respeto y dignificación del papel de las mujeres en la sociedad;
+
+III.- Coadyuvar en el combate de la violencia hacia las mujeres, la prohibición de actos discriminatorios en el empleo, o en el acceso a cargos directivos; la compatibilidad del trabajo y la familia; la maternidad voluntaria y la paternidad responsable, la capacitación en el trabajo, y el impulso de la perspectiva de género en la Administración Pública;
+
+IV.- Estrechar la vinculación con las diversas dependencias de la Administración Pública Federal y Local, con el Congreso Local y con la sociedad civil, con la finalidad de trabajar en los temas que son de agenda común y avanzar en materia de igualdad y género;
+
+V.- Mantener la presencia y la comunicación de la Comisión de Igualdad y Género en los foros municipales en materia de género; y
+
+VI.- Promover la expedición de las normas legales en materia de igualdad y género;
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2012)</small>
+
+Artículo 121 TER.- Corresponden a la Comisión del Migrante los siguientes asuntos:
+
+I.- Realizar las acciones necesarias para la divulgación, promoción y difusión relacionadas de los programas de derechos humanos en el Municipio;
+
+II.- Servir de instancia receptora de quejas y denuncias sobre presuntas violaciones a los derechos humanos y turnarlas a la Comisión de Derechos Humanos del Estado;
+
+III.- Apoyar los convenios que beneficien a los Migrantes Calvillenses;
+
+IV.- Coadyuvar con las autoridades competentes en la búsqueda de instrumentos adecuados para atender las causas que generan la Migración;
+
+V.- Realizar las acciones necesarias a fin de contribuir en la defensa de los derechos humanos de los Migrantes;
+
+VI.- Promover por sí, o a través de las instancias competentes, la integración de proyectos productivos y el desarrollo de programas de empleo temporal en el exterior;
+
+VII.- Recopilar, sistematizar y difundir información relacionada con el fenómeno migratorio a través de los distintos medios de comunicación;
+
+VIII.- Fomentar el conocimiento de nuestra historia, cultura y tradiciones que fortalezcan los vínculos culturales y de arraigo con la Entidad para los calvillenses migrantes y sus descendientes que radican en los Estados Unidos de América;
+
+IX.- Gestionar ante la Comisión de Derechos Humanos del Estado de Aguascalientes, el establecimiento de un programa especial que atienda de manera expedita las quejas de los migrantes calvillenses;
+
+X.- Gestionar la creación de una vía confiable, eficiente y de bajo costo que permita a los migrantes calvillenses el envío seguro de las remesas transferidas;
+
+XI.- En materia de salud, impulsar convenios relativos al seguro de salud para las familias de trabajadores mexicanos en el extranjero, establecido por la nueva Ley del Seguro Social; y
+
+XII.- Organizar programas en materia comercial y productiva que propicien la colocación de productos del Municipio en el mercado hispano de los Estados Unidos de América, así como promover el turismo y la inversión en el Municipio.
 
 ## TÍTULO TERCERO. DE LA PRÁCTICA CAPITULAR
 
@@ -23762,6 +23812,12 @@ PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su Publicaci
 SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
 
 P.O. 30 DE MAYO DE 2011.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias municipales en lo que se opongan al presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
