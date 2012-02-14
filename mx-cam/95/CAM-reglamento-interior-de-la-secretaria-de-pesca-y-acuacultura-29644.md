@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-pesca-y-acuacultura-296
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2009-09-14"
+last_updated: "2012-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA -ANTES SECRETARIA DE PESCA-
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. 14 DE SEPTIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA Y ACUACULTURA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 14 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
@@ -274,3 +274,9 @@ Lo anterior se observará también con relación a los derechos y obligaciones q
 Séptimo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones, que se encontraren en curso o pendientes de su resolución en el momento de iniciar su vigencia el presente Decreto, se continuarán y serán despachados por las dependencias a las que corresponda, ahora el conocimiento de las materias sobre los cuales aquellos versen.
 
 Octavo.- El Gobernador del Estado realizará las adecuaciones correspondientes a la Ley de Presupuesto de Egresos para el ejercicio fiscal 2009, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto.
+
+P.O. 14 DE FEBRERO DE 2012.
+
+Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Pesca expedido el 27 de marzo del 2002 y publicado en el Periódico Oficial del Estado con fecha 6 de mayo del año 2002, y se derogan todas las demás disposiciones reglamentarias y administrativas de carácter general, expedidas por el Ejecutivo del Estado, en lo que se opongan al contenido del presente Acuerdo.
