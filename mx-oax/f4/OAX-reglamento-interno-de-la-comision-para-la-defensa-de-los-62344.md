@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-para-la-defensa-de-los-62344"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-12"
-last_updated: "2008-07-12"
+last_updated: "2012-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA COMISION PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SÉPTIMO DEL DECRETO NÚMERO 823, PUBLICADO EN EL P.O. 14 DE FEBRERO DE 2012, SE MODIFICA LA COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA POR EL DE DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 12 de julio de 2008.
 
@@ -1266,3 +1268,25 @@ CONSEJERO
 LIC. BENJAMÍN FERNÁNDEZ PICHARDO
 
 CONSEJERO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la LEY DE LA COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA, publicada en el Periódico Oficial del Gobierno del Estado de fecha 21 de diciembre de 2007, y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
+
+TERCERO.- El Reglamento Interno de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, será expedido por su Consejo dentro de los sesenta días siguientes de la entrada en vigor de esta Ley, y deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+CUARTO.- Para el nombramiento del Presidente de la Defensoría y el Consejo Ciudadano, el Congreso contará con el término de treinta días a partir del día siguiente a la publicación de esta Ley. Para tal efecto, la Comisión Permanente de Derechos Humanos del Congreso del Estado, deberá emitir la Convocatoria respectiva, en términos del artículo 24 de esta Ley.
+
+QUINTO.- El patrimonio de la COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA, pasará a formar parte de la DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA.
+
+SEXTO.- Todos los expedientes y asuntos que se encuentren en trámite en la COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE y SOBERANO DE OAXACA se desahogarán hasta su conclusión conforme a la LEY DE LA COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+SÉPTIMO.- Todas las disposiciones legales, administrativas o resoluciones expedidas, así como los contratos, convenios o actos celebrados con anterioridad a la vigencia de la presente ley, en la que se haga referencia a la COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE, se entenderán referidas a la DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA.
+
+OCTAVO.- El personal que labora en la COMISIÓN PARA LA DEFENSA DE LOS DERECHOS HUMANOS DEL ESTADO LIBRE Y SOBERANO DE OAXACA, continuarán brindando sus servicios a la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, hasta en tanto se elija a la persona titular de la DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA.
+
+NOVENO.- La estructura orgánica de la DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA, entrará en funciones hasta en tanto se le asigne el presupuesto necesario para el desempeño de sus funciones.
