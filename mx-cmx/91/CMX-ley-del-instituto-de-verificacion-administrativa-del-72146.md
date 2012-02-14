@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-verificacion-administrativa-del-72146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-26"
-last_updated: "2011-07-08"
+last_updated: "2012-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72146&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-12-28"
 ---
 # LEY DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-LEY DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
+LEY DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de enero de 2010.
 
@@ -156,7 +156,9 @@ III. Emitir los lineamientos y criterios para el ejercicio de la actividad verif
 
 IV. Velar, en la esfera de su competencia, por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas vinculadas con las materias a que se refiere la fracción I, y
 
-V. El Instituto no podrá ordenar la práctica de visitas de verificación en materias que sean de competencia exclusiva de las Delegaciones; salvo situaciones de emergencia o extraordinarias, que son aquellas producidas por un desastre fuera de control y que sucedan inesperadamente, y en coordinación con las Delegaciones, en cualquiera de la materias que se establecen en el apartado B, fracción I del presente artículo.
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+V. El Instituto no podrá ordenar la práctica de visitas de verificación en materias que sean de competencia exclusiva de las Delegaciones, se exceptúan las ordenadas y practicadas a establecimientos mercantiles de impacto zonal cuyo giro principal es la realización de juegos con apuestas y sorteos; y salvo situaciones de emergencia o extraordinarias, que son aquellas producidas por un desastre fuera de control y que sucedan inesperadamente, y en coordinación con las Delegaciones, en cualquiera de la (sic) materias que se establecen en el apartado B, fracción I del presente artículo.
 
 B. Las Delegaciones tendrán las atribuciones siguientes:
 
@@ -679,3 +681,9 @@ G.O. 8 DE JULIO DE 2011.
 Primero: Remítase al Jefe de Gobierno del Distrito Federal, para la publicación del presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 Segundo: Este Decreto entrará en vigor al día siguiente de su publicación en el (sic) la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE FEBRERO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
