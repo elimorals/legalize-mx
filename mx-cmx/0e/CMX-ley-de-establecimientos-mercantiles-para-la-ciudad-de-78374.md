@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2011-01-20"
+last_updated: "2012-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE FEBRERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -222,9 +222,21 @@ V. Informar de manera oficial y pública del resultado de las verificaciones rea
 
 VI. Otorgar o Negar por medio del sistema los permisos a que hace referencia esta Ley, en un término no mayor a cinco días hábiles, en caso contrario podrán funcionar de manera inmediata, exceptuando de lo anterior a los giros de impacto zonal en los que operará la negativa ficta;
 
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Los establecimientos con giro de impacto zonal que tengan un aforo superior a cien personas, además de contar con programa interno de protección civil, deberán obtener dictamen técnico favorable del órgano previsto en el artículo 8 Bis de esta Ley, previo a la Solicitud de Permiso al Sistema.
+
 VII. Integrar los expedientes con todos los documentos manifestados en los Avisos o Solicitudes de Permisos ingresados en el Sistema, y que se encuentren en el ámbito de su competencia; y
 
 VIII. Las demás que les señalen la Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+###### Artículo 8 Bis.
+
+Las Secretarías de Gobierno, de Seguridad Pública y de Protección Civil, así como las Delegaciones y el Instituto integrarán el Consejo de Evaluación de Riesgos, que emitirá dictámenes técnicos para el funcionamiento de establecimientos mercantiles con giro de impacto zonal con un aforo superior a cien personas.
+
+Los establecimientos mercantiles que obtengan dictamen negativo, deberán subsanar las observaciones realizadas por el Consejo, en caso de no subsanarlas no podrán renovar su permiso y no podrán ingresar su Solicitud de Permiso al Sistema.
 
 ###### Artículo 9.
 
@@ -258,11 +270,15 @@ VI. Cumplir la suspensión de actividades en las fechas y horarios específicos 
 
 VII. Evitar aglomeraciones en la entrada principal y salidas de emergencia que obstruyan la vialidad, el paso peatonal o que pongan en riesgo la seguridad de los usuarios o peatones.
 
-Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la Ley de Protección Civil y su Reglamento;
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Las salidas de emergencia deberán estar debidamente señaladas al interior de los establecimientos mercantiles, y cuando las características del mismo lo permitan deberán ser distintas al acceso principal de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
 
 VIII. Permitir el libre acceso a personas ciegas o débiles visuales acompañadas de un perro guía, el cual deberá contar con bozal;
 
-IX. Exhibir y/o señalar en un lugar visible al público y con caracteres legibles:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+IX. Exhibir y/o señalar en un lugar visible al público y con carácter de legibles:
 
 a) El horario en el que se prestarán los servicios ofrecidos;
 
@@ -272,9 +288,15 @@ c) La prohibición de fumar en el establecimiento mercantil, así como las sanci
 
 En caso de negativa exhortarlo a que abandone el establecimiento, y ante una segunda negativa solicitar el auxilio de Seguridad Pública;
 
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+d) La capacidad de aforo manifestada en el Aviso o Solicitud de Permiso.
+
 X. En caso de reunir a más de 50 personas, entre clientes y empleados, contar con personal capacitado y botiquín equipado con medicinas, material e instrumentos de curación necesarios para brindar primeros auxilios;
 
-XI. Contar en su caso con un programa interno de protección civil, de conformidad con la Ley de Protección Civil para el Distrito Federal y su Reglamento;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+XI. Contar en su caso y cuando así se requiera con programa interno de protección civil, de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
 
 XII. Cuando no requiera de un programa interno de protección civil, deberá contar, cuando menos, con las siguientes medidas de seguridad:
 
@@ -293,6 +315,10 @@ XIV. Contar con los cajones de estacionamiento que instruyen para cada uso los P
 Deberán proporcionar estacionamiento gratuito a sus clientes con comprobante de consumo, por un lapso de dos horas de estancia; después de este tiempo proporcionarán tarifa preferencial a los mismos respecto al costo normal del servicio.
 
 El derecho a las dos horas de gratuidad estará sujeto al monto de consumo mínimo que se establezca en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Cuando en el establecimiento mercantil existan las condiciones, habilitarán un espacio destinado únicamente para el resguardo de bicicletas.
 
 Quedan exentos de las obligaciones señaladas en el párrafo primero y segundo de esta fracción, los establecimientos mercantiles que:
 
@@ -346,7 +372,9 @@ X. Las demás que les señalen esta Ley y la normatividad aplicable. En los Avis
 
 Queda prohibido a los titulares y sus dependientes realizar, permitir o participar en las siguientes actividades:
 
-I. La venta de cualquier tipo de bebidas alcohólicas y productos derivados del tabaco a los menores de edad;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+I. La venta de cualquier tipo de bebidas alcohólicas, productos derivados del tabaco, inhalables o solventes a los menores de edad;
 
 II. La venta de cigarros por unidad suelta;
 
@@ -360,7 +388,9 @@ VI. La elaboración y venta de bebidas con ingredientes o aditivos que no cuente
 
 VII. La utilización de la vía pública como estacionamiento, para la prestación de los servicios o realización de las actividades propias del giro mercantil de que se trate, salvo aquellos casos en que lo permita expresamente la Ley y se cuente con el Aviso correspondiente;
 
-VIII. Exigir pagos por concepto de propina, gratificación, cubierto o conceptos semejantes. En caso de existir otro concepto distinto al consumo, deberá hacerse previamente del conocimiento del usuario solicitando su aceptación;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+VIII. Exigir pagos por concepto de propina, gratificación, cubierto o conceptos semejantes, así como condicionar la prestación del servicio a una determinada cantidad de dinero en el consumo. En caso de existir otro concepto distinto al consumo, se hará del conocimiento del usuario y se solicitará su aceptación;
 
 IX. La celebración de relaciones sexuales que se presenten como espectáculo en el interior de los establecimientos mercantiles;
 
@@ -454,9 +484,13 @@ V. Si el solicitante es extranjero los datos de la Autorización expedida por la
 
 VI. Fecha y hora de inicio y terminación del mismo; y
 
-VII. Monto del pago de derechos efectuado y datos de la oficina receptora de dicho pago.
+VII. (DEROGADA, G.O. 14 DE FEBRERO DE 2012)
 
 El período de funcionamiento de los giros a que se refiere este artículo no podrá exceder de 15 días naturales y en ningún caso podrá ser objeto de prórroga, revalidación o traspaso.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Una vez cubiertos los requisitos señalados en el presente artículo, la Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgara el permiso.
 
 ## TITULO VI
 
@@ -624,7 +658,9 @@ Estos establecimientos deberán cumplir con las obligaciones contenidas en los a
 
 En los establecimientos a que se refiere este artículo podrán prestarse los servicios de venta de alimentos preparados, música viva y música grabada o video grabada, televisión, alquiler de juegos de salón, de mesa y billares, así como celebrarse eventos culturales, manifestaciones artísticas de carácter escénico, cinematográfico, literario o debate y podrán contar con espacio para bailar o para la presentación de espectáculos, sin necesidad de ingresar nueva Solicitud de Permiso al Sistema.
 
-Queda prohibida la entrada a menores de edad a todos los establecimientos mercantiles a que se refiere este artículo, con la excepción de que en estos establecimientos se lleven a cabo o se celebren tardeadas, en cuyo caso no se podrán vender ni distribuir bebidas alcohólicas, ni productos derivados del tabaco o cualquier otra sustancia de naturaleza ilícita. Asimismo se atenderá lo establecido en el artículo 11 fracción IX de esta Ley.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Queda prohibida la entrada a menores de edad a todos los establecimientos mercantiles a que se refiere este artículo, con la excepción de que en estos establecimientos se lleven a cabo o se celebren tardeadas, en cuyo caso no se podrán vender ni distribuir bebidas alcohólicas, ni productos derivados del tabaco o cualquier otra sustancia psicoactiva. Asimismo se atenderá lo establecido en el artículo 11 fracción IX de esta Ley.
 
 Se entiende por tardeada la celebración o fiesta que se lleve a cabo al interior de los establecimientos mercantiles a que se refiere este capítulo en un horario de doce a veinte horas.
 
@@ -642,11 +678,25 @@ I. Contar con arcos detectores de metales o detectores portátiles, en cada uno 
 
 II. Contar con al menos un paramédico de guardia de las 11:00 horas a las 05:00 del día siguiente, debidamente acreditado por la Secretaria de Salud del Distrito Federal;
 
-III. Desarrollar un plan de acción social a favor del consumo responsable de bebidas alcohólicas, entendiéndose éste como las medidas de difusión que establecerá el establecimiento mercantil para prevenir el consumo excesivo de alcohol, así como las consecuencias negativas de conducir en estado de ebriedad;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+III. Desarrollar un plan de acción social a favor del consumo responsable de bebidas alcohólicas y que evite el consumo de sustancias psicoactivas, que contendrá medidas de difusión que llevarán a cabo los titulares de los establecimientos mercantiles contra el uso y abuso del alcohol y/o sustancias psicoactivas, y las consecuencias negativas de conducir bajo su influjo;
 
 IV. Nombrar expresamente al o los dependientes del Establecimiento Mercantil por medio del Sistema, el titular podrá cambiar, al o los dependientes nombrados por lo menos tres días antes de que surta efecto dicho cambio. El o los dependientes serán solidariamente responsables del cumplimiento de la sanción o sanciones de que se traten; y
 
 V. Esta obligado a contratar elementos de seguridad acreditados por la Secretaría de Seguridad Pública del Distrito Federal, quienes deberán primordialmente vigilar se lleve a cabo lo establecido en la fracción VIII del apartado B del artículo 10 fracción (sic) de la presente Ley.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+###### Artículo 27 Bis.
+
+Son de impacto zonal los establecimientos mercantiles cuyo giro principal sea la realización de juegos con apuestas y sorteos, que cuenten con permiso de la Secretaría de Gobernación.
+
+Estos establecimientos deberán cumplir con las obligaciones contenidas en el apartado A y en las fracciones I, III, IV, VI, IX y X del apartado B del Artículo 10, así como las del artículo 13 de esta Ley, y obtener el visto bueno de la Secretaría de Gobierno.
+
+Queda prohibida la entrada a menores de edad a este tipo de establecimientos mismos que no podrán ubicarse a menos de trescientos metros de centros educativos, ni en inmuebles que conforme a los Programas de Desarrollo Urbano del Distrito Federal tengan zonificación habitacional.
+
+La vigilancia del cumplimiento de las obligaciones a cargo de los Titulares de los establecimientos previstos en el presente artículo, está a cargo del Instituto, quien ordenará la práctica de visitas de verificación administrativa y sustanciará el procedimiento respectivo, conforme a la Ley del Instituto de Verificación Administrativa del Distrito Federal, la Ley de Procedimiento Administrativo del Distrito Federal, el Reglamento de Verificación Administrativa del Distrito Federal y el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en Establecimientos de Impacto Zonal. Dichas visitas podrán ser realizadas con el apoyo de la Secretaría de Protección Civil.
 
 ### CAPITULO III
 
@@ -696,7 +746,7 @@ I. Nombre o razón social del solicitante, así como domicilio para oír y recib
 
 II. Denominación o nombre comercial del establecimiento mercantil y ubicación del mismo;
 
-III. Monto del pago de derechos efectuado y datos de la oficina receptora de dicho pago;
+III. (DEROGADA, G.O. 14 DE FEBRERO DE 2012)
 
 IV. Si el solicitante es extranjero, los datos de la autorización expedida por la Secretaría de Gobernación, conforme a la cual se le permita llevar a cabo la actividad de que se trate;
 
@@ -706,51 +756,77 @@ VI. Giro mercantil que se pretende operar;
 
 VII. Datos de la constancia o certificado en el que se señale que el uso de suelo es permitido para el giro que se pretende operar;
 
-VIII. Que cuenta con los cajones de estacionamiento de conformidad con lo establecido en la fracción XVIII del artículo 10 de la presente Ley;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+VIII. Que cuenta con los cajones de estacionamiento de conformidad con la fracción XIV del apartado A del artículo 10 de esta Ley;
 
 IX. La capacidad de aforo de conformidad con lo establecido en la fracción II del artículo 2 de la presente Ley;
 
-X. Dar cuenta del Programa Interno de Protección Civil, según corresponda, de conformidad con la Ley de Protección Civil del Distrito Federal; y
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+X. Dar cuenta del programa interno de protección civil, según corresponda, de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
 
 XI. Para el caso de establecimientos de impacto zonal además deberán manifestar que cumple con lo siguiente:
 
 a) Que cuenta con Sistema de Seguridad a que hacen referencia los artículos 10 y 13.
 
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Una vez cubiertos los requisitos señalados en el presente artículo, la Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 32.
 
-El Permiso se revalidará cada dos años tratándose de giros de Impacto Zonal y cada tres años tratándose de giros de Impacto Vecinal, debiendo ingresarse al Sistema el aviso correspondiente, proporcionando la siguiente información:
+El Permiso se revalidará cada dos años tratándose de giros de Impacto Zonal y cada tres años tratándose de giros de Impacto Vecinal, debiendo ingresar al Sistema la solicitud correspondiente, proporcionando la siguiente información:
 
 I. Que las condiciones originales para el funcionamiento del establecimiento no han variado; y
 
 II. Monto del pago de derechos efectuado y datos de la oficina receptora de dicho pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 33.
 
-Cuando se realice el traspaso de algún establecimiento mercantil, el adquirente deberá ingresar el Aviso al Sistema dentro de los 30 días hábiles siguientes a la fecha en que se haya efectuado, proporcionando la siguiente información:
+Cuando se realice el traspaso de algún establecimiento mercantil, el adquirente deberá ingresar la solicitud al Sistema dentro de los 30 días hábiles siguientes a la fecha en que se haya efectuado, proporcionando la siguiente información:
 
 I. Nombre o razón social del solicitante, así como domicilio para oír y recibir notificaciones y dirección de correo electrónico;
 
 II. Denominación o nombre comercial del establecimiento mercantil y ubicación del mismo;
 
-III. Que las condiciones señaladas en el Aviso original no han variado;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
 
-IV. Monto del pago de derechos efectuado y datos de la oficina receptora de dicho pago; y
+III. Que las condiciones señaladas en el Permiso original no han variado;
+
+IV. (DEROGADA, G.O. 14 DE FEBRERO DE 2012)
 
 V. Si el solicitante es extranjero, los datos de la Autorización expedida por la Secretaría de Gobernación, conforme a la cual se le permita llevar a cabo la actividad de que se trate.
 
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+VI. Fecha de la celebración del contrato traslativo de dominio y nombres de las partes.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Una vez cubiertos los requisitos señalados en el presente artículo, la Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, pagados los derechos se otorgará el permiso.
+
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 34.
 
-Los titulares de los establecimientos mercantiles a que se refiere este Capítulo ingresarán el Aviso correspondiente al Sistema, en los casos que efectúen las siguientes variaciones:
+Los titulares de los establecimientos mercantiles a que se refiere este Capítulo, ingresarán la solicitud al Sistema en los casos que efectúen las siguientes variaciones:
 
-I. Modificación de la superficie, debiendo en su caso ingresar los datos del recibo del pago de derechos correspondientes efectuados, así como los de la oficina receptora;
+I. Modificación de la superficie;
 
-II. Modificación del aforo;
+II. Modificación del aforo, mismo que deberá realizarse de conformidad con el Reglamento de la Ley de Establecimientos Mercantiles del Distrito Federal en Materia de Aforo y de Seguridad en los Establecimientos de Impacto Zonal;
 
-III. Modificación del Giro Mercantil;
+III. Modificación del Giro Mercantil, siempre y cuando no implique la modificación de la actividad señalada en el permiso.
 
-IV. Cualquier variación que pueda tener el establecimiento mercantil; y
+IV. Cualquier variación que pueda tener el establecimiento mercantil;
 
 V. Cuando realice el cese de actividades o cierre del establecimiento.
+
+La Delegación hará del conocimiento al solicitante el monto a cubrir por los derechos correspondientes, cuando así el trámite lo requiere, pagados los derechos se otorgará el permiso o se dará por enterada.
 
 ## TITULO VII
 
@@ -790,7 +866,9 @@ XIV. Los salones de belleza y peluquerías; y
 
 XVI (SIC). Los demás no comprendidos en el Titulo VI de esta Ley, en donde se desarrollen actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes o prestación de servicios comerciales, con fines de lucro.
 
-Los establecimientos mercantiles a que se refiere este Titulo tienen prohibida la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo, para su consumo en el interior. Se exceptúan de lo anterior los establecimientos mercantiles que opten por ejercer como actividad preponderante el servicio de venta de alimentos preparados y cuya superficie no exceda de 70 metros cuadrados, los cuales podrán vender exclusivamente cerveza y vino de mesa para su consumo con los alimentos preparados establecidos en su carta de menú, en el horario de las 12:00 a las 17:00 horas.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Los establecimientos mercantiles a que se refiere este Titulo tienen prohibida la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo, para su consumo en el interior. Se exceptúan de lo anterior los establecimientos mercantiles que ejerzan como actividad preponderante el servicio de venta de alimentos preparados y cuya superficie total no exceda de 80 metros cuadrados, los cuales podrán vender exclusivamente cerveza y vino de mesa para su consumo con los alimentos preparados establecidos en su carta de menú, en el horario de las 12:00 a las 17:00 horas.
 
 ###### Artículo 36.
 
@@ -798,9 +876,11 @@ Los establecimientos mercantiles en que se vendan abarrotes y comestibles en gen
 
 a) La venta de bebidas alcohólicas en envase cerrado sólo se podrá realizar de las 07:00 a las 24:00 horas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 37.
 
-Podrá destinarse una fracción de la vivienda, que no exceda del 20% de la superficie de ésta, para la operación de un establecimiento mercantil de bajo impacto distinto de los señalados en las fracciones I, II, III, V, VI, VII, X y XI del artículo 35, debiendo manifestarse esa circunstancia en el Aviso, sin que ello implique la modificación del uso del suelo.
+Podrá destinarse una fracción de la vivienda, que no exceda del 20% de la superficie de ésta, para la operación de un establecimiento mercantil de bajo impacto distinto de los señalados en las fracciones I, II, III, V, VI, VII, X y XI del artículo 35, debiendo manifestarse esa circunstancia en el Aviso, sin que ello implique la modificación del uso del suelo, ni la autorización para la venta de bebidas alcohólicas.
 
 Los establecimientos mercantiles que operen en las condiciones previstas en este artículo, deberán ser atendidos exclusivamente por miembros de la familia que habite en la vivienda de que se trate.
 
@@ -820,11 +900,15 @@ IV. Ubicación y superficie total del local donde pretende establecerse el giro 
 
 V. Giro mercantil que se pretende ejercer;
 
-VI. Que cuenta con los cajones de estacionamiento de conformidad con lo establecido en la fracción XVIII del artículo 10 de la presente Ley;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
 
-VII. Que en su caso, dará cuenta del Programa Interno o Especial de Protección Civil, según corresponda, de conformidad con la Ley de Protección Civil del Distrito Federal.
+VI. Que cuenta con los cajones de estacionamiento de conformidad con la fracción XIV del artículo 10 de la presente Ley;
 
-Los titulares de aquellos establecimientos mercantiles a que se refiere este Titulo, en los que presten sus servicios hasta 5 empleados, no estarán obligados a presentar el programa a que se refiere esta fracción, manifestando bajo protesta de decir verdad que se obliga al cumplimiento de las disposiciones en la materia. Lo anterior siempre y cuando lo permita la Ley de Protección Civil del Distrito Federal y su Reglamento;
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+VII. En su caso dar cuenta del Programa Interno o Especial de Protección Civil, según corresponda y de conformidad con la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento.
+
+No estarán obligados a presentar el Programa Interno o Especial de Protección Civil, de conformidad y cuando así lo establezca la Ley del Sistema de Protección Civil del Distrito Federal y su Reglamento;
 
 VIII. En los casos de establecimientos que se dediquen a la purificación, embotellamiento y comercialización de agua purificada deberán presentar la constancia de aviso de funcionamiento ante la Secretaría de Salud del Distrito Federal;
 
@@ -1000,7 +1084,9 @@ XI. Las demás que establezca esta Ley y demás normatividad aplicable.
 
 El Gobierno del Distrito Federal, a través de la Secretaría de Transportes y Vialidad y Delegación, autorizará las tarifas de estacionamientos públicos y emitirá las normas técnicas para regular su operación.
 
-Para el inicio de operaciones, bastará con que el interesado manifieste que tiene la propiedad o la posesión del inmueble, así como el seguro a que se refiere la fracción IV del artículo anterior.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+Para el inicio de operaciones solo en el primer año de funcionamiento bastará con que el interesado manifieste que tiene la propiedad o la posesión del inmueble, asimismo que cumple con lo señalado en el artículo 48 de la presente Ley.
 
 ###### Artículo 50.
 
@@ -1132,13 +1218,19 @@ El aseguramiento de bebidas se llevará a cabo con el traslado de las mismas al 
 
 Se sancionará con el equivalente de 25 a 125 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones VIII y IX inciso a); 10 apartado B fracciones I y IX; 11 fracción VIII; 23 fracciones I, II, III, IV, VI y VII; 28 párrafo primero, segundo y cuarto; 40 fracciones II y III; 42 fracciones I y II; 43 fracciones II, IV, V, VI, VII y VIII; 45; 56 fracciones IV, V, VI y VIII, y 57 de la presente Ley.
 
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 65.
 
-Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b) y c), X y XIII; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV y VII; 12; 15; 21; 22 fracción II; 23 fracción V; 33; 34; 37; 39; 40 fracciones I, IV, V y VI; 42 fracciones III y IV; 43 fracciones I y III; 46; 47; 48 fracciones III, VI y VII; 50; 53; 54; 56 fracciones II, III y VII de esta Ley.
+Se sancionará con el equivalente de 126 a 350 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones III, VII párrafo primero, IX incisos b), c) y d), X y XIII; 10 apartado B fracciones II, III y VII; 11 fracciones III, IV y VII; 12; 15; 21; 22 fracción II; 23 fracción V; 33; 34; 37; 39; 40 fracciones I, IV, V y VI; 42 fracciones III y IV; 43 fracciones I y III; 46; 47; 48 fracciones III, VI y VII; 50; 53; 54; 56 fracciones II, III y VII de esta Ley.
 
 ###### Artículo 66.
 
 Se sancionará con el equivalente de 351 a 2500 días de salario mínimo general vigente en el Distrito Federal, el incumplimiento de las obligaciones contempladas o el incurrir en las prohibiciones que señalan los artículos 10 apartado A fracciones I, II, IV, V, VI, VII párrafo segundo, XI, XII, XIII y XIV; 10 apartado B fracciones II inciso b), IV, V, VI y VIII; 11 fracciones I, II, V y VI; 13; 18; 20; 22 fracción XI segundo y tercer párrafo; 23; 24; 25 párrafo tercero; 26 párrafo cuarto; 27; 28 párrafo tercero; 29; 30; 32; 35; 36; 41; 45; 48 fracciones I, II, IV, V, VIII y IX; 49 párrafo segundo; 52; 55; 56 fracción I y 58 de esta ley.
+
+> <small>(ADICIONADO, G.O. 14 DE FEBRERO DE 2012)</small>
+
+La sanción a la que se refiere el artículo 10 apartado A fracción XI, solo será aplicada a los giros de bajo impacto.
 
 Las sanciones económicas señaladas en los artículos 64, 65 y 66 de la presente Ley, tendrán una reducción del 50% en sus montos mínimos y máximos cuando se trate de giros de bajo impacto que no vendan bebidas alcohólicas.
 
@@ -1148,9 +1240,11 @@ Se sancionará con el equivalente de 1000 a 3000 días de salario mínimo genera
 
 En caso de que se detectare falsedad en los términos de este artículo, la Delegación o el Instituto de Verificación Administrativa del Distrito Federal dará vista al Ministerio Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 68.
 
-Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos de la siguiente forma:
+Se sancionará a los titulares de establecimientos de impacto vecinal y zonal que hubieren proporcionado información falsa, no cuenten con los documentos cuyos datos hubieren ingresado al Sistema o éstos fueren falsos, no cuente con programa interno de protección civil, su aforo sea superior a 100 personas y no hubieren obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley, de la siguiente forma:
 
 a) Para los establecimientos de impacto vecinal multa de 5,000 a 15,000 días de salario mínimo vigente en el Distrito Federal.
 
@@ -1220,9 +1314,17 @@ Procederá el estado de Suspensión Temporal de Actividades de forma inmediata:
 
 I. Cuando el Aviso y/o Permiso no hubiera sido revalidado, estando obligado el titular a hacerlo;
 
-II. Cuando el funcionamiento del establecimiento ponga en riesgo o peligro la vida o la salud en los usuarios, vecinos, trabajadores o interfieran con la protección civil; y
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
 
-III. Cuando el establecimiento mercantil opere un giro distinto al manifestado en el Aviso o Permiso.
+II. Cuando el funcionamiento del establecimiento ponga en riesgo o peligro la vida o la salud en los usuarios, vecinos, trabajadores o interfieran con la protección civil;
+
+> <small>(REFORMADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+III. Cuando el establecimiento mercantil opere un giro distinto al manifestado en el Aviso o Solicitud de Permiso, y
+
+> <small>(ADICIONADA, G.O. 14 DE FEBRERO DE 2012)</small>
+
+IV. Cuando el aforo sea superior a 100 personas, no cuenten con programa interno de protección civil, el Titular del establecimiento no hubiere obtenido el dictamen técnico favorable previsto en el artículo 8 Bis o no cuenten con el visto bueno de la Secretaría de Gobierno a que se refiere el artículo 27 Bis, ambos artículos de esta Ley.
 
 La suspensión temporal de actividades durará hasta en tanto se subsanen las irregularidades. En caso de ser necesario el titular solicitará a la Delegación el levantamiento provisional del estado de suspensión a efecto de subsanar las irregularidades que propiciaron dicho estado y/o para llevar a cabo las acciones que permitan la conservación de los bienes en el establecimiento.
 
@@ -1320,9 +1422,11 @@ Sexto.- La Secretaría de Desarrollo Urbano y Vivienda tendrá un plazo de tres 
 
 Durante ese lapso, la Secretaría de Desarrollo Urbano y Vivienda resolverá sobre las solicitudes de expedición de los certificados correspondientes, en un plazo máximo de 10 días hábiles, cuando el solicitante exprese que los datos de los mismos se manifestarán en el Aviso para el funcionamiento de un establecimiento mercantil.
 
-Séptimo.- Los titulares de establecimientos mercantiles que a la fecha de entrada en vigor de esta Ley se encuentren funcionando con declaración de apertura o licencia de funcionamiento ordinaria o licencia de funcionamiento especial, tendrán la obligación de ingresar el Aviso o Solicitud de Permiso al Sistema, en un plazo de seis meses, el cual se contará a partir de que inicie la operación de dicho Sistema, en cuyo caso no se generará pago alguno de derechos.
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
-Asimismo, ingresarán al Sistema el Aviso o Solicitud de Permiso, según sea el caso, en la fecha en la que se actualice el vencimiento de la licencia que le fue otorgada originalmente. Es decir, el Aviso o Solicitud de Permiso que ingrese de conformidad con el párrafo anterior dejará de tener efectos en el momento en el que venza la licencia referida, momento en el cual deberán ingresar al Sistema el Aviso o Solicitud de Permiso de conformidad con lo previsto en la presente Ley.
+Séptimo.- Los titulares de establecimientos mercantiles que a la fecha de entrada en vigor de esta Ley se encuentren funcionando con declaración de apertura o licencia de funcionamiento ordinaria o licencia de funcionamiento especial, tendrán la obligación de ingresar el Aviso o Solicitud de Permiso al Sistema, en un plazo de doce meses, el cual se contará a partir de que inicie la operación de dicho Sistema, trámite que no generará pago alguno de derechos.
+
+Asimismo, ingresarán al Sistema el Aviso o Solicitud de Permiso, según sea el caso, en la fecha en la que se actualice el vencimiento de la licencia que le fue otorgada originalmente. Es decir, el Aviso o Solicitud de Permiso que ingrese de conformidad con el párrafo anterior dejará de tener efectos en el momento en el que vencía la licencia de funcionamiento ordinaria o especial, momento en el cual deberán ingresar al Sistema el Aviso o Solicitud de Permiso de conformidad con lo previsto en la presente Ley.
 
 Octavo.- El Jefe de Gobierno contará con un plazo de 90 días naturales posteriores a la entrada en vigor de la presente Ley para poner en funcionamiento las medidas encaminadas a cumplir con las obligaciones establecidas en las fracciones VIII, IX, X y XI del artículo 4 de la presente Ley.
 
@@ -1335,3 +1439,13 @@ Décimo Primero.- Los establecimientos mercantiles de impacto zonal tendrán un 
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de enero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 14 DE FEBRERO DE 2012.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- De conformidad con lo señalado en artículo 8 Bis de esta Ley, el Titular de la Secretaría de Gobierno del Distrito Federal, en un plazo no mayor a treinta días naturales convocará a los integrantes del Consejo de Evaluación de Riesgos, para que establezcan los lineamientos, mecanismos de funcionamiento y de operación del Consejo de Evaluación de Riesgos, mismos que serán publicados en la Gaceta Oficial del Distrito Federal, dentro de los cinco primeros días hábiles de su aprobación.
+
+Tercero.- Publíquese en la Gaceta Oficial del Distrito Federal.
