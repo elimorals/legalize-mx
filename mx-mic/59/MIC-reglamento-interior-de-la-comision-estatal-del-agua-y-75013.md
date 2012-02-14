@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-comision-estatal-del-agua-y-75013"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-24"
-last_updated: "2010-05-24"
+last_updated: "2012-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA Y GESTIÓN DE CUENCAS DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 24 de mayo del 2010.
 
@@ -309,9 +309,17 @@ XXV. Participar en el Sistema Estatal de Protección Civil y apoyar en la aplica
 
 XXVI. Integrar el registro de la evolución de los almacenamientos en lagos, vasos, embalses y flujo de las corrientes en los ríos;
 
-XXVII. Establecer lineamientos de control de malezas y micromalezas acuáticas y su mantenimiento a niveles adecuados en los cuerpos de agua y en las obras de distritos de riego; y,
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2012)</small>
 
-XXVIII. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
+XXVII. Establecer lineamientos de control de malezas y micromalezas acuáticas y su mantenimiento a niveles adecuados en los cuerpos de agua y en las obras de distritos de riego;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2012)</small>
+
+XXVIII. Coordinar y supervisar la operación y mantenimiento de la Presa Francisco J. Múgica; y,
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2012)</small>
+
+XXIX. Las demás que le señale el Coordinador General y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO VII. DE LA SUBDIRECCIÓN TÉCNICA
 
@@ -543,7 +551,7 @@ XV. Supervisar y coordinar el pago de sueldos del personal de la Comisión, para
 
 XVI. Dar cumplimiento a las Condiciones Generales de Trabajo, difundirlas entre el personal de la Comisión, mantener actualizado el escalafón de los trabajadores y promover la difusión del mismo;
 
-XVII. Participar en el análisis, revisión y elaboración de las propuestas de modificación y actualización de la estructura orgánica de las Unidades Administrativas;
+XVII. Participar en el análisis, revisión y elaboración de las propuestas de modificación y actualización de la estructura orgánica de-las Unidades Administrativas;
 
 XVIII. Integrar el programa anual de adquisiciones y requerimientos de materiales, servicios y equipo de trabajo para el funcionamiento administrativo de la Comisión, previo acuerdo con los titulares de las Unidades Administrativas respectivas;
 
@@ -643,7 +651,7 @@ II. Rendir un informe de actividades al término de su ejercicio;
 
 III. Informar al Coordinador General de los acuerdos adoptados en las sesiones que celebre el Consejo Consultivo, así como del informe correspondiente a su ejercicio; y,
 
-IV Presidir las sesiones del Consejo Consultivo, y en caso de empate, dar su voto de calidad.
+IV. Presidir las sesiones del Consejo Consultivo, y en caso de empate, dar su voto de calidad.
 
 ### CAPÍTULO XIV. DE LOS COMITÉS DE CUENCAS
 
@@ -768,3 +776,11 @@ LA SECRETARIA DE URBANISMO Y MEDIO AMBIENTE
 CATALINA ROSAS MONGE
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE FEBRERO DE 2012.
+
+Artículo primero. El Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo segundo. Se derogan todas las disposiciones legales y administrativas en lo que se opongan al Decreto.
