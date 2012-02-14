@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2009-12-29"
+last_updated: "2012-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY DE PLANEACIÓN PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -421,11 +421,25 @@ II. Los Regidores que presidan las comisiones edilicias con funciones de planeac
 
 III. Las dependencias de la administración pública municipal con funciones de planeación;
 
-IV. La representación de las dependencias estatales y federales con funciones de planeación y que operen en los municipios, conforme a las leyes aplicables;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2012)</small>
 
-V. Representantes de los órganos del sector privado en el municipio; y
+IV. Los delegados o agentes municipales;
 
-VI. Representantes de los Consejos o Juntas que promuevan la participación social y que por ordenamiento legal existan en el municipio y de las organizaciones del sector social.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2012)</small>
+
+V. La representación de las dependencias estatales y federales con funciones de planeación y que operen en los municipios, conforme a las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2012)</small>
+
+VI. Representantes de los órganos del sector privado en el municipio, y
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2012)</small>
+
+VII. Representantes de los consejos o juntas que promueven la participación social y que por ordenamiento legal existan en el municipio y de las organizaciones del sector social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE FEBRERO DE 2012)</small>
+
+Se promoverá además la participación de los delegados y agentes municipales, por el conocimiento que estos tienen de las necesidades de las diferentes comunidades que integran el municipio.
 
 ###### Artículo 43.
 
@@ -577,7 +591,9 @@ Dentro del Sistema Estatal de Planeación Democrática, tendrá lugar la partici
 
 Todos los particulares podrán participar con sus opiniones y propuestas en las distintas etapas de la planeación estatal, regional y municipal, a través de las mesas de trabajo y foros de consulta que sean convocados para tal efecto.
 
-Solo las organizaciones privadas y sociales legalmente constituidas podrán participar directamente en el proceso de la planeación, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los Municipios y de los Subcomités Regionales.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2012)</small>
+
+Sólo las organizaciones privadas y sociales legalmente constituidas podrán participar directamente en el proceso de la planeación, a través de su integración en los respectivos Comités de Planeación para el Desarrollo del Estado y de los Municipios y de los Subcomités Regionales; llevando control de la recepción de las invitaciones que se les formule, garantizando con ello su participación.
 
 > <small>(REFORMADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -797,7 +813,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FELIPE DE JESÚS PRECIADO CORONADO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE FEBRERO DE 2004.
 
@@ -816,3 +832,7 @@ SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus 
 P.O. 29 DE DICIEMBRE DE 2009.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE FEBRERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
