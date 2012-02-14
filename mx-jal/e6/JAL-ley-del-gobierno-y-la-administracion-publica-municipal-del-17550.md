@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2011-10-22"
+last_updated: "2012-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO
+LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -45,7 +45,7 @@ Las disposiciones de la presente ley son de orden e interés público y regulan 
 
 ###### Artículo 2.
 
-El Municipio libre es un nivel de gobierno, así como la base de la organización política y administrativa y de la división territorial del Estado de Jalisco; tiene personalidad jurídica y patrimonio propios (sic); y las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, y en la presente ley.
+El Municipio libre es un nivel de gobierno, así como la base de la organización política y administrativa y de la división territorial del Estado de Jalisco; tiene personalidad jurídica y patrimonio propios; y las facultades y limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, en la particular del Estado, y en la presente ley.
 
 ###### Artículo 3.
 
@@ -479,7 +479,7 @@ Cuando se declare la desintegración de un Ayuntamiento se debe proceder en los 
 
 Corresponde al Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes, declarar la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, previo el cumplimiento del derecho de audiencia y defensa del o los afectados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
 ###### Artículo 23.
 
@@ -719,7 +719,7 @@ Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, e
 
 II. Aprobar y aplicar su presupuesto de egresos, bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1269,7 +1269,7 @@ Las faltas temporales de los jueces municipales hasta por dos meses, serán cubi
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 60.
 
@@ -1307,7 +1307,7 @@ a) En los Municipios en los que el Ayuntamiento esté integrado hasta por catorc
 
 b) En los Municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### Artículo 63.
 
@@ -1389,7 +1389,7 @@ La figura a que se refiere este artículo requiere de su establecimiento en los 
 
 ### CAPITULO I. De la Hacienda Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
 ###### ARTÍCULO 68.
 
@@ -1507,23 +1507,23 @@ Además de los ingresos que forman parte de la Hacienda Municipal, los municipio
 
 El ejercicio de las aportaciones federales para fines específicos debe preverse en los presupuestos de egresos de los municipios y formará parte de la cuenta pública municipal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 ###### Artículo 79.
 
 El Congreso del Estado debe aprobar las leyes de ingresos de los municipios. Los presupuestos de egresos deben ser aprobados por los Ayuntamientos, con base en sus ingresos disponibles, planes municipales de desarrollo, programas que señalen los objetivos, las metas con base en indicadores de desempeño y las unidades responsables de su ejecución, traducidos en capítulos, conceptos y partidas presupuéstales, así como a los principios de racionalidad, austeridad, disciplina presupuestal, motivación, certeza, equidad y proporcionalidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE JULIO DE 2008)</small>
 
 Dichos indicadores de desempeño corresponden a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año expresado en términos de cobertura, eficiencia, impacto económico y social, calidad y equidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PARRAFO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2008)</small>
 
 Asimismo, los presupuestos se sujetan a las siguientes reglas:
 
@@ -1587,7 +1587,7 @@ VIII. Deuda Pública.
 
 b) Los capítulos respectivos se dividen en conceptos, o sea, en grupos de autorización de naturaleza semejante;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2007)</small>
 
 c) Los conceptos se dividen a su vez en partidas que representen en forma específica el gasto público.
 
@@ -1757,7 +1757,7 @@ Respecto de los bienes inmuebles, en dicho registro debe constar el destino de c
 
 Toda persona tiene derecho a consultar la información del registro público a que se refiere este artículo y obtener constancia del mismo, previa solicitud y pago de los derechos que correspondan, que para tal efecto se hará de conformidad con lo que establezca el reglamento que expida el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 93.
 
@@ -1855,7 +1855,7 @@ V. El Congreso del Estado debe resolver mediante votación por mayoría absoluta
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 95.
 
@@ -1893,7 +1893,7 @@ Los Municipios, previo acuerdo entre sus Ayuntamientos, pueden coordinarse para 
 
 Los citados convenios deben cumplir los requisitos que señala el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
 ###### Artículo 98.
 
@@ -1913,7 +1913,7 @@ I. LA SOLICITUD AL CONGRESO DEL ESTADO, POR PARTE DEL AYUNTAMIENTO, FIRMADA POR 
 
 II. LA CONSTANCIA MEDIANTE LA CUAL, EL AYUNTAMIENTO DEMUESTRE HABER SOLICITADO AL PODER EJECUTIVO DEL ESTADO QUE SE HICIERA CARGO, POR VÍA DE CONVENIO, DE UNA FUNCIÓN O SERVICIO PÚBLICO MUNICIPAL Y ÉSTE NO HUBIERA CONTESTADO EN EL PLAZO DE CUARENTA Y CINCO DÍAS O LO HUBIERA NEGADO EXPRESAMENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2001)</small>
 
 ###### Artículo 99.
 
@@ -2143,7 +2143,7 @@ Si el afectado está conforme con el monto de la indemnización, la cantidad que
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 119.
 
@@ -2235,21 +2235,19 @@ Para los efectos de la presente ley, los comités de planeación para el desarro
 
 Cada ayuntamiento determina si estos comités forman parte de la administración pública municipal o funcionan exclusivamente como órganos ciudadanos de consulta.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 125.
 
-Los comités de planeación para el desarrollo municipal están integrados por representantes de los sectores público, privado y social del Municipio, son presididos por el Presidente Municipal y cuentan con las atribuciones que establezca la ley estatal en materia de planeación y los reglamentos aplicables.
+Los Comités de Planeación para el Desarrollo Municipal cuentan con las atribuciones que establezcan la ley estatal en materia de planeación y los reglamentos aplicables.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 126.
 
-La forma de integración, organización y funcionamiento de los comités de planeación para el desarrollo municipal se regula en los reglamentos municipales, atendiendo además, a lo dispuesto por la ley estatal en materia de planeación.
+La integración de los Comités de Planeación para el Desarrollo Municipal será la que establezca la ley estatal en materia de planeación.
+
+La organización y funcionamiento de los Comités de Planeación para el Desarrollo Municipal se regula en los reglamentos municipales, sin perjuicio de lo dispuesto por la ley estatal en materia de planeación.
 
 ## TITULO NOVENO. DE LAS RELACIONES DEL MUNICIPIO CON SUS SERVIDORES Y DE LA SEGURIDAD SOCIAL
 
@@ -2269,7 +2267,7 @@ Los servidores públicos de base serán inamovibles, una vez transcurridos seis 
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 128.
 
@@ -2357,7 +2355,7 @@ El recurso de revisión se presenta con expresión de agravios acompañado de la
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 134.
 
@@ -2413,7 +2411,7 @@ La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios e
 
 (NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2007)</small>
 
 ###### Artículo 141.
 
@@ -2497,11 +2495,11 @@ Artículo 147 bis. Para efectos de registro, control y verificación, los Ayunta
 
 Los munícipes que incumplan esta obligación, incurrirán en responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO UNDECIMO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De los Medios de Defensa
 
@@ -2521,7 +2519,7 @@ El acto administrativo municipal es toda manifestación unilateral y externa de 
 
 El acto administrativo municipal se sujetará a las reglas y disposiciones del Título Primero y del Titulo Segundo de la Sección Primera de la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 150.
 
@@ -2593,7 +2591,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FELIPE DE JESÚS PRECIADO CORONADO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE ABRIL DE 2001.
 
@@ -2825,13 +2823,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del presente decreto, para reformar o expedir los reglamentos municipales que se adecuen a las presentes reformas. En tanto no se reformen o se expidan dichos reglamentos, los actos y procedimientos administrativos municipales se seguirán rigiendo por lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-P.O. 25 DE DICIEMBRE DE 2008.
-
-Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
 P.O. 10 DE FEBRERO DE 2009.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE DICIEMBRE DE 2008.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 29 DE DICIEMBRE DE 2009.
 
@@ -2843,13 +2841,13 @@ SEGUNDO. El artículo Segundo del presente decreto entrará en vigor al día sig
 
 P.O. 31 DE DICIEMBRE DE 2009.
 
-DECRETO No. 23079/LVII/09 POR EL QUE SE REFORMAN LOS ARTICULOS 14, 24, 42 FRACCION VI, 47 FRACCION XII, 49 FRACCION IX, 52 FRACCION V, 68, 79 FRACCION II, INCISO D), 121, 122 Y 127 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+DECRETO No. 23079/LVII/09 POR EL QUE SE REFORMAN LOS ARTÍCULOS 14, 24, 42 FRACCIÓN VI, 47 FRACCIÓN XII, 49 FRACCIÓN IX, 52 FRACCIÓN V, 68, 79 FRACCIÓN II, INCISO D), 121, 122 Y 127 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 P.O. 31 DE DICIEMBRE DE 2009.
 
-DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTÍCULO 79 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -2863,7 +2861,7 @@ P.O. 18 DE JUNIO DE 2011.
 
 P.O. 22 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 23598/LIX/11 POR EL QUE SE REFORMA EL ARTICULO 4° DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+DECRETO NUMERO 23598/LIX/11 POR EL QUE SE REFORMA EL ARTÍCULO 4° DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO.
 
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -2871,6 +2869,10 @@ SEGUNDO. En todas las disposiciones legales, administrativas o reglamentarias, r
 
 P.O. 22 DE OCTUBRE DE 2011.
 
-DECRETO NUMERO 23599/LIX/11 POR EL QUE SE REFORMA EL ARTICULO 35 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+DECRETO NUMERO 23599/LIX/11 POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 14 DE FEBRERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
