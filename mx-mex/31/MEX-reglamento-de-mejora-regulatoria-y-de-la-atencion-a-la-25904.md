@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-mejora-regulatoria-y-de-la-atencion-a-la-25904"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-22"
-last_updated: "2002-08-22"
+last_updated: "2012-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE MEJORA REGULATORIA Y DE LA ATENCION A LA ACTIVIDAD EMPRESARIAL
 
-REGLAMENTO DE MEJORA REGULATORIA Y DE LA ATENCION A LA ACTIVIDAD EMPRESARIAL
+REGLAMENTO DE MEJORA REGULATORIA Y DE LA ATENCIÓN A LA ACTIVIDAD EMPRESARIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 15 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 22 de agosto de 2002.
 
@@ -412,3 +414,29 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 15 DE FEBRERO DE 2012.
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Tercero.- Se abroga el Reglamento de Mejora Regulatoria y de la Atención a la Actividad Empresarial del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" en fecha 22 de agosto del año 2002.
+
+Cuarto.- La Comisión emitirá los Lineamientos Tipo para la integración y operación de los Comités Internos dentro de los sesenta días hábiles siguientes a partir de la entrada en vigor del presente Reglamento.
+
+Quinto.- Los Comités Internos deberán estar constituidos, a más tardar dentro de los treinta días hábiles siguientes a aquél en que se emitan los Lineamientos Tipo de su integración.
+
+Sexto.- La (sic) Comités Internos elaborarán y enviará a la Comisión sus Lineamientos, dentro de los diez días hábiles siguientes a la constitución de ésta.
+
+Séptimo.- Los Comités Internos realizarán su primera reunión de trabajo, dentro de los quince días hábiles siguientes a la publicación de los Lineamientos a que se refiere el artículo anterior.
+
+Octavo.- La Comisión emitirá los Lineamientos para la integración y actualización de la información que debe ser inscrita en el Registro Estatal de Trámites y Servicios, y el Instructivo para la Integración de las Cédulas de Registro dentro de los noventa días naturales siguientes a la constitución formal de la Comisión, los cuales deberán publicarse en el Periódico Oficial "Gaceta del Gobierno" dentro de los diez días hábiles siguientes. Una vez publicados dichos instrumentos, las dependencias deberán, dentro de los sesenta días hábiles siguientes, integrar su información en las Cédulas de Registro y enviarlas a la Comisión para los efectos legales y reglamentarios correspondientes.
+
+Noveno.- La Comisión y las dependencias colocarán los aplicativos informáticos respectivos, dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento.
+
+Décimo.- La Comisión emitirá los Lineamientos, criterios, instructivos y demás instrumentos normativos necesarios para la observancia y aplicación de la Ley, dentro de los cuatro meses siguientes a la entrada en vigor del presente Reglamento.
+
+Décimo Primero.- Hasta en tanto la Comisión emita los Lineamientos, instructivos, manuales y demás normatividad relacionada con la Ley para la Mejora Regulatoria del Estado de México y Municipios y para el ejercicio de sus facultades, seguirán observándose las disposiciones reglamentarias vigentes hasta antes de la entrada en vigor de la Ley, en todo aquello que no la contravengan.
