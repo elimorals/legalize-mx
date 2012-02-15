@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2011-12-30"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2012.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -39,7 +39,7 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE. EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 47 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
 
 CÓDIGO Número 18
 
@@ -407,7 +407,7 @@ Los responsables solidarios proporcionarán, a solicitud de las autoridades, la 
 
 El crédito fiscal es la obligación fiscal determinada en cantidad líquida proveniente de impuestos, derechos y aprovechamientos que tiene derecho a percibir el Estado o sus organismos descentralizados, así como los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de particulares, incluyendo aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 36.
 
@@ -573,7 +573,7 @@ Si dentro de dicho plazo no se efectúa la devolución, el Fisco del Estado paga
 
 La compensación entre particulares y el fisco estatal, entre el Estado y la Federación, demás Entidades Federativas y Municipios, podrá ser realizada respecto de cualquier clase de contribuciones, aprovechamientos, créditos o deudas, si unos y otros son líquidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JULIO DE 2002)</small>
 
 ###### Artículo 48.
 
@@ -725,7 +725,7 @@ Las instancias o peticiones que se formulen a las autoridades fiscales se resolv
 
 En materia fiscal, el silencio de las autoridades fiscales no se considerará como afirmativa ficta de las solicitudes, y dará lugar a la interposición de los recursos legales a que haya lugar cuando no se dé respuesta en el término que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
 ###### Artículo 59.
 
@@ -797,7 +797,7 @@ V. Canje de placas, tarjeta de circulación y calcomanía numeral, dentro del pl
 
 Los sujetos pasivos y los retenedores a que se refiere este artículo, citarán el número de registro que les sea asignado por la Secretaría en las declaraciones, manifestaciones, promociones, solicitudes o gestión que realicen ante la Oficina de Hacienda o autoridad fiscal competente. Cuando la autoridad fiscal ordene su verificación, exhibirán el documento que acredite su inscripción al citado registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 61.
 
@@ -1149,7 +1149,7 @@ c) De dos a nueve años de prisión, al que altere en sus características las p
 
 d) De dos a ocho años de prisión y una multa de 30 a 500 días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 96.
 
@@ -1215,13 +1215,13 @@ V. Altere documentación oficial o expida una falsa en cualquier tipo de trámit
 
 ## TÍTULO PRIMERO. DE LOS IMPUESTOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO PRIMERO. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1245,7 +1245,7 @@ Para efectos del presente artículo, se entenderá por personas morales a todas 
 
 Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los Gobiernos Federal, Estatal y Municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de Gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1257,9 +1257,9 @@ La base del impuesto es el monto total de las erogaciones realizadas por concept
 
 Este impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base que señala el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 102.
 
@@ -1285,9 +1285,9 @@ a) Solicitar la devolución de la cantidad pagada indebidamente.
 
 b) Compensar las cantidades que tenga a su favor contra el importe que deba enterar en el mes siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 103.
 
@@ -1353,7 +1353,7 @@ f) Unidad agrícola industrial de la mujer campesina.
 
 g) Colonias agrícolas y ganaderas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1371,13 +1371,13 @@ Tratándose de empresas de nueva creación, las personas morales y las personas 
 
 II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 III. Dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal por medio de contador público autorizado, en los términos y plazos del Código Fiscal de la Federación y de las demás disposiciones legales y tributarias aplicables, y de conformidad con las reglas de carácter general que al efecto expidan las autoridades fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 105.
 
@@ -1387,13 +1387,13 @@ La recaudación total proveniente del impuesto a que se refiere este capítulo, 
 
 Al efecto, el Gobierno del Estado constituirá un fideicomiso al que se destinará el 100% de la recaudación obtenida por este impuesto. El Comité Técnico del Fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la entidad. En el Comité el Poder Ejecutivo y el sector privado tendrán igual número de representantes y se ajustarán en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado. Además estará facultado para conocer y, en su caso, aprobar y controlar los proyectos de obras y acciones públicas, así como fijar el monto destinado al otorgamiento de créditos que se sometan a su aprobación, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 En casos excepcionales, el Ejecutivo del Estado, previa aprobación del Congreso, podrá afectar un porcentaje de la recaudación que se obtenga del Impuesto Sobre Erogaciones por Remuneraciones al trabajo Personal al pago de Obligaciones contraídas de conformidad con el Título Quinto del Libro Quinto del presente Código, para financiar el gasto público en el rubro de obra pública, obligaciones que incluirán, en su caso, todos los gastos directos o indirectos relacionados con los financiamientos respectivos, durante la vigencia de los mismos y siempre y cuando los recursos derivados de dichos financiamientos, menos en su caso, las cantidades necesarias para cubrir los gastos de estructuración y ejecución de los financiamientos, así como las reservas correspondientes, se aporten invariablemente al fideicomiso público a que se refiere este artículo y se destinen íntegramente a financiar el gasto público en el rubro de obra pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -1503,7 +1503,7 @@ Son sujetos de este impuesto las personas físicas o morales que obtengan ingres
 
 Es base de este impuesto los ingresos por los premios obtenidos por las personas físicas o morales, correspondientes a cada boleto o billete entero, sin deducción alguna, que den derecho a participar en loterías, rifas, sorteos y concursos efectuados por los organismos a que se refiere el artículo 118 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 121.
 
@@ -1849,11 +1849,11 @@ Tienen obligación los enajenantes de vehículos de motor, de endosar la factura
 
 Queda eximido del pago de este impuesto, cuando por el mismo concepto se cause el impuesto al valor agregado.
 
-### CAPÍTULO QUINTO. DEL IMPUESTO ADICIONAL PARA EL FOMENTO DE LA EDUCACION
+### CAPÍTULO QUINTO. DEL IMPUESTO ADICIONAL PARA EL FOMENTO DE LA EDUCACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 134.
 
@@ -1869,21 +1869,21 @@ Este impuesto se liquidará formando parte de los impuestos y derechos sobre los
 
 El ingreso que se perciba se aplicará íntegramente al fomento de la educación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO SEXTO. DEL IMPUESTO ESTATAL SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO I
 
 DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE JULIO DE 2011)</small>
 
@@ -1933,7 +1933,7 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -1973,13 +1973,13 @@ g). Automóviles eléctricos.
 
 IX. Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 B. Las dependencias, las entidades, los organismos autónomos, los Municipios, los organismos descentralizados, la Federación, los Poderes Estatales o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en el mismo se señalan, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -1993,21 +1993,21 @@ III. Las autoridades competentes, que autoricen el registro de vehículos, permi
 
 Las autoridades estatales competentes solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en su territorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 D. Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO II
 
 AUTOMÓVILES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2057,7 +2057,7 @@ III. Tratándose de automóviles de más de diez años modelos anteriores al de 
 
 Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2075,27 +2075,27 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Los tenedores o usuarios de los vehículos a que se refieren las fracciones anteriores, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO III
 
 OTROS VEHÍCULOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 G. Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 H. Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2123,7 +2123,7 @@ $ $ $ %
 
 369,693.58 En adelante 25,117.08 16.8
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2145,13 +2145,13 @@ HELICÓPTEROS 551.00
 
 Tratándose de motocicletas de más de diez años modelos anteriores al de aplicación de este Capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
 Artículo 136 K. Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2169,15 +2169,15 @@ V. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransp
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO IV
 
 VEHÍCULOS USADOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2207,7 +2207,7 @@ Años de antigüedad Factor
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos, a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2217,7 +2217,7 @@ I. El valor total del automóvil se multiplicará por el factor de depreciación
 
 II. El resultado obtenido se multiplicará por 0.245%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2251,7 +2251,7 @@ b) Al resultado se le aplicará la tarifa a que hace referencia el artículo 136
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2305,7 +2305,7 @@ b) Al resultado se le aplicará la tasa a que hace referencia el artículo 136 H
 
 Para los efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2339,15 +2339,15 @@ A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa 
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO V
 
 Obligaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2355,15 +2355,15 @@ Artículo 136 Q. Los fabricantes, ensambladores y distribuidores autorizados, as
 
 Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos y por cada municipio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE JULIO DE 2011)</small>
 
 APARTADO VI
 
 Destino del Impuesto
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE JULIO DE 2011)</small>
 
@@ -2385,7 +2385,7 @@ Las cuotas señaladas en este Título para certificados o copias certificadas se
 
 El importe de las tasas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertos en las Oficinas de Hacienda o cobraduría debidamente establecidas, o bien en los lugares o instituciones bancarias previamente autorizadas por la Secretaría, de la jurisdicción donde se preste el servicio, con quienes se hayan celebrado convenios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 138.
 
@@ -2405,7 +2405,7 @@ En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado 
 
 Por servicios prestados por la Secretaría de Gobierno, a través de las dependencias que se mencionan a continuación, se causarán y pagarán los derechos siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 A. Por servicios del Registro Público de la Propiedad:
 
@@ -2637,7 +2637,7 @@ XXVI. Por la expedición de copias certificadas del folio mercantil, por hoja se
 
 XXVII. Por la inscripción, cancelación o anotación de cualquier otro acto no comprendido en las fracciones anteriores, relativos a folios mercantiles: 5 salarios mínimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 XXVIII. Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
@@ -2701,13 +2701,13 @@ VI. Por la expedición de testimonios de los protocolos depositados. 10 salarios
 
 VII. Por la expedición de copias certificadas de documentos de los protocolos depositados. 4 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2009)</small>
 
 VIII. Por el cotejo y certificación de firmas y sellos de notarios públicos en el Estado: 4 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2009)</small>
 
@@ -3059,7 +3059,7 @@ c) Firmas de funcionarios de Gobierno del Estado. 5 salarios mínimos
 
 II. Por registro o diligenciación de exhortos. 7 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 III. Por actos realizados por la Dirección General del Registro Civil, como son:
 
@@ -3271,7 +3271,7 @@ B. Por la certificación de documentos públicos, o por la expedición de copias
 
 C. Por registro y control de vehículos de servicio privado:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
 I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación:
 
@@ -3283,7 +3283,7 @@ a) Para automóvil, camión y ómnibus: 10 salarios mínimos
 
 b) Para remolque y motocicleta: 5 salarios mínimos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -3297,7 +3297,7 @@ b) Remolque y motocicleta 5 salarios
 
 mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
 III. Baja de vehículo en el Registro Estatal de Contribuyentes por siniestro, robo, inutilidad del vehículo, cambio de propietario, de servicio, o a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral y pérdida de una o las dos placas:
 
@@ -3339,7 +3339,7 @@ D. Por Registro y control de vehículos de servicio público:
 
 I. Alta en el Registro Estatal de Contribuyentes de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación expedida por la Dirección General de Tránsito y Transporte del Estado, para taxi, colectivo, escolar, exclusivo turismo, transporte de personal de empresas, urbano, suburbano y foráneo, rural mixto, carga general, carga materialista y carga especializada: 8 salarios mínimos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -3353,7 +3353,7 @@ mínimos
 
 III. Reposición de tarjeta de circulación por robo, extravío o deterioro de la misma, así como por fusión o escisión de sociedades. 2.5 salarios mínimos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2003)</small>
 
 IV. Baja de vehículos en el Registro Estatal de Contribuyentes por: siniestro, robo, inutilidad del vehículo, cambio de propietario, cambio de servicio, reasignación, transferencia por cesión de derechos de una concesión, o por el fallecimiento del titular de una concesión: cambio a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral y pérdida de una o las dos placas:
 
@@ -3527,7 +3527,7 @@ b) Por Minuto excedente. 0.05 salarios mínimos
 
 II. Abonados. Telefónicos en línea comunal de magneto, mensualmente. 1 salario mínimo
 
-(REFORMADA SU DENOMINACION, P.O. 26 DE ENERO DE 2010
+(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ENERO DE 2010
 
 ### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN
 
@@ -3731,7 +3731,7 @@ No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualq
 
 2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional a los maestros con título específico para enseñanza en cualquiera de sus grados.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO SOCIAL Y MEDIO AMBIENTE
 
@@ -4033,7 +4033,7 @@ Por concesión para operar centro verificador para todo tipo de vehículo automo
 
 1,240 salarios mínimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 148.
 
@@ -4233,7 +4233,7 @@ III. Por información grabada en disco de 3.5 pulgadas o disco compacto, por cop
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -4497,7 +4497,7 @@ Durante el mes de agosto de cada año, la Secretaría dará a conocer a las unid
 
 ### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE OCTUBRE DE 2005)</small>
 
 ###### Artículo 164.
 
@@ -4509,7 +4509,7 @@ Si al 31 de diciembre no se han aprobado la Ley de Ingresos y el Decreto de Pres
 
 Las unidades presupuestales están impedidas para presentar al Congreso modificación alguna a la iniciativa de Decreto de Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 166.
 
@@ -4685,17 +4685,19 @@ Los órganos de gobierno de las entidades reportarán en tiempo y forma a la Sec
 
 El Ejecutivo del Estado podrá ordenar las modificaciones presupuestales de las entidades no incorporadas al presupuesto estatal, mismas que informarán a la Secretaría los cambios efectuados, los que se integrarán al informe trimestral correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 185.
 
-Corresponde a las respectivas unidades administrativas de los Poderes Legislativo y Judicial y de los Organismos Autónomos de Estado, en el ejercicio del gasto público, presupuestar, programar, ejercer y registrar los recursos financieros, humanos y materiales que tengan asignados, de conformidad con lo dispuesto por este Código, sus correspondientes leyes y demás disposiciones aplicables. Dichas unidades administrativas tendrán, en lo conducente las responsabilidades que para éstas dispone el artículo siguiente:
+Corresponde a las respectivas unidades administrativas de los Poderes Legislativo y Judicial y de los Organismos Autónomos de Estado, en el ejercicio del gasto público, presupuestar, programar, ejercer y registrar los recursos financieros, humanos y materiales que tengan asignados, de conformidad con lo dispuesto por este Código, la Ley General de Contabilidad Gubernamental, sus correspondientes leyes y demás disposiciones aplicables. Dichas unidades administrativas tendrán, en lo conducente, las responsabilidades que para éstas dispone el artículo siguiente.
 
-Cuando, por la naturaleza de las funciones que correspondan a la dependencia, o cuando el volumen de las operaciones, lugar en donde se efectúe el gasto o por existir circunstancias especiales, se requiera la existencia de coordinaciones administrativas para determinadas áreas, el titular de la dependencia correspondiente determinará su instalación, previo acuerdo con el Gobernador del Estado.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+
+Cuando, por la naturaleza de las funciones que correspondan a la dependencia, o cuando el volumen de las operaciones, lugar en donde se efectúe el gasto o por existir circunstancias especiales, se requiera la existencia de coordinaciones o enlaces administrativos para determinadas áreas, el Titular de la dependencia correspondiente determinará su instalación, previo acuerdo con el Gobernador del Estado.
 
 Para el ejercicio del gasto público, las coordinaciones administrativas tendrán las mismas facultades que la unidad administrativa, salvo las que se señalen como exclusivas de esta última.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 186.
 
@@ -5027,7 +5029,7 @@ Corresponde a la unidad administrativa de cada dependencia elaborar el programa 
 
 La unidad administrativa determinará la pertinencia de consolidar los requerimientos de adquisiciones y contratación de servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 215.
 
@@ -5061,7 +5063,7 @@ En todos los casos anteriores, la Secretaría, a través de la Dirección Genera
 
 Tratándose de procedimientos expropiatorios, servirá de base para el pago de la indemnización el valor catastral del bien, de conformidad con la legislación de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 Excepcionalmente, la Secretaría, a través de la Dirección General del Patrimonio del Estado erogará una cantidad superior al avalúo catastral de los bienes, en los siguientes casos:
 
@@ -5075,7 +5077,7 @@ III. Tratándose de procedimientos expropiatorios en los cuales se convenga con 
 
 Para todos los casos referidos en este artículo, la Dirección General del Patrimonio del Estado acreditará que procede efectuar un pago superior al avalúo catastral, basado en un dictamen emitido por institución de crédito, perito calificado o por el Instituto de Administración y Avalúos de Bienes Nacionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 218.
 
@@ -5393,265 +5395,277 @@ I. Si es sobrante, ordenará su registro en la contabilidad haciéndolo del cono
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Secretaría. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto sé de entrada a las cantidades o valores faltantes, practicará las investigaciones necesarias, y su resultado lo hará del conocimiento de la autoridad competente, para los efectos que procedan conforme a la ley.
 
-## TÍTULO QUINTO. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2012)</small>
+
+## TÍTULO QUINTO. DE LA CONTABILIDAD GUBERNAMENTAL Y CUENTA PÚBLICA
 
 ### CAPÍTULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
 
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 257.
 
-El sistema de contabilidad gubernamental comprenderá la captación y el registro de las operaciones financieras, presupuestales y de consecución de metas de las unidades presupuestales, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
+La contabilidad gubernamental deberá ajustarse a las disposiciones de la Ley General de Contabilidad Gubernamental y del presente Código y demás aplicables.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 258.
 
-Las unidades presupuestales llevarán su propia contabilidad, que incluirá las cuentas para registrar, tanto los activos, pasivos, capital o patrimonio, ingresos, costos y gastos, como las asignaciones, compromisos y ejercicios correspondientes a los programas y partidas de su propio presupuesto.
+Las unidades presupuestales, a través de sus unidades administrativas u órganos equivalentes, llevarán su propia contabilidad con base en los postulados básicos a que se refieren la Ley General de Contabilidad Gubernamental y este Código, asegurándose de que el sistema de contabilidad gubernamental:
 
-Será responsabilidad de cada unidad presupuestal la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
+I. Refleje la aplicación de los principios, normas contables generales y específicas e instrumentos que se expidan en la materia;
+
+II. Facilite el reconocimiento de las operaciones de ingresos, gastos, activos, pasivos y patrimoniales de los entes públicos;
+
+III. Integre en forma automática el ejercicio presupuestario con la operación contable, a partir de la utilización del gasto devengado;
+
+IV. Permita que los registros se efectúen considerando la base acumulativa para la integración de la información presupuestaria y contable;
+
+V. Refleje un registro congruente y ordenado de cada operación que genere derechos y obligaciones derivados de la gestión económico-financiera de los entes públicos;
+
+VI. Genere, en tiempo real, estados financieros, de ejecución presupuestaria y otra información que coadyuve a la toma de decisiones, a la transparencia, a la programación con base en resultados, a la evaluación y a la rendición de cuentas; y
+
+VII. Facilite el registro y control de los inventarios de los bienes muebles e inmuebles de los entes públicos.
+
+Será responsabilidad de los titulares de cada unidad administrativa o equivalente, la confiabilidad de las cifras consignadas en su contabilidad, así como de la representatividad de los saldos de las cuentas de balance, en función de los activos y pasivos reales de la misma, adoptando para ello las medidas de control y depuración correspondientes.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 259.
 
-La Secretaría actualizará los catálogos de cuentas de la contabilidad del gasto público estatal correspondiente a cada dependencia y llevará el catálogo general de cuentas de la contabilidad gubernamental.
+El registro de las etapas del presupuesto se efectuará en las cuentas contables que deberán reflejar:
 
-Las unidades administrativas de las dependencias y entidades del Poder Ejecutivo emitirán el estado de avance presupuestal, la balanza de comprobación, el balance general y el estado de ingresos y egresos mensualmente; estos documentos deberán contener el nombre y la firma del titular de la unidad presupuestal que los origine.
+I. En lo relativo al ingreso, el estimado, modificado, devengado y recaudado; y
 
-La información financiera y presupuestal a que se refiere este artículo es la mínima que debe generarse; su elaboración será mensual e incluirá el acumulado anual.
+II. En lo relativo al gasto, el aprobado, modificado, comprometido, devengado, ejercido y pagado.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 260.
 
-El sistema de costos de las dependencias y entidades estará integrado al de contabilidad y cuantificará los recursos empleados en la ejecución de programas, subprogramas, proyectos y otras actividades.
+Para el registro único de las operaciones presupuestarias y contables, las unidades presupuestales dispondrán de catálogos de cuentas, clasificadores presupuestarios y catálogos de bienes o instrumentos similares que permitan su interrelación automática.
 
-El sistema será diseñado, implantado y operado por la unidad administrativa de cada dependencia o entidad, así como por las áreas responsables de los Poderes conforme a las necesidades de información de éstos y los requisitos que al efecto establezca la Secretaría.
-
-Las unidades presupuestales someterán a la consideración de la Secretaría las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 261.
 
-La contabilidad de las unidades presupuestales se llevará con base acumulativa para determinar costos y facilitar la formulación, control, ejercicio y evaluación de los presupuestos.
+Los registros contables de los entes públicos se llevarán con base acumulativa. La contabilización de las transacciones de gasto se hará conforme a la fecha de su realización, independientemente de la de su pago, y la del ingreso se registrará cuando exista jurídicamente el derecho de cobro.
 
-Los sistemas de contabilidad deben diseñarse y operarse en forma que facilite la fiscalización de los activos, pasivos, ingresos, costos, gastos, avances en la ejecución de programas y, en general, de manera que permita medir la eficacia y eficiencia en la aplicación de los recursos públicos.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 262.
 
-La Secretaría establecerá la forma y tiempos en que las unidades presupuestales deberán llevar su contabilidad y registros auxiliares, así como la rendición de sus informes y cuentas para fines de consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema de contabilidad de cada dependencia y, en su caso, autorizará su modificación o simplificación.
+El sistema de contabilidad gubernamental comprenderá el conjunto de registros, procedimientos, criterios e informes, estructurados sobre la base de principios técnicos comunes destinados a captar, valuar, registrar, clasificar, informar e interpretar las transacciones, transformaciones y eventos que, derivados de la actividad económica, modifican la situación patrimonial del gobierno y de las finanzas públicas de las unidades presupuestales, a efecto de integrar la información que coadyuve a la toma de decisiones, así como a la verificación y evaluación de las actividades realizadas.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 263.
 
-Los estados financieros y demás información financiera presupuestal y contable que emane de las contabilidades de las unidades presupuestales serán consolidados mensualmente por la Secretaría, quien será la responsable de formular la Cuenta de la Hacienda Pública Estatal y de someterla a consideración del Gobernador del Estado para su presentación al Congreso, en los términos de la Constitución Política local.
+El sistema de contabilidad de las unidades presupuestales permitirá la generación periódica de los estados y la información financiera siguiente:
+
+I. Programática;
+
+II. Presupuestaria;
+
+III. Contable; y
+
+IV. Notas a los estados financieros.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 264.
 
-El registro de las operaciones y la preparación de informes financieros de las unidades presupuestales, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte la Secretaría.
+La Secretaría consolidará mensualmente los estados financieros y demás información financiera presupuestal y contable, que emane de la contabilidad de las unidades presupuestales del Poder Ejecutivo.
 
-### CAPÍTULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DEL REGISTRO CONTABLE DE LAS OPERACIONES
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 265.
 
-La Secretaría emitirá los catálogos de cuentas a que se sujetarán las unidades presupuestales para el registro de sus operaciones financieras y presupuestales. Dichos catálogos estarán integrados por los siguientes grupos de cuentas:
+Las unidades presupuestales deberán registrar y valuar las operaciones y preparar sus informes financieros, de acuerdo con los postulados básicos, normas, políticas y lineamientos que se emitan de conformidad con la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
-I. Activo;
-
-II. Pasivo;
-
-III. Hacienda Pública;
-
-IV. Resultados;
-
-V. Orden, y
-
-VI. Presupuesto.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 266.
 
-La Secretaría podrá modificar los catálogos de cuentas a que se sujetarán las unidades presupuestales, en los siguientes casos:
+Las unidades presupuestales, con base en sus necesidades de administración financiera, de control y fiscalización, emitirán y modificarán sus respectivos catálogos de cuentas para el registro de las operaciones presupuestarias y contables, conforme a las bases que emita la Secretaría, mismos que serán autorizados por el órgano administrativo competente.
 
-I. Creación de un nuevo sistema;
-
-II. Requerimientos específicos de las entidades;
-
-III. Adecuaciones por reformas administrativas, y
-
-IV. Actualización de la técnica contable.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 267.
 
-El registro presupuestal de las erogaciones en las unidades presupuestales se efectuará en las cuentas que para tal efecto establezca la Secretaría, destinadas a captar los procesos siguientes:
+La Secretaría establecerá la forma en que las unidades administrativas del Poder Ejecutivo llevarán su contabilidad y registros auxiliares, así como los períodos para la rendición de sus informes y cuentas para fines de consolidación. Igualmente, examinará el funcionamiento del sistema de contabilidad de cada dependencia y entidad y, en su caso, autorizará su modificación o simplificación.
 
-I. Asignación Presupuestal, que identifica el presupuesto de la unidad presupuestal, aprobado por el Congreso, y en su caso, modificada con autorización de la Secretaría.
-
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
-
-II. Compromiso Presupuestal, referido al hecho consistente en que un monto se destina a un fin determinado, a través de un documento formal que ampara la operación y se registre con carácter de devengado; y
-
-III. Ejercicio Presupuestal, determinado por el acto de autorizar el pago correspondiente al avance de obra o a la adquisición de un bien o servicio.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 268.
 
-Las unidades presupuestales registrarán en cuentas específicas los movimientos de sus fondos asignados, tanto los que obtengan por sus propios medios y que conforme a las disposiciones legales deban administrar, como los radicados por la Secretaría.
+Las unidades presupuestales deberán mantener un registro histórico detallado de las operaciones realizadas como resultado de su gestión financiera, en los libros diario, mayor e inventarios y balances; y su contabilidad deberá contener registros auxiliares que muestren los avances presupuestarios y contables, que permitan realizar el seguimiento y evaluar la captación del ingreso y el ejercicio del gasto público.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 269.
 
-Será responsabilidad de las unidades administrativas la desagregación de las cuentas en subcuentas, subsubcuentas y demás registros complementarios que permitan el suministro de información interna para la toma de decisiones administrativas, y para el control en la ejecución de las acciones, de acuerdo con sus necesidades específicas.
+Las provisiones que, conforme al clasificador por objeto del gasto, se constituyan para hacer frente a los pasivos y la deuda pública, en términos del presente Código, serán materia de registro y valuación. Dichas provisiones deberán ser revisadas y ajustadas periódicamente para mantener su vigencia.
 
-Las unidades administrativas solicitarán a la Secretaría autorización para efectuar las modificaciones a sus catálogos de cuentas.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 270.
 
-La contabilidad de las unidades presupuestales contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
+La Secretaría podrá modificar los catálogos de cuentas a que se sujetarán las unidades presupuestales del Poder Ejecutivo, en los siguientes casos:
+
+I. Creación de un nuevo sistema;
+
+II. Requerimientos específicos de las dependencias y entidades;
+
+III. Adecuaciones por reformas administrativas; y
+
+IV. Actualización de la técnica contable.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 271.
 
-Las unidades administrativas llevarán registros auxiliares que permitan el control y conocimiento individual de los distintos saldos integrantes de cada cuenta de balance o resultados.
+Las unidades presupuestales deberán registrar sus bienes muebles e inmuebles de acuerdo con los postulados básicos, normas, políticas y lineamientos que se emitan de conformidad con la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 272.
 
-Las unidades administrativas están obligadas a resguardar y conservar en su poder y a disposición de la Secretaría, de la Contraloría y demás autoridades competentes, los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones financieras, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables.
+Las unidades presupuestales están obligadas a resguardar y conservar en su poder y poner a disposición de las autoridades competentes, en su caso, los libros, registros auxiliares e información correspondiente, así como los documentos originales justificativos y comprobatorios de sus operaciones, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 273.
 
-La Contraloría, en casos excepcionales o extraordinarios y debidamente justificados, podrá autorizar documentos que sustituyan a los comprobantes justificatorios de egresos con cargo al presupuesto a efecto de que se contabilicen las operaciones que amparen.
+Los órganos internos de control o sus equivalentes, en casos excepcionales o extraordinarios y debidamente justificados, podrán autorizar a las unidades administrativas que lo soliciten, los documentos que sustituyan a aquellos justificativos y comprobatorios de egresos, a efecto de que se contabilicen las operaciones que amparen.
 
-Las solicitudes que con tal motivo formulen las dependencias y entidades consignarán, entre otros datos: la causa de la falta de los comprobantes justificatorios, los importes, las fechas de las operaciones que amparen y la conformidad del funcionario facultado para ello. En caso de pérdida o destrucción de los documentos, la unidad administrativa amparará dicha situación con el documento público respectivo.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 274.
 
-Las unidades administrativas registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
+Para efectos de lo dispuesto en el artículo anterior, las unidades administrativas o sus equivalentes deberán consignar en las solicitudes que con tal motivo formulen, entre otros datos, la causa de la falta de los comprobantes justificatorios, los importes, así como las fechas de las operaciones que amparen.
+
+En caso de pérdida o destrucción de los documentos originales, la unidad administrativa amparará dicha situación con el documento público respectivo.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 275.
 
-Para el registro contable de las operaciones con base acumulativa, se observará lo siguiente:
+Las unidades administrativas registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
-I. En lo relativo a obras públicas, el presupuesto se considera generado y ejercido al momento de aprobarse la estimación del avance físico de las mismas por las personas autorizadas para tal efecto.
-
-II. Cuando se trate de gastos que se eroguen en forma continua, como son los servicios personales, los alquileres y la energía eléctrica, entre otros, el presupuesto se considerará ejercido al momento de efectuarse el pago.
-
-III. El registro contable de los pagos correspondientes al pasivo flotante o circulante, por operaciones de ejercicios anteriores de las unidades presupuestales, se efectuará con base en las instrucciones que sobre el particular gire la Secretaría.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 276.
 
-La Secretaría consolidará mensualmente la información que a continuación se detalla:
+Las dependencias y entidades, a través de sus unidades administrativas, enviarán a la Secretaría dentro de los primeros diez días de cada mes, la información relativa a:
 
-I. Estado Analítico de Ingresos;
+I. Estado de situación financiera;
 
-II. Estado de Ingresos y Egresos;
+II. Estado de actividades;
 
-III. Balance General o Estado de Situación Financiera;
+III. Estado de variación en la hacienda pública;
 
-IV. Balanza de Comprobación;
+IV. Estado de cambios en la situación financiera o de flujo de efectivo;
 
-V. Estado de Avance Presupuestal, y
+V. Estado analítico del activo;
 
-VI. Estado de la Deuda Pública.
+VI. Informes sobre pasivos contingentes;
 
-> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+VII. Notas a los estados financieros;
 
-La información financiera que la Secretaría consolidará con respecto a los fideicomisos en los que tenga el carácter de Fideicomitente, será la que generen las instituciones que tengan a su cargo la encomienda fiduciaria, misma que se integrará por el informe de ingreso y gasto del periodo correspondiente.
+VIII. Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
+
+IX. Estado analítico del ejercicio del presupuesto de egresos;
+
+X. Indicadores de resultados; y
+
+XI. La demás que requiera la Secretaría.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 277.
 
-Las dependencias y entidades, a través de sus unidades administrativas, enviarán a la Secretaría dentro de los primeros diez días de cada mes, la información relativa a:
+Las dependencias y entidades que participen en la realización de programas de carácter multisectorial, estratégico o prioritario, reportarán trimestralmente a la Secretaría, dentro de los primeros diez días del mes siguiente, los avances financieros y de metas que tengan a su cargo, especificando, entre otros, la identificación del proyecto, la entidad responsable, la ubicación geográfica, las metas que se realizaron y el monto financiero que se aplicó.
 
-I. Balance General o Estado de Situación Financiera.
-
-> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
-
-II. Estado de Ingresos y Egresos; los ingresos estarán referidos a las ministraciones presupuestales y los que obtengan con motivo del ejercicio de sus funciones;
-
-III. Balanza de Comprobación.
-
-IV. Estado de Avance Presupuestal.
-
-V. Conciliaciones Bancarias.
-
-> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
-
-La información financiera que los fideicomisos públicos envíen será la que generen las instituciones que tengan a su cargo la encomienda fiduciaria, misma que se integrará por el informe de ingresos y gastos del periodo correspondiente.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 278.
 
-Las dependencias y entidades que participen en la realización de programas de carácter multisectorial, estratégico o prioritario, reportarán trimestralmente a la Secretaría, dentro de los primeros diez días del mes siguiente, los avances financieros y de metas que tengan a su cargo, especificando, entre otros, la identificación del proyecto, la entidad responsable, la ubicación geográfica, las metas que se realizaron y el monto financiero que se aplicó.
+Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Estado, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las unidades administrativas por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las unidades presupuestales informarán con el mismo detalle a la Secretaría, del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 279.
 
-Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Estado, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las unidades administrativas por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las unidades presupuestales informarán con el mismo detalle a la Secretaría, del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
+La Secretaría y la Contraloría General, en el ámbito de sus competencias, harán del conocimiento de las unidades administrativas sus requerimientos de información adicional, para lo cual dictarán las normas y lineamientos necesarios.
 
-### CAPÍTULO TERCERO. DE LOS ESTADOS FINANCIEROS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO TERCERO. DE LA CUENTA PÚBLICA
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 280.
 
-La Secretaría hará del conocimiento de las unidades administrativas sus requerimientos de información adicional, para lo cual dictará las normas y lineamientos necesarios.
+La Secretaría emitirá y dará a conocer a las unidades presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 30 de noviembre de cada año.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 281.
 
-La Secretaría emitirá y dará a conocer a las unidades presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública del Gobierno del Estado, a más tardar el día 30 de noviembre de cada año.
+Los titulares de las unidades presupuestales autorizarán y enviarán a la Secretaría, a más tardar el último día hábil del mes de enero, la información que, en su caso, aquélla requiera para la formulación de la Cuenta Pública del Poder Ejecutivo.
 
-Para efectos de la formulación de la cuenta pública, la información que proporcionen las unidades presupuestales estará debidamente clasificada, de conformidad con los catálogos que para tal fin emita la Secretaría.
-
-La Secretaría reclasificará, cuando sea necesario, la información que se le proporcione respecto al ejercicio del gasto para efectos de consolidación y presentación de la cuenta pública.
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 282.
 
-Para la integración de la cuenta pública anual del Gobierno del Estado, las unidades presupuestales proporcionarán a la Secretaría, a más tardar en la última semana del mes de enero, la siguiente información:
+Tratándose de las unidades administrativas o sus equivalentes, sus titulares remitirán, en la fecha antes señalada, la información a que se refieren los artículos 263 y 276 para efectos de la formulación de la Cuenta Pública del Poder Ejecutivo.
 
-I. Balance General o Estado de situación Financiera.
-
-II. Estado de Ingresos y Egresos.
-
-III. Balanza de Comprobación.
-
-IV. Estado del Ejercicio del Presupuesto.
-
-V. Información para integrar el apartado de evolución de las finanzas públicas.
-
-VI. Información para integrar los estados programáticos.
-
-VII. La información complementaria que requiera la Secretaría.
-
-VIII. Por su parte, la Secretaría integrará:
-
-a) El Estado Analítico de Ingresos.
-
-b) El Estado de costo de programas.
-
-c) El Estado de la Deuda Pública.
-
-La información a que se refiere este artículo contará con la aprobación del titular de la unidad presupuestal, por cuyo conducto se hará llegar a la Secretaría.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 283.
 
-Corresponde a las unidades administrativas captar y validar la información que sus coordinaciones administrativas deben rendir para la integración de la cuenta pública.
+Corresponde a las unidades administrativas, captar y validar la información que sus coordinaciones o enlaces administrativos deben rendir para la integración de la cuenta pública.
 
-Las unidades administrativas darán a conocer a sus coordinaciones administrativas la forma, términos y periodicidad conforme a los cuales deberán proporcionarle información contable, financiera, presupuestal, programática y económica.
-
-Corresponde a la (sic) unidades administrativas consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Secretaría. Las unidades administrativas cuidarán que la información consolidada que proporcionen a la Secretaría cumpla con las normas y lineamientos establecidos.
-
-La información a que se refiere este artículo deberá contar con la aprobación del titular de la dependencia.
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 284.
 
-La Secretaría será responsable de integrar la cuenta pública del Gobierno del Estado, la cual será elaborada con la información que le remitan las unidades presupuestales.
+Las unidades administrativas darán a conocer a sus coordinaciones o enlaces administrativos la forma, términos y periodicidad conforme a los cuales deberán proporcionarles información contable, financiera, presupuestal, programática y económica.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 285.
 
-Las unidades presupuestales están obligadas a remitir a la Secretaría, a más tardar en la última semana del mes de enero de cada año, los informes respecto del ejercicio del presupuesto autorizado en el año inmediato anterior.
+Corresponde a las unidades administrativas consolidar la información contable, financiera, presupuestal, programática y económica de la dependencia o entidad, de acuerdo con sus necesidades y para cumplir los requerimientos de la Secretaría.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 286.
 
-La Secretaría determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las unidades presupuestales la información complementaria y aclaraciones que considere conveniente.
+Las unidades administrativas serán responsables de que la información consolidada que proporcionen a la Secretaría, cumpla con las normas y lineamientos establecidos.
+
+La información a que se refiere este artículo, deberá contar con la aprobación del titular de la dependencia o entidad.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 287.
 
-La Secretaría someterá a la consideración del Titular del Ejecutivo, la Cuenta Pública del Gobierno del Estado, del ejercicio inmediato anterior, durante los quince primeros días del mes de mayo de cada año.
+La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante el mes de abril de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 288.
 
-El Titular del Ejecutivo, en los términos establecidos en la Constitución Política del Estado, por conducto de la Secretaría, presentará al Congreso para su estudio y dictamen la cuenta pública del ejercicio presupuestal inmediato anterior.
+El Titular del Poder Ejecutivo, por sí o por conducto de la Secretaría, presentará al Congreso la cuenta pública del ejercicio presupuestal inmediato anterior, para los efectos de su fiscalización superior, en términos de lo previsto por la Constitución Política del Estado de Veracruz de Ignacio de la Llave y la ley de la materia.
 
 ## TÍTULO SEXTO. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-### CAPÍTULO CUARTO. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
 
 ###### Artículo 289.
 
@@ -5699,7 +5713,7 @@ III. Fincamiento de las responsabilidades que procedan, y
 
 IV. Determinación de las previsiones que constituyan una de las bases para la programación - presupuestación del ejercicio siguiente.
 
-### CAPÍTULO QUINTO. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO DEL ESTADO
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS INTERNOS DE CONTROL
 
 ###### Artículo 293.
 
@@ -5817,7 +5831,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES RELACIONADAS CON EL EJERCICIO DEL GASTO PÚBLICO
 
-### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 307.
 
@@ -5845,13 +5859,15 @@ La Contraloría, en los términos de la Ley de Responsabilidades de los Servidor
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES RELACIONADAS CON LA DEUDA PÚBLICA
 
-### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS INTERNOS DE CONTROL
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### Artículo 311.
 
 Sólo se concertarán créditos para las inversiones públicas productivas cuya definición y razonabilidad hayan sido sustentadas por el Ejecutivo y aprobadas por el Congreso del Estado, y únicamente para los conceptos y montos autorizados anualmente en el presupuesto estatal. Estos créditos se contratarán por conducto de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 312.
 
@@ -5939,7 +5955,9 @@ En ningún caso se autorizarán financiamientos que generen obligaciones que exc
 
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA EN MATERIA DE DEUDA PÚBLICA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE ABRIL DE 2002)</small>
 
 ###### Artículo 323.
 
@@ -5985,9 +6003,7 @@ Las operaciones de endeudamiento que realice el Estado, los municipios y sus ent
 
 En el presupuesto anual se señalarán los montos autorizados para las operaciones de endeudamiento que generen deuda pública; así como para efectuar la amortización de los mismos.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2006)</small>
+### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
 
 ###### Artículo 327.
 
@@ -6031,9 +6047,9 @@ Las entidades municipales al contratar operaciones de endeudamiento o reestructu
 
 Los municipios y sus entidades presentarán periódicamente, en la forma en que lo determine la Secretaría, los documentos que permitan analizar su capacidad de pago. La aplicación de los recursos económicos provenientes de las operaciones de endeudamiento avaladas por el Estado, será supervisado por la Secretaría.
 
-### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
+### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE ABRIL DE 2002)</small>
+(REFORMADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
 
 ###### Artículo 333.
 
@@ -6059,7 +6075,7 @@ IX. Deberán contener los datos fundamentales de su autorización y la prohibici
 
 Siempre que se cumpla con las disposiciones del presente Código, y demás ordenamientos legales aplicables, el Gobernador, a través de la Secretaría, estará facultado para resolver definitivamente todos los aspectos relacionados con la emisión de valores que no se encuentren previstos en el presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 334.
 
@@ -6097,7 +6113,9 @@ En todo lo referente al manejo y operación de los instrumentos bursátiles enun
 
 ## TÍTULO TERCERO. DEL REGISTRO PÚBLICO DE DEUDA ESTATAL
 
-### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 339.
 
@@ -6137,7 +6155,7 @@ V. Las fechas de autorización de los órganos de gobierno, tratándose de entid
 
 VI. La cancelación de las inscripciones cuando se acredite el cumplimiento de las obligaciones.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
 La Secretaría expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro Público de Deuda Estatal.
 
@@ -6155,11 +6173,7 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JULIO DE 2003)</small>
-
-### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
-
-(REFORMADO, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JULIO DE 2003)</small>
 
 ###### Artículo 344.
 
@@ -6183,19 +6197,15 @@ Para efectos de lo dispuesto en el párrafo anterior, en caso de que el descuent
 
 De no demostrar el cumplimiento se procederá a efectuar los pagos de las erogaciones que se hayan dejado de amortizar, mediante la afectación de las participaciones que en ingresos federales le correspondan.
 
-(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2003) (F. DE E., G.O. 1 DE AGOSTO DE 2003)
 
 ## TÍTULO QUINTO. DE LA AFECTACIÓN DE INGRESOS ESTATALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE JULIO DE 2003)</small>
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2006)</small>
-
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### Artículo 347.
 
@@ -6205,13 +6215,13 @@ Los ingresos derivados de impuestos, derechos, productos, aprovechamientos, sus 
 
 Las afectaciones a estos ingresos deberán estar debidamente inscritas en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente o en el registro de la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2006)</small>
 
 ###### Artículo 348.
 
 El Estado por conducto del Gobernador, a través de la Secretaría y previa autorización del Congreso, podrá afectar los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos, sus respectivos accesorios, así como las participaciones federales y los demás ingresos derivados de la coordinación fiscal como fuente o garantía de pago, o ambas, sobre las obligaciones que contraigan por sí o a través de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente código, incluyendo los valores emitidos en términos de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
 
@@ -6257,7 +6267,7 @@ GOBERNADOR DEL ESTADO
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 27 DE DICIEMBRE DE 2001.
 
@@ -6439,7 +6449,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 
 G.O. 15 DE AGOSTO DE 2007.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
 
 G.O. 8 DE AGOSTO DE 2008.
 
@@ -6514,3 +6524,9 @@ G.O. 30 DE DICIEMBRE DE 2011.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE FEBRERO DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
