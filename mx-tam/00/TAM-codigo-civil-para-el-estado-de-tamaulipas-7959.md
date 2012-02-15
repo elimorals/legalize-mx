@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2011-10-20"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -579,9 +579,13 @@ VII.- La fuerza o miedo graves (sic) o cualquiera otra circunstancia que impida 
 
 VIII.- La embriaguez habitual, el uso no terapéutico de enervantes o estupefacientes, o de psicotrópicos o de cualquiera otra substancia que altere la conducta y que produzca farmacodependencia;
 
-IX.- La impotencia incurable, la sífilis, la locura y las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
 
-X.- El idiotismo y la imbecilidad;
+IX.- La impotencia incurable, la sífilis, la discapacidad intelectual y las enfermedades crónicas e incurables que sean, además, contagiosas o hereditarias;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+X.- La persona con discapacidad intelectual con un rango por debajo del 70 de coeficiente intelectual; y
 
 XI.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro. De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
@@ -1155,7 +1159,7 @@ ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y lo
 
 ART. 268.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 1987)
 
-> <small>(REFORMADA SU DENOMINACION. P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN. P.O. 24 DE JUNIO DE 2008)</small>
 
 ### CAPITULO I. DEL PARENTESCO
 
@@ -1275,7 +1279,7 @@ ART. 298.- El cónyuge que se haya separado de otro, sigue obligado a cumplir co
 
 En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquélla, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiere determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de los que ha dejado de cubrir desde que se separó.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
 ## TITULO IV. DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR
 
@@ -1935,9 +1939,13 @@ ART. 420.- Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia, aunque tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
 
-III.- Los sordomudos que no saben leer ni escribir; y
+II.- Los mayores de edad con discapacidad intelectual con un rango por debajo del 70 de coeficiente intelectual;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+III.- Las personas con discapacidad auditiva y del habla que no saben leer ni escribir; y
 
 IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca farmacodependencia.
 
@@ -1965,9 +1973,11 @@ ART. 429.- Ninguna tutela puede conferirse sin que previamente se declare, en lo
 
 ART. 430.- Los tutores solamente pueden ser removidos de su cargo por resolución judicial dictada en el procedimiento que corresponda.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-ART. 431.- El menor de edad que fuere demente, idiota, imbécil o sordomudo, o que se encuentre en el caso de la fracción IV del artículo 420, estará sujeto a la tutela de menores mientras no llegue a la mayor edad.
+ART. 431.- El menor de edad que presentara discapacidad intelectual o del habla o que se encuentre en el caso de la fracción IV del artículo 420, estará sujeto a la tutela de menores mientras no llegue a la mayoría de edad.
+
+> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a la nueva tutela, previo juicio de interdicción, en el que será oído también el tutor anterior.
 
@@ -2143,9 +2153,13 @@ V.- El que se encuentre en el caso previsto en el artículo 141, y
 
 VI.- El que por más de seis meses se ausente de la localidad en que deba desempeñar la tutela.
 
-ART. 465.- No pueden ser tutores del demente los que hayan dado causa a la demencia, ni los que la hayan fomentado directa o indirectamente.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-ART. 466.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
+ART. 465.- No pueden ser tutores de la persona que presente discapacidad intelectual, los que hayan dado causa a tal estado, ni los que la hayan fomentado directa o indirectamente.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+ART. 466.- Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de las personas que presentan discapacidad auditiva y del habla, los ebrios consuetudinarios y de los que abusan habitualmente de las drogas enervantes.
 
 ART. 467.- El Sistema para el Desarrollo Integral de la Familia, el Ministerio Público y los parientes del pupilo, tienen derecho de promover la remoción de los tutores que se encuentren en alguno de los casos previstos en el artículo 463.
 
@@ -7423,7 +7437,7 @@ VII.- Cuando la fianza sea legal o judicial.
 
 ART. 2177.- Para que los beneficios de orden y excusión aprovechen al fiador, son indispensables los requisitos siguientes:
 
-I.- Que el fiador los alegue luego que se le requiera de pago;
+I.- Que el fiador los alegue luego que se le requiera de pago:
 
 II.- Que designe bienes del deudor que basten para cubrir el crédito y que se hallen dentro del distrito judicial en que deba hacerse el pago; y
 
@@ -8359,9 +8373,9 @@ ART. 2411.- En ningún caso pueden testar en el mismo acto dos o más personas.
 
 ART. 2412.- No puede reservarse al arbitrio de un tercero la subsistencia del nombramiento de sucesores ni la designación de las porciones que a ellos correspondan.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-ART. 2413.- Cuando el testador instituya como sucesores a determinados grupos de personas, sin precisar el número de integrantes, tales como los pobres, los huérfanos, los ciegos u otros, puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 2438.
+ART. 2413.- Cuando el testador instituya como sucesores a determinados grupos de personas, sin precisar el número de integrantes, tales como los pobres, los huérfanos, las personas con discapacidad visual u otros, puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 2438.
 
 ART. 2414.- El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados a los cuales deban aplicarse los bienes de que disponga con ese objeto, así como la distribución de las cantidades que a cada uno correspondan.
 
@@ -8385,9 +8399,13 @@ c).- Que en su otorgamiento se cumplieron todas las formalidades legales.
 
 ART. 2419.- Tienen capacidad para testar las personas mayores de dieciséis años de edad que no se encuentren en estado habitual o accidental de demencia, siempre que no les esté impedido legalmente el ejercicio de ese derecho.
 
-ART. 2420.- Es válido el testamento otorgado por un demente en un intervalo de lucidez, con tal de que al efecto se acaten las indicaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-I.- El tutor, o en defecto de éste cualquier pariente de aquél, solicitará por escrito al juez competente que designe dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez está obligado a asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar;
+ART. 2420.- Es válido el testamento otorgado por una persona que presente discapacidad intelectual en un intervalo de lucidez, con tal de que al efecto se acaten las indicaciones siguientes:
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+I.- El tutor, o en defecto de éste cualquier pariente de aquél, solicitará por escrito al juez competente que designe dos médicos, de preferencia especialistas en la materia, para que examinen al discapacitado y dictaminen acerca del estado de la persona con discapacidad. El juez está obligado a asistir al examen de la persona con discapacidad, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar;
 
 II.- Se hará constar en acta formal el resultado del reconocimiento, y si éste fuera favorable, se procederá desde luego al otorgamiento de testamento ante notario público, con todas las formalidades que se requieren para los testamentos públicos abiertos;
 
@@ -8937,7 +8955,9 @@ I.- Los amanuenses del notario que lo autorice;
 
 II.- Los incapaces;
 
-III.- Los ciegos, sordos o mudos;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+III.- Las personas con discapacidad auditiva, visual o del habla;
 
 IV.- Los que no entiendan el idioma que habla el testador;
 
@@ -8987,9 +9007,13 @@ ART. 2601.- Cuando el testador declare que no sabe o no puede firmar el testamen
 
 ART. 2602.- (DEROGADO, P.O. 2 DE SEPTIEMBRE DE 1998)
 
-ART. 2603.- El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre, lo cual se hará constar.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-ART. 2604.- Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 2599, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+ART. 2603.- La persona que presente discapacidad auditiva total, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre, lo cual se hará constar.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+ART. 2604.- Cuando el testador padezca discapacidad visual, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 2599, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -9051,9 +9075,13 @@ ART. 2615.- Sólo en los casos de suma urgencia podrá firmar uno de los testigo
 
 ART. 2616.- Los que no saben o no pueden leer, son inhábiles para otorgar testamento cerrado.
 
-ART. 2617.- El sordomudo podrá hacer testamento cerrado con tal que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al notario ante cinco testigos, escriba en presencia de todos sobre la cubierta que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así observándose, además lo dispuesto en los artículos 2610, 2611 y 2612.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-ART. 2618.- El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador y firme la nota de su puño y letra, sujetándose a las demás formalidades precisas para esta clase de testamentos.
+ART. 2617.- La persona que presente discapacidad auditiva y del habla podrá hacer testamento cerrado con tal que esté todo el escrito, fechado y firmado de su propia mano y que al presentarlo al notario ante cinco testigos, escriba en presencia de todos sobre la cubierta que en aquel pliego se contiene su última voluntad, y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así observándose, además lo dispuesto en los artículos 2610, 2611 y 2612.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+ART. 2618.- La persona que presente sólo discapacidad auditiva o sólo discapacidad del habla podrá hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás formalidades precisas para esta clase de testamentos.
 
 ART. 2619.- El testamento cerrado que carezca de alguna de las formalidades antedichas, quedará sin efecto, y el notario será responsable en los términos del artículo 2607.
 
@@ -9363,7 +9391,9 @@ ART. 2721.- Los cónyuges no pueden aceptar ni repudiar la herencia común sino 
 
 ART. 2722.- La herencia dejada a los menores sujetos a patria potestad será aceptada por quien ejerza ésta. La dejada a los incapaces será aceptada por su representante legal. En ambos casos, la repudiación de la herencia sólo puede hacerse previa autorización judicial.
 
-ART. 2723.- Los sordomudos que no estén bajo tutela y que sepan escribir, podrán aceptar o repudiar la herencia por sí o por procurador; si no saben escribir, la aceptará en su nombre un tutor designado para el caso, conforme a lo dispuesto en los casos de interdicción
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+ART. 2723.- Las personas que presenten discapacidad auditiva y del habla, que no estén bajo tutela y que sepan escribir, podrán aceptar o repudiar la herencia por sí o por procurador; si no saben escribir, la aceptará en su nombre un tutor designado para el caso, conforme a lo dispuesto en los casos de interdicción.
 
 ART. 2724.- La aceptación puede ser expresa o tácita. Es expresa si el heredero así lo declara indubitablemente; es tácita si ejecuta acciones de las que se deduzca necesariamente la intención de aceptar o aquéllas que no podrá ejecutar sino con la calidad de heredero.
 
@@ -10060,5 +10090,11 @@ El presente decreto entrará en vigor a partir de su expedición.
 P.O. 20 DE OCTUBRE DE 2011.
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
