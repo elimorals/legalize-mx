@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2011-11-08"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -33,7 +33,7 @@ Que el Honorable Congreso del Estado se ha servido expedir el siguiente:
 
 DECRETO
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
 ## TITULO PRIMERO. DISPOSICIONES COMUNES A LA ACTUACION PROCESAL
 
@@ -55,7 +55,7 @@ Los actos procesales que en forma expresa y limitativa cita este Código como nu
 
 La tramitación de los negocios judiciales no podrá alterarse o entorpecerse por disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 4.
 
@@ -119,7 +119,9 @@ Las actuaciones judiciales y los ocursos deberán escribirse en lengua castellan
 
 Cuando se exhiban en un juicio documentos redactados en idioma extranjero, la parte que los presente deberá acompañarlos con la correspondiente traducción al español. Si la contraparte la objeta, o el juez lo estima necesario, se nombrará perito traductor para el cotejo.
 
-Cuando deba oírse a una persona que no conozca la lengua castellana, el juez lo hará por medio del intérprete que designe al efecto. El sordomudo será examinado por escrito, y, en caso necesario, mediante intérprete.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+Cuando deba oírse a una persona que no conozca la lengua castellana, el juez lo hará por medio del intérprete que designe al efecto. La persona que presente discapacidad auditiva y del habla será examinada por escrito, y, en caso necesario, mediante intérprete.
 
 ###### ARTICULO 12.
 
@@ -133,7 +135,7 @@ Se dejarán los márgenes necesarios a efecto de permitir la lectura por ambos l
 
 Deberán ser autorizadas por el secretario a quien corresponde dar fe o certificar el acto, y no surtirán efectos legales si falta este requisito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -169,7 +171,7 @@ Dentro de los tres días de haberse hecho saber una corrección disciplinaria a 
 
 (DEROGADO, P.O. 22 DE JUNIO DE 1988)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 16.
 
@@ -263,7 +265,7 @@ VIII.- Siempre se presentarán originales, salvo las copias de ley. Los interesa
 
 La enumeración anterior no es limitativa, por lo que las partes deberán consignar además en sus promociones todos aquellos datos que faciliten su comprensión y trámite. En la inteligencia de que, de no resultar verdadero alguno de los datos señalados bajo protesta a que se refiere la anterior fracción IV, se le impondrá multa de conformidad con la fracción II, del artículo 15 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -285,9 +287,9 @@ Las promociones electrónicas y sus anexos, deberán estar siempre signadas a tr
 
 El titular del órgano jurisdiccional tendrá la facultad de solicitar a las partes, cuando así lo considere necesario, la presentación física de cualquiera de los documentos o medios de prueba que electrónicamente le hayan sido presentados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
@@ -313,7 +315,7 @@ Los autos que se perdieren serán repuestos a costa del responsable de la pérdi
 
 La reposición se substanciará en la vía incidental, y, sin necesidad de acuerdo judicial, el secretario hará constar, desde luego, la existencia anterior y falta posterior del expediente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -323,7 +325,7 @@ Las partes están obligadas a aportar para la reposición de los expedientes, la
 
 En el caso en que resulte que alguna de las partes o sus representantes o abogados son responsables, como autores, coautores o encubridores, de la sustracción o pérdida del expediente, se hará la consignación correspondiente para la imposición de las sanciones penales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -377,7 +379,7 @@ Los magistrados, Procurador General de Justicia y jueces propietarios en ejercic
 
 Las partes deberán presentar sus promociones en la oportunidad procesal debida, y de ninguna manera anticipadamente. La no observancia de esta prevención dará lugar a que se tenga por no hecha la manifestación o petición contenida en el escrito cuya presentación es extemporánea.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -533,7 +535,7 @@ Las partes podrán revocar en cualquier momento la designación que hayan hecho 
 
 Lo anterior será sin perjuicio de lo establecido en el respectivo contrato de prestación de servicios profesionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2002)</small>
 
 ###### ARTICULO 54.
 
@@ -599,7 +601,7 @@ Las notificaciones por medio de lista y de cédula se considerarán hechas al d�
 
 Para la validez de la notificación no se requiere el consentimiento del notificado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 65.
 
@@ -667,7 +669,7 @@ El juez al acordar lo relativo a la autorización a que se refiere este artícul
 
 Así mismo, las partes podrán solicitar la autorización para sí o por persona autorizada en los términos que establecen los párrafos anteriores, el acceso a la Página Electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -675,7 +677,7 @@ Igualmente, si así lo desean, las partes podrán autorizar que a través del co
 
 Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1471,7 +1473,7 @@ En estos casos, el demandado puede promover la incompetencia si objeta el valor 
 
 En los negocios relativos a bienes inmuebles, se considerará como valor, para los efectos de la cuantía, tres veces más del consignado en la escritura, y en su defecto, también dos tantos más del manifestado en la oficina fiscal del Estado respectiva. Cuando, por cualquier circunstancia, el valor no pueda determinarse en la forma expresada, se tomará como tal el declarado por el actor, pudiendo el demandado objetarlo y promover cuestión de competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 192.
 
@@ -1485,7 +1487,7 @@ I.- De los negocios de jurisdicción voluntaria que no interesen al derecho de f
 
 II.- De los negocios contenciosos que versen sobre propiedad o demás derechos reales sobre inmuebles;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2529,7 +2531,7 @@ Los documentos privados se presentarán originales, y cuando formen parte de un 
 
 Cuando las partes deban servirse de documentos en poder de terceros, solicitarán del juzgado se intime a los mismos la exhibición o para que faciliten la obtención de copia fotográfica, fotostática o testimonio certificado de ellos, siendo los gastos que se originen a cargo del que pida la prueba. Los terceros pueden rehusarse si tienen derechos exclusivos sobre los documentos u otra causa justificada, y en este caso se les oirá en la vía incidental.
 
-Si se trata de documento que se halle en poder del adversario, se le intimará para que lo presente en el plazo que señale el juez, aplicándose en lo conducente las reglas de la fracción II del artículo 248.El que promueva la prueba podrá presentar copia del documento o proporcionar los datos que conozca acerca de su contenido, copia o datos que se tendrán por exactos si se probare que el documento se halla o estuvo en poder del adversario y éste sin justa causa no lo presenta.
+Si se trata de documento que se halle en poder del adversario, se le intimará para que lo presente en el plazo que señale el juez, aplicándose en lo conducente las reglas de la fracción II del artículo 248. El que promueva la prueba podrá presentar copia del documento o proporcionar los datos que conozca acerca de su contenido, copia o datos que se tendrán por exactos si se probare que el documento se halla o estuvo en poder del adversario y éste sin justa causa no lo presenta.
 
 ###### ARTICULO 331.
 
@@ -2831,7 +2833,7 @@ Para acreditar hechos o circunstancias que tengan relación con el negocio que s
 
 En el caso de registros y archivos electrónicos, la parte oferente deberá expresar con toda exactitud el nombre completo del sistema operativo y del programa o aplicación que lo ejecuta, o en su lugar la página electrónica de la cual fue obtenido; el Juzgador, deberá requerir al oferente para que proporcione los medios necesarios para el desahogo de la probanza en el caso de que el Supremo Tribunal de Justicia no cuente con ellos; si los medios proporcionados al respecto resultaren inadecuados, la prueba en comento se declarará desierta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3055,19 +3057,19 @@ El valor de las pruebas fotográficas, taquigráficas y otras cualesquiera aport
 
 Las fotografías de personas, lugares, edificios, construcciones, papeles, documentos y objetos de cualquier especie, deberán contener la certificación correspondiente que acredite el lugar, tiempo y circunstancias en que fueron tomadas, así como que corresponden a lo representado en ellas, para que constituyan prueba plena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Los registros electrónicos generados y publicados en el Tribunal Electrónico, harán prueba plena.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Los demás registros electrónicos, archivos magnéticos, archivos electrónicos y cualesquiera otros elementos proporcionados por la ciencia, cuando contengan firma electrónica avanzada o sello digital, hacen prueba plena, salvo prueba en contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3229,7 +3231,7 @@ Si alguna de las partes no comparece, el juez hará la designación. Si la contr
 
 Con el acta de la junta a que se refiere este artículo se iniciarán las labores del árbitro, emplazando a las partes como se determina en el Título respectivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE MAYO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 1975)</small>
 
 ### CAPITULO IV
 
@@ -3251,7 +3253,7 @@ I.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que 
 
 II.- La solicitud puede ser escrita o verbal, en ella se señalarán las causas en que se funda, el domicilio, en que se desea habitar, la existencia de hijos menores y las demás circunstancias del caso.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO No. LX-63, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2008, LA PRESENTE FRACCION QUEDA CONFORMADA POR DOS PARRAFOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. LX-63, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2008, LA PRESENTE FRACCIÓN QUEDA CONFORMADA POR DOS PÁRRAFOS.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -3285,7 +3287,7 @@ Los derechos contemplados en el presente Capítulo, también podrán ejercerlos 
 
 El Juez determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el artículo 149 del Código Civil y las propuestas, si las hubiere, de los cónyuges.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 2009)</small>
 
 ### CAPITULO V. DE LA INVESTIGACION DE LA FILlACION
 
@@ -3601,7 +3603,7 @@ La citación para sentencia no será expresa, sino que operará por ministerio d
 
 En los juicios sumarios solamente los autos que decidan incidentes y las sentencias, serán apelables; el recurso sólo se admitirá en el efecto devolutivo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2010)</small>
 
 ### CAPITULO II BIS
 
@@ -4231,9 +4233,11 @@ Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil 
 
 ### CAPITULO IX. INTERDICCION E INHABILITACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 568.
 
-La demanda que se presente con objeto de obtener la declaración de incapacidad o interdicción del demente, idiota, sordomudo, ebrio consuetudinario, o habituado al uso de drogas enervantes, deberá contener los siguientes datos:
+La demanda que se presente con objeto de obtener la declaración de incapacidad o interdicción de las personas con discapacidad intelectual, discapacidad auditiva y del habla, ebrio consuetudinario, o habituado al uso de drogas enervantes, deberá contener los siguientes datos:
 
 I.- Nombre, edad, domicilio, estado civil y actual residencia del presunto incapacitado;
 
@@ -6105,7 +6109,7 @@ La herencia testamentaria se abre cuando hay testamento válido otorgado de acue
 
 La testamentaría deberá tramitarse con sujeción al testamento, siempre que tenga los requisitos legales necesarios para su validez. Si se trata de testamento público cerrado, o de testamento ológrafo, de testamento privado o de testamento otorgado en el extranjero, se procederá previamente de acuerdo con los artículos siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 775.
 
@@ -6121,7 +6125,7 @@ Para la protocolización del testamento cerrado se preferirá la notaría del lu
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, de la misma o de diversa fecha, el juez procederá respecto a cada uno de ellos como se previene en este artículo, y los hará protocolizar en un mismo oficio para los efectos a que haya lugar, en los términos previstos por el Código Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 776.
 
@@ -6129,7 +6133,7 @@ A solicitud de parte interesada o de oficio, cuando un juez tenga noticia de que
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastantes sus declaraciones, el juez nombrará perito que la confronte con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 777.
 
@@ -6149,7 +6153,7 @@ IV.- Recibidas las declaraciones, el juez procederá en los términos del Códig
 
 De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración puede apelar el representante del Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 778.
 
@@ -6163,7 +6167,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 Hechas las publicaciones respectivas que ordena el Código Civil, podrán los interesados ocurrir al tribunal competente para que pidan a la Secretaría de Relaciones Exteriores la remisión del testamento, o se dirigirán directamente a ésta para que lo envíe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 780.
 
@@ -6637,7 +6641,7 @@ La tramitación ante notario se hará del conocimiento del representante del fis
 
 ###### ARTICULO 833.
 
-Ya se trate de testamentarias o de intestados, practicado el inventario por el albacea y estando conforme con él todos los herederos, lo presentará al notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en las leyes fiscales.
+Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conforme con él todos los herederos, lo presentará al notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en las leyes fiscales.
 
 Los interesados, de común acuerdo, podrán practicar un avalúo distinto para los efectos de la partición.
 
@@ -6695,9 +6699,9 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 ### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PARRAFO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 844.
 
@@ -7353,7 +7357,7 @@ La apelación en el efecto devolutivo no suspende la ejecución de la resolució
 
 Si el recurrente considera que la apelación fue mal admitida, lo hará saber al Superior, por conducto del juez, reclamando la calificación respectiva, debiendo hacerlo dentro del término para la expresión de agravios, el cual no se suspende, ya sea en el escrito que los contiene o por separado. La parte contraria también puede formular reclamación por el mismo motivo, dentro del término para defender sus derechos o adherirse a la apelación. Independientemente, el superior examinará de oficio los antecedentes de la admisión del recurso por el inferior y lo desechará de plano si encontrare que aquélla debió declararse improcedente; o, si se está en el caso del artículo 932 impondrá al inconforme una multa por el importe de treinta días de salario mínimo, si estudiadas las constancias aparece que la interposición del recurso efectivamente era improcedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 939.
 
@@ -7411,7 +7415,7 @@ Si se decretare resolución firme, revocatoria de la sentencia apelada, quedará
 
 En el escrito de interposición del recurso o dentro de los términos a que se refiere el artículo 930, la parte apelante tendrá obligación de expresar por escrito los agravios que, en su concepto, le cause la resolución apelada, los que deberán citar, en forma expresa, las disposiciones legales infringidas. Igualmente corresponde tal obligación al apelante adherido, en el plazo que al efecto le concede el artículo 935. Previo al envío para la tramitación de la alzada, el juez deberá ordenar la certificación de los términos para la interposición de la apelación, adhesión y defensa de derechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 947.
 
@@ -7543,17 +7547,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los dos días del mes de febrero de mil novecientos sesenta y uno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 18 DE SEPTIEMBRE DE 1963
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 Este Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 P.O. 4 DE ABRIL DE 1973
 
-UNICO.- Este decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
+ÚNICO.- Este decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE JULIO DE 1974
 
@@ -7573,7 +7577,7 @@ El presente Decreto entrará en vigor treinta días después de su publicación 
 
 P.O. 11 DE AGOSTO DE 1976
 
-UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+ÚNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE JUNIO DE 1980
 
@@ -7593,25 +7597,25 @@ Todos los asuntos que se encuentren en trámite continuarán rigiéndose conform
 
 P.O. 29 DE AGOSTO DE 1998
 
-###### ARTICULO UNICO
+###### ARTICULO ÚNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE JUNIO DE 1999.
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE ABRIL DE 2001
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE MARZO DE 2002
 
-Artículo Unico.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor a los noventa días de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE OCTUBRE DE 2002
 
@@ -7633,7 +7637,7 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 
 DECRETO No. LIX-562
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -7641,13 +7645,13 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 
 DECRETO No. LIX-565
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto surtirá efectos a partir de su publicación en el Periódico Oficial del Estado.
 
@@ -7681,13 +7685,13 @@ Al entrar en vigor este ordenamiento, se decretará el sobreseimiento de los pro
 
 P.O. 23 DE DICIEMBRE DE 2008.
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
 
 P.O. 7 DE JULIO DE 2009.
 
-DECRETO No. LX-701, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 10, 25, 29, 66, 68 BIS, 301, 379 Y 926 DEL CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS.
+DECRETO No. LX-701, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 10, 25, 29, 66, 68 BIS, 301, 379 Y 926 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO PRIMERO.
 
@@ -7721,7 +7725,7 @@ Los juicios de pérdida de patria potestad que se encuentren en trámite al mome
 
 P.O. 4 DE MAYO DE 2010.
 
-###### ARTICULO UNICO.
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -7742,3 +7746,9 @@ El Pleno del Supremo Tribunal de Justicia deberá, previo al vencimiento del té
 ###### ARTÍCULO TERCERO.
 
 En los asuntos iniciados previamente a la entrada en vigor de la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las notificaciones personales ya ordenadas se realizarán en los términos acordados dentro del expediente correspondiente.
+
+P.O. 15 DE FEBRERO DE 2012
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
