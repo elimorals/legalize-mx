@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2011-08-31"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
+CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -283,17 +283,23 @@ Se considera inimputable:
 
 I.- El menor de dieciocho años;
 
-II.- Quien en el momento de la realización de la conducta, por causa de locura u oligofrenia, o por ser sordomudo, carezca de la capacidad de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
 
-III.- Quien, en el momento de la acción u omisión, se halle en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes, estupefacientes o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio, a menos que la perturbación de la conciencia hubiere sido provocada por el agente para facilitar la realización del hecho o procurarse una excusa, en cuyo caso la sanción se agravará hasta un tercio más de la que el juez hubiere impuesto de no mediar estos factores.
+II.- Quien, en el momento de la realización de la conducta, por causa de discapacidad intelectual, o por padecer una discapacidad auditiva y del habla carezca de la capacidad de comprender el carácter ilícito del hecho o de determinarse de acuerdo con esa comprensión;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+III.- Quien, en el momento de la acción u omisión, se halle en un estado de inconciencia (sic) de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o estupefacientes, por un estado toxinfeccioso agudo, o por una discapacidad intelectual involuntaria de carácter patológico y transitorio, a menos que la perturbación de la conciencia hubiere sido provocada por el agente para facilitar la realización del hecho para procurarse una excusa, en cuyo caso la sanción se agravará hasta un tercio más de la que el juez hubiere impuesto de no mediar estos factores.
 
 > <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
 Tratándose de personas de entre doce años cumplidos y menos de dieciocho años de edad, a quienes se atribuya la realización de una conducta tipificada como delito por este Código o las leyes del Estado, les serán aplicables las disposiciones de la ley estatal especial reglamentaria del Sistema Integral de Justicia para Adolescentes, en los términos de lo dispuesto por los párrafos cuarto, quinto y sexto del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 36.
 
-Si el procesado enloquece durante el procedimiento, se estará a lo dispuesto por el Código Procesal Penal.
+Si el procesado sufre discapacidad intelectual durante el procedimiento, se estará a lo dispuesto por el Código Procesal Penal.
 
 ### CAPITULO IV. CAUSAS DE INCULPABILIDAD
 
@@ -633,13 +639,17 @@ El decomiso de bienes correspondientes al enriquecimiento ilícito consiste en l
 
 Son medidas de seguridad:
 
-a).- Reclusión de locos y oligofrénicos;
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+a).- Reclusión de personas con discapacidad intelectual;
 
-b).- Internación y educación de sordomudos que hayan contravenido los preceptos de una ley penal;
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-c).- Internación y curación de toxicómanos, alcohólicos y degenerados; y,
+b).- Internación y educación de personas con discapacidad auditiva y del habla que hayan contravenido los preceptos de una ley penal;
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+c).- Internación y curación de toxicómanos, alcohólicos; y
 
 d).- Medidas de vigilancia en la forma y términos que señale la Ley.
 
@@ -895,35 +905,47 @@ A los reincidentes se les impondrá la sanción que corresponda por el último d
 
 Al habitual se le impondrá una pena, que se aumentará hasta el doble de la duración de la sanción que en su caso debía corresponderle.
 
-### CAPITULO X. RECLUSION PARA ENFERMOS MENTALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2012)</small>
+
+### CAPITULO X. RECLUSION PARA PERSONAS CON DISCAPACIDAD INTELECTUAL
 
 ###### ARTICULO 101.
 
 Las medidas curativas se aplicarán en los términos de los artículos 67 y 68.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 102.
 
-En los casos previstos en este Código, a los enfermos a quienes se aplique reclusión, podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue caución por la cantidad que la autoridad a quien corresponda ejecutar la medida estime pertinente, para garantizar el daño que se pudiere causar, por no haberse tomado las precauciones necesarias para su vigilancia.
+En los casos previstos en este Código, a las personas que padezcan discapacidad intelectual, a quienes se aplique reclusión, podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue caución por la cantidad que la autoridad a quien corresponda ejecutar la medida que estime pertinente, para garantizar el daño que se pudiere causar, por no haberse tomado las precauciones necesarias para su vigilancia.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 103.
 
-Cuando la autoridad competente estime que ni aun con la caución pueda asegurarse el interés de la sociedad, seguirán los enfermos en el establecimiento especial en que estuvieren recluidos.
+Cuando la autoridad competente estime que ni aún con la caución pueda asegurarse el interés de la sociedad, seguirán las personas con discapacidad intelectual en el establecimiento especial en que estuvieren recluidos.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 104.
 
-Se aplicarán las medidas de internación a los débiles mentales y a los sujetos a que se refiere el inciso c) del artículo 66 de este Código, sin que el Juez ni la autoridad administrativa puedan tomar las medidas a que se refiere el artículo anterior, pero al cumplirse el término de la medida de seguridad impuesta, se recomendará a sus familiares continuar el tratamiento correspondiente.
+Se aplicarán las medidas de internación a las personas con discapacidad intelectual y a los sujetos a que se refiere el inciso c) del artículo 66 de este Código, sin que el Juez ni la autoridad administrativa puedan tomar las medidas a que se refiere el artículo anterior, pero al cumplirse el término de la medida de seguridad impuesta, se recomendará a sus familiares continuar el tratamiento correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 105.
 
-A los sordomudos contraventores de los preceptos de una Ley Penal, que no tengan conciencia de la ilicitud de la conducta ejecutada, se les recluirá por el tiempo que sea necesario para su educación o instrucción, en sección especial que dependerá del Ejecutivo, sin que la reclusión pueda exceder del tiempo que le correspondería como sanción si fuere imputable.
+A las personas que presenten discapacidad auditiva y del habla que contravengan los preceptos de una Ley Penal, que no tengan conciencia de la ilicitud de la conducta ejecutada, se les recluirá por el tiempo que sea necesario para su educación o instrucción, en sección especial que dependerá del Ejecutivo, sin que la reclusión pueda exceder del tiempo que le correspondería como sanción si fuere imputable.
 
-### CAPITULO XI. ALCOHOLICOS, TOXICOMANOS, DEBILES MENTALES Y DEGENERADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE FEBRERO DE 2012)</small>
+
+### CAPITULO XI. ALCOHOLICOS, TOXICOMANOS Y PERSONAS CON DISCAPACIDAD INTELECTUAL
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 106.
 
-Tratándose de alcohólicos, toxicómanos, débiles mentales o degenerados que hubieran cometido un delito, se aplicará la sanción que les corresponda, teniendo en cuenta su peligrosidad, y se procurará, por la autoridad competente, que el tratamiento que se siga en relación con estos sujetos, sea de aquellos que tengan el carácter de curativo por lo que se refiere al alcoholismo y la toxicomanía; así como el tomar las medidas necesarias para mejorar las condiciones de los débiles mentales y degenerados, procurando aplicar también medidas de internamiento en secciones adecuadas de trabajo.
+Tratándose de alcohólicos, toxicómanos y personas con discapacidad intelectual que hubieran cometido un delito, se aplicará la sanción que les corresponda, teniendo en cuenta su peligrosidad y se procurará, por la autoridad competente, que el tratamiento que se siga en relación con estos sujetos, sea de aquellos que tengan el carácter de curativo por lo que se refiere al alcoholismo y la toxicomanía; así como el tomar las medidas necesarias para mejorar las condiciones de las personas con discapacidad intelectual, procurando aplicar también medidas de internamiento en secciones adecuadas de trabajo.
 
 ### CAPITULO XII. MEDIDAS DE VIGILANCIA
 
@@ -5308,6 +5330,12 @@ P.O. 22 DE JUNIO DE 2011.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 31 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
