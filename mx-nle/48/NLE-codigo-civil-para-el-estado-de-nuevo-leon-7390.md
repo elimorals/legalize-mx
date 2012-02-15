@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2011-12-14"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -5351,9 +5351,11 @@ El Ministerio Público será oído en la extinción y en la reducción del Patri
 
 Extinguido el Patrimonio de la Familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, o pasan a sus herederos si aquél ha muerto.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### Art. 745.
 
-Las copias de las actas del Registro Civil que sirvan para cumplimentar la disposición contenida en la fracción III del artículo 729, deberán extenderse gratuitamente.
+Las copias de las actas del Registro Civil, así como las constancias y documentación legal que sirvan para cumplimentar la disposición contenida en las fracciones III, IV y V del Artículo 729, deberán extenderse gratuitamente, en aquellos casos que obren en archivos públicos de dependencias oficiales.
 
 ###### Art. 746.
 
@@ -16872,6 +16874,10 @@ P.O. 23 DE SEPTIEMBRE DE 2011.
 P.O. 14 DE DICIEMBRE DE 2011.
 
 Único.- el presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ###### ARTICULO TERCERO.
 
