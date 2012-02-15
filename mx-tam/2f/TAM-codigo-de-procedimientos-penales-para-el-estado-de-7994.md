@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2011-12-15"
+last_updated: "2012-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -73,7 +73,7 @@ III.- El procedimiento de ejecución de sanciones, sin perjuicio de lo dispuesto
 
 El ejercicio de la acción penal ante los tribunales es facultad exclusiva del Ministerio Público. A éste y a la policía ministerial a su mando incumbe la persecución de los delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 3.
 
@@ -113,19 +113,19 @@ VIII.- Ejercitar la acción penal y solicitar la reparación del daño;
 
 IX.- Conceder y en su caso revocar o negar el beneficio de la libertad provisional bajo caución al indiciado cuando así proceda, de acuerdo a los términos, requisitos y limitaciones que este Código establece;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 X.- Procurar la conciliación entre el ofendido o la víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la víctima sea causa de extinción de la acción penal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XI.- Iniciar la averiguación previa de los hechos que tenga conocimiento, por los delitos contra la salud en los supuestos previstos en los artículos 204 Ter a 204 Quintus del Código Penal para el Estado de Tamaulipas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -133,13 +133,13 @@ XII.- Ordenar el aseguramiento y decomiso de bienes provenientes del narcotráfi
 
 Los narcóticos los pondrá a disposición de la autoridad sanitaria federal para su destrucción, utilización en la docencia o investigación, y los instrumentos del delito o cosas que sean objeto o producto de él, se pondrán a disposición del Juzgado que le corresponda conocer del proceso, quién determinará su destino, según su utilidad, para beneficio de la procuración e impartición de Justicia o su inutilización si fuere el caso;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XIII.- Informar a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura de algún establecimiento cuando el propietario, poseedor, arrendatario o usufructuario lo empleare para realizar cualquiera de las conductas sancionadas en delitos contra la salud en la modalidad de narcomenudeo, previsto en la Ley General de Salud o en el Código Penal Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -155,19 +155,19 @@ El Ministerio público no ejercerá la acción penal:
 
 I.- Cuando los hechos de que conozca no sean constitutivos de delito; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 II.- Cuando agotada la averiguación no aparezca acreditada la probable responsabilidad del indiciado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 III.- Cuando hubiere alguna causa de extinción de la acción penal a que se refiere el Título Octavo, Libro Primero del Código Penal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -177,7 +177,7 @@ IV.- En los delitos contra la salud en la modalidad de narcomenudeo, cuando el i
 
 Corresponde a los tribunales penales la aplicación de penas y medidas de seguridad, cuando en su sentencia declaren la existencia del delito y la culpabilidad del acusado; o en su caso la necesidad de aplicar las segundas, sin perjuicio de que estas últimas sean aplicadas por el Ejecutivo de acuerdo a las leyes especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 6.
 
@@ -191,19 +191,19 @@ I.- La práctica de cuanta diligencia sea necesaria, para comprobar el cuerpo de
 
 II.- La libertad del inculpado, previa autorización del Procurador General de Justicia:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 a).- Cuando durante el procedimiento aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 b).- Cuando por datos posteriores estime que ya no es procedente una orden de aprehensión no ejecutada aún; solicitará en este caso, se deje sin efecto, lo que se acordará de plano sin perjuicio de que se continúe la averiguación y de que posteriormente, vuelva a ejercitarse si procede; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -213,19 +213,19 @@ III.- La aplicación tanto de las penas como de las medidas de seguridad;
 
 IV.- La reparación del daño en los términos previstos en la Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 V.- La interposición de los recursos que la Ley señala;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 VI.- Lo que corresponda en los incidentes que se tramiten; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -247,7 +247,7 @@ En la Segunda Instancia el Ministerio Público sostendrá o no el recurso interp
 
 En la averiguación previa y cuando no haya detenido, el Ministerio Público podrá solicitar el auxilio de los Tribunales del Estado para librar exhorto y practicar cateos, así como en aquellos casos en que la prueba requerida sólo pueda lograrse mediante orden judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 9.
 
@@ -295,7 +295,7 @@ Si se cometieron dos o más delitos en dos o más distritos dentro del Estado, s
 
 En caso de concurso de delitos del orden común, la competencia se fija atendiendo a la sanción del delito mayor, y a la privativa de libertad cuando se señalen varias de distinta naturaleza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -313,7 +313,7 @@ El juez o tribunal que se estime incompetente para conocer de su causa, una vez 
 
 Si la autoridad a quien se remita el proceso, a su vez se estimara incompetente, lo elevará al Superior que deba dirimir la competencia, para que resuelva lo que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -331,7 +331,7 @@ En las actuaciones se expresará el día, mes y año en que se practiquen, escri
 
 Las actuaciones podrán practicarse a toda hora y aun en los días inhábiles, sin necesidad de previa habilitación, pero se tomarán las providencias necesarias para garantizar el principio de la audiencia pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 19.
 
@@ -369,7 +369,7 @@ Cuando se dé vista de la causa al inculpado, el tribunal tomará las precaucion
 
 Si se perdiera un expediente se repondrá, siguiendo las reglas los incidentes, a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen. En todo caso, se dará vista al Ministerio Público para lo que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -379,7 +379,7 @@ Cuando no sea posible reponer todas las actuaciones, se tendrá por probada plen
 
 Las promociones que se hagan por escrito, deberán ser firmadas por su autor, pudiéndose ordenar su ratificación cuando se estime necesario, pero siempre deberán ser ratificadas si el promovente sólo estampa sus huellas digitales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -389,19 +389,19 @@ A las promociones practicadas a través del Tribunal Electrónico, se les deber�
 
 Los secretarios deberán dar cuenta al Juez o Magistrado, en su caso, dentro del término de veinticuatro horas, con las promociones que se hicieren.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Para tal efecto, se hará constar en los expedientes el día y hora en que se presenten, ya sean por escrito, de manera electrónica a través del Tribunal Electrónico, o las verbales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 En los casos de las promociones recibidas de forma electrónica el secretario deberá de imprimirlas, lo mismo hará para el caso de las recibidas de forma verbal, previa constancia, para que en ambos casos sean agregadas al expediente físico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -425,9 +425,9 @@ El envío de promociones que se realicen mediante la utilización del Tribunal E
 
 Las promociones que se presenten por las partes a través del Tribunal Electrónico en los días u horas inhábiles, se tendrán por recibidas al momento hábil siguiente, exceptuándose de lo anterior, las promociones sujetas a término en las cuales se observará el sello electrónico de recepción, que se genera al presentar las promociones con la firma electrónica avanzada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 26 Ter.
 
@@ -443,9 +443,11 @@ Cuando el inculpado, el ofendido, los testigos o los peritos no hablen el idioma
 
 Cuando no pudiere ser habido un intérprete mayor de edad, podrá nombrarse a un menor que haya cumplido catorce años.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 28.
 
-Si el inculpado, el ofendido o algún testigo fuere sordo o mudo, y sepan leer y escribir, se les interrogará por escrito; si no supieren, se les nombrará un intérprete que pueda comprenderlo, siempre que sea mayor de catorce años.
+Si el inculpado, el ofendido o algún testigo fuese persona con discapacidad auditiva o del habla, y sepa leer y escribir, se le interrogará por escrito; si no supiere, se le nombrará un intérprete que pueda comprenderlo, siempre que sea mayor de catorce años.
 
 ###### ARTICULO 29.
 
@@ -529,7 +531,7 @@ IV.- Arresto hasta de 36 horas.
 
 La suspensión sólo se podrá aplicar a los funcionarios o empleados judiciales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 44.
 
@@ -545,7 +547,7 @@ III.- Arresto hasta de quince días.
 
 (DEROGADO, P.O. 22 DE JUNIO DE 1988)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -563,7 +565,7 @@ Cuando tuviere que practicarse una diligencia judicial fuera del ámbito territo
 
 Se empleará la forma de exhorto cuando se dirija a un funcionario igual o superior en grado y de requisitoria cuando se dirija a un inferior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -729,7 +731,7 @@ Todos los que asistan a la audiencia estarán con la cabeza descubierta, con res
 
 Si se resiste a salir o vuelve al lugar, se le expulsará por medio de la fuerza pública y se le impondrá una corrección disciplinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 77.
 
@@ -831,7 +833,7 @@ Las personas que intervengan en un procedimiento, designarán desde su primera c
 
 Si no cumplieren con lo anterior, cambien de domicilio sin dar aviso al Tribunal o señalen uno falso, las notificaciones, aun las de carácter personal, citaciones, requerimientos o emplazamientos se tendrán por bien hechas por lista, que se fijará en lugar visible del Tribunal, sin perjuicio de las medidas que éste tome para que pueda llevarse adelante el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 94.
 
@@ -849,25 +851,25 @@ Deben firmar las notificaciones, el funcionario que las realiza y las personas a
 
 Cuando el inculpado autorice a su defensor para oír notificaciones, requerimientos, emplazamientos o citaciones, practicadas con éste se entenderán hechas al primero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 El inculpado o su defensor autorizado en términos del párrafo anterior, así como las demás partes del proceso, cuando así lo deseen, podrán autorizar que a través del correo electrónico y mediante el sistema del Tribunal Electrónico del Poder Judicial del Estado, se les realicen las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por el artículo 66 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 Se excluyen de la anterior forma de notificación al inculpado, el auto de término constitucional, las sentencias de primera y segunda instancia que decidan el asunto en lo principal, y las demás que el juez o magistrado así lo consideren conveniente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 De igual forma, las partes podrán solicitar autorización para ingresar a la Página Electrónica que para tal efecto tiene el Poder Judicial del Estado, debiendo proporcionar el nombre de usuario previamente registrado en la base de datos del Órgano Jurisdiccional, lo que les permitirá consultar en forma completa el expediente electrónico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -907,7 +909,7 @@ A los defensores de oficio, cuando no se les pueda hacer la notificación person
 
 ## TITULO SEGUNDO. DE LA AVERIGUACION PREVIA REGLAS COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 103.
 
@@ -957,7 +959,7 @@ Si el ofendido se encuentra inconciente (sic) o imposibilitado para formular su 
 
 Al iniciar el procedimiento el Ministerio Público o la Policía Ministerial, se trasladarán y darán fe de las cosas y de las personas a quienes hubiera afectado el hecho delictuoso y tomarán los datos de los que lo hayan presenciado, procurando que declaren a la mayor brevedad posible, pudiendo elaborar en su caso croquis y tomar fotografías.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1109,7 +1111,7 @@ También será grave el delito de trata de personas, previsto en el artículo 5 
 
 La tentativa punible de los ilícitos penales mencionados en este artículo, también se califica como delito grave.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 ARTICULO 109 BIS.- En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial.
 
@@ -1165,7 +1167,7 @@ Antes de trasladar al probable responsable, en los términos a que se refieren l
 
 Si el probable responsable o su defensor solicitaren la libertad caucional, los funcionarios mencionados se concretarán a recibir la petición relativa y agregarla a la averiguación para que el Juez resuelva sobre el particular, hecha excepción de lo previsto en el Artículo 169 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 112.
 
@@ -1201,11 +1203,11 @@ Tratándose de delitos culposos, que admitan libertad provisional bajo caución,
 
 Tanto el Ministerio Público como la Policía Ministerial se sujetarán a las disposiciones del presente Código, a los Reglamentos y Leyes Orgánicas respectivas, en lo que concierne a las diligencias que hayan de practicar antes de iniciarse el procedimiento judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. REGLAS PARA LA PRACTICA DE DILIGENCIAS Y LEVANTAMIENTO DE ACTAS DE POLICIA MINISTERIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 116.
 
@@ -1301,7 +1303,7 @@ Los funcionarios del Ministerio Público y de la Policía Ministerial, asentará
 
 Se asentarán en el acta a que se refiere el artículo anterior, todas las observaciones que acerca del probable responsable y la víctima hubieran recibido, ya sea en el momento de cometer el delito, su detención, o bien durante la práctica de las diligencias en que hubiere intervenido.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO II. COMPROBACION DEL CUERPO DEL DELITO VESTIGIOS, INSTRUMENTOS Y OBJETOS DEL MISMO
 
@@ -1321,7 +1323,7 @@ Cuando las circunstancias a que se refiere el Artículo anterior, no pudieran ap
 
 Si para la comprobación de la existencia del delito, de sus elementos o de sus circunstancias, tuviere importancia el reconocimiento de un lugar, se ordenará se verifique haciendo constar en el acta la descripción del mismo y de todos los detalles que puedan tener significación para la apreciación de los hechos. Asimismo se agregarán las fotografías correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 132.
 
@@ -1359,7 +1361,7 @@ III.- Que ya no sea necesaria la existencia de las medidas decretadas.
 
 En los casos de los dos Artículos anteriores, el Ministerio Público ordenará el reconocimiento por peritos, siempre que lo estime necesario para apreciar mejor su relación con el delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1369,13 +1371,13 @@ I.- Ordenar el aseguramiento del narcótico, realizando una inspección de las s
 
 II.- Tratándose de objetos o instrumentos del delito procederá además a notificar el aseguramiento al interesado dentro de los sesenta días naturales siguientes a su ejecución, poniendo a su disposición una copia certificada del acta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Las notificaciones se harán en los términos que dispone el presente Código, y, en caso de desconocerse la identidad o domicilio de la persona se procederá a hacer por edicto que se publicará por una sola ocasión en el periódico oficial del Estado y en un periódico de mayor circulación del lugar. En ambos casos se apercibirá que no enajene o grave los bienes asegurados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1399,13 +1401,13 @@ De levantarse el embargo o aseguramiento previos, quien los tenga bajo su custod
 
 La devolución de bienes asegurados procede en los casos siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 I.- En la averiguación previa, cuando el Ministerio Público resuelva el no ejercicio de la acción penal en contra de quien tenga derecho a los bienes, o se levante el aseguramiento de conformidad con la ley; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1471,7 +1473,7 @@ II.- Determinar razonadamente, con base a la ubicación de los vestigios de viol
 
 El dictamen servirá para acreditar los elementos que integran el tipo penal, solamente cuando conforme a las constancias procesales, existan otras pruebas de la comisión del delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 143.
 
@@ -1529,7 +1531,7 @@ Los profesionales que presten sus servicios en las instituciones legalmente cons
 
 En el delito de robo se describirán las características y se detallará el estado del objeto del ilícito, haciéndose también constar todas aquellas señales que puedan servir para determinar si hubo escalamiento, horadación o fractura, o si se usaron llaves falsas, haciendo cuanto fuere necesario para que los peritos emitan su opinión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 151.
 
@@ -1573,7 +1575,7 @@ En los casos del delito de daño en propiedad ajena causado por incendio, inunda
 
 Si el delito fuere de falsedad o falsificación de documentos, se hará una minuciosa descripción del instrumento argüido de falso y se depositará en lugar seguro, haciendo que firmen en él, si fuere posible, las personas que depongan respecto a su falsedad; en caso contrario se harán constar los motivos. Al expediente se agregará una copia certificada del documento argüido de falso y una fotostática del mismo cuando sea posible. La comprobación del cuerpo del delito en los casos de falsedad, se hará como lo dispone el artículo 158 de éste Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1581,7 +1583,7 @@ Si el delito fuere de falsedad o falsificación de documentos, se hará una minu
 
 En los casos del delito de narcomenudeo, el Ministerio Público o el juez de la causa, solicitarán la elaboración del dictamen pericial correspondiente, sobre los caracteres organolépticos o químicos de la sustancia considerada como estupefaciente. El dictamen deberá ser rendido antes de las 48 ó 72 horas, respectivamente, cuando hubiere detenido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1659,7 +1661,7 @@ Siempre que un lesionado internado en un hospital público o privado salga de é
 
 ### CAPITULO IV. CONSIGNACION ANTE LOS TRIBUNALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 168.
 
@@ -1705,7 +1707,7 @@ c).- Que esté extinguida legalmente.
 
 II.- Cuando durante el procedimiento judicial aparezca plenamente comprobado en autos que el inculpado no ha tenido participación en el delito que se persigue, o que existe en su favor alguna causa que excluya el delito o la responsabilidad penal, pero solamente por lo que se refiere a quienes se encuentran en estas circunstancias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1853,7 +1855,7 @@ Si fueren varios los defensores, estarán obligados a nombrar un representante c
 
 No pueden ser defensores los que se hallen presos ni los que estén procesados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO IV. AUTO DE FORMAL PRISION, SUJECION A PROCESO, DE NO SUJECION A PROCESO Y DE LIBERTAD
 
@@ -1911,7 +1913,7 @@ El auto de formal prisión y el de sujeción a proceso, producen los efectos jur
 
 Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o en el de sujeción a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto del que se persigue, deberá ser objeto de averiguación separada, sin perjuicio de que después pueda decretarse la acumulación si fuera conducente.
 
-> <small>(REFORMADO, PRIMER PARRAFO P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 190.
 
@@ -1989,7 +1991,7 @@ VII.- Careos.
 
 También podrán ofrecerse y, deberá ordenarse su desahogo, pruebas no especificadas en el artículo anterior, entendiéndose como tales, todo aquello que a juicio del funcionario que practique la averiguación o la instrucción, pueda constituirla. Cuando éste lo juzgue necesario podrá, por cualquier medio legal, establecer la autenticidad de dicho medio de prueba.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2411,9 +2413,13 @@ Fuera del caso de enfermedad o imposibilidad física, toda persona está obligad
 
 Los testigos deben ser examinados separadamente. Sólo las partes podrán intervenir en la diligencia, salvo en los casos siguientes:
 
-I.- Cuando sea ciego;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
 
-II.- Cuando sea sordo o mudo; y
+I.- Cuando sea persona con discapacidad visual;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+II.- Cuando sea persona con discapacidad auditiva o del habla; y
 
 III.- Cuando ignore el idioma español.
 
@@ -2685,7 +2691,7 @@ Los Tribunales, en sus resoluciones, expondrán los razonamientos que hayan teni
 
 El Tribunal ante el cual se ejerza la acción penal, practicará sin demora alguna todas las diligencias procedentes que promuevan las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 308.
 
@@ -2723,7 +2729,7 @@ Transcurridos o renunciados los plazos a que se refiere el artículo 309 y las p
 
 Al cerrar la instrucción, el Juez tiene la obligación de revisar que en el proceso no esté pendiente de resolverse algún recurso de apelación, si así fuere, comunicará el cierre de la instrucción al Magistrado que le haya tocado resolver el recurso, a fin de que se resuelva antes de que la causa quede en estado de dictar sentencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO II. PROCEDIMIENTO ANTE LOS JUECES MENORES
 
@@ -2753,11 +2759,11 @@ Si fueren varios los inculpados y la pena a imponerse a cualquiera de ellos exce
 
 Las resoluciones dictadas por los Jueces Menores en la etapa de instrucción, no admiten recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 1988)</small>
 
 #### SECCION UNICA. DE LA PREINSTRUCCION ANTE LOS JUECES MENORES EN AUXILIO DE LOS JUECES DE PRIMERA INSTANCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2769,13 +2775,13 @@ Siempre que un Juzgado Menor inicie diligencias en auxilio de algún Tribunal de
 
 El Tribunal, con vista del aviso a que se refiere el Artículo anterior, podrá dar a la autoridad que practique las diligencias, las instrucciones que juzgue necesarias; trasladarse al lugar para practicarlas personalmente; o bien pedir su envío desde luego o en su oportunidad, según lo estime conveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 320.
 
 Las diligencias practicadas por los Jueces Menores en auxilio de los de Primera Instancia, no se repetirán por éstos para que tengan validez, sin perjuicio de que el Tribunal encargado de la instrucción disponga su repetición en caso de estimarlo necesario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2869,7 +2875,7 @@ En los primeros tres días de haberse notificado la fecha para la audiencia de v
 
 > <small>[N. DE E. VÉASE LITERALIDAD DE LOS DECRETOS PUBLICADOS EN EL P.O. DE 22 DE JUNIO DE 1988 Y 17 DE SEPTIEMBRE DE 2008, PÁGINAS 8 Y 9, RESPECTIVAMENTE.]</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 334.
 
@@ -3121,7 +3127,7 @@ Si la resolución impugnada es inapelable, procederá a declararlo en ese sentid
 
 Las partes podrán tomar en la Secretaría de la Sala los apuntes que necesiten para alegar. Pueden igualmente, dentro de los tres días siguientes a la notificación del auto de radicación, objetar la admisión del recurso o sus efectos y la Sala resolverá de plano, siendo irrecurrible la providencia que se pronuncie al respecto, procediéndose, en su caso, como lo previene el Artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3185,7 +3191,7 @@ III.- Si después de que se haya admitido el recurso de apelación contra el aut
 
 IV.- Cuando en virtud de cualquier otro cambio de situación jurídica en el procedimiento penal, a causa de una resolución posterior, deben considerarse consumadas irreparablemente las violaciones que pudieran haberse cometido al dictar el auto apelado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3281,7 +3287,7 @@ La denegada apelación, procederá siempre que se hubiere negado admitir el recu
 
 El recurso podrá interponerse verbalmente o por escrito, dentro de los tres días siguientes a la notificación del auto en que se negare la admisión del recurso de apelación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3293,9 +3299,9 @@ Interpuesto el recurso, el Juez sin más trámite enviará al Tribunal de segund
 
 Cuando el juez no cumpliere con lo prevenido en el artículo anterior, el interesado podrá ocurrir por escrito dentro de un plazo de cinco días al Supremo Tribunal, haciendo relación del auto de que hubiere apelado, expresando la fecha en que se le hubiere hecho la notificación, aquella en que interpuso el recurso y la providencia que a esa promoción hubiere recaído, solicitando que se libre la orden al Juez para que proceda como lo manda el Artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 390.
 
@@ -3657,7 +3663,7 @@ Las cuestiones de competencia suscitadas entre los Juzgados Menores de un mismo 
 
 ### CAPITULO II. IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 434.
 
@@ -3691,7 +3697,7 @@ Cuando un Juez o Magistrado no se excuse, a pesar de tener algún impedimento, p
 
 No son admisibles las recusaciones sin causa. En todo caso se expresará concreta y claramente la que exista, y siendo varias, se propondrán al mismo tiempo, salvo que se trate de alguna superveniente, la que se propondrá cuando ocurra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 438.
 
@@ -3771,7 +3777,7 @@ Las excusas y recusaciones de los Secretarios, serán resueltas por el funcionar
 
 Las excusas y recusaciones de los funcionarios del Ministerio Público y de los Defensores de Oficio, serán calificadas por el funcionario que corresponda, según la Ley Reglamentaria respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 452.
 
@@ -3825,7 +3831,7 @@ Cuando el inculpado sólo haya sido declarado sujeto a proceso, se podrá promov
 
 ### CAPITULO IV. SUSPENSION DEL PROCEDIMIENTO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 459.
 
@@ -3911,7 +3917,7 @@ II.- Cuando han sido cometidos por varias personas, aunque en diversos tiempos y
 
 III.- Cuando se ha cometido un delito para procurarse los medios de cometer otro, para facilitar su ejecución, para consumarlo o para asegurar la impunidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -3937,7 +3943,7 @@ Si la promoviere alguna de las partes, el Tribunal las oirá en audiencia verbal
 
 Si los procesos se siguen en diversos tribunales, será competente para conocer de todos los que deban acumularse, el Tribunal que conociere de las diligencias más antiguas; si éstas se comenzaron en la misma fecha, el que conociere del delito más grave; y si fueren iguales será competente el juez que elija el Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -3995,7 +4001,7 @@ El auto en que se decrete la separación sólo es apelable en el efecto devoluti
 
 Cuando varios tribunales conocieren de procesos cuya separación se hubiere decretado, el que primero pronuncie sentencia definitiva la comunicará a los otros; éstos dictarán su fallo de acuerdo con lo que dispone el Código Penal, para la imposición de sanciones en caso de concurso y de reincidencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VIII. REPARACION DEL DAÑO
 
@@ -4059,11 +4065,11 @@ El fallo condenatorio en este incidente será apelable en ambos efectos, pudiend
 
 La sentencia condenatoria será ejecutada por el propio Juez, ajustándose a las disposiciones sobre ejecución de sentencias del Código Procesal Civil.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 1999)</small>
 
 ### CAPITULO IX. SUSTITUCION DE SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 495 Bis.
 
@@ -4109,7 +4115,7 @@ Hecha la promoción, se dará vista de ella a la parte contraria para que contes
 
 Desahogada la vista a que se refiere el Artículo anterior o transcurrido el plazo señalado, si el Tribunal lo creyere conveniente, o alguna de las partes lo pidiere, citará a una audiencia que se verificará dentro de los tres días siguientes. Durante este plazo, así como en la audiencia, se recibirán las pruebas. Concurran o no las partes, el Tribunal fallará desde luego el incidente, siendo apelable el fallo en el efecto devolutivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 1988)</small>
 
 ## TITULO NOVENO. PROCEDIMIENTO PARA INIMPUTABLES
 
@@ -4151,7 +4157,7 @@ Las resoluciones que concluyan las dos etapas del procedimiento especial serán 
 
 No procederá recurso alguno contra cualquier auto o resolución distinta a los anteriores, dictada en el procedimiento especial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 1988)</small>
 
 ## TITULO DECIMO. PROCEDIMIENTO DE EJECUCION
 
@@ -4225,7 +4231,7 @@ Para la ejecución de las sanciones, el Ejecutivo se someterá a lo prevenido en
 
 La ejecución de la sentencia en lo relativo a la reparación del daño a cargo del delincuente, corresponde al Juez de Ejecución de Sanciones, ajustándose a las disposiciones de la ley procesal civil a ese respecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -4285,7 +4291,7 @@ El día fijado para la vista, dada cuenta por el Secretario, se recibirán las p
 
 A los cinco días de celebrada la vista, el Tribunal declarará si es o no procedente la solicitud del reo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 525.
 
@@ -4307,7 +4313,7 @@ El Ejecutivo, en vista de los comprobantes a que se refiere el Artículo anterio
 
 La rehabilitación de los derechos civiles o políticos, no procederá mientras el reo esté extinguiendo la sanción privativa de libertad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 529.
 
@@ -4383,11 +4389,11 @@ Los servidores públicos del Estado, mencionados en el Artículo 152 de la Const
 
 Fuera de los servidores públicos a que se refiere el Artículo anterior ningún otro gozará de protección constitucional.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
 
 TITULO ESPECIAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 1988)</small>
 
 ### CAPITULO UNICO. PROCEDIMIENTO RELATIVO AL JURADO POPULAR
 
@@ -4799,7 +4805,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la Residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los veintinueve días del mes de diciembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JUNIO DE 1988.
 
@@ -5008,3 +5014,9 @@ P.O. 15 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+P.O. 15 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
