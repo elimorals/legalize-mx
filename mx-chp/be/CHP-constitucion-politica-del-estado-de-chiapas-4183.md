@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2011-12-15"
+last_updated: "2012-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -33,7 +33,7 @@ Que la H. XXVIII Legislatura del mismo, ha tenido a bien decretar:
 
 La XXVIII Legislatura Constitucional del Estado Libre y Soberano de Chiapas, con su carácter de Asamblea Constituyente, en nombre del Pueblo decreta la siguiente:
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 263, POR LA SEXAGÉSIMA CUARTA LEGISLATURA, MODIFICO DE MANERA SUSTANCIAL EL TEXTO DE LA CONSTITUCIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 27 DE JUNIO DE 2011.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 263, POR LA SEXAGÉSIMA CUARTA LEGISLATURA, MODIFICÓ DE MANERA SUSTANCIAL EL TEXTO DE LA CONSTITUCIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 27 DE JUNIO DE 2011.</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
@@ -819,7 +819,11 @@ I. Al Gobernador del Estado.
 
 II. A los Diputados.
 
-III. Al Titular del Poder Judicial del Estado, en materia de su ramo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+III. Al Titular del Poder Judicial del Estado, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tenga conocimiento.
 
 IV. Al Presidente del Consejo Estatal de los Derechos Humanos, en materia de su ramo.
 
@@ -1363,6 +1367,12 @@ El Titular del Ejecutivo y el Congreso del Estado deberán velar que en el nombr
 
 Ningún servidor público del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo la docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+Las penas y medidas impuestas por la realización de un hecho tipificado como delito por la ley penal y demás leyes especializadas, deberán ser racionales y proporcionales al delito que sancione y al bien jurídico afectado, a la conducta y corresponderá su aplicación al órgano competente del Poder Judicial del Estado, bajo el Sistema Acusatorio.
+
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 57.
@@ -1397,7 +1407,11 @@ El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judic
 
 Los magistrados del Tribunal Constitucional serán nombrados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes.
 
-Los magistrados que integren las salas regionales colegiadas y especializadas en justicia para adolescentes del Tribunal Superior de Justicia, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos del Código. La adscripción de los magistrados del Tribunal Superior de Justicia, a excepción de los del Tribunal Constitucional, será acordada por el Consejo de la Judicatura.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+Los magistrados que integren las Salas Regionales Colegiadas y las Especializadas en Justicia para Adolescentes del Tribunal Superior de Justicia, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos del Código de Organización del Poder Judicial. La adscripción de los magistrados del Tribunal Superior de Justicia, a excepción de los del Tribunal Constitucional, será acordada por el Consejo de la Judicatura.
 
 Los nombramientos de los magistrados del Tribunal Superior de Justicia, salvo los magistrados constitucionales, serán aprobados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de la mayoría de sus integrantes.
 
@@ -1409,7 +1423,19 @@ El Tribunal Superior de Justicia contará con un órgano de mediación, concilia
 
 El Director General del Centro Estatal de Justicia Alternativa será nombrado por el Consejo de la Judicatura a propuesta del Titular del Ejecutivo, para la designación de los demás servidores públicos del Centro, se nombrarán dentro de aquéllos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores y árbitros, mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+El Instituto de la Defensoría Social del Estado de Chiapas, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
+
 El Tribunal Constitucional elaborará su proyecto de presupuesto, el Consejo de la Judicatura lo hará para el resto del Poder Judicial en los términos previstos por esta Constitución, el Código y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado. El presupuesto asignado al Poder Judicial no podrá ser inferior al dos por ciento del total del presupuesto de egresos del Estado, el cual no será disminuido respecto al del año anterior y se fijará anualmente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+Para garantizar la efectividad del Sistema de Justicia Acusatorio, el Tribunal Superior de Justicia contará además, con órganos cuya actuación se regirá bajo los principios de publicidad, contradicción, concentración, continuidad, e inmediación, en las formas que la ley de la materia determine.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -2053,7 +2079,7 @@ La protección ciudadana es una función a cargo del Estado y sus Municipios, en
 
 El Estado y los municipios se coordinarán en los términos que la Ley señale para establecer un Sistema Estatal de Seguridad Pública que garantice el ejercicio irrestricto de las libertades ciudadanas, la paz y orden públicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2011)</small>
 
 ###### Artículo 95.
 
@@ -2153,7 +2179,7 @@ Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelió
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
 
-## ARTICULOS TRANSITORIOS
+## ARTÍCULOS TRANSITORIOS
 
 ###### Artículo I.
 
@@ -2493,7 +2519,7 @@ P.O. 7 DE ENERO DE 1931.
 
 DECRETO NÚMERO 67, QUE REFORMA VARIOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE POR ACUERDO DEL C. GOBERNADOR DEL ESTADO, Y EN VISTA DE HABERSE PUBLICADO CON ALGUNOS ERRORES Y OMISIONES EL DECRETO NÚMERO 67, PUBLICADO EN EL PERIÓDICO OFICIAL No. 1, DE FECHA 7 DE ENERO DE 1931, QUEDO SIN EFECTO ALGUNO DICHO DECRETO, DEBIÉNDOSE TENER COMO AUTÉNTICA Y EXACTA LA PUBLICACIÓN QUE NUEVAMENTE SE REALIZÓ DEL MISMO, EN EL P.O. 14 DE ENERO DE 1931.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE POR ACUERDO DEL C. GOBERNADOR DEL ESTADO, Y EN VISTA DE HABERSE PUBLICADO CON ALGUNOS ERRORES Y OMISIONES EL DECRETO NÚMERO 67, PUBLICADO EN EL PERIÓDICO OFICIAL No. 1, DE FECHA 7 DE ENERO DE 1931, QUEDÓ SIN EFECTO ALGUNO DICHO DECRETO, DEBIÉNDOSE TENER COMO AUTÉNTICA Y EXACTA LA PUBLICACIÓN QUE NUEVAMENTE SE REALIZÓ DEL MISMO, EN EL P.O. 14 DE ENERO DE 1931.</small>
 
 ###### Artículo 3º.
 
@@ -3519,7 +3545,7 @@ Artículo Décimo.- Se derogan todas las disposiciones que se opongan a las pres
 
 P.O. 14 DE NOVIEMBRE DE 2007.
 
-> <small>N. DE E. SE REPUBLICO EL CONTENIDO DEL DECRETO NO. 324 EN EL 326.</small>
+> <small>N. DE E. SE REPUBLICÓ EL CONTENIDO DEL DECRETO NO. 324 EN EL 326.</small>
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3870,3 +3896,15 @@ P.O. 15 DE DICIEMBRE DE 2011.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor el día veintiuno del mes de mayo del año 2012.
+
+Segundo.- Dentro del término de ciento ochenta días contados a partir de la publicación del presente Decreto en el Periódico Oficial, se llevarán a cabo las modificaciones necesarias para adecuar los ordenamientos jurídicos respectivos relativos al Sistema de Justicia de Corte Acusatorio.
+
+Tercero.- La aplicación de las normas jurídicas relativas al Sistema de Justicia Acusatorio se estarán a lo dispuesto en los términos y modalidades que para tal efecto se determine en el Código de Procedimientos Penales para el Estado de Chiapas, que al respecto se emita.
+
+Cuarto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, deberán realizar las gestiones necesarias para proveerse de los recursos económicos que se requieran para la instalación, funcionamiento y capacitación del Sistema de Justicia Acusatorio, correspondiente a la presente anualidad, de igual manera deberán proceder para los ejercicios fiscales subsiguientes en los presupuestos de egresos que al efecto presenten ante el Congreso del Estado.
+
+Quinto.- Se derogan las disposiciones que se opongan al presente Decreto.
