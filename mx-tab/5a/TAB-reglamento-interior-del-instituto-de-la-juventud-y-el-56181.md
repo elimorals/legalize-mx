@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-de-la-juventud-y-el-56181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-10"
-last_updated: "2007-02-10"
+last_updated: "2012-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 10 de febrero de 2007.
 
@@ -65,9 +65,11 @@ El Instituto como órgano desconcentrado de la Secretaría de Educación, tiene 
 
 El Instituto planeará, guiará y conducirá sus actividades sujetándose a las políticas, estrategias, prioridades y restricciones que para el logro de los objetivos y metas establece el Plan Estatal de Desarrollo, en congruencia con la Ley Estatal de Planeación y la Ley de Cultura Física y Deporte del Estado de Tabasco; asimismo, observará lo establecido en los Programas Regionales, Sectoriales e Institucionales.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
-Al frente de cada Dirección o Coordinación, habrá un Director o Coordinador, según corresponda que se auxiliará para el cumplimiento de atribuciones de los subdirectores, jefes de departamento y demás servidores públicos que se señalen en el Manual de Organización y en las demás disposiciones jurídicas aplicables.
+Al frente de cada Dirección o Coordinación habrá un Director o Coordinador según corresponda, que se auxiliará para el cumplimiento de sus atribuciones de los jefes de departamento y demás servidores públicos que se señalen en el Manual de Organización y en las demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -85,7 +87,9 @@ c) No haber sido condenado por el delito doloso que merezca pena corporal, y
 
 d) Contar preferentemente con estudios profesionales relativos al ejercicio de sus funciones.
 
-Para desempeñar el cargo de Director, Coordinador, Subdirector, Jefe de Departamento y demás servidores públicos, se requerirá cumplir los requisitos señalados en este artículo.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+Para desempeñar el cargo de Director, Coordinador, Jefe de Departamento y demás servidores públicos, se requerirá cumplir los requisitos señalados en este artículo.
 
 ### CAPÍTULO SEGUNDO (SIC). DE LA ORGANIZACIÓN
 
@@ -95,7 +99,9 @@ Para el estudio, planeación y despacho de los asuntos de su competencia el Dire
 
 I. UNIDADES DE APOYO
 
-a) Secretaría Particular;
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+a) Unidad Particular;
 
 b) Unidad de Apoyo Ejecutivo;
 
@@ -109,9 +115,13 @@ II. DIRECCIONES
 
 a) Dirección de Calidad para el Deporte;
 
-b) Dirección de Administración, Calidad e Innovación Gubernamental;
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
-c) Dirección de Asesoría Jurídica;
+b) Dirección de Administración;
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
+c) Dirección de Asuntos Jurídicos;
 
 d) Dirección de Unidad Deportiva Olimpia XXI; y
 
@@ -181,7 +191,7 @@ XXV. Otorgar audiencia a la ciudadanía atendiendo a los planteamientos y solici
 
 XXVI. Recabar información y elementos estadísticos relativos a las funciones sustantivas del Instituto, en base a esos datos diagnosticar e informar periódicamente a la Secretaría de Educación;
 
-XXVII. Establecer la coordinación necesaria con la Coordinación General de Desarrollo Social, para que por conducto de las Unidades de Servicios Estatales se lleve a cabo la desconcentración de los servicios que presta el Instituto a fin de brindar una mejor atención a la población;
+XXVII. (DEROGADA, P.O. 15 DE FEBRERO DE 2012)
 
 XXVIII. Desempeñar las comisiones y representaciones en materia de juventud y deporte, ante las Instancias Federales, Estatales y Municipales, Organizaciones Privadas, Sociales y Organismos Internacionales; así como en las demás reuniones en las que el Ejecutivo solicite su intervención, y
 
@@ -217,9 +227,11 @@ XI Proponer al Director General la contratación, promoción y adscripción del 
 
 XII Las demás que establezca este Reglamento, la Ley de Cultura Física y Deporte del Estado de Tabasco y los ordenamientos aplicables en la materia, así como las que expresamente les encomiende el Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 12.
 
-A la Secretaría Particular le corresponde el ejercicio de las atribuciones siguientes:
+A la Unidad Particular le corresponde el ejercicio de las siguientes atribuciones:
 
 I Atender y desahogar los asuntos que no requieran la intervención directa del Director General;
 
@@ -289,7 +301,9 @@ V Coordinar, supervisar y evaluar los trabajos de conservación, rehabilitación
 
 VI Vigilar y mantener en buen estado las unidades deportivas adscritas al Instituto;
 
-VII Supervisar y evaluar en coordinación con la Dirección de Administración, Calidad e Innovación Gubernamental los trabajos de construcción, rehabilitación y mantenimiento que en materia deportiva le corresponda al Instituto, y que son ejecutadas por la Secretaría de Asentamientos y Obras Públicas en los términos de la legislación y normatividad aplicable; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+VII Supervisar y evaluar en coordinación con la Dirección de Administración los trabajos de construcción, rehabilitación y mantenimiento que en materia deportiva le corresponda al Instituto, y que son ejecutadas por la Secretaría de Asentamientos y Obras Públicas en los términos de la legislación y normatividad aplicable; y
 
 VIII Atender las auditorías a las que está sujeta la Unidad de Infraestructura Básica Deportiva, así como elaborar y presentar los reportes solicitados por las dependencias globalizadoras.
 
@@ -329,7 +343,9 @@ XII. Vigilar que (sic) los asuntos de su competencia se de cumplimiento a los or
 
 XIII. Proponer al Director General la contratación, promoción y adscripción del personal de la Dirección a su cargo, así como la contratación de servicios profesionales externos que sean necesarios, con estricto apego al presupuesto autorizado y a las normas establecidas;
 
-XIV. Atender las auditorias a las que está sujeto el Instituto, así como elaborar y presentar en coordinación con la Dirección de Administración, Calidad e Innovación Gubernamental, las justificaciones, solventaciones y reportes especiales que solicite la Secretaría de Contraloría;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+XIV. Atender las auditorías a las que está sujeto el Instituto, así como elaborar y presentar en coordinación con la Dirección de Administración las justificaciones, solventaciones y reportes especiales que solicite la Secretaría de Contraloría;
 
 XV. Observar las disposiciones establecidas por las dependencias globalizadas y la Ley de Fiscalización Superior del Estado de Tabasco, y
 
@@ -365,9 +381,11 @@ XII. Elaborar e impulsar una agenda de programación estatal de eventos deportiv
 
 XIII. Desarrollar el programa de formación y capacitación deportiva que coadyuve en la formación de los atletas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-Corresponde a la Dirección de Administración, Calidad e Innovación Gubernamental, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Administración el ejercicio de las siguientes atribuciones:
 
 I. Establecer, dirigir y vigilar el cumplimiento de las normas, políticas, sistemas y procedimientos para la (sic) optimizar el uso de los recursos humanos, materiales y financieros del Instituto;
 
@@ -421,9 +439,11 @@ XXV. Observar y vigilar el cumplimiento de las normas de control y evaluación q
 
 XXVI. Elaborar informes mensual, trimestral y anual de la situación financiera del Instituto, a fin de informar oportunamente a la Secretaría de Administración y Finanzas y la Secretaría de Contraloría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde a la Dirección de Asesoría Jurídica el ejercicio de las atribuciones siguientes:
+Corresponde a la Dirección de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
 
 I Asesorar en materia Jurídica al Director General y desahogar las consultas que le formulen las unidades administrativas del Instituto;
 
@@ -481,7 +501,9 @@ IX. Realizar e implementar los planes y programas de mantenimiento preventivo y 
 
 X. Supervisar el funcionamiento de los servicios de instalaciones eléctricas, hidráulicas y sanitarias; así como de seleccionar los equipos y herramientas requeridos;
 
-XI. Gestionar ante la Dirección de Administración, Calidad e Innovación Gubernamental, toda la documentación soporte para la operatividad y funcionamiento de la Unidad; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+
+XI. Gestionar ante la Dirección de Administración, toda la documentación soporte para la operatividad y funcionamiento de la Unidad; y
 
 XII. Las demás que le señalen otros ordenamientos aplicables y las que le encomiende el Director General y no contravengan las disposiciones del presente Reglamento.
 
@@ -525,9 +547,11 @@ XIV. Instrumentar y promover los programas del Instituto Mexicano de la Juventud
 
 Las ausencias del Director General serán suplidas por el Servidor Público que al efecto designe el Secretario de Educación.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 24.
 
-Las a (sic) ausencias temporales de los directores, coordinadores, subdirectores y titulares de unidades administrativas serán suplidas por el servidor público que designe el Director General.
+las ausencias temporales de los directores, coordinadores y titulares de unidades administrativas, serán suplidas por el servidor público que designe el Director General.
 
 ## TRANSITORIOS
 
@@ -556,3 +580,11 @@ SECRETARIA DE EDUCACIÓN
 MTRA. MELCHI FRANCO RUÍZ
 
 DIRECTORA GENERAL DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DE TABASCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2012.
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
