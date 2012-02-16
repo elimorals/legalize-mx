@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2011-12-20"
+last_updated: "2012-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PUBLICA DEL ESTADO DE SAN LUIS POTOSÍ
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -497,9 +497,17 @@ VII. La información relativa a la programación de las sesiones del Pleno, de l
 
 VIII. Los informes y cuentas públicas que por disposición legal deben entregar las entidades públicas al Poder Legislativo, que los difundirá a más tardar quince días hábiles después de que hubiesen concluido los procedimientos de evaluación, dictamen y aprobación por el Pleno del Congreso del Estado;
 
-IX. Resoluciones diversas tomadas por las comisiones de gobierno interior y legislativas, por el Pleno o la Diputación Permanente, y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
 
-X. Las demás que establezcan su Ley Orgánica y demás disposiciones aplicables.
+IX. Resoluciones diversas tomadas por las comisiones de gobierno interior y legislativas, por el Pleno o la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+X. El número y la denominación de los grupos parlamentarios, y de las representaciones parlamentarias, existentes en el Congreso del Estado; el nombre de las diputadas y diputados que los integren, así como quien funja como coordinador del mismo y, si los hubiere, los demás nombramientos de sus integrantes, y
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+XI. Las demás que establezcan su Ley Orgánica y demás disposiciones aplicables.
 
 ### CAPITULO I. Del Contenido de la Información Pública de Oficio
 
@@ -1263,7 +1271,7 @@ Cuando se impongan multas a los responsables de los partidos políticos, de acue
 
 Las responsabilidades que se generen por el incumplimiento de las obligaciones a que se refiere esta Ley, son independientes de las que procedan en otros órdenes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 114.
 
@@ -1383,7 +1391,7 @@ D A D O en el Salón de Sesiones del Honorable Congreso del Estado, el once de o
 
 Diputado Presidente: Juan Pablo Escobar Martínez, Diputada Primera Secretaria: Martha Lilia García Galarza, Diputado Segundo Secretario: Roberto Cervantes Bajaras, (Rúbricas)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE ABRIL DE 2008.
 
@@ -1454,3 +1462,9 @@ P.O. 20 DE DICIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a las del presente Decreto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
