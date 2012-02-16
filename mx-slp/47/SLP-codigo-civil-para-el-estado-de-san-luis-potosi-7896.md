@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2011-11-17"
+last_updated: "2012-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -223,15 +223,15 @@ Las sucursales que operen en distintos lugares de la matriz, tendrán su domicil
 
 ART. 27.- Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO CUARTO. Del Registro Civil
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -961,7 +961,7 @@ ART. 193.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. De los Matrimonios Nulos e Ilícitos
 
@@ -1091,7 +1091,7 @@ ART. 224.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. Del Divorcio
 
@@ -1213,31 +1213,31 @@ ART. 252.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ### CAPITULO VIII. Del concubinato
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.1.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.2.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.3.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.4.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.5.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.6.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 252.7.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
@@ -1433,7 +1433,7 @@ ART. 284.5.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 284.6.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-ART. 284 TER.- (DEROGADO, P.O.18 DE DICIEMBRE DE 2008)
+ART. 284 TER.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1443,7 +1443,7 @@ ART. 284 TER.- (DEROGADO, P.O.18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO I. De los Hijos de Matrimonio
 
@@ -1871,23 +1871,23 @@ ART. 370.8.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ### CAPITULO VIII. De la adopción internacional
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 370.9.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 370.10.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 370.11.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 370.12.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 370.13.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
@@ -1963,7 +1963,7 @@ ART. 384 BIS.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. De los Efectos de la Patria Potestad Respecto de los Bienes del Hijo
 
@@ -2035,7 +2035,7 @@ ART. 400.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 401.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 402.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
@@ -2451,7 +2451,7 @@ ART. 486.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO X. Del desempeño de la Tutela
 
@@ -2669,7 +2669,7 @@ ART. 539.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO XI. De las Cuentas de la Tutela
 
@@ -3255,7 +3255,7 @@ ART. 643.- Si la persona ausente se presenta o se prueba su existencia antes de 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. De la Administración de los Bienes del Ausente
 
@@ -3299,7 +3299,7 @@ ART. 652.- Declarada la presunción de muerte, se abrirá el testamento de la pe
 
 ART. 653.- Si se llega a probar la muerte de la persona ausente, la herencia pasará a los que debieran heredar al tiempo de ella; pero la o el poseedor o poseedores de los bienes hereditarios a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 643 de este Código, y todos ellos, desde que obtuvieron la posesión definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -3411,93 +3411,93 @@ ART. 669.- La o el Ministerio Público velará por los intereses de la persona a
 
 ART. 670.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 671.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 672.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 673.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 674.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 675.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 676.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 677.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 678.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 679.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 680.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 681.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 682.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 683.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 684.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 685.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 686.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 687.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 688.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 689.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 690.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 691.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 ART. 692.- (DEROGADO, P.O. 20 DE MARZO DE 2003)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 693.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
@@ -3751,7 +3751,11 @@ ART. 769.- Posesión pacífica es la que se adquiere sin violencia.
 
 ART. 770.- Posesión contínua es la que no se ha interrumpido por alguno de los medios enumerados en el capítulo V, título VII de este Libro.
 
-ART. 771.- Posesión pública es la que se disfruta de manera que pueda ser conocida de todos. También lo es la que está inscrita en el Registro de la Propiedad.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 771.- Posesión pública es la que se disfruta de manera que pueda ser conocida de todos.
+
+También lo es la que está inscrita en el Registro Público de la Propiedad.
 
 ART. 772.- Sólo la posesión que se adquiere y disfruta en concepto de dueño de la cosa poseída puede producir la prescripción.
 
@@ -3965,7 +3969,7 @@ ART. 849.- Se entiende que hay mala fe de parte del edificador, plantador o semb
 
 ART. 850.- Se entiende haber mala fe por parte del dueño, siempre que a su vista, ciencia y paciencia se hiciere el edificio, la siembra o la plantación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 851.- Si los materiales, plantas o semillas pertenecen a un tercero que no ha procedido de mala fé, el dueño del terreno es responsable subsidiariamente del valor de aquellos, siempre que concurran las dos circunstancias siguientes:
 
@@ -4181,7 +4185,9 @@ ART. 920.- Las enajenaciones hechas por herederos o legatarios de la parte de he
 
 ART. 921.- La copropiedad cesa, por la división de la cosa común; por la destrucción o pérdida de ella; por su enajenación y por la consolidación o reunión de todas las cuotas en un solo copropietario.
 
-ART. 922.- La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenecen antes de hacerse la repartición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscribe su título en el Registro Público.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 922.- La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenecen antes de hacerse la repartición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquiriente de buena fe que inscribe su titulo en el Registro Público de la Propiedad.
 
 ART. 923.- La división de bienes inmuebles es nula si no se hace con las mismas formalidades que la Ley exige para su venta.
 
@@ -4251,7 +4257,7 @@ ART. 951.- El usufructuario, antes de entrar en el goce de los bienes, está obl
 
 I.- A formar a sus expensas, con citación del dueño, un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallan los inmuebles;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -4653,9 +4659,13 @@ ART. 1099.- Cuando la posesión se adquiere por medio de violencia, aunque ésta
 
 ART. 1100.- La posesión adquirida por medio de un delito, se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescriba la acción penal, considerándose la posesión como de mala fe.
 
-ART. 1101.- El que hubiere poseido bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 1102.- La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
+ART. 1101.- El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público de la Propiedad, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1102.- La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público de la Propiedad y servirá de título de propiedad al poseedor.
 
 ### CAPITULO III. De la Prescripción Negativa
 
@@ -4849,7 +4859,7 @@ V.- Utilidad pública;
 
 VI.- Renuncia o remoción de algún cargo conferido en el testamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -4859,7 +4869,7 @@ Para los efectos de este artículo se consideran concebidos durante el matrimoni
 
 ART. 1161.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
 ART. 1162.- Son incapaces de heredar por testamento o por intestado:
 
@@ -4979,7 +4989,7 @@ ART. 1203.- Si la condición se hubiere cumplido al hacerse el testamento ignor�
 
 ART. 1204.- La condición impuesta al heredero, o legatario, de tomar o dejar de tomar estado, se tendrá por no puesta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -5003,7 +5013,7 @@ ART. 1213.- Si el legado consistiere en prestación periódica, el legatario har
 
 ### CAPITULO V. De los bienes de que se puede disponer por Testamento y de los Testamentos Inoficiosos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 1975)</small>
 
 ART. 1214.- El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
@@ -5033,7 +5043,7 @@ ART. 1216.- No hay obligación de dar alimentos a las personas que tengan bienes
 
 ART. 1217.- Para tener derecho a ser alimentado se necesita encontrarse al tiempo de la muerte del testador en algunos de los casos fijados en el artículo 1214 y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -5145,7 +5155,9 @@ IV.- Legados de alimentos o de educación;
 
 V.- Los demás a prorrata.
 
-ART. 1261.- Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose lo dispuesto para los actos y contratos que celebren los que en el Registro Público aparezcan con derecho para ello, con terceros de buena fe que los inscriban.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1261.- Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose lo dispuesto para los actos y contratos que celebren los que en el Registro Público de la Propiedad aparezcan con derecho para ello, con terceros de buena fe que los inscriban.
 
 ART. 1262.- El legatario de un bien que perece incendiado después de la muerte del testador, tiene derecho de recibir la indemnización del seguro si la cosa estaba asegurada.
 
@@ -5479,9 +5491,13 @@ ART. 1380.- Cerrado y autorizado el testamento, se entregará al testador, y el 
 
 ART. 1381.- Por la infracción del artículo anterior no se anulará el testamento, pero el notario incurrirá en la pena de suspensión por seis meses.
 
-ART. 1382.- El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el archivo del Registro Público de la Propiedad y de Comercio.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 1383.- El testador que quiera depositar su testamento en el archivo del Registro Público de la Propiedad y de Comercio, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con este objeto debe llevarse, una razón del depósito, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+ART. 1382.- El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el archivo del Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1383.- El testador que quiera depositar su testamento en el archivo del Registro Público de la Propiedad, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con este objeto debe llevarse, una razón del depósito, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
 
 ART. 1384.- Pueden hacerse por procurador la presentación y depósito de que habla el artículo que precede, y en este caso, el poder quedará unido al testamento.
 
@@ -5505,7 +5521,7 @@ ART. 1393.- El testamento cerrado quedará sin efecto siempre que se encuentre r
 
 ART. 1394.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1354 y 1355 o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE MARZO DE 2003)</small>
 
 ### CAPITULO III BIS. Testamento Público Simplificado
 
@@ -5517,7 +5533,7 @@ I.- Que el precio del inmueble según avalúo catastral, no exceda del equivalen
 
 II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -5543,19 +5559,31 @@ ART. 1397.- Si contuviere palabras tachadas, enmendadas o entre renglones, las s
 
 La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
 
-ART. 1398.- El testador hará por duplicado su testamento ológrafo, e imprimirá en cada ejemplar su huella digital y su firma. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Éste podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarias para evitar violaciones.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 1399.- El depósito en el Registro Público se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+ART. 1398.- El testador hará por duplicado su testamento ológrafo, e imprimirá en cada ejemplar su huella digital y su firma. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público de la Propiedad, y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Éste podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarias para evitar violaciones.
 
-ART. 1400.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la Oficina del Registro Público: "Recibí el pliego cerrado que el señor.................... afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 1401.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
+ART. 1399.- El depósito en el Registro Público de la Propiedad se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación, se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
 
-ART. 1402.- Hecho el depósito, el encargado del Registro Público tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1400.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la Oficina del Registro Público de la Propiedad: "Recibí el pliego cerrado que el señor.................. afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1401.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público de la Propiedad, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1402.- Hecho el depósito, el encargado del Registro Público de la Propiedad tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
 
 ART. 1403.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina. El retiro del pliego produce la revocación e invalidación del testamento.
 
-ART. 1404.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1404.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público de la Propiedad del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2009)</small>
 
@@ -5577,7 +5605,9 @@ VII. Lugar y fecha de otorgamiento, y
 
 VIII. Datos de inscripción de la dependencia en que se depositó.
 
-ART. 1405.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la Oficina del Registro Público en que se encuentre el testamento, que se lo remita.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1405.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la oficina del Registro Público de la Propiedad en que se encuentre el testamento, que se lo remita.
 
 ART. 1406.- Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violado, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1396 y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
 
@@ -5585,7 +5615,9 @@ ART. 1407.- Sólo cuando el original depositado haya sido destruído o robado, s
 
 ART. 1408.- El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
 
-ART. 1409.- El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1409.- El encargado del Registro Público de la Propiedad no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
 ### CAPITULO V. Del Testamento Privado
 
@@ -5655,11 +5687,15 @@ ART. 1428.- El testamento marítimo será válido en este Estado, si se observan
 
 ART. 1429.- Los testamentos hechos en país extranjero, producirán efecto en el Estado cuando hayan sido formulados de acuerdo con las leyes del país en que se otorgaron.
 
-ART. 1430.- Los secretarios de Legación, los Cónsules y los Vicecónsules mexicanos, serán considerados como notarios públicos o encargados del Registro Público, en el otorgamiento de los testamentos de los nacionales en el extranjero, en los casos en que las disposiciones testamentarias, deban tener su ejecución en este Estado.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1430.- Los secretarios de Legación, los cónsules y los vicecónsules mexicanos, serán considerados como notarios públicos o encargados del Registro Público de la Propiedad, en el otorgamiento de los testamentos de los nacionales en el extranjero, en los casos en que las disposiciones testamentarias, deban tener su ejecución en este Estado.
 
 ART. 1431.- Luego que se reciban en el Gobierno del Estado las copias autorizadas de los testamentos que se hubiesen otorgado ante los Funcionarios mencionados en el artículo anterior y que éstos remitirán a la Secretaría de Relaciones Exteriores, se hará publicar en el Periódico Oficial de la noticia de la muerte del testador, para que los interesados promuevan lo que proceda.
 
-ART. 1432.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Registro Público del domicilio que dentro del Estado, señale el testador.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1432.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Registro Público de la Propiedad del domicilio que dentro del Estado, señale el testador.
 
 ART. 1433.- Si el testamento fuere confiado a la guarda del secretario de Legación, Cónsul o Vicecónsul, se hará mención de esa circunstancia y se dará recibo de la entrega.
 
@@ -5777,7 +5813,7 @@ ART. 1473.- Cuando sea heredera la Beneficencia Pública del Estado y entre lo q
 
 ### CAPITULO I. De las precauciones que deben adoptarse cuando la viuda queda encinta
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6011,7 +6047,7 @@ ART. 1552.- El albacea, dentro del primer mes de ejercer su cargo, fijará, de a
 
 ART. 1553.- Si para el pago de una deuda u otro gasto urgente, fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos, y si esto no fuere posible, con aprobación judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -6237,7 +6273,7 @@ ART. 1632.- Los contratos se perfeccionan por el mero consentimiento; excepto aq
 
 ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al arbitrio de uno de los contratantes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 1997)</small>
 
 ### CAPITULO I BIS. De la Imprevisión en los Contratos
 
@@ -6715,7 +6751,9 @@ ART. 1782.- La facultad de resolver las obligaciones se entiende implícita en l
 
 El perjudicado podrá escoger entre exigir el cumplimiento o la resolución de la obligación, con el resarcimiento de daños y perjuicios en ambos casos. También podrá pedir la resolución aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
 
-ART. 1783.- La resolución del contrato fundado en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público en la forma prevenida por la Ley.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1783.- La resolución del contrato fundado en falta de pago por parte del adquiriente de la propiedad de bienes inmuebles u otro derecho real sobre los mismos, no surtirá efecto contra tercero de buena fe, si no se ha estipulado expresamente y ha sido inscrito en el Registro Público de la Propiedad en la forma prevenida por la Ley.
 
 ART. 1784.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
 
@@ -6885,7 +6923,9 @@ ART. 1845.- El acreedor de cosa cierta no puede ser obligado a recibir otra aun 
 
 ART. 1846.- La obligación de dar cosa cierta comprende también la de entregar sus accesorios; salvo que lo contrario resulte del título de la obligación o de las circunstancias del caso.
 
-ART. 1847.- En las enajenaciones de cosas ciertas y determinadas, la traslación de la propiedad se verifica entre los contratantes, por mero efecto del contrato, sin dependencia de tradición, ya sea natural, ya sea simbólica; debiendo tenerse en cuenta las disposiciones relativas del Registro Público.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 1847.- En las enajenaciones de cosas ciertas y determinadas, la traslación de la propiedad se verifica entre los contratantes, por mero efecto del contrato, sin dependencia de tradición, ya sea natural, ya sea simbólica; debiendo tenerse en cuenta las disposiciones relativas del Registro Público de la Propiedad.
 
 ART. 1848.- En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá sino hasta el momento en que la cosa se hace cierta y determinada con conocimiento del acreedor.
 
@@ -7485,7 +7525,7 @@ ART. 2067.- El cumplimiento voluntario por medio del pago, novación, o por cual
 
 ART. 2068.- La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudica a los derechos de tercero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -7589,7 +7629,7 @@ ART. 2107.- Los magistrados, los jueces, el Ministerio Público, los defensores 
 
 ART. 2108.- Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias, cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ART. 2109.- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
@@ -7695,9 +7735,13 @@ ART. 2140.- Si se venden cosas futuras, tomando el comprador el riesgo de que no
 
 ART. 2141.- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
 
-I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
 
-II.- Si se trata de bienes muebles, tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
+I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público de la Propiedad;
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+II.- Si se trata de bienes muebles, tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula rescisoria de que habla la fracción anterior, y esa cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público de la Propiedad;
 
 III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no pueda registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 
@@ -7709,7 +7753,9 @@ Las convenciones que impongan al comprador obligaciones más onerosas que las ex
 
 ART. 2143.- Puede pactarse válidamente que el vendedor se reserve la propiedad de la cosa vendida hasta que su precio haya sido pagado.
 
-Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2141, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo citado, se aplicará lo dispuesto en esta fracción.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2141, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público de la Propiedad; cuando los bienes son de la clase a que se refiere la fracción III del artículo citado, se aplicará lo dispuesto en esta fracción.
 
 ART. 2144.- El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esa limitación de dominio.
 
@@ -7777,7 +7823,7 @@ ART. 2166.- Cuando la donación sea onerosa, sólo se considera donado el exceso
 
 ART. 2167.- Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino en los casos declarados en la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -7821,7 +7867,7 @@ ART. 2185.- Salvo que el donador dispusiere otra cosa, las donaciones que consis
 
 ### CAPITULO II. De las personas que pueden recibir Donaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -7831,9 +7877,9 @@ ART. 2187.- Las donaciones hechas simulando otro contrato a personas que conform
 
 ### CAPITULO III. De la revocación y reducción de las Donaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ART. 2188.- Las donaciones legalmente hechas por una persona que al tiempo de otorgarlas no tenía hijas o hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijas o hijos que han nacido con todas las condiciones que sobre viabilidad exige el artículo 180 del Código Familiar para el Estado.
 
@@ -8081,7 +8127,9 @@ ART. 2274.- El arrendatario que por causa de reparaciones pierda el uso total o 
 
 ART. 2275.- Si la misma cosa se ha dado en arrendamiento separadamente a dos o más personas y por el mismo tiempo, prevalecerá el arrendamiento primero en fecha; si no fuere posible verificar la prioridad de ésta, valdrá el arrendamiento del que tiene en su poder la cosa arrendada.
 
-Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+Si el arrendamiento debe ser inscrito en el Registro Público de la Propiedad, sólo vale el inscrito.
 
 ART. 2276.- Si los contratos de arrendamiento que hubieren terminado por expiración del plazo, cuando el arrendatario se encuentre al corriente en el pago de las rentas, tendrá derecho a que en igualdad de condiciones se le prefiera a otro interesado en el nuevo arrendamiento de la finca. Al efecto el arrendador notificará en forma fehaciente al arrendatario las condiciones del nuevo arrendamiento.
 
@@ -8753,7 +8801,9 @@ ART. 2500.- El contrato por el que se constituya una asociación, debe constar p
 
 ART. 2501.- La asociación puede admitir y excluír asociados.
 
-ART. 2502.- Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Registro Público para que produzcan efectos contra tercero.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2502.- Las asociaciones se regirán por sus estatutos, los que deberán ser inscritos en el Registro Público de la Propiedad para que produzcan efectos contra tercero.
 
 ART. 2503.- El poder supremo de las asociaciones reside en la asamblea general. El director o directores de ellas tendrán las facultades que les conceden los estatutos y la asamblea general, con sujeción a estos documentos.
 
@@ -8965,7 +9015,9 @@ ART. 2564.- Salvo pacto en contrario, los socios industriales no responderán de
 
 ART. 2565.- Para que las asociaciones y las sociedades extranjeras de carácter civil puedan ejercer sus actividades en el Estado de San Luis Potosí, deberán ser autorizadas por la Secretaría de Relaciones Exteriores.
 
-ART. 2566.- Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro los estatutos de las asociaciones y sociedades extranjeras.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2566.- Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el Registro Público de la Propiedad los estatutos de las asociaciones y sociedades extranjeras.
 
 ### CAPITULO VII. De la Aparcería Rural
 
@@ -9293,21 +9345,31 @@ ART. 2679.- Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho 
 
 ### CAPITULO VI. De la Fianza legal o judicial
 
-ART. 2680.- El fiador que haya de darse por disposición de la Ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2680.- El fiador que haya de darse por disposición de la Ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
 
 Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de quinientos pesos, no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituírse con prenda o hipoteca.
 
-ART. 2681.- Para otorgar una fianza legal o judicial por más de quinientos pesos se presentará un certificado expedido por el encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de las obligaciones que garantice.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 2682.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que al margen de la inscripción de propiedad correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
+ART. 2681.- Para otorgar una fianza legal o judicial por más de quinientos pesos se presentará un certificado expedido por el encargado del Registro Público de la Propiedad, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de las obligaciones que garantice.
 
-Extinguida ésta, dentro del mismo término de tres días, se dará aviso al Registro Público, para que haga la cancelación de la nota marginal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2682.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público de la Propiedad, para que al margen de la inscripción de propiedad correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+Extinguida ésta, dentro del mismo término de tres días, se dará aviso al Registro Público de la Propiedad, para que haga la cancelación de la nota marginal.
 
 La falta de avisos hace responsable al que debe darlos, de los daños y perjuicios que su omisión origine.
 
-ART. 2683.- En los certificados de gravamen que se expidan en el Registro Público, se harán figurar las notas marginales de que habla el artículo anterior.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2683.- En los certificados de gravamen que se expidan en el Registro Público de la Propiedad, se harán figurar las notas marginales de que habla el artículo anterior.
 
 ART. 2684.- Si el fiador enajena o grava los bienes raíces cuyas inscripciones de propiedad están anotadas conforme a lo dispuesto en el artículo 2682, y de la operación resulta la insolvencia del fiador, aquélla se presumirá fraudulenta.
 
@@ -9319,9 +9381,9 @@ De la Prenda
 
 ART. 2686.- La prenda es un derecho real constituido sobre un bien mueble enajenable para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
-ART. 2687.- También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro Público a que corresponda la finca respectiva.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-El que dé los frutos en prenda se considerará como depositario de ellos, salvo convenio en contrario.
+ART. 2687.- También pueden darse en prenda los frutos pendientes de los bienes raíces que deben ser recogidos en tiempo determinado. Para que esta prenda surta sus efectos contra tercero necesitará inscribirse en el Registro público de la Propiedad a que corresponda la finca respectiva.
 
 ART. 2688.- Para que se tenga por constituída la prenda, deberá ser entregada al acreedor, real o jurídicamente.
 
@@ -9331,9 +9393,13 @@ El deudor puede usar de la prenda que quede en su poder, en los términos que co
 
 ART. 2690.- El contrato de prenda debe constar por escrito. Si se otorga en documento privado, se formarán dos ejemplares, uno para cada contratante.
 
-No surtirá efecto la prenda contra tercero si no consta la certeza de la fecha por el Registro, escritura pública o de alguna otra manera fehaciente.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 2691.- Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Registro Público, no surtirá efecto contra tercero el derecho de prenda sino desde que se inscriba en el Registro.
+No surtirá efecto la prenda contra tercero si no consta la certeza de la fecha por el Registro Público de la Propiedad, escritura pública o de alguna otra manera fehaciente.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2691.- Cuando la cosa dada en prenda sea un título de crédito que legalmente deba constar en el Registro Público de la Propiedad, no surtirá efecto contra tercero el derecho de prenda sino desde que se inscriba en aquél.
 
 ART. 2692.- A voluntad de los interesados podrá suplirse la entrega del título al acreedor, con el depósito de aquél en una institución de crédito.
 
@@ -9485,7 +9551,9 @@ ART. 2744.- Sin consentimiento del acreedor, el propietario del predio hipotecad
 
 Si la hipoteca no tiene plazo cierto, no podrá estipularse anticipo de rentas, ni arrendamiento, por más de un año, si se trata de finca rústica, ni por más de dos meses, si se trata de finca urbana.
 
-ART. 2745.- La hipoteca constituída a favor de un crédito que devengue intereses, no garantiza un prejuicio de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses y de que se haya tomado razón de esta estipulación en el Registro Público.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2745.- La hipoteca constituida a favor de un crédito que devengue intereses, no garantiza un prejuicio (sic) de tercero, además del capital, sino los intereses de tres años; a menos que se haya pactado expresamente que garantizará los intereses por más tiempo, con tal que no exceda del término para la prescripción de los intereses y de que haya tomado razón de esta estipulación en el Registro Público de la Propiedad.
 
 ART. 2746.- El acreedor hipotecario puede adquirir la cosa hipotecada, en remate judicial o por adjudicación, en los casos en que no se presente otro postor, de acuerdo con lo que establezca el Código de Procedimientos Civiles.
 
@@ -9503,23 +9571,31 @@ ART. 2750.- Son hipotecas voluntarias las convenidas entre partes o impuestas po
 
 ART. 2751.- La hipoteca constituída para la seguridad de una obligación futura o sujeta a condiciones suspensivas inscritas, surtirá efecto contra tercero desde su inscripción, si la obligación llega a realizarse o la condición a cumplirse.
 
-ART. 2752.- Si la obligación asegurada estuviere sujeta a condición resolutoria inscrita, la hipoteca no dejará se surtir su efecto respecto de tercero, sino desde que se haga constar en el Registro el cumplimiento de la condición.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2752.- Si la obligación asegurada estuviere sujeta a condición resolutoria inscrita, la hipoteca no dejará de surtir su efecto respecto de tercero, sino desde que se haga constar en el Registro Público de la Propiedad el cumplimiento de la condición.
 
 ART. 2753.- Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una nota al margen de la inscripción hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a tercero la hipoteca constituída.
 
-ART. 2754.- Para hacer constar en el Registro el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador el documento que así lo acredite y en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2754.- Para hacer constar en el Registro Público de la Propiedad el cumplimiento de las condiciones a que se refieren los artículos que preceden, o la existencia de las obligaciones futuras, presentará cualquiera de los interesados al registrador el documento que así lo acredite y, en su defecto, una solicitud formulada por ambas partes, pidiendo que se extienda la nota marginal y expresando claramente los hechos que deben dar lugar a ella.
 
 Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro a la autoridad judicial para que, previo el procedimiento correspondiente, dicte la resolución que proceda.
 
-ART. 2755.- Todo hecho o convenio entre las partes que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una nota material, según los casos.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 2756.- El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2747, se dé conocimiento al deudor y sea inscrita en el Registro.
+ART. 2755.- Todo hecho o convenio entre las partes que pueda modificar o destruir la eficacia de una obligación hipotecaria anterior, no surtirá efecto contra tercero si no se hace constar en el Registro Público de la Propiedad por medio de una inscripción nueva, de una cancelación total o parcial o de una nota material, según los casos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 2756.- El crédito puede cederse, en todo o en parte, siempre que la cesión se haga en la forma que para la constitución de la hipoteca previene el artículo 2747, se dé conocimiento al deudor y sea inscrita en el Registro Público de la Propiedad.
 
 Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituída para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias; las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificaciones al deudor, ni de escritura pública, ni de inscripción en el Registro Público de la Propiedad y del Comercio, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias; las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificaciones al deudor, ni de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -9553,7 +9629,7 @@ ART. 2765.- Tienen derecho de pedir la hipoteca necesaria para seguridad de sus 
 
 I.- El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importen los respectivos saneamientos o el exceso de los bienes que hayan recibido;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9573,7 +9649,7 @@ II.- En el caso de bienes que administren los tutores, por los herederos legíti
 
 III.- Por el Ministerio Público, si no la pidieren las personas enumeradas en las fracciones anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -9783,7 +9859,9 @@ VIII.- El crédito que provenga del precio de los bienes vendidos y no pagados, 
 
 Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmovilizados;
 
-IX.- Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+IX.- Los créditos anotados en el Registro Público de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
 ### CAPITULO IV. Acreedores de Primera Clase
 
@@ -9821,11 +9899,11 @@ ART. 2827.- Pagados los créditos enumerados en los capítulos que preceden, se 
 
 ART. 2828.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a la fecha ni al origen de los créditos.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ## TITULO SEGUNDO. Del Registro Público
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO I. Del Registro Público de la Propiedad
 
@@ -9835,7 +9913,7 @@ ART. 2830.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
 ART. 2831.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
@@ -9855,7 +9933,7 @@ ART. 2838.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
 ART. 2839.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
@@ -9887,7 +9965,7 @@ ART. 2851.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
 ART. 2852.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO IV. De las Inscripciones de Posesión
 
@@ -9901,7 +9979,7 @@ ART. 2856.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
 ART. 2857.- (DEROGADO, P.O. 11 DE JULIO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2009)</small>
 
 ### CAPITULO V. De las Extinción de las Inscripciones
 
@@ -9973,11 +10051,11 @@ El Secretario General de Gobierno.
 
 Lic. LUIS NOYOLA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 7 DE NOVIEMBRE DE 1948.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSI.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 5 DE AGOSTO DE 1954.
 
@@ -10045,7 +10123,7 @@ SEGUNDO.- Se concede plena validez legal a las enmiendas administrativas hechas 
 
 P.O. 23 DE NOVIEMBRE DE 1978.
 
-DECRETO NUMERO 24.
+DECRETO NÚMERO 24.
 
 PRIMERO.- El presente Decreto entrará en vigor treinta días después de la fecha de su publicación.
 
@@ -10055,7 +10133,7 @@ TERCERO.- Este Decreto deroga todas las disposiciones legales que se le opusiere
 
 P.O. 23 DE NOVIEMBRE DE 1978.
 
-DECRETO NUMERO 25.
+DECRETO NÚMERO 25.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -10093,7 +10171,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 18 DE DICIEMBRE DE 1992.
 
-DECRETO NUMERO 494.
+DECRETO NÚMERO 494.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -10310,3 +10388,9 @@ P.O. 17 DE NOVIEMBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
