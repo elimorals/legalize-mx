@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-justicia-administrativa-del-estado-de-san-luis-potosi-16
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-30"
-last_updated: "2009-07-07"
+last_updated: "2012-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de abril de 1997.
 
@@ -51,11 +51,17 @@ Esta ley es de orden público e interés social y tiene por objeto regular la im
 
 La justicia administrativa en el Estado de San Luis Potosí se impartirá por un Tribunal de lo Contencioso Administrativo, con jurisdicción en todo el territorio estatal y con la competencia y organización que establece esta Ley. El tribunal residirá en la Capital del Estado y podrá contar con salas regionales.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 3o.
 
-El Tribunal de lo Contencioso Administrativo dirimirá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado y de los municipios, así como de los organismos públicos descentralizados, estatales y municipales, cuando dichos organismos actúen como autoridades, y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables en materia de responsabilidad de los servidores públicos.
+El Tribunal de lo Contencioso Administrativo del Estado será competente para:
+
+I. Dirimir las controversias de carácter administrativo y fiscal que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado, y de los municipios; así como de los organismos públicos descentralizados, estatales y municipales, cuando dichos organismos actúen como autoridades;
+
+II. Conocer de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas, en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables en materia de responsabilidad de los servidores públicos, y
+
+III. Conocer de los procedimientos de responsabilidad patrimonial, cuando se trate de dependencias y organismos del Poder Ejecutivo y de los municipios del Estado, y demás atribuciones que éste y otros ordenamientos le confieran.
 
 ###### ARTICULO 4o.
 
@@ -193,7 +199,9 @@ V. La negativa ficta, configurándose ésta cuando las instancias o peticiones q
 
 VI. Las resoluciones administrativas y fiscales favorables a los particulares que impugnen las autoridades, por considerar que lesionan a la administración pública o al interés público;
 
-VII. Las resoluciones que dicten las autoridades del poder Ejecutivo del Estado o de sus municipios y organismos descentralizados, estatales o municipales, negando a los particulares la indemnización a que se contrae el artículo 76 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+VII. Las resoluciones sobre indemnización que dicten las autoridades del Poder Ejecutivo del Estado, o de sus municipios; y organismos descentralizados, estatales o municipales, en aplicación de la Ley de Responsabilidad Patrimonial del Estado y Municipios de San Luis Potosí;
 
 VIII. El procedimiento administrativo de ejecución, cuando el afectado en dicho procedimiento opte por no interponer el recurso ordinario ante las autoridades competentes y cuando afirme:
 
@@ -205,7 +213,9 @@ c). Que es poseedor a título de propietario de bienes embargados para garantiza
 
 d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no podrá hacerse valer, sino contra la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación;
 
-IX. De las resoluciones del Procurador General de Justicia del Estado que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+IX. Las resoluciones del Procurador General de Justicia del Estado, o de los subprocuradores autorizados, que confirmen las determinaciones de no ejercicio de la acción penal del Ministerio Público, y
 
 X. De los recursos e incidentes previstos por esta Ley.
 
@@ -1374,3 +1384,9 @@ QUINTO. En tanto se expide el reglamento de la Ley Orgánica de la Procuraduría
 SEXTO. Los procedimientos de responsabilidad administrativa iniciados con antelación a la entrada en vigor de la presente Ley, en contra del personal sustantivo de la institución, serán resueltos por la Contraloría Interna de la institución, de conformidad con las leyes de la materia, y por la Comisión de Honor y Justicia de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, aprobada el 3 de diciembre de 1998 y publicada en la Edición Extraordinaria del Periódico Oficial del Estado, el 19 de diciembre de 1998, y el Reglamento Interior de la Dirección General de la Policía Ministerial del Estado.
 
 SEPTIMO. Los agentes del Ministerio Público, los agentes de la policía ministerial del Estado y los peritos que a la entrada en vigor del presente Ordenamiento, se encuentren laborando en la Procuraduría General de Justicia del Estado, se someterán a las disposiciones del Servicio de Carrera de Procuración de Justicia Estatal previstas en esta Ley y las que se expidan para tal efecto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
