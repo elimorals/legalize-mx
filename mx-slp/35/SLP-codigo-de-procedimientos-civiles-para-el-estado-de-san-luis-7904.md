@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2009-07-30"
+last_updated: "2012-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSI
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -67,7 +67,9 @@ ART. 8.- No pueden reivindicarse las cosas que están fuera del comercio; los g�
 
 ART. 9.- Al adquiriente con justo título y de buena fe, le compete la acción para que el poseedor de mala fe le restituya la cosa con sus frutos y accesiones en los términos del artículo 4º, aun cuando el primero no haya prescrito la cosa; o para reivindicarla del que teniendo título de igual calidad ha poseído por menos tiempo que el actor. No procede esta acción en los casos en que ambas posesiones fuesen dudosas o el demandado tuviese su título registrado y el actor no, ni tampoco contra el dueño legítimo.
 
-ART. 10.- Procederá la acción negatoria para obtener la declaración de libertad, o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes, la tildación o anotación en el Registro de la Propiedad, y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título del dueño, o que tenga derecho real sobre la heredad.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 10.- Procederá la acción negatoria para obtener la declaración de libertad, o la de reducción de gravámenes de bien inmueble y la demolición de obras o señales que importen gravámenes, la tildación o anotación en el Registro Público de la Propiedad, y conjuntamente, en su caso, la indemnización de daños y perjuicios. Cuando la sentencia sea condenatoria, el actor puede exigir del reo que caucione el respeto de la libertad del inmueble. Sólo se dará esta acción al poseedor a título del dueño, o que tenga derecho real sobre la heredad.
 
 ART. 11.- Compete la acción confesoria al titular del derecho real inmueble y al poseedor del predio dominante que esté interesado en la existencia de la servidumbre. Se da esta acción contra el tenedor o poseedor jurídico que contraría el gravamen, para que se obtenga el reconocimiento, la declaración de los derechos y obligaciones del gravamen y el pago de frutos, daños y perjuicios, en su caso, y se haga cesar la violación. Si fuere la sentencia condenatoria, el actor puede exigir del reo que afiance el respeto del derecho.
 
@@ -863,7 +865,7 @@ ART. 200.- Podrá también prepararse el juicio ejecutivo con el reconocimiento,
 
 El notario hará constar el reconocimiento al pie del documento mismo, asentando si la persona que reconoce es apoderado del deudor y la cláusula relativa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1975)</small>
 
 ### CAPITULO III. Separación de personas como actos prejudiciales
 
@@ -1501,7 +1503,7 @@ ART. 371.- No es admisible la prueba testimonial para tachar a los testigos que 
 
 ART. 372.- Los gastos que hicieren los testigos y los perjuicios que sufran por presentarse a declarar, serán satisfechos por la parte que los llamare.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2007)</small>
 
 #### Sección VII. Fotografías, Copias Fotostáticas y, en General, Todos Aquellos Elementos Aportados por la Ciencia
 
@@ -1897,7 +1899,55 @@ ART. 458.- En los juicios sobre desocupación se entiende domicilio legal la fin
 
 ART. 459.- (DEROGADO, P.O. 16 DE JULIO DE 1997)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 1997)</small>
+### CAPITULO IV. De los Interdictos
+
+ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+
+ART. 461.- Los interdictos proceden asimismo para los efectos que expresa el artículo 202 del Código Familiar del Estado, en los casos a los que se refieren los párrafos segundo y tercero del artículo 24 de este Código.
+
+ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
+
+ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
+
+ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
+
+ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
+
+ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
+
+ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
+
+ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
+
+ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
+
+ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
+
+ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
+
+ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
+
+ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
+
+ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
+
+ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
+
+ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
+
+ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
+
+ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
+
+ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
+
+ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
+
+ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 1997)</small>
 
 ### CAPITULO V. Del Juicio Hipotecario
 
@@ -1905,9 +1955,9 @@ ART. 459.- (DEROGADO, P.O. 16 DE JULIO DE 1997)
 
 ART. 481.1.- Se tramitará en la vía extraordinaria, todo juicio hipotecario que tenga por objeto la constitución, ampliación, división, registro y extinción de una hipoteca, así como su nulidad, cancelación, o bien, el pago o prelación del crédito que la hipoteca garantice.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas especiales del presente Capítulo, y supletoriamente conforme a las reglas de los juicios extraordinarios, es, es (sic) requisito indispensable que el crédito conste en escritura pública o escritura privada, según corresponda en los términos de la legislación común y se encuentre inscrito en el Registro Público de la Propiedad y del Comercio y que sea además, de plazo cumplido, o que éste sea exigible en los términos pactados o bien, conforme a las disposiciones legales aplicables.
+Para que el juicio que tenga por objeto el pago o la prelación de un crédito hipotecario se siga según las reglas especiales del presente Capítulo, y supletoriamente conforme a las reglas de los juicios extraordinarios, es, requisito indispensable que el crédito conste en escritura pública o escritura privada, según corresponda en los términos de la legislación común y se encuentre inscrito en el Registro Público de la Propiedad, y que sea además, de plazo cumplido, o que éste sea exigible en los términos pactados o bien, conforme a las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -1919,9 +1969,9 @@ II.- El bien se encuentre inscrito a favor del demandado; y
 
 III.- No exista embargo o gravamen en favor de tercero, inscrito, cuando menos, noventa días anteriores al de la presentación de la demanda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 481.3.- Al escrito de demanda se acompañará el instrumento respectivo; cerciorado el Juez, que se encuentren satisfechos los requisitos establecidos en los artículos que anteceden, admitirá la demanda y ordenará la anotación correspondiente en el Registro Público de la Propiedad y del Comercio. Dispondrá asimismo el Juez, correr traslado de ella al deudor a efecto de que dentro del término de tres días acuda a producir su contestación y a oponer las excepciones, las cuales no podrán ser otras que:
+ART. 481.3.- Al escrito de demanda se acompañará el instrumento respectivo; cerciorado el Juez, que se encuentren satisfechos los requisitos establecidos en los artículos que anteceden, admitirá la demanda y ordenará la anotación correspondiente en el Registro Público de la Propiedad. Dispondrá asimismo el Juez, correr traslado de ella al deudor a efecto de que dentro del término de tres días acuda a producir su contestación y a oponer las excepciones, las cuales no podrán ser otras que:
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -1999,9 +2049,9 @@ En caso de que el demandado se allane a las pretensiones del actor, el Juez pron
 
 ART. 481.5.- Si respecto al título con base en el cual se ejercita una acción hipotecaria se advierte que haya otros acreedores hipotecarios anteriores, de inmediato el Juez mandará notificarles la existencia del juicio, a fin de que comparezcan a deducir sus derechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 481.6.- Para efectos de la anotación de la demanda en el Registro Público de la Propiedad y del Comercio, el actor exhibirá un tanto más de dicha demanda, de los documentos base de la acción y, en su caso, de aquéllos con que justifique su representación, para que, previo cotejo con sus originales, se certifiquen por el Secretario y pueda el interesado hacer las gestiones de inscripción en el Registro Público de la Propiedad y del Comercio, debiendo acreditar la parte actora oportunamente, la realización de dicho trámite.
+ART. 481.6.- Para efectos de la anotación de la demanda en el Registro Público de la Propiedad, el actor exhibirá un tanto más de dicha demanda, de los documentos base de la acción y, en su caso, de aquéllos con que justifique su representación, para que, previo cotejo con sus originales, se certifiquen por el Secretario y pueda el interesado hacer las gestiones de inscripción en el Registro Público de la Propiedad, debiendo acreditar la parte actora oportunamente, la realización de dicho trámite.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
 
@@ -2095,57 +2145,9 @@ ART. 481.17.- Los deudores podrán hacer pago total de las prestaciones reclamad
 
 ART. 481.18.- Las resoluciones que se dicten en términos de lo dispuesto en este Capítulo, podrán ser apelables únicamente en efecto devolutivo.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 481.19.- Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al Juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
-
-### CAPITULO IV. De los Interdictos
-
-ART. 460.- Los juicios que tengan por objeto retener o recobrar la posesión interina de una cosa, suspender la ejecución de una obra nueva, o que se practiquen respecto de la que amenaza ruina o de un objeto que ofrece riesgo, las medidas conducentes a precaver el daño se tramitarán con sujeción a las reglas generales de los juicios extraordinarios y a las especiales de este Capítulo.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
-
-ART. 461.- Los interdictos proceden asimismo para los efectos que expresa el artículo 202 del Código Familiar del Estado, en los casos a los que se refieren los párrafos segundo y tercero del artículo 24 de este Código.
-
-ART. 462.- Los jueces deberán tramitar los juicios a que se refiere el artículo anterior con preferencia a todos los demás, pudiendo actuar cuando las circunstancias lo requieran en días y horas inhábiles, sin previa habilitación.
-
-ART. 463.- Sólo proceden los interdictos respecto de las cosas raíces y derechos reales constituídos sobre ellas.
-
-ART. 464.- Los interdictos no preocupan las cuestiones de propiedad y de posesión definitiva; no podrán acumularse al juicio de propiedad y deberán decidirse previamente.
-
-ART. 465.- El que ha sido vencido en el juicio de propiedad o plenario de posesión, no puede hacer uso de los interdictos respecto de la misma cosa; pero el vencido en cualquier interdicto puede hacer uso después del juicio plenario de posesión o del de propiedad.
-
-ART. 466.- En ningún interdicto se admitirán pruebas sobre la propiedad, sino sólo las que versen sobre los hechos que constituyen la posesión.
-
-ART. 467.- A falta de títulos que funden el ejercicio de la acción y que deben acompañarse a la demanda, se ofrecerá previamente información testimonial sobre el hecho de la posesión y una vez acreditado, se dará curso a la demanda. La información se recibirá con la sola intervención del promovente, tan pronto como se presenten los testigos.
-
-ART. 468.- No procede el interdicto de obra nueva pasado un año después de la terminación de la obra cuya destrucción se intente, quedando a salvo el derecho del interesado para pedir en tal caso la demolición de la obra en la vía que proceda.
-
-ART. 469.- No puede usar el interdicto de obra nueva el que posee la cosa con título precario. Por tal se entiende cualquier título que no es translativo de dominio y sólo confiere la simple tenencia o posesión natural de la cosa en nombre de otro.
-
-ART. 470.- Cuando al promover el interdicto de obra nueva, se solicite también la suspensión provisional de la construcción, si los documentos presentados con la demanda o la información testimonial rendida en su caso, acreditan el derecho de promover tal suspensión, el juez se trasladará al lugar en que se esté practicando y después de dar fe de la existencia de la misma, si lo estima pertinente, bajo la responsabilidad del demandante ordenará la suspensión solicitada y que se notifique desde luego su determinación al dueño o encargado de la obra, bajo el apercibimiento de que será ésta demolida en caso de desobediencia, a costa del propietario.
-
-ART. 471.- La suspensión a que se refiere el artículo anterior podrá levantarse a solicitud del demandado sin perjuicio de lo que resuelva la sentencia, si dá fianza bastante a juicio del juez, para responder de la demolición y de la indemnización de los daños y perjuicios que de continuarse la obra puedan seguirse al actor.
-
-ART. 472.- La calificación de la fianza la hará el juez con sujeción a lo dispuesto en el Código Civil y oyendo el parecer de peritos.
-
-ART. 473.- Los incidentes a que se refieren los artículos 470 y 471 se tramitarán por cuerda separada y las resoluciones que en ellos se dicten no admitirán ningún recurso.
-
-ART. 474.- Los dueños de establecimientos industriales en que el agua sirva de fuerza motriz, sólo pueden denunciar la obra nueva cuando por ella se embarace el curso o se disminuya el volumen o la fuerza del agua que tienen derecho de disfrutar.
-
-ART. 475.- No se puede denunciar la obra que alguno hiciere reparando o limpiando los caños y acequias donde se recogen las aguas de sus edificios o heredades, aunque algún vecino suyo se tenga por agraviado por el perjuicio que reciba por el mal olor o por causa de los materiales que se arrojen a su finca o en la calle. En los casos a que este artículo se refiere, se procederá como lo determinen los reglamentos administrativos.
-
-ART. 476.- En el caso del artículo anterior, los que ejecuten las obras deben cuidar de no perjudicar a otro en su derecho.
-
-ART. 477.- Cuando al promover el interdicto de obra peligrosa, a más de la demolición de ésta o del objeto peligroso, se solicite la adopción de medidas urgentes para evitar los riesgos que ofrezcan, el juez nombrará un perito y acompañado del mismo, pasará luego a inspeccionar la construcción, árbol u objeto y, cerciorado de la necesidad de las medidas que se solicitan, de acuerdo con el parecer del perito dictará las que estime oportunas, compeliendo desde luego a su ejecución al dueño, al administrador y aun al inquilino por cuenta de renta; en defecto de ésto podrá autorizar la ejecución por cuenta del actor, con reserva de sus derechos para reclamar del dueño los gastos que se ocasionen.
-
-ART. 478.- Una vez resuelto sobre las peticiones a que se refieren los artículos 470 y 477, se procederá al emplazamiento de la parte demandada y continuará el juicio sus demás trámites.
-
-ART. 479.- Contra las resoluciones que se dicten ordenando la práctica de las medidas provisionales a que se refieren los artículos 470 y 477, no procederá recurso alguno, contra las que las denieguen procederá el de queja.
-
-ART. 480.- Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
-
-ART. 481.- Contra las sentencias que se dicten en los interdictos procederá la apelación únicamente en el efecto devolutivo, y sea cual fuere la resolución deberá expresar siempre que se reserva su derecho al que lo tenga para proponer la demanda de propiedad.
+ART. 481.19.- Si el superior revoca el fallo de Primera Instancia que declaró procedente la vía, luego que vuelvan los autos al Juzgado de su origen, dentro de los cinco días siguientes, se mandará cancelar la anotación de la demanda en el Registro Público de la Propiedad; en su caso, se devolverá el bien al demandado y se ordenará al actor que rinda cuentas con pago, dentro del término de treinta días.
 
 ## TITULO OCTAVO. De las Tercerías
 
@@ -2355,7 +2357,7 @@ ART. 545.- El litigante rebelde a quien haya sido notificado personalmente el em
 
 ART. 546.- Se admitirá la apelación extraordinaria que contra la sentencia interpusiere el litigante rebelde, conforme al Capítulo III, Título XIII.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO III. De la Rectificación de Actas del Estado Civil
 
@@ -2603,7 +2605,7 @@ ART. 607.- Las medidas de que tratan los artículos 603 a 605 se ordenarán por 
 
 ART. 607 BIS.- El juez competente, o el notario público que inicie un procedimiento sucesorio, deberá recabar el informe de la existencia o inexistencia de alguna disposición testamentaria, mediante la solicitud de búsqueda ante el Registro Público de la Propiedad, y la Dirección del Notariado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O.30 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2009)</small>
 
 ART. 608.- Si en la búsqueda en el Registro Nacional de Avisos de Testamento no se encontrara disposición testamentaria alguna, y si pasados quince días de la muerte del autor de la sucesión no se presenta el testamento; o si de presentarse, en éste no está nombrado el albacea, o si no se denuncia el interesado (sic), el juez nombrará un interventor que reúna los siguientes requisitos:
 
@@ -3103,7 +3105,7 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- La transmisión de los bienes del patrimonio familiar está exenta de contribuciones cualquiera que sea su naturaleza.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2003)</small>
 
 #### Sección IX. De la Tramitación ante Notarios
 
@@ -3143,7 +3145,9 @@ II.- El notario dará a conocer por medio de una publicación en el Periódico O
 
 III.- El notario recabará del Registro Estatal de Testamentos y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición;
 
-IV.- De ser procedente el notario redactará el instrumento, en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado; documento que se inscribirá en el Registro Público de la Propiedad y del Comercio; en su caso, se podrá hacer constar la repudiación expresa, y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+IV.- De ser procedente el notario redactará el instrumento, en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado; documento que se inscribirá en el Registro Público de la Propiedad; en su caso, se podrá hacer constar la repudiación expresa, y
 
 V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1394-Bis del Código Civil del Estado.
 
@@ -3161,13 +3165,17 @@ ART. 748.- Si se presentaren dos o más testamentos cerrados de una misma person
 
 #### Sección XI. De la Declaración de ser Formal el Testamento Ológrafo
 
-ART. 749.- El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento ológrafo como se dispone en el artículo 1398 del Código Civil, dirigirá oficio al encargado del Registro Público en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 749.- El tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó su testamento ológrafo como se dispone en el artículo 1398 del Código Civil, dirigirá oficio al encargado del Registro Público de la Propiedad en que se hubiere hecho el depósito, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
 
 ART. 750.- Recibido el pliego procederá el tribunal como se dispone en el artículo 1406 del Código Civil.
 
 ART. 751.- Si para la debida identificación fuere necesario reconocer la firma por no existir los testigos de identicación (sic) que hubiesen intervenido o por no estimarse bastantes sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador y, teniendo en cuenta su dictamen, hará la declaración que corresponda.
 
-ART. 752.- En el caso del artículo 1407 del Código Civil, se procederá como se dispone en los artículos anteriores, una vez que el Encargado del Registro correspondiente remita copia certificada del asiento que previene el artículo 1402 del mismo Código.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 752.- En el caso del artículo 1407 del Código Civil, se procederá como se dispone en los artículos anteriores, una vez que el Encargado del Registro Público de la Propiedad correspondiente, remita copia certificada del asiento que previene el artículo 1402 del mismo Código.
 
 #### Sección XII. De la Declaración de ser Formal el Testamento Privado
 
@@ -3205,11 +3213,13 @@ ART. 760.- Hechas las publicaciones que ordena el artículo 1590 del Código Civ
 
 #### Sección XV. Del Testamento hecho en País Extranjero
 
-ART. 761.- Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público, tomará razón en el libro a que se refiere el artículo 1402 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del secretario de legación, cónsul o vicecónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título III, Libro Tercero del Código Civil.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 761.- Si el testamento fuere ológrafo, luego que lo reciba el encargado del Registro Público de la Propiedad, tomará razón en el libro a que se refiere el artículo 1402 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del secretario de legación, cónsul o vicecónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título III, Libro Tercero del Código Civil.
 
 ART. 762.- Ante el tribunal competente se procederá, con respecto al testamento público cerrado, al privado o al ológrafo, como está dispuesto para esas clases de testamentos otorgados en el país.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1997)</small>
 
 #### Sección XVI. Disposiciones relativas a juicios sucesorios cuyo interés sea menor a quinientos dos días de salario mínimo diario vigente en la zona económica de que se trate
 
@@ -3529,7 +3539,7 @@ ART. 840.- Una vez acreditado el nombramiento de curador, hecho por la persona f
 
 ART. 841.- En los juzgados de primera instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieren de los cargos de tutor y curador. En este registro, que estará siempre a disposición de los interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ART. 842.- Dentro de los ocho primeros días de cada año, la autoridad judicial, en audiencia pública, con citación del Ministerio Público, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
@@ -3627,7 +3637,7 @@ ART. 875.- Cuando se apruebe la adopción, la autoridad judicial cumplirá lo qu
 
 ART. 875 BIS.- En el caso de que quien ejerza la patria potestad de un menor lo entregue a una Institución de Beneficencia autorizada y dependiente de Gobierno del Estado para promover su adopción, con la solicitud de la misma se citará a su representante y a los que ejerzan dicha patria potestad, con intervención del Ministerio Público, a efecto de que, acreditando con el acta correspondiente el estado de minoría y el nombre de aquéllos, se haga la entrega para adopción y previa la aceptación de la institución, se decrete la pérdida de la patria potestad y la ratificación de discernimiento del cargo de tutor al representante de la propia institución.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1975)</small>
 
 ### CAPITULO V. De la Excusa y Pérdida de la Patria Potestad
 
@@ -3649,7 +3659,7 @@ ART. 882.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ART. 883.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 1975)</small>
 
 ### CAPITULO VI. De la Habilitación de Edad para Contratar y para Comparecer en Juicio
 
@@ -3681,7 +3691,7 @@ ART. 896.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ### CAPITULO VII. De los Procedimientos Judiciales para suplir el consentimiento de los Ascendientes y Tutores para contraer Matrimonio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ART. 897.- En los casos en que con arreglo al artículo 17 del Código Familiar para el Estado, puede la autoridad judicial suplir el consentimiento de las o los ascendientes y tutores, deberá acreditarse previa y cumplidamente por el que pretenda contraer matrimonio, que se haya en el siguiente caso:
 
@@ -3807,9 +3817,13 @@ II.- Cuando se pretenda justificar la posesión como medio para acreditar el dom
 
 III.- Cuando se trate de comprobar la posesión de un derecho real.
 
-La información se recibirá siempre con citación del Ministerio Público; en los casos de las fracciones I y II, con citación también de los colindantes y del encargado del Registro de la Propiedad de la comprensión donde estuviere ubicado el inmueble; y los comprendidos en la fracción III, con audiencia del propietario y de los demás partícipes del derecho real, cuando los haya.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 921.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1101 del Código Civil por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que se establecen en este Capítulo.
+La información se recibirá siempre con citación del Ministerio Público; en los casos de las fracciones I y II, con citación también de los colindantes y del encargado del Registro Público de la Propiedad de la comprensión donde estuviere ubicado el inmueble; y los comprendidos en la fracción III, con audiencia del propietario y de los demás partícipes del derecho real, cuando los haya.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ART. 921.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1101 del Código Civil por no estar inscrita en el Registro Público de la Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que se establecen en este Capítulo.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -3919,7 +3933,7 @@ ART. 950.- Admitida la apelación en ambos efectos, el Juez, dentro de 48 horas 
 
 ART. 951.- Si la apelación se admitió sólo en el efecto devolutivo, se observará también lo que dispone el Artículo anterior y además lo dispuesto en el Artículo 944.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ABRIL DE 1978)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 1978)</small>
 
 ART. 952.- Llegados los autos al Supremo Tribunal de Justicia o en su caso las constancias relativas para substanciar la apelación, las turnará desde luego a la Sala que corresponda y ésta, sin necesidad de vista o informes, dentro de cinco días resolverá sobre la admisión del recurso y la calificación de grado hecha por el juez.
 
@@ -4241,9 +4255,9 @@ ART. 1035.- Cuando, por cualquier motivo, quede insubsistente el primitivo embar
 
 El juez cuyo embargo quede en primer término lo comunicará así a los ulteriores, con expresión de todos los requisitos que ante él llenó el nuevo depositario.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
-ART. 1036.- Quedan exceptuados de embargo los bienes que constituyan el patrimonio familiar, desde su inscripción en el Registro Público de la Propiedad y del Comercio, en los términos que establece el Código Familiar para el Estado.
+ART. 1036.- Quedan exceptuados de embargo los bienes que constituyan el patrimonio familiar, desde su inscripción en el Registro Público de la Propiedad, en los términos que establece el Código Familiar para el Estado.
 
 ART. 1037.- El deudor sujeto a patria potestad o a tutela, el que estuviere físicamente impedido para trabajar y el que sin culpa carezca de bienes o de profesión u oficio, tendrá alimentos que el juez fijará atendida la importancia de la demanda y de los bienes y las circunstancias del demandado.
 
@@ -4473,7 +4487,7 @@ VI.- Efectuada la venta, se entregarán los bienes al adquiriente, luego que exh
 
 VII.- En todo lo demás se observarán, en lo conducente, las disposiciones de este Capítulo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1997)</small>
 
 ### CAPITULO UNICO
 
@@ -4609,7 +4623,7 @@ ART. 1135.- El tercero que considere perjudicados sus derechos al ejecutarse la 
 
 ART. 1136.- Las disposiciones de este Título se aplicarán también a los juicios sobre actos mercantiles, sin que a ello obsten las disposiciones que en contrario hay en el Código de Comercio.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
 ## TITULO DECIMO QUINTO. Del procedimiento en los negocios cuya cuantía sea hasta de ciento ochenta días de salario mínimo diario vigente en la zona económica de que se trate
 
@@ -4619,7 +4633,7 @@ ART. 1136.- Las disposiciones de este Título se aplicarán también a los juici
 
 ART. 1137.- Todos los problemas inherentes a la familia se consideran de orden público por constituir aquélla, la base de la integración de la sociedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 1998)</small>
 
 ART. 1138.- El juez de lo familiar está facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia familiar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
 
@@ -4707,11 +4721,11 @@ ART. 1152.- Los incidentes se decidirán con un escrito de cada parte y sin susp
 
 ART. 1153.- En todo lo no previsto y en cuanto no se opongan a lo ordenado por el presente capítulo, se aplicarán las reglas generales de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
 ## TITULO DECIMO SEXTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ENERO DE 1990)</small>
 
 ### CAPITULO II. De la Audiencia de Pruebas y Alegatos
 
@@ -4817,7 +4831,7 @@ ART. 1170.- Si por causas graves hubiere necesidad de prolongar la audiencia dur
 
 Cuando haya necesidad de diferirla se continuará en las primeras horas hábiles siguientes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO III. De la Rectificación de Actas del Estado Civil
 
@@ -4873,7 +4887,7 @@ El Secretario General de Gobierno
 
 Lic. LUIS NOYOLA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 24 DE DICIEMBRE DE 1972.
 
@@ -5060,3 +5074,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. En tanto no cuenten con los equipos informáticos necesarios, las notarías públicas y las autoridades competentes a que se refiere el presente Decreto, se podrá presentar el informe de aviso de testamento impreso en papel, hasta por un periodo de seis meses contados a partir de la entrada en vigor del mismo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
