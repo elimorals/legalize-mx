@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2011-05-24"
+last_updated: "2012-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "SLP"
 ---
 # LEY ESTATAL DE PROTECCION A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ESTATAL DE PROTECCION A LOS ANIMALES
+LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MAYO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO NUMERO 569 PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -133,17 +131,35 @@ Toda persona que transite con su mascota por la vía pública, está obligada a 
 
 Las autoridades competentes, en el ámbito de sus atribuciones, emitirán los reglamentos necesarios para la aplicación de esta Ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBREO DE 2012)</small>
+
 ## Título Segundo.
 
-De los Animales Silvestres en Cautiverio, de Trabajo y de Espectáculo.
+De los Animales Domésticos, Silvestres en Cautiverio, de Trabajo, y de Espectáculo.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ### Capítulo I.
 
-Animales Silvestres en Cautiverio.
+Animales Domésticos.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ARTICULO 10 BIS.- Se entiende por animal doméstico cualquier especie que nace, crece, se reproduce y muere, bajo la custodia del hombre; a excepción de los que refiere la NOM-059-SEMARNAT-2001.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ARTICULO 10 TER.- Son identificados como domésticos aquellos animales de trabajo, de compañía, así como los que son destinados al consumo humano.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO I], P.O. 16 DE FEBRERO DE 2012)
 
 ### Capítulo II.
 
-Animales de Trabajo.
+Animales Silvestres en Cautiverio.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ARTICULO 10 QUÁTER.- Se entiende por animales silvestres todas aquellas especies que no han sido domesticadas por el hombre.
 
 ###### ARTICULO 11.
 
@@ -159,45 +175,59 @@ El cautiverio deberá ser en áreas adecuadas en donde vivan cómodamente en un 
 
 Los propietarios o poseedores de animales, de presentar alguna enfermedad o conducta anormal de las especies, deberán dar aviso a las autoridades correspondientes en materia de sanidad, a efecto de prevenir una epizootia o enzootia.
 
+(REUBICADO [N. DE E. ANTES CAPÍTULO II], P.O. 16 DE FEBRERO DE 2012)
+
 ### Capítulo III.
 
-Animales en Espectáculo.
+Animales de Trabajo.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 14.
 
-Para los efectos de esta Ley se entiende por animal doméstico, cualquier especie que nace, crece, se reproduce y muere, bajo la custodia del hombre.
+Se denomina así a los animales domésticos que auxilien o compartan actividades con el hombre para facilitarle la labor del campo.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 15.
 
-Se entienden por animales silvestres todas aquellas especies que no han sido domesticadas por el hombre.
+Son de trabajo los animales cuadrúpedos de las especies equina y bovina, que son utilizados principalmente para realizar el servicio de carga estibada en el lomo, tiro de carretas, arados e implementos agrícolas y monta de jinetes.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 16.
 
-Esta Ley considera animales de trabajo, todos aquellos cuadrúpedos que auxilien o compartan actividades con el hombre para facilitar el trabajo de campo, arreo o carga, siempre estando bajo responsabilidad y custodia del mismo, el cual proveerá a los animales de trabajo los cuidados correspondientes a su salud, alimentación y bienestar.
+Toda persona que sea propietaria, encargada o posea un animal de carga, tiro o monta, debe procurarle alimentación, cuidados apropiados, así como los tratamientos veterinarios preventivos y curativos, y atender sus enfermedades.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 17.
 
-Los animales de trabajo deberán contar con espacios adecuados que por su naturaleza requieren para el movimiento y acomodo, a fin de que cuenten con un descanso suficiente para el día siguiente en que se requiera su ayuda, siempre procurando la seguridad, higiene y salud de los mismos.
+Los animales de trabajo deberán contar para su resguardo con una caballeriza, morada, refugio, albergue o casa adecuada en dimensiones, de acuerdo a especie, raza y tamaño del animal, que le permita protegerse de las condiciones climatológicas y de cualquier otro factor externo que le ocasione daño, sufrimiento o tensión.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 18.
 
-Los animales de trabajo deberán ser atendidos por sus dueños o poseedores, con las medidas zoosanitarias que las dependencias oficiales determinen.
+Los animales de trabajo deberán ser atendidos por sus dueños, encargados o poseedores, quienes les brindarán suficiente alimento y agua en cantidad adecuada a su proporción, además de otorgarles descanso después de su jornada de trabajo, así como otras medidas zoosanitarias que las normas y dependencias oficiales establezcan.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 19.
 
-La carga para animales, sea humana o de cosas, bajo ninguna circunstancia podrá ser mayor a la tercera parte de lo que pese el animal, la cual deberá distribuirse proporcionalmente en su lomo.
+Los animales de tiro no podrán ser cargados en ningún caso con un peso superior a la tercera parte del suyo, ni agregar a ese peso, el peso de una persona; la carga se distribuirá proporcionalmente sobre el peso del animal y cuidando el que no le cause contusiones, laceraciones o heridas.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 20.
 
-Los animales de carga deberán estar provistos de los arneses adecuados para la actividad que vayan a desarrollar.
+Los vehículos de tracción animal no podrán ser cargados con peso excesivo o el doble de peso del animal que se utilice para tirar, teniendo en cuenta las condiciones físicas y fisiológicas de los animales que se empleen, ni por periodos de tiempo que rebasen la resistencia del animal, debiendo proporcionar al animal los periodos de descanso necesarios para no causar agotamiento, sufrimiento, heridas, laceraciones, enfermedad o muerte, de acuerdo con la (sic) medidas y especificaciones establecidas en las normas oficiales vigentes.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 21.
 
-Los carruajes de tracción animal, no deberán ser cargados con un peso desproporcionado a las condiciones físicas de los animales que se utilicen.
+Los animales que se empleen para carga, tiro o monta, deberán ser uncidos sin maltrato y evitando que se lesionen.
 
 ###### ARTICULO 22.
 
@@ -227,13 +257,37 @@ VI.- El arreo de animales deberá hacerse evitando siempre el exceso de latigazo
 
 VII.- Tratándose de animales de carga y de espectáculo que transiten en el área urbana, deberán estar provistos de contenedores y así evitar la dispersión de sus evacuaciones.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
+ARTICULO 22 BIS.- Para los propietarios, custodios o poseedores de animales de trabajo queda prohibido, en todos los casos, lo siguiente:
+
+I. Administrar fármacos u otro tipo de sustancias para realizar el entrenamiento o el trabajo de los mismos;
+
+II. Privar de alimento o agua como parte del entrenamiento, manejo u otra actividad relacionada con el trabajo que desempeñe;
+
+III. Cargar, montar o uncir al que presente llagas, atadura u otras lesiones provocadas por monturas, aparejos o arneses;
+
+IV. Obligar al que se haya caído, a levantarse sin haber retirado previamente la carga; ni golpear, fustigar, espolear o maltratar de manera que se comprometa su bienestar;
+
+V. Utilizar para carga, tiro y monta a aquellos en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones;
+
+VI. Usar para la carga, tiro o monta sin causa justificada potrillos, o hembras en periodo próximo al parto, entendido éste como el último tercio de la gestación;
+
+VII. Evitar siempre el exceso de latigazos y otros medios de crueldad en su arreo, y
+
+VIII. Herrar con accesorios inadecuados a equinos utilizados para carga, tiro y monta, en zonas conurbadas o recreativas, con calles empedradas o asfaltadas que se resbale al trasladarse o se le dificulte el paso y movimiento de sus pezuñas para su traslado y tiro del carro, carretón o carreta.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 23.
 
-Los animales que sean ensillados, deberá hacerse con todas las guarniciones para evitar que sean lastimados.
+Las disposiciones contenidas en este capítulo se aplicarán en lo conducente a los animales de silla.
 
-### Capítulo I.
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 16 DE FEBRERO DE 2012)
 
-Animales Domésticos para Consumo.
+### Capítulo IV.
+
+Animales en Espectáculo.
 
 ###### ARTICULO 24.
 
@@ -271,17 +325,17 @@ Todos los zoológicos, deberán contar con la asesoría de un profesional debida
 
 Deberá informarse al público que asiste a los zoológicos y circos, que no está permitido darles alimentos a los animales.
 
-### Capítulo II.
+### Capítulo I.
 
-Comercialización de Animales Silvestres.
+Animales Domésticos para Consumo.
 
 ## Título Tercero.
 
 Animales Domésticos y Silvestres para Consumo y Comercialización.
 
-### Capítulo I.
+### Capítulo II.
 
-Del Transporte de Animales.
+Comercialización de Animales Silvestres.
 
 ###### ARTICULO 30.
 
@@ -311,9 +365,9 @@ La introducción o reintroducción de especies con fines de consumo humano, debe
 
 A los animales estabulados o semiestabulados, deberá alimentárseles con forrajes que no estén contaminados ni cultivados con aguas negras.
 
-### Capítulo II.
+### Capítulo I.
 
-Del Sacrificio.
+Del Transporte de Animales.
 
 ###### ARTICULO 37.
 
@@ -331,33 +385,43 @@ Al comercializarse se evitará que los animales queden expuestos a la luz solar 
 
 Del Transporte y Sacrificio de Animales.
 
-### Capítulo Unico.
+### Capítulo II.
 
-Investigación Científica con Animales.
+Del Sacrificio.
 
 ###### ARTICULO 39.
 
 El transporte de animales en vehículos destinados para espectáculo, deberá ser de la siguiente manera:
 
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2012)</small>
+
+I.- Para el transporte de animales silvestres, y/o de circo se debe cumplir con lo establecido en la Norma Oficial Mexicana 051-ZOO-1995, trato humanitario en la movilización de animales;
+
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2006)</small>
 
-I.- De ser en huacales, cajas o jaulas, deberán ser adecuadas para la especie, seguras, amplias e higiénicas; y su construcción será lo suficientemente sólida para resistir, sin deformarse, el peso de otras cajas que se le coloquen encima;
+II.- De ser en huacales, cajas o jaulas, deberán ser adecuadas para la especie, seguras, amplias e higiénicas; y su construcción será lo suficientemente sólida para resistir, sin deformarse, el peso de otras cajas que se le coloquen encima;
 
-II.- Los animales no deberán ser inmovilizados, en posturas que les puedan ocasionar lesiones o sufrimientos;
-
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
-
-III.- Por ningún motivo los receptáculos conteniendo animales serán arrojados de cualquier altura; y las operaciones de carga, descarga o traslado deberán hacerse evitando todo movimiento brusco, conforme a las normas oficiales mexicanas, y
+III.- Los animales no deberán ser inmovilizados, en posturas que les puedan ocasionar lesiones o sufrimientos;
 
 > <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
 
-IV.- Quedan estrictamente prohibidas las prácticas dolorosas o mutilantes, con el objeto de hacinarlos en un espacio reducido para su traslado.
+IV.- Por ningún motivo los receptáculos conteniendo animales serán arrojados de cualquier altura; y las operaciones de carga, descarga o traslado deberán hacerse evitando todo movimiento brusco, conforme a las normas oficiales mexicanas, y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2006)</small>
+
+V.- Quedan estrictamente prohibidas las prácticas dolorosas o mutilantes, con el objeto de hacinarlos en un espacio reducido para su traslado.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 40.
 
-El transporte de animales destinados para el consumo, deberá ser de la siguiente manera:
+El transporte de animales destinados para el consumo comprende las actividades de acopio, arreo, enjaulado, embarco, traslado y desembarco, en las cuales se deberá evitar el maltrato al animal, los gritos excesivos, golpes o utilización de bastón eléctrico o instrumentos y accesorios que les cause o pueda causarles heridas, traumatismos o lesiones.
+
+Para el transporte de animales destinados para el consumo se debe cumplir con lo establecido en la Norma Oficial Mexicana 051-ZOO-1995, trato humanitario en la movilización de animales.
 
 Si el tiempo del traslado es de veinticuatro horas o más, deberá contar con espacio requerido para la especie, proporcionándoles el agua y alimentos requeridos.
+
+En caso de accidentes durante el traslado y cuando los animales quedan heridos desahuciados y/o en agonía, se debe utilizar el sacrificio de emergencia de acuerdo a lo establecido por la Norma Oficial Mexicana 033-1991, sacrificio humanitario de los animales domésticos y silvestres.
 
 ###### ARTICULO 41.
 
@@ -373,13 +437,19 @@ El embarque de animales, deberá hacerse por medio de rampas antiderrapantes y a
 
 El transporte de aves deberá hacerse en jaulas, cajas o huacales proporcionales al tamaño de la especie, debiendo estar ventilados, procurando la comodidad de los mismos; y deberán estar protegidas del sol y la lluvia durante su traslado.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 44.
 
-Quienes transporten especies menores, no deberán hacerlo suspendiéndolas de sus extremidades inferiores, superiores o alas; tampoco será permitido arrastrarlas.
+Para el traslado de los animales en cualquier tipo de vehículo o implementos como cajas, remolques y jaulas, se obliga a los propietarios y transportistas a lo siguiente:
+
+I. Emplear en todo trayecto los procedimientos que impliquen proveer de alimentos y agua antes de su movilización y en sus descansos, y
+
+II. Procurar la comodidad y seguridad del animal durante el traslado, y evitar durante todo el procedimiento la crueldad, maltrato, fatiga extrema, condiciones no higiénicas, carencia de espacio suficiente y descanso.
 
 ### Capítulo Unico.
 
-Inventario de Especies Silvestres.
+Investigación Científica con Animales.
 
 ###### ARTICULO 45.
 
@@ -463,7 +533,7 @@ Las represas, los estanques y jagüeyes, en los cuales se pretenda llevar a cabo
 
 ### Capítulo Unico.
 
-De las Autoridades Competentes y sus Atribuciones.
+Inventario de Especies Silvestres.
 
 ###### ARTICULO 58.
 
@@ -487,9 +557,9 @@ En ningún caso podrá ser utilizado el mismo animal dos o más veces, en experi
 
 ## Título Sexto
 
-### Capítulo Primero.
+### Capítulo Unico.
 
-De las Prohibiciones.
+De las Autoridades Competentes y sus Atribuciones.
 
 ###### ARTICULO 63.
 
@@ -517,9 +587,9 @@ Los parques naturales o santuarios de determinadas especies de animales silvestr
 
 ## Título Séptimo.
 
-### Capítulo Segundo.
+### Capítulo Primero.
 
-De las Sanciones.
+De las Prohibiciones.
 
 ###### ARTICULO 67.
 
@@ -561,7 +631,7 @@ VI.- Elaborar con fines educativos y turísticos una carta geográfica ilustrada
 
 VII.- Proponer ante las Dependencias correspondientes de la administración pública federal, el establecimiento de medidas de regulación sobre la importación o exportación de animales silvestres con fines de preservación y aprovechamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 70.
 
@@ -629,9 +699,9 @@ V.- Rescatar con el apoyo de las autoridades competentes, a los animales que est
 
 De las Prohibiciones, Sanciones y Procedimiento.
 
-### Capítulo Tercero.
+### Capítulo Segundo.
 
-Del Procedimiento Administrativo.
+De las Sanciones.
 
 ###### ARTICULO 72.
 
@@ -671,9 +741,9 @@ II.- Mutilar, desollar o descuartizar a los animales estando vivos.
 
 Se prohibe transportar animales peligrosos por lugares públicos, o que transiten libremente sin su dueño o de alguna persona autorizada.
 
-### Capítulo Cuarto.
+### Capítulo Tercero.
 
-Del Recurso de Reconsideración.
+Del Procedimiento Administrativo.
 
 ###### ARTICULO 80.
 
@@ -689,7 +759,7 @@ Las infracciones denunciadas por escrito serán sancionadas por la secretaría d
 
 Las conductas a que hace referencia el artículo anterior, serán sancionadas por los secretarios de los ayuntamientos, con multa de cincuenta hasta doscientos días de salario mínimo vigente en la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 83.
 
@@ -709,7 +779,7 @@ III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negli
 
 IV. Hostigue, maltrate o torture a cualquier animal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 84.
 
@@ -720,6 +790,10 @@ Igual sanción se impondrá a las personas reincidentes.
 ###### ARTICULO 85.
 
 Las sanciones que se lleguen a aplicar con motivo de esta Ley, serán exclusivamente pecuniarias.
+
+### Capítulo Cuarto.
+
+Del Recurso de Reconsideración.
 
 ###### ARTICULO 86.
 
@@ -783,7 +857,7 @@ LIC. JAIME SUAREZ ALTAMIRANO.
 
 (RUBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE JULIO DE 2006.
 
@@ -812,3 +886,9 @@ P.O. 21 DE MAYO DE 2011.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
