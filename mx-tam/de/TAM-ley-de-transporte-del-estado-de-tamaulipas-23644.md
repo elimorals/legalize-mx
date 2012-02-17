@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2008-12-23"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -69,9 +69,9 @@ I. Concesión.- Acto administrativo por el cual el Ejecutivo autoriza a una pers
 
 II. Consejo.- El Consejo Estatal del Transporte;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-III.- Dependencia Estatal.- La Dirección General de Transporte y Vialidad;
+III.- Dependencia estatal.- La Secretaría de Desarrollo Urbano y Medio Ambiente, por conducto de la Subsecretaría de Transporte;
 
 IV.- Dependencia Municipal.- La autoridad municipal competente en materia de transporte;
 
@@ -93,7 +93,9 @@ XII.- Requisa.- El acto administrativo mediante el cual el Ejecutivo decreta la 
 
 XIII.- Ruta.- Recorrido entre un punto inicial y un punto final, siguiendo el itinerario autorizado, a través del cual se presta el servicio de pasajeros;
 
-XIV.- Secretaria.- Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIV.- Secretaría.- La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 XV.- Servicio, servicio público o servicio de transporte.- El servicio público de transporte;
 
@@ -125,17 +127,23 @@ Son autoridades en materia de transporte público, las siguientes:
 
 I.- El Gobernador Constitucional del Estado;
 
-II.- El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-III.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2006)
+II.- El Secretario de Desarrollo Urbano y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 17 DE FEBRERO DE 2012)</small>
 
-IV.- El Director General de Transporte y Vialidad;
+III.- El Secretario de Seguridad Pública;
 
-V.- El Director de Tránsito y Vialidad del Estado;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-VI.- Los Ayuntamientos; y
+IV.- El Subsecretario de Transporte;
+
+V.- (DEROGADA, P.O. 17 DE FEBRERO DE 2012)
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+VI.- Los Ayuntamientos;
 
 VII.- Los titulares de las dependencias municipales competentes en materia de transporte; y
 
@@ -246,6 +254,16 @@ XXVI.- Aquellas que con el carácter de delegables le otorgue el Ejecutivo del E
 ###### ARTÍCULO 11.
 
 Será responsabilidad de la Secretaría, que la aplicación e instrumentación de la presente Ley, se realice bajo los criterios de simplificación administrativa, descentralización de funciones y efectiva delegación de facultades.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 11 BIS.- Para el cumplimiento de la presente ley y los ordenamientos que de ella emanen, la Secretaría de Seguridad Pública, además de las disposiciones contenidas en otras leyes, tiene las siguientes facultades:
+
+I.- Realizar acciones de inspección y vigilancia para la prevención de los delitos; y
+
+II.- Auxiliar a las autoridades competentes en las visitas de inspección y verificación, que señala la presente ley.
+
+Los operativos de inspección y vigilancia señalados en la fracción I del presente artículo, serán independientes de las visitas de inspección y verificación que lleve a cabo la dependencia estatal, por lo que podrán realizarse sin la intervención de esta última.
 
 ### CAPÍTULO III. ATRIBUCIONES DE LOS AYUNTAMIENTOS
 
@@ -1001,7 +1019,31 @@ Para utilizar un vehículo en la prestación del servicio, deberá de contar con
 
 En ningún caso se expedirán las placas sin la constancia de la Dependencia Estatal que acredite que el concesionario y el vehículo han cumplido con todos los requisitos señalados en esta ley y en su reglamento.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE LAS ACCIONES DE INSPECCIÓN Y VIGILANCIA PARA LA PREVENCIÓN DE DELITOS
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 95 BIS.- La Secretaría de Seguridad Pública podrá llevar a cabo, en cualquier momento, acciones y operativos de inspección y vigilancia para la prevención de los delitos, ya sea en los domicilios de los prestadores del servicio, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal, en el lugar donde se encuentren prestando el servicio o en las propias oficinas de la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 95 TER.- Los operativos de inspección y vigilancia para la prevención del delito, tendrán los siguientes objetivos:
+
+I.- Verificar la legítima propiedad o la posesión legal de la unidad que preste el servicio público de transporte, así como sus bases de servicio, terminales y encierros, particularmente para evitar que tengan reporte de robo o que cuenten con partes o accesorios denunciados como robados;
+
+II.- Verificar que el vehículo que preste el servicio público de transporte, las bases de servicio, terminales y encierros, no se utilicen para la comisión de delitos;
+
+III.- Verificar que el vehículo cuente con la documentación inherente a su circulación legal, como son la tarjeta y placas de circulación vigentes o, en su defecto, la autorización de la autoridad competente para circular;
+
+IV.- Verificar que las placas y la documentación al amparo de las cuales se preste el servicio público de transporte, así como la veracidad de la información y los datos proporcionados a la dependencia estatal;
+
+V.- Verificar que las unidades con la que se preste el servicio público de transporte correspondan físicamente a las debidamente autorizadas por la dependencia estatal; y
+
+VI.- Verificar que las placas y la documentación al amparo de las cuales se preste el servicio público de transporte se encuentren debidamente actualizadas, conforme a la presente ley.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 95 QUATER.- Cuando en las acciones o los operativos de inspección y vigilancia, se detecte que una persona o unidad se encuentre en el supuesto de incumplir con la normatividad aplicable a la luz de cualquiera de las verificaciones previstas en el artículo anterior, se aplicarán las sanciones establecidas en la presente ley, sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso, y la responsabilidad civil o penal que resulten de los mismos.
 
 ###### ARTÍCULO 91.
 
@@ -1037,6 +1079,8 @@ La revista mecánica y documental de los vehículos se efectuará anualmente, de
 
 La acreditación de la revista mecánica y documental se hará de la manera que señale el reglamento de esta ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2012)</small>
+
 ### CAPÍTULO ÚNICO
 
 ## TÍTULO SÉPTIMO. DE LA CONTRAPRESTACIÓN Y DE LA TARIFA DEL SERVICIO PÚBLICO DEL TRANSPORTE
@@ -1067,7 +1111,7 @@ Los prestadores del servicio tienen derecho de cobrar por anticipado la contrapr
 
 ## TÍTULO OCTAVO. REGISTRO ESTATAL DEL SERVICIO PÚBLICO DE TRANSPORTE
 
-### CAPÍTULO I. DE LA SUSPENSIÓN DE LA PRESTACIÓN DEL SERVICIO
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 100.
 
@@ -1085,7 +1129,7 @@ Los lineamientos y procedimientos que regirán al Registro Estatal se establecer
 
 ## TÍTULO NOVENO. DE LA REQUISA DE LOS BIENES Y SERVICIOS AFECTOS A LA PRESTACIÓN DEL SERVICIO PÚBLICO DEL TRANSPORTE
 
-### CAPÍTULO II. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES
+### CAPÍTULO I. DE LA SUSPENSIÓN DE LA PRESTACIÓN DEL SERVICIO
 
 ###### ARTÍCULO 103.
 
@@ -1145,7 +1189,7 @@ Sólo será responsable el administrador de la requisa de daños o perjuicios qu
 
 ## TÍTULO DÉCIMO. SUSPENSIÓN Y CANCELACIÓN DE LAS CONCESIONES Y PERMISOS
 
-### CAPÍTULO I. INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES
 
 ###### ARTÍCULO 112.
 
@@ -1185,7 +1229,7 @@ Con excepción del caso de la requisa, la suspensión durará hasta en tanto se 
 
 Salvo la excepción antes señalada, en los demás casos de suspensión, como medida precautoria, los vehículos serán retirados de la circulación.
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA SUSPENSIÓN Y REVOCACIÓN DE LAS CONCESIONES Y PERMISOS Y PARA LA APLICACIÓN DE SANCIONES
+### CAPÍTULO I. INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 115.
 
@@ -1263,7 +1307,7 @@ La suspensión o extinción de los derechos derivados de las concesiones no susp
 
 ## TÍTULO DÉCIMO PRIMERO. INFRACCIONES, SANCIONES Y PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO III. RECURSO DE REVOCACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA SUSPENSIÓN Y REVOCACIÓN DE LAS CONCESIONES Y PERMISOS Y PARA LA APLICACIÓN DE SANCIONES
 
 ###### ARTÍCULO 119.
 
@@ -1295,9 +1339,33 @@ XII.- A los concesionarios de servicio público de transporte que no cuenten con
 
 XIII.- A los concesionarios de servicio público de transporte que no porten en sus unidades la póliza de seguro vigente, para indemnizar los daños y perjuicios que con motivo de la prestación del servicio se causen a los usuarios, peatones o terceros se les sancionará, con multa de 60 a 80 días de salario tratándose de servicio de pasajeros y de 40 a 60 días de salario mínimo en el caso de servicio de carga;
 
-XIV.- A los concesionarios de servicio público de transporte que alteren en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio sin autorización expresa de la Dependencia Estatal se les sancionará, con multa de 100 a 200 días de salario mínimo tratándose de servicio de pasajeros y de 80 a 100 días de salario mínimo en el caso de servicio de carga; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-XV.- Cualquier otra violación a la presente ley, a las condiciones establecidas en la concesión o permiso y a las demás disposiciones y acuerdos de la Dependencia Estatal y cuya sanción no esté expresamente prevista, se impondrá multa de 40 a 60 días de salario mínimo.
+XIV.- A los concesionarios de servicio público de transporte que alteren en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio sin autorización expresa de la Dependencia Estatal se les sancionará, con multa de 100 a 200 días de salario mínimo tratándose de servicio de pasajeros y de 80 a 100 días de salario mínimo en el caso de servicio de carga;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XV.- Por utilizar vehículos robados en la prestación del servicio o partes de los mismos para efectuar reparaciones o adaptaciones, se sancionará con multa de 480 a 500 días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVI.- Por utilizar vehículos ilegalmente introducidos en el país en la prestación del servicio, se sancionará con multa de 480 a 500 días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVII.- Por permitir a sabiendas o utilizar el vehículo, los bienes, servicios o equipamientos auxiliares para la comisión de delitos, se sancionará con multa de 480 a 500 días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVIII.- Cuando se exhiban placas, documentación apócrifa, o se proporcionen informes o datos falsos a la dependencia estatal, se sancionará con multa de 480 a 500 días de salario mínimo;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIX.- Cuando no se encuentren debidamente actualizadas las placas y la documentación al amparo de la cual se esté prestando el servicio público de transporte, se sancionará con multa de 480 a 500 días de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XX.- Cualquier otra violación a la presente ley, a las condiciones establecidas en la concesión o permiso y a las demás disposiciones y acuerdos de la dependencia estatal y cuya sanción no esté expresamente prevista, se impondrá multa de 40 a 60 días de salario mínimo.
 
 En la comisión de las infracciones establecidas en esta ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
 
@@ -1327,9 +1395,33 @@ V.- Alterar las tarifas vigentes, carecer de taxímetro cuando sea obligatorio, 
 
 VI.- Cuando el conductor no porte licencia o no sea la que corresponda al tipo de vehículo;
 
-VII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Dependencia Estatal; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-VIII.- En caso de que el conductor se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica.
+VII.- Alterar en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio, sin autorización expresa y por escrito de la Dependencia Estatal;
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+VIII.- En caso de que el conductor se encuentre bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+IX.- Por utilizar vehículos con reporte de robo en la prestación del servicio o partes de verificarlos con reporte de robo para efectuar reparaciones o adaptaciones;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+X.- Por utilizar vehículos carentes de la autorización legal para internarse y circular en el país, en la prestación del servicio;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XI.- Por permitir a sabiendas o utilizar el vehículo, los bienes, servicios o equipamientos auxiliares para la comisión de delitos;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XII.- Por exhibir documentación apócrifa o proporcionen informes o datos falsos a la dependencia estatal; y
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIII.- Por no tener debidamente actualizadas las placas y la documentación con la que se esté prestando el servicio público de transporte, conforme a la presente ley.
 
 ###### ARTÍCULO 122.
 
@@ -1343,7 +1435,7 @@ Cualquier autoridad que tenga conocimiento de violaciones o infracciones a la pr
 
 Cuando por la naturaleza de la infracción se afecte la prestación del servicio en perjuicio de los usuarios, la Dependencia Estatal podrá tomar las medidas necesarias para normalizar la prestación de ese servicio.
 
-### CAPÍTULO IV. RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO III. RECURSO DE REVOCACIÓN
 
 ###### ARTÍCULO 125.
 
@@ -1378,6 +1470,8 @@ La Dependencia Estatal se reserva el derecho de rescatar las concesiones para el
 ###### ARTÍCULO 129.
 
 Decretada la suspensión o extinción de los derechos derivados de las concesiones, el concesionario deberá entregar el título o documento en que conste a la Dependencia Estatal.
+
+### CAPÍTULO IV. RECURSO DE RECONSIDERACIÓN
 
 ###### ARTÍCULO 130.
 
@@ -1480,3 +1574,11 @@ P.O. 23 DE DICIEMBRE DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para efectos de la actualización de las placas y la documentación con la que se esté prestando el servicio público de transporte, los concesionarios o prestadores del servicio público de transporte, contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto, a fin de llevar a cabo los trámites necesarios para estar al corriente en sus obligaciones.
+
+Lo anterior, para efectos de la no aplicación de la multa señalada en la fracción XIX del artículo 119 que se adiciona mediante el presente Decreto, sin demérito del retiro de las unidades a los depósitos de guarda y custodia de vehículos infraccionados, hasta el cumplimiento sus obligaciones.
