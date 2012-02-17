@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-responsabilidad-patrimonial-de-la-ciudad-de-mexico-63782
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-21"
-last_updated: "2008-10-21"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63782&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2008-10-17"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DE LA PRESENTE LEY, ENTRARA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2009.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE FEBRERO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 21 de octubre de 2008.
 
@@ -60,9 +58,13 @@ La presente Ley es de orden público e interés general y tiene por objeto norma
 
 La responsabilidad patrimonial a cargo del Gobierno del Distrito Federal, es objetiva y directa y la indemnización deberá ajustarse a los términos y condiciones señalados en esta ley y en las demás disposiciones legales a que la misma hace referencia.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 2.
 
-Esta Ley es aplicable a la Jefatura de Gobierno del Distrito Federal, entidades, dependencias, órganos político administrativos, órganos autónomos y a los actos materialmente administrativos de la Asamblea Legislativa del Distrito Federal, del Tribunal Superior de Justicia del Distrito Federal, del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Junta Local de Conciliación y Arbitraje del Distrito Federal y Tribunal Electoral del Distrito Federal.
+Esta Ley es aplicable a la Jefatura de Gobierno del Distrito Federal, entidades, dependencias, órganos político administrativos, órganos desconcentrados, órganos autónomos y a los actos materialmente administrativos de la Asamblea Legislativa del Distrito Federal, del Tribunal Superior de Justicia del Distrito Federal, del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Junta Local de Conciliación y Arbitraje del Distrito Federal y Tribunal Electoral del Distrito Federal.
+
+Todos los entes públicos en su respectivo portal de Internet, deberán informar del derecho que otorga a los particulares esta Ley para ser indemnizados en caso de ser afectados en sus bienes o derechos, a consecuencia de la actividad administrativa irregular de cualquiera de los entes públicos señalados en el párrafo anterior.
 
 ###### Artículo 3.
 
@@ -74,7 +76,9 @@ II. Órganos autónomos: La Comisión de Derechos Humanos, la Junta Local de Con
 
 III. Órganos locales de gobierno: La Asamblea Legislativa, la Jefatura de Gobierno y el Tribunal Superior de Justicia, todos del Distrito Federal;
 
-IV. Entes Públicos: Los órganos locales de gobierno, los órganos autónomos, las dependencias, los órganos desconcentrados y las entidades de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2012)</small>
+
+IV. Entes Públicos: Los órganos locales de gobierno, los órganos autónomos, las dependencias, los órganos político-administrativos, los órganos desconcentrados y las entidades de la Administración Pública del Distrito Federal;
 
 V. Reparación: Es la que comprende daño emergente, lucro cesante, daño personal y daño moral;
 
@@ -90,21 +94,31 @@ X. Daño patrimonial: Los daños que se generan a los bienes o derechos de los p
 
 XI. Secretaría: La Secretaría de Finanzas del Distrito Federal, y
 
-XII. Responsabilidad patrimonial de los Entes Públicos: Es aquella obligación de indemnización a cargo de los Entes Públicos que surge como consecuencia de su actividad administrativa irregular y que causa un daño en los bienes y derechos de los particulares.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2012)</small>
+
+XII. Código Fiscal: Código Fiscal del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2012)</small>
+
+XIII. Modulo de Responsabilidad Patrimonial: Es aquel que establecerán los entes públicos con la finalidad de otorgar atención, información y resolver las dudas respecto al procedimiento de responsabilidad patrimonial, requisitos para la presentación de la reclamación del daño patrimonial, autoridades competentes para conocer del recurso y del contenido general de la presente Ley.
 
 ###### Artículo 4.
 
 Se exceptúan de la obligación de indemnizar por parte de los Entes Públicos de acuerdo a esta ley, los casos de fuerza mayor, los daños y perjuicios que no sean consecuencia de la actividad administrativa irregular de los Entes Públicos, así como aquellos que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de su acaecimiento, los que sean consecuencia de que el afectado directa o indirectamente participe, coadyuve, asista o simule su producción, denotando su mala fe permitiendo la actividad irregular de los mismos por parte de los Entes Públicos y los demás casos previstos por las demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 5.
 
-Los daños y perjuicios materiales que constituyan la lesión patrimonial reclamada, incluidos los personales y morales, habrán de ser reales, evaluables en dinero, directamente relacionados con una o varias personas y ser desiguales a los que pudieran afectar al común de la población.
+Los daños y perjuicios materiales que constituyan la lesión patrimonial reclamada, incluidos los personales y morales, habrán de ser reales, evaluables en dinero.
 
 ### Capítulo II. De la Previsión Presupuestal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 6.
 
-La Jefatura de Gobierno, a través de la Secretaría, propondrá a la Asamblea Legislativa el monto de la partida presupuestal que deberá destinarse expresamente para cubrir las erogaciones derivadas de responsabilidad patrimonial de las dependencias, entidades de la administración pública y órganos políticos administrativos. Los demás órganos locales de gobierno, así como los órganos autónomos deberán prever en sus respectivos presupuestos lo anterior, conforme a las disposiciones del Código Financiero del Distrito Federal.
+La Jefatura de Gobierno, a través de la Secretaría, propondrá a la Asamblea Legislativa el monto de la partida presupuestal que deberá destinarse expresamente para cubrir las erogaciones derivadas de responsabilidad patrimonial de las dependencias, entidades de la administración pública y órganos políticos administrativos. Los demás órganos locales de gobierno, así como los órganos autónomos deberán prever en sus respectivos presupuestos lo anterior, conforme a las disposiciones del Código Fiscal.
 
 En la fijación de los montos de las partidas presupuestales, deberán preverse las indemnizaciones que no hayan podido ser pagadas en el ejercicio inmediato anterior, según lo dispuesto en el artículo 10 de la presente ley.
 
@@ -112,35 +126,41 @@ En la fijación de los montos de las partidas presupuestales, deberán preverse 
 
 El monto que se fije en el Decreto de Presupuesto de Egresos del Distrito Federal destinado al concepto de responsabilidad patrimonial de los Entes Públicos, deberá ajustarse anualmente en una proporción igual al incremento promedio que se registre en dichos presupuestos, salvo que exista una propuesta justificada de modificación presupuestal diferente a la regla general antes prevista.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 8.
 
-Los aspectos de responsabilidad patrimonial de los Entes Públicos que tengan relación con el Presupuesto de Egresos del Distrito Federal, se regirán conforme a las disposiciones conducentes del Código Financiero del Distrito Federal.
+Los aspectos de responsabilidad patrimonial de los Entes Públicos que tengan relación con el Presupuesto de Egresos del Distrito Federal, se regirán conforme a las disposiciones conducentes del Código Fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 9.
 
-La Jefatura de Gobierno, a través de la Secretaría, en los términos del Código Financiero, conjuntamente con la Contraloría General del Distrito Federal, podrá autorizar el traspaso de los montos presupuestales asignados a las diferentes dependencias o entidades de la administración pública para responsabilidad patrimonial, cuando por la naturaleza de la actividad administrativa de las mismas sea pertinente y se justifique ante las autoridades competentes.
+La Jefatura de Gobierno, a través de la Secretaría, en los términos del Código Fiscal, conjuntamente con la Contraloría General del Distrito Federal, podrá autorizar el traspaso de los montos presupuestales asignados a las diferentes dependencias o entidades de la administración pública para responsabilidad patrimonial, cuando por la naturaleza de la actividad administrativa de las mismas sea pertinente y se justifique ante las autoridades competentes.
 
 En el caso de las entidades de la administración pública y de los órganos autónomos, los traspasos correspondientes deberán ser aprobados por los órganos de gobierno respectivos.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 10.
 
-Las indemnizaciones fijadas por autoridades administrativas o jurisdiccionales que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 20 de la presente ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en términos de esta ley y el Código Financiero del Distrito Federal.
+Las indemnizaciones fijadas por autoridades administrativas o jurisdiccionales que excedan del monto máximo presupuestado en un ejercicio fiscal determinado, serán cubiertas en el siguiente ejercicio fiscal, según el orden de registro a que se refiere el artículo 20 de la presente ley, sin perjuicio del pago de intereses por demora que como compensación financiera se calculen en términos de esta ley y el Código Fiscal.
 
 ###### Artículo 11.
 
 Las reclamaciones de indemnización por responsabilidad patrimonial de los Entes Públicos notoriamente improcedentes se desecharán de plano.
 
-(NOTA: EL 13 DE MAYO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2008, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE MAYO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-A QUIEN PROMUEVA UNA RECLAMACIÓN NOTORIAMENTE IMPROCEDENTE O QUE SEA DECLARADA INFUNDADA O CON DOLO Y MALA FE, POR HABERSE INTERPUESTO SIN MOTIVO, SE LE IMPONDRÁ UNA MULTA DE OCHENTA A TRESCIENTOS SESENTA DÍAS DE SALARIO MÍNIMO GENERAL DIARIO VIGENTE EN EL DISTRITO FEDERAL. LA MULTA SERÁ IMPUESTA DE CONFORMIDAD CON EL REGLAMENTO DE LA PRESENTE LEY.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 17 DE FEBRERO DE 2012)</small>
 
 La autoridad que haya tenido conocimiento de una reclamación en la que se advierta algún posible hecho delictivo, tendrá la obligación de hacerlo del conocimiento del Ministerio Público, incluyendo a quienes hayan coadyuvado, asistido, participado o simulado la producción de daños con el propósito de acreditar indebidamente la responsabilidad patrimonial de los Entes Públicos o de obtener alguna de las indemnizaciones a que se refiere la presente ley.
 
 Si con motivo de una impugnación posterior se determinara que la reclamación de indemnización debe ser admitida a trámite, se iniciará el procedimiento a que se refiere el Capítulo IV de esta ley.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 12.
 
-A falta de disposición expresa en esta ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley de Procedimiento Administrativo del Distrito Federal; el Código Financiero del Distrito Federal; el Código Civil para el Distrito Federal y los principios generales del Derecho.
+A falta de disposición expresa en esta ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley de Procedimiento Administrativo del Distrito Federal; el Código Fiscal; el Código Civil para el Distrito Federal y los principios generales del Derecho.
 
 ### Capítulo III. De las Indemnizaciones
 
@@ -151,6 +171,10 @@ La indemnización deberá pagarse en moneda nacional de acuerdo a las modalidade
 ###### Artículo 14.
 
 En los casos en que la autoridad administrativa o la jurisdiccional determinen con los elementos que hayan tenido a la vista en los respectivos procedimientos, que la actuación de los Entes Públicos causantes del daño reclamado, hubiese sido irregular de acuerdo a los estándares promedio de funcionamiento de la actividad administrativa de que se trate; o bien, si la actuación del servidor público resulta manifiestamente deficiente o ilegal, la indemnización deberá corresponder a la prevista en este artículo como reparación integral. Las indemnizaciones comprenderán el pago del daño emergente, lucro cesante o perjuicio, resarcimiento por daño personal y moral, según los resultados de la actividad administrativa irregular y el daño producido a los bienes o derechos del particular.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
+Cuando quien condene al pago de la indemnización sea la Contraloría General, ésta podrá emitir una recomendación al ente público responsable y dará vista a la Contraloría Interna respectiva para que en el ámbito de sus atribuciones de seguimiento a dicha recomendación.
 
 ###### Artículo 15.
 
@@ -168,13 +192,19 @@ La indemnización por daño moral que el Ente Público esté obligado a cubrir, 
 
 Para el cálculo de los montos de las indemnizaciones a que se refieren las fracciones anteriores, las autoridades tomarán también en cuenta el nivel de ingreso familiar del afectado, en caso de muerte.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 17.
 
-La cuantificación de la indemnización se calculará de la fecha en que sucedieron los daños a la fecha en que hayan cesado éstos cuando sean de carácter continuo, sin perjuicio de la actualización de los valores al tiempo de su efectivo pago, de conformidad con el Código Financiero del Distrito Federal.
+La cuantificación de la indemnización se calculará de la fecha en que sucedieron los daños a la fecha en que hayan cesado éstos cuando sean de carácter continuo, sin perjuicio de la actualización de los valores al tiempo de su efectivo pago, de conformidad con el Código Fiscal.
+
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 18.
 
-A las indemnizaciones deberán sumarse en su caso, y según la cantidad que resulte mayor, los intereses por demora que establece el Código Financiero del Distrito Federal en materia de devolución morosa de pagos indebidos, o pago del interés legal que determina el Código Civil para el Distrito Federal. Los términos para el cómputo de los intereses empezarán a correr 30 días después de que quede firme la resolución administrativa i (sic) jurisdiccional que ponga fin al procedimiento declamatorio en forma definitiva.
+A las indemnizaciones deberán sumarse en su caso, y según la cantidad que resulte mayor, los intereses por demora que establece el Código Fiscal en materia de devolución morosa de pagos indebidos, o pago del interés legal que determina el Código Civil para el Distrito Federal.
+
+Los términos para el cómputo de los intereses empezarán a correr 30 días después de que quede firme la resolución administrativa o jurisdiccional, según sea el caso, que ponga fin al procedimiento declamatorio en forma definitiva.
 
 ###### Artículo 19.
 
@@ -182,41 +212,61 @@ Los entes públicos podrán contratar un seguro por responsabilidad patrimonial 
 
 Las indemnizaciones deberán cubrirse en su totalidad de conformidad con los términos y condiciones dispuestos por esta ley y a las que ella remita. En los casos de haberse celebrado contrato de seguro por responsabilidad patrimonial del ente Público, ante la eventual producción de daños y perjuicios que sean consecuencia de la actividad administrativa irregular de los Entes Públicos, la suma asegurada se destinará a cubrir el monto equivalente a la reparación integral o de equidad debida, según sea el caso. De ser ésta insuficiente, el Ente Público continuará obligado a resarcir la diferencia respectiva. El pago de cantidades líquidas por concepto de deducible corresponde al Ente Público y no podrá disminuirse de la indemnización.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 20.
 
-Las resoluciones o sentencias firmes deberán registrarse por el ente responsable, ante la Secretaría, misma que deberá llevar un registro de indemnizaciones debidas por responsabilidad patrimonial, que será de consulta pública, a fin de que siguiendo el orden establecido según su fecha de emisión, sean indemnizadas las lesiones patrimoniales cuando procedan de acuerdo a la presente ley.
+Las resoluciones o sentencias firmes deberán registrarse por el ente responsable, ante la Secretaría, misma que deberá llevar un registro de indemnizaciones debidas por responsabilidad patrimonial que será de consulta pública.
 
-Para el pago de las indemnizaciones a que se refiere el presente capítulo, se crea el Fondo para el Pago de la Indemnizaciones por Responsabilidad Patrimonial de los entes públicos. La Asamblea Legislativa determinará el monto que se asignará al fondo a través del Decreto de Presupuesto de Egresos correspondiente, a propuesta del Jefe de Gobierno que se incluirá en el proyecto respectivo y cuya asignación no podrá ser menor al 0.4% de los ingresos propios del Gobierno del Distrito Federal.
+La Secretaría o el ente público responsable según corresponda deberá realizar el pago de las indemnizaciones en un plazo no mayor a 30 días hábiles posteriores a la fecha de emisión de las resoluciones o sentencias firmes, y solo que existan razones justificadas previa opinión de la Contraloría General, podrá ampliarse por 15 días hábiles más por una sola vez, sin que ello implique la generación de interés o cargo adicional alguno.
+
+Para el pago de las indemnizaciones a que se refiere el presente capítulo, se crea el Fondo para el Pago de la (sic) Indemnizaciones por Responsabilidad Patrimonial de los entes públicos. La Asamblea Legislativa determinará el monto que se asignará al fondo a través del Decreto de Presupuesto de Egresos correspondiente, a propuesta del Jefe de Gobierno que se incluirá en el proyecto respectivo y cuya asignación no podrá ser menor al 0.4% de los ingresos propios del Gobierno del Distrito Federal.
 
 Los recursos del Fondo serán administrados y operados por la Secretaría.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 21.
 
-La Contraloría llevará un registro de acuerdo a las indemnizaciones a que hayan sido condenados los entes públicos de la administración pública del Distrito Federal, entidades y órganos político administrativos, a efecto de implementar en al ámbito de su competencia, mecanismos que tiendan a evitar la generación de daños en los bienes o derechos de los particulares.
+La Contraloría llevará un “Registro de Estatus del Procedimiento de Reclamación y de Condenas Indemnizatorias” en el cual serán registradas las resoluciones o sentencias definitivas por medio de las cuales se condene a las dependencias, órganos desconcentrados, entidades de la administración pública del Distrito Federal y a los órganos político-administrativos del Distrito Federal al pago de indemnización generada por responsabilidad patrimonial.
 
-Las dependencias, entidades y órganos político administrativos, deberán de informar oportunamente a la Contraloría, respecto de las condenas de indemnización bajo su responsabilidad para los efectos del párrafo anterior.
+Los entes públicos contaran con un registro en su portal de Internet que contendrá el estatus del procedimiento de reclamación iniciados por el reclamante a efecto de que éste pueda consultarlo en cualquier momento. Asimismo deberán de informar a la Contraloría, en un plazo máximo de cinco días hábiles posteriores a la emisión de la resolución, respecto de las condenas de indemnización bajo su responsabilidad.
 
-La Secretaría, deberá de remitir a la Contraloría para los efectos del presente artículo, los pagos que se hayan hecho a los particulares vía indemnización a efecto de que ésta dé cumplimiento a lo establecido en el primer párrafo del presente artículo.
+La Secretaría, deberá de remitir a la Contraloría, en un plazo máximo de cinco días hábiles, los pagos de indemnización que se hayan hecho a los particulares, los cuales deberán ser incluidos en el Registro.
 
-Los órganos autónomos y los actos materialmente administrativos de la Asamblea Legislativa, del Tribunal de lo Contencioso Administrativo, de la Junta Local de Conciliación y Arbitraje, Instituto Electoral y Tribunal Electoral del Distrito Federal, deberán llevar registros propios a efecto de implementar mecanismos que tiendan a evitar la producción de actos dañosos a los bienes y derechos de los particulares.
+Los órganos autónomos, deberán llevar registros propios a efecto de implementar mecanismos que prevengan lesiones patrimoniales en la esfera jurídica de los particulares.
+
+En cualquier caso, los Registros previstos por el presente artículo deberán ser publicados en los respectivos portales de Internet de los entes públicos obligados.
 
 ### Capítulo IV. Del Procedimiento
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 22.
 
-Los procedimientos de responsabilidad patrimonial se iniciarán por reclamación de parte interesada.
+Los procedimientos de responsabilidad patrimonial se iniciarán por reclamación de la parte interesada. La parte interesada deberá describir puntualmente los hechos causantes de la lesión patrimonial producida y señalar la cuantía de la indemnización pretendida.
+
+La autoridad que conozca del recurso de reclamación de daño patrimonial, deberá suplir la deficiencia de los escritos de reclamación, únicamente en cuestiones que no incidan en la resolución del asunto, tales como el ente público presunto responsable, cita de ordenamientos legales, ente público ante quien se promueve, entre otros errores de forma.
 
 ###### Artículo 23.
 
 La parte interesada podrá presentar indistintamente su reclamación, ante el ente público presuntamente responsable, según sea el caso, o bien, ante la Contraloría General del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
+En caso de que la parte interesada ingrese su reclamación ante un ente público que no sea el responsable de la presunta actividad administrativa irregular, éste tendrá la obligación de remitirla en un término no mayor de 3 días hábiles al ente público competente, por lo que el término de substanciación empezará a correr a partir de que la autoridad competente lo reciba, además, dicho periodo no se computara para efectos del término de prescripción previsto en el artículo 32 de esta Ley.
+
 ###### Artículo 24.
 
 Las reclamaciones de indemnización por responsabilidad de la administración pública del Distrito Federal que se presenten ante la Comisión de Derechos Humanos del Distrito Federal, o bien que deriven del conocimiento de una queja o denuncia ante dicho organismo, deberán ser turnadas a las dependencias, entidades de la administración pública, órgano autónomo u órgano local de gobierno, presuntamente relacionadas con la producción del daño reclamado.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 25.
 
-El procedimiento de responsabilidad patrimonial deberá ajustarse, además de lo dispuesto por esta ley, a la Ley de Procedimiento Administrativo del Distrito Federal y Código Financiero del Distrito Federal en la vía administrativa y a lo dispuesto por la Ley del Tribunal de lo Contencioso Administrativo en la vía jurisdiccional.
+El procedimiento de responsabilidad patrimonial deberá ajustarse, además de lo dispuesto por esta ley, a la Ley de Procedimiento Administrativo del Distrito Federal, Código Fiscal en la vía administrativa, Ley del Tribunal de lo Contencioso Administrativo en la vía jurisdiccional.
+
+Asimismo en lo que respecta a la substanciación del procedimiento de responsabilidad patrimonial, en el ofrecimiento, desahogo y valoración de pruebas, en lo no previsto en la Ley de Procedimiento Administrativo del Distrito Federal se deberá aplicar de manera supletoria el Código de Procedimientos Civiles para el Distrito Federal.
 
 ###### Artículo 26.
 
@@ -228,7 +278,9 @@ El daño que sea consecuencia de la actividad administrativa irregular deberá a
 
 I. En los casos en que la causa o causas productoras del daño sean claramente identificables, la relación causa-efecto entre el daño y la acción administrativa irregular imputable a los Entes Públicos, deberá probarse fehacientemente, y
 
-II. En su defecto, la causalidad única o concurrencia de hechos y condiciones causales, así como la participación de otros agentes en la generación del daño reclamado, deberá probarse a través de la identificación precisa de los hechos relevantes para la producción del resultado final, mediante el examen riguroso tanto de las cadenas causales autónomas o dependientes entre sí, como las posibles interferencias originales o sobrevenidas que hayan podido atenuar o agravar el daño patrimonial reclamado.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2012)</small>
+
+II. En su defecto, la causalidad única o concurrencia de hechos y condiciones causales, así como la participación de otros agentes en la generación de la lesión patrimonial reclamada, deberá probarse a través de la identificación precisa de los hechos relevantes para la producción del resultado final, mediante el examen riguroso tanto de las cadenas causales autónomas o dependientes entre sí, como las posibles interferencias originales o sobrevenidas que hayan podido atenuar o agravar la lesión patrimonial reclamada.
 
 ###### Artículo 28.
 
@@ -242,19 +294,25 @@ Las resoluciones o sentencias que se dicten con motivo de los reclamos que prev�
 
 Las resoluciones de la autoridad administrativa que nieguen la indemnización o que por su monto no satisfagan al interesado podrán impugnarse mediante recurso de inconformidad en la vía administrativa, o bien, mediante juicio de nulidad ante el Tribunal Contencioso Administrativo del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 31.
 
-Cuando de las actuaciones, documentos e informes del procedimiento, el órgano de conocimiento considere que son inequívocas la relación de causalidad entre el daño y la actividad administrativa irregular de los Entes Públicos, la valoración del daño y el cálculo de la cuantía de la indemnización, podrá acordar de oficio o a petición de parte interesada, un procedimiento abreviado en los siguientes términos:
+Cuando de las actuaciones, documentos e informes del procedimiento, el órgano de conocimiento considere que son inequívocas la relación de causalidad entre el daño y la actividad administrativa irregular de los Entes Públicos, la valoración de la lesión patrimonial y el cálculo de la cuantía de la indemnización, podrá acordar de oficio o a petición de parte interesada, un procedimiento abreviado en los siguientes términos:
 
 I. Se podrá iniciar antes de la verificación de la audiencia a que se refiere el artículo 57 o correlativo de la Ley de Procedimiento Administrativo del Distrito Federal;
 
-II. Se concederá un plazo de cinco días hábiles al interesado para que ofrezca pruebas, documentos o informes, a partir del acuerdo que determine el inicio de dicho procedimiento, tiempo durante el cual, podrán también dar por terminado el procedimiento mediante convenio, y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2012)</small>
+
+II. Se concederá un plazo de cinco días hábiles al interesado para que ofrezca pruebas, tales como la: documental, instrumental, pericial, reconocimiento e inspección judicial, fotografía, videograbación y las demás que se establezcan en las disposiciones que resulten aplicables; a partir del acuerdo que determine el inicio de dicho procedimiento, tiempo durante el cual las partes, podrán también dar por terminado el procedimiento mediante convenio, y
 
 III. Una vez recibidas las pruebas, se desahogarán éstas y las ofrecidas con antelación, dentro de los cinco días hábiles siguientes, y la autoridad deberá emitir la resolución o sentencia en un lapso no mayor a cinco días hábiles, después de concluida aquella, en la que se determinará la relación de causalidad entre la actividad administrativa irregular de los Entes Públicos y el daño producido; la valoración del daño causado y la cuantía y modo de la indemnización, considerando los criterios previstos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 32.
 
-El derecho a reclamar indemnización prescribe en un año, mismo que se computará a partir del día siguiente a aquél en que se hubiera producido la lesión patrimonial o a partir del momento que hubiesen cesado sus efectos lesivos, si fuesen de carácter continuo. Cuando existan daños de carácter físico o síquico a las personas, el plazo de prescripción empezará a correr desde la curación o la determinación del alcance de las secuelas.
+El derecho a reclamar indemnización prescribe en un año, mismo que se computará a partir del día siguiente a aquél en que se hubiera producido la lesión patrimonial o a partir del momento que hubiesen cesado sus efectos lesivos, si fuesen de carácter continuo. Cuando existan daños de carácter físico o psíquico a las personas, el plazo de prescripción empezará a correr desde la curación o la determinación del alcance de las secuelas.
 
 En el caso de que el particular hubiese intentado la nulidad o anulabilidad de actos administrativos por la vía administrativa o jurisdiccional y ésta hubiese procedido, el plazo de prescripción para reclamar indemnización se computará a partir del día siguiente de la fecha en que quede firme la resolución administrativa o causa estado a la sentencia definitiva según la vía elegida.
 
@@ -264,9 +322,11 @@ Los reclamantes afectados podrán celebrar convenio con las dependencias, entida
 
 ### Capítulo V. De la Concurrencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 34.
 
-En caso de concurrencia acreditada en términos del artículo 27 de esta ley, el pago de la indemnización correspondiente deberá distribuirse proporcionalmente entre todos los causantes del daño patrimonial reclamado, de acuerdo a su respectiva participación. Para los efectos de la misma distribución, las autoridades administrativas o jurisdiccionales tomarán en cuenta, entre otros, los siguientes criterios de imputación, mismos que deberán guardarse y aplicarse de acuerdo a cada caso concreto:
+En caso de concurrencia acreditada en términos del artículo 27 de esta ley, el pago de la indemnización correspondiente deberá distribuirse proporcionalmente entre todos los causantes de la lesión patrimonial reclamada, de acuerdo a su respectiva participación. Para los efectos de la misma distribución, las autoridades administrativas o jurisdiccionales tomarán en cuenta, entre otros, los siguientes criterios de imputación, mismos que deberán guardarse y aplicarse de acuerdo a cada caso concreto:
 
 I. A cada Ente Público deben atribuírsele los hechos o actos dañosos que provengan de su propia organización y operación. A los Entes de los cuales dependan otro u otros Entes, sólo se les atribuirán los hechos o actos dañosos cuando los segundos no hayan podido actuar en forma autónoma. A los Entes que tengan la obligación de vigilancia respecto de otros, sólo se les atribuirán los hechos o actos dañosos cuando de ellos dependiera el control y supervisión total de los entes vigilados;
 
@@ -274,7 +334,9 @@ II. Cada Ente Público responderá por los hechos o actos dañosos que hayan oca
 
 III. El Ente Público que tenga la titularidad competencial o la del servicio público y que con su actividad haya producido los hechos o actos dañosos, responderá de los mismos, sea por prestación directa o con colaboración interorgánica;
 
-IV. El Ente Público que haya proyectado obras que hayan sido ejecutadas por otro, responderá de los hechos o actos dañosos causados, cuando los segundos no hayan tenido el derecho de modificar el proyecto, por cuya causa se generó el daño patrimonial reclamado. Por su parte, los Entes ejecutores responderán de los hechos producidos, cuando éstos no hubieran tenido como origen deficiencias en el proyecto elaborado por otro Ente, y
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2012)</small>
+
+IV. El Ente Público que haya proyectado obras que hayan sido ejecutadas por otro, responderá de los hechos o actos dañosos causados, cuando los segundos no hayan tenido el derecho de modificar el proyecto, por cuya causa se generó la lesión patrimonial reclamada. Por su parte, los Entes ejecutores responderán de los hechos producidos, cuando éstos no hubieran tenido como origen deficiencias en el proyecto elaborado por otro Ente, y
 
 V. Cuando en los hechos o actos dañosos concurra la intervención de la autoridad federal y la local, la primera deberá responder del pago de la indemnización en forma proporcional a su respectiva participación en términos de la legislación federal, quedando la parte correspondiente del Distrito Federal a lo que dispone esta Ley.
 
@@ -284,9 +346,11 @@ El Gobierno del Distrito federal y los órganos autónomos podrán celebrar conv
 
 En el supuesto de que el reclamante se encuentre entre los causantes del daño cuya reparación solicita, la proporción cuantitativa de su participación en el daño y perjuicio causado se deducirá del monto de indemnización total.
 
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 36.
 
-En el supuesto de que entre los causantes del daño patrimonial reclamado no se pueda identificar su exacta participación en la producción de la misma, se establecerá entre ellos una responsabilidad solidaria frente al reclamante, debiéndose distribuir el pago de la indemnización en partes iguales entre todos los cocausantes.
+En el supuesto de que entre los causantes de la lesión patrimonial reclamada no se pueda identificar su exacta participación en la producción de la misma, se establecerá entre ellos una responsabilidad solidaria frente al reclamante, debiéndose distribuir el pago de la indemnización en partes iguales entre todos los cocausantes.
 
 ###### Artículo 37.
 
@@ -347,3 +411,13 @@ SÉPTIMO.- La reforma al artículo 1927 del Código Civil para el Distrito Feder
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días del mes de agosto del año dos mil ocho.- POR LA MESA DIRECTIVA.- DIP. AGUSTÍN CARLOS CASTILLA MARROQUÍN, PRESIDENTE.- SECRETARIA, DIP. LETICIA QUEZADA CONTRERAS.- SECRETARIO, DIP. ALFREDO VINALAY MORA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida aplicación y observancia, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecisiete días del mes de octubre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ARQ. J. ARTURO AISPURO CORONEL.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JORGE ARGANIS DÍAZ LEAL.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 17 DE FEBRERO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida difusión.
+
+SEGUNDO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
