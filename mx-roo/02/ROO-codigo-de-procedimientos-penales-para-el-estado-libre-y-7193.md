@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2010-12-10"
+last_updated: "2012-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO DE MANERA PROGRESIVA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 7 de octubre de 1980.
 
@@ -4280,3 +4282,69 @@ DECRETO NÚMERO 373, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 100
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+PRIMERO. Entrada en vigor
+
+El Código Procesal Penal del Estado de Quintana Roo, contenido en el presente decreto entrará en vigor de manera progresiva, previa su publicación en el Periódico Oficial del Estado, según las siguientes prevenciones:
+
+I. Sus disposiciones se aplicarán el quince de octubre del año dos mil trece, en el Distrito Judicial de Chetumal, de acuerdo a la "Declaratoria de que el Sistema Procesal Penal Acusatorio Adversarial y Oral ha sido incorporado en el Estado de Quintana Roo", misma que deberá ser emitida por el Congreso del Estado, a solicitud expresa del Poder Judicial del Estado. Esta declaratoria deberá ser publicada en el Periódico Oficial del Estado de Quintana Roo.
+
+II. En los demás distritos judiciales que conforman la jurisdicción de la entidad, sus disposiciones se aplicarán en las fechas que contendrá la Declaratoria señalada en la fracción anterior.
+
+III Para el caso de Justicia para Adolescentes, se aplicará supletoriamente el presente ordenamiento.
+
+SEGUNDO. Aplicación a procesos pendientes
+
+El Código de Procedimientos Penales para el Estado de Quintana Roo publicado en el Periódico Oficial del Estado, el siete de octubre de mil novecientos ochenta, seguirá rigiendo en lo conducente en los procedimientos iniciados con anterioridad a la aplicación del nuevo Código, y quedará abrogado en la medida en que aquellos queden concluidos, conforme a la calendarización establecida en la Declaratoria correspondiente.
+
+Quedan abrogados, en los términos señalados en los textos precedentes, los preceptos legislativos de la entidad que se opongan a las disposiciones de este ordenamiento.
+
+TERCERO. Adecuación del Orden Jurídico Estatal
+
+Dentro del término de doce meses contados a partir del día siguiente de la publicación del presente Decreto, se deberán realizar los ajustes necesarios al orden jurídico estatal para adecuarlos a lo establecido en el presente Código.
+
+CUARTO. Normas prácticas
+
+Los órganos de procuración y administración de justicia y el de ejecución de penas, en el ejercicio de sus funciones reglamentarias, dictarán las normas prácticas necesarias para aplicar este Código.
+
+QUINTO. Disposiciones presupuestales
+
+En el Presupuesto de Egresos para el ejercicio fiscal 2013 deberán considerarse los recursos financieros para establecer las previsiones y partidas presupuestales respectivas para implementar el Sistema de Justicia señalado en el Código Procesal Penal del Estado de Quintana Roo en lo concerniente a infraestructura y capacitación. Igualmente el Presupuesto de Egresos de los años subsecuentes deberán establecer las partidas presupuestales necesarias según los requerimientos del Sistema.
+
+SEXTO. Denominaciones
+
+Para los efectos del régimen de transición, se entenderá por Código de Procedimientos Penales, el aprobado el nueve de septiembre del año de mil novecientos ochenta y publicado el siete de octubre del mismo año y por Código Procesal Penal el contenido en el presente Decreto.
+
+SÉPTIMO. Reglas de prescripción
+
+Las reglas de prescripción previstas por el Código Procesal Penal, serán aplicables a los procesos iniciados bajo su vigencia y las previstas en el Código Penal del Estado Libre y Soberano de Quintana Roo, lo serán para aquellos procesos cuyos hechos ocurrieron bajo la vigencia del Código de Procedimientos Penales.
+
+OCTAVO. Delitos permanentes y continuados
+
+El procedimiento penal relativo a hechos delictuosos de carácter permanente o continuado que se iniciaron bajo la vigencia del Código de Procedimientos Penales y que continúen desarrollándose en un territorio donde se encuentre vigente el Código Procesal Penal, será regulado por el primero de los ordenamientos citados en este artículo.
+
+NOVENO. Prohibición de acumulación de procesos
+
+No procederá la acumulación de investigaciones y procesos, cuando alguno de los hechos objeto de tales procesos esté sometido al Código Procesal Penal y otro al Código de Procedimientos Penales.
+
+DÉCIMO. Eficacia retroactiva
+
+En el curso del procedimiento penal regido por el Código de Procedimientos Penales, podrán aplicarse las disposiciones del Código Procesal Penal que se refieren a:
+
+I. En averiguación previa, la facultad para abstenerse de investigar, archivo temporal y aplicación de los criterios de oportunidad en el ejercicio de la acción penal;
+
+II. En las demás etapas del procedimiento penal:
+
+a) Los mecanismos alternativos de solución de controversias;
+
+b) Suspensión del proceso a prueba; y
+
+c) Procedimiento abreviado.
+
+La conciliación podrá celebrarse hasta antes del desahogo de la audiencia de vista pública a que se refiere el artículo 272 del Código de Procedimientos Penales para el Estado de Quintana Roo de nueve de septiembre de mil novecientos ochenta; la suspensión del proceso a prueba y el procedimiento abreviado podrán decretarse hasta antes de que se cierre la instrucción, conforme lo dispone el artículo 52 del Código de Procedimientos Penales del Estado.
+
+DÉCIMO PRIMERO. Exhortos
+
+Cuando una autoridad penal del Estado reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud. En su caso, el juez de garantía o de control de legalidad actuará como juez penal con las potestades señaladas en el Código de Procedimientos Penales; o bien, en su caso, el juez penal asumirá las funciones del juez de garantía o de control de legalidad con las potestades y procedimientos previstos en el Código Procesal Penal.
