@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-egresos-del-estado-de-puebla-para-el-ejercicio-84852"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-19"
-last_updated: "2011-12-19"
+last_updated: "2012-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY DE EGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2012
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE EGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2012
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 17 DE FEBRERO DE 2012.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de diciembre de 2011.
 
@@ -1353,11 +1353,11 @@ IV.- Adquirir o arrendar vehículos, exceptuándose aquellos casos en que se des
 
 Las Dependencias y Entidades para realizar este tipo de erogaciones requerirán en forma específica y previa al ejercicio de los Recursos Públicos, la autorización por escrito de la Secretaría, en los casos en que sea procedente. Las Entidades requerirán además la autorización previa de su Órgano de Gobierno.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 86.
 
-Los gastos de promoción, difusión e información de la imagen institucional, la impresión y elaboración de publicaciones oficiales y de información en general para la difusión y demás gastos relacionados con actividades de comunicación social, se realizarán primordialmente a través de la Dirección General de Comunicación Social del Gobierno del Estado de Puebla.
+Los gastos de promoción, difusión e información de la imagen institucional, la impresión y elaboración de publicaciones oficiales y de información en general para la difusión y demás gastos relacionados con actividades de comunicación social, se realizarán primordialmente a través de la Dirección General de Comunicación Social del Poder Ejecutivo del Estado de Puebla.
 
 Las Dependencias y Entidades se abstendrán de realizar gastos destinados a publicaciones que no tengan relación con las funciones que les correspondan, en los términos de las disposiciones legales y reglamentarias aplicables a la esfera de su competencia.
 
