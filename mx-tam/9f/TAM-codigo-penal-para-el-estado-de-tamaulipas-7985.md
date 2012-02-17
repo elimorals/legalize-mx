@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2012-02-15"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1705,6 +1705,14 @@ Cuando resulte algún otro delito se aplicarán las reglas del concurso.
 
 Se impondrá de quince a veinte años de prisión al que empleando explosivos o materias incendiarias, deteriore o destruya un medio de transporte con el fin de interrumpir el servicio, si hubiere una o más personas en su interior. Si se causare homicidio o lesiones se observarán las reglas del concurso. Si en el vehículo de que se trate no se hallare persona alguna, se aplicará prisión de diez a quince años.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTICULO 174 BIS.- A quien por sí o por interpósita persona preste el servicio público de transporte de pasajeros, individual o colectivo, sin concesión, permiso o autorización, se le impondrá de uno a cinco años de prisión y multa de treinta a ciento cincuenta días de salario mínimo y suspensión por un año de la licencia para conducir; en caso de reincidencia, será revocada definitivamente la licencia para conducir.
+
+Si en la comisión del delito tuviere intervención cualquier integrante del Consejo Estatal del Transporte, servidor público adscrito a la dependencia de la administración pública estatal encargada de regular el transporte público en el Estado, socio o representante legal de una empresa concesionaria o permisionaria del servicio público de transporte y se cometiere bajo el amparo de aquella, la pena aplicable se aumentará de una a dos terceras partes de las que corresponden por el delito cometido.
+
+Este delito se perseguirá de oficio.
+
 ### CAPITULO II. CORRUPCION, PORNOGRAFIA Y PROSTITUCION SEXUAL DE MENORES E INCAPACES
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
@@ -3141,7 +3149,7 @@ Cometen el delito a que se refiere este capítulo los padres que habiéndoseles 
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
-Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente, aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
+Comete este delito cualquiera de los padres que sustraiga a los hijos arbitrariamente del lugar donde habiten transitoria o permanentemente aún cuando no exista resolución judicial que dirima la custodia de los menores, pero que de hecho se encuentren bajo el resguardo de alguno de ellos.
 
 Sólo se procederá contra el responsable a petición de quien ejerza la patria potestad o el derecho de custodia.
 
@@ -5340,3 +5348,11 @@ P.O. 15 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para efectos de la actualización de las placas y la documentación con la que se esté prestando el servicio público de transporte, los concesionarios o prestadores del servicio público de transporte, contarán con un plazo de 90 días a partir de la entrada en vigor del presente Decreto, a fin de llevar a cabo los trámites necesarios para estar al corriente en sus obligaciones.
+
+Lo anterior, para efectos de la no aplicación de la multa señalada en la fracción XIX del artículo 119 que se adiciona mediante el presente Decreto, sin demérito del retiro de las unidades a los depósitos de guarda y custodia de vehículos infraccionados, hasta el cumplimiento sus (sic) obligaciones.
