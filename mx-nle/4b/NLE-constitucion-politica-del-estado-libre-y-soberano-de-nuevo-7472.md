@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-02-13"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -109,7 +109,7 @@ V.- Honrar la memoria de sus grandes hombres, cumplir y vigilar el cumplimiento 
 
 Son ciudadanos del Estado todos los Nuevoleoneses mayores de 18 años de edad, sea cual fuere su sexo o estado civil, que tengan modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 36.
 
@@ -177,7 +177,7 @@ III.- Por sublevación contra las instituciones o contra las Autoridades Constit
 
 Corresponde exclusivamente a la Legislatura del Estado rehabilitar en sus derechos de ciudadano nuevoleonés a los que los hayan perdido; pero es requisito indispensable para esto que la persona a quien se conceda esa gracia goce de los derechos de ciudadano mexicano.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE ABRIL DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 1987)</small>
 
 ###### ARTICULO 28.
 
@@ -259,7 +259,7 @@ La propaganda bajo cualquier modalidad de comunicación social que difundan como
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los tres párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 44.
 
@@ -287,7 +287,7 @@ El organismo electoral competente con la participación del Gobierno del Estado,
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2004)</small>
 
 ###### Art. 46.
 
@@ -319,7 +319,7 @@ II.- Tener veintiún años cumplidos el día de la elección; y
 
 III.- Ser vecino del Estado, con residencia no menor de cinco años inmediatos anteriores a la fecha de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 48.
 
@@ -391,7 +391,7 @@ Corresponde al Presidente del Congreso velar por el respeto al Fuero Constitucio
 
 Los Diputados Suplentes entrarán en funciones en caso de falta absoluta de los Propietarios respectivos, y también en caso de falta temporal, cuando sean llamados por el Congreso en los términos que disponga el Reglamento del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. DECRETO NO. 186], P.O. 28 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. DECRETO NO. 186], P.O. 28 DE FEBRERO DE 2011)</small>
 
 ###### Art. 55.
 
@@ -433,7 +433,7 @@ En los períodos extraordinarios a que se convoque a la Legislatura, ésta sólo
 
 Si el período extraordinario de sesiones se prolonga hasta el tiempo en que deba comenzar el ordinario, cesará aquél y durante éste se despacharán preferentemente los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2002)</small>
 
 ###### Art. 62.
 
@@ -447,7 +447,7 @@ Siguiendo el mismo procedimiento, el Congreso podrá citar a cualquiera de dicho
 
 Los Magistrados del Tribunal Superior de Justicia del Estado únicamente ocurrirán para los casos a que se refieren las fracciones XVI y XXVIII del artículo 63 de esta Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 63.
 
@@ -469,7 +469,7 @@ IV.- Vigilar el cumplimiento de la Constitución y de las Leyes, especialmente d
 
 V.- Expedir las leyes en materia municipal con base en las cuales, los Ayuntamientos podrán aprobar las normas administrativas de carácter general de aplicación en sus respectivos territorios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2011)</small>
 
 VI.- Ordenar, el establecimiento o supresión de Municipios, por el voto de las dos terceras partes de los integrantes de la Legislatura, especificando la extensión territorial y fijando sus límites y colindancias.
 
@@ -493,19 +493,19 @@ IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto d
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
 Autorizar en la Ley de Egresos del Estado las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la misma Ley. Las erogaciones correspondientes deberán incluirse en las subsecuentes Leyes de Egresos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
 Dentro de la Ley de Egresos del Estado, se incluirán las partidas plurianuales necesarias para cumplir con las obligaciones contraídas para obras de infraestructura pública, encontrándose entre ellas las que se realicen bajo la modalidad de Proyecto de Prestación de Servicios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -525,7 +525,7 @@ XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado serv
 
 XII.- Gestionar la solución de las demandas de los nuevoleoneses.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -695,13 +695,13 @@ XLVII.- Remover a los Magistrados y Consejeros de la Judicatura del Estado cuand
 
 XLVIII.- Recibir del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado informe estadístico trimestral del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
 XLIX.- Aprobar o no la asociación de Municipios del Estado de Nuevo León con los de otros Estados, para coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -709,13 +709,13 @@ L.- Expedir Leyes en materia de revisión y fiscalización de la Cuenta Pública
 
 El Congreso del Estado establecerá los lineamientos para la operación de contralorías sociales como auxiliares del Congreso y de la Auditoría Superior del Estado, facilitando la participación de la ciudadanía en la denuncia, fiscalización y la evaluación del uso de los recursos públicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2009)</small>
 
 LI.- Dictar los lineamientos generales de las instancias técnicas para la evaluación del uso de recursos, estatales y municipales aplicables a todos los sujetos de fiscalización por parte del Congreso del Estado. Estas funciones de evaluación serán ejercidas por la Auditoría Superior del Estado, sin perjuicio de que los sujetos de fiscalización establezcan sus propias Instancias de evaluación; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -739,7 +739,7 @@ IV.- Consentir en que funcionen como Autoridades las que debiendo ser electas po
 
 Al finalizar el período de sesiones ordinarias la legislatura nombrará una diputación permanente compuesta por ocho diputados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 ###### Art. 66.
 
@@ -947,7 +947,7 @@ III.- Nombrar y remover libremente a los titulares de las Dependencias que integ
 
 IV.- Auxiliar a los Tribunales del Estado para que la justicia se administre en forma pronta y expedita y para que se ejecuten las sentencias, prestando a aquéllos el apoyo que necesiten para el mejor ejercicio de sus funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1087,7 +1087,7 @@ Este organismo no será competente tratándose de asuntos electorales, laborales
 
 Ninguna orden del Gobernador se tendrá como tal, si no va firmada por el Secretario General de Gobierno y por el Secretario del Despacho que corresponda, o por quienes deban substituirlos legalmente. Los firmantes serán responsables de dichas órdenes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 89.
 
@@ -1097,7 +1097,7 @@ Cuando el Congreso otorgue al Gobernador Licencia para ausentarse del Estado por
 
 Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente, en su caso, nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 90.
 
@@ -1125,7 +1125,7 @@ El cargo de Gobernador sólo es renunciable por causa grave que calificará el C
 
 Del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 94.
 
@@ -1433,7 +1433,7 @@ Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatu
 
 Art.- 104.- Los Jueces Menores serán Licenciados en Derecho, tendrán las facultades conciliatorias y judiciales que determine la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
 ## TITULO VII.
 
@@ -1457,7 +1457,7 @@ El Gobernador del Estado sólo podrá ser acusado por traición a la Patria y de
 
 [En cuanto a los efectos de esta declaración ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2003)</small>
 
 ###### Art. 107.
 
@@ -1503,7 +1503,7 @@ Se concede acción popular para formular denuncias ante el Congreso del Estado, 
 
 Podrán ser sujetos a Juicio Político los Diputados al Congreso del Estado, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Comisionados de la Comisión de Transparencia y Acceso a la Información, los Magistrados del Tribunal Electoral del Estado, los Magistrados del Tribunal Superior de Justicia, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Magistrados del Tribunal de Justicia Administrativa, los Jueces, el Procurador General de Justicia, los Secretarios del Despacho del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores y Síndicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 111.
 
@@ -1549,7 +1549,7 @@ En demanda del orden civil que se entable contra cualquier servidor público no 
 
 Si el delito que se impute a algún funcionario se hubiere cometido antes de que ejerza el cargo, se estará al procedimiento establecido en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 Art.- 114.-No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos a que hace referencia el Artículo 112 cometa un delito durante el tiempo en que se encuentre separado de su cargo.
 
@@ -1691,7 +1691,7 @@ Los Ayuntamientos, en los primeros días del mes de Noviembre de cada año, pres
 
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por las administraciones públicas municipales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1823,7 +1823,7 @@ De la Hacienda Pública del Estado.
 
 El Patrimonio del Estado se compone de todos los bienes y derechos que éste haya adquirido y adquiera por cualquier título, incluyendo sin limitación: las aguas que no siendo federales tampoco pertenezcan a particulares; las herencias y bienes vacantes, los créditos que tenga a su favor, sus propias rentas, los derechos sobre el patrimonio neto de los organismos descentralizados y empresas de participación estatal, sin perjuicio de los derechos de terceros, las obras públicas hechas con fondos estatales mientras no sean transferidas a otras entidades, las contribuciones que decrete el legislativo y de los demás ingresos que determinen las leyes fiscales o que se generen en su favor por cualquier causa legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1837,7 +1837,7 @@ No se efectuará ningún egreso que no esté previamente autorizado por Ley o De
 
 El año fiscal correrá del primero de enero al 31 de diciembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1845,7 +1845,7 @@ El año fiscal correrá del primero de enero al 31 de diciembre.
 
 Una Ley determinará la organización y funcionamiento de todas las Oficinas de Hacienda en el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1853,7 +1853,7 @@ Una Ley determinará la organización y funcionamiento de todas las Oficinas de 
 
 De la Fiscalización Superior del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1869,7 +1869,7 @@ Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podr
 
 Asimismo, sin perjuicio del principio de posterioridad, en las situaciones excepcionales que determine la Ley, derivado de denuncias, podrá requerir a los sujetos fiscalizados que procedan a la revisión, durante el ejercicio fiscal en curso, de los conceptos denunciados y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se impondrán las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso y, en su caso, fincará las responsabilidades correspondientes o promoverá otras responsabilidades ante las autoridades competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1889,7 +1889,7 @@ Si de la Revisión practicada por la Auditoría Superior del Estado, aparecieren
 
 Anualmente, la Auditoría Superior del Estado deberá entregar al Congreso del Estado en el Informe del Resultado, la situación que guardan las observaciones, recomendaciones y acciones promovidas por ésta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1909,7 +1909,7 @@ En caso de no cumplir con los requerimientos de la Auditoría Superior del Estad
 
 Los sujetos de fiscalización deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que sean transferidos o asignados; asimismo, tendrán que asegurar su transparencia de acuerdo con los criterios que establezca la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1919,7 +1919,7 @@ El Auditor General del Estado será designado mediante convocatoria pública que
 
 El Auditor General del Estado durará en el cargo ocho años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
 
@@ -1927,15 +1927,15 @@ El Auditor General del Estado durará en el cargo ocho años.
 
 En caso de ausencia absoluta del Auditor General del Estado, el Congreso realizará nuevo nombramiento, siguiendo el proceso señalado en el Artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES TITULO X], P.O. 1 DE ABRIL DE 2009)
+(REUBICADO [N. DE E. ANTES TÍTULO X], P.O. 1 DE ABRIL DE 2009)
 
 ## TITULO XI.
 
 Prevenciones Generales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### Art. 141.
 
@@ -1973,9 +1973,9 @@ El Gobernador Provisional a que se refieren los dos artículos anteriores ejerce
 
 Si no pudieren cumplirse las prevenciones de los arts. 144 y 145, se estará a lo dispuesto en la fracción V del art. 76 de la Constitución Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES TITULO XI], P.O. 1 DE ABRIL DE 2009)
+(REUBICADO [N. DE E. ANTES TÍTULO XI], P.O. 1 DE ABRIL DE 2009)
 
 ## TITULO XII.
 
@@ -2005,9 +2005,9 @@ Para las adiciones o reformas a que se refieren los artículos anteriores se gua
 
 Las Leyes a que se refieren los Artículos 45, 63 Fracción XIII, 94, 95 y 118, son Constitucionales y en su reforma guardarán las mismas reglas que en las de cualquier Artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES TITULO XII], P.O. 1 DE ABRIL DE 2009)
+(REUBICADO [N. DE E. ANTES TÍTULO XII], P.O. 1 DE ABRIL DE 2009)
 
 ## TITULO XIII.
 
@@ -2035,6 +2035,10 @@ Continúan en vigor todas las leyes y decretos existentes, en cuanto no se opong
 
 El Pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. Todas las leyes y todas las autoridades del Estado deben respetar y hacer respetar las garantías que otorga la presente Constitución.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado recobraran por ese solo hecho su libertad y tienen derecho a la protección de las Leyes.
+
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
@@ -2043,11 +2047,23 @@ El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### Art. 2o.
 
-En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado recobran por ese solo hecho su libertad y tienen derecho (sic) la protección de las Leyes.
+El Estado de Nuevo León, tiene una composición pluriétnica, pluricultural, multilingüistica, a la que contribuyen los indígenas asentados en su territorio. La conciencia de su identidad indígena será criterio fundamental para determinar a quiénes se aplican las disposiciones de este artículo. Los pueblos indígenas son aquellos que descienden de población que habitaban en el territorio actual del estado al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
+El Estado promoverá la difusión de sus culturas y fomentará la participación de los indígenas en los distintos ámbitos y niveles de gobierno.
+
+Los indígenas que habitan en la Entidad tienen derecho a preservar y enriquecer sus lenguas y sus conocimientos; colaborar en la protección de su hábitat, patrimonio cultural, lugares de culto y demás elementos que constituyan su cultura e identidad; a decidir sobre sus normas internas de convivencia, organización social, económica, política y cultural. Sus formas e instituciones de gobierno garantizarán la participación de las mujeres indígenas en la toma de decisiones relacionadas a la vida comunitaria, en un marco que respete el pacto federal y la soberanía de los Estados.
+
+Las leyes del Estado reconocerán y fomentarán los sistemas normativos y de resolución de conflictos adoptados por los indígenas, siempre y cuando la aplicación de estos no contravenga la Constitución Política de los Estados Unidos Mexicanos y esta Constitución. Las instituciones del Estado garantizarán el respeto a sus derechos humanos, a la vez que establecerán los mecanismos para que puedan acceder a la jurisdicción Estatal. Los indígenas tienen en todo tiempo el derecho a ser asistidos por traductores y defensores que tengan conocimiento de su lengua y cultura, bajo las formas y términos que prevenga la ley de la materia.
+
+El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la educación básica, la capacitación productiva, la educación media superior y superior, estableciendo un sistema de becas a los indígenas en todos los niveles con igualdad de género. Asimismo, les asegurará el acceso a los servicios de salud, vivienda digna y a los servicios sociales básicos. Se establecerán políticas sociales para proteger los derechos laborales de los migrantes de los pueblos indígenas en el territorio estatal, a través de acciones que velen por el respeto a los derechos humanos. Se consultará a los indígenas, e incorporarán sus recomendaciones, para la elaboración de los Planes Estatal y municipales de desarrollo.
+
+Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
 
@@ -2089,7 +2105,7 @@ Además de impartir la educación básica obligatoria, el Estado promoverá y at
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las Leyes de la materia.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
 ###### Art. 3o.
 
@@ -2127,27 +2143,27 @@ Monterrey, 16 de diciembre de 1917.
 
 Nicéforo Zambrano.- J.L. González, Srio.
 
-N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 19 DE ABRIL DE 1919.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 30 DE MAYO DE 1923.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 24 DE DICIEMBRE DE 1924.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 20 DE MAYO DE 1925.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 5 DE MAYO DE 1926.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 11 DE JUNIO DE 1927.
 
@@ -2181,7 +2197,7 @@ El contrato de trabajo sólo obligará a prestar el servicio convenido por el ti
 
 La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 6o.
 
@@ -2219,7 +2235,7 @@ Las Leyes Orgánicas dictarán cuantas disposiciones sean necesarias para evitar
 
 Es inviolable el derecho de petición ejercido por escrito de una manera pacífica y respetuosa; pero en materias políticas sólo pueden ejercerlo los ciudadanos del Estado. A toda petición debe recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, y ésta tiene la obligación de hacer saber en breve término el resultado al peticionario.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1973)</small>
 
@@ -2259,7 +2275,7 @@ A ninguna ley se le dará efecto retroactivo en perjuicio de persona alguna. Nad
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2285,7 +2301,7 @@ En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solici
 
 Las comunicaciones privadas son inviolables, salvo en los casos y con los requisitos que establezcan las leyes federales y cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2309,29 +2325,29 @@ Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial, y bajo los principios de seguridad jurídica, de la búsqueda de la verdad y de la transparencia, a través de los medios y en los términos que establezca la Ley, Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de controversias, en la forma y términos establecidos por las leyes. En la materia penal las leyes reglarán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
 
 Las leyes establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Art. 17.
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2357,13 +2373,13 @@ Las formas alternativas de justicia deberán observarse en la aplicación de est
 
 El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Para la reclusión preventiva y la ejecución de sentencias en materia de delincuencia organizada se destinarán centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados por delincuencia organizada con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a quienes se encuentren internos en estos establecimientos. Lo anterior podrá aplicarse a otros internos que requieran medidas especiales de seguridad, en términos de la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2381,7 +2397,7 @@ Todo proceso se seguirá forzosamente por el hecho o hechos señalados en el aut
 
 Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos, que serán corregidos por las leyes y reprimidos por las autoridades.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2571,11 +2587,11 @@ Tampoco constituyen monopolio las asociaciones o sociedades cooperativas de prod
 
 La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
@@ -2585,7 +2601,7 @@ Si el infractor de los reglamentos gubernativos o de policía fuese jornalero, o
 
 Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos o de policía, no excederá del equivalente a un día de su ingreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE EL TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
@@ -2625,21 +2641,21 @@ P.O. 28 DE ABRIL DE 1928.
 
 DECRETO NÚMERO 60
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 28 DE ABRIL DE 1928.
 
 DECRETO NÚMERO 62.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 12 DE MAYO DE 1928.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 31 DE OCTUBRE DE 1928.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 P.O. 12 DE MAYO DE 1937.
 
@@ -2653,7 +2669,7 @@ Estas reformas empezarán a regir el día de su publicación en el Periódico Of
 
 P.O. 30 DE DICIEMBRE DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 23 DE JUNIO DE 1943.
 
@@ -2667,29 +2683,29 @@ TERCERO :— En la forma que antecede queda interpretada Jurídicamente la dispo
 
 P.O. 30 DE ABRIL DE 1947.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 29 DE SEPTIEMBRE DE 1948.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 11 DE MAYO DE 1949.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 6 DE JUNIO DE 1951.
 
 (REPUBLICADO, P.O. 4 DE JULIO DE 1951)
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 30 DE ABRIL DE 1952.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 28 DE ABRIL DE 1954.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 21 DE MAYO DE 1960.
 
@@ -2705,7 +2721,7 @@ UNICO:- Este decreto entrará en vigor el día de su publicación en el PERIODIC
 
 P.O. 26 DE JUNIO DE 1965.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 14 DE DICIEMBRE DE 1966.
 
@@ -2745,7 +2761,7 @@ UNICO:- Este Decreto entrará en vigor el día de su publicación en el Periódi
 
 P.O. 17 DE MAYO DE 1972.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 11 DE ABRIL DE 1973.
 
@@ -2813,13 +2829,13 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
-DECRETO NUMERO 254
+DECRETO NÚMERO 254
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE SEPTIEMBRE DE 1979.
 
-DECRETO NUMERO 255
+DECRETO NÚMERO 255
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
@@ -2829,7 +2845,7 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 25 DE ENERO DE 1980.
 
-UNICO:- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 30 DE ENERO DE 1980.
 
@@ -2837,13 +2853,13 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 24 DE OCTUBRE DE 1980.
 
-DECRETO QUE REFORMA EL ARTICULO 122, FRACCION III DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO QUE REFORMA EL ARTÍCULO 122, FRACCIÓN III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 24 DE OCTUBRE DE 1980.
 
-DECRETO QUE REFORMA EL ARTICULO 85, FRACCION XXII DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO QUE REFORMA EL ARTÍCULO 85, FRACCIÓN XXII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- La presente reforma entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2857,7 +2873,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 13 DE FEBRERO DE 1981.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE ENERO DE 1982.
 
@@ -2879,13 +2895,13 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 28 DE DICIEMBRE DE 1983.
 
-DECRETO QUE REFORMA EL ARTICULO 25 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO QUE REFORMA EL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- EL presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE DICIEMBRE DE 1983.
 
-DECRETO QUE REFORMA Y ADICIONA LOS ARTICULOS 30,63, FRACCIONES VI Y XLIII, 85 FRACCIONES VI, XVIII, 119,120,121,124, 126 Y 131 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 30,63, FRACCIONES VI Y XLIII, 85 FRACCIONES VI, XVIII, 119,120,121,124, 126 Y 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 ###### ARTICULO PRIMERO
 
@@ -2943,13 +2959,13 @@ UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en e
 
 P.O. 9 DE NOVIEMBRE DE 1990.
 
-DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 53, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 148, QUE REFORMA EL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 9 DE NOVIEMBRE DE 1990.
 
-DECRETO NUMERO 149, QUE REFORMA EL ARTICULO 63 FRACCION II, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 149, QUE REFORMA EL ARTÍCULO 63 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -2987,7 +3003,7 @@ P.O. 27 DE DICIEMBRE DE 1990.
 
 P.O. 19 DE JUNIO DE 1991.
 
-DECRETO NUMERO 206, QUE REFORMA EL ARTÍCULO 128.
+DECRETO NÚMERO 206, QUE REFORMA EL ARTÍCULO 128.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3015,19 +3031,19 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 20 DE OCTUBRE DE 1993.
 
-DECRETO NUMERO 199, QUE REFORMA LOS ARTICULOS 3o. Y 34 FRACCION I, DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 199, QUE REFORMA LOS ARTÍCULOS 3o. Y 34 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE OCTUBRE DE 1993.
 
-DECRETO NUMERO 200, QUE REFORMA EL ARTICULO 23 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 200, QUE REFORMA EL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE OCTUBRE DE 1993.
 
-DECRETO NUMERO 203, QUE REFORMA LOS ARTICULOS 42, 44, 46, 63 FRACCION XV Y 66 FRACCION VI Y SE ADICIONA UNA FRACCION XLVI DEL ARTICULO 63 Y SE DEROGA LA FRACCION VIII DEL ARTICULO 66 DE LA CONSTITUCION POLITICA DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 203, QUE REFORMA LOS ARTÍCULOS 42, 44, 46, 63 FRACCIÓN XV Y 66 FRACCIÓN VI Y SE ADICIONA UNA FRACCIÓN XLVI DEL ARTÍCULO 63 Y SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 PRIMERO:- Se derogan todas las disposiciones que se opongan a las presentes reformas.
 
@@ -3043,19 +3059,19 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 24 DE MAYO DE 1995.
 
-DECRETO NUMERO 49, QUE REFORMA EL ARTICULO 132.
+DECRETO NÚMERO 49, QUE REFORMA EL ARTÍCULO 132.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 24 DE MAYO DE 1995.
 
-DECRETO NUMERO 50, QUE REFORMA LA FRACCION II DEL ARTICULO 31.
+DECRETO NÚMERO 50, QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 31.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 24 DE MAYO DE 1995.
 
-DECRETO NUMERO 53, QUE DEROGA EL ARTICULO 51.
+DECRETO NÚMERO 53, QUE DEROGA EL ARTÍCULO 51.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3075,7 +3091,7 @@ P.O. 14 DE JUNIO DE 1996.
 
 P.O. 18 DE OCTUBRE DE 1996.
 
-DECRETO NUMERO 272, QUE REFORMAN LOS ARTICULOS 36 FRACCION IV, 41, 42, 43...
+DECRETO NÚMERO 272, QUE REFORMAN LOS ARTÍCULOS 36 FRACCIÓN IV, 41, 42, 43...
 
 ###### ARTICULO UNICO
 
@@ -3083,7 +3099,7 @@ DECRETO NUMERO 272, QUE REFORMAN LOS ARTICULOS 36 FRACCION IV, 41, 42, 43...
 
 P.O. 18 DE OCTUBRE DE 1996.
 
-DECRETO NUMERO 273, QUE DEROGA EL ARTICULO 130.
+DECRETO NÚMERO 273, QUE DEROGA EL ARTÍCULO 130.
 
 ###### ARTICULO UNICO
 
@@ -3153,7 +3169,7 @@ Se deroga todo lo que se oponga al presente Decreto.
 
 P.O. 30 DE JULIO DE 1999.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 13 DE OCTUBRE DE 2000.
 
@@ -3195,15 +3211,15 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 14 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 241, QUE REFORMA EL ARTICULO 46
+DECRETO NÚMERO 241, QUE REFORMA EL ARTÍCULO 46
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE AGOSTO DE 2002.
 
-DECRETO NUMERO 242, QUE REFORMA LOS ARTICULOS 16 Y 19.
+DECRETO NÚMERO 242, QUE REFORMA LOS ARTÍCULOS 16 Y 19.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE FEBRERO DE 2003.
 
@@ -3213,7 +3229,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de
 
 P.O. 21 DE FEBRERO DE 2003.
 
-DECRETO NUMERO 330, QUE REFORMA LOS ARTICULOS 15, 107 Y 131.
+DECRETO NÚMERO 330, QUE REFORMA LOS ARTÍCULOS 15, 107 Y 131.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3229,13 +3245,13 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 31 DE OCTUBRE DE 2003.
 
-DECRETO NUMERO 12, QUE REFORMA EL ARTICULO 57.
+DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
-DECRETO NUMERO 13, QUE REFORMA EL ARTICULO 86.
+DECRETO NÚMERO 13, QUE REFORMA EL ARTÍCULO 86.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3253,19 +3269,19 @@ Articulo Cuarto.- Los Diputados integrantes de la LXXII Legislatura de este H. C
 
 P.O. 23 DE FEBRERO DE 2004.
 
-DECRETO NUMERO 66, QUE REFORMA EL ARTICULO 63.
+DECRETO NÚMERO 66, QUE REFORMA EL ARTÍCULO 63.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE FEBRERO DE 2004.
 
-DECRETO NUMERO 67, QUE REFORMA EL ARTICULO 55.
+DECRETO NÚMERO 67, QUE REFORMA EL ARTÍCULO 55.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 23 DE FEBRERO DE 2004.
 
-DECRETO NUMERO 68, QUE REFORMA EL ARTICULO 63.
+DECRETO NÚMERO 68, QUE REFORMA EL ARTÍCULO 63.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3305,13 +3321,13 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de
 
 P.O. 22 DE JUNIO DE 2005.
 
-DECRETO NUMERO 244, QUE REFORMA EL ARTICULO 85.
+DECRETO NÚMERO 244, QUE REFORMA EL ARTÍCULO 85.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 22 DE JULIO DE 2005.
 
-DECRETO NUMERO 264, QUE REFORMA DIVERSOS ARTICULOS.
+DECRETO NÚMERO 264, QUE REFORMA DIVERSOS ARTÍCULOS.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3323,19 +3339,19 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 28 DE ABRIL DE 2006.
 
-DECRETO NUMERO 366, QUE REFORMA EL ARTICULO 85.
+DECRETO NÚMERO 366, QUE REFORMA EL ARTÍCULO 85.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE ABRIL DE 2006.
 
-DECRETO NUMERO 367, QUE REFORMA EL ARTICULO 4.
+DECRETO NÚMERO 367, QUE REFORMA EL ARTÍCULO 4.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE SEPTIEMBRE DE 2006.
 
-DECRETO NUMERO 404, QUE REFORMA Y ADICIONA EL ARTICULO 17.
+DECRETO NÚMERO 404, QUE REFORMA Y ADICIONA EL ARTÍCULO 17.
 
 Artículo Primero.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
 
@@ -3343,7 +3359,7 @@ Artículo Segundo.- A efecto de atender a las reformas establecidas en el presen
 
 P.O. 10 DE SEPTIEMBRE DE 2006.
 
-DECRETO NUMERO 405, QUE REFORMA LOS ARTICULOS 94, 96 Y 97.
+DECRETO NÚMERO 405, QUE REFORMA LOS ARTÍCULOS 94, 96 Y 97.
 
 Artículo Único.- El presente Decreto entrará en vigor el 12 de septiembre de 2006.
 
@@ -3354,14 +3370,6 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 27 DE DICIEMBRE DE 2006.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
-
-P.O. 30 DE MAYO DE 2007.
-
-Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE JULIO DE 2007.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
@@ -3375,13 +3383,13 @@ Artículo Segundo.- Los sujetos obligados, en los términos de la legislación a
 
 P.O. 1 DE OCTUBRE DE 2007.
 
-DECRETO NUMERO 146, QUE ADICIONA LA FRACCION X DEL ARTICULO 63.
+DECRETO NÚMERO 146, QUE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 63.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE OCTUBRE DE 2007.
 
-DECRETO NUMERO 148, QUE REFORMA EL ARTICULO 152.
+DECRETO NÚMERO 148, QUE REFORMA EL ARTÍCULO 152.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3453,25 +3461,25 @@ Quinto.- Las disposiciones relacionadas en la materia de delincuencia organizada
 
 P.O. 5 DE AGOSTO DE 2011.
 
-DECRETO NUMERO 224 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 3 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+DECRETO NÚMERO 224 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE AGOSTO DE 2011.
 
-DECRETO NUMERO 225 POR EL QUE SE REFORMA LA FRACCION XIV DEL ARTICULO 63 Y SE ADICIONA UN ULTIMO PARRAFO AL ARTICULO 3, AMBOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+DECRETO NÚMERO 225 POR EL QUE SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 63 Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE AGOSTO DE 2011.
 
-DECRETO NUMERO 231 POR EL QUE SE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 1 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+DECRETO NÚMERO 231 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 5 DE AGOSTO DE 2011.
 
-DECRETO NUMERO 232 POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 3 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+DECRETO NÚMERO 232 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -3486,3 +3494,7 @@ P.O. 8 DE FEBRERO DE 2012.
 P.O. 13 DE FEBRERO 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, en el entendido de que el Tribunal de Justicia Administrativa iniciará sus funciones una vez que sean designados y rindan su protesta los Magistrados de la Sala Superior del propio Tribunal. Entre tanto, continuará en funciones el Tribunal de lo Contencioso Administrativo.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
