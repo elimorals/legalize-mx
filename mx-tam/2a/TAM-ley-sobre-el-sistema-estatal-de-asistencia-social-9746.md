@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2008-02-05"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -39,7 +39,7 @@ Por medio del cual se expide la
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL.
 
-LA QUINCUAGESIMA SEGUNDA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en uso de las facultades que le concede el Artículo 58, fracciones I y XXXVII de la Constitución Política local.
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, en uso de las facultades que le concede el Artículo 58, fracciones I y XXXVII de la Constitución Política local.
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
@@ -477,7 +477,7 @@ V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen con
 
 VI.- En general los demás bienes, derechos e ingresos que obtenga por cualquier título.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 23.
 
@@ -491,9 +491,13 @@ III.- Dirección General.
 
 La vigilancia de la operación del organismo estará a cargo de un Comisario.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 24.
 
-El Patronato estará integrado por nueve miembros designados y removidos por el Gobernador del Estado. El Director General del Organismo y el Director de Salud, representarán a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores públicos, social y privado.
+El Patronato estará integrado por nueve miembros designados y removidos por el Gobernador del Estado. El Secretario de Salud y el Secretario de Desarrollo Social, representarán a la Junta de Gobierno ante el Patronato, cuyos miembros no percibirán retribución, emolumento o compensación alguna y se seleccionarán de entre los sectores público, social y privado.
+
+El Director General del organismo acudirá con voz a las reuniones del Patronato, pero no formará parte del mismo.
 
 ###### ARTICULO 25.
 
@@ -515,17 +519,35 @@ V.- Ser el conducto o vía para obtener la colaboración de organismos públicos
 
 VI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+El Presidente del Patronato rendirá un informe anual de las actividades realizadas por el Organismo.
+
 ###### ARTICULO 26.
 
 El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 27.
 
-La Junta de Gobierno estará integrada por el Secretario General de Gobierno, el Secretario de Finanzas, el Procurador General de Justicia, el Secretario de Administración, el Delegado del Instituto Mexicano del Seguro Social, el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, el Secretario de Salud, el Jefe de los Servicios Coordinados de Salud Pública en el Estado, el Secretario de Desarrollo Social Cultura y Deporte, el titular de la Contraloría Gubernamental, el Secretario de Educación y el Director General del propio Organismo.
+La Junta de Gobierno estará integrada por:
 
-Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
+I.- El Secretario de Salud, quien la presidirá;
+
+II.- El Secretario de Finanzas;
+
+III.- El Secretario de Desarrollo Rural;
+
+IV.- El Secretario de Desarrollo Social; y
+
+V.- El Secretario de Educación.
+
+El Director General del organismo y el Comisario asistirán a las sesiones de la Junta de Gobierno y en ellas sólo tendrán derecho a voz.
+
+El Presidente de la Junta de Gobierno, de acuerdo con el tema que se trate, podrá invitar a los representantes de dependencias y entidades estatales, instituciones públicas federales, estatales o municipales, así como de organizaciones de los sectores social o privado, quienes tendrán derecho de voz.
+
+Los integrantes de la Junta de Gobierno nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo de Subsecretario.
 
 La Junta de Gobierno contará con un Secretario Técnico, designado por la misma, a propuesta del Director General.
 
@@ -599,9 +621,11 @@ IX.- Establecer Centros de Mediación previo acuerdo de la Junta de Gobierno, en
 
 X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 33.
 
-El Comisario será designado y removido libremente por el Gobernador del Estado y será ciudadano mexicano por nacimiento y con experiencia profesional no menor de cinco años.
+El Comisario será designado y removido libremente por el Gobernador del Estado y estará adscrito jerárquica, técnica y funcionalmente a la Contraloría Gubernamental. Deberá ser ciudadano mexicano por nacimiento y tener una experiencia profesional no menor de cinco años.
 
 ###### ARTICULO 34.
 
@@ -629,9 +653,11 @@ El Gobierno del Estado y el organismo, conforme a sus respectivos ámbitos de co
 
 El organismo emitirá opinión sobre el otorgamiento de subsidios a instituciones públicas o privadas que actúen en el campo de asistencia social.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 38.
 
-Las relaciones de trabajo entre el organismo y sus trabajadores se sujetarán a lo establecido en la Ley del Servicio Burocrático del Estado de Tamaulipas.
+Las relaciones de trabajo entre el organismo y sus trabajadores se sujetarán a lo establecido en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
 ###### ARTICULO 39.
 
@@ -755,7 +781,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los treinta días del mes de septiembre de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. ROBERTO PERALES MELENDEZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 2001
 
@@ -788,3 +814,9 @@ P.O. 5 DE FEBRERO DE 2008.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
