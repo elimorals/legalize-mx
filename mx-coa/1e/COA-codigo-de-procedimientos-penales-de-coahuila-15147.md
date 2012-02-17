@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2011-08-19"
+last_updated: "2012-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -65,9 +67,9 @@ OBJETO DE LA ACCIÓN PENAL. La acción penal tiene por objeto provocar la jurisd
 
 TITULAR DE LA ACCIÓN PENAL. Al Ministerio Público le compete la persecución de los delitos. Por tanto, será el único titular de la acción penal cualquiera que sea el delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 5°.
 
@@ -109,19 +111,19 @@ El proceso se suspenderá cuando se niegue la orden de aprehensión o de compare
 
 Las diligencias que practique el Ministerio Público con abandono de la instancia, carecerán de validez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
 Queda prohibido que se formulen conclusiones no acusatorias. El Ministerio Público se podrá desistir de la acción penal hasta antes de que concluya la fase probatoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 8°.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 9°.
 
@@ -251,7 +253,7 @@ Lo que se previene en este artículo y el anterior se entiende sin perjuicio de 
 
 COMPETENCIA POR TURNO. Si en el mismo lugar hay dos o más jueces competentes, conocerá el del turno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 27.
 
@@ -271,7 +273,7 @@ Tan pronto un juez de primera instancia o letrado sepa de un proceso acumulable 
 
 El juez de primera instancia también ordenará de plano remitir la causa al letrado, cuando el proceso se deba continuar por sólo uno o más delitos que sean competencia de este último.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 28.
 
@@ -303,7 +305,7 @@ V. DELITOS EN LOS QUE LA PENA MÁXIMA DE PRISIÓN SE REDUCE A SEIS AÑOS O MENOS
 
 VI. DELITOS CUANDO EXISTA REITERACION DELICTIVA. Cuando aparezca que el inculpado cometió con anterioridad otro delito, sin aún transcurrir el término legal para que se excluya la reiteración delictiva; sea ésta real o ficta; si ello aparece durante el proceso, el juez letrado ordenará que se aprehenda al inculpado, sin perjuicio de que el inculpado obtenga luego su libertad provisional bajo caución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -323,7 +325,7 @@ COMPETENCIA POR GRADO DE TRIBUNALES DISTRITALES, SALAS Y PLENO DEL TRIBUNAL SUPE
 
 ### CAPÍTULO I. EL MINISTERIO PÚBLICO Y SU ACUSACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -349,7 +351,7 @@ III. ENUNCIACIÓN DE LOS DATOS QUE INDIQUEN LA CULPABILIDAD PENAL. Qué circunst
 
 DENUNCIA O QUERELLA POR HECHO DETERMINADO QUE INTEGRE TIPO PENAL. El Ministerio Público al iniciar la acción, se podrá remitir a los hechos de la denuncia o querella, sólo si en ellas se determinaron aquéllos en la forma que prevén las fracciones II y III del artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -383,7 +385,7 @@ CONSECUENCIAS PROCESALES POR INCUMPLIR LAS GARANTÍAS DE ACUSACIÓN Y AUDIENCIA.
 
 Si en esa diligencia se omite darle a conocer el o los hechos determinados de que se le acusa; o éstos no se hacen constar en el acta y el Ministerio Público omitió hacerlo antes en la forma que señalan los Artículos 34 o 35. Así mismo, cuando los hechos determinados por los que se formuló acusación resulten ser atípicos o en la acusación se omitió precisar en qué consiste algún elemento típico que sea esencial para la punibilidad básica del hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 41.
 
@@ -425,7 +427,7 @@ Será suficiente para considerar motivado y fundado el pedimento que inicia la a
 
 QUIÉNES SON OFENDIDOS O VÍCTIMAS. Son ofendidos o víctimas las personas que señala el Código Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
@@ -447,7 +449,7 @@ IV. OTROS RECURSOS. A apelar el auto que sobresea el proceso por desistimiento d
 
 V. NOTIFICACIONES. Para los efectos de este artículo el juez ordenará de oficio al iniciar proceso que se notifique personalmente al ofendido o víctima; siempre y cuando en la averiguación previa aparezca su domicilio para oír y recibir notificaciones en el lugar del proceso. Para que si lo desean, comparezcan por sí o por abogado a manifestar lo que a su derecho convenga.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -475,7 +477,7 @@ Se podrá condenar por cantidad líquida o ilíquida. Para la liquidación y hac
 
 ### CAPÍTULO III. INCULPADO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -487,7 +489,7 @@ Una vez que se adquiere la calidad de persona inculpada, se conserva durante el 
 
 Igualmente terminará cuando exista error en la persona por confusión de generales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -499,7 +501,7 @@ Las generales falsas por las que se llegue a identificar al inculpado, podrán r
 
 Si en cualquier estado o grado del proceso se prueba que se procede contra una persona que no intervino en el delito, por confundir su identidad o sus generales con las del inculpado, se sobreseerá la causa con relación a ella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53.
 
@@ -565,7 +567,7 @@ La primera instancia comienza cuando el Ministerio Público inicia la acción pe
 
 ### CAPÍTULO IV. DEFENSORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -575,9 +577,9 @@ CAPACIDAD, PROTESTA Y DURACIÓN DEL CARGO DE DEFENSOR. El defensor del inculpado
 
 No podrá abandonar la defensa, hasta que el juzgador admitan (sic) su renuncia o revocación. Si durante la averiguación previa el cargo de defensor no se revoca o renuncia, aquél se prorrogará hasta la primera instancia. Salvo cuando se trate del defensor de oficio. La revocación sólo se podrá acordar por petición expresa del inculpado u otra causa legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 58.
 
@@ -585,7 +587,7 @@ DEFENSOR Y PROTESTA DEL CARGO. El nombramiento de defensor se le hará saber lue
 
 Si durante el proceso no está presente, se le mandará citar en el domicilio que señale el inculpado. Para que en el acto o al día siguiente, manifieste si acepta o no acepta el cargo. Si no acepta o no comparece dentro de dicho plazo, se informará al inculpado con objeto de que designe otra persona.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -593,13 +595,13 @@ Si dentro del plazo es preciso realizar acto urgente, el juzgador designará al 
 
 Siempre que el defensor acepte el cargo por escrito o en forma oral, protestará desempeñarlo fielmente y con arreglo al artículo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 El inculpado, aún cuando cuente con defensor, podrá pedir a cualquier abogado se informe del proceso. Para que a aquél se le dé acceso será suficiente que por escrito y bajo protesta de decir verdad manifieste lo anterior, dé el número de su cédula profesional y su domicilio. En tal caso, el abogado estará obligado con el inculpado y con la autoridad por el secreto profesional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -607,7 +609,7 @@ El inculpado, aún cuando cuente con defensor, podrá pedir a cualquier abogado 
 
 NOMBRAMIENTO DEL DEFENSOR DE OFICIO. Cuando el inculpado no tenga persona que lo defienda o se rehúse a designar defensor, el juzgador le nombrará al de oficio. Si no hay en el lugar, hará recaer el nombramiento en abogado o persona que pueda brindarle defensa adecuada; pero sólo si el inculpado confía en ella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -645,7 +647,7 @@ V. INHABILITACIÓN. Los que estén inhabilitados.
 
 ### CAPÍTULO I. ACTUACIONES Y DILIGENCIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -657,7 +659,7 @@ PREVENCIÓN PARA EL CUMPLIMIENTO Y LA VALIDEZ DE LAS ACTUACIONES Y DILIGENCIAS. 
 
 MOMENTO EN QUE PUEDEN PRACTICARSE. Las actuaciones y diligencias podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación. En cada una de ellas se expresará el día, mes y año que se efectúen. En caso contrario carecerán de valor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -707,7 +709,7 @@ REDACCIÓN EN ESPAÑOL DE LAS PROMOCIONES Y DOCUMENTOS QUE SE PRESENTEN. Las pro
 
 CONTINUIDAD DE ACTUACIONES O DILIGENCIAS. Las actas de las actuaciones y diligencias se asentarán en los expedientes en forma continua; sin dejar hojas o espacios en blanco y sin testar. Cuando se agreguen documentos, se foliarán las hojas que les correspondan. Pero si son numerosos, a juicio del funcionario, se glosarán, foliarán y sellarán por separado; con anotación en el expediente de su número.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -717,7 +719,7 @@ Las actuaciones y diligencias de preferencia se glosarán al expediente en su or
 
 DUPLICADOS Y AUTORIZACIÓN. Las actas se levantarán por escrito, con letra clara y por duplicado al menos. Se autorizarán de inmediato por los funcionarios que les competa llevar a cabo el acto y por las personas que les corresponda dar fe de él. Será motivo de invalidez si falta cualquier firma de éstos. Igualmente, cuando falte el nombre, los apellidos o el domicilio del testigo de asistencia y éste no lo aporte dentro de los cinco días siguientes que así se le pida al funcionario que practicó el acto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -735,13 +737,13 @@ Si alguien no sabe firmar imprimirá al calce y al margen la huella del dedo pul
 
 Cuando se estime conveniente, los testigos que sepan firmar también imprimirán su huella digital. Si una persona no firma o, en su caso, imprime su huella digital, se hará constar el motivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 El juzgador firmará al calce y si lo estiman conveniente, también al margen. En el calce del acta, debajo de la firma o huella de todos los que intervengan, se asentará su nombre y apellidos completos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -775,15 +777,15 @@ FORMA DE LAS PROMOCIONES POR ESCRITO. Las promociones y los documentos se presen
 
 RAZÓN DE RECIBO DE LAS PROMOCIONES Y DOCUMENTOS. Los interesados pueden presentar una copia más de sus escritos para que se les devuelva con firma, sello y anotación de la hora y fecha de presentación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
 Si quien recibe y sella es persona distinta al juzgador, secretarios o actuarios, deberá anotar su nombre y apellidos; así como su puesto de funcionario o empleado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 81.
 
@@ -795,7 +797,7 @@ En cada escrito se hará constar el día y hora que se presente; así como los d
 
 En cualquier caso, estará a cargo de los secretarios o de quienes hagan sus veces, vigilar el cumplimiento de lo que se prevé en este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -809,7 +811,7 @@ Tendrán obligación de comunicar por escrito el cambio o error en cualquiera de
 
 FOLIACIÓN DEL EXPEDIENTE. Los secretarios o quienes hagan sus veces cuidarán que los expedientes se folien, después de agregar las hojas. Rubricarán todas al margen y pondrán el sello oficial en las dos caras.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -823,7 +825,7 @@ Al presentar o recibir un documento que pidan se les devuelva, los interesados a
 
 Si ya se presentó el documento o se agregó al expediente, sólo se devolverá cuando lo pida por escrito quien a él tenga derecho. Además, así lo autorice el juzgador. Al devolverlo siempre se le tomarán los datos de documentos oficiales con los que se identifique. Sin ello, tampoco se devolverá.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 85.
 
@@ -843,7 +845,7 @@ Los secretarios de los juzgados y tribunales cotejarán las copias certificadas 
 
 ### CAPÍTULO II. TRADUCTORES E INTÉRPRETES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -857,7 +859,7 @@ SORDOS, MUDOS O SORDOMUDOS. Si el inculpado; ofendido; víctima; o algún testig
 
 A los sordos y a los mudos que sepan leer y escribir, se les interrogará por escrito y producirán sus respuestas de igual forma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -865,7 +867,7 @@ A los sordos y a los mudos que sepan leer y escribir, se les interrogará por es
 
 IMPEDIMENTOS PARA SER TRADUCTOR O INTÉRPRETE. Estarán impedidos para fungir como traductores o intérpretes quienes tengan otra participación en el proceso o la hayan tenido durante la averiguación previa, o concurra en ellos alguna causa de excusa para los jueces; salvo que en el lugar no haya otro y el caso así lo amerite.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -875,7 +877,7 @@ RECUSACION DE TRADUCTORES O INTÉRPRETES. Las partes, durante el proceso, podrá
 
 ### CAPÍTULO III. CITACIONES Y MEDIOS DE APREMIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -883,7 +885,7 @@ RECUSACION DE TRADUCTORES O INTÉRPRETES. Las partes, durante el proceso, podrá
 
 CITATORIOS Y OBLIGACIÓN DE PRESENTARSE. Toda persona deberá presentarse ante los juzgadores que conozcan en materia penal, cuando se le cite; salvo cuando esté impedida por enfermedad u otra causa física que se acredite. Se exceptuará a los altos servidores públicos federales y del estado; a quienes se les pedirá informen por escrito. O se acudirá a su lugar de trabajo para practicar la diligencia en forma reservada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -903,7 +905,7 @@ III. DÍA Y LUGAR. El día, hora y lugar en que se deba presentar.
 
 IV. MOTIVO Y OBJETO DE LA CITACIÓN. El motivo que origina el citatorio y el objeto de la presentación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -911,7 +913,7 @@ V. PREVENCIÓN DE ORDEN DE PRESENTACIÓN Y DE DESACATO. La prevención de que se
 
 VI. FIRMA. La firma del funcionario que ordene la citación debidamente sellada y el carácter de aquél. Si es telegrama, la constancia de la firma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -935,7 +937,7 @@ Cuando no se encuentre al destinatario y no viva en el lugar, ni ahí trabaje, s
 
 En cualquier caso, en el duplicado se asentará el nombre, apellidos y domicilio de las personas que den la información.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -945,7 +947,7 @@ REGRESO DEL DUPLICADO DE LA CÉDULA PERSONAL ANTE EL JUZGADO O TRIBUNAL. Antes d
 
 Cualquier afirmación o constancia falsa en el duplicado de la cédula o con motivo de su entrega, se considerará como obstrucción a la justicia y se sancionará de acuerdo al código penal. El juzgador estará obligado a dar vista de ello al Ministerio Público. Éste procederá en consecuencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -963,7 +965,7 @@ Los secretarios de los tribunales cuidarán que se agregue a los autos el duplic
 
 AUSENCIA DE LA PERSONA QUE SE CITA. Si la persona que reciba la cédula manifiesta que el citado está ausente, dará el motivo que tenga de ese conocimiento; y si lo sabe, el lugar donde se pueda encontrar y desde cuándo se ausentó; así como cuándo regresará. Sin estas aclaraciones, lo dicho carecerá de valor. Todo esto se hará constar para que el funcionario respectivo dicte las providencias pertinentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -983,11 +985,11 @@ I. MULTA. Multa de diez hasta cien días del salario mínimo general vigente don
 
 II. ARRESTO. Arresto hasta por 36 horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III (SIC). (REFORMADO [N. DE E. DEROGADO], P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1017,7 +1019,7 @@ DOMICILIO QUE SE IGNORA. Si se ignora el domicilio de la persona que deba citars
 
 ### CAPÍTULO IV. DESPACHO DE LOS NEGOCIOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1035,9 +1037,9 @@ CAMBIO DE PERSONAL. Cuando cambie el personal de un juzgado o tribunal, no se di
 
 En caso de que el cambio ocurra después de la audiencia final o de vista, según la instancia, sí se hará saber por decreto especial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2008)</small>
 
 ###### ARTÍCULO 111.
 
@@ -1045,7 +1047,7 @@ RESTITUCIÓN AL OFENDIDO EN EL GOCE DE SUS DERECHOS. El juez, durante la causa, 
 
 Si según constancias de autos los derechos sobre el bien aparecen controvertidos, su devolución sólo procederá cuando se acredite el cuerpo del delito y se otorgue caución bastante para garantizar daños y perjuicios a terceros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1069,7 +1071,7 @@ I. MULTA. La multa de diez a cien días del salario mínimo general vigente dond
 
 II. ARRESTO. El arresto hasta por 36 horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1085,7 +1087,7 @@ AUDIENCIA DEL INTERESADO. Cuando se imponga una corrección disciplinaria, el in
 
 En vista de lo que exprese el interesado, quien impuso la corrección disciplinaria resolverá de inmediato lo procedente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1095,7 +1097,7 @@ SANCIONES AL PERSONAL. Las faltas que cometa el personal de juzgados y tribunale
 
 ### CAPÍTULO VI. PÉRDIDA Y REPOSICIÓN DE EXPEDIENTES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1113,7 +1115,7 @@ Igualmente, se tendrá por probada la existencia de las que se inserten o mencio
 
 ### CAPÍTULO I. PREVENCIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1201,7 +1203,7 @@ Contra el auto que niegue librar un exhorto u oficio procede el recurso de apela
 
 ### CAPÍTULO III. NOTIFICACIONES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1211,7 +1213,7 @@ NOTIFICADORES Y TIEMPO PARA NOTIFICAR. Las notificaciones durante el proceso se 
 
 La notificación también se podrá llevar a cabo por los juzgadores cuando se haga en el propio juzgado o tribunal; o así lo estimen pertinente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1269,7 +1271,7 @@ LUGAR PARA HACER NOTIFICACIONES PERSONALES. Las notificaciones personales se har
 
 MANERAS DE HACER LAS NOTIFICACIONES PERSONALES. Las notificaciones personales se podrán hacer de esa forma; o por mensajería, correo, telegrama, módem, correo electrónico o fax.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1285,7 +1287,7 @@ Las notificaciones que no sean personales, se podrán hacer de esa forma a los i
 
 NEGATIVA A RECIBIR CÉDULA DE NOTIFICACIÓN. Si las personas que residan en el domicilio señalado para la notificación, ajenas a quién deba notificarse, se rehusan a recibir la cédula; o a nadie se encuentra en el lugar; aquélla se fijará en el sitio de entrada y se hará constar el motivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1303,7 +1305,7 @@ NOTIFICACIÓN POR FAX O MÓDEM. Podrá hacerse la notificación por fax, módem 
 
 Para notificar por módem, correo electrónico o fax, quién deba ser objeto de la notificación debió haber dado los datos a tal efecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1321,7 +1323,7 @@ EFECTO DE LAS NOTIFICACIONES. Las notificaciones personales surten efecto el mis
 
 Las notificaciones por lista surten efecto al día siguiente laborable de su publicación. A menos que la resolución respectiva se hubiere notificado antes, en forma personal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1353,7 +1355,7 @@ NATURALEZA DE LOS PLAZOS. En los procesos penales los plazos son improrrogables 
 
 CÓMPUTO DE LOS PLAZOS. Los plazos se contarán por días naturales; pero no se tomarán en cuenta los sábados y domingos, ni los días no laborables; excepto cuando se deba hacer el cómputo de momento a momento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1535,13 +1537,13 @@ DECLARACIÓN DE NULIDAD DE PLENO DERECHO. La declaración judicial para excluir 
 
 La convalidación de los actos procesales sólo puede verificarse mediante la cosa juzgada, que precluye todo derecho y facultad para denunciar la nulidad de pleno derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 183.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 184.
 
@@ -1573,13 +1575,13 @@ En la misma resolución ordenará la reposición de los autos, cuando sea necesa
 
 QUIEN NO PUEDE PEDIR LA NULIDAD RELATIVA. No podrá pedir declaración de nulidad relativa, quien dio lugar a ella.
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO No. 511, MODIFICAN DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL PRESENTE TITULO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, QUEDANDO INTACTOS DIVERSOS ARTICULOS; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2008.</small>
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO No. 511, MODIFICAN DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL PRESENTE TÍTULO, DANDO COMO RESULTADO UN TEXTO DIFERENTE, QUEDANDO INTACTOS DIVERSOS ARTÍCULOS; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2008.</small>
 
 ## TÍTULO SEXTO. ACTOS PREPARATORIOS DE LA ACCIÓN PENAL
 
 ### CAPÍTULO I. CONCEPTO DE AVERIGUACIÓN PREVIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1589,7 +1591,7 @@ AVERIGUACIÓN PREVIA. La investigación de los hechos posiblemente constitutivos
 
 Los Jueces y Tribunales atenderán a lo dispuesto por dicha Ley por cuanto a los actos realizados bajo el imperio de la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1601,7 +1603,7 @@ Lo anterior no será obstáculo para que durante el proceso: Las partes ofrezcan
 
 El juzgador podrá repetir cualquier diligencia que se practicó durante la averiguación previa; siempre y cuando su desahogo no sea imposible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1609,7 +1611,7 @@ El juzgador podrá repetir cualquier diligencia que se practicó durante la aver
 
 VALORACIÓN DE LAS PRUEBAS PRACTICADAS EN AVERIGUACIÓN PREVIA. Las pruebas y diligencias practicadas en Averiguación Previa se valorarán conforme a lo dispuesto en este Código; pero para apreciar su legal constitución, validez y requisitos se atenderá a lo dispuesto por la Ley de Procuración de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1617,7 +1619,7 @@ VALORACIÓN DE LAS PRUEBAS PRACTICADAS EN AVERIGUACIÓN PREVIA. Las pruebas y di
 
 FALTA DE CONDICIÓN DE PROCEDIBILIDAD: O CUESTIÓN PREJUDICIAL ESPECÍFICA; CON RELACIÓN A LAS DILIGENCIAS DE AVERIGUACIÓN PREVIA. La falta de condición de procedibilidad; o de la existencia de cuestión prejudicial específica; no produce la invalidez de las diligencias de averiguación previa que se llegaren a practicar; sean o no sean relativas a las que se reciban medios de prueba.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -1633,175 +1635,175 @@ El perdón se podrá formular por apoderado con poder especial otorgado en escri
 
 El perdón que se otorgue conforme a este artículo y al código penal, extinguirá la acción penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 194.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 196.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO..</small>
 
 ###### ARTÍCULO 197.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 198.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 199.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 200.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 201.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 202.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 203.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 204.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 205.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 206.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 207.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 208.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 209.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 210.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 211.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 212.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 213.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 214.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 215.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 216.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 217.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 218.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 219.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 220.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 221.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 222.
 
@@ -1857,7 +1859,7 @@ XVII. Violación, violación equiparada o impropia; en cualquiera de ellas con o
 
 XVIII. Atentados al pudor empleando la violencia física.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REFORMADA, P.O. 16 DE MAYO DE 2008) (F. DE E., P.O. 15 DE AGOSTO DE 2008)
 
@@ -1877,163 +1879,163 @@ Igualmente, se considera delito grave el de tortura; previsto en los artículos 
 
 El delito deberá consumarse para ser grave, salvo los casos que prevé este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 224.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 225.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 226.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 227.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 228.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 229.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 230.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 231.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 232.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 233.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 234.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 235.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 236.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 237.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 238.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 239.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 240.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 241.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 242.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 243.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 244.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 245.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 246.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 247.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 248.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO XI], P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XI], P.O. 16 DE MAYO DE 2008)</small>
 
 ### CAPÍTULO II. CATEOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2045,7 +2047,7 @@ Se realizará en presencia de dos testigos que proponga el ocupante del lugar ca
 
 Lo dispuesto en este capítulo se aplicará a los cateos solicitados durante el proceso. Los cateos solicitados durante la Averiguación Previa o para ejecutar ordenes de aprehensión requeridas al ejercitar acción penal se sujetarán a lo dispuesto por la Ley de Procuración de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2077,7 +2079,7 @@ Cuando la urgencia del caso lo requiera, los cateos se podrán practicar a cualq
 
 CATEO EN OFICINAS PÚBLICAS. Para practicar cateo en oficinas públicas estatales o municipales: el juzgador, si lo estima necesario, avisará a la autoridad respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2097,93 +2099,93 @@ PRESENCIA DEL INCULPADO. Si el inculpado estuviere presente, se le mostrarán lo
 
 USO DE LA FUERZA. Cuando la autoridad que practica el cateo encuentre cerrado el lugar y sus propietarios, poseedores o encargados se niegan a abrirlo: Hará uso de la fuerza material para introducirse; así como para abrir los inmuebles dentro de los cuales se presuma que pueda estar la persona u objetos que se buscan. Si nadie abre y no hay indicio de persona adentro: Se utilizará cerrajero. En tal caso, se dejará aviso del cateo en lugar visible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 258.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 259.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 260.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 261.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 262.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 263.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 264.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 265.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 266.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 267.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 268.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 269.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 270.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 271.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO XIX], P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XIX], P.O. 16 DE MAYO DE 2008)</small>
 
 ### CAPÍTULO III. EJERCICIO DE LA ACCIÓN PENAL
 
@@ -2195,7 +2197,7 @@ PRESUPUESTO GENERAL PARA EJERCITAR ACCIÓN PENAL. Para ejercitar la acción pena
 
 Por cuerpo del delito se entenderá la concreción histórica de los elementos del tipo penal que sean materiales o descriptivos y normativos, con inclusión de la culpa en su caso; considerados de manera impersonal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2221,7 +2223,7 @@ II. PROBABLE RESPONSABILIDAD. La probable responsabilidad del inculpado. Ésta s
 
 Existirán datos bastantes: Cuando haya indicios graves que concurran o concuerden sobre el tema a demostrar; sin contraindicios de igual eficacia, a menos que se puedan descartar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2237,7 +2239,7 @@ El Ministerio Público también pondrá a disposición del juez los objetos y ev
 
 Si al iniciar el ejercicio de la acción penal se pide embargo precautorio para garantizar la reparación del daño, se dirá la cantidad por la que deba decretarse; justificándola con un principio de prueba. Así como el bien o bienes cuyo embargo se pide y su ubicación. En su caso, se darán sus datos registrales. No procederá embargo precautorio de bienes muebles que se encuentren en el domicilio del inculpado; salvo los vehículos automotores. Tampoco procederá con relación a los bienes cuyo embargo exceptúe la ley civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2255,9 +2257,9 @@ Cuando la consignación se haga con persona detenida, el Ministerio Público pro
 
 El Ministerio Público también se ajustará a las previsiones del artículo anterior, en lo conducente, cuando consigne sin persona detenida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO XX], P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO XX], P.O. 16 DE MAYO DE 2008)</small>
 
 ### CAPÍTULO IV. EMBARGO PRECAUTORIO
 
@@ -2271,7 +2273,7 @@ El juzgador que conozca del proceso ordenará el embargo sin exigir caución, y 
 
 CUANTÍA DEL EMBARGO PRECAUTORIO. La cuantía del embargo se determinará con base en el monto estimado de la reparación del daño. A ello se sumará los intereses de dos años. Estos se fijarán con base en la media porcentual que durante el lapso anterior, resulte del costo porcentual promedio del dinero, que mensualmente fije el Banco de México. En su caso, se estará al criterio que lo sustituya, de acuerdo con su publicación en el Diario Oficial de la Federación. Servirá como prueba el informe que al respecto proporcione una institución de crédito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2291,7 +2293,7 @@ DEPOSITARIO EN EMBARGO PRECAUTORIO. El depositario designado en el acto de embar
 
 NEGATIVA O LEVANTAMIENTO DE EMBARGO PRECAUTORIO. El juzgador podrá negar o levantar parte del embargo, cuando de acuerdo a las constancias o la sana crítica: Aparezca que el valor de los bienes muebles embargados es desproporcionado a la cantidad que garanticen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2413,7 +2415,7 @@ III. COMPETENCIA Y OTROS LÍMITES A LA JURISDICCIÓN. Declarar su competencia o 
 
 Además, según el caso, examinar si se cumplieron las condiciones de procedibilidad de la acción penal o cuestiones prejudiciales específicas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2475,7 +2477,7 @@ PRESUPUESTO ADICIONAL CUANDO SE TRATE DE ORDEN DE APREHENSIÓN. Para librar orde
 
 ORDEN DE APREHENSIÓN O COMPARECENCIA NO OBSTANTE ESTÉ PENDIENTE LA APELACIÓN SOBRE SU NEGATIVA. No será obstáculo para dictar orden de aprehensión o de comparecencia, el que esté por resolverse la apelación contra el auto anterior que le negó, si se acreditan nuevos datos que funden la orden.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 301.
 
@@ -2509,7 +2511,7 @@ CONSIGNACIÓN CON DETENIDO O COMPARECENCIA DEL INCULPADO. Si el inculpado esta d
 
 I. RADICACIÓN INMEDIATA. Radicará el asunto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2587,7 +2589,7 @@ LECTURA DE LA DECLARACIÓN DEL INCULPADO. El juez hará saber siempre al inculpa
 
 TRASTORNO MENTAL DEL INCULPADO. Cuando el juez estime que el inculpado sufre de algún trastorno mental por la conducta que observe al practicar la diligencia; determinará que el secretario haga constar dicho comportamiento y podrá dar por concluida la diligencia para proceder con arreglo al procedimiento especial respectivo, suspendiendo el proceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 312.
 
@@ -2673,7 +2675,7 @@ Si la persona inculpada sujeta a proceso incumple sin causa justificada cualquie
 
 ### CAPÍTULO I. VÍAS PARA LAS FASES PROBATORIA Y DE JUICIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2683,7 +2685,7 @@ VIAS PARA LAS FASES PROBATORIA Y DE JUICIO. La fase probatoria y la del juicio s
 
 ### CAPÍTULO II. REGLAS COMUNES PARA LAS TRES VÍAS CON RELACIÓN A LA PRUEBA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2715,7 +2717,7 @@ INFORMES DE LOS ANTECEDENTES DEL INCULPADO. El juez pedirá informes de los ante
 
 El juez tomará conocimiento directo del inculpado, ofendidos y víctimas; así como de las circunstancias del hecho; en la medida que se requiera para cada caso. A tal virtud, tendrá las más amplias facultades para allegarse los medios de prueba necesarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2751,7 +2753,7 @@ OBJETO DE PRUEBA. Sólo los hechos son objeto de prueba. El derecho será objeto
 
 HECHOS NOTORIOS. No es necesario probar los hechos notorios. Se podrán invocar por el juzgador aunque las partes no los aleguen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2771,7 +2773,7 @@ PRUEBA TRASLADADA. Los medios de prueba que se practiquen válidamente en un pro
 
 CONCEPTO DE LA CONFESIÓN. La confesión es la declaración circunstanciada sobre hechos propios constitutivos del tipo penal de un delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2793,7 +2795,7 @@ En cualquier declaración de hechos que haga el inculpado se le prevendrá de lo
 
 ADMISIÓN DE LA CONFESIÓN. La confesión se admitirá en cualquier estado o grado del procedimiento, hasta antes de pronunciar sentencia irrevocable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -2835,7 +2837,7 @@ INFIRMACIÓN DE LA CONFESIÓN. Toda confesión admite prueba en contrario.
 
 #### SECCIÓN TERCERA. TESTIGOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3007,7 +3009,7 @@ Si el inculpado o el defensor lo solicita y el juez lo estima indispensable, pod
 
 La reserva de identidad del denunciante, captor o testigo se hará cesar cuando el inculpado o su defensor soliciten careo por existir contradicciones esenciales entre las declaraciones del propio inculpado y la persona que declara en su contra. Pero la reserva se levantará hasta el momento mismo en que el careo se practique. Lo mismo se observará, si en la diligencia de confrontación se le reservó la identidad al confrontante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 373.
 
@@ -3095,7 +3097,7 @@ II. LIMITACIONES PARA EL JUZGADOR. El juzgador se abstendrá de designar a los p
 
 III. FALTA DE PERITOS ACADÉMICOS. Cuando no haya peritos académicos donde se siga la averiguación previa o el proceso, se conferirá el cargo a prácticos. Pero en tal caso, si el ejercicio de la profesión está reglamentado, se librará oficio o exhorto a donde existan, para que en vista del dictamen y demás constancias que se envíen, expresen su opinión los académicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3103,7 +3105,7 @@ III. FALTA DE PERITOS ACADÉMICOS. Cuando no haya peritos académicos donde se s
 
 ADMISIBILIDAD DE DICTÁMENES QUE SE PRESENTEN, SIN DESIGNACIÓN PREVIA DE PERITOS. Cuando los interesados o las partes presenten dictámenes, el juzgador deberá:1) Verificar la capacidad de los peritos que los rindieron; agregando las constancias que la acrediten. 2) Obtener la ratificación de quienes rindieron los dictámenes, previa protesta de decir verdad. 3) Designar peritos académicos oficiales para que verifiquen si el dictamen y si su elaboración se hizo de acuerdo con las reglas conducentes a la peritación de la materia y rindan al respecto dictamen complementario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3117,7 +3119,7 @@ Cuando se trate de dictámenes médicos que recayeron sobre persona: Ésta deber
 
 QUIENES NO PUEDEN SER PERITOS. No podrán fungir como perito las personas que: 1) Intervengan en el procedimiento como testigos o intérpretes. 2) Las que tengan motivos de excusa como los testigos. 3) Las condenadas por delitos contra el patrimonio o cualquiera de los que contempla el Título Tercero, Apartado Cuarto, Libro Segundo, del Código Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3131,7 +3133,7 @@ NÚMERO Y DESIGNACIÓN DE PERITOS. Las partes y el defensor podrán pedir al juz
 
 Al promoverse la prueba pericial y si ésta se admite, el juzgador hará la designación de hasta dos peritos; sin perjuicio de que cada parte también pueda proponer al juez designe otro perito para que rinda dictamen por separado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3155,7 +3157,7 @@ Cuando el perito apremiado no emita su dictamen, se informará al Ministerio Pú
 
 MÉDICOS DE HOSPITALES PÚBLICOS. Siempre que los lesionados reciban atención en hospitales públicos, los médicos de éstos se tendrán por nombrados peritos oficiales. Sin embargo, la autoridad podrá designar otros para que hagan la clasificación legal de las lesiones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3167,7 +3169,7 @@ Igualmente, si continúan atendiendo a esa persona, informarán de la evolución
 
 El lesionado o sus familiares tienen obligación de informar al juzgador: Quién y en qué lugar se atiende aquél. Se les dará a conocer lo anterior en la primera diligencia que se practique con ellos. Igualmente, se les prevendrá que si no informan se les impondrá una corrección disciplinaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3203,7 +3205,7 @@ Se consideran indubitables para el cotejo, los siguientes: 1) Los documentos que
 
 DOCUMENTOS QUE NO EXISTEN EN AUTOS. El juzgador podrá ordenar que se le remitan los documentos que estén en poder de funcionarios públicos; o que se les muestre a los peritos para que éstos puedan examinarlos. Si los documentos se encuentran en poder de un particular, el juzgador dispondrá que se le presenten para la peritación o decretará el secuestro por el tiempo que sea necesario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3217,7 +3219,7 @@ La aclaración de dictamen tendrá por objeto que se explique un peritaje que se
 
 En ambos casos, el juzgador, las partes y el defensor podrán formular, oralmente o por escrito, las preguntas que estimen pertinentes a los peritos. Si para responder a una o varias de las interrogantes, el perito o peritos requieren de peritación adicional, explicarán la razón. Si se estima conveniente, se decretará su recepción con posterioridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3227,13 +3229,13 @@ DICTÁMENES OPUESTOS Y JUNTA DE PERITOS. Cuando las opiniones de los peritos dif
 
 Una vez que concluya la discusión, las partes y el defensor podrán intervenir por una sola ocasión, para interrogar a los peritos sobre sus opiniones vertidas. Si agotada la intervención de éstos y en su caso del juez, surgieren nuevos puntos de diferencia esencial, se procederá en igual forma por una vez más.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 403.
 
 INVALIDEZ DE PERITAJES DE AVERIGUACIÓN PREVIA, CUANDO LOS PERITOS DEJEN DE PRESENTARSE EN EL PROCESO. No tendrán validez los dictámenes que se rindan en la averiguación previa por peritos que sin motivo justificado no se presenten en el proceso, no obstante que se les citó legalmente; o que el juzgador dejó a cargo del Ministerio Público la presentación de peritos oficiales que laboren en la Fiscalía General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3243,7 +3245,7 @@ En estos casos, siempre se dará al Ministerio Público citatorio en forma para 
 
 Si algún perito deja de laborar para la Fiscalía General del Estado o dependencia oficial, no quedará a cargo del Ministerio Público la entrega del citatorio. Pero si quedará a su cargo la presentación de los peritos que sin laborar para la Fiscalía General hubiere nombrado durante la Averiguación Previa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3259,7 +3261,7 @@ CUÁNDO PROCEDE LA INSPECCIÓN. Si el delito dejó huellas materiales, se podrá
 
 INSPECCIÓN DE LUGAR. Cuando se inspeccione un lugar, se identificará con precisión su ubicación. Además, cuando es área urbana sin calles; o éstas carecen de nombre; o es área rural; la autoridad se cerciorará con dos testigos de cuál es el lugar donde se encuentran. Así como, si ese es el lugar que se debe inspeccionar. Con los testigos se cumplirán las reglas para la testimonial. Asentándose en especial, la razón de su dicho. Ello se podrá cumplir en la misma diligencia de inspección.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3321,7 +3323,7 @@ DISTINTAS CLASES DE DOCUMENTOS. Son documentos los escritos, impresos, planos o 
 
 El juzgador podrá de oficio verificar la autenticidad de un documento, por cualquier medio lícito que estime pertinente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3479,7 +3481,7 @@ V. VALORACIÓN DE LA PRUEBA A TRAVÉS DE INDICIOS. Para decidir la prueba del he
 
 DOCUMENTOS PÚBLICOS. Los documentos públicos hacen prueba plena; salvo el derecho de las partes para tacharlos de falsos; o para pedir su cotejo con los protocolos o con los originales existentes en los archivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3593,7 +3595,7 @@ DUDA RAZONABLE. Existirá duda razonable: 1) Cuando a la prueba del hecho se le 
 
 ### CAPÍTULO III. VÍA ORDINARIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3715,7 +3717,7 @@ PRUEBAS ANTICIPADAS. Podrá pedirse la recepción de pruebas antes de las audien
 
 DISPOSICIONES COMUNES A AMBAS AUDIENCIAS. El juez, bajo su más estricta responsabilidad, al celebrar las audiencias principal y adicional, observará las reglas siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -3857,7 +3859,7 @@ El juzgador ordenará notificar a la parte civil el auto que da vista al Ministe
 
 #### SECCIÓN DÉCIMA. AUDIENCIA FINAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 480.
 
@@ -4019,19 +4021,19 @@ RECURSOS. No se admitirá ningún recurso contra las resoluciones que se dicten 
 
 ### CAPÍTULO V. VÍA DE OBLACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 505.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 506.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 507.
 
@@ -4117,7 +4119,7 @@ La parte civil, el Ministerio Público, el ofendido o quien tenga derecho a la r
 
 EFECTOS DEL SOBRESEIMIENTO. El auto de sobreseimiento concluye el proceso penal con relación al delito por el que se decrete y la libertad del inculpado a cuyo favor se dicte.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4203,7 +4205,7 @@ Si la resolución es compleja por contener distintos proveídos que admitan recu
 
 ## TÍTULO SEGUNDO. RECURSO DE INCONFORMIDAD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4213,73 +4215,73 @@ RECURSO DE INCONFORMIDAD. Son resoluciones impugnables a través del recurso de 
 
 El recurso de inconformidad se regirá por lo dispuesto en la Ley de Procuración de Justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 530.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 531.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 532.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 533.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 534.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 535.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 536.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 537.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 538.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 539.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 540.
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 541.
 
@@ -4287,7 +4289,7 @@ El recurso de inconformidad se regirá por lo dispuesto en la Ley de Procuració
 
 ## TÍTULO TERCERO. RECURSO DE QUEJA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 542.
 
@@ -4319,7 +4321,7 @@ LEGITIMACIÓN PARA CIERTOS CASOS. Cuando el juez omita resolver sobre la petici�
 
 FORMA DE LA QUEJA. El recurso de queja será por escrito y en ella se señalará la conducta omisiva, o en su caso activa, que la motive y sus antecedentes; los preceptos legales violados y los conceptos de violación conducentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 547.
 
@@ -4349,7 +4351,7 @@ El juzgador lo resolverá sin trámite si estima innecesario oír a las partes. 
 
 ## TÍTULO QUINTO. APELACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 550.
 
@@ -4493,7 +4495,7 @@ Una vez que se formule la ponencia, se señalará día y hora en la lista que la
 
 Cuando el asunto se liste para su resolución, se enviará copia de la ponencia a los demás magistrados. Los autos quedarán a su disposición, para su estudio, en la secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 570.
 
@@ -4619,7 +4621,7 @@ Si la apelación se declara admisible, el ad quem ordenará al juez que le enví
 
 ### CAPÍTULO I. LIBERTAD PROVISIONAL BAJO CAUCIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4671,7 +4673,7 @@ FORMAS DE LA CAUCIÓN PARA DISFRUTAR DE LA LIBERTAD PROVISIONAL. Las formas de l
 
 El juez podrá restringir las formas de acuerdo con la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de que cumpla con las obligaciones procesales a su cargo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4679,7 +4681,7 @@ El juez podrá restringir las formas de acuerdo con la naturaleza, modalidades y
 
 PREVENCIÓN DE RIESGO DE LAS GARANTÍAS Y PAGO CUALQUIERA QUE SEA SU FORMA Y TITULAR. Toda caución que se exhiba para disfrutar de la libertad provisional; cualquiera que sea su forma y titular; siempre se entenderán exhibidas bajo el riesgo de que si el inculpado se sustrae al proceso; o de someterse al cumplimiento de la pena de prisión si se le condenó a la reparación; según corresponda; se aplicarán como pago preventivo para reparar el daño, hasta por el monto de la caución; a favor de quien tenga derecho a reclamar aquél; siempre y cuando lo pida dentro de los ciento ochenta días que sigan al día en que se le notifique de la sustracción. Asimismo, que si no se reclama en ese plazo, se hará efectiva a favor del fondo para la administración de justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4691,7 +4693,7 @@ Si en virtud de la liquidación resulta diferencia a favor del beneficiado; podr
 
 Si transcurridos los plazos señalados, la garantía no se reclama, quedará a disposición de su titular por los sesenta días que sigan al de la notificación personal; y si dentro de ellos no solicita que se le devuelva, se hará efectiva a favor del fondo para mejorar la administración de justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4727,7 +4729,7 @@ SIMULACIÓN DE INSOLVENCIA PARA OBTENER REDUCCIÓN DEL MONTO CAUCIONAL; O RECUPE
 
 Lo mismo se observará, previo incidente, cuando se acredite que el inculpado recuperó su capacidad económica para cubrir el monto de la caución inicial o uno que sea superior al monto que se le fijó en la reducción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -4973,7 +4975,7 @@ SUSPENSIÓN DEL PROCESO. La excusa de los jueces y de los magistrados, lo mismo 
 
 Si el juez se excusa y está corriendo el término constitucional de setenta y dos horas para resolver la situación legal del inculpado; y en su caso su ampliación, el secretario lo substituirá y dictará el auto que proceda. Una vez transcurrido el plazo para impugnar la resolución y admitido o rechazado el recurso que se haga valer, se suspenderá el procedimiento y se remitirán los autos al tribunal que deba calificar la excusa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 623.
 
@@ -5129,7 +5131,7 @@ CONFLICTOS DE COMPETENCIA. Los tribunales distritales conocerán de los conflict
 
 TRAMITACIÓN EN LOS TRIBUNALES DE COMPETENCIA. Recibidas las actuaciones por el tribunal de competencia, dará vista al Ministerio Público por tres días y resolverá dentro de los cinco días siguientes. Resuelta la competencia al juez que se le declaró competente, se le remitirá el proceso y copia certificada del auto que se dictó; y al otro sólo copia autorizada de la misma resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 651.
 
@@ -5719,7 +5721,7 @@ EFECTOS DE LA DECLARACIÓN DE PRESCRIPCIÓN. Si la resolución declara prescrita
 
 (DEROGADO, P.O. 25 DE NOVIEMBRE DE 2005)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -5727,7 +5729,7 @@ EFECTOS DE LA DECLARACIÓN DE PRESCRIPCIÓN. Si la resolución declara prescrita
 
 DESTINO DE BIENES SIN RECLAMAR. Se procederá conforme al artículo 135 del código penal respecto a todos los bienes a disposición de las autoridades judiciales del orden penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -5741,7 +5743,7 @@ Se procederá de igual forma antes de que se cumplan los seis meses, si es impos
 
 Las sumas por venta de bienes, se mantendrán en depósito en el fondo respectivo a disposición de quien tenga derecho por el plazo de seis meses y si en ese plazo no se reclaman, se aplicarán conforme al segundo párrafo de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
@@ -5873,7 +5875,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 1999.
 
@@ -5991,7 +5993,7 @@ CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 4 DE FEBRERO DE 2011.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
 
 P.O. 19 DE AGOSTO DE 2011.
 
@@ -6002,3 +6004,37 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente código en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Este código entrará en vigor el día primero de junio del año 2013 conforme al esquema de gradualidad señalado en el artículo sexto transitorio.
+
+###### ARTÍCULO TERCERO.
+
+Al entrar en vigor el nuevo sistema de justicia penal, quedará abrogado el código de procedimientos penales para el estado de Coahuila publicado en el Periódico Oficial el veinticinco de mayo de mil novecientos noventa y nueve.
+
+###### ARTÍCULO CUARTO.
+
+Las averiguaciones previas, procesos y recursos que se refieran a hechos cometidos antes de la entrada en vigor del nuevo sistema de justicia penal, se sujetarán hasta su conclusión definitiva, a las disposiciones del Código de Procedimientos Penales que se abroga.
+
+###### ARTÍCULO QUINTO.
+
+Al entrar en vigor el nuevo sistema de justicia penal, quedan derogadas todas las disposiciones que se opongan a lo preceptuado en este código.
+
+###### ARTÍCULO SEXTO.
+
+La entrada en vigor del nuevo sistema de enjuiciamiento penal será a partir del día uno de junio del año dos mil trece, en el distrito judicial o región que determine el Consejo de la Judicatura, el cual definirá el esquema de gradualidad en todo el estado, sea por distrito o por región, asimismo decidirá sobre la conveniencia de mantener los actuales distritos judiciales, o, en su cado (sic), establecer una nueva distritación para la implementación eficaz del nuevo modelo de juzgamiento penal.
+
+###### ARTÍCULO SÉPTIMO.
+
+Durante la vacatio legis deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la defensoría de oficio, del Ministerio Público, de la policía así como la legislación penitenciaria.
+
+###### ARTÍCULO OCTAVO.
+
+El Congreso del Estado proveerá lo conducente a la asignación de recursos presupuestales anuales a favor de las instancias que deben operar el nuevo sistema de justicia penal, a fin de que cuenten con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este decreto.
