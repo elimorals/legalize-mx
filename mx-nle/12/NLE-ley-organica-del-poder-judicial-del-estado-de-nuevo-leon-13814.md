@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-judicial-del-estado-de-nuevo-leon-13814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-08"
-last_updated: "2011-06-17"
+last_updated: "2012-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 8 de febrero de 1999.
 
@@ -67,61 +67,105 @@ IV. Los Juzgados de lo Familiar;
 
 V. Los Juzgados de Juicio Familiar Oral;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Los Juzgados de lo Penal;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+VI. Los Juzgados de Ejecución Familiar Oral;
 
-VII. Los Juzgados de Preparación de lo Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-VIII. Los Juzgados de Control;
+VII. Los Juzgados de lo Penal;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Los Juzgados de Juicio Oral Penal;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+VIII. Los Juzgados de Preparación de lo Penal;
 
-X. Los Juzgados de Ejecución de Sanciones Penales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-XI. Los Juzgados de Garantías de Adolescentes Infractores;
+IX. Los Juzgados de Control;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Los Juzgados de Juicio de Adolescentes Infractores;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+X. Los Juzgados de Juicio Oral Penal;
 
-XIII. Los Juzgados de Ejecución de Medidas Sancionadoras de Adolescentes Infractores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-XIV. Los Juzgados de Jurisdicción Concurrente;
+XI. Los Juzgados de Ejecución de Sanciones Penales;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Los Juzgados de Jurisdicción Mixta;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+XII. Los Juzgados en Materia de Narcomenudeo;
 
-XVI. Los Juzgados Supernumerarios; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-XVII. Los Juzgados Menores.
+XIII. Los Juzgados de Garantías de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIV. Los Juzgados de Juicio de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XV. Los Juzgados de Ejecución de Medidas Sancionadoras de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVI. Los Juzgados de Jurisdicción Concurrente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVII. Los Juzgados de Juicio Oral Mercantil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVIII. Los Juzgados de Jurisdicción Mixta;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIX. Los Juzgados Supernumerarios; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XX. Los Juzgados Menores.
 
 En el Poder Judicial habrá un Consejo de la Judicatura del Estado el cual tendrá las atribuciones que le señala la Constitución Política del Estado y esta Ley.
 
 Para ocupar o desempeñar los cargos de Magistrado, Consejero de la Judicatura, Juez de Primera Instancia o Juez Menor, se deberán reunir los requisitos que establece el artículo 98 de la Constitución Política del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Consejo de la Judicatura del Estado mediante Acuerdos Generales, determinará los casos en que los Jueces de juicio oral, funcionarán en forma unitaria o colegiada.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+El Consejo de la Judicatura del Estado, mediante Acuerdos Generales, determinara los casos en que los jueces funcionarán en forma unitaria o colegiada
 
 ###### ARTÍCULO 3.
 
@@ -207,11 +251,15 @@ El Tribunal Superior de Justicia se integrará con dieciséis Magistrados. Las f
 
 El Tribunal Superior de Justicia radicará en la capital del Estado y no podrá cambiar de residencia sin la previa aprobación del H. Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 9.
 
-El Tribunal Superior de Justicia funcionará en Pleno, así como en Salas Colegiadas y Salas Unitarias, según lo determine el mismo Pleno, quien les asignará su materia e integración, pudiendo ser éstas mixtas. Las Salas Colegiadas conocerán de asuntos en definitiva. Los integrantes de las mismas podrán integrar Salas Unitarias que conocerán de apelaciones en artículo. Las Salas Unitarias cuyos integrantes no formen parte de una Sala Colegiada tendrán la materia y competencia que determine el Pleno, en los términos de esta Ley.
+El Tribunal Superior de Justicia funcionará en Pleno, así como en Salas Colegiadas y Salas Unitarias, según lo determine el mismo Pleno, quien les asignará la materia e integración, pudiendo ser éstas mixtas. Las Salas Unitarias cuyos integrantes no formen parte de una Sala Colegiada tendrán la materia y competencia que determine el Pleno, en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
 Uno de los Magistrados fungirá como Presidente del Tribunal sin integrar Sala.
 
@@ -413,9 +461,7 @@ Los titulares de las Salas nombrarán a los Secretarios, Actuarios y personal ne
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 27 Bis.
-
-Las atribuciones de los Secretarios Generales de Acuerdos en el Tribunal Superior de Justicia, serán:
+ARTÍCULO 27 BIS.- Las atribuciones de los Secretarios Generales de Acuerdos en el Tribunal Superior de Justicia, serán:
 
 I. Asistir a todas las sesiones plenarias del área a la que estén asignados;
 
@@ -459,21 +505,15 @@ Los Secretarios y Actuarios de Sala realizarán las funciones que determina esta
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 30 Bis.
-
-Las Salas Colegiadas, se integrarán con tres Magistrados y funcionarán en Pleno, y tomarán sus acuerdos por unanimidad o mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan excusa o impedimento legal. El Magistrado que disintiere de la mayoría podrá formular voto particular, el cual se insertará al final de la resolución respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. Estas Salas contarán con un Presidente que durará en dicho cargo un año, no podrá ser reelecto para el período inmediato posterior.
+ARTÍCULO 30 BIS.- Las Salas Colegiadas, se integrarán con tres Magistrados y funcionarán en Pleno, y tomarán sus acuerdos por unanimidad o mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan excusa o impedimento legal. El Magistrado que disintiere de la mayoría podrá formular voto particular, el cual se insertará al final de la resolución respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo. Estas Salas contarán con un Presidente que durará en dicho cargo un año, no podrá ser reelecto para el período inmediato posterior.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 30 Bis 1.
-
-Las sesiones de las Salas Colegiadas se realizarán en los días y horas que las mismas establezcan mediante acuerdos generales publicados en sus estrados con al menos veinticuatro horas de anticipación.
+ARTÍCULO 30 BIS 1.- Las sesiones de las Salas Colegiadas se realizarán en los días y horas que las mismas establezcan mediante acuerdos generales publicados en sus estrados con al menos veinticuatro horas de anticipación.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 30 Bis 2.
-
-Serán atribuciones del Pleno de las Salas Colegiadas:
+ARTÍCULO 30 BIS 2.- Serán atribuciones del Pleno de las Salas Colegiadas:
 
 I. Elegir de entre sus miembros a su Presidente;
 
@@ -485,9 +525,7 @@ IV. Las demás que se desprendan de la Ley y del Reglamento Interior del Tribuna
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 30 Bis 3.
-
-Serán atribuciones del Presidente de las Salas Colegiadas:
+ARTÍCULO 30 BIS 3.- Serán atribuciones del Presidente de las Salas Colegiadas:
 
 I. Representar a la Sala;
 
@@ -509,9 +547,7 @@ IX. Las demás que se desprendan de la Ley y del Reglamento Interior del Tribuna
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 30 Bis 4.
-
-Los Magistrados de las Salas Colegiadas tendrán atribuciones para:
+ARTÍCULO 30 BIS 4.- Los Magistrados de las Salas Colegiadas tendrán atribuciones para:
 
 I. Concurrir, participar y votar en las sesiones y reuniones a las que sean convocados por el Presidente de la Sala;
 
@@ -555,49 +591,89 @@ III. Los Jueces de lo Familiar;
 
 IV. Los Jueces de Juicio Familiar Oral;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Los Jueces de lo Penal;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2006)</small>
+V. Los Jueces de Ejecución Familiar Oral;
 
-VI. Los Jueces de Preparación de lo Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-VII. Los Jueces de Control;
+VI. Los Jueces de lo Penal;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Los Jueces de Juicio Oral Penal;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+VII. Los Jueces de Preparación de lo Penal;
 
-IX. Los Jueces de Ejecución de Sanciones Penales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-X. Los Jueces de Garantías de Adolescentes Infractores;
+VIII. Los Jueces de Control;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Los Jueces de Juicio de Adolescentes Infractores;
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+IX. Los Jueces de Juicio Oral Penal;
 
-XII. Los Jueces de Ejecución de Medidas Sancionadoras de Adolescentes Infractores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-XIII. Los Jueces de Jurisdicción Concurrente;
+X. Los Jueces de Ejecución de Sanciones Penales;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIV. Los Jueces de Jurisdicción Mixta que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2011)</small>
+XI. Los Jueces en Materia de Narcomenudeo;
 
-XV. Los Jueces Supernumerarios.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XII. Los Jueces de Garantías de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIII. Los Jueces de Juicio de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XIV. Los Jueces de Ejecución de Medidas Sancionadoras de Adolescentes Infractores;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XV. Los Jueces de Jurisdicción Concurrente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVI. Los Jueces de Juicio Oral Mercantil;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVII. Los Jueces de Jurisdicción Mixta que funcionen en los diversos Distritos Judiciales donde no existan Juzgados para cada una de las materias; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+XVIII. Los Jueces Supernumerarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -615,9 +691,7 @@ De acuerdo con el presupuesto de egresos aprobado al Poder Judicial, en los Dist
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 33 Bis.
-
-Los Jueces de Primera Instancia, además de las atribuciones que les corresponden por materia, tendrán las siguientes:
+ARTÍCULO 33 BIS.- Los Jueces de Primera Instancia, además de las atribuciones que les corresponden por materia, tendrán las siguientes:
 
 I. Cumplir y hacer cumplir sin demora y con apego a la ley, los acuerdos y determinaciones que el Tribunal Superior de Justicia, el Consejo de la Judicatura y ellos, emitan;
 
@@ -691,9 +765,23 @@ IX. De los demás asuntos que determinen las leyes y otros ordenamientos jurídi
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2006)</small>
 
-###### ARTÍCULO 35 Bis.
+ARTÍCULO 35 BIS.- Los Jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral conocerán de los asuntos relativos a su materia que de acuerdo con el Código de Procedimientos Civiles deban tramitarse conforme al procedimiento oral.
 
-Los Jueces de Juicio Civil Oral y los Jueces de Juicio Familiar Oral conocerán de los asuntos relativos a su materia que de acuerdo con el Código de Procedimientos Civiles deban tramitarse conforme al procedimiento oral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 35 BIS 1.- Los Jueces de Ejecución Familiar Oral tendrán atribuciones para:
+
+I. Hacer cumplir la sentencia impuesta o lo convenido por las partes, cuando no se haya logrado su cumplimiento voluntario, y salvaguardar los derechos de los menores;
+
+II. Controlar la ejecución de la sentencia impuesta o lo convenido por las partes, cuando ésta sea de tracto sucesivo;
+
+III. Ordenar la cesación de la ejecución cuando haya circunstancias que así lo ameriten;
+
+IV. Atender las solicitudes de las partes y determinar lo que corresponda; y
+
+V. Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen.
 
 ###### ARTÍCULO 36.
 
@@ -709,9 +797,7 @@ IV. Desempeñar las demás funciones que les encomienden las leyes y otros orden
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2004)</small>
 
-###### ARTÍCULO 36 Bis.
-
-Corresponde a los Jueces de Preparación de lo Penal:
+ARTÍCULO 36 BIS.- Corresponde a los Jueces de Preparación de lo Penal:
 
 I. Atender al Ministerio Público, en términos de ley, en la integración de las averiguaciones previas;
 
@@ -729,9 +815,7 @@ VII. Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 36 Bis 1.
-
-Corresponde a los Jueces de Control:
+ARTÍCULO 36 BIS 1.- Corresponde a los Jueces de Control:
 
 I. Atender al Ministerio Público, en términos de ley, en la investigación de los delitos;
 
@@ -769,17 +853,13 @@ Deberá existir un registro fehaciente de todas las comunicaciones entre jueces 
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 36 Bis 2.
-
-Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado de Nuevo León.
+ARTÍCULO 36 BIS 2.- Corresponde a los Jueces del Juicio Oral Penal conocer del juicio oral penal en los casos que establezca el Código de Procedimientos Penales del Estado de Nuevo León.
 
 El Consejo de la Judicatura del Estado, mediante acuerdos generales determinará los Jueces de Juicio Oral, que funcionarán en el sistema acusatorio y que conocerán del Juicio Oral Penal en los casos que establezca el Código Procesal Penal para el Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 36 Bis 3.
-
-Corresponde a los Jueces de Ejecución de Sanciones Penales:
+ARTÍCULO 36 BIS 3.- Corresponde a los Jueces de Ejecución de Sanciones Penales:
 
 l. Supervisar que la ejecución de toda pena se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asistan al reo durante la ejecución de la misma;
 
@@ -795,9 +875,7 @@ VI. Las demás atribuciones que ésta y otras leyes le asignen.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 36 Bis 4.
-
-Corresponde a los Jueces de Garantías de Adolescentes Infractores, en los términos de la Ley de la materia:
+ARTÍCULO 36 BIS 4.- Corresponde a los Jueces de Garantías de Adolescentes Infractores, en los términos de la Ley de la materia:
 
 I. Aprobar los acuerdos reparatorios del daño o perjuicio;
 
@@ -815,15 +893,11 @@ VII. Ejercer las demás atribuciones que esta Ley o las demás leyes le otorguen
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 36 Bis 5.
-
-Corresponde a los Jueces de Juicio de Adolescentes Infractores conocer del juicio acusatorio conforme a los lineamientos que establezca la ley de la materia.
+ARTÍCULO 36 BIS 5.- Corresponde a los Jueces de Juicio de Adolescentes Infractores conocer del juicio acusatorio conforme a los lineamientos que establezca la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 36 Bis 6.
-
-Corresponde a los Jueces de Ejecución de Medidas Sancionadoras de Adolescentes Infractores:
+ARTÍCULO 36 BIS 6.- Corresponde a los Jueces de Ejecución de Medidas Sancionadoras de Adolescentes Infractores:
 
 I. Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente durante la ejecución de la misma;
 
@@ -841,11 +915,27 @@ VI. Las demás atribuciones que ésta y otras leyes le asignen.
 
 ARTÍCULO 36 BIS 7.- Los Jueces de Jurisdicción Concurrente conocerán:
 
-l. De las controversias que se susciten con motivo del cumplimiento y aplicación de leyes federales, cuando las mismas sólo afecten intereses particulares y que deriven de actos de comercio, sujetos a las leyes mercantiles que no sean competencia de los Juzgados Menores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+I. De las controversias que se susciten con motivo del cumplimiento y aplicación de leyes federales, cuando las mismas sólo afecten intereses particulares y que deriven de actos de comercio, sujetos a las leyes mercantiles que no sean competencia de los Juzgados Menores, ni de los Juzgados de Juicio Oral Mercantil;
 
 II. De la atención y trámite de los exhortos que les dirijan los Jueces de Primera Instancia del Estado, los demás jueces y tribunales de la República; y
 
 III. De las demás funciones que les impongan las leyes y otros ordenamientos jurídicos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 36 BIS 8.- Los Jueces de Juicio Oral Mercantil conocerán de los asuntos de jurisdicción concurrente que, de acuerdo con el Código de Comercio, deban tramitarse conforme al procedimiento oral.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 36 BIS 9.- Los Jueces en Materia de Narcomenudeo conocerán de los delitos contra la salud, en su modalidad de narcomenudeo, en los términos que señale la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2004)</small>
 
@@ -855,11 +945,13 @@ Para el efecto de agilizar y mejorar la impartición de justicia, el Consejo de 
 
 Los Juzgados Supernumerarios conocerán los negocios y casos correspondientes según su materia que constituyan rezago. Agotado éste o en vías de extinguirse, el Consejo de la Judicatura, queda facultado, a propuesta del Tribunal Superior de Justicia, para asignarlo como Juzgado Permanente con el número que corresponda o bien acordar su desaparición.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 38.
 
-Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de los (sic) Civil, Familiar, Penal; de Preparación de lo Penal, de Control y de Jurisdicción Concurrente, así como las demás que les encomiende esta Ley u otros ordenamientos jurídicos vigentes.
+Los Jueces Mixtos tendrán las atribuciones y funciones que las leyes señalan para los Jueces de lo Civil, de Juicio Civil Oral, de lo Familiar, de Juicio Familiar Oral, de lo Penal, de Preparación de lo Penal, de Control, de Jurisdicción Concurrente y de Juicio Oral Mercantil, así como los demás que les encomiende esta Ley u otros ordenamientos jurídicos vigentes.
 
 ###### ARTÍCULO 39.
 
@@ -1029,9 +1121,7 @@ Los Magistrados y los Jueces inspeccionarán personalmente, una vez al mes por l
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 48 Bis.
-
-Los Juzgados de Juicio Oral Penal Colegiados estarán a cargo de los asuntos que en materia penal establezcan las leyes. Serán integrados por tres jueces de Juicio Oral Penal de Primera Instancia, quienes serán designados anualmente por el pleno del Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, atendiendo el procedimiento siguiente:
+ARTÍCULO 48 BIS.- Los Juzgados de Juicio Oral Penal Colegiados estarán a cargo de los asuntos que en materia penal establezcan las leyes. Serán integrados por tres jueces de Juicio Oral Penal de Primera Instancia, quienes serán designados anualmente por el pleno del Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, atendiendo el procedimiento siguiente:
 
 I. El Pleno del Consejo de la Judicatura mediante sorteo hará la selección de entre toda la plantilla de jueces de juicio oral penal de primera instancia, con independencia de la adscripción que tengan; y
 
@@ -1041,23 +1131,17 @@ La función de los jueces que integren los Juzgados de Juicio Oral Penal Colegia
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 48 Bis 1.
-
-Cuando los Juzgados de Juicio Oral Penal se constituyan para actuar en forma colegiada funcionarán en Pleno y contarán con un presidente quien presidirá las sesiones, dirigirá el debate y conservará el orden; la sentencia será siempre redactada por uno de los miembros del Tribunal colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del disidente. Las resoluciones de los Tribunales Colegiados se tomarán por unanimidad o por mayoría de votos. En el caso de que un Juez no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular, expresando sucintamente su opinión.
+ARTÍCULO 48 BIS 1.- Cuando los Juzgados de Juicio Oral Penal se constituyan para actuar en forma colegiada funcionarán en Pleno y contarán con un presidente quien presidirá las sesiones, dirigirá el debate y conservará el orden; la sentencia será siempre redactada por uno de los miembros del Tribunal colegiado, designado por éste, en tanto la disidencia será redactada por su autor. La sentencia señalará el nombre de su redactor y el del disidente. Las resoluciones de los Tribunales Colegiados se tomarán por unanimidad o por mayoría de votos. En el caso de que un Juez no esté de acuerdo con la decisión adoptada por la mayoría, extenderá y firmará su voto particular, expresando sucintamente su opinión.
 
 El Presidente de estos Juzgados durará en dicho cargo un año y no podrá ser reelecto para el periodo inmediato posterior. Los asuntos que se encuentre (sic) sin concluir, al fenecer dicho término se turnarán al siguiente, quien continuará con su tramitación.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 48 Bis 2.
-
-Las sesiones de los Juzgados de Juicio Oral Penal Colegiados se realizarán en los días y horas que estos establezcan mediante acuerdos generales publicados en sus estrados con al menos veinticuatro horas de anticipación.
+ARTÍCULO 48 BIS 2.- Las sesiones de los Juzgados de Juicio Oral Penal Colegiados se realizarán en los días y horas que estos establezcan mediante acuerdos generales publicados en sus estrados con al menos veinticuatro horas de anticipación.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 48 Bis 3.
-
-Serán atribuciones del Pleno de los Juzgados de Juicio Oral Penal Colegiados:
+ARTÍCULO 48 BIS 3.- Serán atribuciones del Pleno de los Juzgados de Juicio Oral Penal Colegiados:
 
 I. Elegir de entre sus miembros a su Presidente;
 
@@ -1069,9 +1153,7 @@ IV. Las demás que se desprendan de las disposiciones de carácter general.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 48 Bis 4.
-
-Serán atribuciones del Presidente de los Juzgados de Juicio Oral Penal Colegiados:
+ARTÍCULO 48 BIS 4.- Serán atribuciones del Presidente de los Juzgados de Juicio Oral Penal Colegiados:
 
 l. Representar al Juzgado;
 
@@ -1093,9 +1175,7 @@ IX. Las demás que se desprendan de las disposiciones de carácter general.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 48 Bis 5.
-
-Los Jueces de los Juzgados de Juicio Oral Penal Colegiados tendrán atribuciones para:
+ARTÍCULO 48 BIS 5.- Los Jueces de los Juzgados de Juicio Oral Penal Colegiados tendrán atribuciones para:
 
 I. Concurrir, participar y votar en las sesiones y reuniones a las que sean convocados por el Presidente del Juzgado;
 
@@ -1139,7 +1219,11 @@ Son atribuciones de los Jueces Menores:
 
 I. Atender de los negocios civiles para los que fueren competentes, según el Código de Procedimientos Civiles;
 
-II. Conocer de los negocios mercantiles por la misma cuantía de los que sean de su competencia en materia civil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+
+II. Conocer de los negocios mercantiles por la misma cuantía de los que sean de su competencia en materia civil, con excepción de aquellos que sean competencia de los Jueces de Juicio Oral Mercantil;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2000)</small>
 
@@ -1307,9 +1391,7 @@ Sin perjuicio de lo que disponen las leyes procesales respectivas acerca de las 
 
 > <small>(ADICIONADO, P.O. 19 DE MAYO DE 2008)</small>
 
-###### ARTÍCULO 79 Bis.
-
-El Centro Estatal de Convivencia Familiar será un órgano del Consejo de la Judicatura del Estado, con autonomía técnica y operativa, que tiene por objetivo facilitar la convivencia paterno-filial en los casos que a juicio de los titulares de los Juzgados y Salas de lo Familiar, así como del Sistema para el Desarrollo Integral de la Familia, ésta no pueda cumplirse de manera libre y se considere necesario el interés superior del menor.
+ARTÍCULO 79 BIS.- El Centro Estatal de Convivencia Familiar será un órgano del Consejo de la Judicatura del Estado, con autonomía técnica y operativa, que tiene por objetivo facilitar la convivencia paterno-filial en los casos que a juicio de los titulares de los Juzgados y Salas de lo Familiar, así como del Sistema para el Desarrollo Integral de la Familia, ésta no pueda cumplirse de manera libre y se considere necesario el interés superior del menor.
 
 Los servicios que este Centro brinde serán prestados de forma gratuita y se proporcionaran en sus propios espacios e instalaciones.
 
@@ -2047,9 +2129,13 @@ Se publicará diariamente en los días hábiles un instrumento de comunicación 
 
 Habrá un órgano que se encargará de la administración de la publicación del Boletín Judicial. Los servidores públicos adscritos a dicho órgano serán nombrados y removidos por el Consejo de la Judicatura.
 
-###### ARTÍCULO 147.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Director recibirá de los órganos jurisdiccionales el material que deba publicarse.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+###### Artículo 147.
+
+El titular recibirá de los órganos jurisdiccionales el material que deba publicarse.
 
 ### CAPÍTULO SEGUNDO. DE LA REVISTA JURÍDICA
 
@@ -2149,9 +2235,9 @@ El Consejo de la Judicatura queda facultado para proveer lo necesario para el in
 
 Se abroga la Ley Orgánica del Poder Judicial del Estado de Nuevo León, publicada en el Periódico Oficial del Estado del día 10 de Enero de 1979.
 
-###### ARTÍCULO CUARTO.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2012)</small>
 
-Hasta en tanto el Pleno del Tribunal Superior de Justicia determine otra distritación, a propuesta del Consejo de la Judicatura, ésta será la siguiente:
+ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 158 DE FECHA 8 DE FEBRERO DE 1999.- Hasta en tanto el Pleno del Consejo de la Judicatura determine otra distritación, a propuesta del Tribunal Superior de Justicia, ésta será la siguiente:
 
 El Estado se divide en doce Distritos Judiciales; los que conocerán de las materias Civil, Familiar, Penal, y en su caso de Jurisdicción Concurrente, a excepción de aquellos Distritos que se establezcan que son de un ramo. El segundo, tercero y cuarto Distritos Judiciales son del ramo penal, atendiendo a que los Juzgados de lo Civil y Familiar que comprenden estos distritos tienen su cabecera en el municipio de Monterrey y corresponden al primer distrito.
 
@@ -2292,5 +2378,9 @@ Artículo Segundo.- El Consejo de la Judicatura del Estado deberá remitir dentr
 P.O. 17 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, con excepción de las disposiciones relativas a los juzgados de juicio oral mercantil, las cuales entrarán en vigor desde el momento en que inicie la vigencia de los juicios de esa naturaleza, de acuerdo a lo señalado en el Código de Comercio; así como de las correspondientes a los juzgados de ejecución familiar oral, las cuales tendrán vigencia hasta en tanto el Consejo de la Judicatura del Estado, mediante acuerdo general, determine su instalación y funcionamiento, atendiendo a su presupuesto
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 400.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2026”.]
