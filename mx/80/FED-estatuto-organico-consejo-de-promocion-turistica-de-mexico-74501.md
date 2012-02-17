@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-consejo-de-promocion-turistica-de-mexico-7450
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-04-22"
-last_updated: "2010-10-20"
+last_updated: "2012-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-03-24"
 ---
 # ESTATUTO ORGANICO CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V
 
-ESTATUTO ORGANICO CONSEJO DE PROMOCION TURISTICA DE MEXICO, S.A. DE C.V.
+ESTATUTO ORGÁNICO CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO, S.A. DE C.V.
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE FEBRERO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 22 de abril de 2010.
 
@@ -183,7 +183,9 @@ X. Celebrar, con la participación que le corresponda a la Secretaría de Relaci
 
 XI. Adquirir por cualquier título, los bienes muebles e inmuebles que requiera para desarrollar las actividades necesarias para el cumplimiento de su objeto social;
 
-XII. Participar con la Secretaría y con las demás dependencias del Gobierno Federal, así como con los sectores social y privado en la elaboración del Catálogo Nacional Turístico, y
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XII. Participar con la Secretaría y con las demás dependencias del Gobierno Federal, así como con los sectores social y privado en la elaboración del Registro Nacional de Turismo, y
 
 XIII. En general realizar todos los actos, contratos y operaciones que como sociedad mercantil requiera para llevar a cabo los fines sociales anteriores.
 
@@ -343,9 +345,13 @@ XX. Conocer oportunamente el cumplimiento de los planes y programas, a efecto de
 
 XXI. Designar Comisionados o Delegados Especiales en los cuales el Consejo delegue algunas de sus facultades;
 
-XXII. Otorgar poder al Director General para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del Consejo, en los términos más amplios que establece la legislación aplicable, conservando la Junta de Gobierno su ejercicio directo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XXIII. Autorizar al Director General, con las limitaciones que al efecto se señalen, para otorgar y revocar poderes generales y especiales a los servidores públicos del Consejo y/o a terceros, con las facultades que les correspondan a los mandatarios;
+XXII. Otorgar poder al Director General y/o Director General Adjunto para que ejerza facultades de dominio, administración, pleitos y cobranzas en nombre del Consejo, en los términos más amplios que establece la legislación aplicable, conservando la Junta de Gobierno su ejercicio directo;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XXIII. Autorizar al Director General y/o Director General Adjunto, con las limitaciones que al efecto se señalen, para otorgar y revocar poderes generales y especiales a los servidores públicos del Consejo y/o a terceros, con las facultades que les correspondan a los mandatarios;
 
 XXIV. Aprobar el contenido de las actas que se levanten de las sesiones que se celebren, ya sean ordinarias o extraordinarias;
 
@@ -441,7 +447,9 @@ Para ser Director General y/o el Director General Adjunto deberán reunirse los 
 
 I. Ser ciudadano mexicano por nacimiento; no haber adquirido otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio demuestre conocimiento y experiencia en materia administrativa no menor de cinco años;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio demuestre conocimiento y experiencia en materia administrativa y/o en el sector turismo no menor de cinco años;
 
 III. No tener participación accionaria o intereses particulares o familiares, en empresas relacionadas con las operaciones del Consejo;
 
@@ -613,55 +621,53 @@ XXVIII. En casos excepcionales o cuando existan circunstancias que puedan provoc
 
 XXIX. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables y las que le delegue la Dirección General.
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 33.
 
-Durante las ausencias del Director General el despacho y resolución de los asuntos correspondientes, estarán a cargo del Director Ejecutivo que sea designado por aquél. Las ausencias de los titulares de las demás unidades administrativas serán suplidas por quien ellos designen.
+Durante la ausencia del Director General, el despacho y resolución de los asuntos estará a cargo del Director General Adjunto, en caso de ausencia de ambos, el despacho y resolución de los asuntos estará a cargo del Director Ejecutivo designado por el Director General y/o del Director General Adjunto. Las ausencias de los titulares de las demás unidades administrativas serán suplidas por quien ellos designen.
 
 ## TITULO CUARTO. ESTRUCTURA
 
 ### Capítulo I. De la Organización del Consejo
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 34.
 
 La adscripción de las unidades administrativas, será de acuerdo a lo siguiente:
 
-I. Dirección General.
+I. Dirección General
 
-II. Dirección General Adjunta.
+II. Dirección General Adjunta
 
-II.1 Dirección Regional para las Américas.
+II.1 Dirección Regional para Norteamérica
 
-II.2 Dirección Regional para Europa y Resto del Mundo.
+II.2 Dirección Regional para Europa Occidental
 
-II.3 Coordinación de Desarrollo Comercial.
+II.3 Coordinación de Planeación
 
-II.4 Coordinación de Planeación.
+II.4 Coordinación de Comunicación
 
-A. Dirección Ejecutiva de Mercadotecnia.
+II.5 Coordinación de Eventos Promocionales y Ferias
 
-1. Coordinación de Medios.
+III. Dirección Ejecutiva de Mercadotecnia
 
-2. Coordinación de Marcas
+III. 1 Coordinación de Mercadotecnia y Marcas
 
-3. Coordinación Mercado en Línea.
+III. 2 Coordinación de Mercado en Línea y Relaciones Públicas
 
-4. Coordinación de Comunicación.
+IV. Dirección Ejecutiva de Operación Comercial
 
-B. Dirección Ejecutiva de Relación con Destinos y Socios.
+IV. 1 Coordinación de Mercado y Socios
 
-1. Coordinación de Desarrollo con Socios.
+V. Dirección Ejecutiva de Turismo de Reuniones
 
-2. Coordinación de Eventos y Relaciones Públicas.
+VI. Dirección Ejecutiva de Administración y Finanzas
 
-C. Dirección Ejecutiva de Turismo de Reuniones.
+VII. Dirección Ejecutiva Jurídica
 
-D. Dirección Ejecutiva de Administración y Finanzas.
-
-E. Dirección Ejecutiva Jurídica.
-
-Además, el Consejo contará con Direcciones, Direcciones Adjuntas, Gerencias, Subgerencias, asistentes técnicos administrativos, asistentes técnicos de promoción y/o homólogos, cuyas funciones, facultades, atribuciones y obligaciones se establecerán en el Manual de Organización correspondiente, y con el personal que sea necesario para el cumplimiento de los asuntos que le sean encomendados.
+Además, el Consejo contará con Direcciones, Direcciones Adjuntas, Gerencias, Subgerencias, Asistentes Técnicos Administrativos, Asistentes Técnicos de Promoción y/o homólogos, cuyas funciones, facultades, atribuciones y obligaciones se establecerán en el Manual de Organización correspondiente, y con el personal que sea necesario para el cumplimiento de los asuntos que le sean encomendados.
 
 ###### Artículo 35.
 
@@ -673,11 +679,15 @@ El personal que labora en el Consejo estará sujeto a las disposiciones de la Le
 
 Los Directores Ejecutivos, Coordinadores y Directores Regionales tendrán las obligaciones que les impone el artículo 8o. de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como las siguientes facultades y obligaciones:
 
-I. Representar al Consejo y, en su caso, al Director General en eventos nacionales o internacionales que coadyuven a la promoción turística de México;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+I. Representar al Consejo y, en su caso, al Director General o al Director General Adjunto en eventos Nacionales o Internacionales que coadyuven a la promoción turística de México;
 
 II. Promover la simplificación de procesos, el desarrollo tecnológico y la eficiencia operacional;
 
-III. Promover la formación, desarrollo y actualización de conocimientos y competencias de los servidores públicos adscritos a su unidad administrativa;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+III. Promover la formación, desarrollo, actualización de conocimientos, competencias y evaluación de los servidores públicos adscritos a su unidad administrativa;
 
 IV. Participar activamente en los programas institucionales de innovación, transparencia, calidad, efectividad y prácticas organizacionales;
 
@@ -709,75 +719,89 @@ XV. Recibir en acuerdo a los titulares de las unidades administrativas que tenga
 
 La Dirección Ejecutiva de Mercadotecnia tendrá las siguientes facultades:
 
-> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-I. Establecer, previo acuerdo con el Director General, el Plan de Mercadotecnia; la prestación de los servicios de investigación, información y estudios de mercado; el posicionamiento de los diversos productos turísticos en los mercados nacional e internacional, y la ejecución de las campañas de publicidad, mercadeo personalizado e Internet;
+I. Establecer previo acuerdo con el Director General Adjunto, el Plan de Mercadotecnia, el posicionamiento de los diversos productos turísticos en los mercados Nacional e Internacional y la ejecución de campañas de publicidad, así como la ejecución de campañas de Promoción Digital;
 
 II. Promover la participación de los sectores público y privado en mecanismos de planeación estratégica de mercadotecnia, a través del Comité Técnico Especializado de la materia;
 
-> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-III. Evaluar y aprobar los planes de Marcas, Mercadeo Personalizado, e investigación de mercados, que deberán integrarse al Plan de Mercadotecnia;
+III. Evaluar y dar seguimiento a las estrategias de Marcas y de Promoción Digital, que deberán integrarse al Plan de Mercadotecnia;
 
 IV. Determinar los servicios de mercadotecnia que requiera contratar el Consejo para el cumplimiento de sus objetivos;
 
-V. Desarrollar e implementar, en el ámbito de su competencia, los servicios de mercadotecnia, con base en los requerimientos de las Direcciones Ejecutivas de Relaciones con Destinos y Socios, de Comercialización y Operación y de Turismo de Reuniones;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+V. Desarrollar e implementar, en el ámbito de su competencia, los servicios de mercadotecnia, con base en los requerimientos de las Direcciones Ejecutivas de Operación Comercial, de Turismo de Reuniones, así como de las Direcciones Regionales para Norteamérica y Europa Occidental;
 
-VI. Autorizar la prestación de los servicios de investigación, información y estudios de mercado, así como la ejecución de las campañas de publicidad institucional de la marca "México", mercadeo personalizado e Internet y medios publicitarios;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-VII. Establecer alianzas estratégicas con los medios de comunicación, nacionales e internacionales;
+VI. Autorizar, previo acuerdo con el Director General Adjunto, el posicionamiento de los diversos productos turísticos en los mercados Nacional e Internacional, medios publicitarios y la ejecución de las campañas de publicidad y de Promoción Digital;
 
-VIII. Evaluar las solicitudes de terceros para el (sic) utilización de la marca MEXICO, y en su caso, proponer el sublicenciamiento de la misma y verificar su correcta aplicación;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-IX. Autorizar la creatividad y los contenidos en materia de Publicidad Institucional;
+VII. Establecer alianzas estratégicas con los medios de comunicación, Nacionales e Internacionales;
 
-X. Determinar los proyectos de la Unidad Administrativa a su cargo, y proponer su presupuesto;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XI. Colaborar en los planes y programas estratégicos de Mercadotecnia de los destinos;
+VIII. Autorizar la creatividad y los contenidos en materia de Publicidad Institucional;
 
-XII. Evaluar el avance programático presupuestal de las campañas de publicidad institucional, e instrumentar los correctivos pertinentes que aseguren su debida ejecución, así como evaluar, en conjunto con la Dirección Ejecutiva de Relaciones con Destinos y Socios, el avance relativo a los programas cooperativos con destinos y socios;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XIII. Colaborar en la determinación de indicadores en materia de Mercadotecnia, que promuevan la productividad y eficiencia del Consejo;
+IX. Determinar los proyectos de la Unidad Administrativa a su cargo, y proponer su presupuesto;
 
-XIV. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+X. Colaborar en los planes y programas estratégicos de Mercadotecnia de los destinos;
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XI. Evaluar el avance programático presupuestal de las campañas de publicidad institucional, e instrumentar los correctivos pertinentes que aseguren su debida ejecución, así como evaluar, en conjunto con la Dirección Ejecutiva de Operación Comercial, el avance relativo a los programas cooperativos con destinos y socios;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XII. Colaborar en la determinación de indicadores en materia de Mercadotecnia, que promuevan la productividad y eficiencia del Consejo;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XIII. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XIV. Evaluar las solicitudes de terceros para la utilización de la marca “MEXICO”, y en su caso, autorizar el sublicenciamiento de la misma en términos de la guía de uso de marca, y
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
+
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 38.
 
-La Dirección Ejecutiva de Relación con Destinos y Socios tendrá las siguientes facultades
+La Dirección Ejecutiva de Operación Comercial tendrá las siguientes facultades:
 
-I. Establecer, previo acuerdo con el Director General, la estrategia y lineamientos para la participación, evaluación y ejecución de programas cooperativos, la operación y comercialización de servicios en ferias y eventos turísticos, nacionales e internacionales, así como la ejecución de las campañas (sic) relaciones públicas;
+I. Establecer, previo acuerdo con el Director General Adjunto, la estrategia y lineamientos para la participación, seguimiento, evaluación y ejecución de programas cooperativos con Estados, Destinos y Socios Comerciales en los mercados Nacional e Internacional;
 
-II. Evaluar y aprobar el Plan de destinos y socios que deberá integrarse al Plan de Mercadotecnia;
+II. Evaluar y dar seguimiento a las estrategias de promoción con Estados, Destinos, alianzas con Socios Comerciales, así como de las oficinas del Consejo en el Exterior adscritas al área, que deberán integrarse al Plan de Mercadotecnia;
 
-III. Autorizar la ejecución de las campañas de relaciones públicas;
+III. Planear con las Direcciones Ejecutivas de Mercadotecnia, Turismo de Reuniones, las Direcciones Regionales en el Exterior y las oficinas del Consejo bajo su adscripción, los proyectos y requerimientos técnicos para los programas cooperativos con Estados, Destinos y Socios Comerciales;
 
-IV. Evaluar y aprobar el Plan de destinos, socios y de Relaciones Públicas que deberá integrarse al Plan de Mercadotecnia;
+IV. Colaborar y conducir con los Estados, Destinos, Socios Comerciales e Industria Turística y no Turística, los servicios de mercadotecnia para la promoción turística alineados a los objetivos y estrategias del Consejo;
 
-V. Planear en conjunto con la Dirección Ejecutiva de Mercadotecnia los servicios de mercadotecnia para los programas cooperativos con destinos y socios comerciales;
+V. Evaluar en conjunto con la Dirección Ejecutiva de Mercadotecnia y las Direcciones del Consejo en el Exterior bajo su adscripción, el avance programático y presupuestal de los programas cooperativos con Destinos y Socios Comerciales;
 
-VI. Colaborar con las Direcciones Ejecutiva de Mercadotecnia, de Comercialización y Operación, y de Turismo de Reuniones, en la determinación de los requerimientos técnicos de los servicios de mercadotecnia en el ámbito de su competencia;
+VI. Colaborar en la determinación de indicadores en materia de programas cooperativos;
 
-VII. Determinar la participación de socios comerciales en los servicios de mercadotecnia;
+VII. Evaluar las solicitudes de terceros para la utilización de la marca “MEXICO”, y en su caso, autorizar el sublicenciamiento de la misma en términos de la guía de uso de marca;
 
-VIII. Proponer y acordar con los destinos y socios, los servicios de mercadotecnia de los programas cooperativos alineados a los objetivos y estrategias del Consejo;
+VIII. Autorizar la estrategia de promoción con Estados, Destinos, Socios Comerciales y Oficinas del Exterior bajo su adscripción para la ejecución de los programas cooperativos alineados a los objetivos del Consejo;
 
-IX. Determinar la participación del Consejo en ferias turísticas, nacionales e internacionales, así como fomentar la participación de los destinos y socios en las mismas;
+IX. Autorizar los programas de trabajo, acciones y mecanismos operativos y administrativos de las Oficinas del Consejo en el Exterior adscritas a ésta, para alinearlos a los objetivos y estrategias de la entidad;
 
-X. Proponer a la Dirección Ejecutiva de Mercadotecnia, alianzas estratégicas con los medios de comunicación, nacionales e internacionales;
+X. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
 
-XI. Evaluar en conjunto con la Dirección Ejecutiva de Mercadotecnia, el avance programático y presupuestal de los programas cooperativos con destinos y socios comerciales;
-
-XII. Colaborar en la determinación de indicadores en materia de Relaciones con Destinos y Socios, que promuevan la productividad y eficiencia del Consejo;
-
-XIII. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
-
-XIV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
 
 ###### Artículo 39.
 
@@ -787,13 +811,19 @@ XIV. Las demás que se establezcan en el presente Estatuto o que le señale el D
 
 La Dirección Ejecutiva de Turismo de Reuniones tendrá las siguientes facultades:
 
-I. Establecer, previo acuerdo con el Director General la estrategia para la promoción de las actividades relacionadas con el turismo de reuniones de manera conjunta con los sectores público y privado;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-II. Evaluar y aprobar el Plan de Turismo de Reuniones que deberá integrarse al Plan de Mercadotecnia;
+I. Establecer, previo acuerdo con el Director General Adjunto la estrategia para la promoción de las actividades relacionadas con el turismo de reuniones de manera conjunta con los sectores público y privado;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+II. Evaluar y dar seguimiento a las estrategias de Turismo de Reuniones que deberán integrarse al Plan de Mercadotecnia;
 
 III. Colaborar con la Dirección Ejecutiva de Mercadotecnia, en la elaboración, consolidación, aprobación y ejecución de planes de medios especializados para el turismo de reuniones;
 
-IV. Alinear esfuerzos y estrategias que se realicen con destinos y socios para promover el turismo de reuniones, en coordinación con la Dirección Ejecutiva de Relaciones con Destinos y Socios;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+IV. Alinear esfuerzos y estrategias que se realicen con destinos y socios para promover el turismo de reuniones, en coordinación con la Dirección Ejecutiva de Operación Comercial;
 
 V. Llevar a cabo las negociaciones y definir alianzas estratégicas en materia de turismo de reuniones, con las asociaciones gremiales nacionales e internacionales;
 
@@ -801,79 +831,119 @@ VI. Detectar y aprovechar oportunidades para posicionar a México dentro de la i
 
 VII. Colaborar en la profesionalización y fortalecimiento de los prestadores de servicios del segmento de Turismo de Reuniones;
 
-VIII. Participar en colaboración con las Direcciones Ejecutivas de Mercadotecnia y de Relaciones con Destinos y Socios, en Ferias y Eventos de turismo de reuniones, coordinando la oferta turística especializada;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+VIII. Evaluar los avances de los programas administrativos, señalar sus desviaciones y proponer los ajustes correspondientes;
 
 IX. Apoyar la postulación de México como sede de Congresos y Eventos Internacionales;
 
 X. Colaborar en la determinación de indicadores en materia de Turismo de Reuniones, que promuevan la productividad y eficiencia del Consejo;
 
-XI. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
+XI. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y (sic)
 
-XII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XII. Evaluar las solicitudes de terceros para la utilización de la marca “MEXICO”, y en su caso, autorizar el sublicenciamiento de la misma en términos de la guía de uso de marca, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO ÚNICO QUE MODIFICA EL ESTATUTO, PUBLICADO EN EL D.O.F. DE 17 DE FEBRERO DE 2012, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTISIETE FRACCIONES A VEINTISÉIS.</small>
 
 ###### Artículo 41.
 
 La Dirección Ejecutiva de Administración y Finanzas tendrá las siguientes facultades:
 
-I. Establecer, previa aprobación del Director General, las políticas, lineamientos, procedimientos e instrucciones de trabajo para la administración de los recursos financieros, materiales, tecnológicos y humanos del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-II. Dirigir, en coordinación con las unidades administrativas, la elaboración del Anteproyecto de presupuesto anual, con sujeción a los criterios que establezca la Secretaría de Hacienda y Crédito Público y someterlo a la aprobación del Director General;
+I. Establecer, previa aprobación del Director General Adjunto, los documentos normativos para la administración de los recursos humanos, financieros y materiales del Consejo;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+II. Dirigir, en coordinación con las unidades administrativas, la elaboración del anteproyecto de presupuesto anual, con sujeción a los criterios que establezca la Secretaría de Hacienda y Crédito Público y someterlo a la aprobación del Director General Adjunto;
 
 III. Asegurar la oportuna ministración de los recursos financieros que recibe el Consejo, promoviendo el manejo adecuado del mismo, en apego a la normatividad correspondiente;
 
 IV. Evaluar la situación financiera del Consejo y proponer las medidas preventivas y correctivas que estime convenientes;
 
-V. Elaborar y autorizar las estrategias financieras del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+V. Elaborar y proponer al Director General Adjunto las estrategias financieras del Consejo;
 
 VI. Solicitar a la Secretaría la autorización de las afectaciones presupuestales que se deriven de la operación del Consejo;
 
 VII. Autorizar los Estados Financieros que se entreguen al Auditor Externo para su dictamen;
 
-VIII. Evaluar los avances de los programas y presupuestos, señalar sus desviaciones y proponer los ajustes correspondientes;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+VIII. Evaluar los avances de los programas administrativos, señalar sus desviaciones y proponer los ajustes correspondientes;
 
 IX. Proponer el rediseño organizacional y funcional del Consejo, definiendo los criterios técnicos alineados al Plan Nacional de Desarrollo y al Programa Sectorial de Turismo;
 
-X. Autorizar los anteproyectos de la estructura orgánica y ocupacional del Consejo y someterlos a consideración del Director General;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XI. Establecer las políticas y lineamientos para la administración, desarrollo y evaluación del desempeño del personal del Consejo;
+X. Autorizar los anteproyectos de la estructura orgánica y ocupacional del Consejo y someterlos a consideración del Director General Adjunto;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XI. Conducir las políticas y lineamientos de acuerdo con las disposiciones vigentes y proponer criterios para la administración, desarrollo y evaluación del desempeño del personal del Consejo;
 
 XII. Aplicar las políticas laboral y salarial del Consejo, en apego a las disposiciones vigentes;
 
 XIII. Conducir las relaciones laborales, la revisión del Contrato Colectivo de Trabajo del Consejo en su caso, suscribir los contratos individuales de trabajo del personal de la Entidad y aplicar las Condiciones Generales de Trabajo;
 
-XIV. Dirigir, en coordinación con las unidades administrativas, la elaboración del proyecto del Programa Anual de Adquisiciones, Arrendamientos y Servicios y someterlo a aprobación del Director General;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XV. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, y de Obras Públicas y Servicios Relacionados con las mismas, así como los establecidos por las disposiciones aplicables;
+XIV. Dirigir, en coordinación con las unidades administrativas, la elaboración del proyecto del Programa Anual de Adquisiciones, Arrendamientos y Servicios y someterlo a aprobación del Director General Adjunto;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XV. Presidir los Comités de Adquisiciones, Arrendamientos y Servicios, de Mejora Regulatoria Interna, de Información, del Servicio Profesional de Carrera, de Bienes Muebles y el Comité Interno de Eficiencia Energética, así como los establecidos por las disposiciones aplicables;
 
 XVI. Proponer el proyecto de las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Contratación de Servicios y Obra en su caso;
 
 XVII. Autorizar los pedidos o contratos que deriven de los procedimientos para adquisiciones de bienes, arrendamientos, así como la contratación de servicios generales y obra pública, de conformidad con la normatividad aplicable;
 
-XVIII. Aprobar los Programas de Protección Civil, de Capacitación y de Seguridad e Higiene;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XIX. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos laborales, civiles y mercantiles, así como convenios para la operación de programas de promoción turística;
+XVIII. Proponer los Programas de Protección Civil y de Capacitación;
 
-XX. Coordinar la integración de programas de innovación, calidad, productividad, efectividad, transparencia y eficiencia en el Consejo, así como las acciones de rediseño y mejora de los procesos sustantivos y de apoyo del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XIX. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos laborales, civiles y mercantiles, así como convenios para la operación de los servicios de mercadotecnia;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XX. Coordinar la integración de acciones de innovación, calidad, productividad, efectividad, transparencia y eficiencia en el Consejo, así como las de rediseño y mejora de los procesos sustantivos y de apoyo del Consejo;
 
 XXI. Coordinar los programas gubernamentales relacionados con el mejoramiento administrativo, el desarrollo organizacional, la transparencia y la rendición de cuentas;
 
-XXII. Aprobar las excepciones a las políticas y los procedimientos administrativos internos en casos debidamente justificados, en los términos de la normatividad aplicable, informando previamente al Director General del ejercicio de esta facultad;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XXII. Aprobar las excepciones a las políticas y los procedimientos administrativos internos en casos debidamente justificados, en los términos de la normatividad aplicable;
 
 XXIII. Requerir a las unidades administrativas del Consejo la información y documentación necesarias para la elaboración de informes o reportes internos y externos;
 
-XXIV. Establecer el desarrollo y uso de las plataformas tecnológicas necesarias para el cumplimiento de la eficiencia y automatización de los objetivos y metas del Consejo, de conformidad con las disposiciones normativas jurídicas aplicables a la materia;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XXV. Representar legalmente al Consejo en los términos de los poderes generales que le otorgue el Director General;
+XXIV. Representar legalmente al Consejo en los términos de los poderes generales que le otorgue el Director General y/o Director General Adjunto;
 
-XXVI. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-XXVII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+XXV. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y (sic)
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XXVI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
 
 ###### Artículo 42.
 
 La Dirección Ejecutiva Jurídica tendrá las siguientes facultades:
 
-I. Asesorar jurídicamente al Director General y a las diversas unidades administrativas del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+I. Asesorar jurídicamente al Director General, al Director General Adjunto y a las diversas unidades administrativas del Consejo;
 
 II. Representar legalmente al Consejo y a su titular en los procedimientos administrativos y jurisdiccionales, así como en los demás actos jurídicos en que se requiera su intervención;
 
@@ -903,11 +973,15 @@ XIV. Coordinar los asuntos encomendados a los despachos o asesores jurídicos ex
 
 XV. Fungir como asesor y, en su caso, como integrante de los diversos comités y órganos colegiados internos constituidos en el Consejo;
 
-XVI. Someter a consideración del Director General, los anteproyectos de modificación o actualización del Estatuto y de los Manuales, Políticas, Lineamientos y demás documentos normativos internos, que se deriven de los procesos de mejora regulatoria;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XVI. Someter a consideración del Director General y/o Director General Adjunto, los anteproyectos de modificación o actualización del Estatuto y de los Manuales, Políticas, Lineamientos y demás documentos normativos internos, que se deriven de los procesos de mejora regulatoria;
 
 XVII. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
 
-XVIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XVIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General y/o Director General Adjunto.
 
 ### Capítulo IV. De las Coordinaciones
 
@@ -915,93 +989,109 @@ XVIII. Las demás que se establezcan en el presente Estatuto o que le señale el
 
 La Coordinación de Planeación tendrá las siguientes facultades:
 
-I. Recabar y analizar información internacional y nacional relevante sobre la economía y el sector turístico, mediante la adquisición o contratación de bases de datos, estudios, encuestas, publicaciones, servicios de información en línea y otros medios que sean útiles para este propósito;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+I. Recabar y analizar información Internacional y Nacional relevante sobre la economía, el mercado y el sector turístico, mediante la adquisición o contratación de bases de datos, estudios, encuestas, publicaciones, servicios de información en línea y otros medios que sean útiles para este propósito;
 
 II. Realizar la planeación estratégica, con la participación de las unidades administrativas del Consejo;
 
 III. Convocar y coordinar los ejercicios de planeación estratégica con el fin de integrar los documentos de planeación del Consejo;
 
-IV. Recopilar y sistematizar la información estratégica y operativa del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-V. Apoyar a la Dirección Ejecutiva de Administración y Finanzas en el proceso de presupuestación;
+IV. Recopilar la información estratégica del Consejo;
 
-VI. Solicitar a las unidades administrativas del Consejo la información necesaria para formular la planeación estratégica y la generación de indicadores y reportes;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-VII. Integrar y dar seguimiento conjuntamente con las unidades administrativas, al sistema de indicadores estratégicos y de desempeño, alineados a los objetivos y metas estratégicas del Consejo;
+V. Proporcionar información estratégica necesaria para la formulación del presupuesto;
 
-VIII. Evaluar, en coordinación con las unidades administrativas correspondientes, los resultados de los programas y campañas de promoción, y
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-IX. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+VI. Solicitar a las unidades administrativas del Consejo la información necesaria para formular la planeación estratégica y la generación de indicadores estratégicos;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+VII. Integrar y dar seguimiento conjuntamente con las unidades administrativas, a los indicadores de desempeño y de gestión alineados a los objetivos y metas estratégicas del Consejo;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+VIII. Evaluar, en coordinación con las unidades administrativas correspondientes, los resultados de las campañas de publicidad y demás actividades promocionales;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+IX. Autorizar, previo acuerdo con el Director General Adjunto la adquisición de los servicios de investigación, información y estudios de mercado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+X. Evaluar y dar seguimiento a la programación de actividades de inteligencia de mercado, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
+
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 44.
 
-La Coordinación de Medios tendrá las siguientes facultades:
+La Coordinación de Mercadotecnia y Marcas tendrá las siguientes facultades:
 
-I. Planear, conducir y ejecutar las campañas de publicidad del Consejo en medios publicitarios, para promover el turismo, tanto a nivel nacional como internacional;
+I. Proponer las estrategias de promoción de marcas, segmentos, productos, destinos turísticos y comercialización a fin de apoyar la afluencia turística hacia el país;
 
-II. Dirigir la estrategia de Medios publicitarios en apego al Plan de Mercadotecnia del Consejo;
+II. Coordinar la participación de los sectores público y privado para fortalecer la planeación estratégica de mercadotecnia a través del Comité Técnico Especializado de la materia, otros instrumentos y acciones enfocadas a este objetivo;
 
-III. Desarrollar, integrar y dar seguimiento al plan de medios, incluido en el Plan de Mercadotecnia;
-
-IV. Coadyuvar en la selección de los servicios a contratar por el Consejo, relativos a la compra y operación de medios;
-
-V. Analizar, negociar y, en su caso, autorizar la compra de medios publicitarios;
-
-VI. Administrar la información estratégica de los Medios, derivada de los estudios de mercado para el diseño de las campañas publicitarias del Consejo;
-
-VII. Alinear las actividades de la Unidad Administrativa a su cargo, a las estrategias y lineamientos que el Director Ejecutivo de Mercadotecnia determine, con base en el Plan de Mercadotecnia (se añade en todas);
-
-VIII. Colaborar en la determinación de indicadores en materia de Medios, que promuevan la productividad y eficiencia del Consejo, y
-
-IX. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Mercadotecnia.
-
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
-
-###### Artículo 45.
-
-La Coordinación de Marcas tendrá las siguientes facultades:
-
-I. Proponer las estrategias de promoción de marcas, segmentos, productos, destinos turísticos, mercadeo personalizado y comercialización, a fin de apoyar la afluencia turística hacia el país;
-
-II. Coordinar la participación de los sectores público y privado para fortalecer la planeación estratégica de mercadotecnia a través del Comité Técnico Especializado de la materia;
-
-III. Desarrollar, integrar y dar seguimiento al plan de marcas y mercadeo personalizado, incluido en el Plan de Mercadotecnia;
+III. Conducir, integrar y dar seguimiento a las estrategias de marcas que deberán integrarse al Plan de Mercadotecnia;
 
 IV. Coordinar el diseño y creatividad para los servicios de mercadotecnia del Consejo en el ámbito de su competencia;
 
-V. Promover el uso de la marca México en las diferentes acciones de promoción y publicidad del Consejo, así como vigilar su correcta aplicación;
+V. Promover el uso de la marca “MEXICO” en las diferentes acciones de promoción y publicidad del Consejo, así como vigilar su correcta aplicación;
 
 VI. Definir la ejecución de campañas de publicidad;
 
-VII. Colaborar en la determinación de indicadores en materia de Marcas y Mercadeo Personalizado y dar seguimiento a los mismos, y;
+VII. Colaborar en la determinación de indicadores en materia de Marcas y dar seguimiento a los mismos;
 
-VIII. Las demás que se establezcan en el presente Estatuto o que señala el Director Ejecutivo de Mercadotecnia.
+VIII. Elaborar y actualizar la guía de uso de la marca “MEXICO”, y
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+IX. Las demás que se establezcan en el presente Estatuto o que señale el Director Ejecutivo de Mercadotecnia.
 
-Artículo 45 BIS.- La Coordinación de Mercado en Línea tendrá las siguientes facultades:
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-I. Proponer las estrategias de promoción de publicidad digital a fin de apoyar la afluencia turística hacia el país;
+###### Artículo 45.
 
-II. Coordinar la participación de los sectores público y privado para fortalecer la planeación estratégica de mercadotecnia, desde la publicidad digital, a través del Comité Técnico Especializado de la materia;
+La Coordinación de Mercado en Línea y Relaciones Públicas tendrá las siguientes facultades:
 
-III. Desarrollar, integrar y dar seguimiento al plan publicidad digital, incluido en el Plan de Mercadotecnia;
+I. Proponer las estrategias de promoción digital a fin de apoyar la afluencia turística hacia el país;
 
-IV. Coordinar el diseño y creatividad para los servicios de mercadotecnia del Consejo en el ámbito de su competencia;
+II. Coordinar la planeación estratégica de mercadotecnia digital para fortalecer la participación de los sectores público y privado a través del Comité Técnico Especializado en la materia;
 
-V. Coordinar la producción y actualización de contenidos, para los servicios de mercadotecnia en el ámbito de su competencia;
+III. Conducir, integrar y dar seguimiento al plan de promoción digital que deberá integrarse al Plan de Mercadotecnia;
 
-VI. Promover el uso de la marca México en las diferentes acciones de promoción y publicidad del Consejo, así como vigilar su correcta aplicación en el ámbito de su competencia;
+IV. Supervisar el diseño y creatividad para los servicios de mercadotecnia del Consejo en el ámbito de su competencia;
+
+V. Coordinar la producción y actualización de contenidos, para los servicios de mercadotecnia digital en el ámbito de su competencia;
+
+VI. Promover el uso de la marca “MEXICO” en las diferentes acciones de promoción y publicidad del Consejo, así como vigilar su correcta aplicación en el ámbito de su competencia;
 
 VII. Encausar el uso de las nuevas tecnologías de información digital en apoyo a la promoción y comercialización competitiva de la oferta turística del país;
 
-VIII. Definir la ejecución de campañas de publicidad, por medio de programas de mercadotecnia digital e Internet;
+VIII. Coordinar la ejecución de campañas de publicidad, por medio de acciones de mercadotecnia digital e Internet;
 
 IX. Proponer y supervisar los criterios para la selección de proveedores de servicios en línea;
 
-X. Colaborar en la determinación de indicadores en materia de Marcas y Mercadeo Personalizado y dar seguimiento a los mismos con el fin de promover la productividad y eficiencia del Consejo, y
+X. Colaborar en la determinación de indicadores en materia de mercadeo digital y dar seguimiento a los mismos;
 
-XI. Las demás que se establezcan en el presente Estatuto o que señala el Director Ejecutivo de Mercadotecnia.
+XI. Coordinar la supervisión técnica y administrativa del cumplimiento de las obligaciones contractuales de los servicios de mercadotecnia en el ámbito de su competencia;
+
+XII. Coordinar la instrumentación de los documentos normativos para la administración de los recursos tecnológicos del Consejo;
+
+XIII. Coordinar el desarrollo y uso de las plataformas tecnológicas necesarias para el cumplimiento de los objetivos y metas del Consejo, de conformidad con las disposiciones jurídicas aplicables a la materia;
+
+XIV. Fungir como enlace para coordinar los mecanismos, condiciones y acciones que involucran los programas cooperativos desarrollados por las oficinas en el exterior;
+
+XV. Proporcionar a la Coordinación de Comunicación los mecanismos y herramientas necesarios para la difusión de las acciones de Relaciones Públicas en el ámbito de su competencia, y
+
+XVI. Las demás que se establezcan en el presente Estatuto o que señale el Director Ejecutivo de Mercadotecnia.
+
+Artículo 45 BIS.- (DEROGADO, D.O.F. 17 DE FEBRERO DE 2012)
 
 > <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
 
@@ -1009,9 +1099,13 @@ XI. Las demás que se establezcan en el presente Estatuto o que señala el Direc
 
 La Coordinación de Comunicación tendrá las siguientes facultades:
 
-I. Desarrollar e integrar las estrategias de Comunicación del Consejo al Plan de Mercadotecnia, así como dar seguimiento a las acciones de comunicación implementadas por la Dirección Ejecutiva de Mercadotecnia en los diversos mercados de cobertura, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-II. Coordinar la integración del Programa Anual de Trabajo de la Dirección Ejecutiva de Mercadotecnia, mediante propuestas de trabajo, para el desarrollo de sus funciones, en el ámbito de su competencia;
+I. Desarrollar e integrar las estrategias de Comunicación del Consejo al Plan de Mercadotecnia así como dar seguimiento a las acciones de comunicación implementadas por la Dirección General Adjunta en los diversos mercados de cobertura, en el ámbito de su competencia;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+II. Supervisar la integración del Programa Anual de Trabajo de la Coordinación, para el desarrollo de sus funciones, en el ámbito de su competencia;
 
 III. Proponer y coordinar las estrategias para la ejecución de las campañas de comunicación en los mercados nacional e internacional con la participación de las Direcciones Ejecutivas del Consejo y de las Direcciones Regionales en el Exterior;
 
@@ -1019,99 +1113,101 @@ IV. Determinar la estrategia de comunicación, a través del desarrollo de mensa
 
 V. Plantear estrategias y acciones de comunicación desarrolladas, con base en los hechos e información de los resultados logrados;
 
-VI. Coparticipar en el diseño y ejecución de las campañas de publicidad institucional y mercadeo personalizado e Internet, que realice el Consejo, mediante estrategias de comunicación, difusión y mercadotecnia alineadas, para dar a conocer los productos y destinos de México;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-VII. Mantener contacto constante con destinos y socios comerciales no turísticos para el desarrollo de estrategias de comunicación, que permitan mantener una relación integrada tanto con las Agencias de Relaciones Públicas contratadas como con los socios no turísticos en el mundo, en el ámbito de su competencia;
+VI. Coparticipar en el diseño y ejecución de las campañas de publicidad institucional que realice el Consejo, mediante estrategias de comunicación, difusión y mercadotecnia alineadas, para dar a conocer los productos y destinos de México;
 
-VIII. Coordinar los programas de información, de relaciones con los medios de comunicación y con la industria, y de atención a asuntos críticos y o de crisis, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-IX. Apoyar la conducción de las campañas y eventos del Consejo, a través de directrices basadas en los objetivos de comunicación señalados en el Plan de Mercadotecnia;
+VII. Establecer la integración y mecanismos de coordinación necesarios entre las agencias de comunicación y relaciones públicas, los destinos y socios comerciales para el desarrollo de estrategias de comunicación que permitan garantizar la presencia de la Marca “MEXICO” y de las acciones del sector en los diversos mercados de cobertura;
 
-X. Alinear las actividades de la Unidad Administrativa a su cargo, a las estrategias y lineamientos que el Director Ejecutivo de Mercadotecnia determine;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+VIII. Establecer los requisitos técnicos para la contratación de los servicios de comunicación y relaciones públicas y coordinar las acciones derivadas de dicha contratación;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+IX. Apoyar la conducción de las campañas y eventos del Consejo, alineadas a las directrices establecidas en el Plan de Mercadotecnia;
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+X. Alinear las actividades de la Unidad Administrativa a su cargo, a las estrategias y lineamientos que el Director General Adjunto determine;
 
 XI. Colaborar en la determinación de indicadores en materia de comunicación, que promuevan la productividad y eficiencia del Consejo, y
 
-XII. Las demás que se establezcan en el presente Estatuto, o que le señale el Director Ejecutivo de Mercadotecnia.
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XII. Las demás que se establezcan en el presente Estatuto, o que le señale el Director General Adjunto.
+
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 47.
 
-La Coordinación de Desarrollo con Socios tendrá las siguientes facultades:
+La Coordinación de Mercado y Socios tendrá las siguientes facultades:
 
-I. Definir y difundir las estrategias y lineamientos, para conducir las asociaciones y alianzas con socios;
+I. Definir y difundir la estrategia y lineamientos para conducir las alianzas con socios;
 
-II. Desarrollar, integrar y dar seguimiento al plan de desarrollo de socios comerciales, incluido en el Plan de Mercadotecnia;
+II. Conducir, integrar y dar seguimiento a la estrategia de desarrollo con socios comerciales, que deberán integrarse al Plan de Mercadotecnia;
 
-III. Coordinar y autorizar la integración de nuevos socios, así como fomentar en conjunto con las unidades administrativas del Consejo, la consolidación de los ya existentes;
+III. Coordinar y autorizar la integración de nuevos socios con Estados y Destinos y consolidar los ya existentes;
 
-IV. Desarrollar propuestas de alianzas estratégicas con los medios de comunicación;
+IV. Colaborar en la determinación de indicadores en materia de Desarrollo de Socios, que promuevan la productividad y eficiencia del Consejo;
 
-V. Alinear las actividades de la Unidad Administrativa a su cargo, a las estrategias y lineamientos que el Director Ejecutivo de Relaciones con Destinos y Socios determine;
+V. Establecer estrategias con Estados, Destinos y Socios Comerciales para maximizar los recursos a través de programas cooperativos (multipartitos);
 
-VI. Colaborar en la determinación de indicadores en materia de Desarrollo de Socios, que promuevan la productividad y eficiencia del Consejo;
+VI. Impulsar y monitorear la promoción turística mediante la implementación de programas cooperativos con Estados, Destinos y Socios;
 
-VII. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Relación con Destinos y Socios;
+VII. Desarrollar y reforzar la comunicación y negociación entre el Consejo y los Estados, Destinos y Socios para propiciar una relación de coordinación, y
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+VIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Operación Comercial.
+
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 48.
 
-La Coordinación de Desarrollo Comercial tendrá las siguientes facultades:
+La Coordinación de Eventos Promocionales y Ferias tendrá las siguientes facultades:
 
-I. Coordinar la integración del plan de mercados, incluido en el Plan de Mercadotecnia, en colaboración con las Direcciones Regionales;
+I. Coordinará la participación en Ferias y Eventos Nacionales e Internacionales, que promuevan y fomenten los atractivos y servicios turísticos de México;
 
-II. Difundir a las Direcciones Regionales, los mecanismos de participación con socios, con base en las directrices emitidas por la Coordinación de Desarrollo de Socio;
+II. Coparticipar en la elaboración de la planeación estratégica, a través de proyectos y propuestas en materia de eventos promocionales y ferias Nacionales e Internacionales;
 
-III. Coordinar con las Direcciones Regionales, la participación del Consejo en eventos que se realicen dentro del territorio de cobertura de las mismas;
+III. Planear y Coordinar la ejecución del Tianguis Turístico;
 
-IV. Colaborar con las Direcciones Regionales en la determinación de indicadores en el ámbito de sus respectivas competencias, con el propósito de promover la productividad y eficiencia del Consejo;
+IV. Dirigir la habilitación, montaje y desmontaje del pabellón de México en las Ferias y Eventos Nacionales e Internacionales;
 
-V. Supervisar los planes y programas de las oficinas en el exterior a través de los indicadores señalados en la fracción anterior, y (sic)
+V. Coadyuvar en la promoción turística mediante la participación en Ferias y Eventos Nacionales e Internacionales;
 
-VI. Coordinar las giras de trabajo y los eventos especiales que lleve a cabo la Dirección General Adjunta en las entidades federativas y en el extranjero;
+VI. Coordinar los proyectos de comercialización de ferias y eventos;
 
-VII. Coordinar el sistema de control de gestión de la Dirección General y la Dirección General Adjunta;
+VII. Coordinar activaciones y acciones promocionales de la Marca “MEXICO” en distintos eventos;
 
-VIII. Realizar el seguimiento de los acuerdos e instrucciones de la Dirección General Adjunta;
+VIII. Coadyuvar con las Oficinas en el Exterior en la participación del Consejo en eventos promocionales y ferias;
 
-IX. Atender las solicitudes de audiencia con la Dirección General Adjunta y, en su caso, dar seguimiento a los acuerdos adoptados;
+IX. Coordinar activaciones de promoción en mercados emergentes alineados a la estrategia del Consejo;
 
-X. Auxiliar a la Dirección General Adjunta en la coordinación de las relaciones del Consejo con el Poder Legislativo;
+X. Elaborar el Programa Anual de ferias y eventos que deberá integrarse al Plan de Mercadotecnia;
 
-XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
+XI. Establecer los requisitos técnicos para la contratación de los servicios de montaje y desmontaje de los pabellones de México en las ferias y eventos Nacionales e Internacionales;
 
-> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XII. Establecer mecanismos de trabajo con los destinos, estados y socios comerciales que permitan la optimización de los recursos por medio de la plataforma que representan los pabellones de México en ferias y eventos promocionales;
 
-Artículo 48 BIS.- La Coordinación de Eventos y Relaciones Públicas tendrá las siguientes facultades:
+XIII. Colaborar en la determinación de indicadores que promuevan la productividad y eficiencia en materia de evaluación de ferias y eventos, y
 
-I. Promover la imagen y desarrollo de marcas para mantener una relación de largo plazo con mercados, destinos y socios del Consejo, a través de las actividades de relaciones públicas.
+XIV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto.
 
-II. Establecer la integración necesaria con las agencias de Relaciones Públicas y socios comerciales en el mundo, mediante el desarrollo de alianzas que permitan obtener la presencia y resultados que demanda la estrategia del Consejo.
-
-III. Participar en la definición de los requerimientos técnicos para la contratación de los servicios de relaciones públicas del Consejo.
-
-IV. Coparticipar en la elaboración de la planeación estratégica, a través de proyectos y propuestas en materia de relaciones públicas.
-
-V. Coordinar la participación en ferias y eventos nacionales e internacionales, que promueva y fomente los atractivos y servicios turísticos de México.
-
-VI. Planear y coordinar la ejecución del Tianguis Turístico.
-
-VII. Dirigir la habilitación, montaje y desmontaje del pabellón de México en las ferias y eventos nacionales e internacionales.
-
-VIII. Coadyuvar en la promoción turística, mediante la participación en ferias y eventos turísticos nacionales e internacionales.
-
-IX. Coordinar los proyectos por medio de programas estratégicos de comercialización de ferias y eventos.
-
-X. Colaborar en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo.
-
-XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Relación con Destinos y Socios.
+Artículo 48 BIS.- (DEROGADO, D.O.F. 17 DE FEBRERO DE 2012)
 
 ### Capítulo V. De las Direcciones Regionales
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO ÚNICO QUE MODIFICA EL ESTATUTO, PUBLICADO EN EL D.O.F. DE 17 DE FEBRERO DE 2012, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECINUEVE FRACCIONES A DIECIOCHO.</small>
 
 ###### Artículo 49.
 
 Los Directores Regionales tendrán las siguientes facultades:
 
-I. Representar legalmente al Consejo en los términos de los poderes generales que le otorgue el Director General;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+I. Representar legalmente al Consejo en los términos de los poderes generales que le otorgue el Director General y/o Director General Adjunto;
 
 II. Recomendar en el ámbito de su competencia, el establecimiento o modificación de instalaciones, cambios de circunscripción, estructura orgánica y funciones;
 
@@ -1121,51 +1217,57 @@ IV. Establecer las prioridades regionales y crear sinergias entre las Oficinas d
 
 V. Participar en la realización de estudios e investigaciones de mercado y solicitar su elaboración a la Dirección Ejecutiva de Mercadotecnia;
 
-VI. Elaborar el Plan Anual de Comercialización Regional, alineado a las estrategias del Plan de Mercadotecnia del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-VII. Coordinar, en el ámbito de su competencia, la operación de las Oficinas en el Exterior;
+VI. Coordinar, en el ámbito de su competencia, la operación de las Oficinas en el Exterior;
 
-VIII. Proponer alianzas estratégicas con entidades del sector público y privado;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-IX. Consolidar, proponer y controlar los presupuestos de las Direcciones en el Exterior de su región;
+VII. Proponer alianzas estratégicas con entidades del sector público y privado;
 
-X. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos y convenios para la operación de programas de promoción turística, y (sic)
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+VIII. Consolidar, proponer y controlar los presupuestos de las Direcciones en el Exterior de su región;
 
-XI. Someter a consideración del Director General Adjunto, la estrategia de promoción comercial a ejecutar por las oficinas en el exterior y dar seguimiento a la misma;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+IX. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos y convenios para la operación de programas de promoción turística;
 
-XII. Coordinar, dirigir, aprobar y supervisar los planes, y programas de las Oficinas en el exterior a su cargo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+X. Someter a consideración del Director General Adjunto, la estrategia de promoción comercial a ejecutar por las oficinas en el exterior y dar seguimiento a la misma;
 
-XIII. Evaluar el plan de mercados, de su cobertura, incluido en el Plan de Mercadotecnia;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XI. Coordinar, dirigir, aprobar y supervisar los planes, y programas de las Oficinas en el exterior a su cargo;
 
-XIV. Colaborar con las Direcciones Ejecutivas de Mercadotecnia, de Relación con Destinos y Socios, y de Turismo de Reuniones, en la determinación de los requerimientos técnicos de los servicios de mercadotecnia en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XII. Evaluar el Plan de mercados de su cobertura, incluido en el Plan de Mercadotecnia;
 
-XV. Proponer a la Dirección Ejecutivas de Relación con Destinos y Socios sobre la participación del Consejo en ferias y eventos turísticos internacionales;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XIII. Colaborar con las Direcciones Ejecutivas de Mercadotecnia, de Operación Comercial, y de Turismo de Reuniones, en la determinación de los requerimientos técnicos de los servicios de mercadotecnia en el ámbito de su competencia;
 
-XVI. Colaborar en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XIV. Proponer a la Coordinación de Ferias y Eventos Promocionales sobre la participación del Consejo en ferias y eventos turísticos internacionales;
 
-XVII. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y (sic)
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XV. Colaborar en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo;
 
-XVIII. Dar seguimiento a la ejecución de los contratos de relaciones públicas a través de sus Direcciones de Relaciones Públicas en coordinación con las Direcciones Ejecutivas de Mercadotecnia y de Relación con Destinos y Socios;
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE OCTUBRE DE 2010)</small>
+XVI. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma;
 
-XIX. Las demás que se establezcan en el presente Estatuto o que le señale el Director General, Director General Adjunto y/o Directores Ejecutivos.
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XVII. Dar seguimiento a la ejecución de los contratos de relaciones públicas en coordinación con las Direcciones Ejecutivas de Mercadotecnia y de Operación Comercial, y (sic)
+
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+XVIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General, Director General Adjunto y/o Directores Ejecutivos.
 
 ###### Artículo 50.
 
@@ -1177,59 +1279,65 @@ El Consejo vigilará que la adscripción en el extranjero del personal referido 
 
 ### Capítulo I. De los Comisarios Públicos
 
-> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 51.
 
-El órgano de vigilancia del Consejo estará integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, de conformidad con lo establecido en el artículo 37 fracción XI de la Ley Orgánica de la Administración Pública Federal; 63 de la Ley de Entidades, 29 del Reglamento de la Ley de Entidades y 76 del Reglamento Interior de la Secretaría de la Función Pública, y tendrán las atribuciones establecidas en el artículo 30 del Reglamento de la Ley de Entidades.
+El órgano de vigilancia del Consejo estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, de conformidad con lo establecido en el artículo 37 fracción XI de la Ley Orgánica de la Administración Pública Federal; 63 de la Ley de Entidades, 29 del Reglamento de la Ley de Entidades y 76 del Reglamento Interior de la Secretaría de la Función Pública; y tendrán las atribuciones establecidas en el artículo 30 del Reglamento de la Ley de Entidades.
+
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 52.
 
-Los Comisarios Públicos fungirán como Organo de Vigilancia y Evaluación del Consejo, quienes asistirán a las sesiones de la Asamblea General de Accionistas y de la Junta de Gobierno con voz pero sin voto.
+Los Comisarios Públicos fungirán como Organo de Vigilancia y Evaluación del Consejo, quienes asistirán a las sesiones de la Asamblea General de Accionistas y de la Junta de Gobierno con voz pero sin voto, de conformidad con lo establecido en el artículo 29 del Reglamento de la Ley de Entidades.
 
 ### Capítulo II. Del Organo Interno de Control
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 53.
 
-El Consejo contará con un Organo Interno de Control, el cual estará a cargo de un Titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de Auditoría para Desarrollo y Mejora de la Gestión Pública, Auditoría Interna, y Quejas y Responsabilidades, designados en los mismos términos.
+El Consejo contará con un Organo Interno de Control, el cual estará a cargo de un Titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y el segundo párrafo del artículo 76 del Reglamento Interior de la Secretaría de la Función Pública, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de Responsabilidades y Quejas, Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública designados en los mismos términos.
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+Los servidores públicos a que se refiere el párrafo anterior, ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en los artículos 79 y 80 del Reglamento Interior de la Secretaría de la Función Pública.
 
-Los servidores públicos a que se refiere el párrafo anterior, ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el artículo 76 del Reglamento Interior de la Secretaría de la Función Pública.
-
-Los recursos financieros, humanos y materiales que emplee el Organo Interno de Control serán a cargo del Consejo.
+Los recursos humanos, financieros, materiales y tecnológicos que emplee el Organo Interno de Control serán a cargo del Consejo;
 
 ###### Artículo 54.
 
 El Titular del Organo Interno de Control en el Consejo participará en las sesiones de la Junta de Gobierno con voz pero sin voto, así como en los Comités o Subcomités Técnicos Especializados con la calidad que se desprende de las normas que regulen la operación y funcionamiento de los mismos.
 
-> <small>(REFORMADO, D.O.F. 20 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 55.
 
-Las ausencias y vacantes del Titular del Organo Interno de Control, así como las de los Titulares de las áreas de Quejas y Responsabilidades; de Auditoría Interna y de Auditoría para Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto por el artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
+Las ausencias del Titular del Organo Interno de Control, así como las de los Titulares de las áreas de Responsabilidades y Quejas, Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública, serán suplidas conforme a lo previsto por el artículo 88 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ## TITULO SEXTO. ORGANOS COLEGIADOS
 
-### Capítulo Unico. De los Comités o Subcomités Técnicos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
+### Capítulo Unico. De los Comités o Subcomités Técnicos Especializados
 
 ###### Artículo 56.
 
 El Consejo contará con los Comités o Subcomités Técnicos especializados necesarios para el cumplimiento de sus objetivos y para el desarrollo oportuno y eficaz de las actividades sustantivas que realice.
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 57.
 
-En todos los casos los Comités o Subcomités que se constituyan deberán presentar a la Junta de Gobierno un informe de los resultados de su actuación.
+En todos los casos los Comités o Subcomités Técnicos Especializados que se constituyan deberán presentar a la Junta de Gobierno un informe de los resultados de su actuación.
 
 ###### Artículo 58.
 
 Los Comités o Subcomités Técnicos Especializados podrán ser constituidos de manera temporal o permanente y se sujetarán a las normas de funcionamiento que la Junta de Gobierno expida.
 
+> <small>(REFORMADO, D.O.F. 17 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 59.
 
-La Junta de Gobierno aprobará la integración de los Comités o Subcomités Técnicos Especializados que al efecto se constituyan.
+La Junta de Gobierno aprobará la integración y registro de los Comités o Subcomités Técnicos Especializados que al efecto se constituyan.
 
 ###### Artículo 60.
 
@@ -1237,7 +1345,7 @@ En los Comités o Subcomités Técnicos Especializados participarán las unidade
 
 ###### Artículo 61.
 
-La Dirección Ejecutiva de Administración y Finanzas llevará el registro de los Comités o Subcomités Técnicos Especializados que se conformen.
+(DEROGADO, D.O.F. 17 DE FEBRERO DE 2012)
 
 ## TRANSITORIOS
 
@@ -1260,3 +1368,7 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 20 DE OCTUBRE DE 2010.
 
 UNICO.- Las presentes modificaciones, entrarán en vigor al día siguiente de su publicación.
+
+D.O.F. 17 DE FEBRERO DE 2012.
+
+UNICO.- En relación con los artículos 32, fracción XIX, 32 BIS fracción XVIII, 34 y 42 fracción XVI del presente Estatuto Orgánico del Consejo de Promoción Turística de México, S.A. de C.V.; deberán actualizarse los instrumentos normativos necesarios para la operación y funcionamiento de la Entidad.
