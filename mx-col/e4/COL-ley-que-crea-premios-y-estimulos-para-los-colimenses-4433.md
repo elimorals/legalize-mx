@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2011-08-20"
+last_updated: "2012-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COL"
 ---
 # LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
 
-LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
+LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE AGOSTO DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 350 PUBLICADO EN EL P.O. DE 13 DE AGOSTO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -33,13 +31,13 @@ EL C. LIC. ENRIQUE MEILLON DE LA MADRID, Secretario General de Gobierno, Encarga
 
 Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente Decreto:
 
-EL H. CONGRESO DEL ESTADO, EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCION II DEL ARTICULO 33 DE LA CONSTITUCION POLITICA DE ESTA MISMA ENTIDAD, Y
+EL H. CONGRESO DEL ESTADO, EN USO DE LA FACULTAD QUE LE CONCEDE LA FRACCIÓN II DEL ARTICULO 33 DE LA CONSTITUCIÓN POLÍTICA DE ESTA MISMA ENTIDAD, Y
 
 ...
 
 DECRETO No. 145
 
-LEY QUE CREA PREMIOS Y ESTIMULOS PARA LOS COLIMENSES
+LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
 ###### Artículo 1o.
 
@@ -125,13 +123,19 @@ La entrega de las insignias la hará personalmente el propio Jefe del Poder Ejec
 
 La entrega del Premio Estatal de Periodismo a la labor que realizan los trabajadores de los medios de comunicación a que se refiere la fracción VII, del artículo 1° de esa Ley, se hará de manera personal en sesión solemne el día de la libertad de expresión o cuando así lo determine el pleno, en el Congreso del Estado.
 
-La Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, expedirá la convocatoria en el mes de marzo, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los periodistas, reporteros y en general a toda la población del Estado, admitiéndose sólo propuestas en ternas a candidatos al Premio en sus diferentes categorías.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
-La Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, convocará a la integración de un Consejo Ciudadano que examinará las candidaturas presentadas y propondrá a los acreedores el premio o bien sugerirá que se declaras desierto, si las candidaturas no reúnen las condiciones para ser consideradas.
+La Comisión de Educación y Cultura del H. Congreso del Estado, expedirá la convocatoria en el mes de marzo, misma que señalará los plazos, términos y requisitos, la cual será publicada en los periódicos de mayor circulación, dirigida a los medios de comunicación de la entidad, a los periodistas, reporteros y en general a toda la población del Estado, admitiéndose sólo propuestas en ternas de candidatos al Premio en sus diferentes categorías.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+
+La Comisión de Educación y Cultura del H. Congreso del Estado, convocará a la integración de un Consejo Ciudadano que examinará las candidaturas presentadas y propondrá al o los acreedores al premio o bien sugerirá que se declare desierto, si las candidaturas no reúnen las condiciones para ser consideradas.
 
 El Consejo Ciudadano se integrará con un representante de las instituciones de Educación Superior Públicas y Privadas del Estado, así como aquellas escuelas que tengan especialidad en comunicación o periodismo; las asociaciones o clubes debidamente registrados que agrupen a reporteros, periodistas, escritores, caricaturistas y fotógrafos de Colima; y por cada una de las administraciones municipales.
 
-Las propuestas de ganadores en cada categoría que formule el Consejo Ciudadano serán remitidas a la Comisión de Educación, Cultura, Ciencia y Tecnología del H. Congreso del Estado, quien verificará que cumplan con los requisitos señalados.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+
+Las propuestas de ganadores en cada categoría que formule el Consejo Ciudadano serán remitidas a la Comisión de Educación y Cultura del H. Congreso del Estado, quien verificará que cumplan con los requisitos señalados.
 
 Los criterios para seleccionar a los candidatos que se harán acreedores al Premio Estatal de Periodismo serán los siguientes:
 
@@ -171,7 +175,7 @@ Salón de Sesiones del H. Congreso del Estado.- Colima, Col., a 29 de Sept. de 1
 
 Palacio de Gobierno, Colima, Col., Octubre 10 de 1967.- El Secretario General de Gobierno, Encargado del Despacho del Poder Ejecutivo, Lic. Enrique Meillón de la Madrid.- Rúbrica.- El Oficial Mayor de Gobierno, Crescencio Flores Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 11 DE MAYO DE 1968.
 
@@ -181,6 +185,6 @@ P.O. 23 SEPTIEMBRE DE 2006.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
-P.O. 13 DE AGOSTO DE 2011.
+P.O. 18 DE FEBRERO DE 2012.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
