@@ -4,7 +4,7 @@ identifier: "COL-ley-de-las-personas-ilustres-del-estado-de-colima-56437"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-21"
-last_updated: "2007-07-21"
+last_updated: "2012-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LAS PERSONAS ILUSTRES DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 21 de julio de 2007.
 
@@ -117,21 +117,29 @@ La rendición de realizar homenajes a los y las colimenses Ilustres del Estado, 
 
 ### CAPITULO III. De la integración del expediente y declaración de Personas Ilustres
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 9°.
 
-Las instituciones o ciudadanos que proyecten hacer una propuesta para declarar a un ciudadano o ciudadana Persona Ilustre del Estado, deberá entregar la documentación necesaria al Congreso, misma que deberá turnarse a la Comisión de Educación, Cultura y Deporte, debiéndose acreditar en dicha documentación las acciones o servicios realizados por el colimense ilustre propuesto y sus hechos o acciones en beneficio de nuestra entidad o de la sociedad colimense en general.
+Las instituciones o ciudadanos que proyecten hacer una propuesta para declarar a un ciudadano o ciudadana Persona Ilustre del Estado, deberá entregar la documentación necesaria al Congreso, misma que deberá turnarse a la Comisión de Educación y Cultura, debiéndose acreditar en dicha documentación las acciones o servicios realizados por el colimense ilustre propuesto y sus hechos o acciones en beneficio de nuestra entidad o de la sociedad colimense en general.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Para la debida integración del expediente a que se refiere el artículo anterior, la Comisión de Educación Cultura y Deporte del Congreso del Estado, deberá allegarse de la información requerida mediante pruebas necesarias, documentos, testimoniales, exámenes periciales, reconocimientos, premios, confesiones, y demás elementos que demuestren, funden y motiven otorgar el reconocimiento del mérito de Persona Ilustre del Estado de Colima.
+Para la debida integración del expediente a que se refiere el artículo anterior, la Comisión de Educación y Cultura del Congreso del Estado, deberá allegarse de la información requerida mediante pruebas necesarias, documentos, testimoniales, exámenes periciales, reconocimientos, premios, confesiones, y demás elementos que demuestren, funden y motiven otorgar el reconocimiento del mérito de Persona Ilustre del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 11.
 
-Una vez integrado el expediente respectivo, la Comisión de Educación, Cultura y Deporte, estudiará todos los elementos de prueba, escuchando la opinión de la Comisión Para Honrar la Memoria de las Personas Ilustres del Estado de Colima, pudiendo hacer las consultas que se estimen necesarias en las instituciones públicas y privadas que considere convenientes, debiendo contar inclusive con la colaboración de los proponentes.
+Una vez Integrado el expediente respectivo, la Comisión de Educación y Cultura, estudiará todos los elementos de prueba, escuchando la opinión de la Comisión Para Honrar la Memoria de las Personas Ilustres del Estado de Colima, pudiendo hacer las consultas que se estimen necesarias en las instituciones públicas y privadas que considere convenientes, debiendo contar inclusive con la colaboración de los proponentes.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 12.
 
-La Comisión de Educación, Cultura y Deporte una vez analizado el expediente, presentará ante el Pleno del Congreso para su aprobación el dictamen que contiene la propuesta del ciudadano o ciudadana Persona Ilustre.
+La Comisión de Educación y Cultura, una vez analizado el expediente, presentará ante el Pleno del Congreso para su aprobación el dictamen que contiene la propuesta del ciudadano o ciudadana Persona Ilustre.
 
 ###### ARTICULO 13.
 
@@ -222,3 +230,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 12 del mes de julio del año dos mil siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA. Rúbrica. EL SECRETARIO DE CULTURA, LIC. RUBÉN PÉREZ ANGUIANO; Rúbrica.- El SECRETARIO DE EDUCACIÓN, PROFR. CARLOS CRUZ MENDOZA; Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
