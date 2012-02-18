@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2011-11-07"
+last_updated: "2012-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado me ha dirigido para su publicación el siguiente
 
 DECRETO
 
-EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 33 FRACCION IX Y 39, DE LA CONSTITUCION POLITICA LOCAL, EN NOMBRE DEL PUEBLO, Y
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN IX Y 39, DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
 ...
 
@@ -41,11 +41,11 @@ Por lo anteriormente expuesto y fundado ha tenido a bien expedir el siguiente
 
 DECRETO No. 308
 
-###### ARTICULO UNICO.
+###### ARTÍCULO ÚNICO.
 
 Es de aprobarse y se aprueba el Código de Procedimientos Penales para el Estado de Colima, en los siguientes términos:
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -377,9 +377,9 @@ Cuando el juzgador note que el defensor incumpla alguna de las obligaciones señ
 
 Las facultades que este precepto otorga al juzgador, serán independientes del derecho que pueda corresponder al imputado para denunciar o reclamar la responsabilidad que, en su caso, resulte al defensor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2007)</small>
 
-### CAPITULO IV. LAS VICTIMAS U OFENDIDOS
+### CAPITULO IV. LAS VÍCTIMAS U OFENDIDOS
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -559,7 +559,7 @@ Los secretarios del juzgado o del Ministerio público en su caso, cotejarán las
 
 En caso de pérdida o extravío de alguno de los ejemplares del expediente, el órgano jurisdiccional, dentro de un plazo de veinticuatro horas, que se contarán a partir del momento en que el secretario le informe, dispondrá, de oficio o a petición de parte, que el secretario certifique la preexistencia y falta posterior del expediente, procediéndose de inmediato a la reposición mediante copia autorizada del otro tanto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 52.
 
@@ -593,7 +593,7 @@ Cuando se solicite, podrá escribirse la declaración en el idioma del declarant
 
 Las partes o los que intervengan en la diligencia no podrán ser traductores. El incumplimiento de estas formalidades harán nulas las diligencias respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 56.
 
@@ -641,7 +641,9 @@ I.- El lugar y la fecha en que se pronuncien;
 
 II.- La designación del Juzgador que las dicte;
 
-III.- Los nombres y apellidos del acusado, su sobrenombre si lo tiene, el lugar de su nacimiento, su edad, estado civil, residencia o domicilio, y ocupación, oficio o profesión;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2012)</small>
+
+III.- Los nombres y apellidos del acusado, su sobrenombre si lo tiene, el lugar de su nacimiento su edad, estado civil, en su caso, el grupo indígena al que pertenezca, y el idioma o dialecto que hable, residencia o domicilio, y ocupación, oficio o profesión;
 
 IV.- Las consideraciones y los fundamentos legales de la sentencia;
 
@@ -987,7 +989,7 @@ En los casos a que se refiere el párrafo anterior, únicamente el Ministerio P�
 
 Al recibir el Ministerio Público a cualquier detenido, revisará que el hecho que motivó la detención, efectivamente pueda ser constitutivo de delito, que éste sea sancionable con pena privativa de libertad y perseguible de oficio o, si necesita de querella u otro requisito de procedibilidad, éste se encuentre o quede inmediatamente satisfecho, así como que la detención se haya ajustado a lo dispuesto en el artículo anterior. Si la detención resulta justificada, el Ministerio Público la ratificará e iniciará o continuará la preparación de la acción procesal penal; en caso contrario, ordenará que el detenido quede en libertad sin perjuicio, en su caso, de iniciar o continuar la averiguación previa correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 114.
 
@@ -1035,7 +1037,9 @@ El Ministerio Público ordenará se practique sin demora alguna, por perito méd
 
 En el caso de que el imputado voluntariamente se ponga a disposición del Ministerio Público o del Juez, se levantará acta haciéndose constar en ella la fecha y hora correspondientes.
 
-En los casos anteriores y dejándose constancia en acta, se le hará saber la imputación que existe en su contra, y en su caso, el nombre del denunciante, el derecho que tiene de comunicarse en ese momento con quien estime conveniente y designar persona de su confianza para que lo defienda, así como los demás derechos que se consignan en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y específicamente lo dispuesto en los artículos 3, 4, 26, 28, 30, 31 y 253, de este Código, a lo que se concretará la diligencia, salvo que se encuentre presente el defensor, en cuyo caso, previa advertencia al imputado de que no tiene obligación de declarar, podrá recibírsele su declaración sobre los hechos relativos. La declaración recibida sin la previa información de los derechos mencionados o sin la presencia del defensor, es nula para todos los efectos legales. Cuando se trate de orden de aprehensión ejecutada, el Ministerio Público no podrá recibir declaración alguna del imputado, que en su caso será nula.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+
+En los casos anteriores y dejándose constancia en acta, se le hará saber la imputación que existe en su contra, y en su caso, el nombre del denunciante, el derecho que tiene de comunicarse en ese momento con quien estime conveniente y designar persona de su confianza para que lo defienda, así como los demás derechos que se consignan en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos y específicamente lo dispuesto en los artículos 3, 4, 26, 28, 30, 31 y 253, de este Código, a lo que se concretará la diligencia, salvo que se encuentre presente el defensor, en cuyo caso, previa advertencia al imputado de que no tiene obligación de declarar, podrá recibírsele su declaración sobre los hechos relativos. La declaración recibida sin la previa información de los derechos mencionados, sin la presencia del defensor o sin la designación del traductor en el supuesto de que ignore o no entienda suficientemente el español hace nula la diligencia para todos los efectos legales. Cuando se trate de orden de aprehensión ejecutada, el Ministerio Público no podrá recibir declaración alguna del imputado, que en su caso será nula.
 
 Tratándose de extranjeros, la detención o aprehensión se comunicará sin demora a la representación diplomática o consular que corresponda.
 
@@ -1307,7 +1311,7 @@ Si son varios los ofendidos, éstos procurarán demandar conjuntamente y de no s
 
 Transcurrido el plazo fijado sin que se promueva el juicio civil o el incidente, se procederá en la forma indicada en el párrafo segundo del artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 157.
 
@@ -1317,11 +1321,11 @@ Si se trata de inmuebles, la medida se concretará a solicitar del Registro Púb
 
 La medida se dejará sin efectos si durante el lapso mencionado se paga o garantiza de otra forma legal, la reparación del daño.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2007)</small>
 
-### CAPITULO VI. RESTITUCION A LA VICTIMA Y AL OFENDIDO EN SUS DERECHOS Y PROTECCION DE SU INTEGRIDAD
+### CAPITULO VI. RESTITUCION A LA VÍCTIMA Y AL OFENDIDO EN SUS DERECHOS Y PROTECCIÓN DE SU INTEGRIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 158.
 
@@ -1577,13 +1581,19 @@ El Ministerio Público y la defensa en cualquier momento del procedimiento, nomb
 
 La autoridad competente y las partes podrán interrogar a los peritos.
 
-> <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 183.
 
-Los peritos deberán tener título oficial en la ciencia, técnica o arte relativas al punto sobre el cual dictaminarán, si el ejercicio de su profesión está reglamentado; de lo contrario, deberán nombrarse prácticos en la materia.
+Los peritos deberán tener título oficial en la ciencia, técnica o arte relativas al punto sobre el cual dictaminarán, si el ejercicio de su profesión está reglamentado; de lo contrario deberán nombrarse prácticos en la materia. Cuando el imputado pertenezca a un grupo étnico indígena, podrán designarse peritos prácticos, incluidos las personas que pertenezcan a dicho grupo étnico indígena.
 
 También se nombrarán peritos prácticos cuando no haya titulados en el lugar en que se actúe.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2012)</small>
+
+###### ARTICULO 183 Bis.
+
+Cuando el imputado pertenezca a un grupo étnico indígena, se procurará allegarse dictámenes periciales a fin de que el juzgador ahonde en el conocimiento de su personalidad, y observe su diferencia cultural respecto a la cultura media nacional en función de sus usos y costumbres, cuando éstos puedan influir en el desarrollo de los hechos enjuiciados, la materialización de los elementos objetivos o subjetivos del tipo, los aspectos de los que depende la culpabilidad del imputado, entre otros.
 
 > <small>(F. DE E., P.O. 16 DE AGOSTO DE 1997)</small>
 
@@ -1633,7 +1643,7 @@ Cuando la víctima del delito sexual sea del sexo femenino y ella o su represent
 
 Cuando la autoridad que ordene la prueba pericial lo juzgue conveniente, asistirá a las actividades que desarrollen los peritos tendientes a emitir su dictamen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 191.
 
@@ -1667,7 +1677,7 @@ Si para una determinación improrrogable dentro del procedimiento, es necesario 
 
 Cuando el peritaje recaiga sobre objetos que se consuman al ser analizados, no se permitirá que se verifique el primer análisis, sino, cuando más, sobre la mitad de la sustancia, a no ser que su cantidad sea tan escasa, que los peritos no puedan emitir su opinión sin consumirla por completo, lo cual se hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 196.
 
@@ -1839,7 +1849,7 @@ IV.- Si después de los hechos la ha vuelto a ver y en que circunstancias.
 
 Después del interrogatorio anterior, se pondrá a la vista del declarante junto con otras personas de apariencia semejante, a la que deba ser confrontada, quien escogerá el lugar en que desea ser colocada con relación a la fila que formará con las que la acompañen. En presencia de ellas, el declarante manifestará si en la fila se encuentra la persona a que haya hecho referencia, y, en caso afirmativo, la señalará en forma clara y precisa, manifestando las semejanzas y diferencias que advierta entre el aspecto actual y el que presentaba en el momento de los hechos. La confrontación practicada en contra de las prevenciones indicadas en la primera parte de este artículo, será nula.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 219.
 
@@ -1887,7 +1897,7 @@ Cuando las partes deban ofrecer la prueba documental, la exhibirán antes o dura
 
 Los documentos firmados en forma autógrafa o con la firma electrónica o los contenidos en medios magnéticos o electrónicos, exhibidos serán agregados a los autos, salvo cuando esto pueda dañarlos o por su importancia deban conservarse en la seguridad del juzgado. En estos supuestos los documentos se exhibirán con copias para que obren en los expedientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 225.
 
@@ -1917,7 +1927,7 @@ Cuando alguna de las partes ofrezca como medio de prueba un documento público f
 
 Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán reunir los requisitos que establece el Código Federal de Procedimientos Penales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 228.
 
@@ -2177,7 +2187,7 @@ Los bienes de uso lícito, asegurados por el Ministerio Público para efectos en
 
 ### CAPITULO V. CATEOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 264.
 
@@ -2245,9 +2255,9 @@ Cuando para la localización y captura de indiciados contra quienes se haya dict
 
 Si la averiguación previa se consigna con detenido y el juez ratifica la detención en los términos del artículo 294, las intervenciones telefónicas o la vigilancia electrónica serán convalidadas, si procede, en el mismo acto; en caso contrario, serán nulas y no podrán ser utilizadas en contra del inculpado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2002)</small>
 
-### CAPITULO VII. ELEMENTOS DEL TIPO, DEL CUERPO DEL DELITO Y SU DEMOSTRACION
+### CAPÍTULO VII. ELEMENTOS DEL TIPO, DEL CUERPO DEL DELITO Y SU DEMOSTRACION
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -2397,7 +2407,7 @@ Las averiguaciones previas serán consignadas a los jueces penales por riguroso 
 
 El Juzgador ante el cual se ejercite la acción penal radicará de inmediato el asunto. Sin más trámite, abrirá expediente, en el que resolverá lo que legalmente corresponda ordenando la práctica, sin demora alguna, de las diligencias que estime necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 294.
 
@@ -2429,9 +2439,11 @@ Al emitir el Juez su resolución, tomará en cuenta los hechos que fueron motivo
 
 Dentro de las cuarenta y ocho horas siguientes al momento en que el inculpado esté a disposición del Juez, éste le hará saber, en audiencia pública, los derechos que le otorga el artículo 20 de la Constitución política de los Estados Unidos Mexicanos, y muy especialmente, el nombre de su acusador, la naturaleza y causa de la acusación y en su caso las modificaciones judiciales a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en ese acto su declaración preparatoria. La declaración preparatoria recibida sin la información previa que se menciona, hace nula la diligencia.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 297.
 
-La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tenga, y el grupo étnico indígena al que pertenezca, en su caso. Acto seguido, el Juez le hará saber el derecho que tiene para defenderse, por sí, por abogado, o por persona de su confianza, a menos que haya designado defensor con anterioridad y éste se encuentre presente. En caso de no tener quien lo defienda o no querer nombrar defensor, después de ser requerido para hacerlo, el Juez le nombrará uno de oficio. La declaración preparatoria recibida sin la presencia del defensor es nula.
+La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tenga, y el grupo étnico indígena al que pertenezca o si es extranjero, supuesto en el cual, si no habla o no entiende suficientemente el español, se le deberá designar un traductor para que lo asista en la diligencia. Acto seguido, el Juez le hará saber el derecho que tiene para defenderse, por sí por abogado, o por persona de su confianza, a menos que haya designado defensor con anterioridad y éste se encuentre presente. En caso de no tener quien lo defienda o no querer nombrar defensor después de ser requerido para hacerlo, el Juez le nombrará uno de oficio. La declaración preparatoria recibida sin la presencia del defensor, sin el conocimiento de la calidad de indígena o extranjero que el imputado pueda tener, o la ausencia de traductor que en su caso se requiera, hace nula la diligencia.
 
 ###### ARTICULO 298.
 
@@ -2823,7 +2835,7 @@ Cuando la impugnación sea interpuesta solamente por el imputado o su defensor, 
 
 ### CAPITULO III. APELACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 356.
 
@@ -3087,7 +3099,7 @@ Durante el procedimiento especial, el Juez, considerando las valoraciones psiqui
 
 La instauración del procedimiento especial, no es obstáculo para que el ofendido y su representante legal ejerzan los derechos que este Código les confiere, siempre que no se contravengan las disposiciones de este Capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 390.
 
@@ -3425,7 +3437,7 @@ El Juez o tribunal estará obligado a tomar de oficio todas las providencias con
 
 Recibida por el Ejecutivo del Estado la copia de la sentencia y puesto a su disposición el sentenciado, destinará a éste al lugar en que deba extinguir la sanción privativa de libertad o aplicarse la medida de seguridad impuesta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 447.
 
@@ -3477,7 +3489,7 @@ Dado en Palacio de Gobierno a los veinticuatro días del mes de julio de 1997.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 25 DE MARZO DE 2000.
 
@@ -3556,3 +3568,7 @@ TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en
 CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
+
+P.O. 18 DE FEBRERO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
