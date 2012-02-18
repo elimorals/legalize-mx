@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-02-16"
+last_updated: "2012-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE FEBRERO DE 2012.</small>
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -243,7 +243,7 @@ IX. Suspensión y privación del derecho de conducir vehículos.
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 21.
 
@@ -303,7 +303,7 @@ IV. El Estado, a través del área encargada de la atención a las víctimas del
 
 V. El Estado a través del área estatal encargada de la ecología y gestión ambiental, en los casos de delitos contra el medio ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 24.
 
@@ -345,7 +345,7 @@ Se exceptúa de esta regla a la sociedad conyugal, pues, en todo caso, cada cón
 
 VI. El Estado, los municipios y los organismos públicos descentralizados estatales o municipales, subsidiariamente, cuando los daños o perjuicios se ocasionen por sus funcionarios o servidores públicos, exclusivamente en el ejercicio de las funciones que les estén encomendadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 27.
 
@@ -515,7 +515,7 @@ VII. Intervención de las personas morales.
 
 ### CAPITULO II. TRATAMIENTO EN LIBERTAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 49.
 
@@ -833,7 +833,7 @@ X. El reo que considere que al dictarse sentencia reunía las condiciones fijada
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 82.
 
@@ -1227,7 +1227,7 @@ II. El embarazo sea resultado de un delito de violación o inseminación indebid
 
 III. De no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPITULO VII. VIOLENCIA EN ESPECTACULOS DEPORTIVOS
 
@@ -1313,9 +1313,9 @@ Este delito se sancionará con una pena de cuarenta a sesenta años de prisión 
 
 Para efectos de lo establecido en la fracción I de este artículo, se entiende por rescate todo aquello que entrañe un provecho indebido y a cuya realización o cumplimiento se condiciona la libertad del secuestrado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 135 Bis.
 
@@ -1325,7 +1325,7 @@ Comete el delito de secuestro, en su modalidad de secuestro exprés, quien prive
 
 Este delito se sancionará con pena de prisión de quince a cuarenta y cinco años y una sanción pecuniaria de mil quinientos a cuatro mil quinientos días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -1417,7 +1417,7 @@ VI. Reciba cualquier pago con motivo de su Intervención en el secuestro, y
 
 VII. Actúe como asesor o intermediario de quienes representen o gestionen en favor de la víctima, y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión de secuestro.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2011)</small>
 
 ### CAPITULO V. ROBO DE INFANTE; Y SUSTRACCION DE MENORES O DE INCAPACES
 
@@ -1425,7 +1425,7 @@ VII. Actúe como asesor o intermediario de quienes representen o gestionen en fa
 
 ### CAPITULO VI. TRAFICO DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 137.
 
@@ -1549,7 +1549,7 @@ ARTICULO 147 BIS. Comete el delito a que se refiere este capítulo quien coloque
 
 Este delito se sancionará con una pena de diez a veinte años de prisión y sanción pecuniaria de mil a dos mil días de salario mínimo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 147.
 
@@ -1565,7 +1565,7 @@ Si el ofendido fuere alguno de los parientes o personas a que se refieren los ar
 
 El delito de amenazas se perseguirá por querella necesaria.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ENERO DE 2011)</small>
 
 ### CAPITULO XII. USO ILICITO DE EQUIPOS DE RADIOCOMUNICACION
 
@@ -1675,7 +1675,7 @@ Si como resultado de la conducta se produce embarazo, se impondrá prisión de t
 
 ### CAPITULO VI. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2007)</small>
 
 ###### ARTICULO 158.
 
@@ -1683,7 +1683,7 @@ Comete el delito de esterilidad provocada, quien sin el consentimiento de una pe
 
 Este delito se sancionará con una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a ciento veinte días de salario mínimo, más la reparación del daño.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. DIFAMACION
 
@@ -1715,11 +1715,11 @@ En caso de reincidencia en cualquiera de los supuestos, se impondrá prisión de
 
 Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de dieciocho años, en cuyo caso se perseguirá de oficio.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA REPUTACION DE LA PERSONA
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO II. CALUMNIA
 
@@ -1739,7 +1739,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 (DEROGADO, P.O. 4 DE JULIO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO III. DISPOSICIONES COMUNES A LOS DELITOS DE DIFAMACION Y CALUMNIA
 
@@ -1751,7 +1751,7 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 (DEROGADO, P.O. 4 DE JULIO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
 ### CAPITULO I. DELITO CONTRA EL ESTADO CIVIL DE LAS PERSONAS
 
@@ -1795,7 +1795,7 @@ Este delito se sancionará con una pena de seis meses a tres años de prisión y
 
 ### CAPITULO V. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1887,11 +1887,11 @@ Se equipara a la violencia familiar cualquiera de los actos señalados en el art
 
 En todos los casos previstos en los artículos precedentes, el Ministerio Público exhortará al responsable, para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas necesarias y, dictará, en su caso, la consistente en la prohibición para el agresor de acercarse al ofendido en un radio de cuando menos 100 metros.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ## TITULO SEXTO. DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO II
 
@@ -1943,7 +1943,7 @@ La misma pena se aplicará a quien siendo padre, madre, tutor o curador de un me
 
 Se considerará como empleado en cualquiera de los establecimientos mencionados en el primer párrafo de este articulo, y para los efectos del mismo, a la persona menor de dieciocho años que por cualquier estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO III
 
@@ -1969,7 +1969,7 @@ Al que almacene, compre, arriende, el material a que aluden los párrafos anteri
 
 Se impondrá prisión de ocho a dieciséis años y de tres mil a diez mil días de salario mínimo, así como el decomiso de los objetos, instrumentos y productos del delito, a quien por sí, o a través de terceras personas, dirija, administre o supervise cualquier asociación delictuosa con el propósito de que se realicen las conductas previstas en el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO IV
 
@@ -1985,7 +1985,7 @@ Este delito se sancionará con pena de seis a diez años de prisión y multa de 
 
 Las mismas penas se impondrán a quien por virtud de las conductas señaladas en el párrafo anterior, tenga relaciones sexuales con una o varias personas menores de dieciocho años de edad, o de personas que no tienen capacidad para comprender el significado del hecho, o una o varias personas que no tienen capacidad para resistirlo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO V
 
@@ -2025,7 +2025,7 @@ Las sanciones que se señalan en este artículo se duplicarán cuando quien come
 
 (DEROGADO, P.O. 13 DE NOVIEMBRE DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO VI. LENOCINIO Y TRATA DE PERSONAS
 
@@ -2051,7 +2051,7 @@ Este delito se sancionará con una pena de ocho a dieciséis años de prisión y
 
 ARTICULO 188 QUATER. Se equipara a la trata de personas, y se sancionará como tal, a quien a cambio del pago de una cantidad de dinero en moneda nacional o extranjera, o cualquier otro beneficio, ofrezca sus servicios de manera directa o como intermediario para trasladar, con la promesa de trabajo en otro Estado de la República o en el extranjero, a una persona a la que abandona e incumple los beneficios prometidos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 187.
 
@@ -2083,7 +2083,7 @@ VIII. Suministrando a la víctima alguna sustancia tóxica que le impidiera evit
 
 IX. Se emplee para la comisión del delito la violencia, psicológica o moral, en contra de la víctima.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO VII
 
@@ -2109,7 +2109,7 @@ Se impondrá de tres meses a un año de prisión a quien, pudiendo hacerlo con s
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para que impidan un delito de los contemplados en el párrafo anterior, y de cuya próxima comisión tenga conocimiento.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO IX. VENTA O SUMINISTRO DE BEBIDAS ALCOHOLICAS A MENORES DE DIECIOCHO AÑOS O A PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
@@ -2121,7 +2121,7 @@ Comete el delito de ultrajes a la moral pública o a las buenas costumbres, quie
 
 Este delito se sancionará con una pena de seis meses a dos años de prisión y sanción pecuniaria de diez a cuarenta días de salario mínimo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JULIO DE 2007)</small>
 
 ### CAPITULO UNICO
 
@@ -2175,37 +2175,37 @@ Se equiparan al robo y se sancionarán como tal:
 
 I. La sustracción, disposición o destrucción de una cosa mueble, ejecutada intencionalmente por el dueño, si ésta se halla en poder de otra persona a Título de prenda o de depósito decretado por una autoridad o hecho con su intervención o mediante contrato público o privado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
 II. El aprovechamiento de una línea telefónica, de energía eléctrica o de cualquier otro fluido, ejecutado sin derecho y sin consentimiento de la persona que legalmente pueda disponer de estos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
 III. El hecho de encontrarse una cosa perdida y no entregarla a su dueño, sabiendo quién es, o a la autoridad, dentro del plazo que señala la Ley Civil;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
 IV. El apoderamiento material de documentos, datos o información contenidos en computadoras, o el aprovechamiento o utilización de dichos datos, sin, derecho y sin el consentimiento de la persona que legalmente pueda disponer de los mismos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
 V. La compra o adquisición de cualquier forma, de objetos o productos robados, a sabiendas de esta circunstancia, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2009)</small>
 
 VI. El apoderamiento o uso indebido de tarjetas de crédito o débito, expedidas por instituciones bancarias o de cualquier otra naturaleza, o de títulos de crédito o documentos auténticos que sirvan para el pago de bienes o servicios, o para obtener dinero en efectivo sin el consentimiento de quien tenga derecho a disponer de tal instrumento y con el que el sujeto activo pueda obtener un beneficio económico en detrimento de alguien.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -2269,7 +2269,7 @@ En el caso de tentativa de robo, cuando no fuera posible determinar su monto, se
 
 Cuando lo robado sean bienes de valor científico, artístico, histórico, religioso o cultural cuya preservación sea de interés social, se impondrá una pena de tres a doce años de prisión y sanción pecuniaria de trescientos a un mil doscientos días de salario mínimo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -2313,19 +2313,19 @@ XIII. Se cometa con el empleo de cualquier medio para abrir cajas fuertes;
 
 XIV. Se cometa aprovechando las condiciones de confusión respecto de los bienes de personas heridas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
 
 XV. Se cometa en el interior de una unidad del servicio público de transporte de pasajeros o de cualquiera que preste servicio similar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2009)</small>
 
 XVI. Se cometa utilizando de cualquier forma una unidad del servicio público de transporte de pasajeros o de cualquiera que preste un servicio similar, Y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -2493,7 +2493,7 @@ Al inculpado que voluntariamente consigne ante el juez de la causa el beneficio 
 
 La conducta prevista en las fracciones IV y V, debe denunciarse el mismo día en que se efectuó el abono o depósito; el Ministerio Público tan pronto reciba la denuncia deberá desahogar prueba pericial psicológica a cargo del ofendido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -2915,7 +2915,7 @@ Comete el delito de quebrantamiento de sellos quien altera, destruye o quita los
 
 Este delito se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días de salario mínimo.
 
-### CAPITULO VII (SIC). USO INDEBIDO DE SISTEMAS DE EMERGENCIA
+### CAPITULO VI. USO INDEBIDO DE SISTEMAS DE EMERGENCIA
 
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2012)</small>
 
@@ -2935,9 +2935,7 @@ Este delito se sancionará con una pena de uno a tres años de prisión y sanci�
 
 Se equipara al delito de ultrajes a la autoridad, a las instituciones del Estado y a las insignias públicas y se sancionará como tal, a quien a través de los sistemas de emergencia utilice teléfono fijo o celular para realizar bromas, o insultar a la autoridad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2012)</small>
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE FEBRERO DE 2012) (F. DE E., P.O. 18 DE FEBRERO DE 2012)
 
 ### CAPITULO I. ENCUBRIMIENTO
 
@@ -2993,7 +2991,7 @@ En el caso de la fracción III de este artículo, la pena será de uno a cuatro 
 
 ### CAPITULO I. ARMAS PROHIBIDAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 262.
 
@@ -3041,9 +3039,9 @@ Cuando quien cometa el delito a que se refiere el presente Capítulo sea o haya 
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 268.
 
@@ -3121,25 +3119,25 @@ IV. Tiene conocimiento, por razón de su empleo, cargo o comisión, de que puede
 
 V. Sustrae, destruye, oculta, utiliza o inutiliza ilícitamente, por sí o por interpósita persona, información o documentación que se encuentra bajo su custodia o a la cual tiene acceso o de la que tiene conocimiento en virtud de su empleo, cargo o comisión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2009)</small>
 
 VI. Tiene obligación por razón de su empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares; instalaciones u objetos, e incumpliendo su deber los daña en cualquier forma; pierde o sustrae las cosas que se encuentran bajo su cuidado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
 VII. Otorga empleo, cargo o comisión públicos, o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró, o no se cumplirá el contrato otorgado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
 VIII. Omita la remisión en tiempo y forma establecidos en la ley, de las cuentas públicas en los términos del artículo 38 de la Ley de Auditoría Superior del Estado de San Luis Potosí, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3157,7 +3155,7 @@ d) Atender las indicaciones del Congreso del Estado, para que se corrijan las ir
 
 El delito a que se refiere el artículo anterior se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de veinte a sesenta días del salario que perciba al momento de la comisión del delito y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3337,7 +3335,7 @@ VI. Ejecutan actos o incurren en omisiones que producen un daño o bien que conc
 
 Este delito se castigará con una pena de uno a cuatro años de prisión, sanción pecuniaria de veinte a ochenta días de salario mínimo, y destitución e inhabilitación de su empleo, cargo o comisión públicos por el doble del lapso de la privación de la libertad que sea impuesta.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 4 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE JUNIO DE 2010)</small>
 
 ### CAPITULO I. DELITO CONTRA EL CONSUMO
 
@@ -3453,7 +3451,7 @@ Este delito se sancionará con una pena de seis meses a dos años de prisión, s
 
 Si el delito a que se refiere la fracción II del artículo anterior se comete por conductores de vehículos de transporte público de pasajeros, las sanciones serán de tres a ocho años de prisión, sanción pecuniaria de sesenta a ciento sesenta días de salario mínimo y suspensión de derechos para conducir vehículos por el doble de tiempo de la pena de prisión impuesta, sin perjuicio de las penas que correspondan si comete otro delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -3849,7 +3847,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE JUNIO DE 2002.
 
@@ -4031,7 +4029,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 11 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 338, POR EL QUE SE REFORMA LA FRACCION II DEL ARTICULO 257 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 338, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 257 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4039,7 +4037,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 11 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 339, POR EL QUE SE REFORMA EL ARTICULO 194 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 339, POR EL QUE SE REFORMA EL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4047,7 +4045,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 11 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 340, POR EL QUE SE REFORMA EL PARRAFO TERCERO DEL ARTICULO 27 DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 340, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4103,23 +4101,25 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
-DECRETO 704 POR EL QUE SE REFORMA LA DENOMINACION DEL CAPITULO V DEL TITULO SEGUNDO DE LA PARTE ESPECIAL; LOS ARTICULOS, 137, 138, 139, 140; Y SE ADICIONA EL ARTICULO 140 BIS, DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
-
 P.O. 30 DE JULIO DE 2011.
+
+DECRETO NÚMERO 704 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO V DEL TÍTULO SEGUNDO DE LA PARTE ESPECIAL; LOS ARTÍCULOS, 137, 138, 139, 140; Y SE ADICIONA EL ARTÍCULO 140 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-DECRETO 705 POR EL QUE SE ADICIONA AL TITULO SEGUNDO DE LA PARTE ESPECIAL EL CAPITULO XII DENOMINADO USO ILICITO DE EQUIPOS DE RADIOCOMUNICACION, Y EL ARTICULO 147 TER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
-
 P.O. 30 DE JULIO DE 2011.
+
+DECRETO NÚMERO 705 POR EL QUE SE ADICIONA AL TÍTULO SEGUNDO DE LA PARTE ESPECIAL EL CAPÍTULO XII DENOMINADO USO ILÍCITO DE EQUIPOS DE RADIOCOMUNICACIÓN, Y EL ARTÍCULO 147 TER, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-DECRETO 708 POR EL QUE SE REFORMA LOS ARTICULOS, 225 EN SU PARRAFO SEGUNDO, Y 226, DEL CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI.
+P.O. 30 DE JULIO DE 2011.
+
+DECRETO NÚMERO 708 POR EL QUE SE REFORMA LOS ARTÍCULOS, 225 EN SU PÁRRAFO SEGUNDO, Y 226, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
 P.O. 30 DE JULIO DE 2011.
 
