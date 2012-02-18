@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-ministerio-publico-para-el-estado-de-colima-11
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-04"
-last_updated: "2011-11-07"
+last_updated: "2012-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL MINISTERIO PUBLICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 4 de octubre de 1997.
 
@@ -1157,7 +1157,9 @@ Se empleará el mismo procedimiento para obtener la declaración del inculpado s
 
 II.- La descripción pormenorizada de lo que haya sido objeto de inspección ocular;
 
-III.- El estado físico y demás particularidades que se observen en las personas que hubiesen intervenido en los hechos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2012)</small>
+
+III.- El estado físico y demás particularidades que se observen en las personas que hubiesen intervenido en los hechos; incluyendo cuando se advierta que una de las partes es persona indígena o extranjera que no hable o no entienda suficientemente el idioma español, la designación de un traductor que le hará saber los derechos que como ofendido, víctima o imputado consigna en su favor el artículo 20 de la Constitución Política de los Estados Unidos mexicanos, y a su vez, deberá ser asistido en todos los actos procedimentales subsecuentes en los que intervenga, apoyando en la correcta comunicación que haya de tener con su defensor o representante legal, lo cual se deberá asentar en el acta respectiva.
 
 IV.- Las características de los objetos e instrumentos del delito;
 
@@ -1244,3 +1246,7 @@ TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en
 CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
+
+P.O. 18 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
