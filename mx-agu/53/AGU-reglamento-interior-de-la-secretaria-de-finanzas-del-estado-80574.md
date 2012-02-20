@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-04"
-last_updated: "2011-04-04"
+last_updated: "2012-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE FEBRERO DE 2012.</small>
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2011.
 
@@ -1101,12 +1101,20 @@ TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas, public
 
 Dado en Palacio de Gobierno, sede del Poder Ejecutivo, en el Municipio de Aguascalientes, capital del Estado de Aguascalientes, a los 30 días del mes de Marzo de 2011.
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES,
 
 Ing. Carlos Lozano de la Torre.
 
+> <small>(F. DE E., P.O. 20 DE FEBRERO DE 2012)</small>
+
 EL JEFE DE GABINETE,
 
 Lic. Antonio Javier Aguilera García.
+
+EL SUBSECRETARIO DE EGRESOS,
+
+Lic. José Alejandro Díaz Lozano.
+
+En Suplencia por Ausencia del Secretario de Finanzas con fundamento en el artículo 22 de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes y 24 del Reglamento Interior de la Secretaría de Finanzas.
