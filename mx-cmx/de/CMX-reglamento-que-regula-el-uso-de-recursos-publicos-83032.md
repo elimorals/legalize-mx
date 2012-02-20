@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-regula-el-uso-de-recursos-publicos-83032"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-29"
-last_updated: "2011-09-29"
+last_updated: "2012-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83032&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-09-21"
 
 REGLAMENTO QUE REGULA EL USO DE RECURSOS PUBLICOS, PROPAGANDA INSTITUCIONAL Y GUBERNAMENTAL, ASI COMO LOS ACTOS ANTICIPADOS DE PRECAMPAÑA Y DE CAMPAÑA, PARA LOS PROCESOS ELECTORALES ORDINARIOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de septiembre de 2011.
 
@@ -452,7 +452,9 @@ C) En cuanto a los términos:
 
 I. Actos de precampaña: Aquellos que se llevan a cabo por aspirantes a candidatos o precandidatos, o cualquier persona, dentro de un proceso de selección interna de candidatos, de acuerdo con la convocatoria y con la normativa interna de cada partido político, y que tienen por objeto promover, publicitar o apoyar a través de reuniones públicas, debates, asambleas, visitas, marchas, entre otros, la aspiración de una persona para ser postulada como candidato de algún cargo de elección popular;
 
-II. Actos anticipados de precampaña: Aquellos que se lleven a cabo por aspirantes a candidatos o precandidatos o cualquier persona, que tengan por objeto promover, publicitar o apoyar la aspiración de una persona, para ser postulada como candidato a un cargo de elección popular y que se realicen en cualquier momento previo al inicio de las precampañas electorales de los partidos políticos, incluso dentro del proceso de selección interna de candidatos.
+> <small>(REFORMADO PRIMER PÁRRAFO DE LA FRACCIÓN, G.O. 20 DE FEBRERO DE 2012)</small>
+
+II. Actos anticipados de precampaña: Aquellos que se lleven a cabo por aspirantes a candidatos o precandidatos o cualquier persona, que tengan por objeto promover, publicitar o apoyar la aspiración de una persona, para ser postulada como candidato a un cargo de elección popular y que se realicen en cualquier momento previo al inicio de las precampañas electorales de los partidos políticos.
 
 La promoción, publicación y apoyo a que se refiere esta fracción podrá darse a través de cualquiera de los elementos contenidos en la definición de propaganda electoral a que se refiere este Reglamento;
 
@@ -552,7 +554,9 @@ I. Se condicione la provisión de servicios, la entrega de recursos provenientes
 
 II. Se recoja la credencial de elector, sin causa prevista por ley, o amenace con ello, a cambio de la entrega o el mantenimiento de bienes o servicios en general;
 
-III. Se promueva el voto a favor o en contra de algún precandidato, candidato, partido político o coalición en horas y días hábiles;
+> <small>(REFORMADA, G.O. 20 DE FEBRERO DE 2012)</small>
+
+III. Se promueva con recursos públicos el voto a favor o en contra de algún precandidato, candidato, partido político o coalición;
 
 IV. Se entreguen recursos públicos con elementos o símbolos distintivos que conlleven la promoción del voto a favor o en contra de un determinado partido político, coalición, precandidato o candidato;
 
@@ -604,13 +608,7 @@ IV. Se trate de un mensaje inexcusable e incluso necesario, del gobernante hacia
 
 ###### Artículo 14.
 
-El informe anual de labores o gestión de los servidores públicos, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, no serán considerados como propaganda institucional y gubernamental, siempre que la difusión se limite a una vez al año en estaciones y canales con cobertura regional correspondiente al ámbito geográfico de responsabilidad del servidor público y no exceda de los siete días anteriores y cinco posteriores a la fecha en que se rinda el informe. En ningún caso la difusión de tales informes podrá tener fines electorales, ni realizarse dentro del período de campaña electoral.
-
-La propaganda de los informes legislativos deberá atender lo siguiente:
-
-I. Que la contratación de los mecanismos de difusión se realice a través del ente público obligado a rendir cuentas a la ciudadanía y con los recursos presupuestalmente asignados para ello, y
-
-II. Que el contenido esté orientado a dar a conocer a la ciudadanía el desempeño de la actividad o logros propios de la responsabilidad del cargo que se ejerce.
+(DEROGADO, G.O. 20 DE FEBRERO DE 2012)
 
 ###### Artículo 15.
 
@@ -721,3 +719,21 @@ SEGUNDO. Se abroga el Reglamento por el que se determinan criterios sobre imparc
 TERCERO. Se derogan las disposiciones que se opongan al presente Reglamento.
 
 CUARTO. Remítase para su publicación dentro del plazo de tres días hábiles a la Gaceta Oficial del Distrito Federal, así como en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 20 DE FEBRERO DE 2012.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO. Se aprueban las modificaciones a los artículos 2, inciso C), fracción II; 9, fracción III; y 14 del Reglamento que regula el uso de recursos públicos, propaganda institucional y gubernamental, así como los actos anticipados de precampaña y de campaña, para los procesos electorales ordinarios del Distrito Federal, aprobado en los términos señalados en el Considerando 24.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo para que dentro del plazo de las veinticuatro horas siguientes a la aprobación del presente Acuerdo, informe al Tribunal Electoral del Distrito Federal sobre el cumplimiento dado a la sentencia emitida el seis de febrero del dos mil doce respecto del juicio electoral identificado con el número de expediente TEDF-JEL-043/2011.
+
+TERCERO. Se instruye al Secretario Ejecutivo para que notifique a los partidos políticos, dentro de los tres días siguientes a la aprobación y entrada en vigor de las modificaciones a los artículos 2, inciso C), fracción II; 9, fracción III y 14 del Reglamento que regula el uso de recursos públicos, propaganda institucional y gubernamental, así como los actos anticipados de precampaña y de campaña, para los procesos electorales ordinarios del Distrito Federal; para que a su vez, lo comuniquen y difundan entre sus adherentes, simpatizantes, militantes y demás miembros que ocupen un cargo público.
+
+CUARTO. Se instruye al Secretario Ejecutivo para que dentro del plazo de tres días hábiles remita el presente Acuerdo para su publicación a la Gaceta Oficial del Distrito Federal, y realice ésta en los estrados del Instituto y en los de sus cuarenta sedes Distritales, así como en su portal en Internet: http://www.iedf.org.mx.
+
+QUINTO. Se instruye a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que dentro de los tres días hábiles siguientes a la aprobación de este Acuerdo, realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio www.iedf.org.mx
+
+SEXTO. El presente Acuerdo entrará en vigor al momento de su aprobación por el Consejo General.
