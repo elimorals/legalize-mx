@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-centros-de-desarrollo-infantil-del-82965"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2012-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82965&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2011-09-08"
 
 REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LOS CENTROS DE DESARROLLO INFANTIL DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 20 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 28 de septiembre de 2011.
 
@@ -573,3 +575,13 @@ EL SECRETARIO GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 (Firma)
 
 LIC. ALFREDO ÁLVAREZ CÁRDENAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 20 DE FEBRERO DE 2012.
+
+Artículo Primero.- El presente Acuerdo surtirá sus efectos a partir del día siguiente al de su publicación en el Boletín Judicial del Tribunal. Por otra parte publíquese por una sola vez en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo.- El presente Acuerdo abroga el Reglamento anterior y todas aquellas disposiciones administrativas internas relativas al funcionamiento de los CENDIS que se opongan a este ordenamiento normativo.
+
+Artículo Tercero.- La Coordinación de Comunicación Social diseñará e imprimará (sic) para su distribución entre los padres de los menores usuarios del servicio, un cuadernillo que contenga el presente ordenamiento.
