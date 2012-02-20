@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2012-01-02"
+last_updated: "2012-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -887,6 +887,8 @@ Los Planes de Desarrollo Municipal, deberán incluir programas de acción tendie
 
 #### SECCIÓN II. DE LA INSTALACIÓN DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 46.
 
 Los Ayuntamientos estarán integrados por un Presidente Municipal, Regidores y Síndico, que por elección popular directa sean designados de acuerdo a la planilla que haya obtenido el mayor número de votos. El número de Regidores para cada Ayuntamiento se establecerá conforme a las bases siguientes:
@@ -949,7 +951,7 @@ VIII.- Los que sean proveedores o prestadores de servicios directos o indirectos
 
 ###### ARTÍCULO 50.
 
-Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes el día quince de febrero del año siguiente al de las elecciones ordinarias.
+Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes el día quince de octubre del año de las elecciones ordinarias.
 
 ###### ARTÍCULO 51.
 
@@ -3486,3 +3488,21 @@ P.O. 2 DE ENERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2012.
+
+PRIMERO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El nuevo esquema de fiscalización comenzará a operar a partir del primero de enero de dos mil doce. El Consejo General aprobará las reglas pertinentes para su adecuada aplicación.
+
+TERCERO.- El Consejero Presidente y los Consejeros Electorales que sean designados en octubre de dos mil doce durarán en su encargo hasta el mes de octubre de dos mil diecinueve.
+
+CUARTO.- El Consejo General conformará dentro del plazo de noventa días posteriores a la publicación de la presente reforma, la Comisión de Quejas y Denuncias a que se refiere el artículo 392 Bis del presente Código, así como para formular el reglamento correspondiente de dicha instancia. En el reglamento se contemplará también el funcionamiento de la Comisión.
+
+QUINTO.- Los asuntos no contemplados en los presentes transitorios vinculados con asuntos administrativos, de quejas y denuncias o de fiscalización en materia electoral y que competan al Instituto, serán resueltos por Acuerdos del Pleno del Consejo General.
+
+SEXTO.- El Consejo General del Instituto nombrará al Secretario Ejecutivo, al Titular de la Unidad de Fiscalización y al Titular de la Dirección Jurídica, dentro del plazo de noventa días posteriores a la entrada en vigor de la presente reforma.
+
+Los Servidores Públicos que a la fecha de publicación de este Decreto realicen las funciones de Secretario General, de Director General y de Titular de la Unidad Jurídica del Instituto, en un plazo no mayor a cinco días hábiles a partir de la entrada en vigor del presente, deberán hacer entrega a la instancia que determine el Consejo General del Instituto, de todos los recursos patrimoniales que hayan tenido a su disposición, así como los documentos y asuntos relacionados con sus funciones. Para tal efecto, el Consejero Presidente del Consejo General instrumentará las medidas necesarias respectivas conforme a la legislación aplicable.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
