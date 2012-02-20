@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2012-01-09"
+last_updated: "2012-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE AGUASCALIENTES, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE AGUASCALIENTES
+CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -201,7 +201,7 @@ Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y v
 
 ### CAPÍTULO I. De las Autoridades Municipales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 14.
 
@@ -301,9 +301,13 @@ XXIX. Consejo que regula la venta de sustancia de efectos psicotrópicos.
 
 XXX. Comité de Actividades Musicales.
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+XXXI. Consejo para la Equidad Laboral.
+
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
-XXXI. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
+XXXII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer en las áreas que considere convenientes.
 
 ### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
@@ -1571,7 +1575,7 @@ X. Cubrir las actividades y eventos de la Presidencia Municipal mediante materia
 
 XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE ENERO DE 2011)</small>
 
 APARTADO CUARTO
 
@@ -2005,13 +2009,13 @@ XLIII. Dar seguimiento para que las dependencias cumplan en lo conducente, lo es
 
 XLIV. las demás que le señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2008)</small>
 
 APARTADO DÉCIMO SEGUNDO
 
 De la Secretaría de Desarrollo Social
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 111.
 
@@ -2203,7 +2207,7 @@ CAPITULO (SIC) DÉCIMO CUARTO
 
 De la Secretaría de Servicios Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 #### SECCIÓN PRIMERA. Programa de Formación Policíaca
 
@@ -2263,7 +2267,7 @@ XIX. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conduc
 
 XX. Fomentar a través de programas de educación ambiental la disminución en la generación de basura y residuos y cambio en patrones de consumo y producción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 APARTADO DÉCIMO QUINTO
 
@@ -2295,7 +2299,7 @@ IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva
 
 X. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2011)</small>
 
 APARTADO DÉCIMO SEXTO
 
@@ -2379,6 +2383,14 @@ II. La Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 III. Supletoriamente la Ley Federal del Trabajo.
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+IV. Código de Ética para la Administración Pública del Municipio de Aguascalientes
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+V. Reglamento Interior de Trabajo del Municipio de Aguascalientes
+
 ###### ARTÍCULO 116.
 
 Las disposiciones que contiene este capítulo son de observancia general y de carácter obligatorio para los trabajadores de base, de confianza, eventuales y para los funcionarios públicos.
@@ -2399,7 +2411,9 @@ III. Presentar solicitud, proporcionando los datos que le requiera el H. Ayuntam
 
 IV. Haber cumplido o estar cumpliendo con el servicio militar.
 
-V. Aprobar satisfactoriamente el examen médico que designe el H. Ayuntamiento.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+V. Aprobar satisfactoriamente el examen médico que designe el H. Ayuntamiento, quedando estrictamente prohibido solicitar el examen de no gravidez y de VIH- Sida como requisitos para la contratación del personal.
 
 VI. No tener antecedentes penales por delito doloso.
 
@@ -2467,9 +2481,11 @@ Para prevenir los accidentes de trabajo y enfermedades profesionales los trabaja
 
 El salario es la retribución que debe de pagarse al trabajador a cambio de los servicios prestados. Su pago se hará quincenalmente, efectuándose los días 15 y 30 de cada mes, en el lugar de trabajo o en las instalaciones del propio Ayuntamiento, en moneda del curso legal, cheque nominativo o a través del sistema electrónico de pagos que establezca la Secretaría de Finanzas Públicas, teniendo la obligación de firmar los recibos de sueldos o cualquier documento que tenga el Ayuntamiento como comprobante del pago.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 130.
 
-El salario será uniforme para cada una de las categorías de los trabajadores de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, atendiendo a condiciones de sexo, edad, nacionalidad o estado civil.
+El salario será uniforme para cada una de las categorías de los trabajadores y trabajadoras de base de acuerdo al tabulador que establezca la Secretaría de Administración y será fijado legalmente en los presupuestos respectivos, no pudiendo ser menor, atendiendo a condiciones de sexo, edad, nacionalidad, estado civil, origen étnico o racial, género, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencia u orientación sexual o cualquier otra análoga.
 
 APARTADO TERCERO
 
@@ -2483,7 +2499,9 @@ I. Ejecutar el trabajo con honestidad, eficiencia, cuidado y esmero apropiado, e
 
 II. Sujetarse a las instrucciones recibidas de sus respectivos jefes para efectuar los trabajos que se le encomienden.
 
-III. A tratar con mutuo respeto a sus subordinados, superiores, compañeros de trabajo y público en general, absteniéndose de cualquier abuso, actitud prepotente, maltrato de palabra u obra y demás conductas que deterioren la imagen del H. Ayuntamiento.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+III. A tratar con mutuo respeto a sus subordinados, superiores, compañeros de trabajo y público en general, absteniéndose de cualquier abuso, actitud prepotente, maltrato de palabra u obra, así como a cualquier manifestación de violencia laboral, entendida ésta como prácticas, actitudes y acciones discriminatorias que atentan contra el principio de igualdad que se proyectan en la segregación ocupacional, el acoso laboral, el acoso y hostigamiento sexual, y demás conductas que deterioren la imagen del H. Ayuntamiento.
 
 IV. Dar buen uso a los muebles, inmuebles, materiales, máquinas y equipos que utilicen o que estén a su resguardo y dar aviso inmediato a su superior de cualquier falla o defecto que éstos presente (sic) a fin de que se reparen o repongan. La falta de este aviso al trabajador le será atribuible la responsabilidad.
 
@@ -2561,6 +2579,204 @@ III. Rescisión de la relación de trabajo.
 
 IV. Denunciar los hechos ante las autoridades competentes, en caso de que su conducta entrañe la comisión de algún ilícito.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2012)</small>
+
+APARTADO CUARTO BIS
+
+Del Consejo por la Equidad Laboral y la Comisión para la Erradicación de la Violencia Laboral
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Bis.
+
+El Consejo por la Equidad Laboral tiene por objeto establecer la coordinación entre las dependencias y entidades de la administración pública municipal, a fin de implementar políticas y acciones para prevenir y erradicar la violencia laboral, así como los principios y modalidades para garantizar su acceso a un espacio laboral libre de violencia que favorezca el desarrollo y bienestar conforme a los principios de igualdad y no discriminación que permitan un desarrollo integral en las funciones y actividades que se desarrollan dentro de la administración pública municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Ter.
+
+El Consejo por la Equidad Laboral tendrá como atribuciones las siguientes:
+
+I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de sus derechos fundamentales;
+
+II. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
+
+III. Fortalecer el marco laboral para asegurar la sanción a quienes hostigan y acosan;
+
+IV. Promover y difundir entre las trabajadoras y trabajadores que el hostigamiento y el acoso sexual son delitos;
+
+V. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores;
+
+VI. Establecer políticas y lineamientos en materia de equidad de género e igualdad laboral entre mujeres y hombres;
+
+VII. Garantizar la igualdad de oportunidades para mujeres y hombres dentro del ámbito laboral, mediante proyectos e instrumentos compensatorios como acciones afirmativas;
+
+VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral;
+
+IX. Fomentar que los procesos de contratación sean equitativos para mujeres y hombres;
+
+X. Impulsar liderazgos igualitarios dentro de la jerarquía laboral tanto para trabajadoras como trabajadores del Ayuntamiento;
+
+XI. Promover el desempeño de las dependencias y entidades de la administración pública municipal para que asuman el compromiso de prevenir y atender la violencia laboral;
+
+XII. Asegurar la optimización de recursos e instrumentos de todo tipo destinados para actuar en contra de la violencia laboral de conformidad con las disposiciones legales aplicables;
+
+XIII. Propiciar el establecimiento de vínculos institucionales para el intercambio de información con dependencias, organismos, entidades u otras instituciones nacionales e internacionales;
+
+XIV. Organizar seminarios, simposios, conferencias, cursos, diplomados y otros actos relacionados con temas de interés que le permitan la consecución de sus fines;
+
+XV. Cualquier otra que determine el H. Ayuntamiento del Municipio de Aguascalientes; y
+
+XVI. Las demás que de manera enunciativa y no limitativa comprendan y prevengan la violencia laboral.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Quáter.
+
+El Consejo por la Equidad Laboral estará integrado de la siguiente manera:
+
+I. Presidente(a) Municipal, quien fungirá como Presidente(a) del mismo;
+
+II. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género;
+
+III. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;
+
+IV. Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, quien fungirá como Secretario(a) Ejecutivo(a) del Consejo;
+
+V. Titular de la Oficina Ejecutiva de la Presidencia Municipal;
+
+VI. Titular de la Coordinación General de Observatorio Ciudadano de Transparencia y Gestión Municipal;
+
+VII. Presidente(a) del Comité Municipal para el Desarrollo Integral de la Familia;
+
+VIII. Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
+
+IX. Titular de la Coordinación General de Comunicación Social;
+
+X. Titular de la Contraloría Municipal;
+
+XI. Titular de la Secretaría de Finanzas;
+
+XII. Titular de la Secretaría de de (sic) Obras Publicas;
+
+XIII. Titular de la Secretaría de Administración;
+
+XIV. Titular de la Secretaría de Integración Social;
+
+XV. Titular de la Secretaría de Desarrollo Urbano;
+
+XVI. Titular de la Secretaría de Servicios Públicos;
+
+XVII. Titular de la Secretaría de Seguridad Pública;
+
+XVIII. Titular de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
+
+XIX. Titular del Instituto Municipal de la Mujer de Aguascalientes;
+
+XX. Titular de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes;
+
+XXI. Titular del Instituto Municipal de Planeación;
+
+XXII. Titular del Instituto Municipal Aguascalentense para la Cultura; y
+
+XXIII. Secretario General del Sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes (SUTEMA).
+
+Los integrantes del Consejo tendrán una representación exclusivamente honorífica y no podrán recibir compensación alguna por este motivo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Quinquies.
+
+Para la imposición de medidas disciplinarias relacionadas exclusivamente con la discriminación, violencia laboral, hostigamiento y acoso sexual, la Comisión para la Erradicación de la Violencia Laboral será la facultada para conocer y determinar los alcances de la sanción, no sin antes escuchar en defensa al trabajador y trabajadora.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Sexies.
+
+Para la interpretación, vigilancia y aplicación del Apartado Cuarto Bis del Título Tercero de la Normatividad Interna Municipal, se crea la Comisión para la Erradicación de la Violencia Laboral, la cual estará integrada de la siguiente manera:
+
+I. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género, quien fungirá como Presidente(a) de la misma;
+
+II. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;
+
+III. El Síndico(a) Procurador;
+
+IV. Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+V. Titular de Secretaría de Administración;
+
+VI. Director(a) de Recursos Humanos de la Secretaría de Administración, quien fungirá como Secretario(a) Ejecutivo(a) de la Comisión;
+
+VII. Titular del Instituto Municipal de la Mujer de Aguascalientes;
+
+VIII. Titular de la Contraloría Municipal;
+
+IX. Secretario(a) General del Sindicato Único de Trabajadores al Servicio de los Gobiernos del Estado y sus Municipios (SUTEMA);
+
+X. Director(a) de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno; y
+
+XI. Tres integrantes (trabajadoras y trabajadores) que representen a la plantilla laboral del Municipio, electos a través de un mecanismo de insaculación apegado a las necesidades de la Comisión.
+
+El (La) Presidente(a) de la Comisión contará con voz y voto de calidad; el Representante de la Contraloría Municipal, el Secretario Ejecutivo y el (la) Director(a) de Asuntos Jurídicos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno solamente contarán con voz; y los demás integrantes de la Comisión contarán con voz y voto.
+
+También serán integrantes eventuales de la Comisión los Jefes Inmediatos de las servidoras y servidores públicos sujetos al proceso de aplicación de sanciones, teniendo exclusivamente el derecho a voz.
+
+Los integrantes de la Comisión tendrán una representación exclusivamente honorífica y no podrán recibir compensación alguna por este motivo.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 138 Septis.- La Comisión tendrá las siguientes funciones:
+
+I. Resolver las denuncias que se planteen ante ella por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes;
+
+II. Emitir los criterios y lineamientos para la imposición de las medidas disciplinarias correspondientes;
+
+III. Dar respuesta a las consultas que les formulen las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes;
+
+IV. Dar a conocer a las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes, los valores, principios y virtudes contenidas en el presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes y el Reglamento Interior de Trabajo del Municipio de Aguascalientes;
+
+V. Promover en las servidoras y servidores públicos la identificación con los valores, principios y virtudes, así como la conciencia colectiva y la reflexión personal sobre la importancia de aplicar la ética en el desempeño cotidiano de las labores sobre los diversos aspectos de la función que desempeñan;
+
+VI. Establecer un proceso para la prevención, atención y sanción de casos de discriminación, violencia laboral, así como de hostigamiento y acoso sexual, que incluya tiempos de respuesta a quejas y denuncias;
+
+VII. Establecer mecanismos que favorezcan la erradicación de la discriminación, la violencia laboral, el acoso y hostigamiento sexual en centros laborales del Municipio, mediante acuerdos y convenios con instituciones, organizaciones civiles y sindicatos;
+
+VIII. Crear procedimientos administrativos claros y precisos en los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
+
+IX. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar el trabajo;
+
+X. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre la misma persona que hostiga o acosa, guardando públicamente el anonimato de la o las personas quejosas;
+
+XI. Proporcionar atención psicológica y legal especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual;
+
+XII. Sancionar administrativamente a los superiores jerárquicos cuando tengan conocimiento de la existencia de algún hostigamiento o acoso sexual y sean omisos en recibir y/o dar curso a una queja;
+
+XIII. A la servidora o servidor público que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica derivada de sus relaciones laborales, se le impondrá las sanciones que establezcan los ordenamientos legales aplicables;
+
+XIV. Generar un programa de quejas que garantice la confidencialidad de los casos; y
+
+XV. Cualquier otra que determine el H. Ayuntamiento del Municipio de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Octies.
+
+Para los efectos de la fracción V del artículo anterior se entiende por:
+
+a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o psicológicas, relacionadas con la sexualidad de connotación lasciva. El hostigamiento sexual incluye provocaciones, insinuaciones o invitaciones, pero de manera reiterada, lo que implica que un acto aislado no es considerado en la definición.
+
+b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 138 Novies.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+
+###### ARTÍCULO 138 Decies.
+
+Conocida la denuncia o la vista de acta administrativa, la Comisión dará derecho de audiencia al o los probables infractores, y procederá a determinar si existió o no la falta, en su caso, dictando las medidas disciplinarias establecidas en el artículo 138 del presente Código, resolución que remitirá a la Dirección de Recursos Humanos de la Secretaría de Administración para su ejecución.
+
 APARTADO QUINTO
 
 Obligaciones del Municipio hacia sus Trabajadores
@@ -2573,9 +2789,13 @@ I. Pagar los salarios pactados y prestaciones a que tienen derecho.
 
 II. Proporcionar los útiles, instrumentos, materiales y equipo de trabajo para la ejecución eficiente de su trabajo contratado.
 
-III. Tener a los trabajadores la debida consideración, absteniéndose de mal trato de palabra y obra.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
-IV. Conceder los mismos derechos independientemente de su sexo, religión, raza, condición social o política.
+III. Tener a los trabajadores la debida consideración, absteniéndose de mal trato de palabra y obra. Impedir la inequidad del pago salarial, el examen de no gravidez, el despido por embarazo, así como por preferencia u orientación sexual, por condición de salud y cualquier otro tipo de maltrato psíquico, social, económico, físico y sexual. Los mismos se consideran como actos u omisiones que dañan la autoestima, la integridad, la libertad y la dignidad de las personas; por lo que es imprescindible, informar, prevenir, sancionar y erradicar la discriminación y violencia laboral y en general las violencias existentes entre las trabajadoras y trabajadores del Municipio sin importar la relación jerárquica;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+IV. Conceder los mismos derechos independientemente de su sexo, religión, raza, condición económica, social o política, origen étnico o racial, género, edad, discapacidad, condiciones de salud, embarazo, lengua, religión, opiniones, preferencia u orientación sexual, estado civil o cualquier otra análoga;
 
 V. Conceder el tiempo necesario para el ejercicio del voto en elecciones populares.
 
@@ -2583,7 +2803,19 @@ VI. Proporcionar capacitación y adiestramiento de conformidad a las necesidades
 
 VII. Adoptar las medidas de higiene y seguridad previstas por las leyes de la materia.
 
-VIII. Las demás establecidas y que le imponen las leyes y reglamentos de la materia.
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+VIII. Adoptar medidas para informar, atender y sancionar la discriminación, la violencia laboral, el acoso y hostigamiento sexual;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+IX. Adoptar criterios de equidad de género que se vean reflejados en la igualdad laboral y no discriminación previstas por las leyes de la materia;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
+X. Adoptar modelos de trabajo que involucren la utilización de los avances electrónicos y tecnológicos que abonen a la conciliación entre la vida familiar y laboral; y
+
+XI. Las demás establecidas y que le imponen las leyes y reglamentos en la materia.
 
 ###### ARTÍCULO 140.
 
@@ -4085,13 +4317,13 @@ El encargado del depósito de pertenencias tendrá bajo su más estricta respons
 
 Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto motivo de la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del Juez Municipal para que proceda a su remisión, mediante oficio, a la autoridad competente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 APARTADO QUINTO
 
 De los Jueces Municipales adscritos a Tránsito y Movilidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 306.
 
@@ -4105,7 +4337,7 @@ En el caso de la multa, el monto de la misma será establecido por la Secretarí
 
 Para ingresar al cuerpo de Jueces Municipales adscritos a Tránsito y Movilidad, se deberán de cumplir los requisitos a que se refiere el artículo 297 del presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 308.
 
@@ -4121,11 +4353,11 @@ En caso de ser procedente la imposición de la multa, la calificará conforme la
 
 Para calificación, reclasificación y reconsideración de las multas de tránsito, el Juez Municipal de Tránsito y Movilidad, deberá tomar en cuenta lo dispuesto en el artículo 21 Constitucional.
 
-> <small>N. DE E. DEROGADO TERCER PARRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
+> <small>N. DE E. DEROGADO TERCER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
 
-> <small>N. DE E. DEROGADO CUARTO PARRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
+> <small>N. DE E. DEROGADO CUARTO PÁRRAFO, P.O. 8 DE AGOSTO DE 2011.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 310.
 
@@ -4343,7 +4575,7 @@ Si el detenido no puede o no sabe leer o escribir, plasmará en el recibo de inv
 
 El receptor de detenidos entregará la documentación necesaria al Juez Municipal en turno a efecto de imponer las sanciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTÍCULO 324.
 
@@ -5697,7 +5929,7 @@ En el camellón de las avenidas sólo deberá plantarse de una a tres especies, 
 
 La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos, para lo cual deberá consultarse el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 485.
 
@@ -5743,7 +5975,7 @@ II. Fomentar la participación de los vecinos en el cuidado y creación de área
 
 III. Informar a las autoridades municipales, o en su caso a las estatales y/o federales sobre cualquier uso inadecuado o daño a las áreas verdes, proporcionando los datos de las personas, vehículos o cualquier otro agente que atente contra dichas áreas verdes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO V. Reglamento de Colombofilia y Colombicultura
 
@@ -5805,7 +6037,7 @@ XIII. El Municipio de Aguascalientes, a través de la Coordinación General de V
 
 XIV. Para toda violación a las disposiciones municipales previstas en el presente Reglamento, se aplicará un apercibimiento al infractor para que dé cumplimiento a las mismas; en caso de hacer caso omiso al mismo, se le sancionará de acuerdo al CAPITULO I, De las Sanciones en Materia de Servicios Públicos, del ARTÍCULO 1574, GRUPO UNO, inciso h).
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 491
 
@@ -6017,7 +6249,7 @@ III.- Promover y establecer la entrega de premios y reconocimientos a quienes re
 
 IV.- Las demás atribuciones que para el cumplimiento de los fines que en materia ambiental señale el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 493.
 
@@ -6145,7 +6377,7 @@ IX. La disponibilidad de territorio, el uso del suelo señalado en el ordenamien
 
 ### CAPÍTULO III. De la Prevención y Control de la Contaminación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 499.
 
@@ -6175,7 +6407,7 @@ Los programas de manejo y operación integral de las áreas naturales protegidas
 
 Las áreas naturales protegidas municipales a que se refiere el artículo anterior se establecerán mediante declaratoria que expida el H. Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 503.
 
@@ -6249,13 +6481,13 @@ X. Proponer a través de la Secretaría de Medio Ambiente y Desarrollo Sustentab
 
 La emisión de contaminantes a la atmósfera no deberá exceder los niveles máximos permisibles que establece la normatividad vigente, por lo que será materia de aplicación de una sanción cuando se produzca, expela, descargue o emita contaminantes que alteren la atmósfera o que puedan provocar degradación o molestias en perjuicio de la salud humana, la flora, fauna y en general los ecosistemas del municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 506.
 
 Se prohíbe y será materia de sanción el realizar quemas al aire libre de cualquier material o residuo, sólido o líquido, sin autorización previa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 Cuando se pretenda realizar cualquier tipo de quema, deberá de solicitar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, la autorización por escrito que deberá contener la siguiente información:
 
@@ -6311,7 +6543,7 @@ V.- Realizar un programa de operación y mantenimiento de equipos y procesos que
 
 VI.- Avisar de inmediato a la Secretaría de Medio Ambiente y Desarrollo Sustentable en caso de falla del equipo de control, para que ésta determine lo conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 509.
 
@@ -6345,7 +6577,7 @@ XI. Programa de operación y mantenimiento de equipos y procesos.
 
 La Secretaría de Medio Ambiente y Desarrollo Sustentable, una vez presentada la solicitud e integrado el expediente completo, deberá emitir en un plazo de veinte días hábiles su resolución fundada y motivada, en la que autorice o niegue el permiso ambiental de funcionamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 511.
 
@@ -6363,7 +6595,7 @@ IV. Las medidas y acciones que deberán llevar se a cabo en el caso de una conti
 
 V. Los equipos y el programa de reducción de emisiones contaminantes a la atmósfera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 512.
 
@@ -6521,7 +6753,7 @@ IV.- Denunciar ante la Procuraduría Federal de Protección al Ambiente y/o la P
 
 V.- Apoyar a la Secretaría de Medio Ambiente y Recursos Naturales en la elaboración y/o actualización del inventario de las especies de flora y fauna silvestre y acuática existente en el municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTÍCULO 533.
 
@@ -6707,15 +6939,15 @@ VII. Desaparecer o extinguirse los actos, hechos u omisiones materia de la denun
 
 2.- La Secretaría del Medio Ambiente y Desarrollo Sustentable en su estricto ámbito de competencia determinará e impondrá las medidas de seguridad que estime convenientes, para evitar la contaminación del ambiente en cualquiera de los rubros que señala el presente ordenamiento.
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL EL LIBRO QUINTO DEL CODIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL EL LIBRO QUINTO DEL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 # LIBRO QUINTO. DE LA SEGURIDAD PÚBLICA EN EL MUNICIPIO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ### CAPÍTULO II. Estructura Orgánica y Atribuciones
 
@@ -7211,7 +7443,7 @@ A los niveles jerárquicos correspondientes a la escala básica y de oficiales, 
 
 Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido previamente certificado y registrado en el Sistema Nacional de Seguridad Pública, de acuerdo a las disposiciones que se emitan para tal efecto. La contravención a lo dispuesto en este artículo, será sancionado en los términos que las disposiciones normativas aplicables señalen.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO SEGUNDO. DE LAS DISPOSICIONES COMUNES PARA LOS INTEGRANTES OPERATIVOS DE LA SECRETARÍA
 
@@ -7603,7 +7835,7 @@ Son faltas leves por las que podrán ser sancionados los integrantes operativos,
 
 Las sanciones de amonestación y arresto, a que se refiere este artículo serán impuestas y ejecutadas por los Directores, Coordinadores y Jefes Operativos a sus subordinados.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO TERCERO. DEL SISTEMA INTEGRAL DE DESARROLLO POLICIAL
 
@@ -7973,7 +8205,7 @@ La Secretaría de Seguridad Pública elaborará anualmente una propuesta de Prog
 
 En ningún caso, se otorgarán prestaciones Complementarias de Seguridad Social inferiores a las del año inmediato anterior.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ## TÍTULO CUARTO. DE LAS COMISIONES
 
@@ -8483,7 +8715,7 @@ V. El Jefe del Departamento de Emergencias 080.
 
 Con el objetivo de que el Servicio de Emergencia 080 proporcione a la ciudadanía sus servicios, el personal laborará los 365 días del año las 24 horas, conforme al rol de turno que determine la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 628.
 
@@ -12135,15 +12367,15 @@ Las áreas destinadas a andadores, deberán estar libres de los estorbos que pue
 
 ###### ARTÍCULO 807.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 808.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 809.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 810.
 
@@ -12151,15 +12383,15 @@ Los estacionamientos tendrán áreas de espera techadas para la recepción y ent
 
 ###### ARTÍCULO 811.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 812.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 813.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 814.
 
@@ -12227,19 +12459,19 @@ Los estacionamientos deberán tener ventilación natural por medio de vanos con 
 
 ###### ARTÍCULO 819.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 820.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 821.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 822.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 823.
 
@@ -12253,11 +12485,11 @@ Los requerimientos mínimos en materia de cajones de estacionamiento son los sig
 
 ###### ARTÍCULO 824.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 825.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ### CAPÍTULO XXIV. Cementerios
 
@@ -16645,7 +16877,7 @@ Los permisos y licencias que se otorguen al amparo de este capítulo, son de car
 
 De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 1303.
 
@@ -17509,7 +17741,7 @@ II. Con base en lo anterior, determinar en sus áreas de influencia, los espacio
 
 III. Ampliar, reducir, modificar o reubicar las áreas para el ejercicio de la actividad comercial en vía pública, en sus áreas de influencia, en coordinación con la Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 D. La Secretaría de Seguridad Pública, a través de sus integrantes operativos en activo:
 
@@ -17827,19 +18059,19 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 ###### ARTÍCULO 1401.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 1402.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTÍCULO 1403.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 ###### ARTICULO 1404.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES, P.O. 12 DE ENERO DE 2009)
 
 # LIBRO OCTAVO. DE LOS ESPECTÁCULOS TAURINOS Y DEPORTIVOS
 
@@ -19053,7 +19285,7 @@ La persona responsable, propietaria o quien se encuentre en el lugar en el que h
 
 No se requerirá orden escrita de verificación, cuando los verificadores detecten actividades contrarias al presente Código en el momento de estarse consumando éstas o pongan en peligro la seguridad de las personas, sus bienes o derechos. En este caso levantará el acta respectiva, se tomarán las medidas de seguridad que al caso correspondan y se turnará el asunto a la autoridad que corresponda, para su calificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1546.
 
@@ -19471,19 +19703,19 @@ IV.- Suspensión de actividades y revocación de los permisos, licencias o autor
 
 ###### ARTÍCULO 1575.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1576.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1577.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1578.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
 
 ###### ARTÍCULO 1579.
 
@@ -19945,7 +20177,7 @@ En cumplimiento a lo ordenado por el Presidente Municipal de Aguascalientes, con
 
 El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabriel Ochoa Amador.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE FEBRERO DE 2008.
 
@@ -19959,7 +20191,7 @@ La Dirección de Estado Mayor de la Secretaría de Seguridad Pública y Tránsit
 
 P.O. 3 DE MARZO DE 2008.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 14, 98 Y 105 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 14, 98 Y 105 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTICULO PRIMERO.
 
@@ -19979,7 +20211,7 @@ Lo anterior para el conocimiento de la ciudadanía.
 
 P.O. 3 DE MARZO DE 2008.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 162 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 162 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -19989,7 +20221,7 @@ Lo anterior para el conocimiento de la ciudadanía.
 
 P.O. 3 DE MARZO DE 2008.
 
-DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 98, 99, 111 Y 537 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN Y DEROGAN LOS ARTÍCULOS 98, 99, 111 Y 537 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20023,7 +20255,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 12 DE MAYO DE 2008.
 
-DECRETO QUE REFORMA LA FRACION VI DEL ARTICULO 1358 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO QUE REFORMA LA FRACIÓN VI DEL ARTÍCULO 1358 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20031,7 +20263,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 12 DE MAYO DE 2008.
 
-DECRETO QUE REFORMA EL ARTICULO 1322 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO QUE REFORMA EL ARTÍCULO 1322 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20045,7 +20277,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 21 DE JULIO DE 2008.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 23 Y ADICIONA EL ARTICULO 23 BIS AL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 23 Y ADICIONA EL ARTÍCULO 23 BIS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20053,7 +20285,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 21 DE JULIO DE 2008.
 
-DECRETO POR EL QUE SE REFORMA EL LA FRACCION XIX DEL ARTICULO 1107 Y EL ARTICULO 1151 AL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL LA FRACCIÓN XIX DEL ARTÍCULO 1107 Y EL ARTÍCULO 1151 AL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO UNICO.
 
@@ -20075,7 +20307,7 @@ A partir de la entrada en vigor del presente Decreto, el personal y los recursos
 
 P.O. 3 DE NOVIEMBRE DE 2008.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 82 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20087,7 +20319,7 @@ A más tardar quince días después de la entrada en vigor del presente decreto,
 
 P.O. 3 DE NOVIEMBRE DE 2008.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 98, 107, 332, 553, 559, 570, 597, 601, 602, 603, 604, 605, 613, 614, 615, 616, 617, 618, 619, Y SE ADICIONAL LOS ARTICULOS 601 BIS, 605 BIS DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 98, 107, 332, 553, 559, 570, 597, 601, 602, 603, 604, 605, 613, 614, 615, 616, 617, 618, 619, Y SE ADICIONAL LOS ARTÍCULOS 601 BIS, 605 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20127,7 +20359,7 @@ El Secretario (sic) Administración, asignará los recursos materiales, humanos 
 
 P.O. 3 DE NOVIEMBRE DE 2008.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 298, 306, 320, 321, 324, Y 545, SE ADICIONAN LOS ARTICULOS 320 BIS, 320 TER Y 320 QUATER, SE DEROGA LA FRACCION XI DEL ARTICULO 343 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 298, 306, 320, 321, 324, Y 545, SE ADICIONAN LOS ARTÍCULOS 320 BIS, 320 TER Y 320 QUATER, SE DEROGA LA FRACCIÓN XI DEL ARTÍCULO 343 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20135,7 +20367,7 @@ El presente decreto entrará en vigor el día 16 de noviembre del año 2008.
 
 P.O. 5 DE ENERO DE 2009.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
 P.O. 12 DE ENERO DE 2009.
 
@@ -20169,7 +20401,7 @@ El Consejo Técnico Ciudadano de Salud del Municipio de Aguascalientes deberá q
 
 P.O. 13 DE JULIO DE 2009.
 
-DECRETO POR EL QUE SE REFORMA LA FRACCION XI DEL ARTICULO 98 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO UNICO.
 
@@ -20177,7 +20409,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 13 DE JULIO DE 2009.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 17 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 17 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20239,7 +20471,7 @@ El Secretario Técnico deberá emitir la convocatoria correspondiente para la de
 
 P.O. 21 DE SEPTIEMBRE DE 2009.
 
-DECRETO POR EL QUE SE MODIFICA LA FRACCION IX DEL ARTICULO 98 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN IX DEL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20263,7 +20495,7 @@ Las modificaciones a la fracción IX del artículo 98 del Código Municipal de A
 
 P.O. 21 DE SEPTIEMBRE DE 2009.
 
-DECRETO POR EL QUE SE EMITE EL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES.
+DECRETO POR EL QUE SE EMITE EL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20287,7 +20519,7 @@ Las modificaciones a la fracción IX del artículo 98 del Código Municipal de A
 
 P.O. 21 DE SEPTIEMBRE DE 2009.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 1335 Y 1335 BIS DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1335 Y 1335 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTICULO UNICO.
 
@@ -20311,7 +20543,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 11 DE ENERO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 604, 605, 605-BIS Y 620 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 604, 605, 605-BIS Y 620 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -20323,9 +20555,9 @@ Todas las infracciones cometidas por los elementos de seguridad pública, antes 
 
 P.O. 11 DE ENERO DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL 829 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL 829 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
 P.O. 22 DE FEBRERO DE 2010.
 
@@ -20335,11 +20567,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 8 DE MARZO DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
 P.O. 24 DE MAYO DE 2010.
 
-DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 162 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 162 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20347,7 +20579,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 24 DE MAYO DE 2010.
 
-DECRETO POR EL QUE SE MODIFICAN LOS ARTICULOS 340 Y 341 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE MODIFICAN LOS ARTÍCULOS 340 Y 341 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO 1°.
 
@@ -20361,7 +20593,7 @@ Con el presente decreto se adicionan al Artículo 340 las fracciones IX y X; tam
 
 P.O. 24 DE MAYO DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 1174 DEL CODIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1174 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20375,7 +20607,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 9 DE DICIEMBRE DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+> <small>N. DE E. EL DECRETO DEL CÓDIGO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES.</small>
 
 P.O. 31 DE ENERO DE 2011.
 
@@ -20470,3 +20702,21 @@ VI.- La Coordinación General de Verificación Única Administrativa, deberá im
 VII.- Dentro de los cuarenta y cinco días naturales siguientes a la publicación del presente Reglamento, la Coordinación General de Verificación Única Administrativa, publicará en el Periódico Oficial del Estado y en los periódicos de mayor circulación en el Municipio de Aguascalientes los datos de identificación y adscripción de los verificadores.
 
 VIII.- Las reformas y/o adiciones al Código Municipal de Aguascalientes relacionadas con la aplicación del presente Reglamento, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE FEBRERO DE 2012.
+
+PRIMERO.- Las presentes reformas, adiciones y modificaciones al Código Municipal de Aguascalientes entrarán en vigor el día hábil siguiente a su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- En cumplimiento a lo establecido por el artículo 33 del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipio (sic) y Organismos Descentralizados, el presente Reglamento Interior de Trabajo del Municipio de Aguascalientes entrará en vigor a partir de la fecha de su depósito en el Tribunal de Arbitraje.
+
+TERCERO.- Las funcionarias y funcionarios públicos integrantes del H. Ayuntamiento, los directores y directoras generales, las servidoras y servidores públicos cuya designación le corresponde al Presidente (a) Municipal y, en general, todo funcionario (a) o empleado (a) del H. Ayuntamiento, deberá observar, comunicar y dar a conocer las presentes reformas, adiciones y modificaciones al Código Municipal, y al Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+
+CUARTO.- Las reformas, modificaciones y adiciones al Reglamento Interior de Trabajo del Municipio de Aguascalientes deberán ser publicadas en el Periódico Oficial del Estado de Aguascalientes.
+
+QUINTO.- Se derogan todas las disposiciones que contravengan a las presentes reformas al Código Municipal de Aguascalientes.
+
+SEXTO.- Se abrogan aquellas disposiciones administrativas o normativas que se opongan al presente Reglamento Interior de Trabajo del Municipio de Aguascalientes, y que hubieren tenido aplicación dentro de la competencia municipal.
+
+SÉPTIMO.- El Consejo para la Equidad Laboral y la Comisión para la Erradicación de la Violencia Laboral deberán quedar debidamente instaladas dentro de los quince días hábiles siguientes a la entrada en vigor de las reformas, modificaciones y adiciones al Código Municipal de Aguascalientes y las reformas, modificaciones y adiciones al Reglamento Interior de Trabajo del Municipio de Aguascalientes.
+
+OCTAVO.- Dentro de los quince días hábiles siguientes a su instalación, la Comisión para la Erradicación de la Violencia Laboral deberá emitir los criterios y lineamientos procedimentales para la aplicación de las medidas disciplinarias correspondientes.
