@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge123-2011-de-la-junta-general-ejecutiva-del-84009"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-01"
-last_updated: "2012-01-11"
+last_updated: "2012-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84009&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -157,7 +157,7 @@ Jornada Electoral 01/07/2012
 
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 1 DE DICIEMBRE DE 2011, PÁGINAS DE LA 49 A LA 52.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 11 DE ENERO DE 2012, PÁGINAS DE LA 42 A LA 43.</small>
+> <small>N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 11 DE ENERO DE 2012, PÁGINAS DE LA 42 A LA 43; 21 DE FEBRERO DE 2012, PÁGINAS DE LA 91 A LA 96.</small>
 
 29. Que las Juntas Locales Ejecutivas son órganos permanentes, presididos por un vocal ejecutivo que será el responsable de la coordinación con las autoridades electorales de la entidad federativa que corresponda para el acceso a la radio y a la televisión de los partidos políticos en las campañas locales, así como de los institutos electorales, o equivalentes, de acuerdo con los artículos 135, numeral 1 y 136, numeral 1 del Código comicial.
 
@@ -186,5 +186,9 @@ El Consejero Presidente del Consejo General y Presidente de la Junta General Eje
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 11 DE ENERO DE 2012.
+
+EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 21 DE FEBRERO DE 2012.
 
 EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
