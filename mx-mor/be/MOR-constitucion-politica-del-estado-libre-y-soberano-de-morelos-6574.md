@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2012-02-08"
+last_updated: "2012-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -83,6 +83,10 @@ VI. La inobservancia a las disposiciones en materia de acceso a la información 
 VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el Instituto Morelense de Información Pública y Estadística.
 
 VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+Es derecho de todos los morelenses, acceder a la sociedad de la información y el conocimiento, como una política prioritaria del Estado, a fin de lograr una comunidad integrada y comunicada, en la que cada uno de los morelenses pueda tener acceso libre y universal al internet como un derecho fundamental para su pleno desarrollo, en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada a su crecimiento personal, que permita un claro impacto de beneficios en la educación, la salud, la seguridad, el desarrollo económico, el turismo, la transparencia, la cultura y los trámites gubernamentales.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -1532,7 +1536,11 @@ IV.- Nombrar, remover y conceder licencias a los servidores públicos, así como
 
 V.- Como responsable de la administración pública y de la hacienda pública, cuidar de la legal recaudación e inversión de los caudales públicos.
 
-VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2012)</small>
+
+VI.- Designar o nombrar a los Secretarios de Despacho y al Consejero Jurídico, en una proporción que no exceda el 70 por ciento para un mismo género.
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
@@ -2408,11 +2416,11 @@ En caso de retiro y retiro forzoso, les serán aplicables las disposiciones prev
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV.
+### CAPÍTULO III.
 
-DE LOS SERVICIOS QUE PRESTAN.
+DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2448,11 +2456,11 @@ La Ley Orgánica establecerá la organización, el funcionamiento, las atribucio
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPÍTULO III.
+### CAPITULO IV.
 
-DE SU NATURALEZA JURIDICA Y ATRIBUCIONES REGLAMENTARIAS.
+DE LOS SERVICIOS QUE PRESTAN.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 109
 
@@ -2476,9 +2484,9 @@ DEL MUNICIPIO LIBRE.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI.
+### CAPITULO VII.
 
-DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
+DE LOS REQUISITOS DE ELEGIBILIDAD.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2500,9 +2508,9 @@ La justicia de paz estará a cargo de los Jueces que señale la Ley Orgánica de
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VII.
+### CAPITULO V.
 
-DE LOS REQUISITOS DE ELEGIBILIDAD.
+DE SU HACIENDA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2528,9 +2536,9 @@ Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V.
+### CAPITULO VI.
 
-DE SU HACIENDA.
+DE SUS ATRIBUCIONES EN MATERIA DE USO DE SUELO.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2543,6 +2551,18 @@ La facultad ejecutiva del régimen jurídico municipal y de las resoluciones tom
 La ley determinará la competencia del Ayuntamiento en funciones de cabildo y las facultades expresas del Presidente Municipal.
 
 La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
+
+###### Artículo 114.
+
+Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VIII.
+
+DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 114
 
@@ -2571,18 +2591,6 @@ IX.- Los demás que la ley determine, según las condiciones territoriales y soc
 Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios del Estado y de otro o más Estados, deberán contar con la aprobación de las legislaturas correspondientes. Así mismo cuando a juicio del Ayuntamiento respectivo, sea necesario, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio, sujetándose también a la ley o leyes respectivas.
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO VIII.
-
-DE LAS FACULTADES DEL CONGRESO EN MATERIA DE ORGANIZACIÓN MUNICIPAL.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-###### Artículo 114.
-
-Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4143,3 +4151,29 @@ P.O. 8 DE FEBRERO DE 2012.
 PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
 
 SEGUNDO.- Aprobado que sea el presente Decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y OCHO POR EL QUE SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+TERCERO.- El Ejecutivo del Estado deberá destinar recursos en el presupuesto de egresos anual correspondiente, para dar cumplimiento de manera gradual y progresivamente a lo establecido en el presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo el presente decreto, para su publicación y promulgación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto iniciará su vigencia, 15 días después de su publicación.
+
+TERCERO.- Una vez entrada en vigor la presente disposición constitucional, el Congreso del Estado, tendrá un plazo de 60 días naturales, para realizar las reformas correspondientes a la Ley Orgánica de la Administración Pública del Estado de Morelos, a efecto de armonizar sus disposiciones con el texto constitucional.
+
+> <small>(ADICIONADO DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMA NÚMERO MIL SEISCIENTOS CUARENTA Y NUEVE, P.O. 22 DE FEBRERO DE 2012)</small>
+
+QUINTO (SIC).- Una vez entrada en vigor la presente disposición constitucional, el Congreso del Estado, tendrá un plazo de 60 días naturales, para realizar las reformas correspondientes a la Ley Orgánica de la Administración Pública del Estado de Morelos, a efecto de armonizar sus disposiciones con el texto constitucional.
