@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-23-2011-del-pleno-del-consejo-de-la-81728"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2012-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81728&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-13"
 
 ACUERDO GENERAL 23/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DE LOS JUZGADOS PRIMERO, SEGUNDO Y TERCERO DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS, EN TLALNEPANTLA DE BAZ, ESTADO DE MÉXICO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO ANTES REFERIDOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de junio de 2011.
 
@@ -51,7 +51,9 @@ ACUERDO
 
 PRIMERO. Los nuevos órganos jurisdiccionales se denominarán Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, con sede en la calle de Ignacio López Rayón, número 90, colonia Centro, en Tlalnepantla de Baz, Estado de México.
 
-SEGUNDO. Los Jueces de Distrito Especializados en Ejecución de Penas conocerán de la función jurisdiccional de ejecución penal que comprende el conocimiento, trámite y decisión de las cuestiones relativas a la aplicación, modificación y duración de las penas que se impongan a los sentenciados del orden federal, así como a la reparación del daño a las víctimas de los procesos penales federales, que se susciten a partir de la entrada en vigor de este acuerdo; y, las demás que les confieren el Acuerdo General 22/2011 del Pleno del Consejo de la Judicatura Federal y las Leyes de la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+SEGUNDO. Los Jueces de Distrito Especializados en Ejecución de Penas conocerán de la función jurisdiccional de ejecución penal que comprende el conocimiento, trámite y decisión de las cuestiones relativas a la modificación y duración de las penas privativas de libertad que se impongan a los sentenciados del orden federal, en sentencias que causen ejecutoria con posterioridad al inicio de sus funciones (19 de junio de 2011) y, los demás que les confiera el Acuerdo General 22/2011 del Pleno del Consejo de la Judicatura Federal reformado por el diverso 1/2012 del propio órgano Colegiado.
 
 Los órganos de nueva creación tendrán jurisdicción en toda la República Mexicana.
 
@@ -69,7 +71,9 @@ SEPTIMO. Los juzgados de nueva creación a que se refiere este acuerdo, sólo co
 
 En ese sentido no se recibirán del Ejecutivo Federal los expedientes que ya se encuentran en trámite respecto de alguna incidencia vinculada con la etapa de ejecución, excepto que en ese caso requieran intervención judicial.
 
-Los Juzgados de Distrito competentes en Procesos Penales Federales, seguirán conociendo hasta su total resolución de los asuntos que sobre ejecución de penas ya son de su conocimiento.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+Los Juzgados de Distrito competentes en Procesos Penales Federales (mixtos o especializados), seguirán conociendo hasta su total resolución de los asuntos que sobre ejecución de penas ya son de su conocimiento, así como de lo relativo a las penas y sanciones diversas a la privativa de libertad y cuestiones accesorias a las mismas, como son entre otras, suspensión de derechos civiles y políticos, amonestación, multa, decomiso y destino de instrumentos, objetos y productos del delito, tratamiento de farmacodependencia, billetes de depósito o pólizas de fianza, suspensión, destitución e inhabilitación en cargos, beneficio de condena condicional, beneficios sustitutivos de penas, reparación de daño a la víctima.
 
 OCTAVO. El conocimiento de los recursos interpuestos en contra de las resoluciones u omisiones en materia de ejecución de la pena a que se refiere este acuerdo, corresponderá a los tribunales de Circuito con competencia en Materia Penal y con jurisdicción sobre el juzgado recurrido, en términos de la Ley Orgánica del Poder Judicial de la Federación y de conformidad con el Acuerdo General 22/2011 del Pleno del Consejo de la Judicatura Federal.
 
@@ -77,7 +81,17 @@ NOVENO. Los titulares de los órganos jurisdiccionales de que se trata, deberán
 
 DECIMO. Para acceder al sistema electrónico a que se refiere este acuerdo se requiere de una firma digital. Los Juzgados de Distrito que tienen competencia en Materia de Procesos Penales Federales en la República Mexicana y las personas autorizadas por las partes que por razón de su función deban ingresar al sistema, podrán obtener esta firma previo trámite ante el órgano jurisdiccional de origen donde se encuentre radicada la causa penal motivo del procedimiento de ejecución de pena.
 
-Para hacer la declaratoria de inicio del procedimiento de ejecución de la pena, deberá formarse un expediente por el juez del conocimiento y enviarlo a la Oficina de Correspondencia Común de los Juzgados de Distrito Especializados en Ejecución de Penas para su distribución entre los órganos jurisdiccionales a los que ésta presta servicio y, fuera del horario de servicio de la misma, al secretario de guardia para los asuntos en días y horas inhábiles. Dicho expediente deberá integrarse en términos del artículo 10 del Acuerdo General 22/2011 del Pleno del Consejo de la Judicatura Federal.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+Para hacer la declaratoria de inicio del procedimiento de ejecución de la pena, deberá formarse un expediente por el juez del conocimiento y enviarlo a la Oficina de Correspondencia Común de los Juzgados de Distrito Especializados en Ejecución de Penas para su distribución entre los órganos jurisdiccionales a los que ésta presta servicio y, fuera del horario de servicio de la misma, al secretario de guardia para los asuntos en días y horas inhábiles. Dicho expediente deberá integrarse en términos del artículo 10 del Acuerdo General 22/2011 del Pleno del Consejo de la Judicatura Federal reformado por el diverso 1/2012 del propio órgano Colegiado.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+Se diseñará un “Registro Nacional Individualizado de Sentenciados”, para lo cual las Direcciones Generales de Estadística Judicial, de Tecnologías de la Información, y demás áreas administrativas que se requieran, se coordinarán para la implementación de un sistema informático de registro, el cual se pondrá en operación conforme lo permita el presupuesto y normativa del Consejo de la Judicatura Federal. En tanto, se implementa el sistema de “Registro Nacional Individualizado de Sentenciados”, se deberán utilizar libros de control de conformidad con lo regulado en el Acuerdo General 57/2011 del Pleno del Consejo de la Judicatura Federal.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 2/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+Con la base de datos anterior, se creará un sistema informático que facilite los trámites relativos al control de la compurgación de la pena de los sentenciados que gozan de beneficios, para su eventual revocación por incumplimiento.
 
 DECIMOPRIMERO. Los órganos jurisdiccionales de nueva creación utilizarán libros de gobierno, iniciando su propia numeración para registrar los asuntos que conforme a su competencia les sean turnados en adelante por la oficina de correspondencia común de su especialidad, aplicando al respecto las prevenciones establecidas en la materia, por el Acuerdo General 22/2011 del Pleno del Consejo de la Judicatura Federal.
 
@@ -130,3 +144,17 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 CUARTO. La implementación del sistema electrónico y de videoconferencia a que se refiere este acuerdo, se pondrá en operación conforme lo permita el presupuesto y normativa del Consejo de la Judicatura Federal, en tanto, podrán utilizarse otros medios electrónicos o de comunicación en general que el Consejo estime confiable.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 23/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, en Tlalnepantla de Baz, Estado de México; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los juzgados de Distrito antes referidos, fue aprobado por el Pleno del propio Consejo, en sesión extraordinaria de trece de junio de dos mil once, por mayoría de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín, en contra del voto del señor Consejero Juan Carlos Cruz Razo.- México, Distrito Federal, a trece de junio de dos mil once.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE FEBRERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 23/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento de los Juzgados Primero, Segundo y Tercero de Distrito Especializados en Ejecución de Penas, en Tlalnepantla de Baz, Estado de México; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los juzgados de distrito antes referidos.
+
+CUARTO. Los Juzgados de Distrito Especializados en Ejecución de Penas, en Tlalnepantla de Baz, Estado de México, seguirán conociendo hasta su total resolución de los asuntos que sobre ejecución de penas ya son de su conocimiento.
+
+QUINTO. La implementación del "Registro Nacional Individualizado de Sentenciados", y del sistema informático que facilite los trámites relativos al control de la compurgación de la pena de los sentenciados que gozan de beneficios para su eventual revocación por incumplimiento, se pondrán en operación conforme lo permita el presupuesto y normativa del Consejo de la Judicatura Federal.
