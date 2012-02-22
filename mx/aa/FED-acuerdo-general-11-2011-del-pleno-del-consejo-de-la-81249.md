@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2012-01-27"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -67,7 +67,9 @@ X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, 
 
 XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-XII. DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa y Archipiélago de las Islas Marías.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa y Archipiélago de las Islas Marías.
 
 XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
@@ -223,9 +225,13 @@ XII. DECIMOSEGUNDO CIRCUITO:
 
 2. Tres tribunales unitarios: dos con sede en Mazatlán y uno con residencia en Culiacán.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
 3. Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
 
-4. Un Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+4. Un Juzgado de Distrito del Complejo Penitenciario Islas Marías.
 
 XIII. DECIMOTERCER CIRCUITO:
 
@@ -431,13 +437,13 @@ X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, 
 
 XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
 XII. DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
-En relación con los dos tribunales unitarios con residencia en Mazatlán, será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
+En relación con los dos tribunales unitarios con residencia en Mazatlán, será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado de Distrito del Complejo Penitenciario Islas Marías.
 
 Por lo que hace al tribunal unitario con residencia en Culiacán, será la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
-
-La jurisdicción sobre el Distrito judicial de Islas Marías por parte de los tribunales del Decimosegundo Circuito no comprenderá a aquellos asuntos procedentes de otros Circuitos Judiciales de los que conozca, actuando como órgano jurisdiccional auxiliar, el Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República.
 
 XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
@@ -595,7 +601,9 @@ Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, 
 
 Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
 
-El Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República, ejercerá jurisdicción territorial en el Distrito Judicial conformado por el territorio del archipiélago de las Islas Marías, en el Océano Pacífico y actuando como órgano jurisdiccional auxiliar ejercerá jurisdicción en toda la República.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+
+El Juzgado de Distrito del Complejo Penitenciario Islas Marías, ejercerá jurisdicción territorial en el Distrito Judicial conformado por el territorio del archipiélago de las Islas Marías, en el Océano Pacífico.
 
 XIII. DECIMOTERCER CIRCUITO:
 
@@ -938,3 +946,11 @@ SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deber
 SEPTIMO. La Visitaduría Judicial en coordinación con la Dirección General de Estadística Judicial, determinarán el número y contenido de los libros de gobierno que obligatoriamente deberán llevar los nuevos órganos en materia mercantil, proponiendo para ello la reforma que corresponda al Acuerdo General 34/2000.
 
 OCTAVO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 22 DE FEBRERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, a los Acuerdos Generales 15/2010 y 11/2011 del Pleno del Consejo de la Judicatura Federal, respectivamente.
+
+TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
