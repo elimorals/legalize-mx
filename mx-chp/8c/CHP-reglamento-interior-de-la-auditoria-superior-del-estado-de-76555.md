@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-auditoria-superior-del-estado-de-7655
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-14"
-last_updated: "2010-07-14"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE CHIAPAS
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de julio de 2010.
 
@@ -51,7 +51,9 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 2.1. Dirección de Planeación e Informes.
 
-2.1.1. Subdirección de Metodología de Fiscalización.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+2.1.1. Subdirección de Investigación e Innovación.
 
 2.1.2. Subdirección de Programación de la Fiscalización.
 
@@ -255,7 +257,9 @@ II. Dar cuenta al Auditor Superior del Estado del despacho de los asuntos de su 
 
 III. Coordinar la planeación y programación de las actividades de las Unidades Administrativas de su adscripción y someter a la consideración del Auditor Superior del Estado, su Programa Anual de Actividades y de auditorías, visitas, inspecciones y revisiones, así como de sus adecuaciones y modificaciones;
 
-IV. Requerir a las entidades fiscalizadas, a los terceros que hubieren celebrado operaciones con aquellas, así como a cualquier persona física o moral, pública o privada, la información y documentación que sea necesaria para realizar la función de fiscalización. Asimismo, autorizar la ampliación de plazos para su presentación y en su caso, imponer las multas por incumplimiento al requerimiento;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+IV. Requerir a las entidades fiscalizadas, a los terceros que hubieren celebrado operaciones con aquéllas, así como a cualquier persona física o moral, pública o privada, la información y documentación que sea necesaria para realizar la función de fiscalización. Asimismo, autorizar la ampliación de plazos para su presentación y en su caso, imponer las multas por incumplimiento al requerimiento; así como sancionar el incumplimiento de la obligación que señala el artículo 9° Bis de la Ley de Fiscalización Superior del Estado de Chiapas.
 
 V. Ordenar la revisión, análisis y evaluación de la información incluida en las cuentas públicas, en los informes de avances de gestión financiera e informes mensuales de cuenta pública municipal, que rindan las entidades fiscalizadas;
 
@@ -355,9 +359,15 @@ XXI. Coordinar la integración del Plan Estratégico Institucional, con la parti
 
 XXII. Dirigir la integración del Programa Anual de Actividades de la Auditoría Superior del Estado, con base en objetivos, metas e indicadores específicos y someterlo a la autorización del Auditor Superior del Estado, así como vigilar su cumplimiento;
 
-XXIII. Coordinar y dar seguimiento al Sistema de Gestión de la Calidad, que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos; y,
+XXIII. Coordinar y dar seguimiento al Sistema de Gestión de la Calidad, que permita la mejora continua de la Institución, con la participación de sus Unidades y Órganos Administrativos; y, (sic)
 
-XXIV. Las demás que en la esfera de su competencia, le confieran las disposiciones normativas aplicables y las que determine el Auditor Superior del Estado.
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+XXIV. Dirigir la revisión y análisis de la información generada por las mejores prácticas de fiscalización superior nacionales e internacionales, con el fin de adecuar la normatividad interna del Órgano de Fiscalización Superior del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+XXV. Las demás que en la esfera de su competencia, le confieran las disposiciones normativas aplicables y las que determine el Auditor Superior.
 
 ###### Artículo 9°.
 
@@ -481,33 +491,57 @@ XI. Establecer las estrategias para dar seguimiento al sistema de gestión de la
 
 XII. Establecer mecanismos para la obtención de los resultados relevantes de las auditorías practicadas por los Órganos Internos de Control de los Poderes del Estado, Municipios y entes públicos estatales y municipales, así como evaluar su inclusión en los programas de auditorías y solicitar, en su caso, a los auditores externos de las entidades fiscalizadas, copia de los dictámenes e informes de las auditorías y revisiones por ellos practicadas;
 
-XIII. Proponer a su superior jerárquico los criterios para la selección de las entidades a fiscalizar; y,
+XIII. Proponer a su superior jerárquico los criterios para la selección de las entidades a fiscalizar; y, (sic)
 
-XIV. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+XIV. Coordinar la revisión y análisis de la información generada por las mejores prácticas de fiscalización superior nacionales e internacionales, con el fin de adecuar la normatividad interna del Órgano de Fiscalización Superior del Congreso del Estado; y,
+
+XV. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 12.
 
-Al Subdirector de Metodología de Fiscalización, adscrito a la Dirección de Planeación e Informes, le corresponde ejercer las siguientes facultades:
+Al Subdirector de Investigación e Innovación, adscrito a la Dirección de Planeación e Informes, le corresponde ejercer las siguientes facultades:
 
 I. Planear, programar y ejecutar las actividades correspondientes a la Subdirección a su cargo, de acuerdo con los lineamientos establecidos;
 
-II. Proponer los programas y cursos de formación y capacitación, derivados de la actualización de los sistemas y procedimientos de fiscalización;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-III. Participar en la elaboración de las normas y lineamientos, para la baja y destino final de documentos justificatorios y comprobatorios; así como para la guarda y custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
+II. Proponer cursos de formación y capacitación derivados de la investigación de las mejores prácticas de fiscalización superior nacionales e internacionales, para elevar el nivel técnico y profesional del personal que integra el Órgano de Fiscalización Superior del Congreso del Estado;
 
-IV. Supervisar la elaboración y actualización de las guías de fiscalización, en apego a los criterios, técnicas y procedimientos de auditoría gubernamental;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-V. Coordinar la elaboración y proponer las normas, lineamientos, procedimientos y métodos para la organización interna y la fiscalización superior, así como sus actualizaciones periódicas, de acuerdo con los avances científicos y técnicos que se produzcan en la materia;
+III. Investigar en el panorama nacional e internacional las mejores prácticas de fiscalización superior y promover su establecimiento institucional;
 
-VI. Vigilar el resguardo y la actualización del acervo bibliográfico en materia de fiscalización e información institucional;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-VII. Coordinar la integración y actualización del marco normativo interno general para la fiscalización de la gestión gubernamental, así como su clasificación respectiva;
+IV. Revisar, actualizar y proponer normas, guías, lineamientos y manuales de los diversos procesos administrativos que desarrolla el Órgano de Fiscalización Superior del Congreso del Estado;
 
-VIII. Asesorar y capacitar en materia de normas, lineamientos, procedimientos y métodos para la organización interna y la fiscalización superior, que le sean requeridos por las áreas de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-IX. Colaborar en la difusión de los instrumentos normativos para la fiscalización y organización, al interior del Órgano de Fiscalización Superior del Congreso del Estado;
+V. Recopilar la información necesaria para el establecimiento de métodos y estrategias de fiscalización superior, de acuerdo con los avances científicos y técnicos en la materia;
 
-X. Proponer el establecimiento de mecanismos de coordinación e intercambio de información y colaboración con organismos de control y fiscalización, con el fin de mejorar los sistemas, métodos y procedimientos de trabajo; y,
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VI. Recopilar la información generada en el seno del Sistema Nacional de Fiscalización, con el fin de adecuar la normatividad interna del Órgano de Fiscalización Superior del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VII. Proponer la integración y actualización del marco normativo general para la fiscalización de la gestión gubernamental;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VIII. Aportar los elementos metodológicos y asistencia técnica para el desempeño de la función fiscalizadora que le sean requeridos por las áreas de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+IX. Colaborar en la difusión de los instrumentos normativos para la fiscalización, al interior del Órgano de Fiscalización Superior del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+X. Mantener coordinación permanente con las distintas áreas del Órgano de Fiscalización Superior del Congreso del Estado, para el establecimiento de acciones de mejora en los procesos de fiscalización superior; así como para dar seguimiento al Sistema de Gestión de la Calidad de la institución; y,
 
 XI. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
@@ -545,7 +579,7 @@ V. Integrar el Plan Estratégico Institucional con la participación de las Unid
 
 VI. Integrar el Programa Anual de Actividades de la Auditoría Superior del Estado, con base en objetivos, metas e indicadores y los informes respectivos de su cumplimiento;
 
-VII. Dar seguimiento al sistema de gestión de la calidad que permita la mejora continua de la Institución; y,
+VII. (DEROGADA, P.O. 22 DE FEBRERO DE 2012)
 
 VIII. Las demás que en el ámbito de su respectiva competencia, le otorguen las disposiciones jurídicas aplicables y las que le confieran sus superiores jerárquicos.
 
@@ -1354,3 +1388,9 @@ El Auditor Superior del Estado, dispondrá se publique, circule y se le dé el d
 Dado en la sede del Órgano de Fiscalización Superior del Congreso del Estado de Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los trece días del mes de julio del año dos mil diez.
 
 El Auditor Superior del Estado, C.P. Humberto Blanco Pedrero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2012.
+
+Único.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
