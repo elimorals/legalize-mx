@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2011-09-12"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
+LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -823,9 +823,11 @@ II. Municipales:
 
 a) El área responsable de la seguridad pública en los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 44.
 
-El Titular de la Secretaría, además de reunir los requisitos que marcan la Constitución Local y la Ley Orgánica de la Administración Pública del Estado, deberá satisfacer los siguientes requisitos:
+El Titular de la Secretaría deberá satisfacer los siguientes requisitos:
 
 I. Poseer preferentemente el grado de mínimo de escolaridad de licenciatura, contando con título y cédula profesional expedidos por las autoridades correspondientes, o estudios superiores en materia de seguridad pública;
 
@@ -833,9 +835,13 @@ II. No pertenecer al estado eclesiástico, ni ser Ministro de algún culto relig
 
 III. No haber sido destituido o inhabilitado de alguna institución de seguridad pública, contraloría o autoridad competente, federal, estatal o municipal para ocupar un cargo de ésta naturaleza;
 
-IV. No haber sido condenado por la comisión de delito doloso castigado con pena privativa de libertad superior a un año, en cualquier Estado de la República; y
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-V. No usar ni consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares y no ser adictos a las bebidas alcohólicas.
+IV. Contar con una residencia en el Estado en términos del artículo 75 fracción I de la Constitución Local, sin que se considere interrumpido este plazo cuando las ausencias, independientemente de su duración, sean con motivo del desempeño de un Cargo Público de la Federación o de elección popular;
+
+V. No haber sido condenado por la comisión de delito doloso castigado con pena privativa de libertad superior a un año, en cualquier Estado de la República; y
+
+VI. No usar ni consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares y no ser adictos a las bebidas alcohólicas.
 
 El Titular no desempeñará, simultáneamente, otro cargo, empleo o comisión en el ámbito federal, estatal o municipal, aunque sea sin goce de sueldo, excepto empleos y comisiones de educación y beneficencia pública.
 
@@ -851,9 +857,13 @@ En los municipios, será facultad del presidente municipal designar y remover a 
 
 El titular de seguridad pública en cada municipio, deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano morelense por nacimiento o por residencia, debiendo en éste último caso, tener un mínimo de 5 años de residir en el Municipio en que ejerza el cargo;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-II. Ser mayor de treinta años;
+I. Ser ciudadano morelense y contar con una residencia mínima de 3 años en el Municipio en que ejerza el cargo;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+II. Ser mayor de treinta y cinco años;
 
 III. Poseer grado de instrucción media superior o equivalente, así como conocimiento y experiencia debidamente acreditada en materia de seguridad pública;
 
@@ -1247,7 +1257,7 @@ El ingreso es el procedimiento de integración de los candidatos a la estructura
 
 La permanencia es el resultado del cumplimiento constante de los requisitos establecidos en la presente ley para continuar en el servicio activo de las instituciones policiales.
 
-(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2010) (F. DE E., P.O. 25 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE SEPTIEMBRE DE 2010)
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2010) (F. DE E., P.O. 25 DE AGOSTO DE 2010) (F. DE E., P.O. 8 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 82.
 
@@ -2727,7 +2737,7 @@ Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital de
 
 "SUFRAGIO EFECTIVO. NO REELECCIÓN". GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS MTRO. MARCO ANTONIO ADAME CASTILLO SECRETARIO DE GOBIERNO JORGE MORALES BARUD RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE OCTUBRE DE 2009.
 
@@ -2776,3 +2786,9 @@ Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Eje
 Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
