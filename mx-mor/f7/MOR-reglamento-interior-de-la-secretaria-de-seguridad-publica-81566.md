@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-81566
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-01"
-last_updated: "2011-06-01"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de junio de 2011.
 
@@ -69,15 +71,25 @@ X. Ley de Reinserción: Ley de Reinserción Social y Seguimiento de Medidas Caut
 
 XI. Establecimientos Penitenciarios: Los Centros de Reinserción Social, área varonil y femenil, y Establecimientos Distritales en el Estado, así como los Centros Especializados de Ejecución de Medidas Privativas de Libertad para Adolescentes, y los Centros Especiales para la Reclusión Preventiva;
 
-XII. Instituciones Policiales: A los elementos de policía preventiva estatal con sus grupos de investigación, y el municipal, de policía ministerial, a los elementos de vigilancia y custodia de los Establecimientos Penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares, tanto de adolescentes como de adultos, bomberos y de rescate; y en general todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-XIII. Instituciones Policiales Estatales: A los elementos de policía preventiva estatal con sus grupos de investigación, de policía ministerial, a los elementos de vigilancia y custodia de los Establecimientos Penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolescentes como de adultos, bomberos y de rescate; y en general todas las dependencias encargadas de la seguridad pública a nivel estatal, y
+XII. Instituciones Policiales: Aquellas que agrupan a los elementos integrantes de la Policía Estatal Acreditable, a los de la Policía Preventiva Estatal con sus grupos de investigación, y municipal, a los de la Policía Ministerial, a los elementos de vigilancia y custodia de los Establecimientos Penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares, tanto de adolescentes como de adultos, a los bomberos y a los de rescate; y en general a todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+XIII. Instituciones Policiales Estatales: Aquellas que agrupan a los elementos integrantes de la Policía Estatal Acreditable, a los de la Policía Preventiva Estatal junto con sus grupos de investigación, a la Policía Ministerial, a los elementos de vigilancia y custodia de los Establecimientos Penitenciarios, a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolescentes como de adultos, a los bomberos y a los de rescate, y en general a todas las dependencias encargadas de la seguridad pública a nivel Estatal, y
 
 XIV. Manuales de Organización, Políticas y Procedimientos: A los instrumentos normativos aprobados por el Secretario y por las demás áreas competentes, mediante los cuales se indican los pasos que deben seguirse para el desarrollo de cada una de las actividades de las Unidades Administrativas que conforman la Secretaría.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 3.
 
-Para el despacho de los asuntos de su competencia la Secretaría contará con las Unidades Administrativas que a continuación se señalan:
+Para el despacho de los asuntos de su competencia la Secretaría contará con las
+
+Unidades Administrativas que a continuación se señalan:
 
 I. Oficina de la Secretaría;
 
@@ -99,43 +111,51 @@ IX. Dirección General para la Prevención del Delito y Participación de la Com
 
 X. Dirección General de Seguridad Privada;
 
-XI. Dirección General de Establecimientos Penitenciarios;
+XI. Dirección General de la Policía Estatal Acreditable;
 
-XII. Dirección General de Reinserción Social;
+XII. Dirección General de Establecimientos Penitenciarios;
 
-XIII. Dirección General de Servicios a Centros Penitenciarios;
+XIII. Dirección General de Reinserción Social;
 
-XIV. Dirección General de Industria Penitenciaria;
+XIV. Dirección General de Servicios a Centros Penitenciarios;
 
-XV. Dirección General de Ejecución de Medidas para Adolescentes;
+XV. Dirección General de Industria Penitenciaria;
 
-XVI. Dirección General del Centro de Comunicación y Cómputo;
+XVI. Dirección General de Ejecución de Medidas para Adolescentes;
 
-XVII. Centro Estatal de Análisis de Información sobre Seguridad Pública;
+XVII. Dirección General del Centro de Comunicación y Cómputo;
 
-XVIII. Dirección de Área de Control de Confianza y Asuntos Internos;
+XVIII. Centro Estatal de Análisis de Información sobre Seguridad Pública;
 
-XIX. Dirección de Área de Rescate Urbano y Atención a Siniestros;
+XIX. Dirección de Área de Control de Confianza y Asuntos Internos;
 
-XX. Dirección de Área de la Policía Preventiva Zona Metropolitana;
+XX. Dirección de Área de Operaciones de la Policía Estatal Acreditable;
 
-XXI. Dirección de Área de la Policía Preventiva Zona Nororiente;
+XXI. Dirección de Área de Investigación de la Policía Estatal Acreditable;
 
-XXII. Dirección de Área de la Policía Preventiva Zona Oriente;
+XXII. Dirección de Área de Análisis Táctico de la Policía Estatal Acreditable;
 
-XXIII. Dirección de Área de la Policía Preventiva Zona Poniente;
+XXIII. Dirección de Área de Rescate Urbano y Atención a Siniestros;
 
-XXIV. Dirección de Área de la Policía Preventiva Zona Sur-Poniente;
+XXIV. Dirección de Área de la Policía Preventiva Zona Metropolitana;
 
-XXV. Dirección de Área de la Policía Preventiva Zona Centro-Norte;
+XXV. Dirección de Área de la Policía Preventiva Zona Nororiente;
 
-XXVI. Dirección de Área del Grupo de Operaciones Especiales;
+XXVI. Dirección de Área de la Policía Preventiva Zona Oriente;
 
-XXVII. Dirección de Área de Unidades Especializadas;
+XXVII. Dirección de Área de la Policía Preventiva Zona Poniente;
 
-XXVIII. Dirección de Área de la Policía Preventiva Procesal y de Custodia, y
+XXVIII. Dirección de Área de la Policía Preventiva Zona Sur-Poniente;
 
-XXIX. Dirección de Área Operativa de la Policía Industrial, Bancaria y Auxiliar.
+XXIX. Dirección de Área de la Policía Preventiva Zona Centro-Norte;
+
+XXX. Dirección de Área del Grupo de Operaciones Especiales;
+
+XXXI. Dirección de Área de Unidades Especializadas;
+
+XXXII. Dirección de Área de la Policía Preventiva Procesal y de Custodia, y
+
+XXXIII. Dirección de Área Operativa de la Policía Industrial, Bancaria y Auxiliar.
 
 Todas las Unidades Administrativas que se señalen en este Reglamento, en los Manuales de Organización, y de Políticas y Procedimientos deberán encontrarse aprobadas en el presupuesto asignado a la Secretaría.
 
@@ -155,9 +175,15 @@ V. La Dirección General Jurídica;
 
 VI. La Dirección General de Prevención del Delito y Participación de la Comunidad;
 
-VII. La Dirección General de Seguridad Privada, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-VIII. La Dirección de Área de Control de Confianza y Asuntos Internos.
+VII. La Dirección General de Seguridad Privada;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VIII. La Dirección General de la Policía Estatal Acreditable, y
+
+IX. La Dirección de Área de Control de Confianza y Asuntos Internos.
 
 ###### Artículo 5.
 
@@ -212,6 +238,20 @@ VI. La Dirección de Área de la Policía Preventiva Zona Centro-Norte;
 VII. La Dirección de Área de Unidades Especializadas, y
 
 VIII. La Dirección de Área de la Policía Preventiva Procesal y de Custodia.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+###### Artículo 9 Bis.
+
+Se adscriben a la Dirección General de la Policía Estatal Acreditable:
+
+I. La Dirección de Área de Operaciones de la Policía Estatal Acreditable;
+
+II. La Dirección de Área de Investigación de la Policía Estatal Acreditable, y
+
+III. La Dirección de Área de Análisis Táctico de la Policía Estatal Acreditable.
 
 ### CAPÍTULO II. DE LAS FACULTADES DE LA SECRETARÍA
 
@@ -1133,6 +1173,40 @@ IX. Auxiliar al Secretario en la evaluación, aprobación y autorización de los
 
 X. Las demás que le confieran otras disposiciones jurídicas o le correspondan por delegación o suplencia.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+###### Artículo 40 Bis.
+
+La Dirección General de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+
+I. Realizar todas aquellas acciones, programas, gestiones, comprobaciones y funciones tendientes a cumplir los compromisos contraídos por el Estado así como las metas proyectadas derivadas del convenio de adhesión referente al Subsidio a las Entidades Federativas para el Fortalecimiento de sus Instituciones de Seguridad Pública en materia de Mando Policial;
+
+II. Materializar todos los actos inherentes al Modelo de Policía Estatal Acreditable;
+
+III. Investigar, sistematizar y administrar las fuentes necesarias para la recopilación de información que será la base de sus operaciones;
+
+IV. Recopilar, corroborar, sistematizar y administrar la información adquirida, como sustento para generar líneas de investigación;
+
+V. Elaborar redes técnicas de vínculos para la administración de fuentes e información;
+
+VI. Realizar las tareas de vigilancia, seguimiento y técnicas de inteligencia que conlleven al control y manejo de las fuentes de información, en términos de las disposiciones jurídicas aplicables;
+
+VII. Elaborar los planes y programas en los que intervengan los elementos que tenga adscritos;
+
+VIII. Establecer y operar los sistemas de seguridad que dentro de su competencia deba implementar;
+
+IX. Coordinar los planes operativos que se generen producto del área de investigación;
+
+X. Ejecutar y vigilar los planes operativos en los que se planteen objetivos que se detallen como de alto impacto;
+
+XI. Intervenir en las situaciones dictaminadas como de crisis para el restablecimiento del orden público;
+
+XII. Realizar todas las instrucciones de análisis táctico e investigativo, así como la implementación operativa, resultante de las órdenes directas emanadas de quien sea titular de la Secretaria;
+
+XIII. Rendir informes periódicos a quien sea titular de la Secretaría, de todas y cada una de las acciones realizadas, en cuanto a las gestiones administrativas, de inteligencia y operativas, y
+
+XIV. Las demás que determinen las disposiciones legales aplicables o le correspondan por delegación o suplencia.
+
 ###### Artículo 41.
 
 La Dirección de Área de Control de Confianza y Asuntos Internos tendrá las siguientes atribuciones:
@@ -1172,6 +1246,92 @@ XVI. Informar periódicamente a la Secretaría de las actividades que realice la
 XVII. Aplicar, en el ámbito de su competencia, las sanciones y correctivos disciplinarios previstos en la Ley Estatal, en contra del personal de la Secretaría que así lo amerite, y
 
 XVIII. Las demás que le confieran otras disposiciones jurídicas, o le correspondan por delegación o suplencia.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+###### Artículo 41 Bis.
+
+La Dirección de Área de Operaciones de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+
+I. Utilizar la información que le brinde la Dirección de Área de Investigación;
+
+II. Analizar, y clasificar la información brindada para determinar la utilidad operativa de la misma;
+
+III. Administrar los recursos humanos y materiales con que se cuente para el cumplimiento de las diversas tareas o misiones encomendadas;
+
+IV. Ejecutar los planes, programas y objetivos que defina y autorice previamente la Dirección General de la Policía Estatal Acreditable;
+
+V. Determinar las tácticas que habrán de implementarse para el cumplimiento de los objetivos y tareas planeadas;
+
+VI. Identificar las características geográficas, las amenazas y posibles contingencias que resulten del estudio táctico de sus operaciones;
+
+VII. Desplegar los operativos que se determinen, por medio de la administración de sus elementos, procurando la utilización efectiva y eficiente de los mismos;
+
+VIII. Proponer a la Dirección General de la Policía Estatal Acreditable y, en su caso, ejecutar los procedimientos para el manejo de fuentes de información, que sirvan de apoyo para las acciones de vigilancia y seguimiento;
+
+IX. Participar y coadyuvar en la ejecución de acciones operativas de investigación, previa autorización de coordinación por parte del titular de la Secretaría, con las diversas Instituciones Policiales Federales o Estatales;
+
+X. Elaborar y administrar una agenda diaria de las acciones implementadas y los riegos evaluados, guardando la confidencialidad y secrecía necesaria;
+
+XI. Realizar partes informativos de cualesquiera de las acciones tomadas y contingencias acaecidas, que remitirán a sus superiores en orden jerárquico, considerando esta documentación como confidencial, de conformidad con la normatividad aplicable, y
+
+XII. Acatar y procurar en todo momento el cumplimiento de las operaciones encomendadas y el respeto a los principios de eficiencia, profesionalismo, legalidad y disciplina, dentro y fuera de su lugar de operaciones.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+###### Artículo 41 Ter.
+
+La Dirección de Área de Investigación de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+
+I. Aplicar la metodología y estrategias de campo que permitan desarrollar las líneas de investigación y recabar las evidencias necesarias;
+
+II. Generar estudios de necesidad e impacto operativo para el establecimiento de líneas de investigación;
+
+III. Corroborar las fuentes y la información brindada mediante trabajo de campo;
+
+IV. Trazar las redes técnicas de vínculos y crear nuevas líneas de investigación, para dar seguimiento y vigilancia a los objetivos planteados;
+
+V. Coordinar las líneas de investigación y de seguimiento;
+
+VI. Implantar métodos y técnicas preestablecidos por la Dirección General de la Policía Estatal Acreditable para la identificación y recopilación de datos e imágenes y demás elementos de información;
+
+VII. Supervisar las acciones de vigilancia de los objetivos asignados hasta el cumplimiento de las operaciones planeadas;
+
+VIII. Sistematizar y administrar una agenda de las actividades y líneas de investigación;
+
+IX. Coadyuvar, con otras autoridades federales, estatales y municipales que lo requieran, en la investigación policial, previa autorización del titular de la Secretaría, de conformidad con las disposiciones jurídicas aplicables, y
+
+X. Recomendar al Director General de la Policía Estatal Acreditable los planes y programas, para su implementación por parte de la Dirección de Área Operativa de la Policía Estatal Acreditable.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+###### Artículo 41 Quater.
+
+La Dirección de Área de Análisis Táctico de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+
+I. Procesar el resultado de los estudios de necesidad e impacto operativo generados por la Dirección de Área de Investigación de la Policía Estatal Acreditable, con el fin de trazar las líneas de investigación para obtener las fuentes necesarias de información;
+
+II. Establecer instrumentos de cooperación para el intercambio de información que generen estrategias para el cumplimiento de las operaciones planeadas;
+
+III. Operar, en el ámbito de su competencia, los sistemas de recopilación, clasificación y registro de información policial, para conformar bases de datos, que se utilicen en las investigaciones;
+
+IV. Procesar la información de su ámbito de competencia en base de datos para su análisis táctico;
+
+V. Analizar, concentrar, depurar, sistematizar y clasificar la información obtenida y corroborada, para la generación de redes técnicas de vínculos;
+
+VI. Administrar una base de datos diferenciada, tanto de las fuentes de información como de las redes técnicas de vínculos;
+
+VII. Controlar la información obtenida, así como asegurar su confidencialidad y secrecía, de conformidad con las disposiciones jurídicas aplicables;
+
+VIII. Elaborar un informe semanal para la Dirección General de la Policía Estatal Acreditable de las actividad (sic) realizadas, y
+
+IX. Sistematizar y administrar una Agenda de las actividades de su área.
 
 ###### Artículo 42.
 
@@ -1238,3 +1398,13 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA GRAL. DE DIV. D.E.M. RET.
 GILBERTO TOLEDANO SÁNCHEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. La Secretaría de Seguridad Pública en un plazo de 120 días naturales posteriores a la entrada en vigor del presente Decreto, emitirá los respectivos Manuales de Organización, y de Políticas y Procedimientos.
+
+TERCERO. Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
