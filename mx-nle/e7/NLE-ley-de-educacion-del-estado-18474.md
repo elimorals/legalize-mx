@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2011-11-25"
+last_updated: "2012-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -185,13 +185,17 @@ XIX.- Contribuir a la información, prevención, combate y erradicación sobre l
 
 XX.- Impartir la enseñanza del idioma inglés, en los programas establecidos para el nivel de Educación Básica;
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-XXI.- Promover en forma permanente el hábito a la lectura y del libro; y
+XXI.- Promover en forma permanente el hábito a la lectura y del libro;
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas.
+XXII.- Fomentar la convivencia pacífica y respetuosa entre las personas; e
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+XXIII.- Implementar programas de orientación vocacional y promover el establecimiento de acuerdos entre instituciones educativas y el sector productivo para impulsar las prácticas profesionales que permitan a los alumnos adquirir aptitudes, capacídades y experiencia de calidad, reforzar el aprendizaje del aula, identificar los intereses de especialización para el efecto de mejorar sus oportunidades de desarrollo profesional.
 
 ###### Artículo 8.
 
@@ -303,7 +307,7 @@ La autoridad educativa estatal proporcionará al personal docente los medios que
 
 La autoridad educativa estatal apoyará a las instituciones educativas públicas que desarrollen programas y proyectos de innovación para mejorar la calidad; y brindará asesoría técnico-pedagógica a las instituciones educativas particulares para el mismo fin.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE JUNIO DE 2008)</small>
 
 #### SECCIÓN 3. DE LA SEGURIDAD EN LAS ESCUELAS
 
@@ -407,7 +411,7 @@ XIII.- Las demás que con tal carácter establezca esta Ley y otras disposicione
 
 El Gobierno Estatal celebrará convenios con el Ejecutivo Federal para coordinar o unificar las actividades educativas a las que se refiere esta Ley, con excepción de aquéllas que, con carácter exclusivo, le confiere el Artículo 13 de la Ley General.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ###### Artículo 23.
 
@@ -429,11 +433,17 @@ V.- Crear y apoyar programas de servicio social que tiendan a beneficiar a la co
 
 VI.- Auxiliar al Ejecutivo del Estado en el cumplimiento de esta Ley;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
-VII.- Prohibir el establecimiento de cantinas, billares, prostíbulos u otros establecimientos que perjudiquen la formación de los educandos, en un radio no menor de 200 metros de las escuelas; y
+VII.- Prohibir el establecimiento de cantinas, billares, prostíbulos u otros establecimientos que perjudiquen la formación de los educandos, en un radio no menor de 200 metros de las escuelas;
 
-VIII.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+VIII.- Coadyuvar con las instancias del Sistema Educativo Estatal en las actividades a que se refiere la fracción XXIII del Artículo 7 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
+IX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 El Gobierno Estatal promoverá la participación directa del Municipio para dar mantenimiento y proveer de equipo básico a las escuelas públicas estatales y municipales, así como coadyuvar en la vigilancia de los edificios escolares.
 
@@ -605,7 +615,7 @@ Los programas de Salud integral que se mencionan en el párrafo que antecede, de
 
 I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
 
-II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud Integral de alta calidad y cobertura estatal.
+II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
 
 III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
 
@@ -901,7 +911,7 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 #### SECCIÓN 6. DEL CALENDARIO ESCOLAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 86.
 
@@ -1065,7 +1075,7 @@ Será responsabilidad de la autoridad de cada escuela pública de educación bá
 
 Consejos análogos podrán operar en las escuelas particulares de cada educación básica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 99.
 
@@ -1399,7 +1409,7 @@ EL C. SECRETARIO DE FINANZAS Y TESORERIA GENERAL DEL ESTADO
 
 LIC. FERNANDO ELIZONDO BARRAGAN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE JUNIO DE 2007.
 
@@ -1432,3 +1442,7 @@ Segundo.- La Secretaría de Educación en coordinación con la Secretaría de Sa
 P.O. 25 DE NOVIEMBRE DE 2011.
 
 Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
