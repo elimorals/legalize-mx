@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-profesiones-del-estado-de-nuevo-leon-7623"
 country: "mx"
 rank: "ley"
 publication_date: "1984-07-25"
-last_updated: "1999-02-17"
+last_updated: "2012-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROFESIONES DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1999.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 1984.
 
@@ -431,9 +431,23 @@ La prestación de los servicios profesionales de índole social señalados en la
 
 El Ejecutivo del Estado, por conducto del Departamento de Profesiones, tomando en cuenta los planes formulados evaluará anualmente los programas relativos a la prestación de los servicios profesionales de índole social con la participación de los Colegios Profesionales e Instituciones universitarias o de enseñanza superior.
 
-### CAPITULO IX. DE LOS COLEGIOS PROFESIONALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2012)</small>
 
-### CAPITULO X. DEL DEPARTAMENTO DE PROFESIONES DEL ESTADO
+### CAPITULO VIII BIS. DE LAS PRACTICAS PROFESIONALES
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+ARTICULO 40o BIS.- Para los efectos de esta Ley, por Prácticas Profesionales se entiende la actividad de carácter temporal y formativo que realicen los estudiantes o egresados de las profesiones señaladas en el Artículo 5 de esta Ley, fuera de la Institución Educativa con el fin de desarrollar, perfeccionar y de esta forma consolidar las competencias adquiridas en el aula.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+ARTICULO 40o BIS I.- Las instituciones educativas promoverán los mecanismos necesarios con los sectores público y privado, con el fin de que sus estudiantes o egresados adquieran aptitudes, capacidades y experiencia de calidad.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+ARTICULO 40o BIS II.- Las empresas o instituciones del sector público o privado que participen en la formación de aptitudes, capacidades y experiencia de calidad de estudiantes o egresados a través de las prácticas profesionales a que se refiere el Artículo 40 Bis de esta Ley, deberán extender al concluir el periodo de práctica una constancia de terminación, y que además describa las habilidades y capacidades adquiridas por el practicante durante dicho período.
+
+### CAPITULO IX. DE LOS COLEGIOS PROFESIONALES
 
 ###### ARTICULO 41o.
 
@@ -539,7 +553,7 @@ XVII.- Velar por la garantía del ejercicio profesional;
 
 XVIII.- Las demás que le asignen las leyes y reglamentos.
 
-### CAPITULO XI. DE LA RESPONSABILIDAD PROFESIONAL
+### CAPITULO X. DEL DEPARTAMENTO DE PROFESIONES DEL ESTADO
 
 ###### ARTICULO 48o.
 
@@ -582,6 +596,8 @@ XV.- Proporcionar los informes que se soliciten en asuntos de su competencia;
 XVI.- Conocer de las infracciones a la presente Ley, y;
 
 XVII.- Las demás que deriven de las leyes o reglamentos aplicables a la materia.
+
+### CAPITULO XI. DE LA RESPONSABILIDAD PROFESIONAL
 
 ###### ARTICULO 50o.
 
@@ -717,8 +733,12 @@ EL SECRETARIO DE EDUCACION Y CULTURA
 
 ROMEO R. FLORES CABALLERO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE FEBRERO DE 1999.
 
 Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
