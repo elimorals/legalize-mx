@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2011-del-pleno-del-consejo-de-la-81727"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2012-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-06-09"
 
 ACUERDO GENERAL 22/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA COMPETENCIA DE LA FUNCIÓN DE EJECUCIÓN PENAL Y CREA LOS JUZGADOS DE DISTRITO ESPECIALIZADOS EN EJECUCIÓN DE PENAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 17 de junio de 2011.
 
@@ -45,7 +45,9 @@ Criterio que ha sido históricamente sostenido y reiterado recientemente por la 
 
 SEXTO. Que ante la falta de exhaustividad legislativa procesal que norme los principios y valores consagrados en la Constitución, para resolver una controversia y lograr la óptima aplicación del derecho; la legislación ordinaria en los procedimientos o incidencias vigentes, como pudieran ser de manera enunciativa, la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, el Código Penal Federal, el Código Federal de Procedimientos Penales y las demás que resulten aplicables conforme el sistema de reinserción social, previsto en los artículos 18 y 21 constitucionales.
 
-En consonancia con ello, la nueva jurisdicción necesariamente deberá limitarse a los aspectos que exijan decisión jurisdiccional sobre derechos del inculpado y de la víctima, atinentes a la modificación, duración y reparación del daño, como pudieran ser, según corresponda al caso particular: la traslación del tipo penal, la retroactividad en beneficio, la compurgación simultánea de penas, el beneficio de condena condicional, la libertad preparatoria y anticipada, la orden de reaprehensión por incumplimiento de beneficios y el procedimiento de reparación del daño;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
+
+En consonancia con ello, la nueva jurisdicción necesariamente deberá limitarse a los aspectos que exijan decisión jurisdiccional sobre la modificación y duración de la pena privativa de libertad que se impongan a los sentenciados del orden federal, preservando los derechos de los inculpados, como pudieran ser según corresponda de modo enunciativo mas no limitativo: los beneficios de la libertad preparatoria y anticipada, tratamiento en preliberación, la orden de aprehensión por incumplimiento de beneficios, la compurgación simultánea de penas, la traslación del tipo penal, la retroactividad en beneficio, la remisión parcial de la pena, la extinción de penas. Lo anterior con exclusión de los demás temas relativos al cumplimiento de sentencias que atenderá el juez de la causa como lo son de modo enunciativo mas no limitativo: el beneficio de condena condicional, los sustitutivos de sanciones, la multa, la amonestación, suspensión de derechos políticos y civiles, decomiso, destrucción de bienes, suspensión, destitución e inhabilitación en cargos públicos.
 
 SEPTIMO. Que atendiendo a que la demanda de administración de justicia en la fase de ejecución de las penas es cuantitativamente diferenciada en las diversas regiones del país; el carácter transitorio de este acuerdo (hasta en tanto la reforma constitucional de que se trata sea incorporada en la legislación correspondiente), y a los recursos humanos o jueces certificados en la materia y materiales de que por ahora dispone este Consejo, es conveniente, en algunos Circuitos Judiciales, la creación de Juzgados de Distrito Especializados en Ejecución de Penas, con la plantilla de personal que se determine, en su oportunidad, por este propio Consejo, en tanto que en los demás Circuitos esa competencia permanecerá en los actuales jueces de Distrito con competencia en Materia de Procesos Penales Federales.
 
@@ -59,25 +61,29 @@ ACUERDO
 
 ### CAPITULO PRIMERO. De la función de ejecución penal y los Juzgados de Distrito Especializados en Ejecución de Penas
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 1.
 
-La función jurisdiccional de ejecución penal comprende el conocimiento, trámite y decisión de las cuestiones relativas a la modificación y duración de las penas que se impongan a los sentenciados del orden federal, así como a la reparación del daño de las víctimas de los procesos penales federales, que se susciten a partir de la entrada en vigor de este acuerdo.
+La función jurisdiccional de ejecución penal comprende el conocimiento, trámite y decisión de las cuestiones relativas a la modificación y duración de las penas privativas de libertad que se impongan a los sentenciados del orden federal.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 2.
 
-Se crean los juzgados de Distrito Especializados en Ejecución de Penas, cuyo exclusivo ámbito de atribuciones es el ejercicio de la función de ejecución de penas a que se refiere este acuerdo.
+Se crean los Juzgados de Distrito Especializados en Ejecución de Penas, cuyo exclusivo ámbito de atribuciones es el ejercicio de la función de ejecución de penas privativas de libertad que se impongan a los sentenciados del orden federal a que se refiere este acuerdo.
 
 ### CAPITULO SEGUNDO. De la competencia en Materia de Ejecución de Penas
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 3.
 
-Los jueces de Distrito Especializados en Ejecución de Penas serán competentes para conocer y resolver de:
+Los Jueces de Distrito Especializados en Ejecución de Penas serán competentes para conocer y resolver de:
 
-I. La modificación y duración de las penas;
+I. La modificación y duración de las penas privativas de libertad; y
 
-II. La substanciación del procedimiento para el cumplimiento de la reparación del daño; y
-
-III. Las demás que le confieran las Leyes de la materia.
+II. Las demás que le confieran las leyes de la materia.
 
 ###### Artículo 4.
 
@@ -97,9 +103,11 @@ Por lo que se refiere a los Juzgados de Distrito no especializados en Ejecución
 
 Los Jueces de Distrito y demás personal que integren los órganos jurisdiccionales especializados a que se refiere este acuerdo, podrán ser adscritos o readscritos, ya sea por creación del órgano o por transformación del mismo, de ser el caso, en los términos que determine el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción y en función de las necesidades del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 7.
 
-Los juzgados a que se refiere este acuerdo sólo conocerán de los asuntos que, a partir del inicio de sus funciones, requieran la participación jurisdiccional en esta materia y en su ámbito de jurisdicción.
+Los juzgados a que se refiere este acuerdo sólo conocerán de los asuntos relativos a penas privativas de libertad impuestas en sentencias que causen ejecutoria con posterioridad al inicio de sus funciones (19 de junio de 2011) y los cuales requieran la participación jurisdiccional en esta materia y en el ámbito de su jurisdicción.
 
 Atendiendo a la justificación expresada en el Considerando Quinto de este Acuerdo, no se recibirán del Ejecutivo los expedientes que ya se encuentran en trámite respecto de alguna incidencia vinculada con la etapa de ejecución, excepto que en ese caso requieran intervención judicial.
 
@@ -132,6 +140,10 @@ Para hacer la declaratoria de inicio del procedimiento de ejecución de la pena,
 5. Oficio por el que se haya puesto al sentenciado a disposición de la autoridad ejecutora.
 
 6. Dictamen o estudio practicado por la Comisión Técnica Interdisciplinaria del sitio en que guarda reclusión el sentenciado; las cartas de buena conducta, constancias de participación en cursos y talleres dentro del Centro Penitenciario, certificados de estudios, y en general, todo aquello que el sentenciado y su defensor propongan, o que el Juez de Ejecución ordene recabar oficiosamente para la resolución del asunto.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
+
+Los expedientes de ejecución de penas, así como sus incidencias se deben integrar de manera individualizada por cada sentenciado, en virtud que la etapa de ejecución de penas es personalísima. En ese sentido, se deberá crear un “Registro Nacional Individualizado de Sentenciados”, para el debido seguimiento de las sanciones impuestas en los procedimientos de ejecución de penas, al efecto las áreas administrativas del Consejo de la Judicatura Federal instrumentarán los mecanismos de registro respectivos.
 
 ###### Artículo 11.
 
@@ -175,4 +187,18 @@ TERCERO. El Pleno del Consejo de la Judicatura Federal resolverá todas las cues
 
 CUARTO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en uno de los periódicos de mayor circulación.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 1/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 22 DE FEBRERO DE 2012)</small>
+
+QUINTO. Con la base de datos del "Registro Nacional Individualizado de Sentenciados" prevista en el artículo 10 del presente acuerdo, se diseñará un sistema informático que registre los trámites administrativos relativos al control de la compurgación de la pena de los sentenciados que gozan de beneficios para su eventual revocación por incumplimiento, la instrumentación de los mismos se pondrá en operación conforme lo permita el presupuesto y normativa del Consejo de la Judicatura Federal.
+
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 22/2011, del Pleno del Consejo de la Judicatura Federal, que establece la competencia de la función de ejecución penal y crea los Juzgados de Distrito Especializados en Ejecución de Penas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de ocho de junio de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a nueve de junio de dos mil once.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE FEBRERO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma del Acuerdo General 22/2011, del Pleno del Consejo de la Judicatura Federal, que establece la competencia de la función de ejecución penal y crea los Juzgados de Distrito Especializados en Ejecución de Penas.
