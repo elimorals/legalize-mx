@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2011-11-19"
+last_updated: "2012-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # CODIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-CODIGO PENAL DEL ESTADO DE CHIHUAHUA
+CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -445,7 +445,7 @@ V. Intervención.
 
 De la prisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2010)</small>
 
 La prisión consiste en la privación de la libertad personal. Puede ser temporal o vitalicia, según lo disponga este Código. En el primer caso, su duración no será menor de seis meses ni mayor de setenta años. En el segundo caso, se denominará cadena perpetua o prisión vitalicia, y consiste en la privación de la libertad personal por todo el tiempo de vida del responsable del delito. Su ejecución se llevará a cabo en los establecimientos o lugares donde disponga la autoridad ejecutora de las sanciones penales en el Estado, conforme a lo dispuesto en la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados.
 
@@ -457,7 +457,7 @@ En toda pena de prisión que se imponga en una sentencia, se computará el tiemp
 
 Si se trata de dos o más penas de prisión impuestas en sentencias diferentes, aquéllas se cumplirán invariablemente de manera sucesiva, sin que la suma de ellas sea mayor de setenta años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
@@ -467,13 +467,13 @@ Tratándose del delito de homicidio doloso en perjuicio de mujeres o menores de 
 
 Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de penas y medidas judiciales, en cualquier grado de participación, deberá imponérseles la pena que corresponda para cada uno de ellos, pudiendo aumentarse a la suma total de la pena impuesta, de una a dos terceras partes de aquélla, aun cuando con ello se exceda el máximo de la pena de prisión temporal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 211)</small>
 
 En la hipótesis prevista en el párrafo anterior, la penalidad siempre se aumentará de una a dos terceras partes a la suma total de la pena impuesta, si entre los delitos cometidos se encuentra el Homicidio, Extorsión, Robo, Amenazas o Daños, en los supuestos del artículo 237.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
@@ -529,7 +529,7 @@ En todo caso pena y medida deberán garantizar la dignidad y la libertad de conc
 
 Concepto y duración
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 El tratamiento en semilibertad comprende la alternancia de períodos de privación de la libertad y tratamiento en libertad, con fines laborales, educativos o de salud, que establezcan los estudios sobre personalidad que emita la Fiscalía, que conduzcan· a la reinserción social y podrá consistir en:
 
@@ -687,7 +687,7 @@ Si se trata de delitos que afecten la vida o la integridad corporal, para fijar 
 
 Plazos para la reparación del daño
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 De acuerdo con el monto de los daños o perjuicios, y de la situación económica del sentenciado, la autoridad judicial podrá fijar plazos para su pago, que en conjunto no excederán de tres meses, pudiendo para ello exigir garantía si lo considera conveniente.
 
@@ -861,7 +861,7 @@ Cuando la ley establece una pena se entiende que la impone a los autores o part�
 
 Criterios de individualización
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2009)</small>
 
 La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, en proporción a la gravedad del ilícito, al grado de culpabilidad del agente, y al bien jurídico afectado, tomando en cuenta:
 
@@ -983,7 +983,7 @@ IV. El estado de las cosas, entorno y demás condiciones externas que hayan cont
 
 Punibilidad de la tentativa
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 La punibilidad aplicable a la tentativa, será de entre una tercera parte de la mínima y dos terceras partes de la máxima, previstas para el correspondiente delito doloso consumado que el agente quiso realizar. En este caso, cuando corresponda sancionarlo con prisión vitalicia, el cómputo se hará sobre la base de las penalidades de prisión temporal más severas previstas para ese delito.
 
@@ -1037,7 +1037,7 @@ Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI de
 
 Sustitución de la prisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 El Juez de Garantía, o el Tribunal de Juicio Oral, considerando los resultados de los estudios de personalidad que emita la Fiscalía, podrá sustituir la pena de prisión, en los términos siguientes:
 
@@ -1061,7 +1061,7 @@ La multa podrá ser sustituida por trabajo en favor de la comunidad.
 
 Condiciones para la sustitución
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 La sustitución de la sanción privativa de libertad procederá cuando se cubra la reparación del daño a la víctima u ofendido y sea negociada con la persona moral de derecho público, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
 
@@ -1173,9 +1173,9 @@ En caso de que cometa nuevo delito doloso después de concedido el beneficio, se
 
 Artículo 91 bis. Restricciones a los beneficios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 El reo que haya sido sentenciado por el delito de robo de vehículos automotores con violencia sobre las personas, extorsión, violación u homicidio doloso, de acuerdo a este Código, no le serán aplicables ninguno de los siguientes beneficios:
 
@@ -1293,7 +1293,7 @@ El perdón sólo beneficia al imputado en cuyo favor se otorga. Cuando sean vari
 
 Perdón del ofendido en otros delitos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 Tratándose de delitos que se investigan de oficio, también procederá el perdón cuando concurran los siguientes requisitos:
 
@@ -1591,7 +1591,9 @@ A quien cause lesiones a un ascendiente o descendiente consanguíneo en línea r
 
 ###### Artículo 131.
 
-Cuando las lesiones se infieran a un menor de edad o a un incapaz, sujetos a la patria potestad, tutela o custodia del agente, la pena se incrementará con dos terceras partes los límites mínimo y máximo de las penas que correspondan con arreglo a los artículos precedentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+Cuando las lesiones se infieran a un menor de edad o a un incapaz sujetos a la patria potestad, tutela o custodia del agente, o a una persona adulta mayor sujeta al cuidado del agente, la pena se incrementará con dos terceras partes los límites mínimo y máximo de las que correspondan con arreglo a los artículos precedentes.
 
 En ambos casos, a juicio de la autoridad judicial, se decretará la suspensión de los derechos que tenga el agente en relación con el sujeto pasivo, por un tiempo igual al de la pena de prisión que se imponga.
 
@@ -1615,7 +1617,7 @@ La riña es la contienda de obra entre dos o más personas con el propósito de 
 
 ###### Artículo 136.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en perjuicio de servidores públicos que se encarguen de la administración o procuración de justicia, o de periodistas; así mismo, en los supuestos de la fracción X del presente artículo:
 
@@ -1823,7 +1825,7 @@ Si la enfermedad padecida fuera incurable, o la víctima fuera la pareja habitua
 
 ###### Artículo 158.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 Se impondrán de uno a seis años de prisión y de sesenta a ciento veinte días multa, a la persona que prive a otra de su libertad personal.
 
@@ -1833,15 +1835,15 @@ La pena de prisión se aumentará en una mitad, cuando la privación de la liber
 
 ### CAPÍTULO III
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 159.
 
 (DEROGADO, P.O. 7 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
@@ -1849,11 +1851,11 @@ La pena de prisión se aumentará en una mitad, cuando la privación de la liber
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 Artículo 160 bis. (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 161.
 
@@ -1863,13 +1865,13 @@ Artículo 160 bis. (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
 (DEROGADO, P.O. 23 DE OCTUBRE DE 2010) (REPUBLICADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 163.
 
 (DEROGADO, P.O. 12 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
 
 ###### Artículo 164.
 
@@ -2349,7 +2351,7 @@ Se impondrán las mismas penas previstas en el artículo anterior, a quien sin c
 
 ###### Artículo 210.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 A quien se apodere de una cosa ajena sin consentimiento de quien legalmente pueda otorgarlo y acredite que dicho apoderamiento se ha realizado con ánimo de uso y no de dominio, se le impondrá de seis meses a un año de prisión o de treinta a noventa días multa. Tratándose de las hipótesis de los artículos 211 ó 212, la prisión será de uno a dos años y de sesenta a ciento ochenta días multa.
 
@@ -2395,7 +2397,7 @@ XIV. Recaiga sobre materiales conductores de energía destinados a la prestació
 
 ###### Artículo 212.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2011)</small>
 
 Además de las sanciones que correspondan conforme a los artículos anteriores, se aplicarán de uno a diez años de prisión, cuando el robo:
 
@@ -2723,7 +2725,7 @@ Tanto para la aplicación de las sanciones, como para establecer el monto o la c
 
 ###### Artículo 243.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 E ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 E ENERO DE 2010)</small>
 
 Los delitos previstos en este título, con excepción del robo, robo de ganado, encubrimiento por receptación de éstos, extorsión y daños, en cualquiera de las hipótesis del artículo 237, se investigarán por querella de parte ofendida.
 
@@ -3067,7 +3069,7 @@ Se aplicarán las penas previstas en el párrafo anterior, a quien fabrique, com
 
 ###### Artículo 285.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 Se impondrán de dos a ocho años de prisión, inhabilitación para obtener o ejercer un cargo o comisión pública hasta por diez años y de cien a cuatrocientos días multa, al servidor público que deliberadamente:
 
@@ -3077,7 +3079,7 @@ II. No cumpla con una orden legítima que formalmente se le comunique por un sup
 
 ###### Artículo 286.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 Se impondrá prisión de dos a seis años, inhabilitación para obtener o ejercer un cargo o comisión pública hasta por diez años y de cincuenta a doscientos cincuenta días multa, al servidor público que:
 
@@ -3103,7 +3105,7 @@ En las hipótesis previstas en las fracciones II, III o VI, la penalidad se aume
 
 ###### Artículo 287.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 Se impondrán de dos a seis años de prisión, inhabilitación para obtener o ejercer un cargo o comisión pública hasta por diez años y de cincuenta a doscientos cincuenta días multa, al servidor público que, para conseguir cualquier finalidad ilegítima:
 
@@ -3289,7 +3291,7 @@ AUTORIDAD JUDICIAL O ADMINISTRATIVA
 
 ###### Artículo 306.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 Se impondrán de seis meses a seis años de prisión y multa de treinta a ochenta veces el salario a quien con el propósito de obtener una resolución jurisdiccional de la que se derive perjuicio de alguien o un beneficio indebido o mayor del que le corresponde, con independencia de la obtención del resultado, simule actos jurídicos o altere elementos de prueba.
 
@@ -3305,7 +3307,7 @@ Cuando en la comisión de este delito intervenga de forma directa o indirecta un
 
 ###### Artículo 307.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 Quien al declarar por sí o por medio de representante ante autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad, en relación con los hechos que motivan la intervención de ésta, será sancionado con pena de seis meses a seis años de prisión y de cien a trescientos días multa.
 
@@ -3321,7 +3323,7 @@ Las penas a que se refiere el artículo anterior, se podrán aumentar hasta en u
 
 ###### Artículo 308.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 A quien con el propósito de inculpar o exculpar a alguien, de favorecer a su oferente o de causar un perjuicio a la contraparte, indebidamente, con independencia de la obtención del resultado, declare falsamente en calidad de testigo o como denunciante ante la autoridad, además de la multa a que se refiere el primer párrafo del artículo anterior, será sancionado con pena de tres a siete años de prisión.
 
@@ -3511,7 +3513,7 @@ A quien intervenga comunicaciones privadas sin mandato de autoridad judicial com
 
 A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le impondrán de tres a doce años de prisión y de doscientos a mil días multa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 327 Bis.
 
@@ -3555,7 +3557,7 @@ Las mismas penas se impondrán al que posea, utilice, adquiera o enajene, cualqu
 
 ###### Artículo 330.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2011)</small>
 
 A quien para obtener un beneficio o causar un daño, falsifique o altere un documento público o privado con independencia del resultado obtenido, se le impondrán de tres a seis años de prisión y de cien a mil días multa, tratándose de documentos públicos y de seis meses a tres años de prisión y de cincuenta a quinientos días multa, tratándose de documentos privados.
 
@@ -3751,11 +3753,11 @@ II. Separar o impedir el desempeño de su cargo al Gobernador del Estado, miembr
 
 La pena se aumentará en una mitad para quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
 
 ## TÍTULO VIGÉSIMO SEXTO. DELITOS CONTRA EL MEDIO AMBIENTE
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 350.
 
@@ -3845,11 +3847,11 @@ II. Si excediera de cuatro metros cúbicos, o su equivalente en producto transfo
 
 Las penas a que se hace referencia en los artículos 358 y 359 de este Código, se incrementarán hasta en tres años más de prisión y multa de hasta mil días de salario mínimo, cuando los recursos forestales maderables o no maderables provengan de un área natural protegida o una reserva ecológica.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ## TÍTULO VIGÉSIMO SÉPTIMO. DELITOS CONTRA EL DESARROLLO ZOOSANITARIO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 361.
 
@@ -3927,7 +3929,7 @@ En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JOSÉ REYES BAEZA TERRAZAS. EL SECRETARIO GENERAL DE GOBIERNO. LIC. FERNANDO RODRÍGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 27 DE OCTUBRE DE 2007.
 
@@ -3967,7 +3969,7 @@ SEGUNDO.- Las disposiciones de la presente Ley, serán aplicables a los mecanism
 
 P.O. 25 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 631/09 II P.O., POR EL QUE SE ADICIONA EL ARTICULO 307 BIS AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 631/09 II P.O., POR EL QUE SE ADICIONA EL ARTÍCULO 307 BIS AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3975,13 +3977,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 732/09 VI P.E., POR EL QUE SE REFORMA EL ARTICULO 148 AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 732/09 VI P.O., POR EL QUE SE REFORMA EL ARTÍCULO 148 AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 666/09 II P.O., POR EL QUE SE REFORMA EL ARTICULO 284 AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 666/09 II P.O., POR EL QUE SE REFORMA EL ARTÍCULO 284 AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3991,7 +3993,7 @@ TERCERO.- Las conductas previstas en el segundo párrafo del artículo 284 del C
 
 P.O. 28 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 747/09 I P.O., POR EL QUE SE ADICIONA EL ARTICULO 226 BIS AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 747/09 I P.O., POR EL QUE SE ADICIONA EL ARTÍCULO 226 BIS AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4003,7 +4005,7 @@ SEGUNDO.- Los artículos 438 al 455 del Código de Procedimientos Penales del Es
 
 P.O. 26 DE JUNIO DE 2010.
 
-DECRETO No. 1083/2010 II P.O., POR EL QUE SE ADICIONA LA FRACCION VIII, AL ARTICULO 224 DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1083/2010 II P.O., POR EL QUE SE ADICIONA LA FRACCIÓN VIII, AL ARTÍCULO 224 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4011,19 +4013,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 26 DE JUNIO DE 2010.
 
-DECRETO No. 1084/2010 II P.O., POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 32 DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO No. 1084/2010 II P.O., POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 32 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-DECRETO NUMERO 1167/2010, POR EL QUE SE REFORMA EL ARTICULO 136, EN SU PRIMER PARRAFO, Y SE ADICIONA UNA FRACCION IX, PASANDO EL CONTENIDO DE LA EXISTENTE A UNA FRACCION X, DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 1167/2010, POR EL QUE SE REFORMA EL ARTÍCULO 136, EN SU PRIMER PÁRRAFO, Y SE ADICIONA UNA FRACCIÓN IX, PASANDO EL CONTENIDO DE LA EXISTENTE A UNA FRACCIÓN X, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-DECRETO NUMERO 1142/2010, SE REFORMAN LOS ARTICULOS 32, QUINTO PARRAFO, Y 86 EN SU FRACCION I; AMBOS DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO NÚMERO 1142/2010, SE REFORMAN LOS ARTÍCULOS 32, QUINTO PÁRRAFO, Y 86 EN SU FRACCIÓN I; AMBOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 P.O. 25 DE SEPTIEMBRE DE 2010.
 
@@ -4101,7 +4103,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 1259/2010 XV P.E. POR EL QUE SE REFORMA EL ULTIMO PARRAFO DEL ARTICULO 28 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
+DECRETO NÚMERO 1259/2010 XV P.O. POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 28 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4109,7 +4111,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 58/2010 I P.O. POR EL QUE SE DEROGA LA FRACCION XII, DEL ARTICULO 211; Y SE ADICIONA UNA FRACCION V AL ARTICULO 212, AMBOS DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA
+DECRETO NÚMERO 58/2010 I P.O. POR EL QUE SE DEROGA LA FRACCIÓN XII, DEL ARTÍCULO 211; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 212, AMBOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4137,7 +4139,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 P.O. 8 DE OCTUBRE DE 2011.
 
-DECRETO N°. 318/2011 II P.O. POR LO QUE SE ADICIONAN AL TITULO VIGESIMO SEXTO DEL CODIGO PENAL DEL ESTADO DE CHIHUAHUA, EN SU CAPITULO UNICO, LOS ARTICULOS 358, 359 Y 360.
+DECRETO N°. 318/2011 II P.O. POR LO QUE SE ADICIONAN AL TÍTULO VIGÉSIMO SEXTO DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, EN SU CAPÍTULO ÚNICO, LOS ARTÍCULOS 358, 359 Y 360.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4145,7 +4147,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 8 DE OCTUBRE DE 2011.
 
-DECRETO N°. 464/2011 I P.O. POR LO QUE SE ADICIONA EL TITULO VIGESIMO SEPTIMO CON UN CAPITULO UNICO, Y LOS ARTICULOS 361, 362 Y 363, AL CODIGO PENAL DEL ESTADO DE CHIHUAHUA.
+DECRETO N°. 464/2011 I P.O. POR LO QUE SE ADICIONA EL TÍTULO VIGÉSIMO SÉPTIMO CON UN CAPÍTULO ÚNICO, Y LOS ARTÍCULOS 361, 362 Y 363, AL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4160,3 +4162,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Fiscalía General del Estado, contará con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, para el establecimiento y organización de unidades especializadas en la prevención, persecución e investigación de los delitos contenidos en los Capítulos III y IV del Título Vigésimo Segundo del Código Penal del Estado y todos aquellos del fuero común relacionados con el uso de Internet.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
