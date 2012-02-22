@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-comision-para-el-desarrollo-y-24778"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-20"
-last_updated: "2002-03-20"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA EL DESARROLLO Y FOMENTO DEL CAFE DE CHIAPAS
 
-REGLAMENTO INTERIOR DE LA COMISION PARA EL DESARROLLO Y FOMENTO DEL CAFE DE CHIAPAS
+REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL DESARROLLO Y FOMENTO DEL CAFÉ DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL DESARROLLO Y FOMENTO DEL CAFÉ DE CHIAPAS, PUBLICADO EN EL P.O. DE 22 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 20 de marzo de 2002.
 
@@ -596,3 +598,19 @@ SEGUNDO.-CON FUNDAMENTO EN EL ARTICULO 82 DE LA CONSTITUCION POLlTICA DEL ESTADO
 DADO EN LA SALA DE SESIONES DE LA COMISION; EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS; A LOS VEINTITRES DlAS DEL MES DE NOVIEMBRE, DEL AÑO DOS MIL UNO.
 
 PRESIDENTE DE LA JUNTA DE GOBIERNO, PABLO SALAZAR MENDIGUCHIA, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- VICEPRESIDENTE, RUBEN F. VELAZQUEZ LOPEZ, SECRETARIO DE DESARROLLO RURAL.- SECRETARIO TECNICO, JOSE ANGEL DEL VALLE MOLlNA, DELEGADO ESTATAL DE LA SAGARPA.- V O CAL ES: JESUS EVELIO ROJAS MORALES, SECRETARIO DE HACIENDA.- ALBERTO BURGUETE CHANONA, ENCARGADO DEL DESPACHO DE LA CONTRALORIA GENERAL.- REPRESENTANTES DE ORGANIZACIONES DE CAFETICULTORES DEL SECTOR SOCIAL: C. TIRSO L. ROBLERO RAMIREZ.- C.P. RICARDO CIGARROA LARA.- ING. VICTOR PEREZGROVAS GARZA.- REPRESENTANTES DE ORGANIZACIONES DE CAFETICULTORES DEL SECTOR PRIVADO: LIC. JESUS ORANTES ARAMONI.- C. TOMAS EDELMANN BLASS.- LIC. ADRIAN MARENCO OLAVARRIETA.- REPRESENTANTES DE ORGANIZACIONES DE CAFETICULTORES DEL RESTO DE LA CADENA PRODUCTIVA: C. ENRIQUE EDELMANN LOPEZ.- C. JORGE LOPEZ CALDERON.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2012.
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Comisión para el Desarrollo y Fomento del Café de Chiapas, publicado en Periódico Oficial No. 099, de fecha 20 de marzo de 2002, así como sus reformas publicadas en el Periódico Oficial No. 247, Tomo II, de fecha 14 de julio de 2004, y se derogan todas las disposiciones que de éstos emanen y aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- El Manual de Organización de la Comisión, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Cuarto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Quinto.- Para las cuestiones no previstas en el presente Reglamento Interior y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente, previa aprobación de la Junta de Gobierno.
+
+Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
