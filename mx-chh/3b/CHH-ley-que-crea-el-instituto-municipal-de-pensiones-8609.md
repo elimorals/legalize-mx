@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-instituto-municipal-de-pensiones-8609"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-27"
-last_updated: "2000-11-11"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO MUNICIPAL DE PENSIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de agosto de 1983.
 
@@ -39,9 +39,11 @@ INSTITUTO MUNICIPAL DE PENSIONES
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 1.
 
-Esta Ley tiene por objeto regular las prestaciones de seguridad social de los trabajadores al servicio del Municipio de Chihuahua.
+Esta Ley tiene por objeto regular las prestaciones de seguridad social de los trabajadores al servicio del Municipio de Chihuahua y los Organismos Municipales Descentralizados que se incorporen, así como las del propio Instituto.
 
 ###### ARTICULO 2.
 
@@ -153,7 +155,7 @@ XV.- Las que resulten para el debido funcionamiento del Instituto.
 
 El Director podrá delegar estas facultades en el Director Ejecutivo, sin perder por ello la posibilidad de su ejercicio director (sic).
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ### CAPITULO TERCERO. REGIMENES PATRIMONIALES Y FINANCIERO
 
@@ -179,7 +181,7 @@ V.- El importe de prestaciones no reclamadas por los interesados, respecto de la
 
 VI.- Cualquier otra aportación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 11.
 
@@ -191,11 +193,17 @@ Las aportaciones serán revisadas anualmente y se cubrirán por partes iguales.
 
 Los derechohabientes que contribuyan al fondo del Instituto solamente adquirirán el derecho de recibir los beneficios en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 13.
 
 Para el cobro de las aportaciones el Instituto se considera organismo fiscal autónomo, aplicándose para este efecto el Código Municipal en materia de créditos fiscales.
 
-El derecho a la jubilación y a la pensión es imprescriptible. Las pensiones caídas, el retiro del fondo y cualquier prestación en dinero a cargo del Instituto, que no reclamen los interesados prescribirán a los cinco años siguientes a la fecha en que fueren exigibles.
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+###### ARTICULO 13 Bis.
+
+El derecho a jubilación y a la pensión es imprescriptible. Las pensiones caídas, el retiro del fondo y cualquier prestación en dinero a cargo del Instituto, que no reclamen los interesados prescribirán a los cinco años siguientes a la fecha en que fueren exigibles.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
@@ -527,15 +535,13 @@ II.- Los ingresos por recuperaciones obtenidas por cualquier concepto que sea pr
 
 III.- Cualquier otra prestación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 53.
 
-Los derechohabientes aportarán al fondo mencionado en el artículo anterior, el 7% calculado sobre el total de sus percepciones, aún las de carácter extraordinario.
+Los derechohabientes aportarán al fondo mencionado en el artículo anterior, el 10% calculado sobre el salario nominal.
 
-En las mismas condiciones, el Municipio y los Organismos Descentralizados Municipales que se incorporen, efectuarán su aportación.
-
-El Municipio y los Organismos Descentralizados Municipales que se incorporen aportarán la diferencia entre el costo total de los servicios médicos y el monto de las aportaciones.
+En las mismas condiciones, el Municipio y los Organismos Descentralizados Municipales que se incorporen, aportarán la diferencia entre el costo total de los servicios médicos y el monto de las aportaciones.
 
 Cuando entre el costo del servicio médico y las aportaciones de las partes haya una diferencia igual o mayor al 50% de lo aportado, el Consejo Directivo deberá hacer una revisión de los gastos de servicios médicos y las aportaciones, para adecuar el monto de las aportaciones de las partes, al costo real del servicio médico.
 
@@ -735,11 +741,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ARMANDO ALMEIDA MARTINEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE SEPTIEMBRE DE 1988.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 30 DE DICIEMBRE DE 1995.
 
@@ -748,3 +754,9 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 11 DE NOVIEMBRE DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
