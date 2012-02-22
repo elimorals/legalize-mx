@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-85273"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-19"
-last_updated: "2011-12-19"
+last_updated: "2012-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2012
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 19 de diciembre de 2011.
 
@@ -6659,9 +6659,11 @@ b) Por expediente, por cada hoja $2.00
 
 La consulta de información y documentación que realicen los particulares en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla será gratuita, salvo que para su entrega se requiera su impresión o almacenamiento, en cuyo caso se pagarán las cuotas siguientes:
 
+> <small>(REFORMADA EN SU CUOTA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 I.- Por la expedición de certificación de datos o
 
-documentos, por cada hoja $80.00
+documentos, por cada hoja $20.00
 
 II.- Expedición de hojas simples, por cada hoja $2.00
 
@@ -6669,7 +6671,7 @@ III.- Disco Flexible de 3.5” $40.00
 
 IV.- Disco compacto $45.00
 
-La información y documentación comprobatoria del ejercicio del gasto público y la relativa a la operación recaudatoria y resoluciones de carácter fiscal que, en términos de las disposiciones aplicables no exista impedimento para proporcionarla, sólo se entregará en forma impresa y certificada, previo el pago de los derechos a que se refiere la fracción I de este artículo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 74.
 
@@ -6684,6 +6686,10 @@ El pago extemporáneo de los derechos en los que en este Título se está señal
 La prestación de los servicios a que se refiere el presente Título estará sujeta a que los particulares exhiban los comprobantes de pago correspondientes y en los casos que proceda, reúnan los requisitos que señale esta Ley, las disposiciones fiscales aplicables, las reglas de carácter general y/o los lineamientos que emitan y den a conocer las autoridades, en el ámbito de sus respectivas competencias.
 
 En la prestación de cada uno de estos servicios, el contribuyente deberá señalar su clave del Registro Federal y Estatal de Contribuyentes, salvo en aquéllos que soliciten las personas físicas que, por la naturaleza de la contraprestación, se presuma que no tiene la obligación de inscribirse en ninguno de dichos registros, supuestos en los que invariablemente deberá señalarse la Clave Única del Registro de Población; para estos efectos las unidades responsables del servicio de que se trata diseñarán los formatos impresos o digitales que al efecto se requieran.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+
+Respecto del pago de los derechos regulados por el artículo 73 de esta Ley relativos a la obtención de la información pública, no serán aplicables las disposiciones contenidas en el párrafo anterior.
 
 ###### ARTÍCULO 77.
 
@@ -6942,3 +6948,15 @@ No será aplicable la carga financiera a que se refiere este artículo cuando la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinticuatro días del mes de noviembre de dos mil once.- Diputado Presidente.- JOSÉ LAURO SÁNCHEZ LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
