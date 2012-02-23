@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2011-10-20"
+last_updated: "2012-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -55,113 +55,123 @@ II. Regular la planeación, gestión y preservación de las aguas sujetas a las 
 
 III. Regular la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales por los municipios, de acuerdo con el artículo 115 de la Constitución General de la República.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 3°.
 
 Para efectos de la presente Ley se entiende por:
 
-I. Aguas estatales: aquéllas que son patrimonio del Estado y que se encuentran sujetas a sus disposiciones, de acuerdo con el párrafo quinto del' artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en términos del artículo 110 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
+I. Aguas estatales: aquéllas que son patrimonio del Estado y que se encuentran sujetas a sus disposiciones, de acuerdo con el párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en términos del artículo 110 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
 
 II. Aguas nacionales: las aguas propiedad de la Nación, en los términos del párrafo quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
 III. Aguas pluviales: aquéllas que provienen de lluvias, incluyendo las que provienen de nieve y granizo;
 
-IV. Agua potable: la que puede ser ingerida sin provocar efectos nocivos a la salud y que reúne las características establecidas por las normas oficiales mexicanas;
+IV. Agua potable: la que puede ser utilizada sin provocar efectos nocivos a la salud, que reúne los requisitos establecidos en las normas oficiales mexicanas vigentes, y se distribuye principalmente a través de los servicios de agua potable y saneamiento;
 
 V. Aguas residuales: las aguas de composición variada provenientes de las descargas de usos público urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y, en general, de cualquier uso; así como la mezcla de ellas que por el uso o aprovechamiento de que han sido objeto, contengan contaminantes que dañen, modifiquen o alteren su calidad original;
 
-VI. Alcantarillado: la red o sistema de conductos y accesorios para recolectar y conducir las aguas residuales y pluviales hasta el sitio de su tratamiento o disposición final;
+VI. Agua tratada: agua residual resultante de haber sido sometida a procesos para remover total o parcialmente sus cargas contaminantes;
 
-VII. El ayuntamiento: los ayuntamientos; VIII. El cabildo: los cabildos;
+VII. Alcantarillado: la red o sistema de conductos y accesorios para recolectar y conducir las aguas residuales y pluviales hasta el sitio de su tratamiento o disposición final;
 
-IX. Centro de población: el área urbana ocupada por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas; y las que se dediquen a la fundación del mismo, conforme a la normatividad aplicable;
+VIII. Centro de población: el área urbana ocupada por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas; y las que se dediquen a la fundación del mismo, conforme a la normatividad aplicable;
 
-X. Comisión: Comisión Estatal del Agua;
+IX. Comisión: Comisión Estatal del Agua;
 
-XI. Comités de agua rurales: los organismos auxiliares del ayuntamiento, constituidos y reglamentados por éste, que tienen por objeto la prestación de los servicios para una población determinada y circunscrita a un territorio;
+X. Comités de agua rurales: los organismos auxiliares del ayuntamiento, constituidos y reglamentados por éste, que tienen por objeto la prestación de los servicios para una población determinada y circunscrita a un territorio;
 
-XII. Comunidad rural: los centros de población con menos de dos mil quinientos mil habitantes;
+XI. Comunidad rural: los centros de población con menos de dos mil quinientos habitantes;
 
-XIII. Concesión: título que otorgan el Ejecutivo del Estado, a través de la Comisión, y los ayuntamientos, conforme a sus respectivas competencias o para la explotación, uso o aprovechamiento de las aguas estatales, y de sus bienes Inherentes o de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, a las personas físicas o morales;
+XII. Concesión: título que otorgan, el Ejecutivo del Estado, a través de la Comisión; y los ayuntamientos, conforme a sus respectivas competencias, para la explotación, uso o aprovechamiento de las aguas estatales, y de sus bienes inherentes; o de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, a las personas físicas o morales;
 
-XIV. Concesionario: la persona física o moral a la que se concesionen:
+XIII. Concesionario: la persona física o moral a la que se concesionen:
 
 a) Las aguas o sus bienes inherentes para su explotación.
 
 b) Los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
 
-XV. Congreso: el Honorable Congreso del Estado de San Luis Potosí;
+XIV. Congreso: el Honorable Congreso del Estado de San Luis Potosí;
 
-XVI. Contratistas: las personas físicas o morales que celebren contratos con los municipios, organismos descentralizados, o la Comisión, en los términos de esta Ley;
+XV. Contratistas: las personas físicas o morales que celebren contratos con los municipios, organismos descentralizados, o la Comisión, en los términos de esta Ley;
 
-XVII. Cuerpo receptor: las corrientes o depósitos naturales, presas, cauces, embalses creados por el hombre, drenajes y alcantarillados, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales;
+XVI. Cuerpo receptor: las corrientes o depósitos naturales, presas, cauces, embalses creados por el hombre, drenajes y alcantarillados, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales;
 
-XVIII. Cuota: contraprestación que se debe pagar por el uso de un bien o servicio;
+XVII. Cuota: contraprestación que se debe pagar por el uso de un bien o servicio;
 
-XIX. Derivación: la conexión a la instalación hidráulica interior de un predio, para abastecer de agua a uno o más usuarios localizados en el mismo predio;
+XVIII. Derivación: la conexión a la instalación hidráulica interior de un predio, para abastecer de agua a uno o más usuarios localizados en el mismo;
 
-XX. Descarga: acción de verter, infiltrar, depositar o inyectar aguas residuales o pluviales en el sistema de alcantarillado, drenaje o cuerpo receptor;
+XIX. Descarga: acción de verter, infiltrar, depositar o inyectar aguas residuales o pluviales en el sistema de alcantarillado, drenaje o cuerpo receptor;
 
-XXI. Drenaje: sistema de conductos abiertos o cerrados, estructuras hidráulicas y accesorios para el desagüe y alejamiento de las aguas residuales y pluviales;
+XX. Drenaje: sistema de conductos abiertos o cerrados, estructuras hidráulicas y accesorios para el desagüe y alejamiento de las aguas residuales y pluviales;
 
-XXII. Fraccionamiento de predios:
+XXI. El ayuntamiento: los ayuntamientos;
 
-a). La división de un predio en dos o más lotes, que requiere apertura de vías públicas o calles privadas; o cuando se establezcan servidumbres de paso, así como de obras de urbanización y equipamiento, en su caso, de ejecución progresiva.
+XXII. El cabildo: los cabildos;
 
-b). La división de la cosa común en caso de copropiedad, cuando con aquélla se afecten las funciones de la vida urbana o los servicios públicos, en los términos de la Ley de Desarrollo Urbano del Estado y de los planes y programas de la materia;
+XXIII. Fraccionamiento de predios:
 
-XXIII. Infraestructura intradomiciliaria la obra interna que requiere el usuario final de cada predio, para recibir los servicios hídricos;
+a) La división de un predio en dos o más lotes, que requiere apertura de vías públicas o calles privadas; o cuando se establezcan servidumbres de paso, así como de obras de urbanización y equipamiento, en su caso, de ejecución progresiva.
 
-XXIV. Materiales pétreos: materiales tales como arena, grava, piedra y/o cualquier otro tipo de material utilizado en la construcción, que sea extraído de un vaso o cauce de una corriente;
+b) La división de la cosa común en caso de copropiedad, cuando con aquélla se afecten las funciones de la vida urbana o los servicios públicos, en los términos de la Ley de Desarrollo Urbano del Estado, y de los planes y programas de la materia;
 
-XXV. Organismo operador: el organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio, cuyo objeto general será la prestación de los servicios de agua potable, alcantarillado, tratamiento y disposición de aguas residuales, pudiendo ser:
+XXIV. Indicadores de gestión: parámetros de medición elegidos como variables relevantes que permiten reflejar suficientemente una realidad, referidos a un momento o a un intervalo temporal determinado y que pretenden informar sobre aspectos de administración, producción, planificación, técnicos, financieros y demás conceptos, concernientes a una o varias organizaciones que presten servicios de agua potable y saneamiento;
 
-a). Paramunicipal: el establecido en un municipio en el que presta los servicios públicos.
+XXV. Infraestructura intradomiciliaria: la obra interna que requiere el usuario final de cada predio, para recibir los servicios hídricos;
 
-b) Intermunicipal: el establecido en un área geográfica determinada, de dos o más municipios, en que presta los servicios públicos;
+XXVI. Materiales pétreos: materiales tales como arena, grava, piedra y/o cualquier otro tipo de material utilizado en la construcción, que sea extraído de un vaso o cauce de una corriente;
 
-XXVI. Prestador de los servicios: quien proporcione los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, ya sea el ayuntamiento, los comités de agua rurales, los organismos operadores descentralizados, los concesionarios, o la Comisión;
+XXVII. Organismo operador: el ente público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio, cuyo objetivo principal es la responsabilidad de organizar y tomar a su cargo en forma parcial o integral, la administración, operación, conservación, mantenimiento, rehabilitación, ampliación y eficiencia en la prestación de los servicios de agua potable y saneamiento de aguas residuales, dentro de los límites de su circunscripción territorial a través de cualquier sistema o método, a más de un predio, cualquiera que sea la fuente de abastecimiento, pudiendo ser:
 
-XXVII. Programa estatal hídrico: documento básico de la planeación hídrica estatal, que establece las políticas públicas y describe las acciones del sector hídrico;
+a) Paramunicipal: el establecido en un municipio en el que presta los servicios públicos.
 
-XXVIII. Programa operativo anual: instrumento de planeación que conjunta en el corto plazo, tanto el diseño general de la política hidráulica, como los lineamientos específicos, sobre cuya base se asignan los recursos públicos, y de esta manera, garantiza la compatibilidad entre los diversos instrumentos anuales de la planeación;
+b) Intermunicipal: el establecido en un área geográfica determinada, de dos o más municipios, en los que presta los servicios públicos;
 
-XXIX. Recursos hídricos: recursos de agua dulce contenida en cualquier tipo de cuerpos y cauces de agua disponible para su uso, explotación y aprovechamiento; así como las aguas derivadas de la precipitación pluvial o tratamiento, incluyendo los procesos naturales y artificiales de su interacción en el entorno biótico y abiótico de todo el sistema hidrológico, considerando el recurso suelo;
+XXVIII. Prestador de los servicios: quien proporcione los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, ya sea el ayuntamiento, los comités de agua rurales, los organismos operadores descentralizados, los concesionarios, o la Comisión;
 
-XXX. Reglamento: el Reglamento de la presente Ley;
+XXIX. Programa estatal hídrico: documento básico de la planeación hídrica estatal que establece las políticas públicas, y describe las acciones del sector hídrico;
 
-XXXI. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto;
+XXX. Programa operativo anual: instrumento de planeación que conjunta en el corto plazo, tanto el diseño general de la política hidráulica, como los lineamientos específicos, sobre cuya base se asignan los recursos públicos y, de esta manera, garantiza la compatibilidad entre los diversos instrumentos anuales de la planeación;
 
-XXXII. Reuso: la explotación, uso o aprovechamiento de aguas residuales, con o sin tratamiento previo;
+XXXI. Recursos hídricos: recursos de agua dulce contenida en cualquier tipo de cuerpos y cauces de agua disponible para su uso, explotación y aprovechamiento; así como las aguas derivadas de la precipitación pluvial o tratamiento, incluyendo los procesos naturales y artificiales de su interacción en el entorno biótico y abiótico de todo el sistema hidrológico, considerando el recurso suelo;
 
-XXXIII. SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
+XXXII. Reglamento: el reglamento de la presente Ley;
 
-XXXIV. SEGAM: Secretaría de Ecología y Gestión Ambiental;
+XXXIII. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto;
 
-XXXV. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+XXXIV. Reuso: la explotación, uso o aprovechamiento de aguas residuales, con o sin tratamiento previo;
 
-XXXVI. Tarifa: el conjunto de valores unitarios que sirve de base para determinar las cuotas, que deben pagar los usuarios como contra prestación por los servicios públicos proporcionados;
+XXXV. Saneamiento: las medidas y acciones necesarias para colectar, conducir, tratar las aguas residuales con fines de eliminar total o parcialmente agentes patógenos y su descarga, así como su disposición final y, en general, las acciones necesarias para preservar y mejorar la calidad del agua;
 
-XXXVII. Toma: conexión a la red para dar servicio de agua al predio del usuario, incluyendo el ramal y el cuadro;
+XXXVI. SEDARH: Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos;
 
-XXXVIII. Tratamiento de aguas residuales: conjunto de acciones para mejorar la calidad del agua residual, para cumplir con la normatividad vigente para su reuso;
+XXXVII. SEGAM: Secretaría de Ecología y Gestión Ambiental;
 
-XXXIX. Uso: aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
+XXXVIII. Servicios públicos: los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-XL. Uso comercial: la utilización del agua en establecimientos y oficinas, dedicadas a la comercialización de bienes y servicios;
+XXXIX. Tarifa: el conjunto de valores unitarios que sirve de base para determinar las cuotas que deben pagar los usuarios como contraprestación por los servicios públicos proporcionados;
 
-XLI. Uso doméstico: la utilización de agua destinada al uso particular de las personas y de las viviendas; así como el riego de jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos, siempre que éstas últimas dos aplicaciones no constituyan actividades lucrativas;
+XL. Toma: conexión a la red para dar servicio de agua al predio del usuario, incluyendo el ramal y el cuadro;
 
-XLII. Uso industrial: la utilización de agua en extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa; las salmueras que se utilizan para la extracción de cualquier tipo de sustancias, y el agua aun en estado de vapor que es usada para la generación de energía eléctrica o para cualquier otro propósito de transformación;
+XLI. Tratamiento de aguas residuales: conjunto de acciones para mejorar la calidad del agua residual, para cumplir con la normatividad vigente para su reuso;
+
+XLII. Uso: aplicación del agua a una actividad que implique el consumo, parcial o total de ese recurso;
 
 XLIII. Uso agropecuario: el empleo de agua para riego, cría y engorda de ganado, aves de corral y otros animales en preparación para su primera enajenación, siempre y cuando no comprendan ninguna transformación industrial;
 
-XLIV. Uso público urbano: la utilización de agua para el abasto a centros de población o asentamientos humanos, a través de la red de distribución a cargo del prestador de los servicios;
+XLIV. Uso comercial: la utilización del agua en establecimientos y oficinas, dedicadas a la comercialización de bienes y servicios;
 
-XLV. Usuario: la persona física o moral que utilice los servicios públicos;
+XLV. Uso doméstico: la utilización de agua destinada al uso particular de las personas y de las viviendas; así como el riego de jardines y de árboles de ornato, incluyendo el abrevadero de animales domésticos, siempre que éstas últimas dos aplicaciones no constituyan actividades lucrativas;
 
-XLVI. Zona de protección: la faja de terreno de hasta cincuenta metros de anchura, inmediata a las trazas de las presas, estructuras hidráulicas y otra infraestructura hidráulica e instalaciones conexas, cuando dichas obras sean de propiedad estatal para su protección y adecuada operación, conservación y vigilancia, y
+XLVI. Uso industrial: la utilización de agua en extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa; las salmueras que se utilizan para la extracción de cualquier tipo de sustancias, y el agua aún en estado de vapor que es usada para la generación de energía eléctrica o para cualquier otro propósito de transformación;
 
-XLVII. Zona estatal: las franjas de hasta diez metros de anchura, medidos en forma horizontal, contiguas a los cauces o a los vasos o depósitos de propiedad estatal, a partir del nivel de aguas máximas ordinarias.
+XLVII. Uso público urbano: la utilización de agua para el abasto a centros de población o asentamientos humanos, a través de la red de distribución a cargo del prestador de los servicios;
+
+XLVIII. Usuario: la persona física o moral que utilice los servicios públicos;
+
+XLIX. Zona de protección: la franja de terreno de hasta cincuenta metros de anchura, inmediata a las trazas de las presas, estructuras hidráulicas y otra infraestructura hidráulica e instalaciones conexas, cuando dichas obras sean de propiedad estatal para su protección y adecuada operación, conservación y vigilancia, y
+
+L. Zona estatal: las franjas de hasta diez metros de anchura, medidos en forma horizontal, contiguas a los cauces o a los vasos o depósitos de propiedad estatal, a partir del nivel de aguas máximas ordinarias.
 
 ###### ARTICULO 4°.
 
@@ -305,11 +315,17 @@ XXXVII. Ordenar que se practiquen las visitas de inspección y verificación en 
 
 XXXVIII. Tramitar y resolver los recursos o medios de impugnación que se interpongan en contra de sus actos y resoluciones;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-XXXIX. Aplicar las normas, criterios de eficiencia, indicadores de gestión y modelos técnico-administrativos, para evaluar la gestión técnica, ambiental, financiera y administrativa de los organismos operadores, para la determinación de inversiones, incentivos y estímulos por la Federación.
+XXXIX. Aplicar las normas, criterios de eficiencia, indicadores de gestión y modelos técnicos-administrativos, para evaluar la gestión, ambiental, financiera y administrativa de los organismos operadores, para la determinación de inversiones, incentivos y estímulos por la Federación;
 
-XL. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+XL. Diseñar indicadores de gestión que permitan evaluar la eficiencia de los prestadores del servicio de agua potable, drenaje y alcantarillado, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+XLI. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos, así como las que en materia de agua le sean transferidas por la Federación al Gobierno del Estado, en los términos de ley y de los convenios que al efecto se celebren.
 
 ###### ARTICULO 9°.
 
@@ -1311,11 +1327,17 @@ XII. Ordenar y ejecutar la restricción o suspensión del servicio por falta de 
 
 XIII. Promover, en el ámbito de su competencia, la cultura del agua potable, para que se reconozca el valor real del recurso; así como fomentar el pago justo y oportuno por los servicios prestados;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-XIV. Instrumentar un programa permanente de cultura del agua que destaque el valor real del recurso, que considere el uso eficiente, reuso, saneamiento y cuidado del agua, e involucre a todos los sectores y usuarios del subsector de agua potable; además, acciones de capacitación para el uso eficiente y adecuado de las instalaciones hidrosanitarias y de saneamiento en el ámbito de su competencia, y
+XIV. Instrumentar un programa permanente de cultura del agua que destaque el valor real del recurso, que considere el uso eficiente, reuso, saneamiento y cuidado del agua, e involucre a todos los sectores y usuarios del subsector de agua potable; además, acciones de capacitación para el uso eficiente y adecuado de las instalaciones hidrosanitarias y de saneamiento en el ámbito de su competencia;
 
-XV. Las demás que le asigne la presente Ley, su decreto de creación, la legislación y los reglamentos aplicables.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+XV. Aplicar indicadores de gestión de forma permanente, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+XVI. Las demás que le asigne la presente Ley, su decreto de creación, la legislación y los reglamentos aplicables.
 
 ###### ARTICULO 93.
 
@@ -1577,7 +1599,7 @@ XV. Las demás que le señalen las disposiciones legales y reglamentarias aplica
 
 ARTICULO 101 BIS. Para ser designado Contralor Interno del organismo operador de agua, deberán reunir los requisitos que se exigen para ser Contralor Interno de los ayuntamientos, en los términos previstos por el artículo 85 de la Ley Orgánica del Municipio Libre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 102.
 
@@ -1873,9 +1895,17 @@ VI. Cubrir los derechos y aprovechamientos por la explotación y supervisión de
 
 VII. Dar cumplimiento en la prestación de los servicios públicos, a lo dispuesto en la legislación del equilibrio ecológico y protección al ambiente y las normas oficiales mexicanas que se emitan en relación con los mismos;
 
-VIII. Si el ayuntamiento así lo estima conveniente y lo exigen al concesionario, éste deberá contratar por su cuenta y mantener en vigor las pólizas de seguros contra riesgos respecto de la infraestructura destinada a la prestación del servicio concesionado, en el concepto de que el importe de la indemnización deberá aplicarse a la reparación del o los daños causados, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-IX. Las demás que señale el título de concesión en los términos del concurso, y las que resulten procedentes en los términos de la legislación aplicable.
+VIII. Si el ayuntamiento así lo estima conveniente y lo exigen al concesionario, éste deberá contratar por su cuenta y mantener en vigor las pólizas de seguros contra riesgos respecto de la infraestructura destinada a la prestación del servicio concesionado, en el concepto de que el importe de la indemnización deberá aplicarse a la reparación del o los daños causados;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+IX. Aplicar indicadores de gestión de forma permanente, tendientes a mantener niveles de eficiencia a favor de sus usuarios, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+X. Las demás que señale el título de concesión en los términos del concurso, y las que resulten procedentes en los términos de la legislación aplicable.
 
 ###### ARTICULO 121.
 
@@ -2495,7 +2525,7 @@ Los centros o instituciones educativas de competencia del Estado, así como las 
 
 ARTICULO 190 BIS. Para efectos de esta Ley se entiende por Cultura del Agua, al conjunto de creencias, conductas y estrategias comunitarias para el uso del agua, que sean reflejadas mediante políticas públicas, conforme a las condiciones socio-demográficas de las diferentes regiones del Estado, destinadas al uso y aprovechamiento racional y sostenible, realizadas por las autoridades competentes de aplicar este Ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 191.
 
@@ -3023,7 +3053,7 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 4 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 366, POR EL QUE SE REFORMA LOS ARTICULOS, 8° EN SU FRACCION X, 23 EN SUS FRACCIONES V Y VI, Y 92 EN SU FRACCION XII; Y ADICIONA A LOS ARTICULOS, 8° LAS FRACCIONES XI Y XII, POR LO QUE ACTUALES XI A XXXVII PASAN A SER FRACCIONES XIII A XXXIX, 19 EL PARRAFO SEXTO Y LOS INCISOS A) A G), 23 LAS FRACCIONES VII Y VIII, 92 DOS FRACCIONES, ESTAS COMO XIII Y XIV, POR LO QUE ACTUAL XIII PASA A SER FRACCION XV, Y EL ARTICULO 190 BIS, DE Y A LA LEY DE AGUAS DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NUMERO 366, POR EL QUE SE REFORMA LOS ARTÍCULOS, 8° EN SU FRACCIÓN X, 23 EN SUS FRACCIONES V Y VI, Y 92 EN SU FRACCIÓN XII; Y ADICIONA A LOS ARTÍCULOS, 8° LAS FRACCIONES XI Y XII, POR LO QUE ACTUALES XI A XXXVII PASAN A SER FRACCIONES XIII A XXXIX, 19 EL PÁRRAFO SEXTO Y LOS INCISOS A) A G), 23 LAS FRACCIONES VII Y VIII, 92 DOS FRACCIONES, ESTAS COMO XIII Y XIV, POR LO QUE ACTUAL XIII PASA A SER FRACCIÓN XV, Y EL ARTÍCULO 190 BIS, DE Y A LA LEY DE AGUAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3031,7 +3061,7 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 4 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 367, POR EL QUE SE DEROGA EL ARTICULO 83 DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 367, POR EL QUE SE DEROGA EL ARTÍCULO 83 DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3063,7 +3093,7 @@ CUARTO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 20 DE OCTUBRE DE 2011.
 
-DECRETO 738 POR EL QUE SE REFORMA EL ARTICULO 143, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+DECRETO 738 POR EL QUE SE REFORMA EL ARTÍCULO 143, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3071,7 +3101,7 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 20 DE OCTUBRE DE 2011.
 
-DECRETO 739 POR EL QUE SE REFORMA LOS ARTICULOS 103, 104; Y ADICIONA LOS ARTICULOS, 104 BIS A 104 SEXTIES, DE Y A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+DECRETO 739 POR EL QUE SE REFORMA LOS ARTÍCULOS 103, 104; Y ADICIONA LOS ARTÍCULOS, 104 BIS A 104 SEXTIES, DE Y A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3083,7 +3113,13 @@ CUARTO. Para los ayuntamientos que no cuenten con asociaciones, cámaras, colegi
 
 P.O. 20 DE OCTUBRE DE 2011.
 
-DECRETO 740 POR EL QUE SE REFORMA LOS ARTICULOS, 92 EN SU FRACCION VII; 97 EN SU PARRAFO ULTIMO; 100 EN SUS FRACCIONES II EL PARRAFO PRIMERO Y XIV, 101, 102 EL PARRAFO PRIMERO, Y 191 EL PARRAFO PRIMERO; ADICIONA EL ARTICULO 101 BIS, Y AL ARTICULO 102 EL PARRAFO TERCERO; Y DEROGA EN EL ARTICULO 96 LA FRACCION V, DE Y A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSI.
+DECRETO 740 POR EL QUE SE REFORMA LOS ARTÍCULOS, 92 EN SU FRACCIÓN VII; 97 EN SU PÁRRAFO ÚLTIMO; 100 EN SUS FRACCIONES II EL PÁRRAFO PRIMERO Y XIV, 101, 102 EL PÁRRAFO PRIMERO, Y 191 EL PÁRRAFO PRIMERO; ADICIONA EL ARTÍCULO 101 BIS, Y AL ARTÍCULO 102 EL PÁRRAFO TERCERO; Y DEROGA EN EL ARTÍCULO 96 LA FRACCIÓN V, DE Y A LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
