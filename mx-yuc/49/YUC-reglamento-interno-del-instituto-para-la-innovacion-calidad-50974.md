@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interno-del-instituto-para-la-innovacion-calidad-509
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-22"
-last_updated: "2006-06-22"
+last_updated: "2012-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO PARA LA INNOVACION, CALIDAD Y COMPETITIVIDAD
 
-REGLAMENTO INTERNO DEL INSTITUTO PARA LA INNOVACION, CALIDAD Y COMPETITIVIDAD
+REGLAMENTO INTERNO DEL INSTITUTO PARA LA INNOVACIÓN, CALIDAD Y COMPETITIVIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO NÚMERO INICC 02/10 2011 QUE APRUEBA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA INNOVACIÓN, CALIDAD Y COMPETITIVIDAD, PUBLICADO EN EL D.O. DE 23 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 22 de junio de 2006.
 
@@ -260,3 +262,15 @@ LA DIRECTORA GENERAL DEL INSTITUTO PARA LA INNOVACIÓN, CALIDAD Y COMPETITIVIDAD
 (RÚBRICA)
 
 L.I. REGINA GARZA ROCHE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 23 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Estatuto entrará en vigor el día hábil siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán;
+
+SEGUNDO.- Queda Abrogado el Reglamento Interior (sic) del Instituto para la Innovación, Calidad y Competitividad publicado el 22 de junio del 2006 en el Diario Oficial del Gobierno del Estado de Yucatán;
+
+TERCERO.- El Director General del Instituto enviará el presente Acuerdo al Diario Oficial del Gobierno del Estado de Yucatán en un término que no exceda de cinco días hábiles a partir de su aprobación a fin de que sea publicado.
+
+CUARTO.- El Director General del Instituto deberá cumplir con la obligación de registrar el presente Estatuto en el Registro de Organismos Descentralizados dentro del término de treinta días hábiles contados a partir del inicio de vigencia de esta norma.
