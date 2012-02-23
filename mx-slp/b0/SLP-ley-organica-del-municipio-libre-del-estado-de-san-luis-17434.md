@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2011-10-22"
+last_updated: "2012-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -987,9 +987,17 @@ XXXV. Expedir, previa aprobación del Cabildo en los términos de esta Ley, lice
 
 XXXVI. Visitar cuando menos dos veces al año todas las localidades que se encuentren dentro de la circunscripción municipal, para verificar el estado que guardan los servicios públicos;
 
-XXXVII. En materia de seguridad pública ejercer las facultades que le confieren la Ley de Seguridad Pública del Estado, las que le correspondan en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como las que le confiera la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, y los convenios que en materia de seguridad pública celebre el Ayuntamiento, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-XXXVIII. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
+XXXVII. En materia de seguridad pública ejercer las facultades que le confieren la Ley de Seguridad Pública del Estado, las que le correspondan en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, así como las que le confiera la Ley que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, y los convenios que en materia de seguridad pública celebre el Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+XXXVIII. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, sólo en los casos en los que no se encuentre en funciones el contralor interno, cuando por cualquiera de las razones establecidas en el artículo 56 fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado, el contralor interno se encuentra impedido para conocer o, cuando sea el propio contralor interno el presunto responsable al que se someterá a procedimiento administrativo sancionatorio, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+XXXIX. Las demás que se deriven de esta Ley u otros ordenamientos aplicables.
 
 ###### ARTICULO 71.
 
@@ -1295,9 +1303,9 @@ VII. Dictaminar los estados financieros de la Tesorería municipal y verificar q
 
 VIII. Participar en la elaboración y actualización de los inventarios generales de bienes muebles e inmuebles propiedad del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-IX. Apoyar al Presidente Municipal en la substanciación de los procedimientos administrativos disciplinarios y resarcitorios, determinando o no, la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
+IX. Substanciar los procedimientos administrativos disciplinarios y resarcitorios, determinando o no la existencia de responsabilidades administrativas, por incumplimiento de las obligaciones de los servidores públicos municipales no sujetos a responsabilidad por parte del Congreso del Estado, pudiendo aplicar las sanciones disciplinarias correspondientes, por acuerdo de Cabildo;
 
 X. Informar oportunamente a los servidores públicos municipales acerca de la obligación de manifestar sus bienes, verificando que tal declaración se presente en los términos de ley, y (sic)
 
@@ -2362,3 +2370,7 @@ P.O. 22 DE OCTUBRE DE 2011.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones contrarias a este Decreto.
+
+P.O. 23 DE FEBRERO DE 2012.
+
+UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
