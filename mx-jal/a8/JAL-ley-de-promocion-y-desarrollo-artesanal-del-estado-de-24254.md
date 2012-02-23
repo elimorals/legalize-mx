@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-24254"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-19"
-last_updated: "2011-10-01"
+last_updated: "2012-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de marzo de 2002.
 
@@ -263,7 +263,7 @@ I. Técnicas artesanales: su objeto es el registro de cuantos trabajos y activid
 
 II. Talleres y empresas artesanales: su objeto es el registro de todas las unidades económicas que solicitaren y obtuvieren la calificación de taller o empresa artesanal;
 
-III. Artesanos: su objeto es el registro de los que obtengan y acrediten el reconocimiento de tal condición que para al efecto señale el reglamento.
+III. Artesanos: su objeto es el registro de los que obtengan y acrediten el reconocimiento de tal condición que para al (sic) efecto señale el reglamento.
 
 Dicho censo deberá contar cuando menos con la siguiente información:
 
@@ -397,9 +397,7 @@ XVII. Llevar un registro de los principales indicadores y estadísticas en mater
 
 XVIII. Desarrollar los programas estratégicos en materia de comercialización, financiamiento, producción y abastecimiento de materias primas que considere necesarios para el desarrollo y competitividad del sector artesanal;
 
-> <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
-
-XIX. Estudiar las solicitudes y propuestas que en materia artesanal reciba del Consejo Consultivo Estatal de la Artesanía;
+XIX. (DEROGADA, P.O. 23 DE FEBRERO DE 2012)
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
 
@@ -457,7 +455,13 @@ Los integrantes propietarios de la Junta de Gobierno serán los siguientes:
 
 I. Un presidente que será el ciudadano Gobernador del Estado o la persona que tenga a bien designar;
 
-II. Un representante por cada una de las dependencias del Poder Ejecutivo en materia de:
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+II. Un diputado integrante de la Comisión Legislativa de Fomento Artesanal del H. Congreso del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+III. Un representante por cada una de las dependencias del Poder Ejecutivo en materia de:
 
 a) Finanzas;
 
@@ -469,17 +473,23 @@ d) Educación;
 
 e) Cultura, y
 
-f) Promoción Económica.
+f) Promoción Económica; (sic)
 
-III. El Presidente de la Cámara Nacional de Comercio de Guadalajara;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-IV. El Presidente de la Cámara Nacional de Comercio de Tlaquepaque;
+IV. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Guadalajara;
 
-V. El Presidente de la Cámara Nacional de Comercio de Tonalá;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-VI. El Presidente de la Cámara Nacional de Comercio de Zapopan;
+V. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Tlaquepaque;
 
-VII. El Presidente del Centro Bancario de Guadalajara, o su representante, y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+VI. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Tonalá;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+VII. El Presidente del Centro Bancario del Estado de Jalisco, y
 
 VIII. Siete representantes de los artesanos del Estado, que designará el titular del Poder Ejecutivo de entre las diversas propuestas que se le presenten por los artesanos organizados de la entidad.
 
@@ -503,7 +513,7 @@ El carácter de miembro de la Junta de Gobierno es honorífico, por lo tanto, su
 
 Son atribuciones de la Junta de Gobierno:
 
-l. Autorizar el proyecto de presupuesto anual de ingresos y egresos del Instituto y vigilar su ejecución;
+I. Autorizar el proyecto de presupuesto anual de ingresos y egresos del Instituto y vigilar su ejecución;
 
 II. Aprobar el programa general de actividades del Instituto que someta a su consideración el Director;
 
@@ -607,7 +617,7 @@ VII. Suscribir los contratos. convenios, acuerdos, títulos y operaciones de cr�
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 2009)</small>
 
-VIII. Dirigir, planear y coordinar las funciones, así como conducir los programas de Instituto, para su eficaz seguimiento y consecución;
+VIII. Dirigir, planear y coordinar las funciones, así como conducir los programas de (sic) Instituto, para su eficaz seguimiento y consecución;
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2009)</small>
 
@@ -743,7 +753,7 @@ Los directores y subdirectores de área, durante sus ausencias temporales, será
 
 ###### Artículo 39.
 
-El Instituto promoverá entre las organizaciones y los artesanos, en lo particular, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías. Para tal efecto solicitará el apoyo de las dependencias y entidades federares, estatales y municipales competentes y de los propios artesanos, a fin de crear una cultura ecológica en el sector.
+El Instituto promoverá entre las organizaciones y los artesanos, en lo particular, el aprovechamiento sustentable de los recursos naturales susceptibles de ser utilizados como materias primas para la elaboración de artesanías. Para tal efecto solicitará el apoyo de las dependencias y entidades federales, estatales y municipales competentes y de los propios artesanos, a fin de crear una cultura ecológica en el sector.
 
 El Gobierno del Estado y los ayuntamientos procurarán propiciar las condiciones necesarias para que las materias primas utilizadas en la elaboración de artesanías se produzcan en la misma región en que se elabora la artesanía, para tal efecto promoverán la protección y conservación de los lugares en los cuales se produzca dicha materia prima. En los municipios en donde no exista o no esté protegida la producción de la materia prima, procurarán fomentar la producción a través de la adquisición o enajenación de las zonas idóneas para la extracción, recolección, cultivo y aprovechamiento de esos insumos.
 
@@ -807,75 +817,21 @@ La enajenación de bienes propiedad del Instituto deberá ser autorizada por la 
 
 ### CAPÍTULO ÚNICO. Del Consejo Consultivo Estatal de la Artesanía
 
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
-
 ###### Artículo 44.
 
-El Consejo Consultivo Estatal de la Artesanía es un organismo auxiliar de consulta, con funciones deliberativas y propositivas, donde participan los sectores público, privado y social.
-
-Los integrantes del Consejo Consultivo no tendrán el carácter de servidores públicos, por tanto sus cargos serán honoríficos y no remunerados.
-
-El Consejo Consultivo se integrará en forma permanente por:
-
-I. Un presidente, que será el Gobernador del Estado o la persona que éste designe;
-
-II. El Director General del Instituto, quien será el secretario técnico;
-
-III. Un representante, en su caso, de la dependencia del Poder Ejecutivo Federal competente en materia artesanal;
-
-IV. Los ediles de los municipios que se integren como consejeros, por cada uno de los municipios que tengan instalada una comisión edilicia que brinde atención a la actividad artesanal;
-
-V. El Director del área de investigación del Instituto de la Artesanía Jalisciense;
-
-VI. Siete representantes de los artesanos del Estado, que designará el titular del Poder Ejecutivo de entre las diversas propuestas que se le presenten por los artesanos organizados de la entidad, y que deberán ser uno de cada una de las regiones del Estado, según se defina en el ordenamiento territorial del Estado, que de acuerdo al censo artesanal sean las de mayor concentración de artesanos;
-
-VII. Un representante de la Cámara Nacional de Comercio de Guadalajara;
-
-VIII. Un representante de la Cámara Nacional de Comercio de Tlaquepaque;
-
-IX. Un representante de la Cámara Nacional de Comercio de Tonalá;
-
-X. Un representante de la Cámara Nacional de Comercio de Zapopan, y
-
-XI. Seis vocales que serán miembros distinguidos de la comunidad académica y/o artística vinculada al sector artesanal, designados por su respectiva Institución a convocatoria del Consejo.
-
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
+(DEROGADO, P.O. 23 DE FEBRERO DE 2012)
 
 ###### Artículo 45.
 
-Cada uno de los miembros del Consejo Consultivo contara con su respectivo suplente, electo bajo los mismos criterios que el titular.
-
-Los siete vocales representantes de los artesanos del Estado durarán en su encargo tres años, al término de los cuales podrán ser removidos o ratificados solo por una vez.
-
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
+(DEROGADO, P.O. 23 DE FEBRERO DE 2012)
 
 ###### Artículo 46.
 
-Corresponderá al Consejo Consultivo Estatal de la Artesanía:
-
-I. Analizar y emitir opinión por escrito ante las autoridades competentes, sobre los comentarios, estudios, propuestas y demandas que en materia artesanal, le presente cualquier persona o grupo de la comunidad;
-
-II. Promover y apoyar la investigación académica que pueda dar soluciones a los problemas estatales, regionales y municipales en materia artesanal;
-
-III. Proponer la creación, modificación o supresión de las categorías en que se divide el censo artesanal;
-
-IV. Proponer criterios de coordinación para atender al sector artesanal entre el Estado y los municipios;
-
-V. Revisar los estudios sobre la eficiencia con que el Instituto ejerza los recursos presupuestales en los rubros de gasto corriente y de inversión;
-
-VI. Solicitar la información que requiera para el adecuado ejercicio de sus funciones;
-
-VII. Proponer al Instituto los planes, proyectos y acciones que estime pertinentes para alcanzar sus objetivos comunes, y
-
-VIII. Formular su reglamento interno.
-
-> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2009)</small>
+(DEROGADO, P.O. 23 DE FEBRERO DE 2012)
 
 ###### Artículo 47.
 
-El Consejo celebrará sesiones ordinarias por lo menos dos veces al año y extraordinarias cuando sea convocado para ello.
-
-El Secretario Técnico convocará a las sesiones dando a conocer el orden del día. En el caso de las sesiones ordinarias la convocatoria se realizará por lo menos con siete días de anticipación. De igual forma es obligación del Secretario Técnico llevar el registro de las actas y acuerdos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2012)
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE ENERO DE 2009)</small>
 
@@ -891,7 +847,7 @@ El Secretario Técnico convocará a las sesiones dando a conocer el orden del d�
 
 El Instituto con apoyo de las dependencias y entidades competentes y las organizaciones de artesanos, impulsará y gestionará, de conformidad con las disposiciones aplicables, la adopción en el proceso de comercialización, de los siguientes aspectos:
 
-l. La certificación del producto artesanal que permita identificar su origen y calidad;
+I. La certificación del producto artesanal que permita identificar su origen y calidad;
 
 II. La ubicación de los productos en el mercado a un precio Justo que haga rentable el desarrollo de esta actividad;
 
@@ -1047,7 +1003,7 @@ P.O. 27 DE ENERO DE 2009.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-SEGUNDO. El Ejecutivo del Estado realizará las acciones necesarias a fin de integrar e instalar el Consejo Consultivo Estatal de la Artesanía en un plazo no mayor a sesenta días posteriores a la publicación del presente decreto.
+SEGUNDO. (DEROGADO, P.O. 23 DE FEBRERO DE 2012).
 
 TERCERO. El Ejecutivo del Estado realizará las acciones necesarias a fin de renovar a los integrantes, titulares y suplentes, de la Junta de Gobierno en un plazo no mayor a sesenta días posteriores a la publicación del presente decreto.
 
@@ -1060,5 +1016,9 @@ QUINTO. La Junta de Gobierno deberá actualizar el reglamento interior en un pla
 SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 1 DE OCTUBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE FEBRERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
