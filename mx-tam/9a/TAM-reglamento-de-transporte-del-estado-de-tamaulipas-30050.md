@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-transporte-del-estado-de-tamaulipas-30050"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-08"
-last_updated: "2002-08-08"
+last_updated: "2012-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de agosto de 2002.
 
@@ -116,6 +116,10 @@ Las facultades que la Ley otorga al Ejecutivo y a la Secretaría en los artícul
 La Secretaría realizará la inspección y vigilancia de los servicios de transporte de pasajeros, especializado y carga en el Estado, para garantizar el cumplimiento de esta Ley, sus reglamentos y las normas técnicas que expida de acuerdo con la misma. Para tal efecto, podrá requerir, en cualquier tiempo a los concesionarios y permisionarios, informes con los datos técnicos, administrativos, financieros y estadísticos, que le permitan conocer la forma de operar y explotar el servicio público de transporte, su equipamiento y sus servicios auxiliares.
 
 La Secretaría podrá autorizar a terceros supervisores para que lleven a cabo verificaciones de acuerdo con lo establecido en la Ley, el presente Reglamento y demás normas técnicas.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2012)</small>
+
+ARTICULO 6° BIS.- De acuerdo con la Ley, la Secretaría de Seguridad Pública se encuentra facultada para llevar a cabo, en cualquier momento, operativos de inspección y vigilancia para la prevención de delitos, teniendo como objetivos los establecidos en el artículo 95 Ter de la misma; y los cuales se efectuarán, en los domicilios de los prestadores del servicio, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal o en el lugar donde se encuentren prestando el servicio, así como en las propias oficinas de la Secretaría de Seguridad Pública.
 
 ###### ARTICULO 7°.
 
@@ -1420,3 +1424,11 @@ En virtud de la reestructuración administrativa de la Secretaría General de Go
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los siete días del mes de agosto del año dos mil dos.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
