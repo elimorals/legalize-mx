@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2010-07-22"
+last_updated: "2012-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -75,7 +75,7 @@ El Capítulo V, que comprende los artículos del 29 al 43, se ocupa de regular e
 
 Se señala en este Capítulo V que los bienes inmuebles desafectados de un servicio público o de uso común, podrán ser enajenados previa autorización del Congreso, acorde con lo que previene al afecto la Constitución Política del Estado; se deja claramente previsto que no se pueden realizar operaciones con inmuebles de dominio privado, que impliquen su transmisión a favor de servidores públicos que intervengan en la operación de que se trate, ni de sus cónyuges o parientes, además de que en las operaciones traslativas de dominio el valor de los inmuebles, no podrá ser inferior al avalúo catastral que determine la dependencia respectiva.
 
-De Igual forma, se regulan en este apartado algunos aspectos de los contratos de permuta, donación y comodato que tengan como materia bienes del dominio privado, a fin de que con motivo de la celebración de los mismos no se vea perjudicado el interés social, y se deja establecido que los actos jurídicos, convenios o contratos que se realicen con violación a lo dispuesto en esta Ley, serán nulos de pleno derecho, sin perjuicio de las responsabilidades administrativas, civiles o penales en que incurran los servidores y notarios públicos que intervengan en tales actos, además de otras disposiciones no menos importantes, que en su conjunto seguramente darán como resultado que el régimen jurídico de los bienes que nos ocupan resulte adecuado a la naturaleza y finalidad de los mismos.
+De igual forma, se regulan en este apartado algunos aspectos de los contratos de permuta, donación y comodato que tengan como materia bienes del dominio privado, a fin de que con motivo de la celebración de los mismos no se vea perjudicado el interés social, y se deja establecido que los actos jurídicos, convenios o contratos que se realicen con violación a lo dispuesto en esta Ley, serán nulos de pleno derecho, sin perjuicio de las responsabilidades administrativas, civiles o penales en que incurran los servidores y notarios públicos que intervengan en tales actos, además de otras disposiciones no menos importantes, que en su conjunto seguramente darán como resultado que el régimen jurídico de los bienes que nos ocupan resulte adecuado a la naturaleza y finalidad de los mismos.
 
 El Capítulo VI, que comprende de los artículos 44 al 51, se refiere al registro administrativo de inmuebles de dominio público y privado, y al efecto se señalan las dependencias estatales y municipales, a las que corresponderá llevar a cabo el registro de tales bienes, así como los actos, documentos o datos en general que serán materia de dicho registro, el que se denominará Registro Administrativo de la Propiedad Pública Estatal o Municipal, según se trate; se establecen además los casos de cancelación de las inscripciones respectivas, así como las obligaciones que contraen las instituciones privadas que utilizan, administran o tienen a su cuidado bienes de propiedad estatal o municipal, respecto de la actualización de su inventario y la rendición de los informes que al respecto se les soliciten.
 
@@ -481,9 +481,11 @@ X. Los acuerdos por medio de los cuales se cambie o se sustituya a los usuarios 
 
 XI. Los demás actos que conforme a esta Ley deban ser registrados.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 46.
 
-Los bienes del dominio público y privado del Estado y municipios, tienen tal carácter por disposición de la ley, independientemente de que no se encuentren inscritos con ese carácter en el Registro Público de la Propiedad y del Comercio del Estado.
+Los bienes del dominio público y privado del Estado y municipios, tienen tal carácter por disposición de la ley, independientemente de que no se encuentren inscritos con ese carácter en el Registro Público de la Propiedad del Estado.
 
 ###### ARTICULO 47.
 
@@ -602,6 +604,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
 
 P.O. 22 DE JULIO DE 2010.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
