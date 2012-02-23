@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2012-01-19"
+last_updated: "2012-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -131,19 +131,19 @@ V. Consejo Estatal: Consejo Consultivo de Vialidad, Tránsito y Transporte;
 
 VI. Registro Estatal: Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCION VIII], P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN VIII], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 VII. Organismo Coordinador: Organismo Coordinador de la Operación Integral del Servicio de Transporte Público;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 VIII. CEIT: Centro Estatal de Investigación de la Vialidad y Transporte, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -319,7 +319,7 @@ VIII. Establecer, diseñar y administrar los programas de instrucción y capacit
 
 IX. Expedir las licencias y permisos para operar y conducir vehículos, con las modalidades y características que establece esta Ley y precise su reglamento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -381,9 +381,9 @@ XXXII. Autorizar y vigilar el cumplimiento de las tarifas para los servicios pú
 
 XXXIII. Las demás que determine la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 19 Bis.
 
@@ -393,7 +393,7 @@ La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vi
 
 En caso de que el conductor de un vehículo al cometer una infracción de las señaladas en la presente ley, presente aliento alcohólico, el agente de tránsito procederá a solicitar al personal de peritos y del área jurídica, le aplique el examen respectivo, en el lugar de la infracción con el empleo de instrumentos de medición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -781,25 +781,25 @@ IV. Aprovechar en forma segura y eficiente el servicio público de transporte;
 
 V. Evitar que quienes conducen vehículos, los manejen fuera de los límites de velocidad permitidos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 VI. Evitar que las personas en estado de ebriedad o bajo el influjo de substancias que alteren la capacidad para conducir, manejen automotores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 VII. Promover una relación digna, honesta y respetuosa entre la ciudadanía y los oficiales y agentes de vialidad y tránsito;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 VIII. Evitar la circulación de vehículos automotores con emisiones visiblemente contaminantes, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -859,7 +859,7 @@ IV. De seguridad: Los adaptados para servicios de seguridad, protección civil y
 
 ### CAPITULO IV. Del registro y control de vehículos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -895,7 +895,7 @@ Los vehículos no registrados o que carezcan de la documentación a que se refie
 
 Los vehículos registrados en el extranjero podrán circular en el Estado, si sus conductores acreditan la legal internación y estancia en el país de los mismos, mediante la documentación expedida por las autoridades federales competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -921,19 +921,19 @@ IV. Si existe un registro anterior, acreditar su cancelación y, en su caso, el 
 
 En el caso del trámite de cambio de propietario, será optativa la renovación o canje de los elementos de identificación que acreditan el registro del vehículo, a excepción de la tarjeta de circulación, siempre y cuando el vehículo tenga un registro previo en el Estado y haya cumplido con el último canje general de placas en el Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 V. Si el vehículo es de procedencia extranjera, acreditar su legal importación en los términos que señale la legislación aplicable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 VI. Presentar solicitud por escrito conforme al reglamento de esta ley, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -955,7 +955,7 @@ II. Las autoridades competentes en materia de vialidad, tránsito y transporte d
 
 III. Por lo que se refiere a las licencias para conducir vehículos expedidas en el extranjero, su reconocimiento y validez quedarán sujetos a las disposiciones federales sobre la materia y a los convenios internacionales de los que México forme parte.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -1137,9 +1137,13 @@ VI. Por acumular dos suspensiones temporales de la licencia en el lapso de un a�
 
 VII. Cuando cualquier conductor utilice vehículos de uso privado, que porten los colores asignados por la dependencia del ejecutivo del estado, competente en materia de Vialidad, Tránsito y Transporte, para las unidades del transporte público;
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2002)</small>
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2012)</small>
 
-VIII. Cuando cualquier conductor preste el servicio de transporte público sin contar con el permiso o la concesión correspondiente.
+VIII. Cuando cualquier conductor preste el servicio de transporte público sin contar con el permiso o la concesión correspondiente, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2012)</small>
+
+IX. Cuando un operador, conductor o chofer de vehículos de servicio público haya participado en dos o más accidentes viales, y quede debidamente comprobada su culpabilidad por la autoridad competente y se hayan producido u ocasionado lesiones en personas, de las que tarden más de quince días en sanar.
 
 ### CAPITULO VI. De la circulación
 
@@ -1175,7 +1179,7 @@ II. Queda prohibido transportar en un vehículo a un número mayor de personas q
 
 III. Todo vehículo que circule en las vías públicas de comunicación local, deberá estar en buen estado mecánico y contar con los equipos, sistemas, señales, y dispositivos de seguridad que especifiquen esta Ley y sus reglamentos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -1183,19 +1187,19 @@ IV. Los vehículos automotores deberán contar con dispositivos para prevenir y 
 
 V. Toda modificación a la estructura o diseño de vehículos automotores deberá realizarse por personal calificado y con estricto apego a las normas oficiales mexicanas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 VI. Los vehículos automotores registrados en el estado deberán someterse a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente para el Desarrollo Sustentable, con la periodicidad establecida en el calendario oficial de verificación vigente para el estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
 VII. Los conductores otorgarán la prelación de paso a los vehículos de emergencia y policía que lleven encendidos códigos y sirenas, debiendo permitirles el paso si cruzan en una intersección, y cuando circulen sobre la misma vía en el mismo sentido deberán colocarse en el extremo derecho de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
@@ -1419,19 +1423,19 @@ Los vehículos destinados al servicio público de transporte, se sujetarán a la
 
 I. Tratándose de vehículos para el transporte de personas, tanto los modelos de los mismos, como su antigüedad máxima para su incorporación al servicio, así como la fecha en que deberán de sustituirse, serán establecidos en el reglamento correspondiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 II. Las características específicas de los vehículos para cada modalidad del servicio público de transporte, sus condiciones de seguridad, comodidad y capacidad para transportar personas y carga, así como los colores y emblemas que los identifiquen, se precisarán en el reglamento de esta ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 III. En el caso de vehículos para carga especial, se aplicarán las normas de seguridad establecidas por las autoridades competentes en materia de protección del medio ambiente, seguridad y protección civil, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -1493,7 +1497,7 @@ IV. Los permisos precisarán la causa que motive su expedición o prórroga; y
 
 V. Los permisos y los derechos derivados de los mismos, en ningún caso serán transmisibles, ni crearán derechos permanentes a favor de sus titulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 97.
 
@@ -2133,7 +2137,7 @@ Los horarios e itinerarios serán aprobados por la dependencia del Ejecutivo del
 
 Dicha dependencia deberá incluir a estos itinerarios la implementación de transporte público nocturno, estableciendo para estos efectos un horario que cubra las necesidades de los usuarios del servicio, en este turno.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO XIII. De la Subrogación de la Operación en la Prestación del Servicio Público de Transporte
 
@@ -2311,7 +2315,7 @@ IV. En el caso previsto en la fracción IV, del artículo anterior, si el conduc
 
 V. En todo caso, el agente de tránsito que intervenga levantará el acta correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 1999)</small>
 
 ###### Artículo 158.
 
@@ -2323,7 +2327,7 @@ II. Existencia de informe oficial de un delito o de su presunción fundada, en e
 
 III. Acatamiento de una orden judicial; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2333,7 +2337,7 @@ IV. Violación, por el conductor, de una medida de seguridad aplicada conforme a
 
 V. En los supuestos del artículo 156, fracciones I, II y III de esta ley, cuando no demuestre la posesión o legal propiedad del vehículo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2343,13 +2347,13 @@ a) 81 a 130 miligramos de alcohol por 100 mililitros de sangre; o
 
 b) 0.41 a 0.65 miligramos de alcohol por litro de aire espirado; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2010)</small>
 
 VII. Cuando se imponga al conductor, como sanción, el arresto administrativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2407,7 +2411,7 @@ VIII. Usar luces no permitidas por el reglamento.
 
 IX. Arrojar desde el interior del vehículo cualquier clase de objeto o basura a la vía pública, o depositar materiales y objetos que modifiquen o entorpezcan las condiciones apropiadas para circular, detener y estacionar vehículos automotores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 162.
 
@@ -2427,7 +2431,7 @@ V. (DEROGADA, P.O. 13 DE MARZO DE 2003)
 
 VI. Estacionarse en sentido contrario a la circulación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 VII. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
@@ -2447,7 +2451,7 @@ X. Producir ruido excesivo con claxon o mofle; y
 
 XI. Falta de una placa de circulación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 163.
 
@@ -2499,11 +2503,11 @@ XV. Estacionarse obstruyendo cochera o estacionamiento exclusivo; y
 
 XVI. Mover o trasladar maquinaria pesada con rodamiento neumático y equipo móvil especial, sin el permiso correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 XVII. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 164.
 
@@ -2517,7 +2521,7 @@ III. No manifestar la baja del vehículo o el cambio de domicilio del propietari
 
 IV. Transportar personas en vehículos de carga liviana o pesada, sin protección debida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 V. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2010)
 
@@ -2577,7 +2581,7 @@ XXII. A los motociclistas que no respeten su carril de circulación, en contrave
 
 Se sancionará con multa equivalente de ocho días de salario mínimo general, vigente en la zona económica en donde se cometa la infracción, por no respetar la luz roja del semáforo (alto), o el señalamiento de Alto que realice un oficial o agente de vialidad y tránsito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 166.
 
@@ -2585,7 +2589,7 @@ Se sancionará con multa equivalente a ocho días de salario mínimo general, vi
 
 I. Falta total de luces;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 II. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
@@ -2597,7 +2601,7 @@ IV. (DEROGADA, P.O. 3 DE ABRIL DE 1999)
 
 V. Por moverse de lugar en un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del agente de tránsito; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
@@ -2607,7 +2611,7 @@ VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 Se sancionará con multa de doscientos a cuatrocientos días de salario mínimo general, vigente en la zona económica donde se cometa la infracción, a quien se estacione o circule por corredores exclusivos para el transporte público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 167.
 
@@ -2629,7 +2633,7 @@ IV. Hacer mal uso de las placas demostración;
 
 V. Impedir o no ceder el paso a vehículos de emergencia o policía cuando lleven encendidos códigos y sirenas; o circular inmediatamente detrás de los mismos aprovechándose de esta circunstancia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
@@ -2637,7 +2641,7 @@ VI. (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2011)
 
 VII. Al conductor que maneje en sentido contrario o, al que injustificadamente invada el sentido contrario para rebasar en arterias de doble o múltiple circulación, en zona urbana.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2011)</small>
 
@@ -2677,7 +2681,7 @@ IV. No circular conforme lo establece el reglamento de la presente ley, o
 
 V. Además de las sanciones anteriormente señaladas, en caso de reincidencia se retirará de la circulación la unidad, como medida de seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -2693,7 +2697,7 @@ III. Al conductor que circule en vehículo que no cuente con el holograma de ver
 
 Tratándose de las infracciones contenidas en las fracciones II y III de este artículo, podrán ser condonadas, siempre y cuando, dentro de los quince días naturales siguientes el conductor cumpla con los lineamientos establecidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2741,13 +2745,13 @@ En caso de reincidencia en las infracciones previstas en el presente capítulo, 
 
 En caso de reincidencia en las infracciones previstas en las fracciones VI y VII del artículo 167 de esta ley, cometidas dentro de los treinta días siguientes, se sancionará a elección del infractor, con arresto de doce horas, o dos jornadas de trabajo en favor de la comunidad en materia de vialidad y tránsito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 Tratándose de la infracción contenida en el artículo 168-Bis, a la persona que reincidiere dentro del año siguiente a haber cometido la infracción, además de la sanción económica, se le impondrá un arresto administrativo inconmutable de 12 a 36 horas y, de volver a reincidir dentro del año siguiente, independientemente de la sanción económica y el arresto administrativo inconmutable, se le cancelará definitivamente su licencia, y solamente podrá proporcionársele con los mismos requisitos que deberá cumplir para la licencia nueva, hasta haber transcurrido dos años de la cancelación, además de una investigación de trabajo social y exámenes de toxicomanía y alcoholismo, que demuestren que el interesado no es dependiente de bebidas embriagantes, ni estupefacientes o psicotrópicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2761,7 +2765,7 @@ Las infracciones en materia de transporte serán sancionadas administrativamente
 
 La aplicación de las sanciones económicas se hará independientemente de la determinación de la autoridad competente, de impedir la circulación del vehículo con el que se haya cometido la infracción de que se trate.
 
-(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999) (F. DE E., P.O. 27 DE JULIO DE 2000)
+(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999) (F. DE E., P.O. 27 DE JULIO DE 2000)
 
 ###### Artículo 172.
 
@@ -2779,7 +2783,7 @@ II. Abastecer combustible con pasaje a bordo o con motor encendido; y
 
 III. Al conductor del servicio de transporte público de pasajeros por no contar con licencia de conductor de servicio de transporte público vigente, expedida por la dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 1999)</small>
 
 ###### Artículo 173.
 
@@ -2829,6 +2833,12 @@ III. Oferte un descuento en el cobro, con relación a la tarifa correspondiente 
 
 En los casos antes previstos, la suspensión será hasta por seis meses.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2012)</small>
+
+###### Artículo 174 Bis.
+
+En caso de que el operador, conductor o chofer haya participado en dos o más accidentes viales y esté debidamente acreditada su culpabilidad por la autoridad competente, causando lesiones en las personas, de las que tardan más de quince días en sanar, se le cancelarán de forma definitiva los gafetes señalados en el artículo anterior.
+
 ###### Artículo 175.
 
 La dependencia del Ejecutivo del Estado, competente en materia de vialidad, tránsito y transporte, suspenderá como sanción y por resolución administrativa, los gafetes de identificación de los propietarios o legítimos poseedores de autos de alquiler o taxis, por las causas siguientes:
@@ -2869,15 +2879,15 @@ Las autoridades competentes, tanto para levantar infracciones como para califica
 
 Si en el procedimiento que sigan las autoridades para tomar conocimiento de infracciones y ejecutar las sanciones administrativas previstas en esta Ley, constatan actos u omisiones que puedan integrar delitos, formularán la denuncia correspondiente al Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 180.
 
 El crédito fiscal derivado de una multa de carácter administrativo, podrá pagarse sin recargo alguno, dentro de los treinta días siguientes al de la notificación de la cédula de infracción; pero si el infractor efectúa su pago dentro de los primeros diez días hábiles, tendrá derecho a una reducción del cincuenta por ciento en el monto de la misma; en el caso de que el pago lo haga del undécimo al vigésimo noveno día, la reducción será únicamente del veinticinco por ciento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -2901,7 +2911,7 @@ En los casos de sanciones alternativas en que el infractor opte por el trabajo e
 
 Cuando se imponga un arresto administrativo, se comunicará la resolución a la autoridad competente para que lo ejecute.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2010)</small>
 
@@ -3137,7 +3147,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE ABRIL DE 1999.
 
@@ -3227,7 +3237,7 @@ TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días natural
 
 P.O. 21 DE SEPTIEMBRE DE 2004.
 
-DECRETO NUMERO 20569 QUE REFORMA EL ARTICULO 163 FRACCIÓN XVII Y 164 en la fracción XXI DE LA LEY DE SERVICIOS DE VIALIDAD
+DECRETO NÚMERO 20569 QUE REFORMA EL ARTÍCULO 163 FRACCIÓN XVII Y 164 en la fracción XXI DE LA LEY DE SERVICIOS DE VIALIDAD
 
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3237,7 +3247,7 @@ TERCERO. El titular del Poder Ejecutivo, en un plazo no mayor a 90 días natural
 
 P.O. 21 DE SEPTIEMBRE DE 2004.
 
-DECRETO NUMERO 20571 QUE REFORMA EL ARTICULO 164 FRACCIÓN X DE LA LEY DE SERVICIOS DE VIALIDAD
+DECRETO NÚMERO 20571 QUE REFORMA EL ARTÍCULO 164 FRACCIÓN X DE LA LEY DE SERVICIOS DE VIALIDAD
 
 PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3275,13 +3285,13 @@ Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Sec
 
 P.O. 23 DE ENERO DE 2007.
 
-DECRETO NUMERO 21738/LVII/06
+DECRETO NÚMERO 21738/LVII/06
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 23 DE ENERO DE 2007.
 
-DECRETO NUMERO 21742/LVII/06
+DECRETO NÚMERO 21742/LVII/06
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3334,3 +3344,7 @@ PRIMERO. El Poder Ejecutivo del Estado, por medio de la Secretaría de Vialidad 
 SEGUNDO. El titular del Poder Ejecutivo estatal realizará las gestiones necesarias tendientes a solicitar y contribuir con la creación de una Norma Oficial Mexicana, sobre las características de los cascos de seguridad para motociclistas.
 
 TERCERO. Este decreto entrará en vigor treinta días naturales después de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE FEBRERO DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
