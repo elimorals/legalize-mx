@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-70187"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-24"
-last_updated: "2011-08-02"
+last_updated: "2012-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-09-24"
 ---
 # ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
 
-ESTATUTO ORGANICO DE PETROLEOS MEXICANOS
+ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2012.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 24 de septiembre de 2009.
 
@@ -111,7 +111,7 @@ VIII. Otorgar, a sus respectivos comités, aquellas funciones que por su natural
 
 IX. Conocer y, en su caso, autorizar los asuntos que por su importancia o trascendencia someta a su consideración su Presidente o el Director General.
 
-> <small>(DEROGADO SEGUNDO PARRAFO [N. DE E. DE LA FRACCION IX], D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. DE LA FRACCIÓN IX], D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 5o.
 
@@ -193,7 +193,7 @@ Para que los miembros del Consejo de Administración cuenten con la información
 
 Cuando la urgencia, importancia o pronta resolución de algún asunto lo requiera, su Presidente, por propia iniciativa o a petición del Director General o cuando menos dos miembros del Consejo de Administración, instruirán al Secretario para que convoque a sesión extraordinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 11.
 
@@ -211,7 +211,11 @@ III. La documentación e información de los asuntos incorporados en el Orden de
 
 En caso de que exista información superviniente de los asuntos incorporados en el Orden del Día, la misma se podrá hacer llegar a los Consejeros siempre y cuando se indiquen las razones por las cuales dicha información amerite ser tomada en consideración, y se presente con una anticipación no menor de dos días hábiles a la fecha de la sesión.
 
-Cuando se trate de asuntos presentados por el Director General para autorización del Consejo de Administración, deberán acompañarse de los dictámenes de legalidad del acuerdo propuesto, así como de procedencia respecto a la competencia del Consejo, emitidos por el Abogado General.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+Cuando se trate de asuntos presentados por el Director General para autorización del Consejo de Administración, deberán acompañarse de los dictámenes de legalidad del acuerdo propuesto, así como de procedencia respecto a la competencia del Consejo, emitidos por el Director Jurídico.
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -259,7 +263,7 @@ El Director General y el Comisario de PEMEX participarán en las sesiones del Co
 
 ### Capítulo Cuarto. De los Comités y Consejeros Profesionales del Consejo
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -311,7 +315,11 @@ II. Formular y presentar para autorización del Consejo el portafolio de inversi
 
 III. Resolver conflictos entre las direcciones corporativas, y los organismos subsidiarios, y entre estos últimos;
 
-IV. Llevar, con apoyo del Abogado General, un registro del otorgamiento y revocación de poderes generales y especiales a personas ajenas a PEMEX, y hacerlo del conocimiento de los miembros del Consejo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+IV. Llevar, con apoyo del Director Jurídico, un registro del otorgamiento y revocación de poderes generales y especiales a personas ajenas a PEMEX, y hacerlo del conocimiento de los miembros del Consejo;
 
 V. Asignar y delegar funciones y responsabilidades en los titulares de las unidades administrativas de PEMEX, salvo aquellas que sean indelegables;
 
@@ -355,15 +363,25 @@ En el ejercicio de sus atribuciones y en el desempeño de sus funciones, el Dire
 
 ## TITULO CUARTO. DE LOS DIRECTIVOS Y PERSONAL DE PETROLEOS MEXICANOS
 
-### Capítulo Primero. De las Direcciones Corporativas y Oficina del Abogado General
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-#### Sección Primera. De los Directores Corporativos y del Abogado General
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+### Capítulo Primero. De las Direcciones Corporativas y la Dirección Jurídica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+#### Sección Primera. De los Directores Corporativos y del Director Jurídico
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 26.
 
-Cada uno de los directores corporativos y el Abogado General tendrán, en el ámbito de sus respectivas unidades, de acuerdo con la normativa aplicable, las funciones siguientes:
+Cada uno de los directores corporativos y el Director Jurídico tendrán, en el ámbito de sus respectivas unidades administrativas, de acuerdo con la normativa aplicable, las funciones siguientes:
 
 I. Designar de conformidad con los lineamientos emitidos por el Consejo de Administración y con el acuerdo del Director General, a los gerentes corporativos de su adscripción;
 
@@ -431,9 +449,13 @@ XX. Las demás señaladas en otros artículos del presente Estatuto, por el Cons
 
 Las funciones a que se refieren las fracciones I a XIII y XX del presente artículo, son indelegables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 27.
 
-El Abogado General ejercerá la representación legal de PEMEX, en los términos del artículo 5o. de la Ley y fracción II del artículo 137 del presente Estatuto.
+El Director Jurídico ejercerá la representación legal de PEMEX, en los términos del artículo 5o. de la Ley y fracción II del artículo 137 del presente Estatuto.
 
 #### Sección Segunda. De los Subdirectores Corporativos
 
@@ -489,11 +511,19 @@ VII. Certificar, conforme a lo previsto por la Ley Federal de Transparencia y Ac
 
 VIII. Las demás señaladas en otros artículos del presente Estatuto, por el Director General, por el Consejo de Administración, por los manuales, así como por los ordenamientos aplicables.
 
-#### Sección Cuarta. De los Gerentes Jurídicos de la Oficina del Abogado General
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+#### Sección Cuarta. De los Subdirectores y Gerentes Jurídicos de la Dirección Jurídica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 32.
 
-Los gerentes jurídicos son representantes legales de PEMEX y, en su caso, podrán serlo de los organismos subsidiarios con base en los poderes que, en los términos de las disposiciones aplicables, estos organismos les otorguen en el ámbito de sus respectivas funciones.
+Los subdirectores y gerentes jurídicos son representantes legales de PEMEX y, en su caso, podrán serlo de los Organismos Subsidiarios con base en los poderes que, en los términos de las disposiciones aplicables, estos organismos les otorguen en el ámbito de sus respectivas funciones.
 
 La Gerencia Jurídica de lo Contencioso y las gerencias jurídicas de los organismos subsidiarios, tendrán la naturaleza de unidades administrativas encargadas de la defensa jurídica de las autoridades, para efectos del artículo 5o. de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables.
 
@@ -503,7 +533,11 @@ La Gerencia Jurídica de lo Contencioso y las gerencias jurídicas de los organi
 
 El personal de PEMEX, distinto al señalado en los capítulos precedentes de este título, y que integran la plantilla de personal de confianza de PEMEX, tendrá a su cargo las funciones previstas en el manual de organización y en la normatividad interna aplicable, así como aquellas que en los términos del presente Estatuto les sean asignadas o delegadas, de manera expresa, por sus superiores jerárquicos.
 
-En caso de que las actividades que deban desarrollar requieran la representación de PEMEX ante terceros, los titulares de las unidades administrativas deberán gestionar ante la Oficina del Abogado General el otorgamiento de los poderes respectivos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+En caso de que las actividades que deban desarrollar requieran la representación de PEMEX ante terceros, los titulares de las unidades administrativas deberán gestionar ante la Dirección Jurídica el otorgamiento de los poderes respectivos.
 
 ## TITULO QUINTO. DE LA ESTRUCTURA ORGANICA DE PETROLEOS MEXICANOS
 
@@ -603,11 +637,11 @@ d) Subdirección de Servicios Corporativos
 
 1. Gerencia de Abastecimiento de Bienes y Servicios
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 2. (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 3. (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
@@ -635,7 +669,9 @@ III.- Dirección Corporativa de Finanzas
 
 3. Gerencia de Enlace y Control de Gestión Sustantivo
 
-4. Gerencia Jurídica de Finanzas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+4. (DEROGADO, D.O.F. 23 DE FEBRERO DE 2012)
 
 5. (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
@@ -665,7 +701,7 @@ b) Subdirección de Planeación Económica
 
 4. Gerencia de Filiales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 c) Subdirección de Contabilidad Fiscal y Control Financiero
 
@@ -745,7 +781,7 @@ c) Subdirección de Integración de Soluciones y Procesos de Negocio
 
 4. Gerencia de Servicios Técnicos Especializados
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 IV. (DEROGADA, D.O.F. 9 DE AGOSTO DE 2010)
 
@@ -797,7 +833,7 @@ d) Subdirección de Disciplina Operativa, Seguridad, Salud y Protección Ambient
 
 4. Gerencia de Protección Ambiental
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 e) (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
@@ -811,7 +847,7 @@ f) Subdirección de Suministros
 
 3. Gerencia de Mejora del Proceso de Suministro
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 g) Subdirección de Logística de Hidrocarburos y Derivados
 
@@ -847,25 +883,39 @@ i) Subdirección de Desarrollo de Proyectos
 
 2. Gerencia de Procesos de Desarrollo de Proyectos de Inversión
 
-VI.- Oficina del Abogado General
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-1. Gerencia de Control de Procesos Jurídicos
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
-2. Gerencia Jurídica de Consultoría y Prevención
+VI.- Dirección Jurídica
 
-3. Gerencia Jurídica de Convenios y Contratos
+1. Gerencia de Control de Gestión
 
-4. Gerencia Jurídica de lo Contencioso
+2. Gerencia Jurídica de Asuntos Internacionales
 
-5. Gerencia Jurídica Laboral
+a) Subdirección de Consultoría Jurídica
 
-6. Gerencia Jurídica de Exploración y Producción
+1. Gerencia Jurídica Consultiva
 
-7. Gerencia Jurídica de Refinación
+2. Gerencia Jurídica de Convenios y Contratos
 
-8. Gerencia Jurídica de Gas y Petroquímica Básica
+3. Gerencia Jurídica de Finanzas
 
-9. Gerencia Jurídica de Petroquímica
+b) Subdirección Jurídica de Asuntos Contenciosos
+
+1. Gerencia Jurídica de lo Contencioso
+
+2. Gerencia Jurídica Laboral
+
+c) Subdirección Jurídica de Control de Procesos y Proyectos
+
+1. Gerencia Jurídica de Exploración y Producción
+
+2. Gerencia Jurídica de Refinación
+
+3. Gerencia Jurídica de Gas y Petroquímica Básica
+
+4. Gerencia Jurídica de Petroquímica
 
 VII.- Gerencia de Comunicación Social
 
@@ -1095,7 +1145,11 @@ XVIII. Alinear las relaciones obrero-patronales con los programas de desarrollo,
 
 XIX. Administrar e interpretar el Contrato Colectivo de Trabajo, así como brindar asesoría respecto de su aplicación;
 
-XX. Establecer conjuntamente con la Oficina del Abogado General mecanismos para prevenir demandas laborales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+XX. Establecer conjuntamente con la Dirección Jurídica mecanismos para prevenir demandas laborales;
 
 > <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
@@ -1109,7 +1163,7 @@ XXII. Coordinar y supervisar las actividades de los Centros de Desarrollo Infant
 
 XXIII. Someter a autorización de la Dirección Corporativa de Administración los acuerdos especiales para resolver los asuntos laborales que impliquen régimen de excepción o entrañen variantes o modalidades especiales en las condiciones de trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 41.
 
@@ -1139,7 +1193,7 @@ VIII. Coordinar que las áreas lleven a cabo el desarrollo de las acciones que c
 
 IX. Supervisar los procesos de reclutamiento y selección y coordinar la aplicación de los programas de desarrollo y formación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 42.
 
@@ -1243,7 +1297,7 @@ X. Desarrollar e implantar programas de clima organizacional, y
 
 XI. Diseñar e implementar el modelo de la administración del conocimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 44.
 
@@ -1307,7 +1361,7 @@ XIII. Programar, establecer los controles y evaluar el ejercicio del presupuesto
 
 XIV. Proponer y gestionar las adecuaciones al presupuesto de mano de obra de PEMEX y Organismos Subsidiarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 45.
 
@@ -1331,7 +1385,7 @@ VII. Establecer convenios de servicio con las líneas de negocio de PEMEX y orga
 
 (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 47.
 
@@ -1373,7 +1427,7 @@ X. Administrar y, en su caso, proponer modificaciones al Reglamento de Trabajo d
 
 XI. Coordinar el desarrollo de los programas de trabajo de las comisiones nacionales mixtas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 48.
 
@@ -1567,13 +1621,13 @@ VI. Coordinar los comités de Adquisiciones, Arrendamientos y Servicios, y de Ob
 
 VII. Consolidar y coordinar la integración de los programas de adquisiciones, obras y servicios de PEMEX.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 56.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 57.
 
@@ -1611,7 +1665,11 @@ III. Analizar y administrar la información que se deriva de los servicios de de
 
 IV. Supervisar el cumplimiento de los programas en materia aduanal, y
 
-V. Fungir como responsable ante las autoridades aduanales en el desahogo de contingencias administrativas relacionadas con el despacho aduanal de las importaciones o exportaciones de mercancías, en coordinación con la Oficina del Abogado General y la Gerencia Fiscal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+V. Fungir como responsable ante las autoridades aduanales en el desahogo de contingencias administrativas relacionadas con el despacho aduanal de las importaciones o exportaciones de mercancías, en coordinación con la Dirección Jurídica y la Gerencia Fiscal.
 
 #### Sección Quinta. De la Subdirección de Administración Patrimonial
 
@@ -1935,27 +1993,11 @@ V. Asesorar administrativamente a las áreas internas en la atención de los asu
 
 VI. Instrumentar acciones a fin de fortalecer el control interno de las unidades administrativas de la Dirección.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
 ###### Artículo 66.
 
-La Gerencia Jurídica de Finanzas tendrá las funciones siguientes:
-
-I. Apoyar la negociación de las diversas operaciones financieras que competan a la Dirección Corporativa de Finanzas, incluyendo financiamientos, instrumentos financieros derivados, fianzas, seguros, servicios bancarios, servicios de custodia de valores, así como proyectos de alianzas, inversiones conjuntas y nuevos negocios;
-
-II. Definir y establecer términos y condiciones jurídicas en los contratos y demás documentos que formalicen las operaciones financieras en que participe la Dirección Corporativa de Finanzas y sus unidades administrativas;
-
-III. Responder a las diversas consultas que en materia financiera le formulen las distintas áreas de la Dirección Corporativa de Finanzas, inclusive ésta, en su caso solicitando la participación de la Oficina del Abogado General;
-
-IV. Solicitar a las diversas áreas de PEMEX, organismos subsidiarios y, en su caso, filiales la información jurídico financiera que se deba entregar a las contrapartes y autoridades reguladoras, nacionales e internacionales, de la actividad financiera, así como aquella necesaria para la integración de los prospectos de colocación;
-
-V. Participar en materia jurídico financiera en la constitución, escisión, fusión, disolución, liquidación, extinción y transferencia de filiales, así como en la constitución, terminación o extinción de fondos y vehículos financieros en los que participe PEMEX;
-
-VI. Fungir como área de enlace de la Dirección Corporativa de Finanzas con la Oficina del Abogado General;
-
-VII. Suscribir los convenios y documentos necesarios dentro del ámbito de su competencia;
-
-VIII. Representar a PEMEX ante autoridades reguladoras, nacionales e internacionales, de la actividad jurídica-financiera, y cuando así se le instruya, representar a la Dirección Corporativa de Finanzas ante otras de PEMEX y organismos subsidiarios, y
-
-IX. Fungir como la unidad de enlace de la Dirección Corporativa de Finanzas para cualquier asunto relacionado con los temas del Consejo de Administración.
+(DEROGADO, D.O.F. 23 DE FEBRERO DE 2012)
 
 Artículo 66 A.- (DEROGADO, D.O.F. 2 DE AGOSTO DE 2011)
 
@@ -2079,7 +2121,7 @@ IX. Informar el ejercicio mensual consolidado de PEMEX en el Sistema Integral de
 
 X. Opinar sobre la ejecución interna de las normas y disposiciones establecidas con relación al ejercicio del gasto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 69.
 
@@ -2169,7 +2211,7 @@ XIII. Resolver las solicitudes planteadas por conducto de las áreas financieras
 
 XIV. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 Artículo 70 A.- La Gerencia de Planeación Financiera y Control del Proceso Presupuestal tendrá las funciones siguientes:
 
@@ -2419,11 +2461,11 @@ V. Realizar, en coordinación con las demás unidades administrativas de la Dire
 
 VI. Apoyar en el seguimiento de los acuerdos que se generen en los órganos de gobierno de PEMEX y de los Organismos Subsidiarios que tengan incidencia en las filiales de PEMEX y Organismos Subsidiarios.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 #### Sección Cuarta. De la Subdirección de Contabilidad, Fiscal y Control Financiero
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 75.
 
@@ -2571,7 +2613,7 @@ X. Elaborar proyecciones del monto a pagar por contribuciones de PEMEX y Organis
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 79.
 
@@ -2649,11 +2691,11 @@ X. Proponer y coordinar acciones para la administración de los sistemas institu
 
 XI. Coadyuvar en la sistematización de los procesos contable, fiscal y de control financiero, así como apoyar en la estabilización de los sistemas correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 #### Sección Quinta. De la Subdirección de Tesorería
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 80.
 
@@ -2709,7 +2751,7 @@ XV. Promover y supervisar el análisis y documentación de proyectos de mitigaci
 
 XVI. Coordinar y administrar los mecanismos de monetización y comercialización de proyectos de mitigación de impacto ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 81.
 
@@ -2751,7 +2793,7 @@ XI. Supervisar las operaciones de financiamiento, servicios bancarios y financie
 
 XII. Consolidar la información para la atención de requerimientos de entidades reguladoras en materia de financiamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 82.
 
@@ -2923,11 +2965,11 @@ VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 IX. Realizar las actividades de soporte de operación de la filial de reaseguro de PEMEX.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 ### Capítulo Tercero Bis. De la Dirección Corporativa de Tecnología de Información y Procesos de Negocio
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Primera. De la Dirección Corporativa
 
@@ -2997,7 +3039,7 @@ IX. Tramitar las contrataciones de bienes y servicios de Tecnología de Informac
 
 X. Administrar los contratos y activos de Tecnología de Información de PEMEX y Organismos Subsidiarios.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Segunda. De la Subdirección de Planeación e Inteligencia de Negocio
 
@@ -3103,7 +3145,7 @@ IX. Proporcionar a PEMEX y Organismos Subsidiarios herramientas de explotación 
 
 X. Operar la infraestructura tecnológica que soporta las bases de datos institucionales con la información estadística de PEMEX y Organismos Subsidiarios.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Tercera. De la Subdirección de Infraestructura Tecnológica
 
@@ -3173,7 +3215,7 @@ V. Ejecutar, en la infraestructura tecnológica las políticas de seguridad y se
 
 VI. Administrar la seguridad en el acceso y el control de los usuarios y privilegios en los sistemas de información y aplicaciones de PEMEX y Organismos Subsidiarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 Artículo 85 K.- La Gerencia de Ingeniería de Telecomunicaciones tendrá las funciones siguientes:
 
@@ -3249,7 +3291,7 @@ V. Gestionar los requerimientos de automatización industrial y SCADA solicitado
 
 VI. Proveer mecanismos para la seguridad informática, confiabilidad y redundancia en redes de comunicación industrial y en los sistemas SCADA acorde a los requerimientos de PEMEX y Organismos Subsidiarios.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Cuarta. De la Subdirección de Integración de Soluciones y Procesos de Negocio
 
@@ -3349,7 +3391,7 @@ VII. Verificar que la implementación de sistemas de información en PEMEX y Org
 
 VIII. Ejecutar el proceso de mejora continua de las soluciones implementadas en los sistemas empresariales de recursos de PEMEX y Organismos Subsidiarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 Artículo 85 P.- La Gerencia de Servicios Técnicos Especializados tendrá las funciones siguientes:
 
@@ -3377,151 +3419,151 @@ VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)
+DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)
 
 ### Capítulo Cuarto. De la Dirección Corporativa de Ingeniería y Desarrollo de Proyectos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Primera. De la Dirección Corporativa
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 86.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 87.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 88.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Segunda. De la Subdirección de Planeación y Desarrollo de Proyectos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 89.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 90.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 91.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 92.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 93.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 94.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Tercera. De la Subdirección de Operaciones de Proyectos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 95.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 96.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 97.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 98.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 99.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 100.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 101.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Cuarta. De la Subdirección de Proyectos Industriales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 102.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 103.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Quinta. De la Subdirección de Proyectos Especiales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 104.
 
@@ -3649,7 +3691,7 @@ XII. Administrar y controlar los activos de la Dirección Corporativa de Operaci
 
 XIII. Coordinar la elaboración, consolidación y administración del presupuesto anual de la Dirección Corporativa de Operaciones, así como controlar y dar seguimiento al ejercicio presupuestal y sus modificaciones, operando los procedimientos establecidos en la materia y manteniendo actualizada la información financiera respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 108.
 
@@ -3997,7 +4039,7 @@ VII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 115.
 
@@ -4033,7 +4075,7 @@ IX. Diseñar, analizar y dar seguimiento a los indicadores de desempeño operati
 
 X. Supervisar la ejecución de la estrategia de cogeneración de PEMEX y Organismos Subsidiarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 116.
 
@@ -4253,31 +4295,31 @@ XI. Dar seguimiento, soporte y reporte de la gestión ambiental, así como colab
 
 XII. Promover programas de educación en protección ambiental y comunicación de riesgos ambientales para su divulgación interna y externa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE AGOSTO DE 2010)</small>
 
 #### Sección Quinta. De la Subdirección de Procesos de Negocio e Infraestructura Tecnológica
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 122.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 123.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 124.
 
 (DEROGADO, D.O.F. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
 ###### Artículo 125.
 
@@ -4397,7 +4439,7 @@ XII. Instrumentar y difundir los programas de capacitación en materia de abaste
 
 XIII. Dar seguimiento a las propuestas de contratación de PEMEX, Organismos Subsidiarios y, en su caso, filiales en materia de suministro, que considere necesario, así como emitir las recomendaciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 128.
 
@@ -4491,11 +4533,11 @@ XI. Diseñar y administrar el proceso de desarrollo y evaluación del desempeño
 
 XII. Coordinar y administrar la participación de proveedores en el mercado electrónico de PEMEX, Organismos Subsidiarios y, en su caso, filiales, con la participación que les corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 #### Sección Séptima. De la Subdirección de Logística de Hidrocarburos y Derivados
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 130.
 
@@ -4535,7 +4577,7 @@ VIII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 IX. Coordinar la implantación y la evaluación de las estrategias, acciones y programas que fortalezcan los esfuerzos en materia de aseguramiento de balances en la cadena de producción, transporte y comercialización.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 131.
 
@@ -4581,7 +4623,7 @@ XI. Evaluar el cumplimiento de las normas y estándares relacionados con la inte
 
 XII. Atender los requerimientos de información de logística de hidrocarburos y sus derivados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 132.
 
@@ -4825,7 +4867,7 @@ XIV. Proponer la instrumentación de nuevos mecanismos para las modalidades de c
 
 XV. Coordinar la atención y seguimiento de los compromisos y acciones derivadas de los programas gubernamentales en materia de proyectos de inversión, en PEMEX, Organismos Subsidiarios y, en su caso, filiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 Artículo 136 B.- La Gerencia de Ingeniería Especializada, Calidad y Riesgos tendrá las funciones siguientes:
 
@@ -4891,7 +4933,7 @@ XVI. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
 XVII. (DEROGADA, D.O.F. 2 DE AGOSTO DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 Artículo 136 C.- La Gerencia de Procesos de Desarrollo de Proyectos de Inversión, tendrá las funciones siguientes:
 
@@ -4973,355 +5015,551 @@ XX. Conducir e instrumentar las reglas para la administración del registro de c
 
 XXI. Coordinar la integración y administrar la información relativa al desarrollo de los proyectos de inversión de PEMEX y Organismos Subsidiarios.
 
-### Capítulo Sexto. De la Oficina del Abogado General
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+### Capítulo Sexto. De la Dirección Jurídica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ### Capítulo Séptimo. De las Demás Unidades Administrativas de la Estructura Orgánica Básica
 
 ###### Artículo 137.
 
-La Oficina del Abogado General tendrá las funciones siguientes:
+La Dirección Jurídica tendrá las funciones siguientes:
 
-I. Ejercer la función jurídica institucional en PEMEX, sus organismos subsidiarios y, en su caso, filiales;
+I. Dirigir la función jurídica institucional en PEMEX, sus Organismos Subsidiarios y, en su caso, filiales;
 
-II. Administrar y representar legalmente a PEMEX en términos del artículo 5o. de la Ley y, en su caso, podrá serlo de los organismos subsidiarios con base en los poderes que en los términos de las disposiciones aplicables estos organismos le otorguen, asimismo, para estos efectos, tendrá la naturaleza de unidad administrativa y ejercerá la representación y las funciones a que se refiera el artículo 5o. de la Ley Federal de Procedimiento Contencioso Administrativo;
+II. Administrar y representar legalmente a PEMEX en términos del artículo 5o. de la Ley y, en su caso, de los Organismos Subsidiarios con base en los poderes que éstos le otorguen, incluyendo la representación y las funciones a que se refiere el artículo 5o. de la Ley Federal de Procedimiento Contencioso Administrativo;
 
-III. Asesorar y asistir al Director General, directores corporativos, directores generales de organismos subsidiarios y, en su caso, de filiales, en los actos jurídicos que celebren;
+III. Asesorar y asistir al Director General, directores corporativos, directores generales de Organismos Subsidiarios y, en su caso, de filiales, en los actos jurídicos que celebren;
 
 IV. Otorgar y revocar poderes generales o especiales en términos del artículo 5o. de la Ley;
 
 V. Suscribir los documentos y demás información que conforme a las disposiciones aplicables corresponda suscribir al responsable jurídico de PEMEX;
 
-VI. Coordinar el desahogo de las consultas de carácter jurídico en materia administrativa, corporativa, financiera, bancaria, de seguros y riesgos, ambiental, comercial, transaccional, jurídica-internacional, convenios y contratos y cualquier otra que formulen las unidades administrativas de PEMEX, sus organismos subsidiarios y, en su caso, filiales, así como las dependencias y entidades del Gobierno Federal, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
+VI. Coordinar la aplicación de los criterios de resolución de las consultas jurídicas que formulen las unidades administrativas de PEMEX, sus Organismos Subsidiarios y, en su caso, filiales, así como las dependencias y entidades de la Administración Pública Federal, la cual será vinculante en el ámbito administrativo interno;
 
-VII. Suscribir los dictámenes jurídicos, que le sean sometidos a su consideración por parte de los gerentes jurídicos, sobre la competencia de los consejos de administración de los acuerdos que se pretendan presentar a dichos órganos colegiados por los directores generales de PEMEX y organismos subsidiarios;
+VII. Suscribir los dictámenes de procedencia respecto a la competencia de los consejos de administración y de legalidad de los acuerdos que se presenten a dichos órganos colegiados por los directores generales de PEMEX y Organismos Subsidiarios;
 
-VIII. Coordinar y, en su caso, autorizar la contratación de personas físicas o morales, nacionales o extranjeras, que presten un servicio jurídico en PEMEX, organismos subsidiarios y, en su caso, filiales;
+VIII. Dirigir la contratación de personas físicas o morales, que presten un servicio jurídico a PEMEX, Organismos Subsidiarios y, en su caso, filiales, en territorio nacional o en el extranjero;
 
-IX. Coordinar la prestación de los servicios jurídicos que requiera PEMEX y organismos subsidiarios, en el ámbito internacional, y determinar su participación jurídica en los organismos internacionales;
+IX. Coordinar la prestación de los servicios jurídicos que requiera PEMEX y Organismos Subsidiarios, en el ámbito internacional, y determinar su participación jurídica en los organismos internacionales;
 
-X. Dirigir y coordinar la prestación de servicios de asesoría jurídica a las unidades administrativas, órganos colegiados y fideicomisos en PEMEX, sus organismos subsidiarios y, en su caso, filiales;
+X. Dirigir y coordinar la prestación de servicios de asesoría jurídica a las unidades administrativas, órganos colegiados y fideicomisos en PEMEX, sus Organismos Subsidiarios y, en su caso, filiales;
 
-XI. Asesorar a petición de las dependencias competentes en las negociaciones de los diversos tratados comerciales internacionales en los que México sea parte y que se relacionen con los capítulos de energía, incluyendo a la inversión, reglas de origen aplicables al petróleo y sus derivados, así como compras gubernamentales;
+XI. Coordinar la asesoría que, en su caso, se requiera por las instancias competentes, para las negociaciones de tratados internacionales en las materias que se relacionen con el objeto directo e indirecto y actividades de PEMEX y Organismos Subsidiarios;
 
-XII. Coordinar la actualización del marco jurídico básico de PEMEX y organismos subsidiarios, así como su difusión, y
+XII. Coordinar la actualización del marco jurídico básico de PEMEX y Organismos Subsidiarios, así como su difusión;
 
-XIII. Cualquier otra que se establezcan en las leyes o disposiciones aplicables.
+XIII. Supervisar las estrategias de carácter preventivo para evitar procedimientos judiciales y administrativos en contra de PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+XIV. Supervisar la aplicación de los criterios para la defensa de los intereses de PEMEX, Organismos Subsidiarios y, en su caso, filiales, en procedimientos judiciales y administrativos;
+
+XV. Coordinar el apoyo jurídico que requiera la conducción del gobierno corporativo y el sistema de control interno en PEMEX y Organismos Subsidiarios, y
+
+XVI. Cualquier otra que se establezca en las leyes o disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 138.
 
-La Gerencia de Control de Procesos Jurídicos tendrá las funciones siguientes:
+La Gerencia de Control de Gestión tendrá las funciones siguientes:
 
-I. Coordinar, promover y asesorar normativamente la atención y resolución de observaciones de auditorías, revisiones de control y recomendaciones formuladas por órganos fiscalizadores, así como ser enlace con dichos órganos contribuyendo a la oportuna respuesta a sus requerimientos y solventación de sus observaciones;
+I. Coordinar, promover y asesorar normativamente la atención y resolución de observaciones de auditorías, revisiones de control y recomendaciones formuladas por órganos fiscalizadores, así como ser enlace con dichos órganos, contribuyendo a la oportuna respuesta a sus requerimientos y solventación de sus observaciones;
 
 II. Evaluar, coordinar, atender y actuar como enlace para efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
 III. Asesorar y participar en la organización, clasificación y conservación de la información pública para cumplir con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
-IV. Coordinar la atención y ejecución de los programas y acciones de la Dirección derivadas de los programas gubernamentales, verificando su cumplimiento así como su oportuna remisión a las instancias competentes;
+IV. Coordinar la atención y ejecución de los programas y acciones de la Dirección derivadas de los programas gubernamentales, verificando su cumplimiento, así como su oportuna remisión a las instancias competentes;
 
-V. Asesorar administrativamente a las áreas internas en la atención de los asuntos que le sean requeridos;
+V. Gestionar los recursos humanos, materiales, financieros, de Tecnologías de la Información y demás apoyo administrativo, así como la capacitación, adiestramiento y actualización de personal, que requiera la Dirección Jurídica;
 
 VI. Instrumentar acciones a fin de fortalecer el control interno de las unidades administrativas de la Dirección;
 
-VII. Vigilar el equilibrio de las estructuras ocupacionales, en función del análisis de las necesidades operativas y disponibilidad de recursos, en el ámbito de la Oficina del Abogado General;
+VII. Vigilar el equilibrio de las estructuras ocupacionales, en función del análisis de las necesidades operativas y disponibilidad de recursos, en el ámbito de la Dirección Jurídica;
 
-VIII. Atender los medios de impugnación interpuestos ante el Instituto Federal de Acceso a la Información Pública;
+VIII. Atender los medios de impugnación interpuestos ante el Instituto Federal de Acceso a la Información Pública, y
 
-IX. Llevar a cabo la información estadística de los asuntos a cargo de la Oficina del Abogado General, con base en los sistemas informáticos jurídicos institucionales;
+IX. Implementar el programa de evaluación del personal de la Dirección Jurídica, en coordinación con las unidades administrativas competentes de PEMEX.
 
-X. Establecer un sistema para el registro de las transacciones que conforme a las políticas para tal efecto, se lleven a cabo en las unidades adscritas a la Oficina del Abogado General;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-XI. Coadyuvar con la secretaría técnica del Fideicomiso de Cobertura Laboral y de Vivienda (FICOLAVI), del Fondo Laboral PEMEX (FOLAPE), así como en cualquier otro órgano colegiado que se constituya para fines análogos;
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
-XII. Gestionar los trámites inherentes al otorgamiento y revocación de poderes de PEMEX y organismos subsidiarios, así como coadyuvar en el ámbito de sus funciones en la realización de otros trámites notariales;
+Artículo 138 A.- La Gerencia Jurídica de Asuntos Internacionales tendrá las funciones siguientes:
+
+I. Determinar la conveniencia de la contratación de personas físicas o morales que presten un servicio jurídico a PEMEX y Organismos Subsidiarios, en el extranjero, así como en materia internacional;
+
+II. Supervisar la prestación de los servicios jurídicos que requiera PEMEX y Organismos Subsidiarios en materia internacional, así como proponer la participación jurídica institucional en los organismos internacionales;
+
+III. Atender las consultas de carácter jurídico en materia internacional que formulen las unidades administrativas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como las dependencias y entidades de la Administración Pública Federal;
+
+IV. Asesorar a las unidades administrativas de PEMEX y Organismos Subsidiarios en materia jurídica internacional;
+
+V. Prestar asesoría jurídica en las negociaciones de tratados internacionales en las materias que se relacionen con el objeto directo e indirecto y actividades de PEMEX y Organismos Subsidiarios;
+
+VI. Fijar criterios de aplicación e interpretación interna de la normativa internacional aplicable a PEMEX y Organismos Subsidiarios;
+
+VII. Emitir opinión respecto de los contratos, convenios, y demás instrumentos jurídicos de carácter internacional que pretendan celebrar PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+VIII. Evaluar, dar seguimiento y, en su caso, emitir opinión respecto a los procedimientos de arbitraje internacional de PEMEX y Organismos Subsidiarios, sin perjuicio de las responsabilidades que les correspondan a las gerencias jurídicas, y
+
+IX. Coadyuvar, con la Gerencia de Control de Gestión, en la atención y solventación de las observaciones y requerimientos formulados por los órganos fiscalizadores, en el ámbito de su competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+Artículo 138 B.- La Subdirección de Consultoría Jurídica tendrá las funciones siguientes:
+
+I. Coordinar la atención de consultas de carácter jurídico en materia administrativa, corporativa, financiera, de seguros y riesgos, ambiental, comercial, transaccional, convenios y contratos, que formulen las unidades administrativas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como las dependencias y entidades de la Administración Pública Federal;
+
+II. Asesorar y asistir al Director General y a los directores corporativos de PEMEX, en los actos jurídicos que celebren;
+
+III. Fijar los criterios que deban prevalecer en la atención de las consultas jurídicas que presten las unidades administrativas de la Dirección Jurídica, así como el personal de apoyo jurídico en las demás unidades administrativas de PEMEX y Organismos Subsidiarios;
+
+IV. Coordinar la revisión de los proyectos de acuerdo que se presentarán a los consejos de administración de PEMEX y Organismos Subsidiarios, así como la elaboración de los dictámenes de competencia y legalidad respectivos;
+
+V. Fungir como enlace ante las secretarías de los consejos de administración o de los comités de PEMEX y Organismos Subsidiarios, así como las instancias de control interno que, en su caso, soliciten apoyo o asesoría de la Dirección Jurídica;
+
+VI. Coordinar las actividades jurídicas del personal de apoyo adscrito a las direcciones corporativas y a los Organismos Subsidiarios;
+
+VII. Supervisar los procedimientos de revisión y sanción jurídica de la normativa de PEMEX y Organismos Subsidiarios, así como su actualización y difusión;
+
+VIII. Fijar criterios uniformes para la elaboración, revisión y sanción jurídica de contratos, convenios, escrituras, poderes, convocatorias y bases de licitación, entre otros, que pretendan celebrar PEMEX, Organismos Subsidiarios y, en su caso, filiales;
+
+IX. Proponer, previo acuerdo con la Dirección Jurídica, a las unidades administrativas competentes de PEMEX y Organismos Subsidiarios, acciones para la protección de marcas y derechos de propiedad industrial de PEMEX y Organismos Subsidiarios;
+
+X. Coordinar los servicios jurídicos financieros en PEMEX;
+
+XI. Autorizar, previo acuerdo con el Director Jurídico, la contratación de personas físicas o morales que presten un servicio jurídico a PEMEX y Organismos Subsidiarios, en su ámbito de competencia, y
+
+XII. Coordinar los trámites inherentes al otorgamiento y revocación de poderes de PEMEX y Organismos Subsidiarios, así como otros trámites ante fedatarios públicos, en el ámbito de funciones de la Dirección Jurídica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 139.
 
-La Gerencia Jurídica de Consultoría y Prevención tendrá las funciones siguientes:
+La Gerencia Jurídica Consultiva tendrá las funciones siguientes:
 
-I. Realizar las actividades que en materia de prevención jurídica se instrumenten en PEMEX y organismos subsidiarios;
+I. Realizar las actividades que en materia de prevención normativa se instrumenten en PEMEX y Organismos Subsidiarios;
 
-II. Atender las consultas que por su relevancia sean de interés para PEMEX y organismos subsidiarios;
+II. Resolver las consultas que por su relevancia sean de interés para PEMEX y Organismos Subsidiarios, conforme lo determine la Subdirección de Consultoría Jurídica;
 
-III. Asesorar y asistir al Director General y a los directores corporativos en los acuerdos que emitan;
+III. Asesorar y asistir a los directores corporativos de PEMEX en los acuerdos que emitan;
 
-IV. Desahogar, en el ámbito de su competencia, las consultas de carácter jurídico, en materia administrativa, corporativa, financiera, de seguros y riesgos, ambiental, comercial, transaccional y cualquier otra que formulen las unidades administrativas de PEMEX, organismos subsidiarios y, en su caso, filiales, así como las dependencias y entidades del Gobierno Federal en la materia;
+IV. Desahogar, en el ámbito de su competencia, las consultas de carácter jurídico, en materia administrativa, corporativa, financiera, de seguros y riesgos, ambiental, comercial y transaccional que formulen las unidades administrativas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como las dependencias y entidades de la Administración Pública Federal;
 
-V. Elaborar estudios jurídicos en materia administrativa, corporativa, financiera, de seguros y riesgos, comercial y transaccional, que tengan incidencia en PEMEX y organismos subsidiarios;
+V. Elaborar estudios jurídicos en materia administrativa, corporativa, financiera, de seguros y riesgos, comercial y transaccional, que tengan incidencia en PEMEX y Organismos Subsidiarios;
 
-VI. Realizar estudios jurídicos sobre proyectos legislativos y difundir y actualizar la legislación aplicable a PEMEX y organismos subsidiarios;
+VI. Realizar estudios jurídicos sobre proyectos legislativos, y difundir y actualizar la legislación aplicable a PEMEX y Organismos Subsidiarios;
 
-VII. Sancionar, definir y establecer el nivel de autorización de la normatividad de PEMEX y organismos subsidiarios;
+VII. Sancionar, definir y establecer el nivel de autorización de la normatividad de PEMEX y Organismos Subsidiarios;
 
-VIII. Revisar, analizar y en su caso, emitir opinión respecto de los proyectos de acuerdo del Consejo de Administración y, en su caso, de organismos subsidiarios;
+VIII. Revisar, analizar y, en su caso, emitir opinión respecto de los proyectos de acuerdo del Consejo de Administración y, en su caso, de los consejos de administración de los Organismos Subsidiarios;
 
-IX. Revisar y someter a consideración del Abogado General el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración;
+IX. Revisar y someter a consideración del Director Jurídico, el dictamen de competencia y legalidad de los proyectos de acuerdos que se presentarán al Consejo de Administración;
 
-X. Llevar a cabo el registro e inventario de las marcas y derechos de propiedad industrial de PEMEX y organismos subsidiarios;
+X. Llevar a cabo el registro e inventario de las marcas y derechos de propiedad industrial de PEMEX y Organismos Subsidiarios;
 
 XI. Conducir las relaciones con órganos autónomos de derechos humanos y no gubernamentales;
 
-XII. Administrar el Sistema Normateca Institucional de Petróleos Mexicanos y organismos subsidiarios, y
+XII. Administrar el Sistema Normateca Institucional de Petróleos Mexicanos y Organismos Subsidiarios;
 
-XIII. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o de despachos de auditores externos en materia de su competencia.
+XIII. Apoyar en materia normativa a la conducción del gobierno corporativo y al sistema de control interno, cuando así sea requerido;
+
+XIV. Coadyuvar con la secretaría técnica del Fideicomiso de Cobertura Laboral y de Vivienda, del Fondo Laboral PEMEX, así como en cualquier otro órgano colegiado que se constituya para fines análogos;
+
+XV. Gestionar los trámites inherentes al otorgamiento y revocación de poderes de PEMEX y Organismos Subsidiarios, así como coadyuvar en el ámbito de sus funciones en la realización de otros trámites notariales, y
+
+XVI. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o de despachos de auditores externos en materia de su competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 140.
 
 La Gerencia Jurídica de Convenios y Contratos tendrá las funciones siguientes:
 
-I. Atender las consultas de carácter jurídico en materia de convenios y contratos que formulen las unidades administrativas de PEMEX, organismos subsidiarios y, en su caso, filiales, así como las dependencias y entidades del Gobierno Federal en la materia;
+I. Resolver las consultas de carácter jurídico en materia de convenios y contratos que formulen las unidades administrativas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como las dependencias y entidades de la Administración Pública Federal;
 
-II. Elaborar estudios jurídicos en materia de convenios y contratos que tengan incidencia en PEMEX y organismos subsidiarios;
+II. Proponer criterios uniformes para la elaboración, revisión y sanción jurídica de contratos, convenios, escrituras, poderes, convocatorias y bases de licitación, entre otros, que pretendan celebrar PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-III. Elaborar o revisar, en su ámbito de competencia, los contratos, convenios, escrituras, poderes, convocatorias y bases de licitación, entre otros, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional que pretendan celebrar PEMEX, organismos subsidiarios y, en su caso, filiales;
+III. Elaborar estudios jurídicos en materia de convenios y contratos que tengan incidencia en PEMEX y Organismos Subsidiarios;
 
-IV. Elaborar los modelos y formatos de contratos y convenios para su utilización uniforme en PEMEX y organismos subsidiarios;
+IV. Elaborar o revisar, en su ámbito de competencia, los contratos, convenios, escrituras, poderes, convocatorias y bases de licitación, entre otros, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional que pretendan celebrar PEMEX, Organismos Subsidiarios y, en su caso, filiales;
 
-V. Asesorar a las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración de los argumentos que den contestación a la queja presentada por los proveedores o contratistas en los procedimientos de conciliación;
+V. Elaborar los modelos y formatos de contratos y convenios para su utilización uniforme en PEMEX y Organismos Subsidiarios;
 
-VI. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y organismos subsidiarios en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+VI. Asesorar a las unidades administrativas de PEMEX y Organismos Subsidiarios en la elaboración de los argumentos que den contestación a la queja presentada por los proveedores o contratistas en los procedimientos de conciliación;
 
-VII. Participar, cuando se solicite, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+VII. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y Organismos Subsidiarios en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-VIII. Apoyar, en su caso, a las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas, y
+VIII. Participar, cuando se solicite, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-IX. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o de despachos de auditores externos en materia de su competencia.
+IX. Apoyar, en su caso, a las unidades administrativas de PEMEX y Organismos Subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
+
+X. Proponer medidas para prevenir procedimientos judiciales y administrativos por parte de proveedores, prestadores de servicios y contratistas, en contra de PEMEX y Organismos Subsidiarios, y
+
+XI. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o de despachos de auditores externos en materia de su competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+Artículo 140 A.- La Gerencia Jurídica de Finanzas tendrá las funciones siguientes:
+
+I. Apoyar la negociación de las diversas operaciones financieras en las que intervenga PEMEX, incluyendo financiamientos, instrumentos financieros derivados, fianzas, seguros, servicios bancarios, servicios de custodia de valores, así como proyectos de alianzas, inversiones conjuntas y nuevos negocios;
+
+II. Definir y establecer términos y condiciones jurídicas en los contratos y demás documentos que formalicen las operaciones financieras en que participen las unidades administrativas de PEMEX;
+
+III. Responder a las diversas consultas que en materia financiera le formulen las unidades administrativas de PEMEX, solicitando, en su caso, la opinión de la Gerencia Jurídica Consultiva;
+
+IV. Solicitar a las diversas unidades administrativas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, la información jurídico financiera que se deba entregar a las contrapartes y autoridades reguladoras, nacionales e internacionales, de la actividad financiera, así como aquélla necesaria para la integración de los prospectos de colocación;
+
+V. Participar en materia jurídico financiera en la constitución, escisión, fusión, disolución, liquidación, extinción y transferencia de filiales, así como en la constitución, terminación o extinción de fondos y vehículos financieros en los que participe PEMEX;
+
+VI. Fungir como área de enlace de la Dirección Jurídica con la Dirección Corporativa de Finanzas;
+
+VII. Suscribir los convenios y documentos necesarios dentro del ámbito de su competencia;
+
+VIII. Representar a PEMEX ante autoridades reguladoras, nacionales e internacionales, en la actividad jurídica-financiera, siempre que así lo solicite la Dirección Corporativa de Finanzas, y
+
+IX. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o de despachos de auditores externos en materia de su competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+Artículo 140 B.- La Subdirección Jurídica de Asuntos Contenciosos tendrá las funciones siguientes:
+
+I. Coordinar y dar seguimiento a las acciones jurídicas que competan a las gerencias a su cargo en materia laboral, civil, mercantil, fiscal, administrativa, penal, agraria, ecológica, así como procedimientos constitucionales y arbitrales;
+
+II. Fijar criterios para la defensa de los intereses de PEMEX y Organismos Subsidiarios en procedimientos judiciales y administrativos de aplicación general en la Dirección Jurídica;
+
+III. Coordinar el seguimiento, en coordinación con la Subdirección Jurídica de Control de Procesos y Proyectos, de los resultados de los procedimientos judiciales y administrativos, así como analizar su riesgo jurídico;
+
+IV. Determinar las estrategias y programas de carácter preventivo a nivel institucional para evitar procedimientos judiciales y administrativos en contra de PEMEX y Organismos Subsidiarios;
+
+V. Establecer estrategias y programas para abatir los procedimientos judiciales y administrativos a nivel institucional;
+
+VI. Coordinar y dar seguimiento a la participación en la defensa jurídica de los servidores públicos de PEMEX, cuando con motivo del desempeño de sus funciones queden sujetos a algún procedimiento judicial o administrativo, salvo que la parte afectada o denunciante sea el propio PEMEX y los Organismos Subsidiarios o alguna instancia fiscalizadora de la Administración Pública Federal;
+
+VII. Coordinar el registro de las transacciones y conciliaciones judiciales y extrajudiciales que lleven a cabo las unidades administrativas adscritas a la Dirección Jurídica, así como supervisar la aplicación de las políticas correspondientes;
+
+VIII. Coordinar la atención de las consultas en materia contenciosa y laboral que formulen las unidades administrativas de PEMEX y Organismos Subsidiarios, así como las dependencias y entidades de la Administración Pública Federal;
+
+IX. Autorizar, previo acuerdo con el Director Jurídico, la contratación de personas físicas o morales que presten un servicio jurídico a PEMEX y Organismos Subsidiarios, en su ámbito de competencia, y
+
+X. Coordinar la participación que corresponda a la Dirección Jurídica en la revisión del contrato colectivo de trabajo y la revisión salarial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 141.
 
 La Gerencia Jurídica de lo Contencioso tendrá las funciones siguientes:
 
-I. Ejercitar, en el ámbito de su competencia, todas las acciones jurídicas que competan a PEMEX y organismos subsidiarios cuando sea afectada su esfera jurídica en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos arbitrales;
+I. Ejercitar, en el ámbito de su competencia, todas las acciones jurídicas que competan a PEMEX y Organismos Subsidiarios cuando sea afectada su esfera jurídica en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos constitucionales y arbitrales;
 
-II. Dirigir, en el ámbito de su competencia, la atención de los juicios o litigios en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos arbitrales, en los que sean afectados los intereses y patrimonio de PEMEX y organismos subsidiarios;
+II. Dirigir, en el ámbito de su competencia, la atención de los juicios o litigios en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos constitucionales y arbitrales, en los que sean afectados los intereses y patrimonio de PEMEX y Organismos Subsidiarios;
 
 III. Instruir, en el ámbito de su competencia, que se elaboren con oportunidad los dictámenes que se requieran en materia de conciliación o transacción judiciales y extrajudiciales en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos arbitrales;
 
-IV. Llevar a cabo, en el ámbito de su competencia, la defensa jurídica de los servidores públicos de PEMEX, cuando con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX y/o organismos subsidiarios y/o alguna instancia fiscalizadora de la Administración Pública Federal;
+IV. Llevar a cabo, en el ámbito de su competencia, la defensa jurídica de los servidores públicos de PEMEX, cuando con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX y Organismos Subsidiarios o alguna instancia fiscalizadora de la Administración Pública Federal;
 
-V. Llevar a cabo, en el ámbito de su competencia, las transacciones y conciliaciones judiciales y extrajudiciales de asuntos contenciosos en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y en los procedimientos arbitrales, cuando así procedan, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en PEMEX y organismos subsidiarios;
+V. Llevar a cabo, en el ámbito de su competencia, las transacciones y conciliaciones judiciales y extrajudiciales de asuntos contenciosos en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y en los procedimientos arbitrales, cuando así procedan, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en PEMEX y Organismos Subsidiarios;
 
-VI. Formular y presentar las denuncias y querellas en el ámbito de su competencia que correspondan, para salvaguardar los intereses de PEMEX y organismos subsidiarios;
+VI. Llevar el registro de las transacciones y conciliaciones judiciales y extrajudiciales que lleven a cabo las unidades administrativas adscritas a la Dirección Jurídica;
 
-VII. Coadyuvar en los procedimientos penales en los que PEMEX y organismos subsidiarios sean parte;
+VII. Formular y presentar las denuncias y querellas en el ámbito de su competencia que correspondan, para salvaguardar los intereses de PEMEX y Organismos Subsidiarios;
 
-VIII. Formular, en el ámbito de su competencia, los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en donde PEMEX o sus organismos subsidiarios sean señalados como autoridad responsable;
+VIII. Coadyuvar en los procedimientos penales en los que PEMEX y Organismos Subsidiarios sean parte;
 
-IX. Gestionar la revisión legal en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos arbitrales, de las acciones ejercidas en los procesos en los que PEMEX y organismos subsidiarios sean parte, con el objeto de dar seguimiento y llevar el control que permita verificar el cumplimiento de las formalidades de ley y realizar las recomendaciones necesarias para eficientar el manejo procesal de los juicios que se atienden;
+IX. Formular, en el ámbito de su competencia, los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en donde PEMEX o sus Organismos Subsidiarios sean señalados como autoridad responsable;
 
-X. Formular e instrumentar planes y programas para abatir en el corto, mediano y largo plazos los juicios civiles, mercantiles, fiscales, administrativos, penales, mercantiles, agrarios, ecológicos y procedimientos arbitrales, que se atienden en el ámbito de su competencia;
+X. Gestionar la revisión legal en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica y procedimientos arbitrales, de las acciones ejercidas en los procesos en los que PEMEX y Organismos Subsidiarios sean parte, con el objeto de dar seguimiento y llevar el control que permita verificar el cumplimiento de las formalidades de ley y realizar las recomendaciones necesarias para eficientar el manejo procesal de los juicios que se atienden;
 
-XI. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o despachos de auditores externos en materia de su competencia, y
+XI. Proponer estrategias y programas de carácter preventivo a nivel institucional para evitar procedimientos judiciales y administrativos en materia civil, mercantil, fiscal, administrativa, penal, agraria, ecológica, así como constitucionales y arbitrales;
 
-XII. Atender, en el ámbito de su competencia, las consultas de carácter jurídico en materia contenciosa planteadas por las unidades administrativas de PEMEX y organismos subsidiarios, así como las dependencias y entidades del Gobierno Federal en la materia.
+XII. Atender, en el ámbito de su competencia, las consultas de carácter jurídico en materia contenciosa planteadas por las unidades administrativas de PEMEX y Organismos Subsidiarios, así como por las dependencias y entidades de la Administración Pública Federal en la materia;
+
+XIII. Elaborar las propuestas de estrategias y programas para abatir los procedimientos judiciales y administrativos a nivel institucional;
+
+XIV. Someter a consideración de la Subdirección Jurídica de Asuntos Contenciosos las propuestas de criterios de aplicación general para la defensa de los intereses de PEMEX y Organismos Subsidiarios, en procedimientos judiciales y administrativos, y
+
+XV. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación o despachos de auditores externos en materia de su competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 142.
 
 La Gerencia Jurídica Laboral tendrá las funciones siguientes:
 
-I. Ejercitar, dirigir y dar seguimiento, en el ámbito de su competencia, a las acciones jurídicas en materia laboral, relacionados con la función jurídica institucional, particularmente litigios que competan a PEMEX y organismos subsidiarios cuando sea afectada su esfera jurídica;
+I. Ejercitar, dirigir y dar seguimiento, en el ámbito de su competencia, a las acciones jurídicas en materia laboral, relacionados con la función jurídica institucional, particularmente litigios que competan a PEMEX y Organismos Subsidiarios cuando sea afectada su esfera jurídica;
 
-II. Llevar a cabo, en el ámbito de su competencia, las transacciones y conciliaciones judiciales y extrajudiciales de carácter laboral, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en PEMEX y organismos subsidiarios;
+II. Llevar a cabo, en el ámbito de su competencia, las transacciones y conciliaciones judiciales y extrajudiciales de carácter laboral, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en PEMEX y Organismos Subsidiarios;
 
-III. Formular, en el ámbito de su competencia, los informes previos y justificados en los juicios de amparo laboral en donde PEMEX y/o organismos subsidiarios sean señalados como autoridad responsable;
+III. Formular, en el ámbito de su competencia, los informes previos y justificados en los juicios de amparo laboral en donde PEMEX y Organismos Subsidiarios sean señalados como autoridad responsable;
 
-IV. Gestionar, en el ámbito de su competencia, la revisión legal en materia laboral de las acciones ejercidas en los procesos en los que PEMEX y organismos subsidiarios sean parte, con el objeto de dar seguimiento y llevar el control que permita verificar el cumplimiento de las formalidades de ley y realizar las recomendaciones necesarias para eficientar el manejo procesal de los juicios laborales que se atienden;
+IV. Gestionar, en el ámbito de su competencia, la revisión legal en materia laboral de las acciones ejercidas en los procesos en los que PEMEX y Organismos Subsidiarios sean parte, con el objeto de dar seguimiento y llevar el control que permita verificar el cumplimiento de las formalidades de ley y realizar las recomendaciones necesarias para eficientar el manejo procesal de los juicios laborales que se atienden;
 
-V. Formular e instrumentar planes y programas para abatir en el corto, mediano y largo plazos los juicios laborales;
+V. Elaborar las propuestas de estrategias y programas para abatir los juicios laborales a nivel institucional;
 
-VI. Revisar, en el ámbito de su competencia, laudos absolutorios y condenatorios de carácter laboral notificados a PEMEX y organismos subsidiarios;
+VI. Revisar, en el ámbito de su competencia, laudos absolutorios y condenatorios de carácter laboral notificados a PEMEX y Organismos Subsidiarios;
 
 VII. Analizar, en el ámbito de su competencia, los laudos e incidentes de liquidación, a efecto de dictaminar jurídicamente la procedencia o no del juicio de amparo laboral;
 
 VIII. Interponer y atender, en el ámbito de su competencia, el juicio de amparo laboral y los recursos que procedan;
 
-IX. Atender las consultas de carácter jurídico en materia laboral que formulen las unidades administrativas de PEMEX, organismos subsidiarios y, en su caso, filiales, así como las dependencias y entidades del Gobierno Federal en la materia;
+IX. Atender las consultas de carácter jurídico en materia laboral que formulen las unidades administrativas de PEMEX, Organismos Subsidiarios y, en su caso, filiales, así como las dependencias y entidades de la Administración Pública Federal;
 
 X. Analizar la normatividad laboral institucional con el objeto de unificar los criterios de interpretación y aplicación de la misma;
 
 XI. Participar y fungir como asesor en la integración de las comisiones mixtas o grupos de trabajo que se deriven del cumplimiento de las obligaciones patronales contenidas en el contrato colectivo de trabajo, cuando así lo requiera la Subdirección de Recursos Humanos y Relaciones Laborales o cualquier otra unidad administrativa de la Dirección Corporativa de Administración;
 
-XII. Participar en la revisión del contrato colectivo de trabajo y la revisión salarial y revisar y, en su caso, sancionar los acuerdos y convenios de carácter jurídico laboral, y
+XII. Participar en la revisión del contrato colectivo de trabajo y la revisión salarial, así como revisar y, en su caso, sancionar los acuerdos y convenios de carácter jurídico laboral;
 
-XIII. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos que en materia laboral se formulen.
+XIII. Elaborar las propuestas de las estrategias y programas de carácter preventivo a nivel institucional para evitar juicios laborales en contra de PEMEX y Organismos Subsidiarios;
+
+XIV. Someter a consideración de la Subdirección Jurídica de Asuntos Contenciosos las propuestas de criterios de aplicación general para la defensa de los intereses de PEMEX y Organismos Subsidiarios, en juicios laborales, y
+
+XV. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos que en materia laboral se formulen.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+Artículo 142 A.- La Subdirección Jurídica de Control de Procesos y Proyectos tendrá las funciones siguientes:
+
+I. Coordinar y supervisar el ejercicio de la función jurídica en las gerencias jurídicas y las oficinas regionales de su adscripción;
+
+II. Coordinar y supervisar los programas de trabajo y las actividades que desempeñen las gerencias jurídicas y oficinas regionales de su adscripción;
+
+III. Difundir a las gerencias jurídicas y oficinas regionales de su adscripción los criterios y estrategias fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos, así como supervisar su aplicación en los asuntos de su competencia;
+
+IV. Comunicar a las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos los resultados de la aplicación de los criterios y estrategias fijados por éstas;
+
+V. Establecer mecanismos de coordinación entre las gerencias jurídicas y oficinas regionales de su adscripción;
+
+VI. Supervisar la defensa de los intereses de PEMEX y sus Organismos Subsidiarios en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios, procedimientos constitucionales y arbitrales, que sean competencia de las gerencias jurídicas y oficinas regionales de su adscripción;
+
+VII. Coordinar y dar seguimiento a la participación en la defensa jurídica de los servidores públicos de los Organismos Subsidiarios, cuando con motivo del desempeño de sus funciones queden sujetos a algún procedimiento judicial o administrativo, salvo que la parte afectada o denunciante sea el propio PEMEX u Organismos Subsidiarios, o alguna instancia fiscalizadora de la Administración Pública Federal;
+
+VIII. Establecer la información estadística de los asuntos a cargo de la Dirección Jurídica, con base en los sistemas informáticos jurídicos institucionales;
+
+IX. Coordinar la información y seguimiento de los proyectos estratégicos definidos por la Dirección General o por la Dirección Jurídica;
+
+X. Autorizar, previo acuerdo con el Director Jurídico, la contratación de personas físicas o morales que presten un servicio jurídico a PEMEX y Organismos Subsidiarios, en su ámbito de competencia, y
+
+XI. Proponer al Director Jurídico la creación o modificación del ámbito territorial de competencia de las unidades administrativas de la Dirección Jurídica ubicadas en las regiones o ciudades del país, así como la distribución de los recursos humanos respectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 143.
 
 La Gerencia Jurídica de Exploración y Producción tendrá las funciones siguientes:
 
-I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia, que comprende las unidades administrativas de la Oficina del Abogado General ubicadas en las ciudades de Villahermosa, Cd. Del Carmen, Poza Rica, Dos Bocas, Tuxtla Gutiérrez, Cd. Victoria, Reynosa y Mérida;
+I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia, que comprende las unidades administrativas de la Dirección Jurídica en las ciudades de Villahermosa, Cd. Del Carmen, Poza Rica, Dos Bocas, Tuxtla Gutiérrez, Cd. Victoria, Reynosa y Mérida, con apego a los criterios y estrategias fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, sus organismos subsidiarios y filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios;
+II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, Organismos Subsidiarios y, en su caso, filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios;
 
 III. Conocer y atender todos los asuntos o sucesos relevantes de carácter jurídico en su ámbito de competencia, en el ejercicio de la función jurídica institucional, que por su riesgo, cuantía, gravedad, precedente u otra particularidad se consideren de atención prioritaria o que de manera sustancial afecten los intereses o patrimonio institucionales;
 
-IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y/o organismos subsidiarios sean señalados como autoridad responsable;
+IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y Organismos Subsidiarios sean señalados como autoridad responsable;
 
-V. Llevar a cabo en su ámbito de competencia las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, y/o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y organismos subsidiarios;
+V. Llevar a cabo, en su ámbito de competencia, las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y Organismos Subsidiarios;
 
-VI. Elaborar o revisar, en su ámbito de competencia, los contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y organismos subsidiarios, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
+VI. Elaborar o revisar, en su ámbito de competencia, los contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y Organismos Subsidiarios, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
 
-VII. Realizar, en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y organismos subsidiarios;
+VII. Realizar, en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y Organismos Subsidiarios;
 
-VIII. Asesorar, en su ámbito de competencia, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y organismos subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
+VIII. Asesorar, en su ámbito de competencia y con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y Organismos Subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
 
-IX. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su jurisdicción;
+IX. Asesorar y asistir a la Dirección General de Pemex-Exploración y Producción en los actos jurídicos que celebre;
 
-X. Asesorar y asistir a la Dirección General de Pemex-Exploración y Producción en los actos jurídicos que celebre;
+X. Revisar y someter a consideración del Director Jurídico, por conducto de la Subdirección de Consultoría Jurídica, el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Exploración y Producción;
 
-XI. Revisar y someter a consideración del Abogado General el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Exploración y Producción;
+XI. Atender y proponer la conciliación de asuntos relevantes de Pemex-Exploración y Producción;
 
-XII. Atender y proponer la conciliación de asuntos relevantes de Pemex-Exploración y Producción;
+XII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y Organismos Subsidiarios, en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-XIII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación;
+XIII. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y Organismos Subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XIV. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y organismos subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XIV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XV. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
 
-XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
+XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
 
-XVII. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
+XVII. Brindar apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Exploración y Producción;
 
-XVIII. Brindar apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Exploración y Producción;
+XVIII. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Exploración y Producción, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan;
 
-XIX. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Exploración y Producción, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan, y
+XIX. Realizar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Exploración y Producción, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX u Organismos Subsidiarios, o alguna instancia fiscalizadora de la Administración Pública Federal, y
 
-XX. Coordinar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Exploración y Producción, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX y/o organismos subsidiarios y/o alguna instancia fiscalizadora de la Administración Pública Federal.
+XX. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su jurisdicción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 144.
 
 La Gerencia Jurídica de Refinación tendrá las funciones siguientes:
 
-I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia, que comprende las unidades administrativas de la Oficina del Abogado General ubicadas en las ciudades de Monterrey, Tampico, Chihuahua, Veracruz, Querétaro, Pachuca, Salamanca, Puebla, Guanajuato, Guadalajara, Salina Cruz, Oaxaca, Rosarito, Gómez Palacio, Hermosillo y Culiacán;
+I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia, que comprende las unidades administrativas de la Dirección Jurídica ubicadas en las ciudades de Monterrey, Tampico, Chihuahua, Veracruz, Querétaro, Pachuca, Salamanca, Puebla, Guanajuato, Guadalajara, Salina Cruz, Oaxaca, Rosarito, Gómez Palacio, Hermosillo y Culiacán, con apego a los criterios y estrategias fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, organismos subsidiarios y filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, agrarios y arbitrales;
+II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, Organismos Subsidiarios y, en su caso, filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios;
 
 III. Conocer y atender, en su ámbito de competencia, todos los asuntos o sucesos relevantes de carácter jurídico, en el ejercicio de la función jurídica institucional, que por su riesgo, cuantía, gravedad, precedente u otra particularidad se consideren de atención prioritaria o que de manera sustancial afecten los intereses o patrimonio institucionales;
 
-IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y/o organismos subsidiarios sean señalados como autoridad responsable;
+IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y Organismos Subsidiarios sean señalados como autoridad responsable;
 
-V. Llevar a cabo en su ámbito de competencia las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, y/o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y organismos subsidiarios;
+V. Llevar a cabo, en su ámbito de competencia, las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y Organismos Subsidiarios;
 
-VI. Elaborar o revisar, en su ámbito de competencia, los contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y organismos subsidiarios, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
+VI. Elaborar o revisar, en su ámbito de competencia, los contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y Organismos Subsidiarios, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
 
-VII. Realizar en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y organismos subsidiarios;
+VII. Realizar, en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y Organismos Subsidiarios;
 
-VIII. Asesorar, en su ámbito de competencia, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y organismos subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
+VIII. Asesorar, en su ámbito de competencia y con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y Organismos Subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
 
-IX. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su jurisdicción;
+IX. Asesorar y asistir a la Dirección General de Pemex-Refinación en los actos jurídicos que celebre;
 
-X. Asesorar y asistir a la Dirección General de Pemex-Refinación en los actos jurídicos que celebre;
+X. Revisar y someter a consideración del Director Jurídico, por conducto de la Subdirección de Consultoría Jurídica, el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Refinación;
 
-XI. Revisar y someter a consideración del Abogado General el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Refinación;
+XI. Atender y proponer la conciliación de asuntos relevantes de Pemex-Refinación;
 
-XII. Atender y proponer la conciliación de asuntos relevantes de Pemex-Refinación;
+XII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y Organismos Subsidiarios, en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-XIII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación;
+XIII. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y Organismos Subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XIV. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y organismos subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XIV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XV. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
 
-XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
+XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
 
-XVII. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
+XVII. Brindar apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Refinación;
 
-XVIII. Brindar el apoyo jurídico preventivo, en su ámbito de competencia a solicitud de las áreas y centros de trabajo de Pemex-Refinación;
+XVIII. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Refinación, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan;
 
-XIX. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Refinación, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan, y
+XIX. Realizar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Refinación, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX u Organismos Subsidiarios, o alguna instancia fiscalizadora de la Administración Pública Federal, y
 
-XX. Coordinar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Refinación, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX y/o organismos subsidiarios y/o alguna instancia fiscalizadora de la Administración Pública Federal.
+XX. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su jurisdicción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 145.
 
 La Gerencia Jurídica de Gas y Petroquímica Básica tendrá las funciones siguientes:
 
-I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia;
+I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia con apego a los criterios y estrategias fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, organismos subsidiarios y filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios;
+II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, Organismos Subsidiarios y, en su caso, filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios;
 
 III. Conocer y atender, en su ámbito de competencia, todos los asuntos o sucesos relevantes de carácter jurídico, en el ejercicio de la función jurídica institucional, que por su riesgo, cuantía, gravedad, precedente u otra particularidad se consideren de atención prioritaria o que de manera sustancial afecten los intereses o patrimonio institucionales;
 
-IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y/o organismos subsidiarios sean señalados como autoridad responsable;
+IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y Organismos Subsidiarios sean señalados como autoridad responsable;
 
-V. Llevar a cabo en su ámbito de competencia las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, y/o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y organismos subsidiarios;
+V. Llevar a cabo, en su ámbito de competencia, las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y Organismos Subsidiarios;
 
-VI. Elaborar o revisar contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y organismos subsidiarios en su ámbito de competencia, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
+VI. Elaborar o revisar contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y Organismos Subsidiarios en su ámbito de competencia, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
 
-VII. Realizar en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y organismos subsidiarios;
+VII. Realizar, en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y Organismos Subsidiarios;
 
-VIII. Asesorar, en su ámbito de competencia, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y organismos subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
+VIII. Asesorar, en su ámbito de competencia y con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y Organismos Subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
 
-IX. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control; de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su ámbito de competencia;
+IX. Asesorar y asistir a la Dirección General de Pemex-Gas y Petroquímica Básica en los actos jurídicos que celebre;
 
-X. Asesorar y asistir a la Dirección General de Pemex-Gas y Petroquímica Básica en los actos jurídicos que celebre;
+X. Revisar y someter a consideración del Director Jurídico, por conducto de la Subdirección de Consultoría Jurídica, el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Gas y Petroquímica Básica;
 
-XI. Revisar y someter a consideración del Abogado General el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Gas y Petroquímica Básica;
+XI. Atender y proponer la conciliación de asuntos relevantes de Pemex-Gas y Petroquímica Básica;
 
-XII. Atender y proponer la conciliación de asuntos relevantes de Pemex-Gas y Petroquímica Básica;
+XII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y Organismos Subsidiarios, en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-XIII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación;
+XIII. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y Organismos Subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XIV. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y organismos subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los Organos Internos de Control;
+XIV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XV. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
 
-XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
+XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
 
-XVII. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
+XVII. Brindar apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Gas y Petroquímica Básica;
 
-XVIII. Brindar apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Gas y Petroquímica Básica;
+XVIII. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Gas y Petroquímica Básica, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan;
 
-XIX. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Gas y Petroquímica Básica, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan, y
+XIX. Realizar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Gas y Petroquímica Básica, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX u Organismos Subsidiarios, o alguna instancia fiscalizadora de la Administración Pública Federal, y
 
-XX. Coordinar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Gas y Petroquímica Básica, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX y/o organismos subsidiarios y/o alguna instancia fiscalizadora de la Administración Pública Federal.
+XX. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su ámbito de competencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 146.
 
 La Gerencia Jurídica de Petroquímica tendrá las funciones siguientes:
 
-I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia, que comprende la unidad administrativa de la Oficina del Abogado General ubicada en la ciudad de Coatzacoalcos, Ver.;
+I. Coordinar el ejercicio de la función jurídica en su ámbito de competencia, que comprende la unidad administrativa de la Dirección Jurídica ubicada en la ciudad de Coatzacoalcos, Ver., con apego a los criterios y estrategias fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX y organismos subsidiarios y filiales, para la defensa de los intereses de PEMEX y organismos subsidiarios, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, agrarios y arbitrales;
+II. Ejercer, en su ámbito de competencia, la representación legal de PEMEX, Organismos Subsidiarios y, en su caso, filiales, para la defensa de los intereses de la industria petrolera, en asuntos laborales, penales, civiles, fiscales, mercantiles, administrativos, ambientales, arbitrales y agrarios;
 
-III. Conocer y atender, en su ámbito de competencia, todos los asuntos o sucesos relevantes de carácter jurídico, en el ejercicio de la función jurídica institucional, que por su riesgo, cuantía, gravedad, precedente u otra particularidad se consideren de atención prioritaria o que de manera sustancial afecten los intereses o patrimonio institucionales;
+III. Conocer y atender todos los asuntos o sucesos relevantes de carácter jurídico en su ámbito de competencia, en el ejercicio de la función jurídica institucional, que por su riesgo, cuantía, gravedad, precedente u otra particularidad se consideren de atención prioritaria o que de manera sustancial afecten los intereses o patrimonio institucionales;
 
-IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y/o organismos subsidiarios sean señalados como autoridad responsable;
+IV. Formular los informes previos y justificados en los juicios de amparo en materia civil, mercantil, fiscal, administrativa, penal, agraria y ecológica, en los que PEMEX y Organismos Subsidiarios sean señalados como autoridad responsable;
 
-V. Llevar a cabo en su ámbito de competencia las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, y/o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y organismos subsidiarios;
+V. Llevar a cabo, en su ámbito de competencia, las transacciones y conciliaciones judiciales y extrajudiciales de asuntos en materia civil, mercantil, fiscal, administrativa, penal, laboral, agraria, ecológica y en los procedimientos arbitrales, o en cualesquier otra materia, en cumplimiento de las políticas para la transacción judicial o extrajudicial de controversias en Petróleos Mexicanos y Organismos Subsidiarios;
 
-VI. Elaborar o revisar contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y organismos subsidiarios en su ámbito de competencia, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
+VI. Elaborar o revisar contratos, convenios, escrituras, poderes, convocatorias y bases de licitación entre otros, que generen las áreas operativas o comercializadoras de PEMEX y Organismos Subsidiarios en su ámbito de competencia, a efecto de otorgar, en su caso, la sanción jurídica respectiva en ejercicio de la función jurídica institucional;
 
-VII. Realizar en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y organismos subsidiarios;
+VII. Realizar, en su ámbito de competencia, diversos trámites legales ante las autoridades administrativas y gubernamentales y las gestiones notariales que correspondan para PEMEX y Organismos Subsidiarios;
 
-VIII. Asesorar, en ámbito de competencia, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y organismos subsidiarios que se ubiquen en su ámbito de competencia, en la aplicación e interpretación de la normatividad y lineamientos institucionales, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
+VIII. Asesorar, en su ámbito de competencia y con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos, a los funcionarios y a las áreas operativas, comerciales y administrativas de PEMEX y Organismos Subsidiarios, en la aplicación e interpretación de la normatividad, emitiendo opiniones que por su naturaleza serán vinculantes en el ámbito administrativo interno;
 
-IX. Coadyuvar con la Gerencia de Control de Procesos Jurídicos en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su ámbito de competencia;
+IX. Asesorar y asistir a la Dirección General de Pemex-Petroquímica en los actos jurídicos que celebre;
 
-X. Asesorar y asistir a la Dirección General de Pemex-Petroquímica en los actos jurídicos que celebre;
+X. Revisar y someter a consideración del Director Jurídico, por conducto de la Subdirección de Consultoría Jurídica, el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Petroquímica;
 
-XI. Revisar y someter a consideración del Abogado General el dictamen de competencia respecto a la procedencia jurídica de los proyectos de acuerdos que se presentarán al Consejo de Administración de Pemex-Petroquímica;
+XI. Atender y proponer la conciliación de asuntos relevantes de Pemex-Petroquímica;
 
-XII. Atender y proponer la conciliación de asuntos relevantes de Pemex-Petroquímica;
+XII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y Organismos Subsidiarios, en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación con apego a los criterios jurídicos fijados por las subdirecciones de Consultoría Jurídica, y Jurídica de Asuntos Contenciosos;
 
-XIII. Asesorar, en su ámbito de competencia, a las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración de los argumentos que den contestación a la solicitud de conciliación presentada por los proveedores o contratistas en los procedimientos de conciliación;
+XIII. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y Organismos Subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XIV. Asesorar y, en su caso, representar a las unidades administrativas de PEMEX y organismos subsidiarios, en su ámbito de competencia, en los procedimientos de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XIV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
 
-XV. Participar, en su ámbito de competencia, en las audiencias de conciliación que se celebren en la Secretaría de la Función Pública o en los órganos internos de control;
+XV. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
 
-XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la elaboración del convenio de conciliación que pretendan suscribir con los proveedores o contratistas;
+XVI. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y Organismos Subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
 
-XVII. Participar, en su ámbito de competencia, con las unidades administrativas de PEMEX y organismos subsidiarios en la atención de las recomendaciones de los órganos autónomos de derechos humanos y no gubernamentales;
+XVII. Brindar apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Petroquímica;
 
-XVIII. Brindar el apoyo jurídico preventivo, en su ámbito de competencia, a solicitud de las áreas y centros de trabajo de Pemex-Petroquímica;
+XVIII. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Petroquímica, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan;
 
-XIX. Ser la ventanilla única que coordine las consultas que las unidades administrativas de Pemex-Petroquímica, desean plantear ante la Secretaría de la Función Pública, y gestionar las respuestas que conforme a sus atribuciones se emitan;
+XIX. Realizar, en su ámbito de competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Petroquímica, cuando, con motivo del desempeño de sus funciones, queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX u Organismos Subsidiarios, o alguna instancia fiscalizadora de la Administración Pública Federal;
 
-XX. Coordinar, en el ámbito de su competencia, las acciones derivadas de asumir la defensa jurídica de los servidores públicos de Pemex-Petroquímica, cuando, con motivo del desempeño de sus funciones queden sujetos a algún procedimiento de carácter civil, mercantil, fiscal, administrativo, penal, agrario y ecológico, salvo que la parte afectada o denunciante sea el propio PEMEX y/o organismos subsidiarios y/o alguna instancia fiscalizadora de la Administración Pública Federal, y
+XX. Coordinar la atención y seguimiento del cumplimiento de los acuerdos adoptados por el Consejo de Administración de Pemex-Petroquímica y otros órganos colegiados relacionados con la Dirección Jurídica, y
 
-XXI. Coordinar la atención y seguimiento del cumplimiento de los acuerdos adoptados por el Consejo de Administración de Pemex Petroquímica y del Comité de Control y Auditoría relacionados con la Oficina del Abogado General.
+XXI. Coadyuvar con la Gerencia de Control de Gestión en la atención de las observaciones del Organo Interno de Control, de la Auditoría Superior de la Federación y despachos de auditores externos relativas a su ámbito de competencia.
 
 ### Capítulo Primero. De los Servicios Administrativos Comunes y de los Servicios Especializados que presta Petróleos Mexicanos a sus Organismos Subsidiarios
 
@@ -5411,6 +5649,10 @@ La contabilidad de los diversos servicios comunes que se presten deberá ser lle
 
 ### Capítulo Primero. Representación y nombramientos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 155.
 
 El Consejo de Administración, el Director General y los directores corporativos de PEMEX emitirán la normatividad que conforme a sus atribuciones les corresponda, de acuerdo con criterios de suficiencia, calidad y claridad, agilidad, desregulación, racionalidad y mejora regulatoria, eficiencia, certeza jurídica, transparencia y reducción efectiva de cargas administrativas.
@@ -5419,29 +5661,41 @@ El Consejo de Administración, el Director General y los directores corporativos
 
 El Director General regulará, de conformidad con la normatividad aplicable, los términos y condiciones en que PEMEX y organismos subsidiarios expedirán su normatividad interna, respecto a su clasificación, elaboración, ámbito de aplicación, instancia y directivos facultados para emitirla, así como el registro para su validez y difusión para su cumplimiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 157.
 
-Toda normatividad de PEMEX y organismos subsidiarios deberá contar con la aprobación previa de la Oficina del Abogado General, la cual cuidará que dicha normatividad se apegue a las disposiciones aplicables, y su congruencia con las demás normas de PEMEX y de organismos subsidiarios.
+Toda normatividad de PEMEX y Organismos Subsidiarios deberá contar con la aprobación previa de la Dirección Jurídica, la cual cuidará que dicha normatividad se apegue a las disposiciones aplicables, y su congruencia con las demás normas de PEMEX y de Organismos Subsidiarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 158.
 
-PEMEX contará con un sistema de registro y difusión de su normatividad y la de sus organismos subsidiarios, a cargo de la Oficina del Abogado General.
+PEMEX contará con un sistema de registro y difusión de su normatividad y la de sus Organismos Subsidiarios, a cargo de la Dirección Jurídica.
 
 ## TITULO OCTAVO. DE LA REPRESENTACION Y SUPLENCIAS
 
 ### Capítulo Segundo. De los Encargados de Despacho por Suplencias
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 159.
 
-La representación legal de PEMEX estará a cargo de su Director General, el Abogado General y demás apoderados del Organismo conforme a la Ley.
+La representación legal de PEMEX estará a cargo de su Director General, el Director Jurídico y demás apoderados del Organismo conforme a la Ley.
 
 ###### Artículo 160.
 
 En caso de poderes a terceros ajenos a PEMEX o a sus organismos subsidiarios, deberán informarse al Consejo de Administración en su sesión ordinaria inmediata siguiente.
 
-El Director General llevará, con apoyo del Abogado General, un registro del otorgamiento y revocación de los poderes generales y especiales otorgados a personas ajenas a PEMEX. Este registro deberá hacerse del conocimiento de los miembros del Consejo de Administración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+El Director General llevará, con apoyo del Director Jurídico, un registro del otorgamiento y revocación de los poderes generales y especiales otorgados a personas ajenas a PEMEX. Este registro deberá hacerse del conocimiento de los miembros del Consejo de Administración.
 
 Los poderes a que se refiere el párrafo cuarto del artículo 5o. de la Ley, se entenderán perfeccionados desde el momento de su otorgamiento y no será necesario hacer mención en los mismos, de la justificación e información que se debe presentar al Consejo de Administración.
 
@@ -5455,13 +5709,21 @@ Cuando sea necesario, los directivos y personal de PEMEX acreditarán sus funcio
 
 En sus ausencias, el Director General será suplido por el Director Corporativo de Administración, por el Director Corporativo de Operaciones, por el Director Corporativo de Finanzas o por el Director Corporativo de Tecnología de Información y Procesos de Negocio, en ese orden.
 
-En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Abogado General o, en su defecto, por quien éste designe.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2012)</small>
+
+En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Director Jurídico o, en su defecto, por quien éste designe.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ESTATUTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 163.
 
-El Director General designará a los directivos que deban suplir a los directores corporativos y al Abogado General.
+El Director General designará a los directivos que deban suplir a los directores corporativos y al Director Jurídico.
+
+> <small>(REFORMADO, D.O.F. 2 DE AGOSTO DE 2011)</small>
 
 Los subdirectores corporativos y los gerentes serán suplidos en sus ausencias por los servidores públicos de jerarquía igual o inmediata inferior de PEMEX.
 
@@ -5529,7 +5791,7 @@ El presente Estatuto fue aprobado por el Consejo de Administración de PEMEX, co
 
 Ciudad de México, D.F., a 8 de septiembre de 2009.- El Abogado General de Petróleos Mexicanos, José Néstor García Reza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 9 DE AGOSTO DE 2010.
 
@@ -5562,3 +5824,21 @@ Noveno.- En los casos que sea necesario, las unidades administrativas correspond
 D.O.F. 2 DE AGOSTO DE 2011.
 
 UNICO. Las presentes modificaciones al Estatuto Orgánico de Petróleos Mexicanos entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE FEBRERO DE 2012.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Petróleos Mexicanos, entrarán en vigor el 1o. de marzo de 2012, salvo lo dispuesto en el artículo transitorio siguiente.
+
+Petróleos Mexicanos, a través de la Oficina del Abogado General, realizará las gestiones necesarias para su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La derogación de los artículos 34, fracción III, punto 4, y 66, así como las reformas a los artículos 34, fracción VI, inciso a), punto 3; 138 B, fracción X, y 140 A, entrarán en vigor el 1o. de agosto de 2012, por lo que hasta esta fecha, la Gerencia Jurídica de Finanzas permanecerá adscrita a la Dirección Corporativa de Finanzas.
+
+La Gerencia Jurídica de Finanzas continuará el desempeño de sus funciones conforme a las necesidades de financiamiento nacional e internacional y aprovechamiento oportuno de las ventanas en los mercados, el cumplimiento institucional de las obligaciones de entrega de información a las autoridades reguladoras nacionales e internacionales.
+
+Sin perjuicio de los dos párrafos anteriores, y a partir de la entrada en vigor de las presentes reformas, la Gerencia Jurídica de Finanzas desarrollará sus funciones en coordinación con la Subdirección de Consultoría Jurídica; elaborando y ejecutando de manera coordinada la ruta estratégica a seguir para llevar a cabo el cambio de adscripción, cuidando no alterar la operación y funcionamiento actual de la Gerencia Jurídica de Finanzas.
+
+El nombramiento y remoción del titular de la Gerencia Jurídica de Finanzas contará con el visto bueno del Director Corporativo de Finanzas.
+
+TERCERO. Las referencias que se hagan en otra normativa a las unidades administrativas que cambian su denominación en virtud de las presentes reformas, adiciones y derogaciones, se entenderán hechas a las unidades administrativas que las sustituyan en funciones.
+
+CUARTO. La estructura orgánica autorizada deberá presentarse para su registro ante las secretarías de la Función Pública y de Hacienda y Crédito Público. Dicha estructura se realizará mediante movimientos compensados, por lo que no implicará ningún incremento al presupuesto global de servicios personales o en el número total de plazas de PEMEX y Organismos Subsidiarios.
