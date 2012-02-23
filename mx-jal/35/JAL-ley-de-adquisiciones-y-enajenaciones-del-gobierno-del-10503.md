@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2011-12-15"
+last_updated: "2012-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -242,6 +242,10 @@ En casos excepcionales, con autorización de la Secretaría de Finanzas y previo
 ###### Artículo 17.
 
 En las adquisiciones de bienes muebles, arrendamientos y contratación de servicios, se preferirá como proveedor en igualdad de circunstancias y en el orden que se indica a: las secretarías, dependencias y organismos auxiliares y paraestatales de las tres instancias de gobierno; a las empresas del sector social y privado del Estado, atendiendo también los términos de la Ley de Fomento Económico del Estado de Jalisco. Asimismo, se dará preferencia a la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2012)</small>
+
+En las adquisiciones de bienes provenientes de actividades agropecuarias, se preferirá a los productores locales. Los servidores públicos de la secretaría encargada de la atención y políticas del desarrollo rural, deberán velar por el cumplimiento de esta disposición y en su caso, aportar los elementos necesarios para ello, conforme a las atribuciones conferidas por el artículo 54 de esta ley.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -713,7 +717,7 @@ El Secretario General de Gobierno.
 
 Lic. Raúl Octavio Espinoza Martínez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE JUNIO DE 2002.
 
@@ -734,5 +738,9 @@ P.O. 25 DE ENERO DE 2007.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 15 DE DICIEMBRE DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE FEBRERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
