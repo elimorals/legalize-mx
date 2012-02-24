@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2011-08-19"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES CODIGO PENAL DE COAHUILA-
 
-CODIGO PENAL DE COAHUILA
+CÓDIGO PENAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -913,7 +913,7 @@ Violar un deber será causal cuando el resultado se podría evitar con la acció
 
 Las circunstancias que el sujeto conozca para prever o poder evitar el resultado, serán materia de la culpabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 27.
 
@@ -1901,7 +1901,7 @@ III. PERJURIO CON RELACIÓN A DOCUMENTO. A quien con cualquier carácter se le e
 
 Este artículo será inaplicable al inculpado en un procedimiento penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 238.
 
@@ -2115,7 +2115,7 @@ DELITOS CONTRA LA SOCIEDAD
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MAYO DE 2008)</small>
 
 ### CAPÍTULO TERCERO. VIOLACIÓN DE CORRESPONDENCIA
 
@@ -2429,7 +2429,7 @@ III. Asiente datos falsos en los registros, bitácoras o cualquier otro document
 
 ARTÍCULO 291 BIS 3. SANCIONES Y FIGURAS TÍPICAS DEL DELITO CONTRA LA ORDENACIÓN DE LOS ECOSISTEMAS TERRESTRES COMETIDO POR LA AUTORIDAD. Se aplicará prisión de tres a nueve años y multa, destitución del cargo e inhabilitación de cinco a diez años para desempeñar cualquier otro, al servidor público que sin la autorización legal de la autoridad competente o sin causa que lo legitime, intervenga en la concesión, cambio de uso, desincorporación, afectación o desafectación, permuta, enajenación o usufructo, total o parcial de un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barrancas o áreas verdes en suelo urbano, que se encuentren bajo la administración del Gobierno del Estado o de las autoridades municipales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 #### SECCIÓN CUARTA. CRITERIOS PARA FIJAR LA REPARACIÓN DEL DAÑO
 
@@ -2507,7 +2507,7 @@ Las sanciones se aplicarán con independencia de las que resulten aplicables por
 
 > <small>(ADICIONADO, P.O. 16 DE MAYO DE 2008)</small>
 
-ARTÍCULO 272 BIS. AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELlCTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
+ARTÍCULO 272 BIS. AGRAVANTES PARA CIERTOS DELITOS QUE SE REPUTAN COMETIDOS EN ASOCIACIÓN DELICTUOSA. Se reputarán como cometidos en asociación delictuosa y se aumentarán en una mitad los mínimos y los máximos de las penas de prisión aplicables a los delitos señalados como graves, cuando en su comisión intervengan dos o más personas, aunque las mismas no se encuentren identificadas; siempre que concurra, además, alguna o algunas de las circunstancias siguientes:
 
 I. Que en su comisión se hayan utilizado armas de fuego reservadas para uso exclusivo del ejército o explosivos; conforme a lo dispuesto en la Ley Federal de la materia.
 
@@ -2837,13 +2837,13 @@ IV. PERMISIÓN DE CONSUMIR BEBIDAS ALCOHÓLICAS SIN AUTORIZACIÓN EN BAILE O FES
 
 La clausura del establecimiento o la cancelación del permiso, licencia o patente, sólo procederá si la autoridad competente no lo hizo antes o revocó la clausura o la cancelación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO CUARTO. INCENDIO Y OTROS ESTRAGOS
 
 ## TÍTULO CUARTO. DELITOS AMBIENTALES Y DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO PRIMERO. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y PLACAS
 
@@ -2915,11 +2915,11 @@ II. INTERCEPTACIÓN. A quien indebidamente intercepte y guarde una comunicación
 
 EXCLUSIÓN DE SANCIONES. No se considera que obran delictuosamente los padres, tutores, cónyuges, concubina, o concubinario: Que abran o intercepten las comunicaciones escritas dirigidas a sus hijos bajo su patria potestad, o a las personas que se hallan bajo su guarda, o al otro cónyuge, concubina o concubinario.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA FE PÚBLICA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO SEGUNDO. CORRUPCIÓN DE MENORES E INCAPACES Y PORNOGRAFÍA INFANTIL
 
@@ -2969,7 +2969,7 @@ Para proceder penalmente por cualquiera de las conductas previstas en este artí
 
 ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA ORDENACIÓN DEL ECOSISTEMA TERRESTRE COMETIDOS POR LOS PARTICULARES. Se aplicará prisión de dos a ocho años y multa, al que ocupe, invada o realice actividades no autorizadas por las disposiciones legales aplicables, en un área natural protegida, suelo de conservación considerado en programas de ordenamiento ecológico, barranca o área verde en suelo urbano, que se encuentre bajo la administración del gobierno del Estado o de la autoridad municipal, en su caso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO TERCERO. LENOCINIO Y TRATA DE PERSONAS
 
@@ -2977,7 +2977,7 @@ ARTÍCULO 291 BIS. SANCIONES Y FIGURAS TÍPICAS DE LOS DELITOS CONTRA LA ORDENAC
 
 ### CAPÍTULO PRIMERO. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 292.
 
@@ -2995,7 +2995,7 @@ SANCIONES Y FIGURA TÍPICA AGRAVADA DE INCENDIO Y OTROS ESTRAGOS. Se aplicará d
 
 ### CAPÍTULO CUARTO. SUSTRACCIÓN Y TRÁFICO DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 294.
 
@@ -3083,7 +3083,7 @@ SANCIONES Y FIGURA TÍPICA DE EXHIBICIONISMO OBSCENO. Se aplicará prisión de t
 
 Si a quien se le hace ejecutar los actos es un menor de dieciocho años de edad: Al sujeto activo se le aplicará prisión de cuatro a diez años y multa. Si el corruptor es ascendiente del menor; o al ejecutar los actos ejercía de cualquier forma autoridad sobre aquel: Las sanciones que señala este artículo serán de un tercio más del mínimo y máximo. Además, y en su caso, se le privará de la patria potestad, tutela o guarda que ejerza.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 300.
 
@@ -3099,7 +3099,7 @@ Si el corruptor es ascendiente del menor o del incapaz, o al ejecutar los actos 
 
 No se entenderá por corrupción de menores o incapaces los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual o embarazo de adolescentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 301.
 
@@ -3119,7 +3119,7 @@ No constituyen pornografía infantil: las fotografías, videograbaciones, audiog
 
 SANCIONES Y FIGURAS TÍPICAS DE CORRUPCIÓN DE MENORES E INCAPACES CON RESULTADO. Se aplicará prisión de seis a catorce años y multa, cuando los actos de corrupción a que se refiere el artículo 300, se realicen reiteradamente sobre el mismo menor, o la misma persona que no tuviere capacidad para comprender el significado del hecho o decidir conforme a esa comprensión, o por cualquier otra circunstancia personal no pueda resistirlo y, debido a ello, éstos adquieran los hábitos del alcoholismo, de la adicción a narcóticos o sustancias toxicas u otros que produzcan efectos similares; se dediquen a la prostitución, o a formar parte de una asociación delictuosa, conspiración criminal, banda o pandilla.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 303.
 
@@ -3193,7 +3193,7 @@ PENALIDAD Y FIGURA TÍPICA DE LENOCINIO CON MENORES O INCAPACES. Se aplicará pr
 
 ## TÍTULO ÚNICO. DELITOS CONTRA EL ORDEN FAMILIAR
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO SÉPTIMO. ADULTERIO
 
@@ -3223,7 +3223,7 @@ Asimismo, como medida de seguridad, se le podrá sujetar a un tratamiento psicol
 
 Este delito se perseguirá por querella de la parte ofendida; salvo que la víctima sea menor de edad o incapaz, casos que se perseguirán de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 311.
 
@@ -3248,6 +3248,10 @@ SANCIÓN AUTÓNOMA DE LOS DELITOS DE VIOLENCIA FAMILIAR, PROPIO O EQUIPARADO, CO
 ###### ARTÍCULO 314.
 
 SANCIONES Y FIGURA TÍPICA DE INCUMPLIMIENTO DE LAS OBLIGACIONES BÁSICAS DE ASISTENCIA FAMILIAR. Se aplicará prisión de uno a cinco años y pérdida de sus derechos familiares: A quien respecto de un menor de edad, un incapacitado o de una persona desvalida a causa de su enfermedad o deterioro de su salud, incumpla el deber de asistencia a que esté legalmente obligado al omitir sin motivo justificado ministrarle los recursos necesarios para atender sus necesidades de comida y habitación.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+Si el adeudo excede de un periodo de tres meses consecutivos o no, el Juez ordenará al Registro Civil la inscripción del sentenciado en el Registro Estatal de Deudores Alimentarios Morosos.
 
 ###### ARTÍCULO 315.
 
@@ -3343,7 +3347,7 @@ Las sanciones aplicables a éstas últimas personas, serán de un mes a dos año
 
 Se aplicarán las últimas sanciones del párrafo anterior en caso de que la cópula sea entre hermanos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 2010)</small>
 
 ### CAPÍTULO SÉPTIMO. ABORTO
 
@@ -3643,7 +3647,7 @@ Se aplicarán iguales sanciones: A quien sin poder dar el auxilio, omita pedirlo
 
 SANCIONES Y FIGURA TÍPICA DE ABANDONO DE ATROPELLADOS. Se aplicará prisión de tres días y tres años y multa: A quien atropelle a una persona y la deje en estado de abandono, sin prestarle o procurarle asistencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2006)</small>
 
 ###### ARTÍCULO 365.
 
@@ -3833,7 +3837,7 @@ Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumen
 
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a cinco años de prisión y multa, a quien con fines lascivos asedie, acose en cualquier forma o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
 
@@ -3845,7 +3849,7 @@ Será punible el acoso sexual cuando el sujeto activo pueda causar un daño pers
 
 Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizaré los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 377.
 
@@ -3867,7 +3871,7 @@ SANCIONES Y FIGURA TÍPICA DE ASALTO TUMULTUARIO A UNA POBLACIÓN. Se aplicará 
 
 PENALIDAD AGRAVADA A LOS CABECILLAS O JEFES. Se aplicará prisión de diez a veinte años y multa: A los cabecillas o jefes de los salteadores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPÍTULO SEGUNDO. DIFAMACIÓN
 
@@ -3933,7 +3937,7 @@ Este delito, sólo se perseguirá por querella de parte ofendida.
 
 ## TÍTULO CUARTO. DELITOS CONTRA EL HONOR
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO TERCERO. CALUMNIA
 
@@ -3955,7 +3959,7 @@ I. PERSONA SIN CAPACIDAD. Con persona sin capacidad para comprender la naturalez
 
 II. PERSONA MENOR DE DOCE AÑOS. Con persona de hasta doce años de edad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 387.
 
@@ -4053,15 +4057,15 @@ Si se emplea violencia física o moral suficiente para intimidar a la víctima y
 
 CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ATENTADOS AL PUDOR. Los delitos de atentados al pudor propio o impropio; con excepción de cuando se emplee la violencia; sólo se perseguirán por querella del ofendido o de sus representantes legítimos. Y si no los tuviere: Por la dependencia que se encargue legalmente de los asuntos del menor o de la familia, si así lo estima conveniente a los intereses del ofendido. Tratándose de atentados al pudor impropio, sólo los representantes legítimos o la dependencia que se encargue de los asuntos del menor o de la familia, podrá otorgar el perdón.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPÍTULO TERCERO. FIGURAS COMUNES AL ROBO Y ABIGEATO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ## TÍTULO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -4085,7 +4089,7 @@ ARTÍCULO 400 BIS. (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 402.
 
@@ -4095,7 +4099,7 @@ ARTÍCULO 400 BIS. (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 404.
 
@@ -4111,7 +4115,7 @@ ARTÍCULO 400 BIS. (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
 (DEROGADO, P.O. 6 DE FEBRERO DE 2009)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 407.
 
@@ -4251,7 +4255,7 @@ Se equipara al abigeato y se sancionará como tal, el alterar o borrar las marca
 
 ###### ARTÍCULO 419.
 
-SANCIONES Y FIGURAS TÍPICAS DE POSESIÓN, TRANSPORTACIÓN Y COMERCIALlZACIÓN DE COSAS ROBADAS O GANADO OBJETO DE ABIGEATO. Se aplicará de uno a cinco años de prisión y multa a quien incurra en cualquiera de los supuestos siguientes:
+SANCIONES Y FIGURAS TÍPICAS DE POSESIÓN, TRANSPORTACIÓN Y COMERCIALIZACIÓN DE COSAS ROBADAS O GANADO OBJETO DE ABIGEATO. Se aplicará de uno a cinco años de prisión y multa a quien incurra en cualquiera de los supuestos siguientes:
 
 I. TRANSPORTACIÓN DE COSA O GANADO ROBADO. Transporte una cosa robada con modalidad agravante o especialmente agravante o de una o más cabezas de ganado objeto de abigeato.
 
@@ -4261,13 +4265,13 @@ III. POSESIÓN DE COSA O GANADO ROBADO EN LUGAR DESTINADO PARA SU MODIFICACIÓN,
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2008)</small>
 
-IV. COMERCIALlZACION DE COSA O GANADO ROBADO. Se venda, enajene de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del robo con modalidad agravante o especialmente agravante o una o más cabezas de ganado objeto de abigeato o de sus vestigios identificables, a sabiendas de la procedencia ilícita de éstos.
+IV. COMERCIALIZACION DE COSA O GANADO ROBADO. Se venda, enajene de cualquier manera, adquiera o reciba los instrumentos, objetos o productos del robo con modalidad agravante o especialmente agravante o una o más cabezas de ganado objeto de abigeato o de sus vestigios identificables, a sabiendas de la procedencia ilícita de éstos.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2008)</small>
 
 Si quién posee en esos lugares, transporta o comercializa es autor o partícipe en el robo calificado con modalidad agravante o especialmente agravante; o en el abigeato; sólo se le aplicarán las sanciones que le correspondan por esos delitos, pero la de prisión se podrá aumentar hasta un año más.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 420.
 
@@ -4527,7 +4531,7 @@ DIP. RAUL ONOFRE CONTRERAS
 
 DIP. RAUL ZAPICO ESCARCEGA
 
-DIP JOSE GUILLERMO ANAYA LLAMAS
+DIP. JOSE GUILLERMO ANAYA LLAMAS
 
 DIP. J. SALVADOR HERNANDEZ VELEZ
 
@@ -4581,7 +4585,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 1999.
 
@@ -4673,7 +4677,7 @@ SEGUNDO. Las presentes reformas entrarán en vigor al tiempo en que lo haga la L
 
 TERCERO. Las disposiciones que se derogan relativas al perdón o acto equivalente en delitos perseguibles de oficio se podrán aplicar a los Procesos o Averiguaciones Previas iniciados o que se inicien por hechos cometidos bajo su vigencia; en cuanto resulten más benéficas al inculpado o éste las solicite.
 
-CUARTO. Los bienes que se encuentren a disposición del Ministerio Público y las fianzas o cauciones otorgadas ante dicha autoridad, se sujetarán a lo dispuesto en la Ley de Procuración de Justicia de! Estado, a partir de su entrada en vigor.
+CUARTO. Los bienes que se encuentren a disposición del Ministerio Público y las fianzas o cauciones otorgadas ante dicha autoridad, se sujetarán a lo dispuesto en la Ley de Procuración de Justicia del Estado, a partir de su entrada en vigor.
 
 P.O. 3 DE JUNIO DE 2008.
 
@@ -4725,7 +4729,7 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 14 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 355, POR EL QUE SE REFORMAN EL SEGUNDO PARRAFO DEL ARTICULO 136 Y EL SEGUNDO PARRAFO DEL ARTICULO 303 BIS, DEL CODIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+DECRETO NÚMERO 355, POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 136 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 303 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4733,7 +4737,7 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 14 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 360, POR EL QUE SE ADICIONA UN PARRAFO ENTRE LOS ACTUALES PRIMERO Y SEGUNDO, RECORRIENDOSE EN SU ORDEN LOS TRES SUBSECUENTES, EN EL ARTICULO 300 DEL CODIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+DECRETO NÚMERO 360, POR EL QUE SE ADICIONA UN PÁRRAFO ENTRE LOS ACTUALES PRIMERO Y SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS TRES SUBSECUENTES, EN EL ARTÍCULO 300 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
@@ -4743,11 +4747,11 @@ P.O. 28 DE ENERO DE 2011.
 
 P.O. 4 DE FEBRERO DE 2011.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
 
 P.O. 19 DE AGOSTO DE 2011.
 
-DECRETO No. 528 POR EL QUE SE MODIFICA EL SEGUNDO PARRAFO DEL ARTICULO 194 DEL CODIGO PENAL DE COAHUILA.
+DECRETO No. 528 POR EL QUE SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 194 DEL CÓDIGO PENAL DE COAHUILA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4755,7 +4759,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE AGOSTO DE 2011.
 
-DECRETO No. 532 POR EL QUE SE REFORMA EL ARTICULO 399-BIS DEL CODIGO PENAL DEL ESTADO DE COAHUILA.
+DECRETO No. 532 POR EL QUE SE REFORMA EL ARTÍCULO 399-BIS DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4767,7 +4771,7 @@ Se derogan todas las disposiciones legales y reglamentarias que se opongan al pr
 
 P.O. 19 DE AGOSTO DE 2011.
 
-DECRETO No. 533 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 387 DEL CODIGO PENAL DE COAHUILA.
+DECRETO No. 533 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 387 DEL CÓDIGO PENAL DE COAHUILA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4776,3 +4780,9 @@ El presente decreto entrará en vigor al día siguiente a su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- El Registro Civil, contará con un plazo de 60 días a partir de la entrada en vigor del presente decreto para crear y operar el Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos.
