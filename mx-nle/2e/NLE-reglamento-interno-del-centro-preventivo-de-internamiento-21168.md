@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-del-centro-preventivo-de-internamiento-21168
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-16"
-last_updated: "2001-03-16"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de marzo de 2001.
 
@@ -31,7 +31,7 @@ El C. Ing. Gerardo Garza Sada, Presidente Municipal de San Pedro Garza García, 
 
 Que el R. Ayuntamiento de San Pedro Garza García, Nuevo León en su sesión ordinaria del día 12 de Marzo del 2001, fue aprobado el Reglamento Interno del Centro Preventivo de Internamiento Distrital de San Pedro Garza García, Nuevo León.
 
-Lo anterior de Conformidad con lo que establece el artículos (sic) 26 inciso c) fracción VI, 160, 161, 163, 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+Lo anterior de Conformidad con lo que establece el (sic) artículos 26 inciso c) fracción VI, 160, 161, 163, 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
 REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN.
 
@@ -67,37 +67,65 @@ REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento tiene como finalidad establecer los derechos y obligaciones, que tienen las personas que por su conducta antisocial o antijurídica, se encuentren internadas en las celdas municipales de esta localidad; así como los derechos y obligaciones que tienen los visitantes; las atribuciones de las autoridades competente; las funciones del personal de barandilla de policía y custodia de los internos; establece las bases o reglas para el buen funcionamiento de dicha área; las distintas autoridades administrativas encargadas de la vigilancia en el Centro Preventivo de Internamiento Distrital, en lo inherente al buen funcionamiento de las actividades relacionadas a las celdas municipales.
+Las disposiciones de este Reglamento son de observancia general para todo el personal, internos y visitantes y se aplicarán bajo una base de igualdad y respeto a los derechos humanos y tiene como finalidad establecer los derechos y obligaciones, que tienen las personas que por su conducta antisocial o antijurídica, se encuentren internadas en el Centro Preventivo de Internamiento Distrital de San Pedro Garza García, Nuevo León; así como los que corresponden a los visitantes; las atribuciones de las autoridades competentes; las funciones del personal de barandilla de policía y custodia de los internos; establece así mismo, las bases o reglas para el buen funcionamiento de dicha área; las distintas autoridades administrativas encargadas de la vigilancia del Centro, en lo inherente al buen funcionamiento de las actividades relacionadas con éste.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 1 Bis.
+
+Para los efectos del presente Reglamento debe entenderse por:
+
+Centro.- El Centro Preventivo de Internamiento Distrital de San Pedro Garza García, Nuevo León.
+
+Barandilla.- El área de celdas y custodia del Centro Preventivo de Internamiento Distrital de San Pedro Garza García, Nuevo León.
+
+Interno o Detenido.- Persona que se encuentra privada de su libertad a disposición de alguna autoridad administrativa, investigadora o judicial.
+
+Reglamento.- El Reglamento Interno del Centro Preventivo de Internamiento Distrital de San Pedro Garza García, Nuevo León y
+
+Visitante.- Persona mayor de 16 años que ingresa al Centro, con la finalidad de visitar a las personas que se encuentran remitidas en el mismo en calidad de internos. También tendrán tal carácter las personas que se constituyan como defensores del detenido.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 2.
 
-El Centro Preventivo de Internamiento Distrital, es la Institución donde se internan a las personas que se encuentran cumpliendo una sanción de carácter administrativo o a disposición de alguna Autoridad Investigadora o Judicial, en espera de que se le resuelva su situación jurídica-legal.
+El Centro es la Institución donde se interna a las personas que se encuentran cumpliendo una sanción de carácter administrativo o a disposición de alguna Autoridad Investigadora o Judicial, en espera de que se le resuelva su situación jurídica.
 
 ###### Artículo 3.
 
-El Centro Preventivo de Internamiento Distrital, es la institución que se relaciona con las personas sujetas a detención y arresto administrativo.
+(DEROGADO, P.O. 24 DE FEBRERO DE 2012)
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 4.
 
-El Centro Preventivo de Internamiento Distrital, podrá recibir a las personas que remitan en calidad de internos, por haber cometido faltas al Reglamento de Policía y Buen Gobierno de San Pedro Garza García, Nuevo León; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso dentro del cuarto Distrito Judicial en el Estado.
+El Centro podrá recibir a las personas que remitan en calidad de internos, por haber cometido faltas al Reglamento de Policía y Buen Gobierno de San Pedro Garza García, Nuevo León; o en su defecto que se encuentren bajo la presunción de la comisión de un hecho delictuoso dentro del cuarto Distrito Judicial en el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 5.
 
-El Centro Preventivo de Internamiento Distrital, estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor, y son sus jefes superiores el Director de Policía, el Secretario de Seguridad Pública y Vialidad, por conducto del primero y de un Comandante de Policía con facultades de supervisor. Podrá actuar el Director de Jueces Calificadores, por sí o por conducto de éstos.
+El Centro estará bajo la Dirección Administrativa de un Comandante de Policía con facultades de supervisor; tendrá como jefes superiores el Director General de Policía y el Secretario de Seguridad Municipal.
 
 ### CAPITULO II. COMPETENCIA, RESPONSABILIDADES Y FUNCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 6.
 
-las autoridades administrativas competentes, con atribuciones para hacer cumplir el presente reglamento son:
+Las autoridades administrativas competentes, con atribuciones para hacer cumplir el presente reglamento son:
 
 I. El Presidente Municipal.
 
 II. El Secretario del R. Ayuntamiento.
 
-III. El Secretario de Seguridad Pública y Vialidad.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+III. El Secretario de Seguridad Municipal.
 
 IV. El Director de Jueces Calificadores.
 
@@ -105,101 +133,143 @@ V. Los Jueces Calificadores.
 
 VI. El Comandante de Barandilla.
 
-VII. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Pública y Vialidad.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+VII. Los Oficiales de Policía adscritos a la Barandilla y a las diferentes áreas en el edificio de la Secretaría de Seguridad Municipal.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 7.
 
-Las autoridades señaladas en el artículo que antecede, con excepción de las mencionadas en los incisos 6) y 7), tienen atribuciones para delegar sus funciones en el personal del municipio de su confianza y designado para tal efecto, con el propósito de que se cumpla con los objetivos del presente Reglamento.
+Las autoridades señaladas en el artículo que antecede, con excepción de las mencionadas en los incisos VI) y VII), tienen atribuciones para delegar sus funciones en el personal del municipio a que se hace alusión en el artículo anterior, con el propósito de que se cumpla con los objetivos del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 8.
 
-El Secretario de Seguridad Pública y Vialidad, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
+El Secretario de Seguridad Municipal, además de las facultades y obligaciones que tiene por su cargo, le corresponderá:
 
 I. Organizar, dirigir y administrar los establecimientos carcelarios de este municipio.
 
-II. Tener las 24 horas de los 365 días del año, elementos de policía en las instalaciones del Centro Preventivo de referencia, encargados del buen funcionamiento del mismo.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-III. Realizar cursos teóricos-prácticos en materia de Derecho y funciones de Centro Preventivo e Internamientos de personas detenidas, para la formación y actualización del personal de las celdas municipales.
+II. Tener las 24 horas de los 365 días del año, elementos de policía en las instalaciones del Centro, encargados del buen funcionamiento del mismo.
 
-IV. Designar al Comandante o Jefe de Barandilla entre los oficiales de policía en turno, y los elementos de policía que estén bajo el mando de aquél.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-V. Asignar un área médica en la cual deberá existir un médico responsable de guardia, a fin de dar atención médica a los internos de las celdas municipales y determinar las condiciones físicas en las que se encuentran las personas que ingresan en calidad de arrestados o detenidos.
+III. Realizar cursos teóricos-prácticos en materia de Derecho y funciones del Centro, para la formación y actualización del personal de éste último.
 
-VI. Observar que se de fiel cumplimiento a las indicaciones y diligencias necesarias ordenadas por el juez calificador en turno, al calificar o determinar la situación legal de los detenidos.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+IV. Designar al Comandante de Barandilla entre los oficiales de policía en turno, y los elementos de policía que estén bajo el mando de aquél.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+V. Asignar un área médica en la cual deberá existir un médico responsable de guardia, a fin de dar atención médica a los internos del Centro y determinar las condiciones físicas en las que se encuentran las personas que ingresan en calidad de detenidos.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+VI. Observar que se dé fiel cumplimiento a las indicaciones y diligencias necesarias ordenadas por el juez calificador en turno, al calificar o determinar la situación legal de los detenidos.
 
 VII. Atender las recomendaciones que realice la Comisión Nacional y Estatal de Derechos Humanos, relacionadas con las funciones, actividades, actos u omisiones, efectuadas por el personal que se considere violatorio a los derechos humanos; o cuando las recomendaciones que realicen las instituciones antes indicadas referente a las condiciones de las celdas municipales, que a su criterio considere que son impropios, inhumanas o bien intolerables para cualquier individuo que se encuentre internado en las mismas, y que por tal motivo se le violen sus derechos humanos que ante cualquier situación legal debe de ser respetadas por cualquier autoridad.
 
 VIII. Informar a la Comisión de Regidores correspondiente de las recomendaciones que reciba de la Comisión Nacional o la Estatal de Derechos Humanos.
 
-###### Articulo 9.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
-El municipio podrá llevar a cabo toda clase de convenio las (sic) con autoridades estatales y federales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado de la custodia y manutención de los internos en las celdas municipales.
+###### Artículo 9.
 
-###### Articulo 10.
+El municipio podrá llevar a cabo toda clase de convenios con las autoridades federales, estatales y municipales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado del Centro.
 
-El personal que durante el desempeño y sus funciones estén relacionadas con las actividades propias del centro preventivo carcelario, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga el Secretario de Seguridad Publica y Vialidad de este municipio.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 10.
+
+El personal que en desempeño de sus funciones esté relacionado con las actividades propias del Centro, estará obligado a asistir a los cursos de formación y actualización que organice y disponga el Secretario de Seguridad Municipal.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2012, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DEL INCISO L) AL M).]</small>
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 11.
 
-El Director de Jueces Calificadores, quien depende del Secretario del R. Ayuntamiento de este municipio, además de las facultades y obligaciones que tiene relación con lo previsto en otros Reglamentos, tendrá las siguientes atribuciones:
+El Director de Jueces Calificadores, quien depende del Secretario del R. Ayuntamiento de este municipio, además de las facultades y obligaciones previstos (sic) en otros Reglamentos, tendrá las siguientes atribuciones:
 
-I. Establecer, en coordinación con el Secretario de Seguridad Pública y Vialidad de este municipio, reglas o normas de seguridad del Centro Preventivo de Internamiento Distrital.
+a) Establecer, en coordinación con el Secretario de Seguridad Municipal de esta ciudad, reglas o normas de seguridad del Centro.
 
-a) Lo referente a las funciones de la barandilla y custodia de los internos en las celdas municipales.
+b) Lo referente a las funciones del personal de barandilla y custodia de los internos en el Centro.
 
-b) Determinar los horarios, trámites y reglas que deben observarse en el proceso de visita para los internos.
+c) Determinar los horarios, trámites y reglas que deben observarse en el proceso de visita para los internos.
 
-c) Colaborar para establecer las normas que regirán, para la atención médica de los internos, así como los requisitos que deberán contener los dictámenes médicos que se les practiquen a las persona que vayan a ser internadas en las celdas municipales.
+d) Colaborar para establecer las normas que regirán, para la atención médica de los internos, así como los requisitos que deberán contener los dictámenes médicos que se les practique (sic) a las personas que vayan a ser internadas en el Centro.
 
-d) Establecer los horarios en que se debe proporcionar los alimentos a los detenidos.
+e) Establecer los horarios en que se debe proporcionar los alimentos a los detenidos.
 
-e) Autorizar en casos especiales las visitas fuera del horario establecido, de acuerdo a su amplio criterio y tomando en consideración la situación jurídica del interno, así como las demás condiciones y elementos existentes.
+f) Autorizar en casos especiales las visitas fuera del horario establecido, de acuerdo a su amplio criterio y tomando en consideración la situación jurídica del interno, así como las demás condiciones y elementos existentes.
 
-f) Ordenar las normas de higiene que deberán existir y prevalecer en las celdas municipales.
+g) Ordenar las normas de higiene que deberán existir y prevalecer en el Centro.
 
-g) Establecer y llevar a cabo un sistema de identificación y control de registro de las personas internas en las celdas municipales, que estén siendo procesadas por una autoridad judicial por un delito que merezca pena corporal.
+h) Establecer y llevar a cabo un sistema de identificación y control de registro de los internos del Centro.
 
-h) Así mismo y siendo facultad exclusiva del Director de Jueces Calificadores, vigilar en todo momento que el Juez Calificador en turno, cumpla cabalmente a mas de las facultades y obligaciones inherentes por su cargo.
+i) Vigilar en todo momento que el Juez Calificador en turno, cumpla cabalmente con las obligaciones inherentes a su cargo.
 
-i) Vigilar que se respeten los derechos humanos de los detenidos.
+j) Vigilar que se respeten los derechos humanos de los detenidos.
 
-j) Vigilar que las normas de seguridad sean cumplidas y observadas por el personal de barandilla de policía y demás personal municipal relacionadas con las tareas propias de las celdas municipales.
+k) Vigilar que las normas de seguridad sean cumplidas y observadas por el personal de barandilla y demás personal municipal relacionadas con las tareas propias del Centro.
 
-k) Vigilar se lleve a cabo el buen funcionamiento del Centro Preventivo.
+l) Vigilar se lleve a cabo el buen funcionamiento del Centro.
 
-l) Solicitar se sancione administrativamente o disciplinariamente a cualquier elemento de policía o personal municipal que no cumplan o violen cualquier disposición del presente Reglamento.
+m) Solicitar se sancione administrativamente o disciplinariamente a cualquier elemento de policía o personal municipal que no cumplan o violen cualquier disposición del presente Reglamento.
 
 ###### Artículo 12.
 
 Los Jueces Calificadores, además de las establecidas en el Reglamento de Policía y Buen Gobierno u otras disposiciones, tienen las siguientes atribuciones:
 
-I. Llevar el control de los detenidos que ingresen diariamente al Centro Preventivo de Internamiento Distrital, notificando al Secretario del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-II. Colaborar con las tareas de capacitación y actualización para el personal de las celdas municipales.
+I. Llevar diariamente el control de los detenidos que ingresen al Centro, notificando mediante oficio al Secretario del R. Ayuntamiento y al Secretario de Seguridad Municipal.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+II. Colaborar con las tareas de capacitación y actualización para el personal de barandilla.
 
 III. Realizar las funciones delegadas por el Director de Jueces Calificadores.
 
 IV. Vigilar que se cumplan por parte del personal de barandilla con las obligaciones del presente Reglamento.
 
-V. Ordenar se realice toda diligencia necesaria a fin que se cumpla estrictamente con lo establecido en el presente Reglamento, en relación con toda persona internada en las Celdas Municipales.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+V. Ordenar se realicen las diligencias necesarias a fin que se cumpla estrictamente con lo establecido en el presente Reglamento, en relación con toda persona internada en el Centro.
 
 VI. Dar conocimiento al Director de Jueces Calificadores, de cualquier anomalía o contradicción que se realice con lo estipulado en el presente Reglamento, con el propósito de que se corrija o se sancione al responsable de dicha arbitrariedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 13.
 
-Son facultades y obligaciones del Comandante o Jefe de Barandilla y de los oficiales de policía a su mando, además de las que señale el Reglamento de Policía y Buen Gobierno, las siguientes:
+Son facultades y obligaciones del Comandante de Barandilla y de los oficiales de policía a su mando, además de las que señale el Reglamento de Policía y Buen Gobierno, las siguientes:
 
-I. Dar al público en general, con esmero y buen trato, la información que les sea solicitada respecto a las personas detenidas o arrestadas en las Celdas Municipales.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+I. Dar al público en general, con esmero y buen trato, la información que les sea solicitada respecto a las personas internadas en el Centro.
 
 II. Recibir, trasladar, custodia, vigilar y disponer el tratamiento de toda persona detenida y remitida por los oficiales de policía o transito adscritos a la vigilancia de esta ciudad.
 
-III. Llevar un registro de las personas que se internen en su turno, en las que se fijaran todos los datos pertinentes a su identidad, falta administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-IV. Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la Secretaría de Seguridad Pública y Vialidad.
+III. Llevar un registro de las personas que se internen en su turno, en las que se fijarán todos los datos pertinentes a su identidad, falta administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición, notificándolo mediante oficio al Secretario de Seguridad Municipal y al Director de Jueces Calificadores.
 
-V. Llevar acabo (sic) un riguroso registro de las ordenes de libertad de los internos.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-VI. Vigilar que antes de ingresar el detenido a las celdas municipales, dicha persona haya sido objeto de una revisión corporal, para impedir se introduzca con objetos de los prohibidos dentro de dicha área, para su seguridad y de los demás internos, o para evitar una evasión de presos.
+IV. Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la Secretaría de Seguridad Municipal.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+V. Llevar a cabo un riguroso registro de las ordenes de libertad de los internos.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+VI. Vigilar que antes de ingresar el detenido al Centro, dicha persona haya sido objeto de una revisión corporal, para impedir se introduzca con objetos de los prohibidos dentro de dicha área, para su seguridad y de los demás internos, o para evitar una evasión de presos. Además recabar el dictamen médico correspondiente.
 
 VII. Recibir las pertenencias de valor y personales del detenido, expidiendo el recibo correspondiente y custodiándolas hasta su devolución.
 
@@ -207,9 +277,13 @@ VIII. Vigilar que antes de ingresar al detenido a la celda correspondiente, dich
 
 IX. Vigilar u ordenar que el detenido realice la llamada telefónica de rigor, si así es su deseo.
 
-X. Exigir y ordenar a los oficiales de policía y tránsito que remitan a las celdas municipales, a personas en calidad de detenidos para su internamiento en dicha instalación por faltas administrativas o cualquier otra índole, que notifiquen al Juez Calificador en turno, los motivos de la detención; apercibiéndolos a que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XI. Custodiar y vigilar en todo momento al detenido durante el procedimiento de calificación, revisión médica y en su caso hasta su internamiento en la Celdas, igualmente cuando sea requerido ante la presencia del Juez Calificador, del Agente del Ministerio Público u otra Autoridad Judicial.
+X. Exigir y ordenar a los oficiales de policía y tránsito que remitan al Centro, a personas en calidad de detenidos para su internamiento en dicha instalación por faltas administrativas o (sic) cualquier otra índole, que notifiquen al Juez Calificador en turno, los motivos de la detención; apercibiéndolos a que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa.
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XI. Custodiar y vigilar en todo momento al detenido durante el procedimiento de calificación, revisión médica y en su caso hasta su internamiento en las Celdas del Centro, igualmente cuando sea requerido ante la presencia del Juez Calificador, del Agente del Ministerio Público o la Autoridad Judicial.
 
 XII. Vigilar que no se de malos tratos, ni se ataque físicamente a los detenidos por el personal policiaco, estando obligado a reportar cualquier caso al Juez Calificador en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor.
 
@@ -225,7 +299,9 @@ XVII. Vigilar que las personas visitantes no introduzcan objetos o sustancias il
 
 XVIII. Acompañar por seguridad a cada persona visitante al área de detención de la persona a visitar, hasta el momento de su retiro.
 
-XIX. Vigilar en el edificio de policía se efectúen rondas, cuando menos, cada 30 minutos.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XIX. Vigilar que en el Edificio de la Secretaría de Seguridad Municipal se efectúen rondas, cuando menos, cada 30 minutos.
 
 XX. Vigilar el área de celdas, por lapsos breves periódicamente, para salvaguardar la integridad física de los detenidos o internos, manteniendo custodia permanente en los casos de personas agresivas o en estado depresivo.
 
@@ -233,13 +309,17 @@ XXI. Vigilar que se cumpla con la normativa aplicable.
 
 ### CAPITULO III. PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 14.
 
-El área de Jueces Calificadores, en el ámbito de su competencia, supervisará que desde el momento en que sea presentada una persona en calidad de internamiento como presunto responsable de la comisión de una falta administrativa o de un delito, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control y estadísticas sobre el índice de la población que ingresa al Centro Preventivo de Internamiento Distrital, y vigilar, supervisar y ordenar, a los responsables de barandilla y custodia que durante el procedimiento administrativo para el internamiento del detenido se apegue a lo dispuesto en el presente Reglamento.
+El área de Jueces Calificadores, en el ámbito de su competencia, supervisará que desde el momento en que sea presentada una persona en calidad de internamiento como presunto responsable de la comisión de una falta administrativa o de un delito, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control y estadísticas sobre el índice de la población que ingresa al Centro y vigilar, supervisar y ordenar, a los responsables de barandilla y custodia que durante el procedimiento administrativo para el internamiento del detenido se apegue a lo dispuesto en el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 15.
 
-Una vez que el elemento de Policía ya sea Federal, Estatal o Municipal, que realice la detención del presunto responsable o en su caso el oficial que efectué el traslado al área de celdas, deberá informar al responsable de la guardia y custodia de los detenidos, sobre los hechos que motivan el internamiento de dicho infractor. De igual manera tendrán la obligación de presentar al detenido e informar todo lo relacionado con la detención al Juez Calificador en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
+Una vez que el elemento de Policía ya sea Federal, Estatal o Municipal, o elemento de tránsito o de los cuerpos militarizados que actúan en auxilio o en cooperación con las autoridades estatales o municipales que realice la detención de algún presunto responsable o en su caso el oficial que efectué el traslado al Centro, deberá informar al responsable de barandilla, sobre los hechos que motivan el internamiento de la persona. De igual manera tendrán la obligación de presentar al detenido e informar todo lo relacionado con la detención al Juez Calificador en turno, para su debida calificación o para resolver la situación legal del presentado conforme a derecho.
 
 ###### Artículo 16.
 
@@ -255,51 +335,73 @@ II. Controlar los medicamentos que se le deban administrar a los internos.
 
 III. Emitir opinión al Juez Calificador en turno, sobre el traslado de los detenidos e internos a instituciones hospitalarias, cuando así lo considere necesario.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 18.
 
-Antes de ingresar al detenido, al área de celdas y una vez elaborado su expediente administrativo y el dictamen médico correspondiente, deberá ser presentado ante el Juez Calificador en Turno, a fin de que se lleve acabo (sic) el procedimiento de calificación de conformidad a lo que establece el Reglamento de Policía y Buen Gobierno de este Municipio.
+Antes de ingresar al detenido, al área de celdas y una vez elaborado su expediente administrativo y el dictamen médico correspondiente, deberá ser presentado ante el Juez Calificador en Turno, a fin de que se lleve a cabo el Procedimiento Sumario Oral de Justicia Administrativa de conformidad a lo que establece el Reglamento de Policía y Buen Gobierno de este Municipio.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 19.
 
-El oficial responsable de la guardia, deberá informar a la persona detenida sobre su derecho de realizar una llamada telefónica, o en su caso la que le autorice expresamente el Juez Calificador, siendo obligación de aquél dejar constancia en el libro que se lleve para el efecto de control de llamadas de los detenidos, el número telefónico al que llame, la hora en que se realiza la llamada por parte del interno, así como el nombre de la persona con quien se entrevistó vía telefónica, así como la firma del interno donde acepta haber realizado dicha llamada.
+El Comandante de Policía responsable del área de celdas o personal a su cargo, deberá informar a la persona detenida sobre su derecho de realizar una llamada telefónica, o en su caso la que le autorice expresamente el Juez Calificador, siendo obligación de aquél dejar constancia en el libro que se lleve para el efecto de control de llamadas de los detenidos, el número telefónico al que llame, la hora en que se realiza la llamada por parte del interno, así como el nombre de la persona con quien se entrevistó vía telefónica, así como la firma del interno donde acepta haber realizado dicha llamada, misma que debe ser realizada en el teléfono instalado en el área de barandilla. También se asentarán en el libro las circunstancias bajo las cuales el detenido no desee realizar su llamada telefónica.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 20.
 
-Toda persona antes de ser internada, será sujeta por parte del responsable de la guardia barandilla o sus elementos de policía a su mando, a una rigurosa revisión corporal a fin de verificar que la persona no traiga en su poder alguna droga, armas u objetos con que pueda lesionar o lesionarse, o bien causar algún daño a las instalaciones.
+Toda persona, antes de ser internada, será sujeta por parte del responsable de barandilla o los elementos de policía a su mando, a una rigurosa revisión corporal a fin de verificar que la persona no traiga en su poder alguna droga, armas u objetos con que pueda lesionar o lesionarse, o bien causar algún daño a las instalaciones.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 21.
 
-Ninguna persona detenida podrá ser internada en el Centro Preventivo de Internamiento Distrital, con cintas, cintos, lentes, cordones, cerillos, encendedores, cigarros, dinero, radio localizadores, teléfonos o cualquier otro objeto que ponga en peligro la integridad física del mismo interno o sus compañeros de celda.
+Ninguna persona detenida podrá ser internada en el Centro, con cintas, cintos, lentes, cordones, cerillos, encendedores, cigarros, dinero, radio localizadores, teléfonos o cualquier otro objeto que ponga en peligro la integridad física del mismo interno o sus compañeros de celda.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 22.
 
-Será obligación del Oficial de Policía responsable de la guardia de barandilla o custodios, recoger y custodiar las pertenencias personales de los internos, las cuales deberán ser guardadas en un depósito para dicho efecto, entregándoles al momento de su ingreso al Centro Preventivo de Internamiento Distrital, el recibo correspondiente, debiendo devolver el interno, al oficial de guardia de barandilla, el recibo antes señalado contra la devolución de sus pertenencias al momento de su salida.
+Será obligación del responsable de barandilla o personal a su cargo recoger y custodiar las pertenencias personales de los internos, las cuales deberán ser guardadas en un depósito para dicho efecto, entregándoles al momento de su ingreso al Centro, el recibo correspondiente, debiendo devolver el interno, al personal de barandilla, el recibo antes señalado contra la devolución de sus pertenencias al momento de su salida.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 23.
 
-El Comandante de Barandilla, deberá vigilar que ninguna detención ante autoridad judicial se realice por un término mayor de 72 horas, en los términos del Artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, por lo que si no se recibe de la autoridad judicial el auto de formal prisión, se deberá comunicar al Juez ante el cual esta a disposición sobre dicho particular en el acto mismo de concluir el término y si no se recibe la constancia mencionada dentro de las tres horas siguientes deberá poner al inculpado en libertad. Así mismo cuando un interno se encuentre a disposición del Agente del Ministerio Público Investigador deberá asegurarse que se le resuelva su situación jurídica, ya seas mediante su consignación ante la autoridad judicial o la libertad provisional bajo fianza o por falta de elementos para ejercitar acción penal en contra del mismo, hecho lo cual deberá realizarse en un plazo no mayor de 48 horas o 96 horas en caso de delincuencia organizada.
+El Comandante de Policía responsable de barandilla o personal a su cargo, deberá vigilar que ninguna detención de internos a disposición de la autoridad investigadora, judicial o administrativa se realice por un término mayor a los establecidos en los artículos 16, 19 y 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 24.
 
 Ningún arresto administrativo podrá exceder por más del término de 36 horas, de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 25.
 
-Será obligación de la Dirección de Jueces Calificadores llevar a cabo un sistema de identificación, como medio de control administrativo de todos aquellos internos que se encuentren a disposición de alguna autoridad judicial. Para la identificación de se les tomará una fotografía de frente y de perfil, la cual se insertará en el expediente administrativo de ingreso al Centro Preventivo de Internamiento Distrital. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
+Será obligación de la Dirección de Jueces Calificadores llevar a cabo un sistema de identificación, como medio de control administrativo de todos aquellos internos que se encuentren a disposición de alguna autoridad judicial o investigadora. Para la identificación de los internos, se les tomará una fotografía de frente, la cual se insertará en el expediente administrativo de ingreso al Centro. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
+
+En lo referente al Sistema de Identificación Biométrica de las personas detenidas, se estará a los lineamientos establecidos en el convenio de colaboración celebrado entre la Procuraduría General de Justicia del Estado de Nuevo León y el Municipio de San Pedro Garza García, Nuevo León, que se encuentre en vigor.
 
 ### CAPITULO IV. DERECHOS Y OBLIGACIONES DEL INTERNO
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 26.
 
-Las personas detenidas en el Centro Preventivo de Internamiento Distrital, tienen derecho a que se les informe el motivo y causas de la detención y a disposición de qué autoridad se encuentran o en su caso el arresto o multa que se les aplicará.
+Las personas detenidas en el Centro, tienen derecho a que se les informe el motivo y causas de la detención y a disposición de qué autoridad se encuentran o en su caso el arresto o multa que se les aplicará.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 27.
 
-El oficial de guardia responsable del internamiento y custodia de los detenidos, deberá permitir el libre acceso a la o las personas que visiten al interno, las cuales deberán sujetarse al horario establecido para tal efecto, salvo que sea la primera visita en el día y hora que ingrese el interno al citado Centro Preventivo. El Abogado defensor del interno tendrá acceso en cualquier tiempo que desee visitar a su cliente, siempre y cuando acredite ser abogado al través de su cédula profesional y así mismo el detenido lo acepte como su abogado defensor.
+El responsable de barandilla, deberá permitir el libre acceso a la o las personas que visiten al interno, las cuales deberán sujetarse al horario establecido para tal efecto, salvo que sea la primera visita en el día y hora que ingrese el interno al Centro. El Abogado defensor del interno tendrá acceso en cualquier tiempo que desee visitar a su representado, siempre y cuando acredite ser abogado al (sic) través de su cédula profesional y así mismo el detenido lo acepte como su abogado defensor.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 28.
 
-El interno tendrá derecho a realizar una llamada telefónica, o en su caso la que le autorice expresamente el Juez Calificador, diaria durante su estancia en esta institución de internamiento, de igual forma se le permitirá una vez al día asearse en el área que para tal efecto se designe. El Juez Calificador en turno, resolverá cada petición, tomando en consideración los elementos existentes según las circunstancias del caso.
+El interno tendrá derecho a realizar una llamada telefónica diaria durante su estancia en el Centro, o en su caso la que le autorice expresamente el Juez Calificador, de igual forma se le permitirá una vez al día asearse en el área que para tal efecto se designe. El Juez Calificador en turno, resolverá cada petición, tomando en consideración los elementos existentes, según las circunstancias del caso.
 
 ###### Artículo 29.
 
@@ -309,29 +411,39 @@ El interno podrá recibir alimentos que le sean proporcionados por sus familiare
 
 Los internos tendrán derecho a que el municipio les brinde atención médica necesaria cuando así lo requieran sin excepción, incluyendo el traslado a un centro hospitalario previa autorización expresa de la autoridad competente. Para dicho efecto el Municipio contará con un médico de guardia las 24 horas del día, quien contará con una área médica, que deberá contener el cuadro básico de medicamentos y material de curación suficiente, que determine el Jefe de Servicios Médicos Municipales, para la atención de primeros auxilios de éstos.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 31.
 
-El interno podrá tener en el área de internamiento los artículos personales que necesite diariamente para su aseo personal o su esparcimiento, con excepción de aquellos objetos que representen algún riesgo para la seguridad interna de la institución o de otros internos.
+El interno podrá tener en el área de internamiento los artículos personales que necesite diariamente para su aseo personal o su esparcimiento, con excepción de aquellos objetos que representen algún riesgo para su seguridad, la de otros internos y demás personas que se encuentren dentro del Centro.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 32.
 
-Será obligación de los internos y de las personas que se remitan al Centro Preventivo de Internamiento Distrital, mantener siempre y ante todo momento una buena actitud y dirigirse con el debido respeto y consideración ante el Juez Calificador.
+Será obligación de los internos y de las personas que se remitan al Centro, mantener siempre y ante todo momento una buena actitud y dirigirse con el debido respeto y consideración ante el Juez Calificador.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 33.
 
-El interno durante el período que dure su estancia en el Centro Preventivo de Internamiento Distrital, deberá guardar el orden y respeto que se merece el personal de custodia así como el personal administrativo. Así mismo deberá evitar cualquier agresión física o verbal tanto con las demás personas que se encuentren internas, como con las personas que acudan de visita a dichas instalaciones.
+El interno durante el período que dure su estancia en el Centro, deberá guardar el orden y respeto que se merece el personal de barandilla así como el personal administrativo. Así mismo deberá evitar cualquier agresión física o verbal tanto con las demás personas que se encuentren internas, como con las personas que acudan de visita a dichas instalaciones.
 
 ###### Artículo 34.
 
 Será obligación del interno, mantener aseada el área donde se encuentra detenido, con el propósito de que esta permanezca en un buen estado higiénico, y evitar realizar cualquier desperfecto o daño a las instalaciones.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 35.
 
-Será obligación del interno, reportar a las autoridades del Centro Preventivo de Internamiento Distrital, cualquier anomalía de que se percate.
+Será obligación del interno, reportar a las autoridades del Centro, cualquier anomalía de que se percate.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 36.
 
-Será obligación de los internos, acatar y cumplir las órdenes de las autoridades del Centro Preventivo de Internamiento Distrital.
+Será obligación de los internos, acatar y cumplir las órdenes de las autoridades del Centro.
 
 ###### Artículo 37.
 
@@ -347,15 +459,27 @@ a) Amonestación.
 
 b) Suspensión de visita familiar.
 
-c) Si esta cumpliendo un arresto administrativo se le incrementará su sanción en multa y en arresto, siempre que no sea mayor a los 50 salarios que marca el reglamento, así como el arresto que no exceda del término de 36 horas.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
-d) En el supuesto caso en que el interno realice con su conducta, un hecho u omisión que de acuerdo con la ley se tipifique algún delito se dará vista al Ministerio Público Investigador Adscrito al Cuarto Distrito Judicial en el Estado, o bien, al Ministerio Público o Autoridad competente.
+c) Si está cumpliendo un arresto administrativo se le incrementará su sanción en multa y en arresto, siempre que no sea mayor a los 50 salarios que marca el reglamento, así como el arresto que no exceda del término de 36 horas.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+d) En el supuesto caso en que el interno realice con su conducta, un hecho u omisión que de acuerdo con la ley pudiese tipificar algún delito, se dará vista a la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 38 Bis.
+
+Los internos no podrán ser sancionados sin que previamente se les haya informado de la infracción que se les atribuya y sin antes ser escuchados por el Juez Calificador en turno.
 
 ### CAPITULO VI. DISTRIBUCIÓN DE INTERNAMIENTO EN CELDAS, MEDIDAS DE SEGURIDAD, REGLAS DE INTERNAMIENTO Y ÓRDENES DE LIBERTAD
 
-###### ARTÍCULO 39.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
 
-el área de celdas para el internamiento de las personas detenidas se distribuirá de la siguiente forma:
+###### Artículo 39.
+
+El área de celdas para el internamiento de las personas detenidas se distribuirá de la siguiente forma:
 
 1. Área para internar a los menores de edad.
 
@@ -365,21 +489,29 @@ el área de celdas para el internamiento de las personas detenidas se distribuir
 
 4. Celdas para los que se encuentran a disposición de la Autoridad Judicial.
 
-5. Celdas para las personas que se encuentran por delitos culposos (Accidente Vial).
+5. (DEROGADO, P.O. 24 DE FEBRERO DE 2012)
 
-6. Celdas para los individuos que se encuentran a disposición de la Autoridad Federal.
+6. (DEROGADO, P.O. 24 DE FEBRERO DE 2012)
 
-7. Celdas para las personas que se encuentran a disposición de Autoridades Civiles (Jueces del ramo Civil, Familiar o Laboral).
+7. (DEROGADO, P.O. 24 DE FEBRERO DE 2012)
 
-8. Celdas para las personas que se encuentran afectados de sus facultades mentales.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+8. Área para las personas que se encuentran afectadas de sus facultades mentales.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+9. Celdas para las personas de sexo femenino.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 40.
 
-las personas remitidas a este Centro Preventivo de Internamiento Distrital, en calidad de detenidos una vez registrados y calificados, serán internadas en las celdas de dicha institución bajo las siguientes bases:
+Las personas remitidas al Centro, en calidad de detenidos una vez registrados y calificados, serán internadas en las celdas del mismo bajo las siguientes bases:
 
 a) Las mujeres y hombres ocuparan celdas distintas.
 
-b) Los homosexuales deberán ser internados en áreas distintas a los demás.
+b) (DEROGADO, P.O. 24 DE FEBRERO DE 2012)
 
 c) Los menores de edad serán internados en el cuarto de observación designado para tal efecto.
 
@@ -389,33 +521,45 @@ e) Los detenidos que forman parte de una corporación policial deberán ser inte
 
 f) Se tendrán las consideraciones del caso a las personas de la tercera edad, así como a las personas discapacitados y a los detenidos por delitos culposos.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 41.
 
-Por ningún motivo se internará en el área de celdas a persona alguna que sea remitida por alguna autoridad administrativa o judicial, sino presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Pública y Vialidad o Director de Policía Municipal, debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+Por ningún motivo se internará en el Centro a persona alguna que sea remitida por alguna autoridad administrativa o judicial, si no se presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido al titular de la Secretaría de Seguridad Municipal, al Director General de Policía Municipal o al Comandante de Policía responsable del Centro debiéndose acompañar el dictamen médico correspondiente elaborado en la fecha y hora reciente del internamiento.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 42.
 
-Cuando la Autoridad Administrativa o Judicial que requiera al interno para alguna diligencia procesal, deberá solicitar su excarcelación provisional mediante oficio en el cual se indique el lugar donde habrá de ser remitido, el día y hora en que se requiera, debiéndose designar el o los oficiales de custodia necesarios, quienes deberán tomar las medidas preventivas de seguridad para que se cumplan con la orden dictada por la autoridad.
+Cuando la Autoridad Administrativa, Investigadora o Judicial requiera al interno para alguna diligencia procesal, deberá solicitar su excarcelación provisional mediante oficio en el cual se indique el lugar donde habrá de ser remitido, el día y hora en que se requiera, debiéndose designar el o los oficiales de custodia necesarios, quienes deberán tomar las medidas preventivas de seguridad para que se cumplan con la orden dictada por la autoridad.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 43.
 
-Para que el oficial responsable de la custodia de los detenidos pueda dejar en libertad a un interno, deberá contar con la respectiva orden de libertad, misma que será por escrito con el nombre y firma del titular de la autoridad a quien se encuentra a su disposición el interno o en su defecto a quien se encuentra supliendo a dicho funcionario, así como el sello correspondiente.
+Para que el responsable de barandilla pueda dejar en libertad a un interno, deberá contar con la respectiva orden de libertad, misma que será por escrito con el nombre y firma del titular de la autoridad a quien se encuentra a su disposición el interno o en su defecto a quien se encuentra supliendo a dicho funcionario, así como el sello correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 44.
 
-Como medida de seguridad y con el objeto de salvaguardar la integridad y los derechos humanos de los internos, en el área de celdas podrá contar con cámaras de video grabación.
+Como medida de seguridad y con el objeto de salvaguardar la integridad y los derechos humanos de los internos, el área de celdas podrá contar con cámaras de video grabación.
 
 ### CAPITULO VII. INFORMÁTICA
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 45.
 
-La Dirección de Jueces Calificadores mantendrá actualizada (sic) los informes estadísticos relacionados con las personas que se encuentran internas en el Centro Preventivo de Internamiento Distrital de esta ciudad, debiéndose rendir un informe diario y mensual sobre los índices de internamientos, el cual será entregado a la Secretaría del R. Ayuntamiento, quedando a disposición de la Secretaría de Seguridad Pública y Vialidad la información citada, cuando así sea requerida por el titular de la mencionada institución.
+La Dirección de Jueces Calificadores mantendrá actualizados los informes estadísticos relacionados con las personas que se encuentran internas en el Centro, debiéndose rendir un informe diario y mensual sobre los índices de internamientos, el cual será entregado a la Secretaría del R. Ayuntamiento, quedando a disposición de la Secretaría de Seguridad Municipal la información citada, cuando así sea requerida por el titular de la mencionada institución.
 
 ### CAPITULO VIII. CONTROL DE VISITAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 46.
 
-Los familiares de los internos tendrán derecho de realizar su visita en un horario de las 09:00 a las 13:00 horas y de las 14:00 a las 16:00 horas de todos los días de la semana. El oficial de policía encargado de la guardia, llevará un control de visitas en un libro destinado para tal efecto en le (sic) que se asentara entre otros datos los siguientes:
+Los familiares de los internos tendrán derecho de realizar su visita en un horario de las 09:00 a las 13:00 horas y de las 14:00 a las 16:00 horas de todos los días de la semana. El responsable de barandilla, llevará un control de visitas en un libro destinado para tal efecto, en el que se asentarán entre otros datos los siguientes:
 
 1. Fecha de la visita
 
@@ -427,17 +571,23 @@ Los familiares de los internos tendrán derecho de realizar su visita en un hora
 
 5. Parentesco
 
-6. Hora de visita
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+6. Hora de entrada
 
 7. Hora de salida
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 47.
 
-El visitante deberá presentar una identificación para su ingreso al área de celdas, la cual se le devolverá una vez concluida la misma, en la inteligencia de que no deberá exceder dicha visita por más de 15-quince minutos.
+El visitante deberá presentar una identificación para su ingreso al área de celdas, la cual se le devolverá una vez concluida la misma, en la inteligencia de que no deberá exceder dicha visita por más de 15-quince minutos; asimismo sólo se permitirá un visitante a la vez por interno, salvo que se trate de alguna autoridad o defensores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 48.
 
-Sin excepción se negará el acceso para ver a los internos o hablar con el Juez Calificador para pedir información de los detenidos, a toda persona que acuda a este Centro Preventivo de Internamiento Distrital, cuando se presente:
+Sin excepción se negará el acceso para ver a los internos o hablar con el Juez Calificador para pedir información de los detenidos, a toda persona que acuda al Centro, cuando se presente:
 
 a) En estado de ebriedad o bajo los influjos de alguna sustancia tóxica.
 
@@ -445,7 +595,9 @@ b) Armado o con materiales que pongan en peligro la integridad de los detenidos,
 
 c) Sin camisa, en pantalones cortos o descalza.
 
-d) A menores de edad.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+d) A menores de 16 años.
 
 ###### Artículo 49.
 
@@ -455,39 +607,59 @@ Cuando el visitante sea el Defensor o Abogado del interno podrá visitarlo en cu
 
 A su ingreso el visitante deberá portar un gafete de identificación que expresará la palabra "VISITANTE" devolviéndola contra la entrega de su identificación personal.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 51.
 
-Todos los visitantes deberán ser sometidos a una revisión corporal como medida de seguridad y por ningún motivo podrá ingresar al área de celdas con objetos que por su diseño o naturaleza implique algún riesgo para la integridad física de los internos, de los visitantes, personal de custodia o administrativo de la institución, por lo que los alimentos también serán revisados para evitar que sean introducidos diversos objetos no permitidos, lo anterior a través del personal de custodia.
+Todos los visitantes deberán ser sometidos a una revisión corporal por personal del mismo género como medida de seguridad y por ningún motivo podrá ingresar al área de celdas con objetos que por su diseño o naturaleza implique algún riesgo para la integridad física de los internos, de los visitantes, personal de custodia o administrativo de la institución, por lo que los alimentos también serán revisados para evitar que sean introducidos diversos objetos no permitidos, lo anterior a través del personal del Centro.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 51 Bis.
+
+No se permitirá a los visitantes la introducción de medicamentos o sustancias salvo cuando un interno se encuentre bajo tratamiento autorizado por un médico, caso en el cual, el familiar o persona de su confianza, deberán hacerlo del conocimiento del juez calificador y personal de barandilla, quienes previa opinión del médico de guardia, podrá autorizar el acceso, exclusivamente de ese medicamento, quedando éste en poder del médico, o en su caso, de los elementos de barandilla para que lo administren en la dosis indicada.
 
 ###### Artículo 52.
 
 Existirá un sitio del cual será responsable el comandante de la barandilla, donde las personas visitantes, previa constancia de depósito, dejen sus objetos personales que por su naturaleza no pueden ingresar al área de celdas ya que se consideran prohibidas, por el hecho que pueden ser usadas para fines ilícitos, tal es el ejemplo de corta uñas, navajas, spray para el pelo, envases de vidrio, teléfonos celulares, objetos punzo cortantes, etc.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 53.
 
-Cuando algún funcionario relacionado con la Procuración y Administración de la Justicia, ya sea del fuero Común o Federal en ejercicio de su funciones, solicite su ingreso al área de celdas y acredite su personalidad, deberá proporcionársele las facilidades necesarias para que realice su visita. De igual forma se permitirá el acceso a los funcionarios de la Comisión Nacional de Derechos Humanos y de la Comisión Estatal de Derechos Humanos para que lleven acabo (sic) sus funciones.
+Cuando algún funcionario relacionado con la Procuración y Administración de la Justicia, ya sea del fuero Común o Federal en ejercicio de su (sic) funciones, solicite su ingreso al Centro y acredite el carácter con (sic) se ostenta, deberá proporcionársele las facilidades necesarias para que realice su visita. De igual forma se permitirá el acceso a los funcionarios de la Comisión Nacional de Derechos Humanos y de la Comisión Estatal de Derechos Humanos para que lleven a cabo sus funciones.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 54.
 
-La persona que incurra en alguna irregularidad en lo relación a lo antes preceptuado, se pondrá a disposición del Juez Calificador en turno, para que deslinde responsabilidad administrativa de dicho visitante y en caso de la probable comisión de algún delito se dará vista al Agente del Ministerio Público Investigador adscrito al Cuarto Distrito Judicial en el Estado, o bien, a la autoridad competente según sea el caso.
+La persona que incurra en alguna irregularidad en relación a lo antes preceptuado, se pondrá a disposición del Juez Calificador en turno, para que deslinde responsabilidades y en caso de la probable comisión de algún delito se dará vista a la autoridad competente, según sea el caso.
 
 ### CAPITULO IX. PERSONAL DE CUSTODIA
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 55.
 
-El personal de custodia del Centro Preventivo de Internamiento Distrital, deberá cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, cumpliendo lo establecido por las Leyes y Reglamentos relacionados con su ámbito de competencia para el desarrollo de su trabajo. Por ningún motivo el personal de custodia o administrativo solicitará al interno o a sus familiares dádiva, o emolumento alguno con el fin de hacer algo que este obligado a realizar en cumplimiento de su trabajo, ya que en caso de esta naturaleza, se pondrá a disposición de su Jefe inmediato a fin de que se proceda conforme a Derecho, por lo que se deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso y de dos testigos de asistencia.
+El personal del Centro, deberá cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, cumpliendo lo establecido por las Leyes y Reglamentos relacionados con su ámbito de competencia para el desarrollo de su trabajo. Por ningún motivo el personal de barandilla o administrativo solicitará al interno o a sus familiares dádiva, o retribución alguna con el fin de hacer algo que este obligado a realizar en cumplimiento de su trabajo, ya que en caso de esta naturaleza, se pondrá a disposición de su Jefe inmediato a fin de que se proceda conforme a Derecho, por lo que se deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso y de dos testigos de asistencia.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 56.
 
-El personal de custodia o barandilla al prestar sus servicios deberán realizarlo con la debida atención a las personas que acudan ante él.
+El personal de barandilla al prestar sus servicios deberá realizarlo con la debida atención a las personas que acudan ante él.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 57.
 
-Como medida de seguridad entre los cambios de turno de los responsables de la barandilla y custodia de los detenidos, deberán realizar una revisión en el área de celdas, a fin de contabilizar todos y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
+Como medida de seguridad entre los cambios de turno del personal de barandilla, deberán realizar una revisión en el área de celdas, a fin de contabilizar todos (sic) y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 58.
 
-Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada mediante un parte informativo sobre los hechos que en forma concreta de describan y se tomarán las medidas de seguridad pertinentes.
+Cualquier irregularidad que se detecte en el área de celdas deberá ser reportada al Secretario de Seguridad Municipal, al Director de Policía y al Director de Jueces Calificadores mediante un parte informativo sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
 
 ### CAPITULO X. DE LOS TRASLADOS Y EL PERSONAL
 
@@ -495,27 +667,35 @@ Cualquier irregularidad que se detecte en el área de celdas deberá ser reporta
 
 Los detenidos por la probable comisión de delitos, deberán ser trasladados a los lugares que indiquen las autoridades competentes, procurando efectuarlo en forma rápida y con seguridad por el personal destinado para tal efecto.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 60.
 
-El traslado deberá ser registrado en el libro que se lleve para dicha finalidad, señalando fecha y hora en que se lleve acabo (sic), el lugar del traslado y la causa y motivo del mismo. Corresponderá al comandante de la barandilla en turno hacer las anotaciones correspondientes.
+El traslado deberá ser registrado en el libro que se lleve para dicha finalidad, señalando fecha y hora en que se lleve a cabo, la firma o huella digital del interno el lugar a que se traslada y la causa y motivo del mismo. Corresponderá al Comandante de Policía responsable de barandilla o personal a su cargo, hacer las anotaciones correspondientes.
 
 ###### Artículo 61.
 
 El traslado será efectuado por personal policíaco especialmente capacitado y designado para tal efecto, observándose las normas de seguridad y remitiendo la documentación relativa.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 62.
 
-El Centro Preventivo de Internamiento Distrital, deberá contar con el personal directivo, técnico, administrativo, de seguridad y custodia, que se requiera para su adecuado funcionamiento, de acuerdo con las reglas establecidas en el presente reglamento.
+El Centro deberá contar con el personal directivo, técnico, administrativo, de seguridad y custodia, que se requiera para su adecuado funcionamiento, de acuerdo con las reglas establecidas en el presente reglamento.
 
 ### CAPITULO XI. MANTENIMIENTO AL ÁREA DE CELDAS
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 63.
 
-El Secretario de Seguridad Pública y Vialidad de este municipio, podrá contratar el personal necesario para llevar acabo (sic) el aseo en el área de celdas municipales y mantenerlas en optimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Nuevo León.
+El Secretario de Seguridad Municipal de esta ciudad, deberá contar con el personal necesario para llevar a cabo el aseo en el Centro y mantenerlo en óptimas condiciones, a fin de salvaguardar los derechos humanos de los internos, que ante cualquier situación legal en la que se encuentren, deben ser tratados con dignidad y respeto, de acuerdo a lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 64.
 
-El Centro Preventivo de Internamiento Distrital deberá contar con personal capacitado en las diversas áreas de mantenimiento, a fin de que se encuentre en inmejorables condiciones.
+El Centro deberá contar con personal capacitado en las diversas áreas de mantenimiento, a fin de que se encuentre en inmejorables condiciones.
 
 ### CAPITULO XII. DEL RECURSO DE INCONFORMIDAD
 
@@ -553,6 +733,22 @@ El recurso de inconformidad se presentará ante el Secretario del R. Ayuntamient
 
 El Secretario del Ayuntamiento dictará la resolución dentro de los tres días siguientes a la fecha de la celebración de la audiencia.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+### CAPITULO XIII. DEL PROCEDIMIENTO SUMARIO ORAL DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 70.
+
+Cuando algún detenido sea puesto a disposición del Juez Calificador y exista la presunción de la comisión de algún delito relacionado con delincuencia organizada, portación de arma de fuego, delitos contra la salud o algún otro que por su naturaleza se pueda poner en riesgo la integridad de dicho servidor público, de algún quejoso o testigo, así como del oficial aprehensor; la audiencia se llevará a cabo en los términos establecidos en el capítulo cuarto denominado DEL PROCEDIMIENTO SUMARIO ORAL DE JUSTICIA ADMINISTRATIVA MUNICIPAL contenido en el Reglamento de Policía y Buen Gobierno del Municipio de San Pedro Garza García, Nuevo León; debiéndose observar a demás (sic) las siguientes reglas:
+
+I. La persona que se encuentre detenida será ubicada en un área distinta a la que ocupen el Juez Calificador, el quejoso, testigo y oficial aprehensor, en donde mediante vía remota y audioconferencia podrá únicamente escuchar y no observar el desahogo de la audiencia, pudiendo intervenir en su oportunidad si así lo desea. Por audioconferencia debe entenderse el servicio que permite que dos o más personas que se encuentren separadas físicamente estén en contacto auditivo, en tiempo real;
+
+II. El Juez Calificador, el quejoso, testigo y oficial aprehensor, por el contrario, sí podrán observar y escuchar al detenido durante el desarrollo de la audiencia; lo anterior mediante el sistema de videoconferencia con el que se cuente. Por videoconferencia se entiende el servicio que permite que dos o más personas que se encuentren separadas físicamente, estén en contacto, visual y auditivo, empleando para ello una comunicación digital, bidireccional, en tiempo real de audio, video y datos;
+
+III. A fin de salvaguardar la seguridad del Juez Calificador y en su caso del testigo de asistencia que actúe con éste, en todo momento, su nombre, resolución y audiencia, serán reservados.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial y será difundido, además, por la Gaceta Municipal.
@@ -570,3 +766,13 @@ PRESIDENTE MUNICIPAL
 LIC. ISRAEL HURTADO ACOSTA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2012.
+
+[N. DE TRANSITORIOS DEL ACUERDO POR EL QUE SE "REFORMA POR MODIFICACIÓN, ADICIÓN Y DEROGACIÓN AL REGLAMENTO INTERNO DEL CENTRO PREVENTIVO DE INTERNAMIENTO DISTRITAL DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN".]
+
+PRIMERO.- Las presentes reformas por modificación, adición y derogación a este reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- (sic)
