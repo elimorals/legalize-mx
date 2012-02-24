@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2011-08-19"
+last_updated: "2012-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CODIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -317,7 +317,7 @@ III. El tratamiento médico, cuidado y vigilancia de los mayores que se hallen e
 
 IV. La guarda de sus bienes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 50.
 
@@ -863,6 +863,18 @@ El Ministerio Público velará por los intereses del ausente y será parte neces
 
 El Registro Civil es una institución de orden público que tiene por objeto hacer constar de una manera auténtica todos los actos y hechos relacionados con el estado civil de las personas físicas, mediante la intervención de funcionarios dotados de fe pública, denominados Oficiales del Registro Civil, y a través de un sistema organizado de publicidad.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+Así mismo, el Registro Civil tendrá a su cargo la creación y manejo del Registro Estatal de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias, decretadas por la autoridad judicial correspondiente por un periodo de tres meses consecutivos o no.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+El Registro Civil, estará facultado para la expedición de constancias que informen si quien la solicita se encuentra inscrito o no, en el Registro Estatal de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+El Registro Civil, una vez hecha la inscripción a que se refiere el segundo párrafo, solicitará al Registro Público de la Propiedad la anotación de la constancia respectiva en los bienes de los que sea propietario el Deudor Alimentario inscrito. El Registro Público de la Propiedad deberá informar al Registro Civil en un plazo de 3 días hábiles si fue procedente la anotación. Igualmente, el Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia a fin de suministrarles la información contenida en el Registro Estatal de Deudores Alimentarios Morosos.
+
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 146.
@@ -915,7 +927,7 @@ Toda persona podrá solicitar testimonio de las actas del Registro Civil, así c
 
 Los actos y hechos del estado civil relativos al Oficial del Registro Civil, a su consorte y a los ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por él mismo, pero se asentarán en los propios libros y se autorizarán por el oficial de la adscripción más próxima, o bien por el oficial que determine la Dirección Estatal del Registro Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 158.
 
@@ -1107,7 +1119,7 @@ La falta de registro de la adopción no quita a ésta sus efectos legales; pero 
 
 El acta de adopción semiplena contendrá: el nombre, apellidos, sexo, domicilio, fecha y lugar de nacimiento, así como la clave única del registro de población del adoptado; nombre, apellidos, edad, estado civil, domicilio y nacionalidad de los adoptantes; nombre, apellidos, edad, estado civil, nacionalidad y domicilio de las personas cuyo consentimiento hubiere sido necesario para la adopción; nombre y apellidos de dos testigos de asistencia. En el acta se asentarán, además, los datos esenciales de la resolución judicial que decretó la adopción, fecha en que causó ejecutoria y el Tribunal que la dictó.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 189.
 
@@ -1165,7 +1177,7 @@ Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, obse
 
 (DEROGADO, P.O. 19 DE AGOSTO DE 2005)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 #### SECCIÓN SEXTA BIS. DE LAS ACTAS DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -1247,7 +1259,7 @@ VIII. El acta será firmada por el Oficial del Registro Civil, los contratantes,
 
 Resultan aplicables, en lo conducente, para el otorgamiento de las actas del Registro Civil, en las que se haga constar el pacto civil de solidaridad, la sección primera de “Disposiciones Generales” del Capitulo X “Del Registro Civil”, así como en lo conducente en la Ley de Registro Civil vigente en el Estado.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 #### SECCIÓN SEXTA BIS 1. DE LAS ACTAS DE TERMINACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -1300,6 +1312,10 @@ En caso de que, aun manifestando que el matrimonio se desea celebrar bajo el ré
 VI. Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio si alguno de los pretendientes celebró matrimonio anteriormente y éste fue declarado nulo.
 
 VII. Copia de la dispensa de impedimentos, si los hubo.
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+VIII. Constancia expedida por el Registro Civil, de cada uno de los pretendientes en la que se informe si se encuentran o no inscritos en el Registro Estatal de Deudores Alimentarios Morosos.
 
 ###### ARTÍCULO 198.
 
@@ -1493,7 +1509,7 @@ El Oficial del Registro Civil levantará el acta correspondiente en la que se in
 
 Cuando se recobre la capacidad legal para administrar bienes, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2003)</small>
 
 SECCIÓN DECIMAPRIMERA
 
@@ -1523,7 +1539,7 @@ Procederá la aclaración de los asientos ante la autoridad administrativa compe
 
 El procedimiento de aclaración se sujetará a las disposiciones que establezca la Ley del Registro Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2003)</small>
 
 ###### ARTÍCULO 236.
 
@@ -2401,7 +2417,7 @@ Una vez ratificada, el Oficial del Registro Civil los declarará divorciados, le
 
 No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges son menores de edad, tienen hijos menores, o mayores de edad incapaces, o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 370.
 
@@ -2533,7 +2549,7 @@ Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá c
 
 ## TÍTULO PRIMERO BIS. DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA LA CELEBRACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -2545,7 +2561,7 @@ Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá c
 
 Los compañeros civiles, se deben ayuda y asistencia mutua, consideración y respeto, así como deber de gratitud recíprocos y tendrán obligación de actuar en interés común; de igual manera tendrán derecho a alimentos entre sí.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO III. DE LOS EFECTOS DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -2569,7 +2585,7 @@ Estos requisitos no podrán, bajo ningún caso, ser dispensados. No es impedimen
 
 3. El pacto civil de solidaridad deberá suscribirse ante el Oficial del Registro Civil, con las formalidades y requisitos previstos en la Sección Sexta bis “De las Actas de los Pactos Civiles de Solidaridad” del Capítulo X “Del Registro Civil” del Título Segundo “De las Personas Físicas”, del Libro Primero “Del Derecho de las Personas”.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO IV. DEL RÉGIMEN PATRIMONIAL DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -2635,7 +2651,7 @@ Es responsable solidario por el pago de estas prestaciones quien, a sabiendas o 
 
 9. En caso de muerte de uno de los compañeros civiles causada por la acción de un tercero, el supérstite estará legitimado activamente para exigir la reparación de los perjuicios patrimoniales y morales sufridos, según las reglas generales de la responsabilidad extracontractual, ya en la vía civil o penal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO V. DE LA TERMINACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
@@ -2655,7 +2671,7 @@ Los compañeros civiles, después de celebrado el pacto civil de solidaridad pue
 
 11. Para la constitución del régimen patrimonial dentro del pacto civil de solidaridad en sus modalidades, capitulaciones, requisitos de éste, formalidades, administración, terminación y demás, serán aplicables, en lo conducente, los artículos 283, 285, 286, 287, 290, y las Secciones Segunda y Tercera del Libro Segundo, Capítulo Tercero de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO I. DEL PARENTESCO
 
@@ -2761,7 +2777,39 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-### CAPÍTULO III. DE LA FILIACIÓN
+### CAPÍTULO III BIS. DEL REGISTRO ESTATAL DE DEUDORES ALIMENTARIOS MOROSOS
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 426 BIS. En el Registro Estatal de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 415 de este Código. Dicho (sic) deberá contener la siguiente información:
+
+I. Nombre, apellidos y Clave Única del Registro de Población del deudor alimentario moroso;
+
+II. Nombre del acreedor o acreedores alimentarios;
+
+III. Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
+
+IV. Cantidad del adeudo alimentario a la fecha de su inscripción;
+
+V. Órgano jurisdiccional que ordena el registro; y
+
+VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 426 BIS 1. La constancia a que se refiere el artículo 145 de este Código contendrá lo siguiente:
+
+I. Nombre, apellidos y Clave Única de Registro de Población del deudor alimentario moroso;
+
+II. Número de acreedores alimentarios;
+
+III. Monto de la obligación adeudada al momento de su expedición;
+
+IV. Órgano jurisdiccional que ordenó el registro; y
+
+V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+La constancia a que hace referencia este artículo, deberá ser expedida en un plazo máximo de tres días hábiles contados a partir de la fecha de solicitud respectiva.
 
 ###### ARTÍCULO 395.
 
@@ -2871,6 +2919,18 @@ La obligación de dar alimentos no comprende la de proveer de capital a los hijo
 
 El incumplimiento injustificado de la obligación alimentaria, así como el disimulo, la ocultación de bienes o cualquier otra maniobra para eludirlo, se sancionará conforme a las prescripciones del Código Penal.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+Aquella persona que incumpla con la obligación alimentaria por un periodo de tres meses consecutivos o no, será calificado como deudor alimentario moroso, por lo que el Juez de lo Familiar ordenará al Registro Civil su inmediata inscripción en el Registro Estatal de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+La cancelación de la inscripción señalada en el párrafo anterior, únicamente será procedente si el deudor alimentario moroso acredita ante el Juez de lo Familiar que han sido cubiertos en su totalidad los adeudos que la motivaron.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+Ocurrido lo anterior, el Juez de lo Familiar ordenará al Registro Civil la cancelación de la inscripción a la que hace referencia el segundo párrafo de este artículo.
+
 ###### ARTÍCULO 416.
 
 Los patrones, administradores, gerentes de empresas, directores y jefes de oficinas y, en general todas aquellas personas que por razón de su cargo público o privado estén en condiciones de proporcionar informes a la autoridad judicial sobre la capacidad económica de los deudores alimentistas, están obligados a suministrar los datos que se les requieran y de no hacerlo en la forma y términos solicitados, incurrirán en una multa de veinte a cien días de salario mínimo general vigente en el Estado, que se duplicará en caso de reincidencia, sin perjuicio de la sanción penal en que pudieran incurrir.
@@ -2923,9 +2983,11 @@ Cesa la obligación de dar alimentos en caso de injuria, falta o daño grave inf
 
 En materia de alimentos, las resoluciones judiciales, provisionales o no, pueden modificarse cuando cambien las circunstancias de la situación de hecho que las determinaron.
 
-### CAPÍTULO I. REGLAS GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2012)</small>
 
-### CAPÍTULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD
+### CAPÍTULO III. DE LA FILIACIÓN
+
+### CAPÍTULO I. REGLAS GENERALES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3389,7 +3451,7 @@ DISPOSICIONES GENERALES
 
 La adopción confiere al adoptado la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación paterno-filial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
 
 ###### ARTÍCULO 493.
 
@@ -3557,7 +3619,7 @@ El juez que conozca del caso, antes de otorgar una adopción internacional y tom
 
 ## TÍTULO TERCERO. DE LA PATRIA POTESTAD
 
-### CAPÍTULO III. DE LOS MODOS DE ACABARSE Y SUSPENDERSE LA PATRIA POTESTAD
+### CAPÍTULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD
 
 ###### ARTÍCULO 512.
 
@@ -3617,7 +3679,7 @@ IV. Si el abuelo o abuela por una de las líneas es viudo o casado en segundas n
 
 V. Si la patria potestad se define por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LOS MODOS DE ACABARSE Y SUSPENDERSE LA PATRIA POTESTAD
 
 ###### ARTÍCULO 523.
 
@@ -3723,7 +3785,7 @@ Las medidas establecidas por las disposiciones anteriores se dictarán como lo d
 
 Las personas que ejercen patria potestad deben entregar a sus hijos, al llegar éstos a la mayoría de edad, o en su caso, al emanciparse, los bienes que les pertenecen y rendirles cuenta de su administración.
 
-### CAPÍTULO II. DE LA TUTELA TESTAMENTARIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 544.
 
@@ -3851,7 +3913,7 @@ II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a 
 
 ## TÍTULO CUARTO. DE LA TUTELA
 
-### CAPÍTULO III. DE LA TUTELA LEGÍTIMA DE LOS MENORES
+### CAPÍTULO II. DE LA TUTELA TESTAMENTARIA
 
 ###### ARTÍCULO 556.
 
@@ -3993,7 +4055,7 @@ El juez que discierna una tutela, el Ministerio Público y la Procuraduría de l
 
 Se concede acción pública para denunciar a las autoridades todo acto de mala conducta del tutor o de cualquiera otra persona, con relación al pupilo y a los bienes de éste.
 
-### CAPÍTULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES INCAPACITADOS
+### CAPÍTULO III. DE LA TUTELA LEGÍTIMA DE LOS MENORES
 
 ###### ARTÍCULO 585.
 
@@ -4055,7 +4117,7 @@ Las reglas, limitaciones y condiciones puestas por el testador para la administr
 
 Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
 
-### CAPÍTULO V. DE LA TUTELA DATIVA
+### CAPÍTULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES INCAPACITADOS
 
 ###### ARTÍCULO 600.
 
@@ -4115,7 +4177,7 @@ Para los efectos de este ordenamiento, se considera expósito a aquel menor cuyo
 
 El Estado, por conducto del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia, debe hacerse cargo de los menores expósitos o abandonados, cuando estos carezcan del tutor a que se refiere el artículo 603.
 
-### CAPÍTULO VI. DE LA TUTELA AUTODESIGNADA
+### CAPÍTULO V. DE LA TUTELA DATIVA
 
 ###### ARTÍCULO 606.
 
@@ -4145,7 +4207,7 @@ A falta de tutor testamentario y de persona que, con arreglo a los artículos an
 
 Debe el Estado encargarse del mayor incapaz que no tenga parientes y carezca de bienes.
 
-### CAPÍTULO VII. DE LOS IMPEDIMENTOS, REMOCIÓN Y EXCUSAS DE LA TUTELA
+### CAPÍTULO VI. DE LA TUTELA AUTODESIGNADA
 
 ###### ARTÍCULO 613.
 
@@ -4175,7 +4237,7 @@ VI. Si el juez no hace oportunamente el nombramiento de tutor, es responsable de
 
 Siempre será dativa la tutela para asuntos judiciales del menor emancipado.
 
-### CAPÍTULO VIII. DE LA GARANTÍA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPÍTULO VII. DE LOS IMPEDIMENTOS, REMOCIÓN Y EXCUSAS DE LA TUTELA
 
 ###### ARTÍCULO 616.
 
@@ -4189,7 +4251,7 @@ La designación de tutor debe hacerse ante notario y es revocable en cualquier t
 
 En lo que no se opongan son aplicables al tutor autodesignado las disposiciones de la tutela en general, salvo lo dispuesto expresamente por quien lo nombre.
 
-### CAPÍTULO IX. DEL DESEMPEÑO DE LA TUTELA
+### CAPÍTULO VIII. DE LA GARANTÍA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTÍCULO 617.
 
@@ -4309,7 +4371,7 @@ I. El tutor de cualquier clase que, sin excusa, o desechada la que hubiere propu
 
 II. La persona a quien corresponda la tutela legítima, si legalmente citada no se presenta al juez, manifestando su parentesco con el incapaz.
 
-### CAPÍTULO X. DE LAS CUENTAS DE LA TUTELA
+### CAPÍTULO IX. DEL DESEMPEÑO DE LA TUTELA
 
 ###### ARTÍCULO 630.
 
@@ -4391,7 +4453,7 @@ El Ministerio Público debe exigir que el tutor garantice el manejo de la tutela
 
 El juez y el Ministerio Público responden subsidiariamente con el tutor, de los daños y perjuicios que sufra el incapaz por no haber exigido que se caucione el manejo de la tutela, o por no haber exigido la información y la actualización de las garantías.
 
-### CAPÍTULO XI. DE LA EXTINCIÓN DE LA TUTELA
+### CAPÍTULO X. DE LAS CUENTAS DE LA TUTELA
 
 ###### ARTÍCULO 643.
 
@@ -4593,7 +4655,7 @@ Para que pueda hacerse, en la retribución de los tutores, el aumento extraordin
 
 El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiese recibido, si él o sus descendientes contraen matrimonio con el pupilo sin que hayan sido aprobadas las cuentas de la tutela.
 
-### CAPÍTULO XII. DE LA ENTREGA DE LOS BIENES
+### CAPÍTULO XI. DE LA EXTINCIÓN DE LA TUTELA
 
 ###### ARTÍCULO 687.
 
@@ -4655,7 +4717,7 @@ La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan si
 
 Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XII. DE LA ENTREGA DE LOS BIENES
 
 ###### ARTÍCULO 701.
 
@@ -4665,7 +4727,7 @@ I. Por la muerte del pupilo o porque desaparezca su incapacidad.
 
 II. Cuando el incapacitado sujeto a tutela entre a la patria potestad, por el reconocimiento o por adopción.
 
-### CAPÍTULO I. DE LOS TESTAMENTOS EN GENERAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 702.
 
@@ -4717,7 +4779,7 @@ Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar la
 
 ## TÍTULO QUINTO. DEL PATRIMONIO DE LA FAMILIA
 
-### CAPÍTULO II. DE LA CAPACIDAD PARA TESTAR
+### CAPÍTULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ###### ARTÍCULO 714.
 
@@ -5023,7 +5085,7 @@ En los supuestos de los dos artículos que preceden, son aplicables en lo conduc
 
 ## TÍTULO SEGUNDO. DE LA SUCESIÓN POR TESTAMENTO
 
-### CAPÍTULO III. DE LA CAPACIDAD PARA HEREDAR
+### CAPÍTULO II. DE LA CAPACIDAD PARA TESTAR
 
 ###### ARTÍCULO 770.
 
@@ -5077,7 +5139,7 @@ En caso de duda sobre la inteligencia o interpretación de una disposición test
 
 Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, el contenido del testamento y que en su otorgamiento se llenaron todas las formalidades legales.
 
-### CAPÍTULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
+### CAPÍTULO III. DE LA CAPACIDAD PARA HEREDAR
 
 ###### ARTÍCULO 780.
 
@@ -5117,7 +5179,7 @@ El resultado del reconocimiento se hará constar en acta formal y si éste fuere
 
 Firmarán el acta, además del notario y de los testigos, el juez, el secretario, el agente del Ministerio Público y los médicos, poniéndose al pie del testamento razón expresa de que durante todo el acto conservó el paciente lucidez de juicio. Sin este requisito y su constancia será nulo el testamento.
 
-### CAPÍTULO V. DE LA LIBRE TESTAMENTIFACCIÓN Y DE LOS TESTAMENTOS INOFICIOSOS
+### CAPÍTULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 
 ###### ARTÍCULO 788.
 
@@ -5289,7 +5351,7 @@ Si el que entró en posesión de la herencia y la pierde después por incapacida
 
 Lo dispuesto en el artículo anterior se aplicará también al heredero aparente, con respecto a los contratos que haya celebrado con tercero de buena fe.
 
-### CAPÍTULO VI. DE LA INSTITUCIÓN DE HEREDERO
+### CAPÍTULO V. DE LA LIBRE TESTAMENTIFACCIÓN Y DE LOS TESTAMENTOS INOFICIOSOS
 
 ###### ARTÍCULO 818.
 
@@ -5381,7 +5443,7 @@ Cuando el legado deba concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### CAPÍTULO VII. DE LOS LEGADOS
+### CAPÍTULO VI. DE LA INSTITUCIÓN DE HEREDERO
 
 ###### ARTÍCULO 839.
 
@@ -5439,7 +5501,7 @@ La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testa
 
 No obstante lo dispuesto en el artículo 845 el hijo póstumo y el hijo o hijos nacidos en vida del testador, pero después de que éste haya hecho su testamento, tendrán derecho a percibir íntegra la porción que les correspondería como herederos legítimos si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
-### CAPÍTULO VIII. DE LAS SUBSTITUCIONES TESTAMENTARIAS
+### CAPÍTULO VII. DE LOS LEGADOS
 
 ###### ARTÍCULO 848.
 
@@ -5493,7 +5555,7 @@ Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse 
 
 Será nula toda disposición en favor de persona incierta o sobre bien que no pueda identificarse, a menos que por algún evento puedan resultar ciertas.
 
-### CAPÍTULO IX. DE LA NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
+### CAPÍTULO VIII. DE LAS SUBSTITUCIONES TESTAMENTARIAS
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -5877,7 +5939,7 @@ En caso de compensación, si los valores fueren diferentes, el acreedor tendrá 
 
 Por medio de un legado puede el deudor mejorar la condición de su acreedor, haciendo puro el crédito condicional, hipotecario el simple, o exigible desde luego el que lo sea a plazo; pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IX. DE LA NULIDAD, REVOCACIÓN Y CADUCIDAD DE LOS TESTAMENTOS
 
 ###### ARTÍCULO 937.
 
@@ -5959,7 +6021,7 @@ La capitalización e imposición del capital se hará interviniendo la autoridad
 
 Las disposiciones del presente capítulo relativas a los herederos son aplicables a los legatarios.
 
-### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 #### SECCIÓN PRIMERA. DE LA NULIDAD
 
@@ -6049,7 +6111,7 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## TÍTULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
-### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
+### CAPÍTULO II. DEL TESTAMENTO PÚBLICO ABIERTO
 
 ###### ARTÍCULO 972.
 
@@ -6133,7 +6195,7 @@ En los casos en que se otorgue testamento, el Notario Público que dé fe de su 
 
 Lo dispuesto en el artículo anterior, se observará también por cualquiera que tenga en su poder un testamento.
 
-### CAPÍTULO IV. DEL TESTAMENTO PÚBLICO SIMPLIFICADO
+### CAPÍTULO III. DEL TESTAMENTO PÚBLICO CERRADO
 
 ###### ARTÍCULO 987.
 
@@ -6193,7 +6255,7 @@ El Notario hará constar en el instrumento que se observaron las formalidades pa
 
 Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios, sin menoscabo de lo establecido en la Ley del Notariado.
 
-### CAPÍTULO V. DEL TESTAMENTO PRIVADO
+### CAPÍTULO IV. DEL TESTAMENTO PÚBLICO SIMPLIFICADO
 
 ###### ARTÍCULO 999.
 
@@ -6313,7 +6375,7 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículo (sic) 985 y 986, o lo substraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-### CAPÍTULO VI. DEL TESTAMENTO MILITAR Y MARÍTIMO
+### CAPÍTULO V. DEL TESTAMENTO PRIVADO
 
 ###### ARTÍCULO 1025.
 
@@ -6355,7 +6417,7 @@ VII. El acta o actas en que consten las adjudicaciones servirán de título a lo
 
 VIII. La transmisión de los bienes del patrimonio familiar está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-### CAPÍTULO VII. DEL TESTAMENTO HECHO FUERA DEL ESTADO
+### CAPÍTULO VI. DEL TESTAMENTO MILITAR Y MARÍTIMO
 
 ###### ARTÍCULO 1027.
 
@@ -6437,13 +6499,13 @@ Si después de la muerte del testador y antes de elevarse a formal testamento la
 
 Lo dispuesto en el artículo anterior se observará también en el caso de que alguno o algunos de los testigos no se encuentren en el lugar de la información testimonial, siempre que en la falta de comparecencia del testigo no hubiere dolo, sin perjuicio de que, en su caso, se examinen por exhorto.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DEL TESTAMENTO HECHO FUERA DEL ESTADO
 
 ###### ARTÍCULO 1038.
 
 El testamento militar y el marítimo, otorgados conforme a las disposiciones del Código Civil para el Distrito Federal, producirán efectos en el Estado de Coahuila, respecto a las disposiciones testamentarias que deban ejecutarse en éste.
 
-### CAPÍTULO II. DE LA SUSTITUCIÓN LEGÍTIMA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1039.
 
@@ -6451,7 +6513,7 @@ Los testamentos otorgados en la República Mexicana, pero no en el Estado de Coa
 
 ## TÍTULO CUARTO. DE LA SUCESIÓN LEGÍTIMA
 
-### CAPÍTULO III. DE LA SUCESIÓN DE LOS DESCENDIENTES
+### CAPÍTULO II. DE LA SUSTITUCIÓN LEGÍTIMA
 
 ###### ARTÍCULO 1040.
 
@@ -6511,7 +6573,7 @@ Si hubiere varios parientes en un mismo grado, y alguno o algunos no quisieren o
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título Segundo, Libro Segundo.
 
-### CAPÍTULO IV. DE LA SUCESIÓN DE LOS ASCENDIENTES
+### CAPÍTULO III. DE LA SUCESIÓN DE LOS DESCENDIENTES
 
 ###### ARTÍCULO 1049.
 
@@ -6551,9 +6613,7 @@ Los hijos y descendientes del incapaz de heredar o del que repudió la herencia,
 
 Salvo lo dispuesto en este artículo, no existe derecho de sustitución entre personas vivas.
 
-### CAPÍTULO V. DE LA SUCESIÓN DEL CONYUGE
-
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
+### CAPÍTULO IV. DE LA SUCESIÓN DE LOS ASCENDIENTES
 
 ###### ARTÍCULO 1058.
 
@@ -6587,7 +6647,9 @@ El adoptado hereda como un hijo, pero en la adopción semiplena no hay derecho d
 
 Concurriendo padres adoptantes y descendientes del adoptado en forma semiplena, los primeros sólo tendrán derecho a alimentos.
 
-### CAPÍTULO VI. DE LA SUCESION DE LOS COLATERALES
+### CAPÍTULO V. DE LA SUCESIÓN DEL CONYUGE
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 1066.
 
@@ -6625,7 +6687,7 @@ Si el reconocimiento de un hijo se hace después de que el descendiente haya adq
 
 Las mismas reglas se aplicarán cuando la filiación se establezca mediante sentencia pronunciada en investigación de la paternidad o la maternidad.
 
-### CAPÍTULO VII. DE LA SUCESIÓN DE LA ASISTENCIA PÚBLICA DEL ESTADO
+### CAPÍTULO VI. DE LA SUCESION DE LOS COLATERALES
 
 ###### ARTÍCULO 1075.
 
@@ -6649,7 +6711,7 @@ Si el cónyuge o compañero civil que sobrevive concurre con ascendientes la her
 
 A falta de hijos y de ascendientes el cónyuge o compañero civil sucede en todos los bienes, con exclusión de los demás parientes del autor de la herencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2007)</small>
 
 ###### ARTÍCULO 1079.
 
@@ -6657,7 +6719,7 @@ Quien haya vivido con el autor de la herencia públicamente como cónyuge, sin e
 
 Si varias personas se encuentran en el supuesto previsto en el párrafo que antecede, ninguna de ellas tendrá derecho a heredar.
 
-### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
+### CAPÍTULO VII. DE LA SUCESIÓN DE LA ASISTENCIA PÚBLICA DEL ESTADO
 
 ###### ARTÍCULO 1080.
 
@@ -6677,7 +6739,7 @@ A falta de hermanos, sucederán los hijos de éstos, dividiéndose la herencia p
 
 A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del cuarto grado, sin distinción de líneas, ni consideración al doble vínculo y heredarán por partes iguales.
 
-### CAPÍTULO II. DEL DERECHO DE ACRECER
+### CAPÍTULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
 ###### ARTÍCULO 1084.
 
@@ -6685,7 +6747,7 @@ A falta de todos los herederos llamados en los capítulos anteriores heredarán 
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGÍTIMA
 
-### CAPÍTULO III. DE LA TRANSMISIÓN HEREDITARIA DE DERECHOS NO ECONÓMICOS
+### CAPÍTULO II. DEL DERECHO DE ACRECER
 
 ###### ARTÍCULO 1085.
 
@@ -6731,7 +6793,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 Lo dispuesto en esta sección es aplicable a la mujer que al morir el autor de la herencia viviese con éste en la situación prevista por el artículo 1079 de este código.
 
-### CAPÍTULO IV. DE LA APERTURA Y DE LA RECLAMACIÓN DE LA HERENCIA
+### CAPÍTULO III. DE LA TRANSMISIÓN HEREDITARIA DE DERECHOS NO ECONÓMICOS
 
 ###### ARTÍCULO 1096.
 
@@ -6777,7 +6839,7 @@ El testador puede prohibir o modificar como quiera el derecho de acrecer.
 
 En las herencias ab intestato si hubiere varios parientes en un mismo grado, y alguno o algunos no quisieren o no pudieren heredar, su parte acrecerá la de los otros del mismo grado, si es que no tiene descendientes, pues teniéndolos, éstos heredarán por estirpe.
 
-### CAPÍTULO V. DE LA ACEPTACIÓN Y DE LA REPUDIACIÓN DE LA HERENCIA
+### CAPÍTULO IV. DE LA APERTURA Y DE LA RECLAMACIÓN DE LA HERENCIA
 
 ###### ARTÍCULO 1106.
 
@@ -6803,7 +6865,7 @@ IV. Los sepulcros no pueden ser divididos entre herederos o legatarios.
 
 Las acciones del estado civil son transmisibles por herencia a los herederos por intestado, en los casos expresamente señalados por la ley.
 
-### CAPÍTULO VI. DE LOS ALBACEAS Y LOS INTERVENTORES
+### CAPÍTULO V. DE LA ACEPTACIÓN Y DE LA REPUDIACIÓN DE LA HERENCIA
 
 ###### ARTÍCULO 1110.
 
@@ -6841,7 +6903,7 @@ La acción de petición de herencia prescribe en diez años a partir de la apert
 
 Es imprescriptible la acción para denunciar una sucesión.
 
-### CAPÍTULO VII. DEL INVENTARIO Y DE LA LIQUIDACIÓN DE LA HERENCIA
+### CAPÍTULO VI. DE LOS ALBACEAS Y LOS INTERVENTORES
 
 ###### ARTÍCULO 1117.
 
@@ -6973,7 +7035,7 @@ La aceptación en ningún caso produce confusión de los bienes del autor de la 
 
 Toda herencia se tiene por aceptada a beneficio de inventario, aunque no se exprese así.
 
-### CAPÍTULO VIII. DE LA PARTICIÓN
+### CAPÍTULO VII. DEL INVENTARIO Y DE LA LIQUIDACIÓN DE LA HERENCIA
 
 #### SECCIÓN PRIMERA. DE LOS ALBACEAS
 
@@ -7361,7 +7423,7 @@ Termina también el cargo de interventor en los casos de las fracciones I a IV y
 
 Los interventores tendrán la retribución que acuerden los herederos que los nombren, y si los nombra el juez, cobrarán conforme al arancel, como si fueran apoderados.
 
-### CAPÍTULO IX. DE LOS EFECTOS DE LA PARTICIÓN
+### CAPÍTULO VIII. DE LA PARTICIÓN
 
 ###### ARTÍCULO 1222.
 
@@ -7435,7 +7497,7 @@ La venta de bienes hereditarios para el pago de deudas y legados se hará en pú
 
 La mayoría de los interesados, o la autorización judicial en su caso, determinará la aplicación que haya de darse al precio de los bienes vendidos.
 
-### CAPÍTULO X. DE LA RESCISION Y DE LA NULIDAD DE LAS PARTICIONES
+### CAPÍTULO IX. DE LOS EFECTOS DE LA PARTICIÓN
 
 ###### ARTÍCULO 1240.
 
@@ -7509,7 +7571,7 @@ Los gastos de la partición se rebajarán del fondo común; los que se hagan por
 
 Las reglas dadas para la partición de la herencia principal, se observarán también en la que se haga entre los que sucedan por substitución testamentaria o legítima.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO X. DE LA RESCISION Y DE LA NULIDAD DE LAS PARTICIONES
 
 ###### ARTÍCULO 1258.
 
@@ -7565,7 +7627,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 El heredero cuyos bienes hereditarios fueren embargados por créditos a cargo de la sucesión, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles, y en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
-### CAPÍTULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### ARTÍCULO 1269.
 
@@ -7617,7 +7679,7 @@ El número de derechos reales es limitativo, consecuentemente no pueden existir 
 
 ## TÍTULO SEGUNDO. DE LAS DIFERENTES CLASES DE BIENES
 
-### CAPÍTULO III. DE LOS BIENES FUNGIBLES Y NO FUNGIBLES, CONSUMIBLES Y NO CONSUMIBLES
+### CAPÍTULO II. DE LOS BIENES INMUEBLES
 
 ###### ARTÍCULO 1280.
 
@@ -7647,7 +7709,7 @@ Cuando se use de las palabras muebles o bienes muebles de una casa, se comprende
 
 Cuando por la redacción de un testamento o de otro negocio jurídico, se descubra que el testador o las partes contratantes han dado a las palabras muebles o bienes muebles una significación diversa de la fijada en el artículo anterior, se estará a lo dispuesto en el testamento o negocio.
 
-### CAPÍTULO IV. DE LOS BIENES DIVISIBLES E INDIVISIBLES TANGIBLES E INTANGIBLES
+### CAPÍTULO III. DE LOS BIENES FUNGIBLES Y NO FUNGIBLES, CONSUMIBLES Y NO CONSUMIBLES
 
 ###### ARTÍCULO 1286.
 
@@ -7663,7 +7725,7 @@ III. Las aguas, mientras no sean separadas de las fuentes naturales, pozos, aceq
 
 Son bienes inmuebles por disposición de la ley los derechos reales sobre inmuebles.
 
-### CAPÍTULO V. DE LOS BIENES PRINCIPALES Y DE LOS BIENES ACCESORIOS O PERTENENCIAS
+### CAPÍTULO IV. DE LOS BIENES DIVISIBLES E INDIVISIBLES TANGIBLES E INTANGIBLES
 
 ###### ARTÍCULO 1288.
 
@@ -7673,7 +7735,7 @@ Son fungibles los bienes que pueden ser reemplazados por otros de la misma espec
 
 Los bienes pueden ser consumibles o no consumibles según que se agoten o no por el primer uso. La consumibilidad de los bienes puede ser material o jurídica. Esta última existe cuando subsistiendo físicamente el bien, se ha agotado el destino o la finalidad establecidos por la ley.
 
-### CAPÍTULO VI. DE LOS BIENES CONSIDERADOS SEGUN LAS PERSONAS A QUIENES PERTENECEN
+### CAPÍTULO V. DE LOS BIENES PRINCIPALES Y DE LOS BIENES ACCESORIOS O PERTENENCIAS
 
 ###### ARTÍCULO 1290.
 
@@ -7689,7 +7751,7 @@ Son bienes tangibles los que se pueden tocar, pesar o medir.
 
 Son bienes intangibles los que no se pueden tocar, pesar o medir.
 
-### CAPÍTULO VII. DE LOS BIENES MOSTRENCOS
+### CAPÍTULO VI. DE LOS BIENES CONSIDERADOS SEGUN LAS PERSONAS A QUIENES PERTENECEN
 
 ###### ARTÍCULO 1293.
 
@@ -7757,7 +7819,7 @@ I. No podrá embargarse un bien accesorio o pertenencia, individualmente conside
 
 II. En el embargo del bien principal, o de la industria, comercio o explotación a que estuvieren destinados bienes accesorios o pertenencias quedarán comprendidos éstos.
 
-### CAPÍTULO VIII. DE LOS BIENES VACANTES
+### CAPÍTULO VII. DE LOS BIENES MOSTRENCOS
 
 ###### ARTÍCULO 1302.
 
@@ -7775,7 +7837,7 @@ Los bienes del dominio del poder público se regirán en el Estado de Coahuila, 
 
 Son propiedad de los particulares todos los bienes cuyo dominio les pertenece legalmente y de los que no puede aprovecharse nadie sin consentimiento del dueño o autorización de la ley.
 
-### CAPÍTULO I. DE LA PROPIEDAD
+### CAPÍTULO VIII. DE LOS BIENES VACANTES
 
 ###### ARTÍCULO 1306.
 
@@ -7821,7 +7883,7 @@ La venta se hará siempre en almoneda pública.
 
 El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 1307, pagará una multa por el importe de diez a cien días de salario mínimo general vigente en el Estado, y será responsable de los daños y perjuicios que ocasione.
 
-### CAPÍTULO II. DEL USUFRUCTO
+### CAPÍTULO I. DE LA PROPIEDAD
 
 ###### ARTÍCULO 1317.
 
@@ -7845,7 +7907,7 @@ El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo,
 
 ## TÍTULO TERCERO. DE LAS DIFERENTES CLASES DE DERECHOS REALES
 
-### CAPÍTULO III. DEL USO Y DE LA HABITACIÓN
+### CAPÍTULO II. DEL USUFRUCTO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -8781,7 +8843,7 @@ El preterido que recobre el bien, lo recibirá libre de toda carga o hipoteca im
 
 No procederá el retracto si el preterido hubiere confirmado la enajenación, ya en forma expresa o tácita. La acción de retracto prescribe a los tres años siguientes a la inscripción de la enajenación en el Registro Público; y en su defecto, desde que el retrayente hubiere tenido conocimiento de la enajenación.
 
-### CAPÍTULO IV. DE LAS SERVIDUMBRES
+### CAPÍTULO III. DEL USO Y DE LA HABITACIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -9163,7 +9225,7 @@ El usufructo no se extingue por el mal uso que haga el usufructuario del bien us
 
 Si el nudo propietario no da la garantía en el caso del artículo anterior, ni cumple con las obligaciones que le impone el cargo de administrador, el bien se pondrá en intervención.
 
-### CAPÍTULO V. DEL DERECHO DE SUPERFICIE
+### CAPÍTULO IV. DE LAS SERVIDUMBRES
 
 ###### ARTÍCULO 1582.
 
@@ -9205,7 +9267,7 @@ Son aplicables en lo conducente a los derechos de uso y de habitación las dispo
 
 Los derechos de uso y habitación se extinguen por las mismas causas que el usufructo, y además por abuso grave de la cosa y de la habitación.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL DERECHO DE SUPERFICIE
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -9581,7 +9643,7 @@ Si el predio dominante pertenece a varios dueños pro indiviso, el uso que haga 
 
 Si entre los propietarios hubiere alguno contra quien no pueda correr la prescripción, ésta no correrá contra los demás.
 
-### CAPÍTULO II. DE LA TUTELA DE LA POSESIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1670.
 
@@ -9655,7 +9717,7 @@ Declarada la nulidad del negocio jurídico que dio origen al derecho de superfic
 
 ## TÍTULO CUARTO. DE LA POSESIÓN
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA TUTELA DE LA POSESIÓN
 
 ###### ARTÍCULO 1680.
 
@@ -9953,7 +10015,7 @@ VII. Por expropiación por causa de utilidad pública.
 
 Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
-### CAPÍTULO II. DE LA SUSPENSIÓN DE LA USUCAPIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -10113,7 +10175,7 @@ II. El que con fundamento legal, y no de hecho, se cree bastante para transferir
 
 ## TÍTULO QUINTO. DE LA USUCAPIÓN
 
-### CAPÍTULO III. DE LA INTERRUPCIÓN DE LA USUCAPIÓN
+### CAPÍTULO II. DE LA SUSPENSIÓN DE LA USUCAPIÓN
 
 ###### ARTÍCULO 1765.
 
@@ -10201,7 +10263,7 @@ Si la posesión se adquirió con violencia, sólo comenzará la posesión útil 
 
 El plazo para la usucapión se contará de conformidad con lo dispuesto por el artículo 2094.
 
-### CAPÍTULO IV. DE LA CONSUMACIÓN FORMAL DE LA USUCAPIÓN
+### CAPÍTULO III. DE LA INTERRUPCIÓN DE LA USUCAPIÓN
 
 ###### ARTÍCULO 1781.
 
@@ -10229,7 +10291,7 @@ VII. Contra los menores y demás incapaces mientras no tengan representante lega
 
 Los incapaces tendrán derecho de exigir responsabilidad a sus representantes legales, cuando por culpa de éstos no se hubiera interrumpido la usucapión. El plazo para hacer valer este derecho es de un año a partir de que salgan de la patria potestad o de la tutela.
 
-### CAPÍTULO I. DE LA ACCIÓN REIVINDICATORIA
+### CAPÍTULO IV. DE LA CONSUMACIÓN FORMAL DE LA USUCAPIÓN
 
 ###### ARTÍCULO 1784.
 
@@ -10245,7 +10307,7 @@ III. Porque la persona a cuyo favor corre la usucapión reconozca expresamente, 
 
 El efecto de la interrupción es inutilizar, para la usucapión, todo el tiempo corrido antes de ella.
 
-### CAPÍTULO II. DE LAS ACCIONES CONFESORIA Y NEGATORIA
+### CAPÍTULO I. DE LA ACCIÓN REIVINDICATORIA
 
 #### SECCIÓN PRIMERA. DE LA INFORMACIÓN POSESORIA
 
@@ -10309,7 +10371,7 @@ La sentencia ejecutoria que declare procedente la acción a que se refiere el ar
 
 ## TÍTULO SEXTO. DE LA TUTELA DE LOS DERECHOS REALES
 
-### CAPÍTULO I. DE LA GESTIÓN DE LOS NEGOCIOS AJENOS
+### CAPÍTULO II. DE LAS ACCIONES CONFESORIA Y NEGATORIA
 
 ###### ARTÍCULO 1793.
 
@@ -10335,7 +10397,7 @@ No pueden reivindicarse los bienes que están fuera del comercio; los géneros n
 
 El propietario que goce de acción personal en contra del poseedor no podrá ejercitar en su contra esta acción.
 
-### CAPÍTULO II. DEL ENRIQUECIMIENTO SIN CAUSA
+### CAPÍTULO I. DE LA GESTIÓN DE LOS NEGOCIOS AJENOS
 
 ###### ARTÍCULO 1799.
 
@@ -10401,7 +10463,7 @@ La ley, por su simple ministerio, tampoco podrá producir consecuencias de derec
 
 ## TÍTULO SEGUNDO. DE LOS ACTOS JURÍDICOS NOMINADOS QUE GENERAN OBLIGACIONES
 
-### CAPÍTULO III. DEL PAGO DE LO INDEBIDO
+### CAPÍTULO II. DEL ENRIQUECIMIENTO SIN CAUSA
 
 ###### ARTÍCULO 1811.
 
@@ -10465,7 +10527,7 @@ La ratificación pura y simple del dueño del negocio, produce todos los efectos
 
 Las acciones derivadas de la gestión de negocios prescriben en un año, contado a partir del día que tuvo conocimiento de ella el dueño del negocio o su representante legítimo; pero prescriben en dos años, contados desde el día en que termine la gestión, si antes no tuvieron conocimiento de ella el dueño del negocio o, en su caso, el representante legítimo de éste.
 
-### CAPÍTULO IV. DE LOS ILÍCITOS CIVILES
+### CAPÍTULO III. DEL PAGO DE LO INDEBIDO
 
 ###### ARTÍCULO 1824.
 
@@ -10509,7 +10571,7 @@ Cuando por actos de una o varias personas se beneficiaren otra u otras, por aume
 
 La acción de enriquecimiento sin causa tiene carácter subsidiario y en consecuencia, no procederá si la persona empobrecida tiene alguna otra acción que le permita obtener la satisfacción de sus derechos.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO IV. DE LOS ILÍCITOS CIVILES
 
 ###### ARTÍCULO 1831.
 
@@ -10597,7 +10659,7 @@ Lo que se hubiere entregado para la realización de un fin que sea ilícito, no 
 
 El que ha pagado para cumplir una deuda prescrita, un deber moral o cualquiera otra obligación natural, no tiene derecho de repetir.
 
-### CAPÍTULO II. DE LOS ELEMENTOS ESENCIALES DEL NEGOCIO JURÍDICO
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 #### SECCIÓN SEGUNDA. DE LA RESPONSABILIDAD POR HECHOS AJENOS
 
@@ -10875,7 +10937,7 @@ La acción para exigir la responsabilidad civil, prescribe en un año contado a 
 
 ## TÍTULO TERCERO. DE LOS NEGOCIOS JURÍDICOS
 
-### CAPÍTULO III. DE LOS ELEMENTOS DE VALIDEZ DEL NEGOCIO JURÍDICO
+### CAPÍTULO II. DE LOS ELEMENTOS ESENCIALES DEL NEGOCIO JURÍDICO
 
 ###### ARTÍCULO 1899.
 
@@ -10959,7 +11021,7 @@ La validez y el cumplimiento de los negocios jurídicos no pueden dejarse al arb
 
 Los negocios jurídicos que no estén especialmente reglamentados en este código, se regirán por las reglas generales de aquéllos, por las estipulaciones de sus autores o de las partes en su caso, y, en lo que la ley, las partes o los autores fueren omisos, por las disposiciones del negocio jurídico con el que tengan más analogía, de los reglamentados en este ordenamiento.
 
-### CAPÍTULO IV. DE LA CLASIFICACIÓN DE LOS NEGOCIOS JURÍDICOS
+### CAPÍTULO III. DE LOS ELEMENTOS DE VALIDEZ DEL NEGOCIO JURÍDICO
 
 #### SECCIÓN SEGUNDA. DEL OBJETO DE LOS NEGOCIOS JURÍDICOS
 
@@ -11129,7 +11191,7 @@ Los efectos jurídicos deseados por los interesados en materia del estado civil 
 
 Fuera del caso señalado en el artículo anterior, la falta de solemnidad sólo afecta al negocio jurídico en los casos en que la ley lo establezca expresamente, los cuales no podrán aplicarse por analogía, ni por mayoría de razón.
 
-### CAPÍTULO V. DE LOS NEGOCIOS JURÍDICOS UNILATERALES
+### CAPÍTULO IV. DE LA CLASIFICACIÓN DE LOS NEGOCIOS JURÍDICOS
 
 #### SECCIÓN SEGUNDA. DE LOS VICIOS DE LA VOLUNTAD
 
@@ -11299,7 +11361,7 @@ Si alguna de las personas que deben firmar el documento no puede o no sabe firma
 
 Siempre que por requerirlo la ley o por voluntad de los interesados, un documento privado sea ratificado ante notario, juez o autoridad administrativa, éstos, en sus respectivos casos, deben cerciorarse de la identidad de las partes, de su capacidad y de la autenticidad de las firmas y de las huellas digitales; además, los interesados deberán firmar la ratificación o hacerlo otra persona a su ruego e imprimir su huella digital.
 
-### CAPÍTULO VI. DE LAS ESTIPULACIONES Y CLAUSULAS QUE PUEDEN ESTABLECERSE EN LOS NEGOCIOS JURÍDICOS
+### CAPÍTULO V. DE LOS NEGOCIOS JURÍDICOS UNILATERALES
 
 ###### ARTÍCULO 1982.
 
@@ -11359,7 +11421,7 @@ Es aleatorio el contrato cuando la prestación debida depende de un acontecimien
 
 Es principal el contrato cuando no depende de otro para poder subsistir y accesorio cuando le es necesaria tal dependencia.
 
-### CAPÍTULO VII. DE LOS NEGOCIOS JURÍDICOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
+### CAPÍTULO VI. DE LAS ESTIPULACIONES Y CLAUSULAS QUE PUEDEN ESTABLECERSE EN LOS NEGOCIOS JURÍDICOS
 
 #### SECCIÓN SEGUNDA. DE LA OFERTA A PERSONAS INDETERMINADAS
 
@@ -11607,7 +11669,7 @@ Habrá error en la persona del acreedor, cuando al declararse deudor el promiten
 
 Existirá error en la persona del deudor, cuando el promitente, al declararse obligado en favor de otro, lo haga en atención a una deuda, que creía era a su cargo y que realmente no debía.
 
-### CAPÍTULO VIII. DE LA SIMULACIÓN DE LOS NEGOCIOS JURÍDICOS
+### CAPÍTULO VII. DE LOS NEGOCIOS JURÍDICOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
 
 ###### ARTÍCULO 2046.
 
@@ -11675,7 +11737,7 @@ Si quien entregó las arras dio por terminado el contrato perderá éstas en ben
 
 En el caso del artículo anterior no habrá responsabilidad por daños y perjuicios.
 
-### CAPÍTULO IX. DE LAS MODALIDADES DE LOS NEGOCIOS JURÍDICOS
+### CAPÍTULO VIII. DE LA SIMULACIÓN DE LOS NEGOCIOS JURÍDICOS
 
 ###### ARTÍCULO 2061.
 
@@ -11757,7 +11819,7 @@ Se presumen fraudulentas las enajenaciones a TÍTULO oneroso hechas por aquellas
 
 Se presumen también fraudulentas las enajenaciones hechas entre parientes, entre consortes, o entre adoptante y adoptado. Así mismo, las que se ejecuten dentro del plazo de treinta días anteriores a la declaración judicial de la quiebra o del concurso del deudor, o aquéllas en las que se establezca un precio inferior a la mitad del justo valor o estimación de la cosa o derecho.
 
-### CAPÍTULO X. DE LA RESCISIÓN O RESOLUCIÓN DE LOS NEGOCIOS JURÍDICOS
+### CAPÍTULO IX. DE LAS MODALIDADES DE LOS NEGOCIOS JURÍDICOS
 
 ###### ARTÍCULO 2081.
 
@@ -11803,7 +11865,7 @@ Cuando la simulación se cometa en transgresión de una ley de interés social o
 
 Se puede declarar la inexistencia o la nulidad de una o más cláusulas simuladas de un negocio jurídico y dejar subsistentes las que no lo sean.
 
-### CAPÍTULO XI. DE LA INEXISTENCIA, LA INVALIDEZ, LA CONVALIDACIÓN, LA CONVERSIÓN Y LA CONSERVACIÓN DE LOS NEGOCIOS JURÍDICOS
+### CAPÍTULO X. DE LA RESCISIÓN O RESOLUCIÓN DE LOS NEGOCIOS JURÍDICOS
 
 #### SECCIÓN SEGUNDA. DE LA CONDICIÓN
 
@@ -11977,7 +12039,7 @@ El incumplimiento de la obligación modal da derecho a quien la impuso, y en su 
 
 Todo interesado puede exigir el cumplimiento de la carga y también puede exigirlo el Ministerio Público si el modo entraña un interés social.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES DE DAR O DE PRESTACION DE BIENES
+### CAPÍTULO XI. DE LA INEXISTENCIA, LA INVALIDEZ, LA CONVALIDACIÓN, LA CONVERSIÓN Y LA CONSERVACIÓN DE LOS NEGOCIOS JURÍDICOS
 
 #### SECCIÓN SEGUNDA. DE LA IMPOSIBILIDAD SOBREVENIDA
 
@@ -12135,7 +12197,7 @@ Cuando la excesiva onerosidad por los acontecimientos extraordinarios a que se a
 
 No son aplicables las disposiciones de esta sección a los contratos aleatorios, en que la sobrevenida onerosidad excesiva quede comprendida en la incertidumbre normal de los mismos.
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DE HACER Y DE NO HACER
+### CAPÍTULO I. DE LAS OBLIGACIONES DE DAR O DE PRESTACION DE BIENES
 
 #### SECCIÓN SEGUNDA. DE LAS NULIDADES
 
@@ -12397,7 +12459,7 @@ Las obligaciones personales, civiles o naturales a que se contraen los artículo
 
 ## TÍTULO SEGUNDO. DE LAS DIFERENTES ESPECIES DE OBLIGACIONES
 
-### CAPÍTULO I. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
+### CAPÍTULO II. DE LAS OBLIGACIONES DE HACER Y DE NO HACER
 
 #### SECCIÓN SEGUNDA. DE COMO SE TRASLADA LA PROPIEDAD DE LOS BIENES
 
@@ -12581,7 +12643,7 @@ Cuando la obligación se contraiga bajo condición suspensiva y, pendiente ésta
 
 En el supuesto de que el caso fortuito o la fuerza mayor no produzcan la pérdida o perecimiento del bien, sino sólo su deterioro, el acreedor está obligado a recibir el bien en el estado en que se encuentre al realizarse la condición, en el precio que se fije mediante juicio de peritos.
 
-### CAPÍTULO II. DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
+### CAPÍTULO I. DEL CUMPLIMIENTO DE LAS OBLIGACIONES
 
 ###### ARTÍCULO 2238.
 
@@ -12595,7 +12657,7 @@ El que estuviera obligado a no hacer algo, quedará sujeto al pago de daños y p
 
 ## TÍTULO TERCERO. DE LOS EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES
 
-### CAPÍTULO I. DE LAS INSTITUCIONES PROTECTORAS DEL ACREEDOR CONTRA ACTOS Y OMISIONES DEL DEUDOR TENDIENTES AL INCUMPLIMIENTO
+### CAPÍTULO II. DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
 
 #### SECCIÓN SEGUNDA. DE LA IMPUTACIÓN DEL PAGO
 
@@ -12839,7 +12901,7 @@ En el caso del artículo anterior subsiste la obligación y la pérdida o deteri
 
 Cuando se siga un juicio de rescisión de contrato por falta de pago de prestaciones periódicas y el demandado se excepcione con base en las consignaciones que de las mismas ha hecho, no será necesario que la resolución relativa a la procedencia o improcedencia de dichas consignaciones, o sobre si es o no fundada la oposición que en su caso llegará a hacerse valer, se pronuncie en el juicio especial que a tales consignaciones corresponda, sino en la misma sentencia que estudie el negocio en su conjunto y ponga fin al juicio de rescisión.
 
-### CAPÍTULO II. DE LA ACCIÓN OBLÍCUA
+### CAPÍTULO I. DE LAS INSTITUCIONES PROTECTORAS DEL ACREEDOR CONTRA ACTOS Y OMISIONES DEL DEUDOR TENDIENTES AL INCUMPLIMIENTO
 
 #### SECCIÓN SEGUNDA. DEL SANEAMIENTO POR CAUSA DE EVICCIÓN Y POR LOS VICIOS OCULTOS
 
@@ -13169,13 +13231,13 @@ En las enajenaciones hechas en remate judicial, el demandado a quien se remata u
 
 ## TÍTULO CUARTO. DE LOS EFECTOS DE LAS OBLIGACIONES CON RELACIÓN A TERCERO
 
-### CAPÍTULO III. DEL DERECHO DE RETENCIÓN
+### CAPÍTULO II. DE LA ACCIÓN OBLÍCUA
 
 ###### ARTÍCULO 2360.
 
 El acreedor dispone de la acción pauliana y de la acción de simulación para privar de eficacia los actos del deudor que lo dejan o lo aparentan dejar insolvente. Igualmente dispone de la acción oblicua para anular la conducta omisiva del deudor tendiente a impedir que ingresen a su haber patrimonial bienes que legítimamente le pertenecen; asimismo dispone del derecho de retención. El acreedor dispondrá de las acciones pauliana y de simulación en los términos de los Capítulos VII y VIII del Título Tercero del Libro Quinto; y de la acción oblicua y del derecho de retención en los términos de los Capítulos II y III del presente Título.
 
-### CAPÍTULO I. DE LA CESIÓN DE DERECHOS
+### CAPÍTULO III. DEL DERECHO DE RETENCIÓN
 
 ###### ARTÍCULO 2361.
 
@@ -13225,7 +13287,7 @@ I. Promover, por su deudor, la expedición de un ulterior título ejecutivo para
 
 II. Interpelar a la persona a quien pretende demandar, para interrumpir la prescripción.
 
-### CAPÍTULO II. DE LA SUBROGACIÓN
+### CAPÍTULO I. DE LA CESIÓN DE DERECHOS
 
 ###### ARTÍCULO 2369.
 
@@ -13329,7 +13391,7 @@ Son aplicables, en lo conducente, a las obligaciones sujetas a término, a condi
 
 ## TÍTULO SEXTO. DE LA TRANSMISIÓN DE LAS OBLIGACIONES
 
-### CAPÍTULO III. DE LA CESIÓN DE DEUDAS
+### CAPÍTULO II. DE LA SUBROGACIÓN
 
 #### SECCIÓN SEGUNDA. DE LA CESIÓN DE DERECHOS HEREDITARIOS
 
@@ -13549,7 +13611,7 @@ En los remates de inmuebles, éstos pasarán al adquirente libres de todo gravam
 
 El juez o la autoridad administrativa, mandará hacer la cancelación de los gravámenes a que se refiere el artículo anterior, aplicando lo que disponga al respecto el Código Procesal Civil o la ley administrativa correspondiente.
 
-### CAPÍTULO IV. DE LA CESIÓN DE LA POSICIÓN CONTRACTUAL
+### CAPÍTULO III. DE LA CESIÓN DE DEUDAS
 
 #### SECCIÓN SEGUNDA. DE LA SUBROGACIÓN REAL
 
@@ -13635,7 +13697,7 @@ En el caso de la fracción II del artículo 2442, el titular del derecho real te
 
 En los casos de la fracción III del artículo 2442, el titular o titulares del bien enajenado tienen derecho, a que el nuevo bien ocupe el lugar que tenía en el patrimonio de ellos, y se destine a realizar el mismo fin del anterior.
 
-### CAPÍTULO I. DE LA COMPENSACIÓN
+### CAPÍTULO IV. DE LA CESIÓN DE LA POSICIÓN CONTRACTUAL
 
 ###### ARTÍCULO 2446.
 
@@ -13665,7 +13727,7 @@ El deudor substituto puede oponer al acreedor las excepciones que se originen de
 
 Cuando se declara nula la substitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fe.
 
-### CAPÍTULO II. DE LA CONFUSIÓN DE DERECHOS
+### CAPÍTULO I. DE LA COMPENSACIÓN
 
 ###### ARTÍCULO 2453.
 
@@ -13699,7 +13761,7 @@ Si el cedente asumiese la garantía del cumplimiento del contrato, responderá c
 
 ## TÍTULO SÉPTIMO. DE LA EXTINCIÓN DE LAS OBLIGACIONES
 
-### CAPÍTULO III. DE LA REMISIÓN DE LA DEUDA
+### CAPÍTULO II. DE LA CONFUSIÓN DE DERECHOS
 
 ###### ARTÍCULO 2458.
 
@@ -13793,7 +13855,7 @@ Las deudas pagaderas en diferente lugar, pueden compensarse mediante indemnizaci
 
 La compensación no puede realizarse en perjuicio de derechos legítimamente adquiridos por otra persona.
 
-### CAPÍTULO IV. DE LA NOVACIÓN
+### CAPÍTULO III. DE LA REMISIÓN DE LA DEUDA
 
 ###### ARTÍCULO 2476.
 
@@ -13847,7 +13909,7 @@ Si un legatario fue deudor del autor de la sucesión, su obligación subsistirá
 
 No obstante lo dispuesto en el artículo anterior, la obligación del legatario en favor del de cujus, se extinguirá por confusión, si recibe en calidad de legado el crédito existente contra él.
 
-### CAPÍTULO V. DE LA IMPOSIBILIDAD DE CUMPLIMIENTO SOBREVENIDA POR CAUSA NO IMPUTABLE AL DEUDOR
+### CAPÍTULO IV. DE LA NOVACIÓN
 
 ###### ARTÍCULO 2487.
 
@@ -13873,7 +13935,7 @@ La devolución de la prenda no extingue el derecho principal si así se manifies
 
 Son aplicables a la remisión de la deuda, las causas de revocación de la donación por ingratitud.
 
-### CAPÍTULO VI. DE LA PRESCRIPCIÓN
+### CAPÍTULO V. DE LA IMPOSIBILIDAD DE CUMPLIMIENTO SOBREVENIDA POR CAUSA NO IMPUTABLE AL DEUDOR
 
 ###### ARTÍCULO 2493.
 
@@ -13945,7 +14007,7 @@ El acreedor que libera por la novación al antiguo deudor, aceptando otro en su 
 
 El deudor puede oponer al acreedor substituto las excepciones personales que tenga contra él y las que se deriven de la novación; pero no las que tenía contra el acreedor sustituido.
 
-### CAPITULO VII. DE LA CADUCIDAD
+### CAPÍTULO VI. DE LA PRESCRIPCIÓN
 
 ###### ARTÍCULO 2508.
 
@@ -13959,7 +14021,7 @@ Si la obligación es de dar, para que opere la extinción en los términos del a
 
 Si la obligación es de hacer, el deudor quedará liberado cuando la prestación resultare física o legalmente imposible sin estar aquél en mora, en tanto que si la obligación es de no hacer, la realización del hecho contraventor no engendrará responsabilidad para el deudor si física o legalmente resulta necesario realizarlo.
 
-### CAPÍTULO I. DEFINICIÓN
+### CAPITULO VII. DE LA CADUCIDAD
 
 #### SECCIÓN SEGUNDA. DE LA SUSPENSIÓN DE LA PRESCRIPCIÓN
 
@@ -14135,7 +14197,7 @@ El efecto de la interrupción es inutilizar, para la prescripción, el tiempo co
 
 El tiempo para la prescripción se contará de conformidad con lo dispuesto por el artículo 2094.
 
-### CAPÍTULO II. DE LA PLURALIDAD DE OBJETOS
+### CAPÍTULO I. DEFINICIÓN
 
 ###### ARTÍCULO 2539.
 
@@ -14173,13 +14235,13 @@ En este ordenamiento también se designa como caduca a la institución jurídica
 
 ## TÍTULO OCTAVO. DE LA COMPLEJIDAD DE LAS OBLIGACIONES
 
-### CAPÍTULO III. DE LA PLURALIDAD DE SUJETOS
+### CAPÍTULO II. DE LA PLURALIDAD DE OBJETOS
 
 ###### ARTÍCULO 2545.
 
 Son obligaciones complejas aquellas en las que existe pluralidad de objetos, de sujetos o de ambos elementos.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LA PLURALIDAD DE SUJETOS
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES ALTERNATIVAS
 
@@ -14321,7 +14383,7 @@ El acreedor no puede exigir en la demanda que formule contra el deudor de una ob
 
 En caso de duda sobre si la obligación es alternativa o facultativa, se tendrá por alternativa.
 
-### CAPÍTULO II. DE LOS CRÉDITOS HIPOTECARIOS Y PIGNORATICIOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES MANCOMUNADAS SIMPLES
 
@@ -14519,7 +14581,7 @@ II. Si sólo algunos fueron culpables, únicamente ellos responderán de los da�
 
 ## TÍTULO NOVENO. DE LA CONCURRENCIA Y PRELACIÓN DE LOS CREDITOS
 
-### CAPÍTULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
+### CAPÍTULO II. DE LOS CRÉDITOS HIPOTECARIOS Y PIGNORATICIOS
 
 ###### ARTÍCULO 2615.
 
@@ -14603,7 +14665,7 @@ Los gastos judiciales hechos por un acreedor en lo particular, serán pagados en
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, sin perjuicio de las penas que merezca por el fraude.
 
-### CAPÍTULO IV. DE LOS ACREEDORES DE PRIMERA CLASE
+### CAPÍTULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
 
 ###### ARTÍCULO 2631.
 
@@ -14655,7 +14717,7 @@ II. Si los acreedores hubieren hecho novación de la deuda o de cualquier otro m
 
 Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPÍTULO V. DE LOS ACREEDORES DE SEGUNDA CLASE
+### CAPÍTULO IV. DE LOS ACREEDORES DE PRIMERA CLASE
 
 ###### ARTÍCULO 2639.
 
@@ -14683,7 +14745,7 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 X. Los créditos anotados en el Registro Público en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPÍTULO VI. DE LOS ACREEDORES DE TERCERA CLASE
+### CAPÍTULO V. DE LOS ACREEDORES DE SEGUNDA CLASE
 
 ###### ARTÍCULO 2640.
 
@@ -14701,7 +14763,7 @@ V. El crédito por alimentos fiados al deudor para su subsistencia y la de su fa
 
 VI. La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de bien ajeno, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPÍTULO VII. DE LOS ACREEDORES DE CUARTA CLASE
+### CAPÍTULO VI. DE LOS ACREEDORES DE TERCERA CLASE
 
 ###### ARTÍCULO 2641.
 
@@ -14713,13 +14775,13 @@ II. Los créditos del erario, que no están comprendidos en la fracción I del a
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LOS ACREEDORES DE CUARTA CLASE
 
 ###### ARTÍCULO 2642.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPÍTULO II. DE LA MATERIA DE LA COMPRAVENTA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 2643.
 
@@ -14785,7 +14847,7 @@ Si vencido el plazo a que se refiere la fracción III del artículo 2648 no se c
 
 ## TÍTULO SEGUNDO. DE LA COMPRAVENTA
 
-### CAPÍTULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
+### CAPÍTULO II. DE LA MATERIA DE LA COMPRAVENTA
 
 ###### ARTÍCULO 2656.
 
@@ -14843,7 +14905,7 @@ Son nulas las ventas que produzcan la concentración o acaparamiento, en una o e
 
 Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, bares, restaurantes, cervecerías o establecimientos similares, no dan derecho para exigir su precio; pero una vez hecho el pago no puede repetirse.
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DEL VENDEDOR
+### CAPÍTULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
 ###### ARTÍCULO 2670.
 
@@ -14869,7 +14931,7 @@ Tratándose de la venta de determinados bienes, como los pertenecientes a incapa
 
 Pueden ser materia de la compraventa los bienes futuros, a no ser que se trate de la herencia de una persona viva, aun cuando ésta preste su consentimiento.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DEL COMPRADOR
+### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DEL VENDEDOR
 
 ###### ARTÍCULO 2676.
 
@@ -14911,7 +14973,7 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 
 Las compras hechas en contravención a lo dispuesto en este capítulo serán nulas, ya se hayan hecho directamente, ya por interpósita persona.
 
-### CAPÍTULO VI. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DEL COMPRADOR
 
 ###### ARTÍCULO 2683.
 
@@ -14983,7 +15045,7 @@ I. El vendedor quedará liberado del cuidado ordinario del bien y solamente ser�
 
 II. El comprador abonará al vendedor los gastos de conservación del bien vendido.
 
-### CAPÍTULO VII. DE LA FORMA DEL CONTRATO DE COMPRAVENTA
+### CAPÍTULO VI. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRAVENTA
 
 ###### ARTÍCULO 2695.
 
@@ -15035,7 +15097,7 @@ Cuando el comprador a plazo o con espera del precio fuere perturbado en su poses
 
 La falta de pago del precio da derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 2129 y 2130.
 
-### CAPÍTULO VIII. DE LAS VENTAS JUDICIALES
+### CAPÍTULO VII. DE LA FORMA DEL CONTRATO DE COMPRAVENTA
 
 ###### ARTÍCULO 2705.
 
@@ -15145,7 +15207,7 @@ Si la venta de uno o más inmuebles se hiciere por precio alzado y sin estimar e
 
 Las acciones que nacen de los artículos 2723 a 2725 prescriben en un año, contado desde el día de la entrega.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. DE LAS VENTAS JUDICIALES
 
 ###### ARTÍCULO 2727.
 
@@ -15187,7 +15249,7 @@ El Registrador hará la inscripción correspondiente en favor del comprador a qu
 
 La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este código.
 
-### CAPÍTULO II. DE LAS PERSONAS QUE PUEDEN HACER Y RECIBIR DONACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 2736.
 
@@ -15219,7 +15281,7 @@ Con excepción de lo relativo al precio, son aplicables al contrato de permuta l
 
 ## TÍTULO CUARTO. DE LA DONACIÓN
 
-### CAPÍTULO III. DE LA RESCISIÓN, LA REVOCACIÓN Y LA REDUCCIÓN DE LAS DONACIONES
+### CAPÍTULO II. DE LAS PERSONAS QUE PUEDEN HACER Y RECIBIR DONACIONES
 
 ###### ARTÍCULO 2742.
 
@@ -15325,7 +15387,7 @@ Los acreedores del donante siempre tendrán acción contra éste para el cobro d
 
 Salvo que el donador dispusiere otra cosa, las donaciones que consisten en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DE LA RESCISIÓN, LA REVOCACIÓN Y LA REDUCCIÓN DE LAS DONACIONES
 
 ###### ARTÍCULO 2768.
 
@@ -15341,7 +15403,7 @@ Los no nacidos pueden adquirir por donación, con tal que hayan estado concebido
 
 Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
-### CAPÍTULO II. DEL MUTUO SIMPLE
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 #### SECCIÓN SEGUNDA. DE LA REVOCACIÓN Y LA REDUCCIÓN DE LAS DONACIONES
 
@@ -15483,13 +15545,13 @@ Revocada o reducida una donación, o en el caso de rescisión, el donatario resp
 
 ## TÍTULO QUINTO. DEL MUTUO
 
-### CAPÍTULO III. DEL MUTUO CON INTERÉS
+### CAPÍTULO II. DEL MUTUO SIMPLE
 
 ###### ARTÍCULO 2798.
 
 El mutuo, o préstamo de consumo, es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otros bienes fungibles al mutuatario, quien se obliga a devolver otro tanto de la misma especie y calidad.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO III. DEL MUTUO CON INTERÉS
 
 ###### ARTÍCULO 2799.
 
@@ -15539,7 +15601,7 @@ No se anularán las deudas contraídas por el menor para proporcionarse los alim
 
 De las deudas a que se refiere el artículo anterior responderá el deudor alimentario del menor.
 
-### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 2808.
 
@@ -15667,7 +15729,7 @@ II. Por la enajenación del bien comodado. En este caso el comodatario deberá r
 
 ## TÍTULO SÉPTIMO. DEL ARRENDAMIENTO
 
-### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
+### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
 
 ###### ARTÍCULO 2835.
 
@@ -15727,7 +15789,7 @@ Los arrendamientos de bienes del Estado, municipales o de establecimientos públ
 
 El arrendamiento de bienes muebles no puede exceder de cinco años; de quince el de inmuebles destinados a habitación, y de noventa y nueve el de inmuebles destinados a fines agrícolas o ganaderos, al comercio, despachos, oficinas, consultorios profesionales o al ejercicio de una industria.
 
-### CAPÍTULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
+### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
 
 ###### ARTÍCULO 2848.
 
@@ -15805,7 +15867,7 @@ III. Cuando el contrato fuere por tiempo indeterminado, si el arrendador autoriz
 
 Las mejoras a que se refieren las fracciones II y III deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio del bien arrendado.
 
-### CAPÍTULO V. DEL ARRENDAMIENTO DE FINCAS RÚSTICAS
+### CAPÍTULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
 
 ###### ARTÍCULO 2861.
 
@@ -15907,7 +15969,7 @@ En los arrendamientos que han durado más de cinco años y cuando el arrendatari
 
 También gozará del derecho del tanto y del de retracto si el propietario quiere vender el bien arrendado, aplicándose en lo conducente lo dispuesto en los artículos del 1505 al 1514.
 
-### CAPÍTULO VI. DEL SUBARRENDAMIENTO
+### CAPÍTULO V. DEL ARRENDAMIENTO DE FINCAS RÚSTICAS
 
 ###### ARTÍCULO 2883.
 
@@ -15921,7 +15983,7 @@ El arrendador que no haga las obras que ordenen las autoridades como necesarias 
 
 El arrendador no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley.
 
-### CAPÍTULO VII. DE LA TERMINACIÓN DEL ARRENDAMIENTO
+### CAPÍTULO VI. DEL SUBARRENDAMIENTO
 
 ###### ARTÍCULO 2886.
 
@@ -15945,7 +16007,7 @@ El permiso a que se refiere el artículo que precede, no será obligatorio sino 
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios, por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
 
-### CAPÍTULO VIII. DEL ALQUILER O ARRENDAMIENTO DE BIENES MUEBLES
+### CAPÍTULO VII. DE LA TERMINACIÓN DEL ARRENDAMIENTO
 
 ###### ARTÍCULO 2891.
 
@@ -15985,7 +16047,7 @@ La autorización especial para subarrendar a determinada persona puede otorgarse
 
 El subarrendamiento debe otorgarse con las mismas formalidades requeridas por la ley para el arrendamiento.
 
-### CAPÍTULO I. DEL DEPÓSITO
+### CAPÍTULO VIII. DEL ALQUILER O ARRENDAMIENTO DE BIENES MUEBLES
 
 ###### ARTÍCULO 2899.
 
@@ -16093,7 +16155,7 @@ Si el predio dado en arrendamiento fuere enajenado judicialmente, el contrato de
 
 En los casos de expropiación y de ejecución judicial, se observará en lo conducente lo dispuesto en los artículos 2888, 2889 y 2890.
 
-### CAPÍTULO II. DEL SECUESTRO
+### CAPÍTULO I. DEL DEPÓSITO
 
 ###### ARTÍCULO 2918.
 
@@ -16261,7 +16323,7 @@ Puede también darse el uso, en tiempo compartido, de bienes muebles, como autom
 
 ## TÍTULO NOVENO. DEL DEPÓSITO Y DEL SECUESTRO
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DEL SECUESTRO
 
 ###### ARTÍCULO 2957.
 
@@ -16393,7 +16455,7 @@ El posadero no se exime de la responsabilidad que le imponen los dos artículos 
 
 Los propietarios de fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPÍTULO II. DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 2988.
 
@@ -16429,7 +16491,7 @@ El secuestro judicial se rige además por las disposiciones del Código Procesal
 
 ## TÍTULO DÉCIMO. DEL MANDATO
 
-### CAPÍTULO III. DE LAS OBLIGACIONES DEL MANDANTE CON RELACIÓN AL MANDATARIO
+### CAPÍTULO II. DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE
 
 ###### ARTÍCULO 2996.
 
@@ -16545,7 +16607,7 @@ IV. El mandante deberá cumplir las obligaciones contraídas por el mandatario a
 
 V. Lo dispuesto en las dos primeras fracciones de este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
-### CAPÍTULO IV. DE LAS OBLIGACIONES Y DERECHOS DEL MANDANTE Y DEL MANDATARIO CON RELACIÓN A OTRAS PERSONAS
+### CAPÍTULO III. DE LAS OBLIGACIONES DEL MANDANTE CON RELACIÓN AL MANDATARIO
 
 ###### ARTÍCULO 3016.
 
@@ -16611,7 +16673,7 @@ Cuando el substituto haya sido designado por el mandante, la substitución liber
 
 El substituto tiene para con el mandante, los mismos derechos y obligaciones que el mandatario.
 
-### CAPÍTULO V. DEL MANDATO JUDICIAL
+### CAPÍTULO IV. DE LAS OBLIGACIONES Y DERECHOS DEL MANDANTE Y DEL MANDATARIO CON RELACIÓN A OTRAS PERSONAS
 
 ###### ARTÍCULO 3030.
 
@@ -16645,7 +16707,7 @@ Las obligaciones del mandante para con el mandatario, establecidas en los artíc
 
 Si varias personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
-### CAPÍTULO VI. DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
+### CAPÍTULO V. DEL MANDATO JUDICIAL
 
 ###### ARTÍCULO 3037.
 
@@ -16663,7 +16725,7 @@ Los actos que el mandatario practique a nombre del mandante, pero traspasando lo
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuáles fueron aquéllas y el mandatario mismo no se hubiere obligado personalmente por el mandante.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 
 ###### ARTÍCULO 3041.
 
@@ -16759,7 +16821,7 @@ El procurador que ha substituido un poder puede revocar la substitución si no t
 
 El poderdante puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-### CAPÍTULO II. DE LA APARCERIA AGRÍCOLA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 3054.
 
@@ -17175,7 +17237,7 @@ TÍTULO DECIMOQUINTO
 
 DE LA APARCERIA RURAL
 
-### CAPÍTULO III. DE LA APARCERÍA DE GANADOS
+### CAPÍTULO II. DE LA APARCERIA AGRÍCOLA
 
 ###### ARTÍCULO 3130.
 
@@ -17189,7 +17251,7 @@ El contrato de aparcería deberá otorgarse por escrito, formándose dos ejempla
 
 Las disposiciones de este título se aplicarán sin perjuicio de lo que dispongan las leyes especiales sobre cultivo y aprovechamiento de tierras propias para la ganadería y la agricultura.
 
-### CAPÍTULO I. DEL JUEGO Y DE LA APUESTA
+### CAPÍTULO III. DE LA APARCERÍA DE GANADOS
 
 ###### ARTÍCULO 3133.
 
@@ -17241,7 +17303,7 @@ Al concluir el contrato de aparcería, el aparcero que hubiere cumplido fielment
 
 El propietario no tiene derecho de dejar sus tierras ociosas, sino el tiempo que sea necesario para que recobren sus propiedades fertilizantes. En consecuencia, pasada la época que en cada región fije la autoridad municipal conforme a la naturaleza de los cultivos, si el propietario no las comienza a cultivar por si o por medio de otros, tiene obligación de darlas en aparcería, conforme a la costumbre del lugar, a quien las solicite y ofrezca las condiciones necesarias de honorabilidad y solvencia.
 
-### CAPÍTULO II. DE LA RENTA VITALICIA
+### CAPÍTULO I. DEL JUEGO Y DE LA APUESTA
 
 ###### ARTÍCULO 3143.
 
@@ -17471,7 +17533,7 @@ TÍTULO DECIMOOCTAVO (SIC)
 
 DE LOS CONTRATOS ALEATORIOS
 
-### CAPÍTULO III. DE LA COMPRA DE ESPERANZA
+### CAPÍTULO II. DE LA RENTA VITALICIA
 
 ###### ARTÍCULO 3189.
 
@@ -17511,7 +17573,7 @@ Cuando las personas se sirvieren del medio de la suerte, no como apuesta o juego
 
 Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las leyes especiales que las autoricen y las segundas, por los reglamentos de policía.
 
-### CAPÍTULO I. DE LA FIANZA
+### CAPÍTULO III. DE LA COMPRA DE ESPERANZA
 
 ###### ARTÍCULO 3197.
 
@@ -17585,7 +17647,7 @@ Si el que paga la renta vitalicia ha causado intencionalmente la muerte del acre
 
 El deudor de la renta no puede librarse del pago de ésta, ofreciendo el reembolso del capital y renunciando a la repetición de la (sic) pensiones pagadas, salvo que el reembolso fuere aceptado voluntariamente.
 
-### CAPÍTULO II. DE LA PRENDA
+### CAPÍTULO I. DE LA FIANZA
 
 ###### ARTÍCULO 3214.
 
@@ -17615,7 +17677,7 @@ TÍTULO DECIMONOVENO
 
 DE LOS CONTRATOS ACCESORIOS
 
-### CAPÍTULO III. DE LA ANTICRESIS
+### CAPÍTULO II. DE LA PRENDA
 
 #### SECCIÓN SEGUNDA. DE LOS REQUISITOS DE EXISTENCIA Y DE VALIDEZ DE LA FIANZA
 
@@ -18191,7 +18253,7 @@ Si las cartas de recomendación fueren dadas de mala fe, afirmando falsamente la
 
 No tendrá la responsabilidad a que se refiere el artículo anterior el que dio la carta, si prueba que no fue su recomendación la que condujo a tratar con su recomendado.
 
-### CAPÍTULO IV. DE LA HIPOTECA
+### CAPÍTULO III. DE LA ANTICRESIS
 
 #### SECCIÓN SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DEL ACREEDOR PRENDARIO
 
@@ -18559,7 +18621,7 @@ En cualquiera de los casos de venta mencionados en los artículos anteriores, po
 
 El acreedor no responde por la evicción de la prenda vendida en subasta; a no ser que hubiera dolo de su parte o que se hubiere sujetado a aquella responsabilidad expresamente.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LA HIPOTECA
 
 ###### ARTÍCULO 3389.
 
@@ -18621,7 +18683,7 @@ La falta de pago no autoriza al acreedor para quedarse con el bien, siendo aplic
 
 Respecto del bien ajeno dado en anticresis, se observará lo dispuesto en los artículos 3337 al 3340.
 
-### CAPÍTULO II. DE LOS SOCIOS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 #### SECCIÓN SEGUNDA. DE LA HIPOTECA VOLUNTARIA
 
@@ -19323,7 +19385,7 @@ Las asociaciones de beneficencia pública se regirán por las leyes correspondie
 
 ## TÍTULO VIGÉSIMO PRIMERO. DE LAS (SIC) SOCIEDAD CIVIL
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LA SOCIEDAD
+### CAPÍTULO II. DE LOS SOCIOS
 
 ###### ARTÍCULO 3511.
 
@@ -19413,7 +19475,7 @@ Después del nombre de la sociedad se agregarán las palabras Sociedad Civil, o 
 
 No quedan comprendidas en este capítulo las sociedades mutualistas.
 
-### CAPÍTULO IV. DE LA DISOLUCIÓN DE LA SOCIEDAD
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LA SOCIEDAD
 
 ###### ARTÍCULO 3526.
 
@@ -19453,9 +19515,7 @@ Los estatutos establecerán las causas de exclusión de los socios y éstos por 
 
 Es a cargo del socio excluido la parte de pérdidas que le corresponda, y la sociedad puede retener la parte del capital y utilidades de aquél, mientras no concluyan las operaciones pendientes al tiempo de la exclusión, debiendo hacerse hasta entonces la liquidación correspondiente.
 
-### CAPÍTULO V. DE LA LIQUIDACIÓN DE LA SOCIEDAD
-
-ARTICUL0 (SIC) 3567. Disuelta la sociedad se pondrá en liquidación.
+### CAPÍTULO IV. DE LA DISOLUCIÓN DE LA SOCIEDAD
 
 ###### ARTÍCULO 3534.
 
@@ -19537,11 +19597,9 @@ Cuando no se hayan nombrado socios administradores, todos los socios tendrán de
 
 En el supuesto previsto en el artículo anterior, las decisiones serán tomadas por mayoría.
 
-### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN DEL REGISTRO PÚBLICO
+### CAPÍTULO V. DE LA LIQUIDACIÓN DE LA SOCIEDAD
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+ARTICUL0 (SIC) 3567. Disuelta la sociedad se pondrá en liquidación.
 
 ###### ARTÍCULO 3551.
 
@@ -19615,7 +19673,11 @@ En las sociedades de duración indeterminada es también causa legítima para su
 
 La disolución de la sociedad no modifica los compromisos contraídos con personas distintas de ella y de los socios.
 
-### CAPÍTULO I. DE LOS TÍTULOS INSCRIBIBLES Y ANOTABLES
+### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN DEL REGISTRO PÚBLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 3568.
 
@@ -19699,25 +19761,25 @@ Si se conviene que la partición la haga una persona extraña a la sociedad y a 
 
 ## TÍTULO PRIMERO
 
+### CAPÍTULO I. DE LOS TÍTULOS INSCRIBIBLES Y ANOTABLES
+
 ### CAPÍTULO II. DE LA INMATRICULACIÓN
 
 ### CAPÍTULO ÚNICO. DE LOS TÍTULOS INSCRIBIBLES
 
 ### CAPÍTULO ÚNICO. DE LOS TÍTULOS INSCRIBIBLES
 
-### CAPÍTULO I. DE LOS EFECTOS LEGALES DEL REGISTRO
-
 # LIBRO OCTAVO. DEL REGISTRO PUBLICO
 
 ## TÍTULO SEGUNDO. DEL REGISTRO INMOBILIARIO
 
-### CAPÍTULO II. DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCIÓN Y DE LA CALIFICACIÓN REGISTRAL
+### CAPÍTULO I. DE LOS EFECTOS LEGALES DEL REGISTRO
 
 ###### ARTÍCULO 3588.
 
 El Registro Público del Estado de Coahuila es una institución jurídica unitaria, dependiente del Poder Ejecutivo, que podrá administrarlo directamente o a través del organismo a que se le asigne esta función, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes; los actos relativos a la constitución, modificación y extinción de las personas morales; así como los otros actos, negocios, resoluciones y diligencias judiciales a que este mismo título se refiere, y a las consecuencias inherentes a dichas inscripciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -19741,7 +19803,7 @@ III. Registro de personas morales.
 
 ## TÍTULO TERCERO. DEL REGISTRO MOBILIARIO
 
-### CAPÍTULO III. DEL CONTENIDO Y DE LOS REQUISITOS DE LOS ASIENTOS
+### CAPÍTULO II. DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCIÓN Y DE LA CALIFICACIÓN REGISTRAL
 
 ###### ARTÍCULO 3592.
 
@@ -19805,7 +19867,7 @@ VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensió
 
 IX. Cualquier otro título que sea anotable, de acuerdo con este código u otras leyes.
 
-### CAPÍTULO IV. DE LA NULIDAD DE LOS ASIENTOS
+### CAPÍTULO III. DEL CONTENIDO Y DE LOS REQUISITOS DE LOS ASIENTOS
 
 ###### ARTÍCULO 3594.
 
@@ -19853,7 +19915,7 @@ Si hubiere oposición, sólo podrá tomarse en cuenta si se funda en la posesió
 
 ## TÍTULO CUARTO. DEL REGISTRO DE PERSONAS MORALES
 
-### CAPÍTULO V. DE LA RECTIFICACIÓN DE LOS ASIENTOS
+### CAPÍTULO IV. DE LA NULIDAD DE LOS ASIENTOS
 
 ###### ARTÍCULO 3598.
 
@@ -19867,7 +19929,7 @@ III. Los contratos de prenda que menciona el artículo 3332.
 
 ## TÍTULO QUINTO. DEL FUNCIONAMIENTO Y EFECTOS DEL REGISTRO
 
-### CAPÍTULO VI. DE LA EXTINCIÓN DE LAS INSCRIPCIONES Y DE LAS ANOTACIONES
+### CAPÍTULO V. DE LA RECTIFICACIÓN DE LOS ASIENTOS
 
 ###### ARTÍCULO 3599.
 
@@ -19881,11 +19943,7 @@ III. Las fundaciones y asociaciones de beneficencia privada autorizadas por el E
 
 IV. El nombramiento de los directores y administradores de las instituciones a que aluden las tres fracciones precedentes.
 
-### CAPÍTULO VII. DE LOS MEDIOS DE IMPUGNACIÓN
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+### CAPÍTULO VI. DE LA EXTINCIÓN DE LAS INSCRIPCIONES Y DE LAS ANOTACIONES
 
 ###### ARTÍCULO 3600.
 
@@ -20009,6 +20067,12 @@ Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o 
 
 Las inscripciones que se practiquen en relación a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 2713 fracción II, 2717, 3331, 3332, 3483 y 3515 de este código, y les serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o negocios materia de los títulos Tercero y Cuarto de este libro y con los efectos que las inscripciones producen.
 
+### CAPÍTULO VII. DE LOS MEDIOS DE IMPUGNACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
+
 ###### ARTÍCULO 3624.
 
 La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
@@ -20063,9 +20127,9 @@ VII. Cuando falte algún otro requisito que deba llenar el documento de acuerdo 
 
 En caso de que el Registrador niegue o suspenda la inscripción o anotación, devolverá el título sin registrar, expresando por escrito la causa y fundamento de su negativa, entregando la resolución al interesado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 3631.
 
@@ -20095,7 +20159,7 @@ V. No expidan los certificados en el término reglamentario.
 
 En los casos de las fracciones I y II del artículo que precede, los interesados harán constar inmediatamente, mediante certificación notarial fuera de protocolo o por información judicial de dos testigos, el hecho de haberse rehusado el Registrador o el empleado, a fin de que pueda servirles de prueba en el juicio correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTÍCULO 3635.
 
@@ -20105,7 +20169,7 @@ En los casos de las fracciones I y II del artículo que precede, los interesados
 
 Hecho el registro, serán devueltos los documentos al que los presentó, con la nota de haber quedado registrados, la cual contendrá la fecha de presentación, la fecha de la inscripción o anotación y los demás datos de identificación de éstas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTÍCULO 3637.
 
@@ -20379,7 +20443,7 @@ Contra las resoluciones y omisiones del Registrador procede el recurso de inconf
 
 El recurso deberá interponerse por escrito, dentro del término de tres días hábiles siguientes al en que tenga conocimiento la parte afectada, expresándose los razonamientos y fundamentos legales que justifiquen la impugnación y anexando, en su caso, el instrumento rechazado y copia certificada del acto impugnado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -20387,7 +20451,7 @@ El recurso deberá interponerse por escrito, dentro del término de tres días h
 
 El Registrador remitirá al superior jerárquico dentro de los tres días hábiles siguientes, un informe sobre su actuación, acompañando en su caso las documentales que estime necesarias, quien resolverá lo procedente dentro del término de tres días hábiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -20513,7 +20577,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 25 DE JULIO DE 2003.
 
@@ -20645,7 +20709,7 @@ P.O. 14 DE DICIEMBRE DE 2010.
 
 P.O. 19 DE AGOSTO DE 2011.
 
-DECRETO No. 529 POR EL QUE SE REFORMAN LOS ARTICULOS 255 Y 256 DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA
+DECRETO No. 529 POR EL QUE SE REFORMAN LOS ARTÍCULOS 255 Y 256 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -20653,8 +20717,14 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 
 P.O. 19 DE AGOSTO DE 2011.
 
-DECRETO No. 530 POR EL QUE SE ADICIONA LA FRACCION VI AL ARTICULO 368, UN SEGUNDO Y TERCER PARRAFO AL ARTICULO 370, UNA FRACCION IV AL ARTICULO 377, HACIENDO DE LAS ACTUALES FRACCIONES IV Y V, LAS FRACCIONES V Y VI RESPECTIVAMENTE Y EL CUARTO PARRAFO DEL ARTICULO 378 DEL CODIGO CIVIL PARA EL ESTADO DE COAHUILA
+DECRETO No. 530 POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 368, UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 370, UNA FRACCIÓN IV AL ARTÍCULO 377, HACIENDO DE LAS ACTUALES FRACCIONES IV Y V, LAS FRACCIONES V Y VI RESPECTIVAMENTE Y EL CUARTO PÁRRAFO DEL ARTÍCULO 378 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- El Registro Civil, contará con un plazo de 60 días a partir de la entrada en vigor del presente decreto para crear y operar el Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos.
