@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-tribunal-de-lo-contencioso-84523"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 21 de diciembre de 2011.
 
@@ -130,6 +130,10 @@ III. UNIDADES DE APOYO ESPECIALIZADO
 Secretario de Capacitación Jurídica, Normatividad y Estadística
 
 Secretario de Presidencia
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+Secretaría Técnica de Justicia en Línea y Mejora Jurisdiccional.
 
 IV. UNIDADES DE APOYO ADMINISTRATIVO
 
@@ -481,6 +485,56 @@ X. Registrar mensualmente la información estadística de la Sala Superior y de 
 
 XI. Las demás que le encomiende la Sala Superior, la Presidencia y las que le confiera la Ley: (sic)
 
+> <small>(ADICIONADA LA DENOMINACIÓN CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+DE LA SECRETARÍA TÉCNICA DE JUSTICIA EN LÍNEA Y MEJORA JURISDICCIONAL
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+ARTICULO 37 BIS.- La Secretaría Técnica de Justicia en Línea y Mejora Jurisdiccional, tendrá las siguientes funciones:
+
+I. Identificar los requerimientos necesarios para la óptima operación del Sistema de Justicia en Línea, así como proponer y realizar las acciones que correspondan;
+
+II. Analizar los requerimientos de los usuarios del Sistema de Justicia en Línea y, en su caso, solicitar al Área de Informática, los ajustes que correspondan a los procesos para su implementación;
+
+III. Mantener actualizados los catálogos y plantillas del Sistema de Justicia en Línea;
+
+IV. Establecer, los mecanismos necesarios para que la información que se integre en el Sistema de Justicia en Línea pueda ser utilizada de manera óptima por todos los usuarios, de acuerdo a su competencia;
+
+V. Atender las solicitudes de requerimientos funcionales y tecnológicos necesarios para la mejora en la operación del Sistema de Justicia en Línea, provenientes de usuarios internos y externos;
+
+VI. Evaluar los requerimientos funcionales a que se refiere la fracción anterior para que, en su caso, los mismos sean incluidos en el Sistema de Justicia en Línea;
+
+VII. Promover y coadyuvar con el Área de Informática para que todos los sistemas informáticos y soluciones digitales de comunicación e información del Tribunal existentes y por desarrollar, se integren al Sistema de Justicia en Línea;
+
+VIII. Identificar y proponer los temas del Sistema de Justicia en Línea que requieran difundirse;
+
+IX. Identificar y proponer las reformas a las disposiciones jurídicas y administrativas aplicables al Tribunal, al juicio contencioso administrativo estatal y al Sistema de Justicia en Línea, necesarias para la óptima operación de este último;
+
+X. Establecer y administrar un Centro de Atención, que operará telefónicamente y en línea, para asesorar a los usuarios internos y externos del Sistema de Justicia en Línea;
+
+XI. Coordinar y supervisar la operación de los módulos de registro del Sistema de Justicia en Línea;
+
+XII. Administrar el registro de usuarios del Sistema;
+
+XIII. Identificar las necesidades de conocimientos y habilidades de los usuarios internos del Sistema de Justicia en Línea, a efecto de diseñar, promover y evaluar la ejecución de programas de capacitación;
+
+XIV. Mantener actualizado el Registro de Peritos del Tribunal;
+
+XV. Atender las solicitudes de los Magistrados de las Salas Regionales, respecto a aquellos peritos cuyas materias no estén consideradas en el Registro de Peritos;
+
+XVI. Realizar los procesos para la incorporación de peritos al Registro del Tribunal y verificar que los mismos se lleven a cabo de manera programada y oportuna;
+
+XVII. Proponer los acuerdos para la inscripción, permanencia o cancelación de peritos en el Registro, efectuando los asientos que ordene la Sala Superior;
+
+XVIII. Proponer al Pleno de Sala Superior, previa opinión de la Unidad de Apoyo de Apoyo Administrativo, el arancel que servirá de base para el pago de los honorarios de los peritos;
+
+XIX. Comunicar al Pleno de Sala Superior cualquier irregularidad en la conducta o ética de los peritos, así como de cualquier infracción a alguna disposición normativa por parte de éstos;
+
+XX. Coordinar con el Área de Informática, la adquisición o arrendamiento de Software y Hardware necesarios para la óptima operación del Sistema de Justicia en Línea, y
+
+XXI. Las demás que le confieran otras disposiciones jurídicas, el Pleno de Sala Superior y el Magistrado Titular de la Comisión para Juicios en Línea.
+
 ### CAPITULO XII
 
 DE LAS SUPLENCIAS DEL PRESIDENTE DEL TRIBUNAL, DE LOS MAGISTRADOS DE LA SALA SUPERIOR, DE LOS MAGISTRADOS REGIONALES, DE LOS SECRETARIOS Y DE LOS ACTUARIOS.
@@ -632,3 +686,11 @@ MAGISTRADO DE LA SALA SUPERIOR
 LIC. EDNA LIYIAN AGUILAR OLGUIN
 
 SECRETARIA GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2012.
+
+###### ARTICULO UNICO.
+
+La presente adición al Reglamento entrará en vigor el día siguiente de su publicación, en el Periódico Oficial "El Estado de Sinaloa".
