@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2012-01-20"
+last_updated: "2012-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -385,7 +385,7 @@ Tratándose de las instituciones hospitalarias que se nieguen a otorgar el aviso
 
 El incumplimiento a lo dispuesto por el Artículo anterior, sólo dará lugar a las sanciones administrativas indicadas, pero el registro del nacimiento será válido para todos los efectos de Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ###### ARTICULO 57.
 
@@ -511,7 +511,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
 
@@ -591,7 +591,7 @@ Extendida el acta de adopción simple, se anotará la de nacimiento del adoptado
 
 El Juez o Tribunal que deje sin efectos una adopción simple, remitirá copia certificada de la resolución al Oficial del Registro Civil que corresponda, dentro del término de ocho días después de que se declare ejecutoriada, para los efectos de que cancele el acta de adopción y anote la de nacimiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ### CAPITULO V. DE LAS ANOTACIONES DE LA TUTELA
 
@@ -661,7 +661,7 @@ III.- Que es su voluntad unirse en matrimonio.
 
 Esta solicitud deberá ser firmada por los interesados, y si alguno no pudiere o no supiere escribir, lo hará a su ruego otra persona conocida, mayor de edad y vecina del lugar. Los interesados imprimirán en todo caso su huella digital.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 95.
 
@@ -677,7 +677,7 @@ IV.- Un certificado subscrito por un médico titulado que asegure, bajo protesta
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 V.- En el convenio se expresara con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son personas menores de dieciocho años de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 186 y 208, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesitan saber al efecto de que el convenio quede debidamente formulado.
 
@@ -927,7 +927,7 @@ En los casos de muerte violenta en los establecimientos de reclusión, no se har
 
 En las actas de nacimiento y matrimonio se anotará la de defunción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
 ### CAPITULO X. ANOTACIONES DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD LEGAL PARA ADMINISTRAR BIENES, LA AUSENCIA O LA PRESUNCION DE MUERTE
 
@@ -949,7 +949,7 @@ El Oficial del Registro Civil anotará el acta correspondiente, que contendrá e
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele la anotación a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 1983)</small>
 
 ### CAPITULO XI. DE LA RECTIFICACION DE LAS ACTAS DEL REGISTRO CIVIL
 
@@ -973,7 +973,7 @@ III.- Cuando se trate de omisión de un dato que deba constar en el acta respect
 
 IV.- Cuando se trate de errores mecanográficos o de impresión que se desprendan del contenido del acta o los documentos que integran el Apéndice.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 1983)</small>
 
 ###### ARTICULO 133.
 
@@ -1803,7 +1803,7 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 270.
 
@@ -1853,7 +1853,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero si por otros nuevos, aunque sean de la misma especie.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 279.
 
@@ -1909,7 +1909,7 @@ TERCERA.- En el caso de las Fracciones VI y VII del artículo 264, los hijos que
 
 CUARTA.- En el caso de la fracción VIII, IX, XI, XII, XIII y XVII del Artículo 264, el Juez resolverá sobre la situación jurídica de los hijos y tomará en cuenta, en su caso, lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según corresponda, y en especial a la custodia y al cuidado de los hijos de acuerdo a las disposiciones legales previstas en el presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 281.
 
@@ -1973,7 +1973,7 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco resultante de la adopción plena se equipara al de consanguinidad con todos sus efectos, tanto en relación al adoptado como a sus descendientes con respecto al adoptante.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 291.
 
@@ -2369,7 +2369,7 @@ El reconocimiento hecho por uno de los padres, produce efectos respecto de él y
 
 El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 365.
 
@@ -2507,7 +2507,7 @@ III.- A percibir la porción hereditaria y los alimentos que fije la Ley.
 
 ### CAPITULO V. DE LA ADOPCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 387.
 
@@ -2543,7 +2543,7 @@ Los requisitos contemplados en las fracciones I, II y III, deberán acreditarse 
 
 No podrán adoptar mediante el régimen de adopción plena, las personas que tengan vínculo de parentesco consanguíneo con la persona menor de dieciocho años de edad o con persona que no tenga la capacidad para comprender el significado del hecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 388.
 
@@ -2579,7 +2579,7 @@ El adoptante podrá darle nombre y sus apellidos al adoptado, haciéndose las an
 
 El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 394.
 
@@ -2643,7 +2643,7 @@ El adoptado llevará el apellido del adoptante, quien tendrá el derecho de camb
 
 La adopción producirá sus efectos aunque sobrevengan hijos del adoptante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 400.
 
@@ -2701,7 +2701,7 @@ I.- Para efectos de impedimento para contraer matrimonio;
 
 II.- En los demás casos previstos por la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 404.
 
@@ -2875,7 +2875,7 @@ Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo 
 
 Tampoco podrán celebrar contratos de arrendamiento, por más de cinco años, ni recibir la renta anticipada por más de dos años, vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 434.
 
@@ -2901,7 +2901,7 @@ Las personas que ejercen la patria potestad tienen obligación de dar cuenta de 
 
 En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán estos representados, en juicio y fuera él, por un tutor nombrado por el Juez para cada caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 438.
 
@@ -3187,7 +3187,7 @@ Si por un nombramiento condicional del tutor, o por algún otro motivo, faltare 
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO III. DE LA TUTELA LEGÍTIMA DE LAS PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD
 
@@ -3219,7 +3219,7 @@ Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPITULO IV. DE LA TUTELA LEGÍTIMA DE PERSONAS QUE NO TENGAN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
@@ -3265,7 +3265,7 @@ La designación del tutor se hará en escritura pública ante notario y es revoc
 
 Cualquier persona, con interés legítimo, podrá solicitar al Juez la remoción del cargo del tutor, cuando éste no desempeñe adecuadamente su cargo. El Estado, en los casos de tutela autodesignada, sujetará su actuación a través de sus órganos competentes en los términos previstos en la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2008)</small>
 
 ### CAPITULO V. DE LA TUTELA PUBLICA
 
@@ -3339,7 +3339,7 @@ Siempre será dativa la tutela para asuntos judiciales de la persona menor de di
 
 A las personas menores de dieciocho años de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona menor de dieciocho años de edad, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Ministerio Público, de la misma persona menor de dieciocho años de edad, y aún de oficio por el Juez de Primera Instancia de lo Familiar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
 
 ###### ARTICULO 498.
 
@@ -3675,7 +3675,7 @@ Si el que tenía la patria potestad sobre persona menor de dieciocho años de ed
 
 Si las rentas de la persona menor de dieciocho años de edad no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 540.
 
@@ -3723,7 +3723,7 @@ El tutor está obligado a inscribir en el inventario el crédito que tenga contr
 
 Los bienes que la persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho, adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 534.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 549.
 
@@ -4343,9 +4343,11 @@ El representante está obligado a promover la publicación de los edictos. La fa
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 661.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 ###### ARTICULO 662.
 
@@ -4509,9 +4511,11 @@ Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada l
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 697.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez a instancia de parte interesada, declarará la presunción de muerte.
+Cuando hayan transcurrido dos años desde la declaración de ausencia, el Juez a instancia de parte interesada, declarará la presunción de muerte.
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
@@ -7221,7 +7225,7 @@ Si el legado consistiere en prestación periódica, el legatario hará suyas tod
 
 ### CAPITULO V. DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO Y DE LOS TESTAMENTOS INOFICIOSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 1255.
 
@@ -8507,11 +8511,11 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JUNIO DE 1975)</small>
 
 ### CAPITULO VI. DE LA SUCESION EN EL CONCUBINATO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 1975)</small>
 
 ###### ARTICULO 1522.
 
@@ -9869,7 +9873,7 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior y sin culpa o negligencia de ninguna de las partes se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -9901,7 +9905,7 @@ III. Cuando una persona sea víctima de la discriminación, humillación, acoso 
 
 IV. Cuando una persona sea víctima del abuso de un derecho.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -9909,13 +9913,13 @@ Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable de
 
 La acción de reparación no es transmisible a terceros por actos entre vivos y solo pasa a los herederos de la víctima cuando esta haya intentado la acción en vida.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -9979,7 +9983,7 @@ En los casos previstos por los artículos 1801, 1802 y 1803 el que sufra el dañ
 
 El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 ###### ARTICULO 1806.
 
@@ -10031,7 +10035,7 @@ Los jefes de familia que habiten una casa o parte de ella, son responsables de l
 
 La acción de exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño, o a partir de la fecha en que éste fue descubierto o debió haber sido descubierto por la víctima.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -14851,7 +14855,7 @@ Si alguno de los interesados se niega a firmar dicha solicitud, acudirá el otro
 
 Todo hecho o convenio entre las partes, que puede modificar o destruir la eficacia de una obligación hipotecaria anterior; no surtirá efecto contra tercero si no se hace constar en el Registro por medio de una inscripción nueva, de una cancelación total o parcial o de una anotación, según los casos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2003)</small>
 
 ###### ARTICULO 2793.
 
@@ -14919,7 +14923,7 @@ IV.- Los legatarios, por el importe de sus legados, si no hubiere hipoteca espec
 
 V.- El Estado, los pueblos y los establecimientos públicos, sobre los bienes de sus administradores o recaudadores, para asegurar las rentas de sus respectivos cargos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTICULO 2803.
 
@@ -14941,7 +14945,7 @@ III.- Por el Ministerio Público o el Sistema Para el Desarrollo Integral de la 
 
 ###### ARTICULO 2804.
 
-La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOS I y III Libro primero.
+La constitución de la hipoteca por los bienes de hijos de familia, de personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, se regirá por las disposiciones contenidas en el TITULO octavo, CAPITULO II; TITULO noveno, CAPITULO IX y TITULO DECIMO primero, CAPITULOs I y III Libro primero.
 
 ###### ARTICULO 2805.
 
@@ -15499,7 +15503,7 @@ La Ley Reglamentaria establecerá los derechos y obligaciones de los registrador
 
 ### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 2890.
 
@@ -15711,7 +15715,7 @@ FRANCISCO SANTA PERALTA.
 
 (Firmado)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 20 DE DICIEMBRE DE 1974.
 
@@ -15941,7 +15945,7 @@ DECRETO N° 340
 
 P.O. 31 DE AGOSTO DE 2007.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 5 DE OCTUBRE DE 2007.
 
@@ -16034,3 +16038,9 @@ TERCERO.- La presente reforma entrará en vigor, el día siguiente de su publica
 P.O. 20 DE ENERO DE 2012.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones contenidas en la presente reforma, serán aplicables también, a los asuntos que estén en trámite o pendientes por resolverse, en instancias jurisdiccionales. Lo anterior, fundado en el artículo 14 de la Constitución Federal, relativo a los principios de retroactividad de la ley.
