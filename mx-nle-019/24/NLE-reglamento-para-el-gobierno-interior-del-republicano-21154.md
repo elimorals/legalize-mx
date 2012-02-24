@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2010-11-01"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -705,7 +705,9 @@ III BIS.- De Obras Públicas.
 
 IV.- De Desarrollo Social.
 
-V.- De Espectáculos y Expendios de Bebidas Alcohólicas.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+V.- De Ordenamiento e Inspección.
 
 VI.- De Honor y Justicia.
 
@@ -801,13 +803,17 @@ IV.- De Desarrollo Social.
 
 6. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
-V.- De Espectáculos y Expendios de bebidas alcohólicas.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-1. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta o al copeo.
+V.- De Ordenamiento e Inspección.
 
-2. Dictaminar sobre las solicitudes para otorgar licencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella cerrada.
+1. Dictaminar sobre las solicitudes para otorgar anuencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta o al copeo.
 
-3. Dictaminar sobre la revocación de permisos para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta, y en envase o botella cerrada.
+2. Dictaminar sobre las solicitudes para otorgar anuencias para el expendio de bebidas alcohólicas y/o cerveza en envase o botella cerrada.
+
+3. Dictaminar sobre la revocación de permisos para el expendio de bebidas alcohólicas y/o cerveza en envase o botella abierta, y en envase o botella cerrada
+
+3 BIS. Dictaminar los asuntos que correspondan en materia de asentamientos humanos, comercio en vía pública, mercados y panteones.
 
 4. Las demás que determine el Ayuntamiento, o cualesquier dispositivo legal aplicable.
 
@@ -1150,3 +1156,7 @@ P.O. 1 DE NOVIEMBRE DE 2010.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes REFORMAS POR MODIFICACIÓN AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEON, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO (SIC).- Las reformas al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
