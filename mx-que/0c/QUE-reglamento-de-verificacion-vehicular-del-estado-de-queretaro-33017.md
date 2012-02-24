@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-verificacion-vehicular-del-estado-de-queretaro-33
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-09"
-last_updated: "2003-07-09"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO DE VERIFICACION VEHICULAR DEL ESTADO DE QUERETARO
 
-REGLAMENTO DE VERIFICACION VEHICULAR DEL ESTADO DE QUERETARO
+REGLAMENTO DE VERIFICACIÓN VEHICULAR DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE VERIFICACIÓN VEHICULAR DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. 24 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 9 de julio de 2003.
 
@@ -708,3 +710,23 @@ ING. LEOPOLDO MONDRAGÓN RUIZ
 SECRETARIO DE DESARROLLO SUSTENTABLE
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Verificación Vehicular publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", en fecha 9 de julio de 2003.
+
+###### ARTÍCULO TERCERO.
+
+Los particulares que ya realizan labores de verificación vehicular y los que deseen obtener una autorización para la operación de un Centro de Verificación Vehicular, deberán ajustarse a lo establecido en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos administrativos que se hubieren iniciado con anterioridad a la entrada en vigor del presente Reglamento, continuarán tramitándose y se resolverán conforme a las disposiciones vigentes en el momento de su promoción.
