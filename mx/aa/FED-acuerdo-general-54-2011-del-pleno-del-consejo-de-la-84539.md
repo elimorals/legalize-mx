@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2011-del-pleno-del-consejo-de-la-84539"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-01-13"
-last_updated: "2012-01-13"
+last_updated: "2012-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84539&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-01-05"
 ---
 # ACUERDO GENERAL 54/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL OCTAVO TRIBUNAL UNITARIO DEL DECIMOQUINTO CIRCUITO, CON RESIDENCIA EN TIJUANA, BAJA CALIFORNIA, ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION, REGISTRO Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE REFERIDA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE FEBRERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 54/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL OCTAVO TRIBUNAL UNITARIO DEL DECIMOQUINTO CIRCUITO, CON RESIDENCIA EN TIJUANA, BAJA CALIFORNIA, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE REFERIDA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE FEBRERO DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de enero de 2012.
 
@@ -49,11 +49,11 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE FEBRERO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 PRIMERO. El nuevo órgano jurisdiccional se denominará Octavo Tribunal Unitario del Decimoquinto Circuito, con residencia en Tijuana, Baja California, y tendrá idéntica jurisdicción territorial y competencia a la de los tribunales unitarios actualmente en funciones en la sede citada.
 
-Su domicilio será en calle Doctor Atl número 10500, manzana 60, lotes 20 y 21, Zona Río, código postal 22010, en Tijuana, Baja California.
+> <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2012)</small>
+
+Su domicilio será en calle Doctor Atl número 2084 (10500), manzana 60, lotes 20 y 21, Zona Río, código postal 22010, en Tijuana, Baja California.
 
 SEGUNDO. El dieciséis de enero de dos mil doce, iniciará funciones el Octavo Tribunal Unitario del Decimoquinto Circuito, con residencia en Tijuana, Baja California, con la plantilla autorizada para ese órgano jurisdiccional.
 
