@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2009-05-11"
+last_updated: "2012-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
@@ -71,9 +71,17 @@ XI. Salas Colegiadas: Las Salas integradas por tres Magistrados cada una;
 
 XII. Salas: Las Salas a que se refiere el capítulo VI de la Ley Orgánica;
 
-XIII. Secretario de Acuerdos: El Secretario de Acuerdos del Supremo Tribunal; y,
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XIV. Supremo Tribunal: El Supremo Tribunal de Justicia del Estado de Sinaloa.
+XIII. Secretario de Acuerdos: El Secretario de Acuerdos del Supremo Tribunal;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XIV. Supremo Tribunal: El Supremo Tribunal de Justicia del Estado de Sinaloa; y,
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XV. Instituto: El Instituto de Capacitación Judicial.
 
 ###### Artículo 3.
 
@@ -975,7 +983,7 @@ Para ser Coordinador del Área de investigación jurídica se requiere ser ciuda
 
 Corresponde al Coordinador del Área de Investigación Jurídica:
 
-I. Acordar con el Director todos los asuntos relacionados con el funcionamiento interno del Instituto;
+I. (DEROGADA, P.O. 24 DE FEBRERO DE 2012)
 
 II. Coordinar la implementación de los programas de capacitación aprobados;
 
@@ -983,7 +991,9 @@ III. Realizar los trabajos de investigación jurídica que le sean requeridos po
 
 IV. Las demás que le confiera el Pleno, el Presidente o el Director.
 
-#### SECCIÓN I. DEL DIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+#### SECCIÓN V. DEL PERSONAL ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 69.
 
@@ -999,11 +1009,81 @@ II. Aplicar las pruebas de selección a quienes buscan integrarse al Poder Judic
 
 III. Aplicar y evaluar las pruebas psicométricas para determinar el perfil psicológico;
 
-IV. Coadyuvar en la implementación de los programas de capacitación encomendados; y,
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+IV. Realizar los proyectos de diseño curricular de los programas de estudios del Instituto y coadyuvar en la implementación de los mismos; y
 
 V. Las demás que le confiera el Pleno, el Presidente o el Director.
 
-#### SECCIÓN II. DEL SUBDIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE FEBRERO DE 2012)</small>
+
+#### SECCIÓN I. DEL DIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+
+###### Artículo 70 Bis.
+
+Para la atención de las necesidades materiales derivadas del funcionamiento del Instituto, éste contará con las siguientes áreas administrativas:
+
+I. Una Secretaría Administrativa;
+
+Il. Una Unidad Editorial y de Análisis Legislativo y Jurisprudencial;
+
+III. Una Unidad de Tecnologías de la Información y Educación en Línea; y
+
+IV. Un Departamento de Apoyo Logístico y Administrativo.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 70 Bis-A.
+
+Son atribuciones del responsable de la Secretaría Administrativa las siguientes:
+
+I. Acordar con el Director todos los asuntos relacionados con el funcionamiento administrativo del Instituto;
+
+II. Firmar, en ausencia del Director, las solicitudes de recursos materiales y servicios generales para el óptimo funcionamiento del Instituto;
+
+III. Coordinar el Departamento de Logística y Apoyo Administrativo para la realización de las actividades organizadas por el Instituto y atender los requerimientos materiales de las coordinaciones y unidades;
+
+IV. Auxiliar al personal del Instituto en los trámites exigidos para la asignación de recursos para el cumplimiento de sus funciones; y
+
+V. Las demás que le confiera el Pleno, el Presidente o el Director del Instituto.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 70 Bis-B.
+
+Son atribuciones del responsable de la Unidad Editorial y de Análisis Legislativo y Jurisprudencial las siguientes:
+
+I. Realizar los trabajos atinentes a la publicación de la revista del Poder Judicial;
+
+II. Dar cuenta a la Coordinación de Investigación Jurídica de las novedades legislativas, jurisprudenciales y bibliográficas que estime de interés para el cumplimiento de los fines del Instituto; y
+
+V (SIC). Las demás que le confiera el Pleno, el Presidente o el Director del Instituto.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 70 Bis-C.
+
+Son atribuciones del responsable de la Unidad de Tecnologías de la Información y Educación en Línea las siguientes:
+
+I. Desarrollar, con el apoyo de la Dirección de Informática y Estadística, los programas informáticos necesarios para el cumplimiento de los fines del Instituto;
+
+II. Coadyuvar en el desarrollo y ejecución de programas educativos generales en materia informática para el personal adscrito a las áreas jurisdiccionales del Poder Judicial;
+
+III. Desarrollar y mantener actualizado el micrositio del Instituto;
+
+IV. Desarrollar y mantener actualizada la plataforma de educación en línea;
+
+IV (SIC). Atender los requerimientos inmediatos que en materia de informática se presenten en el Instituto; y
+
+V. Las demás que le confiera el Pleno, el Presidente o el Director del Instituto.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+###### Artículo 70 Bis-D.
+
+El Departamento de Apoyo Logístico y Administrativo estará conformado por el número de auxiliares administrativos que determine el Pleno.
+
+El personal asignado a este departamento tendrá a su cargo la logística material de los eventos organizados por el Instituto así como el apoyo administrativo de esa oficina.
 
 ### CAPÍTULO III. DE LA DIRECCIÓN DE INFORMÁTICA Y ESTADÍSTICA DE SU COMPETENCIA Y ORGANIZACIÓN
 
@@ -1077,7 +1157,7 @@ VII. Unidad de Diseño Gráfico y Portal de Internet; y,
 
 VIII. El demás personal técnico administrativo que se requiera conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
 
-#### SECCIÓN III. DEL JEFE DEL DEPARTAMENTO DE SISTEMAS
+#### SECCIÓN II. DEL SUBDIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
 
 ###### Artículo 74.
 
@@ -1103,7 +1183,7 @@ IX. Representar al Poder Judicial ante el Consejo Estatal de Seguridad Pública,
 
 X. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
 
-#### SECCIÓN IV. DE LOS DEPARTAMENTOS DE INFORMÁTICA REGIONALES
+#### SECCIÓN III. DEL JEFE DEL DEPARTAMENTO DE SISTEMAS
 
 ###### Artículo 75.
 
@@ -1131,7 +1211,7 @@ X. Fomentar la profesionalización y capacitación del personal de Informática;
 
 XI. Las demás que deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Director.
 
-#### SECCIÓN V. DE LA UNIDAD DE SOPORTE TÉCNICO
+#### SECCIÓN IV. DE LOS DEPARTAMENTOS DE INFORMÁTICA REGIONALES
 
 ###### Artículo 76.
 
@@ -1165,11 +1245,11 @@ XIII. Supervisar el cabal cumplimiento de cada una de las acciones que realiza e
 
 XIV. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
 
+#### SECCIÓN V. DE LA UNIDAD DE SOPORTE TÉCNICO
+
 #### SECCIÓN VI. DE LA UNIDAD DE REDES Y TELECOMUNICACIONES
 
 #### SECCIÓN VII. DE LA UNIDAD DE DISEÑO GRÁFICO Y PORTAL DE INTERNET
-
-#### SECCIÓN I. DE LOS VISITADORES
 
 ###### Artículo 77.
 
@@ -1178,6 +1258,8 @@ La Dirección de Informática y Estadística contará con Departamentos Regional
 I. Zona Norte, con residencia en la ciudad de Los Mochis, proporcionará el servicio a los Distritos Judiciales de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura y Salvador Alvarado; y,
 
 II. Zona Sur, con residencia en la ciudad de Mazatlán, proporcionará el servicio en los Distritos Judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
+
+#### SECCIÓN I. DE LOS VISITADORES
 
 #### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -1386,3 +1468,15 @@ Presidente del Supremo Tribunal de Justicia del Estado
 LIC. RAFAEL RODRÍGUEZ OVALLE.
 
 Secretario de Acuerdos
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial "El Estado de Sinaloa".
