@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-17771
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-17"
-last_updated: "2002-02-20"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-10-26"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE
 
-REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE
+REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE FEBRERO DE 2002.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE, PUBLICADO EN EL D.O.F. DE 24 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el viernes 17 de noviembre de 2000.
 
@@ -1044,3 +1046,13 @@ EL C. SECRETARIO GENERAL DE ACUERDOS Y CONFLICTOS COLECTIVOS Y SECRETARIO DEL PL
 D.O.F. 20 DE FEBRERO DE 2002.
 
 Unico.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE FEBRERO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, publicado en el Diario Oficial de la Federación el 17 de noviembre de 2000 y su reforma publicada en el Diario Oficial de la Federación el 20 de febrero de 2002; y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Las áreas de la Junta con denominación nueva o distinta a la que aparece en el Reglamento que se abroga o con competencia en asuntos que correspondían a otras, se harán cargo de los mismos a partir de la entrada en vigor del presente Reglamento.
+
+CUARTO. Los derechos laborales del personal jurídico y administrativo serán respetados conforme a la Ley.
