@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2011-05-10"
+last_updated: "2012-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -101,19 +101,25 @@ VIII.- Impulsar actitudes de respeto al medio ambiente y de responsabilidad soli
 
 IX.- Promover la participación del individuo en las actividades culturales, económicas, sociales, ecológicas y políticas de la sociedad en que vive;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-X.- Desarrollar la conciencia para la preservación de la salud, fomentando el deporte, la activación física y el cuidado de la alimentación de los educandos, vigilando la calidad nutricional de los alimentos que se expenden en las cafeterías, estanquillos o cooperativas escolares y en los alrededores de los planteles educativos. Además de crear conciencia en los alumnos acerca de la paternidad responsable, sin menoscabo de la libertad y del respeto a la dignidad humana;
+X.- Desarrollar la conciencia para la preservación de la salud, fomentando el deporte, la activación física, y el cuidado de la alimentación de los educandos, vigilando la calidad nutricional de los alimentos que se expenden en las escuelas y en los alrededores de las mismas. Además de crear conciencia en los alumnos acerca de la paternidad responsable, sin menoscabo de la libertad y del respeto a la dignidad humana;
 
-XI.- Propiciar en el individuo el respeto a los símbolos patrios, de acuerdo a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales; y (sic)
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+XI. Fortalecer en los educandos una cultura cívica que promueva el respeto a los símbolos patrios y los de la entidad, mediante el desarrollo de proyectos formativos e informativos y de acuerdo a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales y aquellas vigentes en la entidad con relación al escudo e himno coahuilenses;
 
-XII.- Fortalecer en los educandos una cultura cívica que promueva el respeto y el culto a los emblemas nacionales, mediante el desarrollo de proyectos formativos e informativos coordinados por las instituciones competentes; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2006)</small>
+XII. Fomentar en los educandos la cultura de la legalidad y de la paz, promoviendo el conocimiento y el respeto del orden jurídico así como el cumplimiento de los deberes cívicos;
 
-XIII.- Fomentar en el individuo la cultura de la informática y de una segunda lengua, sin menoscabo de la enseñanza del español.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XIII. Fomentar la cultura de la transparencia y el acceso a la información; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XIV. Fomentar en el individuo la cultura de la informática y de una segunda lengua, sin menoscabo de la enseñanza del español.
 
 ###### ARTICULO 8°.
 
@@ -125,9 +131,11 @@ Para los efectos de la presente ley, se entenderá por autoridad educativa feder
 
 ### CAPITULO II. DE LA DISTRIBUCIÓN DE LA FUNCIÓN SOCIAL EDUCATIVA
 
-###### ARTICULO 9°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2012)</small>
 
-Corresponden al Gobierno del Estado, por conducto de su Secretaría de Educación Pública, las siguientes atribuciones:
+###### ARTICULO 9.
+
+Corresponden al Gobierno del Estado, por conducto de su Secretaría de Educación, las siguientes atribuciones:
 
 I.- Organizar, regular y coordinar los servicios educativos en el estado;
 
@@ -159,13 +167,11 @@ XIV.- Crear y fomentar programas de educación para adultos, de alfabetización 
 
 XV.- Promover la vinculación de las instituciones educativas con el sector productivo de la entidad; y
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XVI.- En coordinación con las autoridades competentes, elaborar, implementar y difundir los planes de contingencia de disturbios previstos en la Ley de Protección Civil para el Estado de Coahuila y demás disposiciones que de ella se deriven;
+XVI.- Coordinarse con las autoridades de seguridad pública y protección civil, a efecto de elaborar y difundir los planes de contingencia para la protección de la población estudiantil y docente y acordar las acciones conducentes ante la posible presencia de disturbios que pongan en riesgo su integridad.
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
-
-XVII.- Coordinarse con las autoridades de seguridad pública y protección civil en el Estado, a fin de implementar las acciones necesarias para la protección de la población estudiantil, ante la posible presencia de disturbios que pongan en riesgo la seguridad y salvaguarda de los mismos; y
+XVII. (DEROGADA, P.O. 24 DE FEBRERO DE 2012)
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2011)</small>
 
@@ -187,23 +193,33 @@ II.- Proponer a la autoridad educativa estatal acciones encaminadas a lograr un 
 
 ### CAPITULO III. DEL SISTEMA EDUCATIVO ESTATAL
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
 ###### ARTICULO 12.
 
 El sistema educativo estatal está constituido por:
 
-I.- Educandos y educadores;
+a) Personas:
 
-II.- Autoridades educativas;
+I. Educandos y educadores;
 
-III.- Planes, programas, métodos y materiales educativos;
+II. Padres de familia o quienes ejerzan la patria potestad o la representación legal de los educandos;
 
-IV.- Instituciones educativas estatales y municipales;
+III. Autoridades educativas;
 
-V.- Organismos descentralizados y órganos desconcentrados en materia educativa, cultural y del deporte;
+b) Instituciones:
 
-VI.- Instituciones educativas de particulares con autorización o con reconocimiento de validez oficial de estudios; y
+I. Instituciones educativas estatales y municipales;
 
-VII.- Instituciones de educación superior a las que la ley les otorga autonomía.
+II. Organismos descentralizados y órganos desconcentrados en materia educativa, cultural y del deporte;
+
+III. Instituciones educativas de particulares con autorización o con reconocimiento de validez oficial de estudios; y
+
+IV. Instituciones de educación superior a las que la ley les otorga autonomía.
+
+c) Otros:
+
+I. Planes, programas, métodos, y materiales educativos
 
 ###### ARTICULO 13.
 
@@ -305,9 +321,15 @@ XIII.- Establecer, en coordinación con instituciones de los sectores público y
 
 XIV.- Promover una mayor participación de la sociedad en la educación, así como su apoyo en el financiamiento de las actividades a que se refiere este capítulo;
 
-XV.- Programar, en la esfera de su competencia, actividades de apoyo a los grupos que emigran a la entidad, con el objeto de compensar las posibles desventajas de su situación; y
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XVI.- Definir los programas que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo.
+XV. Asegurar la permanencia del docente en el centro de trabajo durante el ciclo escolar;
+
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XVI. Programar en la esfera de su competencia, actividades de apoyo a los grupos humanos que inmigran a la entidad, con el objeto de compensar las posibles desventajas de su situación;
+
+XVII. Definir los programas que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo.
 
 ###### ARTICULO 27.
 
@@ -893,11 +915,21 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o representación
 
 I.- Hacer que sus hijos, pupilos, o representados menores de edad, concurran a las escuelas públicas o privadas para obtener educación básica en los términos previstos por las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-II.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como en la implementación de acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y
+II.- Acudir ante las autoridades del plantel escolar o el maestro del grupo, cuantas veces sea necesario, para tomar conocimiento del avance en la educación de su hijo, pupilo o representado y de los problemas relacionados con su conducta o rendimiento en la escuela;
 
-III.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+III.- Informarse en todo momento del comportamiento de su hijo, pupilo o representado en la escuela y en todas las actividades relacionadas con su educación;
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+IV.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como corresponsabilizarse en la instrumentación de las acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y
+
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+V.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar.
 
 ### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
@@ -1196,3 +1228,9 @@ Una vez cumplido el plazo previsto en el artículo que antecede, se otorgará un
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- Este decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones que contravengan lo dispuesto en la presente Ley.
