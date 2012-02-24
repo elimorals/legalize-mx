@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-publico-del-estado-de-16774"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-23"
-last_updated: "2010-06-18"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY REGLAMENTARIA DEL REGISTRO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY REGLAMENTARIA DEL REGISTRO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 23 de noviembre de 1999.
 
@@ -33,15 +33,15 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 
 DECRETA:
 
-NUMERO.- 426
+NÚMERO.- 426
 
-LEY REGLAMENTARIA DEL REGISTRO PUBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY REGLAMENTARIA DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 1.
 
@@ -93,13 +93,13 @@ El registro de los actos mercantiles se llevará a efecto en los términos previ
 
 ### CAPITULO II. DE LA ORGANIZACION DEL REGISTRO PUBLICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 11.
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -107,31 +107,31 @@ El registro de los actos mercantiles se llevará a efecto en los términos previ
 
 Para efectos del servicio el Registro Público se contará con las oficinas necesarias en los municipios y con la circunscripción territorial que mediante disposición reglamentaria le asigne el Ejecutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 13.
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 14.
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 15.
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 16.
 
 (DEROGADO, P.O. 18 DE JUNIO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 17.
 
@@ -271,7 +271,7 @@ Siempre que ante un tribunal se pida la nulidad o cancelación de una inscripci�
 
 Si la sentencia acoge la pretensión de nulidad o cancelación se dejará sin efecto el asiento o asientos impugnados, cancelándose la inscripción preventiva de la demanda. Si la sentencia desestima la pretensión del actor, se cancelará la inscripción preventiva de la demanda. En el juicio de nulidad y cancelación, deberá ser oído como parte el Registrador de la Oficina del Registro en que se haya hecho la inscripción impugnada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -403,7 +403,7 @@ Cuando se trate de omisiones subsanables motivadas por la falta de certificados 
 
 Hecho el registro de un documento se pondrá razón al calce del mismo de la partida, del folio, en su caso, del libro, de la sección y de la fecha en que quedó inscrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -609,6 +609,10 @@ IX. Las resoluciones administrativas que establezcan concesiones o aprovechamien
 
 X. Las resoluciones administrativas que contengan declaraciones de rescate de las concesiones o aprovechamientos sobre bienes del dominio público del estado o de los municipios.
 
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+
+XI. Las resoluciones judiciales que ordenen las anotaciones marginales o inscripción de embargos en los bienes de los deudores alimentarios morosos.
+
 ###### ARTICULO 82.
 
 Únicamente se inscribirán, anotándose marginalmente en los libros electrónicos y físicos, los gravámenes recaídos sobre inmuebles que figuren registrados precisamente en favor de las personas contra quienes se trabaron.
@@ -735,9 +739,9 @@ Al consolidarse la propiedad, los demás gravámenes y limitaciones de dominio e
 
 ### CAPITULO X. DE LOS CERTIFICADOS Y CERTIFICACIONES DE CONSTANCIAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 102.
 
@@ -785,9 +789,9 @@ Los certificados de que un inmueble está o no inscrito a favor de determinada p
 
 De todo certificado o constancia que expida el Registrador se dejará copia autorizada, la cual se unirá al escrito que contenga la solicitud, archivándose por orden cronológico con la copia del recibo que acredita el pago de los derechos respectivos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2010)</small>
 
 ###### ARTICULO 113.
 
@@ -823,7 +827,7 @@ Los archivos que estén integrados al sistema informático serán consultados ex
 
 Cuando el usuario consulte los archivos del Registro mediante el servicio de comunicaciones, cubrirá los derechos que señale la Ley de Hacienda del Estado para esos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -835,7 +839,7 @@ No será obligatorio para el Registro prestar los libros cuando al solicitarse, 
 
 ### CAPITULO XII. DE LOS INDICES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -845,7 +849,7 @@ En las secciones I y III del Registro, así como en aquellas que se determinen c
 
 ### CAPITULO XIII. DEL ARCHIVO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -857,13 +861,13 @@ Cada oficina del Registro organizará su archivo el cual estará a cargo del Reg
 
 El archivo de las Oficinas del Registro será público, pero los interesados en consultar los libros deberán sujetarse a las siguientes prescripciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
 I. Deberá solicitarse por escrito al Registrador el libro o libros y la partida o partidas que se pretenda, indicando claramente las fincas o derechos cuyo estado pretendan conocer.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -875,7 +879,7 @@ IV. No se podrá exigir de la Oficina otro auxilio distinto al de la manifestaci
 
 V. Los particulares son directamente responsables de los daños que sufran los libros y equipo por los tratamientos que les den.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -925,7 +929,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE NOVIEMBRE DE 2006.
 
@@ -940,3 +944,9 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- El Registro Civil, contará con un plazo de 60 días a partir de la entrada en vigor del presente decreto para crear y operar el Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos.
