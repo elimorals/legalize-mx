@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2011-11-16"
+last_updated: "2012-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -1230,6 +1232,24 @@ IV Transportar carga que arrastre o pueda caerse;
 V Transitar por avenidas y/o zonas restringidas, así como en zonas residenciales sin el permiso de la Autoridad correspondiente, tratándose de vehículos con longitud mayor a seis metros con cincuenta centímetros y/o una altura total de cuatro metros con veinte centímetros.
 
 Toda carga que sea esparcida en la vía pública, deberá ser retirada por quien la transportara o será retirada a su costa por la Autoridad Municipal.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 55 BIS.- Para efecto de este Reglamento y con el objeto de controlar y ordenar las especificaciones de peso, dimensiones y capacidad de los vehículos de auto transporte federal, sus servicios auxiliares y transporte privado que transitan en las vías generales de comunicación de jurisdicción municipal, excepto los vehículos tipo grúa de arrastre y salvamento, se aplicara la Norma Oficial Mexicana NOM-012-SCT -2-2008.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 55 BIS 1.- Las especificaciones de peso deberán ir contenidas en la hoja de verificación que se solicite en la báscula más cercana al Municipio de San Pedro Garza García, Nuevo León.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 55 BIS 2.- Queda prohibida la circulación en todas las vialidades del municipio a los camiones remolque (c-R), así como a los tractocamiones semiremolques-remolque T-S-R, excepto en la Avenida Ignacio Morones Prieto y el Boulevard Antonio L. Rodríguez.
+
+Los tractocamiones articulados únicamente podrán circular por las avenidas y calzadas del municipio a partir de las cero horas hasta las 5 horas y de las 22 hasta las 24 horas.
+
+Los autobuses y los camiones unitarios podrán circular por todo el municipio, únicamente si su peso total no excede de 17 toneladas de peso bruto vehicular y no excedan de 12.5 metros de largo, excepto para las zonas catalogada como Centro Histórico del Municipio, Cañada Santa Elena y Tampiquito, así como calles de las colonias ubicadas al sur de la avenida Alfonso Reyes y al norte de la avenida Gral. Emiliano Zapata, en donde los vehículos no deberán exceder de 7 toneladas de peso bruto vehicular, ni su longitud mayor a 6 metros.
+
+Ningún vehículo automotor podrá circular por las vialidades del municipio si su peso bruto vehicular excede de 17 toneladas, excepto para la Avenida Ignacio Morones Prieto y el Boulevard Antonio L. Rodríguez.
 
 (REUBICADO [N. DE E. ANTES CAPITULO DECIMO PRIMERO], P.O. 12 DE NOVIEMBRE DE 2004)
 
@@ -2655,6 +2675,8 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ### CAPITULO VIGESIMO PRIMERO. DE LAS SANCIONES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 135.
@@ -2662,6 +2684,20 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 El propietario del vehículo, será responsable de las infracciones que se comentan en la conducción del mismo; excepto en caso de robo reportado ante las autoridades competentes, siempre y cuando este repone haya sido con anticipación a las infracciones cometidas.
 
 El conductor será solidariamente responsable, junto con el propietario del vehículo de las infracciones que cometa en la conducción del mismo.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+TABULADOR DE INFRACCIONES (SIC)
+
+Tabla
+
+...
+
+37 Circular en zona prohibida... Cuotas No. Sanción... 40 a 90
+
+...
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2011, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR SIETE PÁRRAFOS.</small>
 
@@ -3077,9 +3113,9 @@ Para garantizar la participación ciudadana en la revisión para la modificació
 
 ## TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
-PRIMERO.- Las presentes reformas por modificación y adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial
 
 SEGUNDO.- Se derogan todas las disposiciones municipales que contravengan lo dispuesto en el presente Reglamento.
 
@@ -3130,5 +3166,11 @@ PRIMERO.- Las reformas por modificación y adición al Reglamento de Tránsito y
 P.O. 16 DE NOVIEMBRE DE 2011.
 
 PRIMERO.- Las presentes reformas por modificación y adición entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+...
+
+P.O. 24 DE FEBRERO DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial
 
 ...
