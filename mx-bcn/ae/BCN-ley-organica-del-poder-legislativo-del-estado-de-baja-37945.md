@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2012-02-10"
+last_updated: "2012-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -1003,7 +1003,7 @@ II.- Las que se refieren a las modificaciones de Leyes secundarias producto de l
 
 El Reglamento establecerá los mecanismos y procedimientos de organización bajo los cuales funcionará dicha Comisión, quien lo propondrá al Pleno del Congreso para su aprobación.
 
-> <small>(REFORMADO , P.O. 10 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 65.
 
@@ -1217,6 +1217,10 @@ El Reglamento Interior fijará los requisitos que deberá reunir el titular de l
 
 El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios Administrativos, estará bajo la vigilancia y control de la Comisión de Administración y Finanzas del Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+
+La Secretaría de Servicios Administrativos implementará el programa de administración sustentable, que comprenderá los aspectos de manejo de residuos sólidos, fomento de uso de energías alternativas y ahorro de agua, disminución del impacto negativo al medio y entorno generado por las actividades cotidianas del Poder Legislativo, promoción del manejo de tecnologías, capacitación y formación ambiental.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
 
 B. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
@@ -1347,7 +1351,7 @@ ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
-ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 81 QUARTER (SIC) (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -1477,7 +1481,7 @@ ARTICULO 87 BIS.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 TER.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-ARTICULO 87 QUARTER (SIC) .- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
+ARTICULO 87 QUARTER (SIC).- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 QUINQUIES.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
@@ -2436,3 +2440,11 @@ TERCERO.- A la entrada en vigor de las presentes reformas, cualquier inmueble, a
 CUARTO.- Se derogan todas las disposiciones normativas que contravengan las presentes reformas.
 
 QUINTO.- Publíquese en la Gaceta Parlamentaria y túrnese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2012.
+
+Primero.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+
+Segundo.- Publíquese en la Gaceta del Poder Legislativo, Órgano Oficial de difusión del Congreso del Estado de Baja California.
+
+Tercero.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado.
