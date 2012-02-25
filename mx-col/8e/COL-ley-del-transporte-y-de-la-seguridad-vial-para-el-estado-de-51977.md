@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2011-11-07"
+last_updated: "2012-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -113,7 +113,9 @@ VIII. Los Delegados Regionales de la Dirección General;
 
 IX. Los Peritos y Auditores de la Dirección General;
 
-X. Los Oficiales Supervisores y los Agentes Inspectores de la Dirección General;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+X. Los Oficiales Supervisores, los Agentes Inspectores y los Agentes Inspectores Honorarios del Transporte de la Dirección General;
 
 XI. Los Presidentes de los Ayuntamiento (sic) del Estado;
 
@@ -341,9 +343,13 @@ XXXII. Autorizar la colocación de publicidad en los vehículos afectos al servi
 
 XXXIII. Convenir y coordinarse con la representación estatal de la Secretaría de Comunicaciones y Transportes en todas las acciones a desarrollar para lograr el propósito de homologar lo que corresponda de la presente Ley con la Ley de Caminos, Puentes y Autotransporte Federal y la Ley Federal del Registro Público Vehicular, procurando estimular la participación de la sociedad; así como con las autoridades federales, estatales y municipales que considere conveniente, para lograr la mejor aplicación de este Ordenamiento;
 
-XXXIV. Las que le encomiende el Secretario; y
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XXXV. Las demás que señale esta ley, su Reglamento y demás disposiciones aplicables.
+XXXIV. Operar el registro, capacitar y expedir las credenciales de identificación de los Agentes Inspectores Honorarios del Transporte;
+
+XXXV. Las que le encomiende el Secretario; y
+
+XXXVI. Las demás que señale esta ley, su Reglamento y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -475,7 +481,7 @@ b) Colectivo; el servicio de transporte público colectivo es:
 
 4.- Metropolitano: Es el destinado a dar servicio a las personas que viajan entre puntos geográficos de la traza urbana de un municipio con continuidad con otro u otros municipios y a los que se accede por vialidades urbanas y suburbanas, así como por carreteras y caminos estatales o municipales o de jurisdicción federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 El servicio de transporte público colectivo urbano, suburbano, foráneo y metropolitano, tendrá las siguientes clasificaciones:
 
@@ -503,7 +509,7 @@ I. El servicio público de carga en general: es el que se presta al público med
 
 El servicio de transporte público de carga se hará dentro del perímetro urbano sin estar sujeto a itinerarios fijos y deberá prestarse en unidades de la clase y tipo que se establezca en el Reglamento;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES TERCER PARRAFO DE LA FRACCION I], P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA, ANTES TERCER PÁRRAFO DE LA FRACCIÓN I], P.O. 22 DE AGOSTO DE 2009)</small>
 
 II.- El servicio express: es la transportación, en vehículos cerrados, de pequeños bultos y paquetes que contengan mercancía en general;
 
@@ -529,13 +535,13 @@ El ascenso y descenso de pasajeros, de carga y descarga de equipos, de mercancí
 
 Si las unidades que presten este servicio cuentan con alguna adaptación que les otorgue medidas de seguridad óptimas, a consideración de la Dirección General, podrán movilizar hasta tres pasajeros más.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 20.
 
 El servicio de transporte de personal es aquel relacionado con la prestación de un servicio en el que el transporte es accesorio del principal, como los señalados a continuación:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 I. Escolar: Es el que se presta en los vehículos idóneos, determinados por la Dirección General, que reúnan las características de seguridad y comodidad que determine el Reglamento.
 
@@ -557,7 +563,7 @@ El servicio de transporte privado considerado en esta Ley, es aquel en el cual e
 
 Los prestadores del servicio de transporte público de personas en bici taxis a moto taxis, deberán cumplir con lo dispuesto por esta Ley y su Reglamento. Dichos concesionarios sólo podrán circular en las vialidades señaladas, adaptadas y definidas por los Ayuntamientos, oyendo la opinión del Ejecutivo del Estado, a través de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
@@ -587,7 +593,7 @@ d) Servicios privados de ambulancias, y
 
 e) Distribución de bienes y servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 24.
 
@@ -611,7 +617,7 @@ ARTÍCULO 24 BIS.- El servicio de transporte de servicio social y de emergencias
 
 ARTÍCULO 24 BIS 1.- El servicio complementario al autotransporte público federal, es la autorización mediante permiso expedido por el Titular del Poder Ejecutivo, a través de la Secretaría o la Dirección General, con el propósito de que en las vías públicas de jurisdicción estatal y municipal, unidades vehiculares afectas al servicio de autotransporte público federal, presten sus servicios contratados, en especial las de carga y las de turismo, y de estas últimas las que presten el servicio de transporte de personal escolar o de trabajadores, con placa federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
@@ -637,7 +643,7 @@ A fin de satisfacer las necesidades de la población y la demanda de los usuario
 
 El servicio de transporte y el equipamiento auxiliar, se ajustarán a los lineamientos que fije la Secretaría, a través de la Dirección General, escuchando la opinión de la Secretaría de Desarrollo Urbano y de la autoridad municipal de tránsito y vialidad en lo relacionado con las modalidades del servicio de transporte público. Para su explotación, la Dirección General establecerá las condiciones de operación, el número y tipo de unidades, las rutas, horarios, frecuencias, paraderos, estaciones, centrales y demás infraestructura que resulte necesaria.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO II. De los Peatones, Pasajeros, Viajeros, Motociclistas, Choferes y Conductores del Servicio de Transporte
 
@@ -753,7 +759,7 @@ El diseño, material, tamaño, dimensiones y ubicación física de los anuncios 
 
 No será autorizada en los vehículos del servicio de transporte, la publicidad de cualquier tipo de bebidas alcohólicas, tabaco, pornografía y erotismo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO VI (SIC). Del Registro
 
@@ -807,7 +813,7 @@ II.- A solicitud formal y por escrito de autoridad competente, que funde y motiv
 
 ARTÍCULO 41 BIS 5.- De toda información, inscripción, folio o certificación que realice el Registro, deberá expedirse constancia por escrito debidamente firmada por el titular de la Dirección General o por el servidor público autorizado por la Secretaría, previa exhibición y entrega del comprobante del pago de derechos que por este concepto realice el interesado, conforme a lo que disponga la Ley de Hacienda del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ## TÍTULO TERCERO. DEL SERVICIO DE TRANSPORTE PÚBLICO
 
@@ -829,7 +835,7 @@ La Dirección General propondrá los mecanismos necesarios, como una medida prio
 
 ### CAPÍTULO II. De la Seguridad en el Transporte Público
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 44.
 
@@ -885,7 +891,7 @@ I. Encontrarse el solicitante del servicio en notorio estado de ebriedad o bajo 
 
 II. Ejecutar o hacer ejecutar a bordo de los vehículos, actos que atenten contra la tranquilidad, seguridad e integridad de los demás usuarios, del concesionario o sus conductores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 53.
 
@@ -913,7 +919,7 @@ Toda unidad vehicular afecta al servicio de transporte, deberá contar con póli
 
 ### CAPÍTULO III. De los Derechos de los Usuarios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 56.
 
@@ -999,13 +1005,13 @@ En el servicio de transporte público de pasajeros, los niños menores de cinco 
 
 Para el caso de los estudiantes, discapacitados, los adultos en plenitud y jubilados y pensionados que utilicen el servicio de transporte público colectivo, pagarán la tarifa que autorice el Ejecutivo del Estado previo acuerdo en el seno del Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO IV. De las Obligaciones de los Conductores, Concesionarios y Permisionarios del Servicio de Transporte Público
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 617, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR INTEGRADO POR NUEVE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 617, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR INTEGRADO POR NUEVE FRACCIONES.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 64.
 
@@ -1099,7 +1105,7 @@ Los titulares de las concesiones o permisos, sean personas físicas o morales, t
 
 Si una persona con discapacidad es acompañada por una persona que lo guía o auxilia, se cobrará por ambos el importe de la tarifa correspondiente a un solo pasajero.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 69.
 
@@ -1205,7 +1211,7 @@ Las terminales de transporte de pasajeros deberán quedar ubicadas fuera de la v
 
 Para la ubicación de las terminales de transporte de pasajeros o de carga y mixtos en los municipios del Estado, deberá recabarse la autorización del uso de suelo por parte de la autoridad municipal, quien conforme a su programa de desarrollo urbano, podrá recomendar su construcción en lugares determinados, y en coordinación con la Dirección de Ecología del Gobierno del Estado, la autorización relativa al impacto ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 88.
 
@@ -1243,7 +1249,9 @@ La Dirección General tendrá a su cargo la inspección y vigilancia del servici
 
 Compete a la Dirección General, la supervisión, tanto técnica como funcional, de la operación de los diversos servicios de transporte público autorizados y de las instalaciones auxiliares, sin que ello implique las instalaciones administrativas de los concesionarios y permisionarios.
 
-Así mismo, la Dirección General, a través de la Dirección y de la Dirección Operativa, de los oficiales supervisores, agentes inspectores, peritos y auditores, vigilará las unidades del servicio de transporte público, de personal y especial, en lo relativo al uso de las vías públicas.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
+Así mismo, la Dirección General, a través de la Dirección y de la Dirección Operativa, de los oficiales supervisores, agentes inspectores, agentes inspectores honorarios del transporte, peritos y auditores, vigilará las unidades del servicio de transporte público, de personal y especial, en lo relativo al uso de las vías públicas.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1251,11 +1259,13 @@ Así mismo, la Dirección General, a través de la Dirección y de la Dirección
 
 Las empresas concesionarias así como los concesionarios y permisionarios del servicio de transporte, están obligados a proporcionar a la Secretaría, cuando ésta lo solicite, los informes o datos que requiera para conocer la forma de operación y explotación de dicho servicio, en relación con las necesidades del público usuario.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 92.
 
-Para los efectos de los artículos anteriores, la Dirección General desarrollará la supervisión a través de los oficiales supervisores, agentes inspectores, auditores y peritos o elementos necesarios de la misma recabando la información que se relacione con la operación del servicio, de conformidad con esta Ley y su Reglamento.
+Para los efectos de los artículos anteriores, la Dirección General desarrollará la supervisión a través de los oficiales supervisores, agentes inspectores, agentes inspectores honorarios del transporte, auditores y peritos o elementos necesarios de la misma, recabando la información que se relacione con la operación del servicio, de conformidad con esta Ley y su Reglamento.
+
+Para efectos de los Agentes Inspectores Honorarios del Transporte, sólo podrán levantar reportes para informar a la Dirección General, sobre el comportamiento de los conductores de las unidades del servicio de transporte público, de personal y especial, en lo relativo al uso de las vías públicas, tomando datos del conductor, de la unidad, número de placas, ruta, organización a la cual pertenece la unidad, además del día, el mes y hora en la que se generó el reporte, así como el motivo del mismo.
 
 ###### ARTÍCULO 93.
 
@@ -1297,7 +1307,7 @@ Con el objeto de garantizar el eficaz cumplimiento de sus funciones, la Direcci�
 
 ### CAPÍTULO I. De las Concesiones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 95.
 
@@ -1363,7 +1373,7 @@ IX. Las demás condiciones que en su caso establezca la convocatoria, la Secreta
 
 Las personas físicas solo podrán recibir una sola concesión que amparará la prestación del servicio de transporte público, en cualquiera de sus modalidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 101.
 
@@ -1443,7 +1453,7 @@ En caso de que un trabajador que preste sus servicios a un concesionario de serv
 
 Cuando exista una necesidad de transporte emergente o extraordinario, por estar rebasada la capacidad de los prestadores del servicio de transporte público, la Dirección General, otorgará permisos a fin de satisfacer los requerimientos del público usuario. Dichos permisos únicamente tendrán vigencia hasta por tres meses improrrogables, sin que de ellos deriven derechos que el permisionario pretenda hacer valer posteriormente para reclamar la concesión del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 106.
 
@@ -1483,7 +1493,7 @@ Los comerciantes, industriales, agricultores, ganaderos, y las personas que por 
 
 Para la realización de los servicios de transporte mercantil y de personal en sus diferentes modalidades, los interesados deberán contar con un permiso autorizado por el Ejecutivo del Estado y expedido por la Dirección General, previo cumplimiento de los requisitos necesarios para el efecto y el pago de los derechos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 113.
 
@@ -1503,7 +1513,7 @@ VI. Acreditar el pago de derechos correspondientes; y
 
 VII. Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 114.
 
@@ -1523,7 +1533,7 @@ Cumplidos los requisitos señalados en los artículos anteriores a satisfacción
 
 Los titulares de los permisos, tendrán las mismas obligaciones que a los concesionarios les impone esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 117.
 
@@ -1541,7 +1551,7 @@ El servicio de transporte privado consiste en el traslado de visitantes y de sus
 
 El registro e inscripción de los vehículos de transporte privado, se comprobará mediante las placas de matrícula, la calcomanía vigente de pago de derechos vehiculares, la tarjeta de circulación y en su caso, el permiso que se requiera. Los comprobantes de registro deberán portarse en el vehículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 120.
 
@@ -1623,7 +1633,7 @@ Si agotado el plazo mencionado no se ha resuelto la petición respectiva, se ent
 
 Los derechos derivados de una concesión, el equipamiento auxiliar de transporte, los bienes muebles e inmuebles, las unidades y sus accesorios que estén afectos a la prestación del servicio de transporte público de pasajeros, sólo podrán ser gravados por el concesionario, mediante la conformidad expresa y por escrito del Ejecutivo del Estado, a través de la Secretaría, sin cuyo requisito la operación que se realice no surtirá efecto legal alguno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO IV. De las Causas de Extinción, Revocación, Cancelación y Caducidad de las Concesiones y Permisos
 
@@ -1691,7 +1701,7 @@ XV. Que el concesionario o socio de la empresa concesionaria cambie su nacionali
 
 XVI. Las demás causas reguladas en el cuerpo de esta Ley y otras disposiciones jurídicas y administrativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 130.
 
@@ -1793,7 +1803,7 @@ VI. Hacerse acreedor a dos sanciones en un periodo de tres meses, cuatro sancion
 
 Las causales de extinción, previstas para las concesiones en el artículo 128 de la presente Ley, en lo conducente, generan también las de los permisos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO V. Del Procedimiento para la Extinción, Revocación y Caducidad de los Permisos
 
@@ -1829,7 +1839,7 @@ Las concesiones o permisos podrán ser rescatadas antes de su conclusión por el
 
 La persona física que haya dejado de ser titular de una concesión o permiso por enajenación o transmisión de derechos, revocación o cancelación, no podrá ser beneficiaria de otra autorización, aun en el caso que le fuere transferida o designado como beneficiario.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO VI. Del Registro Público, Mercantil, Personal y de Privado del Transporte
 
@@ -2009,11 +2019,11 @@ Deberán llevar un registro estricto de la cantidad de cursos, número de partic
 
 Es obligación de las personas físicas o morales que se dediquen a impartir cursos o clases de manejo, otorgar a los participantes una constancia de acreditación, que tendrá validez para tramitar por primera vez la licencia o permiso para conducir.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ## TÍTULO SEXTO. DEL SERVICIO DE TRANSPORTE PÚBLICO Y DE LA EDUCACIÓN VIAL DE PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. Del Servicio de Transporte Público y Educación Vial
 
@@ -2023,7 +2033,7 @@ Es obligación de las personas físicas o morales que se dediquen a impartir cur
 
 El servicio de transporte público deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso a las personas con discapacidad, en los términos de la legislación aplicable en esta materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 165.
 
@@ -2087,7 +2097,7 @@ Estos programas y campañas se difundirán ampliamente por los medios masivos de
 
 Las personas con discapacidad acreditadas por el Centro de Rehabilitación y Educación Especial del Sistema Estatal para el Desarrollo Integral de la Familia y el INCODIS, que posean unidades vehiculares para su traslado, podrán tramitar ante la Dirección General hasta dos juegos de placas y su respectiva calcomanía, con el distintivo universal de la discapacidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ## TÍTULO SÉPTIMO. DEL CONSEJO
 
@@ -2103,7 +2113,7 @@ El Consejo es un órgano de opinión, de consulta y concertación, con funciones
 
 Las actividades del Consejo se realizarán conforme a los lineamientos establecidos en esta Ley y demás legislación relativa aplicable.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 617, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO, PARA QUEDAR INTEGRADO POR NUEVE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 617, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR INTEGRADO POR NUEVE FRACCIONES.</small>
 
 ###### ARTÍCULO 176.
 
@@ -2181,13 +2191,13 @@ VI. Formular su reglamento interno; y
 
 VII. Las demás que sus miembros consideren necesarias para el desarrollo del transporte en la entidad.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ## TÍTULO OCTAVO. DE LAS SANCIONES
 
 ### CAPÍTULO I. De las Sanciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 179.
 
@@ -2311,7 +2321,7 @@ VI.- (DEROGADA, P.O. 22 DE AGOSTO DE 2009)
 
 Para los efectos de esta Ley, se entiende por reincidencia cuando el infractor cometa la misma violación a las disposiciones a esta Ley o su Reglamentos (sic), dos o más veces dentro del periodo de seis meses, contados a partir de la fecha en que cometió la primera infracción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ###### ARTÍCULO 182.
 
@@ -2375,7 +2385,7 @@ IV. La capacidad económica del infractor.
 
 En caso de revocación, cancelación o caducidad de la concesión, la garantía que se hubiera otorgado para su obtención se trasmitirá a favor del Estado.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2009)</small>
 
 ### CAPÍTULO II. De los Recursos
 
@@ -2433,7 +2443,7 @@ Dado en Palacio de Gobierno, a los 21 días del mes de septiembre del año dos m
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE JUNIO DE 2007.
 
@@ -2446,3 +2456,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 7 DE NOVIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Reglamento de Vialidad y Transporte del Estado de Colima, deberá ser adecuado al presente Decreto en un término de 90 días naturales a partir de su publicación en el Periódico Oficial "El Estado de Colima".
