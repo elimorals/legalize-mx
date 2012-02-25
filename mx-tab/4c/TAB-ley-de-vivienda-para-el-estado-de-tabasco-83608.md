@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-vivienda-para-el-estado-de-tabasco-83608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2012-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 25 DE FEBRERO DE 2012.</small>
 
 Ley publicada en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -129,8 +129,6 @@ XVII. Promover e incentivar la sana convivencia y conservación del entorno a lo
 
 Serán de aplicación supletoria a este ordenamiento, la Ley de Vivienda en el ámbito federal, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco, la Ley de Protección Ambiental del Estado de Tabasco, la Ley de Desarrollo Social del Estado de Tabasco y el Código Civil para el Estado de Tabasco, así como los demás ordenamientos legales relacionados en materia de vivienda.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE TABASCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 7.
 
 Para efectos de esta Ley, se entenderá por:
@@ -169,7 +167,51 @@ XVI. POLÍTICA NACIONAL DE VIVIENDA: Conjunto de disposiciones, criterios, linea
 
 XVII. PRESUPUESTO: Instrumento de planeación, dirección, ejecución y control de los recursos financieros con los que cuentan el Ejecutivo del Estado y los municipios para proporcionar las acciones de vivienda comprendidas en el Presupuesto Anual de Egresos del Estado y los presupuestos municipales;
 
-XXIX (SIC). VIVIENDA PROGRESIVA: Acción que comprende la construcción de un núcleo básico (área de usos múltiples, cocina, baño completo que incluya ducha y una recamara), con posibilidad de crecimiento por etapas. Considera las viviendas con desarrollo gradual, a partir de una unidad básica de servicios y/o un espacio habitable de usos múltiples. Su terminación definitiva se realiza por etapas de acuerdo con la disponibilidad de recursos económicos y necesidades de los propios usuarios; y
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XVIII. PROCESO HABITACIONAL: Secuencia de actividades u operaciones que contemplan la planeación, producción, distribución, infraestructura, servicios urbanos, uso y mejoramiento de las viviendas, los materiales, elementos o componentes que las integran;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XIX. PRODUCCIÓN SOCIAL DE VIVIENDA: Aquella que se realiza bajo el control de autoproductores y autoconstructores que operan sin fines de lucro y que se orientan prioritariamente a atender las necesidades habitacionales de la población de bajos ingresos, incluye aquella que se realiza por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías, sustentadas en sus propias necesidades, sus capacidades de gestión y toma de decisiones;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XX. PRODUCTOR SOCIAL DE VIVIENDA: Persona física o jurídica colectiva que produce vivienda sin fines de lucro;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXI. PROGRAMA SECTORIAL DE VIVIENDA: Instrumento técnico en materia de vivienda, que contempla la situación que impera en el ámbito habitacional, así como las políticas, estrategias, objetivos, productos y resultados a alcanzar por el Ejecutivo del Estado;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXII. PROGRAMA MUNICIPAL DE VIVIENDA: Instrumento técnico en materia de vivienda, que contempla la situación que impera en el ámbito habitacional, así como las políticas, estrategias, objetivos, productos y resultados a alcanzar por determinado municipio;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXIII. SECRETARÍA: Secretaría de Asentamientos y Obras Públicas;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXIV. SECTOR PRIVADO: Toda persona física o jurídica colectiva, productor de bienes o servicios relacionados con la vivienda, con fines preponderantemente de lucro;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXV. SECTOR PÚBLICO: Toda dependencia, entidad u organismo de la Administración Pública de cualquiera de los tres ámbitos de gobierno, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXVI. SECTOR SOCIAL: Toda persona física o jurídica colectiva, que sin fines de lucro, realicen acciones o procesos habitacionales de beneficio social;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXVII. SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE VIVIENDA: Conjunto de datos producidos por los sectores público, social y privado, organizados en el Estado, bajo una estructura conceptual predeterminada, que permite mostrar la situación de la vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia, desarrollados en Tabasco, y vinculado con el Sistema Nacional de Información de Indicadores de Vivienda;
+
+> <small>(F. DE E., P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXVIII. SUELO PARA VIVIENDA: Superficie física y legalmente susceptible a ser destinada, predominantemente al uso habitacional, conforme a las disposiciones aplicables;
+
+XXIX. VIVIENDA PROGRESIVA: Acción que comprende la construcción de un núcleo básico (área de usos múltiples, cocina, baño completo que incluya ducha y una recamara), con posibilidad de crecimiento por etapas. Considera las viviendas con desarrollo gradual, a partir de una unidad básica de servicios y/o un espacio habitable de usos múltiples. Su terminación definitiva se realiza por etapas de acuerdo con la disponibilidad de recursos económicos y necesidades de los propios usuarios; y
 
 XXX. VIVIENDA TERMINADA: Vivienda completa y acabada en un proceso continuo y único, bajo la gestión de agentes públicos y privados, cuya construcción fue ejecutada conforme a licencia de construcción y a la normatividad vigente.
 
