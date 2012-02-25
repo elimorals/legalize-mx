@@ -4,7 +4,7 @@ identifier: "COL-ley-para-el-combate-y-erradicacion-de-la-garrapata-en-la-13063"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-30"
-last_updated: "1988-07-30"
+last_updated: "2012-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY PARA EL COMBATE Y ERRADICACION DE LA GARRAPATA EN LA GANADERIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 487, PUBLICADO EN EL P.O. DE FECHA 25 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 30 de julio de 1988.
 
@@ -106,3 +108,9 @@ Diputado Presidente, PROFR. MANUEL EDMUNDO LLERENAS IBARRA. - Rúbrica.- Diputad
 Por tanto mando se imprima, publique, circule y observe.
 
 Palacio de Gobierno, Colima, Col., julio 14 de 1988.- El Gobernador Const. del Estado, LIC. ELIAS ZAMORA VERDUZCO.- Rúbrica.- El Secretario General de Gobierno, LIC. HECTOR DUEÑAS GONZALEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Colima".
