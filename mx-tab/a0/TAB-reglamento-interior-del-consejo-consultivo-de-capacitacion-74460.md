@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-consejo-consultivo-de-capacitacion-7446
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-04-15"
-last_updated: "1989-04-15"
+last_updated: "2012-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE CAPACITACION Y ADIESTRAMIENTO DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE CAPACITACION Y ADIESTRAMIENTO DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE CAPACITACIÓN Y ADIESTRAMIENTO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO DE CAPACITACIÓN Y ADIESTRAMIENTO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 25 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el sábado 15 de abril de 1989.
 
@@ -206,3 +208,15 @@ EL DELGADO FEDERAL DEL TRABAJO
 LIC. LINDORO MARISCAL PRIEGO
 
 SECRETARIO DEL CONSEJO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Consejo Consultivo de Capacitación y Adiestramiento del Estado de Tabasco, publicado en el Periódico Oficial número 4862 del 15 de Abril de 1989 y todas aquellas disposiciones que se opongan al presente Reglamento.
