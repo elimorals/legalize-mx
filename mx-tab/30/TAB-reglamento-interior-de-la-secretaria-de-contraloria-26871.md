@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-contraloria-26871"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-02"
-last_updated: "2007-12-15"
+last_updated: "2012-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE CONTRALORÍA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2012.
 
 Reglamento publicado en el suplemento del Periódico Oficial del Estado de Tabasco, el 2 de noviembre de 2002.
 
@@ -61,49 +61,47 @@ IV. Entidades.- Las entidades paraestatales, de conformidad con lo dispuesto por
 
 La SECOTAB, como Dependencia del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomienda la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 4.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la SECOTAB contará con las Direcciones Generales, Direcciones, Coordinaciones y Unidades Administrativas siguientes:
+Para el estudio, planeación y despacho de los asuntos que le competen, la SECOTAB contará con las Direcciones Generales, Direcciones y Unidades Administrativas siguientes:
 
-Secretario.
+1. Secretario.
 
-Secretaría Particular.
+1.1. Secretaría Particular.
 
-Coordinación de asesores.
+1.2. Unidad de Acceso a la Información.
 
-Unidad de Acceso a la Información.
+2. Dirección General de Normatividad, Evaluación y Contraloría Social.
 
-Dirección General de Normatividad, Evaluación y Contraloría Social.
+2.1. Dirección de Normatividad.
 
-Dirección de Normatividad.
+2.2. Dirección de Seguimiento y Evaluación del Desempeño de la Gestión Pública.
 
-Dirección de Seguimiento y Evaluación del Desempeño de la Gestión Pública.
+2.3. Dirección de Información, Orientación y Contraloría Social.
 
-Dirección de Información, Orientación y Contraloría Social.
+3. Dirección General de Auditoría de la Gestión Pública.
 
-Dirección General de Auditoría de la Gestión Pública.
+3.1. Dirección de Control y Auditoría Pública.
 
-Dirección de Control y Auditoría Pública.
+3.2. Dirección de Control y Auditaría a la Obra Pública.
 
-Dirección de Control y Auditoría a Obra Pública.
+3.3. Dirección de Contralores y Comisarios.
 
-Coordinación de Contralores y Comisarios.
+4. Dirección de Planeación, Evaluación e Informática Sectorial.
 
-Coordinación de Planeación, Evaluación e Informática Sectorial.
+5. Dirección de Administración.
 
-Coordinación de Administración, Calidad e Innovación Gubernamental.
+6. Unidad de Asuntos Jurídicos.
 
-Unidad de Asuntos Jurídicos.
+7. Dirección de Responsabilidades Administrativas
 
-Dirección de Responsabilidades Administrativas.
-
-El Secretario contará además con el número de unidades, asesores, órganos de control interno, técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo al presupuesto autorizado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 5.
 
-Al frente de cada Dirección General habrá un Titular, que se auxiliará para el cumplimiento de sus atribuciones, de los Directores, Subdirectores, Jefes de Departamento y demás personal a él jerárquicamente subordinado; las demás Unidades Administrativas dependerán directamente del Secretario.
+Al frente de cada Dirección General habrá un Titular, que se auxiliará para el cumplimiento de sus atribuciones de los Directores, Jefes de Departamento y demás personal a él jerárquicamente subordinado; las demás Unidades Administrativas dependerán directamente del Secretario.
 
 Los manuales de organización y procedimientos precisarán las estructuras orgánicas y las funciones de las áreas no previstas en este Reglamento y que conforman las Unidades Administrativas.
 
@@ -229,9 +227,9 @@ XXIV. Brindar asesoría y apoyo técnico a los órganos de control interno de lo
 
 XXV. Aplicar los criterios, normas, políticas y lineamientos que el titular del Poder Ejecutivo acuerde con la Federación para el desarrollo de las tareas de supervisión, vigilancia, control y evaluación de los recursos federales que sean aportados, transferidos, asignados y reasignados al Estado para su administración y en su caso, para los Municipios; así como vigilar el cumplimiento de los objetivos establecidos en los convenios y acuerdos respectivos y en general los que se deriven del Sistema Nacional de Control y Evaluación Gubernamental;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XXVI. Coordinar con las Secretarías de Planeación y de Administración y Finanzas el desarrollo de las tareas de evaluación del ejercicio de los recursos federales aportados, transferidos, asignados y reasignados al Estado para su administración, así como vigilar el estricto cumplimiento de los objetivos establecidos en los acuerdos y convenios respectivos y en general las que se deriven del Sistema Nacional de Control y Evaluación Gubernamental;
+XXVI. Coordinar con las Secretarías de Planeación y Desarrollo Social, y de Administración y Finanzas el desarrollo de las tareas de evaluación del ejercicio de los recursos federales aportados, transferidos, asignados y reasignados al Estado para su administración, así como vigilar el estricto cumplimiento de los objetivos establecidos en los acuerdos y convenios respectivos y en general las que se deriven del Sistema Nacional de Control y Evaluación Gubernamental;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -287,9 +285,11 @@ XXXIX. Realizar, en coordinación con la Secretaría de Administración y Finanz
 
 ### CAPÍTULO III. DE LAS UNIDADES DE APOYO
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-El Secretario contará para el mejor desempeño de sus funciones con las siguientes Unidades: Secretaría Particular, Coordinación de Asesores y las demás que autorice el Gobernador del Estado, de conformidad con el presupuesto autorizado.
+El Secretario contará para el mejor desempeño de sus funciones con una Secretaría Particular y con las demás unidades que se requieran, de conformidad con el presupuesto autorizado.
 
 ###### ARTÍCULO 10.
 
@@ -299,7 +299,9 @@ I. Apoyar al Secretario en el manejo administrativo de la SECOTAB, así como ate
 
 II. Organizar y controlar la audiencia, correspondencia, agenda de trabajo y archivo del Secretario.
 
-III. Tramitar y solicitar a la Coordinación de Administración, Calidad e Innovación Gubernamental de la SECOTAB, los recursos y servicios necesarios para el cumplimiento de las funciones del Secretario;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+III. Tramitar y solicitar a la Dirección de Administración de la SECOTAB, los recursos y servicios necesarios para el cumplimiento de las funciones del Secretario;
 
 IV. Servir de enlace informativo entre los servidores públicos de la SECOTAB y del Sector a su cargo, para dar a conocer las instrucciones que gire el Secretario;
 
@@ -315,41 +317,17 @@ IX. Todas las que sean necesarias para el mejor cumplimiento de las funciones de
 
 ###### ARTÍCULO 11.
 
-Al frente de la Coordinación de Asesores, habrá un Coordinador que tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 25 DE FEBRERO DE 2012)
 
-I. Coordinar el cuerpo de asesores permanentes o eventuales, según requerimiento específico de la SECOTAB;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2012)</small>
 
-II. Presentar dictámenes o propuestas de acuerdos, en que se contengan la solución a temas, asuntos o problemas que le asigne el Secretario para su estudio;
+### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES, UNIDADES Y ÓRGANOS DE CONTROL INTERNO
 
-III. Asesorar a los responsables de las áreas operativas de la SECOTAB, y a los órganos de control de las Dependencias y Entidades, en la resolución de problemas específicos;
-
-IV. Acordar con el Secretario el despacho de los asuntos relevantes de las Unidades Administrativas adscritas a su cargo;
-
-V. Sugerir el desarrollo e implementación de programas y actividades que sirvan de apoyo al cumplimiento de los objetivos de la SECOTAB;
-
-VI. Servir de enlace entre el Secretario y los Titulares de las Dependencias Federales o Estatales con las que interactúa la SECOTAB, para la organización de audiencias, reuniones eventos o diálogos necesarios para el cumplimiento de sus atribuciones;
-
-VII. Recopilar la información para integración de los Acuerdos del Secretario con el Gobernador, así como integrar la información requerida para las comparecencias del Secretario;
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
-
-VIII. Fungir como enlace de los procesos de mejoramiento continuo de las diferentes áreas de la SECOTAB, para obtener las certificaciones y reconocimientos que correspondan;
-
-IX. Integrar, analizar y dar seguimiento al informe mensual y trimestral que reportan las diferentes áreas de la SECOTAB, con respecto a su Programa Anual de Trabajo y elaborar el Reporte de Actividades Mensual y Trimestral.
-
-X. Recopilar e integrar la información de la SECOTAB que formará parte del informe de Gobierno; y
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
-
-XI. Las demás que le encomiende el Secretario.
-
-### CAPÍTULO IV
-
-DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES, COORDINACIONES, UNIDADES Y ÓRGANOS DE CONTROL INTERNO.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
-Al frente de cada Dirección General, Dirección, Coordinación u Órgano de Control Interno, habrá un Titular quien para el desempeño de sus funciones se auxiliará con el personal que determine este Reglamento y que por necesidades del servicio requieran, siempre y cuando se encuentre dentro del presupuesto de egresos asignado a la Dependencia.
+Al frente de cada Dirección General, Dirección u Órganos de Control Interno y demás Unidades, habrá un Titular, quien para el desempeño de sus funciones se auxiliará con el personal que determine este Reglamento y que por necesidades del servicio requieran, siempre y cuando se encuentre dentro del presupuesto de egresos asignado a la Dependencia.
 
 Para ser Director General, Director, Coordinador o Titular del Órgano de Control Interno, se requiere lo siguiente:
 
@@ -365,11 +343,15 @@ V. No haber sido condenado por delito doloso que merezca pena corporal; y
 
 VI. Contar, preferentemente, con estudios profesionales relativos al ejercicio de las atribuciones que le competen a la Unidad de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde a los Titulares de las Direcciones Generales, Direcciones, Coordinaciones y demás Unidades de la SECOTAB, el ejercicio de las siguientes atribuciones:
+Corresponde a los Titulares de las Direcciones Generales, Direcciones, Órganos de Control Interno y demás Unidades de la SECOTAB, el ejercicio de las siguientes atribuciones:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar, el desempeño de las funciones encomendadas a la Dirección General, Dirección, Unidad o Coordinación a su cargo;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la Dirección General, Dirección, Órganos de Control Interno o Unidad a su cargo;
 
 II. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de las áreas administrativas bajo su cargo;
 
@@ -387,29 +369,37 @@ VIII. Someter a la aprobación del Secretario aquellos estudios y proyectos de d
 
 IX. En el ámbito de su competencia proponer las modificaciones normativas en materia de recursos financieros, materiales y humanos, considerando en su elaboración, los criterios de transparencia, eficacia, eficiencia, honradez, orden y efectividad, con el objeto de atender las demandas ciudadanas y de promoción de modernización administrativa;
 
-X. Coordinarse con los Titulares de las otras Direcciones, Unidades o Coordinaciones de la SECOTAB, cuando así se requiera para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+X. Coordinarse con los Titulares de las otras Direcciones Generales, Direcciones, Órganos de Control Interno y Unidades de la SECOTAB, cuando así se requiera para el desempeño de sus funciones;
 
 XI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
 XII. Proporcionar asesoría técnica en los asuntos de su competencia, a los servidores públicos que lo soliciten;
 
-XIII. Proponer al Secretario, la contratación, promoción y adscripción del personal de la Dirección General, Dirección, Unidad o Coordinación a su cargo, así como en la contratación del servicio profesional externo que fuese necesario;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XIII. Proponer al Secretario la contratación, promoción y adscripción del personal de la Dirección General, Dirección, Órganos de Control Interno y Unidad a su cargo, así como en la contratación del servicio profesional externo que fuese necesario;
 
 XIV. Proporcionar la información, datos o la cooperación técnica que le sean requeridos por otras Dependencias o Entidades de la Administración Pública, de acuerdo a las normas y políticas que hubiere expedido y señalado el Secretario, de igual manera a los Municipios en términos de los convenios y acuerdos relativos;
 
 XV. En el ámbito de sus atribuciones, establecer criterios, vigilar, apoyar, asesorar y en general contribuir con los medios a su alcance, para que los Órganos de Control de las Dependencias y Entidades, lleven a cabo sus funciones de control, vigilancia y evaluación con estricto apego a la normatividad aplicable, verificando el cumplimiento de sus fines y metas. De considerarlo necesario, ejercer sus facultades como áreas centrales, solicitando los informes y comprobaciones que estimen pertinentes;
 
-XVI. Rendir por escrito los informes semanal, mensual y anual de las actividades realizadas por la Dirección General, Dirección, Unidad o Coordinación a su cargo, así como los requeridos eventualmente y presentarlos al Secretario;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XVII. Delegar mediante oficio, en Director, Subdirector o Jefe de Departamento; las funciones que tiene a su cargo, salvo aquellas que por disposición legal expresa no lo sean.
+XVI. Rendir por escrito los informes semanal, mensual y anual de las actividades realizadas, así como los requeridos eventualmente y presentarlos al Secretario;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XVII. Delegar mediante oficio, en Directores, Órganos de Control Interno, Titulares de Unidades o Jefes de Departamentos, las funciones que tiene a su cargo, salvo aquellas que por disposición legal expresa no lo sean;
 
 XVIII. Vigilar que en los asuntos de su competencia se de cumplimiento a los ordenamientos legales y a las disposiciones aplicables; y
 
 XIX. Las demás que les confieran otras disposiciones legales, este Reglamento y aquellas que expresamente les encomiende el Secretario.
 
-### CAPÍTULO V
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2012)</small>
 
-DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES, UNIDADES Y COORDINACIONES.
+### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y UNIDADES
 
 ###### ARTÍCULO 14.
 
@@ -663,7 +653,7 @@ V. Llevar el control y seguimiento de las observaciones determinadas en las audi
 
 VI. Practicar las auditorías y visitas de inspección en los términos del artículo 84 de la Ley de Responsabilidades de los Servidores Públicos, en coordinación con la Dirección de Responsabilidades Administrativas;
 
-VII. Fijar las normas y objetivos de las auditorías externas que se practiquen a la Administración Pública;
+VII. (DEROGADA, P.O. 25 DE FEBRERO DE 2012)
 
 VIII. Comprobar, mediante revisiones o inspecciones directas y selectivas, el cumplimiento por parte de la Administración Pública, de las disposiciones legales en la materia a que se refiere el artículo 37 fracción XVIII de la Ley Orgánica del Poder Ejecutivo;
 
@@ -671,23 +661,29 @@ IX. Coordinarse con las demás Direcciones de la SECOTAB a fin de contar con la 
 
 X. Verificar selectivamente que la Administración Pública ajuste sus actos a las disposiciones legales aplicables, en el despacho de los asuntos de su competencia;
 
-XI. Realizar verificaciones para comprobar la veracidad de la información financiera de la Administración Pública;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XI. Realizar verificaciones selectivas para comprobar la veracidad de la información financiera de la Administración Pública;
 
 XII. Llevar a cabo las acciones que fueren necesarias para el mejoramiento de la eficiencia y logro de sus objetivos en las operaciones de la Administración Pública;
 
-XIII. Verificar que la operación de la Administración Pública, sea congruente con los procesos aprobados de planeación, programación y presupuestación;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XIII. Verificar selectivamente, que la operación de la Administración Pública, sea congruente con los procesos aprobados de planeación, programación y presupuestación;
 
 XIV. Supervisar que las adquisiciones que realice el Poder Ejecutivo del Estado, sean favorables a su economía, procurándose que la cantidad y calidad de los bienes adquiridos correspondan a sus necesidades reales;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XV. Proporcionar a la Dirección de Responsabilidades Administrativas, los elementos y documentos necesarios para la instrumentación de los procedimientos que correspondan a fin de separar de su encargo y sancionar a los servidores públicos responsables de irregularidades en el manejo, custodia o administración de los fondos y valores del Poder Ejecutivo del Estado;
+XV. Proporcionar a la Dirección de Responsabilidades Administrativas, a través de la Dirección General de Auditoría de Gestión Pública, los elementos y documentos necesarios para la instrumentación de los procedimientos que correspondan a fin de separar de su encargo y sancionar a los servidores públicos responsables las irregularidades en el manejo, custodia o administración de los fondos y valores del Poder Ejecutivo del Estado;
 
 XVI. Supervisar la impresión, envío, custodia y destrucción de valores:
 
 XVII. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de las áreas bajo su cargo;
 
-XVIII. Supervisar que los órganos de Control cumplan con las normas generales de auditoría pública y las normas, políticas y procedimientos que establezca la SECOTAB, verificando que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XVIII. Supervisar que se cumplan con las normas generales de auditoría pública y las normas, políticas y procedimientos que establezca la SECOTAB, verificando que:
 
 a. Las auditorías que realicen, se efectúen con cuidado y diligencia razonable;
 
@@ -699,29 +695,35 @@ XIX. Preparar el informe que al Secretario corresponda rendir periódicamente al
 
 XX. Analizar el contenido de los informes derivados de la práctica de auditorías internas y externas a las Dependencias y Entidades de la Administración Pública, y conforme a sus resultados, proponer a las instancias correspondientes las acciones y medidas respectivas que sean necesarias;
 
-XXI. Informar a los Coordinadores de Sector y a los Titulares de los Órganos de Control Interno de la Administración Pública Estatal, sobre los resultados de las revisiones e inspecciones efectuadas, para la instrumentación de las acciones y medidas correctivas que sean pertinentes;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+XXI. Informar a los Titulares de las Dependencias, Órganos y Entidades de la Administración Pública, sobre los resultados de las revisiones e inspecciones efectuadas, para la instrumentación de las acciones y medidas correctivas que sean pertinentes;
 
-XXII. Cuando de las investigaciones y auditorías que se hubieren practicado, se detectaren presuntas responsabilidades de los servidores públicos, deberá turnar los expedientes a las Contralorías Internas de las Dependencias de la Administración Pública Estatal y al Coordinador Sectorial de las Entidades Paraestatales respectivas en los casos de su competencia, o al Director de responsabilidades administrativas cuando competa a la propia Secretaría, para imponer las sanciones que corresponda en los términos de la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables, o bien a efectos de proceder a formular las denuncias por la comisión de hechos de probable carácter delictuoso;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XXIII. Vigilar el pago de bonificaciones a cargo de proveedores sobre pedido de adquisición de bienes en los que resultaren diferencias con motivo de los precios autorizados, en base a los dictámenes formulados, en consulta con la Dirección de Normatividad y Unidad de Asuntos Jurídicos de la SECOTAB, de conformidad con las disposiciones legales conducentes;
+XXII. Cuando de las investigaciones y auditorías que se hubieren practicado, se detectaren presuntas responsabilidades de los servidores públicos, deberá turnar los expedientes a la Dirección General de Auditoría de la Gestión Pública para que esta a su vez los remita a la Dirección de Responsabilidades Administrativas, cuando competa a la propia Secretaría, para imponer las sanciones que corresponda en los términos de la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones legales aplicables, o bien a efectos de proceder a formular las denuncias por la comisión de hechos de probable carácter delictuoso.
 
-XXIV. Formular y establecer en coordinación con las direcciones correspondientes, los sistemas de control y vigilancia de los programas y obras, derivados del Convenio de Desarrollo Social;
+XXIII. (DEROGADA, P.O. 25 DE FEBRERO DE 2012)
+
+XXIV. (DEROGADA, P.O. 25 DE FEBRERO DE 2012)
 
 XXV. Vigilar que la Administración Pública, cumpla con las disposiciones contenidas en los acuerdos y convenios de coordinación celebrados entre el Ejecutivo del Estado y los Ayuntamientos de la Entidad, de donde se derive la inversión de recursos estatales y supervisar la correcta aplicación de los mismos; cuando se trate de recursos federales, se deberá tomar en cuenta los convenios de coordinación celebrados con la Federación;
 
 XXVI. Fiscalizar selectivamente el uso de los fondos federales aportados al Estado, a través de los programas de inversión ejecutados en la Entidad;
 
-XXVII. Intervenir en todo cambio de servidores públicos de la Administración Pública en base a las disposiciones correspondientes;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXVII. Participar en los actos de Entrega-Recepción de las Dependencias y Entidades de la Administración Pública, en los términos de la legislación y normatividad respectiva;
 
 XXVIII. Con base en el resultado de sus auditorías o visitas de inspección, proponer las acciones que fueren necesarias para la corrección de situaciones ilegales o anómalas; el mejoramiento de la eficiencia y el logro de los objetivos de la Administración Pública; y
 
 XXIX. Las demás que las disposiciones legales le confieran expresamente, las que le delegue para su cumplimiento el Director General, así como aquellas que le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Corresponde al Director de Control y Auditoría a Obra Pública, el ejercicio de las siguientes atribuciones:
+Corresponde al Director de Control y Auditoría a la Obra Pública, el ejercicio de las siguientes atribuciones:
 
 l. Vigilar que el ejercicio del gasto en materia de Obras Públicas en el Estado, se ejerza conforme a la planeación, programación y presupuestación aprobada;
 
@@ -781,51 +783,57 @@ XXII. Integrar y actualizar el Padrón de Contratistas del Estado de Tabasco; y
 
 XXIII. Las demás que las disposiciones legales le confieran expresamente, las que le delegue para su cumplimiento el Director General, así como aquellas que le encomiende el Secretario.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 21.
 
-La Coordinación de Contralores y Comisarios, estará a cargo de un Coordinador el cual tendrá las siguientes atribuciones:
+La Dirección de Contralores y Comisarios, estará a cargo de un Director, el cual tendrá las siguientes atribuciones:
 
-I. Requerir a los Titulares de los Órganos de Control, el programa anual de trabajo para su aprobación, como proponer los requisitos que deban cubrir sus programas de trabajo, así como proponer las normas que regulen el funcionamiento de los Contralores y Comisarios;
+I. Requerir a los Titulares de los Órganos de Control Interno y Comisarios, el programa anual de trabajo para su aprobación, proponer los requisitos que deberán cubrir sus programas de trabajo, así como proponer las normas que regulen el funcionamiento de los Contralores y Comisarios;
 
-II. Solicitar a las unidades correspondientes la elaboración de estudios que apoyen la actuación de los Órganos de Control Interno o Comisarios designados por la Secretaría;
+II. Solicitar a las unidades correspondientes la elaboración de estudios que apoyen la actuación de los Órganos de Control Interno y Comisarios designados por la Secretaría;
 
-III. Elaborar objetivos, propuestas y acciones prioritarias de control, de conformidad con las sugerencias de los Órganos de Control Interno o Comisarios;
+III. Elaborar objetivos, propuestas y acciones prioritarias de control, de conformidad con las sugerencias de los Órganos de Control Interno y Comisarios;
 
 IV. Controlar y evaluar el desempeño y las actividades de los Órganos de Control Interno y los Comisarios;
 
-V. Comprobar la observancia de las normas, políticas, procedimientos y programas que regulen el funcionamiento de los Órganos de Control Interno de la Administración Pública, expedidas por la propia Secretaría;
+V. Comprobar la observancia de las normas, políticas, procedimientos y programas que regulen el funcionamiento de los Órganos de Control Interno y Comisarios de la Administración Pública, expedidas por la propia Secretaría;
 
-VI. Integrar las propuestas de los Órganos de Control, para mejorar la normatividad y el desempeño de la Administración Pública, de conformidad con los resultados observados y coordinar con las áreas correspondientes de la SECOTAB las acciones de adecuación y mejoramiento de la gestión pública, que resultasen pertinentes;
+VI. Integrar las propuestas de los Órganos de Control Interno y Comisarios para mejorar la normatividad y el desempeño de la Administración Pública, de conformidad con los resultados observados y coordinar con las áreas correspondientes de la SECOTAB las acciones de adecuación y mejoramiento de la gestión pública que resultasen pertinentes;
 
-VII. Vigilar que los procesos de desincorporación de las Entidades se lleven a cabo de conformidad con la normatividad que se emita;
+VII. Integrar y remitir al Secretario, los informes que formulen los Titulares de los Órganos de Control Interno y Comisarios;
 
-VIII. Integrar y remitir al Secretario, los informes que formulen los Titulares de los Órganos de Control Interno;
+VIII. Requerir de las Contralorías Internas y Comisarios la información relacionada con el desempeño de sus funciones, de acuerdo con los lineamientos correspondientes;
 
-IX. Opinar sobre la modificación de estructura orgánica y presupuestal de la Administración Pública;
+IX. Fijar las normas y objetivos de las auditorías externas que se practiquen a la Administración Pública;
 
-X. Requerir de las Contralorías Internas la información relacionada con el desempeño de sus funciones, de acuerdo con los lineamientos correspondientes; y (sic)
+X. Elaborar y actualizar los requisitos para el registro de prestadores de servicios profesionales de auditoría externa e integrar y actualizar el padrón correspondiente;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+XI. Elaborar y actualizar los lineamientos generales para la preparación y entrega de los informes de auditoría externa;
 
-XI. Verificar que los informes o documentos de auditoría externa se elaboren conforme a la metodología y técnica aplicables; y vigilar que se presenten conforme a los lineamientos establecidos por la SECOTAB;
+XII. Verificar que los informes o documentos de auditoría externa se elaboren conforme a la metodología y técnica aplicables y vigilar que se presenten conforme a los lineamientos establecidos por la SECOTAB;
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+XIII. Practicar revisiones y auditorías específicas a las diversas Dependencias y Entidades de la Administración Pública, de acuerdo a las necesidades de la gestión pública, encomendadas por el Secretario o Director General;
 
-XII. Llevar el control y seguimiento de las observaciones determinadas en las auditorías externas y especiales de su competencia; y
+XIV. Llevar el control y seguimiento de las observaciones determinadas en las revisiones y auditorías externas y especificas de su competencia;
 
-XIII. Las demás que las disposiciones legales le confieran expresamente, las que le delegue para su cumplimiento el Director General, así como aquellas que le encomiende el Secretario.
+XV. Integrar la información interna sobre los resultados de las auditorías realizadas por las diversas áreas de la SECOTAB, de acuerdo a la Ley de Transparencia y Acceso a la Información; y
+
+XVI. Las demás que las disposiciones legales le confieran expresamente, las que le delegue para su cumplimiento el Director General, así como aquellas que le encomiende el Secretario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 22.
 
-Corresponde al Coordinador de Planeación, Evaluación e Informática Sectorial, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Planeación, Evaluación e Informática Sectorial, el ejercicio de las siguientes atribuciones:
 
 I. Proponer al Secretario, los lineamientos en materia de equipamiento de tecnología de información, comunicaciones y desarrollo de sistemas, con sujeción a las políticas y normas técnicas, a efecto de armonizar el desarrollo informático al interior de la SECOTAB y su comunicación en su caso, con la Administración Pública;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-II. De conformidad con los lineamientos que establezca la Secretaría de Planeación y la Dirección General de Modernización e Innovación Gubernamental de la Secretaría de Administración y Finanzas en lo que corresponde a sus funciones globalizadoras; administrar y coordinar los sistemas de programación, comunicación, información y evaluación del Sector responsabilidad de la Secretaría ó aquellos que se realicen con otras Dependencias, conduciendo sus actividades en forma programada, en congruencia con sus atribuciones y con base en las políticas, prioridades y restricciones que establezca en términos de las leyes el Poder Ejecutivo, para el logro de los objetivos y metas de los planes y programas de desarrollo;
+II. De conformidad con los lineamientos que establezca la Secretaría de Planeación y Desarrollo Social y la Dirección General de Modernización e Innovación Gubernamental de la Secretaría de Administración y Finanzas en lo que corresponde a sus funciones globalizadoras; administrar y coordinar los sistemas de programación, comunicación, información y evaluación del Sector responsabilidad (sic) de la Secretaría ó aquellos que se realicen con otras Dependencias, conduciendo sus actividades en forma programada, en congruencia con sus atribuciones y con base en las políticas, prioridades y restricciones que establezca en términos de las leyes el Poder Ejecutivo, para el logro de los objetivos y metas de los planes y programas de desarrollo;
 
-III. Participar en la Administración de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, tanto Federales como Estatales. Igualmente, con respecto a la Administración de la Red lntergubernamental de Internet del Poder Ejecutivo;
+III. Participar en la Administración de los sistemas informáticos gubernamentales vinculados directamente con sus atribuciones, tanto Federales como Estatales. Igualmente, con respecto a la Administración de la Red Intergubernamental de Internet del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -861,7 +869,7 @@ XVIII. Implementar estrategias para proporcionar servicios de Internet a la SECO
 
 XIX. Establecer medidas para garantizar la seguridad y confidencialidad de la información, de los sistemas y de los equipos de cómputo de la SECOTAB;
 
-XX. Colaborar en el ámbito de su competencia en la formulación de propuestas de compilación magnética y sistemas de consultas a leyes, reglamentos, decretos, acuerdos y demás disposiciones de interés relacionada con la SECOTAB;
+XX. Colaborar en el ámbito de su competencia en la formulación de propuestas de compilación magnética y sistemas de consultas a leyes, reglamentos, decretos, acuerdos y demás disposiciones de interés relacionada (sic) con la SECOTAB;
 
 XXI. Planear, programar, presupuestar, organizar, dirigir, y evaluar el funcionamiento de las áreas administrativas bajo su cargo;
 
@@ -871,9 +879,11 @@ XXII. Diseñar, desarrollar e implementar las medidas necesarias para el adecuad
 
 XXIII. La (sic) demás que le señale el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 23.
 
-Corresponde al Coordinador de Administración, Calidad e Innovación Gubernamental, el ejercicio de las siguientes atribuciones:
+Corresponde al Director de Administración, el ejercicio de las siguientes atribuciones:
 
 l. Instrumentar e integrar, con la participación de las distintas Unidades de la SECOTAB, los programas de selección, capacitación y desarrollo de personal, y coordinar los estudios necesarios sobre análisis y evaluación de puestos, políticas de sueldos, salarios e incentivos, así como operar el sistema de remuneraciones al personal de la Secretaría;
 
@@ -921,7 +931,9 @@ XIX. Realizar el análisis de la estructura orgánica y ocupacional de la SECOTA
 
 XX. Planear y conducir la política de desarrollo del personal, definir los puestos tipo y establecer los perfiles y requerimientos de los mismos conforme a los lineamientos emitidos por la Secretaría de Administración y Finanzas;
 
-XXI. Atender de manera conjunta con la Coordinación de Planeación, Evaluación e Informática Sectorial el manejo y modernización de los sistemas en materia de recursos humanos, financieros, materiales y los servicios generales;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XXI. Atender de manera conjunta con la Dirección de Planeación, Evaluación e Informática Sectorial, el manejo y modernización de los sistemas en materia de recursos humanos, financieros, materiales y los servicios generales;
 
 XXII. Realizar análisis e informes sobre los requerimientos y el comportamiento del gasto público de la SECOTAB, así como colaborar en la integración de los programas, anteproyecto de presupuesto de egresos, para su análisis correspondiente y su vinculación con los proyectos de presupuesto de ingresos y de gasto público; y
 
@@ -933,7 +945,9 @@ XXIII. Las demás que le señale el Secretario.
 
 Corresponde al Titular de la Unidad de Asuntos Jurídicos, el ejercicio de las siguientes atribuciones:
 
-I. Representar al Secretario, ante autoridades Federales, Estatales o Municipales, en toda clase de procedimientos administrativos o jurisdiccionales en que se requiera su intervención;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+I. Representar al Secretario, ante autoridades Federales, Estatales o Municipales, en toda clase de procedimientos administrativos o jurisdiccionales en que se requiera su intervención, incluyendo la facultad de representación en todos los trámites del juicio de amparo;
 
 II. Fijar, sistematizar y difundir los criterios de interpretación y de aplicación de las leyes y de otras disposiciones jurídicas que normen el funcionamiento de la SECOTAB;
 
@@ -945,7 +959,7 @@ V. Certificar copias de los documentos que se encuentren en los archivos de la S
 
 VI. Asesorar jurídicamente al Secretario y demás servidores públicos de la SECOTAB, actuando como órgano de consulta a efectos de fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que norman el funcionamiento de la misma;
 
-VII. Ser parte de la “Comisión de Estudios Jurídicos de la Administración Pública Estatal”, a fin de impulsar los estudios e investigaciones en la materia, así como el desarrollo jurídico de la referida Administración;
+VII. Ser parte de la "Comisión de Estudios Jurídicos de la Administración Pública Estatal", a fin de impulsar los estudios e investigaciones en la materia, así como el desarrollo jurídico de la referida Administración;
 
 VIII. Formular los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, convenios, contratos, circulares y demás disposiciones de carácter general que sean de la competencia de la SECOTAB y los que deba suscribir el Secretario, y en su caso, opinar sobre los documentos de esta índole elaborados en otras Unidades Administrativas;
 
@@ -977,7 +991,9 @@ XX. Las demás que le señalen otras disposiciones legales, las que le sean dele
 
 ARTÍCULO 24 Bis A.- Corresponde a la Dirección de Responsabilidades Administrativas, el ejercicio de las siguientes atribuciones:
 
-I. Representar al Secretario, ante autoridades Federales, Estatales o Municipales en toda clase de procedimientos que deriven de asuntos de responsabilidad administrativa;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+I. Representar al Secretario, ante autoridades Federales, Estatales o Municipales en toda clase de procedimientos que deriven de asuntos de responsabilidad administrativa, incluyendo la facultad de representación en todos los trámites del juicio de amparo;
 
 II. Planear, programar, presupuestar, organizar, dirigir y evaluar el funcionamiento de las áreas administrativas bajo su cargo;
 
@@ -1005,7 +1021,7 @@ XIII. Instruir y resolver los recursos de revocación y demás recursos administ
 
 XIV. Contestar a nombre del Secretario, las demandas formuladas ante el Tribunal de lo Contencioso Administrativo; así como ofrecer y desahogar pruebas, interponer recursos y representarlo en el juicio correspondiente, derivados de los procedimientos administrativos de responsabilidad;
 
-XV. Actuar en lo(sic) juicios en los que la SECOTAB sea parte e interponer toda clase de recursos o medios de impugnación interviniendo en el cumplimiento de las resoluciones respectivas;
+XV. Actuar en lo (sic) juicios en los que la SECOTAB sea parte e interponer toda clase de recursos o medios de impugnación interviniendo en el cumplimiento de las resoluciones respectivas;
 
 XVI. Elaborar, los informes en los juicios de amparo cuando estos sean resultantes de procedimientos administrativos de responsabilidad, realizando las funciones de delegado a que se refiera la Ley de Amparo, interponer toda clase de recursos o medios de impugnación, así como actuar en los juicios en que la Secretaría fuere parte e intervenir para el cumplimiento de las resoluciones respectivas;
 
@@ -1031,7 +1047,7 @@ XXVI. Expedir a solicitud de la Administración Pública o de particulares, las 
 
 XXVII. Llevar el registro de los bienes que reciban los servidores públicos en el desempeño de su encargo, en los casos previstos por la Ley de Responsabilidades de los Servidores Públicos;
 
-XXVIII. Ser parte de la “Comisión de Estudios Jurídicos de la Administración Pública Estatal”, a fin de impulsar los estudios e investigaciones en la materia, así como el desarrollo jurídico de la referida Administración; y
+XXVIII. Ser parte de la "Comisión de Estudios Jurídicos de la Administración Pública Estatal", a fin de impulsar los estudios e investigaciones en la materia, así como el desarrollo jurídico de la referida Administración; y
 
 XXIX. Las demás que se señalen en otros ordenamientos legales y las que le encomiende el secretario.
 
@@ -1077,15 +1093,21 @@ XVII. Las demás que establezcan otras disposiciones legales y las que le encomi
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS CONTRALORES INTERNOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 25.
 
-Los Contralores Internos de las Dependencias serán responsables administrativamente de los actos u omisiones que realicen en ejercicio de su cargo, dependerán jerárquica y funcionalmente de la Coordinación de Contralores y Comisarios y tendrán las siguientes atribuciones:
+Los Contralores Internos de las Dependencias serán responsables administrativamente de los actos u omisiones que realicen en ejercicio de su cargo, dependerán jerárquica y funcionalmente de la Dirección de Contralores y Comisarios, y tendrán las siguientes atribuciones:
 
 I. Representar a la SECOTAB ante la Dependencia de su adscripción, en los asuntos de su competencia;
 
-II. Vigilar el cumplimiento de los programas y subprogramas, por parte de las Unidades Administrativas de la SECOTAB de su adscripción y elaborar los reportes y evaluaciones correspondientes;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-III. Realizar bajo la dirección de la Coordinación de Contralores y Comisarios, revisiones administrativas y operacionales tendentes a verificar el cumplimiento de las normas y disposiciones relacionadas con el sistema de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes, y demás activos asignados a la Dependencia de su adscripción;
+II. Vigilar el cumplimiento de los programas y subprogramas, por parte de las Unidades Administrativas de la Dependencia de su adscripción, y elaborar los reportes y evaluaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+III. Realizar, bajo la conducción de la Dirección de Contralores y Comisarios, revisiones administrativas y operacionales tendentes a verificar el cumplimiento de las normas y disposiciones relacionadas con el sistema de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes, y demás activos asignados a la Dependencia de su adscripción;
 
 IV. Proponer al Secretario, la realización de revisiones, evaluaciones y auditorías contables, técnicas y jurídicas a la Dependencia en que se encuentre adscrito;
 
@@ -1099,45 +1121,55 @@ VIII. Substanciar los procedimientos administrativos, y aplicar en su caso, por 
 
 IX. Recibir y tramitar ante la instancia que proceda, las inconformidades que se presenten, en los términos de las disposiciones aplicables, con motivo de los procedimientos que para la adjudicación de pedidos o contratos lleve a cabo la Dependencia de su adscripción;
 
-X. Participar en los Subcomités y Comités de Compras de las Dependencias y Entidades a las que se encuentren adscritos, en los términos que al respecto establezcan los ordenamientos jurídicos en la materia;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XI. Colaborar en el seguimiento y verificación de la formulación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Dependencia;
+X. Participar en los Subcomités y Comités de Compras de las Dependencias a las que se encuentren adscritos, en los términos que al respecto establezcan los ordenamientos jurídicos en la materia;
 
-XII. Difundir entre el personal de la dependencia de su adscripción, toda disposición en materia de control que deba ser observada en el desarrollo de sus labores;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XI. Colaborar en el seguimiento y verificación de la formulación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Dependencia de su adscripción;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XII. Difundir entre el personal de la Dependencia de su adscripción, toda disposición en materia de control que deba ser observada en el desarrollo de sus labores;
 
 XIII. Participar en la instrumentación y supervisión del Sistema de Control, Evaluación y Auditoría Gubernamental, con la información y programas específicos de su responsabilidad;
 
-XIV. Efectuar bajo la dirección de la Coordinación de Contralores y Comisarios, las funciones encaminadas a la evaluación y auditoría gubernamental de la Dependencia o Entidad a la que se encuentren adscritos;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
 
-XV. Realizar bajo la dirección de la Coordinación de Contralores y Comisarios las funciones preventivas de control y evaluación en las Dependencias y Organismos a los que estén asignados;
+XIV. Efectuar bajo la conducción de la Dirección de Contralores y Comisarios, las funciones encaminadas a la evaluación y auditoría gubernamental de la Dependencia o Entidad a la que se encuentren adscritos;
 
-XVI. Informar al Coordinador, el resultado de las acciones, o funciones que se le encomienden y sugerir la instrumentación de normas complementarias, así como el programa anual de trabajo, y su avance, propuestas para mejorar la normatividad y el desempeño de las Dependencias y Entidades, los informes de auditoría que elaboren y todas las funciones relacionadas con el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XV. Realizar bajo la conducción de la Dirección de Contralores y Comisarios las funciones preventivas de control y evaluación en las Dependencias y Organismos a los que estén asignados;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2012)</small>
+
+XVI. Informar al Director el resultado de las acciones o funciones que se le encomienden y sugerir la instrumentación de normas complementarias, así como el programa anual de trabajo y su avance, propuestas para mejorar la normatividad y el desempeño de las Dependencias y Entidades, los informes de auditoría que elaboren y todas las funciones relacionadas con el desempeño de sus funciones; y
 
 XVII. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Secretario.
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LOS COMISARIOS
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 26.
 
 Corresponde a los Comisarios Públicos, el ejercicio de las siguientes atribuciones:
 
-I. Asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del órgano de gobierno de las Entidades a las cuales se encuentren adscritos. Pudiendo asistir a las sesiones de los Comités y Subcomités Técnicos Especializados;
+I. Asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del órgano de gobierno de las Entidades Paraestatales a las cuales se encuentren adscritos, pudiendo asistir a las sesiones de los Comités y Subcomités Técnicos Especializados;
 
-II. Vigilar el cumplimiento de las disposiciones legales, así como de las reglamentarias, administrativas y de políticas en general y sectorial que emita el Ejecutivo Estatal o sus Dependencias en relación con las Entidades Paraestatales;
+II. Vigilar el cumplimiento de las disposiciones legales, así como de las reglamentarias, administrativas y de políticas en general y sectorial que emita el Ejecutivo Estatal o sus Dependencias en relación con las Entidades Paraestatales de su adscripción;
 
-III. Vigilar el cumplimiento de las disposiciones y los lineamientos relativas al Sistema de Control, Evaluación y Auditoría Gubernamental, a través del Programa de Control Preventivo y Correctivo de la misma;
+III. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al Sistema de Control, Evaluación y Auditoría Gubernamental, a través de un Programa de Control Preventivo y Correctivo de la misma;
 
-IV. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuestación de las Entidades Paraestatales;
+IV. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuestación de las Entidades Paraestatales de su adscripción;
 
-V. Vigilar que las Entidades Paraestatales conduzcan sus actividades conforme al programa sectorial correspondiente, así como que cumplan con lo previsto en el programa institucional;
+V. Vigilar que las Entidades Paraestatales de su adscripción, conduzcan sus actividades conforme al programa sectorial correspondiente, así como que cumplan con lo previsto en el programa institucional;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2007)</small>
+VI. Promover y vigilar que las Entidades Paraestatales de su adscripción, establezcan indicadores básicos de gestión en materia de operación, productividad, finanzas y de impacto social, que permitan medir y evaluar su desempeño;
 
-VI. Promover y vigilar que las Entidades establezcan indicadores básicos de gestión en materia de operación, productividad, finanzas y de impacto social, que permitan medir y evaluar su desempeño;
-
-VII. Con base en los resultados que les sean proporcionados sobre las autoevaluaciones de las Entidades, opinar respecto de su desempeño en general;
-
-La opinión respectiva deberá presentarse por escrito al Órgano de Gobierno y comprenderá los siguientes aspectos:
+VII. Con base en los resultados que les sean proporcionados sobre las autoevaluaciones de las Entidades Paraestatales de su adscripción, opinar respecto de su desempeño en general;
 
 a. Integración y funcionamiento del Órgano de Gobierno;
 
@@ -1155,23 +1187,23 @@ g. Formulación de las recomendaciones procedentes; y
 
 h. Las demás que se consideren necesarias.
 
-VIII. Evaluar aspectos específicos de las Entidades Paraestatales y hacer las recomendaciones procedentes;
+VIII. Evaluar aspectos específicos de las Entidades Paraestatales de su adscripción y hacer las recomendaciones procedentes;
 
-IX. Vigilar y dar seguimiento a los procesos, de entrega recepción, así como de desincorporación de las Entidades Paraestatales; fungir como representante de la Secretaría de Contraloría ante las Dependencias y Entidades que intervengan en estos procesos;
+IX. Vigilar y dar seguimiento a los procesos de Entrega - Recepción, así como de desincorporación de las Entidades Paraestatales de su adscripción, y fungir como representante de la Secretaría de Contraloría ante las Dependencias y Entidades que intervengan en estos procesos;
 
 X. Requerir la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendentes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
 
-XI. Cuidar la debida integración y funcionamiento de los Órganos de Gobierno de las Entidades;
+XI. Cuidar la debida integración y funcionamiento de los Órganos de Gobierno de las Entidades Paraestatales de su adscripción;
 
-XII. Vigilar que las Entidades proporcionen, con la oportunidad y periodicidad que se señale, la información que requiera el sistema integral de información de los ingresos y gastos públicos;
+XII. Vigilar que las Entidades Paraestatales de su adscripción, proporcionen con la oportunidad y periodicidad que se señale, la información que requiera el sistema integral de información de los ingresos y gastos públicos;
 
-XIII. Solicitar y verificar que se incluyan en el orden del día de las sesiones de los Órganos de Gobierno en las Entidades, los asuntos que considere necesarios;
+XIII. Solicitar y verificar que se incluyan en el orden del día de las sesiones de los Órganos de Gobierno en las Entidades Paraestatales de su adscripción, los asuntos que consideren necesarios;
 
-XIV. Rendir anualmente al Órgano de Gobierno, o en su caso, a la Asamblea de Accionistas, un informe sobre los estados financieros de la Entidad, con base en el dictamen de los auditores externos, contratados por las Entidades;
+XIV. Rendir anualmente al Órgano de Gobierno, o en su caso, a la Asamblea de Accionistas, un informe sobre los estados financieros de la Entidad Paraestatal de su adscripción, con base en el dictamen de los auditores externos;
 
-XV. Informar al Coordinador, el resultado de las acciones, o funciones que se le encomienden y sugerir la instrumentación de normas complementarias, así como el programa anual de trabajo, y su avance, propuestas para mejorar la normatividad y el desempeño de las Dependencias y Entidades, los informes de auditoría que elaboren y todas las funciones relacionadas con el desempeño de sus funciones;
+XV. Informar al Director, el resultado de las acciones o funciones que se le encomienden y sugerir la instrumentación de normas complementarias, así como el programa anual de trabajo y su avance, propuestas para mejorar la normatividad y el desempeño de las Dependencias y Entidades Paraestatales de sus (sic) adscripción, los informes de auditoría que elaboren y todas las funciones relacionadas con el desempeño de sus funciones;
 
-XVI. Realizar la función preventiva que conforme a sus atribuciones ejerce esta Secretaría sobre la Administración Pública Estatal;
+XVI. Realizar la función preventiva que conforme a sus atribuciones ejerce esta Secretaría sobre la Administración Pública; y
 
 XVII. Las demás que le señalen las leyes y demás disposiciones aplicables, así como el Secretario.
 
@@ -1223,11 +1255,15 @@ XIV. Cuando este vacante el cargo de Contralor Interno, el Secretario podrá del
 
 XV. Las demás que señalen otros ordenamientos aplicables y las que le encomiende el Secretario.
 
-### CAPÍTULO IX. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBDIRECCIONES Y UNIDADES ADMINISTRATIVAS DE APOYO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO IX. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS DE APOYO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-En las Unidades de la SECOTAB, existirán Subdirecciones o Unidades Administrativas de Apoyo, en el número que se requiera y tendrán entre otras las siguientes atribuciones genéricas:
+En las Unidades de la SECOTAB, existirán Unidades Administrativas de Apoyo, en el número que se requiera y tendrán entre otras las siguientes atribuciones genéricas:
 
 I. Auxiliar al Titular de la Unidad en las labores propias de su cargo y en las que éste le encomiende;
 
@@ -1249,13 +1285,15 @@ IX. Proponer al Titular las medidas que estime necesarias para eficientar las fu
 
 X. Las demás que delegue el Titular de la Unidad y que se establezcan en el manual de organización de la Secretaría, así como las demás que le encomiende el Secretario;
 
-Para ser Subdirector se requiere cumplir con los requisitos que se mencionan en el artículo 11 segundo párrafo de este Reglamento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO X. DE LOS IMPEDIMENTOS, RECUSACIONES Y EXCUSAS
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 31.
 
-Los Directores Generales, Directores, Coordinadores, Contralores, Comisarios, Contralor Interno de la SECOTAB, Subdirectores y Jefes de Departamento, estarán impedidos para conocer de los asuntos que se tramiten en la Secretaría, en los casos que las disposiciones legales lo prohíban. Por tanto, tendrán la obligación de excusarse del conocimiento, y de no hacerlo procederá la recusación en su contra.
+Los Directores Generales, Directores, Contralores, Comisarios Contralor Interno de la SECOTAB y Jefes de Departamento, estarán impedidos para conocer de los asuntos que se tramiten en la Secretaría, en los casos que las disposiciones legales lo prohíban. Por tanto, tendrán la obligación de excusarse del conocimiento y de no hacerlo procederá la recusación en su contra.
 
 ### CAPÍTULO XI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
@@ -1263,9 +1301,11 @@ Los Directores Generales, Directores, Coordinadores, Contralores, Comisarios, Co
 
 Durante las ausencias temporales del Secretario, el despacho y resolución de los asuntos correspondientes a la SECOTAB estarán a cargo de quien éste designe.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 33.
 
-Las ausencias temporales de los Directores Generales, Directores, Coordinadores, Titulares de Unidades o sus equivalentes, serán suplidos por quien designe el Secretario. Durante las ausencias temporales no mayores de 15 días de los Subdirectores y Jefes de Departamento, serán suplidos por quienes designen los Directores Generales o Directores.
+Las ausencias temporales de los Directores Generales, Directores, Titulares de Unidades o sus equivalentes, serán suplidos por quien designe el Secretario. Durante las ausencias temporales no mayores de 15 días de los Jefes de Departamento, serán suplidos por quienes designen los Directores Generales o Directores.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -1277,7 +1317,9 @@ Las ausencias temporales de los Directores Generales, Directores, Coordinadores,
 
 Las relaciones de trabajo entre la SECOTAB y sus trabajadores, se regularán por la Ley de los Trabajadores al Servicio del Estado.
 
-Se consideraran categorías de confianza las de Director General, Directores de Área o su equivalente, Subdirectores, Jefes de Departamento, Jefes de Área, Asesores y en general, las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Secretaría de Contraloría.
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2012)</small>
+
+Se considerarán categorías de confianza las de Director General, Directores de Área o su equivalente, Jefes de Departamento, Jefes de Área y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de esta Secretaría de Contraloría.
 
 ## TRANSITORIOS
 
@@ -1342,3 +1384,9 @@ Los asuntos en trámite serán desahogados hasta su total conclusión por la uni
 ###### ARTÍCULO QUINTO.
 
 En tanto se adecuan los manuales respectivos, el Secretario queda facultado para resolver sobre las cuestiones de aplicación de este ordenamiento.
+
+P.O. 25 DE FEBRERO DE 2012.
+
+PRIMERO. Las presentes reformas y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual rango o naturaleza que se opongan a éstas.
