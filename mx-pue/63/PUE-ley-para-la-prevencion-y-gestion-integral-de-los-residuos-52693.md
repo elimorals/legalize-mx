@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2009-08-14"
+last_updated: "2012-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
+LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -53,7 +53,9 @@ LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y D
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-I.- Garantizar el derecho de toda persona de contar con un medio ambiente adecuado y propiciar el desarrollo sustentable a través de la regulación de la prevención en la generación, caracterización, la valorización y la gestión integral de residuos de competencia estatal y municipal;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+I.- Garantizar el derecho de toda persona de contar con un medio ambiente adecuado y propiciar el desarrollo sustentable a través de la prevención y regulación de la generación, caracterización, la valorización y la gestión integral de residuos de competencia estatal y municipal;
 
 II.- Prevenir la contaminación de sitios por residuos sólidos urbanos y de manejo especial, así como llevar a cabo la remediación en su caso;
 
@@ -67,7 +69,9 @@ VI.- Fomentar la prevención de la generación, caracterización, valorización 
 
 VII.- Definir las responsabilidades en la gestión y manejo integral de los residuos sólidos urbanos y de manejo especial de los generadores, comerciantes, consumidores, población en general, así como de las Autoridades Estatales y Municipales;
 
-VIII.- Promover la participación corresponsable de los diversos sectores sociales en las acciones tendientes a lograr una gestión integral de los residuos sólidos urbanos y de manejo especial ambientalmente adecuada, así como, aplicar la tecnología más viable, para lograr los objetivos de las disposiciones contenidas en la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VIII.- Promover la participación corresponsable de los diversos sectores sociales, así como las personas físicas o morales dedicadas a la empresa de acopio y reciclaje, siempre que cumplan con las normas de funcionamiento previstas en la presente Ley; en las acciones tendientes a lograr una gestión integral de los residuos sólidos urbanos y de manejo especial ambientalmente adecuada, así como, aplicar la tecnología más viable, para lograr los objetivos de las disposiciones contenidas en la presente Ley;
 
 IX.- Incluir en el Sistema de Información Ambiental Estatal, lo relativo a la gestión y manejo integral de los residuos sólidos urbanos y de manejo especial, así como en: rellenos sanitarios, tiraderos controlados, tiraderos a cielo abierto, sitios clausurados, sitios contaminados y remediados, que permita la toma de decisiones, respecto a la adecuada ubicación de sitios de disposición final de residuos sólidos urbanos y de manejo especial y la aplicación de tecnología que posibilite su tratamiento y/o aprovechamiento;
 
@@ -77,159 +81,177 @@ XI.- Definir los criterios a los que se sujetará la remediación de los sitios 
 
 XII.- Promover y fortalecer la investigación y desarrollo científico para el manejo integral de residuos sólidos urbanos y de manejo especial, con la finalidad de reducir la generación de los mismos y diseñar alternativas para el tratamiento y remediación de los sitios contaminados y afectados, orientados a la implementación de procesos productivos limpios;
 
-XIII.- Establecer medidas de control y de seguridad para garantizar el cumplimiento de la presente Ley, además de las disposiciones que de ella se deriven, así como para la imposición de las sanciones que correspondan; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-XIV.- Fomentar la valorización de residuos, así como el desarrollo de mercados de subproductos, bajo criterios de eficiencia ambiental, tecnológica y económica, así como esquemas de financiamiento adecuados.
+XIII.- Establecer medidas de control y de seguridad para garantizar el cumplimiento de la presente Ley, además de las disposiciones que de ella se deriven, así como para la imposición de las sanciones que correspondan;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XIV.- Fomentar la valorización de residuos, así como el desarrollo de mercados de subproductos, bajo criterios de eficiencia ambiental, tecnológica y económica, así como esquemas de financiamiento adecuados; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XV.- Promover las acciones necesarias para fomentar en los ámbitos de gobierno y en los sectores sociales la cultura del reciclaje y la reutilización de materiales.
 
 ###### ARTÍCULO 2.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I.- Aprovechamiento: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, rediseño, reciclado y recuperación de materiales secundados o de energía;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+I.- Almacenamiento: Actividad que realizan los generadores dentro del lugar de generación de residuos en un lugar determinado y apropiado, previo a la recolección de los mismos para su posterior reutilización, acopio, reciclado, aprovechamiento, tratamiento o disposición final;
 
-II.- Biodegradable: Es el compuesto químico que se degrada por una acción biológica;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+II.- Aprovechamiento: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, rediseño, reciclado y recuperación de materiales secundados o de energía;
 
-III.- Caracterización: Actividad mediante la cual se hace la determinación cualitativa y cuantitativa de los residuos de acuerdo a su composición física, química y biológica;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+III.- Biodegradable: Es el compuesto químico que se degrada por una acción biológica;
 
-IV.- Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud pública y a los ecosistemas y sus elementos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+IV.- Caracterización: Actividad mediante la cual se hace la determinación cualitativa y cuantitativa de los residuos de acuerdo a su composición física, química y biológica;
 
-V.- Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+V.- Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud pública y a los ecosistemas y sus elementos;
 
-VI.- Estación de transferencia: Unidad de manejo de los residuos sólidos urbanos y/o de manejo especial que reciben estos residuos procedentes del proceso de recolección a través de los vehículos destinados para este propósito y que son transferidos a vehículos de mayor capacidad en volumen y carga para ser transportados al sitio de disposición final;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+VI.- Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte;
 
-VII.- Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+VII.- Estación de Transferencia: Unidad de manejo de los residuos sólidos urbanos y/o de manejo especial que reciben estos residuos procedentes del proceso de recolección a través de los vehículos destinados para este propósito y que son transferidos a vehículos de mayor capacidad en volumen y carga para ser transportados al sitio de disposición final;
 
-VIII.- Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+VIII.- Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
 
-IX.- Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo integral de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+IX.- Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-X.- Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+X.- Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo integral de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XI.- Ley: Ley para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Puebla;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XI.- Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XII.- Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud pública y de los demás organismos vivos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XII.- Ley: Ley para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial para el Estado de Puebla;
 
-XIII.- Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, caracterización, acopio, transferencia, almacenamiento, barrido, recolección, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XIII.- Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud pública y de los demás organismos vivos;
 
-XIV.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XIV.- Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, caracterización, acopio, transferencia, almacenamiento, barrido, recolección, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XV.- Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XV.- Material: Sustancia, compuesto o mezcla de ellos, que se usa como insumo y es un componente de productos de consumo, de envases, empaques, embalajes y de los residuos que éstos generan;
 
-XVI.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar o reducir la generación de residuos y aprovechando, tanto como sea posible, el valor agregado de aquéllos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XVI.- Microgenerador: Establecimiento industrial, comercial o de servicios que genere una cantidad de hasta cuatrocientos kilogramos de residuos peligrosos al año o su equivalente en otra unidad de medida;
 
-XVII.- Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables que involucran a productores, distribuidores, comerciantes, consumidores, usuarios de subproductos, generadores de residuos y, los tres niveles de gobierno;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XVII.- Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar o reducir la generación de residuos y aprovechando, tanto como sea posible, el valor agregado de aquellos;
 
-XVIII.- Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XVIII.- Plan de Manejo: Instrumento cuyo objetivo es minimizar la generación y maximizar la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental, tecnológica, económica y social, con fundamento en el Diagnóstico Básico para la Gestión Integral de Residuos, diseñado bajo los principios de responsabilidad compartida y manejo integral, que considera el conjunto de acciones, procedimientos y medios viables que involucran a productores, distribuidores, comerciantes, consumidores, usuarios de subproductos, generadores de residuos y, los tres niveles de gobierno;
 
-XIX.- Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XIX.- Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
 
-XX.- Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XX.- Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
 
-XXI.- Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXI.- Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
 
-XXII.- Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXII.- Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-XXIII.- Reglamento: El Reglamento de la presente Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXIII.- Recolección: Toda operación consistente en recoger, clasificar o agrupar los residuos para su transporte;
 
-XXIV.- Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud pública y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXIV.- Reglamento: El Reglamento de la presente Ley;
 
-XXV.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXV.- Remediación: Conjunto de medidas a las que se someten los sitios contaminados para eliminar o reducir los contaminantes hasta un nivel seguro para la salud pública y el ambiente o prevenir su dispersión en el ambiente sin modificarlos, de conformidad con lo que se establece en esta Ley;
 
-XXVI.- Residuos de Manejo Especial: Son aquéllos generados en los procesos productivos, que no reúnen las características para ser considerados peligrosos, ni residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXVI.- Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a lo dispuesto en esta Ley y demás ordenamientos que de ella deriven;
 
-XXVII.- Residuos Peligrosos: Son aquéllos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad; los envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad en lo que establece la Ley General;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXVII.- Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados peligrosos, ni residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-XXVIII.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXVIII.- Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que les confieran peligrosidad; los envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad en lo que establece la Ley General;
 
-XXIX.- Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXIX.- Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-XXX.- Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXX.- Responsabilidad Compartida: Principio mediante el cual se reconoce que los residuos sólidos urbanos y de manejo especial son generados a partir de la realización de actividades que satisfacen necesidades de la sociedad, mediante cadenas de valor tipo producción, proceso, envasado, distribución, consumo de productos, y que, en consecuencia, su manejo integral es una corresponsabilidad social y requiere la participación conjunta, coordinada y diferenciada de productores, distribuidores, consumidores, usuarios de subproductos, y de los tres órdenes de gobierno según corresponda, bajo un esquema de factibilidad de mercado y eficiencia ambiental, tecnológica, económica y social;
 
-XXXI.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXXI.- Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-XXXII.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXXII.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-XXXIII.- Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXXIII.- Secretaría: La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
 
-XXXIV.- Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXXIV.- Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos, en los términos de esta Ley;
 
-XXXV.- Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud pública, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXXV.- Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados en los términos de esta Ley;
 
-XXXVI.- Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XXXVI.- Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud pública, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
 
-XXXVII.- Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XXXVII.- Transporte: Actividad que consiste en trasladar residuos sólidos urbanos, de manejo especial o residuos peligrosos por el territorio municipal o estatal para su posterior reutilización, acopio, reciclado, aprovechamiento, tratamiento o disposición final:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XXXVIII.- Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XXXIX.- Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica.
 
 ###### ARTÍCULO 3.
 
@@ -249,7 +271,9 @@ VI.- Propiciar el acceso público a la información, la educación ambiental y l
 
 VII.- Limitar la disposición final de residuos sólidos urbanos y de manejo especial sólo para aquellos cuya valorización o tratamiento no sea económicamente viable, tecnológicamente factible y ambientalmente adecuada;
 
-VIII.- Seleccionar los sitios para la disposición final de residuos sólidos urbanos y de manejo especial, de conformidad con las Nom1as Oficiales Mexicanas de la materia, así como a los programas de desarrollo urbano y ordenamiento ecológico y la legislación aplicable;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VIII.- Seleccionar los sitios para la disposición final, tratamiento y/o aprovechamiento de residuos sólidos urbanos y de manejo especial, de conformidad con las Normas Oficiales Mexicanas de la materia, así como a los programas de desarrollo urbano y ordenamiento ecológico y la legislación aplicable;
 
 IX.- Realizar las acciones de remediación correspondientes en los sitios contaminados, para prevenir o reducir los riesgos inminentes a la salud pública y al ambiente;
 
@@ -309,7 +333,9 @@ III.- Autorizar la gestión integral de los residuos de manejo especial, identif
 
 IV.- Establecer mecanismos de coordinación con los Ayuntamientos para la gestión integral de los residuos sólidos urbanos y de manejo especial;
 
-V.- Promover en coordinación con el Gobierno Federal y los Ayuntamientos, la creación de infraestructura para el manejo integral de residuos sólidos urbanos y de manejo especial, con la participación de inversionistas y representantes de los sectores sociales interesados;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+V.- Promover en coordinación con el Gobierno Federal y los Ayuntamientos, la creación de infraestructura para el manejo integral de residuos sólidos urbanos y de manejo especial, con la participación de inversionistas y representantes de los sectores sociales interesados, previendo la instalación de contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos, en oficinas y espacios públicos, invitando al sector privado a adherirse a estas medidas;
 
 VI.- Promover la investigación, el desarrollo y la aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo integral de los residuos de manejo especial y sólidos urbanos;
 
@@ -317,15 +343,23 @@ VII.- Promover la participación de los sectores privado y social para el cumpli
 
 VIII.- Participar en el establecimiento y operación, en el marco del sistema nacional de protección civil y en coordinación con la federación, de un sistema para la prevención y control de contingencias y emergencias ambientales derivadas del manejo inadecuado de residuos sólidos urbanos y de manejo especial;
 
-IX.- Promover la educación y capacitación continua de personas de los diversos sectores de la sociedad, con el objeto de contribuir al cambio de hábitos negativos y patrones de producción y consumo de bienes para reducir o minimizar la generación de residuos sólidos urbanos y de manejo especial, en beneficio del medio ambiente;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-X.- Coadyuvar con el gobierno federal en la integración de los subsistemas de información nacional sobre la gestión y manejo integral de residuos sólidos urbanos y de manejo especial;
+IX.- Promover la educación y capacitación continúa de personas de los diversos sectores de la sociedad, con el objeto de contribuir al cambio de hábitos negativos y patrones de producción y consumo de bienes para reducir o minimizar la generación de residuos sólidos urbanos y de manejo especial, en beneficio del medio ambiente priorizando actividades tendientes al reciclado y reutilización de materiales;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+X.- Trabajar de manera coordinada con el Gobierno Federal en la integración de los subsistemas de información nacional sobre la gestión y manejo integral de residuos sólidos urbanos y de manejo especial;
 
 XI.- Promover la aplicación de los instrumentos económicos que señala esta Ley;
 
-XII.- Conocer y resolver sobre las solicitudes, otorgándose en su caso la autorización para que operen las empresas particulares que presten los servicios relativos al manejo integral de los residuos de manejo especial, de conformidad con esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-XIII.- Revocar en su caso la autorización de las empresas particulares que presten los servicios relativos al manejo integral de los residuos de manejo especial, por violaciones a esta Ley y su Reglamento;
+XII.- Conocer y resolver sobre las solicitudes, otorgándose en su caso la autorización correspondiente relativa al manejo integral de los residuos de manejo especial, de conformidad con esta Ley, su Reglamento y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XIII.- Revocar en su caso, la autorización relativa al manejo integral de los residuos de manejo especial, por violaciones a esta Ley, su Reglamento y demás disposiciones aplicables;
 
 XIV.- Supervisar y controlar a las empresas particulares que presten los servicios relativos al manejo integral de los residuos de manejo especial;
 
@@ -341,19 +375,35 @@ XIX.- Coadyuvar con los Ayuntamientos que así lo soliciten, brindando asistenci
 
 XX.- Proponer ante la Secretaría de Finanzas y Administración, las tarifas respecto al cobro de derechos y productos con relación a los servicios que se presten con motivo de la aplicación de la presente Ley para que, en su caso, sean incluidas en el proyecto de Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
 
-XXI.- Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que correspondan; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-XXII.- Las demás que se establezcan en esta Ley, las Normas Oficiales Mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+XXI.- Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que correspondan;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XXII.- Emitir lineamientos técnicos ambientales con el objeto de prevenir la contaminación y procurar la gestión integral de los residuos sólidos urbanos y de manejo especial;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XXIII.- Promover la participación de la sociedad en la denuncia popular mediante campañas informativas y demás instrumentos pertinentes; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XXIV.- Las demás que se establezcan en esta Ley, las Normas Oficiales Mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### ARTÍCULO 10.
 
 Corresponde a los Ayuntamientos, en el ámbito de sus respectivas competencias y jurisdicción, las siguientes atribuciones:
 
-I.- Formular por sí o con el apoyo de los representantes de los distintos sectores sociales, los programas municipales para la prevención, gestión y manejo integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el programa estatal para la prevención y gestión integral de los residuos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+I.- Formular por sí o con el apoyo de la Secretaría y los representantes de los distintos sectores sociales, los programas municipales para la prevención, gestión y manejo integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el programa estatal para la prevención y gestión integral de los residuos;
 
 ll.- Expedir los Reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en la normatividad en la materia;
 
-III.- Establecer programas graduales y mecanismos para la separación de residuos desde la fuente de generación, diferenciándolos al menos en residuos orgánicos e inorgánicos para promover su aprovechamiento;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+III.- Establecer programas graduales y mecanismos para la separación de residuos desde la fuente de generación, previendo la instalación de contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos, en oficinas y espacios públicos, incluyendo al sector privado en estas medidas, como lo especifique el Reglamento;
 
 IV.- Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos;
 
@@ -361,15 +411,21 @@ V.- Capacitar a los servidores públicos que intervienen en la prestación del s
 
 VI.- Prestar por sí o a través de terceros, de manera total o parcial el servicio público de limpia, recolección, traslado, transferencia, tratamiento y disposición final de residuos de conformidad con la legislación aplicable;
 
-VII.- Establecer y mantener actualizado el registro de grandes generadores de residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-VIII.- Proporcionar a la Secretaría datos e indicadores relativos a la generación, gestión y manejo integral de los residuos sólidos urbanos en su jurisdicción con la finalidad de integrarlos al sistema estatal de información ambiental;
+VII.- Establecer y mantener actualizado en coordinación con la Secretaría, el registro de grandes generadores de residuos sólidos urbanos;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VIII.- Proporcionar a la Secretaría datos e indicadores relativos a la generación, gestión y manejo integral de los residuos sólidos urbanos en su jurisdicción para integrarlos al Sistema Estatal de Información Ambiental; así como proponer las medidas necesarias de solución para aquellos Municipios, que presenten un alto grado de contaminación por un inadecuado manejo de estos residuos;
 
 IX.- Verificar el cumplimiento de las disposiciones de esta Ley, Normas Oficiales Mexicanas y demás ordenamientos jurídicos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables en el ámbito de su competencia;
 
 X.- Proponer la suscripción de convenios, en términos de la legislación aplicable, con las Autoridades competentes para participar en el control tanto de los residuos peligrosos como los de manejo especial, que se generen dentro de su jurisdicción, así como imponer las sanciones que procedan de acuerdo con la normatividad aplicable y lo que establezcan dichos convenios;
 
-XI.- Coadyuvar en la prevención de la contaminación de sitios con residuos peligrosos y de manejo especial, y su remediación:
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XI.- Coadyuvar en la prevención de la contaminación de sitios con residuos sólidos urbanos, peligrosos y de manejo especial, y su remediación;
 
 XII.- Determinar los costos de las distintas etapas de la operación de los servicios de manejo integral de residuos sólidos urbanos, pudiendo contar con la asistencia técnica de la Secretaría;
 
@@ -377,19 +433,23 @@ XIII.- Prever en su correspondiente Ley de Ingresos, las tarifas aplicables a lo
 
 XIV.- Prohibir las actividades previstas en esta Ley en tiraderos a cielo abierto o sitios no controlados de residuos sólidos urbanos, llevando a cabo las acciones de remediación correspondientes;
 
-XV.- Difundir entre la población prácticas de separación, reutilización y reducción de residuos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XV.- Desarrollar e implementar en coordinación con la Secretaría los programas de educación ambiental en materia de residuos y consumo sustentable encaminados a propiciar la sensibilización, reflexión y acción en torno a los residuos generados por la población;
 
 XVI.- Realizar periódicamente los estudios de caracterización y composición de los residuos que se generen en el municipio para facilitar su manejo y aprovechamiento;
 
-XVII.- Instrumentar los mecanismos o sistemas tendientes a la separación de los residuos sólidos urbanos de conformidad con lo establecido en esta Ley;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XVII.- Instrumentar los mecanismos o sistemas tendientes a la separación, reciclado y reutilización de los residuos sólidos urbanos de conformidad con lo establecido en esta Ley;
 
-XVIII.- Promover la instrumentación de los planes de manejo del sector gubernamental en las dependencias y entidades de la administración pública municipal y dar el seguimiento correspondiente;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+XVIII.- Promover la instrumentación de los planes de manejo del sector gubernamental y en las dependencias y entidades de la administración pública municipal, incluyendo el reciclado y reutilización, y dar el seguimiento correspondiente;
 
-XIX.- Promover con el sector privado, la instrumentación de planes de manejo tendientes a recolectar los residuos sólidos urbanos que se generan como resultado de su actividad industrial, comercial y de servicios; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XIX.- Promover con el sector privado, la instrumentación de planes de manejo tendientes a recolectar, separar, reciclar y reutilizar los residuos sólidos urbanos que se generen como resultado industrial, comercial y de servicios en términos de la legislación aplicable; y
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -411,9 +471,21 @@ II.- Coordinar las acciones orientadas a la consecución de los objetivos, estra
 
 III.- Establecer la colaboración de las Dependencias y Entidades de la Administración Pública Estatal en la formulación, ejecución e instrumentación de programas, acciones e inversiones en materia de prevención y gestión integral de residuos sólidos urbanos y de manejo especial;
 
-IV.- Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones del Gobierno del Estado y de los Ayuntamientos de los Municipios con los objetivos, estrategias y prioridades del Programa Estatal para la prevención y gestión integral de residuos sólidos urbanos y de manejo especial; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-V.- Las demás que le confiera el Reglamento de esta Ley.
+IV.- Promover la concurrencia, vinculación y congruencia de los programas, acciones e inversiones del Gobierno del Estado y de los Ayuntamientos de los Municipios con los objetivos, estrategias y prioridades del Programa Estatal para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+V.- Fortalecer la capacidad institucional, técnica, jurídica y financiera para maximizar el aprovechamiento de los residuos, a través de la generación de mercados ambientales, promoviendo la reducción y la separación;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VI.- Garantizar la operación responsable de la infraestructura estatal para el manejo integral de residuos, bajo criterios de eficiencia y con estricto cumplimiento de la presente Ley, su Reglamento, las Normas Oficiales Mexicanas y demás disposiciones jurídicas en la materia; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VII.- Las demás que le confiera el Reglamento de esta Ley.
 
 ## TÍTULO TERCERO. CLASIFICACIÓN DE LOS RESIDUOS
 
@@ -461,9 +533,11 @@ X.- Bioacumulables; y
 
 XI.- Reutilizables para otros procesos.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 15.
 
-Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánicos con el objeto de facilitar su separación primaria y secundaria, de conformidad con esta Ley.
+Los residuos sólidos urbanos podrán subclasificarse en orgánicos e inorgánicos o reciclables y no reciclables con el objeto de facilitar su separación primaria y secundaria, para procurar su reutilización y/o reciclaje de conformidad con esta Ley, su Reglamento y demás disposiciones jurídicas en la materia.
 
 ###### ARTÍCULO 16.
 
@@ -499,9 +573,9 @@ XI.- Los que determine la Secretaría.
 
 La Secretaría deberá formular e instrumentar los programas necesarios para la prevención y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con esta Ley; para lo cual deberá elaborar un diagnóstico básico que considere la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente, considerando el diagnóstico básico proporcionado por los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
-Asimismo, la Secretaría fomentará que los generadores utilicen materiales biodegradables.
+Asimismo, la Secretaría fomentará que los generadores utilicen materiales biodegradables e instalen contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos con el propósito de destinarlos para su reciclaje y reutilización.
 
 ###### ARTÍCULO 18.
 
@@ -509,9 +583,9 @@ Los Ayuntamientos, en el ámbito de su competencia, deberán elaborar e instrume
 
 I.- El diagnóstico básico para la gestión integral de residuos de su competencia, en el que se precise la capacidad y efectividad de la infraestructura disponible para satisfacer la demanda de servicios;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-II.- La política municipal en materia de residuos sólidos urbanos fomentando en los generadores el uso de materiales biodegradables;
+II.- La política municipal en materia de residuos sólidos urbanos, fomentando en los generadores el uso de materiales biodegradables y el uso de contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos;
 
 III.- La definición de objetivos y metas municipales para la prevención de la generación y el mejoramiento de la gestión de los residuos sólidos urbanos, así como las estrategias y plazos para su cumplimiento;
 
@@ -521,9 +595,9 @@ IV.- Los medios de financiamiento de las acciones consideradas en los programas;
 
 V.- Los mecanismos para fomentar la vinculación entre los programas municipales correspondientes, a fin de crear sinergias;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-VI.- Los criterios para la gestión integral de los residuos sólidos urbanos, que tengan como objeto la protección al medio ambiente a través del uso de materiales biodegradables; y
+VI.- Los criterios para la gestión integral de los residuos sólidos urbanos, fomentando el uso de materiales biodegradables e implementando acciones de reciclado y reutilización de materiales, en términos de la legislación aplicable; y
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -561,49 +635,69 @@ Las reglas, condiciones y modalidades de aplicación de los instrumentos económ
 
 ### CAPÍTULO III. DE LA EDUCACIÓN AMBIENTAL Y DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 21.
 
-Con el objeto de difundir el conocimiento necesario para contribuir al cambio de hábitos negativos de producción y consumo, fomentar el consumo responsable y el desarrollo de procesos a través de los cuales se evite o minimice la generación de residuos, se aproveche su valor y se otorgue a éstos una gestión integral, ambientalmente adecuada, la Secretaría y los organismos competentes en la materia promoverán que la educación ambiental en materia de residuos sea incluida dentro de los planes de estudio en todos los niveles educativos, así como capacitar al respecto a las personas u organizaciones de todos los sectores de la sociedad.
+Con el objeto de desarrollar en la sociedad valores, conocimientos y competencias que propicien el involucramiento de la sociedad en el consumo responsable y en el desarrollo de procesos a través de los cuales se evite o minimice la generación de residuos, se aproveche su valor y se otorgue a éstos una gestión integral, ambientalmente adecuada, la Secretaría y los organismos competentes en la materia, promoverán que la educación ambiental en materia de residuos y consumo sustentable sea incluida dentro de los planes de estudio en todos los niveles educativos, en los planes de manejo de empresas, en medios de comunicación, así como propiciar la formación al respecto de las personas u organizaciones de todos los sectores de la sociedad.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
-Los programas de educación que desarrollen o fomenten los centros o instituciones educativas públicas y privadas del Estado de Puebla, deberán incorporar contenidos que permitan el desarrollo de hábitos de consumo que reduzcan la generación de residuos y la adopción de conductas que faciliten la separación de los residuos tan pronto como se generen, así como su reutilización, reciclado y manejo ambientalmente adecuados, para crear una cultura ambiental en torno de los residuos.
+###### ARTÍCULO 22.
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+Los programas de educación formal, no formal e informal que desarrollen o fomenten las empresas, organizaciones, centros o instituciones educativas públicas y privadas del Estado de Puebla, deberán incorporar contenidos que promuevan una cultura de consumo sustentable, basada en el concepto de ciclo de vida de los productos y la huella ecológica de la ciudadanía. Que este orientado a reducir la generación de residuos, minimizar el impacto a la naturaleza y las afectaciones sociales derivados de practicas insustentables en el uso de los recursos naturales transformados en productos.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
-La Secretaría, en coordinación con los Ayuntamientos, organizaciones públicas, privadas y sociales, promoverá diversas actividades de difusión, educación, capacitación, investigación y desarrollo tecnológico para prevenir la generación y lograr una gestión integral de los residuos, así como el uso de materiales biodegradables.
+La Secretaría, en coordinación con los Ayuntamientos, organizaciones públicas, privadas y sociales, promoverá actividades de difusión, educación, comunicación, capacitación, investigación y desarrollo tecnológico para prevenir la generación y lograr una gestión integral de los residuos, así como el uso de materiales sustentables en los diferentes sectores de la sociedad.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 24.
 
-La Secretaría y los Ayuntamientos en el ámbito de sus competencias, deberán llevar a cabo diversas actividades educativas a las que se invitará a la población en general para discutir, aprender e intercambiar conocimientos y experiencias sobre:
+La Secretaría, los Ayuntamientos y las demás dependencias, en el ámbito de sus competencias, deberán llevar a cabo programas y actividades culturales y educativas, en las cuales se considerará la participación de la ciudadanía para discutir, aprender e intercambiar conocimientos y experiencias sobre:
 
-I.- Formas de prevención de generación de residuos;
+I.- Formas de prevención y/o minimización en la generación de residuos;
 
-II.- Formas de consumo responsable:
+II.- Formas y alternativas de consumo sustentable viables y adecuadas a las problemáticas derivadas de la generación y disposición de los residuos;
 
-III.- Realización y difusión de actividades de identificación, separación, reutilización y aprovechamiento de residuos:
+III.- Realización y difusión de actividades de identificación, minimización, separación, reutilización y aprovechamiento de residuos;
 
-IV.- Riesgos por el inadecuado manejo y disposición final de residuos; y
+IV.- Riesgos por el inadecuado manejo y disposición final de residuos;
 
-V.- Las demás actividades relativas a la prevención y manejo integral de residuos sólidos urbanos y de manejo especial.
+V.- Cálculo de la huella ecológica como un indicador de consumo en la población;
+
+VI.- Análisis del ciclo de vida, con el impacto social y ambiental en la generación de los productos; y
+
+VII.- Las demás actividades relativas a la prevención y manejo integral de residuos sólidos urbanos y de manejo especial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2012)</small>
 
 ###### ARTÍCULO 25.
 
-La Secretaría y los Ayuntamientos en el ámbito de sus competencias, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la valorización y gestión integral de residuos, para la cual deberán:
+La Secretaría, los Ayuntamientos y las demás dependencias en el ámbito de sus competencias, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la minimización, la valorización y gestión integral de residuos, para lo cual deberán:
 
 I.- Fomentar y apoyar la conformación, consolidación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas correspondientes, así como para prevenir la contaminación de sitios con materiales y residuos y llevar a cabo su remediación;
 
-II.- Convocar a los grupos sociales organizados a participar en proyectos destinados a generar la información necesaria para sustentar programas de gestión integral de residuos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+II.- Convocar a los grupos sociales organizados a participar en proyectos destinados a generar propuestas que fortalezcan los programas de gestión integral de residuos;
 
 III.- Celebrar convenios de concertación con organizaciones sociales y privadas en la materia objeto de la presente Ley;
 
-IV.- Promover la instrumentación de campañas masivas en medios de comunicación para difusión de las acciones de prevención y gestión integral de los residuos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-V.- Promover el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos;
+IV.- Promover la instrumentación de campañas masivas en medios de comunicación para difundir el consumo sustentable y el manejo integral de los residuos; así como ciclo de vida y huella ecológica, enfatizando la participación de la ciudadanía;
 
-VI.- Impulsar la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+V.- Promover el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención, gestión integral de los residuos, propuestas de consumo sustentable, ciclo de vida y huella ecológica;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VI.- Impulsar una cultura ambiental sustentable vinculada a los residuos y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la sociedad para la prevención y gestión integral de los residuos; y
 
 VII.- Concertar acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas.
 
@@ -615,7 +709,9 @@ VII.- Concertar acciones e inversiones con los sectores social y privado, instit
 
 Los generadores instrumentarán planes de manejo en los que se contemplarán por lo menos las siguientes acciones:
 
-I.- Promover la prevención de la generación de los residuos y su gestión integral, a través de medidas que reduzcan los costos de su administración, y hagan más efectivos los procedimientos para su manejo desde la perspectiva ambiental;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+I.- Promover la prevención de la generación de los residuos y su gestión integral, a través de distintas acciones, enfocadas a minimizar la generación de residuos, reduzcan los costos de su administración, y hacer más efectivos los procedimientos para su manejo desde la perspectiva ambiental;
 
 II.- Definir modalidades de manejo que respondan a las particularidades de los residuos y de los materiales que los constituyan;
 
@@ -623,9 +719,17 @@ III.- Atender las necesidades específicas de ciertos generadores que presentan 
 
 IV.- Establecer esquemas de manejo en los que se haga efectiva la corresponsabilidad de los distintos sectores involucrados; y
 
-V.- Establecer y señalar la infraestructura necesaria para lograr un manejo integral de los residuos; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-VI.- Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible.
+V.- Establecer y señalar la infraestructura necesaria para lograr un manejo integral de los residuos;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VI.- Alentar la innovación de procesos, campañas informativas, métodos y tecnologías, para lograr un manejo integral de los residuos, que sean económicamente factible (sic); y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VII.- Incentivar el aprovechamiento de los residuos valorizables para impulsar el mercado ambiental de los mismos.
 
 ###### ARTÍCULO 27.
 
@@ -655,9 +759,13 @@ Las Autoridades estatales y municipales correspondientes publicarán en Periódi
 
 Serán responsables de la formulación e instrumentación de los planes de manejo, según corresponda:
 
-I.- Los productores, distribuidores y generadores de residuos sólidos urbanos o de manejo especial que se incluyan en el listado a que se refiere el artículo anterior; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-II.- Los Poderes del Estado, los Ayuntamientos, así como las dependencias y entidades de la Administración Pública Estatal y Municipal respectivamente, en los términos que establece esta Ley.
+I.- Los productores, distribuidores y generadores de residuos sólidos urbanos o de manejo especial que se incluyan en el listado a que se refiere el artículo anterior y en el Reglamento de esta Ley; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+II.- Los Poderes del Estado, los Ayuntamientos, así como las dependencias y entidades de la administración pública estatal y municipal, respectivamente, en los términos que establece esta Ley, su Reglamento y demás disposiciones aplicables.
 
 ###### ARTÍCULO 31.
 
@@ -669,9 +777,17 @@ II.- Procedimientos ambientalmente adecuados de acopio, almacenamiento y transpo
 
 III.- Estrategias y medios a través de los cuales se comunicará a los consumidores de los productos, que al desecharse se someten a planes de manejo, las acciones que deben realizar para devolverlos a los proveedores, enviarlos a los centros de acopio destinados para tal fin o entregarlos a los servicios de limpia, según corresponda;
 
-IV.- Listado de las partes que intervengan en su instrumentación: y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-V.- Obligaciones y facultades de cada una de las partes que intervienen en la aplicación del plan de manejo.
+IV.- Listado de las partes que intervengan en su instrumentación;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+V.- Obligaciones y facultades de cada una de las partes que intervienen en la aplicación del plan de manejo; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VI.- Descripción de actividades de capacitación, educación ambiental que se implementarán y los procedimientos que informen y promuevan la prevención, minimización, y el correcto manejo de residuos que se generan para dar cumplimiento a lo establecido en la presente Ley, su Reglamento y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -681,13 +797,29 @@ En ningún caso los planes de manejo podrán plantear formas de manejo contraria
 
 Los planes de manejo serán presentados por los particulares a la Secretaría o al Ayuntamiento, en el ámbito de sus respectivas competencias, quienes en un plazo de sesenta días naturales contados a partir de la recepción deberán emitir su resolución.
 
-Si la Autoridad municipal no contara con los recursos técnicos administrativos para emitir la resolución a que se refiere el párrafo anterior, podrá coordinarse con la Secretaría para tales efectos.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
+En el caso de que la autoridad competente requiera más información, notificará al interesado para que en un plazo no mayor de diez días naturales contados a partir de que se reciba la notificación cumpla con dicho requerimiento, en cuyo caso el plazo de respuesta de la autoridad se suspenderá hasta la entrega de la información.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
+Para el caso de que el interesado no haya cumplido con los requerimientos formulados por la autoridad competente, en los plazos establecidos para ello, se tendrá por no presentada.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
+La vigencia de la autorización de los planes de manejo, se establecerá en el Reglamento de la presente Ley tomando en consideración la prestación de cada servicio que prevé el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
+Si la autoridad municipal no contara con los recursos técnicos administrativos para emitir la resolución a que se refiere el párrafo anterior, podrá coordinarse con la Secretaría para los efectos.
 
 ### CAPÍTULO III. DE LOS PLANES DE MANEJO DEL SECTOR GUBERNAMENTAL
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 34.
 
-Los planes de manejo del sector gubernamental tendrán por objeto prevenir y minimizar la generación de residuos, así como incentivar su aprovechamiento; se configurarán con estrategias organizacionales que propicien la gestión integral de los residuos.
+Los planes de manejo del sector gubernamental tendrán por objeto prevenir y minimizar la generación de residuos, así como incentivar su valorización y aprovechamiento; a través de acciones organizacionales que propicien la gestión integral de los residuos.
 
 ###### ARTÍCULO 35.
 
@@ -715,7 +847,9 @@ III.- Políticas y lineamientos para la capacitación, educación, difusión e i
 
 El Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, con el propósito de proteger la salud, prevenir y controlar la contaminación ambiental, llevarán al efecto las siguientes acciones:
 
-I.- Instrumentar programas orientados a verificar y mejorar los procesos de separación, transporte, transferencia, preparación y acopio de los residuos sólidos urbanos y de manejo especial para su reciclaje, aprovechamiento o disposición final; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+I.- Instrumentar programas orientados a capacitar, verificar y mejorar los procesos de separación, transporte, transferencia, preparación y acopio de los residuos sólidos urbanos y de manejo especial para su reciclaje, aprovechamiento o disposición final; y
 
 II.- Integrar a los sectores social y privado para coadyuvar en la prevención y gestión integral de los residuos.
 
@@ -737,7 +871,9 @@ IV.- Recibir residuos de otros Estados, salvo los que provengan de conformidad c
 
 La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, para realizar la ubicación de los sitios, el diseño, la construcción y la operación de las instalaciones destinadas a la disposición final de los residuos sólidos urbanos y de manejo especial, en rellenos sanitarios, estarán sujetos a lo señalado en las Normas Oficiales Mexicanas.
 
-Los Ayuntamientos regularán los usos del suelo, de conformidad con los programas de desarrollo urbano y ordenamiento ecológico en los cuales se considerarán las áreas en las que se establecerán los sitios de disposición final de los residuos sólidos urbanos y de manejo especial, pudiendo solicitar para este efecto la asesoría de la Secretaria de Desarrollo Urbano y Obras Públicas, así como de la Secretaría previa celebración del convenio correspondiente.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
+Los Ayuntamientos regularán los usos del suelo, de conformidad con los programas de desarrollo urbano y ordenamiento ecológico, en los cuales se considerarán las áreas en las que se establecerán los sitios de disposición final de los residuos sólidos urbanos y de manejo especial, pudiendo solicitar para este efecto la asesoría de la Secretaría previa celebración del convenio correspondiente.
 
 ## TÍTULO SÉPTIMO. DEL MANEJO INTEGRAL DE RESIDUOS
 
@@ -747,9 +883,11 @@ Los Ayuntamientos regularán los usos del suelo, de conformidad con los programa
 
 La caracterización, acopio, recolección, transferencia, almacenamiento y transporte de residuos sólidos urbanos y de manejo especial, son consideradas para efectos de esta Ley como actividades de preparación para la reutilización, reciclado, aprovechamiento, tratamiento y disposición final según corresponda.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 42.
 
-La caracterización, acopio, recolección, transferencia, almacenamiento y transporte de residuos sólidos urbanos y de manejo especial se llevará a cabo conforme a lo que establezca esta Ley, la legislación federal de la materia, las Normas Oficiales Mexicanas y las demás normas aplicables; así como las disposiciones que al efecto establezcan los Municipios.
+La caracterización, acopio, recolección, transferencia, almacenamiento y transporte de residuos sólidos urbanos y de manejo especial se llevará a cabo conforme a lo que establezca esta Ley, la legislación federal de la materia, las Normas Oficiales Mexicanas y las demás normas aplicables; así como los reglamentos y disposiciones que al efecto establezcan los Municipios.
 
 ###### ARTÍCULO 43.
 
@@ -763,9 +901,19 @@ III.- Identificar a los generadores de los residuos que pretendan manejar; y
 
 IV.- Las demás que les señale las normas de la materia y el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
 ###### ARTÍCULO 44.
 
-Toda actividad tendiente a reunir residuos sólidos urbanos y de manejo especial en un lugar determinado y apropiado para su posterior reutilización, reciclado, aprovechamiento, tratamiento o disposición final es considerado como acopio para efectos de esta Ley.
+Toda actividad tendiente a reunir para la compra y venta residuos sólidos urbanos y de manejo especial y/o residuos peligrosos en un lugar determinado y apropiado para su posterior reutilización, reciclado, aprovechamiento, tratamiento o disposición final es considerado como acopio para efectos de esta Ley, y deberá contemplar, al menos lo siguiente:
+
+I.- La forma de almacenamiento de cada uno de los residuos que se acopien, permitiendo el fácil acceso y limpieza del sitio de acopio, el cual deberá ajustarse a lo establecido en el Reglamento de esta Ley;
+
+II.- Contar con instalaciones adecuadas para el almacenamiento y manejo de los residuos acopiados;
+
+III.- Contar con un registro y control del origen de los residuos acopiados para prevenir problemas de contaminación, y mantener informada a la autoridad competente cuando lo requiera; y
+
+IV.- Contar con las medidas mínimas de seguridad para prevenir accidentes, aprobada por la autoridad competente.
 
 ###### ARTÍCULO 45.
 
@@ -841,19 +989,37 @@ Tratándose de residuos peligrosos que se generen en los hogares, inmuebles habi
 
 Para realizar las actividades relacionadas con la caracterización, acopio, transferencia, almacenamiento, transporte o cualquier otra actividad en preparación de los residuos para su reutilización, reciclado, tratamiento o disposición final las empresas por sí o a través de terceros según corresponda, deberán tener la autorización de la Autoridad competente y contar con:
 
-I.- Estudio de impacto ambiental aprobado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-II.- Uso del suelo;
+I.- Informes acerca del manejo, origen y destino otorgado a los residuos de que se trate, con la periodicidad y en los formatos que la autoridad competente determine;
 
-III.- La información necesaria para la formulación del Programa para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-IV.- Informes acerca del manejo y destino otorgado a los residuos de que se trate, con la periodicidad y en los formatos que la Autoridad competente determine;
+II.- Programas de capacitación de los trabajadores involucrados en el manejo de los residuos y la operación de los procesos, tecnologías y equipos que para tal fin se requieran;
 
-V.- Programas de capacitación de los trabajadores involucrados en el manejo de los residuos y la operación de los procesos, tecnologías y equipos que para tal fin se requieran;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-VI.- Programas para prevenir y responder a contingencias o emergencias ambientales; y
+III.- Programas y capacitación a los trabajadores involucrados para prevenir accidentes, así como para prevenir y responder a contingencias o emergencias ambientales;
 
-VII.- Las que determine el Reglamento de la presente Ley y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+IV.- Para el caso de acopio, transferencia o almacenamiento, además de los puntos anteriores, deberán presentar estudio de impacto ambiental y uso del suelo, aprobado por la autoridad competente de acuerdo con lo que se establezca en el Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+V.- Para el caso de caracterización deberá describir el procedimiento, actividades o metodología para el diagnóstico básico, descripción cuantitativa y cualitativa, así como los análisis requeridos para identificar los tipos de residuos a manejar por los generadores;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VI.- Para el caso de transporte además de las fracciones I, II, y III, deberán contar con los permisos correspondientes para transporte de carga otorgados por la autoridad competente, así como dar cumplimiento a las (sic) Normatividad en la materia para las emisiones de gases de vehículos automotores;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VII.- La información necesaria para la formulación y el cumplimiento del Programa Estatal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+VIII.- Las que determine el Reglamento de la presente Ley y demás normatividad aplicable.
 
 ###### ARTÍCULO 56.
 
@@ -1001,17 +1167,33 @@ IV.- Transferir autorizaciones para el manejo integral de residuos sólidos urba
 
 V.- Proporcionar a la Autoridad competente información falsa con relación a la generación y manejo integral de residuos sólidos urbanos y de manejo especial;
 
-VI.- No llevar a cabo por sí o a través de un prestador de servicios autorizado la gestión integral de los residuos sólidos urbanos y de manejo especial, que hubiere generado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-VII.- No proporcionar por parte de los generadores de residuos sólidos urbanos y de manejo especial, a los prestadores de servicios, la información necesaria para su gestión integral;
+VI.- No contar con Plan de Manejo autorizado por la autoridad competente;
 
-VIII.- No retirar la totalidad de los residuos sólidos urbanos y de manejo especial, de las instalaciones donde se hayan generado o llevado a cabo actividades de manejo integral de residuos sólidos urbanos y de manejo especial, una vez que éstas dejen de realizarse;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-IX.-Incumplir con las medidas de seguridad, a que se refiere esta Ley;
+VII.- No llevar a cabo por sí o a través de un prestador de servicios autorizado, la gestión integral de los residuos sólidos urbanos y de manejo especial, que hubiere generado;
 
-X.- Realizar cualquiera de las actividades que prohíbe el artículo 39 de esta Ley; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-XI.- Incurrir en cualquier otra violación a los preceptos de esta Ley.
+VIII.- No proporcionar por parte de los generadores de residuos sólidos urbanos y de manejo especial, a los prestadores de servicios, la información necesaria para su gestión integral;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+IX.- No retirar la totalidad de los residuos sólidos urbanos y de manejo especial, de las instalaciones donde se hayan generado o llevado a cabo actividades de manejo integral de residuos sólidos urbanos y de manejo especial, una vez que éstas dejen de realizarse;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+X.- Incumplir con las medidas de seguridad, a que se refiere esta Ley;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XI.- Realizar cualquiera de las actividades que prohíbe el artículo 39 de esta ley; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2012)</small>
+
+XII.- Incurrir en cualquier otra violación a los preceptos de esta Ley.
 
 ###### ARTÍCULO 76.
 
@@ -1335,9 +1517,15 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días de noviembre de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE AGOSTO DE 2009.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
