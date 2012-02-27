@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2010-09-10"
+last_updated: "2012-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-LEY PARA LA PROTECCION DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
+LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -349,9 +349,9 @@ XLVIII.- REUSO.- Es la acción de aprovechar un residuo sin un proceso previo de
 
 XLIX.- RIESGO AMBIENTAL.- Es la contingencia en el proceso de los fenómenos naturales o artificiales que pueden ser alterados por las condiciones que constituyan un peligro para el medio ambiente;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-L.- SECRETARÍA.- Secretaría del Medio Ambiente y Recursos Naturales;
+L.- SECRETARÍA.- Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
@@ -509,9 +509,9 @@ El Consejo Estatal de Ecología se integrará por:
 
 I.- Un Presidente, que será el titular del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
-II.- Un Secretario Técnico, que será el Titular de la Secretaría del Medio Ambiente y Recursos Naturales;
+II.- Un Secretario Técnico, que será el Titular de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial;
 
 III.- Un Secretario Ejecutivo, que deberá ser un Ciudadano destacado en el área ambiental que no sea funcionario público, mismo que será nombrado por la Asamblea del Consejo;
 
@@ -901,7 +901,7 @@ La Secretaría estimulará a los particulares a incorporar en su actividad produ
 
 Las personas físicas o jurídicas que pretendan realizar obras públicas o privadas, o su ampliación, así como actividades que modifiquen el ambiente, deberán sujetarse al procedimiento de evaluación del impacto ambiental, a fin de evitar o reducir al mínimo sus efectos negativos sobre el medio ambiente y contar, previamente a su ejecución u operación, con la autorización de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 38.
 
@@ -967,7 +967,7 @@ III.- Las obras o actividades de que se trate estén expresamente previstas en a
 
 IV.- Se trate de instalaciones ubicadas en parques industriales debidamente autorizados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1547,7 +1547,7 @@ Las fuentes fijas y móviles, directas e indirectas de contaminantes de cualquie
 
 La medición de las emisiones contaminantes se realizará conforme los procedimientos de muestreo y cuantificación establecidos en las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARÍICULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO I BIS. DEL REGISTRO ESTATAL DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES
 
@@ -2427,7 +2427,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de julio del año dos mil dos.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE AGOSTO DE 2009.
 
@@ -2440,3 +2440,11 @@ P.O. 10 DE SEPTIEMBRE DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2012.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO.- La Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial, en ejercicio de sus facultades y de existir alguna otra disposición legal en algún otro marco normativo que mencione a la Secretaría de Medio Ambiente y Recursos Naturales, podrá formular el proyecto de reforma de leyes, reglamentos, decretos, convenios, acuerdos, mismos que deberá remitir a la Secretaría de Servicios Legales y Defensoría Pública, para su estudio y análisis, en términos de la legislación aplicable en la materia.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
