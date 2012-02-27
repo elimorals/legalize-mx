@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2011-10-31"
+last_updated: "2012-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 125, PUBLICADO EN EL P.O. 31 DE OCTUBRE DE 2011, TODA REFERENCIA REALIZADA EN CUALQUIER ORDENAMIENTO A LA LEY SUPERIOR DEL ESTADO DE AGUASCALIENTES, SE ENTENDERA HECHA A LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE AGUASCALIENTES.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -70,6 +68,10 @@ Por la misma razón, el hogar y, particularmente, los niños, serán objeto de e
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2003)</small>
 
 El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá garantizar que accedan a las mismas oportunidades en condiciones de equidad.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2012)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -2458,3 +2460,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Toda referencia realizada en cualquier ordenamiento a la Ley Superior del Estado de Aguascalientes, se entenderá hecha a la Ley de Fiscalización Superior del Estado de Aguascalientes.
+
+P.O. 27 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
