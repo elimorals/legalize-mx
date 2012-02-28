@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2011-01-04"
+last_updated: "2012-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -1003,9 +1003,11 @@ Costas con motivo de apelación. En caso de apelación será condenada en las co
 
 Asuntos en los que no se causarán gastos y costas. No se condenará en gastos y costas a ninguna de las partes.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. En los procesos que versen cuestiones familiares a excepción de los juicios de alimentos, divorcio necesario, reconocimiento de la paternidad y violencia familiar; y
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2012)</small>
+
+I. En los procesos que versen cuestiones familiares a excepción de los juicios de alimentos, reconocimiento de la paternidad y violencia familiar; y
 
 II. En los asuntos de la competencia de los jueces de paz.
 
@@ -1283,9 +1285,19 @@ IV. El requerimiento a la parte que deba cumplirlo;
 
 V. Las sentencias definitivas;
 
-VI. En casos urgentes o cuando concurran circunstancias especiales, a juicio del juzgador; y
+VI. En casos urgentes o cuando concurran circunstancias especiales, a juicio del juzgador; y (sic)
 
-VII. Los demás casos en que la ley lo disponga.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2012)</small>
+
+VII. Tratándose de incidentes, la primera notificación se llevará a cabo en el domicilio señalado en autos por las partes, si se encuentra vigente el juicio principal, y para el caso, de que haya resolución firme o ejecutoriada o haya inactividad procesal por más de tres meses, se practicará en el lugar en el que resida la parte demandada incidentista; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2012)</small>
+
+VIII. Los demás casos en que la ley lo disponga.
 
 ###### Artículo 152.
 
@@ -2009,9 +2021,15 @@ Documentos que deben acompañarse a la demanda. Con toda demanda deberán acompa
 
 I. Los documentos que acrediten la personalidad o representación del que comparece en nombre de otro;
 
-II. Con la demanda debe presentar el actor los documentos en que funde la acción. Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales para que, a su costa, se mande expedir copia de ellos, en la forma que prevenga la Ley antes de admitirse la demanda. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda pedir copia autorizada de los originales; y
+II. Con la demanda debe presentar el actor los documentos en que funde la acción. Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales para que, a su costa, se mande expedir copia de ellos, en la forma que prevenga la Ley antes de admitirse la demanda. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda pedir copia autorizada de los originales; y (sic)
 
 III. Tantas copias simples del escrito de demanda y de los documentos que acompañe, cuantas fueren las personas demandadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2012)</small>
+
+IV. En los casos de divorcio deberá incluirse la propuesta de convenio en los términos que para tal efecto establece la Ley de Divorcio del Estado, debiendo ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de convenio.
 
 ###### Artículo 234.
 
@@ -2109,6 +2127,12 @@ Contestación de la demanda. El demandado formulará la contestación refiriénd
 
 En la misma contestación el demandado puede hacer valer la compensación y la reconvención. Si el demandado quiere llamar a juicio a un tercero en los casos del artículo 91 deberá manifestarlo en el mismo escrito de contestación. La petición posterior no será tramitada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2012)</small>
+
+En los casos de divorcio podrá manifestar su conformidad con el convenio propuesto o, en su caso, presentar su contrapropuesta, debiendo anexar las pruebas respectivas relacionadas con la misma. Si en la contestación se fuere omiso sobre la conformidad o no del convenio, el juzgador prevendrá al cónyuge para que se pronuncie al respecto.
+
 ###### Artículo 243.
 
 Consignación de lo que crea deber el demandado. El demandado puede, al contestar la demanda, consignar lo que crea deber. La consignación libera al demandado de responsabilidad ulterior por el importe de la suma o bien consignado.
@@ -2119,13 +2143,23 @@ Documentos que deberán acompañarse al contestar la demanda. Con el escrito de 
 
 I. Los documentos que acrediten la personalidad o representación del que comparece en nombre de otro. Puede el demandado no acompañar estos documentos, siempre que proteste presentarlos y que designe el lugar o archivo en que se encuentren; y en este caso se le fijará un término de cinco días para que lo haga o recabe copia de ellos; y de no hacerlo en este término sin más trámite, se tendrá por no contestada la demanda, teniéndose al demandado por rebelde;
 
-II. Los documentos que funden las excepciones y defensas del demandado y la compensación o reconvención y los que quiera utilizar como prueba, siguiéndose en lo conducente las reglas de los artículos 233 y 234; y
+II. Los documentos que funden las excepciones y defensas del demandado y la compensación o reconvención y los que quiera utilizar como prueba, siguiéndose en lo conducente las reglas de los artículos 233 y 234; y (sic)
 
 III. Una copia del escrito de contestación y demás documentos para que se corra traslado al actor.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 28 DE FEBRERO DE 2012)</small>
+
+IV. En los casos de divorcio, la contrapropuesta al convenio, en caso de inconformidad con el convenio propuesto, debiendo anexar las pruebas respectivas relacionadas con la misma. Cuando existiera manifestación expresa sobre la inconformidad del convenio y no se anexara la contrapropuesta, el juez prevendrá al cónyuge omiso para que lo exhiba en el término de veinticuatro horas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 245.
 
-Allanamiento. Si el demandado se allanare a la demanda, el juzgador citará a las partes para oír sentencia definitiva, sin necesidad de otro trámite, pudiendo ordenar la ratificación del escrito, cuando lo juzgue conveniente.
+Allanamiento. Si el demandado se allanare de la demanda, el juzgador citará a las partes para oír sentencia definitiva, sin necesidad de otro trámite, pudiendo ordenar la ratificación del escrito, cuando lo juzgue conveniente, con excepción de los casos de divorcio donde la ratificación resulta obligatoria.
 
 No procede citar para sentencia en caso de allanamiento de la demanda, si la cuestión planteada interesa al orden público o cuando manifiestamente la sentencia por dictarse surte efectos frente a terceros que no han litigado, y en los demás casos en que la ley lo disponga.
 
@@ -2320,6 +2354,36 @@ Si asistieren las dos partes, el juzgador examinará las cuestiones relativas a 
 En caso de desacuerdo entre los litigantes, la audiencia proseguirá y el juzgador, que dispondrá de amplias facultades de dirección procesal, examinará, en su caso, las excepciones de conexidad, litispendencia y cosa juzgada, con el fin de depurar el procedimiento.
 
 Antes de declarar cerrada la audiencia el juzgador deberá decidir sobre la procedencia de la apertura del término probatorio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2012)</small>
+
+En los casos de divorcio antes de declarar cerrada la audiencia, el juzgador dará cuenta de las pruebas aportadas en la propuesta y contrapropuesta del convenio de las cuales se reservará el derecho de desahogarlas y valorarlas en el incidente correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2012)</small>
+
+Artículo 262 A.- Audiencia previa y de conciliación en el divorcio incausado. En el caso de que existan diferencias en los convenios propuestos, el juez dentro de los cinco días siguientes a la contestación de la solicitud, citará a los cónyuges a la audiencia previa y de conciliación para promover el acuerdo entre las pretensiones expuestas en los citados convenios.
+
+Si los cónyuges llegan a un acuerdo respecto al convenio, el juez decretará la disolución del vínculo matrimonial y la aprobación del convenio, mediante sentencia.
+
+De no llegar a un acuerdo se procederá en los términos del artículo 33 de la Ley de Divorcio del Estado y 405 de este ordenamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2012)</small>
+
+Artículo 262 B.- Declaración del Divorcio. El juez decretará el divorcio:
+
+I. Una vez que se haya contestado la solicitud presentada y el cónyuge se allanare a la misma;
+
+II. Cuando haya precluido el término para contestarla;
+
+III. Cuando no hubiere contrapropuesta al convenio; o
+
+IV. Cuando no se hubiere llegado a un acuerdo conciliatorio conforme a los puntos del convenio. En este caso, el juez en la sentencia que decrete el divorcio, dejará a salvo el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
 
 ###### Artículo 263.
 
@@ -3273,7 +3337,11 @@ II. Los autos, cuando expresamente lo disponga este Código; y
 
 III. Las sentencias que se dicten con el carácter de provisionales en procedimientos precautorios, sin perjuicio de que en los casos en que proceda, se reclame la providencia ante el mismo juzgador o se levante por éste.
 
-No serán apelables las sentencias y demás resoluciones que se dicten en juicio cuya cuantía no exceda de ciento ochenta y dos veces el salario mínimo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2012)</small>
+
+No serán apelables las sentencias que declaren la disolución del vínculo matrimonial. Tampoco lo serán las sentencias y demás resoluciones que se dicten en juicio cuya cuantía no exceda de ciento ochenta y dos veces el salario mínimo.
 
 ###### Artículo 387.
 
@@ -7058,3 +7126,17 @@ QUINTO.- En un término de cuarenta y cinco días la Coordinación Técnica del 
 SEXTO.- Una vez entrada en vigor la presente Ley, la Coordinación Técnica del Sistema Estatal del Registro Civil creará las unidades administrativas encargadas de conocer y resolver los Procedimientos de Aclaración o rectificación administrativa que establece esta Ley, con el personal especializado en la materia.
 
 SÉPTIMO.- Respecto a los juicios de rectificación pendientes por resolver en los Juzgados Familiares de Primera Instancia, al entrar en vigor la presente Ley, los interesados podrán continuar su trámite conforme a las disposiciones legales vigentes a la fecha de su inicio o sujetarse al procedimiento de rectificación administrativa previsto en esta Ley.
+
+P.O. 28 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Juicios de divorcio pendientes al entrar en vigor el presente Decreto, seguirán tramitándose conforme a las disposiciones legales vigentes a la fecha de su inicio, excepto que los interesados de común acuerdo se acojan a lo presupuestado por el presente.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
