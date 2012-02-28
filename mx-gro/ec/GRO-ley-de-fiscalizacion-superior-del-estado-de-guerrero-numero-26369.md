@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-fiscalizacion-superior-del-estado-de-guerrero-numero-263
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-06"
-last_updated: "2009-03-24"
+last_updated: "2012-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUERRERO NÚMERO 564
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 1028 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 28 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 6 de noviembre de 2002.
 
@@ -1686,3 +1688,21 @@ PRIMERO.- El Artículo 12 del presente Decreto entrará en vigor en la misma fec
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
+
+P.O. 28 DE FEBRERO DE 2012.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las formalidades para la presentación de las cuentas públicas del 2011 se regirán por lo dispuesto en la Ley de Fiscalización Superior del Estado de Guerrero, número 564. Su fiscalización se llevará a cabo conforme a lo señalado por la presente Ley.
+
+Las cuentas públicas del 2012 se presentarán y fiscalizarán de conformidad con las disposiciones establecidas en esta Ley.
+
+TERCERO. El Auditor General del Estado en funciones durará en su encargo el tiempo establecido en el decreto de su nombramiento.
+
+CUARTO. La Auditoria General del Estado deberá emitir la reglamentación complementaria que corresponda en un plazo de tres meses contadas (sic) a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. La Comisión de Gobierno dentro de los cuarenta y cinco días posteriores a la entrada en vigor de la presente ley, propondrá a los Auditores Especiales de la Auditoria General del Estado, a través de convocatoria pública. Podrán registrarse para participar en el proceso quienes actualmente laboren en la Auditoria General previo cumplimiento de los requisitos exigidos para ello.
+
+SEXTO. Los procedimientos cuyo trámite haya iniciado previo a la vigencia de la presente Ley, serán sustanciados por la Auditoria General bajo el régimen de la Ley de Fiscalización Superior del Estado de Guerrero, número 564. Los procedimientos que se inicien a la entrada en vigor de la presente Ley, se regirán por ésta.
+
+SÉPTIMO. Se abroga la Ley de Fiscalización Superior del Estado de Guerrero, Número 564.
