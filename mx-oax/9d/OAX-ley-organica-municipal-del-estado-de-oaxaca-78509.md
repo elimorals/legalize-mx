@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2011-12-17"
+last_updated: "2012-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -208,6 +208,10 @@ I.- Que el Ayuntamiento del municipio a que pertenece el centro de población, l
 II.- Acta de acuerdo del centro de población que pretenda la rectificación o modificación de nombre, con las firmas de sus ciudadanos.
 
 III.- Documentos públicos y/o privados que acrediten o justifiquen el uso del nombre que solicitan.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 20 TER.- El Congreso del Estado, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, podrá otorgar las denominaciones políticas y/o categorías administrativas a que se refieren los artículos 15 y 17 de la presente ley, dispensando los requisitos exigidos en dichos preceptos, a los Centros de Población o comunidades indígenas de los Municipios, cuyo territorio colinde con el de otras entidades federativas.
 
 ### CAPÍTULO II. DE LA MODIFICACIÓN TERRITORIAL MUNICIPAL
 
@@ -1071,7 +1075,7 @@ Los agentes municipales y de policía durarán en su cargo hasta tres años o el
 
 En el caso de remoción de agentes municipales y de policía (sic) elegidos por usos y costumbres, éstos se seguirán respetando por el Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, 2 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 2 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 79.
 
@@ -1951,7 +1955,7 @@ Al C.
 
 NOTA: Las presentes firmas corresponden al Decreto No. 2107, aprobado por la Sexagésima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba la Ley Orgánica Municipal del Estado de Oaxaca.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE DICIEMBRE DE 2010.
 
@@ -1965,28 +1969,32 @@ SEGUNDO.- Se abrogan todas las disposiciones que se opongan a la presente Ley.
 
 P.O. 7 DE ABRIL DE 2011.
 
-DECRETO NUMERO 389, POR EL QUE SE ADICIONA UNA FRACCION AL ARTICULO 43 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA, RECORRIENDOSE LA FRACCION LXV A LA FRACCION LXVI.
+DECRETO NÚMERO 389, POR EL QUE SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 43 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA, RECORRIÉNDOSE LA FRACCIÓN LXV A LA FRACCIÓN LXVI.
 
 ÚNICO.- El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 P.O. 7 DE ABRIL DE 2011.
 
-DECRETO NUMERO 390, POR EL QUE SE DEROGA LA FRACCION II DEL ARTICULO 47 DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
+DECRETO NÚMERO 390, POR EL QUE SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 47 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUMERO 644, POR EL QUE SE ADICIONA UN ARTICULO 20 BIS, AL TITULO SEGUNDO, CAPITULO PRIMERO Y SE REFORMA LA FRACCION IV DEL ARTICULO 43, DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
+DECRETO NÚMERO 644, POR EL QUE SE ADICIONA UN ARTÍCULO 20 BIS, AL TÍTULO SEGUNDO, CAPÍTULO PRIMERO Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 43, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-DECRETO NUMERO 645, POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 20, DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA.
+DECRETO NÚMERO 645, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 20, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2011.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE FEBRERO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
