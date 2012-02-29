@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-762-de-justicia-para-adolescentes-del-estado-82748"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-23"
-last_updated: "2011-08-23"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 762 DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-LEY NUMERO 762 DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+LEY NÚMERO 762 DE JUSTICIA PARA ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 23 de agosto de 2011.
 
@@ -2699,7 +2699,9 @@ Los procesos y sentencias que se dicten en éstos no constituirán antecedentes 
 
 T R A N S I T O R I O S
 
-PRIMERO.- La presente ley entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+PRIMERO.- La presente Ley entrará en vigor el treinta de agosto de dos mil doce.
 
 SEGUNDO.- A la entrada en vigor del presente ordenamiento jurídico queda abrogada la Ley de Tutela y de Asistencia Social para Menores Infractores del Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado número 103 del 13 de diciembre de 1988. Los adolescentes sujetos a procedimiento por alguna infracción penal, o que se encuentren cumpliendo una medida de tratamiento de conformidad a la ley que se abroga, quedarán sujetos al régimen previsto en la presente ley en todo aquello que les favorezca.
 
@@ -2746,3 +2748,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUMBERTO SALGADO GÓMEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+El Ejecutivo del Estado, atendiendo lo dispuesto en los artículos 21 y 60 de la Ley número 454 de Presupuesto y Disciplina Fiscal del Estado de Guerrero, procederá a informar a este Honorable Congreso en un plazo no mayor a 15 días, contados a partir de la aprobación por el Pleno de esta Soberanía, respecto de las adecuaciones presupuestales para dotar de la infraestructura física, presupuestal y financiera suficiente al Poder Judicial del Estado, que garanticen la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
