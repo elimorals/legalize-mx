@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2009-11-07"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL MUNICIPIO
 
-LEY ORGANICA DEL MUNICIPIO
+LEY ORGÁNICA DEL MUNICIPIO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -607,7 +607,9 @@ V. De los actos administrativos;
 
 VI. De la planeación municipal;
 
-VII. De la salud pública y de la protección del medio ambiente;
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2012)</small>
+
+VII. De la salud pública;
 
 VIII. Del gobierno y administración municipal;
 
@@ -629,7 +631,13 @@ XVI. Del bienestar y asistencia social;
 
 XVII. Del orden y la seguridad pública; y
 
-XVIII. De las infracciones y sanciones.
+> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2012)</small>
+
+XVIlI. De ecología y medio ambiente;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2012)</small>
+
+XIX. De las infracciones y sanciones.
 
 ###### Artículo 52.
 
@@ -1509,6 +1517,62 @@ XI. Realizar campañas de difusión para promover el respeto y la protección de
 
 XII. Las demás que le señale la presente ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+Artículo 114 quinquies.- La Dirección, Departamento o Unidad Municipal de Ecología y Medio Ambiente, es el órgano encargado de preservar el equilibrio ecológico, la protección al ambiente y el aprovechamiento sustentable de los recursos naturales en el ámbito de competencia municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+Artículo 114 sexies.- Para ser titular de la Dirección, Departamento o Unidad Municipal de Ecología y Medio Ambiente se requiere:
+
+I. Ser ciudadano mexicano en pleno uso de sus derechos políticos y estar avecindado en el Municipio cuando menos un año antes de su designación;
+
+II. Tener preferentemente, en municipios mayores de cincuenta mil habitantes, título profesional expedido por autoridad competente;
+
+III. No haber sido condenado en sentencia ejecutoria por delito intencional, y
+
+IV. Contar con experiencia en temas relacionados con la protección al ambiente y el aprovechamiento sustentable de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+Artículo 114 septies.- Son facultades y obligaciones de la Dirección, Departamento o Unidad Municipal de Ecología y Medio Ambiente:
+
+l. Formular y conducir la política ambiental en el Municipio, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales celebrados por el Estado Mexicano, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado y demás disposiciones aplicables;
+
+II. Aplicar los instrumentos de política ambiental previstos en las disposiciones legales aplicables, para la protección al ambiente en bienes y zonas de jurisdicción municipal, en materias que no estén expresamente atribuidas a la Federación o al Estado;
+
+III. Intervenir, en el ámbito de su competencia, en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como de emisiones de contaminantes a la atmósfera provenientes de fuentes móviles, con la participación que de acuerdo a la legislación corresponda al Estado;
+
+IV. Participar, en el ámbito de su competencia, en materia de prevención y control de los efectos sobre medio ambiente ocasionados por la generación, transporte, almacenamiento y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos, de acuerdo a la legislación en la materia;
+
+V. Intervenir en la creación y administración de zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en la legislación aplicable;
+
+VI. Aplicar las disposiciones en materia de prevención y control de la contaminación por ruido, vibraciones, energía térmica, radiaciones electromagnéticas y lumínica y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles excepto las que conforme a legislación sean consideradas de jurisdicción federal;
+
+VII. Intervenir, en el ámbito de su competencia, en materia de prevención y control de la contaminación de las aguas que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que conforme a la legislación aplicable corresponda al Gobierno del Estado;
+
+VIII. Formular los programas de ordenamiento ecológico local del territorio de acuerdo a la legislación aplicable, así como el control y la vigilancia del uso y cambio de uso de suelo, establecidos en dichos programas;
+
+IX. Participar en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+X. Intervenir, en el ámbito de su competencia, en la aplicación y cumplimiento de las normas oficiales mexicanas en materia ambiental expedidas por la Federación;
+
+XI. Formular la política municipal de información y difusión en materia ambiental;
+
+XII. Participar en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de su circunscripción territorial;
+
+XIII. Elaborar y someter a la consideración del Ayuntamiento, el programa municipal de protección al ambiente, el cual estará articulado a los planes y programas federales, estatales y regionales;
+
+XIV. Proporcionar asesoría, atención y orientación a los habitantes del Municipio en materia ambiental;
+
+XV. Proponer a la Secretaría de Educación y Cultura, la inclusión de temas ambientales para que se establezcan en los planes y programas educativos;
+
+XVI. Formular la política forestal y participar en la restauración de los ecosistemas y recursos forestales del Municipio, de conformidad con la Ley General de Desarrollo Forestal Sustentable y otras disposiciones aplicables;
+
+XVII. Participar, en el ámbito de su competencia, en la política nacional en materia de vida silvestre, de conformidad con la Ley General de Vida Silvestre y la legislación aplicable, y
+
+XVIII. Las demás señaladas en las leyes y reglamentos correspondientes.
+
 ### CAPÍTULO SEGUNDO. De los Servicios Públicos Municipales y las Modalidades en su Prestación
 
 ###### Artículo 115.
@@ -2315,7 +2379,7 @@ DIPUTADO SECRETARIO DIPUTADO SECRETARIO
 
 LIC. CATARINO MARTINEZ DIAZ PABLO RAMIREZ FIGUEROA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE JULIO 2002.
 
@@ -2334,3 +2398,13 @@ P.O. 7 DE NOVIEMBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo.- Los ayuntamientos cantarán con un término de tres meses, contados a partir de la entrada en vigor del presente Decreto, para nombrar al titular de la Dirección Municipal de atención a Migrantes y realizar las adecuaciones administrativas a los ordenamientos municipales.
+
+P.O. 29 DE FEBRERO DE 2012.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, los Ayuntamientos nombrarán al Director, Jefe de Departamento o Jefe de Unidad de Ecología y Medio Ambiente o, en su caso, ratificarán la designación o el nombramiento conferido.
+
+Artículo tercero.- Dentro de los noventa días siguientes a la entrada en vigencia de este instrumento legal, los Ayuntamientos adecuarán su Bando y reglamentos a lo previsto en el presente Decreto.
+
+Artículo cuarto.- Se derogan las disposiciones que contravengan este Decreto.
