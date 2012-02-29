@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-y-desarrollo-de-los-derechos-y-cultura-de-84873"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-18"
-last_updated: "2012-01-18"
+last_updated: "2012-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE FOMENTO Y DESARROLLO DE LOS DERECHOS Y CULTURA DE LAS COMUNIDADES Y PUEBLOS INDIGENAS DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE FEBRERO DE 2012 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FOMENTO Y DESARROLLO DE LOS DERECHOS Y CULTURA DE LAS COMUNIDADES Y PUEBLOS INDÍGENAS DEL ESTADO DE MORELOS.
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE FEBRERO DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 18 de enero de 2012.
 
@@ -999,8 +999,6 @@ Las comunidades indígenas participaran de manera fundamental en el diseño de l
 
 En la Entidad Morelense los Pueblos y Comunidades Indígenas, participaran e (sic) la Elaboración del Plan Estatal y Municipal de Desarrollo, vigilando y controlando sus ejes de desarrollo económico;
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITPRIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor sesenta días posteriores a su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
@@ -1017,7 +1015,9 @@ SEXTO.- El Poder Ejecutivo, hará del conocimiento de los Pueblos y Comunidades 
 
 Recinto Legislativo a los trece días del mes de diciembre de dos mil once.
 
-Atentamente. "Sufragio Efectivo. No Reelección". Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Julio Espín Navarrete. Presidente. Rúbrica. Dip. Israel Andrade Zavala. Vicepresidente. Rúbrica. Dip. Jessica María Guadalupe Ortega de la Cruz. Secretaria. Rúbrica. Dip. Tania Valentina Rodríguez Ruíz. Secretaria. Sin Rúbrica.
+> <small>(F. DE E., P.O. 29 DE FEBRERO DE 2012)</small>
+
+Atentamente. "Sufragio Efectivo. No Reelección". Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Julio Espín Navarrete. Presidente. Dip. Israel Andrade Zavala. Vicepresidente. Dip. Jessica María Guadalupe Ortega de la Cruz. Secretaria. Dip. Tania Valentina Rodríguez Ruíz. Secretaria. Rúbrica.
 
 Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
 
