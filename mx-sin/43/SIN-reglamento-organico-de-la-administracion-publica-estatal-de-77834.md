@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-05"
-last_updated: "2011-01-24"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
-REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
+REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 5 de enero de 2011.
 
@@ -1079,9 +1079,13 @@ III. Coordinar y organizar la implementación y desarrollo de eventos especiales
 
 IV. Diseñar, proponer, coordinar y dirigir la logística para el desarrollo del evento relativo al informe anual de actividades que rinde el Titular del Ejecutivo ante el H. Congreso del Estado;
 
-V. Organizar, clasificar y en su caso turnar para la atención de las autoridades competentes, la correspondencia del Gobernador del Estado, y de la propia Secretaría Particular; y,
+V. Organizar, clasificar y en su caso turnar para la atención de las autoridades competentes, la correspondencia del Gobernador del Estado, y de la propia Secretaría Particular; y, (sic)
 
-VI. Atender y tramitar los demás asuntos que le encomiende el ejecutivo.
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2012)</small>
+
+VI. Coordinar la atención a la ciudadanía para canalizar ante las dependencias correspondientes las gestiones y peticiones que recibe directamente el Gobernador del Estado por parte de la población y organizaciones sociales y productivas;
+
+VII. Atender y tramitar los demás asuntos que le encomiende el ejecutivo.
 
 ###### Artículo 50.
 
@@ -1205,7 +1209,7 @@ IV. Consultar, proponer y recopilar información para la elaboración de los doc
 
 V. Realizar estudios de diversos temas para mantener informado al Titular del Ejecutivo, cuando el gobernador lo disponga;
 
-VI. Coordinar la unidad de atención a la ciudadanía para canalizar ante las dependencias correspondientes las gestiones y peticiones que recibe directamente el Gobernador del Estado por parte de la población y organizaciones sociales y productivas;
+VI. (DEROGADA, P.O. 29 DE FEBRERO DE 2012)
 
 VII. Promover la realización de encuestas ciudadanas que permitan conocer la percepción social sobre el Gobierno del Estado;
 
@@ -1257,7 +1261,7 @@ XIV. Las demás que le atribuyan las leyes, reglamentos y acuerdos o que expresa
 
 Al titular de esta entidad administrativa se le denominará Coordinador General de Comunicación Social. Para el despacho de los asuntos de su competencia se auxiliará de los servidores públicos que establezca su reglamento interior o que determine el presupuesto de egresos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO V BIS. DE LA COORDINACIÓN GENERAL DE PROYECTOS ESTRATÉGICOS
 
@@ -1299,7 +1303,7 @@ Artículo 56 Bis A.- Al titular de esta entidad administrativa se le denominará
 
 Artículo 56 Bis B.- Las dependencias, entidades y organismos de la Administración Pública Estatal y Paraestatal, en el ámbito de sus respectivas competencias, deberán otorgar a la Coordinación General de Proyectos Estratégicos, la información y apoyo que les requiera para el cumplimiento de sus funciones. De existir controversia respecto a lo dispuesto en este párrafo, el Titular del Ejecutivo Estatal resolverá en definitiva en los términos de los artículos 11 y 12 de este Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2011)</small>
 
 ### CAPÍTULO V BIS A. DE LA REPRESENTACIÓN DEL GOBIERNO DEL ESTADO DE SINALOA EN EL DISTRITO FEDERAL
 
@@ -1439,8 +1443,14 @@ El Subprocurador General de Justicia, encargado del Despacho de la Procuraduría
 
 Jesús Martín Robles Armenta
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 24 DE ENERO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE FEBRERO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
