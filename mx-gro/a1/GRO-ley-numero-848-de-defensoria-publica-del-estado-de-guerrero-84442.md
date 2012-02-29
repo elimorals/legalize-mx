@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-848-de-defensoria-publica-del-estado-de-guerrero-844
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-06"
-last_updated: "2011-12-06"
+last_updated: "2012-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 848 DE DEFENSA PÚBLICA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de diciembre de 2011.
 
@@ -795,7 +795,9 @@ Los servidores públicos del instituto serán sancionados en base al procedimien
 
 T R A N S I T O R I O S
 
-Primero. El presente ordenamiento legal entrará en vigor el 1o. de marzo de 2012.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+Primero. La presente Ley entrará en vigor el treinta de agosto de dos mil doce.
 
 Segundo. Los asuntos que se encuentren en trámite antes de la entrada en vigor de esta ley, deberán ser concluidos en los términos de la ley vigente en la fecha de su inicio.
 
@@ -850,3 +852,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUMBERTO SALGADO GÓMEZ.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+El Ejecutivo del Estado, atendiendo lo dispuesto en los artículos 21 y 60 de la Ley número 454 de Presupuesto y Disciplina Fiscal del Estado de Guerrero, procederá a informar a este Honorable Congreso en un plazo no mayor a 15 días, contados a partir de la aprobación por el Pleno de esta Soberanía, respecto de las adecuaciones presupuestales para dotar de la infraestructura física, presupuestal y financiera suficiente al Poder Judicial del Estado, que garanticen la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
