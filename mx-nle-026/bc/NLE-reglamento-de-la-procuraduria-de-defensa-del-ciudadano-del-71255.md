@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-procuraduria-de-defensa-del-ciudadano-del-7125
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-23"
-last_updated: "2011-03-02"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
+REGLAMENTO DE LA PROCURADURÍA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de noviembre de 2009.
 
@@ -136,6 +136,10 @@ VI).- Director Técnico: Es el responsable de promover y aplicar las políticas,
 > <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 2010)</small>
 
 VII).- Coordinador de Enlaces Estratégicos y Capacitación: Es el encargado de dejar establecido por escrito y reforzando además con esquemas gráficos, relaciones de hechos significativos para la historia de la Procuraduría; así como ser enlace entre ésta y las distintas entidades gubernamentales o no, para apoyo y coordinación mutua.
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2012)</small>
+
+VIII).- Coordinador Administrativo: Es el encargado de desarrollar y coordinar las actividades orientadas a la elaboración e implantación de los programas, procedimientos y lineamientos que sean de utilidad y de apoyo en el ejercicio de las funciones relacionadas con la administración de los recursos humanos, financieros y materiales que se requieren para el funcionamiento de la dependencia, cumpliendo con los principios de la oportunidad, transparencia y eficiencia administrativa.
 
 ###### ARTÍCULO 6.
 
@@ -353,7 +357,7 @@ VIII.- Someter a consideración del Procurador el proyecto de programa anual de 
 
 IX.- Cubrir las ausencias temporales del Procurador, hasta por 30 días hábiles.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI
 
@@ -365,7 +369,7 @@ DEL NOMBRAMIENTO Y FACULTADES DEL COORDINADOR DE PROCEDIMIENTOS DE INVESTIGACIÓ
 
 El Coordinador de Procedimientos de Investigación y los auxiliares serán nombrados por el Procurador en funciones. Además el Coordinador de Procedimientos de Investigación podrá cubrir las ausencias temporales del Director de Procedimientos de Investigación, de conformidad con lo establecido en el presente Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
@@ -507,11 +511,37 @@ IX.- Impartir conferencias, talleres y actividades afines a la promoción y cono
 
 X.- Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el Director Técnico.
 
-### CAPÍTULO ÚNICO. DE LA COMPETENCIA Y DEL PROCEDIMIENTO CONCILIATORIO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2012)</small>
+
+### CAPÍTULO X. DEL NOMBRAMIENTO Y FACULTADES DEL COORDINADOR ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 32 BIS.- El Coordinador Administrativo, será nombrado por el Procurador en funciones.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 32 BIS I.- Para ser Coordinador Administrativo, se requiere:
+
+I).- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
+
+II).- Ser profesionista con titulo debidamente registrado y con cedula profesional.
+
+III).- Tener por lo menos 22- veintidós años de edad cumplidos al día de la designación.
+
+IV).- Contar con el conocimiento y experiencia necesaria al juicio del Procurador que lo propone, para el desempeño de sus funciones.
+
+V).- No ser funcionario público federal o estatal, no ser ministro de algún culto religioso y no ejercer puestos de dirección en partido político alguno.
+
+VI).- Gozar de buena reputación, tener un modo honesto de vivir, y no haber sido condenado por delito doloso que amerite pena corporal; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama ya como Coordinador, este será inhabilitado para el cargo cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 32 BIS II.- Son facultades y obligaciones del Coordinador Administrativo las señaladas en el Reglamento Orgánico de la Administración Pública Municipal, y en sus Manuales y normatividad de procedimientos de él derivados, así como lo establecido en la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y las que le señalen como de su competencia en las leyes, reglamentos y otras disposiciones jurídicas vigentes, y específicamente las que le encomiende el C. Presidente Municipal y/o el C. Procurador de Defensa del Ciudadano.
 
 ## TÍTULO III
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DE LA COMPETENCIA Y DEL PROCEDIMIENTO CONCILIATORIO
 
 ###### ARTÍCULO 33.
 
@@ -555,7 +585,7 @@ El arreglo mutuo al que llegaren las partes, no traerá consigo presunción de r
 
 ## TITULO IV. DEL PROCEDIMIENTO ANTE LA PROCURADURIA DE DEFENSA DEL CIUDADANO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-### CAPÍTULO II. DE LA TRAMITACION DE LA QUEJA O DENUNCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 39.
 
@@ -587,37 +617,35 @@ En todos los casos de presuntas violaciones a los derechos de las personas, y qu
 
 Una vez iniciada la investigación cesara toda representación, pues será el Procurador, quien asuma la defensa de la persona.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
 
 El denunciado o la persona contra quien se dirija la queja podrán defenderse por sí mismo, a través de abogado o por persona de su confianza.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
 
-Son causas de diferimiento de la audiencia de pruebas y alegatos:
+La Procuraduría decretara la práctica de cualquiera diligencia, la aportación o la ampliación de pruebas, que se estimen necesarias sin más limitación que sean de les reconocidas por la ley y que tengan relación con los hechos controvertidos.
 
-a).- No haber acudido alguna de las partes por primera ocasión a dicha audiencia, o no haber aportado las pruebas que ofrecieron en su denuncia o contestación.
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
 
-b).- La necesidad de desahogar diligencias fuera de las oficinas sede de la Procuraduría, tales como inspecciones ,reconocimientos de lugares, personas, objetos o documentos.
+Para el desahogo de la determinación que se adopte conforme al párrafo anterior, la Procuraduría procederá de la manera más pertinente para lograr el propósito mencionado, cuidando siempre de conservar la igualdad de las partes y de no lesionar sus derechos.
 
-c).- Por así haberlo solicitado alguna de las partes, manifestando su intención de dialogar con el ánimo de conciliación.
-
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
 
 Procederá el sobreseimiento por:
 
-a).- Desistimiento de la denuncia o queja.
+a).- Desistimiento de la denuncia o queja;
 
-b).- Muerte del denunciado.
+b).- Muerte del denunciado;
 
-c).- Por abandono voluntario de la función del servidor público, siempre y cuando exista la conformidad del quejoso o denunciante.
+c).- Por abandono voluntario de la función del servidor público, siempre y cuando exista la conformidad del quejoso o denunciante;
 
-d).- Por caducidad de la instancia, es decir cuando por causas del quejo o denunciante no es posible continuar con el procedimiento durante más de sesenta días hábiles.
+d).- Por caducidad de la instancia, es decir cuando por causas del quejoso denunciante no es posible continuar en el procedimiento durante más de sesenta días hábiles.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2012)</small>
 
 El sobreseimiento produce los efectos de sentencia absolutoria, sin prejuzgar la conducta del Servidor Público incriminado.
 
-### CAPÍTULO III. DE LA CALIFICACION DE LA QUEJA O DENUNCIA
+### CAPÍTULO II. DE LA TRAMITACION DE LA QUEJA O DENUNCIA
 
 ###### ARTÍCULO 43.
 
@@ -639,7 +667,7 @@ Si de la denuncia o queja presentada, se requiere su aclaración, corrección o 
 
 La formulación de las quejas y denuncias, así como las resoluciones emitidas por la Procuraduría, no afectarán el ejercicio de alguna otra vía o medio jurídico de defensa, que pudiere corresponder ejercer a la persona que se sienta afectada, y de esa manera se le hará saber.
 
-### CAPÍTULO IV. DE LAS PRUEBAS
+### CAPÍTULO III. DE LA CALIFICACION DE LA QUEJA O DENUNCIA
 
 ###### ARTÍCULO 48.
 
@@ -665,7 +693,7 @@ En el caso de que el servidor publico municipal no rinda en tiempo y forma el in
 
 En caso de que la Procuraduría considere que no es competente, para conocer de una determinada queja o denuncia, o de que ésta sea notoriamente improcedente, deberá de pronunciar un auto de no admisión y orientar al quejoso sobre la instancia o autoridad competente.
 
-### CAPÍTULO V. DE LA RESOLUCION
+### CAPÍTULO IV. DE LAS PRUEBAS
 
 ###### ARTÍCULO 54.
 
@@ -683,13 +711,13 @@ Además para la solución ágil de los casos sometidos ante la Procuraduría, se
 
 Al momento de que tenga verificativo la audiencia de pruebas y alegatos, se calificaran las pruebas que hubieren sido ofrecidas por las partes, en su escrito de queja o denuncia, así como en el informe que en su caso fue rendido, debiendo dichos elementos de convicción cumplir con los requisitos que fueron señalados en los artículos 50, 51, y 52 del presente ordenamiento.
 
-### CAPÍTULO I. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO V. DE LA RESOLUCION
 
 ###### ARTÍCULO 58.
 
 Una vez desahoga la audiencia de pruebas y alegatos, se declarara cerrado el periodo de instrucción y la Procuraduría dispondrá de 10-diez días hábiles, contados a partir de esa fecha para elaborar la resolución, en la que se deberá determinar, si existe o no responsabilidad administrativa, en contra del o los servidores públicos acusados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 59.
 
@@ -741,11 +769,13 @@ En virtud de lo señalado en el artículo anterior, será la Secretaría de Cont
 
 ## TITULO V. DE LOS RECURSOS
 
-### CAPÍTULO II. DEL RECURSO DE REVOCACIÓN
+### CAPÍTULO I. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 63.
 
 Los actos emitidos por la autoridad municipal competente, podrán ser reclamados por cualquier persona física o moral con interés jurídico en el asunto, mediante la interposición en tiempo y forma del recurso de inconformidad previsto en el Reglamento de Procedimiento Administrativo para el Municipio de Ciudad Guadalupe, Nuevo León.
+
+### CAPÍTULO II. DEL RECURSO DE REVOCACIÓN
 
 ###### ARTÍCULO 64.
 
@@ -775,7 +805,7 @@ LIC. GABRIEL TLALOC CANTU CANTU.
 
 Secretario del Ayuntamiento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 14 DE MAYO DE 2010.
 
@@ -794,3 +824,17 @@ P.O. 2 DE MARZO DE 2011.
 PRIMERO.- La reforma por modificación al artículo 24 del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma por modificación del texto al artículo 24 del Reglamento de la Procuraduría Municipal de Defensa del Ciudadano de Guadalupe, Nuevo león.
+
+P.O. 29 DE FEBRERO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas por adición al Reglamento de la Procuraduría de Defensa del Ciudadano del Municipio de Guadalupe, Nuevo León entraran en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes reformas al Reglamento de la Procuraduría de Defensa del Ciudadano del Municipio de Guadalupe, Nuevo León.
+
+###### ARTÍCULO TERCERO.
+
+Envíese a la C. Primer Regidor Ing. Carlos Rodríguez Padilla Encargado del Despacho de la Presidencia municipal para que tenga a bien instruir al C. Secretario del R. Ayuntamiento lo remita para su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
