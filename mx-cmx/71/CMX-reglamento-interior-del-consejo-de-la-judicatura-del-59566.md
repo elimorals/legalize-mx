@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-del-59566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-25"
-last_updated: "2010-07-19"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59566&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-11-28"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 25 de febrero de 2008.
 
@@ -502,27 +502,17 @@ b) La Comisión de Administración y Presupuesto.
 
 Las Comisiones permanentes contarán con la estructura que al efecto autorice el Pleno de conformidad al presupuesto de egresos del Consejo de la Judicatura del Distrito Federal, para desarrollar las funciones y los objetivos establecidos.
 
+> <small>(REFORMADO, G.O. 29 DE FEBRERO DE 2012)</small>
+
 ###### Artículo 32.
 
-Las Comisiones con carácter de transitorias serán constituidas por Acuerdo General en las que se especificarán los objetivos a alcanzar.
-
-Se considerarán Comisiones transitorias:
-
-a) La Comisión de Vigilancia de Protección Civil;
-
-b) La Comisión de Imagen Institucional;
-
-c) La Comisión de Vigilancia del Servicio Médico Forense;
-
-d) La Comisión Interna para la Transparencia y Acceso a la Información Pública del Tribunal Superior de Justicia y del Consejo de la Judicatura, del Distrito Federal, y
-
-e) Las demás que determine el Pleno del Consejo.
+Las Comisiones con carácter de transitorias serán constituidas por Acuerdo General en el que se especificarán los objetivos a alcanzar y sus integrantes serán designados por el pleno del consejo.
 
 ###### Artículo 33.
 
 El Pleno del Consejo aprobará las políticas y lineamientos generales, los programas, normas, manuales y procedimientos administrativos internos de cada una de las Comisiones permanentes y, en caso de ser necesario, de las transitorias.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE MAYO DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS COMISIONES PERMANENTES
 
@@ -1052,7 +1042,7 @@ La función administrativa, se desempeñará a través de la Comisión de Admini
 
 Dicha Comisión ejercerá la función de vigilar la administración de los recursos humanos, materiales y financieros del Tribunal y del Consejo, que operarán los órganos competentes, con apego al presupuesto de egresos autorizado por la Asamblea Legislativa y la normatividad en la materia, conforme a los principios establecidos en la Ley Orgánica y en este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 75.
 
@@ -1122,7 +1112,7 @@ III. Para el desempeño de cargos de elección popular y por todo el tiempo que 
 
 En los cargos establecidos en la fracción II, en que se otorgue licencia para ocupar otro cargo en Institución distinta, se deberá notificar a la Dirección Ejecutiva de Recursos Humanos o al Consejo de la Judicatura cada seis meses, para efectos de su continuidad, ya que en caso contrario se tendrá por cancelada.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 82.
 
@@ -1400,7 +1390,7 @@ En caso de determinarse de oficio el inicio de procedimiento administrativo disc
 
 La interposición de recursos de revisión en materia de amparo y cumplimiento de ejecutorias de juicios de garantías le corresponderán al Consejero que hubiere dictado la resolución en el procedimiento administrativo de origen.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 116.
 
@@ -1480,7 +1470,7 @@ También podrá prevenirse al promovente, en los mismos términos del párrafo a
 
 Las quejas o denuncias que sean notoriamente jurisdiccionales se desecharán de plano.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 124.
 
@@ -1674,7 +1664,7 @@ En caso de que sea admitido a trámite dicho recurso, la interposición de éste
 
 La suspensión de la ejecución de la resolución de primera instancia que se decrete al resolver el recurso de inconformidad, tendrá el efecto de impedir que se realicen aquellos actos que afecten o causen agravio en la esfera jurídica del servidor público declarado responsable. Asimismo, no podrá inhibirse del conocimiento del asunto del que devenga la queja, hasta en tanto el fallo que resuelva el recurso de inconformidad cause ejecutoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 152.
 
@@ -1742,41 +1732,41 @@ XI. Rendir en el mes de noviembre de cada ejercicio, al Pleno del Consejo, un In
 
 XII. Las demás que le sean asignadas por la Ley Orgánica, este Reglamento, y demás Acuerdos Generales que para tal efecto emita el Pleno del Consejo.
 
-> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
 
 ## TÍTULO QUINTO. DEL CENTRO DE JUSTICIA ALTERNATIVA
 
-> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
+> <small>(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE ENERO DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 161.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 162.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 163.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 164.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 165.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 166.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ###### Artículo 167.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL CENTRO DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, G.O. 21 DE ENERO DE 2009)
 
 ## TÍTULO SEXTO. DE LA CONTRALORÍA
 
@@ -1888,11 +1878,11 @@ LA SECRETARIA GENERAL DEL CONSEJO DE LA JUDICATURA DEL DISTRITO FEDERAL
 
 LIC. MATILDE RAMÍREZ HERNÁNDEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 3 DE DICIEMBRE DE 2008.
 
-> <small>N. DE E. EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.</small>
+> <small>N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.</small>
 
 G.O. 21 DE ENERO DE 2009.
 
@@ -1912,11 +1902,11 @@ Séptimo. La actual Jefatura de Unidad Departamental de Apoyo Operativo y Admini
 
 G.O. 9 DE MARZO DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
 
 G.O. 24 DE ABRIL DE 2009.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.
 
 G.O. 1 DE DICIEMBRE DE 2009.
 
@@ -1941,3 +1931,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor el mismo día de su publicación
 SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página web del Consejo de la Judicatura del Distrito Federal.
+
+G.O. 29 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SEGUNDO.- Publíquese en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal y para su mayor difusión en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Incorpórese el texto de este decreto y las modificaciones respectivas en la página Web del Consejo de la Judicatura del Distrito Federal.
