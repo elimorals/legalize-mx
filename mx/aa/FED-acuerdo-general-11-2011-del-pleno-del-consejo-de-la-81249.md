@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2012-02-22"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -137,11 +137,17 @@ II. SEGUNDO CIRCUITO:
 
 III. TERCER CIRCUITO:
 
-1. Trece tribunales colegiados especializados: dos en materia penal, cuatro en materia administrativa, cinco en materia civil y dos en materia de trabajo, todos con residencia en Guadalajara.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 5/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 29 DE FEBRERO DE 2012)</small>
 
-2. Cuatro tribunales unitarios con residencia en Guadalajara.
+1.- Catorce tribunales colegiados especializados: dos en materia penal, cuatro en materia administrativa, cinco en materia civil y tres en materia de trabajo; todos con residencia en Zapopan.
 
-3. Diecinueve juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; cinco en materia administrativa y de trabajo y cinco en materia civil, todos con residencia en Guadalajara.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 6/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O. F. 29 DE FEBRERO DE 2012)</small>
+
+2.- Cinco tribunales unitarios con residencia en Zapopan.
+
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 7/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE FEBRERO DE 2012)</small>
+
+3.- Veinte juzgados de Distrito especializados en el Estado de Jalisco: nueve en materia penal, con sede en Puente Grande, Municipio de Juanacatlán; cinco en materia administrativa y de trabajo, y seis en materia civil, todos con residencia en Zapopan.
 
 IV. CUARTO CIRCUITO:
 
@@ -175,7 +181,7 @@ VI. SEXTO CIRCUITO:
 
 VII. SEPTIMO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 32/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 32/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 1. Ocho tribunales colegiados especializados: dos en materias penal y de trabajo y dos en materia administrativa, con residencia en Boca del Río; dos tribunales colegiados en materia civil y dos en materias penal y de trabajo con sede en Xalapa.
 
@@ -721,7 +727,7 @@ XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero y Segun
 
 QUINTO. Se contará con:
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 38/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 38/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
 1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
 
@@ -729,7 +735,7 @@ QUINTO. Se contará con:
 
 2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
 
 3. El Centro Auxiliar de la Tercera Región, se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco y dos con residencia en Morelia, Michoacán; siete tribunales unitarios de Circuito Auxiliares, cinco con residencia en Guanajuato, Guanajuato y dos con sede en Guadalajara, Jalisco, y seis juzgados de Distrito Auxiliares, tres con residencia en Guanajuato, Guanajuato, dos con sede en Guadalajara, Jalisco, y uno con sede en Uruapan, Michoacán.
 
@@ -741,7 +747,7 @@ QUINTO. Se contará con:
 
 6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, el cual se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 27/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 27/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2011)</small>
 
 7. El Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y cuatro juzgados de Distrito Auxiliares.
 
@@ -751,7 +757,7 @@ QUINTO. Se contará con:
 
 9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 41/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 41/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
 10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y cuatro juzgados de Distrito Auxiliares.
 
@@ -783,7 +789,7 @@ SEXTO. En virtud de los ajustes de nomenclatura y residencia previstos en el pre
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se Divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintitrés de marzo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, Jorge Moreno Collado y Oscar Vázquez Marín.- México, Distrito Federal, a tres de mayo de dos mil once.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 17 DE JUNIO DE 2011.
 
@@ -821,7 +827,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 D.O.F. 30 DE SEPTIEMBRE DE 2011.
 
-ACUERDO GENERAL 32/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL DOCE DE MAYO DE DOS MIL ONCE, EN EL PUNTO SEGUNDO, APARTADO VII.- SEPTIMO CIRCUITO, NUMERO 1.
+ACUERDO GENERAL 32/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DOCE DE MAYO DE DOS MIL ONCE, EN EL PUNTO SEGUNDO, APARTADO VII.- SÉPTIMO CIRCUITO, NÚMERO 1.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
@@ -831,7 +837,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 D.O.F. 30 DE SEPTIEMBRE DE 2011.
 
-ACUERDO GENERAL 33/2011 POR EL QUE SE REFORMA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, DE VEINTITRES DE MARZO DE DOS MIL ONCE, EN EL PUNTO QUINTO.
+ACUERDO GENERAL 33/2011 POR EL QUE SE REFORMA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, DE VEINTITRÉS DE MARZO DE DOS MIL ONCE, EN EL PUNTO QUINTO.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
@@ -849,7 +855,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 D.O.F. 28 DE OCTUBRE DE 2011.
 
-ACUERDO GENERAL 36/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL PUNTO SEGUNDO, APARTADO XXI.- VIGESIMO PRIMER CIRCUITO, NUMERO 3.
+ACUERDO GENERAL 36/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL PUNTO SEGUNDO, APARTADO XXI.- VIGÉSIMO PRIMER CIRCUITO, NÚMERO 3.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
@@ -859,7 +865,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 D.O.F. 28 DE OCTUBRE DE 2011.
 
-ACUERDO GENERAL 38/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 28 DE OCTUBRE DE 2011, EN LOS PUNTOS PRIMERO Y DECIMO PRIMERO.
+ACUERDO GENERAL 38/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 28 DE OCTUBRE DE 2011, EN LOS PUNTOS PRIMERO Y DÉCIMO PRIMERO.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
@@ -869,7 +875,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 D.O.F. 28 DE OCTUBRE DE 2011.
 
-ACUERDO GENERAL 41/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 28 DE OCTUBRE DE 2011, EN LOS PUNTOS PRIMERO Y DECIMO PRIMERO.
+ACUERDO GENERAL 41/2011 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 28 DE OCTUBRE DE 2011, EN LOS PUNTOS PRIMERO Y DÉCIMO PRIMERO.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
@@ -879,7 +885,7 @@ TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deb
 
 D.O.F. 15 DE NOVIEMBRE DE 2011.
 
-ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011, DE VEINTITRÉS DE MARZO DE DOS MIL ONCE, EN EL PUNTO SEGUNDO, APARTADO IX.- NOVENO CIRCUITO, NUMERO 3.
+ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011, DE VEINTITRÉS DE MARZO DE DOS MIL ONCE, EN EL PUNTO SEGUNDO, APARTADO IX.- NOVENO CIRCUITO, NÚMERO 3.
 
 PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 
@@ -954,3 +960,33 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, a los Acuerdos Generales 15/2010 y 11/2011 del Pleno del Consejo de la Judicatura Federal, respectivamente.
 
 TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE FEBRERO DE 2012.
+
+ACUERDO GENERAL 5/2012 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO III. TERCER CIRCUITO, NÚMERO 1.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, el uno de marzo de dos mil doce, deberá integrar el texto de la reforma al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 29 DE FEBRERO DE 2012.
+
+ACUERDO GENERAL 6/2012 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO III. TERCER CIRCUITO, NÚMERO 2.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, el uno de marzo de dos mil doce, deberá integrar el texto de la reforma al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 29 DE FEBRERO DE 2011.
+
+ACUERDO GENERAL 7/2012 POR EL QUE SE MODIFICA EL ACUERDO GENERAL 11/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, EN EL PUNTO SEGUNDO, APARTADO III. TERCER CIRCUITO, NÚMERO 3.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, el uno de marzo de dos mil doce, el texto de la reforma al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
