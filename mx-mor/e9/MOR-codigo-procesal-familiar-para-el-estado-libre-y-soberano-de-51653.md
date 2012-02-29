@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2012-01-18"
+last_updated: "2012-02-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE FEBRERO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
+
+> <small>N. DE E. LAS FE DE ERRATAS PUBLICADAS EN EL P.O. EL 29 DE FEBRERO DE 2012 NO APLICAN AL ARTICULADO DE LOS DECRETOS NÚMEROS 1633 Y 1634 PUBLICADOS EN EL P.O. DE 18 DE ENERO DE 2012.</small>
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -297,7 +297,7 @@ I. Se dará entera fe y crédito a los actos, registros públicos y procedimient
 
 II. La fuerza ejecutoria de las sentencias pronunciadas por los tribunales de los Estados, se determinará de acuerdo con las bases establecidas por el artículo 121 de la Constitución Política de la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 3°.
 
@@ -325,7 +325,7 @@ La tramitación de los asuntos judiciales no podrá alterarse o entorpecerse por
 
 ORDEN PÚBLICO DE LA LEY PROCESAL. La observancia de las normas procesales es de orden público. En consecuencia, para la tramitación y resolución de los asuntos ante los tribunales, se estará a lo dispuesto por este código, sin que por acuerdo de los interesados pueda renunciarse al derecho de recusación, ni alterarse o modificarse las demás normas esenciales del procedimiento, pero con las limitaciones que se establecen en este mismo código es lícito a las partes solicitar del tribunal la suspensión del procedimiento o la ampliación de términos cuando exista conformidad entre ellas y no se afecten derechos de terceros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 6°.
 
@@ -721,7 +721,7 @@ Los representantes del fisco federal y local y cualquier otro funcionario que de
 
 ### CAPÍTULO III. ASISTENCIA TÉCNICA DE LAS PARTES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 47.
 
@@ -1193,7 +1193,7 @@ IV. El arresto hasta por tres días en casos graves.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, esta podrá pedir al tribunal que se le oiga en justicia y se citará para la audiencia, dentro del tercer día, en la que se resolverá sin más recurso que el de queja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 110.
 
@@ -2139,7 +2139,7 @@ Si el proveído cautelar se pidiese como acto prejudicial, la demanda deberá pr
 
 Si la providencia cautelar se solicitase después de iniciado el procedimiento, se substanciará en incidente ante el mismo Juez que conozca del negocio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 234.
 
@@ -2535,7 +2535,7 @@ VI. El Juez citará a una audiencia de conciliación y depuración, que deberá 
 
 ### CAPÍTULO III. DE LA REBELDÍA Y LA COMPARECENCIA TARDÍA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 284.
 
@@ -2723,7 +2723,7 @@ MEDIOS DE PRUEBA. Son admisibles como medios de prueba aquellos elementos que pu
 
 ### CAPÍTULO II. DEL OFRECIMIENTO Y ADMISIÓN DE PRUEBAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 314.
 
@@ -4149,7 +4149,7 @@ El consorte menor de edad necesita de tutor especial para solicitar el divorcio 
 
 El divorcio voluntario no puede pedirse sino pasado un año de la celebración del matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
 ###### ARTÍCULO 489.
 
@@ -4237,7 +4237,7 @@ COPIA DE LA SENTENCIA EJECUTORIADA DE DIVORCIO AL REGISTRO CIVIL. Ejecutoriada l
 
 ## TÍTULO SEXTO. DIVORCIO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 503.
 
@@ -6777,7 +6777,7 @@ GERMÁN CASTAÑÓN GALAVIZ
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE AGOSTO DE 2007.
 
@@ -6817,7 +6817,7 @@ CUARTO.- Los actuales procedimientos de divorcio administrativo que se estén re
 
 P.O. 18 DE ENERO DE 2012.
 
-DECRETO NÚMERO 1633, POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTICULO 718 Y EL SEGUNDO PARRAFO DEL ARTICULO 721 DEL CODIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1633, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 718 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 721 DEL CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Aprobado el presente, remítase para su publicación en el Periódico Oficial: Tierra y Libertad órgano de difusión oficial del Gobierno del Estado de Morelos.
 
@@ -6825,7 +6825,7 @@ SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 P.O. 18 DE ENERO DE 2012.
 
-DECRETO NÚMERO 1634, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PARRAFO AL ARTICULO 132 DEL CODIGO PROCESAL FAMILIAR DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1634, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 132 DEL CÓDIGO PROCESAL FAMILIAR DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente remítase al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
