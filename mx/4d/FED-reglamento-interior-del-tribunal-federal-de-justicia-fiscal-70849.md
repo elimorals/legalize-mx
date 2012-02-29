@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2012-02-08"
+last_updated: "2012-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -589,7 +589,9 @@ I.- Una Sala Especializada en Materia de Propiedad Intelectual, con sede en el D
 
 II.- Una Sala Especializada en Juicios en Línea, con sede en el Distrito Federal, con competencia exclusiva para tramitar y resolver, en todo el territorio nacional, de los juicios en línea o bien de los que conforme a la Ley Federal de Procedimiento Contencioso Administrativo se deban tramitar de manera simultánea en línea y en la vía tradicional, que se promuevan en los supuestos señalados en los artículos 14 y 15 de la Ley, sin perjuicio de que la Sala Especializada en Materia de Propiedad Intelectual conozca de los juicios de su competencia que se tramiten en cualquiera de las vías señaladas;
 
-III.- Una Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para tramitar y resolver los juicios que se promuevan contra resoluciones definitivas que encuadren en los supuestos previstos por las fracciones III, XI, XII, XIV, penúltimo y último párrafos del artículo 14 de la Ley, dictadas por los Organos Reguladores de la Actividad del Estado, aún cuando cambien de denominación, surjan otras distintas o desaparezcan, caso en el cual conocerá de las resoluciones que emita el órgano que asuma las funciones de la desaparecida, siendo en la actualidad las que a continuación se precisan:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE FEBRERO DE 2012)</small>
+
+III.- Una Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, con sede en el Distrito Federal, que tendrá competencia material en todo el territorio nacional para tramitar y resolver los juicios que se promuevan contra resoluciones definitivas que encuadren en los supuestos previstos por las fracciones III, XI, XII, XIV, penúltimo y último párrafos del artículo 14 de la Ley, dictadas por las Secretarías de Estado y entidades de la Administración Pública Federal, en materia de competencia económica, mejora regulatoria, telecomunicaciones, salud y riesgos sanitarios, acuacultura y pesca, transporte aéreo, hidrocarburos, seguridad nuclear y salvaguardias, ahorro para el retiro, intermediación financiera bancaria y no bancaria, protección y defensa de los usuarios de servicios financieros y reguladora de energía, así como las dictadas por los Organos Reguladores de la Actividad del Estado, aun cuando cambien de denominación, surjan otras distintas o desaparezcan, caso en el cual conocerá de las resoluciones que emita el órgano que asuma las funciones de la desaparecida, siendo en la actualidad las que a continuación se precisan:
 
 a) Comisión Federal de Competencia (CFC), en lo que resulte competente
 
@@ -665,7 +667,7 @@ Las decisiones que tomen los Coordinadores, en el ejercicio de las atribuciones 
 
 La ausencia temporal del Coordinador será suplida por un Magistrado de la misma Sala siguiendo el orden alfabético de sus apellidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 28.
 
@@ -829,7 +831,7 @@ XVI. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 Corresponde a los Coordinadores de Actuaría Común:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 A.- En la Actuaría Común del Tribunal con sede en el Distrito Federal:
 
@@ -853,7 +855,7 @@ VIII. Realizar las actividades y diligencias que le encomienden los Magistrados 
 
 IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 B.- En las Salas Regionales con sede distinta al Distrito Federal:
 
@@ -899,7 +901,7 @@ Los Coordinadores de Actuaría Común deberán cumplir los requisitos previstos 
 
 Corresponde a los Actuarios:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 A. En las Salas Regionales, tratándose de Actuarios en Sala:
 
@@ -927,7 +929,7 @@ IX. Elaborar los oficios necesarios para la publicación de los edictos, y
 
 X. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 B. En la Sala Superior y en las Salas Regionales, tratándose de juicios tramitados en la vía tradicional y de Actuarios fuera de Sala:
 
@@ -977,7 +979,7 @@ VII. Las demás que les confieran otras disposiciones jurídicas aplicables y la
 
 Sin perjuicio de lo anterior, al Coordinador de Oficialía de Partes de Salas Regionales Metropolitanas le corresponderá, rendir los informes a que se refiere la fracción VI del presente artículo, así como vigilar y supervisar que el personal que tenga adscrito cumpla con las obligaciones establecidas en el presente Reglamento para los Oficiales de Partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 38.
 
@@ -1219,13 +1221,13 @@ II. Visitas extraordinarias.
 
 Con los resultados de las visitas practicadas a las Salas Regionales, y con vista de otros elementos objetivos relacionados con el buen funcionamiento del Tribunal, la Junta emitirá las determinaciones necesarias para optimizar la función jurisdiccional y tomará las medidas conducentes para corregir las irregularidades o desviaciones administrativas o disciplinarias que se hayan detectado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 57.
 
 Para la integración y desarrollo del Subsistema de Información Estadística sobre el desempeño del Tribunal, la Junta promoverá el uso de tecnologías de información y comunicaciones que garanticen la veracidad, oportunidad, suficiencia y seguridad jurídica de los datos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 El Subsistema a que se refiere este artículo, deberá diseñarse de tal manera que su estructura informática, así como su instrumentación y operación, proporcionen en tiempo real los elementos suficientes para, cuando menos:
 
@@ -1245,7 +1247,7 @@ VII. Conocer los inventarios actualizados de los asuntos en trámite que tienen 
 
 VIII. Proporcionar otros elementos esenciales para que la Junta decida sobre el sentido, profundidad y alcances de las Visitas que practique a las Salas, o para evaluar la procedencia de la permanencia, ratificación, promoción, cambio de adscripción, o retiro del personal jurisdiccional de todo nivel, y
 
-> <small>(REFORMADA [N. DE E. ANTES ULTIMO PARRAFO], D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ANTES ÚLTIMO PÁRRAFO], D.O.F. 21 DE JUNIO DE 2011)</small>
 
 IX. Permitir que los datos enunciados en los numerales anteriores, puedan ser vinculados directamente con el historial actualizado de los Magistrados, Secretarios de Acuerdos y demás miembros del Servicio Profesional de Carrera Jurisdiccional del Tribunal, para relacionar su productividad cuantitativa y cualitativa y su desempeño laboral, con su capacidad profesional y académica, y con su comportamiento y trayectoria en el Tribunal.
 
@@ -1285,7 +1287,7 @@ Para esos efectos, el Presidente listará los asuntos materia de coordinación y
 
 ### Capítulo X. De los Lineamientos para el Registro de Peritos del Tribunal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 61.
 
@@ -1349,7 +1351,7 @@ II. Entregará al perito los billetes de depósito debidamente endosados, corres
 
 ### Capítulo XI. De las Responsabilidades Administrativas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 ###### Artículo 64.
 
@@ -1375,7 +1377,7 @@ V. Evitar cualquier acción u omisión que, clara y evidentemente, afecte la bue
 
 ### Capítulo XII. Del Sistema de Control y Seguimiento de Juicios
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 66.
 
@@ -2147,7 +2149,7 @@ Sin perjuicio de su ejercicio directo por parte del Director General de Asuntos 
 
 El Tribunal contará con una Contraloría Interna adscrita al Pleno Jurisdiccional de la Sala Superior, la que tendrá autonomía de gestión para el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 Al frente de la Contraloría habrá un Contralor Interno, a quien corresponden, además de las atribuciones establecidas en el artículo 46 de la Ley, las siguientes:
 
@@ -2399,11 +2401,11 @@ DECIMO PRIMERO.- Los servidores públicos obligados a presentar su declaración 
 
 Así lo acordó la Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa, en sesión de once de noviembre de dos mil nueve.- Firman, el Magistrado Francisco Cuevas Godínez, Presidente del Tribunal Federal de Justicia Fiscal y Administrativa, y la licenciada Rosana Edith de la Peña Adame, Secretaria General de Acuerdos, quien da fe.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 13 DE MAYO DE 2010.
 
-SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE REGLAMENTO.
+SE TRANSCRIBE ÚNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE REGLAMENTO.
 
 SEGUNDO.- Dicha reforma entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
@@ -2480,3 +2482,13 @@ SEGUNDO.- Los juicios que hayan sido remitidos por las Salas Regionales a la Sal
 TERCERO.- Los juicios promovidos en contra de resoluciones emitidas por la Comisión Nacional del Agua que hayan sido presentados en la Ciudad de México, sede de la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, hasta la fecha de entrada en vigor del presente Acuerdo, se tramitarán hasta su conclusión en dicha Sala Especializada.
 
 CUARTO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+D.O.F. 29 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los juicios que hayan sido remitidos por las Salas Regionales a la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, en los que se controviertan resoluciones materia de la presente reforma, permanecerán en dicha Sala, y se tramitarán hasta su conclusión por ésta.
+
+TERCERO.- Las Salas Regionales remitirán a la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, los juicios materia de la presente reforma que a la fecha de entrada en vigor de este Acuerdo no hubiesen otorgado término legal para la formulación de alegatos, en términos del artículo 47, de la Ley Federal de Procedimiento Contencioso Administrativo.
+
+CUARTO.- Para todo lo no previsto en el presente Acuerdo, se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
