@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2011-07-08"
+last_updated: "2012-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2000-12-28"
 ---
 # REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE MARZO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -36,7 +36,7 @@ REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 ### Capítulo I. Del objeto, disposiciones y conceptos generales del Reglamento
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 1º.
 
@@ -88,7 +88,7 @@ IV. Nombrar y remover libremente a los Directores Ejecutivos, Directores de Áre
 
 ### Capítulo II. De la adscripción de las Unidades Administrativas, Órganos Político-Administrativos y Desconcentrados, a la Jefatura de Gobierno y a sus Dependencias
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ABRIL DE 2011)</small>
 
 ###### Artículo 6º.
 
@@ -214,7 +214,7 @@ Asimismo, se le adscribe el Órgano Desconcentrado Sistema de Aguas de la Ciudad
 
 V. A la Secretaría de Obras y Servicios:
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], G.O. 30 DE ABRIL DE 2008)</small>
 
 A) La Subsecretaría de Proyectos Estratégicos.
 
@@ -516,7 +516,7 @@ XIV. A la Contraloría General:
 
 1.4. Dirección de Recursos de Reclamación de Daño Patrimonial.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 5 DE AGOSTO DE 2008)</small>
 
 2. Dirección General de Asuntos Jurídicos y Responsabilidades:
 
@@ -610,7 +610,7 @@ XV. A la Consejería Jurídica y de Servicios Legales:
 
 XVI. A la Secretaría de Protección Civil:
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 29 DE JUNIO DE 2007)</small>
 
 a) Subsecretaría de Coordinación de Planes y Programas Preventivos;
 
@@ -854,7 +854,7 @@ III. Los demás servidores públicos de la Administración Pública Desconcentra
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 11 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 11 DE JUNIO DE 2007)</small>
 
 ### Capítulo I. De las atribuciones generales de los titulares de las Secretarías y de la Jefatura de la Oficina del Jefe de Gobierno
 
@@ -1166,7 +1166,7 @@ XVIII. Coordinar directamente o a través de la Unidad Administrativa de Apoyo T
 
 XIX. Las demás que le atribuyan expresamente las leyes, reglamentos, decretos y acuerdos; las que le sean conferidas por el Jefe de Gobierno y las que les correspondan a las Unidades Administrativas, Órganos Desconcentrados, Unidades Administrativas de Apoyo Técnico-Operativo y Entidades a él adscritas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ### Capítulo V
 
@@ -1204,7 +1204,7 @@ XII. Proponer al titular de la Dependencia de su adscripción los proyectos de i
 
 XIII. Las demás que les atribuyan expresamente los demás ordenamientos jurídicos y administrativos correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ### Capítulo VI
 
@@ -1620,7 +1620,7 @@ XXIV. Asesorar a las unidades responsables cuando lo soliciten, respecto de las 
 
 XXV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 34 Bis.
 
@@ -1952,7 +1952,7 @@ XIII. Realizar consultas a expertos, instituciones académicas y de investigaci�
 
 XIV. Participar en foros y eventos relacionados;
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2009)</small>
 
 XV. Verificar el correcto cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías y vehículos de procedencia Extranjera, excepto aeronaves, así como su legal almacenaje, estancia o tenencia, transporte o manejo en el país, cuando circulen en el territorio del Distrito Federal, de conformidad con los instrumentos y disposiciones jurídicas aplicables; mismas que a continuación se señalan:
 
@@ -2016,7 +2016,7 @@ XXV. Compilar, explotar, analizar y consolidar la información contenida en las 
 
 XXVI. Todas aquellas que sean necesarias para el ejercicio de sus funciones, las que sean conferidas por sus superiores jerárquicos, así como las que correspondan a las unidades administrativas que le sean adscritas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 ### Capítulo VII
 
@@ -2072,7 +2072,7 @@ XVIII. Las demás que les atribuyan expresamente los ordenamientos jurídicos y 
 
 ### Capítulo VIII. De las atribuciones de las Unidades Administrativas de la Administración Pública Centralizada
 
-> <small>(DEROGADA SU DENOMINACION, G.O. 31 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, G.O. 31 DE AGOSTO DE 2010)</small>
 
 #### SECCION I
 
@@ -2266,7 +2266,7 @@ XI. Establecer, durante la estancia de los adolescentes en las comunidades para 
 
 XII. Las demás facultades previstas en este reglamento y en otros ordenamientos aplicables así como las que correspondan a las áreas que se le adscriban.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2008)</small>
 
 ###### Artículo 41.
 
@@ -2962,7 +2962,7 @@ XX. Dictaminar la procedencia de los proyectos de construcción, ampliación, mo
 
 DE LA SECRETARIA DEL MEDIO AMBIENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 54.
 
@@ -3070,7 +3070,7 @@ XXI. Evaluar y, en su caso, otorgar las autorizaciones en materia de planes de m
 
 XXII. Establecer y mantener actualizado el registro de emisiones y transferencia de contaminantes con base en la información que proporcionen las fuentes fijas de competencia del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 56.
 
@@ -3166,7 +3166,7 @@ XXIII. Formular y ejecutar en coordinación con otras áreas competentes los pro
 
 XXIV. Promover el uso de fuentes de energías alternas, sistemas y equipos para prevenir o minimizar las emisiones contaminantes y de gases de efecto invernadero.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 56 Bis.
 
@@ -3642,7 +3642,7 @@ DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 (DEROGADO, G.O. 19 DE ENERO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2007)</small>
 
 ###### Artículo 63.
 
@@ -3686,7 +3686,7 @@ VI. Participar en coordinación con las Dependencias, Unidades Administrativas, 
 
 ###### Artículo 64 Ter.
 
-(DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -3970,7 +3970,7 @@ X. Emitir opinión sobre el impacto presupuestal de los proyectos de iniciativas
 
 XI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 69.
 
@@ -4016,7 +4016,7 @@ X. Integrar la información sobre el avance programático-presupuestal que remit
 
 XI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 70.
 
@@ -4070,7 +4070,7 @@ XII. Participar en los órganos colegiados, y órganos de gobierno de las Depend
 
 XIII. Proponer y, en su caso, opinar sobre las modificaciones al marco normativo competencia de la Subsecretaría de Egresos, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCION XVIII], G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN XVIII], G.O. 28 DE FEBRERO DE 2007)</small>
 
 XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
@@ -4080,7 +4080,7 @@ XVI. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
 XVII. (DEROGADA, G.O. 28 DE FEBRERO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 71.
 
@@ -4140,7 +4140,7 @@ XIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las
 
 XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
-> <small>N. DE E. LA PRESENTE FRACCION NO FUE CONSIDERADA EN LA REFORMA PUBLICADA EN LA G.O. DE 28 DE FEBRERO DE 2007, MOTIVO POR EL CUAL SE DEJA EL TEXTO DE LA MISMA.</small>
+> <small>N. DE E. LA PRESENTE FRACCIÓN NO FUE CONSIDERADA EN LA REFORMA PUBLICADA EN LA G.O. DE 28 DE FEBRERO DE 2007, MOTIVO POR EL CUAL SE DEJA EL TEXTO DE LA MISMA.</small>
 
 XVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia. (sic)
 
@@ -4860,7 +4860,7 @@ X. Expedir copias certificadas de los documentos que obren en sus archivos sobre
 
 XI. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 91.
 
@@ -4950,7 +4950,7 @@ XXII. Atender en la esfera de su competencia los asuntos relacionados con los mo
 
 XXIII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 92 Bis.
 
@@ -5426,7 +5426,7 @@ IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en la
 
 DE LA SECRETARIA DE TURISMO.
 
-(REPUBLICADO PRIMER PARRAFO, G.O. 21 DE MAYO DE 2002)
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 21 DE MAYO DE 2002)
 
 ###### Artículo 96.
 
@@ -5456,7 +5456,7 @@ VI. Planificar, diseñar y coordinar los proyectos estratégicos para el Desarro
 
 VII. Acordar y coordinar, por instrucciones del (a) Titular de la Secretaría, con los organismos y dependencias oficiales, el sector privado y el sector social el establecimiento de los proyectos estratégicos para el Desarrollo de Turismo en la Ciudad de México.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 96 Bis.
 
@@ -5576,7 +5576,7 @@ VI. Impulsar la participación de Dependencias y Entidades de la Administración
 
 VII. Coordinar las acciones de edición e impresión de las publicaciones oficiales en materia de protección, seguridad y atención al turista.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 21 DE MAYO DE 2002)</small>
 
 #### SECCION XI BIS
 
@@ -5694,7 +5694,7 @@ XXI. Promover, en conjunto con instancias públicas, privadas y sociales, proyec
 
 XXII. Fomentar la creación de espacios, dedicados a la lectura, venta y distribución de libros, para propiciar su préstamo y circulación gratuita.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2005)</small>
 
 ###### Artículo 97-C.
 
@@ -5816,7 +5816,7 @@ XXVIII. Representar a la Secretaría de Cultura ante el Comité de Patrimonio In
 
 XXIX. Coordinarse con las dependencias de la Administración Pública local, en las acciones de mantenimiento mayor a los inmuebles y espacios culturales de la ciudad, con la finalidad de conservar y mantener en buen estado su patrimonio histórico y cultural.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE JULIO DE 2005)</small>
 
 Artículo 97 D.- Corresponde a la Coordinación de Programación Artística:
 
@@ -5852,7 +5852,7 @@ VII. Formar un catálogo de artistas y grupos musicales con el fin de disponer d
 
 VIII. Coordinar y programar al personal artístico de la Secretaría.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 97-D.
 
@@ -6000,7 +6000,7 @@ IX. (DEROGADA, G.O. 25 DE NOVIEMBRE DE 2008)
 
 DE LA OFICIALIA MAYOR.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2007)</small>
 
 ###### Artículo 98.
 
@@ -6248,7 +6248,7 @@ XIII. Instrumentar los procedimientos de adquisición para la contratación cons
 
 XIV. Asistir con carácter de asesor a las sesiones de los órganos colegiados que se constituyan en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 100.
 
@@ -6328,7 +6328,7 @@ XXXV. Asesorar, en el ámbito de sus atribuciones, a las Dependencias, Unidades 
 
 (DEROGADO, G.O. 19 DE ENERO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 101-A.
 
@@ -6428,7 +6428,7 @@ XXXIV. Definir y establecer lineamientos para recopilar, organizar, presentar y 
 
 XXXV. Proponer los lineamientos para el proceso de ingreso a los puestos de la estructura orgánica de la Oficialía Mayor, así como la aplicación de los exámenes para la evaluación de conocimientos a los candidatos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 101-B.
 
@@ -6660,7 +6660,7 @@ XII. Generar propuestas de legalidad y de mejora de la gestión pública a parti
 
 XIII. Las demás que le instruya el Titular de la Dirección General de Legalidad, las que expresamente le atribuyan este reglamento y otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 102-B.
 
@@ -7172,7 +7172,7 @@ XLI. Ordenar, supervisar y ejecutar verificaciones preventivas sobre la realizac
 
 XLII. Las demás que le instruya el Titular de la Contraloría General; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 107.
 
@@ -7852,7 +7852,7 @@ XXVIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, r
 
 XXIX. Las demás que le instruya el Titular de la Contraloría General, las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(ADICIONADO ULTIMO PARRAFO, 29 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO ÚLTIMO PÁRRAFO, 29 DE SEPTIEMBRE DE 2010)</small>
 
 Las atribuciones relativas a la promoción y difusión de los marcos de referencia internacionales y buenas prácticas para el control y la seguridad de las tecnologías de la información; realización de auditorías, revisiones, verificaciones e inspecciones, a los recursos de las tecnologías de la información; formulación de observaciones, emisión de recomendaciones, seguimiento para la atención de recomendaciones, emisión de dictámenes de auditoría, asistencia y participación en Comités y Subcomités; requerimiento, aseguramiento, resguardo y custodia de información y documentación a que se refieren las fracciones I, II, IV, V, VI, VII, XI, XII, XIV, XV, XVI, XXII, XXIV, XXV y XXVII podrán ser ejercidas por las Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General de Gobernabilidad de Tecnologías de la Información y Comunicaciones, así como por las Unidades Administrativas de Apoyo Técnico-Operativo que determine el titular de la Contraloría General, sin perjuicio de que éste asuma el ejercicio directo de dichas atribuciones.
 
@@ -7970,7 +7970,7 @@ XXXI. Representar a la Dirección General de Gobernabilidad de Tecnologías de I
 
 XXXII. Las demás que establezcan los ordenamientos y disposiciones aplicables y las que expresamente le confiera su superior jerárquico.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 112.
 
@@ -8448,7 +8448,7 @@ XVI. Coordinarse con las demás unidades administrativas de la Contraloría Gene
 
 XVII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 113 Bis 5.
 
@@ -8824,7 +8824,7 @@ XV. Recibir y administrar el porcentaje que establezcan los ordenamientos corres
 
 XVI. Las demás que le confiera la Ley de Justicia Cívica para el Distrito Federal, el Consejero Jurídico y de Servicios Legales y el Consejo de Justicia Cívica.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 #### SECCION XV
 
@@ -8916,7 +8916,7 @@ XIV. Planear con base en la regionalización de riesgo-respuesta, manteniéndola
 
 XV. Recomendar y evaluar la realización de simulacros en las áreas clasificadas de alto riesgo de ocurrencia de fenómenos naturales o antropogénicos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 #### SECCION XVI
 
@@ -9064,7 +9064,7 @@ XII. Dirigir y coordinar sus funciones, mediante la asignación de facultades a 
 
 XIII. Difundir ante los medios de comunicación, los derechos y obligaciones de los trabajadores asalariados, ofreciendo sus servicios de manera gratuita.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 #### SECCION XVII
 
@@ -9384,7 +9384,7 @@ XXX. Desarrollar e implementar acciones y políticas que fortalezcan la cultura 
 
 XXXI. Las demás atribuciones conferidas por sus superiores jerárquicos conforme las funciones de la unidad a su cargo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 28 DE FEBRERO DE 2007)</small>
 
 #### SECCION XVIII
 
@@ -9446,7 +9446,7 @@ XXII. (DEROGADA, G.O. 31 DE MARZO DE 2011)
 
 El ejercicio de las atribuciones conferidas a la Dirección General de Desarrollo Rural, se llevará a cabo atendiendo a las disposiciones ambientales y demás que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE MARZO DE 2011)</small>
 
 Artículo 119 Undecimus.- Corresponde a la Dirección General de Equidad para los Pueblos y Comunidades:
 
@@ -9504,7 +9504,7 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 ## TITULO SEGUNDO BIS. DE LA ADMINISTRACION PUBLICA CENRALIZADA (SIC), DESCONCENTRADA Y DE LOS ORGANOS POLITICO-ADMINISTRATIVOS
 
-> <small>(ADICIONADO, [N. DE E. REUBICADO, ANTES CAPITULO IX], G.O. 19 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, [N. DE E. REUBICADO, ANTES CAPÍTULO IX], G.O. 19 DE ENERO DE 2007)</small>
 
 ### Capítulo Único
 
@@ -9660,7 +9660,7 @@ La Administración Pública contará con los Órganos Político- Administrativos
 
 Los Órganos Político-Administrativos en el ejercicio de sus atribuciones, deberán observar las normas y disposiciones generales que en el ámbito de sus atribuciones dicten las Dependencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 122.
 
@@ -9696,7 +9696,7 @@ Además, los órganos político-administrativos podrán contar con las Direccion
 
 Los titulares de los órganos político-administrativos, tendrán la facultad de delegar en las Direcciones Generales y demás Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, las facultades que expresamente les otorguen los ordenamientos jurídicos correspondientes; dichas facultades, se ejercerán mediante disposición expresa, misma que se publicará en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 122 Bis.
 
@@ -9762,7 +9762,7 @@ H) Dirección General de Desarrollo Delegacional; y
 
 I) Dirección General de Servicios Urbanos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO PUBLICADO EN LA G.O. DE 16 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCION PARA QUEDAR CONFORMADO POR LOS INCISOS A) AL G).</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO PUBLICADO EN LA G.O. DE 16 DE OCTUBRE DE 2009, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN PARA QUEDAR CONFORMADO POR LOS INCISOS A) AL G).</small>
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -9832,7 +9832,7 @@ F) Dirección General de Participación Ciudadana y Gestión Social; y
 
 G) (DEROGADO, G.O. 19 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE NOVIEMBRE DE 2008)</small>
 
 VII. Al órgano político-administrativo en Gustavo A. Madero;
 
@@ -9884,7 +9884,7 @@ K) Dirección Ejecutiva de Planeación y Evaluación de Proyectos y Programas; y
 
 L) Dirección Ejecutiva de Mejora Continua a la Gestión Gubernamental.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2010)</small>
 
 VIII. Al órgano político-administrativo en Iztacalco;
 
@@ -9948,7 +9948,7 @@ G) Dirección General de Participación Ciudadana; y
 
 H) Dirección General de Colonia y Tenencia de la Tierra.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO UNICO DEL DECRETO PUBLICADO EN LA G. O. DE 31 DE MARZO DE 2010, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCION, PARA QUEDAR CONFORMADA CON LOS INCISOS DEL A) AL J).</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO PUBLICADO EN LA G. O. DE 31 DE MARZO DE 2010, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN, PARA QUEDAR CONFORMADA CON LOS INCISOS DEL A) AL J).</small>
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -10138,13 +10138,13 @@ XIII. Prestar el servicio de información actualizada en materia de planificaci�
 
 XIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa les asigne el titular del Órgano Político-Administrativo y las que se establezcan en los manuales administrativos.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE ENERO DE 2001)</small>
 
 ### Capítulo III
 
 De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 124.
 
@@ -10228,7 +10228,7 @@ XXVI. Expedir las certificaciones que le soliciten los particulares, siempre y c
 
 XXVII. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 125.
 
@@ -10336,7 +10336,7 @@ II. Prestar el servicio de alumbrado público en las vialidades secundarias y ma
 
 III. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
 ###### Artículo 128.
 
@@ -10542,13 +10542,13 @@ XIX. Presentar a los Órganos de Control Interno y Externos, información relati
 
 XX. Presentar al Jefe Delegacional, Convenios a celebrarse con instancias gubernamentales, no gubernamentales, con asociaciones civiles o vecinos de la demarcación, cuyo objetivo principal sea el de promover la participación ciudadana y comunitaria en la comunidad.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION III
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECÍFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN BENITO JUAREZ.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 132.
 
@@ -10584,7 +10584,7 @@ III. Promover y apoyar la realización de actividades culturales que se realicen
 
 IV. Impulsar el desarrollo de programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE AGOSTO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE AGOSTO DE 2001)</small>
 
 ###### Artículo 135.
 
@@ -10702,7 +10702,7 @@ XV. Facilitar a las distintas instancias de Gobierno que lo soliciten, el contac
 
 XVI. Apoyar a los subcomités de seguridad pública, convocarlos a las sesiones del Comité Delegacional de Seguridad Pública del Órgano Político-Administrativo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION IV
 
@@ -10814,7 +10814,7 @@ XVIII. Coordinar la supervisión de simulacros en los diversos inmuebles de la d
 
 XIX. Presidir en conjunto con autoridades de la demarcación, así como representantes de otras dependencias e instituciones de investigación y auxilio, el Consejo Delegacional de Protección Civil en la demarcación, ejerciendo las labores de Secretario Ejecutivo en suplencia del Director General Jurídico y de Gobierno en sesión ordinaria y extraordinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 140.
 
@@ -10844,7 +10844,7 @@ V. Llevar a cabo acciones tendientes a promover la incorporación de barrios reg
 
 VI. Las demás que de manera directa, le asigne el Jefe Delegacional.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 140 Bis.
 
@@ -11022,7 +11022,7 @@ XIX. Dar mantenimiento y rehabilitación a los puentes, pasos peatonales y reduc
 
 XX. Las demás que instruya el Jefe Delegacional.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION V
 
@@ -11082,7 +11082,7 @@ XXIII. Vigilar el cumplimiento de las disposiciones en materia ambiental, de con
 
 XXIV. Las demás que le atribuyan los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa les asigne el titular del órgano político administrativo y las que se establezcan en los manuales administrativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 144.
 
@@ -11240,7 +11240,7 @@ XVIII. Las demás que le atribuyan los ordenamientos jurídicos y administrativo
 
 (DEROGADO, G.O. 16 DE OCTUBRE DE 2009)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION VI
 
@@ -11332,7 +11332,7 @@ XIII. Establecer, previo acuerdo con el Jefe de Delegacional, las directrices y 
 
 XIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los Manuales Administrativos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION VII
 
@@ -11424,13 +11424,13 @@ VIII. Proporcionar servicios funerarios básicos a la comunidad de escasos recur
 
 Corresponde a la Dirección General de Desarrollo Social además de las atribuciones señaladas en el artículo 128; administrar, organizar y supervisar los centros de desarrollo infantil ubicados en su demarcación en coordinación con la dependencia respectiva.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION VIII
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 153.
 
@@ -11470,7 +11470,7 @@ IV. Impulsar el desarrollo de programas encaminados a la realización de activid
 
 V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 156.
 
@@ -11606,7 +11606,7 @@ IX. Promover la desregulación y simplificación administrativa, en materia de f
 
 X. Establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 156 Bis 2.
 
@@ -11752,7 +11752,7 @@ XI. Difundir las políticas, lineamientos y estándares de tecnologías de la in
 
 XII. Las demás que de manera directa les asigne el titular del Órgano Político Administrativo, así como las que se establezcan en los Manuales Administrativos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION IX
 
@@ -11824,7 +11824,7 @@ II. Las señaladas en la Ley de Participación Ciudadana; y
 
 III. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION X
 
@@ -11902,7 +11902,7 @@ XXIII. Realizar acciones tendientes a la promoción turística de la demarcació
 
 XXIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION XI
 
@@ -12074,7 +12074,7 @@ XV. Coordinar y organizar la participación de los vecinos en programas de regul
 
 XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al uso del suelo, opinar sobre la expedición de licencias para ubicación de industrias, fraccionamientos, subdivisiones y para construir ampliar modificar conservar y mejorar inmuebles en zonas incorporadas a los planes parciales aprobados así como en colonias que se ubiquen en suelo urbano.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE MARZO DE 2010)</small>
 
 #### SECCION XII
 
@@ -12504,7 +12504,7 @@ XVI. Coordinar las acciones preventivas en áreas de riesgo administrativo, con 
 
 XVII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes y los manuales administrativos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION XIII
 
@@ -12600,7 +12600,7 @@ IX. Formular programas y proyectos relacionados con la adopción de tecnología 
 
 X. Las demás que de manera directa les asigne el titular del Órgano Político Administrativo, así como las que se establezcan en los Manuales Administrativos y demás ordenamientos aplicables.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION XIV
 
@@ -12734,7 +12734,7 @@ XII. Vigilar y supervisar que las demandas ciudadanas sean debidamente atendidas
 
 XIII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formulen los comités vecinales con base en la Ley de Participación Ciudadana.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION XV
 
@@ -12896,7 +12896,7 @@ III. Promover, apoyar e impulsar las tareas de preservación del patrimonio cult
 
 (DEROGADO, G.O. 21 DE MAYO DE 2002)
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION XVI
 
@@ -13018,13 +13018,13 @@ IV. Impulsar el desarrollo de programas encaminados a la realización de activid
 
 V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del órgano Político-Administrativo y del Distrito Federal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
 #### SECCION I
 
 ADSCRITO A LA JEFATURA DE GOBIERNO.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 133], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 133], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 191.
 
@@ -13056,7 +13056,7 @@ IV. Impulsar el desarrollo de programas encaminados a la realización de activid
 
 V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 193.
 
@@ -13126,13 +13126,13 @@ XV. Las demás que de manera directa le asigne el titular del órgano político-
 
 ### Capítulo IV. De la creación, estructura y funcionamiento de los Órganos Desconcentrados
 
-(REUBICADO [N. DE E. ANTES ARTICULO 130], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 194.
 
 Para un eficiente, ágil y oportuno estudio, planeación y despacho de los asuntos competencia de la Administración Pública, ésta contará con los Órganos Desconcentrados que se establecen en el presente Reglamento. Dichos órganos estarán jerárquicamente subordinados al Jefe de Gobierno, o a la Dependencia que éste señale.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 131], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 131], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 195.
 
@@ -13142,7 +13142,7 @@ Podrán crearse otros Órganos Desconcentrados por reglamento, decreto o acuerdo
 
 ### Capítulo V. De las atribuciones generales de las Direcciones Generales de los Órganos Desconcentrados
 
-(REUBICADO [N. DE E. ANTES ARTICULO 132], G.O. 31 DE ENERO DE 2001)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 132], G.O. 31 DE ENERO DE 2001)
 
 ###### Artículo 196.
 
@@ -13476,7 +13476,7 @@ XI. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
 ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS.
 
-> <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON ADICIONADOS Y REUBICADOS A LA SECCION IV, G.O. 24 DE ABRIL DE 2009.</small>
+> <small>N. DE E. LOS ARTÍCULOS QUE INTEGRABAN ESTA SECCIÓN FUERON ADICIONADOS Y REUBICADOS A LA SECCIÓN IV, G.O. 24 DE ABRIL DE 2009.</small>
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
@@ -13508,9 +13508,15 @@ II. La Dirección Ejecutiva de Planeación y Construcción;
 
 III. La Dirección Ejecutiva de Servicios a Usuarios;
 
-IV. La Dirección Jurídica; y
+IV. La Dirección Jurídica; y (sic)
 
-V. Las demás unidades administrativas que sean necesarias para el desempeño de sus atribuciones, y les sean autorizadas, quienes tendrán las funciones que señalen los manuales administrativos correspondientes.
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
+
+V. La Dirección de Atención a Usuarios,
+
+> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2012)</small>
+
+VI. Las demás unidades administrativas que sean necesarias para el desempeño de sus atribuciones, y les sean autorizadas, quienes tendrán las funciones que señalen los manuales administrativos correspondientes.
 
 > <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
@@ -13612,6 +13618,36 @@ XIII. Programar y supervisar campañas periódicas e instrumentos de participaci
 
 XIV. Las demás que le confieren otras disposiciones jurídicas y administrativas aplicables.
 
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2012)</small>
+
+###### Artículo 203 Bis.
+
+La Dirección de Atención a Usuarios tiene las siguientes atribuciones:
+
+I. Establecer y supervisar las políticas que garanticen el entero y oportuno de la recaudación diaria a la tesorería del Distrito Federal, obtenida en el Sistema de Aguas y sus concesionaria (sic).
+
+II. Coordinar y evaluar las solicitudes presentadas por los contribuyentes relativos a certificaciones de pagos, constancias de adeudos, devoluciones y compensaciones de pagos indebidos, de acuerdo a las normas jurídicas aplicables.
+
+III. Determinar, administrar y controlar el obro de los créditos fiscales por concepto de derechos por suministro de agua y derechos de descarga de la red de drenaje.
+
+IV. Coordinar la atención a usuarios en las oficinas de atención al público del Sistema de Aguas.
+
+V. Calificar y aprobar las garantías del interés fiscal, en estricto apego a lo establecido en las disposiciones aplicables; y coordinar las acciones para la recaudación y recuperación del crédito fiscal.
+
+VI. Ordenar la suspensión y restricción del servicio de agua potable a los usuarios, así como la restricción del servicio a los usuarios que cuenten con medición en la descarga de aguas residuales.
+
+VII. Coadyuvar con la Dirección Jurídica para la atención de las impugnaciones por parte de los usuarios que deriven de actos emitidos por el Sistema De Aguas, así como para integración de los supuestos que puedan constituir delitos fiscales.
+
+VIII. Coordinar y controlar los programas y acciones relativas al cumplimiento de las especificaciones técnicas para la instalación y el mantenimiento de medidores.
+
+IX. Revisar y aprobar las devoluciones, compensaciones y transferencias por sentencia de los tribunales o de alguna autoridad jurisdiccional.
+
+X. Suscribir los documentos relativos al ejercicio de sus atribuciones, y aquellos que le sean señalados por delegación, o le correspondan por suplencia, y las demás funciones que se deriven de las normas y disposiciones legales aplicables.
+
+XI. Atender los requerimientos de información de las autoridades fiscales, administrativas, de los órganos internos y externos de control, y de cualquier otra autoridad que conforme a la normatividad corresponda; así como presentar los informes que en el ámbito de sus atribuciones les sean solicitados.
+
+XII. Las demás que se establezcan en éste y otros ordenamientos.
+
 > <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 204.
@@ -13646,7 +13682,7 @@ XIII. Expedir copias cerificadas (sic), previo cotejo de los originales de los d
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Director General.
 
-> <small>N. DE E. LOS ARTICULOS QUE INTEGRABAN ESTA SECCION FUERON REUBICADOS A LA SECCION VI, G.O. 16 DE JULIO DE 2009.</small>
+> <small>N. DE E. LOS ARTÍCULOS QUE INTEGRABAN ESTA SECCIÓN FUERON REUBICADOS A LA SECCIÓN VI, G.O. 16 DE JULIO DE 2009.</small>
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2009)</small>
 
@@ -13654,7 +13690,7 @@ XIV. Las demás que señalen las disposiciones normativas y, en general, todas a
 
 ADSCRITOS A LA SECRETARIA DE DESARROLLO SOCIAL.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE JULIO DE 2009)</small>
 
 #### SECCION VI. ADSCRITO A LA SECRETARIA DE OBRAS Y SERVICIOS
 
@@ -13750,7 +13786,7 @@ IX. Administrar la calidad de los pavimentos de las vialidad es (sic) a cargo de
 
 X. Proponer para su autorización conjunta por parte de la Secretaría de Obras y Servicios y de la Secretaría de Finanzas, los precios de venta de las emulsiones, mezclas asfálticas en sus diferentes modalidades y derivados para las Dependencias, Órganos Desconcentrados y Entidades del Gobierno del Distrito Federal, así como los de la Federación, Estados, Municipios y particulares.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
 #### SECCION VIII
 
@@ -13950,7 +13986,7 @@ VII. Elaborar los informes que le sean requeridos por el titular del Instituto; 
 
 VIII. Las que de manera directa le asigne el titular del Órgano Desconcentrado, así como los que se establezcan en otras disposiciones y manuales administrativos.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
 #### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
 
@@ -13960,7 +13996,7 @@ VIII. Las que de manera directa le asigne el titular del Órgano Desconcentrado,
 
 El Órgano Desconcentrado Agencia de Protección Sanitaria del Gobierno del Distrito Federal tiene por objeto realizar las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan al Gobierno en materia de salubridad local. Para tal efecto contará con las atribuciones y facultades que se establecen en el Reglamento de la Agencia de Protección contra Riesgos Sanitarios.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 217.
 
@@ -14012,7 +14048,7 @@ DÉCIMO PRIMERO.- En tanto no se establezca la circunscripción territorial de l
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN PINCHETTI.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM.- PARDO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, REQUEL SOSA ELIZAGA.- FIRMA.- EL SECRETARIO DE SALUD, ASA CRISTINA LARELL.- FIRMA.- EL SECRETARIO DE FINANZAS, CALOS (SIC) MANUEL URZÚA MACÍAS.- FIRMA.- LA SECRETARIA DE TRANSPORTE Y VIALIDAD, JENNY SALTIEL COHEN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PUBLICA, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 31 DE ENERO DE 2001.
 
@@ -14236,13 +14272,13 @@ Tercero. - A la Dirección General de Atención Integral al Estudiante se le tra
 
 G.O. 11 DE JUNIO DE 2007.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS AL REGLAMENTO.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS AL REGLAMENTO.
 
 Único. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 11 DE JUNIO DE 2007.
 
-DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS AL REGLAMENTO.
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS AL REGLAMENTO.
 
 Primero.- Publíquese el presente instrumento en la Gaceta Oficial del Distrito Federal.
 
@@ -14254,7 +14290,7 @@ Cuarto.- A la Dirección General de Obras para el Transporte se le transferirán
 
 G.O. 29 DE JUNIO DE 2007.
 
-DECRETO POR EL QUE SE REFORMAN EL NUMERAL 2 DE LA FRACCION VI DEL ARTICULO 7°, Y EL ARTICULO 61 AL REGLAMENTO.
+DECRETO POR EL QUE SE REFORMAN EL NUMERAL 2 DE LA FRACCIÓN VI DEL ARTÍCULO 7°, Y EL ARTÍCULO 61 AL REGLAMENTO.
 
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
@@ -14266,7 +14302,7 @@ Cuarto.- Se derogan todas las disposiciones reglamentarias o administrativas que
 
 G.O. 29 DE JUNIO DE 2007.
 
-DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS AL REGLAMENTO.
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS AL REGLAMENTO.
 
 Primero.- Publíquese en presente instrumento en la Gaceta Oficial del Distrito Federal.
 
@@ -14420,7 +14456,7 @@ CUARTO.- Con el objeto de que el Órgano Desconcentrado, creado en este Decreto,
 
 G.O. 9 DE JUNIO DE 2009.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 29 Y 114 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 29 Y 114 DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
@@ -14633,3 +14669,9 @@ CUARTO.- Los asuntos que se encuentran en trámite en la Dirección de Desarroll
 G.O. 8 DE JULIO DE 2011.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 1 DE MARZO DE 2012.
+
+PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
