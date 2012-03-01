@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2011-11-07"
+last_updated: "2012-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE MARZO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -82,9 +82,13 @@ h) Contraloría: La Contraloría General del Tribunal Electoral del Distrito Fed
 
 i) Dirección General Jurídica: La Dirección General Jurídica del Tribunal Electoral del Distrito Federal;
 
-j) Coordinaciones: La Coordinación de Difusión y Transparencia, y la Coordinación de Comunicación Social y Relaciones Públicas,
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
-k) Unidades: La Unidad de Tecnologías de la Información, y la Unidad de Jurisprudencia y Estadística, y
+j) Coordinaciones: La Coordinación de Transparencia y Archivo, y la Coordinación de Comunicación Social y Relaciones Públicas;
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+k) Unidades: La Unidad de Tecnologías de la Información, la Unidad de Jurisprudencia y Estadística y la Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales, y
 
 l) Centro de Capacitación: El Centro de Capacitación del Tribunal Electoral del Distrito Federal.
 
@@ -104,7 +108,9 @@ f) Sentencia: La resolución aprobada por el Pleno del Tribunal Electoral del Di
 
 g) Sistema de medios de impugnación: El conjunto de procedimientos contenciosos establecidos en la Ley Procesal Electoral para el Distrito Federal, para garantizar la legalidad y definitividad de los actos y resoluciones electorales, así como la salvaguarda de los derechos político electorales de las y los ciudadanos, y
 
-h) Titular(es) de área: Presidente/a; Magistrados/as Electorales; Secretario/a General, Secretario/a Administrativo/a; Contralor/a General; Director/a General Jurídico/a; Coordinadores/as de la Coordinación de Difusión y Transparencia, y de Comunicación Social y Relaciones Públicas; Directores/as del Centro de Capacitación, de la Unidad de Tecnologías de la Información, y de la Unidad de Jurisprudencia y Estadística.
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+h) Titular(es) de área: Presidente/a; Magistrados/as Electorales; Secretario/a General, Secretario/a Administrativo/a; Contralor/a General; Director/a General Jurídico/a; Coordinadores/as de la Coordinación de Transparencia y Archivo, y de Comunicación Social y Relaciones Públicas; Directores/as del Centro de Capacitación, de la Unidad de Tecnologías de la Información, de la Unidad de Jurisprudencia y Estadística y de la Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL
 
@@ -134,7 +140,9 @@ VII. La Dirección General Jurídica;
 
 VIII. Órganos auxiliares:
 
-a) Coordinación de Difusión y Transparencia;
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+a) Coordinación de Transparencia y Archivo;
 
 b) Coordinación de Comunicación Social y Relaciones Públicas, y
 
@@ -142,9 +150,17 @@ c) Centro de Capacitación.
 
 IX. Unidades:
 
-a) Unidad de Tecnologías de la Información, y
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
-b) Unidad de Jurisprudencia y Estadística.
+a) Unidad de Tecnologías de la Información;
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+b) Unidad de Jurisprudencia y Estadística, y
+
+> <small>(ADICIONADO, G.O. 1 DE MARZO DE 2012)</small>
+
+c) Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales.
 
 El Pleno, mediante acuerdo, podrá crear otras áreas del Tribunal, considerando las necesidades del servicio y la disponibilidad presupuestal.
 
@@ -156,9 +172,49 @@ A excepción de la Contraloría, cuyo personal será designado en su totalidad p
 
 Tratándose de la Comisión de Conciliación y Arbitraje, el personal será designado por sus integrantes a propuesta de la o del Coordinador/a.
 
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
 ###### Artículo 5.
 
-Las atribuciones de los órganos y áreas del Tribunal que no estén definidas en el Código, la Ley Procesal Electoral y este Reglamento, serán determinadas en los reglamentos, lineamientos, manuales y procedimientos que apruebe el Pleno.
+A las y los titulares de los órganos y áreas del Tribunal les corresponde lo siguiente:
+
+I. Establecer las estrategias y mecanismos para el buen funcionamiento y coordinación de los trabajos correspondientes al órgano o área de su competencia;
+
+II. Acordar con su personal los asuntos que les competan;
+
+III. Supervisar el desempeño y el cumplimiento de las funciones de su personal;
+
+IV. Participar en las sesiones y reuniones de trabajo a las que sean convocados/as para conocer de los asuntos de su competencia, en términos del Código y demás normativa interna aplicable;
+
+V. Elaborar y remitir a la Secretaría Administrativa sus propuestas para integrar el proyecto de Programa Operativo Anual y el anteproyecto de presupuesto del Tribunal, con base en los criterios generales y procedimientos aprobados por el Pleno;
+
+VI. Ejecutar los proyectos establecidos en el Programa Operativo Anual del Tribunal aprobado por el Pleno, las actividades señaladas en sus programas de trabajo, así como las labores específicas que les asigne el Pleno y la o el Presidente, en el ámbito de sus respectivas competencias;
+
+VII. Coordinar la implementación de las líneas de acción del Programa de Derechos Humanos del Distrito Federal que les correspondan, o bien, participar en la implementación de las mismas, proporcionar la información relacionada con el avance de las actividades y acciones previstas para su ejecución, y designar al personal que fungirá como enlace y asistirá a los eventos vinculados con este programa;
+
+VIII. Dar a conocer al personal a su cargo, las determinaciones plenarias que deban observar en el marco de sus funciones y recabar el acuse de recibo respectivo;
+
+IX. Proporcionar la información y documentación que les requiera el Pleno, por conducto de la o del Presidente, que obre en sus archivos;
+
+X. Proporcionar la información necesaria, a efecto de que la o el Presidente, esté en posibilidad de rendir los informes a que se refiere el Código;
+
+XI. Elaborar los anteproyectos de la normativa interna, manuales y procedimientos administrativos relacionados con su operación, en su caso, proponer modificaciones para su actualización;
+
+XII. Proponer a la o al Presidente la celebración de convenios de apoyo y colaboración interinstitucional, así como con particulares, relacionados con sus atribuciones;
+
+XIII. Proporcionar a la Oficina de Información Pública del Tribunal la información y/o documentación que le requiera para dar respuesta a las solicitudes de información pública y las relativas a datos personales, así como la información que debe incorporarse al portal de trasparencia del sitio de Internet de este órgano jurisdiccional;
+
+XIV. Remitir a la Coordinación de Comunicación Social y Relaciones Públicas la información que debe incorporarse a los sitios de Internet e Intranet del Tribunal, en atención a su ámbito de competencia;
+
+XV. Coordinarse con la Unidad de Tecnologías de la Información para el oportuno establecimiento y actualización de los programas de cómputo y el uso del equipo técnico para el debido cumplimiento de sus funciones;
+
+XVI. Supervisar que el personal a su cargo integre y resguarde el archivo de su área, en los términos establecidos en la Ley y demás normatividad de la materia;
+
+XVII. Acordar con la o el Presidente tratándose de los órganos directivos y auxiliares, la Dirección General Jurídica y las unidades, e informarle permanentemente respecto del funcionamiento de las áreas a su cargo y del desahogo de los asuntos de su competencia;
+
+XVIII. Atender las instrucciones de su superior/a jerárquico/a relacionadas con su competencia, y
+
+XIX. Observar las demás disposiciones previstas en los ordenamientos legales y normativa interna aplicables.
 
 ### CAPÍTULO II. DEL PLENO
 
@@ -440,9 +496,9 @@ I. Certificar las actuaciones de la Comisión de Conciliación y Arbitraje en lo
 
 II. Dar cuenta con los proyectos de sentencia que no resuelvan el fondo de un asunto, así como de aquéllos en que el Pleno lo acuerde;
 
-III. Formular los proyectos de manuales de sus áreas de apoyo y someterlos, por conducto de la o del Presidente, a la aprobación del Pleno;
+III. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
-IV. Supervisar e informar a la o al Presidente, permanentemente, respecto del funcionamiento de las áreas a su cargo y del desahogo de los asuntos de su competencia;
+IV. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 V. Tomar las medidas conducentes para publicar oportunamente en los estrados del Tribunal, la lista de los asuntos a resolver en la sesión correspondiente;
 
@@ -460,7 +516,9 @@ XI. Coadyuvar con la o el Presidente en el seguimiento del cumplimiento de las d
 
 XII. Coordinar la provisión de todos los elementos necesarios para la realización de las sesiones y reuniones de Pleno, así como certificar el quórum, tomar las votaciones y formular el acta respectiva de las sesiones del Pleno y reuniones privadas;
 
-XIII. Llevar el registro de las tesis de jurisprudencia que se adopten, así como dar a conocer de manera puntual y oportuna, los criterios jurisprudenciales y tesis relevantes aprobados por el Pleno;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
+
+XIII. Contar con un sistema de datos administrado por la Unidad de Jurisprudencia y Estadística que contenga el registro de las tesis relevantes y de jurisprudencia adoptadas, y en donde se dé a conocer de manera puntual y oportuna, los criterios aprobados por el Pleno, y (sic)
 
 XIV. Supervisar los archivos de la Secretaría General, y
 
@@ -666,9 +724,9 @@ III. Coordinar que el personal a su cargo efectúe, en conjunto con los órganos
 
 IV. Coordinar que el personal a su cargo coadyuve con todas las unidades administrativas del Tribunal para la elaboración de procedimientos administrativos y del Manual de Organización y Funcionamiento del Tribunal, para el buen funcionamiento de este órgano jurisdiccional;
 
-V. Informar a la o al Presidente, permanentemente, respecto del funcionamiento de la Secretaría a su cargo y del desahogo de los asuntos de su competencia, y
+V. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
-VI. Aquellas que su superior jerárquico le encomiende en relación con su puesto.
+VI. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 ###### Artículo 42.
 
@@ -890,7 +948,7 @@ XXII. Atender consultas y emitir opiniones relacionadas con el ámbito de su com
 
 XXIII. Comparecer ante las diversas instancias jurisdiccionales, en su calidad de autoridad responsable, y
 
-XXIV. Las demás que le confieran los ordenamientos y disposiciones legales aplicables.
+XXIV. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 ###### Artículo 48.
 
@@ -1012,7 +1070,9 @@ I. Para la atención de los asuntos normativos:
 
 a) Revisar y opinar sobre los aspectos técnico-jurídicos de los proyectos de manuales y procedimientos administrativos que le remita la Secretaría Administrativa;
 
-b) Elaborar los proyectos normativos internos que solicite la o el Presidente o los comités en el ámbito de sus atribuciones, para lo cual contará con la participación de los órganos y áreas del Tribunal, en su caso, revisar que los proyectos elaborados por dichas instancias, estén de acuerdo con el Código, la Ley y la normativa interna;
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+b) Elaborar y/o revisar los proyectos normativos internos en el ámbito de sus atribuciones, para lo cual contará con la participación de los órganos y áreas del Tribunal, proyectos que deberán estar acordes con el Código, la Ley y la normativa interna;
 
 c) Apoyar en la redacción de proyectos de acuerdos plenarios cuando así lo solicite la o el Presidente, y
 
@@ -1024,7 +1084,9 @@ a) Participar como asesor/a jurídico/a, únicamente con derecho a voz, en los C
 
 b) Desahogar consultas jurídicas formuladas por las áreas del Tribunal, para el debido ejercicio de sus atribuciones, así como realizar los estudios que determine el Pleno, la o el Presidente sobre asuntos concretos del organismo, no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
 
-c) Fungir como representante del Tribunal ante el Comité del Mecanismo para el Seguimiento y Evaluación del Programa de Derechos Humanos del Distrito Federal;
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+c) Fungir como representante del Tribunal ante el Comité de Seguimiento y Evaluación del Programa de Derechos Humanos del Distrito Federal, solicitar y coordinar la asistencia y participación del personal del Tribunal en los grupos de trabajo y eventos relacionados con la implementación del programa, requerir información a las y los titulares de los órganos y áreas relativa al cumplimiento de las líneas de acción, dar seguimiento a la implementación y elaborar el informe anual en términos de ley, con base en lo reportado en el sistema de seguimiento al Programa Operativo Anual que corresponda;
 
 d) Realizar los trámites relativos a derechos de autor y registro de las publicaciones del Tribunal que le sean solicitados;
 
@@ -1056,19 +1118,23 @@ g) Remitir a la o al Secretario General los informes trimestrales sobre las reso
 
 h) Representar al Tribunal con apoyo del personal adscrito a su área, en los conflictos que se establezcan entre éste y su personal, incluyendo a codemandados físicos que laboren para el Tribunal, de conformidad con lo dispuesto por el artículo 102 de la Ley Procesal Electoral;
 
-i) Informar a la o al Presidente, permanentemente, respecto del funcionamiento de la Dirección a su cargo y del desahogo de los asuntos de su competencia, y
+i) (DEROGADO, G.O. 1 DE MARZO DE 2012)
 
-j) Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+j) (DEROGADO, G.O. 1 DE MARZO DE 2012)
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
 ###### Artículo 54.
 
-Para el desempeño de sus atribuciones, la Dirección General Jurídica contará con el apoyo de las Direcciones de Área previstas en este Reglamento, cuyos titulares dependerán directamente de la o del Director General Jurídico.
+Para el desempeño de sus atribuciones, la Dirección General Jurídica contará con el apoyo de las Subdirecciones de Área previstas en este Reglamento, cuyos titulares dependerán directamente de la o del Director General Jurídico.
 
-Para ocupar el cargo de Director/a de Área en la Dirección General Jurídica, deberán cumplirse los requisitos establecidos en el Manual de Organización y Funcionamiento del Tribunal.
+Para ocupar el cargo de Subdirector/a de Área en la Dirección General Jurídica, deberán cumplirse los requisitos establecidos en el Manual de Organización y Funcionamiento del Tribunal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2012)</small>
 
 ###### Artículo 55.
 
-La Dirección de lo Contencioso, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
+La Subdirección de lo Contencioso, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
 
 I. Dirigir la realización de todos los actos y diligencias inherentes a los procedimientos que el Tribunal tramite ante las autoridades administrativas, laborales o judiciales, ya sean locales o federales o en los que participe con la calidad de parte, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
 
@@ -1098,9 +1164,11 @@ XIII. Verificar la integración, archivo y resguardo de los expedientes de los a
 
 XIV. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2012)</small>
+
 ###### Artículo 56.
 
-La Dirección de Contratos, Consulta y Normatividad, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
+La Subdirección de Contratos, Consulta y Normatividad, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
 
 I. Supervisar la revisión de los aspectos técnico jurídicos de los proyectos de bases de los procedimientos de licitación pública y de invitación a cuando menos tres proveedores, a solicitud de la Secretaría Administrativa;
 
@@ -1120,7 +1188,9 @@ VIII. Apoyar en la redacción de proyectos de acuerdos e informes, cuando así l
 
 IX. Asistir a las sesiones y reuniones de trabajo, en representación de la Dirección General Jurídica, cuando su superior/a jerárquico/a así lo determine, y participar en términos de lo establecido en la normativa interna correspondiente;
 
-X. Participar en el seguimiento a la implementación de las líneas de acción del Programa de Derechos Humanos del Distrito Federal que corresponden al Tribunal, en los términos aprobados por el Pleno;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
+
+X. Participar en las actividades relacionadas con la implementación y seguimiento de las líneas de acción del Programa de Derechos Humanos del Distrito Federal en el Tribunal;
 
 XI. Atender los asuntos relativos a las materias de transparencia, acceso a la información pública, datos personales y archivo relacionados con la información y documentación bajo resguardo de la Dirección General Jurídica;
 
@@ -1132,9 +1202,11 @@ XIV. Aquellas encomendadas por la instancia superior jerárquica relacionadas co
 
 ### CAPÍTULO X. DE LAS COORDINACIONES
 
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
 ###### Artículo 57.
 
-Para el adecuado desempeño de las tareas que le están encomendadas, el Tribunal contará con coordinaciones para atender las funciones relativas a difusión, transparencia y archivos, así como en comunicación social y relaciones públicas, bajo la coordinación y supervisión del Presidente.
+Para el adecuado desempeño de las tareas que le están encomendadas, el Tribunal contará con coordinaciones para atender las funciones relativas a transparencia, archivo, comunicación social, relaciones públicas y difusión, bajo la coordinación y supervisión de la o del Presidente.
 
 ###### Artículo 58.
 
@@ -1152,55 +1224,21 @@ IV. Contar con título profesional expedido legalmente, en alguna de las discipl
 
 Las y los Coordinadores podrán designar mediante oficio a quienes las o los sustituyan en ausencias menores a un mes que se den por motivos de salud, vacaciones, licencias o cualquier otra causa justificada. Las ausencias que excedan ese periodo, en su caso, las vacantes que se generen serán cubiertas temporalmente por una o un encargado del despacho que designe la o el Presidente, hasta que el Pleno determine lo conducente, en términos de los artículos 146 y 162, fracción XII del Código.
 
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
 ###### Artículo 59.
 
-La Coordinación de Difusión y Transparencia, tiene las atribuciones siguientes:
+La Coordinación de Transparencia y Archivo, tiene las atribuciones siguientes:
 
-I. Establecer las estrategias y mecanismos para el buen funcionamiento de la Coordinación;
+I. Supervisar el funcionamiento de la Oficina de Información Pública del Tribunal y el cumplimiento de las obligaciones derivadas de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal; la Ley de Archivos del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal;
 
-II. Proponer al Pleno por conducto de la o del Presidente, su programa de actividades;
+II. Proponer al Comité de Transparencia proyectos para la promoción de la cultura de transparencia adoptando las mejores prácticas nacionales e internacionales en las materias de transparencia y archivos;
 
-III. Supervisar el funcionamiento de la Oficina de Información Pública del Tribunal y el cumplimiento de las obligaciones derivadas de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal; la Ley de Archivos del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal;
+III. Promover la cultura de transparencia y acceso a la información entre el personal del Tribunal a través de la capacitación, en coordinación con el Centro de Capacitación;
 
-IV. Proponer al Comité de Transparencia proyectos para la difusión de la cultura de transparencia adoptando las mejores prácticas nacionales e internacionales en las materias de transparencia y archivos;
+IV. Administrar el contenido del apartado de transparencia del sitio de Internet del Tribunal y coordinar con los diversos órganos y áreas la difusión de la información pública de oficio conforme a las leyes y reglamentos de la materia, y la normatividad interna aplicable, y
 
-V. Promover la cultura de transparencia y acceso a la información entre el personal del Tribunal a través de la capacitación, en coordinación con el Centro de Capacitación;
-
-VI. Promover la celebración, de convenios generales que permitan realizar una adecuada difusión inter-institucional con instancias afines;
-
-VII. Evaluar y autorizar el programa editorial y los materiales informativos para la difusión interna y externa;
-
-VIII. Supervisar el diseño, preparación, impresión y edición de las publicaciones del Tribunal, en las que no se deberán utilizar estereotipos y lenguaje excluyente;
-
-IX. Colaborar con la Dirección General Jurídica en los trámites relativos a derechos de autor y registro de las publicaciones del Tribunal;
-
-X. Evaluar cuantitativa y cualitativamente los programas editoriales y someter los resultados a la consideración de la o del Presidente;
-
-XI. Determinar el tiraje de las publicaciones y materiales de difusión que se elaboren en el Tribunal;
-
-XII. Fortalecer la imagen institucional, a través de la difusión entra e interinstitucional y en los diferentes sectores de la sociedad, con excepción de los medios de comunicación social, con lenguaje incluyente, perspectiva de género y el enfoque de derechos humanos;
-
-XIII. Evaluar la pertinencia de asistir a foros para las labores de posicionamiento y difusión del Tribunal;
-
-XIV. Apoyar las tareas del Centro de Capacitación;
-
-XV. Actualizar, incrementar y vigilar el acervo documental del Tribunal;
-
-XVI. Coordinarse con la Unidad de Tecnologías de la Información para el oportuno establecimiento y actualización de los programas de cómputo y el uso del equipo técnico para el debido cumplimiento de sus funciones;
-
-XVII. Elaborar el material didáctico y de difusión, digitalización de imágenes y textos, así como presentaciones gráficas relacionadas con la organización y funcionamiento del Tribunal;
-
-XVIII. Distribuir y llevar el registro y control de las publicaciones del Tribunal;
-
-XIX. Transparentar las actividades que se llevan a cabo en el Tribunal a través de la distribución de materiales y publicaciones;
-
-XX. Administrar el contenido y diseño del sitio de Intranet del Tribunal y coordinar con los diversos órganos y áreas y, en su caso, con instancias externas, la publicación de la información de acuerdo con la normatividad interna, sitio en el cual no se utilizarán estereotipos, imágenes y lenguajes sexistas y discriminatorios;
-
-XXI. Administrar el contenido del apartado de Transparencia del sitio de Internet del Tribunal y coordinar con los diversos órganos y áreas la difusión de la información pública de oficio conforme a las leyes y reglamentos de la materia, así como normatividad interna aplicable;
-
-XXII. Informar a la o al Presidente, respecto del funcionamiento de la Coordinación a su cargo y del desahogo de los asuntos de su competencia, y
-
-XXIII. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+V. Llevar a cabo la integración y actualización de la normativa externa e interna que rige al Tribunal, así como el prontuario de la misma, para su incorporación en los sitios de Internet e Intranet institucionales.
 
 ###### Artículo 60.
 
@@ -1208,9 +1246,11 @@ De conformidad con la Ley de Transparencia y Acceso a la Información Pública d
 
 Los servicios de la Oficina de Información Pública se sujetarán a las disposiciones de la Ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2012)</small>
+
 ###### Artículo 61.
 
-La Oficina de Información Pública del Tribunal, cuyo titular será quien ocupe la Subdirección de Transparencia y Acceso a la Información Pública, en caso de ausencia, la o el encargado provisional de la misma, será designado por la o el Coordinador de Difusión y Transparencia, y tiene las atribuciones siguientes:
+La Oficina de Información Pública del Tribunal, cuyo titular será quien ocupe la Subdirección de Transparencia y Acceso a la Información Pública, en caso de ausencia, la o el encargado provisional de la misma, será designado/a por la o el Coordinador de Transparencia y Archivo, y tiene las atribuciones siguientes:
 
 I. Recibir, tramitar, dar respuesta y seguimiento a las solicitudes de acceso a la información que reciba el Tribunal;
 
@@ -1228,43 +1268,55 @@ VII. Proporcionar directamente la información a disposición del público;
 
 VIII. Elaborar y autorizar los formatos que faciliten el acceso a la información o la rectificación de datos personales, y
 
-IX. Las demás que le confieren las disposiciones aplicables o le encomienden el Pleno, el Presidente, la o el Coordinador de Difusión y Transparencia.
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
+
+IX. Las demás que le confieren las disposiciones aplicables o le encomienden el Pleno, la o el Presidente, y la o el Coordinador de Transparencia y Archivo.
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
 ###### Artículo 62.
 
 La Coordinación de Comunicación Social y Relaciones Públicas tiene las atribuciones siguientes:
 
-I. Realizar el diseño de la campaña institucional del Tribunal y fortalecer su imagen ante los medios de comunicación, mediante la difusión de sus objetivos, funciones y responsabilidades;
+I. En materia de comunicación social:
 
-II. Captar, analizar, procesar y difundir la información proveniente de los medios de comunicación, impresos y electrónicos, que resulten de interés para el Tribunal;
+a) Realizar el diseño de la campaña institucional del Tribunal y fortalecer su imagen ante los medios de comunicación, mediante la difusión de sus objetivos, funciones y responsabilidades;
 
-III. Establecer relaciones con los medios de comunicación nacionales e internacionales, y organismos representativos de los sectores público y privado, vinculados con esta actividad;
+b) Captar, analizar, procesar y difundir la información proveniente de los medios de comunicación, impresos y electrónicos, que resulten de interés para el Tribunal;
 
-IV. Atender oportunamente los requerimientos de información de los medios de comunicación y de la ciudadanía sobre los asuntos del Tribunal, sin vulnerar la reserva que sobre los mismos establezca la ley;
+c) Establecer relaciones con los medios de comunicación nacionales e internacionales, y organismos representativos de los sectores público y privado, vinculados con esta actividad;
 
-V. Interactuar y promover las relaciones públicas internas y externas del Tribunal, con los medios de comunicación;
+d) Atender oportunamente los requerimientos de información de los medios de comunicación y de la ciudadanía sobre los asuntos del Tribunal, sin vulnerar la reserva que sobre los mismos establezca la ley;
 
-VI. Coordinarse con todos los órganos y áreas del Tribunal para dar a conocer ante los medios de comunicación los objetivos, funciones, responsabilidades y logros de cada una de ellas, fortaleciendo así la imagen institucional con perspectiva de género y el enfoque de derechos humanos;
+e) Coordinarse con todos los órganos y áreas del Tribunal para dar a conocer ante los medios de comunicación los objetivos, funciones, responsabilidades y logros de cada una de ellas, fortaleciendo así la imagen institucional con perspectiva de género y el enfoque de derechos humanos, y
 
-VII. Apoyar a la Coordinación de Difusión y Transparencia, en las tareas de elaboración de contenidos para la impresión y edición de libros, revistas, folletos, carteles, trípticos y materiales audiovisuales;
+f) Proponer a la o el Presidente todo lo relativo a la información que deba allegarse a los medios de comunicación, sobre las actividades del Tribunal.
 
-VIII. Acordar con la o el Presidente todo lo relativo a la información que deba allegarse a los medios de comunicación, sobre las actividades del Tribunal;
+II. En materia de relaciones públicas:
 
-IX. Apoyar las tareas del Centro de Capacitación en el ámbito de su competencia;
+a) Interactuar y promover las relaciones públicas internas y externas del Tribunal, con los medios de comunicación;
 
-X. Informar a la o al Presidente, permanentemente, respecto del funcionamiento de la Coordinación a su cargo y del desahogo de los asuntos de su competencia;
+b) Dar cobertura, cuando esto sea requerido, a los cursos, seminarios, talleres, foros, presentaciones de libros y demás actos relacionados con los órganos electorales o que involucren información de interés para el Tribunal, y
 
-XI. Coordinarse con la Unidad de Tecnologías de la Información para el oportuno establecimiento y actualización de los programas de cómputo y del equipo técnico necesario para la adecuada realización de sus funciones;
+c) Fortalecer la imagen institucional, a través de la relación intra e interinstitucional y en los diferentes sectores de la sociedad, con lenguaje incluyente, perspectiva de género y el enfoque de derechos humanos.
 
-XII. Administrar el contenido del sitio de Internet del Tribunal en coordinación con los diferentes órganos y áreas para la publicación de la información de acuerdo con las leyes, reglamentos y normatividad que el Tribunal debe cumplir y difundir oportunamente, con excepción del apartado de Transparencia; así como diseñar la imagen del sitio con la participación de la Coordinación de Difusión y Transparencia, y de la Unidad de Tecnologías de la Información, en el cual no se utilizarán estereotipos, imágenes y lenguajes sexistas y discriminatorios;
+III. En materia de difusión:
 
-XIII. Dar cobertura, cuando esto sea requerido, a los cursos, seminarios, talleres, foros, presentaciones de libros y demás actos relacionados con los órganos electorales o que involucren información de interés para el Tribunal;
+a) Administrar el contenido de los sitios de Internet e Intranet del Tribunal en coordinación con los diferentes órganos y áreas internas, en su caso, con instancias externas, para la publicación de la información de acuerdo con las leyes, reglamentos y normatividad que el Tribunal debe cumplir y difundir oportunamente, con excepción del apartado de Transparencia; así como diseñar la imagen de los sitios, en el cual no se utilizarán estereotipos, imágenes y lenguajes sexistas y discriminatorios;
 
-XIV. Promover convenios de colaboración interinstitucional a nivel nacional e internacional, a fin de contar con información actualizada sobre los acontecimientos de interés para el Tribunal;
+b) Supervisar el diseño, preparación, impresión y edición de las publicaciones del Tribunal, en las que no se deberán utilizar estereotipos y lenguaje excluyente;
 
-XV. Proponer los proyectos y actividades de la Coordinación para ser integradas en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento, y
+c) Determinar el tiraje de las publicaciones y materiales de difusión que se elaboren en el Tribunal;
 
-XVI. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+d) Proporcionar a la Dirección General Jurídica la información necesaria para la realización de los trámites relativos a derechos de autor y registro de las publicaciones del Tribunal;
+
+e) Evaluar cuantitativa y cualitativamente el programa anual editorial del Tribunal y los materiales informativos para la difusión interna y externa, así como someter los resultados a la consideración de la o del Presidente;
+
+f) Evaluar la pertinencia de asistir a foros para las labores de posicionamiento y difusión del Tribunal;
+
+g) Elaborar el material didáctico y de difusión, digitalización de imágenes y textos, así como presentaciones gráficas relacionadas con la organización y funcionamiento del Tribunal, y
+
+h) Distribuir y llevar el registro y control de las publicaciones del Tribunal.
 
 ### CAPÍTULO XI. DE LAS UNIDADES DEL TRIBUNAL
 
@@ -1280,7 +1332,7 @@ La Unidad de Tecnologías de la Información tiene las atribuciones siguientes:
 
 I. Elaborar y proponer los procedimientos y lineamientos que deban regir el desarrollo, instrumentación, mantenimiento y administración de tecnologías de la información al interior del Tribunal, de acuerdo a las (sic) normatividad vigente;
 
-II. Proponer los proyectos y actividades del área para ser integradas en el Programa Operativo Anual, así como dar seguimiento a su cumplimiento;
+II. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 III. Supervisar la instalación del equipo de cómputo, periféricos, software, consumibles y accesorios, solicitados por las áreas usuarias;
 
@@ -1296,7 +1348,7 @@ VIII. Proporcionar los servicios de Internet, Intranet y correo electrónico ins
 
 IX. Promover, dirigir e investigar permanentemente, el uso de nuevas tecnologías en materia de informática, que mantengan y garanticen la modernidad tecnológica, acorde a los estándares internacionales y aplicables al interior del Tribunal;
 
-X. Formular y/o proponer la actualización de los proyectos de procedimientos administrativos del área previa gestión ante las instancias competentes de su validación y autorización;
+X. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 XI. Establecer los mecanismos de comunicación e intercambio de información en el ámbito de su competencia, con los diversos organismos electorales nacionales e internacionales, que le sean solicitados de acuerdo con la normatividad, reglamentos, acuerdos y convenios establecidos con el Tribunal;
 
@@ -1304,15 +1356,13 @@ XII. Coordinar con los titulares de las unidades administrativas de la Secretar�
 
 XIII. Coordinar los mecanismos de transmisión de las sesiones públicas del Pleno y/o eventos especiales, a través de la infraestructura de telecomunicaciones del Tribunal;
 
-XIV. Atender las solicitudes de información pública que le correspondan, siguiendo los procedimientos establecidos, y
+XIV. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
-XV. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+XV. (DEROGADA, G.O. 1 DE MARZO DE 2012)
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
 ###### Artículo 65.
-
-La Unidad de Jurisprudencia y Estadística es el área encargada de elaborar el texto definitivo, registrar, clasificar y compilar las tesis de jurisprudencia y relevantes del Pleno, así como de sistematizar los datos cuantitativos de la actividad jurisdiccional del Tribunal.
-
-###### Artículo 66.
 
 La Unidad de Jurisprudencia y Estadística tiene las atribuciones siguientes:
 
@@ -1336,11 +1386,31 @@ IX. Elaborar y presentar los informes y reportes estadísticos de la actividad j
 
 X. Elaborar los informes que en materia de jurisprudencia soliciten el Pleno, la o el Presidente del Tribunal, las y los Magistrados, y la o el Secretario General;
 
-XI. Sistematizar y proporcionar la información que sea necesaria para la formulación del informe que la o el Presidente debe rendir ante el Pleno, de conformidad con el artículo 162, fracción X del Código;
+XI. Coordinar la difusión de la información estadística de la actividad jurisdiccional del Tribunal;
 
-XII. Elaborar el proyecto de procedimiento administrativo para la elaboración y publicación de las tesis de jurisprudencia y relevantes, y remitirlo a la Secretaría Administrativa para sea (sic) sometido, por conducto de la o del Presidente, a la aprobación del Pleno, y
+XII. Elaborar anteproyectos de tesis de jurisprudencia y relevantes, y remitirlos a la o al Presidente, para la consideración de las y los Magistrados Electorales integrantes del Pleno, y
 
-XIII. Coordinar la difusión de la información estadística de la actividad jurisdiccional del Tribunal.
+XIII. Elaborar el texto definitivo, registrar, clasificar y compilar las tesis de jurisprudencia y relevantes del Pleno, así como sistematizar los datos cuantitativos de la actividad jurisdiccional del Tribunal.
+
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+###### Artículo 66.
+
+La Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales tiene las atribuciones siguientes:
+
+I. Promover el ejercicio, respeto y defensa de los derechos político electorales de las y los ciudadanos;
+
+II. Impulsar la difusión de la cultura de la legalidad, a través de actividades que divulguen entre la población el conocimiento sobre sus derechos, obligaciones, y medios de defensa en materia político electoral, principalmente, que permitan a las y los ciudadanos potenciar su ejercicio en el Distrito Federal, en colaboración con la Coordinación de Comunicación Social y Relaciones Públicas de este Tribunal;
+
+III. Implementar los mecanismos y procedimientos que fomenten la vinculación del Tribunal con organismos electorales nacionales e internacionales;
+
+IV. Desarrollar proyectos interinstitucionales en materia electoral y con las organizaciones sociales, fundaciones y la ciudadanía para la promoción del ejercicio, respeto y defensa de los derechos político electorales;
+
+V. Coordinarse con el Centro de Capacitación y las Coordinaciones de Transparencia y Archivo, y de Comunicación Social y Relaciones Públicas del Tribunal, de conformidad con las políticas institucionales;
+
+VI. Coordinarse con la Dirección General Jurídica para la elaboración de convenios y acuerdos para la consecución de proyectos del Tribunal conjuntos, para la promoción de los derechos políticos con organismos electorales nacionales e internacionales, y
+
+VII. Crear la base de datos y directorio de organismos nacionales e internacionales vinculados con actividades electorales.
 
 ### CAPÍTULO XII. DEL CENTRO DE CAPACITACIÓN
 
@@ -1368,9 +1438,9 @@ II. Promover relaciones de intercambio académico con universidades e institucio
 
 III. Proponer al Pleno, por conducto de la o del Presidente, las publicaciones que estime convenientes para la mejor divulgación de las materias jurídica y político-electoral;
 
-IV. Promover convenios de colaboración con instituciones nacionales e internacionales, tanto del sector público como del sector privado, que tengan por objeto realizar trabajos conjuntos de investigación en la materia electoral y someterlos a la aprobación del Pleno, por conducto de la o del Presidente;
+IV. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
-V. Elaborar, ejecutar y vigilar el cumplimiento de los planes, programas, cursos y convenios a que se refieren las fracciones anteriores;
+V. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 VI. Impartir cursos, seminarios, talleres y realizar otras actividades docentes, con la finalidad de formar y capacitar al personal del Tribunal para contribuir a su permanente actualización y superación profesional, incorporando temas relacionados con la perspectiva de género y el enfoque de derechos humanos;
 
@@ -1384,11 +1454,13 @@ X. Promover la celebración, con instituciones afines, de convenios de préstamo
 
 XI. Poner a disposición de los Magistrados, personal del Tribunal y público en general, un servicio actualizado y directo de consulta del material bibliográfico y hemerográfico, principalmente en materia jurídica y política-electoral;
 
-XII. Contribuir con los servicios de consulta y préstamo en biblioteca y en bancos de información bibliohemerográfica nacionales y extranjeros;
+> <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
 
-XIII. Informar a la o al Presidente, permanentemente, respecto a su funcionamiento y al desahogo de los asuntos de su competencia, y
+XII. Proporcionar los servicios de consulta y préstamo en biblioteca y en bancos de información bibliohemerográfica nacionales y extranjeros; asimismo, actualizar, incrementar y resguardar el acervo de la biblioteca del Tribunal;
 
-XIV. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+XIII. (DEROGADA, G.O. 1 DE MARZO DE 2012)
+
+XIV. (DEROGADA, G.O. 1 DE MARZO DE 2012)
 
 ###### Artículo 69.
 
@@ -1454,7 +1526,9 @@ La persona servidora pública afectada por las resoluciones de la Contraloría, 
 
 La Contraloría llevará el registro y resguardo de las Declaraciones de Situación Patrimonial de las personas servidoras públicas del Tribunal, que se encuentren obligadas a presentarlas.
 
-Tienen la obligación de presentar Declaración de Situación Patrimonial: Magistrados/as, Secretario/a General, Secretario/a Administrativo, Director/a General Jurídico/s, Contralor/a General, Coordinadores/as, Director/a del Centro de Capacitación, Directores/as de Unidad, Secretarios/as de Estudio y Cuenta, Directores/as de Área, Secretarios/as Auxiliares, Subdirectores/as, Investigadores/as, Jefes/as de Departamento, Coordinadores/as de Gestión, Asesores/as y todas aquellas personas servidoras públicas del Tribunal cuyos ingresos sean homólogos o superiores a los anteriores.
+> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+
+Tienen la obligación de presentar Declaración de Situación Patrimonial: Magistrados/as, Secretario/a General, Secretario/a Administrativo/a, Director/a General Jurídico/a, Contralor/a General, Coordinadores/as, Director/a del Centro de Capacitación, Directores/as de Unidad, Secretarios/as de Estudio y Cuenta, Directores/as de Área, Secretarios/as Auxiliares, Subdirectores/as, Investigadores/as, Jefes/as de Departamento, Coordinadores/as de Gestión, Asesores/as y todas aquellas personas servidoras públicas del Tribunal cuyos ingresos sean homólogos o superiores a los anteriores.
 
 ## TÍTULO CUARTO. DE LOS MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
@@ -1659,3 +1733,11 @@ ATENTAMENTE
 LIC. ERIKA ESTRADA RUIZ
 
 SECRETARIA TÉCNICA DE LA SECRETARÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 1 DE MARZO DE 2012.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Publíquese la presente reforma en la Gaceta, así como en los Estrados y en el sitio de Internet del Tribunal.
