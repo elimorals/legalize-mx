@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-del-distrito-82431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-15"
-last_updated: "2011-08-15"
+last_updated: "2012-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-08-10"
 
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE MARZO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de agosto de 2011.
 
@@ -782,9 +782,13 @@ En la instalación de los anuncios en mobiliario urbano, se observarán las sigu
 
 I. No podrán instalarse anuncios en muebles cuya instalación no se encuentre amparada por el Permiso Administrativo Temporal Revocable correspondiente;
 
-II. Los anuncios en mobiliario urbano sólo podrán instalarse previa expedición de la licencia correspondiente y del consentimiento escrito del propietario o poseedor del inmueble frente al cual se ubique el mueble de que se trate, y no antes;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
-III. Los anuncios sólo podrán ocupar hasta el 50% de la superficie de cada mueble, salvo tratándose de paraderos de autobuses en cuyo caso sólo podrán ocupar el espacio diseñado para tal efecto;
+II. Los anuncios en mobiliario urbano sólo podrán instalarse previa expedición de la licencia correspondiente y del consentimiento escrito del propietario o poseedor del inmueble frente al cual se ubique el mueble de que se trate, y no antes, salvo en el caso de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal, en cuyo caso no será necesario el consentimiento mencionado y la licencia será otorgada por el mismo plazo atribuido al Permiso Administrativo Temporal Revocable correspondiente;
+
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+III. Los anuncios sólo podrán ocupar hasta el 50% de la superficie de cada mueble, salvo tratándose de paraderos de autobuses o, en general, de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo, en cuyos casos podrán ocupar la totalidad de los espacios diseñados para tal efecto;
 
 IV. No podrán instalarse anuncios en elementos accesorios o agregados que no contribuyan a la función social del mueble;
 
@@ -930,6 +934,10 @@ Por el uso y aprovechamiento de un espacio para anuncio en un nodo publicitario,
 
 A cambio del uso y aprovechamiento de espacios para anuncios en nodos publicitarios, el interesado deberá pagar la contraprestación que se fije en el Permiso Administrativo Temporal Revocable correspondiente.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE MARZO DE 2012)</small>
+
+Tratándose de Permisos Administrativos Temporales Revocables para el uso y aprovechamiento de nodos publicitarios a cambio de proyectos de infraestructura o equipamiento urbanos, su vigencia será por siete años, prorrogables por el tiempo necesario considerando el monto de la inversión.
+
 ###### Artículo 74.
 
 La contraprestación de los Permisos Administrativos Temporales Revocables por el aprovechamiento de los espacios para anuncios en los nodos publicitarios, será pecuniaria.
@@ -962,7 +970,9 @@ El Consejo de Publicidad Exterior resolverá los casos en los que la solicitud n
 
 El expediente técnico del anuncio que se acompañe a la solicitud para el otorgamiento de un Permiso Administrativo Temporal Revocable, deberá integrarse por los siguientes documentos:
 
-I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios, y en el que se indique también la ubicación precisa del anuncio dentro del predio;
 
 II. Tipo de anuncio: autosoportado, adosado u otro (en cuyo caso el solicitante deberá especificarlo);
 
@@ -980,17 +990,19 @@ a). De plantas, alzados y cortes del anuncio;
 
 b). Estructurales;
 
-c). De instalación eléctrica, electrónica o ambas;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
 
-d). De iluminación, y
+c). De las mejoras al espacio público circundante, y en especial al pavimento, vegetación e iluminación;
 
-e). De diseño gráfico de la placa de identificación, y
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
 
-VIII. Perspectivas o render:
+d). De iluminación, en el que se indique la fuente de energía y la instalación eléctrica, y
 
-a). Del anuncio individualmente considerado, y
+e). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
-b). Del anuncio considerado en el entorno del nodo de que se trate.
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+VIII. Perspectiva o render del entorno del nodo en la que se considere también el anuncio o anuncios de que se trate.
 
 Los planos previstos en el presente artículo, incluirán materiales estructurales, acabados, color y texturas. A su vez, los pies de plano correspondientes contendrán croquis de ubicación del anuncio, escala gráfica, fecha, nombre del plano y su número, nombres y firmas del solicitante, Director Responsable de Obra, y en su caso, Corresponsable.
 
@@ -1012,15 +1024,23 @@ La licencia se otorgará:
 
 I. Por anuncio, tratándose de los de propaganda comercial en un corredor publicitario o de un denominativo en inmueble;
 
-II. Por mueble urbano, tratándose de los anuncios en mobiliario urbano, y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
-III. Por inmueble, tratándose de los anuncios en vallas.
+II. Por mueble urbano, tratándose de los anuncios en mobiliario urbano;
+
+> <small>(ADICIONADA, G.O. 2 DE MARZO DE 2012)</small>
+
+III. Por Permiso Administrativo Temporal Revocable expedido por la Oficialía Mayor, tratándose de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal, y
+
+IV. Por inmueble, tratándose de los anuncios en vallas.
 
 ###### Artículo 84.
 
 El expediente técnico del anuncio, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncio de propaganda comercial en un corredor publicitario, deberá integrarse por la siguiente información y documentos:
 
-I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios, y en el que se indique también la ubicación precisa del anuncio dentro del predio;
 
 II. Tipo de anuncio: autosoportado, adosado u otro (en cuyo caso el solicitante deberá especificarlo);
 
@@ -1034,21 +1054,23 @@ VI. Cálculos estructurales y memoria estructural;
 
 VII. Planos acotados y a escala:
 
-a). De plantas, alzados y cortes del anuncio;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
+
+a). De plantas y alzados;
 
 b). Estructurales;
 
-c). De instalación eléctrica, electrónica o ambas;
+c). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
-d). De iluminación, y
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
 
-e). De diseño gráfico de la placa de identificación;
+d). De iluminación, en el que se indique la fuente de energía y la instalación eléctrica, y
 
-VIII. Perspectivas o render:
+e). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
-a). Del anuncio individualmente considerado, y
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
-b). Del anuncio considerado en el entorno del nodo de que se trate;
+VIII. Perspectiva o render del entorno, en la que se considere también el anuncio de que se trate.
 
 IX. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas;
 
@@ -1074,17 +1096,23 @@ I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el
 
 II. Tipo de anuncio: autosoportado, adosado, sobre marquesina, integrado o pintado;
 
-III. Dimensiones de la cartelera;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+III. Dimensiones del anuncio;
 
 IV. Altura del soporte, desde el nivel de banqueta al nivel inferior de la cartelera o de la pantalla, tratándose de autosoportados;
 
-V. Tipo, material y dimensiones del soporte, tratándose de autosoportados;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+V. Tipo y material del anuncio;
 
 VI. Cálculos estructurales y memoria estructural, tratándose de autosoportados;
 
 VII. Planos acotados y a escala:
 
-a). De plantas, alzados y cortes del anuncio;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
+
+a). De plantas y alzados;
 
 b). Estructurales, tratándose de autosoportados;
 
@@ -1092,15 +1120,15 @@ c). De instalación eléctrica, en su caso, y
 
 d). De iluminación, en su caso;
 
-VIII. Fotografía o render:
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
-a). Del anuncio individualmente considerado, y
-
-b). Del anuncio instalado en el inmueble de que se trate;
+VIII. Perspectiva o render de la edificación, en la que se considere también el anuncio de que se trate;
 
 IX. Copia simple de los recibos de pago del impuesto predial y del derecho de suministro de agua, respectivamente, del inmueble de que se trate, correspondientes al bimestre inmediato anterior a la fecha de la solicitud;
 
-X. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
+
+X. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas, salvo que se trate de anuncios pintados directamente en la fachada;
 
 XI. Dictamen favorable de la Dirección del Patrimonio Cultural Urbano, adscrita a la Secretaría, cuando el inmueble en el que se pretenda instalar el anuncio se encuentre en Área de Conservación Patrimonial o en un elemento del patrimonio cultural urbano;
 
@@ -1116,31 +1144,23 @@ Los documentos previstos en el presente artículo deberán entregarse tanto en v
 
 El expediente técnico de la valla, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncios en vallas en el perímetro de un inmueble, deberá integrarse por la siguiente información y documentos:
 
-I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
+
+I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios y en el que se indique también la ubicación precisa y la cantidad de las vallas a instalar;
 
 II. Condición del predio: Baldío, estacionamiento público u otro, en cuyo caso el solicitante deberá especificarlo;
 
-III. Características de la instalación de la valla respecto del perímetro del inmueble, y en su caso, respecto de la barda o cerca del predio;
+III. (DEROGADA, G.O. 2 DE MARZO DE 2012)
 
 IV. Número de vallas a instalar en el predio y dimensiones de cada una de ellas;
 
-V. Tipo, material y dimensiones de la estructura de soporte de cada valla;
+V. (DEROGADA, G.O. 2 DE MARZO DE 2012)
 
-VI. Planos acotados y a escala:
+VI. (DEROGADA, G.O. 2 DE MARZO DE 2012)
 
-a). De plantas, alzados y cortes de la valla;
+> <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
-b). Estructurales;
-
-c). De instalación eléctrica, de iluminación, y en su caso, del sistema electrónico, y
-
-d). De diseño gráfico de la placa de identificación;
-
-VII. Fotografía o render:
-
-a). De la valla individualmente considerada, y
-
-b). Del predio correspondiente con la valla;
+VII. Perspectiva o render del inmueble con el proyecto de las vallas que se pretendan instalar;
 
 VIII. Dictamen favorable de la Dirección del Patrimonio Cultural Urbano, adscrita a la Secretaría, cuando el inmueble en el que se pretenda instalar el anuncio se encuentre en Área de Conservación Patrimonial o en un elemento del patrimonio cultural urbano;
 
@@ -1152,7 +1172,7 @@ XI. Escrito en el que conste la anuencia del propietario del estacionamiento pú
 
 XII. Los demás que disponga la Ley y el presente Reglamento.
 
-Los planos previstos en el presente artículo, incluirán materiales estructurales, acabados, color y texturas. A su vez, los pies de plano correspondientes contendrán croquis de ubicación del anuncio, escala gráfica, fecha, nombre del plano y su número, nombre y firma del solicitante.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, G.O. 2 DE MARZO DE 2012)</small>
 
 Los documentos previstos en el presente artículo deberán entregarse tanto en versión digital como impresa, y contener la firma del solicitante.
 
@@ -1170,15 +1190,19 @@ IV. Superficie de cada anuncio;
 
 V. Planos acotados y a escala:
 
-a). De plantas, alzados y cortes del mueble, en el que se indique la ubicación de cada anuncio;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
 
-b). De instalación eléctrica y de iluminación del anuncio, y
+a). De plantas y alzados en los que se indique la ubicación de cada anuncio;
 
-c). De diseño gráfico de la placa de identificación y de su ubicación en el mueble;
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
+
+b). De iluminación, en el que se indique la fuente de energía y la instalación eléctrica, y
+
+c). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
 VI. Perspectiva o render:
 
-a). Del anuncio individualmente considerado, y
+a). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
 b). Del mueble con los anuncios integrados, en el que se muestre el entorno donde se encuentra instalado;
 
@@ -1330,53 +1354,57 @@ Décimo primero. Quedan sin efecto los convenios que el titular de la Secretarí
 
 Décimo segundo. Se abroga el "Acuerdo por el cual se aprueba el reordenamiento de mil trescientos treinta y un anuncios en nodos y corredores publicitarios, siempre que sus propietarios hayan observado los ordenamientos aplicables al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal", publicado el 13 de mayo de 2011 en la Gaceta Oficial del Distrito Federal.
 
-Décimo tercero. La Secretaría, a través de la Autoridad del Espacio Público del Distrito Federal conjuntamente con la Dirección General de Asuntos Jurídicos, conducirá la reubicación de anuncios en nodos y corredores publicitarios, a la que hace referencia el artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal, de conformidad con las siguientes reglas:
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
 
-I. Sólo tendrán derecho a reubicar anuncios en los nodos y corredores publicitarios, las personas físicas y morales que hayan estado incorporadas al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal instrumentado el 6 de diciembre de 2004, incluidas aquellas que hayan concluido sus trámites de incorporación en el mes de mayo del año 2011 de conformidad con las disposiciones del acuerdo del Consejo de Publicidad Exterior publicado el 13 de mayo de 2011 en la Gaceta Oficial del Distrito Federal, siempre que hayan cumplido con los requisitos que en su momento establecieron los ordenamientos jurídicos del Programa señalado;
+Décimo tercero. La Secretaría, a través de la Autoridad del Espacio Público del Distrito Federal, conducirá la reubicación de anuncios en nodos y corredores publicitarios, a la que hace referencia el artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal, de conformidad con las siguientes reglas:
 
-II. Las personas físicas y morales propietarias de anuncios autosoportados, en azoteas y adosados a fachadas de inmuebles ubicados en la Ciudad de México, incluidas las lonas, mallas, mantas u otros materiales flexibles, que se ubiquen en el supuesto normativo de la fracción inmediata anterior, deberán retirar sus anuncios en los plazos que determine la Secretaría a propuesta del Consejo de Publicidad Exterior;
+I. Serán objeto de reubicación en los nodos y corredores publicitarios, los anuncios autosoportados, en azoteas y adosados a fachadas de inmuebles ubicados en la Ciudad de México, que hayan sido materia de un convenio celebrado con el titular de la Secretaría de Desarrollo Urbano y Vivienda con anterioridad a la publicación del presente Reglamento, incluidos aquellos que se hayan incorporado al proceso de reubicación en el mes de mayo del año 2011 de conformidad con las disposiciones del acuerdo del Consejo de Publicidad Exterior publicado el 13 de mayo de 2011 en la Gaceta Oficial del Distrito Federal;
 
-III. Las personas que retiren sus anuncios en los términos de la fracción anterior, deberán hacerlo del conocimiento del coordinador de la Comisión de Inventario del Consejo de Publicidad Exterior para efecto de que haga constar por escrito la fecha y hora, número, tipo y domicilio de los anuncios retirados, así como para que registre dos fotografías del inmueble: Una que muestre al inmueble antes de retirar el anuncio y otra que lo muestre después de haberse retirado;
+II. En un plazo de quince días hábiles contados a partir de la fecha de publicación del presente Decreto, la Autoridad del Espacio Público del Distrito Federal publicará en la Gaceta Oficial del Distrito Federal un aviso que contendrá los requisitos que deban reunir las propuestas de reubicación de anuncios a los que se refiere la fracción anterior;
 
-IV. Las personas que al término de los plazos previstos en la fracción II del presente artículo, no hayan retirado sus anuncios, perderán su derecho a ser reubicados en los nodos y corredores publicitarios y serán sancionados de conformidad con las disposiciones de la Ley de Publicidad Exterior del Distrito Federal;
+III. La presentación de propuestas de reubicación de anuncios ante la Autoridad del Espacio Público del Distrito Federal, se llevará a cabo en un plazo de quince días hábiles contados a partir de la fecha de publicación del aviso;
 
-V. El procedimiento de reubicación deberá llevarse a cabo en sesiones de las Comisiones Unidas de Inventario, de Retiro, de Nodos y Mejoramiento del Paisaje y de Reubicación, del Consejo de Publicidad Exterior, las cuales se denominarán "sesiones de reubicación de anuncios" y serán consideradas mesas de trabajo para los efectos del artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal;
+IV. Las propuestas de reubicación de anuncios que se presenten, serán analizadas por la Autoridad del Espacio Público del Distrito Federal, la cual podrá formular las observaciones y prevenciones que estime pertinentes, y de ser el caso, aprobará las propuestas y asignará los espacios para reubicación;
 
-VI. Las "sesiones de reubicación de anuncios" tendrán por objeto reubicar anuncios en un nodo o corredor publicitario determinado, hasta la completa asignación de espacios en ese nodo o corredor específico;
+V. Cuando las propuestas de reubicación de anuncios se relacionen con la constitución de nodos publicitarios, la Autoridad del Espacio Público del Distrito Federal gestionará ante las autoridades competentes la asignación de los bienes del dominio público del Distrito Federal y la contraprestación de los Permisos Administrativos Temporales Revocables correspondientes, previamente a la aprobación de las propuestas de reubicación;
 
-VII. La Secretaría convocará a las "sesiones de reubicación de anuncios" a las personas físicas y morales que hayan estado incorporadas al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal instrumentado por la Secretaría de Desarrollo Urbano y Vivienda el 6 de diciembre de 2004, y cuyos anuncios se hayan registrado en domicilios ubicados en el polígono que, en relación al nodo o corredor publicitario de que se trate, determine la Secretaría a propuesta del Consejo de Publicidad Exterior;
+VI. Una vez aprobada la propuesta de reubicación, la Secretaría de Desarrollo Urbano y Vivienda otorgará las licencias, y en su caso, los Permisos Administrativos Temporales Revocables correspondientes;
 
-VIII. Por cada nodo o corredor publicitario determinado, la Secretaría revisará el expediente de cada uno de los anuncios relacionados en los inventarios entregados en su momento a la Secretaría de conformidad con los ordenamientos jurídicos del Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal instrumentado el 6 de diciembre de 2004, para efecto de que el propietario respectivo demuestre haber cumplido con los requisitos que en su momento establecieron los ordenamientos jurídicos del Programa señalado;
+VII. El plazo de retiro voluntario de anuncios para su correspondiente reubicación, será de treinta días naturales contados a partir de la fecha de expedición de la licencia o Permiso Administrativo Temporal Revocable correspondiente;
 
-IX. Las personas con derecho a reubicar anuncios en un nodo o corredor publicitario determinado, tendrán un plazo improrrogable de diez días hábiles para acordar entre ellas la ubicación de sus anuncios en el nodo o corredor de que se trate;
+VIII. Cuando transcurra el plazo de quince días hábiles sin que se haya presentado alguna propuesta de reubicación de anuncios, o cuando el interesado no haya dado seguimiento a su propuesta de reubicación, la Autoridad del Espacio Público del Distrito Federal asignará directamente los espacios correspondientes en el nodo o corredor publicitario que estime pertinente, mediante acuerdo que deberá publicar en la Gaceta Oficial del Distrito Federal;
 
-X. A falta del acuerdo señalado en la fracción anterior, las personas con derecho a reubicar anuncios en un nodo o corredor publicitario determinado, tendrán derecho a participar en un sorteo para la reubicación de sus anuncios en el nodo o corredor de que se trate, de conformidad con el método que se determine en la "sesión de reubicación de anuncios" correspondiente, ratificado por el pleno del Consejo de Publicidad Exterior;
+IX. Las solicitudes relacionadas con la reubicación de anuncios formuladas por sus propietarios, serán atendidas por la Autoridad del Espacio Público del Distrito Federal, en mesas de trabajo a las que se refiere el artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal, las cuales podrán ser individuales o colectivas, y de las cuales se levantará una minuta firmada por el titular de la Autoridad del Espacio Público del Distrito Federal y por las personas beneficiadas con la reubicación;
 
-XI. En la determinación del método de reubicación de anuncios, se deberá considerar el derecho preferente de las personas que hayan retirado un anuncio de su propiedad dentro de los plazos a los que se refiere la fracción II del presente artículo, de conformidad con el principio general "primero en tiempo, primero en derecho" y conforme a la antigüedad de la fecha en que hayan efectuado el retiro;
+X. Cuando con motivo de la reubicación de anuncios resultase algún conflicto de intereses entre las personas con derecho a ella, éstas tendrán un plazo improrrogable de diez días hábiles contados a partir de la notificación que por escrito les haga la Autoridad del Espacio Público del Distrito Federal, para acordar entre ellas la ubicación de sus anuncios en el nodo o corredor de que se trate;
 
-XII. Una vez ocupados los espacios para anuncios en un nodo o corredor publicitario determinado, las personas que por capacidad del nodo o corredor no hayan alcanzado un espacio, podrán ejercerlo en el siguiente nodo o corredor publicitario en el orden de antigüedad del retiro de anuncios que le corresponda;
+XI. A falta de acuerdo señalado en la fracción anterior, la Autoridad del Espacio Público del Distrito Federal aplicará sucesivamente los siguientes criterios:
 
-XIII. La Secretaría hará valer el derecho preferente al que se refiere la fracción XI del presente artículo, con base en la fecha del retiro que haya registrado el coordinador de la Comisión de Inventario del Consejo de Publicidad Exterior;
+1. Tendrán preferencia de reubicación aquellos anuncios contenidos en la propuesta que primero se haya presentado y que hayan sido retirados de la superficie a reubicar o de las áreas aledañas inmediatas dentro de los plazos ofrecidos para su retiro voluntario, o en su caso, determinados por la autoridad, y
 
-XIV. Si por falta de registro no fuere posible determinar al titular del derecho de preferencia, la Secretaría someterá a sorteo la ubicación de los anuncios correspondientes;
+2. De persistir el conflicto entre las partes, se someterán a sorteo los espacios de reubicación.
 
-XV. El sorteo, o en su caso, la asignación de espacios para anuncios en un nodo o corredor publicitario, se llevará a cabo en una sesión del Consejo de Publicidad Exterior que tendrá el carácter de "sesión de reubicación de anuncios", y a la cual podrán asistir las personas con derecho a reubicar anuncios en el nodo o corredor publicitario de que se trate;
+XII. Los anuncios que no hayan sido reubicados o retirados voluntariamente por sus propietarios en el plazo previsto por el presente artículo, no obstante que la Autoridad del Espacio Público del Distrito Federal les haya asignado un espacio de reubicación, serán retirados por el Instituto de Verificación Administrativa del Distrito Federal de conformidad con las disposiciones aplicables, y
 
-XVI. Por cada "sesión de reubicación de anuncios" deberá levantarse una minuta que será firmada por los titulares de la Autoridad del Espacio Público del Distrito Federal y de la Dirección General de Asuntos Jurídicos de la Secretaría; por los integrantes del Consejo de Publicidad Exterior que asistan a las sesiones respectivas, y por las personas físicas o morales, beneficiadas con la reubicación, que soliciten firmarla, y
+XIII. La Secretaría coordinará con el Instituto de Verificación Administrativa del Distrito Federal el retiro de anuncios en la ciudad, por el tiempo que dure la reubicación de anuncios.
 
-XVII. La reubicación de anuncios que se haga constar en un acta de sesión del Consejo de Publicidad Exterior, quedará firme aunque las personas beneficiadas no asistan a la sesión respectiva siempre que hayan sido previamente convocadas por el Consejo señalado.
+Décimo cuarto. (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
-Décimo cuarto. La Secretaría realizará las gestiones a las que se refieren los artículos 75 y 76 del presente Reglamento, con anterioridad a la asignación de espacios para anuncios en un nodo o corredor publicitario determinado.
-
-Décimo quinto. Los Permisos Administrativos Temporales Revocables relacionados con los nodos publicitarios que sean materia de las "sesiones de reubicación de anuncios", serán otorgados por la Secretaría bajo las condiciones y en los plazos previstos en los artículos 77, 78 y 79 del presente Reglamento, en lo que resulten aplicables.
+Décimo quinto. (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
 Décimo sexto. Las pantallas electrónicas y demás formas de publicidad exterior que cuenten con Permisos Administrativos Temporales Revocables expedidos en su momento por la Oficialía Mayor, quedarán sujetas a las disposiciones de la Ley y del presente Reglamento al concluir la vigencia de los Permisos correspondientes.
 
-Décimo séptimo. El otorgamiento de licencias y autorizaciones temporales que la Secretaría realice como resultado del procedimiento de reubicación de anuncios, se sujetará a las disposiciones de la Ley de Publicidad Exterior del Distrito Federal y del presente Reglamento.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
+
+Décimo séptimo. El otorgamiento de licencias que la Secretaría realice como resultado del procedimiento de reubicación de anuncios, se sujetará a las disposiciones de la Ley de Publicidad Exterior del Distrito Federal y del presente Reglamento, en lo que resulten aplicables.
 
 Décimo octavo. Al término de la reubicación de anuncios en nodos y corredores publicitarios en la totalidad del territorio de la Ciudad de México, a la que hace referencia el artículo Transitorio Cuarto de la Ley de Publicidad Exterior del Distrito Federal, la Secretaría publicará en la Gaceta Oficial del Distrito Federal un acuerdo que contenga la declaratoria de conclusión definitiva del procedimiento de reubicación iniciado el 6 de diciembre de 2004, el nombre de las personas físicas o morales cuyos anuncios hayan sido reubicados y el número de Permiso Administrativo Temporal Revocable o licencia otorgados en su favor.
 
-Décimo noveno. Las solicitudes de Permisos Administrativos Temporales Revocables o licencias para la instalación de anuncios de propaganda comercial en nodos o corredores publicitarios, presentadas por personas distintas de las incorporadas al Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal, serán desestimadas de plano en tanto no sea publicado en la Gaceta Oficial del Distrito Federal el acuerdo de la Secretaría al que hace referencia el artículo anterior.
+> <small>(REFORMADO, G.O. 2 DE MARZO DE 2012)</small>
+
+Décimo noveno. Las solicitudes de Permisos Administrativos Temporales Revocables o licencias para la instalación de anuncios que no sean objeto de reubicación, serán desestimadas de plano en tanto no sea publicado en la Gaceta Oficial del Distrito Federal el acuerdo de la Secretaría al que hace referencia el artículo anterior.
+
+Quedan exceptuadas de la restricción anterior, las solicitudes relacionadas con proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal.
 
 Vigésimo. Para el otorgamiento de las licencias de los anuncios denominativos instalados en el Distrito Federal, se observarán las siguientes reglas:
 
@@ -1389,3 +1417,11 @@ III. Una vez publicado el acuerdo señalado en la fracción anterior, la Secreta
 IV. En tanto no se observen las formalidades previstas en el presente artículo, los anuncios denominativos instalados en el territorio del Distrito Federal, podrán permanecer en esa condición, salvo que los anuncios representen un riesgo a la integridad física o patrimonial de las personas, en cuyo caso las autoridades del Distrito Federal podrán proceder a su retiro.
 
 Dado en la Ciudad de México, a los diez días del mes de agosto del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 2 DE MARZO DE 2012.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Las propuestas de reubicación de anuncios presentadas con anterioridad a la publicación del presente Decreto, serán admitidas a trámite por la Autoridad del Espacio Público del Distrito Federal, siempre que los anuncios sean objeto de reubicación de conformidad con las disposiciones del presente Decreto.
