@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-archivo-historico-municipal-del-municipio-de-277
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-14"
-last_updated: "2003-01-14"
+last_updated: "2012-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DEL ARCHIVO HISTORICO MUNICIPAL DEL MUNICIPIO DE SAN FRANCISCO DEL RINCON
 
-REGLAMENTO DEL ARCHIVO HISTORICO MUNICIPAL DEL MUNICIPIO DE SAN FRANCISCO DEL RINCON
+REGLAMENTO DEL ARCHIVO HISTÓRICO MUNICIPAL DEL MUNICIPIO DE SAN FRANCISCO DEL RINCÓN DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DEL ARCHIVO GENERAL DEL MUNICIPIO DE SAN FRANCISCO DEL RINCÓN, GUANAJUATO, PUBLICADO EN EL P.O. 2 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 14 de enero de 2003.
 
@@ -300,3 +302,11 @@ Presidente Municipal
 Lic. Ma. Elena Quiroz López
 
 Secretario del H. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MARZO DE 2012.
+
+Artículo Primero. El presente reglamento deroga el publicado en el número 8 del Periódico Oficial del Gobierno del Estado de Guanajuato, de fecha 14 de enero de 2003.
+
+Artículo Segundo. El presente reglamento entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
