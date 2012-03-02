@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-06-19"
+last_updated: "2012-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE JUNIO DE 2009.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -1001,15 +999,23 @@ El derecho a la jubilación y a la pensión por vejez o muerte, nace cuando el t
 
 Los trabajadores que teniendo derecho a una jubilación o a una pensión por vejez, llegasen a fallecer, sus beneficiarios tendrán derecho a recibir la pensión por muerte, mediante los requisitos y procedimientos que señala esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 127.
 
-Todo trabajador que cumpla con los requisitos para obtener su jubilación o pensión por vejez, podrá solicitar la prejubilación o prepensión al titular de recursos humanos u órgano administrativo correspondiente.
+Todo trabajador que cumpla con los requisitos para obtener su jubilación o pensión por vejez, así como los beneficiarios que cumplan con los requisitos para obtener la pensión por muerte, de acuerdo al orden establecido en el artículo 144, podrán solicitar la prejubilación o prepensión al titular de recursos humanos u órgano administrativo correspondiente.
 
 ###### Artículo 128.
 
 La prejubilación o prepensión se entenderá como la separación de las labores del trabajador que cumple con los requisitos para jubilarse o pensionarse, en el que se pagará el ciento por ciento del sueldo y quinquenio mensuales en el caso de jubilación o en su caso el porcentaje que corresponda tratándose de pensión.
 
-El pago al que se refiere el párrafo anterior se realizará a partir del momento en que sea otorgada la prejubilación y hasta el momento en que surta efectos la publicación del decreto de jubilación o pensión por vejez en el Periódico Oficial del Gobierno del Estado.
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+La prepensión por muerte, se entenderá como el derecho de los beneficiarios a la continuidad inmediata después del fallecimiento del trabajador jubilado o pensionado, del pago de las percepciones que le eran cubiertas o en su caso, de los que no teniendo dicha calidad, hayan cumplido con los requisitos que la ley establece para obtener su derecho de jubilación o pensión por vejez.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Los pagos a que se refieren los párrafos anteriores, se realizarán a partir del momento en que sea otorgada la prejubilación o prepensión por vejez o muerte y hasta el momento en que surta efectos la publicación del decreto de jubilación, pensión por vejez o pensión por muerte en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 ###### Artículo 129.
 
@@ -1033,7 +1039,9 @@ Cuando un trabajador a quien se haya otorgado una jubilación o pensión siga en
 
 Si algún trabajador hubiere acumulado los años requeridos para obtener su jubilación o pensión tendrá derecho a que se le otorgue, correspondiendo la obligación de pago a la última entidad en la que prestó sus servicios.
 
-Los años acumulados en dos o más dependencias durante los mismos años se computarán para efectos de la jubilación o pensión en una sola dependencia.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Sin excepción, para efectos de jubilación o pensión, el tiempo trabajado en dos o más dependencias, durante un mismo periodo, no será acumulable, por lo tanto, se computará como una sola antigüedad. En el caso del tiempo laborado en periodos diferentes, en dos o más dependencias, se computarán para los mismos efectos, en la última dependencia.
 
 Los trabajadores no están obligados a tramitar su pensión o jubilación, aún habiendo cumplido con los requisitos establecidos en la presente Ley, por lo que podrán seguir prestando sus servicios hasta en tanto decidan realizar el trámite en forma voluntaria.
 
@@ -1151,6 +1159,10 @@ V. Si el trabajador tenía de 20 años 1 día a 25 años laborados, 90% del sala
 
 VI. Si el trabajador tenía de 25 años 1 día y hasta antes de cumplir 30 años laborados, 95% del salario.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+En el supuesto establecido en el presente artículo, los beneficiarios, de acuerdo al orden establecido, podrán gozar del derecho a la prepensión por muerte en términos del párrafo segundo del artículo 128 y demás disposiciones de la presente Ley.
+
 ### Capítulo Quinto. Del trámite de la jubilación y pensiones
 
 ###### Artículo 147.
@@ -1233,15 +1245,33 @@ i) Para el caso de los beneficiarios de trabajadores de los Municipios, copia ce
 
 El titular de recursos humanos u órgano administrativo deberá verificar que el trabajador o beneficiarios reúnan los requisitos para solicitar el otorgamiento de la jubilación, pensión por vejez o pensión por muerte.
 
-En el caso de la jubilación y pensión por vejez, emitirá en un plazo no mayor a quince días hábiles siguientes a la solicitud del trabajador, el oficio mediante el cual se informa al jefe inmediato y al trabajador, el resultado de la solicitud de prejubilación o prepensión por vejez, lo anterior previa revisión de los documentos que integran el expediente referidos en la presente Ley.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
-Una vez otorgada la prejubilación o prepensión por vejez e integrado debidamente el expediente, el titular de recursos humanos u órgano administrativo, lo remitirá dentro de los diez días hábiles siguientes a la Legislatura del Estado para que resuelva de conformidad con lo señalado en la presente Ley.
+En el caso de la jubilación o pensión por vejez o pensión por muerte, emitirá, en un plazo no mayor a quince días hábiles siguientes a la solicitud del trabajador o beneficiarios de la pensión por muerte, el oficio mediante el cual se informa al jefe inmediato, al trabajador o beneficiario, el resultado de la solicitud de prejubilación o prepensión por vejez o prepensión por muerte, según corresponda, lo anterior previa revisión de los documentos que integran el expediente referido en la presente Ley.
 
-En el supuesto de la negativa del otorgamiento de la prejubilación, los funcionarios referidos en el párrafo anterior, según el caso, emitirán acuerdo en el que funden y motiven la causa de la misma, el cual deberá ser notificado en un plazo no mayor de diez días hábiles al trabajador.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Una vez otorgada la prejubilación o prepensión por vejez o prepensión por muerte e integrado debidamente el expediente, el titular de recursos humanos u órgano administrativo, lo remitirá, dentro de los diez días hábiles siguientes, a la Legislatura del Estado para que resuelva de conformidad con lo señalado en la presente Ley.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+En el supuesto de la negativa del otorgamiento de la prejubilación o de la prepension, los funcionarios referidos en el párrafo anterior, según el caso, emitirán acuerdo en el que funden y motiven la causa de la misma, el cual deberá ser notificado, en un plazo no mayor de diez días hábiles, al trabajador o beneficiario de la pensión por muerte.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Si el titular de recursos humanos o el órgano administrativo correspondiente no hubiera remitido a la Legislatura el expediente dentro del plazo a que se refiere este artículo, el trabajador que haya iniciado el trámite de jubilación o de pensión por vejez o el beneficiario de la pensión por muerte, podrá presentar escrito mediante el cual la ponga en conocimiento del hecho, para que, en su caso, a través de la Comisión que corresponda, requiera un informe o señale el plazo dentro del cual la autoridad estatal deberá remitirle el expediente. Cuando la omisión sea atribuible a autoridades municipales, la Comisión podrá solicitar un informe respecto del asunto y derivado del mismo, puede solicitar que el expediente le sea remitido, siempre y cuando ya hubiese sido integrado.
 
 ###### Artículo 149.
 
 El titular de recursos humanos u órgano administrativo, podrán citar al trabajador o beneficiarios para aclaraciones o bien solicitar toda la información que se requiera.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+###### Artículo 149 Bis.
+
+Cuando de la revisión del expediente a que se refiere este Capítulo, se desprenda la falta de información o de documentos para dar trámite a las jubilaciones y pensiones, previo a la emisión del Dictamen correspondiente, la Legislatura del Estado, a través de la Comisión que corresponda, podrá requerir su entrega a la autoridad estatal omisa.
+
+Los titulares de recursos humanos o de los órganos administrativos estatales que incumplan lo dispuesto por este Capítulo, podrán ser sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
 ###### Artículo 150.
 
@@ -1658,3 +1688,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MARZO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
