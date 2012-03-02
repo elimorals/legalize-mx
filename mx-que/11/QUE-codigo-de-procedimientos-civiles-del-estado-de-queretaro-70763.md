@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2011-11-25"
+last_updated: "2012-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -669,7 +669,7 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 ### Capítulo Quinto. De las notificaciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -693,7 +693,7 @@ VII. Por medio del servicio de expediente electrónico del sitio de internet del
 
 VIII. Por telégrafo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -703,7 +703,7 @@ Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los cin
 
 Para los efectos anteriores, cada actuario llevará un registro diario de los asuntos que se le entreguen, debiendo recibirlos bajo su firma y devolverlos con la constancia del acta respectiva, dentro del plazo señalado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -711,7 +711,7 @@ Para los efectos anteriores, cada actuario llevará un registro diario de los as
 
 A solicitud de parte legítima, podrán practicarse notificaciones, recepción de pruebas u otras diligencias similares, necesarias en procesos, extranjeros en los términos del artículo 938.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -729,7 +729,7 @@ De no señalar el domicilio de la persona o personas señaladas en el párrafo a
 
 Sólo serán válidas las notificaciones realizadas a través del sistema de expediente electrónico o por correo electrónico que hayan sido ordenadas con posterioridad a la fecha en que sea otorgada dicha autorización por escrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -739,7 +739,7 @@ Las partes podrán autorizar, en cualquier momento del proceso, que se les reali
 
 Queda excluida de esta forma de notificación el emplazamiento a juicio y las notificaciones que el juez considere conveniente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -751,7 +751,7 @@ Dicha constancia será agregada a los autos y a partir de su emisión surtirá e
 
 La hora de envío y de recepción de la notificación será sincronizada con el Centro Nacional de Metrología.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -779,7 +779,7 @@ f) En los demás casos en que la ley lo disponga.
 
 Se tendrá por efectuada la notificación por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, a la parte que vía consulta electrónica acceda al expediente y conozca el contenido del auto, acuerdo o resolución judicial que ordene su notificación personal o vía correo electrónico, en los términos del Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -787,7 +787,7 @@ Se tendrá por efectuada la notificación por medio del servicio de expediente e
 
 Cuando variare el personal de un juzgado o tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacer saber a las partes mediante proveído que surtirá efectos por lista.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -795,7 +795,7 @@ Cuando variare el personal de un juzgado o tribunal, no se proveerá decreto hac
 
 No será necesario que el juez o tribunal entregue al actuario el expediente respectivo, sino únicamente la cédula de notificación y los documentos justificativos, debidamente sellados, cotejados y foliados, mismos que deberá entregar al notificado o citado, cuando la ley así lo indique.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -819,7 +819,7 @@ IV. Se tendrá como legalmente practicada la notificación, conforme a lo señal
 
 En caso de que la parte interesada consulte un acuerdo, del que el juez o tribunal haya ordenado su notificación personal o por correo electrónico, por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado, el secretario de acuerdos levantará constancia con la impresión de los datos electrónicos que indiquen el día y hora que la parte interesada accesó al expediente electrónico y conoció el auto, acuerdo o resolución, indicando la procedencia de la notificación por consulta en línea, en términos del Reglamento del Sistema Expediente Electrónico del Poder Judicial del Estado de Querétaro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -851,7 +851,7 @@ Si el buscado o su representante legal no esperaren el día y hora fijado, se re
 
 Si el día y hora fijado no se encuentra persona alguna en el domicilio o éste se encontrare cerrado, la notificación se realizará por medio de cédula que se fijará en lugar visible en la puerta principal del domicilio, haciéndolo constar así el actuario, surtiendo todos sus efectos legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -859,7 +859,7 @@ Si el día y hora fijado no se encuentra persona alguna en el domicilio o éste 
 
 La segunda y ulteriores notificaciones surtirán efectos en lista para los interesados, al día siguiente de su publicación, excepto en los casos en que el interesado consulte el expediente por medio del servicio de expediente electrónico del sitio de internet del Poder Judicial del Estado o que sea notificado por medio de correo electrónico, en los cuales surtirá efectos a partir de la fecha en que haga la consulta del expediente electrónico o de la fecha en que se envíe el correo electrónico, según sea el caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -867,7 +867,7 @@ La segunda y ulteriores notificaciones surtirán efectos en lista para los inter
 
 Cuando se trate de citar a peritos, testigos o terceros que no sean parte en el juicio, se podrá hacer por notificación personal o por oficio que la parte interesada deberá recoger en el juzgado o tribunal y entregar al citado, recabando su firma en la copia del citatorio, la cual será devuelta para agregarse a los autos, apercibido el interesado de que deberá regresar el citatorio, dentro de los tres días siguientes en el que haya recibido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -885,7 +885,7 @@ En los casos de las fracciones I y II, los edictos se publicarán por tres veces
 
 No se ordenará el emplazamiento por edictos, si previamente no se comprueba, mediante los informes que vía oficio se soliciten y rindan el Instituto Federal Electoral, la Secretaría de Seguridad Ciudadana, la Procuraduría General de Justicia, la Secretaría de Seguridad Pública Municipal y la Secretaría del Ayuntamiento del Municipio, en el sentido de que a la persona buscada no se le ubicó ningún domicilio o si una vez agotada la búsqueda en el o los domicilios proporcionados por estas dependencias, no se localizó en éstos a la persona buscada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -899,7 +899,7 @@ Sólo por errores u omisiones sustanciales que hagan no identificable el juicio,
 
 La inobservancia al contenido de este artículo, motivará la imposición de las sanciones que al efecto establezcan las disposiciones legales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO. (REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
 ###### Artículo 124.
 
@@ -907,7 +907,7 @@ Los actuarios deberán realizar las diligencias con estricto apego a los términ
 
 Independientemente de las sanciones antes señaladas, cuando los actuarios cometan errores u omisiones en las actas que levanten, que produzcan la nulidad de la actuación, deberán pagar los daños y perjuicios que en su caso genere su indebida actuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -915,7 +915,7 @@ Independientemente de las sanciones antes señaladas, cuando los actuarios comet
 
 Cualquier notificación podrá realizarse en las oficinas del juzgado ante el secretario de acuerdos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -1123,7 +1123,7 @@ XII. En los juicios de divorcio, el Tribunal del domicilio conyugal y en caso de
 
 XIII. Tratándose de juicio de alimentos, el del acreedor o deudor alimentario, a elección del primero;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESETE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1131,7 +1131,7 @@ XIV. En la adopción, el de la residencia del adoptado; sobre la anulación de l
 
 XV. En los casos de restitución de menores, el de la residencia del menor hasta antes de su traslado o su retención ilícita; en casos de urgencia, el del lugar donde aquél se encontrare;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESETE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1367,7 +1367,7 @@ X. Pidiendo la exhibición o compulsa de un protocolo o de cualquier documento q
 
 XI. Pidiendo el examen de testigos u otras declaraciones que se refieran a un proceso extranjero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESETE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1523,13 +1523,13 @@ d) Restringir al cónyuge agresor para que no se acerque o realice cualquier act
 
 e) Informar a la autoridad competente sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas, en caso de que lo soliciten.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 f) Suspensión temporal del régimen de visitas y convivencias, entre el presunto agresor de violencia familiar con sus descendientes, hasta en tanto el juez competente cuente con los elementos suficientes para determinar que estas convivencias son benéficas en el desarrollo integral del infante y no vulneran el interés superior del menor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2025,7 +2025,7 @@ En las resoluciones a que se refieren los artículos 266 y 269, si debiera segui
 
 Contra la determinación que manda a abrir el juicio a prueba, no hay más recurso que el de responsabilidad, la que lo niegue será apelable en ambos efectos, si fuere apelable la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -2681,7 +2681,7 @@ III. Cuando injustificadamente el oferente de la prueba no entregue los citatori
 
 A los ancianos de más de sesenta años y a los enfermos, podrá el juez, según las circunstancias, recibirles la declaración en sus domicilios, en presencia de la otra parte si asistiere.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2997,7 +2997,7 @@ En caso de que se tenga por no interpuesto el recurso, de desistimiento o caduci
 
 La declaración de que una sentencia ha causado ejecutoria no admite más recurso que el de responsabilidad.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ## Título Séptimo. De los Juicios sumarios y de la vía de apremio
 
@@ -3075,9 +3075,9 @@ En los casos de las fracciones IV, VI y XIII del artículo 445, no se requieren 
 
 Atendiendo a la naturaleza de las acciones interdictales el juez podrá prudentemente decretar las medidas provisionales convenientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 452.
 
@@ -3097,7 +3097,7 @@ El juez, valorando la información con la que se cuente en autos, podrá determi
 
 Si la parte demandada no formula su contestación, se tendrá por contestada en sentido negativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -3193,9 +3193,23 @@ VI. Los convenios celebrados en el curso de un juicio ante el juez, ya sea de la
 
 VII. Las pólizas originales de contratos celebrados con intervención de corredor público;
 
-VIII. El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetados (sic) a él expresamente o lo hubieren aprobado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Las sentencias que causen ejecutoria y los acuerdos conciliatorios derivados de procedimientos previstos en la Ley para la impartición de justicia para adolescentes del Estado de Querétaro.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+VIII. El juicio uniforme de contadores, si las partes ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetados (sic) a él expresamente o lo hubieren aprobado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IX. Las sentencias que causen ejecutoria y los acuerdos conciliatorios derivados de procedimientos previstos en la Ley para la impartición de justicia para adolescentes del Estado de Querétaro; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+X. Los convenios de conciliación celebrados ante el Ministerio Público.
 
 ###### Artículo 467.
 
@@ -4913,7 +4927,7 @@ Si no se exhiben las copias para el traslado, se requerirá al apelante para que
 
 Si transcurrido el plazo señalado en el párrafo anterior no se hubieren exhibido las copias, el juez, de oficio, hará efectivo el apercibimiento. Contra esta resolución no procede recurso alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
 
@@ -5705,7 +5719,7 @@ Una vez dictada sentencia definitiva que no ha causado ejecutoria, aparecieren b
 
 En el caso de que dicha sentencia haya causado ejecutoria se iniciará un nuevo juicio sucesorio únicamente respecto de los bienes que se dice fueron omitidos.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 871.
 
@@ -5763,7 +5777,7 @@ El juez abrirá la correspondencia que venga dirigida al difunto, en presencia d
 
 Todas las disposiciones relativas al interventor regirán respecto del albacea judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 882.
 
@@ -6165,7 +6179,7 @@ III. Tenga relación con los derechos o bienes de un ausente; y
 
 IV. Lo dispusieren las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 941.
 
@@ -6369,7 +6383,7 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### Capítulo Cuarto. Adopción
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -6379,7 +6393,7 @@ El que pretenda adoptar a alguna persona deberá acreditar que cumple con los re
 
 En la promoción inicial deberá manifestar el nombre, edad y si lo hubiere, el domicilio del menor o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela o de la persona o institución de asistencia social o privada que lo haya acogido y el nombre, nacionalidad, edad, estado civil y domicilio del o los adoptantes. En caso de querer variar el nombre del adoptado, se expresará el nuevo nombre que se pretende asignar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -6389,19 +6403,19 @@ Rendidas las pruebas que justifiquen los requisitos que se exigen en el artícul
 
 El juez no dictará su resolución sino hasta que los adoptantes hubieren comparecido personalmente, a efecto de imponerlos de los deberes que genera la adopción y ratifiquen su intención de adoptar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 972.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 973.
 
 (DEROGADO, P.O. 31 DE MARZO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 974.
 
@@ -6519,7 +6533,7 @@ En ambos casos, no son necesarias formalidades de ninguna clase, asentándose so
 
 En el primer caso las diligencias se levantarán a petición de cualquier persona o institución que tenga conocimientos de los hechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -6531,7 +6545,7 @@ El Juez ordenará la comparecencia del titular de la Procuraduría de la Defensa
 
 En comparecencia, el juez instruirá a quienes deseen entregar al menor en adopción sobre sus efectos. Ratificada que sea ante el juez la voluntad para entregar al menor en adopción, se hará constar que el consentimiento es otorgado libremente, sin remuneración, presión o coacción alguna y se declarará de oficio la terminación de la patria potestad, quedando la tutela del menor a cargo de la Procuraduría de la Defensa del Menor y la Familia del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 Título Especial
 
@@ -6617,7 +6631,7 @@ Recibidas las pruebas, el juez fallará desde luego, en forma clara y sencilla.
 
 Los jueces menores sentenciarán en conciencia, a verdad sabida y buena fe guardada, sin necesidad de que se sujeten para ello a las reglas sobre la estimación de las pruebas que establece este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 1005.
 
@@ -6773,7 +6787,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
@@ -6808,3 +6822,9 @@ P.O. 25 DE NOVIEMBRE DE 2011.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
+
+P.O. 2 DE MARZO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
