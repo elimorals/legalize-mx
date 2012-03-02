@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-electoral-del-estado-de-52284"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-27"
-last_updated: "2009-11-06"
+last_updated: "2012-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de octubre de 2006.
 
@@ -133,9 +133,13 @@ XI. Unidad de Contabilidad;
 
 XII. Unidad de Informática;
 
-XIII. Instituto de Investigación y Capacitación Electoral; y
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
 
-XIV. Personal Administrativo y Auxiliar.
+XIII. Unidad de Contraloría;
+
+XIV. Instituto de Investigación y Capacitación Electoral; y
+
+XV. Personal Administrativo y Auxiliar.
 
 En concordancia con lo dispuesto en el artículo 335, párrafo segundo, del Código Electoral, culminado el proceso electoral para el Tribunal, el Pleno determinará sobre el personal administrativo que seguirá laborando en forma permanente en auxilio de las actividades de las dos Salas que tienen igual carácter.
 
@@ -163,7 +167,9 @@ VI. Ordenar la investigación y resolver sobre las irregularidades administrativ
 
 VII. Imponer las sanciones administrativas al personal del Tribunal;
 
-VIII. Designar por turno al Magistrado ponente para la substanciación del recurso de apelación;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+VIII. Designar por turno al Magistrado Ponente en los procedimientos administrativos o especiales de sanción;
 
 IX. Determinar los objetivos en materia de capacitación, investigación y/o difusión en materia de derecho electoral o en otras ramas de la ciencia jurídica, así como las modalidades de su ejecución, en función de la disponibilidad presupuestaria;
 
@@ -183,7 +189,9 @@ XVI. Conferir a los Magistrados Propietarios las comisiones que se estimen perti
 
 XVII. Aprobar la celebración de convenios de colaboración con otras autoridades, instituciones o tribunales, en función de los cuales se pacte la participación en el desempeño de tareas de apoyo jurídico que coadyuven a fortalecer la experiencia y profesionalismo del personal, contribuyendo asimismo al cumplimiento de los objetivos institucionales de los otorgantes;
 
-XVIII. Resolver sobre la admisión o desechamiento de los recursos de apelación y de los procedimientos especiales de sanción;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XVIII. Emitir las resoluciones o acuerdos que pongan fin a la instancia en los asuntos de su competencia;
 
 XIX. Aprobar los manuales e instructivos que sean necesarios para el correcto funcionamiento del Tribunal; y
 
@@ -237,7 +245,9 @@ II. Conservar el orden durante las sesiones públicas, pudiendo emplear los medi
 
 III. Convocar a los Magistrados Supernumerarios para suplir las ausencias de los Propietarios;
 
-IV. Presentar al Pleno los recursos de su competencia, así como substanciar los procedimientos especiales de sanción, para ser turnados al Magistrado ponente para su resolución;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IV. Presentar al Pleno los asuntos de su competencia, así como substanciar los procedimientos administrativos y especiales de sanción, para ser turnados al Magistrado Ponente para su resolución;
 
 V. Resolver las solicitudes de permiso hasta por diez días con o sin goce de sueldo, formulados por el personal del Tribunal;
 
@@ -247,7 +257,9 @@ VII. Dar aviso al Congreso del Estado, y en sus recesos a la diputación permane
 
 VIII. Tomar las medidas necesarias para que se cumplan los acuerdos del Pleno;
 
-IX. Aplicar las medidas de apremio en los casos que establece el Código Electoral;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IX. Aplicar las medidas de apremio y correcciones disciplinarias por sí mismo o con apoyo de la autoridad competente, en los casos que establece el Código Electoral;
 
 X. Suscribir los nombramientos del personal del Tribunal y tomar la protesta de ley;
 
@@ -299,7 +311,9 @@ II. Desarrollar las funciones de coordinación del Instituto, cuando le sea enco
 
 III. Emitir en los plazos previstos en el Código Electoral las resoluciones sobre los asuntos de su competencia que le sean turnados;
 
-IV. Formular las ponencias en los recursos de apelación y procedimientos especiales de sanción que le sean turnados por el Pleno;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IV. Tramitar, substanciar y formular las ponencias en los recursos de apelación y juicios ciudadanos que les sean turnados, así como formular las ponencias en los procedimientos administrativos y especiales de sanción que corresponda;
 
 V. Será responsable del personal adscrito a su área, tomando para ello en todo momento las medidas necesarias para salvaguardar el orden y el buen funcionamiento de la Sala, atendiendo a lo dispuesto por el Pleno;
 
@@ -315,7 +329,9 @@ X. Desempeñar las comisiones y actividades de colaboración interinstitucional 
 
 XI. Solicitar al Secretario General o al Oficial Mayor, la información relacionada con la actividad administrativa o jurisdiccional del Tribunal;
 
-XII. Requerir para la substanciación de los recursos sometidos a su conocimiento o para el adecuado desempeño de sus funciones, la cooperación de las áreas del Tribunal, así como de cualquier otra autoridad federal, estatal o municipal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XII. Requerir para la substanciación de los asuntos sometidos a su conocimiento o para el adecuado desempeño de sus funciones, la cooperación de las áreas del Tribunal, así como de cualquier otra autoridad federal, estatal, municipal u órgano electoral o intrapartidario;
 
 XIII. Realizar las funciones de relator en las sesiones de Pleno, cuando sea designado;
 
@@ -337,9 +353,13 @@ II. Auxiliar al Presidente en las sesiones de Pleno;
 
 III. Engrosar los expedientes de los asuntos competencia del Pleno, bajo la supervisión del Presidente del Tribunal;
 
-IV. Recibir el expediente en el recurso de apelación, para ser turnado a la Presidencia del Tribunal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-V. Auxiliar en el trámite de los procedimientos especiales de sanción;
+IV. Dar cuenta al Presidente de los asuntos que le sean remitidos por la Oficialía Mayor, para su trámite correspondiente;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+V. Auxiliar en la tramitación y substanciación de los procedimientos administrativos y especiales de sanción;
 
 VI. Vigilar que los expedientes jurisdiccionales o administrativos competencia del Pleno se encuentren debidamente firmados, foliados y sellados;
 
@@ -385,25 +405,35 @@ I. Auxiliar a los Magistrados del Tribunal por indicaciones de éstos para que s
 
 II. Funcionar como Oficialía de Partes;
 
-III. Coordinar y supervisar la recepción de promociones y recursos, que por razón del día y la hora se presenten fuera de la sede del Tribunal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-IV. Informar a los Magistrados sobre la recepción de promociones y recursos presentados fuera de la sede del Tribunal;
+III. Coordinar y supervisar la recepción de todo tipo de demandas, escritos, oficios y promociones que por razón del día y la hora se presenten fuera de la sede del Tribunal o fuera del horario ordinario de labores;
 
-V. Coordinar los mecanismos necesarios para la recepción de promociones, recursos, procedimientos especiales de sanción y juicios laborales, en los días y horas hábiles en la sede del Tribunal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-VI. Vigilar que en la recepción de documentos se asiente el sello oficial con su firma o del personal autorizado en la constancia de recibido, precisando fecha y hora, tanto en el original como en las copias presentadas;
+IV. Informar a los Magistrados sobre la recepción de promociones presentadas fuera de la sede del Tribunal o fuera del horario ordinario de labores;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+V. Coordinar y supervisar los mecanismos necesarios para la recepción de todo tipo de demandas, escritos, oficios y promociones que se presenten en los días y horas hábiles en la sede del Tribunal;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+VI. Vigilar que en la recepción de documentos se asiente el sello oficial con su firma o del personal autorizado, precisando fecha y hora, así como el número de anexos, tanto en el original como en las copias presentadas;
 
 VII. Registrar en el libro a su cargo, todas las recepciones que se realicen en la Oficialía de Partes;
 
-VIII. Dar cuenta a la brevedad posible al Presidente de los asuntos o recursos competencia del Pleno;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-IX. Dar cuenta a los Magistrados de los recursos de revisión o juicios laborales que reciba, para que sean substanciados por la Sala, en los términos que acuerde el Pleno;
+VIII. Dar cuenta a la brevedad posible al Presidente de los asuntos competencia del Pleno o de las Salas;
+
+IX. (DEROGADA, P.O. 2 DE MARZO DE 2012)
 
 X. Auxiliar al Presidente en las actividades que éste le encomiende;
 
 XI. Auxiliar a los Magistrados para requerir o solicitar a otras autoridades electorales, federales, estatales o municipales la entrega de información o pruebas que sean necesarias para la substanciación de los medios de impugnación;
 
-XII. Informar al Presidente de los recursos y promociones recibidos en la Oficialía de Partes y que hayan sido turnados a las Salas;
+XII. (DEROGADA, P.O. 2 DE MARZO DE 2012)
 
 XIII. Realizar las tareas de difusión e información, cuando así lo determine el Presidente;
 
@@ -443,17 +473,25 @@ El Oficial Mayor deberá reunir todos los requisitos que establece (sic) el art�
 
 Son funciones de la Secretaría de Sala:
 
-I. Recibir en forma detallada los recursos, juicios laborales o promociones que sean competencia de la Sala;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+I. Recibir en forma detallada los medios de impugnación, juicios laborales o promociones que sean competencia de la Sala;
 
 II. Dar cuenta al Magistrado a la brevedad posible sobre las promociones, recursos o juicios presentados ante la Sala;
 
-III. Realizar el estudio sobre el cumplimiento de los requisitos exigidos por la Ley para la interposición de los recursos;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-IV. Apoyar en la tramitación y substanciación de los recursos o juicios laborales competencia de la Sala;
+III. Realizar el estudio sobre el cumplimiento de los requisitos exigidos por la Ley para la interposición de los medios de impugnación;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IV. Apoyar en la tramitación y substanciación de los juicios o recursos competencia de la Sala;
 
 V. Formar los expedientes sobre los asuntos de los que tenga conocimiento la Sala, debiendo sellar, firmar y rubricar los mismos;
 
-VI. Elaborar los proyectos de resolución, por encargo del Magistrado Titular, de los recursos y asuntos laborales de que conozca la Sala;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+VI. Elaborar los proyectos de resolución, por encargo del Magistrado Titular, de los juicios, recursos y procedimientos de que conozca la Sala;
 
 VII. Dar fe de las actuaciones de la Sala;
 
@@ -499,9 +537,13 @@ IV. No haber sido condenado ejecutoriamente por delito doloso, que amerite pena 
 
 El Juez Instructor, además de las atribuciones encomendadas en el artículo 353 del Código Electoral, tendrá las siguientes:
 
-I. Auxiliar al Magistrado en la substanciación y elaboración del proyecto de resolución de los conflictos laborales que sean del conocimiento de la Sala;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-II. Auxiliar al Magistrado cuando éste sea ponente, en la elaboración del proyecto de resolución de los procedimientos especiales de sanción;
+I. Auxiliar al Magistrado en la tramitación, substanciación y elaboración del proyecto de resolución de los juicios y recursos que sean del conocimiento de la Sala;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+II. Auxiliar al Magistrado cuando éste sea ponente, en la elaboración del proyecto de resolución de los demás asuntos competencia de la Sala;
 
 III. Hacer las funciones de Secretario de Sala o de Actuario en los casos en que así sea habilitado por el Magistrado; y
 
@@ -729,9 +771,11 @@ III. En su caso, tramitar lo relativo al registro de las publicaciones y de los 
 
 ### CAPÍTULO PRIMERO. DE LAS RELACIONES LABORALES
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 44.
 
-las relaciones entre el Estado de Guanajuato y los trabajadores que prestan sus servicios en el Tribunal, se regirán por lo dispuesto en la legislación en materia del trabajo de los servidores públicos al servicio del Estado y de los municipios.
+Las relaciones entre el Estado de Guanajuato y los trabajadores que prestan sus servicios en el Tribunal, se regirán por lo dispuesto en el Código Electoral y la legislación en materia del trabajo de los servidores públicos al servicio del Estado y de los municipios.
 
 ### CAPÍTULO SEGUNDO. DE LOS TRABAJADORES DE BASE Y DE CONFIANZA
 
@@ -745,9 +789,11 @@ Son trabajadores de base aquéllos que presten sus servicios en actividades o pu
 
 Son trabajadores de confianza los que realizan actividades de dirección, administración, inspección, vigilancia o fiscalización, cuando tengan carácter general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 47.
 
-Para los efectos laborales son trabajadores de confianza del Tribunal: el Secretario General, el Oficial Mayor, el Director Administrativo, los Titulares de las Unidades de Contabilidad y de Informática, los Secretarios de Sala, los Jueces Instructores y los Actuarios.
+Para los efectos laborales son trabajadores de confianza del Tribunal: el Secretario General, el Oficial Mayor, el Secretario Particular de Presidencia, el Director Administrativo, los Titulares de las Unidades de Contabilidad, Informática, Comunicación Social y Contraloría, el personal adscrito al Instituto de Investigación y Capacitación Electoral, los Secretarios de Sala, los Jueces Instructores y los Actuarios.
 
 El personal de apoyo se considera como trabajadores de base.
 
@@ -1025,7 +1071,9 @@ las labores ordinarias del Tribunal durante el periodo de ínter proceso, se des
 
 Durante el proceso electoral, el horario y los días de labores, se establecerán conforme a las necesidades de trabajo.
 
-Fuera del horario de oficina o en los días feriados, las promociones o interposición de recursos se recibirán en el domicilio del funcionario o empleado del Tribunal que el Pleno autorice, fijándose el aviso correspondiente por el Oficial Mayor.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Fuera del horario de oficina o en los días feriados, las promociones o interposición de medios de impugnación se recibirán en el domicilio del funcionario o empleado del Tribunal que el Pleno autorice, fijándose el aviso correspondiente por el Oficial Mayor.
 
 ###### Artículo 77.
 
@@ -1035,17 +1083,21 @@ las listas de notificaciones colocadas en los estrados del Tribunal, permanecer�
 
 En el caso del último párrafo del artículo 312 del Código Electoral, la autorización que se otorgue por escrito, presentada, con posterioridad a la interposición del medio de impugnación, no convalida o perfecciona la falta de personalidad o legitimación del promovente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 79.
 
-La cédula de notificación personal, además de los requisitos que establece el artículo 314 del Código Electoral deberá contener: autoridad que emite el acto, número de expediente, tipo de recurso, fecha de la emisión del acto, nombre del promovente y, extracto o copia certificada íntegra de la resolución o acto a notificar.
+La cédula de notificación personal, además de los requisitos que establece el artículo 314 del Código Electoral deberá contener: autoridad que emite el acto, número de expediente, tipo de juicio, recurso o procedimiento, fecha de la emisión del acto, nombre del promovente y, extracto o copia certificada íntegra de la resolución o acto a notificar.
 
 Al practicarse la notificación se asentará en forma detallada la razón sobre circunstancias o eventos que tuvieren lugar en el momento de realizar la diligencia, quedando constancia de ello en el expediente, siempre que sea necesario.
 
 En caso de no localizar a persona alguna en el domicilio señalado en autos, quien realice la notificación procurará allegarse de todos los elementos objetivos con los que se corrobore tal circunstancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 80.
 
-Los expedientes de los medios de impugnación y demás procedimientos materia de la competencia del Tribunal, podrán ser consultados por las personas autorizadas para tal efecto, siempre que ello no obstaculice su pronta y expedita sustanciación y resolución.
+Los expedientes de los medios de impugnación y demás procedimientos o juicios materia de la competencia del Tribunal, podrán ser consultados por las personas autorizadas para tal efecto, siempre que ello no obstaculice su pronta y expedita sustanciación y resolución.
 
 Sólo las partes a su costa, podrán solicitar fotocopias certificadas o simples de las actuaciones, las que serán expedidas cuando lo permitan las labores del Tribunal.
 
@@ -1057,21 +1109,27 @@ Concluido el medio de impugnación, cualquier persona que tenga interés podrá 
 
 ### CAPÍTULO SEGUNDO. DE LAS REGLAS DEL TURNO
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 82.
 
-De conformidad con lo previsto en los artículos 300, 303 y 362 del Código Electoral y 88 de este Reglamento, los recursos, asuntos laborales y procedimientos especiales de sanción, serán turnados por la Oficialía Mayor a las Salas o al Pleno, siguiendo estricto orden progresivo, tomando en consideración el número ordinal que le corresponda, registrándose en el libro de entradas y especificando la hora precisa de su recepción.
+De conformidad con lo previsto en los artículos 293 bis 3, 300, 303, 362 y 386 del Código Electoral y 71 de este Reglamento, los juicios, recursos o procedimientos, serán turnados a las Salas o al Pleno, siguiendo estricto orden progresivo, tomando en consideración el número ordinal que le corresponda, registrándose en el libro de entradas y especificando la hora precisa de su recepción.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
 Sólo en los casos donde existiere notoria vinculación en los asuntos de que conozca el Tribunal, la Presidencia determinará lo que corresponda.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 83.
 
-Durante el proceso electoral, el Pleno del Tribunal tomará las providencias necesarias para que la recepción de los recursos y promociones presentados se realice en forma expedita.
+Durante el proceso electoral, el Pleno del Tribunal tomará las providencias necesarias para que la recepción de los medios de impugnación y promociones presentados se realice en forma expedita.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 84.
 
-Los recursos o promociones presentados ante el Tribunal, serán recibidos por la Oficialía de Partes o por quienes se encuentren autorizados por el Pleno, y remitidos a la Secretaría General o de Sala, según corresponda, para su trámite.
+Los juicios, recursos, procedimientos o promociones presentados ante el Tribunal, serán recibidos por la Oficialía de Partes o por quienes se encuentren autorizados por el Pleno, y remitidos a la Secretaría Generala de Sala, según corresponda, para su trámite.
 
 ###### Artículo 85.
 
@@ -1079,17 +1137,55 @@ Si el recurrente se encuentra en el supuesto a que se refiere el artículo 315 f
 
 De no presentar alguno de los documentos aludidos en el párrafo anterior, se entenderá que se encuentra en el supuesto previsto por el artículo 325, fracción II del Código Electoral.
 
-### CAPÍTULO TERCERO. DEL RECURSO DE REVISIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2012)</small>
 
-### CAPÍTULO CUARTO. DEL RECURSO DE APELACIÓN
+### CAPÍTULO TERCERO. DEL JUICIO PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICO-ELECTORALES DEL CIUDADANO
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+###### Artículo 85 Bis 1.
+
+En términos de lo dispuesto por el artículo 293 bis 3 del Código Electoral, recibida la demanda en la Sala Unitaria, el Secretario procederá en forma inmediata a formar el expediente con lo presentado y dará cuenta al Magistrado Instructor y Ponente para que lo analice y provea lo relativo a su radicación, tramitación y substanciación.
+
+Para la interposición, trámite y resolución de este medio de impugnación, durante el proceso electoral, todos los días y horas son hábiles.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+###### Artículo 85 Bis 2.
+
+La autoridad responsable y los terceros interesados, podrán comparecer y aportar las pruebas o alegaciones que consideren pertinentes, a más tardar dentro de las 48 horas siguientes, a la fecha en que se les notifique la admisión del medio de impugnación.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+###### Artículo 85 Bis 3.
+
+Una vez transcurrido el plazo anterior y si no hubiere pruebas que desahogar, el Magistrado Instructor y Ponente procederá a decretar cerrada la instrucción y elaborará el proyecto de resolución que corresponda.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+###### Artículo 85 Bis 4.
+
+Elaborado el proyecto, el Magistrado Instructor y Ponente por conducto del Presidente del Tribunal convocará a sesión de Pleno, donde hará relación breve de los resultandos y considerandos que lo integran.
+
+A continuación, el Presidente pondrá a discusión el proyecto, mismo que será sometido a votación.
+
+En la votación para este medio de impugnación, se observarán las reglas que establecen los artículos 11 y 107 de este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO TERCERO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO CUARTO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 86.
 
-El recurso de revisión presentado ante la Oficialía de Partes del Tribunal, deberá ser remitido a la Sala Unitaria que en turno corresponda. Durante el proceso electoral, el Pleno acordará la remisión tomando en cuenta las cargas de trabajo.
+El recurso de revisión presentado ante la Oficialía de Partes del Tribunal, deberá ser turnado y remitido por la Presidencia a la Sala Unitaria que corresponda. Durante el proceso electoral y tomando en cuenta las cargas de trabajo, el Pleno podrá acordar la modificación del turno en la remisión de los asuntos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 87.
 
-Cuando el recurso o la promoción se presente en la sede del Tribunal, el personal autorizado para su recepción deberá asentar razón que contendrá la descripción en forma detallada de los anexos del escrito, la fecha, hora de su presentación y firma de recibido. Estos datos se harán constar en el original y en la copia del promovente.
+Cuando el recurso o la promoción se presente en la sede del Tribunal, el personal autorizado para su recepción deberá asentar razón que contendrá el número de ejemplares del escrito y de anexos adjuntos al mismo, la fecha, hora de su presentación y firma de recibido. Estos datos se harán constar en el original y en la copia del promovente.
 
 Cuando el recurso o la promoción se presente fuera del horario normal de labores y en el domicilio autorizado para tal efecto, el personal del Tribunal, una vez asentada la razón de recibido conforme al párrafo anterior, procederá a formar un paquete con la documentación recibida, el que será firmado en su exterior por el funcionario y el promovente, comunicándose a éste la remisión que se hará a la Oficialía Mayor para la verificación de la recepción. Si el promovente se negare a firmar se asentará razón de ello.
 
@@ -1101,39 +1197,49 @@ Recibido el recurso en la Sala Unitaria, el Secretario procederá en forma inmed
 
 La autoridad responsable y los terceros interesados, podrán comparecer y aportar las pruebas o alegaciones que consideren pertinentes, a más tardar dentro de las 48 horas siguientes, a la fecha en que se les notifique la admisión del recurso.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 90.
 
-Tratándose de recursos de revisión interpuestos por los ciudadanos, en los que se hagan valer presuntas violaciones a sus derechos político-electorales, el plazo a que alude el primer párrafo del artículo 301 del Código Electoral, será de veinte días hábiles.
+Tratándose de recursos de revisión interpuestos contra actos o resoluciones en materia de participación ciudadana, el plazo a que alude el primer párrafo del artículo 301 del Código Electoral, será de veinte días hábiles.
 
-> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO CUARTO], P.O. 2 DE MARZO DE 2012)</small>
 
-El plazo mencionado, será igualmente aplicable tratándose de recursos de revisión promovidos en contra de actos o resoluciones en materia de participación ciudadana.
+### CAPÍTULO QUINTO. DEL RECURSO DE APELACIÓN
 
-### CAPÍTULO QUINTO. DEL PROCEDIMIENTO ESPECIAL DE SANCIÓN
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 91.
 
-En el recurso de apelación, la Secretaría de la Sala Responsable dará cuenta de inmediato al Magistrado, y deberá remitir dentro de las 24 horas siguientes el escrito de interposición con el expediente original a la Secretaría General del Tribunal.
+En el recurso de apelación, cumplidos los trámites previstos por el artículo 303, primer párrafo del Código Electoral, la Secretaría de la Sala Responsable dará cuenta de inmediato al Magistrado Instructor, y deberá remitir dentro de las 24 horas siguientes el escrito de interposición con el expediente original a la Secretaría General del Tribunal.
 
 Para la recepción de este recurso, se observará lo dispuesto en el artículo 87 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 92.
 
-Recibido el expediente de apelación, el Secretario General dará cuenta al Presidente del Tribunal dentro de las 24 horas siguientes, quien citará a sesión de Pleno para integrar la Sala de segunda instancia, la que una vez constituida, analizará el recurso presentado y decidirá sobre su admisión o desechamiento.
+Recibido el expediente de apelación, el Secretario General dará cuenta al Presidente del Tribunal dentro de las 24 horas siguientes, quien designará por riguroso turno al Magistrado Instructor y Ponente para que proceda a su tramitación, substanciación y elaboración del proyecto de resolución que corresponda, a menos de que se advierta su notoria improcedencia, caso en el cual el Presidente elaborará el proyecto de auto de desechamiento que corresponda y convocará a sesión de Pleno para su discusión y, en su caso, aprobación.
 
-Admitida la apelación, el Pleno designará por riguroso turno al Magistrado ponente para que formule el proyecto de resolución, que no podrá ser el que la hubiere dictado en revisión. Para esto si fuere el supuesto, se atenderá en lo conducente a las reglas de acumulación.
+El Magistrado Instructor y Ponente será distinto a aquél que hubiese dictado la resolución en el recurso de revisión.
+
+En la asignación de expedientes se atenderá en lo conducente a las reglas de la acumulación.
 
 ###### Artículo 93.
 
 Elaborado el proyecto, el Magistrado ponente por conducto del Presidente del Tribunal convocará a sesión de Pleno, donde hará relación breve de los resultandos y considerandos que lo integran.
 
-A continuación, el Presidente pondrá a discusión la resolución, misma que será sometida a votación.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+A continuación, el Presidente pondrá a discusión el proyecto, mismo que será sometido a votación.
 
 En la votación para este recurso, se observarán las reglas que establecen los artículos 11 y 107 de este Reglamento.
 
-### CAPÍTULO SEXTO. DE LA ACUMULACIÓN Y ESCISIÓN
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO SEXTO. DEL PROCEDIMIENTO ESPECIAL DE SANCIÓN
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 94.
 
@@ -1163,49 +1269,67 @@ El cómputo del plazo previsto en dicho precepto legal para la emisión de la re
 
 Cuando además de la sanción, exista la obligación de hacer o dejar de hacer, deberá establecerse en la resolución, el plazo y circunstancias para su cumplimiento.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 99.
 
-Para hacer cumplir las disposiciones del Código Electoral, de este Reglamento y las resoluciones que emita el Tribunal, los medios de apremio se aplicarán de manera discrecional, fundando y motivando la determinación respectiva.
+Para hacer cumplir las disposiciones del Código Electoral, de este Reglamento y las resoluciones que emita el Tribunal, los medios de apremio y correcciones disciplinarias se aplicarán de manera discrecional, fundando y motivando la determinación respectiva.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
 
 Tratándose de las infracciones a que se refieren los artículos 359 a 359 Bis 6 del Código Electoral, las sanciones se individualizarán conforme a los lineamientos establecidos por el artículo 365 de dicho ordenamiento legal.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2008)</small>
+
 En ambos supuestos, se considerará agravante en la calificación de su gravedad, la reincidencia en la conducta infractora, para lo cual se calificará como reincidente al infractor que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones establecidas en las disposiciones legales o administrativas de índole electoral estatal, dentro de un periodo de seis años incurra nuevamente en la misma conducta infractora.
 
-### CAPÍTULO SÉPTIMO. DE LAS EXCUSAS
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SEXTO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA ACUMULACIÓN Y ESCISIÓN
 
 ###### Artículo 100.
 
 Procede la acumulación en los siguientes casos:
 
-I. Los recursos de revisión en los que se impugnan simultáneamente por dos o más partidos políticos el mismo acto o resolución;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-II. Cuando un partido político interponga dos o más recursos contra actos que emanen de una misma resolución; y
+I. En los medios de impugnación en los que se controviertan simultáneamente por dos o más accionantes el mismo acto o resolución;
 
-III. En los casos en que dos o más recursos de revisión tengan estrecha conexidad y la resolución de uno pudiera trascender en la del otro.
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+II. Cuando el mismo actor interponga dos o más medios de impugnación contra actos que emanen de una misma resolución; y
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+III. En los casos en que dos o más medios de impugnación tengan estrecha conexidad y la resolución de uno pudiera trascender en la del otro.
 
 ###### Artículo 101.
 
 Para tramitar la acumulación, bastará el simple acuerdo en el expediente más antiguo al que se anexará el más reciente.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 102.
 
-Si acumulados dos o más recursos y hasta antes de dictar resolución, el Magistrado Instructor aprecia que todos o alguno de ellos no se encuentran en los supuestos del artículo 100 de este Reglamento, de plano y sin mayor trámite, podrá acordar únicamente la separación de autos.
+Si acumulados dos o más medios de impugnación y hasta antes de dictar resolución, el Magistrado Instructor aprecia que todos o alguno de ellos no se encuentran en los supuestos del artículo 100 de este Reglamento, de plano y sin mayor trámite, podrá acordar únicamente la separación de autos.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 103.
 
-En el interproceso, si procediere la separación de autos, los recursos que correspondan a la misma Sala serán resueltos por ésta; si pertenecen a otra Sala se devolverán para su resolución, siempre y cuando con ello no se afecten los plazos para determinar sobre los mismos.
+En el interproceso, si procediere la separación de autos, los medios de impugnación que correspondan a la misma Sala serán resueltos por ésta; si pertenecen a otra Sala se devolverán para su resolución, siempre y cuando con ello no se afecten los plazos para determinar sobre los mismos.
 
 ###### Artículo 104.
 
 El Magistrado que se encuentre sustanciando un expediente, podrá emitir un acuerdo de escisión respecto del mismo, si en el escrito de demanda se impugna más de un acto, o bien, existe pluralidad de actores o demandados y, en consecuencia, se estime fundadamente que no es conveniente resolverlo en forma conjunta, por no presentarse alguno de los supuestos a que se refiere el artículo 100 de este Reglamento, y siempre que no se actualice alguna causal de desechamiento o sobreseimiento.
 
-Dictado el acuerdo de escisión, el Magistrado concluirá la sustanciación y resolución por separado, de los expedientes que hubiesen resultado del referido acuerdo.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
-Tratándose de asuntos de la competencia del Pleno, el acuerdo será dictado por dicho órgano colegiado, y el Magistrado designado originalmente como ponente, formulará los correspondientes proyectos de resolución.
+Dictado el acuerdo de escisión, el Magistrado Instructor concluirá la sustanciación y resolución por separado, de los expedientes que hubiesen resultado del referido acuerdo y formulará los correspondientes proyectos de resolución.
 
-### CAPÍTULO OCTAVO. DE LA MODIFICACIÓN O ENGROSE DE LAS RESOLUCIONES
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO OCTAVO. DE LAS EXCUSAS
 
 ###### Artículo 105.
 
@@ -1217,9 +1341,13 @@ Los Magistrados del Tribunal, no podrán ser recusados por las partes.
 
 El Pleno del Tribunal, en sesión para tal efecto, calificará la excusa planteada y resolverá sobre su procedencia o improcedencia.
 
-De prosperar la excusa, se remitirá el asunto a otro Magistrado para la prosecución de su trámite, respetándose el turno que en la Oficialía Mayor corresponda.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
-### CAPÍTULO NOVENO. DE LA ACLARACIÓN DE LAS RESOLUCIONES
+De prosperar la excusa, se remitirá el asunto a otro Magistrado para la prosecución de su trámite, respetándose el turno que corresponda.
+
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO NOVENO. DE LA MODIFICACIÓN O ENGROSE DE LAS RESOLUCIONES
 
 ###### Artículo 107.
 
@@ -1227,13 +1355,19 @@ En el desahogo de los medios de impugnación que sean de la competencia del Plen
 
 Si hubiere necesidad de cambiar el sentido o totalmente la motivación o fundamento, el Pleno designará al Magistrado que se encargará de la nueva ponencia. El Magistrado que disienta podrá solicitar que se anexe a la resolución su voto particular en contrario o razonado si es el caso, presentándolo en un término de 24 horas.
 
-### CAPÍTULO DÉCIMO. PUBLICIDAD DE LAS SENTENCIAS
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO NOVENO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO. DE LA ACLARACIÓN DE LAS RESOLUCIONES
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 108.
 
-La petición para aclaración de las resoluciones en los recursos, procedimientos especiales de sanción y laborales, procederá sólo en aquellas que pongan fin a la instancia y deberá hacerse por escrito.
+La petición para aclaración de las resoluciones en los juicios, recursos y procedimientos, procederá sólo en aquellas que pongan fin a la instancia y deberá hacerse por escrito.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO DÉCIMO], P.O. 2 DE MARZO DE 2012)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. PUBLICIDAD DE LAS SENTENCIAS
 
 ###### Artículo 109.
 
@@ -1241,7 +1375,7 @@ Sin perjuicio del cumplimiento de las diversas obligaciones de publicitación pr
 
 ## TÍTULO QUINTO. DEL PROCEDIMIENTO LABORAL
 
-### CAPÍTULO SEGUNDO. DE LOS CONFLICTOS LABORALES ENTRE LOS ÓRGANOS ELECTORALES Y SUS SERVIDORES
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 110.
 
@@ -1275,6 +1409,10 @@ I. El servidor público del Órgano Electoral, que resulte afectado por el acto 
 
 II. El Órgano Electoral administrativo o jurisdiccional emisor del acto o la resolución;
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Los titulares de los órganos electorales demandados podrán hacerse representar por apoderados que acrediten ese carácter mediante simple oficio.
+
 ###### Artículo 116.
 
 La demanda laboral deberá formularse por escrito y cumplir los requisitos previstos por el artículo 390 del Código Electoral.
@@ -1293,7 +1431,9 @@ Las pruebas serán valoradas atendiendo a las reglas de la sana crítica y a los
 
 Son efectos de la resolución laboral: confirmar, modificar, revocar el acto impugnado o bien, conceder o negar las prestaciones reclamadas.
 
-En el supuesto de que la resolución ordene dejar sin efecto la destitución del trabajador de confianza, el Órgano Electoral podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario, más doce días por cada año laborado, siempre y cuando el servidor haya tenido un mínimo de dos años de antigüedad.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+En el supuesto de que la resolución ordene dejar sin efecto la destitución del trabajador de confianza, el Órgano Electoral podrá negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario, más doce días por cada año laborado, más veinte días por año de servicios prestados y, en su caso, el pago de salarios caídos, siempre y cuando el servidor haya tenido un mínimo de dos años de antigüedad.
 
 La regla establecida en el párrafo anterior, no se aplica a los servidores con carácter eventual, ni a quienes tengan menos de dos años de antigüedad prestando sus servicios.
 
@@ -1301,7 +1441,7 @@ La regla establecida en el párrafo anterior, no se aplica a los servidores con 
 
 Las resoluciones que recaigan en los asuntos laborales planteados en el Tribunal, serán irrecurribles.
 
-### CAPÍTULO TERCERO. DE LOS INCIDENTES EN LOS CONFLICTOS LABORALES
+### CAPÍTULO SEGUNDO. DE LOS CONFLICTOS LABORALES ENTRE LOS ÓRGANOS ELECTORALES Y SUS SERVIDORES
 
 ###### Artículo 121.
 
@@ -1319,13 +1459,19 @@ II. Se presente por quien no tenga interés jurídico; y
 
 III. Se presente fuera del plazo que señala el artículo 114 de este Reglamento.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 123.
 
-Admitida la demanda, se ordenará notificar a la demandada, con copia cotejada del escrito inicial y de sus anexos, en el domicilio señalado para tal efecto en el escrito de demanda, señalándose día y hora dentro de los 15 días siguientes al de admisión de la demanda, para que tenga verificativo la audiencia de conciliación, demanda, contestación, ofrecimiento y admisión de pruebas.
+Admitida la demanda, se ordenará notificar a la demandada, can copia cotejada del escrito inicial y de sus anexos, en el domicilio señalado para tal efecto en el escrito de demanda, señalándose día y hora dentro de los 15 días siguientes al de admisión de la demanda, para que tenga verificativo la audiencia de conciliación, demanda, contestación, ofrecimiento y admisión de pruebas, así como de alegatos.
 
 ###### Artículo 124.
 
 La audiencia se llevará a cabo el día y la hora señalada, donde se levantará acta de la misma, comparezcan o no las partes, en caso de comparecer, el Magistrado de la Sala correspondiente, exhortará a las mismas para que concilien sus diferencias y en caso de convenio, éste se elevará a la categoría de laudo, obligando a las partes de estar y pasar por él, en todo tiempo y lugar. Si no hay ningún arreglo conciliatorio, el Tribunal cerrará la etapa correspondiente e inmediatamente se abrirá la etapa de demanda y excepciones.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Las partes de común acuerdo podrán solicitar se suspenda la audiencia con objeto de conciliarse; y el Tribunal, por una sola vez, la suspenderá y fijará su reanudación dentro de los ocho días hábiles siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de ley.
 
 ###### Artículo 125.
 
@@ -1335,35 +1481,53 @@ Una vez abierta la etapa de demanda y excepciones, se le concederá el uso de la
 
 Si la parte actora aclara o modifica sustancialmente su escrito de demanda, la Sala suspenderá la audiencia, para permitir que la demandada se allegue las pruebas necesarias para contestar las aclaraciones y modificaciones, evitando con esto, que la parte demandada quede en estado de indefensión, al suspender la audiencia por parte de la Sala del Tribunal, se señalará dentro del término de 5 días hábiles, siguientes a la fecha de la suspensión, nuevo día y hora para la continuación de la etapa de excepciones.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 127.
 
-Una vez que el actor haya ratificado su demanda, se le concederá el uso de la voz a la parte demandada, para que conteste por escrito o en forma verbal la demanda, en la cual está obligado a referirse a todos y cada uno de los hechos expresados por el actor.
+Una vez que el actor haya ratificado su demanda, se le concederá el uso de la voz a la parte demandada, para que conteste por escrito o en forma verbal la demanda, en la cual está obligado a referirse a todos y cada uno de los hechos expresados por el actor. En caso de que la demanda se conteste por escrito, el demandado estará obligado a entregar copia simple al actor; si no lo hace, el Tribunal la expedirá a su costa.
+
+Las partes podrán por una sola vez, replicar y contrareplicar brevemente, asentándose en actas sus alegaciones si lo solicitaren.
 
 ###### Artículo 128.
 
 Cuando no se conteste la demanda o no se haga alusión a todos los hechos expresados por el actor, en el primer supuesto, se tendrá por contestando (sic) en sentido afirmativo, en tanto en el segundo caso, se tendrá por conforme de los puntos respecto de los cuales no se contestó, salvo que de las constancias que obren en autos se desprenda lo contrario.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 129.
 
-Una vez concluida la etapa de demanda y excepciones, la Sala dictará el acuerdo respectivo, tanto a la ratificación, aclaración o modificación de la demanda hecha por el autor como a la contestación hecha por la demandada, y se señalará día y hora para que tenga verificativo la etapa y audiencia de ofrecimiento, admisión y desahogo de pruebas y alegatos, apercibiendo a las partes que en caso de no comparecer, estando legalmente citados, se les tendrá por no ofreciendo probanza alguna, salvo las pruebas documentales que se hayan anexado con el escrito de demanda o en la contestación de la misma.
+Una vez concluida la etapa de demanda y excepciones, la Sala dictará el acuerdo respectivo, tanto a la ratificación, aclaración o modificación de la demanda hecha por el autor como a la contestación hecha por la demandada y se pasará inmediatamente a la etapa probatoria y de alegatos que iniciará con el ofrecimiento de pruebas por parte del actor en relación con los hechos controvertidos. Inmediatamente después, el demandado ofrecerá sus pruebas y podrá objetar las de su contraparte y aquél a su vez, podrá objetar las del demandado.
+
+En esta etapa, las partes podrán ofrecer nuevas pruebas referidas a la litis, adicionales a las que hubieren podido anunciar al formular la demanda o al contestar ésta.
+
+Si las partes no comparecen al ofrecimiento de pruebas, se les tendrá por no ofreciendo probanza alguna, salvo las pruebas documentales que se hayan anexado con el escrito de demanda o en la contestación de la misma.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 130.
 
-En la audiencia referida en el artículo anterior, las partes podrán ofrecer y desahogar nuevas pruebas referidas a la litis a las que hubieren podido anunciar al formular la demanda o al contestar ésta.
+Concluido el ofrecimiento, el Tribunal emitirá un acuerdo sobre las pruebas que admita y las que deseche, y señalará fecha y hora para el desahogo de las pruebas admitidas en una sola audiencia. Posteriormente, sólo se admitirán las pruebas que se refieran a hechos supervenientes.
 
-Al término del desahogo de pruebas, las partes podrán alegar por escrito lo que a su interés convenga, siempre y cuando se refieran a la controversia planteada.
+Cuando por la naturaleza de las pruebas admitidas, se considere que no es posible desahogarlas en una sola audiencia, en el mismo acuerdo señalará los días y horas en que deberán desahogarse.
+
+En todo caso, el desahogo de las pruebas deberá realizarse en un plazo máximo de 15 días hábiles.
+
+Concluido el desahogo de pruebas, se declarará cerrada la instrucción y se señalará fecha y hora para la recepción de alegatos, en la cual las partes podrán alegar por escrito lo que a su interés convenga, siempre y cuando se refieran a la controversia planteada.
 
 En el caso de alegatos verbales, no habrá obligación para la Sala del conocimiento de asentarlos en el expediente.
 
-Si por la naturaleza de las pruebas ofrecidas por las partes, se requiere de desahogo especial, el Tribunal señalará día y hora para el desahogo de las mismas y al término del desahogo de las pruebas, las partes podrán alegar por escrito lo que a sus intereses convenga.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 131.
 
-La Sala resolverá en forma definitiva e inatacable, dentro de los 15 días hábiles siguientes a la celebración de la audiencia a que se refiere el artículo 129 de este Reglamento.
+La Sala resolverá en forma definitiva e inatacable, dentro de los 15 días hábiles siguientes a que se desahogue la audiencia de alegatos correspondiente.
 
 ###### Artículo 132.
 
 Si en cualquier momento las partes llegaran a una conciliación, antes de emitida la sentencia, se le elevará a cosa juzgada y se estarán al convenio correspondiente, cuando fuese ratificado por ambas partes ante la Sala que conozca del asunto.
+
+### CAPÍTULO TERCERO. DE LOS INCIDENTES EN LOS CONFLICTOS LABORALES
 
 ###### Artículo 133.
 
@@ -1420,5 +1584,9 @@ Artículo Primero.- El presente Acuerdo entrará en vigor al cuarto día siguien
 Artículo Segundo.- La denominación de Tribunal Estatal Electoral, establecida en otras disposiciones administrativas emitidas por el Pleno, se entenderá referida al Tribunal Electoral del Estado de Guanajuato, para todos los efectos legales.
 
 P.O. 6 DE NOVIEMBRE DE 2009.
+
+Artículo Único.- El presente Acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE MARZO DE 2012.
 
 Artículo Único.- El presente Acuerdo entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
