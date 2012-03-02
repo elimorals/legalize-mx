@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2007-05-11"
+last_updated: "2012-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE TRANSITO DEL ESTADO DE QUERETARO
 
-LEY DE TRANSITO DEL ESTADO DE QUERETARO
+LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -137,7 +137,7 @@ III.- Determinar las acciones tendientes a mejorar la vigilancia y el tránsito 
 
 IV.- Las demás que le encomiende el Titular del Poder Ejecutivo del Estado y los ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 9.
 
@@ -437,7 +437,7 @@ En cada una de las regiones estarán adscritos los elementos de tránsito necesa
 
 ### CAPÍTULO III. Del ingreso, evaluación y promoción del personal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 28.
 
@@ -641,9 +641,49 @@ La circulación de estos vehículos será libre por todas las vialidades del Est
 
 Los implementos, vehículos agrícolas y de constricción (sic) que transiten por las vías públicas estatales, deberán de hacerlo extremando precauciones, para garantizar la seguridad y visibilidad de terceros y solo podrán transitar por vías alternas o de baja velocidad a excepción que no las haya.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+ARTÍCULO 46 BIS. Los vehículos agrícolas, la maquinaria destinada o de uso para la construcción, así como los implementos de ambos, no podrán transitar por las vías públicas del Estado.
+
+El traslado de estos vehículos y sus implementos o, en su caso, el abanderamiento para ese fin, se hará en vehículos adecuados y autorizados para el efecto por las autoridades de tránsito correspondiente, atendiendo a su peso y dimensión y en los términos de esta Ley y sus reglamentos.
+
+Los propietarios de los vehículos agrícolas y de maquinaria destinada o de uso para la construcción, deberán registrarlos en el padrón estatal, cuya operación y requisitos serán establecidos en el reglamento estatal de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+ARTÍCULO 46 TER. La Secretaría de Seguridad Ciudadana, sólo podrá expedir permisos para que se trasladen o sean abanderados, los vehículos agrícolas o maquinaria destinada o de uso para la construcción, así como los implementos de ambos, en las siguientes condiciones:
+
+I. Que el traslado entre dos puntos, sea dentro del territorio del Estado;
+
+II. Que el vehículo, maquinaría o implemento, usen para su traslado neumáticos para su movilidad; en ningún caso se autorizará el tránsito de los mismos, si para ello utilizan cadenas, carriles o cualquier otro tipo de aditamento que dañe o pueda dañar la superficie de rodamiento;
+
+III. El permiso se otorgará siempre por tiempo determinado, por unidad o equipo y con plena identificación de la persona física responsable de la solicitud. La autoridad competente podrá, en cualquier momento, verificar los datos aportados por el interesado y, en su caso, cancelar el permiso;
+
+IV. El permiso establecerá el tipo de maquinaria o vehículo, la ruta para el traslado, el conductor autorizado y el horario que determine la autoridad, el cual deberá ser de lunes a viernes entre las 00:06 horas y 19:00 horas y los sábados de las 00:06 horas a las 16:00 horas, salvo los casos de excepción que así califique la propia autoridad, tomando en cuenta la necesidad del solicitante y las condiciones de tránsito vehicular; y
+
+V. Si la maquinaria u objetos son voluminosos y exceden las dimensiones reglamentarias, deberán llevar para su traslado la leyenda respectiva de aviso y el abanderamiento correspondiente.
+
+En el caso de que proceda el permiso, los vehículos agrícolas, la maquinaria destinada o de uso para la construcción, deberán ser trasladados extremando precauciones, a fin de garantizar la seguridad y visibilidad de terceros, utilizando los elementos de seguridad necesarios; de igual modo, sólo podrán ser trasladados y/o abanderados por vías alternas o de baja velocidad, a excepción que no las haya.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+ARTÍCULO 46 QUATER. La autoridad competente podrá celebrar convenios con los Colegios o agrupaciones civiles integradas por propietarios o usuarios de vehículos agrícolas o de maquinaria destinada o de uso para la construcción, para el registro de unidades, operadores, la capacitación del personal y la organización y operación de medidas preventivas que garanticen la seguridad de los instrumentos.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+ARTÍCULO 46 QUINQUIES. Los propietarios o usuarios de vehículos agrícolas o de maquinaria destinada o de uso para la construcción, deberán resguardarlos en los espacios autorizados por la autoridad competente o en el lugar de la obra.
+
 ###### ARTÍCULO 47.
 
 Son vehículos de servicio público los que estén destinados, para transitar con ánimo de lucro, a la transportación de personas u objetos por las vías públicas de acuerdo con las disposiciones de la Ley de Transporte, sus reglamentos y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+ARTÍCULO 47 BIS. En los vehículos con capacidad de carga de 500 kilogramos o más, cualquiera que sea su tipo o forma, deberá identificarse claramente si pertenecen al servicio público, así como el propietario o razón social, domicilio, teléfono y demás características que permitan una fácil identificación del transporte.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+ARTÍCULO 47 TER. Cualquier vehículo del servicio público que sea utilizado o destinado a transportar materiales para la construcción, además de los requisitos que debe cumplir para transitar por las vías estatales y municipales, deberá tomar las medidas pertinentes para cubrir adecuadamente los materiales que transportan.
 
 ###### ARTÍCULO 48.
 
@@ -995,9 +1035,17 @@ XLVI.- Se arroje, deposite o abandone sobre la vía pública objetos, vehículos
 
 XLVII.- El propietario de un vehículo particular le adapte a éste dispositivos de acoplamiento para tracción de remolques y semirremolques y no cuenten en dicho vehículo con un mecanismo giratorio o retráctil que no rebase la defensa del mismo;
 
-XLVIII.- El propietario de un vehículo particular le ponga a éste, colores y cortes de pintura exterior iguales o similares a los del transporte público de pasajeros, vehículos de emergencia, de protección civil, patrullas o de los destinados a la Secretaría de la Defensa Nacional y;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-XLIX.- Quien conduzca un vehículo particular, circule por los carriles exclusivos o de contraflujo para vehículos destinados a la prestación del servicio público de transporte de pasajeros concesionado o permisionado, de emergencia médica, de protección civil, de motocicletas de auxilio vial, de bomberos o de la policía.
+XLVIII. El propietario de un vehículo particular que utilice en éste, colores y cortes de pintura exterior iguales o similares a los del transporte público de pasajeros, vehículos de emergencia, de protección civil, patrullas o de los destinados a la Secretaría de la Defensa Nacional;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XLIX. Quien conduciendo un vehículo particular, circule por los carriles exclusivos o de contraflujo para vehículos destinados a la prestación del servicio público de transporte de pasajeros concesionado o permisionado, de emergencia médica, de protección civil, de motocicletas de auxilio vial, de bomberos o de la policía; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+L. Quien traslade vehículos agrícolas o maquinaria destinada o de uso para la construcción, así como sus implementos, sin contar con el permiso expedido por autoridad competente o que, contando con el mismo, no implemente las medidas de seguridad necesarias para ello.
 
 F) DE LA CIRCULACIÓN DE LOS VEHICULOS DE TRACCIÓN ANIMAL, BICICLETAS, BICIMOTOS, TRIMOTOS, TETRAMOTOS, MOTONETAS Y MOTOCICLETAS.
 
@@ -1019,9 +1067,17 @@ VI.- Los propietarios de talleres o negociaciones, reparen vehículos en la vía
 
 VII.- Quien conduzca un vehículo lo estacione en cualquiera de los lugares o circunstancias que se prohíben en el reglamento de tránsito;
 
-VIII.- Se reservan lugares de estacionamiento en la vía pública o se coloquen objetos que obstaculicen el estacionamiento de vehículos o el libre tránsito y;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
 
-IX.- Se coloquen, en forma temporal o permanente, boyas, topes, maceteros o cualquier otro objeto fijo o semifijo en la vía pública, sin la debida autorización de la Dirección o del área de tránsito municipal competente;
+VIII. Se reservan lugares de estacionamiento en la vía pública o se coloquen objetos que obstaculicen el estacionamiento de vehículos o el libre tránsito;
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IX. Se coloquen, en forma temporal o permanente, boyas, topes, maceteros o cualquier otro objeto fijo o semifijo en la vía pública, sin la debida autorización de la Dirección o del área de tránsito municipal competente; y
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+X. Los propietarios o usuarios de vehículos agrícolas o de maquinaria destinada o de uso para la construcción, que no los resguarden en los espacios autorizados por la autoridad competente para ese efecto o en la obra.
 
 H) DE LOS ACCIDENTES DE TRANSITO
 
@@ -1033,7 +1089,7 @@ III.- Quien conduzca un vehículo implicado en un accidente de tránsito no reti
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
-ARTÍCULO 74 BIS.- En caso de que las infracciones contempladas en el inciso A) fracciones VI a la XVIII, XX y XXI; inciso B) fracciones I y V; e inciso C) fracción I; del artículo anterior, sean subsanadas por quien las haya cometido en un plazo no mayor de diez días hábiles demostrándolo físicamente ante la autoridad correspondiente, será beneficiado con un descuento del 75% de la sanción pecuniaria que se le haya impuesto.
+ARTÍCULO 74 BIS. En caso de que las infracciones contempladas en el inciso A) fracciones VI a la XVIII, XX y XXI; inciso B) fracciones I y V; e inciso C) fracción I; del artículo anterior, sean subsanadas por quien las haya cometido en un plazo no mayor de diez días hábiles demostrándolo físicamente ante la autoridad correspondiente, será beneficiado con un descuento del 75% de la sanción pecuniaria que se le haya impuesto.
 
 ###### ARTÍCULO 75.
 
@@ -1115,11 +1171,11 @@ Si el infractor fuere jornalero, obrero, campesino, ejidatario o no asalariado, 
 
 La autoridad competente, al calificar el monto a pagar por una infracción, podrá reducirla considerando las causas que la motivaron y la situación económica del infractor.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2007)</small>
 
 ## TÍTULO QUINTO. De los medios de impugnación
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO ÚNICO. Del recurso de reconsideración
 
@@ -1247,7 +1303,7 @@ SECRETARIO DE GOBIERNO
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE DICIEMBRE DE 2004.
 
@@ -1258,3 +1314,11 @@ P. O. 11 DE MAYO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 2 DE MARZO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El titular del Ejecutivo del Estado de Querétaro y los municipios de la Entidad, deberán actualizar sus reglamentos de Tránsito, con las disposiciones de este cuerpo legal, en un plazo no mayor de 30 días naturales, contados a partir de la publicación de esta Ley.
