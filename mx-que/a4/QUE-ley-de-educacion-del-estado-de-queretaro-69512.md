@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2011-04-22"
+last_updated: "2012-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE EDUCACION DEL ESTADO DE QUERETARO
 
-LEY DE EDUCACION DEL ESTADO DE QUERETARO
+LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -151,6 +151,10 @@ II. Autoridad educativa estatal, a la Secretaría de Educación del Estado de Qu
 
 III. Autoridad educativa municipal, a los ayuntamientos de los municipios del Estado.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+IV. Consejo Técnico, al Consejo Técnico de la Educación del Estado de Querétaro.
+
 ###### Artículo 3.
 
 La función educativa de las universidades y demás instituciones de educación superior, se regulará conforme a lo dispuesto en la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, por las leyes que rijan y por los convenios que suscriban con la Secretaría de Educación del Estado de Querétaro.
@@ -186,6 +190,10 @@ Es obligación de los padres y tutores lograr que sus hijas, hijos y pupilos cur
 ###### Artículo 7.
 
 La educación que impartan el Estado, los municipios y los particulares, promoverá el conocimiento de la geografía, la cultura, las características sociales y económicas, los valores arqueológicos, históricos, artísticos, tradiciones, lenguas y creencias de los grupos indígenas, y el papel de éstos en la configuración y el desarrollo de la historia e identidad de los queretanos y de la nación mexicana.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+El Estado fomentará en los diferentes niveles educativos, el hábito de la lectura, a través de sus programas educativos y de conformidad con lo establecido por la Secretaría de Educación Pública.
 
 ###### Artículo 8.
 
@@ -239,6 +247,10 @@ XIII. Implementar programas que fomenten en los educandos el consumo de alimento
 
 XIV. Difundir y fomentar el conocimiento y la práctica habitual, en los educandos, de diversas actividades para contribuir al desarrollo de sus capacidades intelectuales y habilidades cognitivas.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XV. Impulsar la capacitación del educando con requerimientos de educación especial para realizarse como una persona autónoma, posibilitando su integración y participación en su medio social.
+
 ###### Artículo 12.
 
 Además de impartir la educación básica, el Estado y sus municipios promoverán y atenderán, mediante sus organismos descentralizados y a través de apoyos u otros medios, todos los tipos y modalidades educativas, incluida la educación media superior y superior, necesarias para el desarrollo del Estado.
@@ -275,7 +287,9 @@ Corresponden, de manera exclusiva, al Poder Ejecutivo del Estado, por conducto d
 
 I. Prestar los servicios de educación inicial básica, incluyendo la indígena, especial, así como la normal y demás para la formación de maestros, así como regular la organización y funcionamiento de los planteles educativos que presten dichos servicios;
 
-II. Elaborar los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal, indígena y la correspondiente a la formación de maestros de educación básica, así como también las modificaciones que a dichos contenidos deban llevarse a cabo y proponerlos a la autoridad educativa federal, tomando en consideración la opinión del Consejo Estatal de Participación Social en la Educación;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+II. Elaborar los contenidos regionales que habrán de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal, indígena y la correspondiente a la formación de maestros de educación básica, así como también las modificaciones que a dichos contenidos deban llevarse a cabo y proponerlos a la autoridad educativa federal, tomando en consideración la opinión del Consejo Técnico y del Consejo Estatal de Participación Social en la Educación;
 
 III. Realizar la distribución oportuna y eficiente de los libros de texto gratuitos y materiales educativos complementarios que sean proporcionados por la autoridad educativa federal;
 
@@ -305,11 +319,23 @@ XI. Fomentar y estimular la cultura física y la práctica del deporte dentro de
 
 > <small>(ADICIONADA, P.O. 9 DE JULIO DE 2010)</small>
 
-XII. Implementar en los planteles de educación básica, programas de prevención de adicciones, dirigidos a los alumnos, que contenga información sobre los efectos nocivos del consumo de sustancias adictivas; y
+XII. Implementar en los planteles de educación básica, programas de prevención de adicciones, dirigidos a los alumnos, que contenga información sobre los efectos nocivos del consumo de sustancias adictivas; y (sic)
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XIII. Realizar y publicar anualmente en su página oficial un estudio que abarque tanto instituciones públicas como privadas de educación superior en el Estado, en el que se registren los siguientes datos:
+
+a) Las licenciaturas que se imparten en el Estado, así como las instituciones en donde se pueden cursar.
+
+b) Número de egresados por licenciatura en el Estado.
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XIV. En coordinación con la Secretaría del Trabajo y la Secretaría de Desarrollo Sustentable, realizar y publicar anualmente en su página oficial, un estudio que abarque la información sobre la demanda laboral de profesionistas existente en el Estado y la información sobre los sueldos promedio percibidos por los egresados de las diversas licenciaturas; y
 
 > <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
-XIII. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+XV. Las demás que establezca la Ley General de Educación, esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 14.
 
@@ -336,6 +362,22 @@ IX. Promover, de conformidad con los lineamientos que establezca la autoridad ed
 X. Establecer Consejos de Participación Social en la Educación, en los términos a que se refiere la Ley General de Educación.
 
 Las autoridades educativas del Estado promoverán, con las autoridades federales, la celebración de convenios para la prestación eficaz de los servicios educativos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+
+###### Artículo 14 Bis.
+
+Se establece el Consejo Técnico de la Educación del Estado de Querétaro, como órgano colegiado de consulta de las autoridades educativas estatal y municipal, que tendrá por objeto asesorar y emitir opiniones respecto al proceso de enseñanza-aprendizaje para mejorar la calidad de la educación en la Entidad, teniendo las siguientes funciones y atribuciones:
+
+l. Realizar investigaciones, estudios y análisis de carácter técnico-pedagógico acerca de los contenidos regionales de los planes y programas de estudio, así como respecto a los materiales de estudio, materiales didácticos y de apoyo al proceso educativo, métodos e instrumentos de evaluación, diseñó de espacios, mobiliario y equipos y, en general, de todos los elementos que integran el currículo de la educación básica y los factores que afectan la calidad de los servicios educativos en el Estado;
+
+II. Hacer un seguimiento permanente, en el ámbito estatal, del funcionamiento y calidad de los servicios de educación básica así como de sus resultados y poner a consideración de la autoridad educativa estatal y de las autoridades educativas municipales, las medidas y reformas de carácter técnico que consideren pertinentes; y
+
+III. Las demás que establezca esta Ley, el Reglamento del Consejo y demás disposiciones aplicables.
+
+La conformación y funcionamiento del Consejo Técnico se regirá por lo dispuesto en el reglamento respectivo, debiendo integrarse por autoridades y representantes de las instituciones públicas y privadas que participen en la educación estatal, así como por personas reconocidas por sus méritos profesionales, preparación, capacidad o experiencia en la docencia o en la investigación educativa.
+
+El cargo de Consejero será honorífico.
 
 ###### Artículo 15.
 
@@ -439,6 +481,10 @@ VI. Las instituciones particulares con autorización o con reconocimiento de val
 
 VII. Las instituciones de educación superior a las que la ley otorga autonomía.
 
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+VIII. El Consejo Técnico de la Educación del Estado de Querétaro.
+
 Las instituciones del sistema educativo estatal, impartirán educación de manera que permitan al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva que permita estudiar al trabajador.
 
 ###### Artículo 17.
@@ -465,11 +511,13 @@ Las autoridades educativas del Estado y de los municipios, establecerán mecanis
 
 Corresponde a la autoridad educativa del Estado, constituir un sistema estatal de formación, actualización, capacitación y superación profesional para docentes. Tratándose de educación básica, se apegarán a los lineamientos generales que emita la autoridad educativa federal, cuyas finalidades se ajustarán a lo dispuesto en la Ley General de Educación.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 22.
 
-Las autoridades educativas del Estado revisarán permanentemente las disposiciones, los trámites y los procedimientos, con objeto de simplificarlos y reducir las cargas administrativas de los docentes, a fin de alcanzar más horas efectivas de clase.
+Las autoridades educativas del Estado, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y los procedimientos, con objeto de simplificarlos y reducir las cargas administrativas de los docentes, a fin de alcanzar más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia, calidad y eficiencia.
 
-En las actividades de supervisión, las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás, para el adecuado desempeño de la función docente.
+En las actividades de supervisión, las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás, para el adecuado desempeño de la función docente. Asimismo, se fortalecerá la capacidad de gestión de las autoridades escolares y la participación de los padres de familia.
 
 ###### Artículo 23.
 
@@ -569,9 +617,17 @@ XIV. Atender, detectar y dar tratamiento a educandos con problemas conductuales 
 
 > <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2011)</small>
 
-XV. Efectuar programas permanentes dirigidos a promover el ejercicio de los derechos de las niñas, niños y adolescentes, que tengan como objetivo asegurarles un desarrollo pleno e integral, con la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad en cada una de sus etapas de crecimiento; y
+XV. Efectuar programas permanentes dirigidos a promover el ejercicio de los derechos de las niñas, niños y adolescentes, que tengan como objetivo asegurarles un desarrollo pleno e integral, con la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad en cada una de sus etapas de crecimiento; y (sic)
 
-XVI. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en el artículo anterior.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XVI. Formar, actualizar, capacitar y profesionalizar a los docentes y personal asignado que intervengan directamente en la incorporación educativa de personas con capacidades diferentes;
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2012)</small>
+
+XVII. Vigilar que las personas con discapacidad auditiva y visual ingresen y permanezcan en los centros educativos regulares públicos y privados, en igualdad de condiciones; y
+
+XVIII. Realizar las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos mencionados en el artículo anterior.
 
 ## Título Quinto. Del proceso educativo
 
@@ -759,7 +815,25 @@ I. Cumplir con lo dispuesto en el artículo 3o. de la Constitución Política de
 
 II. No podrán negar la devolución en cantidades que por concepto de inscripción, cuotas o cualquier otro que hayan pagado los educandos, si dentro de los sesenta días siguientes a su exhibición o inicio de cursos hubiesen solicitado su devolución o el retiro de dicha institución. Habiéndose iniciado el ciclo escolar, la devolución podrá hacerse en cantidad proporcional de acuerdo al reglamento de inscripciones que cada escuela emita y registre oportunamente ante la autoridad educativa estatal;
 
-III. Con excepción de aquellas instituciones que por ley gocen de autonomía, deberán proporcionar becas totales a un número de alumnos equivalente al cinco por ciento de la matrícula del período escolar inmediato anterior, en los términos de los lineamientos generales que expida la autoridad educativa estatal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2012)</small>
+
+III. Con excepción de aquellas instituciones que por ley gocen de autonomía, deberán proporcionar becas a un número de alumnos equivalente al cinco por ciento, como mínimo, del total de la matrícula del período escolar inmediato anterior, mismas que se destinarán a los alumnos que satisfagan los requisitos que en el reglamento de becas se establezca, conforme a los siguientes lineamientos:
+
+a) Las becas escolares consisten en la deducción del pago total o parcial de la inscripción y de las colegiaturas mensuales.
+
+b) Los alumnos que sean candidatos a recibir beca escolar, deberán acreditar un promedio mínimo de ocho, en general, correspondiente al año escolar inmediato anterior, con excepción de aquellos que muestren necesidades educativas especiales.
+
+c) Las becas otorgadas a los hijos o familiares del personal de la propia institución educativa, con el carácter de prestación laboral, no formarán parte del porcentaje señalado en la presente fracción.
+
+d) Se deberá dar a conocer en forma completa a estudiantes, maestros y padres de familia, previamente al otorgamiento de becas, la información referente al proceso, mecanismos y requisitos mediante los cuales serán otorgadas las becas.
+
+e) El otorgamiento de becas se deberá hacer en cada plantel por una Comisión integrada por un directivo, dos maestros y cuatro personas designadas por la Asociación de Padres de Familia del plantel educativo correspondiente. La integración de las comisiones, así como el proceso de entrega de becas será supervisado y aprobado por la autoridad educativa correspondiente y dado a conocer a la comunidad educativa con la mayor publicidad.
+
+f) Las autoridades de cada institución educativa entregarán a la Secretaría de Educación del Estado, un informe pormenorizado sobre las becas que otorguen, así como de los criterios académicos y socioeconómicos considerados en la selección de becarios, dentro de un plazo no mayor de veinte días, contados a partir del inicio del ciclo escolar para el cual se solicitó la beca. En caso de que la autoridad educativa se inconforme de los criterios utilizados para tal proceso, podrá modificar la resolución tomada por el Comité.
+
+g) La inconformidad ante un proceso de otorgamiento, podrá ser investigada por la Secretaría de Educación del Estado de oficio o ante denuncia de cualquier interesado.
+
+h) Queda prohibido cualquier acto discriminatorio derivado de la condición de becario; asimismo, no será limitante para su participación en actividades o programas de cualquier índole que implemente la institución educativa.
 
 IV. No podrán negar el acceso y permanencia en la institución de persona alguna, siempre y cuando reúna los requisitos que se establecen para el derecho a la educación;
 
@@ -969,9 +1043,11 @@ Las sanciones serán aplicadas de manera indistinta, dependiendo de la gravedad 
 
 Lo dispuesto en este artículo no se aplicará a los trabajadores de la educación pública, quedando sujetos a las leyes y reglamentos de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 68.
 
-Cuando la Secretaría de Educación del Estado haya otorgado la autorización o el reconocimiento de validez oficial de estudios y considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará conforme a las siguientes bases:
+Cuando la Secretaría de Educación haya otorgado la autorización o el reconocimiento de validez oficial de estudios y considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos, mediante el siguiente procedimiento:
 
 I. Se les citará por escrito a una audiencia, en el que se mencionará día, hora y lugar de la reunión, así como las infracciones que se les imputan. Ésta se llevará a cabo en un plazo no menor de cinco días hábiles, ni mayor de quince días naturales siguientes a la citación;
 
@@ -987,9 +1063,11 @@ La resolución se dictará con base en los datos aportados por el presunto infra
 
 Para determinar la sanción, se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 69.
 
-La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del establecimiento educativo de que se trate.
+La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del establecimiento donde se presta el servicio educativo de que se trate.
 
 El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial.
 
@@ -997,51 +1075,45 @@ Al dictarse la resolución, se adoptarán las medidas que sean necesarias para e
 
 En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la Secretaría de Educación, hasta que aquél concluya.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2012)</small>
+
 ### Capítulo Segundo. Del recurso de aclaración
 
 ###### Artículo 70.
 
-En contra de las sanciones de apercibimiento y amonestación, procederá el recurso de aclaración, mismo que se promoverá dentro de los tres días hábiles siguientes a la fecha de notificación del documento en que se determine la sanción.
-
-Este recurso se promoverá ante la propia autoridad que emitió el acto y será resuelto de plano por la misma. La resolución que se dicte del recurso de aclaración no admitirá recurso ulterior alguno.
+(DEROGADO, P.O. 2 DE MARZO DE 2012)
 
 ###### Artículo 71.
 
-El escrito mediante el que se interponga el recurso de aclaración, deberá contener:
-
-I. La autoridad a quien se dirige;
-
-II. El nombre del recurrente y del tercero perjudicado si lo hubiere, así como el lugar que se señale para efectos de notificación y las personas autorizadas para tal efecto;
-
-III. La resolución que se recurre y la fecha en que se le notificó o tuvo conocimiento de la misma;
-
-IV. Los agravios que se le causan;
-
-V. En su caso, copia de la resolución o acto que se impugna y de la notificación correspondiente; y
-
-VI. Las pruebas que ofrezca, en términos de lo aplicable en la presente Ley.
-
-En caso de incumplimiento de los requisitos antes señalados, la autoridad tendrá por no interpuesto el recurso.
+(DEROGADO, P.O. 2 DE MARZO DE 2012)
 
 ###### Artículo 72.
 
-La autoridad deberá resolver el recurso dentro de los diez días hábiles siguientes a su recepción.
+(DEROGADO, P.O. 2 DE MARZO DE 2012)
 
 ### Capítulo Tercero. Del recurso de revisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 73.
 
-En contra de las resoluciones dictadas en aplicación de esta Ley y de las disposiciones derivadas de la misma, con excepción del apercibimiento y amonestación, podrá interponerse el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación.
+En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y demás ordenamientos derivados de ésta, podrá interponerse el recurso de revisión, dentro de los quince días hábiles siguientes a la fecha de su notificación.
 
 Transcurrido el plazo a que se refiere el párrafo anterior, sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
 
-Asimismo, podrá interponerse dicho recurso cuando la Secretaría de Educación no dé respuesta a las solicitudes de autorización o de reconocimiento de validez oficial de estudios, en un plazo de sesenta días hábiles siguientes a su presentación.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+Asimismo, podrá interponerse dicho recurso cuando la Secretaría de Educación no de respuesta en un plazo de sesenta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios.
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
 ###### Artículo 74.
 
-El escrito de interposición del recurso de revisión, deberá presentarse ante la autoridad que emitió el acto impugnado y será resuelto por su superior jerárquico, salvo que el acto provenga del titular de la dependencia, en cuyo caso, será resuelto por él mismo.
+El recurso se interpondrá por escrito ante la autoridad que emitió el acto impugnado u omitió responder la solicitud correspondiente, el cual deberá remitirlo a su superior jerárquico a efecto de que sea resuelto por este último.
 
-La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente y el número de anexos que se acompañe. En el mismo acto, devolverá copia del recurso debidamente sellada o firmada al interesado.
+Salvo que el acto impugnado u omisión de responder la solicitud correspondiente, haya sido emitido por el superior jerárquico, el recurso se interpondrá ante éste y será resuelto por él mismo.
+
+La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente y el número de anexos que se acompañe. En el mismo acto devolverá copia debidamente sellada o firmada al interesado.
 
 ###### Artículo 75.
 
@@ -1059,7 +1131,9 @@ V. En su caso, copia de la resolución o acto que se impugna y de la notificaci�
 
 VI. Las pruebas que ofrezca, en términos de lo aplicable en la presente Ley y demás disposiciones legales aplicables.
 
-En caso de incumplimiento de los requisitos antes señalados, la autoridad tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+
+En caso de incumplimiento de los requisitos antes señalados, la autoridad educativa tendrá por no interpuesto el recurso.
 
 ###### Artículo 76.
 
@@ -1075,9 +1149,11 @@ II. De la conclusión del desahogo de las pruebas o, en su caso, cuando haya tra
 
 La resolución del recurso se notificará a los interesados o a sus representantes legales, personalmente o por correo certificado con acuse de recibo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2012)</small>
+
 ###### Artículo 78.
 
-La ejecución del acto reclamado se suspenderá, siempre que concurran los siguientes requisitos:
+En el escrito de interposición del recurso o con posterioridad se podrá solicitar la suspensión de la ejecución del acto reclamado, el cual será suspendido siempre que concurran los siguientes requisitos:
 
 I. Lo solicite expresamente el recurrente;
 
@@ -1139,7 +1215,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE OCTUBRE DE 2009.
 
@@ -1160,3 +1236,25 @@ P.O. 22 DE ABRIL DE 2011.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 2 DE MARZO DE 2012.
+
+LEY POR LA QUE SE REFORMA EL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 2 DE MARZO DE 2012
+
+LEY POR LA QUE SE ADICIONA UNA FRACCIÓN IV AL ARTICULO 2, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 7, SE ADICIONA UNA FRACCIÓN XV AL ARTICULO 11, SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES XIII Y XIV, RECORRIÉNDOSE LAS SUBSECUENTES, DEL ARTICULO 13, SE ADICIONA UN ARTICULO 14 BIS A, SE ADICIONA UNA FRACCIÓN VIII AL ARTICULO 16, SE ADICIONA UNA NUEVA FRACCIÓN XVI Y UNA FRACCIÓN XVII, RECORRIÉNDOSE LAS SUBSECUENTES, TODAS DEL ARTICULO 33, SE REFORMA LA FRACCIÓN III DEL ARTICULO 52, SE REFORMAN LOS ARTÍCULOS 68 Y 69, SE DEROGA EL CAPITULO SEGUNDO DEL TITULO OCTAVO Y LOS ARTÍCULOS 70, 71 Y 72 QUE LO INTEGRAN, SE REFORMAN LOS ARTÍCULOS 73, 74, 75 Y 78, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. El titular del Poder Ejecutivo del Estado, emitirá el Reglamento del Consejo Técnico de la Educación dentro de los ciento ochenta días hábiles posteriores a la entrada en vigor de la presente Ley.
+
+Artículo Tercero. El Consejo Técnico de la Educación deberá conformarse dentro de los sesenta días hábiles siguientes a la expedición del Reglamento.
+
+Artículo Cuarto. La Secretaría de Educación del Estado, en un plazo no mayor de seis meses posteriores a la fecha de publicación de esta Ley, expedirá el reglamento que regule el proceso, los requisitos y los mecanismos para el otorgamiento de becas que los particulares que imparten educación están obligados a proporcionar, de conformidad con este ordenamiento legal.
+
+Artículo Quinto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
