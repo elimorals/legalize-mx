@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2006-04-08"
+last_updated: "2012-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2012.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -83,9 +83,17 @@ IV. La protección, preservación y saneamiento de barrancas, humedales, bahías
 
 V. La prevención y el control de la contaminación del aire, agua y suelo;
 
-VI. El establecimiento de zonas intermedias de salvaguarda, con motivo de la presencia de actividades que no sean consideradas altamente riesgosas y que pudieran ocasionar daños a la salud pública, al equilibrio de los ecosistemas o al ambiente; y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2012)</small>
 
-VII. La forestación, reforestación y saneamiento de los centros de población.
+VI. El establecimiento de zonas intermedias de salvaguarda, con motivo de la presencia de actividades que no sean consideradas altamente riesgosas y que pudieran ocasionar daños a la salud pública, al equilibrio de los ecosistemas o al ambiente;
+
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2012)</small>
+
+VII. La forestación, reforestación y saneamiento de los centros de población; y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+VIII. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático.
 
 ###### ARTÍCULO 3º.
 
@@ -116,6 +124,10 @@ XI. Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, ya s
 XII. Biogás: El gas generado por la descomposición microbiológica de la materia orgánica;
 
 XIII. Biotecnología: Toda aplicación tecnológica que utilice recursos biológicos, organismos vivos o sus derivados para la creación o modificación de productos o procesos para usos específicos;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+XIII Bis. Cambio climático: Cambio de clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempos comparables.
 
 XIV. Certificado de bajas emisiones: El documento que expide la Secretaría a las fuentes fijas de su competencia que emitan sustancias o residuos a la atmósfera por debajo de los parámetros máximos permisibles que establecen las normas oficiales mexicanas y las normas técnicas ambientales estatales;
 
@@ -154,6 +166,10 @@ XXX. Equilibrio ecológico: La relación de interdependencia entre los elementos
 XXXI. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados, sin la inducción del ser humano;
 
 XXXII. Emergencia ecológica: La situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a los elementos y recursos naturales, pone en peligro a uno o varios ecosistemas;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+XXXII Bis. Emisión: Liberación al ambiente de toda sustancia, en cualquiera de sus estados físicos, o cualquier tipo de energía, proveniente de una fuente.
 
 XXXIII. Estado: El Estado de Colima;
 
@@ -371,7 +387,17 @@ VII. Proponer a la Federación la declaratoria de zonas de restauración ecológ
 
 VIII. Expedir el programa ambiental para el desarrollo sustentable del Estado, los programas de ordenamiento ecológico y territorial y demás disposiciones necesarias para proveer el cumplimiento de la misma; y
 
-IX. Las demás que por disposición expresa de ley le correspondan.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2012)</small>
+
+IX. La atención coordinada con la Federación de asuntos que afecten el equilibrio ecológico del Estado de Colima en relación con otra Entidad Federativa, cuando así se considere conveniente;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+X. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático; y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+XI. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente le conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
 ###### ARTÍCULO 18.
 
@@ -493,7 +519,17 @@ XII. Llevar y actualizar el registro municipal de las descargas a las redes de d
 
 XIII. Vigilar el cumplimiento de las normas oficiales mexicanas en las materias y supuestos relacionados con la fracción III de este artículo; y
 
-XIV. Los demás asuntos que les concedan esta Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o al Estado.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2012)</small>
+
+XIV. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+XV. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático; y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+
+XVI. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
 
 ###### ARTÍCULO 20.
 
@@ -1157,9 +1193,11 @@ VI. La formación de especialistas así como la investigación y el desarrollo t
 
 Para efectos de lo dispuesto por el artículo anterior, la Secretaría establecerá un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios masivos de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y aptitudes orientadas a favorecer las transformaciones necesarias para alcanzar el desarrollo ambiental, así como la conservación y restauración de los recursos naturales.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 76.
 
-La Secretaría y los ayuntamientos, en coordinación con las autoridades competentes, realizarán y promoverán programas de investigación científica y para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, así como para propiciar la sustentabilidad en el aprovechamiento de los recursos naturales y la preservación y protección de los ecosistemas. Para ello podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+La Secretaría y los ayuntamientos en coordinación con las autoridades competentes, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 ### CAPÍTULO XIII. INFORMACIÓN AMBIENTAL
 
@@ -2033,129 +2071,129 @@ Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen
 
 Las autoridades estatales y municipales, en los casos de aguas de su competencia, se coordinarán con la Federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de contaminantes o excesos de desechos orgánicos y aplicar las medidas que procedan o, en su caso, promover su ejecución. Igualmente cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)</small>
 
 ### CAPÍTULO IX. DISPOSICIONES COMPLEMENTARIAS RELATIVAS A MATERIALES Y RESIDUOS PELIGROSOS
 
 ###### ARTÍCULO 157.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 158.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 159.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 160.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 161.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 162.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 163.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 164.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 165.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 166.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 167.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 168.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 169.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 170.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 171.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 172.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 173.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 174.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 175.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 176.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 177.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 178.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 179.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 180.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 181.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 182.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 183.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 184.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 185.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ###### ARTÍCULO 186.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA, P.O. 8 DE ABRIL DE 2006)
 
 ### CAPÍTULO X. ACTIVIDADES NO CONSIDERADAS ALTAMENTE RIESGOSAS
 
@@ -2775,7 +2813,7 @@ Dado en Palacio de Gobierno, a los 14 días del mes de junio del año dos mil do
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE ABRIL DE 2006.
 
@@ -2794,3 +2832,7 @@ QUINTO.- Todos los actos, procedimientos y recursos administrativos relacionados
 SEXTO.- El Ejecutivo del Estado expedirá el Reglamento de la presente Ley a más tardar 90 días después de su publicación.
 
 SÉPTIMO.- LA Secretaría, deberá expedir a más tardar 90 días después de la publicación, los programas que esta Ley establece.
+
+P.O. 3 DE MARZO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
