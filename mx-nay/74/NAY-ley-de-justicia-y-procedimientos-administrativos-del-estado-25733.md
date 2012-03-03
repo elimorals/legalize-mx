@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-257
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-17"
-last_updated: "2011-01-22"
+last_updated: "2012-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002
 
@@ -91,9 +91,9 @@ PROCESO ADMINISTRATIVO
 
 Las promociones y actuaciones deben escribirse en lengua española. Cuando las promociones no se presenten escritas en español, se acompañarán de su correspondiente traducción; en caso de que no se exhiba ésta, la autoridad administrativa o el Tribunal la obtendrán, de manera oficiosa, de traductor adscrito, preferentemente, a las dependencias públicas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2009)</small>
 
 ###### Artículo 6o.
 
@@ -105,7 +105,7 @@ Para documentar el procedimiento y proceso administrativo podrán utilizarse imp
 
 En las actuaciones se escribirán con letra las fechas y cantidades. No se emplearán abreviaturas ni se enmendarán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose con toda precisión el error cometido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -121,7 +121,7 @@ En caso de duda sobre la autenticidad de la firma, la autoridad administrativa o
 
 El uso de medios electrónicos será optativo para el interesado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -243,7 +243,7 @@ Las notificaciones se efectuarán, a más tardar, el día siguiente al en que se
 
 Las notificaciones se harán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -277,7 +277,7 @@ Las notificaciones surtirán sus efectos:
 
 I. Las personales, a partir del día siguiente hábil de la fecha en que fueren practicadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -307,7 +307,7 @@ III. En los plazos señalados en años o meses, y en los que se fije una fecha d
 
 IV. Los plazos señalados en horas, y los relativos al cumplimiento del acuerdo de suspensión del acto impugnado, se contarán de momento a momento.
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTE TÍTULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 33.
 
@@ -317,7 +317,7 @@ Las disposiciones sobre pruebas previstas en el Título Cuarto, serán aplicable
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE CAPITULO DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTE CAPÍTULO DEL TÍTULO TERCERO DE LA LEY)</small>
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -345,7 +345,7 @@ Los particulares podrán participar en el procedimiento administrativo con el ca
 
 Los particulares podrán autorizar para oír notificaciones en su nombre a cualquier persona con capacidad legal, quien queda facultada para ofrecer y rendir pruebas, presentar alegatos, recibir documentos y formular otras promociones en el procedimiento administrativo. Esta persona no podrá desistirse del procedimiento ni delegar sus facultades en terceros.
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE CAPITULO DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTE CAPÍTULO DEL TÍTULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 40.
 
@@ -363,7 +363,7 @@ Las peticiones de los particulares deberán hacerse por escrito de manera pacíf
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO ORDINARIO
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTA SECCIÓN DEL TÍTULO TERCERO DE LA LEY)</small>
 
 #### SECCIÓN PRIMERA. DE LA INICIACIÓN DEL PROCEDIMIENTO Y DE LAS PETICIONES
 
@@ -377,7 +377,7 @@ I. Autoridad a la que se dirige;
 
 II. Nombre del peticionario y, en su caso, de quien promueva en su nombre, adjuntando el documento con que este último acredite su personalidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -399,9 +399,9 @@ En las peticiones en las que se formulen denuncias o quejas que se presenten ant
 
 Cuando el escrito de petición carezca de alguno de los datos o documentos que se indican en el artículo 43 del presente ordenamiento, la autoridad administrativa requerirá al promovente para que, en un plazo de tres días, los proporcione, apercibiéndole, según corresponda, en el caso de que no los presentare.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -417,7 +417,7 @@ Cuando un escrito sea presentado ante una autoridad administrativa incompetente,
 
 En el caso de que un servidor público tenga impedimento para conocer de algún asunto, hará la manifestación al superior jerárquico, para que califique de plano el impedimento y notifique al particular interesado. En el supuesto de que proceda, el superior jerárquico designará quien deba sustituir al servidor impedido.
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTA SECCIÓN DEL TÍTULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 49.
 
@@ -511,7 +511,7 @@ En los casos de actos fiscales, decretos de expropiación, medidas de seguridad,
 
 Cuando sea necesario el desahogo de pruebas supervinientes con posterioridad a la celebración de la audiencia indicada en el artículo anterior, la autoridad administrativa fijará el día y hora para tal efecto, dentro de un plazo no mayor de los diez días siguientes a la fecha en que haya tenido verificativo la referida audiencia. Las pruebas supervinientes podrán presentarse hasta antes del dictado de la resolución.
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTA SECCIÓN DEL TÍTULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 56.
 
@@ -601,7 +601,7 @@ Tratándose de resoluciones desfavorables a los derechos e intereses legítimos 
 
 Los actos administrativos legalmente emitidos tienen fuerza ejecutiva de acuerdo con las disposiciones legales aplicables, debiendo ser ejecutados, salvo los casos en que se otorgue legalmente la suspensión.
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTE CAPITULO DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTE CAPÍTULO DEL TÍTULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 70.
 
@@ -961,7 +961,7 @@ Las garantías constituidas para asegurar el interés fiscal se harán efectivas
 
 Cuando la garantía fuere dinero en efectivo depositado en la institución de crédito que corresponda, será declarada en definitiva la aplicación del depósito a favor del erario público y enterado su monto en la oficina ejecutora correspondiente.
 
-> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CODIGO, NO SERA APLICABLE LO DISPUESTO EN ESTA SECCION DEL TITULO TERCERO DE LA LEY)</small>
+> <small>(N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE FECHA 22 DE ENERO DE 2011, A LA ENTRADA EN VIGOR DEL CÓDIGO, NO SERÁ APLICABLE LO DISPUESTO EN ESTA SECCIÓN DEL TÍTULO TERCERO DE LA LEY)</small>
 
 ###### Artículo 115.
 
@@ -987,7 +987,7 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad a
 
 El escrito de interposición del recurso deberá llenar los siguientes requisitos formales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -1037,7 +1037,7 @@ Cuando sea procedente el recurso, se dictará acuerdo sobre su admisión, en el 
 
 La autoridad administrativa competente desechará el recurso, cuando:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -1185,7 +1185,69 @@ Los magistrados percibirán sus emolumentos y prestaciones de acuerdo con lo que
 
 Los magistrados durarán en su encargo 6 años, con la posibilidad de un nuevo nombramiento por una sola vez y por el mismo periodo. Sólo podrán ser privados de su cargo por el Congreso, en los casos y de acuerdo con el procedimiento que marca la Constitución Política y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DE LA CARRERA JURISDICCIONAL ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2012)</small>
+
+###### Artículo 149 Bis.
+
+El Tribunal contará con un sistema profesional de carrera jurisdiccional, basado en la igualdad de oportunidades, reglas y procedimientos claros, justos y equitativos, a través de los cuales se determine el ingreso, permanencia y desarrollo de sus servidores públicos, evaluando su capacidad, desempeño y méritos, en cuyo caso los principios que deberá observar el personal de carrera en su desempeño público profesional, son los siguientes:
+
+I. Legalidad;
+
+II. Honradez;
+
+III. Eficiencia;
+
+IV. Imparcialidad;
+
+V. Lealtad;
+
+VI. Profesionalismo;
+
+VII. Eficacia;
+
+VIII. Excelencia;
+
+IX. Honestidad, e
+
+X. Independencia.
+
+Para el desarrollo del personal de carrera, se tendrán en cuenta la profesionalización y la evaluación del desempeño. Ésta se sustentará en el establecimiento de parámetros de rendimiento, mérito, cumplimiento de objetivos y funciones en el puesto, productividad, disciplina institucional, responsabilidad y aportaciones al trabajo institucional, que permitan una valoración constante del personal.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2012)</small>
+
+###### Artículo 149 Ter.
+
+El sistema que para tal efecto establezca el Tribunal, abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos, de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas, de acuerdo con los procedimientos y criterios establecidos en el Estatuto correspondiente.
+
+Con base en lo previsto en este artículo, el Tribunal establecerá y regulará, mediante disposiciones generales, el sistema de carrera de los servidores públicos previstos en el artículo 140 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2012)</small>
+
+###### Artículo 149 Quáter.
+
+El desarrollo del personal de carrera se hará en función a los recursos disponibles y programas para tal fin, por lo que el Tribunal tomará en consideración:
+
+I. La ocupación de plazas vacantes;
+
+II. Las promociones salariales;
+
+III. El desempeño de comisiones y cargos dentro de las áreas de las Entidades;
+
+IV. La profesionalización adquirida;
+
+V. El reconocimiento y otorgamiento de estímulos e incentivos por desempeño sobresaliente;
+
+VI. El financiamiento a la formación profesional, y
+
+VII. Las garantías de permanencia en el empleo.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2012)</small>
+
+Artículo 149 Quintus.- Se entenderán por vacantes las plazas en los puestos de la carrera jurisdiccional que se encuentren desocupadas de manera temporal o definitiva.
+
+Las vacantes se ocuparán mediante incorporación temporal, adquisición de titularidad o reincorporación de personal de carrera. La Sala podrá designar, de entre el personal de carrera jurisdiccional, de manera interina y hasta por seis meses, al sustituto que ocupará una vacante en algún puesto que no admita ausencia de su titular. El itinerario no podrá renovarse y una vez transcurridos los seis meses señalados, la plaza vacante tendrá que ser sometida a concurso.
 
 ###### Artículo 138.
 
@@ -1197,11 +1259,13 @@ Las licencias de los magistrados, cuando no excedan de 90 días, serán concedid
 
 Los magistrados que gocen de licencia no podrán desempeñar ninguno de los cargos a que alude la fracción VII del artículo 134 de esta ley.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
+
 ###### Artículo 140.
 
-El Tribunal contará con un secretario general de acuerdos, secretarios proyectistas, actuarios, defensores de lo administrativo, jefes de unidad y demás servidores públicos necesarios para su funcionamiento.
+El Tribunal contará con un secretario general de acuerdos, secretarios proyectistas, secretarios de acuerdos, actuarios, defensores de lo administrativo, jefes de unidad y demás servidores públicos necesarios para su funcionamiento.
 
-El ingreso y promoción de estos servidores públicos se determinará por el Tribunal tomando en cuenta los factores de honestidad, preparación, eficiencia y antigüedad, de acuerdo con el sistema de carrera del Tribunal.
+El ingreso, permanencia y desarrollo de los servidores públicos del Tribunal se determinará en función a los recursos disponibles y programas para tal fin, tomando en cuenta los factores de honestidad, preparación, eficiencia y antigüedad, de acuerdo con lo dispuesto en esta Ley, el reglamento interior del Tribunal y el Estatuto.
 
 ###### Artículo 141.
 
@@ -1305,6 +1369,8 @@ XII. Publicar la jurisprudencia del Tribunal, así como aquellas sentencias que 
 
 XIII. Las demás que establezca esta ley.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE MARZO DE 2012)</small>
+
 ###### Artículo 150.
 
 Procede el juicio contencioso administrativo en contra de:
@@ -1365,7 +1431,7 @@ En el proceso administrativo no procederá la gestión oficiosa, salvo lo establ
 
 La representación de las autoridades corresponderá a los servidores públicos que señalen, en su caso, las disposiciones legales aplicables. Cuando las partes tengan reconocida la personalidad ante la autoridad administrativa, ésta será admitida en el proceso administrativo, siempre que se compruebe esa circunstancia con las constancias respectivas.
 
-#### SECCIÓN SEGUNDA. DE LA DEMANDA
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 155.
 
@@ -1413,7 +1479,7 @@ c)Cuando, con motivo de la contestación, se introduzcan cuestiones que no sean 
 
 La demanda y, en lo conducente, su ampliación, deberá contener los siguientes requisitos formales:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -1465,7 +1531,7 @@ V. El pliego de posiciones, el interrogatorio para el desahogo de la prueba test
 
 Cuando haya necesidad de impugnar actos privativos de libertad decretados por autoridad administrativa, la demanda podrá presentarse por cualquier persona, a nombre del actor, en forma escrita o verbal. El magistrado instructor dictará las medidas necesarias para que, en su caso, el personal del Tribunal documente la demanda verbal y el actor la ratifique con posterioridad a su admisión.
 
-#### SECCIÓN TERCERA. DE LA CONTESTACIÓN DE DEMANDA
+#### SECCIÓN SEGUNDA. DE LA DEMANDA
 
 ###### Artículo 165.
 
@@ -1481,7 +1547,7 @@ El magistrado instructor, antes de desechar cualquier prueba, deberá prevenir a
 
 La Sala desechará la demanda, cuando:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2009)</small>
 
@@ -1567,7 +1633,7 @@ En los casos en que proceda la suspensión pero pueda ocasionar daños o perjuic
 
 La suspensión otorgada quedará sin efecto si el tercero da, a su vez, caución bastante para que las cosas se mantengan en el estado en que se encontraban al momento de la violación y pagar los daños y perjuicios que sobrevengan al actor en el caso de que éste obtuviere sentencia favorable. Para que surta efecto, la caución que ofrezca el tercero, deberá cubrir previamente el monto de la que hubiere otorgado el actor.
 
-#### SECCIÓN CUARTA. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
+#### SECCIÓN TERCERA. DE LA CONTESTACIÓN DE DEMANDA
 
 ###### Artículo 179.
 
@@ -1579,7 +1645,7 @@ El acuerdo del magistrado instructor que conceda la suspensión del acto impugna
 
 El acuerdo en que se niegue la suspensión deja expedita la facultad de la autoridad demandada para la ejecución del acto impugnado, aun cuando se interponga el recurso de reconsideración; pero si se revoca el acuerdo recurrido y se concede la suspensión, ésta surtirá sus efectos de manera inmediata.
 
-#### SECCIÓN QUINTA. DE LOS INCIDENTES
+#### SECCIÓN CUARTA. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
 
 ###### Artículo 181
 
@@ -1603,7 +1669,7 @@ Contestada la demanda, el magistrado examinará el expediente, y si encontrare a
 
 En cualquier momento de la tramitación del proceso administrativo, las partes podrán llegar a arreglos conciliatorios que pongan fin al asunto, siempre que no sean contrarios a las disposiciones legales aplicables. Los acuerdos o convenios respectivos, aprobados por el magistrado instructor, producirán todos los efectos jurídicos inherentes a una sentencia ejecutoria.
 
-#### SECCIÓN SEXTA. DE LAS REGLAS GENERALES DE LAS PRUEBAS
+#### SECCIÓN QUINTA. DE LOS INCIDENTES
 
 ###### Artículo 186
 
@@ -1617,7 +1683,7 @@ En el procedimiento o el proceso administrativo se admitirán toda clase de prue
 
 El Tribunal podrá decretar, en todo tiempo, sea cual fuere la naturaleza del caso, la práctica, repetición o ampliación de cualquier diligencia probatoria, o bien acordar la exhibición o desahogo de pruebas, siempre que se estimen necesarias y sean conducentes para el conocimiento de la verdad sobre el asunto. Se notificará oportunamente a las partes, a fin de que puedan intervenir, si así conviene a sus intereses.
 
-#### SECCIÓN SÉPTIMA. DE LA CONFESIONAL
+#### SECCIÓN SEXTA. DE LAS REGLAS GENERALES DE LAS PRUEBAS
 
 ###### Artículo 189.
 
@@ -1627,7 +1693,7 @@ Los actos administrativos se presumirán legales; sin embargo, las autoridades a
 
 Sólo los hechos estarán sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes extranjeras.
 
-#### SECCIÓN OCTAVA. DE LOS DOCUMENTOS PÚBLICOS Y PRIVADOS
+#### SECCIÓN SÉPTIMA. DE LA CONFESIONAL
 
 ###### Artículo 191.
 
@@ -1637,7 +1703,7 @@ Los hechos notorios no necesitarán ser probados y la sala del Tribunal deberán
 
 Los servidores públicos y terceros estarán obligados, en todo tiempo, a prestar auxilio al Tribunal en la averiguación de la verdad; en consecuencia, deberán, sin demora, exhibir los documentos y los objetos que tuvieren en su poder, así como declarar, cuando para ello fueren requeridos. El Tribunal tiene la facultad de compeler a los servidores públicos y a terceros por los medios de apremio para que cumplan con esta obligación; en caso de oposición, oirá las razones en que la funden y resolverá lo conducente.
 
-#### SECCIÓN NOVENA. DE LA TESTIMONIAL
+#### SECCIÓN OCTAVA. DE LOS DOCUMENTOS PÚBLICOS Y PRIVADOS
 
 ###### Artículo 193.
 
@@ -1713,7 +1779,7 @@ Las respuestas serán categóricas en sentido afirmativo o negativo, pero quiene
 
 Terminado el interrogatorio, la parte que lo formuló puede articular, oral y directamente, en el mismo acto y previo permiso del Tribunal, nuevas posiciones al absolvente, previa calificación de las mismas.
 
-#### SECCIÓN DÉCIMA. DE LA INSPECCIÓN
+#### SECCIÓN NOVENA. DE LA TESTIMONIAL
 
 ###### Artículo 204.
 
@@ -1723,7 +1789,7 @@ Si la parte absolvente se negare a contestar, contestare con evasivas o manifest
 
 El Tribunal puede, libremente, en el acto de la diligencia, interrogar al absolvente sobre todos los hechos y circunstancias que sean conducentes a la averiguación de la verdad.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LA PERICIAL
+#### SECCIÓN DÉCIMA. DE LA INSPECCIÓN
 
 ###### Artículo 235.
 
@@ -1753,7 +1819,7 @@ Firmadas las declaraciones por los que las hubieren producido o, en su defecto, 
 
 En caso de que la persona que tuviere que declarar no pudiere ocurrir a la diligencia, por enfermedad debidamente comprobada a criterio del Tribunal, se señalará nueva fecha para el desahogo de la prueba, y de subsistir el impedimento, el personal del Tribunal se trasladará al lugar donde la persona se encuentre, para el desahogo de la diligencia, en presencia de la otra parte, en su caso.
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LA PRESUNCIONAL
+#### SECCIÓN DÉCIMA PRIMERA. DE LA PERICIAL
 
 ###### Artículo 237.
 
@@ -1825,7 +1891,7 @@ Si la parte interesada no tuviere los documentos a su disposición, designará e
 
 La presentación de documentos públicos podrá hacerse con copia simple o fotostática, si el interesado manifestare que carece del original o copia certificada, pero no producirá aquélla ningún efecto si antes del dictado de la resolución respectiva no se exhibiere el documento con los requisitos necesarios para que haga fe en el juicio o en el expediente correspondiente.
 
-#### SECCIÓN DÉCIMA TERCERA. DE LA INSTRUMENTAL
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA PRESUNCIONAL
 
 ###### Artículo 242.
 
@@ -1841,7 +1907,7 @@ El que tiene a su favor una presunción legal, sólo está obligado a probar el 
 
 Las presunciones humanas admiten prueba en contrario.
 
-#### SECCIÓN DÉCIMA CUARTA. DE LAS FOTOGRAFÍAS Y DEMÁS ELEMENTOS APORTADOS POR LA CIENCIA
+#### SECCIÓN DÉCIMA TERCERA. DE LA INSTRUMENTAL
 
 ###### Artículo 245.
 
@@ -1851,7 +1917,7 @@ La instrumental es el conjunto de actuaciones que obran en el expediente formado
 
 El Tribunal está obligado a tomar en cuenta las actuaciones que obren en el expediente.
 
-#### SECCIÓN DÉCIMA QUINTA. DE LA VALORACIÓN DE LA PRUEBA
+#### SECCIÓN DÉCIMA CUARTA. DE LAS FOTOGRAFÍAS Y DEMÁS ELEMENTOS APORTADOS POR LA CIENCIA
 
 ###### Artículo 247.
 
@@ -1861,7 +1927,7 @@ Para acreditar hechos o circunstancias que tengan relación con el asunto que se
 
 Como medio de prueba deben admitirse también los registros dactiloscópicos, fonográficos y demás descubrimientos de la ciencia, la técnica o arte que produzcan convicción en el ánimo del Tribunal.
 
-#### SECCIÓN DÉCIMA SEXTA. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
+#### SECCIÓN DÉCIMA QUINTA. DE LA VALORACIÓN DE LA PRUEBA
 
 ###### Artículo 249.
 
@@ -1913,7 +1979,7 @@ Las fotografías, copias fotostáticas y demás pruebas aportadas por la ciencia
 
 La valoración de las pruebas se hará de acuerdo con las normas de la presente sección, a menos que por el enlace de las pruebas rendidas y de las presunciones formadas, el Tribunal adquiera convicción distinta, respecto del asunto. En este caso, deberá motivar cuidadosamente esta parte de su resolución.
 
-#### SECCIÓN DÉCIMA SÉPTIMA. DE LA AUDIENCIA
+#### SECCIÓN DÉCIMA SEXTA. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
 
 ###### Artículo 260.
 
@@ -1951,7 +2017,7 @@ IV. Cuando la autoridad demandada haya satisfecho claramente las pretensiones de
 
 V. En los demás casos en que por disposición legal haya impedimento para emitir resolución definitiva.
 
-#### SECCIÓN DÉCIMA OCTAVA. DE LA SENTENCIA
+#### SECCIÓN DÉCIMA SÉPTIMA. DE LA AUDIENCIA
 
 ###### Artículo 262.
 
@@ -1975,7 +2041,7 @@ Concluido el desahogo de las pruebas, las partes podrán alegar en forma escrita
 
 Una vez oídos los alegatos de las partes, la Sala resolverá el juicio dentro de un término de veinte días y sólo por el número de constancias acumuladas podrá ampliarse hasta treinta días.
 
-#### SECCIÓN DÉCIMA NOVENA. DEL CUMPLIMIENTO DE LA SENTENCIA
+#### SECCIÓN DÉCIMA OCTAVA. DE LA SENTENCIA
 
 ###### Artículo 266.
 
@@ -2043,27 +2109,45 @@ II. Las que, admitiendo algún recurso, no fueren recurridas, o habiendo sido re
 
 III. Las consentidas expresamente por las partes o sus representantes legítimos.
 
+#### SECCIÓN DÉCIMA NOVENA. DEL CUMPLIMIENTO DE LA SENTENCIA
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
+
 ###### Artículo 272.
 
-Cuando hubiere causado ejecutoria una sentencia favorable al actor, el Presidente de Tribunal, por oficio y sin demora alguna la comunicará, a las autoridades demandadas para su cumplimiento.
+Cuando hubiere causado ejecutoria una sentencia favorable al actor, el Presidente del Tribunal, por oficio y sin demora alguna, la comunicará a las autoridades demandadas para su cumplimiento.
 
-En el propio oficio en que se hubiere (sic) la notificación a los demandados, se les prevendrá para que informen sobre el cumplimiento que dieren a la sentencia respectiva.
+En el propio oficio en que se hiciere la notificación a los demandados, se les prevendrá para que informen sobre el cumplimiento que dieren a la sentencia respectiva. La autoridad condenada cumplirá con el fallo de manera expedita y en los términos de esta Ley, de lo contrario se hará acreedora a las sanciones establecidas en el artículo siguiente, sin perjuicio de la responsabilidad penal o administrativa en que incurriere con motivo de su desacato.
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
 
 ###### Artículo 273.
 
-Si dentro de los tres días siguientes de la notificación a los demandados, la sentencia no quedare cumplida, o no se encontrare en vías de cumplimiento, la Sala, de oficio o a petición de parte, dará vista a las autoridades para que manifiesten lo que a su derecho convenga. Se formulará la misma vista cuando el actor manifestare la existencia defecto o exceso en la ejecución de la sentencia, o que se hubiere repetido el acto impugnado.
+Si dentro de los tres días siguientes de la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala, de oficio o a petición de parte, dará vista a las autoridades para que manifiesten lo que a su derecho convenga, apercibiéndolas en ese mismo acto, que en caso de no desahogar la misma, se harán acreedoras a la multa de que trata el párrafo siguiente. Se formulará la misma vista cuando el actor manifestare que existe defecto o exceso en la ejecución de la sentencia, o que se ha repetido el acto impugnado.
 
-La Sala resolverá si los demandados han cumplido con la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado; de lo contrario, los requerirá para que cumplan la decisión respectiva en un plazo de tres días posteriores a aquél en que surta efectos la notificación, previniéndolos que, en caso de renuencia, se les impondrán multas, a cada uno hasta por la cantidad equivalente de 50 a 1,000 días de salario mínimo vigente en el estado. Cuando la naturaleza del acto lo permita, el Magistrado comisionará al secretario de acuerdos o actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
+La sala resolverá si los demandados han cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado; de lo contrario, los requerirá para que cumplan la decisión respectiva en un plazo de tres días posteriores a aquél en que surta efectos la notificación, previniéndolos que, en caso de renuencia, se les impondrá multa, a cada uno hasta por la cantidad equivalente de 50 a 1,000 días de salario mínimo vigente en el estado.
+
+Transcurrido el plazo a que alude el párrafo anterior, sin que las autoridades hubieren dado cumplimiento a la sentencia, se decretará en su caso la ejecución forzosa de la misma, haciéndose efectivo el apercibimiento de la multa a que alude el párrafo anterior. Si existe algún acto material que ejecutar, cuando la naturaleza del acto lo permita, lo podrá hacer la Sala por sus propios medios. Si se trata de dictar una nueva resolución y en la sentencia se hubiese definido el sentido de la misma, el Magistrado que corresponda procederá a dictarla en rebeldía de la autoridad, dentro de un término que no excederá de cinco días. Lo anterior, sin perjuicio de las responsabilidades en que pueda incurrir la autoridad demandada.
+
+En los casos en que por la naturaleza del asunto no fuere materialmente posible cumplir con la sentencia en los términos anteriores, o iniciar su cumplimiento dentro del plazo establecido en el primer párrafo de este artículo, el Magistrado que corresponda, a petición de parte, podrá ampliarlo hasta por tres días más· contados a partir del siguiente al en que se notifique a los demandados el requerimiento correspondiente.
+
+Cuando por efecto del cumplimiento de la sentencia se condene a la autoridad al pago de cantidad líquida, se requerirá a la autoridad demandada, a su superior jerárquico, asi como a la dependencia competente para el ejercicio del presupuesto de la entidad pública de que se trate, con el fin de que en un término de quince días realicen las gestiones necesarias para la realización del pago con cargo a la partida presupuestal correspondiente.
+
+En caso de que no existiera partida presupuestal correspondiente o estuviere agotada la misma, en un término de treinta días, las autoridades a que se refiere el párrafo anterior deberán efectuar las gestiones necesarias para la transferencia, ampliación o creación de la partida en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2012)</small>
 
 ###### Artículo 274.
 
-En el supuesto de que la autoridad o servidor público persistieren en su actitud, la Sala, a petición del magistrado instructor, solicitará al titular de la dependencia estatal, municipal u organismo a quien se encuentren subordinados aquéllos, conmine al servidor público responsable para que dé cumplimiento a la sentencia y determinaciones del Tribunal, en un plazo de tres días siguientes a aquél en que surta efectos la notificación, sin perjuicio de que se reitere, cuantas veces sean necesarias la multa impuesta. Cuando la autoridad u organismo no tuvieren superior, el requerimiento se hará directamente a ellos.
+En el supuesto de que la autoridad o servidor público obligados a cumplir, persistieren en su actitud, la Sala, a petición del Magistrado instructor, solicitará al titular de la dependencia estatal, municipal u organismo a quien se encuentren subordinados aquéllos, conmine a los servidores públicos responsables para que den cumplimiento a la sentencia y determinaciones del Tribunal, en un plazo de tres días siguientes a aquél en que surta efectos la notificación, sin perjuicio de que se reitere, cuantas veces sean necesario, la multa impuesta. Cuando la autoridad u organismo no tuvieren superior, el requerimiento se hará directamente a ellos.
 
 Si, no obstante los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala podrá decretar la destitución del servidor público responsable, excepto en el caso del Gobernador, presidentes municipales, síndicos y regidores.
 
 En los casos del Gobernador del estado, presidentes municipales, síndicos y regidores, la Sala formulará, por conducto del presidente del Tribunal y ante el Congreso, la solicitud de juicio político a fin de que el servidor público sea destituido y, en su caso, inhabilitado. En la tramitación y resolución de dicho juicio político se aplicarán las disposiciones relativas de la Constitución Política del Estado Libre y Soberano de Nayarit y de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
 
-Las autoridades requeridas como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades demandadas.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
+
+Las autoridades requeridas como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades demandadas. En cualquier caso, el servidor público sustituto, tendrá el deber de cumplir con los términos de la sentencia condenatoria, e incurrirá, para el caso de desacato, en los mismos términos de responsabilidad que su antecesor.
 
 ###### Artículo 275.
 
@@ -2289,7 +2373,7 @@ El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
@@ -2318,3 +2402,21 @@ A la entrada en vigor de este Código, no será aplicable lo dispuesto en el Tí
 ###### ARTICULO CUARTO.
 
 Para efectos de poner en vigor el uso de medios electrónicos, ópticos o de cualquier otra tecnología, así como de firma electrónica, documentos y sellos digitales, y a fin de que sea válida su utilización, se estará a lo que en su momento sea decretado por el Poder Ejecutivo del Estado.
+
+P.O. 3 DE MARZO DE 2012.
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- Para los efectos de la carrera jurisdiccional prevista en el presente decreto, a su entrada en vigor todos los puestos que ocupen los servidores públicos de confianza en funciones sujetos a la misma, serán considerados de libre designación, en tanto se practiquen las evaluaciones que determine el Tribunal de acuerdo al Estatuto.
+
+Ningún servidor público de confianza en funciones sujeto a la presente Ley, podrá ser considerado personal de carrera antes de dos años a partir de la entrada en vigor de esta Ley.
+
+Artículo tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit, a más tardar dentro de los 180 días posteriores a la entrada en vigor del presente decreto, deberán elaborar y aprobar el Estatuto que regule la carrera jurisdiccional administrativa.
+
+Una vez publicado el Estatuto, todos los cargos vacantes deberán ser asignados a través de concursos públicos y abiertos en tanto el Sistema no opere en su totalidad.
+
+Conforme a los criterios que emita el Tribunal, iniciará la operación del sistema de carrera de manera gradual, condicionado al estudio que se realice sobre las características, particularidades, condiciones, requisitos y perfiles que conforman la estructura del Tribunal, sin excederse del plazo máximo establecido en el párrafo siguiente.
+
+Artículo cuarto.- El Sistema de Carrera Jurisdiccional deberá operar en su totalidad en un periodo que no excederá de tres años a partir de la iniciación de vigencia de esta Ley.
+
+Artículo quinto.- Los procesos de naturaleza contenciosa-administrativa que a la entrada en vigor del presente dictamen, se encuentren pendientes de resolverse, seguirán tramitándose al amparo de la legislación que regía al momento de su incoación.
