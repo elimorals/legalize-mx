@@ -4,7 +4,7 @@ identifier: "COL-codigo-electoral-del-estado-de-colima-82705"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-08-30"
-last_updated: "2011-08-30"
+last_updated: "2012-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # CODIGO ELECTORAL DEL ESTADO DE COLIMA
 
-CODIGO ELECTORAL DEL ESTADO DE COLIMA
+CÓDIGO ELECTORAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2012.
 
 Código publicado en el suplemento No. 1 del Periódico Oficial del Estado de Colima, el martes 30 de agosto de 2011.
 
@@ -3279,25 +3279,29 @@ Al partido político que cumpla con lo dispuesto en el párrafo anterior, indepe
 
 Ningún partido político podrá contar con más de 15 Diputados por ambos principios, salvo el caso del partido político que por sí mismo hubiere obtenido la totalidad de los distritos electorales uninominales, ni que su número representen un porcentaje total del CONGRESO que exceda en 10 puntos a su porcentaje de votación efectiva. Esta disposición no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de diputaciones del total del CONGRESO que rebase la suma de su porcentaje de votación más 10 puntos.
 
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 259.
 
-La asignación de los nueve diputados por el principio de representación proporcional, se efectuará de conformidad con las siguientes reglas:
+Todo partido político que haya obtenido el 2.0% de la votación estatal, tendrá derecho a participar en la asignación de los nueve diputados por el principio de representación proporcional, la cual se efectuará de conformidad con las siguientes bases:
 
-(NOTA: EL 1 DE DICIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2011 Y SU ACUMULADA 27/2011, SE DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. PORCENTAJE MÍNIMO: Es el equivalente al 2.5% de la votación efectiva a que se refiere el primer párrafo del artículo 258 de este CÓDIGO;
 
-I. SE DETERMINARÁ SI ES EL CASO DE APLICAR AL PARTIDO POLÍTICO QUE OBTUVO LA MAYORÍA DE TRIUNFOS EN LOS DISTRITOS, LO DISPUESTO EN EL PÁRRAFO CUARTO DEL ARTÍCULO ANTERIOR Y SE PROCEDERÁ A ASIGNARLE EL NÚMERO DE DIPUTADOS QUE SE REQUIERA PARA AJUSTARLO A DICHOS LÍMITES.
+II. COCIENTE DE ASIGNACIÓN: Es el equivalente de dividir la votación efectiva entre las nueve diputaciones por asignar mediante el principio de representación proporcional; y
 
-CADA DIPUTADO REPRESENTA, PARA LO DISPUESTO EN ESTA FRACCIÓN, EL 4% DE LA INTEGRACIÓN DEL CONGRESO. SI AL SUMAR EL PORCENTAJE DE VOTACIÓN DE UN PARTIDO MÁS 10 PUNTOS LA SUMA EXCEDE EN POR LO MENOS 2 PUNTOS AL MAYOR MÚLTIPLO DE 4 CONTENIDO EN ELLA, SE ASIGNARÁ UN DIPUTADO POR DICHA FRACCIÓN DECIMAL; Y
+III. RESTO MAYOR: Es el remanente más alto entre los restos de las votaciones de cada partido político, una vez hecha la asignación de curules y habiendo aplicado las reglas de porcentaje mínimo y cociente de asignación a que se refieren los incisos b) y c) de este artículo.
 
-(NOTA: EL 1 DE DICIEMBRE DE 2011, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 26/2011 Y SU ACUMULADA 27/2011, SE DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Para la asignación de diputaciones por el principio de representación proporcional se seguirán las siguientes reglas:
 
-II. UNA VEZ REALIZADA LA DISTRIBUCIÓN SEÑALADA EN LA FRACCIÓN ANTERIOR, SE PROCEDERÁ A ASIGNAR EL RESTO DE LAS DIPUTACIONES A LOS DEMÁS PARTIDOS POLÍTICOS CON DERECHO A ELLO, CON BASE EN LOS SIGUIENTES ELEMENTOS:
+a) EL CONSEJO GENERAL, para iniciar con el procedimiento de asignación, primero determinará el porcentaje mínimo y el cociente de asignación a que se refieren las fracciones I y II de este artículo, respectivamente;
 
-A) VOTACIÓN DE ASIGNACIÓN, QUE ES EL RESULTADO DE DEDUCIR DE LA VOTACIÓN EFECTIVA, EL NÚMERO DE VOTOS OBTENIDOS POR LOS PARTIDOS POLÍTICOS EN LOS DISTRITOS EN QUE TRIUNFARON Y LOS DEL PARTIDO POLÍTICO AL QUE SE LE HUBIERE APLICADO LO DISPUESTO EN LA FRACCIÓN I DE ESTE ARTÍCULO;
+b) En una primera ronda, se asignará un diputado a cada partido político que no se encuentre en el supuesto del cuarto párrafo del artículo 258 y que hayan obtenido por lo menos el 2.5% de la votación efectiva.
 
-B) COCIENTE DE ASIGNACIÓN, QUE ES EL RESULTADO DE DIVIDIR LA VOTACIÓN DE ASIGNACIÓN ENTRE EL NÚMERO DE DIPUTACIONES POR REPARTIR;
+De la totalidad de la votación de cada partido político se restarán los votos que hayan sido utilizados en esta ronda de asignación;
 
-C) RESTO MAYOR, QUE ES EL REMANENTE MÁS ALTO ENTRE LOS RESTOS DE LOS VOTOS DE CADA PARTIDO POLÍTICO, DESPUÉS DE HABER PARTICIPADO EN LA DISTRIBUCIÓN DE DIPUTACIONES MEDIANTE EL COCIENTE DE ASIGNACIÓN. EL RESTO MAYOR PODRÁ UTILIZARSE SI AÚN HUBIESEN DIPUTACIONES SIN DISTRIBUIR.
+c) En una segunda ronda y si existieran más diputaciones por asignar, se realizará la asignación por cociente de asignación en base a la votación restante de cada partido político, iniciando con el partido político que haya obtenido el mayor porcentaje de la votación efectiva; dicha distribución se hará en base a la fracción I del artículo 260 de este CÓDIGO; y
+
+d) En una tercera ronda y si existieran más diputaciones por distribuir, se iniciará la repartición por resto mayor, observando lo dispuesto por la fracción II del artículo 260 de este CÓDIGO.
 
 ###### ARTÍCULO 260.
 
@@ -4010,3 +4014,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 30 del mes de agosto del año dos mil once.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, DR. J. JESÚS OROZCO ALFARO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE MARZO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
