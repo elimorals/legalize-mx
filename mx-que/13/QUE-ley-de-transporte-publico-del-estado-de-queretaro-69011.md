@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transporte-publico-del-estado-de-queretaro-69011"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2012-01-20"
+last_updated: "2012-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL 3 DE MAYO DE 2012.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -1422,3 +1424,59 @@ Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicaci�
 Artículo Segundo. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 3 DE MARZO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Transporte Público del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 42, de fecha 17 de junio de 2009.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. El Gobernador del Estado, expedirá los reglamentos necesarios para la ejecución y debida observancia de la presente ley, dentro de los siguientes 12 doce meses contados a partir de su entrada en vigor.
+
+Hasta en tanto se expidan los reglamentos respectivos, serán aplicables en lo conducente, las disposiciones legales vigentes en la materia, en todo lo que no contravenga lo dispuesto en la presente Ley.
+
+Artículo Quinto. El Gobernador del Estado contará con un plazo de doce meses a partir de la entrada en vigencia de la presente Ley, para expedir el Programa Estatal de Transporte y Movilidad.
+
+Artículo Sexto. Esta Ley no dejará insubsistentes los derechos derivados de las concesiones que se hubiesen encontrado vigentes hasta antes de su entrada en vigor, por lo que sus titulares continuarán explotándolas bajo las condiciones que se establecen en la presente ley, y deberán actualizar ante la Dirección de Transporte, sus datos para obtener el nuevo título que ampare su concesión a más tardar dentro de los siguientes seis meses a partir de la entrada en vigor de la presente Ley.
+
+Artículo Séptimo. La Secretaría de Gobierno con el auxilio de la Dirección de Transporte, a efecto de actualizar los registros para contar con un control adecuado de las concesiones del servicio público de transporte, expedirá y publicará en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y ejecutará hasta su conclusión, dentro de los siguientes doce meses a partir de la entrada en vigencia de la presente ley, un "Programa Administrativo de Actualización, Sustitución, Reposición y Reasignación de Concesiones para el Servicio de Transporte Público en todas sus Modalidades", que reemplace las concesiones vigentes hasta antes de la entrada en vigor de la presente ley, por las nuevas concesiones que deberán satisfacer los requisitos y condiciones de la misma, así como su inscripción en el Registro de Transporte Público, previo pago de las contribuciones correspondientes.
+
+Para la determinación y aplicación de las tarifas del servicio de transporte público, la Secretaría de Gobierno implementará un programa que establezca los plazos y condiciones para su aplicación, el cual no podrá exceder de un plazo de doce meses contados a partir de la entrada en vigencia de la presente ley. Hasta en tanto se expida el programa, seguirán siendo aplicables las tarifas vigentes en el Estado.
+
+Artículo Octavo. Cuando la Secretaría de Gobierno encuentre que son erróneos los datos consignados en los títulos de concesión o permisos expedidos con anterioridad a la entrada en vigor de la presente Ley, se le comunicará a su titular para que manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
+
+La Secretaría de Gobierno dictará resolución, con base en la respuesta del interesado y las constancias del expediente y de proceder, ordenará la corrección del título, así como su inscripción en el Registro de Transporte Público.
+
+Artículo Noveno. Los concesionarios que decidan organizarse en asociaciones o sociedades para la mejor prestación del servicio de transporte público, podrán solicitar la reasignación de sus concesiones a favor de la persona moral que al efecto constituyan y que deberá satisfacer los requisitos y condiciones de la presente ley, lo cual se acreditará proporcionando los datos y documentos que les sean requeridos por la Secretaría de Gobierno.
+
+La Secretaría de Gobierno dictará resolución, con base en las constancias del expediente y de proceder, ordenará la reasignación de la concesión, y su consolidación en su caso, así como su inscripción en el Registro de Transporte Público.
+
+Artículo Décimo. La Secretaría de Gobierno con el auxilio de la Dirección de Transporte, a efecto de actualizar los registros para contar con un control adecuado de las concesiones del servicio de transporte especializado, expedirá y publicará en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga" y ejecutará hasta su conclusión, dentro de los siguientes doce meses a partir de la entrada en vigencia de la presente ley, un "Programa Administrativo de Actualización, Reposición, Sustitución y Reasignación de Concesiones para el Servicio de Transporte Especializado en todas s.us Modalidades" que reemplace los permisos vigentes hasta antes de la entrada en vigor de la presente ley, por las nuevas concesiones que deberán satisfacer los requisitos y condiciones de la misma, así como su inscripción en el Registro de Transporte Público, previo pago de las contribuciones correspondientes.
+
+Los permisionarios del servicio de transporte especializado en cualquiera de sus modalidades, que actualmente se dedican a prestar el servicio, estarán obligados a participar en el referido Programa, para obtener la concesión correspondiente a efecto de seguir prestando el servicio, y deberán satisfacer los requisitos y condiciones de la presente ley, lo cual se acreditará proporcionando los datos y documentos que les sean requeridos por la Secretaría de Gobierno.
+
+Artículo Décimo Primero. La revisión física y mecánica de los vehículos destinados a la prestación del servicio de transporte en cualquiera de sus modalidades deberá realizarse conforme al calendario que emita la Dirección de Transporte en los términos de la presente ley, y su aprobación será una condición necesaria para el otorgamiento del refrendo del año correspondiente.
+
+Artículo Décimo Segundo. Los concesionarios y permisionarios del servicio de transporte público y especializado en todas sus modalidades, contarán con un plazo de doce meses contados partir (sic) de la entrada en vigencia de la presente ley, para acreditar que sus conductores cuentan con la certificación de capacitación expedida por los organismos autorizados para tal efecto.
+
+Los solicitantes de licencias de conducir para prestar el servicio de transporte público y especializado en todas sus modalidades, además de los requisitos que señala la ley de la materia, deberán exhibir ante la autoridad competente la certificación a que se refiere el párrafo anterior.
+
+Agotado el plazo que refiere el presente artículo, todos los interesados en obtener o renovar la licencia de conducir para prestar el servicio de transporte público y especializado en todas sus modalidades, además de los requisitos que señala la ley de la materia, deberán exhibir la certificación a que se refiere la presente ley.
+
+Artículo Décimo Tercero. Los concesionarios del servicio de transporte público y especializado en todas sus modalidades deberán acreditar ante la Dirección de Transporte, en un plazo de treinta días contados a partir del inicio de la vigencia de la presente ley, que cuentan con la póliza de seguro vigente en los términos que contempla el presente ordenamiento.
+
+Artículo Décimo Cuarto. La Secretaría de Gobierno a través de la Dirección de Transporte implementará y pondrá en operación el Registro de Transporte Público en un plazo de doce meses a partir de la entrada en vigor del presente decreto.
+
+Para efectos de lo anterior, la Dirección de Transporte deberá llevar a cabo, en el transcurso de dicho plazo, las acciones, programas y previsiones que resulten necesarias para la instrumentación de dicho registro.
+
+Artículo Décimo Quinto. La Dirección de Transporte implementará y pondrá en operación los programas de entrenamiento teórico-práctico a los conductores del servicio de transporte según la modalidad de servicio de que se trate y expedirán las identificaciones de conductor respectivas, en un plazo de doce meses a partir de la entrada en vigor de la presente ley.
+
+Artículo Décimo Sexto. Las personas físicas y jurídicas colectivas que actualmente presten de manera irregular el servicio de transporte público o especializado en cualquiera de sus modalidades, deberán dejar de prestarlo, bajo la pena de hacerse acreedores a las sanciones que prevé la presente ley.
+
+La Secretaría de Gobierno con el apoyo de la Dirección de Transporte, podrá implementar un "Programa de Regularización del Servicio de Transporte Público y Especializado", atendiendo a la viabilidad que resulte de los estudios correspondientes, privilegiando la necesidad del servicio en el caso concreto, bajo los principios de utilidad pública y racionalidad, previo pago de las contribuciones correspondientes.
+
+Artículo Décimo Séptimo. El Poder Ejecutivo del Estado con el objetivo de cumplir con las obligaciones que se establecen en la presente Ley, deberá proporcionar la suficiencia presupuestaria necesaria y realizar los ajustes al Presupuesto de Egresos para el ejercicio fiscal 2012 y posteriores.
+
+Artículo Décimo Octavo. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor de la presente Ley, se resolverán en los términos de la legislación aplicable al momento de su iniciación.
