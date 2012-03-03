@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-desempeno-de-peritos-de-la-84751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-17"
-last_updated: "2011-12-17"
+last_updated: "2012-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NAY"
 ---
 # REGLAMENTO PARA EL DESEMPEÑO DE PERITOS DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 3 Y 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 REGLAMENTO PARA EL DESEMPEÑO DE PERITOS DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2012.</small>
 
 Reglamento publicado en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 17 de diciembre de 2011.
 
@@ -305,8 +307,6 @@ Los peritos deberán informar oportunamente al Consejo el servicio social que hu
 
 #### SECCIÓN PRIMERA. DE LAS FALTAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 26.
 
 Son causas de responsabilidad en las que pueden incurrir los peritos y auxiliares, además de las previstas en los diversos ordenamientos legales, las siguientes:
@@ -325,7 +325,9 @@ Son causas de responsabilidad en las que pueden incurrir los peritos y auxiliare
 
 7. Incurrir en delitos o faltas durante el ejercicio de su cargo; de ser así, responderán por los daños y perjuicios que se causen;
 
-8. Incumplir con las obligaciones previstas en el artículo 20 de éste reglamento; y,
+> <small>(F. DE E., P.O. 3 DE MARZO DE 2012)</small>
+
+8. Incumplir con las obligaciones previstas en el artículo 21 de éste reglamento; y,
 
 9. Las demás que determine el Consejo mediante Acuerdo que se haga del conocimiento general.
 
