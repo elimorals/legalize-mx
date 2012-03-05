@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-estatal-de-los-derechos-humanos-28798"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-10"
-last_updated: "2010-02-15"
+last_updated: "2012-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,6 +20,8 @@ issue_date: "2003-02-06"
 state: "AGU"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
@@ -873,6 +875,56 @@ Los servicios personales que presten los trabajadores a la Comisión, se regirá
 
 Todos los servidores públicos que integran la plantilla laboral de la Comisión Estatal, son trabajadores de confianza debido a la naturaleza de las funciones que ésta desempeña.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+## TÍTULO SÉPTIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPÍTULO ÚNICO. Conciliación
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 80.
+
+La conciliación tiene por objeto procurar la inmediata solución de un conflicto entre los quejosos y las autoridades señaladas como responsables, cuando la naturaleza del caso así lo permita.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 81.
+
+La Comisión podrá proveer todo lo necesario para sustanciar el procedimiento conciliatorio utilizando las reglas de mediación. En caso de que tal conciliación sea factible, se elaborará un convenio que contendrá:
+
+I. Lugar, fecha y hora de su realización;
+
+II. Nombre del quejoso y de la autoridad responsable;
+
+III. Términos del compromiso en cláusulas claramente diferenciadas;
+
+IV. Términos o plazos para su cumplimiento; y
+
+V. En su caso, garantías para hacer efectivo el cumplimiento de las obligaciones establecidas.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 82.
+
+La conciliación se podrá llevar a cabo dentro de los tres días hábiles contados a partir de que se haya recibido la queja, término en el que la Comisión comunicará a las partes, por escrito o verbalmente, la propuesta de conciliación en la que se establecerá el mecanismo que permita lograr una solución inmediata.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 83.
+
+Las partes contarán con un término de tres días hábiles contados a partir de que se les notifique la propuesta de conciliación, para que manifiesten si la aceptan. Pasado dicho término sin que se manifieste conformidad, se tendrá por no aceptada y por lo tanto se dará trámite a la queja.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 84.
+
+Si durante los cuarenta y cinco días hábiles siguientes a la aceptación de la propuesta de conciliación, la autoridad responsable injustificadamente no da cumplimiento al acuerdo conciliatorio, la Comisión deberá reabrir el expediente a fin de que se determinen las acciones correspondientes.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -948,3 +1000,9 @@ P.O. 15 DE FEBRERO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
