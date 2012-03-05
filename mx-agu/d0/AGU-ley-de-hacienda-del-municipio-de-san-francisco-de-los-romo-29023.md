@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2010-08-23"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -45,33 +45,51 @@ LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
 ### CAPITULO I. De la Hacienda Pública Municipal
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 1o.
 
-Para atender las necesidades y la prestación de los servicios públicos del Municipio de San Francisco de los Romo, el Ayuntamiento percibirá los Impuestos, Derechos, Aprovechamientos y Participaciones a que se refiere la Ley de Ingresos del propio Municipio en los términos que reglamenta este Ordenamiento.
+Para atender las necesidades y la prestación de los servicios públicos del Municipio de San Francisco de los Romo, el Ayuntamiento percibirá los impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, participaciones y aportaciones a que se refiere la Ley de Ingresos del propio Municipio en los términos que reglamenta este Ordenamiento.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 2o.
 
-La Hacienda Pública del Municipio de San Francisco de los Romo se administrará libremente por el Ayuntamiento y el único órgano facultado para recibir los ingresos y canalizar los egresos, será la Dirección de Finanzas y sus cajas recaudadoras.
+La Hacienda Pública del Municipio de San Francisco de los Romo se administrará libremente por el Ayuntamiento y el único Órgano facultado para recibir los ingresos y canalizar los egresos, será la Dirección de Finanzas y Administración y sus cajas recaudadoras, además de las del Organismo Operador del Agua Potable.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 3o.
 
-Son impuestos, las prestaciones en dinero o en especie que fije la Ley, con carácter general y obligatorio, a cargo de personas físicas y morales, para cubrir los gastos públicos y demás obligaciones a cargo del Ayuntamiento.
+Son impuestos las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las aportaciones de seguridad social, contribuciones de mejoras, derechos, productos y aprovechamientos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 3o A.- Son contribuciones de mejoras las establecidas en ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 4o.
 
-Son derechos las contraprestaciones establecidas en la Ley, por los servicios que presta el Municipio en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes del dominio público del Municipio.
+Son derechos, las contribuciones establecidas en ley por el uso o aprovechamiento de los bienes de dominio público, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en esta (sic) último caso, se trate de contraprestaciones que no se encuentren previstas en las Leyes Fiscales respectivas. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 5o.
 
-Son productos los ingresos que percibe el Municipio por actividades que no corresponden a sus funciones propias de derecho público, así como la explotación o venta de sus bienes patrimoniales, de dominio privado.
+Son productos, las contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes de dominio privado.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 6o.
 
-Son aprovechamientos los recargos, las multas y los demás ingresos de derecho público que percibe el Municipio no clasificables como impuestos, contribuciones especiales, derechos especiales, productos y participaciones.
+Son aprovechamientos, los ingresos que percibe el Municipio por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal; así como las multas, recargos y gastos de ejecución.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 7o.
 
-Son participaciones los recursos provenientes de las Entidades Federales y/o Estatales, señalados en la Leyes Fiscales y los Convenios celebrados al tenor de las mismas.
+Son Participaciones y aportaciones los recursos provenientes de las Entidades Federales y/o Estatales, señalados en las Leyes Fiscales y los Convenios celebrados al tenor de las mismas. Incluye los recursos destinados para la ejecución de programas federales a través de las entidades federativas mediante la reasignación de responsabilidades y recursos presupuestarios, en los términos de los convenios que celebre el Gobierno Federal con éstas.
 
 ###### ARTICULO 8o.
 
@@ -81,11 +99,11 @@ Los acuerdos, disposiciones generales, reglamentos o convenios fiscales que se c
 
 La Hacienda Pública Municipal no puede afectarse a un fin específico. En el caso de que sea necesario establecer una tributación especial, se requiere la declaración expresa del Congreso del Estado, siempre y cuando medie una causa de orden público.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 10.
 
-A excepción de los ingresos provenientes de aprovechamientos, ninguna autoridad fiscal del Municipio puede modificar la cuantía de los créditos hacendarios a favor del Ayuntamiento.
-
-Sólo el Presidente Municipal está facultado para modificar el monto de un crédito fiscal proveniente de aprovechamiento.
+A excepción de los ingresos provenientes de Aprovechamientos, ninguna autoridad fiscal del Municipio puede modificar la cuantía de los créditos hacendarios a favor del Ayuntamiento. Sólo el Presidente Municipal y el director de finanzas y administración están facultados para modificar el monto de un crédito fiscal proveniente de aprovechamiento.
 
 ###### ARTICULO 11.
 
@@ -133,7 +151,9 @@ III.- El Regidor del Ramo;
 
 IV.- El Síndico Hacendario;
 
-V.- El Director de Finanzas;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+
+V.- El Director de Finanzas y Administración;
 
 VI.- El Delegado Municipal; y
 
@@ -661,13 +681,13 @@ Si transcurrido dicho plazo no se expresan los datos o no se presentan los docum
 
 DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 60.
 
 Será objeto de este impuesto:
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE AGOSTO DE 2010)</small>
 
 I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges.
 
@@ -875,15 +895,37 @@ Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la vent
 
 Los propietarios de los inmuebles donde se autoricen a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal y en su caso el comprobante de garantía que el Director de Finanzas les expida.
 
-### CAPITULO I. Por Empadronamiento, Expedición o Modificación de Licencias
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPÍTULO IV. De los Accesorios
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 77 A.- La falta oportuna del pago de impuestos causará recargos en conceptos de indemnización al fisco municipal, a razón del porcentaje que fije la Ley de Ingresos del Ejercicio Fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 77 B.- Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el porcentaje que fije la Ley de Ingresos del Ejercicio Fiscal correspondiente, del valor total de los rezagos por concepto de gastos de ejecución.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+## TÍTULO SEGUNDO BIS. DE LAS CONTRIBUCIONES DE MEJORAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPÍTULO ÚNICO. Contribuciones de Mejoras por Obras Públicas
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 77 C.- Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 77 D.- Los beneficiarios de las obras públicas municipales estarán obligados a pagar el porcentaje acordado y asentado en el acta de concertación de la obra que corresponda, firmada por el beneficiario y por el personal facultado del ayuntamiento.
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO II. Los Servicios Prestados por Autoridades de Obras Públicas
-
-## TITULO CUARTO. DE LOS PRODUCTOS
-
-### CAPITULO III. Por los Servicios Prestados por Subdivisión, Fusión y Relotificación
+### CAPITULO I. Por Empadronamiento, Expedición o Modificación de Licencias
 
 #### SECCION UNICA
 
@@ -901,7 +943,7 @@ Los contribuyentes a que se refiere este Capítulo están obligados a cubrir las
 
 Las sucursales, agencias o bodegas con venta directa al público, también requieren licencia.
 
-### CAPITULO IV. De la Prestación del Servicio de Agua Potable
+### CAPITULO II. Los Servicios Prestados por Autoridades de Obras Públicas
 
 #### SECCION UNICA
 
@@ -911,7 +953,7 @@ Por los servicios prestados por las oficinas de Obras Públicas, o departamentos
 
 Para que cualquier autorización obtenga plena validez, será requisito indispensable acompañar el comprobante de pago correspondiente.
 
-### CAPITULO V. De Servicios por la Conexión de Albañales
+### CAPITULO III. Por los Servicios Prestados por Subdivisión, Fusión y Relotificación
 
 #### SECCION UNICA
 
@@ -923,55 +965,59 @@ La prestación de servicios por Subdivisión, Fusión y Relotificación, causar�
 
 La prestación de este servicio apareja un derecho que deberá liquidarse en la forma y términos previstos en la Ley de Ingresos del Municipio.
 
-### CAPITULO VI. De Servicios Prestados a Predios sin Bardear
+> <small>(DEROGADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO IV. De la Prestación del Servicio de Agua Potable
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
 #### SECCION UNICA
 
 ###### ARTICULO 84.
 
-Son contribuyentes de este Derecho, las personas físicas o morales que detenten, cualquiera que sea su título, el predio o la construcción de la prestación del servicio de agua potable.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 85.
 
-Para los efectos de esta Ley, se considera objeto del servicio de agua potable, todo predio o construcción en que haya sido instalado. Las personas que sucesivamente detenten el predio construcción, se consideran deudores de la Hacienda Pública del Municipio, en los casos en que se suscite morosidad en el pago de Derechos respectivo.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 86.
 
-La prestación del servicio de agua potable deberá solicitarse en la forma y términos que prevenga el Bando Municipal mediante la celebración del contrato de prestación de servicios, con las implicaciones previstas por la Ley.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 87.
 
-Los propietarios, poseedores, arrendatarios o encargados del predio o establecimiento, se considerarán depositarios del aparato medidor de consumo de agua potable y como tal, están obligados a guardar de él en los términos que previene la Ley sin perjuicio de la responsabilidad objetiva que se les pueda fincar.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 88.
 
-Los propietarios o poseedores cualquiera que sea su título, de un predio o construcción objeto de la prestación del servicio de agua potable, son objetivamente responsables de los créditos fiscales no liquidados por el propietario o poseedor anterior.
-
-Los notarios y funcionarios públicos con ingerencia en operaciones jurídicas de traslado de dominio, no deberán autorizarlo sin que previamente se muestre el recibo de pago por el servicio de agua potable.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 89.
 
-Las personas físicas o morales, que en los términos del Bando Municipal, estén obligadas a solicitar las prestaciones del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Director de Finanzas y surtirá los efectos de contrato de prestación de servicios, con las implicaciones jurídicas del caso. Debiendo además liquidar previamente en la Comisión de Agua Potable y Alcantarillado, lo señalado en el Artículo 15 de la Ley de Ingresos.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
-### CAPITULO VII. De los Fraccionamientos
+> <small>(DEROGADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO V. De Servicios por la Conexión de Albañales
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
 
 #### SECCION UNICA
 
 ###### ARTICULO 90.
 
-Por el servicio que preste el Municipio para la conexión de albañales de los predios con las tuberías de saneamiento o atarjeas en la vía pública, se causarán independientemente de los derechos de conexión estipulados en la Ley de Ingresos Municipal, derechos equivalentes al costo del servicio, que comprenderá el valor de los materiales empleados y la mano de obra.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 91.
 
-Es contribuyente de los derechos a que se refiere el artículo anterior, el propietario y/o poseedor del predio cuyo albañal deba ser conectado con la atarjea; en caso de que lo haga una persona distinta del propietario y/o poseedor, estos deberán manifestar su consentimiento.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
 ###### ARTICULO 92.
 
-Los derechos a que se refiere esta capítulo, se causarán conforme a las cuotas que en cada caso fije el Municipio, teniendo en cuenta el costo de los materiales y la mano de obra y deberán de pagarse en la Comisión de Agua Potable y Alcantarillado antes que se preste el servicio.
+(DEROGADO, P.O. 5 DE MARZO DE 2012)
 
-Los mencionados Derechos se causarán sin perjuicio de los que correspondan por la reparación del pavimento, los cuales deberán ser pagados también por el contribuyente antes que se preste el servicio, en la misma Comisión de Agua Potable y Alcantarillado de acuerdo a lo que para tal fin dispone la Ley de Ingresos del Municipio.
-
-### CAPÍTULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
+### CAPITULO VI. De Servicios Prestados a Predios sin Bardear
 
 #### SECCION UNICA
 
@@ -987,15 +1033,17 @@ El Derecho a que se refiere este Capítulo, se determinará y liquidará conform
 
 Los fraccionamientos y desarrollos habitacionales que no hayan sido enterados a la responsabilidad Municipal y las empresas comerciales, industriales y de servicios, deberá retribuir los servicios de aseo público y recolección de desechos de acuerdo al gasto generado por días de servicio, horario y volúmenes desplazados.
 
-### CAPITULO IX. Por los Servicios Prestados en el Rastro Municipal
+### CAPITULO VII. De los Fraccionamientos
 
-### CAPITULO X. Por el Uso y Prestación de Servicios y Cementerios
+### CAPÍTULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 96.
 
-Los fraccionamientos deberán cubrir derechos sobre el precio de venta de lotes fraccionados, mismos que deberán liquidarse de acuerdo a la tarifa que al efecto señale la Ley de Ingresos Municipal.
+Los Fraccionadores deberán cubrir derechos sobre el precio de venta de lotes fraccionados, supervisión, mismos que deberán liquidarse de acuerdo a la tarifa que al efecto señale la Ley de Ingresos Municipal.
 
 ###### ARTICULO 97.
 
@@ -1007,7 +1055,7 @@ Para lograr lo anterior, deberán remitir copia de contrato de compraventa a la 
 
 Los fraccionadores tienen obligación de ceder el título gratuito al Municipio para destinarlo a parques, mercados, escuelas, puestos de policía u otros servicios públicos similares, el por ciento de donación que establece el Artículo de la Ley de Fraccionamiento, Relotificación, Fusión y Subdivisión de Terrenos del Estado de Aguascalientes.
 
-### CAPITULO XI. Por Expedición de Certificados, Certificaciones, Legalizaciones, Actas y Copias de Documentos
+### CAPITULO IX. Por los Servicios Prestados en el Rastro Municipal
 
 ###### ARTICULO 99.
 
@@ -1035,7 +1083,7 @@ Todos los derechos estipulados en este Capítulo, deberán pagarse antes de que 
 
 Los administradores o encargados del Rastro Municipal o lugares autorizados para el servicio de ganado, no permitirán la salida de la carne o pieles de los animales sacrificados, si previamente y con el recibo oficial respectivo no se comprueba que se pagaron los Derechos correspondientes por los servicios que se hayan prestado.
 
-### CAPITULO XII. Por Cooperación para Obras Públicas
+### CAPITULO X. Por el Uso y Prestación de Servicios y Cementerios
 
 #### SECCION UNICA
 
@@ -1075,7 +1123,7 @@ Cuando se trate de panteones localizados en las Delegaciones Municipales, todas 
 
 En los casos de cadáveres de personas hasta de ocho años de edad, deberán cubrirse los Derechos a que se refiere la Ley de Ingresos Municipal, con deducción de un 30% a excepción de venta y arrendamiento de fosas y gavetas.
 
-### CAPITULO XIII. Por los Servicios Prestados por la Dirección de Seguridad Pública y Tránsito
+### CAPITULO XI. Por Expedición de Certificados, Certificaciones, Legalizaciones, Actas y Copias de Documentos
 
 #### SECCION UNICA
 
@@ -1091,139 +1139,7 @@ Los Derechos que establece el Artículo anterior, se fijarán tomando en cuenta 
 
 Los Derechos a que se refiere este Capítulo se causarán y liquidarán de acuerdo a las tarifas que al efecto establece la Ley de Ingresos del Municipio.
 
-### CAPITULO XIV. Por Servicios de Alumbrado Público
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consiste en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación la cual se constituye de interés general, el cual se presta sin aspiración alguna de lucro.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 C.- La Tesorería Municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
-
-El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos por el Servicio de Alumbrado Público.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 D.- El pago de los derechos por el servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales y el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento, ocasionado con motivo de su prestación del servicio de alumbrado público en todo el Municipio.
-
-La Ley de Ingresos señalará en forma anual el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado en razón del sistema de fórmulas establecidas en el presente Capitulo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 E.- El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 F.- El costo total del servicio de alumbrado público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
-
-A) Costo por servicios personales empleados en el año en la instalación operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del servicio público.
-
-B) Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
-
-C) Costo de la reserva de contingencia que se establezca para el año para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento.
-
-D) Costo del Suministro de Energía Eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, así como los que se sufran por mayor cobertura y nuevos proyectos.
-
-E) Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará la contribución, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado como los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 H.- El costo total anual del servicio será el que al efecto apruebe anualmente el Congreso del Estado previa propuesta del Ayuntamiento que se realice en la iniciativa de Ley de Ingresos del año de que se trate.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 I.- El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congreso del Estado dentro de la Ley de Ingresos del año de que se trate el número total de beneficiarios que se proyecte para dicho año.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
-
-(VEASE ARCHIVO ANEXO)
-
-En Donde
-
-CFla= Crédito Fiscal Individual Habitacional
-
-Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios de casa habitación.
-
-CFlB= Crédito Fiscal Individual Comercial
-
-Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad comercial o de servicios.
-
-CFIx= Crédito Fiscal Individual Industrial
-
-Será la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad industrial.
-
-CTS= Costo Total del Servicio
-
-La cantidad resultante de la suma de los conceptos que establece el Artículo, 122 F de la presente Ley, aprobado por el Congreso del Estado.
-
-FS= Factor Seguridad
-
-Se obtendrá de la división lograda entre el número de delitos totales del Municipio en el año próximo anterior, entre el valor neto del nivel de seguridad que perciben los habitantes del Municipio, el cual habrá de obtenerse mediante el estudio de opinión que se aplique cada año en el mes de septiembre, dividiendo dicho resultado a su vez entre la población total del Municipio.
-
-FB= Factor de Bienestar
-
-Se obtendrá el presente factor de la división lograda entre el número total de beneficiarios del servicio de alumbrado público entre la cantidad resultante a su vez de la división efectuada del total de población, entre los beneficios totales, los cuales se obtienen de la suma total de las escuelas, panteones, centros de salud, festividades locales, plazas públicas, así como aquellos que determine el Cabildo en sesión que para ello se convoque.
-
-NE= Nivel Económico
-
-Se obtendrá el presente factor a través de la asignación de uno de los siguientes valores a cada una de las comunidades del Municipio en razón del nivel económico del mismo, partiendo de los siguientes estratos, valores que deberán ser asignados por el Cabildo:
-
-Alto 2
-
-Medio 1.5
-
-Bajo 1
-
-Interés Social 0.8
-
-Suburbano 0.7
-
-Pobreza Baja 0.6
-
-Pobreza Media 0.5
-
-Pobreza Extrema 0.3
-
-TB = Total de Beneficiarios
-
-El presente factor se entiende como las personas físicas y morales, sujetos de derechos y obligaciones, causantes del Derecho del Servicio de Alumbrado Público, que se obtiene anualmente según la propuesta del Ayuntamiento al Congreso del Estado del estudio y análisis que se realice entre el total de la población, número de cuentas catastrales, número de usuarios de la Comisión Federal de Electricidad, usuarios de servicio de agua potable y alcantarillado, así como el factor que se considere oportuno incluir, y de entre los que se prorratea el costo total anual del servicio.
-
-TC= Total de Comercios
-
-El presente factor se obtendrá de la suma total de las licencias comerciales y de servicios que se tengan registradas en el Ayuntamiento al 30 de octubre del año anterior.
-
-TP= Total de Población
-
-Para el presente se obtendrá del que determine el INEGI de acuerdo con el último Censo o Conteo Poblacional.
-
-TT= Total de Trabajadores
-
-El Presente valor se obtendrá del número de registro de trabajadores que tenga dados de alta la empresa ante el Instituto Mexicano del Seguro Social.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 K.- Los derechos a que se refiere este Capítulo se causarán en forma anual y se pagarán bimestralmente durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
-
-Esta contribución podrá cubrirse en forma anual durante el primer bimestre, en cuyo caso se aplicará el descuento que al efecto establezca la Ley de Ingresos del año de que se trate.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 L.- La Federación, Estado y Municipios, estarán exentos de esta contribución y no serán considerados en la aplicación de la fórmula de distribución de la carga tributaria.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
-
-ARTICULO 122 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+### CAPITULO XII. Por Cooperación para Obras Públicas
 
 #### SECCION UNICA
 
@@ -1309,7 +1225,7 @@ IV.- Por instalación de las obras de alumbrado público estarán obligados al p
 
 Estos derechos por cooperación de obras públicas se determinará una vez obtenido el costo por materiales y mano de obra, creando así un valor unitario por metro cuadrado cuando se trate de pavimentación de arroyos y banquetas y por metro lineal tratándose de alumbrado.
 
-### CAPITULO I
+### CAPITULO XIII. Por los Servicios Prestados por la Dirección de Seguridad Pública y Tránsito
 
 #### SECCION UNICA
 
@@ -1317,19 +1233,173 @@ Estos derechos por cooperación de obras públicas se determinará una vez obten
 
 Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, serán retribuidos conforme a las tarifas que al efecto señale la Ley de Ingresos del Municipio.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-### CAPITULO II. Enajenación de Bienes e Inmuebles Pertenecientes al Patrimonio Municipal
+### CAPITULO XIV. Por Servicios de Alumbrado Público
 
-### CAPITULO III. De la Renta o Beneficio de Bienes Propiedad del Municipio
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-#### SECCION UNICA
+ARTICULO 122 A.- Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consiste en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación la cual se constituye de interés general, el cual se presta sin aspiración alguna de lucro.
 
-### CAPITULO IV. Otros Productos
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
 
-## TITULO QUINTO. APROVECHAMIENTOS
+ARTICULO 122 B.- Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 C.- La Tesorería Municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
+
+El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos por el Servicio de Alumbrado Público.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 D.- El pago de los derechos por el servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales y el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento, ocasionado con motivo de su prestación del servicio de alumbrado público en todo el Municipio.
+
+La Ley de Ingresos señalará en forma anual el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado en razón del sistema de fórmulas establecidas en el presente Capitulo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 E.- El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 F.- El costo total del servicio de alumbrado público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
+
+A) Costo por servicios personales empleados en el año en la instalación operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del servicio público.
+
+B) Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones, reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de ésta.
+
+C) Costo de la reserva de contingencia que se establezca para el año para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento.
+
+D) Costo del Suministro de Energía Eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, así como los que se sufran por mayor cobertura y nuevos proyectos.
+
+E) Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 G.- Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará la contribución, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado como los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 H.- El costo total anual del servicio será el que al efecto apruebe anualmente el Congreso del Estado previa propuesta del Ayuntamiento que se realice en la iniciativa de Ley de Ingresos del año de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 I.- El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congreso del Estado dentro de la Ley de Ingresos del año de que se trate el número total de beneficiarios que se proyecte para dicho año.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 J.- La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
+
+(VÉASE ARCHIVO ANEXO)
+
+En Donde
+
+CFla= Crédito Fiscal Individual Habitacional
+
+Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios de casa habitación.
+
+CFlB= Crédito Fiscal Individual Comercial
+
+Se constituye como la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad comercial o de servicios.
+
+CFIx= Crédito Fiscal Individual Industrial
+
+Será la tarifa individualizada que corresponderá pagar a cada uno de los beneficiarios del servicio de alumbrado público, tratándose de beneficiarios con actividad industrial.
+
+CTS= Costo Total del Servicio
+
+La cantidad resultante de la suma de los conceptos que establece el Artículo, 122 F de la presente Ley, aprobado por el Congreso del Estado.
+
+FS= Factor Seguridad
+
+Se obtendrá de la división lograda entre el número de delitos totales del Municipio en el año próximo anterior, entre el valor neto del nivel de seguridad que perciben los habitantes del Municipio, el cual habrá de obtenerse mediante el estudio de opinión que se aplique cada año en el mes de septiembre, dividiendo dicho resultado a su vez entre la población total del Municipio.
+
+FB= Factor de Bienestar
+
+Se obtendrá el presente factor de la división lograda entre el número total de beneficiarios del servicio de alumbrado público entre la cantidad resultante a su vez de la división efectuada del total de población, entre los beneficios totales, los cuales se obtienen de la suma total de las escuelas, panteones, centros de salud, festividades locales, plazas públicas, así como aquellos que determine el Cabildo en sesión que para ello se convoque.
+
+NE= Nivel Económico
+
+Se obtendrá el presente factor a través de la asignación de uno de los siguientes valores a cada una de las comunidades del Municipio en razón del nivel económico del mismo, partiendo de los siguientes estratos, valores que deberán ser asignados por el Cabildo:
+
+Alto 2
+
+Medio 1.5
+
+Bajo 1
+
+Interés Social 0.8
+
+Suburbano 0.7
+
+Pobreza Baja 0.6
+
+Pobreza Media 0.5
+
+Pobreza Extrema 0.3
+
+TB = Total de Beneficiarios
+
+El presente factor se entiende como las personas físicas y morales, sujetos de derechos y obligaciones, causantes del Derecho del Servicio de Alumbrado Público, que se obtiene anualmente según la propuesta del Ayuntamiento al Congreso del Estado del estudio y análisis que se realice entre el total de la población, número de cuentas catastrales, número de usuarios de la Comisión Federal de Electricidad, usuarios de servicio de agua potable y alcantarillado, así como el factor que se considere oportuno incluir, y de entre los que se prorratea el costo total anual del servicio.
+
+TC= Total de Comercios
+
+El presente factor se obtendrá de la suma total de las licencias comerciales y de servicios que se tengan registradas en el Ayuntamiento al 30 de octubre del año anterior.
+
+TP= Total de Población
+
+Para el presente se obtendrá del que determine el INEGI de acuerdo con el último Censo o Conteo Poblacional.
+
+TT= Total de Trabajadores
+
+El Presente valor se obtendrá del número de registro de trabajadores que tenga dados de alta la empresa ante el Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 K.- Los derechos a que se refiere este Capítulo se causarán en forma anual y se pagarán bimestralmente durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
+
+Esta contribución podrá cubrirse en forma anual durante el primer bimestre, en cuyo caso se aplicará el descuento que al efecto establezca la Ley de Ingresos del año de que se trate.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 L.- La Federación, Estado y Municipios, estarán exentos de esta contribución y no serán considerados en la aplicación de la fórmula de distribución de la carga tributaria.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2006)</small>
+
+ARTICULO 122 M.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULO QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO XV. Por el Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Público
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE MARZO DE 2012)</small>
+
+#### SECCION UNICA. Por Concesiones de Parques y Jardines
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 122 N.- El valor por concesiones en parques y jardines, se fijará en los términos de los convenios que para tal efecto se celebren entre el Ayuntamiento y los interesados.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO XVI. De los Accesorios
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 122 Ñ.- Recargos
+
+La falta oportuna del pago de derechos, causará recargos en conceptos de indemnización al fisco municipal, a razón del porcentaje que fije la Ley de Ingresos del Ejercicio Fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 122 O.- Gastos de Ejecución
+
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el porcentaje que fije la Ley de Ingresos del Ejercicio Fiscal correspondiente, del valor total de los rezagos por concepto de gastos de ejecución.
+
+## TITULO CUARTO. DE LOS PRODUCTOS
+
+### CAPITULO I
 
 #### SECCION UNICA
 
@@ -1343,13 +1413,13 @@ II.- Renta o beneficio de bienes propiedad del Municipio; y
 
 III.- Otros productos.
 
-### CAPITULO UNICO
+### CAPITULO II. Enajenación de Bienes e Inmuebles Pertenecientes al Patrimonio Municipal
 
 ###### ARTICULO 124.
 
 La enajenación de los bienes muebles o inmuebles propiedad del Municipio, sólo podrá llevarse a cabo cuando se cumplan previamente los requisitos establecidos en la Constitución Política del Estado y lo aprueben el Ayuntamiento y el Congreso del Estado.
 
-### CAPITULO UNICO
+### CAPITULO III. De la Renta o Beneficio de Bienes Propiedad del Municipio
 
 ###### ARTICULO 125.
 
@@ -1358,6 +1428,10 @@ Las rentas o beneficio por el uso y goce de inmuebles municipales, o de cualquie
 ###### ARTICULO 126.
 
 Las tarifas por los cobros a que se refiere el artículo anterior, se causarán en los términos que al efecto señale la Ley de Ingresos Municipal.
+
+### CAPITULO IV. Otros Productos
+
+#### SECCION UNICA
 
 ###### ARTICULO 127.
 
@@ -1387,7 +1461,9 @@ X.- Los que se obtengan de la venta de objetos recogidos por el Departamento de 
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso en la Ley de Ingresos del Municipio, en los contratos o concesiones respectivas, o en las escrituras constitutivas o decretos que den nacimiento de los establecimientos o empresas municipales y en defecto de ellos, en las disposiciones legales que le sean aplicables.
 
-## TITULO SEXTO. PARTICIPACIONES
+## TITULO QUINTO. APROVECHAMIENTOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 129.
 
@@ -1397,7 +1473,7 @@ I.- Recargos;
 
 II.- Multas por violación a Leyes Federales, a esta Ley, a los Reglamentos vigentes y a las disposiciones y circulares del Ayuntamiento de la Presidente (sic) Municipal;
 
-III.- Rezagos;
+III.- (DEROGADA, P.O. 5 DE MARZO DE 2012)
 
 IV.- Gastos de Ejecución;
 
@@ -1411,11 +1487,29 @@ VIII.- Garantías; y
 
 IX.- Otros no especificados.
 
-## TITULO SEPTIMO. OTROS INGRESOS
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+## TITULO QUINTO BIS. INGRESOS CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 129 A.- Ingresos obtenidos por el municipio por concepto de Impuestos, Contribuciones, Derechos, Productos y Aprovechamientos causados en ejercicios fiscales anteriores, pendientes de liquidación y/o pago.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE MARZO DE 2012)</small>
+
+## TITULO SEXTO. PARTICIPACIONES Y APORTACIONES
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 130.
 
-Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Municipio por concepto de participaciones Federales y Estatales, de conformidad a lo dispuesto en las Leyes que las concedan y en los convenios que, en su caso se celebren o se hayan celebrado, así como las que se fijen a diversos patrones u organismos legales constituidos y que legalmente dependan del Ayuntamiento.
+Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Municipio por concepto de participaciones y aportaciones Federales y Estatales, de conformidad a lo dispuesto en las leyes que las concedan y en los convenios que, en su caso se celebren o se hayan celebrado; así como las que se fijen a diversos patrones u organismos legalmente constituidos y que legalmente dependan del Ayuntamiento.
 
 ###### ARTICULO 131.
 
@@ -1425,11 +1519,93 @@ Las participaciones que por el cobro de multas federales correspondan al Municip
 
 Las participaciones fijadas a los patrones u organismos diversos será conforme a lo establecido en las disposiciones legales relativas a su constitución o a los convenios que celebren con el Ayuntamiento.
 
+## TITULO SEPTIMO. OTROS INGRESOS
+
+### CAPITULO UNICO
+
 ###### ARTICULO 133.
 
 Lo constituyen los ingresos provenientes de:
 
 Impuestos, Derechos y demás ingresos causados en ejercicios fiscales anteriores, pendientes de liquidación y/o pago.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+## TITULO OCTAVO. INGRESOS DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS, ORGANISMO OPERADOR DE AGUA DEL MUNICIPIO
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO I. De la Prestación del Servicio de Agua Potable
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 134.
+
+Son contribuyentes de este Derecho, las personas físicas o morales, que detenten, cualquiera que sea su título, el predio o la construcción objeto de la prestación del servicio de agua potable.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 135.
+
+Para los efectos de esta Ley, se considera objeto del servicio de agua potable, todo predio o construcción en que haya sido instalado. Las personas que sucesivamente detenten el predio o construcción, se consideran deudores de la Hacienda Pública del Municipio, en los casos en que se suscite morosidad en el pago de Derechos respectivos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 136.
+
+La prestación del servicio de agua potable deberá solicitarse en la forma y términos que prevenga el Código Municipal mediante la celebración del contrato de prestación de servicios, con las implicaciones previstas por la Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 137.
+
+Los propietarios, poseedores, arrendatarios o encargados del predio o establecimiento, se considerarán depositarios del aparato medidor de consumo de agua potable y como tales, están obligados a guardar de él en los términos que previene la Ley, sin perjuicio de la responsabilidad objetiva que se les pueda fincar.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 138.
+
+Los propietarios o poseedores cualquiera que sea su título, de un predio o construcción objeto de la prestación del servicio de agua potable, son objetivamente responsables de los créditos fiscales no liquidados por el propietario o poseedor anterior.
+
+Los notarios y funcionarios públicos con injerencia en operaciones jurídicas de traslado de dominio, no deberán autorizarlo sin que previamente se muestre el recibo de pago por el servicio de agua potable.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 139.
+
+Las personas físicas o morales, que en los términos del Código Municipal, estén obligadas a solicitar la prestación del servicio de agua potable, deberán hacerlo en la forma y términos que al efecto disponga el Director del Organismo Operador de Agua del Municipio y surtirá los efectos de contrato de prestación de servicios, con la (sic) implicaciones jurídicas del caso. Debiendo además, liquidar previamente en las cajas del propio Organismo Operador, lo señalado en la Ley de Ingresos.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO II. De Servicios por la Conexión de Albañales
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+#### SECCION UNICA
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 140.
+
+Por el servicio que preste el Municipio para la conexión de albañales de los predios con las tuberías de saneamiento o atarjeas en la vía pública, se causarán independientemente de los derechos de conexión estipulados en la Ley de Ingresos Municipal, derechos equivalentes al costo del servicio, que comprenderá el valor de los materiales empleados y la mano de obra.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 141.
+
+Es contribuyente de los derechos a que se refiere el Artículo anterior, el propietario y/o poseedor del predio cuyo albañal deba ser conectado con la atarjea; en caso de que lo haga una persona distinta del propietario y/o poseedor del predio, éstos deberán manifestar su consentimiento
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 142.
+
+Los derechos a que se refiere este capítulo, se causarán conforme a las cuotas que en cada caso fije el Municipio, teniendo en cuenta el costo de los materiales y la mano de obra y deberán de pagarse en el Organismo Operador de Agua del Municipio antes de que se preste el servicio.
+
+Los mencionados Derechos se causarán sin perjuicio de los que correspondan por la reparación del pavimento, los cuales deberán ser pagados también por el contribuyente antes de que se preste el servicio, en el mismo Organismo Operador de Agua de acuerdo a lo que para tal fin dispone la Ley de Ingresos del Municipio.
 
 TRANSITORIO:
 
@@ -1467,7 +1643,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Efrén González Cuellar.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE DICIEMBRE DE 2006.
 
@@ -1492,3 +1668,13 @@ P.O. 23 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se realizan las adecuaciones derivadas del presente Decreto, las referencias normativas a la Dirección de Finanzas, se deberán entender como referidas a la Dirección de Finanzas y Administración.
