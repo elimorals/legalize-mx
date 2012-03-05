@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2012-01-30"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2012.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -134,7 +134,7 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE TREINTA Y UN A VEINTIOCHO FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE TREINTA Y UN A VEINTIOCHO FRACCIONES.</small>
 
 ###### ARTICULO 3o.
 
@@ -156,11 +156,11 @@ IV.- La atención materno-infantil;
 
 IV bis.- El programa de nutrición materno-infantil en los pueblos y comunidades indígenas;
 
-> <small>(REFORMADA [N DE E. ANTES FRACCION V], D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N DE E. ANTES FRACCIÓN V], D.O.F. 10 DE JUNIO DE 2011)</small>
 
 IV bis 1.- La salud visual;
 
-> <small>(REFORMADA [N DE E. ANTES FRACCION VI], D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N DE E. ANTES FRACCIÓN VI], D.O.F. 10 DE JUNIO DE 2011)</small>
 
 IV bis 2.- La salud auditiva;
 
@@ -212,7 +212,7 @@ XIV.- La salud ocupacional y el saneamiento básico;
 
 XV.- La prevención y el control de enfermedades transmisibles;
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCION XVII BIS], D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XVII BIS], D.O.F. 10 DE JUNIO DE 2011)</small>
 
 XV bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual;
 
@@ -260,7 +260,7 @@ XXV.- El control sanitario de la publicidad de las actividades, productos y serv
 
 XXVI.- El control sanitario de la disposición de órganos, tejidos y sus componentes y células;
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCION XXVIII BIS], D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XXVIII BIS], D.O.F. 10 DE JUNIO DE 2011)</small>
 
 XXVI bis.- El control sanitario de cadáveres de seres humanos;
 
@@ -268,7 +268,7 @@ XXVI bis.- El control sanitario de cadáveres de seres humanos;
 
 XXVII.- La sanidad internacional;
 
-> <small>(REFORMADA [N. DE E. ANTES FRACCION XXX], D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XXX], D.O.F. 10 DE JUNIO DE 2011)</small>
 
 XXVII bis.- El tratamiento integral del dolor, y
 
@@ -384,7 +384,7 @@ VII.- Coadyuvar a la modificación de los patrones culturales que determinen há
 
 VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 7o.
 
@@ -432,7 +432,7 @@ Los gobiernos de las entidades federativas coadyuvarán, en el ámbito de sus re
 
 La Secretaría de Salud auxiliará, cuando lo soliciten los estados, en las acciones de descentralización a los municipios que aquéllos lleven a cabo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 10.
 
@@ -440,7 +440,7 @@ La Secretaria de Salud promoverá la participación, en el sistema nacional de s
 
 Asimismo, fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
@@ -470,7 +470,7 @@ La competencia de las autoridades sanitarias en la planeación, regulación, org
 
 La competencia entre la Federación y las entidades federativas en materia de salubridad general quedará distribuida conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 A. Corresponde al Ejecutivo Federal, por conducto de la Secretaría de Salud:
 
@@ -502,7 +502,7 @@ IX.- Ejercer la coordinación y la vigilancia general del cumplimiento de las di
 
 X.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se establezcan en esta Ley y en otras disposiciones generales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 2008)</small>
 
 B. Corresponde a los gobiernos de las entidades federativas, en materia de salubridad general, como autoridades locales y dentro de sus respectivas jurisdicciones territoriales:
 
@@ -768,6 +768,26 @@ XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
 Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+
+###### ARTICULO 28 Bis.
+
+Los profesionales que podrán prescribir medicamentos son:
+
+1. Médicos;
+
+2. Homeópatas;
+
+3. Cirujanos Dentistas;
+
+4. Médicos Veterinarios en el área de su competencia, y
+
+5. Licenciados en Enfermería, quienes únicamente podrán prescribir cuando no se cuente con los servicios de un médico, aquellos medicamentos del cuadro básico que determine la Secretaría de Salud.
+
+Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría.
+
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 29.
@@ -958,6 +978,10 @@ Los usuarios tendrán el derecho de elegir, de manera libre y voluntaria, al mé
 
 Los usuarios tendrán derecho a recibir información suficiente, clara, oportuna, y veraz, así como la orientación que sea necesaria respecto de su salud y sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se le indiquen o apliquen.
 
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+
+Cuando se trate de la atención a los usuarios originarios de pueblos y comunidades indígenas, estos tendrán derecho a obtener información necesaria en su lengua.
+
 > <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 51 Bis 2.
@@ -1106,7 +1130,7 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 66.
 
@@ -1248,7 +1272,7 @@ Los Regímenes Estatales de Protección Social en Salud proveerán de manera int
 
 Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, los Regímenes Estatales de Protección Social en Salud, a partir de las transferencias que reciban en los términos de este Título, deberán destinar los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría de Salud.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. De las Aportaciones para el Sistema de Protección Social en Salud
 
@@ -1258,7 +1282,7 @@ Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura 
 
 El Sistema de Protección Social en Salud será financiado de manera solidaria por la Federación, los estados, el Distrito Federal y los beneficiarios en los términos de este Capítulo y el Capítulo V.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1270,15 +1294,15 @@ Para los efectos de este artículo, la fecha de inicio para el cálculo de la ac
 
 La aportación a que se refiere este artículo se entregará a los estados y al Distrito Federal cuando cumplan con lo previsto en el artículo siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 77 Bis 13.
 
 Para sustentar el Sistema de Protección Social en Salud, el Gobierno Federal y los gobiernos de los estados y del Distrito Federal efectuarán aportaciones solidarias por persona beneficiaría conforme a los siguientes criterios:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1388,11 +1412,11 @@ A tal efecto, podrán obtener orientación y asesoramiento en las instituciones 
 
 En caso de que el diagnóstico confirme la existencia de un trastorno mental y del comportamiento, y que se requiera el internamiento del menor, deberá respetarse lo dispuesto por el artículo 75 de esta Ley y dicho internamiento deberá efectuarse en un establecimiento o área específicamente destinada a la atención de menores. De igual manera, se deberán tomar las medidas necesarias a fin de proteger los derechos que consigna la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ## TITULO TERCERO BIS. De la Protección Social en Salud
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
@@ -1484,7 +1508,7 @@ IX. Promover la participación de los municipios en los Regímenes Estatales de 
 
 El Ejecutivo Federal, por conducto de la Secretaría de Salud, y los gobiernos de los estados y el Distrito Federal celebrarán acuerdos de coordinación para la ejecución del Sistema de Protección Social en Salud. Para esos efectos, la Secretaría de Salud establecerá el modelo nacional a que se sujetarán dichos acuerdos, en los cuales se determinarán, entre otros, los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO V. De las Cuotas Familiares
 
@@ -1546,7 +1570,7 @@ Al término de cada ejercicio la Secretaría de Salud rendirá al Congreso de la
 
 Será causa de responsabilidad administrativa el incumplimiento en tiempo y forma de las obligaciones económicas establecidas en este Capítulo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO VII. De la Transparencia, Control y Supervisión del Manejo de los Recursos del Sistema de Protección Social en Salud
 
@@ -1560,7 +1584,7 @@ La Secretaría de Salud determinará el monto anual de este fondo así como la d
 
 La Secretaría de Salud definirá las variables que serán utilizadas en la fórmula de distribución de los recursos del fondo y proporcionará la información utilizada para el cálculo, así como de la utilización de los mismos, al Congreso de la Unión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO VIII. Del Consejo Nacional de Protección Social en Salud
 
@@ -1616,7 +1640,7 @@ Bajo el principio de solidaridad social, las cuotas familiares no serán objeto 
 
 Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad o para el surtimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO IX. Derechos y Obligaciones de los Beneficiarios
 
@@ -1634,7 +1658,7 @@ Con la finalidad de racionalizar la inversión en infraestructura de instalacion
 
 No se considerarán elegibles para la participación en los recursos del fondo que se establezca en los términos del presente Capítulo las instalaciones médicas de alta especialidad que no cuenten con el certificado que para el efecto expida la Secretaría de Salud, en congruencia con el plan maestro a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO X. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
@@ -1672,7 +1696,7 @@ Por su parte, cuando el órgano de fiscalización de un Congreso Local detecte q
 
 Las responsabilidades administrativas, civiles y penales que deriven de afectaciones a la Hacienda Pública Federal, a las aportaciones estatales y del núcleo familiar en que, en su caso, incurran las autoridades locales exclusivamente por motivo de la desviación de los recursos para fines distintos a los previstos en esta Ley, serán sancionadas en los términos de la legislación federal, por las autoridades federales, en tanto que en los demás casos dichas responsabilidades serán sancionadas y aplicadas por las autoridades locales con base en sus propias leyes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
@@ -1694,7 +1718,7 @@ El Consejo Nacional de Protección Social en Salud ejercerá las atribuciones qu
 
 El Sistema de Protección Social en Salud contará con una Comisión Nacional, como órgano desconcentrado de la Secretaría de Salud, con la estructura y funciones que le asigne su reglamento interno. El titular de la Comisión Nacional será designado por el Presidente de la República a propuesta del Secretario de Salud tras haber recogido las opiniones de los miembros del Consejo a que se refiere este Capítulo, que dispondrá para su operación de los recursos que le asigne la Federación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
@@ -1768,7 +1792,7 @@ X. Hacer uso responsable de los servicios de salud, y
 
 XI. Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
@@ -1862,7 +1886,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 84.
 
@@ -1896,7 +1920,7 @@ Las autoridades educativas, en coordinación con las autoridades sanitarias y co
 
 Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 90.
 
@@ -1910,7 +1934,7 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 91.
 
@@ -2030,7 +2054,7 @@ VIII.- Las demás que establezca la correspondiente reglamentación.
 
 Quien realice investigación en seres humanos en contravención a lo dispuesto en esta Ley y demás disposiciones aplicables, se hará acreedor de las sanciones correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 102.
 
@@ -2066,11 +2090,11 @@ La Secretaría de Salud podrá habilitar como terceros autorizados para lo dispu
 
 En el tratamiento de una persona enferma, el médico podrá utilizar recursos terapéuticos o de diagnóstico bajo investigación cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento informado por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO QUINTO BIS. El Genoma Humano
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPITULO III. Nutrición
 
@@ -2206,7 +2230,7 @@ V.- Fomento sanitario.
 
 ### CAPITULO I. Disposiciones comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 112.
 
@@ -2232,7 +2256,7 @@ Tratándose de las comunidades indígenas, los programas a los que se refiere el
 
 ### CAPITULO II. Enfermedades transmisibles
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 114.
 
@@ -2242,7 +2266,7 @@ Para la atención y mejoramiento de la nutrición de la población, la Secretar�
 
 La Secretaría de Salud, las entidades del sector salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los organismos nacionales e internacionales cuyas actividades se relacionen con la nutrición, alimentos, y su disponibilidad, así como de los sectores sociales y privado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 115.
 
@@ -2284,7 +2308,7 @@ Las autoridades sanitarias establecerán las normas, tomarán las medidas y real
 
 La formulación y conducción de la política de saneamiento ambiental corresponde a la Secretaría de Desarrollo Urbano y Ecología, en coordinación con la Secretaría de Salud, en lo referente a la salud humana.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 118.
 
@@ -2310,7 +2334,7 @@ VI.- Ejercer el control sanitario de las vías generales de comunicación, inclu
 
 VII.- En general, ejercer actividades similares a las anteriores ante situaciones que causen o puedan causar riesgos o daños a la salud de las personas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 119.
 
@@ -2372,7 +2396,7 @@ La Secretaría de Salud en coordinación con las demás dependencias involucrada
 
 En el caso de las fuentes de radiación de uso médico o de diagnóstico, la Secretaría de Salud expedirá las autorizaciones en forma coordinada con la Comisión Nacional de Seguridad Nuclear y Salvaguardias.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 126.
 
@@ -2396,7 +2420,7 @@ El trabajo o las actividades sean comerciales, industriales, profesionales o de 
 
 Cuando dicho trabajo y actividades se realicen en centros de trabajo cuyas relaciones laborales estén sujetas al apartado "A" del artículo 123 Constitucional, las autoridades sanitarias se coordinarán con las laborales para la expedición de las normas respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 129.
 
@@ -2498,7 +2522,7 @@ XIV.- Las demás que determinen el Consejo de Salubridad General y los tratados 
 
 La Secretaría de Salud elaborará y llevará a cabo, en coordinación con las instituciones del sector salud y con los gobiernos de las entidades federativas, programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 136.
 
@@ -2736,11 +2760,11 @@ La Secretaría de Salud dictará, en el ámbito de su competencia, y sin perjuic
 
 Los servicios de salud que proporcionen las instituciones de seguridad social con motivo de riesgos de trabajo, se regirán por sus propias leyes y las demás disposiciones legales aplicables y se ajustarán a las normas oficiales mexicanas en materia de salud. En este caso, las autoridades sanitarias propiciarán con dichas instituciones la coordinación de acciones en materia de higiene y prevención de accidentes.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ## TITULO OCTAVO BIS. De los Cuidados Paliativos a los Enfermos en Situación Terminal
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ### CAPITULO I. Consejo Nacional Contra las Adicciones
 
@@ -2792,11 +2816,11 @@ IX.- Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesiona
 
 Corresponde al Sistema Nacional de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ### CAPITULO II. Programa Contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis 3.
 
@@ -2884,11 +2908,11 @@ En casos de urgencia médica, y que exista incapacidad del enfermo en situación
 
 Todos los documentos a que se refiere este título se regirán de acuerdo a lo que se establezca en el reglamento y demás disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ### CAPITULO III. Programa Contra el Tabaquismo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 166 Bis 13.
 
@@ -2906,11 +2930,11 @@ V.- Fomentarán la creación de áreas especializadas que presten atención a lo
 
 VI.- Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ### CAPITULO IV. Programa Contra la Farmacodependencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 166 Bis 14.
 
@@ -2988,7 +3012,7 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ### CAPITULO I. Disposiciones Comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 167.
 
@@ -3016,7 +3040,7 @@ VIII.- El apoyo a la educación y capacitación para el trabajo de personas con 
 
 IX.- La prestación de servicios funerarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 169.
 
@@ -3110,7 +3134,7 @@ En los casos a que se refieren los artículos anteriores, el Ejecutivo Federal p
 
 Cuando hubieren desaparecido las causas que hayan originado la declaración de quedar sujeta una región a la acción extraordinaria en materia de salubridad general, el Ejecutivo Federal expedirá un decreto que declare terminada dicha acción.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 184.
 
@@ -3128,7 +3152,7 @@ V.- Las demás que determine la propia Secretaría.
 
 ## TITULO DECIMO PRIMERO. Programas Contra las Adicciones
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ### CAPITULO III. Bebidas Alcohólicas
 
@@ -3182,13 +3206,13 @@ En el marco del Sistema Nacional de Salud, la Secretaría de Salud coordinará l
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 189.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 190.
 
@@ -3422,7 +3446,7 @@ IV. Adoptar las medidas de control sanitario, que en su caso, les señale la aut
 
 Se considerará responsable exclusivo del suministro de alimentos que por alguna circunstancia se encuentren en estado de descomposición y que por esta razón causen un daño a la salud, a la persona o institución que hubiere efectuado su distribución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 200.
 
@@ -3640,7 +3664,7 @@ IV.- Aditivo: toda substancia que se incluya en la formulación de los medicamen
 
 V.- Materiales: los insumos necesarios para el envase y empaque de los medicamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2010)</small>
 
@@ -3650,7 +3674,7 @@ La Secretaría de Salud sólo concederá la autorización correspondiente a los 
 
 Para el otorgamiento de registro sanitario a cualquier medicamento, se verificará previamente el cumplimiento de las buenas prácticas de fabricación y del proceso de producción del medicamento así como la certificación de sus principios activos. Las verificaciones se llevarán a cabo por la Secretaría o sus terceros autorizados o, de ser el caso, se dará reconocimiento al certificado respectivo expedido por la autoridad competente del país de origen, siempre y cuando existan acuerdos de reconocimiento en esta materia entre las autoridades competentes de ambos países.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2009)</small>
 
@@ -3746,7 +3770,7 @@ VI.- Medicamentos que para adquirirse no requieren receta médica y que pueden e
 
 No podrán venderse medicamentos u otros insumos para la salud en puestos semifijos, módulos móviles o ambulantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 227.
 
@@ -3816,13 +3840,13 @@ Quedan prohibidos la venta y suministro de medicamentos con fecha de caducidad v
 
 ### CAPITULO XI. Tabaco
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 234.
 
 Para los efectos de esta Ley, se consideran estupefacientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Los isómeros de los estupefacientes de la lista anterior, a menos que estén expresamente exceptuados.
 
@@ -3878,13 +3902,13 @@ Solamente para fines de investigación científica, la Secretaría de Salud auto
 
 Cuando las autoridades competentes decomisen estupefacientes o productos que los contengan, mismos que se enlistan a continuación, deberán dar aviso a la Secretaría de Salud para que exprese su interés en alguna o algunas de estas substancias.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 En caso de considerar que alguna o algunas de las substancias citadas no reúnen los requisitos sanitarios para ser utilizadas, la Secretaría de Salud, solicitará a las autoridades correspondientes procedan a su incineración.
 
 La Secretaría tendrá la facultad de adicionar a esta lista otras substancias, la que se deberá publicar en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 240.
 
@@ -3944,7 +3968,7 @@ En relación con las medidas de control y vigilancia que deberán adoptar las au
 
 I.- Las que tienen valor terapéutico escaso o nulo y que, por ser susceptibles de uso indebido o abuso, constituyen un problema especialmente grave para la salud pública, y son:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Cualquier otro producto, derivado o preparado que contenga las sustancias señaladas en la relación anterior y cuando expresamente lo determine la Secretaría de Salud o el Consejo de Salubridad General, sus precursores químicos y en general los de naturaleza análoga.
 
@@ -4372,7 +4396,7 @@ Las substancias psicotrópicas incluidas en la fracción IV del artículo 245 de
 
 La Secretaría de Salud determinará, tomando en consideración el riesgo que representen para la salud pública por su frecuente uso indebido, cuáles de las substancias con acción psicotrópica que carezcan de valor terapéutico y se utilicen en la industria, artesanías, comercio y otras actividades, deban ser consideradas como peligrosas, y su venta estará sujeta al control de dicha dependencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 254.
 
@@ -4574,7 +4598,7 @@ Queda prohibido realizar tatuajes, micro pigmentaciones y perforaciones a person
 
 La violación de esta disposición se sancionará en los términos previstos en el artículo 419 de esta Ley, y conllevará a la revocación definitiva de la autorización respectiva.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ### CAPITULO UNICO
 
@@ -4616,7 +4640,7 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 Para la declaración de ingredientes se utilizarán las nomenclaturas técnicas internacionales que determine la normatividad aplicable.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO I. Disposiciones comunes
 
@@ -4694,25 +4718,25 @@ En las etiquetas de los envases y empaques en los que se presenten los productos
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 276.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 277.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 277 Bis.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ### CAPITULO IV. Pérdida de la vida
 
@@ -4732,7 +4756,7 @@ IV.- Substancia tóxica: Aquel elemento o compuesto, o la mezcla química de amb
 
 La Secretaría de Salud determinará, mediante listas que publicará en el Diario Oficial de la Federación, los nutrientes vegetales, así como las substancias tóxicas o peligrosas que por constituir un riesgo para la salud deben sujetarse a control sanitario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 279.
 
@@ -4774,7 +4798,7 @@ Las etiquetas de los envases de los plaguicidas, nutrientes vegetales y substanc
 
 El control sanitario de las substancias a que se refiere el artículo 278, se ajustará a lo establecido en esta ley y demás disposiciones aplicables, de acuerdo con el riesgo que representen directa o indirectamente para la salud humana.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ### CAPITULO V. Cadáveres
 
@@ -4856,7 +4880,7 @@ No se expedirá el certificado de exportación para estupefacientes, psicotrópi
 
 La importación y exportación de estupefacientes, substancias psicotrópicas y productos o preparados que los contengan, requieren autorización de la Secretaría de Salud. Dichas operaciones podrán realizarse únicamente por la aduana o aduanas de puertos aéreos que determine la Secretaría de Salud, en coordinación con las autoridades competentes. En ningún caso podrán efectuarse por vía postal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 290.
 
@@ -4878,7 +4902,7 @@ I.- Permiso sanitario, expedido por las autoridades competentes del país de don
 
 II.- Permiso sanitario expedido por la Secretaría de Salud, autorizando la importación de los productos que se indiquen en el documento consular. Este permiso será retenido por el cónsul al certificar el documento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 292.
 
@@ -4940,7 +4964,7 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Comercio y Fomento Industrial, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
@@ -4966,7 +4990,7 @@ Los gobiernos de las entidades federativas coadyuvarán con la Secretaría de Sa
 
 La Secretaría de Salud coordinará las acciones que, en materia de publicidad relacionada con la salud, realicen las instituciones del sector público, con la participación que corresponda a los sectores social y privado, y con la intervención que corresponda a la Secretaría de Gobernación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 304.
 
@@ -5016,9 +5040,9 @@ La publicidad no deberá inducir a hábitos de alimentación nocivos, ni atribui
 
 La publicidad de alimentos y bebidas no alcohólicas deberá incluir en forma visual, auditiva o visual y auditiva, según sea para impresos, radio o cine y televisión, respectivamente, mensajes precautorios de la condición del producto o mensajes promotores de una alimentación equilibrada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 308.
 
@@ -5046,7 +5070,7 @@ VII.- En el mensaje no podrán participar personas menores de 25 años, y
 
 VIII.- En el mensaje deberán apreciarse fácilmente, en forma visual o auditiva, según el medio publicitario que se emplee, las leyendas a que se refieren los artículos 218 y 276 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
@@ -5056,13 +5080,13 @@ La Secretaría de Salud podrá dispensar el requisito previsto en la fracción V
 
 Las disposiciones reglamentarias señalarán los requisitos a que se sujetará el otorgamiento de la dispensa a que se refiere el párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 308 Bis.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
@@ -5070,13 +5094,13 @@ Las disposiciones reglamentarias señalarán los requisitos a que se sujetará e
 
 Los horarios en los que las estaciones de radio y televisión y las salas de exhibición cinematográfica podrán transmitir o proyectar, según el caso, publicidad de bebidas alcohólicas, se ajustarán a lo que establezcan las disposiciones generales aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 309 Bis.
 
 (DEROGADO, D.O.F. 30 DE MAYO DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 310.
 
@@ -5112,7 +5136,7 @@ Sólo se autorizará la publicidad de medicamentos con base en los fines con que
 
 La Secretaría de Salud determinará en qué casos la publicidad de productos y servicios a que se refiere esta Ley deberá incluir, además de los ya expresados en este Capítulo, otros textos de advertencia de riesgos para la salud.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE MAYO DE 2000)</small>
 
 TITULO DECIMOCUARTO
 
@@ -5416,7 +5440,7 @@ Para el control sanitario de los productos y de la disposición del embrión y d
 
 Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectúe sin estar autorizada por la Ley.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ### CAPITULO II. Revocación de autorizaciones sanitarias
 
@@ -5744,7 +5768,7 @@ El Centro Nacional de Trasplantes impulsará, junto con las Organizaciones de la
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 340.
 
@@ -6078,9 +6102,9 @@ Las autorizaciones sanitarias serán otorgadas por tiempo indeterminado, con las
 
 Las autoridades sanitarias competentes expedirán las autorizaciones respectivas cuando el solicitante hubiere satisfecho los requisitos que señalen las normas aplicables y cubierto, en su caso, los derechos que establezca la legislación fiscal.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 372.
 
@@ -6090,7 +6114,7 @@ La solicitud correspondiente deberá presentarse a las autoridades sanitarias co
 
 Sólo procederá la prórroga cuando se sigan cumpliendo los requisitos que señalen esta Ley y demás disposiciones aplicables y previo pago de los derechos correspondientes.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -6302,7 +6326,7 @@ IV.- Los terceros autorizados serán responsables solidarios con los titulares d
 
 V.- La Secretaría de Salud podrá reconocer centros de investigación y organizaciones nacionales e internacionales del área de la salud, que podrán fungir como terceros autorizados para los efectos de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 392.
 
@@ -6362,7 +6386,7 @@ En el supuesto de que el medio de comunicación social verificado sea la prensa 
 
 Las autoridades sanitarias podrán encomendar a sus verificadores, además, actividades de orientación, educación y aplicación, en su caso, de las medidas de seguridad a que se refieren las fracciones VII y X del artículo 404 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 398.
 
@@ -6462,7 +6486,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 Se consideran medidas de seguridad las disposiciones que dicte la autoridad sanitaria competente, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 403.
 
@@ -6554,7 +6578,7 @@ La suspensión de trabajos o servicios será temporal. Podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 413.
 
@@ -6562,7 +6586,7 @@ La suspensión de mensajes publicitarios en materia de salud, procederá cuando 
 
 En estos casos, los responsables de la publicidad procederán a suspender el mensaje, dentro de las veinticuatro horas siguientes a la notificación de la medida de seguridad, si se trata de emisiones de radio, cine o televisión, de publicaciones diarias o de anuncios en la vía pública. En caso de publicaciones periódicas, la suspensión surtirá efectos a partir del siguiente ejemplar en el que apareció el mensaje.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 414.
 
@@ -6584,7 +6608,7 @@ Los productos perecederos asegurados que se descompongan en poder de la autorida
 
 Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social públicas o privadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 414 Bis.
 
@@ -6644,7 +6668,7 @@ Se sancionará con multa hasta dos mil veces el salario mínimo general diario v
 
 Se sancionará con multa de dos mil hasta seis mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 75, 121, 142, 147, 153, 198, 200, 204, 241, 259, 260, 265, 267, 304, 307, 341, 348, segundo y tercer párrafo, 349, 350 bis, 350 bis 2, 350 bis 3 y 373 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE MAYO DE 2008)</small>
 
@@ -6916,7 +6940,7 @@ Se sancionará con pena de uno a ocho años de prisión y multa por el equivalen
 
 A quien sin la autorización correspondiente, utilice fuentes de radiaciones que ocasionen o puedan ocasionar daños a la salud de las personas, se le aplicará de uno a ocho años de prisión y multa equivalente de cien a dos mil días de salario mínimo general vigente en la zona económica de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 459.
 
@@ -6924,7 +6948,7 @@ Al que por cualquier medio pretenda sacar o saque del territorio nacional sangre
 
 Si el responsable es un profesional, técnico o auxiliar de las disciplinas para la salud, a la pena anterior se añadirá suspensión en el ejercicio de su profesión u oficio hasta por cuatro años.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 460.
 
@@ -7006,19 +7030,19 @@ Cuando la conducta descrita en el párrafo anterior sea producto de negligencia,
 
 En materia de medicamentos se aplicarán las penas que a continuación se mencionan, a la persona o personas que realicen las siguientes conductas delictivas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
 I.- A quien adultere, falsifique, contamine, altere o permita la adulteración, falsificación, contaminación o alteración de medicamentos, fármacos, materias primas o aditivos, de sus envases finales para uso o consumo humanos o los fabrique sin los registros, licencias o autorizaciones que señala esta Ley, se le aplicará una pena de tres a quince años de prisión y multa de cincuenta mil a cien mil días de salario mínimo general vigente en la zona económica de que se trate;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
 II.- A quien falsifique o adultere o permita la adulteración o falsificación de material para envase o empaque de medicamentos, etiquetado, sus leyendas, la información que contenga o sus números o claves de identificación, se le aplicará una pena de uno a nueve años de prisión y multa de veinte mil a cincuenta mil días de salario mínimo general vigente en la zona económica de que se trate, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
 
@@ -7068,7 +7092,7 @@ Las penas previstas en este Capítulo se aplicarán independientemente de las qu
 
 A las personas morales involucradas en la comisión de cualquiera de los delitos previstos en este Capítulo, se les aplicará, a juicio de la autoridad, lo dispuesto en materia de suspensión o disolución en el Código Penal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 473.
 
@@ -7172,7 +7196,7 @@ El Ministerio Público hará reporte del no ejercicio de la acción penal a la a
 
 Para los efectos de este capítulo se entiende que el narcótico está destinado para su estricto e inmediato consumo personal, cuando la cantidad del mismo, en cualquiera de sus formas, derivados o preparaciones no exceda de las previstas en el listado siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADO, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
@@ -7220,7 +7244,7 @@ México, D. F., a 26 de diciembre de 1983.- Luz Lajous, D.P.- Raúl Salinas Loza
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Fomento y Comercio Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecología, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 27 DE MAYO DE 1987.
 
@@ -7260,15 +7284,15 @@ NOVENO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 D.O.F. 24 DE OCTUBRE DE 1994.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 26 DE JULIO DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 9 DE JULIO DE 1996.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 7 DE MAYO DE 1997.
 
@@ -7418,7 +7442,7 @@ Artículo Cuarto.- El presente Decreto entrará en vigor al día siguiente de su
 
 D.O.F. 24 DE FEBRERO DE 2005.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 376 DE LA LEY GENERAL DE SALUD
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 376 DE LA LEY GENERAL DE SALUD
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -7482,7 +7506,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 
 D.O.F. 9 DE MAYO DE 2007.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 164 DE LA LEY GENERAL DE SALUD
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 164 DE LA LEY GENERAL DE SALUD
 
 ###### ARTÍCULO ÚNICO.
 
@@ -7490,7 +7514,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 9 DE MAYO DE 2007.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 79 DE LA LEY GENERAL DE SALUD
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 79 DE LA LEY GENERAL DE SALUD
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -7526,13 +7550,13 @@ SEXTO. Todos los empaques de tabaco fabricados en o importados hacia México deb
 
 D.O.F. 14 DE JULIO DE 2008.
 
-DECRETO QUE REFORMA LOS ARTICULOS 3o., FRACCION XXVIII, 13, APARTADO B, FRACCION I, 313, FRACCION II Y 350 BIS 3, SEGUNDO PARRAFO, Y SE ADICIONA LA FRACCION XXVIII BIS AL ARTICULO 3o. DE LA LEY GENERAL DE SALUD.
+DECRETO QUE REFORMA LOS ARTÍCULOS 3o., FRACCIÓN XXVIII, 13, APARTADO B, FRACCIÓN I, 313, FRACCIÓN II Y 350 BIS 3, SEGUNDO PÁRRAFO, Y SE ADICIONA LA FRACCIÓN XXVIII BIS AL ARTÍCULO 3o. DE LA LEY GENERAL DE SALUD.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 14 DE JULIO DE 2008.
 
-DECRETO QUE REFORMA LA FRACCION V DEL ARTICULO 100 Y EL ARTICULO 461, Y SE ADICIONAN LOS ARTICULOS 317 BIS Y 317 BIS 1, TODOS DE LA LEY GENERAL DE SALUD.
+DECRETO QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 100 Y EL ARTÍCULO 461, Y SE ADICIONAN LOS ARTICULOS 317 BIS Y 317 BIS 1, TODOS DE LA LEY GENERAL DE SALUD.
 
 Único. El presente Decreto entrará en vigor al siguiente día al de su publicación en el Diario Oficial de la Federación.
 
@@ -7542,7 +7566,7 @@ D.O.F. 15 DE DICIEMBRE DE 2008.
 
 D.O.F. 5 DE ENERO DE 2009.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 184 DE LA LEY GENERAL DE SALUD.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 184 DE LA LEY GENERAL DE SALUD.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -7570,7 +7594,7 @@ Segundo. La implementación de las acciones de capacitación para fortalecer la 
 
 D.O.F. 11 DE JUNIO DE 2009.
 
-DECRETO QUE ADICIONA EL ARTICULO 222 BIS A LA LEY GENERAL DE SALUD.
+DECRETO QUE ADICIONA EL ARTÍCULO 222 BIS A LA LEY GENERAL DE SALUD.
 
 Primero. El presente Decreto entrará en vigor a los 90 días posteriores a su publicación en el Diario Oficial de la Federación.
 
@@ -7584,7 +7608,7 @@ Quinto. El Reglamento del Comité de Moléculas Nuevas deberá expedirse antes d
 
 D.O.F. 11 DE JUNIO DE 2009.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS A LA LEY GENERAL DE SALUD.
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS A LA LEY GENERAL DE SALUD.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -7616,7 +7640,7 @@ Tercero.- A partir de la entrada en vigor de este Decreto, se podrán incorporar
 
 D.O.F. 27 DE ABRIL DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 222 DE LA LEY GENERAL DE SALUD.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 222 DE LA LEY GENERAL DE SALUD.
 
 PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación.
 
@@ -7626,7 +7650,7 @@ TERCERO. Se otorgan ciento ochenta días a la Secretaría de Salud, para crear l
 
 D.O.F. 27 DE ABRIL DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 464 TER DE LA LEY GENERAL DE SALUD.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 464 TER DE LA LEY GENERAL DE SALUD.
 
 Único.- El presente Decreto entrará en vigor a los sesenta días de su publicación en el Diario Oficial de la Federación.
 
@@ -7678,7 +7702,7 @@ QUINTO. Las acciones que, en su caso, deban realizar las dependencias y entidade
 
 D.O.F. 14 DE DICIEMBRE DE 2011.
 
-DECRETO POR EL QUE SE ADICIONA EL ARTICULO 41 BIS Y REFORMA EL ARTICULO 98 DE LA LEY GENERAL DE SALUD.
+DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 41 BIS Y REFORMA EL ARTÍCULO 98 DE LA LEY GENERAL DE SALUD.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -7694,7 +7718,7 @@ Por lo que se refiere a los establecimientos del sector público, la creación y
 
 D.O.F. 14 DE DICIEMBRE DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 100 DE LA LEY GENERAL DE SALUD.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 100 DE LA LEY GENERAL DE SALUD.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -7729,3 +7753,17 @@ SEGUNDO.- La Secretaría de Salud contará con 180 días naturales, posteriores 
 TERCERO.- La Secretaría de Salud, en términos de lo que establece la Ley Federal sobre Metrología y Normalización, deberá adecuar las normas oficiales mexicanas relacionadas a lo establecido por este Decreto.
 
 CUARTO.- Se exhorta a la Secretaría de Hacienda y Crédito Público para que dentro de su ámbito de atribuciones otorgue las facilidades administrativas que estime convenientes para la importación de insumos para la salud vinculados a protocolos de investigación debidamente autorizados por la Secretaría de Salud.
+
+D.O.F. 5 DE MARZO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 28 BIS A LA LEY GENERAL DE SALUD.
+
+ÚNICO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación, plazo durante el cual el Ejecutivo Federal, a través de la Secretaría de Salud y de conformidad con el texto propuesto en el último párrafo del artículo 28 Bis de la Ley General de Salud, deberá establecer los lineamientos y procedimientos de operación, así como los criterios para la prescripción de medicamentos por el personal de enfermería en la atención primaria a la salud.
+
+D.O.F. 5 DE MARZO DE 2012.
+
+DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 51 BIS 1 DE LA LEY GENERAL DE SALUD.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los gobiernos Federal, de las entidades federativas y de los municipios deberán desarrollar, de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr, de manera progresiva, el cumplimiento del mismo.
