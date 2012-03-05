@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-la-ninez-y-la-adolescencia-del-19740"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-05"
-last_updated: "2010-04-05"
+last_updated: "2012-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -155,9 +155,17 @@ II. A tener acceso a los servicios médicos necesarios, para la prevención, tra
 
 III. A recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal;
 
-IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
 
-V. A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación.
+IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genera estado de dependencia o adicción;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+
+V. A la salud y a los servicios integrales para la prevención, el tratamiento de enfermedades, su atención y rehabilitación; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2012)</small>
+
+VI. A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año del menor de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2008)</small>
 
@@ -337,9 +345,11 @@ Ese comité valorará los resultados, realizará las investigaciones pertinentes
 
 Los directores y el personal encargado de los centros de salud, públicos o privados, donde se lleven personas a que se refiere esta Ley para atenderlas, están obligados a denunciar ante el Ministerio Público cualquier sospecha razonable de maltrato o abuso cometido en contra de ellas. Igual obligación tendrán las autoridades y el personal de centros educativos, guarderías, estancias infantiles, centros tutelares o cualquier otro sitio donde permanezcan, se atiendan o se les preste algún servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### Artículo 35.
 
-Los centros de salud pública darán a la niña o la adolescente embarazada los servicios de información materno-infantil, el control médico durante el embarazo, la atención médica del parto y, en caso de que sea necesario, los suplementos vitamínicos para completar su dieta y la del recién nacido durante el período de lactancia.
+Los centros de salud pública darán a la niña o a la adolescente embarazada los servicios de información materno-infantil, capacitación para la lactancia materna y el amamantamiento, el control médico durante el embarazo, la atención médica del parto y, en caso de que sea necesario, los suplementos vitamínicos para complementar su dieta y la del recién nacido durante el período de lactancia, incentivando que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año del menor de edad.
 
 Las niñas o adolescentes embarazadas tendrán derecho a recibir un trato digno y respetuoso en los servicios de salud, particularmente en la atención médica u hospitalaria. En situaciones especiales de peligro para su salud o del producto de la gestación tendrá derecho preferente de atención.
 
@@ -950,3 +960,9 @@ P.O. 5 DE ABRIL DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
