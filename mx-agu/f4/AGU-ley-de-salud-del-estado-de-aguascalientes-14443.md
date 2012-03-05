@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2011-08-08"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -411,7 +411,9 @@ III.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Sa
 
 a).- La coordinación, evaluación y seguimiento de los servicios de salud a que se refiere el Artículo 34 fracción II de la Ley General de Salud;
 
-b).- El programa contra la farmacodependencia;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+b).- La prevención del consumo estupefacientes (sic) y psicotrópicos, la atención a las adicciones y elaboración de programas contra la farmacodependencia en términos de lo que dispone la Ley General de Salud;
 
 c).- El control sanitario de productos y servicios y de su importación y exportación;
 
@@ -911,9 +913,17 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil; y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
 
-III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años.
+II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida del menor;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+
+III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años; y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2012)</small>
+
+IV.- Bancos de leche materna en los establecimientos de salud que cuenten con servicios neonatales, para que de manera subsidiaria, en caso de no ser posible que para la madre desempeñar el amamantamiento natural o encontrarse en casos de desnutrición, se brinde la ayuda alimentaria debida y la tendiente a mejorar el estado nutricional del grupo materno infantil.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -1811,7 +1821,17 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO III. Programa contra la Farmacodependencia y Consumo de Estupefacientes y Psicotrópicos
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 161 A.- Para ejecutar el programa nacional para la prevención y tratamiento de la farmacodependencia, estupefacientes y psicotrópicos, la Secretaría de Salud se coordinará con las instancias federales y municipales en el ámbito de sus respectivas competencias en términos de lo que establece la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 161 B.- La Secretaría de Salud, respetando los lineamientos de la Ley General de Salud y el programa nacional para la prevención y tratamiento de la farmacodependencia, elaborará el programa estatal para la prevención, tratamiento y control de las adicciones, el cual será de observancia obligatoria para los prestadores de servicios de salud en el Estado en los establecimientos de los sectores público, privado y social que realicen actividades preventivas, de tratamiento y de control de las adicciones y la farmacodependencia.
+
+Las campañas de información y sensibilización que se difundan en el Estado deberán estar basadas en estudios científicos y alertar de manera adecuada sobre los efectos y daños físicos así como psicológicos del consumo de estupefacientes y psicotrópicos.
 
 ###### ARTICULO 139 Bis.
 
@@ -1953,7 +1973,7 @@ En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 ###### ARTICULO 140.
 
@@ -2033,7 +2053,7 @@ Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus res
 
 El patrimonio de la beneficencia pública será administrado por el organismo creado para ello, correspondiéndole entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos que a la misma se le destinen.
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
 
 ###### ARTICULO 153.
 
@@ -2073,7 +2093,7 @@ El Organismo en coordinación con otras instituciones públicas, promoverá que 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IV. Servicios Funerarios
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 158.
 
@@ -2097,7 +2117,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO V. Limpieza Pública
+### CAPITULO IV. Servicios Funerarios
 
 ###### ARTICULO 160.
 
@@ -2121,15 +2141,17 @@ III. La prevención del tabaquismo, haciendo énfasis en la infancia y la adoles
 
 IV. El tratamiento del tabaquismo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE MARZO DE 2012)</small>
+
+### CAPITULO V. Limpieza Pública
+
 ### CAPITULO VI. Agua Potable y Alcantarillado
+
+## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
 ### CAPITULO VII. Prostitución
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
-
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
-
-### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 162.
 
@@ -2181,7 +2203,7 @@ VI.- Número de cédula profesional, en su caso, del responsable sanitario.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos, la fabricación de nuevas líneas de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
 
-### CAPITULO IX. Baños Públicos
+### CAPITULO VIII. Reclusorios o Centros de Readaptación Social
 
 ###### ARTICULO 169.
 
@@ -2199,7 +2221,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 Los establecimientos ubicados dentro de los mercados o centros de abasto, catalogados como de salubridad general, serán verificados por la autoridad sanitaria competente.
 
-### CAPITULO X. Centros de Reunión y Espectáculos
+### CAPITULO IX. Baños Públicos
 
 ###### ARTICULO 172.
 
@@ -2235,7 +2257,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores, o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
+### CAPITULO X. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 180.
 
@@ -2259,7 +2281,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las Normas Oficiales Mexicanas que dicte la Secretaría de Salud.
 
-### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
 
 ###### ARTICULO 184.
 
@@ -2297,7 +2319,7 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO XIII. Establecimientos para el Hospedaje
+### CAPITULO XII. Tintorerías, Lavanderías y Planchadurías
 
 ###### ARTICULO 189.
 
@@ -2343,9 +2365,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los caños sean verti
 
 Las personas que intervengan en el abastecimiento de agua no podrán suprimir la dotación de servicio de agua potable y avenamiento de los edificios habitados, excepto en los casos que determinen las disposiciones generales aplicables.
 
-### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
-
-ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
+### CAPITULO XIII. Establecimientos para el Hospedaje
 
 ###### ARTICULO 199.
 
@@ -2371,7 +2391,9 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La Autoridad Municipal en coordinación con el Organismo, determinarán los lugares en donde se permitirá el ejercicio de la prostitución, de conformidad con las disposiciones legales y reglamentarias aplicables.
 
-### CAPITULO XV. Transporte Estatal y Municipal
+### CAPITULO XIV. Establecimientos para el Almacenamiento y Distribución de Combustibles
+
+ARTICULO 219,- Para los efectos de esta Ley, se entiende por establecimientos destinados al almacenamiento y distribución de combustibles los destinados al suministro de gasolina, aceites, lubricantes y demás productos derivados del petróleo que sean usados en vehículos automotores.
 
 ###### ARTICULO 205.
 
@@ -2391,7 +2413,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el Artículo 122 de esta Ley.
 
-### CAPITULO XVI. Prevención y Control de la Rabia en Animales
+### CAPITULO XV. Transporte Estatal y Municipal
 
 ###### ARTICULO 209.
 
@@ -2401,7 +2423,7 @@ Para los efectos de esta Ley, se entiende por baño público el establecimiento 
 
 El agua que se utilice en los baños públicos deberá ser potable y cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
-### CAPITULO XVII. De la Medicina Alternativa
+### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 211.
 
@@ -2411,9 +2433,7 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO I. Autorizaciones
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO XVII. De la Medicina Alternativa
 
 ###### ARTICULO 213.
 
@@ -2423,7 +2443,7 @@ Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza,
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2441,7 +2461,9 @@ III.- Planchaduría: El establecimiento dedicado al planchado de ropa, independi
 
 Los establecimientos señalados en el artículo anterior que utilicen sustancias tóxicas o peligrosas para la salud, estarán sujetos además, a las disposiciones emitidas por la Secretaría de Salud en la materia.
 
-### CAPITULO III. Certificados
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 217.
 
@@ -2451,21 +2473,21 @@ Para los efectos de esta Ley, se entiende por establecimiento para el hospedaje,
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar al servicio de hospedaje, así como su funcionamiento, se requiere dar el aviso de funcionamiento en los términos del Artículo 167 de esta Ley.
 
-### CAPITULO UNICO
+### CAPITULO III. Certificados
 
 ###### ARTICULO 220.
 
 Los establecimientos para el almacenamiento y distribución de combustibles deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas locales correspondientes.
 
-### CAPITULO I
-
-Medidas de Seguridad Sanitaria.
+### CAPITULO UNICO
 
 ###### ARTICULO 221.
 
 Para los efectos de esta Ley, se entiende por transporte todo aquel vehículo destinado al traslado de carga o de pasajeros sin importar su modo de propulsión, y que por sus características, puedan repercutir en la salud de la población, por lo que serán objeto de verificaciones periódicas por parte de la autoridad sanitaria, conforme a las disposiciones legales aplicables.
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I
+
+Medidas de Seguridad Sanitaria.
 
 ###### ARTICULO 222.
 
@@ -2499,17 +2521,17 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 Las autoridades sanitarias mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
 
 ###### ARTICULO 226.
 
 Para los efectos de esta ley se entiende por medicina alternativa: homeopatía, medicina naturista, quiropráctica, herbolaria, acupuntura, terapias de sanción, terapia con electroimanes, intercambio iónico, aromaterapia, energía universal, flores de Bach y otros, estando sujetos al control y vigilancia sanitaria, y cumplir con las disposiciones de esta Ley.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 227.
 
@@ -2556,6 +2578,8 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 ###### ARTICULO 235.
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 236.
 
@@ -3095,7 +3119,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE NOVIEMBRE DE 2001.
 
@@ -3297,11 +3321,27 @@ P.O. 13 DE JUNIO DE 2011.
 
 El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado.
 
-8 DE AGOSTO DE 2011.
+P.O. 8 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2012.
+
+DECRETO NÚMERO 178, POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN III, INCISO A) DEL ARTICULO 28; Y SE ADICIONA EL CAPITULO III DENOMINADO " PROGRAMA CONTRA LA FARMACODEPENDENCIA Y CONSUMO DE ESTUPEFACIENTES Y PSICOTRÓPICOS" CON LOS ARTÍCULOS 161 A Y 161 B, AL TITULO DECIMO SEGUNDO DENOMINADO " PROGRAMA CONTRA LAS ADICCIONES", A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2012.
+
+DECRETO NÚMERO 181, POR EL QUE SE REFORMAN LAS FRACCIONES II, III Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 72 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL NOVENO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL UNITARIO DEL DECIMOCTAVO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES Y RESIDENCIA. AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL UNITARIO DEL MISMO CIRCUITO Y RESIDENCIA. ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL DECIMOCTAVO CIRCUITO EN CUERNAVACA, MORELOS".]
 
