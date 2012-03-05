@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2010-08-02"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -61,7 +61,7 @@ III. Asegurar el acceso rápido, transparente y eficaz de las mujeres víctimas 
 
 IV. Estandarizar la intervención institucional en la prevención y detección de la violencia, en la atención de sus víctimas y en la reeducación de las personas que la ejercen;
 
-V. Favorecer la recuperación y la construcción de un nuevo proyecto de vida para las mujeres victimas de violencia de género;
+V. Favorecer la recuperación y la construcción de un nuevo proyecto de vida para las mujeres víctimas de violencia de género;
 
 VI. Asegurar la concurrencia, alineación y optimización de recursos e instrumentos de todo tipo destinados para actuar en contra de la problemática;
 
@@ -101,7 +101,7 @@ XIII. La esterilización provocada;
 
 XIV. La insensibilidad al dolor o a las enfermedades femeninas por parte de los sistemas médicos;
 
-XV. La negligencia en la procuración e imparticíón de la justicia en delitos contra la libertad y el normal desarrollo psicosexual, violencia doméstica y delitos violentos o de odio contra las mujeres, entre otros;
+XV. La negligencia en la procuración e impartición de la justicia en delitos contra la libertad y el normal desarrollo psicosexual, violencia doméstica y delitos violentos o de odio contra las mujeres, entre otros;
 
 XVI. La inclusión de las mujeres en programas dirigidos a sectores vulnerables;
 
@@ -183,9 +183,11 @@ La violencia de género contra las mujeres en el ámbito laboral y docente, es l
 
 Puede consistir en un solo evento dañino o en una serie de eventos, cuya suma produce el daño.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### Artículo 12.
 
-Constituye violencia de género contra las mujeres en el ámbito laboral, la negativa ilegal a contratar a la victima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por razón de género.
+Constituye violencia de género contra las mujeres en el ámbito laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en las leyes y todo tipo de discriminación por razón de género.
 
 ###### Artículo 13.
 
@@ -217,7 +219,7 @@ La prevención que en el Estado se realice tendrá como objetivo lograr que la s
 
 ###### Artículo 18.
 
-La atención que se proporcione a las mujeres victimas de violencia de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
+La atención que se proporcione a las mujeres víctimas de violencia de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
 
 ###### Artículo 19.
 
@@ -225,7 +227,7 @@ Los Núcleos de Atención Integral podrán proporcionarán (sic) los siguientes 
 
 I. Asesoría jurídica;
 
-II. Gestión de protección para la victima, testigos y denunciantes;
+II. Gestión de protección para la víctima, testigos y denunciantes;
 
 III. Seguimiento de indagatorias y procesos:
 
@@ -243,11 +245,11 @@ IX. Ludoteca.
 
 ###### Artículo 20.
 
-Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podrá brindar a las mujeres victimas de violencia de género y a sus hijas e hijos, seguridad, servicios de hospedaje y alimentación, y en su casó, los señalados en el Articulo anterior.
+Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podrá brindar a las mujeres víctimas de violencia de género y a sus hijas e hijos, seguridad, servicios de hospedaje y alimentación, y en su caso, los señalados en el Artículo anterior.
 
 ###### Artículo 21.
 
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las victimas en los refugios en contra de su voluntad.
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ###### Artículo 22.
 
@@ -285,7 +287,7 @@ I. Orden de salida obligatoria o desocupación de la persona violenta del domici
 
 II. Prestar apoyo a la víctima, y en su caso, facilitar los medios para trasladarla son sus familiares o conocidos dejándola en resguardo de los mismos para evitar el contacto con el agresor, hasta el momento en el que el juez determine su situación jurídica;
 
-III. Orden de reingreso de la victima al domicilio, una vez que se salvaguarde su seguridad,
+III. Orden de reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad,
 
 IV. Orden al probable responsable de abstenerse de molestar o intimidar a la víctima en su entorno social, así como a cualquier integrante de su familia;
 
@@ -303,11 +305,11 @@ IX. Orden de acceso al domicilio común, de autoridades policíacas o de persona
 
 X. Orden de entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
 
-XI. Orden de auxilio policiaco de reacción inmediata a favor de la victima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre ésta en el momento de solicitar el auxilio;
+XI. Orden de auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre ésta en el momento de solicitar el auxilio;
 
 XII. Suspensión temporal a la persona violenta del régimen de visitas y convivencia con sus descendientes, en caso de que la violencia se ejerciera en contra de éstos;
 
-XIII. Prohibición a la persona violenta de enajenar, hipotecar, disponer, ocultar o trasladar bienes propios de la victima o bienes comunes;
+XIII. Prohibición a la persona violenta de enajenar, hipotecar, disponer, ocultar o trasladar bienes propios de la víctima o bienes comunes;
 
 XIV. Embargo preventivo de bienes de la persona violenta, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar sus obligaciones alimentarías; y
 
@@ -317,7 +319,7 @@ XV. Obligación alimentaría provisional e inmediata.
 
 Las órdenes de protección contenidas en las Fracciones I a VI son de emergencia, y las contenidas en las Fracciones VIII a XI son preventivas, deberán ser otorgadas por parte del Ministerio Público, los jueces mixtos; de lo penal, civil y familiar, según corresponda. Las contenidas en las fracciones VII, y XII a XV son de naturaleza civil y deberán ser otorgadas por los jueces mixtos, de lo civil y familiar, que conozcan del asunto. Las órdenes de protección deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan y tendrán una temporalidad no mayor de setenta y dos horas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 28.
 
@@ -669,7 +671,7 @@ IX. Las demás que le asigne el Programa.
 
 Corresponde al Instituto para la Educación de Personas Jóvenes y Adultas:
 
-I. Desarrollar actividades orientadas a la resolución pacifica de conflictos interpersonales en la educación para personas adultas y detectar a mujeres en situación de violencia o en riesgo de padecerla;
+I. Desarrollar actividades orientadas a la resolución pacífica de conflictos interpersonales en la educación para personas adultas y detectar a mujeres en situación de violencia o en riesgo de padecerla;
 
 II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de la violencia de género contra las mujeres; así como la forma de prevenirla y atenderla desde su ámbito educativo;
 
@@ -749,7 +751,7 @@ III. Otorgar las facilidades necesarias para el cumplimiento y ejecución de las
 
 IV. Implementar un programa de información dirigido a los reclusos y jóvenes infractores para prevenir el fenómeno;
 
-V. Establecer y difundir el servicio telefónico para denunciar casos de violencia de género contra las mujeres y ofrecer, a través del mismo, asesoria especializada sobre el tema y sobre los servicios de asistencia que presta el Gobierno del Estado;
+V. Establecer y difundir el servicio telefónico para denunciar casos de violencia de género contra las mujeres y ofrecer, a través del mismo, asesoría especializada sobre el tema y sobre los servicios de asistencia que presta el Gobierno del Estado;
 
 VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
 
@@ -781,7 +783,7 @@ I. Promover la recepción de atención integral para las víctimas de violencia;
 
 II. Implementar procesos formales de capacitación sobre violencia de género contra las mujeres para servidoras y servidores públicos de su institución;
 
-III. Aplicar procedimientos de detección de la violencia de género contra las mujeres a grupos preséleccionados que acudan a sus oficinas;
+III. Aplicar procedimientos de detección de la violencia de género contra las mujeres a grupos preseleccionados que acudan a sus oficinas;
 
 IV. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de la violencia de género que se ejerce contra las mujeres, y su relación con la violencia social;
 
@@ -1063,11 +1065,11 @@ María Guadalupe Díaz Martínez,
 
 DIPUTADA PRESIDENTE.
 
-Dip. César Pérez Uríbe,
+Dip. César Pérez Uribe,
 
 PRIMER SECRETARIO.
 
-Dip. Ubaldo Trevíño Soledad,
+Dip. Ubaldo Treviño Soledad,
 
 SEGUNDO SECRETARIO.
 
@@ -1081,10 +1083,16 @@ El SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Angel Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE AGOSTO DE 2010.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
