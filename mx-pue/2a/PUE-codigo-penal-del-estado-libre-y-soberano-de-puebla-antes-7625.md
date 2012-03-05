@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-01-27"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "PUE"
 ---
 # CODIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA - ANTES CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA -
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 5 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE ENERO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE ENERO DE 2012.</small>
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE MARZO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 4 DE ENERO DE 2012.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -571,13 +569,13 @@ II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación d
 
 Si se trata de delitos que afecten la vida o la integridad corporal, el monto de la reparación del daño no podrá ser menor del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
 ###### Artículo 51 Quinquies.
 
 En los delitos cometidos por servidores públicos a que se refiere el Capítulo Decimonoveno de este Código, la reparación del daño consistirá en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2012)</small>
 
 ### CAPITULO DUODECIMO.- REGLAS DEL ASEGURAMIENTO DE BIENES, ENAJENACIÓN DE BIENES ABANDONADOS, DECOMISO, PÉRDIDA DE LOS INSTRUMENTOS DEL DELITO Y DESTRUCCIÓN DE COSAS PELIGROSAS O NOCIVAS
 
