@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2010-07-19"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ORGANOS CONSTITUCIONALES AUTONOMOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE AGUASCALIENTES -- ANTES ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ORGANOS CONSTITUCIONALES AUTONOMOS Y ORGANISMOS DESCENTRALIZADOS -- ANTES ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS --
 
-ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
+ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -83,23 +83,169 @@ IV.- Trabajadores accidentales.
 
 Son trabajadores de confianza:
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
-A).- En el Poder Legislativo, el Secretario General del Congreso, el Auditor Superior del Estado, los directores de área, los jefes de departamento, los asesores y auxiliares de cualquier índole y todo el personal de la tesorería y del Órgano Superior de Fiscalización, con excepción de las secretarias;
+A) En el Poder Legislativo:
 
-B).- En el Poder Ejecutivo, el Secretario y Subsecretario Generales de Gobierno; el Tesorero y Subtesorero Generales del Estado; el Secretario y Subsecretario de Administración; el Secretario y Subsecretario de Planeación y Desarrollo Estatal; el Secretario y Subsecretario de Obras Públicas; el Procurador General de Justicia; los Subprocuradores de Investigaciones y Procesos de la Procuraduría General de Justicia; el Secretario Ejecutivo de la Comisión Estatal de Seguridad Pública y Vialidad; el Contralor y Subcontralor General del Estado; el Procurador y Secretario de la Procuraduría de Protección Ciudadana; los Directores y Subdirectores Generales; el Presidente de la Junta Local de Conciliación y Arbitraje; los Secretarios de Acuerdos de la Junta Local de Conciliación y Arbitraje y del Tribunal de Arbitraje; el Procurador y Subprocurador del Trabajo; los Agentes del Ministerio Público; los Defensores de Oficio; los Inspectores del Trabajo; los Agentes de la Policía Ministerial; los integrantes de los Cuerpos de Vigilancia de los Centros de Readaptación de Varones y de Mujeres, así como del Centro Tutelar de Menores; el Representante del Ejecutivo en la Ciudad de México; los Secretarios Privado y Particular del Gobernador; los empleados al servicio personal del Gobernador; y los Asesores Jurídicos y Administrativos del Gobernador y del Secretario General de Gobierno;
+1. El Secretario General;
 
-C).- En el Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del Estado; los Jueces de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos; el Secretario de Acuerdos del Supremo Tribunal de Justicia del Estado; y los Secretarios de Estudio y Proyectos, Secretarios de Acuerdos, los Actuarios y Notificadores de los Juzgados de Primera Instancia de los Ramos Civil, Penal, Familiar y Mixtos;
+2. El Contralor Interno;
 
-D).- En los Municipios, los Regidores, Síndicos, los Delegados Municipales, los Subdelegados, los Comisarios, los jefes de Demarcación, los Jefes de Manzana, el Director de Gobernación, los Directores Generales, los Subdirectores Generales, los Coordinadores, los Directores de Area, los Jefes de Departamento, los Técnicos Profesionales "A" y "B", y los Agentes de Tránsito y de Seguridad Pública;
+3. Los Directores de Área;
 
-E).- En los organismos públicos descentralizados, los que se establezcan en la Ley que los crea, en términos de lo dispuesto por la Ley de Entidades Paraestatales del Estado de Aguascalientes.
+4. Coordinadores;
+
+5. Los Jefes de Departamento;
+
+6. Los Asesores y Auxiliares de cualquier índole; y
+
+7. Todo el personal del Órgano Superior de Fiscalización, con excepción de las secretarias.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+B) En el Poder Ejecutivo,
+
+1. El Jefe de Gabinete;
+
+2. Los Secretarios;
+
+3. El Procurador General de Justicia del Estado;
+
+4. El Procurador de la Defensa del Menor y la Familia del Sistema DIF Estatal;
+
+5. El Procurador de Protección al Ambiente del Estado de Aguascalientes;
+
+6. Los Subsecretarios;
+
+7. Los Subprocuradores;
+
+8. El Oficial Mayor;
+
+9. El Coordinador Estatal de Planeación y Proyectos;
+
+10. Los Coordinadores Generales;
+
+11. Los Coordinadores Especializados;
+
+12. Los Directores Generales;
+
+13. Los Directores de Área;
+
+14. Los Subdirectores Generales;
+
+15. Los Subdirectores de Área;
+
+16. Los Directores de Área;
+
+17. Los Jefes de Departamento;
+
+18. Los Presidentes, tanto de la Junta Local de Conciliación y Arbitraje como del Tribunal de Arbitraje establecido en el Título Noveno del presente Estatuto;
+
+19. Los Secretarios Generales, los Secretarios de Acuerdos y los actuarios, tanto de la Junta Local de Conciliación y Arbitraje como del Tribunal de Arbitraje del Estado;
+
+20. Los Defensores de Oficio;
+
+21. Los Inspectores del Trabajo;
+
+22. El Representante del Ejecutivo en la Ciudad de México;
+
+23. Los Secretarios Privado y Particular del Gobernador;
+
+24. Los Secretarios Particulares del Jefe de Gabinete, de los Secretarios, de los Sub - secretarios, y del Oficial Mayor en las Dependencias de la Administración Pública, así como los de los Directores Generales de las Entidades de la Administración Pública;
+
+25. El personal adscrito presupuestalmente a las Secretarías Particular y Privado (sic) o Ayudantías;
+
+26. Los Asesores Jurídicos, Políticos y Administrativos del Gobernador y de los Secretarios;
+
+27. Los representantes, mandatarios, procuradores, apoderados legales y abogados patronos de la dependencia o entidad;
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+C) En el Poder Judicial:
+
+1. Los Magistrados;
+
+2. Los Jueces;
+
+3. Los Proyectistas de Sala;
+
+4. Los Secretarios de Acuerdo y/o Estudio y Proyecto;
+
+5. Secretaría Particular;
+
+6. Auxiliares Jurídicos;
+
+7. Oficial Mayor;
+
+8. Jefe de Contabilidad;
+
+9. Jefe de Compras;
+
+10. Jefe de Almacén;
+
+11. Jefe de Activo Fijo;
+
+12. Auxiliar de Contabilidad;
+
+13. El Contralor;
+
+14. Directores;
+
+15. Jefes de Departamento;
+
+16. Coordinadores del Instituto de Capacitación;
+
+17. Mediadores;
+
+18. Ministros Ejecutores;
+
+19. Los Actuarios y Notificadores;
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+D) En los Municipios:
+
+1. Los Regidores;
+
+2. Los Síndicos;
+
+3. Los Secretarios y Subsecretarios;
+
+4. Los Delegados Municipales;
+
+5. Los Subdelegados;
+
+6. Los Comisarios;
+
+7. Los Jefes de Demarcación;
+
+8. Los Jefes de Manzana;
+
+9. El Director de Gobernación;
+
+10. Los Directores Generales;
+
+11. Los Subdirectores Generales;
+
+12. Los Coordinadores;
+
+13. Los Directores de Área;
+
+14. Los Jefes de Departamento;
+
+15. Los Técnicos Profesionales;
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+E) En los organismos públicos descentralizados, empresas de participación estatal y fideicomisos públicos, los que se establezcan en la Ley, decreto o contrato que los crea, en términos de lo dispuesto por la Ley de Control de Entidades Paraestatales del Estado de Aguascalientes, así como los que tengan puestos análogos a los señalados en el inciso B) de este Artículo.
 
 Además de los anteriores, se consideran como trabajadores de confianza en los tres Poderes, los Municipios y los organismos públicos descentralizados, aquellos que desempeñen funciones de dirección, inspección, vigilancia, fiscalización, auditoría, manejo de fondos y valores, cuando implique la facultad legal de disponer de éstos, control directo de adquisiciones, cuando se tenga la representación de la dependencia o entidad de que se trate, con facultades para disponer sobre adquisiciones y compras, y en general, cuantos desempeñen funciones análogas.
 
 Son trabajadores de base aquellos que prestan un servicio permanente y necesario para el Estado, Municipio u organismo público descentralizado, en virtud de nombramiento o por figurar en las nóminas o listas de raya.
 
-Son trabajadores temporales aquellos que siendo de base, únicamente prestan sus servicios en forma uniforme, por temporadas y en períodos fijos.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+Son trabajadores temporales aquellos que siendo de base, únicamente prestan sus servicios en forma uniforme, por temporadas y en períodos determinados.
 
 Son trabajadores accidentales aquellos que no constituyen una necesidad en el servicio o no requieren de la permanencia en el trabajo y que prestan sus servicios por obra y tiempo determinado.
 
@@ -107,9 +253,11 @@ Son trabajadores accidentales aquellos que no constituyen una necesidad en el se
 
 La categoría de trabajador de confianza depende de la naturaleza de las funciones y no de la designación que se le dé al puesto.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 7o.
 
-Esta Ley sólo regirá las relaciones entre el Estado, Municipios y organismos públicos descentralizados con sus trabajadores de base, temporales y accidentales. Los trabajadores de confianza no quedan comprendidos en ella y por lo tanto, no tienen derecho a la estabilidad en el empleo y únicamente gozarán de las normas protectoras del salario y del régimen de seguridad social.
+Esta Ley sólo regirá las relaciones entre el Estado, Municipios, Organismos Públicos Descentralizados, Empresas de Participación Estatal y Fideicomisos Públicos con sus trabajadores de base, temporales y accidentales. Los trabajadores de confianza no quedan comprendidos en ella y por lo tanto, no tienen derecho a la estabilidad en el empleo y únicamente gozarán de las normas protectoras del salario y del régimen de seguridad social.
 
 ###### ARTICULO 8o.
 
@@ -139,17 +287,19 @@ Sólo en lo que se refiere a los procedimientos previstos en el Título Décimo 
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 11.
 
-Los trabajadores de base y los temporales prestarán sus servicios mediante nombramiento expedido por la persona que estuviere facultada legalmente para hacerlo; los accidentales prestarán sus servicios por obra o tiempo determinado, cuando lo exija la naturaleza del trabajo que se va a desempeñar o cuando tenga por objeto sustituir temporalmente a otro trabajador. En todo caso, deberá celebrarse contrato por escrito, y a falta de escrituración expresa, se considerará al trabajador como de base.
+Los trabajadores de base prestarán sus servicios mediante nombramiento expedido por la persona que estuviere facultada legalmente para hacerlo; los trabajadores temporales prestarán sus servicios en lapsos de tiempo determinados; los accidentales prestarán sus servicios por obra o tiempo determinados de conformidad con los Programas que al efecto se expidan, cuando lo exija la naturaleza del trabajo que se va a desempeñar o cuando tenga por objeto sustituir temporalmente a otro trabajador. En caso de las contrataciones temporales y accidentales deberá celebrarse contrato por escrito, y a falta de éste se considerará al trabajador como de base.
 
 A falta de nombramiento, se presume la existencia de la relación laboral entre el Estado y sus servidores, por la prestación de un servicio personal subordinado, a cambio de un salario.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 12.
 
-Los trabajadores de base, por este solo hecho, serán inamovibles. Los trabajadores de nuevo ingreso obtendrán el derecho a la inamovilidad cuando hayan cumplido seis meses de servicios.
+Los trabajadores de base, por este solo hecho, serán inamovibles, salvo los casos de supresión de plazas, causas de rescisión de contrato y demás previstas en el presente Estatuto.
 
 ###### ARTICULO 13.
 
@@ -157,9 +307,11 @@ Las personas mayores de 14 años, tendrán capacidad legal para aceptar el nombr
 
 Los mayores de 14 y menores de 16 años de edad, para entrar al servicio del Estado, requerirán de permiso previo del Tribunal de Arbitraje, quién lo concederá siempre y cuando hayan concluido su educación obligatoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 14.
 
-Los nombramientos de los trabajadores de base y temporales, deberán contener:
+Los nombramientos de los trabajadores de base deberán contener:
 
 I.- Nombre;
 
@@ -178,6 +330,24 @@ III.- El servicio o servicios que deban prestarse y la categoría asignada;
 IV.- El lugar o lugares donde deba prestarse el servicio; y
 
 V.- La duración de la jornada de trabajo, y en general, las condiciones del mismo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 14 BIS.- Los nombramientos de los trabajadores de confianza, deberán contener:
+
+I. Nombre y firma del servidor público que emite el nombramiento;
+
+II. Nombre y firma del servidor público sujeto del nombramiento;
+
+III. Denominación del puesto que se desempeñará;
+
+IV. Aceptación del cargo para el cual fue nombrado el servidor público;
+
+V. Fecha de expedición;
+
+VI. Leyenda que establezca que se trata de un nombramiento para trabajador de confianza; y
+
+VII. Demás requisitos que establezcan otras disposiciones legales aplicables.
 
 ###### ARTICULO 15.
 
@@ -301,21 +471,47 @@ Ningún trabajador de base podrá ser cesado o despedido, sino por causa justifi
 
 Cuando el trabajador incurriere en cualquiera de las causas de rescisión establecidas en el artículo anterior, el jefe superior de la oficina respectiva o el funcionario correspondiente, podrá remover al trabajador que diere motivo para ello, a oficina distinta de aquélla en que estuviere prestando sus servicios, u optar por la suspensión del trabajador, si con ello está conforme el sindicato correspondiente, hasta que sea resuelto en definitiva el conflicto por el Tribunal de Arbitraje; en su defecto, el Estado podrá despedir en forma directa al servidor público.
 
-No podrá haber ninguna rescisión que no haya sido precedida por una investigación, y ésta no podrá llevarse a cabo cuando el trabajador se encuentre incapacitado, de vacaciones o con licencia. La investigación deberá realizarse dentro del horario en que preste sus servicios el trabajador.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+No podrá haber ninguna rescisión de la relación contractual, tratándose de trabajadores de base, que no haya sido precedida por una investigación, y esta no podrá llevarse a cabo cuando el trabajador se encuentre incapacitado, de vacaciones o con licencia. La investigación deberá realizarse dentro del horario en que preste sus servicios el trabajador. La no existencia de documento o acta que acredite la investigación previa, no elimina ni resta validez a la causal rescisoria que se invoque dentro del procedimiento ante el Tribunal de Arbitraje.
+
+> <small>(REFORMADO DE PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Si el Estado opta por la remoción y no logra acreditar en el juicio correspondiente, la causa de rescisión, el trabajador tendrá derecho a que se le reinstale en el puesto que venía desempeñando antes de la remoción y al pago de un salario equivalente al 50% del percibido durante el tiempo que duro ésta, por concepto de indemnización.
+Si el Estado opta por la remoción y no logra acreditar en el juicio correspondiente, la causa de la rescisión, el trabajador tendrá derecho a que se le reinstale en el puesto que venía desempeñando antes de la remoción y al pago de un mes de salario por concepto de indemnización.
 
-Si el Estado optare por la suspensión del trabajador y no logra acreditar en juicio la causa de rescisión invocada, el trabajador tendrá derecho a que se le reinstale en el cargo que venía desempeñando y el pago de los salarios caídos, cuantificados conforme al salario vigente en la fecha de reinstalación y hasta el día en que se cumplimente el laudo correspondiente.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+Si el Estado optare por la suspensión del trabajador y no logra acreditar en juicio la causa de rescisión invocada, el trabajador tendrá derecho a que se le reinstale en el cargo que venía desempeñando y el pago de los salarios caídos, conforme a las limitaciones que establece el presente Estatuto.
 
 El sindicato que autorizó la suspensión del trabajador, será responsable solidariamente de la sanción que se señale.
 
-Si el Estado opta por el despido directo y no comprueba la causa de éste, el trabajador tendrá derecho, a su elección, a que se le reinstale en el servicio que desempeñaba o que se le indemnice con el importe de tres meses de salario; además, el pago de los salarios caídos, desde la fecha del despido, hasta el día en que se cumplimente el laudo.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
-En el caso de reinstalación, tendrá derecho a recibir además, el equivalente a un mes de salario.
+Si el Estado opta por el despido directo y no comprueba la causa de éste, el trabajador tendrá derecho, a su elección, a que se le reinstale en el servicio que desempeñaba o que se le indemnice con el importe de tres meses de salario; además, en ambas acciones, el trabajador tendrá derecho al pago de los salarios caídos con las limitaciones que establece el presente Estatuto.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+En el caso de ejercitarse la acción de reinstalación y si el Estado no comprueba la causal de rescisión invocada, y por cualquier causa se negara a reinstalar al trabajador en el cargo que venía desempeñando, el Estado deberá pagar al trabajador una indemnización adicional de tres meses de salario, con lo cual se dará por cumplimentado el laudo y por terminada la relación laboral existente.
 
 Cuando el Tribunal resuelva que procede la rescisión de la relación de trabajo sin responsabilidad para el Estado, el trabajador no tendrá derecho a ninguna de las prestaciones que consigna este Artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 28 BIS.- Para los efectos de este Estatuto y para determinar la sanción correspondiente al monto de los salarios caídos, en cualquiera de las acciones o reclamaciones intentadas por el Trabajador ante el Tribunal de Arbitraje, los salarios caídos que se mencionan en el presente Estatuto, en ningún caso podrán ser superiores al equivalente a seis meses de salario del trabajador que será el tope máximo de imposición de dicha penalidad.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 28 TER.- El patrón quedará eximido de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el Artículo 28 en los casos siguientes:
+
+I. Cuando se trate de trabajadores que tengan una antigüedad menor de 6 meses;
+
+II. En los casos de trabajadores de confianza;
+
+III. Cuando se trate de trabajadores accidentales; o
+
+IV. Cuando se trate de trabajadores temporales.
 
 ###### ARTICULO 29.
 
@@ -324,6 +520,10 @@ Cuando el trabajador incurra en alguna de las causales a que se refiere el Artí
 Esto dará motivo a que por oficio, se le dé a conocer al trabajador la rescisión de la relación de trabajo, y si aquél se niega a recibirlo, el Estado, dentro de los cinco días siguientes a la fecha de la rescisión, deberá hacerlo del conocimiento del Tribunal de Arbitraje, proporcionando el domicilio que tenga registrado y solicitando su notificación al trabajador.
 
 La falta de oficio comunicando al trabajador la rescisión de la relación de trabajo por parte del funcionario respectivo o el titular de la dependencia, hará presumir la injustificación del cese.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+La no existencia de acta administrativa o documento reconocido por el trabajador, no invalida la causal de rescisión existente, la que podrá acreditarse por cualquier otro medio de prueba.
 
 ###### ARTICULO 30.
 
@@ -337,9 +537,17 @@ III.- Reducir el Estado el Salario al trabajador; y
 
 IV.- Pagar un salario inferior al mínimo general o profesional.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 31.
 
-El trabajador podrá separarse de su trabajo dentro de los TREINTA DIAS siguientes a la fecha en que se den cualquiera de las causas mencionadas en el artículo anterior, y tendrá derecho a que el Estado lo indemnice con el importe de tres meses de salario, más los salarios caídos desde la fecha de la separación y hasta que se dé cumplimiento al laudo que pronuncia el Tribunal de Arbitraje.
+El trabajador podrá separarse de su trabajo dentro de los treinta días siguientes a la fecha en que se den cualquiera de las causas mencionadas en el artículo anterior, y tendrá derecho a que el Estado lo indemnice con el importe de tres meses de salario, más los salarios caídos con las limitaciones que establece el presente Estatuto.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+
+ARTICULO 31 BIS.- Si el Estado se negara a someter sus diferencias al arbitraje, se dará por terminado el contrato de trabajo y el Estado estará obligado a indemnizar al trabajador con el importe de tres meses de salario, más los salarios caídos hasta el día que presente la insumisión al arbitraje ante el Tribunal de Arbitraje establecido en el título noveno del (sic) este Estatuto, salarios caídos que se sujetarán a las limitaciones que se establecen en este Estatuto.
+
+La acción de insumisión al arbitraje, podrá ser realizada independientemente de cualquier acción ejercitada por el trabajador, insumisión que deberá realizarse por el Estado, antes de dar contestación a la demanda instaurada por el trabajador, dándosele vista a la parte trabajadora para que vea y reciba las cantidades que por este concepto se le depositan, para que en su caso las reciba y se dé por terminado el conflicto laboral por estos conceptos instaurado, o en su caso para que manifieste lo que a su derecho corresponda.
 
 ## TITULO TERCERO. CONDICIONES GENERALES DE TRABAJO
 
@@ -615,7 +823,7 @@ VII.- Sustraerse a propagandas de toda clase dentro de los edificios, lugares de
 
 VIII.- Acudir a los centros de capacitación para mejorar su preparación y eficiencia.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE OCTUBRE DE 2001)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO TERCERO. Trabajo de las Mujeres
 
@@ -633,7 +841,9 @@ Las doce semanas a que se refiere esta fracción podrán ser aplicadas optativam
 
 III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto, en estos casos tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días;
 
-IV.- En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+
+IV.- En el período de lactancia tendrán dos descansos extraordinarios por día, media hora cada uno para lactar a sus hijos o para realizar extracción manual de leche. Lo anterior se realizará en el lugar que designe la institución o dependencia, mismo que deberá ser adecuado, higiénico, privado y que cuente con lavamanos y agua corriente, así como los implementos necesarios para la refrigeración y almacenamiento de la leche; de igual forma, tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los seis primeros meses de vida del menor y de carácter complementario hasta avanzado el segundo año de edad.
 
 V.- A regresar al puesto que desempeñaban, siempre y cuando no haya transcurrido más de un año de la fecha del parto;
 
@@ -989,6 +1199,14 @@ c).- Las acciones de los beneficiarios en los casos de muerte por riesgos de tra
 
 El término corre a partir del día siguiente en que se determine el grado de incapacidad para el trabajo, que se hubiese notificado el laudo o aprobado el convenio, y desde la fecha de muerte del trabajador.
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2012)</small>
+
+III. En SESENTA DÍAS NATURALES:
+
+a).- Las acciones de los trabajadores para reclamar el pago de salarios o diferencias salariales que no les hubiesen sido pagadas o depositadas correctamente en su nómina de pago electrónico.
+
+b).- Las acciones de los trabajadores para reclamar el pago de jornadas ordinarias o extraordinarias.
+
 ###### ARTICULO 108.
 
 La prescripción no puede comenzar ni correr:
@@ -1039,9 +1257,11 @@ V.- El representante del Estado, así como quien vaya a fungir como presidente d
 
 Los integrantes del Tribunal de Arbitraje, gozarán de los emolumentos que se les asignen en el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 114.
 
-El personal del Tribunal de Arbitraje se integrará además con un secretario general, un actuario y el personal administrativo necesario para el adecuado funcionamiento de sus actividades. Corresponderá al secretario general autorizar las actuaciones del Tribunal y de su presidente, y suplirá a éste en sus ausencias temporales.
+El personal del Tribunal de Arbitraje se integrará además con un secretario general, los secretarios de acuerdo, actuarios y personal administrativo necesario para el adecuado funcionamiento de sus actividades. Corresponderá al secretario general autorizar las actuaciones del Tribunal y de su presidente, y suplirá a éste en sus ausencias temporales.
 
 ###### ARTICULO 115.
 
@@ -1649,7 +1869,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Ing. José de Jesús Infante de Alba.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 P.O. 2 DE ABRIL DE 1995.
 
@@ -1736,3 +1956,23 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 5 DE MARZO DE 2012.
+
+DECRETO NÚMERO 180, POR EL QUE SE REFORMAN LOS INCISOS A), B), C), D), E) Y EL PÁRRAFO QUINTO DEL ARTÍCULO 5º; EL ARTÍCULO 7º; EL PÁRRAFO PRIMERO DEL ARTÍCULO 11; EL ARTÍCULO 12; EL PÁRRAFO PRIMERO DEL ARTÍCULO 14; SE ADICIONA EL ARTÍCULO 14 BIS; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 27; SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO, CUARTO Y QUINTO DEL ARTÍCULO 28; SE ADICIONAN LOS ARTÍCULOS 28 BIS; 28 TER; Y EL PÁRRAFO CUARTO AL ARTÍCULO 29; SE REFORMA EL ARTÍCULO 31; SE ADICIONAN EL ARTÍCULO 31 BIS; LA FRACCIÓN III AL ARTÍCULO 107 Y SE REFORMA EL ARTÍCULO 114 DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2012.
+
+DECRETO NÚMERO 181, POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTICULO 58 BIS DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
