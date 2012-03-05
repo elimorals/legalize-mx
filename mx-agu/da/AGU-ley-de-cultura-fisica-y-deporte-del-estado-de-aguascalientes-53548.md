@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2010-07-19"
+last_updated: "2012-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de enero de 2007.
 
@@ -145,9 +145,11 @@ VI. Rehabilitación Física: Actividades para restablecer a una persona sus capa
 
 El Gobierno del Estado en sus respectivas jurisdicciones promoverá las acciones necesarias para fomentar la cultura física y deporte, de conformidad con las bases de coordinación previstas en esta Ley, su Reglamento y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### Artículo 6°.
 
-El Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias, promoverán el adecuado ejercicio del derecho de todos los individuos a la cultura física y a la práctica del deporte.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 ###### Artículo 7°.
 
@@ -335,7 +337,7 @@ k) Secretaría de la Defensa Nacional del Gobierno Federal; y
 
 I) Los Ayuntamientos de los Municipios del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2007)</small>
 
 ###### Artículo 18.
 
@@ -1109,7 +1111,7 @@ Los titulares de las dependencias de la Administración Pública Estatal, tendr�
 
 Igualmente, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con su entrenamiento y participación en competiciones oficiales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE ENERO DE 2010)</small>
 
 ### CAPITULO DECIMO NOVENO. De la Infraestructura
 
@@ -1337,7 +1339,7 @@ Los métodos, prácticas y análisis para determinar el uso de sustancias y/o m�
 
 Los Poderes Públicos en el ámbito de sus respectivas competencias, adoptarán medidas normativas para controlar la circulación, disponibilidad, tenencia, importación, distribución, venta y utilización en el deporte de agentes dopantes y de métodos de dopaje prohibidos o no reglamentarios.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2010)</small>
 
 ### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
 
@@ -1593,7 +1595,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE JULIO DE 2007.
 
@@ -1628,3 +1630,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las referencias realizadas a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda en la Ley Orgánica de la Contaduría Mayor de Hacienda del Estado de Aguascalientes, y en otros ordenamientos jurídicos vigentes, se entenderán realizadas a la Comisión de Vigilancia, con todas las facultades inherentes.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
