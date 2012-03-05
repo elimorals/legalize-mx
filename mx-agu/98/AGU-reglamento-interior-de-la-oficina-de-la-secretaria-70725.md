@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-oficina-de-la-secretaria-70725"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-02"
-last_updated: "2009-11-02"
+last_updated: "2012-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA OFICINA DE LA SECRETARÍA PARTICULAR DEL C. GOBERNADOR DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL GOBERNADOR DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE FECHA 5 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de noviembre de 2009.
 
@@ -420,3 +422,15 @@ Secretario General de Gobierno.
 LIC. ALEJANDRO BERNAL RUBALCAVA,
 
 Secretario Particular.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2012.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Reglamento Interior de la Secretaría Particular publicado en el Periódico Oficial del Estado el 2 de noviembre de 2009.
+
+TERCERO: Se abroga el Reglamento Interior de la Coordinación de Comunicación Social, publicado en el Periódico Oficial del Estado el 29 de marzo de 2010.
+
+CUARTO: La Secretaría Particular, la Secretaría Privada, la Coordinación de Asesores, la Dirección General de Administración y Servicios y la Coordinación de Comunicación Social cuentan con noventa días naturales a partir de la fecha de publicación del presente, para que elaboren sus respectivos Manuales de Organización, los cuales deberán ser registrados en la Oficialía Mayor del Gobierno del Estado.
