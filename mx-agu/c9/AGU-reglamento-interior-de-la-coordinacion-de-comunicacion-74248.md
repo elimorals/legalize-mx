@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-coordinacion-de-comunicacion-74248"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-29"
-last_updated: "2010-03-29"
+last_updated: "2012-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74248&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA OFICINA DEL DESPACHO DEL GOBERNADOR DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 5 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de marzo de 2010.
 
@@ -274,3 +276,15 @@ SECRETARIO GENERAL DE GOBIERNO.
 Lic. Carolina Rincón Silva,
 
 COORDINADORA DE COMUNICACIÓN SOCIAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2012.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga el Reglamento Interior de la Secretaría Particular publicado en el Periódico Oficial del Estado el 2 de noviembre de 2009.
+
+TERCERO: Se abroga el Reglamento Interior de la Coordinación de Comunicación Social, publicado en el Periódico Oficial del Estado el 29 de marzo de 2010.
+
+CUARTO: La Secretaría Particular, la Secretaría Privada, la Coordinación de Asesores, la Dirección General de Administración y Servicios y la Coordinación de Comunicación Social cuentan con noventa días naturales a partir de la fecha de publicación del presente, para que elaboren sus respectivos Manuales de Organización, los cuales deberán ser registrados en la Oficialía Mayor del Gobierno del Estado.
