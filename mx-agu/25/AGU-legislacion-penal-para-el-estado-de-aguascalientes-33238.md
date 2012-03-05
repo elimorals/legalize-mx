@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2012-01-30"
+last_updated: "2012-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -255,7 +255,7 @@ La punibilidad descrita en el párrafo anterior se duplicará cuando el inculpad
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -293,7 +293,7 @@ II. Realizar cópula con persona que no tenga capacidad para comprender el signi
 
 Al responsable de Violación Equiparada se le aplicarán de 12 a 18 años de prisión y de 150 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable hace uso de la fuerza física, moral o psicológica sobre la clase de víctimas señaladas en el presente Artículo, la punibilidad será de 15 a 25 años de prisión y de 250 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2006)</small>
 
 ###### Artículo 26.
 
@@ -311,7 +311,7 @@ II. El llevar a cabo la introducción descrita en el artículo 26 en persona que
 
 Al responsable de Abuso Sexual Equiparado se le aplicarán de 3 a 8 años de prisión y de 10 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable utiliza la fuerza física o moral respecto de la clase de víctimas señaladas en el presente artículo, la punibilidad será de 4 años 6 meses a 12 años de prisión y de 15 a 75 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JULIO DE 2007)</small>
 
 ###### Artículo 28.
 
@@ -389,7 +389,7 @@ Si la entrega del menor se hace sin la finalidad de obtener un beneficio económ
 
 Si quien recibe al menor acredita que lo hizo para incorporarlo a un núcleo familiar para otorgarle los beneficios propios de tal incorporación, la punibilidad será de 6 meses a 2 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 35.
 
@@ -397,7 +397,7 @@ La Sustracción de Menores e Incapaces consiste en sustraer o retener a un menor
 
 Al responsable de Sustracción de Menores e Incapaces se le aplicarán de 4 a 10 años de prisión y de 10 a 60 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Si el responsable es familiar del menor o incapaz y no ejerce sobre él la custodia, la tutela o la guarda, se le aplicarán de 2 a 4 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 2007)</small>
 
 ###### Artículo 36.
 
@@ -405,7 +405,7 @@ El Adulterio consiste en tener relaciones sexuales el hombre o la mujer con pers
 
 Al responsable de Adulterio se le aplicarán de 1 a 2 años de prisión y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 Artículo 36 A.- La violencia familiar consiste en usar la fuerza física o moral en contra de un miembro de la familia por otro integrante de la misma y que ello le cause afectación en su integridad física o psíquica.
 
@@ -433,7 +433,7 @@ La Privación Ilegal de la Libertad consiste en el arresto o detención de una p
 
 Al responsable de Privación Ilegal de la Libertad se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2010)</small>
 
 ###### Artículo 38.
 
@@ -541,7 +541,7 @@ II. Dejar el automovilista, motorista, conductor de un vehículo cualquiera, cic
 
 Al responsable de Omisión de Auxilio se le aplicarán de 3 meses a 2 años de prisión y de 25 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 Artículo 43 A.- Las Amenazas consisten en la advertencia que se hace a otro con causarle un mal en su persona, bienes, honor o derechos, o en la persona o derechos de alguien con quien esté ligado por algún vínculo, se le impondrá de 6 meses a 2 años de prisión y de 90 a 180 días de multa y a la reparación total de los daños y perjuicios ocasionados.
 
@@ -791,7 +791,7 @@ Al responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y
 
 La Extorsión consiste en la obtención de un lucro para sí o para otro, causando un perjuicio patrimonial a la víctima, al obligarlo, sin derecho, mediante uso de la fuerza física o moral, a hacer, tolerar o dejar de hacer algo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
 Al responsable de Extorsión se le aplicarán, además de la pena de decomiso, de:
 
@@ -817,7 +817,7 @@ c) Miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque
 
 En su caso, si procede se hará la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cualquier cargo como servidor público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 50.
 
@@ -1313,7 +1313,7 @@ En este caso, la punibilidad será de 6 meses a 3 años de prisión y de 25 a 50
 
 La persona privada legítimamente de su libertad que se evada del establecimiento donde se encuentra internada, por estar cumpliendo una sanción privativa de la libertad, o en período de detención o prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2010)</small>
 
 ### CAPITULO DECIMO SEGUNDO. Tipos Penales Protectores de la Confidencialidad y la Intimidad de la Información
 
@@ -1625,7 +1625,7 @@ Al responsable de Atentados al Equilibrio Ecológico Dolosos se le aplicarán de
 
 Para los efectos del presente título, actúa dolosamente el que conociendo los elementos de la descripción típica o previendo como posible el resultado típico, quiere o acepta la realización del hecho punible descrito. También actúa dolosamente el que, queriendo producir el resultado de lesión o de peligro, produce otro, por error en la persona o en el objeto, y se aplicará en este caso, la pena o medida de seguridad correspondiente al tipo comprobado, valorándose las circunstancias de configuración del hecho.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO DECIMO NOVENO. Tipos penales protectores de las personas
 
@@ -1655,7 +1655,7 @@ Artículo 91 E.- La Explotación de Grupos Socialmente Desfavorecidos consiste e
 
 Al responsable de la explotación de grupos socialmente desfavorecidos se le aplicarán de 6 meses a 2 años de prisión y de 15 a 50 días multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE ABRIL DE 2007)</small>
 
 ### CAPITULO VIGESIMO. Tipos Penales Protectores de la Salud Pública
 
@@ -1677,7 +1677,7 @@ En el caso de los atentados a la Salud Pública a que se refieren las fracciones
 
 Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, cuando demuestre que no tenía conocimiento de que la carne o productos animales para consumo humano que comercializa o expende se encuentren contaminados con sustancias beta-agonistas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2008)</small>
 
 ### CAPITULO VIGESIMO PRIMERO. Tipos Penales Protectores de la Movilización de los Sistemas de Respuesta de Emergencia
 
@@ -1737,7 +1737,7 @@ II. De 2 a 7 años de prisión, de 25 a 150 días multa, al pago total de la rep
 
 Si las Lesiones Culposas se cometen por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados e inhabilitación para obtener licencia para conducir de 2 a 5 años.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. Tipos Penales Protectores del Patrimonio
 
@@ -1751,7 +1751,7 @@ Al responsable de Daño en las Cosas Culposo se le aplicarán de 3 meses a 2 añ
 
 Si el Daño en las Cosas Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 2 a 5 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y suspensión o inhabilitación para obtener licencia para conducir de 2 a 5 años.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO TERCERO. Tipos Penales Protectores de la Seguridad y el Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
@@ -1935,7 +1935,7 @@ Las autoridades competentes que conozcan del procedimiento, procederán al inmed
 
 Cuando se trate de bienes inmuebles se deberá ordenar la inscripción respectiva en el Registro Público de la Propiedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 117.
 
@@ -2615,7 +2615,7 @@ II. Participe con el inculpado en una asociación ilícita que guarde relación 
 
 III. Participe en la evasión del inculpado o en su tentativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 204.
 
@@ -3021,7 +3021,7 @@ Las notificaciones personales se harán en el tribunal, o en el domicilio design
 
 Si el que debe ser notificado se niega a recibir al servidor público encargado de hacer la notificación, o las personas que residen en el domicilio se rehusan a recibir la cédula, o no se encuentra a nadie en el lugar, se fijará la cédula en la puerta de la entrada, asentándose razón en autos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 270.
 
@@ -3153,11 +3153,15 @@ Al ser aprehendido un servidor público, empleado o encargado de un servicio pú
 
 ### CAPITULO OCTAVO. Arraigo
 
+(NOTA: EL 25 DE FEBRERO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, CON EFECTOS A PARTIR DEL 6 DE MARZO DE 2012, EN LA INTELIGENCIA DE QUE DICHOS EFECTOS SE SURTIRÁN CON MOTIVO DE LA NOTIFICACIÓN DEL FALLO AL CONGRESO DEL ESTADO DE AGUASCALIENTES, LA CUAL SE EFECTUÓ EL 2 DE ABRIL DE 2014. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### Artículo 291.
 
-Cuando con motivo de la integración de una averiguación previa el Ministerio Público estime necesario el arraigo del inculpado, por temer que pueda sustraerse a la acción de la justicia, solicitará, fundando y motivando la petición, al órgano jurisdiccional, que aquél sea decretado, tomando en cuenta la gravedad de los hechos y las circunstancias personales del inculpado.
+El arraigo es la medida cautelar, autorizada por la autoridad judicial, para que el indiciado permanezca a su disposición en el lugar, bajo la forma y los medios de realización solicitados por el Ministerio Público, con la vigilancia de éste y sus órganos auxiliares; que se prolongará por el tiempo estrictamente indispensable probado para culminar la investigación del hecho, y que en ningún caso y bajo ningún concepto podrá exceder de cuarenta días.
 
-El arraigo consiste en la vigilancia de la autoridad que ejercerá el Ministerio Público y sus auxiliares sobre la persona del inculpado, para que este no salga del territorio del Estado y sin que deje de asistir diariamente a su domicilio, y que se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de 30 días hábiles.
+A petición del Ministerio Público, la autoridad judicial deberá pronunciarse dentro de un plazo no mayor a doce horas contadas a partir del momento de la recepción de la solicitud de arraigo del indiciado, de manera fundada y motivada, siempre que se trate de hechos punibles que puedan ser adecuados en figuras típicas calificadas como graves y cuando exista riesgo fundado de que el indiciado se sustraiga a la acción de la justicia o para la protección de personas o bienes jurídicos, a fin de lograr el éxito de la investigación.
 
 ### CAPITULO NOVENO. Restitución
 
@@ -3257,7 +3261,7 @@ La autoridad ministerial o jurisdiccional competente, que esté conociendo del p
 
 ### CAPITULO PRIMERO. Averiguación Previa o Fase Inicial del Procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 304.
 
@@ -3327,7 +3331,7 @@ Cuando sean varios las víctimas u ofendidos y cada uno de ellos pueda ejercer s
 
 Si los inculpados fueren varios el perdón otorgado a uno de ellos, solo beneficia a aquel a quien se le otorgue.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 308.
 
@@ -3459,7 +3463,7 @@ Asimismo, en el oficio mediante el cual se ejercite la acción penal, el Ministe
 
 En caso de que en la fase de averiguación previa se haya otorgado al indiciado el beneficio de la libertad provisional bajo caución, se anexará al expediente el documento correspondiente a la garantía exhibida.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 316.
 
@@ -3519,9 +3523,11 @@ Si el inculpado se sustrae a la acción de la autoridad, el término de la presc
 
 En el caso de que el procesado se haya sustraído valiéndose del beneficio de la libertad provisional bajo caución, la prescripción comenzará a correr desde el día siguiente a aquel en que debió ordenarse la reaprehensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2012)</small>
+
 ###### Artículo 322.
 
-En tratándose de hechos punibles que puedan ser o sean encuadrados en las figuras típicas descritas en el artículo 308, el Ministerio Público promoverá la conciliación de los sujetos procesales interesados, utilizando las reglas de mediación, así como a las instituciones públicas autorizadas para el efecto. En caso de que tal conciliación sea factible, se elaborará convenio al respecto, en el que se establecerá lo siguiente:
+En tratándose de hechos punibles que puedan ser o sean encuadrados en las figuras típicas descritas en el Artículo 308, a petición de la víctima u ofendido o cuando el Ministerio Público lo estime conveniente, se podrá promover la conciliación de los sujetos procesales interesados, utilizando las reglas de mediación, así como a las instituciones públicas autorizadas para el efecto. En caso de que tal conciliación sea factible, se elaborará convenio al respecto, en el que se establecerá lo siguiente:
 
 I. Lugar, fecha y hora de su realización;
 
@@ -3553,7 +3559,9 @@ Si se trata de delitos calificados como graves y la afectación haya sido de car
 
 El juez ante el cual se ejercite la acción penal, radicará el asunto inmediatamente y sin más trámite le abrirá expediente en el que resolverá lo que legalmente corresponda, practicando sin demora alguna, todas las diligencias que promuevan los sujetos procesales interesados.
 
-El juez ordenará o negará la aprehensión o la citación para declaración preparatoria solicitada por el Ministerio Público, en un término de diez días hábiles, contados a partir de la fecha en que se haya acordado la radicación del asunto.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
+
+El juez ordenará o negará la aprehensión o la citación para declaración preparatoria solicitada por el Ministerio Público, en un término de cuarenta y ocho horas para el caso de hechos punibles que puedan ser adecuados en figuras típicas calificadas como graves, y en un término de diez días hábiles para los demás casos, ambos contados a partir de la fecha en que se haya recibido el oficio mediante el cual se ejercite la acción penal.
 
 Si el juez no resuelve oportunamente sobre los puntos anteriores en los términos señalados, el Ministerio Público adscrito al tribunal podrá recurrir en reclamación ante el Supremo Tribunal de Justicia.
 
@@ -3631,7 +3639,7 @@ VII. Nombre y firma del juez que dictó la resolución y del secretario o testig
 
 Si dentro del término previsto en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos no se reúnen los requisitos necesarios para dictar el auto de formal prisión, por no haberse comprobado el cuerpo del delito de las figuras típicas consideradas o la probable responsabilidad del indiciado, el juez dictará auto de libertad por falta de elementos. Tal resolución será notificada al Agente del Ministerio Público que ejercitó la acción penal, para que se proceda en los términos establecidos en el Artículo 327.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 337.
 
@@ -3759,7 +3767,7 @@ b) Informar el inculpado de la existencia del hecho punible a las autoridades co
 
 c) Reparar el inculpado los daños y perjuicios ocasionados, o disminuir sus efectos, antes de que se dicte sentencia, o se encuentre en el supuesto procesal establecido en el artículo 342.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2007)</small>
 
 Par (sic) efecto, se consideran circunstancias Agravantes, aplicables a todos los hechos punibles:
 
@@ -3847,7 +3855,7 @@ La resolución que aclare una sentencia se reputará parte integrante de ella.
 
 La solicitud de aclaración de la sentencia interrumpe el plazo señalado para la apelación de ésta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 365.
 
@@ -3951,7 +3959,7 @@ La suspensión condicional tendrá la duración de la pena de prisión suspendid
 
 Si el beneficiado no cumpliere con las obligaciones contraídas, se podrá hacer efectiva la pena de prisión aplicada en su totalidad. En este caso, el Juez de Ejecución, con audiencia del interesado, procederá a decidir sobre la revocación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 375.
 
@@ -4337,7 +4345,7 @@ La confesión es la aceptación voluntaria llevada a cabo por el inculpado del h
 
 ### CAPITULO SEPTIMO. Medios Complementarios
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 434.
 
@@ -4711,7 +4719,7 @@ XXIII. Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXI
 
 XXIV. Uso indebido de llamadas telefónicas para movilizar los sistemas de respuesta de emergencia, previsto en el Artículo 91 G si la conducta del infractor provoca un accidente o daños a consecuencia de su llamada falsa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2009)</small>
 
@@ -4813,7 +4821,7 @@ V. Compromiso de la institución afianzadora que se establecerá en términos de
 
 VI. Nombre y domicilio del agente autorizado en el Estado de Aguascalientes por la institución afianzadora emisora de la póliza, para la formulación de requerimientos legales, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 489.
 
@@ -4873,7 +4881,7 @@ III. Cuando el procesado sea absuelto; o
 
 IV. Cuando se declare plenamente responsable al procesado y se presente voluntariamente a cumplir con la totalidad de las penas y medidas de seguridad que se le hayan aplicado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 494.
 
@@ -5155,7 +5163,7 @@ Si una vez concluida la tercera fase del procedimiento penal ordinario, el proce
 
 Este precepto también regirá en los procedimientos que tengan por objeto la aplicación de una medida de seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -5177,7 +5185,7 @@ En ningún caso la indemnización por cada día de privación de la libertad, po
 
 Siempre que el afectado lo solicite, se deberá ordenar la publicación en el Periódico Oficial del Estado, de un extracto de la sentencia o de la resolución que declare el sobreseimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -5185,7 +5193,7 @@ Siempre que el afectado lo solicite, se deberá ordenar la publicación en el Pe
 
 La indemnización que se otorgue en términos del Artículo anterior, no será impedimento para que quien la reciba pueda ejercer otras acciones ante los tribunales competentes por la vía que corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -5197,7 +5205,7 @@ El Estado pagará la indemnización regulada en este Título haciendo uso del Fo
 
 La aplicación de una ley posterior más benigna durante el procedimiento que torne injusta la pena o la medida de seguridad, no habilitará la indemnización en este título regulada, así como la declaratoria de inconstitucionalidad de la norma que en su momento se haya aplicado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEGISLACION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -5437,7 +5445,7 @@ IV. Cuando dos personas hayan sido sentenciadas por el mismo hecho punible con l
 
 V. Cuando el sentenciado lo hubiere sido por los mismos hechos en dos procedimientos diversos. En este caso, será nula la segunda sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### Artículo 587.
 
@@ -5557,7 +5565,7 @@ Dip. José Alfredo Cervantes García,
 
 SEGUNDO SECRETARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEGISLACION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE OCTUBRE DE 2003.
 
@@ -5579,19 +5587,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 12 DE DICIEMBRE DE 2005.
 
-DECRETO NUMERO 78
+DECRETO NÚMERO 78, POR EL QUE SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 45, ASÍ COMO UNA FRACCIÓN XIII AL ARTÍCULO 481, Y LA ACTUAL FRACCIÓN XIII PASARÍA A SER LA XIV; LA XIV SERÍA LA XV Y ASÍ SUCESIVAMENTE HASTA LA XIX QUE PASARÍA A SER LA XX, DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE DICIEMBRE DE 2005.
 
-DECRETO NUMERO 79
+DECRETO NÚMERO 79, POR EL QUE SE REFORMAN LOS ARTÍCULOS 87 Y 88 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 UNICO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE DICIEMBRE DE 2005.
 
-DECRETO NUMERO 82
+DECRETO NÚMERO 82, POR EL QUE SE REFORMAN EL ARTÍCULO 20 Y EL ARTÍCULO 23 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
@@ -5599,7 +5607,7 @@ SEGUNDO.- Los artículos 20 y 23 de la legislación Penal para el Estado de Agua
 
 P.O. 12 DE DICIEMBRE DE 2005.
 
-DECRETO NUMERO 85
+DECRETO NÚMERO 85, POR EL QUE SE REFORMAN LA FRACCIÓN VII, FRACCIÓN VIII, EL PÁRRAFO SEGUNDO Y PÁRRAFO TERCERO, Y SE ADICIONA LA FRACCIÓN IX AL PÁRRAFO PRIMERO, DEL ARTÍCULO 13 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5613,7 +5621,7 @@ El Presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 10 DE ABRIL DE 2006.
 
-DECRETO NUMERO 80
+DECRETO NÚMERO 80, POR EL QUE SE REFORMA EL ARTÍCULO 48 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTICULO UNICO.
 
@@ -5621,7 +5629,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 10 DE ABRIL DE 2006.
 
-DECRETO NUMERO 153
+DECRETO NÚMERO 153, POR EL QUE SE REFORMAN LOS ARTÍCULOS 40, 41 Y 557, FRACCIÓN I, Y SE ADICIONAN LOS ARTÍCULOS 40 A Y 40 B, DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 UNICO.- El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
@@ -5655,7 +5663,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 23 DE ABRIL DE 2007.
 
-DECRETO NUMERO 313
+DECRETO NÚMERO 313, POR EL QUE SE REFORMAN LOS ARTÍCULOS 42; 353, PÁRRAFO TERCERO, INCISO E); 481 FRACCIONES XIX Y XX, ASIMISMO, SE ADICIONAN LOS INCISOS G) Y H) AL ARTÍCULO 353 PÁRRAFO TERCERO; Y UNA FRACCIÓN XXI AL ARTÍCULO 481, DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTICULO PRIMERO.
 
@@ -5667,7 +5675,7 @@ El Artículo 42 de la Legislación Penal para el Estado de Aguascalientes, vigen
 
 P.O. 23 DE ABRIL DE 2007.
 
-DECRETO NUMERO 314
+DECRETO NÚMERO 314, POR EL QUE SE ADICIONA EL CAPÍTULO VIGÉSIMO Y UN ARTÍCULO 91 F AL TÍTULO PRIMERO DEL LIBRO PRIMERO DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTICULO UNICO.
 
@@ -5699,7 +5707,7 @@ Los procedimientos penales que en cualquier instancia estén en trámite al inic
 
 P.O. 7 DE ABRIL DE 2008.
 
-DECRETO NUMERO 60, POR EL QUE SE REFORMAN LOS ARTICULOS 24 Y 25 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 60, POR EL QUE SE REFORMAN LOS ARTÍCULOS 24 Y 25 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5707,7 +5715,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 7 DE ABRIL DE 2008.
 
-DECRETO NUMERO 61, POR EL QUE SE REFORMAN LOS ARTICULOS 562, 563 Y 564 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 61, POR EL QUE SE REFORMAN LOS ARTÍCULOS 562, 563 Y 564 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5733,7 +5741,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 8 DE SEPTIEMBRE DE 2008.
 
-DECRETO NUMERO 124, POR EL QUE SE ADICIONA LA FRACCION XIV Y SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTICULO 45 Y LA FRACCION XIII DEL ARTICULO 481 DE LA LEGISLACION PENAL DEL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 124, POR EL QUE SE ADICIONA LA FRACCIÓN XIV Y SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 45 Y LA FRACCIÓN XIII DEL ARTÍCULO 481 DE LA LEGISLACIÓN PENAL DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5741,7 +5749,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 8 DE SEPTIEMBRE DE 2008.
 
-DECRETO NUMERO 125, POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV DEL ARTICULO 308; LAS FRACCIONES XXI Y XXIII DEL ARTICULO 481; SE ADICIONA EL CAPITULO VIGESIMO PRIMERO AL TITULO PRIMERO DEL LIBRO PRIMERO, ASI COMO EL ARTICULO 91 G; LA FRACCION XXVI AL ARTICULO 308 Y LA FRACCION XXIV AL ARTICULO 481 DE LA LEGISLACION PENAL DEL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 125, POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 308; LAS FRACCIONES XXI Y XXIII DEL ARTÍCULO 481; SE ADICIONA EL CAPÍTULO VIGÉSIMO PRIMERO AL TÍTULO PRIMERO DEL LIBRO PRIMERO, ASÍ COMO EL ARTÍCULO 91 G; LA FRACCIÓN XXVI AL ARTÍCULO 308 Y LA FRACCIÓN XXIV AL ARTÍCULO 481 DE LA LEGISLACIÓN PENAL DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5749,7 +5757,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 8 DE SEPTIEMBRE DE 2008.
 
-DECRETO NUMERO 132, POR EL QUE SE REFORMAN LAS FRACCIONES XXIII Y XXIV, Y SE ADICIONA LA FRACCION XXV AL ARTICULO 481 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 132, POR EL QUE SE REFORMAN LAS FRACCIONES XXIII Y XXIV, Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 481 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5757,7 +5765,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 8 DE SEPTIEMBRE DE 2008.
 
-DECRETO NUMERO 134, POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV Y SE ADICIONA LA FRACCION XXVI AL ARTICULO 481; Y UN ARTICULO 43 B A LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 134, POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV Y SE ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 481; Y UN ARTÍCULO 43 B A LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5821,7 +5829,7 @@ El Poder Ejecutivo, deberá emitir las Reglas de Operación para la Administraci
 
 P.O. 2 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 296, POR EL QUE SE REFORMA EL ARTICULO 33 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 296, POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5829,7 +5837,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 2 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 297, POR EL QUE SE REFORMA EL ARTICULO 35 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 297, POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5837,7 +5845,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 23 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 299, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 145, 480, 485, 486 A, 488, 489, 490, 494, Y 495 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 299, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 145, 480, 485, 486 A, 488, 489, 490, 494, Y 495 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -5845,7 +5853,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 23 DE NOVIEMBRE DE 2009.
 
-DECRETO No. 300, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 79, 379, 424 Y 429 DE LA LEGISLACION PENAL PARA EL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 300, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 79, 379, 424 Y 429 DE LA LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5988,3 +5996,9 @@ P.O. 30 DE ENERO DE 2012.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
