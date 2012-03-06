@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2011-10-18"
+last_updated: "2012-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 159, DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -1379,11 +1379,81 @@ IV. Recomendar los alimentos y los procedimientos que conduzcan al consumo míni
 
 V. Difundir los productos alimenticios y bebidas que han sido procesados, su contenido en altas, medias o bajas cantidades de azúcares, grasas totales, grasas saturadas, grasas trans (sic) y sal, señalando la cantidad específica de cada una de estas concentraciones, de acuerdo a las normas establecidas por la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2012)</small>
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. DE LA PREVENCION Y ATENCION INTEGRAL DE LA OBESIDAD Y LOS TRASTORNOS ALIMENTICIOS DEL ESTADO DE GUERRERO
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2012)</small>
+
+ARTICULO 108 TER. - El Gobierno del Estado, a través de la Secretaría de Salud propociará (sic), coordinará y supervisará la participación de los sectores público, privado y social, en el diseño, ejecución y evaluación del Programa para la Prevención y Combate de la Obesidad, Sobrepeso y Trastornos Alimenticios del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2012)</small>
+
+ARTICULO 108 QUATER.- Se crea el Consejo para la Prevención y la Atención Integral de la Obesidad y los Trastornos Alimenticios del Estado de Guerrero como instancia colegiada, para el diseño, consulta, evaluación y coordinación de las estrategias y programas en materia de prevención y atención integral de sobrepeso, obesidad y trastornos alimenticios en la población del Estado de Guerrero.
+
+A. El Consejo estará integrado por:
+
+I. La persona titular de la Secretaría de Salud, como Presidente;
+
+II. La Presidente del DIF-Guerrero, como Vicepresidenta;
+
+III. La persona titular de la Secretaría de Educación (sic) Guerrero;
+
+IV. La persona del Programa para la prevención y Combate de la Obesidad, Sobrepeso y Trastornos Alimenticios del Estado de Guerrero, como Secretario Técnico;
+
+V. La Presidencia de la Comisión de Salud del Congreso del Estado, y
+
+VI. Tres representantes del sector social, tres del sector privado, del Estado de Guerrero.
+
+Los integrantes de los sectores social y privado serán propuestos por el Gobernador del Estado, quienes deberán contar con experiencia y conocimiento especializados en materia de obesidad, sobrepeso y trastornos alimenticios, así como en el fomento de una vida saludable.
+
+El cargo de los integrantes del Consejo es de carácter honorario.
+
+A las reuniones del Consejo podrán ser invitados especialistas en la materia, servidores públicos, entre otros, cuya trayectoria profesional o actividades los vincule con los objetivos del Programa, quienes tendrán derecho únicamente a voz.
+
+B. El Consejo sesionará ordinariamente tres veces por año, y de manera extraordinaria cuantas veces sea convocado por el Secretario Técnico con autorización previa de su Presidente.
+
+Las sesiones del Consejo y los acuerdos que en la misma se tomen, deberá existir quórum que se garantizará con la asistencia de la mitad más uno de sus integrantes.
+
+C. El Consejo podrá crear comités y grupos de trabajo con carácter permanente y transitorio, con objetivos específicos de estudio y atención de los asuntos relacionados con sus atribuciones.
+
+El Consejo y los Comités, se regirá (sic) por las normas establecidas en la presente Ley y el Reglamento Interior que para el efecto se apruebe.
+
+D. El Consejo tendrá las siguientes funciones y atribuciones:
+
+I. Formular el Programa para la Prevención y Combate a la Obesidad, Sobrepeso y Trastornos Alimenticios en el Estado de Guerrero;
+
+II. Promover de manera permanente la adopción social de hábitos alimenticios y nutricionales, a través de las diferentes entidades de la administración pública estatal y municipales;
+
+III. Estimular las tareas de investigación y divulgación en materia de obesidad, sobrepeso y trastornos alimenticios;
+
+IV. Garantizar el conocimiento, difusión y acceso a la información a la sociedad en general, en materia de prevención y combate a la obesidad, sobrepeso y trastornos alimenticios;
+
+V. Diseñar y evaluar políticas de prevención y atención integral relacionadas con el sobrepeso, la obesidad y los trastornos alimenticios, así como en materia de fomento a una vida saludable;
+
+VI. Funcionar como un organismo de consulta permanente en materia de estrategias y programas encaminados hacia la prevención y atención del sobrepeso, la obesidad y los trastornos alimenticios, así como el fomento de una vida saludable;
+
+VII. Ser el vínculo entre los sectores público, social y privado, en materia de prevención y atención integral del sobrepeso, la obesidad y los trastornos alimenticios, así como de fomento de una vida saludable;
+
+VIII. Suscribir acuerdos, convenios, e instrumentos jurídicos que se requieran para la prevención y atención integral de su objeto;
+
+IX. Crear Comités y Comités de trabajo tanto de carácter permanente como transitorio, para el estudio ya (sic) tención de los asuntos específicos relacionados con su objeto;
+
+X. Las demás que esta y otras leyes le concedan.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2012)</small>
+
+ARTICULO 108 QUINTUS.- La prevención y atención del sobrepeso, la obesidad y los trastornos alimenticios son un problema de salud pública, y debe ser prioridad en las acciones emprendidas por el Gobierno del Estado.
+
+Las dependencias y entidades que integran la administración pública del Estado de Guerrero, los organismos públicos autónomos, las dependencias y entidades de la administración pública Municipal, en el ámbito de sus respectivas competencias, instrumentarán las políticas de prevención y atención integral de combate al sobrepeso, la obesidad y trastornos alimenticios, que para tal efecto diseñe el Consejo.
+
+A. Las instituciones gubernamentales del Estado y de los Municipios, deberán implementar rutinas diarias de actividad física dentro de sus horarios laborales, para modificar y erradicar hábitos de sedentarismo, brindando atención médica a los trabajadores. Asimismo, promoverán espacios deportivos y de recreación para que su personal pueda acceder de manera gratuita.
+
+En estas acciones deberán coordinarse con la Secretaría de Salud.
+
+B. Las dependencias y entidades que integran la Administración Pública del Estado de Guerrero, de los Municipios y los organismos públicos autónomos, en sus anteproyectos de presupuesto de egresos, contendrán la previsión de gasto para el desarrollo de las acciones de prevención y atención del sobrepeso, la obesidad y trastornos alimenticios de su personal laboral, de conformidad con la presente Ley.
+
+### CAPITULO V. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 109.
 
@@ -1431,7 +1501,21 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO VI. DE LA MEDICINA TRADICIONAL
+### CAPITULO VI. SALUD OCUPACIONAL
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
+###### ARTICULO 114.
+
+La Secretaría de Salud, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+
+###### ARTICULO 115.
+
+El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO VII. DE LA MEDICINA TRADICIONAL
 
 > <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1449,29 +1533,17 @@ ARTICULO 115 QUATER.- Tanto la Secretaría de Salud como las instancias que conf
 
 La Secretaría de Salud, reconocerá y certificara, a través, de programas de capacitación a los terapeutas indígenas, así como a las parteras tradicionales, que presten sus servicios en los Centros, de Desarrollo de la Medicina Indígena Tradicional a que se refiere el párrafo anterior.
 
-###### ARTICULO 114.
-
-La Secretaría de Salud, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
-
-###### ARTICULO 115.
-
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2011)</small>
+## TITULO NOVENO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
-## TITULO NOVENO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
-
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
-
 ###### ARTICULO 116.
 
 Corresponde a la Secretaría de Salud en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 117.
 
@@ -1585,7 +1657,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 131.
 
@@ -1609,7 +1681,7 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 134.
 
@@ -1639,7 +1711,7 @@ Dicho consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 ## TITULO DECIMO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 136.
 
@@ -1785,7 +1857,7 @@ El organismo del Gobierno del Estado previsto en el artículo 141 de ésta Ley t
 
 ## TITULO DECIMO PRIMERO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 160.
 
@@ -1809,7 +1881,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 162.
 
@@ -1827,9 +1899,7 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 164.
 
@@ -1851,7 +1921,9 @@ A los establecimientos que vendan o utilicen substancias e inhalantes con efecto
 
 ## TITULO DECIMO SEGUNDO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 166.
 
@@ -1871,7 +1943,7 @@ Los propietarios o encargados de los establecimientos en que se expendan o sumin
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 170.
 
@@ -1949,7 +2021,7 @@ El organismo publicará en el Periódico Oficial del Estado, las normas en mater
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO III. CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 177.
 
@@ -1971,7 +2043,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 ARTICULO 179 BIS.- La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 180.
 
@@ -2011,7 +2083,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estimen de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 189.
 
@@ -2043,7 +2115,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida el organismo y las normas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 195.
 
@@ -2083,7 +2155,7 @@ El Gobierno del Estado, por conducto de sus municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 201.
 
@@ -2121,9 +2193,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuarán en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO VIII
-
-ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES.
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 209.
 
@@ -2165,7 +2235,9 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en los ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las normas oficiales mexicanas en materia de contaminación.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII
+
+ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES.
 
 ###### ARTICULO 218.
 
@@ -2187,9 +2259,9 @@ Los establecimientos a que se refiere este capítulo, no podrán ser ubicados en
 
 ###### ARTICULO 220.
 
-Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que de refiere el artículo 218 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
+Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 218 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. PROSTITUCION
 
 ###### ARTICULO 221.
 
@@ -2221,7 +2293,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual solicitará la opinión de la Secretaría de Salud, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 ###### ARTICULO 228.
 
@@ -2243,7 +2315,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios o centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el artículo 118 de esta Ley.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 232.
 
@@ -2259,7 +2331,7 @@ Para abrir al servicio público estos establecimientos, deberá notificarse a la
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas en materia de salubridad local correspondientes que dicte la Secretaría de Salud.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 235.
 
@@ -2275,7 +2347,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 235 de esta Ley, deberá acatar lo expuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 238.
 
@@ -2285,7 +2357,7 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo 238 deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y a las normas técnicas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 240.
 
@@ -2301,7 +2373,7 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 242.
 
@@ -2317,7 +2389,7 @@ La Secretaría de Salud, realizará la verificación sanitaria a los establecimi
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá notificar de acuerdo a lo que establece el artículo 174 de esta Ley.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 245.
 
@@ -2329,7 +2401,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que para tal efecto se emitan.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 247.
 
@@ -2341,7 +2413,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTICULO 249.
 
@@ -2377,7 +2449,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 253.
 
@@ -2421,7 +2493,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 261.
 
@@ -2481,7 +2553,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 269.
 
@@ -2515,7 +2587,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 274.
 
@@ -2623,7 +2695,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 286.
 
@@ -2723,7 +2795,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 299.
 
@@ -2815,7 +2887,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 311.
 
@@ -2889,7 +2961,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 321.
 
@@ -2962,6 +3034,8 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### ARTICULO 332.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 333.
 
@@ -3114,3 +3188,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en dos Diarios de Circulación Estatal, para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Notifíquese a las Autoridades competentes
+
+P.O. 6 DE MARZO DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
+
+Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
