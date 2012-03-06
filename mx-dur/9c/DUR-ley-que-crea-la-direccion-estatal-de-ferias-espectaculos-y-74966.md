@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-la-direccion-estatal-de-ferias-espectaculos-y-7496
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-13"
-last_updated: "2010-05-13"
+last_updated: "2012-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY QUE CREA LA DIRECCION ESTATAL DE FERIAS, ESPECTACULOS Y EXPOSICIONES DE DURANGO
 
-LEY QUE CREA LA DIRECCION ESTATAL DE FERIAS, ESPECTACULOS Y EXPOSICIONES DE DURANGO
+LEY QUE CREA LA DIRECCIÓN ESTATAL DE FERIAS, ESPECTÁCULOS Y EXPOSICIONES DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "FERIAS, ESPECTÁCULOS Y PASEOS TURISTICOS DE DURANGO", PUBLICADA EN EL P.O. 6 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 13 de mayo de 2010.
 
@@ -442,3 +444,35 @@ C.P. ISMAEL ALFREDO HERNÁNDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Ley que crea la Dirección Estatal de Ferias, Espectáculos y Exposiciones de Durango, publicada en el Periódico Oficial del Gobierno Constitucional del Estado, número 38 Bis, de fecha 13 de mayo de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, financieros y materiales del Centro de Ferias, Espectáculos y Exposiciones de Durango, del Museo Túnel de Minería y del Teleférico de Durango serán transferidos al Organismo Público descentralizado "Ferias, Espectáculos y Paseos Turísticos de Durango", en los términos establecidos en la Ley para la Entrega Recepción de las Administraciones Públicas del Estado y Municipios de Durango.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos y trámites del Centro de Ferias, Espectáculos y Exposiciones de Durango, del Museo Túnel de Minería, del Teleférico de Durango, y del Corredor Turístico de Calle Constitución, Alamedas y Cuchillas, serán transferidos en los términos del artículo anterior y serán resueltos por el Organismo Público descentralizado "" (sic) Ferias, Espectáculos y Paseos Turísticos de Durango".
+
+###### ARTÍCULO SEXTO.
+
+El titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración, efectuará las reasignaciones presupuestales conducentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Organismo Público descentralizado "Ferias, Espectáculos y Paseos Turísticos de Durango ", se subrogará en todos los derechos y obligaciones asumidos por, el Centro de Ferias, Espectáculos y Exposiciones de Durango, el Museo Túnel de Minería, del Teleférico de Durango y el organismo administrador de la Calle Constitución, Alamedas y Cuchillas.
