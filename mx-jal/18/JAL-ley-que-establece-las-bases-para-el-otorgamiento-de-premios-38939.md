@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2011-08-13"
+last_updated: "2012-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -62,6 +62,10 @@ V. Titular del Ejecutivo: El Titular del Poder Ejecutivo del Estado de Jalisco.
 ###### Artículo 3.
 
 Los premios y condecoraciones se otorgarán como reconocimiento público a las personas físicas o jurídicas, jaliscienses o que hayan residido en el Estado como mínimo 5 años, que se hayan distinguido de manera relevante por sus actos, obras, proyectos o por una trayectoria ejemplar a favor del estado, del país o de la humanidad.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2012)</small>
+
+Los criterios que se sustenten para el otorgamiento de los premios y condecoraciones tendrán como finalidad la igualdad de oportunidades para todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -105,7 +109,9 @@ V. Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud;
 
 VI. Consejo Estatal para la Cultura y las Artes;
 
-VII. H. Congreso del Estado;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2012)</small>
+
+VII. H. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Cultura;
 
 VIII. La Federación de Colegios de Profesionistas de Jalisco; y
 
@@ -400,5 +406,17 @@ P.O. 9 DE DICIEMBRE DE 2010.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 13 DE AGOSTO DE 2011.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 6 DE MARZO DE 2012.
+
+DECRETO No. 23972/LIX/12 POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 3 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+DECRETO No. 23974/LIX/12 POR LO QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 9.º DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO.
+
+P.O. 6 DE MARZO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
