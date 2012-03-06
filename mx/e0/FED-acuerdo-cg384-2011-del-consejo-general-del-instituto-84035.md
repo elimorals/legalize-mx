@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-cg384-2011-del-consejo-general-del-instituto-84035"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2012-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84035&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-11-23"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE MODIFICA EL ACUERDO CG325/2011 POR EL CUAL SE DESIGNO A LOS CONSEJEROS ELECTORALES DE LOS CONSEJOS LOCALES QUE SE INSTALARÁN PARA LOS PROCESOS ELECTORALES FEDERALES 2011-2012 Y 2014-2015, EN ACATAMIENTO A LO ORDENADO POR LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, AL RESOLVER LOS JUICIOS PARA LA PROTECCIÓN DE LOS DERECHOS POLÍTICO-ELECTORALES DEL CIUDADANO, IDENTIFICADOS CON LOS NÚMEROS DE EXPEDIENTE SUP-JDC-10804/2011, SUP-JDC-10809/2011, SUP-JDC-10811/2011 SUP-JDC-10822/2011 Y SU ACUMULADO, SUP-JDC-10836/2011 Y SUP-JDC-11449/2011
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2012.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 5 de diciembre de 2011.
 
@@ -409,7 +409,9 @@ Aranda Atiyeh Yunes, Claudia Enedina S1
 
 Pulido Corral, Norma Beatriz S2
 
-Gamboa de la Peña, María de Lourdes S3
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO CG82/2012 DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 6 DE MARZO DE 2012)</small>
+
+Arrieta Silva, Enrique S3
 
 Martínez Carmona, Rita Monserrat S4
 
@@ -556,3 +558,9 @@ Unico. El presente Acuerdo entrará en vigor a partir del momento de su aprobaci
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 23 de noviembre de dos mil once, por votación unánime de los Consejeros Electorales, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández y el Consejero Presidente, Doctor Leonardo Valdés Zurita.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 6 DE MARZO DE 2012.
+
+Unico. El presente Acuerdo entrará en vigor a partir del momento de su aprobación por el Consejo General de este Instituto.
