@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-propiedad-en-condominio-para-el-estado-de-guerrero-26361
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2012-01-03"
+last_updated: "2012-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NÚMERO 557
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 13 de diciembre de 2002.
 
@@ -693,7 +693,9 @@ El Reglamento del Condominio y, en su caso, del conjunto condominal deberá de f
 
 Las cuotas de los condóminos se establecerán para:
 
-I.- Integrar el fondo de administración y mantenimiento destinado a cubrir el gasto corriente que se genere en la administración, operación y servicios no individualizados de las áreas comunes del condominio. El importe de la cuota se establecerá distribuyendo los gastos entre el número de unidades de propiedad exclusiva y se cubrirá conforme a la periodicidad y procedimiento estipulado en el Reglamento del Condominio; y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2012)</small>
+
+I.- Integrar el fondo de administración y mantenimiento destinado a cubrir el gasto corriente que se genere en la administración, operación y servicios no individualizados de las áreas comunes del condominio. El importe de la cuota se establecerá distribuyendo los gastos en proporción al porcentaje de indiviso que represente cada unidad de propiedad exclusiva y se cubrirá conforme a la periodicidad y procedimiento estipulado en el Reglamento del Condominio, y
 
 II.- Constituir el fondo de reserva destinado a cubrir los gastos de adquisición de implementos y maquinarias con que deba contar el condominio, obras, mantenimiento y reparaciones mayores. El importe de la cuota se establecerá en proporción al valor actual de cada unidad de propiedad exclusiva, determinándose en el Reglamento el monto general y su periodicidad.
 
@@ -886,6 +888,18 @@ DECRETO No. 881, POR EL QUE SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 9, EL 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 6 DE MARZO DE 2012.
+
+DECRETO No. 987, POR EL QUE SE REFORMA LA FRACCIÓN I DEL PRIMER PÁRRAFO DEL ARTÍCULO 66, DE LA LEY DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE GUERRERO NÚMERO 557.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ###### ARTÍCULO SEGUNDO.
 
