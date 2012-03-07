@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-civiles-4145"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-02-02"
-last_updated: "2007-09-12"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Código publicado en Alcance al Periódico Oficial del Estado de Chiapas, de 2 de febrero de 1938.
 
@@ -43,15 +43,19 @@ DE LAS ACCIONES Y EXCEPCIONES.
 
 DE LAS ACCIONES.
 
-ART. 1.- EL EJERCICIO DE LAS ACCIONES CIVILES REQUIERE:
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
-I.- LA EXISTENCIA DE UN DERECHO;
+ART. 1.- LAS DISPOSICIONES DE ESTE CODIGO SON DE ORDEN PUBLICO, INTERES SOCIAL Y DE OBSERVANCIA GENERAL EN EL ESTADO DE CHIAPAS. LOS PRINCIPIOS QUE LE RIGEN SON LA IGUALDAD, LA NO DISCRIMINACION Y EL RESPETO A LA DIGNIDAD Y LIBERTAD DE LAS PERSONAS; EN ESTE SENTIDO, CUANDO EN ESTE CODIGO SE UTILICE EL GENERICO MASCULINO POR EFECTOS GRAMATICALES, SE ENTENDERA QUE SE HACE REFERENCIA A MUJERES Y A HOMBRES POR IGUAL; EN ESE TENOR LOS NOMBRAMIENTOS QUE PARA TAL EFECTO SE EXPIDAN, DEBERAN REFERIRSE EN CUANTO A SU GENERO.
 
-II.- LA VIOLACION DE UN DERECHO O EL DESCONOCIMIENTO DE UNA OBLIGACION, O LA NECESIDAD DE DECLARAR, PRESERVAR O CONSTITUIR UN DERECHO;
+EL EJERCICIO DE LAS ACCIONES CIVILES REQUIERE:
 
-III.- LA CAPACIDAD PARA EJERCITAR LA ACCION POR SI O POR LEGITIMO REPRESENTANTE;
+I. LA EXISTENCIA DE UN DERECHO;
 
-IV.- EL INTERES EN EL ACTOR PARA DEDUCIRLA.
+II. LA VIOLACION DE UN DERECHO O EL DESCONOCIMIENTO DE UNA OBLIGACION, O LA NECESIDAD DE DECLARAR, PRESERVAR O CONSTITUIR UN DERECHO;
+
+III. LA CAPACIDAD PARA EJERCITAR LA ACCION POR SI O POR LEGITIMO REPRESENTANTE;
+
+IV. EL INTERES EN EL ACTOR PARA DEDUCIRLA;
 
 FALTA EL REQUISITO DEL INTERES SIEMPRE QUE NO PUEDE ALCANZARSE EL OBJETO DE UNA ACCION, AUN SUPONIENDO FAVORABLE LA SENTENCIA.
 
@@ -5252,3 +5256,9 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los juicios en materia civil así como la tramitación y resolución de las apelaciones pendientes a la entrada en vigor de estas reformas, se sujetaran a las disposiciones aplicables del Código de Procedimientos Civiles vigentes al momento en que ocurrieron los hechos.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE MARZO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
