@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-gana-gato-de-pronosticos-para-la-52019"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-23"
-last_updated: "2011-09-30"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52019&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-04-18"
 ---
 # REGLAMENTO DEL SORTEO GANA GATO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DEL SORTEO GANA GATO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DEL SORTEO GANA GATO DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 23 de octubre de 2006.
 
@@ -67,7 +67,7 @@ XI. Volante.- El documento que contiene casillas con los números posibles de se
 
 ### Capítulo II. De los procedimientos para participar
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3o.
 
@@ -85,7 +85,7 @@ En el caso que el participante opte por utilizar el volante que emite Pronóstic
 
 En el volante habrá impreso al centro de cada participación, un comodín que permitirá formar líneas rectas al cruzarlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 5o.
 
@@ -159,11 +159,27 @@ VI. El término de caducidad del derecho para cobrar el premio correspondiente e
 
 ### Capítulo III. Del sorteo y la asignación de premios
 
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
+
 ###### Artículo 10o.
 
 Todos los sorteos se verificarán en un lugar en que tenga libre acceso el público.
 
 Pronósticos publicará los resultados en medios de comunicación masiva al siguiente día al que se hubiere verificado el sorteo, los números ganadores de cada casilla del sorteo y el importe de la premiación por cada línea recta correspondiente a cada una de las categorías establecidas.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 16o. de este Reglamento;
+
+Los siguientes resultados serán de carácter informativo únicamente:
+
+1. Los emitidos por la Terminal;
+
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -247,7 +263,7 @@ La categoría de séptimo lugar no tiene premio acumulativo y, por lo tanto, su 
 
 Los montos asignados para la premiación de las seis primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez substraído el monto destinado a cubrir el pago de premios de la séptima categoría.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2010)</small>
 
 ###### Artículo 16o.
 
@@ -353,7 +369,7 @@ Lic. Lisandro Javier Herrera Aguilar
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 29 DE ENERO DE 2010.
 
@@ -366,3 +382,7 @@ D.O.F. 30 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
