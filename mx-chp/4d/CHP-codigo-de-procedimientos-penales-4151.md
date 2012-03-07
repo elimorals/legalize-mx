@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-procedimientos-penales-4151"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-03-02"
-last_updated: "2012-02-09"
+last_updated: "2012-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 9 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR SUCESIVA Y TERRITORIALMENTE POR REGIONES, DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO EL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el 2 de marzo de 1938.
 
@@ -39,7 +39,11 @@ CODIGO DE PROCEDIMIENTOS PENALES
 
 ## TITULO PRELIMINAR
 
-ART. 1.- CORRESPONDE EXCLUSIVAMENTE A LOS TRIBUNALES DEL ESTADO DE CHIAPAS:
+> <small>(REFORMADO [N. DE E. ADICIONADO] PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2012)</small>
+
+ART. 1.- LAS DISPOSICIONES DE ESTE CODIGO SON DE ORDEN PUBLICO, INTERES SOCIAL Y DE OBSERVANCIA GENERAL EN EL ESTADO DE CHIAPAS. LOS PRINCIPIOS QUE LE RIGEN SON LA IGUALDAD, LA NO DISCRIMINACION Y EL RESPETO A LA DIGNIDAD Y LIBERTAD DE LAS PERSONAS; EN ESE SENTIDO, CUANDO EN ESTE CODIGO SE UTILICE EL GENERICO MASCULINO POR EFECTOS GRAMATICALES, SE ENTENDERA QUE SE HACE REFERENCIA A MUJERES Y A HOMBRES POR IGUAL; EN ESE TENOR LOS NOMBRAMIENTOS QUE PARA TAL EFECTO SE EXPIDAN, DEBERAN REFERIRSE EN CUANTO A SU GENERO.
+
+CORRESPONDE EXCLUSIVAMENTE A LOS TRIBUNALES DEL ESTADO DE CHIAPAS:
 
 I.- DECLARAR, EN LA FORMA Y TERMINOS QUE ESTA LEY ESTABLECE, CUANDO UN ACTO U OMISION ES O NO DELITO;
 
@@ -4394,3 +4398,9 @@ Artículo Décimo Segundo.- Dentro del término de seis meses contados a partir 
 Artículo Décimo Tercero.- Para instrumentar la aplicación del presente Código, se autoriza al Consejo de la Judicatura del Estado, para que tome las medidas necesarias sobre: traslado de funcionarios, designación de jueces de control, integración de tribunales de juicio oral y tribunales de alzada, designación de defensores públicos especializados en el sistema acusatorio, redistribución de competencias territoriales, asignación del despacho de rezagos y creación de órganos que resulten pertinentes, así también lo relativo a sueldos y salarios de los funcionarios judiciales.
 
 Artículo Décimo Cuarto.- A la entrada en vigor del presente Código, se derogan los artículos 15, 32, 41, 42, 46, 47, 49, 50, 60, 72, 90, 91, 92, 171 y del 200 al 223, todos del Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada para el Estado de Chiapas.
+
+P.O. 7 DE MARZO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
