@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-consejo-estatal-de-los-derechos-humanos-del-estado-7834
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2011-09-28"
+last_updated: "2012-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de noviembre de 2010.
 
@@ -49,21 +49,31 @@ Ley del Consejo Estatal de los Derechos Humanos
 
 Las disposiciones de esta Ley son de orden público e interés social y tendrán aplicación en el Estado de Chiapas en materia local de derechos humanos respecto de las mujeres y los hombres mexicanos y extranjeros que se encuentren en territorio de éste, en los términos del artículo 102, apartado B de la Constitución Política de los Estados Unidos Mexicanos y 55 de la Constitución Política del Estado de Chiapas.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
+
+Estas disposiciones regularán la estructura, atribuciones y funcionamiento del Consejo Estatal de Derechos Humanos de Chiapas, cuyo fin es promover y proteger los derechos humanos y libertades fundamentales de las personas que habitan y transitan por el Estado de Chiapas, así como prevenir y erradicar todas las formas de discriminación; en este sentido, cuando en esta Ley o en los reglamentos que de ella emanen se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2012)</small>
+
+Los derechos humanos son aquellos derechos y libertades de los que deben gozar los seres humanos para vivir una vida digna, mismos que el Estado tiene la obligación de respetar, promover, proteger y garantizar su libre y pleno ejercicio, de conformidad con los principios de universalidad, igualdad, interdependencia, indivisibilidad, libertad y progresividad, sin discriminación alguna por motivos de sexo, género, etnia, clase, idioma, religión, orientación o preferencia sexual, opiniones o de cualquier otra índole, reconocidos en:
+
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
-
-Estas disposiciones regularán la estructura, atribuciones y funcionamiento del Consejo Estatal de Derechos Humanos de Chiapas, cuyo fin es promover y proteger los derechos humanos y libertades fundamentales de las personas que habitan y transitan por el Estado de Chiapas, así como prevenir y erradicar todas las formas de discriminación.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
-
-Los derechos humanos son aquellos derechos y libertades de los que deben gozar los seres humanos para vivir una vida digna, mismos que el Estado tiene la obligación de respetar, promover, proteger y garantizar su libre y pleno ejercicio, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, sin discriminación alguna por motivos de sexo, género, etnia, clase, idioma, religión, orientación o preferencia sexual, opiniones o de cualquier otra índole, reconocidos en:
 
 a) La Constitución y en las leyes secundarias y reglamentarias que de ella emanen.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+
 b) La Constitución local y en las leyes secundarias y reglamentarias que de ella emanen.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 c) Los tratados internacionales en materia de derechos humanos, firmados y ratificados por el Presidente de la República, aprobados por el Senado, en los términos que establece la Constitución.
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
+
 d) Los contenidos en otros instrumentos internacionales en los términos que establece la Constitución.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2011)</small>
 
 e) Los derechos de los grupos de población más vulnerabilizados, entendiendo por éstos el conjunto de personas cuyas condiciones físicas, psíquicas, históricas, económicas, sociales o culturales son tomadas como motivos discriminatorios que hacen probable la existencia de ataques reiterados a sus derechos humanos.
 
@@ -369,7 +379,9 @@ XXII. Realizar visitas periódicas, para lo cual el personal adscrito a los órg
 
 a) Las instituciones que integran el Sistema Penitenciario del Estado de Chiapas, varoniles y femeniles, para procesados y sentenciados, de alta, media, baja y mínima seguridad, con la finalidad de verificar el irrestricto respeto a los derechos humanos y sociales que les reconoce la Constitución, la Constitución local, así como las leyes y reglamentos que de ella emanen, tomando en cuenta los instrumentos y convenciones ratificadas por el estado mexicano en esta materia.
 
-b) Los orfanatos, asilos, hospicios, instituciones y organismos públicos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de los niños contenidos en las leyes federales, locales, en los instrumentos internacionales sobre los Derechos de la Infancia que hayan sido ratificados por México o de los que forme parte, así como los derechos de la educación y la salud que establece la Constitución y la Constitución local.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
+
+b) Los orfanatos, asilos, hospicios, instituciones y organismos públicos que trabajen con la niñez, para verificar la observancia y respeto de los derechos de las niñas y los niños contenidos en las leyes federales, locales, en los instrumentos internacionales sobre los Derechos de la Infancia que hayan sido ratificados por México o de los que forme parte, así como los derechos de la educación y la salud que establece la Constitución Política de los Estados Unidos Mexicanos, y la Constitución local.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1478,3 +1490,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Artículo Tercero.- El Consejo Estatal de los Derechos Humanos, en el marco de su competencia, proveerá lo necesario para el cumplimiento del presente Decreto.
+
+P.O. 7 DE MARZO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
