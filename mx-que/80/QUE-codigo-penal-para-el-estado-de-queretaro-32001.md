@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2012-03-02"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -309,7 +309,7 @@ VIII.- Amonestación, y
 
 IX.- Caución de no ofender.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2006)</small>
 
 ###### ARTICULO 29.
 
@@ -325,7 +325,7 @@ DE LAS PENAS
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO, P.O 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 30.
 
@@ -333,7 +333,7 @@ La prisión consiste en la privación de la libertad, su duración será de tres
 
 ### CAPITULO III. TRATAMIENTO EN LIBERTAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 31.
 
@@ -359,7 +359,7 @@ La semilibertad implica alternación de periodos de privación de la libertad y 
 
 ### CAPITULO V. MULTA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 34.
 
@@ -977,7 +977,7 @@ La muerte del imputado extingue la pretensión punitiva o las penas o medidas de
 
 ### CAPITULO VI. PERDON DEL OFENDIDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 105.
 
@@ -1199,6 +1199,10 @@ V.- De dos a cuatro años de prisión si ponen en peligro la vida;
 
 VI.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
 
+> <small>(N. DE E., ESTA FRACCIÓN SE REPITE CON EL CONTENIDO DE LA FRACCIÓN VI BAJO EL NUMERAL VII)</small>
+
+VII.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
+
 > <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
 VII.- De tres a seis años de prisión si causan incapacidad por más de un mes y menos de un año para trabajar en la profesión, arte u oficio del ofendido;
@@ -1347,7 +1351,7 @@ Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en 
 
 ### CAPITULO II. SECUESTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ###### ARTICULO 144.
 
@@ -1365,7 +1369,7 @@ Al que habiendo atropellado culposamente o por caso fortuito a una persona, no l
 
 ### CAPITULO I. AMENAZAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 146.
 
@@ -1491,7 +1495,7 @@ Las conductas previstas por este artículo, serán perseguibles por querella, cu
 
 En los demás casos será perseguible por oficio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO I. REVELACION DE SECRETO
 
@@ -1621,11 +1625,11 @@ Al que sin consentimiento de la persona que legítimamente pueda otorgarlo, o em
 
 Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una mitad más. Este delito se perseguirá por querella de la parte ofendida.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2011)</small>
 
 ## TITULO SEPTIMO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO Y EL ACCESO ILICITO A SISTEMAS DE INFORMATICA
 
-> <small>(REFORMADA SU NUMERACION, P.O. 22 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE ABRIL DE 2011)</small>
 
 ### CAPITULO IV. ACOSO SEXUAL
 
@@ -1653,7 +1657,7 @@ Si el que divulgare el secreto, documento, grabación, filmación u objeto, lo h
 
 ARTICULO 159 BIS.- El que para descubrir los secretos o vulnerar la intimidad de otro, sin el consentimiento de éste, se apodere de sus papeles, cartas, mensajes de correo electrónico o cualesquiera otros documentos o efectos personales o intercepte sus telecomunicaciones o utilice artificios técnicos de escucha, transmisión, grabación o reproducción del sonido o de la imagen o de cualquier otra señal de comunicación, se le impondrán de seis meses a tres años de prisión y de cien a trescientos días multa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2011)</small>
 
 ### CAPITULO V. DISPOSICIONES COMUNES
 
@@ -1687,7 +1691,7 @@ II. Introduzca por vía anal o vaginal cualquier objeto o instrumento distinto d
 
 Si se ejerciera violencia física o moral o la conducta delictiva sea cometida por dos o más personas, la pena prevista se aumentará en una mitad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 162.
 
@@ -1717,7 +1721,7 @@ Si mediare la violencia, se aumentará hasta una mitad más la pena de prisión 
 
 Si el delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano o hermana contra su colateral, el tutor con su pupilo o por cualquier persona que habite en el mismo domicilio que la víctima, la pena prevista se aumentará en una mitad más. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, sin perjuicio del concurso de delitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### Artículo 166.
 
@@ -1735,7 +1739,7 @@ Al que tenga cópula con persona mayor de 12 años y menor de 18 años, obtenien
 
 Este delito se perseguirá por querella de la persona ofendida o de quienes ejerzan la patria potestad o a falta de éstos, de sus legítimos representantes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JUNIO DE 2003)</small>
 
 ### CAPITULO II. ABIGEATO
 
@@ -1755,11 +1759,11 @@ Se procederá de oficio a la persecución de los delitos previstos en este Títu
 
 En los delitos a que se refieren los capítulos I, II y III de este Título, la reparación del daño comprenderá en los términos del Código Civil, el pago de alimentos a la mujer y a los hijos que hayan resultado de la relación sexual ilícita.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ## TITULO NOVENO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO IV. FRAUDE
 
@@ -1789,7 +1793,7 @@ Este delito se perseguirá por querella.
 
 (DEROGADO, P.O. 25 DE FEBRERO DE 2011)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO V. USURA
 
@@ -1811,7 +1815,7 @@ Este delito se perseguirá por querella.
 
 (DEROGADO, P.O. 25 DE FEBRERO DE 2011)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO VI. ADMINISTRACIÓN FRAUDULENTA
 
@@ -1891,7 +1895,7 @@ VIII.- Quebrantando la confianza o seguridad derivada de una relación de servic
 
 IX.- Respecto de maquinaria agrícola, bombas de agua, su arrancador, transformador o cables; o sobre cualquier otro equipo, componente o accesorio destinado al riego de cultivos agrícolas, al drenaje, alcantarillado, agua potable o suministro de gas, independientemente del lugar en que se ubiquen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1999)</small>
 
 ARTICULO 183 BIS.- Se sancionará con pena de uno a cinco años de prisión y de 100 a 500 días multa, al que a sabiendas de que un vehículo es robado y con independencia de las penas que le correspondan por la comisión de otros delitos:
 
@@ -2057,11 +2061,13 @@ XXII.- Al que por sí o por interpósita persona, a título de dirigencia, prote
 
 ###### ARTICULO 195.
 
-Cuando el sujeto pasivo del delito entregue la cosa deque se trata a virtud no sólo del engaño, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en el Artículo 193 de este Código se aumentará en un mes a dos años.
+Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo del engaño, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en el Artículo 193 de este Código se aumentará en un mes a dos años.
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE
 
 ASISTENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 196.
 
@@ -2079,7 +2085,7 @@ Al que teniendo a su cargo la administración o el cuidado de bienes ajenos, por
 
 ### CAPITULO III. TRAFICO DE MENORES
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 15 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 198.
 
@@ -2153,7 +2159,7 @@ Al que con ánimo de lucro después de la ejecución de un delito y sin haber pa
 
 Al que hubiese adquirido u ocultado el producto del delito sin conocimiento de su ilegítima procedencia, por no poner el cuidado necesario para asegurarse de que la persona de quien lo recibió tenía derecho para disponer de aquél, se le aplicará hasta la mitad de las penas señaladas en el Artículo anterior.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 4 DE JUNIO DE 1992)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 206.
 
@@ -2161,7 +2167,7 @@ En los casos de los delitos previstos por este Título, no se aplicará pena alg
 
 Lo dispuesto en el párrafo anterior no será aplicado tratándose de delitos en que el agente sea servidor público, si se aprovecha del cargo para cometerlos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2008)</small>
 
 ###### ARTICULO 207.
 
@@ -2187,15 +2193,41 @@ Si el Juez lo creyere conveniente, además de las penas previstas para cada uno 
 
 ###### ARTICULO 210.
 
-Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de 3 meses a 5 años y suspensión o privación de los derechos de familia, en relación con el ofendido. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
+Al que no proporcione los recursos indispensables de subsistencia de las personas con las que tenga ese deber legal, se le impondrá prisión de 1 a 5 años, suspensión hasta por seis meses o privación de los derechos de familia, en relación con el ofendido y pago, como reparación del daño, de las cantidades no suministradas oportunamente. Los concubinos quedan comprendidos en las disposiciones de este párrafo.
 
-Este delito se perseguirá por querella del ofendido o de su legitimo representante y, a falta de éstos, el Ministerio Público procederá de oficio a reserva de que se promueva la designación del tutor especial.
+Para efecto de la reparación del daño, cuando no sea posible demostrar los ingresos del deudor alimentario, el monto de la obligación alimentaria se determinará con base a la capacidad económica y nivel de vida que el deudor y los acreedores alimentarios hayan tenido en el año previo al incumplimiento.
 
-No se impondrá pena alguna o quedaran sin efecto los que se hubiesen impuesto, cuando el obligado pague todas las cantidades que hubiere dejado de suministrar por concepto de alimentos, o se someta al régimen de pago que el Juez o la autoridad ejecutora, en su caso, determine, garantizando el pago de las cantidades que en el futuro le corresponda satisfacer.
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+
+ARTICULO 210 BIS.- Las mismas penas se aplicarán al que:
+
+I. Proporcione de forma irregular los recursos necesarios para la subsistencia de las personas con las que tenga obligación alimentaria, en relación con los plazos fijados mediante convenio extrajudicial o en una resolución judicial.
+
+II. Proporcione de modo parcial los recursos necesarios para la subsistencia de las personas con las que tenga obligación alimentaria, en relación con las cantidades o porcentajes fijados mediante convenio extrajudicial o en una resolución judicial.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+
+ARTICULO 210 TER.- Se aplicarán las penas señaladas en el artículo 210, al que, encontrándose en alguna de las presunciones legales sobre paternidad, no proporcione a la mujer embarazada los recursos necesarios para su subsistencia, así como los necesarios para la asistencia médica y farmacológica relacionadas con la gestación y el alumbramiento.
+
+Las penas señaladas se aumentarán en una tercera parte, cuando con el incumplimiento se haya puesto en peligro la vida, la salud o el desarrollo de la mujer gestante o de la persona por nacer.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 211.
 
-Al que dolosamente se coloque en estado insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la Ley determina, se le impondrá prisión de 3 meses a 3 años. El Juez resolverá sobre la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+Si el deudor alimentario se coloca dolosamente en estado de insolvencia, con el objeto de eludir el cumplimiento de la obligación alimentaria, se aumentarán en una mitad más las penas señaladas en el artículo 210.
+
+La misma sanción se aplicará a quien dolosamente proporcione ayuda al agente para colocarse en estado de insolvencia.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+
+ARTICULO 211 BIS.- El delito de incumplimiento de las obligaciones de asistencia familiar, se perseguirá por querella del ofendido o de su legítimo representante y, a falta o ausencia de éste, podrá presentarse por la Procuraduría de la Defensa del Menor y la Familia.
+
+A falta de querella del ofendido o su representante, cuando la víctima sea menor de edad o incapacitado, el Ministerio Público procederá de oficio.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+
+ARTICULO 211 TER.- No se impondrá pena alguna o quedarán sin efecto las que se hubieren impuesto, cuando el obligado pague todas las cantidades que hubiere dejado de ministrar por concepto de alimentos o se someta al régimen de pago que el Juez o la autoridad ejecutora, en su caso, determinen, garantizando mediante fianza u otra caución, la amortización de las cantidades que en el futuro le corresponda satisfacer, cuando menos por tres meses.
 
 ### CAPITULO VIII. VIOLENCIA FAMILIAR
 
@@ -2301,13 +2333,13 @@ Al que fuera del caso de bigamia contraiga matrimonio con conocimiento de la exi
 
 ARTICULO 221 BIS.- Al que realice actividades de almacenaje, venta o porteo de bebidas alcohólicas sin contar con la licencia o permiso correspondiente vigente, expedido por autoridad competente, o bien no corresponda al domicilio del establecimiento o lugar señalado en dicho documento, en los términos de la ley de la materia, se le sancionará con prisión de 2 a 7 años y hasta 600 días de salario mínimo de multa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
 
 ###### ARTICULO 217.
 
 A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que con conocimiento de ese parentesco tengan cópula entre sí, se les impondrá prisión de 3 meses a 3 años.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2008)</small>
 
 ### CAPITULO VI. PELIGRO CONTRA LA SALUD PUBLICA
 
@@ -2341,7 +2373,7 @@ III.- Cuando el valor económico de las sustancias, animales o productos de los 
 
 #### SECCIÓN TERCERA. DELITOS CONTRA LA SOCIEDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MARZO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2008)</small>
 
 ## TITULO PRIMERO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD Y LA SALUD
 
@@ -2357,7 +2389,7 @@ Al que mediante incendio, explosión o por cualquier medio creare un peligro com
 
 DE VEHÍCULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 219.
 
@@ -2491,7 +2523,7 @@ Artículo 238 BIS.- Al que promueva, publicite, invite, facilite o gestione por 
 
 A quien tenga actos erótico sexuales con persona menor de dieciocho años de edad o que no tenga capacidad para comprender el significado del hecho, en virtud de las conductas antes descritas, se le impondrá una pena de 6 a 12 años de prisión y de 200 a 500 días multa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO IV. RELACIONES SEXUALES REMUNERADAS CON PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
@@ -2611,7 +2643,7 @@ II. Destitución de servidores públicos, en los casos en que se acredite su par
 
 III. La reparación del daño, en los términos de las disposiciones aplicables.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 234.
 
@@ -2643,11 +2675,11 @@ En cualquier caso, la sanción se incrementará de 3 meses a 3 años, si el suje
 
 Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicamente sus servicios como tal o realice actividades propias de una profesión sin tener el título correspondiente o sin la debida autorización, se le impondrá prisión de 3 meses a 5 años y de 20 a 200 días multa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ## TITULO CUARTO. DELITOS CONTRA El LIBRE DESARROLLO DE LA PERSONALIDAD
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO I. SEDICIÓN
 
@@ -2687,7 +2719,7 @@ Se impondrá pena de 4 a 8 años de prisión y de 100 a 300 días multa a quien 
 
 No se actualizarán estos delitos tratándose de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO II. MOTÍN
 
@@ -2707,7 +2739,7 @@ Al autor de los delitos previstos en las fracciones I y II, se le impondrá la p
 
 Las anteriores sanciones se impondrán sin perjuicio del concurso de delitos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2011)</small>
 
 ### CAPITULO III. REBELIÓN
 
@@ -2785,7 +2817,7 @@ VI.- Abandone sin causa justificada a la persona de cuya asistencia esté encarg
 
 VII.- Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de cumplir una obligación que la Ley le impone o para adquirir algún derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2002)</small>
 
 ###### ARTICULO 244.
 
@@ -2809,11 +2841,11 @@ Las mismas sanciones del artículo anterior se impondrán a los encargados o adm
 
 A los encargados, empleados o dependientes de farmacias que al surtir una receta sustituyan la medicina específicamente señalada, por otra que cause daños o sea evidentemente inapropiada al padecimiento para el cual se prescribió, se le impondrá prisión de 3 meses a 2 años y hasta 50 días multa.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
 
 ## TITULO SEPTIMO. DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
 
 ### CAPITULO VII. DISPOSICIONES COMUNES
 
@@ -2823,7 +2855,7 @@ A los encargados, empleados o dependientes de farmacias que al surtir una receta
 
 ORDEN EN EL DESARROLLO URBANO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2002)</small>
 
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO
 
@@ -3209,7 +3241,7 @@ Cuando la Ley autorice el empleo del apremio para hacer efectivas las determinac
 
 ## TITULO QUINTO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
 
 ### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
 
@@ -3295,7 +3327,7 @@ XXVI.- Propiciar o favorecer el quebrantamiento de alguna pena no privativa de l
 
 ###### ARTICULO 289.
 
-Al que cometa alguno de los delitos que se refiere el artículo anterior, se le aplicará prisión de 3 meses a 3 años y de 30 a 180 días multa, excepto en los casos previstos por las fracciones VIII, XV, XVI, XVIII, XIX, XX y XXI, que se sancionarán con prisión de 1 a 6 años y de 60 a 360 días multa.
+Al que cometa alguno de los delitos a que se refiere el artículo anterior, se le aplicará prisión de 3 meses a 3 años y de 30 a 180 días multa, excepto en los casos previstos por las fracciones VIII, XV, XVI, XVIII, XIX, XX y XXI, que se sancionarán con prisión de 1 a 6 años y de 60 a 360 días multa.
 
 Además de las penas establecidas en el párrafo que antecede el agente sufrirá privación del cargo e inhabilitación para obtener otro cargo público hasta por un término igual al de la pena de prisión señalada por la Ley para el delito cometido.
 
@@ -3323,7 +3355,7 @@ Para los efectos del párrafo anterior deberá considerarse que forma parte de u
 
 Si los anteriores actos se realizan sobre la totalidad del expediente, se aumentará la pena hasta en una mitad más. Se impondrá la misma pena a la que se refiere la primera parte de este artículo al que, con la finalidad de entorpecer la administración de justicia sustraiga, destruya, altere o dañe cualquier objeto que se encuentre a disposición de la autoridad que conozca o haya conocido del procedimiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 293.
 
@@ -3429,7 +3461,7 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por 2 años.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 309.
 
@@ -3495,7 +3527,7 @@ En los términos de la fracción IV del artículo 47 de este Código, el Estado 
 
 El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato al Ministerio Público, si no lo hiciere, se le impondrá de tres meses a tres años de prisión y de quince a sesenta días multa, sin perjuicio de lo que establezcan otras leyes.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 316.
 
@@ -3921,7 +3953,7 @@ Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se 
 
 P.O. 17 DE NOVIEMBRE DE 2006
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE QUERETARO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE QUERÉTARO.
 
 P.O. 7 DE SEPTIEMBRE DE 2007.
 
@@ -3931,7 +3963,7 @@ La presente Ley entrará en vigor al siguiente día de su publicación en el Per
 
 P.O. 29 DE FEBRERO DE 2008.
 
-LEY POR LA QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 37; 155; 165; 166; EL CAPITULO VIII DEL TITULO UNICO DE LA SECCION SEGUNDA; 217 BIS; 217 TER; 217 QUATER; 217 QUINTUS; 217 SEXTUS Y 236 DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 37; 155; 165; 166; EL CAPÍTULO VIII DEL TÍTULO ÚNICO DE LA SECCIÓN SEGUNDA; 217 BIS; 217 TER; 217 QUATER; 217 QUINTUS; 217 SEXTUS Y 236 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3943,7 +3975,7 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan a la 
 
 P.O. 29 DE FEBRERO DE 2008.
 
-LEY POR LA QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 149, 149 BIS Y 150 DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+LEY POR LA QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 149, 149 BIS Y 150 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3967,7 +3999,7 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 
 P.O. 20 DE JUNIO DE 2008.
 
-LEY QUE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 68 DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+LEY QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 68 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3979,7 +4011,7 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan a la 
 
 P.O. 20 DE JUNIO DE 2008.
 
-LEY QUE REFORMA Y ADICIONA EL ARTICULO 213 DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 213 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3991,7 +4023,7 @@ Se derogan todas las disposiciones legales o reglamentarias que se opongan a la 
 
 P.O. 20 DE JUNIO DE 2008.
 
-LEY QUE ADICIONA EL ARTICULO 125 BIS DEL CODIGO PENAL PARA EL ESTADO DE QUERETARO.
+LEY QUE ADICIONA EL ARTÍCULO 125 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4106,3 +4138,9 @@ P.O. 2 DE MARZO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 7 DE MARZO DE 2012.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
