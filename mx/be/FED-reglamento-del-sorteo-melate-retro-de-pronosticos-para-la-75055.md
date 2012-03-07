@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-retro-de-pronosticos-para-la-75055
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-28"
-last_updated: "2011-09-30"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75055&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-05-11"
 ---
 # REGLAMENTO DEL SORTEO MELATE RETRO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DEL SORTEO MELATE RETRO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DEL SORTEO MELATE RETRO DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de mayo de 2010.
 
@@ -113,7 +113,7 @@ Coperacha, es la selección por dictado del participante o vía Melático Retro,
 
 Todas las selecciones que se deriven de la (sic) Combinaciones Sencillas, Combinaciones Múltiples, Combinaciones Múltiples en Porciones y en Coperacha, participarán en el sorteo para el que hayan sido adquiridos los boletos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 6.
 
@@ -241,9 +241,27 @@ Los montos asignados para la premiación de las cuatro primeras categorías son 
 
 Concluida la ceremonia e identificadas las combinaciones ganadoras, se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo. Dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y de los Servidores Públicos mencionados en el artículo 11 de este Reglamento, quienes deben intervenir y suscribir el documento para todos los efectos legales.
 
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 17.
 
-Pronósticos publicará en medios de comunicación masiva, a más tardar al día siguiente de aquél en que se hubiere verificado el sorteo, la combinación de números ganadores y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, asimismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales, la línea telefónica o sitio Web de Pronósticos.
+Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
+
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación de números ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 16o. de este Reglamento;
+
+Los siguientes resultados serán de carácter informativo únicamente:
+
+1. Los emitidos por la Terminal;
+
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -281,7 +299,7 @@ La Comisión Dictaminadora de Reclamaciones a través de quien ésta designe, no
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que corresponda, en su caso, con cargo al fondo de reserva.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo V. De los Comercializadores Autorizados
 
@@ -329,10 +347,14 @@ Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 30 DE SEPTIEMBRE DE 2011.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
