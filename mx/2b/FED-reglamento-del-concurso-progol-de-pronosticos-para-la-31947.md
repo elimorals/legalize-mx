@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2011-12-13"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -269,7 +269,7 @@ El archivo con la información correspondiente a todas las participaciones que h
 
 ### Capítulo IV. Selección de ganadores
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 18o.
 
@@ -283,11 +283,15 @@ Los resultados ganadores oficiales son:
 
 2. Para el caso de los resultados obtenidos conforme a lo establecido en los Artículos 10o. y 11o. de este Reglamento, la grabación en video de dicho sorteo que conservará Pronósticos es parte integrante de los resultados oficiales, del concurso que corresponda;
 
-3. Los emitidos por la Terminal;
+Los siguientes resultados serán de carácter informativo únicamente:
 
-4. Los mencionados en la línea telefónica del conmutador de Pronósticos, y
+1. Los emitidos por la Terminal;
 
-5. Los publicados en la página Web de Pronósticos.
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -443,7 +447,7 @@ Sólo por caso fortuito o fuerza mayor, Pronósticos suspenderá o cancelará un
 
 En los términos establecidos por el artículo 29o. del presente Reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el concurso respectivo prescribirá en un plazo de 1 (un) año contado a partir del siguiente día de la fecha de celebración del concurso a que se refiere el artículo 18o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ### Capítulo VII. Disposiciones generales de Progol Revancha
 
@@ -457,7 +461,7 @@ El concurso Progol Revancha, consiste en una competencia entre los aspirantes a 
 
 Con el mismo boleto con que se participa en Progol, se participa en Progol Revancha, por lo que en este caso el boleto lleva impresa la nota “Revancha”.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ### Capítulo VIII. De los procedimientos para participar en Progol Revancha
 
@@ -467,7 +471,7 @@ Con el mismo boleto con que se participa en Progol, se participa en Progol Revan
 
 Para poder participar en la modalidad Progol Revancha, el participante deberá de observar los procedimientos que señalan los Artículos 4o. al 16o. de este Reglamento, debido a que se aplican en los mismos términos para Progol Revancha.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ### Capítulo IX. Selección de ganadores de Progol Revancha
 
@@ -489,25 +493,29 @@ La firma electrónica del archivo de participaciones será grabada en un disposi
 
 El archivo con la información correspondiente a todas las participaciones que hayan sido registradas para el concurso en el sistema central de captación de transacciones en línea al cual, conforme a lo previsto en el segundo párrafo de este artículo, dicho sistema le asignó una firma electrónica que garantiza su integridad, será grabado en un dispositivo de almacenamiento de datos y depositado por el representante de la Subdirección General de Informática en la caja de seguridad a que se refiere el presente Artículo.
 
-> <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 37o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
 
 Los resultados ganadores oficiales son:
 
-1. Los que se asienten en el acta mencionada en el artículo 19o. de este Reglamento;
+1. Los que se asienten en el acta mencionada en el Artículo 19o. de este Reglamento;
 
-2. Para el caso de los resultados obtenidos conforme a lo establecido en los artículos 10o. y 11o. de este Reglamento, la grabación en video de dicho sorteo que conservará Pronósticos es parte integrante de los resultados oficiales, del concurso que corresponda.
+2. Para el caso de los resultados obtenidos conforme a lo establecido en los Artículos 10o. y 11o. de este Reglamento, la grabación en video de dicho sorteo que conservará Pronósticos es parte integrante de los resultados oficiales, del concurso que corresponda;
 
-3. Los emitidos por la terminal;
+Los siguientes resultados serán de carácter informativo únicamente:
 
-4. Los mencionados en la línea telefónica del conmutador de Pronósticos, y
+1. Los emitidos por la Terminal;
 
-5. Los publicados en la página web de Pronósticos.
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -561,7 +569,7 @@ Si por causas de fuerza mayor no acudiera al evento el Inspector designado por l
 
 En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta correspondiente a la Dirección General Adjunta de Juegos y Sorteos, dentro de los tres días hábiles siguientes.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ### Capítulo X. De las reclamaciones de Progol Revancha
 
@@ -571,7 +579,7 @@ En el supuesto a que se refiere el párrafo anterior, se hará entrega del acta 
 
 El participante que tenga interés legítimo, podrá impugnar los resultados de la Selección de Ganadores conforme a lo establecido en los Artículos 23o. al 28o. de este Reglamento.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 31 DE AGOSTO DE 2007)</small>
 
 ### Capítulo XI. Del pago de los premios de Progol Revancha
 
@@ -986,6 +994,10 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las esta
 D.O.F. 13 DE DICIEMBRE DE 2011.
 
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 120.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO Y DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
