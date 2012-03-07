@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-de-la-procuraduria-general-de-justicia-del-70288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-08-19"
-last_updated: "2012-02-09"
+last_updated: "2012-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 19 de agosto de 2009.
 
@@ -47,7 +47,9 @@ Ley Orgánica de la Procuraduría General de Justicia del Estado
 
 La presente Ley es de orden público y tiene por objeto establecer la organización y funcionamiento de la Procuraduría General de Justicia del Estado de Chiapas, para el despacho de los asuntos que al Ministerio Público y al Procurador General de Justicia del Estado les otorga la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la presente Ley, su Reglamento y demás disposiciones aplicables.
 
-La Procuraduría, ubicada en el ámbito del Poder Ejecutivo del Estado, ejercerá sus atribuciones respondiendo al interés social. Su actuación se rige por los principios de legalidad, objetividad, certeza, eficiencia, honradez y respeto a los derechos humanos.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2012)</small>
+
+La Procuraduría, ubicada en el ámbito del Poder Ejecutivo del Estado, ejercerá sus atribuciones respondiendo al interés social. Su actuación se rige por los principios de legalidad, igualdad, objetividad, certeza, eficiencia, honradez, la no discriminación, el respeto a los derechos humanos, a la dignidad y libertad de las personas; en este sentido, cuando en esta Ley o en los reglamentos que de ella emanen se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
 
 ###### Artículo 2º.
 
@@ -1297,7 +1299,7 @@ La Dirección de Enlace con Plataforma México tiene como función, integrar y a
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2010)</small>
 
-Las atribuciones específicas de.la Dirección de Enlace con Plataforma México, se establecen en el Reglamento de esta Ley.
+Las atribuciones específicas de la Dirección de Enlace con Plataforma México, se establecen en el Reglamento de esta Ley.
 
 ###### Artículo 59.
 
@@ -2274,3 +2276,9 @@ P.O. 9 DE FEBRERO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor el día veintiuno del mes de mayo del año 2012.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
