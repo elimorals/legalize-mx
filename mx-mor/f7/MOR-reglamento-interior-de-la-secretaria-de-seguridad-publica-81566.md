@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-81566
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-01"
-last_updated: "2012-02-22"
+last_updated: "2012-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MARZO DE 2012.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de junio de 2011.
 
@@ -81,15 +81,11 @@ XIII. Instituciones Policiales Estatales: Aquellas que agrupan a los elementos i
 
 XIV. Manuales de Organización, Políticas y Procedimientos: A los instrumentos normativos aprobados por el Secretario y por las demás áreas competentes, mediante los cuales se indican los pasos que deben seguirse para el desarrollo de cada una de las actividades de las Unidades Administrativas que conforman la Secretaría.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 3.
 
-Para el despacho de los asuntos de su competencia la Secretaría contará con las
-
-Unidades Administrativas que a continuación se señalan:
+Para el despacho de los asuntos de su competencia la Secretaría contará con las Unidades Administrativas que a continuación se señalan:
 
 I. Oficina de la Secretaría;
 
@@ -129,11 +125,17 @@ XVIII. Centro Estatal de Análisis de Información sobre Seguridad Pública;
 
 XIX. Dirección de Área de Control de Confianza y Asuntos Internos;
 
-XX. Dirección de Área de Operaciones de la Policía Estatal Acreditable;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
 
-XXI. Dirección de Área de Investigación de la Policía Estatal Acreditable;
+XX. Unidad de Operaciones de la Policía Estatal Acreditable;
 
-XXII. Dirección de Área de Análisis Táctico de la Policía Estatal Acreditable;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+
+XXI. Unidad de Investigación de la Policía Estatal Acreditable;
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+
+XXII. Unidad de Análisis Táctico de la Policía Estatal Acreditable;
 
 XXIII. Dirección de Área de Rescate Urbano y Atención a Siniestros;
 
@@ -239,19 +241,23 @@ VII. La Dirección de Área de Unidades Especializadas, y
 
 VIII. La Dirección de Área de la Policía Preventiva Procesal y de Custodia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 9 Bis.
 
 Se adscriben a la Dirección General de la Policía Estatal Acreditable:
 
-I. La Dirección de Área de Operaciones de la Policía Estatal Acreditable;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
 
-II. La Dirección de Área de Investigación de la Policía Estatal Acreditable, y
+I. La Unidad de Operaciones de la Policía Estatal Acreditable;
 
-III. La Dirección de Área de Análisis Táctico de la Policía Estatal Acreditable.
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+
+II. La Unidad de Investigación de la Policía Estatal Acreditable, y
+
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+
+III. La Unidad de Análisis Táctico de la Policía Estatal Acreditable.
 
 ### CAPÍTULO II. DE LAS FACULTADES DE LA SECRETARÍA
 
@@ -1247,15 +1253,15 @@ XVII. Aplicar, en el ámbito de su competencia, las sanciones y correctivos disc
 
 XVIII. Las demás que le confieran otras disposiciones jurídicas, o le correspondan por delegación o suplencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
 
 ###### Artículo 41 Bis.
 
-La Dirección de Área de Operaciones de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+La Unidad de Operaciones de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
 
-I. Utilizar la información que le brinde la Dirección de Área de Investigación;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+
+I. Utilizar la información que le brinde la Unidad de Investigación;
 
 II. Analizar, y clasificar la información brindada para determinar la utilidad operativa de la misma;
 
@@ -1279,13 +1285,11 @@ XI. Realizar partes informativos de cualesquiera de las acciones tomadas y conti
 
 XII. Acatar y procurar en todo momento el cumplimiento de las operaciones encomendadas y el respeto a los principios de eficiencia, profesionalismo, legalidad y disciplina, dentro y fuera de su lugar de operaciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
 
 ###### Artículo 41 Ter.
 
-La Dirección de Área de Investigación de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+La Unidad de Investigación de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
 
 I. Aplicar la metodología y estrategias de campo que permitan desarrollar las líneas de investigación y recabar las evidencias necesarias;
 
@@ -1305,17 +1309,19 @@ VIII. Sistematizar y administrar una agenda de las actividades y líneas de inve
 
 IX. Coadyuvar, con otras autoridades federales, estatales y municipales que lo requieran, en la investigación policial, previa autorización del titular de la Secretaría, de conformidad con las disposiciones jurídicas aplicables, y
 
-X. Recomendar al Director General de la Policía Estatal Acreditable los planes y programas, para su implementación por parte de la Dirección de Área Operativa de la Policía Estatal Acreditable.
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+X. Recomendar al Director General de la Policía Estatal Acreditable los planes y programas, para su implementación por parte de la Unidad de Operaciones de la Policía Estatal Acreditable.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
+(ADICIONADO, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
 
 ###### Artículo 41 Quater.
 
-La Dirección de Área de Análisis Táctico de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+La Unidad de Análisis Táctico de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
 
-I. Procesar el resultado de los estudios de necesidad e impacto operativo generados por la Dirección de Área de Investigación de la Policía Estatal Acreditable, con el fin de trazar las líneas de investigación para obtener las fuentes necesarias de información;
+> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+
+I. Procesar el resultado de los estudios de necesidad e impacto operativo generados por la Unidad de Investigación de la Policía Estatal Acreditable, con el fin de trazar las líneas de investigación para obtener las fuentes necesarias de información;
 
 II. Establecer instrumentos de cooperación para el intercambio de información que generen estrategias para el cumplimiento de las operaciones planeadas;
 
