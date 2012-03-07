@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2012-02-09"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -50,6 +50,10 @@ Código Penal para el Estado de Chiapas
 ###### Artículo 1.
 
 Ámbito Espacial de Aplicación.- Este Código se aplicará en el Estado de Chiapas por los delitos del orden local que se cometan en su territorio.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+
+Las Disposiciones de este Código son de orden público, interés social y de observancia general en el Estado de Chiapas. Los principios que le rigen son la igualdad, la no discriminación y el respeto a la dignidad y libertad de las personas; en ese sentido, cuando en este Código se utilice el genérico masculino por efectos gramaticales, se entenderá que se hace referencia a mujeres y a hombres por igual, en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
 
 ###### Artículo 2.
 
@@ -5073,7 +5077,7 @@ Artículo Segundo.- Se derogan las disposiciones de igualo menor jerarquía que 
 
 P.O. 23 DE SEPTIEMBRE DE 2009.
 
-DECRETO No. 262, POR EL QUE SE ADICIONAN Y DEROGAN LOS ARTICULOS 186-BIS, 240 Y 248 DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS.
+DECRETO No. 262, POR EL QUE SE ADICIONAN Y DEROGAN LOS ARTÍCULOS 186-BIS, 240 Y 248 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5081,7 +5085,7 @@ Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al
 
 P.O. 23 DE SEPTIEMBRE DE 2009.
 
-DECRETO No. 321, POR EL QUE SE DEROGAN EL CAPITULO II, DEL TITULO DECIMO OCTAVO Y EL ARTICULO 416 DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS.
+DECRETO No. 321, POR EL QUE SE DEROGAN EL CAPÍTULO II, DEL TÍTULO DÉCIMO OCTAVO Y EL ARTÍCULO 416 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -5134,3 +5138,9 @@ Artículo Primero.- El presente Decreto entrará en vigor el día veintiuno del 
 Artículo Segundo.- En el presente decreto por el que se reforman, adicionan y derogan diversas disposiciones relativas al sistema de justicia acusatorio, se estará a lo dispuesto en los términos y modalidades que para tal efecto determine el Código de Procedimientos Penales para el Estado de Chiapas, que al respecto se emita.
 
 Artículo Tercero.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 7 DE MARZO DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor a los dos días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas disposiciones que se opongan al presente Decreto.
