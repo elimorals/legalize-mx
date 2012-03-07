@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-chispazo-de-pronosticos-para-la-31948"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2011-09-30"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31948&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-05-19"
 ---
 # REGLAMENTO DEL SORTEO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA -ANTES REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA-
 
-REGLAMENTO DEL CONCURSO CHISPAZO DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DEL CONCURSO CHISPAZO DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -33,7 +33,7 @@ Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de
 
 El presente reglamento tiene por objeto regular el sorteo Chispazo de conformidad con el Decreto de Creación de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el 24 de febrero de 1978, sus reformas y adiciones.
 
-> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 ###### Artículo 2o.
 
@@ -45,7 +45,7 @@ El sorteo Chispazo consiste en la selección o pronóstico que haga el participa
 
 bis.- El concurso Chispazo consiste en la selección o pronóstico que haga el participante, de una combinación de números tomados del conjunto que determine Pronósticos para el sorteo, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que los números sorteados correspondan a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3o.
 
@@ -63,7 +63,7 @@ Para los efectos de este reglamento, se entenderá por:
 
 3.- Sorteo.- El proceso que tiene lugar desde la captación oficial de participaciones, hasta la selección de ganadores; en el cual, los poseedores o titulares de un boleto mediante la selección previa de una combinación de números, obtienen el derecho a participar en un procedimiento estipulado y aprobado por la Secretaría de Gobernación, conforme al cual se determina al azar una combinación de números, que genera uno o varios ganadores de un premio.
 
-> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el participante anota sus preferencias.
 
@@ -129,7 +129,7 @@ Combinación sencilla es la selección de 5 (cinco) distintos números de los co
 
 Combinación múltiple es la selección de 6 (seis) a 7 (siete) números distintos entre el 1 (uno) y el 28 (veintiocho) y que da lugar a varias combinaciones sencillas: 6 (seis) números a 6 (seis) combinaciones y 7 (siete) números a 21 (veintiún) combinaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 6o.
 
@@ -165,7 +165,7 @@ El boleto deberá contener los siguientes datos:
 
 1.- Nombre, número y fecha del sorteo.
 
-> <small>(REFORMADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL PRESENTE DECRETO, D.O.F. 6 DE ABRIL DE 2005)</small>
 
 2.- El registro de los números pronosticados por el participante en su combinación.
 
@@ -179,13 +179,27 @@ El boleto deberá contener los siguientes datos:
 
 ### Capítulo III. Del concurso y la asignación de premios
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 8o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación de números ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 15o. de este Reglamento;
+
+Los siguientes resultados serán de carácter informativo únicamente:
+
+1. Los emitidos por la Terminal;
+
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -219,7 +233,7 @@ V. El archivo con la información correspondiente a todas las participaciones qu
 
 Concluido el sorteo y determinada la combinación de números ganadora, también en presencia del Inspector de la Secretaría de Gobernación, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados ganadores en las distintas categorías de premiación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 11o.
 
@@ -261,7 +275,7 @@ d) A cuarto lugar, las combinaciones dentro de las cuales figuren 2 (dos) de los
 
 Cada quiniela sencilla sólo puede obtener un premio en una de las categorías especificadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 13o.
 
@@ -369,7 +383,7 @@ El importe de los premios caducos, se llevará a la cuenta de reserva para que p
 
 Sólo por caso fortuito o fuerza mayor, Pronósticos suspenderá o cancelará un sorteo ya iniciado. En este supuesto, la Institución reembolsará a los interesados el importe de sus boletos, sin incurrir en ulterior responsabilidad.
 
-> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTÁNEOS EN LÍNEA DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
 En el caso de que el boleto contenga la participación dentro del sorteo Instantáneo en Línea únicamente se reembolsará el valor correspondiente al Chispazo, no así el de aquel.
 
@@ -377,7 +391,7 @@ En el caso de que el boleto contenga la participación dentro del sorteo Instant
 
 En los términos establecidos por el artículo 22o. del presente Reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el sorteo respectivo prescribirá en un plazo de 1 año contando a partir del siguiente día de la fecha de celebración del sorteo a que se refiere el artículo 9o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ### Capítulo VI. Chispazo Multiganador
 
@@ -395,7 +409,7 @@ El sorteo Chispazo Multiganador, consiste en la selección o pronóstico que med
 
 En el mismo boleto con que se participa en Chispazo, vendrá impresa la nota de “Chispazo Multiganador”.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ### Capítulo VII. De los procedimientos para participar en Chispazo Multiganador
 
@@ -413,7 +427,7 @@ El participante seleccionará 4 (cuatro) números elegidos entre el 1 (uno) y el
 
 Combinación sencilla es la selección de 4 (cuatro) distintos números de los comprendidos entre el 1 (uno) y el 28 (veintiocho).
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 31o.
 
@@ -445,7 +459,7 @@ Los Comercializadores recibirán de los participantes el pago del precio corresp
 
 El participante, además de observar lo estipulado en los Artículos 29o., 30o. y 31o. que anteceden, deberá observar lo señalado en los Artículos 6o. bis y 7o. del presente Reglamento, ya que se aplican en los mismos términos para Chispazo Multiganador.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ### Capítulo VIII. Selección de ganadores de Chispazo Multiganador
 
@@ -607,7 +621,7 @@ Si por causas de fuerza mayor o caso fortuito no acudiera al evento el inspector
 
 De existir interrupciones, por caso fortuito o fuerza mayor, en la celebración de un Sorteo Chispazo Multiganador, el Director General de Pronósticos, o su representante en dicho evento, se reserva el derecho de diferir la Ceremonia hasta que la causa de la interrupción haya sido eliminada, dejando constancia en un acta del motivo del diferimiento. Asimismo, el diferimiento y la fecha de reanudación, se darán a conocer por cualquiera de los medios establecidos en el Artículo 33o. de este Reglamento.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ### Capítulo IX. De las reclamaciones de Chispazo Multiganador
 
@@ -617,7 +631,7 @@ De existir interrupciones, por caso fortuito o fuerza mayor, en la celebración 
 
 El participante que tenga interés legítimo, podrá impugnar los resultados conforme a lo establecido en los Artículo 16o. al 20o. del presente Reglamento.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 23 DE JULIO DE 2008)</small>
 
 ### Capítulo X. Del pago de premios de Chispazo Multiganador
 
@@ -627,7 +641,7 @@ El participante que tenga interés legítimo, podrá impugnar los resultados con
 
 El participante que haya resultado ganador conforme a este Reglamento, podrá cobrar su premio conforme a lo señalado en los Artículo 22o. al 26o. del presente Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo XI. De los Comercializadores de Pronósticos
 
@@ -657,7 +671,7 @@ México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 11 DE JUNIO DE 2004.
 
@@ -677,7 +691,7 @@ Cuarto.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 D.O.F. 22 DE SEPTIEMBRE DE 2005.
 
-ACUERDO QUE REFORMA EL ARTICULO 11 Y ADICIONA UN ARTICULO 15 BIS.
+ACUERDO QUE REFORMA EL ARTÍCULO 11 Y ADICIONA UN ARTÍCULO 15 BIS.
 
 Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -687,7 +701,7 @@ Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vig
 
 D.O.F. 22 DE SEPTIEMBRE DE 2005.
 
-ACUERDO QUE REFORMA LOS ARTICULOS 3o. Y 25o.
+ACUERDO QUE REFORMA LOS ARTÍCULOS 3o. Y 25o.
 
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -734,3 +748,7 @@ D.O.F. 30 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
