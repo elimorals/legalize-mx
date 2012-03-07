@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-san-18451"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-03"
-last_updated: "2012-02-24"
+last_updated: "2012-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 7 DE MARZO DE 2012.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de noviembre de 2000.
 
@@ -2675,8 +2675,6 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 
 ### CAPITULO VIGESIMO PRIMERO. DE LAS SANCIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 12 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 135.
@@ -2684,20 +2682,6 @@ En los casos de retiro de vehículos de la circulación o de la vía pública, p
 El propietario del vehículo, será responsable de las infracciones que se comentan en la conducción del mismo; excepto en caso de robo reportado ante las autoridades competentes, siempre y cuando este repone haya sido con anticipación a las infracciones cometidas.
 
 El conductor será solidariamente responsable, junto con el propietario del vehículo de las infracciones que cometa en la conducción del mismo.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-TABULADOR DE INFRACCIONES (SIC)
-
-Tabla
-
-...
-
-37 Circular en zona prohibida... Cuotas No. Sanción... 40 a 90
-
-...
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2011, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PARA QUEDAR CONFORMADO POR SIETE PÁRRAFOS.</small>
 
@@ -2821,7 +2805,7 @@ IV RETIRO DE LA LICENCIA DE CONDUCIR.- La licencia de conducir podrá ser retira
 
 V MULTA.- El cobro de una multa se hará aplicando la cantidad en pesos que corresponda a un día de salario mínimo general vigente en el Área Metropolitana de Monterrey, donde se cometa la infracción, multiplicado por el número que aparece al final de cada infracción señalada en el tabulador siguiente:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PÁGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PÁGINAS DE LA 169 A LA 173; P.O. DE 12 DE NOVIEMBRE DE 2004, PÁGINAS DE LA 26 A LA 35; P.O. 4 DE JULIO DE 2011, PÁGINA 46; P.O. 16 DE NOVIEMBRE DE 2011, PÁGINAS DE LA 67 A LA 85.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 3 DE NOVIEMBRE DE 2000, PÁGINAS DE LA 60 A LA 67. REFORMAS EN EL P.O. 9 DE DICIEMBRE DE 2002, PÁGINAS DE LA 169 A LA 173; P.O. DE 12 DE NOVIEMBRE DE 2004, PÁGINAS DE LA 26 A LA 35; P.O. 4 DE JULIO DE 2011, PÁGINA 46; P.O. 16 DE NOVIEMBRE DE 2011, PÁGINAS DE LA 67 A LA 85; P.O. 7 DE MARZO DE 2012 (FE DE ERRATAS).</small>
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2011)</small>
 
