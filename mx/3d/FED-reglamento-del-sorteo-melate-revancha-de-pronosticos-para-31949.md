@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2011-09-30"
+last_updated: "2012-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-05-19"
 ---
 # REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -131,7 +131,7 @@ Coperacha, es la selección por dictado del participante o vía Melático, de 30
 
 Todas las selecciones que se deriven de las Combinaciones múltiples, Combinaciones múltiples en porciones y en Coperacha, participarán en el sorteo para el que hayan sido adquiridos los boletos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 6o.
 
@@ -197,13 +197,27 @@ No podrán participar en el sorteo ni se registrará la combinación cuyos núme
 
 ### Capítulo III. Del sorteo y la asignación de premios
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 14o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación de números ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 21o. de este Reglamento;
+
+Los siguientes resultados serán de carácter informativo únicamente:
+
+1. Los emitidos por la Terminal;
+
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -239,9 +253,9 @@ V. El archivo con la información correspondiente a todas las participaciones qu
 
 Concluida la ceremonia y determinada la combinación de números ganadora, en presencia del Inspector de la Secretaría de Gobernación y de los funcionarios mencionados en la fracción II del artículo 15o., se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 17o.
 
@@ -259,9 +273,9 @@ Un mínimo del 55% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la reserva de contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 18o.
 
@@ -313,7 +327,7 @@ Los boletos que hayan obtenido premio originado a través de una Combinación M�
 
 Los boletos que hayan obtenido premio originado a través de una Combinación de Coperacha, les corresponderá una quinta parte del total de dicho premio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 19o.
 
@@ -321,9 +335,9 @@ El Consejo Directivo de Pronósticos autorizará la asignación del fondo destin
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20o.
 
@@ -353,7 +367,7 @@ Concluida la ceremonia e identificadas las combinaciones ganadoras, se levantar�
 
 El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 21o.
 
@@ -465,13 +479,27 @@ El participante además de observar los procedimientos para participar en Melate
 
 ### Capítulo VIII. Del sorteo y la asignación de premios de Revancha
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 34o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el sorteo, la combinación de números ganadora y el importe de la premiación individual correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación de números ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 41o. de este Reglamento;
+
+Los siguientes resultados serán de carácter informativo únicamente:
+
+1. Los emitidos por la Terminal;
+
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -507,9 +535,9 @@ V. El archivo con la información correspondiente a todas las participaciones qu
 
 Concluida la ceremonia y determinada la combinación de números ganadora, en presencia del Inspector de la Secretaría de Gobernación y de los funcionarios mencionados en la fracción II del artículo 35o. de este reglamento, se procederá a efectuar la identificación de las combinaciones que hayan acertado a los números sorteados y sean ganadoras en las distintas categorías de premiación.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 37o.
 
@@ -527,7 +555,7 @@ Un mínimo de 57% destinado a premiación de los participantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
 
 > <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
@@ -549,7 +577,7 @@ Las combinaciones en las que figuren menos números de los mencionados en el inc
 
 Cada quiniela sencilla sólo puede obtener un premio en una de las categorías especificadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 39o.
 
@@ -557,9 +585,9 @@ El Consejo Directivo de Pronósticos autorizará la asignación del fondo destin
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTICULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
+> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 40o.
 
@@ -637,7 +665,7 @@ Para efecto del pago de premios de la modalidad de Revancha aplican los artícul
 
 En los términos establecidos por el artículo 26o. del presente reglamento, el derecho para solicitar la devolución del importe del boleto que, por cualquier circunstancia, no hubiere participado en el sorteo respectivo prescribirá en un plazo de 1 año contando a partir del siguiente día de la fecha de celebración del sorteo a que se refiere el artículo 34o. El importe de las devoluciones no reclamadas incrementará los recursos de Pronósticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ### Capítulo X. Disposiciones generales de Revanchita
 
@@ -651,7 +679,7 @@ Artículo 47o (sic).- Se denomina Revanchita, al sorteo de números que realiza 
 
 Se participará en el sorteo Revanchita, con los mismos números seleccionados para el sorteo Melate.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ### Capítulo XI. De los procedimientos para participar en Revanchita
 
@@ -661,7 +689,7 @@ Se participará en el sorteo Revanchita, con los mismos números seleccionados p
 
 El participante además de observar los procedimientos para participar en Melate, que señalan los artículos 4o. al 13o. de este reglamento, en el volante que emite Pronósticos, marcará su opción de participar en Revancha y en Revanchita.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ### Capítulo XII. De las Ceremonias y Asignación de Premio
 
@@ -755,7 +783,7 @@ Pronósticos publicará en medios de comunicación masiva, a más tardar al día
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ### Capítulo XIII. De las reclamaciones
 
@@ -797,7 +825,7 @@ La Comisión Dictaminadora de Reclamaciones a través de quien ésta designe, no
 
 Si alguna o algunas de las reclamaciones se consideraron procedentes, la Comisión Dictaminadora de Reclamaciones acordará el pago que corresponda, en su caso, con cargo al fondo de reserva.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ### Capítulo XIV. De los Comercializadores Autorizados
 
@@ -809,7 +837,7 @@ Los Comercializadores se encuentran obligados a observar lo establecido en el pr
 
 Las omisiones, errores o faltas imputables a los Comercializadores o a su personal dependiente, por inobservancia o violación de las normas reglamentarias aplicables, no constituirán responsabilidad a cargo de Pronósticos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ### Capítulo XV. Del pago de Premios
 
@@ -851,7 +879,7 @@ México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 31 DE JULIO DE 2003.
 
@@ -867,7 +895,7 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 D.O.F. 22 DE SEPTIEMBRE DE 2005.
 
-ACUERDO QUE REFORMA EL ARTICULO 17 Y 37 Y ADICIONA EL 21 BIS Y 41 BIS.
+ACUERDO QUE REFORMA EL ARTÍCULO 17 Y 37 Y ADICIONA EL 21 BIS Y 41 BIS.
 
 Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -879,7 +907,7 @@ Las presentes reformas y adiciones fueron revisadas y aprobadas por la Secretar�
 
 D.O.F. 22 DE SEPTIEMBRE DE 2005.
 
-REGLAMENTO POR EL QUE REFORMA LOS ARTICULOS 3o, 10o. Y 31o.
+REGLAMENTO POR EL QUE REFORMA LOS ARTÍCULOS 3o, 10o. Y 31o.
 
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -944,3 +972,7 @@ D.O.F. 30 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
