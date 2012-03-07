@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2011-08-29"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -762,6 +762,14 @@ III. La prevención específica, en cada caso, y la vigilancia de su cumplimient
 IV. La realización de estudios epidemiológicos; y
 
 V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2012)</small>
+
+###### Artículo 69 Bis.
+
+La Secretaría de Salud implementará programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino de manera permanente en las dependencias y hospitales del sector salud, de tal forma que garantice a las mujeres la realización de exámenes de detección de cáncer de mama y cérvicouterino, de manera gratuita, por lo menos una vez al año.
+
+En los lugares donde no existan clínicas del sector público, dicha autoridad de salud del Estado realizará convenios de colaboración con los Ayuntamientos, clínicas particulares o patrocinadoras del sector privado, para que se realice el servicio gratuito de exámenes para la detección de cáncer de mama y cérvicouterino.
 
 ###### Artículo 70.
 
@@ -2856,3 +2864,17 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo
 SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
 
 TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
+
+P.O. 7 DE MARZO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado en la esfera de su competencia realizará las transferencias presupuestales conducentes, para el cumplimiento del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Asimismo, la Secretaría de Salud, dentro de los treinta días posteriores a la publicación de este Decreto, deberá remitir a este Congreso del Estado, los programas de educación, prevención, información, socialización y detección de cáncer de mama y cérvicouterino a ejecutar en el presente año.
