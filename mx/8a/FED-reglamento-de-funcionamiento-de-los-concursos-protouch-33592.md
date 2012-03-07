@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-funcionamiento-de-los-concursos-protouch-33592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-01"
-last_updated: "2011-09-30"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-07-21"
 
 REGLAMENTO DE FUNCIONAMIENTO DE LOS CONCURSOS PROTOUCH
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 1 de septiembre de 2003.
 
@@ -199,7 +199,7 @@ El concursante seleccionará sus quinielas y touch inicial.
 
 Solamente se aceptará del participante la selección de un solo pronóstico para la opción del touch inicial, independientemente del número de combinaciones que adquiera para el concurso Protouch.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 17o.
 
@@ -267,13 +267,29 @@ Sólo en caso fortuito o de fuerza mayor, Pronósticos suspenderá o cancelará 
 
 ### CAPITULO IV. Selección de ganadores
 
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 21o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas, así mismo, los interesados podrán consultar la combinación oficial ganadora a través de las terminales y/o la línea telefónica del conmutador y/o sitio Web, todos de Pronósticos.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
+
+Los resultados ganadores oficiales son:
+
+1. Los que se asienten en el acta mencionada en el Artículo 22o. de este Reglamento;
+
+2. Para el caso de los resultados obtenidos conforme a lo establecido en los Artículos 11o., 12o. y 13o. de este Reglamento, la grabación en video de dicho sorteo que conservará Pronósticos es parte integrante de los resultados oficiales, del concurso que corresponda;
+
+Los siguientes resultados serán de carácter informativo únicamente:
+
+1. Los emitidos por la Terminal;
+
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
+
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -289,7 +305,7 @@ Concluida la ceremonia e identificadas las quinielas ganadoras, se levantará ac
 
 El Director General hará la designación de su representante, entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 23o.
 
@@ -307,7 +323,7 @@ El 55% destinado a premiación de los concursantes ganadores.
 
 De la cantidad restante, así como de las demás que se determinen al efecto de otros productos e ingresos de la entidad, se cubrirán las erogaciones e inversiones contenidas en el presupuesto anual autorizado por la Secretaría de Hacienda y Crédito Público, así como las cantidades que se destinen a formar la Reserva de Contingencia, y las demás que acuerde constituir su Consejo Directivo, y el saldo se entregará a la Tesorería de la Federación para que se destine a la asistencia pública, a través de las partidas del Presupuesto de Egresos de la Federación, que correspondan a programas de desarrollo social.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 24o.
 
@@ -455,7 +471,7 @@ Lic. Eduardo Antonio Ancona González
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 11 DE JUNIO DE 2004.
 
@@ -494,3 +510,7 @@ D.O.F. 30 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
