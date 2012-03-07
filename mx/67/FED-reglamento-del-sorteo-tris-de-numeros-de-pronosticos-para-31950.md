@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-tris-de-numeros-de-pronosticos-para-31950
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2011-09-30"
+last_updated: "2012-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31950&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-05-19"
 ---
 # REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DEL SORTEO TRIS DE NÚMEROS DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -41,7 +41,7 @@ El presente reglamento tiene por objeto regular el sorteo Tris de conformidad co
 
 El sorteo Tris de números consiste en la selección o pronóstico que haga el participante de cinco dígitos formando un número determinado del 00000 al 99999, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que el número sorteado corresponda a la selección que hubiere hecho, premios en efectivo en los términos de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 3o.
 
@@ -139,7 +139,7 @@ Con la misma selección de dígitos que haga el participante, podrá participar 
 
 Se podrá participar en el sorteo, utilizando los volantes oficiales emitidos por Pronósticos, por dictado del participante al Comercializador, a través de una selección automática y aleatoria efectuada por la terminal (Trismático), o por cualquier otro medio o dispositivo electrónico autorizado por Pronósticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 7o.
 
@@ -213,25 +213,27 @@ El Comercializador remitirá a las oficinas generales de Pronósticos, por los m
 
 Podrán tenerse sorteos diarios y se celebrarán en las fechas previstas en la oferta que Pronósticos haga al público.
 
-> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2012)</small>
 
 ###### Artículo 16o.
 
 Todas las ceremonias se verificarán en un lugar al cual el público tenga libre acceso.
 
-Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación de la quiniela ganadora y el importe de la premiación por quiniela sencilla correspondiente a cada una de las categorías establecidas.
+Pronósticos publicará en medios de comunicación masiva y/o en el sitio Web de Pronósticos, a más tardar al día siguiente de aquél en el que se hubiere verificado el concurso, la combinación ganadora y el importe de la premiación por participación sencilla correspondiente a cada una de las categorías establecidas.
 
 Los resultados ganadores oficiales son:
 
 1. Los que se asienten en el acta mencionada en el Artículo 18o. de este Reglamento;
 
-2. La grabación en video de dicho sorteo que conservará Pronósticos;
+Los siguientes resultados serán de carácter informativo únicamente:
 
-3. Los emitidos por la Terminal;
+1. Los emitidos por la Terminal;
 
-4. Los mencionados en la línea telefónica del conmutador de Pronósticos, y
+2. Los mencionados en la línea telefónica del conmutador de Pronósticos;
 
-5. Los publicados en la página Web de Pronósticos.
+3. Los publicados en la página Web de Pronósticos;
+
+4. Los publicados en la mascarilla de resultados de Pronósticos.
 
 Si hubiera alguna diferencia entre los resultados publicados y los oficiales, estos últimos prevalecerán.
 
@@ -305,7 +307,7 @@ XII. En la modalidad Final, tendrá un premio de 5.3763 veces su precio unitario
 
 XIII. En la modalidad Inicial, tendrá un premio de 5.3763 veces su precio unitario, para el primer dígito del número ganador del sorteo, en el orden exacto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20o.
 
@@ -383,7 +385,7 @@ El importe de los premios caducos, se llevará a la cuenta de reserva para que p
 
 Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a rembolsar a los participantes el valor de sus Tris de números previa entrega material y cancelación de los boletos, sin ulterior responsabilidad.
 
-> <small>(REFORMADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTANEOS EN LINEA DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADO POR ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE FUNCIONAMIENTO DE LOS SORTEOS INSTANTÁNEOS EN LÍNEA DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA, D.O.F. 22 DE SEPTIEMBRE DE 2005)</small>
 
 Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo sorteos Instantáneos en Línea de Pronósticos.
 
@@ -403,7 +405,7 @@ México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 11 DE JUNIO DE 2004.
 
@@ -413,7 +415,7 @@ Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
 
 D.O.F. 22 DE SEPTIEMBRE DE 2005.
 
-ACUERDO QUE REFORMA EL ARTICULO 20 Y ADICIONA EL ARTICULO 18 BIS.
+ACUERDO QUE REFORMA EL ARTÍCULO 20 Y ADICIONA EL ARTÍCULO 18 BIS.
 
 Primero.- Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -423,7 +425,7 @@ Tercero.- Los asuntos que se encuentren en trámite a la fecha de entrada en vig
 
 D.O.F. 22 DE SEPTIEMBRE DE 2005.
 
-REGLAMENTO POR EL QUE REFORMAN LOS ARTICULOS 3o, 11 Y 28.
+REGLAMENTO POR EL QUE REFORMAN LOS ARTÍCULOS 3o, 11 Y 28.
 
 Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -462,3 +464,7 @@ D.O.F. 30 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las establecidas en el presente Acuerdo.
+
+D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
