@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge21-2012-de-la-junta-general-ejecutiva-del-86101"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-21"
-last_updated: "2012-02-21"
+last_updated: "2012-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-02-02"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE MODIFICA EL "ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL MODELO DE PAUTA PARA LA TRANSMISIÓN EN RADIO Y TELEVISIÓN DE LOS MENSAJES DEL INSTITUTO FEDERAL ELECTORAL, ASÍ COMO DE OTRAS AUTORIDADES ELECTORALES, DENTRO DE LAS PRECAMPAÑAS Y CAMPAÑAS FEDERALES, EL PERÍODO DE INTERCAMPAÑA, EL PERÍODO DE REFLEXIÓN Y LA JORNADA ELECTORAL DEL PROCESO ELECTORAL FEDERAL 2011-2012" IDENTIFICADO CON LA CLAVE JGE123/2011, CON MOTIVO DEL PROCESO ELECTORAL EXTRAORDINARIO EN EL MUNICIPIO DE MORELIA, EN EL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MARZO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de febrero de 2012.
 
@@ -127,23 +127,21 @@ e) Por lo que respecta al periodo de reflexión e intercampaña en el proceso el
 
 21. Que a partir de las disposiciones legales citadas y de las reglas de distribución establecidas en el Acuerdo CG018/2012, los tiempos que corresponden a los partidos políticos y a las autoridades electorales en cada uno de los escenarios de concurrencia, son los siguientes:
 
+> <small>(REFORMADA POR EL ACUERDO JGE22/2012 DEL DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 8 DE MARZO DE 2012)</small>
+
 SUPUESTO PARTIDOS AUTORIDADES
 
 POLITICOS ELECTORALES
 
 Precampaña local coincide
 
-con precampaña federal 18 (11 Federal- 30
-
-7 Local)
+con intercampaña federal 12 Local 36
 
 Precampaña local coincide
 
-con intercampaña federal 12 Local 36
+con campaña federal 41 (34 Federal
 
-Intercampaña local coincide
-
-con intercampaña federal 0 48
+7 Local) 7
 
 Intercampaña local coincide
 
@@ -151,37 +149,37 @@ con campaña federal 41 Federal 7
 
 Campaña local coincide con
 
-campaña federal 41 (26 Federal - 7
+campaña federal 41 (26 Federal
 
-15 Local)
+15 Local) 7
 
 Periodo de reflexión y jornada
 
-electoral local coincide con
-
-campaña federal 41 Federal 7
+electoral local coincidentes 0 48
 
 22. Que el Consejo General del Instituto Electoral de Michoacán mediante el acuerdo CG-06/2012, determinó los siguientes periodos de acceso conjunto a radio y televisión:
 
+> <small>(REFORMADA POR EL ACUERDO JGE22/2012 DEL DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 8 DE MARZO DE 2012)</small>
+
 ETAPA INICIO CONCLUSION DURACION
 
-Precampañas 15 de febrero 15 de marzo 30 días
+Precampañas 5 de marzo 3 de abril
 
-de 2012 de 2012
+de 2012 de 2012 30 días
 
-Intercampaña 16 de marzo 14 de abril 29 días
+Intercampaña 4 de abril 12 de mayo
 
-de 2012 de 2012
+de 2012 de 2012 39 días
 
-Campañas 15 de abril 30 de mayo 46 días
+Campañas 13 de mayo 27 de junio
 
-de 2012 de 2012
+de 2012 de 2012 46 días
 
-Periodo de 31 de mayo 2 de junio 3 días
+Periodo de 28 de mayo 30 de junio de
 
-Reflexión de 2012 de 2012
+Reflexión de 2012 2012 3 días
 
-Jornada Electoral 3 de junio de 2012
+Jornada Electoral 1 de julio de 2012
 
 23. Que, con base en el Acuerdo CG018/2012 referido en el numeral XI del apartado de Antecedentes, los horarios en que deben ser distribuidos los mensajes federales y locales, serán los siguientes:
 
@@ -271,39 +269,33 @@ g) En el caso en que las autoridades electorales locales o federales no presente
 
 33. Que conforme a lo señalado en los considerandos anteriores, a continuación se presentan los calendarios correspondientes a los periodos de precampaña y campaña del proceso electoral federal 2011-2012:
 
+> <small>(REFORMADA POR EL ACUERDO JGE22/2012 DEL DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 8 DE MARZO DE 2012)</small>
+
 PRECAMPAÑA E INTERCAMPAÑA
 
-Fecha límite de la primera recepción de 6 de febrero de 2012
+Fecha límite de la primera recepción de
 
 material tanto de partidos políticos como
 
-para autoridades electorales federales
+para autoridades electorales locales
 
-y locales para la precampaña local
+para la precampaña local del proceso
 
-coincidente del Estado de Michoacán:
+electoral extraordinario del Estado de
 
-Fecha límite de la primera recepción 5 de marzo de 2012
+Michoacán: 27 de febrero de 2012
 
-de material de autoridades electorales
+Fecha límite de la primera recepción de
 
-federales y locales para el periodo de
+material de autoridades electorales
 
-intercampañas coincidentes
+locales para el periodo de intercampañas
 
-Fecha límite de la primera 19 de marzo de 2012
-
-recepción de material de partidos
-
-políticos y autoridades electorales
-
-federales y locales para el periodo
-
-de intercampaña local coincidente
-
-con la campaña federal
+locales 26 de marzo de 2012
 
 > <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 21 DE FEBRERO DE 2012, PÁGINAS DE LA 95 A LA 96.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, D.O.F. DE 8 DE MARZO DE 2012, PÁGINAS DE LA 10 A LA 11.</small>
 
 34. Que como consecuencia de lo señalado en los considerandos que anteceden y en ejercicio de sus atribuciones legales y reglamentarias, la Junta General Ejecutiva aprueba el modelo de pautas para la transmisión de los mensajes de las autoridades electorales, en las emisoras de radio y televisión que de conformidad con el catálogo aprobado deban cubrir el proceso electoral extraordinario en el municipio de Morelia, en el Estado de Michoacán.
 
@@ -328,3 +320,9 @@ SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación (s
 El presente Acuerdo fue aprobado en sesión extraordinaria de la Junta General Ejecutiva celebrada el 2 de febrero de 2012, por votación unánime de los Directores Ejecutivos del Registro Federal de Electores, Doctor Víctor Manuel Guerra Ortíz; de Prerrogativas y Partidos Políticos, Licenciado Alfredo Ríos Camarena Rodríguez; del Servicio Profesional Electoral, Doctor José Rafael Martínez Puón; de Capacitación Electoral y Educación Cívica, Maestro Luis Javier Vaquero Ochoa; de Administración, Contador Público Román Torres Huato; del Secretario Ejecutivo y Secretario de la Junta General Ejecutiva, Licenciado Edmundo Jacobo Molina y del Consejero Presidente y Presidente de la Junta General Ejecutiva, Doctor Leonardo Valdés Zurita, no estando presente durante el desarrollo de la sesión el Director Ejecutivo de Organización Electoral, Profesor Miguel Angel Solís Rivas.
 
 El Consejero Presidente del Consejo General y Presidente de la Junta General Ejecutiva del Instituto Federal Electoral, Leonardo Valdés Zurita.- Rúbrica.- El Secretario Ejecutivo y Secretario de la Junta General Ejecutiva del Instituto Federal Electoral, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE MARZO DE 2012.
+
+EL ACUERDO DE MODIFICACIONES CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
