@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2012-03-02"
+last_updated: "2012-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -171,7 +171,9 @@ I. Será democrática, considerando a la democracia no solamente como una estruc
 
 II. Será nacional, sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
-III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando el aprecio para la dignidad de la persona e integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres y mujeres, evitando los privilegios de razas, religión, grupos, sexos o de individuos;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
+
+III. Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando el aprecio para la dignidad de la persona e integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres y mujeres, buscando la prevención, identificación y atención de la violencia familiar, escolar y social; evitando los privilegios o discriminación, por motivo de razas, religión, grupos o sexos de los individuos;
 
 IV. Promoverá la práctica del respeto entre la relación ser humano-sociedad-medio ambiente, creando los instrumentos mediante los cuales el educando y la ciudadanía construyan valores, adquieran conocimientos, aptitudes y habilidades, orientados a la prevención de problemas ambientales para garantizar una sana calidad de vida y el desarrollo sustentable de los recursos del país y de nuestro Estado;
 
@@ -225,7 +227,9 @@ IV. Promover el español como idioma común a los mexicanos, acorde a la enseña
 
 V. Infundir el conocimiento y la práctica de la democracia, como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad, fomentar la cultura de la transparencia y rendición de cuentas, así como el derecho de acceso a la información;
 
-VI. Promover, a través de cursos u otras actividades, los valores de la justicia, la ética social, la observancia de la ley, la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los derechos humanos y el respeto a los mismos, para el desarrollo de una cultura de paz, de no violencia y no discriminación, en cualquiera de sus manifestaciones;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
+
+VI. Promover, a través de cursos, talleres u otras actividades, los valores de la justicia, la ética social, la observancia de la ley, la igualdad de los individuos ante ésta, la solución no violenta de conflictos, así como propiciar el conocimiento, defensa y respeto de los derechos humanos, para el desarrollo de una cultura de paz, de no violencia y no discriminación, en cualquiera de sus manifestaciones;
 
 VII. Fomentar actividades que estimulen la investigación tecnológica, humanística y la innovación científica;
 
@@ -243,7 +247,7 @@ XII. Impulsar y estimular en los docentes, padres de familia, encargados de coop
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
-XIII. Implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para que en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, se evite la venta o consumo de alimentos con alto valor calórico y bajo o nulo valor nutricional, de acuerdo a los estándares de nutrición que al efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables; y
+XIII. Implementar programas que fomenten en los educandos el consumo de alimentos con alto valor nutricional, así como establecer lineamientos para que en las cooperativas escolares y en los espacios comerciales donde se expendan o consuman alimentos, en las instituciones de nivel básico, se evite la venta o consumo de alimentos con alto valor calórico y bajo o nulo valor nutricional, de acuerdo a los estándares de nutrición que al efecto establezcan la Secretaría de Salud del Estado y las disposiciones federales aplicables; y (sic)
 
 XIV. Difundir y fomentar el conocimiento y la práctica habitual, en los educandos, de diversas actividades para contribuir al desarrollo de sus capacidades intelectuales y habilidades cognitivas.
 
@@ -398,6 +402,10 @@ VI. Dar mantenimiento y proveer de equipo necesario a las escuelas públicas;
 VII. Integrar el Consejo Municipal de Participación Social en la Educación, que contribuya a elevar la calidad y cobertura de la educación; y
 
 VIII. Coadyuvar en la implementación de la educación indígena, en aquellos casos donde existan pueblos y comunidades con esta característica.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
+
+IX. Realizar cursos, talleres y programas de atención, control y vigilancia, que ayuden a detectar, tratar y dar seguimiento a fenómenos de violencia o hechos delictivos en contra de los educandos, los cuales se realizarán en coordinación con los padres de familia y/o asociación de padres de familia, así como con las autoridades respectivas, especialistas en la materia.
 
 ## Título Tercero. Del sistema educativo estatal
 
@@ -673,6 +681,8 @@ e) Para el trabajo: aquella que procurará la adquisición de conocimientos, hab
 
 La educación básica tendrá las adaptaciones requeridas para responder a las características lingüísticas y culturales de cada uno de los diversos grupos indígenas del Estado, así como de la población rural dispersa y de los grupos migratorios.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO PRIMERO.
 
 El presente Reglamento deberá inscribirse en el Registro Público de la Propiedad del Estado de Aguascalientes.
@@ -689,7 +699,7 @@ Gerente General Fideicomiso Desarrollos Industriales de Aguascalientes
 
 ###### Artículo 36.
 
-En la impartición de la educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad, así como que la aplicación de la disciplina escolar sea compatible con la edad del niño.
+En la impartición de la educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad, así como que la aplicación de la disciplina escolar sea compatible con la edad del alumno; desarrollando programas de prevención, detección y atención de fenómenos de violencia física o emocional de los educandos, que impliquen la intervención directa de profesionales de la salud física y mental de los menores.
 
 > <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2010)</small>
 
@@ -1247,7 +1257,7 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 
 P.O. 2 DE MARZO DE 2012
 
-LEY POR LA QUE SE ADICIONA UNA FRACCIÓN IV AL ARTICULO 2, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 7, SE ADICIONA UNA FRACCIÓN XV AL ARTICULO 11, SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES XIII Y XIV, RECORRIÉNDOSE LAS SUBSECUENTES, DEL ARTICULO 13, SE ADICIONA UN ARTICULO 14 BIS A, SE ADICIONA UNA FRACCIÓN VIII AL ARTICULO 16, SE ADICIONA UNA NUEVA FRACCIÓN XVI Y UNA FRACCIÓN XVII, RECORRIÉNDOSE LAS SUBSECUENTES, TODAS DEL ARTICULO 33, SE REFORMA LA FRACCIÓN III DEL ARTICULO 52, SE REFORMAN LOS ARTÍCULOS 68 Y 69, SE DEROGA EL CAPITULO SEGUNDO DEL TITULO OCTAVO Y LOS ARTÍCULOS 70, 71 Y 72 QUE LO INTEGRAN, SE REFORMAN LOS ARTÍCULOS 73, 74, 75 Y 78, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO.
+LEY POR LA QUE SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 2, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7, SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 11, SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES XIII Y XIV, RECORRIÉNDOSE LAS SUBSECUENTES, DEL ARTÍCULO 13, SE ADICIONA UN ARTÍCULO 14 BIS A, SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 16, SE ADICIONA UNA NUEVA FRACCIÓN XVI Y UNA FRACCIÓN XVII, RECORRIÉNDOSE LAS SUBSECUENTES, TODAS DEL ARTÍCULO 33, SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 52, SE REFORMAN LOS ARTÍCULOS 68 Y 69, SE DEROGA EL CAPÍTULO SEGUNDO DEL TÍTULO OCTAVO Y LOS ARTÍCULOS 70, 71 Y 72 QUE LO INTEGRAN, SE REFORMAN LOS ARTÍCULOS 73, 74, 75 Y 78, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -1258,3 +1268,9 @@ Artículo Tercero. El Consejo Técnico de la Educación deberá conformarse dent
 Artículo Cuarto. La Secretaría de Educación del Estado, en un plazo no mayor de seis meses posteriores a la fecha de publicación de esta Ley, expedirá el reglamento que regule el proceso, los requisitos y los mecanismos para el otorgamiento de becas que los particulares que imparten educación están obligados a proporcionar, de conformidad con este ordenamiento legal.
 
 Artículo Quinto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 9 DE MARZO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
