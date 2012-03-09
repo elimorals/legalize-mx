@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2012-01-09"
+last_updated: "2012-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 2012.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -33,7 +33,7 @@ Gobernador Provisional del Estado Libre y Soberano de Veracruz-Llave, a sus habi
 
 La XXVI Legislatura del Estado Libre y Soberano de Veracruz-Llave, en funciones de Constituyente, a que fué convocada por decreto de 7 de abril del corriente año, reforma la Constitución Política de 29 de septiembre de 1902, en los términos siguientes:
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2003)</small>
 
 Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
@@ -175,7 +175,7 @@ La propiedad y la posesión tendrán las modalidades y limitaciones señaladas p
 
 #### SECCIÓN PRIMERA. DE LA EDUCACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2007)</small>
 
 ###### Artículo 10.
 
@@ -1203,7 +1203,7 @@ VI. A los organismos autónomos de Estado, en lo relativo a la materia de su com
 
 VII. A los ciudadanos del Estado, mediante iniciativa popular, en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 35.
 
@@ -1619,7 +1619,7 @@ VI. Los demás requisitos que señale la ley.
 
 No podrán ser magistrados las personas que hayan ocupado el cargo de Secretario del Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 59.
 
@@ -1645,7 +1645,7 @@ Los jueces deberán ordenar la ejecución de las sentencias y demás resolucione
 
 Será causa de responsabilidad para quienes tengan el mando de la fuerza pública, no proporcionar oportunamente el auxilio requerido.
 
-> <small>(REFORMADO PARRAFO PRIMERO, G.O. 18 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, G.O. 18 DE MAYO DE 2011)</small>
 
 ###### Artículo 62.
 
@@ -1701,6 +1701,10 @@ III. Sustanciar los procedimientos en materia de controversias constitucionales,
 
 IV. Dar respuesta fundada y motivada a las peticiones formuladas por los demás tribunales y jueces del Estado, cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento. Las peticiones tendrán efectos suspensivos y deberán ser desahogadas en un plazo no mayor de treinta días naturales, en los términos que disponga la ley.
 
+> <small>(ADICIONADA, G.O. 9 DE MARZO DE 2012)</small>
+
+V. Conocer, sustanciar los procedimientos y resolver, en los términos de la ley respectiva, de los asuntos indígenas.
+
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 65.
@@ -1741,7 +1745,7 @@ La omisión legislativa surtirá sus efectos a partir de su publicación en la G
 
 ### CAPÍTULO V. DE LOS ORGANISMOS AUTÓNOMOS DEL ESTADO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2009)</small>
 
 ###### Artículo 66.
 
@@ -2057,7 +2061,7 @@ Los servidores públicos serán responsables por las faltas o delitos en que inc
 
 El Gobernador, durante el ejercicio de su cargo, sólo podrá ser acusado ante el Congreso por la comisión de delitos graves del orden común. Por los demás delitos y faltas podrá ser acusado, conforme a las leyes respectivas, al concluir su mandato.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 77.
 
@@ -2083,7 +2087,7 @@ La responsabilidad política se exigirá durante el período en el cual el servi
 
 Las declaraciones y resoluciones del Congreso y del Tribunal Superior de Justicia no admitirán recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2007)</small>
 
 ### CAPITULO X. Del divorcio
 
@@ -2111,7 +2115,7 @@ No se requiere declaración de procedencia por parte del Congreso, cuando alguno
 
 En demandas del orden civil que se entablen contra cualquier servidor público, no se requerirá declaración de procedencia.
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 79.
 
@@ -2149,7 +2153,7 @@ La legislación determinará las obligaciones de los servidores públicos, los p
 
 ### CAPÍTULO III. DE LAS REFORMAS A LA CONSTITUCIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 80.
 
@@ -11155,7 +11159,7 @@ CONSTITUCION Y REFORMAS.
 
 H. Córdoba, a 16 de septiembre de 1917.-M. Loyo.-Carlos I. Meléndez, Secretario.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 G.O. 28 DE DICIEMBRE DE 1920.
 
@@ -11201,13 +11205,13 @@ Estas reformas comenzarán a regir desde la fecha de su publicación, por Bando 
 
 G.O. 1 DE NOVIEMBRE DE 1938.
 
-SE REFORMAN LOS ARTICULOS 38, 68, 82, 87, 97, 98, 99, 101, 102, 103 Y 105 DE LA CONSTITUCION POLITICA DEL ESTADO.
+SE REFORMAN LOS ARTÍCULOS 38, 68, 82, 87, 97, 98, 99, 101, 102, 103 Y 105 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado.
 
 G.O. 1 DE NOVIEMBRE DE 1938.
 
-SE REFORMA EL ARTICULO 91 DE LA CONSTITUCION POLITICA LOCAL.
+SE REFORMA EL ARTÍCULO 91 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 Esta reforma surtirá sus efectos a partir de la fecha de su publicación, por Bando Solemne, en todas las poblaciones del Estado.
 
@@ -11901,7 +11905,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 14 DE OCTUBRE DE 2008.
 
-DECRETO NUMERO 292, POR EL QUE SE REFORMA LA FRACCION XXI DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 292, POR EL QUE SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -11909,7 +11913,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 14 DE OCTUBRE DE 2008.
 
-DECRETO NUMERO 293, POR EL QUE REFORMAN LAS FRACCIONES I Y III DEL ARTICULO 22 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 293, POR EL QUE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -11923,7 +11927,7 @@ Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 G.O. 24 DE JUNIO DE 2009.
 
-DECRETO No. 555, POR EL QUE SE REFORMAN LOS ARTICULOS 55, 57, 59 Y 66 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO No. 555, POR EL QUE SE REFORMAN LOS ARTÍCULOS 55, 57, 59 Y 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -11939,7 +11943,7 @@ SEXTO. El Poder Judicial del Estado y la Secretaría de Finanzas y Planeación d
 
 G.O. 24 DE JUNIO DE 2009.
 
-DECRETO No. 556, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 26, 33 Y 67 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO No. 556, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 26, 33 Y 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -11953,7 +11957,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 7 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 861, SE REFORMAN LOS PARRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONA UN PARRAFO QUINTO, AL ARTICULO 84 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 861, SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONA UN PÁRRAFO QUINTO, AL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -11963,7 +11967,7 @@ Tercero. Los proyectos de reformas constitucionales que, al entrar en vigor el p
 
 G.O. 7 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 862, POR EL QUE SE REFORMAN LA FRACCION IV DEL ARTICULO 71 Y EL PARRAFO PRIMERO DEL ARTICULO 82; Y SE ADICIONAN DOS PARRAFOS, SEGUNDO Y TERCERO, A LA FRACCION XXVIII DEL ARTICULO 33, RECORRIENDOSE EN SU ORDEN LOS ACTUALES SEGUNDO Y TERCERO; Y LOS PARRAFOS SEGUNDO Y TERCERO, ESTE ULTIMO CON CINCO FRACCIONES, AL ARTICULO 82, RECORRIENDOSE EN SU ORDEN LOS ACTUALES SEGUNDO Y TERCERO, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+DECRETO NÚMERO 862, POR EL QUE SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 71 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 82; Y SE ADICIONAN DOS PÁRRAFOS, SEGUNDO Y TERCERO, A LA FRACCIÓN XXVIII DEL ARTÍCULO 33, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES SEGUNDO Y TERCERO; Y LOS PÁRRAFOS SEGUNDO Y TERCERO, ESTE ÚLTIMO CON CINCO FRACCIONES, AL ARTÍCULO 82, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES SEGUNDO Y TERCERO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
@@ -12022,6 +12026,12 @@ Artículo tercero. El ejercicio constitucional de cuatro años para el periodo d
 Artículo cuarto. En todos los ordenamientos estatales que se señale el período de gobierno de tres años para los ayuntamientos del Estado, se entenderá referido al período de cuatro años, en términos de lo dispuesto en los artículos Segundo y Tercero Transitorios del presente Decreto.
 
 Artículo quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE MARZO DE 2012.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
