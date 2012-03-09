@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-3607"
 country: "mx"
 rank: "ley"
 publication_date: "1981-03-13"
-last_updated: "2006-10-27"
+last_updated: "2012-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA" - ANTES LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA"-
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA"
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 13 de marzo de 1981.
 
@@ -37,7 +37,9 @@ D E C R E T A :
 
 N ú m e r o :- 204
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA"
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2012)</small>
+
+Ley que crea el Organismo Público Descentralizado denominado "Comité de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza"
 
 ### CAPITULO PRIMERO. DENOMINACION Y OBJETO
 
@@ -51,55 +53,33 @@ El Comité tendrá por objeto promover y coadyuvar en la formulación, instrumen
 
 ### CAPITULO SEGUNDO. DE LA INTEGRACION DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE COAHUILA
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO TERCERO.
 
-El Comité de Planeación para el Desarrollo del Estado contará con los órganos que señale el Reglamento Interior, y se integrará:
+El Comité de Planeación para el Desarrollo del Estado se integrara por:
 
-I.- Por un Presidente, que será el C. Gobernador del Estado de Coahuila de Zaragoza;
+I. Un Presidente, quien será el Titular del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+II. Un Coordinador General, quien será el titular de la Secretaría Técnica y de Planeación;
 
-II. Por un Vicepresidente que será el Secretario de Gobierno;
+III. Un Secretario Técnico; quien será el Secretario de Finanzas;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
+IV. Vocales, que serán los titulares de las dependencias de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+V. Un Comisario, quien será designado por el titular de la Secretaría de Fiscalización y Rendición de Cuentas y que participará con voz pero sin voto, y
 
-III. Por un Coordinador General que será el Secretario de Finanzas del Estado;
+VI. Los demás funcionarios que designe el Titular del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+El titular del ejecutivo podrá invitar a las sesiones a los titulares de las entidades de la administración pública estatal, así como a representantes de los municipios y de las delegaciones federales en el estado, cuando se estime conveniente para el desarrollo de los trabajos.
 
-IV. Por un Secretario Técnico que será el Subsecretario de Programación y Presupuesto de la Secretaría de Finanzas del Estado;
+Por cada integrante del Comité habrá un suplente
 
-V.- Por los delegados y representantes de las Dependencias y Entidades Paraestatales del Gobierno Federal en el Estado;
-
-VI.- Por los titulares de Dependencias del Gobierno del Estado y los de Organismos Públicos Descentralizados del Gobierno Estatal, que expresamente invite el Jefe del Ejecutivo;
-
-VII.- Por los titulares de las Comisiones donde participen los sectores público, social y privado, cuyas acciones interesen al desarrollo socioeconómico de la Entidad;
-
-Asimismo, podrán participar:
-
-VIII.- Los CC. Presidentes Municipales;
-
-IX.- Los representantes de las organizaciones mayoritarias de trabajadores y de campesinos, así como de las sociedades cooperativas que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
-
-X.- Los representantes de las organizaciones mayoritarias de empresarios que actúen a nivel estatal y estén debidamente registradas ante las autoridades correspondientes;
-
-XI.- Los representantes de instituciones de educación superior y de centros de investigación que operen en el Estado; y
-
-XII.- Los senadores y diputados federales por el Estado, así como los diputados locales.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2006)</small>
-
-Se integra al Comité de Planeación para el Desarrollo del Estado como vocal de vigilancia, el titular de la Secretaría de la Función pública del Estado.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
-
-Cada miembro propietario de los señalados a partir de la fracción V designará, en su caso, un suplente.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO CUARTO.
 
-Los órganos directivos del Comité celebrarán sesiones ordinarias bimestralmente por lo menos y las extraordinarias que sean necesarias para la marcha eficaz del Organismo.
+Los órganos directivos del Comité celebrarán sesiones ordinarias trimestrales y las extraordinarias que sean necesarias para la marcha eficaz del Organismo.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
 
@@ -177,11 +157,11 @@ Los bienes muebles e inmuebles pertenecientes al Organismo, gozarán de las fran
 
 Dichos bienes, así como los actos y contratos que celebre el Organismo, estarán igualmente exentos de toda clase de impuestos y derechos estatales y municipales.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO DECIMO PRIMERO.
 
-La Secretaría de Gobierno queda facultada para aplicar y vigilar el cumplimiento de esta Ley.
+El titular del ejecutivo, por conducto de la Secretaría Técnica y de Planeación, tiene a su cargo la aplicación y vigilar de lo previsto en esta ley, sin perjuicio de las atribuciones que correspondan a la Secretaría de Fiscalización y Rendición de Cuentas y otras dependencias de la administración pública estatal.
 
 T R A N S I T O R I O S
 
@@ -241,7 +221,7 @@ EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. ROBERTO OROZCO MELO. (Rúbrica).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE MARZO DE 2001.
 
@@ -262,3 +242,9 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 TERCERO.- El Comité deberá reunirse, por primera vez, en un plazo que no excederá de 30 días, a partir de la fecha en que entre en vigor el presente Decreto levantándose el Acta respectiva, misma que se protocolizará ante Notario Público e inscribirá en el Registro Público.
 
 CUARTO.- El Comité expedirá su reglamento interior dentro de los 30 días siguientes a la fecha en que entre en vigor este Decreto.
+
+P.O. 9 DE MARZO DE 2012.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones que contravengan lo dispuesto en el presente Decreto.
