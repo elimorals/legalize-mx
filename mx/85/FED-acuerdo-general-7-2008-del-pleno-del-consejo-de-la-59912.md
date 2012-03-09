@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-7-2008-del-pleno-del-consejo-de-la-59912"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-03-13"
-last_updated: "2010-07-07"
+last_updated: "2012-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59912&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-02-06"
 ---
 # ACUERDO GENERAL 7/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CJF Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO]
 
-ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
+ACUERDO GENERAL 7/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA EL DIVERSO ACUERDO GENERAL 28/2003, DEL PROPIO CUERPO COLEGIADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2008.
 
@@ -435,7 +435,7 @@ Efectos. Las visitas ordinarias de inspección tienen como objeto recabar, en fo
 
 Periodicidad. Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los visitadores judiciales “B” en la sede del órgano jurisdiccional; la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el visitador general, con el auxilio de los magistrados, jueces o encargados del despacho correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 72/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 72/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 39.
 
@@ -519,11 +519,11 @@ Comprobación de asistencia. El visitador judicial "B" pedirá la lista del pers
 
 Impresión de sellos en libros. El visitador judicial "B" solicitará los libros de gobierno que se lleven en el órgano jurisdiccional e imprimirá el sello correspondiente, el cual contendrá la fecha de inicio de la visita.
 
-> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 17/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE JULIO DE 2010)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL NÚMERO 17/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE JULIO DE 2010)</small>
 
 La temporalidad de las inspecciones ordinarias inicia al día siguiente de aquél en que se cerró el lapso que abarcó el anterior informe circunstanciado y concluye cinco días hábiles previos al en que comenzará a verificarse materialmente la citada inspección. Por lo tanto, la fecha límite del cierre de los datos que se proporcionarán en la revisión que deba practicarse, necesariamente deberá atender a esa temporalidad previa a su verificación.
 
-> <small>(ADICIONADO POR EL PUNTO UNICO DEL ACUERDO GENERAL NUMERO 17/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE JULIO DE 2010)</small>
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL NÚMERO 17/2010 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE JULIO DE 2010)</small>
 
 Como consecuencia de lo anterior, el sello que debe imprimirse por parte del visitador judicial "B" en los libros de gobierno del órgano visitado, se estampará inmediatamente después del último registro o de la última anotación que se haya hecho cinco días hábiles previos al del inicio de la inspección.
 
@@ -613,6 +613,40 @@ Acta. De la visita extraordinaria de inspección se levantará acta circunstanci
 
 Los datos obtenidos durante la práctica de la visita se mantendrán en secreto, hasta en tanto el Consejo o la Comisión dispongan lo conducente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2012)</small>
+
+DE LA VIDEOGRABACION DE LAS COMPARECENCIAS INFORMATIVAS
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2012)</small>
+
+###### Artículo 68 Bis.
+
+Videograbación de las comparecencias o declaraciones informativas. Las comparecencias o declaraciones informativas que se recaben de los servidores públicos o exfuncionarios que se hubiesen encontrado adscritos al órgano jurisdiccional durante el período inspeccionado, así como de aquéllas que a juicio del visitador resulten relevantes, deberán videograbarse.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2012)</small>
+
+###### Artículo 68 Ter.
+
+El visitador previo al inicio de la comparecencia a cargo del funcionario o exempleado del órgano jurisdiccional, ordenará al secretario técnico que designe, proceda a activar el sistema de grabación de audio y video; hecho lo anterior, procederá al desahogo de la diligencia con todas sus formalidades.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MARZO DE 2012)</small>
+
+###### Artículo 68 Quater.
+
+Requisitos que debe contener la comparecencia.
+
+I. La fecha en que se lleva a cabo;
+
+II. La hora de apertura y conclusión;
+
+III. La certificación, en la que se hará constar que se activó el sistema de grabación, o las causas extraordinarias que impidieron hacerlo;
+
+IV. Todo aquello que el compareciente como el visitador judicial “A” soliciten que se asiente;
+
+V. La firma de quienes hayan comparecido en ella.
+
+La citada comparecencia no deberá interrumpirse, sino sólo en caso fortuito o de fuerza mayor, debiendo expresarse el motivo de la interrupción y asentarse en el propio documento. Superado dicho motivo, la grabación deberá reanudarse.
+
 SECCION 2a.
 
 VISITAS EXTRAORDINARIAS INMEDIATAS
@@ -685,7 +719,7 @@ Fuentes. Las fuentes para obtener la información necesaria para seleccionar los
 
 Formatos. La Comisión acordará la aprobación de formatos para la práctica de visitas extraordinarias programadas. Estos tendrán especial énfasis en la inspección de los indicadores por los que se seleccionó al órgano jurisdiccional a visitar extraordinariamente. Las visitas programadas se efectuarán conforme a dichos formatos, sin merma a las facultades y obligaciones de inspección y supervisión del visitador judicial “A”, de complementar la inspección.
 
-> <small>(REFORMADA SU DENOMINACION POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ## TITULO CUARTO. DE LOS INFORMES
 
@@ -709,7 +743,7 @@ Formatos. El visitador general someterá a la aprobación del Pleno los formatos
 
 Periodicidad. Los informes se llevarán a cabo, cuando menos, una vez al año cada uno.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 87.
 
@@ -759,7 +793,7 @@ Su presentación será a través de la vía postal o por medios electrónicos, s
 
 Omisión. La falta de rendición del informe de conducta, total o parcial, en el plazo otorgado, se comunicará a la Dirección General de Recursos Humanos, a fin de que se haga constar en el expediente personal del servidor público omiso, y será tomado en cuenta para su reingreso, capacitación, ascenso, promoción, adscripción, ratificación, reconocimiento, estímulo, premiación, remoción y otros casos análogos, sin perjuicio de que, a juicio de la Comisión, sea motivo para la orden de práctica de visita extraordinaria de inspección.
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2008, SE DEROGAN LOS ARTICULOS 94 A 99 QUE CONFORMAN EL CAPITULO TERCERO, RECORRIENDOSE LA NUMERACION DE LOS PRECEPTOS 100 A 108, PARA SER 94 A 102.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2008, SE DEROGAN LOS ARTÍCULOS 94 A 99 QUE CONFORMAN EL CAPÍTULO TERCERO, RECORRIÉNDOSE LA NUMERACIÓN DE LOS PRECEPTOS 100 A 108, PARA SER 94 A 102.</small>
 
 ## TITULO QUINTO. DE LA EVALUACION
 
@@ -859,7 +893,7 @@ Opinión de Visitadores "A". Al inicio de cada semestre, los visitadores judicia
 
 Informe de evaluación. El Visitador General examinará los expedientes de los visitadores "B" y la opinión emitida por los visitadores "A" y emitirá una resolución en la que evalúe el desempeño y conducta de los primeros. A continuación, informará a la Comisión el resultado de su evaluación.
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2008, SE DEROGA EL SEXTO TRANSITORIO, RECORRIENDOSE LA NUMERACION DEL SEPTIMO AL DECIMO, PARA SER DEL SEXTO AL NOVENO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS PUNTOS PRIMERO Y TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE AGOSTO DE 2008, SE DEROGA EL SEXTO TRANSITORIO, RECORRIÉNDOSE LA NUMERACIÓN DEL SÉPTIMO AL DÉCIMO, PARA SER DEL SEXTO AL NOVENO.</small>
 
 ## TRANSITORIOS
 
@@ -875,7 +909,7 @@ Las actas de visita ordinaria junto con los informes circunstanciados (y las act
 
 QUINTO. Si durante el inicio de la implementación de la inspección ordinaria a distancia ocurrieran desajustes y fallas técnicas o circunstancias similares que impidieran el inicio, la práctica o la conclusión de la totalidad de las etapas de una inspección determinada, con la rendición del informe inicial se tendrá por agotada la inspección ordinaria a distancia al órgano jurisdiccional relativo, a consideración del visitador general.
 
-(REUBICADO [N. DE E. ANTES SEPTIMO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES SÉPTIMO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 SEXTO. Con motivo de la entrada en vigor del presente acuerdo, los visitadores judiciales "A", se reincorporarán a la función jurisdiccional de la que tienen licencia, en el órgano jurisdiccional que determine el Pleno; con excepción del magistrado Filemón Haro Solís, que dada su reciente designación continuará en funciones, para lo cual se le extenderá nuevo y actualizado nombramiento.
 
@@ -887,13 +921,13 @@ SEPTIMO. La plantilla de los visitadores judiciales "B" se renovará escalonadam
 
 OCTAVO. Los nombramientos del personal de confianza adscrito a los magistrados visitadores que se reincorporarán a su función jurisdiccional, tendrán efectos hasta en tanto se designe a quienes les sustituyan.
 
-(REUBICADO [N. DE E. ANTES DECIMO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
+(REUBICADO [N. DE E. ANTES DÉCIMO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL 41/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE AGOSTO DE 2008)
 
 NOVENO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del propio Cuerpo Colegiado, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de seis de febrero de dos mil ocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Elvia Díaz de León D'Hers, Indalfer Infante Gonzales y Jorge Moreno Collado.- México, Distrito Federal, a veintiocho de febrero de dos mil ocho.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 8 DE AGOSTO DE 2008.
 
@@ -918,3 +952,11 @@ PRIMERO. El presente acuerdo entrará en vigor a partir del inicio del segundo s
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 7/2008, del Pleno del Consejo de la Judicatura Federal, que Regula la Organización y Funcionamiento de la Visitaduría Judicial del Consejo de la Judicatura Federal y Abroga el Diverso Acuerdo General 28/2003, del Propio Cuerpo Colegiado.
+
+D.O.F. 9 DE MARZO DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su difusión, publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial y su Gaceta, y en los medios electrónicos de consulta pública.
+
+TERCERO. La Comisión de Administración de este Consejo, por conducto de la Dirección General de Tecnologías de la Información, en el ámbito de sus atribuciones proveerán lo necesario a fin de que se dote a la Visitaduría General de este Consejo, el equipo de grabación de audio y video, así como del mobiliario adecuado que permita la guarda y custodia de los dispositivos de almacenamiento de datos que contengan los archivos digitales de las comparecencias; asimismo, verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal (secretarios técnicos), para operar el sistema de grabación.
