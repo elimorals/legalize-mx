@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2012-01-20"
+last_updated: "2012-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -813,9 +813,13 @@ II. La atención del niño, previo y durante su nacimiento, así como la vigilan
 
 III. La protección de la integración y del bienestar familiar;
 
-IV. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento; y
+IV. La detección temprana de la pérdida de audición y enfermedades visuales, y su tratamiento en todos sus grados, desde los primeros días del nacimiento; y (sic)
 
 V. El diagnóstico oportuno para resolver los problemas de salud visual y auditiva de los niños, en escuelas públicas y privadas.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
+
+VI. Atención directa de profesionales de la salud física y mental a los menores que cursen la educación básica, para prevenir, detectar y atender fenómenos de violencia física o emocional.
 
 ###### Artículo 64.
 
@@ -851,15 +855,23 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2010)</small>
 
-IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y
+IV. La vigilancia de los alimentos que se expendan en las cooperativas, así como en espacios comerciales donde se tenga a la venta o consuman alimentos en las instituciones de nivel básico, a efecto de que los mismos cumplan con alto contenido nutricional y evitar problemas de mal nutrición de menores de edad y adolescentes; y (sic)
 
-V. Las demás acciones que coadyuven a la protección de la salud materno infantil.
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
+
+V. Programas para prevenir y atender las manifestaciones de violencia contra los educandos, preservando la salud mental y física de los mismos; y
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
+
+VI. Las demás acciones que coadyuven a la protección de la salud materna infantil.
 
 ###### Artículo 68.
 
 Corresponde a la Secretaría de Salud Federal, establecer los lineamientos para proteger la salud de la comunidad escolar de los centros educativos dependientes del Estado.
 
-La prestación de servicios de salud a los escolares, se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
+La prestación de servicios de salud física y mental a los escolares, se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
 ### Capítulo Séptimo. De la salud reproductiva
 
@@ -1069,9 +1081,13 @@ En materia de salud, la educación tiene por objeto:
 
 I. Fomentar en la población el desarrollo de actividades y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes;
 
-II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, los daños provocados por éstas y los efectos del medio ambiente en la salud; y
+II. Proporcionar a la población los conocimientos sobre las causas de las enfermedades, los daños provocados por éstas y los efectos del medio ambiente en la salud; y (sic)
 
 III. Orientar y capacitar a la población en materia de nutrición; salud visual, mental, bucal y ocupacional; educación sexual y planificación familiar; prevención de riesgos de automedicación, fármaco dependencia, accidentes y discapacidad; uso adecuado de los servicios de salud y rehabilitación de las personas con discapacidad, detección de otras enfermedades y vigilancia sanitaria.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2012)</small>
+
+IV. Orientar y capacitar a la población escolar en el cuidado y protección de su salud física y mental contra cualquier acto de violencia.
 
 ###### Artículo 97.
 
@@ -1279,11 +1295,15 @@ Los menores en estado de desprotección social, tienen derecho a recibir los ser
 
 Para la prestación de servicios de asistencia social para la atención a mujeres en periodo de gestación, se brindará preferentemente a mujeres y adolescentes que por alguna enfermedad se ponga en riesgo el desarrollo del embarazo así como aquellos casos en que se encuentren es (sic) situación extrema de vulnerabilidad o carezcan de recursos económicos.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### Artículo 119.
 
-Los integrantes del Sistema de Salud del Estado de Querétaro, darán atención preferente e inmediata a menores y a adultos mayores sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental, así como a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra su integridad física o mental o su normal desarrollo psicosomático.
+Los integrantes del Sistema de Salud del Estado de Querétaro, darán atención preferente e inmediata a menores, adolescentes y adultos mayores sometidos a cualquier forma de maltrato que ponga en peligro su salud física y mental, así como a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra su integridad física o mental o su normal desarrollo psicosomático.
 
-En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores y adultos mayores, sin perjuicio de dar intervención a las autoridades competentes.
+En estos casos, las instituciones de salud del Estado podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, adolescentes y adultos mayores, sin perjuicio de dar intervención a las autoridades competentes.
+
+Las autoridades educativas estarán atentas a los fenómenos de violencia escolar de los educandos y en coordinación con las autoridades de salud, realizarán las medidas tendientes al tratamiento psicológico y médico de los mismos.
 
 ###### Artículo 120.
 
@@ -1841,9 +1861,9 @@ Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del 
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-SE REFORMAN LAS FRACCIONES XII DEL APARTADO A, I DEL APARTADO B DEL ARTICULO 3; SE ADICIONA UNA FRACCIÓN XI AL ARTICULO 19, RECORRIENDO LA ACTUAL FRACCIÓN XI; SE ADICIONA UNA FRACCIÓN V AL ARTICULO 20, RECORRIENDO LA ACTUAL FRACCIÓN V; SE REFORMA LA FRACCIÓN IX DEL ARTICULO 30; SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN X AL ARTICULO 59; SE REFORMA LA FRACCIÓN II DEL ARTICULO 63; SE ADICIONA UNA FRACCIÓN IV AL ARTICULO 67, RECORRIENDO LA ACTUAL FRACCIÓN IV; SE REFORMA EL ARTICULO 98; SE ADICIONA LA FRACCIÓN IV, AL ARTICULO 100, RECORRIENDO LAS ACTUALES FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VII Y VIII, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
+SE REFORMAN LAS FRACCIONES XII DEL APARTADO A, I DEL APARTADO B DEL ARTÍCULO 3; SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 19, RECORRIENDO LA ACTUAL FRACCIÓN XI; SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 20, RECORRIENDO LA ACTUAL FRACCIÓN V; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30; SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 59; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 63; SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 67, RECORRIENDO LA ACTUAL FRACCIÓN IV; SE REFORMA EL ARTÍCULO 98; SE ADICIONA LA FRACCIÓN IV, AL ARTÍCULO 100, RECORRIENDO LAS ACTUALES FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VII Y VIII, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -1888,5 +1908,11 @@ P.O. 20 DE ENERO DE 2012.
 LEY QUE REFORMA LOS ARTÍCULOS 74, 75, FRACCIONES II Y IV, 76, FRACCIÓN I Y 126, FRACCIÓN II, DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 9 DE MARZO DE 2012.
+
+Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
