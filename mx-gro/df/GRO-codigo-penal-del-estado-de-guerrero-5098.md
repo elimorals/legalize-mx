@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "2011-12-02"
+last_updated: "2012-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -2047,15 +2047,21 @@ Se aplicará la misma regla descrita en el segundo párrafo del artículo anteri
 
 200.- Para los efectos de este Código, son vías de comunicación las de tránsito destinados al uso público, incluyendo los tramos que se hallen dentro de los límites de las poblaciones.
 
-(NOTA: EL 12 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 33/2011, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE ABRIL DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2012)</small>
+
+200 BIS.- Al que utilizando cualquier medio de comunicación envíe mensajes escritos o realice llamadas telefónicas de falsa alarma o auxilio a los servicios de emergencia y éstas no justifiquen su necesidad, se le impondrá una sanción de seis meses a un año de prisión y de 50 a 300 días multa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
-200 BIS.- Al que utilizando cualquier medio de comunicación envié mensajes escritos o realice llamadas telefónicas de falsa alarma o auxilio a los servicios de emergencia y éstas no justifiquen su necesidad, se le impondrá una sanción de seis meses a un año de prisión y 300 DÍAS MULTA.
-
 En caso de reincidencia o cuando derivado de esos mensajes o llamadas resulten consecuencias para la sociedad, se le impondrá una sanción de uno a tres años de prisión y multa de hasta 1000 salarios mínimos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 Se impondrán las mismas penas señaladas en los dos párrafos anteriores, al que realice llamadas o envíe mensajes falsos de alerta a inmuebles que alberguen instituciones públicas o privadas, educativas, de negocios, domicilio particulares, centros de recreación u cualquier tipo de inmueble que afecten la continuidad en sus actividades, avisando o alertando de la existencia de bombas u cualquier artefacto explosivo, sin tener la certeza de su dicho o por el simple hecho de consumar una broma.
 
@@ -3488,6 +3494,16 @@ DECRETO NÚMERO 841 POR EL QUE SE REFORMA EL ARTÍCULO 129 BIS 3 Y SE ADICIONA E
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor a los dos mese siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 9 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 ###### ARTÍCULO SEGUNDO.
 
