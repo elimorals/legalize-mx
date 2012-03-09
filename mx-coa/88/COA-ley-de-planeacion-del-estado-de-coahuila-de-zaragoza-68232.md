@@ -4,7 +4,7 @@ identifier: "COA-ley-de-planeacion-del-estado-de-coahuila-de-zaragoza-68232"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2010-10-22"
+last_updated: "2012-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE PLANEACION DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE PLANEACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 9 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de abril de 2009.
 
@@ -193,7 +195,7 @@ XI. Los demás funcionarios que designe el Titular del Poder Ejecutivo.
 
 Para efectos de la fracción IX de este artículo, el Gabinete Temático se integra por los titulares de las Dependencias y Entidades que no forman parte del Comité.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 13.
 
@@ -515,7 +517,7 @@ ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2010.
 
@@ -526,3 +528,15 @@ SEGUNDO.- Las referencias que cualquier ordenamiento haga a la Secretaría de Fi
 TERCERO.- A partir de la entrada en vigor de este Decreto, las atribuciones relacionadas con la planeación financiera del Gobierno del Estado y coordinación correspondiente a las entidades paraestatales; el conocimiento e integración de las propuestas de gasto e inversión que formulen las Dependencias y Entidades de la administración pública estatal; la presentación al Ejecutivo del Estado para su aprobación de los programas de inversión pública y autorización de los proyectos derivados de los mismos; la autorización de los montos globales de inversión pública del estado; la programación y operación de recursos destinados a los programas de inversión pública de las dependencias del Ejecutivo, de sus organismos auxiliares y de las entidades paraestatales; el establecimiento y operación del sistema de seguimiento de los programas federales y estatales de inversión, conforme a las leyes y acuerdos de coordinación; y la representación del Ejecutivo en la celebración de negociaciones y convenios que involucren transferencias de fondos, ante la federación, los estados y entidades u organismos de los sectores paraestatal y privado, serán ejercidas por el Servicio de Administración Tributaria del Estado de Coahuila.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2012.
+
+PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Planeación del Estado de Coahuila de Zaragoza Publicada en el Periódico Oficial del Gobierno del Estado el 17 de abril de 2009.
+
+TERCERO.- A partir de la entrada en vigor de la presente Ley, el ejecutivo del estado contará con un plazo de seis meses para expedir el Reglamento correspondiente.
+
+CUARTO.- El reglamento para la organización y funcionamiento del Consejo Consultivo de Planeación y Evaluación del Estado de Coahuila se emitirá dentro de los 90 días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO.- Se dejan sin efecto las disposiciones que contravengan lo dispuesto en la presente Ley.
