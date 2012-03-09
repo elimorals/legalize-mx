@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-divorcio-del-estado-de-guerrero-5130"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-13"
-last_updated: "2010-12-21"
+last_updated: "2012-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE DIVORCIO DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de marzo de 1990.
 
@@ -47,13 +47,21 @@ Las disposiciones de la presente Ley son de orden público y regirán en el Esta
 
 Los actos jurídicos relativos al matrimonio celebrados en el extranjero y que surtan efectos de ejecución en el territorio de esta Entidad Federativa, se regirán por las disposiciones de la presente Ley, del Código Civil vigente en el Estado de Guerrero, así como las demás leyes aplicables al caso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 3o.
 
-Todos los casos relativos a divorcio se substanciarán conforme a las disposiciones y procedimientos establecidos en la presente Ley, aplicándose en su caso las disposiciones relativas del Código Civil y del Código de Procedimientos Civiles en el Estado.
+Todos los casos relativos al divorcio se substanciarán conforme a las disposiciones y procedimientos establecidos en la presente Ley, aplicándose en su caso las disposiciones relativas del Código Civil y del Código Procesal Civil del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 4o.
 
-El divorcio voluntario y el necesario deben solicitarse ante el Juez de lo Familiar y en los casos en que éste no lo hubiere será competente el Juez Mixto de Primera Instancia del domicilio conyugal, por lo que hace al divorcio administrativo éste debe tramitarse ante el Oficial del Registro Civil.
+El divorcio voluntario y divorcio incausado deben solicitarse ante el Juez de lo Familiar y en los casos en que éste no lo hubiere será competente el Juez Mixto de Primera Instancia del domicilio conyugal, por lo que hace al divorcio administrativo, éste debe tramitarse ante el Oficial del Registro Civil.
 
 ###### ARTICULO 5o.
 
@@ -63,17 +71,17 @@ En el caso de que no exista domicilio conyugal será Juez competente el del últ
 
 El sometimiento expreso de las partes al Juez, hace que éste sea competente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 7o.
 
-En los casos de divorcio necesario, el Juez tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente.
+En los casos de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes o ingresos suficientes, para lo cual tomará en cuenta las circunstancias del caso, entre ellas, la capacidad para trabajar de los cónyuges y su situación económica.
 
-En el caso de divorcio por mutuo consentimiento, la mujer tendrá derecho a recibir alimentos, derecho que disfrutará sino tiene ingresos suficientes, mientras no contraiga nuevas nupcias o se una en concubinato.
+El derecho a recibir alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato.
 
-El mismo derecho señalado en el párrafo anterior, tendrá el varón que se encuentre imposibilitado para trabajar y carezca de ingresos suficientes, mientras no contraiga nuevas nupcias o se una en concubinato.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-Cuando durante el divorcio se cometa un hecho ilícito por un cónyuge a otro se cubrirán los daños y perjuicios ocasionados.
+Cuando por el divorcio se originen daños o perjuicios a los intereses de cualquiera de los cónyuges, el que haya causado éstos responderá de ellos como autor de un hecho ilícito.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -115,15 +123,23 @@ I.- Divorcio Administrativo;
 
 II.- Divorcio Voluntario y
 
-III.- Divorcio Necesario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
+
+III.- Divorcio Incausado
 
 ## TITULO III
 
 DIVORCIO ADMINISTRATIVO.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 12.
 
-Cuando ambos consortes convengan en divorciarse, sean mayores de edad, no tengan hijos, demuestre la mujer no encontrarse en estado de gravidez y de común acuerdo hubieren liquidado la sociedad conyugal si hicieron bienes y bajo ese régimen se casaron, podrán presentarse ante el Oficial del Registro Civil quién los identificará previamente y le comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestándoles de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse, sean mayores de edad, no tengan hijos, demuestre la mujer no encontrarse en estado de gravidez clínica, y de común acuerdo hubieren liquidado la sociedad conyugal si hicieron bienes y bajo ese régimen se casaron, podrán presentarse ante el Oficial del Registro Civil quien los identificará previamente y le comprobarán con las copias certificadas respectivas que son casados y mayores de edad, manifestándoles de una manera terminante y explícita su voluntad de divorciarse.
 
 ###### ARTICULO 13.
 
@@ -165,7 +181,11 @@ IV.- El domicilio en que radicarán cada uno de los cónyuges durante el procedi
 
 V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad;
 
-VI.- La comprobación de que la cónyuge se encuentra o no encinta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
+
+VI.- La comprobación de que la cónyuge se encuentra en estado de gravidez clínica; y
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -177,25 +197,33 @@ VII.- La convivencia que el padre y la madre, tendrá con sus hijos, sin que el 
 
 El divorcio por mutuo consentimiento podrá solicitarse en cualquier momento del matrimonio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 18.
 
-Hecha la solicitud, citará el Juez a los cónyuges y al representante del Ministerio Público a una junta en la que se identificarán plenamente, la que se efectuará después de los 8 y antes de los 15 días siguientes, si asistieren los interesados los exhortará para procurar su reconciliación, sino lograra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio relativos a la situación de los hijos menores o incapacitados, a la separación de los cónyuges, a los alimentos de aquellos y de los que un cónyuge deba dar a otro mientras dure el procedimiento, dictando las medidas necesarias de aseguramiento.
+Presentada la solicitud, el Juez citará a los cónyuges, quienes se identificarán plenamente, y al representante del Ministerio Público, a la junta de ratificación de la solicitud y del convenio respectivo, la que se efectuará después de los ocho y antes de los quince días siguientes a la presentación de la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 19.
 
-Si los cónyuges insisten en su propósito de divorciarse, el Juez previa solicitud, citará a la segunda junta que se verificará después de los 8 y antes de los 15 días de solicitada; y en ella volverá a exhortarlos con el mismo fin que la anterior.
-
-Si no logra la reconciliación, con las medidas dictadas por el Juez quedarán garantizados los derechos de los menores o incapaces.
-
-El Juez, previa vista que dé al Ministerio Público, dictará dentro de los cinco días siguientes sentencia declarando disuelto el vínculo matrimonial y una vez que cause ejecutoria dicha sentencia ordenará la inscripción al Registro Civil de la sentencia de divorcio.
+El Juez dentro de los cinco días siguientes a la celebración de la junta, dictará sentencia declarando disuelto el vínculo matrimonial y una vez que cause ejecutoria la misma, ordenará su remisión a la Oficialía del Registro Civil correspondiente para los efectos legales que señala esta Ley.
 
 ###### ARTICULO 20.
 
 Para que el cónyuge menor de edad pueda solicitar el divorcio por mutuo consentimiento deberá estar asistido por cualquiera de sus padres o en su caso de un tutor especial.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 21.
 
-Los cónyuges no pueden hacerse representar por procurador en las juntas a que se refieren los artículos 18 y 19, sino deben comparecer personalmente y, en su caso, como lo dispone el artículo anterior.
+Los cónyuges no pueden hacerse representar por procurador en la junta a que se refiere el artículo 18 de la presente Ley, debiendo comparecer personalmente y, en su caso, como lo dispone el artículo 20 de la presente ley.
 
 ###### ARTICULO 22.
 
@@ -206,6 +234,12 @@ En cualquier caso en el que los cónyuges dejaren pasar más de tres meses sin c
 El Juez examinará cuidadosamente el convenio y si considera que se violan los derechos de los hijos, oyendo el parecer del Ministerio Público, prevendrá a los cónyuges para que dentro del término de tres días lo modifiquen. En caso de no desahogar la prevención en el término estipulado, se resolverá lo que proceda de acuerdo a la Ley.
 
 Cuando el convenio no fuere de aprobarse, no podrá decretarse la disolución del matrimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2012)</small>
+
+El Juez estará obligado a suplir las deficiencias de las partes en el convenio propuesto.
 
 ###### ARTICULO 24.
 
@@ -219,243 +253,291 @@ Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ella al
 
 Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reconciliarse de común acuerdo en cualquier tiempo siempre que la sentencia no hubiere causado ejecutoria.
 
-En este caso no podrán volver a solicitar el divorcio por mutuo consentimiento si no pasado un año a partir de su reconciliación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-## TITULO V
+> <small>(DEROGADO, P.O. 9 DE MARZO DE 2012)</small>
 
-DIVORCIO NECESARIO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2012)</small>
+
+## TITULO V. DIVORCIO INCAUSADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 27.
 
-Son causas de divorcio:
+El divorcio incausado podrá solicitarse unilateralmente por cualesquiera de los cónyuges ante el Juez competente, manifestando su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la causa por el cual lo solicita, siempre que haya transcurrido cuando menos un año de la celebración del matrimonio.
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato;
-
-III.- La propuesta del marido para prostituir a su mujer, no solo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-IV.- La incitación o la violencia hecha por un cónyuge al otro o hacia los hijos para cometer algún delito;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-V.- Las conductas orientadas a corromper a los hijos, ya sean éstos de ambos, o de uno solo de ellos; así como la tolerancia en su corrupción;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-VI.- Padecer cualquier enfermedad crónica o incurable que sea, siempre que no tenga su origen en la edad avanzada;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-VII.- Padecer enajenación mental incurable, previa declaración de interdicción;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-VIII.- El abandono del domicilio conyugal por más de dos meses sin causa justificada;
-
-IX.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción, en que no se necesita para que se haga ésta que preceda la declaración de ausencia;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-X.- Las conductas de violencia familiar, en los términos de lo dispuesto por el artículo 27 BIS del Código Civil para el Estado de Guerrero, así como el incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales tendientes a corregir las conductas de violencia familiar realizadas contra el otro, cónyuge o los hijos e hijas;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-XI.- La negativa injustificada de los cónyuges a colaborar en las actividades domésticas y en el cuidado de los hijos e hijas, o a no cumplir con las obligaciones relativas al sostenimiento del hogar;
-
-XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por el delito que merezca pena corporal o alternativa;
-
-XIII.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XIV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes o la adicción a substancias que produzcan farmacodependencia cuando éstos actos alteren la estabilidad familiar haciendo imposible la vida en común;
-
-XV.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la Ley una pena que pase de un año de prisión;
-
-XVI.- La separación de los cónyuges por más de un año independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos;
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-XVII.- La incompatibilidad de caracteres; y
-
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-XVIII.- Cometer un cónyuge contra sus descendientes, ascendientes o parientes colaterales, cualquier acto de violencia sexual.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o se hubiere desistido de la demanda o de la acción sin la conformidad del demandado, éste tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia o del auto que recayó al desistimiento. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
+El cónyuge promovente deberá acompañar a su solicitud de divorcio, una propuesta de convenio que deberá contener los siguientes requisitos:
+
+I.- La designación del progenitor que tendrá la guarda y custodia de los hijos;
+
+II.- El modo de subvenir a las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento, en términos del artículo 404 del Código Civil del Estado de Guerrero. La obligación alimentaria se fijará en los términos del artículo 8 de la presente ley;
+
+III.- Designación del cónyuge que hará uso del domicilio conyugal y del menaje, o en su caso el domicilio en que radican en caso de no existir éste;
+
+IV.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta su liquidación, así como la forma de liquidarla. Para ese efecto se acompañará un inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad conyugal, las capitulaciones matrimoniales y el proyecto de partición;
+
+V.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la indemnización a que se refiere el artículo 7º. Bis de la presente ley, salvo que se trate de bienes adquiridos a través de donaciones o herencias, éstos se sujetarán a las reglas propias previstas en el Código Civil del Estado. El Juez resolverá atendiendo las circunstancias especiales de cada caso; y
+
+VI.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 29.
 
-El juicio de divorcio necesario termina si el cónyuge que lo demandó, se desiste de la acción antes de que se dicte sentencia en segunda instancia y no hubiere reconvención, pero no podrá pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior aunque sí por otros nuevos así sea de la misma especie.
+El Juez está obligado a suplir la deficiencia de las partes en el convenio propuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 30.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses contados desde que se tuvo conocimiento del adulterio.
+Al admitirse la solicitud de divorcio o antes si hubiera urgencia, el Juez dictará provisionalmente las medidas siguientes:
+
+I.- Separar a los cónyuges. Para este efecto el Juez verificará que el uso de la casa conyugal sea designado al cónyuge que vaya a ejercer la guarda y custodia de los hijos, salvo que a solicitud de éste optara por la separación del domicilio conyugal. El cónyuge que se separe de la casa conyugal informará al Juez el lugar de su nueva residencia;
+
+II.- Verificar que los hijos menores de siete años queden al cuidado de la cónyuge, y escuchar a los mayores de siete años para resolver con que cónyuge se quedarán, salvo que éstos decline tal prerrogativa, dictando el Juez en su caso, las medidas necesarias tendientes a la salvaguarda de los hijos;
+
+III.- Salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para emitir aquellas que protejan a las víctimas;
+
+IV.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos. El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir los alimentos o cualquiera otra forma de garantía suficiente a juicio del juez;
+
+V.- Las que estime convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva en el Registro Público de la Propiedad y de Comercio del Estado y en la oficina de catastro municipal correspondiente, así como de aquellos lugares en que se conozca que tienen bienes; y
+
+VI.- Las necesarias para salvaguardar la integridad y el cuidado de la mujer que se encuentre en estado de gravidez clínica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 31.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 27, podrá sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge y el Juez con conocimiento de causa podrá decretar esa suspensión quedando subsistentes las demás obligaciones creadas por el matrimonio.
+Contestada la solicitud, el Juez dictará las siguientes medidas provisionales:
+
+I.- Determinará con audiencia de parte y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar;
+
+II.- Poner a los hijos menores de siete años al cuidado de la madre y escuchar a los mayores de siete años para resolver con que cónyuge se quedarán, salvo declinación expresa de éstos, o por impedimento legal derivado de una resolución judicial o bien cuando estuviese plenamente demostrado la existencia de violencia familiar en la que ella sea la agresora.
+
+Los cónyuges podrán compartir la guarda y custodia mediante convenio;
+
+III.- Las modalidades del derecho de visita o convivencia con el padre, o la madre, según sea el caso, con los hijos; En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a los menores. A efecto de que el menor sea adecuadamente escuchado independientemente de su edad, deberá ser asistido por el personal que designe el Sistema para el Desarrollo Integral de la Familia de la entidad.
+
+IV.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como de los que se encuentren bajo el régimen de sociedad conyugal en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
+
+V.- Las demás que considere necesarias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 32.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que haya llegado a su noticia los hechos en que se funde la demanda.
+La sentencia de divorcio fijará la situación de los hijos, para lo cual el Juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad y en especial a la custodia y cuidado de los hijos, debiendo obtener los elementos de juicio para ello, debiendo oír y considerar la opinión del menor, la cual deberá ser valorada en función de su edad y madurez. Asimismo para dictar todas aquellas medidas necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad. De igual forma, para el caso de menores incapaces, sujetos a la tutela de alguno de los excónyuges.
+
+Así también fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán la obligación de contribuir en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
+
+En caso de desacuerdo, el Juez habrá de resolver sobre la procedencia de la indemnización que prevé el artículo 28 fracción V de la presente Ley, atendiendo a las circunstancias especiales de cada caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 33.
 
-Ninguna de las causas enumeradas en el artículo 27 pueden alegarse para pedir el divorcio, cuando haya mediado perdón expreso.
+En caso de que los cónyuges lleguen a un acuerdo respecto al convenio señalado en el artículo 28 de esta Ley, y éste, no contravenga ninguna disposición legal, el Juez lo aprobará de plano decretando el divorcio mediante sentencia. Caso contrario, el Juez en su sentencia que decrete el divorcio, dejará a salvo el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio, aplicándose las disposiciones que establece el Código Procesal Civil del Estado Libre y Soberano de Guerrero, para el Procedimiento Incidental.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 34.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán informar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre. Para tal efecto los interesados deberán comunicar su reconciliación al Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 35.
 
-Al admitirse la demanda de divorcio o antes si hubiere urgencia se dictarán provisionalmente y sólo mientras dure el juicio las disposiciones siguientes:
+El padre o la madre que pierda el derecho a la patria potestad queda sujeto a todas las obligaciones que tienen para con sus hijos.
 
-I.- Separar a los cónyuges. Para este efecto el Juez prevendrá al marido que se separe de la casa conyugal informando éste al Juez, el lugar de su nueva residencia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- Sólo a solicitud de la mujer se le autoriza a ésta separarse del domicilio conyugal, informando el lugar de su nueva residencia y el Juez, ordenará se le entregue su subsistencia y la de sus hijos en caso de que los hubiera;
-
-III.- Se prevendrá a los cónyuges para que no se molesten uno al otro en ninguna forma y si no (sic) hicieren, el Juez a petición de parte solicitará la intervención del Ministerio Público;
-
-IV.- Dictar a solicitud de cualquiera de los cónyuges las medidas de protección que, a juicio del Juez, deban adoptarse para la seguridad física o moral del cónyuge y de los hijos que lo necesiten;
-
-V.- Dictar las medidas conducentes para que los cónyuges no se causen perjuicios en su patrimonio, ni en bienes que sean comunes;
-
-VI.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos. El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir los alimentos o cualquiera otra forma de garantía, suficiente a juicio de Juez;
-
-Los hijos deberán quedar al cuidado de la cónyuge, salvo que decline ésta prerrogativa, dictando el Juez en su caso, las medidas necesarias tendientes a la salvaguarda de los hijos;
-
-VII.- Dictar las medidas precautorias que la Ley establece para la mujer que quede encinta.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 36.
 
-La sentencia de divorcio fijará la situación de los hijos e hijas, para lo cual el Juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos, debiendo obtener los elementos de juicio necesarios para ello. El Juez observará las normas previstas en el Código Civil para los fines de llamar al ejercicio de la patria potestad a quien legalmente tenga derecho a ello en su caso, o de designar tutor.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
 
-El Juez podrá modificar esta decisión atento a lo dispuesto en los artículos 422 y 444 del Código Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 37.
 
-(DEROGADO, P.O. 21 DE DICIEMBRE DE 2010)
+La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 38.
 
-El padre o la madre, que pierda el derecho a la patria potestad queda sujeto a todas las obligaciones que tienen para con sus hijos.
+Ejecutoriada la sentencia de divorcio, el Juez de Primera Instancia, bajo su más estricta responsabilidad, remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta de divorcio correspondiente, haga la anotación correspondiente en el acta de matrimonio disuelto, y además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas al efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 39.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 40.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta que lleguen a la mayor edad en términos del artículo 308 del Código Civil.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 41.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 42.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 43.
 
-Ejecutoriada la sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella a la Coordinación Técnica del sistema Estatal del Registro Civil y al Oficial del Registro Civil ante quien se celebró el matrimonio, para efecto de que se realice la anotación marginal correspondiente en el acta de matrimonio respectivo, y para que este último realice el registro correspondiente y además, para que publique un extracto de la resolución durante quince días, en las tablas destinadas al efecto.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
 
-## TITULO VI
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-PROCEDIMIENTO PARA LA TRAMITACION DEL DIVORCIO NECESARIO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+## TITULO VI. PROCEDIMIENTO PARA LA TRAMITACIÓN DEL DIVORCIO INCAUSADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 44.
 
-Para los efectos de la tramitación del juicio de divorcio necesario, se seguirán las reglas y términos procesales señalados en la presente Ley.
+Para los efectos de la tramitación del juicio incausado se seguirán las reglas y términos procesales señalados en el Título Segundo del Libro Segundo del Código Procesal Civil del Estado Libre y Soberano de Guerrero.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 45.
 
-El divorcio necesario sólo podrá demandarse por los cónyuges, en base a las causales establecidas en la presente Ley.
+Legitimación activa. El divorcio incausado puede ser solicitado unilateralmente por cualesquiera de los cónyuges. La acción de divorcio sólo podrá ejercitarse por los cónyuges.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 46.
 
-El cónyuge menor de edad que solicite el divorcio necesario será asistido por cualquiera de sus padres o en su caso de un tutor.
+Divorcio de cónyuges menores de edad. Los cónyuges menores de edad necesitan de un tutor o de representante legítimo para litigar en asuntos de divorcio. La solicitud de divorcio y el convenio respectivo serán suscritos también con la firma del menor y con la huella digito pulgar derecha del mismo, quien la ratificará ante la presencia judicial.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 47.
 
-Se presentará la demanda por escrito, acompañándolos documentos en que funde su acción.
+Medidas de aseguramiento de carácter personal. Al admitirse la solicitud de divorcio y la contestación a la misma, se dictarán provisionalmente y mientras dure el juicio, las medidas que procedan en términos de la Ley de Divorcio del Estado y aquellas que a juicio del juzgador considere pertinentes. El monto de la pensión alimenticia y la resolución que la establece pueden ser modificados durante el juicio cuando cambien las circunstancias o el juzgador tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 48.
 
-Una vez admitida la demanda, en un plazo no mayor a quince días el juzgador deberá recabar, de oficio, los medios de prueba que sean útiles para decidir sobre las cuestiones de la controversia.
+Tramitación del juicio. El divorcio incausado se tramitará de acuerdo con las reglas del juicio ordinario, con las excepciones previstas en el presente ordenamiento, con las siguientes modalidades:
 
-Este procedimiento desde la presentación de la demanda hasta que se dicte sentencia no podrá tener una duración mayor a un año.
+I.- En caso de allanamiento se declarará disuelto el vínculo matrimonial y aprobado el convenio respectivo;
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+II.- En caso de falta de contestación a la solicitud se declarará disuelto el vínculo matrimonial.
+
+Asimismo, si el demandado no diera contestación a la demanda y no acude a la Audiencia Previa y de Conciliación, se le tendrá por conforme con las prestaciones establecidas en el Convenio por la parte actora, debiendo el juzgador resolver en la misma sentencia que decrete la disolución del vínculo matrimonial de manera definitiva los alimentos y la guarda y custodia, quedando a salvo la disolución de la sociedad conyugal, misma que se resolverá en la vía incidental. La sentencia que decrete los alimentos y guarda y custodia definitivos será apelable en relación a estas acciones.
+
+III.- El juzgador podrá exigir la identificación de las partes cuando lo considere necesario;
+
+IV.- Si el cónyuge fuese omiso al pronunciamiento sobre la conformidad o inconformidad del convenio propuesto o no presentara contrapropuesta, habrá lugar a prevención por el juzgador;
+
+V.- No habrá lugar a la apertura de término probatorio, toda vez que las probanzas serán acompañadas en la propuesta y contrapropuesta del convenio;
+
+VI.- El juzgador en su sentencia dejará a salvo el derecho de los cónyuges para que hagan valer en la vía incidental los puntos del convenio en desacuerdo; y
+
+VII.- La muerte de uno de los cónyuges pone fin al juicio del divorcio, sin que puedan continuarlo los herederos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 49.
 
-El demandado tendrá un plazo de ochos días para contestar la demanda, acompañando las pruebas que considere.
+Terminación de la instancia. La instancia concluirá sin sentencia:
 
-Cuando transcurrido el plazo para contestar la demanda el demandado no lo hiciere, se presumirán admitidos los hechos de la demanda que se dejo de contestar.
+I.- Por inactividad total de las partes en el proceso por más de tres meses naturales;
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+II.- Por reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia ejecutoriada; y
+
+III.- Por desistimiento del cónyuge solicitante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 50.
 
-Contestada la demanda se fijará la litis y se abrirá el juicio a prueba, en un plazo de quince días; aunque medie confesión o allanamiento se abrirá el juicio a prueba.
+facultades del juzgador. El juez en la sentencia que disuelva el vínculo matrimonial en los juicios de divorcio incausado fijará lo relativo a la guarda y custodia de los hijos, división de los bienes comunes, alimentos de los cónyuges y de los hijos.
 
-El juzgador podrá solicitar la identificación de las partes cuando lo considere necesario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 51.
 
-Las acciones sobre nulidad de matrimonio y divorcio pueden acumularse. Si se declara la nulidad, la sentencia a se abstendrá de resolver sobre el divorcio.
+Impugnación de las sentencias. La sentencia que declara la disolución del vínculo matrimonial es inapelable, únicamente podrán recurrirse la resolución interlocutoria que recaiga en vía incidental respecto del o los convenios presentados.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 52.
 
-La instancia concluirá sin sentencia, cuando:
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
 
-I. Hubiere inactividad total de las partes en el proceso por más de tres meses;
-
-II. Por la reconciliación de los cónyuges; y
-
-III. Por la muerte de uno de los cónyuges.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 53.
 
-La sentencia, en los juicios de divorcio necesario resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, división de los bienes comunes, alimentos de los cónyuges y de los hijos, aunque las partes no lo hayan pedido.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 54.
 
-La sentencia definitiva es apelable en el efecto suspensivo, por lo que no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a pensión alimenticia.
+(DEROGADO, P.O. 9 DE MARZO DE 2012)
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -521,7 +603,7 @@ El Secretario General de Gobierno.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE NOVIEMBRE DE 1999.
 
@@ -538,3 +620,17 @@ P.O. 21 DE DICIEMBRE DE 2010.
 DECRETO NUMERO 499 POR EL QUE SE REFORMA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DIVORCIO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Guerrero.
+
+P.O. 9 DE MARZO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Los Juicios de divorcio pendientes al entrar en vigor el presente Decreto, seguirán tramitándose conforme a las disposiciones legales vigentes a la fecha de su inicio, excepto que los interesados de común acuerdo se acojan a lo presupuestado por el presente.
+
+###### ARTICULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
