@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2012-del-pleno-del-consejo-de-la-86392"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-29"
-last_updated: "2012-02-29"
+last_updated: "2012-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86392&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2012-02-21"
 ---
 # ACUERDO GENERAL 5/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN ZAPOPAN, JALISCO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y SEDE INDICADOS]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 9 Y 28 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ACUERDO GENERAL 5/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN ZAPOPAN, ESTADO DE JALISCO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y SEDE INDICADOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE MARZO DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de febrero de 2012.
 
@@ -49,11 +51,11 @@ ACUERDO
 
 PRIMERO. El nuevo órgano jurisdiccional se denominará Tercer Tribunal Colegiado en Materia de Trabajo del Tercer Circuito y tendrá igual residencia, competencia y jurisdicción territorial que los Tribunales Colegiados en esa especialización que actualmente funcionan en el Tercer Circuito, con sede en Zapopan, Estado de Jalisco.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 SEGUNDO. El Tercer Tribunal Colegiado en Materia de Trabajo del Tercer Circuito, iniciará funciones el uno de marzo de dos mil doce, con la plantilla autorizada para ese órgano jurisdiccional.
 
-Su domicilio será el ubicado en el edificio XD, nivel 8, en Anillo Periférico Poniente Manuel Gómez Morín, número 7727, Fraccionamiento Ciudad Judicial Federal, Municipio de Zapopán, Estado de Jalisco, código postal 45010. Toda la correspondencia y trámites relacionados con los asuntos de su competencia, deberán dirigirse y realizarse en el mismo.
+> <small>(F. DE E., D.O.F. 9 DE MARZO DE 2012)</small>
+
+Su domicilio será el ubicado en el edificio XD, nivel 7, en Anillo Periférico Poniente Manuel Gómez Morín, número 7727, Fraccionamiento Ciudad Judicial Federal, Municipio de Zapopán, Estado de Jalisco, código postal 45010. Toda la correspondencia y trámites relacionados con los asuntos de su competencia, deberán dirigirse y realizarse en el mismo.
 
 Los actuales tribunales colegiados en materia de trabajo del Tercer Circuito, conservarán la denominación, competencia y jurisdicción territorial que tienen asignada.
 
