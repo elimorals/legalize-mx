@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-caminos-del-52331
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-17"
-last_updated: "2006-11-17"
+last_updated: "2012-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52331&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE CAMINOS DEL ESTADO DE QUERETARO
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE CAMINOS DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 17 de noviembre de 2006.
 
@@ -340,3 +342,11 @@ Secretario de Desarrollo Urbano y Obras Públicas y Secretario del H. Consejo de
 Rúbrica
 
 "Aprobado por el Órgano de Gobierno de la Comisión Estatal de Caminos del Estado de Querétaro, mediante Sesión Celebrada el día veintiuno del mes de diciembre del año dos mil cuatro y turnado al Ejecutivo del Estado para su autorización y publicación, conforme a la fracción IX del artículo 61 de la Ley de Entidades Paraestatales del Estado de Querétaro".
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE MARZO DE 2012.
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Caminos del Estado de Querétaro, publicado en el Periódico Oficial "La Sombra de Arteaga" de fecha 17 de noviembre de 2006, así como las disposiciones de igual o menor jerarquía que contravengan el presente reglamento.
