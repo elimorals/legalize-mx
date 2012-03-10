@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-archivos-del-estado-de-oaxaca-62160"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2008-07-19"
+last_updated: "2012-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ARCHIVOS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 19 de julio de 2008.
 
@@ -39,9 +39,11 @@ LEY DE ARCHIVOS DEL ESTADO DE OAXACA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto normar la administración de los documentos, regular la organización, funcionamiento, restauración, conservación y difusión de los archivos de los sujetos obligados; fomentar el resguardo, difusión y acceso de archivos privados de especial relevancia histórica, social, técnica, científica o cultural, así como establecer las bases para la creación y operación del Sistema Estatal de Archivos.
+La presente ley es de orden público y obligatoria para todos los sujetos obligados del Estado de Oaxaca, e interés general y tiene por objeto normar la administración de los documentos, regular la organización, funcionamiento, restauración, conservación y difusión de los archivos de los sujetos obligados; fomentar el resguardo, difusión y acceso de los archivos de especial relevancia histórica, social, técnica, científica o cultural así como establecer las bases para la creación y operación del Sistema Estatal de Archivos, con el objeto de que los documentos se encuentren debidamente integrados, ordenados y disponibles y así facilitar el acceso expedito a la información.
 
 ###### ARTÍCULO 2.
 
@@ -53,11 +55,25 @@ II. Las administraciones públicas estatal y municipal, incluyendo a los organis
 
 III. El Poder Legislativo y la Auditoría Superior del Estado;
 
-IV. El Poder Judicial del Estado y el Tribunal Estatal Electoral;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
-V. Los Órganos Autónomos del Estado, incluyendo al Tribunal de lo Contencioso Administrativo, el Instituto Estatal de Acceso a la Información Pública de Oaxaca, las Universidades e Instituciones de Educación Superior Públicas y los demás que se constituyan con tal carácter; y
+IV. El Poder Judicial del Estado;
 
-VI. Las Juntas en materia del trabajo.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+V. Los Órganos Autónomos del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+VI. Los Entes públicos con autonomía constitucional o legal;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2012)</small>
+
+VII. Las Universidades e Instituciones de Educación Superior Públicas; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2012)</small>
+
+VIII. Las Juntas en materia del trabajo.
 
 ###### ARTÍCULO 3.
 
@@ -69,21 +85,33 @@ II. Establecer mecanismos para la coordinación entre los sujetos obligados en m
 
 III. Propiciar el uso de tecnologías de la información para la mejor administración de los archivos de los sujetos obligados; y
 
-IV. Promover la preservación, difusión, acceso y consulta de acervos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+IV. Promover la conservación, difusión, acceso y consulta de los acervos a través de los instrumentos archivísticos, cuadro general de clasificación archivística, catálogo de disposición documental e inventarios de archivo.
 
 ###### ARTÍCULO 4.
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Administración de documentos: Conjunto de métodos y prácticas destinados a planear, dirigir y controlar la producción, gestión, acceso, circulación, conservación, uso, selección y destino final de los documentos e información de archivo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
-II. Archivo: Conjunto organizado de expedientes, documentos, sea cual fuere su forma y soporte material, producidos o recibidos por una persona física o moral, o por un organismo público o privado en el ejercicio de sus funciones o actividades;
+I. Administración de Documentos: conjunto de métodos y prácticas destinados a planear, dirigir y controlar la reproducción, integración, clasificación, ordenación, valoración, descripción, conservación y difusión de los documentos de archivos a través de su ciclo institucional de vida.
 
-III. Archivo de concentración: Se conforma por los documentos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados y que permanecen en él hasta que prescribe su valor administrativo, legal, fiscal o contable, o concluye el término para conservarlos de manera precautoria;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
-IV. Archivo de trámite: Documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de una unidad administrativa;
+II. Archivo: Conjunto organizado de expedientes integrados por documentos sea cual fuere su forma y soporte, producidos o recibidos por una persona física o moral, por un organismo público o privado en el ejercicio de sus funciones o actividades;
 
-V. Archivo histórico: Se conforma por los documentos seleccionados que contienen evidencia y testimonio de las acciones trascendentes de los sujetos obligados, por lo que deben conservarse permanentemente;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+III. Archivo de concentración: Unidad responsable de la administración de documentos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados y que permanecen en él hasta que prescribe su valor legal o jurídico, y fiscal o contable, o concluye el término para conservarlos de manera precautoria;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+IV. Archivo de trámite.- Unidad responsable de la administración de documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de una unidad administrativa.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+V. Archivo histórico.- Fuente de acceso público y unidad responsable de organizar, conservar, administrar, describir y divulgar la memoria documental institucional.
 
 VI. Archivo privado: Documentos o colecciones que ostenten interés público, histórico o cultural en poder de particulares;
 
@@ -91,13 +119,19 @@ VII. Archivística: Disciplina dedicada al estudio y aplicación de las teorías
 
 VIII. Baja documental: Eliminación de aquella documentación e información que haya prescrito en sus valores administrativos, legales, fiscales o contables, y que no contenga valores históricos;
 
-IX. Catálogo de disposición documental: Registro general y sistemático que establece los valores administrativos, legales, fiscales, contables e históricos, así como los plazos de H. Congreso del Estado Libre y Soberano de Oaxaca conservación, clasificación de reserva o confidencialidad y el destino final de los documentos e información de un archivo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
-X. Clasificación archivística: Proceso de identificación y organización sistemática de las funciones o documentos de archivo en categorías de acuerdo con esquemas lógicos previamente establecidos, y métodos y reglas determinados;
+IX. Catálogo de disposición documental: Instrumento técnico de registro general y sistemático que establece los valores administrativos, legales, fiscales o contables e históricos, así como los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad de la información y el destino final de los documentos.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+X. Clasificación archivística: Proceso de identificación, jerarquización, agrupación y codificación de expedientes homogéneos con base en la estructura funcional de los sujetos obligados.
 
 XI. Conservación de archivos: Conjunto de acciones destinadas a asegurar la preservación y la prevención de alteraciones físicas y de información de los documentos de archivo;
 
-XII. Cuadro general de clasificación archivística: Instrumento técnico que refleja la estructura de un archivo con base en las atribuciones de cada sujeto obligado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+XII. Cuadro general de clasificación archivística.- Instrumento técnico y de control que refleja, mediante categorías de agrupamiento de los documentos de archivo y código asignados, la estructura de la documentación producida o recibida por los sujetos obligados con base en sus atribuciones y/o funciones. En relación con el artículo 7 fracción I de la Ley de Transparencia y Acceso a la Información Pública de Oaxaca.
 
 XIII. Destino final: Selección en los archivos de trámite o concentración de aquellos expedientes cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos a un archivo histórico;
 
@@ -107,9 +141,13 @@ XV. Documento electrónico: Información cuyo tratamiento es automatizado y requ
 
 XVI. Documento activo: Aquel necesario para el ejercicio de las atribuciones de las unidades administrativas y de uso frecuente, que se conserva en el Archivo de trámite.
 
-XVII. Documento semiactivo: Aquel de uso esporádico que debe conservarse por razones administrativas, legales, fiscales o contables en un archivo de concentración.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
 
-XVIII. Expediente: Unidad constituida por uno o varios documentos e información, ordenados y relacionados de acuerdo con un mismo asunto, actividad o trámite;
+XVII. Documento semiactivo.- Aquel de uso esporádico que debe conservarse por razones legales, fiscales o contables en un archivo de concentración.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+XVIII. Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite.
 
 XIX. Fondo: Conjunto de documentos producidos orgánicamente por los sujetos obligados con cuyo nombre se identifican;
 
@@ -131,9 +169,11 @@ XXVII. Valor documental: Contenido y condición de los documentos e información
 
 XXVIII. Vigencia documental: Periodo durante el cual un documento e información de archivo mantiene sus valores administrativos, legales, fiscales, contables o históricos, de conformidad con las disposiciones jurídicas vigentes y aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
-En la aplicación e interpretación de la presente Ley, se observarán los principios de reserva, confidencialidad, disponibilidad, eficiencia, localización expedita, integridad y conservación.
+En la aplicación e interpretación de la presente Ley, se observarán los principios de reserva, confidencialidad, disponibilidad, eficiencia, localización expedita, integridad y conservación, como lo establece la Ley de Transparencia y demás aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -143,6 +183,10 @@ Es responsabilidad de cada sujeto obligado, mantener organizados los documentos 
 
 Los sujetos obligados tomarán las medidas necesarias para administrar y conservar los documentos electrónicos, generados o recibidos cuyo contenido y estructura permitan identificarlos como documentos de archivo que aseguren la identidad e integridad de su información.
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
+
+ARTÍCULO 7 BIS.- La autoridad encargada de emitir las medidas o criterios será la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales como se establece en el artículo 32 de la Ley de Transparencia y Acceso a la Información Pública de Oaxaca.
+
 ### CAPÍTULO II
 
 DEL PATRIMONIO DOCUMENTAL.
@@ -151,15 +195,21 @@ DEL PATRIMONIO DOCUMENTAL.
 
 El patrimonio documental es el conjunto de documentos que registran la evolución histórica del Estado o que por su valor testimonial, evidencial o informativo tienen un interés público; se integra con los documentos que generen, conserven y posean los sujetos obligados en el ejercicio de sus funciones, así como de los particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-Los documentos podrán ser administrativos, judiciales e históricos.
+Los documentos podrán ser administrativos, judiciales, históricos y legislativos.
 
 I. Serán considerados documentos administrativos los que elaboren o reciban los servidores públicos en el ejercicio de sus funciones, los estudios y proyectos elaborados y terminados por los órganos técnicos y consultivos, aun cuando no operen y las publicaciones elaboradas por los órganos del Estado y Municipios;
 
 II. Serán considerados documentos Judiciales aquellos que por su propia y especial naturaleza se generen por los órganos jurisdiccionales del Poder Judicial del Estado y del Tribunal de lo Contencioso Administrativo; y
 
 III. Serán considerados documentos históricos aquellos que por su relevancia contengan evidencia y testimonio de la vida estatal y que deberán ser conservados permanentemente.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2012)</small>
+
+IV. Serán considerados documentos Legislativos aquellos que por su propia y especial naturaleza se generen por el Poder Legislativo del Estado.
 
 ###### ARTÍCULO 10.
 
@@ -183,21 +233,25 @@ El patrimonio documental del Estado es inalienable, inembargable e imprescriptib
 
 El propósito de la administración de archivos es asegurar que los documentos, sin importar su soporte o formato, sirvan para el cumplimiento y sustento de las atribuciones o funciones institucionales, el trámite y gestión de asuntos, la transparencia de acciones, la rendición de cuentas y el acceso a la información, además de ser fuente para la investigación histórica.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 15.
 
-Cada sujeto obligado, de conformidad con su normatividad orgánica, contará al menos con un responsable de los archivos de trámite, concentración e histórico.
+Cada sujeto obligado, de conformidad con su normatividad orgánica, contará al menos con un responsable de los archivos de trámite, concentración e histórico y un coordinador de archivos.
+
+Así también permitirán que la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, de cumplimiento a la ley conforme lo establecido en el artículo 30 y 55 fracción IX de la Ley de Transparencia y Acceso a la Información Pública de Oaxaca.
 
 Los responsables de los archivos de trámite tendrán las siguientes funciones:
 
-I. Integrar los expedientes de archivo;
+I.- Integrar los expedientes de archivo;
 
-II. Conservar la documentación e información que se encuentra activa y aquella que ha sido clasificada como reservada o confidencial, conforme al catálogo de disposición documental;
+II.- Conservar la documentación e información que se encuentra activa y aquella que ha sido clasificada como reservada o confidencial, conforme al catálogo de disposición documental;
 
-III. Coadyuvar con el archivo de concentración, en la elaboración del cuadro general de clasificación, el catálogo de disposición documental y el inventario general;
+III.- Coadyuvar con el archivo de concentración, en la elaboración del cuadro general de clasificación, el catálogo de disposición documental y el inventario general;
 
-IV. Elaborar los inventarios de transferencia primaria; y
+IV.- Elaborar los inventarios de transferencia primaria; y
 
-V. Valorar y seleccionar los documentos y expedientes de las series documentales, con el objeto de realizar las transferencias primarias al archivo de concentración, conforme al catálogo de disposición documental.
+V.- Valorar y seleccionar los documentos y expedientes de las series documentales, con el objeto de realizar las transferencias primarias al archivo de concentración, conforme al catálogo de disposición documental.
 
 ###### ARTÍCULO 16.
 
@@ -217,15 +271,19 @@ VI. Valorar en coordinación con el archivo histórico, en su caso, los document
 
 VII. Realizar, en su caso, las transferencias al archivo histórico de los sujetos obligados; y
 
-VIII. Actualizar periódicamente el catálogo de disposición documental.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+VIII. Actualizar anualmente el Cuadro General de Clasificación Archivística e Inventarios.
 
 ###### ARTÍCULO 17.
 
 Los sujetos obligados deberán contar con espacios físicos determinados para formar sus archivos de Trámite, Concentración e Históricos, procurando que cuenten con las condiciones necesarias que se establezcan en el reglamento o normatividad respectiva.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 18.
 
-El servidor público encargado de recibir la documentación para su archivo, efectuará el registro en el catálogo de disposición documental respectivo, anotando los datos que sean necesarios para su identificación e indicando el destino que deba darse a cada documento.
+El servidor público encargado de recibir la documentación para su archivo, efectuará el registro de todos los expedientes en los inventarios y posteriormente realizará la clasificación para actualizar el cuadro general de clasificación archivística, anotando los datos que sean necesarios para su identificación e indicando el destino que deba darse a cada documento.
 
 ###### ARTÍCULO 19.
 
@@ -233,13 +291,21 @@ Los sujetos obligados con base en su catálogo de disposición documental, efect
 
 Esta depuración se realizará tomando como criterios básicos las necesidades administrativas de cada sujeto obligado, así como el valor administrativo, legal, fiscal e histórico de cada documento.
 
+> <small>(REFORMADO [ N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2012)</small>
+
+Cuando un sujeto obligado inicie el procedimiento de baja documental de los expedientes clasificados como reservados, deberá notificarlo a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales para que éste, dentro de un plazo de 30 días, opine si procede o no su baja, tal y como lo establece el artículo 33 de la Ley de Transparencia y Acceso a la Información Pública de Oaxaca.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Los sujetos obligados que transfieran los documentos a su cargo, al archivo que corresponda, deberán incluir un inventario documental que contenga los datos necesarios para la identificación de cada documento y la prescripción legal de vida útil de la información en ellos contenida y, en su caso, la clasificación de confidencialidad o reserva que en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, se realice.
+Los sujetos obligados que transfieran los documentos a su cargo, al archivo que corresponda, deberán incluir un inventario documental que contenga los datos necesarios para la identificación de cada expediente y la prescripción legal de vida útil de la información en ellos contenida y, en su caso, la clasificación de confidencialidad o reserva que en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, se realice.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-Los documentos que según el catálogo de disposición documental, hayan agotado su vida útil administrativa y que no se consideren necesarios para formar parte del archivo histórico podrán darse de baja conforme a los procedimientos que se establezcan en el Reglamento o Lineamientos del Archivo General correspondiente.
+Los documentos que según el catálogo de disposición documental, hayan agotado su vida útil administrativa y que no se consideren necesarios para formar parte del archivo histórico podrán darse de baja conforme a los procedimientos que se establezcan en el Reglamento o Lineamientos del Archivo General correspondiente y la Ley de Transparencia y Acceso a la Información Pública de Oaxaca.
 
 ###### ARTÍCULO 22.
 
@@ -257,7 +323,9 @@ IV. La preservación, el uso y la disposición final, entre otros que resulten r
 
 Serán facultades y obligaciones de los titulares de los Archivos Generales las siguientes:
 
-I. Recibir, identificar, clasificar, controlar, conservar, resguardar, restaurar y rescatar los documentos de carácter administrativo, Judicial e histórico;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+I. Recibir, identificar, clasificar, controlar, conservar, resguardar, restaurar y rescatar los documentos de carácter legislativo, administrativo, judicial e histórico;
 
 II. Conservar la documentación de contenido administrativo de importancia hasta que personal calificado de los mismos determine su valor histórico o destino final;
 
@@ -275,7 +343,13 @@ VIII. Proponer acciones de concertación y de coordinación entre sí, y con los
 
 IX. Adherirse al Sistema Estatal de Archivos del Estado; y
 
-X. Las demás inherentes a sus funciones.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2012)</small>
+
+X. Diseñar, instrumentar, operar y mantener sistemas de consulta a través de los medios tecnológicos de vanguardia de conformidad con las posibilidades presupuestales, atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2012)</small>
+
+XI. Las demás inherentes a sus funciones.
 
 ###### ARTÍCULO 24.
 
@@ -369,31 +443,43 @@ III. Un Coordinador; y
 
 IV. Por los responsables de los Archivos Generales de los sujetos obligados.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 36.
 
 El Consejo Estatal de Archivos, será la Autoridad máxima del Sistema y estará integrado por:
 
-I. Un Consejero Presidente, que será designado por el Gobernador del Estado;
+I. Un Consejero designado por el Poder Legislativo;
 
-II. Un Consejero Secretario Técnico, que será el responsable del Archivo General del Poder Ejecutivo;
+II. Un Consejero designado por el Poder Ejecutivo; y (sic)
 
-III. Un Consejero designado por el Poder Legislativo;
+III. Un Consejero designado por el Poder Judicial.
 
-IV. Un Consejero designado por el Poder Judicial; y
+IV. Como Consejeros los Presidentes Municipales invitados.
 
-V. Como Consejeros los Presidentes Municipales invitados.
+El cargo de consejero será honorífico y tendrá una duración de tres años, debiendo sustituirse de forma escalonada.
+
+El presidente del Consejo será electo por votación de entre sus miembros por un periodo de un año.
+
+El Consejo Estatal de Archivos contará con un Secretario Técnico, quien será designado por el Consejo Estatal de Archivos, el cual tendrá en todo momento el derecho para removerlo de sus funciones.
+
+Los Presidentes Municipales podrán participar con voz pero sin voto como consejeros invitados.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 37.
 
-Serán facultades del Consejo Estatal de Archivos organizar, planear, normar e instrumentar el Sistema Estatal de Archivos.
+Serán facultades del Consejo Estatal de Archivos organizar, planear, normar e instrumentar el Sistema Estatal de Archivos. Para estos fines deberán expedir un reglamento interior y lineamientos de operación, con el apoyo de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
 
 ###### ARTÍCULO 38.
 
 El Comité Técnico será el órgano asesor y se integrará por los responsables de los archivos de los Poderes del Estado, de los responsables de los Centros de Documentación existentes en el Estado y por los profesionistas especializados en la materia.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 39.
 
-La Coordinación del Sistema Estatal de Archivos, quedará a cargo del responsable del Archivo del Poder Ejecutivo, quien mantendrá relaciones permanentes con los archivos de los Poderes del Estado; los Municipales y demás que se incorporen al Sistema, con el objeto de impulsar y propiciar la plena modernización de los archivos del Estado de Oaxaca.
+La Coordinación del Sistema Estatal de Archivos, quedará a cargo del Presidente y del Secretario Técnico, quienes mantendrán relaciones permanentes con los archivos de los Poderes del Estado; los Municipales y demás que se incorporen al Sistema, con el objeto de impulsar y propiciar la plena modernización de los archivos del Estado de Oaxaca.
 
 ### CAPÍTULO V
 
@@ -462,3 +548,13 @@ Oaxaca de Juárez, Oax., a 03 de julio de 2008.
 GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ULISES RUÍZ ORTIZ. SECRETARIO GENERAL.- ING. TEOFILO MANUEL GARCÍA CORPUS. Y lo comunico a usted para su conocimiento y fines consiguientes.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. "EL RESPETO AL DERECHO AJENO ES LA PAZ" Oaxaca de Juárez, Oax., a 03 de julio de 2008. SECRETARIO GENERAL DE GOBIERNO. ING. TEOFILO MANUEL GARCÍA CORPUS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El cambio en la integración del Consejo Estatal de Archivos deberá realizarse dentro de los 30 días posteriores a la integración de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales. Por única ocasión, los periodos de los consejeros durarán el tiempo necesario para concluir sus responsabilidades dentro de los plazos marcados en la reforma del artículo 36 de la Ley de Archivos del Estado de Oaxaca, contenida en el artículo quinto de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
