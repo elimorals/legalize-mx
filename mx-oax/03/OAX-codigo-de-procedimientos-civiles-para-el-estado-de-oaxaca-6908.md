@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2011-04-07"
+last_updated: "2012-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -4519,41 +4519,37 @@ Divorcio por mutuo consentimiento
 
 Cuando ambos consortes convengan en divorciarse en los términos del artículo 284 del Código Civil, deberán ocurrir al tribunal competente haciendo la gestión respectiva, a la que acompañarán el convenio que se exige en el artículo 285 del Código citado, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores o incapacitados.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### Artículo 657.
 
-Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación.
+Recibida la solicitud, el Tribunal dentro de los cinco días siguientes citara a los cónyuges y al Ministerio Público a una junta, y si asistieren los interesados los exhortará para procurar su reconciliación.
 
-Si no logra avenirlos, oyendo al Representante Social y en su caso a las hijas e hijos, aprobará provisionalmente los puntos del convenio relativos a la situación de los propios hijos, a los alimentos de éstos y a los que un cónyuge deba dar al otro.
-
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### Artículo 658.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el tribunal a una segunda junta que se efectuará después de los ocho y antes de los quince días de solicitada; y en ella volverá a exhortar a aquéllos con el propio fin que en la anterior.
+Si no se lograre la reconciliación y en el convenio quedaran bien garantizados los derechos de las hijas y de los hijos, el Tribunal, oyendo el parecer del representante social y en su caso opinión de los hijos sobre este punto, dentro de los cinco días siguientes dictará sentencia en que quedará disuelto el vinculo matrimonial y decidirá sobre el convenio presentado.
 
-Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantizados los derechos de las hijas y de los hijos, el Tribunal, oyendo el parecer del representante social y en su caso opinión de los hijos sobre este punto, dictará sentencias en que quedará disuelto el vinculo matrimonial y decidirá sobre el convenio presentado.
+El juez siempre resolverá velando por el interés superior de los hijos.
 
-En ambos casos, el Juez deberá resolver velando por el interés superior de los hijos.
-
-(ADICIONADO, P.O. 24 DE AGOSTO DE 2002) (F. DE E., P.O. 7 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### Artículo 659.
 
-Cuando los consortes convengan en divorciarse en los términos del artículo 284 del Código Civil y sean mayores de edad, no tengan hijos y no hubiere reclamo alguno respecto a bienes o hubieren convenido extrajudicialmente sobre la liquidación de la sociedad conyugal, se procederá como sigue:
+Cuando los consortes convengan en divorciarse en los términos del artículo 284 del Código Civil, sean mayores de edad, no tengan hijos o estos sean mayores de veinticinco años y no se encuentren incapacitados y no hubiere reclamo alguno respecto a bienes o hubieren convenido extrajudicialmente sobre la liquidación de la sociedad conyugal; el tribunal dentro de los cinco días siguientes de recibida la solicitud mandará a ratificarla y en los cinco posteriores dictará sentencia en la que declarará disuelto el vínculo matrimonial.
 
-I. Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta que se efectuará dentro de los ocho y antes de los quince días siguientes a la fecha de la presentación de su solicitud.
+Cuando los cónyuges no se presenten a ratificar la solicitud, el juez a petición de parte y por única ocasión otorgara un nuevo plazo para que se presenten a ratificar.
 
-II. En la junta a que se refiere la fracción que antecede, el juez los exhortará a procurar la reconciliación y si ésta no se lograra, dictará sentencia que declare disuelto el vínculo matrimonial.
+Si los cónyuges no ratifican la solicitud o no se presentaren en la segunda oportunidad, el tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
 ###### Artículo 660.
 
-Los cónyuges no pueden hacerse representar por apoderado o procurador en las juntas a que se refieren los artículos 657 y 658, debiendo comparecer personalmente y, en su caso, acompañados de su representante o tutor especial, y además identificarse con documento indubitable, cuya copia se agregará en autos.
+Los cónyuges no pueden hacerse representar por apoderado o procurador en las juntas a que se refieren los artículos 657, (sic), debiendo comparecer personalmente y, en su caso, acompañados de su representante o tutor especial, y además identificarse con documento indubitable, cuya copia se agregará en autos.
 
-Si los Cónyuges no presentan documento indubitable, se suspenderá la celebración de las juntas de avenencia.
+Si los Cónyuges no presentan documento indubitable, se suspenderá la celebración de la junta de avenencia.
 
 ###### Artículo 661.
 
@@ -4696,6 +4692,10 @@ IV. La liquidación de los daños y perjuicios se hará al ejecutarse la sentenc
 (ADICIONADO, P.O. 20 DE ABRIL DE 2001) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2001)
 
 La contrafianza que deba otorgar el apelante para que no se ejecute la sentencia, en el caso previsto en éste artículo, se fijará de acuerdo a las bases señaladas en las fracciones anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2012)</small>
+
+Tratándose de alimentos no procederá suspender la pensión provisional o definitiva con fianza.
 
 ###### Artículo 682.
 
@@ -6603,6 +6603,10 @@ En los juicios del orden familiar, el recurso de apelación se admitirá en el e
 
 Las resoluciones sobre alimentos que fueren apeladas, se ejecutarán sin fianza.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2012)</small>
+
+Tratándose de alimentos no procederá suspender la pensión provisional o definitiva con fianza.
+
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 ###### Artículo 974.
@@ -6856,3 +6860,9 @@ P.O. 13 DE NOVIEMBRE DE 2010.
 P.O. 7 DE ABRIL DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
