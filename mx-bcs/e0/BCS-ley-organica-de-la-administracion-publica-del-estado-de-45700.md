@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2011-10-04"
+last_updated: "2012-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2012.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -57,7 +57,7 @@ La presente Ley tiene por objeto establecer y regular la organización y funcion
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del estado de Baja California Sur, la presente Ley y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 3.
 
@@ -203,7 +203,7 @@ Los Titulares de las Secretarías del Despacho y Dependencias de la Administraci
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS TITULARES DE LAS SECRETARÍAS Y DEPENDENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
@@ -387,9 +387,9 @@ I. En materia de administración financiera:
 
 a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado;
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
 
-b) Elaborar y presentar al Gobernador del Estado, Previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a este último, haciéndolos previamente compatibles con la disponibilidad de recursos.
+b) Elaborar y presentar al Gobernador del Estado, previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a este último, haciéndolos previamente compatibles con la disponibilidad de recursos.
 
 c) Establecer conjuntamente con la Secretaría de Promoción y Desarrollo Económico y la Contraloría General del Estado, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
 
@@ -407,13 +407,13 @@ i) Ejecutar los pagos de acuerdo a los programas y presupuestos aprobados;
 
 j) Ejercer las acciones conducentes para preservar el patrimonio del Estado;
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
 
 k) Presentar denuncias o querellas ante el Ministerio Público e intervenir en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa, cuando se afecte o se trate de afectar la Hacienda Pública del Estado, en coordinación con la Secretaría de la Consejería Jurídica del Estado.
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
 
-l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria, previo estudio y valoración de la Secretaría de la Consejería Jurídica del Estado.
+l) Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria, en coordinación con la Secretaría de la Consejería Jurídica del Estado.
 
 m) Regular y registrar los actos y contratos de su competencia;
 
@@ -455,11 +455,13 @@ e) Elaborar y mantener actualizado el Padrón Estatal de Contribuyentes y llevar
 
 f) Convenir con los contribuyentes el pago de los créditos fiscales insolutos en parcialidades;
 
-g) (DEROGADO, B.O. 4 DE OCTUBRE DE 2011)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+g) Proporcionar la asesoría que en materia de interpretación y aplicación de las leyes tributarias que sea solicitada por las demás dependencias y entidades del Poder Ejecutivo del Estado y por los Municipios, en coordinación con la Secretaría de la Consejería Jurídica del Estado. Así como resolver las consultas que sobre situaciones reales y concretas presenten los particulares; así como realizar una labor permanente de difusión y orientación fiscal.
 
-h) Ejecutar los convenios de coordinación y colaboración administrativas que en materia impositiva se celebren con la federación, los municipios o con otras entidades federativas y vigilar su cumplimiento, previo estudio y aprobación de la Secretaría de la Consejería Jurídica del Estado.
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+
+h) Ejecutar los convenios de coordinación y colaboración administrativa que en materia impositiva se celebren con la federación, los municipios o con otras entidades federativas y vigilar su cumplimiento.
 
 i) Custodiar los documentos que constituyen valores del Estado;
 
@@ -469,9 +471,9 @@ k) Sugerir los criterios y montos de los estímulos fiscales, estudiar y proyect
 
 l) Cuando proceda conforma a las normas vigentes, condonar multas por infracción a las disposiciones fiscales estatales, así como las multas por infracción a las disposiciones fiscales federales cuando esta facultad haya sido delegada al Estado mediante convenio;
 
-> <small>(REFORMADO, B.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
 
-m) Proponer al Gobernador del Estado, previo estudio y aprobación de la Secretaría de la Consejería Jurídica del Estado, la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la contraloría General del Estado.
+m) Proponer al Gobernador del Estado, previo estudio y validación de la Secretaría de la Consejería Jurídica del Estado, la cancelación de créditos incobrables a favor del Estado, conforme a las leyes fiscales en vigor, informando al Congreso del Estado y a la Contraloría General del Estado.
 
 III. En materia de deuda pública:
 
@@ -498,6 +500,10 @@ a) Normar y administrar los servicios de informática de la Administración Púb
 b) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
 
 V.- Las demás que le señalen las leyes aplicables en la entidad.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2012)</small>
+
+La Procuraduría Fiscal es un órgano desconcentrado de la Secretaría de Finanzas del Gobierno del Estado, y estará facultada dentro de la circunscripción territorial del Estado, para ejercer las atribuciones que derivan de las disposiciones legales locales, así como las acciones que sean necesarias en materia federal para salvaguardar los intereses de la Hacienda Pública del Estado, incluso las relativas al Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos, celebrado entre el Gobierno Federal y el Gobierno del Estado.
 
 ###### ARTÍCULO 23.
 
@@ -835,7 +841,7 @@ u) Colaborar con los servicios de protección civil, en caso de situaciones de r
 
 v) Coordinar, dirigir y supervisar la operación del Centro Estatal de Control de Confianza.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 6 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE JULIO DE 2011)</small>
 
 II. En materia de reinserción Social:
 
@@ -1163,25 +1169,37 @@ V.- Opinar sobre los proyectos de convenios a celebrar por el Ejecutivo del Esta
 
 VI.- Establecer criterios de aplicación de normas que sean competencia del Poder Ejecutivo del Estado en los casos que se requiera; así como definir, unificar, sistematizar y difundir los criterios para la interpretación de las disposiciones jurídicas, que normen el funcionamiento de la Administración Pública Estatal; así como unificar los criterios que deban seguir las dependencias y entidades de la Administración Pública Centralizada y Paraestatal;
 
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
 VII.- Coordinar las acciones en materia jurídica que se implementen en la Administración Pública Estatal, estableciendo los criterios jurídicos que aplicarán las dependencias y entidades;
 
-VIII.- Proponer el nombramiento y remoción de los titulares o funcionarios análogos, responsables de las áreas jurídicas de las Dependencias y en las Entidades de la Administración Pública Paraestatal, los cuales serán designados conforme a la normatividad que las regula, previa evaluación y opinión del Consejero Jurídico del Estado;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
-IX.- Recibir de las áreas jurídicas de las dependencias y entidades, informe sucinto que deberán rendirle sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
+VIII.- Proponer el nombramiento y remoción de los titulares o funcionarios análogos, responsables de las áreas jurídicas de las Dependencias y las Entidades de la Administración Pública Paraestatal, con excepción de la Procuraduría Fiscal, los cuales serán designados conforme a la normatividad que las regula, previa evaluación y opinión del Consejero Jurídico del Estado;
+
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+IX.- Recibir de todas las áreas jurídicas de las dependencias y entidades, informe sucinto cuando así lo requiera el Ejecutivo, que deberán rendir sobre los asuntos que conozcan y de considerarse necesario requerirles la ampliación de los mismos;
 
 X.- Tramitar e integrar los expedientes relativos a la expropiación, ocupación temporal o limitación de dominio, de acuerdo a la Ley de la materia;
 
 XI.- Ser el conducto del Ejecutivo del Estado para prestar apoyo en materia jurídica a los municipios con los que así se acuerde, sin perjuicio de la competencia que corresponda a otras dependencias;
 
-XII.- Representar legalmente al Poder Ejecutivo del Gobierno del Estado y a su Titular, en los procedimientos, controversias, juicios o asuntos litigiosos en los que el Poder Ejecutivo sea parte o tenga interés jurídico de cualquier materia o naturaleza; la representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, la promoción de incidentes, la presentación de recursos, quejas, controversias, o medios de impugnación, y constituye una representación amplísima;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XII.- Representar legalmente al Poder Ejecutivo del Gobierno del Estado y a sus Titulares, en los procedimientos, controversias, juicios o asuntos litigiosos en los que el Poder Ejecutivo sea parte o tenga interés jurídico, la representación a que se refiere esta fracción, comprende el desahogo de todo tipo de pruebas, la promoción de incidentes, la presentación de recursos, quejas, controversias, o medios de impugnación, y constituye una representación amplísima;
 
 XIII.- Revisar y validar cualquier convenio o contrato mediante el cual se adquieran, enajenen, afecten o destinen bienes inmuebles propiedad del Gobierno del Estado;
 
 XIV.- Revisar y validar las licitaciones, asignaciones de obra pública, concesiones, así como las adquisiciones de bienes o servicios que realicen las Dependencias y Entidades de la Administración Pública Estatal;
 
-XV.- Proporcionar la asesoría jurídica que en materia de interpretación y aplicación de las diversas disposiciones legales federales y estatales en materia fiscal, tributaria y financiera le sea solicitada por las demás Dependencias y Entidades del Poder Ejecutivo del Estado, por los Municipios y por los particulares;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
-XVI.- Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública, respecto de los procedimientos contenciosos o litigiosos en los que tenga interés jurídico, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado;
+XV.- Proporcionar la asesoría jurídica que en materia de interpretación y aplicación de las diversas disposiciones legales federales y estatales en materia fiscal, tributaria y financiera le sea solicitada por las demás Dependencias y Entidades del Poder Ejecutivo del Estado, por los Municipios y por los particulares, en coordinación con la Procuraduría Fiscal;
+
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XVI.- Fungir como órgano de consulta obligatoria para los titulares de las Dependencias y Entidades de la Administración Pública, respecto de los procedimientos contenciosos o litigiosos en los que tenga interés jurídico, con excepción de la materia fiscal, pudiendo asumir el patrocinio legal de tales asuntos por orden escrita del Gobernador del Estado.
 
 XVII.- Otorgar mandatos de conformidad al Código Civil del Estado y el Federal, respecto de la representación legal que le confiere la presente ley;
 
@@ -1189,7 +1207,9 @@ XIX (SIC).- Conocer y substanciar los procedimientos relativos a los recursos ad
 
 XX.- Encargarse de las funciones del Ejecutivo del Estado, en materia de la función pública del Notariado de conformidad con las leyes de la materia, incluyendo la organización, vigilancia, autorización y sanción de las actividades de los Notarios y Adscritos; así como organizar, dirigir y supervisar el Archivo General de Notarías;
 
-XXI.- Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Defensoría de Oficio y de la Procuraduría Fiscal;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXI.- Coordinar, supervisar, controlar y vigilar las acciones correspondientes a la organización, desempeño y funcionamiento de la Defensoría de Oficio;
 
 XXII.- Organizar, controlar y conducir en el Estado lo concerniente al Registro Civil, al Registro Público de la Propiedad y de Comercio; así como el Catastro del Estado, sin menoscabo de las atribuciones que los ayuntamientos tienen en la materia;
 
@@ -1493,7 +1513,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 25 DE NOVIEMBRE DE 2006.
 
@@ -1640,3 +1660,17 @@ Artículo Quinto.- Los recursos presupuestales, financieros, materiales y en gen
 Artículo Sexto.- Los convenios, actos jurídicos, asuntos pendientes y en trámite de la Dirección General de Asuntos Jurídicos y Estudios Legislativos, así como de las demás áreas o unidades jurídicas de las Dependencias del Poder Ejecutivo del Gobierno del Estado, que a la entrada en vigor del presente Decreto estén vigentes, quedarán a cargo de la dependencia de la Administración Pública Centralizada denominada Secretaría de la Consejería jurídica del estado.
 
 Artículo Séptimo.- Todos los documentos, normatividad, ordenamientos, reglamentos, leyes y otras disposiciones legales vigentes, en que se haga alusión a la Dirección General de Asuntos Jurídicos y Estudios legislativos se entenderán referidos a la Secretaría de la Consejería Jurídica y al Secretario Consejero Jurídico, respectivamente, del Gobierno del Estado de Baja California Sur, a partir de la entrada en vigor del presente Decreto.
+
+B.O. 10 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, y se derogan todas las disposiciones legales que se opongan al mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal adscrito a la Procuraduría Fiscal que a la entrada en vigor del presente Decreto, que no hayan sido transferidos formal y materialmente a otra Dependencia o Entidad de la Administración Pública, continuarán dependiendo de la Secretaría de Finanzas del Gobierno del Estado, sin necesidad de trámite administrativo alguno.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor de este Decreto, deberá expedir o adecuar la reglamentación interior de las dependencias correspondientes.
