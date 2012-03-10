@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-del-81712"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-10"
-last_updated: "2011-06-10"
+last_updated: "2012-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2012.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 2011.
 
@@ -45,7 +45,9 @@ Para los efectos de este Reglamento, se considera territorio del Estado, la circ
 
 La Secretaría de Finanzas, la subsecretaria, la procuraduría fiscal y las direcciones a que se refieren las fracciones I, II, III, IV, V Y VI de éste artículo estarán facultadas para administrar, comprobar, determinar y cobrar contribuciones estatales y federales, éstas últimas en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, Celebrado entre el Gobierno Federal, por Conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Baja California Sur.
 
-Al frente de la Secretaría de Finanzas estará el Secretario de Finanzas, quien para el desahogo de su competencia se auxiliará de las siguientes unidades administrativas:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
+
+Al frente de la Secretaría de Finanzas estará el Secretario de Finanzas quien para el desahogo de su competencia se auxiliará de las siguientes unidades administrativas:
 
 I. Subsecretaria de Finanzas;
 
@@ -57,11 +59,15 @@ IV. Dirección de Auditoria Fiscal;
 
 V. Dirección de Ingresos;
 
-VI. Dirección de Control de Créditos y Cobranzas Coactivas;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
-VII. Dirección de Política Presupuestal;
+VI. Dirección de Control de Créditos y Cobranza Coactiva;
 
-VIII. Dirección de Egresos;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+VII. Dirección de Política y Control Presupuestario;
+
+VIII. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
 IX. Dirección de Contabilidad;
 
@@ -71,7 +77,9 @@ XI. Dirección de Informática;
 
 XII. Tesorería General; y
 
-XIII. La Unidad de Enlace Administrativo.
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XIII. La Coordinación de Enlace Administrativo.
 
 El Secretario de Finanzas podrá disponer en Manuales de Organización la distribución interna de funciones en niveles jerárquicos inferiores a las de las unidades administrativas anteriores.
 
@@ -127,7 +135,9 @@ XII. Aprobar los programas de trabajo de la Secretaría y su anteproyecto de pre
 
 XIII. Expedir los manuales de organización y procedimientos necesarios para el buen funcionamiento de la Secretaría;
 
-XIV. Autorizar la celebración de convenios con los contribuyentes para cubrir a plazos, ya sea diferidos o en parcialidades, los créditos fiscales derivados de contribuciones estatales y federales administradas - en este último caso - por el Estado, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, previa garantía del interés fiscal, cuando el monto de los mismos rebase la cantidad de cinco mil quinientas veces el salario mínimo general diario vigente en el Estado; y
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XIV. Autorizar la celebración de convenios con los contribuyentes para cubrir a plazos, ya sea diferidos o en parcialidades, los créditos fiscales derivados de contribuciones estatales y federales, administradas en este último caso por el Estado, en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, previa garantía del Interés fiscal, cuando el monto de los mismos rebase la cantidad de quinientas veces el Salario Mínimo General Diario Vigente en el Estado elevado al año;
 
 XV. Las demás que se le confieran como indelegables por las disposiciones legales vigentes y la normatividad sucedánea aplicable, lo mismo que aquellas que le otorgue el Gobernador del Estado.
 
@@ -203,25 +213,25 @@ XXIX. Determinar y establecer los métodos, técnicas, herramientas y parámetro
 
 XXX. Apoyar a las direcciones y unidades administrativas de la Secretaría en la planeación presupuestal de los proyectos estratégicos del propio órgano;
 
-XXXI. Recibir de la Dirección de Política Presupuestal el Presupuesto de Egresos de la Secretaría de Finanzas, e integrar al Presupuesto de Egresos del Estado, enviándolo al Gobernador, para su posterior presentación al Congreso del Estado para su aprobación;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXXI. Recibir de la Dirección de Política y Control Presupuestario el proyecto de Presupuesto de Egresos de la Secretaría de Finanzas a efectos de que, previa aprobación de (sic) Secretario de Finanzas, lo integre al Proyecto de Presupuesto de Egresos del Gobierno del Estado, para su posterior envío al Gobernador del Estado, y éste a su vez al Congreso del Estado para su aprobación;
 
 XXXII. Coordinar los proyectos que le sean encomendados por el titular de la Secretaría de Finanzas, a fin de promover la transformación conforme a los objetivos estratégicos de la Secretaría; y
 
 XXXIII. Las demás que le confieren las disposiciones legales aplicables y el Secretario de Finanzas.
 
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 7.
 
-El Subsecretario de Finanzas para el desahogo de sus funciones se auxiliará de las siguientes unidades y departamentos:
+El Subsecretario de Finanzas para el desahogo de sus funciones se auxiliará de la Coordinación Técnica, a la cual le estarán subordinados jerárquicamente los siguientes departamentos:
 
-I. Unidad de Enlace Administrativo, quien tendrá a su cargo las funciones a que se refieren las fracciones del artículo anterior, y le estarán subordinados jerárquicamente los departamentos de:
+I. Departamento de Modernización e Innovación.
 
-a) Recursos Humanos y Materiales; y
+II. Departamento de Control y Seguimiento.
 
-b) Recursos Financieros.
-
-II. Departamento de Modernización e Innovación y;
-
-III. Departamento de Auditoría y Control Interno.
+III. Departamento Jurídico.
 
 ### CAPITULO IV. DE LOS ORGANOS DESCONCENTRADOS DE LA PROCURADURIA FISCAL
 
@@ -331,19 +341,25 @@ L. Interponer el recurso de revisión ante los Tribunales Federales en contra de
 
 LI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas de acuerdo con sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-La Procuraduría Fiscal estará a cargo de un Procurador, auxiliado en el ejercicio de sus facultades por los siguientes Departamentos, así como del personal que se requiera para satisfacer las necesidades del servicio:
+La Procuraduría Fiscal estará a cargo de un Procurador, quien será suplido en sus ausencias por los Subprocuradores Fiscales de Asuntos Contenciosos y Resoluciones, y el de Consultoría Y Normatividad, en el orden en el que se menciona; y auxiliado en el ejercicio de sus facultades por las siguientes unidades administrativas, así como del personal que se requiera para satisfacer las necesidades del servicio:
 
-I. Departamento contencioso;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
-II. Departamento de Resoluciones;
+I. Subprocuraduría Fiscal de Asuntos Contenciosos y Resoluciones;
 
-III. Departamento de Proyectos Especiales y Fianzas;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+II. Subprocuraduría Fiscal de Consultoría y Normatividad;
+
+III. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
 IV. Unidad Administrativa;
 
-V. Unidad de informática;
+V. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
 VI. Archivo y Oficialía de Partes; y
 
@@ -427,7 +443,9 @@ IV. Ordenar y practicar a los contribuyentes, responsables solidarios y terceros
 
 V. Notificar las órdenes de visita domiciliaria, inspecciones, revisiones y verificaciones a que se refiere la fracción anterior, así como realizar todas las diligencias tendientes a practicarlas;
 
-VI. Ordenar y practicar la inspección y vigilancia permanente, retención, persecución, y embargo precautorio de las mercancías de origen y procedencia extranjera, incluidos los vehículos y sus medios de transporte cuando no se acredite su legal importación, almacenaje, estancia o tenencia, transporte o manejo dentro del territorio nacional;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+VI. Ordenar y practicar la inspección y vigilancia permanente, retención, persecución y embargo precautorio de las mercancías de origen y procedencia extranjera, incluidos los vehículos y sus medios de transporte, en términos del artículo 151 de la Ley Aduanera o del artículo que lo sustituya; notificar el embargo precautorio de las mercancías o vehículos cuando no se acredite su legal importación, almacenaje, estancia o tenencia en el país, transporte o manejo dentro del territorio nacional; iniciar, notificar, tramitar y resolver el procedimiento establecido en el artículo 152 de la Ley Aduanera o del artículo que lo sustituya;
 
 VII. Ordenar y realizar la inspección y vigilancia permanente en la importación, almacenaje, estancia o tenencia, transporte o manejo de las mercancías de origen y procedencia extranjera dentro del territorio nacional;
 
@@ -471,7 +489,9 @@ XXVI. Fincar responsabilidad solidaria, en los casos que proceda, de conformidad
 
 XXVII. Certificar hechos y expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia;
 
-XXVIII. Informar al Secretario de los hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir infracciones administrativas y/o delitos fiscales, federales y estatales, de que conozca con motivo de sus atribuciones; así como colaborar con la Dirección Jurídica en la investigación de esos hechos proporcionándole los datos, informes, elementos y documentos necesarios para que proceda a elaborar la denuncia respectiva;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXVIII. Informar al Secretario de los Hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir infracciones administrativas y/o delitos fiscales, federales o estatales, de que conozca con motivo de sus atribuciones; así como colaborar con la Procuraduría Fiscal en la investigación de esos hechos proporcionándole los datos, informes, elementos y documentos necesarios para que proceda de acuerdo a sus facultades;
 
 XXIX. Vigilar la legal importación, estancia o tenencia, transporte o manejo de vehículos de origen y procedencia extranjera que circulen en el Estado, así como la importación de embarcaciones;
 
@@ -499,9 +519,11 @@ XL. Colaborar y coordinarse con otras autoridades del Estado y de sus municipios
 
 XLI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 13.
 
-Al frente de la Dirección de Fiscalización Aduanera estará un Director, quien será auxiliado en sus funciones por el personal que el servicio requiera y contará con los Departamentos de:
+Al frente de la Dirección de Fiscalización Aduanera estará un Director, quien será auxiliado en sus funciones por las siguientes unidades administrativas:
 
 I. Auditorías y Verificaciones en Comercio Exterior;
 
@@ -510,6 +532,14 @@ II. Resoluciones;
 III. Informática; y
 
 IV. Unidad Administrativa.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2012)</small>
+
+La Dirección de Fiscalización Aduanera contará también con asesores jurídicos, visitadores, auditores, verificadores, notificadores y, con el demás personal que requiera para cubrir las necesidades del servicio.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2012)</small>
+
+Los visitadores, auditores y verificadores tienen competencia para ejercer las facultades señaladas en las fracciones III, IV, V, VI, VII, IX, X, XI, XII, XIV, XVI, XIX, XXIX, XXXI y XXXVI del artículo 12 de este Reglamento.
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN DE AUDITORÍA FISCAL
 
@@ -711,9 +741,13 @@ XXXI. Designar al personal necesario para el ejercicio de las facultades de veri
 
 XXXII. Informar y difundir por los medios de comunicación masivos, las disposiciones fiscales federales y estatales destinadas a los contribuyentes que permitan orientar y mejorar el cumplimiento de sus obligaciones;
 
-XXXIII. Elaborar los proyectos de acuerdo mediante los cuales se determine el nombre, sede y circunscripción territorial de las Recaudaciones y Subrecaudaciones; y
+XXXIII. Elaborar los proyectos de acuerdo mediante los cuales se determine el nombre, sede y circunscripción territorial de las Recaudaciones y Subrecaudaciones; y (sic)
 
-XXXIV. Las demás que le confieran las disposiciones legales aplicables y/o el Secretario de Finanzas dentro de la esfera de sus respectivas competencias.
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXXIV. Tramitar y en su caso autorizar las solicitudes de pago diferido o en parcialidades de los créditos fiscales, mediante la garantía de su importe y accesorios legales, que hayan sido determinados por los propios contribuyentes; y
+
+XXXV. Las demás que le confieran las disposiciones legales aplicables y/o el Secretario de Finanzas dentro de la esfera de sus respectivas competencias.
 
 ###### ARTÍCULO 17.
 
@@ -781,9 +815,11 @@ Las Subrecaudaciones ejercerán las atribuciones contenidas en el artículo ante
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE CONTROL DE CRÉDITOS Y COBRANZAS COACTIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 21.
 
-La Dirección de Control de Créditos y Cobranza Coactiva estará facultada, dentro de la circunscripción territorial del Estado, para ejercer las siguientes atribuciones que derivan de las disposiciones legales locales y para el ejercicio de las facultades que le sean delegadas al Gobierno del Estado de Baja California Sur y a la Secretaría, por la federación en los Convenios de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos:
+La Dirección de Control de Créditos y Cobranza Coactiva estará facultada, dentro de la circunscripción territorial del Estado, para ejercer las siguientes atribuciones que derivan de las disposiciones legales locales y para el ejercicio de las facultades que le sean delegadas al Gobierno del Estado de Baja California Sur y a la Secretaría, por la Federación en los Convenios de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos:
 
 I. Ejercer el Procedimiento Administrativo de Ejecución, para el cobro de créditos fiscales federales, que hayan determinado la Dirección de Fiscalización Aduanera, la Dirección de Auditoría Fiscal, y la Dirección de Ingresos en los términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, Celebrado entre el Gobierno Federal, por Conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Baja California Sur; así como de los estatales que hayan determinado la Dirección de Auditarla Fiscal, y la Dirección de Ingresos;
 
@@ -831,15 +867,19 @@ XXII. Poner a disposición de los particulares los bienes embargados, cuando se 
 
 XXIII. Declarar que las mercancías han pasado a propiedad del fisco del Estado por abandono, cuando hayan sido notificados los contribuyentes interesados, de la autorización para que retiren del almacén fiscal las mercancías afectas al Procedimiento Administrativo de Ejecución, y éstos no procedan a retirarlas dentro del plazo que al efecto se conceda;
 
-XXIV. Vigilar la debida garantía del interés fiscal en los asuntos en que tenga competencia, así como requerir de la misma o de su ampliación cuando ésta desaparezca o deje de ser suficiente;
+XXIV. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
 XXV. Habilitar los días y horas inhábiles para la práctica del ejercicio de sus facultades;
 
 XXVI. En caso de rebeldía del rematado o ejecutado, suscribir las escrituras del inmueble o expedir el comprobante de la venta del bien rematado;
 
-XXVII. Tramitar y resolver las solicitudes sobre la dispensa del otorgamiento de garantía del interés fiscal de los créditos fiscales, previa consulta con la Procuraduría Fiscal, emitiendo el oficio de respuesta al contribuyente;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
-XXVIII. Recibir, tramitar y en su caso, autorizar convenios a los contribuyentes para cubrir a plazos, ya sea diferido o en parcialidades, previa garantía del interés fiscal, los créditos fiscales que les haya fincado la Dirección de Fiscalización Aduanera, la Dirección de Auditoría Fiscal, y la Dirección de Ingresos, en uso de sus facultades; así como cuando lo solicite el contribuyentes (sic) con motivo de su autodeterminación o autocorrección fiscal;
+XXVII. Tramitar y resolver las solicitudes sobre la dispensa del otorgamiento de garantía del interés fiscal de los créditos fiscales, respecto de los contribuyentes de su competencia;
+
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXVIII. Tramitar y en su caso autorizar las solicitudes de pago diferido o en parcialidades de los créditos fiscales, mediante la garantía de su importe y accesorios legales, que hayan sido determinados por la autoridad fiscal, inclusive aquellos determinados en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Baja California Sur, así como determinar y liquidar a los contribuyentes, responsables solidarios y demás obligados, las diferencias que hubiere por haber realizado los pagos a plazos, diferidos o en parcialidades, sin tener derecho a ello;
 
 XXIX. Reestructurar los convenios de pago que haya autorizado en los términos de las leyes fiscales federales y locales;
 
@@ -851,13 +891,19 @@ XXXII. Suspender el Procedimiento Administrativo de Ejecución, previa garantía
 
 XXXIII. Contestar las solicitudes de informes y documentación que le realice el Secretario, el Subsecretario, la Procuraduría Fiscal, las Direcciones de: Fiscalización Aduanera, Auditoria Fiscal, e Ingresos dentro del plazo que para tal efecto éstas le indiquen;
 
-XXXIV. Notificar los actos y resoluciones que emita; y
+XXXIV. Notificar los actos y resoluciones que emita; y (sic)
 
-XXXV. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXXV. Tramitar, aceptar, rechazas (sic) o cancelar, según proceda, las garantías para asegurar el interés fiscal así como sus ampliaciones, disminuciones o sustituciones; ampliar el embargo en bienes del contribuyente o responsable solidario cuando estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente y fijar los honorarios del depositario interventor de negociaciones o del administrador de bienes raíces; y
+
+XXXVI. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 22.
 
-La Dirección de Control de Créditos y Cobranzas Coactivas estará a cargo de un Director, quien será auxiliado en sus funciones por las siguientes unidades administrativas:
+La Dirección de Control de Créditos y Cobranza Coactiva estará a cargo de un Director, quien será auxiliado en sus funciones por las siguientes Unidades Administrativas:
 
 I. Departamento de Control de Créditos;
 
@@ -865,11 +911,15 @@ II. Departamento de Cobranza Coactiva; y
 
 III. Jefe de Almacén.
 
-### CAPÍTULO X. DE LA DIRECCIÓN DE POLÍTICA PRESUPUESTAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE MARZO DE 2012)</small>
+
+### CAPÍTULO X. DE LA DIRECCIÓN DE POLÍTICA Y CONTROL PRESUPUESTARIO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
-La Dirección de Política Presupuestal tendrá las siguientes facultades:
+La Dirección de Política y Control Presupuestario tendrá las siguientes facultades:
 
 I. Participar en la definición de la política de gasto público del Gobierno del Estado y sus organismos descentralizados;
 
@@ -901,75 +951,97 @@ XIV. Llevar a cabo cuando se considere necesario la revisión de la documentaci�
 
 XV. Dar seguimiento a la aplicación de los recursos por concepto de aportaciones, subsidios y transferencias de fondos realizados por el Ejecutivo del Estado con cargo a su propio presupuesto, a favor de los municipios o instituciones de los sectores social y privado, a fin de que se apliquen en los términos establecidos en los programas aprobados al efecto;
 
-XVI. Autorizar, previo acuerdo superior, los montos de los fondos revolventes, así como sus respectivos incrementos que por necesidades del servicio requieran las diversas dependencias de la Administración Pública Estatal;
+> <small>(REFORMADA, B.O. 10 DE MARZO DE 2012)</small>
 
-XVII. Registrar, coordinar e instrumentar, en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis y seguimiento del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público estatal; y
+XVI. Tramitar y autorizar, previo acuerdo superior, los montos de los fondos revolventes, así como sus respectivos incrementos que por necesidades del servicio requieran las diversas dependencias de la Administración Pública Estatal;
 
-XVIII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+XVII. Registrar, coordinar e instrumentar, en los términos de las disposiciones aplicables, los ajustes correspondientes al gasto público durante su ejercicio, con base en el análisis y seguimiento del mismo y como instrumento de control en el cumplimiento de las políticas de gasto público estatal; y (sic)
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XVIII. Ejercer el control y seguimiento del gasto público estatal;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XIX. Participar en la actualización de las disposiciones normativas, lineamientos y procedimientos que regulen el ejercicio del gasto público;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XX. Clasificar y analizar la información sobre el ejercicio del gasto público para apoyar investigaciones y análisis que en ésta materia requiera la Secretaría de Finanzas;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXI. Tramitar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, con todos sus requisitos normativos cumplimentados y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el gasto público estatal;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXII. Proporcionar a las dependencias y entidades del Gobierno del Estado, asesoría y asistencia técnica en materia de presupuesto, egresos y gasto público;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXIII. Efectuar la programación de los egresos del Gobierno del Estado, tanto de gasto corriente como de inversión;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXIV. Emitir los reportes analíticos por concepto de ejercicio del gasto público;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXV. Autorizar el pago de las cuentas por liquidar certificadas y los recibos de pago cuyo importe no exceda de una cantidad equivalente a cuatro mil Salarios Mínimos Diarios Vigentes en el Estado de Baja California Sur;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXVI. Analizar y evaluar el seguimiento de la aplicación del gasto público, poniendo a las diversas dependencias del Estado, acciones que mejoren el ejercicio y control de los recursos públicos;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXVII. Validar la aplicación del gasto público estatal en el sistema financiero;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXVIII. Atender los asuntos de carácter administrativo de las dependencias del Gobierno del Estado, Poderes y organismos descentralizados, en materia de egresos;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXIX. Coordinarse con las dependencias de la Administración Pública del Estado centralizada y descentralizada, así como con las otras direcciones e Instituciones de la Secretaría de Finanzas para el mejor desempeño de sus funciones;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXX. Participar en la aplicación y seguimiento de las incidencias de los servicios personales del Gobierno del Estado, en coordinación con la Oficialía Mayor del Gobierno del Estado, a través de la Dirección de Recursos Humanos;
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+XXXI. Colaborar con la Dirección de Contabilidad a fin de solventar las observaciones que realice el Congreso del Estado; y
+
+XXXII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 24.
 
-La Dirección de Política Presupuestal estará a cargo de un Director, quien para el desarrollo de sus funciones se auxiliará de las siguientes unidades administrativas:
+La Dirección de la Política y Control Presupuestario estará a cargo de un Director, quien para el desarrollo de sus funciones se auxiliará de las siguientes unidades administrativas:
 
 I. Coordinación de Política Presupuestal;
 
 II. Departamento de Información y Análisis Presupuestal;
 
-III. Departamento de Coordinación con Dependencias y Programas Federales; y
+III. Departamento de Coordinación con Dependencias y Programas Federales; y (sic)
 
 IV. Departamento de Control Presupuestal.
+
+> <small>(ADICIONADA, B.O. 10 DE MARZO DE 2012)</small>
+
+V. Coordinación de Egresos.
 
 ### CAPÍTULO XI. DE LA DIRECCIÓN DE EGRESOS
 
 ###### ARTÍCULO 25.
 
-La Dirección de Egresos tendrá las siguientes facultades:
-
-I. Participar en la definición de la política de gasto público del Gobierno del Estado y sus organismos descentralizados;
-
-II. Ejercer el control y seguimiento del gasto público estatal;
-
-III. Participar en la modernización y actualización en forma permanente de las disposiciones normativas, lineamientos y procedimientos que regulan el ejercicio del gasto público;
-
-IV. Clasificar y analizar la información sobre el ejercicio del gasto público para apoyar investigaciones y análisis que en esta materia requiera la Secretaría de Finanzas;
-
-V. Tramitar el pago de la documentación que presenten proveedores y prestadores de servicios, vigilando que toda erogación esté debidamente comprobada, con todos sus requisitos normativos cumplimentados y que exista asignación presupuestal suficiente dentro del Presupuesto de Egresos, de conformidad con el esquema de corresponsabilidad en el Gasto Público Estatal;
-
-VI. Tramitar la reposición de fondos revolventes, así como sus incrementos de acuerdo a la normatividad vigente, de las dependencias de la Administración Pública Estatal;
-
-VII. Proporcionar a las dependencias y entidades del Gobierno del Estado, asesoría y asistencia técnica en materia de egresos y gasto público;
-
-VIII. Efectuar la programación de los egresos del Gobierno del Estado, tanto de gasto corriente como de inversión;
-
-IX. Emitir los reportes analíticos por concepto del ejercicio del gasto público;
-
-X. Autorizar el pago de las cuentas por liquidar certificadas y los recibos de pago cuyo importe no exceda de una cantidad equivalente a 4,000 salarios mínimos diarios vigentes en el Estado de Baja California Sur;
-
-XI. Analizar y evaluar el seguimiento de la aplicación del gasto público, proponiendo a las diversas dependencias del Estado, acciones que mejoren el ejercicio y control de los recursos públicos;
-
-XII. Validar la aplicación del Gasto Público Estatal en el sistema financiero;
-
-XIII. Atender los asuntos de carácter administrativo de las dependencias del Gobierno del Estado y organismos descentralizados, en materia de egresos;
-
-XIV. Coordinarse con las dependencias de la Administración Pública del Estado centralizada y descentralizada, así como con las otras direcciones e instituciones de la Secretaría de Finanzas para el mejor desempeño de sus funciones;
-
-XV. Participar en la aplicación y seguimiento de las incidencias de los servicios personales del Gobierno del Estado, en coordinación con la Oficialía Mayor del Gobierno del Estado, a través de la Dirección de Recursos Humanos;
-
-XVI. Colaborar con la Dirección de Contabilidad a fin de solventar las observaciones que realice el H. Congreso del Estado; y
-
-XVII. Las demás que le confieran las disposiciones legales aplicables, así como las que le asigne el Secretario de Finanzas dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 10 DE MARZO DE 2012)
 
 ###### ARTÍCULO 26.
 
-La Dirección de Egresos estará a cargo de un Director, quien contará para el cumplimiento de sus funciones con un Coordinador de Egresos y con las siguientes jefaturas:
-
-I. Departamento de Análisis y Seguimiento de Información;
-
-II. Departamento de Egresos;
-
-III. Departamento de Convenios, Servicios y Captura; y
-
-IV. Departamento de Recursos Descentralizados Federales.
+(DEROGADO, B.O. 10 DE MARZO DE 2012)
 
 ### CAPÍTULO XII. DE LA DIRECCIÓN DE CONTABILIDAD
 
@@ -1151,11 +1223,15 @@ VIII. Las demás que le confieren las disposiciones legales aplicables y el Secr
 
 La Tesorería General estará a cargo del Tesorero General, quien para el eficaz desempeño de sus funciones se auxiliará con un Departamento de Caja General.
 
-### CAPÍTULO XVI. DE LA UNIDAD DE ENLACE ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE MARZO DE 2012)</small>
+
+### CAPÍTULO XVI. DE LA COORDINACIÓN DE ENLACE ADMINISTRATIVO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 35.
 
-A la Unidad de Enlace Administrativo le corresponde el ejercicio de las siguientes atribuciones:
+A la Coordinación de Enlace Administrativo le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Apoyar, eficientemente y oportunamente, en las actividades administrativas del Secretario de Finanzas y del Subsecretario;
 
@@ -1177,17 +1253,19 @@ IX. Brindar, en coordinación con las direcciones y unidades de la Secretaría, 
 
 X. Integrar el Presupuesto de Egresos de la unidad a su cargo y enviarlo a la Dirección de Política Presupuestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 36.
 
-La Unidad de Enlace Administrativo para el desahogo de sus funciones se auxiliara de los siguientes departamentos:
+La Coordinación de Enlace Administrativo para el desahogo de sus funciones se auxiliará de los siguientes departamentos:
 
 I. Departamento de Recursos Humanos y materiales;
 
 II. Recursos Financieros;
 
-III. Departamento de Modernización e Innovación y;
+III. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
-IV. Departamento de Auditoría y Control Interno.
+IV. (DEROGADA, B.O. 10 DE MARZO DE 2012)
 
 ### CAPÍTULO XVII. DE LOS ÓRGANOS DESCENTRALIZADOS
 
@@ -1280,3 +1358,31 @@ CARLOS MENDOZA DAVIS.
 EL SECRETARIO DE FINANZAS
 
 JOSÉ ANTONIO RAMÍREZ GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Las referencias que se hagan y las atribuciones que otorgaran en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur, que cambian de denominación o se crean por virtud del Reglamento Interior de la Secretaría de Finanzas, publicado en el Boletín Oficial del Estado el 10 de junio de 2011, así como del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El personal, expedientes el (sic) trámite, archivo, mobiliario y, en general equipo a cargo de la Dirección de Egresos, pasarán a formar parte de la Dirección de Política y Control Presupuestario.
+
+###### ARTÍCULO CUARTO.
+
+Las referencias que se hagan y las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a la Dirección de Egresos de la Secretaría de Finanzas, se entenderán hechas o conferidas a la Dirección de Política y Control Presupuestario.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expidan los acuerdos y demás disposiciones administrativas que deriven del Reglamento que se reforma, modifica o adiciona mediante este Decreto continuarán siendo aplicables, en lo conducente, los acuerdos expedidos con anterioridad a la entrada en vigor del presente Decreto, en lo que no se oponga al mismo.
+
+###### ARTÍCULO SEXTO.
+
+Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia de la reforma, modificación, derogación o adición al Reglamento que se lleva a cabo mediante este Decreto, inclusive respecto del Decreto mediante el cual se expide el Reglamento Interior de la Secretaría de Finanzas, publicado en el Boletín Oficial del Estado el 10 de junio de 2011, deba ser ejercida por otra u otras unidades administrativas que en el mismo se establecen, corresponderá a la unidad administrativa competente terminar la sustanciación de los asuntos que se encuentren en trámite a la fecha señalada en el Artículo Primero Transitorio de este Decreto y, en su caso, dictar la resolución que corresponda, aplicando en lo conducente las disposiciones establecidas en el Reglamento Interior de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur, publicado en el Boletín Oficial del Estado el 10 de febrero de 2001, así como el publicado en el mismo informativo el 05 de marzo de 2010.
