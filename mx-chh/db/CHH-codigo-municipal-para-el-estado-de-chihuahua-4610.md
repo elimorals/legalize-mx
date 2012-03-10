@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-01-18"
+last_updated: "2012-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1315,7 +1315,9 @@ IX.- Dirección de Fomento Económico Municipal.
 
 X. Dirección o Departamento de Ecología.
 
-Cuando las posibilidades económicas de un Municipio no lo permitan, o sus necesidades no requieran el funcionamiento de todas las dependencias señaladas en este artículo, por acuerdo del Ayuntamiento podrán encomendarse dos o más ramos de la administración municipal a cada titular, sin que por ello, tengan derecho a percibir otro sueldo que el asignado en el presupuesto, por el ejercicio de la función pública en uno sólo de los ramos encomendados. Asimismo, los Ayuntamientos podrán crear las dependencias que sean necesarias, de acuerdo a las necesidades de cada Municipio.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+
+Cuando las posibilidades económicas de un municipio no lo permitan, o sus necesidades no requieran el funcionamiento de todas las dependencias señaladas en este artículo, por acuerdo del Ayuntamiento podrán encomendarse dos o más ramos de la administración municipal a cada titular, sin que por ello tengan derecho a percibir otro sueldo que el asignado en el presupuesto, por el ejercicio de la función pública en uno solo de los ramos encomendados; asimismo, los Ayuntamientos podrán crear las dependencias que sean necesarias. Los municipios que cuenten sustancialmente con población indígena, procurarán establecer una Dirección que se encargue de la atención específica de sus asuntos.
 
 Las funciones para el despacho de los asuntos de competencia municipal, se regirán por lo dispuesto en éste Código y el Reglamento Interior de cada Municipio.
 
@@ -3277,7 +3279,7 @@ La suspensión, podrá ser solicitada en cualquier tiempo ante la autoridad ejec
 
 La tramitación de los recursos administrativos, en contra de actos de las autoridades municipales, se sujeta al procedimiento siguiente:
 
-I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieran desahogado por causas no imputables a él y las supervenientes;
+I.- Se interpondrá por sí o por representante legalmente investido ante el Secretario Municipal, por escrito expresando: El nombre del recurrente; domicilio para ser notificado en la cabecera del Municipio; señalamiento del acto impugnado; los agravios que el mismo le causa y el ofrecimiento de las pruebas que pretenda rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido el interesado tuvo oportunidad razonable de rendir pruebas, sólo serán admisibles las que hubiere ofrecido y no se hubieren desahogado por causas no imputables a él y las supervenientes;
 
 II.- El escrito deberá presentarse dentro de los quince días siguientes, al en que surta efectos la notificación del acto que se impugna. No será admisible la interposición de recursos por medio del correo;
 
@@ -4242,3 +4244,9 @@ P.O. 18 DE ENERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de la (sic) Estado.
