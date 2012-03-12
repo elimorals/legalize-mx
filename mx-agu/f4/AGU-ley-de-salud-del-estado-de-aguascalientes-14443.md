@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2012-03-05"
+last_updated: "2012-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -239,7 +239,7 @@ XII.- Promover, apoyar y llevar la capacitación en la materia a los profesional
 
 XIII.- Promover el establecimiento de un sistema estatal de información básica en materia de salud;
 
-XlV.- Integrar la información estadística que genera el Sistema Estatal de Salud que facilite a las autoridades e instituciones competentes la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
+XIV.- Integrar la información estadística que genera el Sistema Estatal de Salud que facilite a las autoridades e instituciones competentes la investigación, estudio y análisis de ramas y aspectos específicos en materia de salud;
 
 XV.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos los resultados de los trabajos de investigación, estudios, análisis y recopilación de información, documentación e intercambio que realiza;
 
@@ -331,71 +331,71 @@ VI.- Invitar especialistas en materia de salud a sus sesiones; y
 
 VII.- Las demás que establezcan la presente Ley, el Reglamento Interior de la Secretaría y demás disposiciones legales aplicables.
 
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. DEL ORGANISMO ENCARGADO DE OPERAR LOS SERVICIOS DE SALUD
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 15.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 16.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 17.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 18.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 19.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 20.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 21.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 22.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 23.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 24.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 25.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 26.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ###### ARTICULO 27.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DEL DECRETO NUMERO 19 QUE APRUEBA LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 19 QUE APRUEBA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, P.O. 28 DE DICIEMBRE DE 2010)
 
 ## TITULO CUARTO. DISTRIBUCION DE COMPETENCIAS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 28.
 
@@ -431,7 +431,7 @@ IV.- Organizar, operar, supervisar y evaluar la prestación de los servicios de 
 
 a).- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -451,13 +451,13 @@ h).- La información relativa a las condiciones, recursos y servicios de salud;
 
 i).- La educación para la salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
 j).- La orientación y vigilancia en materia de nutrición, dando mayor importancia a los programas de nutrición destinados a los niños y niñas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -477,7 +477,7 @@ q).- El programa contra el alcoholismo;
 
 r).- El programa contra el tabaquismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2008)</small>
 
@@ -487,13 +487,13 @@ s).- Ejercer la verificación y el control sanitario de los establecimientos que
 
 En el caso de establecimientos que expidan alimentos y bebidas en las escuelas de educación básica, además verificará que sean de los autorizados en los programas de nutrición;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
 
 t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
 
@@ -565,9 +565,23 @@ IV.- Cumplir con la normatividad correspondiente a fin de obtener la certificaci
 
 V.- Expedir reglamentos, circulares y disposiciones administrativas relacionados con los servicios de salud que estén a su cargo;
 
-VI.- Formular y desarrollar programas municipales de salud en el marco del Sistema Nacional y Estatal de Salud, siendo exigible la participación de los Consejos Municipales de Salud en ello; y
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2012)</small>
 
-VII.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
+VI.- Formular y desarrollar programas municipales de salud en el marco del Sistema Nacional y Estatal de Salud, siendo exigible la participación de los Consejos Municipales de Salud en ello;
+
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2012)</small>
+
+VII.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
+
+VIII.- Brindar atención primaria de salud participando en la creación y puesta en marcha de políticas públicas en la materia, las cuales se fundamentarán en los valores de equidad y solidaridad para lograr el derecho al mayor nivel de salud posible consagrado en el Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos. Tal atención primaria consistirá en:
+
+a) Generar la información necesaria para identificar y priorizar necesidades de salud así como valorar sus determinantes sociales;
+
+b) Promover la participación activa de los grupos sociales en la toma de decisiones desde la planeación y gestión hasta la evaluación del desarrollo de competencias de prevención de la salud; y
+
+c) Identificar en la sociedad las instituciones públicas, privadas y organizaciones civiles que tengan la capacidad de modificar los determinantes sociales con el fin de satisfacer necesidades en salud.
 
 ###### ARTICULO 31.
 
@@ -639,7 +653,7 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica integral, que comprende actividades preventivas, curativas, de rehabilitación y paliativas, incluyendo la atención de urgencias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -797,7 +811,7 @@ b).- Copia de la constancia de haber tomado como mínimo un curso por año de ac
 
 Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, informarán al Instituto de Salud acerca de las altas y bajas de sus integrantes, así como de los datos generales de cada asociado, de la misma forma podrán gestionar los registros y refrendos de sus integrantes ante el Instituto sin cobro alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
 
@@ -947,13 +961,13 @@ En materia de higiene escolar, corresponde al Gobierno del Estado, aplicar las n
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales, municipales y educativas competentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO V BIS. Atención Geriátrica
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -963,7 +977,7 @@ La atención geriátrica comprende el conjunto de niveles de atención médica, 
 
 Tiene como objetivo garantizar la calidad de vida, buscando en todo momento preservar la salud física, sanitaria, psicológica y social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -991,7 +1005,7 @@ IX. Suministro de cuidados paliativos; y
 
 X. Las demás que confiera la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -1007,7 +1021,7 @@ III. Las actividades recreativas de esparcimiento y culturales destinadas a fort
 
 IV. Las demás que coadyuven a la salud y bienestar del adulto mayor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -1111,7 +1125,7 @@ III. Formular recomendaciones a las autoridades de los municipios a fin de capac
 
 IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas.
 
-> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO II. De los Beneficiarios
 
@@ -1119,7 +1133,7 @@ IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar i
 
 ## TITULO QUINTO BIS. REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
@@ -1185,7 +1199,7 @@ VIII.- Proporcionar a la Secretaría de Salud la información relativa al ejerci
 
 IX.- Promover la participación de los municipios mediante la suscripción de convenios, de conformidad con la legislación aplicable.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
@@ -1497,9 +1511,9 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO III. Nutrición
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2010)</small>
 
 ## TITULO DECIMO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
@@ -1523,7 +1537,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO DECIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
 ### CAPITULO V. Salud Ocupacional
 
@@ -1571,7 +1585,7 @@ Las autoridades sanitarias estatales y municipales en coordinación con las auto
 
 El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los comités o subcomités municipales y los sectores social y privado, a través del Consejo Estatal de Nutrición que se integrará en los términos previstos en el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2008)</small>
 
@@ -1587,7 +1601,7 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley, tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2009)</small>
 
@@ -1817,7 +1831,7 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la Prevención de Accidentes, del que formarán parte representantes de los sectores público, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2009)</small>
 
 ## TITULO DECIMO SEGUNDO. PROGRAMA CONTRA LAS ADICCIONES
 
@@ -2913,7 +2927,7 @@ V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa equivalente hasta mil veces el salario mínimo general diario vigente en el Estado de Aguascalientes, la violación de las disposiciones contenidas en los Artículos 44 Bis, 49, 61, 62, 85, 87, 92, 104, 106, 127, 129, 137, 167, 168, 174, 176, 186, 192, 194, 210, 218, 221, 224, 233; 247, 248 y 250 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2010)</small>
 
@@ -3329,7 +3343,7 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 
 P.O. 5 DE MARZO DE 2012.
 
-DECRETO NÚMERO 178, POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN III, INCISO A) DEL ARTICULO 28; Y SE ADICIONA EL CAPITULO III DENOMINADO " PROGRAMA CONTRA LA FARMACODEPENDENCIA Y CONSUMO DE ESTUPEFACIENTES Y PSICOTRÓPICOS" CON LOS ARTÍCULOS 161 A Y 161 B, AL TITULO DECIMO SEGUNDO DENOMINADO " PROGRAMA CONTRA LAS ADICCIONES", A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES.
+DECRETO NÚMERO 178, POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN III, INCISO A) DEL ARTÍCULO 28; Y SE ADICIONA EL CAPÍTULO III DENOMINADO " PROGRAMA CONTRA LA FARMACODEPENDENCIA Y CONSUMO DE ESTUPEFACIENTES Y PSICOTRÓPICOS" CON LOS ARTÍCULOS 161 A Y 161 B, AL TÍTULO DÉCIMO SEGUNDO DENOMINADO " PROGRAMA CONTRA LAS ADICCIONES", A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3342,6 +3356,12 @@ DECRETO NÚMERO 181, POR EL QUE SE REFORMAN LAS FRACCIONES II, III Y SE ADICIONA
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL NOVENO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL UNITARIO DEL DECIMOCTAVO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES Y RESIDENCIA. AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL UNITARIO DEL MISMO CIRCUITO Y RESIDENCIA. ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL DECIMOCTAVO CIRCUITO EN CUERNAVACA, MORELOS".]
 
