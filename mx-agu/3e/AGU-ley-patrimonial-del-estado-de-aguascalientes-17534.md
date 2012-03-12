@@ -4,7 +4,7 @@ identifier: "AGU-ley-patrimonial-del-estado-de-aguascalientes-17534"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-25"
-last_updated: "2011-10-31"
+last_updated: "2012-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de septiembre de 2000.
 
@@ -216,6 +214,10 @@ Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno
 ###### ARTICULO 14.
 
 Los bienes inmuebles de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común, con el requisito para su validez, de que cuando se trate de actos de dominio, éstos sean autorizados por el Congreso del Estado y se haga la publicación de las condiciones de la enajenación en el Periódico Oficial del Estado y en uno de circulación Estatal.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2012)</small>
+
+Se exceptúan de la referida autorización y publicación los actos de dominio que ejecuten los fideicomisos públicos paraestatales cuya naturaleza, objeto o finalidad incida directamente en el desarrollo económico, comercial, industrial, científico y tecnológico del Estado de Aguascalientes, de los cuales se informará al Congreso del Estado.
 
 ###### ARTICULO 15.
 
@@ -1480,3 +1482,13 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTICULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 12 DE MARZO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Como fideicomitente, el Poder Ejecutivo del Estado y las entidades paraestatales no podrán constituir o aportar a los fideicomisos públicos paraestatales bienes de dominio público; en caso de requerirse estos deberán ser previamente desincorporados en términos de Ley.
