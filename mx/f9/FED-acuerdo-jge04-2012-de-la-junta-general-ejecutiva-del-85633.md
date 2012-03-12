@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge04-2012-de-la-junta-general-ejecutiva-del-85633"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-02"
-last_updated: "2012-02-02"
+last_updated: "2012-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85633&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-17"
 
 ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL MODELO DE DISTRIBUCIÓN Y LA PAUTA PARA LA TRANSMISIÓN EN RADIO Y TELEVISIÓN DE LOS MENSAJES DE CAMPAÑAS INSTITUCIONALES DEL INSTITUTO FEDERAL ELECTORAL, ASÍ COMO DE OTRAS AUTORIDADES ELECTORALES EN EL ESTADO DE TABASCO, PARA EL PROCESO FEDERAL ELECTORAL 2011-2012, Y LA PRECAMPAÑA EN EL PROCESO ELECTORAL LOCAL CON JORNADA COMICIAL COINCIDENTE CON LA FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 2 de febrero de 2012.
 
@@ -269,15 +269,25 @@ ACUERDO
 
 PRIMERO. En los términos previstos en los considerandos que anteceden, se aprueba el modelo de pauta para la transmisión en radio y televisión de los mensajes de las campañas institucionales de las autoridades electorales, en el estado de Tabasco, para el Proceso Electoral Federal 2011-2012, así como del periodo de precampaña en el Proceso Electoral Local con Jornada Comicial Coincidente con la federal.
 
-SEGUNDO. El Secretario Ejecutivo del Instituto, con el auxilio de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, distribuirá los tiempos de (sic) Estado convertidos a mensajes dentro de los espacios de las pautas autorizadas respectivas, de conformidad con la asignación de tiempos a las autoridades electorales aprobada por el Consejo General.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO JGE27/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 12 DE MARZO DE 2012)</small>
+
+SEGUNDO. El Secretario Ejecutivo del Instituto, con el auxilio de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, distribuirá los tiempos del Estado convertidos a mensajes dentro de los espacios de las pautas autorizadas respectivas, de conformidad con la asignación de tiempos a las autoridades electorales aprobada por el Consejo General.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO JGE27/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 12 DE MARZO DE 2012)</small>
 
 TERCERO. Se instruye a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos para que integre el modelo de distribución que apruebe el Comité de Radio y Televisión del Instituto Federal Electoral, y el modelo de pauta aprobado mediante el presente Acuerdo y remita las pautas, con los materiales correspondientes, a los concesionarios de radio y televisión precisados en las pautas aprobadas.
 
-CUARTO. Se aprueban los calendarios para la entrega de materiales y órdenes de transmisión, a que se refiere el considerando 29 del presente Acuerdo.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO JGE27/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 12 DE MARZO DE 2012)</small>
 
-QUINTO. Se instruye al Secretario de la Junta General Ejecutiva para que, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos notifique el presente Acuerdo al Instituto Electoral y de Participación Ciudadana de Tabasco.
+CUARTO. Se aprueban los calendarios para la entrega de materiales y órdenes de transmisión, a que se refiere el Considerando 33 del presente Acuerdo.
 
-SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación (sin anexos).
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO JGE27/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 12 DE MARZO DE 2012)</small>
+
+QUINTO. Se instruye al Secretario de la Junta General Ejecutiva para que, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, notifique el presente Acuerdo al Instituto Electoral y de Participación Ciudadana de Tabasco.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO JGE27/2012 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, D.O.F. 12 DE MARZO DE 2011)</small>
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación (sin anexo).
 
 El presente Acuerdo fue aprobado en sesión extraordinaria de la Junta General Ejecutiva celebrada el 17 de enero de 2012, por votación unánime de los Directores Ejecutivos del Registro Federal de Electores, Doctor Víctor Manuel Guerra Ortíz; de Prerrogativas y Partidos Políticos, Licenciado Alfredo Ríos Camarena Rodríguez; de Organización Electoral, Profesor Miguel Angel Solís Rivas; del Servicio Profesional Electoral, Doctor José Rafael Martínez Puón; de Capacitación Electoral y Educación Cívica, Maestro Luis Javier Vaquero Ochoa; de Administración, Contador Público Román Torres Huato; del Secretario Ejecutivo y Secretario de la Junta General Ejecutiva, Licenciado Edmundo Jacobo Molina y del Consejero Presidente y Presidente de la Junta General Ejecutiva, Doctor Leonardo Valdés Zurita.
 
