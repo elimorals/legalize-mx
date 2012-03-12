@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2008-08-18"
+last_updated: "2012-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -79,13 +79,25 @@ IV. Medalla "José Guadalupe Posada";
 
 V. Medalla "Palmas Académicas";
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2012)</small>
 
-VI. Medalla "Miguel Ángel de Quevedo"; y
+VI. Medalla “Miguel Ángel de Quevedo”;
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2012)</small>
 
-VII. Medalla "César E. Chávez".
+VII. Medalla “Manuel M. Ponce”;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
+
+VIII. Medalla “César E. Chávez”;
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
+
+IX. Medalla “Saturnino Herrán”; y
+
+> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
+
+X. Medalla “Jesús Terán Peredo”
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -141,13 +153,31 @@ Esta Medalla será entregada, a quienes por su trabajo, labor cotidiana, sus pro
 
 Esta Medalla se otorgará a quienes por sus méritos, se destaquen en el arte de la música o la opera, a un valor de rango estatal, nacional y/o internacional.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE AGOSTO DE 2008)</small>
 
 #### Sección VIII. Medalla "César E. Chávez"
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ARTÍCULO 12 BIS.- Esta Medalla se otorgará a. la persona física o moral que se distinga por su labor, trabajo y aportaciones realizadas en México o en el extranjero, en beneficio de los aguascalentenses y sus familias radicados en otros países; por actividades y trabajos que fomenten y mejoren las relaciones de nuestro país con personas y gobiernos de otros países; por trabajos y actividades que mejoren la presencia y percepción de México y los mexicanos en el extranjero, así como aquellos que permitan disminuir la migración de mexicanos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2012)</small>
+
+#### Sección IX. Medalla "Saturnino Herrán"
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2012)</small>
+
+ARTÍCULO 12 TER.- Esta medalla se otorgará a la persona física o moral que se distinga por su labor, trabajo, aportaciones, apoyos, investigaciones o acciones realizadas en el Estado en beneficio de los jóvenes de Aguascalientes, o bien por actividades y trabajos que fomenten y mejoren el desarrollo y la calidad de vida de la juventud del Estado y que les permitan allegarse de mejores herramientas de vida, desarrollo y superación; así como en su caso a aquel menor de 25 años que por sus logros académicos, sociales, deportivos, intelectuales o de investigación, ponga en alto, a nivel nacional o internacional a la juventud de Aguascalientes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2012)</small>
+
+#### Sección X. Medalla "Jesús Terán Peredo"
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2012)</small>
+
+ARTÍCULO 12 QUATER.- Esta Medalla se otorgará a la persona física o moral que basando sus principios en la honestidad, la transparencia y la calidad, además de conducirse por políticas, programas y estrategias que favorecen el pleno desarrollo humano, busque la excelencia en el seno de la empresa, atendiendo con especial atención a las personas y sus condiciones de trabajo, así como a la calidad de sus procesos productivos, en el mismo sentido, promueva e impulse una cultura de competitividad responsable.
+
+Indistintamente se podrá otorgar esta presea a la persona física o moral que se haya dedicado a crear, desarrollar o consolidar una empresa a partir de una idea emprendedora, incluso con insuficiente experiencia empresarial, tecnológica y de financiamiento; además de tener como finalidad la generación de empleos en el Estado.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -241,10 +271,14 @@ Dip. Ubaldo Treviño Soledad,
 
 SEGUNDO SECRETARIO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE AGOSTO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE MARZO DE 2012.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.</small>
