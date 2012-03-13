@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-la-juventud-del-estado-de-guerrero-numero-607-56909"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-23"
-last_updated: "2005-12-23"
+last_updated: "2012-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY DE LA JUVENTUD DE GUERRERO NUMERO 607
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY NÚMERO 913 DE LA JUVENTUD GUERRERENSE, PUBLICADA EN EL P.O. DE 13 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de diciembre de 2005.
 
@@ -580,3 +582,23 @@ El Secretario General de Gobierno.
 C. LIC. ARMANDO CHAVARRÍA BARRERA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2012.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. - El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la Ley, en un plazo no mayor de ciento sesenta días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+CUARTO.- El Consejo a que se refiere la presente Ley, deberá instalarse en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+QUINTO. - El acceso directo a la educación media superior y/o superior, previsto en la fracción V, del artículo 9 de esta Ley, será en el ciclo escolar inmediato posterior a la entrada en vigor de la presente Ley.
+
+SEXTO. - Lo previsto en los artículos 9, fracción V, y 34 fracción VII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables a la Universidad Autónoma de Guerrero.
+
+SÉPTIMO.- Se abroga la Ley de la Juventud de Guerrero Número 607 publicada en el Periódico Oficial del Gobierno del Estado el 23 de diciembre de 2005 así como todas sus reformas y adiciones.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
