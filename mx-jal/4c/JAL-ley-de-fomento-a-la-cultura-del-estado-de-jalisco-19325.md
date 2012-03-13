@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2011-12-27"
+last_updated: "2012-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2012.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -245,7 +245,7 @@ XIV. Procurar la creación de bibliotecas, hemerotecas, casas municipales de la 
 
 XV. Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o jurídicas dedicadas a las actividades culturales, para la utilización de los espacios públicos con que cuenta el municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 8.
 
@@ -375,7 +375,7 @@ IV. Las demás que establezca esta Ley y su Reglamento.
 
 Los integrantes del Sistema deberán reunirse en sesión ordinaria cuando menos una vez al año conforme a calendarización que al efecto aprueben, y en sesión extraordinaria, cada vez que para ello sean convocados por su Presidente o por una tercera parte de sus integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 15.
 
@@ -555,7 +555,7 @@ XII. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
 El Consejo sesionará en forma ordinaria y extraordinaria. Celebrará tres sesiones ordinarias en el año y las extraordinarias que sean necesarias, previa convocatoria de su Presidente o de una tercera parte de sus integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO,[N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO,[N. DE E. REPUBLICADO], P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 23.
 
@@ -665,9 +665,9 @@ En caso de que los beneficiarios del fondo no cumplan con los compromisos señal
 
 Para alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, se establece el Sistema Estatal de Creadores, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO UNICO DEL DECRETO NUMERO 23449/LIX/10, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2010, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 23449/LIX/10, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2010, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 31.
 
@@ -689,7 +689,7 @@ III. Los demás que establezca el reglamento.
 
 Los nuevos creadores podrán percibir hasta tres salarios mínimos mensuales, durante un año calendario. Este apoyo podrá renovarse hasta por tres años. La asignación, entrega y prórroga de dichos estímulos estará sujeta a las condiciones establecidas por el reglamento respectivo, así como a la existencia y disponibilidad de recursos. Los creadores eméritos tendrán carácter honorífico y vitalicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -699,7 +699,7 @@ Cuando se solicite cualquier tipo de estímulo económico ante el Consejo, y med
 
 El reglamento especificará los requisitos y procedimientos de ingreso, permanencia y exclusión del Sistema Estatal de Creadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
@@ -775,9 +775,7 @@ V. Fomentar la promoción de libros, revistas y coediciones de carácter cultura
 
 VI. Organizar concursos anuales en el estado, que tengan por objeto estimular la lectura y dirigirlos principalmente a los alumnos de educación básica.
 
-### Capítulo IV. Del uso de los espacios públicos
-
-destinados a la cultura
+### Capítulo IV. Del uso de los espacios públicos destinados a la cultura
 
 ###### Artículo 40.
 
@@ -804,6 +802,144 @@ El Gobierno del Estado y los Municipios deberá reglamentar en el ámbito de su 
 ###### Artículo 42.
 
 La Secretaría procurará el fomento de la cinematografía mediante actividades de promoción, difusión, capacitación y apreciación de las obras producto de la creatividad de los cineastas jaliscienses, y brindará espacios en el Sistema Jalisciense de Radio y Televisión para la consecución de dichos fines.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2012)</small>
+
+## TITULO NOVENO. DEL FIDEICOMISO DE APOYO SOCIAL Y ECONOMICO PARA LOS AGENTES DEL SECTOR CULTURAL DEL ESTADO DE JALISCO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2012)</small>
+
+### Capítulo Único. De la integración y administración del fideicomiso
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+Artículo 42 (sic).- El Fideicomiso de Apoyo Social y Económico para los Agentes del Sector Cultural del Estado de Jalisco, será establecido a través de un fideicomiso creado por el Poder Ejecutivo del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 43.
+
+El fideicomiso en cuestión tendrá el objeto de garantizar la seguridad social de aquellos artistas, gestores culturales, y demás individuos que realicen actividades culturales y que cumplan con los requisitos que establece el presente ordenamiento jurídico.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 44.
+
+El fideicomiso se administrará por un comité técnico, el cual tendrá por objeto la vigilancia, la instrucción a la institución fiduciaria para la adecuada distribución de los bienes fideicomitidos, así como su adecuada operatividad.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 45.
+
+El Comité Técnico estará integrado por un representante de las siguientes dependencias:
+
+I. Un representante de la Secretaría de Cultura;
+
+II. Un representante del Consejo Estatal para la Cultura y las Artes;
+
+III. Un representante de la Secretaría de Finanzas, y
+
+IV. Un representante de la institución fiduciaria.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 46.
+
+El Comité Técnico sesionará una vez al mes, a efecto de vigilar adecuadamente que se esté cumpliendo con sus objetivos, así como para integrar estrategias para incrementar el monto del mismo.
+
+Cada mes el Comité Técnico deberá informar a los fideicomisarios sobre la situación financiera en lo que corresponde a su seguridad social.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 47.
+
+El fideicomiso en cuestión deberá regirse por los siguientes principios:
+
+I. Deberá ser accesible económicamente para los artistas y demás agentes del sector cultural;
+
+II. Deberá ser transparente, y protegerá los datos personales de todos los fideicomisarios;
+
+III. Deberá ser lo más benéfico posible para el fideicomisario, sin que puedan constar al momento de su constitución lineamientos que atenten contra su sobrevivencia o lo puedan poner en un estado total de insolvencia, y
+
+IV. Las aportaciones deberán ser equitativas y proporcionales al ingreso que reciba el fideicomisario.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 48.
+
+Para ser fideicomisario del fideicomiso en cuestión se necesita cumplir con cualquiera de los siguientes requisitos:
+
+I. Estar registrado en el Sistema Estatal de Creadores;
+
+II. No contar con algún tipo de seguridad social, y
+
+III. Ser profesionista o estudiante de alguna, licenciatura o posgrado, en algún área artística o cultural avalada por la Secretaría de Educación Pública, y demostrar que ha estado ejerciendo en su respectiva área por más de un año ante el Comité Técnico.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 49.
+
+El patrimonio del fideicomiso se integrará de la siguiente manera:
+
+I. Todos los recursos que destine el Gobernador del Estado de Jalisco en el Presupuesto de Egresos al mismo;
+
+II. Todos los bienes que procedan de la Federación con motivo de convenios que firme el Estado de Jalisco con dicho nivel de gobierno;
+
+III. Todos los bienes que procedan de los municipios con motivo de convenios que firme el Estado de Jalisco con los ayuntamientos de este estado o de otros;
+
+IV. Todos los bienes muebles o inmuebles que se entreguen al fideicomiso con objeto de legados, y donaciones;
+
+V. Todos los bienes que sean producto de las aportaciones que realicen los fideicomisarios, y
+
+VI. Todos los demás bienes que sean producto de cualquier acto jurídico de índole pecuniario, que no sea contrario a los objetos del fideicomiso.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 50.
+
+La operatividad, así como el adecuado funcionamiento de los programas de seguridad social que se ofrezcan a través del fideicomiso en cuestión, deberán ser especificados a través del documento que constituya el fideicomiso.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 51.
+
+La relación jurídica establecida en el fideicomiso quedará rescindida en los siguientes supuestos:
+
+l. Por ya no estar inscrito en el Sistema Estatal de Creadores;
+
+II. Por dejar de estar estudiando, o dejar de estar ejerciendo en el área del sector cultural o artístico por más de un año, y
+
+III. Por dejar de aportar la parte alícuota correspondiente al mismo por un periodo de más de un año.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 52.
+
+Antes de terminar la relación jurídica, se notificará al fideicomisario de manera personal, y por escrito, a través de los medios que establezca para tal efecto la autoridad pública correspondiente, que se encuentra en uno de los supuestos contemplados anteriormente, donde se funde y motive de manera exhaustiva el mismo; y donde se tenga por suspendido de sus derechos al beneficiario, lo cual implica que en tanto no se deslinde dicha situación, el Estado no aportará su parte correspondiente al fideicomiso.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 53.
+
+Se le dará al fideicomisario la oportunidad para que en los siguientes tres meses, una vez notificado, alegue ante la autoridad correspondiente, y envíe aquellas pruebas documentales que descalifiquen o demás (sic) que de manera fehaciente prueben que no se encuentra en dichos supuestos, o que vuelva a realizar aquellas acciones, a efecto de estar dentro del mismo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 54.
+
+En caso que se intente alegar ante la autoridad competente que no se encuentra en dichos supuestos, y se declaren improcedentes los argumentos esgrimidos, se podrá realizar la acción correspondiente ante el Tribunal de lo Administrativo del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 55.
+
+Si en los siguientes meses no se desahogan los supuestos antes establecidos, se tendrá por rescindida la relación jurídica, lo cual implica que el Estado dejará de estar obligado a seguir aportando aquellos recursos al fideicomisario que le corresponden; sin embargo, el beneficiario podrá seguir haciendo uso de sus recursos hasta en tanto se agoten, o vuelva a ser beneficiario del mismo.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2012)</small>
+
+###### Artículo 56.
+
+En caso de que vuelva a estar en el supuesto de ser beneficiario, realizará un trámite por el cual se vuelva a incorporar de los derechos que tenía adquiridos el fideicomisario al momento de rescindir la relación jurídica; sin embargo, esto excluye aquellos recursos que haya perdido en el transcurso del tiempo.
 
 ## Transitorios
 
@@ -845,7 +981,7 @@ El Secretario General de Gobierno
 
 Lic. Felipe de Jesús Preciado Coronado
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 21 DE FEBRERO DE 2004.
 
@@ -860,3 +996,9 @@ P.O. 27 DE DICIEMBRE DE 2011.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los municipios deberán integrar su respectivo consejo municipal de la cultura en un plazo que no exceda de noventa días a partir de la entrada en vigor del presente decreto.
+
+P.O. 13 DE MARZO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Poder Ejecutivo del Estado tendrá un plazo no mayor de seis meses para constituir el fideicomiso y su reglamento, a partir de la entrada de vigor de esta ley.
