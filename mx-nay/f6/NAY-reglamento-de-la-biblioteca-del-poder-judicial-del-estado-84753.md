@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-biblioteca-del-poder-judicial-del-estado-84753
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2012-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012. EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA BIBLIOTECA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MARZO DE 2012.</small>
 
 Reglamento publicado en la Sección Novena del Periódico Oficial del Estado de Nayarit, el miércoles 14 de diciembre de 2011.
 
@@ -33,11 +33,11 @@ Reglamento de la Biblioteca del Poder Judicial del Estado de Nayarit
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 1°.
 
-El presente ordenamiento tiene por objeto regular la organización y el funcionamiento de la Biblioteca del Poder Judicial en los términos del Título Noveno Capítulo III de la Ley Orgánica del Poder Judicial para el Estado de Nayarit. Es de observancia obligatoria para los servidores judiciales y el público en general que solicite sus servicios.
+El presente ordenamiento tiene por objeto regular la organización y el funcionamiento de la Biblioteca del Poder Judicial en los términos del Título Décimo, Capítulo III de la Ley Orgánica del Poder Judicial para el Estado de Nayarit. Es de observancia obligatoria para los servidores judiciales y el público en general que solicite sus servicios.
 
 ###### Artículo 2°.
 
