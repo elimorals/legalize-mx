@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-sesiones-de-los-consejos-electorales-del-20309"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-20"
-last_updated: "2011-07-22"
+last_updated: "2012-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "PUE"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA APROBADA POR ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, MEDIANTE COPIA CERTIFICADA: 22 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
+
+> <small>N. DE E. EL CONTENIDO DE LA REFORMA CORRE AGREGADO COMO ANEXO DOS DEL ACUERDO APROBADO POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO, MEDIANTE COPIA CERTIFICADA: 23 DE FEBRERO DE 2012.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de febrero de 2001.
 
@@ -46,35 +48,35 @@ TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
 
 Este Acuerdo fue aprobado por unanimidad de votos de los integrantes del Consejo General del Instituto Electoral del Estado, en sesión de fecha dieciséis de febrero de dos mil uno.- Presidente.- LICENCIADO ALEJANDRO ARTURO NECOECHEA GOMEZ.- Rúbrica.- Secretario General.- MAESTRO JOSE ANTONIO BRETON BETANZOS.- Rúbrica.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA, APROBADO EL 22 DE JULIO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE PUEBLA, APROBADO EL 23 DE FEBRERO DE 2012, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE ORDENAMIENTO.</small>
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 1.
 
 Las disposiciones del presente ordenamiento son de observancia general para el Consejo General, así como para los Consejos Distritales y Municipales Electorales del Instituto Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 2.
 
 El presente Reglamento regula las sesiones de los Consejos del Instituto Electoral del Estado, teniendo como objetivo fundamental garantizar, en su desarrollo, la libre expresión de ideas y participación de sus integrantes en la discusión y debate.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 3.
 
-Conforme a lo dispuesto por el Código de Instituciones y Procesos Electorales del Estado de Puebla, la interpretación de las disposiciones de este Reglamento se harán conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+Conforme a lo dispuesto por el Código de Instituciones y Procesos Electorales del Estado de Puebla, la interpretación de las disposiciones de este Reglamento se harán (sic) conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En su interpretación se tomarán en cuenta los principios rectores de certeza, legalidad, imparcialidad, independencia y objetividad en el ejercicio de la función estatal de organizar las elecciones.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 4.
 
@@ -96,7 +98,7 @@ VII. Suspender la sesión por alguna de las causas establecidas en este Reglamen
 
 VIII. Las demás que les otorgan el Código de Instituciones y Procesos Electorales del Estado de Puebla, este Reglamento y las que les otorgue el Consejo General.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 5.
 
@@ -110,23 +112,23 @@ III. Presentar, por conducto del Consejero Presidente, los proyectos de acuerdo 
 
 IV. Solicitar al Consejero Presidente del Consejo Electoral respectivo, la inclusión de algún asunto en el Proyecto del orden del día;
 
-V. Solicitar al Consejero Presidente, someta a consideración del Consejo Electoral la suspensión de la sesión;
+V. Solicitar al Consejero Presidente, someta a consideración del Consejo Electoral la suspensión de la sesión.
 
 VI. Solicitar, por mayoría, al Consejero Presidente convoque a sesión especial; y
 
 VII. Las demás que les son conferidas por el Código de Instituciones y Procesos Electorales del Estado de Puebla, este Reglamento y las que les confiera el Consejo General.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 6.
 
-La Secretaría de los Consejos Electorales estará a cargo del Secretario General del Consejo General y de los Secretarios de los Consejos Distritales y Municipales del Instituto Electoral del Estado, respectivamente.
+La Secretaría de los Consejos Electorales estará a cargo del Secretario Ejecutivo del Consejo General y de los Secretarios de los Consejos Distritales y Municipales del Instituto Electoral del Estado, respectivamente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 7.
 
-Corresponden al Secretario General y a los Secretarios de los Consejos Electorales del Instituto, las atribuciones siguientes:
+Corresponden al Secretario Ejecutivo y a los Secretarios de los Consejos Electorales del Instituto, las atribuciones siguientes:
 
 I. Cuidar que se impriman y se entreguen a los integrantes del Consejo, los documentos y anexos necesarios para el estudio y discusión de los asuntos contenidos en el orden del día;
 
@@ -142,7 +144,7 @@ VI. Llevar un registro de las actas, acuerdos y resoluciones aprobados por el Co
 
 VII. Las demás que les son conferidas por el Código de Instituciones y Procesos Electorales del Estado de Puebla, este Reglamento y las que les confiera el Consejo General o su Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 8.
 
@@ -158,11 +160,11 @@ IV. Solicitar al Consejero Presidente someta a consideración del Consejo Electo
 
 V. Las demás que les otorgan el Código de Instituciones y Procesos Electorales del Estado de Puebla, este Reglamento y las que les otorgue el Consejo General.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ### CAPITULO II. DE LA INSTALACION Y DESARROLLO DE LAS SESIONES DEL CONSEJO GENERAL
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 9.
 
@@ -172,13 +174,15 @@ El Consejo General se declarará en sesión permanente para el tratamiento de as
 
 En todos los casos, el Consejero Presidente, previo acuerdo del Consejo General, podrá decretar los recesos que fueren necesarios durante las sesiones permanentes.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 10.
 
 Para la celebración de las sesiones ordinarias o especiales del Consejo General, el Consejero Presidente del mismo deberá convocar, por escrito, a cada uno de los integrantes que formen parte del Cuerpo Colegiado, por lo menos con cuarenta y ocho horas de anticipación a la hora que se señale para la celebración de la sesión del caso.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+En caso de que se contemple en el orden del día la discusión de algún asunto relacionado con (sic) Vocal del Registro Federal de Electores de la Junta Local del Instituto Federal Electoral o al (sic) Titular de la Unidad de Fiscalización del Organismo, el Consejero Presidente los convocará a la sesión que corresponda siguiendo las reglas previstas en el párrafo anterior. Su partición (sic) en la sesión se ajustará a lo dispuesto por el artículo 15 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 11.
 
@@ -188,25 +192,25 @@ En el caso de las sesiones especiales, solamente podrán ventilarse aquellos asu
 
 Una vez aprobado el orden del día de las sesiones ordinarias, cualquier integrante del Consejo General que considere deba ventilarse algún asunto diverso de los incluidos en el orden del día, éste deberá desahogarse en el punto relativo a asuntos generales, por cada asunto a tratar en este punto, el orador no excederá de siete minutos de intervención; en caso de someter a discusión el mismo, se aplicarán los tiempos de participación que establece el artículo 15 de este Reglamento.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 12.
 
-Los integrantes del Consejo General se reunirán en la sala de sesiones en el día y la hora fijados para la sesión. El Consejero Presidente declarará instalada la misma, previa verificación de asistencia y certificación de la existencia del quórum legal por el Secretario General.
+Los integrantes del Consejo General se reunirán en la sala de sesiones en el día y la hora fijados para la sesión. El Consejero Presidente declarará instalada la misma, previa verificación de asistencia y certificación de la existencia del quórum legal por el Secretario Ejecutivo.
 
 Cuando existan condiciones o causas que así lo ameriten, el Consejo General podrá llevar a cabo la celebración de la sesión en lugar distinto al indicado. El Consejero Presidente decidirá el cambio de lugar de la sesión, lo cual hará previamente del conocimiento de los integrantes del Consejo General, así como las causas del cambio, y del conocimiento público, por los medios pertinentes.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 13.
 
 Instalada la sesión, serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día, salvo cuando con base en consideraciones fundadas, el propio Consejo General acuerde posponer la discusión o votación de algún asunto en particular, sin que ello implique la contravención de disposiciones legales.
 
-Aprobado el orden del día, se consultará en votación económica si se dispensa la lectura del documento a tratar en el punto correspondiente y que haya sido previamente circulado. En caso contrario, el Consejero Presidente del Consejo General ordenará, darle lectura, en forma completa o parcial, a los mismos por parte del Secretario General, según acuerde el Consejo.
+Aprobado el orden del día, se consultará en votación económica si se dispensa la lectura del documento a tratar en el punto correspondiente y que haya sido previamente circulado. En caso contrario, el Consejero Presidente del Consejo General ordenará, darle lectura, en forma completa o parcial, a los mismos (sic) por parte del Secretario Ejecutivo, según acuerde el Consejo.
 
 Los integrantes del Consejo General que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano, deberán manifestarlas durante la discusión del punto correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 14.
 
@@ -216,9 +220,9 @@ En caso de que el Consejero Presidente del Consejo General se ausente momentáne
 
 En el supuesto de que el Consejero Presidente no asista o se ausente en forma definitiva de la sesión, el Consejo General designará a uno de los Consejeros Electorales presentes para que presida.
 
-En caso de la no asistencia del Secretario General a la sesión, sus funciones serán realizadas por alguno de los Consejeros Electorales que para tal efecto sea designado por el Consejo General, para esa única sesión.
+En caso de la no asistencia del Secretario Ejecutivo a la sesión, sus funciones serán realizadas por alguno de los Consejeros Electorales que para tal efecto sea designado por el Consejo General, para esa única sesión.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 15.
 
@@ -234,25 +238,25 @@ Después de haber intervenido todos los oradores que así desearon hacerlo en la
 
 Bastará que un solo integrante del Consejo General pida la palabra para que la segunda o tercera ronda se lleve a efecto.
 
-El Secretario General del Consejo podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se hayan inscrito en la lista de oradores. Sus intervenciones no excederán de los tiempos fijados para cada ronda. Lo anterior no obsta para que en el transcurso del debate el Consejero Presidente o alguno de los Consejeros Electorales le pida que informe o aclare alguna cuestión.
+El Secretario Ejecutivo del Consejo podrá solicitar el uso de la palabra en cada uno de los puntos tratados, en el orden en que se hayan inscrito en la lista de oradores. Sus intervenciones no excederán de los tiempos fijados para cada ronda. Lo anterior no obsta para que en el transcurso del debate el Consejero Presidente o alguno de los Consejeros Electorales le pida que informe o aclare alguna cuestión.
 
 Cuando nadie pida la palabra, se procederá de inmediato a la votación, en los asuntos que así corresponda o a la simple conclusión del punto, según sea el caso.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 16.
 
 En el curso de las deliberaciones, los integrantes del Consejo General se abstendrán de entablar diálogos con otros miembros del mismo, así como de realizar alusiones personales. En dicho supuesto, el Consejero Presidente los conminará a que se conduzcan en los términos previstos por el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 17.
 
-Los oradores no podrán ser interrumpidos, salvo que medie moción siguiendo las reglas establecidas en los artículos 18 ó 19 de este Reglamento o por la intervención del Consejero Presidente para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
+Los oradores no podrán ser interrumpidos, salvo que medie moción siguiendo las reglas establecidas en los artículos 18 ó 19 de este reglamento o por la intervención del Consejero Presidente para conminarlo a que se conduzca dentro de los supuestos previstos por el presente ordenamiento.
 
 El Consejero Presidente advertirá al orador que no se desvíe de la cuestión en debate o haga referencia que ofenda a cualquiera de los miembros del Consejo General. Si un orador reincidiera en su conducta, el Consejero Presidente le retirará el uso de la palabra, inclusive antes de la tercera advertencia.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 18.
 
@@ -260,7 +264,7 @@ Cualquier miembro del Consejo General podrá realizar mociones al orador que est
 
 Las mociones al orador, además de dirigirse al Consejero Presidente del Consejo General deberán contar con la anuencia de aquél a quien se hacen. En este caso la intervención del solicitante o peticionario no podrá durar más de un minuto.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 19.
 
@@ -282,59 +286,43 @@ VII. Pedir la aplicación del Reglamento de Sesiones de los Consejos Electorales
 
 Toda moción de orden deberá dirigirse al Consejero Presidente del Consejo General, quien consultará al orador si da su aceptación. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
-Artículo 20
+###### Artículo 20.
 
-El Secretario General del Consejo General tomará la votación en forma económica. Sólo procederá votación nominal, ya sea abierta o cerrada, cuando así lo acuerde el Consejo General a propuesta de algún Consejero Electoral.
+El Secretario Ejecutivo del Consejo General tomará la votación en forma económica. Sólo procederá votación nominal, ya sea abierta o cerrada, cuando así lo acuerde el Consejo General a propuesta de algún Consejero Electoral.
 
 Los acuerdos y resoluciones del Consejo General se tomarán por mayoría simple de votos de sus miembros con derecho a ello, salvo en los casos en que la ley disponga una mayoría calificada.
 
-El Secretario General hará del conocimiento del pleno el sentido de la votación, la que se tomará contando el número de votos a favor y el número de votos en contra, en ningún caso los Consejeros Electorales podrán abstenerse de ello, en el supuesto de que exista algún impedimento en términos del artículo 50, fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla o por disposición legal aplicable, se comunicará al momento de tomar la votación correspondiente y se asentará en el acta respectiva. El resultado de la votación quedará asentado en el acta circunstanciada.
+El Secretario Ejecutivo hará del conocimiento del pleno el sentido de la votación, la que se tomará contando el número de votos a favor y el número de votos en contra, en ningún caso los Consejeros Electorales podrán abstenerse de ello, en el supuesto de que exista algún impedimento en términos del artículo 50, fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla o por disposición legal aplicable, se comunicará al momento de tomar la votación correspondiente y se asentará en el acta respectiva. El resultado de la votación quedará asentado en el acta circunstanciada.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
-
-###### ARTÍCULO 20.
-
-El Secretario General del Consejo General tomará la votación en forma económica. Sólo procederá votación nominal, ya sea abierta o cerrada, cuando así lo acuerde el Consejo General a propuesta de algún Consejero Electoral.
-
-Los acuerdos y resoluciones del Consejo General se tomará (sic) por mayoría simple de votos de sus miembros con derecho a ello, salvo en los casos en que la ley disponga la mayoría calificada.
-
-El Secretario General hará del conocimiento del pleno el sentido de la votación, la que se tomará contando el número de votos a favor, el número de votos en contra y, en su caso, las abstenciones. El resultado de la votación quedará asentado en el acta circunstanciada.
-
-Los Consejeros Electorales que quieran razonar su voto, deberán hacerlo del conocimiento del Consejero Presidente antes de que se someta a votación el asunto de que se trate.
-
-Una vez que el Secretario General tome la votación correspondiente de acuerdo con este artículo, el Consejero Presidente dará la palabra al o los Consejeros Electorales que hubiesen expresado su voluntad de razonar su voto, respetando el orden en que fue solicitado.
-
-El Consejero Electoral contará hasta con dos minutos para expresar las razones de su voto y no podrá ser interrumpido por ningún integrante del Consejo General.
-
-Si algún miembro del Consejo General solicita el razonamiento del voto sobre el asunto sujeto a discusión, el Consejero Presidente antes de someterlo a votación deberá consultar si alguno de sus miembros con derecho a voto desea expresar las razones de su voto.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ### CAPITULO III. DE LOS ACTOS POSTERIORES A LA SESION DEL CONSEJO GENERAL
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 21.
 
-El Consejo General ordenará la publicación, en el Periódico Oficial del Estado, de los acuerdos y resoluciones de carácter general, de conformidad con lo dispuesto en el Código de Instituciones y Procesos Electorales del Estado de Puebla, así como aquellos que el propio Consejo determine. Para la publicación en el Periódico Oficial del Estado, el Secretario General remitirá a la autoridad correspondiente, dentro de los cinco días siguientes a su aprobación, los acuerdos o resoluciones adoptados.
+El Consejo General ordenará la publicación, en el Periódico Oficial del Estado, de los acuerdos y resoluciones de carácter general, de conformidad con lo dispuesto en el Código de Instituciones y Procesos Electorales del Estado de Puebla, así como aquellos que el propio Consejo determine. Para la publicación en el Periódico Oficial del Estado, el Secretario Ejecutivo remitirá a la autoridad correspondiente, dentro de los cinco días siguientes a su aprobación, los acuerdos o resoluciones adoptados.
 
-Dentro de los cinco días hábiles siguientes a la sesión en que fueron aprobados, el Secretario General del Consejo deberá remitir copia de los acuerdos y resoluciones a los miembros del Consejo General para su debido cumplimiento en el ámbito de sus respectivas atribuciones. El Consejo General podrá determinar que la remisión de los acuerdos y resoluciones se haga en un plazo menor.
+Dentro de los cinco días hábiles siguientes a la sesión en que fueron aprobados, el Secretario Ejecutivo del Consejo deberá remitir copia de los acuerdos y resoluciones a los miembros del Consejo General para su debido cumplimiento en el ámbito de sus respectivas atribuciones. El Consejo General podrá determinar que la remisión de los acuerdos y resoluciones se haga en un plazo menor.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 22.
 
 De cada sesión se realizará un acta circunstanciada que contendrá de manera literal los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, las intervenciones de los miembros del Consejo General y el sentido de la votación, en cada caso, así como los acuerdos y resoluciones aprobadas.
 
-El acta circunstanciada servirá de base para la formulación del proyecto de acta de cada sesión, el que deberá someterse a aprobación en la sesión ordinaria siguiente a aquella de que se trate. El Secretario General deberá entregar a los miembros del Consejo el proyecto de acta de cada sesión en un plazo que no excederá de los quince días siguientes a su celebración.
+El acta circunstanciada servirá de base para la formulación del proyecto de acta de cada sesión, el que deberá someterse a aprobación en la sesión ordinaria siguiente a aquella de que se trate. El Secretario Ejecutivo deberá entregar a los miembros del Consejo el proyecto de acta de cada sesión en un plazo que no excederá de los quince días siguientes a su celebración.
 
 En el caso de que así lo autoricen los integrantes del Consejo General, el proyecto de acta podrá enviarse por fax o por correo electrónico, recabándose el recibo correspondiente por el mismo medio.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ### CAPITULO IV. DE LA INSTALACION Y DESARROLLO DE LAS SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 23.
 
@@ -344,13 +332,13 @@ Los Consejos Distritales y Municipales Electorales podrán declararse en sesión
 
 En todos los casos, el Consejero Presidente, previo acuerdo del Consejo Distrital o Municipal Electoral respectivo, podrá decretar los recesos que fueren necesarios durante las sesiones permanentes.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 24.
 
 Para la celebración de las sesiones ordinarias o especiales de los Consejos Distritales y Municipales Electorales, el Consejero Presidente del Organo Electoral correspondiente deberá convocar, por escrito, a cada uno de los integrantes del Consejo Electoral respectivo, por lo menos con cuarenta y ocho horas de anticipación a la hora que se señale para la celebración de la sesión del caso.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 25.
 
@@ -360,9 +348,9 @@ En el caso de las sesiones especiales, solamente podrán ventilarse aquellos asu
 
 Una vez aprobado el orden del día de las sesiones ordinarias, cualquier integrante del Consejo Distrital o Municipal Electoral respectivo que considere deba ventilarse algún asunto diverso de los incluidos en el orden del día, éste deberá desahogarse en el punto relativo a asuntos generales, por cada asunto a tratar en este punto, el orador no excederá de siete minutos de intervención; en caso de someter a discusión el mismo, se aplicarán los tiempos de participación que establece el artículo 30 de este Reglamento.
 
-El Consejero Presidente del Consejo Distrital o Municipal Electoral, mediante oficio, en forma personal o vía fax notificará, previamente, al Secretario General el verificativo de sus sesiones, recabando la constancia de recibo correspondiente.
+El Consejero Presidente del Consejo Distrital o Municipal Electoral, mediante oficio, en forma personal o vía fax notificará, previamente, al Secretario Ejecutivo el verificativo de sus sesiones, recabando la constancia de recibo correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 26.
 
@@ -372,27 +360,27 @@ Para que el Consejo Distrital o Municipal Electoral pueda sesionar, es necesario
 
 Las resoluciones se tomarán por mayoría de votos de los miembros con derecho a votar.
 
-En caso de que no reúna la mayoría a que se refiere el párrafo anterior, los presentes aguardarán una hora. Transcurrido dicho plazo sin que se reúna el quórum requerido, la sesión se declarará suspendida y el Consejero Presidente del Consejo Distrital o Municipal Electoral correspondiente convocará de nueva cuenta a sesión, notificando de manera personal a los integrantes del Consejo Electoral respectivo, para que se lleve a cabo con los integrantes presentes, dentro de las veinticuatro horas siguientes de que hubiere sido declarada suspendida, siendo válidos los acuerdos y resoluciones que en ella se tomen.
+En caso de que no reúna la mayoría a que se refiere el párrafo anterior, los presentes aguardarán una hora. Transcurrido dicho plazo sin que se reúna el quórum requerido, la sesión se declarará suspendida y el Consejero Presidente del Consejo Distrital o Municipal Electoral correspondiente convocará de nueva cuenta a sesión, notificando de manera personal a los integrantes del Consejo Electoral respectivo, para que se lleve a cabo con los integrantes presentes, dentro de las veinticuatro horas siguientes de que hubiere sido declarada suspendida, siendo validos los acuerdos y resoluciones que en ella se tomen.
 
-Cuando existan condiciones o causas que así lo ameriten, el Consejo Distrital o Municipal Electoral podrá llevar a cabo la celebración de la sesión en lugar distinto al indicado. El Consejero Presidente del Organo Electoral respectivo decidirá el cambio de lugar de la sesión, lo cual hará previamente del conocimiento de los integrantes del Consejo Electoral al que pertenezca, así como las causas del cambio, y del conocimiento público, por los medios pertinentes. De igual forma, el Consejero Presidente, mediante oficio, en forma personal o vía fax y con la prontitud requerida, notificará al Secretario General del cambio de lugar de la sesión y las causas del cambio, recabando la constancia de recibo correspondiente.
+Cuando existan condiciones o causas que así lo ameriten, el Consejo Distrital o Municipal Electoral podrá llevar a cabo la celebración de la sesión en lugar distinto al indicado. El Consejero Presidente del órgano electoral respectivo decidirá el cambio de lugar de la sesión, lo cual hará previamente del conocimiento de los integrantes del Consejo Electoral al que pertenezca, así como las causas del cambio, y del conocimiento público, por los medios pertinentes. De igual forma, el Consejero Presidente, mediante oficio, en forma personal o vía fax y con la prontitud requerida, notificará al Secretario Ejecutivo del cambio de lugar de la sesión y las causas del cambio, recabando la constancia de recibo correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 27.
 
-Las sesiones de los Consejos Distritales o Municipales Electorales podrán suspenderse por grave alteración del orden en el salón de sesiones, en tal caso deberá reanudarse antes de veinticuatro horas, sin perjuicio de que el Consejo Electoral respectivo decida otro plazo para su continuación, tal situación deberá ser comunicada, inmediatamente y por los medios que se estimen pertinentes, al Secretario General por parte del Consejero Presidente del Consejo Distrital o Municipal Electoral correspondiente recabando el acuse por la misma vía
+Las sesiones de los Consejos Distritales o Municipales Electorales podrán suspenderse por grave alteración del orden en el salón de sesiones, en tal caso deberá reanudarse antes de veinticuatro horas, sin perjuicio de que el Consejo Electoral respectivo decida otro plazo para su continuación, tal situación deberá ser comunicada, inmediatamente y por los medios que se estimen pertinentes, al Secretario Ejecutivo por parte del Consejero Presidente del Consejo Distrital o Municipal Electoral correspondiente recabando el acuse por la misma vía.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 28.
 
-Instalada la sesión, serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día, salvo cuando con base en consideraciones fundadas, el propio Consejo Distrital o Municipal Electoral acuerde posponer la discusión o votación de algún asunto en particular, sin que ello implique la contravención de disposiciones legales, el Consejero Presidente del Consejo Electoral comunicará tal situación mediante oficio, en forma personal o vía fax, al Secretario General, recabando la constancia de recibo correspondiente.
+Instalada la sesión, serán discutidos y, en su caso, votados los asuntos contenidos en el orden del día, salvo cuando con base en consideraciones fundadas, el propio Consejo Distrital o Municipal Electoral acuerde posponer la discusión o votación de algún asunto en particular, sin que ello implique la contravención de disposiciones legales, el Consejero Presidente del Consejo Electoral comunicará tal situación mediante oficio, en forma personal o vía fax, al Secretario Ejecutivo, recabando la constancia de recibo correspondiente.
 
 Aprobado el orden del día, se consultará en votación económica si se dispensa la lectura del documento a tratar en el punto correspondiente y que haya sido previamente circulado, con veinticuatro horas de anticipación. En caso contrario, el Consejero Presidente del Consejo Distrital o Municipal Electoral respectivo ordenará, darle lectura, en forma completa o parcial, a los mismos (sic) por parte del Secretario, según acuerde el Consejo Electoral.
 
 Los integrantes del Consejo Distrital o Municipal Electoral que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano, deberán manifestarlas durante la discusión del punto correspondiente.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 29.
 
@@ -404,11 +392,11 @@ En el supuesto de que el Consejero Presidente no asista o se ausente en forma de
 
 En caso de la no asistencia del Secretario a la sesión, sus funciones serán realizadas por alguno de los Consejeros Electorales que para tal efecto sea designado por el Consejo Electoral, para esa única sesión.
 
-En el caso de la inasistencia a más de tres sesiones acumuladas sin causa justificada, por parte de algún Consejero Electoral o Secretario del Consejo Distrital o Municipal Electoral, el Consejero Presidente, o el Secretario en el caso de que la inasistencia se tratará del primero, notificará mediante oficio, en forma personal o vía fax, al Secretario General la ausencia definitiva que se presente, obteniendo la constancia de recibo respectiva.
+En el caso de la inasistencia a más de tres sesiones acumuladas sin causa justificada, por parte de algún Consejero Electoral o Secretario del Consejo Distrital o Municipal Electoral, el Consejero Presidente, o el Secretario en el caso de que la inasistencia se tratará del primero, notificará mediante oficio, en forma personal o vía fax, al Secretario Ejecutivo la ausencia definitiva que se presente, obteniendo la constancia de recibo respectiva.
 
-Por cada inasistencia de un representante propietario de partido político, el Consejero Presidente del Consejo Distrital o Municipal Electoral lo hará del conocimiento del Consejo General, por conducto del Secretario General, observando para ello las formalidades establecidas.
+Por cada inasistencia de un representante propietario de partido político, el Consejero Presidente del Consejo Distrital o Municipal Electoral lo hará del conocimiento del Consejo General, por conducto del Secretario Ejecutivo, observando para ello las formalidades establecidas.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 30.
 
@@ -428,13 +416,13 @@ El Secretario del Consejo Electoral correspondiente podrá solicitar el uso de l
 
 Cuando nadie pida la palabra, se procederá de inmediato a la votación, en los asuntos que así corresponda o a la simple conclusión del punto, según sea el caso.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 31.
 
 En el curso de las deliberaciones, los integrantes del Consejo Distrital o Municipal Electoral se abstendrán de entablar diálogos con otros miembros del mismo, así como de realizar alusiones personales. En dicho supuesto el Consejero Presidente los conminará a que se conduzcan en los términos previstos por el presente Reglamento.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 32.
 
@@ -442,7 +430,7 @@ Los oradores no podrán ser interrumpidos, salvo por medio de una moción siguie
 
 El Consejero Presidente advertirá al orador que no se desvíe de la cuestión en debate o haga referencia que ofenda a cualquiera de los miembros del Consejo Distrital o Municipal Electoral que corresponda. Si un orador reincidiera en su conducta, el Consejero Presidente le retirará el uso de la palabra, inclusive antes de la tercera advertencia.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 33.
 
@@ -450,7 +438,7 @@ Cualquier miembro del Consejo Distrital o Municipal Electoral podrá realizar mo
 
 Las mociones al orador, además de dirigirse al Consejero Presidente del Consejo Electoral respectivo deberán contar con la anuencia de aquél a quien se hacen. En este caso la intervención del solicitante o peticionario no podrá durar más de un minuto.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 34.
 
@@ -472,7 +460,7 @@ VII. Pedir la aplicación del Reglamento de Sesiones de los Consejos Electorales
 
 Toda moción de orden deberá dirigirse al Consejero Presidente del Consejo Distrital o Municipal Electoral correspondiente, quien consultará al orador si da su aceptación. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 35.
 
@@ -480,29 +468,29 @@ El Secretario del Consejo Distrital o Municipal Electoral correspondiente tomar�
 
 Los acuerdos y resoluciones de los Consejos Distritales y Municipales Electorales se tomarán por mayoría simple de votos de sus miembros con derecho a ello, salvo en los casos en que la ley disponga una mayoría calificada.
 
-El Secretario del Consejo Electoral respectivo hará del conocimiento del pleno el sentido de la votación, la que se tomará contando el número de votos a favor y el número de votos en contra, en ningún los Consejeros Electorales podrán abstenerse de ello, en el supuesto que exista algún impedimento en términos del artículo 50, fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla o por disposición legal aplicable, se comunicará al momento de tomar la votación correspondiente y se asentará en el acta respectiva. El resultado de la votación quedará asentado en el acta circunstanciada.
+El Secretario del Consejo Electoral respectivo hará del conocimiento del pleno el sentido de la votación, la que se tomará contando el número de votos a favor y el número de votos en contra, en ningún caso los Consejeros Electorales podrán abstenerse de ello, en el supuesto que exista algún impedimento en términos del artículo 50, fracción XIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla o por disposición legal aplicable, se comunicará al momento de tomar la votación correspondiente y se asentará en el acta respectiva. El resultado de la votación quedará asentado en el acta circunstanciada.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ### CAPITULO V. DE LOS ACTOS POSTERIORES A LA SESION DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 36.
 
-Dentro de los cinco días hábiles siguientes a la sesión en que fueron aprobados los acuerdos o resoluciones, el Secretario del Consejo Distrital o Municipal Electoral correspondiente deberá remitir, mediante oficio, copia de los acuerdos y resoluciones a los miembros del Consejo Electoral para su debido cumplimiento en al ámbito de sus respectivas atribuciones, así como al Secretario General del Consejo General del Instituto Electoral del Estado, recabando la constancia de recibo que corresponda. El Consejo Distrital o Municipal Electoral podrá determinar que la remisión de los acuerdos y resoluciones se haga en un plazo menor.
+Dentro de los cinco días hábiles siguientes a la sesión en que fueron aprobados los acuerdos o resoluciones, el Secretario del Consejo Distrital o Municipal Electoral correspondiente deberá remitir, mediante oficio, copia de los acuerdos y resoluciones a los miembros del Consejo Electoral para su debido cumplimiento en al (sic) ámbito de sus respectivas atribuciones, así como al Secretario Ejecutivo del Consejo General del Instituto Electoral del Estado, recabando la constancia de recibo que corresponda. El Consejo Distrital o Municipal Electoral podrá determinar que la remisión de los acuerdos y resoluciones se haga en un plazo menor.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 37.
 
 De cada sesión se realizará un acta circunstanciada que contendrá de manera literal los datos de identificación de la sesión, la lista de asistencia, los puntos del orden del día, las intervenciones de los miembros del Consejo Distrital o Municipal Electoral y el sentido de la votación, en cada caso, así como los acuerdos y resoluciones aprobadas.
 
-El acta circunstanciada servirá de base para la formulación del proyecto de acta de cada sesión, el que deberá someterse a aprobación en la sesión ordinaria siguiente a aquella de que se trate. El Secretario del órgano Electoral respectivo deberá entregar a los miembros del Consejo el proyecto de acta de cada sesión en un plazo que no excederá de los quince días siguientes a su celebración.
+El acta circunstanciada servirá de base para la formulación del proyecto de acta de cada sesión, el que deberá someterse a aprobación en la sesión ordinaria siguiente a aquella de que se trate. El Secretario del Organo Electoral respectivo deberá entregar a los miembros del Consejo el proyecto de acta de cada sesión en un plazo que no excederá de los quince días siguientes a su celebración.
 
 En el caso de que así lo autoricen los integrantes del Consejo Distrital o Municipal Electoral, el proyecto de acta podrá enviarse, por fax o por correo electrónico, y recabándose el recibo correspondiente por el mismo medio.
 
-El Consejero Presidente del Consejo Distrital o Municipal Electoral notificará, mediante oficio, en forma personal o vía fax, al Secretario General el cumplimiento, por parte del Organo Electoral correspondiente, de los acuerdos emitidos por el Consejo Distrital o Municipal Electoral y el Consejo General.
+El Consejero Presidente del Consejo Distrital o Municipal Electoral notificará, mediante oficio, en forma personal o vía fax, al Secretario Ejecutivo el cumplimiento, por parte del órgano electoral correspondiente, de los acuerdos emitidos por el Consejo Distrital o Municipal Electoral y el Consejo General.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -547,3 +535,15 @@ P.O. 22 DE JULIO DE 2011.
 PRIMERO. El Consejo General del Instituto Electoral del Estado, aprueba las propuestas de modificación al Reglamento de Sesiones de los Consejos Electorales del Instituto Electoral del Estado, de conformidad con el considerando 3 del presente acuerdo.
 
 SEGUNDO. Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 14 DE MARZO DE 2012.
+
+ARTÍCULOS TRANSITORIOS DE LA REFORMA APROBADA POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO MEDIANTE ACUERDO NÚMERO CG/AC-002/12, TOMADO EN SESIÓN ESPECIAL DE FECHA VEINTITRÉS DE FEBRERO DEL AÑO DOS MIL DOCE
+
+Artículo Primero.- Las reformas al presente Reglamento entrarán en vigor al momento de su aprobación por los integrantes del Consejo General, derogando todas las disposiciones que se opongan a las mismas.
+
+Artículo Segundo.- Con la finalidad de garantizar el adecuado desarrollo de las sesiones del Consejo General, hasta en tanto sea designado el Secretario Ejecutivo del Organismo, la Consejera Electoral, Alicia Olga Lazcano Ponce auxiliara al Consejero Presidente en la conducción de las sesiones que celebre el organismo fungiendo como Secretaria del Consejo.
+
+Para el desarrollo de esta encomienda ambos funcionarios electorales contaran con el apoyo del personal jurídico del Instituto para la ejecución de las actividades que deberán realizarse previo, durante y a la conclusión de las mencionadas sesiones.
+
+Artículo Tercero. El Consejo General del Organismo sesionará de manera especial el próximo nueve de abril del año dos mil doce, con el objeto de aprobar diversas reformas al presente reglamento, derivadas de la revisión integral que del mismo se realice para el mejor desarrollo de las sesiones del Consejo General.
