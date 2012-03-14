@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-la-secretaria-de-la-carrera-judicial-del-84756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2012-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO DE LA SECRETARIA DE LA CARRERA JUDICIAL, DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA SECRETARÍA DE LA CARRERA JUDICIAL DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE MARZO DE 2012.</small>
 
 Reglamento publicado en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de diciembre de 2011.
 
@@ -33,11 +33,11 @@ Reglamento de la Secretaría de la Carrera Judicial
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 1.
 
-El presente reglamento es de observancia general para el Poder Judicial del Estado y tiene por objeto regular la organización y funcionamiento del órgano interno, Secretaría de la Carrera Judicial, de conformidad con los artículos 92.3, 93, 94, 95, 96, 97 y 99 de la Ley Orgánica del Poder Judicial para el Estado de Nayarit.
+El presente reglamento es de observancia general para el Poder Judicial del Estado y tiene por objeto regular la organización y funcionamiento del órgano interno, Secretaría de la Carrera Judicial, de conformidad con los artículos 92.3, 93.1, 94, 95, 96 y 99 de la Ley Orgánica del Poder Judicial para el Estado de Nayarit.
 
 ###### Artículo 2.
 
@@ -77,11 +77,11 @@ Además de su titular, quien tendrá el carácter de Secretario de la Carrera Ju
 
 ### CAPÍTULO II. DEL SECRETARIO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 5.
 
-Para ocupar el cargo de Secretario de la Carrera Judicial deberá reunirse, además de los requisitos previstos en el artículo 93 de la Ley, poseer experiencia en el ámbito académico.
+Para ocupar el cargo de Secretario de la Carrera Judicial deberá reunirse, además de los requisitos previstos en el artículo 93.1 de la Ley, poseer experiencia en el ámbito académico.
 
 ###### Artículo 6.
 
