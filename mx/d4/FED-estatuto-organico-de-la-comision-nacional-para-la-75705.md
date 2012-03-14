@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2011-11-09"
+last_updated: "2012-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2010-06-29"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 9 DE NOVIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2012.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -181,6 +179,10 @@ z) De Programación y Finanzas, y
 
 aa) De Informática y Telecomunicaciones.
 
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+V Bis. Escuela de Estudios Financieros.
+
 VI. Delegaciones, que podrán ser Regionales, Estatales o Locales.
 
 VII. Organos colegiados:
@@ -193,7 +195,13 @@ c) Comité de Dictámenes;
 
 d) Comité de Condonación de Multas;
 
-e) Los demás Comités previstos en otras leyes.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+e) Comité de Acciones Colectivas;
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+f) Los demás Comités previstos en otras leyes.
 
 La Comisión Nacional contará con un Organo Interno de Control, que se regirá conforme al artículo 42 del presente Estatuto Orgánico.
 
@@ -230,6 +238,10 @@ a) Bienes y Servicios;
 b) Personal y Organización, y
 
 c) Planeación.
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+IV Bis. A la Dirección General de Personal y Organización se adscribe la Escuela de Estudios Financieros.
 
 V. Las Delegaciones se adscriben de la siguiente manera:
 
@@ -689,7 +701,7 @@ XXX. Elaborar la información estadística relacionada con los servicios proporc
 
 Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Dictaminación, las contenidas en las fracciones I y de la XX a XXVI, y el de Verificación, Control Normativo y Unidades Especializadas, las contenidas en las fracciones I a XVIII.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -753,13 +765,19 @@ XXVII. Elaborar la información estadística relacionada con los servicios propo
 
 XXVIII. Remitir a la Dirección General de Servicios Legales, en un plazo que no excederá de 10 días hábiles contados a partir del día siguiente a aquél en que haya tenido conocimiento de la infracción de que se trate, los casos en los que presuntamente se ha contravenido la Ley o aquellas disposiciones cuyo incumplimiento corresponda sancionar a la Comisión Nacional, para efectos de que se emplace e imponga la multa correspondiente;
 
-XXIX. (DEROGADA, D.O.F. 18 DE OCTUBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXIX. Ejercitar las acciones colectivas en nombre de los Usuarios, que determine el Comité de Acciones Colectivas, e informar a dicho órgano colegiado sobre el avance y seguimiento de los juicios que se interpongan en esta materia, asimismo, ejercer las atribuciones que le correspondan a la Comisión Nacional en términos de lo dispuesto en el Libro Quinto del Código Federal de Procedimientos Civiles;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXIX Bis. Convocar al Comité de Acciones Colectivas y fungir como secretario del mismo, y
 
 XXX. Denunciar ante las autoridades competentes los hechos, actos u omisiones que constituyan violaciones administrativas en perjuicio de los Usuarios.
 
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Consultivo, las contenidas en las fracciones I, III, VI, VII, XI, XVI y XXII a XXVIII; el de Defensa a Usuarios, las contenidas en las fracciones II, III a V, VIII a X, XII, XV a XVII, XXII, XXVI y XXVII, y el de Interventoría y Asuntos Penales, las contenidas en las fracciones III, XI, XIII, XIV, XVI, XVIII a XXII, XXVI y XXVII.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Consultivo, las contenidas en las fracciones I, III, VI, VII, IX, XI, XVI y XXII a XXVIII; el de Defensa a Usuarios, las contenidas en las fracciones II, III a V, VIII a X, XII, XV a XVII, XXII, XXVI, XXVII, XXVIII, XXIX y XXIX Bis, y el de Interventoría y Asuntos Penales, las contenidas en las fracciones III, XI, XIII, XIV, XVI, XVIII a XXII, XXVI, XXVII, XXVIII y XXX.
 
 ###### Artículo 19.
 
@@ -869,17 +887,25 @@ XLVI. Formular, en coordinación con el Vicepresidente Jurídico, las políticas
 
 XLVII. Ordenar, previa solicitud de la Dirección General de Evaluación y Vigilancia, la suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
-> <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-XLVIII. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
+XLVIII. Ordenar la suspensión, inhabilitación o remoción de los funcionarios, empleados o apoderados de las Entidades Financieras que sean responsables de las infracciones previstas en los artículos 43 y 43 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-XLIX. Substanciar el Procedimiento de Responsabilidad Patrimonial del Estado, de conformidad con la Ley de la materia y la Ley Federal de Procedimiento Administrativo.
+XLIX. Substanciar el Procedimiento de Responsabilidad Patrimonial del Estado, de conformidad con la Ley de la materia y la Ley Federal de Procedimiento Administrativo;
 
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII, XLIII y XLVI; el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
+L. Fungir como coordinador académico de la Escuela de Estudios Financieros, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+LI. Ejercer las atribuciones contenidas en las fracciones I a IV, del artículo 23 Ter del presente Estatuto.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el de Disposiciones, Convenios, Contratos y Recursos de Revisión, las contenidas en las fracciones I a XVII, XIX a XXIII, XXX a XXXIII, XLII, XLIII, XLVI, L y LI; el Contencioso, las contenidas en las fracciones XVIII, XXIV a XXIX, XXXI a XXXIII y XLIX, y el de Arbitraje y Sanciones, las contenidas en las fracciones XXXI a XLI, XLVII y XLVIII.
 
 ###### Artículo 20.
 
@@ -1043,6 +1069,10 @@ XXV Bis. Aplicar al personal de la Comisión Nacional la encuesta de Clima y Cul
 
 XXV Ter. Desarrollar el Programa Anual de Mejora del Clima Laboral en beneficio de los Servidores Públicos de la Comisión Nacional;
 
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XXV Quáter. Fungir como coordinador escolar de la Escuela de Estudios Financieros y ejercer las atribuciones contenidas en las fracciones I y V a VIII, del artículo 23 Ter del presente Estatuto;
+
 > <small>(REFORMADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 XXVI. Controlar y mantener actualizado el registro de las estructuras orgánicas y ocupacionales de la Comisión Nacional, ante las autoridades competentes, y vigilar que sus unidades administrativas se ajusten a las mismas;
@@ -1059,17 +1089,21 @@ XXVIII. Coordinar la elaboración, actualización y difusión de los manuales ad
 
 XXIX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Modelo Estándar de Control Interno Institucional, de conformidad con lo dispuesto en la normativa en la materia;
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-XXX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Proceso de Administración de Riesgos Institucional, de conformidad con lo dispuesto en la normativa en la materia, y
+XXX. Organizar y coordinar, con la participación de las demás unidades administrativas, la implementación y actualización del Proceso de Administración de Riesgos Institucional, de conformidad con lo dispuesto en la normativa en la materia;
 
-> <small>(ADICIONADA, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-XXXI. Participar con la Dirección General de Servicios Legales en la actualización del Estatuto Orgánico de la Comisión Nacional.
+XXXI. Participar con la Dirección General de Servicios Legales en la actualización del Estatuto Orgánico de la Comisión Nacional, y
 
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Ter y el Director de Organización y Selección de Personal, las contenidas en las fracciones III a V y XXVI a XXXI.
+XXXII. Fungir como Titular de la Escuela de Estudios Financieros.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Administración de Personal, las contenidas en las fracciones I, IV y VI a XVIII, el Director de Desarrollo de Personal, las contenidas en las fracciones II, IV y XIX a XXV Quáter y el Director de Organización y Selección de Personal, las contenidas en las fracciones III a V y XXVI a XXXI.
 
 ###### Artículo 23.
 
@@ -1125,9 +1159,43 @@ XXII. Desarrollar y administrar los sitios electrónicos de la Comisión Naciona
 
 Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia: el Director de Informática y Telecomunicaciones, las contenidas en las fracciones III y XVII a XXII; el Director de Programación y Finanzas, las contenidas en las fracciones I, II, IV a XVI.
 
-### CAPITULO V. DE LAS DELEGACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE MARZO DE 2012)</small>
 
-### CAPITULO I. DE LOS CONSEJOS CONSULTIVOS
+### CAPITULO IV BIS. DE LA ESCUELA DE ESTUDIOS FINANCIEROS
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+###### Artículo 23 Bis.
+
+La Escuela de Estudios Financieros tendrá la naturaleza de una unidad administrativa desconcentrada de la Comisión Nacional, la cual estará jerárquicamente subordinada a la Vicepresidencia de Planeación y Administración.
+
+Al frente de la Escuela de Estudios Financieros estará su Titular y dos coordinadores, uno académico, y otro escolar, de acuerdo a lo previsto en el presente Estatuto, y funcionará de acuerdo a los Lineamientos que se emitan para tal efecto.
+
+La Escuela de Estudios Financieros será representada por su Titular y sus coordinadores indistintamente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+###### Artículo 23 Ter.
+
+Corresponde a la Escuela de Estudios Financieros, el ejercicio de las siguientes atribuciones:
+
+I. Elaborar los planes y programas de estudios de cursos, diplomados, especialidades, maestrías, y demás estudios educativos de nivel superior, en materia financiera;
+
+II. Gestionar la celebración de convenios, con la finalidad de llevar a cabo el cumplimiento de las presentes atribuciones;
+
+III. Gestionar, ante las autoridades correspondientes, el reconocimiento de validez oficial de los planes y programas de estudios que imparta, así como los trámites que de forma continua deban realizarse;
+
+IV. Tramitar, conforme a las normas establecidas, los documentos que acrediten los grados académicos, Títulos y Cédulas Profesionales correspondientes a los planes y programas de estudios que imparta la Escuela de Estudios Financieros;
+
+V. Dirigir, coordinar y convocar la impartición de especialidades, maestrías, y demás estudios educativos de nivel superior, conforme a los planes y programas autorizados por las autoridades competentes;
+
+VI. Dirigir, coordinar y convocar la impartición de cursos, diplomados y demás estudios de actualización, de acuerdo a los contenidos temáticos correspondientes;
+
+VII. Expedir los documentos que avalen la acreditación de los planes y programas de estudios que imparte, y
+
+VIII. Promover la obtención de becas para el personal de la Comisión Nacional y someter a la autorización de la Junta, las reglas y procedimientos para su otorgamiento.
+
+### CAPITULO V. DE LAS DELEGACIONES
 
 ###### Artículo 24.
 
@@ -1188,6 +1256,10 @@ X. Atender las reclamaciones y desechar aquellas que sean notoriamente improcede
 XI. Remitir a la Dirección General de Dictaminación y Supervisión, a más tardar al día hábil siguiente al de su recepción, las reclamaciones presentadas en contra de las Instituciones Financieras, para los efectos establecidos en la fracción XIX del artículo 17 del presente Estatuto;
 
 XII. Remitir a la Dirección General de Dictaminación y Supervisión, a más tardar al tercer (sic) hábil siguiente al de la conclusión del procedimiento respectivo, los expedientes conformados con motivo de reclamaciones en contra de instituciones y sociedades mutualistas de seguros, para los fines previstos en el artículo 17, fracción XIX, de este Estatuto;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MARZO DE 2012)</small>
+
+XII Bis. Llevar a cabo la práctica de diligencias, a que se refiere el artículo 68, fracción VI, de la Ley, para lo cual aplicará, en lo conducente, el Reglamento de Supervisión de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la demás normativa que de él deriven.
 
 XIII. Sustanciar los procedimientos de arbitraje previstos en la Ley, así como elaborar los proyectos de laudos y remitirlos a la Dirección General de Servicios Legales para su emisión, dentro de los treinta días hábiles siguientes a la fecha en que concluya el procedimiento arbitral de que se trate;
 
@@ -1277,9 +1349,7 @@ Las atribuciones establecidas en el presente artículo serán ejercidas directam
 
 ## TITULO TERCERO. ORGANOS COLEGIADO
 
-### CAPITULO II. DE LOS COMITES
-
-> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
+### CAPITULO I. DE LOS CONSEJOS CONSULTIVOS
 
 ###### Artículo 29.
 
@@ -1339,7 +1409,9 @@ Los Consejos Consultivos conocerán de los impedimentos que tengan sus miembros 
 
 El impedimento legal será analizado y resuelto desde luego por el Consejo Consultivo, previa deliberación de los demás miembros presentes.
 
-### CAPITULO UNICO. DEL ORGANO INTERNO DE CONTROL
+### CAPITULO II. DE LOS COMITES
+
+> <small>(REFORMADO, D.O.F. 18 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 38.
 
@@ -1348,6 +1420,12 @@ El Comité de Dictámenes será un órgano colegiado que conocerá y, en su caso
 ###### Artículo 39.
 
 El Comité de Condonación de Multas será un órgano colegiado que conocerá sobre las solicitudes de condonación de multas presentadas por las Instituciones Financieras y dictaminará sobre la procedencia de las mismas para, en su caso, someterlas a consideración del Presidente y a la aprobación de la Junta.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+###### Artículo 39 Bis.
+
+El Comité de Acciones Colectivas será un órgano colegiado que analizará la procedencia, determinará la estrategia y aprobará los asuntos en los que se ejercitarán las acciones colectivas de los Usuarios, considerando los alcances jurídicos, políticos y sociales, así como su impacto en el desarrollo del Sistema Financiero Mexicano.
 
 ###### Artículo 40.
 
@@ -1359,7 +1437,7 @@ Los Comités se conformarán y regirán bajo los lineamientos que para tal efect
 
 ## TITULO CUARTO
 
-### CAPITULO UNICO. DE LAS SUPLENCIAS
+### CAPITULO UNICO. DEL ORGANO INTERNO DE CONTROL
 
 ###### Artículo 42.
 
@@ -1368,6 +1446,8 @@ La Comisión Nacional contará con un Organo Interno de Control, que será parte
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en el artículo 80, fracciones I, II y III, del Reglamento Interior de la Secretaría de la Función Pública y demás ordenamientos legales y administrativos aplicables.
 
 ## TITULO QUINTO
+
+### CAPITULO UNICO. DE LAS SUPLENCIAS
 
 ###### Artículo 43.
 
@@ -1407,8 +1487,12 @@ Atentamente
 
 México, D.F., a 29 de junio de 2010.- El Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, Luis Alberto Pazos de la Torre.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 18 DE OCTUBRE DE 2011.
 
 UNICO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2012.
+
+UNICO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
