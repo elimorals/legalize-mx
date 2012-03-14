@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-transparencia-y-acceso-a-la-informacion-del-84896
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2012-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE MARZO DE 2012.</small>
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de diciembre de 2011.
 
@@ -245,15 +245,15 @@ VI. Las demás que en el ámbito de su competencia le confieran la Comisión y e
 
 El Comité será la instancia técnica y ejecutiva encargada de coordinar las acciones necesarias para dar cumplimiento a las disposiciones aplicables en materia de transparencia, protección de datos personales y acceso a la información pública del Poder Judicial.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 21.
 
 El Comité, se integrará por los siguientes servidores públicos:
 
 I. El Secretario General de Acuerdos del Tribunal, quien lo presidirá;
 
-II. El Secretario General de Acuerdos del Consejo, quien fungirá como Secretario Ejecutivo del Comité;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
+
+II. El Secretario de Acuerdos del Consejo, quien fungirá como Secretario Ejecutivo del Comité.
 
 III. El titular de la Unidad de Enlace;
 
@@ -265,9 +265,11 @@ VI. Los Secretarios de Acuerdos de las salas, y
 
 VII. El Jefe de departamento de computación e informática;
 
-Por conducto del presidente del Comité se convocará a los titulares de las unidades administrativas, cuando se trate de algún asunto relacionado con la información de las mismas, quienes tendrán derecho de voz.
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2012)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+Los acuerdos del Comité se adoptarán cuando menos por mayoría de votos. En el caso de que un mismo servidor judicial tenga más de un cargo en el Comité su pronunciamiento se tomará como un solo voto.
+
+Por conducto del presidente del Comité se convocará a los titulares de las unidades administrativas, cuando se trate de algún asunto relacionado con la información de las mismas, quienes tendrán derecho de voz.
 
 ###### Artículo 22.
 
@@ -295,7 +297,9 @@ X. Dar opinión sobre el contenido de los manuales en materia del derecho de acc
 
 XI. Expedir los acuerdos y lineamientos relacionados con la información obligatoria, la protección de datos personales y la reserva de información, correspondiente a los órganos que integran el Poder Judicial;
 
-XII. Elaborar la guía para que las unidades administrativas realicen las versiones públicas de a (sic) información;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
+
+XII. Elaborar la guía para que las unidades administrativas realicen las versiones públicas de acceso a la información;
 
 XIII. Presentar los informes que se le requieran; y
 
@@ -307,15 +311,17 @@ XIV. Las demás que en el ámbito de su competencia se deriven de otros ordenami
 
 La Unidad de Enlace es la instancia operativa encargada de recibir y dar trámite a las solicitudes de acceso a la información y de acceso, cancelación, rectificación y oposición a la publicación de datos personales; así como el vínculo entre los solicitantes y las unidades administrativas del Poder Judicial.
 
-La Unidad de Enlace estará a cargo del titular que designe el Presidente del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+La Unidad de Enlace estará a cargo del titular que designe el Presidente del Consejo de la Judicatura.
 
 ###### Artículo 24.
 
 La Unidad de Enlace tendrá las siguientes funciones:
 
-I. Apoyar en lo correspondiente a la (sic) sesiones ordinarias y extraordinarias de la Comisión de Transparencia;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
+
+I. Apoyar en lo correspondiente a las sesiones ordinarias y extraordinarias de la Comisión de Transparencia;
 
 II. Presentar trimestralmente al Comité de Información:
 
@@ -475,11 +481,11 @@ El Comité, en un plazo no mayor de cinco días hábiles, resolverá lo conducen
 
 Serán públicas las solicitudes de acceso a la información y las respuestas que se les dé incluyendo, en su caso, la información entregada. De cada solicitud se integrará un cuaderno el cual, una vez concluido, se anexará al expediente del que se derive la información.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 40.
 
-No será causa de responsabilidad para las unidades administrativas ni la Unidad de Enlace y Acceso a la Información, la falta de entrega de la información cuando ésta se deba a causas estrictamente técnicas derivada del uso de sistemas informáticos, siempre y cuando quede plenamente documentada la falla, lo anterior no exime de entregar la información a quien haya presentado la solicitud en cuanto le sea posible por el mismo medio solicitado o por estados según sea el caso.
+No será causa de responsabilidad para las unidades administrativas ni la Unidad de Enlace y Acceso a la Información, la falta de entrega de la información cuando ésta se deba a causas estrictamente técnicas derivada del uso de sistemas informáticos, siempre y cuando quede plenamente documentada la falla, lo anterior no exime de entregar la información a quien haya presentado la solicitud en cuanto le sea posible por el mismo medio solicitado o por estrados según sea el caso.
 
 ## TÍTULO SEXTO. DE LOS DATOS PERSONALES
 
@@ -571,8 +577,6 @@ El Poder Judicial contará con servidores públicos debidamente capacitados en m
 
 La Unidad de Enlace, bajo la organización de la Secretaría del ramo, llevará a cabo cursos en materia de transparencia, acceso a la información, así como manejo y protección de datos personales, que se proporcionarán a los servidores públicos y a la ciudadanía en general.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 TRANSITORIOS:
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado. Igualmente deberá ser publicado en el Boletín de Información Judicial, así como en el portal de Transparencia del Poder Judicial.
@@ -589,8 +593,18 @@ SEXTO. Para los efectos del artículo 27 de éste ordenamiento, dentro de un pla
 
 SÉPTIMO. El Consejo de la Judicatura, dictará las medidas necesarias para crear la previsión presupuestal que permita establecer la infraestructura básica de transparencia y acceso a la información en el Poder Judicial.
 
-OCTAVO. El Consejo de la Judicatura, por conducto de las unidades administrativas competentes, establecerán medidas para a la divulgación y capacitación de las funciones de transparencia y acceso a la información pública al interior del Poder Judicial.
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
+
+OCTAVO. El Consejo de la Judicatura, por conducto de las unidades administrativas competentes, establecerán medidas para la divulgación y capacitación de las funciones de transparencia y acceso a la información pública al interior del Poder Judicial.
 
 Dado en la ciudad de Tepic, Nayarit, y aprobado por unanimidad de votos de los integrantes del Pleno del Consejo de la Judicatura del Poder Judicial del Estado, en la Sexta Sesión Ordinaria celebrada el día 06 de diciembre de 2011.
 
 Licenciado Pedro Antonio Enríquez Soto, Magistrado Presidente del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.- Licenciada Dora Lucia Santillán Jiménez, Secretaria de Acuerdos del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MARZO DE 2012.
+
+Artículo primero. Publíquese el presente acuerdo en el Periódico Oficial, órgano del Gobierno del Estado, en el Boletín Judicial y en el portal de transparencia del Poder Judicial del Estado.
+
+Artículo Segundo. La presente adición y reforma, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit y deberá publicarse además en el portal de transparencia del Poder Judicial.
