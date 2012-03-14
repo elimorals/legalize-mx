@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "2009-11-23"
+last_updated: "2012-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -259,7 +259,7 @@ Si la excitativa de justicia se promueve ante el Tribunal Superior, el President
 
 De promoverse la excitativa porque el proyecto de resolución no ha sido presentado al Tribunal Superior, con certificación de la Secretaría General de Acuerdo que corrobore esta circunstancia, dicho órgano colegiado requerirá al magistrado ponente para que lo presente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR AGRARIO
 
@@ -301,7 +301,7 @@ Corresponde al presidente proponer al Tribunal Superior la integración de las c
 
 El Presidente firmará, junto con el Secretario General de Acuerdo, las actas de las sesiones del Tribunal Superior y los engrosamientos de sus resoluciones.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO IV. DEL SECRETARIO GENERAL DE ACUERDOS
 
@@ -345,7 +345,7 @@ XV.- Organizar el padrón de peritos que podrán prestar sus servicios en los di
 
 XVI.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Presidente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO V. DE LA OFICIALIA MAYOR
 
@@ -383,7 +383,7 @@ XIII.- Mantener actualizado el inventario de los bienes de los tribunales agrari
 
 XIV.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Presidente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO VI. DE LA CONTRALORIA INTERNA
 
@@ -435,7 +435,7 @@ XIX.- Intervenir, previa invitación, en los procedimientos de contratación par
 
 XX.- Las demás que se le atribuyan expresamente por el presidente y las que le confieran las leyes y reglamentos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO VII. DE LAS ATRIBUCIONES COMUNES DE LAS UNIDADES TECNICAS Y ADMINISTRATIVAS
 
@@ -471,7 +471,7 @@ IX.- Proporcionar la información que les sea requerida por la Contraloría Inte
 
 X.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Presidente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO VIII. DE LA DIRECCION GENERAL DE ASUNTOS JURIDICOS
 
@@ -547,7 +547,7 @@ VIII. La difusión y promoción de los estudios en los que los Tribunales Agrari
 
 IX. Difundir en el sector campesino y profesional información acerca de las funciones, atribuciones y competencia de los Tribunales Agrarios.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO IX. DE LA INSPECCION DE LOS TRIBUNALES UNITARIOS
 
@@ -647,7 +647,7 @@ Los Magistrados serán auxiliados en sus visitas de inspecciones por el personal
 
 Cada año, mediante acuerdo del Tribunal Superior, se fijará la adscripción de los magistrados inspectores a la región que les corresponda visitar.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO X. DE LOS TRIBUNALES UNITARIOS
 
@@ -657,7 +657,7 @@ Cada año, mediante acuerdo del Tribunal Superior, se fijará la adscripción de
 
 El Tribunal Superior hará la división del país en distritos de justicia agraria en los que ejercerán su jurisdicción los tribunales unitarios, tomando en cuenta los volúmenes de trabajo. Los distritos podrán comprender una o más entidades federativas o regiones de éstas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XI. DEL PERSONAL DE LOS TRIBUNALES UNITARIOS
 
@@ -667,21 +667,27 @@ El Tribunal Superior hará la división del país en distritos de justicia agrar
 
 Los funcionarios y empleados de los tribunales unitarios estarán impedidos para desempeñar otro cargo o empleo público o de particulares, que sea incompatible con el que tienen en dichos tribunales; y estarán impedidos para realizar funciones que sean distintas a las que les corresponden conforme a su cargo, salvo los casos de habilitación o suplencia.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 47 Bis.
 
-Los magistrados de los Tribunales Unitarios Agrarios serán corresponsables con los jefes de las unidades administrativas de lograr la optimización y salvaguarda de los recursos humanos, financieros y materiales, asignados al Tribunal Unitario a su cargo, con estricto apego a la normatividad vigente.
+Los magistrados de los Tribunales Unitarios Agrarios y los secretarios de acuerdos “A”, serán corresponsables con los jefes de las unidades administrativas de lograr la optimización y salvaguarda de los recursos humanos, financieros y materiales, asignados al Tribunal Unitario a su cargo, con estricto apego a la normatividad vigente.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 48.
 
-Los tribunales unitarios podrán contar con secretarios de acuerdos "A" y "B".
+Los Tribunales Unitarios podrán contar con secretarios de acuerdos “A” y “B”.
 
-Los secretarios de acuerdos "A" tendrán las atribuciones que les concede la Ley Orgánica y las que, en lo conducente se le otorgan a la Secretaría General de Acuerdos del Tribunal Superior en el presente Reglamento. Asimismo, serán los facultados para suplir las ausencias de los magistrados, no mayores de quince días, en términos del artículo 8o. fracción IV de la Ley Orgánica de los Tribunales Agrarios, cuando lo autorice el Tribunal Superior.
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+
+Los secretarios de acuerdos “A” tendrán las atribuciones que les concede la Ley Orgánica y las que, en lo conducente se le otorgan a la Secretaría General de Acuerdos del Tribunal Superior en el presente Reglamento, así como aquellas expresamente consignadas en el mismo. Asimismo, serán los facultados para suplir las ausencias de los magistrados, no mayores de quince días, en términos del artículo 8o., fracción IV, de la Ley Orgánica de los Tribunales Agrarios, cuando los autorice el Tribunal Superior.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 Los secretarios de acuerdos "B" seleccionados por el Tribunal Superior entre los secretarios de estudio y cuenta adscritos que reúnan los requisitos del artículo 20 de la Ley Orgánica de los Tribunales Agrarios, sin modificación de sus ingresos, categoría y nivel presupuestal correspondientes, tendrán atribuciones para asistir al magistrado en la celebración de la audiencia de ley y autorizar el acta correspondiente, investidos de fe pública, además de elaborar los proyectos de sentencias y de otras resoluciones que le encomiende el magistrado, así como el cumplimiento de las atribuciones asignadas en las fracciones II y III del artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 Los secretarios de los tribunales unitarios deberán hacer las notificaciones que en casos especiales, les ordene el magistrado.
 
@@ -725,7 +731,7 @@ V.- Todas las intervenciones del magistrado, particularmente las que se previene
 
 VI.- El secretario de acuerdos, bajo su responsabilidad, dará fe de lo asentado en el acta de audiencia.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XII. DE LOS ACTUARIOS
 
@@ -753,7 +759,7 @@ VIII.- Llevar un libro en el que se asienten diariamente las diversas diligencia
 
 IX.- Las demás que les señale la ley.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XIII. DE LOS PERITOS
 
@@ -775,7 +781,7 @@ Para ser incorporados al Padrón, los aspirantes deberán demostrar los conocimi
 
 El arancel que fije los honorarios de los peritos acreditados será aprobado por el Tribunal Superior.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XIV. DE LAS UNIDADES JURIDICAS
 
@@ -785,7 +791,7 @@ El arancel que fije los honorarios de los peritos acreditados será aprobado por
 
 Las unidades jurídicas de los tribunales unitarios tendrán, en lo conducente, las atribuciones previstas por este Reglamento para la Dirección General de Asuntos Jurídicos del Tribunal Superior, que ejercerán conforme a la normatividad y las directrices que fije la men-cionada (sic) Dirección General.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XV. DE LA ITINERANCIA DE LOS TRIBUNALES UNITARIOS
 
@@ -821,7 +827,7 @@ Cuando los distritos agrarios comprendan varias entidades federativas, el magist
 
 Para tal efecto, las disposiciones contenidas en los artículos anteriores se aplicarán en lo conducente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XVI. DE LAS AUSENCIAS Y LAS SUPLENCIAS
 
@@ -881,7 +887,7 @@ Las ausencias del oficial mayor, del director general de asuntos jurídicos y de
 
 Las faltas y licencias de los servidores de base se sujetarán a lo dispuesto por la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XVII. DE LOS IMPEDIMENTOS Y EXCUSAS
 
@@ -925,7 +931,7 @@ En el caso de la fracción I, si la queja fuera interpuesta en contra del Magist
 
 Tratándose de servidores públicos adscritos a los Tribunales Unitarios, la queja se presentará ante el Magistrado que conozca del asunto, que la motivó, quien la remitirá al Tribunal Superior en un plazo de tres días, acompañada de las pruebas en que se funde la misma; así como del informe y las pruebas que ofrezca el servidor público, contra quien se interpuso la queja.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XVIII. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DE LOS TRIBUNALES AGRARIOS
 
@@ -1091,11 +1097,11 @@ SEGUNDO.- La ubicación y ámbito de competencia de los Tribunales Unitarios que
 
 Así lo aprobó el Tribunal Superior Agraria, en sesión celebrada el día 8, del mes de mayo de 1992.- El C. Magistrado, Dr. Sergio García Ramírez, Presidente del Tribunal Superior Agrario.- Rúbrica.- Los CC. Magistrados Dr. Gonzalo M. Armienta Calderón, Lic. Arely Madrid Tovilla, Lic. Luis Porte Petit Moreno y Lic. Rodolfo Veloz Bañuelos, integrantes del Tribunal Superior Agrario; y el Dr. Luis Ponce de León, Secretario General de Acuerdos,.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 20 DE JULIO DE 1993.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 ###### ARTICULO SEGUNDO.
 
@@ -1107,7 +1113,7 @@ Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el B
 
 D.O.F. 1 DE FEBRERO DE 1994.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO.- La presente reforma entrará en vigor a partir de esta fecha.
 
@@ -1115,13 +1121,13 @@ Publíquese en el Diario Oficial de la Federación.
 
 D.O.F. 13 DE JULIO DE 1994.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 10 DE FEBRERO DE 1995.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 Segundo.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1129,13 +1135,13 @@ Tercero.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 7 DE JULIO DE 1997.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación.
 
 D.O.F. 18 DE SEPTIEMBRE DE 1998.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO.- Estas reformas entrarán en vigor el día primero de octubre de este año de mil novecientos noventa y ocho.
 
@@ -1143,7 +1149,7 @@ TERCERO.- Publíquese en el Diario Oficial de la Federación.
 
 D.O.F. 1 DE NOVIEMBRE DE 2000.
 
-> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO.- Estas reformas entrarán en vigor el día primero de noviembre de este año de dos mil.
 
@@ -1163,8 +1169,18 @@ TERCERO.- Publíquese en el Diario Oficial de la Federación.
 
 D.O.F. 23 DE NOVIEMBRE DE 2009.
 
-SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBE ÚNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 ...
 
 Tercero.- Publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE MARZO DE 2012.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+.
+
+SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación.
