@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-para-el-desempeno-de-peritos-de-la-84751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-17"
-last_updated: "2012-03-03"
+last_updated: "2012-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO PARA EL DESEMPEÑO DE PERITOS DE LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO PARA EL DESEMPEÑO DE PERITOS DE LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 3 DE MARZO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 14 DE MARZO DE 2012.</small>
 
 Reglamento publicado en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 17 de diciembre de 2011.
 
@@ -221,11 +219,11 @@ Los aspirantes a desempeñarse como peritos tendrán que reunir los siguientes r
 
 Los intérpretes y peritos traductores de idiomas, deberán contar con certificado expedido por una institución legalmente autorizada que haga constar que cuenta con capacidad como intérprete. Cuando no existan suficientes personas que reúnan este requisito, el Consejo expedirá un acuerdo especial de autorización.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 18.
 
-Para las ramas del conocimiento que conforme a las leyes no se requiera para su ejercicio título profesional expedido por autoridad competente, no se exigirán los requisitos indicados en los numerales 1, 2 y 4 del artículo 15 del presente Reglamento, debiendo únicamente acreditar tener probada experiencia en el arte, ciencia o técnica de que se trate con documento en el que conste su desempeño y el buen desarrollo de las actividades inherentes al mismo.
+Para las ramas del conocimiento que conforme a las leyes no se requiera para su ejercicio título profesional expedido por autoridad competente, no se exigirán los requisitos indicados en los numerales 1, 2 y 4 del artículo 16 del presente Reglamento, debiendo únicamente acreditar tener probada experiencia en el arte, ciencia o técnica de que se trate con documento en el que conste su desempeño y el buen desarrollo de las actividades inherentes al mismo.
 
 ###### Artículo 19.
 
@@ -253,8 +251,6 @@ Los peritos y auxiliares tienen derecho a:
 
 8. Los demás que les otorguen las leyes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 21.
 
 Los peritos y auxiliares tendrán las siguientes obligaciones:
@@ -269,7 +265,9 @@ Los peritos y auxiliares tendrán las siguientes obligaciones:
 
 5. Justificar su negativa a efectuar un dictamen o desempeñar un cargo encomendado, ante el juez que conozca del asunto, quien notificará inmediatamente a la Secretaría en caso de que a su criterio no esté justificada la negativa el perito o auxiliar no justifique a criterio de éste su negativa;
 
-6. Prestar, por lo menos, una vez al año, el servicio social a que se refiere el artículo 22 del presente reglamento;
+> <small>(F. DE E., P.O. 14 DE MARZO DE 2012)</small>
+
+6. Prestar, por lo menos, una vez al año, el servicio social a que se refiere el artículo 23 del presente reglamento;
 
 7. Acudir ante el órgano jurisdiccional las veces que sea requerido;
 
