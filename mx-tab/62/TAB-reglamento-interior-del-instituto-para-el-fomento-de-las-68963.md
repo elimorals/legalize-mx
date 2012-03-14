@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-para-el-fomento-de-las-68963"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-03"
-last_updated: "2009-06-03"
+last_updated: "2012-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANIAS DE TABASCO
 
-REGLAMENTO INTERIOR DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANIAS DE TABASCO
+REGLAMENTO DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de junio de 2009.
 
@@ -33,7 +33,9 @@ CONSIDERANDO.
 
 Por lo anteriormente expuesto, he tenido a bien expedir el siguiente:
 
-REGLAMENTO INTERIOR DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2012)</small>
+
+REGLAMENTO DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA Y ORGANIZACIÓN DEL INSTITUTO
 
@@ -67,9 +69,13 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, el IFA
 
 1. DIRECCIÓN GENERAL
 
-1.1. Secretaría Particular
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
-1.2. Asesor jurídico
+1.1. Unidad Particular
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
+
+1.2. Unidad de Asuntos Jurídicos
 
 1.3. Departamento de Comunicación Social y Relaciones Públicas
 
@@ -133,11 +139,15 @@ XIX. Las demás funciones y comisiones que el Gobernador del Estado le encomiend
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES DE APOYO
 
-#### SECCIÓN I. DE LA SECRETARÍA PARTICULAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2012)</small>
+
+#### SECCIÓN I. DE LA UNIDAD PARTICULAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 7.
 
-Corresponde a la Secretaría Particular el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad Particular el ejercicio de las siguientes atribuciones:
 
 I. Organizar y controlar las audiencias, correspondencia, agenda y archivo del Director General;
 
@@ -163,11 +173,15 @@ XI. Dar puntual seguimiento a los asuntos encomendados por el Director General y
 
 XII. Las demás que le encomiende el Director General.
 
-#### SECCIÓN II. DEL ASESOR JURÍDICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2012)</small>
+
+#### SECCIÓN II. DE LA UNIDAD DE ASUNTOS JURÍDICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 8.
 
-Corresponde al Asesor Jurídico el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
 
 I. Representar legalmente al IFAT, en todas las controversias y trámites judiciales, laborales o administrativos en que tenga interés jurídico, o sea parte, con todas las facultades generales y particulares que se requieran conforme a la Ley;
 
@@ -221,7 +235,9 @@ XXIII. Las demás que determine el Director General.
 
 Corresponde al Departamento de Comunicación Social y Relaciones Públicas el ejercicio de las siguientes atribuciones:
 
-I. Coordinarse con la Dirección General de Imagen y Publicidad Gubernamental, la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura y la Secretaría Particular del IFAT, para establecer los criterios y directrices a seguir para el correcto ejercicio de sus atribuciones, en materia de relaciones públicas;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+
+I. Coordinarse con la Coordinación General de Comunicación Social y Relaciones Públicas de Gubernatura y con la Unidad Particular del IFAT, para establecer los criterios y directrices a seguir para el correcto ejercicio de sus atribuciones, en materia de relaciones públicas;
 
 II. Planear, organizar y coordinar las relaciones entre el IFAT y los medios de difusión conforme a los lineamientos que establezca el Director General;
 
@@ -237,7 +253,9 @@ VII. Planear, programar, dirigir y supervisar los mecanismos que permitan una pe
 
 VIII. Realizar previa autorización del Director General la publicación de los contenidos informativos institucionales;
 
-IX. Coordinar, supervisar y normar que las unidades administrativas cumplan con los lineamientos para difusión de la imagen institucional, de acuerdo a las políticas emitidas por la Dirección General de Imagen y Publicidad Gubernamental y la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+
+IX. Coordinarse, supervisar y normar que las unidades administrativas cumplan con los lineamientos para difusión de la imagen institucional de acuerdo a las políticas emitidas por la Coordinación General de Comunicación Social y Relaciones Públicas de la Gubernatura;
 
 X. Emitir, supervisar y evaluar políticas para la integración de la agenda de presentaciones y entrevistas de las autoridades del IFAT, ante los medios masivos de comunicación;
 
@@ -249,7 +267,9 @@ XIII. Planear, organizar y coordinar las relaciones públicas del IFAT, conforme
 
 XIV. Integrar, coordinar y mantener actualizado el banco de información de directorios de las dependencias del Gobierno Federal, Estatal y Municipal con los que se relacione el IFAT;
 
-XV. Coadyuvar con la Secretaría Particular del IFAT en las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades institucionales;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+
+XV. Coadyuvar con la Unidad Particular del IFAT en las ruedas de prensa, conferencias, foros y entrevistas necesarias para la difusión de las actividades institucionales;
 
 XVI. Redactar y coordinar la correspondencia social, institucional y administrativa, así como coordinar y enviar las invitaciones y. programas, para los eventos generados en las unidades adscritas al IFAT;
 
@@ -323,7 +343,9 @@ XV. Integrar el programa anual de adquisición de materiales, de acuerdo a las n
 
 XVI. Solicitar a las unidades administrativas la información que se requiera, para someterla a consideración del Consejo de Administración;
 
-XVII. Colaborar con el Asesor Jurídico del IFAT, proporcionando la información necesaria para la formulación de las actas de sesión del Consejo de Administración; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+
+XVII. Colaborar con la Unidad de Asuntos Jurídicos del IFA, proporcionando la información necesaria para la formulación de las actas de sesión del Consejo de Administración; y
 
 XVIII. Promover y fomentar programas de capacitación y actualización de los recursos humanos, a fin de contar con personal calificado para el adecuado desarrollo de las actividades artesanales.
 
@@ -407,13 +429,17 @@ El órgano de control y vigilancia del IFAT, se integrará bajo la figura de un 
 
 Las ausencias del Director General que no excedan de quince días serán suplidas por el director que él designe y las que excedan de dicho término, por el servidor público que previo acuerdo del Consejo de Administración se designe.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 17.
 
-En los asuntos de carácter legal y para comparecer ante cualquier autoridad judicial o administrativa el Director General, directores y demás personal podrán ser representados por el Asesor Jurídico, de conformidad con las normas aplicables.
+En los asuntos de carácter legal y para comparecer ante cualquier autoridad judicial o administrativa el Director General, directores y demás personal podrán ser representados quien ocupe la titularidad de la Unidad de Asuntos Jurídicos, de conformidad con las normas aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 18.
 
-Las ausencias temporales de los directores, subdirectores, titulares de unidad y jefes de departamento, serán suplidas por el servidor público, que designe el Director General.
+Las ausencias temporales de los directores, titulares de unidad y jefes de departamento, serán suplidas por el servidor público que designe el Director General.
 
 ## TRANSITORIOS
 
@@ -450,3 +476,11 @@ SECRETARIO DE DESARROLLO ECONÓMICO.
 MTRA. LUZ EVELYN CARDENAS ZURITA
 
 DIRECTORA GENERAL DEL INSTITUTO PARA EL FOMENTO DE LAS ARTESANÍAS DE TABASCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
