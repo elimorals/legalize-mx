@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-derechos-cultura-y-organizacion-de-los-pueblos-y-16660"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2007-07-04"
+last_updated: "2012-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE DERECHOS, CULTURA Y ORGANIZACION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE CAMPECHE
 
-LEY DE DERECHOS, CULTURA Y ORGANIZACION DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE CAMPECHE
+LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 15 de junio de 2000.
 
@@ -98,6 +98,34 @@ La aplicación de esta ley, en el reconocimiento de los derechos, cultura y orga
 ###### Artículo 8.
 
 Es indígena la persona que así lo reivindique, aunque por diversas razones no resida en su comunidad de origen. Bastará el autorreconocimiento de la persona como perteneciente a una etnia indígena para su acreditación como tal.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2012)</small>
+
+###### Artículo 8 Bis.
+
+Para los efectos de esta Ley, se reconocen como comunidades indígenas del Estado de Campeche las siguientes:
+
+En el Municipio de Calkiní las comunidades de: Bacabchén, Becal, Calkiní, Concepción, Dzitbalché, Santa Cruz Ex-Hacienda, Isla Arena (Punta Arena), La Fátima (Cocbilín), Nunkiní, Pucnachén, San Agustín Chunhuás, San Antonio Sahcabchén, San Antonio, Sihó, San Nicolás, Santa Cruz Pueblo, Santa María, Hacienda Tankuché, Tepakán y Xkakoch.
+
+En el Municipio de Carmen las comunidades de: Abelardo L. Rodríguez (El Jobal), Chicbul, Calax, Colonia Emiliano Zapata, Independencia, Chekubul, La Cristalina, Nicolás Bravo, Centauro del Norte, Adolfo López Mateos, La Nueva Esperanza, Los Manantiales, Oxcabal, Generalísimo Morelos, San Isidro Dos, Juan de la Cabada Vera, Conquista Campesina, Felipe Ángeles, Francisco Villa (Mamantel), Pital Viejo, San Isidro y Venustiano Carranza.
+
+En el Municipio de Campeche las comunidades de: Adolfo Ruiz Cortines, Alfredo V. Bonfil, Bethania, Bolonchéncahuich, Carlos Cano Cruz (Los Tlaxcaltecas), Castamay, Crucero Oxá, Chemblás, Chiná, Hobomó, Kicab, Los Laureles, N.C.P. Melchor Ocampo, Xcampeu (Miguel Alemán), Mucuychakán, Nilchí, Uzahzil-Edzná o Nohyaxché, Nohakal, Hontún, Pénjamo, Pich, Pocyaxum, Pueblo Nuevo de Cayal, Quetzal Edzná, La Libertad, Olá (San Agustín), San Antonio Xkix, Bobolá, Cayal, San Camilo, Chencollí, San Francisco Kobén, San Luciano, Tikinmul, Tixmucuy, Uayamón, Nuevo San Antonio Ebulá y El Paraíso.
+
+En el Municipio de Champotón las comunidades de: Ah-Kim-Pech, Aquiles Serdán (Chuiná), Arellano, Canasayab, Cinco de Febrero, Ciudad Sol, Chac Chaito, Chilam Balam, Dzacabuchén, Dzitbalché Castellot Módulo Tres, El Porvenir, El Saraguato, Carrillo Puerto, Haltunchén, Hool, José María Morelos y Pavón (El Cerrito), El Ingenio “La Joya”, Ley Federal de Reforma Agraria, López Mateos (La Desconfianza), Carlos Salinas de Gortari (Módulo Uno), López Portillo No. 2, Nilún, Maya Tecún I, Maya Tecún II, Miguel Colorado, Moquel, Nayarit Castellot (Xnohá), Nueva Esperanza, Nuevo Michoacán, Nuevo San Luis, Pixoyal, Profesor Graciano Sánchez (Cantemó), La Providencia, Pustunich, Revolución, San Agustín, San Antonio del Río, San Antonio Yacasay, San José Carpizo Uno, San José Carpizo Dos, San Fernando, San Juan Carpizo, San Pablo Pixtún, Santo Domingo Kesté, Sihochac, Valle de Quetzalcóatl, Vicente Guerrero, Villa de Guadalupe, Villa Madero, Villamar, Xkeulil, Xbacab, Yohaltún, Kilómetro 67 (Venustiano Carranza), Módulo Nuevo Paraíso, Santa Cruz de Rovira y General Ortiz Ávila.
+
+En el Municipio de Hecelchakán las comunidades de: Blanca Flor, Chunkanán, Dzitnup, Dzohchén, Hecelchakán, Monte Bello, Nohalal, Pocboc, Pomuch, San Vicente Cumpich, Santa Cruz y Zodzil.
+
+En el Municipio de Hopelchén las comunidades de: Bilincox, Bolonchén de Rejón, Cancabchén, Crucero San Luis, Chanchén, Chencoh, Chun-Ek, Chunchintok, Chunhuay-mil, Chunyaxnic, Dzibalchén, El Poste, Francisco J. Mújica (Los Ucanes), Hopelchén, Ich-Ek, Katab, Konchén, Pac-Chén, Pach-Uitz, Ramón Corona (Laguna Volpoch), Rancho Sosa, San Juan Bautista Sahcabchén, San Antonio Yaxché, San Francisco Suc-Tuc, Becanchén, Xtampak, Tres Valles (Can Akal), Ukúm, Vicente Guerrero (Iturbide), Xcanjá, Xcalot-Akal, Xcanahaltún, Xculoc, Xcupil, Xkix, Xmabén, Xmejía y Yaxché-Akal.
+
+En el Municipio de Tenabo las comunidades de: Emiliano Zapata, Kankí, San Pedro, Santa Rita, Santa Rosa, Tenabo, Tinún y Xkuncheil.
+
+En el Municipio de Escárcega las comunidades de: Altamira de Zináparo (Nuevo Zináparo), Belén, Benito Juárez No. 2 (La Polla), Centenario, Chan Laguna, División del Norte, Don Samuel, Lechugal, La Flor de Chiapas, Rodolfo Fierros, Haro, José de la Cruz Blanco, Justicia Social, Kilómetro 74, Kilómetro 36, La Chiquita, La Libertad, La Victoria, Laguna Grande, Las Golondrinas, Benito Juárez No. 3, José López Portillo, Miguel de la Madrid, Luna, Matamoros, Hidalgo (Caracol), Nuevo Progreso No. 2 y Silvituc.
+
+En el Municipio de Calakmul las comunidades de: Xpujil, Dieciséis de Septiembre (Laguna Alvarado), Los Alacranes, Los Ángeles, Arroyo Negro, Becán, Bel-Há, Bella Unión Veracruz (Los Chinos), Blaisillo, La Amapola, Santo Domingo (El Sacrificio), El Carmen II (Las Carmelas), Caña Brava, Centauro del Norte, Cerro de las Flores, El Chichonal, Concepción, Constitución (El Setenta), Cristóbal Colón, Dos Lagunas, Dos Lagunas (sic), Dos Naciones, Emiliano Zapata, N.C.P.E. Felipe Ángeles, Felipe Ángeles II, La Guadalupe, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Heriberto Jara Corona, Hermenegildo Galeana, Ing. Eugenio Echeverría Castellot, E. Echeverría Castellot (El Carrizal), Ing. Ricardo Payro Jene (Polo Norte), José María Morelos y Pavón (Civalito), Josefa Ortíz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas No. 2 (Ojo de Agua), Ley de Fomento Agropecuario (La Misteriosa), La Lucha, El Manantial, Manuel Castilla Brito (El Diecisiete), Lic. Manuel Crescencio Rejón (Frontera Sur), Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Pablo García, Pioneros del Río Xnohá, Plan de Ayala (5 de Mayo), Plan de San Luis, El Porvenir, Puebla de Morelia, Quiché de las Pailas, El Refugio, Ricardo Flores Magón (Laguna Cooxli), Kilómetro 120 (San José), San Miguel, Santa Lucía, Los Tambores de Emiliano Zapata, El Tepeyac, El Tesoro, Tomás Aznar Barbachano (La Moza), Unidad Habitacional, Unidad y Trabajo, Unión 20 de Junio (Mancolona), N.C.P.E. Valentín Gómez Farías, Veinte de Noviembre, Veintiuno de Mayo (Lechugal), La Victoria, La Virgencita de la Candelaria, Xbonil, Zoh-Laguna (Álvaro Obregón) y Las Tres Huastecas (El Vergel).
+
+En el Municipio de Candelaria las comunidades de: Arroyo de Cuba, Arroyo del Julubal, Benito Juárez, El Desengaño, El Machetazo, El Mamey, El Naranjo, Corte Pajaral, El Porvenir, El Tablón, El Tulipán (El Imposible), Emiliano Zapata, Entronque Estado de México, General Francisco J. Mújica, La Esperanza, La Lucha, Las Delicias, Las Golondrinas, El Luinal, Nueva Esperanza, Nuevo Progreso, Pejelagarto, Arroyo San Juan (Las Golondrinas), Nuevo Canutillo (San Manuel), San Martín (El Abalanzadero), San Serapio, Solidaridad, Venustiano Carranza y Vicente Lombardo Toledano (Las Conchas).
+
+Asimismo, todos aquellos asentamientos humanos que tengan identidad común de lengua, usos, costumbres y tradiciones, así como cualquier expresión cultural identificada con un pueblo indígena, serán considerados comunidades indígenas.
 
 ## TÍTULO SEGUNDO. DERECHOS INDÍGENAS
 
@@ -235,7 +263,7 @@ Para la elaboración de los planes y programas de desarrollo de las comunidades 
 
 Toda promoción que presenten los indígenas ante las autoridades estatales o municipales, podrá ser redactada en su propia lengua. Las autoridades tienen la obligación de recibirla, proveyendo en términos de ley, la intervención de un traductor para darle respuesta en su propio idioma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO VII. DE LOS RECURSOS NATURALES
 
@@ -425,10 +453,16 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los catorce días del mes de junio del año dos mil.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LA. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JULIO DE 2007.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que se opongan al contenido del presente decreto.
+
+P.O. 14 DE MARZO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en este decreto.
