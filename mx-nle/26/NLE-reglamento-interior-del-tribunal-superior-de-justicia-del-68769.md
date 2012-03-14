@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2012-01-13"
+last_updated: "2012-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -207,7 +207,7 @@ Alcances de la contradicción. La determinación que se dicte para resolver una 
 
 Oportunidad para denunciar contradicción. La denuncia de contradicción de criterios podrá ser planteada en cualquier tiempo, desde el momento en que haya sido pronunciada la resolución que contenga el criterio que se denuncia como contradictorio, sin perjuicio de los medios extraordinarios de impugnación que la ley prevé para las partes contendientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -269,7 +269,7 @@ Otras atribuciones del Pleno.
 
 Opinión para la confirmación o remoción de jueces. Al Consejo de la Judicatura corresponde resolver sobre la confirmación o remoción de los jueces, en términos de lo prescrito por el artículo 99 de la Constitución del Estado, considerando la opinión del Pleno del Tribunal Superior de Justicia. Para emitir esta opinión, oportunamente se informará a los magistrados, los términos en que estarán a su disposición para consulta, los expedientes generados por el Consejo de la Judicatura y relativos a los jueces cuya confirmación o remoción deba resolverse. También, el Pleno encargará a una comisión de magistrados que elabore y presente, para su aprobación, un proyecto de dictamen en el que se incluya la propuesta de opinión del Pleno, relativa a cada uno de los referidos jueces.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 27.
 
@@ -439,7 +439,7 @@ La Tercera Sala Colegiada Penal, se integrará por los titulares de las salas un
 
 La Cuarta Sala Colegiada Penal, se integrará con los titulares de las salas unitarias Décima, Undécima y Duodécima.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO POR EL QUE SE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2009)</small>
 
@@ -453,13 +453,13 @@ II. Juicios Especiales de Arrendamiento; e,
 
 III. Informaciones de Dominio.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2012)</small>
 
 ###### Artículo 39.
 
 Competencia de las Salas Colegiadas Penales. Las Salas Colegiadas Penales conocerán de los recursos siguientes:
 
-a) De las apelaciones contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
+a) De las apelaciones en artículo y contra las sentencias definitivas derivadas de los delitos que a continuación se precisan:
 
 I. Delitos cometidos contra la seguridad interior del Estado y contra la seguridad pública, tipificados, sancionados y regulados en los artículos 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 161 Bis, 161 Bis 2, 162, 163, 164, 165, 165 Bis y 176 del Código Penal del Estado.
 
@@ -475,11 +475,11 @@ VI. Delitos contra la libertad, tipificados, sancionados y regulados en los art�
 
 VII. Delitos electorales tipificados, sancionados y regulados en los artículos 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425 y 426 del Código Penal del Estado.
 
-VII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado.
+VIII. Delitos contra la salud en su modalidad de narcomenudeo, tipificados, sancionados y regulados en los artículos 473, 475, 476, 477 y 479 de la Ley General de Salud, así como en el Código Penal del Estado,
 
-b) De los recursos de casación y revisión regulados en el Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011.
+b) De los recursos de apelación relativos a los delitos con prisión preventiva de oficio, previstos en el artículo 171 del Código Procesal Penal para el Estado de Nuevo León, publicado en el Periódico Oficial del Estado el 5 de julio de 2011; y de los recursos de casación y revisión regulados en la referida codificación adjetiva.
 
-Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas y de las Salas Unitarias, será competente para conocer de ellos, la Sala Colegiada o Unitaria a la que le corresponda conocer del delito que merezca mayor sanción; y a la privativa de libertad cuando se señalen varias de distinta naturaleza.
+Cuando exista concurso entre delitos del fuero común que sean competencia de las Salas Colegiadas y de las Salas Unitarias, será competente para conocer de ellos la Sala Colegiada.
 
 ###### Artículo 40.
 
@@ -577,7 +577,7 @@ Noticia de asuntos jurisdiccionales. El Secretario General de Acuerdos del Pleno
 
 Los Magistrados titulares de Sala Unitaria, así como los Presidentes de las Salas Colegiadas, remitirán sobre su respectiva Sala, un informe mensual dentro de los ocho días siguientes a la terminación del mismo al Pleno del Tribunal, así como al Pleno del Consejo de la Judicatura, en el cual se detallen los negocios despachados y los que quedaren pendientes de resolver.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN P.O. 23 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN P.O. 23 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO OCTAVO.
 
@@ -635,7 +635,7 @@ VII. Cuando deje de cumplir con alguna de las obligaciones que le impone la ley.
 
 Las faltas en que incurran los peritos podrán ser denunciadas ante el Presidente del Tribunal Superior de Justicia, por cualquiera que tenga noticia de ellas. El trámite de estas denuncias se regirá por las mismas reglas que, conforme al artículo 27 de este reglamento, son aplicables a las quejas formuladas en contra del personal del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 58.
 
@@ -715,7 +715,7 @@ José Antonio Gutiérrez Flores.
 
 Secretario General de Acuerdos de la Presidencia y del Pleno del Tribunal Superior de Justicia del Estado.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE OCTUBRE DE 2009.
 
@@ -748,6 +748,12 @@ SEGUNDO: Se ordena la publicación del presente acuerdo, por una sola vez, en el
 P.O. 13 DE ENERO DE 2012.
 
 PRIMERO: Las presentes reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 14 DE MARZO DE 2012.
+
+PRIMERO: Las presentes reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
