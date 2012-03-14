@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interno-de-los-centros-de-readaptacion-social-y-1225
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-08-17"
-last_updated: "1998-08-17"
+last_updated: "2012-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERNO DE LOS CENTROS DE READAPTACION SOCIAL Y DE LOS CENTROS PREVENTIVOS DE RECLUSION DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO INTERIOR DE LOS CENTROS DE READAPTACION SOCIAL Y DE LOS CENTROS PREVENTIVOS DE RECLUSION DEL ESTADO DE NUEVO LEON
+REGLAMENTO INTERIOR DE LOS CENTROS DE READAPTACIÓN SOCIAL Y DE LOS CENTROS PREVENTIVOS DE RECLUSIÓN DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de agosto de 1998.
 
@@ -639,7 +639,9 @@ II.- Traslado a otro dormitorio.
 
 III.- Suspensión de visita familiar o íntima por tiempo determinado. Por ningún motivo puede suspenderse la visita de sus defensores.
 
-IV.- Aislamiento temporal, no mayor de 15 días, con excepción a lo dispuesto en el artículo 46 segundo párrafo del presente ordenamiento.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2012)</small>
+
+IV.- Aislamiento temporal, no mayor de 36 horas, con excepción a lo dispuesto en el artículo 46 segundo párrafo del presente ordenamiento.
 
 Estas sanciones se impondrán sin perjuicio de la denuncia que se presente al Ministerio Público, en caso de que se presuma la comisión de un delito.
 
@@ -794,3 +796,9 @@ LIC. FERNANDO DE JESÚS CANALES CLARIOND
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSÉ LUIS COINDREAU GARCÍA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE MARZO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
