@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2011-12-19"
+last_updated: "2012-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -395,7 +395,7 @@ Encontrándose la causa o proceso en estado de resolución, presentará el Magis
 
 Con excepción de las sentencias, no será necesario que los acuerdos o determinaciones se asienten en acta, bastando únicamente que se autorice la actuación en los expedientes con la firma de cada Magistrado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 31.
 
@@ -423,7 +423,7 @@ VI.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Pl
 
 La Sala con sede en la Ciudad de Chetumal, tendrá jurisdicción en todo el Estado para conocer en forma exclusiva el recurso de apelación que se interponga en los juicios mercantiles, mismo que contempla el Código de Comercio; así como también conocerá de todos los recursos de apelación que se interpongan en contra de las sentencias definitivas en materia civil, excepción hecha de la materia familiar que continuará siendo competencia de ambas Salas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2001)</small>
 
 ###### Artículo 32.
 
@@ -443,7 +443,7 @@ IV.- De la imposición de correcciones disciplinarias a los litigantes, cuando e
 
 V.- De los demás asuntos que le encomienden las leyes o acuerde el Tribunal Pleno mediante disposiciones generales.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 #### Sección Sexta. De los Magistrados del Tribunal Superior de Justicia
 
@@ -555,7 +555,7 @@ IX.- Legalizar las firmas de los Funcionarios del Poder Judicial del Estado;
 
 X.- Las demás que le confieren las leyes y el Pleno del Tribunal Superior de Justicia.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 45.
 
@@ -591,9 +591,9 @@ X.- Vigilar el debido cumplimiento de sus acuerdos y de los del Tribunal Pleno;
 
 XI.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2012)</small>
 
-XII.- Rendir al Tribunal Pleno en sesión solemne en el mes de marzo de cada año, un informe sobre la impartición de justicia en la entidad y sobre las actividades del Consejo de la Judicatura del Estado;
+XII.- Rendir al Tribunal Pleno en sesión solemne en el mes de agosto de cada año, un informe sobre la impartición de justicia en la entidad y sobre las actividades del Consejo de la Judicatura del Estado;
 
 XIII.- Autorizar la rendición a los Poderes Ejecutivo y Legislativo del Estado y a las autoridades competentes, de los informes que le pidieren y que tengan relación con la actividad del Poder Judicial;
 
@@ -1255,7 +1255,7 @@ VI.- Las demás que las leyes y los Jueces determinen.
 
 ## TITULO TERCERO. DE LA ORGANIZACION ADMINISTRATIVA DEL PODER JUDICIAL
 
-> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. DEL CONSEJO DE LA JUDICATURA
 
@@ -1345,7 +1345,7 @@ XXII.- Fijar los criterios generales de evaluación mensual de juicios iniciados
 
 XXIII.- Las demás que se señalen en el o los reglamentos para hacer efectivas las contenidas en la Constitución del Estado y en esta Ley.
 
-(REUBICADO, ADICIONADO [N. DE E. REFORMADA SU DENOMINACION], P.O. 16 DE DICIEMBRE DE 2003)
+(REUBICADO, ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 16 DE DICIEMBRE DE 2003)
 
 ### CAPITULO II. DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
@@ -1629,7 +1629,7 @@ El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar a los
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
-### CAPÍTULO VI. DEL INGRESO, DE LA FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO VI. DEL INGRESO, FORMACIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -1761,9 +1761,9 @@ IV.- No haber sido inhabilitado por resolución firme para desempeñar cargo, em
 
 V.- Ser nativo de la entidad o tener una residencia efectiva no menor de cinco años en el Estado.
 
-(REUBICADO, ADICIONADO [N. DE E. DEROGADA SU DENOMINACION], P.O. 16 DE DICIEMBRE DE 2003)
+(REUBICADO, ADICIONADO [N. DE E. DEROGADA SU DENOMINACIÓN], P.O. 16 DE DICIEMBRE DE 2003)
 
-## TITULO CUARTO. (REUBICADO, ADICIONADO [N. DE E. REFORMADA SU NUMERACION Y DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)
+## TITULO CUARTO. (REUBICADO, ADICIONADO [N. DE E. REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2003)
 
 ### CAPITULO UNICO. DE LAS INCOMPATIBILIDADES
 
@@ -1785,9 +1785,9 @@ Los servidores públicos del Poder Judicial no podrán prestar sus servicios en 
 
 No podrán ser nombrados para prestar sus servicios en un mismo órgano, unidad o área del Poder Judicial, los cónyuges o parientes por consanguinidad o afinidad dentro del cuarto grado.
 
-(REUBICADO, DEROGADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)
+(REUBICADO, DEROGADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2003)
 
-## TITULO QUINTO. (REUBICADO, ADICIONADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2003)
+## TITULO QUINTO. (REUBICADO, ADICIONADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2003)
 
 ### CAPITULO UNICO. DE LAS RESPONSABILIDADES
 
@@ -1835,7 +1835,7 @@ XIV.- Contravenir alguna disposición prevista por esta Ley; y
 
 XV.- Las demás que determine la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 126.
 
@@ -1929,11 +1929,11 @@ Cuando una queja se interponga sin fundamento, carezca de las formalidades neces
 
 El reglamento interior de trabajo determinará las faltas de los empleados administrativos del Poder Judicial, las correcciones disciplinarias que procedan imponer al infractor y los procedimientos y autoridades competentes para su aplicación, conforme a lo previsto en las Condiciones Generales de Trabajo y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEXTO. DEL FONDO PARA MEJORAMIENTO EN LA ADMINISTRACION E IMPARTICION DE JUSTICIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LOS INTEGRAN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. DE SU ADMINISTRACION
 
@@ -1971,7 +1971,7 @@ El Presidente ordenará que se practique una auditoría, que cuando menos deber�
 
 La Oficina del Fondo para Mejoramiento en la Administración e Impartición de Justicia, estará integrada por el personal administrativo y contable que sea necesario para garantizar su eficiente y eficaz aplicación a los fines y en los términos de la presente Ley.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. DE SU DESTINO
 
@@ -2025,7 +2025,7 @@ EL C. SECRETARIO DE GOBIERNO.
 
 PROFR. RAUL O. SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE SEPTIEMBRE DE 2000.
 
@@ -2098,3 +2098,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE MARZO DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
