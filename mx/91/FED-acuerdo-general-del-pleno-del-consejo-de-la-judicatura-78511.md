@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2012-01-17"
+last_updated: "2012-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2010-11-03"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE MARZO DE 2012.</small>
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
@@ -71,8 +71,6 @@ Las disposiciones de este Acuerdo son de observancia general para los servidores
 
 El Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios de legalidad, honradez, lealtad, eficiencia e imparcialidad que deben observar los servidores públicos obligados; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de éstos, y para regular el registro y seguimiento de la evolución de su situación patrimonial, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 3.
 
 Para los efectos del Acuerdo se entiende por:
@@ -87,9 +85,9 @@ II. Acuse de Recibo Electrónico: Constancia que acredita que un documento digit
 
 III. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012) (F. DE E., D.O.F. 16 DE MARZO DE 2012)
 
-IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal al denunciante y denunciados, como medio de identificación de las personas facultadas en el procedimiento de responsabilidad administrativa en que promuevan para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un procedimiento de responsabilidad administrativa;
+IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea de la Contraloría al denunciante y denunciados, como medio de identificación de las personas facultadas en el procedimiento de responsabilidad administrativa en que promuevan para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un procedimiento de responsabilidad administrativa;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -131,9 +129,9 @@ XIII. Dirección de Correo Electrónico Institucional: Sistema de comunicación 
 
 XIV. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012) (F. DE E., D.O.F. 16 DE MARZO DE 2012)
 
-XV. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio contencioso administrativo federal, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
+XV. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un procedimiento de responsabilidad administrativa, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -151,9 +149,9 @@ XVIII. Procedimiento tradicional: El procedimiento de responsabilidad administra
 
 XIX. Procedimiento de responsabilidad en línea: Substanciación y resolución del procedimiento de responsabilidad administrativa en todas sus etapas, a través del Sistema de Justicia en Línea;
 
-> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012) (F. DE E., D.O.F. 16 DE MARZO DE 2012)
 
-XX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante la propia Contraloría;
+XX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento de responsabilidad administrativa que se sustancie ante la propia Contraloría;
 
 > <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -1385,7 +1383,7 @@ b) En unidades administrativas:
 
 45. En la Contraloría, todos los servidores públicos de confianza.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 23 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 23 DE MAYO DE 2011)</small>
 
 c) En Tribunal Electoral, con excepción de los magistrados electorales, los servidores públicos de la Sala Superior, los coordinadores y demás servidores públicos directamente adscritos a su presidencia, en términos del artículo 222 de la Ley Orgánica:
 
@@ -1973,7 +1971,7 @@ Consejero de la Judicatura Federal
 
 MARIA DOLORES OMAÑA RAMIREZ, SECRETARIA EJECUTIVA DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Procedimiento de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, fue aprobado por el Pleno del Propio Consejo, en lo general en sesión ordinaria de tres de noviembre de dos mil diez y en lo particular en sesión extraordinaria de nueve del mismo mes y año, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín; en contra del voto del señor Consejero César Esquinca Muñoa, quien formuló voto particular.- México, Distrito Federal, a catorce de enero de dos mil once.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE MAYO DE 2011.
 
