@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-01-06"
+last_updated: "2012-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -95,9 +95,9 @@ V.- Efectuará programas dirigidos a los Padres de Familia, que les permitan dar
 
 VI.- Realizará las demás actividades que permitan ampliar la calidad y la cobertura de los servicios educativos, incluyendo los desayunos escolares para las zonas urbanas y rurales que lo requieran.
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con capacidades diferentes; y
+VII.- Atenderá de manera especial, las escuelas en las que se imparta educación especial, o aquellas que acepten para su integración a alumnos con discapacidad, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE ENERO DE 2012)</small>
 
@@ -163,7 +163,9 @@ El Poder Ejecutivo del Estado, expedirá la normatividad necesaria para la aplic
 
 La Educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial en cualquiera de sus tipos, niveles y modalidades, deberá sujetarse a los principios establecidos por el artículo 3ro. de la Constitución Política de los Estados Unidos Mexicanos y tendrá los siguientes fines:
 
-I.- Contribuir al desarrollo integral del individuo, resaltando los valores personales, sociales, éticos y físicos, para que ejerza plenamente sus capacidades humanas.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+I.- Contribuir al desarrollo integral del individuo, resaltando los valores personales, sociales, éticos y físicos, para que ejerza plena y responsablemente sus capacidades humanas.
 
 II.- Favorecer la adquisición tanto de conocimientos científicos y culturales como de actitudes éticas; fomentando igualmente el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y el sentido crítico, así como el sentido de la disciplina, del orden y de la justa libertad.
 
@@ -173,7 +175,9 @@ IV.- Enseñar el Español como lengua nacional común de los mexicanos, sin meno
 
 V.- Infundir el conocimiento y práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones al mejoramiento de la sociedad.
 
-VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar el conocimiento de los valores éticos, los derechos humanos y el respeto a los mismos.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+VI.- Promover el valor de la justicia, de la observancia de la Ley y de la igualdad de los individuos ante ésta, así como propiciar la cultura de la legalidad, de la paz y la no violencia en cualquiera de sus manifestaciones, el conocimiento de los valores éticos, los derechos humanos y el respeto a los mismos.
 
 VII.- Impulsar actitudes que estimulen la investigación e innovación científica y tecnológica, procurando la vinculación con el sector productivo.
 
@@ -181,9 +185,9 @@ VIII.- Impulsar la creación artística y propiciar la adquisición, el enriquec
 
 IX.- Aplicar la educación física y la práctica del deporte.
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la donación y el trasplante de órganos y tejidos, la preservación de la vida, la salud, la institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos.
+X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la donación y el trasplante de órganos y tejidos, la preservación de la vida, la salud, la planeación e institución familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, elevando la autoestima de los educandos, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias.
 
 XI.- Informar y orientar a los educandos sobre los perjuicios que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, así como sus consecuencias nocivas, propiciando el rechazo a los vicios.
 
@@ -209,9 +213,9 @@ XVI.- Fomentar la cultura de la prevención del delito, con el objeto de concien
 
 XVII.- Favorecer el desarrollo de las facultades humanas para adquirir conocimientos, capacidad de observación, análisis y reflexión crítica.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos.
+XVIII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. Adicionalmente, la educación fomentará el entendimiento de los problemas ambientales, así como las medidas para prevenirlo y solucionarlos. Asimismo, se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -297,9 +301,17 @@ XXIII.- El aborar (sic) un Programa Estatal de Becas en el Sistema Educativo Est
 
 XXIV.- Distribuir y entregar uniformes escolares gratuitos a los alumnos de escasos recursos inscritos en las escuelas públicas de los niveles de preescolar, primaria y secundaria, ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación y a través de un Programa Estatal, que funcionará de acuerdo a las normas y lineamientos de operación que la Secretaría emita.
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-XXV.- Las demás atribuciones que emanen del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
+XXV.- Coordinar y operar un padrón estatal de alumnos, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información Educativa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2012)</small>
+
+XXVI.- Participar con la autoridad educativa federal en la operación de los mecanismos de ingreso y promoción en el servicio docente y de administración escolar, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2012)</small>
+
+XXVII.- Las demás atribuciones que emanen del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y las normas reglamentarias correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -353,9 +365,21 @@ El Ejecutivo del Estado sin menoscabo de su propia obligación promoverá la par
 
 Las autoridades educativas establecerán mecanismos, de conformidad con la normatividad vigente, que proporcionen la permanencia de los docentes frente al grupo, con la posibilidad para éstos de ir obteniendo mejores remuneraciones y prestaciones económicas, sociales y profesionales.
 
-El Estado otorgará un salario profesional para que los docentes alcancen un nivel de vida decoroso para su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como para que dispongan del tiempo necesario para la preparación de las clases que impartan y para su perfeccionamiento profesional.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
 
-Las autoridades educativas realizarán actividades que propicien mayor aprecio social por la labor desarrollada por el magisterio y otorgarán reconocimientos, distinciones, estímulos e incentivos a los Trabajadores de la Educación que se destaquen en el ejercicio de su profesión y en la optimización de los recursos destinados a la educación.
+El Estado otorgará un salario profesional digno, que permita al profesorado de los planteles del propio Estado alcanzar un nivel de vida decoroso para ellos y su familia; puedan arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna, así como disponer del tiempo necesario para la preparación de las clases que impartan y para realizar actividades destinadas a su desarrollo personal y profesional.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
+Las autoridades educativas realizarán actividades que proporcionen mayor aprecio social por la labor desarrollada por el magisterio y otorgarán reconocimientos, distinciones, estímulos e incentivos a los Trabajadores de la Educación que se destaquen en el ejercicio de su profesión y en la optimización de los recursos destinados a la Educación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MARZO DE 2012)</small>
+
+Además, establecerán mecanismos de estímulos a la labor docente con base en la evaluación.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
+
+ARTICULO 18 BIS.- Las autoridades educativas del Estado podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
 
 ### CAPITULO III. DEL SISTEMA EDUCATIVO ESTATAL
 
@@ -391,9 +415,11 @@ La educación que impartan el Estado, los municipios, sus organismos descentrali
 
 Las instituciones del Sistema Educativo Estatal, impartirán la educación, basadas en normas de competencia internacional, de manera que ésta permita al educando incorporarse a la sociedad como un elemento positivo y competitivo para desarrollar una actividad productiva que le facilite superarse académicamente y culturalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 21.
 
-El educador es promotor, coordinador y agente directo del proceso educativo, por lo tanto el Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquier tipo y modalidad, deberán proporcionar los medios necesarios y adecuados que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
+El educador es promotor, coordinador, facilitador y agente directo del proceso educativo, por lo tanto el Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquier tipo y modalidad, deberán proporcionar los medios necesarios y adecuados que le permitan realizar eficazmente su labor y que contribuyan a su constante perfeccionamiento.
 
 Para ejercer la docencia en instituciones establecidas por el Estado, los municipios, sus organismos descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, los docentes deberán satisfacer los requisitos establecidos en esta Ley o aquellos que le señalen las autoridades competentes.
 
@@ -519,11 +545,11 @@ Para ser docente de educación indígena, se requiere tener como mínimo la educ
 
 El Estado y los municipios promoverán el mejoramiento de la nutrición de los niños indígenas, mediante programas y acciones que permitan una alimentación balanceada de los mismos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 34.
 
-La educación especial está destinada a individuos con capacidades diferentes transitorias o definitivas, así como aquéllas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
+La educación especial está destinada a personas con discapacidad transitoria o definitiva, así como aquellas con aptitudes sobresalientes. Debe atender a los educandos de manera adecuada a sus propias condiciones, con equidad social.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -619,9 +645,11 @@ VIII.- Promoverá la constante actualización y superación académica del magis
 
 IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los valores éticos necesarios para la convivencia social, respetuosa de los derechos humanos, de todas las manifestaciones de vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 44.
 
-La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluído la educación básica y comprende entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con las particularidades correspondientes a cada población, debiendo basarse en la solidaridad social.
+La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación básica y comprende entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo, con las particularidades correspondientes a cada población, debiendo basarse en la participación y la solidaridad social.
 
 El Estado y los municipios podrán organizar servicios permanentes de promoción y asesoría de educación para adultos y darán las facilidades necesarias a sus trabajadores y familiares para estudiar la educación primaria y la secundaria.
 
@@ -763,7 +791,9 @@ II.- Obtener la inscripción en escuelas públicas o particulares para que sus h
 
 III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquellas se avoquen a su solución.
 
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social a que se refiere este capítulo.
 
 V.- Colaborar con las autoridades escolares para la superación de los educandos, en los términos del Proyecto Educativo del Estado, así como coadyuvar en el mejoramiento de los planteles escolares.
 
@@ -771,9 +801,9 @@ VI.- Notificar verbalmente o por escrito a las autoridades escolares y educativa
 
 VII.- Opinar ante las autoridades educativas en relación a las tarifas y demás contraprestaciones que las escuelas particulares fijen.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-VIII.- Conocer las calificaciones, resultados de las evaluaciones parciales y finales de sus hijos o pupilos, y
+VIII.- Conocer las calificaciones, resultados de las evaluaciones parciales y finales de sus hijos o pupilos, así como las observaciones sobre el desempeño académico de los propios educandos que permitan lograr mejores aprovechamientos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2007)</small>
 
@@ -787,9 +817,13 @@ X.- Una vez reconocido su carácter de asociados conforme a esta Ley y su Reglam
 
 XI.- Ser informados por su Asociación de padres de familia, de la administración de los fondos, y situación financiera, y de todas las actividades que realicen en su gestión; y
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007) (F. DE E., P.O. 6 DE JULIO DE 2007)
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-XII.- Las demás establecidas en las leyes y reglamentos respectivos.
+XII.- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2012)</small>
+
+XIII.- Las demás establecidas en las leyes y reglamentos respectivos.
 
 ###### ARTICULO 61.
 
@@ -933,9 +967,11 @@ Los consejos sectoriales o de delegación municipal estarán integrados por el D
 
 Estos consejos tendrán las facultades establecidas para los consejos escolares y coadyuvarán con los consejos municipales en las actividades que les sean encomendadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 71.
 
-En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, docentes distinguidos y directivos de escuelas, representantes de la organización sindical de los trabajadores de la educación, representantes de organizaciones sociales y todas aquellas personas interesadas en el mejoramiento de la educación.
+En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, docentes distinguidos y directivos de escuelas, representantes de la organización sindical de los trabajadores de la educación, representantes de organizaciones sociales cuyo objeto social sea la educación y todas aquellas personas interesadas en el mejoramiento de la educación.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
 
@@ -971,11 +1007,55 @@ XIII. En general, podrán realizar actividades para apoyar y fortalecer la educa
 
 Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación; así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo, para lo cual deberá apoyar el funcionamiento del Consejo Municipal con los recursos humanos y materiales que requieran el despacho oportuno de sus asuntos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 72.
 
-En el Estado funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. En dicho consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, trabajadores de la educación y representantes de su organización sindical, instituciones formadoras de docentes, autoridades educativas estatales y municipales, así como de sectores sociales del Estado especialmente interesados en la educación.
+En el Estado funcionará un consejo estatal de participación social en la educación, como órgano de consulta, orientación y apoyo. En dicho consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, trabajadores de la educación y representantes de su organización sindical, instituciones formadoras de docentes, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto sea la educación, así como de sectores sociales y productivos del Estado especialmente interesados en la educación.
 
-Este consejo promoverá y apoyará actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social, coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar, sistematizará los elementos y aportaciones relativos a las particularidades del Estado que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio, podrá opinar en asuntos pedagógicos, conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares, sectoriales o delegacionales y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo, conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
+Para tal efecto, el Consejo Estatal se integrará de la siguiente manera:
+
+I. Como representantes de la sociedad civil por:
+
+a) El Presidente de la Asociación Estatal de Padres de Familia;
+
+b) El Presidente del Consejo Coordinador Empresarial de cada municipio o a quien éste designe;
+
+c) Los Consejeros Presidentes de los consejos Municipales;
+
+d) Dos representantes de los medios masivos de comunicación de cobertura estatal, invitados por el Consejero Presidente;
+
+e) Un representante de una institución privada de Educación Superior, propuesto por la Comisión Estatal para la Planeación de la Educación Superior, y
+
+f) Dos representantes de organizaciones civiles en materia educativa, previa invitación del Consejero Presidente.
+
+II. Como representantes del sector gubernamental por:
+
+a) El Secretario de Educación y Bienestar Social;
+
+b) El Subsecretario de Educación Básica;
+
+c) Un representante de una institución pública de Educación Superior propuesta por la Comisión Estatal para la Planeación de la Educación superior;
+
+d) Un representante de una institución formadora de docentes en el Estado;
+
+e) Un representante de la Comisión de Educación del Congreso del Estado;
+
+f) El Director de la Unidad de Evaluación Educativa;
+
+g) El Director del Instituto de Cultura de Baja California, o quien este designe, y
+
+h) Un representante del Instituto del Deporte y la Cultura Física de Baja California.
+
+III. Como representantes sindicales por:
+
+a) Un representante de la Sección 2 del Sindicato Nacional de Trabajadores de la Educación, designado por su sección, y
+
+b) Un representante de la sección 37 del Sindicato Nacional de Trabajadores de la Educación, designado por su sección.
+
+La elección del Consejero Presidente de este órgano recaerá en un representante de la sociedad civil de entre los que compongan dicho Consejo.
+
+Este Consejo promoverá y apoyará actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social, coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar, sistematizará los elementos y aportaciones relativos a las particularidades del Estado que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio, podrá opinar en asuntos pedagógicos, conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares, sectoriales o delegacionales y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo, conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
 ###### ARTICULO 73.
 
@@ -1370,3 +1450,11 @@ CUARTO.- El Ejecutivo Estatal destinará de forma gradual y de acuerdo a la disp
 QUINTO.- En ejercicio de las facultades conferidas al Poder Ejecutivo estatal en el artículo 15 fracción III de la Ley de Educación para el Estado, propondrá a la Secretaría de Educación Pública dentro del primer ciclo escolar para el año 2012, dentro de los contenidos regionales, el tema relativo a la formación y educación en el nivel básico, sobre la importancia en la implementación de la cultura de la donación y el trasplante de órganos y tejidos, para fortalecer la actitud solidaria de todos los educandos, en la preservación de la salud como una alternativa de vida.
 
 SEXTO.- El Ejecutivo del Estado hará las previsiones presupuestales para el Ejercicio Fiscal 2012 a efecto de dotar de presupuesto a los Programas Estatales de Becas y Uniformes Escolares.
+
+P.O. 16 DE MARZO DE 2012.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las erogaciones que deban realizarse a fin de dar cumplimiento a las presentes reformas, se sujetarán a los recursos aprobados para tales fines por el Congreso del Estado, en el respectivo presupuesto de egresos.
+
+TERCERO.- La constitución de los sistemas y registros a que hace referencia la fracción XXV del artículo 15 se llevarán a cabo con base en la disponibilidad presupuestal y de manera gradual con la participación coordinada de las autoridades educativas de los órdenes de gobierno correspondiente
