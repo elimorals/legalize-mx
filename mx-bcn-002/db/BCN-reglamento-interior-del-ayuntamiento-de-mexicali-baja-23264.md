@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2011-09-09"
+last_updated: "2012-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -183,9 +183,11 @@ V.- Participar en las sesiones de Cabildo donde ejercerá derecho de voz y voto;
 
 VI.- Las demás que estipulen las leyes y reglamentos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 9.
 
-Atribuciones de los Regidores.-
+Los Regidores forman parte del cuerpo colegiado que delibera, analiza, resuelve, evalúa, controla y vigila los actos de administración y del Gobierno Municipal, además de ser los encargados de vigilar la correcta prestación de los servicios públicos, así como el adecuado funcionamiento de los diversos ramos de la Administración Pública Municipal, por lo que tendrán las siguientes atribuciones:
 
 I. Participar en las sesiones de Cabildo y en la gestión de los intereses del Municipio en general y de las demarcaciones territoriales interiores en su caso, de conformidad con lo que al efecto establezca esta reglamentación;
 
@@ -197,7 +199,13 @@ III. Obtener del Presidente Municipal, información, datos o antecedentes relati
 
 IV. Suplir al Presidente Municipal en sus ausencias y licencias, y
 
-V. Las demás relativas a su función, que el propio Ayuntamiento establezca en los acuerdos respectivos.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+V. Citar a cualquier funcionario de la Administración Pública Municipal cuando se discuta algún asunto de las funciones ejecutivas que le competen; sus funciones ejecutivas sólo podrán ejercerse como cuerpo colegiado.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2012)</small>
+
+VI. Las demás relativas a su función, que el propio Ayuntamiento establezca en los acuerdos respectivos.
 
 ###### ARTICULO 10.
 
@@ -1468,3 +1476,11 @@ P.O. 9 DE SEPTIEMBRE DE 2011.
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO: Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 16 DE MARZO DE 2012.
+
+SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO…
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
