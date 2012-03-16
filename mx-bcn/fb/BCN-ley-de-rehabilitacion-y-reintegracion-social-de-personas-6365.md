@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-rehabilitacion-y-reintegracion-social-de-personas-6365"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-13"
-last_updated: "2000-11-03"
+last_updated: "2012-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCION Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCION Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DE REHABILITACIÓN Y REINTEGRACIÓN SOCIAL DE PERSONAS CON PROBLEMAS DE DROGADICCIÓN Y ALCOHOLISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 13 de octubre de 1995.
 
@@ -43,9 +43,11 @@ LEY DE REHABILITACION Y REINTEGRACION SOCIAL DE PERSONAS CON PROBLEMAS DE DROGAD
 
 La presente Ley es de Orden Público y de interés social, su objeto es regular la prestación de asistencia integral a individuos con problemas de drogadicción y alcoholismo que deseen rehabilitarse y reintegrarse a la sociedad, fomentando en ellos la dedicación al trabajo y al estudio, así como el respeto a la dignidad de su persona y la de sus semejantes.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 2.
 
-El Estado y la Sociedad asumen la tarea de rehabilitar y reintegrar a la vida productiva a personas con problemas de drogadicción y alcoholismo, mediante la creación de centros de rehabilitación y capacitación que otorguen tratamiento individual y progresivo y atienda los aspectos físicos, mental y social en forma conjunta con los padres, tutores, cónyuges, hijos o quienes mantengan lazos firmes de unión con el drogadicto o alcohólico.
+El Estado y la Sociedad asumen la tarea de brindar oportunidades de rehabilitación y reintegración a la vida productiva a personas con problemas de drogadicción y alcoholismo, mediante la creación de centros de rehabilitación y capacitación que otorguen tratamiento y atiendan los aspectos físicos, mentales y sociales en forma conjunta cuando sea posible, con los padres, tutores, cónyuges, hijos o quienes mantengan lazos firmes de la unión con el drogadicto o alcohólico.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2000)</small>
 
@@ -179,7 +181,9 @@ VII.- Proponer al Ejecutivo del Estado la celebración de Convenios o Acuerdos d
 
 VIII.- Promover a través de los medios de difusión las medidas preventivas y los servicios existentes, así como favorecer el desarrollo del sentido de la solidaridad social en esta materia.
 
-IX.- Determinar la rehabilitación de los usuarios de los Centros de Rehabilitación tanto públicos como privados, y expedir a su favor, certificado de rehabilitación que haga constar ésta, y que tendrá validez ante cualquier organismo público o privado del Estado de Baja California.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+IX.- Determinar la rehabilitación de los usuarios de los Centros de Rehabilitación tanto públicos como privados.
 
 X.- Actuar como órgano orientador sobre la forma de elaboración de certificados de detección de uso de substancias tóxicos controladas, para uso público o privado.
 
@@ -187,9 +191,11 @@ XI.- Llevar un registro de los Centros de Rehabilitación y Prevención que oper
 
 ### CAPITULO II. PRESTACION DEL SERVICIO
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 9.
 
-Las instituciones públicas y privadas deberán asegurar la atención a la persona que lo requiera, para garantizar su rehabilitación y la integración a su entorno social, después de concluido el tratamiento normal, por un período en el que se extenderá la observación de su conducta en sociedad a efectos de prevenir su reincidencia.
+Las instituciones públicas y privadas prestarán atención a la persona que lo requiera y cumpla los requisitos de ingreso de cada institución, para promover su rehabilitación e integración a su entorno social, intentando dar el seguimiento necesario para prevenir la reincidencia.
 
 ###### ARTICULO 10.
 
@@ -217,21 +223,29 @@ VI.- Reintegración Social.
 
 ### CAPITULO III. DE LOS CENTROS DE REHABILITACION
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 13.
 
-Los Centros de Rehabilitación ya sean públicos o privados podrán contar con personal que no obstante no cuenten con preparación profesional, por ser rehabilitados o hayan trabajado con este tipo de personas, tengan la capacidad necesaria para cumplir con la función encomendada.
+Los Centros de Rehabilitación contarán con el personal capacitado para el tratamiento de esta entidad nosológica médico-psiquiátrica, además de poder ser auxiliados en sus funciones por personal que no cuente con la capacitación profesional. Las labores que se practiquen dentro del centro de rehabilitación, deberán ser dirigidas y supervisadas por el personal médico y psicológico.
 
 ###### ARTICULO 14.
 
 Serán funciones de los Centros de Rehabilitación públicos o privados, sin perjuicio de las que establezcan sus reglamentos internos y las disposiciones recomendadas por el Organo Coordinador a que se refiere esta Ley, las siguientes:
 
-I.- Efectuar una entrevista personal entre el coordinador general del centro y el solicitante, en primer término, a fin de determinar aspectos en el grado de afección física y moral así como de su personalidad.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
-II.- En segundo término se entrevistará con todos los miembros de la familia para determinar las limitaciones del entorno familiar que estén afectando tanto al drogadicto como a la familia misma.
+l.- Efectuar una entrevista personal entre el coordinador general del centro y el solicitante, en primer término, efectuar una historia clínica, acorde a los lineamientos de la Norma Oficial Mexicana 168-SSA1-1998 y realizar una evaluación psicológica, a fin de determinar aspectos en el grado de afección física, así como de su personalidad.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+II.- En segundo término, se entrevistará a los miembros de la familia que acudan a la cita para determinar las limitaciones del entorno familiar que estén afectando tanto al drogadicto o alcohólico como a la familia misma.
 
 III.- Emitir un informe diagnóstico en el que se señalará la orientación terapéutica a seguir, el tratamiento necesario de acuerdo a las posibilidades de rehabilitación, así como seguimiento y revisión del mismo.
 
-IV.- Para efectos de lograr la rehabilitación y reintegración del adicto, el tratamiento se basará en un enfoque multidisciplinario que consiste en una evaluación inicial, que incluye exámenes de laboratorio y gabinete, terapia personal; terapia grupal con los miembros del centro con técnicas de autoregistro; terapia intrafamiliar; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol. Atención de enfermedades físicas y mentales, así como aquellos mecanismos y tratamientos establecidos por la Secretaría de Salud Pública.
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
+
+IV.- Para efectos de lograr la rehabilitación y reintegración del adicto, el tratamiento se basará en un enfoque multidisciplinario que podrá consistir en una evaluación inicial, que incluye exámenes de laboratorio y gabinete, terapia personal; terapia grupal con los miembros del centro con técnicas de autoregistro; terapia intrafamiliar; control del síndrome de abstinencia y del período de postramiento, ayuda para mantenerse sin droga o alcohol. Atención de enfermedades físicas y mentales por personal capacitado, así como aquellos mecanismos y tratamientos establecidos por la Secretaría de Salud Pública.
 
 V.- Los Centros de rehabilitación crearán además talleres pre-ocupacionales y tendrán la responsabilidad de su administración y operación.
 
@@ -239,9 +253,11 @@ V.- Los Centros de rehabilitación crearán además talleres pre-ocupacionales y
 
 ### CAPITULO IV (SIC). REHABILITACION, EDUCACION Y TRABAJO
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 15.
 
-Se entiende por rehabilitación el conjunto de medidas médicas, psicológicas, sociales, espirituales, educativas y ocupacionales que tienen por objeto que los alcohólicos y drogadictos puedan recuperarse a fin de realizar actividades que les permitan ser útiles así mismos, a su familia y a la sociedad.
+Se entiende por rehabilitación el conjunto de medidas médico-psiquiátricas, psicológicas, sociales, educativas, recreativas y ocupacionales que tienen por objeto que los alcohólicos y drogadictos puedan recuperarse a fin de realizar actividades que les permitan ser útiles a sí mismos, a su familia y a la sociedad.
 
 ###### ARTICULO 16.
 
@@ -255,9 +271,11 @@ Las políticas educativas y la normatividad relativa a la educación vinculada c
 
 En materia de capacitación laboral, se coordinará con la Secretaría del Trabajo y Previsión Social y Dirección de Trabajo y Previsión Social del Estado, así como con los Organismos responsables de los diversos sectores productivos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 19.
 
-Coordinar con la Secretaría del Trabajo y Previsión Social la inscripción de rehabilitados en las bolsas de trabajo que se ofrecen a la (sic) empresas integradas para la incorporación de éstos, a las actividades económicas.
+Coordinar con la Secretaría del Trabajo y Previsión Social la inscripción de pacientes en rehabilitación en las bolsas de trabajo que se ofrecen a las empresas integradas para la incorporación de éstos, a las actividades económicas, con respeto absoluto al secreto profesional que imperará en todos los casos.
 
 ###### ARTICULO 20.
 
@@ -370,3 +388,9 @@ TERCERO.- El Instituto de Servicios de Salud Pública del Estado de Baja Califor
 CUARTO.- En un plazo de veinte días hábiles siguientes a la entrada en vigor de este Decreto, el Sistema para el Desarrollo Integral de la Familia, por conducto del Gobernador del Estado, en un acto de entrega-recepción, informará y turnará los asuntos que en ejercicio de esta Ley, se hayan efectuado o estén pendientes de realizarse al Instituto de Servicios de Salud Pública en el Estado de Baja California.
 
 QUINTO.- La alusión al Titular de la Secretaría de Desarrollo Social que se realza en el presente Decreto, se entenderá referida al Titular de la Coordinación de la Desarrollo Social del Estado, hasta en tanto se apruebe la creación de la Secretaría de Desarrollo Social.
+
+P.O. 16 DE MARZO DE 2012
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
