@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-entrega-recepcion-de-las-dependencias-y-4837
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-20"
-last_updated: "2007-12-11"
+last_updated: "2012-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO PARA LA ENTREGA-RECEPCION DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO
 
-REGLAMENTO PARA LA ENTREGA-RECEPCION DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO
+REGLAMENTO PARA LA ENTREGA-RECEPCIÓN DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA ENTREGA-RECEPCIÓN DE LAS DEPENDENCIAS Y ENTIDADES DEL PODER EJECUTIVO DEL ESTADO, PUBLICADO EN EL P.O. DE FECHA 16 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de enero de 2006.
 
@@ -495,10 +497,24 @@ EL SECRETARIO DE LA GESTIÓN PÚBLICA
 
 JORGE ALBERTO ROMERO HIDALGO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE DICIEMBRE DE 2007.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MARZO DE 2012.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento para la Entrega-Recepción de las Dependencias y Entidades del Poder Ejecutivo del Estado.
+
+Término para implementar el Sistema
+
+Artículo Tercero. La Secretaría deberá implementar las actualizaciones al Sistema a más tardar el 1 de junio del 2012, durante este periodo se deberán desarrollar los procesos de entrega-recepción en el sistema actual.
