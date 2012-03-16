@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-84648"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-01-17"
-last_updated: "2012-01-17"
+last_updated: "2012-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84648&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-01-09"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DEL ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, PUBLICADO EL VEINTICUATRO DE ENERO DE DOS MIL ONCE]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 3, FRACCIONES II A XVII, 145, INCISO B), PUNTOS 2 A 22 Y ÚLTIMO PÁRRAFO, 148, PRIMER PÁRRAFO, LAS FRACCIONES I, II Y III, Y EL PENÚLTIMO PÁRRAFO, 149, FRACCIONES I Y II, Y 150, PRIMER PÁRRAFO; ADICIONA LAS FRACCIONES XVIII A XXXI AL ARTÍCULO 3, UN TERCER PÁRRAFO AL ARTÍCULO 86, UN TERCER, CUARTO Y QUINTO PÁRRAFOS AL ARTÍCULO 137, LOS PUNTOS 23 A 45 AL INCISO B) DEL ARTÍCULO 145, DOS ÚLTIMOS PÁRRAFOS AL ARTÍCULO 148, UN SEGUNDO PÁRRAFO AL ARTÍCULO 150, Y EL CAPITULO V AL TÍTULO CUARTO; Y, DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 148, DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTICUATRO DE ENERO DE DOS MIL ONCE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE MARZO DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de enero de 2012.
 
@@ -63,8 +63,6 @@ En consecuencia, con fundamento en las disposiciones constitucionales y legales 
 
 ACUERDO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 UNICO.- Se reforman los artículos 3, fracciones II a XVII, 145, inciso b), puntos 2 a 22 y último párrafo, 148, primer párrafo, las fracciones I, II y III, y el penúltimo párrafo, 149, fracciones I y II, y 150, primer párrafo; se adicionan las fracciones XVIII a XXXI al artículo 3, un tercer párrafo al artículo 86, un tercer, cuarto y quinto párrafos al artículo 137, los puntos 23 a 45 al inciso b) del artículo 145, dos últimos párrafos al artículo 148, un segundo párrafo al artículo 150, y el Capítulo V al Título Cuarto; y se deroga el segundo párrafo del artículo 148, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial, para quedar como sigue:
 
 “Artículo 3.- Para los efectos del Acuerdo se entiende por:
@@ -75,7 +73,9 @@ II. Acuse de Recibo Electrónico: Constancia que acredita que un documento digit
 
 III. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
-IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea del Tribunal al denunciante y denunciados, como medio de identificación de las personas facultadas en el procedimiento de responsabilidad administrativa en que promuevan para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un procedimiento de responsabilidad administrativa;
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 2012)</small>
+
+IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea de la Contraloría al denunciante y denunciados, como medio de identificación de las personas facultadas en el procedimiento de responsabilidad administrativa en que promuevan para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un procedimiento de responsabilidad administrativa;
 
 V. Comisión: Comisión de Disciplina del Consejo de la Judicatura Federal;
 
@@ -97,7 +97,9 @@ XIII. Dirección de Correo Electrónico Institucional: Sistema de comunicación 
 
 XIV. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
-XV. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un juicio contencioso administrativo federal, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 2012)</small>
+
+XV. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un procedimiento de responsabilidad administrativa, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
 
 XVI. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento;
 
@@ -107,7 +109,9 @@ XVIII. Procedimiento tradicional: El procedimiento de responsabilidad administra
 
 XIX. Procedimiento de responsabilidad en línea: Substanciación y resolución del procedimiento de responsabilidad administrativa en todas sus etapas, a través del Sistema de Justicia en Línea;
 
-XX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante la propia Contraloría;
+> <small>(F. DE E., D.O.F. 16 DE MARZO DE 2012)</small>
+
+XX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento de responsabilidad administrativa que se sustancie ante la propia Contraloría;
 
 XXI. Ley de Responsabilidades: Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
