@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-71415"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-18"
-last_updated: "2010-09-10"
+last_updated: "2012-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
 
 Ley publicada en la Trigésima Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 18 de diciembre de 2009.
 
@@ -943,6 +943,84 @@ Cuando se trate de revocación o renuncia de un poder que no haya sido extendido
 
 En su caso, y si se le proporcionaren los informes necesarios, librará igual oficio a la Dirección del Archivo de Notarías en que se encuentre depositado el protocolo.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2012)</small>
+
+ARTÍCULO 109 BIS.- Tratándose de mandatos generales o especiales para actos de dominio, los Notarios darán aviso inmediato de su otorgamiento, revocación o renuncia, según sea el caso, por vía electrónica a la Dirección del Archivo de Notarías, para que de manera simultánea se registre en la base de datos del Sistema del Registro Nacional de Poderes Notariales, conforme a las normas, acuerdos y convenios aplicables.
+
+I. El aviso de otorgamiento de un mandato, contendrá los siguientes datos:
+
+a) Nombre completo del Notario.
+
+b) CURP del Notario.
+
+c) Calidad del Notario (Titular, Auxiliar o Suplente).
+
+d) Número de Notaría.
+
+e) Distrito Judicial al que pertenece la Notaría.
+
+f) Fecha del instrumento.
+
+g) Número de instrumento.
+
+h) Volumen.
+
+i) Lugar de otorgamiento.
+
+j) Nombre completo del o los contratantes.
+
+k) Tratándose de personas jurídicas su denominación o razón social.
+
+l) Cuando se trate de personas físicas el sexo de los contratantes.
+
+m) CURP de los contratantes.
+
+n) Nacionalidad de los contratantes.
+
+o) Tipo de mandato.
+
+p) Facultades conferidas al mandatario.
+
+II. El aviso de revocación o renuncia de un mandato, contendrá los siguientes datos:
+
+a) Nombre completo del Notario ante quien se revoca.
+
+b) CURP del Notario ante quien se revoca o renuncia.
+
+c) Número de la Notaría del Fedatario ante quien se revoca o renuncia.
+
+d) Calidad del Notario (Titular, Auxiliar o Suplente).
+
+e) Número de la Notaría.
+
+f) Distrito Judicial al que pertenece la Notaría.
+
+g) Ciudad del Notario ante quien se revoca o renuncia.
+
+h) Entidad Federativa del Notario ante quien se revoca o renuncia.
+
+i) Número de instrumento.
+
+j) Volumen.
+
+k) Lugar y fecha de otorgamiento.
+
+l) Número de la Notaría que expidió el instrumento que se revoca o renuncia.
+
+m) Lugar de otorgamiento de la escritura que se revoca o se renuncia.
+
+n) Nombre completo del Notario ante quien se otorgó la escritura que se revoca o se renuncia.
+
+o) Adscripción del Notario que expidió el poder que se revoca o renuncia.
+
+p) Nombre o nombres completos del o los mandatarios que se revocan o que renuncian.
+
+Inmediatamente el Notario realizará el registro de la revocación o la renuncia a través del sistema.
+
+III. Los Notarios y Jueces deberán consultar la autenticidad, legitimidad, vigencia y alcance de los mandatos a que se refiere el presente artículo y que ante ellos se presenten, a través del sistema que para tal efecto se encuentre implementado ante la Dirección del Archivo de Notarías.
+
+La Dirección del Archivo de Notarías, para emitir su informe, deberá considerar la consulta a la base de datos del Registro Nacional de Poderes Notariales.
+
 ###### ARTÍCULO 110.
 
 Se prohíbe a los Notarios hacer constar revocaciones, rescisiones o modificaciones del contenido de una escritura por simple razón al margen de ella, salvo lo dispuesto en la fracción XV del artículo 101.
@@ -1613,10 +1691,16 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2010
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
