@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2012-01-17"
+last_updated: "2012-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,1139 +19,723 @@ issue_date: "2010-11-03"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL
 
-LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
 
-Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 16 DE MARZO DE 2012.</small>
 
-FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
+Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
-LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL.
 
 CONSIDERANDO
 
-[...]
+PRIMERO. Con fundamento en los artículos 94, párrafo segundo, y 100, párrafos primero, octavo y noveno, de la Constitución Política de los Estados Unidos Mexicanos, el Consejo de la Judicatura Federal administra, vigila y disciplina al Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación; expide acuerdos generales para el adecuado ejercicio de sus funciones; y goza de independencia técnica, de gestión y para emitir resoluciones definitivas e inatacables, salvo las referidas a la designación, adscripción, ratificación y remoción de magistrados y jueces, las cuales pueden ser revisadas por la Suprema Corte de Justicia de la Nación;
 
-Ahora, los diferentes integrantes del Sistema Estatal de Seguridad, al realizar sus labores cotidianas, estarán respaldados por un cuerpo normativo que enlazará lineamientos, acciones y programas sobre la seguridad, permitiendo con ello que la prevención, protección civil, operación policial, y demás aristas, no trabajen en lo individual, sino alrededor de un engranaje que logre concatenar las diversas piezas de las que se conforma la seguridad.
+SEGUNDO. La Constitución Política de los Estados Unidos Mexicanos en su Título Cuarto, regula las responsabilidades de los servidores públicos y patrimoniales del Estado y, al efecto, establece principios y obligaciones que rigen el servicio público, los procedimientos para determinar y sancionar la responsabilidad administrativa y las medidas para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública. Con esa base, se expidió la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, ordenamiento que, de conformidad con su artículo tercero, fracción II, corresponde en el ámbito de su competencia aplicar al Consejo;
 
-Por lo anteriormente expuesto y fundado, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
+TERCERO. La Ley Orgánica del Poder Judicial de la Federación faculta al propio Consejo, en sus artículos 68 y 81, fracciones II, VII, X, XI, XII, XV, XVI, XXXII, XXXVI, XXXVII y XXXVIII, para expedir la normatividad en materia disciplinaria; resolver sobre la suspensión y remoción de magistrados y jueces; formular quejas y denuncias en contra de éstos; resolver sobre las quejas administrativas y la responsabilidad de los servidores públicos del Poder Judicial de la Federación; suspender y remover a los titulares de los órganos auxiliares y secretarías ejecutivas; formular quejas y denuncias en su contra; investigar y determinar las responsabilidades y sanciones de los servidores públicos de los Tribunales de Circuito, Juzgados de Distrito y del propio Consejo; realizar visitas extraordinarias e integrar comités de investigación; así como dictar medidas que aseguren el buen servicio y disciplina que permitan garantizar la autonomía de los órganos del Poder Judicial de la Federación y la independencia e imparcialidad de sus integrantes.
 
-LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
+Adicionalmente, en el título octavo, la Ley Orgánica regula lo relativo a la responsabilidad administrativa de los servidores públicos del Poder Judicial de la Federación, y establece causas, procedimientos, órganos competentes, sanciones aplicables y medios de impugnación;
 
-## Título Primero. Prolegómenos
+CUARTO. Con fundamento en las atribuciones precedentes, se publicó en el Diario Oficial de la Federación, el tres de octubre de dos mil seis, el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta los procedimientos de responsabilidad administrativa y seguimiento de la situación patrimonial; instrumento que rige el sistema disciplinario de los titulares y servidores públicos adscritos a órganos jurisdiccionales y unidades administrativas; órganos competentes; formalidades; causas de responsabilidad; medidas cautelares; procedimiento de investigación; trámite del procedimiento; resoluciones; sanciones e individualización; recurso de revisión administrativa; y obligaciones en materia de registro y seguimiento de la situación patrimonial, y servidores públicos obligados.
 
-### Capítulo Único. Disposiciones Generales
+Empero, y con el propósito fundamental de atender reformas constitucionales y legales, así como la jurisprudencia y una serie de criterios que ha dictado el propio Consejo, aunado a la revisión integral de su contenido que llevó a cabo el Pleno del mismo, a la presente fecha se considera necesario que dicho acuerdo deje de tener vigencia y se expida otro que integre los elementos que la experiencia ha demostrado como adecuados y los que son propios en atención a las necesidades que impone el avance institucional del Consejo;
+
+QUINTO. Este nuevo Acuerdo General reconoce el derecho de los titulares de órganos jurisdiccionales y unidades administrativas para implementar medidas preventivas a fin de garantizar el orden, disciplina y correcto desempeño de las funciones del personal a su cargo.
+
+Asimismo, redistribuye los asuntos de la competencia de la Secretaría Ejecutiva de Disciplina y la Contraloría del Poder Judicial de la Federación para su mejor trámite y resolución.
+
+De manera destacada, unifica el procedimiento de responsabilidad administrativa en atención a los órganos competentes y a los sujetos del procedimiento, según su cargo y adscripción; incorpora disposiciones de aplicación supletoria del Código Federal de Procedimientos Civiles; fija reglas para el sistema de notificaciones; contempla la posibilidad de presentar alegatos; regula los criterios en materia disciplinaria; norma el Registro de Servidores Públicos Sancionados; establece plazos para determinar la reincidencia y limitar los efectos del registro; señala a los servidores públicos del Tribunal Electoral obligados a presentar declaración de situación patrimonial ante la Contraloría del Poder Judicial de la Federación; y, en general -y a efecto de facilitar la aplicación del régimen de responsabilidad administrativa- considera la experiencia de las áreas del Consejo en materia de disciplina y seguimiento de la situación patrimonial;
+
+SEXTO. Como finalidad primordial, este Acuerdo General procura ofrecer a la sociedad mexicana la seguridad de que los servidores públicos del Poder Judicial de la Federación, se encuentran sujetos a un régimen de responsabilidad administrativa que los constriñe a observar la Constitución y la Ley, además del deber de guiar su conducta con honestidad, legalidad, probidad, lealtad y eficiencia, y de guardar el decoro y la dignidad inherentes al cargo, al tiempo de observar las formalidades esenciales del procedimiento previas a la imposición de sanciones.
+
+Con lo expuesto, se busca garantizar a los gobernados el acceso a una justicia pronta, expedita e imparcial, y que los servidores públicos observen la legalidad, la transparencia y la rendición de cuentas, en aras de fortalecer la independencia y autonomía del Poder Judicial de la Federación.
+
+En consecuencia, y con fundamento en las disposiciones constitucionales y legales referidas, el Pleno del Consejo de la Judicatura Federal expide el siguiente
+
+ACUERDO
+
+## TITULO PRIMERO: Disposiciones Preliminares
+
+### Capítulo I: Reglas generales
 
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público, interés social y de observancia general en el Estado de Querétaro. Tienen por objeto cumplir con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias, la Constitución Política del estado, las leyes locales que, en materia de Seguridad, corresponden al estado; asimismo, regular la integración, organización y funcionamiento del Sistema Estatal de Seguridad de Querétaro.
+Las disposiciones de este Acuerdo son de observancia general para los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, con las salvedades establecidas en el mismo.
 
 ###### Artículo 2.
 
-La seguridad es una función entre la Federación, el Estado y los municipios; así como de los sectores público, privado, social y académico, que deberá ejercerse en sus respectivos ámbitos de competencia y actuación, con la finalidad de:
-
-I. Salvaguardar la integridad, libertades, bienes y derechos de las personas; y
-
-II. Preservar el orden público y la paz social.
+El Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios de legalidad, honradez, lealtad, eficiencia e imparcialidad que deben observar los servidores públicos obligados; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de éstos, y para regular el registro y seguimiento de la evolución de su situación patrimonial, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
 ###### Artículo 3.
 
-La Seguridad comprende:
+Para los efectos del Acuerdo se entiende por:
 
-I. La prevención social de la violencia y la delincuencia, a través de políticas públicas acerca de las causas y factores de riesgo que las originan;
+I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial;
 
-II. La participación ciudadana que contribuya a mejorar las políticas públicas en materia de seguridad en el Estado;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-III. La investigación y persecución de los delitos, mediante el uso de técnicas e investigación científica, objetiva y con respeto a los Derechos Humanos;
+II. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por la Contraloría y se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia;
 
-IV. El desarrollo y aplicación de tecnología para fortalecer las capacidades y mejorar los servicios de atención de las instituciones;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-V. La sanción de las infracciones administrativas;
+III. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
 
-VI. La ayuda, asistencia, protección y reparación integral a las víctimas;
+(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012) (F. DE E., D.O.F. 16 DE MARZO DE 2012)
 
-VII. La reinserción social del sentenciado;
+IV. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea de la Contraloría al denunciante y denunciados, como medio de identificación de las personas facultadas en el procedimiento de responsabilidad administrativa en que promuevan para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío vía electrónica de promociones relativas a las actuaciones procesales con el uso de la firma electrónica en un procedimiento de responsabilidad administrativa;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-VIII. La aplicación de mecanismos alternativos de solución de controversias y justicia restaurativa;
+V. Comisión: Comisión de Disciplina del Consejo de la Judicatura Federal;
 
-IX. El Servicio Profesional de Carrera que define los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento y conclusión;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+VI. Consejo: Consejo de la Judicatura Federal;
 
-X. La operación policial que privilegiará la coordinación, la solución de conflictos, el uso de tecnologías de la información y el respeto a los Derechos Humanos;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XI. La protección de las instalaciones estratégicas contempladas por las disposiciones aplicables;
+VII. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-XII. La protección civil, en los términos de la legislación de la materia;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XIII. La regulación de la prestación de los servicios de seguridad privada;
+VIII. Contraloría: Contraloría del Poder Judicial de la Federación;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XIV. Las medidas de protección, las cautelares y de suspensión condicional del proceso;
+IX. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea de la Contraloría a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una Clave de Acceso;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XV. La participación comunitaria tendiente a la prevención social en seguridad fundada en el trabajo social comunitario, así como en el constante contacto con la comunidad;
+X. Dictamen electrónico: Dictamen que se elabora para denunciar el incumplimiento en la presentación de las declaraciones de situación patrimonial;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XVI. La justicia cotidiana en el ámbito social y comunitario por parte de la Policía de Proximidad y demás autoridades competentes, a través (sic) implementación de mecanismos alternativos tendientes a la solución de conflictos;
+XI. Dirección: Dirección General de Responsabilidades de la Contraloría del Poder Judicial de la Federación;
 
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XVII. La participación y capacitación de las Instituciones de Seguridad en la protección del medio ambiente, a fin de desarrollar la prevención y persecución de los delitos en la materia, conforme al ámbito de su competencia; y
+XII. Dirección de Correo Electrónico: Sistema de comunicación a través de redes informáticas, señalado por el denunciante y denunciados en el procedimiento de responsabilidad administrativa;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-XVIII. Las demás que se establezcan en las disposiciones jurídicas aplicables.
+XIII. Dirección de Correo Electrónico Institucional: Sistema de comunicación a través de redes informáticas, dentro del dominio definido y proporcionado por el Consejo a los servidores públicos;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XIV. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del Expediente Electrónico;
+
+(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012) (F. DE E., D.O.F. 16 DE MARZO DE 2012)
+
+XV. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un procedimiento de responsabilidad administrativa, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XVI. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XVII. Firma Electrónica: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados al mismo que permita identificar a su autor mediante el Sistema de Justicia en línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica permite actuar en el procedimiento de responsabilidad en línea y será proporcionada por la Contraloría en el momento de la primera notificación;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XVIII. Procedimiento tradicional: El procedimiento de responsabilidad administrativa que se substancia recibiendo las promociones y demás documentales en manuscrito o impresos en papel, y formando un expediente también en papel, donde se agregan las actuaciones procesales;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XIX. Procedimiento de responsabilidad en línea: Substanciación y resolución del procedimiento de responsabilidad administrativa en todas sus etapas, a través del Sistema de Justicia en Línea;
+
+(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012) (F. DE E., D.O.F. 16 DE MARZO DE 2012)
+
+XX. Sistema de Justicia en Línea: Sistema informático establecido por la Contraloría a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento de responsabilidad administrativa que se sustancie ante la propia Contraloría;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXI. Ley de Responsabilidades: Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXII. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXIII. Organo auxiliar instructor: órgano jurisdiccional que actúa en auxilio del Consejo como instancia instructora dentro de un procedimiento de responsabilidad administrativa;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXIV. Organo jurisdiccional: Tribunal de Circuito o Juzgado de Distrito;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXV. Pleno: Pleno del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXVI. Poder Judicial de la Federación: Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXVII. Presidente: Presidente del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXVIII. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXIX. Titular: magistrado de circuito o juez de distrito;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXX. Tribunal Electoral: personal del Tribunal Electoral del Poder Judicial de la Federación considerado en el artículo 145 inciso c) del Acuerdo; y,
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+XXXI. Unidad administrativa: órgano auxiliar del Consejo, ponencia de consejero, secretaría ejecutiva, secretaría técnica de comisión o comité, dirección general, o cualquier otro órgano administrativo creado por ley o acuerdo general del Consejo.
 
 ###### Artículo 4.
 
-La función de seguridad se ejercerá en todo el territorio del Estado por las autoridades y órganos que establece la presente Ley, así como las de sus diversos ámbitos de competencia por conducto de:
-
-I. El titular del Poder Ejecutivo del Estado;
-
-II. La Secretaría de Gobierno del Poder Ejecutivo del Estado;
-
-III. La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado;
-
-IV. La Fiscalía General del Estado;
-
-V. Las corporaciones policiales;
-
-VI. Las autoridades encargadas de determinar la comisión de infracciones administrativas y aplicar las sanciones correspondientes;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-VII. La Comisión Estatal del Sistema Penitenciario de Querétaro;
-
-VIII. Las autoridades en materia de protección civil;
-
-IX. Las autoridades en materia de justicia para adolescentes;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-X. Las autoridades encargadas de aplicar los mecanismos alternativos de solución de controversias y de justicia restaurativa;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JUNIO DE 2022)</small>
-
-XI. La Policía de Proximidad y las autoridades encargadas de los mecanismos alternativos tendientes a la solución de conflictos relacionados a la justicia cotidiana en el ámbito social y comunitario;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
-
-XII. Las autoridades de supervisión de medidas cautelares y suspensión condicional del proceso; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JUNIO DE 2022)</small>
-
-XIII. Las demás autoridades estatales y municipales que, en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
+Es causa de responsabilidad para los servidores públicos del Poder Judicial de la Federación, el incumplimiento de las obligaciones establecidas en los artículos 101 de la Constitución y 8 de la Ley de Responsabilidades, siempre que sean propias de la función desempeñada; así como la comisión de cualquier conducta prevista en el artículo 131 de la Ley Orgánica, o la contravención a las disposiciones reglamentarias, acuerdos generales, lineamientos o manuales de organización interna.
 
 ###### Artículo 5.
 
-Para asegurar los fines de la seguridad, se crea el Sistema Estatal con base en la coordinación entre los integrantes que lo componen; contando para su funcionamiento y operación, con las instancias, instrumentos, políticas, acciones y servicios previstos en la presente ley y demás disposiciones legales aplicables.
+Para el trámite y resolución de los procedimientos de responsabilidad administrativa es aplicable la Ley Orgánica; en lo no contemplado por ésta, la Ley de Responsabilidades; el Acuerdo; y, supletoriamente, en lo no previsto de manera suficiente por éstos, el Código Federal de Procedimientos Civiles. Ante el vacío normativo, se acudirá a los principios generales del derecho, en términos de lo dispuesto en el artículo 14, párrafo cuarto, de la Constitución.
 
-### Capítulo Primero. Disposiciones generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo II: Medidas preventivas
 
 ###### Artículo 6.
 
-Para los efectos de esta Ley, se entenderá por:
+Los titulares de órganos jurisdiccionales y unidades administrativas podrán adoptar, de manera potestativa y con apego a sus atribuciones constitucionales y legales, medidas preventivas de carácter general a fin de procurar el adecuado funcionamiento de éstos.
 
-I. Autorización: El permiso otorgado por la Secretaría de Seguridad Ciudadana, para que una persona física o moral pueda brindar servicios de seguridad privada;
-
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
-
-II. Comisión Estatal: La Comisión Estatal de Atención Integral a Víctimas;
-
-III. Consejo Estatal: El Consejo Estatal de Seguridad;
-
-IV. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
-
-V. Desarrollo Tecnológico: El software diseñado y creado a la medida para automatizar una tarea o proceso específico;
-
-VI. Fiscalía General: La Fiscalía General del Estado de Querétaro;
-
-VII. Instituciones de Seguridad: Las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad a nivel federal, estatal y municipal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-VIII. Personal Operativo de las Instituciones de Seguridad: Los servidores públicos que se mencionan a continuación:
-
-a) Guías técnicos adscritos a la autoridad en materia de justicia para adolescentes;
-
-b) Evaluadores de riesgos y supervisores de medidas cautelares de la autoridad de supervisión de medidas cautelares y suspensión condicional del proceso;
-
-c) Técnicos en prevención social, invitadores y facilitadores del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;
-
-d) Asesores jurídicos, médicos, trabajadores sociales y psicólogos de los mecanismos de la Comisión Estatal de Atención Integral a Víctimas;
-
-e) El personal de atención a las líneas de emergencia 9-1-1, 089, despacho, videovigilancia o cualquier otra semejante de gestión, atención y respuesta de emergencias estatal o municipales;
-
-IX. Medidas cautelares: Condiciones impuestas mediante resolución judicial, por el tiempo indispensable, para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento;
-
-X. Personal operativo facultado para el uso legal de la fuerza pública: Policías estatales, policías municipales, policías de investigación del delito, policías procesales y custodios;
-
-XI. Prevención social de la violencia y la delincuencia: Conjunto de políticas públicas, programas y acciones orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que la generan;
-
-XII. Protección civil: La acción solidaria y participativa, que en consideración, tanto de los riegos de origen natural o antrópico, como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional de Seguridad Pública, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
-
-XIII. Secretaría de Seguridad: La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-XIV. Servicio de carrera: El Servicio Profesional de Carrera, del personal operativo facultado para el uso legal de la fuerza, así como el Personal Operativo de las Instituciones de Seguridad;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XV. Sistema Estatal: El Sistema Estatal de Seguridad de Querétaro;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-XVI. Sistema Estatal de Atención a Víctimas: El Sistema Estatal de Atención a Víctimas;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-XVII. SIU: Sistema Informático Único;
-
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-XVIII. Policía de Proximidad: Agente facultado para el uso legal de la fuerza pública, con capacidades para aplicar las diversas técnicas de los mecanismos alternativos de solución de conflictos establecidos en la Ley, para procurar la convivencia comunitaria en el ámbito de la justicia cotidiana, para vigilar el debido cumplimiento de las normas jurídicas en el ámbito de la justicia cívica y para la investigación de los delitos en el ámbito de la justicia penal; y
-
-> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-XIX. Grupo de Coordinación Estatal para la Seguridad: Es la instancia de carácter ejecutivo que, de forma consensuada por sus integrantes, establece la prioridad de los objetivos y metas de carácter operativo que permitan direccionar las acciones para cumplir los fines en materia de seguridad.
+Esas medidas estarán especialmente orientadas a prevenir y evitar conductas que puedan propiciar o generar actuaciones y prácticas irregulares en el desempeño del cargo de los servidores públicos.
 
 ###### Artículo 7.
 
-Las instituciones de seguridad del Estado y los municipios, en el ámbito de su competencia, deberán coordinarse y colaborar para cumplir con las obligaciones previstas en la Constitución, la Ley General del Sistema Nacional de Seguridad Pública, la presente Ley, así como las demás disposiciones aplicables.
+Las medidas preventivas no tienen la naturaleza de sanciones administrativas y tampoco constituyen condición obligatoria ni prerrequisito para la imposición de éstas.
 
-## Título Segundo. Del Sistema Estatal de Seguridad de Querétaro
+## TITULO SEGUNDO: Procedimiento de Responsabilidad Administrativa en General
 
-### Capítulo Segundo. De la estructura del Sistema Estatal de Seguridad
+### Capítulo I: Formalidades
 
 ###### Artículo 8.
 
-El Sistema Estatal comprende la integración de políticas, planes, servicios, programas, acciones, tecnología, sistemas informáticos, así como las actividades de las instituciones públicas y privadas en materia de seguridad, contempladas en la presente Ley. El ejercicio y aplicación de las mismas se realizará de manera conjunta, ordenada y sistémica, a través de los órganos que lo componen y con la participación ciudadana en los supuestos legales aplicables.
+Las actuaciones se practicarán en días y horas hábiles; expresarán el lugar, fecha y hora en que se realizan y las personas que en ellas intervengan; y se redactarán en idioma español.
 
-El Consejo Estatal es el órgano colegiado rector del Sistema Estatal.
+En el acta que se levante se asentará únicamente lo que sea necesario para hacer constar el desarrollo que haya tenido la diligencia.
 
 ###### Artículo 9.
 
-El Sistema Estatal contará, para su funcionamiento y operación, con las instancias, instrumentos, estructuras, registros, políticas, acciones y programas establecidos en la presente Ley y en sus disposiciones reglamentarias.
+Los escritos que se presenten en lengua extranjera o indígena, se acompañarán de la traducción correspondiente.
 
-Los integrantes del Sistema Estatal actuarán con respeto a las competencias de la Federación, entidades federativas y municipios.
+En caso de que el escrito sea presentado utilizando lengua extranjera o indígena, y el promovente no comprenda o hable el idioma español y no cuente con intérprete, el Consejo ordenará de oficio la traducción, para salvaguardar sus derechos.
 
 ###### Artículo 10.
 
-Las instituciones del Sistema Estatal se regirán, para la debida coordinación, en la implementación de sus acciones bajo las siguientes bases:
-
-I. Establecer políticas, programas y acciones complementarias de los distintos órdenes de gobierno en la materia que corresponda, de acuerdo a su competencia, a efecto de eficientar la aplicación, destino e impacto de los recursos públicos;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-II. Articular acciones interinstitucionales con las autoridades y auxiliares del Sistema, a fin de ampliar la cobertura de servicios, de atención a la ciudadanía y la interconexión de los aspectos tecnológicos;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Propiciar la participación ciudadana;
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-IV. Garantizar el enfoque de género y el respeto a los Derechos Humanos;
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-V. Compartir información con el SIU;
-
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-VI. Gestionar y obtener la Firma Electrónica Avanzada en el ejercicio de sus funciones, de conformidad a la normatividad en la materia; y
-
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2023)</small>
-
-VII. Las demás que se establezcan en las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-Las Instituciones del Sistema Estatal de Seguridad tendrán la obligación de informar de manera permanente al Centro de Evaluación y Control de Confianza del Estado las acciones tomadas respecto de las evaluaciones de control de confianza en un plazo no mayor a treinta días hábiles posteriores a darse por debidamente notificadas de los resultados.
+Para efectos del cómputo de los plazos procesales en los asuntos de responsabilidad de la competencia del Poder Judicial de la Federación, se considerarán como días inhábiles los así establecidos por acuerdo general del Pleno.
 
 ###### Artículo 11.
 
-Los integrantes de las instituciones de seguridad se sujetarán a las siguientes obligaciones:
+En las diligencias que practiquen los servidores públicos que deban tramitar el procedimiento de responsabilidad administrativa, éstos estarán acompañados de un secretario o de dos testigos de asistencia, que darán fe de todo lo que en aquéllas acontezca.
 
-I. Conducirse siempre con dedicación y disciplina, apego al orden jurídico y respeto a los Derechos Humanos reconocidos en la Constitución Federal, los tratados internacionales, la Constitución Política del Estado de Querétaro y las leyes que de esta emanan;
+Dentro del procedimiento de responsabilidad administrativa, el titular del órgano competente, o el servidor público que éste designe, presidirá los actos en los que se reciban pruebas y aquellos en los que, en su caso, se desahoguen y se rindan declaraciones bajo protesta de decir verdad.
 
-II. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
-
-III. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas u ofendidos de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
-
-IV. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
-
-V. Abstenerse en todo momento de infligir o tolerar actos de tortura, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad, urgencia de las investigaciones o cualquier otra. Ante el conocimiento de tal circunstancia deberá denunciarse inmediatamente ante la autoridad competente;
-
-VI. Observar un trato respetuoso con todas las personas, absteniéndose de cometer todo acto arbitrario y limitativo de las acciones o manifestaciones que, en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la población;
-
-VII. Desempeñar sus funciones sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, oponiéndose a cualquier acto de corrupción; en caso de tener conocimiento de alguno de esos actos, deberán denunciarlo;
-
-VIII. Abstenerse de ordenar o realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
-
-IX. Velar por la vida e integridad física de las personas detenidas;
-
-X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
-
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad;
-
-XII. Participar en operativos y mecanismos de coordinación con otras instituciones de seguridad, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-El personal facultado para el uso legal de la fuerza podrá realizar acciones de difusión a la ciudadanía respecto de los delitos ambientales, así como intervenir conforme a las disposiciones aplicables;
-
-XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
-
-XIV. Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
-
-XV. Someterse a evaluaciones periódicas para acreditar el cumplimiento de sus requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
-
-XVI. Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito;
-
-XVII. Cumplir con diligencia las órdenes que reciban con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
-
-XVIII. Fomentar la disciplina, responsabilidad, integridad y profesionalismo;
-
-XIX. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes, en perjuicio de las funciones encomendadas o para favorecer indebidamente a una persona;
-
-XX. Abstenerse, conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
-
-XXI. Atender con diligencia la solicitud de informes, queja o auxilio de la ciudadanía, o de sus propios subordinados, excepto cuando la petición rebase su competencia, en cuyo caso deberá turnarlo al área que corresponda;
-
-XXII. Abstenerse de introducir a las instalaciones de sus instituciones bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares;
-
-XXIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados sea autorizado mediante prescripción médica, avalada por los servicios médicos de las instituciones;
-
-XXIV. Abstenerse de consumir, en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
-
-XXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las instituciones, dentro o fuera del servicio;
-
-XXVI. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-XXVII. Proporcionar atención integral y asistencia inmediata a las víctimas de un hecho que la ley señale como delito;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-XXVIII. Proporcionar a la autoridad competente cuando les sean solicitadas, sus muestras médicas, toxicológicas, biológicas, poligráficas, psicológicas y socioeconómicas para la evaluación correspondiente, así como la obtención del perfil genético;
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-XXIX. Aplicar las herramientas, mecanismos, protocolos y procedimientos que aseguren la coordinación interinstitucional para los fines en materia de seguridad que hayan sido desarrollados por la autoridad competente y que hayan sido motivo de acuerdo en términos de las disposiciones jurídicas aplicables; y
-
-XXX. Las demás que establezcan las disposiciones legales aplicables.
+En la práctica o desahogo de las diligencias, podrá utilizarse, según el caso y a juicio del servidor público que las practique, cualquier medio electrónico o magnético. El medio utilizado y la reproducción deberán constar en el acta respectiva.
 
 ###### Artículo 12.
 
-El Sistema Estatal se integra por:
+El servidor público, el quejoso o denunciante, y los autorizados si los hubiere, tendrán acceso a los expedientes integrados con motivo de un procedimiento de responsabilidad administrativa, una vez que se dicte el respectivo acuerdo inicial, salvo lo dispuesto en la regulación que en materia de transparencia rige al Consejo.
 
-I. El Consejo Estatal de Seguridad;
-
-II. La Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro;
-
-III. La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
-
-IV. La Fiscalía General del Estado;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-V. El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro;
-
-VI. El Centro de Evaluación y Control de Confianza del Estado;
-
-VII. Las Secretarías de Seguridad Pública Municipal o sus equivalentes; y
-
-VIII. Las demás autoridades que, en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
-
-La Fiscalía General del Estado coordinará SINERGIA como instancia operativa del Sistema Estatal, con la finalidad de potencializar la ejecución de intervenciones, acciones, diligencias y desahogo de técnicas de investigación en la persecución de los delitos, con la colaboración y participación de las instituciones seguridad en el ámbito de su competencia, así como el intercambio permanente de información para el trabajo de objetivos y detención de generadores de violencia.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
-
-SINERGIA integra y sistematiza los datos e información que permitan a las instituciones de seguridad competentes, diseñar estrategias que incidan en una disminución de la violencia y de los delitos de alto impacto en la entidad y en la región a la que pertenece Querétaro.
+El servidor público que intervenga en la investigación o el procedimiento de responsabilidad administrativa, deberá guardar la reserva y confidencialidad de la información materia de éstos. Cuando indebidamente quebrante esta obligación será sujeto a procedimiento de responsabilidad administrativa o penal, o de ambos, según corresponda.
 
 ###### Artículo 13.
 
-Las autoridades en materia de seguridad en el Estado son:
+En las actuaciones y promociones no se utilizarán abreviaturas ni se rasparán las palabras equivocadas, sobre las que sólo se pondrá una línea delgada que permita su lectura, salvándose con toda precisión, antes de las firmas, el error cometido. En la misma forma se salvarán las palabras que se hayan entrerrenglonado. Todas las fechas y cantidades se escribirán con letra.
 
-I. El Gobernador;
-
-II. El Consejo Estatal de Seguridad;
-
-III. El Secretario de Seguridad Ciudadana;
-
-IV. El Secretario de Gobierno;
-
-V. El Fiscal General;
-
-VI. Las delegaciones o representaciones federales;
-
-VII. Las demás que con ese carácter determine la presente Ley u otras disposiciones legales aplicables.
+Durante el procedimiento las actuaciones serán autorizadas y se conservarán en los archivos respectivos.
 
 ###### Artículo 14.
 
-Son autoridades municipales en materia de seguridad las que contemplen las disposiciones legales aplicables.
+Inmediatamente después de que se asienten las actuaciones del día o se agreguen los documentos recibidos, el servidor público responsable del expediente, foliará y rubricará las hojas respectivas y pondrá el sello de la oficina correspondiente en el fondo del cuaderno, de manera que abarque las dos caras.
+
+El referido servidor público guardará con la seguridad debida, bajo su responsabilidad, los documentos originales u objetos que se presenten al procedimiento y se anexará copia autorizada al expediente.
+
+Las actuaciones deberán ser autorizadas inmediatamente por los servidores públicos a quienes corresponda firmar, dar fe o certificar el acto.
 
 ###### Artículo 15.
 
-Son auxiliares en materia de seguridad, cuando sean requeridos por algunas de las autoridades del Sistema Estatal en el cumplimiento de sus atribuciones, los siguientes:
+Las personas referidas en el artículo 12 del Acuerdo, en el asunto de responsabilidad donde intervengan, pueden pedir, en todo tiempo y a su costa, copia certificada de constancias o documentos que obren en autos.
 
-I. Las dependencias, organismos y entidades de la administración pública estatal y municipal, en el ámbito de sus competencias;
+### Capítulo II: Notificaciones
 
-II. Las empresas de seguridad privada estatales y las federales que ejerzan o presten sus servicios en el Estado;
-
-III. Los concesionarios y permisionarios del transporte público estatal y federal que ejerzan o presten sus servicios en el Estado;
-
-IV. Las autoridades, empresas, grupos o personas especializadas en materia de protección civil, prevención y mitigación de riesgos, cuando desarrollen actividades en el Estado;
-
-V. Las asociaciones civiles, instituciones educativas, empresas, cámaras empresariales, colegios de profesionistas en el Estado, instituciones de asistencia privada, grupos voluntarios, asociaciones de colonos; y
-
-VI. Las demás que dispongan los ordenamientos legales aplicables, cuando su colaboración resulte necesaria para el cumplimiento de los fines de esta Ley.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-### Capítulo Tercero. De las autoridades estatales y municipales
-
-#### Sección Primera. De la integración y Funcionamiento del Grupo de Coordinación Estatal para la Seguridad
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+#### Sección I: Aspectos generales
 
 ###### Artículo 16.
 
-El Centro Estatal de Participación Ciudadana de Querétaro tiene como finalidad generar y publicar indicadores, así como la realización de estudios y trabajos, a fin de incidir en la formulación y evaluación de políticas públicas en materia de seguridad.
-
-Las instituciones que integran el Sistema Estatal, tendrán la obligación de coadyuvar con el Centro Estatal de Participación Ciudadana de Querétaro, proporcionando la información que éste le requiera para el cumplimiento de sus objetivos, en términos de ley.
+Las notificaciones se realizarán a más tardar dentro de los tres días hábiles siguientes al día en que se dictan las resoluciones que las motiven.
 
 ###### Artículo 17.
 
-El Consejo Estatal estará integrado por:
-
-I. Un Presidente, que será el Gobernador del Estado;
-
-II. Un Secretario Ejecutivo, que será el Secretario de Seguridad Ciudadana;
-
-III. Un Secretario Técnico, designado por el Gobernador del Estado;
-
-IV. Los siguientes vocales:
-
-a) El Secretario de Gobierno.
-
-b) El Fiscal General del Estado de Querétaro.
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-c) El Secretario de Finanzas.
-
-d) El Secretario de Educación.
-
-e) El Secretario de Salud.
-
-f) El Secretario de Desarrollo Social.
-
-g) El Secretario del Trabajo.
-
-h) El Secretario de la Juventud.
-
-i) El Presidente del Tribunal Superior de Justicia.
-
-j) El Diputado Presidente de la Comisión de Seguridad Pública y Protección Civil de la Legislatura del Estado.
-
-k) El Comandante de la XVII Zona Militar.
-
-l) El Delegado en Querétaro de la Procuraduría General de la República.
-
-m) El Coordinador en Querétaro de la Policía Federal.
-
-n) Los Presidentes Municipales del Estado.
-
-o) El Presidente del Sistema Estatal del Desarrollo Integral de la Familia.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-p) El Comisionado de la Comisión Estatal del Sistema Penitenciario de Querétaro.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-q) El Director General de la Coordinación Estatal de Protección Civil.
-
-V. Hasta tres consejeros ciudadanos designados por el Presidente del Consejo Estatal; y
-
-VI. Los demás que establezca el reglamento interior del Consejo Estatal.
-
-El cargo de Consejero es honorífico, los integrantes del Consejo Estatal tienen derecho a voz y voto. El Secretario Técnico no es considerado como Consejero, y sólo tendrá derecho a voz.
-
-El Presidente del Consejo Estatal tendrá voto de calidad y en sus ausencias el Secretario de Gobierno asumirá sus funciones.
+En los procedimientos de responsabilidad administrativa instaurados en contra de servidores públicos adscritos a órganos jurisdiccionales, las notificaciones se harán por conducto de la Comisión, la Secretaría o a través del órgano auxiliar instructor.
 
 ###### Artículo 18.
 
-Son facultades del Consejo Estatal las siguientes:
+En los procedimientos de responsabilidad administrativa instaurados en contra de servidores públicos adscritos a unidades administrativas, las notificaciones se harán por conducto de la Contraloría.
 
-I. Establecer su reglamento para el cumplimiento de sus funciones;
-
-II. Establecer la estructura del Secretariado Técnico del Consejo Estatal en los términos que disponga el reglamento interior del Consejo Estatal;
-
-III. Expedir políticas, lineamientos y bases de actuación para la organización, coordinación y funcionamiento integral de las instituciones que componen el Sistema Estatal;
-
-IV. Propiciar la realización de programas y acciones conjuntas con enfoque transversal entre las autoridades de seguridad de los tres niveles de gobierno;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-V. Establecer mecanismos de evaluación y seguimiento del Sistema Estatal;
-
-> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-VI. Expedir políticas, lineamientos y bases que regulen el establecimiento, organización, coordinación y operación del Banco de Datos del Perfil Genético; y
-
-VII. Las demás que se establezcan en el reglamento interior del Consejo Estatal.
+Tratándose del Director General del Instituto Federal de Defensoría Pública o de servidores públicos adscritos a la Contraloría, las notificaciones se harán por conducto de la Secretaría.
 
 ###### Artículo 19.
 
-Los municipios que conforman el estado dentro del ámbito de su competencia, establecerán sus Consejos Municipales de Seguridad.
+El servidor público probable responsable podrá autorizar para oír y recibir notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para ofrecer y rendir pruebas, alegar en las audiencias, solicitar la suspensión o diferimiento, pedir se dicte resolución y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero.
 
 ###### Artículo 20.
 
-Los Consejos Municipales de Seguridad cumplirán con los objetivos de la seguridad pública dentro del ámbito de su competencia.
+En los procedimientos de responsabilidad administrativa ningún servidor público podrá ser representado por otro servidor público del Poder Judicial de la Federación, a menos que el representante tenga licencia para cumplir comisiones sindicales en el Sindicato de Trabajadores del Poder Judicial de la Federación.
 
 ###### Artículo 21.
 
-La preservación de la seguridad y convivencia ciudadana, la prevención de los delitos y las infracciones, con la participación activa de los ciudadanos, así como la solución de conflictos relacionados a la justicia cotidiana en el ámbito social y comunitario estará a cargo de las autoridades de los diferentes órdenes de Gobierno en el ámbito de su competencia y de acuerdo a los ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-La participación comunitaria tendiente a la prevención social en seguridad comprenderá la implementación de acciones afirmativas dirigidas a que las personas contribuyan al establecimiento y restablecimiento de las condiciones que promuevan la convivencia y la cohesión comunitaria en un ambiente de paz y tranquilidad.
+Si la parte que debe ser notificada autorizó a varias personas, bastará notificar a cualquiera de ellas.
 
 ###### Artículo 22.
 
-La Secretaría de Seguridad es la institución que, dentro del Sistema Estatal, supervisará el funcionamiento y operación de las políticas, acciones y programas establecidos por el Consejo Estatal, para la coordinación de los integrantes de dicho Sistema, conforme a la presente Ley y las disposiciones reglamentarias correspondientes.
+Las notificaciones podrán hacerse personalmente, por lista, oficio, mensajería, telegrama o medio electrónico, como el fax o correo electrónico; en cualquiera de esos casos deberá agregarse la constancia respectiva en el expediente.
 
 ###### Artículo 23.
 
-Las funciones específicas del Sistema Estatal que establece la presente Ley, estarán a cargo de la Secretaría de Seguridad; las que corresponden a otras instituciones federales, estatales o municipales deben ejecutarse mediante la coordinación de objetivos y acciones necesarias para el cumplimiento de los fines de la seguridad en el Estado.
+Las notificaciones surtirán efectos al día siguiente en que se realizan.
 
-#### Sección Segunda. De la Comisión Estatal de Atención Integral a Víctimas
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
-
-Artículo 28 duodecies. La Comisión Estatal de Atención Integral a Víctimas, es el órgano operativo del Sistema Estatal de Atención a Víctimas, que tiene la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en términos de las disposiciones legales aplicables en la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+#### Sección II: Notificaciones personales
 
 ###### Artículo 24.
 
-La prevención social promoverá acciones afirmativas en educación, cultura, hábitos de vida saludable, con perspectiva de género y participación ciudadana, para generar entornos que favorezcan la convivencia, la paz, la cohesión social y la seguridad ciudadana, con respeto a los derechos humanos y no discriminación.
+Las personas que intervengan en el procedimiento de responsabilidad administrativa designarán, en la primera actuación, un domicilio para oír y recibir notificaciones.
 
-Asimismo, generará acciones de intervención con grupos y en espacios comunitarios vulnerables con presencia de factores de riesgo, para reconstruir la convivencia y el tejido social, así como la recuperación de espacios públicos.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+Si por cualquier circunstancia no realizan la designación, cambian de domicilio sin dar aviso o señalan uno falso, las notificaciones posteriores al emplazamiento se harán por lista, en la forma que establece el artículo 31 del Acuerdo, aun cuando deban ser personales.
 
 ###### Artículo 25.
 
-La prevención social será coordinada por el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, el cual se regirá conforme a lo establecido en el presente ordenamiento y demás disposiciones aplicables.
+Las notificaciones personales se realizarán directamente al interesado, su representante o a cualquier persona que aquél autorice para el efecto, en el lugar en que labore o el domicilio que haya designado conforme a lo previsto en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+La notificación personal también podrá llevarse a cabo por cualquier medio electrónico o a través de mensajería autorizada, debiéndose recabar constancia que demuestre que el servidor público quedó debidamente notificado.
+
+Excepcionalmente, las notificaciones a los servidores públicos probables responsables que hayan dejado de laborar en el Poder Judicial de la Federación o se encuentren disfrutando de licencia mayor a tres meses, se realizarán en el domicilio particular registrado en su expediente personal.
+
+Cuando la notificación deba realizarse en el domicilio particular, el notificador estará obligado a cerciorarse, por cualquier medio, que la persona a notificar vive en la casa designada y, después de ello, practicará la diligencia entregándole al servidor público copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en autos.
+
+Si el destinatario se niega a recibir la notificación, ésta se fijará en la puerta de entrada o en lugar visible del domicilio, se asentará razón de ello y previa autorización se notificará por lista.
 
 ###### Artículo 26.
 
-El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro tendrá las atribuciones establecidas en las disposiciones jurídicas aplicables.
+Si no se encuentra al interesado en su domicilio se le dejará con cualquier persona que allí resida un citatorio que contendrá:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+I. Denominación del órgano que dictó el acuerdo o resolución que se pretende notificar;
+
+II. Datos del expediente en el que se dictó;
+
+III. Extracto del acuerdo o resolución que se notifica;
+
+IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega; y
+
+V. El señalamiento de la hora en la que, dentro del día siguiente, deberá esperar la notificación.
+
+Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra se asentará la razón correspondiente. En estos casos, previa autorización, se notificará por instructivo y lista.
 
 ###### Artículo 27.
 
-El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, podrá solicitar información y colaboración a instituciones, personas u organismos, en los términos de las disposiciones normativas aplicables, para el cumplimiento de sus fines.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
+Si se desconoce el domicilio del probable responsable que debe ser notificado personalmente, por no corresponder al que se tiene registrado en su expediente, se dará cuenta a la Secretaría o a la Contraloría, según sea el caso, para que dicten las medidas que estimen pertinentes, con el propósito de que se investigue su domicilio. Si a pesar de la investigación no se logra conocerlo, el procedimiento se suspenderá de oficio, atendiendo lo dispuesto en la fracción II, del artículo 84 del Acuerdo.
 
 ###### Artículo 28.
 
-El Grupo de Coordinación Estatal para la Seguridad está integrado por:
-
-I. La Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro;
-
-II. La Fiscalía General del Estado;
-
-III. Las Secretarías de Seguridad Pública Municipal o sus equivalentes;
-
-IV. El Centro de Información y Análisis para la Seguridad de Querétaro;
-
-V. El Centro de Evaluación y Control de Confianza del Estado de Querétaro.
-
-VI. El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro;
-
-> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-VII. La Comisión Estatal del Sistema Penitenciario de Querétaro;
-
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-VIII. El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro; y
-
-IX. Los titulares de las instituciones públicas, privadas o sociales que sean invitadas a participar para cumplir con los objetivos de la coordinación.
-
-Los integrantes del Grupo de Coordinación Estatal para la Seguridad, serán coordinados por el Secretario de Seguridad Ciudadana del Estado y desarrollarán sus actividades conforme al protocolo que expidan.
-
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-El Grupo de Coordinación Estatal para la Seguridad tendrá como un objetivo de la proximidad el fomentar la participación ciudadana en cualquiera de los programas, acciones y actividades que realice o implemente.
-
-Artículo 28 bis. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 ter. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 quater. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 quinquies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 sexies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 septies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 octies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 novies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 decies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-Artículo 28 undecies. (DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2019)</small>
+La primera notificación a las personas que intervengan se llevará de forma personal, así como todas aquéllas en que así se determine.
 
 ###### Artículo 29.
 
-Son mecanismos técnicos y operativos integrantes de la Comisión Estatal, los siguientes:
-
-I. El Registro Estatal de Víctimas;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-II. La atención inmediata, especializada o de urgencia de las víctimas;
-
-III. La asesoría jurídica a víctimas; y
-
-IV. El Fondo Compensatorio.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-La operación de estos mecanismos se regirá conforme a lo dispuesto en la normatividad aplicable, en los supuestos procedentes, para el Personal Operativo de las Instituciones de Seguridad en los términos de esta Ley y las demás disposiciones jurídicas correspondientes al servicio profesional de carrera que se establezca para el efecto, garantizando el servicio bajo los principios de formación especializada, certificación, capacitación permanente y estabilidad y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+La notificación de las resoluciones que pongan fin al procedimiento de responsabilidad administrativa se hará personalmente, y se entregará al servidor público correspondiente copia certificada de la resolución.
 
 ###### Artículo 30.
 
-La Comisión Estatal tendrá las funciones de atención a las víctimas de delito y de violaciones a derechos humanos, con base en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
+Durante la audiencia podrán realizarse notificaciones personales de manera verbal, lo que se hará constar en acta.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-#### Sección Primera. Disposiciones generales
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+#### Sección III: Notificaciones por lista
 
 ###### Artículo 31.
 
-La Comisión Estatal podrá solicitar a cualquier persona o autoridad el apoyo e información que requiera para la determinación de medidas que garanticen los derechos y protejan a las víctimas.
+Las notificaciones por lista se practicarán fijando en lugar visible de las oficinas de la Secretaría, de la Contraloría, o del órgano auxiliar instructor, según corresponda, la lista relativa al asunto acordado, donde únicamente se expresarán el número del expediente y un extracto del acuerdo o resolución que deba notificarse, y se asentará constancia de ese hecho en los expedientes respectivos.
 
-#### Sección Segunda. Del Servicio Profesional de Carrera
+En los asuntos en que se designe un órgano auxiliar instructor la lista deberá fijarse únicamente en sus estrados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+La notificación se tendrá por hecha al tercer día en que se fije la lista.
+
+#### Sección IV: Notificaciones por oficio, telegrama, mensajería y medios electrónicos
 
 ###### Artículo 32.
 
-Los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, estarán a cargo del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro; garantizarán la reparación del daño de la víctima, la reintegración de la víctima y el imputado a la sociedad, coadyuvando con la prevención social. El Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro establecerá las políticas y bases de coordinación con los municipios para impulsar los mecanismos alternativos de solución de controversias y conflictos y la justicia restaurativa, promoviendo el diálogo y la generación de acuerdos, que fortalecerán la cultura de la paz y la legalidad en los respectivos ámbitos de su competencia.
+En las notificaciones por oficio, mensajería, telegrama y medios electrónicos se precisará la denominación del órgano que dictó el acuerdo que se notifica, los datos del expediente en el cual se dictó y el extracto o transcripción del acuerdo que se notifica.
 
 ###### Artículo 33.
 
-(DEROGADO, P.O. 10 DE JUNIO DE 2022)
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+Las notificaciones a las personas morales oficiales se realizarán por oficio.
 
 ###### Artículo 34.
 
-Para el alcance de sus objetivos, el Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, se coordinará con las autoridades integrantes del Sistema Estatal y los auxiliares de éste, en los respectivos ámbitos de sus competencias.
+Las notificaciones por fax o correo electrónico, podrán realizarse si la persona manifiesta expresamente su voluntad para que se le notifique por ese medio y proporciona el número telefónico o la dirección de correo electrónico, sin perjuicio de que si no se recibe confirmación de recepción en el término de las veinticuatro horas siguientes, se le notificará personalmente.
 
 ###### Artículo 35.
 
-El desarrollo profesional del personal operativo facultado para el uso legal de la fuerza pública y el Personal Operativo de las Instituciones de Seguridad en el Estado y municipios, es un conjunto integral de reglas y procesos, que comprenden el Servicio Profesional de Carrera, los esquemas de profesionalización, la certificación y el régimen disciplinario.
+Las notificaciones por mensajería se realizarán a través de alguna empresa especializada que proporcione un acuse con el que se acredite que la comunicación relativa fue recibida por el destinatario o, en su caso, en el que se asiente la razón por la que ésta no pudo ser entregada.
 
-Tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades del personal operativo facultado para el uso legal de la fuerza pública, así como del Personal Operativo de las Instituciones de Seguridad, con la finalidad de elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como garantizar el cumplimiento de los principios constitucionales.
-
-#### Sección Tercera. De la profesionalización
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+#### Sección V: Citaciones
 
 ###### Artículo 36.
 
-El Servicio Profesional de Carrera es un mecanismo de carácter obligatorio y permanente, conforme al cual se planifican y organizan las bases que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública y del Personal Operativo de las Instituciones de Seguridad, para garantizar la igualdad de oportunidades en el desarrollo profesional con base en el mérito, la capacidad y la evaluación periódica y continua.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-Los servidores públicos de las instituciones de seguridad sujetos a las evaluaciones de control de confianza que no las acrediten o que no proporcionen sus muestras biológicas para el Banco de Datos del Perfil Genético que corresponda, como parte de la evaluación médica, serán separados del cargo de conformidad con la presente Ley y demás normatividad aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+Toda persona está obligada a presentarse ante el Consejo o el órgano auxiliar instructor competente, cuando sea citada de manera fundada y motivada, a menos que no pueda hacerlo por causa debidamente justificada.
 
 ###### Artículo 37.
 
-Las instituciones de seguridad contarán con una Comisión del Servicio Profesional de Carrera, que será el órgano colegiado responsable de planear, coordinar, dirigir y supervisar los procedimientos que comprendan el ingreso, permanencia, promoción y conclusión del servicio de carrera.
-
-La integración y el funcionamiento de cada comisión se regirán conforme a las disposiciones de su propio reglamento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+Las citaciones se realizarán por cédula, las cuales serán notificadas personalmente o a través de otro medio comprendido en las secciones precedentes, con excepción de la notificación por lista.
 
 ###### Artículo 38.
 
-El régimen disciplinario estará a cargo del Consejo de Honor y Justicia de cada Institución que se regirá por su reglamento y disposiciones aplicables.
+La cédula deberá contener:
 
-El régimen disciplinario comprende los deberes, correcciones disciplinarias, sanciones y procedimientos para su aplicación con la finalidad de asegurar que la conducta del personal operativo facultado para el uso legal de la fuerza pública esté apegada a los principios de actuación previstos en la Constitución.
+I. Denominación del órgano ante el que debe presentarse el citado;
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+II. Nombre, apellido y domicilio del citado;
 
-El personal operativo facultado para el uso legal de la fuerza pública que sea separado o removido de su cargo, no podrá ser reinstalado cualquiera que sea el juicio o medio de defensa que interponga, y en su caso, sólo procederá la indemnización.
+III. Día, hora y lugar en que debe comparecer;
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+IV. Objeto de la citación;
 
-Artículo 38 bis. La Secretaría de Seguridad, a través de la Comisión de Carrera Policial, implementará un régimen de transferencia del personal operativo facultado para el uso legal de la fuerza, que permita su movilidad e integración entre las instituciones de seguridad del Estado de Querétaro, en los términos de las disposiciones aplicables.
+V. Medio de apremio que, en su caso, se empleará si no comparece; y
+
+VI. Firma del funcionario que ordena la citación.
 
 ###### Artículo 39.
 
-La profesionalización es la adquisición, desarrollo y aplicación con eficiencia y eficacia de capacidades del personal facultado para el uso de la fuerza pública para resolver problemas concretos del servicio de la seguridad, a cargo del Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, cuya naturaleza será la de un organismo público descentralizado, con personalidad jurídica y patrimonio, así como con plena autonomía técnica y de gestión.
+Tratándose de servidores públicos, el Consejo o el órgano auxiliar instructor podrán ordenar que la citación se realice por conducto del superior jerárquico respectivo.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-La profesionalización del personal facultado para el uso de la fuerza pública, se realizará sobre las bases de la disciplina, el respeto a la vida, las libertades, la integridad y el patrimonio de los ciudadanos, así como el respeto al orden público y a la paz social.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-#### Sección Cuarta. De la conclusión del servicio
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-Artículo 41 bis. Con la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública y del Personal Operativo de las Instituciones de Seguridad, se da por terminado el Servicio Profesional de Carrera y la relación jurídico administrativa entre el policía y la institución correspondiente.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Son causas de la conclusión del servicio, las siguientes:
-
-I. Separación: Por incumplimiento de cualquiera de los requisitos de permanencia estipulados en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables;
-
-II. Remoción: Por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus obligaciones, de conformidad con las disposiciones relativas al régimen disciplinario; y
-
-III. Baja, por:
-
-a) Renuncia.
-
-b) Muerte o incapacidad permanente.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-c) Jubilación por haberse cumplido el tiempo de servicios, que en los policías y en el Personal Operativo de las Instituciones de Seguridad será de 25 años, o
-
-d) Vejez, por haber llegado a los 60 años de edad y 18 años de servicio.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 41 ter. Tratándose de retiro por vejez, los elementos de policía municipal, estatal y de investigación, percibirán respecto al salario y quinquenios pagados mensualmente, la cantidad que resulte conforme a los siguientes porcentajes:
-
-I. 24 años de servicio el 95%;
-
-II. 23 años de servicio el 90%;
-
-III. 22 años de servicio el 85%;
-
-IV. 21 años de servicio el 80%;
-
-V. 20 años de servicio el 75%;
-
-VI. 19 años de servicio el 70%, y
-
-VII. 18 años de servicio el 65%.
+#### Sección VI: Nulidad
 
 ###### Artículo 40.
 
-La profesionalización se hará a través de la formación inicial única, la capacitación, actualización, la especialización y la evaluación del personal facultado para el uso legal de la fuerza pública, así como del Personal Operativo de las Instituciones de Seguridad y de las empresas de seguridad privada que prestan sus servicios en el Estado.
+Las notificaciones que no se hagan en la forma que establecen las disposiciones precedentes serán nulas. Los interesados podrán pedir dicha nulidad, antes de dictarse la resolución en el expediente que motivó la notificación, a fin de reponer el procedimiento.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+Este incidente no suspenderá el procedimiento, se tramitará en una sola audiencia en la que se recibirán pruebas, oirán alegatos y dictará resolución.
 
-El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro contará con un Consejo Consultivo Académico que contará con las atribuciones previstas en la Ley del Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, y otras disposiciones normativas aplicables.
+Las promociones de nulidad notoriamente improcedentes se desecharán de plano.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
-
-### Capítulo Cuarto. De los auxiliares en materia de seguridad
+### Capítulo III: Medidas cautelares
 
 ###### Artículo 41.
 
-El Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, llevará el registro individual del proceso de profesionalización de los elementos de todas las instituciones de seguridad.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
+En cualquier etapa de la investigación o procedimiento de responsabilidad administrativa, el órgano competente podrá dictar medidas cautelares, debidamente fundadas y motivadas, las cuales no prejuzgarán sobre la responsabilidad que se imputa, lo que se hará constar expresamente en la determinación, y cesarán cuando así se resuelva.
 
 ###### Artículo 42.
 
-La operación policial es el conjunto de acciones coordinadas entre las instituciones de seguridad en el Estado para el cumplimiento de objetivos, programas y metas relacionados con los fines de la seguridad, con estricto apego a los derechos humanos, para preservar la libertad, el orden y la paz pública.
+Durante la investigación, o una vez iniciado el procedimiento de responsabilidad administrativa, el Pleno o la Comisión, previo dictamen de la Secretaría o la Contraloría, podrán determinar como medida cautelar la suspensión temporal del servidor público en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo diverso en el Poder Judicial de la Federación hasta en tanto se resuelva lo conducente.
 
-El Gobernador del Estado asumirá el mando en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Para el ejercicio de la operación policial, el personal operativo facultado para el uso de la fuerza pública se regirá bajo los principios de legalidad, responsabilidad, respeto a los derechos fundamentales de protección a la persona humana, eficiencia, coordinación y cooperación.
+En tal supuesto, se suspenderá total o parcialmente el pago de remuneraciones y prestaciones al servidor público, conforme el Pleno o la Comisión lo estimen pertinente.
 
 ###### Artículo 43.
 
-Corresponde a la Secretaría de Seguridad establecer las bases de coordinación para la operación policial, de conformidad con las políticas y lineamientos del Consejo Estatal y el Programa Estatal de Seguridad Pública, en el ámbito de su competencia.
+La suspensión temporal surtirá efectos desde el momento de su notificación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+La resolución que determine la suspensión temporal de un servidor público, se notificará personalmente por conducto del funcionario que al efecto se designe.
 
 ###### Artículo 44.
 
-La operación policial de los integrantes de las instituciones de seguridad atenderá los principios establecidos en la Constitución, ejecutada por policías y custodios de carrera que se regirán por las leyes y reglamentos correspondientes para cumplir con sus funciones de investigación, prevención, aplicación de mecanismos alternativos de solución de conflictos, reacción o custodia, asegurando la protección de los ciudadanos y el servicio a la comunidad.
+Cuando se decrete la suspensión temporal del servidor público, el órgano competente que dicte la medida, determinará si debe continuar recibiendo alguna remuneración económica y fijará, en su caso, el monto de la misma.
 
-Los integrantes de la operación policial en el estado, están facultados para el uso legal de la fuerza pública conforme a los protocolos establecidos y el pleno respeto a los Derechos Humanos. Cualquier abuso será castigado conforme a la legislación penal aplicable.
+La remuneración económica se determinará en cantidad líquida, tomando en consideración la gravedad de la conducta que se imputa, las obligaciones económicas que tenga a su cargo el servidor público en cumplimiento de resolución emitida por autoridad judicial y, las circunstancias especiales del caso, como las necesidades del probable responsable y las de sus dependientes económicos.
 
 ###### Artículo 45.
 
-Son integrantes de la operación policial las siguientes corporaciones:
-
-I. Policía Estatal;
-
-II. Policías municipales;
-
-III. Custodios; y
-
-IV. Policía procesal.
-
-En su caso, la Policía de Investigación se coordinará con los integrantes de la operación policial para el cumplimiento de sus respectivos fines.
+El monto de la remuneración económica que se otorgue al servidor público suspendido será aquel que determine el Acuerdo General que al efecto emita el Pleno.
 
 ###### Artículo 46.
 
-Cuando sea necesaria la participación de integrantes de corporaciones de otras entidades, la coordinación se hará por conducto de la Policía Estatal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JUNIO DE 2022)</small>
+Se informará a la Dirección General de Recursos Humanos el monto asignado, a fin de que proceda como corresponda, así como a la Dirección General de Programación y Presupuesto, con objeto de que establezca las medidas necesarias para crear los pasivos presupuestales que permitan garantizar el reintegro de la parte proporcional de las percepciones económicas que se dejen de pagar al servidor público.
 
 ###### Artículo 47.
 
-El Centro de Información y Análisis para la Seguridad de Querétaro es un organismo descentralizado, con personalidad jurídica y patrimonio propio.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+El órgano competente que determine el otorgamiento de la remuneración económica al servidor público suspendido, podrá dejar sin efectos esa determinación cuando éste deje de asistir al procedimiento sin causa justificada o exista imposibilidad para notificarlo; circunstancia que se hará del conocimiento de la Dirección General de Recursos Humanos, así como de la Dirección General de Programación y Presupuesto, para los efectos procedentes.
 
 ###### Artículo 48.
 
-La información que contenga el Centro de Información y Análisis para la Seguridad de Querétaro será administrada y protegida bajo los principios de confidencialidad, reserva y demás aspectos previstos por las leyes de la materia.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+Cuando se determine imponer al servidor público suspendido sanción definitiva de suspensión, destitución o inhabilitación, no se le pagarán las percepciones económicas retenidas que dejaron de cubrírsele y se cancelarán los pasivos creados, lo que se informará a la Dirección General de Programación y Presupuesto, para los efectos procedentes.
 
 ###### Artículo 49.
 
-El Centro de Información y Análisis para la Seguridad de Querétaro tiene por objeto el comando, operación, monitoreo, y control del sistema estatal de video vigilancia y del registro público vehicular estatal, operación informática, análisis y resguardo de información, atención y coordinación estatal de las líneas de emergencia y denuncia anónima, así como la operación y administración de la red estatal de telecomunicaciones para la seguridad (radiocomunicación y red de transporte de voz y datos) con la finalidad de garantizar el derecho fundamental de la seguridad en el Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad para el Estado de Querétaro y las demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+En ningún caso podrá exigirse el reintegro del monto de la percepción económica otorgada durante la suspensión.
 
 ###### Artículo 50.
 
-El Centro de Información y Análisis para la Seguridad de Querétaro contará con las atribuciones y estructura establecidas en la Ley que crea el Centro de Información y Análisis para la Seguridad de Querétaro, en su reglamento interior y en los demás ordenamientos jurídicos aplicables.
+En caso de que en la resolución se determine la improcedencia de la queja o denuncia, o éstas resulten infundadas, se reintegrará al servidor público el total de las percepciones económicas que dejó de percibir, a la fecha en que fue decretada la suspensión temporal, considerando los incrementos autorizados.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+En los casos en que la sanción impuesta sea apercibimiento privado o público, amonestación privada o pública o sanción económica, se cubrirán al servidor público las percepciones económicas que se le hayan dejado de cubrir y se cancelarán los pasivos creados, sin que puedan incluirse aquellas percepciones económicas cuyo pago esté condicionado al ejercicio efectivo del servicio público o funciones inherentes al cargo.
 
-Artículo 50 bis. El SIU, es la herramienta informática a través de la cual se interconecta el Sistema Estatal de Seguridad y Sistema Penal Acusatorio Oral, con la finalidad de establecer una comunicación eficaz, inmediata y ágil, que atienda y resuelva las funciones de cada una de las instituciones en al (sic) ámbito de su competencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2018)</small>
-
-Artículo 50 ter. El SIU está a cargo del Centro de Información y Análisis para la Seguridad de Querétaro y corresponde a éste el desarrollo y conservación de la información generada, transmitida, recibida o archivada a través de aquél, en el ámbito de su competencia.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Las instituciones de seguridad deberán alimentar el SIU, con la información que le compete en la gestión de los asuntos que se desahoguen o tramiten por medio de dicha plataforma.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-Artículo 50 quater. La información que las instituciones de seguridad aporten al SIU, quedará en propiedad y resguardo del Estado de Querétaro.
-
-La Secretaría de Seguridad, establecerá los lineamientos para que las instituciones de seguridad puedan tener acceso al SIU de acuerdo a su perfil, competencia o participación, así como certificar y reproducir cualquier información impresa o digital que se genere a partir de la base de datos con la que cuenta éste, vigilando siempre la confidencialidad, reserva de la información y demás disposiciones aplicables.
-
-Cada operador tendrá acceso ilimitado a la información que genera y requiera conforme a sus atribuciones. En el caso de que algún operador requiera información diversa o adicional a su competencia, deberá solicitarlo a la Secretaría de Seguridad.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Artículo 50 quinquies. Los Centros de comando operación, monitoreo y control de video vigilancia estatales y municipales se regirán por los principios que establece la presente Ley.
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
-
-El personal adscrito a las áreas de despacho y video vigilancia del Centro de Información y Análisis para la Seguridad de Querétaro, así como el personal de atención a las líneas de emergencia 9-1-1, 089 o cualquier otra semejante de gestión, atención y respuesta de emergencias estatal o municipales, deberá de regirse por los procesos de selección, evaluación y control de confianza que apliquen al personal operativo del Sistema Estatal de Seguridad en los términos de esta Ley y conforme al servicio profesional de carrera que establezca cada institución para el personal adscrito a las mismas, quienes deberán contar con las certificaciones que establezcan los Centros de formación correspondientes en los términos de la ley aplicable y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
-
-### Capítulo Quinto. Del Consejo Estatal de Seguridad
+### Capítulo IV: Sanciones
 
 ###### Artículo 51.
 
-Son instalaciones estratégicas los bienes muebles e inmuebles destinados al adecuado funcionamiento, mantenimiento y operación de las funciones de las instituciones de seguridad.
+Las sanciones aplicables a los servidores públicos que incurran en las causas de responsabilidad previstas en el artículo 4 del Acuerdo, consistirán en:
 
-Corresponde al Estado, en coordinación con la Federación y los municipios las acciones de vigilancia y protección de las instalaciones estratégicas, en el ámbito de su competencia, necesarias para mantener la paz y el orden público. La Secretaría de seguridad, coordinará dichas acciones.
+I. Apercibimiento privado o público;
+
+II. Amonestación privada o pública;
+
+III. Suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor a un año;
+
+IV. Sanción económica;
+
+V. Destitución del puesto; e
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
 ###### Artículo 52.
 
-La seguridad privada es una actividad a cargo de los particulares que tiene por objeto desempeñar acciones relacionadas con la protección, vigilancia o custodia de personas, de información, de bienes inmuebles, de muebles o valores, incluido su traslado, instalación y operación de equipo tecnológico.
+Para la individualización de las sanciones administrativas se tomarán en cuenta, además de los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, los que se refieren a continuación:
 
-Los prestadores de servicios de seguridad privada están obligados a aportar datos para la investigación de delitos, apoyar en caso de siniestros y desastres o coadyuvar con las autoridades estatales o municipales cuando así se le requiera, en su carácter de auxiliar de la función de seguridad, conforme a lo dispuesto por esta Ley y las demás disposiciones aplicables.
+I. Gravedad de la conducta en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones del Acuerdo o las que se dicten con base en él;
+
+II. Circunstancias socioeconómicas del servidor público;
+
+III. Nivel jerárquico y antecedentes del infractor, entre ellos la antigüedad en el servicio;
+
+IV. Condiciones exteriores y medios de ejecución;
+
+V. Reincidencia en el incumplimiento de obligaciones; y
+
+VI. Monto del beneficio o lucro obtenido, o del daño o perjuicio ocasionado, derivado de la conducta que se sanciona.
+
+Para la individualización de las sanciones establecidas en el artículo 37 de la Ley de Responsabilidades, deberá tomarse en cuenta la gravedad que revela el hecho de que una vez iniciado el procedimiento de responsabilidad administrativa por falta de la declaración de situación patrimonial, se advierta que ésta se presentó de manera extemporánea, antes de iniciado dicho procedimiento o durante su tramitación, o bien, no se hubiera subsanado la omisión en el cumplimiento de una obligación de esa naturaleza.
 
 ###### Artículo 53.
 
-La Secretaría de Seguridad es la autoridad competente para regular la autorización, registro, habilitación, operación, capacitación, verificación y evaluación de los prestadores de servicios de seguridad privada en el Estado, mismos que deberán cumplir con los requisitos y obligaciones que se establezcan en los ordenamientos jurídicos aplicables.
+Cuando por el incumplimiento de las obligaciones establecidas en las disposiciones legales aplicables, se obtenga beneficio o lucro, o se cause daño o perjuicio, procederá la imposición de sanción económica; en cuyo caso el monto de ésta podrá ser de hasta tres tantos del beneficio o lucro obtenido, o del daño o perjuicio causado.
+
+En ningún caso la sanción económica impuesta podrá ser menor o igual al monto del beneficio o lucro obtenido, o del daño o perjuicio causado.
 
 ###### Artículo 54.
 
-Los particulares que presten servicios de seguridad privada, con autorización federal o de otra entidad federativa, deberán cumplir con las disposiciones de la presente Ley, así como de los demás ordenamientos jurídicos aplicables.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-El personal de los prestadores de servicios de seguridad privada autorizados, deberá sujetarse a las evaluaciones de control de confianza.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-El Personal referido en el párrafo anterior, estará obligado a presentarse ante el Centro (sic) Evaluación y Control de Confianza del Estado de Querétaro para efecto de la evaluación correspondiente y para proporcionar las muestras biológicas que integran el Banco de Datos del Perfil Genético.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-Correrá a cargo de los prestadores del servicio de seguridad privada el costo de la evaluación de control de confianza, así como del procedimiento de obtención y registro del perfil genético de sus integrantes.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-No podrán operar en la Entidad las empresas de seguridad privada que no cumplan con lo establecido en el presente artículo.
+La destitución se aplicará a los servidores públicos cuando la falta administrativa sea grave y se justifique con base en los elementos del artículo 52 del Acuerdo.
 
 ###### Artículo 55.
 
-Corresponde a las autoridades administrativas la imposición de sanciones por la comisión de infracciones que atenten contra el orden público, la paz social y la seguridad, en sus respectivos ámbitos de competencia, de conformidad con lo establecido en el artículo 21 de la Constitución.
+La sanción de inhabilitación se regirá de la manera siguiente:
+
+I. De seis meses a un año: al servidor público que con la comisión de la falta administrativa no cause daño o perjuicio, ni obtenga beneficio o lucro alguno;
+
+II. De uno a diez años: al servidor público que con la comisión de la falta administrativa, cause daño o perjuicio u obtenga un beneficio o lucro, siempre que el monto de éstos no exceda de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal; y
+
+III. De diez a veinte años: al servidor público que con la comisión de la falta administrativa, ocasione daño o perjuicio u obtenga un beneficio o lucro que exceda de la cantidad establecida en la fracción anterior; así como al servidor público que cometa una falta administrativa considerada como grave.
 
 ###### Artículo 56.
 
-Las sanciones que se impongan con motivo de las infracciones señaladas, la permutación de las mismas y los procedimientos para su aplicación se establecerán y llevarán a cabo en los términos que fijen las leyes y ordenamientos reglamentarios respectivos.
-
-Capítulo Decimoprimero
-
-De la investigación y persecución del delito
+Para los efectos del presente Acuerdo, se considerará en todo caso como falta grave, el incumplimiento de las obligaciones previstas en los artículos 101 de la Constitución y 8, fracciones VIII, X a XIV, XVI, XXII y XXIII, de la Ley de Responsabilidades; así como la comisión de las conductas previstas en las fracciones I a VI del artículo 131 de la Ley Orgánica.
 
 ###### Artículo 57.
 
-Corresponde a la Fiscalía General investigar y perseguir los delitos, mediante el uso de técnicas e investigación científica; garantizar la protección y reparación integral del daño de las víctimas; aplicar las medidas de protección y solicitar las cautelares; respetar y proteger los Derechos Humanos, así como cumplir con la transparencia y la perspectiva de género en su actuar.
+Para la valoración y sanción de las faltas conforme a los criterios previstos en los artículos 52 a 56 del Acuerdo, se tendrá a la vista el expediente personal del servidor público correspondiente.
 
 ###### Artículo 58.
 
-La institución del Ministerio Público, para el ejercicio de sus atribuciones, se estructura en una Fiscalía General, Órgano Constitucional Autónomo que se regirá por la Constitución Política del Estado de Querétaro, la presente Ley, su legislación y demás disposiciones aplicables.
+Se considera reincidente al servidor público que una vez declarado responsable de la comisión de cualquier causa de responsabilidad prevista en el artículo 131 de la Ley Orgánica, o del incumplimiento de alguna de las obligaciones establecidas en el artículo 8 de la Ley de Responsabilidades, incurre nuevamente, con posterioridad a la notificación de la imposición de la sanción, en la misma falta o conducta por la que fue previamente sancionado.
 
-Para el despacho de los asuntos, el Fiscal General se auxiliará de los órganos, direcciones, coordinaciones, unidades administrativas y personal necesario para el ejercicio de sus funciones, en términos de lo dispuesto por la legislación aplicable.
+Para la individualización de la sanción, la reincidencia se considerará en el supuesto de que no excedan tres años en faltas no graves o cinco años en faltas graves, siguientes a la notificación de la resolución por la que fue sancionado.
 
-## Título Tercero. De las funciones y órganos del Sistema Estatal
+## TITULO TERCERO: Procedimiento de responsabilidad administrativa en particular
 
-### Capítulo Sexto. De los Consejos Municipales de Seguridad
+### Capítulo I: Organos competentes
 
 ###### Artículo 59.
 
-La Fiscalía General contará con un Consejo, que será el Órgano encargado de transparentar, aprobar y evaluar el cumplimiento de las normas de actuación de los servidores públicos que la integran, así como aprobar el informe anual de actividades.
+Los órganos competentes para conocer de las responsabilidades administrativas de los servidores públicos son los siguientes:
 
-La conformación y funcionamiento del Consejo, estará regulado por su reglamento.
+I. El Pleno para ordenar de oficio el inicio de investigaciones y procedimientos de responsabilidad administrativa contra Titulares, servidores públicos adscritos a órganos jurisdiccionales y unidades administrativas del Consejo, y resolverlos en los casos previstos en el Acuerdo;
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+II. El Presidente para ordenar el inicio de investigaciones y procedimientos de responsabilidad administrativa contra Titulares, en los casos en los que las probables responsabilidades se hayan hecho de su conocimiento mediante queja o denuncia, así como para proveer lo necesario para su trámite;
+
+III. La Comisión para ordenar el inicio de investigaciones y procedimientos de responsabilidad administrativa contra servidores públicos adscritos a órganos jurisdiccionales a excepción de los Titulares, servidores públicos adscritos a unidades administrativas, y respecto de quejas o denuncias cuyo trámite se estime dudoso o trascendente, y para resolver los procedimientos de responsabilidad administrativa en los términos del Acuerdo;
+
+IV. La Secretaría para llevar a cabo las investigaciones y el trámite de los procedimientos de responsabilidad administrativa contra Titulares, servidores públicos adscritos a órganos jurisdiccionales, Contraloría y el Director General del Instituto Federal de Defensoría Pública;
+
+V. La Contraloría para ordenar y tramitar investigaciones y procedimientos de responsabilidad administrativa contra servidores públicos adscritos a unidades administrativas del Consejo, incluyendo a sus titulares; y
+
+VI. Los Titulares para auxiliar al Consejo y a la Contraloría en el trámite del procedimiento de responsabilidad administrativa contra servidores públicos adscritos a órganos jurisdiccionales y unidades administrativas.
 
 ###### Artículo 60.
 
-Para la atención integral a víctimas del delito, la Fiscalía General se coordinará con la Comisión Estatal.
+Cuando de un mismo acto se derivan causas de responsabilidad administrativa en contra de servidores públicos adscritos a órganos distintos, el trámite del procedimiento de responsabilidad administrativa respecto de todos los involucrados corresponde a la Secretaría.
 
 ###### Artículo 61.
 
-En materia de prevención social, la Fiscalía General se coordinará con las instituciones de seguridad, atendiendo a las políticas y programas del Consejo Estatal.
+En los procedimientos de responsabilidad administrativa en contra de un Titular, o en los que concurra un Titular y otro servidor público del Poder Judicial de la Federación, se deberá observar lo siguiente:
+
+I. Corresponde al Pleno o al Presidente, ordenar a la Secretaría el inicio de la investigación. Si como resultado de la investigación se advirtieran posibles causas de responsabilidad, corresponderá al Pleno o al Presidente ordenar el respectivo procedimiento de responsabilidad administrativa;
+
+II. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hubieren elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+
+III. La Secretaría tramitará el procedimiento de responsabilidad administrativa y turnará el asunto al consejero que corresponda para que éste elabore el proyecto de resolución respectivo, el cual será sometido a la consideración del Pleno o de la Comisión, según corresponda; y
+
+IV. El Pleno será competente para resolver los procedimientos de responsabilidad administrativa en los que se proponga imponer una sanción, en los demás casos resolverá la Comisión.
 
 ###### Artículo 62.
 
-La Fiscalía General implementará el Servicio Profesional de Carrera para los Agentes del Ministerio Público Fiscal, Peritos y Policías de Investigación del Delito, de carácter obligatorio y permanente, en los términos de su propia legislación.
+En los procedimientos de responsabilidad administrativa en contra de servidores públicos adscritos a órganos jurisdiccionales, se deberá observar lo siguiente:
+
+I. Es facultad originaria del Consejo conocer de los procedimientos de responsabilidad administrativa contra servidores públicos adscritos a órganos jurisdiccionales;
+
+II. Para efectos del trámite del procedimiento de responsabilidad administrativa, el Consejo se auxiliará en el órgano auxiliar instructor, sin perjuicio de que lo tramite directamente;
+
+III. La Secretaría, de oficio, por queja o denuncia, dará cuenta a la Comisión para que ésta resuelva sobre el inicio de la investigación a cargo de la propia Secretaría, o bien, ordenará el inicio del procedimiento de responsabilidad administrativa si hay elementos para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+
+IV. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hubieren elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+
+V. La Comisión determinará el órgano jurisdiccional que auxiliará a la Secretaría en el trámite del procedimiento de responsabilidad administrativa; y
+
+VI. Agotado el trámite, la Secretaría turnará el asunto al consejero que corresponda para que éste elabore el proyecto de resolución que someterá a consideración de la Comisión.
 
 ###### Artículo 63.
 
-La Fiscalía General para la investigación del delito tiene la facultad de requerir la información física, digital y toda evidencia que tenga en su posesión cualquier persona o autoridad en términos de las disposiciones legales aplicables.
+En los procedimientos de responsabilidad administrativa en contra de servidores públicos adscritos a unidades administrativas, incluyendo a sus titulares, se deberá observar lo siguiente:
+
+I. La Contraloría podrá iniciar la investigación de oficio, por queja o denuncia, o cuando así lo ordene el Pleno o la Comisión, y si como resultado de aquélla, se advierten probables causas de responsabilidad, deberá iniciar el procedimiento de responsabilidad administrativa;
+
+II. Cuando la Contraloría inicie una investigación o procedimiento de responsabilidad administrativa en contra de servidores públicos nombrados por el Pleno, lo hará de su conocimiento e informará de los resultados obtenidos en la investigación;
+
+III. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hay elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+
+IV. La Contraloría tramitará el procedimiento de responsabilidad administrativa y someterá el proyecto de resolución a la Comisión; tratándose de titulares de unidades administrativas, ésta deberá informarlo al Pleno; y
+
+V. Para el trámite del procedimiento de responsabilidad administrativa, la Contraloría podrá solicitar el auxilio de los Titulares.
 
 ###### Artículo 64.
 
-La Fiscalía General se coordinará con los demás integrantes del Sistema Estatal, para la aplicación de políticas públicas de seguridad y el desarrollo de tecnologías.
+En los procedimientos de responsabilidad administrativa en contra de servidores públicos de la Contraloría, se deberá observar lo siguiente:
 
-Capítulo Decimosegundo
+I. La Secretaría podrá iniciar la investigación de oficio, por queja o denuncia, o cuando así lo ordene el Pleno o la Comisión, y si como resultado de ésta, advierte probables causas de responsabilidad, someterá a la consideración de la Comisión el inicio del procedimiento de responsabilidad administrativa;
 
-De la ejecución de penas y medidas de seguridad
+II. Tratándose del titular de la Contraloría, la Secretaría dará cuenta al Pleno para que éste resuelva sobre el inicio de la investigación a cargo de la propia Secretaría, o bien, ordene el inicio del procedimiento de responsabilidad administrativa;
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+III. Para el inicio del procedimiento de responsabilidad administrativa, no se requerirá investigación alguna si hubieren elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado;
+
+IV. La Secretaría tramitará el procedimiento de responsabilidad administrativa y someterá el proyecto de resolución a la Comisión; y
+
+V. Una vez agotado el trámite, tratándose del titular de la Contraloría, la Secretaría turnará el asunto al consejero que corresponda para que elabore el proyecto de resolución que será sometido a consideración del Pleno.
 
 ###### Artículo 65.
 
-La ejecución material de las penas y medidas de seguridad previstas en las leyes penales, estará a cargo de la Comisión Estatal del Sistema Penitenciario de Querétaro, así como la administración y operación del Sistema Penitenciario. Se estará a lo dispuesto por la Ley Nacional de Ejecución Penal, que establece las normas que habrán de observarse durante el internamiento por prisión preventiva, así como en la ejecución de las penas y medidas de seguridad impuestas por resolución judicial.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+Los procedimientos de responsabilidad administrativa de los servidores públicos del Instituto Federal de Defensoría Pública, serán resueltos conforme a las disposiciones legales y normativas aplicables. Tratándose de su titular, se seguirá en lo conducente lo dispuesto en el artículo anterior.
 
 ###### Artículo 66.
 
-La Comisión Estatal del Sistema Penitenciario de Querétaro organizará la administración y operación de los programas de reinserción social en los centros penitenciarios, buscando fortalecer las capacidades de las personas sujetas a la ejecución de penas y medidas de seguridad, mediante el respeto a los Derechos Humanos, el trabajo, la capacitación para el mismo, la educación, la salud, la cultura y el deporte, con el objeto de restituirles los derechos restringidos, procurando que no vuelvan a delinquir y fomentar en ellos una actitud de responsabilidad social.
+De conformidad con lo que al respecto establecen los artículos 109, fracción III y 113 de la Constitución, la Ley Orgánica, la Ley de Responsabilidades, y el Acuerdo, el Pleno podrá ordenar el inicio del procedimiento de responsabilidad administrativa de conformidad con este Título, cuando, al emitir una resolución en materia de conflictos laborales, de conformidad con el artículo 81, fracción XXV, de la Ley Orgánica, advierta que el titular de un órgano jurisdiccional o unidad administrativa cesó o despidió a un servidor público en notoria contravención a las disposiciones legales aplicables y con error, mala fe o evidente descuido.
 
-La Comisión Estatal del Sistema Penitenciario de Querétaro se integrará en programas de inteligencia para la ejecución de acciones, elaboración de estrategias y diseño de políticas públicas que permitan disuadir, contener y neutralizar riesgos y amenazas a la Seguridad.
+El monto que se exija al servidor público por concepto del daño o perjuicio causado al Poder Judicial de la Federación, formará parte de la sanción económica que se aplique.
 
-Capítulo Decimotercero
+Para la ejecución de la sanción económica que se imponga, se ordenará a la Dirección General de Recursos Humanos que aplique los descuentos quincenales que correspondan, los que no podrán exceder del veinticinco por ciento del sueldo del servidor público respectivo, hasta en tanto se cubra el monto determinado por el Pleno.
 
-De las medidas cautelares y suspensión condicional del proceso
+En caso que el sancionado ya no preste servicios en el Poder Judicial de la Federación, se estará a lo dispuesto por el artículo 106, fracción III, del Acuerdo.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-### Capítulo Primero. De la seguridad ciudadana
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2022)</small>
+### Capítulo II: Investigación
 
 ###### Artículo 67.
 
-La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro tiene por objeto evaluar los riesgos procesales y supervisar las medidas cautelares, suspensión condicional del proceso, medidas de seguridad en libertad y libertad condicionada.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+Antes del inicio del procedimiento de responsabilidad administrativa o durante su tramitación, el Pleno, el Presidente, la Comisión y el titular de la Contraloría, en el ámbito de sus respectivas competencias, podrán ordenar la práctica de investigaciones conducentes para el esclarecimiento de las conductas probablemente constitutivas de responsabilidad administrativa.
 
 ###### Artículo 68.
 
-La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro, se coordinará o auxiliará de los organismos gubernamentales, no gubernamentales o de la sociedad civil que correspondan, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal la Ley de Seguridad para el Estado de Querétaro y demás ordenamientos jurídicos aplicables.
+La ejecución de las investigaciones estará a cargo de la Secretaría, la Contraloría a través de la Dirección, la Visitaduría Judicial o el órgano auxiliar instructor que se designe para tal efecto.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2024)</small>
+Dos o más de estos órganos ejecutores en el ámbito de sus atribuciones podrán tener tal carácter en una investigación.
 
-###### Artículo 68 Bis.
-
-Los evaluadores de riesgos y los supervisores de medidas cautelares de la Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro, deberán someterse a los principios y mecanismos del Servicio Profesional de Carrera, certificación y capacitación que establezcan los Centros de formación correspondientes en los términos de la normatividad aplicable y la suficiencia presupuestaria y no serán removidos sino por causa grave en términos de las disposiciones jurídicas aplicables.
+Para el trámite de la investigación se aplicará en lo conducente el Título Segundo del Acuerdo.
 
 ###### Artículo 69.
 
-La transparencia y acceso a la información pública, tiene como finalidad garantizar que toda la información generada, obtenida, adquirida, transformada o en posesión de las autoridades sea pública y accesible a cualquier persona en los términos y condiciones que se establecen en la Constitución, los tratados internacionales de los que el Estado Mexicano sea parte, en la Ley General de Transparencia y Acceso a la Información Pública, la presente Ley y demás normatividad aplicable en sus respectivas competencias.
+El acuerdo que ordena la investigación deberá expresar las circunstancias que la justifiquen, sin extenderse a hechos distintos de los señalados en dicho acuerdo.
 
-La clasificación de la información como reservada, se ejecutará conforme a las disposiciones aplicables de la materia.
+Si durante la investigación se descubren otros hechos probablemente constitutivos de responsabilidad, podrá ordenarse el inicio de una nueva investigación.
+
+Asimismo, el encargado de la investigación podrá solicitar al órgano que la ordenó autorización para ampliarla, siempre y cuando no varíen los hechos directos o conexos materia de la misma.
 
 ###### Artículo 70.
 
-Los servidores públicos de las instituciones que integran el Sistema Estatal, respetarán el derecho de acceso a la información, de conformidad con la normatividad aplicable.
+Quien decretó el inicio de la investigación o el encargado de su trámite podrán ordenar la práctica de todas aquellas actuaciones y diligencias para mejor proveer, que sean conducentes para el esclarecimiento de los hechos materia de investigación, sin más limitación que lo dispuesto por la ley.
 
-Los integrantes de las instituciones del Sistema Estatal, implementarán mecanismos de transparencia y rendición de cuentas, así como la implementación de indicadores acordes a su competencia.
+El servidor público investigado podrá imponerse del contenido de las diversas actuaciones y allegar medios de convicción.
+
+El promovente podrá aportar al órgano encargado, información y medios de prueba, pero éste podrá desestimarlas conforme a derecho.
 
 ###### Artículo 71.
 
-Las instituciones estarán obligadas a proteger la información que se refiere a la vida privada y los datos personales, salvo en los supuestos de excepción de la ley de la materia. Lo anterior, con independencia de las obligaciones y atribuciones que legalmente se encuentren establecidos (sic) a favor del órgano garante del Estado en materia de transparencia y acceso a la información.
+Al servidor público que se le solicite información o documentación con motivo de una investigación, deberá proporcionarla en los términos solicitados y en un plazo que no podrá exceder de diez días hábiles, mismo que podrá ser prorrogado hasta por diez días hábiles más, a solicitud justificada de aquél.
 
-La inobservancia de las obligaciones en materia de acceso a la información, será sancionada en los términos que dispongan las leyes.
+Si lo requerido no se rinde conforme a lo solicitado, previo apercibimiento, se aplicarán los medios de apremio previstos en la Ley y, en su caso, se requerirá al superior jerárquico.
 
 ###### Artículo 72.
 
-Los órganos internos de control de las instituciones integrantes del Sistema Estatal tendrán la atribución de vigilar la estricta observancia de la legalidad en la actuación de los servidores públicos, en apego y cumplimiento a los principios institucionales y a la normatividad aplicable a cada una de ellas, velando siempre porque sean respetados los Derechos Humanos, fomentando políticas públicas y estrategias que garanticen la disminución de riesgos de corrupción y la rendición de cuentas en beneficio de la ciudadanía.
+El encargado de la investigación deberá tomar las medidas necesarias para preservar la materia de la investigación o evitar que se pierdan, oculten, destruyan o alteren los elementos relacionados con los hechos investigados.
 
-Las instituciones integrantes del Sistema Estatal, establecerán la estructura orgánica, procedimientos, requerimientos y atribuciones, acordes a sus necesidades de gestión administrativa, en su ley particular.
+Asimismo, podrá acordar las medidas para conocer a los involucrados y testigos de esos hechos, evitar que éstos se sigan cometiendo y, en general, para facilitar la realización de la investigación.
 
 ###### Artículo 73.
 
-Los órganos internos de control en sus ámbitos de competencia, deberán realizar las evaluaciones de control interno en sus dependencias, que garanticen la eficacia en sus procesos, el cumplimiento de sus metas y programas establecidos, así como detectar y sancionar probables conductas de responsabilidad administrativa.
+La investigación deberá realizarse en un plazo no mayor a seis meses, salvo acuerdo expreso de quien la haya ordenado, considerando los términos de la prescripción.
 
-### Capítulo Segundo. De la prevención social de la violencia y la delincuencia
+Finalizada la investigación o vencido su plazo, el órgano investigador, dentro de los diez días hábiles siguientes, emitirá un proyecto de dictamen, el cual someterá a consideración del órgano que la haya ordenado para que determine lo que corresponda.
+
+Si en el dictamen se concluye que no existen elementos suficientes para advertir la probable existencia de alguna causa de responsabilidad administrativa, la información o documentos recabados en esa investigación podrán valorarse en una posterior, siempre y cuando lo autorice el órgano que ordenó la nueva investigación y no haya prescrito la facultad sancionadora.
+
+### Capítulo III: Inicio del procedimiento
 
 ###### Artículo 74.
 
-Los órganos internos de control o las instancias señaladas en las leyes correspondientes que realicen funciones de supervisión, transparencia o sanción para prevenir, detectar y sancionar la corrupción realizarán las siguientes funciones:
-
-I. Recopilar, sistematizar y difundir información sobre las actividades de la Institución;
-
-II. Evaluar la correcta aplicación de indicadores de eficacia;
-
-III. Verificar el cumplimiento de los procesos de gestión de la institución;
-
-IV. Propiciar la participación ciudadana, mediante la recopilación y procesamiento de quejas, reclamaciones y sugerencias para la toma de decisiones en la mejora de procedimientos;
-
-V. Generar mecanismos sencillos y diversos para la presentación de quejas y sugerencias;
-
-VI. Brindar respuesta con oportunidad a las quejas, reclamaciones y sugerencias planteadas;
-
-VII. Generar información para la elaboración de políticas públicas de comunicación con un enfoque de accesibilidad y comprensibilidad;
-
-VIII. Atender, en tiempo y forma, las solicitudes de acceso a la información que presenten los ciudadanos;
-
-IX. Vigilar que las áreas respectivas, den el adecuado seguimiento a los resultados que emita el Centro de Evaluación y Control de Confianza del Estado; y
-
-X. Las demás que establezcan las disposiciones legales aplicables.
+El procedimiento de responsabilidad administrativa inicia por oficio, queja o denuncia presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el agente del Ministerio Público Federal. Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
 
 ###### Artículo 75.
 
-Los titulares de los órganos internos de control o de aquellas áreas que realicen funciones de supervisión, transparencia o sanción, deberán someterse al proceso de evaluación de control de confianza.
+Las denuncias anónimas sólo serán tramitadas cuando estén acompañadas de pruebas documentales fehacientes.
 
 ###### Artículo 76.
 
-El Centro de Evaluación y Control de Confianza del Estado de Querétaro, es el organismo público descentralizado con personalidad jurídica y patrimonio propio, así como con plena autonomía técnica y de gestión, que tiene como función apoyar a las instituciones integrantes del Sistema Estatal y empresas de seguridad privada, en la evaluación de los procesos de evaluación de control de confianza para la selección del ingreso, reclutamiento, permanencia, promoción e investigaciones especiales del personal, de conformidad con la normatividad aplicable.
+Si las quejas o denuncias no reúnen los elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público involucrado, se desecharán de plano por el órgano competente que conozca del asunto, de conformidad con el artículo 59 del Acuerdo.
+
+No obstante, si del escrito de queja o denuncia se desprenden indicios que permitan establecer la probable existencia de una responsabilidad administrativa, el órgano competente podrá ordenar, de oficio, se recaben las pruebas que estime necesarias o se practique la investigación que permita allegárselas; hecho lo cual, se proveerá sobre su admisión o desechamiento.
+
+La Contraloría informará al Pleno de las quejas o denuncias que deseche tratándose de servidores públicos por él nombrados y, en los demás casos, informará a la Comisión. La Secretaría hará lo mismo respecto de aquéllas desechadas por el Presidente.
 
 ###### Artículo 77.
 
-Los integrantes de las instituciones de seguridad, estarán obligados a presentar y aprobar periódicamente el proceso de evaluación y control de confianza, en los términos de las disposiciones aplicables a las instituciones a las que pertenecen o aspiran a pertenecer.
-
-En todo caso, esta obligación deberá ser presentada y aprobada por quien realice funciones de:
-
-I. Personal operativo facultado para el uso legal de la fuerza pública;
-
-II. Autoridad supervisora de medidas cautelares;
-
-III. Ministerio Público y Agente del Ministerio Público Fiscal;
-
-IV. Perito;
-
-V. Posesión, resguardo, manejo o acceso a información específica en materia de seguridad;
-
-VI. Administre recursos financieros relacionados con la seguridad; y
-
-VII. Quien se encuentre señalado en las disposiciones legales aplicables.
-
-Será sujeto de responsabilidad, en términos de las disposiciones legales aplicables, quien otorgue nombramiento a los servidores públicos que no hayan sido certificados en control de confianza o, en su caso, mantenga en el cargo al servidor público que no cuente con certificado vigente para el puesto a desempeñar.
-
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
-
-En materia de protección civil, el personal que preste servicios operativos, técnicos y jurídicos, en el Sistema Estatal de Protección Civil, Prevención y Mitigación de Desastres para el Estado de Querétaro, el Centro Regulador de Urgencias Médicas adscrito a la Secretaría de Salud del Estado de Querétaro, y demás Centros de Emergencia, se sujetará y aprobará las evaluaciones de certificación y control de confianza, en los términos de las disposiciones aplicables.
+Si el escrito de queja o denuncia es obscuro o irregular, la Secretaría o la Contraloría, según corresponda, deberá prevenir al promovente por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija, señalándole en forma concreta las irregularidades.
 
 ###### Artículo 78.
 
-El Centro de Evaluación y Control de Confianza del Estado de Querétaro, tendrá la facultad de solicitar a las instituciones integrantes del Sistema Estatal, entidades públicas y privadas, la información que resulte necesaria para cumplir con sus fines, en términos de las disposiciones legales aplicables.
+Cuando el órgano competente advierta que existen elementos para iniciar un procedimiento de responsabilidad administrativa, dictará un proveído en el que admitirá y ordenará la formación del expediente respectivo, conteniendo las conductas que se imputan y las probables causas de responsabilidad administrativa atribuidas al servidor público, de conformidad con el artículo 4 del Acuerdo.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+La Secretaría someterá a consideración del órgano competente, el proveído en el que determine la admisión de las quejas o denuncias.
 
-### Capítulo Cuarto. Del Banco de Datos del Perfil Genético
+La Dirección hará lo correspondiente tratándose de los asuntos que conozca la Contraloría, y someterá a consideración de su titular el proveído donde se determine sobre la admisión de las quejas o denuncias.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+En ambos proveídos se determinará si el asunto se considera por su naturaleza queja o denuncia.
 
-###### Artículo 78 Bis.
-
-El Centro de Evaluación y Control de Confianza del Estado de Querétaro, establecerá, operará y administrará un Banco de Datos que tendrá por objeto concentrar, registrar y administrar el perfil genético de los integrantes de las Instituciones de seguridad de la Entidad, así como de los integrantes de las empresas de seguridad privada.
-
-Para el cumplimiento de las funciones precisadas en el párrafo anterior, el Centro de Evaluación y Control de Confianza del Estado de Querétaro se podrá auxiliar de las Instituciones de Seguridad para que, a través de su infraestructura tecnológica, se pueda ejecutar le (sic) proceso de obtención del perfil genético.
-
-El Centro de Evaluación y Control de Confianza del Estado de Querétaro establecerá un sistema de registro y control que permita preservar la confidencialidad y resguardo de la información de los expedientes correspondientes al Banco de Datos.
-
-La Fiscalía General del Estado podrá solicitar y utilizar la información del Banco de Datos, cuando tenga vinculación con la investigación o persecución de delitos objeto de su competencia.
-
-Ninguna persona podrá ingresar o permanecer en las Instituciones de seguridad, seguridad privada, protección civil y aquellas que realicen actividades de atención a emergencias que integren el sistema estatal de protección civil, sin haber proporcionado su perfil genético de conformidad con esta Ley y demás normatividad aplicable.
-
-## Título Quinto
-
-### Capítulo Único. Disposiciones Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
-
-### Capítulo Tercero. Grupo de Coordinación Estatal para la Seguridad
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
+### Capítulo IV: Trámite del procedimiento
 
 ###### Artículo 79.
 
-Los fondos de ayuda aportados al Estado provenientes de cualquier origen y destinados para la seguridad pública o cualquier rubro de seguridad, serán administrados por la Secretaría de Finanzas del Poder Ejecutivo del Estado. El control, vigilancia, transparencia y supervisión del manejo de los recursos asignados a las instituciones del Sistema Estatal estará a cargo del Secretario Ejecutivo del Consejo Estatal de Seguridad, quien determinará las medidas de fiscalización y cualquier otra que resulte necesaria para garantizar el debido cumplimiento de las obligaciones contraídas por el Estado en los convenios generales o específicos, así como la normatividad aplicable.
+En los procedimientos de responsabilidad administrativa se ordenará emplazar al servidor público enviándole copia del proveído donde se ordena el inicio del procedimiento, la queja o denuncia y anexos correspondientes, y en su caso, del resultado de la investigación, para que en un plazo de cinco días hábiles formule un informe sobre los hechos que se le atribuyen.
 
-La Fiscalía General tendrá acceso a los fondos y aportaciones para la seguridad pública en los términos de las legislaciones correspondientes y en base a las disposiciones que establezca el Consejo Estatal.
+El informe deberá referirse a todos y cada uno de los hechos atribuidos; afirmándolos, negándolos, expresando los que ignore por no ser propios y refiriéndolos como crea que tuvieron lugar.
+
+Se presumen confesados los hechos sobre los cuales el probable responsable no se manifiesta explícitamente, siempre que le sean propios, salvo prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del quejoso o denunciante.
 
 ###### Artículo 80.
 
-En materia de prevención de la delincuencia y la violencia, atención a víctimas y aplicación de medios alternativos de solución de controversias y conflictos, las dependencias de la administración estatal destinarán recursos a los programas específicos de orden transversal destinados a atender aspectos de la seguridad, conforme a los lineamientos establecidos por el Consejo Estatal de Seguridad y la normatividad aplicable.
+La Secretaría, la Dirección o el órgano auxiliar instructor, según corresponda, hará el emplazamiento a que hace referencia el artículo anterior mediante notificación personal.
 
 ###### Artículo 81.
 
@@ -1205,6 +789,10 @@ Transcurrido el plazo para que el probable responsable rinda su informe, el órg
 
 Agotado el plazo anterior, no se le admitirán más pruebas, salvo aquellas que a juicio del órgano competente surjan de hechos supervenientes o que determinen la improcedencia del procedimiento de responsabilidad administrativa, en cuyo caso, podrán ofrecerse antes de la extinción del plazo para la presentación de alegatos.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+En tratándose de los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial, si del informe rendido por el servidor público se advierte confesión expresa respecto de la irregularidad que se le atribuye o, en su caso, señale que no tiene pruebas que ofrecer, se procederá de inmediato a dictar la resolución correspondiente en los términos previstos por los artículos 92, 138 y 139 del presente Acuerdo.
+
 ###### Artículo 87.
 
 Al quejoso o denunciante no se le admitirán pruebas después de presentada la queja o denuncia, salvo la documental pública que ofrecida no haya podido presentarse por motivos ajenos al oferente.
@@ -1221,9 +809,7 @@ Una vez desahogadas las pruebas admitidas, se concederá al probable responsable
 
 La Comisión, por conducto de su presidente, informará al Pleno sobre las resoluciones que emita en los procedimientos de responsabilidad administrativa que hayan sido declarados improcedentes, infundados, sin materia o prescritos; así como de los dictámenes de visita de inspección extraordinaria en los que no se hayan advertido irregularidades administrativas.
 
-### Capítulo Cuarto. De los mecanismos alternativos de solución de controversias y conflictos
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2022)</small>
+### Capítulo V: Resolución
 
 ###### Artículo 91.
 
@@ -1311,7 +897,7 @@ En ese supuesto ordenará la devolución del proyecto a la Secretaría o a la Co
 
 Si el Pleno o la Comisión estiman que la queja o denuncia fue interpuesta de manera notoriamente improcedente o infundada; afirmando hechos falsos u omitiendo los que le consten; o presentando pruebas o documentos alterados o apócrifos; se impondrá al quejoso o denunciante, o a su representante, o a ambos, una multa de diez a ciento veinte días de salario mínimo vigente en el Distrito Federal en el momento de interponerse la queja o denuncia, de conformidad con el artículo 139 de la Ley Orgánica. La imposición de la multa debe fundarse y motivarse en la resolución correspondiente, así como en la orden de ejecución.
 
-### Capítulo Quinto. Del desarrollo profesional del personal operativo de las instituciones de seguridad
+### Capítulo VI: Ejecución de sanciones
 
 #### Sección I: Modalidades
 
@@ -1395,7 +981,7 @@ Para la modificación de un criterio se observarán las mismas reglas establecid
 
 El Pleno podrá declarar sin efectos los criterios emitidos por la Comisión.
 
-### Capítulo Sexto. De la operación policial
+### Capítulo VII: Asuntos relacionados
 
 ###### Artículo 119.
 
@@ -1405,45 +991,7 @@ Los criterios se compondrán de rubro, texto y datos de identificación, en los 
 
 Para la elaboración y publicidad de los criterios se observarán las reglas establecidas en los lineamientos que al efecto se aprueben.
 
-### Capítulo Sexto Bis. Del enfoque de proximidad
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Artículo 46 bis. El personal operativo facultado para el uso legal de la fuerza pública realizará sus funciones con un enfoque de proximidad consistente en el desempeño de sus atribuciones de manera proactiva, colaborativa, de acercamiento con la comunidad y con base en acciones preventivas.
-
-El enfoque de proximidad se implementará con base en estrategias que además de combatir la violencia y la delincuencia identifiquen y reaccionen a sus causas bajo parámetros de acceso a la justicia penal, cívica y cotidiana.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Artículo 46 ter. El enfoque de proximidad contempla:
-
-I. Procuración (sic) la solución de conflictos entre particulares;
-
-II. Trabajo con la comunidad para crear condiciones que permitan a los habitantes del Estado vivir en un ambiente seguro para su desarrollo humano integral;
-
-III. Actuación con perspectiva de género y protección efectiva de derechos humanos;
-
-IV. Prevención de conductas delictivas;
-
-V. Investigación del delito, en términos de las disposiciones jurídicas aplicables en la materia;
-
-VI. Promoción, prevención y vigilancia del respeto a las leyes administrativas, de conformidad con las disposiciones jurídicas aplicables en la materia;
-
-VII. Reacción en términos de la legislación en la materia; y
-
-VIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Artículo 46 quáter. Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Coordinación del Servicio Profesional de Carrera Policial y el Centro de Capacitación, Formación e Investigación para la Seguridad de Querétaro, coordinar y en su caso realizar, los programas de formación inicial y formación continua, que contemplen los programas de estudios, los procedimientos y todas las acciones necesarias para formar capacidades para el desempeño de la función policial con enfoque de proximidad.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Artículo 46 quinquies. Todas las autoridades estatales y municipales en el ámbito de sus competencias serán corresponsables con las instituciones de seguridad en el seguimiento y solución de los problemas comunitarios.
-
-Estas autoridades deberán adecuar su marco jurídico para alinear sus funciones al enfoque de proximidad. Para lo cual, deberán expedir los reglamentos, lineamientos y documentos necesarios para dicho fin.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2018)</small>
+### Capítulo VIII: Criterios en materia de disciplina
 
 ###### Artículo 121.
 
@@ -1489,9 +1037,7 @@ La autoridad que imponga suspensión o inhabilitación, deberá acompañar a la 
 
 Sólo serán inscritas en el Registro de Servidores Públicos Sancionados las sanciones previstas en el artículo 51 del Acuerdo.
 
-### Capítulo Séptimo. Del Centro de Información y Análisis para la Seguridad de Querétaro
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+### Capítulo IX: Inscripción
 
 ###### Artículo 126.
 
@@ -1527,7 +1073,7 @@ El personal que determine el titular de la Contraloría, proporcionará el aseso
 
 La Dirección de Registro Patrimonial generará un comprobante al recibir las declaraciones de situación patrimonial, que contendrá el código de identificación electrónica y que podrá ser impreso del sistema correspondiente por los servidores públicos.
 
-### Capítulo Octavo. De las instalaciones estratégicas
+### Capítulo I: Reglas generales
 
 ###### Artículo 134.
 
@@ -1551,6 +1097,18 @@ En términos de lo previsto en el artículo 40 de la Ley de Responsabilidades y 
 
 En el registro se inscribirán los datos curriculares de los servidores públicos obligados a presentar declaración de situación patrimonial, sus funciones, ingresos y reconocimientos con motivo de su empleo, cargo o comisión; la información relativa a su situación patrimonial, en lo referente a sus ingresos del último año, bienes muebles e inmuebles, inversiones financieras y adeudos; y, en su caso, los procedimientos de responsabilidad administrativa en los que se les haya impuesto sanción.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+La información relativa a la situación patrimonial será confidencial; sin embargo, podrá hacerse pública siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate. En tal supuesto, dicha información podrá ser solicitada a través de los módulos de acceso a la información pública del Consejo correspondientes.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+La Contraloría expedirá las normas para la operación del registro y las constancias de sanciones, en todo caso las de inhabilitación, así como las de no existencia de estas sanciones, que acrediten la situación específica de las personas que, en su caso, las requieran.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+Dichas constancias podrán obtenerse del sistema electrónico que establezca la Contraloría.
+
 ###### Artículo 138.
 
 Los órganos competentes para ejercer las atribuciones correspondientes al registro, seguimiento y declaración de la situación patrimonial de los servidores públicos, así como de los procedimientos de responsabilidad administrativa que se inician por este motivo, serán los siguientes:
@@ -1573,9 +1131,9 @@ Cuando la Contraloría observe incumplimiento por parte de los servidores públi
 
 En caso de incumplimiento de los servidores públicos considerados en el inciso c) del artículo 145 del Acuerdo, la Contraloría deberá informar a su similar del Tribunal Electoral y le remitirá la documentación correspondiente para que ésta proceda conforme a sus atribuciones.
 
-## Título Cuarto. De la transparencia y acceso a la información
+## TITULO CUARTO: Registro patrimonial de los servidores públicos
 
-### Capítulo Noveno. De la seguridad privada
+### Capítulo II: Organos competentes
 
 ###### Artículo 141.
 
@@ -1649,49 +1207,183 @@ b) En unidades administrativas:
 
 1. Consejero;
 
-2. Secretario Ejecutivo;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-3. Coordinador General;
+2. Oficial Mayor;
 
-4. Secretario Técnico de Comisión del Consejo;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-5. Titular de Organo Auxiliar del Consejo;
+3. Titular de Organo Auxiliar;
 
-6. Visitador Judicial;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-7. Director General;
+4. Visitador Judicial A;
 
-8. Representante del Consejo ante la Comisión Substanciadora Unica del Poder Judicial de la Federación;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-9. Secretario Técnico;
+5. Vocal;
 
-10. Secretario de Apoyo A;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-11. Secretario Particular o Privado de Nivel Jefe de Departamento o Superior;
+6. Secretario Ejecutivo;
 
-12. Director de Area;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-13. Secretario de Apoyo B;
+7. Contralor del Poder Judicial de la Federación;
 
-14. Administrador Regional;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-15. Subdirector;
+8. Coordinador Académico;
 
-16. Coordinador Técnico A;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-17. Delegado Administrativo;
+9. Coordinador de Seguridad;
 
-18. Jefe de Departamento;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-19. Coordinador Técnico B;
+10. Director General;
 
-20. Supervisor;
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-21. Asesor; y
+11. Coordinador General;
 
-22. En la Contraloría, todos los servidores públicos de confianza.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACION PATRIMONIAL, D.O.F. 23 DE MAYO DE 2011)</small>
+12. Secretario Técnico Coordinador de Ponencia de Consejero;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+13. Titular de Unidad Administrativa;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+14. Secretario Técnico de Ponencia de Consejero;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+15. Visitador Judicial B;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+16. Secretario Técnico AA de Comisión Permanente;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+17. Secretario Técnico A;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+18. Representante del Consejo ante la Comisión Substanciadora;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+19. Representante del Sindicato de Trabajadores del Poder Judicial de la Federación ante la Comisión Substanciadora;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+20. Coordinador de Areas;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+21. Delegado;
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+22. Evaluador;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+23. Supervisor;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+24. Director de Area;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+25. Secretario de Apoyo B;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+26. Administrador Regional;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+27. Secretario de la Comisión Substanciadora Unica del Poder Judicial de la Federación;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+28. Asesor Especializado SPS;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+29. Secretario Particular de SPS;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+30. Asesor Jurídico;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+31. Asesor SPS;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+32. Líder de Proyecto;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+33. Coordinador Técnico de SPS;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+34. Subdirector de Area;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+35. Coordinador Técnico A;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+36. Jefe de Oficina de Correspondencia Común A;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+37. Delegado Administrativo;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+38. Jefe de Departamento;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+39. Coordinador Técnico B;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+40. Auxiliar Itinerante;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+41. Auditor;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+42. Dictaminador;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+43. Jefe de Oficina de Correspondencia Común B;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+44. Coordinador de Ayuda y Seguridad; y
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+45. En la Contraloría, todos los servidores públicos de confianza.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 23 DE MAYO DE 2011)</small>
 
 c) En Tribunal Electoral, con excepción de los magistrados electorales, los servidores públicos de la Sala Superior, los coordinadores y demás servidores públicos directamente adscritos a su presidencia, en términos del artículo 222 de la Ley Orgánica:
 
@@ -1767,7 +1459,9 @@ c) En Tribunal Electoral, con excepción de los magistrados electorales, los ser
 
 36. En Contraloría Interna, todos los servidores públicos de confianza.
 
-Además, deberán presentar declaración de situación patrimonial, los servidores públicos de mando medio y superior del Consejo y del Tribunal Electoral que ocupan puestos homólogos a los antes indicados.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+Además, deberán presentar declaración de situación patrimonial, los servidores públicos de mando medio y superior del Consejo y del Tribunal Electoral que ocupan puestos homólogos o tengan el mismo nivel salarial que los antes indicados.
 
 ###### Artículo 146.
 
@@ -1777,33 +1471,61 @@ La declaración de situación patrimonial se presentará bajo las modalidades de
 
 La Contraloría elaborará un padrón general de los servidores públicos que tienen obligación de presentar declaración patrimonial en los términos del Acuerdo, y lo mantendrá actualizado mediante la información que le proporcionen mensualmente la Dirección General de Recursos Humanos del Consejo y la Coordinación de Recursos Humanos y Enlace Administrativo del Tribunal Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
 ###### Artículo 148.
 
-Los servidores públicos que ocupan cargos de los mencionados en el artículo 145 del Acuerdo, no estarán obligados a presentar declaración patrimonial inicial o de conclusión si son nombrados en diversos cargos en el que hubiesen estado obligados a presentar la declaración correspondiente, o cuando el cargo cambie de nombre, siempre que el inicio del cargo sea dentro de los sesenta días naturales siguientes a la conclusión del anterior.
+Los servidores públicos que ocupan cargos de los mencionados en el artículo 145 del Acuerdo, no estarán obligados a presentar declaración de situación patrimonial de inicio o conclusión del encargo en los siguientes casos:
 
-Tampoco estarán obligados a presentar declaración patrimonial de conclusión en los siguientes supuestos:
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-I. Cambien de adscripción y continúen en alguno de los cargos obligados;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-II. Gocen de licencia que no exceda de tres meses; y
+I. Inicial, cuando ocupen el cargo por un plazo menor de tres meses, siempre que el nombramiento que se haya otorgado sea igual o menor a ese período.
 
-III. Gocen de licencia por motivos de salud que no exceda de un año.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
-En caso de que los servidores públicos a los que se refiere este Título obtengan licencia para desempeñar otro puesto fuera del Poder Judicial de la Federación o, en su caso, del Tribunal Electoral, estarán obligados a presentar la declaración de conclusión.
+II. Inicial o conclusión del encargo, si son nombrados en diversos cargos en el que hubiesen estado obligados a presentar la declaración correspondiente, o cuando el cargo cambie de nombre, siempre que el inicio del cargo sea dentro de los sesenta días naturales siguientes a la conclusión del anterior.
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+III. Conclusión, en los siguientes supuestos:
+
+a) Cambien de adscripción y continúen en alguno de los cargos obligados;
+
+b) Se les haya otorgado licencia que no exceda de tres meses; y
+
+c) Se les haya otorgado licencia por motivos de salud que no exceda de un año.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+En caso de que los servidores públicos a los que se refiere este Título obtengan licencia para desempeñar un cargo fuera de los órganos jurisdiccionales federales, auxiliares y administrativos del propio Consejo o, del Tribunal Electoral que declaran ante la Contraloría, estarán obligados a presentar la declaración de conclusión.
 
 Cuando los servidores públicos mencionados se reincorporen al cargo en el que se les otorgó la licencia deberán presentar la declaración inicial.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+El plazo de 60 días naturales que establece el artículo 149, fracción III, para presentar la declaración patrimonial de conclusión, iniciará a partir de que inicie la licencia respectiva.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+En el supuesto de que algún servidor público sea suspendido por una investigación, un procedimiento de responsabilidad o una sanción, no deberá presentar declaración de conclusión ni de inicio cuando se reincorpore a su cargo.
 
 ###### Artículo 149.
 
 La declaración de situación patrimonial deberá presentarse en los siguientes plazos y términos:
 
-I. Declaración inicial: dentro de los sesenta días naturales siguientes al día en que surta efectos el nombramiento en los cargos señalados en el artículo 145 del Acuerdo, con motivo del:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+I. Declaración inicial: dentro de los sesenta días naturales siguientes al en que el servidor público tome posesión de alguno de los cargos señalados en el artículo 145 del Acuerdo, con motivo del:
 
 a) Ingreso por primera vez; y
 
 b) Reingreso, cuando hayan transcurrido más de sesenta días naturales de la conclusión de su último encargo.
 
-II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año el servidor público haya presentado alguna de las declaraciones de situación patrimonial a que se refieren las fracciones I y III del presente artículo, en los plazos, condiciones y formas establecidos en este Título.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año el servidor público haya iniciado uno de los cargos a que se refiere el artículo 145 de este Acuerdo. En caso de haber concluido su encargo antes del mes de mayo, estará obligado a presentarla en el momento que exhiba la de conclusión.
 
 Los servidores públicos deberán acompañar a su declaración copia de la declaración del impuesto sobre la renta del año que corresponda, si están obligados a presentarla y, en su caso, de la constancia de percepciones y retenciones; lo anterior, salvo lo dispuesto por el artículo 158 del Acuerdo; y
 
@@ -1815,9 +1537,11 @@ El plazo y término previstos en las fracciones I y II de este artículo, no que
 
 ###### Artículo 150.
 
-En las declaraciones de inicio y conclusión del encargo se manifestarán con precisión los ingresos netos mensuales, vehículos, bienes inmuebles, muebles, inversiones y gravámenes con la fecha y valor de adquisición que soporten el patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, sin importar que en otras declaraciones ya se haya hecho referencia a ello.
+En las declaraciones de inicio y conclusión del encargo se manifestarán con precisión los ingresos mensuales, vehículos, bienes inmuebles, muebles, inversiones y gravámenes con la fecha y valor de adquisición que soporten el patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, sin importar que en otras declaraciones ya se haya hecho referencia a ello.
 
-### Capítulo Décimo. De las infracciones y sanciones administrativas
+Para la declaración de conclusión se manifestarán además, los vehículos, bienes inmuebles y muebles que hubieren sido enajenados, así como las inversiones que se hayan cancelado o gravámenes que se hayan adquirido, entre la última declaración presentada y la de conclusión del encargo.
+
+### Capítulo III: Sujetos obligados
 
 ###### Artículo 151.
 
@@ -1855,7 +1579,7 @@ El formato e instructivo de declaración de modificación patrimonial aludidos e
 
 Para los efectos del artículo anterior, se proporcionará a los servidores públicos obligados el código de identificación electrónica, conforme lo determine el Pleno a propuesta de la Contraloría.
 
-### Capítulo Primero. Disposiciones comunes
+### Capítulo IV: Declaración patrimonial
 
 ###### Artículo 157.
 
@@ -1871,9 +1595,15 @@ Los servidores públicos que presenten su declaración a través de Intranet no 
 
 La Contraloría, a través de la Dirección de Registro Patrimonial, emitirá un acuse de recibo electrónico que contendrá un código de validación que acreditará la recepción de la declaración.
 
-### Capítulo Segundo. De los órganos internos de control en materia de seguridad
+### CAPITULO V: Procedimiento de responsabilidad administrativa en línea
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
 #### Sección III: Contenido
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
 ###### Artículo 159.
 
@@ -1883,11 +1613,133 @@ Las consultas técnicas relativas a la operación del sistema estarán a cargo d
 
 La Contraloría instrumentará los sistemas informáticos que se requieran para llevar el registro patrimonial de los servidores públicos, su seguimiento y evaluación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 161.
+
+El procedimiento de responsabilidad administrativa por incumplimiento en la presentación de las declaraciones de situación patrimonial se promoverá, substanciará y resolverá en línea, a través del Sistema de Justicia en Línea que deberá establecer y desarrollar la Contraloría.
+
+A fin de emplazar al denunciado, el Director General de Responsabilidades imprimirá y certificará el dictamen electrónico correspondiente y sus anexos, que se notificarán de manera personal. Si el denunciado rechaza tramitar el procedimiento de responsabilidad administrativa en línea, rendirá el informe solicitado mediante el procedimiento en la vía tradicional.
+
+Si se hace uso del procedimiento de responsabilidad en línea deberán observarse los lineamientos que para tal efecto expida la Contraloría.
+
+La Firma Electrónica producirá los mismos efectos legales que la firma autógrafa y garantizará la integridad del documento, teniendo el mismo valor probatorio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
 #### Sección IV: Aclaraciones
+
+###### Artículo 162.
+
+En el Sistema de Justicia en Línea, la Contraloría integrará el Expediente Electrónico, mismo que incluirá todas las promociones, pruebas y otros anexos que presenten el denunciante y denunciados, oficios, acuerdos, y resoluciones, así como las demás actuaciones que deriven de la substanciación del procedimiento de responsabilidad en línea, garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Contraloría.
+
+En los procedimientos de responsabilidad en línea, la autoridad requerida, desahogará las pruebas testimoniales utilizando el método de videoconferencia cuando ello sea posible, o bien videograbará la diligencia, para su posterior envío a la Contraloría.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
 #### Sección V: Formatos
 
+###### Artículo 163.
+
+La Firma Electrónica, Clave de Acceso y Contraseña se proporcionarán, a través del Sistema de Justicia en Línea de la Contraloría, previa obtención del registro y autorización correspondientes. El registro de la Firma Electrónica, Clave de Acceso y Contraseña, implica el consentimiento expreso de que dicho Sistema registrará la fecha y hora en que se abran los Archivos Electrónicos, que contengan las constancias que integran el Expediente Electrónico, para los efectos legales establecidos en este Acuerdo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 164.
+
+Solamente el denunciado, así como las personas autorizadas tendrán acceso al Expediente Electrónico, exclusivamente para su consulta, una vez que tengan registrada su Clave de Acceso y Contraseña.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 165.
+
+Los titulares de una Firma Electrónica, Clave de Acceso y Contraseña serán responsables de su uso, por lo que el acceso o recepción de las notificaciones, la consulta al Expediente Electrónico y el envío de información mediante la utilización de cualquiera de dichos instrumentos, les serán atribuibles y no admitirán prueba en contrario, salvo que se demuestren fallas en el Sistema de Juicio en Línea.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
 #### Sección VI: Declaración electrónica
+
+###### Artículo 166.
+
+Una vez recibida por vía electrónica cualquier promoción, el Sistema de Justicia en Línea de la Contraloría emitirá el Acuse de Recibo Electrónico correspondiente, señalando la fecha y la hora de recibido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 167.
+
+Cualquier actuación en el procedimiento en línea se efectuará a través del Sistema de Juicio en Línea de la Contraloría en términos del presente Capitulo. Dichas actuaciones serán validadas con las firmas electrónicas y/o firmas Digitales del Contralor, Director General de Responsabilidades o de cualquier otro servidor público que intervenga.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 168.
+
+Respecto de los documentos que el denunciado ofrezca como prueba, tratándose de documentos digitales, se deberá manifestar bajo protesta de decir verdad la naturaleza de los mismos, especificando si la reproducción digital corresponde a una copia simple, una copia certificada o al original y tratándose de esta última, si tiene o no firma autógrafa.
+
+La omisión de la manifestación presume en perjuicio sólo del denunciado que el documento digitalizado corresponde a una copia simple.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 169.
+
+Para el caso de pruebas diversas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al Expediente Electrónico. El servidor público a cuya mesa corresponda el asunto, deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de los originales y de los bienes materiales que en su caso hubieran sido objeto de prueba.
+
+Para el caso de pruebas diversas a las documentales, éstas deberán ofrecerse en el informe de contestación y ser presentadas en la misma fecha en la que se registre en el Sistema de Justicia en Línea de la Contraloría correspondiente a su ofrecimiento, haciendo constar su recepción por vía electrónica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 170.
+
+Las notificaciones que se practiquen dentro del procedimiento de responsabilidad en línea, se efectuarán conforme a lo siguiente:
+
+I. Todas las actuaciones y resoluciones que conforme a las disposiciones de este acuerdo general deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea de la Contraloría.
+
+II. El Notificador deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma.
+
+III. El Notificador enviará a la dirección de Correo Electrónico del denunciado a notificar, un aviso informándole que se ha dictado una actuación o resolución en el Expediente Electrónico.
+
+IV. Se tendrá como legalmente practicada la notificación, cuando el Sistema de Justicia en Línea de la Contraloría genere el Acuse de Recibo Electrónico donde conste la fecha y hora en que los denunciados notificados ingresaron al Expediente Electrónico, lo que deberá suceder dentro del plazo de tres días hábiles siguientes a la fecha de envío del aviso a la dirección de correo electrónico de los mismos.
+
+V. En caso de que el Sistema de Justicia en Línea de la Contraloría no genere el acuse de recibo donde conste que la notificación fue realizada, la misma se efectuará mediante lista al cuarto día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 171.
+
+Para los efectos del procedimiento administrativo en línea son hábiles las 24 horas de los días en que se encuentren abiertas al público las Oficinas del Area correspondiente.
+
+Las promociones se considerarán, salvo prueba en contrario, presentadas el día y hora que conste en el Acuse de recibo Electrónico que emita el Sistema de Juicio en Línea de la Contraloría, en el lugar en donde el promovente tenga su domicilio y, por recibidas, en el lugar del Area correspondiente. Tratándose de un día inhábil se tendrán por presentadas el día hábil siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+
+###### Artículo 172.
+
+Cuando por caso fortuito, fuerza mayor o por fallas técnicas se interrumpa el funcionamiento del Sistema de Justicia en Línea, haciendo imposible el cumplimiento de los plazos establecidos en este acuerdo general, las partes deberán dar aviso a la Contraloría en la misma promoción sujeta a término, quien pedirá un reporte al titular de la unidad administrativa responsable de la administración del Sistema sobre la existencia de la interrupción del servicio.
+
+El reporte que determine que existió interrupción en el Sistema deberá señalar la causa y el tiempo de dicha interrupción, indicando la fecha y hora de inicio y término de la misma. Los plazos se suspenderán, únicamente, el tiempo que dure la interrupción del Sistema. Para tal efecto, la Contraloría hará constar esta situación mediante acuerdo en el expediente electrónico y, considerando el tiempo de la interrupción, realizará el cómputo correspondiente, para determinar si hubo o no incumplimiento de los plazos legales.
 
 ### Capítulo Tercero. Del Centro de Evaluación y Control de Confianza del Estado de Querétaro
 
@@ -1895,263 +1747,23 @@ La Contraloría instrumentará los sistemas informáticos que se requieran para 
 
 ## TRANSITORIOS
 
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Artículo Segundo. Se abroga la Ley del Sistema de Seguridad Ciudadana del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el día 30 de agosto de 2014, así como sus reformas.
+SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta los Procedimientos de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, publicado en el Diario Oficial de la Federación el tres de octubre de dos mil seis, así como las disposiciones que se opongan al Acuerdo.
 
-Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+TERCERO. Las investigaciones y procedimientos de responsabilidad administrativa que se encuentren en trámite o pendientes de conclusión, se seguirán conforme al acuerdo anterior, salvo por las disposiciones que beneficien al servidor público establecidas en el Acuerdo.
 
-Artículo Cuarto. Los derechos del personal operativo quedan salvaguardados a la entrada en vigor de la presente Ley.
+CUARTO. Los criterios emitidos con anterioridad a la vigencia del acuerdo, podrán aplicarse tanto en los asuntos ya iniciados y en los que se instauren con posterioridad; para su interrupción o modificación deberán observarse las reglas establecidas en aquél.
 
-Artículo Quinto. A partir de la entrada en vigor de la presente Ley, el Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, formará parte de la Secretaría de Seguridad, cambiando su denominación a Instituto de Formación Policial.
+QUINTO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2018)</small>
+Se aprueba el proyecto de Acuerdo General con las siguientes modificaciones:
 
-Artículo Sexto. Se extingue el Organismo Público Descentralizado del Poder Ejecutivo del Estado de Querétaro, denominado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, el cual fue creado mediante Decreto publicado en el periódico oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 5 de enero de 2007.
+- A propuesta del Señor Consejero Jorge E. Moreno Collado, se suprime del Título Primero, el "Capítulo III: Avenencia", integrado por los artículos del 8 al 10; se aprueba por unanimidad de 6 votos. Se recorre la numeración para engrose.
 
-Artículo Séptimo. Los recursos humanos, materiales, presupuestales y financieros a la entrada en vigor de la presente Ley, del citado Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, pasarán a formar parte de la Secretaría de Seguridad.
+- A propuesta del Señor Consejero Oscar Vázquez Marín, se suprime del Título Segundo, el "Capítulo II: Impedimentos y Excusas", integrado por los artículos del 19 al 22; se aprueba por unanimidad de 6 votos. Se recorre la numeración para engrose.
 
-Artículo Octavo. El actual Director del Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, lo será del Instituto de Formación Policial hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo del cambio de denominación y adscripción del referido organismo público descentralizado.
-
-Artículo Noveno. Toda referencia hecha al Instituto de Capacitación y Estudios de Seguridad del Estado de Querétaro, debe entenderse en lo sucesivo al Instituto de Formación Policial.
-
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
-
-DADO EN EL SALÓN DE SESIONES "CONSTITUYENTES DE 1916-1917" RECINTO OFICIAL DEL PODER LEGISLATIVO, A LOS VEINTICINCO DÍAS DEL MES DE MAYO DEL AÑO DOS MIL DIECISÉIS.
-
-ATENTAMENTE
-
-QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO
-
-MESA DIRECTIVA
-
-DIP. ERIC SALAS GONZÁLEZ
-
-PRESIDENTE
-
-Rúbrica
-
-DIP. ATALÍ SOFÍA RANGEL ORTIZ
-
-PRIMERA SECRETARIA
-
-Rúbrica
-
-Francisco Domínguez Servién, Gobernador del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado de Querétaro y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro; expido y promulgo la presente LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO.
-
-Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día treinta del mes de mayo del año dos mil dieciséis; para su debida publicación y observancia.
-
-Francisco Domínguez Servién
-
-Gobernador del Estado de Querétaro
-
-Rúbrica
-
-Juan Martín Granados Torres
-
-Secretario de Gobierno
-
-Rúbrica
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 18 DE ABRIL DE 2017.
-
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO".]
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
-
-Artículo Tercero. A partir de la entrada en vigor de la presente Ley, las actividades, trámites, atenciones y procedimientos que realizaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, serán realizados por la Comisión Estatal de Atención a Víctimas de Delito.
-
-Artículo Cuarto. Los recursos humanos con que contaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, pasarán a formar parte (sic) la Comisión Estatal de Atención a Víctimas de Delito, conservando sus trabajadores sus derechos laborales correspondientes.
-
-P.O. 29 DE NOVIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO ".]
-
-Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
-
-Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-P.O. 17 DE AGOSTO DE 2018.
-
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO; REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO; Y REFORMA DIVERSOS ARTÍCULOS TRANSITORIOS DE LA LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
-
-Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
-
-P.O. 6 DE MARZO DE 2019.
-
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A VÍCTIMAS, OFENDIDOS Y PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
-
-Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
-
-Artículo Tercero. A partir de la entrada en vigor de la presente Ley, todas las menciones o referencias a la Comisión Ejecutiva de Atención a Víctimas del Estado de Querétaro, se entenderán referidas a la Comisión Estatal de Atención Integral a Víctimas.
-
-P.O. 30 DE SEPTIEMBRE DE 2021.
-
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
-
-###### ARTÍCULO PRIMERO.
-
-La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
-
-###### ARTÍCULO TERCERO.
-
-Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
-
-###### ARTÍCULO CUARTO.
-
-Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
-
-###### ARTÍCULO QUINTO.
-
-Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
-
-###### ARTÍCULO SEXTO.
-
-Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
-
-###### ARTÍCULO SÉPTIMO.
-
-Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
-
-###### ARTÍCULO OCTAVO.
-
-Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
-
-###### ARTÍCULO NOVENO.
-
-Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
-
-###### ARTÍCULO DÉCIMO.
-
-Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
-
-###### ARTÍCULO DÉCIMO PRIMERO.
-
-Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
-
-Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
-
-###### ARTÍCULO DÉCIMO SEGUNDO.
-
-Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
-
-Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
-
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2021)</small>
-
-###### ARTÍCULO DÉCIMO TERCERO.
-
-Los recursos humanos, materiales y financieros con que cuenta la Coordinación de Atención Ciudadana de la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
-
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 2021)</small>
-
-Los trabajadores de Coordinación de Atención Ciudadana de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
-
-###### ARTÍCULO DÉCIMO CUARTO.
-
-La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
-
-I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
-
-II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
-
-III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
-
-IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
-
-V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
-
-###### ARTÍCULO DÉCIMO QUINTO
-
-Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
-
-###### ARTÍCULO DÉCIMO SEXTO.
-
-Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
-
-P.O. 10 DE JUNIO DE 2022.
-
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA DE SEGURIDAD Y JUSTICIA CÍVICA".]
-
-###### ARTÍCULO PRIMERO.
-
-La presente Ley comenzará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
-
-La Ley del Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro entrará en vigor el 01 de julio del 2022.
-
-###### ARTÍCULO SEGUNDO.
-
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-###### ARTÍCULO TERCERO.
-
-Las referencias hechas a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro previstas en otros ordenamientos jurídicos, se entenderán a favor del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, salvo disposición expresa en contrario.
-
-###### ARTÍCULO CUARTO.
-
-Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado de Querétaro, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
-
-###### ARTÍCULO QUINTO.
-
-El organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, iniciará sus funciones 60 días hábiles posteriores al inicio de la vigencia de su Ley.
-
-Los recursos humanos, materiales y financieros con que cuenta la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, se trasladarán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro.
-
-Los trabajadores de la Subsecretaría de Prevención Social y Atención a Víctimas, la Dirección de Prevención Social de la Violencia y la Delincuencia, así como de la Dirección de Mecanismos Alternativos de Solución de Controversias y Conflictos y el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
-
-Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, serán concluidos con todos sus alcances, efectos y facultades por el organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro o, atendiendo a su competencia.
-
-###### ARTÍCULO SEXTO.
-
-El Director General del organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro, deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
-
-###### ARTÍCULO SÉPTIMO.
-
-La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
-
-P.O. 20 DE OCTUBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO, DE LA LEY QUE CREA EL CENTRO DE INFORMACIÓN Y ANÁLISIS PARA LA SEGURIDAD DE QUERÉTARO, DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
-
-P.O. 27 DE SEPTIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN MATERIA DE PROFESIONALIZACIÓN PARA LAS INSTITUCIONES DE SEGURIDAD EN EL ESTADO DE QUERÉTARO”.]
-
-Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
-
-Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
-
-P.O. 23 DE FEBRERO DE 2026.
-
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO MEDIANTE LA CUAL SE RECONOCE SINERGIA COMO INSTANCIA DEL SISTEMA ESTATAL DE SEGURIDAD”.]
-
-Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
-
-Articulo Segundo Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
-
-Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+- A propuesta del Señor Consejero Presidente Guillermo I. Ortiz Mayagoitia, se modifica el artículo 29 para quedar como sigue:
 
 ###### Artículo 29.
 
@@ -2363,7 +1975,7 @@ Consejero de la Judicatura Federal
 
 MARIA DOLORES OMAÑA RAMIREZ, SECRETARIA EJECUTIVA DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que Reglamenta el Procedimiento de Responsabilidad Administrativa y el Seguimiento de la Situación Patrimonial, fue aprobado por el Pleno del Propio Consejo, en lo general en sesión ordinaria de tres de noviembre de dos mil diez y en lo particular en sesión extraordinaria de nueve del mismo mes y año, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Oscar Vázquez Marín; en contra del voto del señor Consejero César Esquinca Muñoa, quien formuló voto particular.- México, Distrito Federal, a catorce de enero de dos mil once.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 23 DE MAYO DE 2011.
 
@@ -2372,3 +1984,19 @@ PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la (sic) páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
+
+D.O.F. 17 DE ENERO DE 2012.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las disposiciones relativas al procedimiento de responsabilidad en línea, previstas en el Capítulo V, del Título Cuarto, que se adiciona al presente Acuerdo, entrarán en vigor a los sesenta días naturales siguientes al de su publicación en dicho medio de comunicación oficial.
+
+Para ello, la Contraloría del Poder Judicial de la Federación con apoyo de la Dirección General de Tecnologías de la Información y las demás áreas del Consejo que sean necesarias, deberá realizar las acciones que correspondan, a efecto de que el procedimiento de responsabilidad en línea, inicie su operación en la fecha programada.
+
+Los procedimientos de responsabilidad administrativa que se encuentren en trámite ante la Contraloría del Poder Judicial de la Federación, al momento de entrar en vigor las disposiciones del Capítulo V del Título Cuarto que se adiciona, continuarán substanciándose en la vía tradicional.
+
+TERCERO.- La Contraloría del Poder Judicial de la Federación dentro de los treinta días naturales siguientes a la entrada en vigor del presente Acuerdo, emitirá los lineamientos correspondientes.
+
+CUARTO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en la páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+QUINTO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
