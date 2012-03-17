@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-desarrollo-87490"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2011-12-14"
+last_updated: "2012-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 2012, EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE MARZO DE 2012.</small>
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de diciembre de 2011.
 
@@ -301,9 +301,9 @@ XIX. Contribuir en coordinación con las otras áreas de la Secretaría; y
 
 XX. Las demás que le confieran otras disposiciones legales o le encomiende el Secretario.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 2012 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 17 DE MARZO DE 2012)</small>
 
-### CAPÍTULO IV. De la Subdirección de Promoción y Atracción de Inversiones
+### CAPÍTULO IV. De la Subsecretaría de Promoción y Atracción de Inversiones
 
 ###### Artículo 15.
 
