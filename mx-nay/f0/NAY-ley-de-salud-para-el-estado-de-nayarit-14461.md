@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2011-03-23"
+last_updated: "2012-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -85,7 +85,7 @@ II.- Los Servicios de Salud de Nayarit; y
 
 III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 4o.
 
@@ -97,7 +97,9 @@ I.- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
 II.- La atención materno infantil;
 
-III.- La prestación de servicios de planificación familiar;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+
+III.- La prestación de servicios de salud sexual, salud reproductiva y planificación familiar;
 
 IV.- La salud mental;
 
@@ -217,7 +219,7 @@ VI.- Impulsar, en el ámbito estatal un sistema racional de administración y de
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7o.
 
@@ -263,7 +265,7 @@ XVI. Las demás atribuciones, afines a las anteriores, que se requieran para el 
 
 Los Servicios de Salud de Nayarit, promoverán la participación en el Sistema Estatal de Salud, de los prestadores de servicios de salud de los sectores público, social y privado, así como sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 9o.
 
@@ -293,7 +295,7 @@ El gobierno del Estado, con la participación que corresponda al comité de plan
 
 La competencia entre el Gobierno del Estado y los municipios en materia de salubridad general, y de salubridad local, quedarán distribuidas conforme a lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 A).- En materia de salubridad general corresponde al Gobierno del Estado, a través de los Servicios de Salud de Nayarit:
 
@@ -455,7 +457,7 @@ XIV.- Los jornaleros agrícolas expuestos a plaguicidas.
 
 Para la organización y administración de los servicios de salud, se definirán los criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como universalización de cobertura y de colaboración institucional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 29.
 
@@ -469,7 +471,9 @@ III.- La atención médica, que comprende actividades preventivas, curativas y d
 
 IV.- La atención materno-infantil;
 
-V.- La planificación familiar;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+
+V.- La salud sexual, salud reproductiva y la planificación familiar;
 
 VI.- La salud mental;
 
@@ -545,7 +549,7 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 
 Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socio-económicas del usuario debiendo ser analizadas y autorizadas por la Junta de Gobierno de los Servicios de Salud de Nayarit.
 
-> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000.</small>
+> <small>N. DE E. ESTE PÁRRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000.</small>
 
 Las cuotas de recuperación se fundarán en principios de solidaridad social y guardaran relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del gobierno del Estado.
 
@@ -657,11 +661,25 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, y;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
 
-III.- La promoción de la integración y del bienestar familiar, fomentando la responsabilidad de los padres en el desarrollo físico e intelectual de hijos.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+
+III.- La promoción de la integración y del bienestar familiar, fomentando la responsabilidad de los padres en el desarrollo físico e intelectual de sus hijos;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+
+IV.- La detección de padecimientos de tipo congénito o metabólico mediante la aplicación del tamiz neonatal, así como su tratamiento correspondiente;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+
+V.- La detección, atención y tratamiento de los problemas auditivos y enfermedades visuales en los infantes en los primeros días de su nacimiento, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+
+VI.- La prevención de la transmisión materno infantil del VIH - Sida y la sífilis congénita mediante el ofrecimiento de pruebas de detección, confidenciales y gratuitas a las mujeres embarazadas, así como proporcionar la atención médica que se requiera.
 
 ###### ARTICULO 57.
 
@@ -709,25 +727,33 @@ En materia de higiene escolar, corresponde al gobierno del Estado, establecer la
 
 Las prestaciones de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
-### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 2012)</small>
+
+### CAPITULO VI. SERVICIOS DE SALUD SEXUAL, SALUD REPRODUCTIVA Y PLANIFICACIÓN FAMILIAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 62.
 
-La planificación familiar tiene carácter prioritario. En sus actividades debe incluir la información y orientación educativa para los adolescentes y jóvenes. Asimismo, para disminuir el riesgo productivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
+La salud sexual, la salud reproductiva y la planificación familiar tienen carácter prioritario. En sus actividades se deben incluir políticas y programas integrales en materia de educación sexual, derechos reproductivos, paternidad y maternidad responsable, así como prevención de infecciones de transmisión sexual, especialmente dirigidas a los adolescentes y jóvenes. Asimismo, para disminuir el riesgo productivo se deberá informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35 años de edad, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
 
-Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2012)</small>
+
+Los servicios que se presten en la materia constituyen un medio para procurar la salud sexual y reproductiva, así como el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 Quienes practiquen esterilización o cualquier otro método anticonceptivo sin la voluntad del o de la paciente o ejerzan presión para que éste la admita serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 63.
 
-Los servicios de planificación familiar comprenden:
+Los servicios de salud sexual, salud reproductiva y planificación familiar comprenden:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
 
-I.- La promoción del desarrollo de programas de comunicación educativa en materia de servicios de planificación familiar y educación sexual, con base en los contenidos y las estrategias que establezca el Consejo Nacional de Población, poniendo especial atención en aquellos programas destinados a evitar los embarazos precoces;
+I.- El desarrollo de políticas y campañas educativas en materia de servicios de salud sexual, salud reproductiva y planificación familiar, poniendo especial atención en los programas destinados a evitar los embarazos no planeados y precoces, con base en los contenidos y las estrategias que establezcan las autoridades competentes;
 
 II.- La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
@@ -737,9 +763,21 @@ III.- La asesoría para la prestación de servicios de planificación familiar a
 
 IV.- El apoyo y fomento de la planificación familiar e investigación en materia de anticonceptivos, infertilidad y biología de la reproducción;
 
-V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar, y;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
 
-VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
+V.- La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+
+VI.- La entrega gratuita de preservativos a la población que lo solicite;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+
+VII.- La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-Sida y la sífilis, y
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2012)</small>
+
+VIII.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
 ###### ARTICULO 64.
 
@@ -759,7 +797,7 @@ El Gobierno del Estado, coadyuvará con los Servicios de Salud de Nayarit, en la
 
 La prevención de las enfermedades mentales tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, sobre todo de aquellos desequilibrios de mujeres y menores provocados por la violencia intrafamiliar así como otros aspectos relacionados con la salud mental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 67.
 
@@ -801,7 +839,7 @@ Los Servicios de Salud de Nayarit, conforme a las normas básicas que establezca
 
 Para tal efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO VIII. LA BIOETICA
 
@@ -859,7 +897,7 @@ Los Servicios de Salud de Nayarit, a través de la Comisión Estatal de Bioétic
 
 ### CAPITULO I. PROFESIONALES TECNICOS Y AUXILIARES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LA SALUD
 
@@ -963,7 +1001,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 85.
 
@@ -1111,7 +1149,7 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 98.
 
@@ -1323,7 +1361,7 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 ### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 124.
 
@@ -1349,13 +1387,13 @@ Para la mayor eficacia de las acciones a que se refiere este artículo, se crear
 
 Dicho consejo se coordinará con el consejo nacional para la prevención de accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE DISCAPACIDAD Y REHABILITACION DE DISCAPACITADOS
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
-> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 126.
 
@@ -1515,7 +1553,7 @@ El organismo del gobierno estatal previsto en el artículo 131 de esta ley, tend
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 150.
 
@@ -1555,7 +1593,7 @@ I.- Capacitar a sus servidores públicos para tratar a víctimas de dicha violen
 
 II.- Organizar campañas educativas tendientes a erradicar la violencia intrafamiliar.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 152.
 
@@ -1563,7 +1601,7 @@ El Gobierno del Estado se coordinará con las autoridades de salud para la ejecu
 
 I.- La prevención y el tratamiento de padecimiento originados por el tabaquismo, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 II.- Proporcionar enseñanza y orientación, a la familia así como a los sectores de la población más vulnerables de padecer esta adicción, utilizando para el efecto métodos individuales, colectivos o de comunicación masiva, incluyendo la prohibición de fumar en espacios cerrados de edificios públicos.
 
@@ -1615,7 +1653,7 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ## TITULO DECIMO PRIMERO. CONDUCTAS DAÑINAS A LA SALUD
 
-> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTOS
 
@@ -1691,7 +1729,7 @@ C) Procesos utilizados y línea o líneas de producto.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos, o la fabricación de nuevas líneas de productos deberá ser comunicado a la autoridad sanitaria competente en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas que al efecto se expidan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 161.
 
@@ -2103,7 +2141,7 @@ Los propietarios de los animales a que se refiere el artículo anterior, estará
 
 Las autoridades sanitarias, mantendrán campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ### CAPITULO III. CERTIFICADOS
 
@@ -2251,13 +2289,13 @@ Los certificados a que se refiere este Título, se extenderán en los modelos ap
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
 ### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 257.
 
@@ -2351,7 +2389,7 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, solo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIAS Y SANCIONES
 
@@ -2423,7 +2461,7 @@ III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 El Gobierno del Estado podrá ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 277.
 
@@ -2443,7 +2481,7 @@ La suspensión de trabajos o servicios será temporal, podrá ser total o parcia
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 280.
 
@@ -2743,7 +2781,7 @@ El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE NOVIEMBRE DE 2000
 
@@ -2796,3 +2834,7 @@ Artículo Único.- El presente decreto entrará en vigor el día siguiente de su
 P.O. 23 DE MARZO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE MARZO DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
