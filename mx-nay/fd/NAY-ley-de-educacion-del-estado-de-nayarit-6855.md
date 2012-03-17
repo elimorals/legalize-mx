@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2011-08-20"
+last_updated: "2012-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE AGOSTO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -89,7 +87,9 @@ IV.- Propiciar en los educandos la integración de los conocimientos que armonic
 
 V.- Crear conciencia de la necesidad de mejorar el ambiente y de preservar el equilibrio ecológico;
 
-VI.- Fortalecer la conciencia para preservar la salud y la integridad de la familia;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
+
+VI.- Fortalecer la conciencia en los educandos para preservar la integridad de la familia y la salud con especial atención en el ámbito de la salud sexual y reproductiva contribuyendo con la prevención de embarazos precoces y no planeados así como las infecciones de transmisión sexual, de igual manera para prevenir la comisión de ilícitos que atenten contra la libertad y el normal desarrollo psicosexual del individuo, con absoluto respeto a la dignidad humana;
 
 VII.- Fortalecer la conciencia de la Nación y la Soberanía, formar el aprecio por la historia, fomentar y acrecentar el respeto a los Símbolos Patrios, a los Héroes y a las Instituciones Nacionales;
 
@@ -914,3 +914,7 @@ Artículo Único.- El presente decreto entrará en vigor el día siguiente de su
 P.O. 27 DE JULIO DE 2011.
 
 Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE MARZO DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
