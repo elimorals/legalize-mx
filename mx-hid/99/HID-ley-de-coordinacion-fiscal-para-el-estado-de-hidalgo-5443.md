@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-fiscal-para-el-estado-de-hidalgo-5443"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-30"
-last_updated: "2012-02-06"
+last_updated: "2012-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,157 +21,113 @@ state: "HID"
 ---
 # LEY DE COORDINACION FISCAL PARA EL ESTADO DE HIDALGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 26 DE MARZO DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
+LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2011.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
+> <small>N. DE E. CONTIENEN LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE MARZO DE 2012.</small>
 
-ING. EUGENIO ECHEVERRIA CASTELLOT, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
+> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO NÚMERO 67 POR LA LXI LEGISLATURA, MODIFICA DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DE LA PRESENTE LEY DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA MODIFICACIÓN, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2011.</small>
 
-Que el H. LI Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente
+Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 1989.
 
-D E C R E T O
+ADOLFO LUGO VERDUZCO, Gobernador Constitucional del Estado de Hidalgo, a sus habitantes sabed:
 
-El H. LI Congreso Constitucional del Estado Libre y Soberano de Campeche, decreta:
+Que la Quincuagésima Tercera Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Hidalgo, ha tenido a bien expedir el siguiente:
 
-Número 101
+DECRETO No. 161
 
-LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
+QUE CONTIENE LA LEY DE COORDINACION FISCAL DEL ESTADO DE HIDALGO.
 
-DISPOSICIONES GENERALES
+EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, EN USO DE LAS FACULTADES QUE LE CONFIEREN LAS FRACCIONES I Y II DEL ARTICULO 56 DE LA CONSTITUCION POLITICA DE LA ENTIDAD, DECRETA:
 
-### CAPITULO II (SIC). DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA PUBLICA
+LEY DE COORDINACION FISCAL DEL ESTADO DE HIDALGO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2008)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1o.
+###### ARTICULO 1º.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, ejecución, conservación, mantenimiento, demolición y control de la Obra Pública que realicen:
+LA PRESENTE LEY REGULA LAS RELACIONES EN MATERIA DE COORDINACIÓN FISCAL ENTRE EL ESTADO Y LOS MUNICIPIOS TENIENDO POR OBJETO:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+I. FORTALECER EL DESARROLLO FINANCIERO DE LOS MUNICIPIOS DEL ESTADO MEDIANTE EL SISTEMA DE COORDINACIÓN FISCAL,
 
-I.- La Secretaría de Obras Públicas y Comunicaciones y las demás Secretarías que conforman la Administración Pública Estatal centralizada, incluidas la Procuraduría General de Justicia y la Oficialía Mayor;
+II. ESTABLECER LOS MECANISMOS PARA LA DISTRIBUCIÓN DE LAS PARTICIPACIONES QUE CORRESPONDAN A LA HACIENDA MUNICIPAL, CON RELACIÓN A LAS PARTICIPACIONES QUE DE LA FEDERACIÓN RECIBE EL ESTADO,
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+III. FIJAR LOS PORCENTAJES PARA LA DISTRIBUCIÓN DE PARTICIPACIONES QUE CORRESPONDAN A LOS MUNICIPIOS DE ACUERDO A LA APLICACIÓN DE LOS FACTORES QUE ESTABLECE ESTA LEY,
 
-II.- Las Direcciones de Obras Públicas Municipales;
+IV. ESTABLECER LAS BASES QUE DEBERÁN OBSERVAR LOS MUNICIPIOS PARA RECIBIR SUS PARTICIPACIONES Y DETERMINAR LAS NORMAS QUE HABRÁN DE CUMPLIRSE EN MATERIA DE COORDINACIÓN FISCAL Y DE COLABORACIÓN ADMINISTRATIVA ENTRE LAS AUTORIDADES FISCALES, ESTATALES Y MUNICIPALES,
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+V. CONSTITUIR LOS ORGANISMOS EN MATERIA DE COORDINACIÓN FISCAL Y ADMINISTRATIVA ESTABLECIENDO LAS FORMAS DE ORGANIZACIÓN Y FUNCIONAMIENTO RESPECTIVOS,
 
-III.- Los organismos descentralizados de la Administración Pública, estatal y municipal;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+VI. TRANSPARENTAR LA ASIGNACIÓN Y APLICACIÓN DE LAS APORTACIONES FEDERALES Y CUALQUIER OTRO TIPO DE RECURSO FEDERAL QUE SE MINISTRE AL ESTADO Y SUS MUNICIPIOS.
 
-IV.- Las empresas en las que el Gobierno, estatal o municipal, sean socios mayoritarios;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-V.- Los fideicomisos en los que el fideicomitente sea el Gobierno del Estado o los Ayuntamientos o cualquiera de las entidades a que se refieren las fracciones III y IV de este artículo.
+###### ARTICULO 2º.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
+EL ESTABLECIMIENTO DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, EVITARÁ LA CONCURRENCIA IMPOSITIVA DE LOS TRIBUTOS FEDERALES, ESTATALES Y MUNICIPALES.
 
-Para los efectos de la presente ley se entenderá por:
-
-a). SEDESO: La Secretaría de Desarrollo Social del Ejecutivo del Estado;
-
-b). CONTRALORIA: La Secretaría de la Contraloría del Ejecutivo del Estado;
-
-c). SEOPC: La Secretaría de Obras Públicas y Comunicaciones del Ejecutivo del Estado;
-
-d). OFICIALIA: La Oficialía Mayor del Ejecutivo del Estado;
-
-e). DEPENDENCIAS: Las señaladas en las fracciones I y II de este artículo;
-
-f). ENTIDADES: Los organismos, empresas y fideicomisos señalados en las fracciones III, IV y V de este mismo artículo.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2001)</small>
-
-###### ARTICULO 1o. Bis.
-
-Las disposiciones de esta ley son de observancia obligatoria para las dependencias y órganos de los Poderes Legislativo y Judicial, sin perjuicio de lo dispuesto en sus respectivas leyes orgánicas, así como para todos aquellos organismos que manejen o apliquen recursos provenientes de los erarios estatal o municipal. Las atribuciones que en esta ley se confieren al titular del Poder Ejecutivo y a dependencias de la Administración Pública del Estado se ejercerán, en la esfera de competencia de los Poderes Legislativo y Judicial y organismos en mención, por las dependencias y órganos de éstos homólogos de aquéllos.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
-
-ARTICULO 1o TER.- Las dependencias de la Administración Pública Estatal, los municipios y los organismos descentralizados garantizarán la accesibilidad de las personas con discapacidad a edificios, espacios públicos, así como en obra pública existente o por desarrollarse, asegurando el disfrute de sus derechos y eliminado (sic) cualquier forma de discriminación.
-
-###### ARTICULO 2o.
-
-Para los efectos de esta Ley se considera obra pública todo trabajo que tenga por objeto crear, construir, conservar, demoler o modificar bienes inmuebles por su naturaleza o disposición de Ley.
-
-Quedan comprendidos:
-
-I.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes a que se refiere este artículo, incluidos los que tiendan a mejorar y utilizar los recursos agropecuarios del Estado, así como los trabajos que tengan por objeto la explotación y desarrollo de sus recursos naturales;
-
-II.- La construcción, instalación, conservación, mantenimiento, reparación y demolición de los bienes inmuebles destinados a un servicio público o al uso común, y
-
-III.- Todos aquellos de naturaleza análoga.
-
-La incorporación de bienes muebles que deban destinarse a un inmueble, necesarios para la realización de las obras públicas, se regirá por las disposiciones de esta Ley, sin perjuicio de que su adquisición se regule por las disposiciones de la materia.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
-
-ARTICULO 2° BIS.- Para los efectos de esta Ley, se considera infraestructura o infraestructura física, la que forme parte del patrimonio del Estado y/o sus municipios y que, de manera enunciativa, más no limitativa, se señala a continuación:
-
-I. Infraestructura artística y cultural: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de espacios públicos dedicados a la difusión artística y cultural, tales como centros culturales, museos, auditorios, teatros, entre otros;
-
-II. Infraestructura deportiva: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de espacios públicos dedicados a la práctica del deporte, tales como unidades deportivas, canchas, gimnasios, parques, entre otros;
-
-III. Infraestructura educativa: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de las instalaciones físicas destinadas a los servicios públicos educativos, tales como bibliotecas, aulas, entre otros;
-
-IV. Infraestructura social: la construcción, reconstrucción, ampliación, mantenimiento, conservación, rehabilitación y remodelación de obra pública distintas a la infraestructura artística y cultural; deportiva; educativa; o vial y urbana, que reportan un beneficio socioeconómico para la población en el área de influencia del proyecto;
-
-V. Infraestructura vial y urbana: la pavimentación de calles y avenidas; el mantenimiento de vías; la construcción y rehabilitación de la red de agua potable; urbanización; ciclovías; puentes; alumbrado público; drenaje y alcantarillado, entre otros; y
-
-VI. Las demás construcciones, reconstrucciones, ampliaciones, mantenimientos, conservaciones, rehabilitaciones y remodelaciones de obra pública, a las que hagan referencia otras leyes, reglamentos y demás disposiciones normativas aplicables.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 3°.
 
 LOS MUNICIPIOS DEL ESTADO SÓLO TENDRÁN FACULTADES PARA REQUERIR Y COBRAR LOS IMPUESTOS, DERECHOS, PRODUCTOS, APROVECHAMIENTOS, INGRESOS EXTRAORDINARIOS, PARTICIPACIONES Y FONDOS FEDERALES ESTABLECIDOS EN SU LEY DE INGRESOS Y REGLAMENTADOS EN LA LEY DE HACIENDA MUNICIPAL.
 
-### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
+### CAPITULO II. DE LAS PARTICIPACIONES A LOS MUNICIPIOS EN INGRESOS FEDERALES
 
-###### ARTÍCULO 4.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Estarán sujetos también a las disposiciones de esa Ley, en los términos que la misma establece, los contratos de servicios relacionados con la obra pública, que requieran celebrar, las Secretarías, Dependencias y Entidades mencionadas en el artículo 1° de esta Ley.
+###### ARTICULO 4°.
 
-Los convenios o contratos relacionados con procedimientos y servicios previstos por este ordenamiento celebrados entre secretarías, dependencias o entidades estatales, o bien, los que se lleven a cabo con alguna dependencia o entidad de la administración pública federal o de alguna otra entidad federativa, no estarán dentro del ámbito de aplicación de esta Ley.
+DE LAS CANTIDADES QUE PERCIBA EL ESTADO POR CONCEPTO DE PARTICIPACIONES FEDERALES, SE CONSTITUIRÁ EL FONDO ÚNICO DE PARTICIPACIONES PARA LOS MUNICIPIOS, EL CUAL SE CONFORMARÁ DE LOS SIGUIENTES RUBROS:
 
-Las personas de derecho público de carácter federal con autonomía derivada de la Constitución, aplicarán los criterios y procedimientos previstos en esta Ley, en lo que no se contraponga a los ordenamientos legales que los rigen, sujetándose a sus propios órganos de control.
+A.- DEL 20% Y HASTA EL 25% DEL FONDO GENERAL DE PARTICIPACIONES;
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+B.- EL 100% DEL FONDO DE FOMENTO MUNICIPAL;
 
-###### ARTICULO 5o.
+C.- DEL 20% Y HASTA EL 25% DE LA PARTICIPACIÓN QUE LE CORRESPONDA AL ESTADO SOBRE LA RECAUDACIÓN CORRESPONDIENTE DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, Y;
 
-El Ejecutivo Estatal aplicará la presente ley por conducto de la SEDESO, sin perjuicio de la intervención de otras dependencias del propio Ejecutivo, conforme a ésta u otras disposiciones legales.
+D.- DEL 20% Y HASTA EL 25% DE LA PARTICIPACIÓN QUE LE CORRESPONDA AL ESTADO SOBRE LA RECAUDACIÓN CORRESPONDIENTE DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS.
 
-La SEDESO queda facultada para interpretar las disposiciones de esta Ley para efectos administrativos, pero no podrá variarla en su esencia o espíritu.
+ARTICULO 4° BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2007)
 
-En lo no previsto por esta ley serán aplicables, supletoriamente, los Códigos Civil y de Procedimientos Civiles del Estado.
+> <small>(F. DE E., 19 DE MARZO DE 2012)</small>
 
-Los titulares de las dependencias y entidades, a los que en los términos del presente artículo compete la aplicación de la ley, serán responsables de que en la adopción e instrumentación de los sistemas y procedimientos para la realización de las acciones, actos y contratos, que deban llevar a cabo en cumplimiento de esta ley, se observen los siguientes criterios:
+###### ARTICULO 5º.
 
-I.- Proveer a la simplificación administrativa, reducción, agilización y transparencia de los procedimientos y trámites;
+LOS FACTORES UTILIZADOS PARA LA DISTRIBUCIÓN DEL FONDO ÚNICO DE PARTICIPACIONES PARA LOS MUNICIPIOS, SE CALCULARÁN DE LA SIGUIENTE MANERA:
 
-II.- Ejecutar las acciones tendientes a descentralizar las funciones que realicen, con objeto de procurar que los trámites se lleven a cabo y resuelvan en los mismos lugares en que se originen las operaciones; y
+UNA PRIMERA PARTE GARANTIZARÁ EL MONTO NOMINAL RECIBIDO EN EL 2007.
 
-III.- Racionalizar y simplificar las estructuras con que cuentan a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones.
+I.- 40% DE DICHO FONDO EN RAZÓN DIRECTA A LA POBLACIÓN DE CADA MUNICIPIO;
 
-La Contraloría vigilará y comprobará la aplicación de los criterios a los que se refiere este artículo.
+II.- 30% DE DICHO FONDO EN RAZÓN AL ÍNDICE DE MARGINACIÓN DE CADA UNO DE LOS MUNICIPIOS DEL ESTADO;
 
-###### ARTICULO 6o.
+III.- 10% DE DICHO FONDO EN RAZÓN DIRECTA A LA RECAUDACIÓN EFECTIVA DE CADA MUNICIPIO EN MATERIA DE IMPUESTO PREDIAL Y LOS DERECHOS POR CONSUMO DE AGUA;
 
-La ejecución de las obras públicas que realicen las dependencias y entidades a que se refiere el artículo 1o. de esta Ley, con cargo total o parcial a fondos aportados por la Federación conforme a los convenios entre el Ejecutivo Estatal y el Ejecutivo Federal, estará sujeta a las disposiciones de la Ley de Obras Públicas de la Federación y en lo conducente a lo ordenado por esta Ley, así como a lo pactado en los convenios a que se refiere este artículo.
+IV.- 10% DE DICHO FONDO EN FUNCIÓN DEL NÚMERO DE COMUNIDADES EXISTENTES EN CADA MUNICIPIO; Y,
 
-###### ARTICULO 7o.
+V.- 10% DE DICHO FONDO EN RELACIÓN AL INCREMENTO DE LA RECAUDACIÓN EN MATERIA DE IMPUESTO PREDIAL Y LOS DERECHOS DE CONSUMO DE AGUA, MEDIO (SIC) A TRAVÉS DE LOS DOS ÚLTIMOS EJERCICIOS.
 
-Cuando por las condiciones especiales de la obra se requiera la intervención de dos o más dependencias o entidades, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de la parte de la obra que le corresponda, sin perjuicio de la responsabilidad que en razón de sus atribuciones tenga la encargada de la planeación y programación del conjunto.
+> <small>(F. DE E., 19 DE MARZO DE 2012)</small>
 
-Previamente a la ejecución de las obras a que se refiere este artículo, se deberán establecer convenios donde se especifiquen los términos para la coordinación de las acciones de las dependencias y entidades que intervengan.
+###### ARTICULO 6º.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
+PARA OBTENER LOS PORCENTAJES DE DISTRIBUCIÓN DEL FONDO ÚNICO DE PARTICIPACIONES SOBRE LOS MUNICIPIOS SE ESTARÁ A LOS (SIC) SIGUIENTES:
+
+I.- SE DETERMINARÁ EL PORCENTAJE QUE REPRESENTEN LOS HABITANTES DE CADA MUNICIPIO EN RELACIÓN A LA POBLACIÓN TOTAL DEL ESTADO;
+
+II.- SE DETERMINARÁ EL PORCENTAJE QUE REPRESENTA LA RECAUDACIÓN EFECTIVA DE LOS INGRESOS DE CADA MUNICIPIO EN MATERIA DE IMPUESTO PREDIAL Y LOS DERECHOS DE CONSUMO DE AGUA, DE LA SUMA DE TODOS ELLOS;
+
+III.- SE DETERMINARÁ EL PORCENTAJE QUE REPRESENTA EL NÚMERO DE COMUNIDADES DE CADA MUNICIPIO DE LA SUMA DE TODAS ELLAS EN EL ESTADO; Y
+
+IV.- PARA OBTENER EL GRADO DE MARGINACIÓN DE CADA MUNICIPIO DEL ESTADO, SE CONSIDERARÁN LOS INDICADORES ECONÓMICOS, SOCIALES Y CULTURALES, CORRESPONDIENDO A CADA MUNICIPIO UN PORCENTAJE DEL GRADO DE MARGINACIÓN TOTAL DEL ESTADO.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 7°.
 
@@ -179,61 +135,191 @@ LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEBERÁ ACTUALIZAR, ANUALMENTE, LOS
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 8o.
+###### ARTICULO 8º.
 
-Las dependencias y entidades deberán formular un inventario de la maquinaria y equipo de construcción a su cuidado, o de su propiedad, y lo mantendrán actualizado, debiendo remitir copias del mismo a la Contraloría, a la Oficialía y a la SEOPC en la forma y términos que éstas establezcan.
+DE CONFORMIDAD CON LOS FACTORES ESTABLECIDOS EN EL ARTÍCULO 5° Y LO PRESCRITO EN EL ARTÍCULO 6° DE ESTA LEY, LAS PARTICIPACIONES FEDERALES QUE CORRESPONDEN A LOS MUNICIPIOS DEL ESTADO, SE DISTRIBUIRÁN DE ACUERDO A LOS SIGUIENTES PORCENTAJES:
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-Las dependencias y entidades llevarán el catálogo y archivo de los estudios y proyectos que realicen sobre la obra pública y lo remitirán a la SEDESO, a la Contraloría y a la SEOPC, en la forma y términos que éstas establezcan.
+MUNICIPIOS PORCENTAJE
 
-Lo anterior será sin perjuicio de las facultades que en materia de inventarios corresponda a otras dependencias del Ejecutivo Estatal.
+ACATLAN 1.0669
 
-###### ARTICULO 9o.
+ACAXOCHITLAN 1.4688
 
-La planeación de la obra pública que realicen las dependencias y entidades a que se refiere el artículo 1º de esta ley deberá:
+ACTOPAN 1.4775
 
-I.- Sujetarse a los objetivos, políticas y prioridades señaladas en los planes que elabore el Gobierno del Estado a nivel sectorial y regional de desarrollo urbano, social y económico a corto, mediano y largo plazo, de acuerdo con los recursos identificados en los mismos planes, y en observancia de las normas y lineamientos que de ellos se deriven;
+AGUA BLANCA 0.8449
 
-II.- Considerar de manera jerarquizada las necesidades estatales, regionales y de beneficio económico, social y ambiental que representen;
+AJACUBA 0.5894
 
-III.- Respetar las disposiciones legales y reglamentarias y tomar en consideración los planes de desarrollo urbano, económico y social del Estado y Municipios;
+ALFAJAYUCAN 1.0369
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+ALMOLOYA 0.8747
 
-IV.- Prever los requerimientos de áreas y predios para la obra pública, previa consulta con la SEDESO y la SEOPC para que éstas, en el ejercicio de sus atribuciones, determinen su conveniencia y viabilidad. Asimismo, observar las declaratorias de provisiones, usos, reservas y destinos de áreas y predios que se hubieran hecho conforme a lo dispuesto por las leyes de la materia;
+APAN 1.3053
 
-V.- Considerar la disponibilidad de recursos con relación a las necesidades de la obra pública;
+ATITALAQUIA 0.7901
 
-VI.- Prever las obras principales, así como las complementarias o accesorias y las acciones necesarias para poner aquellas en servicio, estableciendo las etapas que se requieran para su terminación;
+ATLAPEXCO 0.8717
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
+ATOTONILCO EL GRANDE 0.9417
 
-VII.- Prever y considerar los avances tecnológicos aplicables en función de la naturaleza de las obras y la selección de materiales, productos, equipos y procedimientos de tecnología estatal, regional y municipal, que satisfagan los requerimientos técnicos y económicos del proyecto;
+ATOTONILCO DE TULA 1.4481
 
-VIII.- Tomar en cuenta, preferentemente, el empleo de los recursos humanos y la utilización de los materiales propios de la región donde se ubiquen las obras; y
+CALNALI 1.0384
 
-IX.- Tomar en cuenta preferentemente en igualdad de circunstancias a los contratistas de la localidad;
+CARDONAL 0.9160
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+CUAUTEPEC 1.4520
 
-X.- Ajustarse a los objetivos, metas y previsiones de recursos establecidos en los correspondientes presupuestos de egresos, estatal y municipales, y, en su caso, a las disposiciones de la Ley de Control Presupuestal y Gasto Público del Estado;
+CHAPANTONGO 0.7042
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+CHAPULHUACAN 1.2089
 
-XI.- Prever y considerar las acciones a realizar, antes, durante y después de su ejecución;
+CHILCUAUTLA 0.7291
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+EL ARENAL 0.9474
 
-XII.- Prever y considerar la coordinación con otras dependencias y entidades que realicen obras en las mismas áreas; y
+ELOXOCHITLAN 0.5229
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
+EMILIANO ZAPATA 0.4691
 
-XIII.- Prever y considerar los efectos y consecuencias sobre las condiciones ambientales, cuando éstas pudieran deteriorarse. Los proyectos deberán incluir, si ello fuere posible, lo necesario para que se preserven o restauren las condiciones ambientales y los procesos ecológicos;
+EPAZOYUCAN 1.1913
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2016)</small>
+FRANCISCO I MADERO 0.9054
 
-XIV.- Garantizar el fácil acceso y desplazamiento de las personas con discapacidad, debiéndose observar las normas técnicas que dicte la autoridad competente en términos de lo establecido en las fracciones I, VII, VIII y XII del artículo 7 de la Ley Integral para las Personas con Discapacidad en el Estado de Campeche. En el caso de edificaciones, vías de comunicación y equipamiento que se encuentren construidas y no sean aptas para el desplazamiento de las personas con discapacidad, se deberán realizar las adecuaciones pertinentes, para su accesibilidad y movimiento.
+HUASCA 0.8393
+
+HUAUTLA 1.0373
+
+HUAZALlNGO 1.8099
+
+HUEHUETLA 1.0946
+
+HUEJUTLA 2.8842
+
+HUICHAPAN 1.3944
+
+IXMIQUILPAN 2.0561
+
+JACALA 0.7975
+
+JALTOCAN 1.2980
+
+JUAREZ 0.4653
+
+LA MISION 1.0371
+
+LOLOTLA 0.7279
+
+METEPEC 0.7184
+
+METZTITLAN 1.0383
+
+MINERAL DEL CHICO 0.6133
+
+MINERAL DEL MONTE 0.6121
+
+MINERAL DE LA REFORMA 3.5209
+
+MIXQUIAHUALA 1.1992
+
+MOLANGO 0.9271
+
+NICOLAS FLORES 0.6615
+
+NOPALA 1.0272
+
+OMITLAN 0.6235
+
+PACULA 0.6746
+
+PACHUCA 7.7681
+
+PISAFLORES 1.6530
+
+PROGRESO 0.7185
+
+SAN AGUSTIN METZQUITITLAN 0.6349
+
+SAN AGUSTIN TLAXIACA 0.9940
+
+SAN BARTOLO TUTOTEPEC 1.1253
+
+SAN FELIPE ORIZATLAN 1.3757
+
+SAN SALVADOR 0.9694
+
+SANTIAGO DE ANAYA 0.6668
+
+SANTIAGO TULANTEPEC 1.0425
+
+SINGUILUCAN 0.8889
+
+TASQUILLO 0.7224
+
+TECOZAUTLA 1.3336
+
+TENANGO DE DORIA 0.9029
+
+TEPEAPULCO 1.3433
+
+TEPEHUACAN DE GUERRERO 1.1748
+
+TEPEJI DEL RIO 2.0665
+
+TEPETITLAN 0.6722
+
+TETEPANGO 0.3910
+
+TEZONTEPEC DE ALDAMA 1.2548
+
+TIANGUISTENGO 0.8981
+
+TIZAYUCA 2.4231
+
+TLAHUELlLPAN 0.5432
+
+TLAHUILTEPA 0.8563
+
+TLANALAPA 0.3948
+
+TLANCHINOL 2.2142
+
+TLAXCOAPAN 0.7942
+
+TOLCAYUCA 0.5806
+
+TULA DE ALLENDE 2.3287
+
+TULANCINGO 3.5395
+
+VILLA DE TEZONTEPEC 0.7506
+
+XOCHIATIPAN 0.9622
+
+XOCHICOATLAN 0.8207
+
+YAHUALlCA 1.3634
+
+ZACUALTIPAN 0.8609
+
+ZAPOTLAN 0.6319
+
+ZEMPOALA 1.1679
+
+ZIMAPAN 1.3127
+
+TOTALES 100.0000
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+
+###### ARTICULO 9º.
+
+LAS PARTICIPACIONES FEDERALES QUE RECIBIRÁN LOS MUNICIPIOS DEL TOTAL DEL FONDO GENERAL DE PARTICIPACIONES INCLUSIVE LOS AJUSTES CUATRIMESTRALES, NUNCA SERÁN INFERIORES A LO ESTABLECIDO POR EL ARTÍCULO 4 DE ESTA LEY.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 8.
 
@@ -417,545 +503,207 @@ TOTALES 100.0000
 
 ###### ARTICULO 10.
 
-Las dependencias y entidades a que se refiere el Artículo 1o. de esta Ley, elaborarán los programas de obra pública y sus respectivos presupuestos con base en las políticas, prioridades y recursos identificados en la planeación del desarrollo del Estado, considerando:
+LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO, UNA VEZ IDENTIFICADA LA ASIGNACIÓN MENSUAL QUE LE CORRESPONDE A LA ENTIDAD, DE LOS FONDOS PREVISTOS EN LA LEY DE COORDINACIÓN FISCAL FEDERAL AFECTARÁ MENSUALMENTE LA PARTICIPACIÓN QUE LE CORRESPONDA A CADA MUNICIPIO.
 
-I.- Los objetivos y metas a corto, mediano y largo plazo;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-II.- Las acciones que se han de realizar y los resultados que se han de obtener;
+LA LIQUIDACIÓN DEFINITIVA SE DETERMINARÁ ANTES DEL CIERRE DE CADA EJERCICIO FISCAL, TOMANDO EN CONSIDERACIÓN LAS CANTIDADES QUE SE HUBIEREN AFECTADO PROVISIONALMENTE.
 
-III.- Los recursos necesarios para su ejecución y la calendarización física y financiera de los mismos, así como los gastos de operación, y
-
-IV.- Las unidades responsables de su ejecución.
-
-Asimismo, los programas y presupuestos deberán incluir las acciones y recursos para llevar a cabo el proceso de planeación, programación y presupuestación de las obras a que se refiere este capítulo.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Las dependencias y entidades deberán remitir sus programas y presupuestos de obra pública a la SEDESO, en la fecha que ésta señale, a efecto de integrarlos a la planeación del desarrollo del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 11.
 
-Serán elementos de la obra pública, las investigaciones, las asesorías y las consultorías especializadas así como los estudios técnicos y de preinversión que requiera su realización.
+LOS MUNICIPIOS DEL ESTADO, PARTICIPARÁN DEL 70% DE LA RECAUDACIÓN QUE SE OBTENGA DE LOS CONTRIBUYENTES QUE TRIBUTEN EN LA SECCIÓN III DEL CAPÍTULO VI DEL TÍTULO IV DE LA LEY DEL IMPUESTO SOBRE LA RENTA, QUE A PARTIR DEL 1° DE ENERO DE 1998, SE INCORPOREN AL REGISTRO FEDERAL DE CONTRIBUYENTES, COMO RESULTADO DE LOS ACTOS DE VERIFICACIÓN DE LAS AUTORIDADES MUNICIPALES, EN LOS TÉRMINOS DE LOS CONVENIOS DE COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL FEDERAL QUE AL EFECTO SE SUSCRIBAN.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 12.
 
-En la programación de la obra pública se preverán la realización de los estudios y proyectos arquitectónicos y de ingeniería que se requieran y las normas y especificaciones de ejecución aplicables.
+LAS PARTICIPACIONES QUE CORRESPONDAN A LOS MUNICIPIOS SON INEMBARGABLES Y NO ESTÁN SUJETAS A RETENCIÓN. LA COMPENSACIÓN ENTRE EL DERECHO DEL MUNICIPIO A RECIBIR PARTICIPACIONES Y LAS OBLIGACIONES QUE TENGA CON LA FEDERACIÓN, ESTADO O MUNICIPIOS POR CRÉDITO DE CUALQUIER NATURALEZA, OPERARÁ DE ACUERDO A LO PREVISTO EN LA LEY COORDINACIÓN (SIC) FISCAL FEDERAL Y DEL CÓDIGO FISCAL DEL ESTADO EN CUANTO A COMPENSACIÓN, PREFERENCIA Y PRELACIÓN DE CRÉDITOS SE REFIERA.
 
-El programa de la obra pública indicará las fechas previstas de iniciación y terminación de todas sus fases, considerando las acciones previas a su iniciación y las características ambientales, climatológicas y geográficas de la región donde deba realizarse.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO IV. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
+### CAPITULO III. DE LA COLABORACION ADMINISTRATIVA ENTRE ESTADO Y MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 13.
 
-Dentro de su programa, las dependencias y entidades a que se refiere el Artículo 1o. de esta Ley elaborarán los presupuestos de cada una de las obras públicas que deban realizar, distinguiendo las que se han de ejecutar por contrato o por administración directa. Los presupuestos incluirán, según el caso, los costos correspondientes a:
+EL GOBIERNO DEL ESTADO, A TRAVÉS DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN; Y LOS MUNICIPIOS A TRAVÉS DE LOS AYUNTAMIENTOS, AL INICIO DE SU PERIODO DE ADMINISTRACIÓN Y CON VIGENCIA AL TÉRMINO DE ÉSTA, PODRÁN CELEBRAR CONVENIOS DE COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL Y ADMINISTRACIÓN (SIC); EN LOS QUE SE ESPECIFICARÁN CLARAMENTE LOS DERECHOS, LAS OBLIGACIONES Y FACULTADES QUE EJERZAN, ASÍ COMO LAS LIMITACIONES DE CADA UNA DE LAS PARTES.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
-
-I.- Las investigaciones, asesorías, consultorías y estudios que se requieran;
-
-II.- Los proyectos arquitectónicos y de ingeniería necesarios;
-
-III.- La regularización y adquisición de la tierra;
-
-IV.- La ejecución, que deberá incluir el costo estimado de la obra que se realice por contrato, y en caso de realizarse por administración directa, los costos de los recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra, los cargos adicionales para prueba y funcionamiento, así como los indirectos de la obra;
-
-V.- Las obras de infraestructura complementarias que requiera la obra;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
-
-VI.- Los trabajos de conservación y mantenimiento ordinario, preventivo y correctivo de los bienes inmuebles a su cargo; así como las obras relativas a la preservación, restauración y mejoramiento de las condiciones ambientales; y
-
-VII.- Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 14.
 
-En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total de la obra, como el relativo a los ejercicios de que se trate según las etapas de ejecución que se establezca en la planeación y programación de las mismas.
+LOS MUNICIPIOS QUE SUSCRIBAN EL CONVENIO A QUE SE REFIERE EL ARTÍCULO ANTERIOR RECIBIRÁN, POR CONCEPTO DE LA RECAUDACIÓN QUE REALICEN POR LA IMPOSICIÓN DE MULTAS FEDERALES NO FISCALES, EL INCENTIVO ECONÓMICO A LA QUE SE HACE REFERENCIA EN LA CLÁUSULA DÉCIMA CUARTA FRACCIÓN IX DEL CONVENIO DE COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL FEDERAL, SUSCRITO POR EL GOBIERNO FEDERAL, A TRAVÉS DE LA SECRETARIA DE HACIENDA Y CRÉDITO PÚBLICO, CON EL ESTADO.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 15.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+LAS AUTORIDADES FISCALES DE LOS MUNICIPIOS DE LA ENTIDAD, PODRÁN COORDINARSE CON LAS DEL ESTADO PARA RECIBIR ASESORÍA O EJERCER ATRIBUCIONES DE LA TESORERÍA MUNICIPAL QUE SE SEÑALEN EN LOS ACUERDOS RESPECTIVOS, LOS CUALES SE REGIRÁN EN TODOS SUS ASPECTOS POR LAS LEYES FISCALES MUNICIPALES.
 
-### CAPITULO V. DE LA CONTRATACION Y EJECUCION DE LA OBRA PUBLICA
+### CAPITULO IV. DE LOS ORGANISMOS EN MATERIA DE COORDINACION FISCAL
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 16.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+EL EJECUTIVO DEL ESTADO A TRAVÉS DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN; Y LOS AYUNTAMIENTOS A TRAVÉS DE LAS PRESIDENCIAS MUNICIPALES, PARTICIPARÁN EN EL DESARROLLO, VIGILANCIA Y PERFECCIONAMIENTO DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO POR CONDUCTO DE:
+
+I.- LA COMISIÓN PERMANENTE DE FUNCIONARIOS FISCALES; Y,
+
+II.- LA COMISIÓN COORDINADORA DE CAPACITACIÓN Y ASESORÍA FISCAL
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 17.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+LA COMISIÓN PERMANENTE DE FUNCIONARIOS FISCALES, ESTARÁ INTEGRADA POR UN REPRESENTANTE DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO, UN REPRESENTANTE DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR, UN REPRESENTANTE DE LA SECRETARÍA DE DESARROLLO SOCIAL Y 7 REPRESENTANTES DE LOS MUNICIPIOS, DE LOS CUALES SE ELEGIRÁN UNO POR CADA ZONA, SIENDO LA ZONIFICACIÓN LA SIGUIENTE:
+
+I.- ALMOLOYA, APAN, ATOTONILCO EL GRANDE, EMILIANO ZAPATA, EPAZOYUCAN, HUASCA DE OCAMPO, MINERAL DE LA REFORMA, MINERAL DEL CHICO, MINERAL DEL MONTE, OMITLAN DE JUÁREZ, PACHUCA, TEPEAPULCO, TIZAYUCA, VILLA DE TEZONTEPEC, TLANALAPA, TOLCAYUCA, ZAPOTLAN DE JUÁREZ, ZEMPOALA;
+
+II.- ACATLAN, ACAXOCHITLAN, AGUA BLANCA DE ITURBIDE, CUAUTEPEC DE HINOJOSA, HUEHUETLA, METEPEC, SAN BARTOLO TUTOTEPEC, SANTIAGO TULANTEPEC, SINGUILUCAN, TENANGO DE DORIA, TULANCINGO;
+
+III.- ACTOPAN, AJACUBA, EL ARENAL, ATITALAQUIA, ATOTONILCO DE TULA, FRANCISCO I. MADERO, MIXQUIAHUALA DE JUÁREZ, PROGRESO DE OBREGÓN, SAN AGUSTIN TLAXIACA, SAN SALVADOR, SANTIAGO DE ANAYA, TEPEJI DEL OCAMPO, TEPETITLAN, TETEPANGO, TEZONTEPEC DE ALDAMA, TLAHUELILPAN, TLAXCOAPAN, TULA DE ALLENDE;
+
+IV.- ALFAJAYUCAN, CARDONAL, CHAPANTONGO, CHILCUAUTLA, HUICHAPAN, IXMIQUILPAN, NICOLAS FLORES, NOPALA DE VILLAGRÁN, PACULA, TASQUILLO, TECOZAUTLA, ZIMAPÁN;
+
+V.- ATLAPEXCO, HUAUTLA, HUEJUTLA DE REYES, JALTOCAN, SAN FELIPE ORIZATLÁN, XOCHIATIPAN DE CASTILLO, YAHUALICA;
+
+VI.- ELOXOCHITLAN, METZQUITITLAN, METZTITLAN, TIANGUISTENGO, XOCHICOATLAN, ZACUALTIPAN;
+
+VII.- CALNALI, CHAPULHUACAN, HUAZALINGO, JACALA, JUAREZ HIDALGO, LOLOTLA, LA MISION, MOLANGO, PISAFLORES, TEPEHUACAN DE GUERRERO, TLAHUILTEPA, TLANCHINOL.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 18.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+LAS FACULTADES Y OBLIGACIONES DE LA COMISIÓN PERMANENTE DE FUNCIONARIOS FISCALES, SE ESTABLECERÁN EN EL REGLAMENTO DE ESTA LEY.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 19.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+LA COMISIÓN COORDINADORA DE CAPACITACIÓN Y ASESORÍA FISCAL SE INTEGRARÁ POR UN COORDINADOR DE LA COMISIÓN QUE SERÁ EL FUNCIONARIO DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN QUE DESIGNE EL SECRETARIO DE DICHA DEPENDENCIA Y POR EL CONSEJO DIRECTIVO QUE ESTARÁ INTEGRADO POR LA COMISIÓN PERMANENTE DE FUNCIONARIOS FISCALES, Y FUNCIONARÁ DE ACUERDO A LAS FACULTADES Y OBLIGACIONES SEÑALADAS EN EL REGLAMENTO CITADO EN EL ARTÍCULO ANTERIOR.
 
-### CAPITULO VI. DE LA INFORMACION Y VERIFICACION
+### CAPITULO V. DE LAS APORTACIONES FEDERALES PARA LOS MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 55.
-
-Las dependencias y entidades deberán rendir a la SEDESO y a la Contraloría, y en su caso a la SEOPC, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-La SEDESO y la Contraloría, y en su caso la SEOPC, podrán requerir en todo tiempo la documentación específica relativa a cualquier obra.
-
-Para tal efecto, las dependencias y entidades conservarán en forma ordenada y sistemática toda la documentación comprobatoria del gasto en dichas obras cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 56.
-
-La Contraloría, en consulta con la Oficialía, establecerá los procedimientos de información que se requieran para el seguimiento y control del gasto que realicen las dependencias y entidades por concepto de adquisiciones de materiales, equipo y maquinaria, o cualquier otro accesorio, relacionado con la obra pública.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 57.
-
-Las dependencias y entidades controlarán todas las fases de las obras públicas a su cargo. Para este efecto, establecerán en consulta con la Contraloría, y de conformidad con los lineamentos que dicte el Ejecutivo del Estado, las normas y procedimientos de supervisión y control que se requieran.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 58.
-
-La Contraloría, en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las obras y los servicios relacionados con ellas, se realicen conforme a lo establecido en esta Ley y a los programas y presupuestos autorizados.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 59.
-
-Las dependencias y entidades, proporcionarán todas las facilidades necesarias a fin de que la SEDESO, la SEOPC y la Contraloría, en el ámbito de sus respectivas competencias, puedan realizar el seguimiento y control de las obras públicas.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 60.
-
-Las dependencias y entidades y la Contraloría, de oficio o en atención a las inconformidades a que se refiere el artículo 33, realizarán las investigaciones correspondientes, en un plazo que no excederá de 45 días hábiles, contados a partir de la fecha en que se inicien, y resolverán lo conducente para los efectos de los artículos 33, 40 y 68 de esta ley.
-
-Durante la investigación de los hechos a que se refiere el párrafo anterior, podrá suspenderse el cumplimiento de las obligaciones pendientes por parte de las dependencias o entidades. Procederá la suspensión:
-
-I.- Cuando se advierta que existan o pudieran existir las situaciones a que se refieren los artículos 33, 40 y 68; y
-
-II.- Cuando con ello no se siga perjuicio al interés social y no se contravengan disposiciones de orden público y siempre que, de cumplirse las obligaciones, pudieran producirse daños o perjuicios a la dependencia o entidad de que se trate.
-
-Tomada la resolución a que se refiere el primer párrafo de este artículo y sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido, las dependencias y entidades deberán proceder en los términos de los artículos 33 y 54 fracción III.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 61.
-
-La SEDESO, la Contraloría y, en su caso, la SEOPC, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades que realicen obra pública, así como solicitar de los servidores públicos de las mismas y de los contratistas, en su caso, todos los datos e informes relacionados con las obras.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 20.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+DE LAS CANTIDADES QUE PERCIBA EL ESTADO PROVENIENTES DE LA FEDERACIÓN, POR CONCEPTO DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL, SE DISTRIBUIRÁN, EJERCERÁN Y COMPROBARÁN, DE LA SIGUIENTE MANERA:
+
+I.- EL FONDO SE DETERMINARÁ ANUALMENTE EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN Y SE ENTERARÁ AL ESTADO POR CONDUCTO DE LA FEDERACIÓN Y A LOS MUNICIPIOS A TRAVÉS DEL ESTADO;
+
+II.- LOS RECURSOS QUE LOS MUNICIPIOS RECIBAN, SE DESTINARÁN EXCLUSIVAMENTE, AL FINANCIAMIENTO DE OBRAS, ACCIONES SOCIALES BÁSICAS Y A INVERSIONES QUE BENEFICIEN DIRECTAMENTE A LOS SECTORES DE SU POBLACIÓN QUE SE ENCUENTREN EN CONDICIONES DE REZAGO SOCIAL Y DE POBREZA EXTREMA EN LOS SIGUIENTES RUBROS:
+
+A).- AGUA POTABLE;
+
+B).- ALCANTARILLADO;
+
+C).- DRENAJE Y LETRINAS;
+
+D).- URBANIZACIÓN MUNICIPAL;
+
+E).- ELECTRIFICACIÓN RURAL Y DE COLONIAS POBRES;
+
+F).- INFRAESTRUCTURA BÁSICA DE SALUD;
+
+G).- INFRAESTRUCTURA BÁSICA EDUCATIVA;
+
+H).- MEJORAMIENTO DE VIVIENDA;
+
+I).- CAMINOS RURALES, E;
+
+J).- INFRAESTRUCTURA PRODUCTIVA RURAL;
+
+III.- LOS MUNICIPIOS PODRÁN DISPONER HASTA DE UN 2% DEL TOTAL DE LOS RECURSOS DEL FONDO QUE LES CORRESPONDA PARA LA REALIZACIÓN DE UN PROGRAMA DE DESARROLLO INSTITUCIONAL, EL CUAL DEBERÁ SER CONVENIDO ENTRE EL EJECUTIVO FEDERAL, A TRAVÉS DE LA SECRETARÍA DE DESARROLLO SOCIAL, EL ESTADO Y EL MUNICIPIO DE QUE SE TRATE;
+
+IV.- EL ESTADO Y LOS MUNICIPIOS QUE PARTICIPAN DEL FONDO, DEBERÁN;
+
+A.- HACER DEL CONOCIMIENTO DE SUS HABITANTES, LOS MONTOS QUE RECIBAN, LAS OBRAS Y ACCIONES A REALIZAR, EL COSTO DE CADA UNA, SU UBICACIÓN, METAS Y BENEFICIARIOS;
+
+B.- PROMOVER LA PARTICIPACIÓN DE LAS COMUNIDADES BENEFICIARIAS EN SU DESTINO, APLICACIÓN Y VIGILANCIA, ASÍ COMO, EN LA PROGRAMACIÓN, EJECUCIÓN, CONTROL, SEGUIMIENTO Y EVALUACIÓN DE LAS OBRAS Y ACCIONES QUE SE VAYAN A REALIZAR;
+
+C.- INFORMAR A SUS HABITANTES, DURANTE EL EJERCICIO Y A SU TERMINO, SOBRE LOS RESULTADOS ALCANZADOS, Y;
+
+D.- PROPORCIONAR, AL GOBIERNO FEDERAL Y ESTATAL A TRAVÉS DE LAS DEPENDENCIAS O INSTANCIAS QUE LO SOLICITEN LA INFORMACIÓN QUE SOBRE LA UTILIZACIÓN DEL FONDO LES SEA REQUERIDA, CON LA PERIODICIDAD QUE PARA EL CASO SE ESTABLEZCA, ADEMÁS DE HACER PÚBLICA LA INFORMACIÓN DE LOS RECURSOS RECIBIDOS, APLICACIÓN Y AVANCES FÍSICO FINANCIEROS MEDIANTE SU DIFUSIÓN A TRAVÉS DE SUS PÁGINAS DE INTERNET;
+
+V.- EL EJECUTIVO FEDERAL, A TRAVÉS DE LA SECRETARÍA DE DESARROLLO SOCIAL, DISTRIBUIRÁ EL FONDO AL ESTADO CONSIDERANDO CRITERIOS DE POBREZA EXTREMA, CONFORME A LA FÓRMULA ESTABLECIDA EN EL ARTÍCULO 34 DE LA LEY DE COORDINACIÓN FISCAL FEDERAL;
+
+VI.- EL ESTADO DISTRIBUIRÁ ENTRE LOS MUNICIPIOS, LOS RECURSOS DEL FONDO, MEDIANTE UNA FÓRMULA IGUAL A LA UTILIZADA POR LA FEDERACIÓN QUE ENFATICE EL CARÁCTER DISTRIBUTIVO DE ESTAS APORTACIONES HACIA AQUELLOS MUNICIPIOS CON MAYOR MAGNITUD DE POBREZA EXTREMA;
+
+VII.- EL ESTADO, PREVIO CONVENIO CON LA SECRETARÍA DE DESARROLLO SOCIAL FEDERAL, CALCULARÁ LA DISTRIBUCIÓN DEL FONDO CORRESPONDIENTE A SUS MUNICIPIOS Y LA PUBLICARÁ A MÁS TARDAR EL DÍA 31 DE ENERO DEL EJERCICIO FISCAL APLICABLE, ASÍ COMO, LA FÓRMULA UTILIZADA Y SU METODOLOGÍA, Y;
+
+VIII.- EL ESTADO DEBERÁ ENTERAR, A LOS MUNICIPIOS, LOS RECURSOS QUE LES CORRESPONDAN CONFORME AL CALENDARIO DE ENTEROS EN QUE LA FEDERACIÓN LO HAGA EN FAVOR DE LA ENTIDAD.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 21.
 
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
+EL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS, SE DETERMINARÁ ANUALMENTE EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN, CON RECURSOS FEDERALES, EN BASE A LO QUE, AL EFECTO, ESTABLEZCA SU LEY DE INGRESOS, PARA EL EJERCICIO CORRESPONDIENTE.
 
-###### ARTÍCULO 22.
+LAS APORTACIONES FEDERALES QUE CON CARGO AL FONDO RECIBAN LOS MUNICIPIOS, SE DESTINARÁN, EXCLUSIVAMENTE, A LA SATISFACCIÓN DE SUS REQUERIMIENTOS, DANDO PRIORIDAD AL CUMPLIMIENTO DE SUS OBLIGACIONES FINANCIERAS, INCLUIDO EL PAGO CORRIENTE DE SUMINISTRO DE ENERGÍA ELÉCTRICA A LA DISMINUCIÓN DE ADEUDOS HISTÓRICOS, ASÍ COMO EL PAGO DE DERECHOS DE AGUA Y A LA ATENCIÓN DE LAS NECESIDADES DIRECTAMENTE VINCULADAS A LA SEGURIDAD PÚBLICA DE SUS HABITANTES.
 
-Las secretarías, dependencias y entidades podrán contratar servicios relacionados con las obras públicas, siempre que se trate de servicios profesionales de investigación y consultoría y asesorías especializadas, estudios y proyectos para cualquiera de las fases de la obra pública, así como de dirección o supervisión. Asimismo, podrán celebrar convenios de colaboración con algún otro ente de la administración pública federal o de alguna otra entidad federativa, siempre y cuando se trate del mismo tipo de servicios.
+LOS MUNICIPIOS QUE RECIBAN APORTACIONES DEL FONDO, TENDRÁN LAS MISMAS OBLIGACIONES A QUE SE REFIERE LA FRACCIÓN IV DEL ARTÍCULO ANTERIOR.
 
-Los contratos a que se refiere este Artículo podrán adjudicarse directamente bajo la responsabilidad de la dependencia o entidad, quedando en lo (sic) demás sujetos a las disposiciones de esta Ley y a las que de ella se deriven.
+EL ESTADO DISTRIBUIRÁ LOS RECURSOS QUE CORRESPONDAN A SUS MUNICIPIOS EN PROPORCIÓN DIRECTA AL NÚMERO DE HABITANTES CON QUE CUENTE, DE ACUERDO A LA INFORMACIÓN ESTADÍSTICA MÁS RECIENTE QUE AL EFECTO EMITA EL INSTITUTO NACIONAL DE ESTADÍSTICA, GEOGRAFÍA E INFORMÁTICA.
 
-Las dependencias o entidades que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las entidades o dependencias afines existen estudios o proyectos sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de la entidad o dependencia, no procederá la contratación.
+EN CASO DE INCUMPLIMIENTO EN EL PAGO DE OBLIGACIONES POR CONCEPTO DE DERECHOS DE AGUA POR UN PERIODO MAYOR A TRES MESES, EL GOBIERNO DEL ESTADO, PODRÁ EFECTUAR LA RETENCIÓN DE RECURSOS DE ESTE FONDO Y PROCEDER A DAR CUMPLIMIENTO DE MANERA DIRECTA AL PAGO DE ESTAS OBLIGACIONES.
+
+EN CASO DE INCUMPLIMIENTO A LAS OBLIGACIONES DE PAGO POR FACTURACIÓN DE ENERGÍA ELÉCTRICA, LA COMISIÓN FEDERAL DE ELECTRICIDAD Y LUZ Y FUERZA DEL CENTRO, SEGÚN CORRESPONDA, PODRÁN SOLICITAR AL GOBIERNO DEL ESTADO, A TRAVÉS DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, PREVIA ACREDITACIÓN DEL INCUMPLIMIENTO, LA AFECTACIÓN, RETENCIÓN Y PAGO DE LOS ADEUDOS CORRESPONDIENTES, CON CARGO A LOS RECURSOS DE LAS APORTACIONES FEDERALES DEL MUNICIPIO DE QUE SE TRATE, QUE PUEDAN UTILIZARSE PARA TAL EFECTO, ESTO SIEMPRE Y CUANDO DICHOS ADEUDOS TENGAN UNA ANTIGÜEDAD MAYOR DE NOVENTA DÍAS NATURALES.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+
+###### ARTICULO 22.
+
+LAS APORTACIONES A QUE SE REFIEREN LOS FONDOS SERÁN ADMINISTRADAS Y EJERCIDAS POR EL GOBIERNO DEL ESTADO Y, EN SU CASO, POR LOS MUNICIPIOS QUE LAS RECIBAN Y LAS RESPONSABILIDADES ADMINISTRATIVAS, CIVILES Y PENALES EN QUE INCURRAN, LAS AUTORIDADES, POR MOTIVO DE LA DESVIACIÓN DE LOS RECURSOS RECIBIDOS, SERÁN SANCIONADAS EN TÉRMINOS DE LA LEGISLACIÓN FEDERAL APLICABLE.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
-No quedan comprendidos dentro de los servicios a que se refiere el Artículo anterior, los que tengan como fin la ejecución de la obra por cuenta y orden de las dependencias o entidades, por lo que no podrán celebrarse contratos de servicios para tal objeto.
+LOS FONDOS QUE RECIBA EL ESTADO Y, EN SU CASO, LOS MUNICIPIOS, ASÍ COMO SUS ACCESORIOS NO PODRÁN DESTINARLOS A FINES DISTINTOS A LOS QUE EXPRESAMENTE SE ENCUENTREN PREVISTOS EN ESTE CAPÍTULO O A LAS LEYES QUE LOS SUSTENTEN Y PODRÁN SER AFECTADOS Y DEJADOS EN GARANTÍA, CONFORME A LO ESTABLECIDO EN EL CAPÍTULO VI DE ESTA LEY.
 
-### CAPITULO VII. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+### CAPITULO VI. DEL USO DE LOS FONDOS DE APORTACIONES COMO GARANTIA DE PAGO Y OTROS RECURSOS FEDERALES PARA LOS MUNICIPIOS
 
-###### ARTICULO 62.
-
-Quienes infrinjan las disposiciones contenidas en esta Ley, o las normas que con base en ellas se dicten, serán sancionados por la SEDESO, con multa equivalente a la cantidad de ciento cincuenta a nueve mil veces el salario mínimo general diario vigente en el Estado, en la fecha de la infracción. La misma sanción se aplicará a quienes interpongan inconformidad o revocación con el doloso propósito de obstaculizar la ejecución de una obra pública, independientemente del pago de los daños y perjuicios que su proceder ocasione.
-
-Cuando proceda, la Contraloría y, en su caso, la SEOPC podrán proponer a la SEDESO la imposición de multas a los contratistas, en los términos del párrafo anterior, o a la dependencia o entidad contratante la rescisión administrativa del contrato en que incida la infracción.
-
-Si el infractor es un servidor público la Contraloría lo sancionará conforme a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado.
-
-> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 63.
-
-Tratándose de multas, la SEDESO las impondrá conforme a los siguientes criterios:
-
-I.- Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendientes a infringir, en cualquier forma las disposiciones de esta Ley o las que se dicten con base en ella;
-
-II.- Cuando sean varios los responsables, cada uno será sancionado con el total de la multa que se imponga;
-
-III.- Tratándose de reincidencia, se impondrá otra multa mayor, dentro de los límites señalados en el Artículo 62 o duplicará la multa inmediata anterior que se le hubiere impuesto; y
-
-IV.- En el caso en que persista la infracción, se impondrán multas como tratándose de reincidencia, por cada día que transcurra.
-
-###### ARTICULO 64.
-
-No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
-
-###### ARTICULO 65.
-
-En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las siguientes reglas:
-
-I.- Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
-
-II.- Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer; y
-
-III.- La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 66.
-
-Los servidores públicos de las dependencias o entidades que, en el ejercicio de sus funciones, tengan conocimiento de infracciones a esta ley o a las normas que de ellas se deriven deberán comunicarlas a las autoridades que resulten competentes conforme a la ley.
-
-La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente.
-
-###### ARTICULO 67.
-
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil, penal u oficial que puedan derivar de la comisión de los mismos hechos.
-
-###### ARTICULO 68.
-
-Los actos, convenios, contratos y negocios jurídicos que las dependencias y entidades realicen en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
-
-ARTICULO (SIC) VIII
-
-DE LOS RECURSOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 69.
-
-En contra de las resoluciones que dicten la SEDESO o la Contraloría, en los términos de esta ley, el interesado podrá interponer el recurso de revocación, ante la dependencia que hubiere emitido la resolución, dentro de los quince días hábiles contados a partir del siguiente día hábil al de la notificación de la resolución respectiva.
-
-La tramitación del recurso se sujetará a las normas siguientes:
-
-I.- Se interpondrá por el recurrente mediante escrito en el que expresará los agravios que la resolución impugnada le cause, ofreciendo las pruebas que se proponga rendir y acompañando copia de la resolución impugnada, así como la constancia de la notificación de esta última, excepto si la notificación se hizo por correo;
-
-II.- En el recurso no será admisible la prueba de confesión ni la testimonial de las autoridades.
-
-Si dentro del trámite que haya dado origen a la resolución recurrida, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se admitirán en el recurso las que hubiere allegado en tal oportunidad;
-
-III.- Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de los hechos controvertidos, y sin el cumplimiento de este requisito serán desechadas;
-
-IV.- Se tendrán por no ofrecidas las pruebas de documentos si éstos no se acompañan al escrito en que se interponga el recurso, salvo que obren en el expediente en que haya originado la resolución recurrida;
-
-V.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
-
-VI.- La SEDESO o la Contraloría podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
-
-VII.- La SEDESO o la Contraloría acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. Las pruebas se desahogarán dentro del improrrogable plazo de quince días hábiles; y
-
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 1993)</small>
-
-VIII.- Vencido el plazo anterior, la SEDESO o la Contraloría, en su caso, dictarán resolución en un término no mayor de treinta días hábiles.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 70.
-
-Los acuerdos y resoluciones, que se dicten en cumplimiento de esta ley, se notificarán mediante oficio al que se anexará copia de aquéllos. Si los interesados residen en la población en que se encuentre la autoridad que dicte el acuerdo o resolución; la notificación se hará por estafeta o, de no ser así, por correo certificado con acuse de recibo.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 71.
-
-Las facultades y obligaciones que en esta ley se atribuyen a la SEDESO, SEOPC, CONTRALORIA y OFICIALIA, corresponderán a sus homólogas municipales cuando la obra pública se ejecute exclusivamente con recursos propios del Municipio. Las mencionadas dependencias estatales podrán asesorar y apoyar a las municipales a petición de las mismas, en el ejercicio de esas facultades y obligaciones. Cuando la obra pública se ejecute con recursos mixtos, el ejercicio de las referidas atribuciones se ajustará a lo pactado en los respectivos convenios de coordinación de acciones.
-
-T R A N S I T O R I O S
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 24.
 
-La obra pública podrá realizarse por contrato o por administración directa.
+EN LA CONTRATACIÓN DE EMPRÉSTITOS EL FONDO DE INFRAESTRUCTURA SOCIAL MUNICIPAL PUEDE SER EMPLEADO COMO GARANTÍA DE PAGO HASTA EN UN 25% DEL MONTO QUE ANUALMENTE LE CORRESPONDA AL MUNICIPIO.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Las dependencias y entidades que realicen obras y los contratistas con quienes aquéllas contraten, observarán las disposiciones que en materia de construcción rijan en los ámbitos estatal y municipal.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-La violación de esta disposición, independientemente de la responsabilidad penal y administrativa a que diere lugar para los servidores públicos y contratistas, originará la nulidad de pleno derecho del contrato celebrado para la ejecución de la obra de que se trate.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 25.
 
-A efecto de que se esté en posibilidades de contratar y ejecutar obra pública se requiere:
+DE LOS RECURSOS PROVENIENTES DEL FONDO DE COMPENSACIÓN, QUE SE DESTINEN AL ESTADO, SE DISTRIBUIRÁ UN 20% A SUS MUNICIPIOS TOMANDO COMO BASE PARA EL CRITERIO DE DISTRIBUCIÓN LOS SIGUIENTES ELEMENTOS:
 
-I.- Que la obra esté incluida en el programa de inversión autorizada;
+70% CON BASE EN POBLACIÓN REPORTADA EN LA ÚLTIMA INFORMACIÓN OFICIAL PROPORCIONADA POR EL INSTITUTO NACIONAL DE ESTADÍSTICA, GEOGRAFÍA E INFORMÁTICA.
 
-II.- Se cuente con los estudios y proyectos, las normas y especificaciones de construcción, el presupuesto, el programa de ejecución y, en su caso, el programa de suministro, y
+30% CON BASE EN UN ÍNDICE DE TRANSPARENCIA EN LA INFORMACIÓN HACENDARIA.
 
-III.- Se cumplan los trámites o gestiones complementarias que se relacionen con la obra y los que deban realizarse conforme a las disposiciones estatales y municipales.
+LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN EMITIRÁ Y ACTUALIZARÁ EN CADA EJERCICIO LOS CRITERIOS QUE CONFORMAN EL ÍNDICE DE TRANSPARENCIA SEÑALADO COMO COMPONENTE DEL FONDO DE COMPENSACIÓN.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 26.
 
-Los contratos de obra pública se adjudicarán o llevarán a cabo a través de licitaciones públicas, mediante convocatoria, para que libremente se presenten proposiciones en sobre cerrado, que será abierto en junta pública, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece la presente Ley.
+DE LOS RECURSOS QUE POR CONCEPTO DEL FONDO DE FISCALIZACIÓN RECIBA EL ESTADO, ESTE PARTICIPARÁ EN UN 20% A SUS MUNICIPIOS CON BASE EN CRITERIOS DE RECAUDACIÓN Y EFICIENCIA EN LA MISMA.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
+CUALQUIER OTRO RECURSO ADICIONAL DE NATURALEZA FEDERAL, QUE SE DESTINEN, PARA APOYAR LAS ACCIONES DEL MUNICIPIO DEBERÁ SER EROGADO CONFORME A LAS DISPOSICIONES ESPECÍFICAS O NORMATIVIDAD QUE PARA EL EFECTO EMITA LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN.
 
-Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que el contrato sólo pueda celebrarse con una determinada persona, por ser el titular de la o las patentes necesarias para realizar la obra.
+LOS MUNICIPIOS QUE RECIBAN LOS RECURSOS SEÑALADOS EN ESTE CAPÍTULO TENDRÁN LAS MISMAS OBLIGACIONES A QUE SE REFIERE LA FRACCIÓN IV DEL ARTÍCULO 19 DE ESTA LEY.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 27.
 
-Las convocatorias que podrán referirse a una o más obras, se publicarán en el periódico de mayor circulación en el Estado y contendrán cuando menos:
-
-I.- Nombre o denominación de la dependencia o entidad convocante;
-
-II.- El lugar y descripción general de la obra que se desea ejecutar;
-
-III.- Los requisitos que deberán cumplir los interesados;
-
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
-
-III Bis.- Información sobre los anticipos;
-
-IV.- La fecha límite para la inscripción en el proceso de licitación que deberá fijarse en un plazo no menor de diez días hábiles contados a partir de la fecha de publicación de la convocatoria;
-
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 1993)</small>
-
-IV Bis.- La experiencia o capacidad técnica que se requiera para participar en el concurso, de acuerdo con las características de la obra;
-
-V.- El lugar, fecha y hora en que se celebrará el acto de apertura de proposiciones, y
-
-VI.- Los criterios conforme a los cuales se decidirá la adjudicación.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-En el ejercicio de sus respectivas atribuciones, la Contraloría y la SEOPC, en su caso, intervendrán en el proceso de adjudicación del contrato.
-
-###### ARTICULO 28.
-
-Todo interesado que satisfaga los términos de la convocatoria tendrá derecho a presentar proposiciones.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Para tal efecto, las dependencias y entidades no podrán exigir requisitos adicionales a los previstos en el artículo anterior y en el Reglamento de esta ley.
-
-###### ARTICULO 29.
-
-En los supuestos y con sujeción a las formalidades que prevén los Artículos 53 y 54, las dependencias y entidades podrán optar por contratar las obras que en las propias disposiciones se señalan, sin llevar a cabo las licitaciones que establece el artículo 26 de esta Ley.
-
-La opción que las dependencias y entidades ejerzan en los términos del párrafo anterior, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, que aseguren las mejores condiciones para el Estado. En el dictamen a que se refiere el artículo 33 deberán acreditar que la obra de que se trata se encuadra en alguno de los supuestos previstos en los artículos 53 ó 54, expresando, de entre los criterios mencionados, aquéllos en que se funda el ejercicio de la opción.
-
-###### ARTICULO 30.
-
-Cuando por razón del monto de la obra resulte inconveniente llevar a cabo el procedimiento a que se refiere el Artículo 26 por el costo que éste represente, las dependencias y entidades podrán contratar sin ajustarse a dicho procedimiento, siempre que el monto objeto del contrato no exceda de los límites a que se refiere este Artículo y se satisfagan los requisitos que el mismo señala.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Para los efectos del párrafo anterior, en los correspondientes presupuestos de egresos se establecerán los montos máximos de las obras que las dependencias y entidades podrán contratar directamente.
-
-Si el importe de la obra supera los montos máximos a que se refiere el párrafo anterior, pero no excede los límites que igualmente establecerá el mencionado presupuesto, el contrato relativo podrá adjudicarse a la persona que reúna las condiciones necesarias para la realización de la obra, previa convocatoria que se extenderá a, cuando menos, tres personas que cuenten con la capacidad de respuesta y los recursos técnicos, económicos, financieros y demás que sean necesarios para la ejecución de la obra.
-
-Para los efectos de la aplicación de este precepto, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites que establezca el presupuesto de egresos, en la inteligencia de que en ningún caso, el importe total de una obra podrá ser fraccionada para que quede comprendida en los supuestos a que se refiere este artículo.
-
-Los montos máximos y límites se fijarán atendiendo a la cuantía de las obras, consideradas individualmente y en función de la inversión total autorizada a las dependencias y entidades.
-
-###### ARTICULO 31.
-
-Los interesados deberán garantizar la seriedad de las proposiciones en los procedimientos de adjudicación, el cumplimiento de los contratos y de la correcta inversión en la obra de los anticipos que, en su caso, reciban.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 32.
-
-Las garantías que deban otorgar los contratistas serán a favor de la Secretaría de Finanzas o de la respectiva Tesorería Municipal, según corresponda.
-
-###### ARTICULO 33.
-
-La convocante, en base a su propio presupuesto y en el análisis de las proposiciones admitidas emitirá un dictamen que servirá como fundamento para el fallo.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2020)</small>
-
-En un término de 10 días hábiles siguientes al vencimiento del plazo fijado para la recepción de las propuestas, en junta pública se dará a conocer el fallo mediante el cual se adjudicará el contrato a la persona que, de entre los proponentes reúnan las condiciones necesarias y garantice satisfactoriamente el cumplimiento del contrato y cuente con la experiencia requerida por la convocante para la ejecución de la obra.
-
-Si una vez considerados los criterios anteriores, resultare que dos o más proposiciones satisfacen los requerimientos de la convocante, el contrato se adjudicará a quien presente la postura más baja.
-
-Las convocantes no adjudicarán el contrato cuando las posturas presentadas no fueren aceptables y procederán a expedir una nueva convocatoria.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Contra la resolución que contenga el fallo no procederá recurso alguno, pero los contratistas o licitantes que hubieran participado podrán inconformarse por escrito, indistintamente, ante la dependencia o entidad convocante o ante la Contraloría, dentro de los diez días hábiles siguientes al fallo del concurso, o, en su caso, al del día siguiente a aquél en que se haya emitido el acto relativo a cualquier etapa o fase del mismo, incluyendo actos posteriores al fallo que impliquen la imposición de condiciones diferentes a las de la convocatoria. Transcurridos dichos plazos precluye para los contratistas o licitantes el derecho a inconformarse, sin perjuicio de que las dependencias o entidades, o la Contraloría, puedan actuar en cualquier tiempo y en los términos de este artículo y de los artículos 40 y 68.
-
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1993)</small>
-
-La resolución que contenga el fallo, dictada en contravención de los requisitos establecidos en este precepto, será nula de pleno derecho.
-
-###### ARTICULO 34.
-
-No podrán presentar propuestas ni celebrar contrato alguno de obra pública, las personas físicas o morales siguientes:
-
-I.- Aquéllas en cuyas empresas participe el funcionario que deba decidir directamente, o los que le hayan delegado tal facultad, sobre la adjudicación del contrato, o su cónyuge o sus parientes por afinidad o consanguíneos hasta el cuarto grado, sea como accionistas, administradores, gerentes, apoderados o comisarios;
-
-II.- Los contratistas que por causas imputables a ellos mismos se encuentren en situación de mora, respecto de la ejecución de otra u otras obras públicas que tengan contratadas, y
-
-III.- Los demás que por cualquier causa se encuentren impedidos para ello por disposición de la Ley.
-
-Lo establecido en este Artículo se aplicará también a los contratos de servicios relacionados con la obra pública.
-
-###### ARTICULO 35.
-
-La adjudicación del contrato obligará a la convocante y a la persona en quien hubiera recaído dicha adjudicación a formalizar el documento relativo, dentro de los veinte días hábiles siguientes al de la adjudicación.
-
-Si el interesado no firmare el contrato perderá en favor de la convocante la garantía que hubiere otorgado y ésta podrá sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante siguiente, en los términos del Artículo 33 y de su propuesta, y así sucesivamente.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-La adjudicación y firma del contrato se comunicará a la Contraloría en la forma y términos que ésta establezca.
-
-###### ARTICULO 36.
-
-Los contratos de obra a que se refiere esta Ley se celebrarán a precio alzado o sobre la base de precios unitarios.
-
-En los contratos a que se refiere el párrafo anterior podrán incorporarse las modalidades que tiendan a garantizar al Estado las mejores condiciones de ejecución de la obra.
-
-Formarán parte del contrato la descripción pormenorizada de la obra que se deba ejecutar, así como los proyectos, planos, especificaciones, programas y presupuestos correspondientes.
-
-###### ARTICULO 37.
-
-La ejecución de la obra contratada deberá iniciarse en la fecha señalada y para ese efecto, la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Dentro de los diez días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o administración directa, la dependencia o entidad lo comunicará a la Contraloría, a la SEDESO y a la SEOPC, en su caso.
-
-###### ARTICULO 38.
-
-La contratante podrá dentro del programa de inversión aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las mismas, mediante convenios, siempre y cuando éstos considerados, conjunta o separadamente, no rebasen el 25% del monto o del plazo pactados en el contrato ni impliquen variaciones sustanciales en el proyecto original.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-De las modificaciones a que se refiere este artículo, el titular de la dependencia o entidad informará a la SEDESO, a la Contraloría y, en su caso, a la SEOPC, en un plazo no mayor de diez días hábiles, contados a partir de la fecha en que se hubiere formalizado la modificación.
-
-Si las modificaciones exceden del porcentaje indicado o varían sustancialmente el proyecto, se deberá celebrar, por una sola vez, convenio adicional entre las partes respecto de las nuevas condiciones, en los términos del Artículo 25 de esta Ley, las que no podrán en modo alguno afectar las que se refieren a la naturaleza y características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley. Este convenio adicional deberá ser autorizado por el titular de la dependencia o entidad de que se trate.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 39.
-
-Las dependencias y entidades podrán suspender temporalmente, en todo o en parte, la obra contratada, por cualquiera causa justificada.
-
-###### ARTICULO 40.
-
-La contratante podrá rescindir administrativamente los contratos de obra por razones de interés general o por contravención de los términos del contrato o de las disposiciones de esta Ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 41.
-
-Las dependencias y entidades comunicarán la suspensión, o rescisión del contrato al contratista, a la Contraloría, a la SEDESO y, en su caso, a la SEOPC, dentro de los diez días hábiles siguientes a la fecha en que se emita la resolución respectiva.
-
-En el contrato se estipularán las diversas consecuencias de la suspensión y de la rescisión.
-
-###### ARTICULO 42.
-
-Las estimaciones de trabajo ejecutado correspondientes a contratos en ejercicio, se formularán bajo la responsabilidad del contratante.
-
-###### ARTICULO 43.
-
-Cuando durante la vigencia de un contrato de obra ocurran circunstancias de orden económico no previstas en el contrato, pero que de hecho y sin dolo, culpa, negligencia o ineptitud de cualquiera de las partes, determinen un aumento o reducción de un cinco por ciento o más de los costos de los trabajos aún no ejecutados, dichos costos podrán ser revisados. La contratante emitirá la resolución que acuerde el aumento o reducción correspondiente.
-
-###### ARTICULO 44.
-
-El contratista comunicará a la contratante la terminación de los trabajos que le fueron encomendados y ésta verificará que los trabajos estén debidamente concluidos dentro de los treinta días hábiles siguientes, salvo que se pacte expresamente otro plazo.
-
-La recepción de los trabajos se hará dentro de los treinta días hábiles siguientes a la fecha en que se haya constatado la terminación de los trabajos en los términos del párrafo anterior.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-La dependencia o entidad comunicará a la SEDESO, a la Contraloría, a la Oficialía y, en su caso, a la SEOPC, la terminación de los trabajos y, con anticipación no menor de diez días hábiles, informará la fecha señalada para su recepción, a fin de que, si lo estiman conveniente, nombren representantes que asistan al acto.
-
-En la fecha señalada la contratante bajo su responsabilidad recibirá los trabajos y levantará el acta correspondiente con o sin comparecencia de los representantes a que se refiere el párrafo anterior.
-
-###### ARTICULO 45.
-
-Concluida la obra, no obstante su recepción formal, el contratista quedará obligado a responder de los defectos que resultaren en la misma, de los vicios ocultos y de cualquiera otra responsabilidad en que hubiere incurrido, en los términos señalados en el contrato respectivo, en esta Ley y en el Código Civil para el Estado de Campeche.
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
-
-El contratista garantizará los trabajos dentro de los quince días hábiles siguientes a la recepción formal de los mismos, mediante fianza equivalente hasta de un veinte por ciento del monto total ejercido para responder de los defectos que resulten de la realización de los trabajos de vicios ocultos en los mismos, o de cualquiera otra responsabilidad en que hubiere incurrido en su ejecución. La vigencia de esta garantía podrá ser de hasta por tres años contados a partir de la fecha de terminación de los trabajos, lo que se hará constar en el acta de recepción formal de la obra. En caso de presentarse vicios ocultos, dentro del periodo de garantía, la dependencia o entidad deberá comunicarlo de inmediato y por escrito al contratista y a la afianzadora.
-
-###### ARTICULO 46.
-
-(DEROGADO, P.O. 14 DE JULIO DE 1993)
-
-###### ARTICULO 47.
-
-El contratista a quien se adjudique el contrato, no podrá hacer ejecutar la obra por otro; pero con autorización previa del órgano o dependencia respectiva, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. En estos casos, el contratista seguirá siendo responsable de la ejecución de la obra ante el órgano o dependencia y el subcontratista no quedará subrogado en ninguno de los derechos del primero.
-
-###### ARTICULO 48.
-
-Los contratos que con base en la presente Ley celebren las dependencias y entidades, se considerarán de derecho público.
-
-Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley o de los contratos celebrados serán resueltas por los tribunales estatales.
-
-###### ARTICULO 49.
-
-Las dependencias y entidades podrán ejecutar obras por administración directa sin intervención de contratistas, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-Previamente a la ejecución de estas obras, el titular de la dependencia o entidad emitirá el acuerdo respectivo y lo hará del conocimiento de la SEDESO, de la Contraloría y, en su caso, de la SEOPC, a las que se les comunicará periódicamente sobre el avance físico, los gastos efectuados y la terminación de las obras.
-
-Formarán parte integrante del acuerdo a que se refiere este Artículo: La descripción pormenorizada de la obra que se deba ejecutar, los proyectos, planos, especificaciones, programas de ejecución y suministro y el presupuesto correspondiente.
-
-En la ejecución de estas obras son aplicables, en lo conducente, las disposiciones contenidas en los Artículos 38, 39, 43, 44 y 55.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-###### ARTICULO 50.
-
-La dependencia o entidad deberá enviar a la SEDESO, a la Oficialía y a la Contraloría copia de los títulos de propiedad, si los tuviere, y los datos sobre localización y construcción de las obras públicas, a efecto de que se incluyan en los catálogos e inventarios de los bienes y recursos del Estado y, en su caso, para su inscripción en el Registro Público de la Propiedad correspondiente.
-
-###### ARTICULO 51.
-
-Una vez concluida la obra o parte utilizable de la misma, las dependencias y entidades vigilarán que la unidad que deba operarla reciba oportunamente de la responsable de su realización, el inmueble en condiciones de operación, los planos actualizados, las normas y especificaciones que fueron aplicadas en la ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes.
-
-###### ARTICULO 52.
-
-Las dependencias y entidades bajo cuya responsabilidad quede una obra pública después de terminada, estarán obligadas a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realicen conforme a los objetivos y acciones de los programas respectivos.
-
-Las dependencias y entidades llevarán registros de los gastos de conservación y mantenimiento, así como los de restitución de la eficiencia de la obra o de su mejor aprovechamiento y en su caso, los relativos a su demolición.
-
-###### ARTICULO 53.
-
-El Gobernador del Estado acordará la ejecución de las obras, como el gasto correspondiente, y establecerá los medios de control que estime pertinentes cuando éstas se realicen con fines de seguridad interior.
-
-###### ARTICULO 54.
-
-Las dependencias y entidades, bajo su responsabilidad, podrán realizar o contratar en los términos del Artículo 29, las obras que se requieran en los supuestos que a continuación se señalan:
-
-I.- Cuando existan condiciones o circunstancias extraordinarias o imprevisibles;
-
-II.- Cuando peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por casos fortuitos o de fuerza mayor, en estos casos las dependencias y entidades se coordinarán, según proceda, con las dependencias competentes;
-
-III.- Cuando la dependencia o entidad hubiere rescindido el contrato respectivo. En estos casos la dependencia o entidad verificará previamente, conforme al criterio de adjudicación que establece el segundo párrafo del Artículo 35, si existe una proposición que resulte aceptable, en cuyo caso el contrato se celebrará con el contratista respectivo;
-
-IV.- Cuando se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada;
-
-V.- Cuando se trate de trabajos de conservación, mantenimiento, restauración, reparación y demolición, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución; y
-
-VI.- Cuando se trate de trabajos que requieran, fundamentalmente, de mano de obra campesina o urbana marginada y que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deba ejecutarse la obra, o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes beneficiarios.
-
-Para los casos previstos en las fracciones anteriores se convocará a la o las personas que cuenten con la capacidad de respuesta inmediata y los recursos técnicos, financieros y demás que sean necesarios.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 1993)</small>
-
-El titular de la dependencia o entidad, en un plazo que no excederá de diez días hábiles, contados a partir de la fecha de iniciación de los trabajos, deberá informar de estos hechos a la Contraloría.
+LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN EMITIRÁ LOS CRITERIOS A CONSIDERAR PARA LA DISTRIBUCIÓN DE LOS RECURSOS DEL FONDO DE FISCALIZACIÓN.
 
 ## TRANSITORIOS
 
@@ -969,49 +717,155 @@ SE DEROGA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE PRIMERO DE ENERO DE 1984.
 
 CADA MUNICIPIO RECIBIRA PARA EL EJERCICIO FISCAL DE 1992, EL INCREMENTO SEÑALAD, POR LO QUE SUPERARAN LO QUE LE HUBIERE CORRESPONDIDO EL AÑO INMEDIATO ANTERIOR.
 
-###### ARTICULO 3o.
+###### ARTICULO 3º.
 
-El gasto de la obra pública se sujetará a lo previsto en los correspondientes presupuestos de egresos del Gobierno del Estado y de los gobiernos municipales, así como, en su caso, a las disposiciones de la ley de Control Presupuestal y Gasto Público del Estado.
+LA PRESENTE LEY ENTRARÁ EN VIGOR EL DIA 1º. DE ENERO DE 1990.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2022)</small>
+DADO EN LA SALA DE SESIONES DEL H. CONGRESO CONSTITUCIONAL DEL ESTADO, PALACIO LEGISLATIVO, PACHUCA DE SOTO, A LOS VEINTIDOS DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS OCHENTA Y NUEVE.
+
+PRESIDENTE:
+
+DIP. LEOPOLDO RODRIGUEZ MURILLO
+
+SECRETARIO:
+
+DIP. FCO. VICENTE ORTEGA S.
+
+SECRETARIO:
+
+DIP. HUMBERTO MADRIGAL A.
+
+Por lo tanto mando se imprima, publique y circule para su debido cumplimiento el Decreto número 161, expedido por la LIII Legislatura del Honorable Congreso Constitucional del Estado, por medio del cual se expida la Ley de Coordinación Fiscal del Estado de Hidalgo.
+
+Dado en el Palacio del Poder Ejecutivo, en la ciudad de Pachuca de Soto, Estado de Hidalgo, a los treinta días del mes de diciembre de mil novecientos ochenta y nueve.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LIC. ADOLFO LUGO VERDUZCO.
+
+EL SECRETARIO DE GOBERNACION
+
+LIC. ERNESTO GIL ELORDUY.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 1990.
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO, EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1º. DE ENERO DE 1991.
 
 ###### ARTICULO SEGUNDO.
 
-A partir de la vigencia de esta Ley se derogan las disposiciones legales y reglamentarias vigentes en la entidad en lo que se opongan a las disposiciones y contenido de esta Ley.
+SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
 
-Dado en el Palacio del Poder Legislativo del Estado, de Campeche, a los treinta y un días del mes de agosto del año de mil novecientos ochenta y cuatro.- DR. SERGIO BERZUNZA CAMEJO, D.P.- PROFR. ROMUALDO E. MENDEZ HUCHIN, D.S.- JOSE A. PUC PUC, D.S.- Rúbricas.
+P.O. 27 DE DICIEMBRE DE 1991.
 
-Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1o. DE ENERO DE 1992, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
-Dado en el Edificio de los Poderes del Estado de Campeche, a los treinta y un días del mes de agosto del año de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+P.O. 31 DE DICIEMBRE DE 1993.
 
-P.O. 14 DE JULIO DE 1993.
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1o. DE ENERO DE 1994, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DE ESTE DECRETO.
 
-SEGUNDO.- Se faculta al Gobernador del Estado para expedir el Reglamento de la Ley de Obras Públicas del Estado de Campeche.
+P.O. 30 DE DICIEMBRE DE 1994.
 
-TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este decreto.
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE ENERO DE 1995, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
 
-P.O. 30 DE JUNIO DE 2001.
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
 
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+P.O. 29 DE DICIEMBRE DE 1995.
 
-Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+PRIMERO.- DENTRO DEL PRESENTE ORDENAMIENTO LEGAL, EN TODAS LAS CANTIDADES QUE SE DENOMINAN EN NUEVOS PESOS, SE ENTENDERA SUPRIMIDA; LA PALABRA NUEVOS, DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PARA VOLVER A LA DENOMINACION DE PESOS, DE ACUERDO A LO ESTABLECIDO POR EL BANCO DE MEXICO EN EL AVISO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DE FECHA 15 DE NOVIEMBRE DE 1995.
 
-P.O. 10 DE SEPTIEMBRE DE 2008.
+SEGUNDO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE ENERO DE 1996, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
-Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
 
-Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+P.O. 31 DE DICIEMBRE DE 1996.
 
-P.O. 10 DE NOVIEMBRE DE 2016.
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1º. DE ENERO DE 1997, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 30 DE DICIEMBRE DE 1997.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1º. DE ENERO DE 1998, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 31 DE DICIEMBRE DE 1998.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1º. DE ENERO DE 1999, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1o. DE ENERO DEL AÑO 2000, PREVIA SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA 1o DE ENERO DE 2001, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- AL ENTRAR EN VIGOR EL CÓDIGO FISCAL DEL ESTADO QUE SE CONTIENE EN EL PRESENTE DECRETO, QUEDA ABROGADO EL CÓDIGO FISCAL DEL ESTADO DE HIDALGO PUBLICADO EL 31 DE DICIEMBRE DE 1981 EN EL PERIÓDICO OFICIAL DE LA ENTIDAD.
+
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero del año 2002, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 2003, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El Presente Decreto, entrará en vigor el día primero de enero del año 2004, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Se abroga la Ley de Hacienda para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de fecha 29 de diciembre de 1990, dentro del Decreto número 20, expedido por la LIV Legislatura Local.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1° de Enero del año 2005, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2005.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA 1º. DE ENERO DE 2006, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+SEGUNDO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL CONTENIDO DEL PRESENTE DECRETO.
+
+P.O. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1°. de enero de 2007, previa su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las contribuciones a las que refiere el Art. 84 Bis. en sus apartados I, II y III estarán en vigor hasta en tanto sea aprobado y entre en vigor el nuevo Ordenamiento Estatal que regula el desarrollo urbano y los asentamientos humanos.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 2008, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Lo dispuesto por el Artículo 86 BIS de la Ley de Hacienda del Estado, entrará en vigor hasta el 15 de junio del año 2008.
+
+P.O. 22 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO 1o.
 
