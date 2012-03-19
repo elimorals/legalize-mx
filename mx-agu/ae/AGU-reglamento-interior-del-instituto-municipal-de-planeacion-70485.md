@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-municipal-de-planeacion-70485
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-12"
-last_updated: "2011-05-23"
+last_updated: "2012-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES, AGUASCALIENTES
 
-REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES
+REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACIÓN DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACIÓN DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 19 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de octubre de 2009.
 
@@ -519,7 +521,7 @@ Durante el desarrollo de los procedimientos a que se refiere el presente Reglame
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 55.
 
@@ -563,7 +565,7 @@ III. Subdirección de Informática.
 
 Los Directores deberán llenar los requisitos que se señalan para el Director General, salvo para el Director de Administración y Finanzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 57.
 
@@ -981,7 +983,7 @@ VI. La vinculación con otras dependencias y organismos.
 
 VII. Verificar que los Proyectos que integran el Programa Anual de Inversión Municipal cumplan con la normatividad ambiental aplicable en cada caso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
 
 ### CAPITULO XIII BIS. De la Dirección de Información
 
@@ -1025,7 +1027,7 @@ X. Atención a proyectos especiales de otras direcciones o dependencias en las q
 
 XI. Atención y asistencia de comités y subcomités.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
 
 ### CAPITULO XIII TER. De la Subdirección de Geografía
 
@@ -1057,7 +1059,7 @@ IX. Atención a proyectos especiales de otras direcciones o dependencias en las 
 
 X. Atención y asistencia de comités y subcomités.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
 
 ### CAPITULO XIII Cuater. De la Subdirección de Estadística
 
@@ -1089,7 +1091,7 @@ IX. Atención a proyectos especiales de otras direcciones o dependencias en las 
 
 X. Atención y asistencia de comités y subcomités.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
 
 ### CAPITULO XIII Quintus. De la Subdirección de Informática
 
@@ -1101,7 +1103,7 @@ ARTÍCULO 71 Octavus. La Subdirección de Informática desarrollará, implementa
 
 ARTÍCULO 71 Novenus. La Subdirección de Informática tendrá las siguientes funciones:
 
-I. Proveer a·la Dirección de Administración los lineamientos, características y especificaciones técnicas para que sean adquiridos los equipos de cómputo y software que requiere el Instituto.
+I. Proveer a la Dirección de Administración los lineamientos, características y especificaciones técnicas para que sean adquiridos los equipos de cómputo y software que requiere el Instituto.
 
 II. Hacer análisis de necesidades de equipamiento y software de las diferentes direcciones del Instituto.
 
@@ -1347,7 +1349,7 @@ QUINTO. El presente Reglamento Interior del IMPLAN fue autorizado mediante Sesi�
 
 Así como de la Sesión Extraordinaria de la Junta de Gobierno del IMPLAN celebrada el día 13 de Julio del año dos mil nueve, según quedo asentado en el Acta correspondiente firmada por el Ing. Gabriel Arellano Espinosa Presidente Municipal de Aguascalientes, en su calidad de Presidente de la Junta de Gobierno del IMPLAN, el M. en ICH. Netzahualcóyotl López Flores, Director General del IMPLAN, en su calidad de Secretario Técnico de la Junta de Gobierno, la C.P. Angélica de Santos Velasco, en su calidad de Secretaria de Finanzas del Municipio de Aguascalientes, la Regidora Lic. Imelda Catalina Azcona Reynoso, el suplente del Regidor José Luis Proa de Anda, el Regidor José Alfredo Hornedo González, el Regidor C.P. Enrique López Hernández, y el Urbanista Jesús Díaz Herrera, en su calidad de Presidente del Consejo Consultivo del IMPLAN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE MARZO DE 2010.
 
@@ -1368,3 +1370,15 @@ Las reformas y adiciones al Reglamento Interior del Instituto Municipal de Plane
 ###### ARTICULO SEGUNDO.
 
 Se autoriza al Director General del IMPLAN para tramitar la publicación de las presentes reformas, adiciones y derogaciones al Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE MARZO DE 2012.
+
+PRIMERO. El nuevo Reglamento Interior del Instituto Municipal de Planeación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Municipal de Planeación, publicado en el Periódico Oficial del Estado de Aguascalientes, con fecha 12 de octubre del 2009, así como sus reformas de fechas 1°. de marzo del 2010 y 23 de mayo del 2011, para crear el nuevo Reglamento Interior del Instituto Municipal de Planeación. (IMPLAN)
+
+TERCERO. Las adquisiciones para el Instituto se norman por el Titulo Cuarto "De la Adquisición de Bienes y Servicios del Instituto" de este ordenamiento legal.
+
+CUARTO. Se autoriza al Director General del Instituto para ordenar la publicación del nuevo Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
+
+QUINTO. El Nuevo Reglamento Interior del Instituto Municipal de Planeación es autorizado mediante Sesión de Junta de Gobierno del IMPLAN, celebrada el día veinte de enero del año dos mil doce, según quedó asentado en el Acta correspondiente suscrita por la Lic. Lorena Martínez Rodríguez, Presidenta Municipal de Aguascalientes, en calidad de Presidenta de la Junta de Gobierno del IMPLAN; el Lic José de Jesús Álvarez Gutiérrez, Director General del IMPLAN, en calidad de Secretario Técnico de la Junta de Gobierno; la C.P. Angélica de Santos Velasco, Secretaria de Finanzas del Municipio de Aguascalientes; la Jefa de la Oficina Ejecutiva de la Presidencia Municipal, Lucila Guerra Delgado; los Regidores Pedro Rafael Delgado Carrillo, Guillermo Ulises Ruiz Esparza de Alba, Raquel Soto Orozco, José Gilberto Gutiérrez Gutiérrez y el Arq. Carlos Parga Ramírez, Presidente del Consejo Consultivo del IMPLAN.
