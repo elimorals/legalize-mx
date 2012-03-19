@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-trabajo-del-instituto-municipal-de-56184
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-02"
-last_updated: "2007-07-02"
+last_updated: "2012-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE TRABAJO DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES, AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE TRABAJO DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES (IMPLAN)
+REGLAMENTO INTERIOR DE TRABAJO DEL INSTITUTO MUNICIPAL DE PLANEACIÓN DE AGUASCALIENTES (IMPLAN)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 2 de julio de 2007.
 
@@ -370,9 +370,11 @@ El pago de los salarios se hará quincenalmente efectuándose el día hábil inm
 
 Los trabajadores de base tendrán derecho a percibir su salario por los días de descanso semanal, de descanso obligatorio, aquellos en los que se suspendan las labores, durante vacaciones, por disfrutar de licencias con goce de sueldo o por días económicos y por los demás casos y con las modalidades que señale la Ley Laboral y el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2012)</small>
+
 ###### Artículo 36.
 
-Los trabajadores tendrán derecho a un Aguinaldo anual equivalente a 38 (treinta y ocho) días de salario ó a la parte proporcional que corresponda, de conformidad con los días laborados, libre de impuestos y/o descuentos. El pago del Aguinaldo deberá pagarse antes del día veinte de diciembre.
+Los Trabajadores tendrán derecho a un Aguinaldo Anual equivalente al que se paga a los Trabajadores del Municipio de Aguascalientes ó al pago proporcional de los días laborados por los trabajadores que no hayan cumplido el año de servicio, el cual será libre de impuestos y/o descuentos. El Aguinaldo deberá pagarse antes del día veinte de diciembre.
 
 ###### Artículo 37.
 
@@ -1093,3 +1095,15 @@ CUARTO.- En términos de lo dispuesto por el Capítulo V, Artículos 422, 423, 4
 QUINTO.- En un término no mayor de sesenta días contados a la entrada en vigor del presente Reglamento, la Dirección de Administración y Finanzas emitirá el Manual de Políticas de Capacitación para los Trabajadores del IMPLAN.
 
 Se autoriza al Director General del IMPLAN para tramitar la publicación del Reglamento Interior de Trabajo del IMPLAN en el Periódico Oficial del Estado, el cual fue debidamente autorizado en Sesión Extraordinaria de la Junta de Gobierno del IMPLAN celebrada con fecha 28 de Septiembre del año 2006.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma al artículo 36 del Reglamento Interior de Trabajo del Instituto Municipal de Planeación, fue autorizada por unanimidad en la Sesión de la Junta de Gobierno celebrada el día 30 de septiembre del año 2011 por lo que procede declarar que entra en vigor a partir de esa fecha, el día 30 de septiembre del año 2011.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza al Director General del Instituto Municipal de Planeación para tramitar la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes.
