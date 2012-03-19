@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-municipal-de-planeacion-70485
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-12"
-last_updated: "2011-05-23"
+last_updated: "2012-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1350 +21,952 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES, AGUASCALIENTES
 
-REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2021 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2011.
+LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO
 
-Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de octubre de 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
 
-PRESIDENCIA MUNICIPAL AGUASCALIENTES, AGS.
+Ley Publicada en el Periódico Oficial del Estado "La Sombra de Artega", el 20 de marzo de 1997.
 
-REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE PLANEACION DE AGUASCALIENTES
+LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO
 
-## TITULO PRIMERO. ANTECEDENTES Y DEFINICIONES
+Lic. ENRIQUE BURGOS GARCÍA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-### CAPITULO UNICO. Disposiciones Generales
+LA QUINCUAGESIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 DE LA CONSTITUCION LOCAL Y
 
-###### ARTÍCULO 1°.
+C O N S I D E R A N D O
 
-Las disposiciones del presente Reglamento tienen por objeto regular la estructura, organización y funcionamiento del Instituto Municipal de Planeación de Aguascalientes en su régimen interior, de acuerdo a lo señalado por los artículos transitorios del Reglamento de ese Instituto.
+Que la presente Administración contempla entre sus prioridades la adecuación de los ordenamientos jurídicos conforme a los cambios sociales, políticos y económicos, con el propósito de satisfacer las necesidades de los diversos sectores de la sociedad.
 
-###### ARTÍCULO 2°.
+Que la Ley de Catastro del Estado de Querétaro entró en vigor el día 26 de noviembre de 1961, sin que hasta la fecha haya sufrido una reforma trascendente en su contenido, puesto que solamente se ha llevado a cabo una adición en el artículo 60 de la propia Ley en relación a predios rústicos, mismos que conforman la base de la Ley que hoy se abroga.
 
-Para los efectos de este Reglamento, se entenderá por:
+Que con la expedición de una nueva Ley de Catastro se subsanan deficiencias que la Ley anterior integra en su contenido, toda vez que las condiciones se han modificado, y con ellas la situación real del Catastro de la Entidad.
 
-I. Consejo Consultivo: El órgano colegiado de apoyo y auxilio para la realización de los objetivos del Instituto Municipal de Planeación de Aguascalientes;
+Que la Modernización Catastral permite un sinnúmero de aplicaciones, entre ellas auxiliar en la de Planeación Urbana, siendo primordial la base de datos catastral, para la valuación de los inmuebles de la Entidad.
 
-II. Desarrollo Sustentable: Es el proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+Que la integración de las Juntas Catastrales Estatales y Municipales, no podían llevarse a cabo con la periodicidad deseada, toda vez que algunos miembros de las mismas no podían ser designados por la inexistencia o desaparición de los organismos que debían elegirlos; por lo que hoy se pretende lograr la integración real de los organismos auxiliares que se contemplan en esta Ley, a efecto de obtener una mejor realización de las operaciones catastrales.
 
-III. Director General: Al Representante Legal del Instituto Municipal de Planeación de Aguascalientes, con todas las obligaciones y facultades que le otorgan el Reglamento y el Reglamento Interior;
+Que existen ordenamientos legales que guardan una estrecha relación con la materia que regula la Ley de Catastro del Estado de Querétaro, como son la Ley del Impuesto Predial, ordenamientos éste, en los cuales se ha venido llevando a cabo una serie de estudios que cimentan un proyecto de iniciativa para estar acorde con la Ley de Catastro.
 
-IV. Evaluación: Es el conjunto de actividades que permiten valorar cuantitativa y cualitativamente los resultados del Plan de Desarrollo Municipal y los Programas derivados del mismo en un lapso determinado, así como el funcionamiento del Sistema Municipal de Planeación Integral;
+Por lo anteriormente fundado y motivado esta H. Legislatura ha tenido a bien expedir la siguiente:
 
-V. Junta de Gobierno: El órgano máximo de Gobierno del Instituto Municipal de Planeación de Aguascalientes;
+"LEY DE CATASTRO PARA EL ESTADO DE QUERETARO"
 
-VI. Planeación Integral: Es la actividad integradora que busca aprovechar al máximo la efectividad total de una organización de acuerdo con sus objetivos;
+### CAPITULO I. DISPOSICIONES GENERALES
 
-VII. Programación-Presupuestación: Es una técnica auxiliar que proporciona los instrumentos que permiten fijar en el corto plazo, las actividades concretas que deberá ejecutar la Administración Municipal para lograr el cumplimiento de las metas de largo plazo determinadas en la programación global, obteniendo el nivel de gasto necesario del desarrollo económico de un período determinado;
+###### ARTICULO 1.
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+Se declara de utilidad pública en el Estado de Querétaro la Catastración de los bienes inmuebles.
 
-VIII. Proyectos Estratégicos.
+###### ARTICULO 2.
 
-###### ARTÍCULO 3°.
+Para los efectos de esta Ley se entenderá por Catastro, el inventario, registro y la valuación de los bienes inmuebles ubicados en el territorio del Estado.
 
-El IMPLAN es un organismo público descentralizado del Ayuntamiento, que cuenta con personalidad jurídica y patrimonio propios.
+###### ARTICULO 3.
 
-###### ARTÍCULO 4°.
+Las disposiciones de la presente Ley regulan:
 
-El IMPLAN fue creado por el Ayuntamiento con la finalidad de fortalecer y dar continuidad al Sistema Municipal de Planeación Integral, el cual está conformado por cuatro subsistemas: Información, Planeación, Programación y Evaluación, a partir de los cuales se generan y operan, el Plan de Desarrollo Municipal.
+I. La integración, organización y funcionamiento del Catastro;
 
-###### ARTÍCULO 5°.
+II. La forma, términos y procedimientos a que se sujetarán los trabajos catastrales, y
 
-El ámbito territorial de funcionamiento del IMPLAN, es el área que comprende los límites del Municipio de Aguascalientes.
+III. Las obligaciones que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, así como las de las personas que realicen actos relacionados con la aplicación de la presente Ley.
 
-###### ARTÍCULO 6°.
+###### ARTICULO 4.
 
-El IMPLAN funcionará permanentemente, teniendo su sede en el lugar que designe su Junta de Gobierno.
+El catastro tiene por objeto registrar los datos que permitan el conocimiento de las características cualitativas y cuantitativas de los bienes inmuebles, a efecto de obtener elementos que permitan determinar el valor catastral mediante la elaboración y conservación de los registros relativos a la identificación y valuación de los bienes inmuebles ubicados en el territorio del Estado; asimismo, obtener, clasificar, procesar y proporcionar información concerniente al suelo y a las construcciones para realizar las siguientes acciones:
 
-###### ARTÍCULO 7°.
+I. Deslindar y describir los límites y demarcación del territorio del Estado y de sus Municipios, así como aportar información técnica de éstos y mantener actualizadas las redes geodésicas y topográficas de la Entidad;
 
-El patrimonio del lMPLAN quedará integrado de los elementos a que refiere el Artículo 10 del Reglamento.
+II. Identificar, deslindar, medir, describir, clasificar, valuar, inscribir y controlar los predios urbanos y rústicos que conforman el territorio del Estado;
 
-## TITULO SEGUNDO. DE LOS ORGANOS DE GOBIERNO DEL IMPLAN
+III. Establecer las Normas Técnicas para la integración, organización, formación, mejoramiento, conservación y actualización de los registros catastrales para el control de los bienes inmuebles, en la forma, términos y procedimientos señalados por esta Ley y su Reglamento;
 
-###### ARTÍCULO 8°.
+IV. Practicar u ordenar la práctica de avalúos de los predios, para determinar su valor catastral, elemento que servirá de referencia para fijar el monto de los impuestos inmobiliarios;
 
-Para el cumplimiento de sus objetivos, funciones y atribuciones, según lo dispone el Artículo 11 del Reglamento, el IMPLAN cuenta con los siguientes órganos de gobierno:
+V. Determinar, actualizar y notificar a sus propietarios o poseedores el valor catastral de los inmuebles ubicados en el Municipio que corresponda;
 
-I. Junta de Gobierno;
+VI. Integrar la cartografía catastral del territorio del Estado;
 
-II. Consejo Consultivo; y
+VII. Formular el censo o padrón de los predios urbanos y rústicos comprendidos dentro de la circunscripción territorial del Estado; y
 
-III. Dirección General.
+VIII. Las demás que le competan conforme a las leyes y reglamentos vigentes.
 
-###### ARTÍCULO 9°.
+###### ARTICULO 5.
 
-La Junta de Gobierno estará integrada de la siguiente forma:
+Todos los predios ubicados dentro del territorio del Estado deberán ser inscritos en el padrón catastral, para tal efecto el catastro se integrará con los registros Gráfico y Alfanumérico, ambos subdivididos en urbano y rústico. Estos registros integrarán el Sistema de Información Geográfica Estatal y el Archivo Documental.
 
-I. Por el Presidente Municipal de Aguascalientes;
+###### ARTICULO 6.
 
-II. Por los titulares de las Comisiones del Ayuntamiento previstas en el Reglamento del IMPLAN, y en su caso, de aquellas que designe el Presidente de la Junta de Gobierno, atendiendo a la temática que se trate;
+Para los efectos de esta Ley los predios ubicados dentro del territorio del Estado se clasifican en:
 
-III. El Secretario de Finanzas Públicas del Municipio;
+I. Urbanos: es todo inmueble ubicado en las ciudades o poblaciones que se localice en calles trazadas y cuente como mínimo con dos sistemas de infraestructura urbana en los términos de la Ley General de Asentamientos Humanos, o cuando tenga el uso de suelo como urbano, con autorización emitida por autoridad competente o de acuerdo a los ordenamientos en materia de desarrollo urbano;
 
-IV. El Jefe de la Oficina Ejecutiva del Presidente Municipal o su equivalente;
+II. Rústicos: es todo inmueble que no reúne las características o modalidades enunciadas en la fracción anterior.
 
-V. Presidente del Consejo Consultivo del IMPLAN; y
+Los predios rústicos que cuenten con construcción y sean destinados a fines diversos de la explotación agropecuaria o forestal tales como industrias, campos deportivos, fincas de recreo, hoteles, etc., serán considerados como predios urbanos para los efectos del avalúo catastral.
 
-VI. El Director General, quien fungirá como Secretario Técnico.
+A su vez los predios urbanos y rústicos se clasifican en:
 
-### CAPITULO I. Disposiciones Generales
+a). Edificados: son aquellos lotes de terreno que contengan obras de cualquier tipo arquitectónico y uso, construidos o en proceso de construcción que incluya techados dentro del predio, así como aquellas obras de carácter deportivo, tales como albercas, canchas de tenis, frontones, etc, y
 
-###### ARTÍCULO 10.
+b). No edificados: son aquellos que no reúnen las condiciones anteriores.
 
-Los miembros de la Junta de Gobierno deberán designar persona que los supla, para el caso de que no puedan acudir a alguna de las sesiones de la misma.
+Tratándose de predios urbanos, los terrenos no edificados tendrán el carácter de baldíos.
 
-La persona señalada como suplente deberá ser aprobada por la propia Junta.
+###### ARTICULO 7
 
-###### ARTÍCULO 11.
+. Coadyuvarán con las autoridades y organismos catastrales para el mejor desempeño de sus funciones:
 
-Los cargos como miembros de la Junta tienen un carácter honorario y en consecuencia sus integrantes no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
+I. Las Dependencias del Gobierno Estatal;
 
-###### ARTÍCULO 12.
+II. Las Dependencias de los Ayuntamientos;
 
-El Presidente Municipal de Aguascalientes será el Presidente de la Junta y su Secretario Técnico será el Director General, quien asumirá las facultades que le corresponden al Presidente cuando esté ausente.
+III. Las Instituciones Privadas y Públicas, y
 
-###### ARTÍCULO 13.
+IV. Las Personas Físicas o Morales cuya colaboración se requiera.
 
-A la Junta le corresponde atender los asuntos a que se refiere el Artículo 16 del Reglamento.
+###### ARTICULO 8.
 
-###### ARTÍCULO 14.
+Los actos y resoluciones en materia de catastro serán tramitados en la forma, términos y procedimientos establecidos en la presente Ley.
 
-Corresponde al Presidente de la Junta de Gobierno:
+###### ARTICULO 9.
 
-I. Presidir las sesiones de la Junta de Gobierno;
+Los avalúos catastrales en el Estado tendrán vigencia a partir de que sean emitidos y hasta en tanto no sean modificados en los términos de esta ley.
 
-II. Convocar a las sesiones ordinarias y extraordinarias de la Junta de Gobierno;
+### CAPITULO II. DE LAS AUTORIDADES Y ORGANISMOS CATASTRALES
 
-III. Dar a conocer a los miembros de la Junta de Gobierno el orden del día para cada sesión;
+###### ARTICULO 10.
 
-IV. Dirigir los debates de las sesiones de la Junta de Gobierno;
+Son autoridades en materia de catastro:
 
-V. Aprobar con su firma las actas de las sesiones de la Junta de Gobierno, conjuntamente con el Secretario Técnico;
+I. El Gobernador del Estado;
 
-VI. Vigilar que los acuerdos y disposiciones de la Junta de Gobierno se ejecuten en los términos aprobados;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VII. Ejercer la representación oficial de la Junta de Gobierno ante cualquier autoridad o persona pública o privada;
+II. El Secretario de Finanzas;
 
-VIII. Las demás que le encomiende la Junta de Gobierno.
+III. El Director de Catastro, y
 
-###### ARTÍCULO 15.
+IV. Los Ayuntamientos a través de su Presidente Municipal.
 
-Corresponde al Secretario Técnico de la Junta de Gobierno:
+###### ARTICULO 11.
 
-I. Presidir las sesiones de la Junta de Gobierno, en ausencia del titular de la Presidencia;
+Son atribuciones del Gobernador del Estado, en materia de catastro:
 
-II. Asistir a las reuniones de la Junta de Gobierno;
+I. Establecer las políticas, normas, programas y lineamientos generales del Catastro y evaluar su cumplimiento;
 
-III. Levantar y autorizar las actas de las reuniones celebradas, asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ellas la firma de cada miembro asistente;
+II. Suscribir acuerdos de coordinación en materia de catastro con los Municipios, Dependencias y Entidades de la Administración Pública Federal, así como con otras Entidades Federativas;
 
-IV. Autorizar con su firma las comunicaciones que el Presidente dirija a nombre de la Junta de Gobierno;
+III. Las demás que determine esta Ley y otros ordenamientos jurídicos.
 
-V. Citar a los miembros de la Junta de Gobierno a las sesiones ordinarias y extraordinarias, por ausencia del Presidente de la Junta de Gobierno;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-VI. Supervisar el cumplimiento de los acuerdos emanados de la Junta de Gobierno; y
+###### ARTICULO 12.
 
-VII. Las demás que le indique la Junta de Gobierno.
+Son facultades del Secretario de Finanzas, en materia de catastro:
 
-###### ARTÍCULO 16.
+I. Fijar los criterios para fines administrativos de las disposiciones de la presente Ley y su Reglamento, en los casos de duda que se sometan a su consideración, expidiendo las circulares que al efecto se requieran;
 
-Corresponde a los miembros de la Junta de Gobierno:
+II. Celebrar con los Ayuntamientos de los Municipios del Estado, y con la representación del Titular del Ejecutivo, convenios de coordinación para administrar y realizar funciones catastrales, y
 
-I. Asistir a las sesiones de la Junta de Gobierno, contando con voz y voto;
+III. Las demás que le confieren esta Ley y su Reglamento.
 
-II. Proponer a la Junta de Gobierno los acuerdos que consideren pertinentes para el cumplimiento de los objetos, planes y programas del IMPLAN;
+###### ARTICULO 13.
 
-III. Designar y remover a los integrantes del Consejo Consultivo, conforme a lo previsto en el presente Reglamento Interior;
+El Director de Catastro tendrá las siguientes facultades:
 
-IV. Desempeñar las comisiones que les sean encomendadas por la Junta de Gobierno; y
+I.- Adminstrar (sic) los recursos materiales y humanos asignados
 
-V. Las demás atribuciones que les encomiende la Junta de Gobierno.
+II.- Disponer el cumplimiento y cabal ejecución de las atribuciones de la Dirección de Catastro previstas en este ordenamiento;
 
-###### ARTÍCULO 17.
+III.- Autorizar los actos administrativos y representar a la Dirección de Catastro.
 
-La Junta sesionará de acuerdo a las bases siguientes:
+###### ARTICULO 14.
 
-I. Se reunirá cuatrimestralmente de manera ordinaria, dentro de los primeros diez días de los meses de enero, julio y septiembre de cada año;
+Corresponde a los Ayuntamientos a través de sus Presidentes Municipales en materia de Catastro:
 
-II. Las demás sesiones que celebre la Junta serán extraordinarias, por decisión del Presidente de la Junta o por solicitud de cuando menos dos de sus miembros;
+I. Proporcionar a la Dirección de Catastro, la información relativa para integrar y actualizar los registros catastrales, y la planeación y programación de políticas valuatorias;
 
-III. La Junta sesionará válidamente con la asistencia de la mitad más uno de los miembros, en primera convocatoria y pasados 30 minutos de espera, se considerará automáticamente segunda convocatoria, pudiendo sesionar válidamente con la asistencia de los que estén presentes, entre los cuales deberá estar el Presidente y/o el Secretario Técnico;
+II. Observar y exigir el cumplimiento de las disposiciones contenidas en la presente Ley y en los convenios de coordinación;
 
-IV. Sus acuerdos se tomarán por mayoría de votos de los asistentes, teniendo voto de calidad quien presida la sesión.
+III. Proveer lo necesario, dentro de la esfera de su competencia y jurisdicción, para la consolidación y desarrollo del catastro del Estado, y
 
-###### ARTÍCULO 18.
+IV. Las demás que les determine esta Ley y las demás disposiciones legales que resulten aplicables.
 
-Para la celebración de las sesiones ordinarias deberá citarse cuando menos con cinco días naturales de anticipación, señalando la fecha y hora prevista para la reunión, el lugar en donde se celebrará y el orden del día, debiéndose notificar en los domicilios respectivos de los integrantes de la Junta de Gobierno.
+###### ARTICULO 15.
 
-Respecto de la celebración de las sesiones extraordinarias, el citatorio podrá hacerse el día anterior a su realización, cumpliendo las formalidades indicadas en el párrafo anterior.
+Son organismos catastrales en el Estado:
 
-###### ARTÍCULO 19.
+I. El Consejo Catastral Estatal y
 
-Por determinación del Presidente de la Junta de Gobierno, cuando se acerque la fecha en que deba celebrarse una sesión ordinaria y no existan asuntos en cartera que requieran ser analizados por la Junta de Gobierno, se notificará a sus integrantes esa situación y se cancelará la realización de la sesión correspondiente a ese cuatrimestre.
+II. Los Consejos Catastrales Municipales.
 
-###### ARTÍCULO 20.
+###### ARTICULO 16.
 
-Las votaciones generalmente serán nominales, que consisten en preguntar personalmente a cada uno de los miembros de la Junta si aprueba o desaprueba, emitiendo su voto positivo o negativo; salvo lo dispuesto en el presente Reglamento Interior.
+El Consejo Catastral Estatal tendrá su sede en la Ciudad de Santiago Querétaro, Qro., y estará integrado por:
 
-###### ARTÍCULO 21.
+I. Cuatro Consejeros nombrados por el Titular del Ejecutivo, de entre los cuales designará al Presidente del Consejo, quien tendrá voto de calidad;
 
-En el desarrollo de una sesión se observarán las siguientes disposiciones:
+II. Un representante de cada Ayuntamiento, con voz y voto en los asuntos que competan al Municipio que represente;
 
-I. El Secretario Técnico abrirá la sesión e inmediatamente pasará lista de asistencia;
+III. Un representante designado por la asociaciones de profesionales inmobiliarios.
 
-II. La lista de asistencia podrá realizarse oralmente nombrando a cada uno de los miembros o de manera económica mediante anotación previa de los asistentes en la relación respectiva;
+IV. Un representante designado por las asociaciones de valuadores; y
 
-III. En caso de estar presentes más del cincuenta por ciento de los integrantes, el Secretario Técnico informará que existe quórum legal;
+V.- Un representante designado por el Consejo Estatal de Concertación Ciudadana que conozca en materia de desarrollo urbano.
 
-IV. El Presidente de la Junta de Gobierno declarará abiertos los trabajos de la sesión y someterá a la consideración de los presentes el orden del día y les solicitará su aprobación mediante votación económica;
+Si alguno de los representantes citados no es designado, dentro de los quince dias siguientes a la emisión de la convocotaria (sic) que al efecto emita el Ejecutivo del Estado serán nombrado por este.
 
-V. Aprobado el orden del día, el Secretario Técnico procederá a dar lectura del acta de la sesión anterior;
+Las autoridades en materia de catastro proveerán lo necesario a efecto de que el Consejo Catastral Estatal quede conformado en el primer semestre de cada año fiscal y en el primer trimestre del año fiscal siguiente al en que inicie funciones la administración estatal correspondiente.
 
-VI. Esta lectura puede excusarse en caso de que así lo acuerden los integrantes de la Junta de Gobierno;
+Los integrantes del Consejo Catastral Estatal durarán en su encargo un año, pudiendo ser ratificados en su encomienda.
 
-VII. Una vez desahogadas las observaciones o en caso de no presentarse, se procederá a votar de manera económica la aprobación de la citada acta;
+###### ARTICULO 17.
 
-VIII. El Presidente de la Junta de Gobierno ordenará que se continúe con el desahogo de los asuntos incluidos en el orden del día, para lo cual el Secretario Técnico dará lectura a los estudios y/o dictámenes formulados, los cuales serán sometidos en su caso a debate;
+Son atribuciones del Consejo Catastral Estatal:
 
-IX. Una vez agotado el análisis de un asunto se procederá a la votación del mismo, la cual se hará de manera nominal, en los términos previstos en el presente Reglamento Interior;
+I. Aprobar en definitiva las tablas de parámetros de valores, tomando en consideración el dictamen emitido por el Consejo Catastral Municipal correspondiente;
 
-X. Posteriormente el Secretario Técnico computará los votos e informará al Presidente de la Junta de Gobierno el resultado. Se podrá proponer y aprobar por la Junta de Gobierno que en determinado asunto se vote mediante el empleo de cédula, cuando se requiera guardar reserva acerca del sentido en que vota cada uno de sus integrantes; y
+II. Emitir opinión a cerca de los estudios y proyectos de fotogrametría, medición y zonificación catastral, y
 
-XI. Una vez agotado el orden del día, quien preside la sesión declarará clausurados los trabajos correspondientes.
+III. Asentar en un libro de actas todas las opiniones o acuerdos sobre los asuntos que haya conocido.
 
-###### ARTÍCULO 22.
+IV.- Sesionar, solo si se encuentran reunidos la mayoría de sus miembros.
 
-De cada sesión el Secretario Técnico levantará precisamente un acta en la cual se asentará la resolución acordada sobre cada uno de los puntos incluidos en el orden del día y un resumen de los dictámenes analizados.
+V. Las demás que determine esta Ley y su Reglamento;
 
-En dicha acta no será necesario incluir la relatoría de los debates de la sesión, sin embargo cualquiera de sus integrantes podrá solicitar que se asiente en ella sobre algún asunto analizado. En este caso se requerirá la aprobación de la mayoría de los asistentes.
+###### ARTICULO 18.
 
-###### ARTÍCULO 23.
+Los Consejos Catastrales Municipales se integrarán por:
 
-Los acuerdos que se tomen en el seno de la Junta de Gobierno serán obligatorios para las partes.
+I. Tres consejeros nombrados por el Ayuntamiento, de entre los cuales será designado el Presidente del Consejo, quién tendrá voto de calidad.
 
-###### ARTÍCULO 24.
+II. Dos representantes de propietarios de predios urbanos del municipio, elegidos por el Ayuntamiento y por insaculación del padrón catastral correspondiente, previa aceptación de su nombramiento.
 
-El Consejo Consultivo estará integrado por el Director General y trece ciudadanos designados por la Junta de Gobierno a propuesta de la sociedad.
+III. Dos representantes de propietarios de predios rústicos del municipio, elegidos por Ayuntamiento y por insaculación del padrón catastral correspondiente, previa aceptación de su nombramiento; y
 
-Por cada propietario deberá haber un suplente quien contará con voz y voto; la suplencia aplica en casos de ausencias temporales de los titulares, en caso de vencimiento del plazo, renuncia o remoción del titular, queda sin efectos la suplencia, y tendrá que realizarse el procedimiento que marca el artículo 28 del Reglamento Interior, para la designación de un nuevo Consejero.
+IV.- Un representante designado por el Consejo Municipal de Concertación Ciudadana que conozca en materia de desarrollo urbano.
 
-###### ARTÍCULO 25.
+Los integrantes de los Consejos Catastrales Municipales durarán en su encargo un año, pudiendo reelegirse.
 
-Los cargos como miembros del Consejo Consultivo tienen un carácter honorario y en consecuencia sus integrantes no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones.
+###### ARTICULO 19.
 
-###### ARTÍCULO 26.
+Los Ayuntamientos proveerán lo necesario a efecto de que los Consejos Catastrales Municipales queden conformados en el primer semestre de cada año fiscal y en el primer trimestre del año fiscal siguiente al en que inicie funciones la administración municipal correspondiente, remitiendo a la Dirección de Catastro, copia certificada del acta de sesión de cabildo en la que fuera designado el consejo de referencia, debiendo contar con los datos generales de sus integrantes, en un plazo de treinta días hábiles contados a partir de la sesión de cabildo de mérito.
 
-Acorde a lo que establece el Artículo 18 del Reglamento, el Presidente del Consejo Consultivo será elegido por los propios miembros del Consejo, mediante votación que se efectuará en los términos de este Reglamento Interior, quien durará en el cargo dos años y seis meses; cargo que podrá ser ratificado por el propio Consejo, por un período más.
+###### ARTICULO 20.
 
-El Director General tendrá el carácter de Secretario Técnico del Consejo Consultivo, quien asumirá las facultades que le corresponden al Presidente del Consejo cuando esté ausente.
+Los Consejos Catastrales Municipales tendrán las siguientes facultades y obligaciones:
 
-### CAPITULO II. De la Junta de Gobierno
+I. Dictaminar sobre las propuestas de las tablas de parámetros de valores formuladas por la Dirección de catastro, correspondientes a su Municipio;
 
-###### ARTÍCULO 27.
+II. Asentar en un libro de actas todas las opiniones y acuerdos sobre los asuntos que haya conocido.
 
-Los consejeros durarán en su cargo cinco años; al vencimiento del término se realizará el procedimiento de designación indicado en el presente Reglamento Interior.
+III.- Sesionar, solo si se encuentran reunidos la mayoría de sus miembros; y
 
-###### ARTÍCULO 28.
+IV. Las demás que determine esta Ley y su Reglamento;
 
-La renovación de los integrantes del Consejo Consultivo se hará de la siguiente forma, los nuevos miembros los designará la Junta de Gobierno, a propuesta que haga la sociedad por conducto del Presidente Municipal; de igual manera el propio Consejo podrá presentar una terna, conformada por la ciudadanía.
+###### ARTICULO 21.
 
-###### ARTÍCULO 29.
+Una vez recibidas las propuestas de las tablas de parámetros de valores, de la Dirección de Catastro, los Consejos Catastrales Municipales por medio de sus respectivos presidentes, procederán de inmediato a emitir la convocatoria por escrito, que contendrá la "orden del día", debiéndosele notificar a los miembros con cinco días hábiles de anticipación.
 
-El Consejo Consultivo tiene las atribuciones que le otorga el Artículo 21 del Reglamento.
+###### ARTICULO 22.
 
-### CAPITULO III. Del Consejo Consultivo
+Si llegada la fecha de celebración de la sesión del Consejo correspondiente no se encuentra reunida la mayoría de sus miembros, se levantará acta circunstanciada y se ordenará emitir una segunda convocatoria para celebrar la sesión respectiva dentro de los tres días hábiles siguientes a la fecha señalada en la primer convocatoria.
 
-###### ARTÍCULO 30.
+###### ARTICULO 23.
 
-Corresponde al Presidente del Consejo Consultivo:
+Los Consejos Catastrales Municipales contarán con treinta días naturales improrrogables, que comenzarán a contarse a partir de la fecha de recepción de las propuestas, para dictaminar sobre las mismas. En caso contrario, las propuestas formuladas por la Dirección de Catastro se considerarán aprobadas por el Consejo Catastral Municipal omiso.
 
-I. Presidir las sesiones del Consejo;
+###### ARTICULO 24.
 
-II. Convocar a las sesiones ordinarias y extraordinarias del Consejo;
+Una vez recibidos los dictámenes emitidos por los Consejos Catastrales Municipales o transcurrido el término otorgado para ello, el presidente del Consejo Catastral Estatal, procederá a emitir la convocatoria para la dictaminación .
 
-III. Dar a conocer a los miembros del Consejo el orden del día para cada sesión;
+###### ARTICULO 25.
 
-IV. Dirigir los debates de las sesiones del Consejo;
+El Consejo Catastral Estatal contará con un término improrrogable de cinco días hábiles contados a partir de la fecha en que deba celebrarse la sesión respectiva para dictaminar sobre las propuestas de las tablas de parámetros de valores que se sometan a su consideración. En caso contrario, las propuestas formuladas por los Consejos Catastrales Municipales se considerarán aprobadas en definitiva.
 
-V. Aprobar con su firma las actas de las sesiones del Consejo, conjuntamente con el Secretario Técnico;
+La Dirección de Catastro ordenará la publicación de las tablas de parámetros de valores aprobadas, en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
-VI. Vigilar que los acuerdos y disposiciones del Consejo se ejecuten en los términos aprobados;
+###### ARTICULO 26.
 
-VII. Ejercer la representación oficial del Consejo ante cualquier autoridad o persona pública o privada; y
+Las decisiones del Consejo Catastral Estatal serán aprobadas por mayoría simple del total de sus miembros presentes, tendrán el carácter de irrevocables y serán obligatorias para las autoridades catastrales.
 
-VIII. Las demás que le encomiende el Consejo.
+### CAPITULO III. DE LA DIRECCION DE CATASTRO Y SUS FUNCIONES
 
-###### ARTÍCULO 31.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Corresponde al Secretario Técnico del Consejo Consultivo:
+###### ARTICULO 27.
 
-I. Presidir las sesiones del Consejo, en ausencia del titular de la Presidencia;
+La Dirección de Catastro es la Dependencia de la Secretaría de Finanzas, que en coordinación con las demás autoridades y organismos catastrales es la encargada de la aplicación y cumplimiento de la presente Ley y las demás disposiciones relativas al Catastro del Estado; tendrá bajo su mando y control la ejecución general de las actividades catastrales en la Entidad, regulando el funcionamiento técnico y administrativo.
 
-II. Asistir a las reuniones del Consejo;
+###### ARTICULO 28.
 
-III. Levantar y autorizar las actas de las reuniones celebradas, asentándolas en el libro correspondiente que llevará bajo su cuidado, debiendo recabar en cada una de ellas la firma de cada miembro asistente;
+Corresponde a la Dirección de Catastro:
 
-IV. Autorizar con su firma las comunicaciones que el presidente dirija a nombre del Consejo;
+I. Fijar, diseñar, implementar y operar los procedimientos técnicos y administrativos aplicables a la identificación, registro, valuación y deslinde de los bienes inmuebles ubicados en el Estado;
 
-V. Citar a los miembros del Consejo a las sesiones ordinarias y extraordinarias, por ausencia del titular de la Presidencia;
+II. Estudiar, proyectar, ejecutar, controlar y conservar las redes geodésicas y topográficas del Estado, con objeto de deslindar, levantar, fijar y amojonar sus límites territoriales y los de los Municipios en que está dividido;
 
-VI. Supervisar el cumplimiento de los acuerdos emanados del Consejo; y
+III. Coadyuvar en la formulación de los estudios en cada población de acuerdo con el crecimiento natural de las mismas, previendo su futuro desarrollo, para que las Autoridades respectivas puedan delimitar el perímetro urbano de ellas, y de acuerdo con los Ayuntamientos correspondientes, orientar la nomenclatura de calles y fincas urbanas en las poblaciones;
 
-VII. Los demás que le indique el Consejo.
+IV. Estudiar, planificar, proyectar y ejecutar las estadísticas de los predios de propiedad federal, estatal, municipal, ejidal, comunal y privada;
 
-###### ARTÍCULO 32.
+V. Investigar y enlistar catastralmente los bienes inmuebles que pertenezcan al Estado y Municipios, haciendo acopio de datos sobre situación, linderos y características de los predios con objeto de tener la estadística completa del patrimonio inmobiliario estatal y municipal;
 
-Corresponde a los miembros del Consejo Consultivo:
+VI. Investigar, deslindar por sí o supervisar los deslindes ejecutados dentro de la circunscripción territorial del Estado por personas ajenas a la Dirección de Catastro, con quienes ésta contrate para tal fin;
 
-I. Nombrar al Presidente de su Consejo;
+VII. Prestar asesoría en materia catastral a los Municipios que lo soliciten para el adecuado desarrollo de sus funciones en materia catastral;
 
-II. Guardar y respetar los acuerdos tomados en el Consejo;
+VIII. Clasificar los predios, integrar y mantener actualizado el padrón catastral del Estado;
 
-III. Manejar con discreción la información que obtengan dentro de las reuniones del Consejo;
+IX. Solicitar de las instituciones públicas y privadas, servidores públicos y particulares, todos los informes y datos que estime convenientes para el mejor desarrollo de las actividades catastrales;
 
-IV. Conducirse con verdad en las participaciones, exposiciones, comentarios y demás información que proporcionen al Consejo;
+X. Coordinar los trabajos catastrales con las demás autoridades y organismos de Catastro;
 
-V. Actuar dentro del Consejo y fuera del mismo en asuntos relacionados con éste, con probidad, esmero y honradez; y
+XI. Asignar clave catastral a cada uno de los inmuebles, mediante la cual se llevará a cabo la identificación, localización y registro de los mismos, para garantizar la uniformidad de sistemas en todo el territorio del Estado;
 
-VI. Procurar que no se comprometa la autonomía y postura del Consejo o del IMPLAN, por actuar con imprudencia o descuido inexcusable.
+XII. Expedir los documentos relacionados con la información catastral de los bienes inmuebles, previo pago de los derechos correspondientes;
 
-VII. Proponer candidatos de consejeros, derivado de propuestas ciudadanas, para la integración de la terna que será presentada a la Junta de Gobierno.
+XIII. Determinar en forma precisa la localización de cada predio ubicado dentro del territorio del Estado;
 
-###### ARTÍCULO 33.
+XIV. Ejecutar las determinaciones del Consejo Catastral Estatal, en lo relativo a la aplicación de las tablas de parámetros de valores aprobadas por el mismo;
 
-Los miembros del Consejo Consultivo forman parte del mismo por su perfil profesional y personal y por lo tanto, dentro del mismo no representan a organismos, colegios, sindicatos, asociaciones o a las organizaciones que los propusieron.
+XV. Practicar la valuación de predios conforme a las disposiciones contenidas en esta Ley y supervisar los avalúos elaborados dentro de la circunscripción territorial del Estado por peritos registrados ante la Dirección de Catastro, con quienes ésta contrate para tal fin.
 
-###### ARTÍCULO 34.
+XVI. Ordenar la publicación de las tablas de parámetros de valores;
 
-El Consejo Consultivo sesionará de acuerdo a las bases siguientes:
+XVII. Comunicar a los causantes y oficinas receptoras, los avalúos practicados, con los datos que permitan al interesado conocer la precisión del avalúo formulado;
 
-I. Se reunirá cada dos meses de manera ordinaria, los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, cualquier día contado a partir del 20 y hasta el día último del mes que corresponda.
+XVIII. Conocer, y registrar las modificaciones que de acuerdo con esta Ley alteren los datos contenidos en el registro catastral;
 
-II. Las demás sesiones que celebre el Consejo Consultivo serán extraordinarias, ya sea por decisión del Presidente del Consejo Consultivo o por solicitud de cuando menos cuatro de sus miembros.
+XIX. Estudiar, estructurar y proyectar clasificaciones e incrementos de valor o depreciaciones de terreno y edificaciones en general, en tantas divisiones como sean necesarias, de acuerdo con las características de las poblaciones y regiones por catastrar;
 
-III. El Consejo Consultivo sesionará válidamente con la asistencia de la mitad más uno de los miembros, en primera convocatoria y pasados 30 minutos de espera, se considerará automáticamente segunda convocatoria, pudiendo sesionar validamente con la asistencia de los que estén presentes, entre los cuales deberá estar el Presidente y/o el Secretario Técnico.
+XX. Desarrollar las actividades técnicas y administrativas inherentes a la especialidad catastral en el Estado, llevando correctamente los expedientes individuales y generales en todos los ramos;
 
-IV. Sus acuerdos se tomarán por mayoría de votos de los asistentes, teniendo voto de calidad quien presida la sesión.
+XXI. Llevar a cabo los estudios técnicos correspondientes a la creación o ampliación de fundos legales;
 
-###### ARTÍCULO 35.
+XXII. Elaborar las propuestas de tablas de parámetros de valores;
 
-Para la celebración de las sesiones ordinarias deberá citarse, cuando menos con cinco días naturales de anticipación, señalando la fecha y hora prevista para la reunión, el lugar en donde se celebrará, el orden del día, debiéndose notificar en los domicilios respectivos de los integrantes de la Junta de Gobierno.
+XXIII. Remitir a los presidentes de los Consejos Catastrales Municipales respectivos, con copia al presidente del Consejo Catastral Estatal, en la última semana del mes de octubre de cada año, las propuestas de tablas de parámetros de valores, para el siguiente año fiscal;
 
-Respecto de la celebración de las sesiones extraordinarias, el citatorio podrá hacerse el día anterior a su realización, cumpliendo las formalidades indicadas en el párrafo anterior.
+XXIV. Llevar el registro de los peritos valuadores autorizados por el Estado, para los efectos de esta Ley;
 
-###### ARTÍCULO 36.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-Por determinación del Presidente del Consejo Consultivo, cuando se acerque la fecha en que deba celebrarse una sesión ordinaria y no existan asuntos en cartera que requieran ser analizados por el Consejo Consultivo, se notificará a sus integrantes esa situación y se cancelará la realización de la sesión correspondiente.
+XXV. Hacer del conocimiento de la Secretaría de Finanzas las infracciones a la presente Ley, proponiendo el monto de la sanción correspondiente; y
 
-### CAPITULO IV. Del Director General
+XXVI. Las demás que determine esta Ley y otras disposiciones legales aplicables.
 
-###### ARTÍCULO 37.
+###### ARTICULO 29.
 
-A petición de la mayoría de los miembros del Consejo Consultivo, podrá éste invitar a sus sesiones a los representantes de otras dependencias o entidades de la Administración Pública Federal, Estatal y Municipal, así como a organismos descentralizados, de los sectores social y privado, cuando se vayan a tratar asuntos relacionados con su competencia, objeto o actividad, quienes únicamente tendrán voz pero no voto en las decisiones que se tomen.
+La Dirección de Catastro se integrará por:
 
-###### ARTÍCULO 38.
+I. Un Director, que deberá tener título de ingeniero civil o arquitecto;
 
-Las votaciones generalmente serán nominales, que consisten en preguntar personalmente a cada uno de los miembros del Consejo Consultivo si aprueba o desaprueba, emitiendo su voto positivo o negativo; salvo que el presente Reglamento Interior disponga otro tipo de votación.
+II. Un Secretario Técnico que deberá tener título de ingeniero civil o arquitecto;
 
-###### ARTÍCULO 39.
+III. Los Jefes de los Departamentos Técnico, de Informática y el Administrativo;
 
-En el desarrollo de una sesión se observarán las siguientes disposiciones:
+IV. Los Titulares de las Delegaciones de Catastro, y
 
-I. El Secretario Técnico abrirá la sesión e inmediatamente pasará lista de asistencia;
+V. El personal técnico y administrativo necesario para la realización eficaz de los trabajos catastrales.
 
-II. La lista de asistencia podrá realizarse oralmente nombrando a cada uno de los miembros o de manera económica mediante anotación previa de los asistentes en la relación respectiva;
+### CAPITULO IV. DE LAS OPERACIONES CATASTRALES
 
-III. En caso de estar presentes más del cincuenta por ciento de los integrantes, el Secretario Técnico informará que existe quórum legal;
+###### ARTICULO 30.
 
-IV. El Presidente del Consejo Consultivo declarará abiertos los trabajos de la sesión y someterá a la consideración de los presentes el orden del día y les solicitará su aprobación mediante votación económica;
+Las operaciones catastrales tienen como finalidad efectuar la descripción y medida de los predios, inscribirlos en los registros catastrales, valuarlos y servir de apoyo a su planificación.
 
-V. Aprobado el orden del día, el Secretario Técnico procederá a dar lectura del acta de la sesión anterior. Esta lectura puede excusarse en caso de que así lo acuerden los integrantes del Consejo Consultivo;
+###### ARTICULO 31.
 
-VI. Una vez desahogadas las observaciones o en caso de no presentarse, se procederá a votar de manera económica la aprobación de la citada acta;
+La localización y levantamiento de predios, comprende las operaciones y trabajos necesarios para determinar las características de los mismos, tales como: ubicación, topografía, uso, infraestructura, construcciones, valor y en general toda aquella información de carácter jurídico, socioeconómico y estadístico necesario para los fines del catastro.
 
-VII. El Presidente del Consejo Consultivo ordenará que se continúe con el desahogo de los asuntos incluidos en el orden del día, para lo cual el Secretario Técnico dará lectura a los estudios y/o dictámenes formulados, los cuales en su caso serán sometidos a debate;
+###### ARTICULO 32.
 
-VIII. Una vez agotado el análisis de un asunto se procederá a la votación del mismo, la cual se hará de manera nominal, en los términos previstos en el presente Reglamento Interior. Posteriormente el Secretario Técnico computará los votos e informará al Presidente del Consejo Consultivo sobre del resultado. Se podrá proponer y aprobar por el Consejo Consultivo que en determinado asunto se vote mediante el empleo de cédula, cuando se requiera guardar reserva acerca del sentido en que vota cada uno de sus integrantes; y
+Con base en los elementos físicos del predio y los datos obtenidos según el artículo anterior, se elaborarán y actualizarán los planos catastrales que se requieran para tener un conocimiento y registro gráfico de las áreas y características de los terrenos y las construcciones, aplicándose para ello los procedimientos técnicos que presten mayor garantía de exactitud.
 
-IX. Una vez agotado el orden del día, quien preside la sesión declarará clausurados los trabajos correspondientes.
+###### ARTICULO 33.
 
-###### ARTÍCULO 40.
+Todos los predios que comprendan el territorio del Estado, deberán ser valuados por personal autorizado por la Dirección de Catastro.
 
-De cada sesión el Secretario Técnico levantará precisamente un acta en la cual se asentará la resolución acordada sobre cada uno de los puntos incluidos en el orden del día y un resumen de los dictámenes analizados.
+###### ARTICULO 34.
 
-En dicha acta no será necesario incluir la relatoría de los debates de la sesión, sin embargo cualquiera de sus integrantes podrá solicitar que se asiente en ella sobre algún asunto analizado. En este caso se requerirá la aprobación de la mayoría de los asistentes.
+Cuando se practiquen operaciones de deslinde catastral y de rectificación o aclaración de linderos, éstas deberán efectuarse en presencia de los propietarios o poseedores del inmueble o de sus representantes legales, asistiendo además los propietarios o poseedores de los inmuebles colindantes, quienes deberán ser previamente notificados y podrán hacer las observaciones y aclaraciones que a su derecho convengan. La ausencia de los interesados, citados oportuna y legalmente, no será motivo para suspender la ejecución de dichas operaciones, mismas que deberán efectuarse a petición de parte y previo el pago de los derechos correspondientes.
 
-###### ARTÍCULO 41.
+Del resultado de las operaciones a que se refiere el párrafo anterior, se elaborará y emitirá un plano y un dictamen; y en su caso, las observaciones de los interesados o de quienes los representen legalmente se harán constar en acta circunstanciada, que será firmada por el personal autorizado que ejecutó tales operaciones, y por los interesados o colindantes que intervinieron y quisieran hacerlo.
 
-Los acuerdos que se tomen en el seno del Consejo Consultivo serán obligatorios para las partes.
+###### ARTICULO 35.
 
-###### ARTÍCULO 42.
+Si como resultado del deslinde catastral y de la rectificación o aclaración de linderos surgieran diferencias en medidas, colindancias y superficie del predio, la Dirección de Catastro citará a los propietarios, copropietarios o poseedores de los predios a una junta de avenencia señalando lugar, día y hora en que deban concurrir para que aclaren, señalen o ratifiquen los linderos.
 
-Los miembros del Consejo Consultivo deberán cumplir con los siguientes requisitos:
+Esta citación se hará con antelación no menor de tres días y en caso de no concurrir los interesados o sus representantes legalmente autorizados, se les tendrá por inconformes con cualquier arreglo.
 
-I. Tener una residencia efectiva en el Estado de Aguascalientes de por lo menos tres años al momento de la designación;
+###### ARTICULO 36.
 
-II. Tener cuando menos treinta años de edad al momento de su designación;
+La Junta de Avenencia deberá efectuarse con asistencia del Director de la Dirección de Catastro que se trate o de un representante designado, y de la misma se levantará acta circunstanciada. Si se llegare a avenimiento se levantará croquis simple que deberá ser firmado por los asistentes.
 
-III. Haber observado una conducta de reconocida probidad y no haber sido sentenciados por delito doloso; y
+En caso contrario, la Dirección de Catastro fijará el lindero o linderos, únicamente para fines catastrales y fiscales, quedando los interesados en libertad de ejercer sus derechos ante la autoridad competente para que sean fijados los límites de sus predios. Los linderos que en este caso sean fijados por la Dirección de Catastro deberán rectificarse en caso de resolución judicial adversa a su dictamen.
 
-IV. No ocupar cargos, cualquiera que sea su denominación, en los Comités Directivos de algún partido político.
+### CAPITULO V. DE LA VALUACION Y ACTUALIZACION DEL VALOR CATASTRAL
 
-###### ARTÍCULO 43.
+###### ARTICULO 37.
 
-Para la legal representación y administración del IMPLAN, el Ayuntamiento nombrará un Director General de una terna propuesta por el Presidente Municipal.
+La valuación catastral tiene por objeto asignar un valor determinado a los bienes inmuebles ubicados en el territorio del Estado, de conformidad con los preceptos de la presente Ley y su Reglamento.
 
-El Director General permanecerá en su cargo tres años con la posibilidad de un período adicional.
+###### ARTICULO 38.
 
-###### ARTÍCULO 44.
+La valuación de los predios ubicados en la Entidad, se hará cuando éstos se inscriban por primera vez en el padrón catastral en la forma que especifica la presente Ley. Dicho valor podrá ser provisional o definitivo y surtirá sus efectos a partir del siguiente periodo en que deba ser pagado el impuesto predial.
 
-El Director General además de las atribuciones que le otorga el Artículo 23 del Reglamento, tendrá las siguientes facultades:
+###### ARTICULO 39.
 
-I. Administrar y representar legalmente al IMPLAN, así como llevar a cabo todos los actos jurídicos necesarios para su funcionamiento, con los lineamientos que establezca la Junta de Gobierno;
+La zonificación catastral y las tablas de parámetros de valores unitarios de suelo y construcción, servirán de base para determinar el valor catastral de los predios ubicados en el Estado.
 
-II. Celebrar convenios con los tres niveles de gobierno y sus organismos descentralizados y desconcentrados, así como con las diversas personas e instituciones para establecer diversas acciones de coordinación, a efecto de cumplir con los fines del IMPLAN;
+Se entenderá por valor catastral, el que determine la Dirección de Catastro de conformidad con los procedimientos establecidos por la presente ley y su reglamento.
 
-III. Promover el fortalecimiento de las relaciones del IMPLAN con los demás organismos, dependencias gubernamentales e instituciones relacionadas con el Sistema Integral de Planeación, con el fin de intercambiar experiencias y conocimientos y procurar la cooperación interinstitucional;
+###### ARTICULO 40.
 
-IV. Presentar a la Junta de Gobierno, antes del 30 de septiembre de cada año, el proyecto de presupuesto anual para el IMPLAN, con la finalidad de que ésta lo conozca, lo analice y en su caso lo apruebe;
+La Dirección de Catastro podrá actualizar el valor catastral de los predios ubicados en el territorio del Estado, en los siguientes casos:
 
-V. Presentar a la Junta de Gobierno, antes del 30 de noviembre de cada año, el Programa Anual de trabajo del IMPLAN, con el objeto de que ésta lo conozca, lo analice y en su caso lo apruebe;
+I. Cuando en el predio se hagan mejoras, modificaciones o construcciones diferente a las ya existentes;
 
-VI. Una vez aprobado el presupuesto del IMPLAN por la Junta de Gobierno, turnarlo a la Secretaría de Finanzas Públicas del Municipio de Aguascalientes a más tardar el 10 de octubre de cada año, para que esa Dependencia lo haga llegar al Ayuntamiento para su conocimiento, análisis y aprobación en su caso;
+II. Cuando la totalidad o parte del predio sea modificado en su régimen jurídico;
 
-VII. Turnar a la Secretaría del Ayuntamiento y Dirección de Gobernación, el Plan y los Programas de Desarrollo Municipal elaborados por el IMPLAN, a efecto de que ésta coordine el procedimiento jurídico para el conocimiento del Ayuntamiento y en su caso su aprobación;
+III. Cuando teniendo un avalúo provisional, fijado de conformidad a la presente Ley, se le fije técnicamente el valor catastral definitivo;
 
-VIII. Tratándose de Programas de Desarrollo Urbano Municipal elaborados por el IMPLAN, turnarlos a la Secretaría de Desarrollo Urbano del Municipio de Aguascalientes, con el objeto de que ésta coordine el procedimiento jurídico para el conocimiento del Ayuntamiento y en su caso su aprobación;
+IV. Cuando se fusione, subdivida, o sea objeto de fraccionamiento;
 
-IX. Designar al personal que deba sustituir en sus ausencias temporales a los Directores y demás personal del IMPLAN;
+V. Cuando por ejecución de obras públicas o privadas se modifique el valor de la propiedad inmobiliaria, tanto en los predios directamente afectados como en la zona de influencia, de acuerdo al estudio realizado por la Dirección de Catastro;
 
-X. Conforme al presupuesto aprobado por el Ayuntamiento nombrar al personal que integrará al IMPLAN;
+VI. Cuando el predio sufra un cambio físico que afecte su valor, y
 
-XI. Remover de su cargo al personal del IMPLAN con apego a lo dispuesto a la normatividad laboral aplicable;
+VII. A solicitud del propietario o poseedor del predio, cumpliendo con los lineamientos establecidos en esta Ley y su Reglamento.
 
-XII. Acordar con los Directores el despacho de los asuntos a su cargo;
+La actualización a que se refiere este artículo comprenderá la totalidad del predio, es decir, tanto al terreno como a las construcciones existentes.
 
-XIII. Acordar con los Directores y demás servidores públicos del organismo, los asuntos competencia de éstos, cuando así lo considere conveniente;
+###### ARTICULO 41.
 
-XIV. Interpretar este Reglamento y resolver las dudas que se presenten por su aplicación;
+En aquellos casos en que no sea posible determinar el valor catastral de un predio mediante la aplicación de las tablas de parámetros de valores, la Dirección de Catastro, con base en los elementos de que disponga, determinará un avalúo provisional, asignando valor al terreno y a las construcciones, lo más aproximado al valor comercial vigente. Dicho valor servirá para las aplicaciones fiscales y de cualquier otra clase.
 
-XV. Realizar las demás funciones que se requieran para el mejor desempeño de las anteriores facultades y atribuciones, así como de las que se le asignen en otras leyes y reglamentos aplicables, o le encomiende expresamente la Junta de Gobierno;
+###### ARTICULO 42.
 
-XVI. Elaborar informes, cuando sean solicitados, al Honorable Ayuntamiento sobre la situación y evaluación de la planeación estratégica y las directrices del Plan de Desarrollo Municipal; y (sic)
+Se otorgará valor catastral provisional a los inmuebles:
 
-XVII. Integrar la propuesta del Programa Anual de Inversión Municipal, a partir del Programa Operativo Anual, compuesto de las propuestas emitidas por las Unidades Administrativas del Municipio;
+I. Cuando sus propietarios, poseedores u ocupantes no proporcionen los datos, informes y documentos que le soliciten los empleados catastrales debidamente autorizados para el efecto o no se permita el acceso al interior del predio para llevar a cabo las diligencias catastrales necesarias;
 
-XVIII. Presentar la propuesta final de las acciones, actividades, obras y programas al Presidente Municipal para su consideración y aprobación, a más tardar el treinta de septiembre del ejercicio presupuestal anterior a aquel en que se vayan a ejecutar dichas acciones;
+II. Cuando no se cuenten con los elementos técnicos necesarios debido a la falta de levantamiento técnico catastral de la zona o población, y
 
-XIX. Informar a la Junta de Gobierno el resultado de la evaluación del Programa Operativo Anual Municipal.
+III. Cuando por cualquier causa no se encuentre incluido el régimen jurídico del predio en las tablas de parámetros de valores.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2011)</small>
+###### ARTICULO 43.
 
-### CAPITULO V. De la Remoción de los Integrantes de algún Órgano Gobierno (sic) del lMPLAN
+En el caso de un predio no registrado o que sus modificaciones no sean registradas por causas imputables al propietario o poseedor, el valor catastral surtirá efectos desde la fecha en que debió haber efectuado el registro sin exceder de cinco años.
 
-###### ARTÍCULO 45.
+###### ARTICULO 44.
 
-Las ausencias temporales del Director General del IMPLAN, serán suplidas por el Director de Planeación y en su ausencia por cualquiera de los Directores en funciones, quienes fungirán como encargados de despacho por el tiempo que dure la ausencia y tendrán las facultades y obligaciones inherentes a aquel.
+El valor catastral será definitivo cuando se efectué el avalúo de los predios por la Dirección de Catastro o perito autorizado en los términos de esta Ley, y el propietario no interponga el recurso correspondiente dentro del plazo que al efecto concede el artículo 83 de este mismo ordenamiento.
 
-###### ARTÍCULO 46.
+### CAPITULO VI. DE LAS TABLAS DE PARAMETROS DE VALORES
 
-Para ser designado Director General se deberá cumplir con los siguientes requisitos:
+###### ARTICULO 45.
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles;
+La propuesta de tablas de parámetros de valores, será formulada por la Dirección de Catastro, tomando en consideración los siguientes criterios:
 
-II. Tener cuando menos treinta años de edad el día de su nombramiento;
+I. El cambio de valores en el mercado inmobiliario, con base en los estudios realizados por la Dirección de Catastro;
 
-III. Contar con un título a nivel de licenciatura en áreas afines a la planeación y acreditar tener conocimientos generales, así como experiencia laboral de cinco años por lo menos en materia de planeación, del marco normativo federal, estatal y municipal, en materia de planeación urbana, social y económica;
+II. En los casos de creación de fraccionamientos u otros asentamientos humanos, se determinará comparativamente con otro u otros de características similares, y
 
-IV. Haber observado una conducta de reconocida probidad y no haber sido sentenciado por delito doloso; y
+III. La ejecución de obras públicas o privadas que provocan en consecuencia, un aumento o disminución en el valor de los inmuebles, de acuerdo al estudio técnico realizado por la Dirección de Catastro en la zona de influencia de las obras de referencia.
 
-V. Tener una residencia efectiva en el Estado de Aguascalientes de por lo menos cinco años al momento de la designación.
+En todos los casos se tomarán en consideración los factores siguientes:
 
-###### ARTÍCULO 47.
+a). Los valores de terreno fijados por el propietario o fraccionadores en operaciones de compraventas, así como la rentabilidad en la zona de que se trate;
 
-El incumplimiento a las obligaciones que le impone el Reglamento, así como el artículo (sic) del presente Reglamento Interior a los integrantes de la Junta de Gobierno, deberá ser evaluado por el Ayuntamiento, quien deberá determinar las acciones y/o sanciones correspondientes.
+b). Tipo y calidad de los servicios públicos;
 
-###### ARTÍCULO 48.
+c). Clasificación del fraccionamiento, según el Código Urbano para el Estado de Querétaro;
 
-El incumplimiento a las obligaciones que le impone el Reglamento, así como el artículo del presente Reglamento Interior a los miembros del Consejo Consultivo, deberá ser evaluado por la Junta de Gobierno a efecto de determinar las acciones a seguir, las cuales podrán ser desde una llamada de atención hasta la remoción del cargo por parte de la Junta de Gobierno, quien necesariamente deberá contar con el aval de las dos terceras partes de sus integrantes.
+d). Ubicación del fraccionamiento o asentamiento humano;
 
-Para que proceda la remoción de un miembro del Consejo Consultivo, necesariamente éste debió haber incurrido en reincidencia al incumplimiento de sus obligaciones.
+e). Características de asentamientos cercanos;
 
-###### ARTÍCULO 49.
+f). La influencia de la oferta y la demanda;
 
-La inasistencia a tres sesiones consecutivas del Consejo Consultivo por parte de alguno de sus miembros, ya sea propietario o suplente, sin existir causa justificada, será causa para que la Junta de Gobierno determine la remoción de esa persona, aunque se trate de la primera ocasión.
+g). La influencia de vías de comunicación, mercados, parques, jardines, orientación, amplitud y longitud de la vía pública;
 
-###### ARTÍCULO 50.
+h). Tipo y calidad de las construcciones, de acuerdo a las características de los materiales utilizados, los sistemas constructivos usados y dimensión de construcción;
 
-El Consejo Consultivo estará facultado para evaluar el desempeño del Director General, respecto de las obligaciones que tiene conforme al Reglamento y al presente Reglamento Interior. Una vez nombrado y en caso de que el Consejo Consultivo considere que el Director General no está cumpliendo con las obligaciones que le imponen los citados ordenamientos, deberá emitir un dictamen debidamente sustentado solicitando a la Junta de Gobierno analice el desempeño de ese servidor público. Esa solicitud necesariamente tendrá que ser avalada por las dos terceras partes de los miembros del Consejo Consultivo, ya que de no ser así no se considerará procedente.
+i). Las políticas de ordenamiento del territorio que sean aplicables, y
 
-###### ARTÍCULO 51.
+j). Los elementos físicos, sociales, económicos, históricos o cualquier otro que influya en el valor de los predios.
 
-Recibido el dictamen a que se refiere el artículo anterior, la Junta de Gobierno será la única facultada para proceder a analizar esa documentación, así como el desempeño del Director General del IMPLAN, a efecto de determinar si existen causas suficientes para solicitar al Ayuntamiento su remoción.
+Las tablas de parámetros de valores contendrán los valores unitarios de suelo y construcción, los valores de zona, valores de calle, valores unitarios por unidad de tipo de construcción, los incrementos por esquina en las zonas que al efecto se establezcan y los deméritos para construcción.
 
-###### ARTÍCULO 52.
+###### ARTICULO 46.
 
-Una vez cumplidos los requisitos de procedibilidad para la solicitud de remoción del Director General mencionados en este Reglamento Interior, y en caso de considerarse procedente la solicitud del Consejo Consultivo, la Junta de Gobierno turnará la documentación al Ayuntamiento para que determine lo conducente.
+La actualización de la zonificación catastral y valores unitarios, surtirán efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
 
-###### ARTÍCULO 53.
+###### ARTICULO 47.
 
-Siempre y cuando se hayan cumplido las formalidades anteriores, el Ayuntamiento procederá a dictar una resolución, a través de la cual se determine o no la remoción del Director General del IMPLAN. Para que proceda esa remoción se necesita el acuerdo de las dos terceras partes de los miembros del H. Cabildo de Aguascalientes.
+Para la determinación de los valores de calle serán tomados en consideración, además de los criterios referidos en el artículo 45 de esta Ley, la ubicación general y localización de los predios, las zonas en que estén situados: habitacional, comercial o industrial; así como las vías de comunicación de las diversas calles que cada zona comprenda, relacionando los metros de frente, de fondo y de esquina, según su posición en relación a la manzana.
 
-###### ARTÍCULO 54.
+Para determinar el valor de zona, además de lo dispuesto en el artículo 45 de la presente Ley se tomará en consideración los valores de calle más cercanos, los servicios más próximos y las vías de comunicación.
 
-Durante el desarrollo de los procedimientos a que se refiere el presente Reglamento Interior, no deberá intervenir el Director General del IMPLAN.
+Los parámetros de valores unitarios por unidad tipo de construcción se determinarán atendiendo a la clase de edificación, uso de la misma, calidad de los elementos constructivos, valor de reposición nuevo y productividad media de cada tipo.
 
-## TITULO TERCERO. DE LAS AREAS OPERATIVAS
+Los incrementos por esquina se determinarán atendiendo a la zona de ubicación del inmueble con relación a las zonas por catastrarse y se aplicarán por la Dirección de Catastro a los predios urbanos ubicados en esquina.
 
-###### ARTÍCULO 55.
+Los deméritos para construcción se determinarán atendiendo al estado de conservación de las construcciones en general.
 
-El Reglamento en su artículo 24 dispone que para su adecuada operación y funcionamiento el Instituto a través de su Dirección General contará con las Direcciones y Subdirecciones que se determinen en el presente Reglamento Interior, para lo cual habrá tres Direcciones, una Subdirección Administrativa, una Subdirección Jurídica y diez Subdirecciones Operativas, siendo las siguientes:
+###### ARTICULO 48.
 
-A) Dirección de Administración y Finanzas.
+La base para la determinación de los valores unitarios de suelo y construcción en los predios urbanos será el metro cuadrado; para los predios rústicos, su valor se determinará por hectárea en lo que a terreno respecta y por metro cuadrado en las construcciones existentes.
 
-I. Subdirección Administrativa;
+###### ARTICULO 49.
 
-II. Subdirección Jurídica;
+La valuación catastral se hará separadamente para el terreno y para la construcción, y será practicada por personal autorizado por la Dirección de Catastro. Para determinar el valor catastral de cada uno de los inmuebles, se aplicarán las tablas de parámetros de valores aprobadas en los términos de esta Ley.
 
-III. Subdirección de Programación y Presupuesto;
+Tratándose de predios que aunque conforme a lo dispuesto por la fracción I del artículo 6 de esta Ley pudieran clasificarse como urbanos, pero se encuentren ubicados en lugares en los que no hay calle, para la determinación de su valor, se tomarán en consideración las tablas de parámetros de valores aprobados para la calle más cercana, así como los servicios más próximos y las vías de comunicación.
 
-IV. Subdirección de Seguimiento y Evaluación.
+###### ARTICULO 50.
 
-B) Dirección de Planeación.
+Para la valuación de cada terreno, deberá multiplicarse el valor unitario del suelo aplicable a la ubicación del predio, por la superficie de terreno determinada mediante el levantamiento del trazo del predio y constatada con los datos de la manifestación del contribuyente si la hubiere.
 
-I. Subdirección de Información;
+###### ARTICULO 51.
 
-II. Subdirección de Proyectos Especiales;
+Por predios urbanos regulares en superficie se entenderá a aquellos en que concurran las siguientes características:
 
-III. Subdirección de Desarrollo Urbano;
+I. Que tengan un fondo que con relación al frente, no sea superior a tres tantos;
 
-IV. Subdirección de Desarrollo Económico;
+II. Que tengan una forma poligonal tal que sus lados incidan con la línea del frente en ángulos no menores a 70º, ni mayores a 110º, y
 
-V. Subdirección de Desarrollo Social;
+III. Que en el frente o los lados no se presenten entrantes o salientes superiores a un 10 % con relación al frente.
 
-VI. Subdirección de Desarrollo Sustentable.
+###### ARTICULO 52.
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
+Tratándose de predios urbanos, los valores de terreno asignados en las tablas de parámetros de valores, se aplicarán íntegramente sólo a los predios regulares; los predios en los que falte cualquiera de las características enumeradas en el artículo anterior, podrán ser considerados por la Dirección de Catastro, y siempre a petición de la parte interesada, como irregulares y al efectuarse el avalúo individual de los mismos se aplicará al valor unitario un factor de demérito por irregularidad, determinado conforme a las normas técnicas aprobadas en los términos de esta Ley. El "demérito por irregularidad", sólo beneficiará a:
 
-C) Dirección de Información.
+I. La parte de terreno que exceda a la proporción de uno a tres entre el frente y el fondo;
 
-l. Subdirección de Cartografía.
+II. Las partes de terreno comprendidas dentro de las entrantes o salientes del predio si dentro de éste pudiera quedar comprendido uno regular; en caso contrario, beneficiará a la superficie total, y
 
-II. Subdirección de Estadística.
+III. Al exceso de la superficie en los predios con superficies notablemente superiores a las de la zona, de acuerdo con las determinaciones de la Dirección de Catastro en cada caso particular.
 
-III. Subdirección de Informática.
+###### ARTICULO 53.
 
-###### ARTÍCULO 56.
+Cuando un predio urbano tenga frente a dos o más calles, pero sin formar esquina, se aplicará hasta la extensión correspondiente a un predio regular, el valor asignado para cada calle, principiando por la que tenga mayor valor. Si calculados los predios regulares quedase algún excedente en el centro, se aplicará a éste el valor mínimo, según los diversos frentes.
 
-Los Directores deberán llenar los requisitos que se señalan para el Director General, salvo para el Director de Administración y Finanzas.
+###### ARTICULO 54.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2011)</small>
+Los valores que se aplicarán por hectárea en los predios rústicos, se determinarán conforme a las calidades y clasificaciones de las tierras, teniendo presentes los factores que pueden influir para el incremento o decremento del valor de las tierras, tales como: accesibilidad, cercanía a zonas urbanas, profundidad del suelo, uso del suelo, capacidad agrológica, erosión, pedregosidad, topografía, textura, extensión del terreno y régimen de tenencia.
 
-### CAPITULO I. Disposiciones Generales
+###### ARTICULO 55.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2011)</small>
+En los casos de creación de nuevos fraccionamientos la Dirección de Catastro formulará un avalúo provisional inmediatamente después que sea publicada en el Periódico Oficial del Gobierno del Estado de Querétaro, la autorización para la venta de lotes, conforme a lo siguiente:
 
-###### ARTÍCULO 57.
+I. El valor unitario por metro cuadrado se obtendrá considerando las condiciones físicas en que se encuentre el terreno y se aplicará a la superficie vendible en el momento de la autorización, aún cuando no constituya una sola unidad topográfica;
 
-Cualquiera de los tres Directores, tendrán las siguientes facultades y obligaciones:
+II. El valor así determinado, surtirá sus efectos a partir del siguiente bimestre a aquél en que sea notificado el avalúo provisional al propietario o poseedor del fraccionamiento y tendrá vigencia por el ejercicio fiscal que le corresponda. Dicho valor se actualizará en los términos de esta Ley;
 
-I. Acordar con el Director General el despacho de los asuntos encargados a sus áreas;
+III. Las áreas reservadas como donación formarán parte del predio para efectos del avalúo, hasta en tanto no sea formalizada la misma mediante escritura pública, y
 
-II. Presentar al Director General para su aprobación, instrucciones o conocimiento lo que corresponda a su área, observando en lo conducente las atribuciones que le otorgan el Reglamento y el Reglamento Interior del IMPLAN;
+IV. Cuando se realice edificación en los lotes cuya propiedad o posesión vaya a ser trasmitida a particulares, al valor determinado conforme a los incisos anteriores, se sumará el valor de las edificaciones terminadas o en proceso.
 
-III. Planear, programar, organizar, dirigir, controlar y evaluar las actividades encomendadas a sus áreas, de tal manera que todas y cada una de las acciones realizadas, tengan continuidad y sustento cuantificable y calificable programática y presupuestalmente;
+###### ARTICULO 56.
 
-IV. Brindar el apoyo necesario a la Dirección de Información para integrar sus sistemas y consulta de todas las áreas;
+Cuando se constituya régimen de propiedad en condominio, se formularán avalúos provisionales de todas las unidades privativas que lo formen, siendo aplicables las siguientes reglas:
 
-V. Elaborar mensualmente un informe detallado de las actividades de su área;
+I. Durante el ejercicio fiscal en que se constituya el régimen de propiedad en condominio, el valor catastral provisional de las unidades privativas se obtendrá considerando las condiciones físicas del inmueble, surtiendo efectos a partir del siguiente bimestre en que el citado valor sea notificado al propietario o poseedor. Dicho valor se actualizará en los términos de esta ley;
 
-VI. Documentar por escrito, de manera sencilla, clara y expedita, sus instrucciones al personal subordinado;
+II. A partir del bimestre siguiente al en que se presente el aviso de terminación de obra o esta fisicamente se haya conluido (sic), el avalúo catastral de las unidades privativas se actualizará en los términos de esta Ley, y
 
-VII. Asesorar en los asuntos de su competencia a las otras áreas del IMPLAN, cuando ello sea necesario. A través del Director asignado se solicitará esta asesoría a instituciones externas pudiendo delegarse la función siempre y cuando su Dirección mantenga el control;
+III. Para las unidades privativas cuya propiedad o posesión se transmita, el avalúo catastral de esa unidad privativa siempre se actualizará considerando todas las superficies y calidades de construcción que se señalen en la escritura constitutiva del condominio, su reglamento y su memoria respectiva.
 
-VIII. Cumplir y hacer cumplir las funciones que este Reglamento Interior les asigna, así como las instrucciones que, en su caso, el Director General disponga.
+### CAPITULO VII. DE LAS OBLIGACIONES Y DERECHOS
 
-###### ARTÍCULO 58.
+###### ARTICULO 57.
 
-La Dirección de Administración y Finanzas se encargará de administrar los recursos humanos, materiales y financieros del IMPLAN; mantener una organización administrativa integral, tecnificada y sistematizada en lo relativo a los aspectos precisados que coadyuve con las funciones fundamentales del IMPLAN; emitir el dictamen de procedencia o de observaciones a los expedientes técnicos de integración de las obras, acciones y programas de las dependencias y unidades administrativas, así como el seguimiento y evaluación del Programa Operativo Anual.
+Para la realización de las funciones y finalidades de la presente Ley los propietarios, poseedores, ocupantes o encargados de los predios, están obligados a proporcionar al personal de la Dirección de Catastro, debidamente acreditado, los informes y documentos que les requieran, así como a permitirles el acceso al interior de los predios para la práctica de mediciones y levantamiento de planos o trazos, para el correcto empadronamiento, avalúo y registro de sus propiedades, aún cuando no estén sujetos al pago de contribuciones.
 
-###### ARTÍCULO 59.
+En caso de negativa de los propietarios, poseedores, ocupantes o encargados del predio para proporcionar los informes, documentos o permitir el acceso al predio, esto no será motivo para la suspensión o diferimiento de los trabajos catastrales, teniendo la Dirección de Catastro, la facultad de elaborar el avalúo provisional con los datos que cuente o que se presuman, conforme a lo dispuesto por la fracción I del artículo 43 de esta Ley.
 
-El Director de Administración y Finanzas tendrá las siguientes obligaciones:
+###### ARTICULO 58.
 
-I. Elaborar el proyecto de presupuesto anual de egresos del IMPLAN, para someterlo a consideración del Director General a más tardar el día 10 de Septiembre de cada año y, una vez autorizado el presupuesto llevar el control del ejercicio del mismo;
+Todo propietario o poseedor de bienes inmuebles urbanos o rústicos ubicados en el territorio del Estado de Querétaro, tienen la obligación de inscribirlos en el mismo, por lo que deberán manifestarlos a la Dirección de Catastro, declarando para ello la superficie en metros cuadrados de terreno y el número de metros cuadrados de construcción, proporcionando los datos y documentación que se especifiquen en las formas de declaración que al efecto apruebe la misma Dirección.
 
-II. Elaborar el informe mensual y anual del ejercicio del presupuesto autorizado por la Junta de Gobierno del IMPLAN y por el Honorable Ayuntamiento;
+###### ARTICULO 59.
 
-III. Apoyar a la Dirección General en la coordinación de las distintas áreas para el cumplimiento de sus objetivos, sistematizando la comunicación con las mismas, para disponer de manera permanente de la información sobre el estado que guardan los asuntos inherentes al instituto, proveer, requerir información y asesoría a las instituciones con las que el IMPLAN mantiene relación;
+Para el cumplimiento de la obligación a que se refiere el artículo anterior se tomarán en consideración los siguientes plazos:
 
-IV. Acordar los términos del Plan Anual de Trabajo del IMPLAN e informar sobre el avance y cumplimiento del mismo, así como los mecanismos de coordinación de actividades de las áreas;
+I. Dentro del término de seis meses a partir de la fecha en que entre en vigor la presente Ley, en el entendido de que este término se computará sólo para quienes no lo hayan manifestado con anterioridad ante la autoridad competente, y
 
-V. Seguimiento a los compromisos institucionales;
+II. Dentro del mes siguiente a la fecha de adquisición, adiciones o mejoras de cualquier clase que se haga a los elementos que caracterizan el bien inmueble tales como: nuevas construcciones, modificaciones, ampliaciones, reconstrucciones, adaptaciones, o demoliciones de construcciones ya existentes. Así como fusiones, subdivisiones, fraccionamiento del predio o cambio en el régimen de propiedad.
 
-VI. Definir propuestas de programas de trabajo;
+###### ARTICULO 60.
 
-VII. Apoyar la preparación de agendas de reunión y la formulación de informes de gestión así como la instrumentación y cumplimiento de los acuerdos tomados;
+Para los efectos de la presente Ley, se tendrá como domicilio del propietario o poseedor de un bien inmueble:
 
-VIII. Lograr un ambiente organizacional que permita a los integrantes del IMPLAN desarrollar correcta y eficazmente sus funciones;
+I. El que corresponda a la ubicación del predio catastrado, o
 
-IX. Promover el desarrollo profesional y humano del personal del IMPLAN;
+II. El que hubiere señalado para oír y recibir notificaciones.
 
-X. Realizar, previo acuerdo con el Director General, las incidencias del personal, tales como: altas, bajas, incapacidades, permisos, etc;
+###### ARTICULO 61.
 
-XI. Previo acuerdo con el Director General gestionar, preparar, cumplimentar o realizar las contrataciones relativas a la adquisición, suministro y aseguramiento de los bienes y de la prestación de servicios necesarios en el cumplimiento de las funciones del IMPLAN, lo que verificará con la oportunidad requerida en funciones a las necesidades que se presenten y a la disponibilidad de recursos económicos;
+Los notarios, funcionarios dotados de fe pública, instituciones o cualquier organismo que intervengan en el otorgamiento de actos que modifiquen el régimen jurídico o trasmitan el dominio de un bien inmueble, deberán remitir a la Dirección de Catastro, dentro de los quince días hábiles siguientes a la autorización definitiva del acto, un ejemplar de la declaración o aviso que en los términos de la Ley General de Hacienda de los Municipios tienen obligación de formular ante la Tesorería Municipal.
 
-XII. Turnar al Comité de Adquisiciones del Municipio de Aguascalientes, las adquisiciones que conforme al Código Municipal de Aguascalientes, son competencia de ese organismo;
+###### ARTICULO 62.
 
-XIII. Acordar con el Director General los programas de capacitación a impartir al personal del IMPLAN;
+Las personas físicas o morales que obtengan de las autoridades correspondientes, autorización de fraccionar un inmueble, deberán presentar el plano definitivo a la Dirección de Catastro, dentro de los quince días hábiles siguientes a la publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, de la autorización provisional para la venta de lotes, para el efecto de que se asignen las claves catastrales a cada lote o unidad.
 
-XIV. Coordinar y facilitar las acciones que realice la Contraloría Municipal, para cumplir con las obligaciones que le impone el Código Municipal de Aguascalientes;
+Además deberán comunicar por escrito a la Dirección de Catastro, la fecha de terminación de las obras de urbanización del fraccionamiento o edificación del condominio de que se trate, dentro de los quince días hábiles siguientes a aquel en que se hubiesen terminado dichas obras.
 
-XV. Preparar Informes Generales de la Gestión Institucional;
+###### ARTICULO 63.
 
-XVI. Verificar avances reportados por prestadores de servicios profesionales;
+Dentro del plazo de veinte días hábiles, contados a partir de la recepción de la documentación a que hace referencia el artículo que antecede, la Dirección de Catastro, deberá señalar la clave y valor catastral que corresponda a cada uno de los lotes o unidad del fraccionamiento o a cada unidad privativa del condominio y entregará al interesado relación y copia del plano aprobado con el señalamiento referido, previo pago de los derechos correspondientes.
 
-XVII. Verificar la integración de los expedientes de los Proyectos del IMPLAN;
+En caso de incumplimiento a lo dispuesto en el artículo anterior la Dirección de Catastro se abstendrá de llevar a cabo las operaciones catastrales que les sean solicitadas por los interesados respecto de los inmuebles afectados.
 
-XVIII. Apoyar en la elaboración de los Programas Operativos del IMPLAN;
+###### ARTICULO 64.
 
-XIX. En la preparación de reportes e informes que requiera el Presidente Municipal;
+Los propietarios de fraccionamientos, o condominios o sus representantes legales, deberán comunicar por escrito a la Dirección de Catastro cualquier modificación que se autorice a los planos aprobados con anterioridad. Esta comunicación se hará dentro de los 15 días hábiles siguientes al hecho, debiéndose acompañar al escrito un ejemplar de los planos en que aparezcan señaladas las modificaciones de acuerdo a las normas respectivas a fin de proceder a la actualización de los padrones.
 
-XX. Atender las visitas de representantes de otros Ayuntamientos y Organizaciones;
+###### ARTICULO 65.
 
-XXI. Formular presentaciones de los trabajos del IMPLAN;
+Las personas físicas o morales que se dediquen, sea por su objeto social o por su actividad preponderante, a la realización de operaciones traslativas de dominio de inmuebles, tienen obligación de presentar mediante oficio dirigido a la Dirección de Catastro, dentro de los veinte primeros días de cada mes, copia con sello de recibido, de la información presentada a la Tesorería Municipal correspondiente, en relación a los actos y contratos que hayan celebrado en el mes inmediato anterior. Como consecuencia de dicho aviso se empadronará a nombre del adquirente el inmueble correspondiente.
 
-XXII. Atender las Sesiones del Comité de Adquisiciones;
+###### ARTICULO 66.
 
-XXIII. Coordinar la preparación de Presupuestos y Proyectos Específicos;
+La Dirección de Catastro no podrá empadronar ni llevar a cabo ningún trámite relacionado con los predios objeto de cualquier acto jurídico cuando aquellos no coincidan en su extensión total, superficie, medidas o colindancias, con los registros catastrales existentes, en su caso.
 
-XXIV. Emitir la aprobación y validación de los expedientes técnicos de las acciones, obras y programas derivados del Plan de Desarrollo Municipal;
+En el supuesto del párrafo anterior, la Dirección de Catastro deberá notificar a los interesados dentro del término de veinte días hábiles siguientes a la solicitud del trámite respectivo, a efecto de que se realicen las modificaciones o aclaraciones necesarias, para que la Dirección de Catastro esté en posibilidad de cumplir eficazmente con sus funciones.
 
-XXV. Emitir el visto bueno para verificar la disponibilidad presupuestal y la validación programática de los expedientes técnicos de las obras y programas sociales, financiados total o parcialmente con recursos federales del Ramo 20 Desarrollo Social, y todos aquellos indicados en los Presupuestos de Egresos de la Federación;
+###### ARTICULO 67.
 
-XXVI. Evaluar el Programa Anual de Obra Pública y Programas Sociales de manera mensual;
+Las autoridades ante quienes se realice cualquier trámite por el cual se modifique un bien inmueble en su superficie, medidas, colindancias, construcción, valor o uso, deberán hacerlo del conocimiento de la Dirección de Catastro dentro de los quince días hábiles siguientes a la conclusión del trámite respectivo.
 
-XXVII. Integrar el programa de supervisión, seguimiento y evaluación de la Inversión Pública del Gobierno Municipal de Aguascalientes.
+###### ARTICULO 68.
 
-###### ARTÍCULO 60.
+Las manifestaciones y avisos que deben ser presentados en los términos de la presente Ley y su Reglamento, deberán hacerse en las formas que apruebe la Dirección de Catastro y acompañar los documentos o planos que se exigen en las mismas; en caso contrario, la Dirección de Catastro otorgará un plazo de diez días hábiles, contados a partir de la fecha en que los interesados reciban el requerimiento, para que se corrija la omisión.
 
-Compete a la Dirección de Administración y Finanzas, las demás actividades que le sean encomendadas por el Director General y las demás disposiciones legales aplicables.
+Si transcurrido dicho plazo no se corrige la omisión, la citada Dirección tendrá por no presentadas las manifestaciones o avisos, con excepción de los supuestos previstos por los artículos 61 y 65 de esta Ley, sin perjuicio de que se impongan al infractor las sanciones que procedan.
 
-###### ARTÍCULO 61.
+###### ARTICULO 69.
 
-El Subdirector Administrativo tendrá las siguientes obligaciones:
+Los propietarios o poseedores de predios tendrán, los siguientes derechos:
 
-I. Elaborar propuesta para el proyecto de Presupuesto Anual de Egresos del IMPLAN, para someterlo a consideración del Director de Administración y Finanzas dentro de los primeros cinco días del mes de Septiembre de cada año;
+I. Que se haga de su conocimiento los resultados de los avalúos realizados en el predio, en los términos de esta Ley;
 
-II. Mantener al día el estado financiero del IMPLAN con las pólizas, comprobantes, registros, asientos contables, chequeras y demás requisitos de control y/o verificación de gasto;
+II. Aportar los elementos de prueba que estimen pertinentes cuando se manifiesten inconformes con los resultados del avalúo catastral;
 
-III. Tramitar, previo acuerdo que al efecto emita el Director del Área, las altas, bajas, movimientos de personal y suspensiones de las relaciones laborales de los servidores públicos del IMPLAN, tanto para efectos de control interno, así como ante los organismos de seguridad social, verificando la plena aplicación de dichas resoluciones en el área de su competencia;
+III. Que se expida, a su costa, documentos catastrales certificados;
 
-IV. Integrar y mantener actualizados los expedientes de los servidores públicos del IMPLAN; incorporando en los mismos, la documentación de identidad respectiva, el nombramiento otorgado, las constancias de movimiento de personal que se tramiten y autoricen por el Director del Área y el Director General, el alta a las instituciones de seguridad social, y todo documento o constancia relativa al servidor público, así como la correspondiente a las sanciones administrativas que se decreten;
+IV. Consultar los planos catastrales correspondientes;
 
-V. Efectuar los descuentos salariales que legalmente procedan;
+V. Interponer los recursos previstos en esta Ley, y
 
-VI. Controlar mediante sistemas y procedimientos acordes, los movimientos que origine el personal, tales como promociones, vacaciones, licencias, permisos, cambios de adscripción, ausentismo, puntualidad y demás que se presenten;
+VI. Los demás que establezca esta Ley y su Reglamento.
 
-VII. Coordinar e implementar la dotación de documentos de identificación para el personal del IMPLAN;
+### CAPITULO VIII. DE LOS REGISTROS CATASTRALES
 
-VIII. En coordinación con las direcciones del IMPLAN elaborar los diagnósticos y evaluaciones sobre los requerimientos de capacitación y adiestramiento del personal, diseñando y proponiendo en su caso, los programas y cursos de capacitación y adiestramiento para satisfacer los requerimientos de conocimiento y habilidades para el mejor desempeño de las labores del IMPLAN;
+###### ARTICULO 70.
 
-IX. Elaborar y someter a la autorización correspondiente, los programas de adquisiciones de bienes y servicios del IMPLAN con base en los requerimientos de las diversas instancias que lo conforman y en apego a la partida presupuestal respectiva, al efecto, llevará estadísticas de consumo para la elaboración de programas de adquisición;
+La Dirección de Catastro llevará registros catastrales de una forma gráfica y alfanumérica, pudiendo auxiliarse para el efecto, de los medios informáticos adecuados, anotándose los datos relativos a cada uno de los predios.
 
-X. Controlar y despachar las requisiciones de material, mobiliario y equipo necesario para la buena marcha del IMPLAN;
+###### ARTICULO 71.
 
-XI. Efectuar las indagaciones necesarias, recabar los presupuestos correspondientes y participar en su caso en las comisiones de adquisiciones que se implementen, proveyendo la información alternativa que posibilite las decisiones más convenientes en costo, calidad y servicio;
+Todo predio valuado conforme a las disposiciones de la presente Ley se inscribirá en los registros catastrales, ya sea de tipo gráfico, alfanumérico o ambos, entendiéndose por Registro Gráfico al Conjunto de planos catastrales y por Registro Alfanumérico el Padrón de predios catalogados con base en la clave catastral de los mismos.
 
-XII. Elaborar los programas de mantenimiento preventivo del mobiliario, equipamiento y parque vehicular del IMPLAN para determinar sus costos y correspondiente presupuestación, así como gestionar el acuerdo correspondiente para despachar los requerimientos indispensables para la adecuada conservación y mantenimiento de los bienes aludidos;
+###### ARTICULO 72.
 
-XIII. Promover entre el personal y usuarios de los servicios del IMPLAN a las acciones preventivas y la mejor utilización de las instalaciones, mobiliario y equipamiento del Instituto para la mejor conservación de los mismos;
+Los registros catastrales contendrán los siguientes datos:
 
-XIV. Coordinar los servicios de seguridad y vigilancia de las instalaciones del IMPLAN;
+I. El número de clave catastral del predio;
 
-XV. Mantener en óptimas condiciones de aseo las instalaciones del IMPLAN, a través del servicio de intendencia; cuyo personal deberá presentarse en el lugar de su adscripción una hora antes de actividades para el inicio general de tales labores;
+II. Ubicación del predio: Municipio, localidad, colonia, calle y número, en la zona urbana; en la rústica, los datos que sean necesarios;
 
-XVI. Controlar la apertura y cierre cotidiano de las oficinas del IMPLAN;
+III. El nombre del predio, si lo tuviere;
 
-XVII. Coordinar la correcta utilización y mantenimiento de los vehículos del IMPLAN, supervisando su uso moderado y adecuado, así como la conservación de la función oficial;
+IV. El nombre del propietario o poseedor del predio;
 
-XVIII. Clasificar, agrupar, inventariar y controlar las existencias de almacén respecto al material consumible de acuerdo con una lógica de ordenación clara y concisa;
+V. La clasificación del predio;
 
-XIX. Conservar actualizado un inventario de los bienes, enseres y equipo que integran el patrimonio del IMPLAN, así como el relativo a los bienes no propios, más que se encuentren en posesión de la Institución en virtud de asignación, comodato, arrendamiento o cualquier acto jurídico;
+VI. La superficie de terreno y construcción si la hubiere;
 
-XX. Controlar los mismos a través de la identificación, codificación, registro y resguardo respectivos;
+VII. El valor catastral del predio, expresando separadamente, el del terreno y el de la construcción, si la hubiere, y en su caso, el tipo de construcción a que corresponda; y
 
-XXI. Verificar que se mantengan vigentes y en óptimas condiciones de aseguramiento y protección, los contratos de seguro de los bienes patrimoniales del IMPLAN considerados prioritarios, de mayor valor o que presenten el mayor índice de siniestros, procesando y manteniendo actualizada la información correspondiente;
+VIII.- Las observaciones que se estimen convenientes por parte de la Dirección de Catastro.
 
-XXII. Conservar los resguardos suscritos por los usuarios de los bienes patrimoniales del IMPLAN, para garantizar su custodia, y en su caso reclamar la responsabilidad;
+###### ARTICULO 73.
 
-XXIII. Evaluar y en su caso, tramitar la baja de bienes patrimoniales cuyo ciclo de utilización o sus condiciones no sean funcionales;
+En caso de traslación de dominio de la totalidad de un predio, se anotará en los registros catastrales el nombre del nuevo propietario, haciendo referencia al título de propiedad correspondiente.
 
-XXIV. Facilitar las acciones que realice la Contraloría Municipal;
+Si la traslación sólo es sobre una fracción del predio, adicionalmente se harán las anotaciones correspondientes a los predios que resulten, previa verificación de los datos de superficie y fijación de los valores.
 
-XXV. Atender las recomendaciones que formule la Comisión Mixta de Seguridad e Higiene; y
+### CAPITULO IX. DE LOS PERITOS VALUADORES
 
-XXVI. Realizar todas aquellas funciones que le encomiende el Director de Administración y Finanzas inherentes a la administración de los recursos humanos, materiales y económicos.
+###### ARTICULO 74.
 
-###### ARTÍCULO 62.
+Para los efectos de la presente Ley tendrán el carácter de peritos valuadores aquellos profesionistas ingenieros o arquitectos afines al ramo de la construcción, que cuenten con el nombramiento expedido por el Ejecutivo del Estado de acuerdo con los ordenamientos legales aplicables y sean los encargados de determinar el valor comercial de los bienes inmuebles y emitir el avalúo correspondiente para efectos fiscales, el cual deberá contener el estudio técnico necesario para la determinación del valor y será formulado en las formas autorizadas por la Dirección de Catastro.
 
-La Subdirección Jurídica se encargará de:
+###### ARTICULO 75.
 
-I. Dar el debido sustento jurídico a las actividades desarrolladas por el IMPLAN, así como auxiliar en el fomento en las relaciones contractuales que lleve a cabo el Instituto;
+La Dirección de Catastro contará con un registro de peritos valuadores, que formará con base en la relación que le envíe la Secretaría General de Gobierno, respecto de todo nombramiento que esta expida.
 
-II. Elaborar y revisar la vigencia de los Contratos;
+###### ARTICULO 76.
 
-III. Apoyo legal a las diversas áreas del Instituto;
+La Dirección de Catastro será la encargada de vigilar el buen desempeño de las actividades de los peritos valuadores en materia inmobiliaria, haciendo del conocimiento del organismo encargado de aplicar las sanciones a los peritos valuadores en los términos de la legislación de la materia, las irregularidades de que tenga conocimiento.
 
-IV. Informar labores y pendientes a la Dirección General;
+###### ARTICULO 77.
 
-V. Elaborar Oficios diversos;
+La Dirección de Catastro deberá publicar en el mes de enero de cada año en el Periódico Oficial del Estado el directorio de los peritos inscritos en su registro, proporcionando los datos necesarios para su identificación. Igualmente dispondrá la publicación correspondiente cuando exista la expedición de nuevos registros o la cancelación de los mismos, dentro de los quince días hábiles siguientes.
 
-VI. En la elaboración de Convenios y/o Contratos;
+###### ARTICULO 78.
 
-VII. Organizar, convocar y asesorar en el seguimiento de las Sesiones Ordinarias y Extraordinarias de la Junta de Gobierno, así como del Consejo Consultivo del IMPLAN;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO, P.O. 17 DE MARZO DE 2017)
 
-VIII. Elaborar Actas, Minutas y/o comunicados de las Sesiones de Junta de Gobierno y Consejo Consultivo del IMPLAN;
+### CAPITULO X. DE LAS INFRACCIONES Y SANCIONES
 
-IX. Contestar oficios o informes provenientes de autoridades judiciales o ministeriales;
+###### ARTICULO 79.
 
-X. Solicitar la intervención del Comité de Adquisiciones del IMPLAN, cuando el monto sea superior a los tres mil y quince mil veces el salario mínimo general vigente en el Estado, como se señala en el Título Cuarto de este Reglamento Interior;
+Las infracciones a los preceptos contenidos en la presente Ley y su Reglamento se sancionarán en los términos de este Capítulo, sin perjuicio de aplicar lo previsto por otros ordenamientos jurídicos, cuando resulte procedente.
 
-XI. Tramitar en cualquier Notaria Pública la transcripción de las Actas y/o Minutas de la Junta de Gobierno del IMPLAN;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
-XII. Elaborar las Actas de Entrega-Recepción de los Trabajadores de Confianza del IMPLAN;
+###### ARTICULO 80.
 
-XIII. Levantar Actas Administrativas por faltas al Reglamento Interior de Trabajo del IMPLAN;
+Las infracciones a la presente Ley serán sancionadas por la Secretaría de Finanzas con multa calculada con base en el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
-XIV. Atender propuestas de reformas y adiciones a los Reglamentos de IMPLAN ante la Junta de Gobierno;
+###### ARTICULO 81
 
-XV. Ser el enlace en materia de Transparencia y contestar solicitudes de información;
+. Son infracciones a la presente Ley:
 
-XVI. Coordinar con el Director General la defensa Jurídica del IMPLAN, así como desahogar los juicios promovidos en contra del Instituto;
+I. Omitir las declaraciones, manifestaciones, avisos o documentos o la aclaración de éstos, en la forma y términos establecidos por esta Ley y su Reglamento;
 
-XVII. Dar el apoyo a las áreas externas para las reformas al Código Municipal de Aguascalientes y de los Reglamentos propios del IMPLAN;
+II. Manifestar datos falsos a la Dirección de Catastro o alterar sus declaraciones, manifestaciones, avisos o documentos respecto del bien inmueble objeto de las operaciones catastrales;
 
-XVIII. Dar apoyo y asesoría a las áreas de programación y presupuesto a fin de que los proyectos por acciones, obras y programas estén ajustados a la normatividad aplicable;
+III. La negativa injustificada a exhibir o proporcionar títulos, planos, contratos, constancias o cualquier otro documento o información requerida por la Dirección de Catastro o por el personal autorizado para confirmar declaraciones, así como para conocer las características reales del inmueble;
 
-XIX. Seguimiento legal y tramitología de los programas de desarrollo urbano, conforme a los procedimientos previstos para su creación y modificación;
+IV. Impedir la ejecución de las operaciones catastrales u obstaculizarlas, y
 
-XX. Representar al IMPLAN ante toda clase de autoridades y particulares en los asuntos o litigios en que sea parte y que afecte o pueda afectar su interés jurídico; y
+V. Cualquier acción u omisión contraria a los preceptos de esta Ley, que sean distintas a las previstas en las fracciones anteriores.
 
-XXI. Formular a nombre del IMPLAN denuncias o querellas en defensa de sus intereses, así como desistirse de éstas, por acuerdo previo del Director General.
+###### ARTICULO 82.
 
-###### ARTÍCULO 63.
+A quienes incurran en alguna de las infracciones a que se refiere el artículo anterior, le serán impuestas las sanciones siguientes:
 
-La Subdirección de Programación y Presupuesto de se encargará de:
+I. De 10 a 20 días de salario mínimo vigente en el Estado, en caso de incurrir en el supuesto de las fracciones I, III, IV y V, y
 
-I. Auxiliar al Director General y al Director de Administración y Finanzas en la gestión de los Techos Financieros para la programación anual de las acciones, obras, programas ante la unidad administrativa competente en los términos del Código Municipal de Aguascalientes;
+II. De 20 a 50 días de salario mínimo vigente en el Estado, en caso de incurrir en el supuesto de la fracción II.
 
-II. Auxiliar al Director General y al Director de Administración y Finanzas en la coordinación de la programación anual Obra Pública y los Programas Sociales;
+A quienes reincidan en la infracción, se le aplicará una multa de hasta el doble de la sanción original por cada vez que reincidan en la infracción de que se trate; y el pago de las sanciones no invalida el cumplimiento de la obligación.
 
-III. Emitir el dictamen de procedencia o de observaciones a los expedientes técnicos de integración de la propuesta de acciones, obras y programas para la conformación del Programa Operativo Anual Municipal;
+Las sanciones impuestas por incumplimiento a lo dispuesto por la presente Ley tendrán el carácter de créditos fiscales a favor del Estado, por lo que su cobro coactivo podrá realizarse a través del procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado.
 
-IV. Participar en los Consejos de Desarrollo Municipal, los Consejos de Planeación y Desarrollo Municipal;
+### CAPITULO XI. DEL RECURSO DE RECONSIDERACION
 
-V. Dar seguimiento a las obras y programas derivados del Plan de Desarrollo Municipal, conforme al Programa Anual de Inversión Pública Municipal y el Programa Operativo Anual, a través de los análisis de los reportes de avance físico-financiero generados por la unidad administrativa competente en los términos del Código Municipal de Aguascalientes, en coordinación con la dependencias ejecutoras;
+###### ARTICULO 83.
 
-VI. Proporcionar a la Dirección de Planeación la información relativa a las inversiones en el Municipio en materia de infraestructura, acciones, obras y programas;
+En contra de los actos administrativos dictados por la Dirección de Catastro del Estado será procedente el Recurso de Reconsideración, el cual tendrá por objeto confirmar, modificar o revocar los actos o resoluciones de las autoridades de catastro, y podrá interponerse ante la Dirección de Catastro dentro del término de quince días hábiles contados a partir del día siguiente a aquél en que haya surtido efectos la notificación del acto que le cause agravio al particular o a partir de que éste se manifieste sabedor de dicho acto.
 
-VII. Asesorar a las dependencias y unidades administrativas ejecutoras que lo soliciten en la integración de expedientes técnicos; y
+###### ARTICULO 84.
 
-VIII. Proponer fuentes alternas de financiamiento para el desarrollo y la ejecución de proyectos, mediante el consenso con la Federación y el Gobierno del Estado para la gestión de recursos de los programas de subsidios y transferencias.
+El recurso de reconsideración podrá ser interpuesto por el particular que se considere agraviado, por escrito, y deberá contener los siguientes datos:
 
-### CAPITULO VI. De la Subdirección de Seguimiento y Evaluación
+I. Nombre del recurrente, y su domicilio en el Estado para oír y recibir notificaciones;
 
-###### ARTÍCULO 64.
+II. Señalar el acto o la resolución que se impugna acompañando copia de la misma;
 
-La Subdirección de Seguimiento y Evaluación se encargará de:
+III. Señalar los antecedentes del acto o resolución que se reclama;
 
-I. Implementar una Guía Operativa para el control, seguimiento y evaluación de la Inversión Pública Municipal;
+IV. Ubicación, colindancias, superficie y linderos del bien inmueble;
 
-II. Integrar el programa de seguimiento y evaluación de la Inversión Pública del Gobierno Municipal;
+V. Descripción de los errores o diferencias que existan en el padrón catastral o de éstas en relación con el acta circunstanciada que se pretende corregir;
 
-III. Informar al Director de Administración y Finanzas la situación y evaluación de la planeación estratégica y las directrices del Plan de Desarrollo Municipal; y (sic)
+VI. Los agravios que le cause el acto o resolución que se impugna;
 
-IV. Coordinar a las dependencias y entidades de la Administración Municipal para la elaboración de informes de seguimiento de la Inversión Pública Municipal;
+VII. Las pruebas que ofrezca;
 
-V. Realizar la evaluación semestral del Programa Anual de Trabajo del IMPLAN;
+VIII. Acreditar la personalidad del recurrente, cuando no se gestione a nombre propio; y
 
-VI. Seguimiento al Plan de Desarrollo Municipal; y
+IX. Acompañar la constancia de notificación del acto o resolución impugnada. Si la notificación fue por edictos, deberá señalar la fecha de la ultima publicación y el órgano en que ésta se hizo.
 
-VII. Dar apoyo y seguimiento a proyectos especiales del IMPLAN.
+Cuando no se cumplan los requisitos a que se refiere este artículo, la Dirección de Catastro requerirá al promovente, para que en un plazo de diez días hábiles cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+###### ARTICULO 85.
 
-VIII. Evaluar los proyectos desde la perspectiva financiera, ambiental y socioeconómica, en coordinación con las Subdirecciones de Desarrollo Social, Desarrollo Económico, Desarrollo Sustentable y de Proyectos Especiales, así como con las dependencias ejecutoras de los proyectos, la Oficina Ejecutiva y la Secretaría de Finanzas Municipales; a fin de que puedan ser considerados para su registro en la cartera de programas y proyectos de inversión municipal, lo anterior para que sean ejecutados a través de los diferentes fondos o mecanismos de inversión de que disponga o gestione el Honorable Ayuntamiento.
+Corresponde a la Dirección de Catastro resolver el recurso de reconsideración en un plazo no mayor de veinte días hábiles, contados a partir de la fecha de interposición del mismo.
 
-### CAPITULO VII. De la Dirección de Planeación
+###### ARTICULO 86.
 
-###### ARTÍCULO 65.
+La resolución que ponga fin al recurso podrá confirmar, modificar o revocar el acto impugnado.
 
-La Dirección de Planeación se encargará de:
+###### ARTICULO 87.
 
-I. Apoyar a la Dirección General en la coordinación de las distintas áreas para el cumplimiento de sus objetivos, sistematizando la comunicación con las mismas, para disponer de manera permanente de la información sobre el estado que guardan los asuntos inherentes al Instituto, proveer, requerir información y asesoría a las instituciones con las que el IMPLAN mantiene relación;
+En el recurso de reconsideración se admitirán toda clase de pruebas, excepto la confesional de las autoridades.
 
-II. Acordar los términos de los programas de trabajo e informar sobre el avance y cumplimiento de los mismos, así como los mecanismos de coordinación de actividades de las áreas;
+###### ARTICULO 88.
 
-III. Compartir las indicaciones de la Dirección General para la ejecución de proyectos; otorgar seguimientos a los compromisos institucionales; definir propuestas de programas de trabajo, coordinar la atención a requerimientos formulados por instancias externas;
+Es improcedente el recurso de reconsideración cuando se haga valer contra actos administrativos que:
 
-IV. Apoyar la preparación de agendas de reunión y la formulación de informes de gestión así como la instrumentación y cumplimiento de los acuerdos tomados;
+I. No afecten el interés jurídico del recurrente;
 
-V. Verificar la atención de asuntos pendientes en su Dirección;
+II. Se hayan consentido expresa o tácitamente, entendiéndose como tal aquellos contra los que no se promovió el recurso, en el término señalado al efecto; y
 
-VI. Dar seguimiento general a proyectos de las Subdirecciones del IMPLAN;
+III. Ya hayan sido impugnados a través del presente recurso u otro medio de defensa diferente.
 
-VII. Celebrar reuniones de trabajo con los responsables de las Subdirecciones del IMPLAN;
+IV. Sean resoluciones dictadas durante la tramitación del recurso o la ejecución del mismo.
 
-VIII. Acordar con el Director General los asuntos relevantes de la operación institucional;
+###### ARTICULO 89.
 
-IX. Celebrar reuniones con los responsables de los proyectos para verificar sus avances y evaluarlo (sic);
+En todo lo no previsto por esta Ley para el trámite y resolución del recurso de reconsideración, se aplicará lo dispuesto por el Código Fiscal del Estado de Querétaro.
 
-X. Atender las reuniones del Consejo Consultivo del IMPLAN;
+T R A N S I T O R I O S
 
-XI. Preparar Informes Generales de la Gestión Institucional;
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-XII. Verificar avances reportados por prestadores de servicios profesionales;
+SEGUNDO. Se abroga la Ley Número 3 del Catastro del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de fecha 23 de noviembre de 1961 y se derogan las disposiciones que se opongan al presente ordenamiento.
 
-XIII. Verificar la integración de los expedientes de los Proyectos del IMPLAN;
+TERCERO. Cuando en cualquier ordenamiento jurídico se aluda a las autoridades y conceptos catastrales, se entenderá que están referidos a los que con tal carácter señala y refiere la presente Ley y su Reglamento.
 
-XIV. Apoyar en la elaboración de los Programas Operativos del IMPLAN;
+CUARTO. A cualquier trámite o procedimiento que esté pendiente de concluirse y que se hubiere iniciado en la Dirección de Catastro durante la vigencia de la Ley que se abroga le serán aplicables las disposiciones de la misma.
 
-XV. En la elaboración de Informes de Gestión;
+QUINTO.- La integración de los Consejos Estatal y Municipales, se hará de manera provisional, dentro de los tres meses siguientes a la vigencia de la presente Ley, sus integrantes se asignarán definitivamente dentro del Primer Trimestre del año de 1998, pudiendo ratificarse a sus integrantes.
 
-XVI. En la preparación de reportes para informes del Presidente Municipal;
+LO TENDRA ENTENDIDO EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO Y MANDARA SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
-XVII. Atender las visitas de representantes de otros Ayuntamientos y Organizaciones;
+DADO EN EL RECINTO OFICIAL DEL PODER LEGISLATIVO A LOS VEINTIUN DIAS DEL MES DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
-XVIII. Formular presentaciones de los trabajos del IMPLAN;
+A T E N T A M E N T E
 
-XIX. Atender las Sesiones del Comité de Adquisiciones; y
+SUFRAGIO EFECTIVO. NO REELECCION
 
-XX. Coordinar la preparación de Presupuestos y Proyectos Específicos.
+DIPUTADO PRESIDENTE
 
-### CAPITULO VIII. De Ia Subdirección de Información
+LIC. MIGUEL CALZADA MERCADO
 
-###### ARTÍCULO 66.
+DIPUTADA VICEPRESIDENTA
 
-(DEROGADO, P.O. 23 DE MAYO DE 2011)
+LIC. MARTHA AURORA PEREZ SAID
 
-### CAPITULO IX. De la Subdirección de Proyectos Especiales
+DIPUTADO SECRETARIO
 
-###### ARTÍCULO 67.
+SIGIFREDO SOLTERO ALVIDREZ
 
-La Subdirección de Proyectos Especiales se encargará de:
+DIPUTADO SECRETARIO
 
-I. Desarrollar y dar seguimiento a los proyectos estratégicos generados por planes y programas de desarrollo con apego a las necesidades de los habitantes y coordinados con grupos y sectores representativos de la población;
+MIGUEL RODRIGUEZ MACIEL
 
-II. Evaluar y coordinar los proyectos estratégicos generados por los tres ordenes de gobierno;
+EN CUMPLIMIENTO POR LO DISPUESTO EN LA FRACCION PRIMERA DEL ARTICULO CINCUENTA Y SIETE DE LA CONSTITUCION POLITICA DE ESTA ENTIDAD, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO A LOS DIECIOCHO DIAS DEL MES DE MARZO DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
-III. Elaborar investigaciones y estudios para formular propuestas de proyectos específicos en colaboración con las instancias de gobierno y la participación de la sociedad;
+LIC. ENRIQUE BURGOS GARCIA.
 
-IV. Evaluar causas y efectos en la funcionalidad de las vías de comunicación, dotación de equipamiento, servicios y distribución de las actividades entre otros para definir las estrategias y políticas públicas que eleven la calidad de vida de sus habitantes en el Municipio de Aguascalientes;
+GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-V. Coordinar los trabajos entre las áreas que integran la subdirección;
+LIC. ALEJANDRO ESPINOSA MEDINA.
 
-VI. Asistir a reuniones subcomités municipales y estatales;
+SECRETARIO DE GOBIERNO.
 
-VII. Asistir a seminarios y congresos; y
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-VIII. Desarrollar lineamientos generales sobre la conceptualización de políticas públicas en los diversos (sic) materias de planeación.
+P.O. 17 DE MARZO DE 2017.
 
-### CAPITULO X. De la Subdirección de Desarrollo Urbano
+## [N. DE E. TRANSITORIOS DE LA “LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO”.]
 
-###### ARTÍCULO 68.
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-La Subdirección de Desarrollo Urbano se encargará de:
+Artículo Segundo. Se deroga el artículo 78 de la Ley de Catastro para el Estado de Querétaro.
 
-I. Desarrollar y actualizar programas de desarrollo urbano para el municipio de Aguascalientes tanto en el área urbana como en la rural, con apego a las necesidades de los habitantes y coordinados con grupos y sectores representativos de la población;
+Artículo Tercero. Se derogan todas las disposiciones legales vigentes de igual o menor jerarquía en la materia que resulten contrarias a la presente Ley.
 
-II. Evaluar los procesos de crecimiento del Municipio de Aguascalientes y asentamientos rurales;
+Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro, en uso de sus facultades, emitirá las disposiciones reglamentarias de la presente Ley.
 
-III. Elaborar investigaciones y estudios para formular propuestas e instrumentar métodos de colaboración con las instancias de gobierno y la participación de la sociedad;
+Artículo Quinto. Por única ocasión, el titular del Poder Ejecutivo del Estado designará a los integrantes de la Comisión de Valuadores del Estado, cuyas funciones tendrán una duración de dos años a partir de su nombramiento.
 
-IV. Evaluar causas y efectos en la funcionalidad de las vías de comunicación, dotación de equipamiento, servicios y distribución de las actividades, entre otros, con el objetivo de definir las estrategias y políticas públicas que eleven la calidad de vida de los habitantes;
+Artículo Sexto. Los registros y autorizaciones expedidas en fecha anterior a la vigencia de la presente Ley, serán válidas y reconocidas en los términos exclusivamente en que fueron expedidos.
 
-V. Coordinar los trabajos entre las áreas que integran la subdirección;
+Artículo Séptimo. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su promulgación y publicación en el Periódico Oficial de Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
-VI. Atender y dar respuesta a los oficios y dictámenes recibidos por otras dependencias de gobierno y organismos;
+P.O. 30 DE SEPTIEMBRE DE 2021.
 
-VII. Asistir a reuniones de comités y subcomités municipales y estatales; y
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
 
-VIII. Evaluar los programas de desarrollo urbano;
+###### ARTÍCULO PRIMERO.
 
-### CAPITULO XI. De la Subdirección de Desarrollo Económico
+La presente Ley entrará en vigor el día 1 de octubre de 2021, salvo disposición en contrario.
 
-###### ARTÍCULO 69.
+###### ARTÍCULO SEGUNDO.
 
-La Subdirección de Desarrollo Económico se encargará de:
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la Presente Ley.
 
-I. Integrar los aspectos del desarrollo económico y empleo a los programas que realiza el IMPLAN, con el objetivo de incrementar las ventajas competitivas del territorio, además de buscar y establecer fórmulas de colaboración que posibilite la participación real de la sociedad con diferentes instancias de Gobierno, para promover proyectos productivos que generen nuevas fuentes de trabajo, mejoren la eficacia de la micro, pequeña y mediana empresa e incrementen el comercio de bienes y servicios;
+###### ARTÍCULO TERCERO.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+Las referencias a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Secretaría de Finanzas del Poder Ejecutivo, salvo disposición expresa en contrario.
 
-II. Elaborar estudios de evaluación y comportamiento económico, de acuerdo al Plan y los programas de Desarrollo Municipal;
+###### ARTÍCULO CUARTO.
 
-III. Recopilar información económica y social;
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Secretaría de Planeación y Finanzas del Poder Ejecutivo, serán concluidos con todos sus alcances, efectos y facultades por la Secretaría de Finanzas del Poder Ejecutivo, atendiendo a su competencia.
 
-IV. Analizar nuevas fuentes de información y aspectos metodológicos para los Programas de Ordenamiento Territorial;
+###### ARTÍCULO QUINTO.
 
-V. Realizar reuniones con los Directores del IMPLAN para analizar los avances de los Programas;
+Las unidades administrativas de la Secretaría de Planeación y Finanzas conservan su denominación y atribuciones y se entenderán adscritas a la Secretaría de Finanzas del Poder Ejecutivo el (sic) Estado.
 
-VI. Elaborar y dar seguimiento al Programa de Fomento e Impulso Económico del Municipio de Aguascalientes;
+###### ARTÍCULO SEXTO.
 
-VII. Realizar la promoción de Programas de Apoyos Económicos;
+Se instruye a todos los órganos y áreas de la presente Ley para que toda aquella papelería impresa con la denominación de Secretaría de Planeación y Finanzas continuará su uso hasta el 31 de diciembre de 2021; por lo que todos los trámites que se expidan en dicha temporalidad tendrán vigencia y reconocimiento en los términos y alcances de la normativa.
 
-VIII. Representar al IMPLAN en Foros y Convenciones.
+###### ARTÍCULO SÉPTIMO.
 
-### CAPITULO XII. De la Subdirección de Desarrollo Social
+Todas las referencias previstas en otras disposiciones jurídicas a la Unidad de Comunicación Social y Atención Ciudadana se entenderán realizadas a la Unidad de Comunicación Social.
 
-### CAPITULO II. De la Dirección de Administración y Finanzas
+###### ARTÍCULO OCTAVO.
 
-###### ARTÍCULO 70.
+Las investigaciones, procedimientos e impugnaciones que se encuentren en trámite ante la Secretaría de la Contraloría o por los Órganos Internos de Control de las dependencias del Poder Ejecutivo, serán concluidas por dichas autoridades, de conformidad con las disposiciones vigentes al momento de su inicio.
 
-La Subdirección de Desarrollo Social se encargará de:
+###### ARTÍCULO NOVENO.
 
-I. Coordinar los procesos de investigación y planeación estratégica de carácter sociocultural y apoyar las acciones de gestión pertinentes, encaminadas a integrar una visión de desarrollo sustentable para la entidad;
+Las referencias a la Oficina de la Gubernatura del Poder Ejecutivo, previstas en los ordenamientos legales, se entenderán a favor de la Jefatura de Gabinete, salvo disposición expresa en contrario.
 
-II. Elaborar carpetas de análisis informativas solicitadas por la Dirección General;
+###### ARTÍCULO DÉCIMO.
 
-III. Actualizar la información sobre el Subsistema Social de la entidad;
+Los procedimientos iniciados con anterioridad a la vigencia de la presente reforma, por la Oficina de la Gubernatura del Poder Ejecutivo, serán concluidos por la Jefatura de Gabinete del Poder Ejecutivo, atendiendo a su competencia.
 
-IV. Proporcionar información oportuna al resto de las áreas del IMPLAN;
+###### ARTÍCULO DÉCIMO PRIMERO.
 
-V. Revisar la Bibliografía vinculada a las líneas estratégicas de trabajo del área;
+Los recursos humanos, materiales y financieros con que cuenta la Comisión Estatal de Mejora Regulatoria, formarán parte de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado.
 
-VI. Ejecutar y evaluar los Proyectos coordinados por el área;
+Los trabajadores de la Comisión Estatal de Mejora Regulatoria, por virtud de la presente Ley, se transferirán a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
 
-VII. Realizar reuniones de trabajo con la Dirección General y el Director de Investigación y Planeación para la entrega de informes;
+###### ARTÍCULO DÉCIMO SEGUNDO.
 
-VIII. Coordinar el equipo de analistas que participan en algunos de los proyectos encomendados al área;
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Transparencia del Poder Ejecutivo, formarán parte de la Secretaría de la Contraloría del Poder Ejecutivo del Estado.
 
-IX. Actualizar las líneas estratégicas de trabajo;
+Los trabajadores de la Unidad de Transparencia del Poder Ejecutivo del Estado, por virtud de la presente Ley, se transferirán a la Secretaría de la Contraloría del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
 
-X. Participar en reuniones de Gabinete Social de la Administración Municipal; y
+###### ARTÍCULO DÉCIMO TERCERO.
 
-XI. Participar en foros Regionales.
+Los recursos humanos, materiales y financieros con que cuenta la Unidad de Comunicación Social, formarán parte de la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado.
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
+Los trabajadores de la Unidad de Comunicación Social, por virtud de la presente Ley, se transferirán a la Secretaría Particular, Órgano Adscrito a la Jefatura de Gabinete del Poder Ejecutivo del Estado, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
 
-XII. Elaborar estudios de evaluación y comportamiento social, de acuerdo al Plan y los programas de Desarrollo Municipal.
+###### ARTÍCULO DÉCIMO CUARTO.
 
-### CAPITULO XIII. De la Subdirección de Desarrollo Sustentable
+La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor a partir del 1 de octubre de 2021, de conformidad con los siguientes términos:
 
-###### ARTÍCULO 71.
+I. Se incorporan a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los recursos materiales y financieros de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como los servidores públicos adscritos a ésta, los cuales conservarán sus derechos adquiridos.
 
-La Subdirección de Desarrollo Sustentable se encargará de:
+II. A partir de la entrada en vigor de la presente Ley, toda referencia que se haga en ley, reglamento, decreto o acuerdo, a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, se entenderá realizada a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro.
 
-I. Generar, integrar, analizar, vincular, sistematizar y aplicar variables ambientales en las metodologías de Planeación Urbana y Rural dentro de un fundamento sustentable;
+III. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado para realizar las adecuaciones presupuestales derivadas de los requerimientos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo.
 
-II. Definir estrategias y líneas de acción en materia ambiental en el Municipio de Aguascalientes, que permitan la conservación y la administración eficiente y racional de los recursos naturales para mejorar el bienestar de la población actual sin comprometer la calidad de vida de las generaciones futuras;
+IV. A partir del ejercicio fiscal 2022, se otorgará un presupuesto adecuado y suficiente a la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, como ente público autónomo, para la adecuada y completa implementación de las leyes federales y estatales, que rigen el actuar de la misma
 
-III. Coordinar y realizar proyectos de investigación científica, multidisciplinarios y con amplia participación social y académica que definan el contenido de programas sustentables y propicien el ordenamiento ecológico del Municipio de Aguascalientes;
+V. Dentro del plazo de 120 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro. En tanto no se expidan las disposiciones reglamentarias a que hace referencia el presente artículo, estarán vigentes las disposiciones reglamentarias de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro.
 
-IV. Realizar estudios para determinar las necesidades en zonas vulnerables y áreas críticas para facilitar el desarrollo ordenado, productivo y corresponsable;
+###### ARTÍCULO DÉCIMO QUINTO.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
+Para la creación o modificación de las unidades administrativas que se contemplan dentro de la presente reforma, se procederá a realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
 
-V. Elaboración de Propuestas, Estudios y Proyectos específicos en materia de sustentabilidad ambiental, aplicables al territorio Municipal;
+###### ARTÍCULO DÉCIMO SEXTO.
 
-VI. La vinculación con otras dependencias y organismos.
-
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2010)</small>
-
-VII. Verificar que los Proyectos que integran el Programa Anual de Inversión Municipal cumplan con la normatividad ambiental aplicable en cada caso.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
-
-### CAPITULO XIII BIS. De la Dirección de Información
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-###### ARTÍCULO 71 Bis.
-
-La Dirección de Información será la proveedora única de la información estadística y geográfica del Municipio para la elaboración de los planes y programas de desarrollo urbano, ambiental, social y económico, así como para la toma de decisiones estratégicas de las autoridades municipales.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-###### ARTÍCULO 71 Ter.
-
-La Dirección de Información tendrá las siguientes funciones:
-
-I. Identificar y definir las fuentes oficiales de información;
-
-II. Clasificar la información por tipo:
-
-Territorial (responsabilidad de la Subdirección de Geografía),
-
-De posición geográfica (responsabilidad de la Subdirección de Geografía) De temporalidad (responsabilidad de la Subdirección de Estadística) (sic)
-
-Estadística (responsabilidad de la Subdirección de Estadística);
-
-III. Proveer de información Geográfica y Estadística a las direcciones del Instituto así como asegurarse de que cuenten con el equipo y software para operar los datos.
-
-IV. Proveer de información Geográfica y Estadística a las diferentes dependencias municipales, estatales o federales que la soliciten.
-
-V. Proveer de información Geográfica y Estadística a la población en general.
-
-VI. Difusión de toda la información a través de medios electrónicos interactivos o bien en medios impresos.
-
-VII. Acopio de información Geográfica y Estadística.
-
-VIII. Procesamiento de información Geográfica y Estadística.
-
-IX. Mantenimiento y actualización de información Geográfica y Estadística, equipo y software.
-
-X. Atención a proyectos especiales de otras direcciones o dependencias en las que el componente principal del proyecto esté relacionado con la información Geográfica y Estadística del Municipio.
-
-XI. Atención y asistencia de comités y subcomités.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
-
-### CAPITULO XIII TER. De la Subdirección de Geografía
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-ARTÍCULO 71 Cuater. La Subdirección de Geografía elaborará, actualizará, y mantendrá toda la información que tiene que ver con la territorialidad del Municipio; así como geoposicionar y clasificar la información de carácter operativo de las diferentes dependencias gubernamentales o de la iniciativa privada.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-ARTÍCULO 71 Quintus. La Subdirección de Geografía tendrá las siguientes funciones:
-
-I. Definir y normar la producción y uso de la cartografía oficial municipal.
-
-II. Vigilar que toda la información geográfica cumpla con las políticas nacionales y se apeguen a los reglamentos.
-
-III. Proveer de información geográfica a las direcciones del IMPLAN.
-
-IV. Proveer de información geográfica a las diferentes dependencias municipales, estatales o federales que la soliciten.
-
-V. Proveer de información geográfica a la población en general.
-
-VI. Administrar, establecer y actualizar herramientas de difusión de datos.
-
-VII. Capacitación en el uso de las herramientas de difusión.
-
-VIII. Mantener, fortalecer y actualizar la base de datos geográfica del Municipio.
-
-IX. Atención a proyectos especiales de otras direcciones o dependencias en las que el componente principal del proyecto esté relacionado con la información geográfica del Municipio.
-
-X. Atención y asistencia de comités y subcomités.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
-
-### CAPITULO XIII Cuater. De la Subdirección de Estadística
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-ARTÍCULO 71 Sextus. La Subdirección de Estadística elaborará, actualizará y mantendrá toda la información que tiene que ver con la estadística del Municipio, así como elaborar los índices o indicadores que sean requeridos por las diferentes áreas. Esta información deberá elaborarse en base a catálogos de geoposición de elementos para que se puedan generar mapas temáticos y de temporalidad.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-ARTÍCULO 71 Séptimus. La Subdirección de Estadística tendrá las siguientes funciones:
-
-I. Definir y normar la producción y uso de la estadística oficial municipal.
-
-II. Vigilar que toda la información estadística cumpla con las políticas nacionales y se apeguen a los reglamentos.
-
-III. Proveer de información estadística a las direcciones del IMPLAN.
-
-IV. Proveer de información estadística a las diferentes dependencias municipales, estatales o federales que la soliciten.
-
-V. Proveer de información estadística a la población en general.
-
-VI. Administrar, establecer y actualizar herramientas de difusión de datos.
-
-VII. Asesoría en el uso y explotación de la información estadística.
-
-VIII. Mantener, fortalecer y actualizar la base de datos estadísticos del Municipio.
-
-IX. Atención a proyectos especiales de otras direcciones o dependencias en las que el componente principal del proyecto esté relacionado con la información estadística del Municipio.
-
-X. Atención y asistencia de comités y subcomités.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2011)</small>
-
-### CAPITULO XIII Quintus. De la Subdirección de Informática
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-ARTÍCULO 71 Octavus. La Subdirección de Informática desarrollará, implementará y dará mantenimiento a los sistemas informáticos, así como instalará y dará mantenimiento al software que adquiera el IMPLAN.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2011)</small>
-
-ARTÍCULO 71 Novenus. La Subdirección de Informática tendrá las siguientes funciones:
-
-I. Proveer a·la Dirección de Administración los lineamientos, características y especificaciones técnicas para que sean adquiridos los equipos de cómputo y software que requiere el Instituto.
-
-II. Hacer análisis de necesidades de equipamiento y software de las diferentes direcciones del Instituto.
-
-III. Mantener el equipo de cómputo.
-
-IV. Actualizar software.
-
-V. Dar mantenimiento a las instalaciones de voz y datos del IMPLAN.
-
-VI. Página web del IMPLAN.
-
-VII. Desarrollo de sistemas informáticos para apoyo de las diferentes áreas del IMPLAN.
-
-VIII. Asistencia y soporte técnico a los usuarios y equipos del IMPLAN.
-
-### CAPITULO XIV. De las Normas que regulan las Actividades de los Trabajadores
-
-###### ARTÍCULO 72.
-
-La relación entre el Instituto Municipal de Planeación de Aguascalientes y sus trabajadores de base y eventuales se regirá por el Reglamento Interior de Trabajo del Instituto Municipal de Planeación y por la Ley Federal del Trabajo en cuanto al Derecho Procesal, así como por la Ley de Responsabilidades de los Servidores Públicos del Estado y el Código Municipal de Aguascalientes.
-
-## TITULO CUARTO. DE LA ADQUISICIÓN DE BIENES Y SERVICIOS DEL IMPLAN
-
-### CAPITULO I. Del Comité de Adquisiciones de Bienes y Servicios
-
-###### ARTÍCULO 73.
-
-El IMPLAN integra su propio Comité de Adquisiciones de Bienes y Servicios como un órgano colegiado de consulta, asesoría, análisis, orientación, en materia de adquisiciones y enajenaciones, cuyo objetivo es intervenir como instancia administrativa en los procedimientos de las adquisiciones, arrendamientos, contratación de servicios y enajenaciones de bienes que requiere para el cumplimiento de sus objetivos, cuando el valor de las adquisiciones o enajenaciones corresponda al procedimiento de licitación pública o invitación restringida, conforme a la Ley Patrimonial del Estado de Aguascalientes.
-
-El domicilio del Comité es el mismo en el que se encuentre ubicada la oficina sede del IMPLAN.
-
-### CAPITULO III. De la Subdirección Administrativa
-
-###### ARTÍCULO 74.
-
-El Comité contará con los siguientes integrantes:
-
-I. Un Presidente, que será el Director General del IMPLAN;
-
-II. Un Secretario Ejecutivo, que será el Director de Administración y Finanzas del IMPLAN, responsable de llevar a cabo las adquisiciones a favor del IMPLAN;
-
-III. Los vocales siguientes, con derecho a voz y voto:
-
-a) El Director de Planeación;
-
-b) El Subdirector de Administración;
-
-c) El Subdirector Jurídico;
-
-d) El Subdirector de Programación y Presupuesto, todos ellos del IMPLAN; y
-
-e) Los titulares de otras áreas del IMPLAN que el Comité considere estrictamente necesario formen parte del mismo, cuando tenga relación con la generalidad de los asuntos materia del Comité.
-
-IV. Sin derecho a voto, pero con voz, los asesores siguientes:
-
-a) Un representante de la Contraloría Municipal;
-
-b) Un representante del área requisitante;
-
-c) Vocales que participarán dependiendo del origen de los recursos:
-
-1. Un representante de la Contraloría General del Estado (cuando existan recursos de participación estatal y/o federal);
-
-2. Un representante de la Secretaría de Finanzas del Municipio de Aguascalientes (cuando los recursos provengan del Municipio y/o existan contrapartes a Programas Federales); y
-
-3. Un representante de la Secretaria de Desarrollo Social Federal (cuando existan recursos de participación federal).
-
-Los integrantes del Comité contarán con un suplente, el cual, en ausencia del titular, tendrá las mismas facultades y atribuciones de éste último.
-
-###### ARTÍCULO 75.
-
-El Comité se reunirá cuando el valor de las adquisiciones de bienes y/o contratación de servicios sea superior a los (sic) tres mil veces el salario mínimo general vigente para el Estado de Aguascalientes, correspondiente al procedimiento de concurso por invitación restringida ó licitación pública, así como cuando el Presidente del Comité lo considere necesario.
-
-A las reuniones podrán ser invitados los servidores públicos cuyas funciones o actividades estén relacionadas con los asuntos que se encuentren en trámite ante el Comité y cuya presencia se estime conveniente, así como a quien represente el área que hubiere solicitado los bienes de los que pueda estar pendiente la resolución de su adquisición.
-
-El Comité se regirá por su propio Reglamento de Adquisiciones de Bienes y Servicios del IMPLAN, propuesto por el Presidente y aprobado por su Comité en los tres primeros meses de cada Administración Municipal.
-
-###### ARTÍCULO 76.
-
-Las reuniones serán dirigidas por el Presidente o el Secretario Ejecutivo, además se requerirá que estén presentes la mayoría de sus miembros. Las decisiones se tomarán por el cincuenta por ciento más uno de votos; en casos de empate, el Presidente del Comité tendrá voto de calidad; en ausencia del Presidente, el Secretario Ejecutivo gozará de dicha facultad.
-
-Tratándose de resoluciones de una licitación, cuando no se reúna la mayoría de los integrantes del Comité, a fin de no obstaculizar y retardar los procedimientos, el Presidente del Comité resolverá y decidirá la adjudicación, atendiendo a la facultad que le confiere el Reglamento respectivo.
-
-###### ARTÍCULO 77.
-
-Los planteamientos de los casos que se sometan a la autorización del Comité se harán por escrito, conteniendo un resumen de la información que se presente; la documentación correspondiente deberá conservarse por un mínimo de tres años.
-
-###### ARTÍCULO 78.
-
-El Comité tendrá las siguientes atribuciones:
-
-I. Llevar a cabo las licitaciones públicas, adjudicando, en los términos de este Reglamento, los contratos y pedidos respectivos;
-
-II. Proponer modificaciones de mejora a los sistemas, procedimientos y reglamentos de operación que establezca el IMPLAN; y vigilar que la información se procese de preferencia en sistemas computarizados;
-
-III. Aprobar los casos de cancelación de pedidos, rescisión de contratos por caso fortuito o fuerza mayor; el pago de indemnizaciones a los proveedores que en su caso se consideren procedentes, previo dictamen emitido por este órgano, y aprobar las sanciones que correspondan a los proveedores que hayan incurrido en incumplimiento parcial o total de pedidos o contratos;
-
-IV. Determinar cuáles y cuantos serán los bienes y servicios a adquirir;
-
-V. Solicitar a la Subdirección de Administración y Finanzas del IMPLAN un programa anual de adquisiciones y servicios, dentro de los tres primeros meses de cada año;
-
-VI. Resolver sobre los casos de excepción a licitar públicamente bienes y servicios, en casos de fuerza mayor;
-
-VII. Nombrar a los servidores públicos encargados de recibir ofertas, garantías, poderes, y demás análogas, esto es, las personas encargadas de organizar y coordinar todas las actividades y actos de una licitación e invitación restringida;
-
-VIII. Rechazar de manera fundada y motivada las requisiciones de compra que a su juicio no se justifiquen;
-
-IX. Emitir su resolución respecto de las mejores condiciones de calidad, servicio, precio, pago y tiempo de entrega, ofertadas por los proveedores para la adquisición, enajenación o arrendamiento de bienes y servicios;
-
-X. Fomentar la homologación y compatibilidad de los bienes y servicios a fin de simplificar las tareas de mantenimiento y servicio;
-
-XI. Fomentar la incorporación de más personas al Padrón de Proveedores del IMPLAN, que reúnan los requisitos para su registro;
-
-XII. Proponer a la Dirección de Administración y finanzas del Instituto la exclusión del Padrón de Proveedores a aquellos proveedores que hubiesen incurrido en incumplimiento de adjudicación o contrato, aún en un solo pedido;
-
-XIII. Proponer los criterios para la elaboración del Reglamento de Adquisición de bienes y Servicios del IMPLAN, así como su permanente actualización;
-
-XIV. Hacer públicas en uno de los Diarios de mayor circulación estatal, las convocatorias de cada licitación para la enajenación de bienes; y
-
-XV. Las demás conferidas en su propio Reglamento.
-
-### CAPITULO IV. De la Subdirección Jurídica
-
-###### ARTÍCULO 79.
-
-El Presidente del Comité tendrá las siguientes atribuciones:
-
-I. Convocar las juntas del Comité;
-
-II. Autorizar el orden del día y analizar previamente los expedientes correspondientes a los asuntos que se tratarán en cada junta, y en su caso, ordenar las correcciones que juzgue necesarias;
-
-III. Coordinar y dirigir las reuniones del Comité;
-
-IV. Requerir a los miembros del Comité, el cumplimiento de los lineamientos establecidos en el Reglamento de Adquisiciones de Bienes y Servicios del Instituto;
-
-V. En casos de empate, emitir su voto de calidad, tomando las decisiones que juzgue adecuadas; y
-
-VI. En general, llevar a cabo todas aquellas otras funciones que se relacionen con las anteriormente señaladas.
-
-###### ARTÍCULO 80.
-
-El Secretario Ejecutivo tendrá las siguientes atribuciones:
-
-I. Requisitar y formalizar los pedidos y contratos adjudicados por el Comité;
-
-II. Elaborar el orden del día correspondiente a cada reunión, las actas de sesión, los documentos que contengan la información resumida de los casos que se dictaminarán y los demás documentos que integren los expedientes que se someterán a la aprobación del Comité;
-
-III. Citar a las reuniones por acuerdo del Presidente;
-
-IV. Someter los expedientes respectivos a la aprobación del Presidente del Comité;
-
-V. Hacer llegar a cada uno de los miembros del Comité el expediente correspondiente a cada reunión que se cite;
-
-VI. Llevar a cada una de las reuniones del Comité la documentación adicional que pueda requerirse;
-
-VII. Ejecutar y vigilar que se realicen a través de las distintas áreas los acuerdos que se tomen y los compromisos que se adquieran;
-
-VIII. Vigilar el oportuno cumplimiento de las metas que se haya propuesto el Comité, informando los avances o retrasos que al respecto hubiese;
-
-IX. Ejercer las facultades de decisión del Presidente del Comité en ausencia de éste;
-
-X. Desarrollar las actas de dictamen; y
-
-XI. Elaborar y presentar ante la Junta de Gobierno del IMPLAN un informe anual de actividades realizadas por el Comité.
-
-###### ARTÍCULO 81.
-
-Los vocales tendrán las siguientes funciones:
-
-I. Analizar los casos y asuntos que se sometan a su consideración y se consignen en el orden del día, apoyando su análisis sobre los informes y documentos que lo sustenten o fundamenten;
-
-II. Manifestar con objetividad, veracidad y seriedad sus puntos de vista, sus propuestas y alternativas de solución, su voto o inconformidad con los asuntos tratados, a fin de que se pueda llegar a una solución y resolución; y
-
-III. Firmar las actas que se levanten en cada reunión, siempre y cuando conste su comprobada asistencia.
-
-###### ARTÍCULO 82.
-
-El representante de la Contraloría Municipal, asesorará al Comité en la interpretación y aplicación de las normas, sistemas y procedimientos para la mejor administración y operación para las adquisiciones de bienes y servicios a favor del IMPLAN.
-
-### CAPITULO II. De los Procedimientos para la Adquisición de Bienes y Servicios
-
-### CAPITULO V. De la Subdirección de Programación y Presupuesto
-
-###### ARTÍCULO 83.
-
-Las adquisiciones de bienes y servicios se podrán contratar mediante los procedimientos que a continuación se señalan:
-
-I. Por licitación pública;
-
-II. Por invitación restringida;
-
-III. Por concurso; y
-
-IV. Por compra directa.
-
-###### ARTÍCULO 84.
-
-Las adquisiciones de bienes y servicios con un valor superior a los quince mil veces el salario mínimo general vigente en el Estado se adjudicarán por regla general a través de licitaciones, mediante convocatoria pública, para que libremente se presenten propuestas solventes a fin de asegurar al IMPLAN las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo que establece su Reglamento.
-
-A todos los montos de adquisición establecidos para los distintos tipos de procedimientos, se les deberá agregar el Impuesto al Valor Agregado que corresponda.
-
-###### ARTÍCULO 85.
-
-Una vez iniciado un procedimiento de adquisición a través de licitación pública, éste no podrá ser suspendido, a menos de que existan circunstancias que provoquen la extinción de la necesidad para adquirir los bienes ó contratar la prestación de los servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio al IMPLAN.
-
-La Contraloría Municipal es la única dependencia facultada para determinar la procedencia o improcedencia de la cancelación de alguno de los procedimientos a los que se refiere el Artículo 82 de este Reglamento.
-
-En la aplicación de este precepto, cada operación deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos.
-
-###### ARTÍCULO 86.
-
-Se podrá optar por la no realización de licitación pública en la adjudicación de bienes y/o contratos de servicios y seguir el procedimiento de invitación restringida cuando se presenten algunos de los siguientes supuestos:
-
-I. Existan razones técnicas, científicas o legales justificadas para la adquisición de bienes y/o servicios específicos;
-
-II. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y bienes usados. Tratándose de éstos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practiquen las instituciones de banca y crédito u otros terceros legitimados para ello conforme a las disposiciones aplicables; y
-
-III. Se realice una licitación pública sin que se hubiese recibido propuestas solventes. El IMPLAN deberá volver a invitar formalmente a los mismos proveedores y tratar de incorporar a otros con el fin de evitar la insuficiencia de proveedores.
-
-En caso de que la licitación pública o el concurso por invitación restringida, sean declarados desiertos por dos veces, la adquisición se adjudicará con los lineamientos del procedimiento para compra directa.
-
-Las adquisiciones por invitación restringida serán limitadas y se harán cuando resulte inconveniente llevar a cabo las licitaciones públicas a que se refiere el Artículo 83, por lo que se deberán cumplir con la invitación y participación de por lo menos tres proveedores; el Comité adjudicará conforme a la mejor propuesta, con los criterios de adjudicación establecidos en las bases.
-
-###### ARTÍCULO 87.
-
-Se podrán contratar adquisiciones de bienes y servicios por compra directa, esto es, sin sujetarse a ningún tipo de procedimiento de adquisición, cuando no se rebase el equivalente a tres mil veces el salario mínimo general vigente para el Estado de Aguascalientes y se adjudicaran de entre los proveedores que ofrezcan las mejores condiciones económicas para el IMPLAN.
-
-###### ARTÍCULO 88.
-
-En los procedimientos de adquisición se invitará a participar a los mejores proveedores inscritos en el Padrón del IMPLAN y que por su experiencia y capacidad garanticen un excelente precio, calidad y condiciones de venta en los bienes o servicios a contratar y cuyas actividades comerciales estén relacionadas con los bienes o servicios, objeto del contrato a celebrarse.
-
-Las adquisiciones por concurso quedarán comprendidas entre los tres mil y quince mil veces el salario mínimo general vigente en el Estado en los cuales se deberán invitar con la debida oportunidad un mínimo de cinco distintos proveedores; la adjudicación se podrá decidir con un mínimo de dos propuestas, siempre y cuando la mejor oferta económica sea igual o menor a los precios de mercado estudiados por el IMPLAN.
-
-###### ARTÍCULO 89.
-
-Las adquisiciones de bienes y/ o contratación de servicios no podrán fraccionarse para simular y evadir los topes establecidos en el Reglamento respectivo.
-
-## ARTÍCULOS TRANSITORIOS
-
-PRIMERO. El presente Reglamento Interior del Instituto Municipal de Planeación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-SEGUNDO. Se abroga el Reglamento Interior del Instituto Municipal de Planeación, publicado en el Periódico Oficial del Estado de Aguascalientes, el día diez de Diciembre del dos mil uno, así como las reformas posteriores que tuvo dicho ordenamiento.
-
-TERCERO. Los procedimientos de adjudicación se norman mediante el presente capitulo y entran en vigor a partir de la publicación en el Periódico Oficial del Estado de Aguascalientes y con un término de treinta días naturales posteriores para la elaboración del Acta de Instalación del Comité de Adquisiciones de Bienes y Servicios del Instituto Municipal de Planeación y su Reglamento.
-
-CUARTO. Se autoriza al Director General del IMPLAN para tramitar la publicación del presente Reglamento en el Periódico Oficial del Estado.
-
-QUINTO. El presente Reglamento Interior del IMPLAN fue autorizado mediante Sesión Extraordinaria de la Junta de Gobierno del IMPLAN celebrada el día 23 de Marzo del año dos mil nueve, según quedo asentado en el Acta correspondiente suscrita por el Ing. Gabriel Arellano Espinosa Presidente Municipal de Aguascalientes, en su calidad de Presidente de la Junta de Gobierno del IMPLAN, el M. en ICH. Netzahualcóyotl López Flores, Director General del IMPLAN, en su calidad de Secretario Técnico de la Junta de Gobierno, la C.P. Angélica de Santos Velasco, en su calidad de Secretaria de Finanzas del Municipio de Aguascalientes, la Regidora Lic. Imelda Catalina Azcona Reynoso, el suplente del Regidor Lic. Jesús Armando López Velarde Campa y el Regidor C.P. Enrique López Hernández, y el Urbanista Jesús Díaz Herrera, en su calidad de Presidente del Consejo Consultivo del IMPLAN.
-
-Así como de la Sesión Extraordinaria de la Junta de Gobierno del IMPLAN celebrada el día 13 de Julio del año dos mil nueve, según quedo asentado en el Acta correspondiente firmada por el Ing. Gabriel Arellano Espinosa Presidente Municipal de Aguascalientes, en su calidad de Presidente de la Junta de Gobierno del IMPLAN, el M. en ICH. Netzahualcóyotl López Flores, Director General del IMPLAN, en su calidad de Secretario Técnico de la Junta de Gobierno, la C.P. Angélica de Santos Velasco, en su calidad de Secretaria de Finanzas del Municipio de Aguascalientes, la Regidora Lic. Imelda Catalina Azcona Reynoso, el suplente del Regidor José Luis Proa de Anda, el Regidor José Alfredo Hornedo González, el Regidor C.P. Enrique López Hernández, y el Urbanista Jesús Díaz Herrera, en su calidad de Presidente del Consejo Consultivo del IMPLAN.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-P.O. 1 DE MARZO DE 2010.
-
-###### ARTICULO PRIMERO.
-
-Las reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Se autoriza al Director General del IMPLAN para tramitar la publicación de las presentes reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE MAYO DE 2011.
-
-###### ARTICULO PRIMERO.
-
-Las reformas y adiciones al Reglamento Interior del Instituto Municipal de Planeación entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-###### ARTICULO SEGUNDO.
-
-Se autoriza al Director General del IMPLAN para tramitar la publicación de las presentes reformas, adiciones y derogaciones al Reglamento Interior del Instituto Municipal de Planeación en el Periódico Oficial del Estado de Aguascalientes.
+Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
