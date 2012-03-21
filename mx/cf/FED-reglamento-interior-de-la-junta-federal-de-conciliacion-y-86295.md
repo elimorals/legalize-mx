@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-86295
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-24"
-last_updated: "2012-02-24"
+last_updated: "2012-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86295&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2012-02-09"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACION Y ARBITRAJE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 21 DE MARZO DE 2012.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de febrero de 2012.
 
@@ -405,8 +405,6 @@ XVI. Supervisar el cumplimiento de la atención de las solicitudes de las instan
 
 XVII. Dirigir la operación de la Oficialía de Partes de Asuntos Individuales.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 De la Secretaría General de Consultoría y Asuntos Jurídicos
 
 ###### ARTICULO 20.
@@ -425,7 +423,9 @@ V. Supervisar el apoyo que la Secretaría Auxiliar de Amparos otorgue a las Junt
 
 VI. Atender, a través de la Secretaría Auxiliar de Amparos, las consultas que en materia de amparo requieran en su caso, las Juntas Especiales ubicadas en las entidades federativas;
 
-VII. Coordinar la publicación en medios impresos, informáticos o magnéticos documentos de interés para la Junta, de acuerdo con los programas anuales y con la disponibilidad presupuestal;
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+VII. Coordinar la publicación en medios impresos, informáticos o magnéticos de documentos de interés para la Junta, de acuerdo con los programas anuales y con la disponibilidad presupuestal;
 
 VIII. Establecer acciones de colaboración con los tribunales federales y locales en materia de trabajo;
 
@@ -441,8 +441,6 @@ XIII. Supervisar el funcionamiento de la Biblioteca de la Junta.
 
 ### CAPITULO VI. De la Coordinación General de Administración
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 21.
 
 Corresponde a la Coordinación General de Administración:
@@ -453,7 +451,9 @@ II. Vigilar la aplicación de las disposiciones normativas en materia de program
 
 III. Proponer a la Secretaría las modificaciones a la estructura orgánica de la Junta, de acuerdo con las disposiciones aplicables;
 
-IV. Desarrollar, en coordinación con las Secretarías Generales de la Junta, estrategias enfocadas modernizar (sic) los sistemas de trabajo y productividad, para proponerlos al Presidente de la Junta;
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+IV. Desarrollar, en coordinación con las Secretarías Generales de la Junta, estrategias enfocadas a modernizar los sistemas de trabajo y productividad, para proponerlos al Presidente de la Junta;
 
 V. Atender, en coordinación con la Secretaría, las necesidades de recursos humanos de las áreas jurídicas y administrativas que integran la Junta, de acuerdo con la disponibilidad presupuestaria;
 
@@ -605,8 +605,6 @@ IV. Rendir informes diarios al Presidente de la Junta, respecto de las diligenci
 
 V. Supervisar que las diligencias de recuento de los trabajadores se lleven a cabo conforme a lo dispuesto por la Ley y la jurisprudencia aplicable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 De la Secretaría Auxiliar de Asuntos Colectivos
 
 ###### ARTICULO 27.
@@ -615,7 +613,9 @@ Corresponde a la Secretaría Auxiliar de Asuntos Colectivos:
 
 I. Atender y tramitar los asuntos relativos a los conflictos colectivos de naturaleza jurídica y económica presentados ante la Junta;
 
-II. Procurar los arreglos conciliatorios que se requieran para o resolver conflictos colectivos de trabajo;
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+II. Procurar los arreglos conciliatorios que se requieran para resolver conflictos colectivos de trabajo;
 
 III. Elaborar los proyectos de acuerdos y resoluciones que requieran los asuntos de su competencia y vigilar que aquellas sean debidamente firmadas y, en su caso, engrosadas;
 
@@ -655,13 +655,15 @@ XI. Apoyar en la tramitación y desahogo de los exhortos que se reciban de las J
 
 XII. Integrar y mantener actualizado el archivo de expedientes de peritos externos, así como de los servicios prestados.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
 
-De la Secretaría Auxiliar de Apoyo y Control Procesal a Juntas Especiales
+De la Secretaría Auxiliar para el Apoyo y Control Procesal de Juntas Especiales
+
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 29.
 
-Corresponde a la Secretaría Auxiliar de Apoyo y Control Procesal a Juntas Especiales:
+Corresponde a la Secretaría Auxiliar para el Apoyo y Control Procesal de Juntas Especiales:
 
 I. Recabar y analizar la información estadística sobre el cumplimiento de objetivos y metas de los Presidentes de las Juntas Especiales, y presentar un diagnóstico al Secretario General de Asuntos individuales;
 
@@ -682,8 +684,6 @@ VIII. Efectuar visitas de apoyo técnico y orientación para la utilización de 
 IX. Evaluar y, en su caso, encauzar para su atención, las solicitudes de recursos humanos, materiales y tecnológicos de las Juntas Especiales, y
 
 X. Participar en la elaboración de los proyectos de dictamen de evaluación del desempeño de los Presidentes de las Juntas Especiales y someterlos a la consideración del Secretario General de Asuntos Individuales.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 De la Secretaría Auxiliar de Asesoría Jurídica e Información Técnica
 
@@ -707,13 +707,17 @@ VII. Establecer canales de comunicación e interrelación permanente con las Jun
 
 VIII. Difundir entre las Juntas Especiales y demás áreas jurídicas que integran a la Junta, la jurisprudencia en materia de trabajo que se emita por el Poder Judicial de la Federación;
 
-IX. Apoyar a la Secretaría General de Consultoría y Apoyo Jurídico en la preparación de los proyectos de convocatoria para la designación de Representantes de trabajadores y de patrones ante la Junta;
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+IX. Apoyar a la Secretaría General de Consultoría y Asuntos Jurídicos en la preparación de los proyectos de convocatoria para la designación de Representantes de trabajadores y de patrones ante la Junta;
 
 X. Compilar el Diario Oficial de la Federación y la Gaceta Laboral, así como el Boletín Laboral de la Junta;
 
 XI. Recabar la información necesaria para preparar las memorias de cumplimiento de los Convenios de la Organización Internacional del Trabajo, y otros instrumentos internacionales, en lo concerniente al ejercicio de las facultades de la Junta;
 
-XII. Formular los anteproyectos de manuales administrativos de organización y de procesos de esa Secretaría Auxiliar, y de la de Amparos, así como de la Secretaría General de Consultoría y Apoyo Jurídico, y remitirlos a la Coordinación General de Administración, y
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+XII. Formular los anteproyectos de manuales administrativos de organización y de procesos de esa Secretaría Auxiliar, y de la de Amparos, así como de la Secretaría General de Consultoría y Asuntos Jurídicos, y remitirlos a la Coordinación General de Administración, y
 
 XIII. Atender a los estudiantes que soliciten información relacionada con las funciones sustantivas de la Junta.
 
@@ -767,8 +771,6 @@ XI. Las demás que le asigne el Pleno, el Presidente de la Junta o su superior j
 
 ### CAPITULO X. De las Direcciones de Area
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 33.
 
 Al frente de cada dirección de área habrá un director, quien tendrá las atribuciones que competen a las unidades administrativas que se le adscriban, así como las siguientes:
@@ -783,11 +785,11 @@ IV. Proporcionar información respecto de las obligaciones de transparencia, ren
 
 V. Cumplir con lo establecido en los manuales administrativos de organización y de procesos de la Junta, instructivos, lineamientos y cualquiera otra disposición que se expida para el mejor funcionamiento del área;
 
-VI. Aplicar la plataforma informática instalada para ser más eficiente los procesos a cargo del área, y
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+VI. Aplicar la plataforma informática instalada para hacer más eficientes los procesos a cargo del área, y
 
 VII. Las demás que le asigne el Pleno, el Presidente de la Junta o su superior jerárquico, en el ámbito de sus respectivas competencias.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 Dirección de Registro de Contratos Colectivos y Reglamentos Interiores de Trabajo
 
@@ -799,7 +801,9 @@ I. Atender el registro y control de los contratos colectivos de trabajo, conveni
 
 II. Analizar los contratos colectivos de trabajo, convenios de administración de contratos ley y reglamentos interiores de trabajo, vigilando que cumplan con los requisitos exigidos por la Ley y elaborar el proyecto de acuerdo de registro correspondiente;
 
-III. Expedir las certificaciones solicitadas por el Presidente de la Junta; la Secretaría General de Acuerdos y Asuntos Colectivos; las Juntas Especiales y, las Secretarías Auxiliares de Emplazamientos a Huelgas y Conciliación, de Huelgas, y de Asuntos Colectivos, respecto de la documentación e información sobre contratos colectivos, convenios y reglamentos interiores de trabajo, depositados y registrados en la Junta, así como de convenios de administración de contratos ley y cualquier otra información de utilidad que obre en sus archivos;
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+III. Expedir las certificaciones solicitadas por el Presidente de la Junta; la Secretaría General de Acuerdos y Asuntos Colectivos; las Juntas Especiales y, las Secretarías Auxiliares de Emplazamientos a Huelga y Conciliación, de Huelgas, y de Asuntos Colectivos, respecto de la documentación e información sobre contratos colectivos, convenios y reglamentos interiores de trabajo, depositados y registrados en la Junta, así como de convenios de administración de contratos ley y cualquier otra información de utilidad que obre en sus archivos;
 
 IV. Dar cumplimiento a los acuerdos de las Juntas Especiales para el desahogo de las diligencias ordenadas en los expedientes respectivos;
 
@@ -895,8 +899,6 @@ VIII. Conducir y ejecutar las acciones relacionadas con la prestación del servi
 
 Las Secretarías Generales de Acuerdos y Asuntos Colectivos, y de Asuntos Individuales, contarán con un cuerpo de funcionarios conciliadores para el buen funcionamiento de las mismas.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 40.
 
 Los funcionarios conciliadores tienen a su cargo brindar apoyo en la conciliación de asuntos individuales y colectivos, en auxilio de las Juntas Especiales, y tendrán entre otras las siguientes funciones:
@@ -905,7 +907,9 @@ I. Privilegiar en toda la fase del proceso la conciliación como forma de soluci
 
 II. Llevar la estadística de los procedimientos sometidos a su consideración y resueltos a través de la conciliación, dando cuenta al Secretario General que corresponda, y
 
-III. La demás que les asigne el Presidente de la Junta y el Secretario General de su adscripción.
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+III. Las demás que les asigne el Presidente de la Junta y el Secretario General de su adscripción.
 
 ### CAPITULO XII. De la Unidad de Quejas, Denuncias y Responsabilidades
 
@@ -965,9 +969,7 @@ VIII. Las demás que le asigne el Pleno, el Presidente de la Junta, la Junta Esp
 
 ### CAPITULO XIV. De los Auxiliares de la Junta
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-###### Artículo 44.
+###### ARTICULO 44.
 
 Las Juntas Especiales y las áreas jurídicas que integran la Junta, contarán con el número de Auxiliares que asigne el Presidente de la Junta, conforme a la disposición presupuestal, tendrán las funciones que les confiere la Ley y las siguientes:
 
@@ -991,11 +993,11 @@ IX. Cumplir con lo establecido en los manuales administrativos de organización 
 
 X. Las demás que les asigne el Pleno, el Presidente de la Junta o sus superiores jerárquicos, en el ámbito de sus respectivas competencias.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Del personal asignado a la Función Conciliatoria
 
-###### Artículo 45.
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+###### ARTICULO 45.
 
 Corresponde a los servidores públicos asignados a las actividades de conciliación:
 
@@ -1061,8 +1063,6 @@ IX. Atender los lineamientos e instrucciones que en materia de amparo, emita el 
 
 Las Juntas Especiales y las áreas jurídicas que integran la Junta, contarán con el número de Secretarios de Acuerdos que asigne el Presidente de la Junta, conforme a la disposición presupuestal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 50.
 
 Corresponde a los Secretarios de Acuerdos, además de las atribuciones previstas en la Ley:
@@ -1083,7 +1083,9 @@ VII. Vigilar que los expedientes se encuentren debidamente sellados, cuidando qu
 
 VIII. Solicitar identificación a los comparecientes y demás personas que intervengan en las Audiencias, especialmente cuando se trate de desistimientos y pagos;
 
-IX. Permitir a las partes consultar los expedientes sin que salgan del local de la Junta Especial o Secretaría Auxiliar y a los peritos nombrados en autos, los peritos podrán sacar del local la Junta los expedientes, previo acuerdo de la Junta o del Presidente;
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+IX. Permitir a las partes consultar los expedientes sin que salgan del local de la Junta Especial o Secretaría Auxiliar y a los peritos nombrados en autos, los peritos podrán sacar del local de la Junta los expedientes, previo acuerdo de la Junta o del Presidente;
 
 X. Elaborar el acuerdo que deba recaer al proveído de los Tribunales de Amparo en que aperciba de multa a la Junta Especial, al Presidente de la misma o al Auxiliar asignado al trámite en el proceso de juicios laborales;
 
@@ -1147,8 +1149,6 @@ De la Biblioteca
 
 La Junta tendrá una Biblioteca destinada al servicio y consulta de su personal, de los trabajadores y patrones, así como de los apoderados de los mismos, la cual funcionará de acuerdo con el manual que se expida.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1161,4 +1161,8 @@ CUARTO. Los derechos laborales del personal jurídico y administrativo serán re
 
 El presente Reglamento Interior fue aprobado por el Pleno de la Junta Federal de Conciliación y Arbitraje, con fundamento en lo dispuesto por los artículos 614, fracción I y 620, fracción I de la Ley Federal del Trabajo, en sesión ordinaria celebrada el día 9 de febrero de 2012, en la Ciudad de México, Distrito Federal.
 
-El Secretario General de Conflictos Individuales de la Junta Federal de Conciliación y Arbitraje, Manuel Contreras Arrevillaga, actuando como Secretario del Pleno de la misma, por designación hecha por el Presidente de la Junta Federal de Conciliación y Arbitraje, conforme a lo dispuesto por los artículos 11 y 12, fracción II del Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, CERTIFICA: que el presente Reglamento Interior constante de 41 fojas de un solo lado, fue aprobado por el Pleno en Sesión Ordinaria celebrada el día 9 de febrero de 2012, presidida por el Lic. Eduardo Andrade Salaverria, Presidente de la Junta Federal de Conciliación y Arbitraje.- A los nueve días del mes de febrero de dos mil doce. Conste.- Rúbrica.
+> <small>(F. DE E., D.O.F. 21 DE MARZO DE 2012)</small>
+
+El Secretario General de Conflictos Individuales de la Junta Federal de Conciliación y Arbitraje, Manuel Contreras Arrevillaga, actuando como Secretario del Pleno de la misma, por designación hecha por el Presidente de la Junta Federal de Conciliación y Arbitraje, conforme a lo dispuesto por los artículos 11 y 12, fracción II del Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, CERTIFICA: que el presente Reglamento Interior constante de 41 fojas de un solo lado, fue aprobado por el Pleno en Sesión Ordinaria celebrada el día 9 de febrero de 2012, presidida por el Lic. Eduardo Andrade Salaverría, Presidente de la Junta Federal de Conciliación y Arbitraje.- A los nueve días del mes de febrero de dos mil doce. Conste.- Rúbrica.
+
+El Secretario General de Asuntos Individuales de la Junta Federal de Conciliación y Arbitraje, Manuel Contreras Arrevillaga, quien actuó como Secretario del Pleno de la misma, por designación hecha por el Presidente de la Junta Federal de Conciliación y Arbitraje, en la Sesión Ordinaria celebrada el día 9 de febrero de 2012, HACE CONSTAR: las aclaraciones al Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, aprobado por el Pleno en Sesión Ordinaria del día 9 de febrero de 2012, presidida por el Lic. Eduardo Andrade Salaverría, Presidente de la Junta Federal de Conciliación y Arbitraje.- A los seis días del mes de marzo de dos mil doce.- Conste.- Rúbrica.
