@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-01-2011-del-90094"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-03"
-last_updated: "2011-01-03"
+last_updated: "2012-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90094&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2011-01-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO 01/2011 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REESTRUCTURA ORGANICA Y FUNCIONALMENTE SU ADMINISTRACION]
 
-ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 01/2011 DEL TRES DE ENERO DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REESTRUCTURA ORGÁNICA Y FUNCIONALMENTE SU ADMINISTRACIÓN.
+ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 01/2011 DEL TRES DE ENERO DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REESTRUCTURA ORGÁNICA Y FUNCIONALMENTE SU ADMINISTRACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 22 DE MARZO DE 2012.
 
 Acuerdo publicado en la Novena Época, Tomo XXXIII, Sección Segunda del Semanario Judicial de la Federación, el lunes 3 de enero de 2011.
 
@@ -87,17 +87,25 @@ Secretaría de la Presidencia.
 
 Contraloría.
 
-Nivel Jerárquico IV: Direcciones Generales.
+> <small>(REFORMADA, S.J.F. Y G. 22 DE MARZO DE 2012)</small>
+
+Nivel Jerárquico IV: Coordinación de Compilación y
+
+Sistematización de Tesis.
+
+> <small>(ADICIONADA, S.J.F. Y G. 22 DE MARZO DE 2012)</small>
+
+Nivel Jerárquico V: Direcciones Generales.
 
 ###### ARTÍCULO CUARTO
 
 Atendiendo a los niveles jerárquicos establecidos y a su naturaleza y afinidad funcional, la estructura administrativa del nuevo modelo organizacional se conforma de la siguiente manera:
 
+> <small>(REFORMADA, S.J.F. Y G. 22 DE MARZO DE 2012)</small>
+
 I. A la Secretaría General de Acuerdos se adscriben:
 
 - La Subsecretaría General de Acuerdos, que a su vez tiene bajo su adscripción la Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad.
-
-- La Coordinación de Compilación y Sistematización de Tesis.
 
 - El Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
 
@@ -137,13 +145,19 @@ IV. A la Contraloría se adscriben:
 
 - La Dirección General de Responsabilidades Administrativas y de Registro Patrimonial.
 
+> <small>(ADICIONADA, S.J.F. Y G. 22 DE MARZO DE 2012)</small>
+
+V. La Coordinación de Compilación y Sistematización de Tesis se adscribe directamente a la Presidencia de este Alto Tribunal.
+
 ###### ARTÍCULO QUINTO
 
 Para la implantación del nuevo modelo organizacional, a partir de la entrada en vigor del presente Acuerdo General, se suprimen, fusionan, crean, adscriben o se modifican los órganos administrativos de la estructura básica conforme a lo siguiente:
 
 I. Secretaría General de Acuerdos:
 
-a) Se readscriben a la Secretaría General de Acuerdos la Subsecretaría General de Acuerdos, la Coordinación de Compilación y Sistematización de Tesis y el Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
+> <small>(REFORMADO PRIMER PÁRRAFO, S.J.F. Y G. 22 DE MARZO DE 2012)</small>
+
+a) Se readscriben a la Secretaría General de Acuerdos la Subsecretaría General de Acuerdos, y el Centro de Documentación y Análisis, Archivos y Compilación de Leyes.
 
 La Dirección de Análisis e Investigación Histórico Documental de la Dirección General de Casas de la Cultura Jurídica y Estudios Históricos, se adscribe al Centro de Documentación y Análisis, Archivos y Compilación de Leyes con sus respectivos recursos.
 
@@ -252,3 +266,11 @@ EL LICENCIADO MARIO ALBERTO TORRES LÓPEZ, DIRECTOR GENERAL DE ASUNTOS JURÍDICO
 CERTIFICA:
 
 Que esta copia del Acuerdo General de Administración Número 01/2011, del tres de enero de dos mil once, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se reestructura orgánica y funcionalmente su administración, constante de diez fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente. México, Distrito Federal, a 18 de enero de dos mil once.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F. Y G. 22 DE MARZO DE 2012.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor el día de su expedición.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Semanario Judicial de la Federación y su Gaceta, y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Dirección General de Asuntos Jurídicos de este Alto Tribunal difunda el texto íntegro del Acuerdo General de Administración Número 01/2011 en dichos medios electrónicos.
