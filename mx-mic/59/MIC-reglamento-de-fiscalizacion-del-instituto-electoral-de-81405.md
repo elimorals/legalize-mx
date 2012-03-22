@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-fiscalizacion-del-instituto-electoral-de-81405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-16"
-last_updated: "2011-05-16"
+last_updated: "2012-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE FISCALIZACION DEL INSTITUTO ELECTORAL DE MICHOACAN
 
-REGLAMENTO DE FISCALIZACION DEL INSTITUTO ELECTORAL DEL ESTADO DE MICHOACAN
+REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2012.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 16 de mayo de 2011.
 
@@ -1229,7 +1229,9 @@ Control de folios de recibos de reconocimientos por REPAP1
 
 actividades políticas
 
-Detalle de montos a cada persona otorgados de (sic) REPAP2
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2012)</small>
+
+Detalle de montos otorgados a cada persona de REPAP2
 
 reconocimiento por actividades políticas
 
@@ -1252,6 +1254,10 @@ Inventario de activo fijo IAF
 Carta en la que expresa no haber recibido financiamiento CARTA
 
 según lo establecido en el artículo 48-Bis del Código
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2012)</small>
+
+Recibo de Ingresos en Efectivo RIEF
 
 En caso de que algún formato no sea aplicable, éste deberá señalarse o presentarse con la leyenda de NO APLICABLE, o en su defecto el Órgano Interno deberá comunicar por oficio a la Comisión cuando no se aplique alguno de los formatos., (sic)
 
@@ -1469,7 +1475,9 @@ Durante el proceso electoral todos los días son hábiles.
 
 Los sistemas y registros contables de los partidos políticos, utilizarán el siguiente Catálogo de Cuentas, Guía Contabilizadora y Clasificador por Objeto y Tipo de Gasto.
 
-> <small>N. DE E. VEASE TABLA EN LA TERCERA SECCION DEL P. O. DE 16 DE MAYO DE 2011, PAGINAS DE LA 24 A LA 62.</small>
+> <small>N. DE E. VEÁSE TABLA EN LA TERCERA SECCIÓN DEL P. O. DE 16 DE MAYO DE 2011, PÁGINAS DE LA 24 A LA 62.</small>
+
+> <small>N. DE E. VEÁSE ADICIÓN AL CATÁLOGO DE CUENTAS, EN LA QUINTA SECCIÓN DEL P.O. DE 22 DE MARZO DE 2012, PÁGINAS DE LA 7 A LA 14.</small>
 
 ## TÍTULO DÉCIMO TERCERO (SIC)
 
@@ -1688,3 +1696,15 @@ LIC. RAMÓN HERNÁNDEZ REYES
 SECRETARIO GENERAL
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2012.
+
+## TRANSITORIOS
+
+PRIMERO.- Sométase a la consideración y aprobación, en su caso, del Consejo General del Instituto Electoral de Michoacán.
+
+SEGUNDO.- Una vez aprobado por el Consejo General del Instituto Electoral de Michoacán, entrarán en vigor las adiciones al Reglamento de Fiscalización del presente Acuerdo.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán, Ocampo.
