@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-los-servicios-de-vialidad-transito-1326
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-03"
-last_updated: "2011-04-30"
+last_updated: "2012-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "JAL"
 ---
 # REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
+REGLAMENTO DE LA LEY DE LOS SERVICIOS DE VIALIDAD, TRÁNSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 3 de diciembre de 1998.
 
@@ -796,7 +796,7 @@ I. Ligeros: Aquellos que tienen una capacidad de carga de hasta tres mil kilogra
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2003)</small>
 
-II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobus, minibús, midibus, volteo, revolvedora, pipa, estacas, tubular, tórton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
+II. Pesados: Aquellos que tienen una capacidad de carga superior a los tres mil kilogramos de peso correspondiendo a esta categoría los siguientes: autobús, minibús, midibus, volteo, revolvedora, pipa, estacas, tubular, torton, trailer, remolque y doble semi-remolque, trilladoras, trascabos, montacargas, grúas, vehículos agrícolas y camiones con remolque.
 
 Se entiende por peso bruto vehicular el peso real del vehículo expresado en kilogramos, sumado al de su máxima capacidad de carga conforme a las especificaciones del fabricante y al del tanque de combustible lleno a su capacidad.
 
@@ -1536,15 +1536,25 @@ La Secretaría en el ámbito de su jurisdicción llevará a cabo las acciones qu
 
 Para los efectos del párrafo anterior, las Normas Generales de Carácter Técnico que al efecto se expidan, contendrán en su texto los requisitos y condiciones para el debido cumplimiento de la política de salud ambiental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2012)</small>
+
 ###### Artículo 141.
 
-Los vehículos automotores registrados en el Estado deberán ser sometidos cuando menos una vez al año a la verificación de emisores contaminantes de humo, gases tóxicos y ruidos, y contar con la constancia vigente adherida en cualquier parte visible del vehículo.
+Los vehículos automotores registrados en el Estado deberán ser sometidos, cuando menos, una vez al año a la verificación de emisores contaminantes de humo, gases tóxicos y ruidos, y contar con el holograma vigente adherida (sic) en cualquier parte visible del vehículo.
 
 Cuando el vehículo sea de los que prestan un servicio público de transporte, el periodo de revisión en su mantenimiento será cuando menos dos veces por año.
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2012)</small>
+
+Tanto los vehículos particulares, como aquéllos de uso intensivo, deberán sujetarse al calendario de verificación vehicular, de conformidad con las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2012)</small>
+
 ###### Artículo 142.
 
-A efecto de cumplir lo anterior, la Secretaría podrá retirar de la circulación los vehículos que ostensiblemente emitan contaminación de cualquier tipo, procediendo a enviarlos al centro de verificación que al efecto sea designado por la misma, y una vez subsanada la causa por la cual fue retirado, tomando en cuenta la opinión de la Comisión Estatal de Ecología, la Secretaría deberá permitir que el vehículo pueda circular nuevamente.
+La Secretaría podrá retirar de la vía pública los vehículos que visiblemente emitan contaminación de cualquier tipo, procediendo a enviarlos a un depósito público, poniéndolos a disposición de la Secretaria de Medio Ambiente para el Desarrollo Sustentable. Para el retorno a la circulación de dichos vehículos, se estará a lo establecido en el ordenamiento reglamentario en materia de prevención y control de emisiones contaminantes por fuentes móviles a través de la afinación controlada.
+
+Si dentro del plazo establecido en el artículo 168 de la Ley se concluye de manera satisfactoria el procedimiento de verificación de emisiones de contaminantes, la autoridad ambiental citada en el párrafo que antecede deberá notificarlo a la Secretaría dentro de los veinte días hábiles siguientes, para efectos de la condonación de la multa a que se refiere dicho artículo.
 
 ## TÍTULO QUINTO. DEL REGISTRO ESTATAL
 
@@ -1929,3 +1939,7 @@ TERCERO. El pago de derechos a que hace referencia el artículo 161 Bis del pres
 P.O. 30 DE ABRIL DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 22 DE MARZO DE 2012.
+
+ÚNICO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
