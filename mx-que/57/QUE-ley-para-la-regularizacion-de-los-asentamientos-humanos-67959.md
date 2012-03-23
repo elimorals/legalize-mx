@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-regularizacion-de-los-asentamientos-humanos-67959"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2009-03-20"
+last_updated: "2012-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA LA REGULARIZACIÓN DE LOS ASENTAMIENTOS HUMANOS IRREGULARES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DE LA LEY PUBLICADA EN EL P.O. DE 23 DE MARZO DE 2012, SE AMPLÍA, POR UN PERÍODO DE SEIS MESES, LA VIGENCIA DEL PRESENTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -502,3 +504,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2012.
+
+Primero. La presente Ley entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La sombra de Arteaga".
+
+Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Tercero. Aquellos procedimientos de regularización, que se encuentren pendientes de concluir al finalizar la vigencia de la Ley para la Regularización de Asentamientos Humanos Irregulares del Estado de Querétaro, cualquiera que sea el estado en que se encuentren, seguirán su trámite hasta su conclusión conforme a las disposiciones de dicha Ley.
