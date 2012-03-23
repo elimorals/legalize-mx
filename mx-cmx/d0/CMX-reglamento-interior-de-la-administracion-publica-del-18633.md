@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2012-03-01"
+last_updated: "2012-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -548,7 +548,9 @@ XIV. A la Contraloría General:
 
 5.1. Direcciones de Contralorías Internas en Entidades, “A”, y “B”.
 
-5.2. Dirección de Comisarios y Control de Auditores Externos.
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2012)</small>
+
+5.2. Dirección Ejecutiva de Comisarios y Control de Auditores Externos
 
 > <small>(ADICIONADO, G.O. 30 DE MARZO DE 2009)</small>
 
@@ -7664,33 +7666,57 @@ XXV. Expedir previo cotejo, copias certificadas de los documentos que obran en s
 
 XXVI. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2012)</small>
 
 ###### Artículo 110-B.
 
-Dirección de Comisarios y Control de Auditores Externos
+Dirección Ejecutiva de Comisarios y Control de Auditores Externos.
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 I. Vigilar, en coordinación con las Contralorías Internas, la instrumentación de las medidas preventivas y correctivas derivadas de las evaluaciones que se realicen en las Entidades;
 
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 II. Expedir reportes especiales para informar al titular de la Dirección General de Contralorías Internas en Entidades y al titular de la Unidad Administrativa competente, sobre el ejercicio de la gestión pública de las Entidades paraestatales de la Administración Pública del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 III. Opinar sobre la viabilidad de los proyectos de normas de contabilidad gubernamental y de control que elaboren las Entidades en materia de programación, presupuestación, recursos humanos, materiales, financieros, contratación de deuda y sobre el manejo de fondos y valores, y en su caso, participar en Órganos Colegiados para el análisis de proyectos normativos relativos a estas materias;
 
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 IV. Participar con el carácter de comisario en los Consejos de Administración o Directivos, Órganos de Gobierno o equivalentes de las Entidades de la Administración Pública del Distrito Federal y proponer las recomendaciones correspondientes para una mejor gestión administrativa;
 
-V. Vigilar la debida integración y funcionamiento de los Consejos de Administración y Directivos, Órganos de Gobierno o equivalentes de las entidades de la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2012)</small>
+
+V. Vigilar la debida integración y funcionamiento de los Consejos de Administración y Directivos, Órganos de Gobierno o equivalentes de las entidades de la Administración Pública del Distrito Federal, y en su caso, de los comités y subcomités a los que asista;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 VI. Coordinar la asistencia y participación como representante de la Contraloría General del Distrito Federal, en los diversos comités, subcomités y demás cuerpos colegiados instalados en las Entidades de la Administración Pública del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 VII. Evaluar las propuestas de los auditores externos y presentar los resultados al titular de la Dirección General de Contralorías Internas en Entidades para la consideración y en su caso designación;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 VIII. Dar seguimiento sistemático a las auditorías, revisiones y fiscalización para los que fueron contratados los auditores externos;
 
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 IX. Conocer, revisar y emitir opinión respecto de los trabajos realizados por los auditores externos relativos a la revisión y fiscalización en las Entidades de la Administración Pública del Distrito Federal, designados por el titular de la Dirección General de Contralorías Internas en Entidades;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 X. Rendir anualmente informes a los Consejos de Administración o Directivos y Juntas de Gobierno de las Entidades en que participe como Comisario, respecto del desempeño de la Entidad;
 
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
+
 XI. Vigilar y dar seguimiento a los procesos de creación, extinción, desincorporación, incorporación, fusión, o escisión de las entidades paraestatales y, en su caso, requerir a las Dependencias, Unidades Administrativas e instancias que intervengan, la información necesaria para verificar el cumplimiento de sus funciones y recomendar las medidas para que estos procesos se realicen con estricto apego a las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 30 DE ABRIL DE 2008)</small>
 
 XII. Las demás que le instruya el titular de la Dirección General de Contralorías Internas en Entidades; las que expresamente le atribuyan este reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
@@ -13496,17 +13522,25 @@ V. Planear, organizar, controlar y prestar los servicios hidráulicos, y los pro
 
 VI.- Las demás que le confieran otras disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO, G.O. 5 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE MARZO DE 2012)</small>
 
 ###### Artículo 200.
 
-Para el despacho de los asuntos que competan al Sistema de Aguas de la Ciudad de México se le adscriben:
+Para el despacho de los asuntos que competen al Sistema de Aguas de la Ciudad de México se le adscriben:
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
 I. La Dirección Ejecutiva de Operación;
 
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
 II. La Dirección Ejecutiva de Planeación y Construcción;
 
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
+
 III. La Dirección Ejecutiva de Servicios a Usuarios;
+
+> <small>(ADICIONADA, G.O. 5 DE AGOSTO DE 2008)</small>
 
 IV. La Dirección Jurídica; y (sic)
 
@@ -13514,9 +13548,13 @@ IV. La Dirección Jurídica; y (sic)
 
 V. La Dirección de Atención a Usuarios,
 
-> <small>(ADICIONADA, G.O. 1 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, G.O. 23 DE MARZO DE 2012)</small>
 
-VI. Las demás unidades administrativas que sean necesarias para el desempeño de sus atribuciones, y les sean autorizadas, quienes tendrán las funciones que señalen los manuales administrativos correspondientes.
+VI. La Dirección de Sectorización y Automatización,
+
+> <small>(ADICIONADA, G.O. 23 DE MARZO DE 2012)</small>
+
+VII. Las demás unidades administrativas que sean necesarias para el desempeño de sus atribuciones, y les sean autorizadas, quienes tendrán las funciones que señalen los manuales administrativos correspondientes.
 
 > <small>(ADICIONADO Y REUBICADO, G.O. 5 DE AGOSTO DE 2008)</small>
 
@@ -13681,6 +13719,46 @@ XII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquel
 XIII. Expedir copias cerificadas (sic), previo cotejo de los originales de los documentos que obren en los expedientes integrados en la Dirección Jurídica y Dirección General para el desarrollo de las funciones encomendadas; y
 
 XIV. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las funciones anteriores y que le encomiende el Director General.
+
+> <small>(ADICIONADO, G.O. 23 DE MARZO DE 2012)</small>
+
+###### Artículo 204 Bis.
+
+La Dirección de Sectorización y Automatización tiene las siguientes atribuciones:
+
+I. Administrar y establecer los programas de obra pública para mantener los sectores hidrométricos de la red de distribución de agua potable de la Ciudad de México;
+
+II. Instruir exista el hardware y software para el mantenimiento de las estaciones de automatización y medición del sistema hidráulico de agua potable, drenaje, tratamiento y reuso;
+
+III. Analizar los reportes estadísticos de la medición de variables hidráulicas en las diferentes estaciones hidrométricas e instalaciones de agua potable y drenaje para desarrollar e implementar los sistemas de información necesarios para el apoyo de las funciones del Sistema de Aguas de la Ciudad de México.
+
+IV. Asegurar con sus áreas respectivas, la oportuna integración de los recursos financieros y materiales requeridos para ejecutar las obras Sectorización (sic), vigilando que los trabajos de las compañías contratistas se desarrollen en estricto cumplimiento a la normatividad en materia de obra pública.
+
+V. Diseñar los procesos licitatorios de obra pública destinados a mantener los Sectores Hidrométricos de la red de distribución de agua potable de la Ciudad de México.
+
+VI. Autorizar las actividades relacionadas con las funciones administrativas inherentes a las obras en ejecución tales como revisión y formulación de estimaciones, integración de la documentación para inicio de contrato, a fin de que cumplan con los lineamientos establecidos con la normatividad vigente.
+
+VII. Supervisar sean autorizadas las estimaciones para trámite administrativo en la forma, términos y plazos establecidos en las disposiciones legales.
+
+VIII. Coordinar el vinculo con las distintas Direcciones del Sistema de Aguas de la Ciudad de México y con las Delegaciones responsables de elaborar proyectos de agua potable o trabajos de mantenimiento mayores en la red, con objeto de integrarlos correctamente al funcionamiento sectorizado de la red.
+
+IX. Coordinar con las unidades administrativas Sistema (sic) de Aguas de la Ciudad de México, que correspondan, las acciones para mantener una supervisión constante y un registro histórico de los Sectores Hidrométricos que se encuentren en operación.
+
+X. Coordinar y supervisar que se mantengan permanentemente actualizados el hardware y software de esta unidad administrativa, para la administración de las actividades operativas de los recursos con que se cuentan.
+
+XI. Supervisar la facturación de las entregas de agua en bloque que la Gerencia Regional de Agua del Valle de México y Sistema Cutzamala entrega al Gobierno del Distrito Federal, previa medición de los caudales.
+
+XII. Determinar y coordinar con la Subdirección de Macromedición y Control de Redes, las políticas y lineamientos para establecer los volúmenes de flujo de agua en las redes del sistema de agua potable, así como los sistemas de información para la transmisión y manejo de los datos generados para la operatividad de los servicios de agua potable, drenaje y tratamiento.
+
+XIII. Establecer los diferentes mecanismos para supervisar y actualizar los sistemas que emitan conocer en tiempo real los niveles de precipitación pluvial, así como en vasos reguladores, cauces naturales y artificiales, lumbreras de drenaje profundo y presiones en las redes de distribución de agua potable.
+
+XIV. Celebrar, otorgar y suscribir los contratos, convenios, y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones, así como para revocar o rescindirlos con apego a la normatividad que corresponda, según sea el caso, expedir y certificar copias de los documentos que obren en los archivos de las Unidades Administrativas a su cargo y de aquellos documentos que expidan en el ejercicio de sus funciones los servidores públicos que les estén adscritos.
+
+XV. Suscribir los documentos relativos al ejercicio de sus atribuciones, y aquellos que le sean señalados por delegación, o le correspondan por suplencia, y las demás funciones que se deriven de las normas y disposiciones legales aplicables.
+
+XVI. Atender los requerimientos de información de autoridades fiscales, administrativas, de los órganos internos y externos de control, y de cualquier otra autoridad que conforme a la normatividad le corresponda; así como presentar los informes que en el ámbito de sus atribuciones les sean solicitados.
+
+XVII. Las demás que señalen las disposiciones normativas y, en general, todas aquellas funciones relativas al cumplimiento de los objetivos del Sistema de Aguas de la Ciudad de México, que sean afines con las atribuciones anteriores y que le encomiende el Director General.
 
 > <small>N. DE E. LOS ARTÍCULOS QUE INTEGRABAN ESTA SECCIÓN FUERON REUBICADOS A LA SECCIÓN VI, G.O. 16 DE JULIO DE 2009.</small>
 
@@ -14675,3 +14753,9 @@ G.O. 1 DE MARZO DE 2012.
 PRIMERO. - Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 23 DE MARZO DE 2012.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
