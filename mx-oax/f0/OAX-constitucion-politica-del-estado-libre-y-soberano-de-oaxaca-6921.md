@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2011-12-17"
+last_updated: "2012-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2012.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -33,7 +33,7 @@ Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, 
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 ## TITULO PRIMERO. Principios Constitucionales, Garantías y Derechos Humanos
 
@@ -85,7 +85,7 @@ VI. Las leyes determinarán la manera en que los sujetos obligados deberán hace
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 4°.
 
@@ -373,7 +373,7 @@ En toda orden de cateo, que sólo la autoridad judicial podrá expedir a solicit
 
 El Poder Judicial contará con jueces de garantías que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las victimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 15.
 
@@ -391,7 +391,7 @@ La operación de este sistema estará a cargo de instituciones, tribunales y aut
 
 Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la consignación y las que impongan las medidas. Estas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JUNIO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 16.
 
@@ -429,7 +429,7 @@ El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades
 
 La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz prestación de los servicios del Registro Civil y de otras instituciones vinculadas con dichos servicios a los pueblos y comunidades indígenas, así como las sanciones que procedan para el caso de incumplimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 17.
 
@@ -547,7 +547,7 @@ d) Se determinará la participación de la comunidad que coadyuvará, entre otro
 
 e) Los fondos de ayuda aportado por la Federación al Estado y Municipios deberá (sic) ser destinados exclusivamente a estos fines.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 22.
 
@@ -565,7 +565,7 @@ III. Contribuir para los gastos públicos de la Federación, del Estado y del Mu
 
 IV. Cooperar en la Campaña de Alfabetización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 ## TITULO SEGUNDO. De los Ciudadanos, de las Elecciones, de los Partidos Políticos, de los Organismos y de los Procesos Electorales
 
@@ -601,7 +601,7 @@ IV.- Dar la información verídica al Ejecutivo del Estado de las necesidades de
 
 V.- Formar parte del Ejército Nacional para la defensa del territorio, de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 24.
 
@@ -627,7 +627,7 @@ IV.- Alistarse en la guardia nacional para la defensa del territorio y de las in
 
 V.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a la que pertenecen como solidaridad moral a este fin, así como en caso de catástrofes, terremotos, inundaciones, incendios y otras causas consideradas de fuerza mayor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 25.
 
@@ -951,7 +951,7 @@ El Territorio del Estado de Oaxaca, geográficamente se conforma por ocho region
 
 ### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 29.
 
@@ -987,7 +987,7 @@ El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado p
 
 Los Diputados Propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hayan estado en ejercicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 33.
 
@@ -1019,7 +1019,7 @@ Esta base no se aplicará al partido político que por sus triunfos en distritos
 
 VI.- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 34.
 
@@ -1109,7 +1109,7 @@ Los diputados electos que cuenten con su constancia de mayoría y validez expedi
 
 Para tal efecto, deberán presentar dentro de los días siete a nueve de noviembre del año de la elección, ante el Oficial Mayor del Congreso del Estado, la constancia o resolución de referencia para su registro, toma de razón y entrega de la credencial de acceso a la sesión de instalación y toma de protesta, que tendrá verificativo el día trece de noviembre del año de la elección, en cuya fecha se hará la elección de los integrantes de la Mesa Directiva en los términos de la Ley Orgánica del Poder Legislativo y su Reglamento, empezando a fungir a partir del día quince de Noviembre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 42.
 
@@ -1133,11 +1133,11 @@ Esta sesión no tendrá más objeto que celebrar la apertura del período de ses
 
 El primer período de sesiones se destinará de preferencia a la discusión y resolución de los Presupuestos de Ingresos y Egresos del Estado y Presupuestos de Ingresos de los Municipios.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 45.
 
-El segundo período de sesiones se destinará de preferencia a la revisión y fiscalización de la Cuenta Pública del Estado y de los Municipios, relativas al año anterior.
+El segundo período de sesiones se destinará de preferencia a la dictaminación de la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, Órganos Autónomos y Municipios.
 
 ###### ARTICULO 46.
 
@@ -1163,7 +1163,7 @@ Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciat
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 50.
 
@@ -1281,11 +1281,11 @@ Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplim
 
 (Fecha y firma del Gobernador y el Secretario del Despacho)".
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 #### SECCION CUARTA. De las Facultades del Congreso del Estado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 59.
 
@@ -1383,9 +1383,19 @@ XXI. A iniciativa del Ejecutivo analizar, discutir y decretar anualmente en prim
 
 XXI Bis. Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de contratos para prestación de servicios a largo plazo, que tengan por objeto crear infraestructura pública, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
 
-XXII. Dictaminar anualmente la Cuenta Pública del Estado; para revisar y fiscalizar ésta, la de los Municipios, así como la actuación de los órganos autónomos, y de cualquier persona física o moral que administre recursos públicos, el Congreso del Estado contará con el apoyo de la Auditoria Superior del Estado;
+XXII. Dictaminar anualmente la Cuenta Pública de los poderes del Estado, Órganos Autónomos y Municipios; para revisar y fiscalizar ésta, así como la actuación de cualquier persona física o moral que administre recursos públicos, el Congreso del Estado contará con el apoyo de la Auditoria Superior del Estado.
+
+En el año que concluya el mandato del Poder Ejecutivo del Estado y de los Municipios, la presentarán al Congreso conforme a los plazos, formas y procedimientos establecidos en la Ley respectiva.
+
+Sólo se podrá ampliar el plazo de presentación cuando se presente solicitud para que sea justificada, a juicio del Congreso del Estado; a condición de que sea presentada por lo menos con quince días de anticipación a la conclusión del plazo, para lo cual deberá comparecer, ante el pleno, el secretario de Finanzas o bien, el Presidente Municipal del Ayuntamiento respectivo, según se trate de Cuenta Pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, la Auditoría Superior contará con el mismo tiempo adicional para la presentación del informe de resultado de la revisión y fiscalización de la Cuenta Pública.
+
+Tratándose de la Cuenta Pública de los poderes del Estado, órganos autónomos, entes públicos estatales, y todos aquellos entes estatales que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas y Secretaría de la Contraloría y Transparencia Gubernamental, a más tardar el 31 de marzo la información correspondiente al año inmediato anterior y, demás información que estas soliciten conforme a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
+
+Con base en el análisis del contenido de la Cuenta Pública y las conclusiones técnicas del informe de resultados que le presente la Auditoría Superior del Estado a más tardar el veinte de febrero del año siguiente al de su presentación, el Congreso concluirá la revisión y el dictamen de la Cuenta Pública del Estado a más tardar el quince de agosto del año siguiente al de su presentación, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la entidad de fiscalización seguirán su curso en términos de la normatividad aplicable.
+
+En el caso de las Cuentas Públicas de los Municipios se observará el párrafo anterior, con la salvedad de que presentarán la correspondiente al año anterior a más tardar el ultimo día hábil del mes de febrero, el informe de resultados de la Auditoría Superior del Estado se presentará el último día hábil del mes de noviembre y su dictaminación se realizará a más tardar al termino del segundo periodo ordinario de sesiones.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -1397,7 +1407,7 @@ XXIV. Legislar acerca de la administración, conservación y enajenación de los
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXV. Dar bases generales conforme a las cuales el Ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
+XXV. Dar bases generales conforme a las cuales el ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1649,15 +1659,23 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 #### SECCION SEXTA. De la Auditoría Superior del Estado de Oaxaca
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2012)</small>
 
-ARTICULO 65 BIS. La Auditoría Superior del Estado de Oaxaca es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales.
+ARTICULO 65 BIS. La Auditoría Superior del Estado de Oaxaca es el órgano técnico del congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. La revisión y fiscalización se constreñirá a la Cuenta Pública del año inmediato anterior y las situaciones excepcionales que prevea la Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
 
 En el desempeño de sus funciones, contará con plena autonomía técnica y de gestión para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
 El presupuesto requerido para el funcionamiento de la Auditoría Superior será determinado por el Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
 La revisión de la cuenta pública tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto aprobado, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas. Los procedimientos para llevar a cabo su cometido estarán determinados por la ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
 
 La Auditoría Superior del Estado tendrá las siguientes atribuciones:
 
@@ -1667,23 +1685,35 @@ Sin perjuicio de lo anterior, en situaciones excepcionales que determine la ley,
 
 Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+
+Las entidades fiscalizables a que se refiere el primer párrafo de esta fracción deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables de carácter estatal, así como resguardar la documentación comprobatoria, expedientes y libros contables.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+
+El hecho de no presentar las cuentas públicas, no impide el ejercicio de las atribuciones de revisión, fiscalización y sanción de la Auditoría Superior del Estado contenidas en esta Constitución y en la Ley respectiva.
+
 II. Fiscalizar los recursos provenientes de las aportaciones que en términos de la Constitución Política de los Estados Unidos Mexicanos y de los Convenios de Coordinación Fiscal, administren y ejerzan los entes públicos fiscalizables mencionados en la fracción anterior, conforme a lo establecido en la ley;
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
 IV. Determinar los daños y perjuicios que afecten a las Haciendas Públicas Estatales o Municipales al patrimonio de los entes públicos estatales y municipales, a fin de fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución y presentar las denuncias y querellas necesarias; y (sic)
 
-V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública del Estado, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
+
+V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
 VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
+
 Las dependencias y entidades de los Poderes del Estado, los Ayuntamientos, los órganos públicos autónomos y los particulares que manejen recursos públicos, proporcionarán los informes y documentación que les requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2012)</small>
 
-El titular de la Auditoria Superior del Estado será electo por el Congreso, con el voto de las dos terceras partes de sus miembros presentes. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que la ley señale con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución. En los mismos términos serán electos dos subauditores cuyas funciones serán determinadas por la ley.
+El titular de la Auditoría Superior del Estado será electo por el Congreso, con el voto de las dos terceras partes de sus miembros presentes. Para ser Auditor se requerirá contar con experiencia de cinco años en materia de control, auditoría gubernamental y de responsabilidades. La ley determinará el procedimiento para su elección. Durará en su encargo siete años pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido exclusivamente por las causas graves que la ley señala con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución. En los mismos términos serán electos los subauditores. La ley determinará el procedimiento para su elección, requisitos y funciones.
 
 ### CAPITULO III. Del Poder Ejecutivo
 
@@ -1699,7 +1729,7 @@ El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se 
 
 La elección de Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Ley Electoral.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 1939)</small>
 
 ###### ARTICULO 68.
 
@@ -1747,7 +1777,7 @@ Las faltas temporales del Gobernador del Estado, ya sea con motivo de licencia e
 
 Las faltas temporales del Gobernador del Estado que excedan de treinta días serán cubiertas por un Gobernador interino que por mayoría absoluta de votos nombrará la Legislatura o en su receso la Diputación Permanente, a propuesta en terna del Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 72.
 
@@ -1943,6 +1973,10 @@ IV. Presentar al Congreso en los primeros cinco días de diciembre de cada año 
 
 V. Presentar a la Legislatura a más tardar el 30 de abril de cada año, la Cuenta Pública del Estado, correspondiente al año inmediato anterior;
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+
+En el año que concluya su mandato, la presentará al Congreso conforme a los plazos y procedimientos que se establezcan legalmente;
+
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales, sin perjuicio de remitir a la propia Legislatura las iniciativas que presenten los Ayuntamientos para que se decreten las tasas, cuotas y tarifas de los impuestos, derechos y contribuciones de mejoras a sus respectivos Municipios;
@@ -2077,7 +2111,7 @@ Se exceptúan de lo dispuesto en las fracciones XII y XIII, la comunicación de 
 
 Para el despacho de los asuntos que son a cargo del Poder Ejecutivo del Estado, habrá los secretarios y demás funcionarios que las necesidades de la Administración Pública demanden, en los términos de la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 83.
 
@@ -2105,7 +2139,7 @@ Para auxiliar en sus funciones a los Secretarios y sustituirlos en sus faltas te
 
 (DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 87.
 
@@ -2179,7 +2213,7 @@ Sus miembros serán nombrados por el Gobernador.
 
 El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sector paraestatal, no podrán aceptar durante su ejercicio, comisión onerosa alguna de los particulares, de las corporaciones políticas o civiles, como tampoco aquellas que pudiesen encomendarles las instituciones religiosas, aún cuando fueren de carácter gratuito o de distinción. El desacato a esta disposición traerá aparejadas la separación inmediata del cargo y las responsabilidades que establezca la ley de la materia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 #### SECCION CUARTA. De la Procuraduría General de Justicia del Estado
 
@@ -2407,23 +2441,23 @@ V. Substanciar el juicio para la protección de los derechos humanos, por incump
 
 VI. Solventar recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de esta Constitución.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 #### SECCION TERCERA. De los Jueces de Primera Instancia
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 107.
 
 Habrá Jueces de Primera Instancia y Jurados en todas las cabeceras de distrito judicial.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 129], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 108.
 
 Para ser Juez de Primera Instancia, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 130], P.O. 8 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 109.
 
@@ -2475,19 +2509,23 @@ IV. El Tribunal Estatal Electoral podrá decretar la nulidad de una elección po
 
 V. El Tribunal Estatal Electoral emitirá, en su caso, la Declaratoria de Revocación de Mandato de Gobernador del Estado, en los términos de esta Constitución y las Leyes; y
 
-VI.- Las demás atribuciones que le confieran esta Constitución y la Ley.
+VI. Las demás atribuciones que le confieran esta Constitución y la Ley.
 
 B. El Tribunal de Fiscalización del Poder Judicial del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de fiscalización y rendición de cuentas, y tendrá las siguientes atribuciones:
 
-I. Conocer de las controversias suscitadas por resoluciones que emita la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
 
-II. Resolver las impugnaciones respecto a la aprobación de la Cuenta Pública del Estado;
+I. Conocer y resolver mediante juicio las controversias suscitadas por resoluciones sancionatorias que emita la Auditoría Superior del Estado;
 
-III. Resolver las impugnaciones respecto a la aprobación de las Cuentas Públicas de los Municipios;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
 
-IV. Conocer de las inobservancias en las que pueda incurrir la Auditoría Superior del Estado en el ámbito de sus facultades; y
+II. Una vez que se haya presentado el informe de Resultados que establece la ley, conocer y resolver mediante juicio las controversias que se susciten derivadas del procedimiento de revisión y fiscalización de las Cuentas Públicas Estatal y Municipales;
 
-V. Las demás atribuciones que le confieran esta Constitución y la ley.
+III. (DEROGADA, P.O. 23 DE MARZO DE 2012)
+
+IV. (DEROGADA, P.O. 23 DE MARZO DE 2012)
+
+V. (DEROGADA, P.O. 23 DE MARZO DE 2012)
 
 C. El Tribunal de lo Contencioso Administrativo, que impartirá la Justicia Administrativa y tendrá a su cargo resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la ley establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
 
@@ -2587,6 +2625,14 @@ Los Ayuntamientos en el ámbito de sus competencias, propondrán a la Legislatur
 
 La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 138 de esta Constitución. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+
+Los ayuntamientos por conducto del Presidente Municipal, presentarán al Congreso del Estado la Cuenta Pública del año anterior a más tardar el ultimo día hábil del mes de febrero, así mismo, entregarán a la Auditoría Superior del Estado los informes y demás información que le sean solicitados de acuerdo a lo establecido en las leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
+
+En el año que concluya su mandato, la presentarán al Congreso conforme a los plazos y procedimientos que se establezcan legalmente.
+
 III.- Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
 a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales.
@@ -2651,7 +2697,7 @@ f).- Las demás que tiendan a promover el bienestar y progreso de sus respectiva
 
 VI.- Los conflictos que se susciten entre los diversos Municipios del Estado, serán resueltos por convenios que éstos celebren, con aprobación del Congreso Local. Cuando dichos conflictos tengan carácter contencioso, serán resueltos por el Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 VII.- La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos de la Ley de Seguridad Pública y reglamentos correspondientes. Aquella acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
@@ -2663,7 +2709,7 @@ Para ser Alcalde se requiere haber cumplido veinticinco años antes del día de 
 
 Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 ## TITULO SEXTO. De los Órganos Autónomos del Estado
 
@@ -2783,7 +2829,7 @@ Las leyes determinarán los casos y las circunstancias en los que se deban sanci
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 117.
 
@@ -2805,7 +2851,7 @@ Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, ap
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 118.
 
@@ -2899,7 +2945,7 @@ Si el Ayuntamiento declara que ha lugar a proceder, el sujeto quedará a disposi
 
 Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 ## TITULO NOVENO. De las Adiciones y Reformas a la Constitución
 
@@ -2919,19 +2965,19 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación preescolar, primaria y secundaria es obligatoria.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda las necesidades del desarrollo integral del Estado.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y la justicia.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 En las comunidades indígenas bilingües la enseñanza tenderá a conservar el idioma español y las lenguas indígenas de la región.
 
@@ -2951,7 +2997,7 @@ IV.- Toda la educación que el Estado imparta será gratuita.
 
 V.- Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer Párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo de la Nación y el Estado; apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2004)</small>
 
 VI.- Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establece la Ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación preescolar, primaria, secundaria y normal, los particulares deberán:
 
@@ -2959,7 +3005,7 @@ a).- Impartir la educación con apego a los mismos fines y criterios que estable
 
 b).- Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 151], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 151], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 127.
 
@@ -3085,7 +3131,7 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 138.
 
@@ -3129,7 +3175,7 @@ Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hicierei
 
 Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezca las bases y procedimientos para tal efecto.
 
-(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
 
 ## TITULO DECIMO. De la Inviolabilidad de la Constitución
 
@@ -3175,7 +3221,7 @@ Dentro del término de quince días, a partir de la fecha en que entre en vigor 
 
 A falta de letrados, se nombrarán jueces y agentes del Ministerio Público, legos; pero para que los designados tomen posesión de su respectivo cargo, es necesario que acrediten previamente ante un jurado formado por tres letrados, nombrados por el Tribunal Superior de Justicia o por el Procurador, respectivamente, que tienen conocimientos aunque sólo sean elementales en Derecho Constitucional, Derecho Penal, Civil y Mercantil, y en los respectivos códigos de procedimientos.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
 ###### ARTICULO 5°.
 
@@ -3237,15 +3283,15 @@ Y lo comunico a usted para su conocimiento y demás efectos.
 
 SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
 
 P.O. 28 DE FEBRERO DE 1923.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 11 DE FEBRERO DE 1933.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 3 DE NOVIEMBRE DE 1934.
 
@@ -3253,13 +3299,13 @@ UNICO.- Este Decreto comenzará a surtir sus efectos el día 1o. de diciembre de
 
 P.O. 19 DE SEPTIEMBRE DE 1936.
 
-DECRETO NUM. 3, QUE REFORMA EL ARTICULO 81 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚM. 3, QUE REFORMA EL ARTÍCULO 81 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 19 DE SEPTIEMBRE DE 1936.
 
-DECRETO NUM. 4, QUE REFORMA LOS ARTICULOS 32, 33, Y 41 FRACCION l DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚM. 4, QUE REFORMA LOS ARTÍCULOS 32, 33, Y 41 FRACCIÓN l DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Primero.- Aprobada esta reforma constitucional, los Diputados locales que se designen en elección extraordinaria, durarán en su encargo dos años contados del 16 de septiembre de 1938 al 15 de septiembre de 1940.
 
@@ -3273,19 +3319,19 @@ UNICO.- Esta Ley (sic) comenzará a surtir sus efectos a partir de la fecha de s
 
 P.O. 29 DE OCTUBRE DE 1938.
 
-DECRETO No. 20, QUE ADICIONA LA FRACCION XXII DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 20, QUE ADICIONA LA FRACCIÓN XXII DEL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
-
-P.O. 29 DE OCTUBRE DE 1938.
-
-DECRETO No. 21, QUE REFORMA EL ARTICULO 34 DE LA CONSTITUCION POLITICA DEL ESTADO.
-
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 29 DE OCTUBRE DE 1938.
 
-DECRETO No. 22, QUE REFORMA EL ARTICULO 99 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 21, QUE REFORMA EL ARTÍCULO 34 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 29 DE OCTUBRE DE 1938.
+
+DECRETO No. 22, QUE REFORMA EL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Primero.- Los Concejales de número par que se designen en la elección ordinaria de diciembre de mil novecientos treinta y nueve, durarán en su encargo sólo el año de mil novecientos cuarenta.
 
@@ -3309,7 +3355,7 @@ UNICO.- El presente decreto comenzará a surtir sus efectos legales en la fecha 
 
 P.O. 22 DE MAYO DE 1943.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 17 DE JUNIO DE 1944.
 
@@ -3321,31 +3367,31 @@ UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publica
 
 P.O. 27 DE NOVIEMBRE DE 1948.
 
-DECRETO No. 80, QUE MODIFICA LOS ARTICULOS 81 FRACCION IX, 108 Y 155 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 80, QUE MODIFICA LOS ARTÍCULOS 81 FRACCIÓN IX, 108 Y 155 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Unico.- Este decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial.
 
 P.O. 27 DE NOVIEMBRE DE 1948.
 
-DECRETO No. 82, QUE MODIFICA LOS ARTICULOS 98 Y 101 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 82, QUE MODIFICA LOS ARTÍCULOS 98 Y 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 5 DE FEBRERO DE 1949.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 23 DE JULIO DE 1949.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 30 DE JULIO DE 1949.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 7 DE ENERO DE 1950.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 P.O. 4 DE NOVIEMBRE DE 1950.
 
@@ -3367,13 +3413,13 @@ Unico.- El presente decreto entrará en vigor a partir de la fecha de su publica
 
 P.O. 27 DE DICIEMBRE DE 1958.
 
-DECRETO No. 93, QUE ADICIONA EL ARTICULO 107 DE LA CONSTITUCION POLÍTICA DEL ESTADO.
+DECRETO No. 93, QUE ADICIONA EL ARTÍCULO 107 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Unico.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 27 DE DICIEMBRE DE 1958.
 
-DECRETO No. 94, QUE ADICIONA EL ARTICULO 22 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 94, QUE ADICIONA EL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 Unico.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -3421,13 +3467,13 @@ UNICO.- El presente decreto comenzará a surtir sus efectos a partir de la fecha
 
 P.O. 7 DE OCTUBRE DE 1978.
 
-DECRETO NUM. 78, QUE REFORMA LA FRACCION IV DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚM. 78, QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 UNICO.- El presente decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE OCTUBRE DE 1978.
 
-DECRETO NUM. 79, QUE REFORMA LOS ARTICULOS 3o., 23, 27, 31, 32, 33, 39, 72, 97, 98, 99, 100 y 101 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NÚM. 79, QUE REFORMA LOS ARTÍCULOS 3o., 23, 27, 31, 32, 33, 39, 72, 97, 98, 99, 100 y 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 UNICO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -3591,13 +3637,13 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 20 DE SEPTIEMBRE DE 1999.
 
-DECRETO No. 95, QUE REFORMA Y ADICIONA LOS ARTICULOS 6°, 50, 121, 122, 123, 124, 125, 127 Y 129 DE LA PRESENTE CONSTITUCION.
+DECRETO No. 95, QUE REFORMA Y ADICIONA LOS ARTÍCULOS 6°, 50, 121, 122, 123, 124, 125, 127 Y 129 DE LA PRESENTE CONSTITUCIÓN.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 20 DE SEPTIEMBRE DE 1999.
 
-DECRETO No. 109, QUE REFORMA Y ADICIONA LOS ARTICULOS 41, 42 Y 43 DE LA PRESENTE CONSTITUCION.
+DECRETO No. 109, QUE REFORMA Y ADICIONA LOS ARTÍCULOS 41, 42 Y 43 DE LA PRESENTE CONSTITUCIÓN.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3647,19 +3693,19 @@ UNICO. El presente Decreto entrará en vigor a partir del día siguiente de su p
 
 P.O. 20 DE MARZO DE 2004.
 
-DECRETO NO. 419 QUE REFORMA EL ART. 41 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+DECRETO NO. 419 QUE REFORMA EL ART. 41 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE MARZO DE 2004.
 
-DECRETO NO. 420 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+DECRETO NO. 420 QUE REFORMA EL ART. 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 P.O. 20 DE MARZO DE 2004.
 
-DECRETO NO. 421 QUE REFORMA EL ART. 59 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+DECRETO NO. 421 QUE REFORMA EL ART. 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
@@ -3675,7 +3721,7 @@ TERCERO.- El presupuesto Estatal incluirá los recursos necesarios para: la cons
 
 P.O. 3 DE ABRIL DE 2004.
 
-DECRETO NO. 428 QUE REFORMA EL ART. 42 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+DECRETO NO. 428 QUE REFORMA EL ART. 42 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3739,7 +3785,7 @@ TERCERO.- Hasta en tanto se expida la Ley Reglamentaria del artículo 114 de la 
 
 P.O. 10 DE NOVIEMBRE DE 2007.
 
-DECRETO No. 532 QUE ADICIONA UN PARRAFO AL ARTICULO 3° DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+DECRETO No. 532 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 3° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3763,13 +3809,13 @@ CUARTO.- Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 18 DE ABRIL DE 2008.
 
-DECRETO NUM. 572, POR EL QUE SE REFORMA LA FRACCION II DEL APARTADO A DEL ARTICULO 25 DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA.
+DECRETO NÚM. 572, POR EL QUE SE REFORMA LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 18 DE ABRIL DE 2008.
 
-DECRETO NUM. 573, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA.
+DECRETO NÚM. 573, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3841,7 +3887,7 @@ P.O. 15 DE ABRIL DE 2011.
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
 SEGUNDO. El Congreso del Estado expedirá las reformas legales correspondientes antes del quince de noviembre del año de la publicación del presente decreto.
 
@@ -3912,6 +3958,14 @@ P.O. 17 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Con base en el presente Decreto, expídase a los Magistrados Propietarios y Suplentes del Tribunal Estatal Electoral del Poder Judicial del Estado de Oaxaca, el nombramiento correspondiente en el que establezca el periodo de ocho años en el cargo, previsto en el artículo 111, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+P.O. 23 DE MARZO DE 2012.
+
+PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- En lo que se refiere a las Cuentas Públicas municipales del ejercicio 2011, deberán ser presentadas a más tardar el día quince de junio de 2012 prorrogándose el plazo de presentación del informe de resultados de la Auditoría Superior del Estado hasta el día treinta de noviembre del mismo año.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
