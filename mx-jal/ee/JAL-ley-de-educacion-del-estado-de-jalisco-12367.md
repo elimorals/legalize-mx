@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-01-10"
+last_updated: "2012-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 21 DE ABRIL Y 10 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 23923/LIX/11 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -359,15 +357,19 @@ XXXI. Difundir los derechos de las niñas, los niños y adolescentes, así como 
 
 XXXII.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos y su familia, el consumo de alimentos con alto valor nutricional, así como establecer lineamientos generales para evitar la venta de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas; y (sic)
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-XXXIII.- Elaborar los principios y las metodologías para fomentar la cultura educativa científica en la educación básica.
+XXXIII. Elaborar los principios y las metodologías para fomentar la cultura educativa científica en la educación básica.
 
-En el caso de que una obra científica o tecnológica sea reconocida como innovadora, coadyuvar y asesorar en el registro de la invención su procedimiento, metodología y patente, reconociendo la participación del profesor, el alumno y el plantel escolar, y
+En el caso de que una obra científica o tecnológica sea reconocida como innovadora, coadyuvar y asesorar en el registro de la invención, su procedimiento, metodología y patente, reconociendo la participación del profesor, el alumno y el plantel escolar;
 
-XXXIV.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+XXXIV. Desarrollar e implementar de manera coordinada con las autoridades competentes, instrumentos y programas de educación para la salud, la prevención de accidentes, así como para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo, y
+
+XXXV. Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 15.
 
@@ -391,6 +393,8 @@ Los ayuntamientos podrán sin perjuicio de la concurrencia de las autoridades ed
 
 Los Ayuntamientos podrán celebrar convenios entre sí y con el Ejecutivo del Estado, con el fin de coordinar o unificar sus actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTICULO 19.
 
 Corresponde específicamente a los Ayuntamientos las siguientes obligaciones:
@@ -409,9 +413,9 @@ VI.- Cooperar con las autoridades escolares en la atención de los servicios de 
 
 VII.- Establecer y sostener servicios de vigilancia escolar;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-VIII. Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los Consejos Escolares, la realización de programas de educación para la salud y mejoramiento del ambiente, así como de campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
+IX (SIC). Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los consejos escolares, la realización de programas de educación para la salud, la prevención de accidentes y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -1245,7 +1249,9 @@ Invariablemente todos los alumnos que reciban becas deberán contar con alta esc
 
 Adicionalmente los particulares podrán asignar medias y cuartos de becas para auxiliar al mayor número de becarios.
 
-No formarán parte del porcentaje mínimo las becas otorgadas por algún instituto escolar como prestación a sus trabajadores.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+No formarán parte del porcentaje mínimo las becas otorgadas por algún instituto escolar como prestación a sus trabajadores, ni las otorgadas a los familiares que tengan parentesco por consanguinidad, afinidad o civil, de los directivos, socios o dueños de los planteles escolares.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
@@ -1345,7 +1351,7 @@ V.- Propiciar el mejoramiento social y cultural de sus miembros, y
 
 VI.- Todo aquello que prevengan los reglamentos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2005)</small>
 
 ###### ARTICULO 130.
 
@@ -1593,7 +1599,9 @@ I.- Ostentarse como plantel incorporado sin estarlo;
 
 II.- Incumplir con lo dispuesto en el artículo 123 de esta Ley; o
 
-III.- Impartir la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica sin contar con la autorización correspondiente.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+III. Impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica sin contar con la autorización correspondiente.
 
 En los supuestos previstos en este artículo, además de las sanciones señaladas en el artículo 141 de esta Ley, podrá proceder a la clausura del plantel respectivo.
 
@@ -1661,11 +1669,11 @@ III.- Que de otorgarse no implique la continuación o consumación de actos u om
 
 IV.- Que no ocasione daños o perjuicios a los educandos o terceros en términos de esta Ley.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 ## TÍTULO OCTAVO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -1751,7 +1759,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL OCTAVIO ESPINOZA MARTÍNEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE SEPTIEMBRE DE 1998.
 
@@ -1825,7 +1833,7 @@ P.O. 8 DE JULIO DE 2004
 
 P.O. 24 DE JULIO DE 2004.
 
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 19 DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO.
+EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 P.O. 2 DE OCTUBRE DE 2004.
 
@@ -1843,7 +1851,7 @@ P.O. 4 DE DICIEMBRE DE 2004.
 
 P.O. 26 DE ABRIL DE 2005.
 
-DECRETO NUMERO 20901, QUE REFORMA ARTS. 111 Y 112
+DECRETO NÚMERO 20901, QUE REFORMA ARTS. 111 Y 112
 
 PRIMERO. Este decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -1851,7 +1859,7 @@ SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones nece
 
 P.O. 26 DE ABRIL DE 2005.
 
-DECRETO NUMERO 20902, QUE REFORMA FRACCIONES XXXI Y XXXII DEL ART. 14
+DECRETO NÚMERO 20902, QUE REFORMA FRACCIONES XXXI Y XXXII DEL ART. 14
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -1944,5 +1952,23 @@ UNICO. El presente decreto entrará en vigor a partir del día siguiente de su p
 P.O. 27 DE DICIEMBRE DE 2011.
 
 DECRETO NÚMERO 23923/LIX/11, POR EL QUE SE ADICIONA LA FRACCIÓN XXXIII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN, DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE MARZO DE 2012.
+
+DECRETO NÚMERO 23979/LIX/12, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 142 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE MARZO DE 2012.
+
+DECRETO NÚMERO 23980/LIX/12, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
+
+UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE MARZO DE 2012.
+
+DECRETO NÚMERO 23981/LIX/12, POR EL QUE SE ADICIONA UNA FRACCIÓN XXXIV Y SE RECORRE LA ACTUAL EN SU ORDEN DEL ARTÍCULO 14 Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
