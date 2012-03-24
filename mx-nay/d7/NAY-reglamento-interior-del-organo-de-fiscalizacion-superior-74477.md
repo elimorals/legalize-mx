@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2011-08-24"
+last_updated: "2012-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -63,93 +63,55 @@ A fin de asegurar la operación y el funcionamiento del Órgano, las cuestiones 
 
 DEL ÁMBITO DE COMPETENCIA Y ORGANIZACIÓN DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 5°.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Órgano de Fiscalización Superior estará a cargo del Auditor General y contará con las unidades administrativas que conforman su estructura, las cuales se organizaran de la siguiente manera:
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, el Órgano de Fiscalización Superior estará a cargo del Auditor General y contará con las unidades administrativas que conforman su estructura, las cuales se organizarán de la siguiente manera:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
-
-1. Auditor General.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+1. Auditoría General.
 
 1.1. Coordinación General de Planeación.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+1.1.1 Departamento de Supervisión de Auditorías Financieras y de Evaluación del Desempeño.
 
-1.1.1 Departamento de Supervisión de Auditorias Financieras y de Evaluación del Desempeño.
+1.1.2 Departamento de Supervisión de Auditorías de Obra Pública
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+1.1.3 Oficialía de Partes
 
-1.1.2 Departamento de Supervisión de Auditorias de Obra Pública.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
-
-1.1.3 Oficilia (sic) de Partes.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
-
-1.1.4 Archivo de Digitalización.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+1.1.4 Archivo y Digitalización
 
 1.2. Secretaría Ejecutiva.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
-
 1.3. Instituto de Capacitación y Desarrollo para la Fiscalización Superior.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
-
-1.4. Contraloria Interna.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+1.4. Contraloría Interna.
 
 1.5. Unidad de Enlace y Acceso a la Información.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
-
-1.6. Secretaria Particular.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+1.6. Secretaría Particular.
 
 1.7. Asesores.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2011)</small>
+2. Auditoría Especial de Gestión Financiera.
 
-1. 8 Unidad de Registro de Servidores Públicos Estatales y Municipales
+2.1. Dirección de Auditoría Financiera a Poderes del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+2.1.1. Departamento de Auditoría Financiera a Poderes del Estado.
 
-2. Auditoría Especial de Gestión Financiera y Evaluación del Desempeño.
+2.2. Dirección de Auditoría Financiera a Organismos Paraestatales y Autónomos.
 
-2.1. Dirección de Auditoria Financiera a Poderes del Estado.
+2.2.1. Departamento de Auditoría Financiera a Organismos Paraestatales y Autónomos.
 
-2.2.1 Departamento de Auditoria Financiera a Poderes del Estado.
+2.3. Dirección de Auditoría Financiera a Municipios.
 
-2.2 Dirección de Auditoria Financiera a Organismos Paraestatales y Autónomos.
+2.3.1. Departamento de Auditoría Financiera a Municipios A.
 
-2.2.1 Departamento de Auditoría Financiera a Organismos Paraestatales y Autónomos.
-
-2.3 Dirección de Auditoria Financiera a Municipios.
-
-2.3.1 Departamento de Auditoría Financiera a Municipios A.
-
-2.3.2 Departamento de Auditoría Financiera a Municipios B.
-
-2.4. La Dirección de Aditoria (sic) de Evaluación del Desempeño.
-
-2.4.1. Departamento de Auditoría de Evaluación del Desempeño a Poderes del Estado, Organismos Paraestatales y Autónomos.
-
-2.4.2. Departamento de Auditoría de Evaluación del Desempeño a Municipios.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+2.3.2. Departamento de Auditoría Financiera a Municipios B.
 
 3. Auditoría Especial de Infraestructura.
 
-3.1. Dirección de Auditoría a Ifraestructura (sic) Estatal y Municipal.
+3.1. Dirección de Auditoría a Infraestructura Estatal y Municipal.
 
 3.1.1. Departamento de Auditoría a Infraestructura Estatal.
 
@@ -157,35 +119,37 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 3.1.3. Departamento de Auditoría a Infraestructura Municipal B.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2011)</small>
+4. Auditoría Especial de Evaluación del Desempeño.
 
-4. Unidad Jurídica
+4.1 Dirección de Auditoría de Evaluación del Desempeño.
 
-4.1 Dirección de Responsabilidades
+4.1.1 Departamento de Auditoría de Evaluación del Desempeño a Poderes del Estado, Organismos Paraestatales y Autónomos.
 
-4.1.1 Departamento de Responsabilidades
+4.1.2 Departamento de Auditoría de Evaluación del Desempeño a Municipios.
 
-4.2 Dirección Jurídica y Consultiva
+5 Unidad Jurídica.
 
-4.2.1 Departamento Jurídico y Consultivo
+5.1 Dirección de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+5.1.1 Departamento de Responsabilidades.
 
-5. Unidad de Administración.
+5.1.2 Departamento de Situación Patrimonial, Registro de Servidores Públicos y Seguimiento de Sanciones.
 
-5.1. Departamento de Recursos Financieros.
+5.2 Dirección Jurídica y Consultiva.
 
-5.2. Departamento de Recursos Humanos.
+5.2.1 Departamento Jurídico y Consultivo.
 
-5.3. Departamento de Recursos Materiales.
+6. Unidad de Administración.
 
-5.4. Departamento de Informática.
+6.1.1 Departamento de Recursos Financieros.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+6.1.2 Departamento de Recursos Humanos.
+
+6.1.3 Departamento de Recursos Materiales.
+
+6.1.4 Departamento de Informática.
 
 El Órgano contará además con coordinadores, auditores, analistas, evaluadores, notificadores, consultores y con el demás personal auxiliar que las necesidades del servicio requieran y determine el Auditor General, de conformidad a la disponibilidad presupuestal; el funcionamiento organizacional y operativo se precisará en el Manual de Organización y de Procedimientos.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
 Todos los servidores públicos del Órgano de Fiscalización Superior, deberán observar el Código de Ética que al efecto expida el Auditor General.
 
@@ -349,13 +313,13 @@ XXXI. Compilar, ordenar y sistematizar la normatividad que emitan los gobiernos 
 
 XXXII. Las demás, que en el ámbito de su competencia les establezcan las disposiciones jurídicas aplicables o les encomiende el Auditor General.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 12.
 
-El Auditor Especial de Gestión Financiera y Evaluación del Desempeño tendrá las siguientes atribuciones específicas:
+El Auditor Especial de Gestión Financiera tendrá las siguientes atribuciones específicas:
 
-I.- Coordinar la ejecución de las auditorías de Gestión Financiera, al efecto de:
+I. Coordinar la ejecución de las auditorías de Gestión Financiera, al efecto de:
 
 a. Verificar que los ingresos, incluyendo los captados por financiamientos, correspondan a los estimados y que fueron obtenidos, registrados y controlados de conformidad con la normatividad aplicable, así como que los pagos por concepto de deuda pública se realizaron conforme a lo previsto y en cumplimiento de las disposiciones legales que rigen en la materia;
 
@@ -363,41 +327,23 @@ b. Constatar que los egresos se ajustaron a lo presupuestado, o en su caso, que 
 
 c. Practicar exámenes a los sistemas administrativos y mecanismos de control interno de las entidades fiscalizadas, para constatar que existen, se aplican y están correctamente diseñados para salvaguardar sus activos y recursos;
 
-d. Verificar que la contratación de servicios diversos, inversiones físicas, adquisiciones y arrendamientos, así como también que el uso, afectación, baja y destino final de bienes muebles e inmuebles, se hayan ejecutado conforme a las disposiciones legales vigentes;
+d. Verificar que la contratación de servicios diversos, inversiones fisicas, adquisiciones y arrendamientos, así como también que el uso, afectación, baja y destino final de bienes muebles e inmuebles, se hayan ejecutado conforme a las disposiciones legales vigentes;
 
 e. Constatar que las operaciones que realicen los sujetos fiscalizables sean acordes con sus leyes de ingresos en su caso y presupuestos de egresos, que se efectúen con apego a las leyes fiscales y demás disposiciones aplicables y que sean debidamente comprobadas;
 
 f. Realizar todas aquellas acciones que permitan verificar el cumplimiento de las disposiciones financieras aplicables a los sujetos fiscalizables;
 
-II.- Verificar que las auditorías a su cargo incluyan la revisión de los resultados presupuestales, programáticos, económicos y financieros consignados en la Cuenta Pública, así como el control y registro contable, patrimonial y presupuestal de los recursos, de acuerdo con las disposiciones aplicables;
+II. Verificar que las auditorías a su cargo incluyan la revisión de los resultados presupuestales, programáticos, económicos y financieros consignados en la Cuenta Pública, así como el control y registro contable, patrimonial y presupuestal de los recursos, de acuerdo con las disposiciones aplicables;
 
-III.- Comprobar si la recaudación, administración, manejo y aplicación de recursos públicos, actos, contratos, licitaciones, convenios, concesiones u operaciones que los sujetos fiscalizables celebraron o realizaron, se ajustaron a la legalidad o en su caso, no causaron daño o perjuicio en contra de la hacienda pública o de su patrimonio, así como que todos los actos de gobierno vinculados a la gestión financiera y el ejercicio de funciones y de atribuciones se hayan apegado a las disposiciones legales vigentes;
+III. Comprobar si la recaudación, administración, manejo y aplicación de recursos públicos, actos, contratos, licitaciones, convenios, concesiones u operaciones que los sujetos fiscalizables celebraron o realizaron, se ajustaron a la legalidad o en su caso, no causaron daño o perjuicio en contra de la hacienda pública o de su patrimonio, así como que todos los actos de gobierno vinculados a la gestión financiera y el ejercicio de funciones y de atribuciones se hayan apegado a las disposiciones legales vigentes;
 
-IV.- Analizar, procesar y evaluar la información documental relativa al ejercicio de los recursos federales transferidos al estado, mediante sistemas informáticos que permitan un control eficiente, ágil y oportuno de información para apoyar la toma de decisiones;
+IV. Analizar, procesar y evaluar la información documental relativa al ejercicio de los recursos· federales transferidos al estado, mediante sistemas informáticos que permitan un control eficiente, ágil y oportuno de información para apoyar la toma de decisiones;
 
-V.- Constatar que los recursos recaudados, captados y ejercidos, así como el manejo de los fondos se hayan registrado en la contabilidad de conformidad con la normatividad y la legislación aplicable;
+V. Constatar que los recursos recaudados, captados y ejercidos, así como el manejo de los fondos se hayan registrado en la contabilidad de conformidad con la normatividad y la legislación aplicable;
 
-V (SIC).- Coordinar la ejecución de auditorías de Evaluación del Desempeño, al efecto de: (sic)
+VI. Informar al Auditor General, sobre el avance en la solventación de las observaciones formuladas a los sujetos fiscalizables;
 
-VI.- Revisar en forma sistemática, organizada y objetiva, los programas gubernamentales, proyectos especiales, políticas sectoriales, así como el funcionamiento de los sujetos fiscalizables;
-
-a. Constatar que los bienes producidos y servicios ofrecidos por los sujetos fiscalizables correspondieron a los recursos erogados y cumplieron las metas propuestas con economía, eficacia, eficiencia y calidad;
-
-b. Constatar que los programas y proyectos sujetos a verificación, se hayan concebido y ejecutado considerando los efectos ambientales, conforme a las disposiciones legales aplicables;
-
-c. Examinar que los sujetos fiscalizables hayan establecido mecanismos adecuados para medir e informar sobre la eficacia de las acciones y la adopción de las prácticas más convenientes para la gestión pública;
-
-d. Evaluar si el impacto y la calidad de los programas, proyectos, políticas y acciones gubernamentales corresponde a lo planeado y si se cumplieron con las expectativas previstas en términos de costo-beneficio para la sociedad;
-
-e. Realizar todas aquellas acciones que permitan verificar el cumplimiento de los programas y objetivos de los sujetos fiscalizables;
-
-f. Promover que la rendición de cuentas por parte de los sujetos fiscalizables, incluya indicadores de gestión y de desempeño institucional que permitan evaluar los resultados, así como constatar la administración responsable, productiva y transparente de los recursos públicos;
-
-VIII (SIC).- Verificar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales conforme a los indicadores estratégicos aprobados en el presupuesto anual a efecto de constatar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y (sic)
-
-IX.- Informar al Auditor General, sobre el avance en la solventación de las observaciones formuladas a los sujetos fiscalizables;
-
-X.- Analizar y verificar que los Avances de Gestión Financiera sean presentados en términos de ley; dar seguimiento al cumplimiento de objetivos y metas de los programas en ellos reportados. En su caso, requerir a los sujetos fiscalizables la documentación complementaria, así como promover las acciones de responsabilidad a que haya lugar por la falta de presentación de dichos informes.
+VII. Analizar y verificar que los Avances de Gestión Financiera sean presentados en términos de ley; dar seguimiento al cumplimiento de objetivos y metas de los programas en ellos reportados. En su caso, requerir a los sujetos fiscalizables la documentación complementaria, así como promover las acciones de responsabilidad a que haya lugar por la falta de presentación de dichos informes.
 
 ###### ARTÍCULO 13.
 
@@ -419,15 +365,37 @@ VII. Analizar y dar seguimiento a los Avances de Gestión Financiera; y
 
 VIII. Coadyuvar con las demás unidades administrativas para complementar, conjugar y optimizar el proceso de fiscalización y realizar conjuntamente en su caso, auditorías integrales.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 14.
 
-(DEROGADO, P.O. 29 DE ENERO DE 2011)
+El Auditor Especial de Evaluación del Desempeño tendrá las siguientes atribuciones específicas:
+
+I. Coordinar la ejecución de auditorías de Evaluación del Desempeño, al efecto de:
+
+a. Revisar en forma sistemática, organizada y objetiva, los programas gubernamentales, proyectos especiales, políticas sectoriales, así como el funcionamiento de los sujetos fiscalizables;
+
+b. Constatar que los bienes producidos y servicios ofrecidos por los sujetos fiscalizables correspondieron a los recursos erogados y cumplieron las metas propuestas con economía, eficacia, eficiencia y calidad;
+
+c. Constatar que los programas y proyectos sujetos a verificación, se hayan concebido y ejecutado considerando los efectos ambientales, conforme a las disposiciones legales aplicables;
+
+d. Examinar que los sujetos fiscalizables hayan establecido mecanismos adecuados para medir e informar sobre la eficacia de las acciones y la adopción de las prácticas más convenientes para la gestión pública;
+
+e. Evaluar si el impacto y la calidad de los programas, proyectos, políticas y acciones gubernamentales corresponde a lo planeado y si se cumplieron con las expectativas previstas en términos de costo-beneficio para la sociedad;
+
+f. Realizar todas aquellas acciones que permitan verificar el cumplimiento de los programas y objetivos de los sujetos fiscalizables.
+
+II. Promover que la rendición de cuentas por parte de los sujetos fiscalizables, incluya indicadores de gestión y de desempeño institucional que permitan evaluar los resultados, así como constatar la administración responsable, productiva y transparente de los recursos públicos;
+
+III. Verificar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales conforme a los indicadores estratégicos aprobados en el presupuesto anual a efecto de constatar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y
+
+IV. Informar al Auditor General, sobre el avance en la solventación de las observaciones formuladas a los sujetos fiscalizables.
 
 ### CAPÍTULO V
 
 DE LAS ATRIBUCIONES DE LOS TITULARES DE LAS UNIDADES JURÍDICA Y DE ADMINISTRACIÓN.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 15.
 
@@ -455,9 +423,9 @@ X. En ausencia del Auditor General y los Auditores Especiales, suscribir los inf
 
 XI. Asesorar sobre la elaboración de los dictámenes técnicos para promover acciones derivadas de la fiscalización de la Cuenta Pública;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-XII. Presentar las denuncias correspondientes, derivadas de la fiscalización a las declaraciones de situación patrimonial de los servidores públicos que deban presentarlas ante el órgano, cuando así lo instruya el Auditor General; así como coadyuvar en la realización de investigaciones y auditorías que se realicen a las declaraciones patrimoniales;
+XII.- Presentar las denuncias correspondientes, derivadas de la fiscalización a las declaraciones de situación patrimonial de los servidores públicos que deban presentarlas ante el órgano, cuando así lo instruya el Auditor General;
 
 XIII. Presentar un informe trimestral al Auditor General sobre el estado que guarda el desahogo de procedimientos de responsabilidades;
 
@@ -469,9 +437,9 @@ XVI. Instruir, substanciar y resolver el procedimiento para el financiamiento de
 
 XVII. Instruir el recurso de reconsideración a que alude el Capítulo IX de la Ley del Órgano, y proponer al Auditor General el proyecto de resolución respectivo;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-XVIII. Llevar el registro de las sanciones administrativas y resarcitorias que sean determinadas e impuestas por el Órgano así como el seguimiento de su ejecución y cobro. En todo caso, de estas sanciones, una vez que queden firmes, y de los procedimientos disciplinarios instaurados deberá informarse al Registro de Servidores Públicos Estatales y Municipales;
+XVIII.- Llevar el registro de las sanciones administrativas y resarcitorias que sean determinadas e impuestas por el Órgano así como el seguimiento de su ejecución y cobro;
 
 XIX. Para los efectos que establecen los párrafos segundo y tercero del artículo 57 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit, el Director General de la Unidad Jurídica instruirá y substanciará el procedimiento administrativo disciplinario en los términos que establece el artículo 67 de dicho ordenamiento hasta su fase de resolución, al efecto, propondrá el proyecto resolutivo al acuerdo y firma del Auditor General;
 
@@ -481,7 +449,13 @@ XX. Instruir y substanciar el recurso de inconformidad que se interponga en cont
 
 XXI. Expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y
 
-XXII. Las demás, que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor General.
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XXII.- Verificar el funcionamiento del Registro de Servidores Públicos Estatales y Municipales a que alude al artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit y en su caso, proponer al Auditor General las acciones pertinentes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
+XXIII. Las demás que en el ámbito de su competencia le establezcan las disposiciones jurídicas o le encomiende el Auditor General.
 
 ###### ARTÍCULO 16.
 
@@ -761,37 +735,7 @@ VI. Llevar un registro de las solicitudes de acceso a la información, y su aten
 
 VII. Las demás: (sic) necesarias para garantizar y agilizar el flujo de información entre el Órgano con el Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit y los solicitantes, y en su caso, las que se establezcan por la Ley de la materia.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2011)</small>
-
-ARTÍCULO 22 A.- La Unidad de Registro de Servidores Públicos Estatales y Municipales es el área responsable de integrar y operar el registro a que alude al artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit. Al frente de esta Unidad, habrá un jefe de área el cual tendrá las siguientes atribuciones:
-
-I.- Promover ante el Auditor General las gestiones y acciones que estime necesarias a fin de integrar y mantener actualizado el Registro;
-
-II.- Elaborar los proyectos de constancias de inhabilitación, no inhabilitación, constancias de sanciones, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes de información al Registro y presentarlos al Auditor General para su suscripción;
-
-III.- Proponer al Auditor General, los proyectos de normas para la operación del Registro así como los formatos de solicitudes de información y constancias.
-
-IV.- Verificar que la información que emitan los entes públicos en relación al Registro se remita de manera veraz y oportuna.
-
-V.- Atender las dudas de los interesados en información del Registro que respecto a su operación y contenidos se presenten;
-
-VI.- Proponer acciones para difundir entre los entes públicos las normas para la operación del Registro de Servidores Públicos;
-
-VII.- Concentrar y salvaguardar la información y documentación que se genere por el Registro integrando el archivo correspondiente;
-
-VIII.- Realizar la recepción, registro, control y archivo de las declaraciones de situación patrimonial de los servidores públicos que deban presentarlas ante el Órgano; en todo caso la publicitación de la información de las declaraciones patrimoniales se hará siempre y cuando se cuente con la autorización previa y expresa del servidor público del que se trate, en los demás casos se deberá guardar la reserva de su contenido;
-
-IX.- Previo acuerdo con el Auditor General, podrá instrumentar las acciones para realizar las investigaciones y auditorías necesarias para verificar la evolución del patrimonio de los servidores públicos que presenten sus declaraciones ante el Órgano. Para este propósito podrá contar con la coadyuvancia de la Auditoría Especial de Gestión Financiera y Evaluación al Desempeño y de la Unidad Jurídica. El resultado de estas investigaciones deberá informarse al Auditor General, para que, de ser el caso, se promuevan las acciones procedentes en términos de ley;
-
-X.- Promover ante el Auditor General las acciones necesarias a fin de mantener actualizado el padrón de servidores públicos obligados a presentar su declaración patrimonial ante el Órgano,
-
-XI.- Informar al Auditor General, que servidores públicos han sido omisos y de los que presenten de manera extemporánea su declaración patrimonial al efecto de que se promuevan las acciones de responsabilidad correspondientes;
-
-XII.- Presentar al Auditor General los proyectos de normas, formatos impresos y electrónicos, manuales e instructivos necesarios para la presentación de las declaraciones patrimoniales, así como en su caso las propuestas de modificaciones a éstos para que, de considerarse necesario, en términos de ley se proceda a su emisión o modificación;
-
-XIII.- Elaborar el proyecto de Programa Operativo Anual para someterlo a la autorización del Auditor General y presentarle trimestralmente un informe sobre las actividades que realice;
-
-XIV.- Las demás que establezca este Reglamento y las que le encomiende el Auditor General.
+ARTÍCULO 22 A.- (DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 DE LA SECRETARÍA PARTICULAR
 
@@ -881,47 +825,47 @@ XXIII. Durante el desarrollo de las auditorías a su cargo; como resultado de la
 
 XXIV. Las demás, que en el ámbito de su competencia les establezcan las disposiciones jurídicas aplicables o les encomienden sus superiores jerárquicos o el Auditor General del Órgano.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 26.
 
-La Dirección de Auditoría Financiera a Poderes del Estado, estará adscrita a la Auditoría Especial de Gestión Financiera y Evaluación del Desempeño, su titular tendrá las siguientes atribuciones específicas:
+La Dirección de Auditoría Financiera a Poderes del Estado, estará adscrita a la Auditoría Especial de Gestión Financiera, su titular tendrá las siguientes atribuciones específicas:
 
-I.- Practicar, conforme al Programa Anual de Auditorías, las revisiones, visitas e inspecciones necesarias a los sujetos fiscalizables, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos, el movimiento de fondos, las operaciones relacionadas con la deuda pública, los egresos, los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido;
+I. Practicar, conforme al Programa Anual de Auditorías, las revisiones, visitas e inspecciones necesarias a los sujetos fiscalizables, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos, el movimiento de fondos, las operaciones relacionadas con la deuda pública, los egresos, los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido;
 
-II.- Practicar auditorías a los recursos estatales y federales que a título de subsidios o por cualquier otro concepto, se hayan otorgado con cargo a su presupuesto a entidades federativas, particulares y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento con las normas legales correspondientes;
+II. Practicar auditorías a los recursos estatales y federales que a título de subsidios o por cualquier otro concepto, se hayan otorgado con cargo a su presupuesto a entidades federativas, particulares y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento con las normas legales correspondientes;
 
-III.- Verificar que las operaciones de ingresos y de deuda pública que realicen los sujetos fiscalizables sean acordes con la Ley de Ingresos para el Estado de Nayarit y la Ley de Deuda Pública del Estado de Nayarit y demás legislación aplicable; y
+III. Verificar que las operaciones de ingresos y de deuda pública que realicen los sujetos fiscalizables sean acordes con la Ley de Ingresos para el Estado de Nayarit y la Ley de Deuda Pública del Estado de Nayarit y demás legislación aplicable; y
 
-IV.- Verificar que la recaudación, obtención y captación de los ingresos públicos propios y los recaudados, los asignados a través de fondos, programas y convenios del Estado y la Federación, así como los egresos se hayan efectuado y registrado en la contabilidad de los sujetos fiscalizables de conformidad con la legislación aplicable, reflejando adecuadamente las operaciones realizadas.
+IV. Verificar que la recaudación, obtención y captación de los ingresos públicos propios y los recaudados, los asignados a través de fondos, programas y convenios del Estado y la Federación, así como los egresos se hayan efectuado y registrado en la contabilidad de los sujetos fiscalizables de conformidad con la legislación aplicable, reflejando adecuadamente las operaciones realizadas.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 27.
 
-La Dirección de Auditoría Financiera a Organismos Paraestatales y Autónomos, estará adscrita a la Auditoría Especial de Gestión Financiera y Evaluación del Desempeño, su titular tendrá las siguientes atribuciones específicas:
+La Dirección de Auditoría Financiera a Organismos Paraestatales y Autónomos, estará adscrita a la Auditoría Especial de Gestión Financiera, su titular tendrá las siguientes atribuciones específicas:
 
-I.- Practicar, conforme al Programa Anual de Auditorías, las revisiones, visitas e inspecciones necesarias a los sujetos fiscalizables, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos, el movimiento de fondos de la Federación, las operaciones relacionadas con la deuda pública, los egresos, los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido;
+I. Practicar, conforme al Programa Anual de Auditorías, las revisiones, visitas e inspecciones necesarias a los sujetos fiscalizables, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos, el movimiento de fondos de la Federación, las operaciones relacionadas con la deuda pública, los egresos, los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido;
 
-II.- Practicar auditorias a los sujetos fiscalizables de los recursos Estatales y Federales que a título de subsidios o por cualquier otro concepto, se le hayan otorgado con cargo a su presupuesto, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado; en cumplimiento con las normas legales correspondientes;
+II. Practicar auditorías a los sujetos fiscalizables de los recursos Estatales y Federales que a título de subsidios o por cualquier otro concepto, se le hayan otorgado con cargo a su presupuesto, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado; en cumplimiento con las normas legales correspondientes;
 
-III.- Verificar que las operaciones de ingresos y de deuda pública que realicen los sujetos fiscalizables sean acordes con la Ley de Ingresos para el Estado de Nayarit y la Ley de Deuda Pública del Estado de Nayarit y demás legislación aplicable; y
+III. Verificar que las operaciones de ingresos y de deuda pública que realicen los sujetos fiscalizables sean acordes con la Ley de Ingresos para el Estado de Nayarit y la Ley de Deuda Pública del Estado de Nayarit y demás legislación aplicable; y
 
-IV.- Verificar que la recaudación, obtención y captación de los ingresos públicos propios y los recaudados, los asignados a través de fondos, programas y convenios del Estado y la Federación, así como los egresos se hayan efectuado y registrado en la contabilidad de los sujetos fiscalizables de conformidad con la legislación aplicable, reflejando adecuadamente las operaciones realizadas.
+IV. Verificar que la recaudación, obtención y captación de los ingresos públicos propios y los recaudados, los asignados a través de fondos, programas y convenios del Estado y la Federación, así como los egresos se hayan efectuado y registrado en la contabilidad de los sujetos fiscalizables de conformidad con la legislación aplicable, reflejando adecuadamente las operaciones realizadas.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 28.
 
-La Dirección de Auditoría Financiera a Municipios estará adscrita a la Auditoria Especial de Gestión Financiera y Evaluación del Desempeño, su titular tendrá las siguientes atribuciones específicas:
+La Dirección de Auditoría Financiera a Municipios estará adscrita a la Auditoría Especial de Gestión Financiera, su titular tendrá las siguientes atribuciones específicas:
 
-I.- Practicar, conforme al Programa Anual de Auditorias, las revisiones, visitas e inspecciones necesarias a los sujetos fiscalizables de orden municipal, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos, el movimiento de fondos, las operaciones relacionadas con la deuda pública, los egresos, los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido;
+I. Practicar, conforme al Programa Anual de Auditorías, las revisiones, visitas e inspecciones necesarias a los sujetos fiscalizables de orden municipal, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos, el movimiento de fondos, las operaciones relacionadas con la deuda pública, los egresos, los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido;
 
-II.- Practicar auditorias a los recursos municipales, estatales y federales que a título de subsidios o por cualquier otro concepto, se hayan otorgado con cargo a su presupuesto a los municipios, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado; en cumplimiento con las normas legales correspondientes;
+II. Practicar auditorías a los recursos municipales, estatales y federales que a título de subsidios o por cualquier otro concepto, se hayan otorgado con cargo a su presupuesto a los municipios, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado; en cumplimiento con las normas legales correspondientes;
 
-III.- Verificar que las operaciones de ingresos y de deuda pública que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos de los municipios y la Ley de Deuda Pública del Estado de Nayarit; y
+III. Verificar que las operaciones de ingresos y de deuda pública que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos de los municipios y la Ley de Deuda Pública del Estado de Nayarit; y
 
-IV.- Verificar que la recaudación, obtención y captación de los ingresos públicos propios y los recaudados, los asignados a través de fondos, programas y convenios estatales y federales, así como los egresos se hayan efectuado y registrado en la contabilidad de los sujetos fiscalizables de conformidad con la legislación aplicable, reflejando adecuadamente las operaciones realizadas.
+IV. Verificar que la recaudación, obtención y captación de los ingresos públicos propios y los recaudados, los asignados a través de fondos, programas y convenios estatales y federales, así como los egresos se hayan efectuado y registrado en la contabilidad de los sujetos fiscalizables de conformidad con la legislación aplicable, reflejando adecuadamente las operaciones realizadas.
 
 ###### ARTÍCULO 29.
 
@@ -935,21 +879,21 @@ III. Proponer al Auditor Especial de Infraestructura las dependencias, entidades
 
 IV. Practicar auditorías a los subsidios, transferencias y donativos para inversiones físicas en obra pública que los sujetos de fiscalización hayan otorgado con cargo a su presupuesto a cualquier persona física o moral pública o privada, municipios, particulares y en general a cualquier entidad pública o privada, así como verificar su aplicación al objeto autorizado.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-La Dirección de Auditoria de Evaluación del Desempeño estará adscrita a la Auditoría Especial de Gestión Financiera y Evaluación del Desempeño, su titular tendrá las siguientes atribuciones específicas:
+La Dirección de Auditoría de Evaluación del Desempeño estará adscrita a la Auditoría Especial de Evaluación del Desempeño, su titular tendrá las siguientes atribuciones específicas:
 
-I.- Elaborar y proponer a su superior jerárquico los programas específicos para la realización de las auditorias de evaluación del desempeño, que permitan evaluar la congruencia, eficacia, eficiencia, economía, calidad e impacto socio-económico de los programas gubernamentales, políticas y estrategias, ejecutados por los sujetos fiscalizables en materia de desarrollo social, gestión gubernamental;
+I. Elaborar y proponer a su superior jerárquico los programas específicos para la realización de las auditorías de evaluación del desempeño, que permitan evaluar la congruencia, eficacia, eficiencia, economía, calidad e impacto socio-económico de los programas gubernamentales, políticas y estrategias, ejecutados por los sujetos fiscalizables en materia de desarrollo social, gestión gubernamental;
 
-II.- Revisar y evaluar la información programática incluida en los Avances de Gestión Financiera y la Cuenta Pública en materia de desarrollo social y gestión gubernamental;
+II. Revisar y evaluar la información programática incluida en los Avances de Gestión Financiera y la Cuenta Pública en materia de desarrollo social y gestión gubernamental;
 
-III.- Practicar auditorías de evaluación del desempeño conforme a los programas de trabajo aprobados por el Auditor General, a fin de comprobar la eficacia, eficiencia, economía y calidad con que operan los sujetos fiscalizables en materia de desarrollo social y gestión gubernamental, el grado de cumplimiento de objetivos y metas establecidas en los programas de gobierno, proyectos especiales, políticas y estrategias a que se refiere el presupuesto de egresos del estado y los municipales en su caso, y demás ordenamientos aplicables, así como verificar el cumplimiento del marco jurídico correspondiente;
+III. Practicar auditorías de evaluación del desempeño conforme a los programas de trabajo aprobados por el Auditor General, a fin de comprobar la eficacia, eficiencia, economía y calidad con que operan los sujetos fiscalizables en materia de desarrollo social y gestión gubernamental, el grado de cumplimiento de objetivos y metas establecidas en los programas de gobierno, proyectos especiales, políticas y estrategias a que se refiere el presupuesto de egresos del estado y los municipales en su caso, y demás ordenamientos aplicables, así como verificar el cumplimiento del marco jurídico correspondiente;
 
-IV.- Proponer al Auditor Especial en las auditorías de evaluación del desempeño a su cargo, encuestas y demás trabajos complementarios, así como las investigaciones y servicios que requieran ser contratados con profesionales especializados; y
+IV. Proponer al Auditor Especial en las auditorías de evaluación del desempeño a su cargo, encuestas y demás trabajos complementarios, así como las investigaciones y servicios que requieran ser contratados con profesionales especializados; y
 
-V.- Practicar auditorias a los sujetos fiscalizables, en las funciones de desarrollo social y gestión gubernamental.
+V. Practicar auditorías a los sujetos fiscalizables, en las funciones de desarrollo social y gestión gubernamental.
 
 ###### ARTÍCULO 31.
 
@@ -987,11 +931,11 @@ XV. Asesorar a las direcciones de auditoría en la elaboración de los documento
 
 XVI. Asesorar a los auditores especiales y direcciones de auditorías en la elaboración de los dictámenes técnicos para formular pliegos de observaciones, seguimiento y en su caso solventación de acuerdo con los plazos, procedimientos y disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-La Dirección de Responsabilidades, estará adscrita a la Unidad Jurídica y su titular tendrá las siguientes atribuciones:
+La Dirección de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial, estará adscrita a la Unidad Jurídica y su titular tendrá las siguientes atribuciones:
 
 I. Apoyar al titular de la Unidad Jurídica en la instrucción y substanciación de los procedimientos para el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos o particulares, personas físicas o morales, por actos u omisiones de los que resulte un daño o perjuicio, o ambos, estimable en dinero, que afecte al Estado y Municipios en su Hacienda Pública o al patrimonio de los entes públicos;
 
@@ -1007,13 +951,47 @@ VI. Apoyar al titular de la Unidad Jurídica en la instrucción y resolución de
 
 VII. Dar seguimiento a los recursos promovidos por los sujetos sancionados, ante las diversas instancias jurisdiccionales;
 
-VIII. Dar seguimiento a la gestión de cobro de los pliegos definitivos de responsabilidades, determinados en las resoluciones emitidas en el procedimiento de responsabilidades resarcitorias;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+VIII. Registrar y dar seguimiento a la gestión de cobro de las sanciones resarcitorias así como verificar y dar seguimiento al cumplimiento y a la imposición de sanciones administrativas que sean determinadas por el Órgano. Dicho registro se deberá instrumentar de manera que permita identificar las sanciones impuestas por ejercicio fiscal auditado, por ente público y por personas sancionadas.
 
 IX. Solicitar a las auditorías especiales y direcciones de auditoría, la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-X.- Coadyuvar con la Unidad de Registro de Servidores Públicos Estatales y Municipales en las investigaciones y auditorías de las declaraciones patrimoniales que ésta realice así como en la formulación de las denuncias que en su caso se lleguen a presentar; (sic)
+X. Efectuar la recepción, registro control, revisión y fiscalización de las declaraciones de situación patrimonial de los servidores públicos que deban presentarla ante el Órgano y elaborar los proyectos de denuncias a que haya lugar. Para realizar las investigaciones y auditorías a fin de verificar la evolución del patrimonio de los servidores públicos podrá contar con la coadyuvancia de la Auditoría Especial de Gestión Financiera. El resultado de estas investigaciones deberá informarse al Auditor General, para que, de ser el caso, se promuevan las acciones procedentes en términos de ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
+XI. Llevar a cabo las acciones necesarias a fin de mantener actualizado el padrón de servidores públicos obligados a presentar su declaración patrimonial ante el Órgano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
+XII. Informar al Director General, que servidores públicos han sido omisos y de los que presenten de manera extemporánea su declaración patrimonial al efecto de que se promuevan las acciones de responsabilidad correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
+XIII. Elaborar los proyectos de normas, formatos impresos y electrónicos, manuales e instructivos necesarios para la presentación de las declaraciones patrimoniales, así como en su caso las propuestas de modificaciones a éstos para que, de considerarse necesario, en términos de ley se proceda a su emisión o modificación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
+XIV. Llevar el Registro de Servidores Públicos Estatales y Municipales a que alude al artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit; al efecto deberá:
+
+a. Promover las gestiones y acciones que estime necesarias a fin de integrar y mantener actualizado el Registro;
+
+b. Elaborar los proyectos de constancias de inhabilitación, no inhabilitación, constancias de sanciones, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes de información al Registro para su suscripción por el Auditor General;
+
+c. Proponer los proyectos de normas para la operación del Registro así como los formatos de solicitudes de información y constancias.
+
+d. Verificar que la información que emitan los entes públicos en relación al Registro se remita de manera veraz y oportuna.
+
+e. Atender las dudas de los interesados en información del Registro que respecto a su operación y contenidos se presenten;
+
+f. Proponer acciones para difundir entre los entes públicos las normas para la operación del Registro de Servidores Públicos;
+
+g. Concentrar y salvaguardar la información y documentación que se genere por el Registro integrando el archivo correspondiente;
+
+En todo caso, para el despacho de las atribuciones a que alude esta fracción, el Director de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial, deberá apoyarse con el personal adscrito al de (sic) Departamento de Situación Patrimonial, Registro de Servidores Públicos y Seguimiento de Sanciones.
 
 ### CAPÍTULO VIII
 
@@ -1137,19 +1115,19 @@ Los requisitos para la designación del resto de la estructura orgánica se dete
 
 DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 36.
 
-Durante las ausencias temporales del Auditor General, será suplido por el Auditor Especial de Gestión Financiera y Evaluación del Desempeño, el Auditor Especial de Infraestructura, en ese orden; atendiendo para tales efectos a sus designaciones ordinales.
+Durante las ausencias temporales del Auditor General, éste será suplido por el Auditor Especial de Gestión Financiera, el Auditor Especial de Evaluación del Desempeño y el Auditor Especial de Infraestructura, en ese orden de prelación.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 37.
 
-Durante las ausencias temporales del Auditor Especial de Infraestructura los auditores especiales, serán suplidos por el director de área adscrito a la misma; las del Auditor Especial de Gestión Financiera y Evaluación del Desempeño, por los directores de área adscritos a ésta bajo el siguiente orden de prelación: Director de Auditoría Financiera a Poderes del Estado, Director de Auditoría de Evaluación del Desempeño, Director de Auditoría Financiera a Organismos Paraestatales y Autónomos y Director de Auditoría Financiera a Municipios.
+Las ausencias temporales de los auditores especiales de evaluación al desempeño e Infraestructura, serán suplidas por el director de área adscrito a las mismas; las del Auditor Especial de Gestión Financiera, por los directores de área adscritos a ésta bajo el siguiente orden de prelación: Director de Auditoría Financiera a Poderes del Estado, Director de Auditoría Financiera a Organismos Paraestatales y Autónomos y Director de Auditoría Financiera a Municipios.
 
-La ausencia del Titular de la Unidad Jurídica será suplida en el siguiente orden de prelación: Director de Responsabilidades y Situación Patrimonial, y Director Jurídico y Consultivo; la del Titular de la Unidad de Administración, será suplida en el siguiente orden de prelación: Jefe de Departamento de Recursos Financieros, Jefe de Departamento de Recursos Humanos, Jefe de Departamento de Recursos Materiales, y Jefe de Departamento de Informática.
+La ausencia del Titular de la Unidad Jurídica será suplida en el siguiente orden de prelación: Director de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial, y Director Jurídico y Consultivo; la del Titular de la Unidad de Administración, será suplida en el siguiente orden de prelación: Jefe de Departamento de Recursos Financieros, Jefe de Departamento de Recursos Humanos, Jefe de Departamento de Recursos Materiales, y Jefe de Departamento de Informática.
 
 ###### ARTÍCULO 38.
 
@@ -1207,7 +1185,7 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 
 Tepic, Nayarit; 09 de marzo de 2010.- LIC. SALVADOR IGNACIO IÑIGUEZ CASTILLO, AUDITOR GENERAL.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE ENERO DE 2011.
 
@@ -1218,3 +1196,9 @@ El presente acuerdo surtirá sus efectos a partir del día 01 de febrero de 2011
 P.O. 24 DE AGOSTO DE 2011.
 
 Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Difusión del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 2012.
+
+PRIMERO.- El presente acuerdo surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- El personal, documentos y archivos de la Unidad de Registro de Servidores Públicos Estales y Municipales, a que alude el artículo 22 A que con este acuerdo se deroga, pasará a integrarse al Departamento de Situación Patrimonial, Registro de Servidores Públicos y Seguimiento de Sanciones.
