@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2011-09-28"
+last_updated: "2012-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-CODIGO PENAL PARA EL ESTADO DE TABASCO
+CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -293,7 +293,7 @@ El tratamiento en libertad para imputables consiste en la aplicación, según la
 
 ### CAPITULO VIII. MULTA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -335,13 +335,13 @@ La reparación de daños y perjuicios comprende:
 
 I.- La restitución de la cosa obtenida mediante el delito y si no es posible, el pago del precio de la misma, a valor de reposición según el grado de uso, conservación y deterioro que corresponda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 II.- La indemnización del daño material, moral, físico y psicológico y de los perjuicios causados. La reparación incluye el pago de la atención médica y los tratamientos que requiera la víctima o el ofendido, como consecuencia del delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -371,7 +371,7 @@ La obligación de reparar los daños y perjuicios causados por el delito es pref
 
 Las garantías relacionadas con la libertad caucional, se aplicarán al pago de la reparación cuando el inculpado se sustraiga a la acción de la justicia. Al ordenarse que se hagan efectivas esas garantías, el juez prevendrá a la autoridad ejecutora que ponga su importe a disposición del tribunal, para los efectos de este artículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -977,7 +977,7 @@ El tratamiento en internamiento o en libertad impuesto a un inimputable se extin
 
 ### CAPITULO III. DISPOSICIONES COMUNES PARA EL HOMICIDIO Y LAS LESIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 98.
 
@@ -1095,6 +1095,36 @@ A quien cometa homicidio en riña se le impondrá prisión de cinco a doce años
 
 Al que prive de la vida a otro por petición expresa, libre, reiterada, seria e inequívoca de éste, siempre que medien razones humanitarias o de salud comprobadas, se le aplicará prisión de cuatro a doce años.
 
+(ADICIONADO, P.O. 24 DE MARZO DE 2012
+
+###### Artículo 115 Bis.
+
+Comete delito de feminicidio quien por razones de género prive de la vida a una mujer. Existen razones de género cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, cualquier otra relación de hecho o amistad;
+
+II. Exista o haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
+
+III. Cuando el sujeto activo abuse de su cargo público para la comisión del delito;
+
+IV. La víctima presente signos de violencia sexual;
+
+V. Cuando a la víctima se le hayan infligido lesiones infamantes o degradantes, o mutilaciones, previa o posteriormente a la privación de la vida;
+
+VI. Cuando existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar;
+
+VII. Cuando se establezca que se cometieron amenazas, asedio o lesiones en contra de la víctima;
+
+VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento; o
+
+IX. El cuerpo de la víctima sea expuesto en forma degradante en lugar abierto.
+
+A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y de quinientos a mil días multa.
+
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+Si además del feminicidio, resulta delito diverso, se estará a las reglas del concurso de delitos.
+
 ### CAPITULO V. ABORTO
 
 > <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
@@ -1185,29 +1215,27 @@ II.- El activo quebrante la fe o seguridad que expresamente había prometido al 
 
 III.- El agente actúe por retribución dada o prometida;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 IV.- El agente actúe con ensañamiento o crueldad o por motivos depravados,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 V.- Se realice el hecho por inundación, incendio, o asfixia; minas, bombas o explosivos; radiación o liberación masiva de gas, o veneno o cualquier otra sustancia nociva a la salud; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 VI.- Se cometa contra una persona por violencia de género.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
-
-Se entiende por violencia de género, cualquier acción u omisión basada en el género que cause muerte, daño o sufrimiento físico, sexual, psicológico, patrimonial o económico tanto en el ámbito público como en el privado.
+Se entiende por violencia de género, cualquier acción u omisión basada en el género que cause daño o sufrimiento físico, sexual, psicológico, patrimonial o económico tanto en el ámbito público como en el privado. Lo establecido en esta fracción sólo será aplicable al delito de lesiones.
 
 ###### Artículo 124.
 
@@ -1231,7 +1259,7 @@ Se aplicarán la mitad de la sanción prevista para el homicidio o las lesiones 
 
 Si el autor se encuentra bajo el efecto de bebidas embriagantes, estupefacientes o psicotrópicos sin que medie prescripción médica, o no auxilie a la víctima, se impondrán las sanciones generalmente aplicables a las lesiones o el homicidio culposos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1287,7 +1315,7 @@ I.- Cuando el embarazo sea resultado de una violación o de una inseminación in
 
 II.- Cuando de no practicarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. PRIVACION DE LA LIBERTAD
 
@@ -1305,7 +1333,7 @@ Se le impondrá la misma sanción del artículo anterior al que habiendo atropel
 
 ### CAPITULO III. RAPTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 139.
 
@@ -1315,9 +1343,9 @@ Al que abandone a una persona incapaz de valerse a sí misma, teniendo la obliga
 
 ### CAPITULO I. VIOLACION
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 140.
 
@@ -1347,7 +1375,7 @@ Si el agente espontáneamente libera a la víctima dentro de los tres días sigu
 
 ### CAPITULO II. ESTUPRO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1385,9 +1413,9 @@ V.- Que la víctima sea menor de dieciséis o mayor de sesenta años de edad, o 
 
 Si el agente, espontáneamente libera al secuestrado dentro de los tres días siguientes al de la privación de libertad, sin lograr alguno de los propósitos a que se refiere el artículo 143, y sin que se presente alguna de las circunstancias previstas en el artículo 144, la prisión será de seis meses a tres años y de cincuenta a cien días multa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO III. INSEMINACION ARTIFICIAL Y ESTERILIDAD PROVOCADA
 
@@ -1395,7 +1423,7 @@ Si el agente, espontáneamente libera al secuestrado dentro de los tres días si
 
 (DEROGADO, P.O. 28 DE SEPTIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 147.
 
@@ -1405,7 +1433,7 @@ Si el agente, espontáneamente libera al secuestrado dentro de los tres días si
 
 ### CAPITULO IV. ABUSO SEXUAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1415,7 +1443,7 @@ Al que por medio de la violencia física o moral tenga cópula con persona de cu
 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1423,7 +1451,7 @@ Para los efectos de este artículo, se entiende por cópula, la introducción de
 
 La misma sanción se impondrá, al que introduzca por vía vaginal o anal cualquier elemento, o instrumento, o cualquier parte del cuerpo humano, distinta del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo de la víctima.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1433,9 +1461,9 @@ Al que tenga cópula con persona de cualquier sexo que no tenga capacidad para c
 
 La misma pena se impondrá al que sin violencia y con fines lascivos, introduzca por vía anal o vaginal, cualquier elemento o instrumento distinto del miembro viril en una persona que no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, sea cual fuere el sexo de la víctima.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 151.
 
@@ -1449,7 +1477,7 @@ Cuando la violación se comete aprovechando los medios o circunstancias del empl
 
 ### CAPITULO V. HOSTIGAMIENTO SEXUAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1457,13 +1485,13 @@ Cuando la violación se comete aprovechando los medios o circunstancias del empl
 
 Al que por medio del engaño tenga cópula con mujer mayor de catorce y menor de dieciocho años que no haya alcanzado su normal desarrollo psicosexual, se le aplicará prisión de cuatro a seis años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO VI. PEDERASTIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1475,7 +1503,7 @@ Al que sin consentimiento de una mujer mayor de dieciocho años o sin o con el c
 
 Si la inseminación se realiza con violencia, se incrementará la sanción correspondiente en una mitad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1493,7 +1521,7 @@ Además de las penas previstas en los artículos 154 y 155 Bis se suspenderá de
 
 Al que sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto erótico sexual, se le aplicará prisión de dos a seis años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1501,7 +1529,7 @@ Al que sin consentimiento de una persona ejecute en ella o la haga ejecutar un a
 
 Al que ejecute un acto erótico sexual en persona que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo, se le impondrá una pena de cuatro a ocho años de prisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1513,7 +1541,7 @@ Las penas previstas en los artículos anteriores, se incrementarán en una mitad
 
 No es punible el acto erótico sexual acompañado de cópula o de tentativa de cópula, típicas y sólo se impondrá la sanción del delito cometido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. AMENAZAS
 
@@ -1521,7 +1549,7 @@ No es punible el acto erótico sexual acompañado de cópula o de tentativa de c
 
 Al que asedie para sí o para un tercero a una persona con fines sexuales, a pesar de su oposición manifiesta, se le aplicará prisión de dos a cuatro años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1533,9 +1561,9 @@ Cuando el hostigamiento lo realice una persona valiéndose de su posición jerá
 
 Si el activo fuera reincidente o la persona ofendida fuere menor de edad, las penas previstas en los artículos anteriores se agravarán de uno a tres años de prisión más.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO UNICO. VIOLACION DE LA INTIMIDAD PERSONAL
 
@@ -1545,7 +1573,7 @@ Comete el delito de pederastia, quién con consentimiento o sin él, introduzca 
 
 Si entre la víctima y el sujeto activo existe parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural o doméstica, se incrementará la pena de prisión de uno a cinco años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1717,7 +1745,7 @@ Si el apoderamiento se realiza con ánimo de uso se impondrán de seis meses a u
 
 Para determinar la cuantía del robo se atenderá únicamente al valor de cambio que tenga la cosa en el momento del apoderamiento. Si este valor, por cualquier causa, no puede determinarse o si la cosa por su naturaleza no es estimable en valor de cambio, se aplicará prisión de seis meses a cuatro años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 178.
 
@@ -1733,7 +1761,7 @@ III.- Al que se apodere de frutos pendientes de los árboles o plantas que le di
 
 IV.- Al que se apodere de objetos de naturaleza transportable aunque se encuentren adheridos a un inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 179.
 
@@ -1779,7 +1807,7 @@ XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la s
 
 XV.- Respecto de uno o más bienes que en propiedad o en posesión formen parte de la infraestructura de centros educativos, públicos o privados, de trabajo, de salud o de todo inmueble destinado a la prestación de cualquier servicio público a cargo del Estado o los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 Artículo 179 bis.- Se equiparan al robo y se le impondrán las penas previstas en el artículo 175 más una mitad, a quien:
 
@@ -1833,7 +1861,7 @@ Las penas previstas en los artículos 175, 177 y 179 se agravarán con prisión 
 
 ### CAPITULO XI. EXTORSION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 181.
 
@@ -1997,7 +2025,7 @@ III.- Oculte o retenga valores o los emplee indebidamente.
 
 ### CAPITULO II. VIOLENCIA FAMILIAR
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2111,7 +2139,7 @@ Para los efectos de este artículo, se entiende que son producto de una activida
 
 ### CAPITULO III. INCESTO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2133,7 +2161,7 @@ En los casos previstos en este Título, el juzgador podrá suspender al agente e
 
 ### CAPITULO IV. ADULTERIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ## TITULO CUARTO. DELITOS CONTRA LA INSTITUCION DEL MATRIMONIO Y EL ORDEN SEXUAL
 
@@ -2159,7 +2187,7 @@ Si la omisión mencionada en el artículo anterior ocurre en incumplimiento de u
 
 No se impondrá pena alguna o no se ejecutará la impuesta cuando el agente satisfaga todas las cantidades que haya dejado de suministrar, o se someta al régimen de pago que determine el juez o la autoridad ejecutora y, además, garantice el cumplimiento de las cantidades que en el futuro deba satisfacer. El juez podrá afectar una parte del producto del trabajo del obligado para satisfacer estas obligaciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. INSTIGACION A COMETER DELITO
 
@@ -2187,9 +2215,9 @@ Cuando el sujeto activo sea reincidente se le aumentará una mitad de la pena pr
 
 Artículo 208 bis 1.- Se equipara a la violencia familiar y se sancionará con las penas previstas en el artículo anterior y las medidas de seguridad establecidas en este Código, al que realice cualquiera de los actos señalados en el mismo, en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 208 Bis 2.
 
@@ -2197,7 +2225,7 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 Al servidor público que incumpla con lo establecido en el párrafo anterior se le impondrá sanción de treinta a cuarenta días multa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2003)</small>
 
 ## TITULO SEGUNDO. DELITOS CONTRA EL ERARIO Y EL SERVICIO PUBLICOS
 
@@ -2299,9 +2327,9 @@ Al que sin incurrir en bigamia, contraiga matrimonio cuando para ello exista un 
 
 Se aplicará prisión de dos a seis años al que tenga cópula con su descendiente o ascendiente consanguíneo en línea recta en primer o segundo grado, o con su hermana o hermano.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
@@ -2527,7 +2555,7 @@ Cuando la cuantía a que asciendan las operaciones a que hace referencia este ar
 
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda del equivalente a quinientas veces el salario antes anotado, se impondrá prisión de dos a doce años y multa de treinta a doscientos días multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO VI. FUNCION PERSECUTORIA Y JUDICIAL INDEBIDA
 
@@ -3067,7 +3095,7 @@ II.- Oculte o niegue su domicilio o designe como tal uno distinto del verdadero.
 
 ### CAPITULO III. CONDUCCION INDEBIDA DE VEHICULOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 293.
 
@@ -3185,7 +3213,7 @@ Artículo 304 bis - A.- Al servidor público que autorice o permita obras o acti
 
 Al que por incendio, explosión, inundación o por cualquier otro medio, afecte la seguridad de las personas o los bienes, se le impondrá se (sic) seis meses a tres años de prisión y multa de doscientos a quinientos días multa, sin perjuicio de las sanciones aplicables al daño ocasionado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 TITULO DECIMOPRIMERO
 
@@ -3197,7 +3225,7 @@ DELITOS CONTRA LA SEGURIDAD Y VERACIDAD DE LA COMUNICACION
 
 Artículo 326 bis.- Al que intercepte, interfiera, reciba, use o ingrese por cualquier medio sin la autorización debida o, excediendo la que tenga, a una computadora personal, o a un sistema de red de computadoras, un soporte lógico de programas de cómputo o base de datos, se le impondrá de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 306.
 
@@ -3243,11 +3271,11 @@ Al que por cualquier medio destruya total o parcialmente una aeronave, una embar
 
 Al que para la realización de actividades delictivas utilice instalaciones o medios de comunicación o de transporte públicos que sean de su propiedad o que tenga bajo su cuidado, se le aplicarán de dos a cuatro años de prisión.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO II. DAÑO INFORMATICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2008)</small>
 
 Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore en forma parcial o total, archivos, bases de datos o cualquier otro elemento intangible contenido en computadoras personales, sistemas o redes de cómputo, soportes lógicos, o cualquier otro medio magnético, se le sancionará con penas de dos a ocho años de prisión y de cuatrocientos a mil doscientos días multa.
 
@@ -3255,7 +3283,7 @@ Artículo 326 bis 1.- A quien sin autorización modifique, destruya o deteriore 
 
 Cuando el activo tenga el carácter de encargado del manejo, administración o mantenimiento de los bienes informáticos dañados, las penas se incrementarán en una mitad más.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 312 Bis.
 
@@ -3263,7 +3291,7 @@ A quien utilice el servicio telefónico o cualquier medio de comunicación masiv
 
 ### CAPITULO III. FALSIFICACION INFORMATICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2008)</small>
 
 Artículo 326 bis 2.- Se impondrán penas de dos a seis años de prisión y de cuatrocientos a mil días multa, al que copie o imite los originales de cualquier dato, archivo o elemento intangible contenido en una computadora personal o en un sistema de redes de computadoras, base de datos, soporte lógico, siempre que para ello se requiera autorización y no la obtenga.
 
@@ -3279,7 +3307,7 @@ TITULO DECIMOCUARTO
 
 DELITOS CONTRA LA MORALIDAD PUBLICA
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 313.
 
@@ -3295,9 +3323,9 @@ Si el vehículo es de transporte público de pasajeros o de carga, la prisión s
 
 ### CAPITULO II. CORRUPCION DE MENORES E INCAPACES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 315.
 
@@ -3307,9 +3335,9 @@ No se sancionará a quienes en ejercicio de la patria potestad, tutela o custodi
 
 ### CAPITULO III. PORNOGRAFIA INFANTIL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 316.
 
@@ -3427,13 +3455,13 @@ Se aplicará prisión de seis meses a tres años y multa de sesenta a ciento vei
 
 Cuando alguno de los delitos previstos en este Título sea cometido por un servidor público en ejercicio de sus funciones o fedatario se le impondrá, además, destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de dos a cinco años.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 TITULO DECIMOTERCERO BIS
 
 DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ### CAPITULO VI. ENAJENACION FRAUDULENTA DE MEDICINAS NOCIVAS O INAPROPIADAS
 
@@ -3453,7 +3481,7 @@ DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMATICOS Y MAGNETICOS
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2003)</small>
 
 ### CAPITULO II. TERRORISMO
 
@@ -3469,9 +3497,9 @@ II.- La perversión sexual;
 
 III.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 330.
 
@@ -3491,7 +3519,7 @@ Cuando los actos de corrupción a los que se refieren los artículos 329 y 330, 
 
 La pena se aplicará sin perjuicio de la que corresponda conforme a los artículos 224 o 225.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3499,7 +3527,7 @@ La pena se aplicará sin perjuicio de la que corresponda conforme a los artícul
 
 Al que utilice los servicios de un menor de diecisiete años en algún lugar naturalmente nocivo para su sana formación psicosocial, se le impondrá prisión de dos a cuatro años y de mil a dos mil días multa. Las mismas penas se aplicarán a quien permita el acceso de los menores de diecisiete años a espectáculos, obras gráficas o audiovisuales de carácter pornográfico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3513,7 +3541,7 @@ Al que acepte que su hijo o pupilo menor de diecisiete años preste sus servicio
 
 Si el corruptor tiene alguna relación de autoridad de hecho o de derecho sobre el menor, se duplicará la sanción correspondiente, perderá los derechos inherentes a la patria potestad sobre todos sus descendientes y será privado definitivamente del derecho a ser tutor o curador y al que pudiera tener sobre los bienes de la víctima.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. SABOTAJE
 
@@ -3521,7 +3549,7 @@ Si el corruptor tiene alguna relación de autoridad de hecho o de derecho sobre 
 
 Al que por cualquier medio procure, facilite o induzca a una persona menor de edad, a realizar actos de exhibicionismo lascivos o sexuales, con el objeto de videograbarla, fotografiarla o exhibirla, se le impondrán de doce a dieciocho años de prisión y de mil a dos mil días multa, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales gráficos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -3581,7 +3609,7 @@ Se aplicará prisión de seis meses a tres años y multa de treinta a noventa d�
 
 Las mismas sanciones se aplicarán a quien fabrique los citados objetos o comercie con ellos.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### Artículo 338 Bis.
 
@@ -3865,7 +3893,7 @@ Se aplicará prisión de seis meses a ocho años y multa de cincuenta a doscient
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición, se les aplicará la pena de cinco a quince años de prisión y hasta cuatrocientos días multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### Artículo 366.
 
@@ -3909,7 +3937,7 @@ LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 21 DE FEBRERO DE 1998.
 
@@ -4011,7 +4039,7 @@ Artículo Tercero. Los delitos que se hubieren cometido con anterioridad con la 
 
 P.O. 1 DE JUNIO DE 2011.
 
-DECRETO No. 092 POR EL QUE SE ADICIONA UN SEGUNDO PARRAFO AL ARTICULO 6 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 092, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, salvo para la competencia en materia de narcomenudeo.
 
@@ -4019,25 +4047,25 @@ SEGUNDO.- En materia de narcomenudeo, la entidad conocerá de éste delito a par
 
 P.O. 1 DE JUNIO DE 2011.
 
-DECRETO No. 099, POR EL QUE SE REFORMAN LOS ARTICULOS 24, PRIMER PARRAFO Y 44, TERCER PARRAFO, DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 099, POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, PRIMER PÁRRAFO Y 44, TERCER PÁRRAFO, DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, quedando derogadas las disposiciones que se opongan al mismo.
 
 P.O. 1 DE JUNIO DE 2011.
 
-DECRETO No. 100, POR EL QUE SE REFORMA EL ARTICULO 231 Y LA NUMERACION DEL CAPITULO UNICO DEL TITULO DECIMOSEXTO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD PUBLICA, PARA NUMERARSE COMO CAPITULO I; Y SE ADICIONA UN PARRAFO AL ARTICULO 231, QUEDANDO COMO SEGUNDO Y RECORRIENDOSE SUBSECUENTEMENTE EL OTRO, PARA QUEDAR COMO TERCERO; LOS ARTICULOS 231 BIS, 231 TER, UN CAPITULO II DENOMINADO CONTRA LA SEGURIDAD Y EL ORDEN EN LOS CENTROS DE DETENCION O INTERNAMIENTO, CONFORMADO POR EL ARTICULO 338 BIS, CORRESPONDIENTE AL TITULO DECIMOSEXTO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD PUBLICA, ASI COMO UN CAPITULO VI DENOMINADO CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES, CONFORMADO POR EL ARTICULO 366, CORRESPONDIENTE AL TITULO DECIMO OCTAVO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO; TODOS ELLOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 100, POR EL QUE SE REFORMA EL ARTÍCULO 231 Y LA NUMERACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO DÉCIMOSEXTO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD PÚBLICA, PARA NUMERARSE COMO CAPÍTULO I; Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 231, QUEDANDO COMO SEGUNDO Y RECORRIÉNDOSE SUBSECUENTEMENTE EL OTRO, PARA QUEDAR COMO TERCERO; LOS ARTÍCULOS 231 BIS, 231 TER, UN CAPÍTULO II DENOMINADO CONTRA LA SEGURIDAD Y EL ORDEN EN LOS CENTROS DE DETENCIÓN O INTERNAMIENTO, CONFORMADO POR EL ARTÍCULO 338 BIS, CORRESPONDIENTE AL TÍTULO DÉCIMOSEXTO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD PÚBLICA, ASÍ COMO UN CAPÍTULO VI DENOMINADO CONTRA LAS ACTIVIDADES DE LAS INSTITUCIONES OFICIALES, CONFORMADO POR EL ARTÍCULO 366, CORRESPONDIENTE AL TÍTULO DÉCIMO OCTAVO, RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO; TODOS ELLOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 P.O. 1 DE JUNIO DE 2011.
 
-DECRETO No. 101, POR LO QUE SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA LA FRACCION XV AL ARTICULO 179 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 101, POR LO QUE SE REFORMAN LAS FRACCIONES XIII Y XIV Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 179 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 P.O. 27 DE AGOSTO DE 2011.
 
-DECRETO 108 POR EL QUE SE REFORMA EL ARTICULO 195; Y SE ADICIONA UN ARTICULO 195 BIS, AMBOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 108, POR EL QUE SE REFORMA EL ARTÍCULO 195; Y SE ADICIONA UN ARTÍCULO 195 BIS, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 PRIMERO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco. Derogándose las disposiciones que se opongan al mismo.
 
@@ -4045,7 +4073,7 @@ SEGUNDO.- Los delitos cometidos durante la vigencia del artículo 195, que se re
 
 P.O. 27 DE AGOSTO DE 2011.
 
-DECRETO 109 POR EL QUE SE REFORMA EL PRIMER PARRAFO DEL ARTÍCULO 196 DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 109, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 196 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4057,13 +4085,13 @@ Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 27 DE AGOSTO DE 2011.
 
-DECRETO 110 POR EL QUE SE REFORMAN LOS ARTICULOS 179 BIS, PRIMER PARRAFO, LAS FRACCIONES III, VII Y VIII Y 319, FRACCION IV; Y SE ADICIONA LA FRACCION IX AL ARTICULO 179 BIS, TODOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 110, POR EL QUE SE REFORMAN LOS ARTÍCULOS 179 BIS, PRIMER PÁRRAFO, LAS FRACCIONES III, VII Y VIII Y 319, FRACCIÓN IV; Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 179 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 P.O. 28 DE SEPTIEMBRE DE 2011.
 
-DECRETO 124 POR EL QUE SE REFORMAN LA FRACCION II DEL ARTICULO 27; 31, 123 FRACCION IV Y V, 127, 148 PRIMER PARRAFO, 149, 150, 151 PRIMER PARRAFO, 153, LA DENOMINACION DEL CAPITULO III DEL TITULO CUARTO, 156, 157, 158, 159 BIS, 159 BIS I, 208 BIS, 208 BIS 2 PRIMER PARRAFO; 221, 329 PRIMER PARRAFO, 330 PRIMER PARRAFO, 332, 333, 334 BIS PRIMER Y SEGUNDO PARRAFO, SE ADICIONAN LOS ARTICULOS 27 BIS, LA FRACCION VI Y UN SEGUNDO PARRAFO AL ARTICULO 123, UN SEGUNDO PARRAFO AL ARTICULO 127; EL ARTICULO 155 BIS, UN CAPITULO VI PEDERASTIA AL TITULO CUARTO DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES Y EL NORMAL DESARROLLO PSICOSEXUAL CON SUS ARTICULOS 159 TER, 159 QUATER, SE DEROGAN EL CAPITULO III RAPTO DEL TITULO TERCERO DE LOS DELITOS CONTRA LA LIBERTAD PERSONAL CON SUS ARTICULOS 146, 147; EL CAPITULO IV ADULTERIO DEL TITULO IV DE LOS DELITOS CONTRA LA INSTITUCION DEL MATRIMONIO Y EL ORDEN SEXUAL CON SU ARTICULO 222, TODOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 124, POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 27; 31, 123 FRACCIÓN IV Y V, 127, 148 PRIMER PÁRRAFO, 149, 150, 151 PRIMER PÁRRAFO, 153, LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO CUARTO, 156, 157, 158, 159 BIS, 159 BIS I, 208 BIS, 208 BIS 2 PRIMER PÁRRAFO; 221, 329 PRIMER PÁRRAFO, 330 PRIMER PÁRRAFO, 332, 333, 334 BIS PRIMER Y SEGUNDO PÁRRAFO, SE ADICIONAN LOS ARTÍCULOS 27 BIS, LA FRACCIÓN VI Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 123, UN SEGUNDO PÁRRAFO AL ARTÍCULO 127; EL ARTÍCULO 155 BIS, UN CAPÍTULO VI PEDERASTIA AL TÍTULO CUARTO DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES Y EL NORMAL DESARROLLO PSICOSEXUAL CON SUS ARTÍCULOS 159 TER, 159 QUATER, SE DEROGAN EL CAPÍTULO III RAPTO DEL TÍTULO TERCERO DE LOS DELITOS CONTRA LA LIBERTAD PERSONAL CON SUS ARTÍCULOS 146, 147; EL CAPÍTULO IV ADULTERIO DEL TÍTULO IV DE LOS DELITOS CONTRA LA INSTITUCIÓN DEL MATRIMONIO Y EL ORDEN SEXUAL CON SU ARTÍCULO 222, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
 
 PRIMERO.- El presente decreto entrará en vigor a los 30 días naturales contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4071,6 +4099,10 @@ SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada e
 
 P.O. 28 DE SEPTIEMBRE DE 2011.
 
-DECRETO 125 POR EL QUE SE REFORMA LA DENOMINACION DEL TITULO DECIMOPRIMERO Y SE ADICIONA UN CAPITULO I BIS DENOMINADO DE LA VERACIDAD DE LAS COMUNICACIONES A LOS SERVICIOS DE EMERGENCIA, CONFORMADO POR EL ARTICULO 312 BIS CORRESPONDIENTE AL TITULO DECIMOPRIMERO RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD Y VERACIDAD DE LA COMUNICACION, AMBOS DEL CODIGO PENAL PARA EL ESTADO DE TABASCO.
+DECRETO No. 125, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO DÉCIMOPRIMERO Y SE ADICIONA UN CAPÍTULO I BIS DENOMINADO DE LA VERACIDAD DE LAS COMUNICACIONES A LOS SERVICIOS DE EMERGENCIA, CONFORMADO POR EL ARTÍCULO 312 BIS CORRESPONDIENTE AL TÍTULO DÉCIMOPRIMERO RELATIVO A LOS DELITOS CONTRA LA SEGURIDAD Y VERACIDAD DE LA COMUNICACIÓN, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
