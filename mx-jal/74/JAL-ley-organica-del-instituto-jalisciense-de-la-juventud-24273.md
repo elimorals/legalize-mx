@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-la-juventud-24273"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-02-12"
-last_updated: "2007-11-22"
+last_updated: "2012-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
 
-LEY ORGANICA DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
+LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 12 de febrero de 2002.
 
@@ -67,21 +67,27 @@ VI. Consejo: El Consejo Estatal de la Juventud.
 
 La población cuya edad quede comprendida entre los 12 y 29 años, por su importancia estratégica para el desarrollo del Estado, será objeto de los programas, servicios y acciones que el Instituto lleve a cabo.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
 ###### Artículo 4°.
 
-El Instituto tendrá por objeto:
+El instituto tendrá por objeto:
 
-I. Definir e instrumentar una política estatal sobre juventud que permita incorporar plenamente a la juventud al desarrollo del Estado;
+I. Dirigir y vincular los esfuerzos de las entidades que conforman el Sistema Estatal de Juventud;
 
-II. Asesorar al Ejecutivo Estatal en la planeación y programación de las políticas y acciones relacionadas con el desarrollo de la juventud de acuerdo al Plan Estatal de Desarrollo;
+II. Proponer, realizar y dar seguimiento al Programa Estatal de la Juventud;
 
-III. Actuar como órgano de consulta y asesoría de las dependencias y entidades del Poder Ejecutivo del Estado, así como de las autoridades municipales, y de los sectores social y privado cuando así lo requieran;
+III. Definir e instrumentar una política estatal sobre juventud que permita incorporar plenamente a la juventud al desarrollo del estado;
 
-IV. Promover coordinadamente con las secretarías y dependencias, organismos y entidades del Poder Ejecutivo del Estado en el ámbito de sus respectivas competencias, las acciones destinadas a mejorar el nivel de vida de la juventud, así como sus expectativas sociales, culturales y derechos;
+IV. Asesorar al Ejecutivo estatal en la planeación y programación de las políticas y acciones para realizar el Plan Estatal de Desarrollo;
 
-V. Fungir como representante del Ejecutivo Estatal en materia de juventud ante el gobierno federal y municipal, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación; y
+V. Actuar como órgano de consulta y asesoría de las dependencias y entidades del Poder Ejecutivo del Estado, así como de las autoridades municipales, y de los sectores social y privado cuando así lo requieran;
 
-VI. Fomentar la práctica de las actividades que propicien la superación física, intelectual, cultural, profesional y económica de la juventud, en especial en el campo y las comunidades indígenas acorde a los Planes Nacional y Estatal de desarrollo.
+VI. Ejecutar coordinadamente con las secretarías y dependencias, organismos y entidades del Poder Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, el Programa Estatal de Juventud;
+
+VII. Fungir como representante del Ejecutivo estatal en materia de juventud ante los gobiernos federal y municipales, organizaciones privadas, sociales y organismos internacionales, así como en foros, convenciones, encuentros y demás reuniones en las que el Ejecutivo solicite su participación, y
+
+VIII. Fomentar la práctica de las actividades que propicien la superación física, intelectual, cultural, profesional y económica de la juventud, en especial en el campo y las comunidades indígenas de acuerdo con los Planes Nacional y Estatal de Desarrollo.
 
 ###### Artículo 5°.
 
@@ -115,39 +121,21 @@ XIII. Establecer lineamientos e impulsar la participación juvenil en eventos de
 
 XIV. Establecer, coordinar e impulsar programas que favorezcan el desenvolvimiento y expresión de la juventud del Estado;
 
-XV. Promover y difundir los acuerdos y convenios internacionales firmados por el Gobierno de la República, que tengan que ver con su objeto; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-XVI. Las demás que le otorgue la presente Ley y otros ordenamientos legales y reglamentarios.
+XV. Promover y difundir los acuerdos y convenios internacionales firmados por el Gobierno de la República que tengan que ver con su objeto;
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XVI. Coordinar los esfuerzos realizados en el Sistema Estatal de Juventud, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+XVII. Las demás que le otorguen la presente ley y otros ordenamientos legales y reglamentarios.
 
 ###### Artículo 6°.
 
-El Instituto promoverá en todo momento que la juventud tenga acceso a:
-
-I. Los servicios y beneficios sociales, económicos, políticos, culturales, informativos y recreativos;
-
-II. El trabajo digno y bien remunerado;
-
-III. El sistema educativo estatal;
-
-IV. La protección de la salud;
-
-V. Los espacios culturales y a expresar sus manifestaciones culturales de acuerdo a sus propios intereses y expectativas;
-
-VI. Los espacios recreativos y al disfrute de actividades de recreación;
-
-VII. La practica del deporte;
-
-VIII. La participación social y política;
-
-IX. La constitución de asociaciones y organizaciones que busquen hacer realidad sus demandas, aspiraciones y proyectos;
-
-X. La recepción, análisis, sistematización y difusión de información objetiva y oportuna que les sea de importancia para sus proyectos de vida;
-
-XI. El disfrute de un medio ambiente natural y social sano que respalde su desarrollo integral en el estado; y
-
-XII. La oportunidad de integrarse a la sociedad y de ser sujetos de derechos y oportunidades que mejoren su calidad de vida, en el caso de jóvenes en situación de desigualdad, debido a la pobreza, exclusión social, indigencia, discapacidad, privación de la libertad y otros factores.
+(DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 ###### Artículo 7°.
 
@@ -189,11 +177,15 @@ III. Consejo Estatal de la Juventud.
 
 La Junta será el órgano supremo del Instituto, representándolo para todo efecto legal y siendo la administradora del patrimonio general. La representación de la Junta para la celebración de todo acto o negocio jurídico que deba realizarse en el desempeño de las funciones que al Instituto le confiere la presente Ley, le corresponderá al Director.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2012)</small>
+
 ###### Artículo 12.
 
-La Junta se integrará por:
+La junta se integrará por:
 
-I. Un Presidente que será el Titular de la Secretaría General de Gobierno o la persona a quien éste designe en su representación y un suplente;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+I. Un presidente, que será el titular de la Secretaría General de Gobierno o a la persona a quien éste designe;
 
 II. Un Secretario que será el Director, quien contará sólo con voz y tendrá a su cargo el manejo inmediato de las sesiones;
 
@@ -215,15 +207,19 @@ f) Secretaría de Desarrollo Humano; y
 
 g) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud.
 
-IV. El Presidente del Consejo; y
+IV. (DEROGADA, P.O. 24 DE MARZO DE 2012)
 
 V. Cinco Vocales que podrán ser los representantes de los Organismos de la Sociedad Civil y de las Asociaciones u Organismos Juveniles Ciudadanos que tengan relación con el objeto del Instituto, quienes serán nombrados por el Presidente de la Junta previa convocatoria expedida por el mismo.
 
 Los miembros de la Junta contarán con voz y voto en las sesiones de la misma.
 
-Por cada vocal titular, habrá un suplente que será designado por el Titular de la dependencia, representante del Organismo o Asociación correspondiente, y durarán en su encargo dos años pudiendo ser reelectos por otro periodo igual.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
-El cargo de miembro de la Junta será honorífico y por lo tanto no remunerado, salvo el del Director.
+Por cada vocal titular habrá un suplente, que será designado por el titular de la dependencia, representante del organismo o asociación correspondiente, y durarán en su encargo tres años, pudiendo ser reelectos por otro periodo igual.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+
+El cargo de miembro de la junta será honorífico y, por tanto, no remunerado, salvo el del Secretario de la junta directiva.
 
 ###### Artículo 13.
 
@@ -247,21 +243,31 @@ V. Designar y remover, a propuesta del Director General, a los servidores públi
 
 VI. Aprobar el Reglamento Interior del Instituto y el proyecto de estructura orgánica; así como el Manual de Organización General y los correspondientes procedimientos para la elaboración de programas y planes relacionados con el objeto y Servicios al Público del Instituto;
 
-VII. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General, con la intervención que corresponda a la contraloría; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-VIII. Las demás que le atribuyan en los términos de la presente Ley y otros ordenamientos legales.
+VII. Analizar y, en su caso, aprobar los informes periódicos que rinda el director general, con la intervención que corresponda a la contraloría,
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+VIII. Aprobar en primera instancia el Programa Estatal de la Juventud para enviarlo posteriormente al Ejecutivo para su inclusión en el Plan Estatal de Desarrollo, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+
+IX. Las demás que se le atribuyan en los términos de la presente ley y otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 ###### Artículo 15.
 
-El Director del Instituto será nombrado por la Junta de entre una terna propuesta por el Titular del Poder Ejecutivo y podrá ser removido libremente por acuerdo de las dos terceras partes de la misma.
-
-El Director durará en su encargo cuatro años, y podrá ser reelecto por una sola vez por un periodo igual.
+El director del instituto será nombrado por la junta, de entre una terna propuesta por el titular del Poder Ejecutivo, y durará en el cargo seis años, coincidentes con el periodo de gestión constitucional de la administración pública estatal; sin embargo, podrá ser removido libremente por el titular del Poder Ejecutivo.
 
 ###### Artículo 16.
 
 Para ser Director se requiere:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, menor de cuarenta años cumplidos al día de su elección o reelección;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, menor de treinta y cinco años cumplidos al día de su elección;
 
 II. Ser originario del Estado o avecindado en él, cuando menos tres años anteriores al día de su nombramiento;
 
@@ -271,9 +277,13 @@ IV. Que no haya sido dirigente de ningún partido político, cuando menos tres a
 
 V. No haber tenido cargo de elección popular, cuando menos tres años inmediatos anteriores al día de su designación;
 
-VI. Acreditar destacada participación en actividades deportivas, académicas, artísticas, sociales o de trabajo comunitario, entre otras;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
-VII. Escolaridad mínima de bachillerato o equivalente.
+VI. Acreditar destacada participación en materia de juventud, a juicio del titular del Poder Ejecutivo, y
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
+VII. Escolaridad mínima preferentemente de licenciatura.
 
 ###### Artículo 17.
 
@@ -329,57 +339,23 @@ Los integrantes del Registro Estatal de la Juventud Jalisciense, tendrán derech
 
 ###### Artículo 23.
 
-El Consejo es un órgano de consulta y de promoción de los programas y políticas destinados a la protección, bienestar y desarrollo integral de la juventud y al fomento de los valores humanos y comunitarios y se integrará por:
-
-I. Un Presidente;
-
-II. Un Secretario Técnico que será el Director del Instituto;
-
-III. Hasta cinco jóvenes que hayan destacado en los ámbitos artísticos, culturales, deportivos o de otra actividad, profesión u oficio que contribuya a su desarrollo;
-
-IV. Hasta cinco representantes de entidades, organismos o asociaciones de los sectores público, privado o social, que sean conformadas por jóvenes cuya competencia se vincule con la esencia del Instituto; y
-
-V. En su caso, los Delegados Regionales del Instituto o las personas que éstos designen como sus representantes.
-
-Asimismo, a invitación expresa por parte del Presidente y con aprobación del Consejo, podrán asistir a las sesiones, con voz más no con voto y sin que sean considerados como miembros del mismo, los:
-
-a) Titulares de las dependencias o entidades de la Administración Pública Federal, Estatal y Municipal;
-
-b) Diputados Federales y Locales; y
-
-c) Representantes de las Instituciones de Educación Superior en el Estado.
-
-Cada una de las dependencias, entidades, instituciones, organismos o asociaciones deberán nombrar un consejero propietario y un suplente.
-
-Los cargos de los integrantes del Consejo serán honoríficos y por lo tanto no remunerados.
+(DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 ###### Artículo 24.
 
-El Presidente del Consejo será nombrado por la Junta de entre una terna propuesta por el Titular del Poder Ejecutivo, durará en su cargo cuatro años y podrá ser removido libremente por acuerdo de las dos terceras partes de la misma. Los candidatos propuestos deberán cumplir con los mismos requisitos establecidos para el cargo de Director.
+(DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 ###### Artículo 25.
 
-Los integrantes del Consejo serán designados por la Junta, previa convocatoria que para tal efecto emita el Director del Instituto, la cual deberá ser publicada en uno de los diarios de mayor circulación en el Estado de Jalisco, durarán en su cargo tres años y podrán ser removidos libremente por acuerdo de la Junta.
+(DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 ###### Artículo 26.
 
-El Consejo tiene las siguientes atribuciones:
-
-I. Colaborar y servir de órgano de consulta permanente y efectivo para el establecimiento de políticas sociales que se establezcan en el Estado, especialmente en materia de atención a la juventud;
-
-II. Promover el respeto de los valores cívicos y morales de la juventud;
-
-III. Proponer acciones en educación de la juventud;
-
-IV. Contribuir a que las y los jóvenes participen activa y conscientemente en los programas que tiendan a satisfacer sus necesidades básicas y desarrollar sus capacidades; y
-
-V. Coadyuvar en la coordinación de los programas entre las secretarías y dependencias, organismos y entidades del sector gubernamental Federal, Estatal o Municipal y no gubernamental que realizan tareas en beneficio de la juventud.
+(DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 ###### Artículo 27.
 
-El Consejo sesionará de forma ordinaria por lo menos una vez cada seis meses pudiendo celebrar sesiones extraordinarias cuando así se requiera. En ambos casos, para la validez de las sesiones, se requerirá que la convocatoria haya sido suscrita por el Presidente e (sic) notificada a los miembros de la Junta, y que hubiesen asistido, en el caso de la ordinaria, la mitad más uno de sus miembros, respecto de la extraordinaria, será válida con el número de miembros que asistan a la misma.
-
-Los acuerdos del Consejo, se tomarán por mayoría de los presentes, teniendo el Presidente voto de calidad en caso de empate. De cada sesión del Consejo se levantará el acta correspondiente.
+(DEROGADO, P.O. 24 DE MARZO DE 2012)
 
 ### CAPÍTULO V. De la vigilancia del Instituto
 
@@ -457,8 +433,16 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HÉCTOR PÉREZ PLAZOLA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE NOVIEMBRE DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE MARZO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se concederá a los integrantes del Sistema Estatal de Juventud un periodo de trescientos sesenta y cinco días naturales a partir de la entrada en vigor del presente ordenamiento para que implementen las directrices correspondientes y cumplir con el objeto del presente decreto.
+
+TERCERO. El Ejecutivo del Estado expedirá el reglamento del (sic) la ley.
