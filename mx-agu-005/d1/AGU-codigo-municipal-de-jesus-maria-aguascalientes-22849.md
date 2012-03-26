@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-jesus-maria-aguascalientes-22849"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-24"
-last_updated: "2011-04-18"
+last_updated: "2012-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
 
-CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES
+CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2012.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2001.
 
@@ -152,7 +152,7 @@ XIX. Las demás que se desprendan de las mismas.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
-ARTÍCULO 9 BIS.- Toda mujer que se encuentre en el municipio de Jesús María, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos.
+ARTICULO 9 BIS.- Toda mujer que se encuentre en el municipio de Jesús María, tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos.
 
 Estos derechos comprenden entre otros:
 
@@ -408,7 +408,7 @@ VI. La perspectiva de género que permita incorporar a la mujer como sujeto soci
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 21 Sexies.
+###### ARTICULO 21 Sexies.
 
 El Programa Municipal incluirá los ejes de acción: de prevención, atención y sanción, considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes y su Reglamento.
 
@@ -1310,7 +1310,7 @@ APARTADO QUINTO
 
 DE LA DIRECCION DE FINANZAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 103.
 
@@ -1686,7 +1686,7 @@ DE LAS FUNCIONES DE CONTROL PATRIMONIAL
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 140 Bis.
+###### ARTICULO 140 Bis.
 
 Corresponde a la Contraloría Municipal, a través de su titular, como órgano de control interno del Municipio de Jesús María, Aguascalientes, el despacho de los siguientes asuntos:
 
@@ -1884,7 +1884,7 @@ El Ayuntamiento podrá convenir con los Ayuntamientos de cualesquiera de los mun
 
 En el caso de que desaparezca la necesidad de coordinación o colaboración para la prestación de un servicio público, el Ayuntamiento podrá dar por terminado el convenio a que se refiere el Artículo 150 o convenir la remunicipalización del servicio público en cuestión.
 
-> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA AL CODIGO, PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2009, EL PRESENTE CAPITULO ES MODIFICADO EN CUANTO A SU ESTRUCTURA, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA AL CÓDIGO, PUBLICADA EN EL P.O. DE 16 DE MARZO DE 2009, EL PRESENTE CAPÍTULO ES MODIFICADO EN CUANTO A SU ESTRUCTURA, QUEDANDO INTEGRADO DE LA SIGUIENTE FORMA.</small>
 
 ### CAPITULO PRIMERO. De las Bebidas Alcohólicas
 
@@ -2046,7 +2046,11 @@ Queda prohibida también la venta y consumo de bebidas alcohólicas, en plantele
 
 Todos los establecimientos autorizados para la venta y consumo de bebidas alcohólicas, deberán operar en una distancia que sea mayor a los 150 metros, de donde se encuentra ubicada una escuela, templo, centro deportivo, centro de trabajo o farmacia; así como lugares de reunión para niños y jóvenes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+La distancia referida debe tomarse como referencia a partir del acceso principal de los lugares en cuestión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2009)</small>
 
 APARTADO SEGUNDO
 
@@ -2138,7 +2142,7 @@ V.- Horario de inicio y terminación del evento.
 
 La autoridad municipal, expedirá el acuerdo correspondiente 5 días hábiles antes de la fecha en que pretenda realizarse el evento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2009)</small>
 
 APARTADO TERCERO
 
@@ -2286,7 +2290,7 @@ APARTADO PRIMERO
 
 DE LA ADMINISTRACION DEL RASTRO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 202.
 
@@ -3442,7 +3446,7 @@ Cuando las exhumaciones obedezcan al traslado de restos humanos a otra fosa del 
 
 El traslado de cadáveres o de sus restos, se hará según lo dispuesto por la autoridad sanitaria y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE FEBRERO DE 2008)</small>
 
 APARTADO TERCERO
 
@@ -3920,7 +3924,7 @@ El personal de servicios administrativos se integra por elementos policiales que
 
 El reclutamiento del personal operativo se sujetará a los trámites y requisitos que establezca en cada caso la convocatoria correspondiente, que deberá comprender lo señalado en el artículo 452 de este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTICULO 452.
 
@@ -4730,11 +4734,11 @@ Los Jueces Calificadores, con el objeto de lograr una mayor eficiencia en la imp
 
 Los individuos que sean detenidos como presuntos infractores de las diferentes leyes y reglamentos de orden público, cuando así proceda serán conducidos a la comandancia de policía en guardia para ponerlos a disposición del Juez Calificador indicándole a éste el motivo por el cual fue detenido el infractor.
 
-###### ARTÍCULO 531.
+###### ARTICULO 531.
 
 El personal de Seguridad Pública que detenga a un individuo, se hará responsable de garantizar la integridad física de éste, así como de sus pertenencias, debiendo presentarlo a la comandancia en guardia en donde el juez calificador verificará el estado físico y sus pertenencias; en caso de que el juez calificador constatare que hubo malos tratos al remitirlo o una merma en sus pertenencias, deberá rendir un informe detallado, mismo que firmará el policía que hizo la detención, remitiendo inmediatamente dicho informe a la Secretaria del Ayuntamiento, con copia al Presidente Municipal, al regidor del ramo y a la Dirección de Seguridad Pública, con el objeto de proceder a los correctivos a que haya lugar, o por causa de algún delito del orden local o federal, remitirlo a la agencia del Ministerio Público que corresponda.
 
-###### ARTÍCULO 532.
+###### ARTICULO 532.
 
 Para poder ser juez calificador deberá por lo menos ser Pasante de la Licenciatura en Derecho, o bien, contar con dicha licenciatura.
 
@@ -8770,7 +8774,7 @@ Requerimientos de habitabilidad y funcionamiento.
 
 TIPO DE EDIFICACION DIMENSIONES LIBRES MINIMAS
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 851.
 
@@ -9430,7 +9434,7 @@ Los inodoros, lavabos y regaderas a que se refiere este artículo se distribuir�
 
 Para los efectos de este libro, deberá tomarse en consideración la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 884.
 
@@ -10388,7 +10392,7 @@ VII. La instalación de trampolines y plataformas satisfacerá (sic) las siguien
 
 TRAMPOLINES Y PLATAFORMAS
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La anchura de los trampolines será de punto cincuenta metros y la mínima de la plataforma de dos metros. La superficie de ambos será antiderrapante.
 
@@ -10558,7 +10562,7 @@ Los proyectos de obras nuevas incluirán los espacios suficientes para estaciona
 
 Los requerimientos mínimos en materia de cajones de estacionamientos son los siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 994.
 
@@ -11152,7 +11156,7 @@ Como caso general, se emplearán los valores máximos probables de los pesos vol
 
 Existe la opción de investigar el peso volumétrico de los materiales directamente en forma experimental.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 1043.
 
@@ -11242,7 +11246,7 @@ Las cargas vivas unitarias nominales no se consideran menores que las de la tabl
 
 Tabla de cargas vivas unitarias
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Observaciones:
 
@@ -11482,7 +11486,7 @@ Los coeficientes sísmicos reducidos serán como sigue:
 
 Coeficientes sísmicos reducidos a utilizar con el método simplificado de análisis:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 En el caso de construcciones pertenecientes al Grupo A, estos coeficientes se multiplicarán por uno punto cincuenta.
 
@@ -11670,7 +11674,7 @@ I. Se localizará el nivel del terreno muy firme, debajo del cual todos los estr
 
 II. Para los estratos comprendidos entre el nivel del terreno muy firme y el nivel en el cual las aceleraciones horizontales del terreno se transmiten a la construcción se aplicará la siguiente expresión:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 A manera de ejemplo, en el caso de un cajón de cimentación el nivel en el cual las aceleraciones horizontales del terreno se transmiten a la construcción correspondería al desplante de la losa inferior del cajón.
 
@@ -11994,7 +11998,7 @@ Con relación a los espectros de diseño sísmico, las características de los m
 
 Espectros de diseño sísmico
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 La simbología que aparece en esta tabla se puede consultar directamente en las normas técnicas complementarias.
 
@@ -14562,7 +14566,7 @@ COLABORADOR Y REALIZADOR,
 
 Lic. Carlos Alberto Vila Maciel.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE MAYO DE 2002.
 
@@ -14584,7 +14588,7 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 
 P.O. 7 DE FEBRERO DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MOFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MOFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 9 DE ENERO DE 2006.
 
@@ -14618,7 +14622,7 @@ SEGUNDO.- Las reformas aprobadas, entrarán en vigor al día siguiente de su pub
 
 P.O. 16 DE MARZO DE 2009.
 
-SE REFORMAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO MUNICIPAL DE JESUS MARIA, AGUASCALIENTES.
+SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE JESÚS MARÍA, AGUASCALIENTES.
 
 ...
 
@@ -14630,7 +14634,7 @@ QUINTO.- El H. Cabildo, y una vez que se tenga el resultado del procedimiento de
 
 P.O. 16 DE MARZO DE 2009.
 
-SE REFORMA EL ARTICULO 96 DEL CODIGO MUNICIPAL JESUS MARIA, AGUASCALIENTES.
+SE REFORMA EL ARTÍCULO 96 DEL CÓDIGO MUNICIPAL JESÚS MARÍA, AGUASCALIENTES.
 
 ...
 
@@ -14667,3 +14671,9 @@ P.O. 14 DE FEBRERO DE 2011.
 P.O. 18 DE ABRIL DE 2011.
 
 ÚNICO. - La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE MARZO DE 2012.
+
+...
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
