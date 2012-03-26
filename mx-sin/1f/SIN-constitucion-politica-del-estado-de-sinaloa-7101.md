@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2011-05-27"
+last_updated: "2012-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-CONSTITUCION POLITICA DEL ESTADO DE SINALOA
+CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2012.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -45,7 +45,7 @@ QUE REFORMA LA DE 25 DE AGOSTO DE 1917.
 
 El territorio del Estado de Sinaloa es el que posee actualmente y el que por todo derecho le corresponda.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2008)</small>
 
 ## TITULO 1 (SIC) BIS. DE LOS DERECHOS HUMANOS
 
@@ -151,7 +151,7 @@ I. Haber cumplido los dieciocho años y
 
 II. Tener un modo honesto de vivir.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
 
 ###### Art. 9º.
 
@@ -247,7 +247,7 @@ El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2009 Y SUS ACUMULADAS 72/2009, 73/2009, 75/2009, 76/2009 Y 78/2009, DECLARÓ INAPLICABLE LA PORCIÓN NORMATIVA EN CUANTO A LA FECHA EN QUE TENDRÁN LUGAR LAS RESPECTIVAS JORNADAS ELECTORALES DE ESTE ARTÍCULO INDICADA CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2009 Y SUS ACUMULADAS 72/2009, 73/2009, 75/2009, 76/2009 Y 78/2009, DECLARÓ INAPLICABLE LA PORCIÓN NORMATIVA EN CUANTO A LA FECHA EN QUE TENDRÁN LUGAR LAS RESPECTIVAS JORNADAS ELECTORALES DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
 
@@ -279,7 +279,7 @@ El Organismo Electoral concentrará y ejercerá, en la manera en que disponga la
 
 En el cumplimiento de sus atribuciones de fiscalización, el Organismo Electoral contará con el apoyo de todas las autoridades del Estado de Sinaloa. Además tendrá las facultades para poder requerir la información y la documentación que le sea necesaria para la adecuada revisión de las finanzas partidistas con que cuenten los particulares, personas físicas y morales, que hayan tenido algún tipo de vínculo financiero o comercial con los partidos políticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 1998)</small>
 
 ###### Art. 15.
 
@@ -331,7 +331,7 @@ La ley en materia electoral deberá modificarse, promulgarse y publicarse por lo
 
 El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial, y de su organización política y administrativa, el Municipio libre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1983)</small>
 
 ###### Art. 18.
 
@@ -405,7 +405,7 @@ En ningún caso un partido político podrá contar con más de 24 diputados por 
 
 En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en diez puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más los diez puntos porcentuales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1995)</small>
 
 ###### Art. 25.
 
@@ -431,13 +431,17 @@ III. Sea mayor de 21 años en la fecha de la elección;
 
 IV. No podrán ser electos diputados propietarios o suplentes: El Gobernador del Estado, los Secretarios y Sub-Secretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia; los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los Distritos Electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión, que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios y los Ministros de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 2012)</small>
+
 ###### Art. 26.
 
-(DEROGADO, P.O. 27 DE MARZO DE 1995)
+El Congreso del Estado se instalará invariablemente el día primero de octubre del año que corresponda a la elección del mismo, en el recinto que para el efecto determine la Ley.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
 
 ###### Art. 27.
 
-La instalación de una Legislatura se verificará en presencia de la saliente o de su Diputación Permanente, si estuviere en receso.
+La instalación de una Legislatura se verificará en los términos establecidos por la Ley Orgánica del Congreso del Estado.
 
 ###### Art. 28.
 
@@ -447,9 +451,11 @@ I. Si los presentes están en mayoría, se conminará a los propietarios faltant
 
 II. Si los Diputados presentes están en minoría, exhortarán simultáneamente y por separado a los propietarios que falten, y a sus respectivos Suplentes, para que de acuerdo entre ambos, se presente cualquiera de ellos dentro de los diez días que siguen, y si no lo hicieren por cualquier motivo, se procederá como lo determina el art. 30, a reserva de declarar la vacante del puesto, por la Cámara, cuando las faltas sean injustificadas.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+
 ###### Art. 29.
 
-Los Diputados que en el curso de las sesiones, y sin causa justificada a juicio de la Cámara, falten diez días consecutivos, se entenderá que renuncian al cargo y se llamará a los Suplentes. Si éstos tampoco se presentan dentro de un plazo igual, se declarará la vacante del puesto y se procederá de acuerdo con el artículo siguiente.
+Se entenderá que renuncian al cargo los Diputados que, sin causa justificada a juicio del Pleno, falten a tres sesiones ordinarias consecutivas. Llegado el caso se llamará a los suplentes, y si éstos tampoco se presentan dentro de un plazo igual, se declarará la vacante del puesto y se procederá de acuerdo con el artículo 30.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
 
@@ -493,13 +499,13 @@ Los delitos, actos u omisiones en que incurran los Diputados serán sancionados 
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
 
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario. El primero comenzará el día primero de diciembre y terminará a más tardar el día treinta y uno de marzo siguiente, y el segundo principiará el día dieciséis de mayo y concluirá a más tardar el día quince de julio inmediato.
+El Congreso del Estado tendrá por cada año de ejercicio constitucional, dos períodos ordinarios de sesiones. El primero iniciará el primero de octubre y concluirá el treinta y uno de enero del siguiente año; y el segundo se abrirá el primero de abril y concluirá el treinta y uno de julio inmediato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2011)</small>
 
 ###### Art. 37.
 
@@ -525,9 +531,9 @@ El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y
 
 Cuando se decrete la suspensión de la aprobación de una cuenta pública, ésta deberá ser nuevamente discutida en el siguiente período ordinario de sesiones, previa a la revisión y aprobación en su caso, de la que corresponda al mismo.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
 
-En caso de que en la revisión de una cuenta pública, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos, se denunciarán ante la Procuraduría General de Justicia del Estado, la Contraloría General del Estado o ante la autoridad que corresponda, según el caso.
+En caso de que en la revisión de una cuenta pública o de la información sobre aplicación de recursos de cualquier ente fiscalizable, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos o que impliquen responsabilidades de cualquier tipo, la Auditoría Superior del Estado presentará las denuncias o querellas que correspondan ante la Procuraduría General de Justicia del Estado, o ante los órganos de control interno de los Poderes del Estado o de los municipios, según el caso.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -637,7 +643,9 @@ XII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaraci�
 
 XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el carácter de Substituto, o de Interino, en los términos que esta Constitución señala.
 
-XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la forma que esta Constitución precise.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2012)</small>
+
+XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de lo Contencioso Administrativo, mediante los procedimientos que esta Constitución y las leyes respectivas señalen;
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
@@ -656,6 +664,10 @@ XVIII. Recibir protesta constitucional a los Diputados al Gobernador y Magistrad
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
 XIX. Conceder licencia y admitir las renuncias a los Diputados y demás servidores públicos de su propia dependencia, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2012)</small>
+
+XIX Bis. Nombrar a propuesta del Órgano de Gobierno, a los servidores públicos del Congreso del Estado hasta el nivel de Director; recibirles la protesta de Ley, removerlos y concederles licencia, en los términos previstos en la Ley Orgánica;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -751,9 +763,35 @@ V. A los ciudadanos sinaloenses;
 
 VI. A los grupos legalmente organizados en el Estado.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Las iniciativas presentadas por los Diputados del Congreso, por el Gobernador, por el Supremo Tribunal de Justicia y por los Ayuntamientos, pasarán desde luego a Comisión.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Por cada período ordinario de sesiones, el Gobernador podrá presentar hasta dos iniciativas con el carácter de preferente, que deberán ser votadas por el Pleno del Congreso en un término máximo de diez días naturales.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Para que la iniciativa con el carácter de preferente sea rechazada en lo general o modificada en lo particular, se requerirá el voto de las dos terceras partes de los integrantes del Congreso presentes al momento de la votación.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+No podrán tener el carácter de preferente las iniciativas que el titular del Ejecutivo Estatal presente en materia presupuestal, al sistema electoral y de partidos, ni modificaciones constitucionales.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Los Grupos Parlamentarios del Congreso tendrán derecho de presentar iniciativas cuando éstas se apeguen a la plataforma electoral del partido político al que estén afiliados, a la agenda legislativa que su grupo parlamentario hubiere presentado, así como a las políticas públicas que el Ejecutivo Estatal esté aplicando. En el caso de los diputados sin Grupo Parlamentario, la presentación de iniciativas preferentes se hará previa solicitud expresa que de conformidad con la Ley hagan a las instancias de gobierno del Congreso.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Cada Grupo Parlamentario constituido con apego a la ley, podrá presentar una iniciativa con el carácter de preferente por cada año de ejercicio constitucional. No podrán tener el carácter de preferente las iniciativas que los grupos parlamentarios presenten en materia presupuestal, al sistema electoral y de partidos, ni modificaciones constitucionales.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
 La Ley Orgánica del Congreso especificará los trámites que tenga cada una de esas iniciativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 1979)</small>
 
 ###### Art. 46.
 
@@ -797,7 +835,7 @@ Las leyes y decretos son obligatorios desde el día siguiente al de su promulgac
 
 #### SECCION IV. DE LA DIPUTACION PERMANENTE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2008)</small>
 
@@ -825,7 +863,9 @@ V. Convocar e (sic) elecciones extraordinarias cuando fuere conducente.
 
 VI. Nombrar Gobernador Provisional en los casos que esta Constitución determine.
 
-VII. Recibir la protesta del Gobernador del Estado y la de los Magistrados del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2012)</small>
+
+VII. Recibir la protesta del Gobernador del Estado.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -841,11 +881,13 @@ XI. Las que especialmente le encomiende la Cámara, sin constituir violación de
 
 La Diputación Permanente presentará en la primera sesión del período inmediato de la Legislatura, un informe escrito, por el que se dé cuenta del uso que haya hecho de sus atribuciones y de los negocios que hubiere despachado.
 
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+
 ###### Art. 52.
 
-Cuando por cualquiera causa no pudiere una Legislatura inaugurar un período de ejercicios en el día que la ley determina, la Diputación Permanente continuará en funciones hasta la definitiva instalación de la Cámara.
+Cuando por cualquiera causa no pudiere una Legislatura inaugurar un período de ejercicios en el día que la ley determina, se seguirá el procedimiento establecido en la Ley Orgánica del Congreso del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2004)</small>
 
 #### SECCION V. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
@@ -891,7 +933,7 @@ El Poder Ejecutivo del Estado o el Ayuntamiento en su caso, aplicarán el proced
 
 Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO."
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 1981)</small>
 
 ###### Art. 56.
 
@@ -961,7 +1003,7 @@ El cargo de Gobernador del Estado sólo es renunciable por causa grave que calif
 
 El Gobernador no podrá ausentarse del territorio del Estado, por más de treinta días sin permiso del Congreso o de la Diputación Permanente en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 65.
 
@@ -1047,7 +1089,7 @@ XXIII Bis. Formalizar toda clase de acuerdos, contratos y convenios.
 
 XXIV. Los demás que le confieren la Constitución de los Estados Unidos Mexicanos y esta Constitución y las derivadas de ellas que no estén expresamente atribuidas o reservadas a los Poderes de la Federación o a los otros Poderes del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION I. DEL DESPACHO DEL PODER EJECUTIVO
 
@@ -1101,7 +1143,7 @@ Las faltas temporales de los Secretarios serán suplidas dentro de sus Ramos res
 
 Las Secretarías y demás organismos y dependencias de la Administración Pública Estatal o Paraestatal están constituidos por las dependencias que se establezcan de acuerdo con el Reglamento y Disposiciones Generales que se emitan por el Titular del Poder Ejecutivo, los que fijarán las atribuciones y facultades de los mismos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JUNIO DE 2001)</small>
 
 #### SECCION II. DE LA SEGURIDAD PUBLICA
 
@@ -1177,7 +1219,7 @@ VI. No haber sido condenado por delitos dolosos.
 
 El Procurador General de Justicia no podrá desempeñar otro cargo, empleo o comisión por el que se perciban emolumentos, excepto de enseñanza, ni litigar más que en asuntos propios. En caso de incumplimiento a esta disposición, será destituido.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ENERO DE 1993)</small>
 
 #### SECCION II BIS. DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
@@ -1271,11 +1313,11 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 (DEROGADO, P.O. 18 DE ABRIL DE 1963)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 1963)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE ABRIL DE 1963)</small>
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
@@ -1333,7 +1375,9 @@ Uno de los Magistrados será el Presidente del Supremo Tribunal de Justicia, qui
 
 Habrá además cinco Magistrados Suplentes quienes sólo integrarán el Pleno o las Salas cuando sustituyan a un Magistrado Propietario.
 
-Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2001)</small>
 
@@ -1391,7 +1435,9 @@ Las faltas absolutas de los Magistrados Propietarios del Supremo Tribunal de Jus
 
 Dichos Magistrados serán sustituidos en sus faltas temporales que excedan de quince días por los Magistrados Suplentes en los términos del párrafo anterior. Si las faltas no exceden de ese término, o en los casos de recusación o excusa, serán cubiertos en una Sala por los Magistrados de otra, según el turno que corresponda, y en el Pleno sólo serán sustituidos por los Magistrados Suplentes cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos, por lo menos, en la resolución de un determinado negocio.
 
-Si no fuera posible integrar el Pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados Suplentes llamados conforme a los párrafos anteriores de este artículo, el Congreso del Estado o la Diputación Permanente, en su caso, nombrará los Magistrados Interinos que sean necesarios.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Si no fuera posible integrar el Pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados Suplentes llamados conforme a los párrafos anteriores de este artículo, el Congreso del Estado, nombrará los Magistrados Interinos que sean necesarios.
 
 Las ausencias de cualquier índole de los Magistrados de Circuito serán cubiertas por el Secretario de la Sala de Circuito que corresponda, en tanto que el Supremo Tribunal de Justicia hace el nombramiento conducente.
 
@@ -1409,7 +1455,7 @@ Igualmente será renunciable el cargo de Magistrado de Circuito ante el Supremo 
 
 Las licencias de los Magistrados del Supremo Tribunal de Justicia serán concedidas por el propio Tribunal cuando no excedan de un mes, en tanto que las que excedan de ese tiempo las concederá el Congreso, o en su defecto, la Diputación Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 102.
 
@@ -1433,7 +1479,7 @@ III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Prime
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 104.
 
@@ -1563,6 +1609,10 @@ Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento y sinaloe
 
 Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad, y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa emitidos por autoridades del Estado o de los Municipios para lo cual podrán crearse Tribunales Administrativos, dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
 
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2012)</small>
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo serán elegidos por el Congreso del Estado, de una terna formada mediante el procedimiento que establezca la ley.
+
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO VI. JUSTICIA DE MENORES
@@ -1593,7 +1643,7 @@ Art. 109 Bis B. Se garantiza en el Estado el derecho de acceso a la información
 
 En materia política, sólo podrán ejercer este derecho los ciudadanos mexicanos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
@@ -1605,7 +1655,7 @@ En materia política, sólo podrán ejercer este derecho los ciudadanos mexicano
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 110.
 
@@ -1651,7 +1701,7 @@ El Ejecutivo Federal tendrá el mando de la fuerza pública en los Municipios do
 
 El cargo de Presidente Municipal, de Regidor y de Síndico Procurador será obligatorio pero no gratuito y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 115.
 
@@ -1685,7 +1735,7 @@ II. Ser originario de la municipalidad que lo elija o vecino de ella cuando meno
 
 (DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 117.
 
@@ -1887,7 +1937,7 @@ El Tesorero antes de entrar a ejercer sus funciones, caucionará suficientemente
 
 Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán por la Ley que al efecto expida el Congreso del Estado, acorde a los principios del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2006)</small>
 
 ## TITULO VI. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
@@ -2037,7 +2087,7 @@ Cuando las leyes no señalen término, se entenderá el de diez días para que l
 
 En el Estado nadie podrá desempeñar a la vez dos o más cargos de elección popular. Quien en tal caso se viere, tendrá que optar por alguno. Tampoco podrán reunirse en una misma persona, dos o más empleos por lo que se disfrute sueldo, exceptuándose los de enseñanza y beneficencia pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 144.
 
@@ -2049,13 +2099,15 @@ I. La protesta se rinde personal y verbalmente con interpelación o sin ella.
 
 (B).- Para rendir la protesta sin interpelación, el que va a protestar dirá: "Protesto cumplir y hacer cumplir la Constitución Política de la República, la del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de ...... que el pueblo me ha conferido mirando en todo por el honor y prosperidad de la República y del Estado". "Si así no lo hiciere, que la República y el Estado me lo demanden".
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 1985)</small>
 
 II. La protesta se pide y se dá por interpelación entre los siguientes servidores públicos:
 
 (1).- A los Diputados de la Legislatura que va a instalarse, les pedirá en grupo la protesta el Presidente de la Diputación Permanente o de la Cámara saliente, si está en período extraordinario de sesiones. En uno y otro caso, el acto se verificará en sesión pública ordinaria o extraordinaria. A los Diputados que se presenten después y a los suplentes que entren en ejercicio, el Presidente de la Cámara les tomará la protesta en la sesión pública que corresponda.
 
-(2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara, o en su caso, el de la Diputación Permanente.
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2012)</small>
+
+(2).- Al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado, les tomará la protesta en solemne sesión pública, ordinaria o extraordinaria, el Presidente de la Cámara.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -2349,11 +2401,11 @@ El Jefe del Departamento.
 
 Manuel A. Barrantes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE OCTUBRE DE 1928.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
 
 P.O. 13 DE NOVIEMBRE DE 1928.
 
@@ -2367,11 +2419,11 @@ P.O. 31 DE MAYO DE 1930.
 
 P.O. 8 DE NOVIEMBRE DE 1930.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
 
 P.O. 27 DE ABRIL DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SINALOA.
 
 P.O. 1° DE FEBRERO DE 1934.
 
@@ -2403,7 +2455,7 @@ P.O. 19 DE MAYO DE 1938.
 
 Son sinaloenses los mexicanos nacidos en el Estado de Sinaloa, y los residentes en él por más de dos años consecutivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 1994)</small>
 
 ###### Art. 6º.
 
@@ -2517,7 +2569,7 @@ P.O. 23 DE SEPTIEMBRE DE 1943.
 
 El presente Decreto comenzará a surtir sus efectos legales, a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-> <small>N. DE E. SE DEROGA EL DECRETO No. 414 DE FECHA 23 DE SEPTIEMBRE DE 1943, POR DECRETO No. 493 DE FECHA 23 DE MAYO DE 1944, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+> <small>N. DE E. SE DEROGA EL DECRETO No. 414 DE FECHA 23 DE SEPTIEMBRE DE 1943, POR DECRETO No. 493 DE FECHA 23 DE MAYO DE 1944, AMBOS PUBLICADOS EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
 ###### Artículo 2o.
 
@@ -2593,7 +2645,7 @@ P.O. 30 DE DICIEMBRE DE 1950.
 
 ###### ARTICULO UNICO.
 
-En tanto se expide y entra en vigencia la Ley Orgánica y Reglamentaria del Poder Ejecutivo a que este Decreto se refiere, los negocios que el mismo encomienda a los Departamentos de Gobernación, Educación y Bellas Artes, Promoción Económica y Social, Comunicaciones y Obras Públicas y Agricultura y Ganadería, seguirán siendo de la incumbencia de la Secretaría General de Gobierno de acuerdo con su actual Ley Orgánica y por tanto esta Dependencia subsistirá hasta entonces. Los que competen al Départamento (sic) de Hacienda Pública continuarán a cargo de la Tesorería General del Estado de conformidad con las Leyes que la han estado rigiendo hasta la fecha.
+En tanto se expide y entra en vigencia la Ley Orgánica y Reglamentaria del Poder Ejecutivo a que este Decreto se refiere, los negocios que el mismo encomienda a los Departamentos de Gobernación, Educación y Bellas Artes, Promoción Económica y Social, Comunicaciones y Obras Públicas y Agricultura y Ganadería, seguirán siendo de la incumbencia de la Secretaría General de Gobierno de acuerdo con su actual Ley Orgánica y por tanto esta Dependencia subsistirá hasta entonces. Los que competen al Départamento de Hacienda Pública continuarán a cargo de la Tesorería General del Estado de conformidad con las Leyes que la han estado rigiendo hasta la fecha.
 
 P.O. 26 DE ENERO DE 1952.
 
@@ -2837,7 +2889,7 @@ El Presente Decreto empezará a surtir sus efectos a partir de su publicación e
 
 P.O. 27 DE ENERO DE 1984.
 
-DECRETO No. 23 POR EL QUE SE REFORMA EL TITULO V DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 23 POR EL QUE SE REFORMA EL TÍITULO V DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2849,7 +2901,7 @@ En tanto se expidan las Leyes que reglamenten el contenido y alcance del present
 
 P.O. 27 DE ENERO DE 1984.
 
-DECRETO No. 24 POR EL SE REFORMA EL TITULO VI; LOS ARTICULOS 43 FRACCION XX, 95 PRIMER PARRAFO, 102 PRIMER PARRAFO, 104 FRACCIONES I, II Y III, 106, 144 PRIMER PARRAFO, 145,146,149 Y 155; Y SE DEROGA EL ARTICULO 98 DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+DECRETO No. 24 POR EL SE REFORMA EL TÍTULO VI; LOS ARTÍCULOS 43 FRACCIÓN XX, 95 PRIMER PÁRRAFO, 102 PRIMER PÁRRAFO, 104 FRACCIONES I, II Y III, 106, 144 PRIMER PÁRRAFO, 145,146,149 Y 155; Y SE DEROGA EL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
 
 ###### ARTICULO PRIMERO.
 
@@ -2903,7 +2955,7 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 
 P.O. 28 DE DICIEMBRE DE 1988.
 
-DECRETO No. 640 POR EL QUE SE REFORMAN LOS ARTICULOS 37, 43, FRACCION XXII Y 65, FRACCION VI DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+DECRETO No. 640 POR EL QUE SE REFORMAN LOS ARTÍCULOS 37, 43, FRACCIÓN XXII Y 65, FRACCIÓN VI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
 
 > <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -2925,7 +2977,7 @@ El presente Decreto entrará en vigor el día siguiente al día de su publicaci�
 
 P.O. 28 DE DICIEMBRE DE 1988.
 
-DECRETO No. 641 POR EL QUE SE REFORMAN LOS ARTICULOS 94 Y 99 DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+DECRETO No. 641 POR EL QUE SE REFORMAN LOS ARTÍCULOS 94 Y 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
 
 ###### ARTICULO PRIMERO.
 
@@ -2995,7 +3047,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 20 DE ABRIL DE 1994.
 
-DECRETO No. 315 POR EL QUE SE REFORMAN Y ADICIONAN EN SU CASO LOS ARTICULOS 37, 43 FRACCION XXII Y SE ADICIONA LA FRACCION XXII BIS, 53 Y 54 DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+DECRETO No. 315 POR EL QUE SE REFORMAN Y ADICIONAN EN SU CASO LOS ARTÍCULOS 37, 43 FRACCIÓN XXII Y SE ADICIONA LA FRACCIÓN XXII BIS, 53 Y 54 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
 
 ###### ARTICULO PRIMERO.
 
@@ -3007,7 +3059,7 @@ La revisión de las cuentas públicas de los municipios correspondientes al año
 
 P.O. 20 DE ABRIL DE 1994.
 
-DECRETO No. 316 POR EL QUE SE REFORMAN LOS ARTICULOS 43 FRACCION XXIII, 65 FRACCION XXI DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+DECRETO No. 316 POR EL QUE SE REFORMAN LOS ARTÍCULOS 43 FRACCIÓN XXIII, 65 FRACCIÓN XXI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
 
 ###### ARTICULO UNICO.
 
@@ -3225,7 +3277,7 @@ Artículo Segundo.- La Ley que reglamente la materia del presente decreto deber�
 
 P.O. 26 DE MAYO DE 2008.
 
-DECRETO No. 93, POR EL QUE SE REFORMAN LOS ARTICULOS 1, 2 Y 3 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 93, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2 Y 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3233,7 +3285,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 26 DE MAYO DE 2008.
 
-DECRETO No. 94, POR EL QUE SE ADICIONA EL TITULO 1 BIS Y LOS ARTICULOS 4 BIS, 4 BIS A, 4 BIS B Y 4 BIS C Y SE DEROGA EL 157 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 94, POR EL QUE SE ADICIONA EL TÍTULO 1 BIS Y LOS ARTÍCULOS 4 BIS, 4 BIS A, 4 BIS B Y 4 BIS C Y SE DEROGA EL 157 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3241,7 +3293,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 26 DE MAYO DE 2008.
 
-DECRETO No. 95, POR EL QUE SE REFORMA LA FRACCION XXVIII DEL ARTICULO 43 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO No. 95, POR EL QUE SE REFORMA LA FRACCIÓN XXVIII DEL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3282,6 +3334,22 @@ b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, p
 c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
 
 CUARTO.- Los Ayuntamientos del Estado, deberán expedir o adecuar las disposiciones administrativas que resulte necesario en los términos del Decreto por el que se reforman y adicionan los artículos 75, 115, 116, 122, 123 y 127 de la Constitución Política de los Estados Unidos Mexicanos, que fue publicado en el Diario Oficial de la Federación el 24 de agosto de 2009, y del presente decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor, así mismo procederá sancionar penal y administrativamente las conductas que impliquen incumplimiento o elusión por simulación a lo establecido en la presente reforma constitucional.
+
+P.O. 26 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Para efecto de posibilitar la nueva fecha de instalación del Congreso del Estado, prevista en el artículo 36 de la Constitución Política, los diputados a la LXI Legislatura serán elegidos para un período de dos años y diez meses, por lo que por única ocasión iniciarán sus funciones el primero de diciembre de 2013 y las concluirán el 30 de septiembre de 2016.
+
+###### ARTÍCULO TERCERO.
+
+También por única ocasión, durante el primer año de ejercicio constitucional de la LXI Legislatura, el primer período ordinario de sesiones iniciará el primero de diciembre de 2013 y terminará el treinta y uno de enero de 2014; y el segundo período ordinario empezará el primero de abril y concluirá el treinta y uno de julio de 2014.
+
+El primer período ordinario de sesiones del segundo año de ejercicio iniciará el primero de octubre de 2014 y a partir de esa fecha se ajustarán los períodos de sesiones al nuevo texto del artículo 36 de la Constitución Política del Estado, reformado con este decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
