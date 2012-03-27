@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2012-03-24"
+last_updated: "2012-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -1577,7 +1577,29 @@ XI.- Oponerse a las actividades de evaluación, inspección o vigilancia; así c
 
 XII.- Imponer al educando medios correctivos que resulten perjudiciales para su salud física o psicológica;
 
-XIII.- Incumplir cualesquiera de los demás preceptos de esta ley, así como las disposiciones expedidas con fundamento en ella.
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XIII.- Tolerar conductas contrarias a la convivencia de la comunidad escolar, de acuerdo con lo previsto en el Título Noveno de esta ley;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XIV.- No tomar las medidas necesarias para atender y prevenir la violencia y el acoso escolar;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XV.- Tolerar o consentir, por parte de los directivos, que maestros o personal de apoyo utilicen un lenguaje obsceno, lascivo o blasfemo contra los alumnos, o realicen conductas de hostigamiento o violencia en contra de los escolares por cualquier medio;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XVI.- Ocultar al padre o tutor conductas consideradas como de violencia y acoso escolar en que hubiesen incurrido sus hijos o pupilos;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XVII.- En su caso, proporcionar información falsa u ocultar información a las autoridades competentes respecto de hechos de que hubieren sido testigos presenciales, y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XVIII.- Incumplir cualquiera de los demás preceptos de esta ley, así como las disposiciones expedidas con fundamento en ella.
 
 Las disposiciones de este artículo no son aplicables a los trabajadores de la educación, en virtud de que, las infracciones en que incurran serán sancionadas conforme a las disposiciones especificas para ellos.
 
@@ -1708,6 +1730,270 @@ Las Asociaciones de Padres de Familia debidamente constituidas y registradas, se
 ###### ARTICULO 155.
 
 Los menores que cursen la educación básica en un plantel localizado en donde no haya cobertura de las compañías aseguradoras, serán apoyados a través del fondo subsidiario a que se refiere el artículo 152 de la presente ley para la atención médica necesaria en caso de que sufran un accidente escolar.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2012)</small>
+
+## TÍTULO NOVENO. DE LA SEGURIDAD Y LA CONVIVENCIA ESCOLAR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2012)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 156.
+
+A efecto de prevenir la violencia en las instituciones educativas públicas y privadas, este título tiene como finalidad crear una cultura de convivencia entre los integrantes de la comunidad educativa formada por aquellos que interactúan de forma cotidiana en un ambiente escolar: padres de familia o tutores, alumnos, directores, maestros, personal administrativo y de apoyo que labore en los centros educativos, con la colaboración del Consejo de Participación Social en la Educación, así como de las autoridades estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 157.
+
+La Secretaría de Educación, con apoyo de los directores, maestros y demás personal de apoyo y asistencia a la educación, así como de padres de familia, en el ámbito de sus respectivas competencias, adoptará las medidas necesarias para garantizar la convivencia en el centro educativo de que se trate. Con este fin se potenciará la comunicación constante y directa con los padres de familia.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 158.
+
+La Secretaria de Educación, a través de su estructura y de conformidad a la disponibilidad presupuestaria, salvaguardará la integridad física y psicológica de los educandos dentro de los planteles educativos; o cuando así lo considere necesario podrá solicitar a las autoridades municipales y estatales competentes en materia de seguridad pública, tomen las medidas pertinentes para garantizar la seguridad en los alrededores de los planteles educativos.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 159.
+
+Los centros educativos estarán obligados a guardar reserva sobre la información de que se disponga acerca de las circunstancias personales y familiares del alumno o de cualquier integrante de la comunidad escolar, particularmente aquella que pudiera dar ocasión a la burla o escarnio.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 160.
+
+Cualquier integrante de la comunidad escolar deberá comunicar a la autoridad competente las circunstancias que puedan implicar malos tratos para cualquier integrante de la comunidad escolar.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 161.
+
+Cuando no se respeten los derechos de algún miembro de la comunidad escolar, la autoridad educativa adoptará las medidas que procedan, conforme a lo dispuesto en los reglamentos vigentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2012)</small>
+
+### CAPÍTULO II. DERECHOS Y DEBERES DE LOS INTEGRANTES DE LA COMUNIDAD ESCOLAR EN MATERIA DE CONVIVENCIA
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 162.
+
+Todos los integrantes de la comunidad escolar deberán generar y conservar un ambiente agradable y respetuoso entre ellos.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 163.
+
+Cualquier integrante de la comunidad escolar tiene derecho a que se le procure una debida armonización en caso de conflicto generado en el ambiente educativo.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 164.
+
+Cuando se presenten situaciones de indisciplina escolar, las escuelas públicas o privadas reconocidas oficialmente garantizarán que los implicados sean canalizados a un especialista, ya sea de la escuela, en particular si las condiciones económicas de los padres lo permiten, o cualquier institución que preste el servicio de forma gratuita.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 165.
+
+Es un deber de los miembros de la comunidad escolar participar en actividades que fomenten la convivencia, así como acatar las reglas de conducta autorizadas por la Secretaría de Educación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2012)</small>
+
+### CAPÍTULO III. REGLAS DE CONVIVENCIA ESCOLAR
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 166.
+
+La Secretaría de Educación deberá emitir las reglas de conducta dirigidas a crear una cultura de convivencia en la comunidad escolar.
+
+La Secretaría de Educación, al emitir las reglas de conducta señaladas en el párrafo precedente, deberá dotarlas de un carácter educativo, socializador y recuperador con el fin de inculcar el respeto como componente básico de las relaciones entre todos los miembros de la comunidad escolar, estableciendo la metodología y estrategias de atención a través de las cuales se harán cumplir dichas normas, a efecto de evitar prácticas que generen violencia en las instituciones escolares.
+
+Cada centro educativo emitirá su reglamento interno en base a las reglas de conducta dictadas por la Secretaría de Educación.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 167.
+
+Todos los integrantes de la comunidad escolar, deben colaborar y acatar, de acuerdo con la función de cada uno, las reglas de conducta autorizadas por la Secretaría de Educación.
+
+Los estudiantes deben observar respecto a sus compañeros, las reglas de conducta a que se refiere este capítulo.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 168.
+
+La Secretaría de Educación dictará las medidas pertinentes para la difusión de las reglas de conducta que al efecto emita, para garantizar, al inicio de cada ciclo escolar, su conocimiento y cumplimiento por parte de toda la comunidad educativa.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 169.
+
+Al aplicar las medidas disciplinarias que dicte la Secretaría de Educación, deberá tomarse en cuenta lo siguiente:
+
+I. No podrán imponerse correcciones contrarias a lo establecido en los reglamentos vigentes;
+
+II. Las medidas disciplinarias serán proporcionales a la conducta que se le atribuya al alumno;
+
+III. Las circunstancias personales, familiares y sociales del alumno, así como la reincidencia en el actuar de éste si la hubiere, y
+
+IV. Cuando un alumno incurra en una conducta contraria a lo establecido en los términos de esta ley y a las reglas de conducta deberá hacerse del conocimiento del padre o tutor, así como la medida correctiva que vaya a aplicarse.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 170.
+
+Las medidas disciplinarias emitidas por la Secretaría de Educación serán aplicables a los alumnos que incurran en alguna conducta contraria a la convivencia escolar en los términos de esta ley y a las reglas que al efecto emita la autoridad educativa estatal, siempre que dicha conducta ocurra en cualquiera de los siguientes supuestos:
+
+I. Mientras permanezcan dentro de la institución educativa, de autobuses escolares o transporte alquilado por el centro educativo correspondiente;
+
+II. Mientras participen en actividades escolares, y
+
+III. Estando fuera del centro educativo en actividades extraescolares.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 171.
+
+Los integrantes de la comunidad escolar deberán colaborar para crear y mantener un ambiente de convivencia armónica y aprendizaje libre de amenazas y violencia, e informarán a la autoridad escolar sobre cualquier acto de indisciplina de que tengan conocimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 172.
+
+Cuando se presenten situaciones de conflicto escolar, la autoridad superior inmediata del centro educativo de que se trate intentará armonizar la relación entre dichas personas, y en su caso derivará a los involucrados a un especialista, para solucionar el conflicto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2012)</small>
+
+### CAPÍTULO IV. DE LA VIOLENCIA Y EL ACOSO ESCOLAR
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 173.
+
+El objetivo de este capítulo será la protección contra la violencia y el acoso escolar entre los estudiantes de las escuelas públicas y privadas a que se refiere el artículo 1.° de esta ley.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 174.
+
+La violencia y el acoso escolar serán considerados como indisciplinas, sobre las cuales la Secretaría de Educación habrá de dictar las medidas necesarias para su prevención y erradicación, sin menoscabo de la aplicación de otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 175.
+
+Para efectos de este título, se entiende por violencia o acoso escolar, el hostigamiento e intimidación entre estudiantes, y se referirá a la acción de violencia sistemática, física, verbal, psicológica, sexual escrita, por señales o tocamientos, generada entre estudiantes.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 176.
+
+El acoso escolar se puede presentar de las siguientes formas:
+
+I. Físico: empujones, golpes o lesiones;
+
+II. Verbal: insultos y menosprecio que se realice por un estudiante a otro, de manera pública o privada;
+
+III. Psicológico: persecución, intimidación, sometimiento, chantaje, manipulación o amenazas, incluidas las gesticulaciones y obscenidades mediante señas, miradas o expresiones corporales;
+
+IV. Exclusión social: el estudiante víctima es notoriamente excluido y aislado de la convivencia escolar;
+
+V. Sexual: podrá manifestarse mediante comentarios de índole sexual, ya sea de forma verbal o escrita, miradas o señas que denoten obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual, y
+
+VI. Cibernético: por medios electrónicos como Internet, páginas web, redes sociales, blogs, correo electrónico, mensajes de teléfono celular o videograbaciones.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 177.
+
+Para que exista acoso o violencia escolar se requiere que se presente alguna de las siguientes condiciones:
+
+I. Se trate de una acción agresiva e intencional;
+
+II. Se produzca en forma reiterada, entendiéndose la agresión dada en dos o más ocasiones por un mismo victimario aunque se trate de distintas víctimas; para el caso del acoso previsto en las fracciones V y VI del artículo que antecede, así como cuando se trate del maltrato físico manifestado mediante golpes o lesiones, bastará con que se presenten una sola vez para que se tenga como presumible el acoso;
+
+III. Exista desequilibrio de poder entre el agresor y la víctima, aun siendo estudiantes ambos, a causa de condiciones físicas, psicológicas o emocionales de la víctima, y
+
+IV. Provoque en la víctima daño emocional, psicológico o físico.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 178.
+
+La autoridad educativa tiene la obligación de derivar hacia un especialista los casos de violencia y acoso escolar que se presenten en un centro educativo.
+
+Cuando por el tipo o la gravedad del hecho constitutivo de violencia escolar no se logre armonizar la relación entre el generador del acoso y la víctima, se buscará trasladar al primero a otro centro escolar.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 179.
+
+Cuando el presunto acosador tenga entre doce años cumplidos y menos de dieciocho años de edad y la conducta que se le atribuya o compruebe esté tipificada como delito en las leyes estatales, se procederá conforme a lo dispuesto por la Ley de Justicia integral para Adolescentes del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 180.
+
+La autoridad escolar tiene la obligación de aplicar las medidas disciplinarías correspondientes cuando sea manifiesta o comprobada una conducta considerada como acoso o violencia escolar en los términos de esta ley.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 181.
+
+Cuando lo solicite el padre o tutor de la víctima de acoso o violencia escolar y un especialista así lo recomiende, podrá trasladarse a dicho alumno a otra institución educativa, para efecto de que pueda desarrollarse en un ambiente escolar adecuado.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 182.
+
+Cuando por el tipo de conducta realizada, las reglas que al efecto dicte la Secretaría de Educación impliquen el traslado de un alumno a diverso centro escolar, tal circunstancia deberá ser previamente notificada tanto al alumno como al padre o tutor. Al preparar la reinscripción del alumno en diverso plantel escolar, se procurará tomar las medidas necesarias para evitar que éste pierda el ciclo escolar.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE MARZO DE 2012)</small>
+
+### CAPÍTULO V. DE LAS MEDIDAS INSTITUCIONALES PREVENTIVAS DEL ACOSO Y LA VIOLENCIA ESCOLAR
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 183.
+
+Las escuelas deberán generar actividades de capacitación u orientación al personal docente y de apoyo, para la prevención y atención del acoso y la violencia escolar, de conformidad con las disposiciones reglamentarias aplicables en la materia, así como a los lineamientos que, en su caso, establezca la Secretaría de Educación.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 184.
+
+Las escuelas deben incluir en el expediente de cada alumno las conductas especificadas en este título.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 185.
+
+El padre o tutor del alumno cuyo expediente contenga algún registro o constancia por conductas de acoso o violencia escolar, deberá ser enterado de forma inmediata y constante.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 186.
+
+Las instituciones educativas, a través de los Consejos Escolares de Participación Social y la Asociación de Padres de Familia, podrán programar al inicio de cada ciclo escolar, y de forma bimestral, actividades con especialistas en convivencia y resolución de conflictos, prevención y acoso escolar.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 187.
+
+Las escuelas deberán presentar un informe semestral a la Secretaría de Educación respecto a los incidentes de acoso y violencia escolar, a efecto de que exista un registro que arroje la incidencia, los avances o retrocesos en relación con el tema.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2012)</small>
+
+###### ARTICULO 188.
+
+La Secretaría de Educación deberá implementar el programa para fomentar la convivencia en la comunidad escolar, el cual deberá contener las acciones a desarrollar para la difusión informativa y preventiva del acoso y la violencia escolar.
 
 ## TRANSITORIOS
 
@@ -1972,3 +2258,13 @@ P.O. 24 DE MARZO DE 2012.
 DECRETO NÚMERO 23981/LIX/12, POR EL QUE SE ADICIONA UNA FRACCIÓN XXXIV Y SE RECORRE LA ACTUAL EN SU ORDEN DEL ARTÍCULO 14 Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE MARZO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado de Jalisco procederá a crear o modificar las disposiciones a los reglamentos escolares ya existentes, en un plazo no mayor de noventa días siguientes a la entrada en vigor del presente decreto.
+
+TERCERO. La Secretaría de Educación deberá emitir las reglas de conducta, previstas en el Título Noveno de este ordenamiento en un plazo no mayor de ciento veinte días a la entrada en vigor del presente decreto.
+
+CUARTO. Los centros educativos deberán emitir el reglamento interno a que se refiere este título, en un plazo no mayor a los ciento cincuenta días siguientes a la entrada en vigor del presente decreto.
