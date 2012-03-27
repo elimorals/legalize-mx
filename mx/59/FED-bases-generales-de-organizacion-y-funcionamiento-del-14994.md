@@ -4,7 +4,7 @@ identifier: "FED-bases-generales-de-organizacion-y-funcionamiento-del-14994"
 country: "mx"
 rank: "otro"
 publication_date: "1998-11-26"
-last_updated: "2011-03-16"
+last_updated: "2012-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1998-11-12"
 ---
 # BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA
 
-BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA
+BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2012.
 
 Bases publicadas en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de noviembre de 1998.
 
@@ -181,7 +181,7 @@ VI. Controlar la recepción, registro, guarda, custodia y conservación de la in
 
 VII. Las demás que les sean conferidas por las normas aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 #### SECCION SEGUNDA. De la Unidad de Defensa Penal y Evaluación del Servicio
 
@@ -267,7 +267,7 @@ IX. Proponer al asesor jurídico que por su eficiencia, calidad y honestidad en 
 
 X. Proponer al Director General la adscripción para cada asesor jurídico, conforme a las calificaciones obtenidas en el proceso de selección y atendiendo a las necesidades del servicio.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 #### SECCION CUARTA. De la Unidad Supervisión (sic) y Control de Defensa Penal y Asesoría Jurídica
 
@@ -409,7 +409,7 @@ XXIII. Informar a la Dirección General sobre las necesidades de capacitación a
 
 XXIV. Las demás que determine la Dirección General.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO VI. Del Secretariado Técnico
 
@@ -423,7 +423,7 @@ Artículo 13 quintus.- Los secretarios técnicos tendrán funciones de apoyo a l
 
 ## TITULO TERCERO. De los servicios del Instituto Federal de Defensoría Pública
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ### CAPITULO I. Reglas comunes para los servicios de defensa penal y asesoría jurídica
 
@@ -445,7 +445,7 @@ El defensor público y el asesor jurídico en el ejercicio de su cargo, deben ob
 
 La defensa en materia penal y la asesoría jurídica en otras materias, son incompatibles con el patrocinio particular.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ### CAPITULO II. Del servicio de defensa penal
 
@@ -481,7 +481,7 @@ Cuando exista conflicto de intereses o alguna otra causa justificada por la que 
 
 Existe conflicto de intereses que impide la intervención del Instituto Federal de Defensoría Pública, cuando el procedimiento se inicia con motivo de denuncia presentada por un defensor público federal.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 #### SECCION SEGUNDA. De la defensa penal en averiguación previa
 
@@ -489,7 +489,7 @@ Existe conflicto de intereses que impide la intervención del Instituto Federal 
 
 La función del defensor público en averiguación previa comprende dos supuestos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 I. Asistencia jurídica.- Inicia cuando la persona que va a rendir declaración ante el Ministerio Público de la Federación, manifiesta su deseo de estar asistida por un defensor público en los términos del artículo 127 Bis del Código Federal de Procedimientos Penales, y concluye al finalizar la diligencia.
 
@@ -503,7 +503,7 @@ II. Defensa penal.- Inicia con la entrevista al indiciado, que cuando no estuvie
 
 Si se resuelve el no ejercicio de la acción penal y existen bienes asegurados del inculpado, o si se consigna y esos bienes no se ponen a disposición del Juez, el defensor público realizará las acciones legales tendientes a recuperar los bienes, a instancia del defendido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 22.
 
@@ -511,7 +511,7 @@ El servicio de defensa penal en averiguación previa puede ser solicitado direct
 
 Si quien requiere el servicio se encuentra privado de su libertad, la solicitud la puede hacer algún familiar o cualquier persona que tenga conocimiento de esta situación, siempre que se trate de un asunto penal del fuero federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 23.
 
@@ -529,7 +529,7 @@ II. Informar de inmediato al delegado o director de la circunscripción donde se
 
 III. Mantener estrecha coordinación con el defensor público adscrito al órgano jurisdiccional que conozca de los asuntos en los que se ejercite la acción penal, especialmente cuando se trate de consignaciones con detenido, remitiendo para tal efecto la documentación necesaria para la continuación del servicio de defensa.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 #### SECCION TERCERA. De la defensa penal ante órganos jurisdiccionales
 
@@ -615,9 +615,23 @@ Tanto en los centros de reclusión como en los lugares de arraigo, en los que de
 
 I. Visita inicial.- Es la que se lleva a cabo dentro de las cuarenta y ocho horas siguientes a la aceptación de la defensa en ambas instancias, y tiene por objeto conocer de manera directa la versión de su defendido sobre los hechos que se le imputan, para contar con mayores elementos al plantear la estrategia de defensa. En dicha visita entrega al inculpado la tarjeta informativa señalada en el capítulo referente a la información documental de estas Bases; y,
 
-II. Visita ordinaria.- Es la que realiza durante el arraigo o la tramitación del proceso a cada uno de sus defendidos, dos veces al mes, o cuando menos una si por razones fundadas considera innecesario realizar ambas, con la finalidad de allegarse probanzas que puedan aportarse en defensa de sus representados, preparar el ofrecimiento y desahogo de las mismas, interponer medios de impugnación y tomar decisiones junto con el arraigado o encausado para una adecuada defensa, independientemente de lo previsto por la fracción VIII del artículo 12 de la Ley.
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
-Si el inculpado se encuentra recluido en lugar diferente al de la adscripción del defensor, éste solicitará lo correspondiente para que su homólogo en ese lugar la practique.
+II. Visita ordinaria.- Es la que realiza durante el arraigo o la tramitación del proceso a cada uno de sus defendidos, con la finalidad de allegarse probanzas que puedan aportarse en defensa de sus representados, preparar el ofrecimiento y desahogo de las mismas, interponer medios de impugnación y tomar decisiones junto con el arraigado o encausado para una adecuada defensa, independientemente de lo previsto por la fracción VIII del artículo 12 de la Ley.
+
+Los defensores valorarán la necesidad de las visitas a efecto de realizarlas, además de tener en cuenta que deben practicarlas, cuando menos:
+
+a) Tras la detención y durante el arraigo del defendido.
+
+b) Antes de la declaración preparatoria.
+
+c) Al inicio de la instrucción.
+
+d) Previamente a que formulen las conclusiones.
+
+e) Antes y después de dictada la sentencia.
+
+Sin perjuicio de lo anterior, los defensores estarán atentos a entrevistarse personalmente con los defendidos, sus familiares o sus allegados, siempre y cuando ellos lo soliciten o resulte necesario para transmitirles información relevante o llevar a cabo algún acto procesal determinante para la defensa.
 
 ### CAPITULO III. Del servicio de asesoría jurídica
 
@@ -729,7 +743,7 @@ Cuando el usuario exprese por escrito, en forma clara y precisa, que no tiene in
 
 #### SECCION TERCERA. Del procedimiento para la prestación del servicio de asesoría jurídica
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 32.
 
@@ -755,7 +769,7 @@ IV. Si la representación es viable, el solicitante es destinatario del servicio
 
 V. Cuando el servicio se otorgue en la modalidad de representación, el asesor jurídico proporcionará al solicitante una tarjeta informativa que contiene sus datos, obligaciones y los números telefónicos de las oficinas centrales del Instituto y de la Delegación respectiva, en su caso, para quejas o comentarios, firmando aquél de recibido en el registro correspondiente; y,
 
-> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PARRAFO], D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(ADICIONADA [N. DE E. ANTES SEGUNDO PÁRRAFO], D.O.F. 19 DE MAYO DE 2008)</small>
 
 VI. En caso de negativa del servicio de representación por razones de competencia, viabilidad o por las condiciones subjetivas del solicitante, siempre que exista inconformidad por parte de éste, el Director General resolverá lo que proceda.
 
@@ -763,7 +777,7 @@ VI. En caso de negativa del servicio de representación por razones de competenc
 
 La tarjeta informativa a que se refiere la fracción I de este artículo, se entregará al solicitante cuando el servicio se preste en las modalidades de asesoría o representación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 33.
 
@@ -817,11 +831,11 @@ En su aplicación, se cuenta con elementos de consulta documental y virtual inme
 
 La información generada por medios electrónicos y la documental que remiten el defensor público y el asesor jurídico a las delegaciones o direcciones y áreas centrales del Instituto, debe ser oportuna, veraz y de conformidad con las normas aplicables; la primera se ingresa de inmediato al sistema informático y el manejo de la segunda se organiza mediante el envío, recepción, registro, integración y archivo, para su adecuada consulta.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ### CAPITULO II. De los instrumentos de registro y expedientes de control para el servicio de defensa penal
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 40.
 
@@ -841,7 +855,7 @@ III. Agenda oficial de actividades.- En la que se anotan la fecha y hora de las 
 
 IV. Tarjeta informativa.- Contiene los datos y obligaciones del defensor, así como el área correspondiente del Instituto donde se pueden presentar quejas o inconformidades, se entrega al destinatario del servicio a partir de que es legalmente representado, o a sus familiares en los casos que se estime necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 41.
 
@@ -959,7 +973,7 @@ Cuando por la naturaleza extraordinaria del asunto o por otra causa justificada 
 
 La información electrónica deberá ingresarse al sistema integral en forma inmediata y correcta.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ### CAPITULO IV. Reglas comunes para los expedientes de control de los servicios de defensa penal y asesoría jurídica
 
@@ -1243,7 +1257,7 @@ El servicio civil de carrera regula la selección, ingreso, adscripción, perman
 
 Cada uno de los componentes del servicio civil de carrera son de naturaleza laboral y estarán regidos por las necesidades del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 64.
 
@@ -1271,6 +1285,10 @@ Los principios que tutelan el servicio civil de carrera son: excelencia, profesi
 
 La selección y el ingreso a la Institución, se realizan aplicando los “Lineamientos para la Selección de Ingreso de los Defensores Públicos y Asesores Jurídicos del Instituto Federal de Defensoría Pública”, aprobados por la Junta Directiva del Instituto.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MARZO DE 2012)</small>
+
+La promoción y el ascenso a los cargos de supervisor, evaluador y delegado se regirán por los Lineamientos correspondientes.
+
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 2002)</small>
 
 ###### Artículo 67.
@@ -1283,7 +1301,11 @@ La adscripción se otorgará después de realizar el procedimiento de readscripc
 
 Para el desempeño de sus funciones, al defensor público se le adscribe indistintamente ante el Ministerio Público de la Federación o ante los tribunales federales que conozcan de la materia penal; al asesor jurídico, se le adscribe en las ciudades donde radican los órganos jurisdiccionales federales, o en aquellas en que existan requerimientos del servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE MARZO DE 2012)</small>
+
+El defensor público, asesor jurídico, supervisor, evaluador o delegado que, tras haber triunfado en un concurso de oposición, rechace o no ocupe en el tiempo que se le fije la adscripción asignada no podrá participar en ningún otro concurso, salvo que demuestre, fehaciente y suficientemente, ante el Director General del Instituto la imposibilidad, personal o familiar, de ocupar esa adscripción. El Director General decidirá lo conducente tomando en cuenta los argumentos y las pruebas que se ofrezcan para acreditar dicha imposibilidad, así como las necesidades del servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE JUNIO DE 2010)</small>
 
 ###### Artículo 68.
 
@@ -1323,7 +1345,7 @@ El Director General podrá acordar el cambio de sede o adscripción de un defens
 
 Artículo 69 bis.- El Director General podrá acordar el cambio de sede de un defensor público o un asesor jurídico, por necesidades del servicio, cuando existan problemas graves en su adscripción o cuando los servicios proporcionados a los usuarios no sean satisfactorios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 70.
 
@@ -1340,6 +1362,30 @@ Quien no sea triunfador de concurso de oposición, pero haya obtenido setenta y 
 ###### Artículo 71.
 
 En el sistema de servicio civil de carrera, la capacitación y estímulos para los servidores públicos del Instituto se sujetarán a lo dispuesto por el Plan Anual de Capacitación y Estímulos, mismo que debe ser propuesto para su aprobación a la Junta Directiva del Instituto, a más tardar el último día hábil del mes de marzo de cada año.
+
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2012)</small>
+
+Artículo 71 bis.- La capacitación en el Instituto será permanente y se programará en el Plan Anual de Capacitación y Estímulos, atendiendo a los requerimientos de los defensores públicos y asesores jurídicos y a la necesidad de que estos servidores públicos se actualicen en las materias que, por cambios legislativos o alguna otra circunstancia de interés para la prestación del servicio, ameriten que se imparta alguna actividad académica.
+
+El Plan comprenderá, por lo menos, dos tipos de actividades académicas: las Especializaciones en Defensa Penal y Asesoría Jurídica, y los Seminarios de Actualización.
+
+Las Especializaciones son un servicio gratuito de enseñanza para preparar y actualizar en sus conocimientos y habilidades principalmente a las personas que laboren en las actividades sustantivas del Instituto, aunque de manera excepcional se admitirán a personas ajenas a él. Están destinadas a los defensores públicos y asesores jurídicos, a quienes aspiren a serlo y preferentemente las podrán cursar los servidores públicos adscritos al Instituto Federal de Defensoría Pública, al Poder Judicial de la Federación, las personas vinculadas con la defensa penal y la asesoría jurídica que laboren en los ámbitos de la impartición de justicia y las que hayan prestado su servicio social o realizado sus prácticas profesionales en el Instituto.
+
+El Secretario Técnico de Coordinación Externa propondrá al Director General la lista de personas que ingresarán a las Especializaciones y se seleccionarán teniendo en cuenta el orden de preferencia mencionado, los méritos académicos y el cumplimiento de los requisitos que se fijarán en cada convocatoria. Los nombres de las personas aceptadas en las Especializaciones se publicarán en la página web del Instituto, al igual que la convocatoria antes de que finalice el mes de enero.
+
+El Director General fijará, cada año, el número máximo de personas que cursen las Especializaciones cuya duración será de diez meses. Los profesores que impartan alguna asignatura de las Especializaciones deberán ser especialistas en la misma y se dará oportunidad a los defensores públicos y asesores jurídicos que cuenten con estudios de posgrado y experiencia docente.
+
+Los alumnos de las Especializaciones podrán solicitar, una vez publicada su calificación en la página web del Instituto, la revisión de la misma al profesor, para lo cual contarán con 10 días hábiles. Los profesores serán los únicos que podrán conceder revisiones y, en su caso, modificar las calificaciones.
+
+Una vez finalizadas las Especializaciones, los alumnos obtendrán un certificado académico o una constancia de asistencia que sólo tendrán valor curricular.
+
+En ningún caso, cursar las Especializaciones y obtener el certificado académico correspondiente reemplazará a los exámenes que se apliquen en los concursos de oposición.
+
+La relación entre el Instituto y los alumnos de las Especializaciones es de coordinación y éstos se comprometerán a cumplir con las Disposiciones Escolares que dicte el Director General, con aprobación de la Junta Directiva, las cuales serán dadas a conocer a los alumnos al iniciar los cursos. El alumno que incumpla alguna o algunas de las Disposiciones Escolares podrá causar baja definitiva de la Especialización que se encuentre cursando y no será admitido en ninguna de las actividades académicas organizadas en el Instituto.
+
+Los Seminarios de Actualización se programarán con base en los criterios señalados en el artículo 36 de la Ley Federal de Defensoría Pública, así como en las reformas legales relacionadas con las funciones sustantivas del Instituto. Los delegados estarán atentos de las materias en que se requiera capacitar a los defensores públicos y asesores jurídicos y propondrán oportunamente que se incluyan en el Plan Anual de Capacitación y Estímulos. Los delegados serán responsables de que los cursos y conferencias incluidas se lleven a cabo.
+
+Las bibliotecas del Instituto estarán al servicio principalmente de las personas que laboren en él. Se procurará que cuenten con los materiales que sean útiles a los defensores públicos y asesores jurídicos en el desarrollo de sus funciones.
 
 ###### Artículo 72.
 
@@ -1447,7 +1493,7 @@ Las funciones que realice el prestador de servicio social, tienen el carácter d
 
 ### CAPITULO UNICO. Del procedimiento para cubrir las faltas temporales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2008)</small>
 
 ###### Artículo 79.
 
@@ -1475,7 +1521,7 @@ SEGUNDO.- Toda vez que estas Bases Generales establecen el servicio civil de car
 
 Las presentes Bases Generales son aprobadas, por unanimidad de seis votos de los miembros presentes de la Junta Directiva del Instituto Federal de Defensoría Pública, reunidos en sesión extraordinaria, firmándose a los doce días del mes de noviembre de mil novecientos noventa y ocho.- Los miembros integrantes de la Junta Directiva del Instituto Federal de Defensoría Pública: José Antonio Bernal Guerrero, Director General del Instituto y Presidente de la Junta.- Rúbrica.- Héctor Fix Zamudio, Sergio García Ramírez, Gonzalo Moctezuma Barragán, José Luis Soberanes Fernández, Jesús Zamora Pierce.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES BASES.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LAS PRESENTES BASES.</small>
 
 D.O.F. 19 DE FEBRERO DE 2002.
 
@@ -1496,5 +1542,9 @@ D.O.F. 25 DE JUNIO DE 2010.
 UNICO.- Las presentes reformas y adiciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
 
 D.O.F. 16 DE MARZO DE 2011.
+
+UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
+
+D.O.F. 27 DE MARZO DE 2012.
 
 UNICO.- Las presentes reformas a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, deberán publicarse en el Diario Oficial de la Federación y entrarán en vigor el día siguiente de su publicación.
