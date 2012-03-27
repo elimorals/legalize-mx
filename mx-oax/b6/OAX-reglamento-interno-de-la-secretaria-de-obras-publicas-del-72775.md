@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-obras-publicas-del-72775
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-03"
-last_updated: "2010-12-01"
+last_updated: "2012-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE OBRAS PUBLICAS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE LAS INFRAESTRUCTURAS Y EL ORDENAMIENTO TERRITORIAL SUSTENTABLE, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2010, LA DENOMINACION SECRETARIA DE OBRAS PUBLICAS SE MODIFICA POR SECRETARIA DE LAS INFRAESTRUCTURAS Y EL ORDENAMIENTO TERRITORIAL SUSTENTABLE.</small>
+REGLAMENTO INTERNO DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 3 de noviembre del 2009.
 
@@ -710,3 +710,13 @@ La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría
 El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
 
 SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
+
+P.O. 27 DE MARZO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA SECRETARÍA DE LAS INFRAESTRUCTURAS Y EL ORDENAMIENTO TERRITORIAL SUSTENTABLE (SINFRA)”.]
+
+PRIMERO.- El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Secretaría de Obras Públicas publicado el tres de noviembre del dos mi nueve en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO.- Las disposiciones contenidas en el presente Reglamento prevalecerán sobre cualquier otra disposición de igual o menor rango que se le opongan.
