@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2011-07-20"
+last_updated: "2012-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2009-03-25"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
 
-REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADISTICA Y GEOGRAFIA
+REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 20 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2012.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -111,7 +109,15 @@ b) Dirección General Adjunta de Encuestas Sociodemográficas y Registros Admini
 
 c) Dirección General Adjunta de Infraestructura Estadística, y
 
-d) Dirección General Adjunta de Información de Gobierno, Seguridad Pública e Impartición de Justicia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+d) (DEROGADO, D.O.F. 27 DE MARZO DE 2012)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+I Bis. Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.
 
 II. Dirección General de Estadísticas Económicas:
 
@@ -267,9 +273,17 @@ XX. Recibir del Consejo por conducto del Presidente las propuestas de temas que 
 
 XXI. Recibir de los Comités Ejecutivos, por conducto de los Vicepresidentes, las opiniones respecto del proyecto de Programa Anual de Estadística y Geografía, su informe anual, y propuestas de normas técnicas;
 
-XXII. Aprobar la creación de Comités Técnicos Especializados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XXIII. Recibir el informe anual de los Comités Técnicos Especializados sobre sus actividades;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XXII. Aprobar la creación de Comités Técnicos Especializados, así como, recibir de éstos el informe anual sobre sus actividades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XXIII. Aprobar los informes que el Instituto deberá presentar al Ejecutivo Federal y al Congreso de la Unión en términos del artículo 86 de la Ley;
 
 XXIV. Designar a los servidores públicos del Instituto que fungirán como Secretarios Técnicos de los Comités Ejecutivos, así como, de los Comités Técnicos Especializados, conformados en términos de lo dispuesto por los artículos 29 y 31 de la Ley, respectivamente;
 
@@ -617,9 +631,17 @@ De la Dirección General de Estadísticas Sociodemográficas.
 
 Son atribuciones específicas de la Dirección General de Estadísticas Sociodemográficas, las siguientes:
 
-I. Coordinar la generación de información estadística con base en el levantamiento de censos y encuestas, así como en la explotación de registros administrativos de las Unidades del Estado, de manera que contribuyan al conocimiento de la realidad nacional en el ámbito sociodemográfico, de gobierno, seguridad pública e impartición de justicia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-II. Dirigir, con el apoyo de las Unidades Administrativas del Instituto, la realización de los censos nacionales de población y vivienda, los conteos nacionales de población, las encuestas en hogares, las encuestas especiales, y la explotación de los registros administrativos de carácter sociodemográfico, de gobierno, seguridad pública e impartición de justicia;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+I. Coordinar la generación de información Estadística con base en el levantamiento de censos y encuestas, así como en la explotación de registros administrativos de las Unidades del Estado, de manera que contribuyan al conocimiento de la realidad nacional en el ámbito sociodemográfico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+II. Dirigir, con el apoyo de las Unidades Administrativas del Instituto, la realización de los censos nacionales de población y vivienda, los conteos nacionales de población, las encuestas en hogares, las encuestas especiales, y la explotación de los registros administrativos de carácter sociodemográfico;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -631,37 +653,51 @@ IV. Proponer disposiciones normativas tendientes a establecer el Inventario Naci
 
 V. Coordinar el desarrollo y operación de un sistema integrado de encuestas nacionales en hogares;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-VI. Coadyuvar en la integración de la información generada por las distintas Unidades del Estado productoras de datos estadísticos sociodemográficos, de gobierno, seguridad pública e impartición de justicia: sectoriales, regionales, federales, estatales y municipales, en coordinación con la Dirección General Adjunta de Integración de la Información;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+VI. Coadyuvar en la integración de la información generada por las distintas Unidades del Estado productoras de datos estadísticos sociodemográficos: sectoriales, regionales, federales, estatales o municipales, en coordinación con la Dirección General Adjunta de Integración de la Información;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 VII. Propiciar la adecuación conceptual de la Información, dentro del ámbito de su competencia, a las necesidades que el desarrollo social del país requiera, procurando que la misma sea comparable en el tiempo y el espacio;
 
-VIII. Emitir criterios para dar homogeneidad a los procesos de producción de información estadística sociodemográfica, de gobierno, seguridad pública e impartición de justicia, así como para la difusión de datos e indicadores relacionados con la misma información;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+VIII. Emitir criterios para dar homogeneidad a los procesos de producción de información estadística sociodemográfica, así como para la difusión de datos e indicadores relacionados con la misma información;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 IX. Colaborar con la Dirección General de Geografía y Medio Ambiente en la construcción y actualización de un marco geoestadístico que permita la representación espacial de las variables estadísticas de los temas de su competencia y observar su aplicación en los proyectos que se lleven a cabo;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-X. Elaborar y actualizar esquemas operativos y metodológicos sobre la explotación estadística, evaluación y mejoramiento de los registros administrativos, para impulsar y dar apoyo a las Unidades Administrativas del Instituto, así como a las Unidades del Estado en el marco del Sistema;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+X. Elaborar y actualizar esquemas operativos y metodológicos sobre la explotación estadística, evaluación y mejoramiento de los registros administrativos, en el ámbito de su competencia, para impulsar y dar apoyo a las Unidades Administrativas del Instituto, así como a las Unidades del Estado en el marco del Sistema;
 
 XI. Autorizar, previa opinión de las autoridades competentes, el levantamiento de información estadística, que dentro del ámbito de su competencia, realicen personas físicas o morales extranjeras;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XII. Fungir como Secretario Técnico de los Comités Ejecutivos del Subsistema Nacional de Información Demográfica y Social, y del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia.
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XII. Fungir como Secretario Técnico del Comité Ejecutivo del Subsistema Nacional de Información Demográfica y Social;
 
-XIII. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, de los Comités Ejecutivos y de los Comités Técnicos Especializados del Subsistema Nacional de Información Demográfica y Social, y del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia; así como, participar, en coordinación con las Unidades del Estado, en el diseño de indicadores a que hacen referencia los artículos 21 y 22 de la Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
-XIV. Proveer y promover entre las Unidades del Estado el uso de conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la información sociodemográfica de gobierno, de seguridad pública y de impartición de justicia desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
+XIII. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información Demográfica y Social; así como participar, en coordinación con las Unidades del Estado, en el diseño de indicadores a que hacen referencia los artículos 21 y 22 de la Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XIV. Proveer y promover entre las Unidades del Estado el uso de conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la información sociodemográfica desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -675,13 +711,17 @@ XVI. Notificar a la Dirección General de Coordinación del Sistema Nacional de 
 
 XVII. A solicitud de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, instruir a los servidores públicos de las Areas Administrativas a su cargo a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los Informantes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XVIII. Prestar asesoría a las Unidades del Estado, en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos sociodemográficos, de gobierno, de seguridad pública y de impartición de justicia;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XVIII. Prestar asesoría a las Unidades del Estado, en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos sociodemográficos;
 
-XIX. Emitir opinión técnica, respecto de la pertinencia de que Unidades del Estado distintas al Instituto, realicen actividades estadísticas de carácter sociodemográfico, de gobierno, seguridad pública e impartición de justicia, en apego a los programas a que hace referencia el artículo 9 de la Ley, así como hacer del conocimiento de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica las recomendaciones para llevarlas a cabo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XIX. Emitir opinión técnica, respecto de la pertinencia de que Unidades del Estado distintas al Instituto, realicen actividades estadísticas de carácter sociodemográfico, en apego a los programas a que hace referencia el artículo 9 de la Ley, así como hacer del conocimiento de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica las recomendaciones para llevarlas a cabo;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -847,7 +887,7 @@ XX. Diseñar criterios y establecer medidas para el tratamiento, validación pri
 
 XXI. Las facultades que expresamente le otorga a su titular el artículo 13 de este Reglamento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE DIECISEIS A ONCE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECISÉIS A ONCE FRACCIONES.</small>
 
 ###### ARTICULO 17.
 
@@ -877,9 +917,11 @@ V. Desarrollar módulos, índices y marcos conceptuales temáticos para la organ
 
 VI. Prestar asistencia técnica a instituciones del sector público y Comités Técnicos de los Subsistemas, para contribuir a la operación y consolidación de las áreas que atienden funciones en materia estadística, de acuerdo a un diagnóstico de sus necesidades;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-VII. Atender los requerimientos especiales formulados por los usuarios de la información sociodemográfica de gobierno, seguridad pública e impartición de justicia producida e integrada por las Unidades Administrativas del Instituto;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+VII. Atender los requerimientos especiales formulados por los usuarios de la información sociodemográfica producida e integrada por las Unidades Administrativas del Instituto;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -897,89 +939,71 @@ X Elaborar, actualizar y conservar los metadatos o especificaciones concretas de
 
 XI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-### Capítulo IX,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-De la Dirección General de Estadísticas Económicas.
+> <small>(ADICIONADO, D.O.F. 27 DE MARZO DE 2012)</small>
+
+### Capítulo VIII Bis,. De la Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 27 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 18.
 
-Corresponde a la Dirección General Adjunta de Información de Gobierno, Seguridad Pública y de Impartición de Justicia el ejercicio de las siguientes atribuciones:
+Son atribuciones específicas de la Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia, las siguientes:
 
-I. Organizar, coordinar, administrar y supervisar la operación y desempeño integrales de las actividades correspondientes a la información de gobierno, seguridad pública e impartición de justicia, acorde con lo establecido por la normatividad vigente;
+I. Coordinar la generación de información estadística con base en el levantamiento de censos nacionales de gobierno y encuestas, así como en la compilación y explotación de registros administrativos de las Unidades del Estado, de manera que contribuyan al conocimiento de la realidad nacional en el ámbito de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+II. Dirigir, con el apoyo de las Unidades Administrativas del Instituto, la realización de los censos nacionales de gobierno y la explotación de registros administrativos de las Unidades del Estado en materia de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
-II. Analizar y explotar los resultados obtenidos en censos, encuestas, registros administrativos e indicadores, relativos a las materias y temas de Información de gobierno, seguridad pública e impartición de justicia, y promover su uso como medio para dar sustento a la toma de decisiones de los usuarios del Sistema;
+III. Dirigir, con el apoyo de las Direcciones Generales de Estadísticas Sociodemográficas, y de Estadísticas Económicas, según corresponda, el desarrollo y operación de encuestas nacionales en hogares o en unidades económicas, relativas a los temas de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
-III. Diseñar, establecer y operar las políticas, modelos, instrumentos regulatorios, programas y mecanismos para producir, integrar y administrar la información e indicadores que correspondan a los temas y materias de información de gobierno, seguridad pública e impartición de justicia;
+IV. Coordinar la programación y los procesos de diseño, captación, actualización, organización, procesamiento, compilación, integración y evaluación de la información señalada en las fracciones anteriores, así como su articulación y coadyuvar en la publicación y difusión de dicha información con la Dirección General de Vinculación y Servicio Público de Información y conservarla en los términos que al efecto determine la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
 
-IV. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia;
+V. Proponer políticas, directrices, normas y criterios técnicos, así como promover su aplicación entre las Unidades del Estado, para la investigación, manejo y presentación de la información de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
-V. Establecer y desarrollar las políticas, metodologías, instancias, mecanismos de coordinación e instrumentos que deberán aplicar las Unidades del Estado que entreguen información al Instituto para producir, integrar, administrar, conservar y difundir los indicadores e información que corresponda a los temas de información de gobierno, seguridad pública e impartición de justicia;
+VI. Coordinar el desarrollo y operación de un sistema integrado de encuestas relativas a los temas de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
-VI. Promover que la información, indicadores y productos de los temas de gobierno, seguridad pública e impartición de justicia sean vinculados con los procesos de diseño, implementación, monitoreo y evaluación de las políticas públicas en las instituciones responsables de estas materias;
+VII. Dirigir en coordinación con las Unidades Administrativas del Instituto, la integración de la información generada por las distintas Unidades del Estado productoras de datos estadísticos de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario, sean institucionales, sectoriales, regionales, federales, estatales, o municipales, en coordinación con la Dirección General Adjunta de Integración de Información;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+VIII. Propiciar la adecuación conceptual de la Información, dentro del ámbito de su competencia, a las necesidades que el desarrollo del país requiera, procurando que la misma sea comparable en el tiempo y el espacio;
 
-VII. Desarrollar conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la Información de gobierno, seguridad pública e impartición de justicia desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
+IX. Emitir criterios para dar homogeneidad a los procesos de producción de información estadística de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario, así como para la difusión de datos e indicadores relacionados con la misma información;
 
-VIII. Coadyuvar con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información, en la administración del Registro Estadístico Nacional en las materias de gobierno, seguridad pública e impartición de justicia;
+X. Colaborar con la Dirección General de Geografía y Medio Ambiente en la construcción y actualización de un marco geoestadístico que permita la representación espacial de las variables estadísticas de los temas de su competencia y observar su aplicación en los proyectos que se lleven a cabo;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XI. Elaborar y actualizar esquemas operativos y metodológicos sobre la explotación estadística, evaluación y mejoramiento de los registros administrativos en los temas de su competencia, para impulsar y dar apoyo a las Unidades Administrativas del Instituto, así como a las Unidades del Estado en el marco del Sistema;
 
-IX. Formular opinión a petición del Titular de la Dirección General de su adscripción, sobre la pertinencia de que las Unidades del Estado realicen actividades estadísticas en apego a los programas a que hace referencia el artículo 9 de la Ley, así como sugerir en su caso recomendaciones para llevarlas a cabo, lo anterior de acuerdo a su ámbito de competencia;
+XII. Autorizar, previa opinión de las autoridades competentes, el levantamiento de información estadística, que dentro del ámbito de su competencia, realicen personas físicas o morales extranjeras;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XIII. Fungir como Secretario Técnico del Comité Ejecutivo del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia;
 
-X. Definir y generar los documentos e informes que correspondan a la información, indicadores, temas y materias de información de gobierno, seguridad pública e impartición de justicia, tomando en cuenta lo establecido en el Programa Estratégico del Sistema Nacional de Información Estadística y Geográfica, en el Programa Nacional de Estadística y Geografía, y en el Programa Anual de Estadística y Geografía, así como lo que derive de las disposiciones legales y administrativas correspondientes;
+XIV. Atender y dar seguimiento, en el ámbito de sus atribuciones, a los acuerdos del Consejo, del Comité Ejecutivo y de los Comités Técnicos Especializados del Subsistema Nacional de Información de Gobierno, Seguridad Pública e Impartición de Justicia; así como participar, en coordinación con las Unidades del Estado, en el diseño de indicadores a que hace referencia el artículo 18 de la Ley;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XV. Proveer y promover entre las Unidades del Estado el uso de conceptos, definiciones, clasificaciones, normas técnicas, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, y demás elementos que permitan garantizar la homogeneidad y comparación de la información de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario, desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
 
-XI. Formular recomendaciones que permitan elevar la calidad de la Información sobre temas y materias de información de gobierno, seguridad pública e impartición de justicia y con ello contribuir a los objetivos estratégicos del Sistema;
+XVI. Establecer programas preventivos para garantizar la autenticidad de la información, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XVII. Notificar a la Dirección General de Coordinación del Sistema Nacional de información Estadística y Geográfica, cuando los datos proporcionados por los Informantes sean incongruentes, incompletos o inconsistentes, para efectos de lo dispuesto por el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-XII. Proponer al Director General de su adscripción la celebración de convenios, bases de colaboración o acuerdos con las instituciones públicas que conforman al Estado y sus respectivos poderes, así como con personas u organizaciones de los sectores gubernamental, social, académico o privado, nacionales o internacionales, en materia de cooperación, intercambio de información, capacitación u otra que sirva de apoyo para el adecuado desempeño de sus atribuciones;
+XVIII. A solicitud de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, instruir a los servidores públicos de las Areas Administrativas a su cargo a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los Informantes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XIX. Prestar asesoría a las Unidades del Estado, en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
-XIII. Generar e integrar por sí, o en coordinación con las Unidades del Estado, los indicadores, índices e información estadística y geográfica, así como los estudios o análisis que se requieran para los temas de Información de gobierno, seguridad pública e impartición de justicia;
+XX. Emitir opinión técnica, respecto de la pertinencia de que Unidades del Estado distintas al Instituto, realicen actividades estadísticas en los temas de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario, en apego a los programas a que hace referencia el artículo 9 de la Ley, así como hacer del conocimiento de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica las recomendaciones para llevarlas a cabo;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XXI. Coordinar la elaboración, actualización y conservación de los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información estadística en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica;
 
-XIV. Revisar, opinar y, cuando así se requiera, participar en el diseño de políticas, normas, lineamientos, manuales, guías y demás disposiciones generales que otras Unidades Administrativas del Instituto o cualquier otra instancia competente presente en materia de producción, integración, administración, promoción, difusión y conservación de información e indicadores;
+XXII. Promover y difundir, en colaboración con las Direcciones Generales de Coordinación del Sistema Nacional de Información Estadística y Geográfica, y de Vinculación y Servicio Público de Información, entre las Unidades del Estado responsables de generar e integrar la información estadística, las disposiciones normativas y los documentos rectores aplicables;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+XXIII. Coordinar la determinación de indicadores clave de la calidad de la información estadística del Sistema y establecer criterios, en el ámbito de su competencia, para incrementar la eficiencia y consistencia de los métodos de muestreo y marcos estadísticos aplicados por las Unidades del Estado, y
 
-XV. Elaborar, actualizar y conservar los metadatos o especificaciones concretas de la aplicación de las metodologías que se hubieren utilizado para la generación de información en el ámbito de su competencia, así como, implementar mecanismos para el control, conservación y resguardo de la información a su cargo, en colaboración con la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información;
+XXIV. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+### Capítulo IX,
 
-XVI. Dirigir y coordinar las actividades de diseño, planeación, levantamiento, tratamiento y procesamiento de la información de los censos, relativos a los temas de Información de gobierno, seguridad pública e impartición de justicia;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVII. Proponer y coadyuvar en el diseño, planeación, levantamiento, tratamiento y procesamiento de las encuestas en hogares y en establecimientos económicos relativas a los temas de Información de gobierno, seguridad pública e impartición de justicia;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XVIII. Dirigir y coordinar las actividades de diseño e integración de los indicadores relativos a los temas de información de gobierno, seguridad pública e impartición de justicia;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XIX. Coadyuvar en la integración de la información generada por las distintas Unidades del Estado productoras de datos estadísticos de Gobierno, seguridad pública e impartición de justicia, en coordinación con la Dirección General Adjunta de Integración de la Información;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XX. Requerir a las Unidades del Estado e Informantes del Sistema la información necesaria para dar cumplimiento a lo establecido por los Comités Ejecutivos y Técnicos Especializados de Información del Subsistema Nacional de Información de gobierno, seguridad pública e impartición de justicia, y
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
-
-XXI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
-
-### Capítulo X,
-
-De la Dirección General de Geografía y Medio Ambiente.
+De la Dirección General de Estadísticas Económicas.
 
 ###### ARTICULO 19.
 
@@ -1085,7 +1109,7 @@ XXIV. Promover y difundir en colaboración con las Direcciones Generales de Coor
 
 XXV. Las facultades que expresamente le otorga el artículo 11 de este Reglamento a su Titular.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE DIECIOCHO A DIECISIETE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECIOCHO A DIECISIETE FRACCIONES.</small>
 
 ###### ARTICULO 20.
 
@@ -1209,7 +1233,7 @@ XIV. Proponer el Anteproyecto de Presupuesto Anual requerido para la realizació
 
 XV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE VEINTIUN A CATORCE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTIÚN A CATORCE FRACCIONES.</small>
 
 ###### ARTICULO 22.
 
@@ -1327,11 +1351,9 @@ XIX. Diseñar, implementar y evaluar el proceso metodológico para el cambio de 
 
 XX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-### Capítulo XI,
+### Capítulo X,
 
-De la Dirección General de Integración, Análisis e Investigación.
-
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+De la Dirección General de Geografía y Medio Ambiente.
 
 ###### ARTICULO 24.
 
@@ -1421,9 +1443,11 @@ XXX. Coordinar la elaboración, actualización y conservación de los metadatos 
 
 XXXI. Proveer y promover entre las Unidades del Estado el uso de conceptos, definiciones, clasificaciones, nomenclaturas, abreviaturas, identificadores, directorios, símbolos, delimitaciones geográficas y demás elementos que permitan garantizar la homogeneidad y comparación de la información geográfica desde la captación y procesamiento de ésta, hasta la etapa de su presentación y publicación;
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XXXII. Generar e integrar estadísticas básicas y derivadas con base en encuestas en hogares y en establecimientos económicos, en encuestas especiales, y en la explotación de registros administrativos que aporten información sobre el estado de los recursos naturales y el medio ambiente;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XXXII. Generar e integrar estadísticas básicas y derivadas con base en encuestas en hogares y en establecimientos económicos, en encuestas especiales, en los censos nacionales de gobierno, y en la explotación de registros administrativos que aporten información sobre el estado de los recursos naturales y el medio ambiente;
 
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1747,11 +1771,13 @@ XVI. Integrar y editar información geográfica para la publicación de estudios
 
 XVII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-### Capítulo XII,
+### Capítulo XI,
 
-De la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica.
+De la Dirección General de Integración, Análisis e Investigación.
+
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 29.
 
@@ -1877,11 +1903,9 @@ VIII. Coordinar las actividades del Consejo Consultivo Académico, y
 
 IX. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-### Capítulo XIII,
+### Capítulo XII,
 
-De la Dirección General de Vinculación y Servicio Público de Información.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE JUNIO DE 2011)</small>
+De la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica.
 
 ###### ARTICULO 33.
 
@@ -1995,13 +2019,15 @@ XII. Administrar el Registro Nacional de Información Geográfica, considerando 
 
 XIII. Administrar el Registro Estadístico Nacional, considerando la normatividad técnica y de funcionamiento, la integración y actualización del registro de instituciones y Unidades Administrativas con funciones estadísticas, así como la integración de referencias básicas sobre la información estadística que se genera en el sector público; en coordinación con la Dirección General de Estadísticas Sociodemográficas; la Dirección General de Estadísticas Económicas y la Dirección General de Geografía y Medio Ambiente;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XIV. Apoyar en la operación de los Centros de Consulta y Comercialización del Instituto;
+XIV. (DEROGADA, D.O.F. 27 DE MARZO DE 2012)
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XV. Desarrollar el diseño conceptual y arquitectura de la Red Nacional de Información para apoyar los procesos de intercambio de información y coadyuvar en las actividades de coordinación del Sistema y de sus Subsistemas, y coadyuvar con la Dirección General Adjunta de Difusión en la prestación del Servicio Público de Información;
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XV. Desarrollar el diseño conceptual y arquitectura de la Red Nacional de Información para apoyar los procesos de intercambio de información y coadyuvar en las actividades de coordinación del Sistema y de sus Subsistemas, y coadyuvar con la Dirección General Adjunta de Comunicación en la prestación del Servicio Público de Información.
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -2037,7 +2063,7 @@ XXII. Integrar, operar y actualizar un Registro de los Instrumentos Jurídicos q
 
 XXIII. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE DIECISEIS A CATORCE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIECISÉIS A CATORCE FRACCIONES.</small>
 
 ###### ARTICULO 36.
 
@@ -2091,11 +2117,19 @@ XII. Coordinar la atención de requerimientos de información, asistencia técni
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-XIII. Coordinar la aplicación de políticas de comunicación interna y externa, para desarrollar y coordinar el Sistema en el ámbito regional y estatal, y en general de la normatividad emitida por el Instituto, y
+XIII. Coordinar la aplicación de políticas de comunicación interna y externa, para desarrollar y coordinar el Sistema en el ámbito regional y estatal, y en general de la normatividad emitida por el Instituto, y (sic)
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
-XIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
+> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XIV. Apoyar en la operación de los Centros de Información del Instituto así como en la implementación de la estrategia de promoción y difusión de la información estadística y geográfica del Instituto y del Sistema a través de éstos, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 27 DE MARZO DE 2012)</small>
+
+XV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
 ###### ARTICULO 37.
 
@@ -2197,11 +2231,13 @@ XXIII. Apoyar en la difusión de las Normas Técnicas que emita la Junta de Gobi
 
 XXIV. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE JUNIO DE 2011)</small>
 
-### Capítulo XIV,
+### Capítulo XIII,
 
-De la Dirección General de Administración.
+De la Dirección General de Vinculación y Servicio Público de Información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 38.
 
@@ -2341,11 +2377,9 @@ V. Proponer proyectos de iniciativas y reformas de ley relacionadas con las mate
 
 VI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-### Capítulo XV,
+### Capítulo XIV,
 
-De la Vigilancia del Instituto.
-
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
+De la Dirección General de Administración.
 
 ###### ARTICULO 41.
 
@@ -2689,9 +2723,11 @@ XV. Promover, en coordinación con la Dirección General Adjunta de Recursos Hum
 
 XVI. Las facultades que expresamente le otorga a su Titular el artículo 13 de este Reglamento.
 
-### Capítulo XVI,
+### Capítulo XV,
 
-De la Suplencia de los Servidores Públicos del Instituto.
+De la Vigilancia del Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 46.
 
@@ -2781,6 +2817,10 @@ XXV. Las facultades que expresamente le otorga a su Titular el artículo 13 de e
 
 Para el desahogo de las atribuciones que este numeral confiere a la Dirección General Adjunta de Asuntos Jurídicos, el Titular de la misma contará con el auxilio del Director de Consultoría Jurídica y el Director de Asuntos Contenciosos, en quienes podrá delegar aquéllas que correspondan a su respectivo ámbito de competencia determinado en su correspondiente Manual de Organización, sin perjuicio de su ejercicio directo por el Titular de la Dirección General Adjunta de Asuntos Jurídicos.
 
+### Capítulo XVI,
+
+De la Suplencia de los Servidores Públicos del Instituto.
+
 ### Capítulo XVII,
 
 De la Suplencia de los Servidores Públicos de la Contraloría Interna.
@@ -2853,7 +2893,7 @@ XVIII. Las demás que le confiera la Ley, el presente Reglamento y las demás di
 
 Para el mejor desempeño de sus facultades, el Contralor Interno se auxiliará de los Titulares de: Auditoría Interna; Quejas y Responsabilidades; Control y Evaluación, así como por el Director de Proyectos Especiales.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE CATORCE A TRECE FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE CATORCE A TRECE FRACCIONES.</small>
 
 ###### ARTICULO 49.
 
@@ -2905,7 +2945,7 @@ XII. Llevar los registros de los asuntos de su competencia y expedir las copias 
 
 XIII. Las demás que le confiera el Contralor Interno, o establezcan las disposiciones legales y administrativas, dentro del ámbito de su competencia.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCION DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE VEINTE A DIECIOCHO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS Y ADICIONES AL PRESENTE REGLAMENTO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTE A DIECIOCHO.</small>
 
 ###### ARTICULO 50.
 
@@ -3085,7 +3125,7 @@ SEXTO.- A la entrada en vigor del presente Reglamento se da cumplimiento a la ob
 
 Reglamento Interior del Instituto Nacional de Estadística y Geografía, aprobado por su Junta de Gobierno en su Tercera Sesión de 2009, celebrada el 25 de marzo de 2009.- El Presidente del Instituto Nacional de Estadística y Geografía, Eduardo Sojo Garza Aldape.- Rúbrica.- Los Vicepresidentes: Enrique De Alba Guerra, Mario Palma Rojo, José Antonio Mejía Guerra, María del Rocío Ruiz Chávez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 31 DE AGOSTO DE 2010.
 
@@ -3102,3 +3142,13 @@ SEGUNDO.- La Dirección General de Geografía y Medio Ambiente continuará con l
 TERCERO.- A la entrada en vigor del presente Acuerdo los asuntos en trámite continuarán substanciándose por las Unidades Administrativas a que hace referencia este Reglamento y de conformidad con las atribuciones conferidas.
 
 CUARTO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de las presentes reformas y adiciones al Reglamento se modifican o desaparecen, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad aplicable, así como atendiendo a la disponibilidad presupuestaria del Instituto.
+
+D.O.F. 27 DE MARZO DE 2012.
+
+PRIMERO.- Las reformas y adiciones al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor el día 1 de abril de 2012.
+
+SEGUNDO.- A la entrada en vigor del presente Acuerdo, los asuntos en trámite se continuarán substanciando por las Unidades Administrativas a que hace referencia este Reglamento y de conformidad con las atribuciones conferidas.
+
+TERCERO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas, acuerdos u ordenamientos a la Dirección General Adjunta de Información de Gobierno, Seguridad Pública e Impartición de Justicia, se entenderán hechas a la Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.
+
+CUARTO.- La Dirección General de Administración del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las Unidades Administrativas que por virtud de las presentes reformas y adiciones al Reglamento se modifican, sean transferidos a las Unidades Administrativas que correspondan en los términos del mismo y de conformidad con la normatividad aplicable, atendiendo a la disponibilidad presupuestaria del Instituto.
