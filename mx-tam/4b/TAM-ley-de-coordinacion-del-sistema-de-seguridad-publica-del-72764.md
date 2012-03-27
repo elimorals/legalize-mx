@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2011-06-15"
+last_updated: "2012-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -223,9 +223,9 @@ Las autoridades en materia de seguridad pública serán las siguientes:
 
 I. El Gobernador del Estado;
 
-II. El Presidente del Supremo Tribunal de Justicia;
+II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-III. El Presidente de la Comisión de Seguridad Pública del Congreso del Estado;
+III. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
 IV. Los Presidentes Municipales;
 
@@ -235,13 +235,15 @@ VI. El Secretario, y los titulares de las instituciones policiales bajo su mando
 
 VII. El Procurador, los agentes del Ministerio Público y el Titular de la Policía Ministerial;
 
-VIII. El Director General de Ejecución de Sanciones y los directores de los centros de prisión preventiva y los de ejecución de sanciones;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+
+VIII. El Subsecretario de Reinserción Social y los directores de los centros de prisión preventiva y los de ejecución de sanciones;
 
 IX. El Director del Centro de Reintegración Social y Familiar para Adolescentes;
 
-X. Los magistrados de la Sala Penal del Supremo Tribunal de Justicia;
+X. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-XI. Los jueces de Primera Instancia, por lo que hace a su facultad de sancionar los hechos delictivos;
+XI. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
 XII. Los síndicos en funciones de Ministerio Público;
 
@@ -249,7 +251,9 @@ XIII. Los titulares de las policías preventivas y de tránsito de los municipio
 
 XIV. Los jueces calificadores o similares que las disposiciones jurídicas establezcan como instancias de justicia administrativa municipal;
 
-XV. El Director General de Operación Policial,
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XV. El Subsecretario de Operación Policial;
 
 XVI. El Secretario Ejecutivo; y
 
@@ -587,9 +591,9 @@ El Consejo será la instancia superior de coordinación, planeación de polític
 
 I. El Gobernador, quien lo presidirá;
 
-II. El Presidente del Supremo Tribunal de Justicia;
+II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-III. El Presidente de la Comisión de Seguridad Pública del Congreso;
+III. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
 IV. Los presidente (sic) municipales;
 
@@ -1868,3 +1872,17 @@ El Decreto de creación del Centro Estatal de Evaluación y Control de Confianza
 P.O. 15 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Toda referencia que se haga de la Coordinación General de Reinserción Social y Ejecución de Sanciones o a la Dirección General de Ejecución de Sanciones o de su titular, en cualquier disposición jurídica del Estado, se entenderá hecha a la Subsecretaría de Reinserción Social y a su titular, el Subsecretario de Reinserción Social.
+
+###### ARTÍCULO TERCERO.
+
+Toda referencia que se haga del Consejo de Honor y Justicia, en cualquier disposición jurídica se entenderá hecha al Consejo de Desarrollo Policial, y éstos continuarán ejerciendo sus atribuciones conforme lo establece la presente ley, y en un plazo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento del Consejo de Desarrollo Policial.
