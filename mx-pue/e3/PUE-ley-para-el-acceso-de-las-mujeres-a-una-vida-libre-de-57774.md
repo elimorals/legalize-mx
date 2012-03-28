@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2007-11-26"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -107,7 +107,7 @@ XI.- Presunto o presunta generador de violencia: El hombre o mujer que causa cua
 
 XII.- Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-XlII.- Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+XIII.- Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
 XIV.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
@@ -243,7 +243,7 @@ El Estado y los Municipios, en el ámbito de sus respectivas competencias, propo
 
 El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas cometidas por servidoras o servidores públicos en contra de las mujeres y en su caso, a reparar el daño, de conformidad con lo dispuesto por el ordenamiento legal aplicable.
 
-SECIÓN QUINTA
+SECIÓN (SIC) QUINTA
 
 DE LA VIOLENCIA FEMINICIDA
 
@@ -259,9 +259,11 @@ En el caso concreto de violencia feminicida se observarán las disposiciones res
 
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 24.
 
-Las órdenes de protección son actos de urgente cumplimiento en función del interés de la ofendida, de carácter precautorias y cautelares. Se decretarán inmediatamente después de que la autoridad competente conozca de probables hechos constitutivos de violencia contra las mujeres.
+Las órdenes de protección son actos de urgente cumplimiento en función del interés de la ofendida, de carácter precautorias y cautelares. Se decretarán inmediatamente después de que el Juez de lo Familiar o el Ministerio Público en casos de urgencia y en razón del lugar o la hora, conozcan de probables hechos constitutivos de violencia contra las mujeres.
 
 ###### ARTÍCULO 25.
 
@@ -307,9 +309,11 @@ VII.- Proporcionar servicios integrales especializados, gratuitos y con perspect
 
 VIII.- Las demás previstas en otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-Las autoridades competentes del Estado al decretar las órdenes emergentes y preventivas de protección establecidas en esta Ley, tomarán en consideración:
+El Juez de lo Familiar o el Ministerio Público en su caso al decretar las órdenes emergentes y preventivas de protección establecidas en esta Ley, tomarán en consideración:
 
 I.- El riesgo o peligro existente o inminente;
 
@@ -317,13 +321,17 @@ III.- La seguridad de la ofendida; y
 
 III.- Los elementos que consten y originen el procedimiento o proceso respectivo.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 29.
 
-Las órdenes de protección de emergencia, así como las preventivas de naturaleza civil o familiar se decretarán conforme a las disposiciones legales aplicables.
+Las órdenes de protección de emergencia, así como las preventivas de naturaleza civil o familiar, se decretarán conforme a las disposiciones establecidas para el procedimiento privilegiado previsto por el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-Las autoridades jurisdiccionales competentes en ejercicio de sus atribuciones y con motivo de los procedimientos o procesos que al respecto se tramiten o substancien, valorarán las órdenes y la determinación de medidas similares en sus resoluciones.
+El Juez de lo familiar competente en ejercicio de sus atribuciones y con motivo de los procedimientos que al respecto se tramiten o substancien, valorarán las órdenes y la determinación de medidas similares en sus resoluciones.
 
 ###### ARTÍCULO 31.
 
@@ -381,7 +389,7 @@ X.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 XI.- La Comisión de Derechos Humanos del Estado;
 
-XlI.- El Poder Legislativo del Estado, a través de la Presidencia de la Comisión respectiva;
+XII.- El Poder Legislativo del Estado, a través de la Presidencia de la Comisión respectiva;
 
 XIII.- El Poder Judicial, a través del Presidente del Tribunal Superior de Justicia o el representante que se designe; y
 
@@ -858,3 +866,11 @@ Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de octubre de dos mil siete.- Diputada Presidenta.- ZENORINA GONZÁLEZ ORTEGA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA.- Rúbrica.- Diputado Secretario.- RAMÓN DANIEL MARTAGÓN LÓPEZ.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para los efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los seis días del mes de noviembre de dos mil siete.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.-LICENCIADO MARlO ALBERTO MONTERO SERRANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
