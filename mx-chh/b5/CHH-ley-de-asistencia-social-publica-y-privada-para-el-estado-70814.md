@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2011-12-28"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -315,9 +315,11 @@ V. Las demás que se establezcan en la presente Ley y otros ordenamientos legale
 
 ### CAPÍTULO VI. DEL ORGANISMO PARA LA ASISTENCIA SOCIAL PÚBLICA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### Artículo 24.
 
-El organismo público descentralizado, con personalidad jurídica y patrimonio propio, a que se refiere el artículo 13 de la Ley sobre el Sistema Estatal de Asistencia Social, tendrá como objeto la promoción y prestación de los servicios de asistencia social pública.
+El Ejecutivo del Estado cuenta con un organismo público descentralizado, con personalidad jurídica, competencia y patrimonio propios, denominado Desarrollo Integral de la Familia del Estado de Chihuahua, identificado legalmente con la denominación "DIF ESTATAL", el cual es la entidad rectora de la Asistencia Social y tiene como objetivos la promoción de ella, la prestación de servicios en ese campo, el incremento de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establecen las disposiciones legales aplicables.
 
 ###### Artículo 25.
 
@@ -735,6 +737,8 @@ Las disposiciones contenidas en el presente ordenamiento, que establezcan derech
 
 ### CAPÍTULO II. DE LA JUNTA DE ASISTENCIA SOCIAL PRIVADA
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### Artículo 59.
 
 Son instituciones de asistencia social privada las personas morales con fines de interés público y no lucrativo, que sean reconocidas por el Estado como coadyuvantes de la asistencia social pública, independientemente de la naturaleza jurídica que adopten al momento de constituirse.
@@ -745,25 +749,87 @@ Se entenderán por actos no lucrativos y de interés público, los ejecutados co
 
 Las acciones altruistas realizadas por personas físicas, con fondos propios, de manera informal y transitoria, no serán materia del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### Artículo 61.
 
-Las asociaciones civiles que deseen ser reconocidas por el Estado, como coadyuvantes de la asistencia social pública, deberán:
+Las personas que deseen constituir asociaciones o fundaciones de asistencia social privada, presentarán a la Junta de Asistencia Social Privada, una solicitud que contenga:
 
-I. Presentar la solicitud correspondiente a la Junta de Asistencia Social Privada;
+I. El nombre, domicilio y demás generales de quienes pretendan constituirla;
 
-II. Estar constituidas legalmente;
+II. La denominación, objeto y domicilio legal de la institución que se pretenda establecer;
 
-III. Realizar las actividades de acuerdo a su objeto social;
+III. El tipo de servicios o acciones de asistencia social que se deseen realizar;
 
-IV. Cumplir con las Normas Oficiales Mexicanas para la prestación de servicios de asistencia social, así como con los lineamientos a que se refiere la fracción IV del artículo 25 del presente ordenamiento, que establezca el organismo estatal para la asistencia social pública;
+IV. El patrimonio que se destine a crear y a sostener la institución, inventariando pormenorizadamente la clase de bienes que lo constituyan o, en su caso, la forma y términos en que hayan de exhibirse o recaudarse los fondos destinados a ella;
 
-V. Inscribirse en el Directorio de Instituciones de Asistencia Social Privada;
+V. La designación de las personas que integrarán las juntas, patronatos, consejos que hayan de representarlas y administrarlas, y
 
-VI. Otorgar las facilidades para que el personal de la Junta de Asistencia Social Privada efectúe las visitas de verificación necesarias;
+VI. Las bases generales de su administración.
 
-VII. Proporcionar la información que se les requiera en relación a la prestación de los servicios de asistencia social que realicen, y
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
 
-VIII. Las demás que se prevean en otras leyes aplicables.
+###### Artículo 61-A.
+
+Recibida por la Junta de Asistencia Social Privada la solicitud a que se refiere el artículo anterior, ésta la examinará y, en su caso, pedirá al solicitante o solicitantes los datos faltantes. Una vez que la Junta tenga en su poder todos los datos, resolverá si es o no de constituirse la institución, según los fines que se persigan sean o no de interés público.
+
+Tratándose de fundaciones, la declaratoria de la Junta acerca de que es de constituirse la institución, produce la afectación de los bienes al fin del interés público que se indique en la solicitud. La Junta mandará que dicha resolución se inscriba en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 61-B.
+
+Si la declaratoria de la Junta de Asistencia Social Privada es en el sentido de que se constituye la institución, lo comunicará al interesado o interesados para que procedan a formular los estatutos de la misma, dentro del plazo de treinta días, con sujeción a lo que establecen los artículos siguientes. Si en el plazo señalado el interesado o interesados no procedieran a formularlos, la Junta de Asistencia Social Privada desechará de plano el asunto, dando vista a aquéllos de su determinación.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 61-C.
+
+Los estatutos contendrán:
+
+l. La denominación de la institución;
+
+II. Los bienes que constituyan su patrimonio, o bien, la forma de exhibir y recaudar sus fondos;
+
+III. La clase de operaciones que deberá verificar la institución para sostenerse, sujetándose a las limitaciones que establezca la ley;
+
+IV. El tipo de servicios o acciones de asistencia social que se realizarán;
+
+V. La obligación de:
+
+a) Cumplir con las normas oficiales mexicanas para la prestación de servicios de asistencia social, así como los lineamientos a que se refiere la fracción IV del artículo 25;
+
+b) Otorgar las facilidades para que el personal de la Junta de Asistencia Social Privada efectúe las visitas de verificación necesarias;
+
+c) Proporcionar la información que se les requiera en relación a la prestación de los servicios de asistencia social que realicen, y
+
+d) Destinar los bienes remanentes a otra Institución de Asistencia Social Privada con objeto social afín, en caso de disolución y liquidación, y
+
+VI. La persona o personas que integrarán el Patronato o, en su caso, la Junta o Consejo Directivo de la institución.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 61-D.
+
+La Junta examinará el proyecto de estatutos y, si los encuentra deficientes o defectuosos, hará las observaciones correspondientes para que se corrija el proyecto y se envíe uno definitivo. Si la Junta aprueba los estatutos, expedirá una copia certificada de ellos a fin de que se protocolicen ante notario público para que éste inscriba la escritura correspondiente en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 61-E.
+
+La denominación de las asociaciones y de las fundaciones, constituidas en los términos de esta Ley, irá inmediatamente seguida de las palabras "Institución de Asistencia Social Privada" o de su abreviatura "I.A.S.P." En el caso de las segundas, su denominación siempre será precedida por el término "Fundación".
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 61-F.
+
+Las instituciones de Asistencia Social Privada iniciarán su actuación después de que se protocolicen los estatutos, pero no producirán efectos contra tercero hasta su inscripción en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 61-G.
+
+Lo no previsto para las asociaciones o fundaciones en la presente Ley, siempre que no se oponga a su contenido, se regirá en lo conducente por las disposiciones del Libro Cuarto, Título Decimoprimero, del Código Civil del Estado.
 
 ###### Artículo 62.
 
@@ -785,7 +851,7 @@ Las instituciones de asistencia social privada aplicarán los recursos que recib
 
 ###### Artículo 64.
 
-El organismo público descentralizado, con personalidad jurídica, patrimonio y autonomía de gestión propios, a que se refiere el artículo 1 de la Ley de la Junta de Asistencia Social Privada, tendrá como objeto fomentar y apoyar las acciones que realicen las instituciones de asistencia social privada.
+La Junta de Asistencia Social Privada del Estado de Chihuahua es el Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Social, dotado de personalidad jurídica, patrimonio y autonomía de gestión propios, con domicilio en la Ciudad de Chihuahua, que tendrá como objeto fomentar y apoyar las acciones que realicen las instituciones de asistencia social privada.
 
 ###### Artículo 65.
 
@@ -925,11 +991,13 @@ II. Quien ocupe la titularidad de la Secretaría de Hacienda;
 
 III. Quien ocupe la titularidad de la Dirección General del organismo estatal para la asistencia social pública;
 
-IV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+IV. Quien ocupe la titularidad de la Secretaría de Salud;
 
-V. Quien ocupe la titularidad de la Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+V. Quien ocupe la titularidad de la Secretaría de Educación, Cultura y Deporte;
 
 VI. Cuatro personas representantes de las instituciones de asistencia social privada, que serán designadas conforme a la función predominantemente prestada por la institución, atendiendo a los siguientes rubros: personas menores de edad, en situación de discapacidad, adultas mayores y salud o desarrollo comunitario, y
 
@@ -965,11 +1033,13 @@ El Consejo Directivo celebrará como mínimo seis sesiones ordinarias por año y
 
 El Consejo Directivo, para el desarrollo de las funciones que tiene encomendadas, se auxiliará de fedatarios públicos, conforme a lo dispuesto en la presente Ley y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### Artículo 78.
 
-La persona titular de la Dirección General de la Junta de Asistencia Social Privada, será designada por quien ocupe la titularidad del Poder Ejecutivo del Estado, de entre una terna propuesta por las instituciones de asistencia social privada. Durará tres años en su cargo y podrá ser removida libremente por aquél.
+La persona titular de la Dirección General de la Junta de Asistencia Social Privada, será designada por quien ocupe la titularidad del Poder Ejecutivo del Estado, de entre una terna propuesta por las instituciones de asistencia social privada y podrá ser removida libremente por aquél.
 
-La designación deberá llevarse a cabo conforme al procedimiento que se prevea en el Reglamento de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### Artículo 79.
 
@@ -1181,7 +1251,7 @@ En los ordenamientos jurídicos estatales que refieran la existencia de la Procu
 
 ###### ARTÍCULO DÉCIMO.
 
-Los numerales 70 y 78 del ARTÍCULO PRIMERO del presente Decreto, entrarán en vigor a partir de los meses de mayo y septiembre del año dos mil once, respectivamente.
+(DEROGADO, P.O. 28 DE MARZO DE 2012)
 
 ###### ARTÍCULO UNDÉCIMO.
 
@@ -1191,7 +1261,7 @@ Las relaciones laborales de los trabajadores con que cuente la Junta de Asistenc
 
 La convocatoria pública para la elección de los representantes de las instituciones de asistencia social privada a que se refiere el numeral 70, fracción VI, del ARTÍCULO PRIMERO del presente Decreto, deberá establecer los dos rubros por los que participarán aquéllos por única vez con una duración de dos años, así como los que durarán en el cargo los tres años completos.
 
-La convocatoria pública respectiva se emitirá durante la segunda quincena del mes de marzo del año dos mil once.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamiento o instrumento legalmente expedido se haga referencia a la Junta de Beneficencia Privada o Junta de Asistencia Privada, se entenderá que se trata ahora de la Junta de Asistencia Social Privada.
 
@@ -1232,3 +1302,13 @@ P.O. 28 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los organismos públicos descentralizados previstos en los artículos 13 de la Ley Sobre el Sistema Estatal de Asistencia Social, y 1 de la Ley de la Junta de Asistencia Privada del Estado de Chihuahua, que en lo subsecuente se prevén en los numerales 24 y 59 de la ley de Asistencia Social Pública y Privada para el Estado de Chihuahua, se entienden constituidos desde la fecha de entrada en vigor de los primeros ordenamientos referidos, por lo que todas las funciones, facultades, derechos y obligaciones establecidas en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias o entidades de la Federación o de los municipios, así como con cualquier persona física o moral, subsisten en todos· sus términos en cuanto no se opongan a las disposiciones de la Ley de Asistencia Social Pública y Privada.
