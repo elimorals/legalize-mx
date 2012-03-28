@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transporte-para-el-estado-de-morelos-62487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-13"
-last_updated: "2009-12-09"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE TRANSPORTE PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2008.
 
@@ -1201,7 +1201,9 @@ VI. Constancia de aprobación y vigencia de la revista mecánica correspondiente
 
 Las concesiones para explotar el servicio de transporte público podrán transmitirse únicamente por las siguientes causas:
 
-I. En el caso de personas físicas, por causa de muerte o incapacidad física o mental, a favor de la persona que aparezca como beneficiario en el título de concesión, el designado por su titular, o por persona que se crea con mejor derecho para la transmisión de la concesión, exhibiendo los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
+
+I. En el caso de personas físicas, por causa de muerte o incapacidad física o mental, mediante el acuerdo de transferencia emitido por el Poder Ejecutivo, por conducto de la Secretaría de Gobierno, a través del Director General de Transportes, a favor de la persona que aparezca como beneficiario en el título de concesión, el designado por su titular, o por persona que acredite mejor derecho para la transmisión de la concesión, cumpliendo los siguientes requisitos:
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2009)</small>
 
@@ -1292,6 +1294,12 @@ XII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2009)
 ###### ARTÍCULO 112.
 
 Para la transmisión de la Concesión mediante cesión de derechos a que se refieren el presente artículo, la tramitación se efectuará ante la Dirección General de Transportes, exhibiendo la totalidad de los requisitos mencionados según sea el caso. Respecto a las cesiones de derecho entre particulares, los interesados deberán de exhibir el documento que acredite la transmisión legal de la concesión, debiendo la Dirección General de Transportes, emitir la respectiva resolución administrativa, la cual contendrá, en caso de ser aprobada, la firma del titular de la Dirección, y deberá de ser remitida para acordar la autorización por parte del Secretario de Gobierno.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+ARTÍCULO 112 BIS. Para la transmisión de la concesión en caso de muerte del concesionario, o incapacidad física o mental, a fin de obtener el acuerdo de transferencia a que se refiere la fracción I del artículo 110 de este Reglamento, la tramitación se efectuará por conducto de la Dirección General de Transportes, exhibiendo la totalidad de los requisitos previstos en el presente Reglamento, según sea el caso de que se trate. Esta Dirección General procederá a emitir el respectivo acuerdo de transferencia que contendrá la aprobación de la misma, así como la fundamentación y motivación correspondientes, y la firma del Titular de dicha Dirección General, debiendo remitirle un informe sobre el ejercicio de tal atribución al Secretario de Gobierno.
+
+En caso de que no sea procedente acordar la transferencia, la propia Dirección General notificará al solicitante la respuesta negativa, lo que también deberá fundarse y motivarse.
 
 ###### ARTÍCULO 113.
 
@@ -2558,3 +2566,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO. Los procedimientos o trámites materia del reglamento de Transporte para el Estado de Morelos, que se hayan iniciado con anterioridad a al (sic) entrada en vigor del presente Decreto, se resolverán de conformidad con las disposiciones vigentes al momento de su inicio.
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de información oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en el presente Decreto.
