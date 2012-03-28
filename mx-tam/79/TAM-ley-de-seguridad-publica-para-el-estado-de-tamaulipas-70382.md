@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2012-03-27"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -101,7 +101,7 @@ X. Determinar las sanciones y estímulos a que se hagan acreedores los miembros 
 
 ###### ARTICULO 4.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
 1. Las autoridades estatales y municipales de seguridad pública instrumentarán acciones de evaluación en los procesos de selección de aspirantes, permanencia, depuración, desarrollo y la promoción de los integrantes de las instituciones de seguridad pública, además de la modernización de infraestructura, del equipo y de sus recursos técnicos; así como la generación de información actualizada sobre seguridad pública, que permitan realizar programas conjuntos entre los tres órdenes de gobierno, en materia de prevención y de persecución de delitos en flagrancia.
 
@@ -1223,9 +1223,9 @@ El Presidente podrá celebrar reuniones de evaluación y análisis con miembros 
 
 ###### ARTICULO 56.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
 
-1. El Consejo Estatal de Seguridad Pública contará con un organismo administrativo que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este organismo dependerá directamente del Secretario General de Gobierno.
+1. El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente del Secretario de Seguridad Pública.
 
 2. La estructura, organización y funciones del Consejo, se establecerán en el reglamento respectivo.
 
@@ -1619,6 +1619,20 @@ P.O. 27 DE MARZO DE 2012.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
 ###### ARTÍCULO TERCERO.
 
 Toda referencia que se haga del Consejo de Honor y Justicia, en cualquier disposición jurídica se entenderá hecha al Consejo de Desarrollo Policial, y éstos continuarán ejerciendo sus atribuciones conforme lo establece la presente ley, y en un plazo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento del Consejo de Desarrollo Policial.
+
+P.O. 28 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y se derogan todas aquellas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Con motivo de la reubicación administrativa del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, no se afectarán los derechos de los trabajadores del órgano desconcentrado.
