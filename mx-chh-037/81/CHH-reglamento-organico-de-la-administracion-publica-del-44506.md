@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2011-07-16"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
 
-REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE JUAREZ, ESTADO DE CHIHUAHUA
+REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -455,7 +455,7 @@ El Director de Contabilidad llevará el registro de los ingresos y egresos munic
 
 (DEROGADO, P.O. 23 DE FEBRERO DE 2008)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL
 
@@ -463,7 +463,7 @@ SECRETARÍA DE SEGURIDAD PÚBLICA MUNICIPAL
 
 El Presidente es la máxima autoridad en materia de Seguridad Pública en el Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -501,15 +501,15 @@ XI. Organizar el despacho de la Secretaría con un Director Administrativo y el 
 
 XII. Las demás que señalen las leyes, reglamentos y manuales de organización.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -585,7 +585,7 @@ XVIII. Expedir y difundir los manuales y guías de conductores y peatones; y
 
 XIX. Las demás que le confieran ésta u otras disposiciones legales. El sub.-director auxiliará en las funciones al Director y lo sustituirá en sus ausencias temporales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 DIRECCIÓN GENERAL DE OBRAS PÚBLICAS
 
@@ -655,7 +655,7 @@ Son atribuciones del Director Técnico; la realización e integración de los pr
 
 El Director de Mantenimiento, tendrá a su cargo el buen funcionamiento, reparación y limpieza de todos lo (sic) bienes muebles e inmuebles propiedad del Municipio.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 DIRECCIÓN GENERAL DE DESARROLLO URBANO
 
@@ -851,9 +851,9 @@ II. Dirección de Patrimonio
 
 III. Dirección de Recursos Materiales
 
-IV. Dirección de Servicios Médicos; y (sic)
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-> <small>(DEROGADA, P.O. 23 DE OCTUBRE DE 2010)</small>
+IV. Dirección de Mantenimiento Mecánico.
 
 ###### Artículo 57.
 
@@ -869,7 +869,11 @@ El Director de Patrimonio tendrá a su cargo el control y vigilancia de los bien
 
 El Director de Recursos Materiales tendrá a su cargo la adquisición de todos los bienes y servicios necesarios para que las Dependencias puedan desempeñar sus atribuciones.
 
-> <small>(ADICIONADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 60 BIS], P.O. 28 DE MARZO DE 2012)</small>
+
+Artículo 59 bis.- El Director de Mantenimiento Mecánico, tendrá a su cargo el buen funcionamiento y reparación de los vehículos propiedad del Municipio, llevará a cabo el reporte parcial y final de las reparaciones de los mismos, dando seguimiento al procedimiento que corresponda para lograr una mayor eficiencia en el mantenimiento vehicular, así mismo supervisará, autorizará y controlará, la asignación de talleres externos y el manejo de refacciones automotrices.
+
+> <small>(ADICIONADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2010)</small>
 
 DIRECION (SIC) GENERAL DE SALUD MUNICIPAL
 
@@ -895,9 +899,7 @@ G) Desarrollar estrategias, programas preventivos y campañas permanentes de dif
 
 H) Las demás que señalen las leyes, reglamentos y manuales de organización.
 
-(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2010) (REUBICADO, P.O. 23 DE OCTUBRE DE 2010)
-
-Artículo 60 bis.- El Director de Mantenimiento Mecánico, tendrá a su cargo el buen funcionamiento y reparación de los vehículos propiedad del Municipio, llevará a cabo el reporte parcial y final de las reparaciones de los mismos, dando seguimiento al procedimiento que corresponda para lograr una mayor eficiencia en el mantenimiento vehicular, así mismo supervisará, autorizará y controlará, la asignación de talleres externos y el manejo de refacciones automotrices.
+Artículo 60 bis.- (DEROGADO, P.O. 28 DE MARZO DE 2012)
 
 CONTRALORIA
 
@@ -1569,7 +1571,7 @@ EL SECRETARIO DEL AYUNTAMIENTO
 
 LIC. MIGUEL ÁNGEL CALDERÓN RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 11 DE FEBRERO DE 2006.
 
@@ -1581,11 +1583,11 @@ UNICO.- La presente adición al Reglamento Orgánico de la Administración Públ
 
 P.O. 29 DE NOVIEMBRE DE 2006.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 9 DE MAYO DE 2007.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 23 DE FEBRERO DE 2008.
 
@@ -1595,13 +1597,13 @@ SEGUNDO.- Las modificaciones al presente Reglamento Orgánico entrarán en vigor
 
 P.O. 7 DE JUNIO DE 2008.
 
-ACUERDO 106 QUE ADICIONA LAS FRACCIONES III, IV, V, VI, VII, VIII, IX, X, Y XI AL ARTICULO 96.
+ACUERDO 106 QUE ADICIONA LAS FRACCIONES III, IV, V, VI, VII, VIII, IX, X, Y XI AL ARTÍCULO 96.
 
 ÚNICO.- La presente adición, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 7 DE JUNIO DE 2008.
 
-ACUERDO 107 QUE ADICIONA LAS FRACCIONES XII, XIII Y XIV AL ARTICULO 96.
+ACUERDO 107 QUE ADICIONA LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 96.
 
 PRIMERO: La presente adición, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
@@ -1625,13 +1627,13 @@ SEGUNDO: Se ordena girar oficio a la Tesorería Municipal, a fin de que realice 
 
 P.O. 17 DE ENERO DE 2009.
 
-ACUERDO 003 QUE APRUEBA LA REFORMA DEL ARTICULO 9.
+ACUERDO 003 QUE APRUEBA LA REFORMA DEL ARTÍCULO 9.
 
 ÚNICO: La presente reforma, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 17 DE ENERO DE 2009.
 
-ACUERDO 005 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
+ACUERDO 005 QUE APRUEBA LA REFORMA DE LOS ARTÍCULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
 
 ÚNICO.- La reforma del Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, conforme a este acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
 
@@ -1645,13 +1647,13 @@ P.O. 4 DE SEPTIEMBRE DE 2010.
 
 P.O. 9 DE OCTUBRE DE 2010.
 
-ACUERDO 284 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 27, 72, 90, 96, 5, 16, 29, 53, 73, 97, 73 BIS, 15, 87, 89, 24.
+ACUERDO 284 QUE APRUEBA LA REFORMA DE LOS ARTÍCULOS 27, 72, 90, 96, 5, 16, 29, 53, 73, 97, 73 BIS, 15, 87, 89, 24.
 
 ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
 
 P.O. 9 DE OCTUBRE DE 2010.
 
-ACUERDO 285 QUE APRUEBA LA REFORMA DE LOS ARTICULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
+ACUERDO 285 QUE APRUEBA LA REFORMA DE LOS ARTÍCULOS 5, 39, 40, 41, 42, 43, 44 Y 45.
 
 ÚNICO.- La presente reforma, entrará en vigor a partir del día 10 de octubre de 2010, en caso de que su publicación en el Periódico Oficial del Gobierno del Estado se lleve a cabo antes de dicha fecha, caso contrario, entrará en vigor a partir del día siguiente de su publicación en el mencionado Periódico Oficial.
 
@@ -1674,3 +1676,7 @@ P.O. 22 DE JUNIO DE 2011.
 P.O. 16 DE JULIO DE 2011.
 
 ÚNICO.- Las reformas contenidas en el presente acuerdo, entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 28 DE MARZO DE 2012.
+
+ÚNICO: Se autoriza a los ciudadanos Presidente Municipal y Secretario del Ayuntamiento, para que en los términos del artículo 28 fracción I segundo párrafo del Código Municipal para el Estado de Chihuahua, remitan el presente acuerdo al Ejecutivo Estatal, para su respectiva publicación en el Periódico Oficial del Gobierno del Estado.
