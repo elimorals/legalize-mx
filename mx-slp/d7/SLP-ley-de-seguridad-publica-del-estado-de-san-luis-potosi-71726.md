@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-seguridad-publica-del-estado-de-san-luis-potosi-71726"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-22"
-last_updated: "2011-11-10"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 28 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 22 de diciembre de 2009.
 
@@ -1471,7 +1473,7 @@ Lic. José Guadalupe Durón Santillán
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE NOVIEMBRE DE 2010.
 
@@ -1488,3 +1490,15 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Seguridad Pública del Estado de San Luis Potosí, publicada como Decreto Legislativo No. 25 en el Periódico Oficial del Estado del 22 de diciembre de 2009, así como sus modificaciones. Asimismo, se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por la presente Ley.
+
+TERCERO. El titular del Ejecutivo del Estado expedirá, en un término de ciento ochenta días a partir de la vigencia de la presente Ley, los reglamentos derivados de la misma.
+
+CUARTO. Los ayuntamientos expedirán en un plazo de ciento ochenta días a partir de la vigencia de esta Ley, los reglamentos de sus policías preventivas.
+
+QUINTO. El titular del Ejecutivo del Estado realizará, en un plazo máximo de tres años a partir de la vigencia de la presente Ley, y someterá a la autoridad que corresponda, los estudios técnicos pertinentes para la revisión, actualización y fijación de los tabuladores que deberán regir al personal de seguridad pública, de conformidad con el artículo 51 de la presente Ley.
