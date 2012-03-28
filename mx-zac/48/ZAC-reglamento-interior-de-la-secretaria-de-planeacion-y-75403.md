@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-planeacion-y-75403"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-05"
-last_updated: "2010-05-05"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION Y DESARROLLO REGIONAL DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y DESARROLLO REGIONAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de mayo de 2010.
 
@@ -461,7 +461,7 @@ VII. Las demás que le confieran otros ordenamientos jurídicos o le encomiende 
 
 ###### Artículo 22.
 
-.Corresponde a la Dirección de Estadística Geografía e Indicadores:
+Corresponde a la Dirección de Estadística Geografía e Indicadores:
 
 I. Desarrollar, instrumentar y consolidar el Sistema de Información Estadística y Geográfica;
 
@@ -547,7 +547,7 @@ Para el mejor desempeño de sus funciones, la Subsecretaría de Desarrollo Socia
 
 I. Dirección de Desarrollo Social y Humano;
 
-II. Dirección de Desarrollo Regional;
+II. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
 III. Dirección del Programa 3 x 1;
 
@@ -556,6 +556,10 @@ IV. Dirección de Fondos y Proyectos para el Desarrollo Social;
 V. Dirección de Capacitación y Proyectos Productivos; y
 
 VI. Coordinación de Instituciones de Educación Superior.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+Además, tendrá como órgano de apoyo al Instituto de Vinculación y Participación Ciudadana, cuyo titular o responsable tendrá el nivel jerárquico de Director.
 
 ###### Artículo 25.
 
@@ -581,53 +585,77 @@ IX. Promover la integración y actualización del padrón de beneficiarios de lo
 
 X. Las demás que le confieran otros ordenamientos jurídicos o le encomiende el Secretario.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### Artículo 26.
 
-Corresponde a la Dirección de Desarrollo Regional:
+Corresponde al Instituto de Vinculación y Participación Ciudadana:
 
-I. Disponer la organización y funcionamiento de las Coordinaciones Regionales;
+I. Participar y asistir a las reuniones a las que sea convocado por el Secretario;
 
-II. Representar a la SEPLADER a través de las Coordinaciones Regionales en las instancias de planeación regional, municipal y de participación social;
+II. Someter al acuerdo del Secretario, la resolución de casos urgentes;
 
-III. Diseñar los mecanismos y procedimientos para establecer una constante comunicación con las administraciones municipales;
+III. Establecer los sistemas de control necesarios para alcanzar las metas y objetivos del Instituto y dictar las medidas pertinentes para que sus funciones se realicen de manera articulada, congruente, eficaz y eficiente;
 
-IV. En coordinación con los ayuntamientos, promover el funcionamiento y fortalecimiento de los COPLADEMUN y los CODEMUN;
+IV. Coadyuvar en la elaboración del Programa Operativo Anual de la Secretaría;
 
-V. Asesorar y participar en la instrumentación de programas de desarrollo regional y municipal, a fin de mejorar la capacidad de gestión de los Ayuntamientos;
+V. Coordinar la elaboración de los Manuales de Organización y Servicios al Público;
 
-VI. Colaborar con el COPLADEZ en la constitución y operación de los COPLADER, en las 10 regiones del Estado;
+VI. Representar a la Secretaría a través de las Coordinaciones Regionales en las instancias de planeación municipal y participación social;
 
-VII. Impulsar la creación y fortalecimiento de los organismos de participación regional y social, de conformidad con el PED y la normatividad vigente;
+VII. Establecer comunicación constante con las administraciones municipales a través de mecanismos y procedimientos previamente acordados;
 
-VIII. Mantener informado al Subsecretario del ramo sobre el avance de los programas de desarrollo regional y municipal;
+VIII. Promover el funcionamiento de los Comités de planeación para el Desarrollo Municipal (COPLADEMUN) ante los ayuntamientos y dar seguimiento a los mismos;
 
-IX. Conocer y dar seguimiento a los convenios firmados entre los municipios, las dependencias federales, estatales y organismos públicos descentralizados para conocer el avance de los mismos;
+IX. Incorporar las propuestas acordadas por (COPLADEMUN) a la instancia regional y estatal de planeación;
 
-X. Promover programas de capacitación para el desarrollo comunitario y municipal y regional;
+X. Promover el funcionamiento de los Consejos de Desarrollo Municipal como mecanismo de participación ciudadana en la autorización, ejecución y seguimiento de obras sociales;
 
-XI. Aplicar en coordinación con las entidades competentes, instrumentos para realizar la evaluación de los programas estatales, regionales y municipales;
+XI. Asesorar y participar en la gestión de programas de desarrollo municipal y regional, a fin de mejorar la capacidad institucional de los ayuntamientos y a las organizaciones sociales que lo soliciten;
 
-XII. Impulsar en coordinación con las entidades competentes, la elaboración de proyectos sectoriales y regionales, que coadyuven al desarrollo integral de los municipios y regiones del Estado;
+XII. Promover y coordinar la constitución y operación de los Comités de Planeación para el Desarrollo Regional (COPLADER), previo acuerdo con la Coordinación Ejecutiva del Comité de Planeación para el Desarrollo del Estado de Zacatecas (COPLADEZ);
 
-XIII. Promover la elaboración de diagnósticos para articular la planeación municipal con una visión de carácter regional y de una mejor distribución del crecimiento económico y social;
+XIII. Impulsar la creación y fortalecimiento de los organismos de participación social comunitaria, municipal y regional de conformidad con el Plan Estatal de Desarrollo (PED) y la normatividad vigente;
 
-XIV. Captar la (sic) propuestas de inversión comunitaria municipal y regional a través de las coordinaciones regionales y mediante foros de auto diagnóstico;
+XIV. Mantener informado al Subsecretario el avance de los programas de desarrollo regional y municipal;
 
-XV. Revisar e integrar en primera instancia, los programas, proyectos y expedientes técnicos de conformidad con la normatividad establecida del ramo 20 y los fondos III y IV del Ramo General 33 y turnarlos a las Direcciones respectivas para su aprobación correspondiente;
+XV. Informar al Subsecretario sobre el avance de los convenios firmados entre los municipios, con las Dependencias Federales, Estatales y Organismos Públicos Descentralizados;
 
-XVI. Asesorar a las administraciones municipales en la integración de sus programas de inversión de acuerdo a la normatividad establecida;
+XVI. Promover programas de capacitación para el desarrollo comunitario que determinen instrumentar en apoyo de los municipios;
 
-XVII. Establecer mecanismos de coordinación y seguimiento de las acciones que realizan las dependencias públicas en materia de desarrollo social y de combate a la pobreza, en cada una de las regiones;
+XVII. Elaborar diagnósticos que sean la base para la planeación municipal con una visión de carácter regional y permitan además sentar las bases para proponer una mejor distribución de crecimiento económico y social del Estado;
 
-XVIII. Integrar, coordinar y mantener actualizado el padrón de beneficiarios de programas sociales de los municipios del Estado;
+XVIII. Captar e integrar las propuestas de inversión comunitaria municipal y regional que se presenten mediante foros de autodiagnóstico;
 
-XIX Coordinar el establecimiento e integración de los consejos regionales y municipales; y
+XIX. Asesorar a los Presidentes Municipales en la integración de propuestas de los programas de inversión de acuerdo a la normatividad establecida;
 
-XX. Las demás que le confieran otros ordenamientos jurídicos o le encomiende el Secretario.
+XX. Establecer mecanismos de coordinación y seguimiento de las acciones que realizan Dependencias Públicas en materia de desarrollo social y de superación a la pobreza en cada una de las regiones, y
+
+XXI. Coordinar y mantener actualizado el padrón de beneficiarios de programas sociales en las que interviene el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 26 Bis.
+
+Para el cumplimiento de sus funciones, el Instituto contará con las siguientes áreas administrativas:
+
+I. Subdirección de Vinculación.
+
+a) Departamento de Enlace Interinstitucional, y
+
+b) Departamento de Seguimiento y Enlace Regional.
+
+II. Subdirección de Participación Ciudadana.
+
+a) Departamento de Organización Ciudadana, y
+
+b) Departamento de Desarrollo Regional y Local.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### Artículo 27.
 
-Para el mejor cumplimiento de las funciones de la Dirección de Desarrollo Regional, se auxiliará de las Coordinaciones Regionales en cada una de las regiones establecidas por el COPLADEZ:
+Para el mejor cumplimiento de las funciones del Instituto de Vinculación y Participación Ciudadana, se auxiliará de las Coordinaciones Regionales en cada una de las regiones establecidas por el COPLADEZ:
 
 I. Coordinación Regional 01 Fresnillo;
 
@@ -697,15 +725,23 @@ XX. Recabar y enviar la información requerida por las diferentes áreas de la S
 
 XXI. Las demás que le confieran otros ordenamientos jurídicos o le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### Artículo 29.
 
-Para el desarrollo de las funciones de las Coordinaciones Regionales, cada una de ellas se apoyará de las siguientes Unidades:
+Para el desarrollo de las funciones de las Coordinaciones Regionales, cada una de ellas se apoyará de las siguientes unidades:
 
 I. Unidad de Planeación y Estadística;
 
-II. Unidad de Proyectos; y
+II. Unidad de Proyectos; y (sic)
 
-III. Unidad de Capacitación y Organización.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+III. Unidad de Capacitación y Organización, y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+
+IV. Unidad de Gestión.
 
 ###### Artículo 30.
 
@@ -778,6 +814,20 @@ IX. Generar y mantener actualizados los paquetes de cursos de capacitación, par
 X. Organizar cursos de capacitación para fortalecer la organización de los núcleos en materia de población, producción y comercialización y que permitan que las comunidades participen en la elaboración y ejecución de los programas de inversión pública de los tres niveles de gobierno; y
 
 XI. Las demás que le confieran otros ordenamientos jurídicos o le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 32 Bis.
+
+Corresponde a la Unidad de Gestión.
+
+I. Recibir solicitudes que le hagan al Gobierno del Estado o al Secretario;
+
+II. Dar seguimiento de las solicitudes y canalizarlas a la Dependencia respectiva;
+
+III. Integrar un padrón de beneficiarios de los Programas Sociales del Gobierno del Estado, y
+
+IV. Las demás que le confieran otros ordenamientos jurídicos o le encomiende el Secretario o el Subsecretario.
 
 ###### Artículo 33.
 
@@ -865,7 +915,7 @@ Primero.- El presente Reglamento Interno, entrará en vigor el día siguiente de
 
 Segundo.- Se abroga el Decreto que contiene el Reglamento de la Secretaría de Planeación y Desarrollo Regional, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, de fecha 30 de enero de 2008.
 
-Tercero.- Los Manuales Generales .de Organización y de Procedimientos, deberán elaborarse por las diversas áreas de la Dependencia, con el apoyo de las Coordinaciones Jurídica y Administrativa dentro del plazo de noventa días siguientes a la entrada en vigor del presente Reglamento.
+Tercero.- Los Manuales Generales de Organización y de Procedimientos, deberán elaborarse por las diversas áreas de la Dependencia, con el apoyo de las Coordinaciones Jurídica y Administrativa dentro del plazo de noventa días siguientes a la entrada en vigor del presente Reglamento.
 
 En cumplimiento de lo dispuesto en el artículo 85 de la Constitución Política del Estado Libre y Soberano de Zacatecas y para su debida aplicación y observación, se expide el presente Reglamento en el Despacho de la Gobernadora del Estado a los veintiséis días del mes de marzo del año dos mil diez.
 
@@ -884,3 +934,11 @@ OCTAVIO MACÍAS SOLÍS
 EL SECRETARIO DE PLANEACIÓN Y DESARROLLO REGIONAL
 
 JUAN SÁNCHEZ LEGASPI
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2012.
+
+Primero.- Las presentes Reformas y Adiciones al Reglamento Interior de la Secretaría de Planeación y Desarrollo Regional, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo.- Los Manuales de Organización y de Procedimientos, deberán elaborarse por las diversas áreas de la Dependencia con el apoyo de las Coordinaciones, Jurídica y Administrativa dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto.
