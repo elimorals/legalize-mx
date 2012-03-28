@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2012-del-pleno-del-consejo-de-la-86392"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-29"
-last_updated: "2012-03-09"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86392&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2012-02-21"
 ---
 # ACUERDO GENERAL 5/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN ZAPOPAN, JALISCO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y SEDE INDICADOS]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ACUERDO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 5/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO, CON RESIDENCIA EN ZAPOPAN, ESTADO DE JALISCO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y SEDE INDICADOS
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE MARZO DE 2012.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 28 DE MARZO DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de febrero de 2012.
 
@@ -85,9 +83,9 @@ Por otra parte, dado que la redistribución de asuntos ordenada en los incisos q
 
 QUINTO. Para el periodo de guardia del Tercer Tribunal Colegiado en Materia de Trabajo del Tercer Circuito se estará al Acuerdo General 19/2007, del Pleno del Consejo de la Judicatura Federal, que establece condiciones para la actividad jurisdiccional continua en los tribunales colegiados de Circuito; y en su caso al acuerdo que para tal efecto se hubiese tomado en el Circuito.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MARZO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 28 DE MARZO DE 2012)</small>
 
-SEXTO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días hábiles de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
+SEXTO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
 
 De igual forma el Presidente del nuevo tribunal deberá levantar por duplicado un acta administrativa del inicio de funciones del órgano jurisdiccional, cuyo formato le será proporcionado por la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, debiendo remitir un ejemplar a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
 
