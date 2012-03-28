@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-la-junta-de-asistencia-privada-del-estado-de-47971"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2009-10-28"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 718/2011, PUBLICADO EN EL P.O. DE 28 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 28 de diciembre de 2005.
 
@@ -49,7 +51,7 @@ LEY DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE CHIHUAHUA
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -57,19 +59,19 @@ LEY DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE CHIHUAHUA
 
 Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Organismo Descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría de Fomento Social, dotado de personalidad jurídica, patrimonio y autonomía de gestión propios, con domicilio en la ciudad de Chihuahua.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 2.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 3.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 4.
 
@@ -77,7 +79,7 @@ Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Or
 
 ### Capítulo II. Del Patrimonio de la Junta
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 5.
 
@@ -85,25 +87,25 @@ Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Or
 
 ### Capítulo III. De los Órganos de Gobierno de la Junta de Asistencia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 6.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 7.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 8.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 9.
 
@@ -111,7 +113,7 @@ Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Or
 
 ### Capítulo IV. De las Atribuciones de la Junta de Asistencia Privada a través del Consejo Directivo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 10.
 
@@ -119,19 +121,19 @@ Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Or
 
 ### Capítulo V. De las Atribuciones de los demás Órganos de Gobierno
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 11.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 12.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 13.
 
@@ -139,19 +141,19 @@ Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Or
 
 ### Capítulo VI. De los Órganos de Vigilancia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 14.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 15.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 16.
 
@@ -159,13 +161,13 @@ Se crea la Junta de Asistencia Social Privada del Estado de Chihuahua como un Or
 
 ### Capítulo VII. De las Responsabilidades
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 17.
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO No. 644/09 II.</small>
 
 ###### Artículo 18.
 
@@ -221,7 +223,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO RODRIGUEZ MORENO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2007.
 
@@ -324,3 +326,13 @@ ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamient
 Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
 
 ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
+
+P.O. 28 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los organismos públicos descentralizados previstos en los artículos 13 de la Ley Sobre el Sistema Estatal de Asistencia Social, y 1 de la Ley de la Junta de Asistencia Privada del Estado de Chihuahua, que en lo subsecuente se prevén en los numerales 24 y 59 de la Ley de Asistencia Social Pública y Privada para el Estado de Chihuahua, se entienden constituidos desde la fecha de entrada en vigor de los primeros ordenamientos referidos, por lo que todas las funciones, facultades, derechos y obligaciones establecidas en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias o entidades de la Federación o de los municipios, así como con cualquier persona física o moral, subsisten en todos sus términos en cuanto no se opongan a las disposiciones de la Ley de Asistencia Social Pública y Privada.
