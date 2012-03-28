@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2006-03-29"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO
+LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -287,9 +287,13 @@ Cuando por circunstancias especiales deban aumentarse las horas de trabajo, ést
 
 Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 26.
 
-Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el alumbramiento y de un mes y medio después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrán dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
+Las mujeres embarazadas, disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de un mes y medio después del mismo, con goce de sueldo íntegro en ambos casos. Durante la lactancia, tendrá dos descansos extraordinarios al día, de media hora cada uno, para amamantar a sus hijos, previos dictámenes médicos oficiales.
+
+Los hombres gozarán de cinco días hábiles de descanso con goce de sueldo, con motivo del parto de su esposa o concubina. De igual forma se procederá, conforme a lo previsto en el ordenamiento legal correspondiente, en el supuesto de adoptar a un menor de edad.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2006)</small>
 
@@ -997,7 +1001,7 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 
 Por tanto mando se imprima, publique y circule para sus efectos. DADO en el Palacio del Departamento Ejecutivo en la Heroica Puebla de Zaragoza, a los dieciocho días del mes de agosto de mil novecientos sesenta y seis.- El Gobernador Interino del Estado, Ing. Aarón Merino Fernández.- Rúbrica.- El Secretario General de Gobierno, Lic. Enrique Molina Johnson.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE DICIEMBRE DE 1971.
 
@@ -1033,4 +1037,10 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Por la conmemoración en el año dos mil seis del bicentenario del natalicio de Don Benito Juárez García, Benemérito de las Américas, en el año en curso será día de descanso obligatorio para lo Trabajadores al Servicio del Estado, inhábil para el despacho de los Tribunales del Poder Judicial del Estado y no se contará en los plazos fijados en días por la legislación fiscal del Estado, el día martes 21 de marzo, en lugar del tercer lunes de marzo, por lo que la reforma relativa a este día, tendrá vigencia a partir del año dos mil siete.
+Por la conmemoración en el año dos mil seis del bicentenario del natalicio de Don Benito Juárez García, Benemérito de las Américas, en el año en curso será día de descanso obligatorio para los Trabajadores al Servicio del Estado, inhábil para el despacho de los Tribunales del Poder Judicial del Estado y no se contará en los plazos fijados en días por la legislación fiscal del Estado, el día martes 21 de marzo, en lugar del tercer lunes de marzo, por lo que la reforma relativa a este día, tendrá vigencia a partir del año dos mil siete.
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
