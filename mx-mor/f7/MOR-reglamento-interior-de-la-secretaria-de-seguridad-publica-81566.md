@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-81566
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-01"
-last_updated: "2012-03-07"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MARZO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de junio de 2011.
 
@@ -121,21 +119,25 @@ XVI. Dirección General de Ejecución de Medidas para Adolescentes;
 
 XVII. Dirección General del Centro de Comunicación y Cómputo;
 
-XVIII. Centro Estatal de Análisis de Información sobre Seguridad Pública;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XIX. Dirección de Área de Control de Confianza y Asuntos Internos;
+XVIII. Dirección General de la Ayudantía del C. Gobernador;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XX. Unidad de Operaciones de la Policía Estatal Acreditable;
+XIX. Unidad de Operaciones de la Policía Estatal Acreditable;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XXI. Unidad de Investigación de la Policía Estatal Acreditable;
+XX. Unidad de Investigación de la Policía Estatal Acreditable;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XXII. Unidad de Análisis Táctico de la Policía Estatal Acreditable;
+XXI. Unidad de Análisis Táctico de la Policía Estatal Acreditable;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XXII. Centro Estatal de Análisis de Información sobre Seguridad Pública;
 
 XXIII. Dirección de Área de Rescate Urbano y Atención a Siniestros;
 
@@ -155,9 +157,19 @@ XXX. Dirección de Área del Grupo de Operaciones Especiales;
 
 XXXI. Dirección de Área de Unidades Especializadas;
 
-XXXII. Dirección de Área de la Policía Preventiva Procesal y de Custodia, y
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XXXIII. Dirección de Área Operativa de la Policía Industrial, Bancaria y Auxiliar.
+XXXII. Dirección de Área de Control de Confianza y Asuntos Internos;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XXXIII. Dirección de la Unidad de Medidas Cautelares y Salidas Alternas para Adultos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2012)</small>
+
+XXXIV. Dirección de Área de la Policía Preventiva Procesal y de Custodia, y
+
+XXXV. Dirección de Área Operativa de la Policía Industrial, Bancaria y Auxiliar.
 
 Todas las Unidades Administrativas que se señalen en este Reglamento, en los Manuales de Organización, y de Políticas y Procedimientos deberán encontrarse aprobadas en el presupuesto asignado a la Secretaría.
 
@@ -197,9 +209,13 @@ II. La Dirección General del Centro de Comunicación y Cómputo;
 
 III. La Dirección General de la Policía Preventiva Estatal;
 
-IV. La Dirección de Área de Rescate Urbano y Atención a Siniestros, y
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
-V. La Dirección de Área del Grupo de Operaciones Especiales.
+IV. La Dirección General de la Ayudantía del C. Gobernador;
+
+V. La Dirección de Área de Rescate Urbano y Atención a Siniestros, y
+
+VI. La Dirección de Área del Grupo de Operaciones Especiales.
 
 ###### Artículo 6.
 
@@ -213,9 +229,17 @@ I. La Dirección General de Establecimientos Penitenciarios;
 
 II. La Dirección General de Reinserción Social;
 
-III. La Dirección General de Ejecución de Medidas para Adolescentes, y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-IV. La Dirección General de Industria Penitenciaria.
+III. La Dirección General de Ejecución de Medidas para Adolescentes;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+IV. La Dirección General de Industria Penitenciaria, y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+
+V. La Dirección de la Unidad de Medidas Cautelares y Salidas Alternas para Adultos.
 
 ###### Artículo 8.
 
@@ -247,17 +271,21 @@ VIII. La Dirección de Área de la Policía Preventiva Procesal y de Custodia.
 
 Se adscriben a la Dirección General de la Policía Estatal Acreditable:
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2012)</small>
 
 I. La Unidad de Operaciones de la Policía Estatal Acreditable;
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2012)</small>
 
 II. La Unidad de Investigación de la Policía Estatal Acreditable, y
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2012)</small>
 
 III. La Unidad de Análisis Táctico de la Policía Estatal Acreditable.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+Las anteriores unidades tendrán el nivel jerárquico equivalente al de asesor.
 
 ### CAPÍTULO II. DE LAS FACULTADES DE LA SECRETARÍA
 
@@ -357,9 +385,13 @@ XLI. Aprobar los programas aplicables al sistema estatal de reinserción social 
 
 XLII. Formar parte del Consejo Estatal de Seguridad Pública;
 
-XLIII. Actuar en forma coordinada y formar parte del Sistema Estatal de Seguridad Pública, y
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XLIV. Las demás que le confieran otras disposiciones legales aplicables o le correspondan por delegación o suplencia.
+XLIII. Coordinar y supervisar el cumplimiento de las medidas cautelares, providencias precautorias y salidas alternas que resulten procedentes, por determinación de las autoridades judiciales competentes, tanto en materia de adolescentes como de adultos, en términos de la Ley de Reinserción y demás disposiciones legales aplicables. Así también, realizar la evaluación de riesgos a que hace referencia dicha Ley, y ofrecer la información sobre imputados y adolescentes, que sea necesaria a efecto de aplicar, cuando se solicite, la medida cautelar, y (sic)
+
+XLIV. Actuar en forma coordinada y formar parte del Sistema Estatal de Seguridad Pública, y
+
+XLV. Las demás que le confieran otras disposiciones legales aplicables o le correspondan por delegación o suplencia.
 
 Las facultades antes enunciadas podrán ser delegadas en servidores públicos subalternos adscritos a la Secretaría, con excepción de las contenidas en las fracciones II, XXV, XXVII, XXXI, XL y XLI de este artículo.
 
@@ -572,6 +604,30 @@ XIII. Establecer un contacto permanente con los titulares de las Instituciones P
 XIV. Capacitar y evaluar, en forma permanente, a todo el personal de esta Dirección General y demás personal que resulte necesario, dentro de su ámbito de competencia, y
 
 XV. Las demás que determinen las disposiciones jurídicas aplicables o le correspondan por delegación o suplencia.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 20 Bis.
+
+La función de la Dirección General de la Ayudantía del C. Gobernador es salvaguardar su integridad física y la de su familia, vigilando adecuadamente los lugares a los que acude, labora y habita, para lo cual tendrá las atribuciones siguientes:
+
+I. Diseñar, coordinar y dirigir las acciones necesarias para la seguridad física de la persona titular del Poder Ejecutivo del Estado y su familia;
+
+II. Organizar, dirigir y supervisar las operaciones necesarias para la protección y vigilancia de los inmuebles en que reside y trabaja la persona titular del Poder Ejecutivo del Estado;
+
+III. Diseñar, implementar y coordinar los requerimientos de apoyo logístico para las actividades de la persona titular del Poder Ejecutivo del Estado;
+
+IV. Planear, coordinar y supervisar los servicios de seguridad destinados a cubrir las actividades de la persona titular del Poder Ejecutivo del Estado;
+
+V. Planear, programar y presupuestar los recursos humanos, materiales y financieros necesarios para la operación de la Dirección General a su cargo en apego a los lineamientos establecidos;
+
+VI. Capacitar al personal en coordinación con el Colegio Estatal de Seguridad Pública;
+
+VII. Vigilar el uso responsable y racional de los recursos asignados;
+
+VIII. Asistir a la persona titular del Poder Ejecutivo del Estado en las estrategias de acción y alternativas de actuación ante problemas de coyuntura que se presenten en la vida pública del Estado, y
+
+IX. Las demás que le encomienden otras disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
 
 ###### Artículo 21.
 
@@ -843,7 +899,9 @@ IX. Administrar las estadísticas penales del Estado y proponer a quien sea titu
 
 X. Proponer, a través de la Secretaría, los convenios que deba celebrar el o la titular del Poder Ejecutivo con la Federación, los Estados, Municipios, instituciones públicas o privadas en materia de prestación de servicios técnicos penitenciarios y de traslado de imputados, sentenciados o adolecentes sujetos a proceso;
 
-XI. Realizar la evaluación de riesgos a que hace referencia la Ley de Reinserción, a efecto de imponer, cuando se solicite, la medida cautelar al imputado;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XI. Realizar la evaluación de riesgos al imputado y al adolescente, así como supervisar el cumplimiento de las medidas cautelares y providencias precautorias, en términos de la Ley de Reinserción;
 
 XII. Vigilar que los Establecimientos Penitenciarios adopten las medidas necesarias a efecto de que los mismos cuenten con las instalaciones necesarias para los imputados, sentenciados o adolecentes sujetos a proceso;
 
@@ -921,7 +979,9 @@ XI. Propiciar que los internos participen en actividades laborales y de capacita
 
 XII. Coadyuvar con los jueces sobre la procedencia de los beneficios de la libertad establecidos en la Ley de la materia, proporcionando la información necesaria que permita tal fin;
 
-XIII. Coordinar y supervisar la evaluación de riesgos, ejecución y seguimiento de las medidas cautelares;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XIII. Coordinar y supervisar la evaluación de riesgos y ofrecer la información necesaria, a efecto de aplicar, cuando se solicite, la medida cautelar al imputado; así como el cumplimiento, ejecución y seguimiento de las medidas cautelares, providencias precautorias y salidas alternas, en términos de la Ley de Reinserción y demás disposiciones legales aplicables;
 
 XIV. Atender y representar jurídicamente a la Subsecretaría, en todos los asuntos legales que requiera cualquier autoridad;
 
@@ -929,7 +989,9 @@ XV. Vigilar y controlar el cumplimiento de las obligaciones impuestas derivadas 
 
 XVI. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
 
-Son indelegables las atribuciones contenidas en las fracciones VII, VIII y X de este artículo.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
+Son indelegables las atribuciones contenidas en las fracciones II, X y XIV de este Artículo.
 
 ###### Artículo 35.
 
@@ -959,7 +1021,9 @@ XI. Proponer periódicamente al o la titular de la Secretaría, a través de la 
 
 XII. Las demás atribuciones que la Ley de Justicia para Adolescentes del Estado de Morelos le asigne, así como lo dispuesto en la Ley Estatal, la Ley de Reinserción Social y las que se establezcan en otras disposiciones legales aplicables, siempre que garanticen los fines de aquélla, con independencia de otras diversas que le delegue el o la titular de la Secretaría, a través de la Subsecretaría de Reinserción Social.
 
-Son indelegables las atribuciones contenidas en las fracciones III, V, VI, VIII, IX y XII del presente Artículo.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
+Son indelegables las atribuciones contenidas en las fracciones V y IX de este Artículo.
 
 ###### Artículo 36.
 
@@ -1004,6 +1068,42 @@ XVIII. Promover y difundir los productos elaborados por los internos, en eventos
 XIX. Participar en el Consejo Empresarial para la Reinserción Social, y
 
 XX. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+Artículo 36 Bis La Dirección de la Unidad de Medidas Cautelares y Salidas Alternas para Adultos tendrá las siguientes atribuciones:
+
+I. Aplicar y supervisar las medidas cautelares, providencias precautorias y, en su caso, salidas alternas;
+
+II. Recabar la información socioambiental que se requiera, en términos de Ley, para la determinación de la imposición de medidas cautelares;
+
+III. Realizar la evaluación de riesgos de cada imputado cuando esté detenido por el Ministerio Público antes de la audiencia de control de la detención, así como los que estén en libertad si se les fuera a formular la imputación;
+
+IV. Proponer la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
+
+V. Proporcionar a las partes la información necesaria para que éstas aporten los antecedentes necesarios a los jueces para que decidan sobre la necesidad de imponer, modificar, adicionar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales;
+
+VI. Ejecutar las medidas cautelares personales diversas a la prisión preventiva, tal como la presentación periódica, en su caso, y localización electrónica;
+
+VII. Supervisar, vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso a prueba;
+
+VIII. Establecer vínculos de comunicación y coordinación permanente con la Procuraduría General de Justicia, con la Defensoría Pública y con el Tribunal Superior de Justicia para llevar a cabo sus atribuciones y funciones;
+
+IX. Coordinarse interinstitucionalmente, así como con la sociedad civil organizada para establecer programas de supervisión de las medidas cautelares y de las condiciones a cumplir durante la suspensión del proceso condicional a prueba;
+
+X. Generar reportes estadísticos mensuales sobre el cumplimiento de las medidas cautelares;
+
+XI. Realizar visitas domiciliarias para la verificación de información y supervisión del imputado;
+
+XII. Supervisar y aprobar las estrategias de supervisión de las medidas cautelares;
+
+XIII. Solicitar y, a su vez, proporcionar información a las instituciones con funciones similares que existan en la Federación o en otros Estados;
+
+XIV. Formular reportes sobre el cumplimiento de las medidas cautelares y condiciones a cumplir durante la suspensión del proceso condicional a prueba, cuando sea procedente en términos de Ley;
+
+XV. Firmar las opiniones, reportes de supervisión y cualquier documento relacionado con sus funciones, y
+
+XVI. Las demás que establezcan las disposiciones legales aplicables o le correspondan por delegación o suplencia.
 
 ### CAPÍTULO V. ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DIRECCIONES DE ÁREA ADSCRITAS A LA OFICINA DE LA SECRETARÍA
 
@@ -1253,89 +1353,145 @@ XVII. Aplicar, en el ámbito de su competencia, las sanciones y correctivos disc
 
 XVIII. Las demás que le confieran otras disposiciones jurídicas, o le correspondan por delegación o suplencia.
 
-(ADICIONADO, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### Artículo 41 Bis.
 
 La Unidad de Operaciones de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+(ADICIONADA, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
 
 I. Utilizar la información que le brinde la Unidad de Investigación;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 II. Analizar, y clasificar la información brindada para determinar la utilidad operativa de la misma;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 III. Administrar los recursos humanos y materiales con que se cuente para el cumplimiento de las diversas tareas o misiones encomendadas;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 IV. Ejecutar los planes, programas y objetivos que defina y autorice previamente la Dirección General de la Policía Estatal Acreditable;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 V. Determinar las tácticas que habrán de implementarse para el cumplimiento de los objetivos y tareas planeadas;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 VI. Identificar las características geográficas, las amenazas y posibles contingencias que resulten del estudio táctico de sus operaciones;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 VII. Desplegar los operativos que se determinen, por medio de la administración de sus elementos, procurando la utilización efectiva y eficiente de los mismos;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 VIII. Proponer a la Dirección General de la Policía Estatal Acreditable y, en su caso, ejecutar los procedimientos para el manejo de fuentes de información, que sirvan de apoyo para las acciones de vigilancia y seguimiento;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 IX. Participar y coadyuvar en la ejecución de acciones operativas de investigación, previa autorización de coordinación por parte del titular de la Secretaría, con las diversas Instituciones Policiales Federales o Estatales;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 X. Elaborar y administrar una agenda diaria de las acciones implementadas y los riegos evaluados, guardando la confidencialidad y secrecía necesaria;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 XI. Realizar partes informativos de cualesquiera de las acciones tomadas y contingencias acaecidas, que remitirán a sus superiores en orden jerárquico, considerando esta documentación como confidencial, de conformidad con la normatividad aplicable, y
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 XII. Acatar y procurar en todo momento el cumplimiento de las operaciones encomendadas y el respeto a los principios de eficiencia, profesionalismo, legalidad y disciplina, dentro y fuera de su lugar de operaciones.
 
-(ADICIONADO, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### Artículo 41 Ter.
 
 La Unidad de Investigación de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 I. Aplicar la metodología y estrategias de campo que permitan desarrollar las líneas de investigación y recabar las evidencias necesarias;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 II. Generar estudios de necesidad e impacto operativo para el establecimiento de líneas de investigación;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 III. Corroborar las fuentes y la información brindada mediante trabajo de campo;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 IV. Trazar las redes técnicas de vínculos y crear nuevas líneas de investigación, para dar seguimiento y vigilancia a los objetivos planteados;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 V. Coordinar las líneas de investigación y de seguimiento;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 VI. Implantar métodos y técnicas preestablecidos por la Dirección General de la Policía Estatal Acreditable para la identificación y recopilación de datos e imágenes y demás elementos de información;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 VII. Supervisar las acciones de vigilancia de los objetivos asignados hasta el cumplimiento de las operaciones planeadas;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 VIII. Sistematizar y administrar una agenda de las actividades y líneas de investigación;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 IX. Coadyuvar, con otras autoridades federales, estatales y municipales que lo requieran, en la investigación policial, previa autorización del titular de la Secretaría, de conformidad con las disposiciones jurídicas aplicables, y
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+(ADICIONADA, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
 
 X. Recomendar al Director General de la Policía Estatal Acreditable los planes y programas, para su implementación por parte de la Unidad de Operaciones de la Policía Estatal Acreditable.
 
-(ADICIONADO, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### Artículo 41 Quater.
 
-La Unidad de Análisis Táctico de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
+La Unidad de Área de Análisis Táctico de la Policía Estatal Acreditable tendrá las siguientes atribuciones:
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2012)</small>
+(ADICIONADA, P.O. 22 DE FEBRERO DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2012)
 
 I. Procesar el resultado de los estudios de necesidad e impacto operativo generados por la Unidad de Investigación de la Policía Estatal Acreditable, con el fin de trazar las líneas de investigación para obtener las fuentes necesarias de información;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 II. Establecer instrumentos de cooperación para el intercambio de información que generen estrategias para el cumplimiento de las operaciones planeadas;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 III. Operar, en el ámbito de su competencia, los sistemas de recopilación, clasificación y registro de información policial, para conformar bases de datos, que se utilicen en las investigaciones;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 IV. Procesar la información de su ámbito de competencia en base de datos para su análisis táctico;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 V. Analizar, concentrar, depurar, sistematizar y clasificar la información obtenida y corroborada, para la generación de redes técnicas de vínculos;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 VI. Administrar una base de datos diferenciada, tanto de las fuentes de información como de las redes técnicas de vínculos;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 VII. Controlar la información obtenida, así como asegurar su confidencialidad y secrecía, de conformidad con las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
+
 VIII. Elaborar un informe semanal para la Dirección General de la Policía Estatal Acreditable de las actividad (sic) realizadas, y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2012)</small>
 
 IX. Sistematizar y administrar una Agenda de las actividades de su área.
 
@@ -1414,3 +1570,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Seguridad Pública en un plazo de 120 días naturales posteriores a la entrada en vigor del presente Decreto, emitirá los respectivos Manuales de Organización, y de Políticas y Procedimientos.
 
 TERCERO. Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. La Secretaría de Seguridad Pública en un plazo de 120 días naturales posteriores a la entrada en vigor del presente Decreto, emitirá o modificará los respectivos Manuales de Organización, y de Políticas y Procedimientos.
+
+TERCERO. Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
+
+CUARTO. En virtud del presente Decreto la Dirección General de la Ayudantía del C. Gobernador deberá transferirse, junto con los recursos humanos, materiales y financieros que la conforman, a la Secretaría de Seguridad Pública.
