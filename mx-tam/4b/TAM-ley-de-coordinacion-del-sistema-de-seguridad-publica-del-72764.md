@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2012-03-27"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -237,7 +237,7 @@ VII. El Procurador, los agentes del Ministerio Público y el Titular de la Polic
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-VIII. El Subsecretario de Reinserción Social y los directores de los centros de prisión preventiva y los de ejecución de sanciones;
+VIII.- El Subsecretario de Reinserción Social y los directores de los centros de prisión preventiva y los de ejecución de sanciones;
 
 IX. El Director del Centro de Reintegración Social y Familiar para Adolescentes;
 
@@ -753,11 +753,11 @@ XXIII. Dictar las medidas necesarias y celebrar convenios y contratos, en acuerd
 
 XXIV. Las demás que sean necesarias para cumplir los acuerdos del Consejo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 31.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría General de Gobierno, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública será un órgano desconcentrado de la Secretaría de Seguridad Pública, dotado de autonomía técnica y operativa, integrado por la estructura y las funciones que establezca el Reglamento Interior y los manuales de organización y de procedimientos correspondientes, y su objeto será soportar el cumplimiento de las atribuciones que le competen al Secretario Ejecutivo.
 
 #### SECCION SEGUNDA. DE LOS CONSEJOS MUNICIPALES DE SEGURIDAD PUBLICA
 
@@ -1886,3 +1886,17 @@ Toda referencia que se haga de la Coordinación General de Reinserción Social y
 ###### ARTÍCULO TERCERO.
 
 Toda referencia que se haga del Consejo de Honor y Justicia, en cualquier disposición jurídica se entenderá hecha al Consejo de Desarrollo Policial, y éstos continuarán ejerciendo sus atribuciones conforme lo establece la presente ley, y en un plazo no mayor a 90 días naturales, a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento del Consejo de Desarrollo Policial.
+
+P.O. 28 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y se derogan todas aquellas que se opongan al mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental, coordinarán las acciones necesarias para el cumplimiento del presente Decreto en todos sus términos, gozando al efecto de las atribuciones necesarias para su estricta aplicación.
+
+###### ARTÍCULO TERCERO.
+
+Con motivo de la reubicación administrativa del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, no se afectarán los derechos de los trabajadores del órgano desconcentrado.
