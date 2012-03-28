@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-economico-del-estado-de-puebla-74696"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-16"
-last_updated: "2010-04-16"
+last_updated: "2012-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE PUEBLA
 
-LEY DE FOMENTO ECONOMICO DEL ESTADO DE PUEBLA
+LEY DE FOMENTO ECONÓMICO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 16 de abril de 2010.
 
@@ -1039,7 +1039,9 @@ Con el fin de facilitar la definición y ejecución de proyectos y programas reg
 
 A) ANGELÓPOLlS.- Acajete, Amozoc, Atoyatempan, Calpan, Coronango, Cuautinchán, Cuautlancingo, Chiautzingo, Domingo Arenas, Huejotzingo, Juan C. Bonilla, Mixtla, Nealtican, Nopalucan, Ocoyucan, Puebla, San Andrés Cholula, San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Miguel Xoxtla, San Nicolás de los Ranchos, San Pedro Cholula, San Salvador El Verde, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca, Tepeyahualco de Cuauhtémoc, Tlahuapan, Tlaltenango, Tlanepantla y Tochtepec.
 
-B) VALLE DE ATLIXCO Y MATAMOROS.- Acteopan, Ahuatlán, Atlixco, Atzala, Atzitzihuacan, Cohuecan, Chietla, Epatlán, Huaquechula, Izúcar de Matamoros, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Santa Isabel Cholula, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tianguismanalco, Tilapa, Tlapanalá, Tochimilco y Xochiltepec.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
+B) VALLE DE ATLIXCO Y MATAMOROS.- Acteopan, Ahuatlán, Atlixco, Atzala, Atzitzihuacan, Cohuecan, Chietla, Epatlán, Huaquechula, Izúcar de Matamoros, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Santa Isabel Cholula, San Gregorio Atzompa, San Jerónimo Tecuanipan, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tianguismanalco, Tilapa, Tlapanalá, Tochimilco y Xochiltepec.
 
 C) SERDÁN.- Acatzingo, Aljojuca, Atzitzintla, Cuapiaxtla de Madero, Cuyoaco, Chalchicomula de Sesma, Chichiquila, Chilchotla, Esperanza, General Felipe Ángeles, Guadalupe Victoria, Lafragua, Libres, Mazapiltepec de Juárez, Cañada Morelos, Ocotepec, Oriental, Palmar de Bravo, Quecholac, Quimixtlán, Rafael Lara Grajales, Los Reyes de Juárez, San José Chiapa, San Juan Atenco, San Nicolás Buenos Aires, San Salvador El Seco, San Salvador Huixcolotla, Soltepec, Tecamachalco, Tepeyahualco y Tlachichuca.
 
@@ -1047,7 +1049,9 @@ D) SIERRA NORORIENTAL.- Acateno, Atenpan, Atlequizayan, Ayotoxco de Guerrero, Ca
 
 E) SIERRA NORTE.- Ahuacatlán, Ahuazotepec, Amixtlán, Aquixtla, Camocuautla, Coatepec, Cuautempan, Chiconcuatla, Chignahuapan, Honey, Francisco Z. Mena, Hermenegildo Galeana, Huauchinango, lxtacamaxtitlán, Jalpan, Jopala, Juan Galindo, Naupan, Olintla, Pahuatlán, Pantepec, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla, Tetela de Ocampo, Tlacuilotepec, Tlaola, Tlapacoya, Tlaxco, Venustiano Carranza, Xicotepec, Xochiapulco, Zacatlán, Zihuateutla y Zongozotla.
 
-F) MIXTECA.- Acatlán, Ahuehuetitla, Albino Zertuche, Atexcal, Coatzingo, Cohetzala, Coyotepec, Cuayuca de Andrade, Chiautla, Chigmecatitlán, Chila, Chila de la Sal, Chinantla, Guadalupe, Huatlatlauca, Huehuetlán El Chico, Huitziltepec, Ixcaquixtla, Ixcamilpa de Guerrero, Jolalpan, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Juan Atzompa, San Miguel lxitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Huehuetlán El Grande, Tecomatlán, Tehuitzingo, Teotlalco, Tepexi de Rodríguez, Totoltepec de Guerrero, Tulcingo, Tzicatlacoyan, Xayacatlán de Bravo, Xicotlán, Xochitlán Todos Santos y Zacapala.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
+
+F) MIXTECA.- Acatlán, Ahuehuetitla, Albino Zertuche, Atexcal, Axutla, Coatzingo, Cohetzala, Coyotepec, Cuayuca de Andrade, Chiautla, Chigmecatitlán, Chila, Chila de la Sal, Chinantla, Guadalupe, Huatlatlauca, Huehuetlán El Chico, Huitziltepec, Ixcaquixtla, Ixcamilpa de Guerrero, Jolalpan, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Juan Atzompa, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Huehuetlán El Grande, Tecomatlán, Tehuitzingo, Teotlalco, Tepexi de Rodríguez, Totoltepec de Guerrero, Tulcingo, Tzicatlacoyan, Xayacatlán de Bravo, Xicotlán, Xochitlán Todos Santos y Zacapala.
 
 G) TEHUACÁN Y SIERRA NEGRA.- Ajalpan, Altepexi, Caltepec, Coxcatlán, Coyomeapan, Chapulco, Eloxochitlán, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Sebastián Tlacotepec, Santiago Miahuatlán, Tehuacán, Tepanco de López, Tlacotepec de Benito Juárez, Vicente Guerrero, Yehualtepec, Zapotitlán, Zinacatepec y Zoquitlán.
 
@@ -1224,3 +1228,11 @@ Las erogaciones que se deriven de la aplicación de esta Ley, estarán sujetas a
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de marzo de dos mil diez.- Diputado Presidente.- HUMBERTO ELOY AGUILAR VIVEROS.- Rúbrica.- Diputado Vicepresidente.- JOSÉ LORENZO RIVERA SOSA.- Rúbrica.- Diputada Secretaria.- LUANA ARMIDA AMADOR VALLEJO.- Rúbrica.- Diputado Secretario.- ROGERIO PABLO CONTRERAS CASTILLO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de marzo de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de la misma naturaleza que contravengan lo establecido por el presente Decreto.
