@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2010-12-31"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -565,6 +565,28 @@ La misma obligación tendrán las autoridades competentes respecto de los sitios
 
 La Secretaría y los Ayuntamientos supervisarán que lo dispuesto en este Capítulo se cumpla.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE MARZO DE 2012)</small>
+
+### CAPÍTULO VIII BIS. DEL TURISMO GASTRONÓMICO
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 41 Bis.
+
+El turismo gastronómico es el traslado de visitantes al Estado con la finalidad de participar en eventos gastronómicos, búsqueda de restaurantes o lugares específicos para la degustación de alimentos típicos.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 41 Ter.
+
+La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverán el turismo gastronómico a nivel nacional e internacional, como una atracción turística de nuestro Estado e implementarán programas que impulsen el desarrollo del mismo.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+###### Artículo 41 Quater.
+
+La Secretaría deberá establecer los mecanismos de coordinación y participación con autoridades municipales que favorezcan el desarrollo del turismo gastronómico y promoverá la capacitación a los prestadores de servicios turísticos, con el propósito de buscar la calidad en el sector.
+
 ### CAPÍTULO IX. DE LA CULTURA TURÍSTICA
 
 ### CAPÍTULO X. DEL ORDENAMIENTO TURÍSTICO DEL TERRITORIO
@@ -572,8 +594,6 @@ La Secretaría y los Ayuntamientos supervisarán que lo dispuesto en este Capít
 ### CAPÍTULO XI. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
 
 ### CAPÍTULO XII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
-
-### CAPÍTULO XIII. DE LA EVALUACIÓN
 
 ###### Artículo 42.
 
@@ -583,7 +603,7 @@ La Secretaría, en coordinación con los Ayuntamientos y las Dependencias de la 
 
 La Secretaría en conjunto con la Secretaría de Educación Pública del Estado, promoverá acciones que difundan la importancia de respetar y conservar los atractivos turísticos, así como mostrar un espíritu de servicio, honradez y hospitalidad hacia el turista nacional y extranjero.
 
-### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
+### CAPÍTULO XIII. DE LA EVALUACIÓN
 
 ###### Artículo 44.
 
@@ -637,7 +657,7 @@ IV.- Propiciará la participación de los prestadores de servicios en la elabora
 
 V.- En caso de que un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado considerando las disposiciones legales y administrativas correspondientes.
 
-### CAPÍTULO I. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
+### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
 
 ###### Artículo 48.
 
@@ -659,7 +679,7 @@ En el Reglamento de la Ley se establecerán los lineamientos de coordinación pa
 
 La Secretaría y los Ayuntamientos, en coordinación con la Secretaría de Turismo Federal, formularán los programas de manejo correspondiente para cada zona.
 
-### CAPÍTULO II. DEL REGISTRO DE PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO I. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
 
 ###### Artículo 53.
 
@@ -671,7 +691,7 @@ La Secretaría será la instancia competente para emitir las Declaratorias de la
 
 Toda área, municipio o región que haya sido declarada como Zona de Desarrollo Turístico Prioritario, recibirá los apoyos que contemple la Secretaría dentro del Programa Estatal de Turismo.
 
-### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
+### CAPÍTULO II. DEL REGISTRO DE PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 55.
 
@@ -693,7 +713,7 @@ Evaluados los resultados de la aplicación de la política, programas y acciones
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ###### Artículo 59.
 
@@ -779,7 +799,7 @@ Los recursos para integrar el fideicomiso podrán provenir de las aportaciones q
 
 ## TÍTULO CUARTO. DE LOS ASPECTOS OPERATIVOS
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
+### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 72.
 
@@ -805,7 +825,7 @@ VI.- Los demás aspectos que sean necesarios para contar con un sistema completo
 
 Para efectos de lo señalado en el artículo anterior, la Secretaría deberá integrar, analizar y difundir la información que recabe y, con base en ello, diseñará un programa permanente de difusión turística a nivel local, nacional e internacional.
 
-### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
 
 ###### Artículo 75.
 
@@ -823,7 +843,7 @@ La inscripción al Registro Nacional de Turismo será obligatoria para los prest
 
 La Secretaría podrá constatar a través de los medios legales que considere pertinentes la información que proporcionen los prestadores de servicios turísticos del Estado de Puebla, correspondiendo a la Secretaría de Turismo Federal la expedición del certificado respectivo, mediante el cual se acredite su carácter.
 
-### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 79.
 
@@ -833,7 +853,7 @@ Las relaciones entre los prestadores de servicios turísticos y el turista se re
 
 Para operar los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen la Secretaría de Turismo Federal mediante las disposiciones reglamentarias correspondientes, y las Normas Oficiales Mexicanas, y de forma concurrente la Secretaría, sin perjuicio de las obligaciones establecidas en otras disposiciones aplicables.
 
-### CAPÍTULO VIII. DE LA VERIFICACIÓN
+### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 81.
 
@@ -924,6 +944,8 @@ Los prestadores de servicios turísticos, también están obligados a respetar l
 ###### Artículo 85.
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
+
+### CAPÍTULO VIII. DE LA VERIFICACIÓN
 
 ###### Artículo 86.
 
@@ -1044,3 +1066,11 @@ QUINTO.- Todas las acciones derivadas de la aplicación de la presente Ley estar
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los nueve días del mes de diciembre de dos mil diez.- Diputada Presidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputado Secretario.- JAVIER AQUINO LIMÓN.- Rúbrica.- Diputado Secretario.- MELITÓN LOZANO PÉREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días del mes de diciembre de dos mil diez.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO VALENTÍN JORGE MENESES ROJAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga todas las disposiciones que se opongan al presente Decreto.
