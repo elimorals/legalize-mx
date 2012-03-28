@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2011-08-06"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
+LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 951 , PUBLICADO EN EL P.O. 28 DE MARZO DE 2012, TODA MENCIÓN CONTENIDA EN LEYES , REGLAMENTOS Y, EN GENERAL, CUALQUIER DISPOSICIÓN RESPECTO DE LAS FUNCIONES DESEMPEÑADAS POR LA SECRETARÍA GENERAL DE GOBIERNO, EN MATERIA DE PREVENCIÓN Y REINSERCIÓN SOCIAL, ASÍ COMO DEL SISTEMA DE MENORES INFRACTORES, SE ENTENDERÁN AHORA REFERIDAS A LA SECRETARÍA DE SEGURIDAD PÚBLICA A LA CUAL SE HAN TRANSFERIDO, HASTA EN TANTO SE LLEVEN A CABO LAS ADECUACIONES CORRESPONDIENTES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -291,13 +293,9 @@ XVIII. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
 XIX. (DEROGADA, P.O. 24 DE JUNIO DE 2009)
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+XX. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-XX. Administrar el sistema penitenciario, aplicar el modelo de reinserción social y tramitar por acuerdo del Gobernador las solicitudes de extradición y traslado de reos;
-
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
-
-XXI. Vigilar y coordinar, a través de la Dirección de Ejecución de Medidas para Menores, el funcionamiento de los centros de Internamiento Juvenil y de los centros de Ejecución de Medidas en Libertad; así como elaborar los programas personalizados de ejecución, y ejecutar las medidas de internamiento definitivo dictadas por el Juez Especializado en Justicia para Menores;
+XXI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
 XXII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2003)
 
@@ -533,7 +531,7 @@ VIII. Diseñar, operar y difundir un sistema de información abierto a las depen
 
 IX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 36.
 
@@ -1177,31 +1175,33 @@ ARTICULO 41 QUATER. A la Secretaría de Seguridad Pública le corresponde el des
 
 I. Formular y proponer al titular del Poder Ejecutivo, políticas integrales, sistemáticas, continuas y evaluables; así como programas y estrategias, en materia de seguridad pública;
 
-II. Planear, organizar y ejecutar los programas y acciones relativas a la protección de los habitantes, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+II. Planear, organizar y ejecutar los programas y acciones relativas a la protección de los habitantes, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales, así como del sistema penitenciario y de menores infractores;
 
 III. Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, y proteger los derechos de las personas;
 
 IV. Representar, a través de su titular, al Gobernador del Estado, en el Sistema Nacional de Seguridad Pública, en ausencia, o suplencia del mismo;
 
-V. Proponer al Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal, para todo el territorio del Estado;
+V. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-VI. Celebrar convenios de colaboración en el ámbito de su competencia, y en el marco del Sistema Nacional de Seguridad Pública, con autoridades federales, estatales y municipales;
+VI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
 VII. Fungir como coordinador operativo de los cuerpos de seguridad pública estatales, y municipales, en los casos en que celebre con éstos los convenios respectivos para tal fin;
 
 VIII. Regular y autorizar la portación de armas conforme a la licencia oficial colectiva otorgada por la Secretaría de la Defensa Nacional;
 
-IX. Aplicar las políticas de seguridad pública e implementar la política criminal en el ámbito estatal, que comprenda las normas, instrumentos y acciones para prevenir de manera eficaz la comisión de delitos;
+IX. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-X. Desarrollar, implantar y evaluar la política del Estado en materia de prevención social del delito, con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas;
+X. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-XI. Establecer el sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de la comisión de delitos, mediante métodos técnicos y científicos que garanticen el estricto respeto a los derechos humanos;
+XI. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-XII. Establecer, administrar y resguardar las bases de datos criminalísticos del Estado, y de personal de las instituciones de seguridad pública, en términos que señale el reglamento; determinar los criterios técnicos y de homologación de las bases de datos de los integrantes del Consejo Estatal de Seguridad Pública, y demás instituciones públicas que generen esta clase de información; y emitir los protocolos de interconexión, acceso y seguridad de estas bases de datos;
+XII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-XIII. Elaborar y difundir estudios especializados sobre las materias de seguridad pública, y estadísticas sobre el fenómeno delictivo;
+XIII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
-XIV. Diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose en medios eficaces de promoción y comunicación masiva;
+XIV. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
 XV. Autorizar, normar y vigilar el funcionamiento de los organismos de coordinación auxiliares en materia de seguridad pública;
 
@@ -1209,7 +1209,7 @@ XVI. Planear, organizar, regular y vigilar los sistemas de vialidad y tránsito 
 
 XVII. Aplicar en el Estado las normas, políticas y programas que deriven de la Ley General del Sistema Nacional de Seguridad Pública;
 
-XVIII. Fomentar la participación ciudadana en la formulación de planes y programas de prevención de delitos de competencia estatal, y por conducto del Sistema Nacional de Seguridad Pública, en los delitos del fuero federal;
+XVIII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
 XIX. Emitir conforme a los lineamientos federales las normas técnicas que regirán en el Estado, en cuanto a las características que deban reunir el personal de seguridad pública, así como de su desarrollo permanente, y de los instrumentos, equipos, instalaciones y recursos en general, que se apliquen para el desempeño de sus funciones;
 
@@ -1217,13 +1217,19 @@ XIX. Emitir conforme a los lineamientos federales las normas técnicas que regir
 
 XX. Vigilar que en las instituciones de seguridad pública, estatales, y municipales, se aplique homogénea y permanentemente, el protocolo de certificación correspondiente, aprobado por el Centro Nacional de Certificación y Acreditación, y atendiendo a los principios de legalidad, eficiencia, profesionalismo y honradez;
 
-XXI. Proponer al titular del Ejecutivo del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de ética, legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos; además de fomentar la participación ciudadana, y combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial; así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XXII. Conducir las funciones, y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones policiales del Estado, en los términos de ley;
+XXI. Proponer al titular del Ejecutivo del Estado, las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, y la normatividad que de ella emane; además de sancionar de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial; así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XXII. Conducir las funciones, y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones de seguridad en el Estado, en los términos de ley;
 
 XXIII. Otorgar y regular las autorizaciones a empresas para que puedan prestar servicios privados de seguridad en el Estado, así como supervisar su funcionamiento;
 
-XXIV. Intervenir, en auxilio o coordinación con las autoridades federales, estatales y municipales, en materia de prevención y auxilio en caso de catástrofes naturales;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XXIV. Auxiliar a las autoridades federales, estatales y municipales, en materia de prevención y auxilio en caso de catástrofes naturales de conformidad a la Ley de Protección Civil;
 
 XXV. Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
 
@@ -1231,9 +1237,7 @@ XXVI. Administrar los recursos que le sean asignados a efecto de realizar una eq
 
 XXVII. Otorgar a los tribunales el auxilio que soliciten para el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2009)</small>
-
-XXVIII. Fungir, a través de su titular como Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, con las funciones que determine el Reglamento respectivo;
+XXVIII. (DEROGADA, P.O. 28 DE MARZO DE 2012)
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
 
@@ -1241,11 +1245,19 @@ XXIX. Elaborar el protocolo de revisión, evaluación y control para el cumplimi
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2011)</small>
 
-XXX. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública, y
+XXX. Rendir informe semestral de los resultados y avances del cumplimiento de los lineamientos y acciones realizadas en materia de seguridad, ante el pleno del Consejo Estatal de Seguridad Pública, y (sic)
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-XXXI. Las demás que le sean encomendadas por el titular del Poder Ejecutivo, le confiera esta Ley, y otras disposiciones legales aplicables.
+XXXI. Administrar el Sistema Penitenciario; aplicar el modelo de reinserción social; y tramitar por acuerdo del Gobernador del Estado las solicitudes de extradición y traslado de internos;
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XXXII. Vigilar y coordinar, a través de la Dirección de Ejecución de Medidas para Menores, el funcionamiento de los centros de internamiento juvenil, y de los centros de ejecución de medidas en libertad; así como elaborar los programas personalizados de ejecución, y ejecutar las medidas de internamiento definitivo dictadas por el Juez Especializado en Justicia para Menores, y
+
+> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XXXIII. Las demás que les sean encomendadas por el titular del Ejecutivo, le confiera esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTICULO 42.
 
@@ -1459,7 +1471,7 @@ LIC. MARTIN CELSO ZAVALA MARTINEZ.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE JUNIO DE 1999.
 
@@ -1467,7 +1479,7 @@ Unico. El presente Decreto entrará en vigor al día siguiente de su publicació
 
 P.O. 6 DE AGOSTO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1605,7 +1617,7 @@ SEGUNDO. Se derogan las disposiciones legales que se opongan a este Decreto.
 
 P.O. 29 DE MARZO DE 2011.
 
-DECRETO NUMERO 536, POR EL QUE SE REFORMA EL ARTICULO 40 BIS EN SUS FRACCIONES XXIV Y XXV; Y ADICIONA AL MISMO ARTICULO 40 BIS LAS FRACCIONES XXVI, XXVII, Y XXVIII, DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 536, POR EL QUE SE REFORMA EL ARTÍCULO 40 BIS EN SUS FRACCIONES XXIV Y XXV; Y ADICIONA AL MISMO ARTÍCULO 40 BIS LAS FRACCIONES XXVI, XXVII, Y XXVIII, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1613,7 +1625,7 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 29 DE MARZO DE 2011.
 
-DECRETO NUMERO 537, POR EL QUE SE REFORMA EL ARTICULO 41 QUATER EN SUS FRACCIONES XX, XXIX Y XXX; Y ADICIONA AL MISMO ARTICULO 41 QUATER LA FRACCION XXXI, DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 537, POR EL QUE SE REFORMA EL ARTÍCULO 41 QUÁTER EN SUS FRACCIONES XX, XXIX Y XXX; Y ADICIONA AL MISMO ARTÍCULO 41 QUÁTER LA FRACCIÓN XXXI, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1640,3 +1652,21 @@ SEGUNDO. El titular del Ejecutivo del Estado emitirá el Reglamento de la presen
 TERCERO. Los agentes inmobiliarios que a la entrada en vigor de la presente Ley llevan a cabo operaciones inmobiliarias, deberán, comparecer dentro de un plazo de ciento veinte días contados a partir de su vigencia, ante la Secretaría para presentar solicitud de inscripción en el Registro.
 
 A partir del vencimiento del plazo señalado en el párrafo anterior, la Secretaría podrá sancionar, en los términos de lo dispuesto por este Decreto, a los agentes inmobiliarios inscritos en el Registro Estatal, que no hubiesen acudido ante esa dependencia a entregar la documentación e información adicional para los efectos señalados.
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las menciones contenidas en leyes, reglamentos y, en general, cualquier disposición respecto de las funciones desempeñadas por la Secretaría General de Gobierno, en materia de prevención y reinserción social, así como del sistema de menores infractores, se entenderán ahora referidas a la Secretaría de Seguridad Pública a la cual se han transferido, hasta en tanto se lleven a cabo las adecuaciones correspondientes.
+
+CUARTO. El titular del Ejecutivo del Estado deberá adecuar los reglamentos de la materia; y expedir el correspondiente a la Secretaría de Seguridad Pública, dentro de los seis meses siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. Las transferencias de, recursos humanos, financieros, materiales, y de activos patrimoniales que en cumplimiento de este Decreto deban realizarse de una dependencia a otra, incluidas las adecuaciones presupuestarias que comprendan las modificaciones a la estructura programática y financiera, a los calendarios financieros y metas, deben realizarse por el Ejecutivo del Estado, por conducto de la, Secretaría de Finanzas, Oficialía Mayor, y la Contraloría del Estado, y deben concluir a más tardar en enero del año 2013.
+
+SEXTO. Los derechos laborales y antigüedad del personal administrativo que actualmente labora para la Secretaría General de Gobierno, que en virtud de lo dispuesto en el presente Decreto se integren a la Secretaría de Seguridad Pública, se respetarán conforme a la ley.
+
+Los derechos de los servidores públicos de confianza, y de seguridad y custodia, se rigen conforme a las disposiciones legales aplicables.
+
+SEPTIMO. Los asuntos que con motivo de este Decreto deban pasar de una secretaría a otra, permanecerán en el último trámite que hubieran alcanzado, hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquéllos urgentes o sujetos a término, los cuales se atenderán por la dependencia que los conocía.
