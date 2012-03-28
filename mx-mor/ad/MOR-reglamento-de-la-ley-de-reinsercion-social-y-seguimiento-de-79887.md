@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-reinsercion-social-y-seguimiento-de-798
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-23"
-last_updated: "2011-02-23"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA LEY DE REINSERCION SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
 
-REGLAMENTO DE LA LEY DE REINSERCION SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
+REGLAMENTO DE LA LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado del Estado de Morelos, el miércoles 23 de febrero de 2011.
 
@@ -705,11 +705,17 @@ La Subsecretaría tendrá las funciones generales de evaluación y seguimiento d
 
 I. Confeccionar métodos, técnicas y normas para evaluar los factores de riesgo de cada imputado;
 
-II. Realizar estudios que permitan sugerir al Ministerio Público y a la defensa las medidas cautelares procedentes, a partir del análisis de factores, circunstancias y perfil de cada imputado;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-III. Establecer criterios y técnicas para la ejecución de la prisión preventiva y localización electrónica;
+II. Realizar estudios que permitan sugerir al Ministerio Público y a la defensa las medidas cautelares procedentes, a partir del análisis de factores y circunstancias personales, familiares, económicas y socioambientales de cada adolescente e imputado;
 
-IV. Elaborar métodos y normas técnicas para el seguimiento de los casos sujetos a suspensión del proceso, y
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+III. Establecer criterios y técnicas para la ejecución de la prisión preventiva, localización electrónica y demás medidas cautelares;
+
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+IV. Elaborar métodos y normas técnicas para el seguimiento de los casos sujetos a suspensión condicional del proceso a prueba, y
 
 V. Diseñar, ejecutar y evaluar de forma permanente un programa de seguimiento de los casos sometidos a ejecución penal y sus diferentes modalidades, así como el seguimiento de las resoluciones al respecto por parte del juez de ejecución.
 
@@ -800,3 +806,15 @@ GRAL. DE DIV. D.E.M. RET.
 GASTÓN MENCHACA ARIAS.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. La Secretaría de Seguridad Pública en un plazo de 120 días naturales posteriores a la entrada en vigor del presente Decreto, emitirá o modificará los respectivos Manuales de Organización, y de Políticas y Procedimientos.
+
+TERCERO. Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
+
+CUARTO. En virtud del presente Decreto la Dirección General de la Ayudantía del C. Gobernador deberá transferirse, junto con los recursos humanos, materiales y financieros que la conforman, a la Secretaría de Seguridad Pública.
