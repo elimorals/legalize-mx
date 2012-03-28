@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2012-02-23"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -357,7 +357,9 @@ El Ayuntamiento residirá en la cabecera del Municipio. Podrá funcionar tempora
 
 Para resolver los asuntos de su competencia los ayuntamientos celebrarán sesiones ordinarias, extraordinarias y solemnes.
 
-I. Las sesiones ordinarias se llevarán a cabo por lo menos una vez por mes, y se permitirá el libre acceso al público y a los servidores del ayuntamiento; excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar deba tener el carácter de privada;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+I. Las sesiones ordinarias se llevarán a cabo por lo menos dos veces por mes; se permitirá el libre acceso al público y a los servidores del ayuntamiento, excepto cuando por acuerdo del Cabildo y por la naturaleza de los asuntos a tratar, deba tener el carácter de privada;
 
 II. Las sesiones extraordinarias se llevarán a cabo cuando se considere que debe tratarse algún o algunos asuntos que requieran urgente resolución. En las sesiones extraordinarias se tratarán exclusivamente los asuntos que las hayan motivado, y
 
@@ -2374,3 +2376,9 @@ SEGUNDO. Se derogan todas las disposiciones contrarias a este Decreto.
 P.O. 23 DE FEBRERO DE 2012.
 
 UNICO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2012.
+
+PRIMERO. Este Decreto entra en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
