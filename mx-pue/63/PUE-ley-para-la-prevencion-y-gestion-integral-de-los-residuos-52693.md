@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2012-02-27"
+last_updated: "2012-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -371,7 +371,9 @@ XVII.- Proporcionar asesoría en materia de interpretación y aplicación de la 
 
 XVIII.- Promover la instrumentación de los planes de manejo del sector gubernamental en las dependencias y entidades de la Administración Pública Estatal y dar el seguimiento correspondiente;
 
-XIX.- Coadyuvar con los Ayuntamientos que así lo soliciten, brindando asistencia técnica para la instrumentación de los programas de prevención, gestión y manejo integral de los residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XIX.- Coadyuvar con los Ayuntamientos que así lo soliciten, brindando asistencia técnica para la instrumentación de los programas de prevención, reducción, gestión y manejo integral de los residuos sólidos urbanos;
 
 XX.- Proponer ante la Secretaría de Finanzas y Administración, las tarifas respecto al cobro de derechos y productos con relación a los servicios que se presten con motivo de la aplicación de la presente Ley para que, en su caso, sean incluidas en el proyecto de Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
 
@@ -395,9 +397,9 @@ XXIV.- Las demás que se establezcan en esta Ley, las Normas Oficiales Mexicanas
 
 Corresponde a los Ayuntamientos, en el ámbito de sus respectivas competencias y jurisdicción, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-I.- Formular por sí o con el apoyo de la Secretaría y los representantes de los distintos sectores sociales, los programas municipales para la prevención, gestión y manejo integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el programa estatal para la prevención y gestión integral de los residuos;
+I.- Formular por sí o con el apoyo de los representantes de los distintos sectores sociales, los programas municipales para la prevención, reducción, gestión y manejo integral de los residuos sólidos urbanos, los cuales deberán observar lo dispuesto en el Programa Estatal para la Prevención y Gestión Integral de los Residuos;
 
 ll.- Expedir los Reglamentos y demás disposiciones jurídico-administrativas de observancia general dentro de sus jurisdicciones respectivas, a fin de dar cumplimiento a lo establecido en la presente Ley y en la normatividad en la materia;
 
@@ -405,7 +407,9 @@ ll.- Expedir los Reglamentos y demás disposiciones jurídico-administrativas de
 
 III.- Establecer programas graduales y mecanismos para la separación de residuos desde la fuente de generación, previendo la instalación de contenedores para la colocación clasificada y diferenciada de residuos orgánicos e inorgánicos, en oficinas y espacios públicos, incluyendo al sector privado en estas medidas, como lo especifique el Reglamento;
 
-IV.- Prevenir la generación y controlar el manejo integral de los residuos sólidos urbanos;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+IV.- Prevenir la generación, fomentar la reducción y controlar el manejo integral de los residuos sólidos urbanos;
 
 V.- Capacitar a los servidores públicos que intervienen en la prestación del servicio público de limpia, barrido, recolección, traslado, tratamiento y disposición final de residuos;
 
@@ -415,9 +419,9 @@ VI.- Prestar por sí o a través de terceros, de manera total o parcial el servi
 
 VII.- Establecer y mantener actualizado en coordinación con la Secretaría, el registro de grandes generadores de residuos sólidos urbanos;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
 
-VIII.- Proporcionar a la Secretaría datos e indicadores relativos a la generación, gestión y manejo integral de los residuos sólidos urbanos en su jurisdicción para integrarlos al Sistema Estatal de Información Ambiental; así como proponer las medidas necesarias de solución para aquellos Municipios, que presenten un alto grado de contaminación por un inadecuado manejo de estos residuos;
+VIII.- Proporcionar a la Secretaría datos e indicadores relativos a la generación, reducción, gestión y manejo integral de los residuos sólidos urbanos en su jurisdicción con la finalidad de integrarlos al Sistema Estatal de Información Ambiental;
 
 IX.- Verificar el cumplimiento de las disposiciones de esta Ley, Normas Oficiales Mexicanas y demás ordenamientos jurídicos en materia de residuos sólidos urbanos e imponer las sanciones y medidas de seguridad que resulten aplicables en el ámbito de su competencia;
 
@@ -431,7 +435,9 @@ XII.- Determinar los costos de las distintas etapas de la operación de los serv
 
 XIII.- Prever en su correspondiente Ley de Ingresos, las tarifas aplicables a los derechos y productos por la prestación del servicio público de limpia, recolección, traslado, tratamiento y disposición final, de residuos sólidos urbanos, que deberán tener una correlación con el costo del servicio público prestado;
 
-XIV.- Prohibir las actividades previstas en esta Ley en tiraderos a cielo abierto o sitios no controlados de residuos sólidos urbanos, llevando a cabo las acciones de remediación correspondientes;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+XIV.- Prohibir o erradicar las actividades previstas en esta Ley en tiraderos a cielo abierto o sitios no controlados de residuos sólidos urbanos, llevando a cabo las acciones de remediación correspondientes;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -859,7 +865,9 @@ Para la prevención de la generación integral de los residuos la Secretaría y 
 
 En relación con el manejo integral de los residuos sólidos urbanos y de manejo especial, se prohíbe:
 
-I.- Verter residuos en las vías o lugares públicos, lotes baldíos, barrancas, cañadas, redes de drenaje, cableado eléctrico o telefónico, instalaciones de gas, cuerpos de agua, cavidades subterráneas, áreas naturales protegidas o áreas privadas de conservación, así como en todo lugar no autorizado para tales fines;
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+
+I.- Depositar o verter residuos de cualquier tipo o especie en las vías o lugares públicos, lotes baldíos, barrancas, cañadas, redes de drenaje, cableado eléctrico o telefónico, instalaciones de gas, cuerpos de agua, cavidades subterráneas, áreas naturales protegidas o áreas privadas de conservación, así como en todo lugar no autorizado para tales fines;
 
 II.- Incinerar residuos a cielo abierto o en cualquier equipo de combustión como fuente fija o dar tratamiento a residuos sin la autorización correspondiente;
 
@@ -874,6 +882,10 @@ La Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencia
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
 Los Ayuntamientos regularán los usos del suelo, de conformidad con los programas de desarrollo urbano y ordenamiento ecológico, en los cuales se considerarán las áreas en las que se establecerán los sitios de disposición final de los residuos sólidos urbanos y de manejo especial, pudiendo solicitar para este efecto la asesoría de la Secretaría previa celebración del convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
+
+ARTÍCULO 40 BIS.- Promover la reducción de las bolsas que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado del consumidor final y éstas deberán ser elaboradas con materiales preferentemente biodegradables, para su pronta biodegradación en los destinos finales. En el caso de las bolsas que cuenten con un aditivo que sea incompatible con el reciclaje, éstas deberán garantizar su pronta degradación.
 
 ## TÍTULO SÉPTIMO. DEL MANEJO INTEGRAL DE RESIDUOS
 
@@ -1057,7 +1069,7 @@ V.- Incumplir grave o reiteradamente los términos de la autorización, la prese
 
 Los generadores y las empresas dedicadas a la gestión integral de los residuos están obligadas a prevenir y en su caso, a remediar la contaminación de sitios por sus actividades.
 
-###### ARTICULO 61.
+###### ARTÍCULO 61.
 
 Las personas físicas o jurídicas que resulten responsables de la contaminación de un sitio, sin detrimento de las sanciones previstas en esta Ley y en los ordenamientos que resulten aplicables, estarán obligadas a realizar inmediatamente las acciones necesarias para remediar el daño ambiental y restituir el estado del sitio a como se encontraba hasta antes de la contaminación con residuos.
 
@@ -1526,6 +1538,12 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE FEBRERO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE MARZO DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
