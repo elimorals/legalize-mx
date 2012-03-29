@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-turismo-del-distrito-federal-52200"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-10"
-last_updated: "2006-11-10"
+last_updated: "2012-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52200&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2006-09-22"
 
 REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO DE LA LEY DE TURISMO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DEL 29 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO .</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 10 de noviembre de 2006.
 
@@ -949,3 +951,19 @@ PRIMERO. El presente reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los veintidós días del mes de septiembre del año dos mil seis.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ALEJANDRO DE JESÚS ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE GOBIERNO, RICARDO RUÍZ SUÁREZ.- FIRMA.- LA SECRETARIA DE TURISMO, JULIA RITA CAMPOS DE LA TORRE.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 29 DE MARZO DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Consejo Consultivo de Turismo expedirá el Código de Ética, dentro de los 120 días hábiles contados a partir de la publicación del presente Reglamento.
+
+TERCERO. En tanto se realizan las modificaciones que resulten necesarias para el ejercicio de las atribuciones que el artículo 7 de la Ley confiere a la Secretaría, el Titular de la misma podrá emitir los acuerdos delegatorios que permitan su ejercicio por los servidores públicos de dicha Dependencia.
+
+CUARTO. Para la instalación del Consejo Consultivo de Turismo y su funcionamiento durante el primer año, el Jefe de Gobierno del Distrito Federal, a propuesta del titular de la Secretaría, designará a los Jefes Delegacionales que participarán como Consejeros.
+
+Los Consejeros se designarán por lo menos con treinta días de anticipación a la celebración de la primera sesión ordinaria.
+
+QUINTO. Se abroga el Reglamento de Turismo para el Distrito Federal publicado el 10 de noviembre de 2006, en la Gaceta Oficial del Distrito Federal.
