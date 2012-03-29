@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2011-12-30"
+last_updated: "2012-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE MARZO DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -536,7 +536,7 @@ Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo
 
 Lo previsto en este artículo no constituye instancia, ni interrumpe ni suspende los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ###### ARTICULO 41.
 
@@ -574,7 +574,7 @@ Salvo lo dispuesto en los artículos 44, fracción I, y 105 del presente Código
 
 Cuando el contribuyente solicite por escrito la liquidación y la autoridad se retrase para emitirla por causas imputables a ella, no se aplicarán recargos ni sanciones, por el período en que hubiere durado la emisión de la liquidación, siempre que el contribuyente pague su adeudo dentro de los quince días posteriores al que se le haya notificado la resolución liquidatoria.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 44.
 
@@ -780,7 +780,7 @@ II. Que el contribuyente acredite fehacientemente que interpuso los medios de de
 
 III. Que la reducción no sea superior a un 40%.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 50.
 
@@ -934,13 +934,13 @@ II. Las que en el año calendario anterior a aquel que se dictamina, hayan conta
 
 III. Las que en el año calendario anterior a aquel que se dictamina, hayan contado con inmuebles de uso mixto, cuyo valor catastral por cada uno o en su conjunto que rebasen el valor indicado en la fracción anterior;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA EL CODIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2011 LA PRESENTE FRACCION SEGUIRA VIGENTE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2011 LA PRESENTE FRACCIÓN SEGUIRÁ VIGENTE.</small>
 
 IV. Las que en el año calendario anterior a aquel que se dictamina, hayan consumido por una o más tomas, más de 1000 m3 de agua bimestral promedio, de uso no doméstico, de uso doméstico, o ambos usos; cuando el uso sea sólo doméstico siempre que el inmueble donde se encuentre instalada dicha toma o tomas de agua, se haya otorgado en uso o goce temporal total o parcialmente;
 
 V. Estar constituidos como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia, y
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA EL CODIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2011 LA PRESENTE FRACCION SEGUIRA VIGENTE.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO FISCAL DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 14 DE FEBRERO DE 2011 LA PRESENTE FRACCIÓN SEGUIRÁ VIGENTE.</small>
 
 VI. Las que en el año calendario anterior a aquel que se dictamina, hayan utilizado agua de fuentes diversas a la red de suministro del Distrito Federal y hayan efectuado las descargas de este líquido en la red de drenaje.
 
@@ -1438,7 +1438,7 @@ IX. Cuando de la revisión de los citatorios o de las actas de visita que se hay
 
 Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que puedan incurrir los visitadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 X. Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete, así como la reposición del procedimiento que establece la fracción anterior, se suspenderán en los casos de:
 
@@ -1638,7 +1638,7 @@ Si se trata de actos administrativos que determinen la responsabilidad solidaria
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señale este Código y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración de la Hacienda Pública del Distrito Federal; a la Procuraduría Fiscal para efectos de procesos contenciosos administrativos, resolución de recursos, instauración de procedimientos de fincamiento de responsabilidad resarcitoria y presentación de denuncias o querellas de carácter penal; a los organismos encargados de la fiscalización del Gobierno del Distrito Federal, para efectos del desarrollo de auditorías a los procesos de revisión y actualización de padrones; al Ministerio Público en sus funciones de investigación y persecución del delito; a las autoridades judiciales en procesos del orden penal; a los Tribunales del Poder Judicial de la Federación, al Tribunal Superior de Justicia del Distrito Federal, al Tribunal Federal de Conciliación y Arbitraje, a las Juntas Federales o Locales de Conciliación y Arbitraje, o cuando la información deba proporcionarse en virtud de convenios de intercambio de información que la Secretaría suscriba. Dicha reserva, tampoco comprenderá la información relativa a los créditos fiscales firmes o exigibles de los contribuyentes, que las autoridades fiscales puedan proporcionar a las Sociedades de Información Crediticia, autorizadas por la Secretaría de Hacienda y Crédito Público, o a sus auxiliares o a particulares habilitados para la recuperación y cobro del adeudo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 103.
 
@@ -1914,7 +1914,7 @@ En el caso de adquisiciones de inmuebles derivadas de actos consignados en docum
 
 Los inmuebles servirán de garantía por los créditos fiscales que resulten con motivo de diferencias provenientes de los avalúos tomados como base para el cálculo del impuesto a que se refiere este Capítulo, los que se harán efectivos mediante el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 121.
 
@@ -1926,7 +1926,7 @@ Se presentará declaración por todas las adquisiciones aun cuando no haya impue
 
 Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escritura pública operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquéllas con las que se efectuó dicho pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 122.
 
@@ -1994,7 +1994,7 @@ La falta de recepción por parte de los contribuyentes de las propuestas señala
 
 Cuando los contribuyentes omitan declarar el valor catastral de sus inmuebles, o sean inexactos, imprecisos o falsos los datos que utilizaron para determinar dicho valor, la autoridad fiscal utilizando los medios señalados en el artículo 80 de este Código, procederá a determinarlo aplicando cualquiera de los procedimientos señalados en el artículo anterior, a fin de realizar el cobro del impuesto correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 129.
 
@@ -2086,7 +2086,7 @@ III. Tratándose de los inmuebles que a continuación se mencionan, los contribu
 
 2. Del 30% los ubicados en zonas en las que los Programas Delegacionales o Parciales del Distrito Federal determinen intensidades de uso, conforme a las cuales la proporción de las construcciones cuya edificación se autorice, resulte inferior a un 10% de la superficie total del terreno; siempre y cuando no los destine a fines lucrativos, para lo cual durante el ejercicio fiscal que corresponda deberá presentar ante la Administración Tributaria de que se trate, una constancia expedida por la Secretaría del Medio Ambiente con la que se acredite que el inmueble se ubica en este supuesto y manifestar bajo protesta de decir verdad que éste no se destina a fines de carácter lucrativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 En inmuebles de uso mixto, para la aplicación de las reducciones previstas en las fracciones II y III de este artículo, se estará a lo siguiente:
 
@@ -2872,7 +2872,7 @@ Las contribuciones de mejoras se causarán por las obras nuevas a que se refiere
 
 CLASIFICACION DE OBRA PUBLICA
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 En ningún caso se pagarán contribuciones de mejoras por obras iguales realizadas en un período de cinco años.
 
@@ -3300,6 +3300,8 @@ A esta tarifa se le otorgarán subsidios de acuerdo a la manzana donde se ubique
 
 SUBSIDIO PARA MANZANA TIPO POPULAR
 
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE MARZO DE 2012)</small>
+
 Consumo en Litros Subsidio Clasificación Popular Aplicado a
 
 Límite Inferior Límite Cuota Cuota adicional
@@ -3310,21 +3312,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 87.4000% 0.0000%
+0 10,000 91.3043% 0.0000%
 
-MAYOR A 10,000 20,000 87.4000% 75.2611%
+MAYOR A 10,000 20,000 91.3043% 76.5323%
 
-MAYOR A 20,000 30,000 83.0521% 71.1108%
+MAYOR A 20,000 30,000 85.3952% 71.1977%
 
-MAYOR A 30,000 50,000 74.5602% 60.9597%
+MAYOR A 30,000 50,000 80.0231% 60.1484%
 
-MAYOR A 50,000 70,000 66.0683% 14.6558%
+MAYOR A 50,000 70,000 71.4614% 33.7573%
 
-MAYOR A 70,000 90,000 53.9801% 5.9171%
+MAYOR A 70,000 90,000 60.1092% 12.2807%
 
-MAYOR A 90,000 120,000 43.3796% 2.4390%
+MAYOR A 90,000 120,000 48.5596% 2.4429%
 
 Lo cual se traduce en lo siguiente:
+
+> <small>(REFORMADA EN SU CUOTA, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Tarifa Clasificación Popular
 
@@ -3336,21 +3340,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 $46.87 0
+0 10,000 $32.35 0
 
-MAYOR A 10,000 20,000 $46.87 $0.78
+MAYOR A 10,000 20,000 $32.35 $5.82
 
-MAYOR A 20,000 30,000 $105.08 $1.84
+MAYOR A 20,000 30,000 $90.55 $10.87
 
-MAYOR A 30,000 50,000 $253.74 $3.74
+MAYOR A 30,000 50,000 $199.25 $15.04
 
-MAYOR A 50,000 70,000 $594.55 $10.91
+MAYOR A 50,000 70,000 $500.05 $25.00
 
-MAYOR A 70,000 90,000 $1,153.71 $17.26
+MAYOR A 70,000 90,000 $1,000.05 $35.00
 
-MAYOR A 90,000 120,000 $1,871.24 $24.46
+MAYOR A 90,000 120,000 $1,700.05 $43.13
 
 SUBSIDIO PARA MANZANA TIPO BAJA
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Subsidio Clasificación Baja Aplicado a
 
@@ -3362,21 +3368,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 86.4400% 0.0000%
+0 10,000 90.1449% 0.0000%
 
-MAYOR A 10,000 20,000 86.4400% 74.4344%
+MAYOR A 10,000 20,000 90.1449% 73.7903%
 
-MAYOR A 20,000 30,000 82.0921% 70.2888%
+MAYOR A 20,000 30,000 83.6032% 68.2035%
 
-MAYOR A 30,000 50,000 73.6002% 60.1748%
+MAYOR A 30,000 50,000 77.7762% 57.6047%
 
-MAYOR A 50,000 70,000 65.1083% 14.4428%
+MAYOR A 50,000 70,000 69.0867% 20.5087%
 
-MAYOR A 70,000 90,000 53.0201% 5.8119%
+MAYOR A 70,000 90,000 54.4606% 11.0276%
 
-MAYOR A 90,000 120,000 42.4196% 2.4390%
+MAYOR A 90,000 120,000 43.9721% 2.4429%
 
 Lo cual se traduce en lo siguiente:
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Tarifa Clasificación Baja
 
@@ -3388,21 +3396,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 $50.44 0
+0 10,000 $36.66 0
 
-MAYOR A 10,000 20,000 $50.44 $0.86
+MAYOR A 10,000 20,000 $36.66 $6.50
 
-MAYOR A 20,000 30,000 $111.03 $2.01
+MAYOR A 20,000 30,000 $101.66 $12.00
 
-MAYOR A 30,000 50,000 $263.31 $3.97
+MAYOR A 30,000 50,000 $221.66 $16.00
 
-MAYOR A 50,000 70,000 $611.36 $11.25
+MAYOR A 50,000 70,000 $541.66 $30.00
 
-MAYOR A 70,000 90,000 $1,177.78 $17.64
+MAYOR A 70,000 90,000 $1,141.66 $35.50
 
-MAYOR A 90,000 120,000 $1,902.97 $24.87
+MAYOR A 90,000 120,000 $1,851.66 $43.13
 
 SUBSIDIO PARA MANZANA TIPO MEDIA
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Subsidio Clasificación Media
 
@@ -3416,21 +3426,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 65.3913% 0.0000%
+0 10,000 67.3913% 0.0000%
 
-MAYOR A 10,000 20,000 65.3913% 56.3092%
+MAYOR A 10,000 20,000 67.3913% 39.9194%
 
-MAYOR A 20,000 30,000 61.0434% 52.2665%
+MAYOR A 20,000 30,000 63.4016% 31.1076%
 
-MAYOR A 30,000 50,000 57.0223% 46.6209%
+MAYOR A 30,000 50,000 59.8308% 23.1585%
 
-MAYOR A 50,000 70,000 48.5304% 10.7654%
+MAYOR A 50,000 70,000 57.8212% 17.8590%
 
-MAYOR A 70,000 90,000 36.4422% 3.9947%
+MAYOR A 70,000 90,000 51.8955% 9.7744%
 
-MAYOR A 90,000 120,000 25.8417% 2.4390%
+MAYOR A 90,000 120,000 40.3636% 2.4429%
 
 Lo cual se traduce en lo siguiente:
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Tarifa Clasificación Media
 
@@ -3442,21 +3454,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 $128.74 0
+0 10,000 $121.31 0
 
-MAYOR A 10,000 20,000 $128.74 $3.75
+MAYOR A 10,000 20,000 $121.31 $14.90
 
-MAYOR A 20,000 30,000 $241.53 $7.02
+MAYOR A 20,000 30,000 $226.91 $26.00
 
-MAYOR A 30,000 50,000 $559.19 $11.28
+MAYOR A 30,000 50,000 $400.65 $29.00
 
-MAYOR A 50,000 70,000 $901.85 $17.30
+MAYOR A 50,000 70,000 $739.05 $31.00
 
-MAYOR A 70,000 90,000 $1,593.38 $24.33
+MAYOR A 70,000 90,000 $1,205.96 $36.00
 
-MAYOR A 90,000 120,000 $2,450.85 $32.04
+MAYOR A 90,000 120,000 $1,970.91 $43.13
 
 SUBSIDIO PARA MANZANA TIPO ALTA
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Subsidio Clasificación Alta Aplicado a
 
@@ -3468,21 +3482,23 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 57.3768% 0.0000%
+0 10,000 60.8696% 0.0000%
 
-MAYOR A 10,000 20,000 57.3768% 49.4078%
+MAYOR A 10,000 20,000 60.8696% 39.1129%
 
-MAYOR A 20,000 30,000 53.0289% 45.4044%
+MAYOR A 20,000 30,000 59.4016% 29.7827%
 
-MAYOR A 30,000 50,000 49.0078% 40.0683%
+MAYOR A 30,000 50,000 57.8308% 20.5087%
 
-MAYOR A 50,000 70,000 40.5159% 8.9876%
+MAYOR A 50,000 70,000 55.8212% 13.6195%
 
-MAYOR A 70,000 90,000 28.4277% 3.1162%
+MAYOR A 70,000 90,000 45.8955% 7.2682%
 
-MAYOR A 90,000 120,000 17.8272% 2.4390%
+MAYOR A 90,000 120,000 38.3636% 2.4429%
 
 Lo cual se traduce en lo siguiente:
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Tarifa Clasificación Alta
 
@@ -3494,19 +3510,19 @@ litros excedentes
 
 al límite inferior
 
-0 10,000 $158.56 0
+0 10,000 $145.57 0
 
-MAYOR A 10,000 20,000 $158.56 $5.35
+MAYOR A 10,000 20,000 $145.57 $15.10
 
-MAYOR A 20,000 30,000 $291.22 $9.69
+MAYOR A 20,000 30,000 $251.71 $26.50
 
-MAYOR A 30,000 50,000 $620.48 $14.06
+MAYOR A 30,000 50,000 $420.60 $30.00
 
-MAYOR A 50,000 70,000 $1,042.27 $20.40
+MAYOR A 50,000 70,000 $774.09 $32.60
 
-MAYOR A 70,000 90,000 $1,794.30 $27.64
+MAYOR A 70,000 90,000 $1,356.38 $37.00
 
-MAYOR A 90,000 120,000 $2,715.72 $35.50
+MAYOR A 90,000 120,000 $2,037.02 $43.13
 
 Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 67.93 pesos.
 
@@ -3582,6 +3598,8 @@ MAYOR A 90,000 120,000 $3,304.89 $44.21
 
 A esta tarifa se le otorgará el siguiente subsidio:
 
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
+
 Consumo en Litros Subsidio Aplicado a
 
 Límite Inferior Límite Cuota Cuota Adicional
@@ -3592,21 +3610,23 @@ Litros Excedentes
 
 al Límite Inferior
 
-0 10,000 78.2609%
+0 10,000 60.8696%
 
-MAYOR A 10,000 20,000 78.2609% 39.1304%
+MAYOR A 10,000 20,000 60.8696% 39.1304%
 
-MAYOR A 20,000 30,000 73.9130% 27.2000%
+MAYOR A 20,000 30,000 52.1739% 27.2000%
 
-MAYOR A 30,000 50,000 69.8919% 17.1429%
+MAYOR A 30,000 50,000 42.7243% 17.1429%
 
-MAYOR A 50,000 70,000 64.4000% 5.8571%
+MAYOR A 50,000 70,000 31.7046% 5.8571%
 
-MAYOR A 70,000 90,000 49.3118% 5.4054%
+MAYOR A 70,000 90,000 23.9226% 5.4054%
 
-MAYOR A 90,000 120,000 38.7113% 2.4390%
+MAYOR A 90,000 120,000 19.4519% 2.4390%
 
 Lo cual se traduce en lo siguiente:
+
+> <small>(REFORMADA EN SUS CUOTAS, G.O. 29 DE MARZO DE 2012)</small>
 
 Consumo en Litros Tarifa
 
@@ -3618,19 +3638,19 @@ Litros Excedentes
 
 al Límite Inferior
 
-0 10,000 $80.87 $0
+0 10,000 $145.57 $0.00
 
-MAYOR A 10,000 20,000 $80.87 $8.09
+MAYOR A 10,000 20,000 $145.57 $15.09
 
-MAYOR A 20,000 30,000 $161.74 $13.85
+MAYOR A 20,000 30,000 $296.52 $27.47
 
-MAYOR A 30,000 50,000 $300.29 $16.17
+MAYOR A 30,000 50,000 $571.27 $31.27
 
-MAYOR A 50,000 70,000 $624.56 $32.34
+MAYOR A 50,000 70,000 $1,196.66 $35.52
 
-MAYOR A 70,000 90,000 $1,270.74 $37.74
+MAYOR A 70,000 90,000 $1,907.24 $37.74
 
-MAYOR A 90,000 120,000 $2,025.53 $43.13
+MAYOR A 90,000 120,000 $2,662.03 $43.13
 
 Para los consumos mayores a 120,000 litros se cobrarán por cada 1,000 litros adicionales 67.93 pesos.
 
@@ -3676,7 +3696,7 @@ Para efectos de la presente fracción, el Sistema de Aguas hará llegar a los us
 
 La autoridad fiscal, a solicitud del contribuyente o usuario, recibirá los pagos de los derechos a que se refiere esta fracción, con el carácter de provisionales, debiendo efectuarse los ajustes correspondientes cuando el aparato medidor de consumo se instale, repare o posibilite su lectura, a partir de la fecha en que se hubiere solicitado su instalación, reparación o lectura, ya sea para que los contribuyentes cubran la diferencia que resulte a su cargo o bien para que puedan acreditar contra pagos posteriores la cantidad que pagaron de más.
 
-IV. (DEROGADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)
+IV. (DEROGADO PRIMER PÁRRAFO, G.O. 19 DE MAYO DE 2011)
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3808,13 +3828,13 @@ V. En el caso de vivienda plurifamiliar o de predios subdivididos de manera info
 
 Cuando exista adeudo anterior, sólo se podrá individualizar el prorrateo de consumo si los interesados aceptan que se prorratee de la misma forma el adeudo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
 VI. En los inmuebles distintos al régimen en condominio que tengan varios apartamentos, viviendas y locales:
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 29 DE MARZO DE 2012)</small>
 
-a). Cuando exista medidor individual en cada apartamento, vivienda o local, y cuenten con medidor o medidores generales, se aplicará lo dispuesto en el inciso a), fracción V que antecede;
+a). Cuando exista medidor individual en cada apartamento, vivienda o local, y cuenten con medidor o medidores generales, se aplicará lo dispuesto en el inciso a), fracción IV que antecede;
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3826,7 +3846,17 @@ c). (DEROGADO, G.O. 30 DE DICIEMBRE DE 2011)
 
 VII. En los inmuebles que tengan varios apartamentos, viviendas, locales o unidades en condominio, que cuenten con medidores individuales y que no cuenten con medidor en la toma o tomas generales, el consumo o los consumos por las áreas comunes que no sean registrados se pagarán a prorrata entre los usuarios aplicándose la tarifa del uso que proceda prevista en el artículo 172, de este Código.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, G.O. 29 DE MARZO DE 2012)</small>
+
+VIII. Se aplicará la tarifa correspondiente a la suma de los consumos de las tomas:
+
+a). Tratándose de inmuebles que cuenten con más de una toma y número de cuenta;
+
+b). Cuando dos o más tomas alimenten el mismo sistema hidráulico, y
+
+c). Cuando se trata de inmuebles colindantes de un mismo usuario;
+
+Los usuarios al determinar, declarar y pagar sus consumos de agua, o la autoridad al emitir las boletas y que apliquen el procedimiento anterior deberán especificar las tomas cuyos consumos se sumaron para la determinación.
 
 ###### ARTICULO 175.
 
@@ -3890,7 +3920,7 @@ XI. Pagar oportunamente los derechos derivados de los servicios por suministro d
 
 XII. Renovar el aparato medidor cuando éste haya superado los siete años de servicio, o antes si lo solicita el usuario al Sistema de Aguas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 177.
 
@@ -4196,7 +4226,7 @@ l). 252 mm - $177,972.58
 
 m). 302 mm - $213,567.31
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MAYO DE 2011)</small>
 
 V. Reinstalación de servicio hidráulico
 
@@ -4490,7 +4520,7 @@ Se libera el pago del derecho por la autorización señalada en este artículo s
 
 #### Sección Quinta. Del Registro Público de la Propiedad y de Comercio, y del Archivo General de Notarías
 
-(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)
+(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010) (REFORMADO PRIMER PÁRRAFO EN SU CUOTA, G.O. 30 DE DICIEMBRE DE 2011)
 
 ###### ARTICULO 183.
 
@@ -4694,7 +4724,7 @@ Por la expedición de licencias de subdivisión, relotificación o fusión de pr
 
 Los porcentajes anteriores se aplicarán considerando la superficie total del predio a subdividir o relotificar, o aquélla resultante de la fusión de los predios.
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Por la prórroga de la licencia de subdivisión, relotificación o fusión de predios a que se refiere este artículo, se pagará una cuota equivalente al 10% de los derechos causados por su expedición.
 
@@ -4832,7 +4862,7 @@ I. Por la evaluación y registro de aspirantes a directores responsables de obra
 
 Por las subsiguientes - $815.50
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 193.
 
@@ -6078,7 +6108,7 @@ No se pagará el derecho que establece el párrafo anterior, cuando las autorida
 
 Están exentos del pago de derechos establecidos en este precepto, los bienes de dominio público del Distrito Federal y los sujetos al régimen de dominio público de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 235.
 
@@ -6344,7 +6374,7 @@ III. Por registro de unidad de transporte de residuos sólidos - $54.00
 
 #### Sección Décima Séptima. De los derechos por la prestación de otros servicios
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 245.
 
@@ -6644,7 +6674,7 @@ c). De fotografía aérea de tamaño de 23 x 23 centímetros, a escala 1:4,500 o
 
 En caso de que la información referida se requiera en copias certificadas, deberá adicionarse el monto señalado en el artículo 248, fracción I, inciso b) del presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 252.
 
@@ -7160,7 +7190,7 @@ Para lo anterior, se deberá acreditar que las viviendas se adquirieron con cré
 
 Asimismo, también se deberá acreditar que el contribuyente es propietario o poseedor del inmueble en que habite, por el que se le haya otorgado el crédito para su adquisición.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 271.
 
@@ -7224,7 +7254,7 @@ II. Un comprobante a satisfacción de la autoridad, que acredite que el inmueble
 
 III. La declaración fiscal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 275.
 
@@ -7338,7 +7368,7 @@ IV. En el caso de las empresas que anualmente incrementen en un 25% su planta la
 
 A las empresas que se ubiquen en los siguientes supuestos, se les aplicarán reducciones por los conceptos y porcentajes que se señalan a continuación:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 I. Las que contraten a personas con discapacidad de acuerdo a la ley de la materia, tendrán una reducción por concepto del Impuesto sobre Nóminas, equivalente al impuesto que por cada una de las personas con discapacidad de acuerdo a la ley de la materia, que de integrar la base, se tendría que pagar.
 
@@ -7404,13 +7434,13 @@ Las personas físicas que participen en programas oficiales de beneficio social 
 
 Las personas físicas para obtener la reducción a que se refiere este artículo, deberán formar parte de los Programas Oficiales de Beneficio Social que al efecto desarrollen las delegaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ANTES PARRAFO PRIMERO Y SEGUNDO], G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PÁRRAFO PRIMERO Y SEGUNDO], G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 281.
 
 Los jubilados, pensionados por cesantía en edad avanzada, por vejez, por incapacidad por riesgos de trabajo, por invalidez, así como las viudas y huérfanos pensionados; las mujeres separadas, divorciadas, jefas de hogar y madres solteras que demuestren tener dependientes económicos y personas con discapacidad, tendrán derecho a una reducción del Impuesto Predial, de tal manera que solo se realice el pago establecido como cuota fija para el Rango A, en la fracción II del artículo 130 de este Código.
 
-> <small>(REFORMADO [N. DE E. ANTES PARRAFO TERCERO], G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ANTES PÁRRAFO TERCERO], G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Los contribuyentes mencionados en el párrafo anterior, también gozarán de una reducción equivalente al 50% de la cuota bimestral, por concepto de los Derechos por el Suministro de Agua determinados por el Sistema de Aguas, correspondiente a la toma de uso doméstico, sin que en ningún caso el monto a pagar sea inferior a la cuota bimestral mínima que corresponda a esos derechos.
 
@@ -7462,7 +7492,7 @@ IV. Que el valor catastral del inmueble, de uso habitacional, no exceda de la ca
 
 V. Que el volumen de consumo de agua no exceda de 77 m3, tratándose de tomas con medidor, y si se carece de medidor, la toma deberá de ubicarse en las colonias catastrales 0, 1, 2, 3 y 8.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 283.
 
@@ -7530,7 +7560,7 @@ II. Que estén inscritas en el Registro de Organizaciones Civiles del Distrito F
 
 III. Que los recursos destinados por las organizaciones en el año inmediato anterior a las actividades de desarrollo social, de conformidad con lo establecido por la Ley de Fomento a las Actividades de Desarrollo Social de las Organizaciones Civiles para el Distrito Federal, hayan sido iguales o superiores al monto de las reducciones que soliciten.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE MARZO DE 2010)</small>
 
 ###### ARTICULO 284.
 
@@ -7674,7 +7704,7 @@ Asimismo, las personas físicas o morales que acrediten ser propietarias de edif
 
 ARTICULO 296 BIS.- Las personas físicas que acrediten ser propietarias de inmuebles destinados a uso habitacional que se encuentren en cualquiera de los siguientes supuestos, tendrán derecho a la reducción del Impuesto Predial que se especifica en cada caso:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -7684,13 +7714,13 @@ I) de 25% a los que cuenten en su inmueble con árboles adultos y vivos o con á
 
 II) de 10% a los que realicen la naturación del techo de su vivienda, siempre y cuando el sistema de naturación ocupe una tercera parte del total de la superficie y cumpla con lo dispuesto en la Norma Ambiental 013 emitida por la Secretaría del Medio Ambiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2010)</small>
 
 Para la obtención de las reducciones a que se refiere este artículo, los contribuyentes deberán presentar la respectiva constancia expedida por la Secretaría del Medio Ambiente con la que acrediten que su inmueble cuenta con la constancia de preservación ambiental señaladas en los incisos I y II del presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 297.
 
@@ -8014,7 +8044,7 @@ IV. Turnar simultáneamente a la Asamblea, copia de los informes completos que p
 
 V. Las demás que otras leyes y ordenamientos le confieran.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO III. De la Custodia y Administración de Bienes Embargados
 
@@ -8854,7 +8884,7 @@ Si el importe de la postura es menor al interés fiscal, se rematarán de contad
 
 A falta de posturas o cuando las ofrecidas no puedan ser calificadas de legales, conforme al artículo anterior, se declarará desierta la subasta.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 404.
 
@@ -9514,11 +9544,11 @@ d). Revocar el acto impugnado, total o parcialmente, según corresponda, en el c
 
 ### CAPITULO VII. Del Destino de las Sanciones Fiscales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 # LIBRO CUARTO. DE LAS INFRACCIONES Y SANCIONES, RESPONSABILIDADES RESARCITORIAS Y DELITOS EN MATERIA DE HACIENDA PUBLICA
 
@@ -9576,7 +9606,7 @@ Lo dispuesto en este artículo no es aplicable tratándose de responsabilidades 
 
 ### CAPITULO II. De los Delitos Cometidos por Servidores Públicos
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 454.
 
@@ -9652,7 +9682,7 @@ En caso de que el daño o perjuicio quede resarcido previo a la emisión de dich
 
 El procedimiento resarcitorio deberá concluir dentro de un plazo no mayor de veinte meses contados a partir de que se notifique el inicio del mismo a todos los involucrados.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 459.
 
@@ -9754,7 +9784,7 @@ VI. En caso de que la multa se pague dentro de los 15 días siguientes a la fech
 
 ### CAPITULO IV. De los Delitos Relacionados con Inmuebles
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 464.
 
@@ -9766,7 +9796,7 @@ II. No presentar los avisos que establece este Código o hacerlo extemporáneame
 
 ### CAPITULO V. De los Delitos Relacionados con el Suministro de Agua Potable
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 465.
 
@@ -9864,7 +9894,7 @@ A quien cometa la infracción relacionada con la obligación de señalar el núm
 
 ### CAPITULO VI. De los Delitos Relacionados con los Padrones de Contribuyentes
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 470.
 
@@ -10176,15 +10206,15 @@ Cuando los inculpados paguen las contribuciones o aprovechamientos omitidos y su
 
 La Procuraduría Fiscal, podrá solicitar el sobreseimiento, en los ilícitos a que se refiere este Título, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 487.
 
 En los delitos fiscales en que sea necesaria la determinación del daño o perjuicio causado a la Hacienda Pública del Distrito Federal, la Procuraduría Fiscal lo señalará en la averiguación previa, adjuntando la determinación de crédito fiscal respectiva.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 488.
 
@@ -10248,7 +10278,7 @@ El delito previsto en este artículo se sancionará con prisión de tres meses a
 
 Para los efectos de este artículo se tomará en cuenta el monto de las contribuciones o aprovechamientos defraudados en un mismo año de calendario, aun cuando sean diferentes y se trate de diversas conductas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 496.
 
@@ -10986,7 +11016,7 @@ Mármol: Roca compuesta sobre todo de calcita, muy abundante en la naturaleza y 
 
 Maderas Finas: Fresno, Roble, Cedro, Bambú.
 
-> <small>N. DE E. VEASE ANEXOS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PAGINAS DE LA 223 A LA 232.</small>
+> <small>N. DE E. VÉASE ANEXOS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PÁGINAS DE LA 223 A LA 232.</small>
 
 VI. AVALÚO: Es el dictamen técnico practicado por persona autorizada o registrada ante la autoridad fiscal, que permite determinar el valor de mercado de un bien inmueble, con base en su uso, características físicas, además de las características urbanas de la zona donde se ubica, así como en la investigación, análisis y ponderación del mercado inmobiliario, contenido en un documento que reúna los requisitos de forma y contenido establecidos en el Manual de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria, así como de autorización y Registro de Personas para Practicar Avalúos.
 
@@ -11026,7 +11056,7 @@ La autoridad fiscal, mediante reglas de carácter general dará a conocer lo rel
 
 VALORES UNITARIOS DE SUELO Y DE LA CONSTRUCCIÓN
 
-> <small>N. DE E. VEASE TABLAS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PAGINAS DE LA 237 A LA 397.</small>
+> <small>N. DE E. VÉASE TABLAS EN LA G.O. DE 29 DE DICIEMBRE DE 2009, PÁGINAS DE LA 237 A LA 397.</small>
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
@@ -11068,7 +11098,7 @@ El Gobierno del Distrito Federal publicará en su página de Internet la clasifi
 
 TABLAS
 
-> <small>N. DE E. VEASE TABLAS EN LA G.O. DE 16 DE MARZO DE 2010, PAGINAS DE LA 10 A LA 155.</small>
+> <small>N. DE E. VÉASE TABLAS EN LA G.O. DE 16 DE MARZO DE 2010, PÁGINAS DE LA 10 A LA 155.</small>
 
 ###### ARTICULO VIGESIMO SEGUNDO.
 
@@ -11114,7 +11144,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de diciembre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 16 DE MARZO DE 2010.
 
@@ -11238,15 +11268,15 @@ A fin de garantizar la información del contribuyente con respecto a todos los e
 
 Para los efectos de emisión de valores unitarios del suelo, construcciones adheridas a él e instalaciones especiales a que se refiere el artículo 129 del Código Fiscal del Distrito Federal, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas que se indican:
 
-> <small>N. DE E. VEASE ANEXOS EN LA G.O. DE 30 DE DICIEMBRE DE 2010, PAGINAS DE LA 69 A LA 254.</small>
+> <small>N. DE E. VÉASE ANEXOS EN LA G.O. DE 30 DE DICIEMBRE DE 2010, PÁGINAS DE LA 69 A LA 254.</small>
 
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 Para los efectos de dar a conocer el nivel de desarrollo al que pertenecen las manzanas, para efectos de otorgar un subsidio a los usuarios de los derechos por el suministro de uso doméstico en el Distrito Federal a que se refiere el artículo 172 del Código Fiscal del Distrito Federal, se presentan a continuación las siguientes tablas cuya aplicación se hará conforme a las definiciones y normas de aplicación que se indican:
 
-> <small>N. DE E. VEASE ANEXOS EN LA G.O. DE 30 DE DICIEMBRE DE 2010, PAGINAS DE LA 255 A LA 401.</small>
+> <small>N. DE E. VÉASE ANEXOS EN LA G.O. DE 30 DE DICIEMBRE DE 2010, PÁGINAS DE LA 255 A LA 401.</small>
 
-> <small>N. DE E. VEASE MODIFICACIONES DE LA CLASIFICACION DE LAS MANZANAS, G.O. 19 DE MAYO DE 2011, PAGINAS DE LA 11 A LA 15.</small>
+> <small>N. DE E. VÉASE MODIFICACIONES DE LA CLASIFICACIÓN DE LAS MANZANAS, G.O. 19 DE MAYO DE 2011, PÁGINAS DE LA 11 A LA 15.</small>
 
 ###### ARTÍCULO DÉCIMO SEXTO.
 
@@ -11392,7 +11422,7 @@ Los mecanismos a que se refiere este artículo deberán emitirse y publicarse de
 
 TERCERO.- Se modifica la clasificación de las siguientes manzanas contenidas en las tablas del Artículo Décimo Quinto Transitorio del Código Fiscal del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 30 de diciembre del 2010 para quedar como sigue:
 
-> <small>N. DE E. VEASE TABLA EN LA G.O. DE 19 DE MAYO DE 2011, PAGINAS DE LA 11 A LA 15.</small>
+> <small>N. DE E. VÉASE TABLA EN LA G.O. DE 19 DE MAYO DE 2011, PÁGINAS DE LA 11 A LA 15.</small>
 
 CUARTO.- Para el correcto cobro de los derechos por el suministro de agua, será obligatorio para todos los usuarios de las tomas, contar con el medidor de consumo respectivo, excepto para aquellos usuarios localizados en una zona con dictamen técnico emitido por el Sistema de Aguas, cuya colonia aparezca en la lista anual publicada en la Gaceta Oficial del Distrito Federal.
 
@@ -11436,7 +11466,7 @@ NOVENO.- Aquellos usuarios del servicio de suministro de agua que se encuentren 
 
 G.O. 1 DE SEPTIEMBRE DE 2011.
 
-DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
 
 PRIMERO. A los mercados públicos y concentraciones que soliciten y cuenten con una sola toma de agua de 13 milímetros de diámetro, se les establecerá la cuota fija señalada en el artículo 172, Fracción II, Inciso c) para diámetro de 13 mm, sin considerar el número de derivadas; salvo aquellos cuyos inmuebles se encuentren ubicados en las colonias señaladas en el Anexo I de la RESOLUCIÓN DE CARÁCTER GENERAL MEDIANTE LA CUAL SE CONDONA TOTALMENTE EL PAGO DE LOS DERECHOS POR EL SUMINISTRO DE AGUA, CORRESPONDIENTES A LOS EJERCICIOS FISCALES 2006, 2007, 2008, 2009, 2010 Y 2011, ASÍ COMO LOS RECARGOS Y SANCIONES A LOS CONTRIBUYENTES CUYOS INMUEBLES SE ENCUENTREN EN LAS COLONIAS QUE SE INDICAN, publicada en la Gaceta Oficial del Distrito Federal el 19 de mayo de 2011.
 
@@ -11450,7 +11480,7 @@ TERCERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 G.O. 1 DE SEPTIEMBRE DE 2011.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 18, 41, 103, 204 Y 466 DEL CODIGO FISCAL DEL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 18, 41, 103, 204 Y 466 DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL.
 
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
 
@@ -12108,6 +12138,8 @@ N O R M A S D E A P L I C A C I Ó N
 
 > <small>N. DE E. VÉASE TABLAS EN LA G.O. DE 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 276 A LA 414.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA G.O. DE 29 DE MARZO DE 2012, PÁGINA 8.</small>
+
 ###### ARTÍCULO VIGÉSIMO.
 
 La autoridad fiscal implementará durante el ejercicio fiscal 2012, mecanismos administrativos para disminuir créditos fiscales derivados de derechos por el suministro de agua e impuesto predial, en términos de lo dispuesto en el artículo 106 de este Código, en los siguientes casos:
@@ -12196,11 +12228,13 @@ Este subsidio se aplicará del 01 de enero al 02 de abril de 2012.
 
 En tanto la Secretaría publique los horarios a que se refiere el artículo 259 de este Código, el horario de funcionamiento de los parquímetros será de Lunes a Viernes de 8:00 a 20:00 hrs.
 
+> <small>(REFORMADO, G.O. 29 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO VIGÉSIMO SEXTO.
 
 Los interesados en regularizar su toma clandestina de agua o drenaje y a efecto de promover la cultura de la regularización de servicios, por única ocasión, se les condonará el pago de las multas y recargos que establece este Código y la Ley de Aguas del Distrito Federal en sus artículos 110, 111, 112, 113 y 114; y sólo estarán obligados a realizar el pago correspondiente al 50% del monto establecido en una sola exhibición; de acuerdo a los siguientes casos: conexión al suministro de agua medido y su respectivo medidor y/o lo referente a lo establecido para la conexión o reconstrucción de descargas.
 
-En cuanto a la documentación que deberán presentar se atenderá lo establecido en los artículos vigésimo primero y vigésimo tercero transitorios de éste Decreto según sea el caso, además del comprobante del pago referido en este artículo ante el Sistema de Aguas.
+En cuanto a la documentación que deberán presentar se atenderá lo establecido en el artículo décimo séptimo transitorio de este Decreto, además del comprobante del pago referido en este artículo ante el Sistema de Aguas.
 
 ###### ARTÍCULO VIGÉSIMO SÉPTIMO.
 
@@ -12250,13 +12284,43 @@ ARTÍCULO TRIGÉSIMO SÉPTIMO.- Para aquellos usuarios del servicio de suministr
 
 ARTÍCULO TRIGÉSIMO OCTAVO.- Tratándose del trámite de actualización de datos catastrales mediante avalúo no operará durante el ejercicio fiscal 2012 la resolución afirmativa ficta a que se refiere el artículo 55 de este Código.
 
-ARTÍCULO TRIGÉSIMO NOVENO.- A más tardar el día 15 de enero de 2012, el Sistema de Aguas publicará en la Gaceta Oficial del Distrito Federal, el catálogo que contenga el costo unitario de las piezas que se ocupan en la instalación de medidores, así como el costo por el servicio de sustitución o instalación, cuando proceda, a que se refiere el artículo 175, fracción I de este Código.
+> <small>(REFORMADO, G.O. 29 DE MARZO DE 2012)</small>
+
+ARTÍCULO TRIGÉSIMO NOVENO.- A más tardar el día 15 de enero de 2012, el Sistema de Aguas publicará en la Gaceta Oficial del Distrito Federal, el catálogo que contenga el costo unitario de las piezas que se ocupan en la instalación de medidores, así como el costo por el servicio de sustitución o instalación, cuando proceda, a que se refiere el artículo 175 de este Código.
 
 ARTÍCULO CUADRAGÉSIMO.- Aquellos contribuyentes o usuarios que por determinación de la tesorería les haya sido reclasificada su toma, respecto de los derechos correspondientes a los ejercicios fiscales 2010 y 2011, en términos de la fracción V del artículo 172 de este Código, el Sistema de Aguas les realizará el ajuste correspondiente el cual tendrá efectos retroactivos desde el primer bimestre de dos mil diez con relación a los adeudos y sus accesorios que se hayan generado por la errónea clasificación.
 
 ARTÍCULO CUADRAGÉSIMO PRIMERO.- Durante el ejercicio fiscal 2012, a las concentraciones de comerciantes de abasto popular se les aplicará la cuota fija señalada en el artículo 172, fracción III, inciso b), para diámetro de 13 milímetros, salvo aquellos cuyos inmuebles se encuentren ubicados en las colonias a que hace referencia el artículo Décimo Cuarto Transitorio del presente decreto.
 
 Podrán renunciar al beneficio de la cuota fija, las concentraciones que mediante escrito soliciten expresamente al Sistema de Aguas que se les facture el cobro por servicio medido.
+
+> <small>(ADICIONADO, G.O. 29 DE MARZO DE 2012)</small>
+
+ARTÍCULO CUADRAGÉSIMO SEGUNDO.- Aquel contribuyente o usuario de toma de agua de uso doméstico o doméstico y no doméstico simultáneamente (mixto) que cuente con aparato medidor de consumo Instalado y que presuma la existencia de fugas en sus instalaciones hidráulicas localizadas al interior del predio y posteriores al medidor, podrá solicitar la condonación parcial del pago de derechos por el suministro de agua, haciendo del conocimiento de la autoridad competente la existencia de la misma, para lo cual deberá acudir ante las oficinas de atención al público.
+
+El Sistema de Aguas, deberá realizar, dentro de los cinco días hábiles posteriores al día en que reciba la petición, una visita de inspección para determinar la existencia o no de la fuga. Una vez identificada y reparada por parte del contribuyente o usuario, éste procederá a solicitar a la propia autoridad la condonación parcial del monto de la fuga, que será aplicable para el bimestre en que se haya reportado, así como a los dos bimestres inmediatos anteriores en los porcentajes que a continuación se indican:
+
+a) Bimestre en que se reporte: 75%
+
+b) Primer bimestre anterior al reporte: 55%
+
+c) Segundo bimestre anterior al reporte: 35%
+
+Si de la visita realizada por la autoridad no se desprende la existencia de fuga alguna, no habrá derecho a la condonación prevista. La Procuraduría Fiscal será la encargada de la emisión de los lineamientos pertinentes.
+
+> <small>(ADICIONADO, G.O. 29 DE MARZO DE 2012)</small>
+
+ARTÍCULO CUADRAGÉSIMO TERCERO.- Se difiere la época de pago de Derechos por el Suministro de Agua correspondiente al primer y segundo bimestre de dos mil doce, sin que cause actualización o accesorios; estableciendo como fecha máxima de vencimiento hasta el treinta de abril de dos mil doce para el primer bimestre y el catorce de junio de dos mil doce, para el segundo. En caso de que los usuarios no cubran los Derechos en las fechas señaladas en las boletas, comenzarán a generar actualización y los accesorios a partir del día siguiente de la fecha de vencimiento que se marca en las mismas.
+
+> <small>(ADICIONADO, G.O. 29 DE MARZO DE 2012)</small>
+
+ARTÍCULO CUADRAGÉSIMO CUARTO.- A fin de regularizar la situación fiscal de las Asociaciones Civiles, éstas podrán aplicar en el presente ejercicio fiscal las reducciones previstas en el artículo 283 de este Código, aún para el pago de créditos fiscales generados durante los ejercicios 2009, 2010 y 2011.
+
+Para efectos de lo anterior, la Tesorería y el Sistema de Aguas, implementarán las acciones necesarias para que las Administraciones Tributarias y el propio Sistema de Aguas, apliquen dichas reducciones, considerando la constancia expedida por la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 29 DE MARZO DE 2012)</small>
+
+ARTÍCULO CUADRAGÉSIMO QUINTO.- Para efectos del programa a que se refiere el artículo Trigésimo Tercero del Decreto que reforma, adiciona y deroga diversas disposiciones del Código Fiscal del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 30 de diciembre del 2011, además de las colonias a que hace referencia dicho artículo, se entenderán incluidas además las colonias Unidad Habitacional Niños Héroes, Unidad Habitacional Residencial del Valle, El Edén, Las Peñas, Consejo Agrarista Mexicano, Puente Blanco y Paraje Zacatepec, Ejidos de Santa María Aztahuacan y Unidad Habitacional Ejército Constitucionalista supermanzana III.
 
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO SEGUNDO DEL DECRETO DE REFORMAS.</small>
 
@@ -12271,3 +12335,9 @@ Las reclasificaciones de manzanas a que se refiere el párrafo anterior, mismas 
 Las cuales se dividen de la siguiente manera:
 
 > <small>N. DE E. VÉASE TABLAS EN LA G.O. DE 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 3 A LA 26.</small>
+
+G.O. 29 DE MARZO DE 2012.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
