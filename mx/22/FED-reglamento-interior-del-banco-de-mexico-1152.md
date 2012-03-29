@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2011-12-21"
+last_updated: "2012-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 2 DE ABRIL DE 2012.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MARZO DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -65,9 +67,9 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 4o.
 
@@ -153,11 +155,11 @@ Dirección Jurídica
 
 Las Direcciones Generales y la Contraloría tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Dirección de Auditoría que dependerá de la Junta de Gobierno.
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2012)</small>
 
-Los Directores Generales, el Contralor y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Los Directores Generales, el Contralor y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -179,7 +181,7 @@ En el caso de que el Gobernador acuerde la creación de un comité, podrá invit
 
 El Banco contará con un Comité de Información para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el Director de Vinculación Institucional, el Director de Coordinación de la Información y el Director de Disposiciones de Banca Central. No habrá miembros suplentes y podrá sesionar con la asistencia de dos de sus integrantes, debiendo reunirse cuando menos dos veces al año.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -229,7 +231,7 @@ BIS.- Para los efectos previstos en el artículo 5o. de la Ley del Banco de Méx
 
 El Gobernador designará de entre los miembros de la Junta o de los funcionarios del Banco, a las personas que fungirán como representantes del Banco ante dependencias federales, organismos, órganos colegiados y demás entidades en las que éste participe.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 6o.
 
@@ -247,7 +249,7 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 8o.
 
@@ -301,9 +303,9 @@ Para los mismos efectos de los párrafos anteriores, se entenderá por entidades
 
 Corresponderá a los superiores jerárquicos de los servidores públicos que hayan emitido la multa respectiva, resolver el recurso de revisión a que se refiere la Ley para Regular las Sociedades de Información Crediticia y la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 9o.
 
@@ -315,7 +317,7 @@ Las facultades referidas en el párrafo que antecede, tratándose de actos de do
 
 A la extinción de cualquier fideicomiso, los delegados fiduciarios generales en representación del Banco como fiduciario, atenderán los requerimientos que formulen toda clase de autoridades, incluyendo las judiciales y administrativas, así como los particulares en términos de las disposiciones aplicables. Dichos delegados podrán actuar en forma individual.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 10.
 
@@ -329,7 +331,7 @@ La firma electrónica a que se refiere el párrafo anterior se utilizará cuando
 
 Para efectos de este Reglamento se entenderá por firma electrónica la información agregada o adjuntada a un mensaje de datos que esté asociada en forma lógica al propio mensaje, la cual se utilizará para identificar al autor de la firma e indicar que éste aprueba los datos contenidos en el mensaje y a su vez para asegurar que el mensaje no fue alterado y conservó su carácter confidencial.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 11.
 
@@ -345,7 +347,7 @@ La Dirección General de Operaciones de Banca Central tendrá las atribuciones q
 
 A esta Dirección General estarán adscritas las Direcciones de Operaciones y de Apoyo a las Operaciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 6 DE MAYO DE 2011)</small>
 
@@ -353,7 +355,7 @@ ARTICULO 12 BIS.- La Dirección General de Estrategia, Riesgos y Sistemas de Pag
 
 A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pagos, de Administración de Riesgos, de Contabilidad y Presupuesto y de Planeación Estratégica.
 
-> <small>(REFORMADO CONFORME AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 13.
 
@@ -377,7 +379,7 @@ A esta Dirección General estarán adscritas las Direcciones de Disposiciones de
 
 Corresponderá a la Gerencia Jurídica Fiduciaria el desempeño de las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -397,7 +399,7 @@ IV. Participar en los procedimientos de registro, formulación de observaciones 
 
 V. Colaborar en el cumplimiento de la atribución prevista en el artículo 25 Bis 1, fracción III, de este Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -415,11 +417,11 @@ La Dirección General de Administración tendrá las atribuciones señaladas en 
 
 A esta Dirección General estarán adscritas las Direcciones de Recursos Humanos, Recursos Materiales y Seguridad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 ARTICULO 15 BIS.- (DEROGADO, D.O.F. 6 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -435,11 +437,23 @@ La Dirección General de Relaciones Institucionales tendrá las atribuciones que
 
 A esta Dirección General estarán adscritas las Direcciones de Comunicación y de Vinculación Institucional.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 16.
 
-La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis y 16 Bis 1 de este Reglamento.
+La Dirección General de Emisión tendrá las atribuciones que se señalan en los artículos 16 Bis y 16 Bis 1 de este Reglamento, así como las siguientes:
+
+I. Diseñar los billetes de banco y otros impresos de seguridad;
+
+II. Formular y coordinar, además de participar en la ejecución de medidas y programas en las áreas de medio ambiente y seguridad e higiene industrial, respecto de aquellas materias de su competencia;
+
+III. Supervisar el manejo de efectivo, metales preciosos, valores e insumos para la fabricación de billetes;
+
+IV. Atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas, y
+
+V. Comercializar monedas o piezas que hubieren tenido ese carácter, con empaque o acabado especial y metales. También podrá comercializar bienes elaborados en la Fábrica de Billetes, conforme a lo dispuesto en el artículo 62 de la Ley.
+
+> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 A esta Dirección General estarán adscritas las Direcciones de Programación y Distribución de Efectivos y de Fábrica de Billetes.
 
@@ -449,7 +463,7 @@ ARTICULO 16 BIS.- La Dirección de Programación y Distribución de Efectivos, t
 
 I. Convenir los actos correspondientes al traslado y custodia de efectivo, valores y metales preciosos, incluyendo los concernientes a la operación y mantenimiento del equipo que el Banco utilice para tal efecto;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -457,11 +471,11 @@ II. Formalizar los actos vinculados al adecuado almacenamiento, abastecimiento, 
 
 III. Recabar información de los integrantes del sistema bancario, respecto a los montos y características de sus existencias de billete y moneda metálica y la relacionada con las entregas y retiro de efectivo realizadas con el Banco, así como la información correspondiente al empleo de efectivo en sus operaciones;
 
-IV. Comercializar monedas, o piezas que hubieren tenido ese carácter, con empaque o acabado especial y metales. También podrá comercializar bienes elaborados en la Fábrica de Billetes, conforme a lo dispuesto en el artículo 62 de la Ley;
+IV. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
 V. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -495,7 +509,9 @@ ARTICULO 16 BIS 1.- La Dirección de Fábrica de Billetes tendrá las atribucion
 
 I. Realizar los actos necesarios para la fabricación de billetes y su entrega a la Dirección de Programación y Distribución de Efectivos;
 
-II. Diseñar y realizar la manufactura de billetes de banco y otros impresos de seguridad en sus instalaciones, y
+> <small>(REFORMADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+II. Realizar la manufactura de billetes de banco y otros impresos de seguridad en sus instalaciones, y
 
 III. Participar en la ejecución de medidas en las áreas de medio ambiente y seguridad e higiene industrial, respecto de aquellas materias que conforme a este artículo sean de su competencia.
 
@@ -543,7 +559,7 @@ XII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
 XIII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -671,27 +687,21 @@ VIII. Participar en la supervisión del cumplimiento de las disposiciones referi
 
 IX. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-X. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, las acciones que tome el Banco para instrumentar la política monetaria, la cambiaria y las disposiciones que emite para regular el sistema financiero;
+X. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
 > <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 XI. Participar con la Dirección de Administración de Riesgos en el diseño de los criterios para medir y controlar los riesgos en que incurre el Banco en la administración de los activos internacionales y, en general, de todas las operaciones de mercado que realice la institución;
 
-> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+XII. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
-XII. Vigilar la actividad en los mercados financieros nacionales, para identificar estrategias en la participación en dichos mercados que pudieren afectar su sano comportamiento;
-
-> <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
-
-XIII. Dar seguimiento al cumplimiento de las disposiciones que emita el Banco conforme al artículo 34 de su Ley, y
+XIII. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
 > <small>(ADICIONADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 XIV. Participar en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -719,9 +729,33 @@ VIII. Administrar los servicios de depósito y custodia de valores;
 
 IX. Administrar y operar los sistemas operativos, así como los servicios de transmisión de información y registro relacionados con sus atribuciones;
 
-X. Proporcionar servicios de asesoría y soporte a los usuarios de los sistemas operativos relacionados con sus atribuciones, y
+X. Proporcionar servicios de asesoría y soporte a los usuarios de los sistemas operativos relacionados con sus atribuciones, y (sic)
 
 XI. Participar en la expedición de disposiciones relacionadas con las atribuciones mencionadas en este artículo, así como en la atención de autorizaciones, consultas y opiniones sobre las mismas.
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+XII. Participar en la supervisión del cumplimiento de las disposiciones referidas en la fracción inmediata anterior;
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+XIII. Dar seguimiento y evaluar el efecto que tienen en los mercados financieros, las acciones que tome el Banco para instrumentar la política monetaria, la cambiaria y las disposiciones que emite para regular el sistema financiero;
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+XIV. Vigilar la actividad en los mercados financieros nacionales, para identificar estrategias en la participación en dichos mercados que pudieren afectar su sano comportamiento;
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+XV. Dar seguimiento al cumplimiento de las disposiciones que emita el Banco conforme al artículo 34 de su Ley;
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+XVI. Participar con la Dirección de Operaciones en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE MARZO DE 2012)</small>
+
+XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -807,13 +841,13 @@ III. Dar seguimiento al cumplimiento de los compromisos del Banco derivados de a
 
 IV. Coadyuvar con las autoridades financieras en la negociación y formalización de acuerdos internacionales, y en el ingreso a organismos multilaterales de cooperación económica internacional.
 
-> <small>(REFORMADO CONFORME AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
 
 ###### ARTICULO 24.
 
 La Dirección de Sistematización de Información Económica y Servicios estará facultada para establecer sistemas de procesamiento, manejo y diseminación de información económica y financiera, así como para recabar, procesar y divulgar información relacionada con los índices de precios, salarios, la evolución del mercado laboral del país y la productividad.
 
-ARTICULO 24 BIS.- (DEROGADO, CONFORME AL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)
+ARTICULO 24 BIS.- (DEROGADO, CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -853,7 +887,7 @@ ARTICULO 25 BIS 1.- La Dirección de Regulación y Supervisión tendrá las atri
 
 I. Dar seguimiento y evaluar la regulación y supervisión del sistema financiero, de tal forma que pueda proponer modificaciones a ambas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 II. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
@@ -869,21 +903,21 @@ VII. Dar seguimiento a las operaciones que hayan realizado los intermediarios fi
 
 VIII. Participar en la imposición de sanciones a los intermediarios financieros, a los administradores de los sistemas de pagos y a las cámaras de compensación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 IX. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 X. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 XI. Coordinar con las Unidades Administrativas responsables de las operaciones, el diseño y funcionamiento de aquellos controles aplicables a las operaciones del propio Banco, así como al manejo de los sistemas de pagos, en que se involucren recursos de origen indeterminado, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -909,7 +943,7 @@ VI. Colaborar con las autoridades correspondientes en la definición, promoción
 
 VII. Apoyar a los miembros de la Junta que participen, en representación del Banco, en los órganos de gobierno de los fideicomisos de fomento económico y de las entidades financieras de desarrollo, así como elaborar las propuestas para los mencionados representantes, sobre la posición del propio Banco ante dichos órganos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 26.
 
@@ -927,7 +961,7 @@ IV. Desempeñar las funciones encomendadas al Banco como fiduciario, en los fide
 
 V. Cumplir con las obligaciones legales y reglamentarias a cargo del Banco, en su carácter de patrón;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -939,11 +973,11 @@ VII. Vigilar que los créditos otorgados por el Banco a sus trabajadores, se enc
 
 VIII. Conducir las relaciones con el Sindicato Unico de Trabajadores del Banco de México;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 IX. (DEROGADA, D.O.F. 10 DE JUNIO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO. (REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO. (REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
 X. Desempeñar y promover las actividades socioculturales y deportivas del Banco;
 
@@ -951,15 +985,15 @@ X. Desempeñar y promover las actividades socioculturales y deportivas del Banco
 
 XI. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2009)</small>
 
 XII. Llevar el registro de la organización del Banco, aprobar sus adecuaciones, así como emitir opiniones y/o recomendaciones respecto a la estructura organizacional y sobre las propuestas que presenten las unidades administrativas que requieran aprobación del Gobernador o de la Junta de Gobierno, de conformidad con los términos y plazos que al efecto se acuerde con las citadas unidades administrativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 27.
 
@@ -985,13 +1019,13 @@ IV. Normar y supervisar el registro contable de las operaciones que realice el B
 
 V. Registrar y controlar contablemente el activo fijo, los inventarios y costos de fabricación de billete y acuñación de moneda metálica;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
 VI. Establecer los procedimientos que permitan evaluar la gestión de los recursos presupuestales y costos del Banco;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1003,7 +1037,7 @@ VIII. (DEROGADA, D.O.F. 5 DE OCTUBRE DE 2010)
 
 IX. Apoyar al auditor externo en las actividades relacionadas con la elaboración de los dictámenes financieros correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -1043,13 +1077,13 @@ Cuando otras disposiciones aplicables faculten a los analistas adscritos a la Di
 
 La Dirección Jurídica tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
 I. Notificar a los intermediarios financieros o a las sociedades controladoras de éstos, a los administradores y participantes de los sistemas de pagos, a las cámaras de compensación y a las sociedades de información crediticia, las sanciones que el Banco imponga en el ejercicio de las facultades que las disposiciones legales le otorguen, así como las resoluciones relativas a los recursos de reconsideración referidos en la fracción II de este artículo y las resoluciones correspondientes al recurso de revisión a que se refiere la fracción XIV del artículo 17;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -1077,7 +1111,7 @@ X. (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2011)
 
 XI. Interpretar para efectos internos, las disposiciones emitidas conforme a lo señalado en la fracción XII del artículo 46 de la Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -1087,7 +1121,7 @@ XII. Expedir, junto con la Dirección General de Emisión, las disposiciones a q
 
 XIII. Imponer, junto con la Dirección General de Asuntos del Sistema Financiero, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -1097,27 +1131,27 @@ XIV. Asesorar en la elaboración de los proyectos de resolución de los recursos
 
 ARTICULO 28 BIS.- La Dirección de Seguridad tendrá las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
 I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna y protección civil del Banco;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
 II. Definir la estrategia en seguridad y administrar los recursos de protección para miembros de la Junta de Gobierno, funcionarios, trabajadores y terceros que el propio Banco determine;
 
-III. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas;
+III. (DEROGADA, D.O.F. 29 DE MARZO DE 2012)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
 IV. Coordinar las relaciones interinstitucionales con las autoridades del Gobierno Federal, estatales, municipales y extranjeras en materia de seguridad, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2010)</small>
 
@@ -1143,9 +1177,9 @@ IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y s
 
 V. (DEROGADA, D.O.F. 8 DE FEBRERO DE 2002)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ARTICULO 29 BIS.- La Dirección de Planeación Estratégica tendrá las atribuciones siguientes:
 
@@ -1153,7 +1187,7 @@ ARTICULO 29 BIS.- La Dirección de Planeación Estratégica tendrá las atribuci
 
 I. Coordinar el proceso de planeación estratégica institucional;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -1253,11 +1287,11 @@ XI. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto
 
 XII. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información sobre declaración de situación patrimonial de los servidores públicos del Banco, a la referente a procedimientos y procesos en trámite, así como a los expedientes médicos de los mencionados servidores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 XIII. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 XIV. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
@@ -1395,7 +1429,7 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -1477,9 +1511,9 @@ Además se incluirán en el capital contable, los rubros de Remanente de Operaci
 
 El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. En Valores Gubernamentales se presentará el neto de las tenencias de esos títulos después de descontar los Depósitos de Regulación Monetaria, sin considerar en este rubro los valores adquiridos o transmitidos mediante reportos, y en caso de saldo acreedor, éste se ubicará en el rubro Depósitos de Regulación Monetaria. En Valores IPAB se presentarán los títulos del Instituto para la Protección al Ahorro Bancario adquiridos por Banco de México. El Crédito a Instituciones Bancarias y Deudores por Reporto incluirá a la banca múltiple, la banca de desarrollo y operaciones de reporto. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que en su caso existan. En los Depósitos Bancarios en Cuenta Corriente se consignará el saldo neto del conjunto de dichas cuentas, de ser acreedor; en caso de que el saldo neto sea deudor, se incluirá en el rubro de Crédito a Instituciones Bancarias y Deudores por Reporto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
 
 ###### ARTICULO 39.
 
@@ -1499,7 +1533,7 @@ El balance general deberá publicarse dentro de los cinco días hábiles siguien
 
 Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, el estado de cuenta consolidado correspondiente al mes inmediato anterior, excepto diciembre.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2010)</small>
 
@@ -1511,7 +1545,7 @@ El Banco publicará semanalmente, con cifras preliminares al cierre del último 
 
 El plazo de interposición del recurso de reconsideración a que se refiere el artículo 64 de la Ley se contará a partir del día siguiente a aquél en que surta efectos la notificación del acto que se reclame.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 43.
 
@@ -1561,9 +1595,9 @@ III. El acuerdo de no interposición del recurso.
 
 Los acuerdos que deban notificarse por estrados, se comunicarán mediante lista que se fijará en la Subgerencia Jurídica de lo Contencioso del Banco.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 50.
 
@@ -1585,7 +1619,7 @@ En la sustanciación y resolución del recurso de reconsideración se aplicarán
 
 Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 54.
 
@@ -1621,7 +1655,7 @@ Gobernador del Banco de México
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 16 DE MARZO DE 1995.
 
@@ -1904,3 +1938,11 @@ D.O.F. 21 DE DICIEMBRE DE 2011.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones hayan cambiado sus atribuciones, contenidas en cualquier ordenamiento, deberán entenderse hechas a la Unidad Administrativa que cuente con las atribuciones respectivas.
+
+D.O.F. 29 DE MARZO DE 2012.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 2 de abril de 2012.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+TERCERO. Las referencias a cualquier Unidad Administrativa que en virtud de las presentes modificaciones haya desaparecido o cambiado de denominación, contenidas en cualquier otro instrumento jurídico, deberán entenderse hechas a la Unidad Administrativa que las sustituya o cuente con las atribuciones respectivas.
