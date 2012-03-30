@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2007-12-31"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO ESTATAL Y MUNICIPAL
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO ESTATAL Y MUNICIPAL
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -105,7 +105,7 @@ IX. Las inconformidades y las quejas, que se ejerzan en contra de los actos deri
 
 X. La automatización y simplificación de los procesos administrativos e informáticos y sus operaciones, para hacer más ágil y eficaz el actuar de la Administración Pública Estatal y la Municipal, en los rubros contenidos en las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 3.
 
@@ -185,7 +185,7 @@ XXII. SEDECAP: la Secretaría de Desarrollo, Evaluación y Control de la Adminis
 
 XXIII. Tratados: los convenios regidos por el Derecho Internacional Público, celebrados por escrito entre el Gobierno de los Estados Unidos Mexicanos y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias especificas, cualquiera que sea su denominación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 7.
 
@@ -263,7 +263,7 @@ En todo lo no previsto por esta Ley, las demás disposiciones que de ella se der
 
 SECCIÓN UNO: FORMAS DE ADJUDICACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 15.
 
@@ -303,13 +303,17 @@ Cuando por la urgencia, en caso de desastres naturales o por la especialización
 
 Para los casos de excepción a que se refiere este artículo, el Titular de la Dependencia o Entidad de la Administración Pública Estatal de que se trate, deberá enviar notificación debidamente justificada a la SEDECAP o la Contraloría Municipal, según sea el caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 20.
 
 La Secretaría y los Comités Municipales, bajo su responsabilidad, podrán fincar pedidos o celebrar contratos en materia de adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de los procedimientos de excepción a la misma, cuando:
 
 I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Igualmente, cuando en su caso no existan bienes o servicios alternativos o sustitutos técnicamente razonables o cuando en el mercado sólo exista un posible oferente;
 
 II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales, casos fortuitos o de fuerza mayor, o existan condiciones extraordinarias o imprevisibles, o cualesquiera otras circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes, debidamente justificados;
 
@@ -319,7 +323,7 @@ IV. Derivado de caso fortuito o fuerza mayor, no sea posible obtener bienes o se
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
 
-V.- Se hubiere rescindido el contrato respectivo por causas imputables al proveedor que hubiere resultado ganador en una licitación; en estos casos la Secretaría o Comité Municipal verificará si existen otra u otras proposiciones aceptables, en cuyo caso deberá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al monto autorizado;
+V. Se hubiere rescindido el contrato respectivo por causas imputables al proveedor que hubiere resultado ganador en una licitación; en estos casos la Secretaría o Comité Municipal verificará si existen otra u otras proposiciones aceptables, en cuyo caso deberá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora no sea superior al monto autorizado;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
@@ -328,6 +332,10 @@ VI. No existan por lo menos tres proveedores idóneos, previa investigación que
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2002)</small>
 
 VII. Existan razones justificadas técnicamente para la adquisición o arrendamiento de bienes, servicios, equipos especializados, así como sustancias y materiales de origen químico, físico-químico o bioquímico, o el objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros, en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento, debiendo pactarse en este caso que los derechos sobre el diseño, uso o cualquier otro exclusivo, se constituyan a favor del Estado, los municipios o las entidades según corresponda;
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Igualmente, cuando existan razones justificadas para la adquisición o arrendamiento de bienes de marca determinada.
 
 VIII. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados, semovientes y bienes usados; tratándose de estos últimos, el precio de adquisición no podrá ser mayor al que se determine mediante avalúo que practicarán las instituciones o particulares habilitados para ello conforme a las disposiciones aplicables;
 
@@ -351,7 +359,7 @@ Las dependencias o entidades bajo su responsabilidad, podrán solicitar que la S
 
 En estos casos, se hará la invitación respectiva a las personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse y que no tengan ninguna limitante legal para que se les otorgue la adjudicación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 21.
 
@@ -373,7 +381,7 @@ No estarán dentro del ámbito de aplicación de esta Ley, los convenios, contra
 
 ### CAPÍTULO III. PADRÓN DE PROVEEDORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
@@ -391,7 +399,7 @@ Para efectos del párrafo anterior, las personas inscritas en el Padrón deberá
 
 La Secretaría, las dependencias y las entidades deberán invitar a los procedimientos de excepción a la licitación abierta a las personas integrantes del Padrón, de acuerdo con la clasificación en que estén registradas, sin perjuicio de que a falta de proveedores o por así convenir a los intereses de las contratantes o adjudicantes, se pueda invitar a personas que no estén inscritas, con la condición de que en caso de que se les adjudique el contrato o pedido, se inscriban al Padrón.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 26.
 
@@ -419,7 +427,7 @@ Si la solicitud fuese confusa o incompleta, la SEDECAP podrá solicitar, dentro 
 
 El registro y su revalidación en el Padrón de Proveedores, tendrá el costo que señale la Ley de Ingresos del Estado del Ejercicio Fiscal correspondiente, cuya vigencia será de un año a partir de la inscripción. Los proveedores, para revalidar su registro, deberán de presentar su solicitud dentro de los veinte días hábiles anteriores al vencimiento; si omiten presentar la solicitud en el plazo indicado, se cancelará el registro a su vencimiento, sin perjuicio de que puedan formular nueva solicitud para obtener otro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 29.
 
@@ -453,7 +461,7 @@ Cuando desaparezcan las causas que hubieren motivado la suspensión del registro
 
 La SEDECAP podrá eximir de la obligación de inscribirse en el Padrón a las personas físicas o morales que provean artículos perecederos, granos, productos alimenticios básicos o semiprocesados, o cuando se trate de campesinos, comuneros o grupos urbanos vulnerables y en los casos de adquisiciones extraordinarias en los supuestos que esta misma Ley establece.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 31.
 
@@ -493,7 +501,7 @@ En los casos de las administraciones públicas municipales, éstas establecerán
 
 ## TÍTULO SEGUNDO. DE LOS COMITÉS DE ADJUDICACIONES
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE MARZO DE 2005)</small>
 
 ### CAPÍTULO I. DEL COMITÉ ESTATAL DE ADJUDICACIONES
 
@@ -627,7 +635,7 @@ De acuerdo con el artículo 13 de esta Ley, la Secretaría, la SEDECAP, los Ayun
 
 En relación con los programas que tengan por objeto promover la participación de las empresas locales, especialmente de las micro, pequeñas y medianas, la Secretaría y los Comités Municipales dictarán las reglas que se deban observar en los procedimientos materia de esta Ley y determinarán, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrá adquirir, arrendar o contratar el sector público, con objeto de ejercer el poder de compra gubernamental, obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo estatal y municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 47.
 
@@ -675,7 +683,7 @@ Tratándose de bienes cuyo proceso de fabricación sea superior a 90 días, la c
 
 En los contratos para la instrumentación de proyectos para prestación de servicios a largo plazo, no se otorgarán anticipos, bajo cualquier denominación, salvo que se demuestre que el otorgarlo tiene un impacto positivo significativo en el análisis costo-beneficio; asimismo, no se deberán pactar pagos anteriores al momento en que el Proveedor realice la prestación de los servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 51.
 
@@ -707,7 +715,7 @@ Las dependencias o entidades que requieran contratar servicios de consultoría, 
 
 En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos de la Entidad o Dependencia, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento. La erogación para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, se sujetará a lo dispuesto en el Presupuesto de Egresos respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 55.
 
@@ -787,7 +795,7 @@ Los procedimientos de adjudicación podrán ser:
 
 I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana y los bienes a adquirir o arrendar sean producidos o se ubiquen en el País o el Servicio sea prestado en el mismo;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera y los bienes a adquirir o arrendar, o el servicio a contratar, sean de origen nacional o extranjero. Solamente se podrán llevar a cabo procedimientos de adjudicación internacionales, en los siguientes casos:
 
@@ -805,7 +813,7 @@ d) Cuando así se estipule para las contrataciones financiadas con créditos oto
 
 Respecto de los procedimientos de adjudicación de carácter nacional, la Secretaría y los Comités Municipales, en su ámbito de competencia y mediante reglas de carácter general, establecerán los casos de excepción correspondientes a los requisitos que establece la fracción I del artículo anterior, así como un procedimiento expedito para determinar el grado de contenido nacional de los bienes que se oferten, para lo cual tomará en cuenta la opinión de la Secretaría de Desarrollo Económico, la SEDECAP y la Contraloría Municipal, en su caso. La Secretaría y los Comités Municipales, de oficio o a solicitud de la SEDECAP o la Contraloría Municipal, podrán realizar visitas para verificar que los bienes cumplen con los requisitos señalados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 65.
 
@@ -913,7 +921,7 @@ Los documentos descritos en esta Sección podrán ser solicitados por las adjudi
 
 SECCIÓN CUATRO: DE LA ENTREGA DE PROPOSICIONES EN PLIEGOS O SOBRES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 74.
 
@@ -931,7 +939,7 @@ La SEDECAP y las Contralorías Municipales, en su caso, establecerán el sistema
 
 SECCIÓN CINCO: DE LOS IMPEDIMENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 77.
 
@@ -965,7 +973,7 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 SECCIÓN UNO: DE LAS CONVOCATORIAS Y LAS BASES DE LICITACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 78.
 
@@ -1081,7 +1089,7 @@ XXV. En su caso, los términos y condiciones a que deberá ajustarse la particip
 
 Para la participación, adjudicación y contratación en adquisiciones, arrendamientos o servicios, no podrá exigirse a los licitantes el cumplimiento de requisitos distintos a los previstos en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 ###### ARTÍCULO 81.
 
@@ -1119,7 +1127,7 @@ La entrega de propuestas podrá realizarse con una anticipación de hasta dos ho
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2002)</small>
 
-###### ARTICULO 84.
+###### ARTÍCULO 84.
 
 Previo al acto de presentación y apertura de propuestas, la convocante podrá efectuar el registro de participantes, así como realizar revisiones preliminares a la documentación distinta a la propuesta técnica y económica. Lo anterior será optativo para los licitantes, por lo que no se podrá impedir el acceso a quienes se encuentren debidamente inscritos de acuerdo a lo previsto por las bases de licitación y, decidan presentar su documentación y propuestas conforme al artículo anterior.
 
@@ -1145,7 +1153,7 @@ VI.- En la segunda etapa, una vez que se haya dado a conocer el resultado legal 
 
 VII. Se levantará acta de la segunda etapa, en la que se hará constar el resultado legal y técnico, las propuestas económicas aceptadas para su análisis, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma, la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de notificación; asimismo, deberá señalarse lugar, fecha y hora en que se dará a conocer el fallo de la licitación, conforme a lo establecido en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 86.
 
@@ -1157,7 +1165,7 @@ II. Efectuar un análisis y evaluación de las propuestas que se hayan admitido,
 
 III. Emitir un dictamen por escrito, el que servirá como fundamento para el fallo y en el que se asentará que la adjudicación del contrato será a favor de la persona que de entre los promoventes reunió las condiciones legales, técnicas y económicas requeridas por el convocante, cumplió las condiciones de calidad necesarias y garantizó satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2002)</small>
 
 ###### ARTÍCULO 87.
 
@@ -1179,7 +1187,7 @@ IV. Se adjudicará el contrato, de entre los licitantes, a aquél cuya propuesta
 
 V. Si resultare que dos o más propuestas son solventes porque satisfacen la totalidad de los requerimientos solicitados por el convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, incluyendo, en su caso, el porcentaje previsto por el artículo 52 de este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 88.
 
@@ -1213,7 +1221,7 @@ SECCIÓN TRES: DE LA CANCELACIÓN Y LA DECLARACIÓN DE LICITACIÓN DESIERTA
 
 La Secretaría o el Comité Municipal, según sea el caso, podrá cancelar o suspender una licitación por caso fortuito o fuerza mayor, o cuando existan circunstancias debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar bienes, o contratar la prestación de los servicios, y que, de continuarse con el procedimiento de contratación, se pudiera ocasionar un daño o perjuicio a la dependencia o entidad interesada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 92.
 
@@ -1283,7 +1291,7 @@ II.- En el supuesto del procedimiento de adjudicación mediante invitación a cu
 
 SECCIÓN DOS: CONCURSO POR INVITACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1307,7 +1315,7 @@ VII. A las demás disposiciones de esta Ley y los ordenamientos que resulten apl
 
 SECCIÓN TRES: PROCEDIMIENTO DE ADJUDICACIÓN MEDIANTE INVITACIÓN A CUANDO MENOS TRES PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 100.
 
@@ -1349,7 +1357,7 @@ SECCIÓN UNO: PROCEDIMIENTO DE FORMALIZACIÓN
 
 La Administración Pública Estatal o la municipal, podrá contratar con las personas físicas o morales de origen nacional o extranjeras, que tengan capacidad plena de ejercicio, hayan acreditado ante la adjudicante su solvencia económica, financiera y técnica profesional, conforme a esta Ley, y se les hubiere adjudicado el contrato o pedido respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 103.
 
@@ -1591,7 +1599,7 @@ III. El cumplimiento de los pedidos o contratos, así como el pago de la indemni
 
 Para los efectos de este artículo, los titulares de las adjudicantes o contratantes, según corresponda, fijarán las bases, forma, porcentajes y vigencia a las que deberán sujetarse las garantías que deban constituirse, dentro de los parámetros establecidos, considerando que para las fracciones II y III las garantías sólo podrán constituirse mediante fianza, cheque certificado o de caja e hipoteca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 127.
 
@@ -1623,7 +1631,7 @@ I. La Secretaría, por actos o contratos que se celebren con las dependencias y 
 
 II. La Tesorería Municipal respectiva, por actos o contratos que se celebren con la Administración Pública Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 130.
 
@@ -1641,11 +1649,11 @@ V. Copia de la demanda, escrito de inconformidad o de cualquier otro recurso leg
 
 VI. Los demás documentos que estimen necesarios y los que la Secretaría o la Tesorería Municipal, según corresponda, determinen de manera general y específica.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO III. DE LA CONTRATACIÓN DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS A LARGO PLAZO
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN UNO
 
@@ -1683,7 +1691,7 @@ IV.- La congruencia del proyecto con las directrices establecidas en el Plan Est
 
 En las autorizaciones a que se refiere este artículo, se podrá requerir que la Contratante exija una inversión de capital mínima por parte del Proveedor, sin perjuicio de que la Secretaría o los Ayuntamientos, emitan lineamientos sobre los montos de inversión de capital mínimos que se requerirán para cada tipo de proyecto para prestación de servicios a largo plazo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN DOS
 
@@ -1751,7 +1759,7 @@ En caso de que la Secretaría o el Ayuntamiento, determinen la procedencia del o
 
 De autorizarse el proyecto para prestación de servicios a largo plazo por la Secretaría o los Ayuntamientos, éstos lo enviarán por conducto del Ejecutivo Estatal al H. Congreso del Estado para que autorice las previsiones presupuestales que habrán de considerarse en sus respectivos Presupuestos de Egresos de cada uno de los Ejercicios Fiscales que comprenda la vigencia del contrato correspondiente.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN TRES
 
@@ -1769,7 +1777,7 @@ La Secretaría o los Ayuntamientos, emitirán la normatividad y metodología a l
 
 Una vez realizado el Análisis Costo-Beneficio, la Contratante deberá demostrar con éste, que la instrumentación del proyecto para prestación de servicios a largo plazo, generará beneficios iguales o mayores a los que se obtendrían en caso de que el mismo fuere ejecutado directa o indirectamente por ésta.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN CUATRO
 
@@ -1789,7 +1797,7 @@ En la autorización que se otorgue, se especificará que la misma es para efecto
 
 El título legal a través del cual se otorgue el uso y/o aprovechamiento de bienes muebles o inmuebles para la instrumentación de un proyecto para prestación de servicios a largo plazo, deberá tener una vigencia igual a la del contrato por el que se formalice dicho proyecto.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN CINCO
 
@@ -1813,7 +1821,7 @@ V.- Durante el desarrollo del proyecto y la vigencia del Contrato, fungir como e
 
 VI.- Integrar y resguardar durante la vigencia del proyecto, toda la documentación e información relacionada con el mismo.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN SEIS
 
@@ -1885,7 +1893,7 @@ Para tales efectos, el Contrato deberá contener la forma en que se ejercerá la
 
 En ningún caso el Contrato tendrá por objeto principal la adquisición forzosa de los bienes con los que se prestarán los servicios.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN SIETE
 
@@ -1901,7 +1909,7 @@ Una vez autorizado el proyecto de Contrato, la Contratante podrá solicitar que 
 
 Cualquier modificación que pudiere surgir como resultado de las juntas de aclaraciones o negociaciones con los posibles Proveedores, deberá presentarse para autorización de la Secretaría o del Ayuntamiento, según corresponda, en caso de que se modifiquen sustancialmente los términos originalmente presentados.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 SECCIÓN OCHO
 
@@ -1931,7 +1939,7 @@ La Secretaría y los Comités Municipales, adjudicarán los contratos para la in
 
 ### CAPÍTULO I. INFORMACIÓN Y VERIFICACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 131.
 
@@ -1939,7 +1947,7 @@ La Secretaría, el Comité Municipal, la SEDECAP, el Ayuntamiento o la Contralor
 
 La información a que se refiere este artículo deberá remitirse por las dependencias, entidades o Ayuntamientos, a la SEDECAP o Contraloría Municipal, según corresponda, preferentemente a través de medios magnéticos o remotos de comunicación electrónica, dependiendo de la naturaleza de los datos y conforme a las disposiciones administrativas que para tal efecto establezcan la propia SEDECAP o Contraloría Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 132.
 
@@ -1949,7 +1957,7 @@ Las dependencias, entidades o Ayuntamientos conservarán en forma ordenada y sis
 
 Tratándose de los archivos de la Secretaría, de los Comités Municipales y del área general de servicios administrativos o unidad encargada de llevar a cabo los procedimientos de adquisiciones en el ámbito municipal, los expedientes y documentación arriba señalados deberán conservarse por un lapso no menor de cinco años, contados a partir de la fecha de su recepción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 133.
 
@@ -1963,7 +1971,7 @@ La SEDECAP, la Secretaría, las Contralorías Municipales y los Comités Municip
 
 Para los efectos de la revisión a que se refiere este artículo, las Dependencias y Entidades estarán obligadas a permitir el acceso a los almacenes, bodegas o lugares en los que se presten los servicios o se hallen los bienes, así como a firmar los dictámenes que al efecto se levanten.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2005)</small>
 
 ###### ARTÍCULO 134.
 
@@ -2213,7 +2221,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de febrero del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS ALBERTO JULIÁN Y NÁCER.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE AGOSTO DE 2002.
 
@@ -2286,3 +2294,9 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO.- El Titular de la Secretaría de Finanzas y Administración, determinará el área encargada de realizar las acciones que competan a dicha Dependencia en materia de proyectos para prestación de servicios a largo plazo.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
