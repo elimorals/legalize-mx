@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-deuda-publica-para-el-estado-libre-y-soberano-de-53549"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2006-12-18"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -425,6 +425,10 @@ IV.- Información sobre el destino del financiamiento y/o empréstito; y
 
 V.- Cualquier otro requisito que en forma general determine el Ejecutivo del Estado, a través de la Secretaría, o el Gobierno Municipal en el ámbito de sus respectivas competencias.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+ARTÍCULO 29 BIS.- El Gobierno del Estado por conducto de la Secretaría podrá celebrar convenios a través de los cuales pueda asumir, dentro del ámbito de su competencia, obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos a los que se refiere el artículo 18 Bis de la Ley de Entidades Paraestatales del Estado de Puebla, y obligarse a resarcir el daño o perjuicio que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer, sin que ello constituya Deuda Pública del Estado, toda vez que el Estado en ningún caso garantizará ni avalará las obligaciones de pago contraídas por dichos fideicomisos u organismos públicos descentralizados. En los convenios a que se refiere este párrafo, los organismos públicos descentralizados no podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
+
 ###### ARTÍCULO 30.
 
 Corresponde a la Secretaría operar el Registro Único de Obligaciones y Empréstitos del Estado, el cual tendrá por objeto hacer constar para efectos declarativos las obligaciones directas o contingentes a cargo de los sujetos de esta Ley; el cumplimiento de las mismas, en los casos que proceda; así como de expedir a todos aquéllos que acrediten su interés jurídico, las certificaciones que soliciten con respecto a los financiamientos y/o empréstitos inscritos.
@@ -492,3 +496,25 @@ QUINTO.- Se reconoce la validez de las operaciones financieras formalizadas con 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los catorce días del mes de diciembre de dos mil seis.- Diputado Presidente.- MIGUEL ÁNGEL CEBALLOS LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- MARÍA DEL ROSARIO LETICIA JASSO VALENCIA.- Rúbrica.- Diputada Secretaria.- AUGUSTA VALENTINA DÍAZ DE RIVERA HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- MIGUEL CÁZARES GARCÍA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes diciembre de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.-LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MARZO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, QUE AUTORIZA AL EJECUTIVO DEL ESTADO, PARA QUE DURANTE EL PERIODO CORRESPONDIENTE A SU GESTIÓN GUBERNAMENTAL TRAMITE Y CONTRATE ANTE EL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, S.N.C. O ANTE CUALQUIER INSTITUCIÓN DE CRÉDITO AUTORIZADA POR LA LEGISLACIÓN FEDERAL APLICABLE, FINANCIAMIENTOS HASTA POR LA CANTIDAD DE UN MIL QUINIENTOS MILLONES DE PESOS, RELATIVO AL FONDO DE APOYO PARA INFRAESTRUCTURA Y SEGURIDAD Y AL FONDO NACIONAL DE INFRAESTRUCTURA; A QUE MODIFIQUE SU DEUDA PÚBLICA VIGENTE Y A CONTRATAR UNO O VARIOS FINANCIAMIENTOS Y/O EMPRÉSTITOS POR LA CANTIDAD DE $750,000,000.00 (SETECIENTOS CINCUENTA MILLONES DE PESOS 00/100 M.N.) O EL EQUIVALENTE AL VEINTICINCO POR CIENTO DE LOS INGRESOS CORRESPONDIENTES A LOS RECURSOS DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LAS ENTIDADES FEDERATIVAS QUE SEAN SUSCEPTIBLES DE ACEPTACIÓN CONFORME A LA LEY; CONSTITUYA UN FIDEICOMISO CUYO OBJETO SEA ADQUIRIR POR CUALQUIER TÍTULO, DE FORMA IRREVOCABLE, HASTA LA TOTALIDAD DE LOS INGRESOS PRESENTES Y FUTUROS PROVENIENTES DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL, ASÍ COMO LA CONTRATACIÓN DE CRÉDITOS, PRESTAMOS, EMPRÉSTITOS O FINANCIAMIENTOS DE CUALQUIER NATURALEZA, INCLUYENDO LA EMISIÓN DE VALORES, HASTA POR UN MONTO DE TRES MIL QUINIENTOS MILLONES DE PESOS; QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA, Y DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y QUE AUTORIZA AL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA PARA QUE EN LA PRESENTE ADMINISTRACIÓN ESTATAL CONSTITUYA UN FIDEICOMISO CUYO OBJETO SEA ADQUIRIR POR CUALQUIER TÍTULO, DE FORMA IRREVOCABLE, HASTA LA TOTALIDAD DE SUS INGRESOS, PRESENTES Y FUTUROS, DERIVADOS DE LOS SERVICIOS PRESTADOS CON RELACIÓN AL REGISTRO PÚBLICO DE LA PROPIEDAD, ASÍ COMO LA CONTRATACIÓN DE CRÉDITOS, PRÉSTAMOS, EMPRÉSTITOS O FINANCIAMIENTOS DE CUALQUIER NATURALEZA, INCLUYENDO LA EMISIÓN DE VALORES HASTA POR UN MONTO DE UN MIL QUINIENTOS MILLONES DE PESOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+En caso, de que llegaren a existir recursos disponibles en el Fondo de Apoyo para Infraestructura y Seguridad y en el Fondo Nacional de Infraestructura a que se refiere el inciso (a) del Artículo Primero de la Sección Primera del presente Decreto, de manera posterior a la contratación de los financiamientos previstos en dicho Artículo, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá gestionar y tramitar la obtención de recursos hasta por los montos que estén disponibles para tales fines, conforme a las Reglas de Operación y/o demás disposiciones que para tales efectos se emitan.
+
+###### ARTÍCULO TERCERO.
+
+El monto de las modificaciones que se realicen en términos de lo señalado en el Artículo Quinto de la Sección Primera del presente Decreto, no se considerará dentro del monto autorizado en los incisos (a) y (c) del Artículo Primero de la misma Sección.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
