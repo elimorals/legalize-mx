@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2011-12-13"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2012.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -279,7 +279,7 @@ El Reclutamiento se llevará a cabo a través de convocatorias públicas abierta
 
 El reclutamiento del personal operativo de confianza se hará por medio de convocatoria pública difundida en la página de internet del Instituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 19.
 
@@ -687,9 +687,9 @@ CUARTO.- Las disposiciones normativas derivadas de este Estatuto y los procedimi
 
 QUINTO.- Los servidores públicos que hayan obtenido la titularidad de su plaza conforme al Acuerdo por el que se establecen las Reglas del Sistema Integral de Profesionalización, publicado en el Diario Oficial de la Federación el 11 de noviembre de 1994, serán considerados Servidores Públicos Profesionales de Carrera, y les aplicará este Estatuto a partir de su entrada en vigor.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 30 DE MARZO DE 2012)</small>
 
-SEXTO.- A la entrada en vigor del Estatuto, los servidores públicos que ocupen plazas correspondientes a los rangos que conforman el Subsistema de Personal de Confianza, y que no tengan la titularidad de su plaza en los términos del artículo transitorio anterior, no se considerarán miembros del Sistema y la evaluación para su ingreso a éste deberá realizarse a más tardar el 31 de diciembre de 2012; los servidores públicos que no acrediten esta evaluación serán separados de su encargo en los términos del presente Ordenamiento.
+SEXTO.- A la entrada en vigor del Estatuto, los servidores públicos que ocupen plazas correspondientes a los rangos que conforman el Subsistema de Personal de Confianza, y que no tengan la titularidad de su plaza en los términos del artículo transitorio anterior, no se considerarán miembros del Sistema y la evaluación para su ingreso a éste deberá realizarse a más tardar el 31 de diciembre de 2012, los servidores públicos que aprueben esta evaluación en los términos que establezca la Comisión del Servicio Profesional de Carrera, serán miembros del Sistema, los que no logren calificación aprobatoria deberán ser evaluados nuevamente en un plazo no mayor de un año. De no aprobar esta segunda evaluación serán separados de su encargo.
 
 SEPTIMO.- Hasta en tanto se publiquen las disposiciones normativas a que hace referencia el artículo Cuarto Transitorio y para asegurar la continuidad de las tareas encomendadas al Instituto, las plazas correspondientes a los rangos del Sistema que se encuentren vacantes a la fecha de entrada en vigor de este Estatuto, se considerarán temporalmente de libre designación. Los servidores públicos que ocupen las plazas podrán permanecer un plazo no mayor de un año a partir de la publicación de las disposiciones normativas. Dentro de ese lapso, las plazas deberán someterse a concurso en los términos de este Estatuto.
 
@@ -710,3 +710,7 @@ D.O.F. 13 DE DICIEMBRE DE 2011.
 PRIMERO. Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los recursos de reconsideración que se hubieren interpuesto antes de la entrada en vigor del presente Acuerdo se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su presentación.
+
+D.O.F. 30 DE MARZO DE 2012.
+
+UNICO. Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
