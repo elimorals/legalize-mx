@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2009-02-24"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2002-01-08"
 ---
 # LEY DE PROTECCION Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MEXICO -- ANTES LEY DE PROTECCION A LOS ANIMALES DE LA CIUDAD DE MEXICO -- ANTES LEY DE PROTECCION A LOS ANIMALES DEL DISTRITO FEDERAL --
 
-LEY DE PROTECCION A LOS ANIMALES DEL DISTRITO FEDERAL
+LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -46,7 +46,7 @@ DECRETO LEY DE PROTECCIÓN A LOS ANIMALES DEL DISTRITO FEDERAL
 
 ### Capítulo I. De las Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 1°.
 
@@ -98,7 +98,7 @@ Funcionarán conforme a lo dispuesto por su propio Reglamento, que emitirá la S
 
 En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 2°.
 
@@ -168,7 +168,7 @@ XV. Silvestres, y
 
 XVI. Acuarios y Delfinarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 3°.
 
@@ -354,7 +354,7 @@ IV. Participar en las instancias de carácter social y vecinal, que cuiden, asis
 
 V. Cuidar y velar por la observancia y aplicación de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 5°.
 
@@ -526,6 +526,10 @@ g. Impedir y remitir ante la autoridad competente a los infractores que celebren
 
 Las disposiciones contenidas en esta fracción no sustituyen las facultades que sobre esta materia esta Ley otorga a otras entidades y dependencias de la administración pública del Distrito Federal.
 
+> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2012)</small>
+
+h) Realizar operativos en los mercados y establecimientos que se tengan identificados los cuales se dediquen a la venta de animales, a fin de detectar posibles anomalías en dichos centros y establecimientos.
+
 III. Coadyuvar en el cumplimiento de las disposiciones de esta Ley;
 
 IV. Ordenar las medidas de seguridad relacionadas con las fracciones I y IV del artículo 59 de la presente Ley; y
@@ -644,7 +648,7 @@ La Secretaría, implementará el Censo, Registro y Control de las Asociaciones d
 
 Para ello el Reglamento establecerá los mecanismos del Registro, así como los requisitos a cumplir.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 14.
 
@@ -662,7 +666,7 @@ II. Objeto social, descripción de la organización y estructura funcional, así
 
 III. Contar con personal debidamente capacitado y con conocimientos suficientes demostrables en materia de protección a los animales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 15.
 
@@ -678,7 +682,7 @@ El reglamento de la presente Ley establecerá los requisitos y las condiciones p
 
 La Secretaría de Salud y las delegaciones, según corresponda, autorizarán la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas que así lo soliciten al efectuar visitas de verificación, así como cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin, y cuando estas se realicen a establecimientos que manejen animales.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ### Capítulo IV. De las disposiciones complementarias al Fondo Ambiental Público
 
@@ -722,7 +726,7 @@ VII. Un investigador de universidades o centros de investigación experto en la 
 
 Este Consejo se reunirá por lo menos cada seis meses, previa convocatoria que para tal efecto expida el presidente del mismo, notificándose con quince días de anticipación a la celebración de la sesión que incluya el orden del día de los asuntos a tratar.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ### Capítulo V. De las disposiciones complementarias a las Normas Ambientales para el Distrito Federal
 
@@ -928,7 +932,7 @@ La o el propietario de cualquier animal, cuando sea posible según la especie, e
 
 Toda persona que no pueda hacerse cargo de su animal podrá venderlos o buscarles alojamiento y cuidado, y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 30.
 
@@ -946,7 +950,7 @@ La captura no se llevará a cabo si una persona comprueba ser propietaria del an
 
 Asimismo, se sancionará a aquella persona que agreda al personal encargado de la captura de animales abandonados o ferales y que causen algún daño a vehículos o al equipo utilizado para tal fin.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 32.
 
@@ -1038,7 +1042,7 @@ Los establecimientos, instalaciones y prestadores de servicios que manejen anima
 
 Para garantizar el trato digno en la movilización y traslado de animales se deberá cumplir con lo establecido en las normas oficiales mexicanas y, en su caso, las normas ambientales.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 45.
 
@@ -1088,7 +1092,7 @@ Ningún alumno(a) podrá ser obligado(a) a experimentar con animales contra su v
 
 Cuando los casos sean permitidos, ningún animal podrá ser usado más de una vez en experimentos de vivisección, debiendo previamente ser insensibilizado, según las características de la especie y del tipo de procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención. Si sus heridas son de consideración o implican mutilación grave, serán sacrificados inmediatamente al término de la operación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 47.
 
@@ -1178,7 +1182,7 @@ En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irr
 
 ### Capítulo VIII. De la Denuncia y Vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 56.
 
@@ -1222,7 +1226,7 @@ La autoridad correspondiente ejecutará el procedimiento de verificación y vigi
 
 Conforme sea el caso, se podrán canalizar a los interesados, sin perjuicio alguno, ante el Juzgado Cívico competente, los asuntos que les corresponda conocer a dicha autoridad, cuando estos no sean competencia de las Delegaciones; la Procuraduría o la Secretaría de Salud; al que corresponderá aplicar las sanciones previstas en el capitulo X de la presente Ley, las que solamente consistirán en amonestación, multa o arresto, aplicando el procedimiento previsto en el artículo 12 Bis de la presente Ley; en cuyo caso deberá sujetarse a los dispuesto por el Código Penal para el Distrito Federal, en cuanto lo que hace al rubro de sanciones y en cuanto al procedimiento al Código de Procedimientos Penales para el Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 58.
 
@@ -1238,7 +1242,7 @@ El personal designado al efecto debe contar con conocimientos en las materias qu
 
 ### Capítulo IX. De las Medidas de Seguridad
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE OCTUBRE DE 2006)</small>
 
 ###### Artículo 59.
 
@@ -1290,7 +1294,7 @@ La imposición de las sanciones previstas por la presente Ley, no excluye la res
 
 Cuando en los procedimientos que establece esta Ley, obren pruebas obtenidas por la Secretaría de Seguridad Pública del Distrito Federal con equipos y sistemas tecnológicos, las mismas se apreciarán y valorarán en términos de la Ley que regula el uso de tecnología para la Seguridad Pública del Distrito Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 63.
 
@@ -1396,7 +1400,7 @@ V. El carácter intencional, imprudencial o accidental del hecho, acto u omisió
 
 Para el caso de violaciones que realicen los laboratorios científicos o quienes ejerzan la profesión de Médico Veterinario Zootécnico, violen las obligaciones que establece la presente Ley, serán sancionados por la Secretaría de Salud, independientemente de la responsabilidad civil, penal o administrativa en la que incurran y se incrementara el monto de la multa hasta en un treinta por ciento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 69.
 
@@ -1444,7 +1448,7 @@ Recinto Legislativo, a 20 de diciembre de 2001.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los ocho días del mes de enero de dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 13 DE OCTUBRE DE 2006.
 
@@ -1467,3 +1471,9 @@ G.O. 24 DE FEBRERO DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan a la presente.
+
+G.O. 30 DE MARZO DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese para su mayor difusión en el Diario Oficial de la Federación.
