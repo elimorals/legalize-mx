@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-apertura-funcionamiento-de-molinos-y-64548"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2008-11-17"
+last_updated: "2012-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA APERTURA, FUNCIONAMIENTO DE MOLINOS Y TORTILLERIAS DE NIXTAMAL DE MAIZ, DE HARINA DE TRIGO Y SUS DERIVADOS ASI COMO LA COMERCIALIZACION EN LA VIA PUBLICA DE LOS PRODUCTOS QUE ELABORAN EN EL MUNICIPIO DE JUAREZ, NUEVO LEON
 
-REGLAMENTO PARA LA APERTURA, FUNCIONAMIENTO DE MOLINOS Y TORTILLERIAS DE NIXTAMAL DE MAIZ, DE HARINA DE TRIGO Y SUS DERIVADOS ASI COMO LA COMERCIALIZACION EN LA VIA PUBLICA DE LOS PRODUCTOS QUE ELABORAN EN EL MUNICIPIO DE JUAREZ, NUEVO LEON
+REGLAMENTO PARA LA APERTURA, FUNCIONAMIENTO DE MOLINOS Y TORTILLERÍAS DE NIXTAMAL DE MAÍZ, DE HARINA DE TRIGO Y SUS DERIVADOS ASI COMO LA COMERCIALIZACIÓN EN LA VÍA PÚBLICA DE LOS PRODUCTOS QUE ELABORAN EN EL MUNICIPIO DE JUÁREZ, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de noviembre de 2008.
 
@@ -52,19 +52,19 @@ I.- Permiso tipo "a" los otorgados a comercio establecido.
 
 II.- Permiso tipo "b" los otorgados al comercio en la vía pública.
 
-> <small>(F. DE E., P.O.19 DE DICIEMBRE DE 2008)</small>
+> <small>(F. DE E., P. O. 19 DE DICIEMBRE DE 2008)</small>
 
 III.- Molinos de nixtamal: Los establecimientos donde se prepare y/o procese masa de nixtamal, con fines comerciales.
 
-> <small>(F. DE E., P.O.19 DE DICIEMBRE DE 2008)</small>
+> <small>(F. DE E., P. O. 19 DE DICIEMBRE DE 2008)</small>
 
 IV. Tortillerías: Los establecimientos donde se elaboran, con fines comerciales las tortillas de maíz, de harina de trigo y sus derivados, por procedimientos mecánicos o manuales y utilizando como materia, harina de maíz, harina de trigo o masa de maíz nixtamalizado.
 
-> <small>(F. DE E., P.O.19 DE DICIEMBRE DE 2008)</small>
+> <small>(F. DE E., P. O. 19 DE DICIEMBRE DE 2008)</small>
 
 V.- Molinos-Tortillerías: Los establecimientos donde se prepare y/o procese el nixtamal para obtener masa, con fines comerciales y donde además se elaboren con los mismos fines las tortillas de maíz, de harina de trigo y sus derivados, por procedimientos mecánicos y manuales y utilizando como materia prima la propia masa de nixtamal, harina de trigo, en todas sus presentaciones y derivados.
 
-> <small>(F. DE E., P.O.19 DE DICIEMBRE DE 2008)</small>
+> <small>(F. DE E., P. O. 19 DE DICIEMBRE DE 2008)</small>
 
 VI.- Expendedor ambulante: Las personas físicas o morales que se dedican al comercio venta y distribución de masa, tortillas de maíz, de harina de trigo y sus derivados, en la vía Pública.
 
@@ -112,7 +112,7 @@ II.- Instrumentar acciones de coordinación y concertación para el control de l
 
 III.- La revocación de los permisos otorgados.
 
-IV.- Establecer la declaratoria de las áreas restringidas precisando en cada caso sus límites y colindancias.
+IV.- (DEROGADA, P.O. 30 DE MARZO DE 2012)
 
 V.- Reformar, adicionar y derogar las disposiciones contenidas en este Reglamento.
 
@@ -122,7 +122,7 @@ VII.- Autorizar los cambios de domicilio, traspasos y los refrendos de los permi
 
 VIII.- Formular el procedimiento para garantizar el cumplimiento de las sanciones en caso de que no se haya cumplido con las mismas.
 
-IX.- Otorgar permisos preferentemente a los habitantes que residan en el Municipio de Juárez, Nuevo León.
+IX.- (DEROGADA, P.O. 30 DE MARZO DE 2012)
 
 X.- Conocer del recurso de revisión.
 
@@ -180,7 +180,7 @@ V.- Ordenar la clausura definitiva, previo acuerdo del R. Ayuntamiento.
 
 VI.- Ordenar el retiro y/o la restitución de sellos de clausura.
 
-VII.- Ordenar se haga efectivo el resguardo del o de los productos que este relacionado con el presente Reglamento, así como los vehículos utilizados en su transporte, depositados en el lugar que la autoridad señale, así como auxiliar al Secretario del R. Ayuntamiento en la función establecida en el Artículo 10 fracción Vl del presente Reglamento.
+VII.- Ordenar se haga efectivo el resguardo del o de los productos que este relacionado con el presente Reglamento, así como los vehículos utilizados en su transporte, depositados en el lugar que la autoridad señale, así como auxiliar al Secretario del R. Ayuntamiento en la función establecida en el Artículo 10 fracción VI del presente Reglamento.
 
 VIII.- Aplicar las infracciones y medidas de seguridad que correspondan según sea el caso y en general, las demás atribuciones previstas en este Reglamento.
 
@@ -258,7 +258,7 @@ XI.- Plano de ubicación del inmueble.
 
 XII.- Se tomará en cuenta la densidad geográfica y demográfica que existe en la zona que se pretende establecer el giro.
 
-XIII.- Para la instalación de un establecimiento de nueva creación, tendrá que contar con una distancia de seiscientos metros lineales, de otro negocio similar, de acuerdo al giro que se pretenda establecer.
+XIII.- (DEROGADA, P.O. 30 DE MARZO DE 2012)
 
 XIV.- El horario para llevar a cabo cualquier giro será de 6:00 a las 18:00 horas.
 
@@ -278,7 +278,9 @@ II.- En caso de realizar la actividad en vehículo de motor, triciclo, o cualqui
 
 III.- Todo vehículo de motor, que se utilice para la distribución de las tortillas deberá contar con seguro de responsabilidad civil, así como también el conductor de la unidad deberá contar con la licencia de chofer vigente, a fin de salvaguardar los intereses de terceros en caso de accidente.
 
-IV.- Al realizar la venta de la tortilla en la vía pública, deberá cumplir con las normas establecidas por la Secretaría de Salud del Estado, así como el Reglamento Municipal Correspondiente.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2012)</small>
+
+IV.- Al realizar la venta de tortilla en la vía pública, deberá cumplir con las normas establecidas por la Secretaria de Salud del Estado, así como con las demás disposiciones establecidas en los reglamentos municipales aplicables.
 
 V.- En caso de que tenga necesidad de anunciarse, por medio del perifoneo deberá solicitar el permiso ante la Autoridad correspondiente, el cual deberá anexar al solicitar el permiso.
 
@@ -374,7 +376,9 @@ Los molinos de nixtamal y tortillerías podrán traspasarse o hacer cambio de do
 
 I.- Se deberá anexar el permiso en original a la solicitud.
 
-II.- Cumplir con los requisitos establecidos por los artículos 13, 17, 23 y 25 del presente reglamento.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2012)</small>
+
+II.- Cumplir con los requisitos establecidos por el artículo 20 del presente reglamento.
 
 III.- Identificación oficial de las personas que lo van a realizar.
 
@@ -531,3 +535,15 @@ PRESIDENTE MUNICIPAL.
 C. LUIS ALFREDO GARCÍA GARZA
 
 SECRETARIO DE AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2012.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas por derogación de la fracción IV y IX del artículo 8, así como la fracción XIII del artículo 20; así como las reformas por modificación de la fracción IV del articulo 22 y fracción II del artículo 33 del Reglamento para la Apertura, Funcionamiento de Molinos y Tortillerías de Nixtamal de Maíz, de Harina de Trigo y sus Derivados así como la Comercialización en la Vía Pública de los Productos que elaboran en el Municipio de Juárez, Nuevo León, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan así mismo todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan al contenido (sic) las presentes reformas.
