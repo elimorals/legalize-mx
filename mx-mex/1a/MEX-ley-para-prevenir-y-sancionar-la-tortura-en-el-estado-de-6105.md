@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-6105"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-25"
-last_updated: "1994-02-25"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MEXICO
 
-LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MEXICO
+LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Ley publicada en la Gaceta del Gobierno, el 25 de febrero de 1994.
 
@@ -43,21 +43,51 @@ LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE MÉXICO
 
 La presente Ley tiene por objeto la prevención y sanción de la tortura en el Estado de México.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
 ###### Artículo 2.
 
-Comete el delito de tortura el servidor público que con motivo de sus atribuciones y con el fin de obtener de un inculpado o de un tercero su confesión, información u omisión de un hecho o cualquier otra conducta que dañe al pasivo o a un tercero, realice cualquiera de los siguientes actos:
+Comete el delito de tortura el servidor público que con motivo de sus atribuciones inflija golpes, mutilaciones, quemaduras, dolor o sufrimiento físico o psíquico, coacción física, mental o moral, o prive de alimentos o agua o disminuya la capacidad física o mental, aunque no cause dolor o sufrimiento físico o psíquico, de cualquier persona, con alguno de los fines siguientes:
 
-Le inflija al inculpado, golpes, mutilaciones, quemaduras, dolor, sufrimiento físico o psíquico, lo prive de alimentos o agua. Es igualmente responsable el servidor público que instigue, compela, autorice, ordene o consienta su realización, así como quienes participen en la comisión del delito.
+I. Obtener del sujeto pasivo o de un tercero información o confesión, o la realización u omisión de una conducta determinada;
 
-No se considerarán como tortura las penalidades que sean consecuencia de sanciones legales o derivadas de un acto legitimo de autoridad.
+II. Castigarla por cualquier acto que haya cometido o se sospeche que ha cometido; o
+
+III. Obtener placer para sí o para algún tercero.
+
+IV. O cualquier otro fin que atente contra la seguridad del pasivo o de un tercero.
+
+Se le impondrá una pena de tres a doce años de prisión, de doscientos a quinientos días multa y destitución del cargo e inhabilitación para desempeñar otro de esta misma naturaleza, por un término hasta de veinte años, sin perjuicio de las penas que correspondan a otros delitos que concurran.
+
+No se considerarán como tortura las penalidades que sean consecuencia de sanciones legales o derivadas de un acto de autoridad.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
 
 ###### Artículo 3.
 
-A quien cometa el delito de tortura se le impondrá una pena de tres a doce años de prisión, de doscientos a quinientos días multa y destitución del cargo e inhabilitación para desempeñar otro de esta misma naturaleza, por un término hasta de veinte años, sin perjuicio de las penas que correspondan a otros delitos que concurran.
+Es igualmente responsable del delito de tortura el servidor público que con motivo de sus atribuciones ordene, instigue, obligue, autorice, planee y ejecute su comisión. De igual manera a quien consienta, permita o tolere su realización, teniendo el deber de evitarlo y, pudiendo impedirlo, no lo haga.
+
+Se impondrán las mismas penas previstas para el delito de tortura al particular que participe de cualquier manera en su comisión.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
 
 ###### Artículo 4.
 
-Al servidor público encargado de la prevención e investigación de los delitos que tenga conocimiento de un hecho de tortura y no lo denuncie de inmediato, se le impondrán de uno a cuatro años de prisión y de treinta a trescientos días multa.
+El servidor público perteneciente a una institución de seguridad pública o de impartición de justicia, que tenga conocimiento de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de dos a seis años de prisión y de treinta a trescientos días multa, así como destitución del cargo e inhabilitación para desempeñar otro de esta misma naturaleza, por un término igual al de la pena privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+###### Artículo 4 Bis.
+
+Las penas señaladas en los artículos anteriores se agravarán en los siguientes casos:
+
+I. Cuando con motivo de dicha tortura se cause la muerte, se aplicará de cuarenta años de prisión a pena de prisión vitalicia;
+
+II. Cuando en la tortura intervengan dos o más personas, la pena se aumentará en una tercera parte; o
+
+III. Si la tortura es cometida en contra de niños, niñas, adolescentes, mujeres, personas mayores de setenta años, indígenas o personas que no tengan la capacidad para comprender el significado del hecho, se aumentará la pena en una mitad.
+
+Cuando con motivo de la comisión del delito de tortura concurra cualquier otro delito, se aplicarán las reglas del concurso en términos del Código Penal del Estado de México.
 
 ###### Artículo 5.
 
@@ -71,13 +101,17 @@ La tortura en ningún caso se justificará, ni por la peligrosidad de la persona
 
 En el momento en que lo solicite, cualquier persona privada de su libertad, por sí misma o por medio de su defensor o de un tercero, deberá ser examinada por un perito médico legista. A falta de éste, o si lo requiere, se hará además por un facultativo de su elección. El médico que practique el reconocimiento queda obligado a expedir de inmediato el certificado correspondiente y, en caso de apreciar que se han infligido dolores o sufrimientos de los comprendidos en el artículo 2, deberá comunicarlo de inmediato a la autoridad competente.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
 ###### Artículo 8.
 
-La confesión o información que haya sido obtenida mediante tortura no podrá invocarse como prueba.
+La confesión o información que haya sido obtenida mediante tortura no podrá admitirse como prueba.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
 
 ###### Artículo 9.
 
-No tendrá valor probatorio alguno la confesión rendida ante una autoridad judicial o el Ministerio Público, sin la presencia de su defensor o persona de confianza del inculpado y, en su caso, del intérprete del idioma o dialecto de éste.
+No tendrá valor probatorio alguno la confesión rendida por el imputado ante una autoridad judicial, sin la presencia de su defensor y, en su caso, del intérprete del idioma o dialecto de éste.
 
 ###### Artículo 10.
 
@@ -101,9 +135,15 @@ VII. Menoscabo de la reputación.
 
 Para fijar los montos correspondientes el juez tomará en cuenta la magnitud del daño causado. Para los efectos de la reparación del daño se estará a lo previsto en el Código Penal de la Entidad. El Estado y los municipios estarán obligados subsidiariamente a la reparación de los daños y perjuicios, en los términos del Código Civil del Estado de México.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
 ###### Artículo 11.
 
-Siempre que haya motivos fundados para creer que se ha cometido un acto de tortura, tal como se define en el artículo 2 de esta Ley, las autoridades competentes del Estado procederán de oficio y con celeridad a realizar la investigación y, de existir denuncia o acusación y datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del inculpado, ejercitarán la acción penal correspondiente.
+La autoridad ministerial al tener conocimiento o razones fundadas de que existen indicios o evidencias de que se ejerció tortura, en contra de cualquier persona, iniciará de inmediato y de oficio la carpeta de investigación correspondiente.
+
+El ministerio público deberá solicitar los exámenes especializados para la víctima y realizar las diligencias que establecen la ley, los protocolos y los tratados internacionales aplicables.
+
+La autoridad jurisdiccional al tener conocimiento o razones fundadas de que existen indicios o evidencias de que se ejerció tortura en contra de un imputado, testigo, víctima, ofendido o cualquier persona, inmediatamente lo hará del conocimiento a la autoridad ministerial.
 
 ###### Artículo 12.
 
@@ -118,6 +158,12 @@ III. La profesionalización de sus cuerpos policiales; y
 IV. La profesionalización de los servidores públicos que participen en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión.
 
 La Comisión de Derechos Humanos del Estado de México, en el ámbito de su competencia, podrá participar en la ejecución de los programas que se mencionan en este artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+###### Artículo 13.
+
+En lo no previsto en la presente Ley, se aplicará lo dispuesto en el Código Penal y el Código de Procedimientos Penales, ambos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -144,3 +190,13 @@ LIC. EMILIO CHUAYFFET CHEMOR
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CESAR CAMACHO QUIROZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las conductas típicas previstas y sancionadas con anterioridad, se trasladaran o adecuaran al tipo penal descrito en la presente Reforma, en aquellos hechos que se hayan cometido con anterioridad a la entrada en vigor de este Decreto.
