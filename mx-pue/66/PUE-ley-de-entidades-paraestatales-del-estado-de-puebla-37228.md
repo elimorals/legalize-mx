@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-entidades-paraestatales-del-estado-de-puebla-37228"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2011-03-09"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el Viernes 19 de diciembre de 2003.
 
@@ -131,7 +131,7 @@ REFORMADO, P.O. 9 DE MARZO DE 2011)
 
 En materia de presupuesto, recursos, bienes y demás, las Entidades Paraestatales se sujetarán a los lineamientos y normatividad que al respecto establezcan las Secretarías de Finanzas y de Administración.
 
-REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
+REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)
 
 ###### ARTÍCULO 7.
 
@@ -254,6 +254,22 @@ REFORMADO, P.O. 9 DE MARZO DE 2011)
 ###### ARTÍCULO 18.
 
 El Director General, para el eficaz cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que requiera y le sean autorizados por su Órgano de Gobierno, conforme al Presupuesto de Egresos y a la estructura orgánica validada por la Secretaría de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+###### ARTÍCULO 18 Bis.
+
+Los Organismos Públicos Descentralizados, previa autorización del Congreso del Estado y siempre y cuando su Ley o Decreto de creación así lo prevea, podrán participar, como fideicomitentes y/o fideicomisarios, en fideicomisos que tengan como fin la contratación de créditos, préstamos, empréstitos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, servir como instrumento de garantía, medios de pago o medios alternos de pago de obligaciones contraídas por los propios Organismos Públicos Descentralizados o directamente por dichos fideicomisos.
+
+Para efectos de lo dispuesto en el párrafo anterior, los Organismos Públicos Descentralizados podrán, previa autorización del Congreso del Estado, afectar en fideicomiso y/o transmitir de cualquier forma, los flujos provenientes de sus ingresos, presentes y/o futuros, derivados de los servicios que presten, a cambio de una contraprestación o de los recursos que deban serle pagados por el fideicomiso correspondiente. Una vez que dicha afectación o transmisión quede perfeccionada, el Organismo Público Descentralizado no podrá revocar o revertir la misma, sin la previa autorización del Congreso del Estado, los fideicomisarios y los acreedores del fideicomiso.
+
+En ningún caso, la afectación y/o transmisión de los flujos provenientes de los ingresos a que se refiere el párrafo anterior, se considerará como cesión o transmisión de la atribución de recaudar los mencionados ingresos.
+
+Los fideicomisos a que se refiere este artículo no constituirán fideicomisos públicos en los términos del artículo 28 de la presente Ley, y su operación, control y régimen financiero no estarán sujetos a las disposiciones aplicables a la Administración Pública Estatal, salvo respecto de los asuntos que, en su caso, prevean expresamente las leyes aplicables, estando sujetos exclusivamente a las disposiciones que se estipulen en el Decreto por el que el Congreso del Estado autorice su creación, en el propio contrato de fideicomiso y las demás disposiciones mercantiles, financieras y/o bursátiles aplicables. Durante la vigencia del fideicomiso, los recursos que por cualquier título adquiera el mismo, así como los recursos, ingresos, bienes, derechos y/o activos que el Organismo Público Descentralizado transmita y/o afecte al propio fideicomiso en calidad de fideicomitente, integrarán el patrimonio fideicomitido y estarán destinados exclusivamente al cumplimiento de sus fines.
+
+Los ingresos que reciban los Organismos Públicos Descentralizados de los fideicomisos en los que participen como fideicomitentes y fideicomisarios en términos de este artículo, deberán ser aplicados conforme a las disposiciones constitucionales y legales aplicables, en términos de las autorizaciones correspondientes.
+
+Los Organismos Públicos Descentralizados, en los términos previamente aprobados por la Secretaría de Finanzas, podrán celebrar convenios a través de los cuales asuman obligaciones de hacer y no hacer, así como comparecer ante terceros y formular declaraciones en relación con las operaciones a que se refiere el presente artículo las cuales no constituirán deuda pública del Estado, siempre que cuenten con esta atribución expresamente en la ley de su creación y dichas obligaciones y declaraciones no constituyan garantías en favor de terceros. En los convenios que celebren los Organismos Públicos Descentralizados conforme a lo antes mencionado, podrán obligarse a resarcir el daño o perjuicio que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer o por la inexactitud de sus declaraciones, sin que ello constituya Deuda Pública de conformidad con la Ley de Deuda Pública para el Estado Libre y Soberano de Puebla. En los convenios a que se refiere este párrafo, los Organismos Públicos Descentralizados no podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
 
 ###### ARTÍCULO 19.
 
@@ -609,6 +625,10 @@ REFORMADO, P.O. 9 DE MARZO DE 2011)
 
 La Secretaría de la Contraloría, podrá revisar, auditar o evaluar a las Entidades Paraestatales cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del Sistema de Control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 54 de esta Ley, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+De igual forma, la Secretaría de la Contraloría podrá revisar, auditar o evaluar, según corresponda, los fideicomisos en los que participen como fideicomitentes y fideicomisarios cualquier Organismo Público Descentralizado en términos del artículo 18 Bis de esta Ley, teniendo facultades para requerir a los fiduciarios de dichos fideicomisos, la información necesaria que permita comprobar, entre otras cosas, el cumplimiento de los fines del fideicomiso y el adecuado uso de los recursos afectos al mismo.
+
 ###### ARTÍCULO 57.
 
 En aquellos casos en los que el Órgano de Gobierno o el Director General de la Entidad Paraestatal, no dieren cumplimiento a las obligaciones legales que se les atribuyen en este Ordenamiento, el Ejecutivo del Estado por conducto de las dependencias competentes, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
@@ -651,7 +671,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de diciembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE MARZO DE 2011.
 
@@ -666,3 +686,23 @@ La sectorización establecida en los Instrumentos de Creación de los Organismos
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE MARZO DE 2012.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE ADICIONA EL ARTÍCULO 18 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 56 DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+En caso, de que llegaren a existir recursos disponibles en el Fondo de Apoyo para Infraestructura y Seguridad y en el Fondo Nacional de Infraestructura a que se refiere el inciso (a) del Artículo Primero de la Sección Primera del presente Decreto, de manera posterior a la contratación de los financiamientos previstos en dicho Artículo, el Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá gestionar y tramitar la obtención de recursos hasta por los montos que estén disponibles para tales fines, conforme a las Reglas de Operación y/o demás disposiciones que para tales efectos se emitan.
+
+###### ARTÍCULO TERCERO.
+
+El monto de las modificaciones que se realicen en términos de lo señalado en el Artículo Quinto de la Sección Primera del presente Decreto, no se considerará dentro del monto autorizado en los incisos (a) y (c) del Artículo Primero de la misma Sección.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
