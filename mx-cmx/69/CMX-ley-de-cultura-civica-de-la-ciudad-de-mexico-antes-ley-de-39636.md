@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2011-02-16"
+last_updated: "2012-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2004-05-19"
 ---
 # LEY DE CULTURA CIVICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL --
 
-LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL
+LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 2012.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -110,13 +110,13 @@ XVII. Secretario; al Secretario del Juzgado, y (sic)
 
 XVIII. Médico, al médico o médico legista;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
 
 XIX. Adolescente: las personas cuya edad se encuentra comprendida entre los doce años cumplidos y menos de dieciocho años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -172,7 +172,7 @@ Corresponde al Jefe de Gobierno:
 
 I. Aprobar el número, distribución y competencia territorial de los Juzgados Cívicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -214,19 +214,19 @@ XV. Integrar el Registro de Infractores;
 
 XVI. Establecer las equivalencias entre los arrestos y el tiempo de realización de las actividades de apoyo a la comunidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
 XVII. Establecer, con la Secretaría, los mecanismos necesarios para el intercambio de información respecto de las remisiones de infractores, procedimientos iniciados y concluidos, sanciones aplicadas e integración del Registro de Infractores;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
 XVIII. Contar con los peritos necesarios, en materia de tránsito terrestre y demás que se requieran, para atender el procedimiento establecido en el Capítulo IV, del Título Cuarto de esta Ley, quienes tendrán como principios rectores: la especialización, el profesionalismo y la imparcialidad; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -276,43 +276,43 @@ A la Dirección le corresponde:
 
 I. La ejecución de las normas internas de funcionamiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
 II. En ejercicio de la facultad que le delegue el Jefe de Gobierno, nombrar, remover y adscribir a los jueces cívicos y secretarios de juzgado cívico;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
 III. La supervisión, control y evaluación de los Juzgados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
 IV. Conocer de la queja a que se refiere el artículo 103 de esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
 V. Condonar las sanciones impuestas por el Juez;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
 VI. Rotar periódicamente a los jueces cívicos y secretarios de juzgado cívico, según las necesidades del servicio;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
 
 VII. Recibir para su guarda y destino correspondiente, los documentos y objetos que le remitan los Juzgados, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -414,9 +414,9 @@ III. Organizar la participación vecinal para la prevención de infracciones.
 
 Los Jueces participarán activamente en los Comités Delegacionales de Seguridad Pública, así como en los programas de Seguridad Pública que promueva la Administración Pública del Distrito Federal, en los términos que determine la Consejería.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -530,19 +530,19 @@ XIV. Percutir armas de postas, diábolos, dardos o municiones contra personas o 
 
 XV. Participar de cualquier manera, organizar o inducir a otros a realizar competencias vehiculares de velocidad en vías públicas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
 XVI. Hacer disparos al aire con arma de fuego;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
 XVII. Organizar o participar en peleas de animales, de cualquier forma; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -562,7 +562,7 @@ La infracción establecida en la fracción XI se sancionará con arresto de 25 a
 
 Las infracciones establecidas en las fracciones XV, XVI y XVII se sancionarán con arresto de 20 a 36 horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -582,25 +582,25 @@ VI. Multa por el equivalente de 2186 a 3275 días de salario mínimo, cuando el 
 
 VII. Multa por el equivalente de 3276 días de salario mínimo y hasta por el monto total del valor comercial del vehículo, cuando el monto del daño causado exceda de ciento ochenta mil pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
 Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
 Sólo se conmutará el arresto si, además de los requisitos que señala esta ley, el conductor responsable acredita su domicilio, señala domicilio en el Distrito Federal para oír y recibir notificaciones, y menciona, en su caso, el domicilio del propietario del vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -610,7 +610,9 @@ En el supuesto de la fracción XVIII de este artículo, si con los elementos de 
 
 Son infracciones contra el entorno urbano de la Ciudad de México:
 
-I. Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad o bajo su custodia;
+> <small>(REFORMADA, G.O. 30 DE MARZO DE 2012)</small>
+
+I. Abstenerse de recoger, de vías o lugares públicos, las heces fecales de un animal de su propiedad o bajo su custodia, así como tirar o abandonar dichos desechos fuera de los contenedores.
 
 II. Orinar o defecar en los lugares a que se refiere el artículo 5° de la presente Ley;
 
@@ -678,7 +680,7 @@ Cuando las conductas sancionadas por esta Ley sean cometidas en cumplimiento de 
 
 En todos los casos y para efectos de la individualización de la sanción, el Juez considerará como agravante el estado de ebriedad del infractor o su intoxicación por el consumo de estupefacientes, psicotrópicos o sustancias tóxicas al momento de la comisión de la infracción; pudiéndose aumentar la sanción hasta en una mitad sin exceder el máximo establecido para el caso del arresto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -736,7 +738,7 @@ En el supuesto de que el infractor no realice las actividades de apoyo a la comu
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -762,7 +764,7 @@ Las actuaciones deberán constar por escrito y permanecerán en el local del Juz
 
 Cuando el probable infractor no hable español, o se trate de un sordomudo, y no cuente con traductor o intérprete, se le proporcionará uno, sin cuya presencia el procedimiento administrativo no podrá dar inicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -848,7 +850,7 @@ I. Cuando presencien la comisión de la infracción, y
 
 II. Cuando sean informados de la comisión de una infracción inmediatamente después de que hubiese sido realizada o se encuentre en su poder el objeto o instrumento, huellas o indicios que hagan presumir fundadamente su participación en la infracción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -878,7 +880,7 @@ El policía proporcionará al quejoso, cuando lo hubiere, una copia de la boleta
 
 El Juez llevará a cabo las siguientes actuaciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -894,7 +896,7 @@ IV. Resolverá sobre la responsabilidad del presunto infractor.
 
 Los procedimientos serán desahogados y resueltos de inmediato por el Juez que los hubiere iniciado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1000,7 +1002,7 @@ En caso de que haya más de un quejoso, deberán nombrar un representante común
 
 ### CAPÍTULO IV.. PROCEDIMIENTO EN CASOS DE DAÑO CULPOSO CAUSADO CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1008,7 +1010,7 @@ En caso de que haya más de un quejoso, deberán nombrar un representante común
 
 Cuando se actualicen las conductas previstas en la fracción XVIII del artículo 25 de esta Ley, y las personas involucradas se encuentren ante la presencia del Juez, éste hará de su conocimiento, dejando constancia escrita de ello, los beneficios de conciliar sus intereses; la sanción que puede ser impuesta al responsable de los daños en caso de no llegar a un arreglo; la situación de los vehículos implicados; las actuaciones, alcances y efectos del procedimiento de conciliación; así como los derechos y acciones que, en su caso, pueden ejercer ante la autoridad judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1018,7 +1020,7 @@ El Juez Cívico tomará la declaración de los conductores involucrados y, en su
 
 Cuando alguno de los conductores se niegue a rendir su declaración, se dará preponderancia, para la emisión del dictamen de tránsito terrestre, valoración de las probanzas y emisión de la resolución correspondiente, a las declaraciones rendidas por los demás conductores y testigos de los hechos. Los peritos en tránsito terrestre, en todos los casos, deberán rendir el dictamen correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1030,7 +1032,7 @@ Cuando el número de vehículos implicados sea superior a cuatro, el juez podrá
 
 Si el perito rinde su dictamen fuera de los plazos previstos en este artículo, el Juez notificará de esta irregularidad a las autoridades competentes, para los efectos sancionatorios administrativos conducentes, sin afectar la validez del dictamen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1038,7 +1040,7 @@ Si el perito rinde su dictamen fuera de los plazos previstos en este artículo, 
 
 El Juez Cívico, con la presencia de los involucrados y con base en el dictamen pericial y demás elementos de prueba que tenga a su alcance, celebrará audiencia en la que hará del conocimiento de los conductores el resultado del dictamen, así como el monto de los daños causados, y procurará su avenimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1048,7 +1050,7 @@ Cuando los conductores involucrados lleguen a un acuerdo, se hará constar por e
 
 Al conductor o conductores que no resulten responsables de los daños, les serán devueltos sus vehículos sin mayor trámite.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1058,7 +1060,7 @@ El convenio que, en su caso, suscriban los interesados, ante la presencia del Ju
 
 Para su validez, en todo convenio se hará constar la forma en que se garantice su cumplimiento, a través de alguna de las formas previstas en la ley correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1080,7 +1082,7 @@ VI. Remitirá a la autoridad judicial, dentro de las 24 horas siguientes a la de
 
 Cuando se prevenga la demanda por causas provocadas por el agraviado y no se desahogue, se procederá en los términos del artículo siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1106,7 +1108,7 @@ II. No reincidir en conductas que den motivo a un nuevo procedimiento.
 
 En el convenio se establecerá el término para el cumplimiento de lo señalado en la fracción l, así como para los demás acuerdos que asuman las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1134,7 +1136,7 @@ IV. Acordará la admisión de las pruebas y las desahogará de inmediato, y
 
 V. Resolverá sobre la conducta imputada, considerando todos los elementos que consten en el expediente y resolverá sobre la responsabilidad del probable infractor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -1152,9 +1154,9 @@ Cuando a consecuencia de un conflicto familiar o conyugal se cometa alguna o alg
 
 El Juez canalizará, mediante oficio, a los involucrados a las instituciones públicas especializadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 13 DE MARZO DE 2008)</small>
 
 ###### Artículo 78.
 
@@ -1218,7 +1220,7 @@ I. Sala de audiencias;
 
 II. Sección de recuperación de personas en estado de ebriedad o intoxicadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2011)</small>
 
@@ -1498,7 +1500,7 @@ POR LA MESA DIRECTIVA, DIP. FRANCISCO CHIGUIL FIGUEROA.- PRESIDENTE.- DIP. MA. E
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de mayo del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, LIC. MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 9 DE JUNIO DE 2006.
 
@@ -1512,7 +1514,7 @@ CUATRO.- El Jefe de Gobierno del Distrito Federal expedirá el Reglamento que re
 
 G.O. 13 DE MARZO DE 2008.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día primero de julio del año dos mil ocho.
 
@@ -1561,3 +1563,11 @@ Primero.- Publíquese en la Gaceta Oficial del Distrito Federal; y su para (sic)
 Segundo.- El presente Decreto entrará en vigor a los treinta días naturales posteriores a su publicación.
 
 Tercero.- El Jefe de Gobierno del Distrito Federal, contará con noventa días naturales, a partir de la publicación del presente decreto, para realizar las adecuaciones necesarias al Reglamento de la Ley de Cultura Cívica del Distrito Federal.
+
+G.O. 30 DE MARZO DE 2012.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
