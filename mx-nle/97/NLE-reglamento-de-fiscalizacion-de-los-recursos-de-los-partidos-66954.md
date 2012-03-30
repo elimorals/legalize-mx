@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-fiscalizacion-de-los-recursos-de-los-partidos-669
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-06"
-last_updated: "2009-02-06"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "NLE"
 
 REGLAMENTO DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -80,7 +80,9 @@ Artículo No. 7. El órgano interno de finanzas de los partidos políticos será
 
 Artículo No. 8. Los partidos políticos deberán contar con una estructura organizacional bien definida, misma que permita identificar a los responsables de las funciones administrativas financieras en sus diferentes fases de obtención, registro, control y aplicación de recursos, así como de la presentación de los informes respectivos ante la Dirección de Fiscalización.
 
-Artículo No. 9. En todo tiempo los partidos políticos podrán hacer modificaciones a la estructura de su órgano interno de finanzas, en cuyo caso informará a la Dirección de Fiscalización el nombre del o los responsables del órgano interno de finanzas, en un término que no exceda de 15 días.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 9. En todo tiempo los partidos políticos podrán hacer modificaciones a la estructura de su órgano interno de finanzas, en cuyo caso informará a la Dirección de Fiscalización el nombre del o los responsables del órgano interno de finanzas, en un término que no exceda de 30 dias a partir de la fecha del nombramiento.
 
 #### Sección C. Del Registro Contable
 
@@ -92,6 +94,18 @@ Artículo No. 12. El órgano interno de finanzas de los Partidos Políticos gene
 
 En el caso de contar con déficit o remanente de ejercicios anteriores, los partidos políticos no podrán realizar ajustes sin la debida autorización de la Dirección de Fiscalización, para lo cual deberán dirigir una solicitud por escrito en la que se expresen los motivos por los cuales se pretenden realizar los ajustes respectivos.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+La solicitud deberá contener al menos los requisitos siguientes:
+
+1.- Presentarse por escrito, en hoja membretada y dirigirse al Director de Fiscalización.
+
+2.- Contener el motivo por el que se pretende realizar el ajuste.
+
+3.- Acompañar el soporte documental que origina el ajuste.
+
+4.- Nombre y firma del Representante del Órgano Interno de Finanzas.
+
 Artículo No. 13. El órgano interno de finanzas de los Partidos Políticos deberá realizar de forma mensual las conciliaciones bancarias, basándose en el estado de cuenta del banco y registros auxiliares de bancos. Estas conciliaciones deberán ser avaladas, bajo protesta de decir verdad, con su firma por él o los responsables del propio órgano interno de finanzas.
 
 Artículo No. 14. Los bienes muebles e inmuebles que se adquieran o reciban en propiedad deberán contabilizarse como activo fijo, de acuerdo a lo contemplado en las NIF Mexicanas; aquellos recibidos para su uso o goce temporal, en que no se transfiera la propiedad se registrarán en cuentas de orden y aquellos que se adquieran y sean utilizados por los partidos políticos en campañas electorales, que al término de éstas se destinen para su uso ordinario, deberán ser registrados contablemente.
@@ -102,7 +116,17 @@ Para el caso de los partidos políticos con registro nacional, únicamente lleva
 
 Artículo No. 15. Los partidos políticos al final de cada año calendario deberán realizar un inventario físico de todos sus bienes muebles e inmuebles en cada localidad en que tengan oficinas, debiendo incluir, como activos fijos, únicamente los activos cuya vida probable sea superior a dos años y cuyo valor exceda de 50 salarios mínimos vigentes en la ciudad de Monterrey, Nuevo León.
 
-Los partidos políticos sólo podrán dar de baja sus activos fijos con base en razones relacionadas con la obsolescencia de los mismos, para lo cual deberán presentar un escrito a la Dirección de Fiscalización, señalando los motivos por los cuales darán de baja dichos bienes, especificando sus características e identificándolos en el inventario físico por número, ubicación exacta y resguardo, además de que deberán permitir la revisión física del bien por parte de la Dirección de Fiscalización.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Los partidos políticos, salvo lo dispuesto por el artículo 15 bis, sólo podrán dar de baja sus activos fijos con base en razones relacionadas con la obsolescencia de los mismos, para lo cual deberán presentar un escrito a la Dirección de Fiscalización, señalando los motivos por los cuales darán de baja dichos bienes, especificando sus características e identificándolos en el inventario físico por número o folio, ubicación exacta y resguardo, además de que deberán permitir la revisión fisica del bien por parte de la Dirección de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Para tal efecto, se deberá presentar ante la Dirección de Fiscalización una copia del acuerdo que apruebe la desafectación de los bienes y autorización de la baja de los mismos, conforme a los estatutos y normas internas de cada partido.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 15 BIS. Para la enajenación de activos fijos propiedad del partido, el órgano interno de finanzas deberá someter a consideración de su Comité Directivo Estatal u Órgano equivalente, el dictamen técnico en el que se especifique, fundamente y motive la causal de la enajenación de los bienes.
 
 Artículo No. 16. La propiedad de los bienes de los partidos políticos se acreditará, pata efectos de su registro, con las facturas o los títulos de propiedad respectivos. Aquellos bienes muebles que estén en posesión del partido político, de los cuales no se cuente con factura disponible, se presumirán propiedad del partido, salvo prueba en contrario, y deberán ser registrados; aquellos bienes inmuebles que utilicen los partidos políticos de los cuales no se cuente con el título de propiedad respectivo, deberán ser registrados en cuentas de orden.
 
@@ -115,6 +139,26 @@ A solicitud de la Dirección de Fiscalización el partido presentará el contrat
 Artículo No. 19. En caso de que la Dirección de Fiscalización tenga duda fundada del valor de registro de las aportaciones en especie declarado por los partidos políticos, podrá ordenar que se solicite un avalúo a un perito valuador, absorbiendo los gastos del avalúo el propio partido político.
 
 Artículo No. 20. La documentación señalada en este Reglamento como sustento de los ingresos y egresos de los partidos políticos deberán conservarla por un lapso de cinco años, contado a partir de la fecha en que concluya el plazo para la presentación del informe respectivo; este lapso de tiempo será independiente de lo que al efecto establezcan otras disposiciones legales o reglamentarias, o las mismas reglas estatutarias de los propios partidos políticos; dicha documentación deberá estar a disposición de la Dirección de Fiscalización a efecto de que ésta pueda solicitarla para comprobar la veracidad de lo reportado en los informes trimestrales, anuales, de precampaña y de campanas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE MARZO DE 2012)</small>
+
+Sección D. De las cuentas de Activo y Pasivo
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 20 BIS. En el registro contable de sus operaciones ordinarias y de campaña, los partidos políticos se sujetarán a las reglas siguientes:
+
+a) En el rubro de bancos, los partidos que presenten en su conciliación bancaria partidas con una antigüedad mayor a seis meses, deberán presentar a la Dirección de Fiscalización una relación detallada del tipo de movimiento en conciliación, fecha, importe, nombre de la persona a la que fue expedido el cheque en circulación o tránsito, el detalle del depósito no identificado y exponer las razones por las cuales esas partidas siguen en conciliación.
+
+Asimismo, deberán presentar la documentación que justifique las gestiones efectuadas para su regularización.
+
+b) Al cierre de cada ejercicio fiscal, las cuentas contables "Deudores Diversos", "Gastos por Comprobar" y "Anticipo a Proveedores" podrán presentar saldos positivos únicamente por concepto de operaciones realizadas en el último mes del ejercicio que concluye y que, por su propia naturaleza, no hayan sido comprobados oportunamente; en esos casos, se permitirá que dichos gastos se encuentren debidamente comprobados, justificados y/o reintegrados a más tardar dentro del primer mes del ejercicio siguiente, solamente en el caso de los recursos otorgados en los meses de octubre y noviembre, estos deberán ser comprobados, justificados y/o reintegrados a más tardar al 31 de diciembre del ejercicio de que se trate.
+
+Transcurridos dichos períodos serán considerados como no comprobados y sujetos, por tanto, a las sanciones correspondientes, salvo que el partido informe oportunamente de la existencia de alguna excepción legal.
+
+Los "Gastos por Comprobar" que registren los partidos políticos deberán estar soportados con la documentación necesaria para identificar a la persona a la que se le otorga el cheque y deberán cumplir con todos los requisitos de control interno que el partido establezca para tal efecto
+
+c) Con respecto a la cuenta de "Depósitos en Garantía", el partido deberá ajustarse a los términos contractuales celebrados con terceros, efectuando las recuperaciones en tiempo y forma, salvo que el partido informe oportunamente de la existencia de alguna excepción legal.
 
 ### CAPITULO II. DE LOS ESTADOS FINANCIEROS
 
@@ -202,6 +246,10 @@ Las aportaciones en dinero a los partidos políticos que realice cada persona f�
 
 Las aportaciones en especie realizadas en forma directa a alguna de las campañas internas del partido por los militantes, así como las cuotas voluntarias en efectivo que realicen los candidatos internos a cargos de elección popular o a dirigentes del partido para sus campañas internas, deberán estar sustentados con recibos foliados.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 33 BIS. Las aportaciones o donativos en dinero superiores a cien salarios mínimos vigentes en la Zona económica de la Ciudad de Monterrey, se harán en todo caso, por medio de libramiento de cheque o transferencia electrónica bancaria para depósito en cuenta del partido, del cual se conservará copia del cheque o del comprobante de la transferencia electrónica.
+
 Artículo No. 34. Todos los ingresos o depósitos que se hicieren en un proceso electoral a la cuenta concentradora serán sumados y acumulados para los efectos de los límites a los ingresos y gastos de campanas establecidos por la Comisión, independientemente de la fuente de donde procedan, ya sea financiamiento público o financiamiento privado, en todas sus modalidades.
 
 Artículo No. 35. A fin de garantizar la plena procedencia lícita de los recursos obtenidos por los partidos políticos a través de las diversas modalidades de financiamiento privado, la Dirección de Fiscalización remitirá a la Dirección de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público (SHCP), los nombres de todos los aportantes, así como los montos de sus aportaciones, que sean reportados en los informes anuales de precampaña y campaña.
@@ -209,6 +257,10 @@ Artículo No. 35. A fin de garantizar la plena procedencia lícita de los recurs
 La Dirección de Fiscalización remitirá a la Dirección de Inteligencia Financiera de la SHCP los listados de candidatos a cargos de elección popular y de dirigentes de los partidos que encuadren en la definición de personas políticamente expuestas en términos de las disposiciones de carácter general emitidas por dicha dependencia hacendaria.
 
 Lo anterior, con el objeto de verificar la transparencia sobre el financiamiento privado de los partidos y sus precandidatos y candidatos, así como prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de un ilícito.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 35 BIS. En todo caso, los ingresos que perciba el Partido Político para su financiamiento ordinario o de campaña proveniente del erario público, deberán prevalecer sobre el privado.
 
 Sección B. Militantes
 
@@ -220,7 +272,7 @@ Artículo No. 37. Los ingresos que perciban los partidos políticos de sus simpa
 
 Artículo No. 38. Los partidos políticos deberán llevar un registro contable de las aportaciones que en un ejercicio haga cada simpatizante, el cual permitirá conocer el monto acumulado de los donativos de cada persona, tanto para efectos del informe trimestral y anual así como para el de precampaña y campaña.
 
-Artículo No. 39. Las aportaciones o donativos en dinero superiores a cien salarios mínimos vigentes en la zona económica de la ciudad de Monterrey (zona B), se harán en todo caso, por medio de Iibramiento de cheque o transferencia electrónica bancaria para depósito en cuenta del partido, del cual se conservará copia del cheque o del comprobante de la transferencia electrónica recibida.
+Artículo No. 39. (DEROGADO, P.O. 30 DE MARZO DE 2012)
 
 Artículo No. 40. Los partidos políticos no podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante esquemas de autofinanciamiento contemplados en la legislación electoral.
 
@@ -282,25 +334,37 @@ Artículo No. 52. Los partidos políticos serán responsables, una vez realizada
 
 Artículo No. 53. Los egresos o gastos en que incurran los partidos políticos, independientemente que se realicen a través de sus Delegaciones, Comité Estatal, Comités Municipales, Campañas o Precampañas Políticas o de sus Candidatos y Precandidatos, invariablemente, deberán registrarse como tales, en la contabilidad del partido y estar soportados con la documentación que expida el proveedor del bien o servicio a quien se le efectúe el pago, trátese de persona física o moral; la documentación que ampare el egreso o gasto deberá estar a nombre del partido político y deberá cumplir con los requisitos contemplados en la legislación fiscal vigente que le sean aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+En acatamiento a lo dispuesto por el Artículo 49 de la Ley, todas aquellas erogaciones realizadas para la adquisición de bienes y servicios, ajenas a la operación ordinaria y de precampaña y campaña, serán consideradas como improcedentes.
+
 Artículo No. 54. Las erogaciones (pagos) que efectúen los partidos políticos por un monto equivalente a cien (100) salarios mínimos diarios de la zona económica de Monterrey y que rebasen éste, deberán realizarse mediante cheque nominativo, incluyendo la leyenda “para abono en cuenta del beneficiario”.
 
-En caso de que los partidos efectúen más de un pago a un mismo proveedor o prestador de servicios en la misma fecha y dichos pagos en su conjunto sumen la cantidad señalada en el párrafo que antecede, los pagos deberán ser cubiertos en los términos aquí establecidos a partir del, monto por el cual se exceda el límite referido.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Los gastos que excedan la cantidad equivalente a 100 salarios mínimos, no podrán considerarse dentro de la subcuenta denominada "otros", sino que deberán asignarse a una subcuenta específica en cada caso.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
 
 A las pólizas contables deberá anexarse la documentación comprobatoria junto con la copia fotostática del cheque que corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
 Se exceptúan de lo dispuesto en el presente artículo:
 
-a) Los pagos correspondientes a sueldos y salarios contenidos en nóminas.
+a) Los pagos correspondientes a sueldos y salarios contenidos en nóminas;
 
 b) Los pagos realizados a través de transferencias electrónicas de fondos en los que se haya utilizado la clave bancaria estandarizada (CLABE) de las cuentas bancarias del partido, debiendo llenar correctamente el rubro denominado "leyenda", "motivo de pago", "referencia" u otro similar que tenga por objeto identificar el origen y el destino de los fondos transferidos.
 
-Tales comprobantes deberán incluir, de conformidad con los datos proporcionados por cada banco, la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino y
+Tales comprobantes deberán incluir, de conformidad con los datos proporcionados por cada banco, la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino; y
 
 c) Los pagos realizados con tarjeta de crédito o débito, ajustándose a lo siguiente:
 
-I. A la póliza se anexará el estado de cuenta bancario que refleje los pagos, los comprobantes de las transacciones correspondientes y una relación de dichos comprobantes firmada por la persona que realizó los gastos y por quien autoriza y
+I. A la póliza se anexará el estado de cuenta bancario que refleje los pagos, los comprobantes de las transacciones correspondientes, y una relación de dichos comprobantes, firmada por la persona que realizó los gastos y por quien autoriza; y
 
-II. En el caso de los pagos con tarjeta de crédito, también deberá anexarse a la póliza la copia fotostática del cheque con el cual se realice el pago a la tarjeta, expedido a nombre de la institución bancaria que la emite.
+II. En el caso de los pagos con tarjeta de crédito, también deberá anexarse a la póliza la copia fotostática del cheque con el cual se realice el pago a la tarjeta, expedido a nombre de la Institución bancaria que la emite.
+
+> <small>(ADICIONADO [REPUBLICADO], P.O. 30 DE MARZO DE 2012)</small>
 
 El importe de los comprobantes deberá coincidir con la cantidad asentada en el cheque respectivo.
 
@@ -408,7 +472,9 @@ Artículo No. 72. En las solicitudes de información se otorgará a las personas
 
 Artículo No. 73. La información que fuere remitida a la Dirección de Fiscalización mediante la solicitud formal a terceros, será confrontada con la documentación que hubieren proporcionado los partidos políticos, precandidatos, candidatos y asociaciones políticas durante el periodo que corresponda.
 
-Artículo No. 74. Para el caso de que la información entregada por las personas físicas o morales a la Dirección de Fiscalización no coincidiera con aquella proporcionada por los partidos políticos, precandidatos y candidatos se procederá previo al estudio correspondiente a la aplicación de la sanción que corresponda en los términos previstos por la legislación electoral.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 74. Para el caso de que la información entregada por las personas físicas o morales a la Dirección de Fiscalización no coincidiera con aquella proporcionada por los partidos políticos, precandidatos y candidatos se procederá, previo al estudio correspondiente, a la aplicación de la sanción que corresponda en los términos previstos por la legislación electoral, no eximiendo al obligado de presentar la información solicitada.
 
 Artículo No. 75. Si las personas físicas o morales se negaran o no proporcionaran a la Dirección de Fiscalización la información solicitada sin causa justificada, dentro de los plazos que se le señalen, se harán acreedores a las sanciones respectivas las cuales habrán de graduarse, tomando en consideración los medios calificativos de la misma en base a las características del caso concreto.
 
@@ -422,7 +488,15 @@ La Dirección de Fiscalización al momento de proponer la sanción al Pleno de l
 
 Artículo No. 76. Los Partidos Políticos deberán presentar ante la Dirección de Fiscalización y ante la Comisión los informes a que refieren los artículos 51 bis 4 y 52 de la Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 76 BIS. Para la rendición de sus informes los partidos políticos deberán utilizarán los formatos e instructivos emitidos por la Dirección de Fiscalización, mismos que se difundirán a través del portal oficial de Internet de la Comisión.
+
 Artículo No. 77. Los informes especificados en el artículo anterior, deberán ser presentados debidamente suscritos por el o los responsables del órgano interno del partido político en los formatos correspondientes elaborados por la Dirección de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Una vez presentados los informes, estos no podrán ser modificados por ningún motivo, salvo por el resultado del dictamen emitido por la Dirección de Fiscalización y aprobado por el Pleno.
 
 Artículo No. 78. El primer informe anual que presente un partido político que haya obtenido su registro en el afta inmediato anterior, incluirá todos los ingresos y egresos a partir del día siguiente a aquel en el que surta efecto su registro.
 
@@ -444,6 +518,10 @@ g) El respaldo de la contabilidad del periodo correspondiente del partido polít
 
 Articulo No. 80. Si al final del ejercicio existiera un pasivo a cargo del partido político, registrado o no, en la contabilidad del partido, dicho pasivo deberá integrarse detalladamente al informe anual, haciendo mención de montos, nombres, concepto y fechas. Dichos pasivos deberán estar debidamente registrados en la contabilidad y soportados documentalmente, así como contar con la autorización del funcionario o funcionarios facultados para ello en el manual de operaciones del órgano de finanzas del partido político.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Todos los pasivos que tengan una antigüedad mayor a un año, contados a partir de la fecha en que se generaron, serán considerados como ingresos no reportados, salvo que el partido informe y documente oportunamente las gestiones realizadas para la cancelación de los adeudos, conforme a las Normas de Información Financiera o de la existencia de alguna excepción legal.
+
 Artículo No. 81. La sola falta de presentación de los informes a los que se refiere el artículo 51 bis 4 y 52 de la Ley, será causa suficiente para que se suspenda el financiamiento público al partido político infractor, hasta en tanto se presenten los mismos.
 
 Para la imposición de esta sanción se notificará al partido político para que dentro de los dos días siguientes presente las pruebas que estime pertinentes y alegue lo que a su derecho convenga.
@@ -456,9 +534,13 @@ Sección A. De la revisión
 
 Artículo No. 82. La Dirección de Fiscalización a Partidos Políticos de acuerdo a la Ley es la encargada de la revisión de los informes trimestrales, anuales, de precampaña y de campaña.
 
-Artículo No. 83. La Comisión, a través de la Dirección de Fiscalización, tendrá la facultad de solicitar al órgano interno de finanzas de cada partido político la documentación necesaria para comprobar la veracidad de lo reportado en los informes a que se refiere el Artículo 51 bis 4 de la Ley, así como las copias de los estados de cuenta bancarios, adjuntos a los Informes respectivos, debidamente conciliados con los registros contables.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
 
-Artículo No. 84. Durante el periodo de revisión de los informes, los partidos políticos tendrán la obligación de permitir a la Dirección de Fiscalización o a las personas de que está se auxilie, de acuerdo a lo contemplado en la Ley, el acceso a todos los documentos originales que soporten sus ingresos y gastos ordinarios, incluyendo talones y copias de sus recibos emitidos así como a su contabilidad, incluidos sus estados financieros, dictaminados o no.
+Artículo No. 83. La Comisión, a través de la Dirección de Fiscalización, tendrá la facultad de solicitar al órgano interno de finanzas de cada partido político la documentación necesaria para comprobar la veracidad de lo reportado en los informes a que se refiere el Artículo 51 bis 4 de la Ley, tanto impresa como en medios electromagnéticos, así como las copias de los estados de cuenta bancarios, adjuntos a los informes respectivos, debidamente conciliados con los registros contables.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 84. Durante el periodo de revisión de los informes, los partidos políticos tendrán la obligación de permitir a la Dirección de Fiscalización o a las personas de que ésta se auxilie, de acuerdo a lo contemplado en la Ley, el acceso a todos los medios electromagnéticos y documentos originales que soporten sus ingresos y gastos ordinarios, incluyendo talones y copias de sus recibos emitidos así como a su contabilidad, incluidos sus estados financieros, dictaminados o no.
 
 Artículo No. 85. La Dirección de Fiscalización podrá realizar pruebas selectivas de la documentación comprobatoria de los ingresos y egresos de los partidos políticos, con base en las Normas y Procedimientos de Auditoria.
 
@@ -558,6 +640,14 @@ Artículo No. 103. La Dirección de Fiscalización presentará a la Comisión el
 
 Artículo No. 104. Se entiende por precampaña electoral conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a cargos de elección popular debidamente registrados por cada partido político.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Se entiende por actos de precampaña electoral, las reuniones públicas, asambleas, marchas y en general aquellos en los que los precandidatos se dirigen a los afiliados, simpatizantes o al electorado en general, durante el período establecido por la Ley y el que señale la convocatoria respectiva, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Se entiende por propaganda de precampaña el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta ley y el que señale la convocatoria respectiva difunden los precandidatos a cargos de elección popular con el propósito de dar a conocer su precandidatura.
+
 Artículo No. 105. Se deberá presentar un informe por cada uno de los candidatos internos registrados ante el partido. En los casos en los que no se lleve a cabo un proceso interno de selección de candidato y el partido reconozca como candidato único a algún ciudadano o éste se proclame como tal avalado por su organización política, el partido estará obligado a presentar un informe de ingresos y gastos aplicados a la promoción de dicho ciudadano a partir de su registro o reconocimiento como candidato único y hasta la postulación de los candidatos a cargos de elección popular que haga el partido.
 
 Artículo No. 106. En los informes de precampaña deberán relacionarse la totalidad de los ingresos recibidos y de los gastos efectuados por cada uno de los precandidatos, desde que éstos son registrados como tales hasta la postulación del candidato ganador correspondiente y en los casos de candidato único, desde el reconocimiento del partido hasta la postulación.
@@ -604,7 +694,9 @@ Las cuentas bancarias a que se refiere este artículo podrán tener movimientos 
 
 Artículo No. 112. Las aportaciones en especie deberán ser registradas contablemente, reconociendo el ingreso y su respectiva aplicación del recurso y formarán parte de los recursos y aplicaciones que se contemplen en los informes de campaña que correspondan, los que se incluirán para efectos de comparación con los topes de campaña.
 
-Artículo No. 113. Si al final de las campañas electorales existieran remanentes en las cuentas bancarias utilizadas, o bien, pasivos documentados, éstos deberán ser integrados por el responsable del órgano interno de finanzas a las cuentas de las actividades ordinarias permanentes.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 113. Si al final de las campañas electorales existieran remanentes en las cuentas bancarias utilizadas, o bien, pasivos documentados, éstos deberán ser integrados por el responsable del órgano interno de finanzas a las cuentas de las actividades ordinarias permanentes dentro de los 30 días siguientes.
 
 Sección B. Financiamiento Público
 
@@ -758,11 +850,15 @@ Artículo No. 140. La Dirección de Fiscalización presentará a la Comisión, d
 
 Dicho dictamen deberá contener al menos el resultado y conclusiones de la revisión de los informes presentados por los partidos políticos en su caso, la mención de la existencia de errores o irregularidades en los informes, así como de la aclaración o rectificación de los mismos que hubieren realizado los partidos políticos.
 
-Sección E. De los procesos electorales extraordinarios
+> <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 30 DE MARZO DE 2012)</small>
+
+Sección E. De los procesos extraordinarios de fiscalización.
 
 Artículo No. 141. En casos de excepción y previo acuerdo de la Comisión, la Dirección de Fiscalización podrá abrir procesos extraordinarios de fiscalización con plazos diferentes a los establecidos en la Ley. En todo caso, los procesos electorales extraordinarios deberán quedar concluidos en un plazo máximo de seis meses, salvo que la Comisión autorice, por causa justificada, la ampliación del plazo.
 
-Las disposiciones del presente Reglamento aplicarán a los procesos electorales extraordinarios.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Las disposiciones del presente reglamento aplicarán a los procesos extraordinarios de fiscalización.
 
 Los acuerdos de la Comisión a que se refiere este Artículo podrán ser impugnados ante el Tribunal.
 
@@ -811,3 +907,7 @@ Presidente
 Mtra. Miriam Guadalupe Hinojosa Dieck
 
 Secretario
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+Artículo Único. Las reformas al Reglamento de Fiscalización de los Recursos de los Partidos Políticos, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León
