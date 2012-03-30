@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-fiscalizacion-de-los-recursos-de-los-partidos-748
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-15"
-last_updated: "2009-04-15"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLITICOS QUE FORMEN COALICIONES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 15 de abril de 2009.
 
@@ -89,7 +89,9 @@ Artículo No. 8. El órgano interno de finanzas de las coaliciones será respons
 
 Artículo No. 9. Las coaliciones deberán contar con una estructura organizacional bien definida, misma que permita identificar a los responsables de las funciones de administración financiera en sus diferentes fases de obtención, registro, control y aplicación de recursos, así como de la presentación de los informes respectivos ante la Dirección de Fiscalización.
 
-Artículo No. 10. En todo tiempo las coaliciones podrán hacer modificaciones a la estructura de su órgano interno de finanzas, en cuyo caso informará a la Dirección de Fiscalización el nombre del o los responsables del órgano interno de finanzas, en un término que no exceda de 15 días.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 10. En todo tiempo las coaliciones podrán hacer modificaciones a la estructura de su órgano interno de finanzas, en cuyo caso informará a la Dirección de Fiscalización el nombre del o los responsables del órgano interno de finanzas, en un término que no exceda de 30 días a partir de la fecha de nombramiento.
 
 ### CAPITULO II. DE LOS REGISTROS CONTABLES Y ESTADOS FINANCIEROS
 
@@ -203,6 +205,10 @@ La Dirección de Fiscalización remitirá a la Dirección de Inteligencia Financ
 
 Lo anterior, con el objeto de verificar la transparencia sobre el financiamiento privado que obtengan las coaliciones y sus precandidatos y candidatos, así como prevenir y detectar actos, omisiones u operaciones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de un ilícito.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 39 Bis. En todo caso, los ingresos que perciba el Partido Político en nombre de la coalición para su financiamiento de campaña proveniente del erario público, este último deberá prevalecer sobre el privado.
+
 Artículo No. 40. Los ingresos que perciban las coaliciones de sus simpatizantes estarán conformados por las aportaciones o donativos, en dinero o en especie, mismas que serán otorgadas en forma libre y voluntaria por personas físicas o morales con residencia en el país exclusivamente.
 
 Artículo No. 41. Las coaliciones deberán llevar un registro contable de las aportaciones que haga cada simpatizante, el cual permitirá conocer el monto acumulado de los donativos de cada persona, para efectos de los informes de precampaña y campaña.
@@ -239,6 +245,12 @@ Articulo No. 53. Al final del periodo de campañas, los remanentes que se encuen
 
 Articulo No. 54. Los egresos o gastos en que incurran las coaliciones o sus candidatos, invariablemente, deberán registrarse contablemente como tales en la contabilidad de la coalición y estar soportados con la documentación que expida el proveedor del bien o servicio a quien se le efectúe el pago, trátese de persona física o moral, la documentación que ampare el egreso o gasto será expedida a nombre del partido político encargado del manejo de los recursos financieros y patrimonio de la coalición, conteniendo su clave de Registro Federal de Contribuyentes y deberá cumplir con los requisitos contemplados en la legislación fiscal vigente que le sean aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+En acatamiento a lo dispuesto por el Artículo 49 de la Ley, todas aquellas erogaciones realizadas para la adquisición de bienes y servicios, ajenas a la operación de campaña, serán consideradas como improcedentes.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
 Los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un solo partido.
 
 Articulo No. 55. Los egresos (gastos) que se efectúen con motivo de las campañas políticas que realicen las coaliciones deberán ser registrados contablemente como tales en la contabilidad de la campaña del candidato a la que correspondan.
@@ -249,15 +261,25 @@ Articulo No. 56. En el caso de las coaliciones parciales, el partido que hubiere
 
 Articulo No. 57. Las erogaciones (pagos) que efectúen las coaliciones por un monto equivalente a cien (100) salarios mínimos diarios de la zona económica de Monterrey y que rebasen éste, deberán realizarse mediante cheque nominativo, incluyendo la leyenda "para abono en cuenta del beneficiario".
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Los gastos que excedan la cantidad equivalente a 100 salarios mínimos, no podrán considerarse dentro de la subcuenta denominada "otros", sino que deberán asignarse a una subcuenta específica en cada caso.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
 En caso de que las coaliciones efectúen más de un pago a un mismo proveedor o prestador de servicios en la misma fecha y dichos pagos en su conjunto sumen la cantidad señalada en el párrafo que antecede, los pagos deberán ser cubiertos en los términos aquí establecidos a partir del monto por el cual se exceda el límite referido.
+
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
 
 A las pólizas contables deberá anexarse la documentación comprobatoria junto con la copia fotostática del cheque que corresponda.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
 Se exceptúan de lo dispuesto en el presente artículo:
 
-a) Los pagos correspondientes a sueldos y salarios contenidos en nóminas.
+a) Los pagos correspondientes a sueldos y salarios contenidos en nóminas;
 
-b) Los pagos realizados a través de transferencias electrónicas de fondos en los que se haya utilizado la clave bancaria estandarizada (CLABE) de la cuenta bancaria de la coalición, debiendo llenar correctamente el rubro denominado “leyenda”, “motivo de pago”, “referencia” u otro similar que tenga por objeto identificar el origen y el destino de los fondos transferidos.
+b) Los pagos realizados a través de transferencias electrónicas de fondos en los que se haya utilizado la clave bancaria estandarizada (CLABE) de la cuenta bancaria de la coalición, debiendo llenar correctamente el rubro denominado "leyenda", "motivo de pago", "referencia" u otro similar que tenga por objeto identificar el origen y el destino de los fondos transferidos.
 
 Tales comprobantes deberán incluir, de conformidad con los datos proporcionados por cada banco, la información necesaria para identificar la transferencia, que podrá consistir en el número de cuenta de origen, banco de origen, fecha, nombre completo del titular y tipo de cuenta de origen, banco de destino, nombre completo del beneficiario y número de cuenta de destino y
 
@@ -349,7 +371,9 @@ Artículo No. 73. En las solicitudes de información se otorgará a las personas
 
 Artículo No. 74. La información que fuere remitida a la Dirección de Fiscalización mediante la solicitud formal a terceros, será confrontada con la documentación que hubieren proporcionado las coaliciones, precandidatos, candidatos durante el período que corresponda.
 
-Artículo No. 75. Para el caso de que la información entregada por las personas físicas o morales a la Dirección de Fiscalización no coincidiera con aquella proporcionada por los partidos políticos, precandidatos y candidatos se procederá previo al estudio correspondiente a la aplicación de la sanción que corresponda en los términos previstos por la legislación electoral.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 75. Para el caso de que la información entregada por las personas físicas o morales a la Dirección de Fiscalización no coincidiera con aquella proporcionada por los partidos políticos, precandidatos y candidatos se procederá previo al estudio correspondiente a la aplicación de la sanción que corresponda en los términos previstos por la legislación electoral, no eximiendo al obligado de presentar la información solicitada.
 
 Artículo No. 76. Si las personas físicas o morales se negaran o no proporcionaran a la Dirección de Fiscalización la información solicitada sin causa justificada, dentro de los plazos que se le señalen, se harán acreedores a las sanciones respectivas las cuales habrán de graduarse, tomando en consideración los medios calificativos de la misma en base a las características del caso concreto.
 
@@ -375,7 +399,9 @@ Las cuentas bancarias a que se refiere este artículo podrán tener movimientos 
 
 Artículo No. 79. Las aportaciones en especie deberán ser registradas contablemente, reconociendo el ingreso y su respectiva aplicación del recurso y formarán parte de los recursos y aplicaciones que se contemplen en los informes de campaña que correspondan, los que se incluirán para efectos de comparación con los topes de campaña.
 
-Articulo No. 80. Si al final de las campañas existieran remanentes en la cuenta concentradora destinada a erogaciones en campañas de Gobernador, Diputados y Ayuntamientos o bien pasivos documentados, éstos deberán ser reintegrados por el partido político encargado del manejo de los recursos financieros y patrimonio de la coalición.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 80. Si al final de las campañas existieran remanentes en la cuenta concentradora destinada a erogaciones en campañas de Gobernador, Diputados y Ayuntamientos o bien pasivos documentados, éstos deberán ser reintegrados por el partido político encargado del manejo de los recursos financieros y patrimonio de la coalición dentro de los 30 días siguientes.
 
 La distribución de los montos deberá hacerse proporcionalmente conforme a las aportaciones de cada uno de los partidos para las campañas de los candidatos de la coalición, en cada uno de los casos.
 
@@ -441,7 +467,15 @@ Artículo No. 92. Las coaliciones deberán presentar ante la Dirección de Fisca
 
 Artículo No. 93. Las coaliciones deberán presentar ante la Dirección de Fiscalización y ante la Comisión los informes a que refieren los artículos 51 bis 4 y 52 de la Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 93 Bis. Para la rendición de sus informes las Coaliciones deberán utilizar los formatos e instructivos emitidos por la Dirección de Fiscalización, y que se difundirán a través del portal de Internet de la Comisión.
+
 Artículo No. 94. Los informes especificados en el artículo anterior, deberán ser presentados debidamente suscritos por el o los responsables del órgano interno de finanzas de la coalición en los formatos correspondientes elaborados por la Dirección de Fiscalización.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Una vez presentados los informes, estos no podrán ser modificados por ningún motivo, salvo por el resultado del dictamen emitido por la Dirección de Fiscalización y aprobado por el pleno.
 
 Artículo No. 95. Los informes de campaña deberán presentarse por cada una de las campañas en que haya participado la coalición en las elecciones respectivas, especificando los gastos que la coalición haya realizado.
 
@@ -511,11 +545,15 @@ Sección A. De la revisión
 
 Artículo No. 101. La Dirección de Fiscalización a Partidos Políticos de acuerdo a la Ley es la encargada de la revisión de los informes de precampaña y de campaña.
 
-Artículo No. 102. La Dirección de Fiscalización, tendrá la facultad de solicitar al órgano interno de finanzas de la coalición y de los partidos que la integren la documentación necesaria para comprobar la veracidad de lo reportado en los informes a que se refiere el artículo 51 bis 4 de la Ley, así como las copias de los estados de cuenta bancarios, adjuntos a los informes respectivos, debidamente conciliados con los registros contables.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 102. La Dirección de Fiscalización, tendrá la facultad de solicitar al órgano interno de finanzas de la coalición y de los partidos que la integren la documentación necesaria para comprobar la veracidad de lo reportado en los informes a que se refiere el artículo 51 bis 4 de la Ley, tanto impresa como en medios electromagnéticos, así como las copias de los estados de cuenta bancarios, adjuntos a los informes respectivos, debidamente conciliados con los registros contables.
 
 Artículo No. 103. La Dirección de Fiscalización, en vías de mejor proveer, podrá solicitar a las coaliciones, cuando lo considere conveniente, en forma fundada y motivada, que rindan un informe complementario a los establecidos en la Ley o en el presente Reglamento para el cumplimiento de sus atribuciones fiscalizadoras.
 
-Artículo No. 104. Durante el periodo de revisión de los informes, los partidos políticos que hayan integrado la coalición tendrán la obligación de permitir a la Dirección de Fiscalización o a las personas de que ésta se auxilie, de acuerdo a lo contemplado en la Ley Electoral del Estado de Nuevo León, el acceso a todos los documentos originales que soporten sus ingresos y egresos, incluyendo talones y copias de sus recibos emitidos, así como a su contabilidad, incluidos sus estados financieros dictaminados o no.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Artículo No. 104. Durante el periodo de revisión de los informes, los partidos políticos que hayan integrado la coalición tendrán la obligación de permitir a la Dirección de Fiscalización o a las personas de que ésta se auxilie, de acuerdo a lo contemplado en la Ley Electoral del Estado de Nuevo León, el acceso a todos los medios electromagnéticos y documentos originales que soporten sus ingresos y egresos, incluyendo talones y copias de sus recibos emitidos, así como a su contabilidad, incluidos sus estados financieros dictaminados o no.
 
 Artículo No. 105. La Dirección de Fiscalización podrá realizar revisiones aleatorias de la documentación comprobatoria de los ingresos y egresos de las coaliciones, con base en las Normas y Procedimientos de Auditoría.
 
@@ -624,3 +662,9 @@ Presidente
 Dr. Víctor Aurelio Zúñiga González
 
 Secretario
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2012.
+
+Artículo Único. Las reformas al Reglamento de Fiscalización de los Recursos de los Partidos Políticos que formen Coaliciones, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
