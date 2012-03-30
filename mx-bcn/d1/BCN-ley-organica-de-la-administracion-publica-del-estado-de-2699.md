@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2011-12-23"
+last_updated: "2012-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -76,6 +76,36 @@ Las Leyes, Decretos o Acuerdos especiales que establecen la creación de las ent
 ###### ARTICULO 5o.
 
 Las Dependencias de la Administración Pública Centralizada y las entidades de la Administración Pública Paraestatal, conducirán sus actividades en forma programada, basándose en las políticas que para el logro de objetivos y prioridades del desarrollo del Estado, establezca el Gobernador en cumplimiento de la Ley Estatal de Planeación.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+ARTICULO 5 BIS.- Los titulares de las dependencias de la Administración Pública centralizada y descentralizada deberán incluir en toda la documentación y en la difusión de sus programas contratados en los medios masivos de comunicación y en el portal institucional de internet la leyenda siguiente: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa".
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+ARTICULO 5 TER.- Los sujetos obligados por la presente Ley no podrán ordenar o contratar la difusión de propaganda que:
+
+I.- Incluya el nombre o imagen de servidores públicos del ente que realiza la difusión o los nombres, imágenes, voces o símbolos que implican promoción de cualquier Servidor Público, destacando de forma directa o indirecta características personales, o bien, logros o actividades en su gestión pública.
+
+La única excepción a esta regla serán los informes anuales de gestión de los servidores públicos de elección popular, así como los mensajes que para darlos a conocer se difundan en los medios de comunicación social, siempre que dicha propaganda se realice una vez al año, siete días antes y cinco días posteriores a la realización material del informe, exclusivamente con la cobertura territorial que corresponda al cargo de elección popular de que se trate y nunca fuera del mismo. Dicha propaganda tampoco podrá contener alusiones electorales ni podrá realizarse dentro de los periodos electorales. Esta propaganda excepcional personalizada, en materia de inversiones y obras públicas, así como de programas sociales de cualquier naturaleza, incluidos educación y salud, deberá contener una alusión clara de que las mismas se han costeado con recursos públicos aportados por la ciudadanía;
+
+II.- Induzca a la confusión con los símbolos, ideas, expresiones, diseños o imágenes empleadas por otros entes públicos o por cualquier partido político u organización social;
+
+III.- Denigre a una persona, a los partidos políticos u organizaciones sociales o denoste sus actividades;
+
+IV.- Se dirija por cualquier vía a influir en las preferencias electorales de los ciudadanos a favor o en contra de partidos políticos o de precandidatos o candidatos a cargos de elección popular;
+
+V.- Vaya en detrimento u obstaculice la ejecución de políticas públicas, programas o acciones de cualquier naturaleza que realiza otro ente público en el ejercicio de sus atribuciones;
+
+VI.- Incluya mensajes que resulten contrarios a los derechos humanos que reconocen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Baja California y las leyes del Estado de Baja California;
+
+VII.- Tienda a generar alarma injustificada entre el público o presente su propia acción como algo violento;
+
+VIII.- No se identifique con claridad como mensaje de un sujeto obligado o no incluya su mención expresa como responsable de la publicación y difusión; y
+
+IX.- Publicite los productos o servicios del sector privado o utilice imágenes, colores, logotipos, sonidos u otros símbolos asociados a éste o cualquier partido político, incluyendo la promoción de donaciones sin fines de lucro.
+
+El incumplimiento de estas disposiciones será sancionado de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 ###### ARTICULO 6o.
 
@@ -1990,6 +2020,10 @@ Las atribuciones que en materia de atención a la juventud correspondan actualme
 P.O. 23 DE DICIEMBRE DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE MARZO DE 2012.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
