@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2002-02-22"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
+LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -278,6 +278,10 @@ De la Municipalización de los Servicios Públicos.- Cuando la prestación de un
 ###### ARTÍCULO 25.
 
 De los Planes y Programas Municipales.- Los planes y programas, que formulen y aprueben los Ayuntamientos, deberán incorporar la dimensión ambiental que garantice un medio ambiente adecuado para el bienestar y desarrollo de la población del Municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
+
+Los titulares de las entidades y órganos de la Administración Pública Municipal centralizada, desconcentrada y paramunicipal deberán incluir en toda la documentación y en la difusión de sus programas contratados en los medios masivos de comunicación y en el portal institucional de internet la leyenda siguiente: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa”.
 
 ### CAPÍTULO SEGUNDO. DEL TERRITORIO Y LA POBLACIÓN DE LOS MUNICIPIOS
 
@@ -567,7 +571,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P. JORGE RAMOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE NOVIEMBRE DE 2001.
 
@@ -576,3 +580,11 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 22 DE FEBRERO DE 2002.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE MARZO DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+## ARTÍCULO TRANSITORIO
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
