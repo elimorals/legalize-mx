@@ -4,7 +4,7 @@ identifier: "COA-reglamento-de-la-ley-del-equilibrio-ecologico-y-la-74634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-23"
-last_updated: "2010-04-23"
+last_updated: "2012-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA EN MATERIA DE IMPACTO AMBIENTAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 23 de abril de 2010.
 
@@ -189,7 +189,9 @@ C. OBRAS O ACTIVIDADES AGROPECUARIAS NO RESERVADAS A LA FEDERACIÓN.
 
 4. Establos de crianza, lecheros y/o engorda con capacidad para alojar diariamente una cantidad igual o superior a 20 toneladas de ganado bovino, 10 toneladas de ganado porcino, 5 toneladas de ganado ovino-caprino, 10 toneladas de ganado equino, 3 toneladas de animales de pelaje fino y otros similares en peso vivo.
 
-5. Actividades agrícolas y pecuarias que no se encuentren en los supuestos anteriores y que no son actividades reservadas a la federación, sin embargo por su ubicación, dimensiones y complejidad, es necesaria su evaluación en materia impacto ambiental a juicio de la Secretaría.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+5. Actividades agropecuarias que no se encuentren en los supuestos anteriores y que no son actividades reservadas a la federación, sin embargo por su ubicación, dimensiones y complejidad, es necesaria su evaluación en materia impacto ambiental a juicio de la Secretaría.
 
 D. EXPLORACIÓN, EXPLOTACIÓN Y EXTRACCIÓN DE MATERIALES PÉTREOS, INSUMOS DE CONSTRUCCIÓN, MINERALES Y SUSTANCIAS NO RESERVADAS A LA FEDERACIÓN.
 
@@ -361,13 +363,13 @@ XIII. Los demás documentos que determine la Secretaría debido a la complejidad
 
 Todos los documentos antes descritos deberán entregarse en forma impresa y en el medio magnético que la Secretaría determine.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2012)</small>
+
 ###### Artículo 15.
 
-Los promoventes están obligados a entregar árboles a la Secretaría, como medida de compensación por las obras o actividades que se pretendan realizar, de conformidad a las siguientes bases:
+Los promoventes están obligados a entregar árboles a la Secretaría como medida de compensación por la superficie de suelo afectada derivada de las obras y/o actividades que se pretendan realizar, de conformidad a las siguientes bases:
 
-A. De acuerdo a la superficie que se pretenda desarrollar, será de acuerdo a la siguiente: TABLA DE COMPENSACIÓN
-
-CANTIDAD DE ARBOLES: A B
+A. De acuerdo a la superficie que se pretenda desarrollar, será de acuerdo a la siguiente: (REFORMADA, P.O. 30 DE MARZO DE 2012) TABLA DE COMPENSACIÓN HASTA LA CANTIDAD DE ÁRBOLES: A B
 
 SUPERFICIE
 
@@ -549,7 +551,9 @@ VIII.- Identificación de los instrumentos metodológicos y elementos técnicos 
 
 VIII.1 Formatos de presentación
 
-VIII.1.1 Planos en formatos de Autocad (dwg, dxf), Shapefile (shp), o en el que determine la Secretaría.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2012)</small>
+
+VIII.1.1 Planos digitalizados debidamente georeferenciados, en formatos de Autocad (dwg, dxt), Shapefile (shp), o en el que determine la Secretaría.
 
 VlII.1.2 Fotografías.
 
@@ -659,7 +663,9 @@ e) Descripción del ambiente y en su caso la identificación de otras fuentes de
 
 f) Identificación de impactos ambientales significativos o relevantes y las propuestas de acciones y medidas para su prevención, mitigación y compensación.
 
-g) Planos en formatos de Autocad (dwg, dxt), Shapefile (shp), o el que determine la Secretaría.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2012)</small>
+
+g) Planos digitalizados debidamente georeferenciados, en formatos de Autocad (dwg, dxt), Shapefile (shp), o el que determine la Secretaría.
 
 h) En su caso, las condiciones adicionales que se propongan en los términos del artículo siguiente.
 
@@ -1064,3 +1070,11 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se dejan sin efecto las disposiciones que se opongan a lo previsto es (sic) este decreto.
