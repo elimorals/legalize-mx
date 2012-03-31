@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2011-12-24"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -277,7 +277,11 @@ Los ingresos que se obtengan por empréstitos contratados sobre el crédito del 
 
 31.- Son impuestos las prestaciones en dinero o en especie que fija la Ley con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos.
 
-Son derechos las contraprestaciones establecidas por el poder público, conforme a la Ley, en pago de un servicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Son derechos las contraprestaciones establecidas por el Poder Público, conforme a la Ley, en pago de un servicio. También son derechos las contribuciones aprobadas anualmente por la Junta Central de Agua y Saneamiento a sus organismos operadores, publicadas en el Periódico Oficial del Estado, con motivo de la prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales y disposición final de lodos.
 
 Son contribuciones especiales las prestaciones legalmente obligatorias que se establecen a cargo de las personas que se benefician de manera especial con alguna obra o servicio público, destinadas a cubrir los gastos que requiera la propia obra o servicio. En consecuencia la contribución estará en relación con el monto del beneficio obtenido y el costo de la obra.
 
@@ -355,7 +359,7 @@ B).- Si la contabilidad y documentación del causante no permite reconstruir las
 
 Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 37.- Las visitas domiciliarias para comprobar, que se han acatado las disposiciones fiscales se sujetarán a lo siguiente:
 
@@ -529,7 +533,7 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
 50.- Los contribuyentes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora, de acuerdo a la tasa que fije anualmente el Congreso del Estado, la cual se aplicará por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos se causarán hasta por 5 (cinco) años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracciones a disposiciones fiscales.
 
@@ -657,7 +661,7 @@ El Secretario podrá dispensar la garantía del interés fiscal cuando, en relac
 
 ### CAPITULO VI. SUJETOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -713,7 +717,7 @@ IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, qu
 
 V.- Las personas domiciliadas fuera del Estado que perciban ingresos cuya fuente se localice en el territorio de la Entidad o realicen actos u operaciones en el Estado o que surtan sus efectos dentro de él, están obligadas a pagar las contribuciones establecidas en este Código. Los sujetos residentes en la Entidad que con ellos contraten o intervengan en la relación jurídica o económica correspondiente, estarán obligados a retener el gravamen que se cause.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -845,7 +849,7 @@ La prohibición a que se refiere esta disposición, no será aplicable tratándo
 
 85.- Las obligaciones y responsabilidades de que se ocupa el artículo anterior no se extinguen por la separación del cargo, empleo o comisión, sino hasta pasado un año contado a partir de la fecha en que ocurra esta circunstancia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 ### CAPITULO VII. INFRACCIONES, SANCIONES Y DELITOS DE CARACTER FISCAL
 
@@ -1273,7 +1277,7 @@ II.- Retener a los usuarios de sus servicios el impuesto correspondiente y enter
 
 110.- La autoridad fiscal podrá determinar en forma presuntiva la base de este impuesto para su cálculo y pago, en los casos en que los retenedores se ubiquen en alguno de los supuestos establecidos para tales efectos en el Código Fiscal del Estado.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION QUINTA (SIC). AVALUOS
 
@@ -1369,7 +1373,7 @@ IV.- Los consignatarios o comisionistas en cualquier operación de adquisición 
 
 139.- Cuando en las operaciones que se lleven a cabo con motivo de la adquisición de vehículos automotores u otros bienes muebles usados, intervengan personas domiciliadas fuera del Estado, el impuesto será retenido y enterado por aquella que sea residente del mismo, que haya intervenido o sea intermediario en la operación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO II-BIS. IMPUESTO SOBRE LOTERIAS, RIFAS Y SORTEOS
 
@@ -1467,7 +1471,7 @@ Sobre los ingresos brutos estimados, se reconocerá como deducción única, el i
 
 #### SECCION TERCERA. OBLIGACIONES DE LOS CAUSANTES
 
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1994
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 1994
 
 181.- Los causantes de este Impuesto están obligados:
 
@@ -1533,11 +1537,11 @@ VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales 
 
 165.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
 ### CAPITULO IV. IMPUESTO SOBRE NOMINAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
 DEL OBJETO
 
@@ -1551,7 +1555,7 @@ Para los efectos de este impuesto quedan comprendidas en el concepto de remunera
 
 DEL SUJETO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2010)</small>
 
@@ -1563,7 +1567,7 @@ DE LA BASE
 
 168.- Se tomará como base para la aplicación de este gravamen el monto total de los pagos a que se refiere el artículo 166.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
 
 DE LA TASA
 
@@ -1679,7 +1683,7 @@ Para que los conceptos anteriores se excluyan como integrantes de la base del im
 
 174.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972) (REPUBLICADO, P.O. 29 DE SEPTIEMBRE DE 1979)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 1994)</small>
 
 ### CAPITULO V. IMPUESTO SOBRE EJERCICIOS LUCRATIVOS
 
@@ -1693,7 +1697,7 @@ II.- A exigir que los causantes habituales de este tributo establezcan en los re
 
 Si los causantes no cumplen con los requisitos que establece el párrafo anterior, los terceros retendrán el importe del impuesto enterándolo en la Recaudación de Rentas respectiva. Si no lo hicieren se harán acreedores a la sanción establecida en el artículo 93 Segundo Grupo de este Código.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
 #### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
@@ -1701,13 +1705,13 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 185.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1990)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION PRIMERA
 
 Disposiciones generales.
 
-> <small>(REFORMADO PRIMER PARARFO, P.O. 26 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRARFO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 186.- Están obligadas al pago de los impuestos cedulares establecidos en este Código, las personas físicas que perciban ingresos:
 
@@ -1919,7 +1923,7 @@ La Secretaría de Hacienda está, a través del representante de la Hacienda Pú
 
 #### SECCION CUARTA. EXENCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 201.- Están exentos del pago del impuesto a que se refiere este capítulo:
 
@@ -1947,7 +1951,7 @@ X.- Los intereses que perciba el Instituto del Fondo Nacional de la Vivienda par
 
 #### SECCION PRIMERA. OBJETO
 
-> <small>N. DE E. SE SUSPENDE LA APLICACION DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO SEGUNDO DEL DECRETO No. 286-73, PUBLICADO EN P.O. 25 DE ABRIL DE 1973.</small>
+> <small>N. DE E. SE SUSPENDE LA APLICACIÓN DEL PRESENTE DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO DEL DECRETO No. 286-73, PUBLICADO EN P.O. 25 DE ABRIL DE 1973.</small>
 
 202.- El Impuesto sobre el Comercio y la Industria grava, en los términos de los artículos siguientes, los ingresos que se obtengan:
 
@@ -2019,7 +2023,7 @@ IV.- Los contribuyentes radicados fuera del Estado manifestarán directamente o 
 
 #### SECCION TERCERA. GRUPOS Y TASAS
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 212.- Los ingresos se clasificarán en cinco grupos y causarán el impuesto conforme a las tasas que a continuación se indican:
 
@@ -2093,9 +2097,7 @@ QUINTO GRUPO.- $0.02 (Dos centavos) por kilo sobre las ventas de primera mano de
 
 SEXTO GRUPO.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1975)
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 532/2011 I P.O. PUBLICADO EN P.O. DE 24 DE DICIEMBRE DE 2011, SE REFORMA EL ARTÍCULO 212, CUARTO GRUPO, FRACCIÓN V, SEGUNDO PÁRRAFO, EN DONDE SE CITA EL TEXTO "QUINTO GRUPO AL OCTAVO GRUPO..."; SIENDO QUE EL ARTÍCULO SE REFORMÓ INTEGRALMENTE EL 30 DE DICIEMBRE DE 1972, PASANDO DE OCHO GRUPOS A SEIS GRUPOS; HABIENDO DIFERENCIA CON LA HISTORIA LEGISLATIVA QUE TIENE PUBLICADA EL CONGRESO DEL ESTADO PUDIÉNDOSE CONSULTAR EN LA PAGINA ELECTRÓNICA.</small>
-
-http://www.congresochihuahua.gob.mx/gestorbiblioteca/gestorcodigos/archivosCodigos/29.pdf.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. 532/2011 I P.O. PUBLICADO EN P.O. DE 24 DE DICIEMBRE DE 2011, SE REFORMA EL ARTÍCULO 212, CUARTO GRUPO, FRACCIÓN V, SEGUNDO PÁRRAFO, EN DONDE SE CITA EL TEXTO "QUINTO GRUPO AL OCTAVO GRUPO..."; SIENDO QUE EL ARTÍCULO SE REFORMÓ INTEGRALMENTE EL 30 DE DICIEMBRE DE 1972, PASANDO DE OCHO GRUPOS A SEIS GRUPOS; HABIENDO DIFERENCIA CON LA HISTORIA LEGISLATIVA QUE TIENE PUBLICADA EL CONGRESO DEL ESTADO PUDIÉNDOSE CONSULTAR EN LA PAGINA ELECTRÓNICA http://www.congresochihuahua.gob.mx/gestorbiblioteca/gestorcodigos/archivosCodigos/29.pdf.</small>
 
 213.- En todas aquellas operaciones que sean realizadas en forma accidental, por sujetos no empadronados, el impuesto se pagará aplicando la tasa que corresponda conforme al artículo anterior.
 
@@ -2383,7 +2385,7 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 239.- Para la mejor administración y control de este impuesto, se procederá a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el Impuesto de acuerdo con los ingresos realmente percibidos. Para tal revisión se estará a lo dispuesto por el artículo 23 de este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE D 1977)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE D 1977)</small>
 
 #### SECCION DECIMA. LIQUIDACIONES A CUOTA FIJA
 
@@ -2525,7 +2527,7 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 
 257.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
 258.- Los propietarios, administradores, o encargados de los despepitadores de algodón están obligados:
 
@@ -2907,7 +2909,7 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 
 302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1971)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
@@ -3361,7 +3363,7 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 
 304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
 
 305.- El impuesto se causará de acuerdo con la siguiente tarifa:
 
@@ -3499,7 +3501,7 @@ Los derechos de control vehicular por canje o dotación de placas incluirán la 
 
 309.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 310.- No causan los derechos a que se refiere este capítulo:
 
@@ -3527,7 +3529,7 @@ IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones
 
 X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 ### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
 
@@ -3849,7 +3851,7 @@ X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún
 
 #### SECCION CUARTA. DEMANDA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 414.- La demanda deberá presentarse directamente al Tribunal de Justicia o enviarse por correo certificado dentro de los quince días siguientes al en que surta efectos la notificación del acto impugnado, al en que haya tenido conocimiento de ellos ó de su ejecución o al en que se hubiese ostentado sabedor de los mismos. Cuando la notificación no sea necesaria, el plazo contará a partir del día siguiente al en que se haya practicado el requerimiento de pago.
 
@@ -4025,7 +4027,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 443.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION SEGUNDA. EXENCIONES
 
@@ -4047,7 +4049,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 452.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION TERCERA. PROCEDIMIENTO
 
@@ -4083,17 +4085,17 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 468.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 # LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
 
 ## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 ### CAPITULO I. FOMENTO A LA INDUSTRIA
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION CUARTA. OBLIGACIONES DE LOS BENEFICIARIOS
 
@@ -4113,7 +4115,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 476.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 #### SECCION QUINTA. INFRACCIONES Y SANCIONES
 
@@ -4125,7 +4127,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 480.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -4137,7 +4139,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION SEGUNDA. EXENCIONES
 
@@ -4151,7 +4153,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. PROCEDIMIENTO
 
@@ -4173,7 +4175,7 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 ### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. PROCEDIMIENTO
 
@@ -4253,11 +4255,11 @@ Palacio de Gobierno del Estado de Chihuahua, a veintitrés de diciembre de mil n
 
 El Gobernador Constitucional del Estado, Lic. Oscar Flores.- El Secretario General de Gobierno, Lic. Ramiro Cota Martínez.- El Tesorero General del Estado, C.P. Jorge Navarro Ayala.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE ABRIL DE 1971.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO No. 521-71, QUE A LA LETRA DICE:</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL DECRETO No. 521-71, QUE A LA LETRA DICE:</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
@@ -4303,7 +4305,7 @@ P.O. 25 DE ABRIL DE 1973.
 
 DECRETO No. 286-73.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTICULO SEGUNDO DEL DECRETO No. 286-73, QUE A LA LETRA DICE:</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL DECRETO No. 286-73, QUE A LA LETRA DICE:</small>
 
 "ARTICULO SEGUNDO.- Mientras se encuentre en vigor el convenio que se aprueba se suspende la aplicación de las disposiciones del Código Fiscal del Estado que en materia del Impuesto sobre el Comercio y la Industria gravan los ingresos por las operaciones previstas en el artículo 202 del Código Fiscal del Estado, sólo en cuanto sean diversos a los autorizados expresa o tácitamente por el artículo 81 de la Ley Federal del Impuesto sobre Ingresos Mercantiles y en el convenio de coordinación que se aprueba, debiendo percibir el Estado de Chihuahua una participación del 45% importe de los ingresos gravables por la citada Ley Federal percibidos dentro de su territorio. A los ingresos gravados por las disposiciones legales estatales, se aplicarán las tasas actualmente en vigor o las que en el futuro se establezcan."
 
@@ -4609,7 +4611,7 @@ P.O. 25 DE DICIEMBRE DE 2002.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO SEGUNDO.
 
@@ -4770,3 +4772,21 @@ P.O. 24 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días naturales posteriores a aquél de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la vigencia del presente Decreto quedan derogados los siguientes ordenamientos: Reglamentación Local relativa a las Descargas de Aguas Residuales no Domésticas al Sistema de Drenaje, del 18 de octubre de 1997, publicada en el Periódico Oficial del Estado No. 84; Reglamento de Juntas Rurales de Agua Potable de 1987; Reglamento del Consejo Estatal para el Uso Inteligente y Responsable del Agua, del 15 de septiembre de 1994, publicado en el Periódico Oficial del Estado No. 74, y el Reglamento para la Construcción de Edificaciones y sus Instalaciones Hidráulicas y Sanitarias y Fraccionamientos para el Municipio de Chihuahua. Así mismo, se deroga cualquier disposición que se oponga a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Central, así como las juntas municipales y rurales, no se verán afectadas con motivo de la entrada en vigor del presente Decreto, por lo que cualquier derecho u obligación asumido con anterioridad, con motivo de alguna disposición legal, de convenio o contrato o de cualquier otro origen, subsistirán en tanto no se opongan a lo previsto por la Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
