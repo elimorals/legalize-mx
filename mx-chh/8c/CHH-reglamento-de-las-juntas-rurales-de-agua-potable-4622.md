@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-las-juntas-rurales-de-agua-potable-4622"
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-10-03"
-last_updated: "1987-10-03"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 REGLAMENTO DE LAS JUNTAS RURALES DE AGUA POTABLE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P. O. DE 31 DE MARZO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ DEROGADO A LOS TREINTA DÍAS NATURALES POSTERIORES A LA PUBLICACIÓN DE LA NUEVA LEY.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 3 de octubre de 1987.
 
@@ -364,3 +366,23 @@ LIC. MARTHA I. LARA ALATORRE
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 LIC. FERNANDO BAEZA MELENDEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días naturales posteriores a aquél de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la vigencia del presente Decreto quedan derogados los siguientes ordenamientos: Reglamentación Local relativa a las Descargas de Aguas Residuales no Domésticas al Sistema de Drenaje, del 18 de octubre de 1997, publicada en el Periódico Oficial del Estado No. 84; Reglamento de Juntas Rurales de Agua Potable de 1987; Reglamento del Consejo Estatal para el Uso Inteligente y Responsable del Agua, del 15 de septiembre de 1994, publicado en el Periódico Oficial del Estado No. 74, y el Reglamento para la Construcción de Edificaciones y sus Instalaciones Hidráulicas y Sanitarias y Fraccionamientos para el Municipio de Chihuahua. Así mismo, se deroga cualquier disposición que se oponga a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Central, así como las juntas municipales y rurales, no se verán afectadas con motivo de la entrada en vigor del presente Decreto, por lo que cualquier derecho u obligación asumido con anterioridad, con motivo de alguna disposición legal, de convenio o contrato o de cualquier otro origen, subsistirán en tanto no se opongan a lo previsto por la Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
