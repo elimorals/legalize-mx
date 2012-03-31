@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2012-02-04"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -39,7 +39,7 @@ LA SIGUIENTE
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
 
-## TITULO PRIMERO. De la Administración Pública Estatal
+## TITULO PRIMERO. DE LA ADMINISTRACION PUBLICA ESTATAL
 
 ### CAPITULO UNICO
 
@@ -75,7 +75,7 @@ En el ejercicio de las atribuciones y para el despacho de los negocios del orden
 
 I.- Las Secretarías;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -105,7 +105,7 @@ IV.- Fideicomisos.
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -137,7 +137,7 @@ En caso que la información solicitada por el Congreso estuviere disponible en o
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
-## TITULO SEGUNDO. De la Administración Pública Centralizada
+## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -165,7 +165,7 @@ Las dependencias formularán respecto de los asuntos de su competencia, los proy
 
 Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado deberán, para su validez y observancia constitucionales, ir firmados por el Secretario General de Gobierno y el titular de la dependencia a la que el asunto corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -227,7 +227,7 @@ En el reglamento interior de cada una de las dependencias, que será expedido po
 
 El titular de cada dependencia expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus Unidades administrativas, así como los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interior, deberán mantenerse actualizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -263,7 +263,7 @@ En casos extraordinarios o cuando exista duda de la competencia de alguna depend
 
 Cuando alguna dependencia necesite informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -273,13 +273,13 @@ Para el estudio, planeación y despacho de los asuntos del orden administrativo,
 
 I.- Secretaría General de Gobierno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 II.- Secretaría de Hacienda;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -289,19 +289,19 @@ IV.- Secretaría de Fomento Social;
 
 V.- Secretaría de Salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VI.- Secretaría de Educación, Cultura y Deporte;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VII.- Secretaría del Trabajo y Previsión Social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 VIII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
@@ -311,31 +311,31 @@ X.- Secretaría de Desarrollo Urbano y Ecología;
 
 XI.- Secretaría de Desarrollo Rural;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 XII.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
 XIII.- Secretaría de la Contraloría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIV.- Fiscalía General del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 XV.- (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 XVI.- (DEROGADA [N. DE. E., REPUBLICADA], P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO II. DE LA COMPETENCIA DE LAS DEPENDENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 25.
 
@@ -387,7 +387,7 @@ XVI.- Ejercer las funciones que la ley determina en materia de cultos, iglesias,
 
 XVII.- En los términos de la Ley respectiva, expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, y vigilar la correcta aplicación de las disposiciones en esta materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -401,7 +401,7 @@ XIX. Ejercer y garantizar la seguridad de las carreteras dependientes del Estado
 
 XX. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones o permisos de servicio público de transporte de personas, de carga o mixto, en las carreteras y demás vías de comunicación de competencia estatal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -409,43 +409,43 @@ XXI. Elaborar e impartir cursos de capacitación dirigidos a los Presidentes Mun
 
 Así mismo, dada la diversa naturaleza de la gestión de regidores y síndicos municipales, elaborar e impartir cursos de capacitación para éstos con los mismos requisitos y consecuencias que los citados en el párrafo anterior;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXII. Brindar capacitación permanente a los miembros de los ayuntamientos y de la administración pública municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXIII. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y fomentar la participación ciudadana; participar en comités, consejos y demás órganos de coordinación de la Administración Pública vinculados con la promoción del desarrollo municipal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXIV. Intervenir, en auxilio y coordinación con las autoridades federales, en los términos de las leyes vigentes, en materia demográfica, migración, de cultos religiosos, loterías, rifas, sorteos y juegos, clubes de caza, tiro y pesca, así como portación de armas, uso de explosivos, detonantes y pirotecnia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXV. Fomentar y apoyar la realización de programas de colaboración intermunicipales, para coadyuvar e incidir en la prevención o solución de problemas comunes a más de un municipio o que faciliten la convivencia de sus habitantes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXVI. Participar en los planes, programas y acciones de población en los términos que establezcan las leyes, así como coordinar y vigilar el funcionamiento del Consejo Estatal de Población.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXVII. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -559,11 +559,11 @@ L. Determinar y aplicar las normas, lineamientos, técnicas, procedimientos y si
 
 LI. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 ARTICULO 26 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -587,7 +587,7 @@ VII.- Coordinar el diseño, instrumentación, evaluación y seguimiento de los p
 
 VIII.- Promover y fomentar acciones para fortalecer el desarrollo de la familia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -603,7 +603,7 @@ XIII.- Fomentar las actividades de las organizaciones de la sociedad civil que i
 
 XIV.- Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -657,7 +657,7 @@ XXII.- Administrar el patrimonio de la Beneficencia Pública en materia de salud
 
 XXIII.- Las demás que le fijen expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -713,11 +713,11 @@ XXIII. Dirigir y vigilar el cumplimiento de la Ley de Desarrollo y Fomento Econ�
 
 XXIV. Los demás que le fijen expresamente las leyes y sus reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 ARTICULO 28 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -749,13 +749,13 @@ V.- Coordinar con las universidades e instituciones de educación superior lo re
 
 VI.- Impulsar actividades de difusión y fomento a la cultura;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VII.- Otorgar a instituciones y particulares becas, subsidios educativos, culturales y deportivos, conforme a los montos autorizados en el Presupuesto de Egresos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -765,7 +765,7 @@ VIII.- Coordinar y evaluar el funcionamiento de los organismos y entidades estat
 
 IX.- Ejercer las atribuciones establecidas en la Ley Estatal de Profesiones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -791,31 +791,31 @@ XIV.- Fomentar y apoyar las actividades relacionadas con la ciencia y tecnologí
 
 XV.- Ser autoridad en materia de infraestructura física educativa, en los términos previstos por las leyes y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVI.- Organizar, coordinar y fomentar la enseñanza y práctica de los deportes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVII.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno del Estado en las materias establecidas en este artículo, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 30.
 
 A la Secretaría de Comunicaciones y Obras Públicas corresponde el despacho de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -887,25 +887,25 @@ XII.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos con relac
 
 XIII.- Instrumentar, ejecutar y evaluar los programas, servicios y acciones relativos a la conservación y aprovechamiento sustentable de la vida silvestre, en el Estado, de conformidad con la normatividad aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIV.- En apoyo al fortalecimiento técnico, financiero y fiscal de los municipios, observar el cumplimiento de las leyes y sus reglamentos con relación a las funciones del catastro, así como vigilar la organización y el funcionamiento de la unidad administrativa que ejerza estas atribuciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XV.- Integrar y mantener actualizado el catastro estatal, con los datos que proporcionen los municipios y aquellos que obtenga el propio Estado, tales como la información geográfica y la cartografía básica y, en general, ejercer las atribuciones que al Gobierno del Estado correspondan de conformidad con la Ley de Catastro; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 32.
 
@@ -947,7 +947,7 @@ VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relac
 
 IX.- Los demás que le fijen expresamente las leyes y sus reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1049,37 +1049,37 @@ XVI.- En representación del Estado, salvo disposición expresa del Gobernador, 
 
 XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de auditoría interna, así como vigilar el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XVIII.- Formular y difundir la normatividad para la elaboración de manuales de organización, de procedimientos y de servicios, así como de reglamentos interiores y demás instrumentos administrativos que formalizan la estructura y el funcionamiento de las dependencias y entidades de la administración pública estatal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XIX. Normar, planear, diseñar y evaluar, conjuntamente con las dependencias y entidades de la administración pública estatal, las adecuaciones que deban hacerse en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para lograr su desarrollo y modernización, evaluando el desempeño de los resultados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XX. Planear, desarrollar y mantener la infraestructura de tecnología de información y comunicación a nivel competitivo, así como una plataforma de desarrollo de sistemas basada en un modelo integral de datos que permita optimizar las funciones del Ejecutivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXI. Desarrollar los sistemas informáticos, con excepción de aquellos sistemas y equipos estratégicos bajo la responsabilidad de otras dependencias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 XXII. Las demás que le atribuyan expresamente las leyes, los reglamentos y demás disposiciones normativas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1167,11 +1167,11 @@ IV. Diseñar la política criminal para la aplicación de las medidas de segurid
 
 V. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 ARTICULO 35 BIS.- (DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1189,7 +1189,7 @@ ARTICULO 36 BIS.- (DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-> <small>(DEROGADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 ### CAPITULO UNICO
 
@@ -1237,7 +1237,7 @@ La vigilancia de la participación estatal estará a cargo de un Comisario desig
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
-> <small>(REFORMADO PRIMAR PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 41.
 
@@ -1247,13 +1247,21 @@ Los fideicomisos a que se refiere esta Ley, serán aquellos cuya creación autor
 
 Las entidades a que se refiere el artículo 3 de esta ley fungirá (sic) como fideicomitentes en los fideicomisos en que dichas entidades aporten recursos para la constitución del patrimonio fideicomitido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### ARTICULO 42.
 
-El Gobernador del Estado está facultado para determinar agrupamientos de entidades de la administración pública paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo, en cumplimiento de las disposiciones legales aplicables, se realicen a través de la dependencia que en cada caso designe como coordinadora del sector correspondiente.
+El Gobernador del Estado está facultado para determinar agrupamientos de entidades de la administración pública paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo, en cumplimiento de las disposiciones legales aplicables, se realicen a través de la dependencia o entidad que en cada caso designe como coordinadora del sector correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 43.
 
-Corresponderá a la dependencia encargada de la coordinación del sector a que se refiere el artículo anterior, supervisar la programación, coordinación y evaluación de la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo.
+Corresponderá a la dependencia o entidad encargada de la coordinación del sector a que se refiere el artículo anterior, supervisar la programación, coordinación y evaluación de la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1325,7 +1333,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO VILLALOBOS OLVERA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE AGOSTO DE 1987.
 
@@ -1355,7 +1363,7 @@ UNICO: Este Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 16 DE SEPTIEMBRE DE 1987.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1367,7 +1375,7 @@ Se derogan el Libro Segundo, Título Uno de la Asistencia Pública, Capítulo Un
 
 P.O. 19 DE ENERO DE 1991.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1445,7 +1453,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 
 P.O. 28 DE ENERO DE 1998.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1948,3 +1956,21 @@ DECRETO No. 733/2012 V P.E. POR EL QUE SE REFORMA EL DECRETO No. 386/2011 II P.O
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días naturales posteriores a aquél de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la vigencia del presente Decreto quedan derogados los siguientes ordenamientos: Reglamentación Local relativa a las Descargas de Aguas Residuales no Domésticas al Sistema de Drenaje, del 18 de octubre de 1997, publicada en el Periódico Oficial del Estado No. 84; Reglamento de Juntas Rurales de Agua Potable de 1987; Reglamento del Consejo Estatal para el Uso Inteligente y Responsable del Agua, del 15 de septiembre de 1994, publicado en el Periódico Oficial del Estado No. 74, y el Reglamento para la Construcción de Edificaciones y sus Instalaciones Hidráulicas y Sanitarias y Fraccionamientos para el Municipio de Chihuahua. Así mismo, se deroga cualquier disposición que se oponga a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Central, así como las juntas municipales y rurales, no se verán afectadas con motivo de la entrada en vigor del presente Decreto, por lo que cualquier derecho u obligación asumido con anterioridad, con motivo de alguna disposición legal, de convenio o contrato o de cualquier otro origen, subsistirán en tanto no se opongan a lo previsto por la Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
