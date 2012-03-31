@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-01-10"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE MAYO Y 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II, PÁGINAS 3 A 4 Y 5 A 13; EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE ENERO DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 23917/LXI/11 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -235,7 +235,7 @@ XI. La Presidencia levanta la sesión, citando para la siguiente sesión.
 
 1. El Congreso del Estado, a través de su Presidente debe rendir en sesión solemne el 31 de enero de cada año a la que se invite al Gobernador del Estado y al representante del Poder Judicial del Estado, un informe anual de actividades, el cual debe celebrarse de conformidad con lo que establezca el reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO V. De la Planeación Institucional del Poder Legislativo
 
@@ -341,7 +341,7 @@ II. La Agenda Legislativa deberá publicarse dentro de los primeros dos meses de
 
 III. Los programas operativos anuales serán aprobados a más tardar el día primero de noviembre de cada año.
 
-(REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 4 DE ENERO DE 2007)
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 4 DE ENERO DE 2007)
 
 ### CAPÍTULO VI. Clausura de la Legislatura
 
@@ -483,7 +483,7 @@ III. El acta en la que conste el nombre del Diputado que haya sido designado o e
 
 (ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
 
-Artículo 28 Bis
+###### Artículo 28 Bis.
 
 I. Los grupos parlamentarios a través de sus coordinadores, deberán entregar a la Comisión de Administración un informe trimestral sobre la aplicación de los recursos económicos y materiales que les son asignados a los grupos parlamentarios, anexando la documentación comprobatoria que justifique las erogaciones realizadas; los cuales deberán ser publicados en la página de internet del Congreso del Estado.
 
@@ -719,7 +719,7 @@ III. Contar con título profesional legalmente expedido, en las áreas de cienci
 
 IV. Acreditar conocimientos y experiencia para el desempeño de las tareas inherentes al cargo; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCION VI], P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN VI], P.O. 13 DE ENERO DE 2007)</small>
 
 V. No haber sido condenado por delito intencional que amerite pena de privación de la libertad.
 
@@ -959,7 +959,7 @@ V. No haber sido condenado por delito intencional que amerite pena de privación
 
 ###### Artículo 62.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2006)</small>
 
 1. El Instituto de Investigación y Estudios Legislativos tiene las siguientes obligaciones:
 
@@ -1027,7 +1027,7 @@ V. Auxiliar a la Comisión de Puntos Constitucionales, Estudios Legislativos y R
 
 VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
 
 ### CAPÍTULO VII. Órgano Técnico de Asuntos Metropolitanos
 
@@ -1067,7 +1067,7 @@ V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, rel
 
 VI. Las demás que le correspondan de conformidad a las leyes y reglamentos vigentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
 
 ### CAPÍTULO VIII. Órgano Técnico de Educación
 
@@ -1107,7 +1107,7 @@ V. Analizar el efecto social de la legislación federal y estatal relacionados c
 
 VI. Las demás que señalen las leyes y reglamentos de la materia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
 
 ### CAPÍTULO IX. Órgano Técnico de Desarrollo Humano
 
@@ -1123,7 +1123,7 @@ Artículo 62 G.
 
 2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Desarrollo Humano y Familia. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 3. Para ser designado titular del Órgano Técnico de Desarrollo Humano y Familia se requiere:
 
@@ -1153,7 +1153,7 @@ V. Apoyar en la revisión de los dictámenes de las comisiones legislativas rela
 
 VI. Las demás que le correspondan de conformidad con las leyes y reglamentos vigentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE ABRIL DE 2007)</small>
 
 ### CAPÍTULO X. Órgano Técnico de Seguridad Pública
 
@@ -1193,7 +1193,7 @@ V. Apoyar en la revisión de los dictámenes de las comisiones legislativas, rel
 
 VI. Las demás que le correspondan de conformidad con las leyes y reglamentos vigentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO XI. Unidad de Vigilancia
 
@@ -1245,7 +1245,7 @@ X. Recibir las quejas que presenten los sujetos fiscalizables y darles cauce leg
 
 XI. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias.
 
-(REUBICADO [N. DE E. ANTES CAPITULO XI], P.O. 10 DE FEBRERO DE 2011)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 10 DE FEBRERO DE 2011)
 
 ### CAPÍTULO XII. De las Propuestas de los Órganos Auxiliares
 
@@ -1449,7 +1449,7 @@ XXI. Hacienda y Presupuestos;
 
 XXII. Higiene y Salud Pública;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XXIII. (REFORMADA [N. DE E. DEROGADA], P.O. 5 DE JULIO DE 2008)
 
@@ -1497,19 +1497,19 @@ XXXIII. Seguridad Pública y Protección Civil;
 
 XXXIV. Trabajo y Previsión Social;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
 XXXV. Turismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
 
 XXXVI. Vialidad, Transporte y Comunicaciones, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1539,7 +1539,7 @@ VI. La formación del inventario pormenorizado de los muebles y enseres de la Se
 
 2. La Comisión está integrada por un diputado de cada una de las fracciones o Grupos Parlamentarios. Sus decisiones se toman por unanimidad.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 23095/LIX/10, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTICULO, QUEDANDO CONFORMADO POR CINCO FRACCIONES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 23095/LIX/10, PUBLICADO EN EL P.O. DE 17 DE JULIO DE 2010, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO, QUEDANDO CONFORMADO POR CINCO FRACCIONES.</small>
 
 ###### Artículo 76.
 
@@ -1881,7 +1881,7 @@ I. La legislación en materia de servicios sanitarios e higiene y salud pública
 
 II. Las políticas, planes y programas para la prevención, difusión, atención y fortalecimiento de la higiene y salud pública.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 91.
 
@@ -1931,7 +1931,7 @@ IV. La prevención, control y combate de la contaminación, en el ámbito de com
 
 ###### Artículo 95.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
 1. Corresponde a la Comisión de Participación Ciudadana y Acceso a la Información Pública el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
@@ -2031,7 +2031,7 @@ VIII. La legislación en materia de responsabilidades de los servidores público
 
 ###### Artículo 100.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2007)</small>
 
 1. Corresponde a la Comisión de Seguridad Pública y Protección Civil, el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
@@ -2079,7 +2079,7 @@ IV. Las políticas, planes y programas de difusión en materia de turismo.
 
 ###### Artículo 103.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
 
 1. Corresponde a la Comisión de Vialidad, Transporte y Comunicaciones el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
@@ -2095,7 +2095,7 @@ V. La construcción y funcionamiento de las vías de comunicación estatales; y
 
 VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2183,9 +2183,11 @@ XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables
 
 7. Las resoluciones de las comisiones, se toman por mayoría relativa y, en caso de empate, el Presidente tiene el voto de calidad.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 108.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
 
 1. Las iniciativas y los asuntos turnados a las comisiones deben dictaminarse en un plazo no mayor a sesenta días naturales, contados a partir de la fecha de su recepción, salvo que:
 
@@ -2201,11 +2203,37 @@ II. Se trate de juicios políticos o de procedencia de juicio penal, en cuyo cas
 
 III. Se trate de acuerdos legislativos, que se dictaminarán dentro de los treinta días naturales, contados a partir de la fecha de su recepción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2012)</small>
+
+IV. Tratándose de las iniciativas que involucren la enajenación o actos traslativos de dominio sobre bienes inmuebles patrimonio del estado de Jalisco, derivadas de proyectos productivos de los contemplados en la Ley para el Desarrollo Económico y la Ley para Promoción a la Inversión, ambas del estado de Jalisco, las comisiones que conozcan de dichas iniciativas deberán presentar su dictamen ante la asamblea en un plazo no mayor a treinta días naturales, contados a partir de la fecha de su recepción y turno, y si a juicio de la comisión, la iniciativa o el asunto requiere de un plazo mayor, esta deberá solicitar una prórroga hasta por un máximo de diez días naturales a la Asamblea del Congreso para su dictaminación, tomando en consideración siempre los criterios de sustentabilidad y desarrollo contemplados en las leyes antes referidas para su dictaminación.
+
+Concluidos los plazos señalados en el párrafo anterior, y tratándose únicamente para casos de los ahí contemplados, la Asamblea del Congreso deberá resolver el dictamen de referencia, en un término no mayor de 15 días naturales posteriores (sic) la fecha del turno del dictamen, por parte de las comisiones dictaminadoras, al área correspondiente. Concluido el término señalado anteriormente, sin que hubiese resuelto dicho dictamen, se entenderá por aprobada la iniciativa en cuestión, bajo el concepto de la afirmativa ficta.
+
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 2. Las iniciativas provenientes de los ciudadanos a que se refiere el artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley de la materia, deben ser dictaminadas en el plazo que determina la ley estatal en materia de participación ciudadana.
 
 3. En el supuesto que una comisión incumpla lo señalado en los párrafos anteriores, el Presidente de la Mesa Directiva turnará el asunto de inmediato a la Junta de Coordinación Política para que, a más tardar, en la sesión siguiente proponga a la Asamblea la creación de la comisión especial con carácter transitorio que debe concluir el estudio y dictamen de la iniciativa o asunto que se trate, concediendo para tal efecto, un plazo no mayor a treinta días naturales, contados a partir de la fecha en que la comisión es integrada.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATA PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+###### Artículo 108
+
+Bis. Además de las facultades concedidas en la Ley Orgánica del Poder Judicial del Estado de Jalisco, las Salas del Poder Judicial del Estado que conozcan de la materia civil y mercantil contarán con facultades para conocer de las demandas de afirmativa ficta que ante ellos haga valer el Ejecutivo del Estado, para actos de enajenación de bienes inmuebles propiedad de los organismos señalados en la Ley para el Desarrollo Económico y la Ley para la Promoción a la Inversión, ambas del Estado de Jalisco, y cuyo objeto de enajenación sea precisamente el impulso y la promoción del Desarrollo Económico y la Inversión, en los términos de lo señalado por el artículo anterior de esta Ley y las cuales se regularán conforme al siguiente procedimiento:
+
+I. El Titular del Poder Ejecutivo del Estado de Jalisco, deberá presentar la solicitud de declaratoria ante cualquier Sala del Poder Judicial que conozca de la materia civil o mercantil, dentro de los cinco días naturales siguientes a que hubiese fenecido el plazo que el Congreso del Estado tiene para la resolución de las iniciativas de procedencia solicitadas para la enajenación de bienes inmuebles propiedad del Estado, para actos de promoción del desarrollo económico y la inversión;
+
+II. La Sala del Poder Judicial admitirá la solicitud y correrá traslado al Congreso del Estado dentro de los siguientes cinco días naturales de la presentación de la misma, para que en un término de cinco días naturales siguientes a la notificación, haga constar ante el (sic) Sala la existencia o no de la resolución que dio origen a la solicitud de la afirmativa ficta;
+
+III. La Sala del Poder Judicial deberá resolver sobre la procedencia de la solicitud de la declaratoria dentro de los diez días naturales siguientes a la conclusión del plazo de la fracción anterior. En los casos en que el Congreso no de contestación a la notificación señalada en la fracción anterior, o en la contestación no se haga constar la resolución de improcedencia debidamente notificada en tiempo y forma al Titular del Ejecutivo del Estado, el (sic) Sala deberá resolver la procedencia de la solicitud de enajenación de bienes inmuebles; y
+
+IV. Es supletoria de este procedimiento la Ley Orgánica del Poder Judicial del Estado de Jalisco, el Código Civil y de Procedimientos Civiles y demás Leyes aplicables.
 
 ###### Artículo 109.
 
@@ -2393,7 +2421,7 @@ III. Las que se convoquen por algún asunto urgente, a consideración de la Mesa
 
 ###### Artículo 132.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 1. Son sesiones solemnes aquellas que determine la asamblea para la conmemoración de aniversarios históricos, así como aquellas en que así lo acuerde la Asamblea cuando:
 
@@ -3171,7 +3199,7 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 1. Si la resolución adoptada por el Congreso del Estado se refiere a la suspensión o revocación del mandato de alguno de los miembros del Ayuntamiento, se notifica a éste para que llame al suplente y desempeñe el cargo durante el término de la suspensión, el cual no puede exceder de un año, o para que concluya el periodo en caso de revocación del mandato.
 
-(ADICIONADO CON LA SECCION Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. D E., P.O. 12 DE JUNIO DE 2010)
+(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2009) (F. D E., P.O. 12 DE JUNIO DE 2010)
 
 ### CAPÍTULO ÚNICO
 
@@ -3781,7 +3809,7 @@ Archivo y Editorial.
 
 CUARTO.- Los asuntos pendientes de resolver deben concluirse observando las disposiciones de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2004)</small>
 
 QUINTO.- El Congreso del Estado tiene un plazo de noventa días hábiles, a partir de la entrada en vigor de la presente ley, para emitir el reglamento de esta ley.
 
@@ -3813,7 +3841,7 @@ RICARDO RÍOS BOJÓRQUEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 8 DE MAYO DE 2004.
 
@@ -3825,13 +3853,13 @@ P.O. 19 DE AGOSTO DE 2004.
 
 P.O. 9 DE NOVIEMBRE DE 2004.
 
-DECRETO NO. 20689 QUE REFORMA EL ARTICULO 108
+DECRETO NO. 20689 QUE REFORMA EL ARTÍCULO 108
 
 UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 9 DE NOVIEMBRE DE 2004.
 
-DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
+DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTÍCULOS
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
@@ -3851,7 +3879,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 11 DE OCTUBRE DE 2005.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE JALISCO.
 
 P.O. 17 DE NOVIEMBRE DE 2005.
 
@@ -3985,7 +4013,7 @@ P.O. 2 DE DICIEMBRE DE 2010.
 
 P.O. 9 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 23177/LIX/10, POR EL QUE SE REFORMA EL ARTICULO 73 FRACCION XXVII Y 95 PARRAFO 1 FRACCION I DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23177/LIX/10, POR EL QUE SE REFORMA EL ARTÍCULO 73 FRACCIÓN XXVII Y 95 PÁRRAFO 1 FRACCIÓN I DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -3993,13 +4021,13 @@ SEGUNDO. Los asuntos pendientes de resolver por parte de la comisión de partici
 
 P.O. 9 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 23178/LIX/10, POR EL QUE SE REFORMA DE LA FRACCION VI DEL ARTICULO 21 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23178/LIX/10, POR EL QUE SE REFORMA DE LA FRACCIÓN VI DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 9 DE DICIEMBRE DE 2010.
 
-NUMERO 23180/LIX/10, POR EL QUE SE MODIFICA Y ADICIONA UNA FRACCION XIV RECORRIENDOSE EL TEXTO EN SU ORDEN, AL ARTICULO 22 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+NÚMERO 23180/LIX/10, POR EL QUE SE MODIFICA Y ADICIONA UNA FRACCIÓN XIV RECORRIÉNDOSE EL TEXTO EN SU ORDEN, AL ARTÍCULO 22 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -4009,13 +4037,13 @@ P.O. 23 DE DICIEMBRE DE 2010.
 
 P.O. 10 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 23481/LIX/10, POR EL QUE SE ADICIONA UN CAPITULO XI AL TITULO QUINTO, RECORRIENDOSE EL ACTUAL EN SU NUMERO Y ORDEN, CONTENIENDO LOS ARTICULOS 62-K, 62-L Y 63 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23481/LIX/10, POR EL QUE SE ADICIONA UN CAPÍTULO XI AL TÍTULO QUINTO, RECORRIÉNDOSE EL ACTUAL EN SU NÚMERO Y ORDEN, CONTENIENDO LOS ARTÍCULOS 62-K, 62-L Y 63 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 10 DE FEBRERO DE 2011.
 
-DECRETO NUMERO 23482/LIX/10, POR EL QUE SE REFORMA EL ARTICULO 108 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23482/LIX/10, POR EL QUE SE REFORMA EL ARTÍCULO 108 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -4032,3 +4060,21 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 P.O. 27 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2013, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto No. 18797 de la Ley para el Fomento Económico del Estado de Jalisco y demás disposiciones legales que se opongan al presente decreto.
+
+TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción del (sic) Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+
+CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
+
+QUINTO. El patrimonio con que actualmente cuenta el Consejo Estatal de Promoción Económica creado por la Ley de Fomento Económico del Estado de Jalisco, pasará a ser patrimonio del mismo Consejo señalado en la nueva Ley para el Desarrollo Económico del Estado de Jalisco. De igual manera quedarán bajo el encargo del Consejo Estatal de Promoción Económica de la nueva Ley para el Desarrollo Económico, los recursos materiales, financieros y humanos, así como todos los derechos y obligaciones que actualmente tiene del Consejo Estatal de Promoción Económica, para lo cual las secretarías de Administración y de Finanzas del Gobierno del Estado deberán prestar todas las facilidades y realizar todas las gestiones necesarias, observando en todo momento el respeto irrestricto a los derechos laborales de los trabajadores del organismo y el reconocimiento de su propia antigüedad laboral.
+
+SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y segundo, de la Ley para el Desarrollo Económico del Estado de Jalisco, las obligaciones ahí contenidas deberán cumplimentarse, en los términos de lo señalado por la propia Ley de Planeación correspondiente.
+
+SÉPTIMA. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente Único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
