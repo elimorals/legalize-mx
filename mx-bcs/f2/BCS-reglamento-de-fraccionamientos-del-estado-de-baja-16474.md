@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-fraccionamientos-del-estado-de-baja-16474"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-31"
-last_updated: "2000-05-31"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO DE FRACCIONAMIENTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 31 de mayo de 2000.
 
@@ -131,23 +131,25 @@ VI. Las características y dimensiones de los lotes.
 
 En base a su uso y densidad los fraccionamientos se clasifican en:
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE MARZO DE 2012)</small>
+
 a) Habitacional:
 
-• Residencial Turístico
+• Residencial turístico
 
-• Residencial Alto
+• Residencial alto
 
-• Residencial Medio
+• Residencial medio
 
-• De Interés Medio
+• De interés medio
 
-• De Interés Social Institucional
+• De interés social institucional
 
-• De Habitación popular
+• De habitación popular
 
-• De Urbanización Progresiva
+• De urbanización progresiva
 
-• Campestre Residencial
+• Campestre residencial
 
 b) Industrial:
 
@@ -297,6 +299,52 @@ VIII. La restricción frontal será de 2.50 metros como mínimo y 40 % de esta �
 
 IX. Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
 
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2012)</small>
+
+De Vivienda Económica Popular.- Los fraccionamientos de Vivienda Económica Popular serán aplicables únicamente a programas gubernamentales de subsidio, programas públicos y público-privados de asistencia social para vivienda. Tendrán como uso el de Vivienda Unifamiliar o Vivienda Plurifamiliar, permitiéndose áreas comerciales y/o de servicios en un 10% de la superficie total vendible, debiendo presentar un Reglamento Interno que será autorizado por la Dirección.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2012)</small>
+
+La lotificación y edificación estará sujeta a los siguientes lineamientos:
+
+1) Vivienda Unifamiliar:
+
+I. La densidad máxima será la más alta entre 60 viviendas por hectárea y la densidad que establezcan los Planes de Desarrollo Urbano.
+
+II. La superficie mínima de lote será de 105.00 metros cuadrados.
+
+III. El frente mínimo de lote será de 7.00 metros lineales.
+
+IV. El C.O.S. no será mayor del 0.6 de la superficie total del lote.
+
+V. El C.U.S. no deberá exceder el 1.2 dela (sic) superficie total del lote.
+
+VI. La altura máxima de las edificaciones no deberá exceder los 7.00 metros a partir del nivel máximo del terreno natural.
+
+VII. Deberá contar con un cajón para estacionamiento.
+
+VIII. La restricción frontal será de 1.50 metros como mínimo y 40% de esta área será jardinada.
+
+IX. La restricción posterior será de 2 metros como mínimo.
+
+X. Las obras mínimas de urbanización serán, sistema de abastecimiento o factibilidad de dotación de agua potable, sistema para la disposición de aguas residuales, redes de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+
+2) Vivienda Plurifamiliar:
+
+I. La densidad máxima será la más alta entre 90 viviendas por hectárea y la densidad que establezcan los planes de desarrollo urbano.
+
+II. La altura máxima de las edificaciones no deberá exceder los 12 metros a partir del nivel máximo del terreno natural.
+
+III. Deberá contar con un cajón para estacionamiento por cada unidad familiar mas uno para visitas por cada 10 unidades.
+
+IV. La restricción frontal será de 2 metros como mínimo y 40% de esta área será jardinada.
+
+V. Las obras mínimas de urbanización serán el sistema de abastecimiento o factibilidad de dotación de agua potable, drenaje, energía eléctrica y alumbrado público, banquetas, guarniciones y pavimento.
+
+VI. Deberá cumplir con lo establecido en los planes y programas de desarrollo urbano, así como con lo previsto en el Reglamento de Construcciones de Baja California Sur, de conformidad con sus características tipológicas.
+
+VII. Las características relativas a su uso y constitución deberán ser acordes a lo establecido en la Ley Sobre el Régimen de Propiedad en Condominio del Estado de Baja California Sur.
+
 De Urbanización Progresiva.- Los fraccionamientos tipo urbanización progresiva tendrán las mismas características que el de tipo interés social. Estos fraccionamientos solo se autorizarán a las instituciones oficiales y a particulares que participen con las mismas, por medio de asociaciones en participación.
 
 Estos fraccionamientos se podrán llevar acabo (sic) en forma progresiva, a través de un programa de introducción de servicios y construcción de vivienda.
@@ -359,7 +407,7 @@ V. El C.U.S. no será mayor del 1.2 de la superficie total del lote.
 
 VI. La altura máxima de las edificaciones no deberá exceder de los 10 m., a partir del nivel máximo del terreno natural, con respecto a la edificación, los casos específicos se deberán justificar ante la dependencia correspondiente.
 
-VII. Deberá contar con un mínimo de 3 cajones para estacionamiento por cada lote de 400.00 m2 o múltiplos de éste.
+VII. Deberá contar con un mínimo de 3 cajones para estacionamiento por cada lote de 4e 4e 4e 4e 4e 4e 4 4e 4e 4e 4e 4lote de 4lote de 4lote de 4e de 4e 400.00 m2 o múltiplos de éste.
 
 VIII. La restricción frontal será de 6.00 m. como mínimo y deberán considerar áreas verdes.
 
@@ -405,7 +453,7 @@ II. La superficie mínima del lote será de 10,000.00 m2.
 
 III. El frente mínimo será de 100.00 m.
 
-IV. El C.O.S. no será mayor del 0.4 de la superficie total del lodel lodel lote.
+IV. El C.O.S. no será mayor del 0.4 de la superficie total del lote.
 
 V. El C.U.S. no será mayor del 0.8 de la superficie total del lote.
 
@@ -963,9 +1011,11 @@ Cuando uno o más predios colindantes compartan proyectos de urbanización, y pr
 
 ### CAPITULO NOVENO. DE LAS OBLIGACIONES DE LAS AUTORIDADES
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2012)</small>
+
 ###### Artículo 52.
 
-El Ayuntamiento promoverá y fomentará la construcción de fraccionamientos de habitación popular, de urbanización progresiva o de interés social institucional, a efecto que las familias de escasos recursos que carezcan de vivienda, tengan la oportunidad de adquirir un lote, en las mejores condiciones posibles, coadyuvando en el ámbito de su competencia, en la organización de los interesados para la obtención de créditos de las instituciones de apoyo a la construcción de vivienda.
+El Ayuntamiento promoverá y fomentará la construcción de fraccionamientos de Habitación Popular, de Interés Social Institucional, de Vivienda Económica Popular y de Urbanización Progresiva, a efecto que las familias de escasos recursos que carezcan de vivienda, tengan la oportunidad de adquirir un lote o vivienda, en las mejores condiciones posibles, coadyuvando en el ámbito de su competencia, en la organización de los interesados para la obtención de créditos de las instituciones de apoyo a la construcción de vivienda.
 
 ###### Artículo 53.
 
@@ -1179,9 +1229,11 @@ Las infracciones administrativas imputables a los servidores públicos del Gobie
 
 ### CAPITULO DECIMO TERCERO. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, B.O. 31 DE MARZO DE 2012)</small>
+
 ###### Artículo 74.
 
-Las resoluciones dictadas por las autoridades municipales, podrán ser impugnadas mediante los medios de defensa que señala capítulo segundo, del titulo séptimo de la Ley Orgánica Municipal y los que se establecen en este Reglamento.
+Las resoluciones dictadas por las autoridades municipales, podrán ser impugnadas conforme lo establece el Artículo 216 del Capítulo Único del Título XI de la Ley Orgánica del Gobierno Municipal.
 
 ## TRANSITORIOS
 
@@ -1210,3 +1262,15 @@ LIC. VICTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE PLANEACION URBANA INFRAESTRUCTURA Y ECOLOGIA
 
 ARQ. FLORENTINO BARRENO ARVALLO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 31 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones reglamentarias y administrativas que se opongan al presente Decreto.
