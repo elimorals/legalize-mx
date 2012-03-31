@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2011-01-08"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE MAYO Y 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II, PÁGINAS 3 A 4 Y 5 A 13; EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -723,6 +725,8 @@ VIII. De las contiendas de acumulación que se susciten en materia penal entre l
 
 IX. De los demás asuntos que determinen las leyes.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTICULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE JUNIO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 48.
 
 Las salas que conozcan de la materia civil y mercantil en los asuntos de los juzgados de su jurisdicción, resolverán:
@@ -735,7 +739,13 @@ III. De los conflictos de competencia que se susciten entre los juzgados de su j
 
 IV. De las demandas de responsabilidad civil que se planteen contra los jueces de su jurisdicción; y
 
-V. De los demás asuntos que fijen las leyes.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+V. De las demandas de afirmativa ficta para actos de enajenación de bienes inmuebles propiedad del Estado, susceptibles de promoción al Desarrollo Económico y la Inversión, en los términos de lo señalado por las leyes de la materia, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2012)</small>
+
+VI. De los demás asuntos que fijen las leyes.
 
 ###### Artículo 49.
 
@@ -1627,17 +1637,27 @@ En el supuesto de que la resolución ordene dejar sin efectos la destitución de
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE MAYO Y 5 DE JUNIO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
 ### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
 ###### Artículo 101.
 
-Los juzgados de la Entidad conocerán asuntos de materia penal, civil, familiar y mercantil según determine el Pleno del Consejo General, conforme a las reglas siguientes:
+Las Salas del Poder Judicial conocerán asuntos de materia penal, civil, familiar y mercantil, según determine el pleno del Consejo General, conforme a las reglas siguientes:
 
 I. En materia penal, conocerán de toda clase de delitos del fuero común, sea cual fuere la pena que les corresponda;
 
-II. Los del ramo civil, conocerán de toda clase de juicios o trámites que determine el Consejo General dentro de sus facultades;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+ll. Los del ramo civil conocerán de:
+
+a) Las demandas de afirmativa ficta para actos de enajenación de bienes inmuebles propiedad del Estado, susceptibles de promoción al Desarrollo Económico y la Inversión, en los términos de lo señalado por el artículo 108, Bis de la Ley Orgánica del Poder Legislativo, la Ley de Desarrollo Económico y la Ley de Promoción a la Inversión, todas ellas del estado de Jalisco;
+
+b) Toda clase de juicios o trámites que determine el Consejo General dentro de sus facultades;
 
 III. En materia familiar, conocerán:
 
@@ -1656,10 +1676,6 @@ f) De las diligencias, de los exhortos, suplicatorias requisitorias y despachos,
 g) De los alimentos, de los depósitos de menores, de separación de los cónyuges, así como de la interdicción de toda clase de personas; y
 
 h) De las cuestiones relativas a los asuntos que afecten en sus derechos personales a los menores e incapacitados, y en general, de todas las cuestiones familiares que requieran la intervención judicial, así como de los procedimientos acumulados al juicio universal;
-
-IV. Los juzgados de lo mercantil, conocerán de toda clase de juicios o trámites relacionados con dicha materia; y
-
-V. Los juzgados mixtos, conocerán de toda clase de asuntos mencionados en las fracciones anteriores.
 
 ###### Artículo 102.
 
@@ -3464,3 +3480,21 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En caso de presentarse solicitudes de haber por retiro durante el presente ejercicio fiscal, tanto de jueces como de magistrados, el Consejo de la Judicatura o los presidentes de los tribunales deberán realizar los trámites correspondientes ante la Secretaría de Finanzas para pagar los haberes por retiro que correspondan, para lo cual se autoriza a ésta a realizar todas las acciones necesarias para el cumplimiento del presente decreto.
 
 TERCERO. El presente decreto sólo aplicará para las solicitudes de haber por retiro que sean presentadas a partir de su entrada en vigor.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2013, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto No. 18797 de la Ley para el Fomento Económico del Estado de Jalisco y demás disposiciones legales que se opongan al presente decreto.
+
+TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción del (sic) Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+
+CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte (sic) en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
+
+QUINTO. El patrimonio con que actualmente cuenta el Consejo Estatal de Promoción Económica creado por la Ley de Fomento Económico del Estado de Jalisco, pasará a ser patrimonio del mismo Consejo señalado en la nueva Ley para el Desarrollo Económico del Estado de Jalisco. De igual manera quedarán bajo el encargo del Consejo Estatal de promoción Económica de la nueva Ley para el Desarrollo Económico, los recursos materiales, financieros y humanos, así como todos los derechos y obligaciones que actualmente tiene del Consejo Estatal de promoción Económica, para lo cual las secretarías de Administración y de Finanzas del Gobierno del Estado deberán prestar todas las facilidades y realizar todas las gestiones necesarias, observando en todo momento el respeto irrestricto a los derechos laborales de los trabajadores del organismo y el reconocimiento de su propia antigüedad laboral.
+
+SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y segundo, de la Ley para el Desarrollo Económico del Estado de Jalisco, las obligaciones ahí contenidas deberán cumplimentarse, en los términos de lo señalado por la propia Ley de Planeación correspondiente.
+
+SÉPTIMA (SIC). Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
