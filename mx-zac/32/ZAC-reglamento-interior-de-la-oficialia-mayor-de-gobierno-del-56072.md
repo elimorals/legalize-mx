@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-oficialia-mayor-de-gobierno-del-56072
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-23"
-last_updated: "2007-06-23"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DE GOBIERNO DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 23 de junio de 2007.
 
@@ -73,7 +73,9 @@ e) Coordinación Administrativa; y (sic)
 
 f) Unidad de Comunicación y Relaciones Públicas;
 
-g) Banda de Música;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+g) Banda Sinfónica del Estado de Zacatecas;
 
 II. Suboficialía de Administración;
 
@@ -137,7 +139,9 @@ V. Coordinación Administrativa;
 
 VI. Unidad de Comunicación y Relaciones Públicas;
 
-VII. Banda de Música del Estado; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+VII. Banda Sinfónica del Estado de Zacatecas;
 
 VIII. Las demás Unidades Administrativas que se creen por necesidades del servicio se adscriban, previo acuerdo con el o la Titular del Ejecutivo.
 
@@ -273,9 +277,11 @@ VI. Diseñar y proponer la imagen institucional de la Oficialía Mayor; y
 
 VII. Las demás que le confieran las leyes, el presente Reglamento y el Oficial Mayor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### Artículo 13.
 
-La Banda de Música del Estado tendrá las siguientes atribuciones:
+La Banda Sinfónica del Estado de Zacatecas tendrá las siguientes funciones:
 
 I. Programar y atender las actuaciones e intervenciones en los actos cívicos, culturales y sociales que le instruya directamente el Oficial Mayor o el o la Titular del Ejecutivo;
 
@@ -664,3 +670,11 @@ LUIS GERARDO ROMO FONSECA
 EL OFICIAL MAYOR DE GOBIERNO
 
 EDUARDO RUÍZ FIERRO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+Primero.- El presente Decreto Gubernativo que Reforma el Reglamento Interior de la Oficialía Mayor de Gobierno del Estado de Zacatecas, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones administrativas que contravengan el presente ordenamiento legal.
