@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-e-informacion-publica-del-estado-de-43844"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-06"
-last_updated: "2011-12-22"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 23936, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Jalisco, el jueves 6 de enero de 2005.
 
@@ -533,9 +533,9 @@ No tendrá más restricciones a sus atribuciones, facultades y competencias que 
 
 El Instituto contará con los recursos humanos, económicos y materiales necesarios para el desempeño de sus funciones, de conformidad con lo asignado en su presupuesto anual.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 38.
 
@@ -543,7 +543,7 @@ El Instituto contará con un Consejo conformado por un Presidente y dos consejer
 
 El Consejo nombrará un Secretario Ejecutivo, el cual tendrá las atribuciones que señale su reglamento interior.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2007)</small>
 
@@ -579,7 +579,7 @@ VI. Tener título profesional expedido por la autoridad competente y registrado 
 
 VII. Haberse desempeñado notablemente en tareas sociales, profesionales, académicas, empresariales o culturales, que denoten su compromiso y conocimiento con la transparencia, para lo cual los candidatos deberán acreditar, mediante los medios que consideren idóneos, dicho desempeño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2008)</small>
 
 ###### Artículo 42.
 
@@ -619,9 +619,9 @@ VII. Si alguno de los candidatos no reúna los votos requeridos en la tercera ro
 
 El Instituto será presidido por el Presidente del Consejo quien tendrá la representación legal del mismo, durará en su encargo cuatro años.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2007)</small>
 
 ###### Artículo 45.
 
@@ -1191,7 +1191,7 @@ LIC. HÉCTOR PÉREZ PLAZOTA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE JULIO DE 2007.
 
@@ -1211,7 +1211,17 @@ CUARTO. Se derogan todas las disposiciones legales que se opongan al presente de
 
 P.O. 3 DE FEBRERO DE 2011.
 
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO P.O. 31 DE MARZO DE 2012)</small>
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+SEGUNDO. La Ley de Coordinación Metropolitana del Estado de Jalisco y demás disposiciones legales metropolitanas, se aplicarán al Área Metropolitana de Guadalajara declarada mediante decreto número 23021/LVIII/09 publicado en el periódico oficial El Estado de Jalisco el 26 de diciembre de 2009, por lo que se dan por cumplidas, para los efectos de la Ley, las disposiciones relativas al proceso de declaración de área metropolitana, que establece el artículo 15 de la Ley de Coordinación Metropolitana del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+TERCERO. En los estatutos orgánicos de las áreas metropolitanas se podrán establecer consejos consultivos con la conformación y facultades que en estos se prevea.
 
 P.O. 22 DE DICIEMBRE DE 2011.
 
@@ -1258,3 +1268,7 @@ IV. Emitir o actualizar conforme a este decreto y remitir al Instituto para su a
 V. Analizar y reclasificar en su caso, la información pública en su poder, de acuerdo con la ley, los lineamientos generales y sus criterios generales de clasificación, dentro de los treinta días naturales siguientes a la autorización de éstos últimos por parte del Instituto.
 
 QUINTO. Los asuntos en materia de información pública, cuyo trámite haya iniciado durante la vigencia de la Ley de Transparencia e Información Pública del Estado de Jalisco, seguirán rigiéndose por la misma hasta su conclusión.
+
+P.O. 31 DE MARZO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
