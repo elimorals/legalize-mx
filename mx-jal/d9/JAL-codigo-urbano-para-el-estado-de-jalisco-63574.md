@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2011-12-27"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -4633,7 +4633,17 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 P.O. 3 DE FEBRERO DE 2011.
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+SEGUNDO. La Ley de Coordinación Metropolitana del Estado de Jalisco y demás disposiciones legales metropolitanas, se aplicarán al Área Metropolitana de Guadalajara declarada mediante decreto número 23021/LVIII/09 publicado en el periódico oficial El Estado de Jalisco el 26 de diciembre de 2009, por lo que se dan por cumplidas, para los efectos de la Ley, las disposiciones relativas al proceso de declaración de área metropolitana, que establece el artículo 15 de la Ley de Coordinación Metropolitana del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+TERCERO. En los estatutos orgánicos de las áreas metropolitanas se podrán establecer consejos consultivos con la conformación y facultades que en estos se prevea.
 
 P.O. 27 DE DICIEMBRE DE 2011.
 
@@ -4648,3 +4658,7 @@ DECRETO No. 23955/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 150, FRACCIÓN VI, 
 PRIMERO. Los artículos primero y segundo del presente decreto, relativos (sic) la Ley de Hacienda Municipal y el Código Urbano para el Estado de Jalisco, entrarán en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El artículo tercero del presente decreto, relativo a la Ley de Ingresos del municipio de Guadalajara, Jalisco, para el ejercicio fiscal de 2012, entrará en vigor el día 1.° de enero de 2012, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE MARZO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
