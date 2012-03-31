@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5867
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2010-05-29"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2007.
 
@@ -85,7 +85,9 @@ Para los efectos de la presente ley se entenderá por:
 
 17. Transparencia: obligación de los entes públicos de poner a disposición de las personas la información pública que poseen, así como dar a conocer el motivo y justificación de sus decisiones de acuerdo a sus facultades y obligaciones.
 
-18. Unidad de Enlace: la oficina designada por el titular de los entes públicos, encargada de recibir, dar trámite a las solicitudes de información y llevar a cabo las funciones a que se refiere esta ley.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+18. Unidad de Enlace: El área administrativa de la estructura orgánica de los entes públicos, encargada del despacho de los asuntos relacionados con la presente Ley.
 
 ###### Artículo 3o.
 
@@ -177,7 +179,9 @@ Los sujetos obligados en materia de transparencia y acceso a la información tie
 
 8. Crear y administrar, en el ámbito de sus respectivas competencias, el Sistema de Información.
 
-9. Constituir y operar, en el ámbito de sus actuaciones, el Comité y la Unidad de Enlace correspondientes.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+9. Incluir en su estructura orgánica a la Unidad de Enlace, designando a su titular dentro del plazo de diez días hábiles contados a partir del día siguiente del relevo institucional o cuando se suscite vacantes; plazo dentro del cual, deberá constituirse igualmente el Comité de Información.
 
 10. Proporcionar a los solicitantes información pública, clara, veraz, oportuna, suficiente, pertinente, desagregada por género, en la forma y términos previstos por esta ley.
 
@@ -469,9 +473,11 @@ Cuando un sujeto obligado inicie el procedimiento de baja documental de document
 
 ### Capítulo I. Unidad de Enlace
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### Artículo 32.
 
-La Unidad de Enlace es la oficina de los entes públicos que será el vínculo entre los sujetos obligados y los solicitantes, encargada de recibir, dar seguimiento y despachar las solicitudes de información pública que se presenten. Se integra por un titular y los funcionarios que designe el titular del ente público.
+La Unidad de Enlace será el vínculo entre los sujetos obligados y los solicitantes, encargada de recibir, dar seguimiento y despachar las solicitudes de información pública que se presenten. Se integra por un titular y los funcionarios que designe el titular del ente público.
 
 En la esfera de competencia del Poder Ejecutivo podrá existir una coordinación general de enlaces en materia de transparencia y acceso a la información pública, que vigile, supervise, uniforme criterios, brinde asesoría y capacitación y lleve el control de las solicitudes y respuestas que se otorguen.
 
@@ -565,9 +571,11 @@ El Instituto de Transparencia y el Acceso a la Información Pública del Estado 
 
 El Instituto tiene como finalidades garantizar el derecho de acceso a la información pública, promover y difundir la cultura de la transparencia, resolver sobre la procedencia o improcedencia de las solicitudes de acceso a la información, así como la protección de los datos personales en poder de los entes públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### Artículo 39.
 
-El Instituto se integrará por un Consejo, un Presidente, Secretario Ejecutivo, secretarios de estudio y cuenta, directores de vinculación y capacitación, coordinador administrativo, actuarios y demás empleados necesarios para el cumplimiento de sus atribuciones, conforme al presupuesto.
+El Instituto se integrará por un Consejo, un Presidente, un Secretario Ejecutivo, secretarios de estudio y cuenta, directores de vinculación, capacitación y administración, la unidad de monitoreo de portales de transparencia, actuarios y demás empleados necesarios para el cumplimiento de sus atribuciones, conforme al presupuesto.
 
 El Presidente tiene la dirección y la representación legal de Instituto.
 
@@ -615,11 +623,17 @@ El Presidente será suplido en sus faltas temporales por el Secretario Ejecutivo
 
 Son faltas temporales aquellas que no excedan de quince días hábiles. Las ausencias definitivas deberán comunicarse al Congreso por el mismo Presidente o, en su defecto, por el Secretario Ejecutivo, dentro de los tres días hábiles siguientes al día límite para que la falta sea considerada temporal.
 
-El Presidente designado en sustitución por ausencia definitiva, durará en el encargo el término restante para que éste último concluyera su periodo.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+El Presidente designado en sustitución por ausencia definitiva culminará el periodo restante, asistiéndole el derecho previsto por el artículo 45 de esta ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
 
 ###### Artículo 45.
 
-El Presidente durará en su encargo un período de cinco años, no podrá ser reelecto y durante el período para el que fue nombrado no podrá ser retirado de su cargo, salvo por causa grave que calificará el Congreso.
+El Presidente durará en su encargo un período de cinco años pudiendo ser ratificado por única vez por un periodo igual, y durante el período para el que fue nombrado no podrá ser retirado de su cargo, salvo por causa grave que calificará el Congreso.
 
 El cargo de Presidente es incompatible con cualquier otro empleo, cargo o comisión públicos, excepto lo relativo en instituciones académicas, docentes, científicas o de beneficencia.
 
@@ -783,7 +797,9 @@ La solicitud que se presente deberá contener:
 
 2. Referencia precisa de la documentación o elementos en que se contiene, la información que se solicita.
 
-3. Lugar y medio señalado para recibir la información o notificaciones. Si el solicitante elige como vía la notificación personal y directa, entonces se requerirá que señale un domicilio autorizado en el lugar donde se ubique la Unidad de Enlace.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+3. Lugar y medio señalado para recibir la información o notificaciones. Si el solicitante elige como vía la notificación personal y directa, entonces se requerirá que señale un domicilio autorizado en el lugar donde se ubique la Unidad de Enlace. Si el solicitante formula su solicitud de información por medio electrónico, empleando el sistema que establezca el Instituto o alguno similar, facilitará un correo electrónico cuando el sistema así lo requiera.
 
 4. Opcionalmente, se indicará la modalidad en la que prefiere se otorgue el acceso a la información. Dicha modalidad podrá ser: verbal, por consulta directa, copias simples, certificadas u otro tipo de medio electrónico. Ante impedimento justificado, el sujeto obligado podrá entregar la información en una modalidad distinta a la solicitada.
 
@@ -835,15 +851,17 @@ El Comité podrá tener acceso a los documentos que estén en el ente público. 
 
 Cuando la información no se encuentre en los archivos del sujeto obligado, la Unidad de Enlace deberá remitir al Comité la solicitud de acceso y el oficio donde manifieste la inexistencia de la información. El Comité analizará el caso y tomará las medidas pertinentes para localizar la información y resolver en consecuencia. Se presume que la información existe si ésta documenta algunas de las facultades o funciones que los ordenamientos jurídicos aplicables otorguen al sujeto obligado. En su caso, el Comité expedirá una resolución que confirme la inexistencia del documento y lo notificará al solicitante a través de la Unidad de Enlace, así como al órgano interno de control del sujeto obligado el cual, en su caso, iniciará un procedimiento de responsabilidad administrativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### Artículo 59.
 
-Toda solicitud de información presentada en los términos de la presente ley, deberá ser resuelta en un plazo no mayor de veinte días hábiles.
+Toda solicitud de información presentada en los términos de la presente ley, deberá ser resuelta en un plazo no mayor de quince días hábiles.
 
 Sin embargo, de manera excepcional, este plazo podrá prorrogarse hasta por diez días hábiles cuando no sea posible reunir la información solicitada en dicho término. En su caso, el sujeto obligado deberá comunicar al solicitante, antes del vencimiento del plazo, las razones por las cuales hará uso de la prórroga. No podrán invocarse como causales de ampliación del plazo motivos que supongan negligencia o descuido del sujeto obligado en el desahogo de la solicitud.
 
 ###### Artículo 60.
 
-Cuando la solicitud de información verse sobre algunos de los datos considerados información fundamental por esta ley, deberá ser resuelta en un plazo no mayor de cinco días hábiles.
+(DEROGADO, P.O. 31 DE MARZO DE 2012)
 
 ###### Artículo 61.
 
@@ -939,6 +957,10 @@ El sobreseimiento procederá en los casos siguientes:
 
 5. Cuando se actualice un motivo diverso de sobreseimiento, conforme a esta ley.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 71 bis. La conexidad podrá darse de oficio o a petición de parte y tiene por objeto la acumulación de los autos en que se opone, a los más antiguos. Hay conexidad de causa cuando hay identidad en el recurrente, en la información solicitada por éste y en el sujeto obligado responsable, respecto de un recurso anterior.
+
 ###### Artículo 72.
 
 El recurso de revisión podrá interponerse en forma escrita libre, a través de los formatos que al efecto proporcione el Instituto o vía Internet, y deberá contener lo siguiente:
@@ -972,6 +994,10 @@ El recurrente deberá adjuntar al escrito de interposición del recurso:
 Admitido el recurso por el Instituto, se formará un expediente y ordenará emplazar al recurrente y al sujeto obligado señalado como responsable, para que dentro del término de cinco días hábiles, contados a partir del día siguiente de dicha notificación, produzca su contestación y aporte, en su caso, la justificación de su informe, las pruebas documentales e instrumentales y los argumentos respectivos, si así lo desea, expuestos en forma breve.
 
 En el caso de existir tercero interesado se le hará la notificación y se le concederá igual plazo, solicitándole a la vez acredite su carácter y alegue lo que a su derecho convenga.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 74 bis. Después de que se haya admitido un recurso de revisión y hasta en tanto no haya sido emitida la resolución correspondiente, es admisible su ampliación, siempre que no haya sido emplazado el sujeto obligado.
 
 ###### Artículo 75.
 
@@ -1033,6 +1059,16 @@ Cuando el Instituto resuelva que algún servidor público pudo haber incurrido e
 
 Las resoluciones del Instituto serán definitivas e inatacables para los sujetos obligados y contra ellas no procederá recurso o medio de defensa ordinario ante el Tribunal de Justicia Administrativa del Estado. Los tribunales tendrán acceso a la información reservada o confidencial cuando resulte indispensable para resolver el asunto y hubiera sido ofrecida en juicio. Dicha información deberá ser mantenida con ese carácter y no estará disponible en el expediente judicial.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 85 bis. Cuando hubiere causado ejecutoria una resolución, el Presidente del Instituto requerirá al sujeto obligado para su cumplimiento en los términos resueltos.
+
+Si dentro de los tres días siguientes al de la notificación a los sujetos obligados, la resolución no quedare cumplida, o no se encontrare en vías de cumplimiento, el Instituto, de oficio o a petición de parte, impondrá las sanciones correspondientes, previstas en esta Ley y requerirá para su cumplimiento inmediato.
+
+Si el sujeto obligado persistiere en su omisión, el Instituto solicitará al titular del ente gubernamental a quien se encuentre subordinado aquél, a efecto de que se conmine al servidor público responsable para que dé cumplimiento a la resolución y demás determinaciones del Instituto, en un plazo no mayor de tres días siguientes a aquél en que surta efectos la notificación, sin perjuicio de que se reitere cuantas veces sea necesaria la multa impuesta.
+
+Los titulares de los entes requeridos como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades recurridas.
+
 ###### Artículo 86.
 
 No podrá archivarse ningún expediente sin que se haya cumplido la resolución correspondiente o se hubiere extinguido la materia de la ejecución.
@@ -1068,6 +1104,14 @@ Los procedimientos tendientes al cumplimiento de las resoluciones del Instituto 
 Sólo los actos y promociones que revelen un interés del recurrente por la prosecución del procedimiento interrumpen el término de caducidad.
 
 Cerrada la instrucción y turnado el asunto para resolución, no procederá el sobreseimiento por inactividad procesal ni la caducidad.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 88 quáter. La suspensión del procedimiento se decretará de oficio o a petición de parte. Solo procede la suspensión de oficio cuando el Instituto encuentre necesario practicar diligencias para mejor proveer.
+
+En los demás casos, el recurrente podrá solicitar la suspensión del procedimiento y el Instituto la concederá, siempre y cuando lo considere necesario con el objeto de conservar la litis de la materia o impedir perjuicios irreparables al propio recurrente.
+
+La suspensión podrá ser revocada o modificada por el Instituto en cualquier momento, previa vista que se conceda a las partes por un plazo de tres días, si se modificaran las condiciones por las cuales se otorgó.
 
 ## TÍTULO SÉPTIMO. De las sanciones
 
@@ -1165,6 +1209,18 @@ Al que recabe datos personales que no resulten indispensables para el cumplimien
 
 Al sujeto obligado que comercialice con datos personales que obren en los archivos a su alcance será sancionado con multa de cincuenta a trescientos días de salario mínimo, vigente en la región económica en que está comprendido el Estado de Nayarit.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 101 bis. A quien debiéndolo hacer, no presente ante el Instituto los informes estadísticos bimestrales y anuales en los plazos estipulados para ello, se le sancionará con multa de cien a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 101 ter. A quien debiéndolo hacer, no presente ante el Instituto los informes documentados en los plazos estipulados para ello dentro de la sustanciación de los recursos de revisión, se le sancionará con multa de cincuenta a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 101 quáter. A quien declare la inexistencia de información, con posterioridad a una resolución emitida por el Instituto y cuya materia haya sido objeto de condena, se le sancionará con multa de cien a trescientos días de salario mínimo vigente en la región económica en que está comprendido el Estado de Nayarit.
+
 ###### Artículo 102.
 
 El sujeto obligado que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 89 de esta ley, además de la sanción correspondiente por cada infracción, podrá ser sancionado con suspensión, destitución de su cargo o inhabilitación para el ejercicio de otros puestos de servicio público, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
@@ -1223,7 +1279,7 @@ Dip. Jocelyn Patricia Fernández Molina, Presidente.- Rúbrica.- Dip. Silvia Cor
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecinueve días del mes de diciembre del año dos mil siete.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE MARZO DE 2008.
 
@@ -1232,3 +1288,9 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 P. O. 29 DE MAYO DE 2010.
 
 Artículo Único.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE MARZO DE 2012.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Lo dispuesto en el artículo 45 del presente decreto, surtirá efectos a partir de la designación que apruebe la legislatura sobre la Presidencia del Instituto, una vez concluido el periodo del actual titular.
