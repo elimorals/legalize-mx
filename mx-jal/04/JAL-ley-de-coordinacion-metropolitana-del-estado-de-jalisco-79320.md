@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2011-03-24"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 24 DE MARZO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -263,7 +261,7 @@ Suspensión de procedimiento
 
 Contenido de la declaración
 
-I. La declaratoria de área o región metropolitana expedida por el Congreso del Estado debe contener:
+1. La declaratoria de área o región metropolitana expedida por el Congreso del Estado debe contener:
 
 I. La denominación del área o región metropolitana correspondiente en el caso de la segunda; preferentemente alusiva al área respectiva;
 
@@ -277,7 +275,7 @@ IV. La enunciación de los efectos de la declaratoria.
 
 2. La declaratoria de área o región metropolitana no debe incluir algún o algunos de los municipios propuestos cuando no se demuestre:
 
-l. En el caso del área metropolitana, la continuidad física del centro de población constitutivo del área metropolitana dentro del territorio de algún municipio solicitante, o
+I. En el caso del área metropolitana, la continuidad física del centro de población constitutivo del área metropolitana dentro del territorio de algún municipio solicitante, o
 
 II. En el caso de la región metropolitana, la cercanía geográfica y tendencias de crecimiento del centro de población con respecto al área metropolitana correspondiente.
 
@@ -635,9 +633,19 @@ Funcionamiento del Consejo
 
 3. El Consejo toma sus acuerdos por mayoría de votos de los integrantes presentes. Los acuerdos del Consejo en ningún caso serán vinculantes para la Junta, el Instituto o los demás órganos de coordinación metropolitana.
 
-T R A N S I T O R I O
+## TRANSITORIOS
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+SEGUNDO. La Ley de Coordinación Metropolitana del Estado de Jalisco y demás disposiciones legales metropolitanas, se aplicarán al Área Metropolitana de Guadalajara declarada mediante decreto número 23021/LVIII/09 publicado en el periódico oficial El Estado de Jalisco el 26 de diciembre de 2009, por lo que se dan por cumplidas, para los efectos de la Ley, las disposiciones relativas al proceso de declaración de área metropolitana, que establece el artículo 15 de la Ley de Coordinación Metropolitana del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+TERCERO. En los estatutos orgánicos de las áreas metropolitanas se podrán establecer consejos consultivos con la conformación y facultades que en estos se prevea.
 
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO
 
@@ -676,3 +684,9 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
