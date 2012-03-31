@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-administracion-y-60376"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE ADMINISTRACION Y FINANZAS DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Reglamento publicado en Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de marzo de 2008.
 
@@ -45,99 +45,97 @@ La Secretaría de Administración y Finanzas, como dependencia del Poder Ejecuti
 
 Para el despacho de los asuntos de su competencia, la Secretaría de Administración y Finanzas contará con las siguientes áreas:
 
-SECRETARIO
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
 
-SECRETARÍA PARTICULAR
+1. SECRETARIO
 
-SECRETARÍA TÉCNICA
+1.1. SECRETARÍA PARTICULAR
 
-UNIDAD DE ASESORES
+1.2. SECRETARÍA TÉCNICA
 
-UNIDAD DE RELACIONES PÚBLICAS
+1.3. UNIDAD DE RELACIONES PÚBLICAS
 
-UNIDAD DE INVERSIONES
+1.4. UNIDAD DE INVERSIONES
 
-PROCURADURIA FISCAL
+1.5. DIRECCIÓN DE INFORMÁTICA
 
-SUBPROCURADURÍA FISCAL
+1.6. PROCURADURÍA FISCAL
 
-UNIDAD JURÍDICA DE MODERNIZACIÓN E INNOVACIÓN GUBERNAMENTAL.
+1.6.1. SUBPROCURADURÍA FISCAL
 
-UNIDAD JURÍDICA DE ADMINISTRACIÓN
+1.6.2. UNIDAD JURIDICA DE ADMINISTRACIÓN
 
-DIRECCIÓN DE ADMINISTRACIÓN
+1. 7. DIRECCIÓN DE ADMINISTRACIÓN
 
-UNIDAD DE ACCESO A LA INFORMACIÓN
+1.8. UNIDAD DE ACCESO A LA INFORMACIÓN
 
-DIRECCIÓN GENERAL DE MODERNIZACIÓN E INNOVACIÓN GUBERNAMENTAL
+1.9. DIRECCIÓN GENERAL DE· MODERNIZACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-DIRECCIÓN DE CONSULTORÍA
+1.9.1. DIRECCIÓN DE CONSULTORÍA
 
-DIRECCIÓN DE INNOVACIÓN TECNOLÓGICA
+1.9.2. DIRECCIÓN ESTATAL DE CAPACITACIÓN EN CALIDAD
 
-UNIDAD INFORMÁTICA DE SERVICIOS TECNOLÓGICOS
+1.9.3. DIRECCIÓN DE PROYECTOS ESTRATÉGICOS
 
-UNIDAD INFORMÁTICA DE SERVICIOS DE ADMINISTRACIÓN
+1.9.4. UNIDAD ADMINISTRATIVA
 
-UNIDAD INFORMÁTICA DE SERVICIOS FINANCIEROS
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
 
-DIRECCIÓN DE CAPACITACIÓN EN CALIDAD
+2. SUBSECRETARÍA DE INGRESOS
 
-DIRECCIÓN DE PROYECTOS ESTRATÉGICOS
+2.1. UNIDAD DE EJECUCIÓN FISCAL
 
-UNIDAD ADMINISTRATIVA DE MODERNIZACIÓN E INNOVACIÓN GUBERNAMENTAL
+2.2. DIRECCIÓN DE RECAUDACIÓN
 
-SUBSECRETARIA DE INGRESOS
+2.3. DIRECCIÓN TÉCNICA DE RECAUDACIÓN
 
-UNIDAD DE EJECUCIÓN FISCAL
+2.4. DIRECCIÓN DE AUDITORÍA FISCAL
 
-DIRECCIÓN DE RECAUDACIÓN
+2.5. DIRECIÓN (SIC) DE COORDINACIÓN HACENDARIA
 
-DIRECCIÓN TÉCNICA DE RECAUDACIÓN
+2.6. DIRECCIÓN DE CATASTRO
 
-DIRECCIÓN DE AUDITORIA FISCAL
+2.7. UNIDAD DE ALCOHOLES
 
-DIRECCIÓN DE COORDINACIÓN HACENDARIA
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
 
-DIRECCIÓN DE CATASTRO
+3. SUBSECRETARÍA DE EGRESOS
 
-UNIDAD DE ALCOHOLES
+3.1. DIRECCIÓN DE POLÍTICA DE GASTO PÚBLICO
 
-SUBSECRETARÍA DE EGRESOS
+3.2. DIRECCIÓN DE POLÍTICA PRESUPUESTARIA
 
-DIRECCIÓN DE POLÍTICA DE GASTO PÚBLICO
+3.3. DIRECCIÓN DE TESORERÍA
 
-DIRECCIÓN DE POLÍTICA PRESUPUESTARIA
+3.4. DIRECCIÓN DE CONTABILIDAD GUBERNAMENTAL
 
-DIRECCIÓN DE TESORERÍA
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
 
-DIRECCIÓN DE CONTABILIDAD GUBERNAMENTAL
+4. SUBSECRETARÍA DE ADMINISTRACIÓN
 
-SUBSECRETARÍA DE ADMINISTRACIÓN
+4.1. UNIDAD DE ADMINISTRACIÓN
 
-UNIDAD DE ADMINISTRACIÓN
+4.2. DIRECCIÓN DE ADMINISTRACIÓN DEL PATRIMONIO DEL ESTADO
 
-DIRECCIÓN DE ADMINISTRACIÓN DEL PATRIMONIO DEL ESTADO
+4.3. DIRECCIÓN GENERAL DE SEGUIMIENTO PRESUPUESTARIO
 
-DIRECCIÓN GENERAL DE SEGUIMIENTO PRESUPUESTARIO
+4.3.1. DIRECCIÓN DE NORMATIVIDAD PRESUPUESTARIA
 
-DIRECCIÓN DE NORMATIVIDAD PRESUPUESTARIA
+4.3.2. DIRECCIÓN DE SEGUIMIENTO PRESUPUESTARIO
 
-DIRECCIÓN DE SEGUIMIENTO PRESUPUESTARIO
+4.4. DIRECCIÓN GENERAL DE RECURSOS HUMANOS Y DESARROLLO DE PERSONAL
 
-DIRECCIÓN GENERAL DE RECURSOS HUMANOS Y DESARROLLO DE PERSONAL
+4.4.1. DIRECCIÓN DE RECURSOS HUMANOS
 
-DIRECCIÓN DE RECURSOS HUMANOS
+4.4.2. DIRECCÓN (SIC) DE DESARROLLO DE PERSONAL·
 
-DIRECCIÓN DE DESARROLLO DE PERSONAL
+4.5. DIRECCIÓN GENERAL DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
-DIRECCIÓN GENERAL DE RECURSOS MATERIALES Y SERVICIOS GENERALES
+4.5.1. DIRECCIÓN DE SERVICIOS GENERALES
 
-DIRECCIÓN DE SERVICIOS GENERALES
+4.5.2. DIRECCIÓN DE RECURSOS MATERIALES
 
-DIRECCIÓN DE RECURSOS MATERIALES
-
-DIRECCIÓN DE TALLERES GRÁFICOS
+4.5.3. DIRECCIÓN DE TALLERES GRAFICOS
 
 ###### ARTÍCULO 3.
 
@@ -395,29 +393,69 @@ X. Proponer y validar la información que contenga la página de Internet de la 
 
 XI. Las demás que en la esfera de sus atribuciones, le encomiende el Secretario.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 13.
 
-Corresponde a la Unidad de Asesores el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Informática el ejercicio de las siguientes atribuciones:
 
-I. Asesorar al Secretario en la administración de los recursos financieros;
+I. Proponer, regular, coordinar y supervisar la aplicación de las políticas y lineamientos en materia de adquisición, administración y uso o enajenación de las tecnologías de las dependencias y entidades de la administración pública;
 
-II. Apoyar la participación del Secretario en foros y eventos, mediante la realización de las actividades que específicamente le encomiende;
+II. Proponer, regular, coordinar y supervisar la aplicación de estándares, procedimientos y metodologías en materia de adquisición, administración y uso o enajenación de las tecnologías de información sin limitantes de su uso primario, así como para la adquisición o desarrollo de software para las dependencias y entidades de la administración pública;
 
-III. Asistir al Secretario cuando éste forme parte en los órganos de gobierno de las entidades paraestatales y recopilar la información respectiva para el seguimiento de los asuntos tratados;
+III. Organizar y coordinar el programa de automatización y digitalización gubernamental, promoviendo y supervisando que la adquisición de los equipos informáticos de las dependencias y entidades de la administración pública se ajusten a los requerimientos técnicos de dicho programa;
 
-IV. Coordinar las tareas de negociación de financiamiento a través de la banca de desarrollo o privada con base en la facultad otorgada a la Secretaría por la Ley de Deuda Pública del Estado de Tabasco;
+IV. Conducir, en coordinación con la Secretaría de Contraloría, programas periódicos de auditoría informática en las dependencias y entidades del Gobierno del Estado, con el fin de verificar el uso adecuado y asignación de los equipos tecnológicos y de las comunicaciones, así como la existencia del licenciamiento de software correspondiente;
 
-V. Intervenir en los créditos y financiamientos obtenidos por el Gobierno del Estado y sus organismos de los intermediarios financieros, tanto privados como gubernamentales;
+V. Proponer, regular, coordinar y supervisar la observancia de lineamientos generales de licenciamiento y contratación de servicios de tecnologías de información y comunicaciones, en coordinación con la Subsecretaria de Administración de la Secretaría y las dependencias y entidades de la administración pública Estatal;
 
-VI. En coordinación con las demás áreas de la Secretaría y de acuerdo a la competencia de cada una de ellas, apoyar al Secretario en los asuntos que deberán ser presentados a la consideración de los diferentes órganos colegiados;
+VI. Planear, desarrollar, instrumentar, administrar y evaluar las tecnologías de información y comunicaciones de las dependencias y entidades del Gobierno del Estado;
 
-VII. Apoyar al Secretario en el registro y seguimiento de los fideicomisos que constituya el Gobierno del Estado, así como de aquellas entidades que por disposiciones jurídicas deba intervenir;
+VII. Proponer, regular, coordinar y supervisar y en su caso ejecutar las políticas, normas y programas en materia de tecnologías de información y comunicaciones, incluyendo el diseño, desarrollo, distribución, implantación, mantenimiento y operación de sistemas automatizados; firma electrónica; generación de constancias de ejecución de transacciones electrónicas; autoridad certificadora, unidades registradoras, repositorios, de transacciones; telecomunicaciones, intercomunicación, centros de atención telefónica; administración del conocimiento, capacitación en informática, bienes y servicios con integración parcial y total de sistemas de cómputo y comunicaciones, seguridad e integridad de los datos e información; y centros de prestación de servicios de procesamiento electrónico de datos;
 
-VIII. Asistir al Secretario en las subcomisiones, comités técnicos y grupos de trabajo que los diferentes órganos colegiados establezcan para la formulación de proyectos y/o elaboración de informes sobre determinada situación;
+VIII. Planear, desarrollar, establecer y evaluar el Programa Institucional de Desarrollo en materia de tecnología de la información;
 
-IX. Apoyar a las diferentes áreas de la Secretaría en la elaboración de trabajos especiales que se requieran; y
+IX. Recibir, evaluar, tramitar y dar seguimiento a las solicitudes de anuencia técnica y visto bueno para la adquisición, contratación de servicios, arrendamiento y mantenimiento de bienes informáticos, telecomunicaciones y radiocomunicación, así como adquisición de refacciones y consumibles para equipos de cómputo o tecnologías de información, de conformidad con los lineamientos que para tal efecto emita;
 
-X. Las demás que en la esfera de sus atribuciones, le encomiende el Secretario.
+X. Coordinar el levantamiento, integrar y mantener actualizado el inventario de la infraestructura relacionada con tecnologías de información y comunicaciones incluyendo el software adquirido y sistemas desarrollados de las dependencias y entidades de la administración pública estatal;
+
+XI. Integrar el banco de capacidades del capital humano que conforman las áreas de tecnologías de información y comunicaciones, o afines, de las dependencias y entidades de la administración pública estatal;
+
+XII. Evaluar la administración de las tecnologías de información y comunicaciones de las dependencias y entidades de la administración pública estatal en términos de eficiencia y productividad, para contribuir al mejoramiento de control, racionalidad, austeridad y óptimo aprovechamiento, en beneficio de los programas y proyectos establecidos;
+
+XIII. Asesorar y apoyar a las dependencias y entidades de la administración pública estatal en los asuntos relacionados con tecnologías de información y comunicaciones;
+
+XIV. Analizar, evaluar y validar los anteproyectos y proyectos de requerimientos de tecnologías de información y comunicaciones propuestos por las dependencias y entidades de la administración pública estatal;
+
+XV. Diseñar, implementar y administrar la red gubernamental en las dependencias y entidades de la administración pública estatal;
+
+XVI. Diseñar, implementar y administrar los sistemas de información, bases de datos, servidores y centros de datos de la administración pública estatal;
+
+XVII. Coordinar, organizar y evaluar las acciones de implantación de tecnologías de información y comunicaciones de las dependencias y entidades de la administración pública estatal, a través de sus unidades informáticas;
+
+XVIII. Supervisar y controlar el análisis, desarrollo e implantación de aplicaciones, así como la administración y uso de correo institucional, acceso a internet y servicios que se deriven de la red gubernamental en las dependencias y entidades de la administración pública estatal;
+
+XIX. Supervisar el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos en las dependencias y entidades del estado;
+
+XX. Determinar la viabilidad operativa para la implantación de los sistemas operativos, aplicaciones ofimáticas, manejadores de bases de datos, herramientas para desarrollo de software, software de redes y configuración de los equipos de procesamiento de datos de las dependencias y entidades de la administración pública del Estado;
+
+XXI. Promover las mejores prácticas para optimizar el capital humano destinado a las tecnologías de información y comunicaciones, mediante la coordinación, integración y apoyo entre los responsables de las áreas informáticas de las dependencias y entidades de la administración pública estatal, incrementando continuamente las capacidades técnicas del personal;
+
+XXII. Diseñar, implementar y administrar el Centro de Documentación de los Recursos Informáticos del Gobierno del Estado (CEDRI);
+
+XXIII. Promover la integración de la documentación de los bienes de tecnologías, así como el acervo bibliográfico entre las dependencias y entidades del Gobierno del Estado;
+
+XXIV. Proponer y supervisar las condiciones ambientales para el buen funcionamiento de los equipos informáticos y de apoyo en las dependencias y entidades de la administración pública, así como observar el cumplimiento de su mantenimiento;
+
+XXV. Mantener continua comunicación con todas y cada una de las unidades administrativas de la Secretaría con el propósito de establecer y mantener intercambios de información y garantizar el óptimo funcionamiento de éstas;
+
+XXVI. Propiciar y mantener las líneas de comunicación y coordinación con las dependencias y entidades de la administración pública;
+
+XXVII. Establecer las comisiones, consejos, comités y enlaces necesarios para el buen funcionamiento de la dirección, sobre asuntos de su competencia;
+
+XXVIII. Mantener relaciones de colaboración en materia de tecnologías de información y comunicaciones y fungir como enlace técnico de la administración pública estatal con las autoridades federales y municipales y las instituciones nacionales o extranjeras correspondientes para la realización de eventos, estudios o proyectos, en las materias de su responsabilidad, considerando la colaboración de las dependencias o entidades involucradas con el desarrollo de los mismos; y
+
+XXIX. Las demás que le encomiende el Secretario.
 
 ###### ARTÍCULO 14.
 
@@ -549,7 +587,9 @@ XXX. Con la participación de la Subprocuraduría Fiscal y de las unidades jurí
 
 XXXI. Recabar información y elaborar estudios y opiniones jurídico-administrativas en el ámbito de su competencia, que sirvan como base para el establecimiento de normas legales del Ejecutivo Estatal, así también los que solicite la Secretaría y otras dependencias y entidades del Gobierno del Estado;
 
-XXXII. Expedir certificaciones de los documentos que existan en la Secretaría, subsecretarías, Procuraduría Fiscal, direcciones, unidades, subprocuradurías, subdirecciones, departamentos y demás áreas de la dependencia, en los casos permitidos por la Ley;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XXXII. Expedir certificaciones de los documentos que existan en la Secretaría, subsecretarías, Procuraduría Fiscal, direcciones generales, direcciones, unidades, subprocuraduría, departamentos y demás áreas;
 
 XXXIII. Requerir de pago cualquier póliza de fianza expedida a favor de la Secretaría o del Gobierno del Estado, incluyendo las de carácter penal, administrativas y aquellas que garanticen obligaciones fiscales;
 
@@ -565,7 +605,9 @@ XXXVIII. Dar a conocer a las instituciones de fianzas la indemnización por mora
 
 XXXIX. Determinar con el apoyo de la Unidad de Ejecución Fiscal la indemnización por mora e intereses moratorios que establece la Ley Federal de Instituciones de Fianzas;
 
-XL. Iniciar y llevar a cabo cada una de las etapas del procedimiento de revocación de licencias de alcoholes tal y como lo establece el Reglamento de la Ley que Regula la Venta, Distribución y consumo de Bebidas Alcohólicas en el Estado de Tabasco;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XL. Iniciar y llevar a cabo cada una de las etapas del procedimiento de revocación de licencias y permisos de funcionamiento y, en su caso, determinar su revocación, de conformidad con lo establecido en el Reglamento de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco;
 
 XLI. Imponer, reducir o revocar las sanciones administrativas a que se haga acreedor el personal de base y confianza de la Secretaría, de conformidad con las disposiciones jurídicas y administrativas aplicables, sin perjuicio de lo que les competan jurídica y administrativamente imponer a otras autoridades;
 
@@ -619,51 +661,7 @@ XVI. Atender y desempeñar en general todas las funciones encomendadas por el Pr
 
 ###### ARTÍCULO 18.
 
-Corresponde a la Unidad Jurídica de Modernización e Innovación Gubernamental el ejercicio de las siguientes atribuciones:
-
-I. Asesorar en materia jurídica al Director General de Modernización e Innovación Gubernamental bajo los lineamientos e indicaciones de la Subprocuraduría Fiscal;
-
-II. Dar seguimiento a los asuntos encomendados y acordar con el Director General de Modernización e Innovación Gubernamental, o en su caso con el Procurador Fiscal la resolución de aquellos que así lo ameriten;
-
-III. Atender las consultas que otras áreas de la Dirección General de Modernización e Innovación Gubernamental planteen, con motivo de la aplicación de disposiciones y lineamientos, relacionados con el ejercicio de las atribuciones de la misma;
-
-IV. Asistir a las Unidades Administrativas de la Dirección General de Modernización e Innovación Gubernamental, cuando así lo soliciten, a fin de que en los procedimientos administrativos que lleven a cabo, se cumplan las formalidades previstas en las disposiciones legales aplicables;
-
-V. Asesorar jurídicamente a las áreas de la Dirección General de Modernización e Innovación Gubernamental en los asuntos laborales del personal, dentro del ejercicio de sus facultades;
-
-VI. Estudiar, analizar y difundir entre las unidades administrativas de la Dirección General de Modernización e Innovación Gubernamental las disposiciones que en materia jurídica se expidan relacionadas con su competencia;
-
-VII. Formular y revisar los proyectos de contratos, convenios y demás actos de interés jurídico para la Dirección General de Modernización e Innovación Gubernamental;
-
-VIII. Emitir de manera conjunta o separadamente con las unidades de la Dirección General de Modernización e Innovación Gubernamental, los criterios y la normatividad obligatoria relativa a la interpretación de las diferentes disposiciones legales aplicables en el ejercicio de sus atribuciones;
-
-IX. Elaborar estudios y opiniones de carácter jurídico administrativo que le soliciten las áreas de la Dirección General de Modernización e Innovación Gubernamental;
-
-X. Formular los anteproyectos de leyes, decretos, reglamentos, acuerdos, circulares y demás disposiciones de carácter legal, necesarias para el correcto ejercicio de las atribuciones de la Dirección General de Modernización e Innovación Gubernamental; así como colaborar en su modificación y actualización observando siempre las disposiciones jurídicas vigentes;
-
-XI. Formular y proponer modificaciones, actualizaciones, acuerdos y demás disposiciones de carácter legal que competen a la Dirección General de Modernización e Innovación Gubernamental;
-
-XII. Vigilar que las políticas, funciones y programas que desarrolla la Dirección General de Modernización e Innovación Gubernamental, cumplan con las disposiciones de las leyes aplicables y los principios de legalidad y certeza jurídica que establece la normatividad correspondiente;
-
-XIII. Coordinarse con el Procurador Fiscal, cuando así se requiera, para el desempeño de sus funciones;
-
-XIV. Hacer del conocimiento de la Procuraduría Fiscal hechos que puedan constituir delitos imputables a los servidores públicos adscritos a la Dirección General de Modernización e Innovación Gubernamental, realizados en el desempeño de sus funciones;
-
-XV. Hacer del conocimiento de la Procuraduría Fiscal de las responsabilidades en que incurran los servidores públicos de la Dirección General de Modernización e Innovación Gubernamental, en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco;
-
-XVI. Compilar los Periódicos Oficiales del Estado, informando al Director de Modernización e Innovación Gubernamental y a los Directores de sus distintas unidades administrativas de la publicación de las disposiciones legales que afecten sus actividades;
-
-XVII. Compilar la legislación federal y estatal necesaria para el ejercicio de las funciones de la Dirección General de Modernización e Innovación Gubernamental;
-
-XVIII. Tramitar ante el Procurador Fiscal la certificación de copias de los documentos que obren en los archivos de la Dirección General de Modernización e Innovación Gubernamental para ser exhibidos ante las autoridades judiciales o administrativas y en general para cualquier trámite, juicio, procedimientos, procesos o averiguación previa;
-
-XIX. Fomentar la capacitación administrativa del personal a su cargo con la finalidad de estimular la superación personal del mismo y eficientar la Administración Pública;
-
-XX. Atender las obligaciones que en materia de Transparencia y Acceso a la Información Pública correspondan a la Dirección General de Modernización e Innovación Gubernamental, de conformidad con las leyes respectivas;
-
-XXI. Imponer, reducir o revocar las sanciones administrativas a que se haga acreedor el personal de base y confianza de la Dirección General de Modernización e Innovación Gubernamental, de conformidad a las indicaciones del Procurador Fiscal, observando las disposiciones jurídicas y administrativas aplicables, sin perjuicio de lo que les competan jurídica y administrativamente imponer a otras autoridades; y
-
-XXII. Las demás que el Procurador Fiscal o el Director General de Modernización e Innovación Gubernamental le encomiende afines a las señaladas anteriormente.
+(DEROGADO, P.O. 31 DE MARZO DE 2012)
 
 ###### ARTÍCULO 19.
 
@@ -879,163 +877,25 @@ XIV. Colaborar, coadyuvar y en su caso, coordinar los proyectos que le sean asig
 
 ###### ARTÍCULO 26.
 
-Corresponde a la Dirección de Innovación Tecnológica el ejercicio de las siguientes atribuciones:
-
-I. Proponer, regular, coordinar y supervisar la aplicación de las políticas y lineamientos en materia de adquisición, administración y uso o enajenación de las tecnologías de de (sic) las dependencias y entidades de la Administración Pública;
-
-II. Proponer, regular, coordinar y supervisar la aplicación de estándares, procedimientos y metodologías en materia de adquisición, administración y uso o enajenación de las tecnologías de información sin limitantes de su uso primario, así como para la adquisición o desarrollo de software para las dependencias y entidades de la administración pública;
-
-III. Organizar y coordinar el programa de automatización y digitalización gubernamental, promoviendo y supervisando que la adquisición de los equipos informáticos de las Dependencias y Entidades de la Administración Pública se ajusten a los requerimientos técnicos de dicho programa;
-
-IV. Conducir, en coordinación con la Secretaría de Contraloría, programas periódicos de auditoría informática en las Dependencias y Entidades del Gobierno del Estado, con el fin, de verificar el uso adecuado y asignación de los equipos tecnológicos y de las comunicaciones, así como la existencia del licenciamiento de software correspondiente;
-
-V. Proponer, regular, coordinar y supervisar la observancia de lineamientos generales de licenciamiento y contratación de servicios de tecnologías de información y comunicaciones, en coordinación con la Subsecretaría de Administración de la Secretaría y las dependencias y entidades de la Administración Pública Estatal;
-
-VI. Planear, desarrollar, instrumentar, administrar y evaluar las tecnologías de información y comunicaciones, de las dependencias y entidades del Gobierno del Estado;
-
-VII. Proponer, regular, coordinar y supervisar y en su caso ejecutar las políticas, normas y programas en materia de tecnologías de información y comunicaciones, incluyendo el diseño, desarrollo, distribución, implantación, mantenimiento y, operación de sistemas automatizados; firma electrónica; generación de constancias de ejecución de transacciones electrónicas; autoridad certificadora, unidades registradoras, repositorios de transacciones; telecomunicaciones, intercomunicación, centros de atención telefónica; administración del conocimiento, capacitación en informática, bienes y servicios con integración parcial y total de sistemas de cómputo y comunicaciones, seguridad e integridad de los datos e información; y centros de prestación de servicios de procesamiento electrónico de datos;
-
-VIII. Planear, Desarrollar, establecer y evaluar el Programa Institucional de Desarrollo en materia de Tecnología de la Información;
-
-IX. Recibir, evaluar tramitar y dar seguimiento a las solicitudes de anuencia técnica y visto bueno para la adquisición, contratación de servicios, arrendamiento y mantenimientos de bienes informáticos, telecomunicaciones y radiocomunicación, así como adquisición de refacciones y consumibles para equipos de cómputo o tecnologías de información, de conformidad con los lineamientos que para tal efecto emita;
-
-X. Coordinar el levantamiento, integrar y mantener actualizado el inventario de la infraestructura relacionada con tecnologías de información y comunicaciones incluyendo el software adquirido y sistemas desarrollados de las Dependencias y Entidades de la Administración Pública Estatal;
-
-XI. Integrar el banco de capacidades del capital humano que conforma las áreas de tecnologías de información y comunicación, o afines, de las Dependencias y Entidades de la Administración Pública Estatal;
-
-XII. Evaluar la administración de las tecnologías de información y comunicaciones dentro de las dependencias y entidades de la Administración Pública Estatal, en términos de eficiencia y productividad de los mismos, para contribuir al mejoramiento de su control, racionalidad, austeridad y óptimo aprovechamiento en beneficio de los programas y proyectos establecidos;
-
-XIII. Asesorar y apoyar a las Dependencias y Entidades de la Administración Pública Estatal, en los asuntos relacionados con tecnologías de información y comunicaciones;
-
-XIV. Analizar, evaluar y validar los anteproyectos y proyectos de requerimientos de tecnologías de información y comunicaciones propuestos por las dependencias y entidades de la Administración Pública Estatal;
-
-XV. Diseñar, implementar y administrar la Red Gubernamental en las dependencias y entidades de la Administración Pública Estatal;
-
-XVI. Diseñar, implementar y administrar los sistemas de información, bases de datos, servidores y centros de datos de la Administración Pública Estatal;
-
-XVII. Coordinar, organizar y evaluar las acciones de implantación de Tecnologías de Información y Comunicaciones de las dependencias y entidades de la Administración Pública Estatal, a través de sus unidades informáticas;
-
-XVIII. Supervisar y controlar el análisis, desarrollo e implantación de aplicaciones, así como la administración y uso de correo institucional, acceso a Internet y servicios que se deriven de la Red Gubernamental en las dependencias y entidades de la Administración Pública Estatal;
-
-XIX. Supervisar el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos en las Dependencias y Entidades del Gobierno del Estado;
-
-XX. Determinar la viabilidad operativa para la implantación de los sistemas operativos, aplicaciones ofimáticas, manejadores de bases de datos, herramientas para desarrollo de software, software de redes y configuración de los equipos de procesamiento de datos de la Dirección General, así como de las dependencias y entidades de la Administración Pública del Estado;
-
-XXI. Promover las mejores prácticas para optimizar el capital humano destinado a las tecnologías de información y comunicaciones, mediante la coordinación, integración y apoyo entre los responsables de las áreas informáticas de las dependencias y entidades de la Administración Pública Estatal, incrementando continuamente las capacidades técnicas del personal;
-
-XXII. Diseñar, implementar y administrar el Centro de Documentación de los Recursos Informáticos del Gobierno del Estado (CEDRI);
-
-XXIII. Promover la integración de la documentación de los bienes de tecnologías, así como el acervo bibliográfico entre las dependencias y entidades del Gobierno del Estado;
-
-XXIV. Proponer y supervisar las condiciones ambientales para el buen funcionamiento de los equipos informáticos y de apoyo de la Dirección General (sic) Modernización e Innovación Gubernamental y en las dependencias y entidades de la administración pública, así como observar el cumplimiento de su mantenimiento;
-
-XXV. Mantener continua comunicación con todas y cada una de las Unidades de la Dirección de Innovación y las unidades administrativas de la Secretaría con el propósito de establecer y mantener intercambios de información y garantizar el óptimo funcionamiento y operación de éstas;
-
-XXVI. Propiciar y mantener las líneas de comunicación y coordinación con las Dependencias y Entidades de la Administración Pública;
-
-XXVII. Establecer las comisiones, consejos, comités y enlaces necesarios para el buen funcionamiento de la dirección, sobre asuntos de su competencia;
-
-XXVIII. Mantener relaciones de colaboración en materia de tecnologías de información y comunicaciones y fungir como enlace técnico de la Administración Pública Estatal con las autoridades federales y municipales y las instituciones nacionales o extranjeras correspondientes para la realización de eventos, estudios o proyectos, en las materias de su responsabilidad, considerando la colaboración de las dependencias o entidades involucradas con el desarrollo de los mismos; y
-
-XXIX. Las demás que le encomiende el Director General de Modernización e Innovación Gubernamental.
+(DEROGADO, P.O. 31 DE MARZO DE 2012)
 
 ###### ARTÍCULO 27.
 
-Corresponde a la Unidad Informática de Servicios Tecnológicos el ejercicio de las siguientes atribuciones:
-
-I. Evaluar la administración de las tecnologías de información y comunicaciones dentro de las dependencias y entidades de la Administración Pública Estatal, en términos de eficiencia y productividad de los mismos, para contribuir al mejoramiento de su control, racionalidad, austeridad y óptimo aprovechamiento en beneficio de los programas y proyectos establecidos;
-
-II. Asesorar y apoyar a las dependencias y entidades de la Administración Pública Estatal, en los asuntos relacionados con tecnologías de información y comunicaciones;
-
-III. Analizar, evaluar los anteproyectos y proyectos de requerimientos de tecnologías de información y comunicaciones propuestos por las dependencias y entidades de la Administración Pública Estatal;
-
-IV. Diseñar, implementar y administrar los sistemas de información, bases de datos, servidores y centros de datos de la Administración Pública Estatal;
-
-V. Coordinar, organizar y evaluar las acciones de implantación de tecnologías de información y comunicaciones de las dependencias y entidades de la Administración Pública Estatal;
-
-VI. Supervisar y controlar en coordinación con la Unidad de Desarrollo Tecnológico y Sistemas el desarrollo de aplicaciones, uso de correo y acceso a Internet en las dependencias y entidades de la Administración Pública Estatal;
-
-VII. Supervisar en coordinación con la Unidad de Desarrollo Tecnológico y Sistemas el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos en las dependencias y entidades del Gobierno del Estado;
-
-VIII. En coordinación con la Unidad de Desarrollo Tecnológico y Sistemas determinar la viabilidad operativa para la implantación de los sistemas operativos, aplicaciones ofimáticas, manejadores de bases de datos, herramientas para desarrollo de software, software de redes y configuración de los equipos de procesamiento de datos de la Subsecretaría, así como de las dependencias y entidades de la Administración Pública del Estado;
-
-IX. Supervisar el mantenimiento preventivo y correctivo de los equipos y dispositivos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos en las dependencias y entidades del Gobierno del Estado;
-
-X. Establecer y desarrollar sistemas integrales de planeación para la programación de los periodos de mantenimiento de los equipos de computación electrónica de la Subsecretaría, con el fin de optimizar el destino de los recursos institucionales y la operación de los sistemas;
-
-XI. Supervisar la recepción y atención de requerimientos funcionales y técnicos en materia informática, hechos por los usuarios de la Mesa de Ayuda;
-
-XII. Supervisar el registro y control de los equipos enviados a garantía;
-
-XIII. Supervisar en coordinación con la Subdirección de Gestión Interna y Calidad, la integración y actualización del inventario de la infraestructura relacionada con tecnologías de información y comunicaciones incluyendo el software adquirido y sistemas desarrollados de las dependencias y entidades de la Administración Pública Estatal;
-
-XIV. Supervisar la constante comunicación con las distintas áreas que conforman la Mesa de Ayuda de la Secretaría, para su adecuada coordinación;
-
-XV. Supervisar las condiciones ambientales para el buen funcionamiento de los equipos informáticos y de apoyo de la Dirección General de Modernización e Innovación Gubernamental, así como observar el cumplimiento de su mantenimiento;
-
-XVI. Proponer las innovaciones tecnológicas de la Red Gubernamental, para mejorar la eficiencia de los servicios que se prestan a través de ésta;
-
-XVII. Diseñar, implementar y administrar la Red Gubernamental en las dependencias y entidades de la Administración Pública Estatal;
-
-XVIII. Diseñar, implementar y administrar los servidores y centros de datos de la Administración Pública Estatal;
-
-XIX. Supervisar y controlar el uso de correo y acceso a Internet en las dependencias y entidades de la Administración Pública Estatal;
-
-XX. Establecer los procedimientos necesarios para la eficiente administración de los servicios que se prestan a través de la infraestructura de la Red Gubernamental;
-
-XXI. Asignar y administrar, las cuentas de correo electrónico para todos los usuarios de la Administración Pública Estatal, de acuerdo al dominio establecido para el Estado de Tabasco;
-
-XXII. Asignar y administrar, los servicios disponibles a través de la Red Gubernamental; y
-
-XXIII. Coordinar las acciones que se lleven a cabo en el Centro de Datos de la Secretaría, lugar donde se hospedan los servidores con aplicaciones institucionales y donde convergen los enlaces de la Red Gubernamental.
+(DEROGADO, P.O. 31 DE MARZO DE 2012)
 
 ###### ARTÍCULO 28.
 
-Corresponde a la Unidad Informática de Servicios de Administración el ejercicio de las siguientes atribuciones:
-
-I. Proveer el soporte y servicio necesario en materia informática, para garantizar la operación de las diversas áreas que integran la Subsecretaría de Administración;
-
-II. Asesorar, en acuerdo con el Director de Innovación Tecnológica, al Subsecretario de Administración y apoyar a las demás áreas de la Subsecretaría de Administración, en los diversos asuntos informáticos, cuando sea necesario;
-
-III. Informar y poner a consideración del Director de Innovación Tecnológica las peticiones y/o acuerdos solicitados por el Subsecretario de Administración, así como todos aquellos asuntos de trabajo que tiendan a mejorar las funciones informáticas de la Subsecretaría de Administración;
-
-IV. Vigilar la integración, actualización y envío de la información y el inventario de los recursos informáticos de la Subsecretaría de Administración, a la Unidad Informática de Servicios Tecnológicos;
-
-V. Vigilar el mantenimiento y actualización a los sistemas de información de la Dirección, a fin de mantenerlos vigentes y actualizados;
-
-VI. Mantener estrecha comunicación y disponibilidad con las diversas Unidades que integran la Dirección de Innovación Tecnológica;
-
-VII. Proveer el soporte y servicio necesario en materia informática, para garantizar la operación de las diversas áreas que integran la Subsecretaría de Administración;
-
-VIII. Asesorar, en acuerdo con el Director de Innovación Tecnológica, al Subsecretario de Administración y apoyar a las demás áreas de la Subsecretaría de Administración, en los diversos asuntos informáticos, cuando sea necesario;
-
-IX. Informar y poner a consideración del Director de Innovación Tecnológica sobre las peticiones y/o acuerdos solicitados por el Subsecretario de Administración, así como todos aquellos asuntos de trabajo que tiendan a mejorar las funciones informáticas de la Subsecretaría de Administración;
-
-X. Vigilar la integración, actualización y envío de la información y el inventario de los recursos informáticos de la Subsecretaría de Administración, a la Unidad Informática de Servicios Tecnológicos;
-
-XI. Vigilar el mantenimiento y actualización a los sistemas de información de la Subsecretaría, a fin de mantenerlos vigentes y actualizados; y
-
-XII. Mantener estrecha comunicación y disponibilidad con las diversas unidades que integran la Dirección de Innovación Tecnológica.
+(DEROGADO, P.O. 31 DE MARZO DE 2012)
 
 ###### ARTÍCULO 29.
 
-Corresponde a la Unidad Informática de Servicios Financieros el ejercicio de las siguientes atribuciones:
+(DEROGADO, P.O. 31 DE MARZO DE 2012)
 
-I. Proveer el soporte y servicio necesario en materia informática, para garantizar la operación de despacho de la Secretaría, Subsecretaría de Ingresos, Subsecretaría de Egresos, así como sus unidades administrativas adscritas;
-
-II. Asesorar y apoyar en acuerdo con el Director de Innovación Tecnológica, a los titulares de las áreas del despacho de la Secretaría, Subsecretaría de Ingresos, Subsecretaría de Egresos, así como sus unidades administrativas adscritas, en los diversos asuntos informáticos, cuando sea necesario;
-
-III. Informar y poner en consideración del Director de Innovación Tecnológica sobre las peticiones y/o acuerdos solicitados por los titulares de las áreas de Despacho de la Secretaría, Subsecretaría de Ingresos, Subsecretaría de Egresos, así como sus unidades administrativas adscritas, así como de todos aquellos asuntos de trabajo que tiendan a mejorar las funciones informáticas de la Subsecretaría;
-
-IV. Vigilar la integración, actualización y envío de la información y el inventario de los recursos informáticos de la Subsecretaría de Administración, a la Unidad Informática de Servicios Tecnológicos;
-
-V. Vigilar el mantenimiento y actualización a los sistemas de información del despacho de la Secretaría, Subsecretaría de Ingresos, Subsecretaría de Egresos, así como sus unidades administrativas adscritas a fin de mantenerlos vigentes y actualizados; y
-
-VI. Mantener estrecha comunicación y disponibilidad con las diversas unidades que integran la Dirección de Innovación Tecnológica.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
 
 ###### ARTÍCULO 30.
 
-Corresponde a la Dirección de Capacitación en Calidad el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Estatal de Capacitación en Calidad, el ejercicio de las siguientes atribuciones:
 
 I. Participar en la política de modernización administrativa del Gobierno del Estado, dirigiendo, coordinando e impartiendo la capacitación de los servidores públicos, para fortalecer sus conocimientos, habilidades, vocación de servicio y los valores cívicos y éticos en el servicio público;
 
@@ -1083,9 +943,11 @@ VII. Recopilar y analizar mejores prácticas de modernización e innovación gub
 
 VIII. Identificar aquellas áreas de oportunidad, en la Administración Pública Centralizada y paraestatal, para la realización de proyectos de modernización e innovación gubernamental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde a la Unidad Administrativa de Modernización e Innovación Gubernamental el ejercicio de las siguientes atribuciones:
+Corresponde a la Unidad Administrativa el ejercicio de las siguientes atribuciones:
 
 I. Aplicar y vigilar el cumplimiento de las políticas, normas, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales asignados a la Dirección General de Modernización e Innovación Gubernamental;
 
@@ -1483,19 +1345,21 @@ I. Vigilar el correcto cumplimiento de las disposiciones derivadas de la Ley que
 
 II. Mantener debidamente integrado y actualizado el padrón de contribuyentes alcoholeros y cuidar que se cumpla la normatividad existente con base en la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco;
 
-III. Vigilar todo lo relacionado a la normatividad existente respecto a la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, e imponer las sanciones que correspondan, incluyendo la revocación de la licencia;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+III. Vigilar todo lo relacionado a la normatividad existente respecto a la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco e imponer las sanciones que correspondan, con excepción de la revocación de licencias y permisos de funcionamiento;
 
 IV. Ordenar y expedir las órdenes de visitas de inspección a los establecimientos que cuenten con licencia de funcionamiento y de aquellos que soliciten cambio de domicilio, así como para cotejar cualquier documento, informe y datos relacionados con los licenciatarios correspondientes;
 
 V. Coordinarse con la Dirección de Recaudación para actualizar los expedientes de los contribuyentes que tienen licencias de funcionamiento con infracciones;
 
-VI. Llevar a cabo la expedición y control de los permisos eventuales con venta de bebidas alcohólicas;
+VI. (DEROGADA, P.O. 31 DE MARZO DE 2012)
 
-VII. Autorizar y expedir las licencias de funcionamiento de los establecimientos en los términos de la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco;
+VII. (DEROGADA, P.O. 31 DE MARZO DE 2012)
 
 VIII. Calificar y firmar infracciones, imponer y condonar multas, despachar proveídos y ordenar clausuras con motivo de las violaciones a la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, así como notificar las resoluciones o actos relacionados previstos en este artículo;
 
-IX. Revalidar las licencias de funcionamiento de conformidad con la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, previo el cumplimiento de los requisitos exigidos por dicha Ley;
+IX. (DEROGADA, P.O. 31 DE MARZO DE 2012)
 
 X. Atender al público en general para la solución de los problemas planteados en relación a la venta, distribución y consumo de bebidas alcohólicas en el Estado de Tabasco;
 
@@ -1719,7 +1583,9 @@ XVI. Proponer al Secretario las normas técnicas y administrativas que regulen l
 
 XVII. Organizar la administración del patrimonio público y ejercer las atribuciones precitadas considerando el registro de los inmuebles propiedad del Gobierno del Estado y las acciones de coordinación en la materia, con la Secretaría de Asentamientos y Obras Públicas;
 
-XVIII. Asignar cuando sea procedente, mediante contrato o convenio, el uso y goce de bienes inmuebles propiedad del Gobierno del Estado, a las dependencias y entidades de la administración pública, previa opinión técnica de la Secretaría de Asentamientos y Obras Públicas. Así mismo celebrar y suscribir los documentos jurídicos correspondientes con dependencias federales u otras autoridades para otorgar la posesión, temporal o permanente, de inmuebles propiedad del Gobierno del Estado, en términos de la Ley, actuando bajo los criterios y lineamientos que expresamente le gire el Secretario;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XVIII. Asignar cuando sea procedente, mediante contrato o convenio, el uso y goce de bienes inmuebles propiedad del Gobierno del Estado, a las dependencias y entidades de la administración pública, previa opinión técnica de la Secretaría de Asentamiento y Obras Públicas. Así mismo celebrar y suscribir los documentos jurídicos correspondientes con dependencias y órganos de la administración pública estatal, federal u otras autoridades para otorgar la posesión, temporal o permanente, de inmuebles y muebles propiedad del Gobierno del Estado, en términos de la Ley, actuando bajo los criterios y lineamientos que expresamente le gire el Secretario;
 
 XIX. Participar en el Comité de Compras del Poder Ejecutivo, en su carácter de representante permanente;
 
@@ -1761,9 +1627,17 @@ XXXVII. Vigilar que los subcomités de las dependencias, órganos y entidades cu
 
 XXXVIII. Controlar los recursos presupuestales asignados a la Coordinación General de Logística, a la Unidad de Administración de la Quinta Grijalva y del Centro de Transporte Aéreo de la Administración Pública;
 
-XXXIX. Controlar la operación del Padrón de Proveedores del Gobierno del Estado y vigilar el debido cumplimiento de los lineamientos relativos a dicho padrón; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
 
-XL. Las demás que las leyes y otros ordenamientos jurídicos le confieran o que le encomiende el Gobernador y el Secretario.
+XXXIX. Controlar la operación del Padrón de Proveedores del Gobierno del Estado y vigilar el debido cumplimiento de los lineamientos relativos a dicho padrón;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XL. Administrar la Banda de Música del Estado de Tabasco; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XLI. Las demás que las leyes y otros ordenamientos jurídicos le confieran o que le encomiende el Gobernador y el Secretario.
 
 ###### ARTÍCULO 47.
 
@@ -1907,9 +1781,17 @@ XI. Controlar, supervisar y verificar la disponibilidad presupuestaria de las pa
 
 XII. Atender y desempeñar las funciones encomendadas por el Director General;
 
-XIII. Informar periódicamente al Director General, sobre las actividades realizadas por la dirección; y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
 
-XIV. Vigilar el correcto desempeño de las funciones que competen a la dirección.
+XIII. Informar periódicamente al Director General sobre las actividades realizadas por la Dirección;
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XIV. Vigilar el correcto desempeño de las funciones que competen a la Dirección; y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2012)</small>
+
+XV. Coordinar, controlar y supervisar a la Banda de Música del Estado de Tabasco.
 
 ###### ARTÍCULO 52.
 
@@ -2288,3 +2170,9 @@ SECRETARIO DE ADMINISTRACIÓN Y FINANZAS
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
