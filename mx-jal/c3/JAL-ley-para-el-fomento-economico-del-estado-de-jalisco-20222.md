@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-fomento-economico-del-estado-de-jalisco-20222"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-17"
-last_updated: "2007-01-23"
+last_updated: "2012-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
 
-LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE MAYO Y 5 DE JUNIO DE 2012, NÚMERO 7, SECCIÓN II, PÁGINAS 3 A 4 Y 5 A 13; EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2007.
+LEY PARA EL FOMENTO ECONÓMICO DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 17 de febrero del 2001.
 
@@ -43,7 +45,7 @@ LEY PARA EL FOMENTO ECONOMICO DEL ESTADO DE JALISCO
 
 Esta ley es de interés público y de observancia general en el Estado de Jalisco. Su aplicación corresponde a la Secretaría de Promoción Económica, al Consejo Estatal de Promoción Económica, al Sistema Estatal de Información Jalisco y demás autoridades administrativas, tanto de la Administración Pública Centralizada del Estado, como de los municipios, según sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 2.
 
@@ -299,7 +301,7 @@ Los incentivos previstos en las fracciones I, II, III, IV y V del artículo 8 de
 
 Los incentivos que sean otorgados a los inversionistas por cualquiera de los municipios del Estado, deberán ser aprobados en los términos de sus correspondientes leyes municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 12.
 
@@ -311,7 +313,7 @@ No se considerarán como actos de simulación los casos de fusión, asociación,
 
 En los casos de subcontratación de personal, los nuevos empleos se considerarán generados por la fuente primaria, entendiendo por ésta la unidad económica que ocupa en actividades productivas o de servicios a un número fijo o variable de empleados que le son proveídas por otra institución, llamada fuente secundaria, que suscribe por sí los contratos de prestación de servicios y asume las responsabilidades derivadas de la legislación en materia de trabajo y previsión social. En estos casos, las entidades responsables de la asignación de incentivos verificarán que los trabajadores subcontratados sean debidamente inscritos en la institución de seguridad social correspondiente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO VII. Del Fomento y Desarrollo Económico de las Comunidades Indígenas
 
@@ -341,7 +343,7 @@ Artículo 12E.- El ejecutivo del Estado, en coordinación con las autoridades fe
 
 Artículo 12F.- El estado impulsará el establecimiento de industrias cuya propiedad corresponda a las propias comunidades indígenas, proporcionando los apoyos financieros y de capacitación para ello.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO VIII. Del Otorgamiento y Ejecución de incentivos
 
@@ -401,7 +403,7 @@ El monto de los incentivos se determinará en forma anual y se podrá establecer
 
 El Consejo Estatal de Promoción Económica, conforme a las posibilidades de su presupuesto y en los términos del Reglamento de esta Ley, resolverá en el ámbito de su competencia sobre los montos, tipos, condiciones, forma de garantía y plazos de los incentivos que se otorguen a cada beneficiario cuando se reúnan los requisitos previstos. También propondrá los incentivos susceptibles de aplicación por parte de otras dependencias y entidades del Poder Ejecutivo del Estado o de los municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 17.
 
@@ -481,7 +483,7 @@ IX. Las multas impuestas en ejercicio de las facultades establecidas en esta Ley
 
 X. Los demás derechos y obligaciones no comprendidos en las fracciones anteriores, que adquiera por cualquier título legal.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 21.
 
@@ -545,7 +547,7 @@ En el Presupuesto de Egresos del Poder Ejecutivo del Estado, se deberá establec
 
 El Consejo Estatal de Promoción Económica contará con una Junta de Gobierno, que será su máximo órgano de gobierno; y contará además con un Director General, el cual será nombrado por el titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2007)</small>
 
 ###### Artículo 25.
 
@@ -605,7 +607,7 @@ La Junta de Gobierno contará además con un Secretario Técnico que será el Di
 
 Cada miembro de la Junta de Gobierno nombrará un suplente que lo sustituya en sus ausencias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 26.
 
@@ -743,7 +745,7 @@ III. Dejar constancia de los actos y acuerdos que emita la Junta de Gobierno.
 
 El Director General del Consejo Estatal de Promoción Económica es su representante legal y administrador general, por lo que podrá representar al organismo ante toda clase de autoridades y terceros, sin perjuicio de los mandatos o poderes que la Junta de Gobierno otorgue a otras personas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 35.
 
@@ -1245,7 +1247,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. MAURICIO LIMÓN AGUIRRE
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 2004.
 
@@ -1268,3 +1270,21 @@ SEGUNDO. El reglamento de la Ley de Planeación para el Estado de Jalisco y sus 
 P.O. 23 DE ENERO DE 2007.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MAYO DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 31 DE MARZO DE 2012.
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2013, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga el decreto No. 18797 de la Ley para el Fomento Económico del Estado de Jalisco y demás disposiciones legales que se opongan al presente decreto.
+
+TERCERO. El Gobernador del Estado, en acuerdo con las secretarías de Promoción Económica y de Administración y Finanzas del Gobierno del Estado, atendiendo los criterios de eficiencia administrativa y para el debido funcionamiento del organismo público creado en la Ley para la Promoción del (sic) Inversiones del Estado de Jalisco, deberá proveer la transferencia de personal y de recursos materiales que permitan el cumplimiento de sus respectivos fines y competencias establecidos en las mismas, observando en todo momento el estricto respeto a los derechos laborales de los trabajadores de la Secretaría, reconociéndoles en todo momento la antigüedad del personal que haya de ser transferido.
+
+CUARTO. El Gobierno del Estado de Jalisco, contemplará dentro de su proyecto de egresos del 2013, una asignación presupuestal suficiente para la creación del organismo público descentralizado Invierte en Jalisco y la subsecuente constitución del Fondo contemplado en el artículo 6° de la Ley de Promoción a la Inversión del Estado de Jalisco.
+
+QUINTO. El patrimonio con que actualmente cuenta el Consejo Estatal de Promoción Económica creado por la Ley de Fomento Económico del Estado de Jalisco, pasará a ser patrimonio del mismo Consejo señalado en la nueva Ley para el Desarrollo Económico del Estado de Jalisco. De igual manera quedarán bajo el encargo del Consejo Estatal de Promoción Económica de la nueva Ley para el Desarrollo Económico, los recursos materiales, financieros y humanos, así como todos los derechos y obligaciones que actualmente tiene del Consejo Estatal de Promoción Económica, para lo cual las secretarías de Administración y de Finanzas del Gobierno del Estado deberán prestar todas las facilidades y realizar todas las gestiones necesarias, observando en todo momento el respeto irrestricto a los derechos laborales de los trabajadores del organismo y el reconocimiento de su propia antigüedad laboral.
+
+SEXTO. Para el caso de lo contemplado en el artículo 66, párrafos primero y segundo, de la Ley para el Desarrollo Económico del Estado de Jalisco, las obligaciones ahí contenidas deberán cumplimentarse, en los términos de lo señalado por la propia Ley de Planeación correspondiente.
+
+SÉPTIMA. Las solicitudes de apoyo que presenten las personas físicas o jurídicas ante el Consejo de Promoción Económica del Estado de Jalisco, podrán hacer referencia al Expediente Único que contempla la Ley de Mejora Regulatoria del Estado de Jalisco.
