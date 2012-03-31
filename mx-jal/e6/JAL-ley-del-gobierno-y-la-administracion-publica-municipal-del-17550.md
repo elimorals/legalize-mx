@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2012-02-14"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -2823,13 +2823,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Los ayuntamientos tendrán un año a partir de la entrada en vigor del presente decreto, para reformar o expedir los reglamentos municipales que se adecuen a las presentes reformas. En tanto no se reformen o se expidan dichos reglamentos, los actos y procedimientos administrativos municipales se seguirán rigiendo por lo dispuesto por la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-P.O. 10 DE FEBRERO DE 2009.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
 P.O. 25 DE DICIEMBRE DE 2008.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE FEBRERO DE 2009.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 29 DE DICIEMBRE DE 2009.
 
@@ -2853,7 +2853,17 @@ DECRETO No. 23084/LVIII/09 POR EL QUE SE REFORMA EL ARTÍCULO 79 DE LA LEY DEL G
 
 P.O. 3 DE FEBRERO DE 2011.
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+SEGUNDO. La Ley de Coordinación Metropolitana del Estado de Jalisco y demás disposiciones legales metropolitanas, se aplicarán al Área Metropolitana de Guadalajara declarada mediante decreto número 23021/LVIII/09 publicado en el periódico oficial El Estado de Jalisco el 26 de diciembre de 2009, por lo que se dan por cumplidas, para los efectos de la Ley, las disposiciones relativas al proceso de declaración de área metropolitana, que establece el artículo 15 de la Ley de Coordinación Metropolitana del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+TERCERO. En los estatutos orgánicos de las áreas metropolitanas se podrán establecer consejos consultivos con la conformación y facultades que en estos se prevea.
 
 P.O. 18 DE JUNIO DE 2011.
 
@@ -2876,3 +2886,7 @@ DECRETO NUMERO 23599/LIX/11 POR EL QUE SE REFORMA EL ARTÍCULO 35 DE LA LEY DEL 
 P.O. 14 DE FEBRERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE MARZO DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
