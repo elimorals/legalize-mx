@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entidades-paraestatales-del-estado-de-chihuahua-11578"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-28"
-last_updated: "2011-12-28"
+last_updated: "2012-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de enero de 1998.
 
@@ -86,6 +86,12 @@ Los fondos y fideicomisos públicos de fomento, quedan sujetos por cuanto a su c
 Pensiones Civiles del Estado se regirá por su ley específica en cuanto a las estructuras de sus órganos de gobierno y vigilancia, pero en cuanto a su funcionamiento, operación, desarrollo y control, en lo que no se oponga a aquella ley específica se sujetará a las disposiciones de la presente ley.
 
 Aquellas entidades que además de órgano de gobierno, coordinador general y órgano de vigilancia, cuenten con patronatos, comisiones ejecutivas o sus equivalentes, se seguirán rigiendo en cuanto a estos órganos especiales de acuerdo a sus leyes u ordenamientos relativos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2012)</small>
+
+Artículo 5 bis.- La Junta Central de Agua y Saneamiento del Estado y sus organismos operadores se regirán por su ley específica en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
 ###### Artículo 6º.
 
@@ -695,7 +701,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE ENERO DE 2005.
 
@@ -798,3 +804,21 @@ P.O. 28 DE DICIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días naturales posteriores a aquél de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con motivo de la vigencia del presente Decreto quedan derogados los siguientes ordenamientos: Reglamentación Local relativa a las Descargas de Aguas Residuales no Domésticas al Sistema de Drenaje, del 18 de octubre de 1997, publicada en el Periódico Oficial del Estado No. 84; Reglamento de Juntas Rurales de Agua Potable de 1987; Reglamento del Consejo Estatal para el Uso Inteligente y Responsable del Agua, del 15 de septiembre de 1994, publicado en el Periódico Oficial del Estado No. 74, y el Reglamento para la Construcción de Edificaciones y sus Instalaciones Hidráulicas y Sanitarias y Fraccionamientos para el Municipio de Chihuahua. Así mismo, se deroga cualquier disposición que se oponga a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+La Junta Central, así como las juntas municipales y rurales, no se verán afectadas con motivo de la entrada en vigor del presente Decreto, por lo que cualquier derecho u obligación asumido con anterioridad, con motivo de alguna disposición legal, de convenio o contrato o de cualquier otro origen, subsistirán en tanto no se opongan a lo previsto por la Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dispone de hasta 180 días contados a partir de la entrada en vigor de la presente Ley, para expedir el Reglamento correspondiente.
