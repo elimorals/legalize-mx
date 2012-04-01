@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2011-12-24"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2012.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -339,9 +337,9 @@ I.- Las personas que realicen las operaciones de transmisión de la propiedad a 
 
 II.- La Receptoría de Rentas respectiva de la Secretaría de Finanzas y Administración expedirá el formulario para que el contribuyente efectúe el pago en la propia Receptoría, en las instituciones de crédito o en los establecimientos autorizados.
 
-III.- Las autoridades correspondientes no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos respecto de los cuales no se hubiera cubierto previamente el impuesto a que se refiere este capítulo. Si al solicitar cualquiera de los trámites a que se refiere el párrafo anterior, se llegare a descubrir que la fecha posible de la transmisión de la propiedad del vehículo, difiere aquella en que fue literalmente inscrita la leyenda de cesión, se tomará en cuenta para liquidar los impuestos, determinar y cobrar los recargos e imponer las sanciones que procedan; y
+III.- Las autoridades correspondientes no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos respecto de los cuales no se hubiera cubierto previamente el impuesto a que se refiere este capítulo. Si al solicitar cualquiera de los tramites a que se refiere el párrafo anterior, se llegare a descubrir que la fecha posible de la transmisión de la propiedad del vehículo, difiere aquella en que fue literalmente inscrita la leyenda de cesión, se tomará en cuenta para liquidar los impuestos, determinar y cobrar los recargos e imponer las sanciones que procedan; y
 
-IV.- Las empresas dedicadas a la compraventa de vehículos usados, llevaran un registro de los adquiridos o que reciban a comisión o en consignación, en el que anotarán; Nombre, domicilio del transmitente, comitente o consignante, figura jurídica del acto por el que se reciba cada vehículo y los datos y características que lo identifiquen. Las empresas a que se refiere la fracción anterior, deberán presentar al momento de solicitar la alta o cambio de propietario del vehículo, la factura que les haya sido entregada por el propietario anterior, con el objeto de que la autoridad se cerciore del cabal cumplimiento de las obligaciones fiscales.
+IV.- Las empresas dedicadas a la compraventa de vehículos usados, llevaran un registro de los adquiridos o que reciban a comisión o en consignación, en el que anotaran; Nombre, domicilio del transmitente, comitente o consignante, figura jurídica del acto por el que se reciba cada vehículo y los datos y características que lo identifiquen. Las empresas a que se refiere la fracción anterior, deberán presentar al momento de solicitar la alta o cambio de propietario del vehículo, la factura que les haya sido entregada por el propietario anterior, con el objeto de que la autoridad se cerciore del cabal cumplimiento de las obligaciones fiscales.
 
 ###### Artículo 31.
 
@@ -395,11 +393,11 @@ III.- Los servidores públicos que autoricen cualquier trámite de los referidos
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO V. Impuesto por la Prestación del Servicio de Hospedaje
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 A.- Es objeto de este impuesto la prestación de servicios de hospedaje en el territorio del Estado de Colima, a cambio de una contraprestación.
 
@@ -423,15 +421,15 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
-
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -443,10 +441,6 @@ I.- Por el servicio de hospedaje en hoteles, paraderos de casas rodantes, servic
 
 II.- Por el servicio de hospedaje en moteles, la tasa del 5%.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
@@ -456,6 +450,10 @@ Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mediante declar
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Si el contribuyente opera en dos o más establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el momento en que se perciba el importe de las contraprestaciones por el servicio de hospedaje.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -639,7 +637,7 @@ II.- Acumular la información de todos los establecimientos que operen en el ter
 
 III.- Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO VII. DEL IMPUESTO SOBRE NOMINAS
 
@@ -757,19 +755,19 @@ XI.- Herramientas y uniformes para el trabajo y deportivos; y
 
 XII.- Becas para los trabajadores y sus familias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VIII. Del Impuesto sobre Tenencia o Uso de Vehículos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION PRIMERA. Del objeto
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -803,13 +801,13 @@ VI.- Se realice la inspección de seguridad marítima por las autoridades federa
 
 VII.- Las personas físicas o las morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, los asignen a su propio servicio o al de sus funcionarios o empleados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION SEGUNDA. De los sujetos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -853,7 +851,7 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -867,7 +865,7 @@ III.- Las autoridades competentes, que autoricen el registro de vehículos, perm
 
 IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto establecido en este capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -937,41 +935,41 @@ u).- Esquís acuáticos motorizados.
 
 VIII.- Comerciantes en el ramo de vehículos, a las personas físicas y las morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION TERCERA. De la base
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z.- Será base de este impuesto el valor total del vehículo consignado en la primera facturación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS APARTADOS Y ARTICULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION CUARTA. De las Cuotas, Tasas y Tarifas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 APARTADO 1
 
 Automóviles
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS.- Tratándose de automóviles el impuesto se calculará como a continuación se indica:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 I.- En el caso de automóviles nuevos destinados al transporte hasta de quince pasajeros y de camiones cuyo peso bruto vehicular sea hasta de 5 toneladas, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo la siguiente:
 
@@ -1011,33 +1009,33 @@ Para los efectos de esta fracción, se entiende por vehículos destinados al tra
 
 III.- Tratándose de automóviles de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 APARTADO 2
 
 Otros Vehículos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 1.- En este apartado se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos y motocicletas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 2.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00, para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $7,877.00, para aeronaves de reacción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 3.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1061,7 +1059,7 @@ del límite inferior
 
 369,693.58 En adelante 25,117.08 16.8
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1085,27 +1083,27 @@ El monto de las cuotas establecidas en este artículo se actualizarán (sic) con
 
 Tratándose de motocicletas de más de diez años modelo (sic) anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Finanzas y Administración publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 APARTADO 3
 
 Vehículos Usados
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Artículo 41 Z BIS 8.- Tratándose de vehículos de fabricación nacional o importados, a que se refiere el artículo 41 Z BIS, fracción II de este capítulo, así como de aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
@@ -1143,13 +1141,13 @@ II.- La cantidad obtenida conforme a la fracción anterior se actualizará de co
 
 Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 Artículo 41 Z BIS 9.- Tratándose de automóviles destinados al transporte de hasta quince pasajeros y de camiones con peso bruto vehicular hasta de 5 toneladas, nacionales o importados, de hasta nueve años modelo anteriores al de aplicación de este capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
 a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
@@ -1185,7 +1183,7 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1239,7 +1237,7 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1273,9 +1271,9 @@ b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformi
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION QUINTA. Del pago
 
@@ -1285,13 +1283,13 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circular sin placas o alta del vehículo. El pago se realizará en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION SEXTA. De las exenciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1321,9 +1319,9 @@ Cuando por cualquier motivo un vehículo deje de estar comprendido en los supues
 
 Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION SEPTIMA. Otras obligaciones
 
@@ -1559,7 +1557,7 @@ Por los conceptos consignados en los incisos a), b) y c) a que se refiere esta f
 
 Los adultos en plenitud acreditarán ser de escasos recursos económicos, mediante constancia expedida por el Instituto para la Atención de Adultos en Plenitud.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 II.- Por la expedición de concesión a vehículos de servicio público, conforme a la siguiente clasificación:
 
@@ -1813,7 +1811,7 @@ b).- Por la expedición o refrendo de gafetes de representación y gestoría 1.0
 
 Los derechos de refrendo a que se refieren los incisos a) y b) que anteceden, deberán tramitarse durante los meses de enero y febrero
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -1821,7 +1819,7 @@ XIII.- Por la aplicación de examen para determinar estado toxicológico por alc
 
 De requerirse la utilización de reactivos y apoyo de laboratorio, si se confirma el estado toxicológico, el conductor examinado pagará además 5.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -1833,7 +1831,7 @@ XIV.- Por la colocación temporal de dispositivo físico de monitoreo a vehícul
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 52.
 
@@ -1843,7 +1841,7 @@ Número de días
 
 de salario mínimo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario actualizado:
 
@@ -1869,7 +1867,7 @@ ni el máximo superior a 2,162.00
 
 No será exigible la presentación del avalúo comercial o bancario, si no son requeridos en la operación que se registra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 II.- Por la inscripción de contratos de fideicomiso de cualquier tipo, sobre el valor de los bienes fideicomitidos que resulte mayor entre el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario, se cobrará:
 
@@ -1945,7 +1943,7 @@ ni el máximo superior a 7.000
 
 VII.- Inscripción de las modificaciones a la escritura constitutiva de las sociedades o asociaciones de cualquier tipo, que no se refieran a aumento de capital social 9.000
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 VIII.- Inscripción de operaciones de crédito de cualquier tipo celebradas con instituciones, entidades, sociedades u organismos auxiliares, de crédito.
 
@@ -2083,7 +2081,7 @@ b).- Por la escisión, sobre el monto del capital social de las empresas escindi
 
 ni el máximo superior a 541.000
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 XVI.- Inscripción del otorgamiento de poderes, de la renovación, sustitución o revocación de los mismos:
 
@@ -2173,7 +2171,7 @@ c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley
 
 d).- Por la anotación de fianzas judiciales o legales 10.500
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación o por cada inmueble 4.500
 
@@ -2321,7 +2319,7 @@ II.- Certificaciones y constancias, en general, así como certificaciones por co
 
 III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 10.000
 
@@ -2345,11 +2343,11 @@ V. - (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 55.
 
@@ -2979,9 +2977,9 @@ II.- Recepción, evaluación y otorgamiento del resolutivo de la manifestación 
 
 2.- En su modalidad MIA-2 120.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del resolutivo o ampliación de vigencia:
 
@@ -2999,7 +2997,7 @@ III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del 
 
 5.- En su modalidad de riesgo ambiental 20.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3149,7 +3147,7 @@ III.- Expedición de patente con vigencia por tiempo indefinido 2.000
 
 IV.- Expedición de credencial de identificación con vigencia por Tres años 1.000
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO VII BIS. Secretaría de Seguridad Pública
 
@@ -3267,21 +3265,21 @@ Numero de días de salario mínimo
 
 I.- Expedición de títulos 9.900
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 II.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 III.- Expedición de certificados, originales y duplicados así como constancias o diplomas originales y/o certificaciones de capacitación para y en el trabajo, educación media y superior, incorporados a la educación oficial del Estado 1.620
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 IV.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2008)
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 V.- Por incorporación de cada plan de estudios de educación:
 
@@ -3293,17 +3291,17 @@ c).- Primaria 35.990
 
 d).- Secundaria 44.990
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 e).- Capacitación para y en el trabajo 43.486
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 f).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 g).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
 
@@ -3319,7 +3317,7 @@ j).- Técnico superior 71980
 
 k).- Postgrado 71980
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2005)</small>
 
 VI.- Por la reincorporación anual de cada plan de estudios de educación:
 
@@ -3345,13 +3343,13 @@ g).- Técnico superior 0.960
 
 h).- Postgrado 0.960
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 i).- Capacitación para y en el trabajo 0.800
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3401,13 +3399,13 @@ c).- Licenciatura 1,2000.000
 
 d).- Postgrado 1,500.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 e).- Capacitación para y en el trabajo 707.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3433,7 +3431,7 @@ a).- Registro de Consejo Directivo 11.616
 
 b).- Registro por cada socio 0.464
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 58.
 
@@ -3443,19 +3441,19 @@ Numero de días de salario mínimo
 
 I.- Por el derecho a examen de admisión:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 a).- Bachillerato 3.700
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 b).- Licenciatura 4.500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3463,19 +3461,19 @@ c).- Posgrado 8.000
 
 II.- Por inscripción:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 a).- Bachillerato 12.200
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 b).- Licenciatura 18.500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3485,19 +3483,19 @@ III.- Por exámenes de regularización:
 
 a).- Bachillerato:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 1.- Primera oportunidad 3.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 2.- Segunda oportunidad 3.500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3505,25 +3503,25 @@ a).- Bachillerato:
 
 b).- Licenciatura:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 1.- Primera oportunidad 3.500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 2.- Segunda oportunidad 4.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 3.- Tercera oportunidad 4.500
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3535,7 +3533,7 @@ c).- Posgrado, única oportunidad 6.000
 
 IV.- Por expedición de duplicados de certificados de estudios 3.250
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3545,7 +3543,7 @@ V.- Por expedición de constancias de estudio 2.000
 
 VI.- Por trámites de baja 1.000
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -3735,7 +3733,7 @@ Los ingresos que se obtengan de los diversos conceptos establecidos en el presen
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO VIII. Servicios Prestados en el Poder Judicial
 
@@ -3895,7 +3893,7 @@ XX.- Constancia de no inconveniente de aviso sanitario de importación 4.000
 
 ### CAPITULO IX. Otros Derechos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
 
@@ -3945,7 +3943,7 @@ Artículo 64 D.- Las personas físicas y las morales que realicen las actividade
 
 6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
@@ -3963,7 +3961,7 @@ número de días
 
 de salario Mínimo
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
@@ -4207,7 +4205,7 @@ I).- Por cartografía en formato digital en archivo de formato PDF:
 
 4.- Por cada capa adicional de polígonos parcelarios, solares o predios de la pequeña propiedad 10.000
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -4217,9 +4215,9 @@ I).- Por cartografía en formato digital en archivo de formato PDF:
 
 Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO UNICO
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -4227,7 +4225,7 @@ Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recu
 
 ## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -4305,15 +4303,15 @@ X.- Otros no especificados.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
 ## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ## TITULO SEXTO BIS PRIMERO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -4383,13 +4381,13 @@ PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 1993, pr
 
 SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de 1981, y publicada en el Periódico Oficial "EL ESTADO DE COLIMA", el 26 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2012)</small>
 
-TERCERO.- En el ejercicio fiscal 2010, los contribuyentes que adeudan derechos por la expedición, renovación anual o reposición de la calcomanía fiscal del ejercicio 2009 y anteriores, gozarán de una reducción del 60% en los recargos causados y del 100% de las multas a que se hubieran hecho acreedores por el pago extemporáneo de los citados derechos, si realizan el pago de los adeudos entre el 20 de enero y el 28 de febrero de 2010.
+TERCERO.- En el ejercicio fiscal 2012, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 31 de julio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2012)</small>
 
-CUARTO.- En el ejercicio fiscal 2011, el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que se refiere el artículo 41 Z BIS 12, así como el pago de los derechos por la expedición o renovación anual de la calcomanía fiscal vehicular, previsto en el artículo 53, fracción IV, de la Ley de Hacienda del Estado de Colima, podrá efectuarse sin recargos hasta el 31 de mayo.
+CUARTO.- En el ejercicio fiscal 2012, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 31 de julio.
 
 > <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
 
@@ -4417,7 +4415,7 @@ Dado en Palacio de Gobierno, a los 21 días del mes de diciembre de 1992.
 
 EL GOBERNADOR CONST. DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GRAL. DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.- EL SECRETARIO DE FINANZAS, C.P. ERNESTO TERRIQUEZ SAMANO.- Rúbrica.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 13 DE MARZO DE 1993.
 
@@ -4721,7 +4719,7 @@ En caso de que el contribuyente con adeudos de los señalados en el párrafo ant
 
 b).- Que el tenedor o usuario del vehículo a cuyo nombre se encuentre inscrito en el Registro Público Vehicular del Estado, en caso de tratarse de persona física, cuente con licencia de conducir vigente; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2011)</small>
 
 c).- Que los derechos de control vehicular y en su caso el Impuesto Sobre Tenencia o Uso de Vehículos, correspondientes al ejercicio fiscal 2011, se paguen durante los meses de enero al 31 de mayo de 2011.
 
@@ -4763,10 +4761,18 @@ a).- Impuestos, derechos y aprovechamientos estatales;
 
 b).- Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos;
 
-II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2012 que resulte procedente se efectúe de enero a marzo de dicho año, si el vehículo fue inscrito en el Registro Público Vehicular del Estado antes de 2012 o durante el periodo aquí señalado.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2012)</small>
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2011)</small>
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2012 que resulte procedente se efectúe de enero a julio de dicho año, si el vehículo fue inscrito en el Registro Público Vehicular del Estado antes de 2012 o durante el periodo aquí señalado.
 
-Respecto de los vehículos nuevos o importados que se inscriban en el Registro Público Vehicular del Estado entre el 01 de abril y el 31 de diciembre de 2012, se tendrá derecho al subsidio otorgado en los términos del presente transitorio, siempre que sus tenedores o usuarios cumplan con los requisitos señalados en la fracción I, incisos a) y b).
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2012)</small>
+
+Respecto de los vehículos nuevos o importados que se inscriban en el Registro Público Vehicular del Estado entre el 01 de agosto al 31 de diciembre de 2012, se tendrá derecho al subsidio otorgado en los términos del presente transitorio, siempre que sus tenedores o usuarios cumplan con los requisitos señalados en la fracción I, incisos a) y b), de este artículo.
 
 TERCERO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2012 el monto se ajustará a la decena de pesos inferior más próxima.
+
+P.O. 1 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
