@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2010-12-25"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMAN, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMAN, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1535,9 +1535,9 @@ II. A los usuarios de servicio medido, se concede un 12 por ciento de descuento 
 
 En caso de que el consumo medio exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el estado de cuenta que se emita para el efecto.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2012)</small>
 
-III. Los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberá exhibir a el Organismo previamente los siguientes documentos:
+III. Los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero o pago puntual, que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberá exhibir a el Organismo previamente los siguientes documentos:
 
 a) Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -1545,9 +1545,9 @@ b) Identificación oficial con fotografía.
 
 En caso de que el usuario sujeto al beneficio establecido en este artículo realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2012)</small>
 
-IV. 50 por ciento de descuento a los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, de cuota fija mayores de 60 años de edad o discapacitados que acrediten una situación económica precaria; dicho descuento se aplicará respecto de la casa que habiten.
+IV. 50 por ciento de descuento a los usuarios que paguen el servicio de agua potable, alcantarillado y saneamiento, por anualidad durante los meses de enero y febrero, o pago puntual, de cuota fija mayores de 60 años de edad o discapacitados que acrediten una situación económica precaria; dicho descuento se aplicará respecto de la casa que habiten.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1639,18 +1639,8 @@ AÑO 2011 2012 2013 2014 2015
 
 BASE 52% 64% 76% 88% 100%
 
-###### ARTÍCULO UNICO.
+P.O. 1 DE ABRIL DE 2012.
 
-El presente Decreto entrará en vigor 1° de enero del año 2006, previa su publicación en el Periódico Oficial "El Estado de Colima.
+###### ARTÍCULO ÚNICO.
 
-El Gobernador del Estado dispondrá se publique, circule y observe."
-
-Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
-
-C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
-
-Por lo tanto mando se imprima, publique, circule y observe.
-
-Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
