@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48147"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2009-05-09"
+last_updated: "2012-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 314
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Comala, Colima, para quedar como sigue:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COMALA, COLIMA
 
@@ -83,25 +83,25 @@ El pago de los derechos a que se refiere el artículo anterior, se pagarán dura
 
 Por el servicio doméstico de agua potable los usuarios de cuota fija tratándose de tomas de media pulgada de diámetro, pagarán los derechos de conformidad con las siguientes cuotas mensuales:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 A).- URBANA DEL CENTRO 1.720 SM
 
 Comprende las zonas delimitadas al sur por las calles, Álvaro Obregón y Cuauhtémoc, al norte, por las calles Zaragoza y 16 de Septiembre, al oriente, por las calles Allende y Miguel Hidalgo, al Poniente, por las calles 5 de Mayo y Benito Juárez.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 B).- POPULAR 1.581 SM
 
 Comprende las colonias: Lázaro Cárdenas, Los Aguajes, La Trinidad, Ejido el Pedregal, Cuauhtémoc. Lomas del Pedregal, Solidaridad Aguajitos, Celsa Virgen, Santa Cecilia, Miguel de la Madrid Hurtado así como el Barrio de San Miguel y el Barrio Alto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 C).- RESIDENCIAL 2.396 SM
 
 Comprende los fraccionamientos existentes sobre la avenida de la Ex Hacienda la Cañada, las Huertas de Comala, Fracc. Lomas de Comala, Fracc. Real Nogueras, Fracc. Campestre San Juan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 D).- COMUNIDADES 1.153 SM
 
@@ -111,25 +111,25 @@ a).- Las comunidades de Nogueras y Los Llanitos.
 
 Por el servicio no doméstico de agua potable se pagarán las siguientes tarifas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 a).- Los establecimientos comerciales cuyos giros a continuación se mencionan se describen como Bajo Consumo y pagarán una cuota mensual de: 2.709 SM
 
 Abarrotes con venta de bebidas alcohólicas, Boutiques, Bufetes, consultorios, despachos y oficinas, Carpinterías, Cerrajerías, Venta de Dulces, Estacionamientos, Estanquillos, Farmacias, Ferreterías, Florerías, Foto estudios, Funerarias, Huaracherías, Fabricación de Huaraches, Jugueterías, Licorerías, Loncherías, Materiales para Construcción (ventas), Misceláneas, Minisupers, Mueblerías, Nieves y paletas, (Industria y expendios) de Panaderías (Industria y Expendio), Papelerías, Pastelerías, Peluquerías, Pintura y laminado de vehículos, Refaccionarías, Relojerías, Reparación de aparatos electrodomésticos, Reparación de llantas, Sastrerías, Servicio de transporte y fletes (sin lavado), Fabricación y venta de sombreros, Talleres mecánicos, eléctricos y tornos, Tapicerías, Taquerías, Templos, Tiendas de regalos, Tlapalerías, Venta de libros, periódicos y revistas, Videocasetes, alquiler de, Videojuegos, Vidrierías, Vinaterías, Zapaterías.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b).- Los establecimientos comerciales cuyos giros a continuación se relacionan están clasificados como Consumo Medio y pagarán una cuota mensual de: 4.436 SM
 
 Academias y Escuelas, Alquiler de loza, muebles y manteles, Agencias de Autos, Bares, Belleza, salones de Billares, Bodega de Frutas y Verduras, Bodega de Almacenamiento, Carnicerías, Cenadurías y Birrierías, Elaboración y venta de productos derivados de leche, Estacionamientos con caseta de cobro, Fabricación de dulces, Fondas y cocinas económicas, Lavado de Muebles, Gasolineras sin servicio de lavado, Neverías, Paleterías, Pizzerías, Servicios auxiliares de diagnóstico, Talleres de artesanías, Tenerías y curtidurías, Tiendas de Autoservicio, Tortillerías sin molino, Vulcanizadoras y Vitalizadoras.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 c).- Los establecimientos comerciales cuyos giros a continuación se enlistan se consideran grandes consumidores en tanto no tengan medidor instalado pagarán una cuota fija mensual de: 8.980 SM
 
 Locales comerciales, Molinos de nixtamal, Servicio de lavado de vehículos, Tortillerías sin molino, Tortillerías con molino, Gasolineras sin servicio de lavado y con servicio de lavado, Restaurantes con servicio de baños, Hospitales, Casa de huéspedes, Escuelas y Colegios, Hoteles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 d) Por Servicios a Gobierno y Organismos Públicos, mensualmente. 2.709 SM
 
@@ -359,7 +359,9 @@ I.- Doce por ciento de descuento a los usuarios de cuota fija que paguen la anua
 
 II.- Ocho por ciento de descuento a los usuarios de cuota fija que paguen la anualidad el servicio de agua potable y alcantarillado de manera anticipada. Siempre y cuando se realice el pago durante los meses de marzo.
 
-III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, tendrán derecho a un descuento del cincuenta por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, solo cuando paguen de manera anticipada dicha anualidad, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2012)</small>
+
+III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, tendrán derecho a un descuento del cincuenta por ciento en el pago de los derechos por servicios públicos de agua potable y alcantarillado, respecto de la casa que habitan, solo cuando paguen de manera anticipada dicha anualidad o pago puntual, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
 
 a).- Original y copia credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y
 
@@ -367,7 +369,9 @@ b).- Identificación oficial con fotografía.
 
 En caso de que el usuario sujeto al beneficio de esta fracción, realice su pago por anualidad adelantada, no tendrá derecho al descuento por pago anticipado.
 
-IV.- Cincuenta por ciento de descuento a los usuarios de cuota fija mayores de 60 años de edad o discapacitados, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero y febrero, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2012)</small>
+
+IV.- Cincuenta por ciento de descuento a los usuarios de cuota fija mayores de 60 años de edad o discapacitados, dicho descuento se aplicará respecto de la casa que habiten, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero y febrero o pago puntual, para tal efecto, deberán de acreditar cualquiera de las dos hipótesis a que hace referencia esta fracción con documento idóneo para ello, dejando copia del mismo para los efectos que procedan.
 
 V.- En caso de servicio medido, se concede un doce por ciento de descuento a los usuarios que paguen el servicio de agua potable y alcantarillado de forma anual anticipada durante los meses de enero y febrero. De acuerdo a sus consumos históricos se realizará el cálculo para el registro del pago y, periódicamente se harán supervisiones para la evaluación del consumo, tomando en cuenta que si varía el registro se efectuarán los cargos correspondientes a la cuenta del usuario.
 
@@ -455,18 +459,8 @@ P.O. 9 DE MAYO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
-###### ARTICULO UNICO.
+P.O. 1 DE ABRIL DE 2012.
 
-El presente Decreto entrará en vigor el 1º de enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+###### ARTÍCULO ÚNICO.
 
-El Gobernador del Estado dispondrá se publique, circule y observe."
-
-Dado en el Recinto Oficial del Poder Legislativo a los veintiocho días del mes de diciembre del año dos mil cinco.
-
-C. Florencio Llamas Acosta, Diputado Presidente. Rúbrica. C. Beatriz de la Mora de la Mora, Diputada Secretaria. Rúbrica. C. Margarita Ramírez Sánchez, Diputada Secretaria. Rúbrica.
-
-Por lo tanto mando se imprima, publique, circule y observe.
-
-Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mil cinco.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
+El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
