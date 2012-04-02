@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2011-08-08"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -551,13 +551,11 @@ Dictada la sentencia definitiva que autorice la adopción el adoptante o los ado
 
 La falta del registro de adopción no sustrae a ésta sus efectos legales; pero se aplicará al responsable la multa señalada en el Artículo 73 de este Código.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 78.
 
-El registro de adopción contendrá: nombre, apellidos, fecha, lugar de nacimiento y domicilio del adoptado, y los mismos datos del o de los adoptantes, incluyendo su nacionalidad, el nombre y demás generales de la persona o personas cuyo consentimiento hubiere sido necesario para la adopción; los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y tribunal que la dictó.
-
-En el caso de adopción plena, se cancelará el registro de nacimiento, si lo hubiere, y se extenderá un nuevo registro de nacimiento, en los términos del Capítulo I de este Título.
+El registro de adopción contendrá: nombre, apellidos, fecha, lugar de nacimiento y domicilio del adoptado, y los mismos datos del o de los adoptantes, incluyendo su nacionalidad, el nombre y demás generales de la persona o personas cuyo consentimiento hubiere sido necesario para la adopción; los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y tribunal que la dictó. En todos los casos de adopción se cancelará el registro de nacimiento, si lo hubiere, y se extenderá un nuevo registro de nacimiento, en los términos del Capítulo I de este Título.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -1013,11 +1011,11 @@ Las autoridades judiciales que declaren la pérdida de la capacidad legal de alg
 
 El Oficial del Registro Civil realizará el registro que corresponda en el que se insertará la resolución judicial que se le haya comunicado, anotándose en el registro de nacimiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 127.
 
-Cuando se recupere la capacidad legal para administrar bienes, se revoque la adopción o la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda para que cancele el acta a que se refiere el artículo anterior y se teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
+Cuando se recupere la capacidad legal para administrar bienes, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda para que cancele el acta a que se refiere el Artículo anterior y se teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -2331,11 +2329,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre un cónyuge y los parientes consanguíneos del otro.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 317.
 
-El parentesco civil es el que nace de la adopción. En el caso de la adopción simple este parentesco civil sólo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción.
 
 ###### Artículo 318.
 
@@ -2921,7 +2919,9 @@ III.- Que goza de buena salud física y mental, siendo apto y adecuado para adop
 
 IV.- Que es de buenas costumbres; y
 
-V.- En el caso de la adopción plena, haber asistido al curso para padres adoptantes, impartido por el Sistema para el Desarrollo Integral de la Familia del Estado.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2012)</small>
+
+V.- Haber asistido al curso para padres adoptantes, impartido por el Sistema para el Desarrollo Integral de la Familia del Estado.
 
 Los mayores de edad que no sean incapaces podrán ser adoptados, siempre que se encuentren incorporados a un núcleo familiar formado por su progenitor y la persona que pretenda adoptar. En este caso únicamente se deberá acreditar el matrimonio civil, así como el consentimiento expreso de quien se pretende adoptar.
 
@@ -2977,23 +2977,19 @@ Si el menor que se va a adoptar tiene más de catorce años, también se necesit
 
 Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia del Estado no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapaz.
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2012)</small>
 
 #### SECCION I.
 
-DE LA ADOPCION SIMPLE.
-
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2000)</small>
-
 ###### Artículo 421-A.
 
-La adopción simple es aquella mediante la cual uno o más menores o uno o más discapacitados son adoptados por sus parientes consanguíneos. El menor o el discapacitado que hayan sido adoptados por parientes consanguíneos, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la discapacidad.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 422.
 
-Las adopciones se sujetarán al procedimiento de jurisdicción voluntaria, y las oposiciones aludidas en el Artículo 421 se tramitarán como incidentes dentro del expediente de jurisdicción voluntaria. Lo mismo se dispone para la revocación de las adopciones.
+Las adopciones se sujetarán al procedimiento de jurisdicción voluntaria, y las oposiciones aludidas en el Artículo 421 se tramitarán como incidentes dentro del expediente de jurisdicción voluntaria.
 
 ###### Artículo 423.
 
@@ -3003,67 +2999,41 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del domicilio de los interesados para que levante el acta correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
-
 ###### Artículo 425.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limita al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, respecto de los cuales se observará lo que dispone el Artículo 154 de este Código Civil.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 426.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción simple, excepto la patria potestad que será transferida al padre adoptivo.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 427.
 
 (DEROGADO, P.O. 6 DE MARZO DE 2000)
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
-
 ###### Artículo 428.
 
-La adopción simple puede revocarse:
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento conforme al Artículo 420 de este Código Civil;
-
-II.- Por ingratitud del adoptado; y
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
-
-III.- Cuando el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de la Defensa del Menor y la Familia justifique que existe causa grave que ponga en peligro al menor de edad o incapaz o bien cuando el adoptante o el adoptado hayan sido condenados por el delito de violencia familiar.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 429.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, o de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiere ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 430.
 
-En el primer caso del Artículo 428, el juez decretará que la adopción simple queda revocada si convencido de la espontaneidad con que se solicitó la revocación encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 431.
 
-El decreto del juez deja sin efecto la adopción simple y restituye las cosas al estado que guardaban antes de efectuarse ésta.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 432.
 
-En el segundo caso del Artículo 428, la adopción simple deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 433.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar donde se haya levantado el acta de adopción, para que la cancele.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -3093,19 +3063,13 @@ I.- Para efecto de impedimento para contraer matrimonio; y
 
 II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2000)</small>
+###### Artículo 433-C.
 
-###### ARTICULO 433-C.
-
-No pueden adoptar mediante la adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz, sino mediante adopción simple.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 433-D.
 
-La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere menor de edad, se requiere el consentimiento de quién hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el Juez deberá resolver atendiendo al interés superior del menor de edad o incapaz.
-
-La tramitación de adopción simple a plena se tramitará en vía incidental.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -3211,11 +3175,9 @@ Quien conserva la patria potestad tendrá la obligación de contribuir con el pa
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza por quien o quienes ejercen la patria potestad o por resolución judicial.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
-
 ###### Artículo 442.
 
-La patria potestad sobre el hijo adoptado bajo la forma de adopción simple, la ejercerán únicamente las personas que lo adopten.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### Artículo 443.
 
@@ -16608,3 +16570,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado en un plazo de tres meses, contados a partir de la vigencia del presente Decreto, emitirá el contenido de la "Carta Matrimonial" y sea ésta la que por mandato de Ley, se lea en las ceremonias de matrimonio civil en el Estado de Aguascalientes.
+
+P.O. 2 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
