@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-84822"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2011-12-24"
-last_updated: "2012-01-21"
+last_updated: "2012-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2012
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -445,13 +443,35 @@ Cuando una ley que establezca alguno de los ingresos previstos en este Artículo
 
 Los ingresos que perciba el Estado producto de procesos de descentralización federal o de asignaciones contempladas en la Ley de Ingresos y Presupuesto de Egresos de la Federación, serán registrados en las fracciones que les corresponda conforme al artículo 1 de esta Ley. El Ejecutivo del Estado informará trimestralmente al Congreso del Estado si éste es el caso y estarán incluidos en la Cuenta Pública del Estado respectiva.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
 ###### Artículo 3.
 
-Se faculta al Ejecutivo del Estado para que a través de la Secretaría de Finanzas, durante la vigencia de la presente ley, gestione y contrate empréstitos en moneda nacional, con la Federación, Entidades Federativas, Distrito Federal, sociedades y particulares nacionales hasta por la cantidad de $500,000,000.00 (Quinientos millones de pesos 00/100 M.N.), para destinarlas a inversiones públicas productivas o sufragar contingencias generadas por fenómenos naturales que afecten el territorio del Estado y en general a situaciones extraordinarias que por su naturaleza es imposible prever.
+Se faculta al Ejecutivo del Estado para que a través de la Secretaría de Finanzas, durante la vigencia de la presente ley, gestione y contrate empréstitos en moneda nacional, con la Federación, Entidades Federativas, Distrito Federal, sociedades y particulares nacionales hasta por la cantidad de $100,000,000.00 (Cien millones de pesos 00/100 M.N.), para destinarlas a inversiones públicas productivas o sufragar contingencias generadas por fenómenos naturales que afecten el territorio del Estado y en general a situaciones extraordinarias que por su naturaleza es imposible prever.
 
-Se autoriza al Ejecutivo Estatal para que, a través de la Secretaría de Finanzas, afecte como fuente de pago o en garantía de los financiamientos que celebre, el derecho y/o los ingresos a las participaciones que en ingresos federales le corresponden; facultándolo para que celebre todos los actos jurídicos necesarios o convenientes para la instrumentación de los financiamientos y la afectación de participaciones, incluyendo la contratación de operaciones de cobertura, observando lo dispuesto en la Ley de la materia. Adicionalmente, se le autoriza a celebrar los instrumentos jurídicos necesarios o convenientes para beneficiar al Estado con el Fondo de Apoyo para la Infraestructura y Seguridad, previsto en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012, hasta por la cantidad de $500,000,000.00 (Quinientos millones de pesos 00/100 M.N.).
+Se autoriza al Estado de Oaxaca, a través del Poder Ejecutivo, por conducto de la Secretaría de Finanzas, para que durante la vigencia de la presente ley gestione y contrate uno o varios créditos, a pagarse en un plazo de hasta 20 años, hasta por un importe total integrado de $900´000,000.00 (Novecientos millones de pesos 00/100 M.N.), cuyos recursos deberán destinarse para:
 
-El Ejecutivo del Estado dará cuenta de lo anterior al Congreso del Estado en la Cuenta Pública del Estado del ejercicio fiscal 2012.
+I. Solventar el costo de obras y acciones de reconstrucción de infraestructura estatal acordadas con el Ejecutivo Federal en virtud de daños ocasionados por fenómenos naturales ocurridos en 2011 o en años posteriores, hasta por un monto de $316´000,000.00 (Trescientos dieciséis millones de pesos 00/100 M.N.);
+
+II. Financiar hasta por un monto de $584´000,000.00 (Quinientos ochenta y cuatro millones de pesos 00/100 M.N.), en primer término; el costo de infraestructura para seguridad pública y justicia; en segundo término y en caso de existir disponibilidad de nuevas inversiones asociadas a proyectos en ejecución o nuevos proyectos cuyo objeto sea la ejecución de inversiones públicas productivas que recaigan en los campos de atención de Banobras, en materia de infraestructura en general, equipamiento y desarrollo económico;
+
+El o los créditos que contrate el Estado de Oaxaca, a través del Poder Ejecutivo, por conducto de la Secretaría de Finanzas, con base en la presente autorización, cuyos recursos se destinen a cubrir los conceptos previstos en las fracciones I y II antes referidas, deberán apegarse a:
+
+a) Para el caso de la fracción I al Fondo de Reconstrucción para Entidades Federativas constituido por el Gobierno Federal mediante contrato de Fideicomiso de fecha 25 de noviembre de 2010, ante el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución Fiduciaria, bajo el Número 2186, con la aportación prevista en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2011;
+
+b) Para el caso de la fracción II al Fondo de Apoyo para la Infraestructura y Seguridad constituido por el Gobierno Federal mediante contrato de Fideicomiso de fecha 2 de enero de 2012, ante el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución Fiduciaria, bajo el Número 2198, con la aportación prevista en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2012;
+
+c) Las reglas de operación de los fideicomisos señalados;
+
+d) Los términos y condiciones que se establezcan por el Banco Nacional de Obras y Servicios Públicos, S.N.C., para el otorgamiento del o los créditos, y
+
+e) A las disposiciones legales aplicables; en el entendido que como fuente primaria de pago de la suerte principal del o los créditos cuyos recursos se destinen a cubrir los conceptos previstos en las fracciones I y II antes referidas, el Estado de Oaxaca podrá emplear los recursos que deriven de los bonos cupón cero que se obtengan con los recursos que aporte el Gobierno Federal, debiendo registrar dichos ingresos correspondientes de conformidad con la normatividad aplicable.
+
+Los recursos del o los créditos que contrate el Estado de Oaxaca, a través del Poder Ejecutivo, por conducto de la Secretaría de Finanzas, con base en la presente autorización, que se destinen a cubrir los conceptos previstos en el presente artículo, deberán apegarse a la legislación aplicable, en el entendido que como garantía y/o fuente de pago el Estado de Oaxaca podrá afectar un porcentaje suficiente y necesario del derecho y los ingresos que le correspondan de las participaciones en ingresos federales, así como los recursos derivados de las aportaciones federales susceptibles de afectarse conforme a la legislación aplicable, incluidos aquellos derechos e ingresos que sustituyan y/o complementen total o parcialmente a los antes mencionados.
+
+Asimismo, se autoriza al Estado de Oaxaca, a través del Poder Ejecutivo, por conducto de la Secretaría de Finanzas, para que celebre o modifique cualquier instrumento legal que resulte necesario o conveniente para formalizar el mecanismo para realizar las afectaciones a que se refiere el párrafo precedente, en los términos, bajo las condiciones y con las particularidades señaladas, con el propósito de que cumpla con las obligaciones que deriven del o los créditos que contrate con base en la presente autorización, pudiendo emitir nuevas instrucciones irrevocables a la Secretaría de Hacienda y Crédito Público, en el entendido que la desafectación de las participaciones únicamente procederá cuando se hubieran cubierto todas las obligaciones a favor de la institución acreedora y se cuente con autorización expresa de sus representantes legales.
+
+El Ejecutivo del Estado dará cuenta de lo anterior al Congreso del Estado en términos de lo dispuesto en el artículo 81 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y en la Cuenta Pública del Estado del ejercicio fiscal 2012.
 
 ###### Artículo 4.
 
@@ -620,3 +640,11 @@ C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 Al C.
 
 N O T A: Las presentes firmas corresponden al Decreto No. 715, aprobado por la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, mediante el cual se aprueba la Ley de Ingresos del Estado de Oaxaca, para, el Ejercicio Fiscal 2012.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE ABRIL DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, deberá prever anualmente en su presupuesto de egresos de cada ejercicio fiscal, en tanto existan obligaciones pendientes de pago a su cargo derivadas del o los créditos que contrate con base en la presente autorización, el monto para el servicio de la deuda del o los créditos que contrate con base en la presente autorización, hasta su total liquidación.
