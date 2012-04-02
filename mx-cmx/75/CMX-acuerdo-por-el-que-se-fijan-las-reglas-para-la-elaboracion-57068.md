@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-por-el-que-se-fijan-las-reglas-para-la-elaboracion-5706
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-23"
-last_updated: "2008-08-15"
+last_updated: "2012-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57068&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2006-03-30"
 ---
 # ACUERDO POR EL QUE SE FIJAN LAS REGLAS PARA LA ELABORACION, APROBACION, REGISTRO, PUBLICACION Y DIFUSION DE LAS TESIS DE JURISPRUDENCIA Y RELEVANTES QUE EMITA EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ACUERDO POR EL QUE SE FIJAN LAS REGLAS PARA LA ELABORACION, APROBACION, REGISTRO, PUBLICACION Y DIFUSION DE LAS TESIS DE JURISPRUDENCIA Y RELEVANTES QUE EMITA EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
+ACUERDO POR EL QUE SE FIJAN LAS REGLAS PARA LA ELABORACIÓN, APROBACIÓN, REGISTRO, PUBLICACIÓN Y DIFUSIÓN DE LAS TESIS DE JURISPRUDENCIA Y RELEVANTES QUE EMITA EL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE AGOSTO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LAS REGLAS PARA LA EMISIÓN, PUBLICACIÓN Y DIFUSIÓN DE LAS TESIS DE JURISPRUDENCIA Y RELEVANTES DEL PLENO DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL, PUBLICADAS EN LA G.O. DE 2 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el viernes 23 de junio de 2006.
 
@@ -385,3 +387,11 @@ PRIMERO. Este Acuerdo entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se modifica el Acuerdo Plenario número 068/2007, publicado en la Gaceta Oficial del Distrito Federal el dos de octubre de dos mil siete, en los términos establecidos.
 
 TERCERO. Se ordena publicar el contenido de este Acuerdo en los estrados y en la página de Internet del Tribunal Electoral del Distrito Federal.
+
+G.O. 2 DE ABRIL DE 2012.
+
+PRIMERO. Las presentes reglas, entrarán en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Se abrogan las Reglas para la Elaboración, Aprobación, Registro, Publicación y Difusión de las Tesis de Jurisprudencia y Relevantes que emita el Pleno del Tribunal Electoral del Distrito Federal, aprobadas por el Pleno de este órgano jurisdiccional mediante acuerdo plenario 032/2008 de 17 de junio de 2008 y publicadas en la Gaceta Oficial del Distrito Federal el 15 de agosto de 20058.
+
+TERCERO. Publíquense estas reglas en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
