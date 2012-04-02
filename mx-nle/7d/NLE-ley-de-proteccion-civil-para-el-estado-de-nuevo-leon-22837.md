@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2011-01-19"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE NUEVO LEON
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE NUEVO LEÓN
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -451,7 +451,7 @@ r) Otros establecimientos que por sus características y magnitud sean similares
 
 XX. Determinar la existencia de riesgos en los establecimientos, así como dictar las medidas para evitarlos o extinguirlos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -470,6 +470,10 @@ XXIV. Las demás que le confiera el Ejecutivo del Estado, Secretario General de 
 La Dirección de Protección Civil, promoverá que los establecimientos a que se refiere esta Ley, instalen sus propias unidades internas de respuesta, asesorándolos y coordinando sus acciones directamente o a través de las unidades municipales.
 
 Los establecimientos deberán realizar, asistidos por la Dirección de Protección Civil o de la unidad municipal, según corresponda, cuando menos dos veces al año, simulacros para hacer frente a altos riesgos, emergencias o desastres.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Artículo 27 BIS.- En el caso de establecimientos como casinos, centros de apuestas, salas de sorteos, casas de juego y similares, deberán contar con sus propias unidades internas de respuesta. Asimismo, en dichos establecimientos se deberán realizar, con la asistencia de personal de la Dirección de Protección Civil y de la autoridad municipal, simulacros de evacuación para hacer frente a altos riesgos, emergencias o desastres.
 
 ###### Artículo 28.
 
@@ -565,7 +569,7 @@ VI. Diseñar y llevar a cabo campañas masivas de divulgación en materia de pro
 
 VII. Elaborar el respectivo Mapa Municipal de Riesgos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA A LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -935,9 +939,15 @@ II. Impedir u obstaculizar al personal autorizado al realizar inspecciones o act
 
 III. No dar cumplimiento a los requerimientos de la autoridad competente;
 
-IV. No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de esta Ley; y
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2012)</small>
 
-V. En general, cualquier acto u omisión que contravenga las disposiciones de la presente Ley.
+IV.No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de esta Ley;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2012)</small>
+
+V. No dar cumplimiento con lo dispuesto en el artículo 27 BIS de esta Ley, que establece como obligación de los casinos, centros de apuestas, salas de sorteos, casas de juego y similares, contar con sus propias unidades internas de respuesta, así como realizar los simulacros de evacuación; y
+
+VI. En general, cualquier acto u omisión que contravenga las disposiciones de la presente Ley.
 
 ###### Artículo 87.
 
@@ -1069,10 +1079,14 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JUAN FRANCISCO RIVERA BEDOYA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ENERO DE 2011.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Las disposiciones contenidas en el Artículo Segundo del presente Decreto se aplicarán a partir de los sesenta días siguientes a la fecha en que se publique Atlas de Riesgo respectivo en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 2 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
