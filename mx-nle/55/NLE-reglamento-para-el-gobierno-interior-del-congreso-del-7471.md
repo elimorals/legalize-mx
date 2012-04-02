@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2011-09-28"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
+REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -81,7 +81,7 @@ e) Clausura de la Primer Junta Preparatoria.
 
 Las dos Comisiones Revisoras estarán integradas por tres miembros, un Presidente y dos vocales, la primera se encargará de revisar las credenciales del resto de los presuntos Diputados y la segunda revisará las credenciales de los integrantes de la Primera Comisión Revisora.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 7o.
 
@@ -109,7 +109,7 @@ Otorgada la protesta a que se refiere el artículo anterior, por votación secre
 
 El día 1º de septiembre a las once horas se reunirán los diputados en el Recinto Oficial en Sesión Solemne para instalar la Legislatura y declarar la apertura del Primer Período Ordinario de Sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
@@ -125,19 +125,33 @@ Esta declaración será materia de un Decreto que sin más trámite se expedirá
 
 Los Diputados asistirán a las reuniones de las Comisiones, de los Comités y a las sesiones del Pleno con puntualidad y permanecerán en ellas hasta su conclusión y guardarán el decoro propio de los representantes de un Estado Libre y Soberano.
 
-Cuando un Diputado no asista a las sesiones del Pleno del Congreso, le será descontada de su dieta el equivalente a su percepción diaria bruta.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-En los casos en que el Diputado asista con retraso por más de treinta minutos o se ausente de las sesiones de las Comisiones o Comités, le será dejado de otorgar de su percepción diaria bruta la parte proporcional que corresponda al retraso, o ausencia o en su caso, el tiempo que falte para la terminación de la sesión respectiva. Esta misma disposición se aplicará en los casos de las sesiones del Pleno del Congreso, o de la diputación permanente.
+Cuando un Diputado no asista a las sesiones del Pleno del Congreso, le será descontada de su dieta el equivalente a su percepción diaria bruta, y en el caso de inasistencia a las Comisiones y Comités se les descontará la mitad de su dieta equivalente a su percepción diaria, con excepción de los casos a que se refiere el Artículo 14 del presente Reglamento.
 
-Las faltas de un Diputado a las sesiones de las Comisiones o Comités, contarán como faltas a las sesiones del Pleno del Congreso, con excepción de los casos a que se refiere el artículo 14 del presente Reglamento.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-Los Presidentes de las Comisiones o Comités, comunicarán a la Tesorería del Congreso, los casos a que se refiere el párrafo anterior.
+En los casos en que el Diputado asista con retraso por más de treinta minutos o se ausente de las sesiones de las Comisiones o Comités, le será dejado de otorgar de su percepción diaria bruta la parte proporcional que corresponda al retraso, o ausencia o en su caso, el tiempo que falte para la terminación de la sesión respectiva. Esta misma disposición se aplicará en los casos de las sesiones del Pleno del Congreso, o de la Diputación Permanente. Para los efectos de las ausencias en el Pleno, se tomará como base la última votación de dictamen, con el equipo electrónico, en caso de que no se disponga de equipo electrónico, se atenderá lo dispuesto en el Artículo 136 fracción II de este Reglamento.
 
-En los casos de inasistencias, retrasos o ausencias de los Diputados a las sesiones del Pleno del Congreso o de la diputación permanente, el Presidente del Congreso, hará del conocimiento de estos hechos a la Tesorería del Congreso para los descuentos correspondientes a las dietas.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-Cuando las necesidades de trabajo así lo requieran, y se convoquen dos o más reuniones de Comisiones o Comités, el mismo día y al (sic) misma hora, y coincida que algún Diputado forme parte de las mismas, y esto imposibilite la asistencia en alguna de ellas, no será sancionado en los términos de este artículo.
+Los Presidentes de las Comisiones o Comités, comunicarán, a la Tesorería del Congreso, al día siguiente de la Sesión, los casos a que refiere el párrafo segundo de este Artículo.
 
-Sólo podrá descontarse o dejar de otorgarse como máximo por las faltas de asistencia, ausencias o retrasos de un día, el equivalente de su percepción diaria por concepto de dieta.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+En los casos de inasistencias, retrasos o ausencias de los Diputados a las sesiones del Pleno del Congreso o de la diputación permanente, el Presidente del Congreso, hará del conocimiento de estos hechos a la Tesorería del Congreso al día siguiente de la Sesión, para los efectos del segundo párrafo de este Artículo.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Cuando las necesidades de trabajo así lo requieran, y se convoquen dos o más reuniones de Comisiones o Comités, el mismo día y a la misma hora, y coincida que algún Diputado forme parte de las mismas, y esto imposibilite la asistencia en alguna de ellas, no será sancionado en los términos de este Artículo.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Solo podrá descontarse o dejar de otorgarse como máximo por las faltas de asistencia, ausencias o retrasos de un día, el equivalente de su percepción diaria por concepto de dieta.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Con los descuentos a que se refiere el presente Artículo, se constituirá un fondo que se aplicará conforme a los lineamientos que apruebe para tal efecto la Comisión de Coordinación y Régimen Interno.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -145,11 +159,13 @@ Sólo podrá descontarse o dejar de otorgarse como máximo por las faltas de asi
 
 Cuando un Diputado no pudiere asistir, asista con retraso o no continúe en una sesión del Pleno, o en una reunión de Comisión o Comité, deberá comunicarlo al Presidente.
 
-Si la ausencia fuera por más de tres sesiones consecutivas deberá comunicarlo al Pleno del Congreso mediante oficio, señalando los días de ausencia así como las causas de su inasistencia.
+> <small>N. DE E. CONFORME AL DECRETO NÚMERO 316, PUBLICADO EN EL P.O. DE FECHA 2 DE ABRIL DE 2012 EN LAS PÁGINAS 8 Y 9, NO SE HACE REFERENCIA A LOS PÁRRAFOS SEGUNDO Y CUARTO ANTES DE LA PRESENTE REFORMA.</small>
 
-Para los efectos de este artículo, se considerará que existe justificación, para faltar a las sesiones del Pleno del Congreso, de la Diputación Permanente, o a las reuniones de las Comisiones o Comités, en los siguientes casos:
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-I.- Por Comisión conferida por los siguientes órganos:
+Para los efectos de este Artículo, se considerará que existe justificación, para no asistir, asistir con retraso o no continuar en las Sesiones del Pleno del Congreso, de la Diputación Permanente, o a las reuniones de las Comisiones o Comités, en los siguientes casos:
+
+I. Por Comisión conferida, por escrito, por los siguientes órganos:
 
 a) Presidencia de la Directiva del Congreso;
 
@@ -159,17 +175,27 @@ c) Acuerdo de la Comisión de Coordinación y Régimen Interno; y
 
 d) Acuerdo de una Comisión o Comité.
 
-II.- Por enfermedad, justificada mediante la constancia médica respectiva;
+Para los efectos de ésta fracción los Presidentes, de los órganos mencionados, o quienes hayan fungido en el cargo conforme lo establecido en la Ley Orgánica del Poder Legislativo y este Reglamento, deberán notificarlo por escrito al Tesorero del Congreso.
 
-III.- Por el fallecimiento de algún miembro de la familia, hasta en cuarto grado; y
+II. Por enfermedad, justificada mediante la constancia médica respectiva;
 
-IV.- Así como por causas graves o fortuitas que impidan su asistencia.
+III. Por gestación y maternidad; y
 
-Las causales serán invocadas en el oficio dirigido al Presidente del Congreso de las Comisiones o Comités, según corresponda.
+IV. Por el fallecimiento de algún miembro de la familia, hasta en cuarto grado.
 
-Los retrasos por más de treinta minutos o el retiro de las sesiones, se podrán justificar por causas graves o fortuitas.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-Los Diputados dispondrán de cinco días hábiles, a partir del día siguiente en que se produzca la falta, retraso o retiro de las sesiones, para remitir la justificante al Presidente del Congreso de las Comisiones o Comités, según sea el caso.
+Por ningún motivo se podrán justificar las inasistencias, retrasos o ausencia cuando se trate de asuntos de carácter personal que no estén expresamente autorizados por la Presidencia del Congreso, de las Comisiones o Comités, según corresponda, y en ninguna circunstancia será justificable bajo este concepto la asistencia a eventos partidistas, proselitistas o con fines electorales.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Los retrasos por más de treinta minutos o el retiro de las sesiones, se podrán justificar por causas graves o fortuitas, debidamente acreditadas.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Los Diputados dispondrán de cinco días hábiles, a partir del día siguiente en que se produzca la falta, retraso o retiro de las sesiones, para remitir el justificante correspondiente al Tesorero del Congreso, quien lo evaluará, a fin de determinar si está en los supuestos justificables de este Artículo y solicitará la aprobación de la justificación del Presidente del Pleno, Comisión o Comité, según corresponda.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 Asimismo, para el caso de las sesiones de Comisiones o Comités, también podrán justificarse la ausencia por actividades de gestoría y compromisos adquiridos con representados y justificados de inmediato.
 
@@ -269,7 +295,7 @@ En el debate de las reclamaciones participarán solo dos Diputados en pro y dos 
 
 Cuando el Presidente haga uso de la palabra durante las sesiones en el desempeño de la funciones que este Reglamento le señala, permanecerá sentado; pero si desea intervenir directamente en la discusión de un asunto, lo hará de pié como cualquier otro Diputado, separándose entre tanto de la Presidencia y siendo sustituído por el Diputado que lo deba hacer en sus faltas, según el Artículo 21 de este Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ###### Artículo 24.
 
@@ -383,7 +409,7 @@ e) Asentar en las actas de las sesiones lo siguiente:
 
 4. Exposición clara y ordenada de todo lo que se haya tratado y resuelto en la sesión, asentando la votación obtenida en cada determinación con expresión de los votos a favor, en contra y en abstención, evitando cualquiera calificación sobre lo expuesto, ya sea por los Diputados, o los servidores públicos que con arreglo al Artículo 62 de la Constitución, pueden ser oídos en las sesiones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO IV. DE LA COMISION DE COORDINACION Y REGIMEN INTERNO
 
@@ -445,7 +471,7 @@ Las Comisiones serán las señaladas en el artículo 66 de la Ley Orgánica del 
 
 Las Comisiones Permanentes de Dictamen Legislativo y la de Vigilancia del Órgano de Fiscalización Superior se designarán en la quinta sesión que lleve a efecto la Legislatura dentro del Primer Período de su Primer Año de Ejercicio y serán revisadas cada año, pudiendo los miembros de dichas comisiones ser reelectos, bien sea en lo personal o en su conjunto, exceptuando lo establecido en el segundo párrafo del artículo 67 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 39.
 
@@ -637,7 +663,7 @@ h) Organizar y llevar a cabo anualmente el Parlamento Infantil del Estado de Nue
 
 i) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 VII.- Comisión de Medio Ambiente:
 
@@ -783,7 +809,7 @@ h) Organizar y llevar a cabo anualmente el Parlamento de Jóvenes del Estado de 
 
 i) Los demás asuntos e iniciativas que el Congreso le encomiende.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2006)</small>
 
 XIV. Comisión de Salud y Atención a Grupos Vulnerables:
 
@@ -925,7 +951,7 @@ Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgá
 
 Las Comisiones Especiales serán designadas por la Asamblea conforme lo establece el Artículo 74 de la Ley Orgánica del Poder Legislativo, y se integrarán por un Presidente, un Vice-Presidente, un Secretario y seis Vocales, y se encargarán exclusivamente de atender el asunto para el cual fueron nombradas.
 
-> <small>N. DE E. SE TRANSCRIBE POR SU IMPORTANCIA EL ARTICULO UNICO DEL DECRETO No. 36, PUBLICADO EN EL P.O. 31 DE ENERO DE 2001:</small>
+> <small>N. DE E. SE TRANSCRIBE POR SU IMPORTANCIA EL ARTÍCULO ÚNICO DEL DECRETO No. 36, PUBLICADO EN EL P.O. 31 DE ENERO DE 2001:</small>
 
 EL TERMINO "INTERES" A QUE SE REFIERE EL PRESENTE, COMO CAUSA PARA QUE UN DIPUTADO SE EXCUSE DE INTERVENIR EN LOS ASUNTOS COMPETENCIA DE LAS COMISIONES Y DEL PLENO, DEBE ENTENDERSE SOLO EN LOS CASOS EN QUE REPRESENTE O PUEDA REPRESENTAR UN BENEFICIO PERSONAL, INDIVIDUAL O DIRECTO, PARA SI MISMO O PARA ALGUN GRUPO DE PERSONAS CONSIDERADAS INDIVIDUALMENTE.
 
@@ -971,7 +997,7 @@ Cuando una Comisión considere que un asunto que le ha sido turnado no es de su 
 
 Para que el dictamen de cualquiera de las Comisiones pueda ser sometido a la Asamblea deberá presentarse suscrito por la mayoría de los Diputados que integren la comisión correspondiente y ser entregado con una anticipación de veinticuatro horas a los Diputados, salvo los casos en que el asunto haya sido recibido con el carácter de urgente, por acuerdo del Pleno, a solicitud del orador o de algún otro Diputado, o por un Acuerdo Legislativo. Si algún Diputado disintiera del criterio sustentado, podrá formular su voto particular, que dará a conocer por su lectura íntegra en la misma sesión, inmediatamente después de que sea leído el dictamen de que se trate.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1003,7 +1029,7 @@ c) Solicitar a los titulares de los Órganos de Soporte Técnico y de Apoyo del 
 
 Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso, las Comisiones sesionarán a convocatoria de su Presidente, quien informará de ello a la Oficialía Mayor para la programación y apoyo de las sesiones. Los Presidentes de las Comisiones deberán convocar a sesión cuando así lo soliciten al menos, la mitad más uno de sus integrantes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1091,11 +1117,11 @@ El Presidente del órgano de trabajo correspondiente, durante el desarrollo de l
 
 (DEROGADO, P.O. 16 DE AGOSTO DE 2000)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ## TITULO CUARTO. DE LOS ORGANOS DE SOPORTE TECNICO Y DE APOYO DEL CONGRESO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO I. DE SU FINALIDAD Y FUNCIONES COMUNES
 
@@ -1137,7 +1163,7 @@ I.- Asistir, a través de su titular, a las sesiones del Pleno del Congreso, as�
 
 II.- Atender los encargos que le solicite el Presidente de la Directiva para el ejercicio de las atribuciones de ésta y de su Presidente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1191,7 +1217,7 @@ XXVI.- Vigilar la conservación física del Recinto Oficial del Congreso.
 
 El Calendario de Actividades del Congreso señalará las fechas en que la legislación establece la obligación para que los Órganos del Congreso realicen alguna actividad específica importante de carácter legislativo, solemne, administrativo o laboral. Dicho Calendario se presentará para su aprobación a la Comisión de Coordinación y Régimen Interno en la sesión ordinaria del mes de enero de cada año.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO III. DE LA TESORERIA
 
@@ -1225,7 +1251,7 @@ XI.- Salvaguardar y llevar un registro de los bienes asignados al Poder Legislat
 
 XII.- Organizar y coordinar la realización de cursos de capacitación para el personal del Congreso, los cuales se llevarán a cabo sin afectar las actividades de los Órganos Legislativos.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO IV. DEL CENTRO DE ESTUDIOS LEGISLATIVOS
 
@@ -1261,7 +1287,7 @@ IX.- Colaborar con la Oficialía Mayor el diseño, organización e implementaci�
 
 X.- Coordinar la elaboración de proyectos de dictámenes que le soliciten las Comisiones, en el sentido que se haya acordado con el Presidente de la misma. Para la elaboración de los proyectos de dictamen contará con el número de Secretarios Técnicos que resulte necesario para desahogar los asuntos turnados a las mismas; cada Secretario Técnico auxiliará el número de Comisiones o Comités, considerando la cantidad de asuntos turnados a éstas.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO V. DE LA DIRECCION DE COMUNICACION SOCIAL
 
@@ -1295,7 +1321,7 @@ VI.- Apoyar el desarrollo de las sesiones del Pleno del Congreso con la grabaci�
 
 VII.- Apoyar a los Órganos Legislativos en lo relativo a las relaciones públicas del Poder Legislativo.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
 
@@ -1309,7 +1335,7 @@ I.- Coordinar el uso de los recursos de informática y computación en las activ
 
 II.- Utilizar los recursos informáticos del Congreso para el desarrollo de los trabajos legislativos, técnicos y administrativos, mediante la consulta de bases de datos y el acceso a sistemas de información interna y externa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1335,7 +1361,7 @@ XI.- Asesorar a las autoridades competentes del Congreso del Estado en lo relati
 
 XII.- Proponer al área correspondiente, contenidos temáticos de informática para que sean incluidos en los cursos de capacitación del personal del Congreso.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 16 DE AGOSTO DE 2000)</small>
 
 ### CAPITULO VII. DE LA COORDINACION DE SEGURIDAD
 
@@ -1597,7 +1623,7 @@ Para la Apertura o Clausura de los Períodos Ordinarios el Presidente instalará
 
 ### CAPITULO III. DE LAS DELIBERACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2006)</small>
 
 ###### Artículo 102.
 
@@ -1607,7 +1633,7 @@ La iniciativa de Ley, en los términos de los Artículos 68 y 69 de la Constituc
 
 Las iniciativas a que se refiere el artículo anterior, deberán presentarse por escrito y firmadas, incluyendo una parte con la exposición de los motivos que la fundamenten y concluirán sugiriendo la forma en que se solicite sean aprobadas por el Congreso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1623,7 +1649,7 @@ El Congreso recibirá para su resolución las propuestas o denuncias de la Ciuda
 
 De no cumplir con los requisitos antes señalados será desechada de plano y será archivada por la Oficialía Mayor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1641,7 +1667,7 @@ Ninguna Ley ni Reglamento podrá tener reformas sin previa iniciativa turnada a 
 
 Una vez que se haya dado cuenta con alguna iniciativa, si es procedente se turnará a la Comisión que corresponda, para que con arreglo a los Artículos 47 y 48 de este Reglamento, la estudie y formule el dictamen respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1667,7 +1693,7 @@ La Asamblea podrá acordar aplazar su discusión y aprobación fijando una fecha
 
 Todo dictamen relativo a una iniciativa de Ley, se conocerá y discutirá en lo general, en la inteligencia de que si no fuere aprobada en tal sentido, se tendrá por desechada. De aprobarse en lo general, en esa misma sesión, se discutirá la iniciativa de Ley en lo particular, separando los artículos que lo ameriten y solamente éstos se someterán a votación de la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2006)</small>
 
 ###### Artículo 112 Bis.
 
@@ -1939,7 +1965,7 @@ Los Acuerdos Legislativos deberán elaborarse por escrito y estar firmados por l
 
 Cuando se concerte un Acuerdo Legislativo unánimemente para presentar un Proyecto de Ley o propuesta al Pleno, los Diputados integrantes de la comisión a que sea turnado el asunto, podrán elaborar el dictamen conforme lo señala el Artículo 45 de este Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO VI. DEL CEREMONIAL
 
@@ -2105,7 +2131,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE MARZO DE 1993.
 
@@ -2381,13 +2407,13 @@ Los expedientes de las materias que se mencionan en los dos párrafos anteriores
 
 P.O. 31 DE DICIEMBRE DE 2008.
 
-DECRETO No. 306, POR EL QUE SE REFORMA LA FRACCION I, INCIDO D) DEL ARTICULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON.
+DECRETO No. 306, POR EL QUE SE REFORMA LA FRACCIÓN I, INCISO D) DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE DICIEMBRE DE 2008.
 
-DECRETO No. 336, POR EL QUE SE REFORMA LA FRACCION VI DEL ARTICULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON.
+DECRETO No. 336, POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 39 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2428,5 +2454,9 @@ P.O. 5 DE AGOSTO DE 2011.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 28 DE SEPTIEMBRE DE 2011.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
