@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-apertura-y-funcionamiento-de-molinos-de-5122
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-05"
-last_updated: "2006-07-05"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERIAS PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEON
 
-REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERIAS PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEON.
+REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERÍAS PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de julio de 2006.
 
@@ -97,7 +97,7 @@ III.- Reformar, adicionar y derogar las disposiciones contenidas en este Reglame
 
 IV.- Otorgar el cambio de domicilio, traspaso y el refrendo del permiso o negarlo cuando no se cumpla con lo establecido en este Reglamento.
 
-V.- Otorgar permisos preferentemente a los habitantes que residan en la ciudad de Montemorelos, Nuevo León.
+V.- (DEROGADA, P.O. 2 DE ABRIL DE 2012)
 
 VI.- Todas aquellas que le confieran las leyes y reglamentos aplicables a las actividades aquí reguladas.
 
@@ -161,7 +161,7 @@ Los permisos que otorgue el R. Ayuntamiento podrán ser objeto de traspaso cuand
 
 ###### Artículo 15.
 
-El R. Ayuntamiento determinará el número de permisos que correspondan al ejercicio de estas actividades y estará sujeta a las áreas que la propia autoridad determine, salvaguardando aquellos lugares que afecten el interés público, la vialidad o la imagen urbana.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ### CAPÍTULO III. DE LA COMISIÓN TÉCNICA CONSULTIVA
 
@@ -245,7 +245,7 @@ XI.- Plano de ubicación del inmueble.
 
 XII.- Se tomará en cuenta la densidad geográfica y demográfica que existe en la zona que se pretende establecer el giro.
 
-XIII.- Para la instalación de un establecimiento de nueva creación, tendrá que contar con una distancia de trescientos metros lineales, de otro negocio similar, de acuerdo al giro que se pretenda establecer.
+XIII.- (DEROGADA, P.O. 2 DE ABRIL DE 2012)
 
 XIV.- El horario para llevar a cabo cualquier giro será de 6:00 a las 18:00 horas.
 
@@ -520,3 +520,21 @@ SÍNDICO PRIMERO
 PROFR. JOEL TÉLLEZ GUZMÁN
 
 SÍNDICO SEGUNDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ABRIL DE 2012.
+
+## [N. DE E. TRANSITORIOS DE “LAS REFORMAS AL REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERÍAS PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes REFORMAS AL REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS DE NIXTAMAL Y TORTILLERÍAS PARA EL MUNICIPIO DE MONTEMORELOS, NUEVO LEÓN, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Envíese para su publicación en el Periódico Oficial del Estado y hágase posteriormente su difusión a través del portal de internet del Municipio www.montemorelos.gob.mx
+
+###### ARTÍCULO TERCERO.
+
+Gírense las instrucciones al Secretario del R. Ayuntamiento para el exacto cumplimiento de los presentes acuerdos.
