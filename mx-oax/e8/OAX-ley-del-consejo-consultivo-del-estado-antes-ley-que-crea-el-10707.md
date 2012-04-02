@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-consejo-consultivo-del-estado-antes-ley-que-crea-el-107
 country: "mx"
 rank: "ley"
 publication_date: "1950-12-30"
-last_updated: "1950-12-30"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DEL CONSEJO CONSULTIVO DEL ESTADO -ANTES LEY QUE CREA EL CONSEJO CONSULTIVO DEL ESTADO DE OAXACA-
 
-LEY QUE CREA EL CONSEJO CONSULTIVO DEL ESTADO DE OAXACA
+LEY DEL CONSEJO CONSULTIVO DEL ESTADODE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el Sábado 30 de Diciembre de 1950.
 
@@ -37,53 +37,55 @@ La XLI Legislatura Constitucional del Estado Libre y Soberano de Oaxaca,
 
 D E C R E T A :
 
-LEY QUE CREA EL CONSEJO CONSULTIVO DEL ESTADO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2012)</small>
+
+LEY DEL CONSEJO CONSULTIVO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1o.
 
-En la Ciudad de Oaxaca, Oax., funcionará un Consejo Consultivo del Estado, integrado con los representantes de los siguientes organismos:
+En la capital del Estado, funcionará un Consejo Consultivo del Estado de Oaxaca, compuesto por:
 
-I.- Uno, de las Cámaras de Comercio.
+A. Doce Consejeros permanentes representantes de los siguientes organismos:
 
-II.- Uno, de las Asociaciones o Agrupaciones de Comerciantes en pequeño.
+I. Uno, de las Cámaras de Comercio.
 
-III.- Uno, de los industriales en pequeño o artesanos.
+II. Uno, de las Asociaciones o Agrupaciones de Comerciantes en pequeño.
 
-IV.- Uno, de las Agrupaciones o Asociaciones de propietarios de bienes raíces.
+III. Uno, de los industriales en pequeño o artesanos.
 
-V.- Uno, de las Agrupaciones de Inquilinos.
+IV. Uno, de las Agrupaciones o Asociaciones de propietarios de bienes raíces.
 
-VI.- Uno, de los Campesinos.
+V. Uno, de las Agrupaciones de Inquilinos.
 
-VII.- Uno, de los pequeños agricultores.
+VI. Uno, de los Campesinos.
 
-VIII.- Uno, de las Empresas de autotransportes.
+VII. Uno, de los pequeños agricultores.
 
-IX.- Uno, de las Agrupaciones o Asociaciones de profesionistas.
+VIII. Uno, de las Empresas de autotransportes.
 
-X.- Uno, del Banco Nacional de Crédito Agrícola y Ganadero, S. A.
+IX. Uno, de las Agrupaciones o Asociaciones de profesionistas.
 
-XI.- Uno, del Banco Nacional de Crédito Ejidal, S. A.
+X. Uno, de los empleados públicos sindicalizados, del Estado.
 
-XII.- Uno, de la Secretaría de Agricultura y Ganadería.
+XI. Uno, de los Sindicatos de Trabajadores, no enumerados anteriormente, y
 
-XIII.- Uno, de la Secretaría de la Economía Nacional.
+XII. Uno, de las Agrupaciones de Mujeres Trabajadoras.
 
-XIV.- Uno, de la Secretaría de Comunicaciones y Obras Públicas.
+B. Hasta seis Consejeros habilitados para asistir a la sesión o sesiones que se les convoque por solicitud del Gobernador, integrado de la siguiente manera:
 
-XV.- Uno, de la Secretaría de Hacienda y Crédito Público.
+I. Hasta dos profesionales o académicos de reconocida trayectoria sobre la materia de consulta.
 
-XVI.- Uno, de la Secretaría de Salubridad y Asistencia.
+II. Hasta dos Consejeros nombrados por titulares de dependencias, organismos desconcentrados u Órganos Autónomos de otras entidades federativas.
 
-XVII.- Uno, de los empleados públicos, del Estado.
+III. Hasta dos Consejeros nombrados por titulares de dependencias, organismos desconcentrados u Órganos Autónomos del orden Federal.
 
-XVIII.- Uno, de los Sindicatos de Trabajadores, no enumerados anteriormente, y
-
-XIX.- Uno, de las Agrupaciones de Mujeres Trabajadoras.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 2o.
 
-Los representantes a que se refiere el artículo anterior, serán designados por los respectivos organismos, asociaciones o agrupaciones, dentro de un plazo no mayor de treinta días, a partir de la fecha en que entre en vigor la presente Ley.
+Los representantes a que se refiere el artículo anterior, serán designados por los respectivos organismos, dependencias, asociaciones o agrupaciones, dentro de un plazo no mayor de treinta días, a partir de la fecha en que se realice la convocatoria por el Ejecutivo del Estado.
 
 ###### Artículo 3o.
 
@@ -97,13 +99,17 @@ Cuando haya varias asociaciones, agrupaciones o sindicatos en el Estado de la mi
 
 El Consejo Consultivo del Estado podrá funcionar con la totalidad de sus miembros o con sólo parte de ellos, según la naturaleza de los asuntos respecto de los que debe opinar, mediante la decisión del C. Gobernador.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
 ###### Artículo 6o.
 
-Para ser miembro del Consejo Consultivo del Estado se requiere: ser mayor de edad y de reconocida honorabilidad.
+Para ser miembro del Consejo Consultivo del Estado se requiere: ser mayor de edad, de reconocida honorabilidad y que habiéndose desempeñado siempre con probidad laboral, hayan destacado profesionalmente o cuenten con una reconocida experiencia académica en la materia objeto de consulta o actividades similares relacionadas con la misma.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### Artículo 7o.
 
-Los Consejeros durarán en su cargo un año y podrán ser removidos de sus puestos cuando la mayoría de las organizaciones constitutivas del Consejo así lo determinen, o cuando expresamente les sea retirada la representación por los organismos que los eligieron.
+Los Consejeros permanentes durarán en su cargo un año y podrán ser removidos de sus puestos cuando la mayoría simple de las organizaciones constitutivas del Consejo así lo determinen, cuando expresamente les sea retirada la representación por los organismos que los eligieron o por renuncia voluntaria del Consejero de que se trate.
 
 ###### Artículo 8o.
 
@@ -111,7 +117,7 @@ Son atribuciones de los Consejeros del Consejo Consultivo del Estado.
 
 I.- Dar a conocer al Gobierno del Estado sus opiniones en los asuntos que se les solicite por el propio Ejecutivo.
 
-II.- Proponer al C. Gobernador del Estado las reformas a los ordenamientos legales y la adoptación de las medidas que estimen convenientes para la marcha de la Administración.
+II.- Proponer al C. Gobernador del Estado las reformas a los ordenamientos legales y la adoptación (sic) de las medidas que estimen convenientes para la marcha de la Administración.
 
 III.- Proporcionar al Gobierno del Estado todos los informes y datos que se les soliciten, respecto de las actividades que representan en relación con los asuntos consultados. Tratándose de bancos, comerciantes o industriales, se estará a lo dispuesto por las leyes que rijan su funcionamiento respecto de los datos que les sea permitido proporcionar.
 
@@ -123,9 +129,11 @@ Las opiniones del Consejo, como órgano de consulta que es, tendrán únicamente
 
 Por cada Consejero Propietario se elegirá un Suplente.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
 ###### Artículo 11o.
 
-Los miembros del Consejo Consultivo del Estado, podrán percibir honorarios mediante el acuerdo del C. Gobernador del Estado en atención a las posibilidades presupuestales del Ejercicio Fiscal.
+El cargo de Consejero es honorífico. Los miembros del Consejo Consultivo del Estado; por ningún motivo podrán percibir honorarios o algún tipo de salario líquido o en especie. Los gastos que generen las sesiones se sufragarán mediante el acuerdo de la Secretaría General de Gobierno en atención a las posibilidades presupuestales del Ejercicio Fiscal.
 
 TRANSITORIOS:
 
@@ -146,3 +154,13 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 15 de diciembre de 1950.- El Subsecretario Enc. del Despacho, Lic. Rodolfo Alavez Flores.- Rúbrica.
 
 Al C.....................................
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE ABRIL DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Gobernador del Estado deberá convocar a los consejeros permanentes para conformar al Consejo Consultivo del Estado a más tardar sesenta días después de la entrada en vigor de la presente reforma. Los organismos respectivos deberán designar a los sucesores antes del término de sus respectivos periodos para cubrir el periodo de un año.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
