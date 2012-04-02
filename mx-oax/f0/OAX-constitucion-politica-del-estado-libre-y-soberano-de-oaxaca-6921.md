@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2012-03-23"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -107,7 +107,7 @@ Nadie podrá ser privado, de la vida, de la libertad o de sus propiedades, poses
 
 En los juicios del orden criminal queda prohibido imponer por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
-> <small>(REFORMADOS PRIMERO Y SEGUNDO PARRAFOS [N. DE E. REFORMADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADOS PRIMERO Y SEGUNDO PÁRRAFOS [N. DE E. REFORMADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTICULO 6°.
 
@@ -337,7 +337,7 @@ b).- A que se le proporcione alimentación, a la educación básica y a la espec
 
 c).- A que se le proteja con medidas de seguridad o que garantice, en su caso, su readaptación social;
 
-d).- A no ser explotado en el trabajo; y
+d).- A no ser explotado en el trabajo;
 
 e).- A no ser separado del hogar, sino en los casos excepcionales que las leyes secundarias determinen.
 
@@ -371,7 +371,7 @@ Ningún indiciado podrá ser retenido por el Ministerio Público por más de cua
 
 En toda orden de cateo, que sólo la autoridad judicial podrá expedir a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan; a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
-El Poder Judicial contará con jueces de garantías que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las victimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
+El Poder Judicial contará con jueces de garantías que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -479,9 +479,13 @@ Ninguna organización o individuo podrá establecer condiciones o conductas que 
 
 Constituyen el patrimonio del Estado los bienes señalados en la Ley Reglamentaria. El Estado tiene el derecho de constituir la propiedad privada, la cual sólo podrá ser expropiada por causa de utilidad pública y mediante indemnización.
 
-En el territorio del Estado, éste tiene el derecho de regular el aprovechamiento de los recursos naturales susceptibles de apropiación, para procurar una distribución equitativa de la riqueza pública y para asegurar la conservación del equilibrio ecológico, dictando las medidas necesarias para impulsar el desarrollo de la economía y la sociedad.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-Corresponde al Estado la rectoría del desarrollo económico para garantizar que éste sea integral, que fortalezca su soberanía y su régimen democrático y que, mediante el fomento del crecimiento económico, el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
+En el territorio del Estado, éste tiene la facultad de regular el aprovechamiento de los recursos naturales susceptibles de apropiación, para procurar una distribución equitativa de la riqueza pública y para asegurar la conservación del equilibrio ecológico y la protección del ambiente, dictando las medidas necesarias para impulsar el desarrollo sustentable de la economía y la sociedad.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Corresponde al Estado la rectoría del desarrollo económico para garantizar que este sea integral y sustentable, que fortalezca la soberanía y su régimen democrático y que, mediante el fomento del crecimiento económico, el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de los individuos, grupos y clases sociales, cuya seguridad protege esta Constitución.
 
 El Estado planeará, conducirá, coordinará y orientará la actividad económica local y llevará al cabo, la regulación y fomento de las actividades que demanda el interés general en el marco de las libertades que otorga esta Constitución.
 
@@ -645,9 +649,17 @@ Los procesos electorales y de participación ciudadana son actos de interés pú
 
 I.- Las elecciones ordinarias de Diputados Locales, Gobernador del Estado y de los integrantes de los ayuntamientos por el régimen de partidos políticos, se celebrarán el primer domingo de julio del año que corresponda;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2012)</small>
 
-II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2o. Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada en condiciones de igualdad con el de los varones y sancionará su contravención;
+II. La Ley protegerá y propiciará las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2° Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de esta Constitución, y establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales.
+
+Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los varones; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electas o designadas.
+
+En ningún caso las prácticas comunitarias podrán limitar los derechos políticos y electorales de los y las ciudadanas oaxaqueñas. Corresponderá al Instituto Estatal Electoral y de Participación Ciudadana y al Tribunal Estatal Electoral garantizar el cumplimiento efectivo de la universalidad del sufragio, en los términos que marque la ley.
+
+Todas las ciudadanas y ciudadanos del Estado tienen derecho a no ser discriminados en la elección de las autoridades municipales. Los usos y costumbres de las comunidades no deben ser contrarios a los derechos fundamentales establecidos en la presente Constitución, en los tratados internacionales ratificados por el Estado Mexicano y en la Constitución Política de los Estados Unidos Mexicanos.
+
+La contravención a estos derechos, será sancionada en los términos de la legislación electoral.
 
 III.- La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que deban imponerse;
 
@@ -1407,7 +1419,7 @@ XXIV. Legislar acerca de la administración, conservación y enajenación de los
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
-XXV. Dar bases generales conforme a las cuales el ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
+XXV. Dar bases generales conforme a las cuales el Ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1799,7 +1811,7 @@ D). Renuncia expresa por causa grave que será calificada por el Congreso del Es
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
-e). Por virtud de una resolución de destitución emitida por la Cámara de Senadores del Congreso de la Unión;
+E). Por virtud de una resolución de destitución emitida por la Cámara de Senadores del Congreso de la Unión;
 
 II. Si la falta ocurriere estando la Legislatura en receso, se reunirá a más tardar dentro de los siete días siguientes, sin necesidad de convocatoria, y sólo para el efecto de hacer la elección en los términos de la fracción anterior; presidirá las sesiones el Presidente de la Diputación Permanente;
 
@@ -2709,6 +2721,10 @@ Para ser Alcalde se requiere haber cumplido veinticinco años antes del día de 
 
 Los Alcaldes son auxiliares de los Jueces y Tribunales del Estado, la Ley Orgánica respectiva establecerá el número que deba haber en cada Municipio, las funciones y atribuciones que les correspondan.
 
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2012)</small>
+
+IX. Cada Ayuntamiento procurará contar con una Regiduría de Equidad y Género, que tendrá como objetivo promover la participación igualitaria de las mujeres en los ámbitos de la vida social, económica, política, cultural y familiar de la comunidad y la eliminación de todo acto discriminatorio que contravenga la igualdad de género.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
 ## TITULO SEXTO. De los Órganos Autónomos del Estado
@@ -3113,7 +3129,7 @@ La planeación para el desarrollo estatal facilitará la programación del gasto
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
 
-La Ley preverá la coordinación necesaria entre la instancia técnica, la Secretaría de Finanzas, la Secretaría de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, responsables de integrar el proyecto de Presupuesto de Egresos del Estado para cada ejercicio fiscal, a fin de dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
+La Ley preverá la coordinación necesaria entre la instancia técnica, la Secretaría de Finanzas, la Secretaría de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, responsables de integrar el Proyecto de Presupuesto de Egresos del Estado para cada ejercicio fiscal, a fin de dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
 
@@ -3173,7 +3189,7 @@ Acto continuo, la misma autoridad que tome la protesta dirá: "Si no lo hicierei
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2011)</small>
 
-Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezca las bases y procedimientos para tal efecto.
+Los servidores públicos que la ley determine deberán someterse para su ingreso y permanencia en el servicio público a exámenes de control de confianza. El Congreso del Estado expedirá una ley que en razón de esta disposición establezcan las bases y procedimientos para tal efecto.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -3797,7 +3813,7 @@ Lo anterior, no excluye la posibilidad de que los Municipios con menor població
 
 P.O. 10 DE NOVIEMBRE DE 2007.
 
-DECRETO No. 540 QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS A LA CONSTITUCION POLITICA DEL ESTADO DE OAXACA
+DECRETO No. 540 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3966,6 +3982,20 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En lo que se refiere a las Cuentas Públicas municipales del ejercicio 2011, deberán ser presentadas a más tardar el día quince de junio de 2012 prorrogándose el plazo de presentación del informe de resultados de la Auditoría Superior del Estado hasta el día treinta de noviembre del mismo año.
+
+P.O. 2 DE ABRIL DE 2012.
+
+DECRETO NÚM. 1085, POR EL QUE SE REFORMA EL ARTÍCULO 20 EN SUS PÁRRAFOS SEGUNDO Y TERCERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE ABRIL DE 2012.
+
+DECRETO NÚM. 1178, POR EL QUE SE REFORMA LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 25 Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 113 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Dentro del término de 180 días el Congreso del Estado deberá realizar las reformas necesarias a las leyes secundarias para armonizarlas con la presente reforma.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
