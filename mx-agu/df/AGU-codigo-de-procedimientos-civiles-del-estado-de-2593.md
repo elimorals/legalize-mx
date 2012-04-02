@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2011-08-08"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -515,7 +515,7 @@ Las sentencias deberán dictarse dentro de ocho días siguientes a la citación.
 
 Las sentencias deberán ser claras, precisas y congruentes con la demanda y su contestación y con las demás pretensiones deducidas oportunamente en el pleito, condenando o absolviendo al demandado, y decidiendo todos los puntos litigiosos que hubieren sido objeto del debate. Cuando éstos hubieren sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -633,7 +633,7 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir, s
 
 Las notificaciones, emplazamientos y citaciones se verificarán a más tardar el día siguiente del en que se dicten las resoluciones que las prevengan, siempre que el juez no disponga en éstas otra cosa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -641,7 +641,7 @@ Las notificaciones, emplazamientos y citaciones se verificarán a más tardar el
 
 Las notificaciones se harán personalmente, por cédula, por la lista de acuerdos, por correo electrónico, por edictos o por comparecencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -653,7 +653,7 @@ También deben designar la casa en la que ha de hacerse la primera notificación
 
 Cuando un litigante o un tercero no cumplan con lo prevenido en el primer párrafo de este Artículo, las notificaciones que deban hacerse personalmente, se les harán por lista de acuerdos conforme a las no personales; si faltare al segundo párrafo, no se hará la notificación a la persona a quien se dirija hasta que subsanen la omisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -663,7 +663,7 @@ Entre tanto que un litigante o un tercero no hicieren nueva designación de la c
 
 En caso que el domicilio se encuentre vacío o esté permanentemente cerrado, ordenará que las notificaciones personales se les hagan por lista de acuerdos conforme a las no personales. Se entenderá que el domicilio se encuentra permanentemente cerrado cuando el notificador haya verificado y asentado tal circunstancia en tres días y horas hábiles diversos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -687,7 +687,7 @@ VI. En los demás casos que la Ley lo disponga.
 
 Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos servidores públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -697,7 +697,7 @@ El emplazamiento de la demanda y de la reconvención, así como la primera notif
 
 También se practicará la primera notificación o el emplazamiento por medio de cédula, cuando no se encuentre al interesado o a su representante en la casa designada, la que se entregará a cualquier persona que viva o trabaje en la casa, después que el notificador se haya cerciorado de que allí vive o labora la persona con la que la practica como la que debe ser notificada, todo lo cual se asentará en la razón.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -705,7 +705,7 @@ También se practicará la primera notificación o el emplazamiento por medio de
 
 Si se tratare de la notificación de la demanda o de la reconvención, se entregará copia íntegra de ella y de los documentos, según lo que prescribe este código para cada caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -713,7 +713,7 @@ Si se tratare de la notificación de la demanda o de la reconvención, se entreg
 
 Después que el notificador se hubiere cerciorado que la persona por notificar vive en la casa, no encontrándolo, y se negare con quien entiende la diligencia a la práctica de la notificación, se hará en el lugar en que trabaje o se encuentre el interesado, sin necesidad de que el juez dicte una determinación especial para ello. También quedan habilitados por ministerio de ley, tanto los días y las horas inhábiles para la práctica de la diligencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -743,7 +743,7 @@ En los casos de las fracciones I y II, los edictos se publicarán por tres veces
 
 Previo al emplazamiento por edictos, el Juez deberá girar oficio a la Policía Ministerial, al Registro Público de la Propiedad y del Comercio, a la Dirección General de Catastro, a la Comisión Federal de Electricidad y a cualquier otra dependencia pública que considere pertinente, a fin de que le informen si en sus registros cuentan con algún domicilio de quien se deba emplazar. En todo caso el Juez otorgará un término de cinco días para que se le remita el referido informe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -757,7 +757,7 @@ Para tal efecto, se generará respecto de cada resolución a notificar una dilig
 
 La notificación por comparecencia se tendrá por practicada por el hecho que los litigantes, los terceros o las personas autorizadas por ellos se encuentren presentes en las audiencias del juicio, respecto de las resoluciones que se emitan en estas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -765,7 +765,7 @@ La notificación por comparecencia se tendrá por practicada por el hecho que lo
 
 También podrán hacerse las notificaciones a los abogados de las partes, cuando en autos hayan sido facultados para el efecto por sus clientes. La facultad de recibir notificaciones, autoriza al abogado designado para ello para interponer y continuar los recursos e incidentes que procedan, promover y contestar las liquidaciones, ofrecer y rendir pruebas, realizar promociones de mero trámite, alegar en las audiencias y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero, ni articular o absolver posiciones. Las personas autorizadas conforme a este párrafo, deberán acreditar que están legalmente autorizadas para ejercer la profesión de abogado, licenciado en derecho o pasante, a menos que se encuentren registrados en el sistema de Cédulas de Abogados y Pasantes del Supremo Tribunal de Justicia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -783,7 +783,7 @@ I.- Desde el mismo día en que se hayan practicado tratándose de las que deben 
 
 II.- Las demás desde el día siguiente al de la fijación de la lista de acuerdos correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1303,7 +1303,7 @@ Si no comparece a la segunda citación ni alegare justa causa que se lo impida, 
 
 El documento privado que contenga deuda líquida y sea de plazo cumplido, dará mérito para que el juez ordene el requerimiento de pago como preliminar del embargo que se practicará en el caso de no hacerse aquél en el momento de la diligencia; pero siempre será necesario que previamente se intime al deudor para que reconozca su firma ante el ejecutor, en el mismo acto. Cuando intimado dos veces rehuse contestar si es o no suya la firma, se tendrá por reconocida.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO III. De la Separación Provisional de los Cónyuges
 
@@ -2685,7 +2685,7 @@ En los casos previstos en el artículo 2792 del Código Civil, segundo párrafo,
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 414.
 
@@ -2927,7 +2927,7 @@ Puede también el actor, mientras dure el secuestro, pedir al juez que los biene
 
 Practicado el secuestro, los bienes embargados se pondrán en depósito de la persona que designe el actor bajo su responsabilidad, pudiendo recaer el nombramiento en el propio actor, aplicándose en todo caso lo dispuesto por el artículo 467.
 
-> <small>(REFORMADO PARRAFO PRIMERO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 454.
 
@@ -3173,7 +3173,7 @@ Será postura legal la que cubra dos terceras partes del avalúo, con tal de que
 
 Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal dos terceras partes del avalúo dadas de contado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 485.
 
@@ -3325,7 +3325,7 @@ VIII.- En todo lo demás se observarán, en lo conducente, las disposiciones de 
 
 ### CAPITULO II. Documentos Ejecutivos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 507.
 
@@ -3373,7 +3373,7 @@ No es lícito interponer tercería excluyente de dominio a aquél que consintió
 
 Las tercerías excluyentes pueden oponerse en todo negocio, cualquiera que sea su estado, con tal de que si son de dominio no se haya dado posesión de los bienes al rematante o al actor en su caso, por vía de adjudicación, y que si son de preferencia, no se haya hecho el pago al demandante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -3785,11 +3785,11 @@ Si el embargo hubiere recaído en rentas o frutos, sueldos, pensiones o comision
 
 Si el embargo recae en bienes cuyo valor exceda el de la primera mensualidad, el embargo garantizará el suministro de las subsecuentes, también sin necesidad de requerimiento y embargo por cada mensualidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO VII. Interdictos
 
-###### ARTÍCULO 577.
+###### ARTICULO 577.
 
 Los procedimientos que tengan por objeto resolver sobre el ejercicio de las acciones a que se refiere el artículo 1790 del Código Civil, se tramitarán con sujeción a las reglas generales del juicio y a las especiales de este Capítulo.
 
@@ -3821,7 +3821,7 @@ Concluido el desahogo de las pruebas admitidas, se oirán alegatos y se dictará
 
 En contra de la sentencia que se dicte en el procedimiento previsto en este Capítulo, procede el recurso de apelación.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO VIII. De la Modificación de las Actas del Estado Civil
 
@@ -3909,7 +3909,7 @@ Contra las resoluciones que se dicten ordenando la práctica de las medidas prov
 
 Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO IX. Del Divorcio por Mutuo Consentimiento
 
@@ -3939,9 +3939,19 @@ Es juez competente para conocer de estos juicios, el de Primera Instancia de la 
 
 Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, el juez cumplirá lo dispuesto en el artículo 135 del Código Civil.
 
-> <small>(REFORMADA SU NUMERACION, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
 
-### CAPITULO I. Reglas Generales
+### CAPITULO X. De la Pérdida de la Patria Potestad
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - A.
+
+El procedimiento a que se refiere este Capítulo tiene por objeto determinar la pérdida de la patria potestad de los menores albergados en instituciones públicas de asistencia social, en los casos previstos por el Artículo 466, Fracciones III, IV, V y VI del Código Civil del Estado.
+
+Corresponderá a la Procuraduría de la Defensa del Menor y la Familia o al Ministerio Público, el ejercicio de la acción relativa a la promoción del juicio.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 604.
 
@@ -3991,11 +4001,59 @@ En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin cont
 
 Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al de nacimiento de los divorciados para los efectos de los artículos 106, 108, y 313 del Código Civil.
 
-### CAPITULO II. Verificación y Graduación de Créditos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 2012)</small>
+
+### CAPITULO I. Reglas Generales
+
+###### ARTICULO 614 - B.
+
+Admitida la demanda se dará vista al Ministerio Público y se correrá traslado a las personas que ejerzan la patria potestad sobre el menor, quienes tendrán un término de cinco días para dar contestación.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - C.
+
+Una vez contestada la demanda o transcurrido el plazo para ello, a petición de parte o de oficio se abrirá el período de ofrecimiento de pruebas por un plazo no mayor de cinco días.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - D.
+
+En el auto de admisión de pruebas se fijara día y hora para la audiencia, misma que se celebrará dentro de los treinta días siguientes, citándose para tal efecto a las partes y a las demás personas cuya asistencia sea necesaria, con las prevenciones y apercibimientos legales.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - E.
+
+Abierta la audiencia se procederá al desahogo de las pruebas admitidas y de las ordenadas oficiosamente; si no fuere posible desahogar todas las pruebas, ésta podrá diferirse una sola vez por un término no mayor de cinco días.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - F.
+
+Una vez desahogadas las pruebas, se procederá a la formulación de alegatos ya sea oralmente o por escrito, concluida esta fase, el juez citará a las partes para oír sentencia, la que deberá dictarse dentro de los cinco días siguientes.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - G.
+
+Los incidentes no suspenderán el procedimiento; las excepciones y recursos que se interpongan se resolverán en la sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - H.
+
+Contra la sentencia definitiva que recaiga en este procedimiento procederá el recurso de apelación en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 614 - I.
+
+En lo no previsto en el presente Capítulo, se aplicarán las reglas generales del juicio único civil.
 
 ## TITULO DECIMO SEGUNDO. DE LOS CONCURSOS
 
-### CAPITULO III. De la Administración del Concurso
+### CAPITULO II. Verificación y Graduación de Créditos
 
 ###### ARTICULO 615.
 
@@ -4057,7 +4115,7 @@ Mientras los acreedores ausentes se presentan, serán representados por el Minis
 
 El concursado en el caso de concurso forzoso, deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentare lo hará el Síndico.
 
-### CAPITULO IV. Reglas del Deudor Común
+### CAPITULO III. De la Administración del Concurso
 
 ###### ARTICULO 623.
 
@@ -4169,7 +4227,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, Tercera Parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo, quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Reglas del Deudor Común
 
 ###### ARTICULO 644.
 
@@ -4233,7 +4291,7 @@ Cuando el cargo de síndico fuere desempeñado sucesivamente por distintas perso
 
 En el caso de revocación del concurso, el síndico sólo percibirá honorarios de procurador en proporción a los trabajos realizados.
 
-### CAPITULO II. Testamentarias
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 654.
 
@@ -4249,7 +4307,7 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ## TITULO DECIMO TERCERO. DE LAS SUCESIONES
 
-### CAPITULO III. Intestados
+### CAPITULO II. Testamentarias
 
 ###### ARTICULO 656.
 
@@ -4421,7 +4479,7 @@ V.- Las resoluciones sobre los proyectos mencionados; y
 
 VI.- Lo relativo a la aplicación de los bienes.
 
-### CAPITULO IV. Inventario y Avalúo
+### CAPITULO III. Intestados
 
 ###### ARTICULO 680.
 
@@ -4453,7 +4511,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 680 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1609 del Código Civil y se nombrará precisamente en los casos previstos por el 1612 del mismo Código.
 
-### CAPITULO V. De la Administración
+### CAPITULO IV. Inventario y Avalúo
 
 ###### ARTICULO 686.
 
@@ -4503,7 +4561,7 @@ Al albacea se le entregarán los bienes sucesorios así como los libros y papele
 
 Si nadie se presenta reclamando la herencia o si no fuere reconocido el derecho de los presentados, se declarará heredera a la Beneficencia Pública.
 
-### CAPITULO VI. De la Rendición de Cuentas
+### CAPITULO V. De la Administración
 
 ###### ARTICULO 696.
 
@@ -4651,7 +4709,7 @@ Aprobados el inventario y el avalúo por el juez, no podrán reformarse sino por
 
 Los gastos de inventario y avalúo serán a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VII. De la Liquidación y Partición de la Herencia
+### CAPITULO VI. De la Rendición de Cuentas
 
 ###### ARTICULO 720.
 
@@ -4719,7 +4777,7 @@ El dinero y alhajas se depositarán en la Secretaría de Finanzas, pero el juez 
 
 Aprobados el inventario y el avalúo de los bienes y terminados los incidentes a que uno y otro hubieren dado lugar se procederá a la liquidación del caudal.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Liquidación y Partición de la Herencia
 
 ###### ARTICULO 734.
 
@@ -4769,7 +4827,7 @@ El auto que apruebe o repruebe las cuentas, será apelable.
 
 Las operaciones comprendidas en este capítulo y el precedente, se tramitarán por cuerda separada y no impedirán que se proceda a la liquidación y partición de la herencia ni a la entrega de las porciones hereditarias ni el otorgamiento de los títulos de propiedad, pero no se cancelará la garantía otorgada por el albacea y en el caso del artículo 1590 del Código Civil, se retendrá la porción hereditaria que le corresponda, hasta que hayan sido aprobadas estas operaciones y resueltos los incidentes a que hubieran dado lugar. Esto mismo se observará respecto de los interventores. Si el resultado de estas operaciones arroja un saldo a favor de la sucesión, se procederá en los términos del artículo 1672 del Código Civil. Si resultare saldo en contra de la sucesión, y ya hubiere sido entregada a los herederos su porción hereditaria, éstos responderán personalmente de su pago en proporción a la porción recibida, y hasta donde ésta alcance.
 
-### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VIII. De la Tramitación por Notarios
 
 ###### ARTICULO 744.
 
@@ -4943,7 +5001,7 @@ La adjudicación de bienes hereditarios se otorgará con las formalidades que la
 
 Contra la sentencia que apruebe o repruebe la partición, procede el recurso de apelación.
 
-### CAPITULO X. Del Testamento Público Cerrado
+### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
 
 ###### ARTICULO 774.
 
@@ -4971,7 +5029,7 @@ El Notario ante quien se inicie extrajudicialmente una testamentaria tendrá la 
 
 Practicado el inventario y formado el proyecto de partición por el albacea con aprobación de los herederos, los exhibirá al Notario, quien los hará constar en actas separadas o bien en la escritura de adjudicación correspondiente en términos del artículo 767, de éste Código.
 
-### CAPITULO XI. Declaración de ser Formal el Testamento Privado
+### CAPITULO X. Del Testamento Público Cerrado
 
 ###### ARTICULO 777.
 
@@ -4989,7 +5047,7 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- La transmisión de los bienes del patrimonio familiar, está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-### CAPITULO XII. Testamento Militar
+### CAPITULO XI. Declaración de ser Formal el Testamento Privado
 
 ###### ARTICULO 778.
 
@@ -5007,7 +5065,7 @@ La protocolización de todo testamento cerrado, se hará en la notaría que desi
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto de cada uno de ellos, como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar, en los casos previstos en los artículos 1406 y 1408 del Código Civil.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XII. Testamento Militar
 
 ###### ARTICULO 781.
 
@@ -5039,7 +5097,7 @@ De la resolución que niegue la declaración solicitada, pueden apelar el promov
 
 La protocolización del testamento privado se hará en los términos del artículo 779 de este Código.
 
-### CAPITULO II. De la Declaración de Estado
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 786.
 
@@ -5053,7 +5111,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 ## TITULO DECIMO CUARTO. JURISDICCION VOLUNTARIA
 
-### CAPITULO III. Nombramientos de Tutores y Curadores y Discernimiento de Estos Cargos
+### CAPITULO II. De la Declaración de Estado
 
 ###### ARTICULO 788.
 
@@ -5101,7 +5159,7 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO IV. Vigilancia y Cuentas de la Tutela
+### CAPITULO III. Nombramientos de Tutores y Curadores y Discernimiento de Estos Cargos
 
 ###### ARTICULO 797.
 
@@ -5123,7 +5181,7 @@ V.- Por el Ministerio Público y la Procuraduría de la Defensa del Menor y la F
 
 Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario, se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor, si fuere posible, y el Ministerio Público; en ella, por las certificaciones del Registro Civil si hasta ese momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos o peritos se hará o denegará la declaración correspondiente. Esta resolución es apelable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 799.
 
@@ -5151,7 +5209,7 @@ VI.- Por la Procuraduría de la Defensa del Menor y la Familia.
 
 En los casos del artículo anterior, presentada la solicitud de interdicción, el juez proveerá auto para que dentro de los tres días siguientes, sea reconocido el incapacitado por tres peritos médicos que nombrará; la diligencia de reconocimiento se practicará en presencia del tribunal del Ministerio Público y de la persona que solicitó la interdicción, levantándose acta en que conste el resultado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 801.
 
@@ -5197,7 +5255,7 @@ La declaración de estado de los sordomudos se hará mediante el dictamen unáni
 
 De las sentencias que declaren la interdicción y las que le pongan término, se realizará una publicación de un extracto en el Periódico Oficial y en un diario de circulación estatal.
 
-### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
+### CAPITULO IV. Vigilancia y Cuentas de la Tutela
 
 ###### ARTICULO 807.
 
@@ -5305,9 +5363,7 @@ Contra las resoluciones que se dicten, conforme a los dos artículos anteriores,
 
 Una vez acreditado el nombramiento de curador, hecho por la persona facultada para ello por la ley u otorgado por el juez en los casos en que deba hacerlo, se hará saber la designación al nombrado y se procederá a discernirle el cargo, observándose en lo conducente las disposiciones de los artículos anteriores.
 
-### CAPITULO VI. Adopción
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
 
 ###### ARTICULO 832.
 
@@ -5385,7 +5441,9 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fra
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición se substanciará el incidente relativo. En este incidente se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá recurso alguno.
 
-### CAPITULO VII. Excusa y Pérdida de la Patria Potestad
+### CAPITULO VI. Adopción
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 845.
 
@@ -5469,7 +5527,7 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 La venta de los bienes indivisos pertenecientes a mayores o menores de edad, se hará con sujeción a este capítulo, teniendo en cuenta lo que se dispone en el artículo 587 del Código Civil.
 
-### CAPITULO VIII. Depósito de Personas
+### CAPITULO VII. Excusa y Pérdida de la Patria Potestad
 
 ###### ARTICULO 858.
 
@@ -5483,27 +5541,19 @@ En la promoción inicial deberá manifestarse: El nombre y edad del menor o disc
 
 Rendidas las justificaciones que se exigen en el Artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme al Artículo 420 del Código Civil, el tribunal resolverá dentro del tercer día.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
-
 ###### ARTICULO 860.
 
-Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que se resolverá conforme a lo que dispone el Artículo 430 del Código Civil.
-
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
-
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### ARTICULO 861.
 
-La impugnación de la adopción simple y su revocación en los casos de los Artículo (sic) 421-A y 428 fracción II del Código Civil se tramitarán en la vía incidental. Siendo apelable la resolución que decide el incidente.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
 ###### ARTICULO 862.
 
-Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 424 y 433 del Código Civil.
+(DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
-### CAPITULO IX. Informaciones Ad-Perpetuam
+### CAPITULO VIII. Depósito de Personas
 
 ###### ARTICULO 863.
 
@@ -5527,7 +5577,7 @@ El juez admitirá la excusa si la encuentra debidamente fundada y mandará reque
 
 El ascendiente que renuncie o que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor de edad.
 
-### CAPITULO X. Apeo y Deslinde
+### CAPITULO IX. Informaciones Ad-Perpetuam
 
 ###### ARTICULO 868.
 
@@ -5599,7 +5649,7 @@ En los dos últimos casos el juez volverá a la mujer a casa de las personas baj
 
 En las diligencias de que trata este Capítulo, se oirá precisamente al Ministerio Público y contra las resoluciones que se dicten no procederá recurso alguno.
 
-### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
+### CAPITULO X. Apeo y Deslinde
 
 ###### ARTICULO 879.
 
@@ -5636,6 +5686,8 @@ Recibida la información, el juez declarará si se han o no acreditado los hecho
 ###### ARTICULO 884.
 
 Si hubiere oposición y se fundare en título debidamente registrado con anterioridad, sin más trámite el juez declarará sin lugar la información. Esta resolución y la que declare acreditados o no los hechos serán apelables.
+
+### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
 
 ###### ARTICULO 885.
 
@@ -5747,15 +5799,15 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Héctor Valdivia Carreón.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 13 DE DICIEMBRE DE 1992.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 2 DE ABRIL DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -5918,3 +5970,9 @@ Los litigantes, deberán instrumentar y mantener permanentemente actualizados lo
 ###### ARTÍCULO SEXTO.
 
 El Poder Judicial llevará a cabo las acciones necesarias a efecto de integrar los sistemas informáticos internos en una sola plataforma tecnológica, a través del Sistema de Notificaciones Electrónicas del Poder Judicial del Estado.
+
+P.O. 2 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
