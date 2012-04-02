@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2012-02-01"
+last_updated: "2012-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -593,7 +593,7 @@ El personal del Tribunal tendrá cada año los días inhábiles y los períodos 
 
 Antes de iniciar un período de receso, el Presidente del Tribunal designará al personal que provea los trámites de asuntos urgentes durante el receso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ## TITULO SEGUNDO. DEL PROCEDIMIENTO ORDINARIO
 
@@ -733,7 +733,7 @@ Cuando las leyes o reglamentos establezcan algún recurso o medio de defensa adm
 
 Cuando la resolución recaída a un recurso administrativo no satisfaga el interés jurídico del recurrente y este la controvierta en juicio ante el Tribunal, siempre que ésta se haya pronunciado en el fondo, se entenderá que simultáneamente impugna la resolución recurrida, pudiendo hacer valer agravios no planteados en el recurso, en caso contrario, será requisito que primero se pronuncie sobre la procedencia del recurso, para que el juicio proceda contra la resolución objeto del recurso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 31.
 
@@ -827,7 +827,7 @@ III.- Siempre será parte la Dependencia del Ejecutivo del Estado a quien determ
 
 La parte mencionada en el párrafo precedente podrá contestar la demanda, ofrecer pruebas, expresar alegatos, hacer valer causales de improcedencia o sobreseimiento, formular todo tipo de objeciones e interrogatorios, promover incidentes o recursos y realizar cualquier intervención en beneficio y protección de los intereses jurídicos de la administración pública estatal o municipal, en su caso; y por la naturaleza de su participación no le será aplicable lo dispuesto en el Artículo 53 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 IV.- Los terceros perjudicados. Tienen este carácter:
 
@@ -1069,7 +1069,7 @@ IX.- La manifestación de someterse o no a algún método alterno para la soluci
 
 Cuando se omitan estos requisitos, el Magistrado que conozca del asunto requerirá mediante notificación personal al demandante para que los proporcione en un plazo de cinco días, apercibiéndolo de que de no hacerlo, se tendrá por no presentada la demanda. Cuando no obstante el apercibimiento se omitiere señalar el nombre y domicilio del tercero perjudicado o los motivos por los cuales deba ser llamado con ese carácter, el Magistrado resolverá lo que corresponda en los términos de la fracción IV del Artículo 33 de esta Ley. Si no se hiciere manifestación respecto de someterse o no a un método alterno para la solución de conflictos, se entenderá que no hay voluntad para someterse a alguno de ellos, pudiéndolo hacer en cualquier etapa del procedimiento; y cuando se omitiere ofrecer o acompañar pruebas, solamente se tendrá por perdido el derecho de ofrecerlas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 46.
 
@@ -1107,7 +1107,7 @@ Tratándose de negativa ficta, cuando la autoridad demandada allegue al juicio c
 
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
-En el escrito de ampliación de demanda se deberán adjuntar las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten, aplicándose en lo conducente lo previsto en los artículos 45, 47 y demás relativos de esta Ley.
+En el escrito de ampliación de demanda se deberán adjuntar las copias necesarias para el traslado, las pruebas y documentos que en su caso se presenten, aplicándose en lo conducente lo previsto en los Artículos 45, 47 y demás relativos de esta Ley.
 
 ###### Artículo 47.
 
@@ -1555,11 +1555,21 @@ A petición expresa de parte, el magistrado instructor, en el mismo auto que adm
 
 La suspensión podrá solicitarla el actor en cualquier tiempo, mientras no se dicte sentencia definitiva, y tendrá por efecto mantener las cosas en el estado en que se encuentren hasta en tanto se pronuncie sentencia.
 
-No se otorgará la suspensión cuando, de obsequiarla, se siga perjuicio al interés social, se contravengan disposiciones de orden público o se dejare sin materia el juicio.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
-Cuando los actos materia de impugnación hubieran sido ejecutados temporal o provisionalmente y se afecte a particulares impidiéndoles el ejercicio de sus actividades habituales, entre tanto se pronuncie la resolución definitiva que corresponda, el magistrado instructor podrá dictar las medidas que estime pertinentes para restituir al demandante y preservar la materia de la litis, siempre que no se lesionen derechos de terceros, pudiendo incluso ordenar el levantamiento del estado de clausura.
+No se otorgará la suspensión cuando de concederla se siga perjuicio al interés social, se contravengan disposiciones de orden público o se dejare sin materia el juicio.
 
-La suspensión podrá ser revocada por el magistrado instructor en cualquier etapa del juicio, si varían las condiciones por las cuales se otorgó.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Se considera entre otros casos, que se sigue perjuicio al interés social o se contravengan disposiciones de orden público, cuando de concederla, se permita la consumación o continuación de delitos o de sus efectos; se permita el alza de precios relativos a artículos de primera necesidad o de consumo necesario; se impida la ejecución de medidas para combatir epidemias de carácter grave, el peligro de invasión de enfermedades exóticas en el Estado o campañas u operativos contra el alcoholismo, la ludopatía, el tabaquismo o la venta ilícita de sustancias; se produzca daño al medio ambiente, al equilibrio ecológico o por ese motivo se afecte la salud de las personas; igualmente cuando de otorgarse la suspensión se proceda a la instalación, se continúe el funcionamiento o se evite de alguna manera el control, la verificación o vigilancia del cumplimiento de los ordenamientos administrativos estatales o municipales de los casinos, centros de apuesta, salas de sorteos, casas de juego y establecimientos similares; o cuando se trate de centros de vicio, de lenocinio o se dediquen al comercio de drogas y de enervantes.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+La suspensión podrá ser revocada o modificada por el Magistrado instructor en cualquier etapa del juicio, ya sea oficiosamente o a petición de parte, si varían las condiciones por las cuales se otorgó, o si se argumentan o demuestran hechos o circunstancias que no se hubieren tomado en consideración al concederla.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+La suspensión se limitará a los actos, procedimientos o resoluciones que se impugnen y sus efectos. Al concederla, el Magistrado instructor procurará precisar la situación en que habrá (sic) de quedar las cosas y tomará las medidas pertinentes para conservar la materia del juicio hasta su terminación.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -1575,7 +1585,7 @@ II. Cuando se trate de persona distinta del obligado directamente al pago;
 
 III. Cuando de acuerdo a la apreciación del Magistrado y tratándose del cobro de sumas, éstas excedan de la posibilidad del quejoso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 69.
 
@@ -1605,7 +1615,7 @@ Cuando la autoridad demandada no cumpliere la suspensión concedida, a petición
 
 ### CAPITULO XI. DE LAS PRUEBAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 71.
 
@@ -2373,11 +2383,11 @@ La resolución que se dicte en estos casos no afectará las situaciones jurídic
 
 Los criterios de interpretación que sustente la Sala Superior, así como aquéllos que constituyan precedente y se considere de importancia, se publicarán para su vigencia en el Periódico Oficial del Estado o en el Órgano Oficial de difusión del Tribunal.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ORAL
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -2423,7 +2433,7 @@ La recusación será admisible hasta antes de la calificación de las pruebas en
 
 Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO II. REGLAS COMUNES PARA LAS AUDIENCIAS
 
@@ -2581,7 +2591,7 @@ La nulidad de una actuación deberá reclamarse en la misma audiencia y a más t
 
 El Magistrado tendrá, durante la celebración de las audiencias la facultad de decretar un receso por el tiempo que estime conveniente, para solucionar los problemas técnicos que para el registro electrónico del juicio se presenten, así como para solventar cualquiera otra contingencia que se llegare a suscitar.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO III. DE LA AUDIENCIA PRELIMINAR
 
@@ -2669,7 +2679,7 @@ Si no hay pruebas que requieran de diligencia especial para su desahogo o habié
 
 Dentro de la etapa de preparación de las pruebas, podrá desahogarse la inspección judicial y la pericial, así como solicitarse los informes y enviar los exhortos para el desahogo de aquellas probanzas que lo requieran.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO IV. DE LA AUDIENCIA DE JUICIO ORAL
 
@@ -2729,7 +2739,7 @@ VI.- El Magistrado deberá impedir que las alegaciones se desvíen hacia aspecto
 
 Dentro de la Audiencia de Juicio se desahogarán las pruebas y las partes formularán su alegato de clausura en forma oral, hecho lo cual, quedará el negocio en estado de sentencia, dictándose el fallo dentro de los cinco días hábiles siguientes, notificándose a las partes en los términos del artículo 38 de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO V. REGLAS GENERALES PARA LAS PRUEBAS
 
@@ -2757,7 +2767,7 @@ Las pruebas serán valoradas por el Magistrado según la sana crítica, pero no 
 
 La valoración de la prueba en la sentencia requerirá el señalamiento del o de los medios de prueba mediante los cuales se dieren por acreditados cada uno de los hechos y circunstancias que se dieren por probados. Esta motivación deberá permitir la reproducción del razonamiento utilizado para alcanzar las conclusiones a que llegare la sentencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO VI. DE LA PRUEBA CONFESIONAL
 
@@ -2777,7 +2787,7 @@ En caso de que la absolvente no asista, el Magistrado abrirá el pliego y la ten
 
 En el supuesto de que el oferente de la prueba confesional no comparezca a la audiencia de juicio, en forma personal o a través de representante legal o abogado autorizado, en los supuestos a que se refiere el artículo 113 de esta Ley, no se desahogará la prueba confesional, perdiendo el derecho de hacerlo con posterioridad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO VII. DE LA PRUEBA TESTIMONIAL
 
@@ -2833,7 +2843,7 @@ Todo testigo dará razón pormenorizada de los hechos sobre los cuales declarare
 
 La declaración de una sola persona se valorará, en lo conducente conforme a las reglas previstas en esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO VIII. DE LA PRUEBA INSTRUMENTAL
 
@@ -2855,7 +2865,7 @@ Los documentos que presenten las partes podrán ser impugnados vía incidental e
 
 (DEROGADO, P.O. 1 DE FEBRERO DE 2012)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO IX. DE LA PRUEBA PERICIAL
 
@@ -2915,7 +2925,7 @@ Si a la audiencia mencionada en el artículo anterior los peritos designados por
 
 No será aplicable al procedimiento oral lo dispuesto en el artículo 84, fracción II de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPÍTULO X. DE LOS INCIDENTES
 
@@ -2989,11 +2999,11 @@ En caso de que se haga valer la acumulación de juicios, o ésta se advierta de 
 
 Cuando dentro del incidente de acumulación, se advierta que uno de los juicios, respecto de los cuales se invoque la conexidad de causa, no corresponda a la competencia de la Sala Ordinaria que, en su caso, conozca del Juicio Oral, y de proceder dicho incidente se ordenará que se acumule al juicio que se sigue en forma escrita.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ## TITULO CUARTO. DEL TRIBUNAL VIRTUAL ADMINISTRATIVO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -3225,7 +3235,7 @@ El C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 XAVIER DORIA GONZALEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2003.
 
@@ -3280,6 +3290,10 @@ Cuarto.- Cuando en una Ley, Reglamento o cualquier otro ordenamiento se haga ref
 Quinto.- El nombramiento como Magistrados de lo Contencioso Administrativo recaído con anterioridad en quienes actualmente ostentan dicho encargo, se entenderá referido, en caso de su eventual ratificación, como Magistrado del Tribunal de Justicia Administrativa.
 
 Sexto.- Los juicios que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones legales vigentes al momento de su inicio.
+
+P.O. 2 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE ADICIONA EL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
