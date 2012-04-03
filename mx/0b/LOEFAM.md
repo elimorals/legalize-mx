@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2011-11-09"
+last_updated: "2012-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOEFAM"
 ---
 # LEY ORGANICA DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-LEY ORGANICA DEL EJERCITO Y FUERZA AEREA MEXICANOS
+LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -1278,7 +1278,7 @@ De conformidad con las posibilidades de la Secretaría de la Defensa Nacional, l
 
 El personal del Ejército y Fuerza Aérea que apruebe el curso de Mando y Estado Mayor en la Escuela Superior de Guerra, recibirá la denominación de Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, según sean los estudios efectuados, precedida de la correspondiente a la de su Arma, Servicio o Especialidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 161.
 
@@ -1434,15 +1434,19 @@ Los casos de licencia previstos en las fracciones I y III serán concedidos cuan
 
 La reincorporación al servicio del personal al que se refiere la Fracción I del Artículo 174, tendrá lugar al día siguiente en que concluya el cargo de elección popular; la del personal a que se refieren las Fracciones II y III de ese mismo Artículo, tendrá lugar el día siguiente de que fenezca la orden expedida, o la licencia concedida por el Presidente de la República. Cuando no esté fijado el plazo, la Secretaría de la Defensa Nacional dará por terminada la licencia del militar al concluir el mandato constitucional del Presidente de la República, de quien emanó la orden. En todos los casos, el personal al reincorporarse quedará a disposición de la Secretaría de la Defensa Nacional, para que le sea asignado destino.
 
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2012)</small>
 
-ARTICULO 175 BIS. La licencia por edad límite es la que se concede a los militares con veinticinco, treinta o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
+ARTICULO 175 BIS. La licencia por edad límite es la que se concede a los militares con veinte, o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro, por edad límite dispuesta en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
 
 Años de Servicio
 
-Generales,
+Generales, Jefes y Oficiales Tropa Tiempo de la Licencia
 
-Jefes y Oficiales Tropa Tiempo de la Licencia
+25 años 20 años 3 meses
+
+26 años 22 años 4 meses
+
+28 años 24 años 5 meses
 
 30 años 25 años 6 meses
 
@@ -1458,9 +1462,15 @@ Jefes y Oficiales Tropa Tiempo de la Licencia
 
 42 o más años 31 o más años 12 meses
 
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 Los militares que se ubiquen en cualquiera de los supuestos de este artículo, podrán solicitar a la Secretaría, con treinta días de anticipación a la fecha que les corresponda gozar de esta licencia; en caso de que la petición se realice en forma extemporánea, sólo se concederá este beneficio, en el caso de que sea procedente, por el tiempo que reste para cumplir la edad límite para su permanencia en el activo.
 
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+
 El secretario de la Defensa Nacional, podrá conceder o negar esta licencia, conforme a lo establecido en la primera parte del párrafo segundo del artículo 173 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
 Esta licencia será concedida por una sola ocasión, con goce de las percepciones que esté recibiendo el militar, sin interrumpir su tiempo de servicios.
 
@@ -1982,7 +1992,7 @@ México, D.F., a 8 de diciembre de 1986, Sen. Gonzalo Martínez Corbalá, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos ochenta y seis.- El Presidente de la República, Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE ENERO DE 1998.
 
@@ -2009,3 +2019,7 @@ Quinto.- Las erogaciones que deriven de la aplicación del presente Decreto ser�
 D.O.F. 9 DE NOVIEMBRE DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
