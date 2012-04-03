@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-control-de-estacionamiento-en-las-vias-83226
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-11"
-last_updated: "2011-10-11"
+last_updated: "2012-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83226&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2011-10-10"
 ---
 # REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VIAS PUBLICAS DEL DISTRITO FEDERAL
 
-REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VIAS PUBLICAS DEL DISTRITO FEDERAL
+REGLAMENTO PARA EL CONTROL DE ESTACIONAMIENTO EN LAS VÍAS PÚBLICAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 11 de octubre de 2011.
 
@@ -290,6 +290,10 @@ La calcomanía deberá adherirse en el interior del vehículo autorizado, en la 
 
 El otorgamiento del permiso temporal especial para residente, surtirá efectos únicamente dentro de un área delimitada de la Zona de Parquímetros, en la que se encuentre el inmueble del cual sea propietario o poseedor el solicitante, dicha área se especificará en el permiso.
 
+> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Los permisos a que se refiere este artículo serán otorgados por la Autoridad del Espacio Público del Distrito Federal, a través del titular de la Dirección Ejecutiva de Gestión, ante quien se realizarán los trámites para ello.
+
 ### Capítulo Séptimo. Del comité de de (sic) transparencia y rendición de cuentas
 
 ###### Artículo 30.
@@ -349,3 +353,11 @@ CUARTO.- El Acuerdo por el que se establece el Programa para la Rehabilitación 
 QUINTO.- La Oficialía Mayor llevará a cabo las gestiones necesarias para dotar a la Secretaría de los recursos humanos y materiales necesarios para el ejercicio de las funciones atribuidas por el presente Reglamento.
 
 Dado en la Ciudad de México a los diez días del mes de octubre de dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, MANUEL MONDRAGON Y KALB.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD.- RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 3 DE ABRIL DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal.
