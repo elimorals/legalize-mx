@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-derechos-y-deberes-de-las-52276"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2009-05-12"
+last_updated: "2012-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y DEBERES DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de octubre de 2006.
 
@@ -63,6 +63,10 @@ Comité. Comité para la Protección de los Derechos y Deberes de las Niñas, Ni
 
 Abandono o Negligencia. La situación de desamparo que viven las niñas, niños y adolescentes cuando los progenitores, tutores o responsables de su cuidado, dejan de proporcionarles los medios básicos de subsistencia y los cuidados necesarios para su desarrollo integral sin perjuicio de lo previsto en otras leyes.
 
+> <small>(ADICIONADO, P. O. 3 DE ABRIL DE 2012)</small>
+
+Acoso Escolar. Es la conducta repetitiva e intencional, por cualquier medio, por la que se pretende intimidar, someter, amedrentar y/o atemorizar, emocional o físicamente, a la víctima, ya sea dentro de las instalaciones de una institución educativa o fuera de ella.
+
 Actividades Marginales. Todas aquellas actividades que realizan las niñas, niños y adolescentes que se encuentran o vivan en circunstancias de desventaja social con el fin de obtener recursos pecuniarios, al margen de las normas jurídicas que regulan el trabajo.
 
 Asistencia Social. Al conjunto de acciones temporales tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo, en particular a las niñas, niños y adolescentes su desarrollo integral, así como la protección física, mental y social de estas personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
@@ -101,9 +105,9 @@ II. En situación de calle, a los que por diversas circunstancias trabajan y viv
 
 III. Fármaco-dependientes, a los consumidores y dependientes de algún tipo de sustancia, calificándose por los que necesitan cierta dosis de la misma para poder funcionar así como los que dependen absolutamente de ella y que los hace personas disfuncionales;
 
-IV, Jornaleros agrícolas, a quienes desarrollan diversas actividades en el sector agrícola y ganadero, en el marco de la producción o distribución ya sea esta formal o informal y que desarrollan dicha actividad para su propia subsistencia o para contribuir a la de su familia, al margen de la protección jurídica y social prevista en la legislación vigente;
+IV. Jornaleros agrícolas, a quienes desarrollan diversas actividades en el sector agrícola y ganadero, en el marco de la producción o distribución ya sea esta formal o informal y que desarrollan dicha actividad para su propia subsistencia o para contribuir a la de su familia, al margen de la protección jurídica y social prevista en la legislación vigente;
 
-V, Infractores, a las niñas y niños de entre 12 años hasta 16 años de edad, que con su conducta infrinjan disposiciones de orden penal;
+V. Infractores, a las niñas y niños de entre 12 años hasta 16 años de edad, que con su conducta infrinjan disposiciones de orden penal;
 
 VI. Con discapacidad, a quienes viven temporal o permanentemente con una disminución en sus facultades físicas, mentales o sensoriales, que les impidan realizar una actividad en la forma convencional y que implique desventajas para su integración familiar, social, educacional o laboral;
 
@@ -317,11 +321,15 @@ IV. Fomentar que en materia de educación y cultura las niñas, niños y adolesc
 
 V. Garantizar que en todo momento los profesores y el personal que labora en los centros educativos respeten la integridad de los menores de edad a su cargo;
 
-VI. Impedir que en las instituciones educativas públicas y privadas se apliquen medidas de disciplina que no estén previamente establecidas, sean contrarias a su dignidad, atenten contra su vida o su integridad física o mental asimismo, que los menores de edad sean escuchados cuando estén involucrados en alguna falta;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
+
+VI. Impedir que en las instituciones educativas, públicas y privadas, se apliquen medidas de disciplina que no estén previamente establecidas, sean contrarias a su dignidad, atenten contra su vida o su integridad física o mental; asimismo, que los menores de edad sean oídos con asistencia de quien ejerza la patria potestad o de representante social del Estado y sancionados, cuando sea procedente, al estar involucrados en alguna falta;
 
 VII. Comunicar a todo el personal de las instituciones públicas y privadas que están obligados sin perjuicio de la responsabilidad en el ámbito del derecho penal a informar o denunciar a la autoridad competente para que se proceda conforme a derecho cuando se presenten los siguientes supuestos:
 
-a) Los casos de maltrato físico, emocional, sexual o trato corruptor que involucren al alumnado como víctima o causante de ellos;
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2012)</small>
+
+a) Los casos de maltrato físico, emocional, sexual, trato corruptor o acoso escolar, que involucren al alumnado como víctima o causante de ellos;
 
 b) Los casos de consumo de drogas;
 
@@ -332,6 +340,10 @@ d) La reprobación reiterada del grado escolar que cursa y un diagnóstico de su
 La Secretaria de Educación Pública establecerá mecanismos propios para responder oportuna y eficazmente a los problemas que originan los casos mencionados.
 
 Si en el supuesto mencionado en el inciso a) de esta fracción, se señalara en la denuncia como responsable a alguna persona que labora en la institución educativa, se determinará la separación del puesto mientras se realiza la investigación y hasta que se emita la resolución respectiva.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2012)</small>
+
+Si se tratare de acoso escolar, las autoridades de la misma institución, previo conocimiento, están obligadas a llevar a cabo la investigación correspondiente, a fin de que los alumnos que resulten responsables, sean acreedores a las sanciones que determine el plantel educativo correspondiente, y en su caso, se les canalice para recibir la atención profesional correspondiente.
 
 VIII. Propiciar que las niñas, niños y adolescentes con un potencial intelectual superior al normal o con algún grado de discapacidad reciban atención especial en centros educativos, adecuar los métodos de enseñanza a sus necesidades particulares y contar con las condiciones adecuadas que les permita integrarse a la sociedad;
 
@@ -493,7 +505,9 @@ VI. Cuidar su cuerpo para desarrollarse física y emocionalmente sano, tomar los
 
 VII. Conservar y cuidar el medio ambiente, la flora, la fauna, los recursos no renovables y su entorno urbano o rural;
 
-VlIl. Cuidarse e informar a sus padres, tutores o representantes o persona adulta de su confianza sobre cualquier propuesta hechas por otras personas que vaya en contra de su pudor, salud, integridad física y moral;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
+
+VIII. Cuidarse e informar a sus padres, tutores o representantes, persona adulta de su confianza o cualquier autoridad educativa, maestro o personal de la institución educativa, sobre cualquier propuesta hechas por otras personas que vaya en contra de su pudor, salud, integridad física y moral o cuando tengan conocimiento que algún compañero sufra de acoso escolar;
 
 IX. Cumplir con sus obligaciones educativas, participar activamente en las actividades de su preparación académica, hacer uso responsable de sus objetos escolares; así como de las instalaciones dedicadas a este fin;
 
@@ -512,6 +526,10 @@ I. Velar por su desarrollo físico y emocional proporcionándoles una vida digna
 II. Garantizar la satisfacción de la percepción de alimentos, comprendiendo éstos los referidos en el Código Civil del Estado;
 
 III. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad o la custodia de niñas, niños y adolescentes no podrán al ejercerla atentar contra su integridad física o mental ni actuar en menoscabo de su desarrollo.
+
+> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2012)</small>
+
+IV. Informar a las autoridades educativas, maestros o personal de la institución a la que asistan los niños, niñas o adolescentes, cuando tengan conocimiento de un caso de acoso escolar.
 
 ###### Artículo 45.
 
@@ -1240,3 +1258,9 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ABRIL DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
