@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2012-02-24"
+last_updated: "2012-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -329,7 +329,11 @@ XV. Asegurar la permanencia del docente en el centro de trabajo durante el ciclo
 
 XVI. Programar en la esfera de su competencia, actividades de apoyo a los grupos humanos que inmigran a la entidad, con el objeto de compensar las posibles desventajas de su situación;
 
-XVII. Definir los programas que permitan ampliar la calidad y la cobertura de los servicios educativos y alcanzar los propósitos a que se refiere este capítulo.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE ABRIL DE 2012)</small>
+
+XVII. Efectuar un programa destinado a la Prevención, Atención y Solución del Acoso Escolar de manera permanente, que estará dirigido a los padres de familia o a quienes tengan a su cargo la patria potestad, tutela o representación de los menores, quienes tendrán obligatoriamente que asistir a las sesiones que para ello se instrumenten, a fin de que conozcan la problemática que esta conducta representa y estén en posibilidad de entenderla, lo que por un lado les facilitará su detección en tiempo, o bien, para buscar la ayuda profesional para atenderla.
+
+Dicho programa deberá incluir cursos, talleres, seminarios, impartidos por especialistas en la materia.
 
 ###### ARTICULO 27.
 
@@ -915,17 +919,17 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o representación
 
 I.- Hacer que sus hijos, pupilos, o representados menores de edad, concurran a las escuelas públicas o privadas para obtener educación básica en los términos previstos por las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
 
-II.- Acudir ante las autoridades del plantel escolar o el maestro del grupo, cuantas veces sea necesario, para tomar conocimiento del avance en la educación de su hijo, pupilo o representado y de los problemas relacionados con su conducta o rendimiento en la escuela;
+II.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como en la implementación de acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
 
-III.- Informarse en todo momento del comportamiento de su hijo, pupilo o representado en la escuela y en todas las actividades relacionadas con su educación;
+III.- Participar en las actividades que se realicen para mejorar el nivel de vida de los integrantes de la comunidad escolar; y (sic)
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE ABRIL DE 2012)</small>
 
-IV.- Coadyuvar con las autoridades escolares en la atención de los problemas de conducta o de aprendizaje de sus pupilos, hijos o representados; así como corresponsabilizarse en la instrumentación de las acciones que se determinen para brindar protección y salvaguarda a sus hijos, pupilos o representados menores de edad; y
+IV.- Participar de manera activa y permanente en las actividades y tareas que se implementen por las autoridades educativas en el marco del Programa para la Prevención, Atención y Solución del Acoso Escolar.
 
 > <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
@@ -1234,3 +1238,9 @@ P.O. 24 DE FEBRERO DE 2012.
 PRIMERO.- Este decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones que contravengan lo dispuesto en la presente Ley.
+
+P.O. 3 DE ABRIL DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
