@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-armada-de-mexico-26847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2011-01-26"
+last_updated: "2012-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOAM"
 ---
 # LEY ORGANICA DE LA ARMADA DE MEXICO
 
-LEY ORGANICA DE LA ARMADA DE MEXICO
+LEY ORGÁNICA DE LA ARMADA DE MÉXICO
 
-ULTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2011.
+ÚLTIMA REFORMADA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2012.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 30 de diciembre de 2002.
 
@@ -214,7 +214,7 @@ El Estado Mayor General de la Armada es el órgano asesor del Alto Mando a quien
 
 Estará integrado con personal Diplomado de Estado Mayor y el personal especialista que sea necesario para el cumplimiento de sus atribuciones. El titular será de la categoría de almirante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -882,33 +882,39 @@ Se dará por terminada cuando el interesado sea dado de alta o hasta que se expi
 
 A quien se le conceda, únicamente percibirá haberes y sobrehaberes.
 
-> <small>(ADICIONADO, D.O.F.12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2012)</small>
 
 ###### Artículo 81 Bis.
 
-la licencia por edad límite es la que se concede a los miembros de la Armada de México con veinticinco, treinta o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro por edad límite, dispuesto en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
+La licencia por edad límite es la que se concede a los miembros de la Armada de México con veinte, o más años de servicios efectivos que estén próximos a ser colocados en situación de retiro por edad límite, dispuesto en el artículo 25 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, conforme a la tabla siguiente:
 
 Años de Servicio
 
-Almirantes, Clases y Tiempo de
+Almirantes, Capitanes Clases y Marinería Duración
 
-Capitanes y Marinería la Licencia
+y Oficiales. de la Licencia
 
-Oficiales
+25 AÑOS 20 AÑOS 3 MESES
 
-30 años 25 años 6 meses
+26 AÑOS 22 AÑOS 4 MESES
 
-32 años 26 años 7 meses
+28 AÑOS 24 AÑOS 5 MESES
 
-34 años 27 años 8 meses
+30 AÑOS 25 AÑOS 6 MESES
 
-36 años 28 años 9 meses
+32 AÑOS 26 AÑOS 7 MESES
 
-38 años 29 años 10 meses
+34 AÑOS 27 AÑOS 8 MESES
 
-40 años 30 años 11 meses
+36 AÑOS 28 AÑOS 9 MESES
 
-42 o más años 31 o más años 12 meses
+38 AÑOS 29 AÑOS 10 MESES
+
+40 AÑOS 30 AÑOS 11 MESES
+
+42 O MÁS AÑOS 31 O MÁS AÑOS 12 MESES
+
+Esta licencia será concedida por una sola ocasión, con goce de las percepciones que esté recibiendo el militar sin interrumpir su tiempo de servicios, en los términos y condiciones que establezca el Reglamento correspondiente.
 
 ###### Artículo 82.
 
@@ -1056,7 +1062,7 @@ México, D.F., a 3 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 12 DE JUNIO DE 2009.
 
@@ -1067,3 +1073,7 @@ Artículo Segundo.- Se derogan todas las disposiciones legales, reglamentarias y
 D.O.F. 26 DE ENERO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
