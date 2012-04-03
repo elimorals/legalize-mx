@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2011-08-18"
+last_updated: "2012-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2002-07-11"
 ---
 # CODIGO PENAL PARA EL DISTRITO FEDERAL -ANTES NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL-
 
-CODIGO PENAL PARA EL DISTRITO FEDERAL
+CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2012.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -42,7 +42,7 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, II LEGISLATURA
 
 DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2006)</small>
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
@@ -308,7 +308,7 @@ V. Intervención.
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ARTÍCULO 33 (Concepto y duración de la prisión). La prisión consiste en la privación de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años. Su ejecución se llevará a cabo en los establecimientos o lugares donde disponga la autoridad ejecutora de las sanciones penales en el Distrito Federal o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente, en la resolución judicial respectiva o en los convenios celebrados.
 
@@ -346,7 +346,7 @@ La semilibertad podrá imponerse como pena autónoma o como sustitutiva de la pr
 
 En todo caso, la semilibertad se cumplirá bajo el cuidado de la autoridad competente.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2006)</small>
 
 ### CAPÍTULO V. TRABAJO A FAVOR DE LA VÍCTIMA O A FAVOR DE LA COMUNIDAD
 
@@ -464,7 +464,7 @@ ARTÍCULO 51 (Renuncia o falta de reclamo de la Reparación del Daño). Si el of
 
 ARTÍCULO 52 (Sanción económica). En los delitos cometidos por servidores públicos a que se refieren los Títulos Décimo Octavo y Vigésimo del Libro Segundo de este Código, la sanción económica consiste en la aplicación de hasta tres tantos del lucro obtenido y de los daños y perjuicios causados.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 17 DE MAYO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 17 DE MAYO DE 2007)</small>
 
 ### CAPÍTULO VII. ASEGURAMIENTO Y DECOMISO DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
 
@@ -642,13 +642,13 @@ Para la adecuada aplicación de las penas y medidas de seguridad, el Juez deber�
 
 ### CAPÍTULO II. PUNIBILIDAD DE LOS DELITOS CULPOSOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ARTÍCULO 76 (Punibilidad del delito culposo). En los casos de delitos culposos, se impondrá la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquellos para los que la ley señale una pena específica o un tratamiento diverso regulado por ordenamiento legal distinto a este Código. Además se impondrá, en su caso, suspensión o privación definitiva de derechos para ejercer profesión, oficio, autorización, licencia o permiso, por un término igual a la pena de prisión impuesta.
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no privativa de libertad, aprovechará esta situación al responsable del delito culposo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -732,7 +732,7 @@ La equivalencia de la multa sustitutiva de la pena de prisión, será en razón 
 
 ARTÍCULO 85 (Sustitución de la multa). La multa podrá ser sustituida por trabajo en beneficio de la víctima o en favor de la comunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO VIII. SUSPENSIÓN CONDICIONAL DE LA EJECUCIÓN DE LA PENA
 
@@ -972,7 +972,7 @@ III. Dos sentencias, dictadas en procesos distintos, se hará la declaratoria de
 
 # LIBRO SEGUNDO. PARTE ESPECIAL
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 26 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE JULIO DE 2011)</small>
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA VIDA, LA INTEGRIDAD CORPORAL, LA DIGNIDAD Y EL ACCESO A UNA VIDA LIBRE DE VIOLENCIA
 
@@ -1024,7 +1024,7 @@ Al que prive de la vida a otro en riña se le impondrá de cuatro a doce años d
 
 Al que cause a otro un daño o alteración en su salud, se le impondrán:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 I. (DEROGADA, G.O. 16 DE FEBRERO DE 2011)
 
@@ -1040,9 +1040,9 @@ VI. De tres a ocho años de prisión, si producen la pérdida de cualquier funci
 
 VII. De tres a ocho años de prisión, cuando pongan en peligro la vida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 16 DE FEBRERO DE 2011)</small>
 
 > <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
@@ -1090,7 +1090,7 @@ Existe emoción violenta cuando el sujeto activo del delito vive una intensa con
 
 La riña es la contienda de obra entre dos o más personas con el propósito de causarse daño.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1182,7 +1182,7 @@ A quien cometa feminicidio se le impondrán de veinte a cincuenta años de prisi
 
 Si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en las fracciones anteriores, se impondrán de treinta a sesenta años de prisión.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO I. PROCREACIÓN ASISTIDA, INSEMINACIÓN ARTIFICIAL Y ESTERILIZACIÓN FORZADA
 
@@ -1238,7 +1238,7 @@ Pare (sic) efectos de este artículo, al que hiciere abortar a una mujer por cua
 
 Si el aborto o aborto forzado lo causare un médico cirujano, comadrón o partera, enfermero o practicante, además de las sanciones que le correspondan conforme a este capítulo, se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 ENERO DE 2004)</small>
 
 ###### ARTÍCULO 148.
 
@@ -1268,7 +1268,7 @@ En los casos contemplados en las fracciones I, II y III, los médicos tendrán l
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA LIBERTAD REPRODUCTIVA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
@@ -1386,7 +1386,7 @@ Si el agente espontáneamente libera a la víctima dentro de las veinticuatro ho
 
 La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de edad o mayor de sesenta años o por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto del agente.
 
-> <small>(DEROGADO QUINTO PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 161.
 
@@ -1416,7 +1416,7 @@ ARTÍCULO 163 BIS. Comete el delito de privación de la libertad en su modalidad
 
 A quien cometa este delito se le impondrá de veinte a cuarenta años de prisión y de quinientos a dos mil días multa. Para el caso de este delito no se aplicará sanción alguna por los delitos de robo o extorsión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE FEBRERO DE 2006)</small>
 
 ###### ARTÍCULO 164.
 
@@ -1580,7 +1580,7 @@ Si la retención o sustracción se realiza en contra de una persona menor de doc
 
 Si la sustracción tiene como propósito incorporar a la persona a círculos de corrupción de menores o traficar con sus órganos, las penas se aumentarán en un tanto.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 173.
 
@@ -1650,7 +1650,7 @@ Si se hiciere uso de violencia física o moral, la pena prevista se aumentará e
 
 Este delito se perseguirá por querella, salvo que concurra violencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 177.
 
@@ -1686,7 +1686,7 @@ VII. Dentro de los centros educativos, culturales, deportivos, religiosos, de tr
 
 VIII. En inmuebles públicos.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO III. PORNOGRAFÍA
 
@@ -1710,7 +1710,7 @@ ARTÍCULO 188 BIS. Al que promueva, facilite, solicite, ofrezca, consiga, trasla
 
 Cuando la víctima del delito sea persona menor de 18 años de edad o persona que no tenga la capacidad de comprender el significado del hecho o persona que no tiene capacidad de resistir la conducta, se aumentarán las penas hasta en una mitad.
 
-(REUBICADO [N. DE E. ANTES CAPITULO III], G.O. 16 DE AGOSTO DE 2007)
+(REUBICADO [N. DE E. ANTES CAPÍTULO III], G.O. 16 DE AGOSTO DE 2007)
 
 ###### ARTÍCULO 180.
 
@@ -1728,7 +1728,7 @@ A los hermanos y a los ascendientes o descendientes consanguíneos en línea rec
 
 Para los efectos de este artículo, cuando uno de los hermanos, ascendiente o descendiente consanguíneo en línea recta sea mayor de dieciocho años de edad y el otro sea menor de doce años, se le aplicará al primero de ocho a veinte años de prisión.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
 ### CAPÍTULO VI. EXPLOTACIÓN LABORAL DE MENORES O PERSONAS CON DISCAPACIDAD FÍSICA O MENTAL
 
@@ -1752,25 +1752,25 @@ ARTÍCULO 190 TER. Cuando el responsable tenga parentesco, conviva o habite ocas
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 182.
 
 Cuando a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores resulten hijos, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE AGOSTO DE 2007)</small>
 
 ## TÍTULO SEXTO
 
 DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD COMETIDOS EN CONTRA DE LAS PERSONAS MAYORES Y MENORES DE DIECIOCHO AÑOS DE EDAD O PERSONAS QUE NO TENGAN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O PERSONAS QUE NO TENGAN LA CAPACIDAD DE RESISTIR LA CONDUCTA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 16 DE AGOSTO DE 2007)</small>
 
 ### CAPÍTULO ÚNICO. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 183.
 
@@ -1805,6 +1805,10 @@ Se impondrán prisión de cinco a siete años y de quinientos a mil días multa,
 I. Emplee directa o indirectamente los servicios de menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, en cantinas, tabernas, bares, centro de vicio, discotecas o cualquier otro lugar nocivo en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional; o
 
 II. Acepte o promueva que su hijo, pupilo o personas que estén bajo su guarda, custodia o tutela, menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, laboren en cantinas, tabernas, bares, centro de vicio, discotecas o cualquier otro lugar nocivo en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+III. Al que organice o realice eventos, reuniones o convivios al interior de inmuebles particulares con la finalidad de obtener una ganancia derivada de la venta y consumo de alcohol, drogas, estupefacientes a menores de 18 años o personas que no tengan la capacidad de comprender el significado del hecho, o personas que no tienen capacidad de resistir la conducta.
 
 Para efectos de este artículo, se considera como empleado a los menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente preste sus servicios en tales lugares.
 
@@ -1898,7 +1902,7 @@ ARTÍCULO 211 BIS. Al que por cualquier medio usurpe, con fines ilícitos, la id
 
 Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
 
-> <small>(DEROGADO [N. DE E. REFORMADA SU DENOMINACION] POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO [N. DE E. REFORMADA SU DENOMINACIÓN] POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ###### ARTÍCULO 191.
 
@@ -1914,7 +1918,7 @@ En todos los casos el juez acordará las medidas para impedir al sujeto activo t
 
 Las sanciones que se señalan en el Título Sexto, del Libro Segundo, se aumentarán en una mitad, cuando el delito sea cometido por una asociación delictuosa.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 22 DE JULIO DE 2005.)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE JULIO DE 2005.)</small>
 
 ## TÍTULO SÉPTIMO. DELITOS QUE ATENTAN CONTRA EL CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
@@ -1932,7 +1936,7 @@ Para los efectos de éste Artículo, se tendrá por consumado el delito aun cuan
 
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario, para efectos de cubrir los alimentos o la reparación del daño, se determinarán con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -1972,7 +1976,7 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en in
 
 Los delitos previstos en este Título se perseguirán por querella.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
 
 ## TÍTULO OCTAVO. DELITOS CONTRA EL DERECHO DE LOS INTEGRANTES DE LA FAMILIA A VIVIR UNA VIDA LIBRE DE VIOLENCIA
 
@@ -2228,11 +2232,11 @@ Los delitos previstos en este Capítulo, se perseguirán por querella.
 
 ### CAPÍTULO ÚNICO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 212.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ### CAPÍTULO I. PORTACIÓN, FABRICACIÓN E IMPORTACIÓN DE OBJETOS APTOS PARA AGREDIR
 
@@ -2244,47 +2248,47 @@ Si el agente conoció o recibió el secreto o comunicación reservada con motivo
 
 Cuando el agente sea servidor público, se le impondrá, además, destitución e inhabilitación de seis meses a tres años.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DELITOS CONTRA EL HONOR
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO II. PANDILLA, ASOCIACIÓN DELICTUOSA Y DELINCUENCIA ORGANIZADA
 
 ###### ARTÍCULO 214.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ###### ARTÍCULO 215.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES SOBRE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 216.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ###### ARTÍCULO 217.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ###### ARTÍCULO 218.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)</small>
 
 ### CAPÍTULO II. EJERCICIO ILEGAL Y ABANDONO DEL SERVICIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 219.
 
-(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCION DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
+(DEROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDAD CIVIL PARA LA PROTECCIÓN DEL DERECHO A LA VIDA PRIVADA, EL HONOR Y LA PROPIA IMAGEN EN EL DISTRITO FEDERAL, G.O. 19 DE MAYO DE 2006)
 
 ## TÍTULO DÉCIMO QUINTO. DELITOS CONTRA EL PATRIMONIO
 
@@ -2348,7 +2352,7 @@ IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
 
 X. (DEROGADA, G.O. 15 DE MAYO DE 2003)
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 224.
 
@@ -2436,7 +2440,7 @@ Se equipara al abuso de confianza, y se sancionará con las mismas penas asignad
 
 ### CAPÍTULO V. USO ILEGAL DE ATRIBUCIONES Y FACULTADES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
 
 ###### ARTÍCULO 230.
 
@@ -2536,7 +2540,7 @@ Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaci
 
 ### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 236.
 
@@ -2580,11 +2584,11 @@ Cuando el delito se cometa en contra de persona mayor de sesenta años de edad o
 
 A quienes cometan en forma reiterada despojo de inmuebles urbanos en el Distrito Federal, se les impondrán de dos a nueve años de prisión y de cien a mil días multa.
 
-> <small>(DEROGADO CUARTO PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
-> <small>(DEROGADO SEXTO PARRAFO, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, G.O. 13 DE ENERO DE 2004)</small>
 
 ### CAPÍTULO X. PECULADO
 
@@ -2608,7 +2612,7 @@ IV. Prisión de tres a siete años y de cuatrocientos a seiscientos días multa,
 
 Cuando los daños sean causados por culpa, sólo se impondrá al responsable multa hasta por el valor de los daños y perjuicios causados, y se le condenará a la reparación de éstos. Si se repara el daño antes de que el Ministerio Público ejercite acción penal, se extinguirá la pretensión punitiva. Se sobreseerá el juicio, si el inculpado repara los daños y perjuicios, antes de que se dicte sentencia en segunda instancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 13 DE MARZO DE 2008)</small>
 
@@ -2618,7 +2622,7 @@ I. Cuando por culpa se ocasione únicamente daño a la propiedad con motivo del 
 
 II. El conductor o conductores involucrados no se encuentren en alguno de los supuestos establecidos en las fracciones I y II del artículo 242 de este Código Penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 241.
 
@@ -2634,7 +2638,7 @@ III. Archivos públicos o notariales;
 
 IV. Bibliotecas, museos, templos, escuelas o edificios, monumentos públicos y aquellos bienes que hayan sido declarados como patrimonio cultural; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2644,9 +2648,9 @@ V. Mieses o cultivos de cualquier género.
 
 Cuando el delito se cometa culposamente, en las hipótesis previstas en este artículo, se impondrá la mitad de las penas a que se refiere el artículo 239 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MARZO DE 2008)</small>
 
 ###### ARTÍCULO 242.
 
@@ -2658,7 +2662,7 @@ II. No auxilie a la víctima del delito o se dé a la fuga.
 
 Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga, o si es servidor público, inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE MARZO DE 2008)</small>
 
@@ -2718,7 +2722,7 @@ El sentenciado ejecutoriado por los delitos de Abuso de Confianza, Fraude, Admin
 
 Para establecer la cuantía que corresponda a los delitos previstos en este Título, así como para la determinación de la multa, se tomará en consideración el salario mínimo vigente en el Distrito Federal, al momento de la ejecución del delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO 248.
 
@@ -2768,9 +2772,9 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 Se impondrán prisión de cuatro a ocho años y de cien a mil días multa al que forme parte de una asociación o banda de tres o más personas con el propósito de delinquir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 254.
 
@@ -2844,19 +2848,19 @@ XVI. Trata de Personas, establecido en el artículo 188 bis de este Código;
 
 XVII. Explotación laboral de menores o personas con discapacidad física o mental, previsto en los artículos 190 bis y 190 ter de este Código;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
 
 XVIII. Encubrimiento por receptación, contemplado en el artículo 243 de este Código; o (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE JULIO DE 2010)</small>
 
 XIX. Encubrimiento por favorecimiento, previsto en el artículo 320 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -2970,7 +2974,7 @@ Al servidor público que con cualquier pretexto obtenga de un subalterno parte d
 
 A los servidores públicos que, con el fin de impedir o suspender las funciones legislativas, administrativas o jurisdiccionales, se coaliguen y tomen medidas contrarias a una ley, reglamento o disposición de carácter general, impidan su aplicación, ejecución o dimitan de sus puestos, se les impondrá prisión de dos a siete años y de cien a trescientos días multa.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO VII. REGLAS COMUNES PARA LOS DELITOS CONTRA EL EJERCICIO LEGÍTIMO DE LA AUTORIDAD
 
@@ -3188,7 +3192,7 @@ III. Se trate de obras de construcción que requiriendo dictamen de impacto urba
 
 Al que ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá de noventa a ciento ochenta días de semilibertad.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 4 DE JUNIO DE 2004)</small>
 
 ### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
@@ -3444,7 +3448,7 @@ Al evadido no se le impondrá pena o medida de seguridad alguna, salvo que obre 
 
 Cuando un particular cometa o participe en alguno de los delitos previsto en este Capítulo, se le impondrá la mitad de las sanciones establecidas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE ENERO DE 2004)</small>
 
 ## TÍTULO VIGÉSIMO PRIMERO
 
@@ -3466,7 +3470,7 @@ Quien al declarar ante autoridad en ejercicio de sus funciones o con motivo de e
 
 Si la falsedad en declaración se refiere a las circunstancias o accidentes de los hechos que motivan la intervención de la autoridad, la pena será de uno a tres años de prisión y de cincuenta a ciento cincuenta días multa.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JUNIO DE 2006)</small>
 
 ###### ARTÍCULO 312.
 
@@ -3492,9 +3496,9 @@ Además de las penas a que se refieren los artículos anteriores, se suspenderá
 
 ### CAPÍTULO I. DELITOS CONTRA EL AMBIENTE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 317.
 
@@ -3604,7 +3608,7 @@ Al médico o enfermera que suministre un medicamento evidentemente inapropiado e
 
 A los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud o cause daño, o sea evidentemente inapropiada al padecimiento para el que se prescribió, se les impondrán seis meses a dos años de prisión y de cincuenta a doscientos días multa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
@@ -3652,7 +3656,7 @@ A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, informac
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA FE PÚBLICA
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 335.
 
@@ -3734,11 +3738,11 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 Se impondrán de uno a tres años de prisión y de cincuenta a mil días multa al que, para obtener un beneficio o causar un daño, indebidamente produzca o edite, por cualquier medio técnico, imágenes, textos o voces, total o parcialmente falsos o verdaderas.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
 
-> <small>(REFORMADA SU NUMERACION Y DENOMINACION, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
 ###### ARTÍCULO 343.
 
@@ -3764,15 +3768,15 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando la ocupación o invasión se realice con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 343 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, a quien dolosamente haga un uso distinto al permitido del uso de suelo u obtenga un beneficio económico derivado de éstas conductas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 Las penas previstas en el párrafo anterior se aumentarán en una tercera parte, cuando la conducta se lleve a cabo en, o afecte cualquiera de los siguientes lugares:
 
@@ -3792,27 +3796,27 @@ III.- Una barranca; o
 
 IV.- Un área verde en suelo urbano.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
 Las penas previstas en este artículo se disminuirán en una mitad cuando, las actividades realizadas, aún siendo diferentes a las previstas en el uso de suelo correspondiente, se encuentren previstas en el programa o programas de ordenamiento ecológico del Distrito Federal, o en el Programa o Programas de Desarrollo Urbano aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ###### ARTÍCULO 344.
 
 Se le impondrán de 1 a 5 años de prisión y de 300 a 1,500 días multa, a quien descargue o deposite hasta un metro cúbico de residuos sólidos de la industria de la construcción en algún lugar no autorizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
 Se le impondrán de 3 a 9 años de prisión y de 1,000 a 5,000 días multa, a quien descargue o deposite más de un metro cúbico de residuos sólidos de la industria de la construcción en algún lugar no autorizado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -3822,9 +3826,9 @@ Las mismas penas señaladas en el presente artículo se aplicarán a quien trans
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 344 BIS. Se le impondrán de 6 meses a 5 años de prisión y de 500 a 2,000 días multa, a quien extraiga suelo o cubierta vegetal, piedra o tierra natural, por un volumen igual o mayor a dos metros cúbicos, de:
 
@@ -3860,13 +3864,13 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
 
 ARTÍCULO 345 BIS. Se le impondrán de tres meses a cinco años de prisión y de 500 a 2,000 días multa, al que derribe, tale, o destruya parcialmente u ocasione la muerte de uno o más árboles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -3886,7 +3890,7 @@ V. En un área verde en suelo urbano.
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -3946,19 +3950,19 @@ Se le impondrán de seis meses a cinco años de prisión y de 500 a 2,000 días 
 
 ARTÍCULO 347 BIS. Se le impondrán de tres a nueve años de prisión y de 1,000 a 5,000 días multa, al que:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 I. Altere, permita la alteración u opere en forma indebida cualquier equipo o programa utilizado para la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 II. Venda uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Distrito Federal; o
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -3968,13 +3972,13 @@ III. Posea o use un documento que acredite la aprobación de la verificación ve
 
 ARTÍCULO 347 TER. Se le impondrán de seis meses a tres años de prisión y de 20 a 500 días multa:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
 I. Al propietario, responsable, técnico, empleado o prestador de servicios, dentro de los centros de verificación vehicular, que por sí o por interpósita persona, solicite o reciba dinero o cualquier otra dádiva para la aprobación de la verificación vehicular, o por cualquier motivo cobre una cantidad superior a la autorizada oficialmente; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -3998,7 +4002,7 @@ El Juez, de oficio o a petición de parte, podrá reducir las penas correspondie
 
 A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo dictamen técnico favorable emitido por la autoridad ambiental competente en el Distrito Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4022,7 +4026,7 @@ II. La suspensión, modificación o demolición de las construcciones, obras o a
 
 ARTÍCULO 349 BIS. Tratándose de los delitos previstos en este título, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -4234,7 +4238,7 @@ POR LA MESA DIRECTIVA.- DIP. HIRAM ESCUDERO ÁLVAREZ, PRESIDENTE.- SECRETARIA, D
 
 En cumplimiento a lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Ciudad de México, a los once días del mes de julio del dos mil dos.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL.- LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTÍZ PINCHETTI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.O. 3 DE OCTUBRE DE 2002.
 
@@ -4296,7 +4300,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 G.O. 15 DE SEPTIEMBRE DE 2004.
 
-DECRETO QUE REFORMA DIVERSOS ARTICULOS DEL NUEVO CODIGO PENAL PARA EL D.F.
+DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL NUEVO CÓDIGO PENAL PARA EL D.F.
 
 PRIMERO. Remítase al Jefe de Gobierno para su debida promulgación y Publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4306,7 +4310,7 @@ TERCERO. Se derogan todas aquellas disposiciones que sean contrarias a lo dispue
 
 G.O. 15 DE SEPTIEMBRE DE 2004.
 
-DECRETO QUE REFORMA ARTS. 254 Y 255 DEL NUEVO CODIGO PENAL PARA EL D.F.
+DECRETO QUE REFORMA ARTS. 254 Y 255 DEL NUEVO CÓDIGO PENAL PARA EL D.F.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
@@ -4340,13 +4344,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 
 G.O. 22 DE JULIO DE 2005.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 188 Y SE ADICIONA EL 188 BIS DEL NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 188 Y SE ADICIONA EL 188 BIS DEL NUEVO CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese en el Diario Oficial de la Federación.
 
 G.O. 22 DE JULIO DE 2005.
 
-DECRETO QUE ADICIONA AL TITULO SEXTO DEL NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL, UN CAPITULO CUARTO, CON DOS ARTICULOS.
+DECRETO QUE ADICIONA AL TÍTULO SEXTO DEL NUEVO CÓDIGO PENAL PARA EL DISTRITO FEDERAL, UN CAPÍTULO CUARTO, CON DOS ARTÍCULOS.
 
 PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y debido cumplimiento.
 
@@ -4358,7 +4362,7 @@ CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida ob
 
 G.O. 22 DE JULIO DE 2005.
 
-DECRETO QUE MODIFICA LA DENOMINACION DEL CAPITULO CUARTO DEL TITULO SEXTO, RELATIVO A LOS DELITOS CONTRA LA MORAL PUBLICA, DEL NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO QUE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO SEXTO, RELATIVO A LOS DELITOS CONTRA LA MORAL PÚBLICA, DEL NUEVO CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4402,7 +4406,7 @@ QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor d
 
 G.O. 9 DE JUNIO DE 2006.
 
-DECRETO QUE MODIFICA DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO QUE MODIFICA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial del Distrito Federal.
 
@@ -4412,7 +4416,7 @@ TERCERO. En todos los ordenamientos legales a que se haga referencia al Nuevo C�
 
 G.O. 9 DE JUNIO DE 2006.
 
-DECRETO QUE ADICIONA UN ARTICULO 75 BIS AL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO QUE ADICIONA UN ARTÍCULO 75 BIS AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en la Gaceta Oficial del Distrito Federal.
 
@@ -4420,7 +4424,7 @@ SEGUNDO. Para su mayor difusión publíquese también en el Diario Oficial de la
 
 G.O. 9 DE JUNIO DE 2006.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS AL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4548,7 +4552,7 @@ Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE CREA EL CAPITULO III EN EL TITULO DECIMO SEGUNDO DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE CREA EL CAPÍTULO III EN EL TÍTULO DÉCIMO SEGUNDO DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4556,7 +4560,7 @@ SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 254 DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 254 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguiente (sic) a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
@@ -4564,7 +4568,7 @@ SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario O
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 187 Y 188 DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 187 Y 188 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4572,7 +4576,7 @@ Segundo.- Publíquese para su mayor difusión en el Diario Oficial de la Federac
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTICULO 173 DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 173 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -4580,7 +4584,7 @@ SEGUNDO.- Publíquese el presente en la Gaceta Oficial del Distrito Federal y en
 
 G.O. 19 DE JULIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 54, 55 Y 250 DEL CODIGO PENAL PARA EL DISTRITO FEDERAL.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 54, 55 Y 250 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
@@ -4663,3 +4667,9 @@ Primero.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor 
 Segundo.- El presente Decreto entrará en vigor a los 30 días siguientes de su publicación.
 
 Tercero.- Se concede un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento del Registro Civil.
+
+G.O. 3 DE ABRIL DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
