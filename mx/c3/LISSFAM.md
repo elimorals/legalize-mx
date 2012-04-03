@@ -4,7 +4,7 @@ identifier: "LISSFAM"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-09"
-last_updated: "2011-02-04"
+last_updated: "2012-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32514&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSFAM"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 9 de julio de 2003.
 
@@ -216,9 +216,9 @@ V. Conocer y determinar los montos máximos de los créditos que se otorguen, as
 
 VI. Autorizar créditos a plazo mayor de 10 y hasta 20 años con cargo al Fondo de la Vivienda para los miembros del activo del Ejército, Fuerza Aérea y Armada cuando se destinen a la adquisición o construcción de casas habitación. La Junta Directiva tendrá también facultad para autorizar créditos a plazo menor de 10 años cuando se destinen a la reparación, ampliación o mejoramiento de las casas habitación o al pago de los pasivos en los términos del inciso c) de la fracción II del artículo 100 de esta Ley;
 
-> <small>(REFORMADA, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2012)</small>
 
-VII. Aprobar y poner en vigor el Reglamento Interno y expedir los manuales, normas y procedimientos que se hagan necesarios para el adecuado funcionamiento del Instituto;
+VII. Aprobar y poner en vigor el Estatuto Orgánico y expedir los manuales, normas y procedimientos que se hagan necesarios para el adecuado funcionamiento del Instituto;
 
 VIII. Establecer o suprimir delegaciones del Instituto en los estados;
 
@@ -360,6 +360,10 @@ Las Secretarías de la Defensa Nacional y de Marina, tramitarán ante el Institu
 
 Es facultad del militar afiliar a sus derechohabientes y designar a sus beneficiarios, y su obligación mantener actualizada dicha afiliación y designación.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+
+El Instituto afiliará a los hijos menores del militar, con la sola presentación de copia certificada del acta de nacimiento del hijo de que se trate, o por mandamiento judicial.
+
 ###### Artículo 20.
 
 El Instituto expedirá a los demás beneficiarios de esta Ley una Cédula de Identificación a fin de que puedan ejercitar los derechos que legalmente les correspondan. En caso de que el beneficiario carezca de esa Cédula, se proporcionará el servicio médico quirúrgico mediante la exhibición de una constancia provisional que expedirá el Instituto o las Secretarías de la Defensa Nacional y de Marina, en su caso, con la sola comprobación de la relación familiar, sin perjuicio de atender de inmediato los casos de extrema urgencia, a reserva de probar posteriormente el derecho que les asiste.
@@ -374,7 +378,7 @@ Situación de retiro es aquella en que son colocados, mediante órdenes expresas
 
 Haber de retiro es la prestación económica vitalicia a que tienen derecho los militares retirados en los casos y condiciones que fija esta Ley. Una vez integrado el haber de retiro en los términos del artículo 31 de la presente Ley, será considerado como un solo concepto para todos los efectos legales.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 > <small>(F. DE E., D.O.F. 24 DE FEBRERO DE 2004)</small>
 
@@ -538,9 +542,31 @@ I. Haber de retiro, se tomará como base el porcentaje del haber del grado con q
 
 II. La compensación por tiempo de servicios o por fallecimiento, se integrará con los conceptos señalados en la fracción I, tomando como base el haber del grado que haya ostentado el militar en servicio activo;
 
-III. A los militares que pasan a situación de retiro con 30 ó más años de servicios efectivos, se les fijará el haber de retiro como se indicó en la fracción I, aumentando los porcentajes que se indican en la tabla siguiente:
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2012)</small>
+
+III. A los militares que pasan a situación de retiro y se les computen 20 o más años de servicios efectivos, se les fijará el haber de retiro como se indicó en la fracción I, aumentando los porcentajes que se indican en la tabla siguiente:
 
 Años de servicios Tanto por ciento
+
+20 50%
+
+21 51%
+
+22 52%
+
+23 53%
+
+24 54%
+
+25 55%
+
+26 56%
+
+27 57%
+
+28 58%
+
+29 59%
 
 30 60%
 
@@ -740,6 +766,10 @@ Los familiares mencionados en cada una de las fracciones del artículo anterior,
 
 Los familiares del militar muerto en el activo en actos del servicio o como consecuencia de ellos, tienen derecho a una pensión equivalente al 100% del haber del grado que le hubiera correspondido para efectos de retiro y el 100% del sobrehaber, de las primas complementarias por condecoración de perseverancia y de las asignaciones de técnico que estuviere percibiendo el militar al ocurrir el fallecimiento. En caso de que haya fallecido fuera de actos del servicio, los familiares tendrán derecho a una pensión o compensación integrada como lo señala el artículo 31 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+
+En el supuesto de que el militar haya muerto en acción de armas, la pensión en ningún momento será inferior al equivalente a 180 días de salario mínimo vigente en el Distrito Federal.
+
 Se considerará como consecuencia de actos del servicio, el fallecimiento del militar durante el traslado de su domicilio al lugar donde prestaba sus servicios o viceversa.
 
 ###### Artículo 41.
@@ -904,7 +934,7 @@ b) Por causar baja del activo y alta en situación de retiro por incapacidad cla
 
 II. En caso de fallecimiento del militar en situación de retiro que estuviere percibiendo haber de retiro, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de su haber de retiro, siendo entregado el importe respectivo directamente a sus beneficiarios;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 III. En caso de fallecimiento o incapacidad en primera o en segunda categoría, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, contraída en actos del servicio o como consecuencia de ellos, el Instituto pagará por concepto de suma asegurada el equivalente a cuarenta meses de haberes y sobrehaber mínimo vigente para las Fuerzas Armadas que corresponda a los siguientes miembros:
 
@@ -1054,7 +1084,7 @@ c) Identificación oficial del o los beneficiarios.
 
 d) Comprobante del último pago de la prima correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 IV. Para el pago de la suma asegurada por incapacidad clasificada en primera o segunda categoría en actos del servicio o como consecuencia de ellos de los militares en activo, de conformidad con las tablas contenidas en el artículo 226 de esta Ley, y que causen alta en situación de retiro con derecho a percibir haber de retiro:
 
@@ -1342,6 +1372,10 @@ Los recursos del fondo se destinarán:
 
 I. Al otorgamiento de créditos a los militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes, que sean titulares de depósitos constituidos a su favor en el Instituto. El importe de estos créditos deberá aplicarse conforme al artículo 100, fracción II, de esta Ley;
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+
+En caso de fallecimiento de un militar o de incapacidad en primera o segunda categorías, en acción de armas, sin importar el número de años de servicios y de los depósitos que haya constituido a su favor, a la viuda o viudo, concubina o concubinario con derecho a pensión o al militar incapacitado con haber de retiro, se les podrá otorgar un crédito hipotecario a juicio de la Junta Directiva del Instituto, en los mismos términos y condiciones que al resto de los militares en activo del Ejército, Fuerza Aérea y Armada.
+
 II. Al financiamiento de la construcción de conjuntos habitacionales para ser adquiridos por militares en activo del Ejército, Fuerza Aérea y Armada que estén percibiendo haberes mediante créditos que les otorgue el Instituto con cargo al fondo. Estos financiamientos sólo se concederán por concurso tratándose de programas habitacionales aprobados por el Instituto y que se ajusten a las disposiciones aplicables en materia de construcción.
 
 El Instituto en todos los financiamientos que otorgue con cargo al fondo, para la realización de conjuntos habitacionales, establecerá la obligación para quienes los construyan, de adquirir con preferencia, los materiales que provengan de empresas ejidales, cuando se encuentren de igual o mejor calidad y precio a los que ofrezcan otros proveedores.
@@ -1412,7 +1446,9 @@ Para otorgar y fijar los créditos a los militares en el activo se tomará en cu
 
 I. Tiempo de servicios;
 
-II. Tener depósitos al fondo de por lo menos 10 años a su favor;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2012)</small>
+
+II. Tener depósitos al fondo de por lo menos 6 años a su favor, excepción hecha de los casos previstos en el párrafo segundo de la fracción I del artículo 102 de esta Ley;
 
 III. Antecedentes militares;
 
@@ -1574,9 +1610,11 @@ Se establecerán en las unidades habitacionales, centros de servicios económico
 
 Con la finalidad de proporcionar hospedaje a militares en tránsito con motivo del servicio y servicios turísticos de bajo costo a los beneficiarios de esta Ley, el Instituto acorde con su capacidad pecuniaria y en coordinación con las Secretarías de la Defensa Nacional y de Marina, establecerá hoteles cuya organización, funcionamiento y cuotas serán fijadas por el Reglamento respectivo.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+
 ###### Artículo 135.
 
-El Instituto establecerá casas hogar en poblaciones adecuadas por sus medios de comunicación, buen clima y otros atractivos, en la medida de sus posibilidades económicas, para que los militares retirados que lo soliciten, las habiten previo el cumplimiento de los requisitos que se fijen y el pago de una cuota mensual, cuyo monto satisfaga los gastos de administración y asistencia.
+El Instituto establecerá casas hogar en poblaciones adecuadas por sus medios de comunicación, buen clima y otros atractivos, en la medida de sus posibilidades económicas, para que los militares retirados que lo soliciten, las habiten por sí solos o con su cónyuge, concubina o concubinario previo al cumplimiento de los requisitos que se fijen y el pago de una cuota mensual por cada uno de los usuarios, cuyo monto satisfaga los gastos de administración y asistencia.
 
 ###### Artículo 136.
 
@@ -1610,7 +1648,7 @@ El Instituto cooperará con las Secretarías de la Defensa Nacional y de Marina 
 
 ### Capítulo Sexto: Servicio Médico Integral.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 142.
 
@@ -1866,7 +1904,7 @@ IV. Con copia certificada del acta de defunción.
 
 La muerte por causas ajenas al servicio se acreditará únicamente con la copia certificada del acta de defunción expedida por el Registro Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 171.
 
@@ -1880,7 +1918,7 @@ III. Con un certificado médico en el que se haga constar la inutilización, as�
 
 IV. A falta de los documentos a que se refieren las tres fracciones anteriores, con los medios de prueba que establece el Código Federal de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 172.
 
@@ -1892,7 +1930,7 @@ II. Con los documentos que acrediten que el militar estaba sano al ingresar al a
 
 III. Con el dictamen pericial emitido por dos médicos militares o navales que establezcan la relación de causalidad entre el servicio y la enfermedad debiendo practicarse el reconocimiento en hospitales y por médicos especialistas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 173.
 
@@ -2014,7 +2052,7 @@ III. Cuando el militar esté tomando parte en una campaña, esté próxima a abr
 
 IV. Cuando por disposición legal o por compromiso suscrito por el militar, éste deba prestar determinado tiempo de servicios, después de haber terminado o interrumpido un curso superior, de formación, de aplicación y perfeccionamiento, capacitación, especialización o actualización en algún establecimiento nacional o extranjero.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 186.
 
@@ -2056,7 +2094,7 @@ Para la comprobación de la causa de retiro voluntario y la cuantificación del 
 
 Esta ineficacia no invalidará los actos derivados de tales cómputos ajenos al trámite de retiro actual. Sólo se les reconocerá plena eficacia dentro del trámite de retiro y de beneficio de retiro, a los cómputos de tiempo de servicios que hayan servido de base a retiros anteriores; en tales casos, los cómputos anteriores no podrán ser modificados por ningún motivo, sumándose su resultado al tiempo posterior a la fecha de reingreso al activo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 192.
 
@@ -2068,7 +2106,7 @@ Reunidos los elementos de convicción necesarios, la Dirección encargada de tra
 
 Las objeciones sólo podrán referirse a la inexistencia de personalidad militar y la jerarquía o cómputo de servicios, en su caso, de la persona señalada por los familiares.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 193.
 
@@ -2088,7 +2126,7 @@ Cuando en las declaraciones de la Dirección encargada de tramitar administrativ
 
 Cuando estando concluido el trámite conforme al procedimiento establecido en esta Ley, existan pruebas supervenientes con las que se acredite que la incapacidad o fallecimiento fue consecuencia de los actos a que se refiere el artículo 168 de esta Ley, las Secretarías de origen por conducto de sus Direcciones encargadas de tramitar administrativamente los retiros respectivamente, tendrán la obligación de rectificar la resolución definitiva que se haya emitido para el trámite inicial para efectos de que se le otorgue el beneficio económico que le corresponda con apego a la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 196.
 
@@ -2108,7 +2146,7 @@ En tanto se llevan a cabo los trámites a que se refiere el artículo 196 de la 
 
 Al efectuarse la liquidación correspondiente, de la cantidad que debe percibirse, se descontará la cantidad que les ha sido cubierta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 198.
 
@@ -2208,9 +2246,11 @@ Los derechos fijados en esta Ley, sólo se modificarán o declararán insubsiste
 
 Las anteriores resoluciones, junto con toda la documentación del caso, serán remitidas de oficio a la Secretaría de Hacienda y Crédito Público, para los efectos de su aprobación y ejecución correspondiente.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2012)</small>
+
 ###### Artículo 214.
 
-Las controversias judiciales que surjan sobre la aplicación de esta Ley, así como todas aquellas en que el Instituto tuviere el carácter de actor o demandado, serán de la competencia de los Tribunales Federales.
+Las controversias que surjan sobre la aplicación de esta Ley, así como aquellas en que el Instituto tuviere el carácter de actor o demandado, serán de la competencia de los Tribunales Federales, a excepción de aquellos asuntos que atendiendo a su naturaleza sean competencia de los Tribunales Locales.
 
 ###### Artículo 215.
 
@@ -2240,7 +2280,7 @@ Las responsabilidades de los funcionarios y empleados del Instituto, se normará
 
 El Gobierno Federal aportará al Instituto y al Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, las cantidades necesarias para cumplir las obligaciones que impone esta Ley, respecto a las siguientes prestaciones: seguro de vida militar, pagas de defunción, ayuda para gastos de sepelio, fondo de trabajo y fondo de ahorro.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 221.
 
@@ -2266,7 +2306,7 @@ El Instituto se presume de acreditada solvencia, por lo que no estará obligado 
 
 No obstante su plena capacidad para actuar en juicio, el Instituto no podrá desistir de continuar ninguna acción judicial cuando se trate de asuntos que afecten a su patrimonio, si no media para ello autorización expresa de su Junta Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 226.
 
@@ -2528,7 +2568,7 @@ d. De tres dedos de la mano dominante que no incluyan el pulgar.
 
 122. Otras alteraciones o estados que se constituyen con la suma de diversas categorías o trastornos funcionales, y que a criterio médico ocasionen incapacidades mayores al 60% de función en relación a la actividad del sujeto.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Segunda Categoría
 
@@ -2630,7 +2670,7 @@ d) De todos los dedos de un pie.
 
 45. (DEROGADO, D.O.F. 20 DE NOVIEMBRE DE 2008)
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Tercera Categoría
 
@@ -2744,9 +2784,9 @@ b) Del cuarto y quinto dedos de la mano dominante.
 
 53. Las alteraciones permanentes anatómicas o funcionales de los diversos aparatos o sistemas, que disminuyan la capacidad funcional del individuo entre el 20% y el 40% y que no han quedado comprendidas en esta categoría, o que se constituyan con los diversos grados de ella.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 Lista de padecimientos que por producir trastornos funcionales de menos del 20% ameritan cambio de Arma o Servicio a petición de un Consejo Médico.
 
@@ -2798,7 +2838,7 @@ b) De falange distal de uno o de ambos pulgares.
 
 20. Las alteraciones permanentes, anatómicas o funcionales, de los diversos aparatos y sistemas, que disminuyen la capacidad funcional del individuo entre el 10% y el 20% y que no han quedado comprendidas en esta categoría.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 227.
 
@@ -2907,3 +2947,35 @@ TERCERO. Se derogan las disposiciones que se opongan al presente ordenamiento, q
 D.O.F. 4 DE FEBRERO DE 2011.
 
 Único. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el transitorio siguiente.
+
+SEGUNDO.- Los militares que pasen a situación de retiro y los que se encuentren en dicha situación con 20 hasta 29 años de servicios efectivos, a partir del mes de enero de 2016 percibirán su haber de retiro con el total del porcentaje adicional que se establece en la fracción III del artículo 31, para dicho efecto, a partir del mes de enero de 2012 se aplicará al monto del haber de retiro integrado con la suma de los conceptos a los que se refiere la fracción I del citado numeral, el porcentaje que para cada año se indica en la tabla siguiente:
+
+Años de
+
+servicios 2012 2013 2014 2015 2016
+
+20 12.00% 20.00% 30.00% 40.00% 50.00%
+
+21 12.00% 20.00% 30.00% 40.00% 51.00%
+
+22 12.00% 20.00% 30.00% 40.00% 52.00%
+
+23 12.00% 20.00% 30.00% 40.00% 53.00%
+
+24 12.00% 20.00% 30.00% 40.00% 54.00%
+
+25 12.00% 20.00% 30.00% 42.00% 55.00%
+
+26 12.00% 20.00% 30.00% 42.00% 56.00%
+
+27 12.00% 20.00% 30.00% 42.00% 57.00%
+
+28 12.00% 20.00% 30.00% 44.00% 58.00%
+
+29 12.00% 20.00% 30.00% 44.00% 59.00%
+
+TERCERO. El porcentaje correspondiente al año 2012, será proporcionado del presupuesto de las Secretarías de la Defensa Nacional y de Marina, según corresponda.
