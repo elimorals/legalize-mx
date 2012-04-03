@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-propiedad-en-condominio-de-inmuebles-para-el-78798"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-27"
-last_updated: "2011-01-27"
+last_updated: "2012-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78798&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-20"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2011.
 
@@ -68,13 +68,17 @@ ADMINISTRADOR PROFESIONAL: Persona física o moral, que demuestre capacidad y co
 
 ÁREAS Y BIENES DE USO COMUN: Son aquellos que pertenecen en forma proindiviso a los condóminos y su uso estará regulado por esta Ley, su Reglamento, la Escritura Constitutiva y el Reglamento Interno.
 
-ASAMBLEA GENERAL: Es el órgano máximo del condominio, que constituye la máxima instancia en la toma de decisiones celebrada en los términos de la presente Ley, su Reglamento, Escritura Constitutiva y el Reglamento Interno, se expresan y discuten asuntos de interés propio y de interés común.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+ASAMBLEA GENERAL: Es el órgano del condómino, que constituye la máxima instancia en la toma de decisiones para expresar, discutir y resolver asuntos de interés propio y común, celebrada en los términos de la presente Ley, su Reglamento, Escritura Constitutiva y el Reglamento Interno.
 
 CONDOMINIO: Inmueble cuya propiedad pertenece proindiviso a varias personas, que reúne las condiciones y características establecidas en el Código Civil para el Distrito Federal.
 
 CONDÓMINO: Persona física o moral, propietaria de una o más unidades de propiedad privativa y, para los efectos de esta Ley, y su Reglamento, a la que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario bajo el régimen de propiedad en condominio.
 
-COMITÉ DE VIGILANCIA: Órgano de control y vigilancia integrado por condóminos electos en la Asamblea General, cuyo cometido entre otros, es vigilar, evaluar y dictaminar el puntual desempeño de las tareas del Administrador, así como la ejecución de los acuerdos y decisiones tomados por la Asamblea General en torno a todos los asuntos comunes del condominio.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+COMITÉ DE VIGILANCIA: Órgano de control integrado por condóminos electos en la Asamblea General, cuyo cometido entre otros, es vigilar, evaluar y dictaminar el puntual desempeño de las tareas del administrador, así como la ejecución de los acuerdos y decisiones tomados por la Asamblea General en torno a todos los asuntos comunes del condómino.
 
 COMITÉS: Están formados por condóminos o poseedores de unidades de propiedad privativa que se organiza para realizar actividades que atienden algunos servicios complementarios ambientales, preventivos contra siniestros y promueven la cultura condominal en beneficio de la comunidad. Son instancias de autogestión, atemporales y no obligatorias, su número integrante varía, y se conforman entorno a objetivos concretos.
 
@@ -112,7 +116,9 @@ REGLAMENTO: Es el Reglamento de la Ley de Propiedad en Condominio de Inmuebles p
 
 SANCIÓN: Multa o medida de apremio impuesta al condómino o poseedor que viole esta Ley, su Reglamento, la Escritura Constitutiva, el Reglamento Interno y demás leyes aplicables.
 
-SESIONES DEL CONSEJO: Mecanismo de toma de decisiones conforme a las facultades otorgadas en la Asamblea General del condominio subdividido y/o conjunto condominal, cuyas sesiones podrán ser ordinarias o extraordinarias.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+SESIONES DEL CONSEJO DE ADMNISTRADORES (SIC): Mecanismo de coordinación conforme a las facultades otorgadas en la Asamblea General del condominio subdividido y/o conjunto condominal, cuyas sesiones podrán ser ordinarias o extraordinarias.
 
 UNIDAD DE PROPIEDAD PRIVATIVA: Es el departamento, vivienda, local, áreas, naves y elementos anexos que le correspondan, tales como estacionamiento, cuarto de servicio, jaulas de tendido, lavaderos y cualquier otro elemento que no sean áreas y bienes de uso común sobre el cual el condómino tiene un derecho de propiedad y de uso exclusivo, siempre que esté así establecido en la Escritura Constitutiva e Individual.
 
@@ -176,7 +182,9 @@ En ningún caso podrá el constituyente del Régimen de Propiedad en Condominio 
 
 Para constituir el Régimen de Propiedad en Condominio, el propietario o propietarios deberán manifestar su voluntad en Escritura Pública, en la cual se hará constar:
 
-I.- El título de propiedad y la manifestación de Construcción Tipo B o C y/o Licencia de Construcción especial en su caso, con sus respectivas autorizaciones de uso y ocupación; o a falta de éstas la constancia de regularización de construcción;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+I.- El título de propiedad y el registro de la manifestación de Construcción Tipo B ó C ó la Licencia de Construcción especial en su caso, con sus respectivas autorizaciones de uso y ocupación; o a falta de éstas la constancia de regularización de construcción.
 
 II.- La descripción de cada unidad de propiedad privativa; número, ubicación, colindancias, medidas, áreas y espacios para estacionamiento de uso exclusivo, si los hubiera, que lo componen más el porcentaje de indiviso que le corresponde;
 
@@ -186,7 +194,9 @@ IV.- El valor nominal asignado a cada unidad de propiedad privativa y su porcent
 
 V.- El uso y las características generales del condominio de acuerdo a lo establecido en los artículos 5 y 6 de esta Ley, el uso y destino de cada unidad de propiedad privativa;
 
-VI.- La descripción de las áreas y bienes de uso común, destino, especificaciones, ubicación, medidas, componentes y colindancias y todos aquellos datos que permitan su fácil identificación, y en su caso las descripciones de las áreas comunes sobre las cuales se puede asignar un uso exclusivo a alguno o algunos de los condóminos, y en este caso las reglas para dichas asignaciones;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+VI.- La descripción de las áreas y bienes de uso común, destino, especificaciones, ubicación, medidas, componentes y colindancias y todos aquellos datos que permitan su identificación, y en su caso las descripciones de las áreas comunes sobre las cuales se puede asignar un uso exclusivo a alguno o algunos de los condóminos, y en este caso se reglamentaran dichas asignaciones;
 
 VII.- Los casos y condiciones en que pueda ser modificada la escritura constitutiva del Régimen y el reglamento interno;
 
@@ -204,9 +214,11 @@ La Escritura Constitutiva del Régimen de Propiedad en Condominio de Inmuebles, 
 
 Cualquier modificación a la Escritura Constitutiva y su Reglamento Interno, se acordará en Asamblea General Extraordinaria, a la que deberán asistir por lo menos la mayoría simple de los condóminos; sin embargo, para su modificación se deberá requerir un mínimo de votos que representen el 75 % del valor total del condominio. En caso de que alguno de los instrumentos mencionados sufra alguna modificación, éste deberá ser notificado a la Procuraduría.
 
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
 ###### Artículo 12.
 
-En todo contrato de adquisición de los derechos de una unidad de propiedad privativa, se hará constar que se entregó al interesado una copia simple de la Escritura Constitutiva y copia del Reglamento Interno.
+En toda escritura de adquisición de una unidad de propiedad privativa, se hará constar que se entregó al interesado una copia simple de la Escritura Constitutiva y Reglamento Interno, asimismo que tiene conocimiento pleno de lo señalado en el artículo 28 de esta Ley.
 
 ###### Artículo 13.
 
@@ -226,9 +238,11 @@ Se considerarán como partes integrantes del derecho de propiedad y de uso exclu
 
 El derecho de copropiedad de cada condómino sobre las áreas y bienes de uso común será proporcional al indiviso de su unidad de propiedad privativa, fijada en la escritura constitutiva del condominio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2012)</small>
+
 ###### Artículo 16.
 
-Cada condómino, poseedor y en general los ocupantes del condominio deberán usar todos los bienes comunes incluidas las áreas verdes y gozar de los servicios e instalaciones generales, conforme a su naturaleza y destino, sin restringir o hacer más gravoso el derecho de los demás, pues en caso contrario se le aplicarán las sanciones previstas en esta Ley, sin perjuicio de las responsabilidades del orden civil o penal en que pueda incurrir.
+Cada condómino, poseedor y en general los ocupantes del condominio tiene el derecho del uso de todos los bienes comunes incluidas las áreas verdes y gozar de los servicios e instalaciones generales, conforme a su naturaleza y destino, sin restringir o hacer más gravoso el derecho de los demás, pues en caso contrario se le aplicarán las sanciones previstas en esta Ley, sin perjuicio de las responsabilidades del orden civil o penal en que pueda incurrir.
 
 Si existiera una afectación a las áreas verdes, el administrador, condóminos o poseedores, deberán dar aviso a la Procuraduría Ambiental
 
@@ -236,7 +250,9 @@ Son derechos de los condóminos y poseedores:
 
 I. Contar con el respeto de los demás condóminos sobre su unidad de propiedad privativa;
 
-II. Participar con voz y voto en las asambleas generales de condóminos, de conformidad con el artículo 38 de la presente ley;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+II. Participar con voz y voto en las asambleas generales de condóminos, de conformidad con el artículo 31 de la presente ley;
 
 III. Usar y disfrutar en igualdad de circunstancias y en forma ordenada, las áreas y bienes de uso común del condominio, sin restringir el derecho de los demás;
 
@@ -248,7 +264,9 @@ VI. Acudir ante la Procuraduría, para solicitar su intervención por violacione
 
 VII. Denunciar ante las autoridades competentes, hechos posiblemente constitutivos de algún delito, en agravio del condominio o conjunto condominal;
 
-VII (SIC). Cada propietario podrá realizar las obras y reparaciones necesarias al interior de su unidad de propiedad privativa, quedando prohibida toda modificación o innovación que afecte la estructura, muros de carga u otros elementos esenciales del edificio o que puedan poner en peligro la estabilidad, seguridad, salubridad o comodidad del mismo; de conformidad con la (sic) leyes y reglamentos correspondientes.
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+VIII. Cada propietario podrá realizar las obras y reparaciones necesarias al interior de su unidad de propiedad privativa, quedando prohibida toda modificación o innovación que afecte la estructura, muros de carga u otros elementos esenciales del edificio o que puedan poner en peligro la estabilidad, seguridad, salubridad o comodidad del mismo; de conformidad con las leyes y reglamentos correspondientes.
 
 ###### Artículo 17.
 
@@ -258,13 +276,17 @@ Cada condómino, y en general los habitantes del condominio, usarán su unidad d
 
 Cuando un condómino no ejerza sus derechos o renuncie a usar determinadas áreas y bienes de uso común, no es causa excluyente para cumplir con las obligaciones que le impone ésta Ley, su Reglamento, la Escritura Constitutiva, el Reglamento Interno y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE ABRIL DE 2012)</small>
+
 ###### Artículo 19.
 
-El condómino puede usar, gozar y disponer de su unidad propiedad (sic) privativa, con las limitaciones y modalidades de esta Ley, su Reglamento, la Escritura Constitutiva, el Reglamento Interno y demás leyes aplicables
+El condómino puede usar, gozar y disponer de su unidad de propiedad privativa, con las limitaciones y modalidades de esta Ley, su Reglamento, la Escritura Constitutiva, el Reglamento Interno y demás leyes aplicables.
 
 El condómino, poseedor o cualquiera otro cesionario del uso convendrán entre sí quién debe cumplir determinadas obligaciones ante los demás condóminos y en qué caso el usuario tendrá la representación del condómino en las asambleas que se celebren, pero en todo momento el usuario será solidario de las obligaciones del condómino.
 
-Ambos harán oportunamente las notificaciones correspondientes al Administrador y a la Asamblea General mediante carta poder, en tiempo y forma reglamentaria, para los efectos que procedan.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Ambos harán oportunamente las notificaciones correspondientes al Administrador y a la Asamblea General mediante documento firmado por ambas partes, en tiempo y forma reglamentaria, para los efectos que procedan.
 
 ###### Artículo 20.
 
@@ -360,7 +382,9 @@ II.- Para realizar obras que se traduzcan en mejor aspecto o mayor comodidad, qu
 
 III.- El propietario o propietarios del condominio en caso de enajenación, responderán por el saneamiento para el caso de evicción. Tratándose de construcciones nuevas, el propietario o propietarios originales del condominio, serán responsables por los defectos o vicios ocultos de las construcciones, extinguiéndose las acciones correspondientes a los tres años posteriores a la entrega del área afectada;
 
-IV.- Para realizar obras nuevas, excepto en áreas verdes, que no impliquen la modificación de la Escritura Constitutiva y se traduzcan en mejor aspecto o mayor comodidad, se requerirá acuerdo aprobatorio de la Asamblea General a la que deberán asistir por lo menos la mayoría simple de los condóminos; sin embargo, para la ejecución de obras se deberá requerir un mínimo de votos que representen el 75 % del valor total del condominio;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+IV.- Para realizar obras nuevas, excepto en áreas verdes, que no impliquen la modificación de la Escritura Constitutiva y se traduzcan en mejor aspecto o mayor comodidad, se requerirá acuerdo aprobatorio de la Asamblea General a la que deberán asistir por lo menos la mayoría simple de los condóminos, cumpliendo con lo señalado en la fracción IV artículo (sic) 32 de esta Ley;
 
 V.- En caso de falta de administrador las reparaciones o reposiciones urgentes en los bienes y servicios comunes podrán ser efectuados por cualquiera de los condóminos, los gastos que haya realizado serán reembolsados repartiendo el costo en partes iguales entre todos los condóminos, previa autorización del comité de vigilancia e informando detalladamente en la Asamblea General siguiente;
 
@@ -440,7 +464,9 @@ VII.- Cuando un solo condómino represente más del 50% de votos y asista el res
 
 VIII.- El secretario de la Asamblea General deberá asentar el acta de la misma en el libro de actas que para tal efecto haya autorizado la Procuraduría. Las actas, por su parte, serán firmadas por el presidente y el secretario, por los miembros del comité de vigilancia, que asistieren y los condóminos que así lo soliciten.
 
-Cuando se haya convocado legalmente a una Asamblea General de condóminos y no se cuente con el libro de actas, el acta podrá levantarse en fojas por separado, haciendo constar en ella tal circunstancia. El acta levantada deberá contener: Lugar, fecha, hora, firmas de los participantes, orden día (sic) y desarrollo de la Asamblea General, haciéndolo del conocimiento de la Procuraduría en un plazo no mayor a quince días hábiles;
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Cuando se haya convocado legalmente a una Asamblea General de condóminos y no se cuente con el libro de actas, el acta podrá levantarse en fojas por separado, haciendo constar en ella tal circunstancia. El acta levantada deberá contener: Lugar, fecha, hora de inicio y de cierre, orden del día, firmas de los participantes, lista de asistentes, Acuerdos de Asamblea y desarrollo de la Asamblea General, haciéndolo del conocimiento de la Procuraduría en un plazo no mayor a quince días hábiles.
 
 IX.- El secretario tendrá siempre a la vista de los asistentes el libro de actas y el Administrador les informará en un lapso de 7 días hábiles por escrito a cada condómino y/o poseedor las resoluciones que adopte la Asamblea General.
 
@@ -456,7 +482,9 @@ Las convocatorias para la celebración de Asambleas Generales se harán de acuer
 
 I.- La convocatoria deberá indicar quien convoca y el tipo de Asamblea de que se trate, fecha y lugar en donde se realizará dentro del condominio, o en su caso el establecido por el Reglamento Interno, incluyendo el orden del día;
 
-II.- Los condóminos o sus representantes serán notificados de forma personal, mediante la colocación de la convocatoria en lugar visible del condominio, en la puerta del condominio; o bien, depositándola de ser posible en el interior de dicha unidad de propiedad de (sic) privativa;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+II.- Los condóminos o sus representantes serán notificados de forma personal, mediante la colocación de la convocatoria en lugar visible del condominio, en la puerta del condominio; o bien, depositándola de ser posible en el interior de cada unidad de propiedad privativa;
 
 III.- Podrán convocar a Asamblea General de acuerdo a lo que establece esta Ley:
 
@@ -474,11 +502,15 @@ IV.- Cuando la Asamblea General se celebre en virtud de la primera convocatoria,
 
 Las determinaciones adoptadas por las asambleas en los términos de esta Ley, del Reglamento Interno del condominio y de las demás disposiciones legales aplicables, obligan a todos los condóminos, incluyendo a los ausentes y disidentes;
 
-Las convocatorias para la celebración de la Asamblea General ordinaria, se notificarán con siete días naturales de anticipación a la fecha de la primera convocatoria. Entre la primera y la segunda convocatoria deberá mediar un plazo de quince minutos; el mismo plazo deberá transcurrir entre la segunda y la tercera convocatoria;
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Las convocatorias para la celebración de la Asamblea General ordinaria, se notificarán con siete días naturales de anticipación a la fecha de la primer convocatoria. Entre la primera y la segunda convocatoria deberá mediar un plazo de treinta minutos; el mismo plazo deberá transcurrir entre la segunda y la tercera convocatoria;
 
 V.- En los casos de suma urgencia, se realizarán las convocatorias para Asamblea General Extraordinaria con la anticipación que las circunstancias lo exijan, quedando sujetas en lo demás a las disposiciones de esta Ley y el Reglamento Interno;
 
-VI.- Cuando por la importancia del o los asuntos a tratar en la Asamblea General se considere necesario, el Administrador, el Comité de Vigilancia o los condóminos de acuerdo a lo estipulado en el inicio c) del presente artículo, podrán solicitar la presencia de un Notario Público o de un representante de la Procuraduría; y
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+VI.- Cuando por la importancia del o los asuntos a tratar en la Asamblea General se considere necesario, el Administrador, el Comité de Vigilancia o los condóminos de acuerdo a lo estipulado en la fracción III inicio c) del presente artículo, podrán solicitar la presencia de un Notario Público o de un representante de la Procuraduría; y
 
 VII.- En el caso de las Asambleas Generales Extraordinarias señaladas en el artículo 29 de esta Ley, las reglas para la fijación de quórum y votación, se sujetarán a las mismas disposiciones que en cada caso determinen los artículos correspondientes de la misma Ley.
 
@@ -496,11 +528,17 @@ IV. Precisar las obligaciones y facultades a cargo del Administrador y del Comit
 
 V. Establecer las cuotas a cargo de los condóminos o poseedores, determinando para ello el sistema o esquema de cobro que considere más adecuado y eficiente de acuerdo a las características del condominio;
 
+> <small>(ADICIONADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Sobre dichas cuotas se aplicará por concepto de morosidad, tratando por separado cada una de las cuotas que se tenga por deuda, el interés legal que es el nueve por ciento anual, de conformidad con el Código Civil para el Distrito Federal;
+
 VI. Nombrar y remover al Comité de Vigilancia y a los comités de Ecología o Medio Ambiente, Socio-Cultura, Seguridad y Protección Civil y del Deporte;
 
 VII. Resolver sobre la clase y monto de la garantía que deba otorgar el Administrador Profesional respecto al fiel desempeño de su función, y al manejo de los fondos a su cuidado;
 
-VIII. Examinar y, en su caso aprobar, los estados de cuenta semestrales que se (sic) someta el Administrador a su consideración; así como el informe anual de actividades que rinda el Comité de Vigilancia;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+VIII. Examinar y, en su caso aprobar, los estados de cuenta semestrales que someta el Administrador a su consideración; así como el informe anual de actividades que rinda el Comité de Vigilancia;
 
 IX. Discutir y, en su caso, aprobar el presupuesto de gastos para el año siguiente; tratándose de condominios industriales y/o comerciales se deberá asignar un fondo para la contratación de una póliza de seguro contra siniestros;
 
@@ -514,13 +552,17 @@ XIII. Establecer los medios y las medidas para la seguridad y vigilancia del con
 
 XIV. Otorgar beneficios a los condóminos o poseedores del condominio o conjunto condominal, en relación al cumplimiento de sus obligaciones;
 
-XV. Discutir la inversión de fondos establecidos en el artículo 60 de la presente Ley;
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+XV. Discutir la inversión de fondos establecidos en el artículo 55 de la presente Ley;
 
 XVI. Revisar y en su caso aprobar el estado de cuenta que se ejerza en torno a los proyectos específicos que se desarrollan en el condominio con recursos internos o externos y sean presentados por los comités de Ecología o Medio Ambiente, Socio-Cultural, Seguridad y Protección Civil y del Deporte;
 
 XVII. Las demás que le confieren la Escritura Constitutiva, el Reglamento Interno y demás disposiciones aplicables.
 
-Los acuerdos de la Asamblea General deberán ser (sic) de sujetarse a lo dispuesto en esta Ley, su Reglamento, la Escritura Constitutiva, el Reglamento Interno u otras disposiciones de orden público.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Los acuerdos de la Asamblea General deberán de sujetarse a lo dispuesto en esta Ley, su Reglamento, la Escritura Constitutiva, el Reglamento Interno y otras disposiciones de orden público.
 
 ###### Artículo 34.
 
@@ -568,7 +610,9 @@ Los condominios serán administrados por la persona física o moral que designe 
 
 Se prohíbe la organización fragmentada dentro de las secciones y si el acceso es compartido por dos alas, no se permitirá la organización separada de éstas.
 
-Las atribuciones de quienes tengan carácter de administrador Condómino o Profesional, miembro del Comité de Administración o del Comité de Vigilancia de un condominio, establecido en los artículos 43 y 49 de esta Ley, serán conforme lo que determina el presente ordenamiento, sin atribuirse la representación vecinal que determina la Ley de Participación Ciudadana del Distrito Federal, aún cuando se tratara de las mismas personas.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+Las atribuciones de quienes tengan carácter de administrador, miembro del comité de administración, del comité de vigilancia de un condominio o de los comités, establecido en los artículos 43, 45 y 49 de esta Ley, serán conforme lo que determina el presente ordenamiento.
 
 Las funciones de los integrantes de los Órganos de Representación Ciudadana electos en las unidades habitacionales que se rijan en la Ley en la materia de condominios, serán distintas e independientes, y sujetas a lo establecido en la Ley de Participación Ciudadana del Distrito Federal, aun cuando en la representación de estos Órganos Ciudadanos se trate de las mismas personas citadas en el párrafo anterior.
 
@@ -650,7 +694,9 @@ d) Relación detallada de las cuotas por pagar a los proveedores de bienes y/o s
 
 e) Una relación pormenorizada de los morosos y los montos de su deuda;
 
-El condómino tendrá un plazo de ocho días contados a partir del día siguiente a la entrega de dicha documentación, para formular las observaciones u objeciones que considere pertinentes. Transcurrido dicho plazo se considera que está de acuerdo con la misma, a reserva de la aprobación de la Asamblea General, en los términos de la fracción VIII del Artículo 31;
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+El condómino tendrá un plazo de ocho días contados a partir del día siguiente a la entrega de dicha documentación, para formular las observaciones u objeciones que considere pertinentes. Transcurrido dicho plazo se considera que está de acuerdo con la misma, a reserva de la aprobación de la Asamblea General, en los términos de la fracción VIII del Artículo 33.
 
 XIII.- Convocar a Asambleas Generales en los términos establecidos en esta Ley y en el Reglamento Interno;
 
@@ -700,7 +746,9 @@ XXVIII.- Registrarse ante la Procuraduría como Administrador.
 
 Cuando la Asamblea General designe una nueva administración, la saliente deberá entregar a la administración entrante, en un término que no exceda de siete días naturales a partir del día siguiente de la nueva designación, todos los documentos incluyendo los estados de cuenta, libro de actas, valores, muebles, inmuebles y demás bienes que tuviera bajo su resguardo y responsabilidad, la cual sólo podrá posponerse por resolución judicial.
 
-De lo establecido en el párrafo anterior se levantará un acta que firmarán quines (sic) intervengan. Transcurrido los siete días naturales la administración entrante, podrá iniciar las acciones administrativas, civiles o penales que correspondan.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+De lo establecido en el párrafo anterior se levantará un acta que firmarán quienes intervengan. Transcurrido los siete días naturales la administración entrante, podrá iniciar las acciones administrativas, civiles o penales que correspondan.
 
 La Procuraduría a petición de parte, podrá solicitar la documentación de referencia, debiendo entregarse ésta en un plazo que no exceda de tres días hábiles a partir de la fecha en que se hubiere notificado el requerimiento.
 
@@ -844,9 +892,11 @@ a) El fondo de administración y mantenimiento no sea suficiente para cubrir un 
 
 b) El fondo de reserva no sea suficiente para cubrir la compra de alguna herramienta, material, implemento, maquinaria, pintura, impermeabilizaciones, cambio de bombas, lavado de cisternas, cambio de redes de infraestructura, mano de obra para la oportuna y adecuada realización de obras, mantenimiento, reparaciones mayores entre otros. El importe de la cuota se distribuirá conforme a lo establecido para el fondo de reserva.
 
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
 ###### Artículo 56.
 
-Las cuotas ordinarias y extraordinarias de administración y mantenimiento no estarán sujetas a compensación, excepciones personales ni ningún otro supuesto que pueda excusar su pago. Los recursos financieros, en efectivo, en cuentas bancarias o cualquier otro tipo de bienes, así como los activos y pasivos producto de las cuotas u otros ingresos del condominio, otros ingresos del condominio se integraran a los fondos.
+Las cuotas ordinarias y extraordinarias de administración y mantenimiento no estarán sujetas a compensación, excepciones personales ni ningún otro supuesto que pueda excusar su pago. Los recursos financieros, en efectivo, en cuentas bancarias o cualquier otro tipo de bienes, así como los activos y pasivos producto de las cuotas u otros ingresos del condominio, se integrarán a los fondos.
 
 ###### Artículo 57.
 
@@ -1020,9 +1070,13 @@ a) El total de ingresos y egresos por rubro;
 
 b) El monto de las cuotas pendientes de pago;
 
-c) El saldo de las cuentas bancarias, y
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
 
-d) La relación de acreedores.
+c) El saldo contable, y
+
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2012)</small>
+
+d) La relación de morosos con el monto de sus cuotas pendientes de pago.
 
 De la misma manera informará la aplicación de recursos en las áreas y bienes de uso común, así como de la ejecución de programas, presupuestos, subsidios y otras acciones donde intervino la Administración Pública.
 
@@ -1112,9 +1166,17 @@ IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordin
 
 V.- Los Administradores o Comités de Vigilancia que a juicio de la Asamblea General, Consejo, o de la Procuraduría no hagan un buen manejo o vigilancia de las cuotas de servicios, mantenimiento y administración, de reserva o extraordinarias, por el abuso de su cargo o incumplimiento de sus funciones, o se ostenten como tal sin cumplir lo que esta Ley y su reglamento establecen para su designación, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este artículo, aumentando un 50% la sanción que le corresponda, independientemente de las responsabilidades o sanciones a que haya lugar, contempladas en otras Leyes;
 
-VI.- Se aplicará multa de 50 días de salario mínimo general vigente en el Distrito Federal al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una Asamblea General legalmente constituida no lo presente para el desahogo de la misma; y
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
 
-VII.- Se aplicará multa de 50 a 300 días de salario mínimo general vigente en el Distrito Federal por incumplimiento a lo dispuesto en el artículo 44 de la presente Ley. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
+VI.- Se aplicará multa de 50 a 200 días de salario mínimo general vigente en el Distrito Federal al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una Asamblea General legalmente constituida no lo presente para el desahogo de la misma;
+
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+VII.- Se aplicará multa de 50 a 300 días de salario mínimo general vigente en el Distrito Federal por incumplimiento a lo dispuesto en el artículo 44 de la presente Ley. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta; y
+
+> <small>(ADICIONADA, G.O. 3 DE ABRIL DE 2012)</small>
+
+VIII.- Se aplicara multa de 100 a 400 días de salario mínimo general vigente en el Distrito Federal, a los administradores que realicen cobros no previstos en esta ley y aprobados por la Asamblea General en viviendas de interés social y popular. En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
 ###### Artículo 88.
 
@@ -1149,3 +1211,11 @@ CUARTO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difu
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de enero del año dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTI BATRES GUADARRAMA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 3 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
