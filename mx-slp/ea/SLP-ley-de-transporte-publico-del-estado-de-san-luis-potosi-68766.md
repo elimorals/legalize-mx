@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2011-07-30"
+last_updated: "2012-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -353,7 +353,7 @@ VIII. Las demás que determinen esta Ley y su Reglamento.
 
 ###### ARTICULO 20.
 
-El servicio de transporte público en el Estado de San Luis Potosí para los efectos de esta Ley, se clasifica en los siguientes sistemas:
+El servicio de transporte público en el Estado San Luis Potosí para los efectos de esta Ley, se clasifica en los siguientes sistemas:
 
 l. Sistemas de transporte de pasajeros, y
 
@@ -651,7 +651,7 @@ V. Justificación de su solicitud con estudio técnico.
 
 Tratándose de ampliación de ruta o rutas, los interesados deberán cumplir con los requisitos que establecen los artículos 38 y 39 de este Ordenamiento y, en igualdad de circunstancias, tendrán prioridad los titulares de las mismas. La Secretaría, por si, o a través de la Dirección General competente, con acuerdo del titular del Ejecutivo y según corresponda, previo análisis y recomendación del ayuntamiento respectivo, autorizará, en su caso, la ampliación, conforme al estudio técnico que al efecto realice; y propondrá la convocatoria para concurso de concesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 44.
 
@@ -1019,9 +1019,11 @@ a) Utilizar los esquemas, aditamentos y equipamiento auxiliar que, previa opini�
 
 b) Aplicar en estricto apego las tarifas que el titular del Ejecutivo autorice en el marco de esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 69.
 
-Los automóviles de alquiler deberán llevar en lugar visible las tarifas autorizadas, y el equipo aprobado por la Secretaría que registre el precio por el servicio.
+Los automóviles de alquiler deberán llevar en lugar visible las tarifas autorizadas, y el equipo en buenas condiciones de funcionamiento y sin alteración aprobado por la Secretaría, que registre el precio por el servicio.
 
 ###### ARTICULO 70.
 
@@ -1295,7 +1297,7 @@ Las tarifas y su aplicación responderán siempre a un criterio técnico uniform
 
 En la formulación y aplicación de las tarifas, horarios e itinerarios, se observará siempre igualdad de tratamiento para todos los que se encuentren en las mismas condiciones, procurando satisfacer especialmente las necesidades del usuario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 92.
 
@@ -1757,7 +1759,9 @@ VII. Por prestar el servicio en mal estado de salud, multa de veintiuno a cien s
 
 VIII. Por no respetar el trato preferencial en la prestación del servicio a los adultos mayores, niños, personas con discapacidad y mujeres embarazadas, multa de veintiuno a cien salarios mínimos vigentes en la zona;
 
-IX. Por no cumplir y aprobar la capacitación que determine la Secretaría, multa de veintiuno a cien salarios mínimos vigentes en la zona;
+> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2012)</small>
+
+IX. Por prestar el servicio como operador del transporte público sin cumplir y aprobar la capacitación que determine la Secretaría, multa de veintiún a cien salarios mínimos vigentes en la zona;
 
 X. Por no acatar las indicaciones de las autoridades en materia de transporte, o bien por agredirlos física o verbalmente durante las diligencias de inspección, sin menoscabo de la responsabilidad penal que en su caso resulte, multa de veintiuno a cien salarios mínimos vigentes en la zona;
 
@@ -1849,7 +1853,7 @@ Lic. Héctor Vega Robles
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE ABRIL DE 2010.
 
@@ -1876,3 +1880,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los concesionarios y permisionarios del transporte público de la zona metropolitana de San Luis Potosí, tendrán un año a partir de la vigencia del presente Decreto, para instalar las cámaras de video.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 3 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
