@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2012-01-04"
+last_updated: "2012-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -55,7 +55,9 @@ III. Coordinar acciones en las materias objeto de la presente ley, entre el Esta
 
 IV. Promover el uso, manejo, conocimiento asociado y la distribución justa de los beneficios y costos derivados del aprovechamiento de los elementos de la biodiversidad y de los recursos genéticos; así como los conocimientos tradicionales de los pueblos indígenas relacionados con el aprovechamiento y manejo de los recursos naturales;
 
-V. Garantizar el derecho de las comunidades y pueblos indígenas, en los términos del artículo 2º de la Constitución Política de los Estados Unidos Mexicanos y del artículo 13 de la Constitución Política del Estado de Chiapas, al uso y disfrute preferente de los recursos naturales localizados de los lugares que ocupen y habiten, así como a los ejidos y comunidades agrarias en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+V. Garantizar el derecho de las comunidades y pueblos indígenas, en los términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos y del artículo 7° de la Constitución Política del Estado de Chiapas, al uso y disfrute preferente de los recursos naturales localizados de los lugares que ocupen y habiten, así como a los ejidos y comunidades agrarias en los términos de la legislación aplicable.
 
 VI. Garantizar, bajo los principios de transparencia y acceso a la información pública, el derecho a la información actualizada acerca del medio ambiente y de los recursos naturales de la entidad;
 
@@ -153,7 +155,9 @@ XXIII. Ordenamiento Ecológico del Territorio: El instrumento de política ambie
 
 XXIV. Preservación: El conjunto de políticas y medidas para mantener las condiciones propicias para la evolución y continuidad de los ecosistemas y hábitat naturales, así como para conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales.
 
-XXV. Protección: El conjunto de políticas y medidas para mejorar el ambiente, prevenir y evitar su deterioro.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXV. Secretaría: Secretaría de Medio Ambiente e Historia Natural.
 
 XXVI. Residuos de manejo especial: Aquellos generados en los procesos productivos, y que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos.
 
@@ -183,9 +187,11 @@ Son autoridades ambientales en el Estado.
 
 I. El titular del Poder Ejecutivo Estatal;
 
-II. La Secretaría de Medio Ambiente y Vivienda; y,
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-III. Los Ayuntamientos Municipales;
+II. La Secretaría de Medio Ambiente e Historia Natural.
+
+III. Los Ayuntamientos Municipales; (sic)
 
 ###### Artículo 5.
 
@@ -1177,7 +1183,7 @@ VI. Manejo integral de residuos.
 
 #### Sección Décima. Evaluación del Impacto y Riesgo Ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 79.
 
@@ -1255,7 +1261,7 @@ En el reglamento de la presente ley o en las normas que al efecto se emitan, se 
 
 Los efectos negativos que sobre el ambiente y los recursos naturales a que se refiere esta ley, pudieran causar las obras o actividades de competencia estatal que no requieran someterse al procedimiento de evaluación de impacto ambiental mencionado en el presente capítulo, estarán sujetos en lo conducente, a las disposiciones legales y normatividad aplicables en la materia, así como lo que señalen los permisos, licencias, autorizaciones y concesiones que conforme a las mismas se requieran en las materias a que se refiere la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 82.
 
@@ -1513,7 +1519,7 @@ Son zonas sujetas a conservación ecológica, aquellas áreas relevantes a nivel
 
 En tales áreas se podrá autorizar la realización de actividades propias de las comunidades previamente asentadas, siempre que no alteren o modifiquen las condiciones naturales; además, se fomentará la preservación y restauración de los ecosistemas, siempre y cuando sean congruentes con la declaratoria y el programa de manejo que se expida.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 113.
 
@@ -2609,7 +2615,7 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 
 De conformidad con la fracción I del artículo 42 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los dieciocho días del mes de marzo del año dos mil nueve.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE MAYO DE 2010.
 
@@ -2628,6 +2634,12 @@ P.O. 4 DE ENERO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE ABRIL DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0071.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO".]
 
