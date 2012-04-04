@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-estatal-de-los-derechos-83082"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-17"
-last_updated: "2011-09-14"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE LOS DERECHOS HUMANOS DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 14 DE SEPTIEMBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE AGOSTO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 17 de agosto de 2011.
 
@@ -349,43 +347,51 @@ El Consejo contará como mínimo, con las Áreas de Apoyo siguientes:
 
 5. Dirección General de Promoción y Difusión de los Derechos Humanos;
 
-6. Coordinación General de Visitadurías;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2012)</small>
 
-7. Dirección de Información, Orientación, Quejas y Gestoría;
+6. Dirección General de Orientación y Atención a Peticionarias (os);
 
-8. Dirección de Servicios Médicos, Psicológicos y Trabajo Social;
+7. Coordinación General de Visitadurías;
 
-9. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo;
+8. Dirección de Información, Orientación, Quejas y Gestoría;
 
-10. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
+9. Dirección de Servicios Médicos, Psicológicos y Trabajo Social;
 
-11. Dirección de Evaluación y Seguimiento Institucional;
+10. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo;
 
-12. Dirección de Asuntos Jurídicos;
+11. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
 
-13. Dirección de Grupos Vulnerables;
+12. Dirección de Evaluación y Seguimiento Institucional;
 
-14. Dirección de Investigación en Derechos Humanos;
+13. Dirección de Asuntos Jurídicos;
 
-15. Dirección de Sistematización de la Información;
+14. Dirección de Grupos Vulnerables;
 
-16. Dirección de Resolución Positiva de Conflictos;
+15. Dirección de Investigación en Derechos Humanos;
 
-17. Dirección de Estudios, Proyectos y Atención a Organismos No Gubernamentales de Derechos Humanos;
+16. Dirección de Sistematización de la Información;
 
-18. Dirección de Investigación y Desarrollo Institucional;
+17. Dirección de Resolución Positiva de Conflictos;
 
-19. Dirección de Interlocución Institucional y Legislativa;
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
-20. Relatorías Temáticas;
+18. Dirección de Estudios y Proyectos y Atención a Organismos No Gubernamentales de Derechos Humanos;
 
-21. Dirección del Servicio Profesional en Derechos Humanos;
+19. Dirección de Investigación y Desarrollo Institucional;
 
-22. Visitadurías Generales y Adjuntas;
+20. Dirección de Interlocución Institucional y Legislativa;
 
-23. Coordinación de Asesores; y,
+21. Relatorías Temáticas;
 
-24. Secretaría particular de la Presidencia.
+22. Dirección del Servicio Profesional en Derechos Humanos;
+
+23. Visitadurías Generales y Adjuntas;
+
+24. Coordinación de Asesores; y,
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+25. Secretaría Particular de la Presidencia.
 
 ###### Artículo 33.
 
@@ -811,11 +817,29 @@ d. Dirección General de Educación en Derechos Humanos y Servicio Profesional;
 
 e. Dirección General de Promoción y Difusión de los Derechos Humanos;
 
-f. Dirección de Resolución Positiva de Conflictos;
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
-g. Dirección de Interlocución Institucional y Legislativa;
+f. Dirección General de Orientación y Atención a Peticionarias (os);
 
-h. Dirección de Estudios, Proyectos y Atención a Organismos No Gubernamentales de Derechos Humanos.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+g. Dirección de Resolución Positiva de Conflictos;
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+h. Dirección de Interlocución Institucional y Legislativa;
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+i. Dirección de Estudios, Proyectos y Atención a Organismos No Gubernamentales de Derechos Humanos;
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+j. Dirección de Asuntos Jurídicos; y,
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+k. Dirección de Evaluación y Seguimiento Institucional.
 
 ###### Artículo 66.
 
@@ -861,7 +885,9 @@ El Consejo contará con una Contraloría, que auxilie a la o el Consejera (o) Pr
 
 La Contraloría Interna estará a cargo de una o un Contralora (or) Interno quien será nombrado por las (los) Consejeras (os), a propuesta de una terna que presente la (el) Consejera (o) Presidenta (e) al Pleno del Consejo General; quién deberá reunir los requisitos establecidos en el artículo 46 de la Ley.
 
-Para el desarrollo de sus atribuciones, la Contraloría Interna, contará con la Unidad de Supervisión.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desarrollo de sus atribuciones, la Contraloría Interna, contará con la Unidad de Supervisión y el Departamento de Fiscalización.
 
 ###### Artículo 68.
 
@@ -1015,13 +1041,27 @@ Para el ejercicio de sus facultades y atribuciones, la Dirección General de Pla
 
 5) El personal que sea necesario para el cumplimiento de sus funciones.
 
-#### Sección II. Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2012)</small>
+
+#### Sección II. Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarios (as)
 
 ###### Artículo 73.
 
-La Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), es un área de apoyo directo de la Secretaría, y tiene las siguientes atribuciones:
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
-I. Suscribir, avalar y presentar a la Secretaría y/o a la Coordinación, toda la información relacionada con el trámite de las quejas que le proporcione la Coordinación General de Visitadurías;
+###### Artículo 74.
+
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE ABRIL DE 2012)</small>
+
+#### Sección II BIS. Dirección General de Orientación y Atención a Peticionarias (os)
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Artículo 73 Bis (sic).- La Dirección General de Orientación y Atención a Peticionarias (os), es un área de apoyo directo de la Secretaría, y tiene las siguientes atribuciones:
+
+l. Suscribir, avalar y presentar a la Secretaría y/o a la Coordinación, toda la información relacionada con el trámite de las quejas que le proporcione la Coordinación General de Visitadurías;
 
 II. Suscribir, avalar y presentar a la Secretaría y/o a la Coordinación, toda la información relacionada con la recepción y atención a las orientaciones jurídicas de los ciudadanos peticionarios al Consejo;
 
@@ -1031,59 +1071,59 @@ IV. Revisar y avalar los proyectos de propuestas conciliatorias que le remitan l
 
 V. Revisar y avalar los proyectos de recomendaciones que le remitan las Visitadurías Generales y Adjuntas del Consejo;
 
-VI. Remitir a la Secretaría y/o a la Coordinación los proyectos de los documentos mencionados en las fracciones III, IV Y V de este artículo, para que a la vez sean sancionados, modificados o aprobados en su caso, por el Pleno del Consejo General;
+VI. Remitir a la Secretaría y/o a la Coordinación los proyectos de los documentos mencionados en las fracciones III, IV y V de este artículo, para que a la vez sean sancionados, modificados o aprobados en su caso, por el Pleno del Consejo General;
 
 VII. Suscribir y avalar los informes que rinda la Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos emitidos por el Consejo, remitiéndolo a la Secretaría Ejecutiva y a la Coordinación General Ejecutiva;
 
 VIII. Coordinar todas las actividades encaminadas a la integración de la queja y atención a los agraviados que realice la Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
 
-IX. Revisar y avalar los documentos de no responsabilidad que le presenten las (los) Visitadoras (es) Generales y Adjuntos por conducto de la Coordinación General de Visitadurías y someterlos a la consideración de la (del) Secretaria (o) Ejecutiva (o);
+IX. Revisar y avalar los documentos de no responsabilidad que le presenten las (los) Visitadoras (es) Generales y Adjuntos por conducto de la Coordinación General de Visitadurías y someterlos a la consideración del Secretaria (o) Ejecutiva (o);
 
 X. Dar respuesta y atención, previo acuerdo con la Secretaría a las peticiones de organismos civiles, nacionales, internacionales, estatales y/o municipales de las peticiones relacionadas con las quejas u orientaciones jurídicas;
 
-XI. Dar respuesta y atención, previo acuerdo con la o el Secretaria (o) Ejecutiva (o) a las peticiones realizadas por la Comisión Nacional, relacionadas con las quejas u orientaciones jurídicas;
+XI. Dar respuesta y atención, previo acuerdo con el Secretaria (o) Ejecutiva (o) a las peticiones realizadas por la Comisión Nacional, relacionadas con las quejas u orientaciones jurídicas;
 
-XII. Dar respuesta y atención, previo acuerdo con la o el Secretaria (o) Ejecutiva (o), de las peticiones realizadas por la Comisión de Derechos Humanos del Congreso local del Estado;
+XII. Dar respuesta y atención, previo acuerdo con el Secretaria (o) Ejecutiva (o), de las peticiones realizadas por la Comisión de Derechos Humanos del Congreso local del Estado;
 
 XIII. Dar respuesta y atención, previo acuerdo con la Secretaría de las peticiones realizadas por la Comisión de Derechos Humanos de cualesquiera de las cámaras del Congreso Federal;
 
 XIV. Previa autorización del Pleno del Consejo General, y a petición de las partes, intervenir, participar, o coadyuvar en la elaboración, suscripción, firma y cumplimiento voluntario de propuestas de acuerdos de solución amistosa;
 
-XV. Coordinar los trabajos de la Dirección de Resolución Positiva de Conflictos, en la atención de personas individuales o colectivas relacionadas con las quejas, orientaciones jurídicas, o que hayan solicitado de manera expresa la intervención del Consejo y que haya sido autorizado por el Pleno del Consejo General;
+XV. Coordinar todas las actividades encaminadas a la integración de la queja y atención a las (los) agraviadas (os) que realice la Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
 
-XVI. Coordinar todas las actividades encaminadas a la integración de la queja y atención a las (los) agraviadas (os) que realice la Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
+XVI. Coordinar todas las actividades encaminadas a la integración de la queja y atención a las (los) agraviadas (os) que realice la Dirección de Grupos Vulnerables;
 
-XVII. Coordinar todas las actividades encaminadas a la integración de la queja y atención a las (los) agraviadas (os) que realice la Dirección de Grupos Vulnerables;
+XVII. Presentar mensualmente a la Secretaría y/o Coordinación, los informes relacionados con las quejas, orientaciones jurídicas, así como de los resultados en los casos en que se haya intervenido bajo el esquema de resolución positiva de conflictos; y,
 
-XVIII. Presentar mensualmente a la Secretaría y/o Coordinación, los informes relacionados con las quejas, orientaciones jurídicas, así como de los resultados en los casos en que se haya intervenido bajo el esquema de resolución positiva de conflictos; y,
+XVIII. Las demás que les sean encomendadas en la Ley, el presente Reglamento, los ordenamientos legales internos aplicables y por la Secretaría o por el Pleno del Consejo General.
 
-XIX. Las demás que les sean encomendadas en la Ley, el presente Reglamento, los ordenamientos legales internos aplicables y por la Secretaría o por el Pleno del Consejo General.
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
 
-###### Artículo 74.
+###### Artículo 74 Bis.
 
-La Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), para el cumplimiento de su encomienda, coordinará las actividades que desarrollen las Áreas de Apoyo siguientes:
+La Dirección General de Orientación y Atención a Peticionarias (os), para el cumplimiento de su encomienda, coordinará las actividades que desarrollen las Áreas de Apoyo siguientes:
 
-a. Coordinación General de Visitadurías;
+a. Coordinación General de Vlsitadurías;
 
-b. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo;
+b. Dirección de Información, Orientación, Quejas y Gestoría;
 
-c. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
+c. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo;
 
-d. Dirección de Información, Orientación, Quejas y Gestoría;
+d. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos;
 
 e. Dirección de Servicios Médicos, Psicológicos y Trabajo Social;
 
 f. Dirección de Grupos Vulnerables;
 
-g. Dirección de Investigación en Derechos Humanos.
+g. Dirección de Sistematización de la Información;
 
 #### Sección III. Coordinación General de Visitadurías
 
-#### Sección IV. De las Visitadurías Generales y Adjuntas
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 75.
 
-La Coordinación General de Visitadurías estará adscrita y dependerá directamente de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os) y tendrá las siguientes atribuciones:
+La Coordinación General de Visitadurías estará adscrita y dependerá directamente de la Dirección General de Orientación y Atención a Peticionarias (os) y tendrá las siguientes atribuciones:
 
 l. Recibir de la Dirección de Información, Orientación, Quejas y Gestorías, las quejas por presuntas violaciones a Derechos Humanos, y turnarlas en estricto orden que corresponde a todas las Visitadurías Generales y Adjuntas;
 
@@ -1095,9 +1135,13 @@ IV. Participar y cumplir en el ámbito de su competencia los acuerdos que se est
 
 V. Coordinar las actividades de las Visitadurías Generales y Adjuntas del Consejo, que se instalen en los municipios;
 
-VI. Someter a consideración de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os) los proyectos de recomendación, conciliaciones e informes especiales, para ser presentados en su caso, al Pleno del Consejo General por conducto de la Secretaría o Coordinación General Ejecutiva;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-VII. Presentar al Consejo General, previa validación de la Dirección General de Trámites y Procedimientos para Información, orientación, Protección y Defensa a Peticionarias (os), y por conducto de la Secretaría o Coordinación General Ejecutiva los informes periódicos y anuales, sobre los avances en la tramitación de las quejas y orientaciones, de acuerdo a la información que aparezca en la base de datos del Consejo;
+VI. Someter a consideración de la Dirección General de Orientación y Atención a Peticionarias (os) los proyectos de recomendación, conciliaciones e informes especiales, para ser presentados en su caso, al Pleno del Consejo General por conducto de la Secretaría o Coordinación General Ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VII. Presentar al Consejo General, previa validación de la Dirección General de Orientación y Atención a Peticionarias (os), y por conducto de la Secretaría o Coordinación General Ejecutiva los informes periódicos y anuales, sobre los avances en la tramitación de las quejas y orientaciones, de acuerdo a la información que aparezca en la base de datos del Consejo;
 
 VIII. Analizar los casos que deban tener y que requieran de investigación para calificarse como queja, después de obtener evidencia que lo sustenten;
 
@@ -1109,7 +1153,7 @@ XI. Coordinar las actividades de las (los) Peritas (os); y,
 
 XII. Las demás que le confiera la Ley, este Reglamento, y otras disposiciones legales internas aplicables.
 
-#### Sección V. Dirección de Información, Orientación, Quejas y Gestoría
+#### Sección IV. De las Visitadurías Generales y Adjuntas
 
 ###### Artículo 76.
 
@@ -1173,11 +1217,13 @@ VI. En el caso de las y los Visitadoras (es) adjuntas (os) foráneas (os), adscr
 
 VII. Las demás que le sean encomendadas por la o el Visitadora (or) General, de quien dependan.
 
-#### Sección VI. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo
+#### Sección V. Dirección de Información, Orientación, Quejas y Gestoría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 82.
 
-La Dirección de Información, Orientación, Quejas y Gestoría dependerá directamente de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os) y contará con las atribuciones siguientes:
+La Dirección de Información, Orientación, Quejas y Gestoría dependerá directamente de la Dirección General de Orientación y Atención a Peticionarias (os) y contará con las atribuciones siguientes:
 
 l. Realizar labores de atención al público durante las veinticuatro horas del día, todos los días del año.
 
@@ -1221,11 +1267,13 @@ d. Un Departamento de Gestión y Enlace.
 
 e. Con Visitadores Adjuntos suficientes, para la atención de las quejas que se reciban vía telefónica o fuera del horario normal de servicio.
 
-#### Sección VII. Dirección de Servicios Médicos, Psicológicos y Trabajo Social
+#### Sección VI. Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 83.
 
-La Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo; estará adscrita y dependerá directamente de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os); y tendrá las siguientes atribuciones:
+La Dirección de Seguimiento de Recomendaciones, Propuestas Conciliatorias y Documentos Emitidos por el Consejo; estará adscrita y dependerá directamente de la Dirección General de Orientación y Atención a Peticionarias (os); y tendrá las siguientes atribuciones:
 
 l. Registrar su base de datos cada una de las Recomendaciones, Propuestas Conciliatorias, Medidas Precautorias o Cautelares y demás documentos emitidos por el Consejo, desde que se pronuncia hasta la conclusión del expediente de cada caso;
 
@@ -1249,7 +1297,9 @@ h. Recomendaciones aceptadas, cuyo cumplimiento reviste características peculia
 
 Agotadas las posibilidades de cumplimiento de una Recomendación, podrá concluirse su seguimiento, mediante un acuerdo expreso de la o el Visitador General correspondiente.
 
-III. Informar mensualmente a la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), sobre el avance del cumplimiento de la Recomendación hasta que se considere totalmente cumplida;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+III. Informar mensualmente a la Dirección General de Orientación y Atención a Peticionarias (os), sobre el avance del cumplimiento de la Recomendación hasta que se considere totalmente cumplida;
 
 IV. Elaborar el oficio en el que se informe a las (los) quejosas (os) el cumplimiento y/o incumplimiento total, parcial o insatisfactorio de las Recomendaciones;
 
@@ -1271,17 +1321,23 @@ XII. Calificar la aceptación y el cumplimiento de las recomendaciones y con bas
 
 XIII. Solicitar y gestionar ante las autoridades competentes, en casos urgentes, las medidas precautorias necesarias, para evitar la consumación irreparable de violaciones a Derechos Humanos, correspondientes a los temas relacionados con las recomendaciones en seguimiento o cumplidas;
 
-XIV. Elaborar para la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), y al Coordinador General de Visitadurías, los proyectos de informes que el Consejo General, tuviera que presentar a las autoridades; y,
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XV. Las demás que le confiera la Ley, el presente Reglamento, los demás ordenamientos internos aplicables o las que le sean encomendadas por la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os).
+XIV. Elaborar para la Dirección General de Orientación y Atención a Peticionarias (os), y a la Coordinación General de Visitadurías, los proyectos de informes que el Consejo General, tuviera que presentar a las autoridades; y,
 
-#### Sección VIII. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XV. Las demás que le confiera la Ley, el presente Reglamento, los demás ordenamientos internos aplicables o las que le sean encomendadas por la Dirección General de Orientación y Atención a Peticionarias (os).
+
+#### Sección VII. Dirección de Servicios Médicos, Psicológicos y Trabajo Social
 
 ###### Artículo 84.
 
 La Dirección de Servicios Médicos, Psicológicos y Trabajo Social; tendrá como objetivo primordial el de proporcionar a las víctimas por violaciones a Derechos Humanos, servicio médico consistente en brindar los primeros auxilios, asistencia psicológica y de trabajo social, para procurar el resarcimiento del daño, empoderamiento y resiliencia de la víctima, así como evitar la revictimización.
 
-La Dirección de Servicios Médicos, Psicológicos y Trabajo Social, estará adscrita y dependerá directamente de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os); y para lograr un resultado más favorable hacia las víctimas, coadyuvará y se coordinará con la Dirección de Atención a Víctimas de Violaciones a Derechos Humanos, asimismo, tendrá las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
+
+La Dirección de Servicios Médicos, Psicológicos y Trabajo Social, estará adscrita y dependerá directamente de la Dirección General de Orientación y Atención a Peticionarios (as); y para lograr un resultado más favorable hacia las víctimas, coadyuvará y se coordinará con la Dirección de Atención a Víctimas de Violaciones a Derechos Humanos, asimismo, tendrá las atribuciones siguientes:
 
 l. Brindar apoyo psicológico, emocional, conductual y psicoafectivo; durante el tiempo que sea necesario, a los (sic) peticionarias (os), o a las víctimas de, violaciones a Derechos Humanos; así como a sus familiares, cuando así lo requieran o se considere necesario. Este servicio también se podrá proporcionar mediante atención telefónica;
 
@@ -1317,13 +1373,27 @@ XVI. Elaborará los programas de trabajo de las Áreas de Trabajo Social, Psicol
 
 XVII. Elaborará manual de operación para el ejercicio profesional de la Dirección; y,
 
-XVIII. Las demás que sean encargadas por la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os).
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección IX. Dirección de Grupos Vulnerables
+XVIII. Las demás que sean encargadas por la Dirección General de Orientación y Atención a Peticionarias (os).
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desempeño y cumplimiento de sus funciones, la Dirección de Servicios Médicos, Psicológicos y Trabajo Social, contará con:
+
+a).- Departamento de Servicios Médicos.
+
+b).- Departamento de Servicios Psicológicos.
+
+c).- Departamento de Trabajo Social.
+
+#### Sección VIII. Dirección de Atención a Víctimas de Violaciones a Derechos Humanos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 85.
 
-La Dirección de Atención a Víctimas de Violaciones a Derechos Humanos, estará adscrita y dependerá directamente de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os); será la encargada de brindar el apoyo legal y/o acompañamiento a los peticionarias (os), en tanto se trate de orientaciones jurídicas, y no existan hechos notorios de violaciones a derechos humanos, para tal efecto, se coordinará con la Dirección de Información, Orientación, Quejas y Gestoría.
+La Dirección de Atención a Víctimas de Violaciones a Derechos Humanos, estará adscrita y dependerá directamente de la Dirección General de Orientación y Atención a Peticionarias (os); será la encargada de brindar el apoyo legal y/o acompañamiento a los peticionarias (os), en tanto se trate de orientaciones jurídicas, y no existan hechos notorios de violaciones a derechos humanos, para tal efecto, se coordinará con la Dirección de Información, Orientación, Quejas y Gestoría.
 
 Asimismo, tendrá las siguientes atribuciones:
 
@@ -1337,9 +1407,13 @@ IV. Diseñar e Implementar programas de Monitoreo para que durante los procesos 
 
 V. Auxiliar a las Visitadurías Generales y Adjuntas con la aportación de elementos probatorios, para la adecuada defensa de los derechos humanos de las víctimas.
 
-VI. Establecer coordinación y relaciones de mutua colaboración, previo acuerdo con el Director General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), con instituciones de asistencia pública y privada, gubernamentales y no gubernamentales, que tengan como fin la atención a personas víctimas de violaciones a derechos humanos;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-VII. Realizar estudios en instrumentos internacionales y nacionales sobre la protección y defensa de las personas que han sido víctimas de violaciones a derechos humanos y presentar el proyecto al Director General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), para que ésta (sic) lo haga del conocimiento del Consejo General;
+VI. Establecer coordinación y relaciones de mutua colaboración, previo acuerdo con el (sic) Dirección General de Orientación y Atención a Peticionarias (os), con instituciones de asistencia pública y privada, gubernamentales y no gubernamentales, que tengan como fin la atención a personas víctimas de violaciones a derechos humanos;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VII. Realizar estudios en instrumentos internacionales y nacionales sobre la protección y defensa de las personas que han sido víctimas de violaciones a derechos humanos y presentar el proyecto al (sic) Dirección General de Orientación y Atención a Peticionarias (os), para que ésta lo haga del conocimiento del Consejo General;
 
 VIII. Integrar y documentar debidamente los expedientes de las personas víctimas de violaciones a derechos humanos y en cuanto sean cubiertos los requerimientos de atención, razonar su archivo;
 
@@ -1349,21 +1423,31 @@ X. Formular programas tendientes a brindar atención integral a las víctimas de
 
 XI. Realizar las gestiones necesarias para atender a víctimas de algún delito, y que por cualquier circunstancia no reciban servicios por parte de las instituciones legalmente obligadas a ello;
 
-XII. Establecer coordinación, previo acuerdo con el Director General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), con instituciones de asistencia privada que tengan como fin la atención a personas o grupos que han sido víctimas de violaciones a derechos humanos;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XII. Establecer coordinación, previo acuerdo con el (sic) Dirección General de Orientación y Atención a Peticionarias (os), con instituciones de asistencia privada que tengan como fin la atención a personas o grupos que han sido víctimas de violaciones a derechos humanos;
 
 XIII. Asesorar a la víctima para que coadyuve con el Ministerio Público, en la aportación de pruebas, para la debida defensa jurisdiccional de sus derechos humanos;
 
 XIV. Brindar apoyo jurídico profesional a las víctimas; además de acompañarlas ante el Fiscal del Ministerio Público, y cualquier otra dependencia e instancia de la administración pública, para dar seguimiento a las gestiones y tramites que realicen;
 
-XV. Realizar estudios en instrumentos internacionales sobre la protección a víctimas de violaciones a derechos humanos y proponer, al Director General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), la armonización del marco jurídico estatal con los ordenamientos internacionales de Derechos Humanos; y,
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XVI. Las demás que le confiera la Ley, el presente Reglamento, los demás ordenamientos internos aplicables o las que le sean encomendadas por la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os).
+XV. Realizar estudios en instrumentos internacionales sobre la protección a víctimas de violaciones a derechos humanos y proponer, al (sic) Dirección General de Orientación y Atención a Peticionarias (os), la armonización del marco jurídico estatal con los ordenamientos internacionales de Derechos Humanos; y,
 
-#### Sección X. Dirección de Investigación en Derechos Humanos
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XVI. Las demás que le confiera la Ley, el presente Reglamento, los demás ordenamientos internos aplicables o las que le sean encomendadas por la Dirección General de Orientación y Atención a Peticionarias (os).
+
+#### Sección IX. Dirección de Grupos Vulnerables
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 86.
 
-La Dirección de Grupos Vulnerables velará por el cumplimiento de los Derechos Humanos de los grupos vulnerables y el acceso a la igualdad de oportunidades en cada uno de los espacios públicos y privados. Esta Dirección estará adscrita y dependerá directamente de la Dirección General de Trámites y Procedimientos para la Información, Orientación, Protección y Defensa a Peticionarias (os), y todos los acuerdos que emita serán analizados y aprobados por esta última.
+La Dirección de Grupos Vulnerables velará por el cumplimiento de los Derechos Humanos de los grupos vulnerables y el acceso a la igualdad de oportunidades en cada uno de los espacios públicos y privados. Esta Dirección estará adscrita y dependerá directamente de la Dirección General de Orientación y Atención a Peticionarias (os), y todos los acuerdos que emita serán analizados y aprobados por esta última.
+
+Para el desempeño y cumplimiento de sus funciones, esta Dirección contará con un Departamento de Vinculación con Grupos Clave.
 
 ###### Artículo 87.
 
@@ -1383,25 +1467,35 @@ IV. Asesorar administrativa y jurídicamente a los grupos vulnerables;
 
 V. Elaborar un directorio y mantenerlo actualizado de las organizaciones sociales que atiendan o trabajen con grupos vulnerables;
 
-VI. Realizar la vinculación con las dependencias e instituciones del estado que atiendan a grupos vulnerables, previo acuerdo con el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VI. Realizar la vinculación con las dependencias e instituciones del estado que atiendan a grupos vulnerables, previo acuerdo con la/el titular de la Dirección General de Orientación y Atención a Peticionarias (os);
 
 VII. Dar acompañamiento y asesoría a las organizaciones de la sociedad civil que atiendan a grupos vulnerables, cuando ellas así lo soliciten;
 
 VIII. Coadyuvar con otros actores en la promoción de los Derechos Humanos de las personas con discapacidad, así como en la promoción del derecho a la no discriminación en el Estado de Chiapas;
 
-IX. Proponer al titular de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os), reformas y/o adiciones a la legislación Estatal respecto a los grupos vulnerables;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+IX. Proponer al titular de la Dirección General de Orientación y Atención a Peticionarias (os), reformas y/o adiciones a la legislación Estatal respecto a los grupos vulnerables;
 
 X. Participar con los órganos colegiados y grupos de trabajo que atienden a grupos vulnerables; y,
 
-XI. Las demás que le confiera la Ley, el presente Reglamento, los demás ordenamientos internos aplicables y las que le sean encomendadas por la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os).
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección XI. Dirección General de Fortalecimiento y Conducción Institucional
+XI. Las demás que le confiera la Ley, el presente Reglamento, los demás ordenamientos internos aplicables y las que le sean encomendadas por la Dirección General de Orientación y Atención a Peticionarias (os).
+
+#### Sección X. Dirección de Investigación en Derechos Humanos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 89.
 
-A la Dirección de Investigación en Derechos Humanos, dependerá directamente de la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os) y le corresponderán las siguientes atribuciones:
+A la (sic) Dirección de Investigación en Derechos Humanos, dependerá directamente de la Dirección General de Educación en Derechos Humanos y Servicio Profesional y le corresponderán las siguientes atribuciones:
 
-I. Auxiliar a la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os); en casos paradigmáticos que tengan como resultado la emisión de una recomendación general o de un informe especial, coadyuvando en la elaboración de informes estadísticos e investigaciones sobre la situación de los Derechos Humanos en Chiapas;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+I. Auxiliar cuando le sea requerido a la Dirección General de Orientación y Atención a Peticionarias (os); en casos paradigmáticos que tengan como resultado la emisión de una recomendación general o de un informe especial, coadyuvando en la elaboración de informes estadísticos e investigaciones sobre la situación de los Derechos Humanos en Chiapas;
 
 II. Planear, desarrollar e implementar la investigación académica e interdisciplinaria especializada en materia de Derechos Humanos;
 
@@ -1421,9 +1515,15 @@ IX. Programar y coordinar con las otras áreas competentes, la edición de las p
 
 X. Coordinarse con las demás Áreas de Apoyo competentes, respecto al contenido y la publicación de la gaceta.
 
-XI. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Dirección General de Trámites y Procedimientos para Información, Orientación, Protección y Defensa a Peticionarias (os).
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección XII. Dirección de Evaluación y Seguimiento Institucional
+XI. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Dirección General de Educación en Derechos Humanos y Servicio Profesional.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desarrollo de sus atribuciones la Dirección de Investigación en Derechos Humanos contará con un Departamento de Documentación.
+
+#### Sección XI. Dirección General de Fortalecimiento y Conducción Institucional
 
 ###### Artículo 90.
 
@@ -1443,11 +1543,13 @@ VI. Mantener comunicación constante con instancias del poder Ejecutivo, Legisla
 
 VII. Las demás que le confiera el presente Reglamento, otras disposiciones legales internas aplicables, así como la o el Secretario (sic).
 
-#### Sección XIII. Dirección de Interlocución Institucional y Legislativa
+#### Sección XII. Dirección de Evaluación y Seguimiento Institucional
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 91.
 
-La Dirección de Evaluación y Seguimiento Institucional, estará adscrita y dependerá directamente de la Dirección General de Fortalecimiento y Conducción Institucional y se encargará de dirigir el proceso de evaluación y seguimiento institucional al cumplimiento de políticas, planes, programas, proyectos y actividades que contribuyan a la toma de decisiones institucionales y tendrá las atribuciones siguientes:
+La Dirección de Evaluación y Seguimiento Institucional, estará adscrita y dependerá directamente de la Secretaría Ejecutiva y se encargará de dirigir el proceso de evaluación y seguimiento institucional al cumplimiento de políticas, planes, programas, proyectos y actividades que contribuyan a la toma de decisiones institucionales y tendrá las atribuciones siguientes:
 
 l. Dirigir los procesos de seguimiento a la planificación anual y operativa en el marco de las directrices institucionales del Consejo;
 
@@ -1483,17 +1585,29 @@ XVI. Gestionar ante la Secretaría de Hacienda las adecuaciones presupuestales y
 
 XVII. Dirigir el sistema de gestión y control de la planificación institucional; y,
 
-XVIII. Las demás que le confiera el presente Reglamento, otras disposiciones legales internas aplicables, así como el Consejo General.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección XIV. Dirección General de Educación en Derechos Humanos y Servicio Profesional
+XVIII. Las demás que le confiera el presente Reglamento, otras disposiciones legales internas aplicables, la/el titular de la Secretaría, así como el Consejo General.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desempeño y cumplimiento de sus funciones la Dirección de Evaluación y Seguimiento Institucional contará con un Departamento de Planeación y Presupuesto y un Departamento de Evaluación y Seguimiento.
+
+#### Sección XIII. Dirección de Interlocución Institucional y Legislativa
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 92.
 
-La Dirección de Interlocución Institucional y Legislativa, estará adscrita y dependerá directamente de la Dirección General de Fortalecimiento y Conducción Institucional, y tendrá las siguientes atribuciones:
+La Dirección de Interlocución Institucional y Legislativa, estará adscrita y dependerá directamente de la Secretaría Ejecutiva, y tendrá las siguientes atribuciones:
 
-I. Proponer previo acuerdo con la Dirección General de Fortalecimiento y Conducción Institucional, la formulación de iniciativas de ley, modificaciones a las disposiciones legislativas y reglamentarias, así como de prácticas administrativas que a juicio del Consejo incidan en promover, respetar, proteger y garantizar los derechos humanos, para lo cual se tomará en cuenta los instrumentos internacionales de Derechos Humanos;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-II. Intervenir previo acuerdo con la Dirección General de Fortalecimiento y Conducción Institucional, en la definición, seguimiento y divulgación de iniciativas legislativas a favor de los derechos humanos;
+I. Proponer previo acuerdo con la Secretaría Ejecutiva, la formulación de iniciativas de ley, modificaciones a las disposiciones legislativas y reglamentarias, así como de prácticas administrativas que a juicio del Consejo incidan en promover, respetar, proteger y garantizar los derechos humanos, para lo cual se tomará en cuenta los instrumentos internacionales de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+II. Intervenir previo acuerdo con la Secretaría Ejecutiva, en la definición, seguimiento y divulgación de iniciativas legislativas a favor de los derechos humanos;
 
 III. Involucrar a los demás Órganos y Áreas de Apoyo del Consejo en las propuestas de iniciativas en Derechos Humanos que el Consejo presente al Poder Legislativo;
 
@@ -1505,7 +1619,9 @@ VI. Socializar y difundir la información y conocimiento entre el Consejo, el mo
 
 VII. Establecer vínculos de comunicación con la Comisión de Derechos Humanos del Congreso del Estado;
 
-VIII. Brindar apoyo a las o los Consejeras (os) a través de la Dirección General de Fortalecimiento y Conducción Institucional, cuando por acuerdo del Pleno del Consejo General sea necesario promover Recursos de Institucionalidad;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VIII. Brindar apoyo a los o las Consejeros (as) a través de la Secretaría Ejecutiva, cuando por acuerdo del Pleno del Consejo General sea necesario promover acciones de inconstitucionalidad;
 
 IX. Analizar la legislación estatal con la finalidad de armonizar las leyes locales, con las leyes federales e instrumentos internacionales, en materia de Derechos Humanos, velando por el mayor beneficio;
 
@@ -1513,9 +1629,11 @@ X. Vigilar puntualmente los procesos legislativos en materia de Derechos Humanos
 
 XI. Promover procesos de formación y capacitación en Derechos Humanos entre el Consejo, Organizaciones Civiles y legisladoras (es); y,
 
-XII. Las demás que le sean atribuidas por la Ley, este Reglamento, las demás disposiciones internas aplicables y la Dirección General de Fortalecimiento y Conducción Institucional.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección XV. Dirección del Servicio Profesional en Derechos Humanos
+XII. Las demás que le sean atribuidas por la Ley, este Reglamento, las demás disposiciones internas aplicables y la Secretaría Ejecutiva.
+
+#### Sección XIV. Dirección General de Educación en Derechos Humanos y Servicio Profesional
 
 ###### Artículo 93.
 
@@ -1551,7 +1669,7 @@ XIV. Sistematizar, actualizar y difundir el material de difusión en derechos hu
 
 XV. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
 
-#### Sección XVI. Dirección de Sistematización de la Información
+#### Sección XV. Dirección del Servicio Profesional en Derechos Humanos
 
 ###### Artículo 94.
 
@@ -1569,11 +1687,17 @@ V. Proponer a la o el Titular de la Secretaría las modificaciones al Estatuto d
 
 VI. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
 
-#### Sección XVII. Dirección de Asuntos Jurídicos
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desarrollo de sus atribuciones esta Dirección contará con un Departamento de Servicio Civil de Carrera.
+
+#### Sección XVI. Dirección de Sistematización de la Información
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 95.
 
-La Dirección de Sistematización de la Información dependerá directamente de la Secretaría y tiene como objetivo principal facilitar la realización de las actividades laborales, en marco de desarrollo de innovación tecnológica a través del uso de las Tecnologías de Información y Comunicación (TIC) de la manera más amplia a beneficio de la ciudadanía.
+La Dirección de Sistematización de la Información dependerá directamente de la Dirección General de Orientación y Atención a Peticionarias (os) y tiene como objetivo principal facilitar la realización de las actividades laborales, en marco de desarrollo de innovación tecnológica a través del uso de las Tecnologías de Información y Comunicación (TIC) de la manera más amplia a beneficio de la ciudadanía.
 
 ###### Artículo 96.
 
@@ -1607,7 +1731,9 @@ X. Normar las configuraciones electrónicas de los equipos de cómputo que se ad
 
 XI. Garantizar el buen funcionamiento de los equipos de cómputo y sistemas de operación, mediante programas de mantenimiento preventivo y correctivo;
 
-XII. Proponer a la Secretaría los lineamientos e indicadores de gestión a que deberán sujetarse las Áreas de Apoyo del Consejo, para la instrumentación de los sistemas internos de control y evaluación;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XII. Proponer a la Dirección de Orientación y Atención a Peticionarias (os) los lineamientos e indicadores de gestión a que deberán sujetarse las Áreas de Apoyo del Consejo, para la instrumentación de los sistemas internos de control y evaluación;
 
 XIII. Fungir, en el ámbito de su competencia, como área de consulta electrónica;
 
@@ -1641,9 +1767,15 @@ XXVII. Aplicar las políticas y normas que garanticen la compactibilidad y el us
 
 XXVIII. Coordinar el diseño y actualización de la página de Internet del Consejo; y,
 
-XXIX. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección XVIII. Dirección General de Promoción y Difusión de los Derechos Humanos
+XXIX. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Dirección General de Orientación y Atención a Peticionarias (os).
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desarrollo de sus atribuciones esta Dirección contará con un Departamento de Innovación Tecnológica.
+
+#### Sección XVII. Dirección de Asuntos Jurídicos
 
 ###### Artículo 98.
 
@@ -1673,15 +1805,17 @@ XI. Acordar con la o el Titular de la Secretaría los asuntos de su competencia;
 
 XII. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
 
-#### Sección XIX. Dirección de Resolución Positiva de Conflictos
+#### Sección XVIII. Dirección General de Promoción y Difusión de los Derechos Humanos
 
 ###### Artículo 99.
 
 El Consejo, contará con un órgano oficial de difusión denominado Gaceta del Consejo Estatal de los Derechos Humanos. Su periodicidad será trimestral y en ella se publicarán las recomendaciones, así como los documentos de no responsabilidad, informes especiales y materiales varios que, por su importancia, deban darse a conocer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### Artículo 100.
 
-Dirección General de Promoción y Difusión de los Derechos Humanos, tendrá las siguientes atribuciones:
+La Dirección General de Promoción y Difusión de los Derechos Humanos, tendrá las siguientes atribuciones:
 
 l. Proponer al Consejo General las acciones que deban seguirse para la promoción y difusión de los Derechos Humanos, de conformidad con los objetivos, metas y lineamientos que éste determine;
 
@@ -1719,19 +1853,37 @@ XV. Proporcionar la información oficial al Área de Apoyo correspondiente para 
 
 XVI. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
 
-#### Sección XX. Dirección de Investigación y Desarrollo Institucional
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desempeño y cumplimiento de sus funciones, la Dirección General de Promoción y Difusión de los Derechos Humanos, contará con:
+
+a).- Departamento de Promoción.
+
+b).- Departamento de Difusión.
+
+#### Sección XIX. Dirección de Resolución Positiva de Conflictos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 101.
 
-La Dirección de Resolución Positiva de Conflicto, estará adscrita y dependerá directamente de (sic) Secretaría y tendrá las atribuciones siguientes:
+La Dirección de Resolución Positiva de Conflictos, estará adscrita y dependerá directamente de la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
-I. Investigar, analizar e intervenir de los conflictos sociales, previo acuerdo con la Secretaría del Consejo;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-II. Intervenir en los procesos de negociación para resolver conflictos sociales, siempre y cuando así lo acuerde con la o el titular de la Secretaría;
+l. Investigar, analizar e intervenir de los conflictos sociales, previo acuerdo con la Secretaría Ejecutiva;
 
-III. Formular propuestas de conciliación o solución amistosa siempre y cuando haya acuerdo de voluntades entre las partes, durante el proceso de negociación del conflicto, previa validación por la o el titular de la Secretaría del Consejo;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-IV. Emitir opiniones y propuestas alternativas de soluciones positivas de conflictos a las autoridades del estado por conducto de la o el titular de la Secretaría del Consejo;
+II. Intervenir en los procesos de negociación para resolver conflictos sociales, siempre y cuando así lo acuerde con la o el titular de la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+III. Formular propuestas de conciliación o solución amistosa siempre y cuando haya acuerdo de voluntades entre las partes, durante el proceso de negociación del conflicto, previa validación por la o el titular de la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+IV. Emitir opiniones y propuestas alternativas de soluciones positivas de conflictos a las autoridades del estado por conducto de la o el titular de la Secretaría Ejecutiva;
 
 V. Formular propuestas de conciliación en la restitución en el goce de sus derechos a la víctima y en la reparación del daño causado, siempre que la naturaleza del caso lo permita;
 
@@ -1739,9 +1891,19 @@ VI. Promover con las partes en conflicto, la divulgación y respeto de los Derec
 
 VII. Propiciar la construcción de alternativas, articulación y participación de las partes en conflicto para la paz con justicia y dignidad; y,
 
-VIII. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-#### Sección XXI. Dirección de Estudios y Proyectos y Atención, a Organismos No Gubernamentales de Derechos Humanos
+VIII. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría Ejecutiva.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Para el desempeño y cumplimiento de sus funciones, la Dirección de Resolución Positiva de Conflictos contará con:
+
+a).- Departamento de Mediación;
+
+b).- Departamento de Vinculación con Organizaciones de la Sociedad Civil.
+
+#### Sección XX. Dirección de Investigación y Desarrollo Institucional
 
 ###### Artículo 102.
 
@@ -1777,7 +1939,7 @@ XII. Documentar y sistematizar las violaciones a los derechos humanos desagregan
 
 XIII. Las demás que le confiera el presente Reglamento, la Ley, los Ordenamientos Internos Aplicables y la Dirección General de Fortalecimiento y Conducción Institucional.
 
-#### Sección XXII. Secretaría Particular de la Presidencia
+#### Sección XXI. Dirección de Estudios y Proyectos y Atención, a Organismos No Gubernamentales de Derechos Humanos
 
 ###### Artículo 104.
 
@@ -1808,6 +1970,8 @@ XI. Dar seguimiento a los planteamientos hechos por los Organismos No Gubernamen
 XII. Convocar anualmente por acuerdo del Consejo General, al Congreso Anual de Organismos No Gubernamentales de los Derechos Humanos del Estado de Chiapas, con la finalidad de analizar la situación de los Derechos Humanos en el Estado, la elaboración de propuestas y proyectos encaminados a la creación de mecanismos para su observancia; y,
 
 XIII. Las demás que le confiera la Ley, el presente Reglamento, otras disposiciones legales internas aplicables, así como la Secretaría.
+
+#### Sección XXII. Secretaría Particular de la Presidencia
 
 ###### Artículo 105.
 
@@ -2670,3 +2834,11 @@ Artículo Sexto.- La mención que se haga en otros ordenamientos jurídicos a la
 Artículo Séptimo.- Con las excepciones que establece la Ley, para la designación de los trabajadores del Consejo; el personal que integra el Organismo, se someterán al procedimiento de evaluación para ingreso y permanencia aplicado por el Consejo. Para tal efecto el Pleno del Consejo General establecerá de manera gradual y organizada el procedimiento, sin menoscabo de los derechos laborales.
 
 Dado en la Sala de Sesiones del Consejo Estatal de los Derechos Humanos, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el día veintinueve de julio del año 2011. Mtro. Lorenzo López Méndez, Consejero Presidente Rúbrica; Lic. Jesús Ernesto Molina Ramos, Consejero de la Comisión de Asuntos Generales, Rúbrica; Mtro. Mauricio Mendoza Castañeda, Consejero de la Comisión de Atención a los Derechos Humanos de los Migrantes, Rúbrica; Mtra. Marina Patricia Jiménez Martínez, Consejera de la Comisión de Atención a los Derechos Humanos de Equidad de Género, Rúbrica; Lic. Pedro Raúl López Hernández, Consejero de la Comisión de Atención a los Derechos Humanos de los Pueblos Indígenas, Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ABRIL DE 2012.
+
+Primero.- La presente reforma entrará en vigor el día 01 de abril de 2012, mediante su publicación en la página electrónica del Consejo Estatal de los Derechos Humanos.
+
+Segundo:- Para el debido cumplimiento de la presente reforma, por conducto de la Secretaría Ejecutiva provéase lo necesario para el efecto de su publicación en la página electrónica de este Consejo; así como en el Periódico Oficial del Estado.
