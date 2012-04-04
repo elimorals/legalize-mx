@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2011-del-pleno-del-consejo-de-la-81890"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-06-30"
-last_updated: "2011-06-30"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81890&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-06-22"
 ---
 # ACUERDO GENERAL 21/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [FECHA DE INICIO DE FUNCIONES DEL JUZGADO DECIMOPRIMERO DE DISTRITO EN SAN ANDRES CHOLULA, PUEBLA, ASI COMO LA DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE LA SEDE REFERIDA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
-
-ACUERDO GENERAL 21/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DECIMOPRIMERO DE DISTRITO EN EL ESTADO DE PUEBLA, CON RESIDENCIA EN SAN ÁNDRES CHOLULA, ASÁ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA SEDE REFERIDA
+ACUERDO GENERAL 21/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DECIMOPRIMERO DE DISTRITO EN EL ESTADO DE PUEBLA, CON RESIDENCIA EN SAN ÁNDRES CHOLULA, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA SEDE REFERIDA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012.</small>
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 30 de junio de 2011.
 
@@ -75,9 +75,9 @@ SEXTO. Se modifica el rol de guardias de los Juzgados de Distrito en el Estado d
 
 SEPTIMO. El titular del Juzgado Decimoprimero de Distrito en el Estado de Puebla, con residencia en San Andrés Cholula, con asistencia de un secretario, deberá autorizar el uso de libros de gobierno nuevos, conforme a lo dispuesto en el Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
+(F. DE. E. D.O.F. DEL 4 DE ABRIL DE 2012)
 
-OCTAVO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días hábiles de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística y Planeación Judicial.
+OCTAVO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística y Planeación Judicial.
 
 De igual forma dicho titular deberá levantar por duplicado un acta administrativa del inicio de funciones del órgano jurisdiccional, cuyo formato le será proporcionado por la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, debiendo remitir un ejemplar a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
 
