@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-organismos-auxiliares-de-la-administracion-6653"
 country: "mx"
 rank: "ley"
 publication_date: "1989-07-19"
-last_updated: "2011-09-01"
+last_updated: "2012-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS ORGANISMOS AUXILIARES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 1989.
 
@@ -181,13 +181,11 @@ En los casos de fusión y liquidación de empresas de participación estatal may
 
 ### CAPITULO III. DE LOS FIDEICOMISOS PUBLICOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 19.
 
-Para los efectos de esta Ley, los fideicomisos públicos son aquéllos organismos auxiliares que se constituyan con las características señaladas en el artículo 47, primer párrafo, de la Ley Orgánica de la Administración Pública del Estado.
+Para los efectos de esta Ley, los fideicomisos públicos son aquéllos organismos auxiliares que se constituyan con las características señaladas en el artículo 48 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -196,6 +194,10 @@ Para los efectos de esta Ley, los fideicomisos públicos son aquéllos organismo
 Los fideicomisos públicos que no se constituyan con las características señaladas en el párrafo que precede, no serán considerados entidades de la administración pública paraestatal y no estarán, por tanto, sujetos a esta ley.
 
 La integración, facultades y funcionamiento de los comités y directores generales de los fideicomisos públicos se regirán, cuando sea compatible con su naturaleza, por los preceptos que esta Ley establece para los órganos de gobierno y para los directores generales.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+La forma de la rendición de cuentas debe establecerse en el contrato de Fideicomiso, informando de manera trimestral, tomando en consideración las disposiciones establecidas en el artículo 22 de la presente Ley.
 
 ###### ARTICULO 20.
 
@@ -312,6 +314,10 @@ II.- Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimen
 III.- Tener conocimientos y experiencia en materia administrativa; y
 
 IV.- Ser mayor de 25 años.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de un nuevo Director General, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado por un periodo más, de acuerdo con los requisitos que preceden.
 
 ###### ARTICULO 33.
 
@@ -666,3 +672,11 @@ SEGUNDO.- Los organismos auxiliares de la Administración Pública, dispondrán 
 TERCERO.- Se derogan todas las disposiciones administrativas y reglamentarias que se opongan al presente Decreto.
 
 CUARTO.- Remítase el presente Decreto al titular del Poder Ejecutivo para su publicación respectiva en el órgano oficial del Gobierno del Estado.
+
+P.O. 4 DE ABRIL DE 2012.
+
+PRIMERO.- Aprobado el presente, remítase para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- A más tardar en 60 días hábiles, el Ejecutivo del Estado deberá realizar las adecuaciones conforme al presente decreto, al Reglamento del Registro Público de los Organismos Descentralizados del Poder Ejecutivo del Gobierno del Estado de Morelos.
+
+TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
