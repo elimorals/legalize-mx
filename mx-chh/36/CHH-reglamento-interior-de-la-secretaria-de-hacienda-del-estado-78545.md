@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-785
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-29"
-last_updated: "2010-12-29"
+last_updated: "2012-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE HACIENDA DEL ESTADO DE CHIHUAHUA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2010.
 
@@ -95,55 +95,63 @@ El Titular de la Secretaría tendrá el cargo de Secretario, ejercerá las funci
 
 ### CAPÍTULO PRIMERO. ESTRUCTURA ORGÁNICA
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
 Al frente de la Secretaría de Hacienda estará el Secretario, quien para el ejercicio de sus atribuciones y despacho de los asuntos de su competencia, se auxiliará de las siguientes Unidades Administrativas:
 
 I.- Direcciones Generales:
 
-a) De Ingresos;
+A) De Ingresos;
 
-b) De Egresos;
+B) De Egresos;
 
-c) De Administración;
+C) De Contabilidad Gubernamental;
 
-d) De Programas de Inversión Pública;
+D) De Programas de Inversión Pública; y
 
-II.- Departamentos y unidades administrativas dependientes de la Dirección General de Ingresos:
+E) De Administración.
 
-a) Coordinación Operativa y de Servicios Administrativos;
+II.- Departamentos y Unidades Administrativas dependientes de la Dirección General de Ingresos:
 
-b) Departamento de Padrón y Control de Obligaciones;
+A) Coordinación Operativa y de Servicios Administrativos;
 
-c) Departamento de Coordinación de Ingresos de Recaudaciones de Rentas;
+B) Departamento de Padrón y Control de Obligaciones;
 
-d) Departamento de Notificación y Cobranza;
+C) Departamento de Coordinación de Ingresos de Recaudaciones de Rentas;
 
-e) Departamento de Ingresos de carreteras de cuota;
+D) Departamento de Notificación y Cobranza;
 
-f) Departamento de Análisis y Evaluación del Ingreso;
+E) Departamento de Ingresos de Carreteras de Cuota;
 
-g) Recaudaciones de Rentas y Colecturías.
+F) Departamento de Análisis y Evaluación del Ingreso; y
+
+G) Recaudaciones de Rentas y Colecturías.
 
 III.- Direcciones, Departamentos y Unidades Administrativas dependientes de la Dirección General de Egresos:
 
-A) Dirección de Presupuesto:
+A) Dirección de Presupuesto, con los siguientes Departamentos:
 
-a) Departamento de Presupuesto;
+a) Departamento de Presupuesto; y
 
-b) Departamento de Organismos descentralizados y Sector Educativo;
+b) Departamento de Programación y Control de Pagos.
 
-c) Departamento de Programación y Control de Pagos.
+B) Tesorería.
 
-B) Dirección de Contabilidad:
+IV.- Direcciones, Departamentos y Unidades Administrativas dependientes de la Dirección General de Contabilidad Gubernamental:
 
-a) Departamento de Registro Contable;
+A) Dirección de Contabilidad, con los siguientes Departamentos:
+
+a) Departamento de Registro Contable; y
 
 b) Departamento de Información Contable.
 
-IV.- Direcciones, Departamentos y Unidades dependientes de la Dirección General de Programas de Inversión Pública:
+B) Departamento de Entidades Paraestatales.
 
-A) Dirección de Programas de Inversión Pública con los siguientes Departamentos:
+V.- Direcciones, Departamentos y Unidades Administrativas dependientes de la Dirección General de Programas de Inversión Pública:
+
+A) Dirección de Programas de Inversión Pública, con los siguientes Departamentos:
 
 a) Departamento de Análisis y Formulación de Proyectos de Inversión;
 
@@ -151,7 +159,7 @@ b) Departamento de Coordinación con Municipios; y
 
 c) Departamento de Procedimientos y Normas de Programas de Inversión.
 
-B) Dirección de Seguimiento Financiero de la Inversión Pública con los siguientes Departamentos:
+B) Dirección de Seguimiento Financiero de la Inversión Pública, con los siguientes Departamentos:
 
 a) Departamento de Seguimiento de Inversiones de Programas Estatales de Inversión Pública; y
 
@@ -159,47 +167,45 @@ b) Departamento de Seguimiento de Inversiones de Programas Concertados.
 
 C) Coordinación de Enlace y Seguimiento de Gestión de Programas de Inversión Federal.
 
-V.- Direcciones, Departamentos y Unidades dependientes de la Dirección General de Administración:
+VI.- Direcciones, Departamentos y Unidades Administrativas dependientes de la Dirección General de Administración:
 
-A) Dirección de Recursos Humanos, con los siguientes Departamentos y Unidades:
+A) Dirección de Recursos Humanos, con los siguientes Departamentos y Unidades Administrativas:
 
 a) Departamento de Personal;
 
-b) Departamento de Personal Magisterial;
+b) Departamento de Personal Magisterial; y
 
 c) Centro de Capacitación y Desarrollo.
 
-B) Dirección de Adquisiciones y Servicios, con los siguientes Departamentos:
+B) Dirección de Adquisiciones y Servicios, con los siguientes Departamentos y Unidades Administrativas:
 
 a) Departamento de Adquisiciones;
 
 b) Departamento de Bienes Muebles;
 
-c) Departamento de Mantenimiento y Servicios;
+c) Departamento de Mantenimiento y Servicios; y
 
 d) Talleres Gráficos del Estado.
 
-C) Dirección de Análisis de Procesos y Desarrollo Informático con los siguientes departamentos:
+C) Dirección de Análisis de Procesos y Desarrollo Informático, con los siguientes Departamentos:
 
 a) Departamento de Análisis de Procesos;
 
-b) Departamento de Desarrollo Informático;
+b) Departamento de Desarrollo Informático; y
 
 c) Departamento de Soporte Técnico.
 
-D) Departamentos dependientes de la Dirección General de Administración:
+D) Departamento de Servicios Administrativos;
 
-a) Departamento de Servicios Administrativos;
+E) Departamento del Registro de la Propiedad Estatal; y
 
-b) Departamento del Registro de la Propiedad Estatal;
+F) Departamento de Servicios Aéreos.
 
-c) Departamento de Servicios Aéreos.
+VII.- Direcciones y Coordinaciones dependientes del Secretario:
 
-VI.- Direcciones y Coordinaciones dependientes del Secretario:
+A) Dirección Jurídica, con los siguientes Departamentos:
 
-A) Dirección Jurídica con los siguientes Departamentos:
-
-a) Departamento Jurídico Fiscal;
+a) Departamento Jurídico Fiscal; y
 
 b) Departamento Jurídico Administrativo.
 
@@ -209,19 +215,15 @@ a) Departamento de Procedimientos Legales y Programación;
 
 b) Departamento de Auditoría Fiscal Juárez;
 
-c) Departamento de Auditoría, Visitas Domiciliarias;
+c) Departamento de Auditoría, Visitas Domiciliarias; y
 
 d) Departamento de Auditoría de Dictámenes y Gabinete.
 
-C) Coordinación de Planeación y Evaluación con los siguientes Departamentos:
+C) Coordinación de Planeación y Evaluación con el siguiente Departamento:
 
-a) Departamento de Planeación;
+a) Departamento de Planeación y Evaluación.
 
-b) Departamento de Evaluación.
-
-D) Tesorería.
-
-A su vez, la (sic) Unidades Administrativas estarán integradas por supervisores administrativos, consultores, supervisores de auditoria, auditores, ministros ejecutores fiscales, notificadores y, con los demás servidores públicos que señale este Reglamento, así como con el personal que se requiera para satisfacer las necesidades del servicio y que autorice el Presupuesto de Egresos.
+A su vez, las Unidades Administrativas estarán integradas por supervisores administrativos, consultores, supervisores de auditoría, auditores, ministros ejecutores fiscales, notificadores, y con los demás servidores públicos que señale este Reglamento, así como con el personal que se requiera para satisfacer las necesidades del servicio y que autorice el Presupuesto de Egresos.
 
 ### CAPÍTULO SEGUNDO. COMPETENCIA DE LA SECRETARÍA
 
@@ -795,11 +797,11 @@ Compete a la Dirección General de Egresos:
 
 l. Establecer y aplicar las normas, lineamientos, técnicas, procedimientos y sistemas para la instrumentación y operación del sistema integral que vincule la planeación y la programación con la presupuestación del gasto público estatal y controle y registre las operaciones financieras con un enfoque por y para resultados;
 
-II. Evaluar los avances y el cumplimiento de los programas financieros del Gobierno del Estado, conforme a lo proyectado y convenido;
+II. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
 III. Analizar y proponer al Secretario, fuentes y mecanismos que se requieran para financiar el gasto público estatal, de conformidad con lo dispuesto en la Ley de Presupuesto de Egresos;
 
-IV. Solicitar la presentación de los informes a los Poderes, Entidades y Órganos Constitucionalmente Autónomos respecto a los recursos no comprometidos, y, en su caso, solicitar su devolución;
+IV. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
 V. Someter a la aprobación del Secretario, la normatividad, políticas y lineamientos que deberán seguirse para la elaboración de los anteproyectos de Presupuesto de Egresos de los Poderes, Entidades y de los Órganos Constitucionalmente Autónomos;
 
@@ -823,31 +825,33 @@ XIV. Analizar y evaluar los informes financieros relativos al ejercicio del gast
 
 XV. Someter a la aprobación del Secretario las transferencias, ampliaciones y reducciones de las partidas presupuestales, cuando no se requiera la autorización del Congreso del Estado;
 
-XVI. Llevar el Registro Público de las Entidades Paraestatales, de conformidad con lo dispuesto en la ley de la materia;
+XVI. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
-XVII. Evaluar el manejo financiero y presupuestal de las Entidades Paraestatales;
+XVII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
-XVIII. Vigilar el registro de la deuda pública del Estado y los Municipios, así como negociar la deuda pública del Estado;
+XVIII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
-XIX. Coordinarse con la Dirección Jurídica para la constitución de los Fideicomisos donde el Gobierno del Estado sea el Fideicomitente.
+XIX. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
-XX. Establecer las normas y procedimientos para la constitución, control y seguimiento de los fideicomisos instituidos por el Gobierno del Estado;
+XX. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
 XXI. Supervisar que la programación de los pagos se realice conforme al presupuesto, al calendario financiero y a la liquidez del erario estatal;
 
-XXII. Vigilar que las participaciones, fondos de aportaciones y transferencias federales que correspondan al Estado y los Municipios, se enteren en forma completa y oportuna, requisitando la documentación que sea necesaria para tal efecto.
+XXII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
-XXIII. Coordinar las actividades necesarias para proporcionar a la Secretaría de Hacienda y Crédito Público y demás instancias que soliciten informes sobre la aplicación de los recursos federales radicados al Estado;
+XXIII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
 XXIV. Proponer al Secretario la contratación de servicios financieros, bancarios y fiduciarios, garantizando que estos, se celebren en las mejores condiciones económico-financieras;
 
-XXV. Llevar la Contabilidad de la Hacienda Pública Estatal y supervisar que los Estados Financieros se elaboren con apego a las leyes, normas y políticas aplicables;
+XXV. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
 XXVI. Aprobar la normatividad a que deberá sujetarse la documentación justificativa y comprobatoria del gasto público estatal, de conformidad con las disposiciones legales y reglamentarias aplicables;
 
-XXVII. Someter a la consideración del Secretario, la cuenta pública del Estado, trimestral y anual para su presentación al H. Congreso, así como el movimiento de ingresos y egresos para su publicación mensual.
+XXVII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
 
-XXVIII. Las demás funciones que le asigne el Secretario.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE ABRIL DE 2012)</small>
+
+XXVIII. Las funciones que le asigne el Secretario, y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES Y UNIDADES ADMINISTRATIVAS DEPENDIENTES DE LA DIRECCIÓN GENERAL DE EGRESOS
 
@@ -855,43 +859,7 @@ XXVIII. Las demás funciones que le asigne el Secretario.
 
 ###### ARTÍCULO 25.
 
-Compete a la Dirección de Contabilidad las siguientes atribuciones:
-
-I. Llevar la contabilidad de la Hacienda Pública Estatal y elaborar los estados financieros, con apego a las leyes, normas y políticas aplicables;
-
-II. Autorizar el catálogo de cuentas, así como los lineamientos, en materia contable, para el registro y control de las operaciones financieras que realice el Gobierno del Estado a través de las Dependencias y Entidades;
-
-III. Vigilar que los procesos de registro, análisis, clasificación y resumen de las operaciones financieras que realiza el Gobierno del Estado, se lleven a cabo de conformidad con la ley de Contabilidad Gubernamental y los lineamientos que emita el Consejo de Armonización Contable, y que los informes contables que se elaboren sean confiables y oportunos;
-
-IV. Establecer y supervisar los sistemas de control interno para el manejo adecuado y seguro de las operaciones financieras;
-
-V. Someter a consideración del Director General de Egresos, la normatividad a que deberá sujetarse la documentación justificativa y comprobatoria del gasto público estatal, de conformidad con las disposiciones legales y reglamentarias aplicables;
-
-VI. Solicitar a las Entidades la información financiera y presupuestal requerida por las comisiones legislativas;
-
-VII. Implementar los mecanismos y sistemas para la integración y control de la información documental, así como para la elaboración de informes contables, financieros y demás que se requieran;
-
-VIII. Ordenar la publicación conforme a la ley del movimiento de ingresos y egresos del Gobierno del Estado;
-
-IX. Formular las cuentas públicas y remitirlas al Director General de Egresos para su presentación al Secretario;
-
-X. Custodiar y mantener actualizada la información financiera, presupuestal y contable que se derive del ingreso, del ejercicio del gasto y de las demás transacciones efectuadas por el Gobierno del Estado;
-
-XI. Emitir, con autorización del Director General de Egresos, la normatividad a que deberán sujetarse las Entidades al rendir sus informes y cuentas;
-
-XII. Formular las cuentas mensuales que se remiten al Gobierno Federal, de acuerdo con lo establecido en la Ley de Coordinación Fiscal y en los convenios de coordinación y de colaboración de la materia;
-
-XIII. Vigilar el cumplimiento de las obligaciones fiscales del Gobierno del Estado con la federación, evitando retrasos que generen recargos y multas;
-
-XIV. Recibir, aplicar y registrar la documentación comprobatoria del ingreso y del gasto;
-
-XV. Vigilar el cumplimiento de pago de las participaciones a los Municipios y de los pasivos a cargo del erario estatal e informar por escrito al Director General de Egresos y al Secretario;
-
-XVI. Revisar los estados de cuenta bancarios y efectuar la conciliación y aclaración correspondientes;
-
-XVII. Revisar y vigilar el cumplimiento de las normas y procedimientos establecidos para las conciliaciones bancarias por parte de las Dependencias que manejen fondos revolventes; y
-
-XVIII. Establecer las normas y procedimientos para la actualización, custodia y salvaguarda de los archivos que contienen la documentación comprobatoria de las operaciones registradas y la información contable y financiera, así como verificar su cumplimiento.
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 APARTADO ÚNICO
 
@@ -899,53 +867,11 @@ DE LOS DEPARTAMENTOS DE LA DIRECCIÓN DE CONTABILIDAD
 
 ###### ARTÍCULO 26.
 
-Compete al Departamento de Registro Contable:
-
-I. Elaborar el catálogo de cuentas, así como los lineamientos, en materia contable, para el registro y control de las operaciones financieras que realice el Gobierno del Estado a través de las Dependencias y Entidades;
-
-II. Operar los sistemas y procedimientos para la actualización del catálogo de cuentas y el registro contable de las operaciones financieras realizadas por el Gobierno del Estado, con apego a las leyes, normas y políticas en la materia;
-
-III. Verificar y controlar la información y documentación soporte de los registros contables, derivadas de las operaciones financieras que realiza el Gobierno del Estado;
-
-IV. Implementar y supervisar los mecanismos para que las pólizas recibidas por el Departamento y las generadas dentro del mismo, se registren afectando las cuentas correspondientes;
-
-V. Elaborar las liquidaciones que servirán de base para el pago de los pasivos a cargo del erario estatal, conforme a las normas establecidas;
-
-VI. Verificar que se realicen las retenciones de impuestos conforme a las disposiciones legales en la materia;
-
-VII. Verificar e integrar las cuentas por cobrar y notificarlas a las Dependencias y Entidades;
-
-VIII. Supervisar que el registro contable de comprobación de anticipos otorgados, efectuado por las Dependencias encargadas de la ejecución de los programas de inversión y obra pública, se realice de conformidad a las disposiciones legales aplicables;
-
-IX. Formular las conciliaciones bancarias, de conformidad con las normas y procedimientos establecidos; y
-
-X. Archivar y resguardar la documentación base de las operaciones contables y supervisar su manejo de acuerdo a los sistemas y procedimientos establecidos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 27.
 
-Compete al Departamento de Información Contable:
-
-l. Diseñar y presentar los reportes contables y financieros;
-
-II. Formular los informes del movimiento de ingresos y egresos;
-
-III. Elaborar trimestral y anualmente la Cuenta Pública del Gobierno del Estado;
-
-IV. Vigilar que la información contable y financiera se emita de acuerdo a los ordenamientos de la materia;
-
-V. Preparar la información que se entrega a la Secretaría de Hacienda y Crédito Público, en materia de recaudación de ingresos federales coordinados, cumpliendo con los requisitos establecidos al efecto;
-
-VI. Elaborar los reportes de cierre de mes y anuales;
-
-VII. Formular la liquidación mensual y anual, por concepto del Impuesto Sobre la Renta, de las retenciones efectuadas al personal del Gobierno del Estado y elaborar las declaraciones correspondientes;
-
-VIII. Supervisar la emisión de constancias de percepciones y retenciones al personal del Gobierno del Estado;
-
-IX. Elaborar las liquidaciones por concepto de participaciones a Municipios, así como solicitar el pago correspondiente.
-
-X. Dar seguimiento al Sistema de Formato Único en el Portal Aplicativo de la Secretaría de Hacienda y Crédito Público (PASH).
-
-XI. Garantizar Informe trimestral en la página del Portal de Gobierno del Estado del ejercicio de los diferentes fondos.
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE PRESUPUESTO
 
@@ -979,39 +905,73 @@ XII. Proporcionar la información de los pagos que derivados de financiamientos,
 
 XIII. Crear y mantener actualizada la base de datos de los principales indicadores que se manejan en los mercados financieros, con la finalidad de que la Secretaría, se encuentre en posibilidad de tomar las mejores decisiones en el ámbito de su competencia.
 
-XXIX (SIC). Evaluar los avances y el cumplimiento de los programas financieros del Gobierno del Estado, conforme a lo proyectado y convenido;
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XXX. Someter a la aprobación del Director General de Egresos, la normatividad, políticas y lineamientos que deberán seguirse para la elaboración de los anteproyectos de Presupuesto de Egresos de los Poderes, Entidades y de los Órganos Constitucionalmente Autónomos;
+XIV. Someter a la aprobación del Director General de Egresos, la normatividad, políticas y lineamientos que deberán seguirse para la elaboración de los anteproyectos de Presupuesto de Egresos de los Poderes, Entidades y de los Órganos Constitucionalmente Autónomos;
 
-XXXI. Analizar y evaluar los anteproyectos de Presupuesto de Egresos que formulen las Dependencias y Entidades;
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XXXII. Garantizar la elaboración del Presupuesto de Egresos, bajo la técnica de un Presupuesto basado en Resultados, instrumentándolo de una manera gradual y paulatina en todas las Dependencias y Entidades del Gobierno del Estado, atendiendo a lo dispuesto en la ley de Presupuesto de Egresos, Contabilidad y Gasto Público;
+XV. Analizar y evaluar los anteproyectos de Presupuesto de Egresos que formulen las Dependencias y Entidades;
 
-XXXIII. Analizar y evaluar los informes financieros relativos al ejercicio del gasto y control del presupuesto y presentarlos al Director General de Egresos, con los dictámenes y opiniones respecto a los resultados y el impacto de la ejecución de los programas presupuestales, así como de la aplicación de los recursos asignados a estos, requiriendo para tal efecto, la información a las Dependencias y Entidades;
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XXXIV. Someter a la aprobación del Director General de Egresos las transferencias, ampliaciones y reducciones de las partidas presupuestales, cuando no se requiera la autorización del Congreso del Estado;
+XVI. Garantizar la elaboración del Presupuesto de Egresos, bajo la técnica de un Presupuesto basado en Resultados, instrumentándolo de una manera gradual y paulatina en todas las Dependencias y Entidades del Gobierno del Estado, atendiendo a lodispuesto (sic) en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público;
 
-XXXV. Coordinar las actividades relacionadas con el funcionamiento de la Comisión Estatal de Gasto Financiamiento; de conformidad con lo establecido en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público y en el Reglamento de esta Comisión.
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XXXVI. Supervisar que la programación de los pagos se realice conforme al presupuesto, al calendario financiero y a la liquidez del erario estatal;
+XVII. Someter a la aprobación del Director General de Egresos las transferencias, ampliaciones y reducciones de las partidas presupuestales, cuando no se requiera la autorización del Congreso del Estado;
 
-XXXVII. Mantener actualizado el registro de los fideicomisos públicos; así como la base de datos que contenga los elementos constitutivos y los movimientos financieros de su patrimonio.
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XXXVIII. Asistir a las reuniones de comité técnico de los fideicomisos públicos.
+XVIII. Coordinar las actividades relacionadas con el funcionamiento de la Comisión Estatal de Gasto Financiamiento; de conformidad con lo establecido en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público y en el Reglamento de esta Comisión;
 
-XXXIX. Coadyuvar en el proceso tanto de constitución como de extinción de los fideicomisos públicos.
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XIX. Supervisar que la programación de los pagos se realice conforme al presupuesto, al calendario financiero y a la liquidez del erario estatal; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XX. Las funciones que le asigne el Secretario, el Director General de Egresos y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+XXIX (SIC). (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXX. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXI. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXIII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXIV. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXV. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXVI. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXVII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXVIII. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+XXXIX. (DEROGADA, P.O. 4 DE ABRIL DE 2012)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2012)</small>
 
 APARTADO ÚNICO
 
-DE LOS DEPARTAMENTOS DEPENDIENTES DE LA DIRECCION DE PRESUPUESTO
+DE LOS DEPARTAMENTOS DEPENDIENTES DE LA DIRECCIÓN DE PRESUPUESTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 29.
 
-Compete al Departamento del Presupuesto:
+Compete al Departamento de Presupuesto:
 
 I. Formular la normatividad, lineamientos y políticas para la formulación de los anteproyectos de presupuesto de egresos de los Poderes Ejecutivo, Legislativo y Judicial, así como de las Entidades y Órganos Constitucionalmente Autónomos;
 
-II. Diseñar y elaborar los formularios e instructivos, para la realización de los anteproyectos de presupuesto de egresos de las Dependencias;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+II. Diseñar y elaborar los formularios e instructivos, para la realización de los anteproyectos de presupuesto de egresos de las Dependencias y Entidades;
 
 III. Utilizar la metodología del marco lógico y la matriz de indicadores para resultados, para definir el alcance de los programas presupuestarios que permitan identificar las demandas sociales prioritarias, que requieren de una acción gubernamental para ser resueltas, analizando las opciones más efectivas para lograrlo, así mismo establecer los Indicadores que permitan medir el avance en el grado de cumplimiento de los objetivos y metas trazados (sic);
 
@@ -1021,7 +981,9 @@ IV. Definir los programas presupuestarios y la estructura programática que debe
 
 V. Informar al Director de Presupuesto el monto correspondiente al techo financiero, que servirá de base para la elaboración de los programas operativos anuales y el anteproyecto de presupuesto de egresos, a efecto de que éste los haga del conocimiento del Director General de Egresos;
 
-VI. Llevar el control y seguimiento de la elaboración de los anteproyectos de presupuesto de egresos, de acuerdo a la normatividad establecida;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VI. Llevar el control y seguimiento de la elaboración de los anteproyectos de presupuesto de egresos de las Dependencias y Entidades, de acuerdo a la normatividad establecida;
 
 VII. Reunir, analizar e integrar la información necesaria para la formulación del anteproyecto de presupuesto de egresos;
 
@@ -1043,49 +1005,37 @@ XV. Solicitar a la Coordinación de Planeación y Evaluación de esta Secretarí
 
 XVI. Tramitar las transferencias, ampliaciones y reducciones a las partidas del presupuesto, en el ámbito de su competencia;
 
-XVII. Supervisar y evaluar la aplicación del presupuesto de las Dependencias, así como requerir la información sobre la comprobación de la aplicación de los recursos ejercidos;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XVII. Supervisar y evaluar la aplicación del presupuesto de las Dependencias y Entidades, así como requerir la información sobre la comprobación de la aplicación de los recursos ejercidos;
 
 XVIII. Elaborar un informe de las Dependencias, respecto de los recursos no comprometidos;
 
 XIX. Establecer y supervisar los sistemas de control de la disponibilidad de saldos de las partidas presupuestales;
 
-XX. Vigilar que los convenios financieros que obliguen económicamente al Estado, tengan el sustento presupuestal y cumplan con las disposiciones legales, previo a la firma del Secretario; y
+XX. Vigilar que los convenios financieros que obliguen económicamente al Estado, tengan el sustento presupuestal y cumplan con las disposiciones legales, previo a la firma del Secretario; y (sic)
 
 XXI. Vigilar la operación, dar seguimiento y controlar el ejercicio del Presupuesto de Egresos.
 
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXII. Informar a las Entidades y Órganos Autónomos el monto correspondiente al techo financiero, el cual será la base para la elaboración de sus programas operativos anuales y su anteproyecto de presupuesto de egresos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXIII. Integrar los anteproyectos del presupuesto de egresos aplicando la metodología del marco lógico y matriz de indicadores de las entidades y dependencias dentro de su ámbito de competencia de conformidad con las disposiciones legales y reglamentarias aplicables, en estrecha coordinación con las dependencias cabeza de sector, en lo que se refiere a los organismos descentralizados sectorizados a su cargo;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXIV. Dar a conocer a los Órganos Autónomos y Entidades, los montos presupuestales autorizados a ejercer;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXV. Las funciones que le asigne el Secretario, el Director General de Egresos, el Director de Presupuesto y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
 ###### ARTÍCULO 30.
 
-Compete al Departamento de Organismos Descentralizados y Sector Educativo:
-
-l. Diseñar y elaborar los formularios e instructivos para la realización de los anteproyectos de presupuesto de egresos de las Entidades y el sector educativo;
-
-II. Llevar el control y seguimiento de la elaboración de los anteproyectos de presupuesto de las Entidades y el sector educativo, de acuerdo a la normatividad establecida;
-
-III. Establecer y actualizar el Registro Público de los Organismos Descentralizados y demás Entidades;
-
-IV. Establecer y mantener actualizado un sistema de registro, control e información de la situación financiera de las Entidades, que sirva de apoyo para analizar y dictaminar sus anteproyectos de presupuesto;
-
-V. Establecer, con apego al modelo de gestión para resultados, los mecanismos de seguimiento y evaluación del ejercicio del gasto, en coordinación con el Departamento de Programación y Control de Pagos y las unidades orgánicas de las Dependencias y Entidades, dentro del ámbito de su competencia;
-
-VI. Informar a las Entidades y Órganos Autónomos el monto correspondiente al techo financiero, el cual será la base para la elaboración de sus programas operativos anuales y su anteproyecto de presupuesto de egresos;
-
-VII. Detectar y analizar las variaciones del gasto ejercido respecto al presupuesto y a los objetivos y metas trazados por las Dependencias y Entidades, a fin de aplicar las medidas correctivas pertinentes;
-
-VIII. Integrar los anteproyectos del presupuesto de egresos aplicando la metodología de marco lógico y matriz de indicadores de las entidades y dependencias dentro de su ámbito de competencia de conformidad con las disposiciones legales reglamentarias aplicables en estrecha coordinación con las dependencias cabezas de sector, en lo que se refiere a los organismos descentralizados sectorizados a su cargo;
-
-IX. Tramitar las transferencias, ampliaciones y reducciones a las partidas del presupuesto, en el ámbito de su competencia y con apego a la ley;
-
-X. Dar a conocer a los Órganos Autónomos, Entidades y sector educativo, los montos presupuestales autorizados a ejercer;
-
-XI. Supervisar y evaluar la aplicación del presupuesto de las Entidades y del sector educativo, así como requerir la información sobre la comprobación de la aplicación de los recursos ejercidos;
-
-XII. Elaborar un informes (sic) de los Órganos Autónomos, Entidades y sector educativo, respecto de los recursos no comprometidos;
-
-XIII. Mantener actualizadas las plantillas de personal de las Entidades, dentro del límite de los recursos presupuestales;
-
-XIV. Vigilar que los convenios financieros que obliguen económicamente a las Entidades, tengan el sustento presupuestal y cumplan con las disposiciones legales, previo a la firma del Secretario;
-
-XV. Asistir en forma regular y sistemática a las reuniones de los órganos de gobierno de los organismos descentralizados; (sic)
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 31.
 
@@ -1101,25 +1051,263 @@ IV. Llevar el registro y control de las solicitudes de pago con cargo al Presupu
 
 V. Efectuar la programación de los pagos, de acuerdo a la disponibilidad presupuestal de las partidas y al calendario financiero autorizado, cuidando la liquidez del erario estatal, en coordinación con la Tesorería;
 
-VI. Establecer la coordinación necesaria con todos los Departamentos dependientes de la Dirección de Presupuesto y con la Dirección de Contabilidad, con la finalidad de garantizar la eficacia y seguridad en el sistema integral de registro, control e información del egreso; y
+VI. Establecer la coordinación necesaria con todos los Departamentos dependientes de la Dirección de Presupuesto y con la Dirección de Contabilidad, con la finalidad de garantizar la eficacia y seguridad en el sistema integral de registro, control e información del egreso; y (sic)
 
 VII. Establecer mecanismos de coordinación entre la Secretaría y las diferentes entidades para que el proceso de las solicitudes de pago en el ejercicio del gasto público, sean expeditas y oportunas.
 
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE PROGRAMAS DE INVERSIÓN PÚBLICA
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VIII. Las funciones que le asigne el Secretario, el Director General de Egresos, el Director de Presupuesto y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN TERCERA. DE LA TESORERÍA
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 31 Bis.
+
+Compete a la Tesorería:
+
+I. Controlar y custodiar los fondos, títulos de crédito, fianzas y demás valores que posea la Secretaría con motivo de sus funciones;
+
+II. Recibir las concentraciones de fondos de las Recaudaciones de Rentas, el efectivo y los valores por otros conceptos, así como efectuar los depósitos correspondientes en las instituciones del sistema financiero;
+
+III. Solicitar cuando así se establezca, la radicación de los recursos que correspondan al Gobierno del Estado, Municipios y Organismos Descentralizados, cuando deban ser enviados por las diferentes instancias del Gobierno Federal; de igual forma las que se deriven de convenios con instituciones del sector financiero o particulares;
+
+IV. Efectuar la radicación de fondos que tenga que realizar el Gobierno del Estado, a las diferentes instancias del Gobierno Federal, Municipios y Organismos Descentralizados; de igual forma las que se deriven en virtud de convenios o contratos con instituciones del sector financiero o particulares;
+
+V. Realizar los pagos, en coordinación con el Departamento de Programación y Control de Pagos, para que de acuerdo a la liquidez del erario estatal se liberen adecuadamente;
+
+VI. Controlar los movimientos de las cuentas de cheques con las que opera el sistema de pagos;
+
+VII. Efectuar el corte diario de caja y llevar los registros para el control de los movimientos de ingresos y egresos;
+
+VIII. Remitir a la Dirección de Contabilidad la documentación comprobatoria del movimiento de ingresos y egresos, para el registro correspondiente;
+
+IX. Concentrar los cheques devueltos por las Instituciones Bancarias y remitirlos al Departamento de Ejecución para su cobro;
+
+X. Expedir certificaciones y recibos oficiales correspondientes al ingreso de recursos;
+
+XI. Vigilar que la entrega de las participaciones, fondos de aportaciones y transferencias federales, se realicen de manera completa y oportuna;
+
+XII. Recibir y revisar previo a su envío, las emisiones de nómina, becas, subsidios y cheques foráneos, a efecto de que sean entregadas en las recaudaciones de rentas correspondientes, estableciendo para ello, los controles adecuados;
+
+XIII. Establecer los mecanismos que permitan analizar a corto, mediano y largo plazo el flujo de efectivo, a efecto de cumplir adecuadamente con el gasto público estatal;
+
+XIV. Analizar el flujo de efectivo para determinar los remanentes en el manejo diario de los fondos del erario estatal; así como invertir dichos remanentes en los instrumentos del sistema financiero nacional que ofrezca mejores rendimientos;
+
+XV. Recibir los trámites correspondientes para efectuar en tiempo y forma, los pagos derivados de los instrumentos de financiamiento que haya suscrito la Secretaría, incluyendo aquellos en los que se constituya como vehículo de pago, tratándose de organismos descentralizados, fideicomisos o municipios; en conjunto con la Dirección de Presupuesto; y
+
+XVI. Las funciones que le asigne el Secretario, el Director General de Egresos y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2012)</small>
+
+## TÍTULO QUINTO BIS. DE LA DIRECCIÓN GENERAL DE CONTABILIDAD GUBERNAMENTAL
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO PRIMERO. ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 31 Bis
+
+1.- Compete a la Dirección General de Contabilidad Gubernamental:
+
+I. Evaluar los avances y el cumplimiento de los programas financieros del Gobierno del Estado, conforme a los registros contables;
+
+II. Solicitar la presentación de los informes a los Poderes, Entidades y Órganos Constitucionalmente Autónomos respecto a los recursos no comprometidos, y en su caso, solicitar su devolución;
+
+III. Llevar el Registro Público de las Entidades Paraestatales, de conformidad con lo dispuesto en la ley de la materia;
+
+IV. Evaluar el manejo financiero y presupuestal de las Entidades Paraestatales;
+
+V. Vigilar el registro de la deuda pública del Estado y los Municipios;
+
+VI. Coordinarse con la Dirección Jurídica para la constitución y extinción de los Fideicomisos donde el Gobierno del Estado sea el Fideicomitente;
+
+VII. Establecer las normas y procedimientos para la constitución, control y seguimiento de los fideicomisos instituidos por el Gobierno del Estado;
+
+VIII. Vigilar que las participaciones, fondos de aportaciones y transferencias federales que correspondan al Estado y los Municipios, se enteren en forma completa y oportuna, requisitando la documentación que sea necesaria para tal efecto;
+
+IX. Coordinar las actividades necesarias para proporcionar a la Secretaría de Hacienda y Crédito Público y demás instancias que soliciten informes sobre la aplicación de los recursos federales radicados al Estado;
+
+X. Llevar la Contabilidad de la Hacienda Pública Estatal y supervisar que los Estados Financieros se elaboren con apego a las leyes, normas y políticas aplicables;
+
+XI. Verificar el cumplimiento de la normatividad a que deberá sujetarse la documentación justificativa y comprobatoria del gasto público y el ingreso estatal, de conformidad con las disposiciones legales y reglamentarias aplicables;
+
+XII. Someter a la consideración del Secretario, la cuenta pública del Estado, trimestral y anual para su presentación al H. Congreso, así como el movimiento de ingresos y egresos para su publicación mensual;
+
+XIII. Analizar y evaluar los estados financieros relativos al ejercicio del gasto y control del presupuesto y presentarlos al Secretario con los dictámenes y opiniones respecto a los resultados y el impacto de la ejecución de los programas presupuestales, así como de la aplicación de los recursos asignados a estos, requiriendo para tal efecto, la información a las Dependencias y Entidades;
+
+XIV. Asistir a través del Departamento de Entidades Paraestatales, en forma regular y sistemática a las reuniones de los órganos de gobierno de las Entidades Paraestatales;
+
+XV. Representar al Secretario de Hacienda en los foros, eventos y reuniones nacionales en el ámbito de su competencia;
+
+XVI. Rendir informes de índole contable, financiera y presupuestal que solicite el Secretario;
+
+XVII. Vigilar y evaluar los trabajos del Consejo de Armonización Contable del Estado de Chihuahua, así como los que emanen de los Comités de Trabajo del mismo, de acuerdo a la normatividad aplicable;
+
+XVIII. Autorizar el Catálogo de Cuentas, así como los lineamientos, en materia contable, para el registro y control de las operaciones financieras que realice el Gobierno del Estado a través de las Dependencias y Entidades;
+
+XIX. Vigilar el cumplimiento de las obligaciones fiscales a cargo de (sic) Gobierno del Estado y suscribir las declaraciones, avisos, solicitudes, constancias y demás documentos que se requieran ante el Servicio de Administración Tributaria o ante las instituciones de crédito autorizadas, conforme a las disposiciones fiscales aplicables;
+
+XX. Establecer las normas y políticas del soporte documental que debe llevar cada registro contable que conforma la Cuenta Pública del Estado de Chihuahua;
+
+XXI. Las funciones que le asigne el Secretario y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES Y UNIDADES ADMINISTRATIVAS DEPENDIENTES DE LA DIRECCIÓN GENERAL DE CONTABILIDAD GUBERNAMENTAL
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE CONTABILIDAD
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 31 Bis
+
+2.- Compete a la Dirección de Contabilidad:
+
+I. Elaborar y supervisar la contabilidad de la Hacienda Pública Estatal y elaborar los estados financieros, con apego a las leyes, normas y políticas aplicables;
+
+II. Proponer para su autorización al Director General de Contabilidad Gubernamental el catálogo de cuentas, así como los lineamientos, en materia contable, para el registro y control de las operaciones financieras que realice el Gobierno del Estado a través de las Dependencias y Entidades;
+
+III. Llevar a cabo los procesos de registro, análisis, clasificación y resumen de las operaciones financieras que realiza el Gobierno del Estado, de conformidad con la Ley de Contabilidad Gubernamental y los lineamientos que emita el Consejo de Armonización Contable del Estado de Chihuahua, y que los informes contables que se elaboren sean confiables y oportunos;
+
+IV. Proponer y ejecutar los sistemas de control interno para el manejo adecuado y seguro de las operaciones financieras;
+
+V. Elaborar y someter a consideración del Director General de Contabilidad Gubernamental, la normatividad a que deberá sujetarse la documentación justificativa y comprobatoria del gasto público estatal, de conformidad con las disposiciones legales y reglamentarias aplicables;
+
+VI. Implementar los mecanismos y sistemas para la integración y control de la información documental, así como para la elaboración de informes contables, financieros y demás que se requieran;
+
+VII. Elaborar y revisar las cuentas públicas y remitirlas al Director General de Contabilidad Gubernamental para su presentación al Secretario;
+
+VIII. Custodiar y mantener actualizada la información financiera, presupuestal y contable que se derive del ingreso, del ejercicio del gasto y de las demás transacciones efectuadas por el Gobierno del Estado;
+
+IX. Realizar y presentar para su aprobación al Director General de Contabilidad Gubernamental, la normatividad a que deberán sujetarse las entidades al rendir sus informes y cuentas;
+
+X. Formular las cuentas mensuales que se remiten al Gobierno Federal, de acuerdo con lo establecido en la Ley de Coordinación Fiscal y en los convenios de coordinación y de colaboración en la materia;
+
+XI. Realizar las actividades necesarias para el cumplimiento de las obligaciones fiscales del Gobierno del Estado con la federación, evitando retrasos que generen recargos y multas;
+
+XII. Recibir, aplicar y registrar la documentación comprobatoria del ingreso y del gasto;
+
+XIII. Supervisar el cumplimiento de pago de las participaciones a los Municipios y de los pasivos a cargo del erario estatal e informar por escrito al Director General de Contabilidad Gubernamental y al Secretario;
+
+XIV. Revisar los estados de cuenta bancarios y efectuar la conciliación y aclaración correspondientes;
+
+XV. Coordinar y realizar el cumplimiento de las normas y procedimientos establecidos para las conciliaciones bancarias por parte de las Dependencias que manejen fondos revolventes;
+
+XVI. Proponer las normas y procedimientos para la actualización, custodia y salvaguarda de los archivos que contienen la documentación comprobatoria de las operaciones registradas y la información contable y financiera, así como verificar su cumplimiento;
+
+XVII. Solicitar a las Entidades la información financiera y presupuestal requerida por las comisiones legislativas; y
+
+XVIII. Las funciones que le asigne el Secretario, el Director General de Contabilidad Gubernamental y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2012)</small>
+
+APARTADO ÚNICO
+
+DE LOS DEPARTAMENTOS DE LA DIRECCIÓN DE CONTABILIDAD
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 31 Bis
+
+3.- Compete al Departamento de Registro Contable:
+
+I. Elaborar el catálogo de cuentas, así como los lineamientos, en materia contable, para el registro y control de las operaciones financieras que realice el Gobierno del Estado a través de las Dependencias y Entidades Paraestatales;
+
+II. Operar los sistemas y procedimientos para la actualización del catálogo de cuentas y el registro contable de las operaciones financieras realizadas por el Gobierno del Estado, con apego a las leyes, normas y políticas en la materia;
+
+III. Verificar y controlar la información y documentación soporte de los registros contables, derivadas de las operaciones financieras que realiza el Gobierno del Estado;
+
+IV. Implementar y supervisar los mecanismos para que las pólizas recibidas por el Departamento y las generadas dentro del mismo, se registren afectando las cuentas correspondientes;
+
+V. Elaborar las liquidaciones que servirán de base para el pago de los pasivos a cargo del erario estatal, conforme a las normas establecidas;
+
+VI. Verificar que se realicen las retenciones de impuestos conforme a las disposiciones legales en la materia;
+
+VII. Verificar e integrar las cuentas por cobrar y notificarlas a las Dependencias y Entidades;
+
+VIII. Supervisar que el registro contable de comprobación de anticipos otorgados, efectuado por las Dependencias encargadas de la ejecución de los programas de inversión y obra pública, se realice de conformidad a las disposiciones legales aplicables;
+
+IX. Formular las conciliaciones bancarias, de conformidad con las normas y procedimientos establecidos;
+
+X. Archivar y resguardar la documentación base de las operaciones contables y supervisar su manejo de acuerdo a los sistemas y procedimientos establecidos; y
+
+XI. Las funciones que le asigne el Secretario, el Director General de Contabilidad Gubernamental, el Director de Contabilidad y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 31 Bis
+
+4.- Compete al Departamento de Información Contable:
+
+I. Diseñar y presentar los reportes contables y financieros;
+
+II. Formular los informes del movimiento de ingresos y egresos;
+
+III. Elaborar trimestral y anualmente la Cuenta Pública del Gobierno del Estado;
+
+IV. Vigilar que la información contable y financiera se emita de acuerdo a los ordenamientos de la materia;
+
+V. Preparar la información que se entrega a la Secretaría de Hacienda y Crédito Público, en materia de recaudación de ingresos federales coordinados, cumpliendo con los requisitos establecidos al efecto;
+
+VI. Elaborar los reportes de cierre de mes y anuales;
+
+VII. Formular la liquidación mensual y anual, por concepto del Impuesto Sobre la Renta, de las retenciones efectuadas al personal del Gobierno del Estado y elaborar las declaraciones correspondientes;
+
+VIII. Supervisar la emisión de constancias de percepciones y retenciones al personal del Gobierno del Estado;
+
+IX. Elaborar las liquidaciones por concepto de participaciones a Municipios, así como solicitar el pago correspondiente;
+
+X. Dar seguimiento al Sistema de Formato Único en el Portal Aplicativo de la Secretaría de Hacienda y Crédito Público (PASH);
+
+XI. Garantizar Informe trimestral en la página del Portal de Gobierno del Estado del ejercicio de los diferentes fondos; y
+
+XII. Las funciones que le asigne el Secretario, el Director General de Contabilidad Gubernamental, el Director de Contabilidad y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 4 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. DEL DEPARTAMENTO DE ENTIDADES PARAESTATALES
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### ARTÍCULO 31 Bis
+
+5.- Compete al Departamento de Entidades Paraestatales:
+
+I. Realizar y actualizar el Registro Público de las Entidades Paraestatales;
+
+II. Establecer y mantener actualizado un sistema de registro, control e información de la situación financiera de las Entidades Paraestatales, que sirva de apoyo para analizar y dictaminar sus anteproyectos de presupuesto;
+
+III. Verificar las variaciones del gasto ejercido respecto al presupuesto y a los objetivos y metas trazados por las Entidades, a fin de aplicar las medidas correctivas pertinentes;
+
+IV. Elaborar un informe de los Órganos Autónomos y Entidades Paraestatales, respecto de los recursos no comprometidos;
+
+V. Mantener actualizadas las plantillas de personal de las Entidades Paraestatales, dentro del límite de los recursos presupuestales;
+
+VI. Supervisar que los convenios financieros que obliguen económicamente a las Entidades, tengan el sustento presupuestal y cumplan con las disposiciones legales, previo a la firma del Secretario;
+
+VII. Promover las normas y procedimientos para la constitución, control y seguimiento de los fideicomisos instituidos por Gobierno del Estado, para la aprobación del Director General de Contabilidad Gubernamental;
+
+VIII. Asistir en forma regular y sistemática a las reuniones de los órganos de gobierno de las Entidades Paraestatales;
+
+IX. Coadyuvar en el proceso tanto de constitución como de extinción de los fideicomisos públicos;
+
+X. Atender, dentro de su competencia, todos los trámites y asuntos relativos a la operación de las Entidades Paraestatales;
+
+XI. Coordinar y Supervisar los trabajos del Consejo de Armonización Contable del Estado de Chihuahua, así como los de los Comités de Trabajo de acuerdo a la normatividad aplicable; y
+
+XII. Las funciones que le asigne el Secretario, el Director General de Contabilidad Gubernamental y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
 
 ## TÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE PROGRAMAS DE INVERSIÓN PÚBLICA
 
 ### CAPÍTULO PRIMERO. ATRIBUCIONES
-
-### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES DE LA DIRECCIÓN GENERAL DE PROGRAMAS DE INVERSIÓN PÚBLICA
-
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE SEGUIMIENTO FINANCIERO DE INVERSIONES
-
-#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
-
-## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
-
-### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS DEPENDIENTES DE LA DIRECCIÓN GENERAL DE PROGRAMAS DE INVERSIÓN PÚBLICA
 
 ###### ARTÍCULO 32.
 
@@ -1169,9 +1357,9 @@ XXI. Proponer y en su caso opinar sobre las modificaciones al marco normativo de
 
 XXII. Las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables y las que le designe directamente el Secretario.
 
-### CAPÍTULO PRIMERO. ATRIBUCIONES
+### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES DE LA DIRECCIÓN GENERAL DE PROGRAMAS DE INVERSIÓN PÚBLICA
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADQUISICIONES Y SERVICIOS
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE PROGRAMAS DE INVERSIÓN PÚBLICA
 
 ###### ARTÍCULO 33.
 
@@ -1261,7 +1449,7 @@ IX. Generar y validar la información, que se requiera, en el ámbito de su comp
 
 X. Las demás que le señale el Director General y las disposiciones jurídicas aplicables.
 
-#### SECCIÓN TERCERA. DE LA DIRECCION DE ANALISIS DE PROCESOS Y DESARROLLO INFORMATICO
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE SEGUIMIENTO FINANCIERO DE INVERSIONES
 
 ###### ARTÍCULO 37.
 
@@ -1311,7 +1499,7 @@ V. Coordinar y dar seguimiento al proceso de entero de retenciones legales de lo
 
 VI. Las demás que le señale el Director General y las disposiciones jurídicas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES DEPENDIENTES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS DEPENDIENTES DE LA DIRECCIÓN GENERAL DE PROGRAMAS DE INVERSIÓN PÚBLICA
 
 ###### ARTÍCULO 40.
 
@@ -1329,9 +1517,9 @@ V. En coordinación con la Dirección de Programación de Inversión Pública, i
 
 Las demás que le señale el Director General y las disposiciones jurídicas aplicables.
 
-## TÍTULO OCTAVO. DE LAS DIRECCIONES Y COORDINACIONES DEPENDIENTES DIRECTAMENTE DEL SECRETARIO
+## TÍTULO SÉPTIMO. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
-### CAPÍTULO TERCERO. DE LOS DEPARTAMENTOS DEPENDIENTES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+### CAPÍTULO PRIMERO. ATRIBUCIONES
 
 ###### ARTÍCULO 41.
 
@@ -1369,7 +1557,9 @@ XV. Revisar las solicitudes de incremento salarial y de prestaciones de los serv
 
 XVI. Integrar en coordinación con las unidades orgánicas, el anteproyecto de presupuesto de egresos de la Secretaría y someterlo a la consideración del Director General de Egresos.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. DE LAS DIRECCIONES DEPENDIENTES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE RECURSOS HUMANOS
 
 ###### Artículo 42.
 
@@ -1502,6 +1692,8 @@ VIII. Evaluar y tramitar el otorgamiento de becas de capacitación y actualizaci
 IX. Fomentar y organizar en el ámbito institucional las actividades de recreación e integración de los servidores públicos, en coordinación con las Dependencias; y
 
 X. Administrar la bolsa de trabajo del Gobierno del Estado, en coordinación con la Secretaría de Trabajo y Previsión Social; (sic)
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN DE ADQUISICIONES Y SERVICIOS
 
 ###### ARTÍCULO 46.
 
@@ -1643,6 +1835,8 @@ X. Proporcionar el servicio de correspondencia y archivo general a las Dependenc
 
 XI. Promover con apego a las disposiciones legales y reglamentarias aplicables, la contratación consolidada de los servicios, necesarios para la adecuada operación de las Dependencias, supervisando en su caso su cumplimiento; (sic)
 
+#### SECCIÓN TERCERA. DE LA DIRECCION DE ANALISIS DE PROCESOS Y DESARROLLO INFORMATICO
+
 ###### ARTÍCULO 51.
 
 Compete a la Dirección de Análisis de procesos y Desarrollo Informático las siguientes funciones inherentes a la Secretaría:
@@ -1729,7 +1923,7 @@ VI. Proporcionar el mantenimiento correctivo y preventivo de los bienes informá
 
 VII. Proporcionar a las unidades administrativas el soporte técnico en materia de bases de datos, servidores, redes locales, equipo de cómputo personal y paquetería de software.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN JURÍDICA
+### CAPÍTULO TERCERO. DE LOS DEPARTAMENTOS DEPENDIENTES DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 55.
 
@@ -1787,9 +1981,9 @@ V. Elaborar y mantener actualizado el inventario conforme a lo dispuesto por el 
 
 VI. Realizar en coordinación con la Dirección Jurídica, los trámites que den certeza y legalidad al patrimonio inmobiliario del Gobierno del Estado.
 
-## TÍTULO NOVENO. DISPOSICIONES FINALES
+## TÍTULO OCTAVO. DE LAS DIRECCIONES Y COORDINACIONES DEPENDIENTES DIRECTAMENTE DEL SECRETARIO
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FISCALIZACIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 58.
 
@@ -1799,7 +1993,7 @@ Las Direcciones y las Coordinaciones, dependientes directamente del Secretario t
 
 Las Coordinaciones que dependan directamente del Secretario serán de apoyo específico y tendrán las funciones que les atribuya el presente Reglamento y las demás que les asigne el Secretario.
 
-### CAPÍTULO CUARTO. DE LA COORDINACION DE PLANEACIÓN Y EVALUACIÓN
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN JURÍDICA
 
 ###### ARTÍCULO 60.
 
@@ -1909,7 +2103,7 @@ X. Intervenir en los procedimientos de subasta o donación de los bienes muebles
 
 XI. Elaborar los nombramientos de los servidores públicos, cuando corresponda expedirlos al Director General de Administración; (sic)
 
-### CAPÍTULO ÚNICO. SUPLENCIA DE LOS FUNCIONARIOS
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FISCALIZACIÓN
 
 ###### ARTÍCULO 63.
 
@@ -2071,6 +2265,8 @@ X. Emitir el proyecto de las resoluciones mediante las cuales se determinen las 
 
 XI. Preparar la información que deba rendirse a la Secretaría de Hacienda y Crédito Público en cumplimiento de los convenios celebrados en materia de fiscalización.
 
+### CAPÍTULO CUARTO. DE LA COORDINACION DE PLANEACIÓN Y EVALUACIÓN
+
 ###### ARTÍCULO 68.
 
 Compete a la Coordinación de Planeación y Evaluación
@@ -2099,13 +2295,17 @@ XI. Promover la formulación de los Planes Municipales de Desarrollo como instru
 
 XII. Los demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2012)</small>
+
 APARTADO ÚNICO
 
-DE LOS DEPARTAMENTOS DEPENDIENTES DE LA COORDINACIÓN DE PLANEACIÓN Y EVALUACIÓN
+DEL DEPARTAMENTO DEPENDIENTE DE LA COORDINACIÓN DE PLANEACIÓN Y EVALUACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 69.
 
-Compete al Departamento de Planeación:
+Compete al Departamento de Planeación y Evaluación:
 
 I. Apoyar en la formulación e integración del Plan Estatal de Desarrollo y de los Programas de Mediano Plazo que de él se deriven;
 
@@ -2127,67 +2327,51 @@ IX. Promover ante los municipios las actividades de planeación, evaluación y d
 
 X. Implementar en apoyo a los municipios la integración de un Sistema de Seguimiento para la Ejecución de los Planes Municipales de Desarrollo, necesario para que los municipios den seguimiento a los compromisos establecidos en él;
 
-XI. Asignar, coordinar y supervisar las labores del personal a su cargo; y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XII. Las demás que les sean encomendadas por la Coordinación de Planeación y Evaluación y la normatividad aplicable.
+XI. Participar en los trabajos de evaluación que realiza la Secretaría para determinar el Impacto Económico y Social de los programas, proyectos y acciones de las Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XII. Diseñar instrumentos y mecanismos de medición que coadyuven a la evaluación del Plan Estatal y de la Gestión Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XIII. Diseñar los instrumentos, formatos y mecanismos para integrar las bases de datos que alimentan el Sistema Estatal de Evaluación;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XIV. Coordinar los trabajos encaminados al seguimiento y medición del cumplimiento de los objetivos del Plan Estatal de Desarrollo, con la finalidad de establecer diagnósticos sobre los compromisos establecidos en él, así como para la integración del Informe de Ejecución del Plan;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XV. Asignar, coordinar y supervisar las labores del personal a su cargo; y
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XVI. Las funciones que le asigne el Secretario, la Coordinación de Planeación y Evaluación y las demás que le competan de conformidad con las disposiciones legales y reglamentarias aplicables.
+
+## TÍTULO NOVENO. DISPOSICIONES FINALES
+
+### CAPÍTULO ÚNICO. SUPLENCIA DE LOS FUNCIONARIOS
 
 ###### ARTÍCULO 70.
 
-Compete al Departamento de Evaluación:
-
-I. Participar en los trabajos de evaluación que realiza la Secretaría para determinar el Impacto Económico y Social de los programas, proyectos y acciones de las Dependencias y Entidades de la Administración Pública Estatal;
-
-II. Diseñar instrumentos y mecanismos de medición que coadyuven a la evaluación del Plan Estatal y de la Gestión Pública Estatal;
-
-III. Diseñar los instrumentos, formatos y mecanismos para integrar las bases de datos que alimentan el Sistema Estatal de Evaluación;
-
-IV. Coordinar los trabajos encaminados al seguimiento y medición del cumplimiento de los objetivos del Plan Estatal de Desarrollo, con la finalidad de establecer diagnósticos sobre los compromisos establecidos en él, así como para la integración del Informe de Ejecución del Plan;
-
-V. Asignar, coordinar y supervisar las labores del personal a su cargo; y
-
-VI. Las demás que les sean encomendadas por la Coordinación de Planeación y Evaluación y la normatividad aplicable.
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 71.
 
-Compete a la Tesorería:
-
-I. Controlar y custodiar los fondos, títulos de crédito, fianzas y demás valores que posea la Secretaría con motivo de sus funciones;
-
-II. Recibir las concentraciones de fondos de las Recaudaciones de Rentas, el efectivo y los valores por otros conceptos, así como efectuar los depósitos correspondientes en las instituciones del sistema financiero;
-
-III. Solicitar cuando así se establezca, la radicación de los recursos que correspondan al Gobierno del Estado, Municipios y Organismos Descentralizados, cuando deban ser enviados por las diferentes instancias del Gobierno Federal; de igual forma las que se deriven de convenios con instituciones del sector financiero o particulares;
-
-IV. Efectuar la radicación de fondos que tenga que realizar el Gobierno del Estado, a las diferentes instancias del Gobierno Federal, Municipios y Organismos Descentralizados; de igual forma las que se deriven en Virtud de convenios o contratos con instituciones del sector financiero o particulares;
-
-V. Realizar los pagos, en coordinación con el Departamento de Programación y Control de Pagos, para que de acuerdo a la liquidez del erario estatal se liberen adecuadamente;
-
-VI. Controlar los movimientos de las cuentas de cheques con las que opera el sistema de pagos;
-
-VII. Efectuar el corte diario de caja y llevar los registros para el control de los movimientos de ingresos y egresos;
-
-VIII. Remitir a la Dirección de Contabilidad la documentación comprobatoria del movimiento de ingresos y egresos, para el registro correspondiente;
-
-IX. Concentrar los cheques devueltos por las Instituciones Bancarias y remitirlos al Departamento de Ejecución para su cobro;
-
-X. Expedir certificaciones y recibos oficiales correspondientes al ingreso de recursos;
-
-XI. Vigilar que la entrega de las participaciones, fondos de aportaciones y transferencias federales, se realicen de manera completa y oportuna;
-
-XII. Recibir y revisar previo a su envío, las emisiones de nómina, becas, subsidios y cheques foráneos, a efecto de que sean entregadas en las recaudaciones de rentas correspondientes, estableciendo para ello, los controles adecuados;
-
-XIII. Establecer los mecanismos que permitan analizar a corto, mediano y largo plazo el flujo de efectivo, a efecto de cumplir adecuadamente con el gasto público estatal;
-
-XIV. Analizar el flujo de efectivo para determinar los remanentes en el manejo diario de los fondos del erario estatal; así como invertir dichos remanentes en los instrumentos del sistema financiero nacional que ofrezca mejores rendimientos.
-
-XV. Recibir los trámites correspondientes para efectuar en tiempo y forma, los pagos derivados de los instrumentos de financiamiento que haya suscrito la Secretaría, incluyendo aquellos en los que se constituya como vehículo de pago, tratándose de organismos descentralizados, fideicomisos o municipios; en conjunto con la Dirección de Presupuesto; (sic)
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 72.
 
 El Secretario será suplido en sus ausencias temporales o accidentales por el Director General que él designe mediante acuerdo escrito.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 73.
 
-Cuando no exista el acuerdo referido en el artículo anterior, el Secretario será suplido por el Director General de Egresos, Director General de Ingresos, o en su caso por el Director General de Administración en este orden.
+Cuando no exista el acuerdo referido en el artículo anterior, el Secretario será suplido por el Director General de Administración, Director General de Contabilidad Gubernamental, Director General de Egresos, Director General de Ingresos, o en su caso por el Director General de Programas de Inversión Pública en este orden.
 
 ###### ARTÍCULO 74.
 
@@ -2220,3 +2404,17 @@ Dado en la residencia del Poder Ejecutivo, en la ciudad de Chihuahua, Chih., a l
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO. LIC. GRACIELA ORTIZ GONZÁLEZ. Rúbrica. EL SECRETARIO DE HACIENDA. LIC. CRISTIÁN RODALLEGAS HINOJOSA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cumplimiento del presente Acuerdo, se faculta al Secretario de Hacienda para organizar la estructura administrativa de esa Dependencia y redistribuir las partidas del Presupuesto de Egresos para tal efecto, en términos de la Ley.
+
+TERCERO.- Se derogan todas las demás disposiciones administrativas en lo que se opongan a este Acuerdo.
+
+CUARTO.- A partir de la entrada en vigor del presente Acuerdo, todas las funciones de la Dirección de Contabilidad y sus Departamentos, se regirán por la Dirección General de Contabilidad Gubernamental y su estructura conforme a las modificaciones del Reglamento Interior de la Secretaría de Hacienda a que se refiere este Acuerdo.
+
+QUINTO.- La referencia que en cualquier disposición se haga al Departamento de Organismos Públicos Descentralizados y Sector Educativo, se entenderá como el Departamento de Entidades Paraestatales.
