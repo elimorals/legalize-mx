@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-adaptacion-y-mitigacion-ante-el-cambio-78396"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2010-12-07"
+last_updated: "2012-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY PARA LA ADAPTACION Y MITIGACION ANTE EL CAMBIO CLIMATICO EN EL ESTADO DE CHIAPAS
 
-LEY PARA LA ADAPTACION Y MITIGACION ANTE EL CAMBIO CLIMATICO EN EL ESTADO DE CHIAPAS
+LEY PARA LA ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 7 de diciembre de 2010.
 
@@ -43,11 +43,15 @@ Ley para la Adaptación y Mitigación ante el Cambio Climático en el Estado de 
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés general; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto establecer la concurrencia del Estado y de los municipios en la formulación e instrumentación de las políticas públicas para la adaptación al cambio climático y la mitigación de sus efectos adversos, para proteger a la población y coadyuvar al desarrollo sustentable.
+La presente Ley es de orden público e interés general; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto establecer la concurrencia del Estado y los municipios en la formulación e instrumentación de las políticas públicas para la adaptación al cambio climático y la mitigación de sus efectos adversos, para proteger a la población y coadyuvar al desarrollo sustentable.
 
-Toda la información generada, administrada o en posesión de las Dependencias de la Administración Pública Estatal, en materia del objeto de esta Ley, se considera un bien de dominio público, accesible a cualquier persona en los términos y condiciones que establece la Ley que Garantiza la Transparencia y Derecho a la Información Pública para el Estado de Chiapas y demás ordenamientos aplicables.
+Así como también, atender el fenómeno global del cambio climático, a través de acciones que permitan evitar la emisión de gases de efecto invernadero tales como los procesos de reconversión productiva; producción de biodiesel; implementación del plan de tratamiento de aguas residuales y relleno sanitario, y programas que tengan como objeto evitar la degradación y deforestación de las áreas forestales; así como para coadyuvar al desarrollo sustentable, formulando e instrumentando las políticas públicas para la adaptación al cambio climático y reducción de sus efectos adversos.
+
+Toda la información generada, administrada o en posesión de las Dependencias de la Administración Pública Estatal, en materia del objeto de esta Ley, se considera un bien de dominio público accesible a cualquier persona en los términos y condiciones que establece la Ley que Garantiza la Transparencia y Derecho a la Información Pública para el Estado de Chiapas y demás ordenamientos aplicables.
 
 En lo no previsto por esta Ley y los ordenamientos específicos que señale, se aplicarán de manera supletoria y complementaria los ordenamientos federales y estatales en materia ambiental.
 
@@ -129,7 +133,9 @@ XVII. Protocolo de Kioto (sic): Tratado internacional ligado a la Convención Ma
 
 XVIII. Reglamento: Reglamento de la presente ley.
 
-XIX. Secretaría: Secretaría de Medio Ambiente, Vivienda e Historia Natural.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XIX. Secretaría: Secretaría de Medio Ambiente e Historia Natural.
 
 XX. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
 
@@ -213,7 +219,9 @@ Son autoridades en materia de Cambio Climático en el Estado, en el ámbito de s
 
 I. El Gobernador del Estado.
 
-II. El titular de la Secretaría de Medio Ambiente, Vivienda e Historia Natural.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+II. El titular de la Secretaría de Medio Ambiente e Historia Natural.
 
 III. El titular de la Secretaría de Transportes.
 
@@ -241,13 +249,17 @@ Se crea la Comisión de Coordinación Intersecretarial de Cambio Climático del 
 
 La Comisión fungirá como órgano colegiado responsable de la coordinación gubernamental en materia de Cambio Climático para el Estado de Chiapas y sus resoluciones y opiniones son de carácter obligatorio para las Dependencias y Entidades de la Administración Pública Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### Artículo 14.
 
-La Comisión será presidida por el titular del Ejecutivo Estatal, en su ausencia lo suplirá el titular de la Secretaría de Medio Ambiente, Vivienda e Historia Natural.
+La Comisión será presidida por el titular del Ejecutivo Estatal, en su ausencia lo suplirá el titular de la Secretaría de Medio Ambiente e Historia Natural.
 
 La Comisión se integrará por los titulares de las Dependencias de la Administración Pública Estatal y de los organismos públicos descentralizados sectorizados siguientes:
 
-I. Secretaría de Medio Ambiente, Vivienda e Historia Natural.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+l. Secretaría de Medio Ambiente e Historia Natural.
 
 II. Secretaría del Campo.
 
@@ -263,7 +275,9 @@ VII. Secretaría de Infraestructura.
 
 VIII. Secretaría de Salud.
 
-IX. Secretaría de Pueblos Indios.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+IX. Secretaría de Pueblos y Culturas Indígenas.
 
 X. Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
 
@@ -275,7 +289,9 @@ XIII. Instituto de Población y Ciudades Rurales.
 
 XIV. Instituto de Protección Civil para el Manejo Integral de Riesgos de Desastres del Estado de Chiapas.
 
-XV. Comisión de Energías y Biocombustibles del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XV. Instituto de Reconversión Productiva y Bioenergéticos.
 
 La Comisión podrá invitar a otras Dependencias a participar únicamente con voz, en los acuerdos y decisiones de los asuntos que tengan relación con su objeto.
 
@@ -293,7 +309,9 @@ La Comisión contará, al menos, con las siguientes instancias de coordinación 
 
 I. Un Presidente, el cual será el titular del Ejecutivo Estatal.
 
-II. Un Secretariado Técnico, el cual será el Subsecretario de Medio Ambiente, de la Secretaría de Medio Ambiente, Vivienda e Historia Natural.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+II. Un Secretariado Técnico, el cual será el Subsecretario de Medio Ambiente, de la Secretaria de Medio Ambiente e Historia Natural.
 
 III. Grupos de Trabajo de Adaptación.
 
@@ -636,3 +654,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 42, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los siete días del mes de diciembre del año dos mil diez.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE ABRIL DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
