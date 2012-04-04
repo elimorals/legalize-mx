@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-la-contraloria-del-7456
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-21"
-last_updated: "2011-09-28"
+last_updated: "2012-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 21 de abril de 2010.
 
@@ -113,17 +113,29 @@ V. Dirección General de Responsabilidades y Sanciones Administrativas;
 
 VI. Dirección General de Coordinación y Desarrollo Administrativo;
 
-VII. Contraloría Interna de Política Gubernamental;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-VIII. Contraloría Interna de Desarrollo Económico Sustentable;
+VII. Contraloría Interna de Desarrollo Social y Agropecuario;
 
-IX. Contraloría Interna de Seguridad y Procuración de Justicia;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-X. Contraloría Interna de Infraestructura y Asistencia;
+VIII. Contraloría Interna de Desarrollo Económico y Productividad;
 
-XI. Contraloría Interna de Modernización Administrativa;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XII. Contraloría Interna del Trabajo y Desarrollo Humano; y
+IX. Contraloría Interna de Salud y Desarrollo Turístico;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+X. Contraloría Interna de Infraestructura y Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XI. Contraloría Interna de Modernización Administrativa y Política Gubernamental;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XII. Contraloría Interna del Sector Educativo, y
 
 XIII. Comisarías Públicas o sus equivalentes adscritas a los Organismos Auxiliares y Órganos Desconcentrados de la Administración Pública Estatal.
 
@@ -217,7 +229,9 @@ XXV. Requerir de acuerdo a la naturaleza de sus funciones y en términos de las 
 
 XXVI. Designar a los servidores públicos que se les encomiende la práctica de las notificaciones y expedir las constancias de comisión correspondientes; y (sic),
 
-XXVII. Diligenciar los exhortos que le sean requeridos, en auxilio de otras autoridades y solicitar el auxilio a las Secretarías, Dependencias y Entidades de la Administración Pública a nivel Federal, Estatal y Municipal, para que en el ámbito de su competencia y en términos de las leyes aplicables al caso concreto, realicen las diligencias necesarias que con motivo de las auditorías, revisiones, verificaciones, fiscalizaciones y procedimientos responsabilidad administrativa, se requiera notificar a los servidores o ex servidores públicos, cuando éstos se encuentren fuera de la demarcación territorial del Estado, girando los documentos necesarios a que haya lugar para su respectiva notificación;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXVII. Coordinar la diligenciación de exhortos que le sean requeridos, en auxilio de otras autoridades y solicitar la colaboración a las Secretarías, Dependencias y Entidades de la Administración Pública a nivel Federal, Estatal y Municipal, para que en el ámbito de su competencia y en términos de las leyes aplicables al caso concreto, realicen las diligencias necesarias que con motivo de las auditorías, revisiones, verificaciones, fiscalizaciones y procedimientos de responsabilidad administrativa, se requiera notificar a los servidores o ex servidores públicos, cuando éstos se encuentren fuera de la demarcación territorial del Estado, girando los documentos necesarios a que haya lugar para su respectiva notificación;
 
 XXVIII. Instruir a las unidades administrativas competentes, la realización de investigaciones derivadas de hechos, en los que se presuma la existencia de irregularidades o anomalías en el ejercicio de la función pública;
 
@@ -299,9 +313,9 @@ XXVIII. Formular el anteproyecto del presupuesto relativo a la Dirección Genera
 
 XXIX. Representar a la Secretaría cuando lo instruya expresamente el Secretario ante las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, constituyendo el conducto directo ante éstos, con el propósito de facilitar su desempeño general;
 
-XXX. Expedir copias certificadas de los documentos que obren en sus archivos así como los que le sean presentados en original y cuya devolución se solicite siempre que estén relacionados con los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-Podrá certificar los actos que estén relacionados con las funciones propias del cargo;
+XXX. Certificar los actos que estén relacionados con las funciones propias de su cargo y expedir las copias certificadas de los documentos que obren en sus archivos, así como los que en original le sean presentados para su cotejo y cuya devolución sea solicitada, siempre que se encuentren relacionados con los asuntos de su competencia;
 
 XXXI. Impartir e implementar cursos y seminarios en la materia de su competencia dirigidos a servidores públicos estatales y municipales que lo soliciten;
 
@@ -485,21 +499,31 @@ XIX. Las demás que determinen las disposiciones jurídicas aplicables o le dele
 
 La persona titular de la Dirección General de Responsabilidades y Sanciones Administrativas tendrá las siguientes atribuciones:
 
-I. Recibir en términos de los artículos 3, 4, 5 y 6 fracción II de la Ley Estatal de Responsabilidades de los Servidores Públicos, las quejas o denuncias que se formulen con motivo de actos u omisiones en que incurran los servidores públicos o en las que hayan incurrido ex servidores públicos en el ejercicio de sus funciones, y reunir los requisitos que corresponden para formular la queja o denuncia; dar inicio al procedimiento de responsabilidad administrativa en términos del Título Cuarto de la legislación antes citada;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-II. Conocer, instaurar y tramitar el procedimiento administrativo contemplado en el Título Cuarto de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+I. Conocer y resolver los procedimientos de responsabilidad administrativa que por actos u omisiones de los servidores o ex servidores públicos en el ejercicio de sus funciones, sean objeto de quejas o denuncias, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+II. Substanciar y tramitar en todas y cada una de las secuelas procesales el procedimiento administrativo contemplado en el Titulo Cuarto de la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 III. Decretar de oficio dentro del procedimiento de responsabilidad administrativa que sea de su competencia, las investigaciones sobre incumplimiento de las obligaciones que para los servidores públicos establece la Ley Estatal de Responsabilidades de los Servidores Públicos, así como aquellas que se requieran para conocer la verdad real, material, formal e histórica de los hechos controvertidos o dudosos;
 
-IV. Ordenar por sí misma o a través de los servidores públicos designados como notificadores en funciones de Actuario, la comparecencia de servidores y ex servidores públicos implicados en las investigaciones y procedimientos administrativos previstos por la Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+IV. Ordenar mediante citación legal, por conducto de los servidores públicos designados como notificadores en funciones de actuario, la comparecencia de servidores y ex servidores públicos implicados, que se derive de las investigaciones y procedimientos administrativos previstos por la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 V. Dictar las determinaciones o resoluciones que correspondan dentro del ámbito de su competencia, con motivo de las quejas o denuncias, observaciones no solventadas que se deriven de una auditoria o revisión, que se practiquen por los Órganos Internos de Control facultados para ello, incluyendo las que realicen los despachos externos en aquellos casos previstos por la Ley, con motivo de los informes especiales de los que se deriven observaciones relevantes a juicio del auditor u Órgano Interno de Control, o de una resolución judicial firme que decrete la responsabilidad penal, civil o patrimonial de un servidor público, siempre y cuando no haya prescrito la responsabilidad administrativa;
 
 Las determinaciones derivadas de las investigaciones practicadas contendrán en sus puntos resolutivos, la expresión relativa a si existen o no elementos suficientes que acrediten la probable responsabilidad administrativa del servidor público; en caso de existir elementos suficientes, se ordenará incoar el procedimiento previsto por el Título Cuarto de la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
-VI. Recibir la notificación de las resoluciones de cualquier naturaleza proveídas por las autoridades de los tres niveles del Gobierno del Estado, respecto de las responsabilidades administrativas de sus servidores públicos y registrarlas en el libro de gobierno de la Dirección, así como en la base de datos de inhabilitados y sancionados;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-VII. Ejecutar en términos del Código Procesal Civil para el Estado Libre y Soberano de Morelos, las resoluciones que le correspondan dentro del ámbito de su competencia, y vigilar que las resoluciones que se le notifiquen en términos del artículo 69 de la Ley Estatal de Responsabilidades de los Servidores Públicos se ejecuten, pudiendo girar los oficios que estime necesarios;
+VI. Recibir las notificaciones de resoluciones de cualquier naturaleza proveídas por las autoridades competentes, respecto de las responsabilidades administrativas de los servidores públicos y registrarlas en el libro de gobierno de la Dirección, así como en la base de datos de inhabilitados y sancionados, en términos del artículo 69 de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VII. Vigilar que se ejecuten las resoluciones de responsabilidad administrativa a que se refiere la fracción anterior, girando para tal efecto, los oficios que estime necesarios;
 
 VIII. Declarar la caducidad de la instancia, de oficio o a petición del probable responsable cuando concurran las circunstancias a que se refiere el artículo 73 de la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
@@ -507,7 +531,9 @@ IX. Expedir, previo pago de los derechos correspondientes, con firma autógrafa 
 
 X. Proporcionar la información que le sea requerida por las autoridades estatales, municipales o federales, relacionada con sanciones de los servidores o ex servidores públicos de que tenga conocimiento, así como de la existencia de quejas, denuncias, auditorías, revisiones, demandas o procedimientos administrativos, siempre que la información no se encuentre catalogada como reservada o confidencial;
 
-XI. Notificar a los servidores públicos afectados y a los titulares de las Secretarías de Despacho, Dependencias y Entidades a las personas que se encuentren adscritas, las resoluciones y acuerdos pronunciados dentro de los procedimientos administrativos que tramiten, así como vigilar su debido cumplimiento;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XI. Notificar a los servidores públicos afectados y a los titulares de las Secretarías de Despacho, Dependencias y Entidades, así como a las personas que se encuentran adscritas, las resoluciones y acuerdos pronunciados dentro de los procedimientos administrativos de responsabilidad que tramiten, así como vigilar su debido cumplimiento;
 
 XII. Representar legalmente al Secretario ante las diversas instancias judiciales y administrativas, cuando sea requerida su intervención;
 
@@ -525,9 +551,31 @@ XVII. Dictar conjuntamente con el área de Resoluciones y Determinaciones, las r
 
 XVIII. Iniciar el procedimiento administrativo de responsabilidad en contra de servidores públicos que autoricen la selección, contratación, nombramiento o designación de personas que se encuentren inhabilitadas para ocupar algún empleo, cargo o comisión dentro de la administración pública;
 
-XIX. Dar aviso a la autoridad encargada de realizar la contratación de personal, cuando de la expedición de constancias que acrediten la existencia o inexistencia de registro de inhabilitación, se detecte el ingreso al servicio público de personas que se encuentren inhabilitadas; y,
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Secretario dentro del ámbito de su competencia.
+XIX. Imponer las medidas de apremio contempladas en el artículo 33 de la Ley Estatal de Responsabilidades de los Servidores Públicos, en la ejecución forzosa de las resoluciones o acuerdos que se dicten en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XX. Diligenciar los exhortos o notificaciones que le sean remitidos por el Secretario, en auxilio de otras autoridades, para que en el ámbito de su competencia y en términos de las leyes aplicables, se realicen las diligencias necesarias que con motivo de procedimientos de responsabilidad administrativa, le sean solicitados;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXI. Solicitar el auxilio de autoridades de nivel Federal, Estatal, Municipal o de otras Entidades Federativas o del Distrito Federal, para la diligenciación de exhortos o práctica de notificaciones relacionados con los procedimientos administrativos de responsabilidad que se conozcan en contra de servidores o ex servidores públicos que se encuentren fuera del territorio del Estado de Morelos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXII. Solicitar al superior jerárquico del servidor público que omita cumplir con algún requerimiento, informe, diligencia o cualquier otro acto ordenado en una investigación o procedimiento de responsabilidad administrativa, se imponga la corrección disciplinaria que corresponda en términos del artículo 70 de la Ley Estatal de Responsabilidades de los Servidores Públicos;
+
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXIII. Estudiar y continuar las acciones legales que correspondan a la Secretaría; desistirse, formular contestaciones, ofrecer o rendir pruebas, formular alegatos, promover incidentes, interponer recursos e intervenir en los juicios constitucionales; realizar los demás actos procesales que correspondan en los procedimientos relativos a la materia de responsabilidades de los servidores públicos, así como dar seguimiento a los juicios de su competencia hasta el cumplimiento total de las resoluciones;
+
+XXIV. Dar aviso a la autoridad encargada de realizar la contratación de personal, cuando de la expedición de constancias que acrediten la existencia o inexistencia de registro de inhabilitación, se detecte el ingreso al servicio público de personas que se encuentren inhabilitadas; y,
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXV. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría dentro del ámbito de su competencia.
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN GENERAL DE COORDINACIÓN Y DESARROLLO ADMINISTRATIVO
 
@@ -567,15 +615,23 @@ XV. Requerir quincenalmente a las Direcciones Generales, Contralorías Internas 
 
 XVI. Tramitar y gestionar ante las Secretarías de Despacho, Dependencias y Entidades correspondientes lo relativo a los apoyos financieros a favor del Gobierno del Estado por la prestación de los servicios de vigilancia, inspección y control de los proyectos de inversión ejecutados por las Secretarías, Dependencias y Entidades Estatales y Municipales, y financiados parcial o totalmente con recursos de origen federal;
 
-XVII. Coordinar de conformidad con las normas y lineamientos que determine la Secretaría de Gestión e Innovación Gubernamental, la elaboración de Manuales de Organización y Políticas y Procedimientos de la Secretaría, y
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-XVIII. Las demás que determinen las disposiciones jurídicas aplicables o le delegue el Secretario dentro de la esfera de su competencia.
+XVII. Gestionar ante la Secretaría o Dependencia correspondiente, la elaboración de los nombramientos de los servidores públicos designados por la persona titular de la Secretaría, con excepción del personal asignado a los Organismos Auxiliares de la Administración Pública Paraestatal;
+
+XVIII. Coordinar de conformidad con las normas y lineamientos que determine la Secretaría de Gestión e Innovación Gubernamental, la elaboración de Manuales de Organización y Políticas y Procedimientos de la Secretaría, y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XIX. Las demás que determinen las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría dentro de la esfera de su competencia.
 
 ### CAPÍTULO X. DE LAS CONTRALORÍAS INTERNAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### Artículo 15.
 
-Las Contralorías Internas son órganos de control de las Secretarías de Despacho, Dependencias y Entidades de la Administración Pública Estatal, estarán a cargo de un servidor público denominado Contralor Interno, dependerán en forma directa de la Secretaría, independientemente de las áreas a las que se adscriba su función y tendrá cada una de ellas el rango de Dirección General.
+Las Contralorías Internas son Órganos Internos de Control de las Secretarías de Despacho y Dependencias de la Administración Pública Estatal, estarán a cargo de un servidor público denominado Contralor Interno, dependerán en forma directa de la Secretaría, independientemente de las áreas a las que se adscriba su función y tendrá cada una de ellas el rango de Dirección General, contando con las atribuciones establecidas en el artículo 9 de este Reglamento.
 
 El Contralor Interno adscrito a la Secretaría será nombrado y dependerá directamente del Titular del Poder Ejecutivo, ante quien será responsable y le señalará el rango que considere pertinente.
 
@@ -593,17 +649,29 @@ Los Contralores Internos tendrán bajo su supervisión inmediata y coordinación
 
 Las Contralorías Internas de la Secretaría serán las siguientes:
 
-I. Contraloría Interna de Política Gubernamental, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Gobierno, de la Representación del Poder Ejecutivo del Estado, de la Oficina del Gobernador del Estado y las unidades de asesoría, de apoyo técnico y de coordinación, así como de los organismos auxiliares de la Administración Pública Estatal que para coordinación le sean designados por el Titular de la Secretaría, con excepción de las Unidades Administrativas denominadas Dirección General de Protección Civil y Dirección General de Transportes de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-II. Contraloría Interna de Desarrollo Económico Sustentable, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Desarrollo Económico, de la Secretaría de Turismo, de la Secretaría de Desarrollo Agropecuario, así como de la Comisión Estatal del Agua y Medio Ambiente y de los organismos auxiliares de la Administración Pública Estatal que para coordinación le sean designados por el Titular de la Secretaría;
+I. Contraloría Interna de Desarrollo Social y Agropecuario, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Desarrollo Humano y Social y de la Secretaría de Desarrollo Agropecuario, así como la coordinación de los Órganos Internos de Control en los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas;
 
-III. Contraloría Interna de Seguridad y Procuración de Justicia, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Seguridad Pública, de la Procuraduría General de Justicia del Estado de Morelos, así como del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, y de las Unidades Administrativas denominadas Dirección General de Protección Civil y Dirección General de Transportes, en este último caso contando con atribuciones por cuanto a la totalidad de las áreas y funciones que tiene conferidas, así como de los organismos auxiliares de la Administración Pública Estatal que para coordinación le sean designados por el Titular de la Secretaría;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-IV. Contraloría Interna de Infraestructura y Asistencia, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Salud, de la Secretaría de Educación, de la Secretaría de Desarrollo Urbano y Obras Públicas y de los organismos auxiliares de la Administración Pública Estatal, que para coordinación le sean designados por el Titular de la Secretaría;
+II. Contraloría Interna de Desarrollo Económico y Productividad, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Desarrollo Económico y de la Secretaría del Trabajo y Productividad, así como la coordinación de los Órganos Internos de Control en los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, además de la Comisión Estatal del Agua y Medio Ambiente;
 
-V. Contraloría Interna de Modernización Administrativa, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Finanzas y Planeación, de la Secretaría de Gestión e Innovación Gubernamental, de la Consejería Jurídica y de los organismos auxiliares de la Administración Pública Estatal que para coordinación le sean designados por el Titular de la Secretaría, y
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
 
-VI. Contraloría Interna del Trabajo y Desarrollo Humano que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Desarrollo Humano y Social y de la Secretaría del Trabajo y Productividad, así como de los organismos auxiliares de la Administración Pública Estatal que para coordinación que le sean designados por el Titular de la Secretaría;
+III. Contraloría Interna de Salud y Desarrollo Turístico, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Salud, de la Secretaría de Turismo y de la Representación del Poder Ejecutivo del Estado, así como la coordinación de los Órganos Internos de Control en los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+IV. Contraloría Interna de Infraestructura y Seguridad Pública, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Desarrollo Urbano y Obras Públicas, de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado así como la coordinación de los Órganos Internos de Control en los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, además del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+V. Contraloría Interna de Modernización Administrativa y Política Gubernamental, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Finanzas y Planeación, de la Secretaría de Gestión e Innovación Gubernamental, de la Consejería Jurídica, de la Secretaría de Gobierno, de la Gubernatura y las unidades de asesoría, de apoyo técnico y de coordinación con las que cuente el Gobernador del Estado, así como la coordinación de los Órganos Internos de Control en los organismos auxiliares de la Administración Pública Estatal sectorizados a éstas, con excepción de la Comisión Estatal del Agua y Medio Ambiente y del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, y
+
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+VI. Contraloría Interna del Sector Educativo, que tendrá a su cargo la verificación de las actuaciones y del ejercicio del gasto público de la Secretaría de Educación, así como la coordinación de los Órganos Internos de Control en los organismos auxiliares de la Administración Pública Estatal sectorizados a ésta.
 
 No existirá preeminencia alguna entre las Contralorías Internas y todas tendrán el mismo rango.
 
@@ -711,29 +779,37 @@ Los Comisarios Públicos o sus equivalentes, serán los responsables directos de
 
 Los Comisarios Públicos o sus equivalentes, por conducto del Contralor Interno que corresponda deberán informar mensualmente al Secretario, sobre el resultado de sus actividades, operaciones y programas de trabajo.
 
-### CAPÍTULO XII. DE LOS SERVIDORES PÚBLICOS EN FUNCIONES DE ACTUARIO
+> <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO XII. DE LOS NOTIFICADORES Y LA FE PÚBLICA
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 24.
 
-Se designará de entre los servidores públicos ya existentes en la plantilla de personal de la Secretaría, a quienes se encarguen de dar a conocer a los interesados, afectados o a los superiores jerárquicos, las determinaciones, resoluciones, acuerdos, recomendaciones y demás disposiciones de carácter administrativo que se dicten con motivo de las auditorías, revisiones, verificaciones, fiscalizaciones, expedientes administrativos de quejas o denuncias, procedimientos administrativos o disciplinarios y en general cualquier resolución dictada por las unidades administrativas de la Secretaría que deba ser notificada.
+Se designará de entre los servidores públicos ya existentes en la plantilla de personal de la Secretaría, a quienes en función de notificadores se encargarán de dar a conocer a los interesados, afectados o a los superiores jerárquicos, las determinaciones, resoluciones, acuerdos, recomendaciones y demás disposiciones de carácter administrativo que se dicten con motivo de las auditorías, revisiones, verificaciones, fiscalizaciones, expedientes administrativos de quejas o denuncias, procedimientos administrativos o disciplinarios y, en general, cualquier resolución dictada por las unidades administrativas de la Secretaría que deba ser notificada.
 
-Los servidores públicos a que se refiere el presente Capítulo, así como las personas titulares de las Direcciones Generales, Direcciones de Área, Subdirecciones de las Unidades Administrativas de la Secretaría, y Comisarías Públicas o sus equivalentes, gozarán de fe pública en el ámbito de su competencia y autentificarán con su firma las actuaciones en las que participen.
+Los servidores en función de notificadores a que se refiere el presente Capítulo, así como las personas titulares de las Direcciones Generales, Direcciones de Área, Subdirecciones de las Unidades Administrativas de la Secretaría, y Comisarías Públicas o sus equivalentes, gozarán de fe pública en el ámbito de su competencia y autentificarán con su firma las actuaciones en las que participen.
 
 ###### Artículo 25.
 
 A falta de disposición expresa las notificaciones se realizarán aplicando supletoriamente las disposiciones sobre la materia contenidas en el Código Procesal Civil para el Estado Libre y Soberano de Morelos, con la única salvedad de que las notificaciones personales que deban practicarse a cualquier autoridad, se harán mediante oficio en el que se indiquen todos los datos de identificación del expediente de que se trate.
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
 ###### Artículo 26.
 
-Los servidores públicos a los que se encomiende la práctica de las notificaciones, deberán contar con constancia de comisión expedida por el Secretario que los identifique como tales, misma que deberán portar durante el cumplimiento de la comisión.
+Los que desempeñen la función de notificadores deberán contar con constancia de comisión expedida por el Secretario que los identifique como tales, misma que deberán portar durante el cumplimiento de la comisión.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 27.
 
-Las sanciones que para los Actuarios se encuentran comprendidas en el Código Procesal Civil para el Estado Libre y Soberano de Morelos por la omisión o incumplimiento de su función, se entenderán iguales para los servidores públicos previstos por este Capítulo; independientemente de las demás responsabilidades en que puedan incurrir con motivo del ejercicio indebido de sus funciones.
+Las sanciones que para los Actuarios se encuentran comprendidas en el Código Procesal Civil para el Estado Libre y Soberano de Morelos, por la omisión o incumplimiento de su función, serán las mismas para aquellos que realicen la función de notificadores previstos por este Capítulo; independientemente de las demás responsabilidades en que puedan incurrir con motivo del ejercicio indebido de sus funciones.
 
 ###### Artículo 28.
 
-Los servidores públicos a que se refiere este Capítulo deberán informar mensualmente a su superior jerárquico las acciones que realicen.
+(DEROGADO, P.O. 4 DE ABRIL DE 2012)
 
 ### CAPÍTULO XIII. DE LAS ATRIBUCIONES PARA CONOCER DEL PROCEDIMIENTO ADMINISTRATIVO DE RESPONSABILIDAD
 
@@ -817,6 +893,10 @@ Aclaradas las observaciones determinadas en la etapa preliminar, se presentará 
 
 El Informe Ejecutivo de Revisión deberá ser por escrito y contener la firma de la persona titular del Órgano Interno de Control, así como la declaración formal del auditor de haber desarrollado su trabajo de conformidad con las normas y procedimientos de auditoría y con los procedimientos supletorios o, en dado caso, hacer constar que así está reflejado en papeles de trabajo.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+En el caso de que se determinen observaciones de control interno, el Órgano Interno de Control será el responsable de darles seguimiento hasta su total solventación, posterior al vencimiento del plazo de ésta.
+
 IV. Habiéndose dado a conocer el Informe Ejecutivo y cédula de observaciones, el titular de la unidad administrativa o área revisada contará para la solventación de las mismas con el término establecido en el artículo 30 del presente Reglamento. En caso de no presentarse la solventación de las mismas dentro del término antes citado, o ésta resulta insuficiente para que solvente las observaciones, el expediente se turnará a la Dirección General de Responsabilidades y Sanciones Administrativas, para el inicio del procedimiento de responsabilidad administrativa correspondiente.
 
 En caso de negarse a recibir el Informe Ejecutivo y cédulas de observaciones, se tendrán por ciertos y admitidos los hechos materia de tales observaciones y en su caso se aplicará de manera supletoria, lo dispuesto por el Código Procesal Civil para el Estado Libre y Soberano de Morelos, de igual manera aplicara para el caso de las Auditorías.
@@ -843,29 +923,119 @@ Si en cualquier momento de la revisión, el auditor advierte que existe responsa
 
 Los Órganos Internos de Control serán directamente responsables sobre el pronunciamiento que hagan sobre las observaciones determinadas. Fincándoles en su caso el procedimiento de responsabilidad establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PRESENTACION DE DECLARACION DE SITUACION PATRIMONIAL, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ABRIL DE 2012)</small>
 
-### CAPÍTULO XVI. DE LOS SERVIDORES PÚBLICOS OBLIGADOS A PRESENTAR DECLARACIONES DE SITUACIÓN PATRIMONIAL
+### CAPÍTULO XVI. DEL COMITÉ DE SOLVENTACIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 39.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO EN MATERIA DE PRESENTACION DE DECLARACION DE SITUACION PATRIMONIAL, P.O. 28 DE SEPTIEMBRE DE 2011)
+El Comité de Solventación será un cuerpo colegiado dependiente, para efectos de su coordinación y funcionamiento, de la Secretaría de la Contraloría; tendrá por objeto la consideración, evaluación, discusión y determinación de los resultados de las auditorías externas en las que se deriven observaciones, de conformidad con las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### Artículo 39 Bis.
+
+El Comité de Solventación estará integrado por:
+
+I. La persona titular de la Dirección General de Auditoría, quien será el Presidente del Comité;
+
+II. La persona titular de la Dirección de Auditoría Gubernamental, como Secretario Técnico;
+
+III. La persona titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, en su calidad de vocal, y
+
+IV. Las personas titulares de la Contraloría Interna y de la Comisaría Pública cuyas funciones se circunscriban a la Entidad auditada, quienes fungirán como vocales.
+
+Los integrantes del Comité de Solventación tendrán voz y voto y contarán con sus respectivos suplentes, quienes serán designados por la persona titular de la Secretaría de la Contraloría. La suplencia de cualquiera de los miembros sólo procederá en casos debidamente justificados.
+
+A las sesiones asistirá, en su carácter de Órgano Interno de Control, la persona titular de la Contraloría Interna de la Secretaría, la cual contará con voz pero sin voto.
+
+Se contará con la asistencia de invitados, exclusivamente cuando se requiera para proporcionar o aclarar información de los asuntos a tratar.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### Artículo 39 Ter.
+
+Los integrantes del Comité de Solventación tendrán las siguientes atribuciones:
+
+I. El Presidente:
+
+a) Presidir las sesiones del Comité;
+
+b) Convocar a sesiones ordinarias y cuando sea necesario a sesiones extraordinarias;
+
+c) Vigilar que las sesiones se desarrollen conforme al Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos Auxiliares que integran el Sector Paraestatal del Estado de Morelos, y
+
+d) Las demás que deriven de las leyes de la materia o que le delegue el Comité de Solventación.
+
+II. El Secretario Técnico:
+
+a) Enlistar los asuntos a tratar, mismos que serán los que le remita la persona titular de la Dirección General de Auditoría, de conformidad con los Programas Anuales de Trabajo;
+
+b) Elaborar los proyectos de las convocatorias y el orden del día conforme al cual se desarrollarán las sesiones para que se sometan a la autorización del Presidente;
+
+c) Entregar oportunamente a los miembros del Comité las convocatorias y el orden del día;
+
+d) Elaborar las actas de las sesiones del Comité;
+
+e) Cuidar que se dé debido cumplimiento a los acuerdos tomados por el Comité, informando al Presidente cualquier omisión o irregularidad que observe, y
+
+f) Las demás que le sean encomendadas por las disposiciones jurídicas aplicables, o le deleguen el Presidente o el propio Comité.
+
+III. Los Vocales:
+
+a) Asistir y participar eficientemente con voz y voto en las sesiones ordinarias y extraordinarias que celebre el Comité;
+
+b) Analizar con anticipación a la sesión, el orden del día y los documentos sobre los asuntos a tratar, para estar en condición de opinar y discutir con conocimiento de causa sobre los asuntos que se traten en las sesiones. El incumplimiento dará lugar a responsabilidad administrativa, independientemente de las demás responsabilidades que puedan surgir;
+
+c) Coadyuvar, dentro del ámbito de su competencia, al cumplimiento y ejecución de los acuerdos tomados por el Comité, y
+
+d) Las demás que les confieran las disposiciones legales aplicables.
+
+IV. El Órgano Interno de Control contará con las atribuciones que le confieran las disposiciones legales que rijan su función.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+###### Artículo 39 Quáter.
+
+Las sesiones del Comité de Solventación se realizarán conforme a lo siguiente:
+
+I. Las sesiones ordinarias se efectuarán anualmente y conforme al calendario que previamente apruebe el Comité. Cuando sea necesario tratar algún asunto relevante con anterioridad a la fecha de la próxima sesión ordinaria prevista en el calendario, por instrucciones de la persona titular de la Secretaría de la Contraloría o del Presidente del Comité de Solventación, se realizarán sesiones extraordinarias, para lo cual deberá convocarse con un plazo no menor de 24 horas de anticipación;
+
+II. Independientemente de las formalidades que se establecen en el Acuerdo que establece los Lineamientos para la Convocatoria y Desarrollo de las Sesiones Ordinarias o Extraordinarias de los Órganos Colegiados de la Administración Central y de los Organismos Auxiliares que integran el Sector Paraestatal del Estado de Morelos, se observarán las siguientes:
+
+a) Los Vocales deberán enviar el expediente original de la auditoría que vaya a someterse al Comité de Solventación al Secretario Técnico, para que se enliste oportunamente en el orden del día;
+
+b) Una vez recibido el expediente original, el Secretario Técnico elaborará un informe detallado que contendrá el período que abarca la auditoría, tipo o modalidad, área auditada, nombre y cargo de los servidores públicos involucrados, síntesis de las observaciones detectadas y la relación de las documentales que se aporten para solventar;
+
+c) Los integrantes del Comité analizarán, examinarán y discutirán en las sesiones las observaciones derivadas de las auditorías que se practiquen por despachos externos;
+
+d) El análisis, examen y discusión de las observaciones que lleve a cabo el Comité de Solventación, se hará constar íntegramente en el acta que con motivo de la sesión se levante, misma que deberá formalizarse en un término máximo de 30 días naturales posteriores a la discusión final del asunto, con excepción de que exista impedimento justificado no imputable al Comité de Solventación. Una vez emitida el acta debidamente fundada y motivada, deberá darse a conocer el resultado de la misma a los servidores o ex servidores públicos implicados;
+
+e) En caso de existir elementos suficientes que acrediten probable responsabilidad administrativa de servidores públicos y habiéndose notificado la determinación del Comité de Solventación; por conducto del Presidente del Comité se presentará la denuncia, la cual será elaborada por el Comisario Público correspondiente y revisada por el Contralor Interno competente, así como el expediente original a la Dirección General de Responsabilidades y Sanciones Administrativas, para que inicie el procedimiento administrativo de responsabilidad correspondiente, y
+
+f) Deberán anexarse al expediente original que se envíe a la Dirección General de Responsabilidades y Sanciones Administrativas, las copias de traslado equivalentes al número de servidores públicos considerados como probables responsables de las cédulas de observaciones expedidas por los encargados de realizar las auditorías, así como de las actuaciones realizadas por el Comité de Solventación, para efecto de que se practique el emplazamiento.
 
 ### CAPÍTULO XVII. DE LAS SUPLENCIAS Y ENCARGADOS DE DESPACHO
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 40.
 
-Durante las ausencias de la persona titular de la Secretaria, el despacho y resolución de los asuntos que corresponden a la Secretaría, con excepción de las atribuciones no delegables, estará a cargo de las personas titulares de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, Dirección General de Auditoría, Dirección General de Programas y Contraloría Social, Dirección General de Responsabilidades y Sanciones Administrativas, Dirección General de Coordinación y Desarrollo Administrativo, Contraloría Interna de Política Gubernamental, Contraloría Interna de Desarrollo Económico Sustentable, Contraloría Interna de Seguridad y Procuración de Justicia, Contraloría Interna de Infraestructura y Asistencia, Contraloría Interna de Modernización Administrativa y Contraloría Interna del Trabajo y Desarrollo Humano, según lo determine la persona titular de la Secretaría.
+Durante las ausencias temporales de la persona titular de la Secretaría, el despacho y resolución de los asuntos que le corresponden, quedarán a cargo de la persona titular de la Dirección General de Auditoría, y ante su ausencia, a cargo de la persona titular de la Dirección General de Asuntos Jurídicos y Situación Patrimonial, a falta de ésta de la persona titular de la Dirección General de Coordinación y Desarrollo Administrativo, y si también faltara, de la persona titular de la Contraloría Interna de Infraestructura y Seguridad Pública, o, en su caso, del servidor público de jerarquía inmediata inferior que designe la persona titular de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### Artículo 41.
 
-Cuando por cualquier motivo no exista titular en alguna de las Direcciones Generales de la Secretaría, el Secretario podrá delegar las funciones propias del cargo y que originalmente le pertenecen en servidores públicos subalternos, en términos del artículo 19 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, quienes no dejarán de desempeñar el cargo que originalmente ostentan pero serán designados como Encargados de Despacho de la Dirección General que temporalmente se encuentre sin titular, pudiendo desempeñar legalmente las atribuciones que originalmente corresponderían al Director General, sin que ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
+Cuando por cualquier motivo no exista titular en alguna de las Direcciones Generales, la persona titular de la Secretaría podrá delegar las funciones propias del cargo que temporalmente se encuentra sin titular, y que originalmente le pertenecen, en el servidor público de jerarquía inmediata inferior que corresponda , quien no dejará de desempeñar el cargo que originalmente ostenta pero será designado como Encargado de Despacho por un plazo no mayor de 90 días, debiendo desempeñar legalmente las atribuciones que originalmente corresponderían al Director General, sin que ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
 
 En caso de ausencia de Comisario Público o su equivalente, el Secretario designará al Encargado de Despacho.
 
-### CAPÍTULO XVIII. DE LA EXPEDICIÓN DE CONSTANCIAS DE NO INHABILITACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO XVIII. DE LA EXPEDICIÓN DE CONSTANCIAS DE NO INHABILITACIÓN O DE EXISTENCIA DE SANCIÓN
 
 ###### Artículo 42.
 
@@ -877,7 +1047,9 @@ a) Fecha de la solicitud;
 
 b) Nombre completo del solicitante;
 
-c) Nombre de la entidad, dependencia o ayuntamiento al que ingresará;
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
+
+c) Nombre del Poder Público Federal o Estatal, Secretaría de Despacho, Dependencia, Entidad, Órgano Autónomo o Ayuntamiento al que ingresará o en el que se encuentre laborando;
 
 d) Registro Federal de Contribuyentes, o en su caso, la Clave Única de Registro Poblacional, y
 
@@ -889,15 +1061,21 @@ II. Realizar el pago de los derechos correspondientes, que por dicho concepto es
 
 III. Presentar identificación oficial con fotografía, en original y copia simple, para el cotejo de la firma del solicitante, y
 
-IV. Para la tramitación y entrega de solicitudes, se estará a lo dispuesto por los lineamientos internos que para tal efecto emita la Dirección General de Responsabilidades y Sanciones Administrativas.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+IV. Para la atención, tramitación y entrega de constancias de no inhabilitación o de existencia de sanción, se estará a lo dispuesto por los lineamientos internos que para tal efecto emita la Dirección General de Responsabilidades y Sanciones Administrativas.
 
 ###### Artículo 43.
 
 Las constancias de no inhabilitación expedidas por la Dirección General de Responsabilidad y Sanciones administrativas tendrán una vigencia de 30 días naturales, contados a partir de su expedición.
 
-Para el caso de que ocurra la inhabilitación durante el tiempo referido en el párrafo que antecede, dicha constancia dejará de surtir los efectos legales correspondientes.
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
-### CAPÍTULO XIX. DE LAS DENUNCIAS
+Para el caso de que ocurra la inhabilitación durante el tiempo referido en el párrafo que antecede, dicha constancia dejará de surtir los efectos legales correspondientes, sin que se requiera la expedición de un acto administrativo que contenga dicha declaratoria.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO XIX. DE LAS QUEJAS Y DENUNCIAS
 
 ###### Artículo 44.
 
@@ -935,7 +1113,7 @@ LIC. PATRICIA MARISCAL VEGA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE SEPTIEMBRE DE 2011.
 
@@ -944,3 +1122,13 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Se deroga el Capítulo XVI del Reglamento Interior de la Secretaría de la Contraloría, publicado el veintiuno de abril del dos mil diez en el Periódico Oficial "Tierra y Libertad" número 4798 Segunda Sección.
 
 TERCERO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Reglamento.
+
+P.O. 4 DE ABRIL DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Las auditorías, revisiones y demás actuaciones y procedimientos que se encuentren en trámite por parte de las Contralorías Internas adscritas a la Secretaría de la Contraloría, así como de las Comisarías Públicas en los Organismos Auxiliares, deberán atenderse hasta su conclusión definitiva por los Órganos Internos de Control correspondientes, de conformidad con la competencia y denominación prevista en el presente Reglamento.
+
+TERCERO. Los Manuales de Organización y de Políticas y Procedimientos que en virtud del presente Decreto deben actualizarse, se modificarán en un plazo no mayor a ciento ochenta días hábiles, y en tanto sean actualizados, serán aplicables los que se encuentren vigentes.
+
+CUARTO. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
