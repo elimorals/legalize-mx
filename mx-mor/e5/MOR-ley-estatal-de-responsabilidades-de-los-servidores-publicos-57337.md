@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2010-03-10"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -373,11 +373,15 @@ XXI. Abstenerse de negar la información o documentación que el poder legislati
 
 XXII. Abstenerse de autorizar jubilaciones, pensiones, haberes de retiro o liquidaciones por servicios prestados, préstamos o créditos, sin que estén previstos en la ley, decreto acuerdo de cabildo, contrato colectivo, condiciones generales de trabajo o el presupuesto de egresos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+XXIII. Cumplir, en tiempo y forma, con aquellas disposiciones transitorias de leyes y decretos, que en virtud de su competencia deba llevar a cabo.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 28.
 
-Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI a XXII del artículo anterior.
+Se consideran graves las infracciones o violaciones a los deberes establecidos por las fracciones II, III, IV, VIII, IX, X, XI, XII, XV y XVI a la XXIII del artículo anterior.
 
 ###### ARTÍCULO 29.
 
@@ -897,7 +901,7 @@ LIC. SERGIO ÁLVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE ABRIL DE 2008.
 
@@ -942,3 +946,13 @@ Tercero.- Los poderes Ejecutivo y Judicial del Gobierno del Estado de Morelos, a
 Cuarto.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 Quinto.- Túrnese el presente decreto al titular del Poder Ejecutivo del Estado de Morelos para los efectos de su promulgación y publicación respectiva.
+
+P.O. 4 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Aprobado el presente, remítase para su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
