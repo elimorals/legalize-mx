@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-35-2011-del-pleno-del-consejo-de-la-83625"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-11-15"
-last_updated: "2011-11-25"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83625&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2011-11-07"
 ---
 # ACUERDO GENERAL 35/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [INICIO DE FUNCIONAMIENTO DEL JUZGADO SEPTIMO DE DISTRITO EN CIUDAD VALLES, SAN LUIS POTOSI, ASI COMO TURNO Y DISTRIBUCION DE ASUNTOS ENTRE JUZGADOS DE DISTRITO DE LA ENTIDAD INDICADA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
-
 ACUERDO GENERAL 35/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO SÉPTIMO DE DISTRITO EN EL ESTADO DE SAN LUIS POTOSÍ, CON SEDE EN CIUDAD VALLES; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD Y SEDE INDICADAS
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 25 DE NOVIEMBRE DE 2011.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 4 DE ABRIL DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de noviembre de 2011.
 
@@ -69,11 +67,11 @@ Concluido ese período, los nuevos asuntos que se reciban en días y horas hábi
 
 SEXTO. Durante el lapso indicado en el punto que antecede, el Juzgado Séptimo de Distrito en el Estado de San Luis Potosí, con residencia en Ciudad Valles, recibirá también los nuevos asuntos que se presenten en horas y días inhábiles.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
+> <small>(F. DE E. D.O.F. DEL 4 DE ABRIL DE 2012)</small>
 
 SEPTIMO. Al finalizar el período de exclusión otorgado, los titulares de los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en Ciudad Valles, deberán informar a la Comisión de Creación de Nuevos Organos y a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos sobre la productividad obtenida, dentro de los tres días hábiles siguientes.
 
-El órgano jurisdiccional de nueva creación deberá, remitir dentro de los primeros cinco días hábiles de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
+El órgano jurisdiccional de nueva creación deberá, remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
 
 OCTAVO. Transcurrido el período al que se hace alusión en los puntos quinto y sexto de este acuerdo, los Juzgados de Distrito en el Estado de San Luis Potosí, con residencia en Ciudad Valles, estarán en su orden y sucesivamente de turno durante catorce días naturales, para recibir los asuntos de nuevo ingreso que se presenten en horas y días inhábiles; por lo que del veintiocho de noviembre al once de diciembre de dos mil once estará de turno el juzgado Quinto de Distrito; del doce al veinticinco de diciembre de ese mismo año estará de turno el Juzgado Séptimo; y así sucesivamente.
 
