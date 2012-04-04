@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2009-10-17"
+last_updated: "2012-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -185,7 +185,7 @@ A los diputados que contestaren negativamente la interpelación del presidente s
 
 Posteriormente, el presidente del Congreso lo declarará solemnemente instalado y abierto su Primer Período Ordinario de Sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2004)</small>
 
 ###### Art. 12.
 
@@ -299,7 +299,7 @@ VI.- Representar al Congreso en los foros, audiencias públicas y reuniones naci
 
 VII.- Participar en la elaboración de la Agenda Legislativa, de la correspondiente Legislatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Art. 22.
 
@@ -371,7 +371,7 @@ VII.- Por renuncia.
 
 El órgano de dirección del Congreso estará integrado por un Presidente, dos Vicepresidentes, dos Secretarios y dos Prosecretarios, que durarán en su encargo todo el período de que se trate. Este órgano se denominará mesa directiva y su integración reflejará la composición plural del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
 
 ###### Art. 26.
 
@@ -489,7 +489,7 @@ El Presidente de la Mesa Directiva podrá ser removido por el Pleno cuando de ma
 
 ### CAPITULO III. DE LOS SECRETARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Art. 33.
 
@@ -531,7 +531,7 @@ Los Prosecretarios auxiliarán a los Secretarios en el desempeño de sus funcion
 
 ### CAPITULO IV. DE LA DIPUTACION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2003)</small>
 
 ###### Art. 34.
 
@@ -663,7 +663,7 @@ IV.- Especiales.
 
 Las Comisiones de Dictamen Legislativo y de Fiscalización se constituyen con carácter definitivo y funcionarán durante toda la Legislatura; se denominan Ordinarias y se integrarán a más tardar en la cuarta sesión posterior a la de instalación del Congreso, con un máximo de cinco miembros y un mínimo de tres. Su mesa directiva se integrará por un Presidente y un Secretario, quienes junto con los demás miembros de cada Comisión, serán designados por el Pleno a propuesta de la Junta de Coordinación Parlamentaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2004)</small>
 
 ###### Art. 46.
 
@@ -713,7 +713,7 @@ Las Comisiones se reunirán para la atención y desahogo de sus asuntos, en la m
 
 En los casos en que se considere pertinente se levantará acta de cada reunión de trabajo, la que reunirá los requisitos que establece el artículo 93 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 1999)</small>
 
 ###### Art. 51.
 
@@ -747,7 +747,7 @@ VII.- Turnar a la secretaría del Congreso los dictámenes aprobados para su dis
 
 VIII.- Las demás que les confieren esta Ley y otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 1999)</small>
 
 ###### Art. 52.
 
@@ -855,7 +855,7 @@ Las comisiones, durante los recesos, continuarán el estudio de los asuntos pend
 
 Los dictámenes que se produzcan sobre asuntos que no llegue a conocer la Legislatura que los recibió, quedarán a disposición de la siguiente con el carácter de proyectos prioritarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
 ###### Art. 62.
 
@@ -975,7 +975,7 @@ La revisión será concreta y específica sobre los hechos denunciados.
 
 Las comisiones jurisdiccionales conocerán de las denuncias o acusaciones que se presenten contra los Servidores Públicos que gocen de Fuero Constitucional, así como de las solicitudes por parte del Ministerio Público para declarar si ha lugar a proceder penalmente en contra de aquéllos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 2002)</small>
 
 ###### Art. 66.
 
@@ -989,7 +989,7 @@ Los diputados que formen parte de las comisiones o comités no recibirán ningun
 
 ### CAPITULO VII. DE LOS COMITES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2004)</small>
 
 ###### Art. 68.
 
@@ -1177,7 +1177,45 @@ III.- Realizar las tareas de consulta y atención ciudadana, relaciones pública
 
 IV.- Llevar los servicios de gestoría social de los diputados y auxiliar a las comisiones en los procesos de consulta pública para dar contenido a las iniciativas de ley o decreto;
 
-V.- Coordinar la Unidad de Información del Poder legislativo;
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2012)</small>
+
+V.- Coordinar la Unidad de Información del Poder Legislativo, apoyándose para el cumplimiento de sus atribuciones en la utilización de un portal oficial de Internet, que contendrá como mínimo lo siguiente:
+
+a) Integración de la Legislatura, Junta de Coordinación Parlamentaria, grupos parlamentarios y Mesa Directiva;
+
+b) Historial de la conformación de las legislaturas anteriores;
+
+c) Estructura Orgánica del Congreso;
+
+d) Directorio de los servidores públicos;
+
+e) Agenda Legislativa;
+
+f) Calendario de sesiones del Pleno, de la Diputación Permanente y de reuniones de comisión;
+
+g) Videoteca de las sesiones;
+
+h) Códigos, leyes, decretos, acuerdos y reglamentos;
+
+i) Iniciativas y Dictámenes;
+
+j) Registro de las votaciones por asunto;
+
+k) Estadísticas de participación por diputado y por grupo parlamentario;
+
+l) Eventos y convocatorias;
+
+m) Calendarización de los foros y consultas públicas, así como los medios para la recepción de propuestas;
+
+n) Comunicados de prensa;
+
+o) Sección de transparencia;
+
+p) Vínculo a las redes sociales, que permitan la comunicación interactiva con los ciudadanos;
+
+q) Buzón electrónico de quejas y sugerencias, y
+
+r) Los demás elementos que resulten necesarios, conforme a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
 VI.- Actuar como apoderado general del Congreso, con facultades para pleitos y cobranzas, ante otras instancias, así como llevar un control de las demandas judiciales y, en su caso, asumir su representación en juicio y fuera de él;
 
@@ -1219,7 +1257,7 @@ La constitución de los grupos parlamentarios se llevará a cabo mediante solici
 
 I.- Acta en que conste la afiliación de sus integrantes a un mismo partido político, la voluntad de constituirse en grupo parlamentario, así como los nombres de sus integrantes, y
 
-II.- Nombres de los diputados que haya sido designados coordinador y subcoordinadores en su caso.
+II.- Nombres de los diputados que haya (sic) sido designados coordinador y subcoordinadores en su caso.
 
 Los grupos parlamentarios deberán entregar la documentación referida a más tardar en la tercera sesión siguiente a la de instalación del Primer Período Ordinario de Sesiones de cada Legislatura. El Presidente del Congreso revisará la documentación y cumplido (sic) los requisitos anteriores, declarará la constitución de los grupos parlamentarios.
 
@@ -1303,7 +1341,7 @@ II.- Cuando se dé cuenta de comunicaciones que con la calidad de reservadas dir
 
 III.- Cuando se traten los asuntos que tengan por objeto la organización interna del Congreso, los relativos a los asuntos económicos de éste, así como los que se refieran a los deberes de los Diputados; y
 
-IV.- Cuando se desahoguen asuntos que uno o más diputados soliciten se trate en esta clase de sesiones, siempre que sea aprobadas por la mayoría de los diputados presentes.
+IV.- Cuando se desahoguen asuntos que uno o más diputados soliciten se trate en esta clase de sesiones, siempre que sea (sic) aprobadas por la mayoría de los diputados presentes.
 
 ###### Art. 92.
 
@@ -1333,7 +1371,7 @@ El Presidente del Congreso abrirá y cerrará las sesiones, respectivamente, con
 
 ### CAPITULO II. DEL ORDEN DEL DIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### Art. 96.
 
@@ -1383,7 +1421,7 @@ El derecho de iniciar leyes y decretos corresponde a los miembros del Congreso y
 
 Las iniciativas de ley, de decreto o de punto de acuerdo contendrán la exposición de motivos que las fundamenten y el articulado que propongan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 99.
 
@@ -1661,7 +1699,7 @@ Son facultades del Congreso las contenidas en la Constitución Federal, la parti
 
 ### CAPITULO II. EN MATERIA DE RESPONSABILIDADES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 144.
 
@@ -1851,7 +1889,7 @@ II.- La anual, durante el mes de octubre de cada año, y
 
 III.- La final, dentro de los sesenta días naturales siguientes a la conclusión de la función o encargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Art. 168.
 
@@ -1907,7 +1945,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE FEBRERO DE 1998.
 
@@ -2125,7 +2163,7 @@ P.O. 3 DE NOVIEMBRE DE 2004.
 
 ###### ARTÍCULO PRIMERO.
 
-Una vez iniciado el Periodo Ordinario de Sesiones, dentro del Primer Año de Ejercicio Constitucional, la Junta de Coordinación Parlamentaria propondrá al Pleno la designación la Comisión Especial a que se refiere el presente decreto, cuando el Ejecutivo del Estado haga uso de la facultad que le confiere el artículo 55 en relación con el 93 fracción IXX.(sic) de la Constitución Política del Estado.
+Una vez iniciado el Periodo Ordinario de Sesiones, dentro del Primer Año de Ejercicio Constitucional, la Junta de Coordinación Parlamentaria propondrá al Pleno la designación la Comisión Especial a que se refiere el presente decreto, cuando el Ejecutivo del Estado haga uso de la facultad que le confiere el artículo 55 en relación con el 93 fracción IXX. (sic) de la Constitución Política del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2266,3 +2304,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 17 DE OCTUBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con la modalidad que se señala en el artículo subsecuente.
+
+###### ARTÍCULO SEGUNDO.
+
+Para dar cumplimiento a lo dispuesto en el Decreto, se contará con un plazo de ciento ochenta días naturales contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
