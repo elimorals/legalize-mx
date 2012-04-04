@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-32-2011-del-pleno-del-consejo-de-la-83057"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-30"
-last_updated: "2011-09-30"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-09-22"
 ---
 # ACUERDO GENERAL 32/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [DENOMINACION, COMPETENCIA Y FECHA DE INICIO DE FUNCIONAMIENTO DEL CUARTO TRIBUNAL COLEGIADO PENAL Y DE TRABAJO EN XALAPA, VERACRUZ; ASI COMO REGLAS DE TURNO Y DISTRIBUCION DE ASUNTOS]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
-
 ACUERDO GENERAL 32/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL CUARTO TRIBUNAL COLEGIADO EN MATERIAS PENAL Y DE TRABAJO DEL SÉPTIMO CIRCUITO, CON RESIDENCIA EN XALAPA, VERACRUZ; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO Y RESIDENCIA INDICADOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012.</small>
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2011.
 
@@ -69,9 +69,9 @@ Transcurrido el plazo concedido, los asuntos nuevos se distribuirán entre los c
 
 QUINTO. El órgano jurisdiccional de nueva creación utilizará Libros de Gobierno, los que deberán ser autorizados por el Presidente del Tribunal Colegiado, con la certificación secretarial respectiva.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
+> <small>(F. DE E. D.O.F. DEL 4 DE ABRIL DE 2012)</small>
 
-SEXTO. El Tribunal Colegiado de que se trata deberá remitir dentro de los primeros cinco días hábiles de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística.
+SEXTO. El Tribunal Colegiado de que se trata deberá remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística.
 
 SEPTIMO. Se modifica el Acuerdo General 11/2011 del Pleno del Consejo de la Judicatura Federal, publicado en el Diario Oficial de la Federación el doce de mayo de dos mil once, en el punto SEGUNDO, apartado VII.- SEPTIMO CIRCUITO, número 1, para quedar como sigue:
 
