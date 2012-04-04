@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2012-03-26"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
-
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DE ESTE ORDENAMIENTO, PUBLICADO EN EL P.O. DE 26 DE MARZO DE 2012, SÓLO AL CONSIDERANDO.</small>
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
