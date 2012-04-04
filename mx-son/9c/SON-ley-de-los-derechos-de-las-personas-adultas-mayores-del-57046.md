@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2007-09-07"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -161,6 +161,10 @@ V.- Al trabajo, que comprende:
 
 a).- Gozar de oportunidades de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, recibir una capacitación adecuada, así como recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral.
 
+> <small>(ADICIONADO, B.O. 4 DE ABRIL DE 2012)</small>
+
+b).- Acceder a oportunidades de trabajo acordes a sus capacidades físicas, aptitudes y habilidades, que se encuentren en las bolsas de trabajo que específicamente deberán integrar, para estos efectos, el Poder Ejecutivo Estatal y los ayuntamientos del Estado.
+
 VI.- A la asistencia social, que incluye:
 
 a).- Ser sujeto de programas de asistencia social cuando se encuentren en situación de riesgo, desamparo, discapacidad o pérdida de sus medios de subsistencia que garanticen su atención integral;
@@ -189,7 +193,9 @@ III.- Fomentar su independencia, respetar sus decisiones y mantener su privacida
 
 IV.- Gestionar ante las instancias públicas o privadas el reconocimiento y respeto de los derechos de los adultos mayores;
 
-V.- Contribuir a que se mantengan productivos y socialmente integrados;
+> <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+V.- Contribuir a que se mantengan productivos y socialmente integrados, orientándoles sobre las opciones laborales a que pueden acceder en las bolsas de trabajo de su Municipio o en el Estado;
 
 VI.- Vigilar que los trabajos o actividades que realicen no impliquen un esfuerzo superior a las condiciones de su salud física y mental;
 
@@ -215,9 +221,17 @@ IV.- Coadyuvar con las autoridades en la protección de los derechos de los adul
 
 V.- Participar en los programas públicos que establezcan las autoridades en beneficio de los adultos mayores;
 
-VI.- Denunciar a la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación y violencia a los adultos mayores; y
+> <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
 
-VII.- Las demás señaladas en esta ley y demás disposiciones legales aplicables.
+VI.- Denunciar a la autoridad competente los casos que sean de su conocimiento sobre discriminación, abandono, desamparo, marginación, abuso, explotación y violencia a los adultos mayores;
+
+> <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+VIl.- Establecer áreas o espacios informativos relativos a la oferta laboral para el adulto mayor, en la propia institución de que se trate, en el sector productivo o en las bolsas de trabajo municipales o estatal, en su caso; y
+
+> <small>(ADICIONADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+VIII.- Las demás señaladas en esta ley y demás disposiciones legales aplicables.
 
 ### CAPÍTULO VI. DE LAS OBLIGACIONES DE LAS AUTORIDADES
 
@@ -261,9 +275,17 @@ III.- Comunicar a la autoridad competente los casos que sean de su directo conoc
 
 IV.- Recibir quejas, denuncias e informes, sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y, de ser procedente conforme a su ámbito de competencias, ejercitar o promover las acciones legales correspondientes;
 
-V.- Proporcionar información y asesoría sobre los servicios y trámites que presten a favor de los adultos mayores y adoptar las medidas necesarias que permitan su simplificación; y
+> <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
 
-VI. - Difundir entre los adultos mayores y en la sociedad en general, el contenido de la presente ley y de otras disposiciones aplicables.
+V.- Proporcionar información y asesoría sobre los servicios y trámites que presten a favor de los adultos mayores y adoptar las medidas necesarias que permitan su simplificación;
+
+> <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+VI.- Difundir entre los adultos mayores y en la sociedad en general, el contenido de la presente ley y de otras disposiciones aplicables; y
+
+> <small>(ADICIONADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+VII.- Integrar y mantener actualizado un padrón único de adultos mayores con datos e información relativa al estado de salud, capacidades físicas, oficios, profesiones, ocupaciones, escolaridad, desarrollo curricular laboral, cultural, artístico, cívico, deportivo y demás datos que faciliten al Estado un adecuado desarrollo e implementación de las políticas públicas dirigidas a los adultos mayores así como su integración e incorporación a la vida productiva estatal.
 
 #### SECCIÓN II. DE LAS OBLIGACIONES DE LAS AUTORIDADES ESTATALES
 
@@ -381,7 +403,13 @@ VII.- Apoyar a los adultos mayores en la realización de gestiones ante las auto
 
 VIII.- Gestionar la capacitación para el trabajo, así como el adiestramiento de los adultos mayores, de acuerdo a sus condiciones físicas y mentales; y
 
-IX. - Las demás señaladas en esta ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+IX.- Atender lo dispuesto por el inciso b), fracción V del artículo 7 y la fracción VII del artículo 12 de esta ley, en coordinación con la Secretaría de Desarrollo Social y la Secretaría de Salud, así como del Sistema para el Desarrollo Integral de la Familia; y
+
+> <small>(ADICIONADA, B.O. 4 DE ABRIL DE 2012)</small>
+
+X.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -794,3 +822,15 @@ Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo Sonora, a los cinco días del mes de septiembre del año dos mil siete.
 
 EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RUBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBAL ASTIAZARAN, RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 4 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción de lo previsto en el artículo transitorio siguiente.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Poder Ejecutivo Estatal y los Ayuntamientos deberán implementar las acciones necesarias para que a partir del año 2013 se cumpla con la integración del padrón y bolsa de trabajo a que se refiere el presente Decreto.
