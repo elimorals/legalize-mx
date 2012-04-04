@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-44-2011-del-pleno-del-consejo-de-la-83923"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-11-28"
-last_updated: "2011-11-28"
+last_updated: "2012-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83923&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-11-17"
 ---
 # ACUERDO GENERAL 44/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO QUINTO DE DISTRITO EN EL ESTADO DE QUERETARO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION, REGISTRO Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA SEDE REFERIDA]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
-
 ACUERDO GENERAL 44/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO QUINTO DE DISTRITO EN EL ESTADO DE QUERÉTARO, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA SEDE REFERIDA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012.</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 28 de noviembre de 2011.
 
@@ -71,9 +71,9 @@ SEXTO. Se modifica el rol de guardias de los Juzgados de Distrito en el Estado d
 
 SEPTIMO. El titular del Juzgado Quinto de Distrito en el Estado de Querétaro, con residencia en la ciudad del mismo nombre, con asistencia de un secretario, deberá autorizar el uso de libros de gobierno nuevos, conforme a lo dispuesto en el Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 4 DE ABRIL DE 2012, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA.</small>
+> <small>(F. DE E. D.O.F. DEL 4 DE ABRIL DE 2012)</small>
 
-OCTAVO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días hábiles de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
+OCTAVO. El órgano jurisdiccional de nueva creación deberá remitir dentro de los primeros cinco días naturales de cada mes su reporte estadístico correspondiente a la Dirección General de Estadística Judicial.
 
 De igual forma dicho titular deberá levantar por duplicado un acta administrativa del inicio de funciones del órgano jurisdiccional, cuyo formato le será proporcionado por la Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, debiendo remitir un ejemplar a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
 
