@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-procedimiento-administrativo-de-la-ciudad-de-mexico-841"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2011-04-07"
+last_updated: "2012-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=841&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1995-12-14"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE ABRIL DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 21 de diciembre de 1995.
 
@@ -124,7 +124,7 @@ XXVI. Tribunal: Tribunal de lo Contencioso Administrativo del Distrito Federal.
 
 La Administración Pública del Distrito Federal ajustará su actuación a la Ley, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia y eficacia; y deberá abstenerse de comportamientos que impliquen vías de hecho administrativa contrarias a las garantías constitucionales, a las disposiciones previstas en esta Ley o en otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2004)</small>
 
 ###### Artículo 4o.
 
@@ -136,7 +136,7 @@ A falta de disposición expresa y en cuanto no se oponga a lo que prescribe esta
 
 El procedimiento administrativo que establece la presente Ley se regirá por los principios de simplificación, agilidad, información, precisión, legalidad, transparencia, imparcialidad y buena fe.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -332,7 +332,7 @@ III.- Arresto hasta por treinta y seis horas inconmutable.
 
 Si resultaran insuficientes las medidas de apremio se procederá contra el rebelde por el delito de desobediencia y resistencia de particulares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE ENERO DE 2009)</small>
 
@@ -582,9 +582,9 @@ Si la promoción no fue firmada se estará a lo dispuesto en el artículo 33 de 
 
 Contra el desechamiento o la negativa de dar trámite a las solicitudes o promociones, procederá el recurso de inconformidad.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 5 DE ABRIL DE 2012)</small>
 
-La prevención se emitirá y notificará dentro del plazo que las normas establezcan para la resolución del procedimiento o trámite, debiendo ser desahogada por el interesado dentro del mismo plazo para la resolución de dicho procedimiento o trámite. Son nulas, las prevenciones por las que se requiera el cumplimiento de requisitos no previstos en las normas aplicables al trámite de que se trate ni en el manual, y por tanto no podrá exigirse su cumplimiento.
+La prevención se emitirá y notificará dentro del plazo que las normas establezcan para la resolución del procedimiento o trámite. Son nulas, las prevenciones por las que se requiera el cumplimiento de requisitos no previstos en las normas aplicables al trámite de que se trate ni en el manual, y por tanto no podrá exigirse su cumplimiento.
 
 ###### Artículo 46.
 
@@ -656,13 +656,13 @@ Cuando en el procedimiento obren pruebas obtenidas por la Secretaría de Segurid
 
 Con el escrito inicial se deberán ofrecer pruebas, siempre que la naturaleza del asunto así lo exija y lo prescriban las normas; y cuando en los ordenamientos jurídicos aplicables o en el Manual, no esté detallado expresamente el debido proceso legal, se seguirá el procedimiento que se establece en esta Ley. La autoridad competente acordará dentro de los tres días hábiles siguientes el ofrecimiento de las pruebas, señalando día y hora para la celebración de la audiencia de admisión y desahogo de pruebas y alegatos, misma que deberá verificarse dentro de los siete días hábiles siguientes a que se notifique el acuerdo en el que se admitan las pruebas. Sólo en caso de que se requiera la opinión de otra dependencia o entidad, la audiencia podrá fijarse en un plazo mayor al señalado, que no podrá exceder, en todo caso, de veinte días hábiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE ENERO DE 2009)</small>
 
 Cuando para la preparación y desahogo de alguna de las pruebas ofrecidas sea necesario acudir al establecimiento mercantil y este se encuentre clausurado o en suspensión de actividades, la autoridad deberá acordar el levantamiento provisional de sellos por el tiempo que solicite el particular, dentro del auto que fije la hora fecha y lugar de la audiencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 26 DE ENERO DE 2009)</small>
 
@@ -836,7 +836,7 @@ III. Por edictos, cuando se desconozca el domicilio del interesado o en su caso 
 
 Las notificaciones por edictos se efectuarán mediante publicaciones que contendrán el resumen de las actuaciones por notificar. Dichas publicaciones deberán efectuarse por tres veces, de tres en tres días en la Gaceta Oficial del Distrito Federal y en uno de los periódicos de mayor circulación en el Distrito Federal, que para tal efecto señale la autoridad competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -844,7 +844,7 @@ Las notificaciones por edictos se efectuarán mediante publicaciones que contend
 
 Los notificadores tendrán fe pública únicamente en cuanto concierne a la práctica de las notificaciones a su cargo. Cuando las notificaciones personales se hagan en el domicilio señalado para tal efecto por el interesado o su representante legal, el notificador deberá cerciorarse y asentar en la cédula de notificación los elementos que dan certeza de que se trata del domicilio correspondiente, entregando copia del acto que se notifica y señalando la fecha y hora en que se efectúa la diligencia, recabando el nombre y firma de la persona con quien se entienda la notificación. Si ésta se niega a firmar, se hará constar dicha circunstancia en el acta respectiva, sin que ello afecte su validez. Debiendo describir la media filiación de la persona que lo atiende y las características del inmueble.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -854,7 +854,7 @@ Las notificaciones personales, se entenderán con la persona que deba ser notifi
 
 Si el domicilio se encontrare cerrado; y nadie respondiera al llamado del notificador para atender la diligencia, el notificador deberá volver dentro de los siguientes tres días hábiles al domicilio, en hora diferente de la primera visita. Si en la segunda visita no se encuentra a ninguna persona, procederá a fijar en un lugar visible el citatorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -918,7 +918,7 @@ Cuando se trate de solicitudes de autorizaciones, licencias, permisos o de cualq
 
 Cuando opere la negativa ficta por silencio de la autoridad, el interesado podrá interponer el recurso de inconformidad previsto en la presente Ley, o bien, intentar el juicio de nulidad ante el Tribunal.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### Artículo 90.
 
@@ -948,6 +948,8 @@ La resolución de procedencia de afirmativa ficta producirá todos los efectos l
 
 La autoridad omisa podrá iniciar el procedimiento de lesividad contra las resoluciones de procedencia de afirmativa ficta en los plazos y condiciones previstos en los artículos 28 y 28 bis de esta Ley.
 
+> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+
 ###### Artículo 90 Bis.
 
 El órgano de control iniciará el procedimiento administrativo disciplinario contra:
@@ -955,8 +957,6 @@ El órgano de control iniciará el procedimiento administrativo disciplinario co
 I. El servidor público responsable de suscribir las resoluciones o acuerdos respectivos a las solicitudes de los interesados, incurra recurrentemente en omisión, motivando la intervención del órgano de control en la certificación de la afirmativa ficta;
 
 II. El servidor público incurra frecuentemente en retrasos en el envío de los expedientes requeridos en los procedimientos de certificación de afirmativa ficta o se niegue a su envío.
-
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
 ###### Artículo 91.
 
@@ -1004,7 +1004,7 @@ Toda visita de verificación deberá ajustarse a los procedimientos y formalidad
 
 Los verificadores, para practicar una visita, deberán estar provistos de orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que la fundamenten.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 26 DE ENERO DE 2009)</small>
 
@@ -1064,13 +1064,11 @@ Cuando en el procedimiento, obren pruebas obtenidas por la Secretaría de Seguri
 
 Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, personas y vehículos de transporte con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para las visitas de verificación.
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
-
 ###### Artículo 105 Bis.
 
-La Secretaría de Gobierno, con la opinión de las secretarías de Desarrollo Urbano y Vivienda y de Desarrollo Económico, emitirá en el mes de diciembre, el acuerdo de los giros, actividades y obras que no serán objeto de verificación en el año siguiente al de la emisión de dicho acuerdo.
+(DEROGADO, G.O. 5 DE ABRIL DE 2012)
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE ENERO DE 2004)</small>
 
 ### CAPITULO NOVENO. DE LAS MEDIDAS CAUTELARES Y DE SEGURIDAD
 
@@ -1350,11 +1348,11 @@ RECINTO DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, a los veintidós 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León, Rúbrica.- El Jefe del Departamento del Distrito Federal, Oscar Espinosa Villarreal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 29 DE ENERO DE 2004.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 2, 4, 6, 7 BIS, 15, 27, 33, 35, 35 BIS Y 97 DE LA LEY.
+DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTÍCULOS 2, 4, 6, 7 BIS, 15, 27, 33, 35, 35 BIS Y 97 DE LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
 
@@ -1362,7 +1360,7 @@ SEGUNDO.- Para la aplicación de la firma electrónica mencionada en los artícu
 
 G.O. 29 DE ENERO DE 2004.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTICULOS 14, 14 BIS, 19, 19 BIS, 20, 20 BIS, 23, 28 Y 106 DE LA LEY.
+DECRETO QUE REFORMA, ADICIONA Y DEROGA LOS ARTÍCULOS 14, 14 BIS, 19, 19 BIS, 20, 20 BIS, 23, 28 Y 106 DE LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
@@ -1392,7 +1390,7 @@ CUARTO. El ciudadano Jefe de Gobierno del Distrito Federal deberá de hacer las 
 
 G.O. 26 DE ENERO DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. Publíquese en el (sic) Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
@@ -1411,3 +1409,9 @@ G.O. 7 DE ABRIL DE 2011.
 Primero: El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 Segundo: Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 5 DE ABRIL DE 2012.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
