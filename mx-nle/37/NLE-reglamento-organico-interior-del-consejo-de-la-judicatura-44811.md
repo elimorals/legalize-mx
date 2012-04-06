@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2009-08-05"
+last_updated: "2012-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO ORGANICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO
 
-REGLAMENTO ORGANICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO
+REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -805,7 +805,7 @@ XXII.- Llevar el libro de registro de quejas y denuncias, y
 
 XXIII.- Las demás que determinen las disposiciones jurídicas y las que le sean encomendadas por el Presidente del Consejo, el Pleno, las Comisiones y los Consejeros.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO VIII (SIC). DE LA ADMINISTRACIÓN Y TESORERIA
 
@@ -1045,7 +1045,7 @@ Artículo 60 bis III.- El Centro Estatal de Métodos Alternos para la Solución 
 
 Artículo 60 bis IV.- El Titular del Centro Estatal de Métodos Alternos para la Solución de Conflictos será el Director designado para tal efecto por el Pleno, a propuesta del Presidente, quien deberá cumplir con los requisitos que para tal encargo señala la Ley de la Materia, y quien gozara de las facultades, atribuciones y obligaciones que reseña la misma, la Constitución y la Ley Orgánica.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA P.O. 12 DE OCTUBRE DE 2007)</small>
 
@@ -1053,7 +1053,7 @@ Sección 6ª.
 
 De la oficina ejecutiva de la Presidencia
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO P.O. 12 DE OCTUBRE DE 2007)</small>
 
@@ -1084,6 +1084,40 @@ XI. Coordinar la Secretaria Particular y la agenda personal del Presidente del C
 XII. Servir de enlace de comunicación entre la Presidencia del Consejo con los Jueces y demás servidores públicos del Poder Judicial, para la consecución de las funciones que correspondan a la oficina ejecutiva; y
 
 XIII. Las demás inherentes a las funciones anteriores y las que le encomiende expresamente el Presidente del Consejo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ABRIL DE 2012)</small>
+
+Sección 7a.
+
+De la dirección de difusión cultural
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2012)</small>
+
+Artículo 60 Bis VI.- La Dirección de Difusión Cultural es la unidad administrativa encargada de desarrollar e implementar estrategias para llevar a los servidores públicos del Poder Judicial del Estado, actividades y programas culturales, de valores, de legalidad y de promoción del deporte, así como lograr su participación en la cultura y las artes en coordinación con las demás instituciones de esa materia de gobierno e iniciativa privada, motivando con ello su integración familiar, laboral y de desarrollo humano. Sus atribuciones y responsabilidades son las siguientes:
+
+I. Encabezar la elaboración de políticas y ejecución de un plan de desarrollo cultural del Poder Judicial del Estado;
+
+II. Fortalecer y establecer mecanismos de acción, coordinación y cooperación en materia cultural, entre las diferentes entidades públicas y privadas del estado y del país;
+
+III. Elaborar, apoyar y ejecutar los diferentes programas, proyectos y eventos culturales, llevando entretenimiento, trabajo, creatividad e integración a los servidores públicos de esta institución, fomentando su formación integral y superación personal;
+
+IV. Participar como enlace con respecto a sus atribuciones entre el Poder Judicial del Estado con sus empleados, entidades de gobierno, los creadores de arte, promotores culturales y empresarios de cultura;
+
+V. Diseñar y ejecutar eventos deportivos y de promoción a la actividad física;
+
+VI. Diseñar y ejecutar programas de convivencia e integración familiar, con el fin de que se compartan los valores de la impartición de justicia entre los empleados y sus familias;
+
+VII. Conducir las tareas propias de la imagen y opinión pública vinculadas con el Poder Judicial del Estado;
+
+VIII. Diseñar la agenda y el calendario de eventos del Poder Judicial del Estado;
+
+IX. Conducir y evaluar las tareas de comunicación social de la Presidencia;
+
+X. Ofrecer programas de capacitación y formación en la promoción y difusión de la cultura;
+
+XI. Vigilar, rescatar y preservar el patrimonio cultural del Poder Judicial del Estado, así como la creación y el buen funcionamiento de los espacios culturales;
+
+XII. Las demás que le sean encomendadas.
 
 ### CAPITULO IX
 
@@ -1339,7 +1373,7 @@ Artículo 63 bis XXIV.- Es responsabilidad de los integrantes del Comité asisti
 
 Artículo 63 bis XXV.- La falta injustificada por más de tres veces consecutivas, dará lugar a que el presidente del Comité requiera se nombre a otra persona como representante del área correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. DE LA FUNCION DE VIGILANCIA
 
@@ -1351,7 +1385,7 @@ GENERALIDADES DE LAS VISITAS DE INSPECCIÓN
 
 El Consejo de la Judicatura contará con un órgano encargado de la administración de tecnologías de la información y comunicaciones al que denominará: Dirección de Informática y tendrá como función principal la administración de los proyectos de tecnologías de la información y comunicaciones, el sistema de informática del Poder Judicial, el sistema del Tribunal Virtual y tendrá a su cargo toda la operatividad de los sistemas de cómputo, archivo y estadística, así como el mantenimiento de las redes y equipos de cómputo a fin de apoyar el desempeño de manera eficiente de las actividades del Poder Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 65.
 
@@ -1785,7 +1819,7 @@ Para efectos de la carrera judicial, la antigüedad se computará a partir de la
 
 La promoción dentro del sistema de carrera judicial a que se refiere el artículo 125 de la Ley Orgánica, consiste en el ascenso mediante los mecanismos de examen de aptitud y concursos de oposición a las categorías establecidas en el artículo 126 del citado cuerpo normativo orgánico.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 11 DE MAYO DE 2007)</small>
 
@@ -2345,7 +2379,7 @@ LIC. HORTENCIA RUIZ GUERRERO
 
 Secretaria General de Acuerdos
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE OCTUBRE DE 2006.
 
@@ -2370,3 +2404,9 @@ P.O. 5 DE AGOSTO DE 2009.
 PRIMERO.- Publicación y difusión. Publíquese las presentes reformas en el Boletín Judicial y, para su mayor difusión, en el Periódico Oficial del Estado.
 
 SEGUNDO.- Vigencia. Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Boletín Judicial.
+
+P.O. 6 DE ABRIL DE 2012.
+
+PRIMERO.- Vigencia. Este Acuerdo General entrará en vigor, a partir del día siguiente al de su publicación en el Boletín Judicial.
+
+SEGUNDO.- Publicación. Para conocimiento de las autoridades, litigantes y público en general, publíquese este Acuerdo en el Boletín Judicial, así como en el Periódico Oficial del Estado.
