@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-control-escolar-del-colegio-de-bachilleres-77724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-25"
-last_updated: "2010-11-25"
+last_updated: "2012-04-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "OAX"
 
 REGLAMENTO DE CONTROL ESCOLAR DEL COLEGIO DE BACHILLERES DEL ESTADO DE OAXACA (COBAO)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2012.
 
 Reglamento publicado en el periódico oficial del Estado de Oaxaca, el jueves 25 de noviembre de 2010.
 
 La Junta Directiva, de acuerdo a las facultades que le confiere el Artículo 7 Fracción XIII del Decreto 205, emitido en la Quincuagésima Séptima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, publicado en el periódico Oficial del Estado, el 23 de septiembre del año 2000, por medio del cual se reforman, adicionan y derogan diversos artículos del Decreto número 41 de fecha 29 de mayo de 1981, publicado en el periódico Oficial número 26 de fecha 27 de junio de 1981, que crea el Colegio de Bachilleres del Estado de Oaxaca; y considerando que con fecha 23 de junio de 2009, se publicó en el Diario Oficial de la Federación, el Acuerdo 442 por el que se establece el Sistema Nacional del Bachillerato en un marco de diversidad, en el cual, se señaló que el marco curricular común en el que tiene su base académica el Sistema Nacional del Bachillerato, tiene que acompañarse de pautas para una administración escolar con reglas transparentes y homogéneas en todas las modalidades y subsistemas, y que a partir de lo anterior, se han emitido diversos acuerdos secretariales que regulan aspectos específicos del Sistema Nacional del Bachillerato, como lo son, entre otros, el acuerdo número 444 por el que se establecen las competencias que constituyen el Marco Curricular Común del Sistema Nacional del Bachillerato, publicado en el Diario Oficial de la Federación el 21 de octubre de 2008, y modificado mediante acuerdo publicado el 23 de junio de 2009, y el acuerdo número 480 por el que se establecen los lineamientos para el ingreso de instituciones educativas al Sistema Nacional de Bachillerato, publicado en el Diario Oficial de la Federación el 23 de enero de 2009.
 
-Que para ello, es necesario un proceso de actualización de los modelos educativos, de las estructuras curriculares, de los programas de estudio y, por supuesto, de la organización escolar, entre otros elementos decisivos para la implantación de la Reforma Integral del Bachillerato; que entre dichos elementos destaca la necesidad de trabajar en la eliminación de las restricciones que han limitado la portabilidad de estudios y el consecuente tránsito de los alumnos entre las opciones del bachillerato, estrategia dispuesta para combatir la deserción y favorecer la equidad en el ingreso, la permanencia y el egreso de los estudiantes, para lo cual, el Consejo Nacional de Autoridades Educativas (CONAEODU) orientó la elaboración del documento normativo de servicios escolares; y dicho documento ha servicio de base para la revisión y actualización del presente reglamento mismo que la Junta Directiva del Colegio de Bachilleres del Estado de Oaxaca ha tenido a bien aprobar el siguiente:
+Que para ello, es necesario un proceso de actualización de los modelos educativos, de las estructuras curriculares, de los programas de estudio y, por supuesto, de la organización escolar, entre otros elementos decisivos para la implantación de la Reforma Integral del Bachillerato; que entre dichos elementos destaca la necesidad de trabajar en la eliminación de las restricciones que han limitado la portabilidad de estudios y el consecuente tránsito de los alumnos entre las opciones del bachillerato, estrategia dispuesta para combatir la deserción y favorecer la equidad en el ingreso, la permanencia y el egreso de los estudiantes, para lo cual, el Consejo Nacional de Autoridades Educativas (CONAEDU) orientó la elaboración del documento normativo de servicios escolares; y dicho documento ha servicio de base para la revisión y actualización del presente reglamento mismo que la Junta Directiva del Colegio de Bachilleres del Estado de Oaxaca ha tenido a bien aprobar el siguiente:
 
 REGLAMENTO DE CONTROL ESCOLAR
 
@@ -47,17 +47,21 @@ El cumplimiento adecuado de las disposiciones aquí señaladas permitirá el seg
 
 Para el cumplimiento de sus fines educativos el Colegio de Bachilleres, cuenta con dos modalidades de enseñanza: Escolarizada y Abierta.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-Las disposiciones contenidas en este reglamento son de observancia obligatoria para Autoridades Académicas y Administrativas, Directores y Subdirectores de Plantel, Subdirectores de Extensión, personal docente, Responsables de las Unidades de Registro y Control Escolar, padres de familia, tutores, comunidad escolar y personal involucrado en los procesos de control escolar.
+Las disposiciones contenidas en este reglamento son de observancia obligatoria para Autoridades Académicas y Administrativas, Directores y Subdirectores de Plantel, Subdirectores de Extensión, personal docente, Responsables de las Unidades de Registro y Control Escolar, padres de familia, tutores, comunidad escolar y personal involucrado en los procesos de control escolar; la ignorancia de las mismas no exime su cumplimiento.
 
 ###### ARTÍCULO 5.
 
 Las autoridades del Colegio que no cumplan con lo dispuesto en el presente Reglamento se ajustarán a lo que determina la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, ley de Transparencia y Acceso a la Información Pública.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 6.
 
-La Dirección Académica en coordinación con el Departamento de Control Escolar, verificará su aplicación y operación en los planteles y extensiones del Colegio.
+La Dirección Académica en coordinación con el Departamento de Control Escolar, verificará la aplicación y operación del presente reglamento en los Planteles y Extensiones del Colegio.
 
 ###### ARTÍCULO 7.
 
@@ -69,15 +73,23 @@ IEEPO: Al Instituto Estatal de Educación Pública de Oaxaca.
 
 COLEGIO: Al Colegio de Bachilleres del Estado de Oaxaca.
 
-ASPIRANTE: Se considera a quien sin estar inscrito, pretenda formar parte de la matrícula del Colegio.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ASPIRANTE: Se considera a quien sin estar inscrito, pretenda formar parte como estudiante del Colegio.
 
 ESTUDIANTE: Persona que haya cumplido con los requisitos de admisión, inscripción o reinscripción, exigidos por el Colegio.
 
-CICLO ESCOLAR: Periodo semestral en el que el estudiante cursa sus estudios.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
-INSCRIPCIÓN: Proceso administrativo, mediante el cual el aspirante cumple con todos los requisitos de la convocatoria, para que legalmente quede registrado como estudiante.
+CICLO ESCOLAR: Período semestral en que el estudiante cursa las Unidades de Aprendizaje Curricular de acuerdo al plan de estudios vigente.
 
-REINSCRIPCIÓN: Proceso administrativo, mediante el cual el estudiante cubre el pago por servicios educativos y liberación de no adeudo correspondiente, para asegurar su permanencia en el ciclo escolar respectivo.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+INSCRIPCIÓN: Proceso administrativo, mediante el cual el aspirante cumple con todos los requisitos de la convocatoria, así como lo establecido en el Capítulo III del presente reglamento, para que legalmente esté registrado como estudiante.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+REINSCRIPCIÓN: Proceso administrativo, mediante el cual el estudiante cubre el pago por los servicios educativos, cuenta con la liberación de no adeudo correspondiente, además de todos los requisitos contemplados en el Capítulo III del presente reglamento para continuar gozando del servicio educativo en el ciclo escolar respectivo.
 
 UAC (1): Unidad de Aprendizaje Curricular. En la unidad administrativa o institución educativa y en sus planteles, se entenderá por Unidad de Aprendizaje Curricular las asignaturas y/o módulos que integran las estructuras curriculares vigentes.
 
@@ -97,21 +109,35 @@ RGEI: Registro General de Estudiantes Inscritos, procedimiento que se realiza du
 
 TRÁNSITO DE ESTUDIANTES: Proceso administrativo que permite la movilidad de estudiantes entre los subsistemas, planteles o modalidades de educación media superior. En este proceso, las unidades administrativas e instituciones educativas reconocen la portabilidad de los estudios realizados por el estudiante.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+TUTOR: Persona que por Ley es responsable de cuidar al menor, procurar su educación y su formación integral.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 8.
 
-El titular de la Dirección Académica, el Director del Plantel y/o Subdirector de Extensión son los responsables de capacitar al personal en la interpretación de estas normas, así como verificar su cumplimiento.
+El titular de la Dirección Académica, del Departamento de Control Escolar, el Director del Plantel y/o Subdirector de Extensión son los responsables de capacitar al personal en la interpretación de estas normas, asesorar permanentemente a los involucrados en los procesos administrativos, así como verificar su cumplimiento y el del (sic) supervisar el uso de los formatos oficiales y de apoyo.
 
 ###### ARTÍCULO 9.
 
 Es responsabilidad del Director de Plantel, Subdirector de Extensión y del responsable de la URCE, la aplicación de las normas, la emisión de información y expedición de la documentación respectiva al departamento de Control Escolar.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 10.
 
-Es competencia de la URCE de cada centro educativo efectuar la entrega en tiempo y forma de la documentación que ampare a los procesos de inscripción, portabilidad de estudios, reinscripción, acreditación y certificación; según lo establezca el calendario que emita el área de Servicios Académicos.
+El Director del Plantel o el Subdirector de Extensión en coordinación con el encargado de la URCE, deberán entregar en tiempo y forma al Departamento de Control Escolar la documentación que ampare los procesos de inscripción, portabilidad de estudios y reinscripción, así mismo, el Director y Subdirector Académico de Plantel o el Subdirector de Extensión, son responsables de coordinar se expidan en tiempo y forma los documentos de acreditación y certificación.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 10 BIS.- El Director y Subdirectores de Plantel, así como el Subdirector de Extensión, vigilarán que se cumpla el pleno Derecho a la Educación, así como la efectiva igualdad en oportunidades de acceso y permanencia del estudiante a los servicios educativos.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 11.
 
-El Director del plantel y Subdirector de Extensión deben fomentar el uso correcto y racionalizado de los formatos oficiales y responder de su uso ante las instancias correspondientes.
+El Director del plantel y Subdirector de Extensión y el encargado de la URCE, deben fomentar el uso correcto y racionalizado de los formatos oficiales y responder de su uso ante las instancias correspondientes.
 
 ###### ARTÍCULO 12.
 
@@ -121,11 +147,17 @@ El Director del plantel y Subdirector Académico y de Extensión en coordinació
 
 Los formatos oficiales de certificación de estudios son:
 
-I. Documento de certificación parcial de estudios.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-II. Documento de certificación de terminación de estudios.
+I. Certificado parcial de estudios.
 
-III. Diploma de Componente de Formación para el Trabajo.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+II. Certificado de terminación de estudios.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+III. Diploma de Constancia que respalde la competencia adquirida por el estudiante en el Componente de Formación para el Trabajo.
 
 ###### ARTÍCULO 14.
 
@@ -133,11 +165,15 @@ Los formatos de apoyo al proceso de control escolar son los siguientes:
 
 I. Ficha de examen de admisión.
 
-II. Reporte General de Estudiantes Inscritos.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+II. Reporte General de Estudiantes Inscritos y Reinscritos.
 
 III. Credencial de estudiante.
 
-IV. Actas de evaluación.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+IV. Actas de evaluación y listas de seguimiento en los Componentes de Formación para el Trabajo.
 
 V. Historial académico.
 
@@ -177,25 +213,9 @@ g) Institución superior a ingresar (como parte del programa de Seguimiento de E
 
 h) Nombre y firma de quien recibe el certificado.
 
-XI. Libro de control de folios de constancia de competencias.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-a) Nombre y fotografía del estudiante.
-
-b) Matrícula o número de control.
-
-c) Número de folio.
-
-d) Promedio.
-
-e) Domicilio actual.
-
-f) Carrera a cursar.
-
-g) Institución Superior a ingresar.
-
-h) Nombre y firma de quien recibe la constancia.
-
-i) Competencias adquiridas (de acuerdo al submódulo del Componente de Formación para el Trabajo elegido).
+XI. Libro de control de folios de diplomas o constancia de competencias.
 
 XII. Libro de control de folios para dictámenes de equivalencia de estudios:
 
@@ -215,43 +235,61 @@ f) Nombre y firma de quien recibe el dictamen.
 
 El responsable de la URCE deberá archivar copia del certificado parcial y de terminación de estudios en el expediente del estudiante y para el trámite de equivalencia de estudios archivará el dictamen original.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 16.
 
-Es responsabilidad del Director del Plantel, Subdirector de Extensión y Subdirector Académico, así como del responsable de la URCE, brindar todas las facilidades para que la Dirección General y Académica, efectúen las supervisiones para verificar la correcta aplicación de las presentes normas y la utilización de los formatos de apoyo para el proceso de control escolar.
+Es responsabilidad del Director del Plantel, Subdirector de Extensión y Subdirector Académico, así como del responsable de la URCE, brindar todas las facilidades para que la Dirección General y Académica, a través de las áreas que designen, efectúen las supervisiones para verificar la correcta aplicación de las presentes normas y la utilización de los formatos de apoyo para el proceso de control escolar.
 
 ###### ARTÍCULO 17.
 
 El Director del Plantel y el Subdirector de Extensión deberán garantizar la existencia de un área que reúna las condiciones de seguridad para el resguardo de los documentos oficiales de los estudiantes, a fin de evitar su extravío o sustracción que implique un mal uso.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 18.
 
-Para realizar cualquier trámite escolar en el Colegio, el estudiante debe ser acompañado por su tutor previa identificación, cuyas firmas se deben plasmar en la documentación correspondiente.
+Para realizar cualquier trámite escolar en el Colegio, el estudiante debe estar acompañado por su padre o tutor debidamente identificado, cuyas firmas se deben plasmar en la documentación correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 19.
 
-El estudiante cuenta con tres meses como plazo máximo para entregar el original del Certificado de Secundaria, a partir del inicio del ciclo escolar.
+El estudiante cuenta con tres meses como plazo máximo para entregar el original del Certificado de Secundaria, a partir del inicio del ciclo escolar, considerándose suficientes los períodos oficiales de regularización de educación secundaria en los meses de agosto y septiembre.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 20.
 
-Los egresados de secundaria en condiciones irregulares que no cumplan con lo establecido en el artículo anterior tendrán acceso a los servicios educativos del Colegio, en las inscripciones subsecuentes.
+Los egresados de secundaria en condiciones irregulares que no cumplan con lo establecido en el artículo anterior tendrán acceso a los servicios educativos del Colegio, en las inscripciones subsecuentes, debiendo cubrir el proceso y requisitos de admisión correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
-El Colegio por ningún motivo aceptará estudiantes en calidad de oyentes.
+El Colegio por ningún motivo aceptará estudiantes en calidad de oyentes; quien infrinja esta disposición será acreedor a la sanción que determine el Reglamento aplicable.
 
 ###### ARTÍCULO 22.
 
 El Director del Plantel solicitará por escrito a la Dirección Académica autorización para recibir estudiantes extranjeros por intercambio cultural.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 23.
 
-El Director del Plantel y Subdirector de Extensión en coordinación con el responsable de la URCE, deberán entregar obligatoriamente al Departamento de Control Escolar de la Dirección Académica, los formatos RGEI, DEPES 1 y 2 y Reporte de Bajas correctamente requisitados, impresos y en medio magnético, dentro de los 30 días posteriores a la fecha de inicio de semestre. Después de esta fecha no se autorizará ninguna incorporación.
+El Director del Plantel y Subdirector de Extensión en coordinación con el responsable de la URCE, deberán entregar obligatoriamente al Departamento de Control Escolar de la Dirección Académica, los formatos RGEI, DEPES 1 y 2 y Reporte de Bajas correctamente requisitados e impresos, además de enviarlos por medio electrónico o en respaldo magnético, dentro de los 20 días posteriores a la fecha de inicio de cada semestre; después de esta fecha no se autorizará ninguna incorporación.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 23 BIS.- Los estudiantes contarán con un docente que fungirá como Asesor Grupal, que los acompañará durante sus etapas de formación académica.
 
 ### CAPÍTULO II. PLAN DE ESTUDIOS
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 24.
 
-El Plan de Estudios que se imparte en el Colegio corresponde al de Bachillerato General establecido por la Dirección General del Bachillerato, está estructurado para cursarse en seis semestres como mínimo, aunque el tiempo para cubrirlo puede variar de acuerdo con las necesidades e intereses del alumno, quedando determinado un tiempo de diez semestres como máximo.
+El Plan de Estudios que se imparte en el Colegio corresponde al de Bachillerato General establecido por la Dirección General del Bachillerato; está estructurado para cursarse en seis semestres como mínimo y en un período máximo de diez, de acuerdo con las necesidades, aprovechamiento e intereses del alumno.
 
 ###### ARTÍCULO 25.
 
@@ -265,15 +303,29 @@ El Mapa Curricular agrupa las UAC y submódulos de los componentes de formación
 
 Cada estudiante previa orientación vocacional debe elegir para cursar a partir del tercer semestre una Capacitación del Componente de Formación para el Trabajo de acuerdo a la oferta del plantel o extensión, asimismo en quinto semestre debe elegir un área del Componente de Formación Propedéutica para cursarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
-El estudiante podrá solicitar cambio de capacitación para el trabajo dentro de los primeros 30 días hábiles de haber iniciado el tercer semestre, cumpliendo con lo siguiente:
+El estudiante únicamente podrá solicitar el cambio de Componente de Formación para el Trabajo dentro de los primeros 30 días hábiles de haber iniciado el tercer semestre, cumpliendo con lo siguiente:
 
-I. Dirigir un escrito al director del plantel, argumentando los motivos que justifiquen su petición, con el visto bueno del orientador educativo.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-II. El Director del Plantel y Subdirector de Extensión debe solicitar por escrito la autorización del cambio de capacitación para el trabajo a la Dirección Académica.
+I. Dirigir un escrito al Director del Plantel, argumentando los motivos que justifiquen su petición con el visto bueno del orientador educativo, así como del padre o tutor del estudiante.
 
-III. En casos de cambios de residencia y que el plantel no cuente con la capacitación que cursa el estudiante en el plantel de origen la Dirección Académica dictaminará lo procedente.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+II. El Director del Plantel y Subdirector de Extensión debe solicitar por escrito la autorización del cambio de Componente de Formación para el Trabajo a la Dirección Académica.
+
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+En caso de que el estudiante cambie de residencia y que el plantel al que ingrese no cuente con el Componente de Formación para el Trabajo que cursa en el Plantel de origen, la Dirección Académica previamente dictaminará lo procedente.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+Por ningún motivo podrá cambiarse a un estudiante de Componente de Formación para el Trabajo sin la previa autorización de la Dirección Académica; quien infrinja esta disposición será acreedor a la sanción que determine la disposición legal aplicable.
 
 ###### ARTÍCULO 29.
 
@@ -307,45 +359,83 @@ Las actividades paraescolares son el conjunto de acciones transversales a las ac
 
 La evaluación de las actividades paraescolares será de tipo formativa, se valorará la participación del estudiante en estas actividades; por lo que el instructor entregará la lista de asistencia y calificaciones de manera mensual a la URCE del plantel, registrando Acreditado (A) o No Acreditado (NA).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 36.
 
-Los estudiantes que deseen cambiar de paraescolar, deberán cumplir con los siguientes requisitos:
+Los estudiantes que deseen cambiar de actividad paraescolar, deberán cumplir con los siguientes requisitos:
 
 I. Dirigir un escrito al Director del Plantel y/o Subdirector de Extensión, antes del inicio del semestre, argumentando los motivos que justifiquen su petición.
 
 II. Que exista cupo y que el horario no interfiera con su asistencia a clases curriculares.
 
-III. En caso de que adeude la actividad paraescolar, el estudiante debe regularizarse (mediante actividades de tequio, servicio social, etc.) para que proceda su cambio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
 
-IV. El Director del Plantel es el responsable de autorizar dicho cambio.
+III. No adecuar la actividad paraescolar de origen, pues en su caso, el estudiante debe regularizarse mediante un proyecto de desarrollo humano autorizado por el Director de Plantel o Subdirector de Extensión, el cual debe registrarse ante la Coordinación de Desarrollo Humano.
+
+IV. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+El Director del Plantel o Subdirector de Extensión es el responsable de autorizar dicho cambio.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 36 BIS.- El no acreditar la actividad paraescolar, será motivo para no expedir al estudiante su carta de buena conducta.
 
 ### CAPÍTULO III. DE LA INSCRIPCIÓN Y REINSCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 37.
 
-La inscripción del aspirante a primer semestre queda sujeta a la aprobación del examen de admisión, a la oferta de matrícula disponible y al turno que se determine en el plantel.
+La inscripción del aspirante a primer semestre queda sujeta a la aprobación del examen de admisión, al cupo y turno con el que se cuente en el plantel.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 37 BIS.- Todos los egresados de Secundaria, tienen derecho a participar en el proceso de selección y admisión del Colegio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 38.
 
-Los requisitos para el Proceso de admisión son los siguientes:
+Para ser aceptado como estudiante del Colegio, el aspirante debe cumplir con los siguientes requisitos de admisión:
 
-I. Para ser aceptado como estudiante del Colegio, el aspirante debe participar en el proceso de admisión de acuerdo a las normas establecidas en la convocatoria que se emite para tal fin.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-II. Es obligatorio cumplir íntegramente con los requisitos señalados en la convocatoria.
+I. Participar en el proceso de admisión de acuerdo a las normas establecidas en la convocatoria que se emite para tal fin.
 
-III. Todos los egresados del Nivel Medio Básico, tienen derecho a participar en el proceso de selección.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-IV. El Colegio tiene establecidas cuotas de admisión, inscripción, equivalencia de estudios, reinscripción, evaluaciones y otros servicios educativos que se ofrecen a los estudiantes, las que se fundamentan en la Ley Estatal de Ingresos.
+II. Cumplir íntegramente con los requisitos señalados en la convocatoria.
 
-V. El aspirante debe presentar el examen de admisión, el cual consiste en una prueba escrita con los conocimientos básicos que este nivel exige.
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
-VI. La relación de aspirantes seleccionados, se dará a conocer públicamente en cada plantel.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-VII. Los aspirantes aceptados como estudiantes del Colegio, observarán el estricto cumplimiento del presente reglamento.
+IV. Cubrir la cuota que el Colegio tiene establecida por concepto de admisión, equivalencia de estudios, evaluaciones y otros servicios educativos que se ofrecen a los estudiantes, de acuerdo a la Ley Estatal de Ingresos vigente.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+V. Presentar y aprobar el examen de admisión, el cual consiste en una prueba escrita con los conocimientos básicos que este nivel exige.
+
+VI. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
+
+VII. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
 VIII. Los aspirantes aceptados deben asistir obligatoriamente al Curso Propedéutico impartido por el Colegio.
 
-IX. La integración de los grupos queda sujeta a la matrícula autorizada para cada Plantel y/o Extensión, por la Dirección General del Bachillerato y la Dirección General del Colegio. Los grupos no deben exceder de 50 estudiantes.
+IX. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 38 BIS.- La relación de aspirantes seleccionados, se dará a conocer públicamente en cada plantel.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 38 BIS A.- La integración de los grupos queda sujeta al cupo autorizado por la Dirección General del Colegio; para cada Plantel y/o Extensión del Colegio, los grupos no deben exceder de 50 estudiantes.
 
 ###### ARTÍCULO 39.
 
@@ -361,9 +451,13 @@ III. Ser egresados de escuelas secundarias ubicadas en lugares donde no existan 
 
 Los responsables de las Unidades de Registro y Control Escolar del Plantel y/o Extensión deben revisar y cotejar la documentación oficial presentada por el aspirante o estudiante cada vez que efectúe algún trámite
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 41.
 
-Cuando se tenga duda respecto a la validez de los documentos presentados, la Dirección Académica verificará su autenticidad con la institución o autoridad competente. De comprobarse que la documentación carece de validez oficial, no se autorizará el trámite y se dará parte a las autoridades correspondientes para los efectos legales procedentes y en su caso, se anularán las calificaciones obtenidas por el estudiante durante su estancia en el plantel.
+Cuando se tenga duda respecto a la validez de los documentos presentados, la Dirección Académica verificará su autenticidad con la institución o autoridad competente. De comprobarse que la documentación carece de validez oficial o en caso de detectarse la falsificación o uso indebido de los mismos por parte de los aspirantes o estudiantes, no se autorizará el trámite y se dará parte a las autoridades competentes, para que ejerciten las acciones correspondientes y, en su caso, se anularán las calificaciones obtenidas por el estudiante durante su estancia en el plantel, cancelándose todo trámite realizado en el Colegio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 42.
 
@@ -381,11 +475,23 @@ V. Seis fotografías recientes tamaño infantil, de frente, en blanco y negro, c
 
 VI. Certificado médico especificando su tipo sanguíneo, si padece alergias, enfermedades crónicas, etc.
 
-VII. Resolución de Revalidación de estudios, si cursó la educación secundaria en el extranjero, expedida por el IEEPO. Para la inscripción de los aspirantes, se efectuará una revisión minuciosa de los documentos que acrediten su identidad, acta de nacimiento apostillada, documento migratorio para el caso de estudiante extranjero, que acredite su estancia legal en el país.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-VIII. El formato para pago de cuotas por servicios educativos se generará vía internet, a través de la página oficial del Colegio.
+VII. Resolución de Revalidación de estudios expedida por el I.E.E.P.O., si cursó la educación Secundaria en el extranjero. Para la inscripción de los aspirantes, se efectuará una revisión minuciosa de los documentos que acrediten su identidad, acta de nacimiento apostillada, documento migratorio para el caso de estudiante extranjero, que acredite su estancia legal en el país.
 
-IX. Se podrá consultar vía Internet a través de la página oficial del Colegio, las cuotas vigentes para el pago de los servicios educativos.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+VIII. Comprobantes de pago de cuotas vigentes por servicios educativos cuyo formato se generará vía internet, a través de la página oficial del Colegio.
+
+IX. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+X. Solicitud de inscripción debidamente requisita (sic) y firmada por el estudiante y su tutor.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+XI. Formato a través del cual al aspirante y a su tutor se les da a conocer el Reglamento Disciplinario para Unidades Educativas del Colegio y el Reglamento de Control Escolar.
 
 ###### ARTÍCULO 43.
 
@@ -415,9 +521,11 @@ II. Una vez que el aspirante cumpla con los requisitos de inscripción, la Unida
 
 III. Una vez terminado el proceso de inscripción, el plantel turna los documentos de los estudiantes inscritos (en original y copia) a la Dirección Académica para su validación, conservando en el archivo del plantel las copias cotejadas de éstos.
 
-IV. Una vez validados los documentos oficiales, procede la devolución al plantel donde permanecerán en custodia (expedientes) durante la estancia del estudiante en el plantel.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-V. El estudiante debe inscribirse a todas las UAC del primer semestre.
+IV. Una vez validados los documentos oficiales, estos son remitidos al Plantel o Extensión para entregarlos al estudiante, previas copias debidamente cotejadas que se agreguen al expediente personal del estudiante.
+
+V. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 46.
 
@@ -433,9 +541,11 @@ Para el proceso de reinscripción en cada ciclo escolar el estudiante debe cumpl
 
 I. Llenar el formulario de reporte de reinscripción.
 
-II. Cubrir el pago por este concepto, para el semestre autorizado.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-III. Cubrir el pago de derechos para aplicación de la 2a evaluación extraordinaria y especial, según su caso.
+II. Cubrir el pago por este concepto, para el semestre autorizado, de acuerdo a la Ley Estatal de Ingresos vigente.
+
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
 IV. Resellar su credencial.
 
@@ -465,11 +575,17 @@ El estudiante tendrá derecho a su reinscripción en el semestre superior en los
 
 I. Ser regular. - Cuando tiene aprobadas el 100% de las UAC.
 
-II. Ser irregular.- Cuando adeuda dos UAC del semestre recién cursado, obligándose a presentarlas en el próximo periodo de la 2a. evaluación extraordinaria.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+II. Ser irregular.- Cuando adeuda dos UAC del semestre recién cursado, obligándose a presentarlas en un período inmediato de la 2ª. evaluación extraordinaria y en su caso en el período inmediato de la evaluación especial.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+En caso de que el estudiante irregular no acredite alguna UAC adeudada en la evaluación especial del período inmediato, se le tendrá por no acreditado el semestre recién cursado, el cual deberá recursar en el ciclo correspondiente quedando sin efecto la reinscripción del semestre en el que se encuentre, sin responsabilidad para el Colegio.
 
 ###### ARTÍCULO 54.
 
-Se entenderá que renuncian a su derecho de reinscripción, los estudiantes que no efectúen íntegramente los trámites en los periodos oficiales establecidos.
+(DEROGADO, P.O. 7 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 55.
 
@@ -481,21 +597,35 @@ II. Al reprobar tres UAC, después de haber presentado el primer examen extraord
 
 III. Al reprobar una o dos UAC, después de haber presentado el examen especial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 56.
 
-En los tres casos anteriores el estudiante recursará en su totalidad el semestre en el ciclo escolar que le corresponda, no rebasando el tiempo oficial para culminar su bachillerato y que el plantel cuente con las condiciones de cupo; en caso contrario procederá su baja temporal o cambio de adscripción.
+En los casos anteriores el estudiante cursará nuevamente en su totalidad el semestre no acreditado en el ciclo escolar que le corresponda, no rebasando el tiempo oficial para culminar su Bachillerato y que el Plantel o Extensión cuente con las condiciones de cupo; en caso contrario procederá su baja temporal o el cambio de Plantel o Extensión.
 
-En el caso de recursar un semestre y al término el estudiante adeuda un máximo de tres UAC, tendrá las siguientes opciones para regularizarse:
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
-I. Presentar dos UAC en el primer periodo de evaluación extraordinaria obligándose a acreditar al menos una asignatura.
+En el caso de cursar nuevamente el semestre y que al término del mismo, el estudiante adeude un máximo de tres UAC, tendrá las siguientes opciones para regularizarse:
 
-II. Presentar en la segunda evaluación extraordinaria un máximo de dos UAC.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-III. Presentar en evaluación especial una o dos UAC.
+I. Presentar dos UAC en el período inmediato de la primera evaluación extraordinaria, obligándose a acreditar al menos una UAC.
 
-Una vez agotadas las tres opciones, si el estudiante aún adeuda alguna asignatura causará baja definitiva por insolvencia académica al término del semestre.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-Condiciones para recursar por una sola ocasión:
+II. Presentar un máximo de dos UAC, en el período inmediato de la segunda evaluación extraordinaria.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+III. Presentar en el período inmediato de la evaluación especial una o dos UAC.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+Una vez agotadas las tres opciones, si el estudiante aún adeuda alguna UAC causará baja definitiva por insolvencia académica al término del semestre.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
+
+Condiciones para recursar por una sola ocasión un mismo semestre:
 
 I. Solicitud del estudiante interesado.
 
@@ -505,23 +635,29 @@ III. Que el plantel cuente con las condiciones de cupo para ello. En caso necesa
 
 ###### ARTÍCULO 57.
 
-En caso de detectar falsificación o uso indebido en la documentación oficial presentada por los aspirantes, se deberá verificar su autenticidad ante la institución educativa emisora y se anulará todo trámite dando parte a las autoridades administrativas y jurídicas para que ejerciten las acciones a que haya lugar.
+(DEROGADO, P.O. 7 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 58.
 
-Si se descubre un documento apócrifo con posterioridad al primer semestre y no se produce una aclaración satisfactoria, se procederá legalmente y se anularán las calificaciones obtenidas. El área de Control Escolar dará el seguimiento ante las instancias correspondientes.
+(DEROGADO, P.O. 7 DE ABRIL DE 2012)
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 59.
 
-La reinscripción del estudiante queda sin efecto cuando éste solicite por escrito con el visto bueno del tutor, a la Dirección del Plantel la baja temporal, la cual no deberá exceder al tiempo establecido para ello, ni al plazo máximo para concluir el bachillerato.
+La reinscripción del estudiante queda sin efecto cuando éste solicite por escrito con el visto bueno del padre o tutor, a la Dirección del Plantel la baja temporal, la cual no deberá exceder al tiempo establecido para ello, ni al plazo máximo para concluir el Bachillerato.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 60.
 
-La baja temporal será aplicable en forma obligatoria al estudiante que después de la aplicación de la 1ª Evaluación Extraordinaria adeude tres UAC del semestre, recién cursado.
+La baja temporal será aplicable en forma obligatoria al estudiante que después de la aplicación de la primera evaluación extraordinaria adeude tres UAC del semestre recién cursado o adeude una UAC después de la aplicación de la evaluación especial.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 61.
 
-La baja temporal se concederá al estudiante hasta por dos ciclos escolares, no excediendo el tiempo máximo para cumplir el bachillerato.
+La baja temporal se concederá al estudiante hasta por dos semestres consecutivos, no debiendo exceder el tiempo máximo para concluir el Bachillerato.
 
 ###### ARTÍCULO 62.
 
@@ -531,13 +667,19 @@ El estudiante podrá tramitar baja temporal dentro de los primeros treinta días
 
 Se valorará la reinscripción o la baja temporal del estudiante que tenga en su expediente reportes de indisciplina graves o reincidencias.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 64.
 
-El estudiante que tenga más de un año en baja temporal siempre que no rebase el tiempo máximo para concluir su bachillerato, y desee reingresar al Colegio, solicitará por escrito un análisis de su situación a la Dirección Académica, misma que determinará la autorización correspondiente.
+El estudiante que tenga más de dos semestres en baja temporal, siempre que no rebase el tiempo máximo para concluir su Bachillerato, y desee reingresar al Colegio, solicitará por escrito un análisis de su situación a la Dirección Académica, que determinará lo correspondiente dentro del plazo de tres días hábiles.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 65.
 
-Previo análisis y autorización de la Dirección Académica, el estudiante podrá regularizarse durante el periodo de baja temporal, es decir, si adeuda UAC de un semestre anterior al recién cursado, a través de la aplicación de exámenes extraordinarios y/o especiales.
+El estudiante que haya solicitado o se encuentre de baja temporal y adeude de una a tres UAC del semestre recién cursado, se encuentra obligado a regularizar su situación académica durante el período de su baja, solicitando la aplicación de exámenes extraordinarios y/o especiales, previo análisis y autorización de la Dirección Académica.
+
+En caso de que el estudiante durante ese período no acredite las UAC adeudadas, estará obligado a recursar el último semestre cursado, en el ciclo escolar correspondiente.
 
 ###### ARTÍCULO 66.
 
@@ -547,45 +689,49 @@ Los estudiantes que suspendan sus estudios sin causa justificada por un semestre
 
 El estudiante tendrá derecho a solicitar baja temporal al Director del Plantel ó Subdirector de extensión, cuando por enfermedad, beca de estudios u otros motivos justificados, así lo requiera. La autorización de la baja temporal deberá ser notificada por oficio al Departamento de Control Escolar de la Dirección Académica, a fin de no cancelar su registro escolar.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 68.
 
-La baja definitiva de algún estudiante consiste en la suspensión de las actividades académicas, la cual deberá ser notificada mediante oficio por la Dirección del Plantel o Subdirección de Extensión en los siguientes casos:
+La baja definitiva del estudiante consiste en la suspensión de las actividades académicas, la cual puede darse por las siguientes causas:
 
-I. A petición del interesado.
+I. Por solicitarlo el estudiante con el visto bueno del padre o tutor.
 
-II. Cuando el estudiante incurra en violaciones a los reglamentos vigentes.
+II. Cuando el estudiante incurra en violaciones graves a los reglamentos vigentes del Colegio.
 
 III. Por insolvencia académica.
 
-IV. Por haber agotado el número máximo de semestres señalados en el artículo 23° del presente reglamento.
+IV. Cuando no registre reinscripción por dos semestres consecutivos y no haya tramitado la baja temporal.
+
+V. Por haberse agotado el tiempo máximo de estancia en la modalidad escolarizada de acuerdo al artículo 24 del presente reglamento.
+
+En todos los casos titular del Centro Educativo por escrito debe notificar la baja definitiva a los padres o tutor del estudiante.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 69.
 
-Para efectos del artículo anterior, en su fracción III se entenderá por insolvencia académica, cuando el estudiante haya agotado todas las posibilidades para acreditar una o más UAC hasta por dos ocasiones y no lo haya logrado, dando motivo a la baja definitiva.
+Para efectos del artículo anterior, en su fracción III se entenderá por insolvencia académica, cuando el estudiante haya agotado todas las posibilidades para acreditar un mismo semestre hasta por dos ocasiones sin lograrlo, dando motivo a la baja definitiva.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 70.
 
-Todo estudiante que solicite baja definitiva deberá comprobar en el Plantel o Extensión de adscripción que no tiene adeudos, requisitando el formato respectivo, o de lo contrario no procederá la entrega de su documentación.
+Todo estudiante que solicite baja definitiva deberá comprobar en el Plantel o Extensión de adscripción que no tiene adeudos, requisitando el formato respectivo, o de lo contrario no procederá la entrega de los documentos oficiales que otorga el Colegio.
 
 ###### ARTÍCULO 71.
 
-La baja definitiva en el plantel puede darse por las siguientes causas y en todos los casos el titular del centro educativo debe notificarlo al estudiante por escrito:
-
-I. Por solicitud del estudiante, padre o tutor legal.
-
-II. Como medida disciplinaria del plantel.
-
-III. Cuando no registre reinscripción por dos semestres consecutivos y no haya tramitado la baja temporal.
-
-IV. Por no acreditar el número de UAC establecido para la reinscripción y además exceda el tiempo máximo de estancia en la modalidad escolarizada de acuerdo al Artículo 24° del presente reglamento.
+(DEROGADO, P.O. 7 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 72.
 
 El estudiante que haya cursado parcialmente planes de estudio anteriores y/o que fueron actualizados y desee incorporarse a los vigentes del bachillerato general, puede ser aceptado y se sujetará a las normas de reinscripción, incluida la portabilidad de estudios.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 73.
 
-A partir de su inscripción a primer semestre, el estudiante tendrá como máximo diez semestres para concluir su Bachillerato, transcurrido el plazo será dado inmediatamente de baja definitiva del Colegio.
+A partir de su inscripción a primer semestre, el estudiante tendrá como máximo diez semestres para concluir su Bachillerato, transcurrido este plazo será inmediatamente dado de baja definitiva del Colegio; los semestres en los que no se haya reinscrito el estudiante o durante los cuales estuvo de baja temporal, serán contabilizados dentro del plazo máximo de diez semestres.
 
 ###### ARTÍCULO 74.
 
@@ -679,13 +825,25 @@ Para acreditar un submódulo del Componente de Formación para el Trabajo, el es
 
 I. Cumplir con un 80% de asistencias, para tener derecho a acreditar en curso normal.
 
-II. Cumplir con los criterios de evaluación continua, establecidos por el docente e integrar el portafolio de evidencias.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-III. El docente registrará en una lista de seguimiento el avance mensual del desempeño alcanzado por el estudiante.
+II. Cumplir con los criterios de evaluación continua, establecidos por el docente.
 
-De acuerdo a la apreciación de la lista de seguimiento y a los resultados de los instrumentos de evaluación utilizados, el docente emitirá una calificación final en apego a lo siguiente:
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
-ESCALA DE CALIFICACIONES (5)
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+IV. Presentar cada una de las evaluaciones.
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+V. Obtener una calificación mínima de seis (6).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
+
+De acuerdo a la apreciación de la lista de seguimiento y a los resultados de los instrumentos de evaluación utilizados, el docente al finalizar el submódulo emitirá una calificación final en apego a la siguiente:
+
+ESCALA DE CALIFICACIONES
 
 CALIFICACIÓN INTERPRETACIÓN
 
@@ -701,39 +859,51 @@ CALIFICACIÓN INTERPRETACIÓN
 
 5 No suficiente
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+Para que el estudiante obtenga su Diploma que lo acredite como competente en el Componente de Formación para el Trabajo cursado, deberá obtener de acuerdo a la tabla de ponderación correspondiente, un promedio final de ocho (8), al concluir los módulos y el estudiante cuyo promedio final sea de seis (6) o siete (7), obtendrá únicamente la constancia por haber cursado los módulos del Componente de Formación para el Trabajo elegido.
+
 ###### ARTÍCULO 89.
 
 Las evaluaciones ordinarias, extraordinarias y especiales comprenderán el 100% del contenido del programa de estudios y se aplicarán de acuerdo al calendario escolar.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 90.
 
-La escala de calificaciones que se utilizará para los resultados de las cuatro evaluaciones parciales y las dos evaluaciones ordinarias será de 5 a 10, con un decimal (sin redondear), siendo 6.0 (seis) la calificación mínima aprobatoria.
+La escala de calificaciones que se utilizará para los resultados de las cuatro evaluaciones parciales y las dos evaluaciones ordinarias será de 0 a 10, con un decimal (sin redondear), siendo 6.0 (seis) la calificación mínima aprobatoria.
 
-La calificación Final de cada UAC se expresará con números enteros, de acuerdo con la siguiente tabla (6):
+La calificación final de cada UAC se expresará con números enteros, de acuerdo con la siguiente tabla que indica su interpretación:
 
-CALIFICACIÓN DEBE
+CALIFICACIÓN DEBE INTERPRETACIÓN
 
 OBTENIDA REGISTRARSE
 
-De 9.5 a 10 10
+De 9.5 a 10 10 Excelente
 
-De 8.5 a 9.4 9
+De 8.5 a 9.4 9 Muy bien
 
-De 7.5 a 8.4 8
+De 7.5 a 8.4 8 Bien
 
-De 6.5 a 7.4 7
+De 6.5 a 7.4 7 Regular
 
-De 6.0 a 6.4 6
+De 6.0 a 6.4 6 Suficiente
 
-De 0.0 a 5.9 5
+De 0.0 a 5.9 5 No suficiente
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 91.
 
-Las calificaciones finales, se registrarán en el acta respectiva, la cual debe contener la firma del responsable de la URCE, docente y director, así como el sello del plantel correspondiente:
+Las calificaciones finales, se registrarán en el acta respectiva, la cual debe contener la firma del responsable de la URCE, docente y Director de Plantel o Subdirector de Extensión, así como el sello oficial de la Unidad Educativa, debiéndose seguir el procedimiento siguiente:
 
-I. El personal de la Unidad de Registro y Control Escolar del Plantel o Extensión, entregará a cada docente al inicio de semestre los formatos de: “Lista de Asistencia y Evaluación” y “Acta de Evaluación Final” por grupo, asignatura, número progresivo, nombre del estudiante en orden alfabético y número de control.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
 
-II. El docente registrará la calificación obtenida por cada estudiante en el formato “Lista de Asistencia y Evaluación” procediendo a entregarla en la URCE en donde se sellará con cinta adhesiva.
+I. El personal de la Unidad de Registro y Control Escolar del Plantel o Extensión, entregará a cada docente al inicio de semestre los formatos de: “Lista de Asistencia y Evaluación”, “Lista de Seguimiento” y “Acta de Evaluación Final” por grupo, asignatura, número progresivo, nombre del estudiante en orden alfabético y número de control.
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+II. El docente registrará la calificación obtenida por cada estudiante en el formato “Lista de Asistencia y Evaluación” procediendo a entregarla en la URCE en donde se sellará con cinta adhesiva transparente.
 
 III. El docente registrará según la evaluación correspondiente los avances académicos en el concentrado general.
 
@@ -763,25 +933,35 @@ La rectificación de calificaciones finales se hará en el acta correspondiente,
 
 El promedio de aprovechamiento de un estudiante se obtiene al sumar las calificaciones finales de todas las UAC acreditadas y dividir el resultado entre el número total de ellas. El promedio debe registrarse con un número entero y una cifra decimal, sin redondear (7).
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 94.
 
-El estudiante puede solicitar la renuncia a calificaciones finales aprobatorias a partir del tercer semestre o al concluir sus estudios de bachillerato, antes de la certificación de terminación de estudios, en una sola ocasión en cada UAC, siempre y cuando sea estudiante regular y se ajuste a los criterios establecidos en el art. 27. La renuncia a calificaciones es voluntaria e irrevocable, una vez cumplidos los requisitos siguientes (8):
+El estudiante puede solicitar la renuncia a calificaciones finales aprobatorias a partir del tercer semestre o al concluir sus estudios de Bachillerato siempre y cuando sea antes de la certificación de terminación de estudios, por una sola ocasión en cada UAC, debiendo ser un estudiante regular y se ajuste a los criterios establecidos en los artículos 27 y 28 del presente reglamento; la renuncia a calificaciones es voluntaria e irrevocable, una vez que se cumpla con los requisitos siguientes:
 
-I. En la renuncia, presentar por escrito la autorización del tutor.
+I. La renuncia deberá ser por escrito con la autorización del padre o tutor.
 
-II. Al concluir sus estudios de bachillerato y antes de la certificación de terminación de estudios presentar por escrito su petición con el visto bueno del tutor.
+II. Concluidos los estudios de Bachillerato y antes de la certificación de terminación de estudios, presentar por escrito la renuncia con el visto bueno del padre o tutor.
 
-III. Notificar por escrito a la Dirección Académica para validación.
+III. Notificar por escrito a la Dirección Académica para validar el trámite.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 95.
 
-En caso de ausencia injustificada del estudiante a una evaluación parcial u ordinaria deberá registrarse NP (no presentó) el cual tendrá un valor de 5 (9).
+En caso de ausencia injustificada del estudiante a una evaluación parcial u ordinaria deberá registrarse NP (No Presentó) en el acta de evaluación correspondiente, así como en el acta de evaluación final y en su caso deberá asentarse 5 (cinco), en el documento de certificación oficial.
 
-En caso de que el estudiante justifique su ausencia, previa valoración, el Director o Subdirector, resolverá lo pertinente.
+En caso de que el estudiante justifique su ausencia en una evaluación parcial, el Director o Subdirector Académico del Plantel o el Subdirector de Extensión previa valoración, resolverá lo pertinente, y en caso de que el estudiante justifique su ausencia a una evaluación ordinaria, la Dirección Académica resolverá lo pertinente una vez realizada la valoración correspondiente.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 96.
 
-En caso de que el estudiante no cumpla con el 80% de asistencia requerida para la acreditación de una asignatura deberá registrarse en el acta correspondiente SD (sin derecho), lo que equivale a una calificación definitiva de 5 (cinco) (10).
+En caso de que el estudiante no cumpla con el 80% de asistencia requerida para la acreditación de una asignatura deberá registrarse en el acta correspondiente SD (sin derecho), en el acta de evaluación correspondiente, así como en el acta de evaluación final y en su caso deberá asentarse 5 (cinco), en el documento de certificación oficial.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 96 BIS.- La URCE entregará al estudiante su boleta de calificaciones dentro de los quince días hábiles posteriores a la aplicación de las evaluaciones ordinarias.
 
 ### CAPÍTULO VI. DE LOS EXÁMENES EXTRAORDINARIOS Y ESPECIALES
 
@@ -789,45 +969,63 @@ En caso de que el estudiante no cumpla con el 80% de asistencia requerida para l
 
 Se considera periodo de regularización a la primera y segunda evaluación extraordinaria que se establece para su aplicación en el calendario oficial del Colegio.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 98.
 
-Es obligación del estudiante solicitar y presentar las evaluaciones extraordinarias en las fechas establecidas en el calendario escolar vigente, previo pago de derechos.
+Es obligación del estudiante solicitar y presentar las evaluaciones extraordinarias en el período inmediato al semestre recién cursado de acuerdo en las fechas establecidas en el calendario escolar vigente, previo pago de derechos.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 99.
 
-El estudiante que no acredite de una a tres UAC, tendrá derecho a solicitar como mínimo dos y máximo tres UAC durante las fechas establecidas para la primera evaluación extraordinaria, presentando automáticamente la (S) asignatura (S) restante (S) en la segunda evaluación extraordinaria, no excediendo dos.
+El estudiante que no acredite de una a tres UAC, deberá solicitar como mínimo dos y máximo tres UAC durante las fechas establecidas para la primera evaluación extraordinaria, presentando automáticamente la (S) asignatura (S) restante (S) en la segunda evaluación extraordinaria, no excediendo dos.
 
 ###### ARTÍCULO 100.
 
 El estudiante que no acredite la primera evaluación extraordinaria podrá, presentar, como máximo dos UAC en una segunda evaluación extraordinaria, que comprenderá el 100% del contenido del programa de estudios.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 101.
 
-Debe constar en el acta de evaluación de la primera evaluación extraordinaria, que el estudiante no aprobó las UAC solicitadas para tener derecho a la segunda evaluación extraordinaria.
+Debe constar en el acta de evaluación de la primera evaluación extraordinaria, que el estudiante no aprobó las UAC solicitadas para tener derecho a la segunda evaluación extraordinaria o en su caso deberá justificar ante la Dirección del Plantel o Subdirección de Extensión, el motivo por el cual no presentó la primera evaluación extraordinaria, esto por medio de escrito firmado por el estudiante y su padre o tutor.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 102.
 
-Debe constar en el acta de evaluación de la segunda evaluación extraordinaria, que el estudiante no aprobó las UAC solicitadas para tener derecho a la evaluación especial.
+Debe constar en el acta de evaluación de la segunda evaluación extraordinaria, que el estudiante no aprobó las UAC solicitadas para tener derecho a la evaluación especial o en su caso deberá justificar ante la Dirección del Plantel o Subdirección de Extensión, el motivo por el cual no presento la segunda evaluación extraordinaria, esto por medio de escrito firmado por el estudiante y su padre o tutor.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 103.
 
-El estudiante que esté cursando de segundo a sexto semestre tendrá derecho a solicitar un máximo de dos UAC para presentarlas en evaluación especial, siempre y cuando conste en el acta de la segunda evaluación extraordinaria que no las aprobó, debiendo cubrir el pago correspondiente.
+El estudiante tendrá derecho a solicitar un máximo de dos UAC para presentarlas en evaluación especial, previo el pago correspondiente.
 
 ###### ARTÍCULO 104.
 
 Para tener derecho a la evaluación especial, el estudiante debe observar buena conducta y adecuado aprovechamiento académico en el semestre que esté cursando.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 104 BIS.- El estudiante que no justifique la omisión de solicitar una evaluación extraordinaria o especial en la fecha que le corresponda, se le tendrá renunciando automáticamente a ese derecho.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 105.
 
-La solicitud del Examen Especial deberá realizarse por escrito firmado por el estudiante y sus padres o tutor, misma que será presentada a la Dirección del Plantel o Extensión y turnada a la Dirección Académica, anexando copia del historial académico, para su análisis y dictamen respectivo.
+La solicitud del Examen Especial deberá ser por escrito que estará firmado por el estudiante, así como por su padre o tutor, la cual será presentada a la Dirección del Plantel o Subdirección de Extención y turnada a la Dirección Académica con la copia del historial académico, para su análisis y dictamen respectivo.
 
 ###### ARTÍCULO 106.
 
 La Dirección Académica, señalará por escrito la autorización por una sola ocasión así como la fecha de su aplicación. Quedando a criterio del director del plantel la asignación del sinodal.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 107.
 
-Es obligatorio para el estudiante presentarse en la fecha señalada, portando el uniforme e identificarse con la credencial escolar vigente ante las autoridades que lo requieran.
+Es obligatorio para el estudiante presentarse en la fecha señalada para la aplicación de la evaluación extraordinaria o especial, portando el uniforme e identificarse con la credencial escolar vigente ante las autoridades que lo requieran.
 
 ###### ARTÍCULO 108.
 
@@ -869,17 +1067,23 @@ Cuando por error se registre una calificación distinta a la que fue asignada po
 
 Una vez expedido el certificado de terminación de estudios de Bachillerato, no procederá la rectificación de ninguna calificación.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 118.
 
-El estudiante que no presente la primera evaluación extraordinaria por alguna situación, siempre que exista justificación en un plazo no mayor a 5 días hábiles y acompañado de su tutor previa identificación se le podrá aplicar dicha evaluación en forma extemporánea.
+El estudiante que no presente alguna evaluación extraordinaria o especial, podrá justificar su inasistencia ante el Director del Plantel o Subdirector de Extensión dentro de los cinco días hábiles posteriores a la fecha de aplicación, presentado (sic) un escrito firmado por el estudiante y su padre o tutor, al que se deberá anexar la documentación correspondiente.
+
+El Director del Plantel o Subdirector de Extensión, son los responsables de decidir sobre la justificación presentada por los estudiantes y en su caso establecer la fecha en la que se aplicará en forma extemporánea la evaluación extraordinaria o especial, no excediendo de diez días posteriores a la fecha oficial de aplicación.
 
 ###### ARTÍCULO 119.
 
 El estudiante que como resultado de la primera evaluación extraordinaria, repruebe tres UAC recursará todas las asignaturas del mismo semestre en el ciclo lectivo correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 120.
 
-El estudiante que haya reprobado una o dos UAC como resultado de la evaluación especial, será automáticamente recursador del mismo semestre con todas las asignaturas.
+El estudiante que haya reprobado una o dos UAC, como resultado de la evaluación especial, será automáticamente recursador del mismo semestre con todas las UAC y se anulará el semestre que se encuentre cursando.
 
 ###### ARTÍCULO 121.
 
@@ -889,13 +1093,19 @@ En el caso de la evaluación extraordinaria y especial del Componente de Formaci
 
 ### CAPÍTULO VII. CAMBIOS DE PLANTEL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 122.
 
-El cambio de plantel sólo se realiza al inicio de cada periodo escolar, durante los periodos de reinscripción, y procede siempre y cuando no se rebase la capacidad de atención del plantel receptor (matrícula escolar autorizada y/o disponible), con la autorización del área de servicios escolares.
+El cambio de Plantel o Extensión sólo se realiza al inicio de cada semestre, durante los períodos de reinscripción y procede siempre y cuando no se rebase la capacidad de atención del plantel receptor (matrícula escolar autorizada y/o disponible), con la previa autorización de la Dirección Académica.
 
-El cambio de plantel procede bajo las siguientes circunstancias:
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
 
-I. Cuando en el plantel no exista el CFT de la elección del estudiante (antes de iniciar tercer semestre).
+Procede el cambio, del estudiante, cuando se presente alguna de las siguientes circunstancias:
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+I. Cuando en el Plantel o Extensión, no exista el Componente de Formación para el Trabajo de la elección del estudiante (antes de iniciar tercer semestre).
 
 II. Por prescripción médica.
 
@@ -903,13 +1113,19 @@ III. Problemas psicosociales.
 
 IV. Motivos de injerencia familiar.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 123.
 
-Son requisitos para la solicitud de cambio de Plantel o Extensión:
+Los estudiantes para obtener la autorización de cambio de Plantel o Extensión, debe cumplir con las condiciones siguientes:
 
-I. Presentar solicitud de autorización por escrito a la Dirección o Subdirección del Plantel o Extensión de procedencia, quien canalizará los casos a la Dirección Académica, anexando el historial académico respectivo para su análisis correspondiente.
+I. Presentar dentro de las fechas establecidas en el calendario escolar, la solicitud por escrito a la Dirección o Subdirección del Plantel o Extensión de procedencia, quien canalizará los casos a la Dirección Académica, anexando el historial académico respectivo para su análisis correspondiente.
 
-II. La Dirección Académica dictaminará el cambio de adscripción en forma escrita, indicando la integración de la documentación requerida para el mismo.
+II. Que el estudiante sea regular.
+
+III. Que lo permita la matrícula autorizada en el Plantel o Extensión al que pretenda incorporarse el estudiante.
+
+IV. Contar con la autorización por escrito de la Dirección Académica, en donde dictaminará el cambio de adscripción e indicará la integración de la documentación requerida para el mismo.
 
 ###### ARTÍCULO 124.
 
@@ -919,17 +1135,19 @@ I. Acudir al Plantel o Extensión elegido con copia de la autorización oficial.
 
 II. Realizar los trámites de reinscripción correspondientes.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 125.
 
-La Dirección Académica, otorgará las autorizaciones señaladas en el artículo 117°, siempre y cuando:
+La Dirección Académica resolverá lo procedente respecto a la solicitud de cambio de Plantel o Extensión efectuada por el estudiante en casos particulares
 
-I. Se trate de estudiantes regulares.
+I. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
-II. Los trámites sean realizados dentro de las fechas establecidas para el caso, en el calendario escolar.
+II. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
-III. Las condiciones de la matricula autorizada, en el Plantel o Extensión al que pretenda reingresar el estudiante, lo permitan.
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
-IV. En el Plantel de adscripción no se oferte la capacitación del Componente de Formación para el Trabajo de preferencia para el estudiante.
+IV. (DEROGADA, P.O. 7 DE ABRIL DE 2012)
 
 ###### ARTÍCULO 126.
 
@@ -953,7 +1171,9 @@ En la portabilidad de estudios y el tránsito de estudiantes se consideran disti
 
 I. Presente al centro escolar receptor, solicitud de portabilidad debidamente firmada.
 
-II. Solicitar el cambio antes de que se concluya el proceso de inscripción correspondiente al semestre de que se trate.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2012)</small>
+
+II. Solicitar el cambio antes de que se concluya el proceso de reinscripción correspondiente al semestre de que se trate.
 
 III. Presentar su historial académico.
 
@@ -1190,3 +1410,13 @@ NOTAS DE PIE DE PÁGINA
 (11) En términos de la norma 1.16.1 de las Normas Generales de Servicios Escolares para los Planteles que Integran el Sistema Nacional de Bachillerato.
 
 (12) Norma 3.2.2 Ídem.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE ABRIL DE 2012.
+
+PRIMERO.- Las Reformas, Adiciones y Derogaciones al presente Reglamento entrarán en vigor al inicio del ciclo escolar 2011'B, en todas las áreas, Planteles y Extensiones del Colegio de Bachilleres del Estado de Oaxaca, debiéndose publicar en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente reglamento será difundido en todas las áreas, Planteles y Extensiones del Colegio de Bachilleres del Estado de Oaxaca, para conocimiento de toda la comunidad Estudiantil y personal Administrativa y Docente.
+
+TERCERO.- Se derogan todas aquellas disposiciones de la misma y/o menor jerarquía que contravengan a las presentes disposiciones a partir de su entrada en vigor.
