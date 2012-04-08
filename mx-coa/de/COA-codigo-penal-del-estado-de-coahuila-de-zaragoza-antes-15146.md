@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2012-02-24"
+last_updated: "2012-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1221,7 +1221,9 @@ Al servidor público que para impedir el cobro de un impuesto o el cumplimiento 
 
 Se aplicarán las mismas sanciones: Al encargado de una fuerza pública, que requerido legalmente por una autoridad a que le preste auxilio, se valga indebidamente de la suya para no dárselo.
 
-#### SECCIÓN SÉPTIMA. DELITOS DE ABUSO DE AUTORIDAD QUE LESIONAN LA LIBERTAD, SALUD O SEGURIDAD DE LAS PERSONAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN SÉPTIMA. DELITOS COMETIDOS POR AUTORIDADES QUE LESIONAN LA LIBERTAD, SALUD O SEGURIDAD DE LAS PERSONAS
 
 #### SECCIÓN TERCERA. REITERACIÓN DELICTIVA Y CONSECUENCIAS
 
@@ -1276,6 +1278,20 @@ IV. ABUSO CONTRA LA DIGNIDAD PERSONAL. Con motivo de sus funciones ejerza violen
 V. ABUSO CONTRA LA TRANQUILIDAD PERSONAL. Valiéndose de su cargo, amenace o intimide a cualquier persona.
 
 VI. ABUSO CONTRA LA SEGURIDAD PERSONAL. Estando encargado de la custodia o conducción de alguna persona detenida o presa, cometa contra ella cualquier acto prohibido por la ley.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 212 BIS. SANCIONES Y FIGURA TÍPICA DE DEASPARICIÓN (SIC) FORZADA DE PERSONAS.- Se aplicará una pena de diez a cuarenta años de prisión y de trescientos a mil días multa, destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por diez años, al servidor público que con motivo o abusando de sus atribuciones, detenga y mantenga dolosamente oculta a una o varias personas.
+
+Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrá prisión de doce a treinta años y de ciento cincuenta a quinientos días multa.
+
+Si con motivo de la desaparición de una persona, ésta fuera localizada posteriormente sin vida, se iniciará la correspondiente averiguación previa por separado y en su caso se impondrán las sanciones que correspondan por el delito o delitos que resulten sin perjuicio de la sanción impuesta por la desaparición forzada.
+
+Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la pena será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
+
+Si la liberación ocurriera dentro de los diez días siguientes a su detención, la pena aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
+
+Estas penas podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
 
 #### SECCIÓN OCTAVA. EJERCICIO INDEBIDO, INCUMPLIMIENTO Y ABANDONO DE FUNCIONES
 
@@ -1536,6 +1552,10 @@ II. PAGO DE MULTA Y REPARACIÓN DEL DAÑO. Se pague la multa y, en su caso, se r
 III. ADECUACIÓN PARA LA READAPTACIÓN. El sustitutivo se estime más apto que la pena de prisión. El sustitutivo se estimará más apto que la pena de prisión, salvo que por las circunstancias personales del sentenciado, su comportamiento previo o con relación al proceso: se desprendan motivos razonables graves por los que sea preferible ejecutar la pena de prisión.
 
 IV. CAUCIÓN PARA GARANTIZAR SUJECIÓN A LA AUTORIDAD. Se otorgue caución en efectivo para asegurar que el sentenciado se presentará cuantas veces se le llame por la autoridad. El juzgador podrá prescindir de la caución en atención a las condiciones económicas del sentenciado; pero en tal caso siempre se le requerirá que proteste ante el juez que cumplirá con los citatorios que se le hagan.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 78 BIS. EXCEPCIONES PARA QUE PROCEDA LA CONDENA CONDICIONAL.- Los sentenciados por los delitos de extorsión o extorsión por sujeto calificado o por cualquier delito que se haya cometido con violencia o intimidaci ón (sic), utilizando armas de fuego o blancas, no tendrán derecho al beneficio de condena condicional, así como de libertad preparatoria, sustitución, conmutación de la pena o cualquier otro que implique reducción de la condena.
 
 ###### ARTÍCULO 219.
 
@@ -2809,7 +2829,89 @@ Son armas prohibidas: los puñales dagas y verdugillos (sic); o los instrumentos
 
 Se aplicarán iguales penas: A quien porte cuchillo o navaja en lugar de reunión pública o privada con acceso al público, salvo que trabaje en ese lugar y los porte con tal objeto.
 
-#### SECCIÓN SEXTA. VENTA INDEBIDA DE BEBIDAS ALCOHÓLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCION SEXTA. FACILITACION DELICTIVA
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTICULO 280 BIS. SANCIONES Y FIGURA TÍPICA DE FACILITACIÓN DELICTIVA. Se impondrá una pena de cuatro a doce años de prisión y multa a quien aceche, vigile o realice cualquier acto tendiente a obtener indebidamente información sobre la ubicación, las actividades, los operativos o en general, las labores de seguridad pública, de investigación o persecución del delito o la ejecución de penas.
+
+Además de las penas previstas en el párrafo anterior, se impondrá hasta una mitad más al que realice la conducta descrita en este artículo utilizando para ello cualquier vehículo de servicio público de transporte de pasajeros u otro que preste un servicio similar o que por sus características exteriores sea similar a la apariencia de los vehículos destinados al servicio de transporte público de pasajeros.
+
+Las penas señaladas en este artículo se aumentarán hasta un tanto más y se impondrá además destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por servidores públicos o ex servidores públicos de las fuerzas armadas, instituciones de seguridad pública o de procuración de justicia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN SÉPTIMA. CIRCULACIÓN CON PLACAS SOBREPUESTAS
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 1. SANCIONES Y FIGURA TÍPICA DE CIRCULACIÓN CON PLACAS SOBREPUESTAS.- Se aplicará una pena de cuatro a doce años y multa a quien utilice, posea, custodie o detente un vehículo con placas, que en términos de las disposiciones aplicables han sido dadas de baja o cuyos datos de identificación correspondan a otro vehículo.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTICULO 280 BIS 2. CIRCUNSTANCIAS AGRAVANTES DEL DELITO ANTERIOR.- Las penas previstas en el artículo anterior, se incrementarán hasta en una mitad más:
+
+I. Cuando se cometa algún otro delito doloso en el cual se utilice el vehículo que porta las placas sobrepuestas; sin perjuicio de las penas que por el delito diverso se deban imponer.
+
+II. Cuando intervenga un servidor público en su comisión, a quien además se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN OCTAVA. UTILIZACIÓN DE VEHÍCULOS, UNIFORMES, INSIGNIAS O EQUIPOS OFICIALES CON FINES ILÍCITOS
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 3. SANCIONES Y FIGURA TÍPICA DE UTILIZACIÓN DE VEHÍCULOS, UNIFORMES, INSIGNIAS O EQUIPO OFICIAL CON FINES ILICITOS, COMETIDO POR SERVIDOR PÚBLICO.- Se aplicará una pena de cuatro a doce años y multa, además de inhabilitación por un término igual al de la pena de prisión, al servidor público de cualquier institución de seguridad pública o procuración de justicia, que indebidamente facilite o permita a una persona ajena a la corporación, el uso de un vehículo, uniforme, insignia, armamento, cartuchos, radio transceptor o equipo oficial de cualquier tipo, que tenga bajo su custodia o a los que tenga acceso con motivo de sus labores administrativas, de prevención, investigación, persecución del delito o de ejecución de penas.
+
+Las penas previstas en este artículo se incrementarán hasta la mitad del mínimo y máximo si el vehículo, uniforme, insignia, armamento, cartuchos, radio transceptor o equipo oficial de cualquier tipo, se utilizó para cometer algún delito, o si se realizó a cambio de una retribución de cualquier índole dada o prometida. Lo anterior sin perjuicio de las penas que correspondan por la comisión del delito diverso.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 4. SANCIONES Y FIGURA TÍPICA DE UTILIZACIÓN DE VEHÍCULOS, UNIFORMES, INSIGNIAS O EQUIPO OFICIAL CON FINES ILÍCITOS, COMETIDO POR PARTICULAR.- Se aplicará una pena de cuatro a doce años de prisión y multa, al particular que, sin pertenecer a una institución de seguridad pública, procuración de justicia, o corporación policiaca, utilice indebidamente un vehículo, uniforme, insignia, armamento, cartucho radio transceptor o equipo oficial, asignado a tales dependencias, para labores de prevención, investigación, persecución de delitos o de ejecución de penas.
+
+Las penas previstas en este artículo se incrementarán hasta el doble del mínimo y máximo, si se obtuvo la facilitación del vehículo, uniforme, insignias, armamento, cartucho o equipo oficial de cualquier tipo, si se hace a cambio de retribución de cualquier índole dada o prometida.
+
+Si los objetos a que se refiere este artículo se usaron en la comisión de un delito, para su preparación o para procurar la huida o el ocultamiento de los sujetos activos, las penas se incrementarán hasta en un tanto más del mínimo y del máximo, sin perjuicio de las sanciones que correspondan por la comisión del delito diverso.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 5. SANCIONES Y FIGURA TÍPICA DE SIMULACIÓN DE VEHÍCULOS UNIFORMES, INSIGNIAS O EQUIPOS OFICIALES PERTENECIENTES A LOS CUERPOS DE SEGURIDAD PÚBLICA.- Se aplicará una pena de cuatro a doce años de prisión y multa a quien posea, custodie, detente, utilice o circule en un vehículo pintado o señalizado con figuras, colores o patrones que sean iguales o similares a los destinados por las corporaciones de seguridad pública o de procuración de justicia de cualquier orden de gobierno para el ejercicio de sus funciones.
+
+Las mismas penas se aplicarán a quien posea, custodie, detente o utilice uniformes, insignias, equipo o cualquier otro objeto falso o simulado, que sirva para identificar a los cuerpos de seguridad pública o de procuración de justicia de cualquier orden de gobierno, o a los elementos de las fuerzas armadas.
+
+Las penas previstas en este artículo se incrementarán hasta la mitad del mínimo y máximo si el vehículo, uniforme, insignia o equipo, falso o simulado, se utilizaron para cometer algún delito, sin perjuicio de las penas que correspondan por la comisión del delito diverso.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN NOVENA. USURPACIÓN DE FUNCIONES DE SEGURIDAD
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 6. USURPACIÓN DE FUNCIONES DE SEGURIDAD PÚBLICA.- A quien sin serlo, se ostente como integrante de alguna institución de procuración de justicia, corporación policiaca, de seguridad pública o privada, se le aplicará prisión de cuatro a doce años y multa.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 7. PRESTACIÓN DE SERVICIOS DE SEGURIDAD PRIVADA SIN AUTORIZACIÓN.- Se sancionará con una pena de cuatro a doce años de prisión y multa, a quien preste servicios de seguridad privada, sin contar con la autorización legal correspondiente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN DÉCIMA. COLOCACIÓN INDEBIDA DE RETENES
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 280 BIS 8. SANCIONES Y FIGURA TÍPICA DE SIMULACIÓN DE RETENES OFICIALES.- Se aplicará pena de cuatro a doce años de prisión y multa, a quien o quienes sin pertenecer a alguna corporación de seguridad pública o militar, o aún perteneciendo a una de ellas y sin contar con la autorización de quien legalmente pueda otorgarlo (sic), instale en vías públicas, carreteras, caminos o brechas estatales o municipales, objetos de cualquier naturaleza con la finalidad de simular la existencia de un reten o puesto de vigilancia o supervisión de carácter oficial.
+
+Sí con motivo de la realización de la conducta delictiva anteriormente descrita se actualizara la comisión de otro u otros delitos se aplicaran las reglas de concurso de delitos que corresponda establecidas en esta Ley.
+
+En el caso de que el delito se cometa por funcionarios públicos, además de la aplicación de las sanciones penales que correspondan, se impondrá la destitución de los mismos, así como la inhabilitación permanente para desem peñar (sic) algún cargo en la Administración Pública.
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN DECIMA PRIMERA. VENTA INDEBIDA DE BEBIDAS ALCOHÓLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN QUINTA. OTORGAMIENTO INDEBIDO DE EMPLEO; CARGO; COMISIÓN, CONTRATOS O LICENCIAS
 
@@ -2825,7 +2927,7 @@ Se aplicarán iguales penas: A quien porte cuchillo o navaja en lugar de reunió
 
 ###### ARTÍCULO 281.
 
-SANCIONES Y FIGURAS TÍPICAS DE VENTA INDEBIDA DE BEBIDAS ALCOHÓLICAS. Se aplicará prisión de seis meses a cuatro años y multa de cien a trescientas veces el salario mínimo diario general vigente en el lugar y tiempo donde se cometa el delito; el decomiso de los productos a que se refiere este artículo; la clausura del establecimiento y la cancelación del permiso, licencia o patente, si los hubiere:
+SANCIONES Y FIGURAS TÍPICAS DE VENTA INDEBIDA DE BEBIDAS ALCOHÓLICAS. Se aplicará pena de cuatro a diez años de prisión y multa de cien a trescientas veces el salario mínimo diario general vigente en el lugar y tiempo donde se cometa el delito; el decomiso de los productos a que se refiere este artículo; la clausura del establecimiento y la cancelación del permiso, licencia o patente, si los hubiere:
 
 I. VENTA SIN PERMISO DE BEBIDAS ALCOHÓLICAS. A quien venda bebidas alcohólicas sin el permiso para ello de la autoridad competente.
 
@@ -2986,6 +3088,12 @@ SANCIONES Y FIGURA TÍPICA DE INCENDIO Y OTROS ESTRAGOS. Se aplicará prisión d
 ###### ARTÍCULO 293.
 
 SANCIONES Y FIGURA TÍPICA AGRAVADA DE INCENDIO Y OTROS ESTRAGOS. Se aplicará de tres a quince años de prisión y multa, sin perjuicio de las penas que les corresponda por los delitos que resulten: A quien por medio de explosivos de cualquier clase, sustancias tóxicas o armas de fuego; o por medio de incendio, inundación, o cualquier otro de extrema violencia; ejecute actos que produzcan alarma, temor o terror en la población; o en un sector de ella.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 293 BIS. SANCIÓN Y FIGURA TÍPICA DE ALMACENAMIENTO, TRANSPORTACION Y COMERCIALIZACIÓN DE SUSTANCIAS PELIGROSAS.- Se impondrá prisión de tres a nueve años y multa, a quien sin contar con las autorizaciones legales correspondientes, transporte, almacene, distribuya, suministre, reciba o comercialice sustancias consideradas peligrosas por sus características tóxicas, corrosivas, explosivas, inflamables, combustibles u otras análogas.
+
+La misma sanción se aplicará a quien teniendo autorización legal realice las actividades señaladas en este artículo, sin observar las medidas de seguridad debidas con riesgo de la población o del medio ambiente.
 
 ### CAPÍTULO SEGUNDO. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
@@ -4786,3 +4894,27 @@ P.O. 24 DE FEBRERO DE 2012.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- El Registro Civil, contará con un plazo de 60 días a partir de la entrada en vigor del presente decreto para crear y operar el Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el periodo existente entre la entrada en vigor de este decreto y la creación del Registro Estatal de Deudores Alimentarios Morosos.
+
+P.O. 8 DE ABRIL DE 2012.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a la Fiscalía General del Estado y al Fiscal General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado y a su titular.
+
+TERCERO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a los fiscales especializados, en materia de procuración de justicia, se entenderán hechas a los subprocuradores, conforme a las siguientes denominaciones:
+
+Fiscal Ministerial, de Investigación y Operación Policial: Subprocurador Ministerial.
+
+Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad:
+
+Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos: (sic)
+
+CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado, publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas: (sic)
+
+QUINTO.- Todos los procedimientos y asuntos pendientes de la Fiscalía en materia de procuración de justicia, serán tramitados y resueltos por la Procuraduría General de Justicia del Estado de conformidad con las leyes y reglamentos vigentes en el tiempo de la comisión de los actos y los hechos.
+
+SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
+
+SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
