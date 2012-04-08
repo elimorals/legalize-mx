@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2012-02-17"
+last_updated: "2012-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -1653,7 +1653,7 @@ El perdón que se otorgue conforme a este artículo y al código penal, extingui
 
 (DEROGADO, P.O. 16 DE MAYO DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO..</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 197.
 
@@ -1875,6 +1875,18 @@ XXII. Administración fraudulenta; fraude; abuso de confianza o cualquier delito
 
 XXIII. Despojo que cometa quien induzca, instigue o dirija en su comisión a un grupo de cinco o más personas.
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+XXIV. Facilitación delictiva
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+XXV. Figura típica de utilización de vehículos, uniformes, insignias o equipo oficial con fines ilícitos, cometido por servidor público o por particular; figura típica de simulación de vehículos, uniformes, insignias o equipos oficiales pertenecientes a los cuerpos de seguridad pública; usurpación de funciones de seguridad pública.
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+XXVI. Figura típica de circular con placas sobrepuestas cuando el vehículo se utilice para cometer un delito doloso; figura típica de desaparición forzada de personas, y figura típica de simulación de retenes oficiales.
+
 Igualmente, se considera delito grave el de tortura; previsto en los artículos tercero, cuarto y quinto de la ley de la materia.
 
 El delito deberá consumarse para ser grave, salvo los casos que prevé este artículo.
@@ -2061,13 +2073,11 @@ El cateo para localizar y arrestar, arraigar, aprehender o hacer comparecer a un
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
 
-ARTÍCUL0 251. AUTORIDADES QUE PUEDEN PRACTICAR CATEOS. El cateo se practicará por el juez que lo ordene; por el secretario o actuario del juzgado; según se prevenga en el mandamiento. Si alguna autoridad pidió al Ministerio Público solicitar el cateo, podrá asistir a la diligencia. Se auxiliarán siempre con los agentes del Ministerio Público y Policía del Estado
-
-Que estimen necesarios.
-
 ###### ARTÍCULO 251.
 
-AUTORIDADES QUE PUEDEN PRACTICAR CATEOS. El cateo se practicará por el juez que lo ordene; por el secretario o actuario del juzgado; según se prevenga en el mandamiento. Si alguna autoridad pidió al Ministerio Público solicitar el cateo, podrá asistir a la diligencia. Se auxiliarán siempre con los agentes del Ministerio Público y policía ministerial que estimen necesarios.
+AUTORIDADES QUE PUEDEN PRACTICAR CATEOS. El cateo se practicará por el juez que lo ordene; por el secretario o actuario del juzgado; según se prevenga en el mandamiento. Si alguna autoridad pidió al Ministerio Público solicitar el cateo, podrá asistir a la diligencia. Se auxiliarán siempre con los agentes del Ministerio Público y Policía del Estado
+
+Que estimen necesarios.
 
 ###### ARTÍCULO 252.
 
@@ -6038,3 +6048,27 @@ Durante la vacatio legis deberán reformarse las leyes que regulen la competenci
 ###### ARTÍCULO OCTAVO.
 
 El Congreso del Estado proveerá lo conducente a la asignación de recursos presupuestales anuales a favor de las instancias que deben operar el nuevo sistema de justicia penal, a fin de que cuenten con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este decreto.
+
+P.O. 8 DE ABRIL DE 2012.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a la Fiscalía General del Estado y al Fiscal General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado y a su titular.
+
+TERCERO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a los fiscales especializados, en materia de procuración de justicia, se entenderán hechas a los subprocuradores, conforme a las siguientes denominaciones:
+
+Fiscal Ministerial, de Investigación y Operación Policial: Subprocurador Ministerial.
+
+Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad: (sic)
+
+Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos: (sic)
+
+CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado, publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas:
+
+QUINTO.- Todos los procedimientos y asuntos pendientes de la Fiscalía en materia de procuración de justicia, serán tramitados y resueltos por la Procuraduría General de Justicia del Estado de conformidad con las leyes y reglamentos vigentes en el tiempo de la comisión de los actos y los hechos.
+
+SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
+
+SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
