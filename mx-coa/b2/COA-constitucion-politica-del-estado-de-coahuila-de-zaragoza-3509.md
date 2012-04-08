@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2012-01-06"
+last_updated: "2012-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -160,17 +160,13 @@ Las Cartas de los Derechos Fundamentales y esta Constitución, determinan los pr
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
-#### SECCION PRIMERA.
+#### Sección Primera. De la Seguridad Pública
 
-De la Fiscalía General del Estado.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+#### Sección Segunda. De la Procuración de Justicia
 
-#### SECCION SEGUNDA.
-
-Del Ministerio Público.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 8º.
 
@@ -566,9 +562,9 @@ II. Tener 21 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-IV. No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+IV. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral y de Participación Ciudadana, ni secretario del Tribunal Electoral del Poder Judicial de Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -676,9 +672,9 @@ Para que una disposición del Congreso se tenga como legítima es necesario que 
 
 Al discutirse los dictámenes sobre iniciativas de leyes concernientes a la Administración de Justicia y Codificación, podrán asistir a las sesiones el Magistrado o Magistrados que el Supremo Tribunal designe y a quienes se les concederá el uso de la palabra para que opinen o informen sobre dichos dictámenes.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-El Congreso del Estado, podrá solicitar del Gobernador la comparecencia de los Secretarios del Ramo, así como la de quienes dirijan entidades paraestatales, para que informen cuando se discuta una Ley, o se estudie un asunto concerniente a sus respectivos ramos o actividades. Asimismo, podrá solicitar la comparecencia del Fiscal General del Estado.
+El Congreso del Estado, podrá solicitar del gobernador la comparecencia de los secretarios del ramo, así como la de quienes dirijan entidades paraestatales, para que informen cuando se discuta una ley, o se estudie un asunto concerniente a sus respectivos ramos o actividades. Asimismo, podrá solicitar la comparecencia del Procurador General de Justicia del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -738,9 +734,9 @@ VI. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residi
 
 VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Consejero Presidente, previo acuerdo del Consejo General.
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-VIII. A la Fiscalía General del Estado en todo lo concerniente a sus funciones y competencias. La Iniciativa se presentará por conducto del Fiscal General del Estado.
+VIII. A la Procuraduría General de Justicia en todo lo concerniente a sus funciones y competencias. La Iniciativa se presentará por conducto del Procurador General de Justicia del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2006)</small>
 
@@ -928,9 +924,9 @@ XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir 
 
 XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-Igualmente, ratificar, el nombramiento que el titular del Ejecutivo del Estado haga del Fiscal General del Estado y, en su caso, acordar su remoción, siempre que concurra alguna de las causales de procedencia previstas en esta Constitución y leyes aplicables.
+Igualmente, ratificar, el nombramiento que el titular del ejecutivo haga del Procurador General de Justicia del Estado y, en su caso, acordar su remoción, siempre que concurra alguna de las causales de procedencia previstas en esta Constitución y leyes aplicables.
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2007)</small>
 
@@ -968,9 +964,9 @@ XXVI. Rehabilitar, con arreglo a las leyes, a los que por sentencia pronunciada 
 
 XXVII. Declarar suspenso a un ciudadano en el ejercicio de sus derechos políticos, por resistirse a servir los cargos de elección popular sin causa justificada.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-XXVIII. Expedir la Ley Orgánica de la Fiscalía General del Estado.
+XXVIII. Expedir la ley que organice al Ministerio Público y sus auxiliares.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1222,9 +1218,9 @@ III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado
 
 IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-V. No ser Secretario de la Administración Pública Estatal, Fiscal General del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+V. No ser secretario de la administración pública estatal, Procurador General de Justicia del Estado, magistrado del Poder Judicial, presidente municipal, síndico o regidor, consejero o integrante del órgano de dirección de los organismos públicos autónomos, titulares de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretario del Tribunal Electoral del Poder Judicial del Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
@@ -1548,7 +1544,9 @@ Las Leyes y Decretos expedidos por el Congreso del Estado que sean promulgados p
 
 Los Secretarios del Ramo y los Directores Generales o sus equivalentes de las entidades paraestatales, previa anuencia del Gobernador, así como los titulares de los organismos públicos autónomos concurrirán a las sesiones del Congreso, para que informen cuando se discuta una Ley o se estudie un asunto concerniente a sus respectivos ramos o actividades.
 
-El Fiscal General del Estado, podrá concurrir ante el Congreso cuando las leyes que se discutan sean de su competencia.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+El Procurador General de Justicia del Estado, previa solicitud del Legislativo al Gobernador, podrá concurrir ante el Congreso cuando las leyes que se discutan sean de su competencia.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1564,13 +1562,13 @@ También están impedidos para ejercer la abogacía, salvo en causa propia.
 
 Las faltas temporales de los Secretarios del Ramo, serán suplidas por el funcionario que determine el reglamento interior respectivo.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 92.
 
-Los reglamentos interiores de cada una de las Secretarias del Ramo serán expedidos por el Gobernador del Estado, y en ellos se determinarán las atribuciones de sus unidades administrativas.
+Los reglamentos interiores de cada una de las secretarías del ramo serán expedidos por el Gobernador del Estado y en ellos se determinarán las atribuciones de sus unidades administrativas.
 
-La Fiscalía General del Estado tendrá facultades para expedir los reglamentos necesarios para proveer a la exacta observancia de las leyes que la rijan, en los términos que disponga su Ley Orgánica.
+Los reglamentos que requiera la procuración de justicia para hacerla pronta y expedita, deberán tener como principios rectores el respeto a los derechos humanos de las víctimas, de los indiciados y los probables responsables de los delitos, teniendo el Procurador General de Justicia la facultad de expedirlos, en los términos que disponga la ley que rija su función.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -1582,7 +1580,7 @@ El refrendo actualiza en el Secretario de Gobierno y los demás Secretarios del 
 
 De la Seguridad Pública y la Procuración de Justicia.
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 94.
 
@@ -1724,183 +1722,65 @@ La División Territorial.
 
 ###### Artículo 108.
 
-La Fiscalía General del Estado, es un órgano de la Administración Pública Centralizada, con autonomía técnica, operativa y de criterio jurídico, para planear, programar, dirigir, ejecutar, evaluar y supervisar las funciones en materia de seguridad pública y procuración de justicia propias del Estado.
+La seguridad pública es una función a cargo de la federación, el estado y los municipios, que tiene como fines salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, su investigación y persecución, la reinserción social del sentenciado, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias previstas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
 
-Su misión primordial será salvaguardar el estado de Derecho en las materias de seguridad pública y procuración de justicia en defensa de la legalidad, de los derechos de la persona y del interés tutelado por la Ley.
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, transparencia y respeto a los derechos humanos.
 
-La Ley Orgánica de la Fiscalía General del Estado determinará su organización y funciones, de conformidad con las siguientes bases:
+El Estado desarrollará políticas en materia de prevención social de la delincuencia con carácter integral, sobre las causas que generan violencia, adicciones, la comisión de delitos y otras conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
-I. La Fiscalía estará presidida por un Fiscal General y contará con los fiscales especializados, directores generales, delegados regionales, directores de área, agentes del Ministerio Público, auxiliares y demás personal necesario para el cumplimiento de sus funciones.
-
-Contará además con un consejo interior de normatividad, planeación y evaluación cuya estructura y funciones establecerá la ley;
-
-El Fiscal General de acuerdo con las cargas de trabajo y la trascendencia de los asuntos, podrá crear, suprimir, fusionar o transformar las dependencias de la Fiscalía para asegurar la buena marcha de la institución.
-
-II. Determinará los criterios y las dependencias que intervendrán para definir las políticas de seguridad pública, procuración de justicia y las actividades de inteligencia, que incluyan la prevención, detección, disuasión y persecución de la delincuencia. Estos criterios cumplirán con los objetivos nacionales e internacionales en materia de seguridad pública y procuración de justicia;
-
-III. Regulará la función estatal de seguridad pública y los fundamentos y condiciones para concertar convenios de coordinación sobre la materia con las autoridades federales, municipales y de otras entidades federativas, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IV. Regulará la organización e integración de la policía del estado para unificar, sistematizar y ejecutar los planes, proyectos y programas, en las fases de prevención, detección, disuasión e investigación de la delincuencia;
-
-V. Establecerá las competencias y responsabilidades que tendrán los fiscales especializados y los agentes del Ministerio Público en su caso, en las áreas de seguridad pública, prevención e investigación del delito, así como en el ejercicio de la acción penal en los asuntos de su competencia;
-
-VI. Señalará los requisitos que deberán reunir para ser designados, los agentes del Ministerio Público y los demás funcionarios y servidores públicos de la Institución;
-
-VII. Fijará directrices sobre la profesionalización de los servidores públicos de seguridad pública y procuración de justicia;
-
-VIII.- Definirá los requisitos de selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de cada uno de los integrantes de las instituciones de seguridad pública y procuración de justicia; sus inhabilidades e incompatibilidades; los cargos, categorías y remuneraciones, así como el régimen disciplinario de los funcionarios y empleados que las conforman;
-
-IX. Normará las facultades exclusivas del Ministerio Público para la investigación de los hechos constitutivos de delitos, los que determinen la participación punible y los que acrediten la inocencia del imputado y, en su caso, el ejercicio de la acción penal pública en la forma prevista por la Ley, así como la participación de las policías en dicha investigación. El Ministerio Público, en ejercicio de sus funciones, podrá impartir órdenes directas a la Policía del Estado Operativa e Investigadora, a los Servicios Periciales y a las policías municipales, en los términos previstos en las leyes. La autoridad requerida deberá cumplir sin más trámite dichas órdenes y no podrá calificar su fundamento, oportunidad, justicia o legalidad, salvo requerir la exhibición de la autorización judicial previa, en su caso;
-
-X. Determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito, así como de las instituciones de seguridad pública;
-
-XI. Otorgará atribuciones para fincar responsabilidades y, en su caso, instaurar procedimientos administrativos a los funcionarios y empleados de la institución, y
-
-XII. Las demás que determinen las leyes.
-
-La Fiscalía General del Estado ejercerá sus funciones por medio de órganos propios conforme a los principios de unidad de actuación y dependencia jerárquica.
-
-Las actuaciones de la Fiscalía General del Estado se regirán por los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez y respeto a las garantías reconocidas en la Constitución General y demás instrumentos legales.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 109.
 
-La Fiscalía General del Estado se integrará jerárquicamente por un Fiscal General y los fiscales especializados que se requieran por materia o por región; por los directores generales, delegados regionales, directores de áreas, agentes del Ministerio Público, auxiliares y demás personal necesario para el cumplimiento de sus funciones. Las competencias, obligaciones y facultades se establecerán en las leyes y reglamentos correspondientes.
+Para el cumplimiento de la función de seguridad pública la ley establecerá una secretaría especializada en la materia y conformará el Sistema Estatal de Seguridad Pública, como instancia de coordinación entre los tres órdenes de gobierno con amplia participación social.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+Las instituciones encargadas de la seguridad pública serán de carácter civil, disciplinado y profesional.
+
+El Sistema Estatal de Seguridad Pública estará sujeto a las bases siguientes:
+
+I. Formulará políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a prevenir la comisión de delitos y otras conductas antisociales;
+
+II. Propiciará la coordinación de los órdenes de gobierno estatal, municipal y federal, para la vinculación y el mejor desarrollo de la función de seguridad pública;
+
+III. Normará el sistema de desarrollo policial del estado y los municipios, mediante el servicio profesional de carrera, la certificación y el régimen disciplinario;
+
+IV. Establecerá y actualizará permanentemente las bases de datos criminalísticos y de personal de las instituciones de seguridad pública y seguridad privada, a fin de que ninguna persona pueda ingresar al servicio si no ha sido debidamente certificada y registrada en el sistema;
+
+V. Garantizará la participación de la sociedad civil en los procesos de elaboración y evaluación de las políticas públicas de prevención del delito y de la delincuencia, así como de las instituciones de seguridad pública;
+
+VI. Verificará que los fondos destinados a seguridad pública, se utilicen única y exclusivamente para esos fines;
+
+Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales del estado y los municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional laboral resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+Las autoridades estatales y municipales, instrumentarán sistemas complementarios de seguridad social para el personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales y de sus familias y dependientes.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 110.
 
-El Fiscal General tendrá los siguientes deberes y atribuciones:
+El Gobierno del Estado y los ayuntamientos, podrán celebrar convenios de coordinación para formular planes, desarrollar programas y ejecutar acciones de manera conjunta a fin de lograr los objetivos en materia de seguridad pública.
 
-I. Ser el titular y rector de la Fiscalía General del Estado y presidir al Ministerio Público;
+Cuando a juicio de un ayuntamiento sea necesario, porque no cuente con suficientes y adecuados recursos humanos o de equipamiento, podrá celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo de la prestación del servicio de seguridad pública o bien se ejerza coordinadamente por ambos.
 
-II. Velar por el respeto de las instituciones constitucionales y los derechos fundamentales y libertades públicas, con cuantas actuaciones exija su defensa;
+En caso de ocurrir situaciones graves que pongan en riesgo el orden y la paz pública de una comunidad, el Estado de manera oficiosa o a petición del propio municipio, podrá asumir el mando temporal de la policía preventiva municipal a través de la dependencia competente, hasta en tanto se restablezcan las condiciones de normalidad.
 
-III. Ser el Consejero Jurídico del Gobierno del Estado en los asuntos que le encomienden las leyes o el titular del Ejecutivo;
+Frente a una situación de emergencia, natural o humana, que rebase las posibilidades de los municipios afectados, el mando y la coordinación de las policías preventivas municipales quedará bajo la responsabilidad del gobierno estatal, hasta en tanto cese la emergencia.
 
-IV. Participar en el Sistema Nacional de Seguridad Pública, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
-
-V. Proponer y participar en la definición y dar seguimiento a la política criminal del Estado así como coordinar los trabajos tendientes a conformar las políticas de seguridad pública y procuración de justicia;
-
-VI. Formular iniciativas de ley ante el Congreso del Estado, en materia de seguridad pública y procuración de justicia;
-
-VII. Emitir los reglamentos, circulares y demás disposiciones administrativas que regulen los procedimientos, materias, funciones y servicios públicos de su competencia;
-
-VIII. Dirigir y coordinar las funciones de la Policía del Estado Operativa e Investigadora; así como los demás organismos que señale la ley;
-
-IX. Investigar, por sí o por conducto del personal de su dependencia, de oficio o con base en la denuncia o querella formulada, los hechos que puedan constituir delito;
-
-X. Crear unidades especializadas para colaborar con los agentes del Ministerio Público a cargo de la investigación de determinados delitos;
-
-XI. Solicitar, en comisión de servicio, a funcionarios de cualquier órgano de la Administración Pública del Estado, para que participen en actividades propias del Ministerio Público. Dichas comisiones tendrán el plazo de duración que se indique en el acuerdo correspondiente;
-
-XII. Ejercitar las acciones penales y civiles derivadas de delitos u oponerse a las ejercitadas por otros, cuando proceda;
-
-XIII. Tomar parte, en defensa de la legalidad y del interés público o social, en los procesos relativos al estado civil, en los que se controviertan derechos difusos y en los demás casos que establezca la ley;
-
-XIV. Adoptar las medidas pertinentes para proteger a las víctimas y testigos que participen en la investigación de los delitos o en los procesos que en su caso originen;
-
-XV. Asumir o promover la representación y defensa en juicio y fuera de él, de quien, por carecer de capacidad de obrar o representación legal, no pueda actuar por sí mismo;
-
-XVI. Defender el interés superior de la niñez en los procedimientos judiciales y administrativos;
-
-XVII. Ejercer por sí o por conducto de la fiscalía especializada que corresponda, las acciones tendientes a establecer la responsabilidad del adolescente por los hechos punibles en que incurra, de acuerdo con lo previsto en la ley especial que rige la materia;
-
-XVIII. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y de la Comisión Estatal de los Derechos Humanos;
-
-XIX. Nombrar y remover de conformidad con la ley, a los funcionarios y empleados bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por esta Constitución o las leyes;
-
-XX. Asignar y desplazar libremente a sus funcionarios y empleados en las labores de seguridad pública, procuración de justicia, investigación y atención de procesos. Asimismo, determinar el criterio y la posición que la Fiscalía General del Estado asumirá en cada caso, en desarrollo de los principios de unidad de gestión y jerarquía;
-
-XXI. Celebrar convenios de colaboración con los gobiernos del Distrito Federal y de los Estados integrantes de la Federación, de conformidad con el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XXII. Celebrar acuerdos, bases de colaboración, convenios y demás instrumentos jurídicos con autoridades federales y con los gobiernos del Distrito Federal, de los Estados integrantes de la Federación y municipios, así como con organizaciones de los sectores social y privado;
-
-XXIII. Suministrar al titular del Ejecutivo del Estado información sobre las investigaciones que se estén llevando a cabo, cuando sea necesario para la preservación del orden público;
-
-XXIV. Promover y participar en los juicios de control de la constitucionalidad federales o locales, en los casos en que esté facultado por la ley o cuente con la representación legal para ello;
-
-XXV. Atender las obligaciones y relaciones con los Poderes Públicos del Estado en los términos de la legislación aplicable;
-
-XXVI. Rendir anualmente un informe, por escrito, ante el Congreso del Estado sobre el estado que guarda la seguridad pública y la procuración de justicia en la entidad;
-
-XXVII. Establecer medios de información a la comunidad, en forma sistemática y directa, para dar cuenta de las actividades de la Institución;
-
-XXVIII. Fijar los criterios que deban aplicarse en materia de recursos humanos, remuneraciones, inversiones, gastos de los fondos respectivos, planificación del desarrollo, administración y finanzas de la Institución;
-
-XXIX. Dirigir el sistema de calidad de la Fiscalía General del Estado e implementar los controles internos que permitan conocer y evaluar la eficiencia y oportunidad de su gestión y la de sus funcionarios y empleados;
-
-XXX. Conceder los estímulos, reconocer los méritos y otorgar las menciones que procedan a los servidores de la Fiscalía General del Estado;
-
-XXXI. Denunciar ante el Pleno del Tribunal Superior de Justicia la sustentación de tesis que estime contradictorias para su depuración;
-
-XXXII. Suscribir, como representante legal de la Fiscalía General del Estado, los actos y contratos requeridos para el buen funcionamiento de la misma;
-
-XXXIII. Crear consejos de asesores y apoyo que coadyuven en la solución de la problemática generada por las distintas actividades de la Institución;
-
-XXXIV. Elaborar cada año el proyecto de presupuesto de egresos de la Fiscalía General del Estado y hacerlo llegar al Gobernador del Estado para su inclusión en el presupuesto correspondiente. Por la especialidad de la función, se tomará en consideración dicho proyecto, sin modificaciones, salvo las propuestas por el titular del Ejecutivo, después de escuchar al Fiscal General, y
-
-XXXV. Las demás que le atribuyan las leyes aplicables.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 111.
 
-El Fiscal General del Estado será designado por el Gobernador y deberá de ser ratificado por el Congreso del Estado o en los recesos por la Diputación Permanente, de acuerdo a lo previsto por el segundo párrafo de la fracción XVII del artículo 67 de esta Constitución. En ambos casos bastará con la mayoría relativa. Los requisitos, el ejercicio y la conclusión del cargo de Fiscal General, se sujetará a las bases siguientes:
+La función de seguridad pública estatal comprende el sistema penitenciario, que se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción a la sociedad de las personas sentenciadas y procurar que no vuelvan a delinquir, observando los beneficios que para ellas prevé la ley.
 
-I. Para la ocupación del cargo se requerirá:
+El Estado formará un cuerpo policial especializado en la vigilancia de los centros de reinserción social.
 
-1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
-
-2. Haber cumplido treinta y cinco años de edad para el día de la designación;
-
-3. Poseer en la fecha de nombramiento, con antigüedad mínima de 10 años de práctica profesional, título oficial de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y contar con cédula profesional que acredite su registro ante autoridad competente;
-
-4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso, y
-
-5. Haber residido en el Estado durante los cinco años anteriores al día de la designación.
-
-II. Antes de tomar posesión de su cargo deberá rendir la protesta de ley ante el Congreso del Estado;
-
-III. El período constitucional del Fiscal General será de ocho años y podrá ser ratificado por una sola vez para otro período igual.
-
-IV. Sólo podrá ser separado del cargo, antes del vencimiento de su ejercicio, en la forma y términos que fije esta Constitución, la Ley Orgánica de la Fiscalía General del Estado y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales;
-
-V. La separación, en los términos antes previstos, será propuesta por el Gobernador del Estado y resuelta en definitiva por el Congreso o en los recesos por la Diputación Permanente;
-
-VI. En tanto se designe nuevo Fiscal General, se apruebe su nombramiento y rinda la protesta de ley, ocupará el cargo el fiscal especializado que conforme a la ley deba cubrir su ausencia;
-
-VII. El cargo será incompatible con cualquier otro empleo, cargo o comisión de carácter público o privado, así como con el ejercicio libre de la profesión de abogado. Sin embargo, podrá realizar labores docentes y actividades de investigación académica y/o científica, en los términos previstos por la ley de la materia.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 112.
 
-Los fiscales especializados se sujetarán a las siguientes bases:
+Los particulares podrán prestar servicios de seguridad privada previa autorización que otorgue el estado, según las disposiciones que al efecto se expidan. Las corporaciones de seguridad privada serán auxiliares de las autoridades estatales de seguridad pública.
 
-I. Para ser fiscal especializado se requerirá:
-
-1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
-
-2. Haber cumplido treinta años de edad para el día de la designación;
-
-3. Poseer en la fecha de nombramiento, con antigüedad mínima de cinco años de práctica profesional, titulo oficial de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y contar con cédula profesional que acredite su registro ante autoridad competente;
-
-4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso, y
-
-5. Haber residido en el Estado durante los tres años anteriores al día de la designación.
-
-II. Durarán en sus cargos ocho años y podrán ser ratificados por una sola vez para otro período igual.
-
-III. Sólo podrán ser removidos anticipadamente en la forma y términos que fijen esta Constitución, la Ley Orgánica de la Fiscalía General del Estado y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales;
-
-IV. Serán los titulares de las fiscalías especializadas que les correspondan de acuerdo con sus nombramientos y con las obligaciones, facultades y prohibiciones que la ley determine;
-
-V. Las funciones serán incompatibles con cualquier otro cargo, empleo o comisión de carácter público o privado, con excepción de actividades docentes y de investigación académica y/o científica, en los términos previstos por la ley de la materia.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN II.. El Ayuntamiento y el Concejo Municipal
 
@@ -1908,105 +1788,79 @@ V. Las funciones serán incompatibles con cualquier otro cargo, empleo o comisi�
 
 ###### Artículo 113.
 
-El Fiscal General y los fiscales especializados solamente podrán ser sometidos a juicio político, proceso penal o procedimiento por responsabilidad administrativa en la forma y términos establecidos en esta Constitución, en la Ley Orgánica de la Fiscalía General del Estado y en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales.
+La procuración de justicia es una función esencial y por tanto indelegable del Estado que tiene por objeto proteger los intereses de la sociedad y resguardar la observancia de la ley, particularmente por lo que toca a la investigación y persecución de los delitos del orden común. Se ejerce a través de un órgano de la administración pública centralizada, denominado Procuraduría General de Justicia del Estado que se integra por el Ministerio Público, sus órganos auxiliares y áreas de apoyo.
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2009)</small>
+El Ministerio Público es una institución de buena fe, única e indivisible, que tiene como propósito velar, en el ámbito de su competencia, por la constitucionalidad y legalidad como principios rectores de la convivencia social, así como participar en el diseño, implementación y evaluación de la política contra el crimen en el Estado. En el ejercicio de su función de investigación y persecución de los delitos, el Ministerio Público goza de total autonomía, por lo que ningún funcionario del Poder ejecutivo o de cualquier otro poder podrá intervenir en sus decisiones.
+
+La actuación del personal de procuración de justicia se regirá bajo los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad, transparencia, objetividad, independencia y respeto a los derechos humanos.
+
+El Procurador General de Justicia presidirá al Ministerio Público y será el titular de la dependencia, con las facultades y obligaciones que establecen esta Constitución y las leyes. En el ámbito de la investigación y persecución de los delitos, las decisiones del Procurador únicamente estarán sujetas al mandato de la ley.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 114.
 
-La ley y los reglamentos que de ella emanen, organizarán la Institución del Ministerio Público, sus auxiliares y apoyos jurídicos, administrativos y técnicos, en la institución autónoma denominada Fiscalía General del Estado, bajo las siguientes bases:
+El Procurador General de Justicia del Estado será designado por el gobernador y deberá de ser ratificado por el Congreso del Estado o en los recesos por la diputación permanente, de acuerdo a lo previsto por el segundo párrafo de la fracción XVII del artículo 67 de esta Constitución. En ambos casos bastará con la mayoría relativa. Los requisitos, el ejercicio y la conclusión del cargo de Procurador General, se sujetará a las bases siguientes:
 
-I. El Ministerio Público es una institución de buena fe, única e indivisible, representante de la sociedad en los asuntos de su competencia y estará presidido por el Fiscal General del Estado;
+I. Para ocupar el cargo se requerirá:
 
-II. Es la institución competente para la investigación y persecución de los delitos del orden común ante los tribunales judiciales, lo cual hará a través de su titular, de las Fiscalías Especializadas que éste designe, y de sus agentes del Ministerio Público, con el auxilio de la Policía Estatal a través de la División Investigadora y de los Servicios Periciales, que estarán bajo su autoridad y mando inmediato.
+1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-La División Operativa de la Policía Estatal y las policías municipales participarán en la investigación de los delitos en los casos y bajo las condiciones que las leyes, reglamentos o convenios suscritos así lo dispongan y siempre bajo el mando y autoridad del Ministerio Público;
+2. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
-Todas las autoridades estatales y municipales estarán obligadas a prestar de inmediato el auxilio y a rendir los informes o proporcionar los documentos que el Ministerio Público les requiera en el ejercicio de sus funciones;
+3. Contar, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente y contar con una antigüedad mínima de 10 años en el ejercicio de la profesión;
 
-III. Los agentes del Ministerio Público y sus auxiliares tendrán autonomía de criterio en cuanto a sus funciones de investigación y persecución del delito, pero deberán observar siempre el derecho y las reglas científicas y técnicas aplicables a sus actividades, y respetar plenamente los derechos humanos;
+4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso, y
 
-IV. Los agentes del Ministerio Público y sus auxiliares, en todo lo relacionado a la disciplina laboral, estarán bajo la dirección, coordinación y supervisión de un fiscal especializado y de quienes las leyes y reglamentos determinen;
+5. Haber residido en el Estado durante los cinco años anteriores al día de la designación.
 
-V. Los agentes del Ministerio Público, en el ejercicio de la procuración de justicia y en sus respectivas jerarquías administrativas, no tendrán más subordinación que a los niveles superiores orgánicos y funcionales de la propia Institución;
+II. Antes de tomar posesión de su cargo deberá rendir la protesta de ley ante el Gobernador del Estado;
 
-VI. Los titulares de la Policía Investigadora y de los Servicios Periciales, sus respectivos agentes y, en su caso, la División Operativa de la Policía Estatal y las policías municipales deberán cumplir y hacer cumplir las órdenes del Ministerio Público, y
+III. El período constitucional del Procurador General será de seis años;
 
-VII. Las órdenes del Ministerio Público no afectarán las opiniones técnicas y científicas que emitan los peritos en sus dictámenes.
+IV. Sólo podrá ser separado del cargo, antes del vencimiento de su ejercicio, en la forma y términos que fije esta Constitución, la ley de la materia y la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales;
 
-> <small>(REFORMADO Y REUBICADO, P.O. 16 DE MARZO DE 2009)</small>
+V. La separación, en los términos antes previstos, será propuesta por el Gobernador del Estado y resuelta en definitiva por el Congreso o en los recesos por la Diputación Permanente;
+
+VI. En tanto se designe nuevo Procurador General, se apruebe su nombramiento y rinda la protesta de ley, ocupará el cargo el subprocurador que conforme a la ley deba cubrir su ausencia;
+
+VII. El cargo será incompatible con cualquier otro empleo, cargo o comisión de carácter público o privado, así como con el ejercicio libre de la profesión de abogado. Sin embargo, podrá realizar labores docentes y actividades de investigación académica y/o científica, en los términos previstos por la ley de la materia.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 115.
 
-Son obligaciones y atribuciones del Ministerio Público:
+El Procurador General de Justicia tendrá los siguientes deberes y atribuciones:
 
-I. Velar por la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución y de las leyes que de ellas dimanen;
+I. Ser el titular y rector de la Procuraduría General de Justicia del Estado y presidir al Ministerio Público;
 
-II. Respetar y hacer que se respeten las garantías que otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y el orden jurídico que de ellas derive;
+II. Velar por el respeto de las instituciones constitucionales y los derechos humanos, con cuantas actuaciones exijan su defensa;
 
-III. Investigar las detenciones arbitrarias y otros abusos de autoridad que se cometan, adoptando las medidas necesarias para hacerlas cesar de inmediato, sin perjuicio de proveer lo conducente al castigo de los responsables;
+III. Participar en el Sistema Nacional de Seguridad Pública y en el Sistema de Seguridad Pública del Estado;
 
-IV. Organizar, dirigir y coordinar a la División Investigadora de la Policía del Estado y a los Servicios Periciales;
+IV. Formular iniciativas de ley ante el Congreso del Estado, en materia de procuración de justicia;
 
-V. Recibir denuncias o querellas sobre acciones u omisiones que puedan constituir delito;
+V. Emitir los reglamentos, circulares y demás disposiciones administrativas que regulen los procedimientos, materias, funciones y servicios públicos de su competencia;
 
-VI. Investigar los delitos de los que tenga conocimiento por cualquier medio, auxiliado por las Policías y Servicios Periciales, las cuales actuarán bajo la conducción y mando inmediato de aquél en el ejercicio de sus funciones;
+VI. Atender las visitas, quejas, propuestas de conciliación y recomendaciones de la Comisión Nacional y de la Comisión Estatal de los Derechos Humanos;
 
-VII. Practicar u ordenar las diligencias necesarias para acreditar el hecho que la ley señale como delito y la probabilidad de que el indiciado lo cometió o participó en su comisión;
+VII. Nombrar y remover de conformidad con la ley, a los servidores públicos bajo su dependencia, siempre y cuando el nombramiento no esté previsto de manera especial por esta Constitución o las leyes;
 
-VIII. Ordenar la detención y, en su caso, retener a los probables responsables de la comisión de delitos, en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
+VIII. Asignar y desplazar libremente a los servidores públicos en las labores de procuración de justicia, investigación y atención de procesos. Asimismo, determinar el criterio y la posición que la Procuraduría General de Justicia del Estado asumirá en cada caso;
 
-IX. Solicitar al órgano jurisdiccional las órdenes de cateo, las medidas precautorias de arraigo, la prohibición de abandonar una demarcación geográfica, el arresto domiciliario, el aseguramiento o embargo precautorio de bienes que resulten indispensables para los fines de la investigación, la preparación y desahogo anticipado de pruebas, así como las demás medidas cautelares que autorice la ley;
+IX. Coordinar los trabajos tendientes a conformar las políticas públicas de procuración de justicia en el Estado;
 
-X. Asegurar los elementos materiales probatorios, garantizando la cadena de custodia mientras se ejerce la facultad de contradecirlos u objetarlos;
+X. Investigar, por sí o por conducto del personal de su dependencia, de oficio o con base en la denuncia o querella formuladas, los hechos que puedan constituir delito;
 
-XI. Requerir, cuando menos una vez al mes, a los elementos de la División Investigadora de la Policía Estatal, los informes sobre el estado que guardan las investigaciones que realicen, a efecto de que se emitan las observaciones pertinentes o bien, las instrucciones de realizar nuevas diligencias;
+XI. Ejercitar las acciones penales y civiles dimanantes de delitos o de situaciones jurídicas en que exista interés público u oponerse a las ejercitadas por otros, cuando proceda;
 
-XII. Investigar y perseguir las conductas tipificadas como delitos por las leyes penales aplicables, en que incurran los menores de 18 años, por conducto de los Agentes del Ministerio Público especializados en materia de adolescentes;
+XII. Suministrar al Gobernador información sobre las investigaciones cuando sea necesario para la preservación del orden público;
 
-XIII. En aquellos casos en que la ley lo permita, propiciar la solución de los intereses en conflicto mediante el empleo de los mecanismos alternos, asegurando siempre la reparación del daño a satisfacción de la víctima u ofendido por el delito;
+XIII. Elaborar cada año el proyecto de presupuesto de la Procuraduría General de Justicia del Estado y hacerlo llegar al Gobernador, para su inclusión en el presupuesto de egresos. Por la especialidad de la función, cualquier modificación deberá ser puesta a consideración del Procurador General para que fundamente las necesidades planteadas o establezca prioridades;
 
-XIV. Solicitar a los tribunales las medidas necesarias para la reparación integral a la víctima, velar por su protección, la de los testigos y demás personas que intervengan en el proceso penal. La ley fijará los términos en que podrán intervenir las víctimas en el proceso penal y los mecanismos de justicia restaurativa;
+XIV. Denunciar ante el Pleno del Tribunal Superior de Justicia las tesis que estime contradictorias para su depuración; y
 
-XV. Resguardar la identidad y otros datos personales de la víctima u ofendido en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, secuestro o delincuencia organizada, en los casos previstos por la ley de la materia y, cuando a juicio del juzgador, sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa;
-
-XVI. Aplicar el principio de oportunidad en los casos que defina la ley;
-
-XVII. Determinar la reserva de la averiguación previa, conforme a las disposiciones aplicables;
-
-XVIII. Determinar el no ejercicio de la acción penal y el no ejercicio de la acción de remisión, en los casos que la ley lo autorice;
-
-XIX. Ejercer la acción penal ante el órgano jurisdiccional competente por el hecho que la ley señale como delito, siempre que preceda denuncia o querella y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial;
-
-XX. Poner a disposición de la autoridad judicial a las personas detenidas y aprehendidas dentro de los plazos establecidos por la ley;
-
-XXI. Presentar escrito de acusación ante el Juez de Conocimiento, con el fin de dar inicio al juicio acusatorio adversarial y oral que se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación;
-
-XXII. Someter a autorización del juez, la suspensión del procedimiento a prueba, en los términos del Código de Procedimientos Penales y demás disposiciones aplicables;
-
-XXIII. Solicitar ante el Juez de Conocimiento, la preclusión de las investigaciones cuando, según lo dispuesto en la ley, no hubiere mérito para acusar;
-
-XXIV. Aportar las pruebas y promover las diligencias conducentes para la debida comprobación de la existencia del delito, las circunstancias en que hubiese sido cometido y las peculiares del inculpado, de la responsabilidad penal, de la existencia de los daños y perjuicios, así como para la fijación del monto de su reparación, en términos del Código de Procedimientos Penales y demás disposiciones aplicables;
-
-XXV. Garantizar que a la víctima u ofendido por el delito, se le reciban todos los datos o elementos de prueba con que cuente, tanto en la investigación como en el proceso; a que se desahoguen las diligencias correspondientes y su intervención en el juicio; así mismo le facilitará la interposición de los recursos en los términos que prevea la ley. Cuando según su criterio considere que no es necesario el desahogo de una diligencia, deberá fundar y motivar su negativa;
-
-XXVI. Participar en la audiencia del juicio, en el desahogo de las pruebas y en las deliberaciones finales;
-
-XXVII. En los casos que sea procedente, deberá solicitar la reparación del daño dentro del juicio, sin menoscabo de que la víctima u ofendido lo pueda gestionar directamente, caso en el cual el juez no podrá absolver al sentenciado si emite una sentencia condenatoria;
-
-XXVIII. Impugnar, en los términos previstos por la Ley, las resoluciones judiciales.
-
-XXIX. Cuidar que los juicios del orden penal se sigan con toda regularidad para que la administración de justicia sea pronta y expedita;
-
-XXX. Comparecer y promover todo lo que a la representación social corresponda, ante el Juez de Ejecución de Sanciones;
-
-XXXI. Intervenir, en su carácter de representante social, ante los órganos jurisdiccionales del orden civil y familiar, en la protección de los menores e incapaces y en los juicios en que de acuerdo con la ley de la materia, tenga intervención;
-
-XXXII. Poner a disposición del órgano jurisdiccional a los inimputables mayores de edad, a quienes se deberán aplicar medidas de seguridad, ejercitando las acciones correspondientes, en los términos establecidos por ley;
-
-XXXIII. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la Institución, y
-
-XXXIV. Cumplir las demás funciones que le señalen las leyes y reglamentos o que les sean encomendadas por el Fiscal General, o los fiscales especializados.
+XV. Las demás que le atribuyan las leyes aplicables.
 
 #### SECCION III.
 
@@ -2640,9 +2494,11 @@ En los casos de los incisos 2., 3. y 5., la controversia sólo procederá en los
 
 Las controversias constitucionales locales se sujetarán a lo siguiente:
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-1. Podrán promoverse por cualesquiera de las partes, según la controversia de que se trate. En las que el Ejecutivo sea parte, podrá estar representado por el Fiscal General, quien además podrá promover todas las que tengan por materia la seguridad pública y la procuración de justicia.
+1. Podrán promoverse por cualquiera de las partes, según la controversia de que se trate. En las que el Ejecutivo sea parte, podrá estar representado por el titular de la Consejería Jurídica.
+
+El Procurador General de Justicia, podrá promover todas las que tengan por materia la procuración de justicia;
 
 2. La controversia tendrá por objeto resolver sobre si el acto o los actos reclamados son conformes o contrarios a esta Constitución con base en el principio de supremacía constitucional establecido en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, y por vía de consecuencia declarar su validez o invalidez.
 
@@ -2658,9 +2514,9 @@ Las acciones de inconstitucionalidad locales se sujetarán a lo siguiente:
 
 1. Se podrán promover en forma abstracta por:
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente. En las materias de seguridad y procuración de justicia por el Fiscal General del Estado.
+a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente. En la materia de procuración de justicia podrán ser promovidas por el Procurador General de Justicia del Estado.
 
 b) El equivalente al diez por ciento de los integrantes del Poder Legislativo.
 
@@ -2750,7 +2606,7 @@ Estos principios están vinculados directamente con los valores, principios y ba
 
 ### CAPITULO UNICO.. De las Responsabilidades de los Servidores Públicos Estatales y Municipales
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 158-F.
 
@@ -3228,7 +3084,7 @@ Derechos Sociales y Prevenciones Generales.
 
 ###### Artículo 159.
 
-Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Fiscalía General, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal y en las entidades paraestatales y paramunicipales, así como a los servidores públicos de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
+Para los efectos de las responsabilidades a que alude este Título, se considerarán servidores públicos, los representantes de elección popular, los miembros del Poder Judicial y de la Procuraduría General de Justicia del Estado, los funcionarios y empleados del Estado, y de los Municipios, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal y en las entidades paraestatales y paramunicipales, así como a los integrantes de los organismos a los que esta Constitución otorga autonomía, quienes serán responsables por los actos y omisiones en que incurran en el desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3260,11 +3116,11 @@ Las leyes penales, por su parte, sancionarán el enriquecimiento ilícito, con e
 
 Todo ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, respecto de las conductas a que se refieren los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 163.
 
-Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Fiscal General del Estado, los fiscales especializados; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Fiscalía General del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
+Podrán ser sujetos de juicio político los diputados del Congreso del Estado; el Auditor Superior del Estado; el Gobernador del Estado; los Secretarios del ramo; los subsecretarios; el Procurador General de Justicia del Estado, los Subprocuradores; los directores generales o su equivalente en las entidades y los directores de las dependencias del Poder Ejecutivo y de la Procuraduría General de Justicia del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los presidentes, regidores y síndicos de los Ayuntamientos del Estado; los integrantes de los concejos municipales; los directores generales o sus equivalentes de las entidades paraestatales y paramunicipales; así como los titulares e integrantes de los consejos y asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -3280,19 +3136,19 @@ Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las
 
 Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### Artículo 165.
 
-Para proceder penalmente contra el Gobernador del Estado; los diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el Fiscal General del Estado y los fiscales especializados; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
+Para proceder penalmente contra el Gobernador del Estado; los diputados del Congreso del Estado; el Auditor Superior del Estado; los Magistrados del Tribunal Superior de Justicia; del Tribunal Electoral; del Tribunal de lo Contencioso-Administrativo; del Tribunal de Conciliación y Arbitraje; de los Tribunales Distritales; los jueces de primera instancia; los secretarios del ramo; el Procurador General de Justicia del Estado y los Subprocuradores; los presidentes, regidores y síndicos de los Ayuntamientos; los integrantes de los consejos municipales; y así como los titulares e integrantes de los consejos o asambleas generales de los organismos públicos autónomos, cualquiera que sea su denominación, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado deberá declarar mediante resolución de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado, sujetándose a la garantía de audiencia.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
 Si la resolución del Congreso del Estado fuere negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluído el ejercicio de su encargo, pues la resolución no prejuzga los fundamentos de la imputación.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del Gobernador del Estado, de los Diputados al Congreso del Estado, del Auditor Superior del Estado, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, del Fiscal General del Estado y los Fiscales Especializados y los titulares e integrantes de los consejos de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cuál fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
+Si el Congreso declara que ha lugar a proceder, el inculpado quedará a disposición de las autoridades competentes, para que actúen con arreglo a la ley. Cuando se trate del Gobernador del Estado, de los Diputados al Congreso del Estado, del Auditor Superior del Estado, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, del Procurador General de Justicia del Estado y los Subprocuradores y los titulares e integrantes de los consejos de los organismos públicos autónomos, cualquiera que sea su denominación, éstos quedarán sujetos a la acción del Pleno del Tribunal Superior de Justicia, el cual fallará en definitiva, previas las formalidades esenciales del procedimiento y con audiencia del inculpado, del Ministerio Público y del acusador, si lo hubiere.
 
 (REFORMADO, P.O. 27 DE ENERO DE 1984) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -4541,3 +4397,15 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las solicitudes de libertad preparatoria, remisión parcial de la sanción, modificación de sanción o cualquier otra que se encuentre pendiente de resolución al entrar en vigor este Decreto, serán resueltas por la autoridad administrativa que esté conociendo de ellas.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan a lo establecido por este Decreto.
+
+P.O. 8 DE ABRIL DE 2012.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- En tanto se expidan e inicien su vigencia las leyes que organicen las funciones de seguridad pública y procuración de justicia, conforme a esta reforma, seguirán en vigor las disposiciones relativas a la Fiscalía General del Estado y vigente el nombramiento de su titular.
+
+CUARTO.- En tanto se designa a los titulares de la Procuraduría General de Justicia del Estado y de la Secretaría de Seguridad Pública, el Gobernador del Estado designará a los respectivos encargados del despacho.
+
+QUINTO.- De conformidad con la naturaleza de las funciones de cada una de las áreas que actualmente integran la Fiscalía General del Estado, deberán transferirse los recursos financieros, humanos y materiales a la Procuraduría General de Justicia o la Secretaría de Seguridad Pública, según correspondan respetando los derechos laborales de todos los trabajadores.
