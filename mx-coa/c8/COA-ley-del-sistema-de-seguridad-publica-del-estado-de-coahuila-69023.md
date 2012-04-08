@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-19"
-last_updated: "2009-06-19"
+last_updated: "2012-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MAYO DE 2012 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de junio de 2009.
 
@@ -65,27 +67,31 @@ Sistema Estatal
 
 De conformidad con lo previsto por los artículos 21 y 115 de la Constitución General, la seguridad pública interna es una función a cargo del gobierno estatal y de los gobiernos municipales, según sus esferas de competencia.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Jerarquización del Sistema Estatal de Seguridad Pública
 
 ###### ARTÍCULO 4.
 
-En el Estado de Coahuila, la legislación sobre seguridad pública se integra por un conjunto de leyes que dimanan de la Constitución del Estado. Estas son la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza y la presente Ley.
+En el Estado de Coahuila, la legislación sobre seguridad pública se integra por un conjunto de leyes que dimanan de la Constitución del Estado. Estas son la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila y la presente Ley.
 
-Ley Orgánica de la Fiscalía General y demás disposiciones aplicables
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Disposiciones aplicables
 
 ###### ARTÍCULO 5.
 
-La Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza regula la función integral de seguridad pública, incluyendo las actividades de Policía Operativa, del Ministerio Público y de sus auxiliares, la Policía Investigadora y los peritos; contiene, además, las bases fundamentales para la coordinación entre el Estado y el Municipio.
+Esta ley y las disposiciones reglamentarias que de ella emanan, determinan las bases fundamentales para la coordinación entre el Estado y los municipios, además regulan la función de la Policía Estatal Preventiva y sus diferentes agrupaciones.
 
-Sus disposiciones las complementan las Leyes de Procuración de Justicia, de Ejecución de Sanciones Privativas y Restrictivas de la Libertad, de Justicia para Adolescentes, todas del Estado, sus respectivos reglamentos y demás disposiciones que resulten aplicables.
+Sus disposiciones las complementan las leyes de Procuración de Justicia del Estado de Coahuila de Zaragoza, la de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado de Coahuila, de Justicia para Adolescentes del Estado de Coahuila de Zaragoza, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y demás disposiciones que resulten aplicables.
 
-La Ley Orgánica de La Fiscalía General, es aplicable en la materia y deberá de acatarse en la interpretación y cumplimiento de las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Institución del Sistema Estatal
 
 ###### ARTÍCULO 6.
 
-La presente Ley, según lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y en la Ley Orgánica de la Fiscalía General, instituye el Sistema Estatal de Seguridad Pública.
+La presente Ley, según lo previsto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza instituye el Sistema Estatal de Seguridad Pública.
 
 Objeto de la Ley
 
@@ -111,9 +117,13 @@ VII. Concretar las funciones para el establecimiento de políticas de seguridad 
 
 VIII. Estructurar el sistema de información criminal;
 
-IX. Complementar las disposiciones de la Ley Orgánica de la Fiscalía General para acatar cabalmente las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+IX. Complementar las disposiciones de la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza para acatar cabalmente las disposiciones de la Ley General del Sistema Nacional de Seguridad Pública, y
 
 X. Establecer las obligaciones de la ciudadanía en relación con la seguridad pública que regula la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Glosario
 
@@ -121,61 +131,69 @@ Glosario
 
 Para los efectos de esta Ley se entiende por:
 
-I. Constitución General: La Constitución Política de los Estados Unidos Mexicanos;
+I. Agentes de policía: las personas físicas al servicio de las fuerzas de seguridad pública estatales y municipales, sin distinción de categoría, cargo, grado ni adscripción;
 
-II. Constitución del Estado: La Constitución Política del Estado de Coahuila de Zaragoza;
+II. Centro de Evaluación: Centro de Evaluación y Control de Confianza;
 
-III. Ley General del Sistema Nacional: La Ley General del Sistema Nacional de Seguridad Pública;
+III. Centro de Prevención: El Centro Estatal de Prevención Social de la Violencia y la Delincuencia;
 
-IV. Ley Orgánica de la Fiscalía: La Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza;
+IV. Centro de Profesionalización: El Centro de Profesionalización, Acreditación, Certificación y Carrera;
 
-V. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila;
+V. Consejo de Estado: El Consejo integrado por el Gabinete Legal;
 
-VI. Estado: El Estado de Coahuila de Zaragoza;
+VI. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
-VII. Municipios: Los 38 Municipios del Estado de Coahuila;
+VII. Consejo Municipal: Los Consejos Municipales de Seguridad Pública;
 
-VIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública;
+VIII. Constitución del Estado: La Constitución Política del Estado de Coahuila de Zaragoza;
 
-IX. Sistema Estatal: El Sistema Estatal de Seguridad Pública;
+IX. Constitución General: La Constitución Política de los Estados Unidos Mexicanos;
 
-X. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
+X. Dependencias o instituciones: Las Subsecretarías, Subprocuradurías, direcciones generales, delegaciones regionales, direcciones de área, subdirecciones, centros, unidades y, en general, a toda organización interior, tanto de la Secretaría de Seguridad Pública como de la Procuraduría General de Justicia del Estado o de los gobiernos del estado y los municipios;
 
-XI. Consejo Municipal: Los Consejos Municipales de Seguridad Pública;
+XI. Estado: El Estado de Coahuila de Zaragoza;
 
-XII. Plan Estatal: El Plan Estatal de Seguridad Pública;
+XII. Fuerzas de seguridad pública estatales: Las corporaciones policiales de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
 
-XIII. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
+XIII. Fuerzas de seguridad pública municipales: Las fuerzas de seguridad pública de los Municipios;
 
-XIV. Fiscalía General: La Fiscalía General del Estado de Coahuila de Zaragoza;
+XIV. Funcionarios: Los servidores públicos que desempeñen tareas de administración, fiscalización, mando o coordinación en materia de seguridad pública;
 
-XV. Fiscal General: El Fiscal General del Estado de Coahuila de Zaragoza;
+XV. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
 
-XVI. Fiscales Especializados: Los Fiscales Ministerial, de Investigación y Operación Policial; Jurídico, de Profesionalización y de Proyectos; de Inteligencia y Políticas Públicas;
+XVI. Ley de Procuración de Justicia: La Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza;
 
-XVII. Fiscal Ministerial: Fiscal Especializado Ministerial, de Investigación y Operación Policial;
+XVII. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila;
 
-XVIII. Fiscal Jurídico: Fiscal Especializado Jurídico, de Profesionalización y de Proyectos;
+XVIII. Ley General del Sistema Nacional: La Ley General del Sistema Nacional de Seguridad Pública;
 
-XIX. Fiscal de Inteligencia: Fiscal Especializado, de Inteligencia y Políticas Públicas;
+XIX. Municipios: Los 38 municipios del estado de Coahuila de Zaragoza;
 
-XX. Centro de Profesionalización: El Centro de Profesionalización, Acreditación, Certificación y Carrera;
+XX. Prevención Social del Delito o Prevención Social de la Violencia y la Delincuencia. El conjunto de políticas, estrategias e intervenciones orientadas a reducir el riesgo de que se produzcan delitos e infracciones administrativas, los efectos perjudiciales para las personas y la sociedad, incluido el temor a la delincuencia, así como a intervenir para influir en sus múltiples causas y manifestaciones;
 
-XXI. Programa Rector de Profesionalización: Programa Rector de Profesionalización Ministerial, Pericial y Policial;
+XXI. Procurador: El Procurador General de Justicia del Estado de Coahuila de Zaragoza;
 
-XXII. Centro de Inteligencia: El Centro de Inteligencia y Políticas Públicas de Seguridad y Procuración de Justicia;
+XXII. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
 
-XXIII. Dependencias, o instituciones: Las fiscalías especializadas, direcciones generales, delegaciones regionales, direcciones de área, subdirecciones, centros, unidades y, en general, a toda organización interior de la Fiscalía General o de los gobiernos del Estado y los Municipios;
+XXIII. Programa Estatal: El Programa Estatal de Seguridad Pública;
 
-XXIV. Funcionarios: Los servidores públicos que desempeñen tareas de administración, fiscalización, mando o coordinación en materia de Seguridad Pública;
+XXIV. Programa Rector de Profesionalización: Programa Rector de Profesionalización Ministerial, Pericial y Policial;
 
-XXV. Fuerzas de seguridad pública estatales: Las fuerzas de seguridad pública de la Fiscalía General;
+XXV. Reglamento Interior: El Reglamento Interior de la Secretaría de Seguridad Pública del Estado;
 
-XXVI. Fuerzas de seguridad pública municipales: Las fuerzas de seguridad pública de los Municipios, y (sic)
+XXVI. Secretaría de Seguridad: La Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza;
 
-XXVII. Agentes de policía: las personas físicas al servicio de las fuerzas de seguridad de la Fiscalía General y de los Municipios, sin distinción de categoría, cargo, grado ni adscripción;
+XXVII. Secretario de Seguridad: El titular de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza;
 
-XXVIII. Servicio de Carrera Policial: Servicio Profesional de Carrera Policial.
+XXVIII. Servicio de Carrera Policial: Servicio Profesional de Carrera Policial;
+
+XXIX. Sistema Estatal: El Sistema Estatal de Seguridad Pública;
+
+XXX. Sistema Nacional: El Sistema Nacional de Seguridad Pública;
+
+XXXI. Subprocuradores: Los titulares de las subprocuradurías de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, y
+
+XXXII. Subsecretarios: Los titulares de las subsecretarías de Operación Policial; de Desarrollo Policial; de Políticas Públicas e Información, de la Secretaría de Seguridad Pública del Estado de Coahuila de Zaragoza.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -207,21 +225,29 @@ III. Mantener, una relación de respeto y de colaboración mutua para el desarro
 
 IV. Celebrar los convenios de coordinación;
 
-V. Entregar a la Fiscalía General la información de personal, criminal y estadística relativa a seguridad pública;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+V. Entregar a la Secretaría de Seguridad la información de personal, criminal y estadística relativa a seguridad pública;
 
 VI. Consultar a través del Registro de Seguridad Pública del Estado, los registros nacionales y estatales, antes de aceptar a los aspirantes y de contratar a los agentes de la policía;
 
-VII. Profesionalizar a los agentes de la policía, del Ministerio Público y a los peritos, de conformidad con las instituciones, planes y programas de la Fiscalía General y el Programa Rector de Profesionalización;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-VIII. Observar y respetar las disposiciones de la Ley Orgánica de la Fiscalía y de esta Ley relativas a la carrera, certificación, control de confianza y procedimientos por responsabilidad administrativa del personal de seguridad pública, y
+VII. Profesionalizar a los agentes de la policía, del Ministerio Público y a los peritos, de conformidad con las instituciones, planes y programas de la Secretaría de Seguridad y la Procuraduría, así como con el Programa Rector de Profesionalización;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+VIII. Observar y respetar las disposiciones de la Ley de Procuración de Justicia, esta ley y las disposiciones reglamentarias que emanen de ellas, relativas a la carrera, certificación, control de confianza y procedimientos por responsabilidad administrativa del personal de seguridad pública, y
 
 IX. Las demás que sean aplicables de conformidad con las leyes, reglamentos y convenios de seguridad pública.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Deberes Propios del Estado
 
 ###### ARTÍCULO 12.
 
-El Estado en materia de seguridad pública tiene los deberes y atribuciones prescritos en la Constitución del Estado, en la Ley Orgánica de la Fiscalía General, esta Ley y demás disposiciones legales aplicables.
+El Estado en materia de seguridad pública tiene los deberes y atribuciones prescritos en la Constitución del Estado, en esta ley y demás disposiciones legales aplicables.
 
 Deberes de los Municipios
 
@@ -233,21 +259,31 @@ I. Formar parte del Consejo Estatal;
 
 II. Expedir los bandos y reglamentos de policía y gobierno, circulares y demás disposiciones de seguridad pública;
 
-III. Elaborar, aprobar y emitir el Plan de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-IV. Elaborar, aprobar y emitir el Plan Integral de prevención social del delito;
+III. Elaborar, aprobar y emitir el Programa de Seguridad Pública Municipal;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+IV. Elaborar, aprobar y emitir el Programa Integral de prevención social del delito;
 
 V. Constituir la comisión de regidores responsable de supervisar y verificar que se cumplan las disposiciones del Ayuntamiento sobre seguridad pública;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 VI. Integrar el Consejo Consultivo Municipal como órgano normativo y de consulta en materia de seguridad pública municipal;
 
 VII. Integrar el Consejo Municipal de Protección Civil, como órgano consultivo y de participación ciudadana para la atención inmediata y eficaz de emergencias que afecten al Municipio;
 
-VIII. Promover la participación de los sectores sociales en el estudio y solución de los problemas de seguridad pública municipal, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+VIII. Promover la participación de los sectores sociales en el estudio y solución de los problemas de seguridad pública municipal;
 
 IX. Formar parte, a través de los Presidentes Municipales, del Sistema Estatal, el Consejo Estatal y el Consejo Municipal de Seguridad Pública; así como a cumplir y hacer cumplir cabalmente las disposiciones que dicten esos organismos;
 
-X. Proporcionar a la Fiscalía General la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+X. Proporcionar a la Secretaría de Seguridad la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad, y
 
 XI. Las demás que contemple la legislación aplicable.
 
@@ -259,11 +295,17 @@ El Sistema Estatal se integra por:
 
 I. El Titular del Ejecutivo Estatal, quien lo presidirá;
 
-II. La Fiscalía General;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-III. Los Ayuntamientos, y
+II. La Secretaría de Seguridad;
 
-IV. Los Consejos y Comités de Seguridad Pública
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+III. La Procuraduría;
+
+IV. Los Ayuntamientos, y
+
+V. Los Consejos y Comités de Seguridad Pública
 
 ### CAPÍTULO SEGUNDO. DE LAS BASES GENERALES DE LA COORDINACIÓN
 
@@ -275,13 +317,15 @@ Competencia Concurrente
 
 La seguridad pública corresponde a la Federación, al Estado y a los Municipios, en el ámbito de su respectiva competencia, por lo cual la responsabilidad de cada orden de gobierno se desarrollará de manera conjunta con respecto a los otros, conforme a sus atribuciones legales y dentro de un ámbito de coordinación y colaboración.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Intervención Subsidiaria del Estado
 
 ###### ARTÍCULO 16.
 
-En caso de ocurrir situaciones graves que pongan en riesgo el orden y la paz pública de una comunidad, ó la corporación de policía preventiva municipal no cuente con recursos humanos profesionales ó de equipamiento suficientes, el Estado a petición del propio municipio ó, de manera oficiosa, podrá asumir el mando temporal de la policía preventiva municipal a través de la Fiscalía General, hasta en tanto se restablezcan las condiciones de normalidad.
+En caso de ocurrir situaciones graves que pongan en riesgo el orden y la paz pública de una comunidad o la corporación de policía preventiva municipal no cuente con recursos humanos profesionales o de equipamiento suficientes, el Estado a petición del propio municipio o, de manera oficiosa, podrá asumir el mando temporal de la policía preventiva municipal a través de la Secretaría de Seguridad, hasta en tanto se restablezcan las condiciones de normalidad.
 
-Frente a una situación de emergencia, natural o humana, que rebase las posibilidades de los Municipios afectados, el mando y la coordinación de las policías preventivas municipales quedará bajo la responsabilidad de la Fiscalía General, a través del Fiscal Ministerial, hasta en tanto cese la emergencia.
+Frente a una situación de emergencia, natural o humana, que rebase las posibilidades de los municipios afectados, el mando y la coordinación de las policías preventivas municipales quedará bajo la responsabilidad de la Secretaría de Seguridad, a través del subsecretario de operación policial, hasta en tanto cese la emergencia.
 
 Intervención Convencional del Estado
 
@@ -291,11 +335,13 @@ En caso de que el Municipio no cuente con condiciones para prestar el servicio d
 
 #### SECCIÓN SEGUNDA. DE LOS FINES Y PROPÓSITOS DE LA COORDINACIÓN
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Bases de Coordinación
 
 ###### ARTÍCULO 18.
 
-Las políticas, programas y acciones de coordinación se efectuarán con base en las leyes y reglamentos aplicables, los acuerdos y resoluciones del Consejo Estatal, de los convenios que se celebren con arreglo a la legislación aplicable y los acuerdos del Consejo Interior de la Fiscalía General. Los acuerdos y los convenios tendrán carácter obligatorio para todos los participantes.
+Las políticas, programas y acciones de coordinación se efectuarán con base en las leyes y reglamentos aplicables, los acuerdos y resoluciones del Consejo Estatal, así como de los convenios que se celebren con arreglo a la legislación aplicable. Los acuerdos y los convenios tendrán carácter obligatorio para todos los participantes.
 
 Contenido
 
@@ -391,23 +437,29 @@ IX. La participación ciudadana y las instancias y procedimientos pertinentes pa
 
 X. Las relacionadas con las anteriores, que sean convenientes para incrementar la eficacia de las medidas y acciones tendientes a alcanzar la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Acciones de la Coordinación
 
 ###### ARTÍCULO 24.
 
-Conforme a las bases que establece la Constitución General, la Constitución del Estado, la Ley General del Sistema Nacional, la Ley Orgánica de la Fiscalía General, esta Ley y demás ordenamientos aplicables, el Estado y los Municipios, en el ámbito de su competencia, realizarán las siguientes acciones de coordinación:
+Conforme a las bases que establecen la Constitución General, la Constitución del Estado, la Ley General del Sistema Nacional, esta ley, la Ley de Procuración de Justicia del Estado y demás ordenamientos aplicables, el Estado y los municipios, en el ámbito de su competencia, realizarán las siguientes acciones de coordinación:
 
 I. Integrar el Sistema Estatal de Seguridad Pública y cumplir con sus objetivos y fines;
 
 II. Conformar el Consejo Estatal;
 
-III. Aprobar, aplicar, operar y evaluar los Planes Estatal y Municipal de Seguridad;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+III. Aprobar, aplicar, operar y evaluar los programas estatal y municipal de seguridad;
 
 IV. Formular políticas integrales, sistemáticas, continuas y evaluables, así como programas y estrategias, en materia de seguridad pública;
 
 V. Ejecutar, dar seguimiento y evaluar las políticas, estrategias y acciones, a través de las instancias previstas en esta ley;
 
-VI. Regular la carrera policial, ministerial y de servicios policiales, los estudios, los reconocimientos, certificación y registro de los servidores públicos de las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+VI. Regular la carrera policial, ministerial y de servicios periciales, los estudios, los reconocimientos, certificación y registro de los servidores públicos de las instituciones de seguridad pública;
 
 VII. Regular los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas;
 
@@ -421,17 +473,21 @@ XI. Coadyuvar en la protección y vigilancia de las instalaciones estratégicas 
 
 XII. Invitar a la comunidad y a las instituciones académicas a coadyuvar en la evaluación de la seguridad pública y la prevención del delito;
 
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
 XIII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
 
 XIV. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos, y
 
 XV. Realizar las demás acciones previstas en la legislación aplicable, o que sean necesarias para incrementar la coordinación y coparticipación en los fines y acciones de seguridad pública.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Casos Urgentes
 
 ###### ARTÍCULO 25.
 
-Los miembros de las fuerzas de seguridad pública ajustarán su actuación en los casos de coordinación urgente y de coordinación con las fuerzas de seguridad pública de la Federación, los demás Estados, el Distrito Federal, así como con los Municipios de otras entidades federativas a la normatividad establecida en la Ley Orgánica de la Fiscalía General y en la Ley General del Sistema Nacional.
+Los miembros de las fuerzas de seguridad pública ajustarán su actuación en los casos de coordinación urgente y de coordinación con las fuerzas de seguridad pública de la Federación, los demás Estados, el Distrito Federal, así como con los municipios de otras entidades federativas a la normatividad establecida en esta ley, la Ley General del Sistema Nacional y demás disposiciones aplicables.
 
 #### SECCIÓN CUARTA. DE LA COORDINACIÓN EN MATERIA DE INSTALACIONES ESTRATÉGICAS
 
@@ -441,13 +497,15 @@ Concepto
 
 Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución General y por la Constitución del Estado, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Resguardo de Instalaciones Estatales
 
 ###### ARTÍCULO 27.
 
-La Fiscalía General tiene la obligación de proteger sus propias instalaciones, y de coadyuvar en la protección de la integridad física y las operaciones de las instalaciones estratégicas estatales y municipales en los casos urgentes, o cuando se le solicite y sea procedente.
+La Secretaría de Seguridad y la Procuraduría tienen la obligación de proteger sus propias instalaciones, y de coadyuvar en la protección de la integridad física y las operaciones de las instalaciones estratégicas estatales y municipales en los casos urgentes, o cuando se le solicite y sea procedente.
 
-El resguardo de las instalaciones estratégicas estatales estará a cargo de la Fiscalía General.
+El resguardo de las instalaciones estratégicas estatales estará a cargo de la Secretaría de Seguridad.
 
 Instalaciones Estratégicas Estatales
 
@@ -455,11 +513,13 @@ Instalaciones Estratégicas Estatales
 
 Son instalaciones estratégicas estatales los bienes inmuebles y muebles, incluyendo documentos, fotografías y todo tipo de materiales y objetos de cómputo y electrónicos, que las leyes y reglamentos que así los clasifiquen, o que estén destinados a funciones prioritarias de gobierno, de salubridad, comunicaciones o seguridad pública.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Coadyuvancia Municipal
 
 ###### ARTÍCULO 29.
 
-Los Municipios están obligados a auxiliar a la Fiscalía General en la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
+Los municipios están obligados a auxiliar a la Secretaría de Seguridad y a la Procuraduría en la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
 
 Instalaciones Estratégicas Municipales
 
@@ -467,73 +527,93 @@ Instalaciones Estratégicas Municipales
 
 El resguardo de las instalaciones estratégicas municipales estará a cargo de los Municipios a través de los Presidentes Municipales y de las Direcciones de Policía Preventiva Municipales.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Solicitud de auxilio
 
 ###### ARTÍCULO 31.
 
-Los Municipios podrán solicitar el auxilio de la Fiscalía General para la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
+Los municipios podrán solicitar el auxilio de la Secretaría de Seguridad y la Procuraduría para la vigilancia y el mantenimiento o, en su caso, el restablecimiento del orden y la seguridad en sus instalaciones estratégicas.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Coadyuvancia con la Federación
 
 ###### ARTÍCULO 32.
 
-La Fiscalía General, y los Municipios tienen la obligación de coadyuvar con las autoridades federales en la protección y desarrollo de las acciones necesarias para vigilar y garantizar la integridad y operación de las instalaciones estratégicas nacionales destinadas al funcionamiento, mantenimiento y operación de las actividades así calificadas en la Constitución General; así como aquellas que se usen en las funciones relativas al mantenimiento de la integridad, estabilidad y permanencia del Estado Mexicano.
+La Secretaría de Seguridad, la Procuraduría y los municipios tienen la obligación de coadyuvar con las autoridades federales en la protección y desarrollo de las acciones necesarias para vigilar y garantizar la integridad y operación de las instalaciones estratégicas nacionales destinadas al funcionamiento, mantenimiento y operación de las actividades así calificadas en la Constitución General; así como aquellas que se usen en las funciones relativas al mantenimiento de la integridad, estabilidad y permanencia del Estado Mexicano.
 
-#### SECCIÓN QUINTA. DE LA COORDINACIÓN PARA LA PREVENCIÓN DEL DELITO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-Programas
+#### SECCIÓN QUINTA. DE LA COORDINACIÓN PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Subsistema Estatal de Prevención Social de la Delincuencia
 
 ###### ARTÍCULO 33.
 
-La Fiscalía General y los Municipios incorporarán en el Plan Estatal y en los Planes Municipales de Seguridad Pública, los programas necesarios para fomentar la cultura de la prevención del delito y el desarrollo de los valores sociales.
+Dentro del Sistema Estatal de Seguridad Pública se establecerá el subsistema de prevención social de la delincuencia. El Centro Estatal de Prevención, es la autoridad competente para llevar a cabo las acciones previstas en esta ley y en los demás ordenamientos correspondientes en materia de prevención social de la violencia y la delincuencia.
 
-Contenido
+La Secretaría de Seguridad, la Procuraduría y los municipios incorporarán en el programa estatal y en los programas municipales de seguridad pública, los subprogramas necesarios para fomentar la cultura de la prevención de la violencia y la delincuencia y el desarrollo de los valores sociales.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 34.
 
-De conformidad con los lineamientos del Sistema Nacional, los Programas Integrales de Prevención del Delito, incluirán los siguientes subprogramas:
+De conformidad con los lineamientos del Sistema Nacional, los Programas Integrales de Prevención de la Delincuencia, incluirán los siguientes subprogramas:
 
 I. Prevención criminógena, para formular una política de prevención de alcances estatal o municipal, según corresponda, que contribuya a preservar el orden y la paz pública;
 
 II. Fortalecimiento de los valores familiares, a efecto de coadyuvar a la preservación de la integridad familiar;
 
-III. Prevención del delito en el ámbito educativo, para fomentar en los estudiantes la cultura de la prevención de las conductas antisociales;
+III. Prevención del delito en el ámbito educativo, para fomentar en los estudiantes, padres de familia y docentes, la cultura de la prevención de las conductas antisociales;
 
-IV. Cultura, deporte y recreación para la prevención del delito, con el propósito de reforzar el respeto a la legalidad y a los valores cívicos;
+IV. Cultura, deporte y recreación para la prevención de la delincuencia, con el propósito de reforzar el respeto a la legalidad y a los valores cívicos;
 
-V. Prevención del delito a través de campañas de difusión en los diferentes medios de comunicación, y
+V. Prevención de la delincuencia a través de campañas de difusión en los diferentes medios de comunicación, y
 
 VI. Prevención del delito y conductas infractoras en el ámbito laboral, para promover la participación de ese sector en la prevención de la comisión de los delitos y faltas en los centros de trabajo y su entorno.
 
-### CAPÍTULO TERCERO. DEL PLAN ESTATAL DE SEGURIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Propósitos
 
 ###### ARTÍCULO 35.
 
-El Estado y los Municipios concretizarán la práctica de los propósitos, fines y materias de la coordinación en el Plan Estatal.
+El estado y los municipios concretizarán la práctica de los propósitos, fines y materias de la coordinación en el programa estatal.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Contenido
 
 ###### ARTÍCULO 36.
 
-El Plan Estatal es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Fiscalía General y los Municipios.
+El programa estatal es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Secretaría de Seguridad y la Procuraduría, y los municipios.
 
-Integración a los Planes Estatal y Municipales
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Integración a los programas estatal y municipales
 
 ###### ARTÍCULO 37.
 
-El Plan Estatal se integra en el Estado al Plan Estatal de Desarrollo, y en los Municipios al Plan de Desarrollo Municipal.
+El programa estatal se integra en el estado al Plan Estatal de Desarrollo, y en los municipios a los planes municipales de desarrollo.
 
-Autoridad y término para la elaboración y aprobación de los Planes
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Autoridad y término para la elaboración y aprobación de los programas
 
 ###### ARTÍCULO 38.
 
-El proyecto del Plan Estatal lo elaborará la Fiscalía General y deberá presentarlo oportunamente al Gobernador, para que lo proponga al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
+El proyecto del programa estatal lo elaborará la Secretaría de Seguridad, integrando en lo conducente el proyecto que presente la Procuraduría General, y deberá presentarlo oportunamente al gobernador, para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
 
-El proyecto del Plan Municipal lo elaborará el Consejo Consultivo Municipal y deberá presentarlo oportunamente al Ayuntamiento, para que lo apruebe y proponga al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
+Los proyectos de los programas municipales los elaborarán los consejos consultivos municipales y deberán presentarlo oportunamente a sus ayuntamientos, para que lo aprueben y propongan al Consejo Estatal para su evaluación dentro de los primeros tres meses del año de ejercicio.
 
-El incumplimiento en la elaboración, presentación y ejecución de los planes dará lugar a la imposición de las sanciones que el propio Consejo Estatal determine.
+El incumplimiento en la elaboración, presentación y ejecución de los programas dará lugar a la imposición de las sanciones que el propio consejo estatal determine.
 
 ### CAPÍTULO CUARTO. DE LAS INSTANCIAS DEL SISTEMA ESTATAL
 
@@ -545,45 +625,51 @@ Concepto
 
 El Consejo Estatal es el órgano interinstitucional superior de coordinación, supervisión y seguimiento del Sistema Estatal.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Integración
 
 ###### ARTÍCULO 40.
 
-El Consejo Estatal se integrará por:
+El consejo estatal se integrará por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Presidente del Tribunal Superior de Justicia del Estado;
 
-III. El Fiscal General;
+III. El titular de la Secretaría de Seguridad;
 
-IV. El Secretario de Gobierno;
+IV. El titular de la Procuraduría;
 
-V. El Secretario de Finanzas;
+V. El titular de la Secretaría de Gobierno;
 
-VI. El Presidente de la Comisión de Seguridad Pública del Congreso del Estado;
+VI. El titular de la Secretaría de Finanzas;
 
-VII. El Fiscal de Inteligencia y Políticas Públicas, quien será el Secretario Ejecutivo, y (sic)
+VII. Un representante del Congreso del Estado;
 
-VIII. Un representante del Consejo Ciudadano de Vinculación Social;
+VIII. El titular de la Subsecretaría de Políticas Públicas e información, quien será el Secretario Ejecutivo;
 
-IX. Los Presidentes Municipales;
+IX. Un representante del consejo ciudadano de vinculación social;
 
-X. El Delegado de la Procuraduría General de la República;
+X. Los presidentes municipales;
 
-XI. El Comandante de la Sexta Zona Militar;
+XI. El delegado de la Procuraduría General de la República;
 
-XII. El Comandante de las Fuerzas Federales en el Estado;
+XII. El comandante de la Sexta Zona Militar, y
 
-Cada uno de los miembros del Consejo contará con un suplente designado por el titular, los cuales figurarán en el acta de suplentes respectiva. Los suplentes obrarán en nombre y por cuenta del titular; en el caso de que la suplencia recaiga en un integrante del propio Consejo su voto contará doble.
+XIII. El comandante de las Fuerzas Federales en el estado; (sic)
 
-El Consejo podrá invitar, por la naturaleza de sus asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública y procuración de justicia. Dicha participación será con carácter honorífico. Así mismo, el Presidente de la Comisión de Derechos Humanos del Estado de Coahuila, será invitado permanentemente de este Consejo. Estos últimos tendrán derecho a voz pero no a voto.
+Sólo en caso debidamente justificado, el gobernador podrá hacerse representar por el Secretario de Gobierno, quien presidirá la sesión del consejo informando de inmediato el resultado al titular del ejecutivo. En ningún otro caso se admitirá suplencia.
+
+El consejo estatal podrá invitar, por la naturaleza de sus asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública y procuración de justicia. Dicha participación será con carácter honorífico. Así mismo, el presidente de la Comisión de Derechos Humanos del Estado de Coahuila, será invitado permanentemente de este consejo estatal. Estos últimos tendrán derecho a voz pero no a voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Funcionamiento
 
 ###### ARTÍCULO 41.
 
-El Consejo Estatal funcionará en Pleno o en las comisiones previstas en la Ley Orgánica de la Fiscalía. El Pleno se reunirá de manera ordinaria por lo menos cada seis meses y de manera extraordinaria cuando así se requiera. En ambos casos a convocatoria de su Presidente.
+El consejo estatal funcionará en pleno o en las comisiones previstas en las disposiciones correspondientes. El pleno se reunirá de manera ordinaria por lo menos cada seis meses y de manera extraordinaria cuando así se requiera. En ambos casos a convocatoria de su presidente.
 
 El quórum para las reuniones del Consejo Estatal se integrará con la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los presentes.
 
@@ -597,9 +683,13 @@ Competencia
 
 El Consejo Estatal es el órgano competente para:
 
-I. Revisar el proyecto del Plan Estatal y aprobarlo en definitiva;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-II. Supervisar y evaluar la ejecución del Plan Estatal;
+I. Revisar el proyecto del programa estatal y someterlo a aprobación en los términos de esta ley, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+II. Supervisar y evaluar la ejecución del programa estatal;
 
 III. Emitir, anualmente, la autorización para que el Comité de Estrategias y Financiamiento defina la distribución, o rectificación de los recursos para la seguridad pública que aporten los fondos federales y estatales, observando, cuando proceda, los lineamientos generales del Consejo Nacional de Seguridad Pública y la normatividad aplicable;
 
@@ -607,7 +697,9 @@ IV. Designar dos presidentes municipales para que se integren al Comité de Estr
 
 V. Llevar a cabo la evaluación periódica de los programas de seguridad pública y prevención del delito y los otros relacionados;
 
-VI. Coordinar sus planes y acciones con el Sistema Nacional;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+VI. Coordinar sus programas y acciones con el Sistema Nacional;
 
 VII. Observar los acuerdos, lineamientos y políticas emitidos por el Consejo Nacional;
 
@@ -621,23 +713,33 @@ XI. Participar con carácter temporal o permanente en las instancias regionales 
 
 XII. Promover la implementación de políticas generales de seguridad, prevención y de atención a víctimas del delito;
 
-XIII. Auspiciar el establecimiento de unidades de consulta y participación de la comunidad en las Instituciones de Seguridad Pública Estatales y Municipales; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-XIV. Las demás que se establezcan en otras disposiciones normativas.
+XIII. Auspiciar el establecimiento de unidades de consulta y participación de la comunidad en las instituciones de seguridad pública estatales y municipales;
 
-Comité De Estrategias y Financiamiento
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+XIV. Coordinar y definir la política pública en materia de prevención social de la violencia y la delincuencia, y
+
+XV. Las demás que se establezcan en otras disposiciones normativas
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Comité de estrategias y financiamiento
 
 ###### ARTÍCULO 43.
 
-El Comité de Estrategias y Financiamiento es el órgano interno del Consejo Estatal, para definir, previa autorización general del Consejo Estatal, y de acuerdo a las necesidades del Estado, la distribución y, en su caso, la rectificación de destino de los recursos para la seguridad pública que se aporten de los fondos federales y estatales, observando, cuando proceda, los lineamientos generales del Consejo Nacional de Seguridad Pública y la normatividad aplicable.
+El comité de estrategias y financiamiento es el órgano interno del consejo estatal, para definir, previa autorización general del consejo estatal, y de acuerdo a las necesidades del estado, la distribución y, en su caso, la rectificación del destino de los recursos para la seguridad pública que se aporten de los fondos federales y estatales, observando, cuando proceda, los lineamientos generales del consejo nacional de seguridad pública y la normatividad aplicable.
 
-La integración, atribuciones y operación del Comité, están previstas en la Ley Orgánica de la Fiscalía General.
+La integración, atribuciones y operación de este comité, están previstas en el reglamento interior.
 
-Secretariado Ejecutivo del Consejo Estatal
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Secretariado ejecutivo del consejo estatal
 
 ###### ARTÍCULO 44.
 
-El Secretariado Ejecutivo es el órgano operativo del Consejo Estatal. Contará con el personal y el auxilio de las dependencias de la Institución; y cumplirá en todo caso con el objeto, deberes y funciones que el propio Consejo establezca, conforme a lo previsto en Ley Orgánica de la Fiscalía General.
+El secretariado ejecutivo es el órgano operativo del consejo estatal. Contará con el personal y el auxilio de las dependencias de la institución; y cumplirá en todo caso con el objeto, deberes y funciones que el propio consejo establezca, conforme a lo previsto en el reglamento interior.
 
 #### SECCIÓN SEGUNDA. DE LOS CONSEJOS CONSULTIVOS MUNICIPALES Y REGIONALES
 
@@ -667,29 +769,37 @@ Los Consejos Consultivos Municipales y los Regionales, en coordinación con las 
 
 #### SECCIÓN TERCERA. DE LA AUTORIDAD COORDINADORA
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Competencia
 
 ###### ARTÍCULO 49.
 
-La Fiscalía General es el organismo competente para organizar, coordinar, dirigir y supervisar la operación del Sistema Estatal, los acuerdos del Consejo Estatal y el Plan Estatal.
+La Secretaría de Seguridad es la dependencia competente para organizar, coordinar, dirigir y supervisar la operación del sistema estatal, los acuerdos del consejo estatal y el programa estatal.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Funciones
 
 ###### ARTÍCULO 50.
 
-Las funciones de la Fiscalía General dentro del Sistema Estatal son las previstas en las legislaciones federal y estatal aplicables, en su propia Ley Orgánica, en esta Ley y en los otros reglamentos que sean aplicables.
+Las funciones de la Secretaría de Seguridad dentro del Sistema Estatal son las previstas en las legislaciones federal y estatal aplicables, en esta ley, en su propio reglamento interior y otras disposiciones aplicables.
 
 ## TÍTULO TERCERO. DEL PRESUPUESTO DEL SISTEMA ESTATAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Patrimonio de la Fiscalía General
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Patrimonio de la Secretaría de Seguridad
 
 ###### ARTÍCULO 51.
 
-Para el cumplimiento de las materias de seguridad pública, la Fiscalía General contará con los siguientes recursos:
+Para el cumplimiento de las materias de seguridad pública, la Secretaría de Seguridad contará con los siguientes recursos:
 
-I. Los que se asignen en el presupuesto estatal a la Fiscalía General;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+I. Los que se asignen en el presupuesto estatal a la Secretaría de Seguridad;
 
 II. Los fondos que asignen la Federación y el Sistema Nacional al Estado; y
 
@@ -707,27 +817,33 @@ II. Los fondos que asignen la Federación y el Sistema Nacional a los Municipios
 
 III. Los derechos y fondos que perciba con motivo de convenios o productos relativos a la prestación de servicios de seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Otras Fuentes
 
 ###### ARTÍCULO 53.
 
-El Gobernador por sí o por conducto del Fiscal General, y los Municipios implementarán las medidas que contribuyan a la recaudación y obtención de fondos y recursos para el financiamiento de la seguridad pública, conforme a las siguientes disposiciones:
+El gobernador por sí o por conducto del Secretario de Seguridad, y los municipios implementarán las medidas que contribuyan a la recaudación y obtención de fondos y recursos para el financiamiento de la seguridad pública, conforme a las siguientes disposiciones:
 
 I. Las formas y actividades de recaudación, obtención o de financiamiento que se implementen serán independientes de las aportaciones que el Presupuesto de Egresos del Estado, la Federación y el Sistema Nacional destinen a la seguridad pública, y
 
 II. Para la obtención de recursos para la seguridad pública los gobiernos del Estado y de los Municipios fomentarán la participación de los diversos grupos sociales, debiendo asegurarse que sean de procedencia lícita.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Administración de Recursos e Ingresos
 
 ###### ARTÍCULO 54.
 
-La Fiscalía General y los Municipios percibirán los recursos e ingresos referidos en los artículos anteriores y, según corresponda, los administrarán y responderán por ellos de manera independiente.
+La Secretaría de Seguridad y los municipios percibirán los recursos e ingresos referidos en los artículos anteriores y, según corresponda, los administrarán y responderán por ellos de manera independiente.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Fiscalización de Fondos Municipales
 
 ###### ARTÍCULO 55.
 
-La Fiscalía General, a través de la Dirección General de Responsabilidades, de acuerdo a su normatividad y programas, fiscalizará el uso de los recursos estatales y federales que, en virtud de esta Ley, se destinen a los Municipios, sin menoscabo de las atribuciones de las autoridades federales.
+La Secretaría de de (sic) Fiscalización y Rendición de Cuentas, a través de la unidad administrativa que designe el titular, y con auxilio de la unidad correspondiente de la Secretaría de Seguridad Pública, fiscalizará el uso de los recursos estatales y federales que, en virtud de esta Ley, se destinen a los municipios.
 
 ### CAPÍTULO SEGUNDO. DE LOS FONDOS FEDERALES
 
@@ -739,11 +855,17 @@ Los fondos de ayuda federal para la seguridad pública, referidos en el artícul
 
 I. El ejercicio, control, vigilancia, información, evaluación y fiscalización de los recursos que se reciban de los fondos de ayuda federal y sus rendimientos, estarán sujetos a la Ley de Coordinación Fiscal y únicamente podrán ser destinados a los fines de seguridad pública referidos en dicha Ley;
 
-II. La Fiscalía General y los Municipios, en sus respectivas esferas de competencia y de manera separada, concentrarán los recursos provenientes de los fondos de ayuda federal y sus rendimientos en cuentas específicas propias, para identificarlos y separarlos del resto de los recursos de sus presupuestos destinados a seguridad pública;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-III. La Fiscalía General y los Municipios, por sí o por conducto de la autoridad competente, rendirán informes trimestrales al Secretariado Ejecutivo del Sistema Nacional de Seguridad pública, sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos y su destino; así como de los recursos comprometidos, devengados y pagados, y
+II. La Secretaría de Seguridad y los municipios, en sus respectivas esferas de competencia y de manera separada, concentrarán los recursos provenientes de los fondos de ayuda federal y sus rendimientos en cuentas específicas propias, para identificarlos y separarlos del resto de los recursos de sus presupuestos destinados a seguridad pública;
 
-IV. La Fiscalía General y los Municipios acatarán los convenios generales o específicos que establezcan obligaciones para asegurar el destino y fortalecer la adecuada rendición de cuentas, la transparencia, vigilancia y fiscalización de los recursos provenientes de los fondos de ayuda federal.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+III. La Secretaría de Seguridad y los municipios, por sí o por conducto de la autoridad competente, rendirán informes trimestrales al secretariado ejecutivo del sistema nacional de seguridad pública, sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos y su destino; así como de los recursos comprometidos, devengados y pagados, y
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+IV. La Secretaría de Seguridad y los municipios acatarán los convenios generales o específicos que establezcan obligaciones para asegurar el destino y fortalecer la adecuada rendición de cuentas, la transparencia, vigilancia y fiscalización de los recursos provenientes de los fondos de ayuda federal.
 
 Distribución de Fondos Federales
 
@@ -773,41 +895,45 @@ En términos de la Ley General del Sistema Nacional de Seguridad Pública, será
 
 ### CAPÍTULO PRIMERO. DEL ESTADO Y LOS MUNICIPIOS
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Estructura Estatal
 
 ###### ARTÍCULO 60.
 
-La seguridad pública interna en el Estado está a cargo de:
+La seguridad pública interna en el estado está a cargo de:
 
-I. El Gobernador del Estado;
+I. El Gobernador;
 
 II. El Secretario de Gobierno;
 
-III. El Fiscal General;
+III. El Secretario de Seguridad;
 
-IV. El Fiscal Ministerial;
+IV. El Procurador;
 
-V. El Fiscal Jurídico;
+V. El Subprocurador Ministerial;
 
-VI. El Fiscal de Inteligencia;
+VI. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-VII. El Comisario General de la Policía del Estado;
+VII. El Subsecretario de Operación Policial;
 
-VIII. Los Directores Generales de las Divisiones Operativa e Investigadora de la Policía del Estado;
+VIII. El Director General de la Policía Investigadora;
 
 IX. El Titular de la Unidad Desconcentrada para la Ejecución de Penas y Reinserción Social;
 
-X. El Director General de Reinserción Social;
+X. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-XI. El Director General de Ejecución de Penas;
+XI. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-XII. El Director de Reintegración de Adolescentes;
+XII. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-XIII. Los Delegados Regionales;
+XIII. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-XIV. Los Comandantes Regionales de la Policía del Estado; y
+XIV. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-XV. Los Agentes de policía.
+XV. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Estructura Municipal
 
@@ -821,11 +947,11 @@ II. Los Presidentes Municipales;
 
 III. La Comisión de Regidores de Seguridad Pública;
 
-IV. Los Síndicos Municipales;
+IV. (DEROGADA, P.O. 8 DE ABRIL DE 2012)
 
-V. Los Directores de las Policías Preventivas Municipales;
+V. Los Directores de las Policías Municipales;
 
-VI. Los Agentes de las Policías Preventivas Municipales; y
+VI. (DEROGADA, P.O. 8 DE ABRIL DE 2012); y
 
 VII. Las demás que determinen con ese carácter el Código Municipal del Estado de Coahuila y demás disposiciones aplicables.
 
@@ -851,23 +977,31 @@ III. Los ciudadanos que participen en los Consejos y Comités de Seguridad Públ
 
 #### SECCIÓN PRIMERA. DEL GOBERNADOR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Facultades y Deberes
 
 ###### ARTÍCULO 64.
 
-Son facultades y deberes del Gobernador en materia de seguridad pública, además de las previstas en la Constitución del Estado y en la Ley Orgánica de la Fiscalía General, las siguientes:
+Son facultades y deberes del gobernador en materia de seguridad pública, además de las previstas en la Constitución del Estado, en esta ley y la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, las siguientes:
 
 I. Formar parte del Consejo Nacional;
 
-II. Presidir el Sistema Estatal de Seguridad Pública, por si, o por conducto del Fiscal General; cumplir y hacer cumplir los programas, acciones y disposiciones de ese Sistema;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-III. Presidir el Consejo Estatal de Seguridad Pública, por sí, o por conducto del Fiscal General; cumplir y hacer cumplir los programas, acciones y disposiciones que emita dicho Consejo Estatal;
+II. Presidir el sistema estatal de seguridad pública, para cumplir y hacer cumplir los programas, acciones y disposiciones de ese Sistema;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+III. Presidir el consejo estatal de seguridad pública, para cumplir y hacer cumplir los programas, acciones y disposiciones que emita dicho consejo estatal;
 
 IV. Cumplir y hacer cumplir los programas, acciones y disposiciones del Sistema Nacional;
 
 V. Emitir las políticas y reglamentos para establecer la coordinación efectiva entre el Estado y los Municipios;
 
-VI. Autorizar, por conducto de la Fiscalía General, la prestación de servicios de seguridad privada por personas físicas o morales;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+VI. Autorizar, por conducto de la Secretaría de Seguridad, la prestación de servicios de seguridad privada por personas físicas o morales;
 
 VII. Promover que la ciudadanía participe en el análisis de la problemática sobre seguridad pública, y
 
@@ -881,81 +1015,85 @@ Corresponde al Gobernador del Estado, ser el jefe supremo de las fuerzas de segu
 
 La Policía Preventiva Municipal estará al mando del presidente municipal respectivo, en los términos de esta ley. No obstante, deberá acatar las órdenes que el Gobernador le transmita, en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-#### SECCIÓN SEGUNDA. DEL FISCAL GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-Atribuciones y deberes del Fiscal General
+#### SECCIÓN SEGUNDA. DEL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Atribuciones y deberes del Procurador
 
 ###### ARTÍCULO 66.
 
-Son atribuciones y deberes del Fiscal General, además de las previstas en la Constitución del Estado y la Ley Orgánica de la Fiscalía General, las siguientes:
+Son atribuciones y deberes del Procurador, además de las previstas en la Constitución del Estado y la Ley de Procuración de Justicia del Estado, las siguientes:
 
-I. Formar parte del Sistema Nacional y de las Conferencias Nacionales de Seguridad Pública y Procuración de Justicia;
+I. Formar parte del Sistema Nacional y de la Conferencia Nacional de Procuración de Justicia;
 
-II. Supervisar la elaboración, presentación y ejecución del Plan Estatal;
+II. Supervisar en el área de su competencia la elaboración del proyecto y ejecución del Programa Estatal;
 
-III. Coordinar, dirigir y supervisar la ejecución del Plan Estatal;
+III. Coordinar, dirigir y supervisar la ejecución del Programa Estatal en el área de su competencia;
 
 IV. Formar parte del Sistema y del Consejo Estatal de Seguridad Pública;
 
-V. Presidir el Sistema y el Consejo Estatal, en los casos que el Gobernador lo disponga;
+V. Cumplir y hacer cumplir los programas, acciones y disposiciones del Sistema Estatal;
 
-VI. Cumplir y hacer cumplir los programas, acciones y disposiciones del Sistema Estatal;
+VI. Hacer observar el Programa Rector de Profesionalización en materia de Procuración de Justicia;
 
-VII. Intervenir en los convenios con las autoridades federales, estatales y municipales en el Estado o de otras entidades federativas en todo lo relativo a la seguridad pública;
+VII. Establecer mecanismos que garanticen la atención integral a las víctimas u ofendidos;
 
-VIII. Participar en la emisión de las bases y reglas generales para la realización de operativos conjuntos de carácter preventivo, entre las dependencias encargadas de la seguridad pública federal, local y municipal;
+VIII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre procuración de justicia, utilizando los resultados para implementar las medidas y acciones que procedan; y
 
-IX. Hacer observar el Programa Rector de Profesionalización de las Instituciones de seguridad pública;
+IX. Las demás que le confieran las demás (sic) disposiciones legales aplicables.
 
-X. Ejecutar todas las actividades tendientes a preservar el orden y la seguridad pública;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-XI. Velar por el cumplimiento de las disposiciones, programas y acciones del Sistema Nacional y del Sistema Estatal;
+#### SECCIÓN TERCERA. DEL SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 
-XII. Establecer mecanismos que garanticen la atención integral a las víctimas u ofendidos;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-XIII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, utilizando los resultados para implementar las medidas y acciones que procedan; y
-
-XIV. Las demás que le confieran las demás disposiciones legales aplicables.
-
-#### SECCIÓN TERCERA. DEL FISCAL MINISTERIAL
-
-Atribuciones y deberes del Fiscal Ministerial
+Atribuciones y deberes del Secretario de Seguridad
 
 ###### ARTÍCULO 67.
 
-Son atribuciones y deberes del Fiscal Ministerial, además de las previstas en la Constitución del Estado y en la Ley Orgánica de la Fiscalía General, las siguientes:
+Son atribuciones y deberes del Secretario de Seguridad además de las previstas en la Constitución del Estado y la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, las siguientes:
 
-I. Coordinar con la Fiscalía de Inteligencia la elaboración del proyecto del Plan Estatal;
+I. Formar parte del Sistema Nacional y de las Conferencias Nacionales de Seguridad Pública;
 
-II. Cumplir, hacer cumplir y ejecutar las acciones que le correspondan en el Plan Estatal;
+II. Supervisar la elaboración, presentación y ejecución del programa estatal;
 
-III. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, sirviéndose de los resultados para implementar las medidas y acciones que procedan;
+III. Coordinar, dirigir y supervisar la ejecución del programa estatal;
 
-IV. Promover la profesionalización de las fuerzas de seguridad pública estatal y municipal, conforme al Programa Rector de Profesionalización;
+IV. Formar parte del sistema estatal y del consejo estatal de seguridad pública;
 
-V. Planear, dirigir y supervisar las actividades de la Policía del Estado;
+VI. Cumplir y hacer cumplir los programas, acciones y disposiciones del sistema estatal;
 
-VI. Revisar y en su caso aprobar, la propuesta para someter al personal de la Policía del Estado y de las Policías Preventivas Municipales, a pruebas de detección de consumo de sustancias consideradas como narcóticas o cualquier otra sustancia prohibida por la ley;
+VII. Intervenir en los convenios con las autoridades federales, estatales y municipales en el estado o de otras entidades federativas en todo lo relativo a la seguridad pública;
 
-VII. Someter a consideración del Fiscal General, las propuestas de reconocimientos, premios y estímulos al personal de la Policía del Estado y de las Policías Preventivas Municipales por acciones relevantes en el ejercicio de su función, de conformidad con lo que establecen las leyes y los reglamentos correspondientes;
+VIII. Participar en la emisión de las bases y reglas generales para la realización de operativos conjuntos de carácter preventivo, entre las dependencias encargadas de la seguridad pública federal, local y municipal;
 
-VIII. Formar parte de los consejos, comités o comisiones que legalmente le correspondan;
+IX. Hacer observar el programa rector de profesionalización de las instituciones de seguridad pública;
 
-IX. Vigilar que se informe oportunamente al Registro de Seguridad Pública del Estado, en los términos de esta ley; y
+X. Ejecutar todas las actividades tendientes a preservar el orden y la seguridad pública;
 
-X. Las demás que le confieran la presente y otros ordenamientos aplicables.
+XI. Velar por el cumplimiento de las disposiciones, programas y acciones del sistema nacional y del sistema estatal;
 
-#### SECCIÓN CUARTA. DEL FISCAL JURÍDlCO
+XII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, utilizando los resultados para implementar las medidas y acciones que procedan, y
 
-Atribuciones y deberes del Fiscal Jurídico
+XIII. Las demás que le confieran las demás (sic) disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN CUARTA. DEL SUBSECRETARIO DE DESARROLLO POLICIAL
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 68.
 
-Son atribuciones y deberes del Fiscal Jurídico, además de las previstas en la Constitución del Estado y en Ley Orgánica de la Fiscalía General, las siguientes:
+Son atribuciones y deberes del Subsecretario de Desarrollo Policial, las siguientes:
 
 I. Operar y supervisar el servicio de carrera y la aplicación de las políticas públicas necesarias en materia de prevención del delito, atención a víctimas y respeto a los derechos humanos;
 
-II. Proponer al Fiscal General, de acuerdo al Programa Rector de Profesionalización, los planes y programas de capacitación policial, acreditación y certificación de estudios para el Estado y los Municipios;
+II. Proponer al Secretario de Seguridad Pública, de acuerdo al Programa Rector de Profesionalización, los planes y programas de capacitación policial, acreditación y certificación de estudios para el Estado y los Municipios;
 
 III. Dirigir la organización, operación y supervisión de los institutos, academias y centros de estudio del Estado;
 
@@ -963,37 +1101,41 @@ IV. Coadyuvar a la implementación y operación de los planes y programas aproba
 
 V. Supervisar que en los institutos, academias y centros de estudio del Estado y de los Municipios se observen los programas y métodos aprobados;
 
-VI. Intervenir, por acuerdo del Fiscal General, en los convenios con las autoridades federales, estatales y municipales en el Estado, así como organismos no gubernamentales e instituciones académicas del Estado, o de otras entidades federativas en todo lo relativo a las materias de su competencia;
+VI. Colaborar con el Secretario de Seguridad Pública, en los convenios que éste celebre con las autoridades federales, estatales y municipales en el Estado, así como organismos no gubernamentales e instituciones académicas del Estado, o de otras entidades federativas, en todo lo relativo a las materias de su competencia;
 
-VII. Representar al Fiscal General en asuntos de su competencia;
+VII. Generar y operar programas de prevención del delito con la información que proporcione la Subsecretaria de Políticas Públicas e Información; así como los programas que en esta materia genere el Sistema Nacional; y
 
-VIII. Operar los programas que genere la Dirección General de Políticas Preventivas y que sean aprobadas por el Consejo Interior de la Fiscalía General; así como los programas que en esta materia genere el Sistema Nacional; y
+VIII. Las demás que le confieran el reglamento interior de la Secretaria de Seguridad Pública, y otros ordenamientos jurídicos aplicables.
 
-IX. Las demás que le confieran los otros ordenamientos jurídicos aplicables.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
 
-#### SECCIÓN QUINTA. DEL FISCAL DE INTELIGENCIA
+#### SECCIÓN QUINTA. DEL SUBSECRETARIO DE POLÍTICAS PÚBLICAS E INFORMACIÓN
 
-Atribuciones y deberes del Fiscal de Inteligencia
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Atribuciones y deberes del Subsecretario de Políticas Públicas e Información
 
 ###### ARTÍCULO 69.
 
-Son atribuciones y deberes del Fiscal de Inteligencia, además de los previstos en la Constitución del Estado y en la Ley Orgánica de la Fiscalía General, las siguientes:
+Son atribuciones y deberes del Subsecretario de Políticas Públicas e Información, las siguientes:
 
-I. Elaborar el proyecto del Plan Estatal y presentarlo al Fiscal General;
+I. Elaborar el proyecto del programa estatal y presentarlo al Secretario de Seguridad;
 
-II. Coordinar, dirigir y supervisar los centros de información y el Registro de Seguridad Pública del Estado;
+II. Coordinar, dirigir y supervisar los centros de información y el registro de seguridad pública del estado;
 
-III. Instrumentar, coordinar y supervisar que los programas, planes y acciones en las materias de captación, clasificación e interpretación de la información del personal de seguridad y de las actividades delictivas, se acaten y cumplan por las instituciones de seguridad pública del Estado y de los Municipios;
+III. Instrumentar, coordinar y supervisar que los programas, planes y acciones en las materias de captación, clasificación e interpretación de la información del personal de seguridad y de las actividades delictivas, se acaten y cumplan por las instituciones de seguridad pública del estado y de los municipios;
 
-IV. Supervisar y, en su caso, obligar a las instituciones de seguridad pública del Estado y de los Municipios a que proporcionen de manera oportuna y de conformidad con los manuales e instrucciones del caso, la información que se les requiera y que estén obligadas legalmente a proporcionar;
+IV. Supervisar y, en su caso, obligar a las instituciones de seguridad pública del estado y de los municipios a que proporcionen de manera oportuna y de conformidad con los manuales e instrucciones del caso, la información que se les requiera y que estén obligadas legalmente a proporcionar;
 
-V. Intervenir, por acuerdo del Fiscal General, en los convenios con las autoridades federales, de otras entidades federativas, del Estado y los Municipios en todo lo relativo a la seguridad pública;
+V. Intervenir, por acuerdo del Secretario de Seguridad, en los convenios con las autoridades federales, de otras entidades federativas, del estado y de los municipios en todo lo relativo a la seguridad pública;
 
-VI. Representar al Fiscal General en las materias de su competencia, cuando así se requiera y la ley lo permita;
+VI. Representar al Secretario de Seguridad en las materias de su competencia, cuando así se requiera y la ley lo permita;
 
-VII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, sirviéndose de los resultados para implementar las medidas y acciones que procedan; y
+VII. Propiciar la participación de la ciudadanía en el análisis de la problemática sobre seguridad pública, sirviéndose de los resultados para implementar las medidas y acciones que procedan, y
 
-VIII. Las demás que le confieran los otros ordenamientos jurídicos aplicables.
+VIII. Las demás que le confieran esta ley, el reglamento interior y otros ordenamientos aplicables.
+
+> <small>(DEROGADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN SEXTA. DEL COORDINADOR GENERAL DE LA POLICÍA DEL ESTADO
 
@@ -1001,21 +1143,7 @@ Atribuciones y deberes del Coordinador General
 
 ###### ARTÍCULO 70.
 
-El Coordinador General de la Policía del Estado, quien tiene la categoría de Comisario General, es el titular de la Policía, la que está bajo su mando ejecutivo y operativo directo. El Coordinador General, jerárquicamente, depende de manera inmediata del Fiscal Ministerial, sin menoscabo de las facultades del Gobernador y del Fiscal General.
-
-Son facultades y deberes del Coordinador General de la Policía del Estado, las siguientes:
-
-I. Cumplir, hacer cumplir y ejecutar las acciones que le correspondan en el Plan Estatal y los acuerdos del Consejo Estatal; acatando las disposiciones legales y las instrucciones superiores que reciba;
-
-II. Operar y ejecutar programas y acciones conjuntas con las policías preventivas de los Municipios, de conformidad con las instrucciones superiores que reciba;
-
-III. Ejercer el mando directo e inmediato sobre todos los agentes de la Policía del Estado, cualesquiera que sea su categoría;
-
-IV. Vigilar el uso adecuado de los protocolos de investigación y de la cadena de custodia adoptados por las instituciones de seguridad pública, la protección de las personas, datos, rastros e instrumentos relacionados con la comisión de delitos;
-
-V. Controlar el registro de las detenciones e informar oportunamente al Registro de Seguridad Pública del Estado; y
-
-VI. Las demás que señalen las demás disposiciones aplicables.
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 #### SECCIÓN SÉPTIMA. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN DE PENAS Y REINSERCIÓN SOCIAL
 
@@ -1047,7 +1175,9 @@ III. Supervisar la elaboración del Plan Municipal y su presentación al Consejo
 
 IV. Celebrar los convenios previamente aprobados por el Ayuntamiento, y en su caso por el Congreso, con:
 
-1. El Gobierno del Estado, por conducto de la Fiscalía General.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+1. El Gobierno del Estado, por conducto del Secretario de Seguridad.
 
 2. Los Ayuntamientos de los Municipios del Estado.
 
@@ -1055,7 +1185,9 @@ IV. Celebrar los convenios previamente aprobados por el Ayuntamiento, y en su ca
 
 V. Ejecutar y hacer observar los acuerdos del Sistema Estatal y del Sistema Nacional, los programas y acciones de coordinación y colaboración en materia de seguridad pública;
 
-VI. Ser el jefe de la policía preventiva municipal; ejercer el mando de conformidad con las disposiciones de la Ley Orgánica de la Fiscalía General, esta Ley y los demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+VI. Ser el jefe de la policía preventiva municipal; ejercer el mando de conformidad con las disposiciones de esta ley y demás ordenamientos aplicables;
 
 VII. Ejercer el mando de la policía preventiva de manera directa cuando las circunstancias lo requieran; y ordinariamente por conducto del director, o titular de la policía preventiva;
 
@@ -1107,11 +1239,13 @@ II. De prevención por medio de acciones de inspección, vigilancia y vialidad e
 
 III. De reacción para garantizar, mantener y restablecer el orden y la paz públicos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Atribuciones y Obligaciones
 
 ###### ARTÍCULO 77.
 
-Las atribuciones y obligaciones de las fuerzas de seguridad pública son las establecidas en la Ley Orgánica de la Fiscalía General, esta Ley, en la Ley General del Sistema Nacional y en las demás disposiciones aplicables.
+Las atribuciones y obligaciones de las fuerzas de seguridad pública son las establecidas en esta ley, la Ley General del Sistema Nacional, el reglamento interior y en las demás disposiciones aplicables.
 
 #### SECCIÓN ÚNICA. CLASIFICACIÓN DE LAS FUERZAS DE SEGURIDAD PÚBLICA
 
@@ -1123,25 +1257,33 @@ Son fuerzas de seguridad pública estatales:
 
 I. En la prevención especial y general del delito y para sancionar las faltas administrativas:
 
-1. La Coordinación General de la Policía del Estado, a través de la Dirección General de la División Operativa, la cual tendrá competencia en todo el territorio, y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+1. La Policía Operativa del Estado, la cual tendrá competencia en todo el territorio, y
 
 2. Las Policías Preventivas Municipales con competencia en las circunscripciones territoriales que les correspondan.
 
 II. En la investigación y persecución del delito, como auxiliares del Ministerio Público:
 
-1. La Coordinación General de la Policía del Estado, a través de la Dirección General de la División Investigadora, la cual tendrá competencia en todo el territorio, y
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-2. Las Policías Preventivas Municipales y la División Operativa, en los casos que así corresponda.
+1. La Policía Investigadora del Estado, la cual tendrá competencia en todo el territorio, y
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+2. La Policía Operativa del Estado y las Policías Preventivas Municipales, en los casos que así corresponda.
 
 ### CAPÍTULO SEGUNDO. DE LA POLICÍA DEL ESTADO
 
 #### SECCIÓN PRIMERA. DE LA INTEGRACIÓN DE LA POLICÍA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Misión
 
 ###### ARTÍCULO 79.
 
-La Policía del Estado, de conformidad con la Ley Orgánica de la Fiscalía General, es la autoridad competente para operar en Coahuila los planes, proyectos y programas de seguridad pública y procuración de justicia, en las fases de prevención especial y general, detección, disuasión e investigación para hacer efectiva la prevención; y bajo el mando del Ministerio Público, la investigación del delito.
+La Policía del Estado, de conformidad con las leyes y disposiciones que la rijan, es la autoridad competente para operar en el estado los planes, proyectos y programas de seguridad pública y procuración de justicia, en las fases de prevención especial y general, detección, disuasión e investigación para hacer efectiva la prevención, y bajo el mando del Ministerio Público, la investigación del delito.
 
 Estructura
 
@@ -1149,77 +1291,103 @@ Estructura
 
 La Policía del Estado para el cumplimiento de sus atribuciones se conformará de la siguiente manera:
 
-I. La Dirección General de la División Operativa, y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
-II. La Dirección General de la División Investigadora.
+I. Policía Operativa, y
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE LA DIVISIÓN OPERATIVA
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+II. Policía Investigadora.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN SEGUNDA. DE LA SUBSECRETARIA DE OPERACIÓN POLICIAL
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Competencia
 
 ###### ARTÍCULO 81.
 
-La Dirección General de la División Operativa de conformidad con lo previsto en la Ley Orgánica de la Fiscalía General, es la autoridad competente para coordinar y realizar las acciones de seguridad pública en las fases de prevención, detección y disuasión delictiva; y de la investigación para hacer efectiva la prevención, en sus áreas exclusivas y de manera conjunta con las policías municipales, cuando sea procedente, se convenga, o así se requiera.
+El Subsecretario de Operación Policial de conformidad con lo previsto en esta ley y el reglamento interior es la autoridad competente para coordinar y realizar las acciones de seguridad pública en las fases de prevención, detección y disuasión delictiva; y de la investigación para hacer efectiva la prevención, en sus áreas exclusivas y de manera conjunta con las policías municipales, cuando sea procedente, se convenga o así se requiera.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Atribuciones
 
 ###### ARTÍCULO 82.
 
-La Dirección General de la División Operativa tiene las obligaciones y facultades previstas en Ley Orgánica de la Fiscalía General y deberá de ejercerlas observando lo prescrito en dicha Ley.
+El Subsecretario de Operación Policial ejercerá las obligaciones y facultades previstas en esta ley y el reglamento interior.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Coordinación
 
 ###### ARTÍCULO 83.
 
-La Dirección General de la División Operativa coordinará la ejecución de acciones de seguridad con las policías municipales a través de sus mandos.
+El Subsecretario de Operación Policial coordinará la ejecución de acciones de seguridad con las policías municipales a través de sus mandos.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Policías Preventivas
 
 ###### ARTÍCULO 84.
 
-Las policías municipales estarán obligadas a participar en las acciones de prevención, detección, disuasión y combate a la delincuencia que realice la Dirección General de la División Operativa de la Policía del Estado.
+Las policías municipales estarán obligadas a participar en las acciones de prevención, detección, disuasión y combate a la delincuencia que realice la Policía Operativa del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Coparticipación
 
 ###### ARTÍCULO 85.
 
-Para la adecuada coordinación de las acciones de su competencia, la Policía del Estado en su División Operativa y las Policías Municipales preventivas, acatarán las disposiciones de la Ley Orgánica de la Fiscalía General.
+Para la adecuada coordinación de las acciones de su competencia, la Policía Operativa del Estado y las policías municipales preventivas, acatarán las disposiciones previstas en esta ley y demás disposiciones aplicables
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Operativos
 
 ###### ARTÍCULO 86.
 
-La Dirección General de la División Operativa realizará, coordinará y, en su caso, dirigirá los operativos específicos autorizados por la Fiscalía General.
+La Policía Operativa del Estado realizará, coordinará y, en su caso, dirigirá los operativos específicos autorizados por la Secretaría de Seguridad
 
 #### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE LA DIVISIÓN INVESTIGADORA
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Auxiliar del Ministerio Público
 
 ###### ARTÍCULO 87.
 
-La Dirección de la División Investigadora, de conformidad con lo previsto en la Ley Orgánica de la Fiscalía General, es la auxiliar del Ministerio Público en la investigación del delito, para lo cual gozará de autonomía de criterio. Dependerá siempre, directa e inmediatamente del Ministerio Público en el cumplimiento de esta actividad.
+La Policía Investigadora, de conformidad con lo previsto en la Ley de Procuración de Justicia, es la auxiliar del Ministerio Público en la investigación del delito, para lo cual gozará de autonomía de criterio. Dependerá siempre, directa e inmediatamente del Ministerio Público en el cumplimiento de esta actividad.
 
-La Dirección General de la División Investigadora aplicará en sus actividades los principios, técnicas y métodos de la investigación científica.
+La Policía Investigadora aplicará en sus actividades los principios, técnicas y métodos de la investigación científica.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Estructura y obligaciones
 
 ###### ARTÍCULO 88.
 
-La Dirección General de la División Investigadora tiene la organización administrativa jerárquica, las facultades, obligaciones y prohibiciones establecidas en la Ley Orgánica de la Fiscalía General y demás ordenamientos legales aplicables.
+La Dirección General de la Policía Investigadora tiene la organización administrativa jerárquica, las facultades, obligaciones y prohibiciones establecidas en la Ley de Procuración de Justicia y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Policías Preventivas en la investigación
 
 ###### ARTÍCULO 89.
 
-Las Policías Preventivas municipales serán auxiliares del Ministerio Público en los casos previstos por las leyes aplicables, y en esa actividad tendrán los deberes y facultades establecidos en la Ley Orgánica de la Fiscalía General.
+Las policías preventivas municipales serán auxiliares del Ministerio Público en los casos previstos por las leyes aplicables, y en esa actividad tendrán los deberes y facultades establecidos en la Ley de Procuración de Justicia.
 
 ### CAPÍTULO TERCERO. DE LAS OBLIGACIONES COMUNES A LAS INSTITUCIONES ESTATALES Y MUNICIPALES
 
-Obligaciones Comunes
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Obligaciones comunes
 
 ###### ARTÍCULO 90.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las instituciones de seguridad pública del Estado y de los Municipios, además de las obligaciones y prohibiciones contenidas en la Ley Orgánica de la Fiscalía General, en la Ley de Procuración de Justicia, en la Ley de Responsabilidad y en los demás ordenamientos aplicables, acatarán lo siguiente:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las instituciones de seguridad pública del estado y de los municipios, además de las obligaciones y prohibiciones contenidas en esta ley, la ley de procuración de justicia, la ley de responsabilidad, el reglamento interior y demás ordenamientos aplicables, acatarán lo siguiente:
 
 I. Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice;
 
@@ -1239,7 +1407,9 @@ VIII. Participar en operativos de coordinación con otras corporaciones policial
 
 IX. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
 
-X. Omitir asistir uniformado y sin uniformar a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia; y
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+X. Abstenerse de asistir uniformado o en horas de servicio a bares, cantinas, centros de apuestas o juegos, u otros centros de este tipo, si no media orden expresa para el desempeño de funciones o en casos de flagrancia, y
 
 XI. Las demás que establezcan las disposiciones legales aplicables.
 
@@ -1297,11 +1467,13 @@ El informe debe ser completo, los hechos deben describirse con continuidad, cron
 
 ### CAPÍTULO PRIMERO. DE LA NATURALEZA, OBJETO Y FACULTADES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Naturaleza
 
 ###### ARTÍCULO 93.
 
-La Fiscalía General, en los casos en que se requiera y con venga al interés general, podrá autorizar la prestación de servicios de seguridad privada a cargo de particulares.
+La Secretaría de Seguridad, en los casos en que se requiera y convenga al interés general, podrá autorizar la prestación de servicios de seguridad privada a cargo de particulares.
 
 Objeto
 
@@ -1309,11 +1481,13 @@ Objeto
 
 Los servicios de seguridad privada, tendrán por objeto la protección y vigilancia custodia de personas, establecimientos o bienes, el traslado y custodia de fondos y valores, investigaciones encaminadas a proporcionar informes sobre la solvencia, localización o actividades de personas y la operación de sistemas de alarmas y equipos de seguridad.
 
-Facultades en materia de seguridad privada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Facultades en materia de seguridad privada
 
 ###### ARTÍCULO 95.
 
-La Fiscalía General, respecto a los servicios de seguridad privada, tendrá las siguientes facultades:
+La Secretaría de Seguridad, respecto a los servicios de seguridad privada tendrá las siguientes facultades:
 
 I. Autorizar a las personas físicas o morales la prestación de servicios de seguridad privada en la entidad;
 
@@ -1353,13 +1527,15 @@ Vigencia de las Autorizaciones
 
 Las autorizaciones que se otorguen serán personales e intransferibles y tendrán una vigencia de un año, prorrogable por periodos iguales, previa solicitud que se presente y en la que se acredite el cumplimiento de las obligaciones contenidas en la autorización respectiva, así como de los requisitos previstos en esta ley y el reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Prórrogas
 
 ###### ARTÍCULO 99.
 
-Para la prórroga de la autorización, el interesado deberá presentar la solicitud correspondiente, a más tardar treinta días hábiles previos a la conclusión de la vigencia de la autorización respectiva, anexando el formato que para tal efecto le sea proporcionado por la propia Fiscalía General, así como la constancia de actualización de la fianza de conformidad con lo establecido en el reglamento aplicable.
+Para la prórroga de la autorización, el interesado deberá presentar la solicitud correspondiente, a más tardar treinta días hábiles previos a la conclusión de la vigencia de la autorización respectiva, anexando el formato que para tal efecto le sea proporcionado por la propia Secretaría de Seguridad, así como la constancia de actualización de la fianza de conformidad con lo establecido en el reglamento aplicable.
 
-La Fiscalía General deberá notificar al interesado dentro de los diez días hábiles anteriores a la fecha fijada para la conclusión de la autorización.
+La Secretaría de Seguridad deberá notificar al interesado dentro de los diez días hábiles anteriores a la fecha fijada para la conclusión de la autorización.
 
 Autorizaciones Federales
 
@@ -1367,7 +1543,9 @@ Autorizaciones Federales
 
 Las personas morales que tengan autorización federal para la prestación del servicio de seguridad privada, deberán de tramitar y obtener la autorización estatal e inscribirse en el Registro de Seguridad Pública del Estado, salvo que únicamente presten sus servicios en espacios de jurisdicción federal, en cuyo caso sólo deberán de cumplir con el requisito de la inscripción.
 
-En todos los casos, la Fiscalía General será la autoridad competente para supervisar que en la prestación del servicio de seguridad privada se respeten los requisitos y condiciones de las autorizaciones, y las normas legales y técnicas aplicables.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+En todos los casos, la Secretaría de Seguridad será la autoridad competente para supervisar que en la prestación del servicio de seguridad privada se respeten los requisitos y condiciones de las autorizaciones, y las normas legales y técnicas aplicables.
 
 Carácter Auxiliar
 
@@ -1439,11 +1617,13 @@ La portación de armas, así como las condiciones, requisitos y usos de las mism
 
 Las empresas y los elementos de seguridad privada que hayan obtenido licencias federales para la portación de armas de fuego, deberán de inscribirlas en el Registro de Seguridad Pública del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Sanciones a las personas físicas
 
 ###### ARTÍCULO 107.
 
-Las personas físicas que presten servicios de seguridad privada personalmente o como empleados de una empresa de seguridad, deberán cumplir con lo previsto en el Título Noveno de la Ley Orgánica de la Fiscalía General, relativo a las obligaciones y prohibiciones para los Agentes de Policía en activo, por lo tanto las infracciones que cometan se considerarán como leves o graves, conforme a lo establecido en la citada Ley y en consecuencia se sancionarán de la siguiente forma:
+Las personas físicas que presten servicios de seguridad privada personalmente o como empleados de una empresa de seguridad, deberán cumplir con lo previsto en esta ley, el reglamento interior y demás disposiciones aplicables, relativo a las obligaciones y prohibiciones para los agentes de policía en activo, por lo tanto las infracciones que cometan se considerarán como leves o graves, conforme a lo establecido en dichos ordenamientos y en consecuencia se sancionarán de la siguiente forma:
 
 I. Amonestación y/o multa por el equivalente hasta por quince días de su salario diario; en caso de faltas leves;
 
@@ -1463,11 +1643,13 @@ III. Suspensión temporal de la autorización correspondiente, cuando preste ser
 
 IV. Cancelación definitiva de la autorización correspondiente, cuando reitere las conductas previstas en las dos fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Autoridad competente
 
 ###### ARTÍCULO 109.
 
-El Fiscal General, es la autoridad competente para imponer las sanciones. En el caso de las multas se girará oficio a la Secretaría de Finanzas a fin de que se hagan efectivas en el procedimiento económico coactivo y que se destinen al fondo de procuración de justicia; tratándose de la prohibición del servicio, suspensiones y cancelaciones, se harán del conocimiento al infractor para que se cumplan en sus términos, informando de ello al Registro de Seguridad Pública del Estado.
+El Secretario de Seguridad, es la autoridad competente para imponer las sanciones. En el caso de las multas se girará oficio a la Secretaría de Finanzas a fin de que se hagan efectivas en el procedimiento económico coactivo y que se destinen al fondo de procuración de justicia. Tratándose de la prohibición del servicio, suspensiones y cancelaciones, se harán del conocimiento al infractor para que se cumplan en sus términos, informando de ello al Registro de Seguridad Pública del Estado.
 
 Autonomía de las sanciones
 
@@ -1475,35 +1657,43 @@ Autonomía de las sanciones
 
 Las sanciones serán independientes de las responsabilidades penales o civiles en que incurran los prestadores y el personal a su servicio.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Normatividad en materia de sanciones
 
 ###### ARTÍCULO 111.
 
-El incumplimiento, o la violación por parte de los servidores públicos de las disposiciones previstas en este capítulo se sancionarán de conformidad con lo establecido en la Ley Orgánica de la Fiscalía General, en esta Ley y en los demás ordenamientos aplicables.
+El incumplimiento o la violación por parte de los servidores públicos de las disposiciones previstas en este capítulo se sancionarán de conformidad con lo establecido en esta ley, el reglamento interior y demás ordenamientos aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN PREVENTIVA PARA LA SEGURIDAD DE INMUEBLES Y ESTABLECIMIENTOS
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Medidas preventivas en inmuebles de servicio al público
 
 ###### ARTÍCULO 112.
 
-La Fiscalía General y los municipios en sus respectivos ámbitos de competencia establecerán los reglamentos y certificaciones de los parámetros en materia de seguridad para el funcionamiento de aquellos bienes inmuebles donde se preste un servicio de atención al público, por lo que los propietarios o poseedores de estos deberán colaborar estableciendo las medidas de seguridad privada, así como procedimientos, mecanismos y sistemas tecnológicos que prevengan, disuadan y, en su caso, proporcionen estos la información para el esclarecimiento de una posible conducta ilícita.
+La Secretaría de Seguridad y los municipios en sus respectivos ámbitos de competencia establecerán los reglamentos y certificaciones de los parámetros en materia de seguridad para el funcionamiento de aquellos bienes inmuebles donde se preste un servicio de atención al público, por lo que los propietarios o poseedores de éstos deberán colaborar estableciendo las medidas de seguridad privada, así como procedimientos, mecanismos y sistemas tecnológicos que prevengan, disuadan y, en su caso, proporcionen la información para el esclarecimiento de una posible conducta ilícita.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Autoridades competentes
 
 ###### ARTÍCULO 113.
 
-La Fiscalía General y los Municipios, en sus respectivos ámbitos de competencia, tendrán facultades para verificar el cumplimiento de las medidas preventivas anteriores.
+La Secretaría de Seguridad y los municipios, en sus respectivos ámbitos de competencia, tendrán facultades para verificar el cumplimiento de las medidas preventivas anteriores.
 
 ## TÍTULO SÉPTIMO. DEL SERVICIO DE CARRERA EN LA INSTITUCIÓN DEL MINISTERIO PÚBLICO Y SERVICIOS PERICIALES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Legislación aplicable
 
 ###### ARTÍCULO 114.
 
-Todo lo relativo a la organización, dirección, operación y supervisión del servicio de carrera de los Agentes del Ministerio Público y los Peritos se llevará a cabo conforme a las normas establecidas en la Ley General del Sistema Nacional y en la Ley Orgánica de la Fiscalía General y demás disposiciones aplicables.
+Todo lo relativo a la organización, dirección, operación y supervisión del servicio de carrera de los agentes del Ministerio Público y los peritos se llevará a cabo conforme a las normas establecidas en la ley general del sistema nacional, en la ley de procuración de justicia y demás disposiciones aplicables.
 
 Autoridad competente y funciones
 
@@ -1757,17 +1947,21 @@ La cancelación se comunicará al Registro Nacional y Estatal.
 
 ### CAPÍTULO PRIMERO. DE LA LEGISLACIÓN Y AUTORIDAD COMPETENTE EN EL SERVICIO DE CARRERA POLICIAL
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Legislación aplicable
 
 ###### ARTÍCULO 134.
 
-Todo lo relativo a la organización, dirección, operación y supervisión del servicio de carrera policial se llevará a cabo conforme a las normas establecidas en la Ley General del Sistema Nacional yen la Ley Orgánica de la Fiscalía General. Por lo que en todo lo no previsto se considerarán como supletorias.
+Todo lo relativo a la organización, dirección, operación y supervisión del servicio de carrera policial se llevará a cabo conforme a las normas establecidas en la ley general del sistema nacional, en la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables por lo que en todo lo no previsto se considerarán como supletorias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Autoridad competente y funciones
 
 ###### ARTÍCULO 135.
 
-El Centro de Profesionalización, es la autoridad competente para ejercer las acciones previstas en el artículo anterior, y tiene además de los deberes y atribuciones previstos en la Ley Orgánica de la Fiscalía General, los siguientes:
+Los centros de profesionalización de la Secretaría de Seguridad y de la Procuraduría, son la autoridad competente para ejercer las acciones previstas en el artículo anterior y tienen, además de los deberes y atribuciones previstos en las disposiciones jurídicas antes mencionadas, los siguientes:
 
 I. Organizar y operar el Servicio de Carrera Policial;
 
@@ -1791,11 +1985,13 @@ Objeto del servicio de carrera
 
 El Servicio de Carrera Policial tiene por objeto es (sic) el desarrollo profesional de las fuerzas de seguridad pública del Estado y los Municipios.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Policía de Carrera
 
 ###### ARTÍCULO 138.
 
-Se considerará policía de carrera a todo aquel agente de policía que haya aprobado el curso básico de conformidad con el plan de estudios definido por la Fiscalía General de acuerdo al Programa Rector de Profesionalización, así como aquellos elementos que aprueben las evaluaciones de control de confianza y los cursos de actualización, conforme a los planes y programas de permanencia
+Se considerará policía de carrera a todo aquel agente de policía que haya aprobado el curso básico de conformidad con el plan de estudios definido por la Secretaría de Seguridad y la Procuraduría de acuerdo al programa rector de profesionalización, así como aquellos elementos que aprueben las evaluaciones de control de confianza y los cursos de actualización, conforme a los planes y programas de permanencia
 
 #### SECCIÓN PRIMERA. DE LOS FINES
 
@@ -1831,7 +2027,9 @@ III. Ninguna persona podrá ingresar a las instituciones policiales si no ha sid
 
 IV. Sólo ingresarán y permanecerán en las instituciones policiales, aquellos aspirantes e integrantes que cursen y aprueben los programas de formación, capacitación y profesionalización.
 
-V. La permanencia de los integrantes en las instituciones policiales está condicionada al cumplimiento de los requisitos que determine las Leyes.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+V. La permanencia de los integrantes en las instituciones policiales está condicionada al cumplimiento de los requisitos que determine las leyes, reglamentos y demás disposiciones aplicables.
 
 VI. Los méritos de los integrantes de las instituciones policiales serán evaluados por las instancias encargadas de determinar las promociones y verificar que se cumplan los requisitos de permanencia, señaladas en las leyes respectivas.
 
@@ -1841,7 +2039,9 @@ VIII. Se determinará un régimen de estímulos y previsión social que correspo
 
 IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio.
 
-X. El cambio de un integrante de un área operativa a otra de distinta especialidad, sólo podrá ser autorizado por la instancia que señale la Ley Orgánica de la Fiscalía General.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+X. El cambio de un integrante de un área operativa a otra de distinta especialidad, o viceversa, sólo podrá ser autorizado por la instancia que señale la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables, y
 
 XI. Las instancias establecerán los procedimientos relativos a cada una de las etapas de la Carrera Policial.
 
@@ -1923,7 +2123,9 @@ Integración
 
 Los Comités Municipales se integrarán como determinen los ayuntamientos, quienes acatarán lo siguiente:
 
-I. Participarán, con voz y voto, el Director de la Policía Preventiva Municipal, el Regidor que sea el presidente de la Comisión seguridad (sic) pública , el Director Administrativo o de Recursos Humanos, un representante del Consejo Ciudadano Municipal de Seguridad Pública.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+I. Participarán, con voz y voto, el Director de la Policía Preventiva Municipal, el Regidor que sea el presidente de la Comisión de seguridad pública, el Director Administrativo o de Recursos Humanos, un representante del Consejo Ciudadano Municipal de Seguridad Pública.
 
 II. Participarán, con voz pero sin voto, un representante del Comité de Admisión, Evaluación y Disciplina para las Fuerzas de Seguridad Pública del Gobierno del Estado, que será designado por el propio Comité y el Director Regional del Instituto Superior de Estudios de Seguridad Pública del Estado, que esté adscrito al Municipio o el Coordinador en su caso.
 
@@ -2007,9 +2209,15 @@ IV. Acreditar que ha concluido, al menos, los estudios siguientes:
 
 1. En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
 
-2. Tratándose de integrantes de las áreas de prevención, enseñanza media o equivalente;
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-3. En caso de integrantes de las áreas de reacción, los estudios correspondientes a la-enseñanza media;
+2. Tratándose de integrantes de las áreas de prevención estatal, bachillerato o equivalente, como mínimo.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+3. Tratándose de integrantes de las áreas de prevención municipal, enseñanza media o equivalente;
+
+4. En caso de integrantes de las áreas de reacción, los estudios correspondientes a la-enseñanza media;
 
 V. Aprobar los cursos de formación, capacitación y profesionalización;
 
@@ -2241,11 +2449,13 @@ Se considerará escala de rangos policiales a la relación que contenga a todos 
 
 #### SECCIÓN QUINTA. DEL REGISTRO DE ANTIGÜEDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Antigüedades
 
 ###### ARTÍCULO 176.
 
-La Fiscalía General, a través del Registro de Seguridad Pública del Estado, llevará el control de las antigüedades en el Servicio de Carrera Policial de cada uno de sus agentes, las inscripciones contendrán, al menos los siguientes datos:
+La Secretaría de Seguridad y la Procuraduría, a través del registro de seguridad pública del estado, llevarán el control de las antigüedades en el servicio de carrera policial de cada uno de sus agentes, las inscripciones contendrán, al menos los siguientes datos:
 
 I. Antigüedad en el servicio, a partir de la fecha de su ingreso a las instituciones policiales.
 
@@ -2299,23 +2509,35 @@ Los integrantes de las instituciones policiales que hayan alcanzado las edades l
 
 ### CAPÍTULO PRIMERO. DEL CENTRO DE PROFESIONALIZACIÓN, ACREDITACIÓN, CERTIFICACIÓN Y CARRERA
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Sistema
 
 ###### ARTÍCULO 181.
 
-El Centro de Profesionalización, Acreditación, Certificación y Carrera es un órgano interno de la Fiscalía General que además, de las atribuciones y deberes que le impone la Ley Orgánica de esa Institución, es el responsable de implementar y supervisar que en los centros, academias e institutos estatales y municipales se observe y acate el Programa Rector de Profesionalización; así como los lineamientos, planes y programas académicos que establezca el propio Centro.
+La Secretaría de Seguridad y la Procuraduría contarán, cada una de ellas, con un centro de profesionalización, acreditación, certificación y carrera que, además de las atribuciones y deberes que les imponen la ley (sic) procuración de justicia, el reglamento interior y demás disposiciones aplicables, serán los responsables de implementar y supervisar que en los centros, academias e institutos estatales y municipales se observe y acate el programa rector de profesionalización, así como los lineamientos, planes y programas académicos que establezcan los propios centros.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Mando del Centro
 
 ###### ARTÍCULO 182.
 
-El Centro de Profesionalización está bajo el mando del Fiscal Jurídico.
+El centro de profesionalización está bajo el mando de la Subsecretaría de Desarrollo Policial y de la Subprocuraduría Jurídica, en lo que a cada institución corresponde.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Principios de los programas y clases
 
 ###### ARTÍCULO 183.
 
-Los programas y clases inculcaran en los alumnos los principios de legalidad, eficiencia, honradez, disciplina, responsabilidad, lealtad institucional, espíritu de servicio y respeto a la ciudadanía.
+El Instituto Superior de Estudios de Seguridad Pública del Estado es una unidad administrativa que dependerá de la Subsecretaria de Desarrollo Policial; y que tendrá por objeto la preparación profesional, teórica y práctica de los aspirantes a integrar las fuerzas de seguridad pública en las áreas de prevención, readaptación social y adaptación de menores infractores; estará a cargo de un Director General y la misión, fines, estructura orgánica y funcional, así como las facultades y atribuciones, estarán contenidas en el Reglamento Interior de la Secretaría de Seguridad Pública.
+
+El Instituto Superior de Estudios de Seguridad Pública del Estado encaminará sus actividades al propósito de formar policías en el Estado de Coahuila de Zaragoza, que normen su desempeño por los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, así como el respeto a los derechos humanos de los ciudadanos.
+
+En el caso de las Academias Policiales que existan en los municipios, a través de convenios que se celebren con los mismos, éstas se regirán en base a los lineamientos, planes de estudios y programa académico que establezcan el Instituto Superior de Estudios de Seguridad Pública del Estado y la Academia Nacional de Seguridad Pública.
+
+La Procuraduría General de Justicia contará con las instituciones académicas que establezca la Ley de Procuración de Justicia.
 
 ### CAPÍTULO SEGUNDO. DEL PROGRAMA RECTOR DE PROFESIONALIZACIÓN
 
@@ -2331,17 +2553,21 @@ Planes de Estudio
 
 Los planes de estudio profesionales se integran por el conjunto de contenidos estructurados en unidades didácticas de enseñanza y aprendizaje que estarán comprendidos en el Programa Rector de Profesionalización Policial que apruebe la Conferencia Nacional de Secretarios de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Requisitos de ingreso y permanencia
 
 ###### ARTÍCULO 186.
 
-Los requisitos de ingreso y permanencia del personal de las instituciones de seguridad pública del Estado y los Municipios, contendrán las disposiciones de la Ley Orgánica de la Fiscalía General y deberán de observar lo establecido en el Programa Rector de Profesionalización y las disposiciones de la Ley General del Sistema Nacional.
+Los requisitos de ingreso y permanencia del personal de las instituciones de seguridad pública del estado y los municipios, contendrán las disposiciones de la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables, y deberán de observar lo establecido en el programa rector de profesionalización y las disposiciones de la ley general del sistema nacional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Cumplimiento de acciones
 
 ###### ARTÍCULO 187.
 
-Los institutos y academias que establezcan y opere la Fiscalía General y los Municipios, dentro de las bases establecidas en el Programa Rector de Profesionalización, serán responsables de aplicar, entre otras, las siguientes acciones:
+Los institutos y academias que establezcan y operen la Secretaría de Seguridad, la Procuraduría y los municipios, dentro de las bases establecidas en el programa rector de profesionalización, serán responsables de aplicar, entre otras, las siguientes acciones:
 
 I. Aplicar los procedimientos homologados del Sistema;
 
@@ -2377,31 +2603,39 @@ XVI. Supervisar que los aspirantes e integrantes de las instituciones policiales
 
 XVII. Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Obligatoriedad de los cursos
 
 ###### ARTÍCULO 188.
 
-El Programa Rector de Profesionalización, así como los planes y programas del Centro de Profesionalización, Acreditación, Certificación y Carrera son obligatorios para el ingreso, la permanencia y los ascensos en el servicio de seguridad pública estatal y municipal.
+El programa rector de profesionalización, así como los planes y programas de los centros de profesionalización son obligatorios para el ingreso, la permanencia y los ascensos en el servicio de seguridad pública estatal y municipal.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Correspondencia
 
 ###### ARTÍCULO 189.
 
-Las personas que estudien con apoyo de la Fiscalía General, en reciprocidad, estarán obligadas a ser instructores o maestros de los institutos y academias, así como a cumplir con los requisitos que marquen los reglamentos. La negativa será causa de separación del cargo, o de aplicación de sanciones.
+Las personas que estudien con apoyo de la Secretaría de Seguridad y de la Procuraduría en reciprocidad, estarán obligadas a ser instructores o maestros de los institutos y academias, así como a cumplir con los requisitos que marquen los reglamentos. La negativa será causa de separación del cargo o de aplicación de sanciones.
 
 ### CAPÍTULO TERCERO. DE LA CERTIFICACIÓN DE ESTUDIOS
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Autoridad competente
 
 ###### ARTÍCULO 190.
 
-La Fiscalía Jurídica, a cuya estructura orgánica pertenece el Centro de Profesionalización, Acreditación, Certificación y Carrera, es el órgano competente para certificar el grado de aprovechamiento, experiencia y estudios de los agentes del Servicio de Carrera Policial estatales y municipales.
+La Subsecretaría de Desarrollo Policial y la Subprocuraduría Jurídica a cuya estructura orgánica pertenecen los centros de profesionalización, son los órganos competentes para certificar el grado de aprovechamiento, experiencia y estudios de los agentes del servicio de carrera policial estatales y municipales, en lo que a cada uno de ellos corresponde.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Proceso de Certificación
 
 ###### ARTÍCULO 191.
 
-La certificación de estudios se lleva a cabo mediante los procedimientos de evaluaciones periódicas establecidas por el Centro de Profesionalización, Acreditación, Certificación y Carrera, para comprobar el cumplimiento y avances de los programas y cursos impartidos de conformidad con el Programa Rector de Profesionalización y los diseñados por la Fiscalía General.
+La certificación de estudios se lleva a cabo mediante los procedimientos de evaluaciones periódicas establecidas por los centros de profesionalización para comprobar el cumplimiento y avances de los programas y cursos impartidos de conformidad con el programa rector de profesionalización y los diseñados por la Secretaría de Seguridad y la Procuraduría.
 
 La certificación de estudios incluye:
 
@@ -2415,23 +2649,29 @@ III. Reconocer habilidades, destrezas, actitudes, conocimientos generales y espe
 
 ### CAPÍTULO PRIMERO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Autoridad competente
 
 ###### ARTÍCULO 192.
 
-La Fiscalía General, a través de la Fiscalía de Inteligencia, es la autoridad competente para elaborar, establecer y organizar la operación de las políticas públicas, las estrategias y los sistemas de informática, estadística y registro de seguridad pública del Estado y los Municipios, lo que hará acatando las disposiciones de su propia Ley Orgánica, esta Ley y la ley General del Sistema Nacional.
+La Secretaría de Seguridad, a través de la Subsecretaría de Políticas Públicas e Información, es la autoridad competente para elaborar, establecer y organizar la operación de las políticas públicas y las estrategias estatales, así como, los sistemas de informática, estadística y registro de seguridad pública del estado y los municipios, lo que hará acatando las disposiciones de esta ley, la ley general del sistema nacional, el reglamento interior y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Atribuciones y deberes
 
 ###### ARTÍCULO 193.
 
-El Fiscal de Inteligencia es el responsable de organizar, dirigir y supervisar la obtención, análisis, clasificación y manejo de la información estatal y municipal necesaria para establecer las políticas, estrategias y sistemas referidos en el artículo anterior; de acuerdo con lo establecido en la Ley Orgánica de La Fiscalía General, en esta Ley, en la Ley General del Sistema Nacional y en las demás disposiciones aplicables.
+El (sic) Subsecretaría de Políticas Públicas e Información es la responsable de organizar, dirigir y supervisar la obtención, análisis, clasificación y manejo de la información estatal y municipal necesaria para establecer las políticas, estrategias y sistemas referidos en el artículo anterior; de acuerdo con lo establecido en esta ley, la ley general del sistema nacional, el reglamento interior y en las demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Dependencias
 
 ###### ARTÍCULO 194.
 
-Conforman la Fiscalía de Inteligencia y están bajo el mando directo e inmediato de su titular, las siguientes dependencias:
+Conforman la Subsecretaría de Políticas Públicas e Información y están bajo el mando directo e inmediato de su titular, las siguientes dependencias:
 
 I. El Centro de Comunicaciones, Cómputo, Control y Comando, integrado por:
 
@@ -2443,7 +2683,9 @@ I. El Centro de Comunicaciones, Cómputo, Control y Comando, integrado por:
 
 4. La Coordinación de Informática.
 
-II. El Centro de Inteligencia y Políticas Públicas de Seguridad y Procuración de Justicia, conformado por:
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+II. El Centro de Inteligencia y Políticas Públicas de Seguridad, conformado por:
 
 1. La Coordinación de Información, Banco de Datos y Estadística.
 
@@ -2459,11 +2701,17 @@ III. La Dirección General de Políticas Preventivas, compuesta por:
 
 1. La Coordinación de Análisis Criminológico.
 
-2. La Coordinación de Prevención del Delito.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
-3. La Coordinación de Políticas Públicas y Elaboración de Proyectos.
+2. La Coordinación de Políticas Públicas y Elaboración de Proyectos.
+
+3. (DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 IV. Las demás que se establezcan.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Sus atribuciones, facultades y obligaciones estarán reguladas en el Reglamento Interior de la Secretaría de Seguridad Pública.
 
 #### SECCIÓN PRIMERA. DEL CENTRO DE COMUNICACIONES, CÓMPUTO, CONTROL Y COMANDO
 
@@ -2477,41 +2725,23 @@ Atribuciones y deberes
 
 ###### ARTÍCULO 196.
 
-El Centro de Comunicaciones, Cómputo, Control y Comando, tiene la estructura administrativa, las atribuciones y deberes previstos en la Ley Orgánica de la Fiscalía General; y en materia de instalaciones, equipos y sistemas para la realización de sus funciones tendrá la obligación de:
-
-I. Establecer en el Estado, la infraestructura de telecomunicaciones para la seguridad pública;
-
-II. Proveer lo necesario para el debido cumplimiento de las disposiciones en materia de la información sobre seguridad pública;
-
-III. Establecer, administrar y operar el sistema de radiocomunicación para uso exclusivo de las instituciones y corporaciones de seguridad pública;
-
-IV. Establecer y administrar la red de comunicaciones para la transmisión de voz, imagen y datos para la seguridad pública;
-
-V. Establecer y operar los Centros de Atención Telefónica de Emergencia;
-
-VI. Establecer y operar los programas de mantenimiento y soporte de la infraestructura de la red estatal de telecomunicaciones;
-
-VII. Promover los procesos de capacitación y especialización del personal técnico de la unidad, para lograr el efectivo mantenimiento de la red estatal de telecomunicaciones;
-
-VIII. Proporcionar los servicios de comunicación para el establecimiento de tareas de coordinación entre autoridades municipales, estatales y federales, así como con las instituciones de auxilio como Cruz Roja, Bomberos, Protección Civil y las demás que se estimen necesarias para la atención ciudadana;
-
-IX. Establecer acciones coordinadas con otras unidades de enlace informático del Estado y del país para apoyar acciones entre autoridades en materia de seguridad pública de los estados y la federación; y
-
-X. Mantener actualizados, los diversos aplicativos tecnológicos que implemente el Sistema Nacional de Seguridad Pública en apoyo de las tareas de seguridad pública, como son, entre otros: el registro de procesados y sentenciados, de parque vehicular y armamento de las corporaciones, de mandamientos judiciales pendientes de ejecutar, de vehículos robados y recuperados y de la estadística de seguridad pública.
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 Claves de acceso a los Sistemas
 
 ###### ARTÍCULO 197.
 
-El Fiscal de Inteligencia tramitará ante la instancia correspondiente del Sistema Nacional, la obtención de las claves de acceso a los diversos registros y aplicativos a que se refiere la última fracción del artículo anterior, para realizar consultas, altas, bajas o cualquier otra modificación que resulte necesaria para el cumplimiento de su objeto.
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 #### SECCIÓN SEGUNDA. DEL CENTRO DE INTELIGENCIA Y POLÍTICAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Naturaleza
 
 ###### ARTÍCULO 198.
 
-El Centro de Inteligencia y Políticas Públicas de Seguridad y Procuración de Justicia, es la institución encargada de la obtención, análisis, clasificación, conservación, uso, manejo y transmisión de la información sobre seguridad pública estatal y municipal.
+El Centro de Inteligencia y Políticas Públicas de Seguridad, es la institución encargada de la obtención, análisis, clasificación, conservación, uso, manejo y transmisión de la información sobre seguridad pública estatal y municipal.
 
 Competencia
 
@@ -2519,11 +2749,15 @@ Competencia
 
 El Centro de Inteligencia es el órgano competente para organizar, dirigir y supervisar registro administrativo de detenciones, el sistema de información criminal; el banco de datos y estadística; el registro de personal de seguridad; el registro de armamento y equipo; el control de procesados y sentenciados; la geografía delictiva y el análisis de la información.
 
-Plan Estatal
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Programa Estatal
 
 ###### ARTÍCULO 200.
 
-El Centro de Inteligencia elaborará el proyecto del Plan Estatal y lo entregará al Fiscal General para que lo someta a la consideración del Consejo Interior, y una vez aprobado, el Fiscal General lo presentará al Gobernador para que lo proponga al Consejo Estatal.
+El centro de inteligencia colaborará con el Subsecretario de Políticas Públicas e Información en la elaboración del anteproyecto del programa estatal.
+
+> <small>(DEROGADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN TERCERA. DE LAS COORDINACIONES DEL CENTRO DE INTELIGENCIA
 
@@ -2531,15 +2765,9 @@ Estructura
 
 ###### ARTÍCULO 201.
 
-El Centro de Inteligencia y Políticas Públicas de Seguridad y Procuración de Justicia, tendrá la estructura administrativa prevista en la Ley Orgánica de la Fiscalía General y las siguientes direcciones:
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
-I. Dirección de Análisis, Estudios y Proyectos;
-
-II. Dirección de Información Geográfica Delictiva;
-
-III. Dirección de Políticas Preventivas; y
-
-IV. Las demás que establezcan las leyes y reglamentos aplicables.
+> <small>(DEROGADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN CUARTA. DE LAS ATRIBUCIONES GENERALES
 
@@ -2547,15 +2775,9 @@ Atribuciones y deberes
 
 ###### ARTÍCULO 202.
 
-El Centro de Inteligencia, para el ejercicio de sus funciones tendrá las atribuciones generales previstas en la Ley Orgánica de la Fiscalía General, y las siguientes:
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
-l. Establecer los principios, métodos y manuales de coordinación entre la Policía del Estado y las de los Municipios en las materias de políticas públicas, informática, estadística y registro de información;
-
-II. Elaborar y llevar los sistemas de estadística para medir la incidencia delictiva y los resultados de los programas y acciones;
-
-III. Organizar, operar y supervisar el Registro de Seguridad Pública del Estado, y
-
-IV. Las otras que se establezcan en esta Ley o las demás disposiciones aplicables.
+> <small>(DEROGADA, P.O. 8 DE ABRIL DE 2012)</small>
 
 #### SECCIÓN QUINTA. DE LA COORDINACIÓN DE INFORMACIÓN GEOGRÁFICA DELICTIVA
 
@@ -2563,19 +2785,19 @@ Objetivo
 
 ###### ARTÍCULO 203.
 
-El Sistema de Información Geográfica Delictiva tendrá por objeto generar la información de la incidencia delictiva relativa a todo el territorio del Estado, de uno o varios Municipios, o de una región geográfica determinada. La generación de la información deberá de ser automatizada, oportuna, confiable y suficiente para analizar y evaluar la incidencia de que se trate.
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 Estructura administrativa
 
 ###### ARTÍCULO 204.
 
-La Unidad de Información Geográfica estará bajo el mando directo del coordinador y contará con las dependencias que el Fiscal General le asigne de acuerdo al presupuesto.
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 Obligación de informar
 
 ###### ARTÍCULO 205.
 
-La Coordinación General de la Policía del Estado y las Direcciones de las Policías Preventivas Municipales, están obligadas a remitir al Coordinador de la Unidad de Información Geográfica, oficialmente, por escrito, de manera oportuna y actualizada, durante los primeros cinco días de cada mes, la estadística generada en sus respectivas áreas territoriales y materiales de competencia.
+(DEROGADO, P.O. 8 DE ABRIL DE 2012)
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO DE SEGURIDAD PÚBLICA DEL ESTADO
 
@@ -2611,11 +2833,13 @@ Obligación de Consulta al Sistema Nacional
 
 En las actividades de seguridad pública es obligación consultar la base nacional de datos del Sistema Único de Información Criminal, sobre personas indiciadas, procesadas o sentenciadas, donde se incluyan su perfil criminológico, medios de identificación, recursos y modos de operación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Estructura administrativa del Registro
 
 ###### ARTÍCULO 211.
 
-El Registro de Seguridad Pública del Estado estará bajo el mando del Fiscal de Inteligencia, quien además de sus funciones estará autorizado para certificar los documentos que expida el Registro. Contará para la integración, operación, organización y supervisión con la siguiente estructura:
+El registro de seguridad pública del estado estará bajo el mando del Subsecretario de Políticas Públicas e Información, quien además de sus funciones estará autorizado para certificar los documentos que expida el registro. Contará para la integración, operación, organización y supervisión con la siguiente estructura:
 
 I. El Director General del Centro de Comunicaciones, Cómputo, Control y Comando, será a la vez el titular del Registro;
 
@@ -2627,11 +2851,13 @@ IV. El personal encargado de calificar e inscribir los actos registrales, y
 
 V. Demás personal que se requiera para el desempeño de la función registral y se autorice por el Presupuesto de Egresos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Confidencialidad
 
 ###### ARTÍCULO 212.
 
-El Registro de Seguridad Pública del Estado administrará la información de seguridad bajo los más estrictos principios de confidencialidad y reserva de acuerdo a lo dispuesto por la Ley Orgánica de la Fiscalía General y la Ley General del Sistema Nacional.
+El registro de seguridad pública del estado administrará la información de seguridad bajo los más estrictos principios de confidencialidad y reserva de acuerdo a lo dispuesto por esta ley, la ley general del sistema nacional, el reglamento interior y demás disposiciones aplicables.
 
 Formalidades de la información
 
@@ -2657,11 +2883,13 @@ Obligatoriedad
 
 Los funcionarios y empleados del Registro, todas las autoridades, los particulares, personas físicas o morales, responsables de proporcionar o de recibir información; y los usuarios de los servicios que preste el Registro, estarán obligados a observar, cumplir y, en su caso, a hacer cumplir las disposiciones de esta Ley y las que contemplen las demás leyes y reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Solicitudes
 
 ###### ARTÍCULO 217.
 
-La información requerida por las autoridades para efectos de investigación deberá de solicitarse por escrito al Fiscal de Inteligencia, a través del Director del Registro, el que deberá emitir la respuesta correspondiente en un término que no excederá de diez días hábiles, contados a partir de que se reciba la solicitud de consulta.
+La información requerida por las autoridades para efectos de investigación deberá de solicitarse por escrito al Subsecretario de Políticas Públicas e Información, a través del director del registro, el que deberá emitir la respuesta correspondiente en un término que no excederá de diez días hábiles, contados a partir de que se reciba la solicitud de consulta.
 
 Manifestaciones falsas
 
@@ -2669,11 +2897,13 @@ Manifestaciones falsas
 
 Las personas que en forma dolosa proporcionen datos falsos, o presenten documentos falsos, o alterados en su contenido o interpretación ideológica, serán denunciadas, inmediatamente, ante el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Omisiones ilícitas
 
 ###### ARTÍCULO 219.
 
-Los empleados del Registro que, en forma dolosa o culposa, omitan, modifiquen o alteren el registrar un antecedente negativo o positivo de cualquier agente de las fuerzas de seguridad pública estatales y municipales; o de elementos de seguridad privada; o que al responder una consulta omitan los antecedentes negativos o positivos de cualquier persona que pretenda ingresar a las fuerzas mencionadas, se les sancionará en los términos de la Ley Orgánica de la Fiscalía General.
+Los empleados del registro que, en forma dolosa o culposa, omitan, modifiquen o alteren el registrar un antecedente negativo o positivo de cualquier agente de las fuerzas de seguridad pública estatales y municipales, o de elementos de seguridad privada, o que al responder una consulta omitan los antecedentes negativos o positivos de cualquier persona que pretenda ingresar a las fuerzas mencionadas, se les sancionará en los términos del reglamento interior.
 
 Acciones registrales
 
@@ -2755,11 +2985,13 @@ Obligatoriedad de su consulta
 
 La consulta al Registro será obligatoria y previa al ingreso o reingreso de toda persona al Instituto Superior de Estudios o a cualquier institución policial estatal o municipal; así como en el caso de las empresas privadas de seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Resultados de Consulta
 
 ###### ARTÍCULO 225.
 
-De conformidad con los resultados de la consulta, el Fiscal de Inteligencia, por conducto del titular del Registro, emitirá la opinión que corresponda dentro de las siguientes:
+De conformidad con los resultados de la consulta, el Subsecretario de Políticas Públicas e Información, por conducto del titular del registro, emitirá los siguientes tipos de opiniones:
 
 I. De procedencia, para la contratación cuando de la consulta resulte que la persona no tiene historial en instituciones de seguridad pública o de seguridad privada; o bien, que sus antecedentes son positivos;
 
@@ -2779,11 +3011,13 @@ III. De improcedencia, cuando la persona tenga antecedentes negativos graves. Se
 
 6. Por las demás causas de las que la autoridad tenga conocimiento y consideren suficientes para no contratarlo.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Sanciones a las Autoridades por la Omisión de Consultar
 
 ###### ARTÍCULO 226.
 
-Los responsables de las fuerzas de seguridad pública estatales y municipales que den de alta a una persona sin consultar previamente al Registro, serán sancionados en los términos de lo dispuesto por la Ley Orgánica de la Fiscalía General y demás ordenamientos aplicables.
+Los responsables de las fuerzas de seguridad pública estatal y municipales que den de alta a una persona sin consultar previamente al registro, serán sancionados en los términos de lo dispuesto por la Ley de Responsabilidades de Servidores Públicos Estatales y Municipales para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables.
 
 Sanciones a las Empresas de Seguridad por la omisión de consultar
 
@@ -2791,11 +3025,13 @@ Sanciones a las Empresas de Seguridad por la omisión de consultar
 
 Las empresas y las personas físicas autorizadas a prestar servicios de seguridad privada, que omitan consultar previamente al Registro para dar de alta a una persona, serán sancionados (sic) en los términos previstos por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Información al Registro Nacional
 
 ###### ARTÍCULO 228.
 
-El Fiscal de Inteligencia entregará al Registro Nacional de Personal de Seguridad Pública, en los términos que acuerden las Conferencias Nacionales de Procuración de Justicia y de Secretarios de Seguridad Pública, la información actualizada, relativa a los integrantes de las instituciones policiales del Estado y los Municipios, la cual contendrá, por lo menos:
+El Subsecretario de Políticas Públicas e Información entregará al Registro Nacional de Personal de Seguridad Pública, en los términos que acuerden las conferencias nacionales de seguridad pública, la información actualizada, relativa a los integrantes de las instituciones policiales del estado y los municipios, la cual contendrá, por lo menos:
 
 I. Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes en el servicio, así como su trayectoria en la seguridad pública;
 
@@ -2825,15 +3061,19 @@ Las credenciales, en su caso, tendrán inserta la autorización para la portaci�
 
 Se prohíbe la expedición y el uso de credenciales metálicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Autorización de las credenciales
 
 ###### ARTÍCULO 231.
 
-Todas las credenciales deberán de firmarse por el Fiscal General, y en su caso, por el titular de la Licencia Oficial Colectiva para uso de armas de fuego, expedida por la Secretaría de la Defensa Nacional. Sin ese requisito no tendrán validez oficial.
+Todas las credenciales deberán de firmarse por el Secretario de Seguridad o por el Procurador General, según corresponda, y en su caso, por el titular de la licencia oficial colectiva para uso de armas de fuego, expedida por la Secretaría de la Defensa Nacional. Sin ese requisito no tendrán validez oficial.
 
 Las credenciales deberán ser firmadas también por los siguientes funcionarios:
 
-I. Tratándose del personal de la Policía del Estado por el Fiscal Ministerial y por el agente de policía;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+
+I. Tratándose del personal de la policía del estado por el Subsecretario de Operación Policial o por el Subprocurador Ministerial, según corresponda, y por el agente de policía;
 
 II. Por lo que hace a las fuerzas de seguridad pública municipales, el Presidente Municipal y el agente de policía, y
 
@@ -2857,11 +3097,13 @@ Datos mínimos
 
 El documento de identificación de los integrantes de las instituciones de Seguridad Pública deberá contener al menos el nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como, las medidas de seguridad que garanticen su autenticidad.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Incumplimiento
 
 ###### ARTÍCULO 235.
 
-Los efectos de las violaciones a las disposiciones contenidas en esta sección serán que se considere ilegal la portación o posesión de armas. Quien incurra en esa conducta será denunciado penal mente y sancionado de conformidad con lo establecido en la Ley Orgánica de la Fiscalía y demás ordenamientos aplicables.
+Los efectos de las violaciones a las disposiciones contenidas en esta sección serán que se considere ilegal la portación o posesión de armas. Quien incurra en esa conducta será denunciado penalmente y sancionado de conformidad con lo establecido en la ley de procuración de justicia o el reglamento interior según corresponda, y demás ordenamientos aplicables.
 
 #### SECCIÓN TERCERA. DE LA UNIDAD DE ARMAS DE FUEGO, MUNICIONES Y EQUIPO POLICIAL
 
@@ -3055,7 +3297,9 @@ Información de órdenes de aprehensión
 
 El Registro de Seguridad Pública del Estado organizará la operación de la información de los procedimientos y los datos de todas las personas en contra de quienes exista o se ejecute una orden de aprehensión.
 
-El Director General de Control de Procesos de la Fiscalía General, es el obligado a transmitir de inmediato la información de las ordenes de aprehensión que le sean notificadas al Ministerio Público.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+El director general de control de procesos de la Procuraduría, es el obligado a transmitir de inmediato la información de las ordenes de aprehensión que le sean notificadas al Ministerio Público.
 
 Obligación de consulta y disposición de detenidos
 
@@ -3095,11 +3339,13 @@ Cultura de la prevención del delito
 
 La Dirección General de Políticas Preventivas, será la responsable de establecer la política pública integral que fomente la cultura de la prevención del delito y de la seguridad pública; y de desarrollar valores sociales para el fortalecimiento de la justicia, la libertad y la democracia.
 
-Estructura
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Estructura de la Dirección General de Políticas Preventivas
 
 ###### ARTÍCULO 263.
 
-La Dirección General de Políticas Preventivas tendrá la estructura consignada en la Ley Orgánica de la Fiscalía General; y conforme lo permita el presupuesto el Fiscal General creara las dependencias, designará a los titulares y les asignará sus categorías, para cubrir las funciones de:
+La Dirección General de Políticas Preventivas tendrá la estructura consignada en el reglamento interior y conforme lo permita el presupuesto el Secretario de Seguridad creará las dependencias, designará a los titulares de conformidad con las disposiciones aplicables, para cubrir las funciones de:
 
 I. Análisis Criminológico;
 
@@ -3113,25 +3359,29 @@ IV. Las demás que se establezcan en la legislación aplicable.
 
 ### CAPÍTULO PRIMERO. DE LA COMPETENCIA ESTATAL
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Legislación
 
 ###### ARTÍCULO 264.
 
-Las relaciones laborales de los servidores públicos del Estado, en materia de seguridad pública, se rigen por las disposiciones de las Constituciones General y del Estado; el Estatuto Jurídico de los Trabajadores al Servicio del Estado; la Ley Orgánica de la Fiscalía General, esta Ley y las demás disposiciones aplicables.
+Las relaciones laborales de los servidores públicos del estado, en materia de seguridad pública, se rigen por las disposiciones de las constituciones general y del estado, esta ley, el Estatuto Jurídico de los Trabajadores al Servicio del Estado de Coahuila; la ley de procuración de justicia, el reglamento interior y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Autoridad estatal competente
 
 ###### ARTÍCULO 265.
 
-En el Estado, la Fiscalía Jurídica y la Dirección General de Responsabilidades, serán las responsables en el ámbito de su competencia, de vigilar que todos los servidores públicos, cumplan cabalmente con las obligaciones que les correspondan y de ejercer los derechos y acciones a que haya lugar.
+La Dirección General de Responsabilidades de la Procuraduría, y el órgano interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública, serán los responsables, en el ámbito de su competencia, de vigilar que todos los servidores públicos, cumplan cabalmente con las obligaciones que les correspondan y de ejercer los derechos y acciones a que haya lugar.
 
-Obligaciones de la Fiscalía General
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Obligaciones de la Secretaría de Seguridad
 
 ###### ARTÍCULO 266.
 
-La Fiscalía General únicamente será responsable de las obligaciones que generen las relaciones laborales y administrativas con el personal a su servicio. Las acciones de coordinación con los Municipios, no generan relaciones laborales o administrativas con la Fiscalía General, ni ésta será responsable de los hechos que deriven de dichas acciones. Por las mismas circunstancias, el personal al servicio de la Fiscalía General tampoco tendrá ningún derecho y ni acción en contra de los Municipios.
-
-Las personas al servicio de la Fiscalía no tendrán ningún derecho ni acción, derivados de su relación de trabajo administrativa en contra de los Municipios.
+La Secretaría de Seguridad únicamente será responsable de las obligaciones que generen las relaciones laborales y administrativas con el personal a su servicio. Las acciones de coordinación con los municipios, no generan relaciones laborales o administrativas con la Secretaría de Seguridad, ni ésta será responsable de los hechos que deriven de dichas acciones. Por las mismas circunstancias, el personal al servicio de la Secretaría de Seguridad tampoco tendrá derecho alguno ni acción en contra de los municipios.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA MUNICIPAL
 
@@ -3153,27 +3403,33 @@ Obligaciones de los Municipios
 
 Cada uno de los Municipios únicamente será responsable de las obligaciones que generen las relaciones laborales y administrativas con el personal a su servicio.
 
-Las personas al servicio de los Municipios no tendrán ningún derecho ni acción, de carácter laboral o administrativo en contra de la Fiscalía General o del Estado, con motivo de las acciones de coordinación que realicen conjuntamente.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Las personas al servicio de los municipios no tendrán ningún derecho ni acción, de carácter laboral o administrativo en contra de la Secretaría de Seguridad o de alguna otra dependencia del estado, con motivo de las acciones de coordinación que realicen conjuntamente.
 
 ### CAPÍTULO TERCERO. DE LAS RELACIONES ADMINISTRATIVAS
 
 #### SECCIÓN PRIMERA. DEL ESTADO
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Normatividad
 
 ###### ARTÍCULO 270.
 
-Las relaciones de los agentes del ministerio público, los policías y peritos de la Fiscalía General son de naturaleza administrativa y se regirán por lo dispuesto en la fracción XIII, apartado "B" del artículo 123 de la Constitución General, y en la Ley Orgánica de la Fiscalía General.
+Las relaciones de los agentes del Ministerio Público, los policías y peritos de la Procuraduría, así como los policías de la Secretaría de Seguridad son de naturaleza administrativa y se regirán por lo dispuesto en la fracción XIII, apartado "B" del artículo 123 de la constitución general, en la ley de procuración de justicia, el reglamento interior y demás disposiciones aplicables.
 
 ###### ARTÍCULO 271.
 
 Los integrantes de las instituciones policiales estatales podrán ser separados de su cargo si no cumplen con los requisitos de las leyes vigentes, No procederá su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa empleado para combatir la separación; y en su caso, sólo procederá la indemnización correspondiente. Las separaciones se informarán inmediatamente, por escrito, al Registro de Seguridad Pública del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Derechos
 
 ###### ARTÍCULO 272.
 
-Los agentes del Ministerio Público, los policías y peritos, con motivo de la prestación de sus servicios a la Fiscalía General, gozarán al menos de las prestaciones previstas como mínimas para los trabajadores al servicio del Estado.
+Los agentes del Ministerio Público, los policías y peritos, con motivo de la prestación de sus servicios a la Procuraduría y a la Secretaría de Seguridad, gozarán al menos de las prestaciones previstas como mínimas para los trabajadores al servicio del estado.
 
 Los servidores que laboren en materia de seguridad pública para los municipios, gozarán al menos, de las prestaciones previstas como mínimas para sus trabajadores.
 
@@ -3183,11 +3439,13 @@ Indemnización
 
 El monto de las indemnizaciones que correspondan en los casos de separaciones previstas en esta sección será el establecido de manera general en el Estatuto Jurídico de los Trabajadores al Servicio del Estado; o en su caso el que contemple el reglamento especial que se expida para tal efecto.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Autoridad competente
 
 ###### ARTÍCULO 274.
 
-La Dirección General de Responsabilidades será la competente para atender y resolver lo previsto en este capítulo, en los casos que personal al servicio de la Fiscalía General, violen las disposiciones, o realicen los actos y hechos prohibidos en la Ley Orgánica de la Fiscalía General o en esta Ley.
+El órgano interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública y la Dirección de Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia, son los competentes para atender y resolver lo previsto en este capítulo, en los casos en que personal al servicio de la Secretaría de Seguridad y de la Procuraduría General de Justicia, violen las disposiciones o realicen los actos y hechos prohibidos en esta ley, la ley de procuración de justicia, reglamento interior, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. DEL MUNICIPIO
 
@@ -3251,11 +3509,13 @@ Las instituciones de seguridad pública estatales y municipales, conforme a lo d
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Obligatoriedad
 
 ###### ARTÍCULO 282.
 
-Todo el personal de la Fiscalía General y el personal de seguridad pública de los Municipios están obligados (sic) a someterse al proceso de evaluación y certificación de la confianza, en los términos de las disposiciones aplicables y con el procedimiento que para el caso establezca el Reglamento Interior de la Fiscalía General.
+Todo el personal de la Secretaría de Seguridad, de la Procuraduría y de seguridad pública de los municipios están obligados (sic) a someterse al proceso de evaluación y certificación de confianza, en los términos de las disposiciones.
 
 Periodicidad
 
@@ -3263,27 +3523,33 @@ Periodicidad
 
 El proceso de evaluación y certificación de la confianza se verifica de manera permanente y en forma periódica, desde la solicitud de ingreso y durante toda la prestación del servicio.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Autoridad competente
 
 ###### ARTÍCULO 284.
 
-El Centro de Evaluación y Control de Confianza, es el órgano desconcentrado de la Fiscalía General, competente para organizar, aplicar y supervisar el proceso de evaluación y certificación de la confianza del personal de la Fiscalía General.
+El centro de evaluación, es un órgano desconcentrado de la Secretaría de Seguridad Pública, competente para organizar, aplicar y supervisar el proceso de evaluación y certificación de confianza de los integrantes de las instituciones de seguridad pública del Estado y en su caso, de los municipios.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Obligaciones de los Municipios
 
 ###### ARTÍCULO 285.
 
-Los Municipios están obligados a organizar, operar y supervisar sus propios centros de evaluación y certificación de la confianza o, en su caso, deberán de celebrar convenios con la Federación, o con la Fiscalía General para que a través de su Centro de Evaluación y Control de Confianza, se organicen y practiquen los procedimientos de evaluación y certificación al personal municipal.
+Los municipios están obligados a organizar, operar y supervisar sus propios centros de evaluación y certificación de confianza o, en su caso, deberán de celebrar convenios con la federación, o con el Gobierno del Estado para que a través de su centro de evaluación se organicen y practiquen los procedimientos de evaluación y certificación al personal municipal.
 
 ### CAPÍTULO SEGUNDO. DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Definición
 
 ###### ARTÍCULO 286.
 
-El Centro de Evaluación y Control de Confianza es un órgano desconcentrado de la Fiscalía General, con autonomía funcional, responsable de la evaluación y certificación de confianza de los integrantes de las instituciones de seguridad pública y procuración de justicia; así como de vigilar que los servidores públicos de la institución se comporten en la prestación de sus servicios y en sus relaciones familiares y sociales de manera profesional, eficiente, imparcial, confiable y honesta.
+El Centro de Evaluación y Control de Confianza contará con autonomía funcional y será responsable de la evaluación y certificación de confianza de los integrantes de las instituciones de seguridad pública; así como de verificar que los servidores públicos de las instituciones de seguridad y procuración de justicia se comporten en la prestación de sus servicios y en sus relaciones familiares y sociales de manera profesional, eficiente, imparcial, confiable y honesta.
 
-El Centro de Evaluación y Control de Confianza estará presidido por un Director General que será designado en la forma y términos previstos en la Ley Orgánica de la Fiscalía General.
+El centro de evaluación estará presidido por un director general que será designado por el gobernador del estado
 
 Estructura
 
@@ -3337,23 +3603,31 @@ XIII. Elaborar los informes de resultados para la aceptación o rechazo de los a
 
 XIV. Las demás que le confieran esta Ley y las otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Coordinación
+
 ###### ARTÍCULO 289.
 
-El Centro de Evaluación y Control de Confianza se coordinará con la Fiscalía Jurídica, para efectuar los procesos de selección, ingreso, permanencia, profesionalización y retiro.
+El centro de evaluación se coordinará con la Subsecretaría de Desarrollo Policial, para efectuar los procesos de selección, ingreso, permanencia, profesionalización y retiro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Objeto
 
 ###### ARTÍCULO 290.
 
-La evaluación tendrá como objeto verificar que los servidores públicos de la Fiscalía General cumplen sus funciones de manera profesional, eficiente, imparcial, confiable y honesta, para alcanzar los objetivos y metas institucionales.
+La evaluación tendrá como objeto verificar que los servidores públicos de la Secretaría de Seguridad cumplan sus funciones de manera profesional, eficiente, imparcial, confiable y honesta, para alcanzar los objetivos y metas institucionales.
 
 Los resultados de la evaluación serán confidenciales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Regulación de los procedimientos y evaluaciones
 
 ###### ARTÍCULO 291.
 
-El Reglamento Interior de la Fiscalía General establecerá los procedimientos conforme a los cuales se llevarán a cabo los procesos de evaluación de control de confianza y su calificación; salvo la evaluación toxicológica que se presentará y calificará por separado.
+Los procedimientos conforme a los cuales se llevarán a cabo los procesos de evaluación de control de confianza y su calificación, estarán regulados por el Reglamento de Evaluación y Certificación del personal de seguridad pública que expedirá el Gobernador del Estado.
 
 En dicho ordenamiento también se regularán las consecuencias de la no presentación a la evaluación, así como del resultado negativo de la misma.
 
@@ -3361,31 +3635,37 @@ En dicho ordenamiento también se regularán las consecuencias de la no presenta
 
 ### CAPÍTULO PRIMERO. DE LOS SERVIDORES DEL ESTADO
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Legislación aplicable
 
 ###### ARTÍCULO 292.
 
-Todas las personas al servicio de la Fiscalía General del Estado para garantizar que cumplan sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al Régimen de Responsabilidades Administrativas, instituido y regulado en la Ley Orgánica de la Fiscalía General.
+Todas las personas al servicio de la Secretaría de Seguridad para garantizar que cumplan sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas, instituido y regulado por la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza. Por lo que hace a los integrantes de la Procuraduría, se sujetarán a las disposiciones de la Ley de Procuración de Justicia.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Autoridad competente
 
-> <small>(F. DE E., P.O. 14 DE AGOSTO DE 2009)</small>
-
 ###### ARTÍCULO 293.
 
-Las funciones del Régimen de Responsabilidades Administrativas, están encomendadas a la Dirección General de Responsabilidades de la Fiscalía General, sin perjuicio de lo previsto en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila.
+Las funciones del régimen de responsabilidades administrativas, están encomendadas al órgano de control interno que se designe en el Reglamento Interior de la Secretaria de Seguridad Pública y a la Dirección de Responsabilidades de los Servidores Públicos de la Procuraduría General de Justicia, en el ámbito de su aplicación, sin perjuicio de lo previsto en la Ley de Responsabilidades.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Obligaciones y prohibiciones
 
 ###### ARTÍCULO 294.
 
-Todos los servidores públicos de la Fiscalía del Estado deberán de cumplir las obligaciones genéricas y específicas que correspondan a sus puestos, cargos o comisiones; e igualmente deberán de abstenerse de realizar los hechos y los actos prohibidos en la Ley Orgánica de la Fiscalía General y en los demás ordenamientos aplicables.
+Todos los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia, deberán de cumplir las obligaciones genéricas y específicas que correspondan a sus puestos, cargos o comisiones; e igualmente deberán de abstenerse de realizar los hechos y los actos prohibidos en la Ley de Procuración de Justicia y el Reglamento Interior de la Secretaría de Seguridad Pública, y en los demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Consecuencia del incumplimiento
 
 ###### ARTÍCULO 295.
 
-Las violaciones o infracciones que se cometan en el ejercicio del servicio público estatal, o con motivo de él, a las disposiciones de esta Ley, o a las contenidas en la Ley Orgánica de la Fiscalía General, serán causa suficiente para que se inicien los procedimientos que correspondan.
+Las violaciones o infracciones que se cometan en el ejercicio del servicio público estatal o con motivo de él, a las disposiciones de esta ley o a las contenidas en la Ley de Procuración de Justicia, el reglamento interior y demás disposiciones aplicables, serán causa suficiente para que se inicien los procedimientos que correspondan.
 
 ### CAPÍTULO SEGUNDO. DE LOS SERVIDORES DE LOS MUNICIPIOS
 
@@ -3395,11 +3675,13 @@ Autoridad municipal competente
 
 Todas las personas al servicio de los Municipios en materia de seguridad, para garantizar el cumplimiento de sus funciones de manera objetiva, imparcial, profesional, transparente, responsable, eficiente y honesta, independientemente de que sus relaciones sean administrativas o laborales, están sujetas al régimen de responsabilidades administrativas instituido y regulado en sus propias leyes, códigos y reglamentos.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Autoridad estatal competente
 
 ###### ARTÍCULO 297.
 
-En los casos de ejecución de programas, acciones y operativos de seguridad pública organizados por la Fiscalía General, los agentes de las policías preventivas municipales estarán sujetos al Régimen de Responsabilidades Administrativas, instituido y regulado en la Ley Orgánica de la Fiscalía General.
+En los casos de ejecución de programas, acciones y operativos de seguridad pública organizados por la Secretaría de Seguridad, los agentes de las policías preventivas municipales estarán sujetos al régimen de responsabilidades administrativas, instituido y regulado en esta Ley y la Ley de Responsabilidades.
 
 ### CAPÍTULO TERCERO. DEL RÉGIMEN DISCIPLINARIO
 
@@ -3463,45 +3745,57 @@ Expediente administrativo del infractor
 
 Las sanciones disciplinarias se harán constar en el expediente personal del infractor.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Excusa
 
 ###### ARTÍCULO 306.
 
-No serán sancionados quien (sic) se nieguen a cumplir órdenes ilegales.
+No serán sancionados quienes se nieguen a cumplir órdenes ilegales.
 
 ## TÍTULO DÉCIMO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO Y LOS COMITÉS DE CIUDADANOS
 
-Regulación de la participación
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
+Garantía de participación ciudadana
 
 ###### ARTÍCULO 307.
 
-La participación activa e informada de la sociedad para coadyuvar de manera consultiva en la misión, funciones y acciones de seguridad pública del Estado y los Municipios, se regula por las disposiciones de la Ley Orgánica de la Fiscalía General, de esta Ley y las demás disposiciones aplicables.
+La participación de la sociedad civil en los procesos de elaboración y evaluación de las políticas públicas de prevención del delito y de la delincuencia, y de las instituciones de seguridad pública y procuración de justicia, se hará a través de las siguientes organizaciones, independientemente de cualquiera otra forma que la población decida, siempre que sea pacifica, ordenada y creativa:
 
-Organismos de participación
+I. El Consejo Estatal (sic) Participación Social en Seguridad Pública y Procuración de Justicia;
+
+II. Los Consejos Regionales de Participación Social;
+
+III. Los Consejos Consultivos Municipales; y
+
+IV. Los Comités de Seguridad Pública de colonias, barrios y comunidades rurales de los municipios.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 308.
 
-La participación de la sociedad en los programas de seguridad pública y en la evaluación de los resultados, se hará a través de las siguientes organizaciones, independientemente de cualesquiera otra forma que la población decida, siempre que sea pacifica, ordenada y creativa:
-
-I. El Consejo Ciudadano de Vinculación Social de la Fiscalía General;
-
-II. Los Comités de Seguridad Pública de colonias, barrios y comunidades rurales de los municipios.
+En cada una de las regiones en que se divida el estado para efectos de seguridad y procuración de justicia y en cada demarcación regional se establecerá un Consejo Regional de Participación Social.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO CIUDADANO DE VINCULACIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Reglamentación
 
 ###### ARTÍCULO 309.
 
-El Consejo Ciudadano de Vinculación Social se integra y funciona de conformidad con las previsiones de la Ley Orgánica de la Fiscalía General.
+El Consejo Estatal de Participación Social se integrará y funcionará de conformidad con las disposiciones previstas en su reglamento interior.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Misión
 
 ###### ARTÍCULO 310.
 
-La misión del Consejo es coadyuvar con sus opiniones y actividades en la difusión y evaluación de las acciones de la Fiscalía General; y es el medio de intercomunicación con la sociedad para fomentar las acciones de seguridad pública que pueda asumir la sociedad civil.
+La misión de los consejos de participación social es coadyuvar con sus opiniones y actividades en la elaboración, difusión y evaluación de las políticas públicas del Estado y municipios, y es el medio de intercomunicación con la sociedad para fomentar las acciones de seguridad pública y procuración de justicia que pueda asumir la sociedad civil.
 
 Objeto
 
@@ -3531,19 +3825,23 @@ III. Fomentar la autoprotección a través de material informativo y de orientac
 
 IV. Desarrollar actividades para el estudio y la operación de métodos de prevención del delito.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+
 Proceso de integración
 
 ###### ARTÍCULO 314.
 
-La integración y funcionamiento de los comités serán determinados por las asambleas de vecinos, en votación libre y democrática y ante la presencia de autoridades municipales competentes que califiquen el proceso y los resultados; observaran en lo conducente lo previsto en la Ley Orgánica de la Fiscalía General para el Consejo Ciudadano de Vinculación Social.
+El Consejo Estatal de Participación Social estará integrado por los presidentes de los consejos regionales, y estos a su vez por los representantes de la sociedad civil organizada que se integren en términos de la convocatoria que al efecto expida el gobernador del estado.
 
 ### CAPÍTULO CUARTO. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2012)</small>
 
 Facultades y deberes
 
 ###### ARTÍCULO 315.
 
-Los consejos y comités tienen las facultades y deberes previstos en la Ley Orgánica de la Fiscalía General yen esta Ley; y además las siguientes:
+Los consejos y comités tienen las facultades y deberes previstos en esta ley, su reglamento interior y además las siguientes:
 
 I. Proponer y opinar sobre políticas de seguridad pública;
 
@@ -3606,3 +3904,29 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ABRIL DE 2012.
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a la Fiscalía General del Estado y al Fiscal General del Estado, se entenderán hechas a la Procuraduría General de Justicia del Estado y a su titular.
+
+TERCERO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos a los fiscales especializados, en materia de procuración de justicia, se entenderán hechas a los subprocuradores, conforme a las siguientes denominaciones:
+
+Fiscal Ministerial, de Investigación y Operación Policial: Subprocurador Ministerial.
+
+Fiscal de Control de Procesos y Legalidad: Subprocurador de Control de Procesos y Legalidad: (sic)
+
+Fiscal Jurídico, de Profesionalización y de Proyectos: Subprocurador Jurídico de Profesionalización y de Proyectos: (sic)
+
+CUARTO.- Se abroga la Ley Orgánica de la Fiscalía General del Estado. publicada en el Periódico Oficial del Gobierno del Estado de fecha 12 de mayo de 2009 y los reglamentos emanados de ella, las disposiciones que sean contrarias a las normas establecidas en la presente ley, debiéndose observar las siguientes reglas:
+
+QUINTO.- Todos los procedimientos y asuntos pendientes de la Fiscalía en materia de procuración de justicia, serán tramitados y resueltos por la Procuraduría General de Justicia del Estado de conformidad con las leyes y reglamentos vigentes en el tiempo de la comisión de los actos y los hechos.
+
+SEXTO.- Todas las disposiciones contenidas en esta ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
+
+SÉPTIMO.- La organización y funcionamiento del Centro de Evaluación y Control de Confianza previsto en la fracción II del artículo 8 y 284 del Artículo Primero del presente decreto, se regulará por las disposiciones que para tal efecto se emitan en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente.
+
+OCTAVO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
