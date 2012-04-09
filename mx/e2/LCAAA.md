@@ -4,7 +4,7 @@ identifier: "LCAAA"
 country: "mx"
 rank: "ley"
 publication_date: "1932-08-27"
-last_updated: "2010-11-30"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1524&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LCAAA"
 ---
 # LEY SOBRE CAMARAS AGRICOLAS, QUE EN LO SUCESIVO SE DENOMINARAN ASOCIACIONES AGRICOLAS
 
-LEY SOBRE ASOCIACIONES AGRICOLAS
+LEY SOBRE ASOCIACIONES AGRÍCOLAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASOCIACIONES GANADERAS, PUBLICADA EN EL D.O.F. DE 12 DE MAYO DE 1936, SE DEROGA LA LEY DE ASOCIACIONES AGRICOLAS UNICAMENTE POR LO QUE SE REFIERE A LA CONSTITUCION, ORGANIZACION Y FUNCIONAMIENTO GENERAL, DE LAS ASOCIACIONES E INSTITUCIONES FILIALES A ELLAS, QUE DEDIQUEN SUS ACTIVIDADES A LA INDUSTRIA ANIMAL.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ASOCIACIONES GANADERAS, PUBLICADA EN EL D.O.F. DE 12 DE MAYO DE 1936, SE DEROGA LA LEY DE ASOCIACIONES AGRÍCOLAS ÚNICAMENTE POR LO QUE SE REFIERE A LA CONSTITUCIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO GENERAL, DE LAS ASOCIACIONES E INSTITUCIONES FILIALES A ELLAS, QUE DEDIQUEN SUS ACTIVIDADES A LA INDUSTRIA ANIMAL.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -108,11 +108,11 @@ Las Uniones Agrícolas Regionales, mediante delegados que designen, constituirá
 
 Podrán funcionar Asociaciones Agrícolas Locales en todos aquellos lugares en donde diez o más productores especializados deseen agruparse en los términos de esta Ley.
 
-> <small>(F. DE E., D.O.F. 1 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 11.
 
-Se entiende por región agrícola la que, por la similaridad de actividades rurales y por las vías de comunicación con que cuente, pueda constituir una unidad dentro de la economía nacional. Para regularizar el funcionamiento de las Uniones Agrícolas Regionales, la Secretaría de Agricultura, por conducto de la Dirección de Agricultura, señalará las regiones económicas en que se considere más adecuado dividir al país.
+Se entiende por región agrícola la que, por la similaridad de actividades rurales y por las vías de comunicación con que cuente, pueda constituir una unidad dentro de la economía nacional. Para regularizar el funcionamiento de las Uniones Agrícolas Regionales, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, por conducto de la Dirección de Agricultura, señalará las regiones económicas en que se considere más adecuado dividir al país.
 
 ###### ARTICULO 12.
 
@@ -128,31 +128,39 @@ La Confederación será el órgano por medio del cual todas las Asociaciones Agr
 
 ### CAPITULO IV. El Estado y las Asociaciones Agrícolas
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 14.
 
-La Secretaría de Agricultura y Fomento autorizará la constitución, organización y funcionamiento de las Asociaciones Agrícolas creadas de acuerdo con lo dispuesto por la presente Ley; con esa autorización las mismas asociaciones gozarán de la personalidad legal en los términos de las leyes relativas.
+La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, autorizará la constitución, organización y funcionamiento de las Asociaciones Agrícolas creadas de acuerdo con lo dispuesto por la presente Ley; con esa autorización las mismas asociaciones gozarán de la personalidad legal en los términos de las leyes relativas.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 15.
 
-La Secretaría de Agricultura y Fomento abrirá un Registro de las Asociaciones Agrícolas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el acta constitutiva y los estatutos de las mismas, así como sus modificaciones y actas de disolución y liquidación, en su caso.
+La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación abrirá un Registro de las Asociaciones Agrícolas que se constituyan de acuerdo con esta Ley, en el cual se asentarán el acta constitutiva y los estatutos de las mismas, así como sus modificaciones y actas de disolución y liquidación, en su caso.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 16.
 
-El Estado considerará a las Asociaciones Agrícolas como organismos de cooperación y en consecuencia, éstas estarán obligadas a proporcionar todos los informes que les solicite la Secretaría de Agricultura y Fomento, relativos a los servicios agrícolas.
+El Estado considerará las Asociaciones Agrícolas como organismo de cooperación y en consecuencia, éstas estarán obligadas a proporcionar todos los informes que les solicite la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, relativos a los servicios agrícolas.
 
 ###### ARTICULO 17.
 
 Atendiendo a que el funcionamiento de las Asociaciones a que se refiere está Ley es de interés público, el Estado dará todo su apoyo a estas mismas asociaciones y a los productores que las integran, para la realización de los fines señalados en el artículo 3º de esta Ley.
 
-> <small>(F. DE E., D.O.F. 1 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 18.
 
-El uso ilegal por parte de alguna asociación del nombre de los organismos establecidos por esta Ley, dará motivo a que la Secretaría de Agricultura y Fomento imponga una multa de $ 500.00 que se hará efectiva sobre los bienes de la asociación o grupo, si los tuviere, o sobre los de los individuos que aparecieren a su frente. Si se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se duplicará la multa, la que, para ese efecto, podrá llegar a ser hasta de tres mil pesos.
+El uso ilegal por parte de alguna Asociación del nombre de los organismos establecidos por esta Ley, dará motivo a que la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación imponga una multa de $ 500.00 que se hará efectiva sobre los bienes de la asociación o grupo, si los tuviere, o sobre los de los individuos que aparecieren a su frente. Si se insiste en el uso ilegal de alguna de las denominaciones a que antes se hace referencia, se duplicará la multa, la que, para ese efecto, podrá llegar a ser hasta de tres mil pesos.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría de Agricultura y Fomento queda autorizada para proporcionar los servicios de su personal técnico para el fomento y desarrollo de las Asociaciones Agrícolas; facultándosele igualmente para que formule el reglamento de la presente Ley y dé a los términos de ésta la interpretación adecuada.
+La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación queda autorizada para proporcionar los servicios de su personal técnico para el fomento y desarrollo de las Asociaciones Agrícolas; facultándosele igualmente para que formule el reglamento de la presente Ley y dé a los términos de ésta, interpretación adecuada.
 
 ## TRANSITORIOS
 
@@ -189,3 +197,9 @@ D.O.F. 30 DE NOVIEMBRE DE 2010.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las Uniones Regionales Agrícolas deberán acreditar en un plazo de noventa días posteriores a la fecha de su constitución, a las delegadas propietarias y suplentes, ante la Confederación Nacional de Productores Agrícolas, y las ya existentes, a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
