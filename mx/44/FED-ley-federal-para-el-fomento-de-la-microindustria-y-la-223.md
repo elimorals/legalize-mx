@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-el-fomento-de-la-microindustria-y-la-223"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1988-01-26"
-last_updated: "2012-01-18"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=223&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 26 de enero de 1988.
 
@@ -47,13 +47,13 @@ LEY FEDERAL PARA EL FOMENTO DE LA MICROINDUSTRIA Y LA ACTIVIDAD ARTESANAL
 
 La presente Ley es de orden público y de interés social, sus disposiciones se aplican en toda la República y tienen por objeto fomentar el desarrollo de la microindustria y de la actividad artesanal, mediante el otorgamiento de apoyos fiscales, financieros, de mercado y de asistencia técnica, así como a través de facilitar la constitución y funcionamiento de las personas morales correspondientes, simplificar trámites administrativos ante autoridades federales y promover la coordinación con autoridades locales o municipales para este último objeto.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 2o.
 
 La aplicación de esta Ley en la esfera administrativa corresponde a la Secretaría de Economía, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades federales, en cuanto no se prevean en forma expresa en esta propia Ley.
 
-Cuando en el presente ordenamiento se mencione a "La Secretaría", se entenderá que se trata de la citada Secretaría de Economía.
+Cuando en el presente ordenamiento se mencione a “La Secretaría”, se entenderá que se trata de la citada Secretaría de Economía.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
@@ -157,7 +157,9 @@ El Gobierno Federal, a través de la Secretaría de Economía podrá suscribir c
 
 Una vez obtenido el visto bueno a que se refiere el artículo anterior, los socios acreditarán su identidad y ratificarán su voluntad de constituir la sociedad y ser suyas las firmas que obren en el contrato social, ante el personal autorizado del Registro Público de Comercio del lugar que corresponda al domicilio social, el que procederá a inscribir sin más trámite a la sociedad a la brevedad posible.
 
-No se requerirá para su constitución y registro de la autorización previa de otras autoridades judiciales o administrativas. Las Secretarías de Comercio y Fomento Industrial y de la Contraloría General de la Federación vigilarán se cumpla lo dispuesto en este artículo y que el registro se efectúe cuanto antes.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+No se requerirá para su constitución y registro de la autorización previa de otras autoridades judiciales o administrativas. Las Secretarías de Economía y de la Función Pública vigilarán se cumpla lo dispuesto en este artículo y que el registro se efectúe cuanto antes.
 
 ###### ARTICULO 17.
 
@@ -175,9 +177,11 @@ Una vez obtenido el visto bueno, las modificaciones deberán ser inscritas en el
 
 ### CAPITULO IV. Del Padrón Nacional de la Microindustria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 20.
 
-La Secretaría de Comercio y Fomento Industrial integrará el Padrón Nacional de la Microindustria con los datos de estas empresas. En la elaboración y manejo del Padrón podrán participar las autoridades estatales y municipales, en los términos de los acuerdos de coordinación que se celebren conforme al capítulo VII de la presente Ley.
+La Secretaría de Economía integrará el Padrón Nacional de la Microindustria con los datos de estas empresas. En la elaboración y manejo del Padrón podrán participar las autoridades estatales y municipales, en los términos de los acuerdos de coordinación que se celebren conforme al Capítulo VII de la presente Ley.
 
 > <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 1991)</small>
 
@@ -267,11 +271,15 @@ Se crea la Comisión Intersecretarial para el Fomento de la Microindustria, que 
 
 La Comisión será el conducto a través del cual las dependencias y entidades de la Administración Pública Federal coordinen su actuación para el otorgamiento de los beneficios y facilidades que se determinen conforme a esta Ley. El Ejecutivo Federal proveerá lo conducente para que las secretarías de estado y departamentos administrativos, en el ejercicio de sus atribuciones, realicen los actos y adopten las medidas que permitan alcanzar los fines y objetivos mencionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 36.
 
-La Comisión Intersecretarial para el Fomento de la Microindustria, se integrará por sendos representantes propietarios de las Secretarías de Gobernación, Hacienda y Crédito Público, de Programación y Presupuesto, de la Contraloría General de la Federación, de Energía, Minas e Industria Paraestatal, de Comercio y Fomento Industrial, de Desarrollo Urbano y Ecología, de Educación Pública, de Salud, del Trabajo y Previsión Social y del Departamento del Distrito Federal, así como del Instituto Mexicano del Seguro Social y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores.
+La Comisión Intersecretarial para el Fomento de la Microindustria, se integrará por sendos representantes propietarios de la (sic) Secretarías de Gobernación, Hacienda y Crédito Público, de la Función Pública, de Energía, de Economía, de Medio Ambiente y Recursos Naturales, de Educación Pública, de Salud, del Trabajo y Previsión Social y del Gobierno del Distrito Federal, así como del Instituto Mexicano del Seguro Social y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores.
 
-La presidencia de la Comisión corresponderá a la Secretaría de Comercio y Fomento Industrial.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La presidencia de la Comisión corresponderá a la Secretaría de Economía.
 
 Por cada representante propietario deberá nombrarse además un suplente, que participará en las sesiones en ausencia de aquél.
 
@@ -281,7 +289,9 @@ A propuesta de cualquiera de los integrantes de la Comisión podrá invitarse a 
 
 Para lograr los objetivos y finalidades establecidos en este ordenamiento, la Comisión realizará las siguientes funciones:
 
-I.- Acordar la coordinación de trámites y despacho de los asuntos relacionados con las microindustrias a cargo de las diversas dependencias del Ejecutivo Federal y del Departamento del Distrito Federal, con el fin de simplificar trámites administrativos, eliminar los innecesarios, así como, en general, para conceder facilidades para la operación de estas microindustrias;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Acordar la coordinación de trámites y despacho de los asuntos relacionados con las microindustrias a cargo de las diversas dependencias del Ejecutivo Federal y del Gobierno del Distrito Federal, con el fin de simplificar trámites administrativos, eliminar los innecesarios, así como, en general, para conceder facilidades para la operación de estas microindustrias;
 
 II.- Realizar estudios sobre la regulación jurídica relativa a la constitución, instalación y funcionamiento de las microindustrias, así como proponer las medidas administrativas o modificaciones a disposiciones legales tendientes a alcanzar los fines a que se refiere esta ley;
 
@@ -414,3 +424,9 @@ SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de P
 D.O.F. 18 DE ENERO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
