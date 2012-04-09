@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2012-01-17"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -494,9 +494,11 @@ El núcleo de población podrá aportar tierras del asentamiento al municipio o 
 
 Cuando el poblado ejidal esté asentado en tierras ejidales, la asamblea podrá resolver que se delimite la zona de urbanización en la forma que resulte más conveniente, respetando la normatividad aplicable y los derechos parcelarios. Igualmente, la asamblea podrá resolver que se delimite la reserva de crecimiento del poblado, conforme a las leyes de la materia.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 66.
 
-Para la localización, deslinde y fraccionamiento de la zona de urbanización y su reserva de crecimiento, se requerirá la intervención de las autoridades municipales correspondientes y se observarán las normas técnicas que emita la Secretaría de Desarrollo Urbano y Ecología.
+Para la localización, deslinde y fraccionamiento de la zona de urbanización y su reserva de crecimiento, se requerirá la intervención de las autoridades municipales correspondientes y se observarán las normas técnicas que emita la Secretaría de Medio Ambiente y Recursos Naturales.
 
 ###### Artículo 67.
 
@@ -902,17 +904,21 @@ En los predios dedicados a las actividades previstas en las fracciones II y III 
 
 Se considera pequeña propiedad forestal la superficie de tierras forestales de cualquier clase que no exceda de 800 hectáreas.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 120.
 
-Se considera pequeña propiedad ganadera la superficie de tierras ganaderas que, de acuerdo con el coeficiente de agostadero ponderado de la región de que se trate no exceda de la necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, conforme a las equivalencias que determine y publique la Secretaría de Agricultura y Recursos Hidráulicos.
+Se considera pequeña propiedad ganadera la superficie de tierras ganaderas que, de acuerdo con el coeficiente de agostadero ponderado de la región de que se trate no exceda de la necesaria para mantener hasta quinientas cabezas de ganado mayor o su equivalente en ganado menor, conforme a las equivalencias que determine y publique la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
-El coeficiente de agostadero por regiones que determine la Secretaría de Agricultura y Recursos Hidráulicos se hará mediante estudios técnicos de campo tomando en cuenta la superficie que se requiere para alimentar una cabeza de ganado mayor o su equivalente en ganado menor, atendiendo los factores topográficos, climatológicos y pluviométricos que determinen la capacidad forrajera de la tierra de cada región.
+El coeficiente de agostadero por regiones que determine la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación se hará mediante estudios técnicos de campo tomando en cuenta la superficie que se requiere para alimentar una cabeza de ganado mayor o su equivalente en ganado menor, atendiendo los factores topográficos, climatológicos y pluviométricos que determinen la capacidad forrajera de la tierra de cada región.
 
 ###### Artículo 121.
 
 La superficie de las tierras que a partir de su estado natural hubieren sido mejoradas con obras de riego, drenaje, nivelación o cualesquiera otras ejecutadas por sus dueños o poseedores, continuarán computándose conforme a la clase o coeficiente de agostadero anteriores a la mejora, según se trate de tierras agrícolas o ganaderas, respectivamente.
 
-A solicitud del propietario o poseedor de un predio, la Secretaría de Agricultura y Recursos Hidráulicos expedirá certificados en los que conste la clase o coeficiente de agostadero de sus tierras. Dichos certificados harán prueba plena.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+A solicitud del propietario o poseedor de un predio, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación expedirá certificados en los que conste la clase o coeficiente de agostadero de sus tierras. Dichos certificados harán prueba plena.
 
 ###### Artículo 122.
 
@@ -1591,3 +1597,9 @@ Segundo. El presente Decreto entrará en vigor el día siguiente al de su public
 D.O.F. 17 DE ENERO DE 2012.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
