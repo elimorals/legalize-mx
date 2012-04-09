@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2012-02-28"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -105,9 +105,11 @@ VII.- Si la opinión no fuere favorable, en los términos de la fracción anteri
 
 Si al resolver el Tribunal Superior de Justicia del Estado el procedimiento al que se refiere el artículo que antecede, estima que es procedente la creación del nuevo Municipio, así lo notificará al Poder Legislativo, estándose el Congreso del Estado, a la sentencia definitiva que aquel dicte; el Tribunal Superior de Justicia del Estado, conocerá con la vista que le de el Congreso o con la petición de los interesados o de los Ayuntamientos involucrados, en los términos de la Ley.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 9.
 
-Aprobada la creación del nuevo Municipio, el Congreso procederá a establecer su presupuesto y a asignarles las participaciones que le correspondan.
+Aprobada la creación del nuevo Municipio, el Congreso procederá a establecer su presupuesto y a asignarles las participaciones que le correspondan de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
 
 ###### ARTÍCULO 10.
 
@@ -403,7 +405,7 @@ III.- Ordenar su territorio municipal para efectos administrativos;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
-IV. Declarar la denominación, categoría administrativa que le corresponda a las localidades conforme a esta ley y la rectificación o modificación del nombre de los centros de población que pertenecen al territorio de su Municipio;
+IV.- Declarar la denominación, categoría administrativa que le corresponda a las localidades conforme a esta ley y la rectificación o modificación del nombre de los centros de población que pertenecen al territorio de su Municipio;
 
 V.- Convenir o contratar la ejecución y operación de obras y la prestación de servicios públicos con el Estado, con otros Municipios de la entidad o con particulares, de acuerdo con las leyes aplicables;
 
@@ -445,11 +447,15 @@ XIX.- Aprobar el nombramiento o remoción del Secretario, Tesorero y Responsable
 
 XX.- Resolver en los términos convenientes para la comunidad, los casos de concesión de servicios públicos de su competencia, con excepción de los de seguridad pública y tránsito;
 
-XXI.- Elaborar y remitir al Congreso del Estado el Proyecto de Ley de Ingresos Municipales a más tardar dentro de los primeros diez días del mes de diciembre de cada año, que deberá regir durante el año fiscal siguiente;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XXI.- Elaborar y presentar ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año la iniciativa de Ley de Ingresos Municipales que deberá regir durante el año fiscal siguiente.
 
 XXII.- Remitir al Congreso del Estado a más tardar el quince del mes de junio la cuenta pública municipal de año anterior para su revisión y fiscalización;
 
-XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos remitiendo copia al Congreso del Estado a través de la Auditoria Superior del Estado, para su conocimiento y fiscalización;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XXIII.- Elaborar y aprobar su Presupuesto Anual de Egresos de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, remitiendo copia al Congreso del Estado a través de la Auditoría Superior del Estado, para su conocimiento y fiscalización;
 
 XXIV.- Dotar a la cabecera municipal, agencias, colonias y comunidades de su Municipio de obras y servicios públicos básicos como son: agua potable, drenaje, o cualquier obra supletoria que sea de saneamiento ambiental o ecológico, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público, limpia, recolección, traslado, tratamiento y disposición final de residuos; y los demás que señala el artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca, velando siempre por la preservación del equilibrio ecológico;
 
@@ -547,15 +553,15 @@ LXII.- Otorgar poderes para pleitos y cobranzas a propuesta del Síndico cuando 
 
 LXIII.- Formular y desarrollar programas de atención a personas con capacidades diferentes y senescentes en el marco de los sistemas nacional y estatal de salud y conforme a sus principios y objetivos; para tal efecto, deberán celebrar los convenios necesarios para observar y prever facilidades urbanísticas y arquitectónicas, supresión de obstáculos viales y el cumplimiento de la ley estatal de la materia;
 
-LXIV.- Acordar las remuneraciones de sus miembros en términos de esta Ley;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+LXIV.- Acordar las remuneraciones de sus miembros en términos de esta Ley de conformidad con los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
 
-La remuneración de los Concejales y demás servidores públicos municipales, se fijará por el Ayuntamiento en el Presupuesto de Egresos del Municipio, atendiendo las bases del artículo 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+La Remuneración de los Concejales y demás servidores públicos municipales, se fijará por el Ayuntamiento en el Presupuesto de Egresos del Municipio, atendiendo las bases del artículo 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
-LXV.- Presupuestar de forma inmediata, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos;
+XLV (SIC).- Presupuestar de forma inmediata y transparente, la partida que cubra el pago de las obligaciones condenadas en sentencias o laudos; y
 
 LXVI.- Las demás que les señalen las leyes y reglamentos municipales.
 
@@ -593,9 +599,11 @@ III.- Solemnes, aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el Recinto Oficial o en el lugar que habilite o lo acuerde el Ayuntamiento con el voto calificado de sus integrantes, y las solemnes en el lugar que para tal efecto acuerde el Cabildo, por mayoría simple, mediante declaratoria oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 47.
 
-Los acuerdos de sesión de Cabildo se tomarán por mayoría simple o calificada de sus integrantes. Se entenderá por mayoría simple, la votación de la mitad mas uno de los miembros del Ayuntamiento. Por mayoría calificada, la votación de las dos terceras partes de los integrantes del Ayuntamiento. Se requiere el voto de la mayoría calificada para dictar los siguientes acuerdos:
+Los acuerdos de sesión de Cabildo se tomarán de forma transparente, por mayoría simple o calificada de sus integrantes. Se entenderá por mayoría simple, la votación de la mitad mas uno de los miembros del Ayuntamiento. Por mayoría calificada, la votación de las dos terceras partes de los integrantes del Ayuntamiento. Se requiere el voto de la mayoría calificada para dictar los siguientes acuerdos:
 
 I.- Cambiar la sede de la cabecera municipal, previa autorización del Congreso del Estado;
 
@@ -627,7 +635,9 @@ XIV.- Autorizar el cambio de régimen de propiedad de los bienes inmuebles munic
 
 XV.- Enajenar y gravar bienes inmuebles municipales;
 
-XVI.- Aprobar los proyectos de Ley de Ingresos y el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XVI.- Aprobar los proyectos de Ley de Ingresos y el Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez.
 
 XVII.- Acordar la contratación de deuda pública, con sujeción a la Ley aplicable; y
 
@@ -693,7 +703,9 @@ V.- Promover ante los ciudadanos lo conducente al mejoramiento del servicio púb
 
 VI.- Informar al Ayuntamiento, en virtud del servicio público que supervisa, cuando haya coincidencia de funciones con el Estado o la Federación;
 
-VII.- Proponer con oportunidad, al Ayuntamiento, el presupuesto de gastos necesarios para la mejor prestación del servicio público; y
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+VII.- Proponer con oportunidad, economía, austeridad, transparencia y honradez, al Ayuntamiento, el presupuesto de gastos necesarios para la mejor presentación del servicio público; y
 
 VIII.- Vigilar la aplicación del Reglamento correspondiente, proponiendo al Ayuntamiento las reformas que estime necesarias.
 
@@ -737,9 +749,15 @@ XVII.- Limpia y Disposiciones de Residuos Sólidos;
 
 XVIII.- Gaceta Municipal y Publicaciones;
 
-XIX.- Transparencia y Acceso a la Información y
+XIX.- Transparencia y Acceso a la Información y (sic)
 
-XX.- Las demás que apruebe el Ayuntamiento.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XX.- De Asuntos Indígenas, y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XXI.- Las demás que apruebe el Ayuntamiento.
 
 La Comisión de Hacienda estará integrada por el Presidente, el Síndico o los Síndicos y el Regidor de Hacienda; será presidida por el Presidente Municipal. Las demás comisiones estarán presididas por el regidor de la materia.
 
@@ -907,9 +925,13 @@ VII.- Informar a la población en sesión pública y solemne que deberá celebra
 
 En los Municipios que se rigen por usos y costumbres, los informes a que se refiere esta fracción, se realizarán en las fechas y de acuerdo a la que sus tradiciones determinen;
 
-VIII.- Proponer al ayuntamiento los proyectos de Ley de Ingresos y del Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
-IX.- Vigilar la recaudación de ingresos en todos los ramos de la administración pública municipal, con apego a lo dispuesto en la Ley de Ingresos Municipales, inspeccionar los fondos de la hacienda pública municipal, supervisar que la inversión de los recursos municipales se hagan con estricto apego al presupuesto de egresos y a las leyes correspondientes, y en su caso, autorizar los estados financieros del Municipio;
+VIII.- Proponer al ayuntamiento los proyectos de Ley de Ingresos y Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a los presupuestos realizados por las comisiones de conformidad con la fracción VII del artículo 55 de esta Ley;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+IX.- Vigilar la recaudación de ingresos en todos los ramos de la administración pública municipal, con apego a lo dispuesto en la Ley de Ingresos Municipales, inspeccionar los fondos de la hacienda pública municipal, supervisar que la inversión de los recursos municipales se hagan con estricto apego al presupuesto de egresos y a las leyes correspondientes y a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, y en su caso, autorizar los estados financieros del Municipio;
 
 X.- Proponer al Ayuntamiento las comisiones en las que deben actuar sus integrantes;
 
@@ -1039,7 +1061,13 @@ X.- Procurar en forma colegiada la defensa del patrimonio municipal, en caso de 
 
 XI.- Vigilar que las peticiones realizadas a la administración pública municipal se resuelvan oportunamente; y
 
-XII.- Las demás que se señalen en la presente Ley y demás disposiciones normativas emitidas por el Ayuntamiento.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XII.- En materia indígena se encargarán de asegurar y promover los derechos de los pueblos y comunidades indígenas que integran el municipio, así como su desarrollo y oportunidades en total equidad, salvaguardando en todo momento el respeto a sus sistemas normativos internos y en general; a su cultura originaria, y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XIII.- Las demás que se señalen en la presente Ley y demás disposiciones normativas emitidas por el Ayuntamiento.
 
 ###### ARTÍCULO 74.
 
@@ -1287,13 +1315,19 @@ d) Las garantías constituidas por disposición de la Ley o acuerdos de las auto
 
 e) El cobro de los tributos, recargos, intereses y multas federales o estatales cuando el Municipio por ley o convenio se haga cargo de la administración y recaudación de los mismos;
 
-VI.- Proponer al Presidente Municipal en tiempo y forma los anteproyectos de la Ley de Ingresos y del Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+VI.- Proponer al Presidente Municipal en tiempo y forma los anteproyectos de la Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez;
 
 VII.- Ejercer el presupuesto de egresos, y efectuar los pagos invariablemente en forma mancomunada con el Presidente Municipal, de acuerdo a los presupuestos aprobados por el Ayuntamiento;
 
-VIII.- Llevar la contabilidad, el control del presupuesto de egresos con enfoque a resultados y elaborar la cuenta pública general que debe presentar el Ayuntamiento al Congreso del Estado; acompañando los estados financieros mensuales y los documentos necesarios para comprobar la conformidad de los ingresos y gastos con las partidas de presupuesto, y la justificación de ellos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
-IX.- Llevar el control del presupuesto de egresos con enfoque a resultados e informes trimestrales de avance de gestión financiera;
+VIII.- Llevar con total transparencia la contabilidad, el control del presupuesto de egresos con enfoque a resultados y elaborar la cuenta pública general que debe presentar el Ayuntamiento al Congreso del Estado; acompañando los estados financieros mensuales y los documentos necesarios para comprobar la conformidad de los ingresos y gastos con las partidas de presupuesto, y la justificación de ellos;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+IX.- Llevar con total transparencia el control del presupuesto de egresos con enfoque a resultados e informes trimestrales de avance de gestión financiera;
 
 X.- Con apego a las leyes de la materia, proponer al Ayuntamiento las medidas necesarias y convenientes para aumentar la recaudación de los ingresos y, racionalizar y optimizar los gastos municipales;
 
@@ -1457,6 +1491,8 @@ La alteración, sustracción, disposición indebida, ocultamiento, así como otr
 
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 115.
 
 Para enajenar y gravar bienes inmuebles municipales se requerirá el acuerdo de la mayoría calificada de los integrantes del Ayuntamiento.
@@ -1519,9 +1555,15 @@ Se integrará, además, con aquellos ingresos que determinen las leyes y decreto
 
 Las Leyes de Ingresos Municipales una vez aprobadas por el Congreso del Estado tendrán vigencia anual y regirán el ejercicio fiscal a partir del 1º de enero y hasta el 31 de diciembre del año que corresponda.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 123.
 
-El proyecto de Ley de Ingresos y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. El proyecto de Ley de Ingresos deberá aprobarse por la mayoría calificada para su remisión como iniciativa de ley al Congreso del Estado en los primeros diez días del mes de diciembre de cada año. La que deberá regir en el año inmediato siguiente. El incumplimiento a ésta disposición será motivo para que sus actos se rijan por la Ley General de Ingresos Municipales
+La iniciativa de laLey de Ingresos municipales y el Presupuesto de Egresos, se deberán elaborar por el Ayuntamiento con estricto apego a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, así como a las disposiciones contenidas en las leyes y decretos fiscales federales, estatales y municipales que resulten aplicables y con base en los convenios respectivos. La iniciativa de Ley de Ingresos municipales deberá aprobarse por la mayoría calificada del cabildo para su presentación como iniciativa de Ley ante el Congreso del Estado a más tardar el último día del mes de noviembre de cada año.
+
+En caso de que la iniciativa de Ley de Ingresos municipales no se apruebe por la Legislatura a mas tardar el 31 de diciembre del año inmediato anterior al en que deba entrar en vigor, se prorrogará por treinta días naturales la última ley de ingresos publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, previniendo al Ayuntamiento para que subsane su omisión.
+
+Si vencido el plazo a que se refiere el párrafo anterior, no se hubiere presentado por el Ayuntamiento y aprobado por el Congreso la iniciativa de ley de ingresos del municipio, se tendrá por extendida su vigencia por el resto del año.
 
 ###### ARTÍCULO 124.
 
@@ -1543,7 +1585,7 @@ Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables 
 
 ###### ARTÍCULO 127.
 
-El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los programas de actividades del Ayuntamiento, detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
+El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez así como los programas de actividades del Ayuntamiento, detallando las asignaciones presupuestarías a nivel de partidos y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
 
 Tratándose del inicio del Gobierno Municipal, el Ayuntamiento entrante deberá ratificar o, en su caso realizar las modificaciones al Presupuesto de Egresos autorizado por el Ayuntamiento saliente, a más tardar el quince de febrero.
 
@@ -1571,9 +1613,11 @@ Las modificaciones que sufra el Presupuesto de Egresos en los conceptos generale
 
 El Presupuesto de Egresos y las modificaciones que sufra en su caso, serán publicados en el Periódico Oficial del Gobierno del Estado o en la Gaceta Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 130.
 
-El Ayuntamiento establecerá un sistema de evaluación y control que permita que la ejecución de Presupuesto de Egresos se haga en la forma programada y acorde a los ingresos disponibles
+El Ayuntamiento establecerá un sistema de evaluación y control que permita que la ejecución del Presupuesto de Egresos se haga en la forma programada, transparente y acorde a los ingresos disponibles.
 
 El control presupuestal comprenderá las asignaciones, transferencias, compromisos y ejercicios correspondientes a los programas y partidas de su presupuesto que permita la obtención de sus estados de cuenta y demás información presupuestal, con la finalidad de medir la eficacia y eficiencia del gasto público municipal.
 
@@ -1707,7 +1751,9 @@ La Justicia Municipal se impartirá a través de los alcaldes, que serán design
 
 En los municipios que se rigen por el sistema de usos y costumbres se respetará la forma de elección de estos cargos.
 
-La remuneración de los alcaldes municipales se fijará en el presupuesto de egresos del municipio atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal la que no podrá variarse durante la gestión.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
+
+La remuneración de los alcaldes municipales se fijará en el presupuesto de egresos del municipio atendiendo a los principios de planeación, eficiencia, eficacia, economía, transparencia, honradez, racionalidad, austeridad y disciplina del gasto público municipal la que no podrá variarse durante la gestión.
 
 ###### ARTÍCULO 145.
 
@@ -1998,3 +2044,11 @@ P.O. 17 DE DICIEMBRE DE 2011.
 P.O. 28 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE ABRIL DE 2012.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO: La Auditoría Superior del Estado deberá capacitar a los Presidentes Municipales y a las personas que tienen conferidas facultades en la administración de recursos públicos en los municipios, para que conozcan la trascendencia de la norma que se modifica y sus consecuencias legales.
