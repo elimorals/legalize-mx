@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-loteria-nacional-para-la-asistencia-489"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-01-14"
-last_updated: "1985-01-14"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=489&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1984-11-22"
 ---
 # LEY ORGANICA DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
 
-LEY ORGANICA DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
+LEY ORGÁNICA DE LA LOTERÍA NACIONAL PARA LA ASISTENCIA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -73,11 +73,11 @@ II.- El Director General.
 
 El organismo contará con dos comisarios, nombrados, uno por la Secretaría de Hacienda y Crédito Público y el otro por la Secretaría de la Contraloría General de la Federación.
 
-> <small>(F. DE E., D.O.F. 21 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 5o.
 
-La Junta Directiva estará integrada por seis miembros y será presidida por el titular de la Secretaría de Hacienda y Crédito Público, siendo los demás integrantes de la misma los titulares de las Secretarías de Gobernación, de Programación y Presupuesto y de Salubridad y Asistencia y dos personas designadas por el Presidente de la República, una de las cuales fungirá como Director General.
+La Junta Directiva estará integrada por seis miembros y serán presididas por el titular de la Secretaría de Hacienda y Crédito Público, siendo los demás integrantes de la misma los titulares de las Secretarías de Gobernación y de Salud y dos personas designadas por el Presidente de la República, una de las cuales fungirá como Director General.
 
 En sus ausencias, el Presidente de la Junta Directiva será sustituido por el miembro de la misma que le siga de acuerdo con el orden señalado en el párrafo anterior.
 
@@ -190,3 +190,11 @@ TERCERO.- Los vendedores ambulantes de billetes que reciben directamente del org
 México, D.F., 21 de noviembre de 1984.- Genaro Borrego Estrada, D.P.- Salvador J. Neme Castillo, S.P.- Jesús Murillo Aguilar, D.S.- Mariano Palacios Alcocer, S.S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de noviembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
