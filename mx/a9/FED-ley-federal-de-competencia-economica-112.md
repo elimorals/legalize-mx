@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-competencia-economica-112"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2011-08-30"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFCE"
 ---
 # LEY FEDERAL DE COMPETENCIA ECONOMICA
 
-LEY FEDERAL DE COMPETENCIA ECONOMICA
+LEY FEDERAL DE COMPETENCIA ECONÓMICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -382,9 +382,11 @@ Tampoco podrán ser investigadas las concentraciones que no requieran ser previa
 
 ### CAPITULO IV. DE LA COMISION FEDERAL DE COMPETENCIA
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 23.
 
-La Comisión Federal de Competencia es un órgano administrativo desconcentrado de la Secretaría de Comercio y Fomento Industrial, contará con autonomía técnica y operativa y tendrá a su cargo prevenir, investigar y combatir los monopolios, las prácticas monopólicas y las concentraciones, en los términos de esta ley, y gozará de autonomía para dictar sus resoluciones.
+La Comisión Federal de Competencia es un órgano administrativo desconcentrado de la Secretaría de Economía, contará con autonomía técnica y operativa y tendrá a su cargo prevenir, investigar y combatir los monopolios, las prácticas monopólicas y las concentraciones, en los términos de esta Ley, y gozará de autonomía para dictar sus resoluciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE JUNIO DE 2006)</small>
 
@@ -1257,3 +1259,9 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
