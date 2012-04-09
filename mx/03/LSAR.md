@@ -4,7 +4,7 @@ identifier: "LSAR"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-23"
-last_updated: "2009-01-21"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2613&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAR"
 
 LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 23 de mayo de 1996.
 
@@ -40,7 +40,7 @@ LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO Y DE REFORMAS Y ADICIONES A LAS LEY
 
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
+De la Ley de los Sistemas de Ahorro para el Retiro.
 
 ### CAPITULO I. Disposiciones Preliminares
 
@@ -1722,7 +1722,9 @@ La información y documentos que obtenga la Comisión en el ejercicio de sus fac
 
 La inspección que practique la Comisión se efectuará a través de visitas, verificación de operaciones y auditorías de registros y sistemas, en las instalaciones o equipos automatizados de los participantes en los sistemas de ahorro para el retiro.
 
-Cuando en virtud de la inspección se presuma falta de cumplimiento por parte de los obligados a cubrir las cuotas y aportaciones a los sistemas de ahorro para el retiro, la Comisión comunicará tal situación, según corresponda, a la Secretaría de Hacienda y Crédito Público, al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Cuando en virtud de la inspección se presuma falta de cumplimiento por parte de los obligados a cubrir las cuotas y aportaciones a los sistemas de ahorro para el retiro, la Comisión comunicará tal situación, según corresponda, a la Secretaría de Hacienda y Crédito Público, al Instituto Mexicano del Seguro Social, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores y a la Secretaría de la Función Pública.
 
 ###### ARTICULO 93.
 
@@ -2232,9 +2234,9 @@ Un representante de los trabajadores o los patrones presidirá, alternativamente
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto el artículo 76 de la Ley de los Sistemas de Ahorro para el Retiro, que entrará en vigor el día primero de enero de 2001.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2468,7 +2470,7 @@ D.O.F. 11 DE ENERO DE 2005.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo segundo del artículo 37, párrafos séptimo y octavo del artículo 74 y primer párrafo del artículo 76, que entrarán en vigor nueve meses después a la fecha de publicación del presente Decreto en el Diario Oficial de la Federación.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2493,6 +2495,10 @@ Las Administradoras que a la fecha de entrada en vigor del presente Decreto ofre
 Los trabajadores, en términos de lo dispuesto por el artículo 74 que se reforma, podrán solicitar el traspaso de su cuenta individual a una Administradora que les cobre comisiones más bajas a partir de la entrada en vigor del presente Decreto.
 
 D.O.F. 15 DE JUNIO DE 2007.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el párrafo segundo del artículo 37, párrafos séptimo y octavo del artículo 74 y primer párrafo del artículo 76, que entrarán en vigor nueve meses después a la fecha de publicación del presente Decreto en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -2545,3 +2551,9 @@ Las administradoras podrán renunciar en cualquier momento a las cuentas individ
 Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Séptimo.- La Junta de Gobierno en la primera revisión de estructura de comisiones a que se refiere el artículo tercero transitorio del presente Decreto no podrá autorizar ninguna comisión superior al promedio vigente de las comisiones autorizadas.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
