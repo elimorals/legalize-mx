@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "2011-11-07"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -125,7 +125,7 @@ III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende el Munici
 
 IV.- El Cuarto, con residencia en la Población de Villa de Alvarez, comprende los Municipios de Villa de Alvarez, Comala, y Minatitlán.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -135,7 +135,7 @@ No será necesario librar exhortos, requisitorias o despachos para que los tribu
 
 ### CAPITULO I. SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2006)</small>
 
 ###### ARTICULO 6.
 
@@ -145,9 +145,9 @@ El Supremo Tribunal de Justicia residirá en la Capital del Estado y estará int
 
 El Supremo Tribunal funciona en Pleno y en Salas.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
 
-El Pleno se compone de los magistrados propietarios que integran el Supremo Tribunal de Justicia, pero bastará la presencia de las tres cuartas partes de sus miembros para que pueda funcionar. Los magistrados suplentes y supernumerarios formarán parte del Pleno cuando substituyan a los magistrados propietarios y desempeñarán además las funciones que se contienen en la presente Ley.
+El Pleno se compone de los Magistrados Propietarios que integran el Supremo Tribunal de Justicia pero, para que éste pueda sesionar válidamente, bastará la presencia de la mitad de sus miembros. Los Magistrados Suplentes y Supernumerarios formaran parte del Pleno cuando sustituyan a los Magistrados Propietarios y desempeñaran además las funciones que se contienen en la presente Ley.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -160,6 +160,10 @@ Los magistrados suplentes percibirán sueldo igual al que señale el Presupuesto
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
 
 Las resoluciones del Pleno se tomarán por unanimidad o por mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o no hayan estado presentes durante la discusión del asunto de que se trate. En caso de empate se resolverá el asunto en la siguiente sesión, para la que se convocará a los magistrados que hubiesen concurrido a la anterior y a los que hubiesen faltado a la misma, siempre que estos no estuvieren legalmente impedidos; si en la última sesión tampoco se obtuviere mayoría se tendrá por desechado el proyecto y el Presidente del Supremo Tribunal designará otro magistrado distinto del ponente, para que formule nuevo proyecto, teniendo en cuenta las opiniones vertidas.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2012)</small>
+
+En materia administrativa, el Presidente tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 7.
 
@@ -175,11 +179,13 @@ Cuando se aumente el número de Magistrados, Jueces, Secretarios de Acuerdos, Ac
 
 ### CAPITULO II. PLENOS ORDINARIOS Y EXTRAORDINARIOS DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 9.
 
-El Supremo Tribunal de Justicia funcionará en Pleno Ordinario los días lunes hábiles de cada semana para el ejercicio de las atribuciones que le confieren las fracciones IV, V, VII, VIII y X del Artículo 74 de la Constitución Política del Estado. En Pleno Extraordinario, previa convocatoria del Presidente, para conocer y resolver de los asuntos a que se refieren las fracciones I, II, III, VI y IX del mismo precepto constitucional.
+El Supremo Tribunal de Justicia funcionará en Pleno Ordinario por lo menos una vez al mes preferentemente los días lunes, para el ejercicio de las atribuciones que le confieren las fracciones IV, V, VII, VIII y X del artículo 74 de la Constitución Política del Estado y el artículo 10 de esta Ley. En Pleno Extraordinario, previa convocatoria del Presidente, para conocer y resolver de los asuntos a que se refieren las fracciones I, II, III, VI y IX del mismo precepto constitucional y el artículo 11 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 10.
 
@@ -293,6 +299,8 @@ Los demás Servidores Públicos del Supremo Tribunal, de las Salas, de la Presid
 
 El Presidente del Supremo Tribunal de Justicia, será electo por el Pleno Extraordinario, en escrutinio secreto, en sesión que celebre en los primeros quince días del mes de noviembre de cada año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 17.
 
 El Presidente tendrá las siguientes atribuciones y deberes:
@@ -349,7 +357,9 @@ XXIII.- Autorizar al jefe de la Unidad de Apoyo Administrativo, la adquisición 
 
 XXIV.- Rendir ante el Pleno Extraordinario del Tribunal, que se celebre en los primeros quince días del mes de noviembre, un informe de las actividades del Poder Judicial del Estado en el año de su ejercicio, Pleno Extraordinario al que deberá de invitarse a los titulares de los Poderes Ejecutivo y Legislativo del Estado; y
 
-XXV.- Las demás que determinen las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
+
+XXV.- Las demás que determinen las Leyes, reglamentos y acuerdos generales del Pleno.
 
 ###### ARTICULO 18.
 
@@ -757,7 +767,7 @@ En el orden administrativo, el primer Secretario de Acuerdos del Juzgado tendrá
 
 Los Secretarios actuarios de los Juzgados Penales tienen las atribuciones y obligaciones que en lo conducente establece el artículo 41 de esta Ley, en la inteligencia de que, por lo que ve a las notificaciones, lo hará en la forma y términos decretados, con apego al Código de Procedimientos Penales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO II BIS. JUZGADOS ESPECIALIZADOS EN JUSTICIA PARA ADOLESCENTES
 
@@ -799,11 +809,7 @@ En el orden administrativo, el secretario de acuerdos con mayor antigüedad en e
 
 IV.- Los Secretarios Actuarios de los Juzgados Especializados en Justicia para Adolescentes tendrán las atribuciones y obligaciones que en lo conducente establecen el artículo 41 de esta Ley y desempeñarán sus funciones conforme a lo previsto en la Ley de la materia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2011)</small>
-
-### CAPITULO II TER. JUZGADOS ESPECIALIZADOS EN NARCOMENUDEO
-
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+### CAPITULO III. JUZGADOS MIXTOS
 
 ###### ARTICULO 49-V.
 
@@ -823,7 +829,9 @@ VII.- Los Jueces, Secretarios de Acuerdos y Secretarios Actuarios de los Juzgado
 
 En el orden administrativo, el secretario de acuerdos con mayor antigüedad en el juzgado tendrá el carácter de jefe inmediato del personal del mismo; dirigirá las labores interiores de la oficina, de acuerdo con las instrucciones y determinaciones del juez, a quien deberá dar cuenta de los asuntos que se presenten e infracciones que se cometan, para que obre conforme a sus facultades, y además tendrá la obligación precisada en las fracciones I, II, III, V y VI, del artículo 40 de esta Ley.
 
-### CAPITULO III. JUZGADOS MIXTOS
+### CAPITULO II TER. JUZGADOS ESPECIALIZADOS EN NARCOMENUDEO
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 50.
 
@@ -840,6 +848,8 @@ Los Juzgados Mixtos de Primera Instancia del Estado, para el despacho de los neg
 ###### ARTICULO 53.
 
 Las obligaciones de los Secretarios de Acuerdos de los Juzgados Mixtos, serán las mismas de los Secretarios de los Juzgados de Primera Instancia. Cuando haya uno o sólo dos Secretarios, éstos asumirán todas las obligaciones fijadas para los demás.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPITULO IV. JUZGADOS MIXTOS DE PAZ
 
@@ -1079,9 +1089,9 @@ IX.- La Oficialía de Partes.
 
 ### CAPITULO VI. BOLETIN JUDICIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 90.
 
@@ -1243,13 +1253,13 @@ VII.- Las demás que le prescriban las leyes, reglamentos respectivos y los acue
 
 Se publicará un Boletín Judicial, como órgano de información del Poder Judicial del Estado, que tendrá por objeto dar a conocer:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2009)</small>
 
 II (SIC).- Los fallos sobresalientes que sobre cualquier materia se pronuncien por los diversos tribunales del fuero común;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1345,7 +1355,7 @@ El intendente hará los servicios necesarios del Juzgado, de mensajero y de los 
 
 Los jefes de las oficinas radicadas en los edificios presentarán al Presidente del Tribunal cualquier queja de tuvieren respecto a los servicios encomendados a los intendentes o a sus subordinados.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE NOVIEMBRE DE 1990)</small>
 
 ### CAPITULO II. FALTAS
 
@@ -1455,7 +1465,7 @@ Ningún servidor público de la Administración de Justicia podrá desempeñar o
 
 ### CAPITULO I. DE LA INTEGRACION DE LA JURISPRUDENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1505,7 +1515,7 @@ La declaración de responsabilidades por faltas producirá el efecto de inhibir 
 
 ### CAPITULO II. DE LA OBLIGATORIEDAD DE LA JURISPRUDENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1603,7 +1613,7 @@ Todas las disposiciones contenidas en este Capítulo serán aplicables, sin perj
 
 ### CAPITULO III. DE LA INTERRUPCION DE LA JURISPRUDENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1633,7 +1643,7 @@ III.- Cuando se trate de faltas de los Magistrados del Supremo Tribunal, la decl
 
 ### CAPITULO IV. DE LA COMPILACION Y SISTEMATIZACION DE LA JURISPRUDENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1675,19 +1685,19 @@ La clasificación de los Peritos Valuadores, la expedición de los peritajes y e
 
 (DEROGADO, P.O. 26 DE AGOSTO DE 1995)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 # LIBRO TERCERO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPIÍULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ## TITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1695,7 +1705,7 @@ La clasificación de los Peritos Valuadores, la expedición de los peritajes y e
 
 El Pleno y la Sala del Supremo Tribunal de Justicia del Estado podrán crear jurisprudencia en los términos que dispone este Libro Tercero, el cual es reglamentario de la fracción XII del artículo 74 de la Constitución Política del Estado Libre y Soberano de Colima.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1707,7 +1717,7 @@ I.- Sustente el mismo criterio en cinco resoluciones no interrumpidas por otra e
 
 II.- Fije el criterio que deba prevalecer o regir cuando exista contradicción entre las tesis emitidas por las salas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1719,7 +1729,7 @@ I.- Sustenten el mismo criterio en cinco resoluciones no interrumpidas por otra 
 
 II.- Existe declaración de confirmación o modificación de un criterio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1727,15 +1737,15 @@ II.- Existe declaración de confirmación o modificación de un criterio.
 
 Cuando las partes invoquen la existencia de una jurisprudencia deberán expresarlo por escrito, identificando claramente su fuente, rubro y tesis. En todo caso, la autoridad judicial deberá revisar la existencia de la jurisprudencia por medio del órgano de publicación oficial de la jurisprudencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 177.
 
 Una vez que se cumplan los requisitos para la integración de la jurisprudencia por reiteración, el Pleno o las Salas harán la declaratoria correspondiente, aprobarán la tesis y ordenarán su publicación en el Boletín Judicial, el Periódico Oficial del Estado y, en su caso, el órgano oficial de difusión del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1757,7 +1767,7 @@ VI.- La tesis del Pleno que resuelva la contradicción tendrá el carácter de j
 
 VII.- La resolución que dirima la controversia no afectará por ningún motivo las situaciones jurídicas concretas definidas en juicio con anterioridad a la misma.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1765,15 +1775,15 @@ VII.- La resolución que dirima la controversia no afectará por ningún motivo 
 
 El Pleno o las Salas enviarán copia certificada de las tesis de jurisprudencias aprobadas, a la Presidencia del Supremo Tribunal de Justicia, a la Sala o Salas que no hubiesen intervenido en su elaboración, a todos los Jueces del Poder Judicial ya las demás autoridades del Estado, para su inmediata observancia obligatoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 180.
 
 La jurisprudencia por reiteración o por contradicción que pronuncie el Pleno del Supremo Tribunal de Justicia tendrá observancia obligatoria para las Salas, los Juzgados del Poder Judicial, el Centro Estatal de Justicia Alternativa y las autoridades del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1781,7 +1791,7 @@ La jurisprudencia por reiteración o por contradicción que pronuncie el Pleno d
 
 La jurisprudencia que pronuncien las Salas del Supremo Tribunal de Justicia tendrá observancia obligatoria para los Juzgados del Poder Judicial; el Centro Estatal de Justicia Alternativa y las autoridades del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1789,23 +1799,21 @@ La jurisprudencia que pronuncien las Salas del Supremo Tribunal de Justicia tend
 
 La observancia de la jurisprudencia será obligatoria al día siguiente de que se publique en el Boletín Judicial o en el Periódico Oficial del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 183.
 
 La interrupción de la jurisprudencia tendrá como consecuencia que deje de surtir sus efectos de obligatoriedad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 184.
 
 El Pleno o las Salas estarán facultados para interrumpir su jurisprudencia solo en los casos y bajo las condiciones que establece este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1819,7 +1827,7 @@ II.- Si se trata de las Salas, los Magistrados aprueben por unanimidad una resol
 
 En todos los casos, en la ejecutoria que se pronuncie deberán expresarse las razones en que se apoye la interrupción, las cuales se referirán a las que se tuvieron en consideración para establecer la jurisprudencia que se interrumpió.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1827,7 +1835,7 @@ En todos los casos, en la ejecutoria que se pronuncie deberán expresarse las ra
 
 El Pleno o las Salas estarán facultados para modificar su jurisprudencia, señalando en todo caso las razones fundadas para hacerlo. Es necesario que exista pronunciamiento previo de una resolución en un caso concreto para modificar la jurisprudencia, observándose las mismas reglas establecidas en esta ley para su formación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1837,7 +1845,7 @@ Las Salas y los Magistrados que los integren, con motivo de un caso concreto del
 
 El Pleno o la Sala correspondiente resolverán si modifican o no la jurisprudencia, sin que su resolución afecte las situaciones jurídicas concretas que se deriven de los juicios en los cuales se sostuvieron los criterios en que se sustentó la jurisprudencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1851,9 +1859,9 @@ II.- Exista jurisprudencia de alguno de los Tribunales Colegiados del Circuito e
 
 III.- Por nueva disposición constitucional o legal aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 189.
 
@@ -1861,7 +1869,7 @@ La Presidencia del Supremo Tribunal de Justicia o el órgano que el Pleno determ
 
 El Pleno del Supremo Tribunal de Justicia emitirá los acuerdos generales bajo las (sic) cuales se formularán, depurarán y glosarán las jurisprudencias o las tesis aisladas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1871,7 +1879,7 @@ El Pleno y las Salas deberán remitir mensualmente a la Presidencia del Supremo 
 
 La Presidencia del Supremo Tribunal de Justicia o el órgano que el Pleno determine, depurará y compilará las tesis, los criterios o acuerdos relevantes para ser publicados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -1907,7 +1915,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. HECTOR DUEÑAS GONZALEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 6 DE ENERO DE 1990.
 
@@ -1984,3 +1992,7 @@ SEGUNDO.- En tanto se creen o entren en funciones los Juzgados Especializados en
 TERCERO.- El Poder Ejecutivo deberá radicar y asegurar los recursos públicos necesarios para la creación de los Juzgados especializados en Narcomenudeo, o en su caso, para el fortalecimiento de los Juzgados de Primera Instancia en materia Penal del Estado de Colima, designados para el conocimiento de estos asuntos, así como para el fortalecimiento de las Salas Penales.
 
 CUARTO.- El Poder Legislativo deberá prever y asegurar en lo subsecuente, en la partida presupuestal que corresponda al Poder Judicial en el Presupuesto de Egresos del Gobierno del Estado, los recursos necesarios para la debida substanciación de los procesos que se instauren por delitos contra la salud en su modalidad de narcomenudeo.
+
+P.O. 9 DE ABRIL DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
