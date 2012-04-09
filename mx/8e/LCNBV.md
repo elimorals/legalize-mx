@@ -4,7 +4,7 @@ identifier: "LCNBV"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-28"
-last_updated: "2009-08-13"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2560&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LCNBV"
 ---
 # LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES
+LEY DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de abril de 1995.
 
@@ -150,7 +150,9 @@ XXV.- Proporcionar la asistencia que le soliciten las instituciones supervisoras
 
 XXVI.- Intervenir en la emisión, sorteos y cancelación de títulos o valores de las entidades, en los términos de ley, cuidando que la circulación de los mismos no exceda de los límites legales;
 
-XXVII.- Aplicar a los servidores públicos de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria y de las instituciones de banca de desarrollo las disposiciones, así como las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos que correspondan a las contralorías internas, sin perjuicio de las que en términos de la propia Ley, compete aplicar a la Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XXVII.- Aplicar a los servidores públicos de las instituciones de banca múltiple en las que el Gobierno Federal tenga el control por su participación accionaria y de las instituciones de banca de desarrollo las disposiciones, así como las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos que correspondan a las contralorías internas, sin perjuicio de las que en términos de la propia Ley, compete aplicar a la Secretaría de la Función Pública;
 
 XXVIII.- Llevar el Registro Nacional de Valores e Intermediarios y certificar inscripciones que consten en el mismo;
 
@@ -587,3 +589,9 @@ CUARTO.- Las referencias que otras Leyes, reglamentos o disposiciones hagan resp
 QUINTO.- El Ejecutivo Federal realizará sus mejores esfuerzos para difundir los beneficios de la presente reforma entre los ahorradores y las Sociedades Cooperativas de Ahorro y Préstamo.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
