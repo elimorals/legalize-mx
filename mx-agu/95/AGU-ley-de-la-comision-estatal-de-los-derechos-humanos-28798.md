@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-estatal-de-los-derechos-humanos-28798"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-10"
-last_updated: "2012-03-05"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DE LA COMISION ESTATAL DE LOS DERECHOS HUMANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
-
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 9 DE ABRIL DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de febrero de 2003.
 
@@ -917,13 +917,11 @@ La conciliación se podrá llevar a cabo dentro de los tres días hábiles conta
 
 Las partes contarán con un término de tres días hábiles contados a partir de que se les notifique la propuesta de conciliación, para que manifiesten si la aceptan. Pasado dicho término sin que se manifieste conformidad, se tendrá por no aceptada y por lo tanto se dará trámite a la queja.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA</small>
-
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2012)</small>
+(ADICIONADO, P.O. 5 DE MARZO DE 2012) (F. DE E., P.O. 9 DE ABRIL DE 2012)
 
 ###### ARTICULO 84.
 
-Si durante los cuarenta y cinco días hábiles siguientes a la aceptación de la propuesta de conciliación, la autoridad responsable injustificadamente no da cumplimiento al acuerdo conciliatorio, la Comisión deberá reabrir el expediente a fin de que se determinen las acciones correspondientes.
+Si durante los cinco días hábiles siguientes a la aceptación de la propuesta de conciliación, la autoridad responsable injustificadamente no da cumplimiento al acuerdo conciliatorio, la Comisión deberá reabrir el expediente a fin de que se determinen las acciones correspondientes.
 
 ## ARTICULOS TRANSITORIOS
 
