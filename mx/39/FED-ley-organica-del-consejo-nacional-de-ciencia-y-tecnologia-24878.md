@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-consejo-nacional-de-ciencia-y-tecnologia-24878
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-05"
-last_updated: "2006-04-24"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-06-03"
 ---
 # LEY ORGANICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-LEY ORGANICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
+LEY ORGÁNICA DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DEL 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -309,7 +309,9 @@ Los trabajadores del CONACyT continuarán incorporados al régimen de la Ley del
 
 ###### ARTÍCULO 15.
 
-El CONACyT contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, y tendrán las facultades que les otorgan la Ley Federal de las Entidades Paraestatales y las demás disposiciones legales aplicables.
+> <small>(REFORMADO. D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El CONACyT contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, y tendrán las facultades que les otorgan la Ley Federal de las Entidades Paraestatales y las demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 16.
 
@@ -319,7 +321,9 @@ Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de
 
 ###### ARTÍCULO 17.
 
-Las ausencias del Contralor Interno, así como la de los titulares de las áreas de responsabilidades, auditoría y quejas serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las ausencias del Contralor Interno, así como la de los titulares de las áreas de responsabilidades, auditoría y quejas serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 ## TRANSITORIOS
 
@@ -353,8 +357,14 @@ México, D.F., a 30 de abril de 2002.- Dip. Beatriz Elena Paredes Rangel, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE ABRIL DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
