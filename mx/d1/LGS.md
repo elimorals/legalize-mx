@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2012-03-05"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -288,7 +288,9 @@ II.- El Consejo de Salubridad General;
 
 III.- La Secretaría de Salud, y
 
-IV.- Los gobiernos de las entidades federativas, incluyendo el del Departamento del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- Los gobiernos de las entidades federativas, incluyendo el Gobierno del Distrito Federal.
 
 ## TITULO SEGUNDO. Sistema Nacional de Salud
 
@@ -762,15 +764,15 @@ X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera e
 
 XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28.
 
 Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 28 Bis.
 
@@ -788,7 +790,7 @@ Los profesionales que podrán prescribir medicamentos son:
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 29.
 
@@ -800,13 +802,13 @@ Del Cuadro Básico de Insumos del Sector Salud, la Secretaría de Salud determin
 
 La Secretaría de Salud apoyará a las dependencias competentes en la vigilancia de los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, a fin de que se adecúen a lo establecido en el artículo anterior.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Comercio y Fomento Industrial, oyendo la opinión de la Secretaría de Salud, asegurará la adecuada distribución y comercialización y fijará los precios máximos de venta al público de los medicamentos e insumos. La Secretaría de Hacienda y Crédito Público tendrá la intervención que le corresponda en la determinación de precios, cuando tales bienes sean producidos por el sector público.
+La Secretaría de Economía, oyendo la opinión de la Secretaría de Salud, asegurará la adecuada distribución y comercialización y fijará los precios máximos de venta al público de los medicamentos e insumos. La Secretaría de Hacienda y Crédito Público tendrá la intervención que le corresponda en la determinación de precios, cuando tales bienes sean producidos por el sector público.
 
-La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría de Comercio y Fomento Industrial, acerca de la importación de insumos para la salud.
+La Secretaría de Salud proporcionará los elementos técnicos a la Secretaría de Economía, acerca de la importación de insumos para la salud.
 
 ### CAPITULO II. Atención Médica
 
@@ -914,11 +916,11 @@ Los Comités Hospitalarios de Bioética y de Ética en la Investigación se suje
 
 La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito Público las normas oficiales mexicanas de salud para los seguros personales de gastos médicos y hospitalización.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 43.
 
-Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Comercio y Fomento Industrial, oyendo la opinión de la Secretaría de Salud.
+Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Economía, oyendo la opinión de la Secretaría de Salud.
 
 ###### ARTICULO 44.
 
@@ -1886,7 +1888,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 84.
 
@@ -2154,7 +2156,7 @@ Quien infrinja los preceptos de este Capítulo, se hará acreedor a las sancione
 
 ###### ARTICULO 104.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, y de conformidad con la Ley de Información Estadística y Geográfica y con los criterios de carácter general que emita la Secretaría de Programación y Presupuesto, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Nacional de Salud, así como sobre el estado y evolución de la salud pública.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias, y de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Nacional de Salud, así como sobre el estado y evolución de la salud pública.
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
@@ -2164,11 +2166,11 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 105.
 
-En coordinación con la Secretaría de Programación y Presupuesto y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salud integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
+En coordinación con la Secretaría de Hacienda y Crédito Público y de conformidad con las bases, normas y principios que ésta fije, la Secretaría de Salud integrará la información a que se refiere el artículo anterior, para elaborar las estadísticas nacionales en salud que contribuyan a la consolidación de un sistema nacional de información en salud.
 
 > <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2182,17 +2184,17 @@ Las dependencias y entidades de la Administración Pública Federal, los gobiern
 
 Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de los productos o que realicen las actividades a que se refieren los títulos décimo segundo y décimo cuarto de esta ley, llevarán las estadísticas que les señale la Secretaría de Salud y proporcionarán a ésta y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 108.
 
-La Secretaría de Salud orientará la captación, producción, procesamiento, sistematización y divulgación de la información para la salud, con sujeción a los criterios generales que establezca la Secretaría de Programación y Presupuesto, a los cuales deberán ajustarse las dependencias y entidades del sector público y las personas físicas y morales de los sectores social y privado.
+La Secretaría de Salud orientará la capacitación, producción, procesamiento, sistematización y divulgación de la información para la salud, con sujeción a los criterios generales que establezca la Secretaría de Hacienda y Crédito Público, a los cuales deberán ajustarse las dependencias y entidades del sector público y las personas físicas y morales de los sectores social y privado.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 109.
 
-La Secretaría de Salud proporcionará a la Secretaría de Programación y Presupuesto los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
+La Secretaría de Salud proporcionará a la Secretaría de Hacienda y Crédito Público los datos que integren las estadísticas nacionales para la salud que elabore, para su incorporación al Sistema Nacional Estadístico, y formará parte de las instancias de participación y consulta que para esos fines se instituyan.
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
 
@@ -2292,7 +2294,9 @@ VI.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectiv
 
 VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos. Tratándose de las harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de éstas, indicándose los nutrientes y las cantidades que deberán incluirse;
 
-VIII.- Proporcionar a la Secretaría de Comercio y Fomento Industrial los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII.- Proporcionar a la Secretaría de Economía los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
 
 ### CAPITULO III. Enfermedades no transmisibles
 
@@ -2302,11 +2306,11 @@ VIII.- Proporcionar a la Secretaría de Comercio y Fomento Industrial los elemen
 
 Las autoridades sanitarias establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta Ley tendientes a la protección de la salud humana ante los riesgos y daños dependientes de las condiciones del ambiente.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 117.
 
-La formulación y conducción de la política de saneamiento ambiental corresponde a la Secretaría de Desarrollo Urbano y Ecología, en coordinación con la Secretaría de Salud, en lo referente a la salud humana.
+La formulación y conducción de la política de saneamiento ambiental corresponde a la Secretaría de Medio Ambiente y Recursos Naturales en coordinación con la Secretaría de Salud, en lo referente a la salud humana.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2370,11 +2374,11 @@ Las personas que intervengan en el abastecimiento de agua no podrán suprimir la
 
 Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfacer los criterios sanitarios emitidos de acuerdo con la fracción III del artículo 118, así como de residuos peligrosos que conlleven riesgos para la salud pública, a cuerpos de agua que se destinan para uso o consumo humano.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 123.
 
-La Secretaría de Salud proporcionará a la Secretaría de Comercio y Fomento Industrial y, en general, a las demás autoridades competentes, los requisitos técnicos sanitarios para que el almacenamiento, distribución, uso y manejo del gas natural, del gas licuado de petróleo y otros productos industriales gaseosos que sean de alta peligrosidad, no afecten la salud de las personas, los que serán de observancia obligatoria y, en su caso, deberán incorporarse a las normas oficiales mexicanas.
+La Secretaría de Salud proporcionará a la Secretaría de Economía y, en general, a las demás autoridades competentes, los requisitos técnicos sanitarios para que el almacenamiento, distribución, uso y manejo del gas natural, del gas licuado de petróleo y otros productos industriales gaseosos que sean de alta peligrosidad, no afecten la salud de las personas, los que serán de observancia obligatoria, y en su caso, deberán incorporarse a las normas oficiales mexicanas.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -3122,11 +3126,11 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en coordin
 
 En caso de epidemia de carácter (sic) grave peligro de invasión de enfermedades transmisibles, situaciones de emergencia o catástrofe que afecten al país, la Secretaría de Salud dictará inmediatamente las medidas indispensables para prevenir y combatir los daños a la salud, a reserva de que tales medidas sean después sancionadas por el Presidente de la República.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 182.
 
-En caso de emergencia causada por deterioro súbito del ambiente que ponga en peligro inminente a la población, la Secretaría de Salud adoptará las medidas de prevención y control indispensables para la protección de la salud, sin perjuicio de la intervención que corresponda al Consejo de Salubridad General y a la Secretaría de Desarrollo Urbano y Ecología.
+En caso de emergencia causada por deterioro súbito del ambiente que ponga en peligro inminente a la población, la Secretaría de Salud adoptará las medidas de prevención y control indispensable para la protección de la salud; sin perjuicio de la intervención que corresponda al Consejo de Salubridad General y a la Secretaría de Medio Ambiente y Recursos Naturales.
 
 ###### ARTICULO 183.
 
@@ -4602,7 +4606,7 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 269.
 
@@ -4854,7 +4858,9 @@ En materia de alimentos, bebidas no alcohólicas, bebidas alcohólicas, producto
 
 La importación de los productos y materias primas comprendidos en este Título que no requieran de autorización sanitaria previa de importación, se sujetará a las siguientes bases:
 
-I.- Podrán importarse los productos, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta Ley, incluido el certificado sanitario expedido por la autoridad sanitaria del país de origen, de acuerdo con los convenios y tratados internacionales que se celebren o de laboratorios nacionales o extranjeros acreditados por las Secretarías de Salud o de Comercio y Fomento Industrial, conforme a los acuerdos de coordinación que celebren estas dependencias. Asimismo, deberá dar aviso a la Secretaría del arribo y destino de los productos;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Podrán importarse los productos, siempre que el importador exhiba la documentación establecida en las disposiciones reglamentarias de esta Ley, incluido el certificado sanitario expedido por la autoridad sanitaria del país de origen, de acuerdo con los convenios y tratados internacionales que se celebren o de laboratorios nacionales o extranjeros acreditados por las Secretarías de Salud o de Economía, conforme a los acuerdos de coordinación que celebren estas dependencias. Asimismo, deberá dar aviso a la Secretaría del arribo y destino de los productos;
 
 II.- La Secretaría podrá aleatoriamente muestrear y analizar los productos importados, aún cuando cuenten con certificación sanitaria a fin de verificar el cumplimiento de las normas oficiales mexicanas o disposiciones aplicables. Cuando se encuentre que el producto muestreado no cumple con las normas o disposiciones citadas, la Secretaría podrá solicitar su acondicionamiento, y si esto no es posible, procederá en los términos de esta Ley. Además, en estos casos se revocará la autorización del laboratorio que expidió el certificado, y
 
@@ -4962,7 +4968,7 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ###### ARTICULO 300.
 
-Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Comercio y Fomento Industrial, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
+Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Economía, Comunicaciones y Trasportes y otras dependencias del Ejecutivo Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5566,7 +5572,7 @@ El Centro Nacional de Trasplantes fomentará la cultura de la donación, en coor
 
 Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias determinar los mecanismos para impulsar el fomento a la cultura de la donación al momento de la realización de trámites públicos o la obtención de documentos oficiales.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, D.O.F. 26 DE MAYO DE 2000)</small>
 
 ### CAPITULO III. Certificados
 
@@ -7767,3 +7773,9 @@ DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 51 BIS 1 DE LA L
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los gobiernos Federal, de las entidades federativas y de los municipios deberán desarrollar, de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr, de manera progresiva, el cumplimiento del mismo.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
