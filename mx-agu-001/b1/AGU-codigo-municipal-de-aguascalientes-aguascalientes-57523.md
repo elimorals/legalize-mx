@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2012-02-20"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2012.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1023,19 +1023,23 @@ Dirección de Enlace Internacional
 
 Departamento de Gestión de Proyectos
 
-IV.- COORDINACIÓN GENERAL DEL OBSERVATORIO CIUDADANO DE TRANSPARENCIA Y GESTIÓN MUNICIPAL
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2012)</small>
 
-Coordinación Técnica
+IV.- COORDINACIÓN GENERAL DE OBSERVATORIO CIUDADANO DE TRANSPARENCIA Y GESTIÓN MUNICIPAL
+
+Dirección Administrativa
 
 Departamento Administrativo
+
+Departamento de Difusión e Informática
+
+Dirección Operativa
 
 Departamento de Transparencia
 
 Departamento de Vinculación Ciudadana
 
 Departamento de Evaluación de la Calidad de la Gestión Municipal
-
-Departamento de Difusión e Informática
 
 V.- COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
@@ -12477,7 +12481,7 @@ Igualmente, cuando se cambie el uso del suelo de un predio u obra, deberá condi
 
 Los requerimientos mínimos en materia de cajones de estacionamiento son los siguientes:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 824.
 
@@ -13011,7 +13015,7 @@ Como caso general, se emplearán los valores máximos probables de los pesos vol
 
 Existe la opción de investigar el peso volumétrico de los materiales directamente en forma experimental.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 887.
 
@@ -13085,19 +13089,19 @@ IV. Cuando el efecto de la carga viva sea favorable para la estabilidad de la es
 
 Las cargas vivas unitarias nominales no se considerarán menores que las de la tabla siguiente:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Observaciones: TABLA Cargas vivas unitarias
 
 1) Cuando se trate de elementos estructurales que tengan un área tributaria mayor de treinta y seis metros cuadrados, Wm podrá reducirse, tomándola igual a
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 (A= área tributaria en m2), Cuando sea más desfavorable, en vez de Wm se considerará una carga concentrada de quinientos kilogramos aplicada en la posición más critica del elemento;
 
 2) Cuando se trate de elementos estructurales que tengan un área tributaria mayor de treinta y seis metros cuadrados, Wm podrá reducirse tomándola igual a
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 3) En el caso de áreas de circulación pertenecientes a casas habitación o edificios de departamentos se considerará la misma carga viva que para el resto del inmueble;
 
@@ -13315,7 +13319,7 @@ III. La relación entre la altura y la dimensión menor de la base del edificio 
 
 IV. La altura de la estructura no será mayor de trece metros los coeficientes sísmicos reducidos serán como sigue:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 En el caso de construcciones pertenecientes al grupo A, estos coeficientes se multiplicarán por uno punto cinco.
 
@@ -13473,7 +13477,7 @@ I. Se localizará el nivel de terreno muy firme, debajo del cual todos los estra
 
 II. Para los estratos comprendidos entre el nivel del terreno muy firme y el nivel en el cual las aceleraciones horizontales del terreno se transmiten a la construcción se aplicará la siguiente expresión:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 A manera de ejemplo, en el caso de un cajón de cimentación el nivel en el cual las aceleraciones horizontales del terreno se transmiten a la construcción correspondería al desplante de la losa inferior del cajón.
 
@@ -13795,7 +13799,7 @@ Si se emplean resistencias de concreto, tipos de varilla o tipos de armadura dis
 
 Con respecto a los muros reforzados Interiormente, éstos no se mencionan en este artículo en virtud de que los lineamientos para este tipo de muros son un poco más complejos y por lo tanto conviene que para tal efecto se consulten directamente las normas.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTÍCULO 977.
 
@@ -17151,7 +17155,7 @@ Los establecimientos dedicados a la renta de equipos de cómputo para Internet o
 
 Los establecimientos dedicados a la venta, renta y/o intercambio de fonogramas o videogramas, deberán solicitar licencia de funcionamiento en los términos de este Código y cumplir con las siguientes obligaciones:
 
-I. Operar en un horario de las nueve a las veintitrés horas.
+l. Operar en un horario de las nueve a las veintitrés horas.
 
 II. Prohibir que laboren menores de edad dentro del establecimiento.
 
@@ -17277,7 +17281,7 @@ V. Recibo de pago del derecho correspondiente expedido por la Secretaría de Fin
 
 Todos los integrantes de las agrupaciones que realicen actividades musicales en vía pública, deberán contar con la credencial referida en el presente artículo.
 
-Una vez presentados los requisitos mencionados en el presente articulo, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentación, si lo considera procedente, podrá expedir, en un término no mayor a 15 días hábiles, una credencial a la persona que realizará actividades musicales en vía pública, con la cual, éste acreditará la autorización para ejercer dicha actividad en vía pública, ajustándose a las disposiciones jurídicas aplicables.
+Una vez presentados los requisitos mencionados en el presente artículo, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, a través de la Dirección de Reglamentación, si lo considera procedente, podrá expedir, en un término no mayor a 15 días hábiles, una credencial a la persona que realizará actividades musicales en vía pública, con la cual, éste acreditará la autorización para ejercer dicha actividad en vía pública, ajustándose a las disposiciones jurídicas aplicables.
 
 La Dirección de Reglamentación será responsable de registrar, en un padrón municipal, a las personas que realizan actividades musicales en vía pública. Aquellas personas que dejen de realizar dichas actividades deberán solicitar por escrito su baja del padrón.
 
@@ -20157,7 +20161,7 @@ SEXTO.- Se derogan todas las disposiciones jurídicas de carácter municipal que
 
 SÉPTIMO.- Los reglamentos municipales expedidos con anterioridad continuarán vigentes en cuanto su aplicación sea compatible con el presente ordenamiento.
 
-OCTAVO.- El impacto presupuestal resultante de la creación de la Dirección de Justicia Municipal, no surtirá efectos hasta en tanto no se hagan las modificaciones en el presupuesto de egresos correspondiente. De igual manera, la Dirección de la Unidad de Protección Civil y de la Dirección de Bomberos por lo que resta del ejercicio fiscal dos mil siete continuarán dependiendo presupues-talmente de la Secretaría de Seguridad Pública Municipal.
+OCTAVO.- El impacto presupuestal resultante de la creación de la Dirección de Justicia Municipal, no surtirá efectos hasta en tanto no se hagan las modificaciones en el presupuesto de egresos correspondiente. De igual manera, la Dirección de la Unidad de Protección Civil y de la Dirección de Bomberos por lo que resta del ejercicio fiscal dos mil siete continuarán dependiendo presupues-tal-mente (sic) de la Secretaría de Seguridad Pública Municipal.
 
 NOVENO.- La Dirección de Capacitación, Formalización y Profesionalización de la Secretaría de Seguridad Pública Municipal, iniciará sus funciones a partir del día primero de enero del año 2008, ejerciendo mientras tanto la Dirección del Estado Mayor las funciones encomendadas a la primera de las direcciones citadas.
 
@@ -20257,7 +20261,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 12 DE MAYO DE 2008.
 
-DECRETO QUE REFORMA LA FRACIÓN VI DEL ARTÍCULO 1358 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 1358 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -20722,3 +20726,9 @@ SEXTO.- Se abrogan aquellas disposiciones administrativas o normativas que se op
 SÉPTIMO.- El Consejo para la Equidad Laboral y la Comisión para la Erradicación de la Violencia Laboral deberán quedar debidamente instaladas dentro de los quince días hábiles siguientes a la entrada en vigor de las reformas, modificaciones y adiciones al Código Municipal de Aguascalientes y las reformas, modificaciones y adiciones al Reglamento Interior de Trabajo del Municipio de Aguascalientes.
 
 OCTAVO.- Dentro de los quince días hábiles siguientes a su instalación, la Comisión para la Erradicación de la Violencia Laboral deberá emitir los criterios y lineamientos procedimentales para la aplicación de las medidas disciplinarias correspondientes.
+
+P.O. 9 DE ABRIL DE 2012.
+
+PUNTOS RESOLUTIVOS: .
+
+SEGUNDO. La presente reforma al artículo 98 fracción IV surtirá efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
