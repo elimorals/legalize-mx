@@ -4,7 +4,7 @@ identifier: "LFAEBSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-12-19"
-last_updated: "2005-02-23"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26816&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFAEBSP"
 ---
 # LEY FEDERAL PARA LA ADMINISTRACION Y ENAJENACION DE BIENES DEL SECTOR PUBLICO
 
-LEY FEDERAL PARA LA ADMINISTRACION Y ENAJENACION DE BIENES DEL SECTOR PUBLICO
+LEY FEDERAL PARA LA ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES DEL SECTOR PÚBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de diciembre de 2002.
 
@@ -100,7 +100,9 @@ II.- Bienes: Los bienes mencionados en el artículo 1 de esta Ley;
 
 III.- Bienes incosteables: Aquellos cuyo valor sea menor al importe de seis meses de salario mínimo general vigente para el Distrito Federal, así como aquellos que, de conformidad con lo que al respecto disponga el Reglamento, tengan un valor comercial inferior a sus costos de administración;
 
-IV.- Contraloría: La Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- Contraloría: La Secretaría de la Función Pública;
 
 > <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -1145,3 +1147,9 @@ La transferencia de los bienes a que se refiere el artículo 6 bis, así como lo
 El SAE, en su carácter de liquidador de las trece sociedades nacionales de crédito que integran el Sistema Banrural, señaladas en el artículo tercero transitorio de la Ley Orgánica de la Financiera Rural, deberá enajenar los bienes muebles e inmuebles de dichas sociedades, así como los que éstas se hayan adjudicado en pago, a las dependencias y entidades paraestatales de la Administración Pública Federal, así como a cualquier persona física o moral, a través de los procedimientos previstos en la presente Ley.
 
 El producto de las enajenaciones, deducidos los gastos y demás conceptos previstos en el artículo 89 de esta Ley, se destinarán a cubrir los pasivos de la liquidación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
