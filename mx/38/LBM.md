@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "2010-05-25"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LBM"
 ---
 # LEY DEL BANCO DE MEXICO
 
-LEY DEL BANCO DE MEXICO
+LEY DEL BANCO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
@@ -504,9 +504,11 @@ La remuneración del Gobernador del Banco, así como la de los Subgobernadores, 
 
 El comité sesionará por lo menos una vez al año, y tomará sus resoluciones por el voto favorable de la mayoría de sus miembros, los cuales no tendrán suplentes. Para adoptar sus resoluciones, el comité deberá considerar las remuneraciones existentes en el Banco y la evolución de las remuneraciones en el sistema financiero del país, teniendo como criterio rector que, dadas las condiciones del referido mercado laboral, la Junta de Gobierno cuente con miembros idóneos y el Banco pueda contratar y conservar personal debidamente calificado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 50.
 
-El Secretario de Hacienda y Crédito Público solicitará a un colegio o instituto de contadores ampliamente representativo de la profesión, le proponga una terna de firmas de reconocido prestigio, entre las cuales designará al auditor externo del Banco con la aprobación de la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, y contratará sus servicios por cuenta del Banco. La contratación del auditor externo no podrá hacerse por periodos mayores de cinco años.
+El Secretario de Hacienda y Crédito Público solicitará a un colegio o instituto de contadores ampliamente representativo de la profesión, le proponga una terna de firmas de reconocido prestigio, entre las cuales designará al auditor externo del Banco con la aprobación de la Comisión de Vigilancia de la Auditoría Superior de la Federación, y contratará sus servicios por cuenta del Banco. La contratación del auditor externo no podrá hacerse por periodos mayores de cinco años.
 
 El auditor tendrá las más amplias facultades para examinar y dictaminar los estados financieros del Banco, así como para revisar la contabilidad y demás documentación relacionada con ésta, debiendo enviar al Ejecutivo Federal y al Congreso de la Unión copia de los dictámenes que presente a la Junta de Gobierno, y un informe sobre el ejercicio del presupuesto de gasto corriente e inversión física.
 
@@ -797,3 +799,9 @@ Las Sociedades de Información Crediticia contarán con un plazo de hasta ciento
 Las sociedades de información crediticia deberán obtener la autorización de la Comisión Nacional Bancaria y de Valores respecto de las tarifas que dichas sociedades deberán ofrecer a sus Usuarios por los reportes de crédito, en términos del artículo 36 Bis de la Ley para Regular las Sociedades de Información Crediticia dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 Sexto. Para los efectos del artículo 20, las Sociedades deberán eliminar, en un plazo no mayor a 90 días naturales, de sus bases de datos los registros cuyo origen no haya sido informado por los Usuarios con anterioridad a la presente reforma. Para su reinscripción, los Usuarios deberán especificar las fechas de origen del crédito y de su primer incumplimiento, éste último no podrá ser mayor a 72 meses.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
