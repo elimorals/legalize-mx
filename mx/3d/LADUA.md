@@ -4,7 +4,7 @@ identifier: "LADUA"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2012-01-27"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=744&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LADUA"
 
 LEY ADUANERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA DE COMERCIO EXTERIOR: 27 DE DICIEMBRE DE 2011.
 
@@ -672,7 +672,9 @@ Tratándose del cumplimiento de regulaciones y restricciones no arancelarias en 
 
 Quienes exporten mercancías podrán presentar ante la aduana, por conducto de agente o apoderado aduanal, un sólo pedimento que ampare diversas operaciones de un solo exportador, al que se denominará pedimento consolidado.
 
-Tratándose de las maquiladoras y las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, también podrán optar por promover el despacho aduanero de las mercancías mediante pedimento consolidado para su importación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Tratándose de las maquiladoras y las empresas con programas de exportación autorizados por la Secretaría de Economía, también podrán optar por promover el despacho aduanero de las mercancías mediante pedimento consolidado para su importación.
 
 Quienes ejerzan las opciones a que se refiere este artículo, deberán cumplir con los requisitos que para tal efecto establezca el Reglamento.
 
@@ -1098,7 +1100,9 @@ XII. Los artículos de uso personal de extranjeros fallecidos en el país y de m
 
 XIII. Las obras de arte destinadas a formar parte de las colecciones permanentes de los museos abiertos al público, siempre que obtengan autorización de la Secretaría.
 
-XIV. Las destinadas a instituciones de salud pública, a excepción de los vehículos, siempre que únicamente se puedan usar para este fin, así como las destinadas a personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta. En estos casos deberán formar parte de su patrimonio y cumplir con las demás obligaciones en materia de regulaciones y restricciones no arancelarias. La Secretaría, previa opinión de la Secretaría de Comercio y Fomento Industrial, señalará las fracciones arancelarias que reúnan los requisitos a que se refiere esta fracción.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XIV. Las destinadas a instituciones de salud pública, a excepción de los vehículos, siempre que únicamente se puedan usar para este fin, así como las destinadas a personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta. En estos casos deberán formar parte de su patrimonio y cumplir con las demás obligaciones en materia de regulaciones y restricciones no arancelarias. La Secretaría, previa opinión de la Secretaría de Economía, señalará las fracciones arancelarias que reúnan los requisitos a que refiere esta fracción.
 
 XV. Los vehículos especiales o adaptados y las demás mercancías que importen las personas con discapacidad que sean para su uso personal, así como aquellas que importen las personas morales no contribuyentes autorizadas para recibir donativos deducibles en el impuesto sobre la renta que tengan como actividad la atención de dichas personas, siempre que se trate de mercancías que por sus características suplan o disminuyan su discapacidad; permitan a dichas personas su desarrollo físico, educativo, profesional o social; se utilicen exclusiva y permanentemente por las mismas para esos fines, y cuenten con la autorización de la Secretaría.
 
@@ -1106,9 +1110,9 @@ Para los efectos de lo dispuesto en esta fracción, se considerará como persona
 
 Tratándose de vehículos especiales o adaptados, las personas con discapacidad podrán importar sólo un vehículo para su uso personal cada cuatro años. Las personas morales a que se refiere el primer párrafo de esta fracción podrán importar hasta tres vehículos cada cuatro años. En ambos casos, el importador no podrá enajenar dichos vehículos sino después de cuatro años de haberlos importado.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XVI. La maquinaria y equipo obsoleto que tenga una antigüedad mínima de tres años contados a partir de la fecha en que se realizó la importación temporal, así como los desperdicios, siempre que sean donados por las empresas maquiladoras o con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial a organismos públicos o a personas morales no contribuyentes autorizadas para recibir donativos deducibles para efectos del impuesto sobre la renta. Además, las donatarias deberán contar con autorización de la Secretaría y, en su caso, cumplir con las regulaciones y restricciones no arancelarias.
+XVI. La maquinaria y equipo obsoleto que tenga una antigüedad mínima de tres años contados a partir de la fecha en que se realizó la importación temporal, así como los desperdicios, siempre que sean donados por las empresas maquiladoras o con programas de exportación autorizados por la Secretaría de Economía a organismos públicos o a personas morales no contribuyentes autorizadas para recibir donativos deducibles para efectos del impuesto sobre la renta. Además, las donatarias deberán contar con autorización de la Secretaría y, en su caso, cumplir con las regulaciones y restricciones no arancelarias.
 
 > <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -1602,7 +1606,9 @@ VII. El número de candados oficiales utilizados en los vehículos o medios de t
 
 Se podrá presentar hasta en dos ocasiones, la rectificación de los datos contenidos en el pedimento para declarar o rectificar los números de serie de maquinaria, dentro de los noventa días siguientes a que se realice el despacho y dentro de quince días en otras mercancías, excepto cuando se trate de vehículos.
 
-Tratándose de importaciones temporales efectuadas por las empresas maquiladoras o con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, se podrán rectificar dentro de los diez días siguientes a aquel en que se realice el despacho, los datos contenidos en el pedimento para aumentar el número de piezas, volumen y otros datos que permitan cuantificar las mercancías amparadas por dichos programas.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Tratándose de importaciones temporales efectuadas por las empresas maquiladoras o con programas de exportación autorizados por la Secretaría de Economía, se podrán rectificar dentro de los diez días siguientes a aquel en que se realice el despacho, los datos contenidos en el pedimento para aumentar el número de piezas, volumen y otros datos que permitan cuantificar las mercancías amparadas por dichos programas.
 
 Cuando se exporten mercancías para ser enajenadas en el extranjero, se podrán rectificar los datos contenidos en el pedimento el número de veces que sean necesarias, con el objeto de disminuir el número, volumen o peso de las mercancías por mermas o desperdicios, o bien, para modificar el valor de las mismas cuando éste se conozca posteriormente con motivo de su enajenación o cuando la rectificación se establezca como una obligación por disposición de la Ley.
 
@@ -1824,7 +1830,9 @@ III. Los demás que establezca el Reglamento.
 
 La inscripción en el registro del despacho de mercancías de las empresas deberá ser renovada anualmente por los importadores, mediante la presentación de un aviso dentro de los 30 días anteriores a que venza la vigencia de su registro, siempre que se acredite que continúan cumpliendo con los requisitos señalados en este artículo.
 
-Las maquiladoras o las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, podrán solicitar su inscripción en el registro del despacho de mercancías de las empresas, sin que sea necesario cumplir con los requisitos anteriores.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las maquiladoras o las empresas con programas de exportación autorizados por la Secretaría de Economía, podrán solicitar su inscripción en el registro del despacho de mercancías de las empresas, sin que sea necesario cumplir con los requisitos anteriores.
 
 Las autoridades aduaneras podrán suspender hasta por seis meses la inscripción en el registro a que se refiere este artículo, cuando con motivo del ejercicio de sus facultades de comprobación, detecten cualquier maniobra tendiente a eludir el cumplimiento de las obligaciones fiscales.
 
@@ -1946,9 +1954,11 @@ Lo dispuesto en esta fracción no será aplicable en los casos previstos en los 
 
 II. Se cumplirán las demás obligaciones en materia de regulaciones y restricciones no arancelarias y formalidades para el despacho de las mercancías destinadas a este régimen.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 105.
 
-La propiedad o el uso de las mercancías destinadas al régimen de importación temporal no podrá ser objeto de transferencia o enajenación, excepto entre maquiladoras, empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial y empresas de comercio exterior que cuenten con registro de esta misma dependencia, cuando cumplan con las condiciones que establezca el Reglamento.
+La propiedad o el uso de las mercancías destinadas al régimen de importación temporal no podrá ser objeto de transferencia o enajenación, excepto entre maquiladoras, empresas con programas de exportación autorizados por la Secretaría de Economía y empresas de comercio exterior que cuenten con registro de esta misma dependencia, cuando cumplan con las condiciones que establezca el Reglamento.
 
 II
 
@@ -2056,17 +2066,21 @@ III
 
 Para elaboración, transformación o reparación en programas de maquila o de exportación
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 108.
 
-Las maquiladoras y las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, podrán efectuar la importación temporal de mercancías para retornar al extranjero después de haberse destinado a un proceso de elaboración, transformación o reparación, así como las mercancías para retornar en el mismo estado, en los términos del programa autorizado, siempre que tributen de acuerdo con lo dispuesto en el Título II de la Ley del Impuesto sobre la Renta y cumplan con los requisitos de control que establezca la Secretaría mediante reglas.
+Las maquiladoras y las empresas con programas de exportación autorizados por la Secretaría de Economía, podrán efectuar la importación temporal de mercancías para retornar al extranjero después de haberse destinado a un proceso de elaboración, transformación o reparación, así como las mercancías para retornar en el mismo estado, en los términos del programa autorizado, siempre que tributen de acuerdo con lo dispuesto en el Título II de la Ley del Impuesto sobre la Renta y cumplan con los requisitos de control que establezca la Secretaría mediante reglas.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 La importación temporal de las mercancías a que se refiere la fracción I, incisos a), b) y c) de este artículo, se sujetará al pago del impuesto general de importación en los casos previstos en el artículo 63-A de esta Ley y, en su caso, de las cuotas compensatorias aplicables.
 
-Las mercancías importadas temporalmente por las maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, al amparo de sus respectivos programas, podrán permanecer en el territorio nacional por los siguientes plazos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las mercancías importadas temporalmente por las maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, al amparo de sus respectivos programas, podrán permanecer en el territorio nacional por los siguientes plazos.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I. Hasta por dieciocho meses, en los siguientes casos:
 
@@ -2077,6 +2091,8 @@ b) Materias primas, partes y componentes que se vayan a destinar totalmente a in
 c) Envases y empaques.
 
 d) Etiquetas y folletos.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II. Hasta por dos años, tratándose de contenedores y cajas de trailers.
 
@@ -2090,13 +2106,19 @@ b) Equipos y aparatos para el control de la contaminación; para la investigaci�
 
 c) Equipo para el desarrollo administrativo.
 
-En los casos en que residentes en el país les enajenen productos a las maquiladoras y empresas que tengan programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, así como a las empresas de comercio exterior que cuenten con registro de la Secretaría de Comercio y Fomento Industrial, se considerarán efectuadas en importación temporal y perfeccionada la exportación definitiva de las mercancías del enajenante, siempre que se cuente con constancia de exportación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+En los casos en que residentes en el país les enajenen productos a las maquiladoras y empresas que tengan programas de exportación autorizados por la Secretaría de Economía, así como a las empresas de comercio exterior que cuenten con registro de la Secretaría de Economía, se considerarán efectuadas en importación temporal y perfeccionada la exportación definitiva de las mercancías del enajenante, siempre que se cuente con constancia de exportación.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Las mercancías que hubieran sido importadas temporalmente de conformidad con este artículo deberán retornar al extranjero o destinarse a otro régimen aduanero en los plazos previstos. En caso contrario, se entenderá que las mismas se encuentran ilegalmente en el país, por haber concluido el régimen de importación temporal al que fueron destinadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 109.
 
-Las maquiladoras y las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, deberán presentar ante las autoridades aduaneras, declaración en la que proporcionen información sobre las mercancías que retornen, la proporción que representan de las importadas temporalmente, las mermas y los desperdicios que no se retornen, así como aquellas que son destinadas al mercado nacional, conforme a lo que establezca el Reglamento.
+Las maquiladoras y las empresas con programas de exportación autorizados por la Secretaría de Economía deberán presentar ante las autoridades aduaneras, declaración en la que proporcionen información sobre las mercancías que retornen, la proporción que representan de las importadas temporalmente, las mermas y los desperdicios que no se retornen, así como aquellas que son destinadas al mercado nacional, conforme a lo que establezca el Reglamento.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -2122,17 +2144,19 @@ Los productos resultantes de los procesos de transformación, elaboración o rep
 
 Para calcular el impuesto general de exportación se determinará el porcentaje que del peso y valor del producto terminado corresponda a las citadas materias primas o mercancías que se le hubieren incorporado.
 
-Cuando no se lleve a cabo la transformación, elaboración o reparación proyectada de las mercancías importadas temporalmente, se permitirá el retorno de las mismas sin el pago del impuesto general de importación, siempre y cuando las maquiladoras, así como las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial comprueben los motivos que han dado lugar al retorno de las mercancías en los casos en que la autoridad así lo requiera.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Cuando no se lleve a cabo la transformación, elaboración o reparación proyectada de las mercancías importadas temporalmente, se permitirá el retorno de las mismas sin el pago del impuesto general de importación, siempre y cuando las maquiladoras, así como las empresas con programas de exportación autorizados por la Secretaría de Economía comprueben los motivos que han dado lugar al retorno de las mercancías en los casos en que la autoridad así lo requiera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 112.
 
-Las maquiladoras o las empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, podrán transferir las mercancías que hubieran importado temporalmente, a otras maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, que vayan a llevar a cabo los procesos de transformación, elaboración o reparación, o realizar el retorno de dichas mercancías, siempre que tramiten un pedimento de exportación a nombre de la persona que realice la transferencia, en el que se efectúe la determinación y pago del impuesto general de importación correspondiente a las mercancías de procedencia extranjera conforme a su clasificación arancelaria, en los términos del artículo 56 de esta Ley, considerando el valor de las mercancías, al tipo de cambio vigente en la fecha en que se efectúe el pago, y conjuntamente se tramite un pedimento de importación temporal a nombre de la empresa que recibe las mercancías, cumpliendo con los requisitos que señale la Secretaría mediante reglas.
+Las maquiladoras o las empresas con programas de exportación autorizados por la Secretaría de Economía, podrán transferir las mercancías que hubieran importado temporalmente, a otras maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, que vayan a llevar a cabo los procesos de transformación, elaboración o reparación, o realizar el retorno de dichas mercancías, siempre que tramiten un pedimento de exportación a nombre de la persona que realice la transferencia, en el que se efectúe la determinación y pago del impuesto general de importación correspondiente a las mercancías de procedencia extranjera conforme a su clasificación arancelaria, en los términos del artículo 56 de esta Ley, considerando el valor de las mercancías, al tipo de cambio vigente en la fecha en que se efectúe el pago, y conjuntamente se tramite un pedimento de importación temporal a nombre de la empresa que recibe las mercancías, cumpliendo con los requisitos que señale la Secretaría mediante reglas.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Cuando la empresa que recibe las mercancías presente conjuntamente con el pedimento de importación a que se refiere el párrafo anterior, un escrito en el que asuma la responsabilidad solidaria por el pago del impuesto general de importación correspondiente a las mercancías de procedencia extranjera importadas temporalmente por la persona que efectúa la transferencia y sus proveedores, el pago del impuesto general de importación causado por la mercancía transferida se diferirá en los términos del artículo 63-A de esta Ley. Cuando la persona que reciba las mercancías, a su vez las transfiera a otra maquiladora o empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, pagará el impuesto respecto del que se haya hecho responsable solidario, salvo que la persona a la que le transfirió las mercancías a su vez asuma la responsabilidad solidaria por el que le transfiera y sus proveedores.
+Cuando la empresa que recibe las mercancías presente conjuntamente con el pedimento de importación a que se refiere el párrafo anterior, un escrito en el que asuma la responsabilidad solidaria por el pago del impuesto general de importación correspondiente a las mercancías de procedencia extranjera importadas temporalmente por la persona que efectúa la transferencia y sus proveedores, el pago del impuesto general de importación causado por la mercancía transferida se diferirá en los términos del artículo 63-A de esta Ley. Cuando la persona que reciba las mercancías, a su vez las transfiera a otra maquiladora o empresas con programas de exportación autorizados por la Secretaría de Economía, pagará el impuesto respecto del que se haya hecho responsable solidario, salvo que la persona a la que le transfirió las mercancías a su vez asuma la responsabilidad solidaria por el que le transfiera y sus proveedores.
 
 Los procesos de transformación, elaboración o reparación de las mercancías podrán llevarse a cabo por persona distinta de las señaladas en el primer párrafo de este artículo, cuando cumplan con las condiciones de control que establezca el Reglamento.
 
@@ -2184,15 +2208,15 @@ d) Las de enseres, utilería, y demás equipo necesario para la filmación, siem
 
 III. Hasta por un año, las que se destinen a exposiciones, convenciones, congresos internacionales o eventos culturales o deportivos.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-IV. Por el periodo que mediante reglas determine la Secretaría y por las mercancías que en las mismas se señalen, cuando las circunstancias económicas así lo ameriten, previa opinión de la Secretaría de Comercio y Fomento Industrial. En estos casos la Secretaría podrá autorizar que la obligación de retorno se cumpla con la introducción al país de mercancías que no fueron las que se exportaron temporalmente, siempre que se trate de mercancías fungibles, que no sean susceptibles de identificarse individualmente y se cumpla con las condiciones de control que establezca dicha dependencia.
+IV. Por el periodo que mediante reglas determine la Secretaría y por las mercancías que en las mismas se señalen, cuando las circunstancias económicas así lo ameriten, previa opinión de la Secretaría de Economía. En estos casos la Secretaría podrá autorizar que la obligación de retorno se cumpla con la introducción al país de mercancías que no fueron las que se exportaron temporalmente, siempre que se trate de mercancías fungibles, que no sean susceptibles de identificarse individualmente y se cumpla con las condiciones de control que establezca dicha dependencia.
 
 > <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Los plazos a que se refieren las fracciones I a IV de este artículo, podrán prorrogarse hasta por un lapso igual al previsto en la fracción de que se trate, mediante rectificación al pedimento de exportación temporal, antes del vencimiento del plazo respectivo. En caso de que se requiera un plazo adicional, se deberá solicitar autorización de conformidad con los requisitos que señale la Secretaría mediante reglas. Tratándose de lo señalado en la fracción IV podrá prorrogarse el período establecido, previa opinión de la Secretaría de Comercio y Fomento Industrial.
+Los plazos a que se refieren las fracciones I a IV de este artículo, podrán prorrogarse hasta por un lapso igual al previsto en la fracción de que se trate, mediante rectificación al pedimento de exportación temporal, antes del vencimiento del plazo respectivo. En caso de que se requiera un plazo adicional, se deberá solicitar autorización de conformidad con los requisitos que señale la Secretaría mediante reglas. Tratándose de lo señalado en la fracción IV podrá prorrogarse el período establecido, previa opinión de la Secretaría de Economía.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2262,7 +2286,9 @@ II. Exportarse definitivamente, si son de procedencia nacional.
 
 III. Retornarse al extranjero las de esa procedencia o reincorporarse al mercado las de origen nacional, cuando los beneficiarios se desistan de este régimen.
 
-IV. Importarse temporalmente por maquiladoras o por empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV. Importarse temporalmente por maquiladoras o por empresas con programas de exportación autorizados por la Secretaría de Economía.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2586,11 +2612,11 @@ Para los efectos de esta Ley, se considera como franja fronteriza al territorio 
 
 Por región fronteriza se entenderá al territorio que determine el Ejecutivo Federal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 137.
 
-Con independencia de lo dispuesto en los artículos siguientes, la Secretaría de Comercio Industrial, previa opinión de la Secretaría determinará, por medio de disposiciones de carácter general, las mercancías que estarán total o parcialmente desgravadas de los impuestos al comercio exterior en la franja o región fronteriza. La propia Secretaría de Comercio y Fomento Industrial con base en la Ley de Comercio Exterior, determinará las mercancías cuya importación o exportación a dicha franja o región quedarán sujetas a regulaciones y restricciones no arancelarias.
+Con independencia de lo dispuesto en los artículos siguientes, la Secretaría de Economía, previa opinión de la Secretaría determinará, por medio de disposiciones de carácter general, las mercancías que estarán total o parcialmente desgravadas de los impuestos al comercio exterior en la franja o región fronteriza. La propia Secretaría de Economía con base en la Ley de Comercio Exterior, determinará las mercancías cuya importación o exportación a dicha franja o región quedarán sujetas a regulaciones y restricciones no arancelarias.
 
 Las bebidas alcohólicas, la cerveza, el tabaco labrado en cigarrillos o puros y los caballos de carrera que se importen a la franja o región fronteriza, causarán el impuesto general de importación sin reducción alguna.
 
@@ -2624,7 +2650,9 @@ Artículo 137 bis 3. La importación a que se refiere el artículo anterior podr
 
 Las fracciones arancelarias aplicables según la tarifa de la Ley del Impuesto General de Importación, serán las que correspondan al valor de la compra-venta en dólares de los Estados Unidos de América, de los vehículos automotores usados.
 
-Asimismo, se exime del requisito de permiso previo, por parte de la Secretaría de Comercio y Fomento Industrial, la importación de vehículos automotores usados a que se refieren los artículos anteriores.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Asimismo, se exime del requisito de permiso previo, por parte de la Secretaría de Economía, la importación de vehículos automotores usados a que se refieren los artículos anteriores.
 
 > <small>(ADICIONADO, D.O.F. 25 DE JUNIO DE 2002)</small>
 
@@ -2790,7 +2818,9 @@ XXI. Otorgar, suspender y cancelar las patentes de los agentes aduanales, así c
 
 XXII. Dictar las reglas correspondientes para el despacho conjunto a que se refiere la fracción III del artículo 143 de esta Ley.
 
-XXIII. Expedir, previa opinión de la Secretaría de Comercio y Fomento Industrial, reglas para la aplicación de las disposiciones en materia aduanera de los tratados o acuerdos internacionales de los que México sea parte.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XXIII. Expedir, previa opinión de la Secretaría de Economía, reglas para la aplicación de las disposiciones en materia aduanera de los tratados o acuerdos internacionales de los que México sea parte.
 
 XXIV. Cancelar las garantías a que se refiere el artículo 36, fracción I, inciso e) y las demás que se constituyan en los términos de esta Ley.
 
@@ -2916,9 +2946,9 @@ A las enajenaciones a que se refiere este artículo no les será aplicable lo di
 
 El Servicio de Administración Tributaria podrá asignar las mercancías a que se refiere este artículo para uso del propio Servicio o bien para otras dependencias del Gobierno Federal, entidades paraestatales, entidades federativas, Distrito Federal y municipios, así como a los poderes Legislativo y Judicial. En este caso no se requerirá la opinión previa del Consejo. El Servicio de Administración Tributaria deberá enviar mensualmente un reporte de las asignaciones al Consejo y a la Cámara de Diputados del Honorable Congreso de la Unión y en periodo de receso a la Comisión Permanente. También podrá donarlas a las personas morales con fines no lucrativos autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, previa opinión del Consejo establecido en este artículo.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Tratándose de mercancías que hayan pasado a propiedad del Fisco Federal como consecuencia de excedentes detectados a maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, la Secretaría podrá enajenar de inmediato estas mercancías a la propia empresa objeto del embargo, siempre que se encuentren comprendidas dentro de su programa autorizado. En este caso tampoco se requerirá la opinión previa del Consejo.
+Tratándose de mercancías que hayan pasado a propiedad del Fisco Federal como consecuencia de excedentes detectados a maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, la Secretaría podrá enajenar de inmediato estas mercancías a la propia empresa objeto del embargo, siempre que se encuentren comprendidas dentro de su programa autorizado. En este caso tampoco se requerirá la opinión previa del Consejo.
 
 ###### Artículo 146.
 
@@ -2936,6 +2966,8 @@ III. Factura expedida por empresario establecido e inscrito en el Registro Feder
 
 Las empresas porteadoras legalmente autorizadas, cuando transporten las mercancías de procedencia extranjera fuera de la franja o región fronteriza, podrán comprobar la legal tenencia de las mismas con la carta de porte y los documentos que establezca mediante reglas la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 147.
 
 Las mercancías nacionales que sean transportadas dentro de la franja o región fronteriza del país, deberán ampararse en la forma siguiente:
@@ -2944,7 +2976,7 @@ I. Las de exportación prohibida o restringida que sean conducidas hacia los lit
 
 II. Las confundibles con las extranjeras que sean transportadas hacia el interior del país, con las marcas registradas en México que ostenten o con las facturas o notas de remisión expedidas por empresarios inscritos en el Registro Federal de Contribuyentes, si reúnen los requisitos señalados por las disposiciones fiscales.
 
-El origen de los artículos agropecuarios producidos en las zonas a que se refiere este precepto podrá acreditarse con las constancias del comisariado ejidal, del representante de los colonos o comuneros, de la asociación agrícola o ganadera a que pertenezca el pequeño propietario o de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, en cualquiera de los casos anteriores, cuando las autoridades aduaneras lo requieran, sin que la documentación tenga que acompañar a las mercancías.
+El origen de los artículos agropecuarios producidos en las zonas a que se refiere este precepto podrá acreditarse con las constancias del comisariado ejidal, del representante de los colonos o comuneros, de la asociación agrícola o ganadera a que pertenezca el pequeño propietario o de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en cualquiera de los casos anteriores, cuando las autoridades aduaneras lo requieran, sin que la documentación tenga que acompañar a las mercancías.
 
 ###### Artículo 148.
 
@@ -3044,9 +3076,9 @@ En los casos a que se refieren las fracciones VI y VII se requerirá una orden e
 
 En los casos a que se refieren las fracciones I, II, III, IV, VI y VII el medio de transporte quedará como garantía del interés fiscal, salvo que se cumpla con los requisitos y las condiciones que establezca el Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Por lo que se refiere a las fracciones III y IV, el resto del embarque quedará como garantía del interés fiscal, salvo que se trate de maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Comercio y Fomento Industrial, en este caso, sólo se procederá al embargo de la totalidad del excedente, permitiéndose inmediatamente la salida del medio de transporte y del resto de la mercancía correctamente declarada.
+Por lo que se refiere a las fracciones III y IV, el resto del embarque quedará como garantía del interés fiscal, salvo que se trate de maquiladoras o empresas con programas de exportación autorizados por la Secretaría de Economía, en este caso, sólo se procederá al embargo de la totalidad del excedente, permitiéndose inmediatamente la salida del medio de transporte y del resto de la mercancía correctamente declarada.
 
 > <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -3274,7 +3306,9 @@ Son obligaciones del agente aduanal:
 
 I. En los trámites o gestiones aduanales, actuar siempre con su carácter de agente aduanal.
 
-II. Realizar el descargo total o parcial en el medio magnético, en los casos de las mercancías sujetas a regulaciones y restricciones no arancelarias cuyo cumplimiento se realice mediante dicho medio, en los términos que establezca la Secretaría de Comercio y Fomento Industrial, y anotar en el pedimento respectivo la firma electrónica que demuestre dicho descargo.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II. Realizar el descargo total o parcial en el medio magnético, en los casos de las mercancías sujetas a regulaciones y restricciones no arancelarias cuyo cumplimiento se realice mediante dicho medio, en los términos que establezca la Secretaría de Economía, y anotar en el pedimento respectivo la firma electrónica que demuestre dicho descargo.
 
 III. Rendir el dictamen técnico cuando se lo solicite la autoridad competente.
 
@@ -3552,9 +3586,9 @@ II. Los organismos públicos descentralizados y sus organismos subsidiarios de c
 
 III. Las empresas de servicios que tengan subsidiarias, cuando la primera sea accionista con derecho a voto en todas las empresas subsidiarias y tengan una administración común.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-IV. Las maquiladoras y empresas con programa de exportación autorizado por la Secretaría de Comercio y Fomento Industrial pertenecientes a una misma corporación y con un mismo representante legal.
+IV. Las maquiladoras y empresas con programa de exportación autorizado por la Secretaría de Economía pertenecientes a una misma corporación y con un mismo representante legal.
 
 Las personas a que se refiere este artículo deberán acreditar ante la Secretaría que el apoderado aduanal tiene relación laboral con alguna de las mismas y que se encuentra facultado mediante poder notarial para actuar como apoderado aduanal en nombre y representación de cada una de ellas.
 
@@ -3670,9 +3704,9 @@ I. Omitiendo el pago total o parcial de los impuestos al comercio exterior y, en
 
 II. Sin permiso de las autoridades competentes o sin la firma electrónica en el pedimento que demuestre el descargo total o parcial del permiso antes de realizar los trámites del despacho aduanero o sin cumplir cualesquiera otras regulaciones o restricciones no arancelarias emitidas conforme a la Ley de Comercio Exterior, por razones de seguridad nacional, salud pública, preservación de la flora o fauna, del medio ambiente, de sanidad fitopecuaria o los relativos a Normas Oficiales Mexicanas excepto tratándose de las Normas Oficiales Mexicanas de información comercial, compromisos internacionales, requerimientos de orden público o cualquiera otra regulación.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-III. Cuando su importación o exportación esté prohibida o cuando las maquiladoras y empresas con programa autorizado por la Secretaría de Comercio y Fomento Industrial realicen importaciones temporales de conformidad con el artículo 108 de esta Ley, de mercancías que no se encuentren amparadas por su programa.
+III. Cuando su importación o exportación esté prohibida o cuando las maquiladoras y empresas con programa autorizado por la Secretaría de Economía realicen importaciones temporales de conformidad con el artículo 108 de esta Ley, de mercancías que no se encuentren amparadas por su programa.
 
 IV. Cuando se ejecuten actos idóneos inequívocamente dirigidos a realizar las operaciones a que se refieren las fracciones anteriores, si éstos no se consuman por causas ajenas a la voluntad del agente.
 
@@ -4136,7 +4170,7 @@ III. Multa equivalente del 70% al 100% de las contribuciones y cuotas compensato
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
 
-IV. Multa de $16,380.00 a $24,570.00 a las señaladas en las fracciones IX y X
+IV. Multa de $16,380.00 a $24,570.00 a las señaladas en las fracciones IX y X.
 
 (ACTUALIZADA EN SU CANTIDAD, D.O.F. 27 DE DICIEMBRE DE 2011)
 
@@ -4599,3 +4633,9 @@ D.O.F. 27 DE ENERO DE 2012.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Los despachos, las operaciones y los procedimientos en trámite serán concluidos conforme a las disposiciones vigentes al momento de su iniciación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
