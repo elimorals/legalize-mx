@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "2008-08-20"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGTOC"
 ---
 # LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
+LEY GENERAL DE TÍTULOS Y OPERACIONES DE CRÉDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -1922,7 +1922,9 @@ ARTICULO 228 v.- Las acciones para el cobro de los cupones de los certificados p
 
 La prescripción de las acciones para el cobro en efectivo o adjudicación, tratándose de certificados no amortizables, se regirá por las reglas del derecho común y principiará a correr el término correspondiente en la fecha que señale la asamblea general de tenedores que conozca de la terminación del fideicomiso correspondiente.
 
-La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salubridad y Asistencia.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La prescripción operará, en todos los casos, en favor del patrimonio de la Secretaría de Salud.
 
 ### CAPITULO VI. Del certificado de depósito y del bono de prenda
 
@@ -2290,9 +2292,11 @@ En el caso de depósito de bienes o mercancías genéricamente designados, los A
 
 Cuando los Almacenes reciban mercancías o bienes sujetos al pago de derechos de importación, no consentirán en el retiro del depósito sino mediante la comprobación legal del pago de los impuestos o derechos respectivos o de la conformidad de las autoridades fiscales correspondientes, y serán responsables para con el Fisco, hasta donde alcance en su caso el producto de la venta de las mercancías o bienes depositados, por el pago de todos los derechos, impuestos, multas, recargos o gravámenes fiscales en que hubieren incurrido los dueños o consignatarios, hasta la fecha del depósito de las mercancías o bienes en los Almacenes.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 286.
 
-La duración del depósito de mercancías o bienes, será establecida libremente entre los Almacenes y el depositante, a menos que se trate de mercancías o bienes sujetos al pago de impuestos o pensiones fiscales de cualquier clase, en cuyo caso la duración del depósito no excederá del término que al efecto señale la Secretaría de Hacienda, o del plazo de dos años, cuando no haya término especialmente señalado.
+La duración del depósito de mercancías o bienes, serán establecidas libremente entre los Almacenes y el depositante, a menos que se trate de mercancías o bienes sujetos al pago de impuestos o pensiones fiscales de cualquier clase, en cuyo caso la duración del depósito no excederá del término que al efecto señale la Secretaría de Hacienda y Crédito Público, o del plazo de dos años, cuando no haya término especialmente señalado.
 
 ###### ARTICULO 287.
 
@@ -3602,8 +3606,6 @@ En caso de que el factorante convenga con el factorado que podrá realizar visit
 
 El factorante podrá transmitir a un tercero los derechos de crédito objeto del correspondiente contrato de factoraje financiero que haya celebrado, para lo cual deberá sujetarse a las disposiciones aplicables a dicha transmisión.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JUNIO DE 2008)</small>
-
 ## TITULO TERCERO. De los delitos en materia de títulos y operaciones de crédito
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JUNIO DE 2008)</small>
@@ -3652,6 +3654,12 @@ II.- Altere o modifique el mecanismo de funcionamiento de los equipos o medios e
 
 La pena que corresponda podrá aumentarse hasta en una mitad más, si quien realice cualquiera de las conductas señaladas en los artículos 432, 433 y 434 de esta Ley, tiene el carácter de consejero, funcionario, empleado o prestador de servicios de cualquier entidad emisora de los objetos a que se refiere el párrafo primero del citado artículo 432, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos, o sea propietario o empleado de cualquier entidad mercantil que a cambio de bienes o servicios reciba como contraprestación el pago a través de cualquiera de los instrumentos mencionados en el artículo 432.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE AGOSTO DE 1933.
+
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1°.
@@ -3694,11 +3702,7 @@ México, D.F., a 26 de agosto de 1932.- El Secretario de Gobernación, Juan Jos�
 
 Al C..
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-D.O.F. 31 DE AGOSTO DE 1933.
-
-> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 1°.
 
@@ -3712,7 +3716,7 @@ Por ella se regirán los efectos jurídicos de los hechos anteriores a su vigenc
 
 D.O.F. 17 DE ABRIL DE 1935.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 8 DE MAYO DE 1945.
 
@@ -3720,7 +3724,7 @@ El presente Decreto entrará en vigor el día de su publicación en el "Diario O
 
 D.O.F. 31 DE DICIEMBRE DE 1946.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE DICIEMBRE DE 1951.
 
@@ -4075,6 +4079,12 @@ Las sociedades que no cumplan con lo dispuesto por la fracción II anterior entr
 La Comisión Nacional Bancaria y de Valores, publicará en el Diario Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.
 
 Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 
 ## TRANSITORIOS
 
