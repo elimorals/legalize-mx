@@ -4,7 +4,7 @@ identifier: "LFCPQ"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1997-12-26"
-last_updated: "1997-12-26"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFCPQ"
 ---
 # LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUIMICOS, PRODUCTOS QUIMICOS ESENCIALES Y MAQUINAS PARA ELABORAR CAPSULAS, TABLETAS Y/O COMPRIMIDOS
 
-LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUIMICOS, PRODUCTOS QUIMICOS ESENCIALES Y MAQUINAS PARA ELABORAR CAPSULAS, TABLETAS Y/O COMPRIMIDOS
+LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de diciembre de 1997.
 
@@ -80,7 +80,9 @@ II. La Secretaría de Relaciones Exteriores;
 
 III. La Secretaría de Hacienda y Crédito Público;
 
-IV. La Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV. La Secretaría de Economía;
 
 V. La Secretaría de Comunicaciones y Transportes, y
 
@@ -91,6 +93,8 @@ La Procuraduría General de la República tendrá la intervención que le corres
 ### CAPÍTULO SEGUNDO. De las substancias
 
 #### SECCIÓN PRIMERA. De los precursores químicos y productos químicos esenciales
+
+> <small>N. DE E. EL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS INDICADO EN EL PRESENTE ARTÍCULO FUE ACTUALIZADO MEDIANTE EL “ACUERDO POR EL QUE SE ESTABLECEN MEDIDAS DE CONTROL Y VIGILANCIA PARA EL USO DE ÁCIDO FENILACÉTICO, SUS SALES Y DERIVADOS; METILAMINA; ÁCIDO YODHÍDRICO Y FÓSFORO ROJO”, POR LO QUE SE SUGIERE CONSULTAR EL D.O.F. DE FECHAS 23 DE NOVIEMBRE DE 2009 Y 23 DE DICIEMBRE DE 2010.</small>
 
 ###### Artículo 4.
 
@@ -260,15 +264,19 @@ La importación o exportación de precursores químicos únicamente podrá reali
 
 ### CAPÍTULO TERCERO. De las máquinas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 17.
 
-Los sujetos que produzcan, enajenen, adquieran, importen, exporten o almacenen máquinas, informarán anualmente a la Secretaría de Comercio y Fomento Industrial lo siguiente:
+Los sujetos que produzcan, enajenen, adquieran, importen, exporten o almacenen máquinas, informarán anualmente a la Secretaría de Economía lo siguiente:
 
 I. Nombre, registro federal de contribuyentes y domicilio de los sujetos con los que hubieren realizado cada operación a que se refiere este artículo, y
 
 II. Datos de identificación y cantidad de máquinas.
 
-El informe a que se refiere este artículo se presentará dentro de los sesenta días siguientes a aquel en el que concluya el año de que se trate, en los formatos que determine la Secretaría de Comercio y Fomento Industrial, mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El informe a que se refiere este artículo se presentará dentro de los sesenta días siguientes a aquel en el que concluya el año de que se trate, en los formatos que determine la Secretaría de Economía, mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación.
 
 ### CAPÍTULO CUARTO. De las facultades de las Dependencias
 
@@ -282,7 +290,9 @@ I. La Secretaría de Salud respecto de las obligaciones previstas en los artícu
 
 II. La Secretaria de Comunicaciones y Transportes respecto de las obligaciones previstas en los artículos 8, 9, 11, 12 y 13, en relación al transporte de precursores químicos o productos químicos esenciales, y
 
-III. La Secretaría de Comercio y Fomento Industrial respecto de las obligaciones a que se refiere el artículo 17.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III. La Secretaría de Economía respecto de las obligaciones a que se refiere el artículo 17.
 
 ###### Artículo 19.
 
@@ -333,3 +343,11 @@ CUARTO.- El Reglamento de esta Ley deberá publicarse en el Diario Oficial de la
 México, D.F., a 10 de diciembre de 1997.- Dip. Rafael Oceguera Ramos, Presidente.- Sen. Heladio Ramírez López, Presidente.- Dip. Jaime Castro López, Secretario.- Sen. José Antonio Valdivia, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Articulo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de diciembre de mil novecientos noventa y siete. Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
