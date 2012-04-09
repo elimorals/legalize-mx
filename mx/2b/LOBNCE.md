@@ -4,7 +4,7 @@ identifier: "LOBNCE"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2005-08-01"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOBNCE"
 ---
 # LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
 
-LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
+LEY ORGÁNICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
@@ -426,7 +426,9 @@ Dos representantes de la Secretaría de Hacienda y Crédito Público, el Subsecr
 
 Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
 
-Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa;
 
 Un miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -484,7 +486,7 @@ México, D. F., a 19 de diciembre de 1985.- Fernando Ortiz Arana, Dip. President
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- P. A. del Secretario de Hacienda y Crédito Público, el Subsecretario Encargado del Despacho, Francisco Suárez Dávila.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- P.A. del Secretario de Comercio y Fomento Industrial, el Subsecretario Encargado del Despacho, Mauricio de Maria y Campos.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Eduardo Pesqueira Olea.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE JUNIO DE 2002.
 
@@ -529,3 +531,9 @@ D.O.F. 1 DE AGOSTO DE 2005.
 Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del presente Decreto contravengan las disposiciones del mismo.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
