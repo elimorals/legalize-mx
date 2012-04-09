@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "2011-12-15"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSIÓN EXTRANJERA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -64,7 +64,9 @@ III.- Inversionista extranjero: a la persona física o moral de nacionalidad dis
 
 IV.- Registro: el Registro Nacional de Inversiones Extranjeras;
 
-V.- Secretaría: la Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- Secretaría: la Secretaría de Economía;
 
 VI.- Zona Restringida: La faja del territorio nacional de cien kilómetros a lo largo de las fronteras y de cincuenta a lo largo de las playas, a que hace referencia la fracción I del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y
 
@@ -785,6 +787,12 @@ D.O.F. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 
 SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
