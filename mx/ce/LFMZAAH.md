@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "1986-01-13"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFMZAAH"
 ---
 # LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
 
-LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
+LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE ENERO DE 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -130,9 +130,11 @@ En estos casos, serán solidariamente responsables con el propietario, el que ha
 
 Los propietarios de bienes muebles declarados monumentos históricos o artísticos deberán conservarlos, y en su caso restaurarlos, siendo aplicable en lo conducente lo dispuesto en los artículos 6o., 7o., 8o., 9o., 10,11 y 12 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 14.
 
-El destino o cambio de destino de inmuebles de propiedad federal declarados monumentos arqueológicos, históricos o artísticos, deberá hacerse por decreto que expedirá el Ejecutivo Federal, por conducto de la Secretaría del Patrimonio Nacional, la que atenderá el dictamen de la Secretaría de Educación Pública.
+El destino o cambio de destino de inmuebles de propiedad federal declarados monumentos arqueológicos, históricos o artísticos, deberá hacerse por decreto que expedirá el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública.
 
 ###### ARTICULO 15.
 
@@ -150,11 +152,11 @@ El Instituto Nacional de Antropología e Historia, promoverá la recuperación d
 
 Para la reproducción de monumentos arqueológicos, históricos o artísticos, con fines comerciales, se requerirá permiso del Instituto competente, y en su caso se estará a lo dispuesto en la Ley Federal de Derechos de Autor. Se exceptúa la producción artesanal en lo que se estará a lo dispuesto por la Ley de la materia, y en su defecto, por el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 18.
 
-(DEROGADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)
-
-El Gobierno Federal, los Organismos Descentralizados y el Departamento del Distrito Federal, cuando realicen obras, estarán obligados, con cargo a las mismas, a utilizar los servicios de antropólogos titulados, que asesoren y dirijan los rescates de arqueología bajo la dirección del Instituto Nacional de Antropología e Historia y asimismo entreguen las piezas y estudios correspondientes, a este Instituto.
+El Gobierno Federal, los Organismos Descentralizados y el Gobierno del Distrito Federal, cuando realicen obras, estarán obligados, con cargo a las mismas, a utilizar los servicios de antropólogos titulados, que asesoren y dirijan los rescates de arqueología bajo la dirección del Instituto Nacional de Antropología e Historia y asimismo entreguen las piezas y estudios correspondientes a este Instituto.
 
 Los productos que se recauden por los conceptos anteriores y otros análogos, formarán parte de los fondos propios de los institutos respectivos. La Secretaría de Hacienda y Crédito Público cuidará que dichos Institutos tengan oportunamente las asignaciones presupuestales suficientes para el debido cumplimiento de sus funciones y responsabilidades.
 
@@ -168,9 +170,11 @@ I.- Los tratados internacionales y las leyes federales; y
 
 II.- Los códigos civil y penal vigentes para el Distrito Federal en materia común y para toda la República en materia federal.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 20.
 
-Para vigilar el cumplimiento de esta Ley, la Secretaría de Educación Pública, la Secretaría del Patrimonio Nacional y los Institutos competentes, podrán efectuar visitas de inspección, en los términos del Reglamento respectivo.
+Para vigilar el cumplimiento de esta Ley, la Secretaría de Educación Pública y los Institutos competentes, podrán efectuar visitas de inspección, en los términos del Reglamento respectivo.
 
 ### CAPITULO II. Del Registro
 
@@ -264,7 +268,9 @@ La Comisión se integrará por:
 
 a) El Director General del Instituto Nacional de Bellas Artes y Literatura, quien la presidirá.
 
-b) Un representante de la Secretaría de Desarrollo Urbano y Ecología.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+b) Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
 
 c) Un representante de la Universidad Nacional Autónoma de México.
 
@@ -457,3 +463,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 13 DE ENERO DE 1986.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
