@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2011-12-29"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "1981-12-30"
 ---
 # LEY FEDERAL DE DERECHOS -ANTES LEY FEDERAL DE DERECHOS PARA EL EJERCICIO FISCAL DE 1982-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY FEDERAL DE DERECHOS
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2011.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -259,9 +257,9 @@ Asimismo se pagará el derecho que se estipula en esta fracción, por la expedic
 
 II.- Reposición de constancias
 
-O duplicados de las mismas,
+o duplicados de las mismas,
 
-Así como de calcomanías $130.16 $130
+así como de calcomanías $130.16 $130
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
@@ -287,7 +285,7 @@ V.- Legalización de firmas $423.57 $424
 
 VI.- Por cualquier otra
 
-Certificación o expedición de
+certificación o expedición de
 
 constancias distintas de la (sic)
 
@@ -785,8 +783,6 @@ Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la
 
 #### SECCION CUARTA. Servicios de Cinematografía, Televisión y Radio
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 19-C.
@@ -825,7 +821,7 @@ exhibición pública $4,765.00
 
 Los contribuyentes podrán optar por pagar el derecho a que se refiere este inciso por cada minuto de duración de la película conforme a la cuota de $53.00
 
-(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010)
+(ACTUALIZADO EN SU CANTIDAD, D.O.F. 31 DE DICIEMBRE DE 2010) (F. DE E., D.O.F. 14 DE JUNIO DE 2012)
 
 c).- Videograma o material
 
@@ -833,7 +829,7 @@ grabado, en cualquier formato
 
 o modalidad, por cada media
 
-hora o fracción $784.23 $784
+hora o fracción $879.20 $879
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -14005,17 +14001,19 @@ El pago de los derechos que establece este artículo comprende la búsqueda de a
 
 No pagarán los derechos a que se refieren las fracciones I, II, III, X, XIII, XIV y XV de este artículo las dependencias de la administración pública centralizada, los poderes legislativo y judicial, así como los organismos descentralizados siempre que sus fines se relacionen directamente con la asistencia social, educativa y de apoyo a agrupaciones campesinas.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 190-C.
 
-Por los servicios que presta la Secretaría de Contraloría y Desarrollo Administrativo, derivado de la administración del patrimonio inmobiliario de la Federación, se pagará por cada inmueble el derecho del patrimonio inmobiliario, conforme a las siguientes cuotas:
+Por los servicios que presta la Secretaría de la Función Pública, derivado de la administración del patrimonio inmobiliario de la federación, se pagará por cada inmueble el derecho del patrimonio inmobiliario, conforme a las siguientes cuotas.
 
 cuota sin cuota con
 
 ajuste ajuste
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- Por recepción y estudio de solicitudes
 
@@ -14025,6 +14023,8 @@ del dominio público $2,981.76 $2,982
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 II.- Por recepción y estudio de solicitudes
 
 de enajenación de inmuebles de la
@@ -14033,6 +14033,8 @@ Federación $814.88 $815
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 III.- Por otorgamiento o prórroga de
 
 concesión o permiso sobre bienes de
@@ -14040,6 +14042,8 @@ concesión o permiso sobre bienes de
 dominio público de la Federación $1,490.79 $1,491
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 IV.- Por recepción y estudio de solicitudes
 
@@ -14057,6 +14061,8 @@ anexidades $10,138.33 $10,138
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+
 V.- Por aprobación del proyecto de
 
 construcción o ampliación de columbarios
@@ -14070,6 +14076,8 @@ de propiedad federal o sus
 anexidades $5,069.10 $5,069
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2012, D.O.F. DEL 29 DE DICIEMBRE DE 2011.</small>
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 VI.- Por la recepción, estudio y, en su
 
@@ -19093,15 +19101,21 @@ Los ingresos generados por la recaudación de este derecho, estarán a lo dispue
 
 Caminos y Puentes Federales de Ingresos y Servicios Conexos está obligado al pago de derechos por el uso de las carreteras y puentes federales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 213.
 
-Caminos y Puentes Federales de Ingresos y Servicios Conexos determinará el derecho por cada ejercicio fiscal, aplicando la tasa del 5% sobre los ingresos por la venta de bienes y servicios que obtenga por el uso de las carreteras y puentes federales, conforme a sus estados financieros dictaminados y que presente ante la Secretaría de Contraloría y Desarrollo Administrativo.
+Caminos y Puentes Federales de Ingresos y Servicios Conexos determinará el derecho por cada ejercicio fiscal, aplicando la tasa del 5% sobre los ingresos por la venta de bienes y servicios que obtenga por el uso de las carreteras y puentes federales, conforme a sus estados financieros dictaminados y que presente ante la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 Para la determinación de la base del derecho a que se refiere el párrafo anterior, no se considerarán los ingresos provenientes de los bienes que se encuentren fideicomitidos.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 El derecho a que se refiere este artículo, se causará en el momento en que se cobren o sean exigibles los pagos a favor de Caminos y Puentes Federales de Ingresos y Servicios Conexos o se expida el comprobante que ampare la venta de bienes o servicios a que se refiere el primer párrafo del presente artículo, lo que suceda primero.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 El derecho del ejercicio se pagará mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los tres meses siguientes a la fecha en que termine el ejercicio fiscal.
 
@@ -19455,7 +19469,9 @@ VIII.- Por el uso o aprovechamiento de aguas nacionales efectuada por entidades 
 
 Las personas físicas o morales que estén exentas en los términos del presente artículo y que realicen usos o aprovechamientos diferentes a éstos, deberán medir los volúmenes y pagar los derechos respectivos en los términos del presente Capítulo. Cuando no se midan los volúmenes exentos respecto de los que sí causan derechos, estarán obligados al pago de los mismos por la totalidad de los volúmenes de agua que usen o aprovechen, quedando sin efecto las citadas exenciones.
 
-El cumplimiento de calidad del agua a que se refieren las fracciones V y VI del presente artículo, se realizará con base en determinaciones analíticas efectuadas por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorios de Prueba (SINALP) de la Secretaría de Comercio y Fomento Industrial y aprobado por la Comisión Nacional del Agua.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El cumplimiento de calidad del agua a que se refieren las fracciones V y VI del presente artículo, se realizará con base en determinaciones analíticas efectuadas por un laboratorio acreditado ante el Sistema Nacional de Acreditamiento de Laboratorios de Prueba (SINALP) de la Secretaría de Economía y aprobado por la Comisión Nacional del Agua.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -21823,8 +21839,6 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE JUNIO DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
@@ -21851,13 +21865,17 @@ concesionado permisionado
 
 1MHz=1000 KHz
 
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
+
 Todos los municipios de
 
 Baja California, Baja California Sur
 
 y el municipio de San Luis Río Colorado
 
-del estado de Sonora $3,030.02
+del estado de Sonora $3,147.07
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de Sinaloa
 
@@ -21865,7 +21883,9 @@ y todos los de Sonora, excepto
 
 el municipio de San Luis
 
-Río Colorado $449.17
+Río Colorado $466.52
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de los
 
@@ -21877,7 +21897,9 @@ Matamoros, San Pedro,
 
 Torreón y Viesca del
 
-estado de Coahuila $1,907.80
+estado de Coahuila $1,981.50
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de los
 
@@ -21889,7 +21911,9 @@ con excepción de los municipios
 
 de Francisco I. Madero, Matamoros,
 
-Torreón, San Pedro y Viesca $9,489.08
+Torreón, San Pedro y Viesca $9,855.67
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de los
 
@@ -21909,7 +21933,9 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $3,685.34
+Villa Hidalgo $3,827.72
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de
 
@@ -21931,19 +21957,25 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo del estado de Jalisco $1,537.55
+Villa Hidalgo del estado de Jalisco $1,596.95
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de los
 
 Estados de Guerrero, Oaxaca,
 
-Puebla, Tlaxcala y Veracruz $262.66
+Puebla, Tlaxcala y Veracruz $272.81
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de los estados
 
 de Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $177.54
+Tabasco y Yucatán $184.40
+
+> <small>(F. DE E., D.O.F. 14 DE JUNIO DE 2012)</small>
 
 Todos los municipios de los estados
 
@@ -21951,7 +21983,7 @@ de Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del
 
-Distrito Federal $13,801.55
+Distrito Federal $14,334.74
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -28778,3 +28810,9 @@ SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de P
 D.O.F. 29 DE DICIEMBRE DE 2011.
 
 LA RESOLUCIÓN DE ACTUALIZACIONES A LA MISCELÁNEA FISCAL PARA 2012 CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
