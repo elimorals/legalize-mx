@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-estacionamientos-del-municipio-de-65982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-12"
-last_updated: "2009-04-20"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 12 de enero de 2009.
 
@@ -275,9 +275,11 @@ Los días y horarios dentro de los cuales se prestará el servicio público de e
 
 ### CAPÍTULO V. De las Tarifas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2016)</small>
+
 ###### Artículo 15.
 
-A más tardar el 30 de enero de cada año, serán determinadas y aprobadas por el H. Ayuntamiento de Aguascalientes, con base a la propuesta emitida a más tardar el 20 de enero de cada año por la Comisión Consultiva de Tarifas de Estacionamientos, las siguientes tarifas:
+A más tardar el 10 de abril de cada año, serán determinadas y aprobadas por el H. Ayuntamiento de Aguascalientes, con base a la propuesta emitida por la Comisión Consultiva de Tarifas de Estacionamientos, las siguientes tarifas:
 
 I.- Las tarifas máximas por hora de los estacionamientos públicos de la primera, segunda y tercera categorías;
 
@@ -329,7 +331,7 @@ Los integrantes de la Comisión podrán nombrar a sus respectivos suplentes. Las
 
 ###### Artículo 17.
 
-El cobro del servicio por hora, independientemente del tipo de estacionamiento que (sic) se trate, otorgando una tolerancia de 5 minutos a los usuarios de los estacionamientos.
+El cobro del servicio por hora, independientemente del tipo de estacionamiento que se trate, otorgando una tolerancia de 5 minutos a los usuarios de los estacionamientos.
 
 Cuando los ejes de un vehículo que utilice un estacionamiento público, excedan la cantidad de dos cajones, el prestador del servicio podrá cobrar por cada eje excedente al par, un 50% adicional al de la tarifa autorizada para dicho estacionamiento, por cada hora.
 
@@ -715,7 +717,7 @@ II. La clausura temporal, total o parcial del estacionamiento;
 
 III. La desocupación total o parcial de inmuebles;
 
-IV. La prohibición del uso de cierto equipo; y (sic)
+IV. La prohibición del uso de cierto equipo; y
 
 V. La advertencia pública, mediante el empleo de medios publicitarios u oficiales, sobre cualquier irregularidad en el establecimiento y funcionamiento de estacionamientos de cualquier tipo;
 
@@ -954,3 +956,9 @@ P.O. 20 DE ABRIL DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE ABRIL DE 2012.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO DE “REFORMA AL ARTÍCULO 15 DEL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+[EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
