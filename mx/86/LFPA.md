@@ -4,7 +4,7 @@ identifier: "LFPA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-08-04"
-last_updated: "2011-12-15"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2570&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPA"
 
 LEY FEDERAL DE PROCEDIMIENTO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de agosto de 1994.
 
@@ -514,9 +514,9 @@ El uso de dichos medios de comunicación electrónica será optativo para cualqu
 
 Los documentos presentados por medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorgan a éstos.
 
-> <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismos descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de Contraloría y Desarrollo Administrativo.
+La certificación de los medios de identificación electrónica del promovente, así como la verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por las dependencias u organismo (sic) descentralizados, bajo su responsabilidad, y de conformidad con las disposiciones generales que al efecto emita la Secretaría de la Función Pública.
 
 > <small>(ADICIONADO, D.O.F. 30 DE MAYO DE 2000)</small>
 
@@ -552,23 +552,39 @@ La Comisión Federal de Mejora Regulatoria hará públicos los programas y repor
 
 ### Capítulo segundo. De la Comisión Federal de Mejora Regulatoria
 
-> <small>(ADICIONADO, D.O.F. 19 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-ART. 69-E.- La Comisión Federal de Mejora Regulatoria, órgano administrativo desconcentrado de la Secretaría de Comercio y Fomento Industrial, promoverá la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello la Comisión contará con autonomía técnica y operativa, y tendrá las siguiente (sic) atribuciones:
+ART. 69-E.- La Comisión Federal de Mejora Regulatoria, órgano administrativo desconcentrado de la Secretaría de Economía, promoverá la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad. Para ello la Comisión contará con autonomía técnica y operativa, y tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 I. Revisar el marco regulatorio nacional, diagnosticar su aplicación y elaborar para su propuesta al Titular del Ejecutivo Federal, proyectos de disposiciones legislativas y administrativas y programas para mejorar la regulación en actividades o sectores económicos específicos;
 
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
+
 II. Dictaminar los anteproyectos a que se refiere el artículo 69-H y las manifestaciones de impacto regulatorio correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 III. Llevar el Registro Federal de Trámites y Servicios;
 
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
+
 IV. Opinar sobre los programas de mejora regulatoria de las dependencias y los organismos descentralizados de la administración pública federal;
+
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 V. Brindar asesoría técnica en materia de mejora regulatoria a las dependencias y organismos descentralizados de la administración pública federal, así como a los estados y municipios que lo soliciten, y celebrar convenios para tal efecto;
 
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
+
 VI. Celebrar acuerdos interinstitucionales en materia de mejora regulatoria, en los términos de la Ley sobre Celebración de Tratados;
 
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
+
 VII. Expedir, publicar y presentar ante el Congreso de la Unión un informe anual sobre el desempeño de las funciones de la Comisión y los avances de las dependencias y organismos descentralizados en sus programas de mejora regulatoria, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE ABRIL DE 2000)</small>
 
 VIII. Las demás que establecen esta Ley y otras disposiciones.
 
@@ -582,7 +598,9 @@ II. Conocer los programas de la Comisión así como los informes que presente el
 
 III. Acordar los asuntos que se sometan a su consideración.
 
-El consejo estará integrado por los titulares de las Secretarías de Comercio y Fomento Industrial, quien lo presidirá, de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo y de Trabajo y Previsión Social, así como de la Consejería Jurídica del Ejecutivo Federal.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El consejo estará integrado por los titulares de las Secretarías de Economía quien lo presidirá, de Hacienda y Crédito Público, de la Función Pública y de Trabajo y Previsión Social, así como de la Consejería Jurídica del Ejecutivo Federal.
 
 Serán invitados permanentes del consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor, los demás servidores públicos que establezca el Titular del Ejecutivo Federal, y al menos cinco representantes del sector empresarial y uno de cada uno de los sectores académico, laboral y agropecuario a nivel nacional.
 
@@ -744,7 +762,9 @@ VIII. Al servidor público competente de la Comisión Federal de Mejora Regulato
 
 IX. Al servidor público competente de la Comisión Federal de Mejora Regulatoria que incumpla lo dispuesto en el artículo 69-N, primer párrafo.
 
-La Comisión Federal de Mejora Regulatoria informará a la Secretaría de Contraloría y Desarrollo Administrativo de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La Comisión Federal de Mejora Regulatoria informará a la Secretaría de la Función Pública de los casos que tenga conocimiento sobre algún incumplimiento a lo previsto en esta Ley y su reglamento.
 
 ART. 71.- Sin perjuicio de lo establecido en las leyes administrativas, en caso de reincidencia se duplicará la multa impuesta por la infracción anterior, sin que su monto exceda del doble del máximo.
 
@@ -947,3 +967,9 @@ D.O.F. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 
 SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
