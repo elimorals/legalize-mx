@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "1995-12-21"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1976-12-30"
 ---
 # LEY FEDERAL DE DEUDA PUBLICA -- ANTES -- LEY GENERAL DE DEUDA PUBLICA
 
-LEY GENERAL DE DEUDA PUBLICA
+LEY GENERAL DE DEUDA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -45,7 +45,9 @@ Para los fines de esta ley, la deuda pública está constituida por las obligaci
 
 I.- El Ejecutivo Federal y sus dependencias.
 
-II.- El Departamento del Distrito Federal.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- El Gobierno del Distrito Federal;
 
 III.- Los organismos descentralizados.
 
@@ -129,9 +131,11 @@ Para obtener esta autorización deberán proporcionar a dicha Secretaría sus pr
 
 Para la contratación de financiamientos internos, en cuanto a las entidades a que se refieren las fracciones III a VI del artículo 1o. de esta Ley, bastará la autorización de sus respectivos órganos de gobierno. En estos casos, el Director General de la entidad de que se trate o equivalente informará sobre el particular a la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 7o.
 
-El manejo que hagan las entidades de recursos provenientes de financiamientos contratados en los términos de esta ley, será supervisado por la Secretaría de Hacienda y Crédito Público la que podrá coordinarse con la Secretaría de Estado o el Departamento Administrativo al que corresponda el sector respectivo.
+El manejo que hagan las entidades de recursos provenientes de financiamientos contratados en los términos de esta Ley, será supervisado por la Secretaría de Hacienda y Crédito Público la que podrá coordinarse con la Secretaría de Estado al que corresponda el sector respectivo.
 
 ###### ARTICULO 8o.
 
@@ -139,21 +143,25 @@ Los financiamientos que la Secretaría de Hacienda y Crédito Público contrate 
 
 ### CAPITULO III. De la Programación de la Deuda Pública
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 9o.
 
-El Congreso de la Unión autorizará los montos del endeudamiento directo neto interno y externo que sea necesario para el financiamiento del Gobierno Federal y de las entidades del sector público federal incluidas en la Ley de Ingresos y en el Presupuesto de Egresos de la Federación, así como del Departamento del Distrito Federal. El Ejecutivo Federal informará al Congreso de la Unión del estado de la deuda, al rendir la cuenta pública anual y al remitir el proyecto de ingresos, asimismo informará trimestralmente de los movimientos de la misma, dentro de los cuarenta y cinco días siguientes al vencimiento del trimestre respectivo. No se computarán dentro de dichos montos los movimientos referentes a propósitos de regulación monetaria.
+El Congreso de la Unión autorizará los montos del endeudamiento directo neto interno y externo que sea necesario para el financiamiento del Gobierno Federal y de las entidades del sector público federal incluida en la ley de Ingresos y en el Presupuesto de Egresos de la Federación, así como del Distrito Federal. El Ejecutivo Federal informará al Congreso de la Unión del estado de la deuda, al rendir la cuenta pública anual y al remitir el proyecto de ingresos, asimismo informará trimestralmente de los movimientos de la misma, dentro de los cuarenta y cinco días siguientes al vencimiento del trimestre respectivo. No se computarán dentro de dichos montos los movimientos referentes a propósitos de regulación monetaria.
 
 ###### ARTICULO 10.
 
 El Ejecutivo Federal, al someter al Congreso de la Unión las iniciativas correspondientes a la Ley de Ingresos y al Presupuesto de Egresos de la Federación, deberá proponer los montos del endeudamiento neto necesario, tanto interno como externo, para el financiamiento del Presupuesto Federal del ejercicio fiscal correspondiente, proporcionando los elementos de juicio suficientes para fundamentar su propuesta. El Congreso de la Unión al aprobar la Ley de Ingresos, podrá autorizar al Ejecutivo Federal a ejercer o autorizar montos adicionales de financiamiento cuando, a juicio del propio Ejecutivo, se presenten circunstancias económicas extraordinarias que así lo exijan. Cuando el Ejecutivo Federal haga uso de esta autorización informará de inmediato al Congreso.
 
-El Ejecutivo Federal hará las proposiciones que correspondan en las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Departamento del Distrito Federal quedando sujetos los financiamientos relativos a las disposiciones de esta ley, en lo conducente.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El Ejecutivo Federal hará las proposiciones que correspondan en las iniciativas de Ley de Ingresos y del Presupuesto de Egresos del Distrito Federal quedando sujetos los financiamientos relativos a las disposiciones de esta Ley, en lo conducente.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 11.
 
-Para determinar las necesidades financieras a que se refiere el artículo anterior, la Secretaría de Hacienda y Crédito Público deberá conocer por conducto de las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación del sector que corresponda, los proyectos y programas de actividades debidamente aprobados por la Secretaría de Programación y Presupuesto, que requieran de financiamientos para su realización.
+Para determinar las necesidades financieras a que se refiere el artículo anterior, la Secretaría de Hacienda y Crédito Público deberá conocer por conducto de las Secretarías de Estado, encargadas de la coordinación del sector que corresponda, los proyectos y programas de actividades debidamente aprobados por dicha Secretaría, que requieran de financiamientos para su realización.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
@@ -261,9 +269,11 @@ La Secretaría de Hacienda y Crédito Público vigilará que se incluyan en los 
 
 Las entidades del sector público prestarán todo género de facilidades al personal de la Secretaría de Hacienda y Crédito Público que, en su caso, acuda a comprobar la debida contratación, aplicación y manejo de la deuda.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 26.
 
-Sin perjuicio de lo señalado por los artículos del presente capítulo las Secretarías de Estado y los Departamentos Administrativos encargados de la coordinación de los sectores correspondientes, en el desempeño de sus funciones, vigilarán la utilización de los recursos provenientes de financiamientos autorizados a las entidades de su sector.
+Sin perjuicio de lo señalado por los artículos del presente capítulo las Secretarías de Estado encargadas de la coordinación de los sectores correspondientes, en el desempeño de sus funciones, vigilarán la utilización de los recursos provenientes de financiamientos autorizados a las entidades de su sector.
 
 ### CAPITULO VII. Del Registro de Obligaciones Financieras
 
@@ -362,3 +372,9 @@ Al entrar en vigor este Decreto, el Ejecutivo Federal procederá a revisar las n
 D.O.F. 21 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
