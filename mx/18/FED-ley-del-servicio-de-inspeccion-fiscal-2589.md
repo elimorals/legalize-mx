@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-inspeccion-fiscal-2589"
 country: "mx"
 rank: "ley"
 publication_date: "1936-04-13"
-last_updated: "1946-12-31"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1936-03-17"
 ---
 # LEY DEL SERVICIO DE INSPECCION FISCAL
 
-LEY DEL SERVICIO DE INSPECCION FISCAL
+LEY DEL SERVICIO DE INSPECCIÓN FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1946.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, SERAN APLICABLES PARA LO SUCESIVO TODAS ESTAS DISPOSICIONES, AL DEPARTAMENTO DEL DISTRITO FEDERAL. LAS FACULTADES QUE DICHOS ORDENAMIENTOS ATRIBUYEN A LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN ATRIBUIDAS, PARA LO SUCESIVO, A LA SECRETARIA DE BIENES NACIONALES E INSPECCION ADMINISTRATIVA, D.O.F. 31 DE DICIEMBRE DE 1946.</small>
+> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, SERÁN APLICABLES PARA LO SUCESIVO TODAS ESTAS DISPOSICIONES, AL DEPARTAMENTO DEL DISTRITO FEDERAL. LAS FACULTADES QUE DICHOS ORDENAMIENTOS ATRIBUYEN A LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN ATRIBUIDAS, PARA LO SUCESIVO, A LA SECRETARÍA DE BIENES NACIONALES E INSPECCIÓN ADMINISTRATIVA, D.O.F. 31 DE DICIEMBRE DE 1946.</small>
 
 Ley publicada en el Diario Oficial de la Federación el lunes 13 de abril de 1936.
 
@@ -43,9 +43,11 @@ LEY DEL SERVICIO DE INSPECCION FISCAL
 
 La inspección fiscal tiene por objeto vigilar, por el examen de la actuación administrativa, la correcta gestión y manejo de los intereses fiscales del Gobierno Federal.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 2o.
 
-La Secretaría de Hacienda tendrá a su cargo el servicio de inspección que esta Ley regula.
+La Secretaría de Hacienda y Crédito Público tendrá a su cargo el servicio de inspección que esta Ley regula.
 
 ###### ARTICULO 3o.
 
@@ -87,9 +89,11 @@ La inversión de las participaciones que otorgue la ley en ingresos federales y 
 
 ### CAPITULO II. Autoridades de Inspección Fiscal y competencia que les corresponde
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 7o.
 
-Para la aplicación de esta ley y sus disposiciones reglamentarias, tendrán el carácter de auxiliares de la Secretaría de Hacienda en el servicio de Inspección Fiscal, además de las que señala el reglamento, las oficinas y personal siguientes:
+Para la aplicación de esta Ley y sus disposiciones reglamentarias, tendrán el carácter de auxiliares de la Secretaría de Hacienda y Crédito Público en el servicio de Inspección Fiscal, además de las que señala el reglamento, las oficinas y personal siguientes:
 
 I.- Oficinas de Correos y Telégrafos.
 
@@ -99,9 +103,11 @@ II.- Cualesquiera otras oficinas y agentes de la Federación con manejo de fondo
 
 Las oficinas y personal auxiliares se encargarán de llevar a cabo las funciones de inspección que les encomienden esta ley, sus disposiciones reglamentarias y otras autoridades de inspección fiscal diversas y estarán investidas por lo que se refiere al ejercicio de las funciones que con tal carácter se les confíen, de las mismas facultades y obligaciones que corresponderían, en el caso, a las autoridades de inspección fiscal respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 9o.
 
-La Secretaría de Hacienda, cuando lo juzgue necesario, examinará los actos de inspección fiscal antes de que los mismos deban considerarse definitivamente firmes, con la facultad de modificarlos o revocarlos justificadamente si así procede.
+La Secretaría de Hacienda y Crédito Público, cuando lo juzgue necesario, examinará los actos de inspección fiscal antes de que los mismos deban considerarse definitivamente firmes, con la facultad de modificarlos o revocarlos justificadamente si así procede.
 
 Los actos que al celebrarse queden, por su naturaleza, definitivamente constituídos, sólo se examinarán para exigir las responsabilidades que procedan.
 
@@ -127,9 +133,11 @@ VI.- Averiguaciones administrativas.
 
 VII.- Los demás que de una manera expresa determine la ley.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 11.
 
-Los actos de inspección que señala el artículo anterior, se efectuarán en los casos previstos por esta ley y sus disposiciones reglamentarias y, a falta de prevención expresa, en los que lo ordenen la Secretaría de Hacienda, el órgano que tenga a su cargo la ejecución del servicio y, con las limitaciones propias de su competencia, el personal de inspección fiscal.
+Los actos de inspección que señala el artículo anterior, se efectuarán en los casos previstos por esta Ley y sus disposiciones reglamentarias y, a falta de prevención expresa, en los que lo ordenen la Secretaría de Hacienda y Crédito Público, el órgano que tenga a su cargo la ejecución del servicio y, con las limitaciones propias de su competencia, el personal de inspección fiscal.
 
 ###### ARTICULO 12.
 
@@ -167,15 +175,19 @@ IV.- Pagadurías civiles y militares.
 
 V.- Agencias civiles.
 
-VI.- Oficinas y agentes de la Federación con manejo de fondos, valores o bienes que señale, para el fin indicado, la Secretaría de Hacienda.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VI.- Oficinas y agentes de la Federación con manejo de fondos, valores o bienes que señale, para el fin indicado, la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 17.
 
 Toda visita ordinaria se iniciará con la verificación de las existencias de fondos, valores y bienes, y su desarrollo se sujetará a los procedimientos que fijen las disposiciones reglamentarias.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 18.
 
-Siempre que al practicarse una visita ordinaria se observe que la marcha u organización de la oficina que se visite, a pesar de encontrarse ajustadas a la ley, presentan inconvenientes que ocasionen o puedan originar algún perjuicio a los intereses fiscales de la Federación, se formularán las observaciones e informes correspondientes y si la importancia del caso lo requiere, la Secretaría de Hacienda tomará las medidas necesarias para que cesen los defectos encontrados.
+Siempre que al practicarse una visita ordinaria se observe que la marcha u organización de la oficina que se visite, a pesar de encontrarse ajustadas a la Ley, presentan inconvenientes que ocasionen o puedan originas (sic) algún perjuicio a los intereses fiscales de la Federación, se formularán las observaciones e informes correspondientes y si la importancia del caso lo requiere, la Secretaría de Hacienda y Crédito Público tomará las medidas necesarias para que cesen los defectos encontrados.
 
 ###### ARTICULO 19.
 
@@ -241,7 +253,9 @@ VI.- Remates que celebren las autoridades administrativas, de la Federación.
 
 VII.- Destrucción de valores o bienes que deban llevar a cabo las autoridades administrativas de la Federación.
 
-VIII.- Los demás que fije la Secretaría de Hacienda, dentro de lo que previene esta ley.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII.- Los demás que fije la Secretaría de Hacienda y Crédito Público, dentro de lo que previene esta Ley.
 
 Intervención en la entrega de oficinas
 
@@ -259,7 +273,9 @@ Intervenciones en revistas
 
 En la intervención de las revistas de administración, inspección, entrada y cese del Ejército y Armada Nacionales se observarán, en todo lo que fueren aplicables, las disposiciones que sobre el particular establecen las leyes del ramo militar correspondiente.
 
-Las funciones y facultades que las leyes expresadas establecen en materia de inspección fiscal, se ejercerán por la Secretaría de Hacienda en los términos de la presente Ley.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las funciones y facultades que las leyes expresadas establecen en materia de inspección fiscal, se ejercerán por la Secretaría de Hacienda y Crédito Público en los términos de la presente Ley.
 
 ###### ARTICULO 33.
 
@@ -291,9 +307,11 @@ Las autoridades de inspección fiscal intervendrán, siempre que lo juzguen conv
 
 Intervención en remates
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 38.
 
-La intervención que esta ley previene en los remates que celebren las autoridades administrativas de la Federación, sólo será indispensable en los casos en que exija la ley esa intervención; la Secretaría de Hacienda resolverá, en los demás, cuándo debe llevarse a cabo dicha intervención.
+La intervención que esta Ley previene en los remates que celebren las autoridades administrativas de la Federación, sólo será indispensable en los casos en que exija la Ley esa intervención; la Secretaría de Hacienda y Crédito Público resolverá, en los demás, cuándo debe llevarse a cabo dicha intervención.
 
 Intervención en la destrucción de valores o bienes
 
@@ -301,15 +319,19 @@ Intervención en la destrucción de valores o bienes
 
 La intervención que haya de efectuarse en la destrucción de valores o bienes que deban llevar a cabo las autoridades administrativas de la Federación, tendrá por objeto particular comprobar que dichos actos se encuentran comprendidos dentro de los casos previstos por las disposiciones legales aplicables y que en su verificación se llenan los requisitos que éstas exigen.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 40.
 
-La intervención de que trata el artículo anterior se llevará a cabo en los casos en que la ley exija dicha intervención y a juicio de la Secretaría de Hacienda en los demás.
+La intervención de que trata el artículo anterior se llevará a cabo en los casos en que la Ley exija dicha intervención y a juicio de la Secretaría de Hacienda y Crédito Público en los demás.
 
 Intervenciones no previstas anteriormente
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 41.
 
-Las autoridades de inspección fiscal intervendrán en los demás casos, no considerados en este capítulo, que fije la Secretaría de Hacienda dentro de los señalados en el artículo 4o.
+Las autoridades de inspección fiscal intervendrán en los demás casos, no considerados en este capítulo, que fije la Secretaría de Hacienda y Crédito Público dentro de los señalados en el artículo 4o.
 
 ### CAPITULO V. Inspecciones diversas
 
@@ -329,7 +351,9 @@ III.- Inspección en la ejecución de las obras que señala la fracción IV del 
 
 IV.- Inspección en los actos del personal de la Federación que tenga a su cargo funciones de inspección de carácter fiscal, diversas de las que corresponden al servicio de que trata esta ley.
 
-V.- Inspecciones que ordene la Secretaría de Hacienda o soliciten las dependencias de la misma.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- Inspecciones que ordene la Secretaría de Hacienda y Crédito Público o soliciten las dependencias de la misma.
 
 Inspección en materia de bienes
 
@@ -341,9 +365,11 @@ La inspección fiscal que se lleve a cabo en materia de bienes nacionales y de a
 
 En la inspección a que se refiere el artículo anterior se podrán practicar, siempre que sea necesario, las visitas y reconocimientos de existencias que previenen las fracciones I y II del artículo 10.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 46.
 
-La inspección que se lleve a cabo en materia de bienes nacionales y de aquellas que se encuentren bajo la administración o guarda del Gobierno Federal, se efectuará en los casos en que lo ordenen la Secretaría de Hacienda, o el personal superior de inspección fiscal que fijen las disposiciones reglamentarias y en los que lo soliciten otras dependencias autorizadas de la propia Secretaría.
+La inspección que se lleve a cabo en materia de bienes nacionales y de aquellas que se encuentren bajo la administración o guarda del Gobierno Federal, se efectuará en los casos en que lo ordenen la Secretaría de Hacienda y Crédito Público o el personal superior de inspección fiscal que fijen las disposiciones reglamentarias y en los que lo soliciten otras dependencias autorizadas de la propia Secretaría.
 
 Inspección en el cumplimiento de contratos
 
@@ -403,7 +429,9 @@ III.- Examen, mediante comparecencia administrativa, de los representantes legal
 
 IV.- Visitas a las oficinas dependientes del Gobierno Federal.
 
-Las diligencias comprendidas en las fracciones I, II y IV, sólo podrán practicarse mediante orden expresa de la Secretaría de Hacienda y del personal superior de inspección fiscal que fijen las disposiciones reglamentarias, ajustándose a las reglas y formalidades de las visitas especiales.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las diligencias comprendidas en las fracciones I, II y IV, sólo podrán practicarse mediante orden expresa de la Secretaría de Hacienda y Crédito Público y del personal superior de inspección fiscal que fijen las disposiciones reglamentarias, ajustándose a las reglas y formalidades de las visitas especiales.
 
 ###### ARTICULO 56.
 
@@ -437,9 +465,11 @@ Instrucción de averiguaciones para la comprobación de irregularidades
 
 Cuando al efectuarse la inspección fiscal se descubran irregularidades que entrañen alguna responsabilidad por daños o perjuicios que se originen al Fisco, se instruirán las averiguaciones necesarias para comprobar los hechos que las determinen, descubrir a los presuntos responsables y hacer las consignaciones que procedan a las autoridades competentes.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 61.
 
-Las autoridades de inspección fiscal podrán llevar a cabo, en la instrucción de las averiguaciones para la comprobación de irregularidades, las diligencias previstas en el artículo 56, con la salvedad, en este caso, de que el personal de inspección fiscal estará facultado para ordenar su práctica, limitándose a dar cuenta desde luego a la Secretaría de Hacienda.
+Las autoridades de inspección fiscal podrán llevar cabo, en la instrucción de las averiguaciones para la comprobación de irregularidades, las diligencias previstas en el artículo 56, con la salvedad, en este caso, de que el personal de inspección fiscal estará facultado para ordenar su práctica, limitándose a dar cuenta desde luego a la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 62.
 
@@ -455,9 +485,11 @@ En la instrucción de las averiguaciones que tengan por objeto la comprobación 
 
 Cuando se presuma la existencia de alguna responsabilidad, se procederá al secuestro de los bienes del responsable, en la medida en que sea necesario para el aseguramiento de los intereses del fisco.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 65.
 
-Siempre que las irregularidades en que incurran los agentes de la Federación y, en general, los funcionarios o empleados de la misma respecto de los cuales se lleve a cabo la inspección fiscal, revistan una gravedad que amerite esta medida y no se ocasione un trastorno serio al servicio, podrá el personal de inspección que practique la diligencia, suspenderlos provisionalmente en su cargo. La Secretaría de Hacienda resolverá en definitiva si se trata de personal a sus órdenes o promoverá ante la oficina de la cual dependa el suspendido, la adopción de las medidas que deban tomarse.
+Siempre que las irregularidades en que incurran los agentes de la Federación y, en general, los funcionarios o empleados de la misma respecto de los cuales se lleve a cabo la inspección fiscal, revistan una gravedad que amerite esta medida y no se ocasione un trastorno serio al servicio, podrá el personal de inspección que practique la diligencia, suspenderlos provisionalmente en su cargo. La Secretaría de Hacienda y Crédito Público resolverá en definitiva si se trata de personal a sus órdenes o promoverá ante la oficina de la cual dependa el suspendido, la adopción de las medidas que deban tomarse.
 
 ###### ARTICULO 66.
 
@@ -467,19 +499,25 @@ I.- Si se trata de responsabilidades que deba constituir alguna autoridad admini
 
 II.- Cuando se trate de responsabilidades que demanden la intervención de las autoridades judiciales del orden penal, se instruirá el expediente de la averiguación administrativa y se consignará el caso al representante del Ministerio Público Federal o a quien, en su defecto, haga sus veces, tan pronto como se hayan comprobado los elementos del delito o delitos cometidos; a la vez se le proporcionarán todos los datos e informes que se hayan obtenido acerca de los hechos descubiertos.
 
-III.- En los casos de responsabilidades que no corresponda constituir a las autoridades administrativas, por no ser de su competencia, diversas de las que señala la fracción anterior, se instruirán las averiguaciones necesarias para comprobar los hechos que las originen, y la Secretaría de Hacienda promoverá la imposición de las sanciones que procedan.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- En los casos de responsabilidades que no corresponda constituir a las autoridades administrativas, por no ser de su competencia, diversas de las que señala la fracción anterior, se instruirán las averiguaciones necesarias para comprobar los hechos que las originen, y la Secretaría de Hacienda y Crédito Público promoverá la imposición de las sanciones que procedan.
 
 IV.- Cuando una averiguación comprenda responsabilidades definidas en varias de las fracciones anteriores, se hará, por separado, el número de consignaciones que sea necesario.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 67.
 
-Cuando las irregularidades que se descubran con motivo de la inspección fiscal, sean imputables a alguno de los funcionarios comprendidos en el artículo 108 constitucional o a algún Jefe de Departamento Administrativo, Secretario u Oficial Mayor de una Secretaría de Estado, Secretario General u Oficial Mayor de un Departamento Administrativo, una vez que se haya incoado la averiguación, el Secretario de Hacienda la someterá al conocimiento del Presidente de la República.
+Cuando las irregularidades que se descubran con motivo de la inspección fiscal, sean imputables a alguno de los funcionarios comprendidos en el artículo 108 constitucional o a algún Secretario u Oficial Mayor de una Secretaría de Estado, Secretario General, una vez que se haya incoado la averiguación, el Secretario de Hacienda y Crédito Público la someterá al conocimiento del Presidente de la República.
 
 ### CAPITULO VIII. Actos de inspección fiscal previstos por otras leyes
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 68.
 
-La Secretaría de Hacienda llevará a cabo, además de los actos de inspección a que se refieren los capítulos anteriores, todos aquellos otros comprendidos dentro de la materia que conforme al artículo 4o. corresponde a la inspección fiscal, cuya ejecución le encomienden expresamente otras leyes, los cuales se ajustarán a las reglas que las mismas señalen al prevenirlos.
+La Secretaría de Hacienda y Crédito Público llevará a cabo, además de los actos de inspección a que se refieren los capítulos anteriores, todos aquellos otros comprendidos dentro de la materia que conforme al artículo 4o. corresponde a la inspección fiscal, cuya ejecución le encomienden expresamente otras leyes, los cuales se ajustarán a las reglas que las mismas señalen al prevenirlos.
 
 ### CAPITULO IX. Reglas comunes a los diversos actos de inspección
 
@@ -503,13 +541,19 @@ Las órdenes que dicte el personal de inspección fiscal, no se extenderán a fu
 
 Cuando durante el curso de una diligencia aparezca un sobrante en efectivo o valores o resulte un faltante a cargo del personal inspeccionado, el de inspección fiscal que intervenga en la misma tomará las medidas siguientes:
 
-I.- Si se trata de un sobrante de efectivo o valores cuidará de que se dé entrada a éste en los registros de contabilidad con carácter de depósito, lo que hará del conocimiento de la Secretaría de Hacienda, para que a su vez, lo comunique a la Tesorería de la Federación y a la oficina de que dependa el personal afectado por la diligencia y se resuelva sobre la aplicación definitiva que haya de darse a esas cantidades o valores.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II.- Cuando se trate de un faltante, requerirá al responsable para que reintegre en el acto las cantidades o valores correspondientes. En este caso, si el responsable hace la entrega desde luego y justifica satisfactoriamente la razón del faltante, después de vigilar que se dé entrada a las cantidades o valores restituidos, se limitará a dar cuenta pormenorizada a la Secretaría de Hacienda, emitiendo su parecer; si el responsable hace el reintegro sin justificar debidamente el motivo del faltante o si no restituye éste, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores que se hayan entregado, practicará las averiguaciones necesarias y hará las consignaciones que procedan, de acuerdo con lo que dispone esta ley.
+I.- Si se trata de un sobrante de efectivo o valores cuidará de que se dé entrada a éste en los registros de contabilidad con carácter de depósito, lo que hará del conocimiento de la Secretaría de Hacienda y Crédito Público, para que a su vez, lo comunique a la Tesorería de la Federación y a la oficina de que dependa el personal afectado por la diligencia y se resuelva sobre la aplicación definitiva que haya de darse a esas cantidades o valores.
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- Cuando se trate de un faltante, requerirá al responsable para que reintegre en el acto las cantidades o valores correspondientes. En este caso, si el responsable hace la entrega desde luego y justifica satisfactoriamente la razón del faltante, después de vigilar que se dé entrada a las cantidades o valores restituidos, se limitará a dar cuenta pormenorizada a la Secretaría de Hacienda y Crédito Público, emitiendo su parecer; si el responsable hace el reintegro sin justificar debidamente el motivo del faltante o si no restituye éste, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores que se hayan entregado, practicará las averiguaciones necesarias y hará las consignaciones que procedan, de acuerdo con lo que dispone esta Ley.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 74.
 
-Antes de dar por concluido un acto de inspección, el personal que lo lleve a cabo cuidará que se hayan acatado las órdenes y disposiciones dictadas, concediendo, siempre que lo estime justificado, un plazo prudente para que se cumplan las mismas, lo cual pondrá en conocimiento de la Secretaría de Hacienda, para que vigile su cumplimiento.
+Antes de dar por concluido un acto de inspección, el personal que lo lleve a cabo cuidará que se hayan acatado las órdenes y disposiciones dictadas, concediendo, siempre que lo estime justificado, un plazo prudente para que se cumplan las mismas, lo cual pondrá en conocimiento de la Secretaría de Hacienda y Crédito Público, para que vigile su cumplimiento.
 
 ###### ARTICULO 75.
 
@@ -521,9 +565,11 @@ Cuando con motivo de un acto de inspección fiscal se requiera practicar algún 
 
 ### CAPITULO X. Instructivos para la práctica de los actos de inspección fiscal
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 77.
 
-La Secretaría de Hacienda expedirá los instructivos necesarios para señalar los informes y documentación que deban formularse con motivo de los actos de inspección fiscal y para fijar los procedimientos de acuerdo con los cuales se efectuarán dichos actos.
+La Secretaría de Hacienda y Crédito Público expedirá los instructivos necesarios para señalar los informes y documentación que deban formularse con motivo de los actos de inspección fiscal y para fijar los procedimientos de acuerdo con los cuales se efectuarán dichos actos.
 
 ## TITULO CUARTO. Infracciones y sanciones
 
@@ -563,7 +609,9 @@ IV.- Por resistirse a la práctica de las visitas y demás actos de inspección 
 
 El personal de inspección fiscal y el auxiliar de ésta, en su caso, serán infractores:
 
-I.- Por no efectuar en tiempo oportuno las movilizaciones ordenadas por la Secretaría de Hacienda.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Por no efectuar en tiempo oportuno las movilizaciones ordenadas por la Secretaría de Hacienda y Crédito Público.
 
 II.- Por salir del lugar que tengan señalado para su radicación o por regresar a él sin orden expresa.
 
@@ -619,7 +667,9 @@ III.- Suspensión.
 
 IV.- Destitución.
 
-El personal que obre como auxiliar de las autoridades de inspección fiscal, quedará sujeto, por las infracciones en que incurriere con tal carácter, a las sanciones que establecen las fracciones anteriores, con la salvedad de que cuando no dependa de la Secretaría de Hacienda, se observará lo dispuesto por el artículo 85.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El personal que obre como auxiliar de las autoridades de inspección fiscal, quedará sujeto, por las infracciones en que incurriere con tal carácter, a las sanciones que establecen las fracciones anteriores, con la salvedad de que cuando no dependa de la Secretaría de Hacienda y Crédito Público, se observará lo dispuesto por el artículo 85.
 
 ###### ARTICULO 84.
 
@@ -637,9 +687,11 @@ Cuando las infracciones en que hubiere incurrido el personal de inspección fisc
 
 Las sanciones a que se refieren los artículos anteriores, se aplicarán sin perjuicio de exigir las responsabilidades que llegaren a contraerse con el Fisco, por los daños o perjuicios que se le ocasionen, así como las de carácter penal en que también se incurriere.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 88.
 
-Las sanciones a que se refiere esta ley, se aplicarán por la Secretaría de Hacienda, directamente, cuando se trate de personal de su dependencia o de particulares y se someterán al acuerdo del Presidente de la República, cuando el infractor no dependa de la misma.
+Las sanciones a que se refiere esta Ley, se aplicarán por la Secretaría de Hacienda y Crédito Público, directamente, cuando se trate de personal de su dependencia o de particulares y se someterán al acuerdo del Presidente de la República, cuando el infractor no dependa de la misma.
 
 ## TITULO QUINTO. Disposiciones generales
 
@@ -667,9 +719,11 @@ La inspección fiscal de que trata esta ley se llevará a cabo respecto de las o
 
 Los jefes y personal de las oficinas en que deba practicarse algún acto de inspección fiscal, los agentes y en general, funcionarios y empleados de la Federación y los particulares con los que directamente deba entenderse ésta, deberán dar a las autoridades de inspección fiscal, toda clase de facilidades para el desempeño de sus funciones, proporcionarles los datos e informes que soliciten y mostrarles los libros, registros, padrones y documentación que legalmente requieran, sin que puedan oponerse, en ninguna forma, a la práctica de las diligencias de inspección que previene esta ley.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 93.
 
-Las personas a que se refiere el artículo anterior, deberán comunicar a la Secretaría de Hacienda, todos los casos en que el personal de inspección fiscal se exceda en el uso de sus facultades, a fin de que se impongan a los responsables las sanciones a que se hayan hecho acreedores.
+Las personas a que se refiere el artículo anterior, deberán comunicar a la Secretaría de Hacienda y Crédito Público, todos los casos en que el personal de inspección fiscal se exceda en el uso de sus facultades, a fin de que se impongan a los responsables las sanciones a que se hayan hecho acreedores.
 
 ###### ARTICULO 94.
 
@@ -683,17 +737,21 @@ Los actos que se lleven a cabo con motivo de la inspección fiscal, tendrán car
 
 Los funcionarios o empleados a quienes se les encomienden y el personal administrativo que conozca de los mismos, deberán guardar reserva acerca de los informes y datos que recaben o lleguen a su conocimiento con tal motivo. Esta obligación subsistirá aun cuando el funcionario o empleado se separe del servicio.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 96.
 
-En todos los actos en que intervenga el personal de inspección fiscal, acreditará su personalidad mediante la credencial correspondiente que expedirá la Secretaría de Hacienda, y, en su caso, por los demás medios que establezcan las disposiciones reglamentarias.
+En todos los actos en que intervenga el personal de inspección fiscal, acreditará su personalidad mediante la credencial correspondiente que expedirá la Secretaría de Hacienda y Crédito Público, y en su caso, por los demás medios que establezcan las disposiciones reglamentarias.
 
 ###### ARTICULO 97.
 
 Ningún funcionario o empleado que forme parte del personal de inspección fiscal, podrá encargarse de la gestión de asuntos de índole administrativa de que deba conocer alguna de las oficinas o personal de la Federación, sujetas a la inspección fiscal, salvo que se trate de asuntos en que se versen intereses propios, adquiridos a título de herencia o con anterioridad al nombramiento del interesado en el servicio de inspección fiscal o derivados de leyes fiscales, independientemente de su voluntad.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 98.
 
-La Secretaría de Hacienda queda facultada para fijar la interpretación de esta ley y su Reglamento, dictar las resoluciones de observancia general necesarias para su exacto cumplimiento y aclarar los puntos dudosos.
+La Secretaría de Hacienda y Crédito Público queda facultada para fijar la interpretación de esta Ley y su Reglamento, dictar las resoluciones de observancia general necesarias para su exacto cumplimiento y aclarar los puntos dudosos.
 
 ## TRANSITORIOS
 
@@ -713,7 +771,7 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-|D.O.F. 31 DE AGOSTO DE 1936.
+D.O.F. 31 DE AGOSTO DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
@@ -726,3 +784,9 @@ Se deroga la Ley Orgánica del Presupuesto de Egresos del Distrito Federal y tod
 ###### ARTICULO 2º.
 
 El presente Decreto entrará en vigor a partir del 1º. de enero de 1947.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
