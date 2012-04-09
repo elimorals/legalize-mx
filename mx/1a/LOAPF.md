@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2011-12-15"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -46,9 +46,9 @@ LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
 La presente Ley establece las bases de organización de la Administración Pública Federal, centralizada y paraestatal.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-La Presidencia de la República, las Secretarías de Estado, los Departamentos Administrativos y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
+La Presidencia de la República, las Secretarías de Estado y la Consejería Jurídica del Ejecutivo Federal, integran la Administración Pública Centralizada.
 
 Los organismos descentralizados, las empresas de participación estatal, las instituciones nacionales de crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y de fianzas y los fideicomisos, componen la administración pública paraestatal.
 
@@ -58,9 +58,11 @@ Los organismos descentralizados, las empresas de participación estatal, las ins
 
 En el ejercicio de sus atribuciones y para el despacho de los negocios del orden administrativo encomendados al Poder Ejecutivo de la Unión, habrá las siguientes dependencias de la Administración Pública Centralizada:
 
-I.- Secretarías de Estado;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II.- Departamentos Administrativos, y
+I.- Secretarías de Estado, y
+
+II.- (DEROGADA, D.O.F. 9 DE ABRIL DE 2012)
 
 III.- Consejería Jurídica.
 
@@ -88,17 +90,17 @@ A la Consejería Jurídica del Ejecutivo Federal le serán aplicables las dispos
 
 (DEROGADO, D.O.F. 4 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 6o.
 
-Para los efectos del artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Presidente de la República acordará con todos los Secretarios de Estado, los Jefes de los Departamentos Administrativos y el Procurador General de la República.
+Para los efectos del Artículo 29 de la Constitución Política de los Estados Unidos Mexicanos, el Presidente de la República acordará con todos los Secretarios de Estado y el Procurador General de la República.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 7o.
 
-El Presidente de la República podrá convocar a reuniones de Secretarios de Estado, Jefes de Departamentos Administrativos y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Federal en materias que sean de la competencia concurrente de varias dependencias, o entidades de la Administración Pública Federal. Estas reuniones serán presididas por el Titular del Ejecutivo Federal y el Secretariado Técnico de las mismas estará adscrito a la Presidencia de la República.
+El Presidente de la República podrá convocar a reuniones de Secretarios de Estado y demás funcionarios competentes, cuando se trate de definir o evaluar la política del Gobierno Federal en materias que sean de la competencia concurrente de varias dependencias, o entidades de la Administración Pública Federal. Estas reuniones serán presididas por el Titular del Ejecutivo Federal y el Secretariado Técnico de las mismas estará adscrito a la Presidencia de la República.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -114,25 +116,33 @@ Las dependencias y entidades de la Administración Pública Centralizada y Parae
 
 ## TITULO SEGUNDO. De la Administración Pública Centralizada
 
-### CAPITULO I. De las Secretarías de Estado y los Departamentos Administrativos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+### CAPITULO I. De las Secretarías de Estado
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Las Secretarías de Estado y los Departamentos Administrativos tendrán igual rango, y entre ellos no habrá, por lo tanto, preeminencia alguna.
+Las Secretarías de Estado tendrán igual rango, y entre ellos no habrá, por lo tanto, preeminencia alguna.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 11.
 
-Los titulares de las Secretarías de Estado y de los Departamentos Administrativos ejercerán las funciones de su competencia por acuerdo del Presidente de la República.
+Los titulares de las Secretarías de Estado ejercerán las funciones de su competencia por acuerdo del Presidente de la República.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 12.
 
-Cada Secretaría de Estado o Departamento Administrativo formulará, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
+Cada Secretaría de Estado formulará, respecto de los asuntos de su competencia; los proyectos de leyes, reglamentos, decretos, acuerdos, y órdenes del Presidente de la República.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 13.
 
-Los Reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales ir firmados por el Secretario de Estado o el Jefe del Departamento Administrativo respectivo, y cuando se refieran a asuntos de la competencia de dos o más Secretarías o Departamentos, deberán ser refrendados por todos los titulares de los mismos.
+Los Reglamentos, decretos y acuerdos expedidos por el Presidente de la República deberán, para su validez y observancia constitucionales ir firmados por el Secretario de Estado respectivo, y cuando se refieran a asuntos de la competencia de dos o más Secretarías o Departamentos, deberán ser refrendados por todos los titulares de los mismos.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1985)</small>
 
@@ -148,23 +158,27 @@ En los juicios de amparo, el Presidente de la República podrá ser representado
 
 ###### ARTICULO 15.
 
-Al frente de cada departamento administrativo habrá un jefe de departamento, quien se auxiliará en el ejercicio de sus atribuciones, por secretarios generales, oficial mayor, directores, subdirectores, jefes y subjefes de oficina, sección y mesa, conforme al reglamento interior respectivo, así como por los demás funcionarios que establezcan otras disposiciones legales aplicables. Para los Departamentos Administrativos, regirá lo dispuesto en el segundo párrafo del artículo anterior.
+(DEROGADO, D.O.F. 9 DE ABRIL DE 2012)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 16.
 
-Corresponde originalmente a los titulares de las Secretarías de Estado y Departamentos Administrativos el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refieren los artículos 14 y 15, cualesquiera de sus facultades, excepto aquellas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares. En los casos en que la delegación de facultades recaiga en jefes de oficina, de sección y de mesa de las Secretarías de Estado y Departamentos Administrativos, aquéllos conservarán su calidad de trabajadores de base en los términos de la Ley Federal de los Trabajadores al Servicio del Estado.
+Corresponde originalmente a los titulares de las Secretarías de Estado el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los funcionarios a que se refieren los Artículos 14 y 15, cualesquiera de sus facultades, excepto aquellas que por disposición de ley o del reglamento interior respectivo, deban ser ejercidas precisamente por dichos titulares. En los casos en que la delegación de facultades recaiga en jefes de oficina, de sección y de mesa de las Secretarías de Estado y Departamentos Administrativos, aquellos conservarán su calidad de trabajadores de base en los términos de la Ley Federal de los Trabajadores al Servicio del Estado.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Los propios titulares de las Secretarías de Estado y Departamentos Administrativos también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías, Oficialía Mayor, y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
+Los propios titulares de las Secretarías de Estado también podrán adscribir orgánicamente las unidades administrativas establecidas en el reglamento interior respectivo, a las Subsecretarías, Oficialía Mayor, y a las otras unidades de nivel administrativo equivalente que se precisen en el mismo reglamento interior.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Los acuerdos por los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 17.
 
-Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado y los Departamentos Administrativos podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, las Secretarías de Estado podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -202,21 +216,29 @@ c) Incluir en toda la documentación y en la difusión del programa, la leyenda 
 
 d) Realizar acciones de orientación y difusión con los beneficiarios para garantizar la transparencia y evitar cualquier manipulación política del programa.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 18.
 
-En el reglamento interior de cada una de las Secretarías de Estado y Departamentos Administrativos, que será expedido por el Presidente de la República, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
+En el reglamento interior de cada una de las Secretarías de Estado que será expedido por el Presidente de la República, se determinarán las atribuciones de sus unidades administrativas, así como la forma en que los titulares podrán ser suplidos en sus ausencias.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 19.
 
-El titular de cada Secretaría de Estado y Departamento Administrativo expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Diario Oficial de la Federación. En cada una de las dependencias y entidades de la Administración Pública Federal, se mantendrán al corriente los escalafones de los trabajadores y se establecerán los sistemas de estímulos y recompensas que determine la ley y las condiciones generales de trabajo respectivas.
+El titular de cada Secretaría de Estado expedirá los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, deberán mantenerse permanentemente actualizados. Los manuales de organización general deberán publicarse en el Diario Oficial de la Federación. En cada una de las dependencias y entidades de la administración pública federal, se mantendrán al corriente los escalafones de los trabajadores, y se establecerán los sistemas de estímulos y recompensas que determine la ley y las condiciones generales de trabajo respectivas.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 20.
 
-Las Secretarías de Estado y los Departamentos Administrativos establecerán sus correspondientes servicios de apoyo administrativo en materia de planeación, programación, presupuesto, informática y estadística, recursos humanos, recursos materiales, contabilidad, fiscalización, archivos y los demás que sean necesarios, en los términos que fije el Ejecutivo Federal.
+Las Secretarías de Estado establecerán sus correspondientes servicios de apoyo administrativo en materia de planeación, programación, presupuesto, informática y estadística, recursos humanos, recursos materiales, contabilidad, fiscalización, archivos y los demás que sean necesarios, en los términos que fije el Ejecutivo Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 21.
 
-El Presidente de la República podrá constituir comisiones intersecretariales, para el despacho de asuntos en que deban intervenir varias Secretarías de Estado o Departamentos Administrativos.
+El presidente de la República podrá constituir comisiones intersecretariales, para el despacho de asuntos en que deban intervenir varias Secretarías de Estado.
 
 Las entidades de la administración pública paraestatal podrán integrarse a dichas comisiones, cuando se trate de asuntos relacionados con su objeto.
 
@@ -228,23 +250,27 @@ Las comisiones podrán ser transitorias o permanentes y serán presididas por qu
 
 El Presidente de los Estados Unidos Mexicanos podrá celebrar convenios de coordinación de acciones con los Gobiernos Estatales, y con su participación, en los casos necesarios, con los Municipios, satisfaciendo las formalidades legales que en cada caso procedan, a fin de favorecer el desarrollo integral de las propias entidades federativas.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 23.
 
-Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, una vez abierto el período de sesiones ordinarias, darán cuenta al Congreso de la Unión del estado que guarden sus respectivos ramos y deberán informar, además, cuando cualquiera de las Cámaras los cite en los casos en que se discuta una ley o se estudie un negocio concerniente a sus actividades. Esta última obligación será extensiva a los directores de los organismos descentralizados y de las empresas de participación estatal mayoritaria.
+Los Secretarios de Estado, una vez abierto el período de sesiones ordinarias, darán cuenta al Congreso de la Unión del estado que guarden sus respectivos ramos y deberán informar, además, cuando cualquiera de las Cámaras los cite en los casos en que se discuta una ley o se estudie un negocio concerniente a sus actividades. Esta última obligación será extensiva a los directores de los organismos descentralizados y de las empresas de participación estatal mayoritaria.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 24.
 
-En casos extraordinarios o cuando exista duda sobre la competencia de alguna Secretaría de Estado o Departamento Administrativo para conocer de un asunto determinado, el Presidente de la República resolverá, por conducto de la Secretaría de Gobernación, a qué dependencia corresponde el despacho del mismo.
+En casos extraordinarios o cuando exista duda sobre la competencia de alguna Secretaría de Estado para conocer de un asunto determinado, el presidente de la República resolverá, por conducto de la Secretaría de Gobernación, a qué dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 25.
 
-Cuando alguna Secretaría de Estado o Departamento Administrativo necesite informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a las normas que determine la Secretaría de la Contraloría General de la Federación.
+Cuando alguna Secretaría de Estado necesite informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos, atendiendo en lo correspondiente a las normas que determine la Secretaría de la Contraloría General de la Federación.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-### CAPITULO II. De la competencia de las Secretarías de Estado, Departamentos Administrativos y Consejería Jurídica del Ejecutivo Federal
+### CAPÍTULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
 
 > <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2003)</small>
 
@@ -310,7 +336,9 @@ VI.- Tramitar lo relativo a la aplicación del artículo 33 de la Constitución;
 
 VII.- Tramitar lo relativo al ejercicio de las facultades que otorgan al Ejecutivo Federal los artículos 96, 98 y 100 de la Constitución, sobre nombramientos, renuncias y licencias de los Ministros de la Suprema Corte de Justicia y de los Consejeros de la Judicatura Federal;
 
-VIII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los Secretarios de Estado, Jefes de Departamento Administrativo del Ejecutivo Federal y del Procurador General de la República;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los secretarios de Estado y del procurador general de la República;
 
 IX.- Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
 
@@ -618,13 +646,19 @@ A la Secretaría de Hacienda y Crédito Público corresponde el despacho de los 
 
 I.- Proyectar y coordinar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
 
-II.- Proyectar y calcular los ingresos de la Federación, del Departamento del Distrito Federal y de las entidades paraestatales, considerando las necesidades del gasto público federal, la utilización razonable del crédito público y la sanidad financiera de la administración pública federal;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-III.- Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la Federación y del Departamento del Distrito Federal;
+II.- Proyectar y calcular los ingresos de la federación, del Gobierno del Distrito Federal y de las entidades paraestatales, considerando las necesidades del gasto público federal, la utilización razonable del crédito público y la sanidad financiera de la administración pública federal;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la federación y del Gobierno del Distrito Federal;
 
 IV.- (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-V.- Manejar la deuda pública de la Federación y del Departamento del Distrito Federal;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- Manejar la deuda pública de la federación y del Gobierno del Distrito Federal;
 
 VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
 
@@ -1402,9 +1436,9 @@ X.- Designar a los auditores externos de las entidades, así como normar y contr
 
 XI.- Designar, para el mejor desarrollo del sistema de control y evaluación gubernamentales, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Federal centralizada, y comisarios en los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paraestatal;
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XII.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Desarrollo Administrativo, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al Titular de dicha Secretaría;
+XII.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Función Pública, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al Titular de dicha Secretaría;
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -1560,9 +1594,9 @@ XXIX.- Establecer los criterios educativos y culturales en la producción cinema
 
 XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centro de estudio, programas de recreación y de atención a los problemas de los jóvenes. Crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran, y
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XXX bis.- Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas; dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado y Departamentos Administrativos; y
+XXX bis.- Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas; dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado; y
 
 XXXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -1860,11 +1894,11 @@ Los fideicomisos públicos a que se refiere el artículo 3o., fracción III, de 
 
 En los fideicomisos constituidos por el gobierno federal, la Secretaría de Hacienda y Crédito Público fungirá como fideicomitente único de la Administración Pública Centralizada.
 
-> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 48.
 
-A fin de que se pueda llevar a efecto la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la Administración Pública Paraestatal, el Presidente de la República las agrupará por sectores definidos, considerando el objeto de cada una de dichas entidades en relación con la esfera de competencia que ésta y otras leyes atribuyen a las Secretarías de Estado y Departamentos Administrativos.
+A fin de que se pueda llevar a efecto la intervención que, conforme a las leyes, corresponde al Ejecutivo Federal en la operación de las entidades de la Administración Pública Paraestatal, el Presidente de la República las agrupará por sectores definidos, considerando el objeto de cada una de dichas entidades en relación con la esfera de competencia que ésta y otras leyes atribuyen a las Secretarías de Estado.
 
 > <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
@@ -2273,3 +2307,9 @@ D.O.F. 15 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.
 
 SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
