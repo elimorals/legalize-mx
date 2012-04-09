@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "2011-08-05"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -206,7 +206,9 @@ b) El Secretario de Hacienda y Crédito Público;
 
 c) El Secretario de Gobernación;
 
-d) El Secretario de Agricultura, Ganadería y Desarrollo Rural;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+d) El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 e) El Secretario del Trabajo y Previsión Social;
 
@@ -310,21 +312,25 @@ VIII. Recabar información y elementos estadísticos sobre las funciones del Ins
 
 IX. Las que le confieran las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 13.
 
 El Instituto contará con un Órgano Interno de Control que formará parte de su estructura. El titular de dicho órgano, así como los responsables de las áreas de auditoría, quejas y responsabilidades dependerán y serán nombrados y removidos por la Secretaría de la Función Pública.
 
-Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en las disposiciones legales aplicables.
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
-El Instituto proporcionará al titular del Órgano Interno de Control los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus facultades.
+Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en las disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
+El Instituto proporcionará al titular del Órgano Interno de Control los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus facultades.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 14.
 
-El Órgano de Vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, quienes serán designados por la Secretaría de la Función Pública, y ejercerán las facultades que les confiere el artículo 60 de la Ley Federal de Entidades Paraestatales.
+El Órgano de Vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, quienes serán designados por la Secretaría de la Función Pública, quienes ejercerán las facultades que les confiere el Capítulo VI de la Ley Federal de las Entidades Paraestatales.
 
 ### Capítulo III. Del Consejo de Seguimiento de Proyectos y Programas
 
@@ -374,7 +380,7 @@ México, D.F., a 21 de diciembre de 1998.- Sen. Mario Vargas Aguiar, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventra (sic) y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 20 DE MARZO DE 2006.
 
@@ -399,3 +405,9 @@ Segundo. Las nuevas atribuciones que en virtud de este Decreto se otorgan al Ins
 Tercero. El Consejo ciudadano de seguimiento de políticas públicas en materia de juventud deberá quedar constituido en un plazo no mayor a noventa días a partir de la entrada en vigor del presente Decreto.
 
 Cuarto. Las modificaciones necesarias al Estatuto Orgánico del Instituto Mexicano de la Juventud se harán dentro de los 90 días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el Registro Público de organismos descentralizados.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
