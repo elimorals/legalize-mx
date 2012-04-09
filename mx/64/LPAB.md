@@ -4,7 +4,7 @@ identifier: "LPAB"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-19"
-last_updated: "2006-07-06"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LPAB"
 ---
 # LEY DE PROTECCION AL AHORRO BANCARIO
 
-LEY DE PROTECCION AL AHORRO BANCARIO
+LEY DE PROTECCIÓN AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 19 de enero de 1999.
 
@@ -382,11 +382,11 @@ La Junta de Gobierno podrá autorizar la enajenación de los Bienes que hayan si
 
 En los términos de la fracción XXI, artículo 38 de la Ley Orgánica de la Administración Pública Federal, la Secretaría de Educación Pública cuidará que estos Bienes sean exhibidos para el público en general.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 65.
 
-Una vez hechas las enajenaciones, el otorgamiento del uso a título gratuito o las donaciones a que se refieren los artículos anteriores, el Instituto deberá remitir un informe detallado a las Secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo, así como a la Cámara de Diputados a través de su Comisión de Cultura, en un plazo máximo de treinta días hábiles posteriores a su formalización.
+Una vez hechas las enajenaciones, el otorgamiento del uso a título gratuito o las donaciones a que se refieren los artículos anteriores, el Instituto deberá remitir un informe detallado a las Secretarías de Hacienda y Crédito Público y de la Función Pública, así como a la Cámara de Diputados a través de su Comisión de Cultura, en un plazo máximo de treinta días hábiles posteriores a su formalización.
 
 Asimismo, el órgano de control interno del Instituto hará un seguimiento puntual de dichas operaciones, y las áreas operativas formularán la memoria circunstanciada de cada una de ellas.
 
@@ -648,7 +648,9 @@ Cualquiera de las Cámaras, podrán citar a comparecer al Secretario Ejecutivo c
 
 El Ejecutivo Federal, a través de la dependencia competente, designará un comisario y un auditor externo del Instituto. Ambos tendrán las más amplias facultades para opinar, examinar y dictaminar los estados financieros del Instituto, así como para revisar la contabilidad y demás documentación relacionada con ésta. El comisario deberá asistir a las sesiones de la Junta de Gobierno.
 
-Lo anterior, sin perjuicio de la vigilancia de la Contaduría Mayor de Hacienda de la Cámara de Diputados y del Contralor Interno.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Lo anterior, sin perjuicio de la vigilancia de la Auditoría Superior de la Federación y del Contralor Interno.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES
 
@@ -853,3 +855,9 @@ El incumplimiento a lo previsto en el presente artículo será sancionado por la
 ###### ARTÍCULO TERCERO.
 
 Las instituciones de banca múltiple que a la fecha de entrada en vigor del presente decreto se encuentren en procedimiento de liquidación o concurso mercantil, se regirán de conformidad con las disposiciones vigentes al momento en que hayan iniciado los procedimientos respectivos.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
