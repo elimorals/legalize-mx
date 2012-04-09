@@ -4,7 +4,7 @@ identifier: "LRFXIIIB_ART123"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-30"
-last_updated: "1983-12-30"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LRFXIIIB_ART123"
 ---
 # LEY REGLAMENTARIA DE LA FRACCION XIII BIS DEL APARTADO B, DEL ARTICULO 123 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-LEY REGLAMENTARIA DE LA FRACCION XIII BIS DEL APARTADO B, DEL ARTICULO 123 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 30 de diciembre de 1983.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de diciembre de 1983.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -184,7 +184,9 @@ En las prestaciones que otorguen las instituciones, en sustitución del Institut
 
 Las condiciones generales de trabajo establecerán los beneficios y prestaciones de carácter económico, social y cultural de que disfruten los trabajadores al servicio de las instituciones, señalando los requisitos y características de los mismos.
 
-Las instituciones, tomando en cuenta la opinión del sindicato correspondiente, presentarán a la consideración de la Secretaría de Hacienda y Crédito Público las condiciones generales de trabajo, las que serán sometidas a la aprobación de la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las instituciones, tomando en cuenta la opinión del sindicato correspondiente, presentarán a la consideración de la Secretaría de Hacienda y Crédito Público las condiciones generales de trabajo, para su aprobación.
 
 ### CAPITULO CUARTO. Suspensión, Cese y Terminación de los Efectos de los Nombramientos
 
@@ -313,3 +315,11 @@ Las relaciones laborales de los trabajadores al servicio de las instituciones co
 México, D.F., a 29 de diciembre de 1983.- Luz Lajous, D.P.- Raúl Salinas Lozano, S.P.- Enrique León Martínez, D.S.- Myrna Esther Hoyos de Navarrete, S.S.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog.- Rúbrica.- Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Secretario de Gobernación, Manuel Barttlet Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
