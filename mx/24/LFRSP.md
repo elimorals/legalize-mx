@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2003-06-13"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFRSP"
 ---
 # LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -486,7 +486,9 @@ XVII.- Abstenerse de intervenir o participar indebidamente en la selección, nom
 
 XVIII.- Presentar con oportunidad y veracidad, las declaraciones de situación patrimonial, en los términos establecidos por esta ley;
 
-XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Contraloría, conforme a la competencia de ésta;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones que reciba de la Secretaría de la Función Pública, conforme a la competencia de ésta;
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -504,13 +506,17 @@ XXIII.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de cele
 
 XXIV.- La (sic) demás que le impongan las leyes y reglamentos.
 
-Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Secretaría de la Función Pública, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Secretaría de la Función Pública, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 48.
 
-Para los efectos de esta ley se entenderá por Secretaría a la Secretaría de Contraloría y Desarrollo Administrativo.
+Para los efectos de esta Ley se entenderá por Secretaría a la Secretaría de la Función Pública.
+
+(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 Para los mismos efectos, se entenderá por superior jerárquico al titular de la dependencia y, en el caso de las entidades, al coordinador del sector correspondiente, el cual aplicará las sanciones cuya imposición se le atribuya a través de la contraloría interna de su dependencia.
 
@@ -780,9 +786,9 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-ARTICULO 77 bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de Contraloría y Desarrollo Administrativo, para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o cualquier otra.
+ARTICULO 77 bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de la Función Pública, para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o cualquier otra.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -870,15 +876,17 @@ VII.- En el Tribunal de lo Contencioso Administrativo del Distrito Federal, Magi
 
 VIII.- En el Tribunal Federal de Justicia Fiscal y Administrativa, en los tribunales de trabajo y en los demás órganos jurisdiccionales que determinen las leyes: Magistrados, miembros de junta y Secretarios o sus equivalentes; y
 
-IX.- En la Secretaría de la Contraloría General: Todos los servidores públicos de confianza.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IX.- En la Secretaría de la Función Pública: Todos los servidores públicos de confianza.
 
 > <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio manifestar en términos de esta Ley, será suspendido, y cuando por su importancia lo amerite, destituido e inhabilitado de tres meses a tres años.
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Asimismo, deberán presentar las declaraciones a que se refiere este artículo, los demás servidores públicos de las dependencias y entidades de la Administración Pública Federal y de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., que determine el Secretario de la Contraloría General de la Federación, mediante disposiciones generales debidamente motivadas y fundadas.
+Asimismo, deberán presentar las declaraciones a que se refiere este artículo, los demás servidores públicos de las dependencias y entidades de la Administración Pública Federal y de los órganos jurisdiccionales a que se refieren las fracciones VII a IX del artículo 3o., que determine el Secretario de la Función Pública, mediante disposiciones generales debidamente motivadas y fundadas.
 
 ###### ARTICULO 81.
 
@@ -944,11 +952,11 @@ Se castigará como cohecho las conductas de los servidores públicos que violen 
 
 Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean de los estrictamente prohibidos, deberán informar de ello a la autoridad que la Secretaría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
 
-(REFORMADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 90.
 
-La Secretaría de Contraloría y Desarrollo Administrativo hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+La Secretaría de la Función Pública hará al Ministerio Público, en su caso, declaratoria de que el funcionario sujeto a la investigación respectiva, en los términos de la presente Ley, no justificó la procedencia lícita del incremento sustancial de su patrimonio de los bienes adquiridos o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 (ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1115,3 +1123,9 @@ Artículo Noveno.- Las menciones que en otras leyes, reglamentos y demás dispos
 D.O.F. 13 DE JUNIO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
