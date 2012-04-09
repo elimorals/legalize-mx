@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "2005-10-25"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LVGC"
 ---
 # LEY DE VIAS GENERALES DE COMUNICACION
 
-LEY DE VIAS GENERALES DE COMUNICACION
+LEY DE VÍAS GENERALES DE COMUNICACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -74,7 +74,9 @@ Son partes integrantes de las vías generales de comunicación:
 
 I.- Los servicios auxiliares, obras, construcciones y demás dependencias y accesorios de las mismas, y
 
-II.- Los terrenos y aguas que sean necesarias para el derecho de vía y para el establecimiento de los servicios y obras a que se refiere la fracción anterior. La extensión de los terrenos y aguas y el volumen de éstas se fijará por la Secretaría de Comunicaciones.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- Los terrenos y aguas que sean necesarias para el derecho de vía y para el establecimiento de los servicios y obras a que se refiere la fracción anterior. La extensión de los terrenos y aguas y el volumen de éstas se fijará por la Secretaría de Comunicaciones y Transportes.
 
 ### CAPITULO II. Jurisdicción
 
@@ -140,33 +142,25 @@ Corresponderá a los Tribunales Federales conocer de todas las controversias del
 
 (DEROGADO, D.O.F. 15 DE JUNIO DE 1992)
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 7o.
 
-Las vías generales de comunicación, los servicios públicos que en ellas se establezcan, los capitales y empréstitos empleados en ellos, las acciones, bonos y obligaciones emitidos por las empresas, no podrán se objeto de contribuciones de los Estados, Departamentos del Distrito Federal o municipios.
+Las vías generales de comunicación, los servicios públicos que en ellas se establezcan, los capitales y empréstitos empleados en ellos, las acciones, bonos y obligaciones emitidos por las empresas, no podrán ser objeto de contribuciones de los Estados, Distrito Federal o Municipios.
 
 ### CAPITULO III. Concesiones, permisos y contratos
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1941)</small>
-
-###### ARTICULO 8.
-
-Para construir, establecer y explotar vías generales de comunicación, o cualquiera clase de servicios conexos a éstas, será necesario el tener concesión o permiso del Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones y con sujeción a los preceptos de esta Ley y sus Reglamentos.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
-
-> <small>(DEROGADO TERCER PARRAFO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
-
-> <small>(DEROGADO CUARTO PARRAFO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 8o.
 
-Mientras se expide una ley sobre ferrocarriles que estén en el Distrito o Territorios Federales y otras vías federales de comunicación que no tengan el carácter de generales, dichos ferrocarriles y vías estarán sujetos a la presente Ley por conducto de la autoridad que corresponda.
+Para construir, establecer y explotar vías generales de comunicación, o cualquiera clase de servicios conexos a éstas, será necesario el tener concesión o permiso del Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones y Transportes y con sujeción a los preceptos de esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 9o.
 
-No necesitarán concesión, sino permiso de la Secretaría de Comunicaciones:
+No necesitarán concesión, sino permiso de la Secretaría de Comunicaciones y Transportes:
 
 I.- (DEROGADA POR ARTICULO TERCERO TRANSITORIO DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO, D.O.F. 12 DE MAYO DE 1995)
 
@@ -176,7 +170,9 @@ III.- Las estaciones radiodifusoras culturales, las de experimentación científ
 
 IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE TELECOMUNICACIONES, D.O.F. 7 DE JUNIO DE 1995)
 
-V.- Las embarcaciones que presten servicio público de cabotaje o de navegación interior. Cuando por su importancia sea conveniente el otorgamiento de concesiones, a juicio de la Secretaría de Comunicaciones, se dará preferencia a los permisionarios que desempeñen el servicio;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- Las embarcaciones que presten servicio público de cabotaje o de navegación interior. Cuando por su importancia sea conveniente el otorgamiento de concesiones, a juicio de la Secretaría de Comunicaciones y Transportes, se dará preferencia los permisionarios que desempeñen el servicio;
 
 VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AVIACION CIVIL, D.O.F. 12 DE MAYO DE 1995)
 
@@ -206,11 +202,15 @@ Las concesiones para la construcción, establecimiento o explotación de vías g
 
 Los individuos o empresas a quienes se otorgue concesión o permiso para construir o explotar vías generales de comunicación, llevarán a cabo por sí mismos esa construcción o explotación y no podrán, en ningún caso, organizar sociedades a quienes cedan los derechos adquiridos en la concesión o permiso.
 
-Sin embargo, la Secretaría de Comunicaciones podrá autorizar la cesión de los derechos y obligaciones estipulados en la concesión o permiso, cuando a su juicio fuere conveniente, siempre que hubieren estado vigentes por un término no menor de cinco años y que el beneficiario haya cumplido con todas sus obligaciones.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Sin embargo, la Secretaría de Comunicaciones y Transportes podrá autorizar la cesión de los derechos y obligaciones estipulados en la concesión o permiso, cuando a su juicio fuere conveniente, siempre que hubieren estado vigentes por un término no menor de cinco años y que el beneficiario haya cumplido con todas sus obligaciones.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 14.
 
-Los interesados en obtener concesión o permiso para construir, establecer o explotar vías generales de comunicación, elevarán solicitud a la Secretaría de Comunicaciones, de conformidad con los preceptos de esta ley y sus reglamentos, acompañándola de los estudios a que se refiere el artículo 8º.
+Los interesados en obtener concesión o permiso para construir, establecer o explotar vías generales de comunicación, elevarán solicitud a la Secretaría de Comunicaciones y Transportes, de conformidad con los preceptos de esta Ley y sus reglamentos, acompañándola de los estudios a que se refiere el artículo 8o.
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
@@ -226,9 +226,11 @@ Otorgada la concesión, la Secretaría de Comunicaciones y Transportes ordenará
 
 Para el otorgamiento de permisos se seguirán los trámites que señalen los reglamentos o disposiciones administrativas correspondientes.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 17.
 
-Los concesionarios, como garantía del cumplimiento de sus obligaciones, constituirán el depósito u otorgarán la garantía que fije la Secretaría de Comunicaciones.
+Los concesionarios, como garantía del cumplimiento de sus obligaciones, constituirán el depósito u otorgarán la garantía que fije la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 18.
 
@@ -290,9 +292,13 @@ I.- Porque no se presenten los planos de reconocimiento y localización de las v
 
 II.- Por no construir o no establecer dentro de los plazos señalados en las concesiones, la parte o la totalidad de la vía u obras convenidas;
 
-III.- Porque se interrumpa el servicio público prestado en todo o en parte importante, sin causa justificada a juicio de la Secretaría de Comunicaciones, o sin previa autorización de la misma;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-IV.- Porque se enajene la concesión o alguno de los derechos en ella contenidos, o los bienes afectos al servicio de que se trate, sin la previa aprobación de la Secretaría de Comunicaciones;
+III.- Porque se interrumpa el servicio público prestado en todo o en parte importante, sin causa justificada a juicio de la Secretaría de Comunicaciones y Transportes, o sin previa autorización de la misma;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- Porque se enajene la concesión o alguno de los derechos en ella contenidos, o los bienes afectos al servicio de que se trate, sin la previa aprobación de la Secretaría de Comunicaciones y Transportes;
 
 V.- Porque se ceda, hipoteque, enajene, o de cualquier manera se grave la concesión, o algunos de los derechos en ella establecidos, o los bienes efectos al servicio público de que se trate, a algún gobierno o Estados extranjeros, o porque se les admita como socios en la empresa concesionaria;
 
@@ -300,7 +306,9 @@ VI.- Porque se proporcionen al enemigo, en caso de guerra internacional, cualqui
 
 VII.- Porque el concesionario cambie su nacionalidad mexicana;
 
-VIII.- Porque se modifiquen o alteren substancialmente la naturaleza o condiciones en que opere el servicio, el trazo o la ruta de la vía, o los circuitos de las instalaciones, o su ubicación, sin la previa aprobación de la Secretaría de Comunicaciones;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII.- Porque se modifiquen o alteren substancialmente la naturaleza o condiciones en que opere el servicio, el trazo o la ruta de la vía, o los circuitos de las instalaciones, o su ubicación, sin la previa aprobación de la Secretaría de Comunicaciones y Transportes;
 
 IX.- Porque los concesionarios no paguen la participación que corresponda al Gobierno Federal, en los casos en que así se haya estipulado en las concesiones, o porque se defraude dolosamente al Erario, en la participación, sin perjuicio de la responsabilidad penal a que haya lugar;
 
@@ -316,9 +324,11 @@ XIII.- Por los motivos de caducidad estipulados en las concesiones respectivas;
 
 XIV.- Por incumplir lo dispuesto en el artículo 127 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 30.
 
-El concesionario perderá, a favor de la Nación, en los casos de caducidad por las causas mencionadas en las fracciones I, II, III, IV, VIII, IX, X, XI y XIII del artículo anterior, el importe de la garantía otorgada conforme al artículo 17. Perderá, además, en los casos de las fracciones II, III, IV, VIII, IX, XII y XIII del mismo artículo, una parte de los bienes reversibles, cuyo monto fijará la Secretaría de Comunicaciones y Obras Públicas, de acuerdo con la relación que exista entre el porcentaje de tiempo que haya estado vigente la concesión y el plazo para la reversión final en favor de la Nación, fijado en la concesión respectiva.
+El concesionario perderá, a favor de la Nación, en los casos de caducidad por las causas mencionadas en las fracciones I, II, III, IV, VIII, IX, X, XI y XIII del artículo anterior, el importe de la garantía otorgada conforme al artículo 17. Perderá, además en los casos de las fracciones II, III, IV, VIII, IX, XII y XIII del mismo artículo, una parte de los bienes reversibles, cuyo monto fijará la Secretaría de Comunicaciones y Transportes, de acuerdo con la relación que exista entre el porcentaje de tiempo que haya estado vigente la concesión y el plazo para la reversión final en favor de la Nación, fijado en la concesión respectiva.
 
 ###### ARTICULO 31.
 
@@ -334,11 +344,15 @@ En los casos de caducidad por las causas expresadas en las fracciones V, VI y VI
 
 En los casos de caducidad por las causas expresadas en las fracciones V, VI, y VII del artículo 29, si el Gobierno no considera conveniente hacer por su cuenta la explotación de la vía, procederá, en subasta pública, a la venta de ésta con todos sus bienes muebles e inmuebles, conforme a las bases siguientes:
 
-I.- La Secretaría de Comunicaciones designará peritos que hagan el avalúo de la vía de comunicación con todos sus bienes, el cual servirá de base para el remate;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- La Secretaría de Comunicaciones y Transportes designará peritos que hagan el avalúo de la vía de comunicación con todos sus bienes, el cual servirá de base para el remate;
 
 II.- Se publicarán edictos convocando para el remate, en el "Diario Oficial" de la Federación y en uno de los periódicos de mayor circulación en el país, tres veces, de diez en diez días;
 
-III.- Las posturas deberán ser aprobadas por la Secretaría de Comunicaciones;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- Las posturas deberán ser aprobadas por la Secretaría de Comunicaciones y Transportes;
 
 IV.- Para garantizar su postura, los concursantes constituirán antes de la almoneda, en el Banco de México, un depósito en efectivo del diez por ciento del valor de los bienes, conforme al avalúo pericial;
 
@@ -352,9 +366,11 @@ VIII.- Del precio de la venta se cubrirán, por su orden, las obligaciones de la
 
 IX.- En todo lo no previsto por este artículo sobre venta en pública subasta, de la vía y demás bienes, se estará a lo dispuesto en el derecho común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 34.
 
-La caducidad será declarada administrativamente por la Secretaría de Comunicaciones, conforme al procedimiento siguiente:
+La caducidad será declarada administrativamente por la Secretaría de Comunicaciones y Transportes, conforme al procedimiento siguiente:
 
 I.- La Secretaría hará saber al concesionario los motivos de caducidad que concurran, y le concederá un plazo de quince días para que presente sus pruebas y defensas;
 
@@ -384,23 +400,31 @@ Los permisos serán revocables en la forma y términos que establezcan esta ley 
 
 ### CAPITULO VI. Construcción y establecimiento de vías generales de comunicación
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 40.
 
-Las vías generales de comunicación se construirán y establecerán con sujeción a lo dispuesto en el artículo 8º de esta ley y a las prevenciones de los reglamentos sobre la materia. La Secretaría de Comunicaciones fijará en cada caso, las condiciones técnicas relacionadas con la seguridad, utilidad especial y eficiencia del servicio que deben satisfacer dichas vías.
+Las vías generales de comunicación se construirán y establecerán con sujeción a lo dispuesto en el artículo 8o. de esta Ley y a las prevenciones de los reglamentos sobre la materia. La Secretaría de Comunicaciones y Transportes fijará en cada caso, las condiciones técnicas relacionadas con la seguridad, utilidad especial y eficiencia del servicio que deben satisfacer dichas vías.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 41.
 
-No podrán ejecutarse trabajos de construcción en las vías generales de comunicación, en sus servicios auxiliares y demás dependencias y accesorios, sin la aprobación previa de la Secretaría de Comunicaciones a los planos, memoria descriptiva y demás documentos relacionados con las obras que tratan de realizarse. Las modificaciones que posteriormente se hagan se someterán igualmente a la aprobación previa de la Secretaría de Comunicaciones.
+No podrán ejecutarse trabajos de construcción en las vías generales de comunicación, en sus servicios auxiliares y demás dependencias y accesorios, sin la aprobación previa de la Secretaría de Comunicaciones y Transportes a los planos, memoria descriptiva y demás documentos relacionados con las obras que tratan de realizarse. Las modificaciones que posteriormente se hagan se someterán igualmente a la aprobación previa de la Secretaría de Comunicaciones y Transportes.
 
 Se exceptuarán de lo dispuesto en el párrafo anterior, los trabajos de urgencia, respecto de los cuales deberá rendirse un informe inmediato posterior, y los de pequeña importancia necesarios para la realización del servicio.
 
-En los casos de este artículo, la Secretaría de la Defensa Nacional asesorará, desde el punto de vista militar, a la Secretaria de Comunicaciones. Igual intervención tendrá la propia Secretaría en lo que se refiere a los caminos que, no siendo vías generales de comunicación, se encuentren dentro de la zona fronteriza de cien kilómetros o en la faja de cincuenta kilómetros a lo largo de las costas.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+En los casos de este artículo, la Secretaría de la Defensa Nacional asesorará, desde el punto de vista militar, a la Secretaría de Comunicaciones y Transportes, igual intervención tendrá la propia Secretaría en lo que se refiere a los caminos que, no siendo vías generales de comunicación, se encuentren dentro de la zona fronteriza de cien kilómetros o en la faja de cincuenta kilómetros a lo largo de las costas.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 42.
 
-Los cruzamientos de vías generales de comunicación, por otras vías o por otras obras, sólo podrán hacerse por pasos superiores o inferiores, previa aprobación de la Secretaría de Comunicaciones. La misma Secretaría podrá autorizar cruzamientos a nivel cuando las necesidades del servicio así como lo exijan.
+Los cruzamientos de vías generales de comunicación, por otras vías o por otras obras, sólo podrán hacerse por pasos superiores o inferiores, previa aprobación de la Secretaría de Comunicaciones y Transportes. La misma Secretaría podrá autorizar cruzamientos a nivel cuando las necesidades del servicio así lo exijan.
 
-Las obras de construcción, conservación y vigilancia de los cruzamientos, se harán siempre por cuenta del dueño de la vía u obra que cruce a la ya establecida, debiéndose cumplir con los requisitos que, en cada caso, fije la Secretaría de Comunicaciones.
+Las obras de construcción, conservación y vigilancia de los cruzamientos, se harán siempre por cuenta del dueño de la vía u obra que cruce a la ya establecida, debiéndose cumplir con los requisitos que, en cada caso, fije la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 43.
 
@@ -410,27 +434,35 @@ Dentro de los limites urbanizados y urbanizables de las poblaciones, las empresa
 
 En ningún caso se permitirá la construcción de edificios, líneas de trasmisión eléctricas, postes, cercas y demás obras que pudieran entorpecer el tránsito por las vías generales de comunicación. El que con cualquiera obra o trabajo invada una vía de comunicación, está obligado a demoler la obra ejecutada en la parte invadida, y a hacer las reparaciones que se requieran en la misma. La Secretaría o el concesionario, con autorización de ésta, procederá a ejecutar ambas cosas por cuenta del invasor, ya se trate de un particular, municipio o gobierno, sin perjuicio de exigirle el pago de los daños y perjuicios, si el ejecutor de la obra o trabajo no lleva a cabo la reparación mencionada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 45.
 
-Para llevar a cabo corte de árboles, desmontes, rozas, quemas, en las fajas colindantes con los caminos, vías férreas, líneas telegráficas, telefónicas, aeródromos, ríos y canales navegables y flotables, en una extensión de un kilómetro a cada lado del límite del derecho de vía o de las márgenes de los ríos y canales, las empresas de vías generales de comunicación necesitarán, además de llenar los requisitos que establezcan las leyes y reglamentos forestales respectivos, la autorización expresa de la Secretaría de Comunicaciones.
+Para llevar a cabo corte de árboles, desmontes, rozas, quemas, en las fajas colindantes con los caminos, vías férreas, líneas telegráficas, telefónicas, aeródromos, ríos y canales navegables y flotables, en una extensión de un kilómetro a cada lado del límite del derecho de vía o de los márgenes de los ríos y canales, las empresas de vías generales de comunicación necesitarán, además de llenar los requisitos que establezcan las leyes y reglamentos forestales respectivos, la autorización expresa de la Secretaría de Comunicaciones y Transportes.
 
 Las empresas que exploten comunicaciones eléctricas, tendrán derecho para desramar los árboles indispensables para evitar que se perjudiquen sus líneas sin necesidad de llenar requisito alguno.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 46.
 
-Se requerirá autorización previa de la Secretaría de Comunicaciones, en la forma y términos que establezca el reglamento respectivo, para construir obras dentro del derecho de vía de las vías generales de comunicación, o fuera del mismo derecho, cuando se afecte el uso de aquéllas, así como para instalar anuncios a hacer construcciones destinadas a servicios conexos o auxiliares con el transporte.
+Se requerirá autorización previa de la Secretaría de Comunicaciones y Transportes, en la forma y términos que establezca el reglamento respectivo, para construir obras dentro del derecho de vía de las vías generales de comunicación, o fuera del mismo derecho, cuando se afecte el uso de aquéllas, así como para instalar anuncios a hacer construcciones destinadas a servicios conexos o auxiliares con el transporte.
 
-En los terrenos adyacentes a las vías generales de comunicación, hasta en una distancia de cien metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de canteras o cualesquiera obras que requieran el empleo de explosivos o de gases nocivos. También quedan prohibidos, alrededor de los cruceros, en un perímetro de cien metros, toda clase de construcciones, e instalaciones de anuncios. La Secretaría de Comunicaciones, en casos excepcionales, podrá conceder autorizaciones para realizar trabajos de esta índole, exigiendo las garantías y seguridades que estime convenientes.
+En los terrenos adyacentes a las vías generales de comunicación, hasta en una distancia de cien metros del límite del derecho de vía, no podrán establecerse trabajos de explotación de canteras o cualesquiera obras que requieran el empleo de explosivos o de gases nocivos. También quedan prohibidos, alrededor de los cruceros, en un perímetro de cien metros, toda clase de construcciones, e instalaciones de anuncios. La Secretaría de Comunicaciones y Transportes, en casos excepcionales, podrá conceder autorizaciones para realizar trabajos de esta índole, exigiendo las garantías y seguridades que estime convenientes.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 47.
 
-Cuando la Secretaría de Comunicaciones, en los casos del artículo 52, ordene la ejecución de obras en las vías generales de comunicación, hará la notificación por oficio certificado, en el que señalará el plazo para efectuarlas. Si éstas no se hicieren dentro del término señalado, la Secretaría formulará el presupuesto respectivo, que servirá de título para cobrar, previamente, el valor de las obras, siguiendo el procedimiento administrativo de ejecución establecido por el Código Fiscal de la Federación, y procederá por sí o por medio de tercera persona a la ejecución de las obras.
+Cuando la Secretaría de Comunicaciones y Transportes, en los casos del artículo 52, ordene la ejecución de obras en las vías generales de comunicación, hará la notificación por oficio certificado, en el que señalará el plazo para efectuarlas. Si éstas no se hicieren dentro del término señalado, la Secretaría formulará el presupuesto respectivo, que servirá de título para cobrar, previamente, el valor de las obras, siguiendo el procedimiento administrativo de ejecución establecido por el Código Fiscal de la Federación y procederá por sí o por medio de tercera persona a la ejecución de las obras.
 
 ### CAPITULO VII. Explotación de vías generales de comunicación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 48.
 
-No deberá explotarse una vía general de comunicación, objeto de concesión o permiso, ni sus servicios conexos, sin que previamente autorice su funcionamiento la Secretaría de Comunicaciones, de acuerdo con las prevenciones reglamentarias.
+No deberá explotarse una vía general de comunicación, objeto de concesión o permiso, ni sus servicios conexos, sin que previamente autorice su funcionamiento la Secretaría de Comunicaciones y Transportes, de acuerdo con las prevenciones reglamentarias.
 
 Llenados los requisitos exigidos para la explotación, se otorgará desde luego la autorización para su funcionamiento.
 
@@ -446,13 +478,17 @@ La Secretaría de Comunicaciones y Transportes podrá fijar tarifas provisionale
 
 Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de las anteriores a las provisionales.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 50.
 
-La explotación de vías generales de comunicación, objeto de concesión o permiso, será hecha conforme a horarios, tarifas y reglas autorizados previamente por la Secretaría de Comunicaciones.
+La explotación de vías generales de comunicación, objeto de Concesión o permiso, será hecha conforme a horarios, tarifas y reglas autorizados previamente por la Secretaría de Comunicaciones y Transportes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 51.
 
-La Secretaría de Comunicaciones está facultada para introducir a las condiciones conforme a las cuales se haga el servicio público en las vías generales de comunicación y medios de transporte ya establecidos o que en lo sucesivo se establezcan, en su calidad de servicios públicos, todas las modalidades que dicta el interés del mismo. En consecuencia, la misma Secretaría de Comunicaciones está autorizada:
+La Secretaría de Comunicaciones y Transportes está facultada para introducir a las condiciones conforme a las cuales se haga el servicio público en las vías generales de comunicación y medios de transporte ya establecidos o que en lo sucesivo se establezcan, en su calidad de servicios públicos, todas las modalidades que dicta el interés del mismo. En consecuencia, la Secretaría de Comunicaciones y Transportes está autorizada:
 
 I.- Para ordenar, de acuerdo con las posibilidades económicas de las empresas, que se lleven a cabo en las vías de comunicación y medios de transporte, sus servicios auxiliares, sus dependencias y accesorios, las obras de construcción, de reparación y de conservación que sean necesarias para la mayor seguridad del público;
 
@@ -464,9 +500,11 @@ IV.- Para ordenar la inspección de las vías y sus dependencias, las fabricas d
 
 V.- Para obligar a las empresas de transportes a que reformen y mejoren los sistemas técnicos de explotación de sus servicios, empleando los que apruebe la Secretaría, de acuerdo con las posibilidades económicas de las empresas y dando los plazos razonables para ejecutarlos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 52.
 
-Los concesionarios o permisionarios que exploten vías generales de comunicación y medios de transporte podrán, con la previa aprobación de la Secretaría de Comunicaciones y sujetos a las restricciones que establece esta ley:
+Los concesionarios o permisionarios que exploten vías generales de comunicación y medios de transporte podrán, con la previa aprobación de la Secretaría de Comunicaciones y Transportes y sujetos a las restricciones que establece esta Ley:
 
 I.- Celebrar todos los contratos directamente relacionados con los objetos de la concesión o permiso, los que no surtirán efectos mientras no se llene el requisito de aprobación.
 
@@ -474,21 +512,29 @@ Tratándose del servicio normal que las empresas de vías deben prestar al públ
 
 II.- Explotar sus líneas en combinación con otra u otras empresas nacionales u extranjeras. Se entiende que existe combinación, cuando de común acuerdo establecen horarios, itinerarios, tarifas unidas o combinadas, expidan documentos directos, intercambien sus equipos, o ejecuten otros actos análogos con ese fin, y
 
-III.- Establecer en beneficio de los usuarios, con las condiciones y limitaciones que la Secretaría de Comunicaciones determine, todos aquellos servicios y facilidades que, sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo. Para estos servicios los concesionarios o permisionarios no disfrutarán de las franquicias que concede la presente ley, con excepción de la de carros-dormitorios.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- Establecer en beneficio de los usuarios, con las condiciones y limitaciones que la Secretaría de Comunicaciones y Transportes determine, todos aquellos servicios y facilidades que, sin ser indispensables para la comunicación o el transporte, sean incidentales o conexos con el mismo. Para estos servicios los concesionarios o permisionarios no disfrutarán de las franquicias que concede la presente Ley, con excepción de la de carros-dormitorios.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 53.
 
-Los concesionarios y permisionarios de vías generales de comunicación y medios de transporte tienen la obligación de enlazar sus vías, líneas o instalaciones con las de otras empresas y con las del Gobierno Federal, así como de combinar sus servicios con los de aquéllas y con los de éste, cuando el interés público lo exija y siempre que a juicio de la Secretaría de Comunicaciones se reúnan los requisitos técnicos necesarios para que el servicio sea eficiente. La Secretaría de Comunicaciones fijará en cada caso las bases conforme a las cuales deberán enlazarse las vías, líneas o instalaciones y hacerse el servicio combinado, oyendo previamente a los afectados.
+Los concesionarios y permisionarios de vías generales de comunicación y medios de transporte tienen la obligación de enlazar sus vías, líneas o instalaciones con las de otras empresas y con las del Gobierno Federal, así como de combinar sus servicios con los de aquéllas y con los de éste, cuando el interés público lo exija y siempre que a juicio de la Secretaría de Comunicaciones y Transportes se reúnan los requisitos técnicos necesarios para que el servicio sea eficiente. La Secretaría de Comunicaciones y Transportes fijará en cada caso las bases conforme a las cuales deberán enlazarse las vías, líneas o instalaciones y hacerse el servicio combinado, oyendo previamente a los afectados.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 54.
 
-Las empresas de vías generales de comunicación podrán explotar sus servicios o parte de ellos, conjuntamente con otra u otras empresas nacionales o extranjeras, no comprendidas en las disposiciones de esta ley, celebrando al efecto los arreglos o convenios necesarios que se someterán a la previa aprobación de la Secretaría de Comunicaciones.
+Las empresas de vías generales de comunicación podrán explotar sus servicios o parte de ellos, conjuntamente con otra u otras empresas nacionales o extranjeras, no comprendidas en las disposiciones de esta Ley, celebrando al efecto los arreglos o convenios necesarios que se someterán a la previa aprobación de la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 55.
 
 Las tarifas para el cobro de los servicios de las empresas porteadoras, comprenderán las cuotas y las condiciones conforme a las cuales deberán aplicarse, y estarán sujetas a las reglas siguientes:
 
-I.- Las tarifas y los elementos de su aplicación, como tablas de distancias, clasificaciones de efectos, tablas de mermas, etc., serán formuladas por las empresas y sometidas a la Secretaría de Comunicaciones, quien las aprobará, siempre que se encuentren de acuerdo con los preceptos de esta Ley, de su reglamento y de las concesiones respectivas.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Las tarifas y los elementos de su aplicación, como tablas de distancias, clasificaciones de efectos, tablas de mermas, etc., serán formuladas por las empresas y sometidas a la Secretaría de Comunicaciones y Transportes, quien las aprobará, siempre que se encuentren de acuerdo con los preceptos de esta Ley, de su reglamento y de las concesiones respectivas.
 
 II.- Las tarifas se formularán y aplicarán observando perfecta igualdad de tratamiento, excepto en los casos en que esta ley autorice lo contrario.
 
@@ -498,11 +544,15 @@ III.- Las tarifas y sus modificaciones entratán (sic) en vigor una vez aprobada
 
 Cuando se trate de tarifas unidas con líneas extranjeras, la Secretaría, de acuerdo con las empresas, modificarán los plazos señalados en el párrafo anterior.
 
-IV.- Las tarifas de competencia se formularán siempre que no sean a base de pérdida directa por la explotación en el tramo de la competencia. La Secretaría de Comunicaciones determinará, en cada caso, cuáles son los puntos o zonas de competencia.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- Las tarifas de competencia se formularán siempre que no sean a base de pérdida directa por la explotación en el tramo de la competencia. La Secretaría de Comunicaciones y Transportes determinará, en cada caso, cuáles son los puntos o zonas de competencia.
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. Si no lo expresan, regirán hasta la fecha que fije el documento por el cual se les cancele o modifique.
 
-Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
+Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones y Transportes de conformidad con esta Ley y su reglamento.
 
 VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
@@ -550,17 +600,19 @@ III.- Las tarifas transitorias de pasajeros en viajes de recreo;
 
 IV.- Las tarifas reducidas cuando se trate de una extensión kilométrica que el pasajero podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos;
 
-V.- El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de la Economía Nacional;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de Economía;
 
 VI.- El transporte de mercancías y personas hacia regiones pobres o poca pobladas, pero susceptibles de convertirse en centros de producción y de trabajo, a juicio del Ejecutivo Federal;
 
 VII.- Las tarifas para servicios especiales, tales como carga o descarga, transbordo, almacenaje, limpia, demoras, arrastres, alquileres de carros, trenes y coches especiales, coches salones, dormitorios y comedores, exceso de equipaje, transporte de artículos inflamables y explosivos y para aquéllos efectos y objetos que no pudiendo sujetarse a peso o medida, debido a su naturaleza, tengan que pagar fletes distintos a los de la tarifa general, como transporte de cadáveres y otros, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE AGOSTO DE 1941)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-VIII.- Tarifas reducidas a base de por cientos de la general para el transporte de mercancías destinadas a la exportación, consumo fronterizo, cabotaje de entrada y salida o de competencia de mercados, exclusivamente en los casos excepcionales que autorice la Secretaría de Comunicaciones y Obras Públicas, de acuerdo con el estudio y opinión respectivos de la Secretaría de la Economía Nacional.
+VIII.- Tarifas reducidas a base de por cientos de la general para el transporte de mercancías destinadas a la exportación, consumo fronterizo, cabotaje de entrada y salida o de competencia de mercados, exclusivamente en los casos excepcionales que autorice la Secretaría de Comunicaciones y Transportes, de acuerdo con el estudio y opinión respectivos de la Secretaría de Economía.
 
-Las tarifas especiales a que se refiere este artículo, sólo podrán ser canceladas por disposición de la Secretaría de Comunicaciones o mediante la autorización de esta, cuando así lo juzgue conveniente.
+Las tarifas especiales a que se refiere este artículo, solo podrán ser canceladas por disposición de la Secretaría de Comunicaciones y Transportes o mediante la autorización de esta, cuando así lo juzgue conveniente.
 
 ###### ARTICULO 59.
 
@@ -574,19 +626,27 @@ Las tarifas a que se refiere el artículo anterior, expresarán siempre el térm
 
 El precio de un servicio determinado, en las mismas condiciones, no podrá ser igual ni menor para una distancia más larga que para una más corta, excepto en los casos siguientes:
 
-I.- Los expresamente señalados en esta ley y sus reglamentos, en los términos y condiciones que los mismos determinen y, en su defecto, de acuerdo con lo que disponga la Secretaría de Comunicaciones, y
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II.- El de transporte y otros servicios a distancias menores de la mínima que autoricen las concesiones o la que, en su defecto, determine la Secretaría de Comunicaciones.
+I.- Los expresamente señalados en esta Ley y sus reglamentos, en los términos y condiciones que los mismos determinen y, en su defecto, determine la Secretaría de Comunicaciones y Transportes, y
 
-Para ello se tomarán como fijas las cuotas que correspondan a dichas distancias mínimas o bien el cobro mínimo que autorice la Secretaría de Comunicaciones.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- El de transporte y otros servicios a distancias menores de la mínima que autoricen las concesiones o la que, en su defecto, determine la Secretaría de Comunicaciones y Transportes.
+
+Para ello se tomarán como fijas las cuotas que correspondan a dichas distancias mínimas o bien el cobro mínimo que autorice la Secretaría de Comunicaciones y Transportes.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 62.
 
-Desde el momento en que una empresa de vías generales de comunicación o medios de transporte haya sido autorizada para poner sus líneas, instalaciones o vehículos en explotación y hayan sido aprobados sus horarios y tarifas, no podrán rehusarse a prestar el servicio correspondiente, cuando se satisfagan las condiciones de esta ley y sus reglamentos, salvo cuando la Secretaría de Comunicaciones disponga lo contrario en cumplimiento de alguna otra disposición legal, o a petición fundada de las mismas empresas.
+Desde el momento en que una empresa de vías generales de comunicación o medios de transporte haya sido autorizada para poner sus líneas, instalaciones o vehículos en explotación y hayan sido aprobados sus horarios y tarifas, no podrán rehusarse a prestar el servicio correspondiente, cuando se satisfagan las condiciones de esta Ley y sus reglamentos, salvo cuando la Secretaría de Comunicaciones y Transportes disponga lo contrario en cumplimiento de alguna otra disposición legal, o a petición fundada de las mismas empresas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 63.
 
-Los servicios públicos que presten las empresas de vías generales de comunicación, se proporcionarán por el orden en que sean solicitados y sólo podrá alterarse ese orden en los casos en que lo autorice esta ley o sus reglamentos o cuando por razones de interés público sea necesario que así se haga, a juicio de la Secretaría de Comunicaciones.
+Los servicios públicos que presten las empresas de vías generales de comunicación se proporcionarán por el orden en que sean solicitados y solo podrá alterarse ese orden en los casos en que lo autorice esta Ley o sus reglamentos o cuando por razones de interés público sea necesario que así se haga, a juicio de la Secretaría de Comunicaciones y Transportes.
 
 Para los efectos de este artículo, las empresas de transporte llevarán un registro de los pedimentos, con objeto de suministrar los vehículos vacíos por el orden en que se reciban las solicitudes respectivas.
 
@@ -594,9 +654,11 @@ Para los efectos de este artículo, las empresas de transporte llevarán un regi
 
 Las empresas de transportes están obligadas a suministrar oportuna y preferentemente, a mover con rigidez, a cargar y descargar con el cuidado debido, los vehículos que contengan animales y mercancías de fácil descomposición, como de frutas, legumbres, etc.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 65.
 
-Ninguna autoridad administrativa podrá impedir o dificultar el cumplimiento de las obligaciones relativas a la ejecución de los servicios públicos que esta ley y sus reglamentos imponen a las empresas de vías generales de comunicación, ni limitar la jurisdicción de la Secretaría de Comunicaciones en esta materia, excepto en los casos a que se refiere el Código Sanitario vigente, cuando se trate de la acción extraordinaria que en materia de salubridad debe ejercer el propio Departamento.
+Ninguna autoridad administrativa podrá impedir o dificultar el cumplimiento de las obligaciones relativas a la ejecución de los servicios públicos que esta Ley y sus reglamentos imponen a las empresas de vías generales de comunicación, ni limitar la jurisdicción de la Secretaría de Comunicaciones y Transportes en esta materia, excepto en los casos a que se refiere el Código Sanitario vigente, cuando se trate de la acción extraordinaria que en materia de salubridad debe ejercer el propio Departamento.
 
 > <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
@@ -608,9 +670,11 @@ En el momento de la contratación del servicio correspondiente, los prestadores 
 
 Si el solicitante de un servicio de transporte o comunicación, no expresara la ruta o línea, ésta será fijada por la empresa; pero el importe que se cobre será el más bajo que pueda obtenerse, de acuerdo con las tarifas aplicables, cualquiera que sea la ruta o línea que se siga, a menos que la ruta más corta o de más bajo costo estuviere interrumpida por causa de fuerza mayor, pues en este caso se cobrará el servicio por la ruta o línea que se haya usado.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 68.
 
-Las empresas que conforme a los artículos 52, 53 y 54 exploten sus líneas en combinación con otras nacionales o extranjeras, expedirán tarifas unidas, cuyas cuotas para las empresas nacionales no serán mayores que la suma de las que cada una de las empresas cobraría si hiciera el servicio independientemente. Se exceptúan las empresas que de acuerdo con el artículo 54 presten servicio urbano o suburbano de comunicación. En este caso la tarifa será la que apruebe la Secretaría de Comunicaciones.
+Las empresas que conforme a los artículos 52, 53 y 54 exploten sus líneas en combinación con otras nacionales o extranjeras, expedirán tarifas unidas, cuyas cuotas para las empresas nacionales no serán mayores que la suma de las que cada una de las empresas cobraría si hiciera el servicio independientemente. Se exceptúan las empresas que de acuerdo con el artículo 54 presten servicio urbano o suburbano de comunicación. En este caso la tarifa será la que apruebe la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 69.
 
@@ -622,9 +686,11 @@ II.- Aquel en que la tarifa sea reducida porque la empresa quede relevada de res
 
 En cualquiera de los casos a que se contraen las fracciones anteriores, es condición indispensable que la tarifa reducida a que los mismos se refieren, exista a la par que otras generales, en que no se anule o limite la responsabilidad de la empresa, pudiendo el público elegir libremente la aplicación de una o de otra tarifa.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 70.
 
-En las estaciones y oficinas de las vías generales de comunicación, deberá haber siempre, a disposición del público, para su consulta gratuita y para su venta, al precio que con aprobación de la Secretaría de Comunicaciones fijen las empresas, ejemplares de las tarifas y elementos de su aplicación.
+En las estaciones y oficinas de las vías generales de comunicación, deberá haber siempre, a disposición del público, para su consulta gratuita y para su venta, al precio que con aprobación de la Secretaría de Comunicaciones y Transportes fijen las empresas, ejemplares de las tarifas y elementos de su aplicación.
 
 ###### ARTICULO 71.
 
@@ -670,9 +736,11 @@ I.- Cuando el remitente declare una mercancía que cause un porte inferior al qu
 
 II.- Cuando el remitente declare una mercancía diferente y de valor superior a la realmente embarcada. La responsabilidad será por la mercancía contenida en la carga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 73.
 
-La Secretaría de Comunicaciones, en los términos del reglamento respectivo y oyendo a las empresas, fijará la responsabilidad de las mismas por la pérdida o avería de los bultos de equipaje con valor no declarado.
+La Secretaría de Comunicaciones y Transportes, en los términos del reglamento respectivo y oyendo a las empresas, fijará la responsabilidad de las mismas por la pérdida o avería de los bultos de equipaje con valor no declarado.
 
 Las empresas no tienen obligación de transportar como equipaje libre de porte el que se les entregue con valor declarado.
 
@@ -710,9 +778,11 @@ En el transporte de mercancías del territorio de la República a una nación ex
 
 Lo dispuesto en este artículo no priva al remitente y al tenedor de la carta de porte, de ejercer, ante los tribunales extranjeros y contra las líneas extranjeras, los derechos que les otorguen las leyes del país respectivo.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 79.
 
-La Secretaría de Comunicaciones determinará las formalidades que deban observarse en las vías generales de comunicación para la carga, descarga y transporte de las mercancías en tránsito por el territorio de la República. Cuando la aplicación de las leyes fiscales de la Federación o el control de los impuestos federales así lo requiera, la Secretaría de Hacienda y Crédito Público, de acuerdo con la de Comunicaciones, podrá asimismo, establecer requisitos y formalidades especiales para la carga, descarga y transporte de mercancías, y fijar las sanciones aplicables a las empresas.
+La Secretaría de Comunicaciones y Transportes determinará las formalidades que deban observarse en las vías generales de comunicación para la carga, descarga y transporte de las mercancías en tránsito por el territorio de la República. Cuando la aplicación de las leyes fiscales de la Federación o el control de los impuestos federales así lo requiera, la Secretaría de Hacienda y Crédito Público, de acuerdo con la de Comunicaciones y Transportes, podrá asimismo, establecer requisitos y formalidades especiales para la carga, descarga y transporte de mercancías, y fijar las sanciones aplicables a las empresas.
 
 ###### ARTICULO 80.
 
@@ -744,9 +814,11 @@ En el reglamento se fijarán los términos de duración de los transportes, pasa
 
 ### CAPITULO VIII. Personalidad y bienes de las empresas sujetas a concesión
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 86.
 
-Las bases constitutivas de las sociedades que exploten vías generales de comunicación, los estatutos y reglamentos de sus relaciones con el público, se someterán a la aprobación de la Secretaría de Comunicaciones. Sin este requisito, no podrán surtir efecto alguno, por lo que se refiere a la explotación de la vía de que se trata.
+Las bases constitutivas de las sociedades que exploten vías generales de comunicación, los estatutos y reglamentos de sus relaciones con el público, se someterán a la aprobación de la Secretaría de Comunicaciones y Transportes. Sin este requisito, no podrán surtir efecto alguno, por lo que se refiere a la explotación de la vía de que se trata.
 
 ###### ARTICULO 87.
 
@@ -800,9 +872,11 @@ En las escrituras de hipoteca y en las obligaciones hipotecarias, se hará const
 
 Los acreedores hipotecarios no tienen derecho para impedir o estorbar la explotación de la vía de comunicación o medio de transporte; tampoco pueden oponerse a las modificaciones o alteraciones que se hagan durante el plazo de la hipoteca, respecto de los edificios, de los terrenos, de la vía y del material de explotación. Sin embargo, los acreedores hipotecarios tienen el derecho de oponerse a la venta de la línea o del sistema, a la enajenación de parte del material de explotación y a la fusión con otras empresas, en caso de que se origine un peligro para la seguridad de los créditos hipotecarios.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 96.
 
-La empresa estará obligada a poner en conocimiento de la Secretaría de Comunicaciones todos los actos y contratos que pretenda ejecutar en ejercicio de los derechos que le confieren los dos artículos anteriores.
+La empresa estará obligada a poner en conocimiento de la Secretaría de Comunicaciones y Transportes todos los actos y contratos que pretenda ejecutar en ejercicio de los derechos que le confieren los dos artículos anteriores.
 
 ###### ARTICULO 97.
 
@@ -812,9 +886,11 @@ La empresa estará obligada a poner en conocimiento de la Secretaría de Comunic
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 99.
 
-Toda persona o empresa que explote vías generales de comunicación o medios de transporte, tiene la obligación de hacer saber a la Secretaría de Comunicaciones sus cambios de domicilio.
+Toda persona o empresa que explote vías generales de comunicación o medios de transporte, tiene la obligación de hacer saber a la Secretaría de Comunicaciones y Transportes sus cambios de domicilio.
 
 Las notificaciones que hayan de hacerse a empresas que no tengan apoderado o del cual se desconozca el domicilio, se tendrán por legalmente hechas, publicándolas una sola vez en el "Diario Oficial", sin perjuicio de las sanciones que correspondan conforme a esta ley.
 
@@ -852,9 +928,11 @@ Las notificaciones que hayan de hacerse a empresas que no tengan apoderado o del
 
 El Gobierno Federal podrá establecer, dentro del derecho de vía de las vías generales de comunicación, una línea de postes para colocar cables o hilos conductores de señales, así como cables subterráneos, siempre que no perjudiquen los servicios o instalaciones de dichas vías. Los materiales, obra de mano y gastos de conservación de líneas así establecidas, serán por cuenta del Gobierno Federal. Los empleados o funcionarios del Gobierno deberán observar las prevenciones de las empresas, por lo que se refiere al cumplimiento de sus funciones de vigilancia y conservación.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 108.
 
-Las empresas de ferrocarriles estarán obligadas a permitir que transiten gratuitamente sobre sus vías los vehículos ligeros que fueren necesarios para los servicios de vigilancia, inspección y conservación, de la Secretaría de Comunicaciones, o para transportes urgentes de la misma dependencia, los cuales serán manejados por personal de la propia Secretaría, el que deberá acatar, en todo caso, las disposiciones de los reglamentos respectivos.
+Las empresas de ferrocarriles estarán obligadas a permitir que transiten gratuitamente sobre sus vías los vehículos ligeros que fueren necesarios para los servicios de vigilancia, inspección y conservación, de la Secretaría de Comunicaciones y Transportes, o para transportes urgentes de la misma dependencia, los cuales serán manejados por personal de la propia Secretaría, el que deberá acatar, en todo caso, las disposiciones de los reglamentos respectivos.
 
 ###### ARTICULO 109.
 
@@ -912,9 +990,11 @@ Compete al Gobierno Federal, a través de la Secretaría de Comunicaciones y Tra
 
 La franquicia para viajar gratuitamente en los vehículos de las empresas de vías generales de comunicación y medios de transporte, se sujetará a las reglas siguientes:
 
-I.- Todos los concesionarios están obligados a transportar en sus vehículos a los inspectores de vías generales de comunicación de la Secretaría de Comunicaciones que acrediten ese carácter por medio de la credencial respectiva, aun cuando el viaje se haga en vías distintas de aquella en la cual ejerzan sus funciones. De la misma franquicia gozarán los visitadores e inspectores del servicio de Correos y Telégrafos, los trabajadores de ese ramo que viajen en comisión del servicio, así como los directores de construcciones de líneas férreas, telefónicas, telegráficas y de obras marítimas que se lleven a cabo por el Gobierno Federal. Las credenciales citadas deberán autorizarse, en todo caso, por la Secretaría de Comunicaciones y Obras Públicas o por el funcionario que ella autorice expresamente para hacerlo.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Las franquicias a que se refiere este artículo, no comprenderán las de viajar en los carros dormitorios de las empresas ferrocarrileras. Tratándose de compañías de navegación aérea, la obligación se limitará al transporte libre de pasaje, de cinco inspectores como máximo, al mes, en cada empresas y previo aviso dado por la Secretaría de Comunicaciones. Los inspectores de ferrocarriles a que se refiere el artículo 131 tendrán derecho a ocupar camas y asiento en los carros dormitorios de las líneas ferrocarrileras, y
+I.- Todos los concesionarios están obligados a transportar en sus vehículos a los inspectores de vías generales de comunicación de la Secretaría de Comunicaciones y Transportes que acrediten ese carácter por medio de la credencial respectiva, aún cuando el viaje se haga en vías distintas de aquella en la cual ejerzan sus funciones. De la misma franquicia gozarán los visitadores o inspectores del servicio de Correos y Telégrafos, los trabajadores de ese ramo que viajen en comisión del servicio, así como los directores de construcciones de líneas férreas, telefónicas, telegráficas y de obras marítimas que se lleven a cabo por el Gobierno Federal. Las credenciales citadas deberán autorizarse, en todo caso, por la Secretaría de Comunicaciones y Transportes o por el funcionario que ella autorice expresamente para hacerlo.
+
+Las franquicias a que se refiere este artículo, no comprenderán las de viajar en los carros dormitorios de las empresas ferrocarrileras. Tratándose de compañías de navegación aérea, la obligación se limitará al transporte libre de pasaje, de cinco inspectores como máximo, al mes, en cada empresa y previo aviso dado por la Secretaría de Comunicaciones y Transportes. Los inspectores de ferrocarriles a que se refiere el artículo 131 tendrán derecho a ocupar camas y asiento en los carros dormitorios de las líneas ferrocarrileras, y
 
 II.- Las empresas que exploten tranvías o autotransportes de concesión federal, están obligadas a admitir, libres de pasaje, a los mensajeros, carteros y a los miembros de la policía federal y del Distrito Federal que viajen en el desempeño de sus servicios, de acuerdo con las disposiciones reglamentarias. Las empresas que exploten servicios de comunicaciones eléctricas, incluyendo a la red nacional, estarán obligados a conceder franquicias a los inspectores de vías generales de comunicación para asuntos del servicio, con derecho a usar clave, y con las limitaciones que fije el reglamento.
 
@@ -926,35 +1006,47 @@ Es incompatible el cargo de inspector con cualquiera comisión o empleo de los c
 
 Las empresas que exploten vías generales de comunicación presentarán a la Secretaría de Comunicaciones, anualmente, un informe que contenga, con referencia a los doce meses anteriores, los datos técnicos, administrativos o estadísticos de las empresas, que permitan conocer la forma de explotar dichas vías en relación con los intereses públicos y del Gobierno, sin perjuicio de proporcionar también, en cualquier tiempo, aquellos datos o documentos que requiera la propia Secretaría. Los datos contables se proporcionarán en las épocas que señalen los reglamentos respectivos, sin perjuicio de la facultad que concede a la Secretaría el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 121.
 
-Las empresas de vías generales de comunicación están obligadas igualmente a proporcionar a los inspectores de la Secretaría de Comunicaciones y Obras Públicas debidamente acreditados, todos los informes o datos que sean necesarios para llenar su cometido; a mostrarles planos, expedientes, estudios, guías, libros de actas, de contabilidad, auxiliares y todos los documentos concernientes a la situación material, económica y financiera de esas empresas, sin limitación ni restricción alguna, así como a darles acceso a sus oficinas, almacenes, bodegas, talleres y demás dependencias. Todos los datos que los inspectores obtengan serán estrictamente confidenciales y sólo los darán a conocer a la propia Secretaría de Comunicaciones.
+Las empresas de vías generales de comunicación están obligadas igualmente a proporcionar a los inspectores de la Secretaría de Comunicaciones y Transportes debidamente acreditados, todos los informes o datos que sean necesarios para llenar su cometido; a mostrarles planos, expedientes, estudios, guías, libros de actas, de contabilidad, auxiliares y todos los documentos concernientes a la situación material, económica y financiera de esas empresas, sin limitación ni restricción alguna, así como a darles acceso a sus oficinas, almacenes, bodegas, talleres y demás dependencias. Todos los datos que los inspectores obtengan serán estrictamente confidenciales y sólo los darán a conocer a la propia Secretaría de Comunicaciones y Transportes.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 122.
 
-Se prohibe estrictamente a las empresas de vías generales de comunicaciones y medios de transporte, así como a las Oficinas de Correos y Telégrafos, proporcionar a persona alguna o a autoridades distintas de la Secretarías de Comunicaciones, de Hacienda y Crédito Público, de la Economía Nacional y de las Judiciales o del Trabajo competentes, datos relativos a la explotación de dichas empresas, a las mercancías que transporten y sus destinos, y a las correspondencias, postal y telegráfica cuando se trate de los servicios de las oficinas de Correos y Telégrafos, a menos de que la Secretaría de Comunicaciones las autorice expresamente.
+Se prohíbe estrictamente a las empresas de vías generales de comunicaciones y medios de transporte, así como a las Oficinas de Correos y Telégrafos, proporcionar a persona alguna o a autoridades distintas de las Secretarías de Comunicaciones y Transportes, de Hacienda y Crédito Público, de Economía y de las Judiciales o del Trabajo y Previsión Social competentes, datos relativos a la explotación de dichas empresas, a las mercancías que transporten y sus destinos, y a las correspondencias, postal y telegráfica cuando se trate de los servicios de las oficinas de Correos y Telégrafos, a menos de que la Secretaría de Comunicaciones y Transportes las autorice expresamente.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 1940)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 123.
 
-Los concesionarios de Vías Generales de Comunicación, contribuirán para los gastos de servicio de Inspección, con la cantidad que se determine en las concesiones respectivas y cuando en estas no se haya determinado, será fijada por la Secretaría de Comunicaciones.
+Los concesionarios de Vías Generales de Comunicación, contribuirán para los gastos de servicio de Inspección, con la cantidad que se determine en las concesiones respectivas y cuando en estas no se haya determinado, será fijada por la Secretaría de Comunicaciones y Transportes.
 
 ### CAPITULO XI. Reglas generales
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 124.
 
-Las maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en las zonas federales, se considerarán como actividades conexas con las vías generales de comunicación. En consecuencia, para realizarlas se requerirá permiso de la Secretaría de Comunicaciones y Obras Públicas.
+Las maniobras de carga, descarga, estiba, desestiba, alijo, acarreo, almacenaje y transbordo que se ejecuten en las zonas federales, se considerarán como actividades conexas con las vías generales de comunicación. En consecuencia, para realizarlas se requerirá permiso de la Secretaría de Comunicaciones y Transportes.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 Los titulares de los permisos para la ejecución de maniobras de servicio público quedarán sujetos a la jurisdicción de la propia Secretaría en lo que se refiere a la clasificación de efectos, responsabilidades por demora, pérdidas, mermas y averías y, en general, para todo lo relativo a sus relaciones con el público. Quedarán sujetos, asimismo, a las disposiciones sobre tarifas y demás aplicables del libro primero de esta ley.
 
-La Secretaría de Comunicaciones y Obras Públicas expedirá los permisos a que se refiere el párrafo anterior, preferentemente a empresas individuales o colectivas constituídas por agentes aduanales, comisionistas, agentes consignatarios, armadores, agentes navieros o grupos de trabajadores, cualquiera que sea el tipo de organización legal que adopten.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La Secretaría de Comunicaciones y Transportes expedirá los permisos a que se refiere el párrafo anterior, preferentemente a empresas individuales o colectivas constituidas por agentes aduanales, comisionistas, agentes consignatarios, armadores, agentes navieros o grupos de trabajadores, cualquiera que sea el tipo de organización legal que adopten.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
 Las relaciones entre los permisionarios del servicio público de maniobras con sus trabajadores se regirán, en su caso, por las disposiciones de la Ley Federal del Trabajo.
 
-Los permisos para la ejecución de maniobras de servicio particular se otorgarán a quienes pretendan mover sus propias mercancías o efectos. Las relaciones de estos permisionarios en las agrupaciones o con los trabajadores que ejecuten las labores a que se refiere este artículo, se regirán por la Ley Federal de Trabajo. La Secretaría de Comunicaciones y Obras Públicas antes de expedir estos permisos deberá oír a las agrupaciones o trabajadores que pudiera resultar afectados.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Los permisos para la ejecución de maniobras de servicio particular se otorgarán a quienes pretendan mover sus propias mercancías o efectos. Las relaciones de estos permisionarios en las agrupaciones o con los trabajadores que ejecuten las labores a que se refiere este artículo, se regirán por la Ley Federal del Trabajo. La Secretaría de Comunicaciones y Transportes antes de expedir estos permisos deberá oír a las agrupaciones o trabajadores que pudieran resultar afectados.
 
 ###### ARTICULO 125.
 
@@ -2148,11 +2240,13 @@ La Secretaría de Comunicaciones y Transportes resolverá administrativamente to
 
 ### CAPITULO XVII. Del Registro Aeronáutico Mexicano
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 371.
 
-La Secretaría de Comunicaciones llevará un registro que se denominará Registro Aeronáutico Mexicano en el cual se inscribirán:
+La Secretaría de Comunicaciones y Transportes llevará un registro que se denominará Registro Aeronáutico Mexicano en el cual se inscribirán:
+
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, los demás derechos reales o la posesión, así como los arrendamientos o alquileres sobre:
 
@@ -2238,23 +2332,31 @@ III.- A los mensajes a que se refiere el artículo 23 de la Ley Orgánica de los
 
 IV.- A las comunicaciones que señalen los reglamentos especiales.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 385.
 
-Toda instalación eléctrica, aun cuando no esté destinada a la Comunicación, se sujetará a las disposiciones que dicte la Secretaría de Comunicaciones para evitar perturbaciones a la comunicación por radio.
+Toda instalación eléctrica, aún cuando no esté destinada a la Comunicación, se sujetará a las disposiciones que dicte la Secretaría de Comunicaciones y Transportes para evitar perturbaciones a la comunicación por radio.
 
 ### CAPITULO II. De la Red Nacional
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 386.
 
-La Red Nacional está integrada por las instalaciones de comunicación eléctrica pertenecientes a la Federación y destinadas al servicio público. Son servicios de dicha red la expedición de telegramas, giros, la transmisión de conferencias, cotizaciones mercantiles, comunicaciones telegráficas y demás servicios especiales que señalen los reglamentos. Las cuotas por servicios de la Red Nacional, cuando éstos no sean los que el artículo 11 de esta Ley reserva exclusivamente al Gobierno Federal, no podrán ser inferiores a las cuotas aprobadas por la Secretaría de Comunicaciones para Servicios semejantes prestados por empresas privadas.
+La Red Nacional está integrada por las instalaciones de comunicación eléctrica pertenecientes a la Federación y destinadas al servicio público. Son servicios de dicha red la expedición de telegramas, giros, la transmisión de conferencias, cotizaciones mercantiles, comunicaciones telegráficas y demás servicios especiales que señalen los reglamentos. Las cuotas por servicios de la Red Nacional, cuando éstos no sean los que el artículo 11 de esta Ley reserva exclusivamente al Gobierno Federal, no podrán ser inferiores a las cuotas aprobadas por la Secretaría de Comunicaciones y Transportes para servicios semejantes prestados por empresas privadas.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 387.
 
-La Secretaría de Comunicaciones, para los servicios de la Red Nacional, tendrá facultad de ocupar con sus líneas los terrenos, edificios y construcciones de propiedad federal, así como los de los Estados y Municipios, previo acuerdo con los mismos. Tratándose de propiedades particulares y en caso de no llegarse a un arreglo, se procederá de acuerdo con lo que previene el Capítulo IV del Libro Primero de esta Ley. La Secretaría tendrá asimismo derecho para mandar desramar o derribar los árboles que juzgue indispensables, a fin de evitar que perjudiquen a las comunicaciones eléctricas de propiedad federal. Las autoridades de la República están obligadas, en la esfera de sus atribuciones, a prestar las facilidades necesarias al personal dependiente de la Dirección General de Correos y Telégrafos para la conservación y reparación de las líneas de la Red Nacional.
+La Secretaría de Comunicaciones y Transportes, para los servicios de la Red Nacional, tendrá facultad de ocupar con sus líneas los terrenos, edificios y construcciones de propiedad federal, así como los de los Estados y Municipios, previo acuerdo con los mismos. Tratándose de propiedades particulares y en caso de no llegarse a un arreglo, se procederá de acuerdo con lo que previene el Capítulo IV del Libro Primero de esta Ley. La Secretaría tendrá asimismo derecho para mandar desramar o derribar los árboles que juzgue indispensables, a fin de evitar que perjudiquen a las comunicaciones eléctricas de propiedad federal. Las autoridades de la República están obligadas, en la esfera de sus atribuciones, a prestar las facilidades necesarias al personal dependiente de la Dirección General de Correos y Telégrafos para la conservación y reparación de las líneas de la Red Nacional.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 388.
 
-La Secretaría de Comunicaciones podrá ordenar que sean modificadas en su altura o cambiadas de trazo o de lugar en los trayectos indispensables, las líneas de señales o ministradores que obstruccionen la buena comunicación de la Red Nacional y el normal funcionamiento de las demás instalaciones eléctricas, así como señalar a las empresas y propietarios de aquéllas un plazo prudente para la ejecución de los trabajos; en la inteligencia de que la misma Secretaría podrá mandar efectuar dichos cambios por cuenta de las empresas o propietarios, en caso de no ser ejecutados dentro de los plazos señalados, conforme a lo dispuesto en el artículo 47.
+La Secretaría de Comunicaciones y Transportes podrá ordenar que sean modificadas en su altura o cambiadas de trazo o de lugar en los trayectos indispensables, las líneas de señales o ministradores que obstruccionen la buena comunicación de la Red Nacional y el normal funcionamiento de las demás instalaciones eléctricas, así como señalar a las empresas y propietarios de aquéllas un plazo prudente para la ejecución de los trabajos; en la inteligencia de que la misma Secretaría podrá mandar efectuar dichos cambios por cuenta de las empresas o propietarios, en caso de no ser ejecutados dentro de los plazos señalados, conforme a lo dispuesto en el artículo 47.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -2382,15 +2484,19 @@ Las instalaciones de aficionados se autorizarán exclusivamente para iniciarse e
 
 Toda embarcación de más de quinientas toneladas de registro bruto y las de cualquier tonelaje cuando transporten cincuenta o más personas, incluyendo la tripulación, siempre que hagan tráfico de altura o cabotaje, estarán dotadas de aparatos de radiocomunicación para recibir y transmitir. Las embarcaciones de más de veinte y menos de quinientas toneladas brutas de registro, que hagan el tráfico citado, estarán dotadas de un aparato receptor de radiotelefonía.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 417.
 
-No se permitirá la salida de embarcaciones o aeronaves que conforme al artículo anterior deban estar provistas de instalaciones de radiocomunicación, si carecen de ella o si el funcionamiento de las mismas fuera deficiente, a juicio de los inspectores de la Secretaría de Comunicaciones, o si no conducen a bordo los operadores necesarios.
+No se permitirá la salida de embarcaciones o aeronaves que conforme al artículo anterior deben estar provistas de instalaciones de radiocomunicación, si carecen de ella o si el funcionamiento de las mismas fuera deficiente, a juicio de los inspectores de la Secretaría de Comunicaciones y Transportes, o si no conducen a bordo los operadores necesarios.
 
 ###### ARTICULO 418.
 
 El servicio de correspondencia sujeto a tarifas que procedan de las estaciones de a bordo o que se destine a ellas, se regirá por las disposiciones de las Convenciones Internacionales respectivas en las que haya tomado parte el Gobierno Mexicano.
 
-Los propietarios de barcos y aeronaves constituirán el depósito que fije la Secretaría de Comunicaciones para garantizar el pago del servicio de correspondencia sujeto a tarifa.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Los propietarios de barcos y aeronaves constituirán el depósito que fije la Secretaría de Comunicaciones y Transportes para garantizar el pago del servicio de correspondencia sujeto a tarifa.
 
 ###### ARTICULO 419.
 
@@ -2958,23 +3064,25 @@ Ojetos (sic) prohibidos
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 523.
 
-El que sin concesión o permiso de la Secretaría de Comunicaciones y Obras Públicas construya o explote vías federales de comunicación, perderá en beneficio de la Nación, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de cincuenta a cinco mil pesos, a juicio de la misma Secretaría. Igual sanción tendrá el que ocupe la zona federal y la playa de las vías flotables o navegables sin la autorización de la Secretaría de Comunicaciones.
+El que sin concesión o permiso de la Secretaría de Comunicaciones y Transportes construya o explote vías federales de comunicación, perderá en beneficio de la Nación, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de cincuenta a cinco mil pesos, a juicio de la misma Secretaría. Igual sanción tendrá el que ocupe la zona federal y la playa de las vías flotables o navegables sin la autorización de la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 524.
 
 Para la aplicación de las sanciones a que se refiere el artículo anterior, se observará el procedimiento siguiente:
 
-Tan luego como la Secretaría de Comunicaciones tenga conocimiento de la infracción, procederá al aseguramiento de las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación de la vía de comunicación, ocupación de la zona federal o playas, de las vías flotables o navegables, poniéndolos bajo la guarda de un interventor especial, previo inventario que se formule. Posteriormente al aseguramiento se concederá un plazo de diez días al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; y pasado dicho término la Secretaría de Comunicaciones dictará la resolución que corresponda.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+Tan luego como la Secretaría de Comunicaciones y Transportes tenga conocimiento de la infracción, procederá al aseguramiento de las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación de la vía de comunicación, ocupación de la zona federal o playas, de las vías flotables o navegables, poniéndolos bajo la guarda de un interventor especial, previo inventario que se formule. Posteriormente al aseguramiento se concederá un plazo de diez días al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; y pasado dicho término la Secretaría de Comunicaciones y Transportes dictará la resolución que corresponda.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 525.
 
-El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de comunicación, pagará una multa de cincuenta a dos mil pesos a juicio de la Secretaría de Comunicaciones, más los daños y perjuicios que se hubieren ocasionado.
+El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de comunicación, pagará una multa de cincuenta a dos mil pesos a juicio de la Secretaría de Comunicaciones y Transportes, más los daños y perjuicios que se hubieren ocasionado.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -2982,11 +3090,11 @@ El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de
 
 La infracción del artículo 48 de esta ley se sancionará con multa de doscientos a mil pesos, sin perjuicio de que la Secretaría acuerde la suspensión de los servicios en los casos en que lo estime conveniente.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 527.
 
-La expedición o aplicación de horarios, tarifas y demás documentos relacionados con el público que no hayan sido previamente aprobados por la Secretaría de Comunicaciones, se castigará con multa de cien a mil pesos, por cada infracción.
+La expedición o aplicación de horarios, tarifas y demás documentos relacionados con el público que no hayan sido previamente aprobados por la Secretaría de Comunicaciones y Transportes, se castigará con una multa de cien a mil pesos, por cada infracción.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -3004,11 +3112,11 @@ I.- A las empresas que no cumplan con la obligación de publicar sus tarifas com
 
 II.- A las empresas que se nieguen a establecer tarifas unidas y en virtud de esa negativa, continúen aplicando tarifas locales.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 530.
 
-Los errores en la aplicación de las tarifas no están comprendidos en las disposiciones penales de esta ley; pero las empresas estarán obligadas a devolver lo que hayan cobrado indebidamente y si se rehusaren a hacerlo, se les impondrá multa de cincuenta a dos mil pesos, a juicio de la Secretaría de Comunicaciones.
+Los errores en la aplicación de las tarifas no están comprendidos en las disposiciones penales de esta Ley; pero las empresas estarán obligadas a devolver lo que hayan cobrado indebidamente y si se rehusaren a hacerlo, se les impondrá multa de cincuenta a dos mil pesos, a juicio de la Secretaría de Comunicaciones y Transportes.
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
@@ -3084,11 +3192,11 @@ Si se ocasionaren los accidentes mencionados, se aplicarán las reglas de acumul
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, D.O.F. 22 DE DICIEMBRE DE 1993)
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 541.
 
-La infracción a los artículos 64 y 132 se sancionará con multa hasta por la cantidad de cinco mil pesos a juicio de la Secretaría de Comunicaciones.
+La infracción a los artículos 64 y 132 se sancionará con multa hasta por la cantidad de cinco mil pesos a juicio de la Secretaría de Comunicaciones y Transportes.
 
 ###### ARTICULO 542.
 
@@ -3206,13 +3314,11 @@ II.- Al piloto, comandante o miembro de la tripulación en los casos de las frac
 
 III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspensión hasta por seis meses de la licencia respectiva.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 566.
 
-Se impondrá multa de cincuenta a cinco mil pesos y prisión hasta por seis meses, al comandante o piloto de una aeronave, cuando realice vuelos después de que la aeronave haya sufrido reparaciones o modificaciones en su planeador, motores o hélices, sin haber pasado la inspección y obtenido la aprobación de la Secretaría de Comunicaciones, en los términos que establezca el reglamento.
+Se impondrá multa de cincuenta a cinco mil pesos y prisión hasta por seis meses, al comandante o piloto de una aeronave, cuando realice vuelos después de que la aeronave haya sufrido reparaciones o modificaciones en su planeador, motores o hélices, sin haber pasado la inspección y obtenido la aprobación de la Secretaría de Comunicaciones y Transportes, en los términos que establezca el reglamento.
 
 ###### ARTICULO 567.
 
@@ -3338,21 +3444,21 @@ Los funcionarios o empleados de Correos y Telégrafos que utilicen en asuntos ex
 
 Las órdenes de prisión dictadas contra empleados del Correo y del Telégrafo que manejen fondos públicos, no podrán ser ejecutadas antes de que los empleados hagan entrega formal de los fondos y valores que estuvieren a su cuidado, así como de los comprobantes relativos a su cuenta, sin perjuicio de asegurar convenientemente al responsable.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 590.
 
-Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente prevista en este capítulo, será sancionada por la Secretaría de Comunicaciones, con multa hasta de cincuenta mil pesos.
+Cualquiera otra infracción a esta Ley o a sus reglamentos que no esté expresamente previstas en este capítulo, será sancionada por la Secretaría de Comunicaciones y Transportes, con multa hasta de cincuenta mil pesos.
 
 > <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 ARTICULO 590 BIS.- Los ingresos derivados por concepto de multas impuestas por infringir disposiciones legales o reglamentarias en materia de tránsito en caminos y puentes federales, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 591.
 
-Toda persona o empresa tiene derecho para poner en conocimiento de la Secretaría de Comunicaciones, cualquiera violación de esta Ley. Si de las averiguaciones practicadas por ésta, apareciere que el hecho denunciado como falta constituye delito, se hará la consignación a la autoridad competente.
+Toda persona o empresa tiene derecho para poner en conocimiento de la Secretaría de Comunicaciones y Transportes, cualquiera violación de esta Ley. Si de las averiguaciones practicadas por ésta, apareciere que el hecho denunciado como falta constituye delito, se hará la consignación a la autoridad competente.
 
 ###### ARTICULO 592.
 
@@ -3815,3 +3921,9 @@ SEXTO. La Secretaría de Hacienda y Crédito Público en coordinación con las d
 SÉPTIMO. Los procedimientos y recursos administrativos iniciados antes de la entrada en vigor de las presentes reformas, se seguirán hasta su conclusión definitiva por y ante la autoridad que se presentaron de acuerdo con los ordenamientos vigentes al momento que iniciaron.
 
 OCTAVO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
