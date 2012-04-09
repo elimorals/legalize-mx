@@ -4,7 +4,7 @@ identifier: "LFGFAGA"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-31"
-last_updated: "2005-05-12"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFGFAGA"
 ---
 # LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA
 
-LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA
+LEY QUE CREA EL FONDO DE GARANTÍA Y FOMENTO PARA LA AGRICULTURA, GANADERÍA Y AVICULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1954.
 
@@ -38,7 +38,7 @@ DECRETO:
 
 LEY QUE CREA EL FONDO DE GARANTIA Y FOMENTO PARA LA AGRICULTURA, GANADERIA Y AVICULTURA.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO DÉCIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTÍCULO.</small>
 
 > <small>(F. DE E., D.O.F. 4 DE MARZO DE 1955)</small>
 
@@ -130,9 +130,11 @@ El Fiduciario se subrogará en los derechos de la institución de banca múltipl
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, PUBLICADA EN EL D.O.F. 23 DE DICIEMBRE DE 1993, SE DEJA SIN EFECTO, EN LO REFERENTE AL BANCO DE MEXICO, LO PREVISTO EN EL PRESENTE ARTICULO.</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 8o.
 
-Se crea un Comité Técnico integrado por nueve miembros nombrados respectivamente por la Secretaría de Hacienda y Crédito Público, la Secretaría de Agricultura y Ganadería, el Banco de México, S. A., el Banco Nacional de Comercio Exterior, la Asociación de Banqueros de México, el Consorcio del Seguro Agrícola y un representante de los ejidatarios, otro de los pequeños agricultores y uno de los ganaderos que serán designados por el Ejecutivo. El Comité tendrá las siguientes facultades:
+Se crea un Comité Técnico integrado por nueve miembros nombrados respectivamente por la Secretaría de Hacienda y Crédito Público, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, el Banco de México, S.A., el Banco Nacional de Comercio Exterior, la Asociación de Banqueros de México, el Consorcio del Seguro Agrícola y un representante de los ejidatarios, otro de los pequeños agricultores y uno de los ganaderos que serán designados por el Ejecutivo. El Comité tendrá las siguientes facultades:
 
 I.- Aprobar las operaciones que se realicen con cargo al Fondo, en los términos de esta ley, de las reglas de operación y del contrato de fideicomiso respectivos.
 
@@ -192,11 +194,11 @@ Rodolfo González Guevara, D. P.- Teófilo Borunda, S. P.- Ramón García Ruíz,
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos cincuenta y cuatro.- Adolfo Ruíz Cortines.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Carrillo Flores.- Rúbrica.- El Secretario de Agricultura y Ganadería, Gilberto Flores Muñoz.- Rúbrica.- El Secretario de Gobernación, Angel Carvajal.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE DICIEMBRE DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, .
 
@@ -213,3 +215,9 @@ D.O.F. 12 DE MAYO DE 2005.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Para los efectos del presente Decreto, las Uniones de Crédito que reciban de sus socios depósitos de ahorro, deberán ajustarse a los plazos, requisitos, términos y condiciones que establece la Ley de Ahorro y Crédito Popular, así como sus reformas subsecuentes.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
