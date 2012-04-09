@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2009-06-24"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -712,9 +712,13 @@ VI. Los demás bienes, recursos y derechos que adquiera por cualquier título, d
 
 El Instituto Nacional de las Personas Adultas Mayores contará con una Contraloría Interna, órgano interno de control, al frente del cual su titular designado en los términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de responsabilidades, auditoría y quejas, designados en los mismos términos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Entidades Paraestatales, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las ausencias del Contralor Interno, así como las de los titulares de las áreas de responsabilidades, auditoría y quejas, serán suplidas conforme a lo previsto por el Reglamento Interior de la Secretaría de la Función Pública.
 
 El Instituto proporcionará al titular del órgano interno de control, los recursos humanos y materiales que requieran para la atención de los asuntos a su cargo. Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano para el desempeño de sus funciones.
 
@@ -809,3 +813,9 @@ D.O.F. 24 DE JUNIO DE 2009.
 Primero.- El presente Decreto entrará en vigor en la fecha de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las acciones que, en cumplimiento a lo dispuesto en este Decreto y en razón de su competencia, corresponda ejecutar al Instituto Nacional de las Personas Adultas Mayores, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
