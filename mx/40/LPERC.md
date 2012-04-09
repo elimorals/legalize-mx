@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2012-01-10"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -512,11 +512,11 @@ Este premio será entregado en ceremonia pública y solemne por el Presidente de
 
 El Premio Nacional de Demografía, se otorgará como reconocimiento a profesionales de esta disciplina, por los ensayos e investigaciones que contribuyan al conocimiento y a la solución de los problemas demográficos de México.
 
-> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 53.
 
-El premio se conferirá anualmente y se tramitará ante la Secretaría de Gobernación, por conducto del correspondiente Consejo de Premiación, que será integrado por el Titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Programación y Presupuesto, de Desarrollo Urbano y Ecología, de Educación Pública, de Salud, del Trabajo y Previsión Social, y de la Reforma Agraria.
+El premio se conferirá anualmente y se tramitará ante la Secretaría de Gobernación, por conducto del correspondiente Consejo de Premiación, que será integrado por el Titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Medio Ambiente y Recursos Naturales, de Educación Pública, de Salud, del Trabajo y Previsión Social, y de la Reforma Agraria.
 
 > <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
@@ -734,9 +734,11 @@ El premio consistirá en medalla y se complementará con entrega en numerario o 
 
 Son acreedores a este premio quienes desinteresadamente y por propia voluntad, con sacrificio económico o de su tiempo o comodidad, hayan realizado o estén realizando actos de manifiesta solidaridad humana que contribuyan al bienestar y propicien el desarrollo de la comunidad ya sea cooperando al remedio o alivio de necesidades en casos de catástrofes o de siniestros; ya sea prestando ayuda o asistencia a sectores o sujetos socialmente marginados, inhabilitados u oprimidos.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 78.
 
-Este premio se tramitará en la Secretaría de Salubridad y Asistencia, cuyo titular presidirá el correspondiente Consejo de Premiación. Este se integrará, además, con representantes de las Secretarías de Educación Pública, de la Reforma Agraria, de la Defensa Nacional, de Marina, y del Instituto Mexicano del Seguro Social.
+Este premio se tramitará en la Secretaría de Salud, cuyo titular presidirá el correspondiente Consejo de Premiación. Éste se integrará, además con representantes de las Secretarías de Educación Pública, de la Reforma Agraria, de la Defensa Nacional, de Marina, y del Instituto Mexicano del Seguro Social.
 
 ###### ARTICULO 79.
 
@@ -1295,3 +1297,9 @@ Cuarto. Cuando el primer domingo del mes de diciembre al que se refiere el artí
 D.O.F. 10 DE ENERO DE 2012.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
