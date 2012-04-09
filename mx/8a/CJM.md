@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "2011-11-16"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "CJM"
 ---
 # CODIGO DE JUSTICIA MILITAR
 
-CODIGO DE JUSTICIA MILITAR
+CÓDIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -98,9 +98,11 @@ El Supremo Tribunal Militar, tendrá un secretario de acuerdos, general brigadie
 
 Para ser secretario de acuerdos o secretario auxiliar, se requiere: ser mayor de veinticinco años, tener por lo menos tres años de práctica profesional en la administración de justicia militar el primero y dos el segundo, y además los requisitos que las fracciones I, III y V del artículo 4o. mencionan.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 7o.
 
-La Secretaría de Guerra y Marina nombrará al presidente y magistrados del Supremo Tribunal Militar, por acuerdo del Presidente de la República; los secretarios y personal subalterno del mismo, serán nombrados por la propia Secretaría. La protesta se otorgará por el presidente y los magistrados, ante la referida Secretaría de Guerra y Marina y por los secretarios y personal subalterno, ante el citado Supremo Tribunal.
+La Secretaría de la Defensa Nacional nombrará al presidente y magistrados del Supremo Tribunal Militar, por acuerdo del Presidente de la República; los secretarios y personal subalterno del mismo, serán nombrados por la propia Secretaría. La protesta se otorgará por el presidente y los magistrados, ante la referida Secretaría de la Defensa Nacional y por los secretarios y personal subalterno, ante el citado Supremo Tribunal.
 
 ###### ARTICULO 8o.
 
@@ -124,19 +126,25 @@ Los Consejos de Guerra Ordinarios se integrarán con militares de guerra, y se c
 
 Los consejos de guerra ordinarios residirán en las plazas en donde existan juzgados militares permanentes y tendrán la misma jurisdicción que éstos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 12.
 
-Los consejos de guerra ordinarios funcionarán por semestres, sin que puedan actuar dos períodos consecutivos en la misma jurisdicción, sin perjuicio de que la Secretaría de Guerra y Marina prolongue el período referido.
+Los consejos de guerra ordinarios funcionarán por semestres sin que puedan actuar dos períodos consecutivos en la misma jurisdicción, sin perjuicio de que la Secretaría de la Defensa Nacional prolongue el período referido.
 
 Se nombrarán dos para la capital de la República, y uno para cada una de las demás plazas donde radiquen juzgados permanentes.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 13.
 
-Tanto el presidente como los vocales propietarios y suplentes de los consejos de guerra ordinarios, serán nombrados por la Secretaría de Guerra y Marina, y mientras tuvieren ese encargo, no podrán desempeñar comisiones del servicio de plaza.
+Tanto el presidente como los vocales propietarios y suplentes de los consejos de guerra ordinarios, serán nombrados por la Secretaría de la Defensa Nacional, y mientras tuvieren ese encargo, no podrán desempeñar comisiones del servicio de plaza.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 14.
 
-Cuando un acusado fuere de superior categoría militar a la de uno o varios de los miembros de un consejo de guerra o en el caso de impedimento o falta accidental de cualquiera de ellos, se integrará el tribunal, conforme a las reglas mandadas observar en el libro tercero, con los suplentes que fueren necesarios, para que todos sus miembros resulten de igual o superior categoría a la del acusado, y si ese medio no fuere suficiente para ello, la Secretaría de Guerra y Marina designará los que deban integrar el consejo. Esta designación se hará por sorteo, de entre una lista de los generales hábiles para desempeñar ese servicio, formada a razón de tres por cada uno de los que deban ser sorteados y residan en el lugar en que haya de celebrarse el juicio o en el más cercano; y si ni así se lograre la integración, la propia Secretaría de Guerra y Marina, habilitará con el grado correspondiente a los militares que, estando en aptitud de desempeñar el cargo, tengan grado inmediato inferior al acusado.
+Cuando un acusado fuere de superior categoría militar a la de uno o varios de los miembros de un consejo de guerra o en el caso de impedimento o falta accidental de cualquiera de ellos, se integrará el tribunal, conforme a las reglas mandadas observar en el libro tercero, con los suplentes que fueren necesarios, para que todos sus miembros resulten de igual o superior categoría a la del acusado, y si ese medio no fuere suficiente para ello, la Secretaría de la Defensa Nacional designará los que deban integrar el consejo. Esta designación se hará por sorteo, de entre una lista de los generales hábiles para desempeñar ese servicio, formada a razón de tres por cada uno de los que deban ser sorteados y residan en el lugar en que haya de celebrarse el juicio o en el más cercano; y si ni así se lograre la integración, la propia Secretaría de la Defensa Nacional, habilitará con el grado correspondiente a los militares que, estando en aptitud de desempeñar el cargo, tengan grado inmediato inferior al acusado.
 
 ###### ARTICULO 15.
 
@@ -170,9 +178,11 @@ Tan pronto como terminen las operaciones de la campaña, el sitio o el bloqueo d
 
 El jefe militar que convoque un consejo de guerra extraordinario en lugar en donde no residieren funcionarios permanentes del servicio de justicia, designará, de entre los abogados titulados que en él radiquen, las personas que deben fungir como juez instructor, secretario y agente del Ministerio Público. Si no hubiere abogados o habiéndolos, existieren graves razones para no hacer de entre ellos la designación, nombrará para el desempeño de esos cargos a militares de guerra, haciendo constar, por medio de información especial, la falta de abogados o los fundamentos que hubiere tenido, para no designar a ninguno de los residentes.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 22.
 
-Los jefes militares que ejerzan las facultades a que se contrae el artículo anterior, deberán dar cuenta de sus actos, tan luego como les sea posible, a la Secretaría de Guerra y Marina.
+Los jefes militares que ejerzan las facultades a que se contrae el artículo anterior, deberán dar cuenta de sus actos, tan luego como les sea posible, a la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 23.
 
@@ -192,13 +202,17 @@ Para ser juez se requieren los mismos requisitos que para ser secretario de acue
 
 Para ser secretario de juzgado se requiere, ser mayor de edad, y además, satisfacer las condiciones señaladas en las fracciones I, III y V del artículo 4o.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 27.
 
-Los jueces, el secretario y el personal subalterno de los juzgados, serán designados por la Secretaría de Guerra y Marina. Los jueces residentes en la capital de la República, otorgarán la protesta de ley, ante el Supremo Tribunal Militar, los jueces foráneos, ante el mismo Supremo Tribunal o ante el comandante de la guarnición de la plaza en que deban radicar; el secretario y demás empleados, ante el juez respectivo.
+Los jueces, el secretario y el personal subalterno de los juzgados, serán designados por la Secretaría de la Defensa Nacional. Los jueces residentes en la capital de la República, otorgarán la protesta de ley, ante el Supremo Tribunal Militar, los jueces foráneos, ante el mismo Supremo Tribunal o ante el comandante de la guarnición de la plaza en que deban radicar; el secretario y demás empleados, ante el juez respectivo.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Habrá el número de jueces que sean necesarios para el servicio de justicia, con la jurisdicción que determine la Secretaría de Guerra y Marina.
+Habrá el número de jueces que sean necesarios para el servicio de justicia, con la jurisdicción que determine la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 29.
 
@@ -217,6 +231,8 @@ Cuando un juez foráneo tuviere impedimento para conocer de un negocio, lo suced
 ### CAPITULO II. Del Cuerpo Médico Legal Militar
 
 ### CAPITULO III. Del archivo judicial y biblioteca
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ## TITULO SEGUNDO. De los auxiliares de la administración de justicia militar
 
@@ -250,7 +266,7 @@ IV.- por los médicos del personal técnico del Gabinete Antropométrico y los d
 
 ###### ARTICULO 34.
 
-El archivo judicial constituye parte integrante de la Dirección de Archivo Militar, a cuyo reglamento se sujetará en el orden técnico, sin perjuicio de que para su funcionamiento especial se rija por las instrucciones particulares que dé la Secretaría de Guerra y Marina por conducto del presidente del Supremo Tribunal Militar, cuerpo al que el mencionado archivo quedará adscrito.
+El archivo judicial constituye parte integrante de la Dirección de Archivo Militar, a cuyo reglamento se sujetará en el orden técnico, sin perjuicio de que para su funcionamiento especial se rija por las instrucciones particulares que dé la Secretaría de la Defensa Nacional por conducto del presidente del Supremo Tribunal Militar, cuerpo al que el mencionado archivo quedará adscrito.
 
 ###### ARTICULO 35.
 
@@ -282,7 +298,9 @@ Todas las personas que deban suministrar datos para la averiguación de los deli
 
 El Ministerio Público se compondrá:
 
-I.- De un Procurador General de Justicia Militar, general de brigada de servicio o auxiliar, jefe de la institución y consultor jurídico de la Secretaría de Guerra y Marina, siendo, por lo tanto, el conducto ordinario del Ejecutivo y la propia Secretaría, en lo tocante al personal a sus órdenes;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- De un Procurador General de Justicia Militar, general de brigada de servicio o auxiliar, jefe de la institución y consultor jurídico de la Secretaría de la Defensa Nacional, siendo, por lo tanto, el conducto ordinario del Ejecutivo y la propia Secretaría, en lo tocante al personal a sus órdenes;
 
 II.- de agentes adscritos a la Procuraduría, generales brigadieres de servicio o auxiliares, en el número que las necesidades requieran;
 
@@ -302,17 +320,23 @@ El Ministerio Público Militar, tendrá los empleados subalternos que sean neces
 
 Para ser Procurador General de Justicia Militar, se requieren las mismas condiciones que para ser magistrado; y su designación y protesta, se hará de la manera indicada para aquellos funcionarios.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 42.
 
-Para ser agente adscrito, deben llenarse los mismos requisitos que para ser juez; su nombramiento será hecho por la Secretaría de Guerra y Marina y otorgarán la protesta de ley ante el Procurador General de Justicia Militar, los que residan en la capital de la República; los que deban residir fuera de ella, protestarán ante el comandante de la guarnición de la plaza en donde radique el juzgado a que sean adscritos, o ante el mismo procurador.
+Para ser agente adscrito, deben llenarse los mismos requisitos que para ser juez; su nombramiento será hecho por la Secretaría de la Defensa Nacional y otorgarán la protesta de ley ante el Procurador General de Justicia Militar, los que residan en la capital de la República; los que deban residir fuera de ella, protestarán ante el comandante de la guarnición de la plaza en donde radique el juzgado a que sean adscritos, o ante el mismo procurador.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 43.
 
-Los agentes auxiliares serán nombrados por la Secretaría de Guerra y Marina, y dependerán del Procurador General como los demás agentes. Rendirán su protesta ante el comandante de la guarnición del lugar en que hayan de residir.
+Los agentes auxiliares serán nombrados por la Secretaría de la Defensa Nacional, y dependerán del Procurador General como los demás agentes. Rendirán su protesta ante el comandante de la guarnición del lugar en que hayan de residir.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 44.
 
-El resto del personal de las oficinas del Ministerio Público será nombrado por la Secretaría de Guerra y Marina, y de sus miembros, los que residan en la capital de la República rendirán la protesta ante el procurador y los demás, ante el agente del lugar de su destino.
+El resto del personal de las oficinas del Ministerio Público será nombrado por la Secretaría de la Defensa Nacional, y de sus miembros, los que residan en la capital de la República rendirán la protesta ante el procurador y los demás, ante el agente del lugar de su destino.
 
 ###### ARTICULO 45.
 
@@ -340,9 +364,11 @@ II.- de un cuerpo permanente;
 
 III.- de los militares que en virtud de su cargo o comisión, desempeñen accidentalmente las funciones de policía judicial.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 48.
 
-La policía judicial permanente, se compondrá del personal que designe la Secretaría de Guerra y Marina, y dependerá directa e inmediatamente del Porcurador (sic) General de Justicia Militar.
+La policía judicial permanente se compondrá del personal que designe la Secretaría de la Defensa Nacional, y dependerá directa e inmediatamente del Procurador General de Justicia Militar.
 
 > <small>(REFORMADO, D.O.F. 29 DE SEPTIEMBRE DE 1937)</small>
 
@@ -392,9 +418,11 @@ El cuerpo de defensores de oficio, tendrá los empleados subalternos que las nec
 
 Para ser jefe del cuerpo de defensores de oficio, deben llenarse los mismos requisitos que para ser agente del Ministerio Público; y para ser defensor, iguales condiciones, excepto el tiempo de ejercicio profesional en el fuero de guerra, que será de dos años.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 55.
 
-El jefe del cuerpo y defensores, serán nombrados por la Secretaría de Guerra y Marina, ante la que otorgará su protesta el primero; los segundos que residan en la capital de la República, protestarán ante el citado jefe, y los que deban radicar fuera de ella, ante el propio jefe o ante el comandante de la guarnición del lugar de su destino. El resto del personal, protestará ante el mencionado jefe del cuerpo.
+El jefe del cuerpo y defensores, serán nombrados por la Secretaría de la Defensa Nacional, ante la que otorgará su protesta el primero; los segundos que residan en la capital de la República, protestarán ante el citado jefe, y los que deban radicar fuera de ella, ante el propio jefe o ante el comandante de la guarnición del lugar de su destino. El resto del personal, protestará ante el mencionado jefe del cuerpo.
 
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
 
@@ -452,7 +480,9 @@ Si el ejército estuviere en territorio de una potencia amiga o neutral, se obse
 
 Es tribunal competente para conocer de un proceso, el del lugar donde se cometa el delito.
 
-La Secretaría de Guerra y Marina, sin embargo, puede designar distinta jurisdicción a la del lugar a donde se cometió el delito, cuando las necesidades el (sic) servicio de justicia lo requieran.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La Secretaría de la Defensa Nacional, sin embargo, puede designar distinta jurisdicción a la del lugar a donde se cometió el delito, cuando las necesidades del servicio de justicia lo requieran.
 
 ###### ARTICULO 63.
 
@@ -506,17 +536,25 @@ XI.- de lo demás que determinen las leyes y reglamentos.
 
 Son atribuciones del Supremo Tribunal Militar:
 
-I.- Conceder licencias a los magistrados, jueces, secretarios y demás empleados subalternos del tribunal, hasta por ocho días, dando aviso a la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Conceder licencias a los magistrados, jueces, secretarios y demás empleados subalternos del tribunal, hasta por ocho días, dando aviso a la Secretaría de la Defensa Nacional;
 
 II.- resolver las reclamaciones de los jueces contra excitativas de justicia y demás providencias y acuerdos del presidente del Supremo Tribunal, en ejercicio de sus atribuciones;
 
-III.- iniciar ante la Secretaría de Guerra y Marina las reformas que estime conveniente se introduzcan en la legislación militar;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- iniciar ante la Secretaría de la Defensa Nacional las reformas que estime conveniente se introduzcan en la legislación militar;
 
 IV.- expedir circulares, dando instrucciones a los funcionarios de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo;
 
-V.- formular el reglamento del mismo Supremo Tribunal y someterlo a la aprobación de la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-VI.- proponer a la Secretaría de Guerra y Marina los cambios de residencia y jurisdicción de funcionarios y empleados de justicia militar, según lo exijan las necesidades del servicio;
+V.- formular el reglamento del mismo Supremo Tribunal y someterlo a la aprobación de la Secretaría de la Defensa Nacional;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VI.- proponer a la Secretaría de la Defensa Nacional los cambios de residencia y jurisdicción de funcionarios y empleados de justicia militar, según lo exijan las necesidades del servicio;
 
 VII.- suministrar al Procurador General de Justicia Militar, los datos necesarios para la formación de la estadística criminal militar;
 
@@ -530,7 +568,9 @@ I.- Dirigir los debates;
 
 II.- recibir quejas e informes sobre demoras, excesos o faltas en el despacho de los negocios. Si las faltas fueren leves, dictará las providencias oportunas para su corrección; pero si fueren graves, dará cuenta al Supremo Tribunal para que resuelva;
 
-III.- comunicar a la Secretaría de Guerra y Marina, las faltas absolutas o temporales de los magistrados, jueces, secretarios y demás subalternos de la administración de justicia militar;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- comunicar a la Secretaría de la Defensa Nacional, las faltas absolutas o temporales de los magistrados, jueces, secretarios y demás subalternos de la administración de justicia militar;
 
 IV.- conceder licencias económicas hasta por tres días al personal a que se refiere la fracción anterior;
 
@@ -540,7 +580,9 @@ VI.- despachar excitativas de justicia, a petición de parte, contra los jueces 
 
 VII.- glosar y llevar las cuentas de los gastos de oficio;
 
-VIII.- llevar con toda escrupulosidad, por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependan del Supremo Tribunal Militar, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se remitirá a la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII.- llevar con toda escrupulosidad, por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependen del Supremo Tribunal Militar, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se remitirá a la Secretaría de la Defensa Nacional;
 
 IX.- dictar las medidas que estime convenientes, en lo tocante al archivo judicial y biblioteca, de acuerdo con lo expresado en el artículo 34;
 
@@ -624,13 +666,17 @@ I.- Instruir los procesos de la competencia de los consejos de guerra, así como
 
 II.- juzgar de los delitos penados con prisión que no exceda de un año, como término medio, con suspensión o con destitución. Cuando concurran diversas penas, la competencia se determinará por la corporal;
 
-III.- solicitar a la Secretaría de Guerra y Marina, por conducto del Supremo Tribunal Militar, las remociones que para el buen servicio se hagan necesarias;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- solicitar a la Secretaría de la Defensa Nacional, por conducto del Supremo Tribunal Militar, y a este mismo, los estados mensuales y las actas de las visitas de cárcel y hospital, así como rendir a los mismos los informes que soliciten;
 
 IV.- comunicar al Supremo Tribunal Militar las irregularidades que adviertan en la administración de justicia;
 
 V.- practicar mensualmente visitas de cárceles y hospitales;
 
-VI.- remitir a la Secretaría de Guerra y Marina, por conducto del Supremo Tribunal Militar, y a este mismo, los estados mensuales y las actas de las visitas de cárcel y hospital, así como rendir a los mismos los informes que soliciten;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VI.- remitir a la Secretaría de la Defensa Nacional, por conducto del Supremo Tribunal Militar, las remociones que para el buen servicio se hagan necesarias;
 
 VII.- conceder licencias hasta por cinco días al personal de su juzgado, dando aviso al Supremo Tribunal Militar;
 
@@ -688,15 +734,21 @@ Cuando proceda la libertad caucional del inculpado, el Ministerio Público cumpl
 
 El Procurador General de Justicia Militar, tendrá las siguientes atribuciones y deberes:
 
-I.- Dictaminar personalmente sobre todas las dudas o conflictos de orden jurídico que se presenten en asuntos de la competencia de la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Dictaminar personalmente sobre todas las dudas o conflictos de orden jurídico que se presenten en asuntos de la competencia de la Secretaría de la Defensa Nacional;
 
 II.- ordenar a los agentes la formación de averiguaciones previas, sobre hechos que estime pudieran dar como resultado el esclarecimiento de que se ha cometido un delito de la competencia de los tribunales del fuero de guerra;
 
 III.- perseguir por sí mismo o por medio de sus agentes, ante los tribunales del fuero de guerra, los delitos contra la disciplina militar, solicitando las órdenes de aprehensión en contra de los reos, buscando y presentando las pruebas que acrediten la responsabilidad de éstos, cuidando de que los juicios se sigan con regularidad, pidiendo la aplicación de las penas que corresponda y vigilando que éstas sean debidamente cumplidas;
 
-IV.- pedir instrucciones a la Secretaría de Guerra y Marina, en los casos en que su importancia lo requiera, emitiendo su parecer. Cuando estimare que las instrucciones que reciba no están ajustadas a derecho, hará por escrito a la propia Secretaría las observaciones que juzgue procedentes, y si ésta insiste en su parecer, las cumplimentará desde luego;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-V.- rendir los informes que la Secretaría de Guerra y Marina o el Supremo Tribunal Militar le soliciten;
+IV.- pedir instrucciones a la Secretaría de la Defensa Nacional, en los casos en que su importancia lo requiera, emitiendo su parecer. Cuando estimaré que las instrucciones que reciba no están ajustadas a derecho, hará por escrito a la propia Secretaría las observaciones que juzgue procedentes, y si ésta insiste en su parecer, las complementará desde luego;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- rendir los informes que la Secretaría de la Defensa Nacional o el Supremo Tribunal Militar le soliciten;
 
 VI.- dar a los agentes las instrucciones que estime necesarias para el mejor cumplimiento de su encargo, expedirles circulares y dictar todas las medidas económicas y disciplinarias convenientes, para lograr la unidad de acción del Ministerio Público;
 
@@ -706,25 +758,37 @@ VIII.- hacerse representar por sus agentes en diligencias a que deba concurrir, 
 
 IX.- calificar las excusas que presenten los agentes para intervenir en determinado negocio;
 
-X.- solicitar de la Secretaría de Guerra y Marina las remociones que para el buen servicio estime necesarias;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+X.- solicitar de la Secretaría de la Defensa Nacional las remociones que para el buen servicio estime necesarias;
 
 XI.- pedir que se hagan efectivas las responsabilidades en que incurran los funcionarios judiciales;
 
-XII.- otorgar licencias que no excedan de ocho días a los agentes y subalternos del Ministerio Público, dando aviso a la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XII.- otorgar licencias que no excedan de ocho días a los agentes y subalternos del Ministerio Público, dando aviso a la Secretaría de la Defensa Nacional;
 
 XIII.- recabar de las oficinas públicas, toda clase de informes o documentación que necesitare en el ejercicio de sus funciones;
 
 XIV.- formar la estadística criminal militar;
 
-XV.- iniciar ante la Secretaría de Guerra y Marina las leyes y reglamentos que estime necesarios para la mejor administración de justicia;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XVI.- formular el reglamento del Ministerio Público Militar, sometiéndolo a la aprobación de la Secretaría de Guerra y Marina;
+XV.- iniciar ante la Secretaría de la Defensa Nacional las leyes y reglamentos que estime necesarios para la mejor administración de justicia;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XVI.- formular el reglamento del Ministerio Público Militar, sometiéndolo a la aprobación de la Secretaría de la Defensa Nacional;
 
 XVII.- investigar, con especial diligencia, las detenciones arbitrarias que se cometan, promover el castigo de los responsables y adoptar las medidas legales para hacer que cesen aquéllas;
 
-XVIII.- celebrar acuerdo con las autoridades superiores de la Secretaría de Guerra y Marina, dándoles cuenta de los principales asuntos técnicos de la institución;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XIX.- llevar con toda escrupulosidad y por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependan de la Procuraduría General de Justicia Militar, haciendo las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado será enviado a la Secretaría de Guerra y Marina;
+XVIII.- celebrar acuerdo con las autoridades superiores de la Secretaría de la Defensa Nacional, dándoles cuenta de los principales asuntos técnicos de la institución;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XIX.- llevar con toda escrupulosidad y por duplicado, las hojas de actuación de todos los funcionarios y empleados que dependen de la Procuraduría General de Justicia Militar, haciendo las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de ellas y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado será enviado a la Secretaría de la Defensa Nacional;
 
 XX.- usar de las vías de apremio, en los casos en que fueren desatendidas las citas a que se refiere el artículo 38.
 
@@ -794,37 +858,49 @@ Son atribuciones y deberes del jefe del cuerpo de defensores:
 
 I.- Defender por sí mismo o por medio de los defensores de oficio, al personal militar, desde el momento de su detención o desde su primera comparecencia ante el órgano investigador, gestionando cuanto fuere conducente a favor de los mismos;
 
-II.- rendir los informes que la Secretaría de Guerra y Marina y el Supremo Tribunal Militar soliciten;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- rendir los informes que la Secretaría de la Defensa Nacional y el Supremo Tribunal Militar soliciten;
 
 III.- dar a los defensores las instrucciones que estimen necesarias para que desempeñen debidamente sus funciones; expedirles circulares y dictar todas las medidas económicas y disciplinarias para dar unidad, eficacia y rapidez a la acción de la defensa;
 
 IV.- calificar las excusas que tuvieren los defensores para intervenir en determinado negocio;
 
-V.- solicitar de la Secretaría de Guerra y Marina las remociones que se hagan necesarias para el mejor servicio;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- solicitar de la Secretaría de la Defensa Nacional las remociones que se hagan necesarias para el mejor servicio;
 
 > <small>(REFORMADA, D.O.F. 22 DE JULIO DE 1994)</small>
 
 VI.- Resolver las quejas que el personal a que se refiere la fracción I, formulen en contra de los Defensores, acordando lo que proceda;
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-VII.- conceder a los defensores y empleados subalternos del Cuerpo, licencias hasta por cinco días, con aviso a la Secretaría de Guerra y Marina;
+VII.- conceder a los defensores y empleados subalternos del Cuerpo, licencias hasta por cinco días, con aviso a la Secretaría de la Defensa Nacional;
 
 VIII.- recabar de las oficinas públicas toda clase de informes o documentos, que necesitare en el ejercicio de sus funciones;
 
 IX.- dirigir la formación de la estadística correspondiente a la institución;
 
-X.- iniciar ante la Secretaría de Guerra y Marina, las leyes, reglamentos y medidas que estime necesarios para la mejor administración de justicia;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+X.- iniciar ante la Secretaría de la Defensa Nacional, las leyes, reglamentos y medidas que estime necesarios para la mejor administración de justicia;
 
 XI.- practicar cada mes visita de cárcel, en el lugar de su residencia;
 
 XII.- encomendar a cualquiera de los defensores el despacho de determinado negocio, independientemente de sus labores permanentes;
 
-XIII.- formular el Reglamento del Cuerpo de Defensores, sometiéndolo a la aprobación de la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XIV.- celebrar acuerdo con las autoridades superiores de la Secretaría de Guerra y Marina, dándoles cuenta de los principales asuntos técnicos de la institución;
+XIII.- formular el Reglamento del Cuerpo de Defensores, sometiéndolo a la aprobación de la Secretaría de la Defensa Nacional;
 
-XV.- llevar por duplicado, con toda escrupulosidad, las hojas de actuación de todos los defensores y empleados que dependan del Cuerpo, haciendo en ellas las anotaciones que procedan, especialmente las que se refieran a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de las mismas; y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se enviará a la Secretaría de Guerra y Marina;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XIV.- celebrar acuerdo con las autoridades superiores de la Secretaría de la Defensa Nacional, dándoles cuenta de los principales asuntos técnicos de la institución;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XV.- llevar por duplicado, con toda escrupulosidad, las hojas de actuación de todos los defensores y empleados que dependan del Cuerpo, haciendo en ellas las anotaciones que procedan, especialmente las que se refieren a quejas que se hayan declarado fundadas y correcciones disciplinarias impuestas, con expresión del motivo de las mismas; y agregando copia certificada del título de abogado de la persona de que se trate, cuando por la ley sea necesario para el desempeño de algún cargo. El duplicado se enviará a la Secretaría de la Defensa Nacional;
 
 XVI.- las demás que determinen las leyes y reglamentos.
 
@@ -888,9 +964,11 @@ III.- cuando se trate de un prisionero de guerra de fuerza considerada beligeran
 
 El presidente del Consejo de Guerra tendrá facultades para designar, de entre los vocales, al que deba fungir como secretario.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 92.
 
-Los funcionarios del Servicio de Justicia Militar tendrán facultades para imponer amonestación y arresto en los términos de la Ley de Disciplina del Ejército y Armada Nacionales, como correcciones disciplinarias, a sus subalternos, por las faltas que cometan en el desempeño de sus cargos. El Supremo Tribunal de Justicia Militar, el Procurador General y el Jefe del Cuerpo de Defensores Militares podrán proponer, además, a la Secretaría de Guerra y Marina, con el mismo carácter y por igual motivo, el cambio de adscripción de los jueces, agentes y defensores; y si tal cambio no fuese aprobado, podrán cambiar la corrección.
+Los funcionarios del Servicio de Justicia Militar tendrán facultades para imponer amonestación y arresto en los términos de la Ley de Disciplina del Ejército y Armada Nacionales, como correcciones disciplinarias, a sus subalternos, por las faltas que cometan en el desempeño de sus cargos. El Supremo Tribunal de Justicia Militar, el Procurador General y el Jefe del Cuerpo de Defensores Militares podrán proponer, además, a la Secretaría de la Defensa Nacional, con el mismo carácter y por igual motivo, el cambio de adscripción de los jueces, agentes y defensores; y si tal cambio no fuese aprobado, podrán cambiar la corrección.
 
 ###### ARTICULO 93.
 
@@ -1268,9 +1346,11 @@ Cuando además de la destitución se hubiese impuesto una pena privativa de libe
 
 El tribunal que imponga la destitución como pena o como consecuencia de la pena de prisión, fijará el término de la inhabilitación para volver al ejército cuando la ley no lo señale. Cuando se imponga la pena de destitución concurriendo con una privativa de libertad, la inhabilitación no podrá exceder de un término igual al de esta pena ni bajar de un año ni pasar de diez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 141.
 
-El Ejecutivo podrá conceder por una sola vez la rehabilitación siempre que el sentenciado justifique ante la Secretaría de Guerra y Marina haber transcurrido la mitad del tiempo por el que hubiese sido impuesta la inhabilitación y observado buena conducta.
+El Ejecutivo podrá conceder por una sola vez la rehabilitación siempre que el sentenciado justifique ante la Secretaría de la Defensa Nacional haber transcurrido la mitad del tiempo por el que hubiese sido impuesta la inhabilitación y observado buena conducta.
 
 La rehabilitación devuelve al condenado la capacidad legal para volver a servir en el ejército.
 
@@ -1399,6 +1479,8 @@ Tratándose de exceso en la defensa, tomará en consideración además, el grado
 En ningún caso la pena que se imponga excederá de las tres cuartas parte (sic) de la que correspondería si el delito fuera intencional.
 
 ### CAPITULO I. Ejecución de sentencias
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 158.
 
@@ -1536,7 +1618,7 @@ En los casos de la fracción II del artículo anterior, no se ejecutará la sent
 
 ###### ARTICULO 179.
 
-Corresponde al Ejecutivo de la Unión, por conducto de la Secretaría de Guerra y Marina, la ejecución de las sentencias.
+Corresponde al Ejecutivo de la Unión, por conducto de la Secretaría de la Defensa Nacional, la ejecución de las sentencias.
 
 ###### ARTICULO 180.
 
@@ -2032,7 +2114,9 @@ Será castigado con la pena de tres años de prisión:
 
 I.- En (sic) que en las listas de Revista o cualquier otro documento militar haga aparecer una cantidad de hombres, animales, haberes, jornales o forrajes mayor de la que justamente deba figurar, o algún individuo que realmente no exista o que existiendo no prestase servicio;
 
-II.- el que, en ejercicio de sus funciones o con miras interesadas, favorezca a un contratista o proveedor en la contrata respectiva, presente cuentas o relaciones inexactas sobre gastos del servicio, naturaleza, cantidad o calidad de los trabajos, mano de obra o provisiones destinadas al uso militar; efectúe compras de estas últimas a precio mayor que el de plaza, o celebre otros contratos onerosos; no dé cuenta oportunamente a la Secretaría de Guerra y Marina de los fondos que tuviere en su poder por economías de forrajes o gasto común; firme o autorice orden, libramiento o cualquier otro documento de pago o de crédito extendido por los que se hallen a sus órdenes y que difiera en cantidad de lo que arroje la liquidación o ajuste correspondiente; ordene o haga consumos innecesarios de víveres, municiones, pertrechos, combustibles u otros efectos destinados al servicio; cambie sin autorización, las monedas o valores que hubiere recibido, por otros distintos o que de cualquiera otra manera no especificada en este o en alguno de los demás preceptos contenidos en el presente capítulo, alcance un lucro indebido, con perjuicio de los intereses del ejército o de los individuos pertenecientes a él, valiéndose para ello del engaño o aprovechándose del error de otra persona.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- el que, en ejercicio de sus funciones o con miras interesadas, favorezca a un contratista o proveedor en la contrata respectiva, presente cuentas o relaciones inexactas sobre gastos del servicio, naturaleza, cantidad o calidad de los trabajos, mano de obra o provisiones destinadas al uso militar; efectúe compras de estas últimas a precio mayor que el de plaza, o celebre otros contratos onerosos; no dé cuenta oportunamente a la Secretaría de la Defensa Nacional de los fondos que tuviere en su poder por economías de forrajes o gasto común; firme o autorice orden, libramiento o cualquier otro documento de pago o de crédito extendido por los que se hallen a sus órdenes y que difiera en cantidad de lo que arroje la liquidación o ajuste correspondiente; ordene o haga consumos innecesarios de víveres, municiones, pertrechos, combustibles u otros efectos destinados al servicio; cambie sin autorización, las monedas o valores que hubiere recibido, por otros distintos o que de cualquiera otra manera no especificada en este o en alguno de los demás preceptos contenidos en el presente capítulo, alcance un lucro indebido, con perjuicio de los intereses del ejército o de los individuos pertenecientes a él, valiéndose para ello del engaño o aprovechándose del error de otra persona.
 
 ###### ARTICULO 240.
 
@@ -2206,7 +2290,7 @@ Los individuos de tropa que desertaren efectuando su separación ilegal del serv
 
 ###### ARTICULO 261.
 
-Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se prevén en seguida, serán castigados:
+Los individuos de tropa que desertaren en tiempo de paz, y en alguno de los casos o con alguna de las circunstancias que especialmente se preven en seguida, serán castigados:
 
 I.- El que deserte de la escolta de prisioneros, detenidos o presos o de cualquiera otra no especificada en este artículo, con la pena de tres años de prisión;
 
@@ -3404,7 +3488,9 @@ II.- viole la palabra de honor empeñada;
 
 III.- venda o dé en prenda condecoraciones, despachos, diplomas o documentos de identificación, y
 
-IV.- promueva colectas, haga suscripciones o lleve a cabo otras exacciones, sin autorización de la Secretaría de Guerra y Marina.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- promueva colectas, haga suscripciones o lleve a cabo otras exacciones sin autorización de la Secretaría de la Defensa Nacional.
 
 En caso de reincidencia, se impondrá la pena de destitución, fijándose en dos años el término de inhabilitación para volver al servicio.
 
@@ -3640,7 +3726,9 @@ X.- por estar los militares en campaña:
 
 5o.- cuando se hayan embarcado con plaza o sin ella en escuadra, división, grupo o buque suelto, sea de guerra o corsario, apresado o fletado por el gobierno y destinado a operaciones de guerra, contra enemigos exteriores o rebeldes.
 
-En los casos que hubiere duda acerca de si la fuerza a que pertenecía el procesado, estaba o no en campaña al cometer el delito por el cual se le juzgue, se consultará sobre el particular a la Secretaría de Guerra y Marina; y
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+En los casos que hubiere duda acerca de si la fuerza a que pertenecía el procesado, estaba o no en campaña al cometer el delito por el cual se le juzgue, se consultará sobre el particular a la Secretaría de la Defensa Nacional; y
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -3744,17 +3832,23 @@ La autoridad que recibiere una denuncia o querella verbal o escrita, deberá ase
 
 El Ministerio Público, previa la práctica de las diligencias que tiendan a investigar los hechos que se denuncian, formulará su pedimento de incoación por conducto del comandante de la guarnición, a fin de que éste envíe los documentos a la autoridad judicial, dentro del término que le corresponde al Ministerio Público, señalado en el artículo 80 de este Código.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 447.
 
-Cuando un comandante de la guarnición estime que por necesidades del servicio, procede suspender el procedimiento iniciado por el Ministerio Público, dentro de las veinticuatro horas siguientes a la consignación hecha por éste, se dirigirá por la vía más rápida a la Secretaría de Guerra y Marina, solicitando se aplace el procedimiento y exponiendo al efecto las razones que hubiere para ello.
+Cuando un comandante de la guarnición estime que por necesidades del servicio, procede suspender el procedimiento iniciado por el Ministerio Público, dentro de las veinticuatro horas siguientes a la consignación hecha por éste, se dirigirá por la vía más rápida a la Secretaría de la Defensa Nacional, solicitando se aplace el procedimiento y exponiendo al efecto las razones que hubiere para ello.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 448.
 
-La Secretaría de Guerra y Marina, apreciando las razones aducidas por el comandante de la guarnición, resolverá si procede aplazar el procedimiento iniciado, dando instrucciones en caso afirmativo al Ministerio Público a fin de que suspenda su acción, por un término que no exceda de tres meses en tiempo de paz, o indefinido en caso de guerra, o de preparación para ésta.
+La Secretaría de la Defensa Nacional, apreciando las razones aducidas por el comandante de la guarnición, resolverá si procede aplazar el procedimiento iniciado, dando instrucciones en caso afirmativo al Ministerio Público a fin de que suspenda su acción, por un término que no exceda de tres meses en tiempo de paz, o indefinido en caso de guerra, o de preparación para ésta.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 449.
 
-Si la Secretaría de Guerra y Marina estima improcedente la suspensión, ordenará al comandante de la guarnición continúe el procedimiento de acuerdo con lo pedido por el Ministerio Público, consignando a dicho comandante, cuando hubiere responsabilidades que exigirle.
+Si la Secretaría de la Defensa Nacional estima improcedente la suspensión, ordenará al comandante de la guarnición continúe el procedimiento de acuerdo con lo pedido por el Ministerio Público, consignando a dicho comandante, cuando hubiere responsabilidades que exigirle.
 
 ###### ARTICULO 450.
 
@@ -4060,7 +4154,7 @@ El acusado podrá manifestar cuanto estime conveniente para su defensa, debiénd
 
 ###### ARTICULO 500.
 
-Si se advierte en el procesado indicios de enajenación mental, se averiguará, por el reconocimiento de facultativos y por medio de pruebas u otras observaciones, si la enajenación es cierta o simulada, permanente o transitoria, anterior o posterior al delito.
+Si se advierte en el procesado indicios de enajenación mental, se averiguará, por él reconocimiento de facultativos y por medio de pruebas u otras observaciones, si la enajenación es cierta o simulada, permanente o transitoria, anterior o posterior al delito.
 
 Lo que antecede no será obstáculo para la prosecución de la causa y prática (sic) de las diligencias necesarias para el esclarecimiento de los hechos.
 
@@ -4524,9 +4618,11 @@ Si el testigo estuviere impedido para comparecer, el juez le tomará su declarac
 
 Si el testigo se hallare fuera de la población, pero dentro de la misma jurisdicción, si por la distancia no se le pudiere hacer concurrir al juzgado, o el juez no pudiere transladarse, lo examinará por exhorto dirigido al juez de su residencia. Si ésta se ignorare, se encargará a la policía que averigüe el paradero del testigo y lo cite. Si esta investigación no tuviere buen éxito, el juez podrá hacer la citación por medio de edicto en el periódico oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 572.
 
-Fuera del caso de enfermedad o de imposibilidad física, todas las personas están obligadas a presentarse en los tribunales cuando sean citadas, cualesquiera que sean su categoría y las funciones que ejerzan. Sin embargo, cuando hayan de ser examinados como testigos, se recibirán las declaraciones por medio de informe escrito que se les pedirá en oficio que contenga todas las preguntas necesarias, a quienes funjan como: Presidente de la República, secretarios, subsecretarios, oficiales mayores de las Secretarías de Estado, jefes de departamentos, gobernadores de territorios federales, miembros que integren un tribunal superior, comandantes de guarnición, generales de división y miembros del cuerpo diplomático, dirigiendo a estos últimos el oficio mencionado por conducto de la Secretaría de Guerra y Marina, que lo enviará a la de Relaciones Exteriores.
+Fuera del caso de enfermedad o de imposibilidad física, todas las personas están obligadas a presentarse en los tribunales cuando sean citadas, cuales quiera que sean su categoría y las funciones que ejerzan. Sin embargo, cuando hayan de ser examinados como testigos, se recibirán las declaraciones por medio de informe escrito que se les pedirá en oficio que contengan todas las preguntas necesarias, a quienes funjan como: Presidente de la República, secretarios, subsecretarios, oficiales mayores de las Secretarías de Estado, jefes de departamentos, gobernadores de territorios federales, miembros que integren un tribunal superior, comandantes de guarnición, generales de división y miembros del cuerpo diplomático, dirigiendo a estos últimos el oficio mencionado por conducto de la Secretaría de la Defensa Nacional, que lo enviará a la de Relaciones Exteriores.
 
 Cuando sea necesario una ratificación de dichos funcionarios, ocurrirá el juez con su secretario a la casa u oficina de ellos.
 
@@ -5288,9 +5384,11 @@ Cuando se declare que el acusado es inculpable, se pronunciará su absolución y
 
 En la notificación y la ejecución de la sentencia, se observarán por la autoridad militar las solemnidades prevenidas por este Código y por las prescripciones disciplinarias, hasta donde sean compatibles con las circunstancias del delito.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 715.
 
-Del acta levantada de lo ocurrido en la audiencia, inclusive el fallo, se enviarán copias autorizadas al archivo del detall de la corporación a que pertenezca el procesado y a la Secretaría de Guerra y Marina.
+Del acta levantada de lo ocurrido en la audiencia, inclusive el fallo, se enviarán copias autorizadas al archivo del detalle de la corporación a que pertenezca el procesado y a la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 716.
 
@@ -5612,9 +5710,11 @@ La excusa de los magistrados del Supremo Tribunal Militar, se presentará ante e
 
 Integrado éste, se procederá a calificar la excusa en la misma sesión en que se diere cuenta de ella, o en la siguiente si la causa en que se funde fuere notoria; si se necesitare prueba, se concederá para recibirla, un término de setenta y dos horas, y dentro de las veinticuatro siguientes, se hará la calificación que corresponda.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 779.
 
-La excusa del Procurador General Militar se propondrá ante la Secretaría de Guerra y Marina, quien calificará el impedimento y resloverá (sic) dentro de setenta y dos horas. La de cualquiera de sus agentes se propondrá ante el Procurador, quien la calificará y resolverá dentro de veinticuatro horas, designando al sustituto, en su caso.
+La excusa del Procurador General Militar se propondrá ante la Secretaría de la Defensa Nacional, quien calificará el impedimento y resolverá dentro de setenta y dos horas. La de cualquiera de sus agentes se propondrá ante el Procurador, quien la calificará y resolverá dentro de veinticuatro horas, designando al sustituto, en su caso.
 
 ###### ARTICULO 780.
 
@@ -6158,21 +6258,27 @@ IV.- en los demás casos especialmente señalados en este Código.
 
 (DEROGADO, D.O.F. 29 DE JUNIO DE 2005)
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 853.
 
-Los jueces remitirán copia de la sentencia ejecutoria tanto al jefe de la prisión en donde estuviere el sentenciado, como al de aquella en que hubiere de extinguir su condena, en su caso; asimismo, enviará testimonio de ella a la Secretaría de Guerra y Marina y a la comandancia de la guarnición.
+Los jueces remitirán copia de la sentencia ejecutoria tanto al jefe de la prisión en donde estuviere el sentenciado, como al de aquella en que hubiere de extinguir su condena, en su caso; asimismo, enviará testimonio de ella a la Secretaría de la Defensa Nacional y a la comandancia de la guarnición.
 
 ###### ARTICULO 854.
 
 El reo que tenga derecho a la libertad preparatoria de acuerdo con este Código, podrá solicitarla por escrito al Supremo Tribunal Militar, por conducto del jefe del establecimiento donde se halle extinguiendo su condena, el que deberá adjuntar un informe detallado de la conducta observada por el sentenciado.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 855.
 
-El Supremo Tribunal Militar con audiencia del Ministerio Público, otorgará la gracia de la libertad preparatoria, si resulta acreditada la enmienda del reo. De la resolución dictada se dará aviso a la Secretaría de Guerra y Marina, si es favorable.
+El Supremo Tribunal Militar con audiencia del Ministerio Público, otorgará la gracia de la libertad preparatoria, si resulta acreditada la enmienda del reo. De la resolución dictada se dará aviso a la Secretaría de la Defensa Nacional, si es favorable.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 856.
 
-Los sentenciados que salgan a disfrutar de la libertad preparatoria, quedarán sometidos a la vigilancia de la autoridad militar, en el lugar que la Secretaría de Guerra y Marina les designe para residencia, salvo el caso de que vayan a prestar sus servicios en el Ejército.
+Los sentenciados que salgan a disfrutar de la libertad preparatoria, quedarán sometidos a la vigilancia de la autoridad militar, en el lugar que la Secretaría de la Defensa Nacional les designe para residencia, salvo el caso de que vayan a prestar sus servicios en el Ejército.
 
 ###### ARTICULO 857.
 
@@ -6190,9 +6296,11 @@ Si el jefe militar de quien dependa el agraciado con la libertad preparatoria, o
 
 El citado jefe dará igualmente parte, cuando el agraciado no se presente el día que tenga señalado, o cuando sea requerido para ello, si no comprobare haber tenido motivo justificado que lo haya obligado a cometer la falta.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 859.
 
-Si los datos fueren fehacientes, el tribunal revocará la libertad preparatoria, dando aviso a la Secretaría de Guerra y Marina, pero si no lo fueren, mandará que se haga la averiguación correspondiente, a fin de resolver, oyendo sumariamente, en ambos casos, al Ministerio Público y al defensor.
+Si los datos fueren fehacientes, el tribunal revocará la libertad preparatoria, dando aviso a la Secretaría de la Defensa Nacional, pero si no lo fueren, mandará que se haga la averiguación correspondiente, a fin de resolver, oyendo sumariamente, en ambos casos, al Ministerio Público y al defensor.
 
 ###### ARTICULO 860.
 
@@ -6202,9 +6310,11 @@ La libertad preparatoria se revocará cuando el agraciado observe mala conducta,
 
 La revocación de la libertad preparatoria traerá como consecuencia que se reduzca de nuevo a prisión al sentenciado, para que sufra toda la parte de la pena de que se le había hecho gracia, sea cual fuere el tiempo que llevare de estar disfrutando de la expresada libertad.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 862.
 
-Cuando el término de la libertad preparatoria expire sin que haya habido motivo para revocarla, el jefe militar de quien dependa el agraciado, informará al Supremo Tribunal Militar, a fin de que éste declare que el reo queda en libertad absoluta. Esta determinación será comunicada a la Secretaría de Guerra y Marina.
+Cuando el término de la libertad preparatoria expire sin que haya habido motivo para revocarla, el jefe militar de quien dependa el agraciado, informará al Supremo Tribunal Militar, a fin de que éste declare que el reo queda en libertad absoluta. Esta determinación será comunicada a la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 863.
 
@@ -6244,7 +6354,9 @@ Cumplido el término de la condena, si el director del establecimiento penal, no
 
 La reducción de pena se solicitará cuando se haya pronunciado sentencia que cause ejecutoria por medio de escrito que se presentará al tribunal que la hubiere pronunciado.
 
-El tribunal, después de oír al Ministerio Público, elevará la instancia con el informe respectivo y testimonio del fallo, a la Secretaría de Guerra y Marina para que se tome en consideración por el Presidente de la República.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El tribunal, después de oír al Ministerio Público, elevará la instancia con el informe respectivo y testimonio del fallo, a la Secretaría de la Defensa Nacional para que se tome en consideración por el Presidente de la República.
 
 > <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2005)</small>
 
@@ -6322,7 +6434,9 @@ Todas las resoluciones en que se conceda indulto o reconocimiento de inocencia, 
 
 Las denuncias por delitos oficiales deberán dirigirse al Procurador General Militar.
 
-Cuando el funcionario acusado dependa directamente de la Secretaría de Guerra y Marina la consignación deberá hacerse por conducto de ella.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Cuando el funcionario acusado dependa directamente de la Secretaría de la Defensa Nacional la consignación deberá hacerse por conducto de ella.
 
 ###### ARTICULO 883.
 
@@ -6340,9 +6454,11 @@ Practicadas dichas diligencias y presentado el informe o transcurrido el términ
 
 El magistrado en funciones de juez, dará cuenta al Supremo Tribunal Militar de la averiguación practicada y del pedimento del Ministerio Público, a fin de que si hay lugar a enjuiciamiento, mande suspender en su encargo al inculpado, abriéndose desde luego la instrucción, y de que en caso contrario se archiven las diligencias practicadas.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 887.
 
-La suspensión del inculpado se comunicará a la Secretaría de Guerra y Marina para los efectos legales.
+La suspensión del inculpado se comunicará a la Secretaría de la Defensa Nacional para los efectos legales.
 
 ###### ARTICULO 888.
 
@@ -6418,9 +6534,13 @@ Si a pesar de no haberse hecho la notificación en la forma prevenida, la person
 
 En cuanto a los exhortos que deban dirigirse al extranjero, se observarán las siguientes reglas:
 
-I.- Si el exhorto fuere expedido por un juez, su firma será legalizada por el Presidente del Supremo Tribunal Militar; la de éste, por el Oficial Mayor de la Secretaría de Guerra y Marina y la de este funcionario, por la Secretaría de Relaciones Exteriores;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II.- si el exhorto fuere expedido por el Supremo Tribunal Militar, la firma del Presidente de dicho Cuerpo será legalizado por el Oficial Mayor de la Secretaría de Guerra y Marina y la de éste, por la Secretaría de Relaciones Exteriores; y,
+I.- Si el exhorto fuere expedido por un juez, su firma será legalizada por el Presidente del Supremo Tribunal Militar; la de éste, por el Oficial Mayor de la Secretaría de la Defensa Nacional y la de éste funcionario, por la Secretaría de Relaciones Exteriores;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- si el exhorto fuere expedido por el Supremo Tribunal Militar, la firma del Presidente de dicho Cuerpo será legalizado por el Oficial Mayor de la Secretaría de la Defensa Nacional y la de éste, por la Secretaría de Relaciones Exteriores; y,
 
 III.- una vez efectuada la legalización de las firmas, los exhortos serán remitidos a su destino, por conducto de la última de las expresadas Secretarías, conforme a lo que dispongan las leyes de la materia.
 
@@ -6442,9 +6562,11 @@ Al Procurador General de Justicia Militar y a los agentes adscritos a la Procura
 
 Si se perdiere algún proceso o expediente, se repondrá a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen por la pérdida, quedando, además, sujeto a las disposiciones penales del fuero de guerra y del Código Penal para el Distrito Federal, si el acto fuere punible conforme a ellas.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 909.
 
-Todos los términos que señala este Código son improrrogables y se contarán desde el día siguiente al en que se hubiere hecho la notificación respectiva. En ningún término se contarán los días que la ley señale como festivos, ni aquellos en que la Secretaría de Guerra y Marina ordene la suspensión de labores; a excepción de los señalados para tomar al inculpado su declaración indagatoria y para pronunciar el auto de prisión preventiva o de sujeción a proceso.
+Todos los términos que señala este Código son improrrogables y se contarán desde el día siguiente al en que se hubiere hecho la notificación respectiva. En ningún término se contarán los días que la ley señale como festivos, ni aquellos en que la Secretaría de la Defensa Nacional ordene la suspensión de labores; a excepción de los señalados para tomar al inculpado su declaración indagatoria y para pronunciar el auto de prisión preventiva o de sujeción a proceso.
 
 > <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
 
@@ -6609,3 +6731,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 16 DE NOVIEMBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
