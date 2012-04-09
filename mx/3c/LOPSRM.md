@@ -4,7 +4,7 @@ identifier: "LOPSRM"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-04"
-last_updated: "2012-01-16"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPSRM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 4 de enero de 2000.
 
@@ -380,12 +380,6 @@ Asimismo, las dependencias y entidades notificarán al promovente de los estudio
 
 Respecto de las propuestas de estudios, planes o programas autorizados, la dependencia o en el caso de entidades, la dependencia coordinadora del sector respectivo evaluará, dentro de dicho plazo, las condiciones y tiempos para el desarrollo de los estudios complementarios que se requieran, a fin de contar con el proyecto de obra correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
-
-ARTÍCULO 19 BIS.- Sin perjuicio de lo previsto en el segundo párrafo del artículo anterior, la dependencia o entidad podrá establecer en la convocatoria que los licitantes tendrán a su cargo gestionar la adquisición de los bienes inmuebles o constitución de derechos reales que correspondan, que sean necesarios para ejecutar las obras públicas.
-
-En todo caso, la convocatoria siempre deberá considerar los montos necesarios para cubrir la adquisición de los inmuebles, bienes y derechos necesarios, cuidando que no se generen ventajas indebidas a los licitantes que puedan ser previamente propietarios de los inmuebles o derechos reales destinados a la ejecución del proyecto.
-
 ###### ARTÍCULO 19.
 
 Las dependencias y entidades que realicen obras públicas y servicios relacionados con las mismas, sea por contrato o por administración directa, así como los contratistas con quienes aquellas contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano y construcción rijan en el ámbito federal, estatal y municipal.
@@ -396,9 +390,17 @@ Las dependencias y entidades que realicen obras públicas y servicios relacionad
 
 Las dependencias y entidades, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación se precisarán, en su caso, aquéllos trámites que corresponderá realizar al contratista.
 
+> <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2012)</small>
+
+ARTÍCULO 19 BIS.- Sin perjuicio de lo previsto en el segundo párrafo del artículo anterior, la dependencia o entidad podrá establecer en la convocatoria que los licitantes tendrán a su cargo gestionar la adquisición de los bienes inmuebles o constitución de derechos reales que correspondan, que sean necesarios para ejecutar las obras públicas.
+
+En todo caso, la convocatoria siempre deberá considerar los montos necesarios para cubrir la adquisición de los inmuebles, bienes y derechos necesarios, cuidando que no se generen ventajas indebidas a los licitantes que puedan ser previamente propietarios de los inmuebles o derechos reales destinados a la ejecución del proyecto.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
-Las dependencias y entidades estarán obligadas a considerar los efectos sobre el medio ambiente que pueda causar la ejecución de las obras públicas con sustento en la evaluación de impacto ambiental prevista por la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse y se dará la intervención que corresponda a la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, y a las dependencias y entidades que tengan atribuciones en la materia.
+Las dependencias y entidades estarán obligadas a considerar los efectos sobre el medio ambiente que pueda causar la ejecución de las obras públicas con sustento en la evaluación de impacto ambiental prevista por la Ley General del Equilibrio Ecológico y la Protección al Ambiente. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse y se dará la intervención que corresponda a la Secretaría de Medio Ambiente y Recursos Naturales, y a las dependencias y entidades que tengan atribuciones en la materia.
 
 ###### ARTÍCULO 21.
 
@@ -2343,3 +2345,9 @@ CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere 
 QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
 
 SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
