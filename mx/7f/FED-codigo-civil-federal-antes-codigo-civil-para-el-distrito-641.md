@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2011-08-30"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,9 @@ scjn_last_update: "2025-11-14"
 ---
 # CODIGO CIVIL FEDERAL -ANTES CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL -
 
-CODIGO CIVIL FEDERAL
+CÓDIGO CIVIL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -30,7 +30,7 @@ El C. Presidente Constitucional de la República se ha servido dirigirme el decr
 
 Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
 
-(REFORMADA SU DENOMINACION, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
 
 Código Civil Federal
 
@@ -326,11 +326,11 @@ El estado civil sólo se comprueba con las constancias relativas del Registro Ci
 
 Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumento o testigos.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 41.
 
-Las Formas del Registro Civil serán expedidas por el Jefe del Departamento del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan quedará en el archivo de la oficina en que se haya actuado.
+Las Formas del Registro Civil serán expedidas por el Jefe de Gobierno del Distrito Federal o por quien él designe. Se renovarán cada año y los Jueces del Registro Civil remitirán en el transcurso del primer mes del año, un ejemplar de las Formas del Registro Civil del año inmediato anterior al Archivo de la Oficina Central del Registro Civil, otro al Archivo del Tribunal Superior de Justicia del Distrito Federal y el otro, con los documentos que le correspondan quedará en el archivo de la oficina en que hayan actuado.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -546,7 +546,7 @@ Si al dar aviso de un nacimiento se comunicare también la muerte del recién na
 
 Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 58 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido el parto y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO III. De las Actas de Reconocimiento
 
@@ -946,7 +946,7 @@ En todos los casos de muerte violenta en los establecimientos de reclusión, no 
 
 (DEROGADO, D.O.F. 3 DE ENERO DE 1979)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO X. De las Inscripciones de las Ejecutorias que Declaran o Modifican el Estado Civil
 
@@ -968,7 +968,7 @@ El Juez del Registro Civil hará la anotación correspondiente en las actas de n
 
 Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Juez del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO XI. De la Rectificación, Modificación y Aclaración de las Actas del Registro Civil
 
@@ -1062,11 +1062,11 @@ El matrimonio debe celebrarse ante los funcionarios que establece la ley y con l
 
 Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 148.
 
-Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe del Departamento del Distrito Federal o los Delegados según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
+Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. El Jefe de Gobierno del Distrito Federal o los Delegados según el caso, pueden conceder dispensas de edad por causas graves y justificadas.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1970)</small>
 
@@ -1080,11 +1080,11 @@ El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matr
 
 Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, suplirá el consentimiento, en su caso, el Juez de lo Familiar de la residencia del menor.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 151.
 
-Los interesados pueden ocurrir al Jefe del Departamento de Distrito Federal o a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas Autoridades, después de levantar una información sobre el particular, suplirán o no el consentimiento.
+Los interesados pueden ocurrir al Jefe del Gobierno del Distrito Federal o a los Delegados, según el caso, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las mencionadas Autoridades, después de levantar una información sobre el particular, suplirán o no el consentimiento.
 
 ###### ARTICULO 152.
 
@@ -1294,7 +1294,7 @@ La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si as
 
 Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 188.
 
@@ -1716,7 +1716,7 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 267.
 
@@ -1804,7 +1804,7 @@ El divorcio así obtenido no surtirá efectos legales si se comprueba que los c�
 
 Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 273.
 
@@ -1860,7 +1860,7 @@ La reconciliación de los cónyuges pone término al juicio de divorcio en cualq
 
 El cónyuge que no haya dado causa al divorcio puede, antes de que se pronuncie la sentencia que ponga fin al litigio, otorgar a su consorte el perdón respectivo; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos a los que se refirió el perdón y que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie, o por hechos distintos que legalmente constituyan causa suficiente para el divorcio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 282.
 
@@ -1950,7 +1950,7 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ## TITULO SEXTO. Del parentesco, de los alimentos y de la violencia familiar
 
@@ -2128,7 +2128,7 @@ Cuando el deudor alimentario no estuviere presente o estándolo rehusare entrega
 
 El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 164. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de lo Familiar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraidos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO III. De la Violencia Familiar
 
@@ -2632,7 +2632,7 @@ Los derechos y obligaciones que resultan del parentesco natural no se extinguen 
 
 La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 405.
 
@@ -2924,7 +2924,7 @@ II.- Con la emancipación, derivada del matrimonio.
 
 III.- Por la mayor edad del hijo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 444.
 
@@ -3066,7 +3066,7 @@ Ninguna tutela puede conferirse sin que previamente se declare en los términos 
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ###### ARTICULO 464.
 
@@ -3176,7 +3176,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE JULIO DE 1992)</small>
 
 ### CAPITULO IV. De la tutela legítima de los mayores de edad incapacitados
 
@@ -3988,17 +3988,17 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 ### CAPITULO XV. De los Consejos Locales de Tutela y de los Jueces Pupilares
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 631.
 
-En cada Delegación habrá un Consejo Local de Tutelas compuesto de un Presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe del Departamento del Distrito Federal o por quien él autorice al efecto o por los Delegados, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+En cada Delegación habrá un Consejo Local de Tutelas compuesto de un Presidente y de dos vocales, que durarán un año en el ejercicio de su cargo, serán nombrados por el Jefe de Gobierno del Distrito Federal o por quien él autorice al efecto o por los Delegados, según el caso, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
 Los miembros del Consejo no cesarán en sus funciones aun cuando haya transcurrido el término para el que fueron nombrados, hasta que tomen posesión las personas que hayan sido designadas para el siguiente período.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MARZO DE 1971)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 632.
 
@@ -5094,9 +5094,11 @@ Se declara de utilidad pública la adquisición que haga el Gobierno de terrenos
 
 El Gobierno Federal podrá expropiar las cosas que pertenezcan a los particulares y que se consideren como notables y características manifestaciones de nuestra cultura nacional, de acuerdo con la ley especial correspondiente.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 834.
 
-Quienes actualmente sean propietarios de las cosas mencionadas en el artículo anterior, no podrán enajenarlas o gravarlas, ni alterarlas - en forma que pierdan sus características-, sin autorización del C. Presidente de la República, concedida por conducto de la Secretaría de Educación Pública y Bellas Artes.
+Quienes actualmente sean propietarios de las cosas mencionadas en el artículo anterior, no podrán enajenarlas o gravarlas, ni alterarlas (en forma que pierdan sus características,) sin autorización del C. Presidente de la República, concedida por conducto de la Secretaría de Educación Pública.
 
 ###### ARTICULO 835.
 
@@ -6636,7 +6638,7 @@ ARTICULO 1,312.- Para juzgar de la capacidad del testador se atenderá especialm
 
 ### CAPITULO III. De la capacidad para heredar
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ARTICULO 1,313.- Todos los habitantes del Distrito Federal de cualquier edad que sean, tienen capacidad para heredar, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
 
@@ -6656,7 +6658,7 @@ ARTICULO 1,314.- Son incapaces de adquirir por testamento o por intestado, a cau
 
 ARTICULO 1,315.- Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ARTICULO 1,316.- Son incapaces de heredar por testamento o por intestado:
 
@@ -7298,7 +7300,7 @@ ARTICULO 1,548.- El testamento cerrado quedará sin efecto siempre que se encuen
 
 ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1,508 y 1,509, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 6 DE ENERO DE 1994)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 6 DE ENERO DE 1994)</small>
 
 ### CAPITULO III BIS. Testamento público simplificado
 
@@ -7584,7 +7586,7 @@ ARTICULO 1,634.- A falta de los llamados en los artículos anteriores, sucederá
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO VI. De la Sucesión de los Concubinos
 
@@ -7978,7 +7980,7 @@ ARTICULO 1,776.- Cuando todos los herederos sean mayores, y el interés del Fisc
 
 Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 1,777.- La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
 
@@ -8388,7 +8390,7 @@ Los créditos por indemnización cuando la víctima fuere un asalariado son intr
 
 Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ARTICULO 1,916.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
 
@@ -8496,7 +8498,7 @@ ARTICULO 1,933.- Los jefes de familia que habiten una casa o parte de ella, son 
 
 ARTICULO 1,934.- La acción para exigir la reparación de los daños causados en los términos del presente capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -8810,7 +8812,7 @@ ARTICULO 2,032.- La cesión de un crédito comprende la de todos los derechos ac
 
 Los intereses vencidos se presume que fueron cedidos con el crédito principal.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,033.- La cesión de créditos civiles que no sean a la orden o al portador, puede hacerse en escrito privado que firmarán cedente, cesionario y dos testigos. Sólo cuando la ley exija que el título del crédito cedido conste en escritura pública, la cesión deberá hacerse en esta clase de documento.
 
@@ -9584,25 +9586,25 @@ ARTICULO 2,315.- En la venta de que habla el artículo 2,312, mientras que no pa
 
 ### CAPITULO VIII. De la forma del contrato de compra-venta
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,316.- El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ARTICULO 2,317.- Las enajenaciones de bienes inmuebles cuyo valor de avalúo no exceda al equivalente a trescientas sesenta y cinco veces el salario mínimo general diario vigente en el Distrito Federal en el momento de la operación y la constitución o trasmisión de derechos reales estimados hasta la misma cantidad o que garanticen un crédito no mayor de dicha suma, podrán otorgarse en documento privado firmado por los contratantes ante dos testigos cuyas firmas se ratifiquen ante Notario, Juez competente o Registro Público de la Propiedad.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Los contratos por los que el Departamento del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
+Los contratos por los que el Gobierno del Distrito Federal enajene terrenos o casas para la constitución del patrimonio familiar o para personas de escasos recursos económicos, hasta por el valor máximo a que se refiere el artículo 730, podrán otorgarse en documento privado, sin los requisitos de testigos o de ratificación de firmas.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-En los programas de regularización de la tenencia de la tierra que realice el Departamento del Distrito Federal sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el artículo 730 de este Código, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
+En los programas de regularización de la tenencia de la tierra que realice el Gobierno del Distrito Federal sobre inmuebles de propiedad particular, cuyo valor no rebase el que señala el artículo 730 de este Código, los contratos que se celebren entre las partes, podrán otorgarse en las mismas condiciones a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Los contratos a que se refiere el párrafo segundo, así como los que se otorguen con motivo de los programas de regularización de la tenencia de la tierra que realice el Departamento del Distrito Federal sobre inmuebles de propiedad particular, podrán también otorgarse en el protocolo abierto especial a cargo de los notarios del Distrito Federal, quienes en esos casos reducirán en un cincuenta por ciento las cuotas que correspondan conforme al arancel respectivo.
+Los contratos a que se refiere el párrafo segundo, así como los que se otorguen con motivo de los programas de regularización de la tenencia de la tierra que realice el Gobierno del Distrito Federal sobre inmuebles de propiedad particular, podrán también otorgarse en el protocolo abierto especial a cargo de los notarios del Distrito Federal, quienes en esos casos reducirán en un cincuenta por ciento las cuotas que correspondan conforme al arancel respectivo.
 
 ARTICULO 2,318.- Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del art. 1,834.
 
@@ -9678,7 +9680,7 @@ ARTICULO 2,344.- Si el valor de los muebles excede de doscientos pesos, pero no 
 
 Si excede de cinco mil pesos, la donación se reducirá a escritura pública.
 
-> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTICULO EN LOS TERMINOS DEL ARTICULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTICULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
+> <small>N. DE E. SE MODIFICA EL TEXTO DEL PRESENTE ARTÍCULO EN LOS TÉRMINOS DEL ARTÍCULO 54 DE LA LEY DEL NOTARIADO PARA EL DISTRITO FEDERAL Y TERRITORIOS, DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO 14 DE LAS DISPOSICIONES TRANSITORIAS DE LA CITADA LEY, PUBLICADA EN EL D.O.F. 23 DE FEBRERO DE 1946.</small>
 
 ARTICULO 2,345.- La donación de bienes raíces se hará en la misma forma que para su venta exige la ley.
 
@@ -9966,7 +9968,7 @@ Si el arrendamiento debe ser inscrito en el Registro, sólo vale el inscrito.
 
 ARTICULO 2,447.- En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo 2448-J de este Código.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 ### CAPITULO IV. Del arrendamiento de fincas urbanas destinadas a la Habitación
 
@@ -9990,7 +9992,7 @@ ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de fin
 
 ARTICULO 2,448 D.- Para los efectos de este Capítulo la renta deberá estipularse en moneda nacional.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -10020,13 +10022,17 @@ VII.- El término del contrato.
 
 VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-ARTICULO 2,448 G.- El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
+ARTICULO 2,448 G.- El arrendador deberá registrar el contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal. Una vez cumplido este requisito, entregará al arrendatario una copia registrada del contrato.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
 El arrendatario tendrá acción para demandar el registro mencionado y la entrega de la copia del contrato.
 
-Igualmente el arrendatario tendrá derecho para registrar su copia del contrato de arrendamiento ante la autoridad competente del Departamento del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Igualmente el arrendatario tendrá derecho para registrar su copia de contrato de arrendamiento ante la autoridad competente del Gobierno del Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -10968,7 +10974,7 @@ ARTICULO 2,734.- Si al terminar la sociedad en que hubiere socios capitalistas e
 
 ARTICULO 2,735.- Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO VI. De las Personas Morales Extranjeras de Naturaleza Privada
 
@@ -11512,9 +11518,9 @@ Puede también convenir con el deudor en que se le adjudique en el precio que se
 
 ARTICULO 2,917.- Para la constitución de créditos con garantía hipotecaria se observarán las formalidades establecidas en los artículos 2317 y 2320.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 1976)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Departamento del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
+Los contratos en los que se consigne garantía hipotecaria otorgada con motivo de la enajenación de terrenos o casas por el Gobierno del Distrito Federal para la constitución del patrimonio familiar o para personas de escasos recursos, cuando el valor del inmueble hipotecado no exceda del valor máximo establecido en el artículo 730, se observarán las formalidades establecidas en el párrafo segundo del artículo 2317.
 
 ARTICULO 2,918.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
@@ -11838,17 +11844,17 @@ ARTICULO 2,997.- Pagados los créditos enumerados en los capítulos que preceden
 
 ARTICULO 2,998.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ## TITULO SEGUNDO. Del registro público
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO I. De su organización
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-ARTICULO 2,999.- Las oficinas del Registro Público se establecerán en el Distrito Federal y estarán ubicadas en el lugar que determine el Jefe del Departamento del Distrito Federal.
+ARTICULO 2,999.- Las oficinas del Registro Público se establecerán en el Distrito Federal y estarán ubicadas en el lugar que determine el Jefe de Gobierno del Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -11880,7 +11886,7 @@ V.- No expidan los certificados en el término reglamentario.
 
 ARTICULO 3,004.- Las sentencias firmes que resulten en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO II. Disposiciones comunes de los documentos registrables
 
@@ -12132,7 +12138,7 @@ ARTICULO 3,041.- Podrá también cancelarse, total o parcialmente la hipoteca qu
 
 ### CAPITULO III. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)(F. DE E., D.O.F. 29 DE MARZO DE 1985)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE FEBRERO DE 1985)(F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
 ARTICULO 3,042.- En el Registro Público de la Propiedad Inmueble se inscribirán:
 
@@ -12152,7 +12158,7 @@ III.- Los contratos de arrendamiento de bienes inmuebles, por un período mayor 
 
 IV.- Los demás títulos que la ley ordene expresamente que sean registrados.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 21 DE JULIO DE 1993)</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -12298,7 +12304,9 @@ c) Constancias relativas al estado catastral y predial del inmueble, si existier
 
 III.- Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
 
-El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Departamento del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Gobierno del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación;
 
 IV.- Si existiere oposición de las personas mencionadas en la fracción anterior, el Director del Registro Público dará por terminado el procedimiento, a efecto de que la controversia sea resuelta por el Juez competente;
 
@@ -12424,7 +12432,7 @@ Los asientos podrán anularse por resolución judicial con audiencia de los inte
 
 ARTICULO 3,068.- La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 3009.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, D.O.F. 3 DE ENERO DE 1979)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, D.O.F. 3 DE ENERO DE 1979)</small>
 
 ### CAPITULO IV. Del registro de operaciones sobre bienes muebles
 
@@ -12546,23 +12554,23 @@ Sufragio Efectivo. No Reelección.
 
 México, a 30 de agosto de 1928.- El Secretario de Estado y del Despacho de Gobernación, Emilio Portes Gil.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE MARZO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 20 DE ENERO DE 1940.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 11 DE NOVIEMBRE DE 1943.
 
-DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAIS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACION VIGENTES
+DECRETO DE 24 DE SEPTIEMBRE DE 1943, QUE PRORROGA EN EL DISTRITO FEDERAL, POR EL TIEMPO QUE DURE LA GUERRA EN QUE SE ENCUENTRA EL PAÍS, TODA CLASE DE CONTRATOS DE ARRENDAMIENTO DE CASAS-HABITACIÓN VIGENTES
 
 ###### ARTICULO 1o.
 
@@ -12578,7 +12586,7 @@ Los términos que estuvieron corriendo de conformidad con el artículo 2478 del 
 
 D.O.F. 9 DE JUNIO DE 1944.
 
-DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACION EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
+DECRETO DE 15 DE MAYO DE 1944, QUE PRORROGA LOS CONTRATOS DE ARRENDAMIENTO DE CASA HABITACIÓN EN LOS TERRITORIOS FEDERALES EN BENEFICIO DE LOS INQUILINOS, MIENTRAS DURE EL ESTADO DE GUERRA.
 
 ###### ARTICULO 1o.
 
@@ -12594,13 +12602,13 @@ Los términos que estuvieron corriendo de conformidad con el artículo 2478 del 
 
 D.O.F. 23 DE FEBRERO DE 1946.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 14 DE ENERO DE 1948.
 
-ARTICULOS TRANSITORIOS DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR.
+ARTÍCULOS TRANSITORIOS DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -12612,7 +12620,7 @@ Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y t
 
 D.O.F. 27 DE FEBRERO DE 1951.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 18 DE ENERO DE 1952.
 
@@ -12642,11 +12650,11 @@ El presente decreto entrará en vigor diez días después de la fecha de su publ
 
 D.O.F. 15 DE DICIEMBRE DE 1954.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE DICIEMBRE DE 1954.
 
-EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE DICIEMBRE DE 1966.
 
@@ -12662,7 +12670,7 @@ UNICO.- Este Decreto entrará en vigor tres días después de la fecha de su pub
 
 D.O.F. 17 DE ENERO DE 1970.
 
-DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTICULO 511 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
+DECRETO QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 511 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO UNICO.
 
@@ -12756,9 +12764,9 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
-DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, Y EN EL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES CONTENIDAS EN EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, Y EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
 
 ###### ARTICULO PRIMERO.
 
@@ -12766,7 +12774,7 @@ El presente Ordenamiento entrará en vigor 90 días después de su publicación 
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
-DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL (ARTICULO 17); DEL CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGANICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMUN DEL DISTRITO FEDERAL; Y DEL CODIGO DE COMERCIO.
+DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL (ARTÍCULO 17); DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL, DE LA LEY ORGÁNICA DE LOS TRIBUNALES DE JUSTICIA DEL FUERO COMÚN DEL DISTRITO FEDERAL; Y DEL CÓDIGO DE COMERCIO.
 
 ###### ARTICULO PRIMERO.
 
@@ -12790,7 +12798,7 @@ Las presentes reformas al Código Civil para el Distrito Federal en Materia Com�
 
 D.O.F. 7 DE ENERO DE 1988.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
 
 ###### ARTICULO PRIMERO.
 
@@ -12816,7 +12824,7 @@ Las solicitudes de inmatriculación por resolución del Director del Registro P�
 
 D.O.F. 7 DE ENERO DE 1988.
 
-DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+DECRETO POR EL QUE SE REFORMA Y ADICIONA EL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -12866,7 +12874,7 @@ SEXTO.- En los casos en que con anterioridad a la entrada en vigor del presente 
 
 D.O.F. 10 DE ENERO DE 1994.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
 
@@ -12874,13 +12882,13 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 D.O.F. 24 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 24 DE DICIEMBRE DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
 
@@ -12961,3 +12969,9 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
