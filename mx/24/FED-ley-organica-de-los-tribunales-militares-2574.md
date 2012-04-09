@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-los-tribunales-militares-2574"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1929-06-22"
-last_updated: "1931-02-24"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2574&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1929-06-04"
 ---
 # LEY ORGANICA DE LOS TRIBUNALES MILITARES
 
-LEY ORGANICA DE LOS TRIBUNALES MILITARES
+LEY ORGÁNICA DE LOS TRIBUNALES MILITARES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE FEBRERO DE 1931.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 22 de junio de 1929.
 
@@ -95,9 +95,11 @@ Si en una sesión no fuere posible dicha unificación, se votará nuevamente en 
 
 El Supremo Tribunal Militar, tendrá un Secretario de Acuerdos y dos Auxiliares, cuatro Oficiales Mayores y los subalternos que las necesidades del servicio requieran.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 10.
 
-Los Magistrados y los Secretarios serán designados por el C. Presidente de la República; los últimos a propuesta de la Secretaría de Guerra y Marina.
+Los Magistrados y los Secretarios serán designados por el C. Presidente de la República; los últimos a propuestas de la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 11.
 
@@ -135,9 +137,11 @@ X.- De los demás asuntos que las leyes y los reglamentos sometan a su decisión
 
 Todos los días, exceptuando los feriados, el Supremo Tribunal Militar, se reunirá en Pleno, para discutir y acordar los asuntos de su competencia. Sus audiencias serán públicas, salvo los casos en que la moral y los intereses sociales exijan que sean secretas.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 15.
 
-El Presidente del Supremo Tribunal Militar, será suplido en sus faltas temporales o accidentales que no excedan de quince días, por los demás Magistrados en el orden de su nombramiento. En las faltas que excedan de dicho término, la Secretaría de Guerra designará el que deba suplirlo.
+El presidente del Supremo Tribunal Militar, será suplido en sus faltas temporales o accidentales que no excedan de quince días, por los demás Magistrados en el orden de su nombramiento. En las faltas que excedan de dicho término, la Secretaría de la Defensa Nacional designará el que deba suplirlo.
 
 ###### ARTICULO 16.
 
@@ -145,7 +149,9 @@ Son atribuciones del Supremo Tribunal Militar:
 
 I.- Proponer las medidas que estime convenientes para que la administración de justicia sea recta y expedita, en los Tribunales del Fuero de Guerra.
 
-II.- Conceder licencia a los Magistrados, Secretarios, Oficiales Mayores y demás empleados subalternos del Tribunal, hasta por quince días, con aprobación de la Secretaría de Guerra.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- Conceder licencia a los Magistrados, Secretarios, Oficiales Mayores y demás empleados subalternos del Tribunal, hasta por quince días, con aprobación de la Secretaría de la Defensa Nacional.
 
 III.- Pedir la remoción de los Secretarios, Oficiales Mayores y demás subalternos cuando hubiere motivos para ello.
 
@@ -153,11 +159,15 @@ IV.- Imponer correcciones disciplinarias a quienes cometan faltas en el despacho
 
 V.- Resolver las reclamaciones de los Jueces Militares contra las excitativas de justicia y demás providencias y acuerdos del Presidente del Tribunal, en ejercicio de sus atribuciones.
 
-VI.- Iniciar ante la Secretaría de Guerra, las reformas que estime conveniente introducir en la Legislación Militar.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VI.- Iniciar ante la Secretaría de la Defensa Nacional, las reformas que estime conveniente introducir en la Legislación Militar.
 
 VII.- Expedir circulares, dando instrucciones a los funcionarios de la administración de justicia militar, encaminadas a obtener el mejor desempeño de su cargo.
 
-VIII.- Expedir o modificar el reglamento del Supremo Tribunal Militar, con la aprobación de la Secretaría de Guerra.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII.- Expedir o modificar el reglamento del Supremo Tribunal Militar, con la aprobación de la Secretaría de la Defensa Nacional.
 
 IX.- Tomar la protesta de ley a los Secretarios, Oficiales Mayores y demás subalternos del Tribunal, así como a los Jueces Militares residentes en el mismo lugar.
 
@@ -175,7 +185,9 @@ Son atribuciones del Presidente del Supremo Tribunal Militar:
 
 I.- Recibir quejas e informes de palabra y por escrito, sobre demoras, excesos o faltas en el despacho de los negocios. Si las faltas fuesen leves, dictará las providencias oportunas para su corrección, pero si fueren graves, dará cuenta al Tribunal para que éste resuelva.
 
-II.- Comunicar a la Secretaría de Guerra, las faltas absolutas o temporales de los Magistrados, Secretarios, Oficiales Mayores y demás subalternos del Supremo Tribunal.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- Comunicar a la Secretaría de la Defensa Nacional, las faltas absolutas o temporales de los Magistrados, Secretarios, Oficiales Mayores y demás subalternos del Supremo Tribunal.
 
 III.- Conceder licencias hasta por tres días al personal citado.
 
@@ -271,17 +283,21 @@ En todo lo concerniente a la organización de los Jurados Militares Extraordinar
 
 ### CAPITULO V. Del Juez Militar
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 35.
 
-Habrá el número de Jueces Militares que las necesidades del servicio de Justicia Militar requieran, con jurisdicción en la zona que la Secretaría de Guerra determine.
+Habrá el número de Jueces Militares que las necesidades del servicio de Justicia Militar requieran, con jurisdicción en la zona que la Secretaría de la Defensa Nacional determine.
 
 ###### ARTICULO 36.
 
 La planta de cada Juzgado Militar se compondrá de un Juez, un Secretario, un Oficial Mayor y los subalternos que las necesidades del servicio requieran.
 
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 37.
 
-Los Jueces Militares, Secretarios, Oficiales Mayores y demás personal, serán designados por el C. Presidente de la República, a propuesta de la Secretaría de Guerra.
+Los Jueces Militares, Secretarios, Oficiales Mayores y demás personal, serán designados por el Presidente de la República, a propuesta de la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 38.
 
@@ -339,9 +355,13 @@ XI.- Comunicar a la Procuraduría General Militar, todas las irregularidades que
 
 XII.- Rendir los estados mensuales e informes que el Supremo Tribunal solicite.
 
-XIII.- Conceder licencias que no excedan de quince días, al personal de su Juzgado, con aprobación de la Secretaría de Guerra.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XIV.- Iniciar ante la Secretaría de Guerra, las leyes y reglamentos que estime necesarios para la buena administración de justicia.
+XIII.- Conceder licencias que no excedan de quince días, al personal de su Juzgado, con aprobación de la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XIV. Iniciar ante la Secretaría de la Defensa Nacional, las leyes y reglamentos que estime necesarios para la buena administración de justicia.
 
 XV.- Llevar libros de partida, correspondencia, estadística y demás necesarios para el servicio.
 
@@ -389,8 +409,14 @@ El Subsecretario de Gobernación, Encargado del Despacho, F. Canales.
 
 Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE FEBRERO DE 1931.
 
 ARTICULO TRANSITORIO.- Este Decreto comenzará a regir desde el primero de enero de 1931.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
