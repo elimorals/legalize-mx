@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2012-01-27"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -118,17 +118,19 @@ El Presidente de la República, al informar ante el Congreso de la Unión sobre 
 
 En el mes de marzo de cada año, el Ejecutivo remitirá a la Comisión Permanente del Congreso de la Unión el informe de las acciones y resultados de la ejecución del plan y los programas a que se refiere el párrafo anterior, incluyendo un apartado específico con todo lo concerniente al cumplimiento de las disposiciones del artículo 2 Constitucional en materia de derechos y cultura indígena.
 
-El contenido de las Cuentas anuales de la Hacienda Pública Federal y del Departamento del Distrito Federal deberá relacionarse, en lo conducente, con la información a que aluden los dos párrafos que anteceden, a fin de permitir a la Cámara de Diputados el análisis de las cuentas, con relación a los objetivos y prioridades de la Planeación Nacional referentes a las materias objeto de dichos documentos.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El contenido de las Cuentas Anuales de la Hacienda Pública Federal y del Gobierno del Distrito Federal deberá relacionarse, en lo conducente, con la información a que aluden los dos párrafos que anteceden, a fin de permitir a la Cámara de Diputados el análisis de las cuentas, con relación a los objetivos y prioridades de la Planeación Nacional referentes a las materias objeto de dichos documentos.
 
 ###### Artículo 7o.
 
 El Presidente de la República, al enviar a la Cámara de Diputados las iniciativas de leyes de Ingresos y los proyectos de Presupuesto de Egresos, informará del contenido general de dichas iniciativas y proyectos y su relación con los programas anuales que, conforme a lo previsto en el Artículo 27 de esta ley, deberán elaborarse para la ejecución del Plan Nacional de Desarrollo.
 
-> <small>N. DE E. CON LA REFORMA PUBLICADA EN EL D.O.F. 23 DE MAYO DE 2002, LA PARTE FINAL DEL PRIMER PARRAFO SE CONVIERTE EN EL SEGUNDO PARRAFO DE ESTE ARTICULO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 8o.
 
-Los Secretarios de Estado y los Jefes de los Departamentos Administrativos, al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas. Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica y social, en función de dichos objetivos y prioridades.
+Los Secretarios de Estado al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
@@ -144,7 +146,9 @@ Los funcionarios a que alude el primer párrafo de este artículo y los Director
 
 Las dependencias de la administración pública centralizada deberán planear y conducir sus actividades con perspectiva de género y con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, integral y sustentable.
 
-Lo dispuesto en el párrafo anterior será aplicable a las entidades de la administración pública paraestatal. A este efecto, los titulares de las Secretarías de Estado y Departamentos Administrativos, proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Lo dispuesto en el párrafo anterior será aplicable a las entidades de la administración pública paraestatal. A este efecto, los titulares de las Secretarías de Estado proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ABRIL DE 2003)</small>
 
@@ -154,9 +158,11 @@ El Ejecutivo Federal establecerá un Sistema de Evaluación y Compensación por 
 
 Los proyectos de iniciativas de leyes y los reglamentos, decretos y acuerdos que formule el Ejecutivo Federal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan y los programas respectivos.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 11.
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo que resuelva, para efectos administrativos, el Ejecutivo Federal, por conducto de la Secretaría de Programación y Presupuesto.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley, se estará a lo que resuelva para afectos (sic) administrativos, el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
 
 ### CAPITULO SEGUNDO. Sistema Nacional de Planeación Democrática
 
@@ -264,13 +270,17 @@ V.- Asegurar la congruencia del programa institucional con el programa sectorial
 
 VI.- Verificar periódicamente la relación que guarden sus actividades, así como los resultados de su ejecución con los objetivos y prioridades del programa institucional.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 18.
 
-La Secretaría de la Contraloría de la Federación deberá aportar elementos de juicio para el control y seguimiento de los objetivos y prioridades del Plan y los programas.
+La Secretaría de la Función Pública deberá aportar elementos de juicio para el control y seguimiento de los objetivos y prioridades del Plan y los programas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 19.
 
-El Presidente de la República podrá establecer comisiones intersecretariales para la atención de actividades de la planeación nacional que deban desarrollar conjuntamente varias Secretarías de Estado o Departamentos Administrativos.
+El Presidente de la República podrá establecer comisiones intersecretariales para la atención de actividades de la planeación nacional que deban desarrollar conjuntamente varias Secretarías de Estado.
 
 Estas comisiones podrán, a su vez, contar con subcomisiones para la elaboración de programas especiales que el mismo Presidente determine.
 
@@ -346,7 +356,9 @@ El Plan y los programas a que se refieren los artículos anteriores especificar�
 
 El Plan y los programas regionales especiales, deberán ser sometidos por la Secretaría de Hacienda y Crédito Público a la consideración y aprobación del Presidente de la República.
 
-Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Presidente de la República por la dependencia coordinadora del sector correspondiente, previo dictamen de la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Presidente de la República por la dependencia coordinadora del sector correspondiente, previo dictamen de la Secretaría de Hacienda y Crédito Público.
 
 Los programas institucionales deberán ser sometidos por el órgano de gobierno y administración de la entidad paraestatal de que se trate, a la aprobación del titular de la dependencia coordinadora del sector.
 
@@ -426,11 +438,11 @@ Los contratos y convenios que se celebren conforme a este capítulo se considera
 
 Las controversias que se susciten con motivo de la interpretación y cumplimiento de estos contratos y convenios, serán resueltos por los tribunales federales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 40.
 
-Los proyectos de Presupuesto de Egresos de la Federación y del Departamento del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social, ambiental y cultural, deberán ser congruentes con los objetivos y prioridades del plan y los programas a que se refiere esta Ley.
+Los proyectos de Presupuesto de Egresos de la Federación y del Distrito Federal; los programas y presupuestos de las entidades paraestatales no integrados en los proyectos mencionados; las iniciativas de las leyes de ingresos, los actos que las dependencias de la administración pública federal realicen para inducir acciones de los sectores de la sociedad, y la aplicación de los instrumentos de política económica, social y ambiental, deberán ser congruentes con los objetivos y prioridades del plan y los programas a que se refiere esta Ley.
 
 > <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2002)</small>
 
@@ -515,3 +527,9 @@ D.O.F. 27 DE ENERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los Estados deberán adecuar sus leyes de la materia conforme a lo dispuesto en este Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
