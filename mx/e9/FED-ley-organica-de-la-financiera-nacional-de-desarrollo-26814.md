@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-financiera-nacional-de-desarrollo-26814"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-26"
-last_updated: "2009-06-26"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-12-23"
 ---
 # LEY ORGANICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO - ANTES - LEY ORGANICA DE LA FINANCIERA RURAL
 
-LEY ORGANICA DE LA FINANCIERA RURAL
+LEY ORGÁNICA DE LA FINANCIERA RURAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 26 de diciembre de 2002.
 
@@ -535,7 +535,9 @@ I. Dos representantes de la Secretaría de Hacienda; el Subsecretario de Egresos
 
 II. Una persona que por sus conocimientos y desarrollo profesional tenga amplia experiencia en el área de recursos humanos;
 
-III. Un representante de la Secretaría de Contraloría y Desarrollo Administrativo, que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III. Un representante de la Secretaría de la Función Pública, que será el Subsecretario de Desarrollo y Simplificación Administrativa.
 
 IV. El miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -631,13 +633,17 @@ La Financiera estará obligada a suministrar al Banco de México y a la Comisió
 
 ### CAPITULO SEXTO. Del Control, Vigilancia y Evaluación de la Financiera
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 50.
 
-La Financiera contará con un comisario propietario y con un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, quienes asistirán con voz pero sin voto a las reuniones del Consejo. Los comisarios públicos vigilarán y evaluarán la operación de la Financiera y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
+La Financiera contará con un comisario propietario y con un suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las reuniones del Consejo. Los comisarios públicos vigilarán y evaluarán la operación de la Financiera y tendrán las atribuciones contenidas en la Ley Federal de las Entidades Paraestatales y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 51.
 
-La Financiera contará con un órgano interno de control, en los términos del artículo 62 de la Ley Federal de las Entidades Paraestatales, integrándose el mismo por un titular al frente de dicho órgano, así como por los titulares de las áreas de Auditoría Interna, Auditoría de Control y Evaluación, de Quejas y Responsabilidades, que serán designados por la Secretaría de Contraloría y Desarrollo Administrativo, en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, quienes contarán con las facultades que respectivamente se les otorgan en las fracciones III y IV del artículo 47 del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+La financiera contará con un órgano interno de control, en los términos del artículo 62 de la Ley Federal de las Entidades paraestatales, integrándose el mismo por un titular al frente de dicho órgano, así como por los titulares de las áreas de Auditoría Interna, Auditoria de Control y Evaluación, de Quejas y Responsabilidades, que serán designados por la Secretaría de la Función Pública, en términos del artículo 37, fracción XII, de la Ley Orgánica de la Administración Publica Federal, quienes contarán con las facultades que respectivamente se les otorgan en las fracciones III y IV del artículo 47 del Reglamento Interior de la Secretaría de la Función Pública.
 
 ###### Artículo 52.
 
@@ -647,7 +653,9 @@ La Comisión podrá establecer programas preventivos o correctivos de cumplimien
 
 El incumplimiento o violación a la presente Ley se sancionará con multa que impondrá la Comisión equivalente de cien a cincuenta mil veces el salario mínimo general vigente en el Distrito Federal. Para la imposición de las multas se seguirá el procedimiento establecido en el artículo 110 de la Ley de Instituciones de Crédito, cargando su importe contra el patrimonio líquido de la Financiera.
 
-Adicionalmente a lo dispuesto por los dos párrafos anteriores, en el caso de que la Comisión detecte alguna irregularidad, deberá informar de ello a la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Adicionalmente a lo dispuesto por los dos párrafos anteriores, en el caso de que la Comisión detecte alguna irregularidad, deberá informar de ello a la Secretaría de la Función Pública.
 
 En el ejercicio de sus responsabilidades, la Comisión deberá considerar la naturaleza y el objeto propios de la Financiera.
 
@@ -853,7 +861,7 @@ México, D.F., a 13 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Pr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 1 DE AGOSTO DE 2005.
 
@@ -864,3 +872,9 @@ Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del pres
 D.O.F. 26 DE JUNIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
