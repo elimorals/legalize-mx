@@ -4,7 +4,7 @@ identifier: "LPDUSF"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-18"
-last_updated: "2011-08-30"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12994&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LPDUSF"
 ---
 # LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
+LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 18 de enero de 1999.
 
@@ -668,9 +668,11 @@ Las demás disposiciones relativas a la organización y funcionamiento de los Co
 
 ### CAPÍTULO III. DE LA VIGILANCIA Y CONTROL DE LA COMISIÓN NACIONAL
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 39.
 
-Para la vigilancia y control de la Comisión Nacional, la Secretaría de Contraloría y Desarrollo Administrativo designará un Comisario Público Propietario y uno Suplente, quienes actuarán ante la Junta, independientemente del órgano de control interno a que se refiere este Capítulo.
+Para la vigilancia y control de la Comisión Nacional, la Secretaría de la Función Pública designará un Comisario Público Propietario y uno Suplente, quienes actuarán ante la Junta, independientemente del órgano de control interno a que se refiere este Capítulo.
 
 ###### ARTÍCULO 40.
 
@@ -680,11 +682,11 @@ Los Comisarios Públicos a que se refiere el artículo anterior, evaluarán el d
 
 La Comisión Nacional contará con un órgano de control interno que será parte integrante de su estructura orgánica. Las acciones que lleve a cabo dicho órgano de control, tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la Comisión Nacional.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 42.
 
-El órgano de control interno de la Comisión Nacional tendrá las facultades que señalen las disposiciones legales aplicables, el Estatuto Orgánico y demás ordenamientos. Desarrollará sus atribuciones conforme a los lineamientos que emita la Secretaría de Contraloría y Desarrollo Administrativo, de la cual dependerá su Titular, así como sus áreas de auditoría, quejas y responsabilidades.
+El órgano de control interno de la Comisión Nacional tendrá las facultades que señalen las disposiciones legales aplicables, el Estatuto Orgánico y demás ordenamientos. Desarrollará sus atribuciones conforme a los lineamientos que emita la Secretaría de la Función Pública, de la cual dependerá su Titular, así como sus áreas de auditoría, quejas y responsabilidades.
 
 ###### ARTÍCULO 43.
 
@@ -1699,3 +1701,9 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
