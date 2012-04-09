@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2008-07-14"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINS"
 
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -220,9 +220,11 @@ Los Institutos Nacionales de Salud contarán con un sistema integral de profesio
 
 La organización, funcionamiento y desarrollo del sistema a que se refiere el párrafo anterior, se regirá por las normas que dicte la Secretaría en coordinación con la Secretaría de Hacienda y Crédito Público.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 13.
 
-La Coordinadora de Sector y las secretarías de Hacienda y Crédito Público y de Contraloría y Desarrollo Administrativo deberán racionalizar los requerimientos de información que demanden de los Institutos Nacionales de Salud.
+La Coordinadora de Sector y las Secretarías de Hacienda y Crédito Público y de la Función Pública deberán racionalizar los requerimientos de información que demanden de los Institutos Nacionales de Salud.
 
 ### Capítulo III. Órganos de administración
 
@@ -402,13 +404,17 @@ Los investigadores eméritos recibirán el estímulo económico y las prestacion
 
 ### Capítulo V. Órgano de vigilancia
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 32.
 
-Cada uno de los Institutos Nacionales de Salud contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente designados por la Secretaría de Contraloría y Desarrollo Administrativo, y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales.
+Cada uno de los Institutos Nacionales de Salud contará con un órgano de vigilancia integrado por un comisario público propietario y un suplente designados por la Secretaría de la Función Pública, y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 33.
 
-Cada uno de los Institutos Nacionales de Salud contará con un órgano interno de control, denominado Contraloría Interna, cuyo titular y los de las áreas de auditoría, quejas y responsabilidades que auxiliarán a éste, dependerán de la Secretaría de Contraloría y Desarrollo Administrativo.
+Cada uno de los Institutos Nacionales de Salud contará con un órgano interno de control, denominado Contraloría Interna, cuyo titular y los de las áreas de auditoría, quejas y responsabilidades que auxiliarán a éste, dependerán de la Secretaría de la Función Pública.
 
 ###### ARTÍCULO 34.
 
@@ -677,3 +683,9 @@ D.O.F. 14 DE JULIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
