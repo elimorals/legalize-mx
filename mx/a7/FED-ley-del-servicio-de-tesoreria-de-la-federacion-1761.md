@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-tesoreria-de-la-federacion-1761"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2007-10-01"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1761&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1985-12-19"
 ---
 # LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
 
-LEY DEL SERVICIO DE TESORERIA DE LA FEDERACION
+LEY DEL SERVICIO DE TESORERÍA DE LA FEDERACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 31 de diciembre de 1985.
 
@@ -79,7 +79,9 @@ III.- El Banco de México, las instituciones de crédito autorizadas y las entid
 
 IV.- Las Tesorerías de los Poderes Legislativo y Judicial;
 
-V.- Las dependencias del Departamento del Distrito Federal y de los gobiernos de los Estados adheridos al Sistema Nacional de Coordinación Fiscal, así como de los Municipios de éstos últimos, y
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V.- Las dependencias del Gobierno del Distrito Federal y de los gobiernos de los estados adheridos al Sistema Nacional de Coordinación Fiscal, así como de los municipios de éstos últimos, y
 
 VI.- Los particulares legalmente autorizados.
 
@@ -101,11 +103,11 @@ En los casos en que sea procedente la remoción, suspensión temporal o separaci
 
 Cuando en los términos de la legislación penal, se deba privar de la libertad a servidores públicos que tengan a su cargo el manejo de los fondos, valores o bienes de la propiedad o al cuidado del Gobierno Federal, se dictarán las providencias necesarias para que se haga la entrega correspondiente a la Tesorería o a los auxiliares.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 10.
 
-Siempre que durante la prestación de sus servicios, se encuentren fondos y valores en poder de los servidores públicos que manejen fondos o valores del Gobierno Federal o al cuidado del mismo, y su tenencia no se justifique, serán registrados en la oficina cuentadante y no podrá disponerse de ellos hasta que resuelva la Contraloría Interna de la Secretaría, conforme a sus atribuciones, con la intervención que corresponda a la Secretaría de la Contraloría y Desarrollo Administrativo.
+Siempre que durante la prestación de sus servicios, se encuentren fondos y valores en poder de los servidores públicos que manejen fondos o valores del Gobierno Federal o al cuidado del mismo, y su tenencia no se justifique, serán registrados en la oficina cuentadante y no podrá disponerse de ellos hasta que resuelva la Contraloría Interna de la Secretaría, conforme a sus atribuciones, con la intervención que corresponda a la Secretaría de la Función Pública.
 
 > <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -171,9 +173,11 @@ La Tesorería podrá también expedir certificados especiales por el importe de 
 
 Los certificados a que se refiere el artículo anterior serán nominativos, intransferibles y deberán presentarse para su amortización en el plazo previsto por las leyes para el pago oportuno de los créditos fiscales respectivos o, cuando se trate de los que determine la Secretaría, dentro del mes siguiente a la fecha en que surta efecto la notificación correspondiente. Si se presentan fuera de los plazos de referencia, dichos créditos fiscales causarán recargos hasta la fecha de la presentación de los certificados. También causarán recargos los saldos insolutos que resulten de su aplicación.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 19.
 
-Las unidades administrativas de la Secretaría, del Departamento del Distrito Federal, de los Estados y de los Municipios, que estén facultadas para autorizar el pago diferido o en parcialidades de créditos fiscales federales, observarán los lineamientos, directrices, requisitos y limitaciones que, con la participación de la autoridad administrativa competente de la Secretaría, establezca la Tesorería.
+Las unidades administrativas de la Secretaría, del Gobierno del Distrito Federal, de los Estados y de los Municipios, que estén facultadas para autorizar el pago diferido o en parcialidades de créditos fiscales federales, observarán los lineamientos, directrices, requisitos y limitaciones que, con la participación de la autoridad administrativa competente de la Secretaría, establezca la Tesorería.
 
 ###### ARTICULO 20.
 
@@ -337,7 +341,9 @@ Los depósitos al cuidado o a disposición del Gobierno Federal constituidos en 
 
 Las autoridades federales distintas a las fiscales, que hayan exigido, exijan o acepten los depósitos a que se refiere el artículo anterior, vigilarán el cumplimiento de los actos constitutivos de tales depósitos y comunicarán oportuna y justificadamente a la Tesorería o a los auxiliares referidos en el artículo 5o., fracciones I y V de esta Ley, según corresponda, las resoluciones que impliquen su devolución o aplicación.
 
-Las oficinas recaudadoras de la Secretaría, las del Departamento del Distrito Federal, y de los Estados adheridos al Sistema Nacional de Coordinación Fiscal, así como las de los Municipios de estos últimos que tengan a su cuidado o disposición los depósitos, dictarán, cuando así proceda, las resoluciones que impliquen su devolución o aplicación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las oficinas recaudadoras de la Secretaría, las del Gobierno del Distrito Federal, y de los Estados adheridos al Sistema Nacional de Coordinación Fiscal, así como las de los Municipios de estos últimos que tengan a su cuidado o disposición los depósitos, dictarán, cuando así proceda, las resoluciones que impliquen su devolución o aplicación.
 
 ###### ARTICULO 38.
 
@@ -519,9 +525,9 @@ La reclamación se integrará con los siguientes documentos: pliego de responsab
 
 Cumplidos los requisitos anteriores, la Tesorería, dentro de los treinta días siguientes, cubrirá supletoriamente a la dependencia que haya sufrido los daños y perjuicios, con cargo al Fondo, el importe insoluto del crédito por responsabilidades de acuerdo a las disponibilidades financieras del Fondo.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-Cuando no se satisfaga alguno de los requisitos, la Tesorería en forma motivada y fundada devolverá la documentación para que se subsanen las omisiones, sin perjuicio de que la dependencia respectiva dé cuenta a la Secretaría de Contraloría y Desarrollo Administrativo.
+Cuando no se satisfaga alguno de los requisitos, la Tesorería en forma motivada y fundada devolverá la documentación para que se subsanen las omisiones, sin perjuicio de que la dependencia respectiva dé cuenta a la Secretaría de la Función Pública.
 
 > <small>(ADICIONADO, D.O.F. 29 DE MAYO DE 1998)</small>
 
@@ -579,9 +585,11 @@ En base a los convenios celebrados entre la Federación y los Estados adheridos 
 
 La Secretaría, por conducto de la Tesorería, podrá compensar adeudos que resulten de cantidades no concentradas por los Estados con cantidades que les correspondan en los fondos antes señalados.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 73.
 
-La Secretaría, a través de la Tesorería, operará el sistema de compensación para extinguir todos los créditos y adeudos recíprocos y correlacionados, líquidos y exigibles, incluidos los fiscales de las dependencias de la administración pública centralizada; de las entidades de la administración pública paraestatal que estén comprendidas en el Presupuesto de Egresos de la Federación y del Departamento del Distrito Federal y de las dependencias y entidades antes mencionadas, de acuerdo al procedimiento que establezca el Reglamento de esta Ley.
+La Secretaría, a través de la Tesorería, operará el sistema de compensación para extinguir todos los créditos y adeudos recíprocos y correlacionados, líquidos y exigibles, incluidos los fiscales de las dependencias de la administración pública centralizada; de las entidades de la administración pública paraestatal que estén comprendidas en el Presupuesto de Egresos de la Federación y del Distrito Federal y de las dependencias y entidades antes mencionadas, de acuerdo al procedimiento que establezca el Reglamento de esta Ley.
 
 ###### ARTICULO 74.
 
@@ -685,9 +693,11 @@ La Tesorería y sus auxiliares rendirán cuenta del manejo de fondos, bienes y v
 
 La Tesorería comunicará a los centros contables de las dependencias, cuáles son los auxiliares que, conforme a las disposiciones legales, les deben rendir directamente cuenta del manejo de fondos, bienes y valores federales para los fines consiguientes.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 91.
 
-Los resultados de las operaciones de compensación de adeudos, efectuadas por la Tesorería, por las unidades administrativas de la Secretaría o del Departamento del Distrito Federal y de los Estados adheridos al Sistema Nacional de Coordinación Fiscal, así como de los Municipios de estos últimos, deberán asentarse en los registros contables correspondientes.
+Los resultados de las operaciones de compensación de adeudos, efectuadas por la Tesorería, por las unidades administrativa de la Secretaría o del Gobierno del Distrito Federal y de los Estados adheridos al Sistema Nacional de Coordinación Fiscal, así como de los Municipios de estos últimos, deberán asentarse en los registros contables correspondientes.
 
 ###### ARTICULO 92.
 
@@ -707,7 +717,9 @@ Los créditos no fiscales a cargo de la Federación se registrarán en la contab
 
 La Tesorería vigilará y comprobará el funcionamiento adecuado de las oficinas que recauden, manejen, administren o custodien fondos o valores de la propiedad o al cuidado del Gobierno Federal, y el cumplimiento de las obligaciones que a este respecto incumben a los auxiliares de dicha Tesorería y a los servidores públicos, a efecto de que se ajusten a las disposiciones legales relativas.
 
-Las atribuciones de vigilancia de fondos y valores que confiere esta Ley a la Tesorería, se ejercerán sin perjuicio de las que en materia de control corresponden a la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Las atribuciones de vigilancia de fondos y valores que confiere esta Ley a la Tesorería, se ejercerán sin perjuicio de las que en materia de control corresponden a la Secretaría de la Función Pública.
 
 > <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
 
@@ -765,7 +777,9 @@ Si las irregularidades que se descubran revisten gravedad que lo justifique, pod
 
 Las consignaciones a las autoridades que deban fincar las responsabilidades descubiertas por el personal de la Tesorería se harán con sujeción a las reglas siguientes:
 
-I.- Si se trata de responsabilidades administrativas derivadas de la recaudación, manejo, custodia o administración de fondos y valores, una vez formado el expediente se turnará a la Secretaría de Contraloría y Desarrollo Administrativo.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Si se trata de responsabilidades administrativas derivadas de la recaudación, manejo, custodia o administración de fondos y valores, una vez formado el expediente se turnará a la Secretaría de la Función Pública.
 
 II.- Cuando se trate de responsabilidades que por su naturaleza requieran la intervención de las autoridades judiciales del orden penal, el personal de la Tesorería formará el expediente de la investigación administrativa con todas las actuaciones que se relacionen con los hechos descubiertos y que tiendan a comprobar los elementos que acrediten el tipo penal y la probable responsabilidad del indiciado, turnándolo a la Procuraduría Fiscal de la Federación para que previo estudio presente denuncia o querella ante el Ministerio Público Federal si procediere.
 
@@ -1298,3 +1312,9 @@ D.O.F. 1 DE OCTUBRE DE 2007.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
