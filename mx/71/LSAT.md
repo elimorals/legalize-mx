@@ -4,7 +4,7 @@ identifier: "LSAT"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2009-05-06"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LSAT"
 ---
 # LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
 
-LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARIA
+LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -576,11 +576,11 @@ La Secretaría de Hacienda y Crédito Público y el Servicio de Administración 
 
 ### Capítulo II. De la Evaluación de la Eficiencia Recaudatoria y de Fiscalización
 
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 28.
 
-En las tareas de recaudación y de fiscalización del Gobierno Federal, el Servicio de Administración Tributaria estará obligado a proporcionar a la Secretaría de Contraloría y Desarrollo Administrativo y a la Entidad de Fiscalización Superior de la Federación, en el ámbito de sus respectivas competencias y en los términos de las disposiciones que apliquen, la información estadística en materia de recaudación y fiscalización que éstas requieran, así como los elementos para la revisión selectiva que sean necesarios para verificar dicha información con el único propósito de corroborarla y, en su caso, fincar las responsabilidades que correspondan a los servidores públicos que la hayan elaborado. En todo caso, la Secretaría de Contraloría y Desarrollo Administrativo, así como la Entidad de Fiscalización Superior de la Federación estarán obligadas a guardar absoluta reserva de los datos en los términos del artículo 69 del Código Fiscal de la Federación.
+En las tareas de recaudación y de fiscalización del Gobierno Federal, el Servicio de Administración Tributaria estará obligado a proporcionar a la Secretaría de la Función Pública y a la Entidad de Fiscalización Superior de la Federación, en el ámbitos (sic) de sus respectivas competencias y en los términos de las disposiciones que apliquen, la información estadística en materia de recaudación y fiscalización que éstas requieran, así como los elementos para la revisión selectiva que sean necesarios para verificar dicha información con el único propósito de corroborarla y, en su caso, fincar las responsabilidades que correspondan a los servidores públicos que la hayan elaborado. En todo caso, la Secretaría de la Función Pública, así como la Entidad de Fiscalización Superior de la Federación estarán obligadas a guardar absoluta reserva de los datos en los términos del artículo 69 del Código Fiscal de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
@@ -729,3 +729,9 @@ Las medidas anteriores deberán ser cumplidas dentro de los 180 días naturales 
 D.O.F. 6 DE MAYO DE 2009.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
