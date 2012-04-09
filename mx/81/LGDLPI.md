@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2010-06-18"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGDLPI"
 ---
 # LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS
 
-LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS
+LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -216,9 +216,11 @@ El órgano de gobierno se reunirá cada seis meses de manera ordinaria, y de man
 
 Para el cumplimiento de sus atribuciones el Director General tendrá las facultades de dominio, de administración y para pleitos y cobranzas, incluyendo las que requieran de cláusula especial, sin más limitaciones que las específicas que le llegue a imponer en forma general el Estatuto o temporales por parte del Consejo Nacional.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 19.
 
-El órgano de vigilancia administrativa del Instituto Nacional de Lenguas Indígenas estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Contraloría y Desarrollo Administrativo.
+El órgano de vigilancia administrativa del Instituto Nacional de Lenguas Indígenas estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
 
 ###### ARTÍCULO 20.
 
@@ -291,3 +293,9 @@ D.O.F. 18 DE JUNIO DE 2010.
 DECRETO POR EL QUE SE REFORMA EL ARTICULO 23 DE LA LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
