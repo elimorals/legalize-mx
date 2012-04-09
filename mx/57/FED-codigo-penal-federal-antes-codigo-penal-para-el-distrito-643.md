@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2011-10-24"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1931-08-13"
 ---
 # CODIGO PENAL FEDERAL -ANTES CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL-
 
-CODIGO PENAL FEDERAL
+CÓDIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3373,7 +3373,7 @@ La misma sanción se impondrá a los encargados o administradores de agencias fu
 
 ### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 231.
 
@@ -3827,9 +3827,9 @@ III.- Entregar dolosa y repetidamente, cuando la medición se haga en el momento
 
 IV.- Alterar o reducir por cualquier medio las propiedades que las mercancías o productos debieran tener.
 
-> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-V.- Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Comercio, productos agropecuarios, marinos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
+V.- Revender a un organismo público, a precios mínimos de garantía o a los autorizados por la Secretaría de Economía, productos agropecuarios, marítimos, fluviales y lacustres adquiridos a un precio menor. Se aplicará la misma sanción al empleado o funcionario del organismo público que los compre a sabiendas de esa situación o propicie que el productor se vea obligado a vender a precios más bajos a terceras personas.
 
 > <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
@@ -6628,3 +6628,9 @@ D.O.F. 8 DE JUNIO DE 2011.
 D.O.F. 24 DE OCTUBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
