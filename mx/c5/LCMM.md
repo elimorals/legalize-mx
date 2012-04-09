@@ -4,7 +4,7 @@ identifier: "LCMM"
 country: "mx"
 rank: "ley"
 publication_date: "1986-01-20"
-last_updated: "1986-01-20"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=287&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LCMM"
 ---
 # LEY DE LA CASA DE MONEDA DE MEXICO
 
-LEY DE LA CASA DE MONEDA DE MEXICO
+LEY DE LA CASA DE MONEDA DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 20 de enero de 1986.
 
@@ -126,7 +126,9 @@ II.- Aprobar los presupuestos de ingresos y de egresos, a proposición del Direc
 
 III.- Recibir y aprobar, en su caso, los informes de operación y de resultados y los estados financieros, que se rendirán por el Director General.
 
-IV.- Designar al Contralor Interno y, a propuesta del Director General, a los directores, administradores de planta y titulares de las demás unidades básicas de actividad, conforme a la organización autorizada, así como fijar las remuneraciones y los tabuladores del personal con sujeción a los lineamientos de la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- Designar al Contralor Interno y, a propuesta del Director General, a los directores, administradores de planta y titulares de las demás unidades básicas de actividad, conforme a la organización autorizada, así como fijar las remuneraciones y los tabuladores del personal con sujeción a los lineamientos de la Secretaría de Hacienda y Crédito Público.
 
 V.- Aprobar la estructura orgánica.
 
@@ -176,9 +178,11 @@ II.- Verificar el avance y resultados de los programas en ejecución y formular 
 
 III.- Estudiar y opinar sobre el uso y mejoramiento de las instalaciones, equipos y tecnología del organismo.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 13.
 
-El organismo contará con dos comisarios designados, uno por la Secretaría de Hacienda y Crédito Público, y el otro, por la Secretaría de la Contraloría General de la Federación. El titular de cada Secretaría designará un suplente. Los Comisarios podrán asistir a las sesiones de la Junta de Gobierno con voz pero sin voto.
+El organismo contará con dos comisarios designados, uno por la Secretaría de Hacienda y Crédito Público, y el otro, por la Secretaría de la Función Pública. El titular de cada Secretaría designará un suplente. Los Comisarios podrán asistir a las sesiones de la Junta de Gobierno con voz pero sin voto.
 
 ### CAPITULO IV. Disposiciones Generales
 
@@ -215,3 +219,11 @@ QUINTO.- El personal de la Secretaría de Hacienda y Crédito Público, adscrito
 México, D.F., a 26 de diciembre de 1985.- Fernando Ortiz Arana, Dip. Presidente.- Socorro Díaz Palacios, Sen. Presidenta.- Reyes R. Flores Zaragoza, Dip. Secretario.- Luis José Dorantes Segovia, Sen. Secretario.- Rúbricas"
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- P. A. del Secretario de Hacienda y Crédito Público, el Subsecretario Encargado del Despacho, Francisco Suárez Dávila.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
