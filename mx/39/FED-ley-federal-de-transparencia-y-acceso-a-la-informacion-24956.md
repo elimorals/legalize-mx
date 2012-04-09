@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-transparencia-y-acceso-a-la-informacion-24956"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-06-11"
-last_updated: "2010-07-05"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24956&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2002-06-10"
 ---
 # LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
 
-LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL
+LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 11 de junio de 2002.
 
@@ -151,7 +151,9 @@ VIII. Los trámites, requisitos y formatos. En caso de que se encuentren inscrit
 
 IX. La información sobre el presupuesto asignado, así como los informes sobre su ejecución, en los términos que establezca el Presupuesto de Egresos de la Federación. En el caso del Ejecutivo Federal, dicha información será proporcionada respecto de cada dependencia y entidad por la Secretaría de Hacienda y Crédito Público, la que además informará sobre la situación económica, las finanzas públicas y la deuda pública, en los términos que establezca el propio presupuesto;
 
-X. Los resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda, la Secretaría de Contraloría y Desarrollo Administrativo, las contralorías internas o la Auditoría Superior de la Federación y, en su caso, las aclaraciones que correspondan;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+X. Los resultados de las auditorias al ejercicio presupuestal de cada sujeto obligado que realicen, según corresponda, la Secretaría de la Función Pública, las contralorías internas o la Auditoría Superior de la Federación y, en su caso, las aclaraciones que correspondan;
 
 XI. El diseño, ejecución, montos asignados y criterios de acceso a los programas de subsidio. Así como los padrones de beneficiarios de los programas sociales que establezca el Decreto del Presupuesto de Egresos de la Federación;
 
@@ -782,3 +784,9 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 D.O.F. 5 DE JULIO DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
