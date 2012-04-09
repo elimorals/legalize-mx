@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-nacional-de-las-mujeres-18672"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-12"
-last_updated: "2001-01-12"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-01-10"
 
 LEY DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de enero de 2001.
 
@@ -209,11 +209,17 @@ a) Las y los titulares de las siguientes dependencias y entidades de la Administ
 
 - Desarrollo Social;
 
-- Medio Ambiente, Recursos Naturales y Pesca;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-- Comercio y Fomento Industrial;
+- Medio Ambiente y Recursos Naturales;
 
-- Agricultura, Ganadería y Desarrollo Rural;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+- Economía;
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+- Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 - Educación Pública;
 
@@ -520,3 +526,11 @@ NOVENO.- Se derogan todas las disposiciones legales y reglamentarias que se opon
 México, D.F., a 21 de diciembre de 2000.- Dip. Ricardo Francisco García Cervantes, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Manuel Medellín Milán, Secretario.- Sen. Sara Castellanos Cortés, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de enero de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
