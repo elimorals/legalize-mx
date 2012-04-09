@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2012-01-09"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CÓDIGO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -190,7 +190,9 @@ Del Registro de Comercio.
 
 En el Registro Público de Comercio se inscriben los actos mercantiles, así como aquellos que se relacionan con los comerciantes y que conforme a la legislación lo requieran.
 
-La operación del Registro Público de Comercio está a cargo de la Secretaría de Comercio y Fomento Industrial, en adelante la Secretaría, y de las autoridades responsables del registro público de la propiedad en los estados y en el Distrito Federal, en términos de este Código y de los convenios de coordinación que se suscriban conforme a lo dispuesto por el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos existirán las oficinas del Registro Público de Comercio en cada entidad federativa que demande el tráfico mercantil.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La operación del Registro Público de Comercio está a cargo de la Secretaría de Economía, en adelante la Secretaría, y de las autoridades responsables del registro público de la propiedad en los estados y en el Distrito Federal, en términos de este Código y de los convenios de coordinación que se suscriban conforme a lo dispuesto por el artículo 116 de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos existirán las oficinas del Registro Público de Comercio en cada entidad federativa que demande el tráfico mercantil.
 
 La Secretaría emitirá los lineamientos necesarios para la adecuada operación del Registro Público de Comercio, que deberán publicarse en el Diario Oficial de la Federación.
 
@@ -236,7 +238,7 @@ VI. Proporcionar facilidades a la Secretaría para vigilar la adecuada operació
 
 VII. Las demás que se señalen en el presente Capítulo y su reglamento.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
 ###### Art. 21.
 
@@ -278,17 +280,17 @@ XI. Los documentos justificativos de los haberes ó patrimonio que tenga el hijo
 
 XII. El cambio de denominación o razón social, domicilio, objeto social, duración y el aumento o disminución del capital mínimo fijo;
 
-XIII. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+XIII. (DEROGADA POR LA FRACCIÓN III DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACIÓN, D.O.F. 4 DE ENERO DE 1994)
 
 XIV. Las emisiones de acciones, cédulas y obligaciones de ferrocarriles y de toda clase de sociedades, sean de obras públicas, compañías de crédito ú otras, expresando la serie y número de los títulos de cada emisión, su interés y amortización, la cantidad total de la emisión, y los bienes, obras, derechos ó hipotecas, cuando los hubiere, que se afecten á su pago. También se inscribirán con arreglo á estos preceptos, las emisiones que hicieren los particulares;
 
 XV. (DEROGADA, D.O.F. 23 DE ENERO DE 1981)
 
-XVI. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+XVI. (DEROGADA POR LA FRACCIÓN III DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACIÓN, D.O.F. 4 DE ENERO DE 1994)
 
-XVII. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+XVII. (DEROGADA POR LA FRACCIÓN III DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACIÓN, D.O.F. 4 DE ENERO DE 1994)
 
-XVIII. (DEROGADA POR LA FRACCION III DEL ARTICULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
+XVIII. (DEROGADA POR LA FRACCIÓN III DEL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE NAVEGACIÓN, D.O.F. 4 DE ENERO DE 1994)
 
 > <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
@@ -422,7 +424,7 @@ Los notarios y corredores públicos que soliciten dicha autorización deberán o
 
 En caso de que los notarios o corredores públicos estén obligados por la ley de la materia a garantizar el ejercicio de sus funciones, sólo otorgarán la fianza o garantía a que se refiere el párrafo anterior por un monto equivalente a la diferencia entre ésta y la otorgada. Esta garantía podrá otorgarse de manera solidaria por parte de los colegios o agrupaciones de notarios o corredores públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
 ###### Art. 31.
 
@@ -470,7 +472,7 @@ El concepto rectificado surtirá efectos desde la fecha de su rectificación.
 
 El procedimiento para efectuar la rectificación en la base de datos lo determinará la Secretaría en los lineamientos que al efecto emitan.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 27 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 27 DE AGOSTO DE 2009)</small>
 
 #### SECCIÓN ÚNICA.
 
@@ -648,9 +650,9 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 ###### Art. 44.
 
-Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
+Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -684,7 +686,9 @@ Tratándose de las copias de las cartas, telegramas y otros documentos que los c
 
 Los comerciantes están obligados a conservar por un plazo mínimo de diez años los originales de aquellas cartas, telegramas, mensajes de datos o cualesquiera otros documentos en que se consignen contratos, convenios o compromisos que den nacimiento a derechos y obligaciones.
 
-Para efectos de la conservación o presentación de originales, en el caso de mensajes de datos, se requerirá que la información se haya mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta. La Secretaría de Comercio y Fomento Industrial emitirá la Norma Oficial Mexicana que establezca los requisitos que deberán observarse para la conservación de mensajes de datos.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Para efectos de la conservación o presentación de originales, en el caso de mensajes de datos, se requerirá que la información se haya mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y sea accesible para su ulterior consulta. La Secretaría de Economía emitirá la Norma Oficial Mexicana que establezca los requisitos que deberán observarse para la conservación de mensajes de datos.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
@@ -692,7 +696,7 @@ Para efectos de la conservación o presentación de originales, en el caso de me
 
 Los tribunales pueden decretar de oficio, o a instancia de parte legítima, que se presenten en juicio las cartas que tengan relación con el asunto del litigio, así como que se compulsen de las respectivas copias las que se hayan escrito por los litigantes, fijándose de antemano, con precisión, por la parte que las solicite, las que hayan de ser copiadas o reproducidas.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)</small>
 
 ## TITULO TERCERO.
 
@@ -700,101 +704,101 @@ DE LOS CORREDORES.
 
 ###### Art. 51.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 52.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 53.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 54.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 55.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 56.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 57.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 58.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 59.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 60.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 61.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 62.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 63.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 64.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 65.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 66.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 67.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 68.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 69.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 70.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 71.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 72.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 73.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
 ###### Art. 74.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURIA PUBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL DE CORREDURÍA PÚBLICA, D.O.F. 29 DE DICIEMBRE DE 1992)
 
-(REFORMADA SU DENOMINACION, D.O.F. 29 DE MAYO DE 2000)(REPUBLICADA, G.O. 30 DE MAYO DE 2000)
+(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE MAYO DE 2000)(REPUBLICADA, G.O. 30 DE MAYO DE 2000)
 
 # LIBRO SEGUNDO.
 
@@ -940,21 +944,21 @@ Si en el contrato no se determinaren con toda precisión la especie y calidad de
 
 En el contrato mercantil en que se fijare pena de indemnización contra el que no lo cumpliere, la parte perjudicada podrá exigir el cumplimiento del contrato ó la pena prescrita; pero utilizando una de estas dos acciones, quedará extinguida la otra.
 
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
 ## TITULO SEGUNDO.
 
 DEL COMERCIO ELECTRONICO.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
 ### CAPÍTULO I.
 
 De los Mensajes de Datos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
@@ -996,7 +1000,7 @@ Sistema de Información: Se entenderá todo sistema utilizado para generar, envi
 
 Titular del Certificado: Se entenderá a la persona a cuyo favor fue expedido el Certificado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE AGOSTO DE 2003)</small>
 
@@ -4038,9 +4042,11 @@ El papel, billetes de Banco y títulos de deuda extranjeros, no pueden ser objet
 
 DE LAS INSTITUCIONES DE CRÉDITO.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Art. 640.
 
-Las instituciones de crédito se regirán por una ley especial, y mientras ésta se expide, ninguna de dichas instituciones podrá establecerse en la República sin previa autorización de la Secretaría de Hacienda y sin el contrato respectivo aprobado, en cada caso, por el Congreso de la Unión.
+Las instituciones de crédito se regirán por una ley especial, y mientras ésta se expide, ninguna de dichas instituciones podrá establecerse en la República sin previa autorización de la Secretaría de Hacienda y Crédito Público y sin el contrato respectivo aprobado en cada caso, por el Congreso de la Unión.
 
 (DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 2o. TRANSITORIO DE LA LEY DE NAVEGACION Y COMERCIO MARITIMO, D.O.F. 21 DE NOVIEMBRE DE 1963) (REPUBLICADA SU DEROGACION POR LA FRACCION III DEL ARTICULO TERCERO DE LA LEY DE NAVEGACION, D.O.F. 4 DE ENERO DE 1994)
 
@@ -9846,7 +9852,7 @@ Y lo comunico á vd. para los fines consiguientes.
 
 Libertad y Constitución. México, Septiembre 15 de 1889.- J. Baranda.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 27 DE AGOSTO DE 1932.
 
@@ -9902,11 +9908,11 @@ Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de
 
 D.O.F. 31 DE AGOSTO DE 1934.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 31 DE AGOSTO DE 1935.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 DISPOSICIONES FINALES
 
@@ -9970,7 +9976,7 @@ Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden h
 
 D.O.F. 3 DE MAYO DE 1946.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 6 DE ENERO DE 1954.
 
@@ -9990,7 +9996,7 @@ Esta reforma entrará en vigor el día siguiente de su publicación en el "Diari
 
 D.O.F. 21 DE NOVIEMBRE DE 1963.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### Art. 1.
 
@@ -10006,7 +10012,7 @@ En tanto se reglamenta y organiza el Resguardo Marítimo, conforme a esta ley, l
 
 D.O.F. 27 DE ENERO DE 1970.
 
-DECRETO POR EL QUE SE REFORMAN LOS ARTICULOS 51 AL 74 DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 AL 74 DEL CÓDIGO DE COMERCIO.
 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
@@ -10020,7 +10026,7 @@ QUINTO.- El Reglamento de Corredores para la plaza de México que norma las func
 
 D.O.F. 27 DE ENERO DE 1970.
 
-DECRETO POR EL QUE SE DEROGAN LOS ARTICULOS 6o., 7o. Y FRACCION VIII DEL ARTICULO 21 DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE DEROGAN LOS ARTÍCULOS 6o., 7o. Y FRACCIÓN VIII DEL ARTÍCULO 21 DEL CÓDIGO DE COMERCIO.
 
 Artículo Unico.- El presente Decreto empezará a surtir sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
 
@@ -10036,7 +10042,7 @@ UNICO.- El presente Decreto entrará en vigor sesenta días después de su publi
 
 D.O.F. 30 DE DICIEMBRE DE 1975.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CÓDIGO.
 
 ###### ARTICULO SEPTIMO.
 
@@ -10048,7 +10054,7 @@ ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de 
 
 D.O.F. 27 DE DICIEMBRE DE 1983.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -10092,7 +10098,7 @@ SEGUNDO.- Lo establecido en el presente decreto se aplicará a los procedimiento
 
 D.O.F. 4 DE ENERO DE 1994.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -10106,7 +10112,7 @@ IV. Todas las disposiciones que se opongan a lo previsto en esta ley.
 
 D.O.F. 24 DE MAYO DE 1996.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CÓDIGO.
 
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
 
@@ -10152,7 +10158,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 D.O.F. 13 DE JUNIO DE 2003.
 
-DECRETO POR EL QUE SE MODIFICA EL ARTICULO QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ..., CODIGO DE COMERCIO, ... PUBLICADO EL 29 DE MAYO DE 2000.
+DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ..., CÓDIGO DE COMERCIO, ... PUBLICADO EL 29 DE MAYO DE 2000.
 
 UNICO. El Presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -10186,13 +10192,13 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 
 D.O.F. 26 DE ABRIL DE 2006.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 1056 DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1056 DEL CÓDIGO DE COMERCIO.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 26 DE ABRIL DE 2006.
 
-DECRETO QUE REFORMA LAS FRACCIONES V Y VI DEL ARTICULO 1068 DEL CODIGO DE COMERCIO.
+DECRETO QUE REFORMA LAS FRACCIONES V Y VI DEL ARTÍCULO 1068 DEL CÓDIGO DE COMERCIO.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -10212,7 +10218,7 @@ D.O.F. 17 DE ABRIL DE 2008.
 
 D.O.F. 30 DE DICIEMBRE DE 2008.
 
-DECRETO POR EL QUE SE REFORMA LA FRACCION III DEL ARTICULO 1347-A DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 1347-A DEL CÓDIGO DE COMERCIO.
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -10220,7 +10226,7 @@ Segundo.- La ejecución de las sentencias, laudos y resoluciones dictadas con an
 
 D.O.F. 30 DE DICIEMBRE DE 2008.
 
-DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTICULOS DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE COMERCIO.
 
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -10232,13 +10238,13 @@ D.O.F. 2 DE JUNIO DE 2009.
 
 D.O.F. 8 DE JUNIO DE 2009.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 1069 DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1069 DEL CÓDIGO DE COMERCIO.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 8 DE JUNIO DE 2009.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 1350 DEL CODIGO DE COMERCIO.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1350 DEL CÓDIGO DE COMERCIO.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -10289,3 +10295,9 @@ PRIMERO.- El presente Decreto entrará en vigor por lo que hace a las reformas a
 SEGUNDO.- La reforma de los demás artículos entrará en vigor el veintisiete de enero del año dos mil doce.
 
 TERCERO.- A efecto de que las Legislaturas de las Entidades Federativas y la Cámara de Diputados del Congreso General resuelvan sobre las previsiones presupuestales para la infraestructura y la capacitación necesarias para su correcta implementación, los poderes judiciales de las entidades federativas tendrán hasta el primero de julio del año dos mil trece, como plazo máximo, para hacer efectiva la entrada en vigor de las disposiciones relativas al juicio oral mercantil. Al poner en práctica dichas disposiciones, deberán emitir previamente una declaratoria que se publicará en los órganos de difusión oficiales, en la que se señale expresamente la fecha correspondiente.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
