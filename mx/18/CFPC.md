@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "2012-01-16"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -3426,9 +3426,11 @@ La sentencia de los tribunales federales resolverá sobre la existencia del dere
 
 Si los bienes secuestrados administrativamente estuvieren afectos a responsabilidades de pago preferente al derecho de la Hacienda Pública Federal, así lo declarará la sentencia; pero, en tal caso, con el sobrante del precio de dichos bienes y con los demás que constituyan el fondo del concurso, se pagará el crédito fiscal.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 509.
 
-Si los bienes concursados no excedieren del importe de los créditos preferentes al de la Hacienda Pública Federal, el Ministerio Público provocará la declaración judicial, en ese sentido, y la remitirá a la Secretaría de Hacienda, para justificar los asientos que deban hacerse en los libros de la contabilidad fiscal.
+Si los bienes concursados no excedieren del importe de los créditos preferentes al de la Hacienda Pública Federal, el Ministerio Público provocará la declaración judicial, en ese sentido, y la remitirá a la Secretaría de Hacienda y Crédito Público, para justificar los asientos que deban hacerse en los libros de la contabilidad fiscal.
 
 ### CAPITULO II. Del juicio de sucesión
 
@@ -4785,3 +4787,9 @@ CUARTO. Las Secretarías de Estado podrán aplicar las medidas a que se refiere 
 QUINTO. La reforma al artículo 50 de la Ley General de Bienes Nacionales entrará en vigor cuando el mecanismo de consulta electrónica del Inventario del Patrimonio Inmobiliario Federal y Paraestatal esté en funcionamiento, lo cual tendrá verificativo en un plazo no mayor a 180 días contados a partir del día siguiente a la publicación del Decreto en el Diario Oficial de la Federación. Para tal efecto, la Secretaría de la Función Pública publicará en el Diario Oficial de la Federación el aviso respectivo.
 
 SEXTO. Se deroga el Capítulo IV del Título Primero del Libro Tercero del Código Federal de Procedimientos Civiles que incluye los artículos 521 al 529 de dicho ordenamiento.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
