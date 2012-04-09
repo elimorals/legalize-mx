@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "2009-04-30"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1992-06-30"
 ---
 # LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
+LEY FEDERAL SOBRE METROLOGÍA Y NORMALIZACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -207,7 +207,7 @@ Para efectos de lo anterior, la Secretaría publicará en el Diario Oficial de l
 
 La Secretaría, así como las personas acreditadas por la misma, al verificar los instrumentos para medir, dejarán en poder de los interesados los documentos que demuestren que dicho acto ha sido realizado oficialmente. Esta verificación comprenderá la constatación de la exactitud de dicho instrumento dentro de las tolerancias y demás requisitos establecidos en las normas oficiales mexicanas y, en su caso, el ajuste de los mismos cuando cuenten con los dispositivos adecuados para ello.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2009)</small>
 
@@ -231,7 +231,7 @@ La Secretaría determinará los instrumentos para medir apropiados en razón de 
 
 Los poseedores de los instrumentos para medir tienen obligación de permitir que cualquier parte afectada por el resultado de la medición se cerciore de que los procedimientos empleados en ella son los apropiados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 17.
 
@@ -291,7 +291,7 @@ Se instituye el Sistema Nacional de Calibración con el objeto de procurar la un
 
 La Secretaría autorizará y controlará los patrones nacionales de las unidades básicas y derivadas del Sistema General de Unidades de Medida y coordinará las acciones tendientes a determinar la exactitud de los patrones e instrumentos para medir que utilicen los laboratorios que se acrediten, en relación con la de los respectivos patrones nacionales, a fin de obtener la uniformidad y confiabilidad de las mediciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 25.
 
@@ -375,7 +375,7 @@ El Centro Nacional de Metrología estará integrado por un Consejo Directivo, un
 
 Además se constituirán los órganos de vigilancia que correspondan conforme a la Ley Federal de las Entidades Paraestatales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JULIO DE 2006)</small>
 
 ###### ARTICULO 32.
 
@@ -489,7 +489,7 @@ VIII. Coordinarse con las instituciones de enseñanza superior, asociaciones o c
 
 IX. Las demás atribuciones que le confiera la presente Ley y su reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 39.
 
@@ -533,7 +533,7 @@ XI. Fungir como centro de información en materia de normalización y notificar 
 
 XII. Las demás facultades que le confiera la presente Ley y su reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ### CAPITULO II. De las Normas Oficiales Mexicanas y de las Normas Mexicanas
 
@@ -725,7 +725,7 @@ Las normas oficiales mexicanas deberán ser revisadas cada 5 años a partir de l
 
 Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de la norma, el comité consultivo nacional de normalización o la Secretaría podrán solicitar a las dependencias que se analice su aplicación, efectos y observancia a fin de determinar las acciones que mejoren su aplicación y si procede o no su modificación o cancelación.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 #### SECCION II. De las Normas Mexicanas
 
@@ -823,9 +823,9 @@ I. Los subsecretarios correspondientes de las Secretarías de Desarrollo Social;
 
 II. Sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior; de las cámaras y asociaciones de industriales y comerciales del país que determinen las dependencias; organismos nacionales de normalización y organismos del sector social productivo; y
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-III. Los titulares de las subsecretarías correspondientes de las Secretarías de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo, y de Educación Pública, así como del Consejo Nacional de Ciencia y Tecnología; del Centro Nacional de Metrología; del Instituto Nacional de Ecología; de la Procuraduría Federal del Consumidor; del Instituto Mexicano del Transporte; del Instituto Nacional de Pesca, y de los institutos de investigación o entidades relacionadas con la materia que se consideren pertinentes.
+III. Los titulares de las subsecretarías correspondientes de las Secretarías de Hacienda y Crédito Público, de la Función Pública; y de Educación Pública, así como del Consejo Nacional de Ciencia y Tecnología; del Centro Nacional de Metrología; del Instituto Nacional de Ecología; de la Procuraduría Federal del Consumidor; del Instituto Mexicano del Transporte; del Instituto Nacional de Pesca, y de los institutos de investigación o entidades relacionadas con la materia que se consideren pertinentes.
 
 Por cada propietario podrá designarse un suplente para cubrir las ausencias temporales de aquél exclusivamente.
 
@@ -909,7 +909,7 @@ Las resoluciones de los comités deberán tomarse por consenso; de no ser esto p
 
 ### CAPITULO VI. De los Organismos Nacionales de Normalización
 
-> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 65.
 
@@ -963,11 +963,11 @@ Se podrán someter las especificaciones requeridas por las entidades a los comit
 
 Hasta en tanto se elaboren las normas de referencia a que alude el primer párrafo de este artículo, las entidades podrán efectuar la adquisición, arrendamiento o contratación conforme a las especificaciones que las mismas entidades determinen, pero deberán informar semestralmente al secretariado técnico de la Comisión Nacional de Normalización sobre los avances de los programas de trabajo de tales comités y justificar las razones por las cuales las normas no se hayan concluido.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ## TITULO CUARTO. DE LA ACREDITACION Y DETERMINACION DEL CUMPLIMIENTO
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ### CAPITULO I. De la Acreditación y Aprobación
 
@@ -1093,7 +1093,7 @@ Las dependencias competentes podrán en cualquier tiempo realizar visitas de ver
 
 La Secretaría mantendrá a disposición de cualquier interesado el listado de las entidades de acreditación autorizadas y de las personas acreditadas y aprobadas, por norma, materia, sector o rama, según se trate, así como de los organismos nacionales de normalización, de las instituciones o entidades a que se refiere el artículo 87-A y de los organismos internacionales reconocidos por el gobierno mexicano. Dicho listado indicará, en su caso, las suspensiones y revocaciones y será publicado en el Diario Oficial de la Federación periódicamente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ### CAPITULO II. De los Procedimientos para la Evaluación de la Conformidad
 
@@ -1181,7 +1181,7 @@ Se instituye el Sistema Nacional de Acreditamiento de Laboratorios de Pruebas co
 
 Los laboratorios acreditados podrán denotar tal circunstancia usando el emblema oficial del sistema nacional de acreditamiento de laboratorios de pruebas.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 82.
 
@@ -1213,7 +1213,7 @@ Las dependencias podrán solicitar el auxilio de las unidades de verificación p
 
 El resultado de las operaciones que realicen las unidades de verificación se hará constar en un acta que será firmada, bajo su responsabilidad, por el acreditado en el caso de la (sic) personas físicas y por el propietario del establecimiento o por el presidente del consejo de administración, administrador único o director general de la propia unidad de verificación reconocidos por las dependencias, y tendrá validez una vez que haya sido reconocido por la dependencia conforme a las funciones que hayan sido específicamente autorizadas a la misma.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ### CAPITULO VII. De los Acuerdos de Reconocimiento Mutuo
 
@@ -1545,7 +1545,7 @@ Cuando el motivo de una infracción sea el uso de varios instrumentos para medir
 
 Las sanciones que procedan de conformidad con esta Ley y demás disposiciones derivadas de ella se impondrá sin perjuicio de las penas que correspondan a los delitos en que incurran los infractores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 118.
 
@@ -1569,7 +1569,7 @@ IV. Se suspenda la acreditación otorgada por una entidad de acreditación; o
 
 V. Reincidan en el mal uso de alguna contraseña oficial, marca registrada o emblema.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
@@ -1613,7 +1613,7 @@ III. En el caso de la fracción III del artículo 118, la disminución de recurs
 
 Cuando derivado de una verificación se determine la comisión de una infracción, y el visitado cuente con un documento expedido por persona acreditada y aprobada, se le impondrá a ésta una multa equivalente a la que corresponda al visitado en virtud de la infracción cometida, siempre que exista negligencia, dolo o mala fe en dicha expedición, sin perjuicio de las demás sanciones que le correspondan.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ### CAPITULO III. Del Recurso de Revisión y de las Reclamaciones
 
@@ -1673,11 +1673,11 @@ México, D.F., a 18 de junio de 1992.- Sen. Manuel Aguilera Gómez, Presidente.-
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de junio de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE DICIEMBRE DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
 
@@ -1716,3 +1716,9 @@ D.O.F. 30 DE ABRIL DE 2009.
 Artículo Primero. El presente Decreto entrará en vigor a los 210 días naturales siguientes de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. Las disposiciones de este Decreto no serán aplicables a los recipientes que hayan sido construidos antes de la entrada en vigor del mismo.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
