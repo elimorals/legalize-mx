@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "2009-06-19"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1960-01-08"
 ---
 # LEY FEDERAL DE RADIO Y TELEVISION
 
-LEY FEDERAL DE RADIO Y TELEVISION
+LEY FEDERAL DE RADIO Y TELEVISIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -187,9 +187,11 @@ VIII.- Coordinar el funcionamiento de las estaciones de radio y televisión pert
 
 IX.- Las demás que le confiera la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 12.
 
-A la Secretaría de Salubridad y Asistencia compete:
+A la Secretaría de Salud compete:
 
 I.- Autorizar la transmisión de propaganda comercial relativa al ejercicio de la medicina y sus actividades conexas;
 
@@ -933,9 +935,11 @@ Los cronistas y los comentaristas deberán ser de nacionalidad mexicana y presen
 
 ### CAPITULO PRIMERO. Organismo coordinador
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 90.
 
-Se crea un organismo dependiente de la Secretaría de Gobernación denominado Consejo Nacional de Radio y Televisión, integrado por un representante de dicha Secretaría, que fungirá como Presidente, uno de la Secretaría de Comunicaciones y Transportes, otro de la de Educación Pública, otro de la de Salubridad y Asistencia, dos de la Industria de la Radio y Televisión y dos de los trabajadores.
+Se crea un organismo dependiente de la Secretaría de Gobernación denominado Consejo Nacional de Radio y Televisión, integrado por un representante de dicha Secretaría, que fungirá como residente, uno de la Secretaría de Comunicaciones y Transportes, otro de la de Educación Pública, otro de la de Salud, dos de la Industria de la Radio y Televisión y dos de los trabajadores.
 
 ###### ARTICULO 91.
 
@@ -1198,3 +1202,9 @@ D.O.F. 19 DE JUNIO DE 2009.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
