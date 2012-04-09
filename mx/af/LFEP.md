@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2008-11-28"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -88,9 +88,11 @@ Se consideran áreas prioritarias las que se establezcan en los términos de los
 
 Las entidades paraestatales correspondientes al Distrito Federal quedarán sujetas a las disposiciones de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 8o.
 
-Corresponderá a los titulares de las Secretarías de Estado o Departamentos Administrativos encargados de la coordinación de los sectores, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la Ley.
+Corresponderá a los titulares de las Secretarías de Estado encargados de la coordinación de los sectores, establecer políticas de desarrollo para las entidades del sector correspondiente, coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas, conocer la operación y evaluar los resultados de las entidades paraestatales y las demás atribuciones que les conceda la Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
@@ -102,13 +104,13 @@ Los representantes de las Secretarías y de las entidades paraestatales, en las 
 
 Las entidades paraestatales deberán enviar con una antelación no menor de cinco días hábiles a dichos miembros el orden del día acompañado de la información y documentación correspondientes, que les permita el conocimiento de los asuntos que se vayan a tratar, para el adecuado ejercicio de su representación.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 10.
 
-Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten así como los que les requieran las Secretarías de Estado y Departamentos Administrativos.
+Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten así como los que les requieran las Secretarías de Estado.
 
-> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1992)</small>
-
-Para el cumplimiento de lo anteriormente establecido, la coordinadora de sector conjuntamente con las Secretarías de Hacienda y Crédito Público, y de la Contraloría General de la Federación, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la coordinadora de sector conjuntamente con las Secretarías de Hacienda y Crédito Público y de la Secretaría de la Función Pública, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
 
 ###### ARTICULO 11.
 
@@ -428,7 +430,9 @@ En la formulación de sus presupuestos, la entidad paraestatal se sujetará a lo
 
 La entidad paraestatal manejará y erogará sus recursos propios por medio de sus órganos.
 
-Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Tesorería de la Federación en los términos que se fijen en los presupuestos de egresos anuales de la Federación y del Departamento del Distrito Federal, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Por lo que toca a la percepción de subsidios y transferencias, los recibirá de la Tesorería de la Federación en los términos que se fijen en los presupuestos de egresos anuales de la Federación y del Distrito Federal, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
 
 ###### ARTICULO 53.
 
@@ -460,7 +464,9 @@ Los órganos de gobierno de las entidades paraestatales, tendrán las siguientes
 
 I. Establecer en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
-II. Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos Anual de la Federación o del Departamento del Distrito Federal, bastará con la aprobación del Organo de Gobierno respectivo;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II. Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable. En lo tocante a los presupuestos y a los programas financieros, con excepción de aquellos incluidos en el Presupuesto de Egresos Anual de la Federación o del Distrito Federal, bastará con la aprobación del Órgano de Gobierno respectivo;
 
 III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal con excepción de los de aquéllos que se determinen por acuerdo del Ejecutivo Federal;
 
@@ -532,11 +538,13 @@ XIV. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás 
 
 ### CAPITULO VI. Del Control y Evaluación
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 60.
 
-El Organo de Vigilancia de los organismos descentralizados estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Contraloría General de la Federación.
+El órgano de Vigilancia de los organismos descentralizados estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública.
 
-Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General de la Federación les asigne específicamente conforme a la Ley. Para el cumplimiento de las funcions (sic) citadas el Organo de Gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública les asigne específicamente conforme a la Ley. Para el cumplimiento de las funciones citadas el Órgano de Gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
 
 ###### ARTICULO 61.
 
@@ -548,25 +556,29 @@ II. Los Directores Generales definirán las políticas de instrumentación de lo
 
 III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 62.
 
-Los órganos de control interno serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de Contraloría y Desarrollo Administrativo, de la cual dependerán los titulares de dichos órganos y de sus áreas de auditoría, quejas y responsabilidades de acuerdo a las bases siguientes:
+Los órganos de control interno serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública, de la cual dependerán los titulares de dichos órganos y de sus áreas de auditoría, quejas y responsabilidades, de acuerdo a las bases siguientes:
 
 > <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 I.- Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas.
 
-Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales Federales, representando al Titular de la Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales Federales, representando al titular de la Secretaría de la Función Pública;
 
 II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y
 
 III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al Organo de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 63.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designe la Secretaría de la Contraloría General de la Federación en los términos de los precedentes artículos de esta Ley.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán los órganos de control interno y contarán con los Comisarios Públicos que designa la Secretaría de la Función Pública en los términos de los precedentes artículos de esta Ley.
 
 Los fideicomisos públicos a que se refiere el artículo 40 de esta Ley, se ajustarán en lo que les sea compatible a las disposiciones anteriores.
 
@@ -574,17 +586,21 @@ Los fideicomisos públicos a que se refiere el artículo 40 de esta Ley, se ajus
 
 La Coordinadora de Sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 65.
 
-La Secretaría de la Contraloría General de la Federación podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 61, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Secretaría de la Función Pública podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 61, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
 ###### ARTICULO 66.
 
 En aquellos casos en los que el Organo de Gobierno, Consejo de Administración o el Director General no dieren cumplimiento a las obligaciones legales que les atribuyen en este ordenamiento, el Ejecutivo Federal por conducto de las dependencias competentes así como de la Coordinadora de Sector que corresponda, actuará de acuerdo a lo preceptuado en las leyes respectivas, a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras leyes. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que hubiere lugar.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 67.
 
-En aquellas empresas en las que participe la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso del Departamento del Distrito Federal, a través del Comisario que se designe por la Secretaría de la Contraloría General de la Federación y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
+En aquellas empresas en las que participa la Administración Pública Federal con la suscripción del 25% al 50% del capital, diversas a las señaladas en el artículo 29 de esta Ley, se vigilarán las inversiones de la Federación o en su caso del Distrito Federal, a través del Comisario que se designe por la Secretaría de la Función Pública y el ejercicio de los derechos respectivos se hará por conducto de la dependencia correspondiente en los términos del artículo 33 de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1992)</small>
 
@@ -592,7 +608,9 @@ En aquellas empresas en las que participe la Administración Pública Federal co
 
 La enajenación de títulos representativos del capital social, propiedad del Gobierno Federal o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito de acuerdo con las normas que emita la Secretaría de Hacienda y Crédito Público.
 
-La Secretaría de la Contraloría General de la Federación vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La Secretaría de la Función Pública vigilará el debido cumplimiento de lo dispuesto en el párrafo anterior.
 
 ## TRANSITORIOS
 
@@ -687,3 +705,9 @@ D.O.F. 28 DE NOVIEMBRE DE 2008.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en este Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
