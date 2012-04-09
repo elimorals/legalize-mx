@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2007-11-27"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFPED"
 ---
 # LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACION
 
-LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACION
+LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -522,9 +522,13 @@ Régimen de Trabajo.
 
 El Consejo contará con una contraloría, órgano de control interno, al frente de la cual estará la persona designada en los términos de la Ley Orgánica de la Administración Pública Federal.
 
-Corresponderá a la Secretaría de Contraloría y Desarrollo Administrativo por sí o a través del órgano interno de control del Consejo, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-El órgano de vigilancia del Consejo estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
+Corresponderá a la Secretaría de la Función Pública por sí o a través del órgano interno de control del Consejo, el ejercicio de las atribuciones que en materia de control, inspección, vigilancia y evaluación le confieren la Ley Orgánica de la Administración Pública Federal, sin perjuicio de las facultades que corresponden a la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El órgano de vigilancia del Consejo estará integrado por un Comisario Público propietario y suplente, designados por la Secretaría de la Función Pública, quienes ejercerán sus funciones de acuerdo con las disposiciones legales aplicables.
 
 El Comisario acudirá con voz pero sin voto, a las sesiones de la Junta de Gobierno.
 
@@ -540,7 +544,9 @@ III. Vigilar que el Consejo proporcione con la oportunidad y periodicidad que se
 
 IV. Solicitar a la Junta de Gobierno o al Presidente del Consejo, la información que requiera para el desarrollo de sus funciones, y
 
-V. Las demás inherentes a su función y las que le señale expresamente la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+V. Las demás inherentes a su función y las que le señale expresamente la Secretaría de la Función Pública, en el ámbito de su competencia.
 
 #### Sección Primera
 
@@ -823,3 +829,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 27 DE NOVIEMBRE DE 2007.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
