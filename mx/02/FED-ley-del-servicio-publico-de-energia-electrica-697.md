@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-publico-de-energia-electrica-697"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-22"
-last_updated: "2011-06-01"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1975-12-10"
 ---
 # LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
 
-LEY DEL SERVICIO PUBLICO DE ENERGIA ELECTRICA
+LEY DEL SERVICIO PÚBLICO DE ENERGÍA ELÉCTRICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-Ley publicada en el Diario Oficial de la Federación el lunes 22 de diciembre de 1975.
+Ley publicada en el Diario Oficial de la Federación, el lunes 22 de diciembre de 1975.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -73,17 +73,17 @@ II.- La generación, conducción, transformación, distribución y venta de ener
 
 III.- La realización de todas las obras, instalaciones y trabajos que requieran la planeación, ejecución, operación y mantenimiento del sistema eléctrico nacional.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 5o.
 
-La Secretaría de Energía, Minas e Industria Paraestatal dictará, conforme a la política nacional de energéticos, las disposiciones relativas al servicio público de energía eléctrica, que deberán ser cumplidas y observadas por la Comisión Federal de Electricidad y por todas las personas físicas o morales que concurran al proceso productivo.
+La Secretaría de Energía dictará, conforme a la política nacional de energéticos, las disposiciones relativas al servicio público de energía eléctrica, que deberán ser cumplidas y observadas por la Comisión Federal de Electricidad y por todas las personas físicas o morales que concurran al proceso productivo.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 6o.
 
-Para los efectos del artículo anterior, la Secretaría de Energía, Minas e Industria Paraestatal autorizará, en su caso, los programas que someta a su consideración la Comisión Federal de Electricidad, en relación con los actos previstos en el Artículo 4o. Todos los aspectos técnicos relacionados con la generación, transmisión y distribución de energía eléctrica serán responsabilidad exclusiva de la Comisión Federal de Electricidad.
+Para los efectos del artículo anterior, la Secretaría de Energía autorizará, en su caso, los programas que someta a su consideración la Comisión Federal de Electricidad, en relación con los actos previstos en el artículo 4o. Todos los aspectos técnicos relacionados con la generación, transmisión y distribución de energía eléctrica serán responsabilidad exclusiva de la Comisión Federal de Electricidad.
 
 ### CAPITULO II
 
@@ -103,9 +103,9 @@ La Comisión Federal de Electricidad tiene por objeto:
 
 I.- Prestar el servicio público de energía eléctrica en los términos del artículo 4o. y conforme a lo dispuesto en el artículo 5o.;
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II.- Proponer a la Secretaría de Energía, Minas e Industria Paraestatal los programas a que se refiere el Artículo 6o.;
+II.- Proponer a la Secretaría de Energía los programas a que se refiere el artículo 6o.;
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
@@ -123,23 +123,23 @@ VIII.- Efectuar las operaciones, realizar los actos y celebrar los contratos que
 
 IX.- Los demás que fijen esta ley y sus reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 10.
 
-La Comisión Federal de Electricidad estará regida por una Junta de Gobierno, integrada por los Secretarios de Hacienda y Crédito Público; de Desarrollo Social; de Comercio y Fomento Industrial; de Agricultura y Recursos Hidráulicos y de Energía, Minas e Industria Paraestatal, quien la presidirá. También formarán parte de la Junta de Gobierno, el Director General de Petróleos Mexicanos y tres representantes del sindicato titular del contrato colectivo de trabajo que rija las relaciones laborales en la Comisión Federal de Electricidad.
+La Comisión Federal de Electricidad estará regida por una Junta de Gobierno, integrada por los Secretarios de Hacienda y Crédito Público; de Desarrollo Social; de Economía; de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; y de Energía, quien la presidirá. También formarán parte de la Junta de Gobierno, el Director General de Petróleos Mexicanos y tres representantes del sindicato titular del contrato colectivo de trabajo que rija las relaciones laborales en la Comisión Federal de Electricidad.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 Los integrantes de la Junta de Gobierno nombrarán a sus respectivos suplentes. La Junta de Gobierno designará a un secretario de la misma.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-La vigilancia del Organismo estará encomendada a un Consejo integrado por tres miembros, con sus correspondientes suplentes, que serán nombrados y removidos libremente por los titulares de las Secretarías de la Contraloría General de la Federación y de Energía, Minas e Industria Paraestatal, así como por un representante designado por la Junta de Gobierno.
+La vigilancia del Organismo estará encomendada a un Consejo integrado por tres miembros, con sus correspondientes suplentes, que serán nombrados y removidos libremente por los titulares de las Secretarías de la Función Pública y de Energía así como por un representante designado por la Junta de Gobierno.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-El Consejo de Vigilancia será coordinado por el representante de la Secretaría de la Contraloría General de la Federación y tendrá las más amplias facultades para examinar la documentación relativa a la gestión de la Entidad, así como llevar a cabo todos los demás actos que requieran el adecuado cumplimiento de sus funciones, sin perjuicio de las atribuciones que las disposiciones aplicables asignan a las Dependencias de la Administración Pública Federal en sus respectivas esferas de su competencia, en materias de control, vigilancia y evaluación de las Entidades Paraestatales.
+El Consejo de Vigilancia será coordinado por el representante de la Secretaría de la Función Pública y tendrá las más amplias facultades para examinar la documentación relativa a la gestión de la Entidad, así como llevar a cabo todos los demás actos que requieran el adecuado cumplimiento de sus funciones, sin perjuicio de las atribuciones que las disposiciones aplicables asignan a las Dependencias de la Administración Pública Federal en sus respectivas esferas de su competencia, en materias de control, vigilancia y evaluación de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -159,9 +159,9 @@ A su elección, podrán aprobarse proyectos de planes de arbitrios y presupuesto
 
 II.- Aprobar, en su caso, el estado patrimonial y financiero anual;
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-III.- Aprobar, en su caso, los programas que deberán someterse a la autorización de la Secretaría de Energía, Minas e Industria Paraestatal, en los términos del Artículo 6o.;
+III.- Aprobar, en su caso, los programas que deberán someterse a la autorización de la Secretaría de Energía en los términos del artículo 6o.;
 
 IV.- Aprobar, en su caso, el reglamento interior del organismo y los proyectos y eventuales modificaciones de la estructura funcional o de los sistemas organizativos de la Comisión Federal de Electricidad, que proponga el Director General;
 
@@ -215,11 +215,15 @@ c) Si en la misma zona se presentan en grupo solicitudes de servicio, la Comisi�
 
 d) Estarán exentas del pago de aportaciones, las ampliaciones de la infraestructura requeridas para el suministro de servicios individuales, cuando la distancia entre el poste o registro de la red de baja tensión existente, más próxima a las instalaciones del solicitante sea inferior a doscientos metros;
 
-e) Una vez aceptado por el usuario el presupuesto respectivo, en los casos que requieran la formulación del mismo, se celebrará el convenio correspondiente, de acuerdo con el modelo que apruebe la Secretaría de Energía, Minas e Industria Paraestatal y en el que se precisarán el servicio que deba proporcionarse, el plazo para la ejecución de los trabajos necesarios, el monto de la aportación y la forma de pago de ésta;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+e) Una vez aceptado por el usuario el presupuesto respectivo, en los casos que requieran la formulación del mismo, se celebrará el convenio correspondiente, de acuerdo con el modelo que aprueba la Secretaría de Energía y en el que se precisarán el servicio que deba proporcionarse, el plazo para la ejecución de los trabajos necesarios, el monto de la aportación y la forma de pago de esta;
 
 f) Las obras de electrificación para comunidades rurales que se realicen con la colaboración de los gobiernos de las entidades federativas, se sujetarán a los programas y presupuestos previamente aprobados y a las disposiciones que consignen los acuerdos de coordinación que se celebren;
 
-g) Las cuotas que correspondan a las aportaciones se aprobarán por la Secretaría de Energía, Minas e Industria Paraestatal y podrán ser revisadas previa solicitud de la Comisión Federal de Electricidad, de los gobiernos de los Estados y de los ayuntamientos respectivos.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+g) Las cuotas que correspondan a las aportaciones se aprobarán por la Secretaría de Energía y podrán ser revisadas previa solicitud de la Comisión Federal de Electricidad, de los gobiernos de los Estados y de los ayuntamientos respectivos;
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
@@ -285,11 +289,11 @@ La Comisión Federal de Electricidad promoverá el adiestramiento técnico y la 
 
 ### CAPITULO IV. De las obras e instalaciones
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 20.
 
-Las obras e instalaciones eléctricas necesarias para la prestación del servicio público de energía eléctrica, se sujetarán a las especificaciones que expida la Comisión Federal de Electricidad y que apruebe la Secretaría de Energía, Minas e Industria Paraestatal, y a la inspección periódica de dicha Dependencia.
+Las obras e instalaciones eléctricas necesarias para la prestación del servicio público de energía eléctrica, se sujetarán a las especificaciones que expida la Comisión Federal de Electricidad y que aprueba la Secretaría de Energía y a la inspección periódica de dicha Dependencia.
 
 ###### ARTICULO 21.
 
@@ -371,7 +375,9 @@ III.- Por defectos en las instalaciones del usuario o negligencia o culpa del mi
 
 Corresponde al solicitante del servicio realizar a su costa y bajo su responsabilidad, las obras e instalaciones destinadas al uso de la energía eléctrica, mismas que deberán satisfacer los requisitos técnicos y de seguridad que fijen las Normas Oficiales Mexicanas.
 
-Cuando se trate de instalaciones eléctricas para servicios en alta tensión, y de suministros en lugares de concentración pública, se requerirá que una unidad de verificación aprobada por la Secretaría de Energía, Minas e Industria Paraestatal, certifique, en los formatos que para tal efecto expida ésta, que la instalación en cuestión cumple con las Normas Oficiales Mexicanas aplicables a dichas instalaciones. La Comisión Federal de Electricidad sólo suministrará energía eléctrica previa la comprobación de que las instalaciones a que se refiere este párrafo han sido certificadas en los términos establecidos en este artículo.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Cuando se trate de instalaciones eléctricas para servicios en alta tensión, y de suministros en lugares de concentración pública, se requerirá que una unidad de verificación aprobada por la Secretaría de Energía, certifique, en los formatos que para tal efecto expida ésta, que la instalación en cuestión cumple con las Normas Oficiales Mexicanas aplicables a dichas instalaciones. La Comisión Federal de Electricidad sólo suministrará energía eléctrica previa la comprobación de que las instalaciones a que se refiere este párrafo han sido certificadas en los términos establecidos en este artículo.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
@@ -385,13 +391,15 @@ Los productos, dispositivos, equipos, maquinaria, instrumentos o sistemas que ut
 
 La venta de energía eléctrica se regirá por las tarifas que apruebe la Secretaría de Hacienda y Crédito Público.
 
-Las condiciones de la prestación de los servicios que deban consignarse en los contratos de suministro y de los modelos de éstos, serán aprobados por la Secretaría de Comercio y Fomento Industrial, oyendo a la de Energía, Minas e Industria Paraestatal. Dichas formas de contrato se publicarán en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+Las condiciones de la prestación de los servicios que deban consignarse en los contratos de suministro y de los modelos de éstos, serán aprobadas por la Secretaría de Economía, oyendo a la de Energía. Dichas formas de contrato se publicarán en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 31.
 
-La Secretaría de Hacienda y Crédito Público, con la participación de las Secretarías de Energía, Minas e Industria Paraestatal y de Comercio y Fomento Industrial y a propuesta de la Comisión Federal de Electricidad, fijará las tarifas, su ajuste o reestructuración, de manera que tienda a cubrir las necesidades financieras y las de ampliación del servicio público, y el racional consumo de energía.
+La Secretaría de Hacienda y Crédito Público, con la participación de las Secretarías de Energía y de Economía y a propuesta de la Comisión Federal de Electricidad, fijará las tarifas, su ajuste o reestructuración, de manera que tienda a cubrir las necesidades financieras y las de ampliación del servicio público, y el racional consumo de energía.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
@@ -429,17 +437,21 @@ IV.- Por falta de pago del adeudo que requiere suspensión, dentro de los siguie
 
 Terminado el contrato de suministro, la Comisión Federal de Electricidad tendrá derecho a aplicar a su favor el importe de la garantía, en la proporción correspondiente. El saldo, en su caso, deberá ponerlo a disposición del usuario.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 36.
 
-La Secretaría de Energía, Minas e Industria Paraestatal, considerando los criterios y lineamientos de la política energética nacional y oyendo la opinión de la Comisión Federal de Electricidad, otorgará permisos de autoabastecimiento, de cogeneración, de producción independiente, de pequeña producción o de importación o exportación de energía eléctrica, según se trate, en las condiciones señaladas para cada caso:
+La Secretaría de Energía considerando los criterios y lineamientos de la política energética nacional y oyendo la opinión de la Comisión Federal de Electricidad, otorgará permisos de autoabastecimiento, de cogeneración, de producción independiente, de pequeña producción o de importación o exportación de energía eléctrica, según se trate, en las condiciones señaladas para cada caso:
 
-I.- De autoabastecimiento de energía eléctrica destinada a la satisfacción de necesidades propias de personas físicas o morales, siempre que no resulte inconveniente para el país a juicio de la Secretaría de Energía, Minas e Industria Paraestatal. Para el otorgamiento del permiso se estará a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I. De autoabastecimiento de energía eléctrica destinada a la satisfacción de necesidades propias de personas físicas o morales, siempre que no resulte inconveniente para el país a juicio de la Secretaría de Energía. Para el otorgamiento del permiso se estará a lo siguiente:
 
 a) Cuando sean varios los solicitantes para fines de autoabastecimiento a partir de una central eléctrica, tendrán el carácter de copropietarios de la misma o constituirán al efecto una sociedad cuyo objeto sea la generación de energía eléctrica para satisfacción del conjunto de las necesidades de autoabastecimiento de sus socios. La sociedad permisionaria no podrá entregar energía eléctrica a terceras personas físicas o morales que no fueren socios de la misma al aprobarse el proyecto original que incluya planes de expansión, excepto cuando se autorice la cesión de derechos o la modificación de dichos planes; y
 
 b) Que el solicitante ponga a disposición de la Comisión Federal de Electricidad sus excedentes de producción de energía eléctrica, en los términos del artículo 36-Bis.
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 II.- De Cogeneración, para generar energía eléctrica producida conjuntamente con vapor u otro tipo de energía térmica secundaria, o ambos; cuando la energía térmica no aprovechada en los procesos se utilice para la producción directa o indirecta de energía eléctrica o cuando se utilicen combustibles producidos en sus procesos para la generación directa o indirecta de energía eléctrica y siempre que, en cualesquiera de los casos:
 
@@ -447,13 +459,19 @@ a) La electricidad generada se destine a la satisfacción de las necesidades de 
 
 b) El solicitante se obligue a poner sus excedentes de producción de energía eléctrica a la disposición de la Comisión Federal de Electricidad, en los términos del artículo 36-Bis.
 
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+
 III.- De Producción Independiente para generar energía eléctrica destinada a su venta a la Comisión Federal de Electricidad, quedando ésta legalmente obligada a adquirirla en los términos y condiciones económicas que se convengan. Estos permisos podrán ser otorgados cuando se satisfagan los siguientes requisitos:
 
 a) Que los solicitantes sean personas físicas o personas morales constituidas conforme a las leyes mexicanas y con domicilio en el territorio nacional, y que cumplan con los requisitos establecidos en la legislación aplicable;
 
-b) Que los proyectos motivo de la solicitud estén incluidos en la planeación y programas respectivos de la Comisión Federal de Electricidad o sean equivalentes. La Secretaría de Energía, Minas e Industria Paraestatal, conforme a lo previsto en la fracción III del artículo 3o., podrá otorgar permiso respecto de proyectos no incluidos en dicha planeación y programas, cuando la producción de energía eléctrica de tales proyectos haya sido comprometida para su exportación; y
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+b) Que los proyectos motivo de la solicitud estén incluidos en la planeación y programas respectivos de la Comisión Federal de Electricidad o sean equivalentes. La Secretaría de Energía conforme a lo previsto en la fracción III del artículo 3o., podrá otorgar permiso respecto de proyectos no incluidos en dicha planeación y programas, cuando la producción de energía eléctrica de tales proyectos haya sido comprometida para su exportación, y
 
 c) Que los solicitantes se obliguen a vender su producción de energía eléctrica exclusivamente a la Comisión Federal de Electricidad, mediante convenios a largo plazo, en los términos del artículo 36-Bis o, previo permiso de la Secretaría en los términos de esta Ley, a exportar total o parcialmente dicha producción.
+
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 IV.- De pequeña producción de energía eléctrica, siempre que se satisfagan los siguientes requisitos:
 
@@ -463,7 +481,11 @@ b) Que los solicitantes destinen la totalidad de la energía para su venta a la 
 
 c) Alternativamente a lo indicado en el inciso b) y como una modalidad del autoabastecimiento a que se refiere la fracción I, que los solicitantes destinen el total de la producción de energía eléctrica a pequeñas comunidades rurales o áreas aisladas que carezcan de la misma y que la utilicen para su autoconsumo, siempre que los interesados constituyan cooperativas de consumo, copropiedades, asociaciones o sociedades civiles, o celebren convenios de cooperación solidaria para dicho propósito y que los proyectos, en tales casos, no excedan de 1 MW;
 
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+
 V.- De importación o exportación de energía eléctrica, conforme a lo dispuesto en las fracciones III y IV del artículo 3o., de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 En el otorgamiento de los permisos a que se refiere este artículo, deberá observarse lo siguiente:
 
@@ -471,11 +493,15 @@ En el otorgamiento de los permisos a que se refiere este artículo, deberá obse
 
 2) El uso temporal de la red del sistema eléctrico nacional por parte de los permisionarios, solamente podrá efectuarse previo convenio celebrado con la Comisión Federal de Electricidad, cuando ello no ponga en riesgo la prestación del servicio público ni se afecten derechos de terceros. En dichos convenios deberá estipularse la contraprestación en favor de dicha entidad y a cargo de los permisionarios;
 
-3) La Secretaría de Energía, Minas e Industria Paraestatal, oyendo la opinión de la Comisión Federal de Electricidad, podrá otorgar permiso para cada una de las actividades o para ejercer varias, autorizar la transferencia de los permisos e imponer las condiciones pertinentes de acuerdo con lo previsto en esta Ley, su Reglamento y las Normas Oficiales Mexicanas, cuidando en todo caso el interés general y la seguridad, eficiencia y estabilidad del servicio público;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+3) La Secretaría de Energía oyendo la opinión de la Comisión Federal de Electricidad, podrá otorgar permiso para cada una de las actividades o para ejerces (sic) varias, autorizar la transferencia de los permisos e imponer las condiciones pertinentes de acuerdo con lo previsto en esta Ley, su reglamento y las Normas Oficiales Mexicanas, cuidando en todo caso el interés general y la seguridad, eficiencia y estabilidad del servicio público;
 
 4) Los titulares de los permisos no podrán vender, revender o por cualquier acto jurídico enajenar capacidad o energía eléctrica, salvo en los casos previstos expresamente por esta Ley; y
 
-5) Serán causales de revocación de los permisos correspondientes, a juicio de la Secretaría de Energía, Minas e Industria Paraestatal, el incumplimiento de las disposiciones de esta Ley, o de los términos y condiciones establecidos en los permisos respectivos.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+5) Serán causales de revocación de los permisos correspondientes, a juicio de la Secretaría de Energía, el incumplimiento de las disposiciones de esta Ley, o de los términos y condiciones establecidos en los permisos respectivos.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2011)</small>
 
@@ -483,9 +509,9 @@ En el otorgamiento de los permisos a que se refiere este artículo, deberá obse
 
 BIS.- Para la prestación del servicio público de energía eléctrica deberá aprovecharse tanto en el corto como en el largo plazo, la producción de energía eléctrica que resulte de menor costo para la Comisión Federal de Electricidad, considerando para ello las externalidades ambientales para cada tecnología, y que ofrezca, además, óptima estabilidad, calidad y seguridad del servicio público, a cuyo efecto se observará lo siguiente:
 
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-I.- Con base en la planeación del Sistema Eléctrico Nacional elaborada por la Comisión Federal de Electricidad, la Secretaría de Energía, Minas e Industria Paraestatal determinará las necesidades de crecimiento o de substitución de la capacidad de generación del sistema;
+I.- Con base en la planeación del Sistema Eléctrico Nacional elaborada por la Comisión Federal de Electricidad, la Secretaría de Energía determinará las necesidades de crecimiento o de substitución de la capacidad de generación del sistema;
 
 > <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
@@ -499,21 +525,25 @@ III.- Para la adquisición de energía eléctrica que se destine al servicio pú
 
 IV.- Los términos y condiciones de los convenios por los que, en su caso, la Comisión Federal de Electricidad adquiera la energía eléctrica de los particulares, se ajustarán a lo que disponga el Reglamento, considerando la firmeza de las entregas; y
 
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-V.- Las obras, instalaciones y demás componentes serán objeto de Normas Oficiales Mexicanas o autorizadas previamente por la Secretaría de Energía, Minas e Industria Paraestatal.
+V.- Las obras, instalaciones y demás componentes serán objeto de Normas Oficiales Mexicanas o autorizadas previamente por la Secretaría de Energía.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 37.
 
-Una vez presentadas las solicitudes de permiso de autoabastecimiento, de cogeneración, de producción independiente, de pequeña producción, de exportación o de importación, a que se refiere el artículo 36, y con la intervención de la Secretaría de Comercio y Fomento Industrial en el ámbito de sus atribuciones, la Secretaría de Energía, Minas e Industria Paraestatal resolverá sobre las mismas en los términos que al efecto señale esta Ley.
+Una vez presentadas las solicitudes de permiso de autoabastecimiento, de cogeneración, de producción independiente, de pequeña producción, de exportación o de importación, a que se refiere el artículo 36, y con la intervención de la Secretaría de Economía en el ámbito de sus atribuciones, la Secretaría de Energía, resolverá sobre las mismas en los términos que al efecto señale esta Ley.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
 Los titulares de dichos permisos quedan obligados, en su caso, a:
 
 a) Proporcionar, en la medida de sus posibilidades, la energía eléctrica disponible para el servicio público, cuando por causas de fuerza mayor o caso fortuito el servicio público se interrumpa o restrinja, y únicamente por el lapso que comprenda la interrupción o restricción. Para estos casos, habrá una contraprestación a favor del titular del permiso;
 
-b) Cumplir con las Normas Oficiales Mexicanas que expida la Secretaría de Energía, Minas e Industria Paraestatal, relativas a las obras e instalaciones objeto de los permisos a que se refiere el artículo 36; y
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+b) Cumplir con las Normas Oficiales Mexicanas que expida la Secretaría de Energía, relativas a las obras e instalaciones objeto de los permisos a que se refiere el artículo 36, y
 
 c) La entrega de energía eléctrica a la red de servicio público, se sujetará a las reglas de despacho y operación del Sistema Eléctrico Nacional que establezca la Comisión Federal de Electricidad.
 
@@ -523,11 +553,11 @@ c) La entrega de energía eléctrica a la red de servicio público, se sujetará
 
 Los permisos a que se refieren las fracciones I, II, IV y V del artículo 36 tendrán duración indefinida mientras se cumplan las disposiciones legales aplicables y los términos en los que hubieran sido expedidos. Los permisos a que se refiere la fracción III del propio artículo 36 tendrán una duración de hasta 30 años, y podrán ser renovados a su término, siempre que se cumpla con las disposiciones legales vigentes.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 39.
 
-Salvo lo dispuesto en el inciso c) de la fracción IV del artículo 36, no se requerirá de permiso para el autoabastecimiento de energía eléctrica que no exceda de 0.5 MW. Tampoco se requerirá de permiso para el funcionamiento de plantas generadoras, cualquiera que sea su capacidad, cuando sean destinadas exclusivamente al uso propio en emergencias derivadas de interrupciones en el servicio público de energía eléctrica; dichas plantas se sujetarán a las Normas Oficiales Mexicanas que establezca la Secretaría de Energía, Minas e Industria Paraestatal, escuchando a la Comisión Federal de Electricidad.
+Salvo lo dispuesto en el inciso c) de la fracción IV del artículo 36, no se requerirá de permiso para el autoabastecimiento de energía eléctrica que no exceda de 0.5 MW. Tampoco se requerirá de permiso para el funcionamiento de plantas generadoras, cualquiera que sea su capacidad, cuando sean destinadas exclusivamente al uso propio en emergencias derivadas de interrupciones en el servicio público de energía eléctrica; dichas plantas se sujetarán a las Normas Oficiales Mexicanas que establezca la Secretaría de Energía, escuchando a la Comisión Federal de Electricidad.
 
 ### CAPITULO VI. Sanciones
 
@@ -557,9 +587,9 @@ VII.- A quien incurra en cualquiera otra infracción a las disposiciones de esta
 
 > <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-La Secretaría de Energía, Minas e Industria Paraestatal adoptará las medidas conducentes para propiciar la regularización de los servicios de energía eléctrica, en favor de las personas de escasos recursos que hubieren incurrido en las infracciones a que se refieren las fracciones I a III de este artículo, siempre que acrediten la titularidad o el trámite, ante autoridad competente, de la tenencia legal de los inmuebles respectivos, sujetándose las condiciones del suministro del servicio, en forma transitoria y por el lapso que se determine, a las modalidades que el caso requiera.
+La Secretaría de Energía adoptará las medidas conducentes para propiciar la regularización de los servicios de energía eléctrica, en favor de las personas de escasos recursos que hubieren incurrido en las infracciones a que se refieren las fracciones I a III de este artículo, siempre que acrediten la titularidad o el trámite, ante autoridad competente, de la tenencia legal de los inmuebles respectivos, sujetándose las condiciones del suministro del servicio, en forma transitoria y por el lapso que se determine, a las modalidades que el caso requiera.
 
 ###### ARTICULO 41.
 
@@ -603,11 +633,11 @@ V.- Que la ejecución de la resolución recurrida produzca daños o perjuicios d
 
 ### CAPITULO VIII. Competencia
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 44.
 
-La aplicación de la presente Ley y de sus disposiciones reglamentarias es de la competencia del Ejecutivo Federal, por conducto de las Secretarías de Energía, Minas e Industria Paraestatal y de Hacienda y Crédito Público, en los términos de esta propia Ley.
+La aplicación de la presente Ley y de sus disposiciones reglamentarias es de la competencia del Ejecutivo Federal, por conducto de las Secretarías de Energía y de Hacienda y Crédito Público, en los términos de esta propia Ley.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -627,7 +657,9 @@ La Comisión podrá convenir la aplicación del derecho extranjero, la jurisdicc
 
 La Comisión Federal de Electricidad estará obligada al pago de un aprovechamiento al Gobierno Federal por los activos que utiliza para prestar el servicio de energía eléctrica.
 
-El aprovechamiento a que se refiere este artículo se determinará anualmente en función de la tasa de rentabilidad establecida para el ejercicio correspondiente a las entidades paraestatales. Dicha tasa se aplicará al valor del activo fijo neto en operación del ejercicio inmediato anterior reportado en los estados financieros dictaminados de la entidad y presentados ante la Secretaría de la Contraloría General de la Federación. Contra el aprovechamiento a que se refiere este artículo, se podrán bonificar los subsidios que el Gobierno Federal otorgue a través de la Comisión Federal de Electricidad, a los usuarios del servicio eléctrico.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El aprovechamiento a que se refiere este artículo se determinará anualmente en función de la tasa de rentabilidad establecida para el ejercicio correspondiente a las entidades paraestatales. Dicha tasa se aplicará al valor del activo fijo neto en operación del ejercicio inmediato anterior reportado en los estados financieros dictaminados de la entidad y presentados ante la Secretaría de la Función Pública. Contra el aprovechamiento a que se refiere este artículo, se podrán bonificar los subsidios que el Gobierno Federal otorgue a través de la Comisión Federal de Electricidad, a los usuarios del servicio eléctrico.
 
 El entero del aprovechamiento a que se refiere este precepto se efectuará en cuartas partes en los meses de abril, julio, octubre y enero del año siguiente.
 
@@ -718,3 +750,9 @@ Segundo. Para efectos de la fracción III del artículo 11 de la Ley para el Apr
 Tercero. A más tardar el 1 de marzo de 2012, la Secretaría de Energía deberá presentar a la Comisión de Energía de la Cámara de Diputados, un informe preliminar sobre el avance en el cumplimiento de las metas establecidas en el Artículo Segundo Transitorio del presente Decreto.
 
 Cuarto. En un plazo máximo de un año, a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá emitir las modificaciones que correspondan al Reglamento de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética. La Secretaría de Energía expedirá en el mismo plazo las demás disposiciones aplicables cuya expedición sea de su competencia.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
