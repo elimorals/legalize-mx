@@ -4,7 +4,7 @@ identifier: "LCS"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-31"
-last_updated: "2009-05-06"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCS"
 
 LEY SOBRE EL CONTRATO DE SEGURO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -66,11 +66,13 @@ Los seguros sociales quedarán sujetos a las leyes y reglamentos sobre la materi
 
 Las ofertas de celebración, prórroga, modificación o restablecimiento de un contrato suspendido, obligarán al proponente durante el término de quince días, o el de treinta cuando fuere necesario practicar examen médico, si no se fija un plazo menor para la aceptación.
 
-> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 6°.
 
-Se considerarán aceptadas las ofertas de prórroga, modificación o restablecimiento de un contrato suspendido, hechas en carta certificada con acuse de recibo, si la empresa aseguradora no contesta dentro del plazo de quince días, contados desde el siguiente al de la recepción de la oferta, pero sujetas a la condición suspensiva de la aprobación de la Secretaría de Hacienda.
+Se considerarán aceptadas las ofertas de prórroga, modificación o restablecimiento de un contrato suspendido, hechas en carta certificada con acuse de recibo, si la empresa aseguradora no contesta dentro del plazo de quince días, contados desde el siguiente al de la recepción de la oferta, pero sujetas a la condición suspensiva de la aprobación de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 La disposición contenida en este artículo no es aplicable a las ofertas de aumentar la suma asegurada y en ningún caso al seguro de personas.
 
@@ -1158,11 +1160,11 @@ México, D.F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano B
 
 Al C..
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 15 DE ABRIL DE 1946.
 
-EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 5 DE ENERO DE 1966.
 
@@ -1205,3 +1207,9 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
