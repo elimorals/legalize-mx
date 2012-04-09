@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2012-01-27"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -40,7 +40,7 @@ LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 1o.
 
@@ -108,9 +108,7 @@ III. Secretaría: la Secretaría de Economía, y
 
 IV. Procuraduría: la Procuraduría Federal del Consumidor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 3o.
 
@@ -140,7 +138,7 @@ Estarán obligados al cumplimiento de esta ley los proveedores y los consumidore
 
 Todo proveedor está obligado a informar y respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a persona alguna.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 19 DE JULIO DE 2010)</small>
 
@@ -156,7 +154,7 @@ La Procuraduría verificará que se respeten los precios máximos establecidos e
 
 Los proveedores están obligados a respetar el precio máximo y las tarifas establecidas conforme al párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ARTICULO 8 BIS.- La Procuraduría deberá fomentar permanentemente una cultura de consumo responsable e inteligente, entendido como aquel que implica un consumo consciente, informado, crítico, saludable, sustentable, solidario y activo, a fin de que los consumidores estén en la posibilidad de realizar una buena toma de decisiones, suficientemente informada, respecto del consumo de bienes y servicios, los efectos de sus actos de consumo, y los derechos que los asisten.
 
@@ -240,7 +238,7 @@ ARTICULO 18 BIS.- Queda prohibido a los proveedores y a las empresas que utilice
 
 ### Capítulo II. De las autoridades
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 19.
 
@@ -446,7 +444,7 @@ Las medidas precautorias se dictarán conforme a los criterios que al efecto exp
 
 Los proveedores están obligados a informar de inmediato a las autoridades si determinan que alguno de sus productos puede implicar riesgos para la vida o la salud de los consumidores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE AGOSTO DE 2011)</small>
 
@@ -500,7 +498,7 @@ El Procurador Federal del Consumidor será designado por el Presidente de la Rep
 
 Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regularán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B) del artículo 123 Constitucional. Dentro del personal de confianza se considerará al que desempeñe funciones directivas, de investigación, vigilancia, inspección, supervisión y demás establecidas en dicha ley. Asimismo, tendrán este carácter quienes se encuentren adscritos a las oficinas superiores, los delegados, subdelegados y los que manejen fondos y valores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2011)</small>
 
@@ -516,9 +514,9 @@ El personal de la Procuraduría estará incorporado al régimen de la Ley del In
 
 Para la elaboración de sus planes y programas de trabajo, la Procuraduría llevará a cabo consultas con representantes de los sectores público, social y privado; con instituciones nacionales de educación superior, así como con organizaciones de consumidores. Asimismo, asesorará a la Secretaría en cuestiones relacionadas con las políticas de protección al consumidor y opinará sobre los proyectos de normas oficiales mexicanas y sobre cualquiera otra medida regulatoria que pueda afectar los derechos de los consumidores.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ### Capítulo III. De la información y publicidad
 
@@ -634,7 +632,7 @@ IV. Bienes o servicios con el incentivo de participar en sorteos, concursos y ot
 
 Por "oferta", "barata", "descuento", "remate" o cualquier otra expresión similar se entiende el ofrecimiento al público de productos o servicios de la misma calidad a precios rebajados o inferiores a los normales del establecimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 47.
 
@@ -712,7 +710,7 @@ El contrato se perfeccionará a los cinco días hábiles contados a partir de la
 
 En todo establecimiento de prestación de servicios, deberá exhibirse a la vista del público la tarifa de los principales servicios ofrecidos, con caracteres claramente legibles. Las tarifas de los demás, en todo caso, deberán estar disponibles al público.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 58.
 
@@ -832,7 +830,7 @@ La Procuraduría podrá sancionar a los especialistas o auditores externos que n
 
 La prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé al acto jurídico correspondiente, consiste en poner a disposición de una persona o grupo de personas, el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por períodos previamente convenidos, mediante el pago de alguna cantidad, sin que, en el caso de inmuebles, se transmita el dominio de éstos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 65.
 
@@ -1036,7 +1034,7 @@ En los contratos de adhesión relacionados con inmuebles se estipulará la infor
 
 La Procuraduría podrá promover ante la autoridad judicial, cuando vea amenazado el interés jurídico de los consumidores, el aseguramiento de los bienes a que se refiere este capítulo, en aquellas operaciones que considere de difícil o imposible cumplimiento, mientras subsista la causa de la acción.
 
-(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
 
 ### Capítulo VIII bis. De los derechos de los consumidores en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología
 
@@ -1112,7 +1110,7 @@ Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuer
 
 ### Capítulo X. De los contratos de adhesión
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1210,7 +1208,7 @@ Los pagos hechos en exceso del precio máximo determinado o, en su caso, estipul
 
 Los intereses se calcularán con base en el costo porcentual promedio de captación que determine el Banco de México, o cualquiera otra tasa que la sustituya oficialmente como indicador del costo de los recursos financieros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 92.
 
@@ -1318,7 +1316,7 @@ V. En caso de tratarse de análisis o pruebas no destructivas, las muestras ser�
 
 ARTICULO 97 QUATER.- Si durante el procedimiento de verificación se detecta alguno de los supuestos previstos en el artículo 25 BIS de esta ley, se aplicarán, en su caso, las medidas precautorias que correspondan, asentándose dicha circunstancia en el acta respectiva. Lo anterior, sin perjuicio de iniciar el procedimiento previsto por el artículo 123 de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 98.
 
@@ -1346,7 +1344,7 @@ ARTICULO 98 TER.- La Procuraduría podrá ordenar el aseguramiento de bienes o p
 
 #### Sección Primera. Disposiciones Comunes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 99.
 
@@ -1462,7 +1460,7 @@ Tratándose de actos distintos a los señalados con anterioridad, las notificaci
 
 La documentación que sea remitida por una unidad administrativa de la Procuraduría vía electrónica, fax o por cualquier otro medio idóneo a otra unidad de la misma para efectos de su notificación, tendrá plena validez siempre que la unidad receptora hubiere confirmado la clave de identificación del servidor público que remite la documentación y que ésta se conserve íntegra, inalterada y accesible para su consulta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 105.
 
@@ -1628,7 +1626,7 @@ Los acuerdos de trámite que emita el conciliador no admitirán recurso alguno.
 
 Los convenios celebrados por las partes serán aprobados por la Procuraduría cuando no vayan en contra de la ley, y el acuerdo que los apruebe no admitirá recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 116.
 
@@ -1676,7 +1674,7 @@ Las resoluciones que se dicten durante el procedimiento arbitral admitirán como
 
 #### Sección Cuarta. Procedimientos por infracciones a la ley
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 123.
 
@@ -1824,7 +1822,7 @@ IV. La condición económica del infractor.
 
 Asimismo, la Procuraduría deberá considerar los hechos generales de la infracción a fin de tener los elementos que le permitan expresar pormenorizadamente los motivos que tenga para determinar el monto de la multa en una cuantía específica.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 133.
 
@@ -1902,7 +1900,7 @@ México, D.F., a 18 de diciembre de 1992.- Dip. Salvador Abascal Carranza, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 21 DE JULIO DE 1993.
 
@@ -1950,7 +1948,7 @@ Los nuevos proveedores de bienes o servicios deberán cumplir con lo establecido
 
 D.O.F. 23 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -1994,7 +1992,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 
 D.O.F. 24 DE DICIEMBRE DE 2002.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -2032,7 +2030,7 @@ El incumplimiento a las obligaciones de presentar la información o a realizar l
 
 D.O.F. 21 DE DICIEMBRE DE 2004.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2005.
 
@@ -2042,7 +2040,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2005.
 
 D.O.F. 22 DE DICIEMBRE DE 2005.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2006.
 
@@ -2062,7 +2060,7 @@ Cuarto.- Las casas de empeño que estén operando a la fecha de entrada en vigor
 
 D.O.F. 19 DE DICIEMBRE DE 2006.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2007.
 
@@ -2072,7 +2070,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2007.
 
 D.O.F. 21 DE DICIEMBRE DE 2007.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2008.
 
@@ -2082,7 +2080,7 @@ UNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2008.
 
 D.O.F. 17 DE DICIEMBRE DE 2008.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2009.
 
@@ -2100,7 +2098,7 @@ D.O.F. 10 DE JUNIO DE 2009.
 
 D.O.F. 21 DE DICIEMBRE DE 2009.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2010.
 
@@ -2124,7 +2122,7 @@ D.O.F. 30 DE NOVIEMBRE DE 2010.
 
 D.O.F. 21 DE DICIEMBRE DE 2010.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO NOVENO DEL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS.</small>
 
 NOVENO.- Las actualizaciones a que se refiere el presente Acuerdo estarán vigentes del 1 de enero al 31 de diciembre de 2011.
 
@@ -2177,3 +2175,9 @@ D.O.F. 27 DE ENERO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría contará con un periodo de tres meses a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para emitir la Norma Oficial Mexicana, ajustada al cumplimiento del mismo.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
