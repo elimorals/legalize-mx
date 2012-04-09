@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2011-08-30"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGEEPA"
 ---
 # LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
+LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -174,9 +174,9 @@ XXXIII. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físic
 
 XXXIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-> <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-XXXV. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Pesca;
+XXXV. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADA, D.O.F. 7 DE ENERO DE 2000)</small>
 
@@ -1494,9 +1494,9 @@ En el otorgamiento o expedición de permisos, licencias, concesiones, o en gener
 
 El solicitante deberá en tales casos demostrar ante la autoridad competente, su capacidad técnica y económica para llevar a cabo la exploración, explotación o aprovechamiento de que se trate, sin causar deterioro al equilibrio ecológico.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-La Secretaría, así como las Secretarías de Agricultura, Ganadería y Desarrollo Rural y de la Reforma Agraria, prestarán oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela.
+La Secretaría, así como las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de la Reforma Agraria, prestará oportunamente a ejidatarios, comuneros y pequeños propietarios la asesoría técnica necesaria para el cumplimiento de lo dispuesto en el párrafo anterior, cuando éstos no cuenten con suficientes recursos económicos para procurársela.
 
 La Secretaría, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de recursos ocasione o pueda ocasionar deterioro al equilibrio ecológico.
 
@@ -1806,11 +1806,11 @@ La Secretaría deberá promover y apoyar el manejo de la flora y fauna silvestre
 
 La Secretaría expedirá las normas oficiales mexicanas para la preservación y aprovechamiento sustentable de la flora y fauna silvestre y otros recursos biológicos.
 
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-###### ARTICULO 85.
+###### Artículo 85.
 
-Cuando así se requiera para la protección de especies, hábitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía, el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
+Cuando así se requiera para la protección de especies, habitats, ecosistemas, la economía o la salud pública, la Secretaría promoverá ante la Secretaría de Economía el establecimiento de medidas de regulación o restricción, en forma total o parcial, a la exportación o importación de especímenes de la flora y fauna silvestres nativos o exóticos e impondrá las restricciones necesarias para la circulación o tránsito por el territorio nacional de especies de la flora y fauna silvestres procedentes del y destinadas al extranjero.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2190,7 +2190,9 @@ VII. Expedir las normas oficiales mexicanas para el establecimiento y operación
 
 VIII. Expedir las normas oficiales mexicanas para la certificación por la autoridad competente, de los niveles de emisión de contaminantes a la atmósfera provenientes de fuentes determinadas;
 
-IX. Expedir, en coordinación con la Secretaría de Comercio y Fomento Industrial, las normas oficiales mexicanas que establezcan los niveles máximos permisibles de emisión de contaminantes a la atmósfera, provenientes de vehículos automotores nuevos en planta y de vehículos automotores en circulación, considerando los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente, determinados por la Secretaría de Salud;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IX. Expedir, en coordinación con la Secretaría de Economía, las normas oficiales mexicanas que establezcan los niveles máximos permisibles de emisión de contaminantes a la atmósfera, provenientes de vehículos automotores nuevos en planta y de vehículos automotores en circulación, considerando los valores de concentración máxima permisible para el ser humano de contaminantes en el ambiente, determinados por la Secretaría de Salud;
 
 X. Definir niveles máximos permisibles de emisión de contaminantes a la atmósfera por fuentes, áreas, zonas o regiones, de tal manera que no se rebasen las capacidades de asimilación de las cuencas atmosféricas y se cumplan las normas oficiales mexicanas de calidad del aire;
 
@@ -2522,17 +2524,19 @@ II. La identificación de alternativas de reutilización y disposición final de
 
 Toda descarga, depósito o infiltración de sustancias o materiales contaminantes en los suelos se sujetará a lo que disponga esta Ley, la Ley de Aguas Nacionales, sus disposiciones reglamentarias y las normas oficiales mexicanas que para tal efecto expida la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+###### Artículo 140.
+
+La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Economía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+###### Artículo 141.
+
+La Secretaría, en coordinación con las Secretarías de Economía y de Salud, expedirá normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 140.
-
-La generación, manejo y disposición final de los residuos de lenta degradación deberá sujetarse a lo que se establezca en las normas oficiales mexicanas que al respecto expida la Secretaría, en coordinación con la Secretaría de Comercio y Fomento Industrial.
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 141.
-
-La Secretaría, en coordinación con las Secretarías de Comercio y Fomento Industrial y de Salud, expedirán normas oficiales mexicanas para la fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos.
 
 Asimismo, dichas Dependencias promoverán ante los organismos nacionales de normalización respectivos, la emisión de normas mexicanas en las materias a las que se refiere este precepto.
 
@@ -2540,17 +2544,19 @@ Asimismo, dichas Dependencias promoverán ante los organismos nacionales de norm
 
 En ningún caso podrá autorizarse la importación de residuos para su derrame, depósito, confinamiento, almacenamiento, incineración o cualquier tratamiento para su destrucción o disposición final en el territorio nacional o en las zonas en las que la nación ejerce su soberanía y jurisdicción. Las autorizaciones para el tránsito por el territorio nacional de residuos no peligrosos con destino a otra Nación, sólo podrán otorgarse cuando exista previo consentimiento de ésta.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+###### Artículo 143.
+
+Los plaguicidas, fertilizantes y demás materiales peligrosos, quedarán sujetos a las normas oficiales mexicanas que expidan en el ámbito de sus respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Salud y de Economía. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos, medidas para evitar efectos adversos en los ecosistemas y los procedimientos para el otorgamiento de las autorizaciones correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+###### Artículo 144.
+
+Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías aplicables, la Secretaría coordinadamente con la Secretarías de Salud, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y de Economía, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 143.
-
-Los plaguicidas, fertilizantes y demás materiales peligrosos, quedarán sujetos a las normas oficiales mexicanas que expidan en el ámbito de sus respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería y Desarrollo Rural, de Salud y de Comercio y Fomento Industrial. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos, medidas para evitar efectos adversos en los ecosistemas y los procedimientos para el otorgamiento de las autorizaciones correspondientes.
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 144.
-
-Atendiendo a lo dispuesto por la presente Ley, la Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarias aplicables, la Secretaría coordinadamente con las Secretarías de Salud, de Agricultura, Ganadería y Desarrollo Rural y de Comercio y Fomento Industrial, participará en la determinación de restricciones arancelarias y no arancelarias relativas a la importación y exportación de materiales peligrosos.
 
 No podrán otorgarse autorizaciones para la importación de plaguicidas, fertilizantes y demás materiales peligrosos, cuando su uso no esté permitido en el país en el que se hayan elaborado o fabricado.
 
@@ -2578,11 +2584,11 @@ V. La infraestructura existente y necesaria para la atención de emergencias eco
 
 VI. La infraestructura para la dotación de servicios básicos.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-###### ARTICULO 146.
+###### Artículo 146.
 
-La Secretaría, previa opinión de las Secretarías de Energía, de Comercio y Fomento Industrial, de Salud, de Gobernación y del Trabajo y Previsión Social, conforme al Reglamento que para tal efecto se expida, establecerá la clasificación de las actividades que deban considerarse altamente riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas para el equilibrio ecológico o el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
+La Secretaría, previa opinión de las Secretarías de Energía, de Economía, de Salud, de Gobernación y del Trabajo y Previsión Social, conforme al Reglamento que para tal efecto se expida, establecerá la clasificación de las actividades que deban considerarse altamente riesgosas en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas para el equilibrio ecológico o el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3412,13 +3418,13 @@ México, D. F., 22 de diciembre de 1987.- Dip. David Jiménez González, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 13 DE DICIEMBRE DE 1996.
 
-DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DEL CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
+DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA DE FUERO FEDERAL.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -3601,3 +3607,9 @@ CUARTO.- El Consejo de la Judicatura Federal, en el ámbito de las atribuciones 
 QUINTO.- El Consejo de la Judicatura Federal deberá crear el Registro dentro de los noventa días siguientes a la entrada en vigor del presente decreto. El requisito previsto en la fracción II del artículo 620 del Código Federal de Procedimientos Civiles no será aplicable sino hasta después del primer año de entrada en vigor del presente Decreto.
 
 SEXTO.- El Consejo de la Judicatura Federal deberá crear el Fondo a que se refiere el Capítulo XI del Título Único del Libro Quinto del Código Federal de Procedimientos Civiles dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Mientras el Fondo no sea creado, los recursos que deriven de los procedimientos colectivos serán depositados en una institución bancaria y serán controlados directamente por el juez de la causa.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
