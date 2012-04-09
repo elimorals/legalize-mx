@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-propiedad-industrial-antes-ley-de-fomento-y-142"
 country: "mx"
 rank: "ley"
 publication_date: "1991-06-27"
-last_updated: "2012-01-27"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-06-26"
 
 LEY DE LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 27 de junio de 1991.
 
@@ -105,7 +105,9 @@ No se otorgará patente, registro o autorización, ni se dará publicidad en la 
 
 El Instituto Mexicano de la Propiedad Industrial, autoridad administrativa en materia de propiedad industrial, es un organismo descentralizado, con personalidad jurídica y patrimonio propio, el cual tendrá las siguientes facultades:
 
-I.- Coordinarse con las unidades administrativas de la Secretaría de Comercio y Fomento Industrial, así como con las diversas instituciones públicas y privadas, nacionales, extranjeras e internacionales, que tengan por objeto el fomento y protección de los derechos de propiedad industrial, la transferencia de tecnología, el estudio y promoción del desarrollo tecnológico, la innovación, la diferenciación de productos, así como proporcionar la información y la cooperación técnica que le sea requerida por las autoridades competentes, conforme a las normas y políticas establecidas al efecto;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+I.- Coordinarse con las unidades administrativas de la Secretaría de Economía, así como con las diversas instituciones públicas y privadas, nacionales, extranjeras e internacionales, que tengan por objeto el fomento y protección de los derechos de propiedad industrial, la transferencia de tecnología, el estudio y promoción del desarrollo tecnológico, la innovación, la diferenciación de productos, así como proporcionar la información y la cooperación técnica que le sea requerida por las autoridades competentes, conforme a las normas y políticas establecidas al efecto;
 
 II.- Propiciar la participación del sector industrial en el desarrollo y aplicación de tecnologías que incrementen la calidad, competitividad y productividad del mismo, así como realizar investigaciones sobre el avance y aplicación de la tecnología industrial nacional e internacional y su incidencia en el cumplimiento de tales objetivos, y proponer políticas para fomentar su desarrollo;
 
@@ -167,7 +169,9 @@ XIX.- Participar en la formación de recursos humanos especializados en las dive
 
 XX.- Formular y ejecutar su programa institucional de operación;
 
-XXI.- Participar, en coordinación con las unidades competentes de la Secretaría de Comercio y Fomento Industrial, en las negociaciones que correspondan al ámbito de sus atribuciones, y
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XXI.- Participar, en coordinación con las unidades competentes de la Secretaría de Economía, en las negociaciones que correspondan al ámbito de sus atribuciones, y
 
 XXII.- Prestar los demás servicios y realizar las actividades necesarias para el debido cumplimiento de sus facultades conforme a esta Ley y a las demás disposiciones legales aplicables.
 
@@ -181,13 +185,19 @@ Los órganos de administración del Instituto serán la Junta de Gobierno y un D
 
 Artículo 7o BIS.- La Junta de Gobierno se integrará por diez representantes:
 
-I.- El Secretario de Comercio y Fomento Industrial, quien la preside;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II.- Un representante designado por la Secretaría de Comercio y Fomento Industrial;
+I.- El Secretario de Economía, quien la preside;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- Un representante designado por la Secretaría de Economía;
 
 III.- Dos representantes designados por la Secretaría de Hacienda y Crédito Público, y
 
-IV.- Sendos representantes de las Secretarías de Relaciones Exteriores, Agricultura y Recursos Hidráulicos, Educación Pública y Salud; así como del Consejo Nacional de Ciencia y Tecnología y del Centro Nacional de Metrología.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV.- Sendos representantes de las Secretarías de Relaciones Exteriores, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Educación Pública y de Salud; así como del Consejo Nacional de Ciencia y Tecnología y del Centro Nacional de Metrología.
 
 Por cada representante propietario, será designado un suplente, quien asistirá a las sesiones de la Junta de Gobierno en ausencia del primero, con todas las facultades y derechos que a éste correspondan.
 
@@ -253,9 +263,9 @@ IV.- Aplicación industrial, a la posibilidad de que una invención tenga una ut
 
 V.- Reivindicación, a la característica esencial de un producto o proceso cuya protección se reclama de manera precisa y específica en la solicitud de patente o de registro y se otorga, en su caso, en el título correspondiente, y
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-VI.- Fecha de presentación, a la fecha en que se presente la solicitud en el Instituto, o en las delegaciones de la Secretaría de Comercio y Fomento Industrial en el interior del país, siempre y cuando cumpla con los requisitos que señala esta Ley y su reglamento.
+VI.- Fecha de presentación, a la fecha en que se presente la solicitud en el Instituto, o en las delegaciones de la Secretaría de Economía en el interior del país, siempre y cuando cumpla con los requisitos que señala esta Ley y su reglamento.
 
 ###### Artículo 13.
 
@@ -1699,9 +1709,9 @@ II.- Interés Jurídico del solicitante;
 
 III.- Señalamiento de la denominación de origen;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-IV.- Descripción detallada del producto o los productos terminados que abarcará la denominación, incluyendo sus características, componentes, forma de extracción y procesos de producción o elaboración. Cuando sea determinante para establecer la relación entre la denominación y el producto, se señalarán las normas oficiales establecidas por la Secretaría de Comercio y Fomento Industrial a que deberán sujetarse el producto, su forma de extracción, sus procesos de elaboración o producción y sus modos de empaque, embalaje o envasamiento;
+IV.- Descripción detallada del producto o los productos terminados que abarcará la denominación, incluyendo sus características, componentes, forma de extracción y procesos de producción o elaboración. Cuando sea determinante para establecer la relación entre la denominación y el producto, se señalarán las normas oficiales establecidas por la Secretaría de Economía a que deberán sujetarse el producto, su forma de extracción, sus procesos de elaboración o producción y sus modos de empaque, embalaje o envasamiento;
 
 V.- Lugar o lugares de extracción, producción o elaboración del producto que se trate de proteger con la denominación de origen y la delimitación del territorio de origen, atendiendo a los caracteres geográficos y a las divisiones políticas;
 
@@ -1793,9 +1803,9 @@ I.- Que directamente se dedique a la extracción, producción o elaboración, de
 
 II.- Que realice tal actividad dentro del territorio determinado en la declaración;
 
-> <small>(REFORMADA, D.O.F. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-III.- Que cumpla con las normas oficiales establecidas por la Secretaría de Comercio y Fomento Industrial conforme a las leyes aplicables, respecto de los productos de que se trate, y
+III.- Que cumpla con las normas oficiales establecidas por la Secretaría de Economía conforme a las leyes aplicables, respecto de los productos de que se trate, y
 
 IV.- Los demás que señale la declaración.
 
@@ -2890,3 +2900,9 @@ D.O.F. 28 DE JUNIO DE 2010.
 D.O.F. 27 DE ENERO DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
