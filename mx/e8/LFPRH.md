@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2012-01-19"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -78,7 +78,9 @@ VI. Cuenta Pública: la Cuenta de la Hacienda Pública Federal;
 
 VII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
 
-VIII. Dependencias: las Secretarías de Estado y los Departamentos Administrativos, incluyendo a sus respectivos órganos administrativos desconcentrados, así como la Consejería Jurídica del Ejecutivo Federal, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal. Asimismo, aquellos ejecutores de gasto a quienes se les otorga un tratamiento equivalente en los términos del artículo 4 de esta Ley;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII. Dependencias: las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados, así como la Consejería Jurídica del Ejecutivo Federal, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal. Asimismo, aquellos ejecutores de gasto a quienes se les otorga un tratamiento equivalente en los términos del artículo 4 de esta Ley;
 
 IX. Dependencias coordinadoras de sector: las dependencias que designe el Ejecutivo Federal en los términos de la Ley Orgánica de la Administración Pública Federal, para orientar y coordinar la planeación, programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
 
@@ -2043,3 +2045,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente a aquél en el
 Segundo.- La Secretaría, dentro de los tres meses siguientes a la entrada en vigor del presente Decreto, enviará a la Cámara de Diputados la metodología, factores, variables y fórmulas utilizados para la elaboración de cada uno de los Anexos Transversales, informando sobre los porcentajes o cuotas que del presupuesto de los Programas Presupuestarios y/o de las Unidades Responsables son considerados para la integración de dichos Anexos.
 
 La Comisión de Presupuesto y Cuenta Pública, en coordinación con las comisiones ordinarias correspondientes, contará con 30 días hábiles siguientes a la entrega de la información a la que se refiere el párrafo anterior, para remitir a la Secretaria las opiniones y comentarios para que sean considerados en la integración del Proyecto de Presupuesto para el ejercicio fiscal siguiente.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
