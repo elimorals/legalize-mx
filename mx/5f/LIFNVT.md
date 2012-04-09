@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2012-01-12"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -1086,7 +1086,9 @@ V.- El plazo en que el Instituto autorizará a las personas inscritas a particip
 
 VI.- El lugar, fecha y hora en que se celebrará el acto de la apertura de los sobres que contengan las posturas.
 
-En el ejercicio de sus respectivas atribuciones, las Secretarías de la Contraloría General de la Federación y de Hacienda y Crédito Público, podrán intervenir en todo el proceso de adjudicación del financiamiento.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+En el ejercicio de sus respectivas atribuciones, las Secretarías de la Función Pública y de Hacienda y Crédito Público, podrán intervenir en todo el proceso de adjudicación del financiamiento.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 1992)</small>
 
@@ -1511,3 +1513,9 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 12 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
