@@ -4,7 +4,7 @@ identifier: "LSEM"
 country: "mx"
 rank: "ley"
 publication_date: "1994-01-04"
-last_updated: "2002-01-25"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSEM"
 
 LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE ENERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 4 de enero de 1994.
 
@@ -134,7 +134,9 @@ X. Coadyuvar a la mejor inserción económica de México en el mundo;
 
 XI. Destinar los ingresos recibidos por los servicios establecidos en los artículos 20, 22 y 23 de la Ley Federal de Derechos, prestados por cualquier representación consular en el extranjero para integrar un fondo cuyo objeto sea cubrir, previa autorización de la Secretaría de Relaciones Exteriores, los gastos relativos a las actividades y programas que a continuación se mencionan, en términos del Reglamento de la Ley del Servicio Exterior Mexicano: Programa de repatriación de personas vulnerables; atención y asesoría jurídica y de protección consulares; visitas a cárceles y centros de detención; atención telefónica; campaña de seguridad al migrante; servicios de consulados móviles; prestación de servicios consulares en general, y atención al público.
 
-Los gastos a sufragar de conformidad al párrafo anterior, se realizarán de acuerdo a las reglas generales de operación que al efecto establezca la Secretaría de Relaciones Exteriores, contando con la aprobación de la Secretaría de la Contraloría y Desarrollo Administrativo, y
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Los gastos a sufragar de conformidad al párrafo anterior, se realizarán de acuerdo a las reglas generales de operación que al efecto establezca la Secretaría de Relaciones Exteriores, contando con la aprobación de la Secretaría de la Función Pública, y
 
 XII. Las demás funciones que señalen al Servicio Exterior ésta y otras leyes y reglamentos, así como los tratados de los que México sea parte.
 
@@ -996,7 +998,9 @@ II. El Director General que tenga bajo su cargo los asuntos concernientes al per
 
 III. El Director General de Asuntos Jurídicos de la Secretaría, y
 
-IV. Un representante de la Secretaría de la Contraloría y Desarrollo Administrativo con nivel de Director General, que podrá ser quien ejerza las funciones de Contralor Interno en la Secretaría.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV. Un representante de la Secretaría de la Función Pública con nivel de Director General, que podrá ser quien ejerza las funciones de Contralor Interno en la Secretaría.
 
 Será necesaria la presencia de todos los integrantes de la Subcomisión para que ésta pueda sesionar en forma válida y sus resoluciones se adoptarán por mayoría de votos.
 
@@ -1151,3 +1155,9 @@ SEXTO.- La evaluación a que se refiere el artículo 40, se aplicará por primer
 SÉPTIMO.- Las comisiones, disponibilidades o licencias otorgadas al momento de la entrada en vigor del presente Decreto continuarán en los términos autorizados hasta su conclusión.
 
 OCTAVO.- Los procedimientos administrativos disciplinarios en trámite a la fecha de entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes en el momento en que se iniciaron.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
