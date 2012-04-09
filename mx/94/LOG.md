@@ -4,7 +4,7 @@ identifier: "LOG"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "1999-01-06"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12838&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOG"
 
 LEY DE ORGANIZACIONES GANADERAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -44,15 +44,19 @@ LEY DE ORGANIZACIONES GANADERAS
 
 La presente Ley es de interés público y de observancia general en todo el país. Tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las organizaciones ganaderas en el país, que se integren para la protección de los intereses de sus miembros; así como los criterios que sustenten el desarrollo y mejoramiento de los procesos productivos y de comercialización de los productos ganaderos.
 
-La aplicación e interpretación administrativa de las disposiciones contenidas en este ordenamiento corresponde al Ejecutivo Federal por conducto de la Secretaría de Agricultura, Ganadería y Desarrollo Rural.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+La aplicación e interpretación administrativa de las disposiciones contenidas en este ordenamiento corresponde al Ejecutivo Federal por conducto de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 ###### ARTÍCULO 2o.
 
 En lo no previsto por esta Ley, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo y la legislación civil o mercantil que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 3o.
 
-El Ejecutivo Federal, a través de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, coordinará sus acciones con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones, para la debida aplicación de esta Ley.
+El Ejecutivo Federal, a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, coordinará sus acciones con las demás dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y municipios, en el ámbito de sus correspondientes atribuciones para la debida aplicación de esta Ley.
 
 Las organizaciones ganaderas a las que se refiere esta Ley, serán consideradas de interés público, por lo que tanto el Gobierno Federal como los gobiernos de las entidades federativas y municipios, les darán todo su apoyo para la realización del objeto señalado en el artículo 5o. de este ordenamiento.
 
@@ -82,7 +86,9 @@ X. Padrón de productores: la lista de los miembros de una organización ganader
 
 XI. Región ganadera: zona que por sus características geográficas y económicas determine la Secretaría en términos del reglamento de esta Ley;
 
-XII. Secretaría: la Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XII. Secretaría: la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 XIII. Unidad de producción individual: la que es explotada por una persona física en forma individual;
 
@@ -287,3 +293,11 @@ Dichas organizaciones determinarán, al momento de las adecuaciones estatutarias
 México, D.F., a 14 de diciembre de 1998.- Dip. Salvador Sánchez Vázquez, Presidente.- Sen. José Ramírez Gamero, Presidente.- Dip. Clarisa Torres Méndez, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de diciembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
