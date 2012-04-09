@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2011-11-16"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGE"
 ---
 # LEY GENERAL DE EDUCACION
 
-LEY GENERAL DE EDUCACION
+LEY GENERAL DE EDUCACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -78,7 +78,7 @@ La educación que el Estado imparta será laica y, por lo tanto, se mantendrá p
 
 La educación que el Estado imparta será gratuita. Las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 7o.
 
@@ -142,7 +142,7 @@ XV.- Difundir los derechos y deberes de niños, niñas y adolescentes y las form
 
 XVI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 8o.
 
@@ -154,11 +154,11 @@ II.- Será nacional, en cuanto -sin hostilidades ni exclusivismos - atenderá a 
 
 III.- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-> <small>(REFORMADO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 9o.
 
-Además de impartir la educación preescolar, la primaria y la secundaria, el Estado promoverá y atenderá -directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación superior, necesarios para el desarrollo de la Nación, apoyará la investigación científica, el desarrollo tecnológico y la innovación e impulsará su divulgación, además de alentar el fortalecimiento y la difusión de la cultura nacional y universal.
+Además de impartir la educación preescolar, la primaria y la secundaria, el Estado promoverá y atenderá -directamente, mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio- todos los tipos y modalidades educativos, incluida la educación inicial, especial, media superior y superior, necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal.
 
 ###### ARTICULO 10.
 
@@ -296,7 +296,7 @@ VIII.- Participar con la autoridad educativa federal en la operación de los mec
 
 IX.- Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ABRIL DE 2009)</small>
 
 ###### ARTICULO 14.
 
@@ -388,7 +388,7 @@ IV.- El desarrollo de la investigación pedagógica y la difusión de la cultura
 
 Las autoridades educativas locales podrán coordinarse para llevar a cabo actividades relativas a las finalidades previstas en este artículo, cuando la calidad de los servicios o la naturaleza de las necesidades hagan recomendables proyectos regionales. Asimismo, podrán suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 21.
 
@@ -432,7 +432,7 @@ Los beneficiados directamente por los servicios educativos deberán prestar serv
 
 #### Sección 3.- Del financiamiento a la educación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 25.
 
@@ -574,7 +574,7 @@ El Ejecutivo Federal, el gobierno de cada entidad federativa y los ayuntamientos
 
 #### Sección 1.- De los tipos y modalidades de educación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 37.
 
@@ -600,7 +600,7 @@ De acuerdo con las necesidades educativas específicas de la población, tambié
 
 La educación inicial tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores de cuatro años de edad. Incluye orientación a padres de familia o tutores para la educación de sus hijas, hijos o pupilos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 41.
 
@@ -636,7 +636,7 @@ En caso de que las y los educadores así como las autoridades educativas, tengan
 
 La educación para adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 44.
 
@@ -694,7 +694,7 @@ IV.- Los criterios y procedimientos de evaluación y acreditación para verifica
 
 En los programas de estudio deberán establecerse los propósitos específicos de aprendizaje de las asignaturas u otras unidades de aprendizaje dentro de un plan de estudios, así como los criterios y procedimientos para evaluar y acreditar su cumplimiento. Podrán incluir sugerencias sobre métodos y actividades para alcanzar dichos propósitos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 48.
 
@@ -716,7 +716,7 @@ La Secretaría realizará revisiones y evaluaciones sistemáticas y continuas de
 
 Los planes y programas que la Secretaría determine en cumplimiento del presente artículo, así como sus modificaciones, deberán publicarse en el Diario Oficial de la Federación y en el órgano informativo oficial de cada entidad federativa y, previo a su aplicación, se deberá capacitar a los maestros respecto de su contenido y métodos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 49.
 
@@ -736,7 +736,7 @@ Las instituciones deberán informar periódicamente a los educandos y, en su cas
 
 #### Sección 3.- Del calendario escolar
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 51.
 
@@ -752,7 +752,7 @@ Las actividades no previstas en los planes y programas de estudio, o bien la sus
 
 De presentarse interrupciones por caso extraordinario o fuerza mayor, la autoridad educativa tomará las medidas para recuperar los días y horas perdidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 53.
 
@@ -876,7 +876,7 @@ Los acuerdos secretariales respectivos señalarán los requisitos específicos q
 
 Son derechos de quienes ejercen la patria potestad o la tutela:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 I.- Obtener inscripción en escuelas públicas para que sus hijas, hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación preescolar, la primaria y la secundaria.
 
@@ -998,7 +998,7 @@ o) En general, podrá realizar actividades en beneficio de la propia escuela.
 
 Consejos análogos deberán operar en las escuelas particulares de educación básica.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 70.
 
@@ -1040,7 +1040,7 @@ Será responsabilidad del presidente municipal que en el consejo se alcance una 
 
 En el Distrito Federal los consejos se constituirán por cada delegación política.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### ARTICULO 71.
 
@@ -1238,7 +1238,7 @@ México, D. F., a 9 de julio de 1993. Dip. Juan Ramiro Robledo Ruiz, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de julio de 1993.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 12 DE JUNIO DE 2000.
 
@@ -1258,7 +1258,7 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 
 D.O.F. 13 DE MARZO DE 2003.
 
-SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1282,13 +1282,13 @@ Para dar cabal cumplimiento a lo dispuesto en el presente Decreto, las autoridad
 
 D.O.F. 2 DE JUNIO DE 2006.
 
-DECRETO QUE REFORMA EL ARTICULO 43 DE LA LEY GENERAL DE EDUCACION.
+DECRETO QUE REFORMA EL ARTÍCULO 43 DE LA LEY GENERAL DE EDUCACIÓN.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 2 DE JUNIO DE 2006.
 
-DECRETO QUE ADICIONA UNA FRACCION XIII AL ARTICULO 7 Y UNA FRACCION XI, PASANDO LA ACTUAL A SER FRACCION XII, AL ARTICULO 14 DE LA LEY GENERAL DE EDUCACION.
+DECRETO QUE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 7 Y UNA FRACCIÓN XI, PASANDO LA ACTUAL A SER FRACCIÓN XII, AL ARTÍCULO 14 DE LA LEY GENERAL DE EDUCACIÓN.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1314,31 +1314,31 @@ D.O.F. 17 DE JUNIO DE 2008.
 
 D.O.F. 15 DE JULIO DE 2008.
 
-DECRETO QUE REFORMA LA FRACCION X DEL ARTICULO 7o. DE LA LEY GENERAL DE EDUCACION.
+DECRETO QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 7o. DE LA LEY GENERAL DE EDUCACIÓN.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 15 DE JULIO DE 2008.
 
-DECRETO QUE ADICIONA LA FRACCION XIV AL ARTICULO 7o. DE LA LEY GENERAL DE EDUCACION.
+DECRETO QUE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 7o. DE LA LEY GENERAL DE EDUCACIÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 17 DE ABRIL DE 2009.
 
-DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIII, XIV Y XV AL ARTICULO 75 Y FRACCION III AL ARTICULO 76 DE LA LEY GENERAL DE EDUCACION.
+DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIII, XIV Y XV AL ARTÍCULO 75 Y FRACCIÓN III AL ARTÍCULO 76 DE LA LEY GENERAL DE EDUCACIÓN.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 17 DE ABRIL DE 2009.
 
-DECRETO POR EL QUE SE ADICIONA LA FRACCION XIV BIS AL ARTICULO 7o. Y LA FRACCION X AL ARTICULO 14 DE LA LEY GENERAL DE EDUCACION.
+DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 7o. Y LA FRACCIÓN X AL ARTÍCULO 14 DE LA LEY GENERAL DE EDUCACIÓN.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 17 DE ABRIL DE 2009.
 
-DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 2, 7, 30, 32, 33, 41 Y 49 DE LA LEY GENERAL DE EDUCACION.
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2, 7, 30, 32, 33, 41 Y 49 DE LA LEY GENERAL DE EDUCACIÓN.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -1379,3 +1379,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de
 D.O.F. 16 DE NOVIEMBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
