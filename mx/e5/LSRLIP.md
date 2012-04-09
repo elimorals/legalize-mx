@@ -4,7 +4,7 @@ identifier: "LSRLIP"
 country: "mx"
 rank: "ley"
 publication_date: "1934-08-31"
-last_updated: "1934-08-31"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LSRLIP"
 ---
 # LEY DE SOCIEDADES DE RESPONSABILIDAD LIMITADA DE INTERES PUBLICO
 
-LEY DE SOCIEDADES DE RESPONSABILIDAD LIMITADA DE INTERES PUBLICO
+LEY DE SOCIEDADES DE RESPONSABILIDAD LIMITADA DE INTERÉS PÚBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-Ley publicada en la Sección Primera del Diario Oficial de la Federación, el viernes 31 de agosto de 1934.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de diciembre de 2002.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -36,17 +36,21 @@ Qne (sic) en uso de las facultades extraordinarias que me confiere el Decreto ex
 
 LEY DE SOCIEDADES DE RESPONSABILIDAD LIMITADA DE INTERES PUBLICO
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 1°.
 
-La Sociedad de Responsabilidad Limitada de Interés Público sólo se constituirá cuando se trate de actividades de interés público y particular conjuntamente, a juicio de la Secretaría de la Economía Nacional.
+La Sociedad de Responsabilidad Limitada de Interés Público sólo se constituirá cuando se trate de actividades de interés público y particular conjuntamente, a juicio de la Secretaría de Economía.
 
 ###### ARTICULO 2°.
 
 La sociedad se constituirá mediante autorización del Ejecutivo Federal.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 3°.
 
-La solicitud se presentará ante la Secretaría de la Economía Nacional, la que otorgará o negará la autorización dentro del término de treinta días, contados a partir de la fecha en que reciba el ocurso acompañado del proyecto de escritura.
+La solicitud se presentará ante la Secretaría de Economía, la que otorgará o negará la autorización dentro del término de treinta días, contados a partir de la fecha en que reciba el ocurso acompañado del proyecto de escritura.
 
 ###### ARTICULO 4°.
 
@@ -80,9 +84,11 @@ La sociedad estará administrada por un Consejo de Administración compuesto de 
 
 El contrato social determinará los derechos que corresponden a la minoría en la designación de administradores y de miembros del Consejo de Vigilancia; pero en todo caso la minoría que represente un veinticinco por ciento del capital social, nombrará, cuanto(sic) menos, un Consejero y un miembro del Consejo de Vigilancia. Sólo podrán revocarse otros nombramientos cuando se revoquen igualmente los nombramientos de todos los demás administradores o miembros del Consejo de Vigilancia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría de la Economía Nacional intervendrá en el funcionamiento de la sociedad, teniendo las atribuciones siguientes:
+La Secretaría de Economía intervendrá en el funcionamiento de la sociedad, teniendo las atribuciones siguientes:
 
 I.- Obtener de los administradores o del Consejo de Vigilancia informes sobre la marcha de los negocios sociales.
 
@@ -107,3 +113,11 @@ México, D. F., a 30 de agosto de 1934.- El Subsecretario de Gobernación Encarg
 EL DECRETO QUE DA ORIGEN A LA PRESENTE LEY NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 Al C.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
