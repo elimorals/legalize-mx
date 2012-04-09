@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-para-el-desarrollo-de-los-31039"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-21"
-last_updated: "2011-06-23"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-05-19"
 ---
 # LEY DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
-LEY DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
+LEY DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 2003.
 
@@ -51,7 +51,9 @@ La Comisión Nacional para el Desarrollo de los Pueblos Indígenas, es un organi
 
 La Comisión tiene como objeto orientar, coordinar, promover, apoyar, fomentar, dar seguimiento y evaluar los programas, proyectos, estrategias y acciones públicas para el desarrollo integral y sustentable de los pueblos y comunidades indígenas de conformidad con el artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, para lo que tendrá las siguientes funciones:
 
-I. Ser instancia de consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos que las dependencias y entidades de la Administración Pública Federal desarrollen en la materia;
+I. Ser instancia de consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos que las dependencias y entidades de la Administración Pública Federal desarrollen en la
+
+materia;
 
 II. Coadyuvar al ejercicio de la libre determinación y autonomía de los pueblos y comunidades indígenas en el marco de las disposiciones constitucionales;
 
@@ -137,7 +139,9 @@ f) Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 g) Comunicaciones y Transportes;
 
-h) Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+h) de la Función Pública;
 
 i) Educación Pública;
 
@@ -273,9 +277,11 @@ II. Las asignaciones presupuestales, transferencias, subsidios, participaciones,
 
 La Comisión administrará y dispondrá libremente de su patrimonio en el cumplimiento de su objeto, sin perjuicio de las disposiciones legales aplicables a los organismos descentralizados.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 17.
 
-La Comisión contará con un órgano de vigilancia, integrado por un comisario público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, y tendrán las facultades que les otorgan la Ley Federal de las Entidades Paraestatales y las demás disposiciones legales aplicables.
+La Comisión contará con un órgano de vigilancia, integrado por un comisario público propietario y un suplente, designados por la Secretaría de la Función Pública, y tendrán las facultades que les otorgan la Ley Federal de las Entidades Paraestatales y las demás disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -322,3 +328,9 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 23 DE JUNIO DE 2011.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
