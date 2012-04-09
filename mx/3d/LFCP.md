@@ -4,7 +4,7 @@ identifier: "LFCP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2011-06-08"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFCP"
 ---
 # LEY FEDERAL DE CORREDURIA PUBLICA
 
-LEY FEDERAL DE CORREDURIA PUBLICA
+LEY FEDERAL DE CORREDURÍA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -42,13 +42,13 @@ LEY FEDERAL DE CORREDURIA PUBLICA
 
 La presente ley es de orden público y de observancia en toda la República. Su objeto es regular la función del corredor público.
 
-> <small>(REFORMADO, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 2o.
 
-La aplicación de la presente ley corresponde al Ejecutivo Federal, a través de la Secretaría de Economía, con la participación que corresponda a las autoridades estatales.
+La aplicación de la presente Ley corresponde al Ejecutivo Federal, a través de la Secretaría de Economía, con la participación que corresponda a las autoridades estatales.
 
-Cuando esta ley haga referencia a la Secretaría, se entenderá la Secretaría de Economía.
+Cuando esta Ley haga referencia a la Secretaría, se entenderá la Secretaría de Economía.
 
 ###### ARTICULO 3o.
 
@@ -150,11 +150,13 @@ c) Presentar la solicitud correspondiente, observándose en lo conducente lo que
 
 El examen definitivo será sustentado ante un jurado que se integrará como sigue:
 
-> <small>(REFORMADA, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 I.- Un representante de la Secretaría, el cual deberá tener por lo menos nivel de director general o contar con designación específica del Secretario de Economía, y sin cuya presencia no podrá celebrarse el examen;
 
-II.- Un representante del Gobernador del Estado o del Jefe del Departamento del Distrito Federal, según corresponda; y
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+II.- Un representante del Gobernador del Estado o de Jefe de Gobierno del Distrito Federal, según corresponda; y
 
 III.- Un corredor público designado por el colegio de corredores local o, en su defecto, por la Secretaría.
 
@@ -399,3 +401,9 @@ D.O.F. 8 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Ejecutivo Federal, contará con un plazo de 180 días a partir de la entrada en vigor del presente Decreto para expedir las modificaciones necesarias al Reglamento de esta Ley.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
