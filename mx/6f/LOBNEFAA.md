@@ -4,7 +4,7 @@ identifier: "LOBNEFAA"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-13"
-last_updated: "2002-06-24"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=288&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOBNEFAA"
 ---
 # LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA
 
-LEY ORGANICA DEL BANCO NACIONAL DEL EJERCITO, FUERZA AEREA Y ARMADA
+LEY ORGÁNICA DEL BANCO NACIONAL DEL EJÉRCITO, FUERZA AÉREA Y ARMADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación el 13 de enero de 1986.
 
@@ -474,9 +474,11 @@ Previa autorización de la Secretaría de Hacienda y Crédito Público, la Socie
 
 Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
 
+> <small>(REFORMADO, 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 54.
 
-El Gobierno Federal aportará al Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, las cantidades necesarias para cubrir las obligaciones que impone esta Ley a la Sociedad, respecto al fondo de ahorro y fondo de trabajo, a cuyo efecto, la Secretaría de Programación y Presupuesto vigilará que en el Presupuesto de Egresos de la Federación correspondiente, se incluyan las partidas respectivas.
+El gobierno federal aportará al Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, institución de banca de desarrollo, las cantidades necesarias para cubrir las obligaciones que impone esta Ley a la Sociedad, respecto al fondo de ahorro y fondo de trabajo, a cuyo efecto, la Secretaría de Hacienda y Crédito Público vigilará que en el Presupuesto de Egresos de la Federación correspondiente, se incluyan las partidas respectivas.
 
 ###### ARTICULO 55.
 
@@ -496,7 +498,9 @@ Dos representantes de la Secretaría de Hacienda y Crédito Público; el Subsecr
 
 Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
 
-Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa;
 
 Un miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -538,7 +542,7 @@ México, D. F., a 21 de diciembre de 1985.- Fernando Ortiz Arana, Dip. President
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- P. A. del Secretario de Hacienda y Crédito Público, El Subsecretario Encargado del Despacho, Francisco Suárez Dávila.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE JUNIO DE 2002.
 
@@ -577,3 +581,9 @@ Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de
 ###### ARTICULO NOVENO.
 
 Los Consejos Consultivos Estatales y Nacional a que se refieren los artículos 33 y 34 de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos deberán integrarse y entrar en funciones dentro de los 180 días naturales siguientes a la fecha en que entre en vigor el presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
