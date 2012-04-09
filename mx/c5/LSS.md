@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2011-05-27"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -358,7 +358,9 @@ I. Se trate de juicios y procedimientos en que el Instituto fuere parte;
 
 II. Se hubieran celebrado convenios de colaboración con la Federación, entidades federativas o municipios o sus respectivas administraciones públicas, para el intercambio de información relacionada con el cumplimiento de sus objetivos, con las restricciones pactadas en los convenios en los cuales se incluirá invariablemente una cláusula de confidencialidad y no difusión de la información intercambiada;
 
-III. Lo soliciten la Secretaría de Contraloría y Desarrollo Administrativo, la Contraloría Interna en el Instituto, las autoridades fiscales federales, las instituciones de seguridad social y el Ministerio Público Federal, en ejercicio de sus atribuciones, y
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III. Lo soliciten la Secretaría de la Función Pública, la Contraloría Interna en el Instituto, las autoridades fiscales federales, las instituciones de seguridad social y el Ministerio Público Federal, en ejercicio de sus atribuciones, y
 
 IV. En los casos previstos en ley.
 
@@ -2808,7 +2810,7 @@ Si el balance actuarial acusare superávit, éste se destinará a constituir un 
 
 ### CAPITULO IV. DE LA COMISION DE VIGILANCIA
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 263.
 
@@ -2906,7 +2908,7 @@ XIX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2001)
 
 ###### Artículo 265.
 
-La Asamblea General designará a la Comisión de Vigilancia que estará compuesta por seis miembros. Para formar esta Comisión cada uno de los sectores representativos que constituyen la Asamblea, propondrá dos miembros propietarios y dos suplentes, quienes durarán en sus cargos seis años, y podrán ser reelectos. La elección puede recaer en personas que no formen parte de dichos sectores. Al menos uno de los miembros designados por el Ejecutivo Federal deberá estar adscrito a la Secretaría de Contraloría y Desarrollo Administrativo. El Ejecutivo Federal cuando lo estime conveniente podrá disminuir a la mitad la representación estatal. La designación será revocable, siempre que la pidan los miembros del sector que hubiese propuesto al representante de que se trate o porque medien causas justificadas para ello. En todo caso, el acuerdo definitivo corresponde a la Asamblea General, la que resolverá lo conducente mediante procedimiento en que oiga en defensa al miembro cuya remoción se solicite, en términos de lo señalado en el Reglamento Interior.
+La Asamblea General designará a la Comisión de Vigilancia que estará compuesta por seis miembros. Para formar esta Comisión cada uno de los sectores representativos que constituyen la Asamblea, propondrá dos miembros propietarios y dos suplentes, quienes durarán en sus cargos seis años, y podrán ser reelectos. La elección puede recaer en personas que no formen parte de dichos sectores. Al menos uno de los miembros designados por el Ejecutivo Federal deberá estar adscrito a la Secretaría de la Función Pública. El Ejecutivo Federal cuando lo estime conveniente podrá disminuir a la mitad la representación estatal. La designación será revocable, siempre que la pidan los miembros del sector que hubiese propuesto al representante de que se trate o porque medien causas justificadas para ello. En todo caso, el acuerdo definitivo corresponde a la Asamblea General, la que resolverá lo conducente mediante procedimiento en que oiga en defensa al miembro cuya remoción se solicite, en términos de lo señalado en el Reglamento Interior.
 
 ###### Artículo 266.
 
@@ -4107,3 +4109,9 @@ Para efectos de lo dispuesto en el segundo párrafo del artículo 75, de la Ley 
 D.O.F. 27 DE MAYO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
