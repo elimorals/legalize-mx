@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-cultura-fisica-y-deporte-28581"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-24"
-last_updated: "2011-06-21"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGCFD"
 ---
 # LEY GENERAL DE CULTURA FISICA Y DEPORTE
 
-LEY GENERAL DE CULTURA FISICA Y DEPORTE
+LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de febrero de 2003.
 
@@ -248,7 +248,9 @@ j) Procuraduría General de la República.
 
 La Junta Directiva será presidida por el titular de la SEP.
 
-El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario propietario o suplente, designado por la Secretaría de Contraloría y Desarrollo Administrativo, quienes participarán con voz pero sin voto.
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+El Presidente de la Junta Directiva, convocará a participar como invitados permanentes al Contralor Interno y al Comisario propietario o suplente, designado por la Secretaría de la Función Pública, quienes participarán con voz pero sin voto.
 
 De la misma manera, podrán ser invitados a participar con voz pero sin voto, personalidades distinguidas de los sectores social y privado que por su relación, nexos, vinculación y aportaciones con la práctica de la cultura física y deporte e importancia de los asuntos a tratar en dicha reunión, tengan interés directo en la misma y puedan hacer aportaciones en la materia.
 
@@ -426,9 +428,11 @@ XLI. Las que señalen otras Leyes, Reglamentos, Decretos, acuerdos y demás orde
 
 El Director General tendrá además, las facultades que le delegue y confiera la Junta Directiva para administrar y representar legalmente a la CONADE como mandatario del mismo.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 22.
 
-El órgano de vigilancia de la CONADE estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de Contraloría y Desarrollo Administrativo, en los términos del artículo 37, fracción XI de la Ley Orgánica de la Administración Pública Federal.
+El órgano de vigilancia de la CONADE estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, en los términos del artículo 37, fracción XI de la Ley Orgánica de la Administración Pública Federal.
 
 ###### Artículo 23.
 
@@ -450,7 +454,9 @@ La opinión a que se refiere el párrafo anterior deberá abarcar los aspectos q
 
 VII. Evaluar aspectos específicos de la CONADE y hacer las recomendaciones procedentes;
 
-VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representantes de la Secretaría de Contraloría y Desarrollo Administrativo ante las dependencias, entidades e instancias que intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representantes de la Secretaría de la Función Pública ante las dependencias, entidades e instancias que intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las disposiciones aplicables;
 
 IX. Verificar la debida integración y funcionamiento de la Junta Directiva;
 
@@ -472,11 +478,15 @@ XVII. Realizar estudios sobre la eficiencia con la que se ejerzan los desembolso
 
 XVIII. Solicitar a la Junta Directiva o al Director General la información que requiera para el desarrollo de sus funciones;
 
-XIX. Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Contraloría y Desarrollo Administrativo le asigne específicamente;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XIX. Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicios de las tareas que la Secretaría de la Función Pública le asigne específicamente;
 
 XX. Rendir anualmente a la Junta Directiva un informe sobre los estados financieros, con base en el dictamen de los auditores externos, y
 
-XXI. Las demás inherentes a su función y las que le señale expresamente la Secretaría de Contraloría y Desarrollo Administrativo, en el ámbito de su competencia.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XXI. Las demás inherentes a su función y las que le señale expresamente la Secretaría de la Función Pública, en el ámbito de su competencia.
 
 ###### Artículo 24.
 
@@ -498,13 +508,21 @@ Para la atención de los asuntos y la substanciación de los procedimientos a su
 
 El Contralor Interno en la CONADE, tendrá las siguientes atribuciones:
 
-I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos a la CONADE y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial de la Secretaría de Contraloría y Desarrollo Administrativo; así como calificar y constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, salvo los que sean competencia de la Dirección General;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-II. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Secretaría de Contraloría y Desarrollo Administrativo, así como expedir las certificaciones de los documentos que obran en los archivos del órgano de control interno de la CONADE;
+I. Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos adscritos a la CONADE y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de la ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial de la Secretaría de la Función Pública; así como calificar y constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, salvo los que sean competencias de la Dirección General;
 
-III. Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento, proponer las normas y lineamientos que al efecto se requieran y vigilar el cumplimiento de las normas de control que expida la Secretaría de Contraloría y Desarrollo Administrativo, así como aquellas que regulan el funcionamiento de la CONADE;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-IV. Programar y realizar auditorías, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de Contraloría y Desarrollo Administrativo sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
+II. Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la Secretaría de la Función Pública, así como expedir las certificaciones de los documentos que obran en los archivos del órgano de control interno de la CONADE;
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III. Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento, proponer las normas y lineamientos que al efecto se requieran y vigilar el cumplimiento de las normas de control que expida la Secretaría de la Función Pública, así como aquellas que regulan el funcionamiento de la CONADE.
+
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+IV. Programar y realizar auditorías, inspecciones o visitas de cualquier tipo; informar periódicamente a la Secretaría de la Función Pública sobre el resultado de las acciones de control que hayan realizado y proporcionar a ésta la ayuda necesaria para el adecuado ejercicio de sus atribuciones;
 
 V. Coordinar la formulación de los anteproyectos de programas y presupuesto del órgano de control interno en la CONADE y proponer las adecuaciones que requiera el correcto ejercicio del presupuesto;
 
@@ -516,7 +534,9 @@ VIII. Instrumentar los sistemas de control establecidos por la Dirección Genera
 
 IX. Apoyar la función directiva y promover el mejoramiento de gestión de la CONADE;
 
-X. Desarrollar sus funciones conforme a los lineamientos que emita la Secretaría de Contraloría y Desarrollo Administrativo;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+X. Desarrollar sus funciones conforme a los lineamientos que emita la Secretaría de la Función Pública;
 
 XI. Realizar sus actividades de acuerdo a las reglas y bases que le permitan cumplir su cometido con autosuficiencia y autonomía;
 
@@ -526,7 +546,9 @@ XIII. Realizar la defensa jurídica de los actos y resoluciones que emita el pro
 
 XIV. Examinar y evaluar los sistemas, mecanismos y procedimientos de control; efectuar revisiones y auditorías, vigilando que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables, y
 
-XV. Las demás que les atribuya expresamente el Titular de la Secretaría de Contraloría y Desarrollo Administrativo y aquellas que les confieran las leyes y reglamentos a las Contralorías Internas y órganos de control interno.
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XV. Las demás que les atribuya expresamente el Titular de la Secretaría de la Función Pública y aquellas que les confieran las leyes y reglamentos a las Contralorías Internas y órganos de control interno.
 
 ###### Artículo 29.
 
@@ -1096,7 +1118,7 @@ IV. Facilitar cuanta información le sea requerida por las autoridades de la Adm
 
 Las personas físicas y morales, así como las agrupaciones que hubieren contribuido al desarrollo de la cultura física y el deporte nacional, podrán obtener reconocimiento por parte de la CONADE, así como en su caso, estímulos en dinero o en especie previo cumplimiento de los requisitos que para tal efecto se establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2010)</small>
 
 ###### Artículo 105.
 
@@ -1116,11 +1138,13 @@ Los deportistas y entrenadores de alto rendimiento que gocen de apoyos económic
 
 Se declara de interés público, la prohibición del consumo, uso y distribución de sustancias farmacológicas potencialmente peligrosas para la salud y métodos no reglamentarios destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 108.
 
-Se entenderá por dopaje en el deporte, la administración a los deportistas o la utilización por éstos, de las clases o grupos farmacológicos de agentes prohibidos o métodos no reglamentarios.
+Se entenderá por dopaje en el deporte, la administración a los deportistas, su uso deliberado o inadvertido de una sustancia prohibida o de un método no reglamentario; enunciado en la lista vigente de la Agencia Mundial Antidopaje, misma que será publicada por la CONADE para efectos del conocimiento público.
 
-Se entenderá por clases y grupos farmacológicos de agentes o métodos de dopaje, las prohibidas por las organizaciones deportivas internacionales y que figuren en las listas que para el efecto publique la CONADE, de conformidad con lo dispuesto por la Comisión Médica del Comité Olímpico Internacional y la Agencia Mundial Antidopaje.
+Se sancionará como infracción, por dopaje, lo establecido en la fracción I del artículo 138 de la presente Ley.
 
 ###### Artículo 109.
 
@@ -1192,7 +1216,7 @@ El laboratorio central antidopaje tendrá carácter nacional en tanto no exista 
 
 Para efectos del artículo anterior, quedan exentas las muestras biológicas recolectadas en los eventos que se realicen en el territorio nacional y que se encuentren inscritos en los calendarios oficiales de competiciones de las federaciones internacionales o aquellas que se enmarquen en el contexto del movimiento olímpico, mismas, que serán remitidas para su estudio analítico al laboratorio certificado por el Comité Olímpico Internacional o la Agencia Mundial Antidopaje que se haya previamente determinado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE JULIO DE 2008)</small>
 
 ### Capítulo VI. De la Prevención de la Violencia en la Celebración de Espectáculos Deportivos
 
@@ -1350,37 +1374,35 @@ II. Los criterios para considerar las infracciones con el carácter de leves, gr
 
 III. Los procedimientos para interponer los recursos establecidos en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 138.
 
 Se considerarán como infracciones muy graves a la presente Ley, las siguientes:
 
-I. La utilización de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar los resultados de las competiciones;
+I. En materia de dopaje:
 
-II. La promoción o incitación a la utilización de tales sustancias o métodos.
+a) La presencia de una sustancia prohibida, de sus metabolitos o marcadores en la muestra de un deportista;
 
-Se considera promoción la dispensa y administración de tales sustancias, así como, la colaboración en la puesta en práctica de los métodos no reglamentarios;
+b) La utilización o tentativa, de las sustancias y grupos farmacológicos prohibidos, así como de métodos no reglamentarios, destinados a aumentar artificialmente las capacidades físicas de los deportistas o a modificar los resultados de las competiciones;
 
-III. La negativa a someterse a los controles de dopaje, dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes;
+c) La promoción, instigación, administración y encubrimiento a la utilización de sustancias prohibidas o métodos no reglamentarios dentro y fuera de competiciones;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+d) La negativa o resistencia, sin justificación valida, a someterse a los controles de dopaje dentro y fuera de competiciones cuando sean exigidos por los órganos o personas competentes, posterior a una notificación hecha conforme a las normas antidopaje aplicables;
 
-IV. Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
+e) Cualquier acción u omisión tendiente a impedir o perturbar la correcta realización de los procedimientos de represión del dopaje;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+f) La falsificación o tentativa, de cualquier parte del procedimiento de control del dopaje;
 
-V. La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva;
+g) Tráfico o tentativa, de cualquier sustancia prohibida o de algún método no reglamentario, y
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+h) La administración o utilización de sustancias o prácticas prohibidas en animales destinados a la práctica deportiva.
 
-VI. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades;
+II. Las distinciones, exclusiones, restricciones, preferencias u hostigamiento que se hagan en contra de cualquier deportista, motivadas por origen étnico o nacional, de género, la edad, las discapacidades, la condición social, la religión, las opiniones, preferencias sexuales, el estado civil o cualquier otra que atente contra su dignidad o anule o menoscabe sus derechos y libertades;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2011)</small>
+III. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos, y
 
-VII. El uso indebido de recursos públicos por parte de los sujetos destinatarios de los mismos, y
-
-> <small>(ADICIONADA, D.O.F. 1 DE JUNIO DE 2011)</small>
-
-VIII. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos.
+IV. El incumplimiento o violación a los estatutos de las Asociaciones Deportivas Nacionales, por cuanto hace a la elección de sus cuerpos directivos.
 
 ###### Artículo 139.
 
@@ -1456,7 +1478,7 @@ México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Pr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de febrero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 21 DE JULIO DE 2005.
 
@@ -1495,3 +1517,19 @@ D.O.F. 21 DE JUNIO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las modificaciones al Reglamento de la Ley General de Cultura Física y Deporte, motivo del presente Decreto, deberán realizarse y expedirse en un plazo no mayor a 90 días a la fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, CUARTO PÁRRAFO; 22; 23, FRACCIONES VIII, XIX Y XXI; Y 28, FRACCIONES I, II, III, IV, X Y XV DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 108 Y 138 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Ejecutivo Federal publicará las reformas correspondientes al Reglamento de la Ley General de Cultura Física y Deporte, a efecto de ajustarlo a los términos del mismo.
