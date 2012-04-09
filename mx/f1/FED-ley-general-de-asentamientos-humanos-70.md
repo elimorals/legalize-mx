@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-asentamientos-humanos-70"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-21"
-last_updated: "2010-11-30"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-07-19"
 
 LEY GENERAL DE ASENTAMIENTOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 21 de julio de 1993.
 
@@ -183,7 +183,9 @@ II. Coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos l
 
 II bis. Promover la implantación de sistemas o dispositivos de alta eficiencia energética en las obras públicas de infraestructura y equipamiento urbano, para garantizar el desarrollo urbano sostenible;
 
-III. Prever a nivel nacional las necesidades de reservas territoriales para el desarrollo urbano con la intervención, en su caso, de la Secretaría de la Reforma Agraria, considerando la disponibilidad de agua determinada por la Secretaría de Agricultura y Recursos Hidráulicos, y regular en coordinación con los gobiernos estatales y municipales los mecanismos para satisfacer dichas necesidades;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III. Prever a nivel nacional las necesidades de reservas territoriales para el desarrollo urbano con la intervención, en su caso, de la Secretaría de la Reforma Agraria, considerando la disponibilidad de agua determinada por la Secretaría de Medio Ambiente y Recursos Naturales y regular en coordinación con los gobiernos estatales y municipales los mecanismos para satisfacer dichas necesidades;
 
 IV. Elaborar, apoyar y ejecutar programas para el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Federal correspondientes y los gobiernos estatales y municipales, y con la participación de los sectores social y privado;
 
@@ -782,3 +784,9 @@ Se deberá adecuar la legislación en materia de desarrollo urbano de las entida
 D.O.F. 30 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
