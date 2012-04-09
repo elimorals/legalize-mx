@@ -4,7 +4,7 @@ identifier: "LONF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2009-05-06"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LONF"
 ---
 # LEY ORGANICA DE NACIONAL FINANCIERA
 
-LEY ORGANICA DE NACIONAL FINANCIERA
+LEY ORGÁNICA DE NACIONAL FINANCIERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -350,9 +350,11 @@ IV. Someter a sabiendas a la consideración del Consejo Directivo, información 
 
 Además de las causas de remoción señaladas en este precepto, a los consejeros de la serie "A" y al Director General, se les removerá de su cargo cuando se determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 24.
 
-La vigilancia de la Sociedad estará encomendada a dos comisarios designados, uno por la Secretaría de la Contraloría General de la Federación y el otro por los consejeros de la serie "B". Por cada comisario se nombrará el respectivo suplente.
+La vigilancia de la sociedad estará encomendada a dos Comisarios designados, uno por la Secretaría de la Función Pública y el otro por los consejeros de la serie "B". Por cada Comisario se nombrara el respectivo suplente.
 
 Los comisarios tendrán en los términos de la Ley Reglamentaria del Servicio Público de Banca y Crédito, y del Reglamento Orgánico de la Sociedad, las facultades y obligaciones que requieran para el adecuado cumplimiento de sus funciones, las que podrán ejercer conjunta o separadamente.
 
@@ -450,7 +452,9 @@ Dos representantes de la Secretaría de Hacienda y Crédito Público; el Subsecr
 
 Una persona que por sus conocimientos y desarrollo profesional, tenga amplia experiencia en el área de recursos humanos;
 
-Un representante de la Secretaría de Contraloría y Desarrollo Administrativo que será el Subsecretario de Desarrollo y Simplificación Administrativa;
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+Un representante de la Secretaría de la Función Pública que será el Subsecretario de Desarrollo y Simplificación Administrativa;
 
 Un miembro del Consejo Directivo que tenga el carácter de independiente;
 
@@ -508,11 +512,11 @@ México, D. F., a 17 de diciembre de 1986.- Dip. Reyes R. Flores Zaragoza, Presi
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos ochenta y seis.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 SEGUNDO.- La reforma prevista en el artículo segundo entrará en vigor al mismo tiempo que la legislación respectiva del Tribunal Superior de Justicia del Distrito Federal que regule el funcionamiento del Fondo de Administración de Justicia para el Distrito Federal.
 
@@ -563,3 +567,9 @@ Segundo.- Quedan sin efecto las disposiciones que a la entrada en vigor del pres
 D.O.F. 6 DE MAYO DE 2009
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
