@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "2011-05-25"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGP"
 ---
 # LEY GENERAL DE POBLACION
 
-LEY GENERAL DE POBLACION
+LEY GENERAL DE POBLACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -140,11 +140,15 @@ El Consejo podrá contar con el auxilio de consultorías técnicas e integrar la
 
 (DEROGADO, D.O.F. 25 DE MAYO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EL PRIMER PÁRRAFO DE ESTE ARTÍCULO FUE DEROGADO EN EL D.O.F. EL 25 DE MAYO DE 2011, CONFORME AL TRANSITORIO SEGUNDO SU ENTRADA EN VIGOR ESTÁ SUJETA A LA VIGENCIA DEL REGLAMENTO DE LA LEY DE MIGRACIÓN.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 10.
 
-(DEROGADO, D.O.F. 25 DE MAYO DE 2011)
+Es facultad exclusiva de la Secretaría de Gobernación fijar los lugares destinados al tránsito de personas y regular el mismo, por puertos marítimos, aéreos y fronteras, previa opinión de las Secretarías de Hacienda y Crédito Público, Comunicaciones y Transportes, Salud, Relaciones Exteriores, Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y en su caso la de Marina; asimismo consultará a las demás dependencias y organismos que juzgue conveniente.
+
+Las dependencias y organismos que se mencionan, están obligados a proporcionar los elementos necesarios para prestar los servicios que sean de sus respectivas competencias.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1189,3 +1193,9 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
