@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "2007-06-28"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE JUNIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -1679,7 +1679,7 @@ Tampoco podrán repartir dividendos decretados por sus asambleas generales de ac
 
 Los repartos efectuados en contravención a lo dispuesto en los párrafos anteriores, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto, los accionistas que los hayan percibido y los administradores y funcionarios que los hayan pagado.
 
-> <small>(REFORMADO Y REUBICADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ## TITULO II. Contabilidad, Inspección y Vigilancia
 
@@ -1833,7 +1833,7 @@ La propia Comisión, mediante disposiciones de carácter general, podrá estable
 
 La Secretaría de Hacienda y Crédito Público podrá determinar, mediante disposiciones de carácter general, reglas para la organización y el régimen de inversión de los sistemas de pensiones o jubilaciones que, para el personal de las instituciones de fianzas, se establezcan en forma complementaria a los contemplados en las leyes de seguridad social.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO Y REUBICADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ### CAPITULO II. Inspección y Vigilancia
 
@@ -2435,9 +2435,9 @@ Para el caso de que se hagan exigibles las fianzas señaladas en el párrafo ant
 
 Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, se harán efectivas a elección del beneficiario, siguiendo los procedimientos establecidos en los artículos 93 y 93 bis de esta Ley, o bien, de acuerdo con las disposiciones que a continuación se señalan y de conformidad con las bases que fije el Reglamento de este artículo, excepto las que se otorguen a favor de la Federación para garantizar obligaciones fiscales a cargo de terceros, caso en que se estará a lo dispuesto por el Código Fiscal de la Federación:
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
-I.- Las instituciones de fianzas estarán obligadas a enviar según sea el caso, a la Tesorería de la Federación, a la Tesorería el Departamento del Distrito Federal, o bien a las autoridades estatales o municipales que correspondan, una copia de todas las pólizas de fianzas que expidan a su favor;
+I.- Las instituciones de fianzas estarán obligadas a enviar según sea el caso, a la Tesorería de la Federación, a la Tesorería del Gobierno del Distrito Federal, o bien a las autoridades estatales o municipales que correspondan, una copia de todas las pólizas de fianzas que expidan a su favor;
 
 > <small>(REFORMADO PRIMER PARRAFO POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -4336,3 +4336,9 @@ D.O.F. 28 DE JUNIO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones del Código Penal Federal vigentes en el momento de su comisión.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
