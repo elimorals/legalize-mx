@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-delitos-de-imprenta-2565"
 country: "mx"
 rank: "ley"
 publication_date: "1917-04-12"
-last_updated: "2012-01-11"
+last_updated: "2012-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2565&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1917-04-09"
 
 LEY SOBRE DELITOS DE IMPRENTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
-Ley publicada en el Diario Oficial de la Federación el jueves 12 de abril de 1917.
+Ley publicada en el Diario Oficial de la Federación, el jueves 12 de abril de 1917.
 
 El C. Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, con esta fecha se ha servido dirigirme el siguiente decreto:
 
@@ -101,7 +101,9 @@ IX.- Publicar los nombres de las víctimas de atentados al pudor, estupro o viol
 
 X.- Censurar a un miembro de un jurado popular por su voto en el ejercicio de sus funciones;
 
-XI.- Publicar planos, informes o documentos secretos de la Secretaría de Guerra y los acuerdos de ésta relativos a movilización de tropas, envíos de pertrechos de guerra y demás operaciones militares, así como los documentos, acuerdos o instrucciones de la Secretaría de Estado, entre tanto no se publiquen en el Periódico Oficial de la Federación o en Boletines especiales de las mismas Secretarías;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+XI.- Publicar planos, informes o documentos secretos de la Secretaría de la Defensa Nacional y los acuerdos de ésta relativos a movilización de tropas, envíos de pertrechos de guerra y demás operaciones militares, así como los documentos, acuerdos o instrucciones de la Secretaría de Estado, entre tanto no se publiquen en el Periódico Oficial de la Federación o en Boletines especiales de las mismas Secretarías;
 
 XII.- Publicar las palabras o expresiones injuriosas u ofensivas que se viertan en los Juzgados o tribunales, o en las sesiones de los cuerpos públicos colegiados.
 
@@ -316,3 +318,9 @@ Constitución y Reformas.- México, nueve de abril de mil novecientos diecisiete
 D.O.F. 11 DE ENERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
