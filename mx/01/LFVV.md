@@ -4,7 +4,7 @@ identifier: "LFVV"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-10-25"
-last_updated: "1996-10-25"
+last_updated: "2012-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9228&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFVV"
 
 LEY FEDERAL DE VARIEDADES VEGETALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 25 de octubre de 1996.
 
@@ -42,9 +42,11 @@ LEY FEDERAL DE VARIEDADES VEGETALES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1o.
 
-La presente ley tiene por objeto fijar las bases y procedimientos para la protección de los derechos de los obtentores de variedades vegetales. Su aplicación e interpretación, para efectos administrativos, corresponderá al Ejecutivo Federal a través de la Secretaría de Agricultura, Ganadería y Desarrollo Rural.
+La presente Ley tiene por objeto fijar las bases y procedimientos para la protección de los derechos de los obtentores de variedades vegetales. Su aplicación e interpretación, para efectos administrativos, corresponderá al Ejecutivo Federal a través de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 ###### Artículo 2o.
 
@@ -62,7 +64,9 @@ V.- Proceso de mejoramiento: Técnica o conjunto de técnicas y procedimientos q
 
 VI.- Registro: El Registro Nacional de Variedades Vegetales a que se refiere el artículo 33 de esta ley;
 
-VII.- Secretaría: La Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+VII.- Secretaría; La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
 VIII.- Título de obtentor: Documento expedido por la Secretaría en el que se reconoce y ampara el derecho del obtentor de una variedad vegetal, nueva, distinta, estable y homogénea, y
 
@@ -292,7 +296,9 @@ I.- El Presidente, el Secretario Técnico y tres representantes más, designados
 
 II.- Un representante del Instituto Mexicano de la Propiedad Industrial;
 
-III.- Un representante de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, y
+> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+
+III.- Un representante de la Secretaría de Medio Ambiente y Recursos Naturales y;
 
 IV.- Un representante de las instituciones públicas nacionales de investigación agrícola.
 
@@ -511,3 +517,11 @@ La Secretaría reconocerá el derecho de prioridad a que se refiere el artículo
 México, D.F., a 3 de octubre de 1996.- Dip. Carlos Humberto Aceves del Olmo, Presidente.- Sen. Melchor de los Santos Ordóñez, Presidente.- Dip. Sabino González Alba, Secretario.- Sen. Eduardo Andrade Sánchez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de octubre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 9 DE ABRIL DE 2012.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
