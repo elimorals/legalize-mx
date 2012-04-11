@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-municipal-de-atencion-al-turista-del-municipio-25417
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-07-15"
-last_updated: "1992-07-15"
+last_updated: "2012-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO MUNICIPAL DE ATENCIÓN AL TURISTA DEL MUNICIPIO DE COZUMEL, QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE TURISMO DEL MUNICIPIO DE COZUMEL, PUBLICADO EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 11 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 15 de julio de 1992.
 
@@ -264,3 +266,13 @@ OCTAVO REGIDOR
 C. JOSE ENCARNACION CHALE KU
 
 ESTE REGLAMENTO FUE PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 15 DE JULIO DE 1992.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE ABRIL DE 2012.
+
+PRIMERO.- Se deroga y se deja sin efecto cualquier disposición reglamentaria y Administrativa Municipal que contravenga a las disposiciones previstas en el presente Reglamento.
+
+SEGUNDO.- Se abroga el Reglamento de Atención al Turista del Municipio de Cozumel, publicado en el Periódico Oficial con anterioridad.
+
+TERCERO.- El presente Reglamento, surtirá sus efectos y vigencia a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
