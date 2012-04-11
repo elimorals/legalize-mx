@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2012-02-03"
+last_updated: "2012-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -601,7 +601,7 @@ Para promover la colaboración coordinada entre los poderes públicos se estable
 
 ### CAPITULO I. DEL CONGRESO Y DE LOS DIPUTADOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 31.
 
@@ -623,7 +623,7 @@ Para conducir las sesiones del pleno y velar por el funcionamiento del Congreso,
 
 La representación del Congreso recae en el presidente de la Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 32.
 
@@ -719,7 +719,7 @@ Los diputados propietarios no podrán ser electos para el periodo inmediato, ni 
 
 Los diputados tendrán fuero constitucional durante su ejercicio legal y por las aportaciones que expresen jamás podrán ser reconvenidos. La Junta de Coordinación y Concertación Política del Congreso velará por el respeto a la inviolabilidad del recinto parlamentario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 37.
 
@@ -821,7 +821,7 @@ V. A los habitantes del Estado en los términos que establezca la ley, y
 
 VI. A los titulares de los órganos públicos autónomos.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -893,7 +893,7 @@ VI. Expedir la Ley que regule el funcionamiento del Municipio Libre, conforme a 
 
 VII. Suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por acuerdo de las dos terceras partes de sus integrantes, por alguna de las causas graves que la Ley señale, siempre y cuando hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan. Estos procedimientos observarán las reglas del juicio político y además, podrá imponerse como sanción la de inhabilitación en los términos que establezca la Ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 VIII. Designar un concejo municipal, en caso de declararse desaparecido o suspendido un ayuntamiento o cuando se declaren nulas las elecciones o empatadas, o la inelegibilidad de la planilla triunfadora. Si la declaración se produce dentro del primer año del período municipal, expedirá la convocatoria para que en elecciones extraordinarias se elija nuevo ayuntamiento e instruirá al órgano electoral para que las lleve a cabo en un término no menor de treinta ni mayor de noventa días, siempre y cuando las condiciones políticas y sociales sean propicias y garanticen la tranquilidad de los comicios; en caso contrario, el concejo designado concluirá el período.
 
@@ -1109,7 +1109,7 @@ La elección de Gobernador del Estado se realizará de acuerdo con lo establecid
 
 La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador electo que hubiere hecho el Instituto Electoral de Tlaxcala, de acuerdo con los resultados de la votación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2009)</small>
 
 ###### ARTICULO 59.
 
@@ -1177,7 +1177,7 @@ El Gobernador al tomar posesión de su cargo otorgará ante el Congreso o en su 
 
 Para poder separarse del territorio del Estado por más de quince días, el Gobernador deberá solicitar la autorización del Congreso, o en su caso, de la Comisión Permanente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 63.
 
@@ -1591,7 +1591,7 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ### CAPITULO II. DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 79.
 
@@ -1613,7 +1613,7 @@ La administración, vigilancia y disciplina del Poder Judicial, estará a cargo 
 
 Los magistrados del Tribunal Superior de Justicia durarán en el cargo seis años y podrán ser ratificados, previa evaluación en términos de lo establecido por esta Constitución. Elegirán de entre ellos a un presidente que durará en su encargo dos años y podrá ser reelecto por una sola vez. Solo podrán ser removidos de sus cargos, por el Congreso del Estado por faltas u omisiones graves en el desempeño de sus funciones; por incapacidad física o mental; por sanción impuesta en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, o por haber cumplido sesenta y cinco años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 80.
 
@@ -1937,7 +1937,7 @@ II. Haber residido en el lugar de su elección durante los cuatro años previos 
 
 III. Los demás requisitos que señale la ley de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 ###### ARTICULO 89.
 
@@ -2043,7 +2043,7 @@ Quedan exentos de contribuir, la Federación, los Estados y los Municipios en to
 
 Como principio general, todos los recursos que transfiera la Federación al Estado, para atención de la educación, salud, vivienda, ecología, cultura, deporte, uso y derecho de agua, desarrollo agropecuario y social o con cualquier otro fin general o específico, deberán ser canalizados a los municipios para su ejercicio, de conformidad con las reglas de operación respectivas. El Ejecutivo y los ayuntamientos, si así conviene a estos últimos, celebrarán los convenios necesarios para el ejercicio de estos recursos.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
@@ -2323,6 +2323,10 @@ La función de fiscalización se desarrollará conforme a los principios de post
 
 El Órgano de Fiscalización Superior, tendrá a su cargo fiscalizar en forma posterior los ingresos y egresos, el manejo, la custodia y la aplicación de fondos y recursos de los poderes del Estado, municipios, organismos autónomos y demás entes públicos fiscalizables, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes y programas, presentados a través de los informes que rindan en los términos que disponga la ley.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2012)</small>
+
+El Órgano de Fiscalización Superior participará en los procesos de entrega-recepción de los Poderes del Estado, Municipios, Organismos Autónomos y demás entes públicos fiscalizables en los términos que disponga la Ley.
+
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 106.
@@ -2373,7 +2377,7 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 109.
 
@@ -2495,7 +2499,7 @@ Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular
 
 Los funcionarios de elección popular sólo podrán renunciar a su cargo por causa grave que calificará la autoridad respectiva; y cuando sin causa justa o sin licencia previa faltare al desempeño de sus funciones, quedarán separados de su cargo, privados de los derechos de ciudadanos e inhabilitados para ocupar otro empleo público por el tiempo que debieren durar en su encargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 119.
 
@@ -2559,11 +2563,11 @@ Por lo tanto, mando se imprima, publique por bando solemne, circule y se le dé 
 
 Palacio del Poder Ejecutivo. Tlaxcala, a 16 de septiembre de 1918.- El Gobernador Constitucional del Estado, General Máximo Rojas.- El Secretario General de Gobierno, Interino, Octavio Hidalgo.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE SEPTIEMBRE DE 1926.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 5 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 5 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
 
 P.O. 19 DE DICIEMBRE DE 1934.
 
@@ -2739,7 +2743,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 3 DE MAYO DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 5 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 5 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
 
 P.O. 9 DE AGOSTO DE 1995.
 
@@ -3150,5 +3154,19 @@ El Consejo de la Judicatura tomará las previsiones, presupuestarias necesarias 
 La función jurisdiccional de la Sala Electoral Administrativa del Tribunal Superior de Justicia del Estado, en materia administrativa, estará regulada por la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
 
 ###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 11 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
