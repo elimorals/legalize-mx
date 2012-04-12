@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2012-04-01"
+last_updated: "2012-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1705,75 +1705,115 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
 ### CAPÍTULO I. SECUESTRO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+
 ###### Artículo 153.
 
-Comete el delito de secuestro, quien por cualquier medio prive de la libertad a otro, con alguno de los siguientes propósitos:
+Al que prive de la libertad a otro se le aplicarán:
 
-I. Obtener rescate para sí o para un tercero;
+A. De veinte a cuarenta años de prisión y de quinientos a dos mil días multa, si la privación de la libertad se efectúa con el propósito de:
 
-II. Que la autoridad o un particular realice o deje de realizar un acto de cualquier naturaleza;
+I. Obtener, para sí o para un tercero, rescate o cualquier beneficio;
 
-III. Alterar la integridad física o mental del secuestrado o de cualquier otra persona relacionada con éste;
+II. Detener en calidad de rehén a una persona y amenazar con privarla de la vida o con causarle daño, para obligar a sus familiares o a un particular a que realice o deje de realizar un acto cualquiera;
 
-IV. Causar daño o perjuicio económico al secuestrado o a otra persona relacionada con éste; y,
+III. Causar daño o perjuicio a la persona privada de la libertad o a terceros; o
 
-V. Obtener información que la víctima o una persona relacionada con ella pueda tener, en razón del empleo o actividad que desempeñe.
+IV. Cometer secuestro exprés, desde el momento mismo de su realización, entendiéndose por éste, el que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otro. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
 
-Al que cometa el delito de secuestro, se le aplicarán de quince a setenta años de prisión y multa de mil ochenta a cinco mil cuarenta días de salario.
+B. Estas penas se agravarán de veinticinco a cuarenta y cinco años de prisión y de dos mil a cuatro mil días multa, si en la privación de la libertad concurre alguna o algunas de las circunstancias siguientes:
+
+I. Que se realice en camino público o en lugar desprotegido o solitario;
+
+II. Que quienes la lleven a cabo obren en grupo de dos o más personas;
+
+III. Que se realice con violencia;
+
+IV. Que para privar a una persona de su libertad se allane el inmueble en el que ésta se encuentra;
+
+V. Que la víctima sea menor de dieciocho años o mayor de sesenta años de edad, o que por cualquier otra circunstancia no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo;
+
+VI. Que la víctima sea una mujer en estado de gravidez;
+
+C. De veinticinco a cincuenta años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad concurren cualquiera de las circunstancias siguientes:
+
+l. Que el o los autores sean o hayan sido integrantes de alguna institución de seguridad pública, de procuración o administración de justicia, o de las Fuerzas Armadas Mexicanas, o se ostenten como tales sin serlo;
+
+II. Que el o los autores tengan vínculos de parentesco, amistad, gratitud, confianza o relación laboral con la víctima o persona relacionada con ésta;
+
+III. Que durante su cautiverio se cause a la víctima alguna lesión de las previstas en el artículo 140 de este Código;
+
+IV. Que en contra de la víctima se hayan ejercido actos de tortura o violencia sexual;
+
+V. Que durante o después de su cautiverio, la víctima muera debido a cualquier alteración de su salud que sea consecuencia de la privación de la libertad, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito.
+
+Las sanciones señaladas en el presente artículo se impondrán, sin perjuicio o con independencia de las que correspondan por otros delitos que de las conductas a las que se aplican resulten.
+
+Si la víctima del delito previsto en el presente Capítulo de este Código es privada de la vida por los autores o partícipes de los mismos, se impondrá a éstos una pena de cuarenta a setenta años de prisión y de seis mil a doce mil días multa.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### Artículo 154.
 
-Se impondrán de treinta a setenta años de prisión y multa de dos mil ciento sesenta a cinco mil cuarenta días de salario, a quien al privar de la libertad a otro, en los términos del artículo anterior, concurra con alguna de las circunstancias siguientes:
+Si espontáneamente se libera a la víctima del secuestro dentro de los tres días siguientes al de la privación de la libertad, sin lograr alguno de los propósitos a que se refieren las cuatro primeras fracciones del artículo 153 de este Código y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
 
-I. Que la víctima sea menor de doce o mayor de sesenta años o discapacitado;
+La misma pena se aplicará a aquél que habiendo participado en la planeación de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad y la víctima sea rescatada con vida.
 
-II. Que el sujeto activo tenga vínculos de parentesco, amistad, gratitud, confianza o relación laboral con la víctima o persona relacionada con ésta;
+La pena señalada en el párrafo primero de este artículo se aplicará a aquél que habiendo participado en la comisión de alguna de las conductas a que hace referencia el presente Capítulo, dé noticia de ese hecho a la autoridad para evitar que se cometa el delito y proporcione datos fehacientes o suficientes elementos de convicción contra los demás participantes del hecho o, ya cometido, antes de que se libere a la víctima, proporcione, los datos o elementos referidos, además dé información eficaz para liberar o localizar a la víctima.
 
-III. Que el sujeto activo sea o haya sido servidor público o miembro de una corporación de seguridad privada;
+No obstante lo anterior, si a la víctima se le hubiere causado alguna lesión de las previstas en el artículo 140 de este Código, la pena será de nueve a dieciséis años de prisión y de trescientos a quinientos días multa, así como la colocación de los dispositivos de localización y vigilancia por la autoridad policial hasta por los cinco años posteriores a su liberación.
 
-IV. Que el sujeto activo cause una mutilación física o extraiga alguno de los órganos de la víctima;
+En caso de que espontáneamente se libere al secuestrado dentro de los primeros diez días, sin lograr alguno de los propósitos a que se refieren las cuatro primeras fracciones del artículo 153 de este Código y sin que se haya presentado alguna de las circunstancias agravantes del delito, la pena de prisión aplicable será de ocho a quince años y de doscientos cincuenta hasta quinientos días multa.
 
-V. Que se cause un daño o alteración a la salud de la víctima o de sus familiares;
-
-VI. Que la víctima sea mujer en estado de embarazo;
-
-VII. Que persona relacionada con la víctima por un vínculo de parentesco o afectivo pierda la vida como consecuencia del delito; y,
-
-VIII. Que el sujeto activo sea o haya sido integrante de alguna corporación de seguridad pública o privada o se ostente como tal sin serlo.
-
-Cuando en la comisión de este delito intervenga un servidor público, se le impondrán además de las penas previstas, la destitución e inhabilitación por un tiempo igual al de la pena de prisión impuesta.
-
-En caso de que la víctima sea privada de la vida por el activo, la pena de prisión será de cuarenta y cinco a setenta años y multa de tres mil doscientos cuarenta a cinco mil cuarenta días de salario.
-
-Si el sujeto activo deja en libertad de manera espontánea a la víctima dentro de los tres días siguientes a la privación de la libertad, sin haber logrado algunos de los propósitos previstos en el artículo 153, se le impondrán de cuatro a doce años de prisión y multa de doscientos ochenta y ocho a ochocientos sesenta y cuatro días de salario.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### Artículo 155.
 
-Se impondrán de cinco a quince años de prisión y multa de trescientos sesenta a mil ochenta días de salario, al que en relación con las conductas sancionadas en los artículos anteriores:
+Se impondrá pena de cien a trescientas cincuenta jornadas de trabajo a favor de la comunidad, al que simule por sí o por interpósita persona, la privación de su libertad con alguno de los propósitos señalados en las cuatro primeras fracciones del artículo 153 de este Código.
 
-I. Actúe como intermediario en las gestiones de libertad, sin la autorización de los familiares directos de la víctima;
-
-II. Colabore en la difusión pública de las pretensiones o mensajes del sujeto activo, fuera del estricto derecho a la información;
-
-III. Actúe como asesor de quienes representen o gestionen a favor de la víctima y evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del delito; o
-
-IV. Aconseje o induzca a no presentar la denuncia o bien a no colaborar u obstruir la actuación de las autoridades.
-
-Igual pena se impondrá al servidor público que teniendo el deber de hacerlo, no intervenga en la investigación de los hechos y la persecución del sujeto activo, ni proceda en los términos de esta disposición, tan pronto como tenga conocimiento del delito y aún cuando la víctima o sus familiares se opongan a ello. Además de las penas previstas, se le impondrán la destitución e inhabilitación por un tiempo igual al de la pena de prisión.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### Artículo 156.
 
-Comete el delito de secuestro exprés el que prive de su libertad personal a otra persona, con el objeto de obtener un lucro mediante el uso de cualquiera de los siguientes medios: tarjetas de crédito, tarjetas de débito, título de crédito, medios electrónicos, informáticos, mecánicos, en especie o efectivo.
+Se impondrán de dos a ocho años de prisión al que simule la privación de la libertad de una persona, con la intención de conseguir alguno de los propósitos señalados las (sic) cuatro primeras fracciones del artículo 153 de este Código.
 
-Al que cometa el delito señalado, se le impondrá de diez a quince años de prisión y multa de setecientos veinte a mil ochenta días de salario.
+La misma pena se impondrá al que amenace de cualquier modo a una persona con privarla de la libertad o con privar de la libertad a algún miembro de su familia o con quien esté ligada por algún vínculo, con alguno de los propósitos señalados en los (sic) las cuatro primeras fracciones del artículo 153 de este Código.
 
-Si el tiempo de la privación de la libertad excediera de cinco horas se aplicará lo dispuesto en el artículo 153.
+Esta misma pena se impondrá, además de setecientos a mil quinientos días multa, al que:
+
+I. Después de la ejecución de cualquiera de las conductas previstas en el artículo 153 del presente Código, y sin haber participado en cualquiera de ellas, adquiera o· reciba el producto de las mismas a sabiendas de esta circunstancia;
+
+II. Preste auxilio o cooperación al autor de cualquiera de las conductas previstas en el artículo 153 del presente Código, con conocimiento de esta circunstancia, por acuerdo posterior a la liberación de la víctima;
+
+III. Oculte o favorezca el ocultamiento del responsable de ejecutar cualquiera de las conductas previstas en el artículo 153 del presente Código, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos del mismo o impida que se averigüe;
+
+IV. Altere, modifique o destruya ilícitamente el lugar, huellas o vestigios de los hechos delictivos a que se refiere este Código, y
+
+V. Desvíe u obstaculice la investigación de cualquiera de las conductas previstas en el artículo 153 del presente Código, o favorezca que el inculpado se sustraiga a la acción de la justicia.
+
+No se aplicará la pena prevista en este artículo en el caso de la fracción III, en lo referente al ocultamiento del infractor, cuando se trate de:
+
+a) Los ascendientes o descendientes consanguíneos o afines directos, y
+
+b) El cónyuge, la concubina, el concubinario y parientes colaterales por consanguinidad hasta el segundo grado.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### Artículo 157.
 
-A quien simule encontrarse privado de su libertad o simule la privación de la libertad de otro, con amenaza de su vida o daños a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrán de dos a ocho años de prisión y multa de ciento cuarenta y cuatro a quinientos setenta y seis días de salario.
+Se aplicará pena de dos a ocho años de prisión, de doscientos a mil días multa, al servidor público que:
 
-Las mismas penas se impondrán a cualquiera que intervenga en la comisión de este delito.
+I. Divulgue, sin motivo fundado, información reservada o confidencial, relacionada con las conductas sancionadas por este Capítulo, salvo que se refiera a la información o imágenes obtenidas en una intervención de comunicación privada, en este caso se aplicará lo dispuesto por el Código Penal Federal, o
+
+II. Revele, sin motivo fundado, técnicas aplicadas a la investigación o persecución de las conductas previstas en el presente Capítulo.
+
+Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria, la pena será de cuatro años seis meses a trece años de prisión, así como también, la multa y el tiempo de colocación de dispositivos de localización y vigilancia se incrementarán desde un tercio hasta dos terceras partes.
+
+Además de la pena a que se refiere el párrafo anterior, se le impondrá de doscientos a mil días multa al servidor público que, teniendo atribuciones en materia de prevención, investigación, procuración o impartición de justicia o de vigilancia y custodia en los centros de privación de la libertad o penitenciaria, se abstenga de denunciar ante el Ministerio Público o, en caso de urgencia, ante la policía, la comisión de cualquiera de los delitos previstos en este Código, o de hacer saber de inmediato al Ministerio Público información, evidencias o cualquier otro dato relacionado, directa o indirectamente, con la preparación o comisión de las conductas previstas en este Código.
+
+A todo sentenciado por cualquiera de los delitos previstos en esta Ley que sea o hubiere sido servidor público de cualquiera de las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias encargadas de la seguridad pública, se le aplicará como parte de la pena la inhabilitación para ocupar un empleo, cargo o comisión en el servicio público federal, local o municipal, desde un plazo igual al de la pena de prisión que se le imponga por el delito en que incurrió hasta la inhabilitación definitiva.
+
+Cualquier otro servidor público quedará inhabilitado para ocupar un empleo, cargo o comisión en el servicio público federal, local o municipal hasta por un plazo igual al de la pena de prisión que se imponga. Dicha inhabilitación correrá a partir de que concluya la pena de prisión.
 
 ### CAPÍTULO II. DESAPARICIÓN FORZADA DE PERSONAS
 
@@ -1809,13 +1849,13 @@ A los sujetos activos que proporcionen datos con los que se logre la recuperaci�
 
 ### CAPÍTULO IV. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
+
 ###### Artículo 161.
 
 Se impondrá de dos a cuatro años de prisión y multa de ciento cuarenta y cuatro a doscientos ochenta y ocho días de salario, al particular que prive a otro de su libertad, sin el propósito de obtener un lucro, causar un daño o perjuicio.
 
 La pena de prisión se aumentará en una mitad, cuando la privación de la libertad se realice con violencia, la víctima sea menor de doce años o mayor de sesenta años o discapacitado.
-
-Cuando la privación de la libertad se lleve a cabo únicamente para cometer los delitos de extorsión o robo, previstos en los artículos 168 y 194 de este código respectivamente, la pena será de cinco a veinte años de prisión y multa de trescientos sesenta a mil cuatrocientos cuarenta días de salario, independientemente de las demás penas que resulten.
 
 ### CAPÍTULO V. RETENCIÓN, SUSTRACCIÓN DE MENORES O INCAPACES CON FINES DE CORRUPCIÓN O TRÁFICO DE ÓRGANOS
 
@@ -4540,3 +4580,11 @@ P.O. 1 DE ABRIL DE 2012.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- En las disposiciones relativas a los delitos de secuestro, se observará lo dispuesto por el Código Penal correspondiente, de conformidad con lo establecido por el Artículo Segundo Transitorio aprobado mediante Decreto número 284 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 48 de fecha 14 de junio de 2009, mismas que se seguirán tramitándose hasta su conclusión. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+TERCERO.- En el delito de secuestro, se aplicarán las disposiciones previstas en este Código, o en su caso las establecidas en la Ley General para prevenir y sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
