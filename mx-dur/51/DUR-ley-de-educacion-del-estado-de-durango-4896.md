@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2011-03-27"
+last_updated: "2012-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE EDUCACION DEL ESTADO DE DURANGO
 
-LEY DE EDUCACION DEL ESTADO DE DURANGO
+LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -155,7 +155,7 @@ Podrán aceptarse donativos voluntarios que proporcionen los padres de familia p
 
 La educación que impartan el Estado y los Municipios será laica, y por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 9.
 
@@ -167,49 +167,59 @@ II.- Fortalecer la conciencia de identidad duranguense y aprecio por la misma;
 
 III.- Crear una cultura de conocimiento y de respeto al orden jurídico que permita su observancia y la capacidad para exigir su cumplimiento y participar en su mejoramiento;
 
-IV.- Fomentar ideas y sentimientos de solidaridad social, de apoyo a los grupos marginados y de valoración de los pueblos indígenas, a fin de contribuír a crear una sociedad más justa e integrada;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2012)</small>
+
+IV.- Contribuir a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad, solidaridad social e igualdad de derechos de todos los hombres, evitando los privilegios y la discriminación de razas, de religión, de grupos, de sexos o de individuos. Así como la promoción de una cultura de paz, libre de cualquier forma de maltrato físico, psicológico o verbal, y de apoyo a los grupos marginados y de valoración de los pueblos indígenas.
 
 V.- Impulsar una formación que contribuya al desarrollo de la democracia y al fortalecimiento de la paz, la tolerancia y el respeto a los derechos humanos;
 
 VI.- Fomentar el cuidado de la salud individual, difundiendo información sobre los daños físicos, mentales, morales y sociales que producen las adicciones a las drogas y otros tóxicos que apartan a las personas del estudio, del trabajo y de la orientación hacia una vida social saludable y productiva;
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2012)</small>
+
+VII.- Promover la convivencia de respeto y de armonía en condiciones de igualdad y libre de cualquier forma de maltrato físico, psicológico o verbal entre estudiantes;
+
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
-VII.- Fomentar el uso de medios informáticos y el aprendizaje de una segunda lengua promoviendo el desarrollo y la aplicación de las ciencias, métodos y técnicas para elevar el bienestar social mediante el trabajo productivo;
+VIII.- Fomentar el uso de medios informáticos y el aprendizaje de una segunda lengua promoviendo el desarrollo y la aplicación de las ciencias, métodos y técnicas para elevar el bienestar social mediante el trabajo productivo;
 
-VIII.- Preparar a los educandos para enfrentar los retos personales y nacionales que plantean, la globalización económica, las grandes migraciones humanas, así como la interdependencia política y social entre países;
+IX.- Preparar a los educandos para enfrentar los retos personales y nacionales que plantean, la globalización económica, las grandes migraciones humanas, así como la interdependencia política y social entre países;
 
-IX.- Crear conciencia de que la educación es el instrumento fundamental que asegurará el desarrollo social del Estado de Durango;
+X.- Crear conciencia de que la educación es el instrumento fundamental que asegurará el desarrollo social del Estado de Durango;
 
-X.- Fomentar principios que coadyuven al desarrollo de la personalidad de los educandos en una cultura de afirmación de la dignidad y responsabilidad personal, de aprecio por las libertades;
+XI.- Fomentar principios que coadyuven al desarrollo de la personalidad de los educandos en una cultura de afirmación de la dignidad y responsabilidad personal, de aprecio por las libertades;
 
-XI.- Fomentar el adecuado desarrollo intelectual y afectivo, así como la autoestima del educando para su cabal desempeño en la sociedad;
+XII.- Fomentar el adecuado desarrollo intelectual y afectivo, así como la autoestima del educando para su cabal desempeño en la sociedad;
 
-XII.- Arraigar en los educandos el amor y la lealtad a la Patria, así como el respeto a nuestros héroes y a los símbolos nacionales que nos identifican como mexicanos, en un mundo pluricultural e interdependiente;
+XIII.- Arraigar en los educandos el amor y la lealtad a la Patria, así como el respeto a nuestros héroes y a los símbolos nacionales que nos identifican como mexicanos, en un mundo pluricultural e interdependiente;
 
-XIII.- Crear conciencia en los educandos de la importancia del trabajo productivo, del ahorro y de la inversión de recursos que requiere el país para lograr un desarrollo socioeconómico sostenible, en una sociedad mundial de economía abierta y competitiva;
+XIV.- Crear conciencia en los educandos de la importancia del trabajo productivo, del ahorro y de la inversión de recursos que requiere el país para lograr un desarrollo socioeconómico sostenible, en una sociedad mundial de economía abierta y competitiva;
 
-XIV.- Crear conciencia ecológica en los educandos y en la sociedad, para la preservación del medio ambiente en beneficio de las generaciones actuales y futuras, así como para el aprovechamiento racional de los recursos naturales del Estado;
+XV.- Crear conciencia ecológica en los educandos y en la sociedad, para la preservación del medio ambiente en beneficio de las generaciones actuales y futuras, así como para el aprovechamiento racional de los recursos naturales del Estado;
 
-XV.- Fomentar en el educando una cultura y espíritu de investigación científica que contribuya al desarrollo y a la grandeza del género humano;
+XVI.- Fomentar en el educando una cultura y espíritu de investigación científica que contribuya al desarrollo y a la grandeza del género humano;
 
-XVI.- Fomentar una educación humanista a fin de crear una sociedad centrada en las personas, que respete tanto la dignidad como las diferencias de todos los seres humanos, para que haya armonía entre los valores individuales y colectivos; y (sic)
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2012)</small>
 
-XVII.- Responder a un proyecto democrático, de respeto a la pluralidad política y a las decisiones individuales y colectivas de los ciudadanos mexicanos; de compromiso con la participación social en la vida de la nación; que preserve la paz social y la unidad como pueblo y como nación para mantener nuestra identidad histórica como mexicanos, respetuosos y solidarios con todos lo (sic) pueblos y culturas del mundo;
+XVII.- Fomentar una educación humanista a fin de crear una sociedad centrada en las personas, que respete tanto la dignidad como las diferencias de todos los seres humanos, para que haya armonía entre los valores individuales y colectivos;
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2012)</small>
+
+XVIII.- Responder a un proyecto democrático, de respeto a la pluralidad política y a las decisiones individuales y colectivas de los ciudadanos mexicanos; de compromiso con la participación social en la vida de la nación; que preserve la paz social y la unidad como pueblo y como nación para mantener nuestra identidad histórica como mexicanos, respetuosos y solidarios con todos los pueblos y culturas del mundo;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2011)</small>
 
-XVIII.- Crear conciencia sobre la importancia de una alimentación completa, equilibrada, inocua, suficiente y variada, para el desarrollo pleno del individuo de todas las etapas de la vida; así como promover la adopción de hábitos alimenticios saludables y su relación con la desnutrición, el sobrepeso, la obesidad, los trastornos de la conducta alimentaria y los padecimientos crónico-degenerativos.
+XIX.- Crear conciencia sobre la importancia de una alimentación completa, equilibrada, inocua, suficiente y variada, para el desarrollo pleno del individuo de todas las etapas de la vida; así como promover la adopción de hábitos alimenticios saludables y su relación con la desnutrición, el sobrepeso, la obesidad, los trastornos de la conducta alimentaria y los padecimientos crónico-degenerativos.
 
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2011)</small>
 
-XIX.- Estimular la educación física y la práctica del deporte, así como inculcar la importancia de la actividad física en la salud, y
+XX.- Estimular la educación física y la práctica del deporte, así como inculcar la importancia de la actividad física en la salud, y
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2011)</small>
 
-XX - Desarrollar en la conciencia del educando la idea que sobre la base de la justicia, del respeto de los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales, contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida.
+XXI.- Desarrollar en la conciencia del educando la idea que sobre la base de la justicia, del respeto de los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales; contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 10.
 
@@ -311,7 +321,7 @@ Los reglamentos respectivos determinarán los requisitos de ingreso, permanencia
 
 La prestación de servicios educativos en el Estado de Durango, se llevará a cabo conforme a la distribución de la función social educativa, establecida en la Ley General de Educación, y en esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 21.
 
@@ -465,7 +475,7 @@ V.- Fomentar y difundir las actividades artísticas, culturales y físico-deport
 
 ### CAPITULO CUARTO. DE LOS SERVICIOS EDUCATIVOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 24.
 
@@ -579,7 +589,7 @@ Las autoridades educativas vigilarán y promoverán la asistencia y puntualidad 
 
 Los profesores cubrirán el contenido de los Planes y Programas de Estudio para el ciclo escolar correspondiente en el tiempo marcado por el Calendario Escolar. En caso de que el maestro complete los contenidos del programa educativo, antes de la fecha marcada en el Calendario Escolar, dedicará el tiempo restante a repasar en clase los temas del programa hasta asegurar su completa comprensión y dominio por todos los educandos y en su caso la ampliación de temas complementarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 41.
 
@@ -627,11 +637,11 @@ El Gobierno del Estado promoverá lo conducente, para que cada Ayuntamiento, ate
 
 La Secretaría propondrá y gestionará ante la SEP la implementación de programas compensatorios para atender la demanda educativa en zonas rurales marginadas.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 49.
 
-La Secretaría promoverá la ampliación de los Programas Sociales de Apoyo a la Educación, implementados por el Gobierno Federal y por los municipios duranguenses, para que se fortalezca el mantenimiento de la infraestructura educativa, así como el apoyo a la economía familiar mediante el otorgamiento de becas a estudiantes, atendiendo su nivel socioeconómico y/o sus promedios de aprovechamiento.
+La Secretaría promoverá la ampliación de los Programas Sociales de Apoyo a la Educación, implementados por el Gobierno Federal y por los municipios duranguenses, para que se fortalezca el mantenimiento de la infraestructura educativa, así como el apoyo a la economía familiar mediante el otorgamiento de becas a estudiantes, atendiendo su nivel socioeconómico y/o sus promedios de aprovechamiento, y la entrega en coordinación con la Secretaria de Desarrollo Social, de un informe escolar o deportivo y un paquete de útiles escolares a los beneficiarios de educación básica de acuerdo a lo establecido en la Ley de Desarrollo Social para el Estado de Durango.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -725,7 +735,7 @@ La Secretaría presentará Programas de Trabajo Anuales que corresponderán al c
 
 La Secretaría elaborará Programas Educativos Municipales Trianuales, que coincidirán en tiempo y vigencia con la gestión de cada administración municipal y se revisarán y actualizarán anualmente. En la elaboración de los Programas Municipales, la Secretaría considerará las propuestas de los Ayuntamientos y de los Consejos Municipales de Participación Social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 64.
 
@@ -823,7 +833,7 @@ Será obligación de los supervisores, residir en uno de los Municipios donde es
 
 #### Sección 5. De la Desconcentración Administrativa y Servicios Regionales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 74.
 
@@ -831,7 +841,7 @@ La Secretaría promoverá la desconcentración de los servicios administrativos,
 
 El proceso de desconcentración, será concordante con lo dispuesto por el Artículo 22 de la Ley General de Educación, en el sentido de reducir al mínimo, el tiempo que los maestros dediquen a informes, trámites y gestiones, de tal manera que se concentren en el desempeño de sus funciones educativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 75.
 
@@ -861,11 +871,11 @@ La Secretaría buscará lograr la equidad en el ámbito geográfico, atendiendo 
 
 La Secretaría actuará para mejorar la equidad entre instituciones educativas, superando las condiciones de las escuelas rurales y elevando la calidad de las escuelas públicas. Asimismo, el Gobierno del Estado, promoverá el aseguramiento de la equidad en el trato presupuestal que Durango recibe de la Federación frente a otras Entidades Federativas, considerando las necesidades educativas de la población y especialmente, de nuestra población en desventaja.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 77.
 
-La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera preferente, a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja o a personas con problemas de discapacidad mental o física. En la aplicación de estos Programas, tendrán prioridad los educandos de 6 a 15 años de edad.
+La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera preferente, a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja o a personas con problemas de discapacidad mental o física. En la aplicación de estos Programas, tendrán prioridad los educandos de 6 a 15 años de edad. Igualmente desarrollará de manera permanente, programas especializados, a fin de prevenir y atender casos de cualquier tipo de maltrato entre los estudiantes, evitando el acoso y la discriminación escolar.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -919,11 +929,11 @@ El Gobierno del Estado, reglamentará la prestación del servicio social de estu
 
 #### Sección 1. Del Proceso Educativo en General
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 86.
 
-El Proceso Educativo comprende las diversas etapas en las que, mediante el acceso al conocimiento, se prepara, se educa, se capacita y se forma a los habitantes del Estado de Durango, para que desarrollen plenamente sus facultades integrales como personas y como seres sociales, y que en un entorno de libertades y democracia, adquieran valores humanos y sociales que les permitan ser útiles a las comunidades duranguenses nacional e internacional, de acuerdo a la filosofía educativa del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, así como a los objetivos de la Ley General de Educación y de la presente Ley.
+El Proceso Educativo comprende las diversas etapas en las que, mediante el acceso al conocimiento, se prepara, se educa, se capacita y se forma a los habitantes del Estado de Durango, para que desarrollen plenamente sus facultades integrales como personas y como seres sociales, y que en un entorno de libertades y democracia, adquieran valores humanos y sociales que les permitan ser útiles a las comunidades duranguense, nacional e internacional, de acuerdo a la filosofía educativa del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, así como a los objetivos de la Ley General de Educación y de la presente Ley. Este proceso se basará en los principios de libertad y responsabilidad que aseguren la convivencia de respeto y armonía en condiciones de igualdad y libre de cualquier forma de maltrato entre escolares y educadores, y promoverá el trabajo en grupo para asegurar la comunicación y el diálogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -949,7 +959,7 @@ La Educación Inicial se atenderá en Centros de Desarrollo Infantil u otras ins
 
 #### Sección 3. De la Educación Preescolar
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 91.
 
@@ -1029,7 +1039,7 @@ La Secretaría, en coordinación con la delegación estatal de la Comisión Naci
 
 #### Sección 7. De la Educación Especial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 103.
 
@@ -1095,7 +1105,7 @@ La Secretaría promoverá la integración de grupos colegiados interinstituciona
 
 #### Sección 9. De la Formación, Actualización, Nivelación y Superación Profesional para Maestros de Educación Básica
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 112.
 
@@ -1141,7 +1151,7 @@ La Secretaría, de conformidad con la Ley General de Educación, propondrá las 
 
 Los alumnos de Educación Normal, prestarán su Servicio Social, de conformidad con la normatividad aplicable para tal efecto, siendo un requisito indispensable para su práctica docente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 119.
 
@@ -1153,13 +1163,13 @@ II.- Ampliación de la oferta de la nivelación profesional, fortaleciendo los p
 
 III.- Vinculación de los Programas de Nivelación, con la práctica profesional de los maestros en servicio, incorporando en la formación procesos teórico-prácticos de resolución de problemas educativos, en la modalidad de formulación y desarrollo de proyectos escolares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 120.
 
 La Secretaría determinará qué instituciones pertenecientes al Sistema Estatal, ofrecerán estudios de postgrado de acuerdo con su capacidad académica e infraestructura física.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 Las disposiciones en el ámbito de la superación profesional para Maestros de Educación Básica, son las siguientes:
 
@@ -1193,7 +1203,7 @@ Las instituciones del Sistema Estatal de Formación, Actualización, Capacitaci�
 
 Las Instituciones de Educación Superior que forman parte del Sistema Estatal de Educación, son aquellas instituciones a las que el Congreso del Estado les otorgue autonomía conforme a la fracción VII del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, las Instituciones de Educación Superior que dependan del propio Estado en forma directa, las instituciones particulares para la formación de docentes con autorización estatal y las que cuenten con Reconocimiento de Validez Oficial de Estudios, así como las que obtengan por Decreto del Ejecutivo, la categoría de Escuelas Libres de Educación Superior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 123.
 
@@ -1281,7 +1291,7 @@ La Secretaría es la autoridad responsable y facultada para reglamentar término
 
 El Ejecutivo del Estado, podrá revocar el Decreto correspondiente, cuando se haya incurrido en una falta u omisión grave, o bien, en el incumplimiento de la oferta y función educativa, para la cual se le concedió la categoría de Escuela Libre de Educación Superior.
 
-> <small>(ADICIONADA SU DENOMINACION [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 #### SECCION 11. De la Educación Física
 
@@ -1381,13 +1391,13 @@ Para impulsar la Educación Informal, el Estado hará uso de los avances de la t
 
 #### Sección 14. Del Calendario Escolar
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 146.
 
 El Calendario Escolar aplicable en el Estado de Durango para cada ciclo lectivo de la Educación Preescolar, primaria, secundaria, Normal y demás para la formación de maestros de Educación Básica, será el que determine la autoridad educativa federal para toda la República.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría, podrá hacer los ajustes al Calendario Escolar, de conformidad con lo establecido por la Ley General de Educación; para ello, tomará en cuenta lo siguiente:
 
@@ -1427,7 +1437,7 @@ De conformidad con la normatividad aplicable, tanto en los casos de facultades e
 
 El Ejecutivo del Estado, procurará que los diversos sectores sociales, involucrados en la educación, expresen sus opiniones sobre los Planes y Programas de Estudio de todos los tipos y niveles educativos, con el objeto de que la Secretaría, los considere cuando elabore los que a ella le compete, y para hacer llegar a la autoridad educativa federal, de acuerdo a la normatividad aplicable, opinión fundada sobre los Planes y Programas de Aplicación Nacional, así como sobre los contenidos regionales, para aquellos que se apliquen en el Estado de Durango.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 151.
 
@@ -1435,7 +1445,7 @@ Corresponde a la Secretaría, proponer a la autoridad educativa federal, conform
 
 Asimismo, le corresponde la elaboración y la evaluación de los Planes y Programas de Estudio, para los tipos y niveles distintos a la Educación Básica, Normal, y demás para la formación de docentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 152.
 
@@ -1537,7 +1547,7 @@ El Gobierno del Estado, por conducto de la Secretaría, previo el procedimiento 
 
 La negativa o revocación del reconocimiento a particulares, para impartir educación distinta a la Primaria, Secundaria, Normal y demás, para la formación de Maestros de Educación Básica, no produce efectos de clausura del servicio educativo; la Secretaría proveerá lo necesario para dar la más amplia difusión a la decisión de negativa o de retiro del Reconocimiento de Validez Oficial de Estudios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 162.
 
@@ -1671,7 +1681,7 @@ Las organizaciones similares o las asociaciones de Padres de Familia, podrán ej
 
 #### Sección 3. De los Consejos de Participación Social
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 175.
 
@@ -1767,7 +1777,7 @@ En los supuestos previstos en este artículo, además de la aplicación de las s
 
 Para la imposición de sanciones a que se refieren los artículos anteriores, la autoridad educativa competente observará el procedimiento y los parámetros establecidos en el Artículo 78 de la Ley General de Educación.
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 181.
 
@@ -1843,7 +1853,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los seis
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. EL SECRETARIO GENERAL DE GOBIERNO. LIC. ALFREDO BRACHO BARBOSA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE DICIEMBRE DE 2006.
 
@@ -1866,3 +1876,21 @@ P.O. 27 DE MARZO DE 2011
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial del gobierno del estado.
+
+P.O. 12 DE ABRIL DE 2012.
+
+DECRETO NÚMERO 266, POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2012.
+
+DECRETO NÚMERO 267, POR EL QUE SE REFORMAN LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN VII AL ARTICULO 9; 77 Y 86, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Dentro del plazo de 90 días después de la publicación del presente Decreto, el Ejecutivo del Estado, por conducto de la Secretaría de Educación, deberá expedir las disposiciones reglamentarias de este Decreto.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
