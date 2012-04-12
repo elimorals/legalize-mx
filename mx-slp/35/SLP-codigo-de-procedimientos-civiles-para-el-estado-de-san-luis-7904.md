@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2012-02-16"
+last_updated: "2012-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -3637,6 +3637,14 @@ ART. 875.- Cuando se apruebe la adopción, la autoridad judicial cumplirá lo qu
 
 ART. 875 BIS.- En el caso de que quien ejerza la patria potestad de un menor lo entregue a una Institución de Beneficencia autorizada y dependiente de Gobierno del Estado para promover su adopción, con la solicitud de la misma se citará a su representante y a los que ejerzan dicha patria potestad, con intervención del Ministerio Público, a efecto de que, acreditando con el acta correspondiente el estado de minoría y el nombre de aquéllos, se haga la entrega para adopción y previa la aceptación de la institución, se decrete la pérdida de la patria potestad y la ratificación de discernimiento del cargo de tutor al representante de la propia institución.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2012)</small>
+
+Toda adopción deberá ser sancionada por la autoridad judicial competente. Queda prohibida la adopción sin la intervención del Ministerio Público, y del Sistema para el Desarrollo Integral de la Familia.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2012)</small>
+
+Quien omita observar los requisitos de la adopción incurrirá en delitos contra la filiación y el estado civil de las personas.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 1975)</small>
 
 ### CAPITULO V. De la Excusa y Pérdida de la Patria Potestad
@@ -5080,3 +5088,9 @@ P.O. 16 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 12 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
