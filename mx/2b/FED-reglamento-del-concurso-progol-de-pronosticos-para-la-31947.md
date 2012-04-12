@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-concurso-progol-de-pronosticos-para-la-31947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2012-03-07"
+last_updated: "2012-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL CONCURSO PROGOL DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -811,11 +811,11 @@ El boleto deberá contener cuando menos los siguientes datos:
 
 12.- El importe del premio en caso de resultar ganador.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2012)</small>
 
 ###### Artículo 68o.
 
-Pronósticos, a través del Sistema Central de Transacciones en Línea, suspenderá la recepción de participaciones para los partidos, indefectiblemente diez (10) minutos antes de la hora programada para su inicio; sin embargo, se podrá seguir participando para los partidos subsecuentes disponibles.
+Pronósticos, a través del Sistema Central de Transacciones en Línea, suspenderá la recepción de participaciones para los partidos, indefectiblemente diez (10) minutos antes de la hora programada para su inicio; sin embargo, se podrá seguir participando para los partidos subsecuentes disponibles. En caso de que por algún motivo no se llegara a suspender la recepción de participaciones diez (10) minutos antes de que inicie el partido, el momio aplicable al resultado de la apuesta que hubiese sido ingresada después de los 10 minutos previos al inicio proporcionado en la Lista de Juegos será de uno (1).
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -827,13 +827,13 @@ Pronósticos podrá limitar la aceptación de participaciones para quinielas id�
 
 ### Capítulo XIX. Determinación de Ganadores
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ABRIL DE 2012)</small>
 
 ###### Artículo 70o.
 
-Antes del inicio de cada partido, se generará un archivo con el registro de participaciones, el cual contendrá una firma electrónica que asegure la integridad del archivo emitido por el Sistema Central de Transacciones en Línea; a su vez el Sistema Central de Transacciones en Línea generará una bitácora en la que conste la hora de la suspensión de la recepción de quinielas participantes para cada uno de los partidos.
+Antes del inicio de cada partido, se generará un archivo con el registro de participaciones, el cual contendrá una firma electrónica que asegure la integridad del archivo emitido por el Sistema Central de Transacciones en Línea; a su vez el Sistema Central de Transacciones en Línea generará una bitácora en la que conste la hora de suspensión de la recepción de quinielas participantes para cada uno de los partidos.
 
-Tanto el archivo que contiene el registro de participaciones de cada partido, así como la firma electrónica correspondiente se entregarán en un repositorio electrónico al órgano interno de control en Pronósticos para la Asistencia Pública antes de que dé inicio el partido correspondiente, esto con el fin de que pueda cotejar la información.
+Tanto el archivo que contiene el registro de participaciones de cada partido, así como la firma electrónica correspondiente se entregarán en un repositorio electrónico al Organo Interno de Control de Pronósticos para la Asistencia Pública una vez al día, esto con el fin de que pueda cotejar la información.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 2011)</small>
 
@@ -996,6 +996,10 @@ D.O.F. 13 DE DICIEMBRE DE 2011.
 UNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 7 DE MARZO DE 2012.
+
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE ABRIL DE 2012.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
