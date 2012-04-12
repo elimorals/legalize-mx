@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-02-18"
+last_updated: "2012-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -1753,7 +1751,9 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2009)</small>
 
-### CAPITULO I. DELITO CONTRA EL ESTADO CIVIL DE LAS PERSONAS
+### CAPITULO I. DELITOS CONTRA LA FILIACION Y EL ESTADO CIVIL DE LAS PERSONAS
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 165.
 
@@ -1765,15 +1765,23 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 ## TITULO QUINTO. DELITOS CONTRA LA FAMILIA
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2012)</small>
+
 ### CAPITULO II. INCESTO
 
 ###### ARTICULO 167.
 
-Comete el delito a que se refiere el presente Capítulo quien, con el fin de alterar el estado civil:
+Comete el delito a que se refiere el presente capítulo quien, obteniendo o no un beneficio económico, o de cualquier naturaleza:
 
-I. Inscribe o hace inscribir en el Registro Civil a una persona con la filiación que no le corresponde, o
+I. Inscribe, hace inscribir, o reinscribe en el Registro Civil a una persona con la filiación que no le corresponde;
 
-II. Omite la inscripción teniendo dicha obligación, con el propósito de hacerle perder los derechos derivados de su filiación o declara falsamente su fallecimiento en el acta respectiva.
+II. Altere el estado civil de una persona a sabiendas de que los datos no corresponden a la misma;
+
+III. Declare falsamente el nacimiento o fallecimiento de una persona en el acta respectiva;
+
+IV. Cede los derechos y obligaciones resultantes de la patria potestad y la filiación a favor de un tercero, sin cumplir los requisitos que establecen para la adopción el Código Familiar, y el Código de Procedimientos Civiles para Estado, para la adopción, y
+
+V. Omite la inscripción de una persona teniendo dicha obligación, con el propósito de hacerle perder los derechos derivados de su filiación.
 
 Este delito se sancionará con una pena de uno a cinco años de prisión y sanción pecuniaria de veinte a cien días de salario mínimo.
 
@@ -4152,3 +4160,9 @@ P.O. 16 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
