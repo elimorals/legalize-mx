@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2011-03-29"
+last_updated: "2012-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
 
-CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
+CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1491,6 +1491,14 @@ IV. Un modo honesto de vivir, y
 
 V. Tener quince años más de quien se adopte, excepto en el caso de las personas mayores de edad con discapacidad.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2012)</small>
+
+Toda adopción deberá ser sancionada por la autoridad judicial competente. Queda prohibida la adopción sin la intervención del Ministerio Público, y del Sistema para el Desarrollo Integral de la Familia.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2012)</small>
+
+Quien omita observar los requisitos de la adopción incurrirá en delitos contra la filiación y el estado civil de las personas.
+
 ###### ARTICULO 250.
 
 Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar a quien se adopte como hija o hijo.
@@ -2751,7 +2759,7 @@ Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado p
 
 La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución de la o el Oficial del Registro Civil, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 478.
 
@@ -3271,7 +3279,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE JULIO DE 2010.
 
@@ -3286,6 +3294,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE MARZO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
