@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-04-02"
+last_updated: "2012-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ABRIL DE 2012. EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -999,7 +1001,7 @@ XX. Someter a la aprobación del Congreso del Estado, la propuesta que le presen
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XXI.- XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo.
+XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo.
 
 XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
@@ -1115,7 +1117,7 @@ Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de l
 
 ###### Art. 92.
 
-Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
+Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos, salvo lo dispuesto en el artículo 89.
 
 ###### Art. 93.
 
@@ -2063,15 +2065,17 @@ El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciend
 
 Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
 
 Toda persona tiene derecho a la protección de la salud y a una alimentación sana y suficiente que propicie un desarrollo físico e intelectual. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y garantizará el acceso a la sana alimentación a través de políticas públicas, así mismo determinará la participación del Estado y Municipios en la materia.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
-Todos los habitantes tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su uso y explotación; a proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
+Todos los habitantes tienen el derecho a disfrutar de un ambiente sano para el desarrollo de la persona, así como el deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su aprovechamiento sustentable; para proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -2104,6 +2108,10 @@ Además de impartir la educación básica obligatoria, el Estado promoverá y at
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Toda persona tiene derecho a disponer de agua suficiente, saludable, aceptable, accesible y asequible para su uso personal y doméstico.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
@@ -2807,7 +2815,7 @@ DECRETO NÚMERO 7
 
 P.O. 28 DE AGOSTO DE 1978.
 
-1o.- El Informe de Gobierno correspondiente al lapso se que inició el primero de marzo de 1978, comprenderá quince meses y medio aproximadamente, por razón de las presentes reformas constitucionales.
+1o.- El Informe de Gobierno correspondiente al lapso que se inició el primero de marzo de 1978, comprenderá quince meses y medio aproximadamente, por razón de las presentes reformas constitucionales.
 
 2o.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3504,5 +3512,9 @@ P.O. 17 DE FEBRERO DE 2012.
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación.
+
+P.O. 13 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación.
