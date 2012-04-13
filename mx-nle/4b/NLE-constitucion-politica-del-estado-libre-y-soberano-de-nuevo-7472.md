@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-04-02"
+last_updated: "2012-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,19 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ABRIL DE 2012. EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
 
-El C. Presidente Constitucional de la República se ha servido dirigirme el decreto que sigue:
+Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
-"PLUTARCO ELIAS CALLES, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+NICÉFORO ZAMBRANO, Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: Que el H. Congreso Constituyente del mismo ha tenido a bien dirigirme, para su promulgación, la Constitución Política siguiente:
 
-Que en uso de la facultad que ha tenido a bien conferirme el H. Congreso de la Unión por Decretos de 7 de enero y de 6 de diciembre de 1926 y de 3 de enero de 1928, expido el siguiente:
+La XXXVII Legislatura del Estado Libre y Soberano de Nuevo León, en funciones de Constituyente, de acuerdo con el Decreto de 22 de Marzo próximo pasado, dictado por el Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, ha tenido a bien expedir la siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
-
-Código Civil para el Distrito Federal en Materia Común, y para toda la República en Materia Federal.
-
-Disposiciones preliminares
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
 
 ###### ARTICULO 1º.
 
@@ -79,9 +73,17 @@ Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés pú
 
 La ley sólo queda abrogada o derogada por otra posterior que así lo declare expresamente, o que contenga disposiciones total o parcialmente incompatibles con la ley anterior.
 
-## TITULO PRIMERO. De las personas físicas
+## TITULO I.
 
-## TITULO SEGUNDO. De las personas morales
+De los Derechos del Hombre.
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
+## TITULO II.
+
+Del Estado en General, Forma de Gobierno, Nuevoleoneses y Ciudadanos.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### Art. 28.
 
@@ -123,7 +125,7 @@ I.- A la protección decidida y eficaz de las leyes y de las autoridades del Est
 
 II.- A la preferencia, en igualdad de circunstancias, en toda clase de concesiones y para todos los empleos, honores o cargos públicos dependientes del Estado o de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 34.
 
@@ -461,7 +463,11 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
-## TITULO TERCERO. Del domicilio
+## TITULO III.
+
+Del Proceso Electoral.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 41.
 
@@ -637,7 +643,11 @@ Además de los nombres de los padres se hará constar en el acta de nacimiento s
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-## TITULO CUARTO. Del Registro Civil
+## TITULO IV.
+
+Del Poder Legislativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2004)</small>
 
 ###### Art. 46.
 
@@ -985,7 +995,7 @@ XLI.- Formular las leyes que reglamenten los Artículos de esta Constitución, i
 
 XLII.- Elevar las Villas a la categoría de Ciudades por iniciativa de aquéllas y por conducto del Ejecutivo, tomando en cuenta el número de sus habitantes, sus condiciones económicas y los servicios públicos con que cuenta.
 
-> <small>(REFORMADO PRIMER PARRAFO, 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 13 DE OCTUBRE DE 2000)</small>
 
 XLIII.- Expedir leyes relativas al trabajo digno y socialmente útil, que rijan las relaciones de trabajo entre el Estado, los Municipios o las entidades paraestatales y sus trabajadores, así como las prestaciones de seguridad social de dichos trabajadores.
 
@@ -1773,7 +1783,9 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
 
-## TITULO QUINTO. Del matrimonio
+## TITULO V.
+
+Del Poder Ejecutivo.
 
 ###### Art. 81.
 
@@ -2003,7 +2015,7 @@ Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de l
 
 ###### Art. 92.
 
-Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
+Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos, salvo lo dispuesto en el artículo 89.
 
 ###### Art. 93.
 
@@ -2139,7 +2151,11 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 El marido debe dar alimentos a la mujer y hacer todos los gastos necesarios para el sostenimiento del hogar; pero si la mujer tuviere bienes propios o desempeñare algún trabajo, o ejerciere alguna profesión, oficio o comercio, deberá también contribuir para los gastos de la familia, siempre que la parte que le corresponda no exceda de la mitad de dichos gastos, a no ser que el marido estuviere imposibilitado para trabajar y careciere de bienes propios, pues entonces todos los gastos serán de cuenta de la mujer y se cubrirán con bienes de ella.
 
-## TITULO SEXTO. Del parentesco y de los alimentos
+## TITULO VI.
+
+Del Poder Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Art. 94.
 
@@ -2439,7 +2455,7 @@ Art.- 103.- El Poder Judicial definirá y ejercerá en forma autónoma sus parti
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
-El Consejo de la Judicatura del Estado, formulará el Presupuesto de Egresos, del Poder Judicial, y lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
+El Consejo de la Judicatura del Estado, formulará el Presupuesto de Egresos del Poder Judicial, y lo enviará al Poder Legislativo para su consideración en el presupuesto de egresos del Estado.
 
 Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura del Estado y los Jueces percibirán una remuneración adecuada e irrenunciable, determinada anualmente por el Congreso del Estado.
 
@@ -2925,7 +2941,11 @@ Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, cons
 
 En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
 
-## TITULO SEPTIMO. De la paternidad y filiación
+## TITULO VII.
+
+De las Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2008)</small>
 
 ###### Art. 105.
 
@@ -3439,7 +3459,17 @@ Lo mismo se observará cuando las capitulaciones de separación se modifiquen du
 
 No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la trasmisión de los bienes de que se trate.
 
-## TITULO OCTAVO. De la patria potestad
+## TITULO VIII.
+
+De los Municipios.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+
+ART. 118.- Los Municipios que integran el Estado son independientes entre sí. Cada uno de ellos será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la Ley determine. La competencia que otorga esta Constitución al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y los Poderes del Estado.
+
+La Administración Pública Municipal se conformará y organizará según determine la ley respectiva.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -3881,7 +3911,11 @@ En el caso de que el crecimiento de los centros urbanos forme o tienda a formar 
 
 Cuando dos o más Municipios, cuya área urbana, funciones y actividades rebasan el límite del Municipio o demarcación que originalmente la contenía, incorporando como parta de sí misma o de su área de influencia directa a Municipios vecinos con los que mantiene un alto grado de integración socioeconómicos, de tal manera que se estime conveniente para la planeación y regulación del desarrollo urbano, la ejecución conjunta de obras o la prestación más eficaz de los servicios públicos que les competen, y en los términos que se señalen en la legislación aplicable, los Ayuntamientos respectivos podrán convenir con el Ejecutivo del Estado, la dimensión y los límites de una zona metropolitana.
 
-## TITULO NOVENO. De la tutela
+## TITULO IX.
+
+De la Hacienda Pública del Estado.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -4955,7 +4989,13 @@ Una Ley determinará la organización y funcionamiento de todas las Oficinas de 
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2009)</small>
 
-## TITULO DECIMO. De la emancipación y de la mayor edad
+## TITULO X.
+
+De la Fiscalización Superior del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO Y REUBICADO, P.O. 1 DE ABRIL DE 2009)</small>
 
 ### CAPITULO I. De la emancipación
 
@@ -5073,7 +5113,11 @@ En caso de ausencia absoluta del Auditor General del Estado, el Congreso realiza
 
 (REUBICADO [N. DE E. ANTES TÍTULO X], P.O. 1 DE ABRIL DE 2009)
 
-## TITULO UNDECIMO. De los ausentes e ignorados
+## TITULO XI.
+
+Prevenciones Generales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
 
@@ -5475,7 +5519,11 @@ Si no pudieren cumplirse las prevenciones de los arts. 144 y 145, se estará a l
 
 (REUBICADO [N. DE E. ANTES TÍTULO XI], P.O. 1 DE ABRIL DE 2009)
 
-## TITULO DUODECIMO. Del patrimonio de la familia
+## TITULO XII.
+
+De las Reformas de la Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2003)</small>
 
 ### CAPITULO UNICO
 
@@ -5667,7 +5715,11 @@ Las Leyes a que se refieren los Artículos 45, 63 Fracción XIII, 94, 95 y 118, 
 
 (REUBICADO [N. DE E. ANTES TÍTULO XII], P.O. 1 DE ABRIL DE 2009)
 
-## TITULO PRIMERO. Disposiciones Preliminares
+## TITULO XIII.
+
+De la Supremacía e Inviolabilidad de la Constitución.
+
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 747.
 
@@ -13617,9 +13669,7 @@ El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por
 
 El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
-## ARTICULOS TRANSITORIOS
-
-> <small>(REFORMADO, D.O.F. 1o. DE SEPTIEMBRE DE 1932)</small>
+## ARTICULOS TRANSITORIOS.
 
 ###### ARTICULO 1o.
 
@@ -13765,15 +13815,17 @@ El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciend
 
 Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
 
 Toda persona tiene derecho a la protección de la salud y a una alimentación sana y suficiente que propicie un desarrollo físico e intelectual. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y garantizará el acceso a la sana alimentación a través de políticas públicas, así mismo determinará la participación del Estado y Municipios en la materia.
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
-Todos los habitantes tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su uso y explotación; a proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
+Todos los habitantes tienen el derecho a disfrutar de un ambiente sano para el desarrollo de la persona, así como el deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su aprovechamiento sustentable; para proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -13806,6 +13858,10 @@ Además de impartir la educación básica obligatoria, el Estado promoverá y at
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Toda persona tiene derecho a disponer de agua suficiente, saludable, aceptable, accesible y asequible para su uso personal y doméstico.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
@@ -13976,6 +14032,10 @@ A ninguna ley se le dará efecto retroactivo en perjuicio de persona alguna. Nad
 ###### Art. 15.
 
 Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
+
+Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -14331,19 +14391,39 @@ La enumeración de estos derechos no tiene por objeto limitar, desigualar ni neg
 
 En el Estado de Nuevo León la libertad del hombre no tiene más límite que la prohibición de la ley. De la ley emanan la autoridad de los que gobiernan y las obligaciones de los gobernados. En consecuencia, el ejercicio de la Autoridad debe limitarse a las atribuciones determinadas en las leyes.
 
-###### ARTICULO PRIMERO.
+###### ARTICULO PRIMERO
 
-Esta ley entrará en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
+Esta Ley comenzará a surtir sus efectos el día primero de enero de 1928.
 
-###### ARTICULO SEGUNDO.
+###### ARTICULO SEGUNDO
 
-Queda derogado el Título Octavo del Libro Segundo del Código Civil vigente y todas las disposiciones que se opongan a la presente Ley, excepto para regir las violaciones ocurridas antes de la vigencia de ésta.
+En los Ayuntamientos donde faltare algún Regidor o Síndico, el día primero de enero de 1928, lo designarán los mismos, de conformidad con el artículo 124 de la Constitución Política Local, para estar en todo de acuerdo con el Art. 2° de la Ley de Gobierno Interior de los Municipios reformada.
 
-D.O.F. 27 DE FEBRERO DE 1951.
+P.O. 28 DE ABRIL DE 1928.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+DECRETO NÚMERO 60
 
-D.O.F. 18 DE ENERO DE 1952.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 28 DE ABRIL DE 1928.
+
+DECRETO NÚMERO 62.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 12 DE MAYO DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 31 DE OCTUBRE DE 1928.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 12 DE MAYO DE 1937.
+
+UNICO:- Las anteriores reformas no afectarán la elección que se verificará el domingo 25 del próximo mes de julio del presente año, para Diputados Federales y Locales, así como Miembros del Supremo Tribunal de Justicia del Estado.
+
+P.O. 22 DE JULIO DE 1942.
 
 ###### ARTICULO 1o.
 
@@ -14399,7 +14479,7 @@ Estas reformas empezarán a regir el día de su publicación en el Periódico Of
 
 P.O. 30 DE DICIEMBRE DE 1942.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 23 DE JUNIO DE 1943.
 
@@ -14413,29 +14493,29 @@ TERCERO :— En la forma que antecede queda interpretada Jurídicamente la dispo
 
 P.O. 30 DE ABRIL DE 1947.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 29 DE SEPTIEMBRE DE 1948.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 11 DE MAYO DE 1949.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 6 DE JUNIO DE 1951.
 
 (REPUBLICADO, P.O. 4 DE JULIO DE 1951)
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 30 DE ABRIL DE 1952.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 28 DE ABRIL DE 1954.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 21 DE MAYO DE 1960.
 
@@ -14451,7 +14531,7 @@ UNICO:- Este decreto entrará en vigor el día de su publicación en el PERIODIC
 
 P.O. 26 DE JUNIO DE 1965.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 14 DE DICIEMBRE DE 1966.
 
@@ -14491,7 +14571,7 @@ UNICO:- Este Decreto entrará en vigor el día de su publicación en el Periódi
 
 P.O. 17 DE MAYO DE 1972.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 11 DE ABRIL DE 1973.
 
@@ -14611,11 +14691,27 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 
 P.O. 12 DE FEBRERO DE 1982.
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-La presente reforma entrará en vigor al tercer día de su publicación en el "Diario Oficial" de la Federación.
+- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-D.O.F. 28 DE ENERO DE 1970.
+P.O. 12 DE MARZO DE 1982.
+
+UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 1983.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA EL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
+
+UNICO:- EL presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+DECRETO QUE REFORMA Y ADICIONA LOS ARTÍCULOS 30, 63, FRACCIONES VI Y XLIII, 85 FRACCIONES VI, XVIII, 119,120, 121, 124, 126 Y 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
 
 ###### ARTICULO PRIMERO
 
@@ -14635,7 +14731,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 14 DE DICIEMBRE DE 1984.
 
-UNICO:- ESTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+UNICO:- ESTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
 
 P.O. 28 DE DICIEMBRE DE 1984.
 
@@ -14645,17 +14741,51 @@ SEGUNDO.- El presente Decreto entrará en vigor el día primero de enero de 1985
 
 P.O. 1 DE MARZO DE 1985.
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-El presente decreto surtirá sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
+- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-D.O.F. 24 DE MARZO DE 1971.
+P.O. 30 DE OCTUBRE DE 1985.
 
-###### ARTICULO UNICO.
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
+P.O. 13 DE ABRIL DE 1987.
 
-D.O.F. 4 DE ENERO DE 1973.
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE OCTUBRE DE 1987.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE OCTUBRE DE 1987.
+
+UNICO:- El presente Decreto entrará en vigor, el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE ABRIL DE 1988.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO NÚMERO 148, QUE REFORMA EL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO NÚMERO 149, QUE REFORMA EL ARTÍCULO 63 FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEÓN.
+
+UNICO:- El presente Decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 1990.
+
+DECRETO QUE REFORMA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE NUEVO LEON.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1990.
 
 ###### ARTICULO PRIMERO
 
@@ -14765,29 +14895,35 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 14 DE JUNIO DE 1996.
 
-###### ARTICULO UNICO.
+###### ARTICULO UNICO
 
-Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-D.O.F. 14 DE MARZO DE 1973.
+P.O. 18 DE OCTUBRE DE 1996.
 
-###### ARTICULO UNICO.
+DECRETO NÚMERO 272, QUE REFORMAN LOS ARTÍCULOS 36 FRACCIÓN IV, 41, 42, 43...
 
-Este decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+###### ARTICULO UNICO
 
-D.O.F. 28 DE DICIEMBRE DE 1973.
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-PRIMERO.- Las presentes reformas entrarán en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+P.O. 18 DE OCTUBRE DE 1996.
 
-SEGUNDO.- Al entrar en vigor el Decreto de 31 de Diciembre de 1951, publicado en el "Diario Oficial" el 18 de Enero de 1952, el Artículo 3018 que se reforma en este Decreto, tomará el número que le corresponda.
+DECRETO NÚMERO 273, QUE DEROGA EL ARTÍCULO 130.
 
-TERCERO.- Se derogan las disposiciones legales que se opongan al contenido de este Decreto.
+###### ARTICULO UNICO
 
-D.O.F. 23 DE DICIEMBRE DE 1974.
+- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO UNICO.
+P.O. 21 DE MAYO DE 1997.
 
-El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 1998.
+
+Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1998.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -14843,7 +14979,7 @@ Se deroga todo lo que se oponga al presente Decreto.
 
 P.O. 30 DE JULIO DE 1999.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
 
 P.O. 13 DE OCTUBRE DE 2000.
 
@@ -14893,7 +15029,7 @@ P.O. 14 DE AGOSTO DE 2002.
 
 DECRETO NÚMERO 242, QUE REFORMA LOS ARTÍCULOS 16 Y 19.
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE FEBRERO DE 2003.
 
@@ -14921,7 +15057,7 @@ P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -15172,3 +15308,11 @@ P.O. 13 DE FEBRERO 2012.
 P.O. 17 DE FEBRERO DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación.
+
+P.O. 13 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación.
