@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2012-01-27"
+last_updated: "2012-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 13 DE ABRIL DE 2012.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -779,15 +779,15 @@ La Dirección de Catastro del Estado o de los municipios dispondrá del plazo de
 
 (DEROGADO, P.O. 27 DE ENERO DE 2012)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 74.
 
 En las adquisiciones que se hagan constar en escritura pública, así como en las ratificaciones de cualquier acto o contrato que implique traslación de dominio, los notarios, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán mediante declaración en la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate; sin este requisito, no se podrá autorizar definitivamente la escritura o acta respectiva. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda al de la ubicación del inmueble de que se trate. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto por enterar.
 
-Los notarios no estarán obligados a enterar el Impuesto Sobre Traslado de Dominio cuando no haya sido expresado a éstos por algunas de las partes o cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el citado impuesto y acompañen a su declaración copia del recibo con el que se efectuó dicho pago.
+> <small>(F. DE E., P.O. 13 DE ABRIL DE 2012)</small>
+
+Los notarios no estarán obligados a enterar el Impuesto Sobre Traslado de Dominio cuando no haya sido expensado a éstos por algunas de las partes o cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el citado impuesto y acompañen a su declaración copia del recibo con el que se efectuó dicho pago.
 
 El enajenante y el adquirente responden solidariamente del impuesto que se deba pagar.
 
@@ -859,15 +859,15 @@ Cuando el pago del impuesto ingrese a través de esta modalidad, el contribuyent
 
 (DEROGADO, P.O. 27 DE ENERO DE 2012)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 2012)</small>
 
 ###### Artículo 78.
 
 Cuando las declaraciones sean formuladas por un notario, en virtud de haberse realizado ante su fe el acto o contrato traslativo de dominio, la dependencia encargada de las finanzas públicas, en ejercicio de su facultad de comprobación, solamente podrá requerir copia de los documentos a que se refiere el instrumento público y que sirvieron de base para la determinación del impuesto, con la consecuencia de que una vez exhibidos, se tendrá por empadronado el trámite correspondiente.
 
-En todo caso dicha autoridad tendrá un plazo de un año contador (sic) a partir de la fecha de presentación del aviso de traslado de dominio correspondiente para comprobar lo declarado y sólo en caso de que existan discrepancias el notario será responsable de las diferencias generadas y sus accesorios.
+> <small>(F. DE E., P.O. 13 DE ABRIL DE 2012)</small>
+
+En todo caso dicha autoridad tendrá un plazo de un año contado a partir de la fecha de presentación del aviso de traslado de dominio correspondiente para comprobar lo declarado y sólo en caso de que existan discrepancias el notario será responsable de las diferencias generadas y sus accesorios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2012)</small>
 
