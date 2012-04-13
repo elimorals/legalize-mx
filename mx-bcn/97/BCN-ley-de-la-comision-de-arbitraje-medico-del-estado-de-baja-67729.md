@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-de-arbitraje-medico-del-estado-de-baja-67729
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-02"
-last_updated: "2009-03-02"
+last_updated: "2012-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE BAJA CALIFORNIA
+LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 2 de marzo de 2009.
 
@@ -53,7 +53,7 @@ Para los efectos de esta Ley se entiende por:
 
 I.- PRESTADORES.- Las instituciones de salud de carácter público, social o privado, así como los profesionales, técnicos y auxiliares de las disciplinas para la salud, sea que ejerzan su actividad para dichas instituciones o de manera independiente;
 
-II.- USUARIOS.- Las personas que solicitan, requieren y obtienen dicho servicio de los prestadores de servicios de salud;
+II.- USUARIOS.- Las personas que solicitan, requieren y obtienen dicho servicios de los prestadores de servicios de salud;
 
 III.- CAME.- Comisión de Arbitraje Médico del Estado de Baja California;
 
@@ -77,7 +77,11 @@ XII.- TRANSACCIÓN.- Es un contrato otorgado ante la CAME por virtud del cual la
 
 XIII.- DÍAS.- Se entenderán como tales los hábiles salvo disposición en contrario establecida en la presente ley;
 
-XIV.- OPINIÓN TÉCNICA.- Dictamen emitido por el Comité Consultivo de Peritos en los casos en que le sea remitido un asunto para su opinión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+XIV.- Opinión Técnica.- Dictamen emitido por el Comité Consultivo de Peritos de la lista oficial proporcionada por los Colegios respectivos, en los casos en que le sea remitido un asunto para su opinión;
 
 XV.- DICTAMEN.- Resolución del Comité Consultivo de Peritos, precisando sus conclusiones respecto de alguna cuestión sometida a su consideración para su estudio, análisis u opinión en su caso, dentro del ámbito de sus atribuciones;
 
@@ -147,7 +151,11 @@ Para el cumplimiento de sus atribuciones, la CAME contará con la siguiente estr
 
 I.- Una Junta Directiva;
 
-II.- Un Comisionado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+II.- Un Secretario Técnico
 
 III.- Los Órganos Técnicos siguientes:
 
@@ -165,15 +173,27 @@ La Junta Directiva estará integrada por:
 
 I.- El Secretario de Salud, quien será el Presidente;
 
-II.- El Oficial Mayor de Gobierno;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+II.- El Secretario de Educación y Bienestar Social;
 
 III.- El Secretario de Planeación y Finanzas;
 
 IV.- El Secretario de Desarrollo Social; y
 
-V.- Un representante del Consejo, el cual se designará en los términos y condiciones previstos en el Reglamento Interno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-Para el mejor desempeño de sus funciones la Junta Directiva contará con un Secretario Técnico, función que recaerá en el Comisionado, el cual podrá participar en las sesiones con derecho a voz, pero sin voto.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+V.- Un representante de cualquier Asociación de Profesionistas en materia de salud, debidamente registrado en los términos de la Ley respectiva, el cual se designará de acuerdo a las condiciones previstas en el Reglamento Interno.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Para el mejor desempeño de sus funciones la Junta Directiva contará con un Secretario, función que recaerá en el Secretario Técnico, el cual podrá participar en las sesiones con derecho a voz, pero sin voto.
 
 ###### ARTÍCULO 10.
 
@@ -183,7 +203,11 @@ Los integrantes de la Junta Directiva desempeñarán su encargo de manera honor�
 
 La Junta Directiva sesionará de manera ordinaria por lo menos cada tres meses, y en forma extraordinaria cuando así se requiera a juicio de su Presidente, o lo solicite la mayoría de sus integrantes.
 
-El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes, sin que se considere para ello la asistencia del Secretario Técnico. Las resoluciones se tomarán por votación mayoritaria de los integrantes presentes, teniendo el Presidente voto de calidad, en caso de empate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes, sin que se considere para ello la asistencia del Secretario. Las resoluciones se tomarán por votación mayoritaria de los integrantes presentes, teniendo el Presidente voto de calidad, en caso de empate.
 
 Los integrantes de la Junta Directiva tendrán derecho a voz y voto, y en sus ausencias este derecho corresponderá a sus suplentes.
 
@@ -197,7 +221,11 @@ I.- Analizar, discutir y en su caso aprobar el programa institucional y el progr
 
 II.- Analizar, discutir y en su caso aprobar el anteproyecto de presupuesto de ingresos y egresos de la CAME, así como las modificaciones que procedan;
 
-III.- Analizar y en su caso aprobar los informes trimestrales que rinda el Comisionado, así como los que rindan los diversos órganos de la CAME;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+III.- Analizar y en su caso aprobar los informes trimestrales que rinda el Secretario Técnico, así como los que rindan los diversos órganos de la CAME;
 
 IV.- Analizar, y en su caso aprobar la creación y supresión de plazas en la CAME;
 
@@ -205,17 +233,29 @@ V.- Autorizar la estructura orgánica de la CAME, así como las modificaciones q
 
 VI.- Aprobar y presentar ante el Titular del Poder Ejecutivo para su expedición, el proyecto de Reglamento Interno de la CAME y sus reformas, así como autorizar los manuales administrativos necesarios para su operación y las modificaciones que procedan;
 
-VII.- Aprobar anualmente, previo informe del Comisario, los estados financieros y el cierre del ejercicio presupuestal de la CAME, autorizando en su caso, la publicación de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+VII.- Aprobar anualmente, previo informe del Secretario Técnico, los estados financieros y el cierre del ejercicio presupuestal de la CAME, autorizando en su caso, la publicación de los mismos;
 
 VIII.- Acordar la celebración de convenios de coordinación y colaboración por parte de la CAME, con Dependencias y Entidades federales, estatales o municipales, organizaciones de la sociedad civil o instituciones con objetos afines;
 
-IX.- Conocer de los asuntos que someta a su consideración el Comisionado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+IX.- Conocer de los asuntos que someta a su consideración el Secretario Técnico;
 
 X.- Conocer de los informes, dictámenes y recomendaciones del Comisariado, resolviendo lo conducente;
 
 XI.- Nombrar a tos peritos que integran el Comité Consultivo de Peritos, de entre las propuestas que al efecto realicen los colegios de las distintas especialidades de profesionales de la salud, que se encuentren debidamente registrados ante el área de profesiones del Estado;
 
-XII.- Designar al personal administrativo de la CAME, a propuesta del Comisionado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+XII.- Designar al personal administrativo de la CAME, a propuesta del Secretario Técnico;
 
 XIII.- La demás que resulten necesarias para el adecuado cumplimiento de su objeto.
 
@@ -235,15 +275,27 @@ V.- Invitar a las sesiones de la Junta Directiva, con derecho a voz pero sin vot
 
 VI.- Las demás que le encomiende la Junta Directiva.
 
-### CAPÍTULO VI. DEL COMISIONADO Y EL CONSEJO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO VI. DEL SECRETARIO TÉCNICO Y El CONSEJO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 14.
 
-La CAME contará con un titular que se denominará Comisionado, mismo que será nombrado y removido libremente por el Gobernador del Estado.
+La CAME contará con un titular que se denominará Secretario Técnico, mismo que será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 15.
 
-Son facultades y obligaciones del Comisionado;
+Son facultades y obligaciones del Secretario Técnico:
 
 I.- Dirigir y administrar a la CAME, dando cumplimiento a su objeto, conforme a los acuerdos que emita la Junta Directiva;
 
@@ -267,7 +319,11 @@ X.- Otorgar poderes generales y especiales con las facultades que le competan, i
 
 XI.- Sustituir y revocar los poderes generales o especiales que haya otorgado;
 
-XII.- Desempeñarse como Secretario Técnico de la Junta Directiva, cargo que será de carácter honorífico;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+XII.- Desempeñarse como Secretario de la Junta Directiva, cargo que será de carácter honorífico;
 
 XIII.- Ejecutar los acuerdos que la Junta Directiva le encomiende;
 
@@ -283,15 +339,23 @@ XVIII.- Proponer a la Junta Directiva al personal administrativo de la CAME; y
 
 XIX.- Las demás que le otorgue la Junta Directiva y otras disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 16.
 
-Para ser nombrado Comisionado, se requiere:
+Para ser nombrado Secretario Técnico se requiere:
 
 I.- Ser mexicano, en pleno ejercicio de sus derechos civiles;
 
 II.- Tener por lo menos cuarenta años de edad cumplidos el día de la designación;
 
-III.- Ser profesionista titulado en cualquiera de las áreas medicas reconocidas por la Ley de ejercicio de las Profesiones para el Estado de Baja California o por el Departamento de Profesiones del Estado, así como estar debidamente registrado ante este;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+III.- Contar con Título de Médico General o de Médico Cirujano Partero, reconocido por la Ley de Ejercicio de las Profesiones para el Estado de Baja California o por el Departamento de Profesiones del Estado, así como estar debidamente registrado ante éste;
 
 IV.- Haberse distinguido, por su probidad, competencia y antecedentes profesionales, en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión;
 
@@ -309,31 +373,73 @@ IX.- No estar impedido en términos de lo dispuesto en las fracciones II, III, I
 
 El Consejo estará integrado de la siguiente manera:
 
-I.- Por un Presidente, que será el Comisionado; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+I.- Por un Presidente, que será el Secretario Técnico; y,
 
 II.- Por los siguientes Consejeros:
 
 a).- Por tres médicos que serán nombrados mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir los aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
 
-b).- Por tres ciudadanos no relacionados con la prestación de servicios de salud que serán nombrados mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir los aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-c).- Por un odontólogo;
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
-d).- Por un psicólogo;
+b).- Por tres Licenciados en Derecho no relacionados con la prestación de servicios de salud que serán nombrados mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir los aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
 
-e).- Por un homeópata;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-f).- Por un químico fármaco-biólogo; y
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
-g).- Por un enfermero.
+c).- Un representante del Poder Legislativo que deberá ser designado conforme a sus disposiciones reglamentarias;
 
-Los Consejeros a que se refieren los incisos anteriores, serán designados por el Titular del Ejecutivo del Estado, en los términos y condiciones que señale el Reglamento Interno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+d).- Por un Odontólogo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+e).- Por un psiquiatra o psicólogo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+f).- Por un Investigador Médico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+g).- Por un Químico fármaco-biólogo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+h).-Por un Licenciado o Licenciada en enfermería.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Los Consejeros a que se refieren los incisos anteriores, serán designados por la Junta Directiva, en los términos y condiciones que señale el Reglamento Interno, con excepción del señalado en el inciso c.
 
 Para ser designado Consejero se deberán reunir los requisitos del artículo 16, salvo la experiencia profesional la que solo requerirá tenerse en cualquier área de la salud.
 
 Los ciudadanos a que se refiere la fracción II, inciso b) del artículo 17 de esta Ley quedan exentos de cumplir los requisitos del numeral 16.
 
-Los Consejeros a que se refiere la fracción II, inciso c), d), e), f) y g), del artículo 17 de esta Ley, deberán además ser propuestos para ocupar dicho cargo, por alguna de las asociaciones y colegios de profesionales de la salud, debidamente registrados ante el área de profesiones en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Los Consejeros a que se refiere la fracción II, inciso d), e), f), g) y h) del presente artículo, deberán además ser propuestos para ocupar dicho cargo, por alguna de las asociaciones y colegios de profesionales de la salud, debidamente registrados ante el área de profesiones en el Estado.
 
 Los Consejeros durarán en su encargo tres años y no podrán ser reelectos para un periodo inmediato. Deberán designar por escrito a un suplente con funciones de propietario para que cubra sus ausencias temporales, procurando que dicho nombramiento recaiga siempre en una misma persona.
 
@@ -345,23 +451,35 @@ La elaboración de las convocatorias para las sesiones se realizará en los tér
 
 Para que las sesiones sean válidas, será necesaria la asistencia de cuando menos la mitad mas uno de sus integrantes, siempre y cuando se encuentre presente el Presidente. Las decisiones del Consejo se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
 
-Cuando uno o mas de los Consejeros tuvieren interés personal en algún asunto que se someta a consideración de la CAME, se abstendrán de votar y lo deberán notificar por escrito al Comisionado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Cuando uno o más de los Consejeros tuvieren interés personal en algún asunto que se someta a consideración de la CAME, se abstendrán de votar y lo deberán notificar por escrito al Secretario Técnico.
 
 La organización y demás normas para el proceso de integración, designación y funcionamiento del Consejo de la CAME, se sujetará a las disposiciones previstas en el Reglamento Interno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 18.
 
-Para el debido cumplimiento de sus funciones el Consejo contará con un Secretario Técnico que será designado y removido libremente, a propuesta de su Presidente.
+Para el debido cumplimiento de sus funciones el Consejo contará con un Secretario que será designado y removido libremente, a propuesta de su Presidente.
 
-El Secretario Técnico podrá participar en las sesiones del Consejo con derecho a voz pero sin voto y su asistencia no será computada para efectos del quórum. Se desempeñará como secretario de actas y su remuneración será con cargo al presupuesto de la CAME.
+El Secretario podrá participar en las sesiones del Consejo con derecho a voz pero sin voto y su asistencia no será computada para efectos del quórum. Se desempeñará como secretario de actas y su remuneración será con cargo al presupuesto de la CAME.
 
-El Reglamento Interno establecerá los requisitos, procedimiento de designación así como las facultades y obligaciones del Secretario Técnico.
+El Reglamento Interno establecerá los requisitos, procedimiento de designación así como las facultades y obligaciones del Secretario.
 
 ###### ARTÍCULO 19.
 
 Son atribuciones del Consejo:
 
-I.- Conocer de los asuntos que someta a su consideración el Comisionado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+I.- Conocer de los asuntos que someta a su consideración el Secretario Técnico;
 
 II.- Resolver los juicios arbitrales sometidos al conocimiento de la CAME, dictando el laudo que corresponda, en el cual deberá valorarse el dictamen pericial que sea rendido por el Comité Consultivo de Peritos;
 
@@ -401,9 +519,17 @@ VIII.- No laborar como trabajador de confianza en una institución pública de s
 
 Son atribuciones del Comité Consultivo de Peritos las siguientes:
 
-I.- Recibir los expedientes de los asuntos que les sean turnados por el Comisionado para su estudio, opinión y dictamen;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-II.- Emitir opinión técnica respecto a los asuntos que le sean turnados por el comisionado;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+I.- Recibir los expedientes de los asuntos que les sean turnados por el Secretario Técnico para su estudio, opinión y dictamen;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+
+II.- Emitir opinión técnica respecto a los asuntos que le sean turnados por el Secretario Técnico;
 
 III.- Emitir los dictámenes respecto de las cuestiones sometidas a su análisis y consideración; y
 
@@ -411,9 +537,13 @@ IV.- Comparecer ante el Consejo cuando este se lo requiera. Para ampliar o clari
 
 ### CAPÍTULO VIII. DEL PROCEDIMIENTO DE ATENCIÓN DE QUEJAS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 23.
 
-La CAME, por conducto del Comisionado, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultado para solicitar la información relacionada a las partes y a terceros; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia, administrativa y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
+La CAME, por conducto del Secretario Técnico, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultado para solicitar la información relacionada a las partes y a terceros; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia administrativa y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
 
 La formulación de quejas, así como los procedimientos que se sigan ante la CAME, no afectarán el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos conforme a la Ley.
 
@@ -513,7 +643,11 @@ De realizarse satisfactoriamente la fase conciliatoria, se dejará constancia le
 
 Agotada la fase conciliatoria, y de no lograrse el arreglo de las partes, el conciliador las exhortará a que designen como árbitro a la CAME para solucionar la controversia.
 
-Si las partes así lo deciden se acordará el compromiso arbitral y dentro de los tres días siguientes se turnará el expediente al Comisionado, para la continuación del procedimiento arbitral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Si las partes así lo deciden se acordará el compromiso arbitral y dentro de los tres días siguientes se turnará el expediente al Secretario Técnico, para la continuación del procedimiento arbitral.
 
 ###### ARTÍCULO 40.
 
@@ -707,9 +841,13 @@ VII.- Se realizará, cuando sea necesaria la resolución de una cuestión juríd
 
 VIII.- Si durante el transcurso del juicio y hasta antes de que se cierre la instrucción, cualquiera de las partes llegare a contar con alguna prueba superveniente, deberán acreditar su existencia y naturaleza; y una vez acreditada, podrán solicitar la admisión de la probanza.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 64.
 
-El Comisionado acordará la recepción del expediente, dentro de los dos días siguientes a la fecha en que lo reciba y dará vista a las partes por diez días naturales, para que en ese término:
+El Secretario Técnico acordará la recepción del expediente, dentro de los dos días siguientes a la fecha en que lo reciba y dará vista a las partes por diez días naturales, para que en ese término:
 
 I.- Ofrezcan sus pruebas;
 
@@ -717,7 +855,11 @@ II.- Presenten las apreciaciones escritas que estimen necesarias, a reserva de a
 
 III.- Exhiban los documentos que obren en su poder.
 
-Transcurrida la visita, el Comisionado resolverá sobre la admisión o desechamiento de las probanzas y fijar las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, misma que se celebrará dentro de los quince días siguientes a la fecha en que ésta fue fijada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Transcurrida la visita, el Secretario Técnico resolverá sobre la admisión o desechamiento de las probanzas y fijar las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, misma que se celebrará dentro de los quince días siguientes a la fecha en que ésta fue fijada.
 
 ###### ARTÍCULO 65.
 
@@ -777,15 +919,23 @@ VI.- Concluido el desahogo de las pruebas, se procederá a recibir los alegatos 
 
 VII.- Hecho lo anterior, la CAME determinará cerrada la instrucción citando a las partes para laudo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 75.
 
-Concluida la audiencia de pruebas y alegatos, el Comisionado remitirá el expediente debidamente integrado al Comité Consultivo de Peritos dentro de los tres días siguientes a la celebración de dicha audiencia, a efecto de que este emita el dictamen respectivo.
+Concluida la audiencia de pruebas y alegatos, el Secretario Técnico remitirá el expediente debidamente integrado al Comité Consultivo de Peritos dentro de los tres días siguientes a la celebración de dicha audiencia, a efecto de que éste emita el dictamen respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 76.
 
-El Comité Consultivo de Peritos acordara la recepción del expediente dentro de los dos días siguientes a aquel en que lo recibió, notificando dicha circunstancia al Comisionado mediante simple oficio.
+El Comité Consultivo de Peritos acordará la recepción del expediente dentro de los dos días siguientes a aquel en que lo recibió, notificando dicha circunstancia al Secretario Técnico mediante simple oficio.
 
-A más tardar en un plazo de diez días siguientes a aquel en que haya acordado su recepción, el Comité Consultivo de Peritos deberá rendir el Dictamen correspondiente. Dicho plazo podrá prorrogarse previa autorización del Comisionado.
+A más tardar en un plazo de diez días siguientes a aquel en que haya acordado su recepción, el Comité Consultivo de Peritos deberá rendir el Dictamen correspondiente. Dicho plazo podrá prorrogarse previa autorización del Secretario Técnico.
 
 ### CAPÍTULO XIII. DE LAS RESOLUCIONES DE LA COMISIÓN
 
@@ -803,7 +953,11 @@ III.- Determinaciones que resuelven el fondo del asunto y que siempre tendrán e
 
 Con base en la opinión técnica o dictamen del Comité Consultivo de Peritos, así como en las demás constancias que obren en el expediente respectivo, el Consejo dictará el laudo que resuelva en definitiva el juicio arbitral.
 
-El laudo a que se refiere el párrafo anterior, deberá ser firmado por los integrantes del Consejo de la CAME que hubieren asistido a la sesión en la que fue analizado el asunto, de manera conjunta con el Secretario Técnico de dicho órgano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+El laudo a que se refiere el párrafo anterior, deberá ser firmado por los integrantes del Consejo de la CAME que hubieren asistido a la sesión en la que fue analizado el asunto, de manera conjunta con el Secretario de dicho órgano.
 
 ###### ARTÍCULO 79.
 
@@ -811,7 +965,11 @@ La CAME no podrá, bajo ningún pretexto, aplazar, dilatar ni negar la resoluci�
 
 Tampoco podrá variar ni modificar sus resoluciones después de firmadas, pero sí podrá aclarar algún concepto o suplir cualquier deficiencia, sea por omisión sobre un punto discutido o cuando exista oscuridad o imprecisión, sin alterar la esencia de la resolución.
 
-Estas aclaraciones podrán hacerse de oficio dentro del día siguiente al de la publicación de la resolución o a instancia de parte presentada dentro de los tres días siguientes al de la notificación. En este último supuesto, la CAME resolverá lo que estime procedente dentro de los dos días siguientes al de la presentación del escrito en que se solicite la aclaración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Estas aclaraciones podrán hacerse de oficio dentro del día siguiente en que se dictó la resolución o a instancia de parte presentada dentro de los tres días siguientes al de la notificación. En este último supuesto, la CAME resolverá lo que estime procedente dentro de los dos días siguientes al de la presentación del escrito en que se solicite la aclaración.
 
 ###### ARTÍCULO 80.
 
@@ -918,3 +1076,13 @@ JOSE GUADALUPE OSUNA MILLÁN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 1 de enero de 2013.
+
+SEGUNDO.- A partir de la entrada en vigor de las presentes reformas, el Congreso del Estado tendrá un plazo de 90 días para nombrar a un representante, que será el consejero que integrara el Consejo Consultivo de la CAME.
+
+TERCERO.- El Ejecutivo del Estado realizará las adecuaciones a las normas reglamentarias dentro de un plazo que no excederá de los 90 días a partir de la entrada en vigor de las presentes reformas.
