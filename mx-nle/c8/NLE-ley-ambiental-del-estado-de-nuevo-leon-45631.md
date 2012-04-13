@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2011-06-03"
+last_updated: "2012-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
+LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -173,7 +173,7 @@ XXXV.- Gran generador: Persona física o moral que genere una cantidad igual o s
 
 XXXVI.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -197,7 +197,7 @@ XLV.- Material peligroso: Los elementos, substancias, compuestos, residuos o mez
 
 XLVI.- Mejoramiento: El incremento de la calidad del ambiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -213,7 +213,7 @@ LI.- Prestador de servicios en materia de impacto y riesgo ambiental: Prestador 
 
 LII.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -249,25 +249,25 @@ LXV.- Riesgo inminente: Elevada posibilidad o probabilidad potencial de que un e
 
 LXVI.- Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Nuevo León;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 LXVII.- Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 LXVIII.- Vocación natural: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 LXIX.- Valor ecológico: Potencial de factores bióticos y abióticos que interactúan en un ecosistema determinado y que propician una biodiversidad relevante o las condiciones para el desarrollo de la misma; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -337,7 +337,7 @@ XII. Promover el aprovechamiento sostenible, la conservación, ahorro, reciclaje
 
 XIII. Las demás atribuciones que le otorgue la presente Ley u otros ordenamientos aplicables en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 8.
 
@@ -843,7 +843,7 @@ Las autoridades correspondientes garantizarán el otorgamiento de estímulos fis
 
 #### SECCIÓN VI. EVALUACIÓN DEL IMPACTO AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 34.
 
@@ -893,7 +893,7 @@ VIII. La creación de áreas verdes mediante la delimitación del crecimiento ur
 
 #### SECCIÓN VII. NORMAS AMBIENTALES ESTATALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 37.
 
@@ -903,7 +903,7 @@ La evaluación del impacto ambiental es el procedimiento a través del cual la S
 
 Para ello, en los casos que determine el Reglamento de esta Ley, quienes pretendan llevar a cabo alguna de las obras o actividades señaladas en este Artículo, solicitarán a la Secretaría, previamente al inicio de la obra o actividad, la autorización en materia de impacto ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Corresponde a la Secretaría, evaluar el impacto ambiental de las siguientes obras y actividades:
 
@@ -955,7 +955,7 @@ Una vez recibida la documentación de los interesados, la Secretaría, en un pla
 
 Los efectos negativos, que sobre el ambiente y los recursos naturales, pudieran causar las obras o actividades de competencia estatal o municipal que no requieran someterse a los procedimientos de evaluación de impacto ambiental a que se refiere la presente sección, se sujetarán desde luego a las disposiciones de esta Ley, su Reglamento, las Normas Oficiales Mexicanas en materia ambiental, las Normas Ambientales Estatales, los ordenamientos legales aplicables, así como a través de los permisos, licencias, autorizaciones y concesiones que conforme a dicha normatividad se requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
@@ -993,7 +993,7 @@ III. Se trate de instalaciones industriales ubicadas en parques industriales aut
 
 Una vez analizado el informe preventivo, la Secretaría determinará en un plazo no mayor de 20-veinte días hábiles si procede o no la presentación de una manifestación del impacto ambiental, así como la modalidad conforme a la que deba formularse. Transcurrido el plazo señalado, sin que la Secretaría emita la comunicación correspondiente, el interesado deberá formular una nueva petición, y en caso de que la Secretaría no emita su respuesta a dicha solicitud, dentro de un plazo no mayor a 10-diez días hábiles, se entenderá que no es necesaria la presentación de una manifestación de impacto ambiental. No se podrán iniciar las obras o actividades hasta en tanto se emita la resolución correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 44.
 
@@ -1015,7 +1015,7 @@ Para la autorización de obras y actividades a que se refiere el Artículo 37 de
 
 Asimismo, para la autorización a que se refiere este Artículo, la Secretaría, deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
@@ -1071,7 +1071,7 @@ Solo podrán prestar servicios en materia de impacto y riesgo ambiental, en el t
 
 No será necesaria la inscripción en el Registro mencionado para el caso de los interesados que presenten sus manifestaciones de impacto ambiental y estudios de riesgo, en los términos del párrafo segundo del artículo 196 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 50.
 
@@ -1095,7 +1095,7 @@ Los Municipios podrán emitir, por sí mismos o a petición de la Secretaría, o
 
 #### SECCIÓN VIII. INSTRUMENTOS DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 53.
 
@@ -1151,7 +1151,7 @@ V. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de l
 
 Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoria ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 59.
 
@@ -1351,7 +1351,7 @@ Las autoridades estatales podrán promover ante las autoridades federales compet
 
 Asimismo, la Secretaría podrá solicitar a las autoridades federales, el establecimiento de las áreas naturales protegidas de competencia de dicho orden de gobierno, para la conservación de ecosistemas, hábitats, especies silvestres nativas, monumentos naturales y demás elementos de la biodiversidad representativa del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 81.
 
@@ -1373,7 +1373,7 @@ Las opiniones y recomendaciones que formule el Consejo, deberán ser considerada
 
 Las áreas naturales protegidas se establecerán mediante declaratoria que expida el Titular del Ejecutivo del Estado o el Ayuntamiento, según sea el caso, previa la satisfacción de los requisitos previstos en esta Ley y en los demás ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el párrafo anterior, se deberán realizar los estudios que lo justifiquen, en los términos de la presente sección, los cuales deberán ser puestos a disposición del público. Asimismo, la Secretaría o los Municipios deberán solicitar la opinión de:
 
@@ -1441,7 +1441,7 @@ II. Establecerán o en su caso, promoverán la creación de fideicomisos públic
 
 III. Promoverán los incentivos económicos o los estímulos fiscales para las personas u organizaciones sociales, públicas o privadas, que participen en la administración y vigilancia de las áreas naturales protegidas, así como para quienes aporten bienes y recursos financieros a estos efectos, o para aquellas personas físicas o morales que realicen actividades de investigación, fomento y desarrollo de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 89.
 
@@ -1449,7 +1449,7 @@ La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, 
 
 Los núcleos agrarios y demás propietarios o poseedores de los predios en los que se pretenda desarrollar las obras o actividades anteriormente señaladas, tendrán un derecho preferente para obtener las autorizaciones, concesiones o permisos respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 90.
 
@@ -1461,7 +1461,7 @@ Los interesados en tales aprovechamientos, deberán demostrar ante la autoridad 
 
 La Secretaría y los Municipios, en el ámbito de su competencia, tomando como base los estudios técnicos y socioeconómicos practicados, podrán cancelar o revocar el permiso, concesión o autorización correspondiente, cuando la exploración o aprovechamiento de recursos naturales ocasione o pueda ocasionar deterioro al equilibrio ecológico. Cuando dichos actos no sean de su competencia, promoverán la cancelación o revocación ante la autoridad que los haya otorgado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 91.
 
@@ -1499,7 +1499,7 @@ VII Los inventarios biológicos existentes y los que se prevea realizar; y
 
 VIII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área natural protegida de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 93.
 
@@ -1529,7 +1529,7 @@ Los ingresos que el Estado y los Municipios recauden por concepto del otorgamien
 
 Las áreas naturales protegidas establecidas por el Titular del Ejecutivo del Estado y los Ayuntamientos constituyen en su conjunto, el Sistema Estatal de Áreas Naturales Protegidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 98.
 
@@ -1611,7 +1611,7 @@ Se consideran contratos de preservación o conservación, aquellos acuerdos de v
 
 ### CAPÍTULO III. ZONAS DE RESTAURACIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 109.
 
@@ -1619,7 +1619,7 @@ En aquellas áreas que presenten procesos de degradación o desertificación o g
 
 En la formulación, ejecución y seguimiento de dichos programas, el Estado deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, instituciones académicas y centros de investigación, habitantes de las comunidades locales, autoridades municipales y demás personas interesadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 110.
 
@@ -1945,7 +1945,7 @@ IV. Reubiquen sus instalaciones para evitar emisiones contaminantes en zonas urb
 
 Se prohíbe emitir contaminantes a la atmósfera, que rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas y en las Normas Ambientales Estatales. Los responsables de emisiones provenientes de fuentes fijas, también deberán cumplir con lo dispuesto en la Ley General, la presente Ley y los Reglamentos de estas leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 138.
 
@@ -1997,7 +1997,7 @@ XI. Las demás que se establezcan en esta Ley, los ordenamientos que de ella se 
 
 Las emisiones de contaminantes a la atmósfera, generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga, cuando esto no sea posible, por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la Secretaría o ante la autoridad municipal que corresponda, a fin de que se dicten las medidas que correspondan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -2055,7 +2055,7 @@ La Secretaría, con la intervención de los Municipios, establecerá los requisi
 
 En el supuesto de que la Secretaría establezca y opere sistemas de verificación vehicular, la omisión de las verificaciones a que se refiere la presente sección o la falta de cumplimiento de las medidas que para la prevención y el control de emisiones se establezcan, serán objeto de sanciones en los términos que prevenga esta Ley y su Reglamento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 152.
 
@@ -2101,7 +2101,7 @@ III. Los programas para el control y vigilancia de descargas de aguas residuales
 
 IV. Los permisos, autorizaciones o registros que se otorguen para descargar aguas residuales al alcantarillado de las poblaciones, fosas sépticas impermeables o en los cuerpos de agua de jurisdicción estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 157.
 
@@ -2119,7 +2119,7 @@ V. Promover y establecer programas de pretratamiento de aguas residuales, para c
 
 VI. Promover la difusión entre la población, de programas y acciones de control y prevención para evitar la contaminación del agua.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 158.
 
@@ -2139,7 +2139,7 @@ VI. El vertimiento de residuos sólidos en cuerpos y corrientes de agua; y
 
 VII. La disposición final adecuada de los lodos generados en los sistemas de tratamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 159.
 
@@ -2151,7 +2151,7 @@ Las descargas de agua de origen doméstico, no estarán sujetas al previo tratam
 
 El otorgamiento de asignaciones, concesiones o permiso para la explotación, uso o aprovechamiento de aguas de jurisdicción estatal, o de aguas asignadas al Estado, estará condicionado al cumplimiento de las Normas Oficiales Mexicanas, Normas Ambientales Estatales o condiciones particulares de descarga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 160.
 
@@ -2163,19 +2163,19 @@ II. Las interferencias en los procesos de depuración de las aguas; y
 
 III. Los fenómenos que pongan en riesgo los ecosistemas o la capacidad hidráulica de las cuencas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 161.
 
 Cuando se afecten o puedan afectar fuentes de abastecimiento de agua, se dará aviso de inmediato a la Secretaría y a la autoridad sanitaria más próxima. En estos casos, y en coordinación con la Secretaría de Salud en el Estado, la Secretaría y el Municipio, en el ámbito de sus respectivas competencias tomarán las medidas que consideren necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 162.
 
 Los Municipios observarán, según corresponda, las condiciones particulares de descarga que les sean fijadas, de acuerdo a los parámetros establecidos por la Secretaría, y conforme a las Normas Oficiales Mexicanas, o Normas Ambientales Estatales, para el diseño, operación o administración de sus equipos y sistemas de tratamiento de aguas residuales de origen urbano.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 163.
 
@@ -2311,7 +2311,7 @@ X. Utilizar vehículos o medios de transporte para la recolección, manejo, acop
 
 Las violaciones a lo establecido en este artículo se sancionarán de conformidad con lo dispuesto en esta Ley, sin perjuicio de lo establecido en otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 176.
 
@@ -2323,7 +2323,7 @@ II. Proporcionar a quien genere, recolecte, trate, recicle o disponga finalmente
 
 III. Identificar las fuentes generadoras de residuos de manejo especial y residuos sólidos urbanos, las diferentes características que los constituyen y los aspectos relacionados con su valorización.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 177.
 
@@ -2377,7 +2377,7 @@ Las autoridades adoptarán las medidas necesarias para racionalizar la generaci�
 
 Con motivo de la operación de sistemas destinados al manejo de materiales y residuos peligrosos, el reglamento de esta Ley y, en su caso, las normas ambientales estatales, podrán establecer medidas o restricciones complementarias a las que emita la Federación, a fin de evitar o prevenir situaciones de riesgo ambiental y proteger la salud de la población en general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 La vigilancia y aplicación de dichas medidas o restricciones corresponderá a la Secretaría, en el ámbito de competencia determinado por la Ley General, y de conformidad con lo previsto en la presente Ley.
 
@@ -2461,6 +2461,16 @@ Quedan prohibidas las emisiones contaminantes provenientes de cualquier fuente f
 
 Las autoridades que ésta Ley señala, en los ámbitos de sus competencias, adoptarán las medidas necesarias para impedir que se rebasen dichos límites y en su caso, aplicarán las sanciones correspondientes.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+Artículo 187 bis.- Los límites máximos de emisiones sonoras dentro de establecimientos comerciales o de servicios cuyo giro sea el de restaurante-bar, bar, discoteca, centro nocturno o centro de espectáculo, se determinarán en función de decibeles ponderados en A[dB(A)], correspondiendo a los Municipios establecer en sus reglamentos de la materia los horarios y rangos de emisiones sonoras permisibles, ello sin menoscabo de las regulaciones específicas en cuanto a los horarios de funcionamiento.
+
+En caso de existir normas oficiales mexicanas o normas ambientales estatales que establezcan los horarios y rangos de emisiones sonoras permisibles dentro de los referidos establecimientos, los reglamentos municipales de la materia se deberán apegar a los mismos.
+
+Asimismo, la autoridad municipal establecerá los casos en los cuales los titulares de dichos establecimientos tendrán la obligación de instalar sistemas electrónicos que muestren a los usuarios y personal expuesto a contaminación auditiva, los niveles de emisiones sonoras, determinando si se encuentran dentro del rango permitido o se han excedido.
+
+De la misma forma, corresponderá a los Municipios verificar que las emisiones sonoras dentro de los establecimientos señalados se mantengan en los decibeles autorizados, empleando para ello instrumentos de medición debidamente calibrados.
+
 ###### Artículo 188.
 
 En la construcción de obras o instalaciones que generen los contaminantes señalados en el artículo anterior, así como en la operación o funcionamiento de las mismas, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar y mitigar los efectos negativos de tales contaminantes en los ecosistemas y en el ambiente, previo dictamen de la autoridad correspondiente.
@@ -2499,7 +2509,7 @@ Los Municipios deberán incorporar en sus bandos de policía y buen gobierno y r
 
 ### CAPÍTULO IX. PRESTADORES DE SERVICIOS EN MATERIA AMBIENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 191.
 
@@ -2533,7 +2543,7 @@ De conformidad con lo establecido en la presente Ley, las personas físicas o mo
 
 Los prestadores que incumplan lo dispuesto en el presente artículo serán sancionados en los términos que establece esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 196.
 
@@ -2541,7 +2551,7 @@ Los prestadores de servicios en materia de impacto y riesgo ambiental, serán re
 
 Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados directamente por los interesados, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 197.
 
@@ -2559,7 +2569,7 @@ Los prestadores de servicios en materia de impacto y riesgo ambiental son respon
 
 La Secretaría podrá convenir programas de evaluación o capacitación de prestadores de servicios en materia ambiental, en coordinación con los Colegios y Asociaciones de Profesionales e instituciones de investigación y de educación superior correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 200.
 
@@ -2577,7 +2587,7 @@ La Secretaría establecerá los lineamientos y procedimientos para incorporar al
 
 ### CAPÍTULO II. CONSEJOS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 202.
 
@@ -2609,7 +2619,7 @@ Los Municipios, en el ámbito de su jurisdicción territorial, podrán contar co
 
 ### CAPÍTULO IV. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 204.
 
@@ -2699,7 +2709,7 @@ Quien reciba información ambiental de las autoridades competentes, será respon
 
 ### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 216.
 
@@ -2795,7 +2805,7 @@ La autoridad competente podrá ordenar la realización de posteriores visitas de
 
 Si de dichas visitas se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente impondrá las sanciones que correspondan, de conformidad con la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 230.
 
@@ -2805,7 +2815,7 @@ La autoridad responsable deberá de hacer del conocimiento de la autoridad que h
 
 ### CAPÍTULO III. SANCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 231.
 
@@ -2837,19 +2847,19 @@ II. Multa de veinte a treinta mil días de salario mínimo general vigente en la
 
 III. Clausura temporal o definitiva, parcial o total, cuando se presente uno o más de los supuestos establecidos en el artículo 237 de esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 IV. Decomiso o aseguramiento precautorio de ejemplares o especies de flora y fauna, incluyendo sus partes, productos, subproductos, objetos, materiales o substancias contaminantes, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar al decomiso;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 V. Suspensión o revocación de las autorizaciones, concesiones, permisos o licencias otorgadas; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -2857,19 +2867,19 @@ VI. Trabajo a favor de la comunidad.
 
 El Reglamento de la Ley, establecerá el procedimiento para llevar a cabo lo dispuesto en la fracción V de éste Artículo, así como lo relativo al destino final de los elementos decomisados o asegurados que ahí se señalan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 La autoridad ambiental competente podrá imponer la sanción de trabajo a favor de la comunidad en materias ambientales a través de su vinculación temporal en alguno de los programas, proyectos o actividades que dicha autoridad ambiental tenga en curso directamente o en convenio con otras autoridades u organizaciones sin fines de lucro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
 La sanción de trabajo a favor de la comunidad sólo podrá reemplazar la multa cuando el infractor no tenga los recursos económicos para cubrirla, pero podrá ser una medida complementaria en todos los casos, no pudiendo exceder ese trabajo de 36·treinta y seis horas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2010)</small>
 
@@ -3263,7 +3273,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 NAPOLEÓN CANTÚ CERNA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE DICIEMBRE DE 2005.
 
@@ -3309,7 +3319,7 @@ Segundo.- En un término que no exceda de sesenta días a partir de la entrada e
 
 P.O. 3 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 127, POR EL QUE SE REFORMA LAS FRACCIONES IV Y V DEL SEGUNDO PARRAFO DEL ARTICULO 232; SE ADICIONA LA FRACCION VI DEL SEGUNDO PARRAFO; IGUALMENTE LOS PARRAFOS CUARTO, QUINTO Y SEXTO, RECORRIENDOSE LOS ACTUALES PARA SER SEPTIMO, OCTAVO Y NOVENO RESPECTIVAMENTE DEL ARTICULO 232 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEON.
+DECRETO NÚMERO 127, POR EL QUE SE REFORMA LAS FRACCIONES IV Y V DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 232; SE ADICIONA LA FRACCIÓN VI DEL SEGUNDO PÁRRAFO; IGUALMENTE LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO, RECORRIÉNDOSE LOS ACTUALES PARA SER SÉPTIMO, OCTAVO Y NOVENO RESPECTIVAMENTE DEL ARTÍCULO 232 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN.
 
 Primero.- El presente Decreto entrará en vigor hasta en tanto se reforme el Artículo 25 de la Constitución Política del Estado de Nuevo León a fin de incluir como sanción aplicable por infracciones administrativas el trabajo a favor de la comunidad.
 
@@ -3318,3 +3328,9 @@ Segundo.- En un término que no exceda de noventa días a partir de la entrada e
 P.O. 3 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE ABRIL DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- En un término que no exceda de ciento veinte días a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones a las disposiciones reglamentarias vinculados con la presente reforma.
