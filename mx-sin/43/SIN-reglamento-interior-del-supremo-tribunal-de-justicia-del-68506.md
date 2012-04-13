@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-supremo-tribunal-de-justicia-del-68506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-11"
-last_updated: "2012-02-24"
+last_updated: "2012-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 11 de mayo de 2009.
 
@@ -195,9 +195,13 @@ La Presidencia, para el despacho de los asuntos de su competencia, contará con 
 
 I. Secretaría Particular;
 
-II. Auditoría interna; y,
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2012)</small>
 
-III. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto.
+II. Secretaría Técnica;
+
+III. Auditoría interna; y,
+
+IV. Los demás órganos que se requieran conforme a las necesidades del servicio y que permita el presupuesto.
 
 #### SECCIÓN I. DE LA SECRETARÍA PARTICULAR DE LA PRESIDENCIA
 
@@ -221,9 +225,27 @@ VII. Llevar un libro de registro de asuntos turnados a la Presidencia; y,
 
 VIII. Las demás que le encomiende el Presidente.
 
-#### SECCIÓN II. DE LA AUDITORÍA INTERNA
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE ABRIL DE 2012)</small>
 
-#### SECCIÓN I. DE LA SECRETARÍA AUXILIAR "A"
+#### SECCIÓN I BIS. DE LA SECRETARÍA TÉCNICA
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+
+###### Artículo 20 Bis.
+
+Son atribuciones de la Secretaría Técnica, las siguientes:
+
+I. Coadyuvar en los procesos de planeación e implementación de políticas tendentes a la modernización del Poder Judicial;
+
+II. Proponer medidas de seguimiento y evaluación de los planes y programas implementados en el Poder Judicial;
+
+III. Auxiliar en la formulación de proyectos normativos que le sean encomendados para el desarrollo del servicio público de administración e impartición de justicia;
+
+IV. Revisar y dictaminar jurídicamente, los asuntos que sean puestos a su consideración por el Presidente;
+
+V. Las demás que le confiera el Pleno o el Presidente.
+
+#### SECCIÓN II. DE LA AUDITORÍA INTERNA
 
 ###### Artículo 21.
 
@@ -409,7 +431,7 @@ IV. Los demás que se requieran conforme a las necesidades del servicio y que pe
 
 Los órganos auxiliares de la Secretaría de Acuerdos estarán a cargo de un Titular y contarán con los servidores públicos que se requieran conforme a las necesidades del servicio y que permita el presupuesto del Poder Judicial.
 
-#### SECCIÓN II. DE LA SECRETARÍA AUXILIAR "B"
+#### SECCIÓN I. DE LA SECRETARÍA AUXILIAR "A"
 
 ###### Artículo 36.
 
@@ -429,7 +451,7 @@ VI. Recibir información de los Jueces de Primera Instancia, sobre los comunicad
 
 VII. Las demás que le confieran este Reglamento y el Secretario de Acuerdos.
 
-#### SECCIÓN III. DEL OPERADOR DE SISTEMAS DE TURNOS
+#### SECCIÓN II. DE LA SECRETARÍA AUXILIAR "B"
 
 ###### Artículo 37.
 
@@ -463,7 +485,7 @@ VIII. Recibir y registrar en las libretas correspondientes la correspondencia qu
 
 IX. Las demás que le confieran este Reglamento y el Secretario de Acuerdos.
 
-#### SECCIÓN I. DEL OFICIAL MAYOR
+#### SECCIÓN III. DEL OPERADOR DE SISTEMAS DE TURNOS
 
 ###### Artículo 38.
 
@@ -595,7 +617,7 @@ La Oficialía Mayor es la dependencia del Supremo Tribunal encargada de la plane
 
 El desarrollo de las actividades de la Oficialía Mayor se regirá por los principios de honradez, eficiencia, eficacia y objetividad en la administración de recursos, atendiendo siempre a las necesidades de los órganos judiciales y demás dependencias administrativas del Poder Judicial. El Oficial Mayor deberá caucionar el desempeño de su cargo.
 
-#### SECCIÓN II. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS HUMANOS Y MATERIALES
+#### SECCIÓN I. DEL OFICIAL MAYOR
 
 ###### Artículo 47.
 
@@ -679,7 +701,7 @@ VI. Proporcionar la asesoría o cooperación técnica que les sean requeridas; y
 
 VII. Las demás que les confieran y señalen las disposiciones legales relativas, así como las que les competan a sus Unidades o Secciones que se les hubieren adscrito.
 
-#### SECCIÓN III. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS FINANCIEROS REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
+#### SECCIÓN II. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS HUMANOS Y MATERIALES
 
 ###### Artículo 51.
 
@@ -789,7 +811,7 @@ XVII. Proponer al Titular del Área de Administración de Recursos Humanos y Mat
 
 XVIII. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o las leyes aplicables.
 
-#### SECCIÓN IV. DEL ÁREA DE SISTEMAS ADMINISTRATIVOS
+#### SECCIÓN III. DEL ÁREA DE ADMINISTRACIÓN DE RECURSOS FINANCIEROS REGLAMENTO INTERIOR DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE SINALOA
 
 ###### Artículo 55.
 
@@ -861,7 +883,7 @@ XIV. Proponer al Titular del Área de Administración de Recursos Financieros lo
 
 XV. Las demás que le confieren la Ley Orgánica, el Reglamento, o las leyes aplicables.
 
-#### SECCIÓN V. DEL ÁREA DE ADMINISTRACIÓN GENERAL DE ARCHIVOS JUDICIALES
+#### SECCIÓN IV. DEL ÁREA DE SISTEMAS ADMINISTRATIVOS
 
 ###### Artículo 58.
 
@@ -885,7 +907,7 @@ VIII. Atender y coordinar oportunamente los requerimientos de los órganos auxil
 
 IX. Las demás que le confieren la Ley Orgánica, el presente Reglamento, o que le encomiende el Oficial Mayor.
 
-#### SECCIÓN I. DEL DIRECTOR DEL INSTITUTO DE CAPACITACIÓN JUDICIAL
+#### SECCIÓN V. DEL ÁREA DE ADMINISTRACIÓN GENERAL DE ARCHIVOS JUDICIALES
 
 ###### Artículo 59.
 
@@ -911,7 +933,7 @@ IV. Un Coordinador en el Área académica-pedagógica; y,
 
 V. El personal administrativo que se le asigne.
 
-#### SECCIÓN II. DEL CONSEJO ACADÉMICO DEL INSTITUTO DE CAPACITACIÓN JUDICIAL
+#### SECCIÓN I. DEL DIRECTOR DEL INSTITUTO DE CAPACITACIÓN JUDICIAL
 
 ###### Artículo 62.
 
@@ -945,7 +967,7 @@ XI. Coordinar y promover los programas de servicio social de pasantes, para las 
 
 XII. Las demás que le confiera el Pleno o el Presidente.
 
-#### SECCIÓN III. DEL COORDINADOR DEL ÁREA DE INVESTIGACIÓN JURÍDICA
+#### SECCIÓN II. DEL CONSEJO ACADÉMICO DEL INSTITUTO DE CAPACITACIÓN JUDICIAL
 
 ###### Artículo 64.
 
@@ -973,7 +995,7 @@ IV. Determinar el contenido de las pruebas de conocimientos jurídicos; y,
 
 V. Las demás que le confiera el Pleno.
 
-#### SECCIÓN IV. DEL COORDINADOR DEL ÁREA ACADÉMICA-PEDAGÓGICA
+#### SECCIÓN III. DEL COORDINADOR DEL ÁREA DE INVESTIGACIÓN JURÍDICA
 
 ###### Artículo 67.
 
@@ -991,9 +1013,7 @@ III. Realizar los trabajos de investigación jurídica que le sean requeridos po
 
 IV. Las demás que le confiera el Pleno, el Presidente o el Director.
 
-#### SECCIÓN V. DEL PERSONAL ADMINISTRATIVO
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+#### SECCIÓN IV. DEL COORDINADOR DEL ÁREA ACADÉMICA-PEDAGÓGICA
 
 ###### Artículo 69.
 
@@ -1017,7 +1037,9 @@ V. Las demás que le confiera el Pleno, el Presidente o el Director.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE FEBRERO DE 2012)</small>
 
-#### SECCIÓN I. DEL DIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+#### SECCIÓN V. DEL PERSONAL ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 70 Bis.
 
@@ -1157,7 +1179,7 @@ VII. Unidad de Diseño Gráfico y Portal de Internet; y,
 
 VIII. El demás personal técnico administrativo que se requiera conforme a las necesidades del servicio, y que permita el presupuesto del Poder Judicial.
 
-#### SECCIÓN II. DEL SUBDIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
+#### SECCIÓN I. DEL DIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
 
 ###### Artículo 74.
 
@@ -1183,7 +1205,7 @@ IX. Representar al Poder Judicial ante el Consejo Estatal de Seguridad Pública,
 
 X. Las demás que se deriven de los ordenamientos aplicables, acuerdos del Pleno o del Presidente.
 
-#### SECCIÓN III. DEL JEFE DEL DEPARTAMENTO DE SISTEMAS
+#### SECCIÓN II. DEL SUBDIRECTOR DE INFORMÁTICA Y ESTADÍSTICA
 
 ###### Artículo 75.
 
@@ -1211,7 +1233,7 @@ X. Fomentar la profesionalización y capacitación del personal de Informática;
 
 XI. Las demás que deriven de las disposiciones legales aplicables, acuerdos del Pleno, del Presidente o del Director.
 
-#### SECCIÓN IV. DE LOS DEPARTAMENTOS DE INFORMÁTICA REGIONALES
+#### SECCIÓN III. DEL JEFE DEL DEPARTAMENTO DE SISTEMAS
 
 ###### Artículo 76.
 
@@ -1245,11 +1267,11 @@ XIII. Supervisar el cabal cumplimiento de cada una de las acciones que realiza e
 
 XIV. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
 
+#### SECCIÓN IV. DE LOS DEPARTAMENTOS DE INFORMÁTICA REGIONALES
+
 #### SECCIÓN V. DE LA UNIDAD DE SOPORTE TÉCNICO
 
 #### SECCIÓN VI. DE LA UNIDAD DE REDES Y TELECOMUNICACIONES
-
-#### SECCIÓN VII. DE LA UNIDAD DE DISEÑO GRÁFICO Y PORTAL DE INTERNET
 
 ###### Artículo 77.
 
@@ -1259,9 +1281,9 @@ I. Zona Norte, con residencia en la ciudad de Los Mochis, proporcionará el serv
 
 II. Zona Sur, con residencia en la ciudad de Mazatlán, proporcionará el servicio en los Distritos Judiciales de Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa.
 
-#### SECCIÓN I. DE LOS VISITADORES
+#### SECCIÓN VII. DE LA UNIDAD DE DISEÑO GRÁFICO Y PORTAL DE INTERNET
 
-#### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
+#### SECCIÓN I. DE LOS VISITADORES
 
 ###### Artículo 78.
 
@@ -1336,6 +1358,8 @@ XIV. Administrar el sistema de video vigilancia del Supremo Tribunal de Justicia
 XV. Elaborar el dictamen técnico para el proceso de licitación de bienes e insumos informáticos; y,
 
 XVI. Las demás que acuerde el Pleno, el Presidente, el Director o el Subdirector.
+
+#### SECCIÓN I. DEL COORDINADOR DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 80.
 
@@ -1480,3 +1504,13 @@ El presente acuerdo entrará en vigor el día de su aprobación.
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
