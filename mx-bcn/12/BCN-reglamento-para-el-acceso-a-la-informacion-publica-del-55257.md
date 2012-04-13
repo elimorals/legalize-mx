@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-acceso-a-la-informacion-publica-del-55257"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-13"
-last_updated: "2010-04-30"
+last_updated: "2012-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "BCN"
 ---
 # REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO PARA EL ACCESO A LA INFORMACION PUBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de abril de 2007.
 
@@ -652,10 +654,22 @@ CONSEJERO
 
 LIC. ADRIÁN HUMBERTO MURILLO GONZÁLEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE ABRIL DE 2010.
 
 PRIMERO.- El Presente Acuerdo General, deberá publicarse en el Boletín Judicial y en el Periódico Oficial del Estado, así como en medios electrónicos de consulta pública en términos de lo previsto en la fracción I, del artículo 6° de la Ley de Acceso a la Información Pública para el Estado de Baja California.
 
 SEGUNDO.- Las presentes reformas al Reglamento, entrarán en vigor al día siguiente de la publicación ordenada en el artículo anterior.
+
+P.O. 13 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento de Acceso a la Información Pública del Poder Judicial del Estado de Baja California, publicado en fecha 13 de abril de 2007, en el Periódico Oficial del Estado, número 16, Tomo CXIV, así como en el Boletín Judicial número 11,071, volumen XLII de esa misma fecha.
+
+TERCERO.- El Consejo emitirá los lineamientos generales para la clasificación, desclasificación y resguardo de la información, la protección y manejo de datos personales que obren en los bancos de datos de carácter personal del Poder Judicial, la organización de sus archivos, así como para el trámite correspondiente a las peticiones de acceso para la obtención, rectificación o sustitución de datos personales, dentro de los seis meses siguientes a la entrada en vigor de este Reglamento.
+
+CUARTO.- Notifíquese al Órgano Garante la integración del Comité una vez que éste se haya instalado formalmente.
+
+QUINTO.- Publíquese en el Boletín Judicial del Estado para los efectos correspondientes, y difúndase entre los órganos jurisdiccionales, órganos auxiliares y órganos administrativas (sic) del Poder Judicial del Estado de Baja California.
