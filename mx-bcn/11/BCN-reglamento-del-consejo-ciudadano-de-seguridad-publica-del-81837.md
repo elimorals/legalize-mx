@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-ciudadano-de-seguridad-publica-del-81837
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-10"
-last_updated: "2011-06-10"
+last_updated: "2012-04-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2011.
 
@@ -131,7 +131,9 @@ Los cargos de Consejeros son honoríficos, y por lo tanto, no recibirán retribu
 
 La designación de los Consejeros Ciudadanos, que deba realizar el Ejecutivo Estatal, se llevará a cabo en los siguientes términos:
 
-I.- Dentro de los primeros quince días naturales del mes de Enero de cada tres años, emitirá convocatoria pública, a través del Periódico Oficial del Estado de Baja California y cuando menos en un diario de circulación estatal, a efecto de que las organizaciones de la sociedad civil, asociaciones empresariales, agrupaciones profesionales legalmente constituidas e instituciones de educación superior, presenten sus propuestas por escrito y acrediten la satisfacción de los requisitos mencionados en el Artículo 13 del Reglamento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+
+I.- Dentro de los primeros seis meses de cada tres años, emitirá convocatoria pública, a través del Periódico Oficial del Estado de Baja California y cuando menos en un diario de circulación estatal, a efecto de que las organizaciones de la sociedad civil, asociaciones empresariales, agrupaciones profesionales legalmente constituidas e instituciones de educación superior, presenten sus propuestas por escrito y acrediten la satisfacción de los requisitos mencionados en el Artículo 13 del Reglamento.
 
 El plazo para la presentación de propuestas será de veinte días naturales, contados a partir del día siguiente a aquél en que se publique la convocatoria en el Periódico Oficial del Estado.
 
@@ -462,3 +464,11 @@ SECRETARIO GENERAL DE GOBIERNO
 DANIEL DE LA ROSA ANAYA
 
 SECRETARIO DE SEGURIDAD PÚBLICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
