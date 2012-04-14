@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-publica-para-el-estado-de-tabasco-71263"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-26"
-last_updated: "2010-05-22"
+last_updated: "2012-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO
 
-LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2012.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 26 de diciembre de 2009.
 
@@ -1039,25 +1039,55 @@ La persuasión o disuasión verbal realizada por la autoridad de seguridad públ
 
 Los Cuerpos de Seguridad Pública deberán elaborar el reglamento, los procedimientos, manuales y mecanismos de control correspondientes.
 
-## TÍTULO OCTAVO. Del Otorgamiento de la Seguridad Personal
+> <small>(REFORMADA SU DENOMINACIÓN, 14 DE ABRIL DE 2012)</small>
+
+## TÍTULO OCTAVO. Del Otorgamiento de Seguridad Personal
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2012)</small>
+
 ###### Artículo 74.
 
-Para efectos de esta Ley se entiende como seguridad personal a la protección mínima indispensable que otorga el Estado a una persona que se encuentre en los supuestos de este Título, con el propósito de salvaguardar su vida e integridad física o la de su familia.
+Para efectos de esta Ley se entiende como seguridad personal a la protección mínima indispensable que otorga el Estado a aquellas personas que se encuentren en los supuestos de este Título, con el propósito de salvaguardar su vida e integridad física, así como la de su familia en línea ascendente y descendente hasta el primer grado.
+
+El plazo por el que se otorgará la Seguridad Personal a que se refiere este título, se determinará conforme a lo que establezca el Reglamento respectivo, la disponibilidad presupuestal y las circunstancias particulares del caso, no podrá exceder del plazo por el que se ejerció el cargo y podrá ser prorrogado si persiste la causa, salvo lo previsto en el artículo 76.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2012)</small>
 
 ###### Artículo 75.
 
-Aquella persona que requiera de seguridad personal por el desarrollo de una actividad lícita o por un hecho por el cual se vea involucrado accidentalmente, podrá solicitarla a la autoridad competente.
+Corresponde a las autoridades estatales en materia de Seguridad Pública implementar las medidas conducentes para garantizar la seguridad personal de quienes desempeñen o hayan desempeñado por lo menos un año, los siguientes cargos públicos en la entidad:
 
-###### Artículo 76.
+I. Gobernador del Estado;
 
-Es facultad del Secretario autorizar las solicitudes para el otorgamiento de la seguridad personal.
+II. Secretario de Gobierno;
+
+III. Procurador General de Justicia;
+
+IV. Secretario de Seguridad Pública;
+
+V. Presidente del Tribunal Superior de Justicia;
+
+VI. Subprocurador General de Justicia; y,
+
+VII. Director de Averiguaciones Previas.
+
+Del mismo modo, se podrá otorgar seguridad personal a otros servidores o ex servidores públicos que con motivo del ejercicio de sus funciones o habiendo concluido éstas, lo soliciten y la requieran como consecuencia del riesgo asumido en el desempeño de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2012)</small>
+
+###### Artículo 75 Bis.
+
+Es facultad del Secretario, previo acuerdo con el Gobernador del Estado, autorizar el otorgamiento de seguridad personal a quienes así lo soliciten.
 
 El Procurador General de Justicia del Estado podrá solicitar protección a víctimas, ofendidos, testigos del delito, en términos de la legislación aplicable.
 
-Se podrá otorgar seguridad a aquellos servidores públicos que con motivo del ejercicio de sus funciones o habiendo concluido estas, requieran de seguridad personal.
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2012)</small>
+
+###### Artículo 76.
+
+En períodos electorales, las autoridades estatales de Seguridad Pública deberán brindar las medidas de seguridad personal a los candidatos a Gobernador del Estado, desde el momento en que, de acuerdo con los mecanismos internos de su partido, se ostente con tal carácter. Así mismo y desde el momento señalado, podrá otorgársele exclusivamente a los candidatos a diputados y presidentes municipales, que lo soliciten a través del Presidente del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco.
 
 ## TÍTULO NOVENO. De los Servicios de Seguridad Privada
 
@@ -1421,7 +1451,7 @@ LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE MAYO DE 2010.
 
@@ -1432,3 +1462,9 @@ SEGUNDO.- Tanto el personal como los recursos materiales y financieros destinado
 TERCERO.- El Poder Ejecutivo contará con tres meses a partir de la entrada en vigor del presente Decreto para concluir las transferencias de recursos humanos, materiales y financieros para la operación del Centro de Evaluación y Control de Confianza que dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 CUARTO.- El Titular del Poder Ejecutivo, dentro de un término de 90 días hábiles, contados a partir de la vigencia del presente decreto, deberá realizar las adecuaciones reglamentarias a los ordenamientos jurídicos que resultaren aplicables, con relación a este mandamiento legislativo.
+
+P.O. 14 DE ABRIL DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. En un plazo no mayor a 90 días contados a partir de la publicación de este Decreto, el Ejecutivo del Estado deberá expedir el reglamento que determine los lineamientos, alcances y medidas conducentes para el otorgamiento de seguridad personal a quienes esta ley les reconoce ese derecho.
