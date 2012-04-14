@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2011-09-07"
+last_updated: "2012-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 14 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -115,13 +117,13 @@ XVI.- La asistencia social;
 
 XVII.- La participación con las autoridades federales en el desarrollo de los programas contra el alcoholismo y el tabaquismo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P. O. 14 DE AGOSTO DEL 2010)</small>
 
 XVIII.- El control sanitario de los expendios de alimentos, bebidas alcohólicas y no alcohólicas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY..</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO DEL P.O. 14 DE AGOSTO DE 2010 Y DEL P.O. 13 DE AGOSTO DE 2011 QUE MODIFICAN LA LEY.</small>
 
 > <small>(REFORMADA, P. O. 14 DE AGOSTO DEL 2010)</small>
 
@@ -173,7 +175,7 @@ Son autoridades sanitarias estatales:
 
 I.- El Gobernador del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -211,9 +213,9 @@ VI.- Impulsar en el ámbito estatal un sistema racional de administración y des
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 7.
 
@@ -273,13 +275,13 @@ La concertación de acciones entre la Secretaría de Salud y los integrantes de 
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -2770,3 +2772,33 @@ P.O. 7 DE SEPTIEMBRE DE 2011.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Estatal de Salud, publicada en el Periódico Oficial del Estado, el día 3 de marzo de 1987.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los Reglamentos y Normas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas que la autoridad sanitaria Federal haya expedido.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo Estatal de Salud a que se refiere la presente Ley, deberá instalarse a más tardar treinta días después de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Los artículos 3o., fracciones XXI, XXIII y XXIV; 202, inciso c); 203, fracciones III y IV; 243; 244 y 245, de la presente Ley, entrarán en vigor el día 20 de agosto del 2012, conforme lo dispone el Decreto No. 411/2011 II P.O.
+
+###### ARTÍCULO SÉPTIMO.
+
+Remítase el presente Decreto, para su publicación en el Periódico Oficial del Estado.
