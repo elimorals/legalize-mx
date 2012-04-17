@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-protectora-de-bosques-del-estado-60596
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2008-03-14"
+last_updated: "2012-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2012.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2008.
 
@@ -85,13 +87,17 @@ El Consejo Directivo es el órgano de gobierno de PROBOSQUE, sus determinaciones
 
 El Consejo Directivo se integrará por:
 
-I. Un Presidente, quien será el Secretario de Desarrollo Agropecuario.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+I. Un Presidente, quien será el Secretario del Medio Ambiente.
 
 II. Un Secretario Técnico, quien será designado por el Consejo Directivo a propuesta de su Presidente.
 
 III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
 
-IV. Cinco Vocales, quienes serán los representantes de las Secretarías de Finanzas, de Desarrollo Económico, de Desarrollo Urbano, del Agua y Obra Pública y del Medio Ambiente.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+IV. Cinco Vocales, quienes serán los representantes de las Secretarías de Finanzas, de Desarrollo Económico, de Desarrollo Urbano, del Agua y Obra Pública y de Desarrollo Agropecuario.
 
 El Consejo Directivo, a través de su Presidente, podrá invitar a sus sesiones de trabajo a especialistas o personas que contribuyan a la atención de los asuntos a su cargo.
 
@@ -153,7 +159,9 @@ IX. Presentar al Consejo Directivo para su autorización, los programas especial
 
 X. Someter a la aprobación del Consejo Directivo, los anteproyectos de presupuesto anual de ingresos y de egresos de PROBOSQUE y remitirlos a la Secretaría ele Finanzas.
 
-XI. Celebrar acuerdos, convenios y contratos con autoridades federales, estatales y municipales y con los sectores social y privado, a efecto de cumplir con el objeto de PROBOSQUE, dando cuenta de ello al Consejo Directivo.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+XI. Celebrar acuerdos, convenios y contratos con autoridades federales, estatales y municipales, así como con los sectores social y privado, a efecto de cumplir con el objeto de PROBOSQUE, dando cuenta de ello al Consejo Directivo.
 
 XII. Presentar al Consejo Directivo para su aprobación, los proyectos de reglamento interno, estructura orgánica y manual general de organización de PROBOSQUE, así como sus modificaciones.
 
@@ -243,19 +251,27 @@ XV. Las demás que les señalan otras disposiciones legales y aquellas que les e
 
 Corresponde a la Dirección de Protección Forestal:
 
-I. Formular, coordinar, ejecutar, controlar y evaluar los programas y proyectos relacionados con la prevención, detección y combate de incendios forestales; sanidad, inspección, vigilancia y difusión forestal, así como la promoción de proyectos productivos en zonas forestales, para la protección y conservación de los recursos forestales en el Estado.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+I. Formular, coordinar, ejecutar, controlar y evaluar los programas y proyectos relacionados con la prevención, detección, combate y control de incendios forestales; sanidad, inspección, vigilancia y difusión forestal, así como la promoción de proyectos productivos en zonas forestales, para la protección y conservación de los recursos forestales en el Estado de México.
 
 II. Establecer estrategias y acciones para la protección forestal en zonas críticas del Estado y contra la tala clandestina.
 
-III. Realizar campañas emergentes y permanentes para la prevención y combate de incendios, plagas y enfermedades forestales.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+III. Realizar campañas emergentes y permanentes para la prevención, combate y control de incendios, plagas y enfermedades forestales.
 
 IV. Proponer estrategias y mecanismos que permitan reducir el cambio de uso de suelo en terrenos con vocación forestal, a fin de evitar la pérdida o degradación de la cubierta forestal en la entidad.
 
-V. Realizar inspecciones a predios con o sin autorización de aprovechamiento forestal, al transporte de productos forestales, a los centros de almacenamiento y transformación de materias primas forestales maderables y no maderables y a los productos que generen, a fin de verificar el cumplimiento de la normatividad en la materia.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+V. Realizar inspecciones a predios con o sin autorización de aprovechamiento forestal, al transporte de productos forestales, a los centros de almacenamiento y transformación de materias primas forestales maderables y no maderables y a los productos que generen, a fin de verificar el cumplimiento de la normatividad en la materia, en el marco de los convenios o acuerdos firmados con la federación.
 
 VI. Planear y ejecutar operativos para el combate a la tala clandestina, con el apoyo de otras autoridades competentes.
 
-VII. Coordinar sus acciones con los sectores público, social y privado en la planeación, ejecución y evaluación de programas orientados a la prevención, detección y combate de incendios forestales; sanidad, inspección, vigilancia y difusión forestal, así como para el desarrollo de la industria y la comercialización forestal.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+VII. Coordinar sus acciones con los sectores público, social y privado en la planeación, ejecución y evaluación de programas orientados a la prevención, detección, combate y control de incendios forestales; sanidad, inspección, vigilancia y difusión forestal, así como para el desarrollo de la industria y la comercialización forestal.
 
 VIII. Ordenar las medidas de seguridad que correspondan, cuando en las visitas u operativos de inspección se determine que existe riesgo inminente de daño o deterioro grave a los ecosistemas forestales.
 
@@ -269,11 +285,15 @@ XII. Establecer sistemas de control, almacenamiento y disposición de los bienes
 
 XIII. Impulsar y coordinar campañas de saneamiento de los bosques, en términos de los convenios o acuerdos celebrados con el Gobierno Federal.
 
-XIV. Integrar, organizar y capacitar a grupos encargados de la detección y combate de incendios, plagas y enfermedades forestales, así como de la inspección y vigilancia forestal.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+XIV. Integrar, organizar y capacitar a grupos pertenecientes a núcleos agrarios encargados de la detección, combate y control de incendios forestales, plagas y enfermedades forestales, así como de la vigilancia forestal.
 
 XV. Proponer el establecimiento de áreas de reserva, monumentos naturales y zonas de protección forestal, a fin de conservar los ecosistemas y fomentar el desarrollo de los recursos forestales.
 
-XVI. Promover la difusión de programas de educación y capacitación forestal en materia de conservación, protección, restauración y aprovechamiento sostenible de los recursos forestales, así como de emergencias e incendios forestales.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+XVI. Promover la difusión de programas de educación y capacitación forestal en materia de conservación, protección, restauración y aprovechamiento sustentable de los recursos forestales, así como de emergencia e incendios forestales.
 
 XVII. Promover la regulación de la industria de aserrío, con base en la capacidad productiva de los bosques de la entidad.
 
@@ -391,6 +411,8 @@ V. Contribuir al mejoramiento de los servicios que proporcionan las Delegaciones
 
 VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 18.
 
 Corresponde a la Unidad Jurídica:
@@ -403,21 +425,29 @@ III. Atender e interponer las demandas, amparos, juicios, citatorios y demás re
 
 IV. Sustanciar el procedimiento administrativo y de carácter legal, cuya aplicación corresponda a PROBOSQUE, en términos de la legislación aplicable.
 
-V. Coadyuvar con el Ministerio Público en el seguimiento a las denuncias interpuestas con motivo de la violación a la legislación forestal y en la recuperación de la reparación del daño.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
 
-VI. Ingresar al fondo de PROBOSQUE la recuperación de los recursos por la reparación del daño de las denuncias interpuestas con motivo de la violación a la legislación forestal.
+V. Coadyuvar con el Ministerio Público en el seguimiento a las denuncias interpuestas con motivo de la violación a la legislación en la materia y en la recuperación de la reparación del daño.
 
-VII. Asistir jurídicamente al personal de PROBOSQUE en las diligencias de carácter judicial, sobre asuntos inherentes al Organismo.
+VI. (DEROGADA, G.G. 17 DE ABRIL DE 2012)
+
+VII. (DEROGADA, G.G. 17 DE ABRIL DE 2012)
 
 VIII. Difundir entre el personal de PROBOSQUE los ordenamientos jurídicos que se vinculen con el desarrollo de sus funciones.
 
-IX. Elaborar o validar los proyectos de instrumentos jurídicos y administrativos que pretenda suscribir o expedir PROBOSQUE y someterlos a la consideración o aprobación del Director General.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
 
-X. Elaborar dictámenes jurídicos para la autorización de los permisos de aprovechamiento forestal, en términos de los convenios o acuerdos celebrados con el Gobierno Federal.
+IX. Elaborar y validar en su caso, los proyectos de instrumentos jurídicos y administrativos que suscriba PROBOSQUE y someterlos a la consideración o aprobación del Director General.
+
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+IX (SIC). Dictaminar en materia jurídica las solicitudes relacionadas con los programas y convenios propios de PROBOSQUE.
 
 XI. Determinar las infracciones e imponer las sanciones que correspondan en términos de la normatividad aplicable.
 
-XII. Dictaminar el destino final a los bienes decomisados, una vez que exista resolución al respecto, en términos de la normatividad aplicable.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+XII. Dictaminar el destino final de los bienes decomisados, una vez que exista resolución al respecto, en términos de la normatividad aplicable.
 
 XIII. Gestionar ante la autoridad correspondiente, el cobro de las multas que se impongan con motivo de la comisión de infracciones a la normatividad forestal federal, en términos de los convenios celebrados con el Gobierno Federal.
 
@@ -441,7 +471,9 @@ V. Vigilar el cumplimiento de los lineamientos que al efecto emita la Secretaria
 
 VI. Conocer, tramitar y resolver los recursos administrativos que le correspondan y/o realizar la defensa jurídica de las resoluciones que emita, ante las diversas instancias jurisdiccionales, o en su caso, tramitarlos ante la Secretaría de la Contraloría para su instrucción.
 
-VII. Instar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que constituyan la probable responsabilidad penal de los servidores públicos de PROBOSQUE.
+> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+
+VII. Dar vista a la autoridad competente e instar al área facultada del Organismo que se presenten las denuncias correspondientes cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que constituyan la probable responsabilidad penal de los servidores públicos de PROBOSQUE.
 
 VIII. Promover y verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de PROBOSQUE, sujetos a esta obligación.
 
@@ -496,3 +528,13 @@ ING. JORGE RESCALA PÉREZ
 DIRECTOR GENERAL DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO Y SECRETARIO TÉCNICO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 17 DE ABRIL DE 2012.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
