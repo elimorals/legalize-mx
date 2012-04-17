@@ -4,7 +4,7 @@ identifier: "FED-ley-general-del-sistema-nacional-de-seguridad-publica-64772"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-01-02"
-last_updated: "2010-11-30"
+last_updated: "2012-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64772&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGSNSP"
 ---
 # LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
+LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -130,13 +130,17 @@ X. Realizar acciones y operativos conjuntos de las Instituciones de Seguridad P�
 
 XI. Participar en la protección y vigilancia de las Instalaciones Estratégicas del país en los términos de esta ley y demás disposiciones aplicables;
 
-XII. Determinar la participación de la comunidad y de instituciones académicas en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-XIII. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
+XII. Garantizar que todos los centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, cuenten con equipos que permitan bloquear o anular de manera permanente las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de los mismos;
 
-XIV. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos, y
+XIII. Determinar la participación de la comunidad y de instituciones académicas en coadyuvancia de los procesos de evaluación de las políticas de prevención del delito, así como de las Instituciones de Seguridad Pública, a través de mecanismos eficaces;
 
-XV. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+XIV. Implementar mecanismos de evaluación en la aplicación de los fondos de ayuda federal para la seguridad pública;
+
+XV. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos, y
+
+XVI. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
 
 ###### Artículo 8.
 
@@ -578,17 +582,19 @@ V. Promover la adopción del trabajo comunitario como mecanismo de reinserción 
 
 VI. Plantear criterios para eficientar los convenios que se celebren entre la Federación, los Estados y el Distrito Federal, a efecto de que los sentenciados por delitos del ámbito de su competencia, extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa, con estricto apego a las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en las bases de datos criminalísticos y de personal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+VIII. Formular los lineamientos para que la federación y las entidades federativas cumplan, en el ámbito de sus competencias, con la obligación de adquirir, instalar y mantener en operación equipos que permitan bloquear o anular de manera permanente las señales de telefonía celular, de radiocomunicación, o de transmisión de voz, datos o imagen en el perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación.
 
-VIII. Formular los lineamientos para que la federación y las entidades federativas soliciten, en el ámbito de sus competencias, la colaboración de los prestadores de servicios de telecomunicaciones, para que en el ámbito técnico operativo se restrinja de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos, o imagen en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación, y
+Dichos equipos serán operados por autoridades distintas a las de los establecimientos penitenciarios en centros remotos, contarán con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y serán monitoreados por el Sistema Nacional de Seguridad Pública, con la colaboración de los concesionarios de redes públicas de telecomunicaciones.
+
+El bloqueo de señales a que se refiere este artículo se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación móvil y en ningún caso excederá de veinte metros fuera de las instalaciones de los centros o establecimientos a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
 
 IX. Las demás que establezcan las disposiciones legales aplicables y el Consejo Nacional.
 
@@ -726,13 +732,13 @@ XI. Integrar y consultar la información relativa a la operación y Desarrollo P
 
 XII. Destinar los fondos de ayuda federal para la seguridad pública exclusivamente a estos fines y nombrar a un responsable de su control y administración;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 XIII. Participar en la ejecución de las acciones para el resguardo de las Instalaciones Estratégicas del país;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2084,9 +2090,9 @@ El resguardo de las instalaciones estratégicas queda a cargo de la Federación,
 
 El Ejecutivo Federal constituirá un Grupo de Coordinación Interinstitucional para las Instalaciones Estratégicas, que expedirá, mediante acuerdos generales de observancia obligatoria, la normatividad aplicable en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 149.
 
@@ -2146,7 +2152,7 @@ México, D.F., a 11 de diciembre de 2008.- Sen. Gustavo Enrique Madero Muñoz, P
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta de diciembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 30 DE NOVIEMBRE DE 2010.
 
@@ -2173,3 +2179,9 @@ Décimo. Para el establecimiento y organización de las unidades especializadas 
 Décimo Primero. El H. Congreso de la Unión podrá facultar a las víctimas u ofendidos por los delitos previstos en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria del artículo 73 fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.
 
 Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a las disposiciones aplicables para que los recursos que correspondan sean destinados al Fondo a que se refiere el artículo 38 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 17 DE ABRIL DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Los lineamientos a que se refiere la fracción VIII del artículo 31 de la Ley General del Sistema Nacional de Seguridad Pública, se emitirá en un plazo de 30 días a partir de la entrada en vigor del presente Decreto.
