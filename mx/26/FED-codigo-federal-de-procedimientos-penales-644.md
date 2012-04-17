@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2011-10-24"
+last_updated: "2012-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1934-08-23"
 ---
 # CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
+CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -159,7 +159,7 @@ XIV. Las demás que le confieran este Código y demás disposiciones aplicables.
 
 En el ejercicio de la función investigadora a que se refiere este artículo, queda estrictamente prohibido a la Policía recibir declaraciones del indiciado o detener a alguna persona, fuera de los casos de flagrancia, sin que medien instrucciones escritas del Ministerio Público, del juez o del tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 4o.
 
@@ -179,7 +179,7 @@ En el procedimiento de ejecución, el Poder Ejecutivo, por conducto del órgano 
 
 ### CAPITULO I. Competencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 6o.
 
@@ -255,7 +255,7 @@ Las actuaciones se podrán practicar a toda hora y aun en los días inhábiles, 
 
 Cuando intervengan en las actuaciones personas pertenecientes a los pueblos o comunidades indígenas, deberán ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura, debiendo asentarse tal circunstancia en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 16.
 
@@ -291,7 +291,7 @@ En el proceso, los tribunales presidirán los actos de prueba y recibirán, por 
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, la taquigrafía, el dictáfono y cualquier otro medio que tenga por objeto reproducir imágenes o sonidos y el medio empleado se hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 17.
 
@@ -355,7 +355,7 @@ Si antes de que se pongan las firmas o huellas los comparecientes hicieren algun
 
 Podrán entregarse al Ministerio Público los expedientes para que los estudie fuera del local del tribunal, pero no a las demás partes que intervengan en ellos. Estas y el ofendido podrán imponerse de los autos de la Secretaría del tribunal, debiéndose tomar las medidas necesarias para que no los destruyan, alteren o substraigan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 24.
 
@@ -437,7 +437,7 @@ Las fianzas que deban otorgarse ante los tribunales se sujetarán a las disposic
 
 En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituído de su empleo, sin perjuicio de que sea consignado al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 36.
 
@@ -451,7 +451,7 @@ Cuando cambiare el personal de un tribunal, no se proveerá auto alguno haciendo
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 38.
 
@@ -511,7 +511,7 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 44.
 
@@ -593,7 +593,7 @@ En casos urgentes, notificado que fuere de ello previamente el Ministerio Públi
 
 (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 53.
 
@@ -639,7 +639,7 @@ Los exhortos de los tribunales extranjeros deberán tener, además de los requis
 
 ### CAPITULO VII. Cateos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 61.
 
@@ -703,7 +703,7 @@ Se formará un inventario de los objetos que se recojan relacionados con el deli
 
 Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para que los reconozca y ponga en ellos su firma o rúbrica, si fueren susceptibles de ello; y si no supiere firmar, sus huellas digitales. En caso contrario, se unirá a ellos una tira de papel que se sellará en la juntura de los dos extremos y se invitará al inculpado a que firme o ponga sus huellas digitales. En ambos casos se hará constar esta circunstancia, así como si no pudiere firmar o poner sus huellas digitales, o se negare a ello.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ### CAPITULO VIII. Plazos y términos
 
@@ -771,7 +771,7 @@ Asimismo podrá ordenarse por teléfono a la policía que haga la citación, cum
 
 También podrá citarse por teléfono a la persona que haya manifestado expresamente su voluntad para que se le cite por ese medio, dando el número del aparato al cual debe hablársele, sin perjuicio de que si no es hallada en ese lugar o no se considera conveniente hacerlo de esa manera, se le cite por alguno de los otros medios señalados en este Capítulo.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
 ###### ARTICULO 80.
 
@@ -803,7 +803,7 @@ Cuando se ignorare la residencia de la persona que deba ser citada, se encargar�
 
 Se agregará al expediente un ejemplar del periódico en la parte que contiene la inserción, de modo que se identifique el periódico, la fecha de publicación y la sección y página en la que ésta aparece.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 84.
 
@@ -977,7 +977,7 @@ Las notificaciones se harán a más tardar el día siguiente al en que se dicten
 
 Cuando la resolución entrañe una citación o un término para la práctica de una diligencia, se notificará personalmente con cuarenta y ocho horas de anticipación, cuando menos, al día y hora en que se haya de celebrar la actuación o audiencia a que se refiera, debiéndose tomar en cuenta lo dispuesto en el segundo párrafo del artículo 72 de este Código, y asistiéndose de traductor si la persona por notificarse no habla o no entiende suficientemente el idioma castellano.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 104.
 
@@ -1029,13 +1029,13 @@ Las notificaciones hechas contra lo dispuesto en este Capítulo serán nulas, ex
 
 ### CAPITULO I. Iniciación del procedimiento
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ## TITULO SEGUNDO. Averiguación previa
 
 ### CAPITULO II. Reglas especiales para la práctica de diligencias y levantamiento de actas de averiguación previa
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 113.
 
@@ -1107,11 +1107,11 @@ En los casos del artículo anterior, se requerirá a quien haya presentado el do
 
 Este artículo se aplicará también en lo conducente cuando se tache de falso a un testigo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO III. Consignación ante los tribunales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 123.
 
@@ -1285,7 +1285,7 @@ III.- Las nuevas consideraciones que se realicen del estudio de la averiguación
 
 IV.- Los resolutivos de la nueva determinación.
 
-> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
@@ -1308,6 +1308,18 @@ Corresponderá al Ministerio Público y a sus auxiliares vigilar que el mandato 
 El cumplimiento a la prohibición de abandonar una demarcación geográfica podrá ser vigilado de manera personal o a través de cualquier medio tecnológico.
 
 El afectado podrá solicitar que las medidas cautelares queden sin efecto, cuando considere que las causas que le dieron origen han desaparecido. En este supuesto, la autoridad judicial escuchará al Ministerio Público y al afectado, y resolverá si debe o no mantenerse.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 133 Quáter.
+
+Tratándose de investigaciones en materia de delincuencia organizada, delitos contra la salud, secuestro, extorsión o amenazas, el Procurador General de la República o los servidores públicos en quienes delegue la facultad, solicitarán por simple oficio o medios electrónicos a los concesionarios o permisionarios del servicio de telecomunicaciones la localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea, que se encuentren relacionados.
+
+De todas las solicitudes, la autoridad dejará constancia en autos y las mantendrá en sigilo.
+
+En ningún caso podrá desentenderse la solicitud y toda omisión imputable al concesionario o permisionarios, será sancionada en términos de lo previsto por el artículo 178 Bis del Código Penal Federal.
+
+Se castigará a la autoridad investigadora que utilice los datos e información obtenidos como resultado de localización geográfica de equipos de comunicación móvil para fines distintos a los señalados en este artículo, en términos de lo establecido en la fracción IV del artículo 214 del Código Penal Federal.
 
 ### CAPITULO UNICO. Acción penal
 
@@ -1339,7 +1351,7 @@ En caso de que la detención de una persona exceda los plazos señalados en el a
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación del tipo penal, como por lo que respecta a los elementos que deban tomarse en cuenta para fijar el monto de la garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 135.
 
@@ -1593,7 +1605,7 @@ Las diligencias de policía judicial y las practicadas por los tribunales del or
 
 La nulidad y los recursos planteados contra las resoluciones de los tribunales comunes a que se refiere este artículo, cuando actúen en los términos de la fracción VI del artículo 1o. de la Ley Orgánica del Poder Judicial de la Federación, serán resueltos conforme a lo establecido en este Código, por el tribunal federal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 146.
 
@@ -1637,7 +1649,7 @@ Para los efectos de este artículo, se resolverá y diligenciará el embargo, no
 
 Se entiende que el inculpado se encuentra sustraído a la acción de la justicia a partir del momento en que se dicta en su contra orden de aprehensión, reaprehensión o comparecencia, y hasta en tanto se ejecuta ésta.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 150.
 
@@ -1679,7 +1691,7 @@ El inculpado podrá optar por el procedimiento ordinario dentro de los tres día
 
 ### CAPITULO III. Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para procesar
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 153.
 
@@ -1847,11 +1859,11 @@ También en estos casos, el Ministerio Público podrá promover prueba, en ejerc
 
 ## TITULO QUINTO. Disposiciones comunes a la averiguación previa y a la Instrucción
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ### CAPITULO II. Huellas del delito.- Aseguramiento de los Instrumentos y objetos del mismo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 168.
 
@@ -1929,7 +1941,7 @@ En los casos de aborto o de infanticidio, además de las diligencias mencionadas
 
 Tratándose del delito a que se refiere la fracción II del artículo 368 del Código Penal, cuando, sin previo contrato con una empresa de energía eléctrica, de gas, o de cualquier fluido, se encuentre conectada a una instalación particular a las tuberías o líneas de la empresa respectiva, o a cualquier tubería o líneas particulares conectadas a las tuberías o líneas de dicha empresa, en la inspección que se practique, con asistencia de peritos en la materia, se harán constar estas circunstancias y se recabará el dictamen pericial que las describa y además precise la naturaleza del fluido de que se trate y cuantifique, en lo posible, la cantidad de fluido que haya sido consumido mediante la conexión de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 177.
 
@@ -1949,7 +1961,7 @@ Para el acreditamiento de la propiedad federal, no se exigirá la presentación 
 
 Cuando tratándose de delito de ataques a las vías de comunicación, no fuere posible practicar inspección porque para evitar perjuicios al servicio público haya sido necesario repararlas inmediatamente, se practicará inspección de las huellas u otros signos que constituyan posibles indicios de la existencia del hecho incriminado y de la antigüedad y extensión de la reparación, además de recabarse facturas u otros documentos relativos a ella y cualesquiera otras pruebas a las que se pueda tener acceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 180.
 
@@ -2383,7 +2395,7 @@ ARTICULO 193 Octavus.- El Ministerio Público y la policía deberán informar a 
 
 Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los ordenamientos legales siguientes:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 I. Del Código Penal Federal, los delitos siguientes:
 
@@ -2441,7 +2453,7 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 23) Homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 Bis, 320 y 323;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2549,13 +2561,13 @@ XV. De la Ley General de Salud, los previstos en las fracciones I, II y III del 
 
 XVI. De la Ley para Prevenir y Sancionar la Trata de Personas, los previstos en los artículos 5 y 6;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 XVII. Los previstos en el artículo 49 de la Ley Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2569,7 +2581,7 @@ La tentativa punible de los ilícitos penales mencionados en las fracciones ante
 
 En los casos de delito flagrante y en casos urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, quien transcurrido dicho plazo, deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse respecto de los delitos a que se refiere la ley federal en materia de delincuencia organizada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 ###### ARTICULO 195.
 
@@ -3109,7 +3121,7 @@ Los documentos redactados en idioma extranjero se presentarán originales, acomp
 
 Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que designe el tribunal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ### CAPITULO IX. Valor Jurídico de la Prueba
 
@@ -3153,7 +3165,7 @@ En caso de no ejercicio de la acción penal y una vez transcurrido el plazo lega
 
 La autoridad judicial calificará el valor de la confesión, tomando en cuenta los requisitos previstos en el artículo 287 y razonando su determinación, según lo dispuesto en el artículo 290.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 280.
 
@@ -3199,7 +3211,7 @@ La información, datos o pruebas obtenidas con motivo de recompensas, no podrán
 
 Los tribunales, según la naturaleza de los hechos y el enlace lógico y natural, más o menos necesario que exista entre la verdad conocida y la que se busca, apreciarán en conciencia el valor de los indicios hasta poder considerarlos como prueba plena.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
 ###### ARTICULO 287.
 
@@ -3397,13 +3409,13 @@ En la audiencia podrán interrogar al acusado sobre los hechos materia del juici
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba o cite a nueva audiencia, no procede recurso alguno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 307.
 
 Cuando se esté en los casos a que se refieren los apartados a), b) y c) del artículo 152, la audiencia principiará presentando el Ministerio Público sus conclusiones y contestándolas a continuación la defensa. Si aquéllas fueren acusatorias, se seguirá el procedimiento señalado en el artículo anterior, dictándose la sentencia en la misma audiencia o dentro de los cinco días siguientes a ésta. Si las conclusiones fueren de las contempladas en el artículo 294, se suspenderá la audiencia y se estará en lo previsto en el artículo 295.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO III. Aclaración de sentencia
 
@@ -3747,7 +3759,7 @@ El tribunal resolverá el recurso oyendo a las partes en una audiencia que se ef
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó ésta inexactamente, si se violaron los principios reguladores de la valoración de la prueba, si se alteraron los hechos o no se fundó o motivó correctamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 364.
 
@@ -3851,7 +3863,7 @@ El duplicado o testimonio debe remitirse dentro de cinco días y si no se cumple
 
 En el caso al que se refiere el párrafo anterior, el juez remitirá al tribunal de apelación, junto con el testimonio, un informe indicando el estado que guarda el proceso al momento en que dictó el auto recurrido, para los efectos de la última parte del artículo 364.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 373.
 
@@ -3933,7 +3945,7 @@ La reposición del procedimiento se decretará a petición de parte, debiendo ex
 
 No obstante lo dispuesto en el artículo anterior si el tribunal de apelación encuentra que hubo violación manifiesta del procedimiento, que haya dejado sin defensa al procesado, y que sólo por torpeza o negligencia de su defensor no fue combatida debidamente, deberá suplir la deficiencia y ordenar que se reponga dicho procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ###### ARTICULO 388.
 
@@ -4081,7 +4093,7 @@ IV.- Que no se trate de alguno de los delitos calificados como graves en el art�
 
 La caución a que se refiere la fracción III y las garantías a que se refieren las fracciones I y II, podrán consistir en depósito en efectivo, fianza, prenda, hipoteca o fideicomiso formalmente constituido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 399 Bis.
 
@@ -4139,7 +4151,7 @@ Las garantías a que se refieren las fracciones I y II del artículo 399 sólo p
 
 Si se negare la libertad caucional podrá solicitarse de nuevo y concederse por causas supervenientes.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
 
 ###### ARTICULO 402.
 
@@ -4155,7 +4167,7 @@ IV.- Las condiciones económicas del inculpado; y
 
 V.- La naturaleza de la garantía que se ofrezca.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 403.
 
@@ -4219,7 +4231,7 @@ También se le harán saber las causas de revocación de la libertad caucional.
 
 En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones y las causas de revocación; pero la omisión de este requisito no librará de ellas ni de sus consecuencias al inculpado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 412.
 
@@ -4249,7 +4261,7 @@ VII.- Cuando el inculpado no cumpla con algunas de las obligaciones a que se ref
 
 VIII.- En el caso señalado en la parte final del último párrafo del artículo 400.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 413.
 
@@ -4765,7 +4777,7 @@ Las providencias precautorias que pudiere intentar quien tenga derecho a la repa
 
 Los incidentes cuya tramitación no se detalle en este Código y que, a juicio del tribunal, no puedan resolverse de plano y sean de aquéllos que no deban suspender el curso del procedimiento, se substanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación o a más tardar dentro de los tres días siguientes. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el tribunal fallará desde luego el incidente.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 TITULO DECIMOSEGUNDO
 
@@ -4813,7 +4825,7 @@ En las Entidades federativas donde hubiere dos o más tribunales para menores, c
 
 ###### ARTICULO 503.
 
-(DEROGADO POR EL ARTICULO TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES, PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 504.
 
@@ -4891,7 +4903,7 @@ En las Entidades federativas donde hubiere dos o más tribunales para menores, c
 
 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -4931,7 +4943,7 @@ Ejecución
 
 En toda sentencia condenatoria el tribunal que la dicte prevendrá que se amoneste al sentenciado para que no reincida, advirtiéndole las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el artículo 42 del Código Penal Federal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia y de habitualidad que fueren procedentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 529.
 
@@ -5031,7 +5043,7 @@ Cuando se conceda la libertad preparatoria se recibirá una información sobre l
 
 Admitido el fiador se otorgará la fianza en los términos que este código establece para la libertad bajo caución y se extenderá al sentenciado un salvoconducto para que pueda comenzar a disfrutar de la libertad preparatoria. Esta concesión se comunicará al jefe de la prisión respectiva, a la autoridad del lugar que se señale para la residencia del mismo sentenciado y al tribunal que haya conocido del proceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 544.
 
@@ -5101,7 +5113,7 @@ Dictada la resolución se comunicará al tribunal que haya conocido del proceso 
 
 (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
 ### CAPITULO VII. Rehabilitación
 
@@ -5119,7 +5131,7 @@ Cuando se trate del indulto a que se refiere la fracción III del artículo 97 d
 
 El Ejecutivo, en vista de los comprobantes, o si así conviniere a la tranquilidad y seguridad públicas tratándose de delitos políticos, concederá el indulto sin condición alguna o con las que estimare convenientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 560.
 
@@ -5195,7 +5207,7 @@ La rehabilitación de los derechos políticos se otorgará en la forma y términ
 
 La rehabilitación de los derechos civiles o políticos no procederá mientras el sentenciado esté extinguiendo la sanción privativa de libertad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 571.
 
@@ -5267,7 +5279,7 @@ México, D. F., a 28 de agosto de 1934.- El Subsecretario de Gobernación, Encar
 
 Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 9 DE ENERO DE 1954.
 
@@ -5301,7 +5313,7 @@ La presente reforma entrará en vigor simultáneamente a la reforma del artícul
 
 D.O.F. 31 DE DICIEMBRE DE 1974.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -5351,7 +5363,7 @@ Las presentes reformas entrarán en vigor a los treinta días de su publicación
 
 D.O.F. 19 DE NOVIEMBRE DE 1986.
 
-DECRETO QUE REFORMA EL PRIMER PARRAFO DEL ARTICULO 181 DEL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES.
+DECRETO QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 181 DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES.
 
 ###### ARTICULO UNICO.
 
@@ -5359,7 +5371,7 @@ Las presentes reformas entrarán en vigor a los noventa días de su publicación
 
 D.O.F. 19 DE NOVIEMBRE DE 1986.
 
-DECRETO QUE REFORMA AL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES (ARTICULOS 1, 4, 5, 6, 10, 17, ETC.).
+DECRETO QUE REFORMA AL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES (ARTÍCULOS 1, 4, 5, 6, 10, 17, ETC.).
 
 ###### ARTICULO UNICO.
 
@@ -5379,7 +5391,7 @@ UNICO.- El presente Decreto entrará en vigor el día 1o. de abril de 1989.
 
 D.O.F. 31 DE OCTUBRE DE 1989.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO PRIMERO.
 
@@ -5393,7 +5405,7 @@ UNICO.- El presente decreto entrará en vigor a partir del primero de febrero de
 
 D.O.F. 24 DE DICIEMBRE DE 1991.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
 
@@ -5433,7 +5445,7 @@ TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administr
 
 D.O.F. 13 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5445,7 +5457,7 @@ SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el 
 
 D.O.F. 31 DE DICIEMBRE DE 1998.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
 
@@ -5473,7 +5485,7 @@ CUARTO.- Las referencias que en el presente Decreto se hagan al Código Penal pa
 
 D.O.F. 17 DE MAYO DE 1999.
 
-DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CREDITO, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO, DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS, DE LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO Y DEL CODIGO FEDERAL DE PROCEDIMIENTOS PENALES.
+DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES DE CRÉDITO, DE LA LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CRÉDITO, DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS, DE LA LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS, DE LA LEY DEL MERCADO DE VALORES, DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO Y DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5589,7 +5601,7 @@ D.O.F. 7 DE DICIEMBRE DE 2007.
 
 D.O.F. 26 DE JUNIO DE 2008.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -5607,7 +5619,7 @@ TERCERO. Dentro de los seis meses siguientes a la entrada en vigor del presente 
 
 D.O.F. 9 DE JUNIO DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5684,3 +5696,7 @@ CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigenci
 D.O.F. 24 DE OCTUBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2012.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
