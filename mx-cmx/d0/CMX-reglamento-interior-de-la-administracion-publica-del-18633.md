@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2012-03-23"
+last_updated: "2012-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE ABRIL DE 2012.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -156,9 +156,9 @@ E) La Dirección Ejecutiva de Sanciones Penales.
 
 Quedan adscritos a esta Secretaría los Órganos Político-Administrativos de cada demarcación territorial.
 
-> <small>(REFORMADO, G.O. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2012)</small>
 
-Asimismo, se le adscribe el órgano desconcentrado Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal y el órgano denominado Autoridad del Centro Histórico.
+Asimismo, se le adscriben los órganos desconcentrados Sistema de Radio y Televisión Digital del Gobierno del Distrito Federal; Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos del Distrito Federal, que tendrá las facultades que establece la Ley del Programa de Derechos Humanos del Distrito Federal; y el órgano denominado Autoridad del Centro Histórico.
 
 > <small>(REFORMADA, G.O. 30 DE JUNIO DE 2010)</small>
 
@@ -14759,3 +14759,9 @@ G.O. 23 DE MARZO DE 2012.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 17 DE ABRIL DE 2012.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
