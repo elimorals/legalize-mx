@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-telecomunicaciones-2611"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1995-06-07"
-last_updated: "2012-01-16"
+last_updated: "2012-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2611&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-06"
 
 LEY FEDERAL DE TELECOMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 7 de junio de 1995.
 
@@ -89,6 +89,10 @@ XV. Servicio de radiodifusión: servicio de telecomunicaciones definido por el a
 
 XVI. Servicio de radio y televisión: el servicio de audio o de audio y video asociado que se presta a través de redes públicas de telecomunicaciones, así como el servicio de radiodifusión.
 
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+XVII. Localización geográfica en tiempo real: es la ubicación aproximada en el momento en que se procesa una búsqueda de un equipo terminal móvil asociado a una línea telefónica determinada.
+
 ###### Artículo 4.
 
 Para los efectos de esta Ley, son vías generales de comunicación el espectro radioeléctrico, las redes de telecomunicaciones y los sistemas de comunicación vía satélite.
@@ -131,19 +135,19 @@ X. Promover el fortalecimiento de los valores culturales y de la identidad nacio
 
 XI. Promover la investigación y el desarrollo tecnológico en materia de telecomunicaciones, la capacitación y el empleo de mexicanos cuyas relaciones laborales se sujetarán a la legislación de la materia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 XII. Interpretar esta Ley para efectos administrativos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIII. (DEROGADA, D.O.F. 17 DE ABRIL DE 2012)
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-XIII. Supervisar a través de la Comisión Federal de Telecomunicaciones, la elaboración y actualización por parte de los concesionarios del Registro Nacional de Usuarios de Telefonía Móvil, y
+XIV. Prestar asesoría técnica a las autoridades competentes para la instalación y operación de equipos que permitan bloquear o anular de manera permanente las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación, y
 
-XIV. Las demás que esta Ley y otros ordenamientos legales le confieran en la materia.
+XV. Las demás que esta Ley y otros ordenamientos legales le confieran en la materia.
 
 ###### Artículo 8.
 
@@ -333,17 +337,15 @@ A. Los programas y compromisos de inversión, de cobertura y calidad de los serv
 
 B. El plan de negocios;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 C. Las especificaciones técnicas de los proyectos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADO, D.O.F. 9 DE FEBRERO DE 2009)</small>
-
-D. En el caso de los servicios de telecomunicaciones, las acciones coordinadas con la autoridad correspondiente, que permitan combatir los delitos de extorsión, amenazas, el secuestro en cualquiera de sus modalidades o algún delito grave o relacionado con la delincuencia organizada, así como las medidas necesarias para llevar un registro pormenorizado y preciso sobre los usuarios de teléfonos móviles, así como los nuevos cuentahabientes de este servicio, con la debida protección de datos, y
+D. En el caso de los servicios de telecomunicaciones, las acciones coordinadas con la autoridad correspondiente, que permitan combatir los delitos de extorsión, amenazas, el secuestro en cualquiera de sus modalidades o algún delito grave o relacionado con la delincuencia organizada.
 
 E. Opinión favorable de la Comisión Federal de Competencia.
 
@@ -581,11 +583,21 @@ Al término de la concesión o de las prórrogas que se hubieren otorgado, rever
 
 El Gobierno Federal tendrá derecho preferente para adquirir las instalaciones, equipos y demás bienes utilizados directamente en la explotación de las bandas de frecuencias, posiciones orbitales u órbitas satelitales, objeto de la concesión.
 
-#### SECCIÓN I. DE LA OPERACIÓN E INTERCONEXIÓN DE REDES PÚBLICAS DE TELECOMUNICACIONES
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+#### SECCIÓN VIII. DE LA OBLIGACIÓN DE COLABORAR CON LA JUSTICIA
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### Artículo 40 Bis.
+
+Los concesionarios o permisionarios del servicio de telecomunicaciones, están obligados a colaborar con las autoridades en la localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea que se encuentren relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud, secuestro, extorsión o amenazas a solicitud del Procurador General de la República, de los procuradores de las entidades federativas o de los servidores públicos en quienes deleguen esta facultad, de conformidad con las leyes correspondientes.
+
+Cualquier omisión o desacato a estas disposiciones será sancionada por la autoridad, en los términos de lo previsto por el artículo 178 Bis del Código Penal Federal.
 
 ### CAPÍTULO IV. DE LA OPERACIÓN DE SERVICIOS DE TELECOMUNICACIONES
 
-#### SECCIÓN II. DE LA COBERTURA SOCIAL DE LAS REDES PÚBLICAS
+#### SECCIÓN I. DE LA OPERACIÓN E INTERCONEXIÓN DE REDES PÚBLICAS DE TELECOMUNICACIONES
 
 ###### Artículo 41.
 
@@ -647,33 +659,21 @@ VII. Prestar los servicios sobre las bases tarifarias y de calidad contratadas c
 
 VIII. Permitir la conexión de equipos terminales, cableados internos y redes privadas de los usuarios, que cumplan con las normas establecidas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 IX. Abstenerse de establecer barreras contractuales, técnicas o de cualquier naturaleza a la conexión de cableados ubicados dentro del domicilio de un usuario con otros concesionarios de redes públicas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 X. Actuar sobre bases no discriminatorias al proporcionar información de carácter comercial, respecto de sus suscriptores, a filiales, subsidiarias o terceros;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XI. (DEROGADA, D.O.F. 17 DE ABRIL DE 2012)
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
-
-XI. Llevar un registro y control separado de sus usuarios, tanto en la modalidad de líneas contratadas en plan tarifario, como en líneas de prepago, el cual contenga como mínimo los siguientes datos:
-
-a) Número y modalidad de la línea telefónica;
-
-b) Nombre completo, domicilio, nacionalidad, número correspondiente y demás datos contenidos en identificación oficial vigente con fotografía, así como comprobante de domicilio actualizado del usuario y toma de impresión de huella dactilar directamente en tinta y/o electrónicamente;
-
-c) En caso de personas morales, además de los datos de los incisos a) y b), se deberá registrar la razón social de la empresa, cédula fiscal y copia del documento que acredite capacidad para contratar.
-
-Los concesionarios deberán conservar copias fotostáticas o en medios electrónicos de los documentos necesarios para dicho registro y control; así como mantener la reserva y protección de las bases de datos personales, las cuales no podrán ser usadas con fines diferentes a los señalados en las leyes;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
@@ -693,7 +693,7 @@ f) La obligación de conservación de datos a que se refiere la presente fracci�
 
 Los concesionarios tomarán las medidas técnicas necesarias respecto de los datos objeto de conservación, que garanticen su conservación, cuidado, protección, no manipulación o acceso ilícito, destrucción, alteración o cancelación, así como el personal autorizado para su manejo y control;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
@@ -705,29 +705,49 @@ Los concesionarios están obligados a entregar la información dentro del plazo 
 
 El Reglamento establecerá los procedimientos, mecanismos y medidas de seguridad que los concesionarios deberán adoptar para identificar al personal facultado para acceder a la información, así como las medidas técnicas y organizativas que impidan su manipulación o uso para fines distintos a los legalmente autorizados, su destrucción accidental o ilícita o su pérdida accidental, así como su almacenamiento, tratamiento, divulgación o acceso no autorizado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
+XIV. Realizar el bloqueo inmediato de líneas de comunicación móvil que funcionen bajo cualquier modalidad reportadas por los clientes, utilizando cualquier medio, como robadas o extraviadas; así como realizar la suspensión inmediata del servicio de telefonía para efectos de aseguramiento cuando así lo instruya la Comisión Federal de Telecomunicaciones, de conformidad con lo establecido en el Código Federal de Procedimientos Penales.
 
-XIV. Realizar el bloqueo inmediato de las líneas contratadas bajo cualquier modalidad, reportados por los clientes o usuarios como robados o extraviados; realizar la actualización respectiva en el registro de usuarios de telefonía; así como realizar la suspensión inmediata del servicio de telefonía para efectos de aseguramiento cuando así lo instruya la Comisión Federal de Telecomunicaciones, de conformidad con lo establecido en el Código Federal de Procedimientos Penales.
+Los concesionarios están obligados a establecer procedimientos que permitan recibir reportes y acreditar la titularidad de líneas de forma expedita.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-En caso de que los usuarios vendan o cedan una línea de telefonía en cualquiera de sus modalidades de contratación, deberán dar aviso al concesionario, a efecto de que dicha línea sea bloqueada, en tanto sea registrado el nuevo usuario, conforme a la fracción XI del presente artículo;
+XV. Desactivar permanentemente el servicio de telefonía o radiocomunicación de los equipos de comunicación móvil reportados por los clientes o usuarios como robados o extraviados. Dicho reporte deberá incluir el código de identidad de fabricación del equipo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Los concesionarios deberán celebrar convenios de colaboración que les permitan intercambiar listas de equipos de comunicación móvil reportados por sus respectivos clientes o usuarios como robados o extraviados, ya sea que los reportes se hagan ante la autoridad competente o ante los propios concesionarios.
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV. Informar a los clientes o usuarios de servicios de telefonía en cualquiera de sus modalidades, previo a su venta, de la existencia y contenido del registro y su disponibilidad a los agentes facultados, y
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+XVI. Contar con sistemas, equipos y tecnologías que permitan la ubicación o localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea.
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-XVI. Colaborar con las autoridades competentes para que en el ámbito técnico operativo se restrinja de manera permanente todo tipo de comunicación, ya sea transmisión de voz, datos o imagen en los Centros de Readaptación Social Federales y de las Entidades Federativas, cualquiera que sea su denominación.
+XVII. Asignar un área con responsables operativos en la función de colaborar con las autoridades en la localización geográfica, en tiempo real, de los equipos de comunicación móvil que se encuentren relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud, secuestro, extorsión o amenazas.
 
-La restricción a las comunicaciones tendrá el objetivo de inhibir la señal de cualquier banda de frecuencia que se limite al perímetro de los centros de readaptación social, además de que se procurará la continuidad y seguridad de los servicios a sus usuarios al exterior de dichos centros. En la colaboración a que se refiere el párrafo anterior se deberán considerar, entre ellos, los elementos técnicos de reemplazo, mantenimiento y servicio.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XVI], D.O.F. 17 DE ABRIL DE 2012)</small>
+
+XVIII. Colaborar con las autoridades competentes para que en el ámbito técnico operativo se cancelen o anulen de manera permanente las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social, establecimientos penitenciarios o centros de internamiento para menores, federales o de las entidades federativas, cualquiera que sea su denominación.
+
+El bloqueo de señales a que se refiere el párrafo anterior se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación y en ningún caso excederá de veinte metros fuera de las instalaciones de los centros o establecimientos a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos. En la colaboración que realicen los concesionarios se deberán considerar los elementos técnicos de reemplazo, mantenimiento y servicio.
+
+Los concesionarios están obligados a colaborar con el Sistema Nacional de Seguridad Pública en el monitoreo de la funcionalidad u operatividad de los equipos utilizados para el bloqueo permanente de las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen.
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+XIX. Garantizar que los equipos de comunicación móvil cuenten con una combinación de teclas que al ser digitadas permitan a los clientes o usuarios enviar señales de auxilio.
+
+La Comisión mediante disposiciones administrativas de carácter general determinará una marcación corta conformada por signos poco habituales para evitar que la señal de auxilio sea producto de error.
+
+Las señales de auxilio serán enviadas de forma automática a un sistema nacional de atención de emergencias a fin de garantizar la intervención oportuna de las autoridades de la federación, de las entidades federativas o de los municipios, en el ámbito de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+XX. Realizar estudios e investigaciones que tengan por objeto el desarrollo de medidas tecnológicas que permitan inhibir y combatir la utilización de equipos de telecomunicaciones para la comisión de delitos. Los concesionarios podrán voluntariamente constituir una organización que tenga como fin la realización de los citados estudios e investigaciones.
+
+Los resultados que se obtengan se registrarán en un informe anual que se remitirá al Congreso de la Unión y a la Comisión.
 
 ###### Artículo 45.
 
@@ -757,7 +777,7 @@ La Secretaría establecerá las medidas conducentes para que los usuarios de tod
 
 La información que se transmita a través de las redes y servicios de telecomunicaciones será confidencial, salvo aquella que, por su propia naturaleza, sea pública, o cuando medie orden de autoridad competente.
 
-#### SECCIÓN III. DE LA OPERACIÓN DE LAS COMERCIALIZADORAS DE SERVICIOS
+#### SECCIÓN II. DE LA COBERTURA SOCIAL DE LAS REDES PÚBLICAS
 
 ###### Artículo 50.
 
@@ -771,17 +791,13 @@ La Secretaría asegurará la disponibilidad de bandas de frecuencias en los caso
 
 En el caso de que no exista en una localidad determinada otro concesionario o permisionario que proporcione servicios similares, el concesionario de redes públicas de telecomunicaciones que dé servicio en dicha localidad, de conformidad con las condiciones que establezca su respectiva concesión, no podrá interrumpir la prestación de dicho servicio, salvo causa de fuerza mayor o que cuente con autorización expresa de la Secretaría.
 
-#### SECCIÓN IV. DE LA COMUNICACIÓN VÍA SATÉLITE
+#### SECCIÓN III. DE LA OPERACIÓN DE LAS COMERCIALIZADORAS DE SERVICIOS
+
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2012)</small>
 
 ###### Artículo 52.
 
 Para los efectos de esta Ley, se entiende por comercializadora de servicios de telecomunicaciones toda persona que, sin ser propietaria o poseedora de medios de transmisión, proporciona a terceros servicios de telecomunicaciones mediante el uso de capacidad de un concesionario de redes públicas de telecomunicaciones.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE FEBRERO DE 2009)</small>
-
-Los concesionarios deberán pactar con las comercializadoras de servicios los requisitos de operación y funcionamiento de conformidad con los artículos 7, 16, 44 y 64, bajo carácter de información confidencial, una Base de Datos, con el registro de identificación, domicilio actual con comprobante de referencia, toma de impresión de huella dactilar directamente en tinta y/o electrónicamente, y servicios ofrecidos de los usuarios de servicios de telecomunicaciones.
 
 ###### Artículo 53.
 
@@ -790,6 +806,8 @@ Salvo aprobación expresa de la Secretaría, los concesionarios de redes públic
 ###### Artículo 54.
 
 El establecimiento y operación de las empresas comercializadoras de servicios de telecomunicaciones deberá sujetarse, invariablemente, a las disposiciones reglamentarias respectivas.
+
+#### SECCIÓN IV. DE LA COMUNICACIÓN VÍA SATÉLITE
 
 ###### Artículo 55.
 
@@ -835,53 +853,77 @@ La regulación tarifaria que se aplique buscará que las tarifas de cada servici
 
 ### CAPÍTULO VI. DEL REGISTRO DE TELECOMUNICACIONES
 
-> <small>(REFORMADO, D.O.F. 11 DE ABRIL DEL 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ABRIL DEL 2012)</small>
 
 ###### Artículo 64.
 
-La Secretaria llevará el Registro de Telecomunicaciones, que incluirá el servicio de radiodifusión, en el que se inscribirán:
+La Secretaría llevará el Registro de Telecomunicaciones, que incluirá el servicio de radiodifusión, en el que se inscribirán:
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 I. Los títulos de concesión, los permisos y las asignaciones otorgadas; en su caso, las modificaciones de carácter legal o técnico de las concesiones o permisos y los datos generales por categoría, modalidad y distribución geográfica;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 II. El Cuadro Nacional de Atribución de Frecuencias y sus actualizaciones, así como la información relativa a los usuarios de cada segmento por región, con excepción de las bandas utilizadas para fines de seguridad pública y nacional;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 III. Los servicios de valor agregado;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 IV. Los gravámenes impuestos a las concesiones y permisos;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 V. La cesión de derechos y obligaciones;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 VI. Las bandas de frecuencias otorgadas en las distintas zonas del país;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 VII. Los convenios de interconexión con otras redes;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 VIII. Las tarifas al público de los servicios de telecomunicaciones;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 IX. Las tarifas mínimas autorizadas a que se refiere el artículo 53 de la Ley Federal de Radio y Televisión;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 X. Las disposiciones legales, reglamentarias y administrativas aplicables a los servicios de telecomunicaciones;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 XI. Los criterios adoptados por el Pleno relacionados con la interpretación administrativa de las disposiciones aplicables. Esta información deberá actualizarla la Comisión trimestralmente;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 XII. El informe anual de la Comisión;
+
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 XIII. Los acuerdos internacionales suscritos por los Estados Unidos Mexicanos en materia de telecomunicaciones;
 
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
+
 XIV. Estadísticas actualizadas de los servicios de telecomunicaciones, acorde con la metodología de medición reconocida o recomendada por la Unión Internacional de Telecomunicaciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 XV. Las sanciones que imponga la Secretaría y, tratándose de radiodifusión, las que imponga la Secretaría de Gobernación inclusive, todas aquellas contempladas en el Código Penal Federal y en los Códigos Penales de cada una de las entidades federativas, así como aquellas que hubieren quedado firmes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XVI. (DEROGADA, D.O.F. 17 DE ABRIL DE 2012)
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
-
-XVI. En los casos de contratación de telefonía móvil, los concesionarios deberán solicitar la Credencial para votar emitida por el Instituto Federal Electoral y/o Cédula Única del Registro Nacional de Población (CURP) y/o Pasaporte, y acompañarlo con constancia de domicilio oficial con recibo de agua, luz y/o teléfono, además de la impresión de la huella dactilar directamente en tinta y/o electrónicamente.
-
-En el caso de teléfonos públicos fijos convencionales y celulares deberá ofrecer el registro de la llamada que incluya número telefónico y ubicación del teléfono, y
+> <small>(REFORMADA, D.O.F. 11 DE ABRIL DEL 2006)</small>
 
 XVII. Cualquier otro documento relativo a las operaciones de los concesionarios, permisionarios o asignatarios, cuando los reglamentos y demás disposiciones de carácter general derivados de esta Ley, de la Ley Federal de Radio y Televisión, u otras disposiciones legales o reglamentarias exijan dicha formalidad.
 
@@ -939,23 +981,21 @@ II. No cumplir con las obligaciones en materia de operación e interconexión de
 
 III. Ejecutar actos que impidan la actuación de otros concesionarios o permisionarios con derecho a ello;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 IV. No llevar contabilidad separada por servicios de acuerdo a las disposiciones de esta Ley o sus reglamentos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
 
 V. Interceptar información que se transmita por las redes públicas de telecomunicaciones, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA. D.O.F. 17 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADA, D.O.F. 9 DE FEBRERO DE 2009)</small>
-
-VI. No cumplir en tiempo y forma, con las obligaciones establecidas en las fracciones XI, XII, XIII, XIV y XV del artículo 44 de esta Ley, en materia de telefonía.
+VI. No cumplir en tiempo y forma, con las obligaciones establecidas en las fracciones XII, XIII, XIV, XV, XVI y XVIII del artículo 44 de esta Ley, en materia de telefonía.
 
 B. Con multa de 4,000 a 40,000 salarios mínimos por:
 
@@ -1041,7 +1081,7 @@ México, D.F., a 18 de mayo de 1995.- Sen. Germán Sierra Sánchez, Presidente.-
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de junio de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 11 DE ABRIL DEL 2006.
 
@@ -1073,13 +1113,9 @@ SEGUNDO.- La Comisión Federal de Telecomunicaciones elaborará el proyecto de r
 
 TERCERO.- La Comisión Federal de Telecomunicaciones deberá expedir en un plazo no mayor a treinta días contados a partir de la publicación del presente Decreto, aquellas disposiciones administrativas para reglamentar el registro de usuarios de telefonía, así como la actualización de datos personales y registros fehacientes de identificación y ubicación de los usuarios que contratan telefonía en cualquiera de sus modalidades.
 
-CUARTO.- En el caso del registro de usuarios de telefonía móvil en cualquiera de sus modalidades adquiridas con anterioridad a la entrada en vigor del presente Decreto, los concesionarios contarán con un plazo de un año para cumplir con las obligaciones de registro y control a que se refiere el presente Decreto.
+CUARTO.- (DEROGADO, D.O.F. 17 DE ABRIL DE 2012)
 
-Los concesionarios deberán realizar una campaña de información, sin costo adicional, dirigida a sus clientes y que garantice el derecho a los usuarios en esta modalidad de servicios, para informarles de la obligación de registrar y actualizar los datos, presentando el equipo celular o chip inteligente, así como la documentación correspondiente, y de las consecuencias en caso de no hacerlo dentro del plazo señalado, consistente en la suspensión del servicio, sin derecho a reactivación, pago o indemnización alguna.
-
-Transcurrido el plazo señalado, existe la obligación por parte de los concesionarios de cancelar en forma inmediata las líneas de telefonía móvil, que no hayan sido identificadas o registradas por los usuarios o clientes.
-
-QUINTO.- El registro de los nuevos usuarios de telefonía móvil a que se refiere el presente Decreto, deberá realizarse por los concesionarios en forma inmediata a partir de su entrada en vigor.
+QUINTO.- (DEROGADO, D.O.F. 17 DE ABRIL DE 2012)
 
 SEXTO.- Los concesionarios deberán realizar campañas y programas informativos a sus clientes o usuarios para incentivar la obligación de denunciar en forma inmediata el robo o extravío de sus equipos celulares o chips inteligentes, para prevenir cualquier uso indebido de las líneas, así como en los casos que se trate de venta o cesión de una línea telefónica.
 
@@ -1120,3 +1156,13 @@ Segundo. La Secretaría en un plazo no mayor a 90 días naturales, contados a pa
 La Secretaría de Hacienda y Crédito Público, así como las autoridades correspondientes, fijarán en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente Decreto, el monto de la contraprestación que los concesionarios de servicios públicos deban pagar al Estado por la asignación del Espectro de Uso Oficial de conformidad a las leyes de la materia.
 
 Tercero. Los concesionarios de servicios públicos deberán acreditar 30 días naturales antes de la fecha en que les sean asignadas las frecuencias para uso oficial, ante la Dirección General de Política de Telecomunicaciones y de Radiodifusión, de la Secretaría, la necesidad de contar con el uso de esas frecuencias, para la operación y seguridad del servicio que prestan, con la documentación que resulte idónea de acuerdo a los criterios elaborados para tal efecto por dicha dependencia y deberán de pagar la contraprestación por la asignación de dichas frecuencias en el plazo que tenga a bien determinar las autoridades correspondientes.
+
+D.O.F. 17 DE ABRIL DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- La Secretaría de Gobernación y la Comisión Federal de Telecomunicaciones remitirán al Congreso de la Unión, un informe sobre el uso de los datos contenidos en el Registro Nacional de Usuarios de Telefonía Móvil y sobre las medidas destinadas a garantizar su debido resguardo y eventual cancelación, dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- La disposición contenida en la fracción XVI del artículo 44 de la Ley Federal de Telecomunicaciones entrará en vigor a los 60 días de la publicación en el Diario Oficial de la Federación del presente Decreto.
+
+Artículo Cuarto.- Los concesionarios y permisionarios de redes públicas de telecomunicaciones contarán con doce meses a partir de la entrada en vigor del presente Decreto para realizar las actualizaciones tecnológicas que garanticen una mayor precisión en la localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea, sin que este plazo permita desatender las obligaciones de localización geográfica con el equipo disponible.
