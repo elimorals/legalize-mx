@@ -4,7 +4,7 @@ identifier: "FED-estatutos-de-organizacion-y-funcionamiento-de-la-comision-76456
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-09-03"
-last_updated: "2010-09-03"
+last_updated: "2012-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76456&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2010-02-04"
 ---
 # ESTATUTOS DE ORGANIZACION Y FUNCIONAMIENTO DE LA COMISION PERMANENTE DE CERTIFICACION Y ACREDITACION DEL CONSEJO NACIONAL DE SEGURIDAD PUBLICA
 
-ESTATUTOS DE ORGANIZACION Y FUNCIONAMIENTO DE LA COMISION PERMANENTE DE CERTIFICACION Y ACREDITACION DEL CONSEJO NACIONAL DE SEGURIDAD PUBLICA
+ESTATUTOS DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN PERMANENTE DE CERTIFICACIÓN Y ACREDITACIÓN DEL CONSEJO NACIONAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
 
 Estatutos publicados en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 2010.
 
@@ -59,9 +59,17 @@ VIII.- Secretario: El Secretario de la Subcomisión de la Comisión Permanente d
 
 IX.- Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
-X.- Secretario Técnico: El Secretario Técnico de la Comisión Permanente de Certificación y Acreditación del Consejo Nacional de Seguridad Pública, y
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
 
-XI.- Subcomisión: La Subcomisión de la Comisión Permanente de Certificación y Acreditación del Consejo Nacional de Seguridad Pública.
+X.- Secretario Técnico: El Secretario Técnico de la Comisión Permanente de Certificación y Acreditación del Consejo Nacional de Seguridad Pública;
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+XI.- Subcomisión: La Subcomisión de la Comisión Permanente de Certificación y Acreditación del Consejo Nacional de Seguridad Pública, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 17 DE ABRIL DE 2012)</small>
+
+XII.- Subcomisión Especializada: La Subcomisión Especializada de la Comisión Permanente de Certificación y Acreditación del Consejo Nacional de Seguridad Pública.
 
 ###### Artículo 3.
 
@@ -81,9 +89,15 @@ II.- Coordinar los trabajos de elaboración, revisión y análisis de los asunto
 
 III.- Designar y remover al Secretario Técnico de la Comisión;
 
-IV.- Designar y remover al Coordinador de la Subcomisión, y
+IV.- Designar y remover al Coordinador de la Subcomisión, y (sic)
 
-IV (SIC).- Las demás que le confieran las disposiciones aplicables y el Consejo Nacional.
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+V.- Supervisar las actividades y solicitar los informes necesarios a los Coordinadores de la Subcomisión y de la Subcomisión Especializada, y
+
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+VI.- Las demás que le confieran las disposiciones aplicables y el Consejo Nacional.
 
 ###### Artículo 5.
 
@@ -130,6 +144,10 @@ XIV.- Las demás que le asignen los presentes Estatutos y las que le sean encome
 ###### Artículo 7.
 
 Para el adecuado cumplimiento de los objetivos y el apoyo de las funciones que tienen a su cargo, la Comisión contará con una Subcomisión, la cual estará integrada por los servidores públicos que designen cada uno de los miembros de la Comisión, quienes deberán tener el nivel jerárquico igual a la de Secretario de Estado o equivalente a titular a nivel federal y durarán el plazo que determine quien los designó o el plazo que determine la Comisión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE ABRIL DE 2012)</small>
+
+Con el objeto específico de fortalecer el Sistema Nacional de Acreditación y Control de Confianza, a que se refiere el Título Sexto la Ley, la Comisión contará además con una Subcomisión Especializada, la cual se integrará por los servidores públicos que para tal efecto designen cada uno de los miembros de la Comisión y demás miembros señalados en el artículo 32 de estos Estatutos, y durarán en el encargo el plazo que determine quien los designó o el que determine la Comisión, según corresponda.
 
 ###### Artículo 8.
 
@@ -189,7 +207,9 @@ La Comisión, además de las atribuciones que le confiera el Consejo Nacional, t
 
 I.- Determinar de los asuntos de la agenda del Consejo Nacional, cuáles serán objeto de revisión y análisis;
 
-II.- Determinar qué asuntos serán enviados a la Subcomisión para su revisión y análisis, y
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+II.- Determinar qué asuntos serán enviados a la Subcomisión y a la Subcomisión Especializada para su revisión y análisis, y
 
 III.- Las demás que establezcan los presentes Estatutos y otras disposiciones.
 
@@ -303,15 +323,71 @@ Los acuerdos de las reuniones de la Subcomisión, será (sic) tomados por mayor�
 
 ### Capítulo V. Rendición de Informes
 
+> <small>(REFORMADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
 ###### Artículo 28.
 
-La Comisión rendirá informes de sus actividades ante el Pleno del Consejo Nacional y la Subcomisión rendirá los informes de sus actividades ante la Comisión.
+La Comisión rendirá informes de sus actividades ante el Pleno del Consejo Nacional, la Subcomisión y la Subcomisión Especializada rendirán los informes de sus actividades ante la Comisión.
 
 ### Capítulo VI. De la Reforma a los Estatutos
 
 ###### Artículo 29.
 
 Los presentes Estatutos sólo podrán ser adicionados o reformados por acuerdo de la mayoría de los miembros de la Comisión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+### Capítulo VII. De la Subcomisión Especializada
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### Artículo 30.
+
+La organización y funcionamiento de la Subcomisión Especializada, será en los términos establecidos para la Subcomisión en los presentes Estatutos, salvo lo establecido en los artículos siguientes.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### Artículo 31.
+
+La Subcomisión Especializada, tendrá las siguientes funciones:
+
+I.- Impulsar investigaciones, análisis, propuestas, programas, estrategias y acciones orientadas a fortalecer la operación de los centros de evaluación y control de confianza de la Federación, de las entidades federativas y del Distrito Federal, y
+
+II.- Realizar las actividades que le sean encomendadas por la Comisión y/o su Presidente.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### Artículo 32.
+
+La Subcomisión Especializada, será dirigida por el Coordinador de la misma, estará conformada por éste, los servidores públicos señalados en el último párrafo del artículo 7 de estos Estatutos y por los titulares de los centros de evaluación y control de confianza de la Federación, de las entidades federativas y del Distrito Federal.
+
+Los titulares de los centros de evaluación y control de confianza podrán nombrar un suplente para los casos de ausencia, quien deberá de ocupar una plaza de jerarquía inmediata inferior.
+
+El Coordinador podrá ser suplido en sus ausencias, por cualquiera de los Directores Generales adjuntos del Centro Nacional.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### Artículo 33.
+
+El Coordinador de la Subcomisión Especializada, será el titular del Centro Nacional, quien además de las funciones establecidas en el artículo 8 de estos Estatutos, tendrá las siguientes:
+
+I.- Proponer a la Comisión la agenda anual de reuniones de carácter nacional, regional o por entidad federativa;
+
+II.- Presentar el informe correspondiente a la Comisión respecto del funcionamiento de la Subcomisión Especializada;
+
+III.- Servir de enlace entre la Comisión y los miembros de la Subcomisión Especializada;
+
+IV.- Invitar, organizar, presidir y dar seguimiento a reuniones de trabajo tanto de carácter nacional, regional o por entidad federativa, con los titulares de los centros de evaluación y control de confianza de la Federación, de las entidades federativas y del Distrito Federal, de conformidad con los presentes Estatutos;
+
+V.- Llevar el registro y control de los acuerdos determinados en las sesiones de la Subcomisión Especializada;
+
+VI.- Suscribir los acuerdos, convenios o cualquier otro instrumento jurídico o administrativo que se considere necesario en el ejercicio de las funciones y atribuciones que le están asignadas;
+
+VII.- Fungir de moderador en el desarrollo de las reuniones;
+
+VIII.- Convocar a servidores públicos, académicos, investigadores o a cualquier persona que se considere conveniente atendiendo a la temática y naturaleza de la reunión que se trate, y
+
+IX.- Convocar a las reuniones de la Subcomisión Especializada, previa aprobación del Presidente de la Comisión.
 
 ## TRANSITORIOS
 
@@ -322,3 +398,9 @@ Segundo.- Los acuerdos, resoluciones, convenios y normativa que la Comisión hay
 Atentamente
 
 Dados en la Ciudad de México, Distrito Federal, el día 4 de febrero de 2010.- El Gobernador del Estado de Baja California y Presidente de la Comisión Permanente de Certificación y Acreditación del Consejo Nacional de Seguridad Pública, José Guadalupe Osuna Millán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES ESTATUTOS.</small>
+
+D.O.F. 17 DE ABRIL DE 2012.
+
+Primero (sic).- Las presentes reformas a los Estatutos entrarán en vigor al día siguiente de su aprobación por la Comisión.
