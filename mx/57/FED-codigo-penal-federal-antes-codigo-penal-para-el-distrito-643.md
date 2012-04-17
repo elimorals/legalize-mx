@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2012-04-09"
+last_updated: "2012-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -33,7 +33,7 @@ El C. Presidente Constitucional de los Estados Unidos Mexicanos, se ha servido d
 
 Que en uso de las facultades que le fueron concedidas por Decreto de 2 de enero de 1931, ha tenido a bien expedir el siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE MAYO DE 1999)</small>
 
 CODIGO PENAL FEDERAL
 
@@ -149,7 +149,7 @@ Cuando algún miembro o representante de una persona jurídica, o de una socieda
 
 ### CAPITULO II. Tentativa
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 12.
 
@@ -165,7 +165,7 @@ Si el sujeto desiste espontáneamente de la ejecución o impide la consumación 
 
 ### CAPITULO III. Personas responsables de los delitos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 13.
 
@@ -223,7 +223,7 @@ III.- Que no hayan sabido antes que se iba a cometer el nuevo delito, y
 
 IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO IV. Causas de exclusión del delito
 
@@ -283,7 +283,7 @@ Al que se exceda en los casos de defensa legítima, estado de necesidad, cumplim
 
 Las causas de exclusión del delito se investigarán y resolverán de oficio o a petición de parte, en cualquier estado del procedimiento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO V. Concurso de Delitos
 
@@ -375,7 +375,7 @@ XIII (SIC).- Inhabilitación, destitución o suspensión de funciones o empleos.
 
 18.- Decomiso de bienes correspondientes al enriquecimiento ilícito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -397,7 +397,7 @@ La privación de libertad preventiva se computará para el cumplimiento de la pe
 
 Los procesados sujetos a prisión preventiva y los reos políticos, serán recluídos en establecimientos o departamentos especiales.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO III. Tratamiento en libertad, semiliberación y trabajo en favor de la comunidad
 
@@ -469,7 +469,7 @@ III.- El resarcimiento de los perjuicios ocasionados.
 
 ARTICULO 30 bis.- Tienen derecho a la reparación del daño en el siguiente orden: 1o. El ofendido; 2o. En caso de fallecimiento del ofendido, el cónyuge supérstite o el concubinario o concubina, y los hijos menores de edad; a falta de éstos los demás descendientes y ascendientes que dependieran económicamente de él al momento del fallecimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 31.
 
@@ -513,7 +513,7 @@ VII.- El Estado, solidariamente, por los delitos dolosos de sus servidores públ
 
 La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las referentes a alimentos y relaciones laborales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 34.
 
@@ -569,7 +569,7 @@ El juzgador, teniendo en cuenta el monto del daño y la situación económica de
 
 La autoridad a quien corresponda el cobro de la multa podrá fijar plazos para el pago de ésta, tomando en cuenta las circunstancias del caso.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO VI. Decomiso de Instrumentos, Objetos y Productos del Delito
 
@@ -651,7 +651,7 @@ La publicación de sentencia se ordenará igualmente a título de reparación y 
 
 Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO XI. Vigilancia de la autoridad
 
@@ -665,7 +665,7 @@ La vigilancia consistirá en ejercer sobre el sentenciado observación y orienta
 
 ### CAPITULO I. Reglas generales
 
-> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 51.
 
@@ -675,7 +675,7 @@ Dentro de los límites fijados por la ley, los jueces y tribunales aplicarán la
 
 En los casos de los artículos 60, fracción VI, 61, 63, 64, 64 bis y 65 y en cualesquiera otros en que este Código disponga penas en proporción a las previstas para el delito intencional consumado, la punibilidad aplicable es, para todos los efectos legales, la que resulte de la elevación o disminución, según corresponda, de los términos mínimo y máximo de la pena prevista para aquél. Cuando se trate de prisión, la pena mínima nunca será menor de tres días.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 52.
 
@@ -727,7 +727,7 @@ Son aplicables las que se funden en circunstancias objetivas, si los demás suje
 
 Cuando la orden de aprehensión se dicte en contra de una persona mayor de 70 años de edad, el juez podrá ordenar que la prisión preventiva se lleve a cabo en el domicilio del indiciado bajo las medidas de seguridad que procedan de acuerdo con la representación social.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -735,7 +735,7 @@ No gozarán de esta prerrogativa quienes a criterio del juez puedan sustraerse d
 
 En todo caso la valoración por parte del juez se apoyará en dictámenes de peritos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -763,11 +763,11 @@ Cuando entre la comisión de un delito y la extinción de la pena o medida de se
 
 ARTICULO 59 bis.- (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO II. Aplicación de sanciones a los delitos culposos
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
 
 ###### ARTICULO 60.
 
@@ -835,13 +835,13 @@ En los casos de tentativa en que no fuere posible determinar el daño que se pre
 
 En los casos de tentativa punible de delito grave así calificado por la ley, la autoridad judicial impondrá una pena de prisión que no será menor a la pena mínima y podrá llegar hasta las dos terceras partes de la sanción máxima prevista para el delito consumado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO IV. Aplicación de sanciones en caso de concurso, delito continuado, complicidad, reincidencia y error vencible
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 64.
 
@@ -867,7 +867,7 @@ La reincidencia a que se refiere el artículo 20 será tomada en cuenta para la 
 
 En caso de que el inculpado por algún delito doloso calificado por la ley como grave, fuese reincidente por dos ocasiones por delitos de dicha naturaleza, la sanción que corresponda por el nuevo delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la pena máxima prevista para éste, sin que exceda del máximo señalado en el Título Segundo del Libro Primero.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -875,7 +875,7 @@ En caso de que el inculpado por algún delito doloso calificado por la ley como 
 
 En caso de que el error a que se refiere el inciso a) de la fracción VIII del artículo 15 sea vencible, se impondrá la punibilidad del delito culposo si el hecho de que se trata admite dicha forma de realización. Si el error vencible es el previsto en el inciso b) de dicha fracción, la pena será de hasta una tercera parte del delito que se trate.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ### CAPITULO V. Tratamiento de inimputables y de quienes tengan el hábito o la necesidad de consumir estupefacientes o psicotrópicos, en internamiento o en libertad
 
@@ -933,7 +933,7 @@ III.- Por multa, si la prisión no excede de dos años.
 
 La sustitución no podrá aplicarse a quien anteriormente hubiere sido condenado en sentencia ejecutoriada por delito doloso que se persiga de oficio. Tampoco se aplicará a quien sea condenado por algún delito de los señalados en la fracción I del artículo 85 de este Código.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
 
 ###### ARTICULO 71.
 
@@ -1029,7 +1029,7 @@ II.- Que del examen de su personalidad se presuma que está socialmente readapta
 
 III.- Que haya reparado o se comprometa a reparar el daño causado, sujetándose a la forma, medidas y términos que se le fijen para dicho objeto, si no puede cubrirlo desde luego.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE JUNIO DE 2006)</small>
 
 Llenados los requisitos anteriores, la autoridad competente tendrá un plazo no mayor a 30 días hábiles para conceder la libertad preparatoria o en su caso informar al interesado el resultado de su trámite, dicha libertad preparatoria estará sujeta a las siguientes condiciones:
 
@@ -1065,7 +1065,7 @@ d) Violación, previsto en los artículos 265, 266 y 266 bis;
 
 e) Homicidio, previsto en los artículos 315, 315 bis y 320;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1099,7 +1099,7 @@ II. Trata de personas previsto en los artículos 5 y 6 de la Ley para Prevenir y
 
 III. Los que incurran en segunda reincidencia de delito doloso o sean considerados delincuentes habituales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -1197,7 +1197,7 @@ IX.- En caso de falta de cumplimiento de las obligaciones contraídas por el con
 
 X.- El reo que considere que al dictarse sentencia reunía las condiciones fijadas en este precepto y que está en aptitud de cumplir los demás requisitos que se establecen, si es por inadvertencia de su parte o de los tribunales que no obtuvo en la sentencia el otorgamiento de la condena condicional, podrá promover que se le conceda, abriendo el incidente respectivo ante el juez de la causa.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ### CAPITULO V. Transparencia en los beneficios de libertad anticipada o condena condicional
 
@@ -1219,7 +1219,7 @@ La muerte del delincuente extingue la acción penal, así como las sanciones que
 
 La amnistía extingue la acción penal y las sanciones impuestas, excepto la reparación del daño, en los términos de la ley que se dictare concediéndola, y si no se expresaren, se entenderá que la acción penal y las sanciones impuestas se extinguen con todos sus efectos, con relación a todos los responsables del delito.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO III. Perdón del Ofendido o Legitimado para Otorgarlo
 
@@ -1233,9 +1233,9 @@ Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facul
 
 El perdón sólo beneficia al inculpado en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
 
-> <small>(DEROGADO QUINTO PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO IV. Reconocimiento de Inocencia e Indulto
 
@@ -1295,7 +1295,7 @@ Los plazos para la prescripción se duplicarán respecto de quienes se encuentre
 
 La prescripción producirá su efecto, aunque no la alegue como excepción el acusado. Los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 102.
 
@@ -1341,7 +1341,7 @@ La acción penal prescribirá en un plazo igual al término medio aritmético de
 
 La acción penal prescribirá en dos años, si el delito sólo mereciere destitución, suspensión, privación de derecho o inhabilitación, salvo lo previsto en otras normas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 107.
 
@@ -1449,7 +1449,7 @@ La ley que suprime el tipo penal o lo modifique, extingue, en su caso, la acció
 
 Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en el juicio se le absuelva o se le condene. Cuando se hubiese dictado sentencia en un proceso y aparezca que existe otro en relación con la misma persona y por los mismos hechos considerados en aquél, concluirá el segundo proceso mediante resolución que dictará de oficio la autoridad que esté conociendo. Si existen dos sentencias sobre los mismos hechos, se extinguirán los efectos de la dictada en segundo término.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO X. Extinción de las Medidas de Tratamiento de Inimputables
 
@@ -1459,23 +1459,23 @@ ARTICULO 118 bis.- Cuando el inimputable sujeto a una medida de tratamiento se e
 
 ## TITULO SEXTO. De los menores
 
-> <small>N. DE E. CON FECHA 24 DE DICIEMBRE DE 1991 FUE REPUBLICADA LA DEROGACION DEL ARTICULO 119 AL 122 POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.</small>
+> <small>N. DE E. CON FECHA 24 DE DICIEMBRE DE 1991 FUE REPUBLICADA LA DEROGACIÓN DEL ARTÍCULO 119 AL 122 POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.</small>
 
 ###### ARTICULO 119.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 120.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 121.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 ###### ARTICULO 122.
 
-(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
+(DEROGADO POR EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE CREA LOS CONSEJOS TUTELARES PARA MENORES INFRACTORES DEL DISTRITO Y TERRITORIOS FEDERALES, D.O.F. 2 DE AGOSTO DE 1974) (REPUBLICADO, D.O.F. 24 DE DICIEMBRE DE 1991)
 
 # LIBRO SEGUNDO
 
@@ -1781,7 +1781,7 @@ Se consideran delitos de carácter político los de rebelión, sedición, motín
 
 Se aplicará pena de cinco a cuarenta años de prisión y de ciento veinte a mil ciento cincuenta días multa, al funcionario o empleado de los Gobiernos Federal o Estatales, o de los Municipios, de organismos públicos descentralizados, de empresas de participación estatal o de servicios públicos, federales o locales, que incurran en alguno de los delitos previstos por este Título, con excepción del delito de terrorismo, cuya pena será de nueve a cuarenta y cinco años de prisión y de quinientos a mil ciento cincuenta días multa.
 
-(REUBICADO [N. DE E. ANTES TITULO TERCERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO SEGUNDO. Delitos contra el Derecho Internacional
 
@@ -1823,7 +1823,7 @@ ARTICULO 148 ter.- Se impondrá pena de cinco a diez años de prisión y de cien
 
 ARTICULO 148 quáter.- Se aplicará pena de seis a doce años de prisión y de doscientos a seiscientos días multa al que amenace con cometer el delito de terrorismo a que se refiere la fracción primera del artículo 148 Bis.
 
-(REUBICADO [N. DE E. ANTES TITULO CUARTO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO CUARTO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 148.
 
@@ -1839,7 +1839,7 @@ IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabe
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 28 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE JUNIO DE 2007)</small>
 
 ### CAPITULO I. Violación de los deberes de humanidad
 
@@ -1865,13 +1865,13 @@ Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien c
 
 En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
 
-(REUBICADO [N. DE E. ANTES TITULO QUINTO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO QUINTO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 149.
 
 Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, en los heridos, o en los hospitales de sangre, se le aplicará por ese solo hecho: prisión de tres a seis años, salvo lo dispuesto, para los casos especiales, en las leyes militares.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE ENERO DE 1967)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 20 DE ENERO DE 1967)</small>
 
 ### CAPITULO I. Evasión de presos
 
@@ -1883,11 +1883,11 @@ Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, 
 
 ## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ### CAPITULO III. Armas prohibidas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 150.
 
@@ -1917,7 +1917,7 @@ Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de co
 
 ### CAPITULO IV. Asociaciones delictuosas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ###### ARTICULO 155.
 
@@ -1931,7 +1931,7 @@ Al reo que se fugue estando bajo alguna de las sanciones privativas de libertad,
 
 Al sentenciado a confinamiento que salga del lugar que se le haya fijado para lugar de su residencia antes de extinguirlo, se le aplicará prisión por el tiempo que le falte para extinguir el confinamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 158.
 
@@ -1971,7 +1971,7 @@ Estos delitos, cuyo conocimiento compete al fuero común, se sancionarán sin pe
 
 Se necesita licencia especial para portación o venta de las pistolas o revólveres.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 162.
 
@@ -2021,7 +2021,7 @@ Las sanciones previstas en este artículo se impondrán sin perjuicio de las med
 
 ### CAPITULO II. Violación de correspondencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 164.
 
@@ -2039,7 +2039,7 @@ Se entiende por pandilla, para los efectos de esta disposición, la reunión hab
 
 Cuando el miembro de la pandilla sea o haya sido servidor público de alguna corporación policiaca, la pena se aumentará hasta en dos terceras partes de las penas que le corresponda por el o los delitos cometidos y se le impondrá además, destitución del empleo, cargo o comisión públicos e inhabilitación de uno a cinco años para desempeñar otro.
 
-(REUBICADO [N. DE E. ANTES TITULO SEXTO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO SEXTO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO SEXTO. Delitos contra la autoridad
 
@@ -2057,7 +2057,7 @@ Se llaman caminos públicos las vías de tránsito habitualmente destinadas al u
 
 Al que quite, corte o destruya las ataderas que detengan una embarcación u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a dos años si no resultare daño alguno; si se causare se aplicará además la sanción correspondiente por el delito que resulte.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 167.
 
@@ -2135,7 +2135,7 @@ II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa 
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
 
@@ -2175,11 +2175,11 @@ Al empleado de telégrafo, estación telefónica o estación inalámbrica que co
 
 A quien intervenga comunicaciones privadas sin mandato de autoridad judicial competente, se le aplicarán sanciones de seis a doce años de prisión y de trescientos a seiscientos días multa.
 
-(REUBICADO [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO SEPTIMO. Delitos contra la salud
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO IV. Delitos cometidos contra funcionarios públicos
 
@@ -2193,6 +2193,10 @@ Al que, sin causa legítima, rehusare a prestar un servicio de interés público
 
 Al que desobedeciere el mandato de arraigo domiciliario o la prohibición de abandonar una demarcación geográfica, dictados por autoridad judicial competente, se le impondrán de seis meses a dos años de prisión y de diez a doscientos días multa.
 
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+ARTICULO 178 bis.- Al responsable operativo del concesionario o permisionario del servicio de telecomunicaciones que tenga asignada la función de colaborar con las autoridades en la localización geográfica, en tiempo real, de los equipos de comunicación móvil asociados a una línea que estén relacionados con investigaciones en materia de delincuencia organizada, delitos contra la salud, secuestro, extorsión o amenazas y que se rehusare a hacerlo de forma dolosa, se le impondrán de doscientos cincuenta a dos mil quinientos días multa.
+
 ###### ARTICULO 179.
 
 El que sin excusa legal se negare a comparecer ante la autoridad a dar su declaración, cuando legalmente se le exija, no será considerado como reo del delito previsto en el artículo anterior, sino cuando insista en su desobediencia después de haber sido apremiado por la autoridad judicial o apercibido por la administrativa, en su caso, para que comparezca a declarar.
@@ -2205,7 +2209,7 @@ El que sin excusa legal se negare a comparecer ante la autoridad a dar su declar
 
 Se aplicarán de uno a dos años de prisión y multa de diez a mil pesos: al que, empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2269,7 +2273,7 @@ Si la enfermedad padecida fuera incurable se impondrá la pena de seis meses a c
 
 Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MARZO DE 2007)</small>
 
 ###### ARTICULO 189.
 
@@ -2295,11 +2299,11 @@ Al que ultraje el escudo de la República o el pabellón nacional, ya sea de pal
 
 Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicará de tres días a un año de prisión y multa de veinticinco a mil pesos.
 
-(REUBICADO [N. DE E. ANTES TITULO OCTAVO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO OCTAVO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO OCTAVO. Delitos contra el libre desarrollo de la personalidad
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MARZO DE 2007)</small>
 
 ### CAPITULO II
 
@@ -2393,7 +2397,7 @@ VII.- Se trate del propietario, poseedor, arrendatario o usufructuario de un est
 
 ARTICULO 196 bis.- (DEROGADO, D.O.F. 7 DE NOVIEMBRE DE 1996)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ARTICULO 196 ter.- Se impondrán de cinco a quince años de prisión y de cien a trescientos días multa, así como decomiso de los instrumentos, objetos y productos del delito, al que desvíe o por cualquier medio contribuya a desviar precursores químicos, productos químicos esenciales o máquinas, al cultivo, extracción, producción, preparación o acondicionamiento de narcóticos en cualquier forma prohibida por la ley.
 
@@ -2437,7 +2441,7 @@ En todo centro de reclusión se prestarán servicios de rehabilitación al farma
 
 Para el otorgamiento de la condena condicional o del beneficio de la libertad preparatoria, cuando procedan, no se considerará como antecedente de mala conducta el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente para su rehabilitación, bajo vigilancia de la autoridad ejecutora.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ### CAPITULO III
 
@@ -2465,7 +2469,7 @@ Trata de personas menores de dieciocho años de edad o de personas que no tienen
 
 ## TITULO DECIMO. Delitos cometidos por servidores públicos
 
-> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO VII
 
@@ -2523,7 +2527,7 @@ ARTICULO 201 bis 2.- (DEROGADO Y REUBICADO, D.O.F. 27 DE MARZO DE 2007)
 
 ARTICULO 201 bis 3.- (DEROGADO Y REUBICADO, D.O.F. 27 DE MARZO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MARZO DE 2007)</small>
 
 ### CAPITULO VIII. Pederastia
 
@@ -2547,7 +2551,7 @@ ARTICULO 209 ter.- Para efecto de determinar el daño ocasionado al libre desarr
 
 En los casos en que el sentenciado se niegue o no pueda garantizar la atención médica, psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 202.
 
@@ -2561,7 +2565,7 @@ La misma pena se impondrá a quien reproduzca, almacene, distribuya, venda, comp
 
 ARTICULO 202 bis.- Quien almacene, compre, arriende, el material a que se refieren los párrafos anteriores, sin fines de comercialización o distribución se le impondrán de uno a cinco años de prisión y de cien a quinientos días multa. Asimismo, estará sujeto a tratamiento psiquiátrico especializado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MARZO DE 2007)</small>
 
 ### CAPITULO I. Revelación de secretos
 
@@ -2577,7 +2581,7 @@ Al autor de este delito se le impondrá una pena de siete a doce años de prisi�
 
 ARTICULO 203 bis.- A quien realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo, en virtud del turismo sexual, se le impondrá una pena de doce a dieciséis años de prisión y de dos mil a tres mil días multa, asimismo, estará sujeto al tratamiento psiquiátrico especializado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE MARZO DE 2007)</small>
 
 ### CAPITULO II. Acceso ilícito a sistemas y equipos de informática
 
@@ -2629,7 +2633,7 @@ ARTICULO 211 bis 6.- Para los efectos de los artículos 211 Bis 4 y 211 Bis 5 an
 
 ARTICULO 211 bis 7.- Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando la información obtenida se utilice en provecho propio o ajeno.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 204.
 
@@ -2653,7 +2657,7 @@ Al responsable de este delito se le impondrá prisión de ocho a quince años y 
 
 (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2007)</small>
 
 ARTICULO 205 bis.- Las sanciones señaladas en los artículos 200, 201, 202, 203 y 204 se aumentarán al doble de la que corresponda cuando el autor tuviere para con la víctima, alguna de las siguientes relaciones:
 
@@ -2737,13 +2741,13 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 ### CAPITULO III. Abuso de autoridad
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1989) (REPUBLICADO, D.O.F. 4 DE ENERO DE 1989)
 
 ###### ARTICULO 208.
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán de diez a ciento ochenta jornadas de trabajo en favor de la comunidad, si el delito no se ejecutare; en caso contrario se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 209.
 
@@ -2757,7 +2761,7 @@ Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autorida
 
 Dichas penas se impondrán a las personas relacionadas o adscritas a cualquier institución, asociación, organización o agrupación de carácter religioso, cultural, deportivo, educativo, recreativo o de cualquier índole y tengan conocimiento de la comisión de los delitos a que se refiere el primer párrafo del presente artículo, cuando no informen a la autoridad competente o protejan a la persona que lo cometa, ya sea escondiéndola, cambiándola de sede o de cualquier otra forma le brinde protección.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ### CAPITULO III BIS. Desaparición forzada de personas
 
@@ -2791,7 +2795,7 @@ La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y 
 
 ARTICULO 211 bis.- A quien revele, divulgue o utilice indebidamente o en perjuicio de otro, información o imágenes obtenidas en una intervención de comunicación privada, se le aplicarán sanciones de seis a doce años de prisión y de trescientos a seiscientos días multa.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ### CAPITULO VII. Intimidación
 
@@ -2799,7 +2803,7 @@ ARTICULO 211 bis.- A quien revele, divulgue o utilice indebidamente o en perjuic
 
 ## TITULO VIGESIMO PRIMERO. Privación ilegal de la libertad y de otras garantías
 
-> <small>(DEROGADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ### CAPITULO VIII. Ejercicio abusivo de funciones
 
@@ -2821,7 +2825,7 @@ Para la individualización de las sanciones previstas en este Título, el Juez t
 
 ARTICULO 213 bis.- Cuando los delitos a que se refieren los artículos 215, 219 y 222 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, aduanera o migratoria, las penas previstas serán aumentadas hasta en una mitad y, además, se impondrá destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO IX. Tráfico de Influencia
 
@@ -2853,7 +2857,7 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I y II de e
 
 Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO X. Cohecho
 
@@ -2911,7 +2915,7 @@ XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolució
 
 XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA, EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA, EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2921,13 +2925,13 @@ XIII.- Obligar al inculpado a declarar, usando la incomunicación, la intimidaci
 
 XIV.- Obligar a declarar a las personas que se mencionan en el artículo 243 Bis, del Código Federal de Procedimientos Penales, acerca de la información obtenida con motivo del desempeño de su actividad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 XV.- Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -2937,13 +2941,13 @@ XVI.- Incumplir con la obligación de impedir la ejecución de las conductas de 
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a V y X a XII, se le impondrá de uno a ocho años de prisión, de cincuenta hasta trescientos días multa y destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VI a IX, XIII, XIV, XV, y XVI, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE JUNIO DE 2001)</small>
 
 ### CAPITULO XI. Cohecho a servidores públicos extranjeros
 
@@ -2999,7 +3003,7 @@ Al servidor Público que haya sido condenado por el delito de desaparición forz
 
 La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO XII. Peculado
 
@@ -3011,7 +3015,7 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal, en el momento de la comisión del delito, y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO XIII. Enriquecimiento ilícito
 
@@ -3035,19 +3039,19 @@ II.- Toda persona que solicite o promueva la realización, el otorgamiento o la 
 
 III.- El servidor público que teniendo a su cargo fondos públicos, les dé a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión, de cien a trescientos días multa, y destitución e inhabilitación de seis meses a doce años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 28 DE MAYO DE 2009)</small>
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -3073,7 +3077,7 @@ Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas v
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 ###### ARTICULO 219.
 
@@ -3089,7 +3093,7 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 ### CAPITULO II. Delitos de abogados, patronos y litigantes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 220.
 
@@ -3151,7 +3155,7 @@ Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de qui
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
@@ -3187,7 +3191,7 @@ Cuando los recursos materia del peculado sean aportaciones federales para los fi
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 224.
 
@@ -3203,7 +3207,7 @@ Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equival
 
 Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 1984)</small>
 
 TITULO DECIMOPRIMERO
 
@@ -3213,7 +3217,7 @@ Delitos cometidos contra la administración de justicia
 
 ### CAPITULO VI. Variación del nombre o del domicilio
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 225.
 
@@ -3321,7 +3325,7 @@ En todos los delitos previstos en este Capítulo, además de las penas de prisi�
 
 ### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones, uniformes, grados jerárquicos, divisas, insignias y siglas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 226.
 
@@ -3331,13 +3335,13 @@ Al que para hacer efectivo un derecho o pretendido derecho que deba ejercitar, e
 
 Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su encargo ejecuten los hechos o incurran en las omisiones expresadas en los propios artículos.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOTERCERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOTERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOSEGUNDO
 
 Responsabilidad profesional
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
@@ -3407,13 +3411,13 @@ III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a
 
 Los defensores de oficio que sin fundamento no promuevan las pruebas conducentes en defensa de los reos que los designen, serán destituídos de su empleo. Para este efecto, los jueces comunicarán al Jefe de Defensores las faltas respectivas.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOCUARTO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOTERCERO
 
 Falsedad
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ### CAPITULO II. Vagos y malvivientes
 
@@ -3459,7 +3463,7 @@ Se castigará con prisión de cinco a doce años y hasta quinientos días multa,
 
 Se le impondrá de tres a siete años de prisión y hasta quinientos días multa, al que aproveche ilícitamente el contenido metálico destruyendo las monedas en circulación mediante su fundición o cualquier otro procedimiento.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 8 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE FEBRERO DE 1999)</small>
 
 ### CAPITULO III. Juegos prohibidos
 
@@ -3493,7 +3497,7 @@ Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o 
 
 Sólo se procederá contra el hostigador, a petición de parte ofendida.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 241.
 
@@ -3629,7 +3633,7 @@ II.- (DEROGADA, D.O.F. 23 DE ENERO DE 2009)
 
 III.- Al que soborne a un testigo, a un perito o a un intérprete, para que se produzca con falsedad en juicio o los obligue o comprometa a ello intimándolos o de otro modo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado y faltare a la verdad en perjuicio de otro, negando ser suya la firma con que hubiere suscrito el documento o afirmando un hecho falso o alternando o negando uno verdadero, o sus circunstancias sustanciales.
 
@@ -3671,7 +3675,7 @@ II.- Al que para eludir la práctica de una diligencia judicial o una notificaci
 
 III.- Al funcionario o empleado público que, en los actos propios de su cargo, atribuyere a una persona título o nombre a sabiendas de que no le pertenece.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 1985)</small>
 
 ### CAPITULO V. Disposiciones generales
 
@@ -3679,7 +3683,7 @@ III.- Al funcionario o empleado público que, en los actos propios de su cargo, 
 
 ARTICULO 276 bis.- Cuando a consecuencia de la comisión de alguno de los delitos previstos en este Título resulten hijos, la reparación del daño comprenderá el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil para los casos de divorcio.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOSEPTIMO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOSÉPTIMO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOSEXTO
 
@@ -3695,7 +3699,7 @@ Se sancionará con prisión de uno a seis años y multa de cien a trescientos d�
 
 I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alguna de las funciones de tal;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 II.- Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidas por autoridades u organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del artículo 5 constitucional.
 
@@ -3755,7 +3759,7 @@ Para los efectos de este artículo, se entiende por uniformes, insignias, creden
 
 ### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 251.
 
@@ -3765,17 +3769,17 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 Las disposiciones contenidas en este título no se aplicarán sino en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOQUINTO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOQUINTO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOCUARTO
 
 Delitos contra la economía pública
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ### CAPITULO I. Amenazas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 253.
 
@@ -3845,7 +3849,7 @@ Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanci
 
 ARTICULO 253 bis.- (DEROGADO, D.O.F. 5 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 254.
 
@@ -3945,13 +3949,13 @@ Si con los actos a que se refiere el párrafo anterior se causa algún daño, la
 
 (DEROGADO, D.O.F. 14 DE ENERO DE 1985)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 1991)</small>
 
 TITULO DECIMOQUINTO
 
 Delitos contra la libertad y el normal desarrollo psicosexual
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ### CAPITULO II. Homicidio
 
@@ -4029,7 +4033,7 @@ III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o
 
 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
 
-> <small>(DEROGADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1991)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 1991)</small>
 
 ### CAPITULO III. Reglas comunes para lesiones y homicidio
 
@@ -4067,7 +4071,7 @@ La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 8 DE JUNIO DE 2011)</small>
 
 ### CAPITULO V. Infanticidio
 
@@ -4087,7 +4091,7 @@ Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
 (DEROGADO, D.O.F. 8 DE JUNIO DE 2011)
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 13 DE ENERO DE 1984)</small>
 
 ### CAPITULO VI. Aborto
 
@@ -4115,7 +4119,7 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrá hasta cinco años de prisión o de 180 a 360 días multa al que, estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMOCTAVO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMOCTAVO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOSÉPTIMO
 
@@ -4153,7 +4157,7 @@ I. Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II. Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia. Si los actos de necrofilia consisten en la realización del coito, la pena de prisión será de cuatro a ocho años.
 
-(REUBICADO [N. DE E. ANTES TITULO DECIMONOVENO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO DECIMONOVENO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMOCTAVO
 
@@ -4179,7 +4183,7 @@ ARTICULO 343 ter.- Se equipara a la violencia familiar y se sancionará con seis
 
 ARTICULO 343 quáter.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO VIGÉSIMO PRIMERO], D.O.F. 29 DE JULIO DE 1970)
 
 ###### ARTICULO 282.
 
@@ -4243,7 +4247,7 @@ La pena será de diez a treinta años de prisión para el que en vías generales
 
 Si los salteadores atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes, y de quince a veinte años a los demás.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO VIGÉSIMO], D.O.F. 29 DE JULIO DE 1970)
 
 TITULO DECIMONOVENO
 
@@ -4473,11 +4477,11 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía, y
 
 II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir en él.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO D.O.F. 13 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 323.
 
@@ -4601,7 +4605,7 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO III BIS. Extorsión
 
@@ -4705,7 +4709,7 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 (DEROGADO, D.O.F. 13 DE ABRIL DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ## TITULO VIGESIMO QUINTO. Delitos contra el ambiente y la gestión ambiental
 
@@ -4729,19 +4733,19 @@ Para efectos de este artículo se entiende que son producto de una actividad il�
 
 Para los mismos efectos, el sistema financiero se encuentra integrado por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, casas de bolsa y otros intermediarios bursátiles, casas de cambio, administradoras de fondos de retiro y cualquier otro intermediario financiero o cambiario.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 TITULO VIGESIMOCUARTO
 
 Delitos electorales y en materia de registro nacional de ciudadanos
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
 
 ###### ARTICULO 364.
 
 Se impondrá de seis meses a tres años de prisión y de veinticinco a cien días multa:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MAYO DE 2006)</small>
 
 I.- Al particular que prive a otro de su libertad. Si la privación de la libertad excede de veinticuatro horas, la pena de prisión se incrementará de un mes más por cada día.
 
@@ -4749,7 +4753,7 @@ I.- Al particular que prive a otro de su libertad. Si la privación de la libert
 
 La pena de prisión se aumentará hasta en una mitad, cuando la privación de la libertad se realice con violencia, cuando la víctima sea menor de dieciséis o mayor de sesenta años de edad, o cuando por cualquier circunstancia, la víctima esté en situación de inferioridad física o mental respecto de quien la ejecuta.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 19 DE MAYO DE 2006)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 19 DE MAYO DE 2006)</small>
 
 II.- (DEROGADA, D.O.F. 19 DE MAYO DE 2006)
 
@@ -4771,13 +4775,13 @@ Si el autor del delito restituye la libertad a la víctima sin haber practicado 
 
 Este delito sólo se perseguirá por querella de la persona ofendida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 366.
 
 (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ARTICULO 366 bis.- (DEROGADO, D.O.F. 30 DE NOVIEMBRE DE 2010)
 
@@ -4819,7 +4823,7 @@ Además, se privará de los derechos de patria potestad, tutela o custodia a qui
 
 En los casos a que se refiere este artículo, el delito se perseguirá a petición de parte ofendida.
 
-(REUBICADO [N. DE E. ANTES TITULO VIGESIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
+(REUBICADO [N. DE E. ANTES TÍTULO VIGÉSIMO TERCERO], D.O.F. 29 DE JULIO DE 1970)
 
 ## TITULO VIGESIMO SEXTO. De los delitos en materia de Derechos de Autor
 
@@ -4993,7 +4997,7 @@ No se castigará al que, sin emplear engaño ni medios violentos, se apodera una
 
 Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento del dueño o legítimo poseedor y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de uno a seis meses de prisión o de 30 a 90 días multa, siempre que justifique no haberse negado a devolverla, si se le requirió a ello. Además, pagará al ofendido, como reparación del daño, el doble del alquiler, arrendamiento o intereses de la cosa usada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 381.
 
@@ -5157,7 +5161,7 @@ IX.- Al que para obtener un lucro indebido, ponga en circulación fichas, tarjet
 
 X.- Al que simulare un contrato, un acto o escrito judicial, con perjuicio de otro o para obtener cualquier beneficio indebido;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 XI.- Al que por sorteos, rifas, loterías, promesas de venta o por cualquiera otro medio, se quede en todo o en parte con las cantidades recibidas, sin entregar la mercancía u objeto ofrecido;
 
@@ -5349,7 +5353,7 @@ ARTICULO 399 bis.- Los delitos previstos en este título se perseguirán por que
 
 Se perseguirán por querella los delitos previstos en los artículos 380 y 382 a 399, salvo el artículo 390 y los casos a que se refieren los dos últimos párrafos del artículo 395.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 13 DE MAYO DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE MAYO DE 1996)</small>
 
 TITULO VIGESIMOTERCERO
 
@@ -5465,7 +5469,7 @@ XIII.- Durante los ocho días previos a la elección y hasta la hora oficial del
 
 Se impondrán hasta 500 días multa a los ministros de cultos religiosos que, en el desarrollo de actos públicos propios de su ministerio, induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención del ejercicio del derecho al voto.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 405.
 
@@ -5513,7 +5517,7 @@ X.- Permita o tolere que un ciudadano emita su voto a sabiendas de que no cumple
 
 XI.- Propale, de manera pública y dolosa, noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 406.
 
@@ -5575,7 +5579,7 @@ IV.- Proporcione apoyo o preste algún servicio a los partidos políticos o a su
 
 Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos diputados o senadores no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del artículo 63 de la Constitución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE MARZO DE 1994)</small>
 
 ###### ARTICULO 409.
 
@@ -5747,7 +5751,7 @@ En el caso de los delitos contra el ambiente, cuando el autor o partícipe tenga
 
 No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del artículo 418, así como para la transportación de leña o madera muerta a que se refiere el artículo 419, cuando el sujeto activo sea campesino y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 424.
 
@@ -5817,7 +5821,7 @@ Los delitos previstos en este Título se perseguirán de oficio, excepto lo prev
 
 APENDICE 1
 
-(VEASE TABLA ANEXA)
+(VÉASE TABLA ANEXA)
 
 ARTICULOS TRANSITORIOS:
 
@@ -5841,11 +5845,11 @@ México, D.F., a 14 de agosto de 1931.- El Subsecretario de Gobernación, Encarg
 
 Al C.....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O.F. 12 DE MAYO DE 1938.
 
-EL DECRETO DE REFORMAS, CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SE TRANSCRIBE EL ARTICULO 4° DEL PRESENTE DECRETO.
+EL DECRETO DE REFORMAS, CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SE TRANSCRIBE EL ARTÍCULO 4° DEL PRESENTE DECRETO.
 
 ###### ARTICULO 4°.
 
@@ -5853,7 +5857,7 @@ Esta Ley entrará en vigor a partir de la fecha de su publicación en el "Diario
 
 D.O.F. 10 DE NOVIEMBRE DE 1939.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 14 DE FEBRERO DE 1940.
 
@@ -5873,13 +5877,13 @@ Las presentes reformas y adiciones entrarán en vigor desde el día de su public
 
 D.O.F. 27 DE DICIEMBRE DE 1941.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 13 DE JUNIO DE 1942.
 
-LEY DE PREVENCIONES GENERALES RELATIVA A LA SUSPENSION DE GARANTIAS INDIVIDUALES.
+LEY DE PREVENCIONES GENERALES RELATIVA A LA SUSPENSIÓN DE GARANTÍAS INDIVIDUALES.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY DE PREVENCIONES RELATIVA A LA SUSPENSION DE GARANTIAS ESTABLECIDA POR DECRETO DE 1o DE JUNIO DE 1942, QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY DE PREVENCIONES RELATIVA A LA SUSPENSIÓN DE GARANTÍAS ESTABLECIDA POR DECRETO DE 1o DE JUNIO DE 1942, QUE SE RELACIONAN CON LA LEY.
 
 1°.- La presente ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
@@ -5905,7 +5909,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el "Diar
 
 D.O.F. 28 DE DICIEMBRE DE 1945.
 
-DECRETO QUE LEVANTA LA SUSPENSION DE GARANTIAS DECRETADA EL 1 DE JUNIO DE 1942.
+DECRETO QUE LEVANTA LA SUSPENSIÓN DE GARANTÍAS DECRETADA EL 1 DE JUNIO DE 1942.
 
 ###### ARTICULO 1°.
 
@@ -5921,7 +5925,7 @@ El Ejecutivo de la Unión dictará las disposiciones reglamentarias para la ejec
 
 D.O.F. 9 DE MARZO DE 1946.
 
-LEY QUE REFORMA EL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DEL FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL.
+LEY QUE REFORMA EL CÓDIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DEL FUERO COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA DE FUERO FEDERAL.
 
 ###### ARTICULO UNICO.
 
@@ -5929,7 +5933,7 @@ Este Decreto entrará en vigor tres días después de su publicación en el "Dia
 
 D.O.F. 9 DE MARZO DE 1946.
 
-DECRETO QUE REFORMA EL ARTÍCULO 85 Y 366 FRACCION V DEL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES.
+DECRETO QUE REFORMA EL ARTÍCULO 85 Y 366 FRACCION V DEL CÓDIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES.
 
 ###### ARTICULO UNICO.
 
@@ -6051,7 +6055,7 @@ El presente Decreto entrará en vigor a los tres días de su publicación en el 
 
 D.O.F. 2 DE AGOSTO DE 1974.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO 1o.
 
@@ -6249,7 +6253,7 @@ UNICO.- El presente decreto entra en vigor al día siguiente de la fecha de su p
 
 D.O.F. 24 DE DICIEMBRE DE 1991.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO.- La presente Ley entrará en vigor a los sesenta días siguientes a su publicación en el Diario Oficial de la Federación.
 
@@ -6259,7 +6263,7 @@ TERCERO.- Se derogan los artículos 119 a 122, del Código Penal para el Distrit
 
 D.O.F. 30 DE DICIEMBRE DE 1991.
 
-DECRETO QUE REFORMA LOS ARTICULOS 51, 55, 70, 90, 160, 162, 173, 176, 178, 182, 185, 187, 194, 226, 243, 247, 248, 249, 279, 280, 282, 289, 336, 336 BIS, 341, 380, 386 Y 399 BIS; ADICIONA LOS ARTICULOS 65, 74, 173 Y 282 Y DEROGA LOS ARTICULOS 171, 177, 184, 186, 190, 255, 256, 306 Y 400 DEL CODIGO PENAL.
+DECRETO QUE REFORMA LOS ARTÍCULOS 51, 55, 70, 90, 160, 162, 173, 176, 178, 182, 185, 187, 194, 226, 243, 247, 248, 249, 279, 280, 282, 289, 336, 336 BIS, 341, 380, 386 Y 399 BIS; ADICIONA LOS ARTÍCULOS 65, 74, 173 Y 282 Y DEROGA LOS ARTICULOS 171, 177, 184, 186, 190, 255, 256, 306 Y 400 DEL CÓDIGO PENAL.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -6269,7 +6273,7 @@ TERCERO.- Para los efectos de los artículos 405 del Código Federal de Procedim
 
 D.O.F. 30 DE DICIEMBRE DE 1991.
 
-DECRETO QUE ADICIONA EL ARTICULO 254 BIS DEL CODIGO PENAL.
+DECRETO QUE ADICIONA EL ARTÍCULO 254 BIS DEL CÓDIGO PENAL.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -6359,7 +6363,7 @@ SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de 
 
 D.O.F. 31 DE DICIEMBRE DE 1998.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
 
@@ -6457,13 +6461,13 @@ D.O.F. 6 DE JUNIO DE 2006.
 
 D.O.F. 30 DE JUNIO DE 2006.
 
-DECRETO QUE REFORMA EL ARTICULO 84 DEL CODIGO PENAL.
+DECRETO QUE REFORMA EL ARTÍCULO 84 DEL CÓDIGO PENAL.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 30 DE JUNIO DE 2006.
 
-DECRETO QUE REFORMA EL ARTICULO 214 DEL CODIGO PENAL.
+DECRETO QUE REFORMA EL ARTÍCULO 214 DEL CÓDIGO PENAL.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -6501,7 +6505,7 @@ Tercero. Para los supuestos, sujetos y efectos del artículo anterior, los delit
 
 D.O.F. 23 DE ENERO DE 2009.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CÓDIGO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -6509,7 +6513,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 D.O.F. 28 DE MAYO DE 2009.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 PRIMERO. El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Diario Oficial de la Federación, salvo las disposiciones que para su aplicación requieran de las modificaciones al sistema electrónico CompraNet a que se refiere el artículo Décimo transitorio del presente Decreto.
 
@@ -6634,3 +6638,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 17 DE ABRIL DE 2012.
+
+Artículo Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
