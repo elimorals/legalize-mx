@@ -4,7 +4,7 @@ identifier: "FED-ley-que-establece-las-normas-minimas-sobre-readaptacion-2572"
 country: "mx"
 rank: "ley"
 publication_date: "1971-05-19"
-last_updated: "2012-01-19"
+last_updated: "2012-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2572&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1971-02-08"
 
 LEY QUE ESTABLECE LAS NORMAS MÍNIMAS SOBRE READAPTACIÓN SOCIAL DE SENTENCIADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 19 de mayo de 1971.
 
@@ -47,7 +47,7 @@ Las presentes Normas tienen como finalidad organizar el sistema penitenciario en
 
 El sistema penal se organizará sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 3o.
 
@@ -91,7 +91,7 @@ Los miembros del personal penitenciario quedan sujetos a la obligación de segui
 
 ### CAPITULO III. Sistema
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 6o.
 
@@ -193,8 +193,6 @@ Se creará en cada reclusorio un Consejo Técnico interdisciplinario, con funcio
 
 El Consejo, presidido por el Director del establecimiento, o por el funcionario que le sustituya en sus faltas, se integrará con los miembros de superior jerarquía del personal directivo, administrativo, técnico y de custodia, y en todo caso formarán parte de él un médico y un maestro normalista. Cuando no haya médico ni maestro adscritos al reclusorio, el Consejo se compondrá con el Director del Centro de Salud y el Director de la escuela federal o estatal de la localidad y a falta de estos funcionarios, con quienes designe el Ejecutivo del Estado.
 
-(NOTA: EL 14 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 24/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2012)</small>
 
 ###### ARTICULO 10.
@@ -265,11 +263,23 @@ VIII. Aplicación de los tratamientos especiales que determine la autoridad peni
 
 IX. Suspensión de estímulos;
 
-X. La prohibición de comunicación de telefonía móvil, Internet y radiocomunicación, y
+> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+X. La prohibición de comunicación vía Internet, y
 
 XI. Las demás que establezcan las disposiciones legales aplicables.
 
 Sin menoscabo de lo anterior, la autoridad penitenciaria que determine el Reglamento podrá decretar en cualquier momento estado de alerta o, en su caso, alerta máxima cuando exista riesgo o amenaza inminente que ponga en peligro la seguridad del Centro Federal, de la población penitenciaria, de su personal o de las visitas.
+
+> <small>(ADICIONADO, D.O.F. 17 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 14 Ter.
+
+Cada establecimiento penitenciario contará con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social o establecimientos penitenciarios.
+
+Dichos equipos serán operados por autoridades distintas a las de los establecimientos penitenciarios en centros remotos, contarán con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y serán monitoreados por el Sistema Nacional de Seguridad Pública, con la colaboración de los concesionarios de redes públicas de telecomunicaciones.
+
+El bloqueo de señales a que se refiere este artículo se hará sobre todas las bandas de frecuencia que se utilicen para la recepción en los equipos terminales de comunicación y en ningún caso excederá de veinte metros fuera de las instalaciones de los centros o establecimientos a fin de garantizar la continuidad y seguridad de los servicios a los usuarios externos.
 
 ### CAPITULO IV. Asistencia a Liberado
 
@@ -359,7 +369,7 @@ México, D. F., a 4 de febrero de 1971.- Arnulfo Villaseñor Saavedra, D. P.- Ra
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los ocho días del mes de febrero de mil novecientos setenta y uno.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Alfonso Martínez Domínguez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 23 DE DICIEMBRE DE 1974.
 
@@ -395,7 +405,7 @@ Segundo.- Se derogan las disposiciones que a la entrada en vigor del presente De
 
 D.O.F. 23 DE ENERO DE 2009.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -404,3 +414,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 D.O.F. 19 DE ENERO DE 2012.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE ABRIL DE 2012.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
