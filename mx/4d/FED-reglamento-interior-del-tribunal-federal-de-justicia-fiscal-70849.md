@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2012-02-29"
+last_updated: "2012-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -87,6 +87,10 @@ XIII. Revista: El medio de comunicación, ya sea electrónico o impreso, a trav�
 
 XIV. Salas Auxiliares: Las Salas Regionales a que se refiere el artículo 38 Bis de la Ley;
 
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XIV Bis. Salas del Tribunal: Las Salas Regionales a que se refiere la fracción XVI del presente artículo.
+
 XV. Salas Especializadas: Las Salas Regionales a que se refiere el artículo 2 Bis de la Ley;
 
 XVI. Salas Regionales: Las señaladas en el artículo 2, fracción II, de la Ley, que podrán tener el carácter de Salas Especializadas o Auxiliares;
@@ -95,9 +99,13 @@ XVII. Sala Superior: El órgano integrado por los 13 Magistrados que ejerce las 
 
 XVIII. Secciones: Las Secciones de la Sala Superior;
 
-XIX. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal; y
+XIX. Sistema de Justicia en Línea: Sistema informático establecido por el Tribunal a efecto de registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal; y (sic)
 
-XX. Tribunal: El Tribunal Federal de Justicia Fiscal y Administrativa.
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XX. TICs: Tecnologías de la Información y las Comunicaciones, y
+
+XXI. Tribunal: El Tribunal Federal de Justicia Fiscal y Administrativa.
 
 > <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -251,7 +259,9 @@ Para la atención debida y oportuna de los asuntos a cargo de los Magistrados de
 
 La facultad de atracción es de naturaleza discrecional y se ejercerá caso por caso, una vez que se haya determinado que se trata de juicios con características especiales.
 
-Para ejercer la facultad de atracción respecto de los juicios con características especiales, a que se refieren los artículos 48, fracción I de la Ley Federal de Procedimiento Contencioso Administrativo, y 18, fracción X, y 23, fracción II de la Ley, se observarán los criterios siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+Para ejercer la facultad de atracción respecto de los juicios con características especiales, a que se refieren los artículos 48, fracción I de la Ley Federal de Procedimiento Contencioso Administrativo, y 18, fracción XI, y 23, fracción II de la Ley, se observarán los criterios siguientes:
 
 I. Corresponderá a las Secciones atraer para su resolución los juicios con características especiales que estén siendo instruidos por las Salas Regionales, en los casos siguientes:
 
@@ -341,7 +351,9 @@ XI. Elaborar, implementar y cumplir los acuerdos de la Sala Superior y del Pleno
 
 XII. Remitir a la Secretaría de Acuerdos de Compilación de Tesis, las actas de las versiones taquigráficas de las sesiones del Pleno Jurisdiccional de la Sala Superior, en donde conste la aprobación de los textos de las tesis, precedentes o reiteraciones;
 
-XIII. Revisar y autorizar los registros de los documentos que acrediten la personalidad y representación de las partes en el juicio para integrar el padrón nacional de representantes;
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XIII. Resguardar y controlar la documentación que acredite la personalidad y la representación de las partes en los juicios que se tramitan en las Salas Regionales con sede en el Distrito Federal;
 
 XIV. Revisar las versiones mecanográficas de las sesiones del Pleno Jurisdiccional de la Sala Superior y enviarlas a las ponencias para los engroses respectivos;
 
@@ -429,9 +441,9 @@ c) Corroborar para efectos de publicación, que la cita del expediente, nombre d
 
 d) Verificar que se incluya en la publicación de las tesis, precedentes o reiteraciones, la parte considerativa de la sentencia que les dio origen, así como en su caso, de los votos particulares, cuya publicación fue solicitada por los Ponentes y aprobada por los propios Magistrados;
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-e) Elaborar el oficio de publicación y someterlo a la firma del Secretario General de Acuerdos, o en su caso, al Secretario Adjunto de Acuerdos de la Sección que corresponda, para enviar las jurisprudencias, precedentes y reiteraciones aprobadas por el Pleno Jurisdiccional de la Sala Superior o las Secciones, con la correspondiente documentación a la Dirección de Publicaciones, y
+e) Elaborar el oficio de publicación y someterlo a la firma del Secretario General de Acuerdos, o en su caso, al Secretario Adjunto de Acuerdos de la Sección que corresponda, para enviar las jurisprudencias, precedentes y reiteraciones aprobadas por el Pleno Jurisdiccional de la Sala Superior o las Secciones, con la correspondiente documentación a la Dirección de Difusión, y
 
 f) Registrar en la base de datos, la información de las tesis, precedentes, reiteraciones y jurisprudencias, aprobadas por el Pleno Jurisdiccional de la Sala Superior o las Secciones, en las que deben aparecer los datos de identificación relativos, así como los datos de la Revista en que fueron publicados cada uno de ellos;
 
@@ -457,7 +469,9 @@ c) Revisar que los datos de identificación de la tesis contengan el número del
 
 d) Verificar que a las tesis propuestas por las Salas Regionales acompañen la copia certificada de la sentencia correspondiente, en su caso el voto particular respectivo, así como una versión en disco de la tesis, sentencia y voto particular;
 
-e) Elaborar el oficio de publicación y someterlo a la firma del Secretario General de Acuerdos o en su caso al Secretario Adjunto de Acuerdos de la Sección que corresponda, para enviar las tesis aprobadas por la Sala Regional, con la correspondiente documentación a la Dirección de Publicaciones, y
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+e) Elaborar el oficio de publicación y someterlo a la firma del Secretario General de Acuerdos o en su caso al Secretario Adjunto de Acuerdos de la Sección que corresponda, para enviar las tesis aprobadas por la Sala Regional, con la correspondiente documentación a la Dirección de Difusión, y
 
 f) Registrar en la base de datos respectiva, la información de las tesis que deban ser publicadas debidamente clasificadas por su materia y naturaleza;
 
@@ -683,13 +697,21 @@ III. Dirigir y supervisar operativamente a la Actuaría, Oficialía de Partes y 
 
 IV. Realizar ante la Junta las gestiones y trámites administrativos que corresponda, en términos de las disposiciones jurídicas aplicables;
 
-V. Denunciar ante el Ministerio Público, los hechos que puedan ser constitutivos de delito conocidos y ocurridos en las instalaciones de las Salas, así como dar la intervención que corresponda a la Junta y a la Dirección General de Asuntos Jurídicos;
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+V. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delito conocidos y ocurridos en las instalaciones de las Salas, así como dar la intervención que corresponda a la Junta y a la Unidad de Asuntos Jurídicos;
 
 VI. Comunicar a los integrantes de las Salas los casos de incorporación y de actualización del registro de peritos correspondiente a la región, así como su modificación;
 
-VII. Dictar las medidas que exijan el orden, buen funcionamiento y la disciplina en las instalaciones comunes de las Salas, velar por que se guarde respeto y consideración en las mismas, así como imponer las correcciones disciplinarias que corresponda con sujeción a los acuerdos, normas y lineamientos establecidos por la Junta, y
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-VIII. Las demás que le confieran otras disposiciones jurídicas aplicables.
+VII. Dictar las medidas que exijan el orden, buen funcionamiento y la disciplina en las instalaciones comunes de las Salas, velar porque se guarde respeto y consideración en las mismas, así como imponer las correcciones disciplinarias que corresponda con sujeción a los acuerdos, normas y lineamientos establecidos por la Junta;
+
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+VIII. Designar y supervisar al Secretario de Acuerdos que habrá de revisar y registrar los documentos que acrediten la personalidad y representación de las partes en los juicios que se tramiten y que sean presentados en la Oficialía de Partes común y en el Módulo de Registro de las Salas que coordine, así como resguardar y controlar dicha documentación, únicamente en el caso de Salas Regionales con sede distinta al Distrito Federal, y
+
+IX. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 29.
 
@@ -735,9 +757,9 @@ V. Vigilar la debida integración en el Sistema de Justicia en Línea, de las ac
 
 VI. Supervisar el debido cumplimiento de la normatividad aplicable y el adecuado funcionamiento de las áreas que integran la ponencia a su cargo;
 
-> <small>(ADICIONADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-VII. Rendir los informes previos y justificados cuando los actos reclamados en el juicio de amparo sean atribuidos al Magistrado Instructor e informar del cumplimiento dado a las ejecutorias en dichos juicios;
+VII. Proveer sobre los recursos de revisión y juicios de amparo, rendir los informes previos y justificados cuando los actos reclamados en el juicio de amparo sean atribuidos al Magistrado Instructor e informar del cumplimiento dado a las ejecutorias en dichos juicios;
 
 > <small>(ADICIONADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -779,9 +801,9 @@ Para el cumplimiento de las funciones enunciadas en el artículo anterior, la Ju
 
 Corresponde a los Secretarios de Acuerdos de Sala Regional:
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-I. Recibir las demandas, promociones y oficios relacionados con los juicios que le sean turnados conforme al Sistema de Control y Seguimiento de Juicios o en el Sistema de Justicia en Línea y sus Subsistemas de Juicio en Línea y de Juicio Tradicional, verificando los datos asentados en dichos Sistemas, a efecto de validar o modificar, cuando se trate de Juicio Tradicional, bajo su personal y estricta responsabilidad, la información anotada previamente por la oficialía de partes y el archivo;
+I. Recibir las demandas, promociones, oficios, demandas de amparo y revisiones relacionados con los juicios que le sean turnados conforme al Sistema de Control y Seguimiento de Juicios o en el Sistema de Justicia en Línea y sus Subsistemas de Juicio en Línea y de Juicio Tradicional, verificando los datos asentados en dichos Sistemas, a efecto de validar o modificar, cuando se trate de Juicio Tradicional, bajo su personal y estricta responsabilidad, la información anotada previamente por la oficialía de partes y el archivo;
 
 II. Dar cuenta al Magistrado Instructor de todos los escritos, promociones, oficios y demás documentos relacionados con los juicios a su cargo, a más tardar al día siguiente de su recepción;
 
@@ -821,11 +843,15 @@ XIII. Dar cuenta al Presidente de la Sala Regional de que procede requerir a la 
 
 XIV. Certificar la firmeza de una sentencia emitida por la Sala Regional, a solicitud de parte interesada;
 
-> <small>(ADICIONADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-XV. Cuando tenga conocimiento de que los juicios que se tramitan a través del Sistema de Justicia en Línea fueron modificados, alterados, destruidos o que en ellos se provocó la pérdida de información, avisará de inmediato al Magistrado Instructor, y
+XV. Cuando tenga conocimiento de que los juicios que se tramitan a través del Sistema de Justicia en Línea fueron modificados, alterados, destruidos o que en ellos se provocó la pérdida de información, avisará de inmediato al Magistrado Instructor;
 
-XVI. Las demás que le confieran otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XVI. Revisar y registrar, cuando así proceda, los documentos que acrediten la personalidad y representación de las partes en los juicios que se tramiten y que sean presentados en la Oficialía de Partes y en el Módulo de Registro de las Salas ubicadas en la Región a la que esté adscrito y hecho lo anterior, remitir la documentación respectiva a la Secretaría General de Acuerdos en el caso de las Salas Regionales Metropolitanas o al Coordinador o Presidente de las Salas Regionales con sede distinta al Distrito Federal, en los casos en que sea designado para tal efecto por estos últimos, y
+
+XVII. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 34.
 
@@ -1019,7 +1045,9 @@ IV. El Oficial de Partes de ventanilla o capturista, al final de la jornada, ide
 
 V. Unicamente serán válidas las promociones presentadas a través del Sistema Automático de Recepción de Oficialías de Partes que hayan ingresado dentro del horario extendido, y
 
-VI. Cuando el responsable de la Oficialía de Partes se retire, deberá cerciorarse de que el Sistema Automático de Recepción de Oficialías de Partes esté funcionando correctamente y en caso de percibir cualquier falla, deberá comunicarlo de inmediato a la Dirección General de Informática.
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+VI. Cuando el responsable de la Oficialía de Partes se retire, deberá cerciorarse de que el Sistema Automático de Recepción de Oficialías de Partes esté funcionando correctamente y en caso de percibir cualquier falla, deberá comunicarlo de inmediato a la Dirección General de Infraestructura de Cómputo y Comunicaciones, o en su caso al Delegado de TICs que corresponda.
 
 En casos excepcionales, el vigilante del edificio que albergue la Sala Regional podrá atestiguar la presencia del promovente o autorizado dentro del horario extendido y la falta de funcionamiento del Sistema.
 
@@ -1069,9 +1097,9 @@ II. Turnar al Secretario de Acuerdos, a más tardar al día siguiente de su rece
 
 III. Revisar periódicamente los expedientes que se encuentren en el archivo de la ponencia para identificar su inactividad, y en su caso, informar de tal situación al Secretario de Acuerdos que tenga radicado el expediente, para que determine lo que proceda;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-IV. Turnar de inmediato a los Secretarios de Acuerdos las promociones y oficios urgentes, los cumplimientos de ejecutoria y los requerimientos del Poder Judicial de la Federación, así como las solicitudes de petición de medidas cautelares y suspensión de la ejecución del acto impugnado;
+IV. Turnar de inmediato a los Secretarios de Acuerdos promociones y oficios urgentes, recursos de revisión, demandas de amparo, cumplimientos de ejecutoria y requerimientos del Poder Judicial de la Federación, así como las solicitudes de petición de medidas cautelares y suspensión de la ejecución del acto impugnado;
 
 V. Integrar de inmediato y en orden cronológico al expediente, los acuses de recibo entregados por Correos de México, correspondientes a las notificaciones realizadas por correo certificado;
 
@@ -1287,11 +1315,11 @@ Para esos efectos, el Presidente listará los asuntos materia de coordinación y
 
 ### Capítulo X. De los Lineamientos para el Registro de Peritos del Tribunal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 61.
 
-La Junta llevará el Registro de Peritos del Tribunal por conducto de la Dirección de Normatividad y Registro de Peritos de la Dirección General del Sistema de Justicia en Línea.
+La Junta llevará el Registro de Peritos del Tribunal por conducto de la Unidad de Peritos, conforme a las normas, reglas de operación y lineamientos que se establezcan para tal efecto
 
 La integración del Registro de Peritos del Tribunal, así como la permanencia, designación, aceptación del cargo y pago de sus honorarios se sujetarán a los siguientes lineamientos:
 
@@ -1329,17 +1357,17 @@ a) Requerir al perito para que formalice la aceptación y protesta del cargo;
 
 b) Entregar al perito copia del cuestionario de la prueba pericial requerida y demás elementos que considere necesarios, para que éste presente su dictamen, acompañado de una plantilla que contenga el importe y calendarización de sus honorarios y gastos de traslado, en su caso;
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-c) Comunicar a la Junta, por conducto de la Dirección de Normatividad y Registro de Peritos de la Dirección General del Sistema de Justicia en Línea, cualquier irregularidad en la conducta o ética de los peritos, o bien si consideran que han infringido alguna disposición normativa, y
+c) Comunicar a la Junta, por conducto de la Unidad de Peritos, cualquier irregularidad en la conducta o ética de los peritos, o bien si consideran que han infringido alguna disposición normativa, y
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-d) Solicitar a la Junta, por conducto del Presidente de la Sala Regional, se autorice el pago de honorarios por un monto superior a los establecidos en el arancel, previa solicitud del perito y justificando su incremento. La solicitud de referencia será analizada por la Dirección de Normatividad y Registro de Peritos de la Dirección General del Sistema de Justicia en Línea, la cual verificará que cumpla con lo señalado en este inciso, así como la normatividad aplicable y propondrá a la Junta el acuerdo que corresponda para su aprobación.
+d) Solicitar a la Junta, por conducto del Presidente de la Sala Regional, se autorice el pago de honorarios por un monto superior a los establecidos en el arancel, previa solicitud del perito y justificando su incremento. La solicitud de referencia será analizada por la Unidad de Peritos, la cual verificará que cumpla con lo señalado en este inciso, así como la normatividad aplicable y propondrá a la Junta el acuerdo que corresponda para su aprobación.
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-El Coordinador, el Presidente de Sala Regional o, en su caso, el Magistrado Instructor cuando el juicio se tramite en la vía sumaria, será el responsable de solicitar a la Junta se gestione la búsqueda e inscripción de peritos en materias específicas requeridas en los juicios, que no estén incluidos en el Registro de Peritos del Tribunal, y podrá apoyar a la Dirección de Normatividad y Registro de Peritos de la Dirección General del Sistema de Justicia en Línea en la realización de dichas tareas en la sede de la Región.
+El Coordinador, el Presidente de Sala Regional o, en su caso, el Magistrado Instructor cuando el juicio se tramite en la vía sumaria, será el responsable de solicitar a la Junta se gestione la búsqueda e inscripción de peritos en materias específicas requeridas en los juicios, que no estén incluidos en el Registro de Peritos del Tribunal, y podrá apoyar a la Unidad de Peritos en la realización de dichas tareas en la sede de la Región.
 
 ###### Artículo 63.
 
@@ -1383,9 +1411,9 @@ V. Evitar cualquier acción u omisión que, clara y evidentemente, afecte la bue
 
 El registro y control de las demandas, promociones, acuerdos, sentencias y demás actuaciones jurisdiccionales que realicen el Pleno Jurisdiccional de la Sala Superior, las Secciones, las Salas Regionales, o las ponencias de los Magistrados Instructores en juicios que se tramiten en la vía sumaria, se efectuarán en forma electrónica, utilizando el Sistema de Control y Seguimiento de Juicios respecto de los juicios que se tengan registrados en él hasta que se concluyan totalmente, o bien, el Sistema de Justicia en Línea respecto de los juicios que ingresen al Tribunal a partir de la fecha que determine la Junta mediante Acuerdo General que expida para tal efecto, sea que se tramiten en línea o en la vía tradicional, todo ello de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-I. La Dirección General de Informática tendrá a su cargo la operación y mantenimiento del Sistema de Control y Seguimiento de Juicios y se coordinará con la Dirección General del Sistema de Justicia en Línea, para el análisis, diseño, construcción, operación y mantenimiento de dicho Sistema, así como para brindar la asesoría, capacitación y apoyo técnico a los usuarios del mismo, además propondrá a la Junta las modificaciones que se requieran para su mejor funcionamiento;
+I. La Dirección General del Sistema de Justicia en Línea tendrá a su cargo el análisis, diseño, construcción, operación y mantenimiento del Sistema de Control y Seguimiento de Juicios, así como brindar la asesoría, capacitación y apoyo técnico a los usuarios del mismo, además propondrá a la Junta las modificaciones que se requieran para su mejor funcionamiento;
 
 > <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -1399,9 +1427,9 @@ III. La utilización de los Sistemas, así como de la información registrada en
 
 IV. Los Sistemas deberán contar con los mecanismos de seguridad necesarios para preservar la confidencialidad de la información registrada y sólo los usuarios responsables y autorizados para su operación, contarán con claves individuales para accesar a los mismos;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-V. Los Magistrados de Sala Superior y los Presidentes de las Salas Regionales, solicitarán a la Dirección General de Informática o a la Dirección General del Sistema de Justicia en Línea, según el Sistema de que se trate, la asignación de claves a los servidores públicos que autorizan, para su acceso a los Sistemas;
+V. Los Magistrados de Sala Superior y los Presidentes de las Salas Regionales, solicitarán a la Dirección General del Sistema de Justicia en Línea, según el Sistema de que se trate, la asignación de claves a los servidores públicos que autorizan, para su acceso a los Sistemas;
 
 > <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -1411,9 +1439,9 @@ VI. Los Magistrados Instructores supervisarán la correcta y oportuna captura de
 
 VII. El Secretario General de Acuerdos, los Secretarios Adjuntos de Acuerdos de Secciones, los Secretarios de Acuerdos de Sala Superior y de Sala Regional, los Coordinadores de Actuaría Común, los Oficiales de Partes, los Archivistas, Actuarios, y el personal de apoyo sustantivo del Pleno Jurisdiccional de la Sala Superior y de las Salas Regionales, deberán capturar los datos que requieran los Sistemas, en los términos previstos en este Reglamento;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-VIII. Los Presidentes de las Salas Regionales deberán enviar en forma mensual a la Dirección General de Informática, a través de medios electrónicos, las copias de resoluciones y acuerdos de la actividad jurisdiccional, generados por los Magistrados Instructores integrantes de la Sala, respecto de los juicios que se registren y controlen a través del Sistema de Control y Seguimiento de Juicios;
+VIII. Los Presidentes de las Salas Regionales deberán enviar en forma mensual a la Dirección General del Sistema de Justicia en Línea, a través de medios electrónicos, las copias de resoluciones y acuerdos de la actividad jurisdiccional, generados por los Magistrados Instructores integrantes de la Sala, respecto de los juicios que se registren y controlen a través del Sistema de Control y Seguimiento de Juicios;
 
 > <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -1427,9 +1455,9 @@ X. Cualquier informe que la Sala Superior, el Presidente o los Magistrados visit
 
 La Junta evaluará el Sistema de Control y Seguimiento de Juicios así como el Sistema de Justicia en Línea y, en su caso, autorizará las propuestas de adecuaciones necesarias para optimizar su operación.
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-En caso de ser necesario corregir la información contenida en los Sistemas respectivos, las Salas Regionales deberán solicitarlo a la Junta, por conducto de la Unidad de Preparación y Seguimiento de Visitas, mediante escrito en el que motiven su petición y una vez autorizada, las Direcciones Generales del Sistema de Justicia en Línea o de Informática, según corresponda, podrán efectuar la corrección.
+En caso de ser necesario corregir la información contenida en los Sistemas respectivos, las Salas Regionales deberán solicitarlo a la Junta, por conducto de la Unidad de Seguimiento de Visitas, mediante escrito en el que motiven su petición y una vez autorizada, la Dirección General del Sistema de Justicia en Línea podrá efectuar la corrección.
 
 ### Capítulo XIII. Del Sistema de Justicia en Línea
 
@@ -1481,45 +1509,47 @@ En todo caso, en los asuntos de la competencia del Tribunal, en el primer acuerd
 
 Para el cumplimiento de sus atribuciones, la Junta contará con las Secretarías, unidades administrativas y servidores públicos que se indican a continuación:
 
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
 I. Secretarías:
 
-a) Secretaría Técnica Ejecutiva;
+a) Secretaría Operativa de Administración;
 
-b) Secretaria Operativa de Administración, y
+b) Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, y
 
 c) Secretaría Auxiliar.
 
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
 II. Unidades administrativas:
 
-a) Dirección General de Planeación Estratégica;
+a) Dirección General de Programación y Presupuesto;
 
-b) Dirección General de Programación y Presupuesto;
+b) Dirección General de Recursos Humanos:
 
-c) Dirección General de Recursos Humanos;
+c) Dirección General de Recursos Materiales y Servicios Generales;
 
-d) Dirección General de Recursos Materiales y Servicios Generales;
+d) Dirección General de Sistemas de Carrera;
 
-e) Dirección General de Sistemas de Carrera;
+e) Dirección General de Innovación Institucional;
 
-f) Dirección General del Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo;
+f) Dirección General de Infraestructura de Cómputo y Comunicaciones;
 
 g) Dirección General del Sistema de Justicia en Línea;
 
-h) Dirección General de Informática;
+h) Unidad de Peritos;
 
-i) Delegaciones Administrativas de las Salas Regionales con sede distinta al Distrito Federal;
+i) Unidad de Enlace;
 
-j) Delegaciones de Informática de las Salas Regionales con sede distinta al Distrito Federal;
+j) Delegaciones Administrativas de las Salas Regionales con sede distinta al Distrito Federal, y
 
-k) Unidad de Enlace, y
-
-l) Unidad de Preparación y Seguimiento de Visitas.
+k) Delegaciones de TICs de las Salas Regionales con sede distinta al Distrito Federal.
 
 III. Servidores Públicos: Los Secretarios, Directores Generales, Delegados y Titulares de las áreas a que se refieren las fracciones anteriores; los Directores, Subdirectores y Jefes de Departamento que se señalen en los manuales de organización respectivos, y el personal de enlace que conforme a las necesidades del servicio se requieran y que figuren en el presupuesto autorizado.
 
 Los servidores públicos a que se refieren las fracciones anteriores serán considerados personal de confianza y para el desempeño de sus funciones contarán con el personal operativo que conforme a las necesidades del servicio se requiera y que figure en el presupuesto autorizado.
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 73.
 
@@ -1527,23 +1557,13 @@ Las Secretarías y unidades administrativas de la Junta estarán adscritas de la
 
 I. A la Junta:
 
-a) La Dirección General de Planeación Estratégica, y
-
-b) La Unidad de Preparación y Seguimiento de Visitas.
-
-II. A la Secretaría Técnica Ejecutiva:
-
 a) La Secretaría Operativa de Administración;
 
-b) La Secretaría Auxiliar;
+b) La Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, y
 
-c) La Dirección General del Sistema de Justicia en Línea;
+c) La Secretaría Auxiliar.
 
-d) La Dirección General de Informática, y
-
-e) La Dirección General del Centro de Estudios Superiores en materia Fiscal y Administrativa.
-
-III. A la Secretaría Operativa de Administración:
+II. A la Secretaría Operativa de Administración:
 
 a) La Dirección General de Programación y Presupuesto;
 
@@ -1555,19 +1575,27 @@ d) La Dirección General de Sistemas de Carrera, y
 
 e) Los Delegados Administrativos.
 
+III. A la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones:
+
+a) La Dirección General de Innovación Institucional;
+
+b) La Dirección General de Infraestructura de Cómputo y Comunicaciones;
+
+c) La Dirección General del Sistema de Justicia en Línea, y
+
+d) Los Delegados de TICs.
+
 IV. A la Secretaría Auxiliar:
 
-a) La Unidad de Enlace.
+a) La Unidad de Peritos, y
 
-V. A la Dirección General de Informática:
+b) La Unidad de Enlace.
 
-a) Los Delegados de Informática.
-
-Los Delegados Administrativos estarán adscritos operativamente al Coordinador de las Salas Regionales o al Presidente de la Sala Regional según corresponda, y normativamente a la Secretaría Operativa de Administración.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 74.
 
-Corresponde a los Secretarios, Directores Generales, Delegados y Titulares de las áreas a que se refieren los artículos 72, fracciones I y II, y 92 del presente Reglamento:
+Corresponde a los Secretarios, Directores Generales, Delegados y Titulares de las áreas a que se refieren los artículos 72, fracciones I y II, y 90 del presente Reglamento:
 
 I. Rendir a su superior jerárquico, con la periodicidad que determine, los informes de actividades que hayan desarrollado en el periodo respectivo;
 
@@ -1593,27 +1621,7 @@ X. Las demás facultades que les confieran las disposiciones legales y administr
 
 ###### Artículo 75.
 
-Corresponde a la Secretaría Técnica Ejecutiva:
-
-I. Asistir a las sesiones ordinarias y extraordinarias de la Junta;
-
-II. Coadyuvar con la Junta en el desempeño de sus funciones, y exponer, a petición de sus integrantes, precisiones complementarias a los proyectos que se presenten a consideración de la misma;
-
-III. Proporcionar a la Junta, con la debida anticipación, la documentación que le sea requerida para el cumplimiento de sus funciones;
-
-IV. Presentar a la Secretaría Auxiliar de la Junta, los asuntos de su competencia que proponga sean tratados por la Junta;
-
-V. Coordinar la planeación de los temas y asuntos de su competencia a tratar en la Junta, y supervisar el desarrollo y seguimiento de los mismos;
-
-VI. Hacer del conocimiento de las Secretarías y unidades administrativas de la Junta, los acuerdos y resoluciones de la Junta en materia de su competencia, así como verificar su ejecución;
-
-VII. Coordinar el desempeño de las funciones encomendadas a las Secretarías y unidades administrativas de la Junta, y vigilar su cumplimiento;
-
-VIII. Convocar, por conducto de la Secretaría Auxiliar, a las Secretarías y unidades administrativas de la Junta, a las reuniones de esta última cuando así lo solicite o cuando los temas de las sesiones de trabajo sean de su competencia, y
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-IX. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que competan a las Secretarías y unidades administrativas que tenga adscritas.
+(DEROGADO, D.O.F. 18 DE ABRIL DE 2012)
 
 > <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -1655,13 +1663,61 @@ XVI. Coordinar y vigilar las actividades de los Delegados Administrativos;
 
 XVII. Dirigir los Programas de Protección Civil y de Seguridad e Higiene, así como verificar la buena marcha del servicio médico dentro del Tribunal;
 
-XVIII. Requerir a las unidades administrativas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes internos y externos, y
+XVIII. Requerir a las unidades administrativas del Tribunal la información y documentación necesarias para la elaboración de informes o reportes internos y externos, y (sic)
 
-XIX. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que le competan a las unidades administrativas que tenga adscritas.
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XIX. Coordinar la planeación de los temas y asuntos de su competencia que deban ser sometidos a consideración de la Junta;
+
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XX. Presentar a la Secretaría Auxiliar la información y documentación correspondiente a los asuntos de su competencia que deban ser sometidos a la consideración de la Junta;
+
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XXI. Asistir a las sesiones ordinarias y extraordinarias de la Junta a las que sea convocado y exponer, a petición de sus integrantes, precisiones complementarias a los proyectos de su competencia, que se presenten a consideración de la misma;
+
+> <small>(ADICIONADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XXII. Hacer del conocimiento de las unidades administrativas que tenga adscritas, los acuerdos y resoluciones de la Junta en materia de su competencia, supervisar su desarrollo y verificar su ejecución, y
+
+XXIII. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que le competan a las unidades administrativas que tenga adscritas.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 77.
 
-(DEROGADO, D.O.F. 21 DE JUNIO DE 2011)
+Corresponde a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones:
+
+I. Dar seguimiento al cumplimiento de los objetivos del Plan Estratégico del Tribunal;
+
+II. Revisar y presentar a la Junta el Programa Institucional en TICs, así como las políticas, objetivos, estrategias y líneas de acción para su desarrollo y supervisar su ejecución, en coordinación con las áreas competentes del Tribunal;
+
+III. Planear y coordinar la aplicación de las políticas y programas en materia de TICs, de conformidad con la normatividad aplicable;
+
+IV. Fijar y proponer a la Junta políticas y estrategias, para que todos los sistemas informáticos y soluciones digitales de comunicación e información del Tribunal existentes y por desarrollar, se integren al Sistema de Justicia en Línea;
+
+V. Evaluar los requerimientos del Tribunal en materia de TICs, así como el cumplimiento de las obligaciones contratadas con terceros en esta materia, conforme a la normatividad aplicable;
+
+VI. Revisar y determinar las acciones relacionadas con la administración de riesgos en el ámbito de TICs e implementar indicadores de gestión y medidas para asegurar el cumplimiento del Programa Institucional en TICs;
+
+VII. Vigilar la operación y funcionalidad del Sistema de Justicia en Línea, del Sistema de Control y Seguimiento de Juicios y, del Sistema Automático de Recepción de Oficialías de Partes;
+
+VIII. Supervisar la ejecución de los programas de capacitación en TICs;
+
+IX. Dirigir, coordinar, supervisar y vigilar el cumplimiento de las funciones encomendadas a los Delegados de TICs y a las unidades administrativas que tiene adscritas;
+
+X. Participar, con las unidades administrativas competentes del Tribunal, en la celebración de convenios, contratos y demás instrumentos jurídicos, con organismos, instituciones o entidades tanto públicas como privadas, nacionales o internacionales en materia de TICs, conforme a la normatividad aplicable;
+
+XI. Presentar a la Secretaría Auxiliar la información y documentación correspondiente a los asuntos de su competencia que deban ser sometidos a la consideración de la Junta;
+
+XII. Coordinar la planeación de los temas y asuntos de su competencia que deban ser sometidos a consideración de la Junta;
+
+XIII. Asistir a las sesiones ordinarias y extraordinarias de la Junta a las que sea convocado y exponer, a petición de sus integrantes, precisiones complementarias a los proyectos de su competencia, que se presenten a consideración de la misma;
+
+XIV. Hacer del conocimiento de las unidades administrativas que tenga adscritas, los acuerdos y resoluciones de la Junta en materia de su competencia, supervisar su desarrollo y verificar su ejecución, y
+
+XV. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que le competan a las unidades administrativas que tenga adscritas.
 
 ###### Artículo 78.
 
@@ -1675,7 +1731,9 @@ III. Recibir la documentación de los asuntos que deban someterse a la considera
 
 IV. Auxiliar al Presidente en la elaboración del orden del día de las sesiones de la Junta;
 
-V. Verificar y declarar la integración del quórum en las sesiones de la Junta;
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+V. Asistir a las sesiones de la Junta, así como verificar y declarar la integración del quórum en las mismas;
 
 VI. Dar cuenta en las sesiones de la Junta de los asuntos que se someten a su consideración; tomar la votación de sus integrantes, formular el acta relativa y comunicar las decisiones que se acuerden;
 
@@ -1693,11 +1751,13 @@ XII. Notificar los acuerdos y resoluciones que determine la Junta;
 
 XIII. Coadyuvar en la preparación de la memoria anual de funcionamiento del Tribunal que la Junta debe presentar al Presidente de la República y al Congreso de la Unión, y
 
-> <small>(ADICIONADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-XIV. Supervisar el correcto funcionamiento de la Unidad de Enlace, y
+XIV. Supervisar el correcto funcionamiento de las Unidades de Peritos y de Enlace, y
 
-XV. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+XV. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que competan a las unidades administrativas que tenga adscritas.
 
 > <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -1705,31 +1765,11 @@ Sin perjuicio del ejercicio directo de las atribuciones establecidas en el prese
 
 ### Capítulo XVII. De las Unidades Administrativas de la Junta
 
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
 ###### Artículo 79.
 
-Corresponde a la Dirección General de Planeación Estratégica:
-
-I. Formular, en coordinación con las áreas del Tribunal, el plan estratégico anual, así como las políticas, objetivos, estrategias y líneas de acción para su desarrollo y presentarlo a la Junta;
-
-II. Coordinar la elaboración e integración de los programas e informes del Tribunal, relacionados con su desarrollo;
-
-III. Efectuar los estudios, análisis e investigaciones necesarios para la planeación integral de las actividades del Tribunal, así como para conocer la posición e impacto de su labor en el entorno económico y social del país;
-
-IV. Participar en el desarrollo de los productos estadísticos y herramientas para el manejo de información que apoyen la planeación integral del Tribunal;
-
-V. Coordinar la evaluación del plan estratégico, programas y proyectos prioritarios del Tribunal y formular las recomendaciones respecto al avance, resultados e impacto de los mismos;
-
-VI. Coordinar y proponer las acciones relacionadas con la administración de riesgos y formular recomendaciones respecto a las medidas necesarias para asegurar el cumplimiento de los objetivos y metas estratégicas del Tribunal;
-
-VII. Participar en la elaboración de propuestas de cambio estructural que contribuyan a la transformación y desarrollo del Tribunal, y
-
-VIII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-###### Artículo 80.
-
 Corresponde a la Dirección General de Programación y Presupuesto:
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 I. Administrar, en el ámbito de su competencia, los recursos financieros, cuentas bancarias, valores, inversiones y pagos, a través de su tesorería, con estricta observancia de las políticas, normas, lineamientos, procedimientos y mecanismos de planeación, programación, ejecución y registro aprobados y demás normatividad aplicable;
 
@@ -1737,15 +1777,13 @@ II. Coordinar, elaborar, revisar y tramitar el anteproyecto del presupuesto anua
 
 III. Controlar y dar seguimiento al ejercicio programático presupuestal, así como informar a la Junta respecto de su avance;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
 IV. Evaluar y autorizar las adecuaciones presupuestales que se requieran conforme a la normatividad vigente e informar a la Secretaría de Hacienda y Crédito Público acerca de las mismas;
 
 V. Establecer los procedimientos para el trámite de pago de la documentación comprobatoria de operaciones que afecten el presupuesto del Tribunal, supervisar su aplicación y resguardar la documentación relativa;
 
 VI. Supervisar el trámite de pago de los compromisos, verificando de manera previa que la documentación justificativa y comprobatoria del gasto, se ajuste a las disposiciones que lo regulan;
 
-VII. Supervisar el entero oportuno de los ingresos excedentes que genere el Tribunal a la Tesorería de la Federación;
+VII. Informar a la Secretaría de Hacienda y Crédito Público de los enteros realizados a la Tesorería del Tribunal por concepto de ingresos excedentes;
 
 VIII. Operar la contabilidad presupuestaria y patrimonial del Tribunal conforme a las disposiciones normativas aplicables;
 
@@ -1765,7 +1803,9 @@ XV. Promover que las unidades responsables del Tribunal den cumplimiento a las d
 
 XVI. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-###### Artículo 81.
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 80.
 
 Corresponde a la Dirección General de Recursos Humanos:
 
@@ -1773,7 +1813,7 @@ I. Administrar los recursos humanos del Tribunal con base en la Ley y en las pol
 
 II. Realizar las gestiones necesarias para registrar y mantener actualizada la estructura ocupacional del Tribunal ante las autoridades competentes;
 
-III. Planear, organizar, realizar y controlar, entre otras, las acciones relativas al nombramiento, contratación, pago de remuneraciones y prestaciones e incentivos, de conformidad con la normatividad aplicable y los acuerdos de la Junta;
+III. Planear, organizar, realizar y controlar, entre otras, las acciones relativas al nombramiento, contratación, control de asistencia, pago de remuneraciones y prestaciones e incentivos, de conformidad con la normatividad aplicable y los acuerdos de la Junta;
 
 IV. Supervisar que las actividades relacionadas con el pago y la administración de los recursos relativos a sueldos, salarios, sistemas de estímulos, y recompensas, obligaciones fiscales y otras prestaciones se realicen en tiempo, conforme a la normatividad aplicable;
 
@@ -1783,11 +1823,9 @@ VI. Coadyuvar en el mantenimiento y operación del programa interno de protecci�
 
 VII. Proponer las normas a seguir en materia de prevención de riesgos profesionales y accidentes de trabajo, atendiendo las recomendaciones de la Comisión Mixta de Seguridad e Higiene;
 
-VIII. Coordinar los programas de servicio social y prácticas profesionales de pasantes en el Tribunal;
+VIII. Coordinar los programas de servicio social y prácticas profesionales de estudiantes de instituciones públicas y privadas a nivel medio superior y superior en el Tribunal;
 
-IX. Proponer, gestionar y difundir servicios asistenciales, culturales, deportivos y sociales para los trabajadores del Tribunal;
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+IX. Proponer, gestionar y difundir servicios asistenciales, culturales, deportivos y sociales para los trabajadores y trabajadoras del Tribunal, con perspectiva de género;
 
 X. Coadyuvar con el Centro de Estudios en la elaboración y ejecución del programa anual de capacitación que autorice la Junta;
 
@@ -1795,7 +1833,9 @@ XI. Coordinar y verificar la debida integración de los expedientes de los servi
 
 XII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-###### Artículo 82.
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 81.
 
 Corresponde a la Dirección General de Recursos Materiales y Servicios Generales:
 
@@ -1821,7 +1861,7 @@ X. Mantener actualizado el inventario físico de bienes muebles, su afectación 
 
 XI. Realizar el aseguramiento de los bienes patrimoniales del Tribunal, y ejecutar las acciones conducentes en los casos de siniestro;
 
-XII. Administrar y supervisar los servicios generales que le sean encomendados;
+XII. Administrar y supervisar las adquisiciones, los servicios generales, la ejecución de las obras y los servicios relacionados con las mismas que le sean encomendados;
 
 XIII. Llevar el control de los vehículos del Tribunal y coordinar el procedimiento para su asignación y uso;
 
@@ -1829,33 +1869,9 @@ XIV. Coordinar la integración y operación de la Unidad de Protección Civil, d
 
 XV. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-###### Artículo 83.
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-Corresponde a los Delegados Administrativos:
-
-I. Ejecutar las órdenes relacionadas con el ejercicio del presupuesto y elaborar los programas presupuestarios, conforme a las instrucciones de la Dirección General de Programación y Presupuesto;
-
-II. Analizar y solicitar, a través de la Dirección General de Programación y Presupuesto, las afectaciones presupuestarias que se requieran;
-
-III. Tramitar los movimientos de personal que autorice la Junta;
-
-IV. Controlar los bienes del Tribunal en la Sala o Salas de su adscripción, así como los resguardos de los asignados a los servidores públicos y vigilar su conservación;
-
-V. Llevar a cabo, conforme a la normatividad aplicable, los procedimientos de contratación y el pago de servicios, informando de ello oportunamente a la Secretaría Operativa de Administración;
-
-VI. Elaborar y suscribir los contratos para la adquisición de bienes, arrendamientos y contratación de servicios, y, en su caso, rescindirlos o darlos por terminados anticipadamente, de acuerdo a la normatividad vigente;
-
-VII. Asegurar el debido cumplimiento de los servicios que se contraten y mantener el control de acceso del personal y de los bienes a los inmuebles;
-
-VIII. Adoptar las medidas necesarias para la debida observancia de los Lineamientos de Gestión de los Delegados Administrativos;
-
-IX. Rendir los informes que le sean solicitados por las unidades administrativas competentes en materia de recursos financieros, humanos y materiales asignados a la Sala o Salas de su adscripción, y
-
-X. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-###### Artículo 84.
+###### Artículo 82.
 
 Corresponde a la Dirección General de Sistemas de Carrera:
 
@@ -1881,9 +1897,259 @@ X. Administrar el registro de servidores públicos de carrera y expedir las cons
 
 XI. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+###### Artículo 83.
+
+Corresponde a los Delegados Administrativos:
+
+I. Ejecutar las órdenes relacionadas con el ejercicio del presupuesto y elaborar los programas presupuestarios, conforme a las instrucciones de la Dirección General de Programación y Presupuesto;
+
+II. Analizar y solicitar, a través de la Dirección General de Programación y Presupuesto, las afectaciones presupuestarias que se requieran;
+
+III. Tramitar los movimientos de personal que autorice la Junta;
+
+IV. Controlar los bienes del Tribunal en la Sala o Salas de su adscripción, así como los resguardos de los asignados a los servidores públicos y vigilar su conservación;
+
+V. Llevar a cabo, conforme a la normatividad aplicable, los procedimientos de contratación y el pago de servicios, informando de ello oportunamente a la Secretaría Operativa de Administración;
+
+VI. Elaborar y suscribir los contratos para la adquisición de bienes, arrendamientos y contratación de servicios, y, en su caso, rescindirlos o darlos por terminados anticipadamente, de acuerdo a la normatividad vigente;
+
+VII. Asegurar el debido cumplimiento de los servicios que se contraten y mantener el control de acceso del personal y de los bienes a los inmuebles;
+
+VIII. Adoptar las medidas necesarias para la debida observancia de los Lineamientos de Gestión de los Delegados Administrativos;
+
+IX. Rendir los informes que le sean solicitados por las unidades administrativas competentes en materia de recursos financieros, humanos y materiales asignados a la Sala o Salas de su adscripción, y
+
+X. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 84.
+
+Corresponde a la Dirección General de Innovación Institucional:
+
+I. Coordinar con las áreas del Tribunal, las acciones necesarias para el seguimiento e instrumentación del Plan Estratégico institucional;
+
+II. Formular, en coordinación con las áreas del Tribunal, el Programa Institucional en TICs, así como las políticas, objetivos, estrategias y líneas de acción para su desarrollo, y someterlo a la consideración de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+
+III. Dictar las políticas, lineamientos y/o recomendaciones en materia de TICs a las unidades administrativas del Tribunal, con base en el Programa Institucional en TICs aprobado;
+
+IV. Coordinar la elaboración e integración de los programas e informes del Tribunal, relacionados con las TICs;
+
+V. Identificar los requerimientos de innovación tecnológica en apoyo a las funciones jurisdiccionales y administrativas;
+
+VI. Evaluar el Programa Institucional en TICs y formular las recomendaciones respecto a su avance y resultados;
+
+VII. Verificar los avances tecnológicos en el ámbito de las TICs a través del acceso a la información que se genere por distintos medios;
+
+VIII. Supervisar y dar seguimiento a los servicios contratados con terceros en el ámbito de TICs de su competencia;
+
+IX. Formular y proponer las acciones relacionadas con la administración de riesgos en TICs y emitir recomendaciones respecto a las medidas necesarias para asegurar el cumplimiento de los objetivos y metas estratégicas del Tribunal;
+
+X. Elaborar, conjuntamente con las Direcciones Generales de Infraestructura de Cómputo y Comunicaciones y del Sistema de Justicia en Línea, el programa anual de capacitación en TICs, así como de la funcionalidad del Sistema de Justicia en Línea, y remitirlo al Centro de Estudios para su instrumentación, y
+
+XI. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+Sin perjuicio de su ejercicio directo por parte del Director General de Innovación Institucional, al Director de Administración de Proyectos Tecnológicos, corresponderá el ejercicio de las atribuciones previstas en las fracciones I, IV, VI, VIII y IX, y al Director de Política Informática corresponderá el ejercicio de las atribuciones previstas en las fracciones II, III, V, VII y X.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 85.
+
+Corresponde a la Dirección General de Infraestructura de Cómputo y Comunicaciones:
+
+I. Diseñar y proponer a la Dirección General de Innovación Institucional las políticas, lineamientos, normas o procedimientos en materia de TICs de su competencia, conforme al marco tecnológico existente, a fin de fortalecer y complementar los servicios informáticos y la plataforma tecnológica institucional;
+
+II. Difundir, promover, implementar, aplicar y vigilar las políticas, lineamientos, normas y procedimientos en materia de TICs de su competencia;
+
+III. Definir, diseñar, establecer, operar y administrar de manera directa o mediante la contratación de servicios de terceros, la plataforma tecnológica del Tribunal que permita apoyar a las diferentes unidades administrativas y jurisdiccionales en el cumplimiento de sus funciones;
+
+IV. Implementar, supervisar y evaluar la plataforma tecnológica y los servicios informáticos que se presten en el Tribunal, de acuerdo a las mejores prácticas nacionales e internacionales, en apoyo a las especificaciones técnicas que determine la Dirección General del Sistema de Justicia en Línea;
+
+V. Promover, permanentemente, la evolución, innovación, optimización y estandarización de la plataforma tecnológica;
+
+VI. Planear y ejercer el presupuesto en materia de TICs que le corresponda, conforme a los objetivos institucionales del Tribunal;
+
+VII. Dictaminar la viabilidad técnica y operativa de los requerimientos de las unidades administrativas y jurisdiccionales del Tribunal, para la adquisición o arrendamiento de bienes y servicios en materia de TICs que le corresponda, conforme a las políticas y criterios autorizados;
+
+VIII. Administrar y operar los servicios de infraestructura de cómputo, de comunicaciones, aplicaciones informáticas y componentes tecnológicos, de manera directa o mediante la contratación de terceros;
+
+IX. Proporcionar asesoría, soporte técnico y asistencia a los usuarios de los bienes y servicios informáticos institucionales, considerando el entorno, sus funciones y la normatividad aplicable;
+
+X. Promover el uso racional, la optimización y aprovechamiento de los distintos sistemas, equipos, redes y dispositivos tecnológicos con que cuenta el Tribunal;
+
+XI. Proponer y contribuir a la sistematización, optimización y homologación de las funciones y los procesos administrativos del Tribunal, mediante el uso de elementos, herramientas y componentes tecnológicos;
+
+XII. Proveer las soluciones y herramientas tecnológicas que permitan operar y administrar los sistemas de información que apoyan las funciones y actividades de las unidades administrativas del Tribunal;
+
+XIII. Diseñar, desarrollar, integrar, implementar, proporcionar y mantener los sistemas y servicios informáticos que requieran las unidades administrativas del Tribunal, previa opinión de la Dirección General del Sistema de Justicia en Línea;
+
+XIV. Diseñar, implementar y evaluar los mecanismos y procedimientos que permitan la integridad, accesibilidad, disponibilidad, seguridad, confidencialidad y resguardo de la información que se almacena en la plataforma tecnológica del Tribunal;
+
+XV. Diseñar, proponer y supervisar la implementación de sistemas o mecanismos tecnológicos para administrar casos de contingencia, así como ejecutar las acciones relacionadas con la administración de riesgos en TICs de su competencia;
+
+XVI. Planear, administrar y evaluar el mantenimiento preventivo, detectivo y correctivo de los bienes y servicios informáticos, así como de los componentes de la plataforma tecnológica del Tribunal;
+
+XVII. Diseñar, implementar, operar, administrar y evaluar el desempeño de las redes locales, así como los enlaces de comunicación arrendados o propios, que permitan la comunicación entre los inmuebles o centros de cómputo administrados por el Tribunal;
+
+XVIII. Operar y administrar los centros de cómputo en los que se tenga infraestructura tecnológica propiedad del Tribunal o de arrendamiento con terceros;
+
+XIX. Definir, diseñar, establecer, operar y administrar de manera directa o mediante la contratación de servicios de terceros, los sistemas de energía eléctrica ininterrumpible (UPS) que soporten la continuidad de operaciones del equipo de cómputo en caso de fallas en el suministro eléctrico en los inmuebles que ocupan las diferentes unidades administrativas y jurisdiccionales;
+
+XX. Definir, diseñar, proponer, establecer, operar y administrar de manera directa o en conjunto con la Dirección General de Recursos Materiales y Servicios Generales, los sistemas de generación de energía (plantas generadoras de energía o plantas de emergencia) que soporten la continuidad de operaciones del equipo de cómputo en caso de fallas en el suministro eléctrico en los inmuebles que ocupan las diferentes unidades administrativas y jurisdiccionales;
+
+XXI. Definir, establecer, operar y administrar los servicios de telefonía local y de larga distancia nacional e internacional contratados con terceros y que ocupan para el desarrollo de sus funciones las diferentes unidades administrativas y jurisdiccionales;
+
+XXII. Brindar el apoyo administrativo y técnico a los Delegados de TICs de las Salas Regionales con sede distinta al Distrito Federal;
+
+XXIII. Formular y recopilar, anualmente, las necesidades de las unidades administrativas y jurisdiccionales en materia de TICs que le corresponda, a fin de elaborar el plan de adquisiciones o arrendamiento de bienes y servicios informáticos;
+
+XXIV. Diseñar, desarrollar, operar y administrar el funcionamiento de la página web institucional y otros sitios del Tribunal que tengan presencia en internet, mediante el uso de herramientas y componentes tecnológicos;
+
+XXV. Administrar las licencias de programas de cómputo o pólizas de mantenimiento adquiridas por el Tribunal, en materia de TICs;
+
+XXVI. Participar con las unidades administrativas competentes del Tribunal, en la celebración de contratos, convenios y demás instrumentos jurídicos, con organismos, instituciones o entidades tanto públicas como privadas, nacionales o internacionales, en materia de TICs de su competencia;
+
+XXVII. Coadyuvar, con la Dirección General de Innovación Institucional, en la elaboración de programas o planes de capacitación en materia de TICs de su competencia;
+
+XXVIII. Acordar con el Secretario Operativo de TICs los asuntos de su competencia, y
+
+XXIX. Las demás que le señalen otras disposiciones jurídicas y la Junta.
+
+Sin perjuicio de su ejercicio directo por parte del Director General de Infraestructura de Cómputo y Comunicaciones y conforme a las normas y procedimientos establecidos en los Manuales de Organización respectivos, al Director de Infraestructura Tecnológica corresponderá el ejercicio de las atribuciones previstas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXV y XXVI; al Director de Arquitectura de Cómputo corresponderá el ejercicio de las atribuciones previstas en las fracciones I, II, III, IV, V, VIII, IX, X, XIV, XV, XVI, XVIII y XXIV; y al Director de Procesos Administrativos, corresponderá el ejercicio de las atribuciones previstas en las fracciones I, II, IV, IX, X, XI, XII, XIII, XIV, XV, XXII, XXIV y XXVII.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 86.
+
+Corresponde a la Dirección General del Sistema de Justicia en Línea:
+
+I. Planear, diseñar, desarrollar e implantar los sistemas informáticos que requiera el Tribunal y supervisar el cumplimiento de las obligaciones contratadas con terceros en esta materia, conforme a la normatividad aplicable;
+
+II. Proponer, difundir y vigilar el cumplimiento de las normas, políticas, lineamientos, estándares y procedimientos para el aseguramiento de la calidad y la seguridad de la información del Tribunal, en el ámbito de su competencia;
+
+III. Formular a la Dirección General de Infraestructura de Cómputo y Comunicaciones, los requerimientos para la adquisición o arrendamiento de Software y Hardware necesarios para la óptima operación del Sistema de Justicia en Línea;
+
+IV. Identificar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones los temas relacionados con el Sistema de Justicia en Línea que requieran difundirse;
+
+V. Identificar y proponer las reformas y adiciones a las disposiciones jurídicas aplicables al Tribunal, al juicio contencioso administrativo federal y al Sistema de Justicia en Línea, necesarias para la óptima operación de este último;
+
+VI. Determinar la viabilidad de los requerimientos funcionales del Sistema de Justicia en Línea, considerando las implicaciones técnicas y/o el impacto normativo y, en su caso, proponer modificaciones a disposiciones jurídicas y administrativas aplicables al Tribunal, al juicio contencioso administrativo federal y al Sistema de Justicia en Línea;
+
+VII. Proporcionar a las Salas el reporte que determine la existencia de la interrupción del servicio del Sistema de Justicia en Línea, en coordinación con la Dirección General de Infraestructura de Cómputo y Comunicaciones;
+
+VIII. Atender los requerimientos de las Salas en los que adviertan que alguna persona modificó, alteró, destruyó o provocó la pérdida de información contenida en el Sistema de Justicia en Línea, a efecto de que se proceda en los términos previstos en la Ley Federal de Procedimiento Contencioso Administrativo y demás lineamientos emitidos por la Junta, dando cuenta a esta última de lo anterior;
+
+IX. Instrumentar las medidas de protección para evitar conductas que provoquen modificaciones, alteraciones, destrucción y pérdida de la información contenida en el Sistema de Justicia en Línea;
+
+X. Administrar los contenidos de la página del juicio en línea;
+
+XI. Evaluar los requerimientos funcionales que deban ser incluidos en el Sistema de Justicia en Línea;
+
+XII. Dirigir, supervisar, e intervenir en las diversas fases de análisis, diseño, desarrollo y puesta en operación de los mantenimientos y/o actualizaciones que requiera el Sistema de Justicia en Línea y en su caso, verificar el cumplimiento de los servicios contratados a terceros;
+
+XIII. Identificar los requerimientos necesarios para la óptima operación del Sistema de Justicia en Línea, así como proponer y realizar las acciones que correspondan;
+
+XIV. Realizar las acciones necesarias tendentes al mantenimiento funcional del Sistema de Justicia en Línea;
+
+XV. Administrar los procesos relacionados con las actividades jurisdiccionales y con la información estadística del Sistema de Justicia en Línea;
+
+XVI. Establecer los mecanismos necesarios para que la información que se integre en el Sistema de Justicia en Línea pueda ser utilizada de manera óptima por todos los usuarios, de acuerdo a su competencia;
+
+XVII. Mantener actualizados los catálogos y plantillas del Sistema de Justicia en Línea;
+
+XVIII. Analizar los requerimientos de los usuarios del Sistema de Justicia en Línea y, en su caso, solicitar a la Dirección General de Infraestructura de Cómputo y Comunicaciones, los ajustes que correspondan a la infraestructura tecnológica para su implementación;
+
+XIX. Analizar los requerimientos técnicos de mejoras funcionales de los Sistemas Informáticos del Tribunal;
+
+XX. Participar en el desarrollo de los productos estadísticos y herramientas para el manejo de información que apoyen la planeación integral del Tribunal;
+
+XXI. Atender requerimientos de las Salas relacionados con las fallas del Sistema de Justicia en Línea, en cuanto al uso, acceso o recepción de notificaciones, así como a la consulta y el envío de información mediante la utilización de la firma electrónica avanzada, clave de acceso y contraseñas;
+
+XXII. Atender los requerimientos relacionados con el Sistema de Control y Seguimiento de Juicios;
+
+XXIII. Atender las solicitudes de requerimientos funcionales necesarios para la mejora en la operación del Sistema de Justicia en Línea, provenientes de usuarios internos y externos;
+
+XXIV. Establecer y administrar un Centro de Atención, que operará telefónicamente y en línea, para asesorar a los usuarios internos y externos del Sistema de Justicia en Línea;
+
+XXV. Dirigir, coordinar, evaluar y supervisar la operación y actividades de los Módulos de Registro del Sistema de Justicia en Línea, conforme a los lineamientos que al efecto expida la Junta;
+
+XXVI. Administrar el registro de usuarios internos y externos del Sistema;
+
+XXVII. Identificar las necesidades de conocimientos y habilidades de los usuarios del Sistema de Justicia en Línea, a efecto de diseñar, promover y evaluar la ejecución de planes y programas de capacitación respecto de la funcionalidad del Sistema, en coordinación con la Dirección General de Innovación Institucional, y
+
+XXVIII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+Sin perjuicio de su ejercicio directo por parte del Director General del Sistema de Justicia en Línea, al Director de Normatividad corresponderá el ejercicio de las atribuciones previstas en las fracciones V, VI, VII, VIII, X y XI; al Director de Procesos Jurisdiccionales corresponderá el ejercicio de las atribuciones previstas en las fracciones XI, XII, XIII, XIV, XV, XVI y XVII; al Director de Ingeniería de Software corresponderá el ejercicio de las atribuciones previstas en las fracciones VI, XII, XVIII, XIX y XX; al Director de Sistemas Jurisdiccionales corresponderá el ejercicio de las atribuciones previstas en las fracciones XIV y XXII, y al Director de Registro y Atención a Usuarios corresponderá el ejercicio de las atribuciones previstas en las fracciones XXI, XXII, XXIII, XXIV, XXV, XXVI y XXVII.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 87.
+
+Corresponde a las Delegaciones de TICs:
+
+I. Recabar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, los requerimientos necesarios para implantar, administrar y operar la infraestructura tecnológica requerida;
+
+II. Instalar, configurar, actualizar, controlar, proveer, inventariar, administrar y supervisar la infraestructura tecnológica, la cual considera entre otras cosas a la red de datos local, el equipo de cómputo central y los equipos de comunicaciones, así como sus componentes y sistemas de información, de acuerdo a los procedimientos y normatividad aplicables que les indique la Dirección General de Infraestructura de Cómputo y Comunicaciones;
+
+III. Desarrollar e implementar los programas y/o estrategias que se autoricen y expidan en materia TICs, conforme a las políticas y lineamientos del Tribunal y demás disposiciones jurídicas aplicables que les indique la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+
+IV. Aplicar los procedimientos, normas y estándares autorizados o relacionados con las mejores prácticas nacionales o internacionales para mantener segura, confiable, privada e íntegra la información administrativa, jurisdiccional o especializada que se procesa, almacena o transmite en los equipos informáticos y de telecomunicaciones que se utilizan para dicho propósito, conforme a las indicaciones de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
+
+V. Supervisar el funcionamiento y las condiciones de la operación de los equipos de cómputo, de comunicaciones e instalaciones necesarias para un desempeño óptimo de la infraestructura tecnológica instalada, así como ejecutar y en su caso, validar los servicios y/o bienes respecto a la infraestructura de cómputo y comunicaciones que se contraten con terceros;
+
+VI. Respaldar y resguardar la información administrativa, jurisdiccional o especializada conforme a los procedimientos establecidos, dando la certeza de su integridad y calidad;
+
+VII. Atender las solicitudes de soporte técnico y asistencia que realizan los usuarios de los sistemas de información y equipos de cómputo asignados;
+
+VIII. Informar oportunamente a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, los eventos que afecten directamente la operatividad total o parcial de la Sala o Salas bajo su encargo, y
+
+IX. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 88.
+
+Corresponde a la Unidad de Peritos:
+
+I. Llevar y mantener actualizado el registro de Peritos del Tribunal;
+
+II. Atender las solicitudes de los Presidentes de las Salas Regionales, Especializadas o Auxiliares, respecto a aquellos peritos cuyas materias no estén consideradas en el Registro de Peritos;
+
+III. Realizar los procesos para la incorporación de peritos al Registro del Tribunal y verificar que los mismos se lleven a cabo de manera programada y oportuna, conforme a los lineamientos y reglas establecidos en el artículo 61 del presente Reglamento;
+
+IV. Proponer los acuerdos para la inscripción, permanencia o cancelación de peritos en el Registro, efectuando los asientos que ordene la Junta;
+
+V. Proponer a la Junta el arancel que servirá de base para el pago de los honorarios de los peritos;
+
+VI. Comunicar a la Junta cualquier irregularidad en la conducta o ética de los peritos, así como de cualquier infracción a alguna disposición normativa por parte de éstos,
+
+VII. Rendir los informes que le solicite el Secretario Auxiliar y la Junta, y
+
+VIII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
+
+###### Artículo 89.
+
+Corresponde a la Unidad de Enlace el ejercicio de las facultades establecidas en el artículo 70, fracción I, del presente Reglamento.
+
+> <small>N. DE E. EL ACUERDO SS/5/2012, D.O.F. 18 DE ABRIL DE 2012, INDICA LA UBICACIÓN DE ESTE CAPÍTULO, POR LO QUE ANTERIORMENTE COMPRENDÍA DEL ARTÍCULO 92 AL 94, PARA QUEDAR DEL 90 AL 93.</small>
+
+### Capítulo XVIII. De las Unidades Administrativas Especializadas
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 92], D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 90.
+
+El Tribunal contará con las siguientes unidades administrativas especializadas, las cuales estarán adscritas al Presidente:
+
+I. Dirección General del Centro de Estudios;
+
+II. Dirección General de Comunicación Social, y
+
+III. Unidad de Asuntos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 91.
 
 Corresponde al Director General del Centro de Estudios:
 
@@ -1893,7 +2159,7 @@ II. Coordinar, compilar y dar seguimiento a los trabajos y compromisos del Congr
 
 III. Dirigir y coordinar la impartición de cursos, conferencias, congresos y seminarios conforme a los programas autorizados, así como formular las convocatorias y contenidos temáticos correspondientes;
 
-IV. Promover la investigación y difusión de las materias fiscal y administrativa;
+IV. Promover la investigación, enseñanza y difusión de las materias fiscal y administrativa, y participar con las unidades administrativas competentes del Tribunal, en la celebración de convenios con instituciones públicas y privadas, para tal efecto;
 
 V. Gestionar el reconocimiento de validez oficial de los estudios que imparta el Centro de Estudios;
 
@@ -1913,7 +2179,7 @@ XII. Elaborar, proponer y aplicar los lineamientos para determinar la integraci�
 
 XIII. Recopilar, revisar, clasificar y seleccionar la información y material necesario para la publicación de la Revista y demás obras del Tribunal, así como supervisar, en su caso, la captura, formación e impresión de las mismas;
 
-XIV. Gestionar, inscribir y mantener actualizados, a nombre del Tribunal, los derechos de autor de las obras que publique, así como resguardar y conservar los registros y demás documentación que obtenga;
+XIV. Gestionar, inscribir y mantener actualizados, a nombre del Tribunal, los derechos de autor, certificados de licitud y contenido, y otros registros análogos, de la Revista y demás obras que publique, así como resguardar y conservar los registros y demás documentación que obtenga;
 
 XV. Elaborar el informe anual del Centro de Estudios y presentarlo a la Junta;
 
@@ -1921,175 +2187,11 @@ XVI. Coadyuvar en la preparación del Informe Anual de Labores y de la Memoria A
 
 XVII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-La Dirección de Publicaciones estará adscrita al Centro de Estudios y, sin perjuicio de su ejecución directa por parte del Director General del Centro de Estudios, ejercerá las atribuciones previstas en las fracciones XI, XII, XIII, XIV y XVI del presente artículo.
+Sin perjuicio de su ejercicio directo por parte del Director General del Centro de Estudios, al Director de Difusión corresponderá el ejercicio de las atribuciones previstas en las fracciones XI, XII, XIII, XIV y XVI del presente artículo.
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-###### Artículo 86.
-
-Corresponde a la Dirección General del Sistema de Justicia en Línea:
-
-I. Identificar los requerimientos necesarios para la óptima operación del Sistema de Justicia en Línea, así como proponer y realizar las acciones que correspondan;
-
-II. Realizar las acciones necesarias tendentes al mantenimiento funcional del Sistema de Justicia en Línea;
-
-III. Administrar los procesos relacionados con las actividades jurisdiccionales y con la información estadística del Sistema de Justicia en Línea;
-
-IV. Analizar los requerimientos de los usuarios del Sistema de Justicia en Línea y, en su caso, solicitar a la Dirección General de Informática, los ajustes que correspondan a los procesos para su implementación;
-
-V. Mantener actualizados los catálogos y plantillas del Sistema de Justicia en Línea;
-
-VI. Establecer, en coordinación con la Dirección General de Planeación Estratégica, los mecanismos necesarios para que la información que se integre en el Sistema de Justicia en Línea pueda ser utilizada de manera óptima por todos los usuarios, de acuerdo a su competencia;
-
-VII. Atender las solicitudes de requerimientos funcionales y tecnológicos necesarios para la mejora en la operación del Sistema de Justicia en Línea, provenientes de usuarios internos y externos;
-
-VIII. Evaluar los requerimientos funcionales a que se refiere la fracción anterior para que, en su caso, los mismos sean incluidos en el Sistema de Justicia en Línea;
-
-IX. Promover y coadyuvar con la Dirección General de Informática para que todos los sistemas informáticos y soluciones digitales de comunicación e información del Tribunal existentes y por desarrollar, se integren al Sistema de Justicia en Línea;
-
-X. Identificar y proponer los temas del Sistema de Justicia en Línea que requieran difundirse;
-
-XI. Identificar y proponer las reformas a las disposiciones jurídicas y administrativas aplicables al Tribunal, al juicio contencioso administrativo federal y al Sistema de Justicia en Línea, necesarias para la óptima operación de este último;
-
-XII. Establecer y administrar un Centro de Atención, que operará telefónicamente y en línea, para asesorar a los usuarios internos y externos del Sistema de Justicia en Línea;
-
-XIII. Coordinar y supervisar la operación de los módulos de registro del Sistema de Justicia en Línea;
-
-XIV. Administrar el registro de usuarios del Sistema;
-
-XV. Identificar las necesidades de conocimientos y habilidades de los usuarios internos del Sistema de Justicia en Línea, a efecto de diseñar, promover y evaluar la ejecución de programas de capacitación;
-
-XVI. Mantener actualizado el Registro de Peritos del Tribunal;
-
-XVII. Atender las solicitudes de los Presidentes de las Salas Regionales, Especializadas o Auxiliares, respecto a aquellos peritos cuyas materias no estén consideradas en el Registro de Peritos;
-
-XVIII. Realizar los procesos para la incorporación de peritos al Registro del Tribunal y verificar que los mismos se lleven a cabo de manera programada y oportuna, conforme a los lineamientos y reglas establecidos en el artículo 61 del presente Reglamento;
-
-XIX. Proponer los acuerdos para la inscripción, permanencia o cancelación de peritos en el Registro, efectuando los asientos que ordene la Junta;
-
-XX. Proponer a la Junta, previa opinión de la Dirección General de Programación y Presupuesto, el arancel que servirá de base para el pago de los honorarios de los peritos;
-
-XXI. Comunicar a la Junta cualquier irregularidad en la conducta o ética de los peritos, así como de cualquier infracción a alguna disposición normativa por parte de éstos;
-
-XXII. Coordinar con la Dirección General de Informática, la adquisición o arrendamiento de Software y Hardware necesarios para la óptima operación del Sistema de Justicia en Línea, y
-
-XXIII. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-Sin perjuicio de su ejercicio directo por parte del Director General del Sistema de Justicia en Línea, al Director de Procesos y Estadística corresponderá el ejercicio de las atribuciones previstas en las fracciones II, III, IV, V, VI, VII, VIII y IX; al Director de Registro y Atención a Usuarios corresponderá el ejercicio de las atribuciones previstas en las fracciones XII, XIII, XIV y XV, y al Director de Normatividad y Registro de Peritos corresponderá el ejercicio de las atribuciones previstas en las fracciones X, XI, XVI, XVII, XVIII, XIX, XX y XXI de este artículo.
-
-###### Artículo 87.
-
-Corresponde a la Dirección General de Informática:
-
-I. Elaborar, difundir, promover y vigilar la aplicación de las políticas, lineamientos, normas y procedimientos en materia de tecnologías de la información y las comunicaciones, de conformidad con la normatividad aplicable;
-
-II. Dirigir, instrumentar, promover y supervisar los programas y estrategias en materia de tecnologías de la información y las comunicaciones autorizados, conforme a la normatividad aplicable;
-
-III. Definir, implantar y administrar la plataforma tecnológica del Tribunal para el cumplimiento de sus funciones;
-
-IV. Proporcionar el soporte técnico y la asistencia a los usuarios de los bienes y servicios informáticos del Tribunal;
-
-V. Planear, diseñar, desarrollar e implantar los sistemas informáticos que requiera el Tribunal y supervisar el cumplimiento de las obligaciones contratadas con terceros en esta materia, conforme a la normatividad aplicable;
-
-VI. Administrar los bienes y servicios informáticos del Tribunal de manera eficaz y eficiente;
-
-VII. Diseñar e implantar los procesos y sistemas electrónicos necesarios para salvaguardar el acceso, integridad, disponibilidad y seguridad de la información y las comunicaciones;
-
-VIII. Proponer, difundir y vigilar el cumplimiento de las normas, políticas, lineamientos, estándares y procedimientos para el aseguramiento de la calidad y la seguridad de la información del Tribunal;
-
-IX. Planear, administrar y evaluar la prestación de los servicios de mantenimiento preventivo y correctivo de los bienes y servicios informáticos;
-
-X. Controlar y resguardar las licencias de uso de programas de cómputo, así como administrar y operar los equipos de cómputo centrales y los sistemas de transmisión de voz y datos del Tribunal;
-
-XI. Evaluar nuevas tecnologías de la información y las comunicaciones con el fin de incorporar aquéllas que permitan la innovación, optimización y estandarización de la plataforma tecnológica del Tribunal;
-
-XII. Supervisar la implantación de procedimientos de operación y demás controles con el fin de asegurar el adecuado uso y administración de la información;
-
-XIII. Establecer los criterios técnicos, así como emitir los dictámenes técnicos para la adquisición o arrendamiento de bienes y servicios en materia de tecnologías de la información y las comunicaciones del Tribunal, conforme a la normatividad aplicable;
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-XIV. Dirigir y coordinar, evaluar y supervisar las actividades técnico-informáticas de los Delegados de Informática, y
-
-XV. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-Sin perjuicio de su ejercicio directo por parte del Director General de Informática y conforme a las normas y procedimientos establecidos en los Manuales de Organización respectivos, al Director de Infraestructura Tecnológica corresponderá el ejercicio de las atribuciones previstas en las fracciones III, IV, VI, VII, VIII, IX, X, XI, XIII y XIV; al Director de Arquitectura de Software corresponderá el ejercicio de las atribuciones previstas en las fracciones VI, VII, VIII, IX, X, XI y XIII, y a los Directores de Procesos Sustantivos, de Procesos Adjetivos y de Ingeniería de Software, corresponderán el ejercicio de las atribuciones previstas en las fracciones V, XI y XII.
-
-###### Artículo 88.
-
-Corresponde a las Delegaciones de Informática:
-
-I. Recabar y proponer a la Dirección General de Informática, los requerimientos necesarios para implantar, administrar y operar la infraestructura tecnológica requerida;
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-II. Instalar, configurar, actualizar, controlar, proveer, inventariar, administrar y supervisar la infraestructura tecnológica, la cual considera entre otras cosas a la red de datos local, el equipo de cómputo central y los equipos de comunicaciones, así como sus componentes y sistemas de información, de acuerdo a los procedimientos y normatividad aplicables que les indique la Dirección General de Informática;
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-III. Desarrollar e implementar los programas y/o estrategias que se autoricen y expidan en materia de tecnología de la información y comunicaciones, conforme a las políticas y lineamientos del Tribunal y demás disposiciones jurídicas aplicables que les indique la Dirección General de Informática;
-
-IV. Aplicar los procedimientos, normas y estándares autorizados o relacionados con las mejores prácticas nacionales o internacionales para mantener segura, confiable, privada e íntegra la información administrativa, jurisdiccional o especializada que se procesa, almacena o transmite en los equipos informáticos y de telecomunicaciones que se utilizan para dicho propósito;
-
-V. Supervisar el funcionamiento y las condiciones de la operación de los equipos de cómputo, de comunicaciones e instalaciones necesarias para un desempeño óptimo de la infraestructura tecnológica instalada, así como ejecutar y en su caso, validar los servicios y/o bienes informáticos que se contraten con terceros;
-
-VI. Respaldar y resguardar la información administrativa, jurisdiccional o especializada conforme a los procedimientos establecidos, dando la certeza de su integridad y calidad;
-
-VII. Atender las solicitudes de soporte técnico y asistencia que realizan los usuarios de los sistemas de información y equipos de cómputo asignados;
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-VIII. Informar oportunamente a la Dirección General de Informática y/o a la Dirección de Infraestructura Tecnológica, los eventos que afecten directamente la operatividad total o parcial de la Sala o Salas bajo su encargo, y
-
-IX. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-###### Artículo 89.
-
-Corresponde a la Unidad de Enlace el ejercicio de las facultades establecidas en el artículo 70, fracción I, del presente Reglamento.
-
-### Capítulo XVIII. De las Unidades Administrativas Especializadas
-
-###### Artículo 90.
-
-A la Unidad de Preparación y Seguimiento de Visitas corresponde:
-
-I. Apoyar a la Junta en la recopilación e integración de la documentación e información para realizar las visitas de verificación, inspección o indagación a Salas Regionales, así como en la evaluación correspondiente;
-
-II. Llevar el registro, control y seguimiento de las visitas efectuadas a las Salas Regionales;
-
-III. Formular y rendir los informes relativos a las visitas, conforme a las instrucciones de la Junta;
-
-IV. Integrar, clasificar y conservar la información y acervo documental correspondiente a las visitas que se efectúen y permitir su consulta en términos de la normatividad aplicable;
-
-V. Compilar y difundir las normas y lineamientos que se dicten para la realización de las visitas, así como los estándares o procedimientos internos de las Salas Regionales que regulen las actividades materia de revisión y evaluación por parte de la Junta;
-
-VI. Verificar la autenticidad de los datos que proporcionen las Salas Regionales en los informes estadísticos mensuales, informando de ello a la Junta y en su caso, remitirlos a la Dirección General de Informática para su captura;
-
-VII. Recibir y analizar las solicitudes de corrección a la información contenida en el Sistema de Control y Seguimiento de Juicios, sometiéndolas a la autorización de la Junta y en su caso, remitirlas a la Dirección General de Informática para su corrección;
-
-VIII. Proponer a la Junta métodos y procedimientos para la realización de las visitas, así como la implantación de sistemas y controles con el fin de asegurar la correcta administración y la disponibilidad inmediata de la información relativa a las visitas que se realicen, así como llevar a cabo la captura de la misma
-
-IX. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
-
-El Titular de la Unidad de Preparación y Seguimiento de Visitas deberá cumplir los requisitos previstos en el artículo 11 de la Ley para ser nombrado Secretario de Acuerdos y formará parte del sistema profesional de carrera jurisdiccional.
-
-###### Artículo 91.
-
-(DEROGADO, D.O.F. 21 DE JUNIO DE 2011)
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 93], D.O.F. 18 DE ABRIL DE 2012)</small>
 
 ###### Artículo 92.
-
-El Tribunal contará con las siguientes Unidades Administrativas especializadas, las cuales estarán adscritas al Presidente:
-
-I. Dirección General de Comunicación Social, y
-
-II. Dirección General de Asuntos Jurídicos.
-
-###### Artículo 93.
 
 Corresponde a la Dirección General de Comunicación Social:
 
@@ -2115,21 +2217,19 @@ X. Planear y coordinar, con el apoyo de las unidades administrativas, la informa
 
 XI. Las demás que le confieran otras disposiciones jurídicas.
 
-### Capítulo XIX. De la Contraloría Interna
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 94], D.O.F. 18 DE ABRIL DE 2012)</small>
 
-###### Artículo 94.
+###### Artículo 93.
 
-Corresponde a la Dirección General de Asuntos Jurídicos:
+Corresponde a la Unidad de Asuntos Jurídicos:
 
 I. Fijar y revisar desde el punto de vista jurídico, las bases de los convenios, contratos, acuerdos y demás actos jurídicos que celebre, emita u otorgue el Tribunal, así como dictaminar sobre su interpretación, suspensión, rescisión, revocación, terminación, nulidad y demás aspectos y efectos jurídicos;
 
 II. Presentar denuncia o querella ante el Ministerio Público competente, así como designar al personal autorizado para tal efecto, respecto de hechos que lo ameriten y en los que el Tribunal haya resultado ofendido o tenga interés jurídico y acordar conciliaciones en beneficio del Tribunal;
 
-III. Representar al Presidente del Tribunal, y/o a la Junta de Gobierno y Administración ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades de trabajo en las controversias laborales, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en los que intervenga, interponiendo los recursos que procedan, absolver posiciones a nombre del Presidente y/o de los integrantes de la Junta, ejerciendo la representación en el curso del proceso respectivo;
+III. Representar al Presidente, a la Sala Superior, al Pleno Jurisdiccional de la Sala Superior y a la Junta ante el Tribunal Federal de Conciliación y Arbitraje y Juntas Locales y Federales de Conciliación y Arbitraje y demás autoridades de trabajo en las controversias laborales, ejercitando las acciones, excepciones y defensas, conciliar, allanarse y transigir en los juicios en los que intervenga, interponiendo los recursos que procedan, absolver posiciones a nombre del Presidente y/o de los integrantes de la Junta, ejerciendo la representación en el curso del proceso respectivo;
 
-IV. Elaborar y proponer los informes previos y justificados que en materia de amparo deba rendir el Presidente y/o la Junta, con los elementos que proporcionen las unidades administrativas del Tribunal, asimismo, los relativos a los demás servidores públicos que sean señalados como autoridades responsables; así como llevar a cabo las actuaciones necesarias cuando intervenga en las controversias constitucionales o acciones de inconstitucionalidad; imponerse en autos cuando el Tribunal tenga carácter de tercero perjudicado en los juicios de amparo, y formular los recursos y las promociones que a dichos juicios se refieran;
-
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+IV. Elaborar y proponer los informes previos y justificados que en materia de amparo deba rendir el Presidente, la Sala Superior, el Pleno Jurisdiccional de la Sala Superior, las Secciones y la Junta, con los elementos que proporcionen las unidades administrativas del Tribunal, asimismo, los relativos a los demás servidores públicos que sean señalados como autoridades responsables; así como llevar a cabo las actuaciones necesarias cuando intervenga en las controversias constitucionales o acciones de inconstitucionalidad; imponerse en autos cuando el Tribunal tenga carácter de tercero perjudicado en los juicios de amparo, y formular los recursos y las promociones que a dichos juicios se refieran;
 
 V. Representar al Tribunal en los asuntos contenciosos en que sea parte; intervenir en toda clase de procedimientos administrativos, judiciales, laborales y contencioso administrativos, en el ámbito de competencia de la misma, y ante cualquier autoridad jurisdiccional o administrativa;
 
@@ -2143,13 +2243,17 @@ IX. Participar como asesor legal en los Comités integrados por el Tribunal, as�
 
 X. Las demás que establezcan las leyes y el presente Reglamento.
 
-Sin perjuicio de su ejercicio directo por parte del Director General de Asuntos Jurídicos, al Director Contencioso corresponderá el ejercicio de las atribuciones previstas en las fracciones II, III, IV, V, VI, VII y VIII, y al Director Consultivo corresponderá el ejercicio de las atribuciones previstas en las fracciones VI, VII, VIII y IX de este artículo.
+Sin perjuicio de su ejercicio directo por parte del Titular de la Unidad de Asuntos Jurídicos, al Director Consultivo y de Estudios Jurídicos corresponderá el ejercicio de las atribuciones previstas en las fracciones I, VI, VII, VIII y IX de este artículo.
 
-###### Artículo 95.
+> <small>N. DE E. EL ACUERDO SS/5/2012, D.O.F. 18 DE ABRIL DE 2012, INDICA LA UBICACIÓN DE ESTE CAPÍTULO, POR LO QUE ANTERIORMENTE COMPRENDÍA DEL ARTÍCULO 95 AL 100, PARA QUEDAR DEL 94 AL 100.</small>
+
+### Capítulo XIX. De la Contraloría Interna
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 95], D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 94.
 
 El Tribunal contará con una Contraloría Interna adscrita al Pleno Jurisdiccional de la Sala Superior, la que tendrá autonomía de gestión para el ejercicio de sus atribuciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 Al frente de la Contraloría habrá un Contralor Interno, a quien corresponden, además de las atribuciones establecidas en el artículo 46 de la Ley, las siguientes:
 
@@ -2163,8 +2267,6 @@ IV. Supervisar la atención de las quejas y denuncias que se presenten, así com
 
 V. Llevar a cabo las acciones que procedan conforme a la ley de la materia, a fin de garantizar el cobro de las sanciones económicas que se impongan a los servidores públicos a que se refiere el artículo 46, fracción I de la Ley;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
-
 VI. Supervisar que las observaciones emitidas por la Auditoría Superior de la Federación sean atendidas por los servidores públicos correspondientes, con la debida oportunidad;
 
 VII. Instruir los procedimientos y resolver los recursos que se presenten en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
@@ -2177,11 +2279,33 @@ X. Realizar auditorías de desempeño y promover las medidas preventivas que cor
 
 XI. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda o a petición de autoridad competente;
 
-XII. Las demás que le confieran las disposiciones jurídicas y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior.
+XII. Coadyuvar con la Junta, en el seguimiento de las recomendaciones u observaciones resultado de las visitas realizadas a las Salas Regionales por los Magistrados integrantes de la Junta, así como en la integración, clasificación y conservación de la documentación e información que le proporcionen con motivo de las visitas, y
 
-> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+XIII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias, así como las que competan a las unidades administrativas que tenga adscritas.
 
-Para el desempeño de sus funciones, la Contraloría Interna contará con una Coordinación de Gestión y las Direcciones de Auditoría, de Quejas, Denuncias y Responsabilidades, de Control y Evaluación y de Registro Patrimonial.
+Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas una Coordinación de Gestión y las Direcciones de Auditoría, de Quejas, Denuncias y Responsabilidades, de Control y Evaluación y de Registro Patrimonial, y para el ejercicio de las atribuciones previstas en la fracción XII de este artículo contará con la Unidad de Seguimiento de Visitas.
+
+> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+###### Artículo 95.
+
+A la Unidad de Seguimiento de Visitas corresponde:
+
+I. Efectuar, al inicio de cada año, un diagnóstico global de funcionamiento de las Salas Regionales con base en el análisis de los resultados de las visitas, y entregar a la Junta un resumen del estado que guardan las Salas visitadas, con la expresión gradual de las incidencias que requieran decisiones correctivas urgentes a cargo de la Junta;
+
+II. Apoyar a la Contraloría Interna, en el registro, control y seguimiento de las visitas efectuadas por los Magistrados Integrantes de la Junta a las Salas Regionales, incluyendo el seguimiento de las recomendaciones u observaciones resultado de dichas visitas, así como rendir los informes relativos a su cumplimiento, conforme a las instrucciones de la Contraloría Interna y los lineamientos jurídicos emitidos para tal efecto;
+
+III. Compilar y difundir las normas y lineamientos que se dicten para la realización de las visitas, así como los estándares o procedimientos internos de las Salas Regionales que regulen las actividades materia de revisión y evaluación por parte de la Junta;
+
+IV. Coadyuvar con la Dirección General del Sistema de Justicia en Línea, en la verificación aleatoria de la autenticidad de los datos que proporcionen las Salas Regionales en los informes estadísticos mensuales, informando de ello a la Junta por conducto de la Contraloría Interna;
+
+V. Recibir y analizar las solicitudes de corrección a la información contenida en el Sistema de Control y Seguimiento de Juicios, sometiéndolas por conducto de la Contraloría Interna a la autorización de la Junta y en su caso, remitirlas a la Dirección General del Sistema de Justicia en Línea para su corrección;
+
+VI. Verificar que la Dirección General del Sistema de Justicia en Línea, realice las correcciones a la información contenida en el Sistema de Control y Seguimiento de Juicios, autorizadas por la Junta;
+
+VII. Proponer a la Contraloría Interna, para su presentación a la Junta, políticas y procedimientos para el seguimiento de las visitas, con el fin de asegurar la correcta administración y la disponibilidad inmediata de la información relativa al cumplimiento de las observaciones y recomendaciones realizadas por los Magistrados integrantes de la Junta, y
+
+VIII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 96.
 
@@ -2241,9 +2365,9 @@ IV. Recibir los recursos que se promuevan en contra de las resoluciones que emit
 
 V. Recibir, tramitar y resolver las inconformidades que presenten los particulares, conforme a la normatividad aplicable;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-VI. Hacer del conocimiento de la Junta y de la Dirección General de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y
+VI. Hacer del conocimiento de la Junta y de la Unidad de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y
 
 VII. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
 
@@ -2303,7 +2427,9 @@ II. La Junta podrá conceder licencias con goce de sueldo, hasta por tres meses,
 
 III. Las licencias al personal jurisdiccional y administrativo de confianza, serán concedidas por la Junta, siempre y cuando no excedan de un plazo improrrogable de diez días hábiles en un año y cuenten con la conformidad del Magistrado o del titular de la Secretaría o unidad administrativa a que se encuentren adscritos en términos del presente Reglamento;
 
-IV. Las licencias al Secretario Técnico Ejecutivo y al Contralor serán concedidas directamente por la Junta siempre y cuando no excedan de un plazo improrrogable de diez días hábiles en un año;
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+IV. Las licencias a los Secretarios Operativos y Auxiliar de la Junta y al Contralor serán concedidas directamente por la Junta siempre y cuando no excedan de un plazo improrrogable de diez días hábiles en un año;
 
 V. Las licencias al personal administrativo de base serán concedidas por la Junta, a petición del interesado en la forma y términos establecidos en las Condiciones Generales de Trabajo, y las correspondientes al personal de confianza operativo de niveles asimilables se otorgarán en las mismas condiciones, en aplicación del principio de equidad laboral;
 
@@ -2337,11 +2463,13 @@ VII. En el caso de faltas temporales, los Presidentes de Sala Regional serán su
 
 VIII. La falta temporal del Secretario General de Acuerdos, será suplida por los Secretarios Adjuntos de Acuerdos de la Primera y Segunda Sección, alternativamente, y la de éstos por aquél;
 
-> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
 
-IX. Las ausencias temporales del Secretario Técnico Ejecutivo, los Secretarios Operativos y Auxiliar de la Junta o los Titulares de las Unidades Administrativas, incluida la Contraloría Interna, serán suplidas por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
+IX. Las ausencias temporales de los Secretarios Operativos y Auxiliar de la Junta o los Titulares de las Unidades Administrativas, incluida la Contraloría Interna, serán suplidas por los servidores públicos de la jerarquía inmediata inferior que de ellos dependan, en los asuntos de sus respectivas competencias;
 
-X. Las ausencias del Director General de Asuntos Jurídicos en procedimientos judiciales y contenciosos administrativos serán suplidas por el Director Contencioso o por los servidores públicos que hayan sido expresamente acreditados en los juicios o procedimientos respectivos, y
+> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+
+X. Las ausencias del Titular de la Unidad de Asuntos Jurídicos en procedimientos judiciales y contenciosos administrativos serán suplidas por los servidores públicos que hayan sido expresamente acreditados en los juicios o procedimientos respectivos, y
 
 XI. En caso de ausencias de los Secretarios de Acuerdos de Sala Superior y de Sala Regional, a causa de licencias que les hayan sido otorgadas, la Junta determinará la posibilidad de brindar apoyo con personal jurisdiccional al Magistrado al que aquéllos estén adscritos, en función de la disponibilidad presupuestal y de plazas con que se cuente.
 
@@ -2492,3 +2620,13 @@ SEGUNDO.- Los juicios que hayan sido remitidos por las Salas Regionales a la Sal
 TERCERO.- Las Salas Regionales remitirán a la Sala Especializada en Resoluciones de Organos Reguladores de la Actividad del Estado, los juicios materia de la presente reforma que a la fecha de entrada en vigor de este Acuerdo no hubiesen otorgado término legal para la formulación de alegatos, en términos del artículo 47, de la Ley Federal de Procedimiento Contencioso Administrativo.
 
 CUARTO.- Para todo lo no previsto en el presente Acuerdo, se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+D.O.F. 18 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
+
+TERCERO.- Los asuntos que a la entrada en vigor de este Acuerdo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltas por aquélla o aquellas unidades a las que se les haya atribuido la competencia en el presente ordenamiento.
+
+CUARTO.- Los documentos emitidos por las Unidades Administrativas que desaparecen o se transforman en virtud del presente Acuerdo, continuarán vigentes hasta en tanto los mismos no sean sustituidos por las Unidades Administrativas competentes establecidas en el presente ordenamiento.
