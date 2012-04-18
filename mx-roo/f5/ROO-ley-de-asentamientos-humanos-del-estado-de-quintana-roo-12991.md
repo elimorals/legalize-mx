@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-del-estado-de-quintana-roo-12991"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "2011-03-22"
+last_updated: "2012-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial el 15 de junio de 1998.
 
@@ -101,7 +101,9 @@ III.- Centros de población: las áreas constituidas por las zonas urbanizadas, 
 
 IV.- Conservación: la acción tendiente a mantener el equilibrio ecológico y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
 
-V.- Crecimiento: la acción tendiente a ordenar y regular la expansión física de los centros de población;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+V.- Crecimiento Urbano: La expansión física de las áreas ocupadas por construcciones o redes que integran la infraestructura y el equipamiento urbano de los centros de población; y la expansión de los límites de los centros de población para integrar áreas de reservas o de conservación;
 
 VI.- Conurbación: la continuidad física y demográfica que formen o tiendan a formar dos o más centros de población;
 
@@ -121,7 +123,9 @@ XIII.- Fundación: La acción de establecer un asentamiento humano;
 
 XIV.- Infraestructura urbana: los sistemas y redes de organización y distribución de bienes y servicios en los centros de población;
 
-XV.- Instituto : El Instituto de Vivienda del Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XV.- Instituto: El Instituto de Fomento a la Vivienda y Regularización de la Propiedad del Estado de Quintana Roo;
 
 XVI.- Ley: El presente Ordenamiento Jurídico;
 
@@ -133,7 +137,9 @@ XIX.- Provisiones: Las áreas que serán utilizadas para la fundación de un cen
 
 XX.- Reservas: Las áreas de un centro de población que serán destinadas para su crecimiento;
 
-XXI.- Secretaría : La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XXI.- Secretaría: La Secretaría de Desarrollo Urbano del Estado de Quintana Roo;
 
 XXII.- Servicios urbanos: Las actividades operativas publicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
@@ -173,9 +179,21 @@ XIII.- El ordenado aprovechamiento de la propiedad inmobiliaria en los centros d
 
 XIV.- La regulación del mercado de los terrenos y de la vivienda de interés social y popular;
 
-XV.- La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano, y
+XV.- La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano, y (sic)
 
 XVI.- La participación social en la (sic) ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sustentable de los centros de población.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XVII.- El desarrollo y adecuación de la infraestructura, el equipamiento y los servicios urbanos que permitan la seguridad, el libre tránsito y fácil acceso de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XVIII.- La integración de los propietarios rurales cuyas tierras se incorporen al desarrollo urbano, a las actividades económicas y sociales urbanas; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XIX.- Las demás que contribuyan al desarrollo sustentable de los centros de población.
 
 ###### ARTICULO 4º.
 
@@ -211,15 +229,21 @@ I.- Formular, aprobar y actualizar el programa Estatal del Desarrollo Urbano, en
 
 II.- Proponer ante el Congreso del Estado la fundación de centros de población, en los casos en que las leyes aplicables le confieran esa facultad;
 
-III.- Dictaminar, previamente a su expedición, la congruencia de los programas municipales de Desarrollo Urbano con el programa Estatal del Desarrollo Urbano, así como la compatibilidad urbanística de las autorizaciones de fraccionamiento y condominios, que vayan a otorgar los municipios;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+III.- Dictaminar la procedencia o improcedencia de la publicación en el Periódico Oficial del Estado de los Programas Municipales de Desarrollo Urbano, en razón de su congruencia con el Programa Estatal de Desarrollo Urbano, así como la Compatibilidad Urbanística de las autorizaciones establecidas en el art. 82 de la presente Ley;
 
 IV.- Ubicar e inscribir en el Registro Público de la propiedad y del comercio, los programas del Desarrollo Urbano a que se refiere a esta Ley;
 
 V.- Coordinarse con los Gobiernos de los municipios, de otras entidades federativas y de la federación en las materias a que se refiere esta ley;
 
-VI.- Participar de manera conjunta y coordinada con los municipios involucrados, en la (sic) ordenamiento y regulación de los centros de población conurbados;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-VII.- Participar de manera conjunta y coordinada con los gobierno de los municipios, de las entidades federativas involucradas y de la federación, en la (sic) ordenamiento y regulación de las conurbaciones interestatales, conforme a la Ley General de asentamientos humanos y a los convenios de conurbación respectivos;
+VI.- Participar de manera conjunta y coordinada con los municipios involucrados, en el ordenamiento y regulación de los centros de población conurbados y zonas metropolitanas;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VII.- Participar de manera conjunta y coordinada con los gobiernos de los municipios, de las entidades federativas involucradas y de la federación, en el ordenamiento y regulación de las conurbaciones y zonas metropolitanas interestatales, conforme a la Ley General de Asentamientos Humanos y a los convenios respectivos;
 
 VIII.- Regular el mercado de los inmuebles destinados al Desarrollo Urbano y la Vivienda;
 
@@ -243,11 +267,25 @@ XVII.- Difundir los programas de Desarrollo Urbano a que se refiere esta ley;
 
 XVIII.- Aprobar el Programa Estatal de Vivienda, así como promover y apoyar por conducto del Instituto, el acceso de las familias a una vivienda digna y decorosa en los términos de esta ley;
 
-XIX.- Realizar inspecciones e imponer las sanciones y medidas de seguridad de su competencia en la materia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-XX.- Resolver sobre los recursos administrativos que conforme a su competencia le sean planteados, y
+XIX.- Ordenar y realizar visitas de inspección, así como calificar las actas correspondientes, para verificar el cumplimiento de la presente Ley, los Programas de Desarrollo Urbano aplicables en obras, acciones, servicios e inversiones en materia de desarrollo urbano, y verificar el cumplimiento de las Constancias de Compatibilidad Urbanística Estatal, así como imponer las medidas de seguridad y sanciones que correspondan. La Secretaría ejercerá las atribuciones previstas en esta fracción, siempre que no se encuentren atribuidas a otra dependencia, órgano o entidad de la Administración Pública Estatal;
 
-XXI.- Las demás que le otorgue esta ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XX.- Aplicar para efectos administrativos las disposiciones en materia de desarrollo urbano contenidas en esta Ley, así como las de los programas de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XXI.- Conocer y resolver sobre los recursos administrativos que conforme a su competencia le sean interpuestos;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XXII.- Solicitar a la autoridad competente que ejecute medidas de seguridad en los casos que corresponda, conforme a las determinaciones que la propia Secretaría dicte en aplicación de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XXIII.- Las demás que le otorgue esta ley y demás disposiciones jurídicas aplicables.
 
 ###### ARTICULO 7º.
 
@@ -257,6 +295,10 @@ Cuando por razón de la materia y de conformidad con la Ley Orgánica de la admi
 
 Las dependencias y entidades estatales y municipales cuyas atribuciones se relacionen con el Ordenamiento Territorial de los Asentamiento Humanos y el Desarrollo Urbano de los centros de población, deberán observar en su ejercicio las disposiciones de esta Ley y de los Ordenamientos que de la misma se deriven.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+El Gobernador del Estado, por conducto de la Secretaría podrá emitir dictámenes, circulares, criterios, recomendaciones o cualquier otro acto administrativo, para la correcta aplicación de la presente Ley, los cuales serán de observancia general y obligatoria.
+
 ###### ARTICULO 8º.
 
 Corresponde los municipios, con sus respectivas jurisdicciones:
@@ -265,7 +307,9 @@ I.- Formular, aprobar, administrar, ejecutar, evaluar y actualizar los programas
 
 II.- Expedir los reglamentos y disposiciones administrativas aplicables a las materias de su competencia, conforme a esta Ley y otras disposiciones jurídicas;
 
-III.- Enviar al Ejecutivo del Estado para su publicación, los programas de desarrollo urbano y los reglamentos que expidan en la materia, así como para la inscripción de los primeros en el Registro Público de la Propiedad y del Comercio;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+III.- Enviar al Ejecutivo del Estado para su publicación, los reglamentos que expidan en la materia y los Programas de Desarrollo Urbano, estos últimos previo Dictamen de verificación de Congruencia emitido por la Secretaría, así como para su inscripción en el Registro Público de la Propiedad y del Comercio;
 
 IV.- Administrar la zonificación prevista en los programas de desarrollo urbano, así como controlar y vigilar la utilización del suelo;
 
@@ -273,7 +317,9 @@ IV.- Administrar la zonificación prevista en los programas de desarrollo urbano
 
 V.- Expedir las autorizaciones, licencias o permisos de uso del suelo, construcción, fraccionamientos, subdivisiones, fusiones, renotificaciones y condominios, de conformidad con lo dispuesto en la Ley de Propiedad en Condominio de Inmuebles del Estado de Quintana Roo, y en los programas de desarrollo urbano aplicables;
 
-VI.- Participar, conforme a Ley General de Asentamientos Humanos, esta Ley y los convenios de conurbación respectivos, en la (sic) ordenamiento y regulación de las zonas conurbadas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VI.- Participar, conforme a la Ley General de Asentamientos Humanos, esta Ley y los convenios de Conurbación, zonas metropolitanas Interestatales e Intraestatales, en el ordenamiento y regulación de las mismas;
 
 VII.- Coordinarse y asociarse con el Estado y con otros municipios de la entidad, en las materias en la que se refiere esta Ley, así como participar en los convenios que con tales propósitos suscriban el Estado y la federación;
 
@@ -335,15 +381,37 @@ Dichos organismos auxiliares, son instancias permanentes de participación socia
 
 La Comisión Consultiva de Desarrollo Urbano y Vivienda del Estado, estará integrada por:
 
-I.- El Secretario de Desarrollo Social del Estado quien presidirá la comisión;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-II.- El Director General del Instituto;
+I.- El Secretario de Desarrollo Urbano del Estado, quien presidirá la comisión;
 
-III.- El Director General de Desarrollo Urbano del Estado, quien fungirá como secretario técnico;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-IV.- El Presidente Municipal u otro miembro del Ayuntamiento que designe el Cabildo, de cada uno de los Municipios del Estado;
+II.- El Secretario de Medio Ambiente del Estado;
 
-V.- A instancia del Ejecutivo Estatal, por conducto de la secretaría, por representantes de los colegios, cámaras, sindicatos, organismos no gubernamentales, asociaciones de profesionistas legalmente constituidos u organizaciones populares con presencia en el Estado, que tengan relación directa con el desarrollo urbano y la vivienda.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+III.- El Director General del Instituto;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+IV.- El Subsecretario de Desarrollo Urbano del Estado, quien fungirá como Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+V.- El Presidente Municipal u otro miembro del Ayuntamiento que designe el Cabildo, así como el Director de Desarrollo Urbano municipal o su equivalente, de cada uno de los Municipios del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VI.- El Subsecretario de Políticas de Vivienda y Suelo del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VII.- El Subsecretario de Desarrollo Metropolitano;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VIII.- A propuesta del Ejecutivo Estatal, por conducto de la Secretaría, por los titulares de las dependencias y entidades municipales, estatales y federales, los colegios, cámaras, sindicatos, organismos no gubernamentales, asociaciones de profesionistas legalmente constituidos u organizaciones populares con presencia en el Estado, que tengan relación directa con el desarrollo urbano y la vivienda.
 
 Por cada representante propietario deberá acreditarse un suplente. En el caso de servidores públicos, el suplente deberá tener el nivel jerárquico inmediatamente inferior al propietario. Los cargos de la Comisión Consultiva serán honoríficos.
 
@@ -377,11 +445,23 @@ II.- Los regidores del Ayuntamiento, cuyas funciones se relacionen con el desarr
 
 III.- El Director de Desarrollo Urbano Municipal o su equivalente;
 
-IV.- Un representante de cada una de las dependencias y entidades de la administración pública municipal cuya competencia u objeto se relacione directamente con el desarrollo urbano y la vivienda, y
+IV.- Un representante de cada una de las dependencias y entidades de la administración pública municipal cuya competencia u objeto se relacione directamente con el desarrollo urbano y la vivienda, y (sic)
 
-V.- A instancia del Presidente Municipal, por representantes de los colegios, cámaras, sindicatos, organismos no gubernamentales, asociaciones de profesionistas legalmente constituidos en el Municipio u organizaciones que tengan relación directa con el desarrollo urbano y la vivienda.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-Por cada representante propietario deberá acreditarse un suplente. En el caso de servidores públicos, el suplente deberá tener el nivel jerárquico inmediatamente inferior al propietario. Los cargos de los comités municipales de desarrollo urbano y vivienda serán honoríficos.
+V.- El Secretario de Desarrollo Urbano del Estado;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VI.- El Secretario de Medio Ambiente del Estado; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+VII.- A propuesta del Presidente Municipal, por los titulares de las dependencias y entidades municipales, estatales y federales, los colegios, cámaras, sindicatos, organismos no gubernamentales, asociaciones de profesionistas legalmente constituidos en el Municipio u organizaciones, que tengan relación directa con el desarrollo urbano y la vivienda.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE ABRIL DE 2012)</small>
+
+Por cada representante propietario deberá acreditarse un suplente. En el caso de servidores públicos, el suplente deberá tener el nivel jerárquico inmediatamente inferior al propietario. Los cargos de los comités municipales serán honoríficos.
 
 ###### ARTICULO 16.
 
@@ -413,7 +493,9 @@ I.- El Programa Estatal de Desarrollo Urbano;
 
 II.- Los programas municipales de desarrollo urbano;
 
-III.- Los programas de ordenación de zonas conurbadas interestatales e intraestatales;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+III.- Los programas de ordenación de zonas conurbadas y zonas metropolitanas interestatales e intraestatales;
 
 IV.- Los programas de desarrollo urbano de los centros de población;
 
@@ -509,9 +591,31 @@ V.- La zonificación primaria del territorio comprendido en la zona conurbada.
 
 Con base en estos programas, los municipios involucrados expedirán los programas de desarrollo urbano municipales y de centros de población.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 20
+
+BIS.- En todo caso, la finalidad de los Programas de Ordenación de las Zonas Metropolitanas Intraestatales, deberán ser compatibles con los lineamientos y políticas establecidas en el Programa Estatal de Desarrollo Urbano y ordenar las actividades económicas de los centros de población, así como sus áreas rurales de influencia, los cuales conformen una zona metropolitana.
+
+Dichos Programas de ordenación de zonas metropolitanas, deberán contener por lo menos lo siguiente:
+
+a. La congruencia del programa, con los programas estatales y municipales de desarrollo urbano y con los planes Nacional, Estatal y municipal de desarrollo.
+
+b. La delimitación de la zona de estudio.
+
+c. Los proyectos, acciones e inversiones, así como los mecanismos para su financiamiento, coordinación y ejecución, que se realizarán dentro de la zona metropolitana.
+
+d. La determinación de las zonas a las cuales se les asignarán los usos y políticas para crecimiento urbano, conservación, mejoramiento y las reservas de suelo para la zona metropolitana.
+
+e. La zonificación primaria de la zona mediante una mezcla de usos de suelo compatibles, los sistemas de vialidades primarios así como los sistemas de transporte favoreciendo la movilidad peatonal, la bicicleta y los vehículos no contaminantes,
+
+f. Acciones que favorezcan los espacios públicos y las áreas verdes.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 21.
 
-Los programas de ordenación de zonas conurbadas interestatales, se regirán por lo dispuesto en la Ley de General de Asentamientos Humanos.
+Los programas de ordenación de zonas conurbadas y zonas metropolitanas interestatales, se regirán por lo dispuesto en la Ley General de Asentamientos Humanos.
 
 ###### ARTICULO 22.
 
@@ -617,9 +721,15 @@ La formulación y aprobación de los Programas de Desarrollo Urbano a que se ref
 
 I.- La dependencia estatal o municipal, que conforme a su competencia, haya formulado el anteproyecto del programa de desarrollo urbano, lo publicará y difundirá ampliamente en los periódicos de circulación local, convocando a los interesados a emitir su opinión. Asimismo, remitirá dicho anteproyecto para opinión a la Comisión Consultiva de Desarrollo Urbano y Vivienda del Estado o al Comité Municipal de Desarrollo Urbano y Vivienda, según corresponda;
 
-II.- La convocatoria respectiva, establecerá un plazo y un calendario de audiencias públicas para que la Comisión Consultiva de Desarrollo Urbano y Vivienda del Estado, el Comité municipal de Desarrollo Urbano y Vivienda correspondiente y a los particulares interesados, para que presenten por escrito a la dependencia competente, sus comentarios al anteproyecto;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-III.- La dependencia competente incorporará los comentarios procedentes al anteproyecto y dará respuesta fundada a los improcedentes, quedando ambos a consulta de los interesados en la propia dependencia, durante un término improrrogable de cinco días hábiles;
+I (SIC).- La convocatoria respectiva, establecerá un plazo mínimo de diez días hábiles y un calendario de audiencias públicas para que la Comisión Consultiva de Desarrollo Urbano y Vivienda del Estado, el Comité Municipal de Desarrollo Urbano y Vivienda correspondiente y los particulares interesados, presenten por escrito a la dependencia competente, sus comentarios al anteproyecto;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+II (SIC).- La dependencia competente incorporará los comentarios procedentes al anteproyecto y dará respuesta fundada a los improcedentes, quedando ambos a consulta de los interesados en la propia dependencia, durante un término improrrogable de diez días hábiles.
+
+Previo a la solicitud del dictamen de congruencia ante la Secretaría, el Municipio le presentará el Programa Municipal de Desarrollo Urbano completo, para su análisis y observación. Una vez emitidas las observaciones por parte de la Secretaría y solventadas por el Municipio, a solicitud de este último, la Secretaría emitirá el Dictamen de Verificación de Congruencia del proyecto con el Programa Estatal de Desarrollo Urbano. Dicho dictamen será requisito para la aprobación del programa Municipal de Desarrollo Urbano por el Cabildo;
 
 IV.- Con base a los comentarios procedentes, la dependencia competente formulará el anteproyecto definitivo, que será aprobado y expedido por:
 
@@ -627,13 +737,17 @@ a) El Gobernador, en el caso del Programa Estatal de Desarrollo Urbano y los pro
 
 b) El Ayuntamiento respectivo en sesión de cabildo, en el caso de los programas municipales de desarrollo urbano, los de centro de población y los que de estos deriven, y
 
-c) Las comisiones de conurbación respectivas, en los casos de los programas de ordenamiento de zonas conurbadas interestatales.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
-V.- Cumplidas las formalidades señaladas, el programa respectivo o sus modificaciones se publicará en el periódico oficial y en los periódicos de mayor circulación en el Estado o municipio correspondiente y, en su caso en los bandos municipales.
+c) Las comisiones de conurbación respectivas, en los casos de los programas de ordenamiento de zonas conurbadas y zonas metropolitanas interestatales e intraestatales.
+
+V. (DEROGADA, P.O. 18 DE ABRIL DE 2012)
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 28.
 
-Los programas de desarrollo urbano serán publicados en el periódico oficial y en dos periódicos de mayor circulación en el estado o municipio de que se trate. Asimismo, serán inscritos dentro de los veinte días siguientes en el Registro Público de la Propiedad y el Comercio
+Los programas de desarrollo urbano serán publicados en el Periódico Oficial del Estado de Quintana Roo y en dos periódicos de mayor circulación en el Estado o municipio de que se trate, cumpliendo previamente con lo estipulado en el párrafo segundo de la fracción III del artículo 27 de la presente ley, en su caso. Asimismo, serán inscritos dentro de los veinte días siguientes en el Registro Público de la Propiedad y el Comercio.
 
 ###### ARTICULO 29.
 
@@ -665,11 +779,17 @@ IV.- Las organizaciones sociales y privadas legalmente constituidas, y
 
 V.- Los particulares interesados.
 
-### CAPITULO V. DE LAS CONURBACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2012)</small>
+
+### CAPITULO V. DE LAS CONURBACIONES Y ZONAS METROPOLITANAS
 
 ###### ARTICULO 32.
 
 El fenómeno de conurbación intraestatal se presenta cuando dos o más centros de población, de dos o más municipios del Estado, formen o tiendan a formar una continuidad física y demográfica.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+Asimismo se entenderá por zonas metropolitanas Intraestatales, como el conjunto de dos o más municipios donde se localiza un centro de población, cuya área urbana, funciones y/o actividades rebasan el límite del municipio que originalmente la contenía incorporando a su área de influencia directa a municipios vecinos predominantemente urbanos con los que mantiene un alto grado de integración física, demográfica y/o socioeconómica. Para los efectos de interpretación y aplicación de las normas establecidas en el presente capítulo y la presente ley, se entenderán e incluirán también, como zonas de conurbación intraestatales a las denominadas zonas metropolitanas intraestatales.
 
 ###### ARTICULO 33.
 
@@ -731,21 +851,29 @@ VIII.- Expedir su reglamento interior, y
 
 IX.- Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 39.
 
-Las comisiones de conurbación intraestatales se integrarán por:
+Las comisiones de conurbación y zonas metropolitanas intraestatales se integrarán por:
 
 I.- Un presidente, que será el Gobernador del Estado;
 
 II.- Un secretario técnico que será el titular de la secretaría;
 
-III.- Los presidentes municipales de los municipios en donde se localice la zona conurbada, y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-IV.- Un representante de cada comité municipal de desarrollo urbano y vivienda de los municipios que integran la zona conurbada.
+III.- Los presidentes municipales de los municipios en donde se localice la zona conurbada y zona metropolitana respectiva; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+IV.- Un representante de cada comité de desarrollo urbano y vivienda de los Municipios que participen e integren las zonas conurbadas y metropolitanas intraestatales.
 
 La Comisión podrá invitar a participar como integrantes de la misma a representantes de las dependencias y entidades municipales, estatales y federales que ejecuten obras, acciones o inversiones en la zona conurbada, así como a representantes de los sectores social y privado.
 
-Por cada representante propietario se designará un suplente. El presidente será suplido por el secretario técnico. Los presidentes municipales serán suplidos por el director de desarrollo urbano del municipio o su equivalente.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+Por cada representante propietario se designará un suplente de nivel jerárquico inmediato inferior al del representante propietario. El presidente será suplido por el secretario técnico. Los presidentes municipales serán suplidos por el director de desarrollo urbano del municipio o su equivalente.
 
 ### CAPITULO VI. DE LAS REGULACIONES A LA PROPIEDAD EN LOS CENTROS DE POBLACIÓN
 
@@ -933,11 +1061,13 @@ VII.- Agropecuarios, forestales y acuíferos;
 
 VIII.- Patrimonio cultural y natural, y
 
-IX.- Las demás que se establezcan en los programas y que sean compatibles con las anteriores.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+IX.- Las demás que se establezcan en las leyes y programas estatales de desarrollo urbano que sean compatibles con las anteriores.
 
 ###### ARTICULO 55.
 
-El reglamento de zonificación regulará las características que correspondan a las zonas, áreas, reserva, usos y destinos a que se refiere esta Ley.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ### CAPITULO VII. DEL FOMENTO A LA VIVIENDA
 
@@ -1057,7 +1187,9 @@ Para los efectos del artículo anterior, el Ejecutivo del Estado y los municipio
 
 I.- La participación activa de las comunidades y la manifestación de opiniones y propuestas de las organizaciones sociales en la formulación, financiamiento, ejecución, evaluación y control de los programas de desarrollo urbano y de vivienda;
 
-II.- La integración de las organizaciones sociales en la comisión consultiva de desarrollo urbano y vivienda del Estado, así como los comités municipales de desarrollo urbano y vivienda;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+II.- La integración de las organizaciones sociales en la comisión consultiva de desarrollo urbano y vivienda del Estado, la Comisión de conurbación y zonas metropolitanas, así como los comités municipales de desarrollo urbano y vivienda;
 
 III.- La participación de las comunidades en las acciones de conservación, mejoramiento y crecimiento de los centros de población, así como en la programación, financiamiento, ejecución, evaluación y administración de obras e inversiones de infraestructura, equipamiento y servicios urbanos;
 
@@ -1099,23 +1231,31 @@ Las licencias, permisos, autorizaciones o concesiones que se expidan en contrave
 
 Los actos, contratos o convenios relativos a la propiedad, posesión, uso o cualquier otra forma jurídica de tenencia de la tierra, que no contenga las cláusulas relativas a la utilización que le determinen los programas de desarrollo urbano aplicables, ni las correspondientes constancias de compatibilidad urbanística, no serán inscritos en el Registro Público de la Propiedad y del Comercio.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
-> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-Los fedatarios deberán insertar en las escrituras públicas, las anotaciones marginales que aparezcan inscritas en el Registro Público de la Propiedad y del Comercio, respecto del uso o destino del inmueble de que se trate.
+Los fedatarios deberán insertar en las escrituras públicas, las anotaciones marginales que aparezcan inscritas en el Registro Público de la Propiedad y del Comercio, respecto del uso o destino del inmueble de que se trate. En los casos previstos en el artículo 82 de la presente Ley, dichos fedatarios públicos en el Estado deberán solicitar a toda persona que celebre contratos o convenios relativos a la transmisión de la propiedad, posesión o uso de inmuebles, la constancia de compatibilidad urbanística estatal e incluir en el apéndice de la escritura dicha constancia o documento que la avale, mismo que será requisito para la inscripción respectiva ante las oficinas registrales del Estado.
 
 ###### ARTICULO 81.
 
 La persona física o moral, pública o privada, que pretenda realizar obras, acciones, servicios o inversiones en materia de desarrollo urbano y vivienda en el Estado, deberá obtener, previa la ejecución de dichas acciones u obras, la constancia de compatibilidad urbanística que le expidan las autoridades urbanas estatales y municipales, según sea el caso, la cual controlará que toda acción, obras, servicio o inversión, sea compatible con la legislación y programas de desarrollo urbano estatales y municipales.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+En caso de omisión a las disposiciones establecidas en el párrafo anterior, la Secretaría o la autoridad municipal, en su caso, estará facultada para exigir, en cualquier momento y a costa del promovente, la Constancia de Compatibilidad Urbanística que corresponda, según sea el caso y que de manera dolosa y premeditada no fuera debida y oportunamente solicitada ante la Secretaría; lo anterior sin perjuicio de las medidas de seguridad y sanciones que considere necesarias imponer por tales omisiones, cuando se haya instaurado por tales motivos algún procedimiento administrativo en su contra.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 82.
 
-El Gobierno del Estado, a través de la Secretaría, expedirán las constancias de compatibilidad urbanística estatal, en los siguientes casos;
+El Ejecutivo del Estado, por conducto de la Secretaría, podrá en todo tiempo, además de la forma establecida en el artículo anterior, autorizar y en su caso expedir, negar, cancelar, condicionar y exigir la Constancia de Compatibilidad Urbanística Estatal en los siguientes casos:
 
-I.- Para fraccionamiento y relotificación de terrenos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-II.- Para la subdivisión de terrenos con superficie mayor de 10,000 m2;
+I.- Para fraccionamientos en cualquiera de sus modalidades;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+II.- La subdivisión de terrenos con superficie igual o mayor a los 2,500 m2;
 
 III.- La constitución o modificación del régimen de propiedad en el condominio;
 
@@ -1125,15 +1265,49 @@ V.- EL proyecto de vialidades primarias y secundarias, tales como periféricos, 
 
 VI.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal;
 
-VII.- El proyecto de centros comerciales y centrales de abastos de cualquier tipo;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-VIII.- El proyecto de hospitales y centros médicos;
+VII.- Plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales;
 
-IX.- El diseño de centrales camioneras y de carga;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-X.- La regularización de la tenencia de la tierra en asentamientos humanos irregulares, y
+VIII.- Clínicas, Hospitales y Centros Médicos;
 
-XI.- El proyecto de industrias medianas y grandes.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+IX.- Centrales camioneras y de carga;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+X.- La regularización de la tenencia de la tierra en asentamientos humanos irregulares;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XI.- Industrias de cualquier tipo;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XII.- Relotificación de terrenos;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XIII.- Fusión de terrenos;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XIV.- Hoteles en todas sus modalidades;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XV.- Estaciones expendedoras de todo tipo de combustibles;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XVI.- Bancos de extracción de materiales pétreos; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+XVII.- Todos aquellos inmuebles cuya superficie de terreno sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a los 1,000 m2.
 
 La constancia de compatibilidad urbanística estatal contendrá y proporcionará los datos, elementos, criterios o lineamientos que sean conducentes y que sean competencia del Gobierno del Estado.
 
@@ -1167,25 +1341,41 @@ X.- Los demás datos, elementos, criterios o lineamientos que se deriven de la l
 
 Las constancias de compatibilidad urbanística estatal, son independientes de las que otorgan los ayuntamientos, y deberán ser tramitadas previamente a las que expidan los Gobiernos municipales.
 
-Tanto la Secretaría como los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán expedir constancias de compatibilidad urbanística que amparen la ejecución de prototipos de vivienda de varios lotes o predios o en conjuntos habitacionales. Cuando un constructor modifique el prototipo, deberá solicitar individualmente las constancias correspondientes.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+Tanto la Secretaría como los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán expedir constancias de compatibilidad urbanística que amparen la ejecución de prototipos de vivienda de varios lotes o predios o en conjuntos habitacionales. Cuando un constructor modifique el prototipo, deberá solicitar individualmente las constancias correspondientes en cualquier de los casos señalados en el artículo 82 de la presente Ley.
 
 Serán nulas de pleno derecho, las constancias urbanísticas municipales que expidan los ayuntamientos, que no cuenten con las constancias que expida la Secretaría en los términos y casos que establece ésta Ley.
 
-En caso de que lo señalado en las constancias de compatibilidad urbanísticas estatal y municipales, no sean en el mismo sentido o sean contrarias, el asunto se elevará a la consideración de la comisión consultiva de desarrollo urbano y vivienda del Estado, para que ésta emita su opinión, a efecto de que la autoridad competente resuelva en definitiva.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+En caso de que lo señalado en las constancias de compatibilidad urbanísticas estatal y municipales, no sean en el mismo sentido o sean contrarias, el asunto se elevará a la consideración de la comisión consultiva de Desarrollo Urbano y Vivienda del Estado, para que ésta emita su opinión.
 
 Serán nulas de pleno derecho, aquellas constancias que no se ajusten a lo dispuesto en el párrafo anterior de éste artículo.
 
-La constancia de compatibilidad urbanística tendrá una vigencia de tres años, a partir de la fecha de su expedición y podrá ser prorrogada por una sola vez, hasta por un período igual a petición del interesado.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+La constancia de compatibilidad urbanística tendrá una vigencia de tres años contados a partir de la fecha de su expedición y podrá ser prorrogada a petición del interesado, por un período igual; lo anterior, dependiendo de la magnitud del proyecto de que se trate, aquella se podrá prorrogar por periodos iguales hasta concluir con las obras, acciones, servicios o inversiones.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+Las Constancias de Compatibilidad Urbanística y demás actos administrativos que de estas deriven y que hubieran sido celebrados por error, dolo o mala fe, serán declarados nulos de pleno derecho. La Secretaría o la autoridad municipal, en el ámbito de su competencia, podrá revocarlos de oficlo (sic) cuando no cumplan con las disposiciones legales aplicables o sobrevengan cuestiones de interés público. En su caso, promoverá el procedimiento de lesividad ante la Sala Constitucional y Administrativa del Tribunal Superior de Justicia del Estado de Quintana Roo en los términos de la Ley de Procedimiento Administrativo del Estado de Quintana Roo, independientemente de las responsabilidades administrativas o penales que resulten de los actos u omisiones respectivas.
 
 ### CAPITULO XII. DE LA INSPECCION Y VIGILANCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 85.
 
-La inspección y vigilancia en materia de desarrollo urbano se llevará a cabo, conforme al procedimiento siguiente:
+La inspección y vigilancia en materia de desarrollo urbano se llevará a cabo por conducto de la Secretaría y la autoridad municipal, en el ámbito de su competencia, conforme al procedimiento siguiente:
 
-I.- El personal que efectúe la visita de inspección deberá estar acreditado y contar con orden escrita debidamente fundada y motivada, en la que se precisara el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de esta.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
 
-II.- El propietario o encargado de la vivienda o fraccionamiento donde se efectúe la diligencia, está obligado a dar acceso al personal acreditado al lugar o lugares sujetos a inspección en los términos previstos por la orden de inspección, así como a proporcionar toda clase de información que conduzca al cumplimiento de ésta Ley y demás disposiciones aplicables. La autoridad que corresponda mantendrá en absoluta reserva la información confiada, salvo en el caso de requerimiento judicial;
+I.- El personal que sea habilitado para efectuar la visita de inspección deberá estar acreditado y contar con orden escrita debidamente fundada y motivada, en la que se precisara el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de esta;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2012)</small>
+
+II.- El propietario o encargado del inmueble donde se efectúe la diligencia, está obligado a dar acceso al personal acreditado al lugar o lugares sujetos a inspección en los términos previstos por la orden de inspección, así como a proporcionar toda clase de información que conduzca al cumplimiento de ésta Ley y demás disposiciones aplicables. La autoridad que corresponda mantendrá en absoluta reserva la información confiada, salvo en el caso de requerimiento judicial;
 
 III.- El personal acreditado podrá solicitar el auxilio de la fuerza pública para efectuar la inspección, cuando una o varias personas la obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar;
 
@@ -1199,9 +1389,19 @@ VII.- Finalizada la inspección, la persona con la que sea atendida la diligenci
 
 VIII.- Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, estas circunstancias se asentaran en ella, sin que ello afecte su validez o valor probatorio.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+Las notificaciones se llevarán a cabo en términos del Capítulo V del Titulo Segundo del Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo, de aplicación supletoria.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+Es facultad de la Secretaría y de la autoridad municipal, en el ámbito de su competencia, efectuar en cualquier momento visitas de Inspección para verificar y vigilar el cumplimiento de las disposiciones contenidas en esta Ley, sus Reglamentos, Programas de Desarrollo Urbano y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 86.
 
-Recibida el acta administrativa de inspección, la autoridad administrativa correspondiente requerirá al interesado por notificación personal o por correo con acuse de recibo, para que dentro de los diez días hábiles siguientes a partir de que surta efecto dicha notificación, manifieste por escrito lo que a su derecho convenga.
+Recibida el Acta administrativa de inspección, en caso de haberse encontrado alguna irregularidad, la autoridad administrativa correspondiente requerirá al propietario o encargado del inmueble por notificación personal o por correo con acuse de recibo, para que adopte las medidas correctivas necesarias para cumplir con las disposiciones jurídicas aplicables y para que dentro de los diez días hábiles siguientes a partir de que surta efecto dicha notificación, manifieste por escrito lo que a su derecho convenga.
 
 ###### ARTICULO 87.
 
@@ -1215,193 +1415,161 @@ Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado a
 
 Cuando se trate de segunda o posterior inspección, para verificar el cumplimiento de un requerimiento o requerimientos anteriores, y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer la sanción o sanciones que procedan, haciendo del conocimiento del ministerio publico la realización de actos u omisiones constatados que pudieran configurar uno o mas delitos.
 
-### CAPITULO XIII
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2012)</small>
 
-DE LAS INFRACCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES.
+### CAPÍTULO XIII. DE LAS INFRACCIONES, MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2012)</small>
+
+#### SECCION PRIMERA. DE LAS INFRACCIONES
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 89.
 
-La secretaría y las autoridades municipales, en el ámbito de sus respectivas competencias, impondrán las medidas de seguridad y sanciones administrativas por infracciones a esta Ley, sus reglamentos y los programas de desarrollo urbano.
+La contravención a la presente Ley, sus Reglamentos, Programas de Desarrollo Urbano y demás ordenamientos en la materia, se considerará una infracción e implica la aplicación de una o más medidas de seguridad y/o sanciones administrativas, independientemente de las de carácter penal o civil que al efecto procedan, las cuales serán aplicables en cualquier momento por conducto de la Secretaría y las autoridades municipales, en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 90.
 
-Se entenderán por medidas de seguridad las acciones encaminadas a evitar los daños inminentes de difícil reparación, que puedan causar las instalaciones, construcciones, obras y acciones que se realicen en contravención a lo dispuesto en esta Ley, sus reglamentos y los programas de desarrollo urbano.
+Para los efectos de esta Ley se consideran como medidas de seguridad:
 
-Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan.
+I. La suspensión de obras, trabajos y servicios;
+
+II. La clausura temporal o definitiva, total o parcial de las instalaciones, las construcciones y las obras;
+
+III. La desocupación o desalojo de inmuebles;
+
+IV. La demolición de construcciones;
+
+V. El retiro de instalaciones;
+
+VI. La prohibición de actos de utilización de maquinaria o equipo;
+
+VII. La advertencia pública sobre cualquier irregularidad en las actividades realizadas por el propietario o representante legal de cualquiera de los casos establecidos en el artículo 82 de esta ley; y
+
+VIII. Cualquier prevención que tienda a lograr los fines expresados en el presente artículo.
+
+Las medidas de seguridad estarán encaminadas a evitar los daños inminentes de difícil reparación, que puedan causar las instalaciones, construcciones, obras y acciones que se realicen en contravención a lo dispuesto en esta Ley, sus Reglamentos, Programas de Desarrollo Urbano y demás ordenamientos en la materia.
+
+Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan por las infracciones cometidas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2012)</small>
+
+#### SECCION TERCERA. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 91.
 
-Para los efectos de esta Ley, se considerarán como medidas de seguridad:
+Las violaciones a los preceptos de esta Ley, sus Reglamentos, Programas de Desarrollo Urbano y demás ordenamientos de la materia se sancionarán administrativamente por la autoridad correspondiente, con una o más de las siguientes sanciones:
 
-I.- Las suspensión de obras, servicios y actividades;
+I.- Rescisión de convenios;
 
-II.- La clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones y obras;
+II.- Suspensión de los trabajos;
 
-III.- La desocupación de inmuebles;
+III.- Clausura parcial o total de obra;
 
-IV.- La demolición de construcciones;
+IV.- Demolición o retiro parcial o total;
 
-V.- El retiro de instalaciones;
+V.- Pérdida de los estímulos otorgados;
 
-VI.- La prohibición de actos de utilización de maquinaria o equipo;
+VI.- La intervención administrativa a las empresas;
 
-VII.- La advertencia pública sobre cualquier irregularidad en las actividades realizadas por un fraccionador o promovente de condominios, y
+VII.- Revocación de la(s) Constancia (s) de Compatibilidad Urbanística otorgada (s); y
 
-VIII.- Cualquier prevención que tienda a lograr los fines expresados en el artículo anterior.
+VIII.- Multas equivalente a uno y hasta diez mil días de salario mínimo vigente en el Estado, o de hasta el 10% del valor comercial de los inmuebles.
+
+La imposición de las sanciones previstas en este artículo no exime al infractor de la responsabilidad civil o penal en que pueda incurrir y de la aplicación de medidas de seguridad, tendientes a evitar daños o que se sigan cometiendo infracciones.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 92.
 
-Las sanciones administrativas podrán consistir en:
-
-I.- Multa equivalente a uno y hasta diez mil días de salario mínimo vigente en el Estado, o de hasta el 10% del valor comercial de los inmuebles. En caso de reincidencia, la multa podrá ser duplicada;
-
-II.- Clausura temporal o definitiva, total o parcial, de las instalaciones, las construcciones, las obras y servicios o demolición total o parcial de las obras, cuando:
-
-a) El infractor no hubiere cumplido en los plazos y condiciones impuestos por la autoridad, con las medidas de seguridad ordenadas;
-
-b) En caso de reincidencia, y
-
-c) Por desobediencia reiterada.
-
-III.- La revocación de las licencias, autorizaciones, permisos y concesiones y, en caso de fraccionamientos la intervención administrativa de la empresa, cuando haya reincidencia en el cumplimiento de los términos y condiciones establecidos;
-
-IV.- La cancelación del registro de profesionistas en los padrones de peritos de obra correspondientes, cuando el responsable de la obra de que se trate reincida en el incumplimiento de las disposiciones jurídicas y técnicas aplicables en la materia, de los planes de desarrollo urbano o de las licencias, permisos y autorizaciones;
-
-V.- La prohibición de realizar determinados actos u obras, cuando contravengan, las licencias, permisos y autorizaciones en la materia, y
-
-VI.- El arresto hasta por treinta y seis horas, cuando el responsable o propietario de un lugar objeto de una visita de inspección, se niegue a facilitar el acceso o a proporcionar los informes que le sean solicitados por el personal debidamente acreditado.
-
-Dichas sanciones se aplicarán a los infractores, sin perjuicio de la responsabilidad civil y penal en que se hubiere incurrido.
-
-###### ARTICULO 93.
-
-Para la imposición de las sanciones a que se refiere el artículo anterior, se tomará en cuenta:
+Para la imposición de las sanciones por infracciones a la presente Ley, sus Reglamentos, Programas de Desarrollo Urbano y demás ordenamientos de la materia, se tomará en cuenta para su valoración:
 
 I.- La gravedad de la infracción;
 
-II.- Las condiciones económicas del infractor;
+II.- Las condiciones económicas del infractor; y
 
-III.- La reincidencia o reiterada desobediencia si la hubiera;
+III.- La reincidencia.
 
-IV.- La intencionalidad o negligencia del infractor, y
+Se considera reincidencia cuando una persona hubiera sido sancionada por contravenir una disposición de la presente Ley, de sus Reglamentos, de los Programas de Desarrollo Urbano y demás ordenamientos jurídicos aplicables y cometiera nuevamente alguna infracción a la misma norma o precepto.
 
-V.- El beneficio directamente obtenido por el infractor, por los actos que motiven la sanción.
+La reincidencia se sancionará con la imposición del doble de la multa que corresponda a la infracción cometida.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 93.
+
+La aplicación de las sanciones a que se refiere el presente Capítulo, se llevará a cabo previo procedimiento administrativo de conformidad con lo dispuesto en la presente Ley y en la Ley de Procedimiento Administrativo del Estado de Quintana Roo, de aplicación supletoria. En los casos en que los promoventes o desarrolladores, comparezcan ante la Secretaría o la autoridad municipal, en su caso, reconozcan su incumplimiento y se allanen al procedimiento respectivo, la autoridad competente podrá dictaminar de inmediato las sanciones que correspondan dando por concluido el procedimiento administrativo respectivo.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 94.
 
-La violación a lo dispuesto en esta Ley, a los programas de desarrollo urbano y demás disposiciones aplicables, por parte de los servidores, notarios y corredores públicos, serán motivo de las sanciones establecidas en las leyes que rijan sus funciones. Asimismo, se sancionará conforme a las disposiciones de esta ley, a quienes propicien la ocupación irregular de áreas y predios en los centros de población.
+Serán solidariamente responsables las personas físicas o morales que se obliguen conjuntamente con el obligado principal, a responder por el cumplimiento de una obligación en los términos previstos en esta Ley o en su reglamentación, respecto de un proyecto de construcción, o de la colocación, instalación, modificación y/o retiro de cualquier elemento mueble o inmueble que altere o modifique el paisaje urbano.
 
-Las sanciones se aplicarán a los infractores, sin perjuicio de la responsabilidad civil y penal en que hubieren incurrido.
+Los responsables solidarios estarán obligados al pago de gastos y multas por las infracciones cometidas a la presente Ley, sus Reglamentos, Programas de Desarrollo Urbano y demás disposiciones aplicables, que determine la autoridad competente.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 95.
 
-Las resoluciones que dicten las autoridades competentes con base en lo dispuesto en esta Ley, podrán ser impugnadas por los afectados mediante el recurso de inconformidad.
+Procederá la ejecución forzosa en caso de que se hubiera agotado el procedimiento administrativo y el obligado no hubiera acatado lo ordenado por la autoridad competente. Para su cumplimiento serán aplicables las sanciones establecidas en la presente ley así como las establecidas en el Artículo 103 de la Ley de Procedimiento Administrativo del Estado de Quintana Roo, de aplicación supletoria.
 
-### CAPITULO XIV. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2012)</small>
+
+### CAPITULO XIV. DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 96.
 
-El recurso de inconformidad se interpondrá por el interesado, dentro de los 15 días hábiles siguientes a la fecha en que se notifique la resolución impugnada por los afectados mediante el recurso de inconformidad.
+En contra de las resoluciones que dicten o ejecuten las autoridades de la Administración Pública Estatal, en aplicación de esta Ley, sus Reglamentos o de los instrumentos de planeación, los afectados podrán interponer el recurso de revisión conforme a lo previsto en la Ley de Procedimiento Administrativo del Estado de Quintana Roo.
+
+En contra de las resoluciones que dicten o ejecuten las autoridades de la Administración Pública Municipal, en aplicación de esta Ley, sus Reglamentos o de los instrumentos de planeación, los afectados podrán interponer el procedimiento contencioso administrativo conforme a lo previsto en la Ley de Justicia Administrativa del Estado de Quintana Roo.
 
 ###### ARTICULO 97.
 
-El recurso de inconformidad será improcedente, cuando:
-
-I.- No afecte de manera directa e inmediata un derecho o interés legítimo del recurrente, y
-
-II.- Se haya consentido, expresa o tácitamente el acto recurrido, entendiéndose por consentido, cuando no se haya interpuesto el recurso dentro del plazo legal establecido.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 98.
 
-En el escrito en el que se interponga el recurso, deberá contener lo siguiente:
-
-I.- El nombre y domicilio del recurrente, debiendo acompañar los documentos que acrediten su personalidad;
-
-II.- Autoridades de la que emane el acto recurrido, indicando con claridad en que consiste, citando las fechas y números de oficio o documentos en que conste la resolución impugnada;
-
-III.- Fecha en que fue notificado el acto o resolución recurrido o en que se ejecutó el acto;
-
-IV.- Descripción de los hechos que motivaron la inconformidad;
-
-V.- Señalamiento de los agravios que le cause el acto o resolución impugnado;
-
-VI.- Los fundamentos legales en que se apoye el recurso, y
-
-VII.- Las pruebas que se relacionen con cada uno de los hechos impugnados.
-
-Si el escrito por el cual se interpone el recurso fuere obscuro o le faltara algún requisito, la autoridad recurrida prevendrá al recurrente, por una sola vez, para que lo aclare, corrija o complete, señalándole las deficiencias en que hubiere incurrido y apercibiéndole que de no subsanarlas dentro del término de 5 días hábiles, contados a partir de la notificación correspondiente, el recurso se desechará.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 99.
 
-El recurrente podrá solicitar la suspensión del acto o resolución recurrido, la cual será concedida, siempre que a juicio de la autoridad, no sea en perjuicio de la colectividad o se contravengan disposiciones de orden público. Cuando con la suspensión se puedan causar daños a la infraestructura, equipamiento y servicios urbanos, a la autoridad o a terceros, solo se concederá si el interesado otorga ante la Tesorería General del Estado o del Municipio respectivo, alguna de las garantías a que se refieren las leyes de Hacienda del Estado o del Municipio correspondiente.
-
-El monto de la Garantía será el suficiente para asegurar la reparación de los posibles daños que se pudieren causar y será fijado por la autoridad recurrida.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 100.
 
-Las pruebas que ofrezca el recurrente, deberán relacionarse con cada uno de los hechos controvertidos; sin el cumplimiento de este requisito serán desechadas.
-
-Las pruebas documentales, deberán ser ofrecidas exhibiendo los documentos correspondientes, los cuales se acompañarán al escrito inicial; de no ser así, la prueba se desechará.
-
-Cuando se trate de documentos oficiales que no pueda exhibir el recurrente, deberá precisar el archivo o archivos en que se encuentren.
-
-La prueba pericial deberá ser ofrecida por el recurrente indicando los puntos sobre los que versará y acompañando el cuestionario que deberá desahogar el perito. Se designará como perito a quien tenga título debidamente registrado de la profesión relativa a la materia sobre la cual deba emitir su opinión, salvo que se trate de actividades consideradas como no profesionales por la legislación aplicable. El recurrente, deberá presentar perito dentro de un plazo de 5 días hábiles, contados a partir del día siguiente de la admisión del recurso, a fin de que acepte su cargo, debiendo presentar su dictamen dentro de los 15 días hábiles siguientes al de la aceptación.
-
-En caso de que el recurrente no presente el cuestionario al perito o éste no acepte el cargo o no rinda el dictamen dentro de los términos señalados, la prueba se desechará.
-
-La prueba de inspección ocular será ofrecida estableciendo los puntos sobre los que deba versar.
-
-La prueba testimonial se ofrecerá mencionando los nombres y domicilios de los testigos, y acompañando el interrogatorio respectivo, sin lo cual la prueba será desechada. En ningún caso será admitida la prueba confesional, ni la testimonial a cargo de las autoridades.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 101.
 
-Admitido l (sic) recurso, se pedirán los informes conducentes a las autoridades involucradas en la resolución que se impugna, las cuales deberán rendirlos, dentro del término de los 5 días hábiles siguientes a la fecha en que se les haya solicitado.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 102.
 
-La autoridad que conozca del recurso fijará las fechas para el desahogo de las pruebas ofrecidas y tendrá en todo momento la facultad de decretar diligencias para mejor proveer, cuando considere que los elementos probatorios aportados son insuficientes.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 103.
 
-La autoridad, al resolver el recurso interpuesto, deberá valorar las pruebas, conforme a las siguientes reglas:
-
-I.- Los documentos públicos hacen prueba plena, salvo el derecho de tacharlos de falsedad y para pedir su cotejo con el protocolo o archivo que corresponda;
-
-II.- Las actuaciones judiciales hacen prueba plena;
-
-III.- Los documentos privados sólo harán prueba plena cuando fueren reconocidos legalmente por la autoridad;
-
-IV.- Los documentos privados provenientes de terceros sólo harán prueba si son comprobados por testigos, teniendo el valor que merezcan las declaraciones de éstos;
-
-V.- El reconocimiento o inspección ocular hará prueba plena, cuando se haya practicado en objetos que no requieran conocimientos especiales o científicos;
-
-VI.- Las presunciones legales hacen prueba plena mientras no se pruebe lo contrario, y
-
-VII.- La calificación de la prueba testimonial quedará al prudente arbitrio de la autoridad recurrida, quien para valorarla deberá tomar en consideración:
-
-a) La edad, capacidad intelectual, instrucción, probidad, independencia de criterio, antecedentes personales e imparcialidad del testigo;
-
-b) Que el hecho de que se trate sea susceptible de ser conocido por medio de los sentidos, y que el testigo lo conozca por sí mismo y no por inducciones, ni referencias de otras personas;
-
-c) Que la declaración sea clara y precisa, sin dudas ni referencias, tanto sobre la sustancia del hecho, como de las circunstancias esenciales;
-
-d) Que el testigo no haya sido obligado por fuerza o miedo, ni impulsado por engaño o soborno, y
-
-e) Que el testigo exprese los fundamentos de su dicho.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 104.
 
-Los recurrentes podrán solicitar en cualquier momento la nulidad de las notificaciones contrarias a lo dispuesto en esta Ley.
-
-La autoridad que conozca de la nulidad resolverá de plano. Si procede la nulidad, la autoridad ordenará reponer el procedimiento desde la notificación anulada.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 105.
 
-Concluido el término de desahogo de pruebas y debidamente integrado el expediente, se pronunciará resolución definitiva dentro del plazo de treinta días naturales a partir de ese momento.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ###### ARTICULO 106.
 
-Las resoluciones definitivas serán notificadas personalmente al recurrente o a su representante legal, dentro de los cinco días hábiles siguientes a la fecha de su expedición.
+(DEROGADO, P.O. 18 DE ABRIL DE 2012)
 
 ## TRANSITORIOS
 
@@ -1427,7 +1595,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 DR. HECTOR ESQUILIANO SOLIS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 2010.
 
@@ -1448,3 +1616,9 @@ TRANSITORIO:
 P.O. 22 DE MARZO DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 18 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
