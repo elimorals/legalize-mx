@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-protectora-de-bosques-del-estado-60596
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2012-04-17"
+last_updated: "2012-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 18 DE ABRIL DE 2012.</small>
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2008.
 
@@ -411,8 +411,6 @@ V. Contribuir al mejoramiento de los servicios que proporcionan las Delegaciones
 
 VI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Director General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2012 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 18.
 
 Corresponde a la Unidad Jurídica:
@@ -439,9 +437,9 @@ VIII. Difundir entre el personal de PROBOSQUE los ordenamientos jurídicos que s
 
 IX. Elaborar y validar en su caso, los proyectos de instrumentos jurídicos y administrativos que suscriba PROBOSQUE y someterlos a la consideración o aprobación del Director General.
 
-> <small>(REFORMADA, G.G. 17 DE ABRIL DE 2012)</small>
+(REFORMADA, G.G. 17 DE ABRIL DE 2012) (F. DE E., G.G. 18 DE ABRIL DE 2012)
 
-IX (SIC). Dictaminar en materia jurídica las solicitudes relacionadas con los programas y convenios propios de PROBOSQUE.
+X. Dictaminar en materia jurídica las solicitudes relacionadas con los programas y convenios propios de PROBOSQUE.
 
 XI. Determinar las infracciones e imponer las sanciones que correspondan en términos de la normatividad aplicable.
 
