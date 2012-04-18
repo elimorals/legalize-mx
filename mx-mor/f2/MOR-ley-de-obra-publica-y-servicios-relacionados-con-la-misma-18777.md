@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2008-07-16"
+last_updated: "2012-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -129,7 +129,7 @@ Los titulares de las dependencias, de los órganos de gobierno, de las entidades
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados cuando estos los lleven a cabo, ni las obras concesionadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -319,7 +319,7 @@ El documento que contenga los programas será de carácter informativo; no impli
 
 Para efectos informativos, la Secretaría integrará y difundirá los programas anuales de obras públicas y servicios relacionados con las mismas, para lo cual podrá requerir a las dependencias o ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas y los pondrá a disposición de los interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 20.
 
@@ -408,6 +408,10 @@ Podrá negarse la participación a extranjeros en licitaciones internacionales, 
 En las licitaciones públicas, sin perjuicio de lo establecido en los tratados internacionales, podrá requerirse la incorporación de materiales, maquinaria y equipo de instalación permanente de fabricación nacional, por el porcentaje del valor de los trabajos que determine la convocante.
 
 La Secretaría, tomando en cuenta la opinión de la Consejería Jurídica del Gobierno del Estado, mediante reglas de aplicación general determinará el carácter de los procedimientos de contratación y los criterios para determinar el contenido nacional de los trabajos a licitar, en razón de las reservas, medidas de transición u otros supuestos establecidos en otras leyes mexicanas y en los tratados. La dependencia citada en primer término podrá emitir determinaciones individuales con base en las previsiones que se establezcan en las referidas reglas.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2012)</small>
+
+En los procesos de licitación en cualquiera de sus etapas se permitirá el acceso al público que así lo desee, teniendo estos como obligación, guardar respeto y compostura en el interior del lugar.
 
 ###### ARTÍCULO 28.
 
@@ -765,7 +769,7 @@ Las Dependencias, Secretaría o Ayuntamientos, podrán incorporar en las bases d
 
 Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal, deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal o Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 47.
 
@@ -1223,7 +1227,7 @@ EDUARDO BECERRA PEREZ.
 
 RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE SEPTIEMBRE DE 2003
 
@@ -1236,3 +1240,13 @@ P.O. 16 DE JULIO DE 2008.
 Artículo Primero.- El presente Decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas en lo que se opongan o de cualquier forma contravengan el presente Decreto.
+
+P.O. 18 DE ABRIL DE 2012.
+
+PRIMERO.- Aprobado que sea el presente, remítase al Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de publicidad y difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de publicidad y difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Dentro de los sesenta días hábiles siguientes a la publicación del presente decreto, el Titular del Ejecutivo del Estado de Morelos, deberá armonizar aquellas disposiciones necesarias, para el cumplimiento del presente decreto.
+
+CUARTO.- Se derogan todas aquellas disposiciones que contravengan el presente decreto.
