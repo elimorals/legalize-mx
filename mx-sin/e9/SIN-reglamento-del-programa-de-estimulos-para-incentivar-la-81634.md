@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-del-programa-de-estimulos-para-incentivar-la-81634"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-08"
-last_updated: "2012-04-13"
+last_updated: "2012-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO DEL PROGRAMA DE ESTIMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PUBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DEL PROGRAMA DE ESTÍMULOS PARA INCENTIVAR LA CARRERA JUDICIAL MEDIANTE LA PRODUCTIVIDAD Y LA EXCELENCIA EN EL DESEMPEÑO DE LOS SERVIDORES PÚBLICOS DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P. O. 13 DE ABRIL DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE ABRIL DE 2012.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de junio de 2011.
 
@@ -437,8 +437,6 @@ d) Desahogar su carga de trabajo con celeridad, oportunidad y calidad.
 
 ### CAPÍTULO SÉPTIMO. DE LOS GRUPOS Y NIVELES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 25.
 
 Atendiendo la diversidad de funciones, jerarquía, grado de responsabilidad, carga de trabajo, complejidad y grado de litigiosidad de los asuntos, productividad, celeridad, calidad y oportunidad del trabajo, para la asignación de los estímulos se establecen los siguientes grupos y niveles:
@@ -541,9 +539,9 @@ d) Secretarios de Estudio y Cuenta y Proyectistas en materia civil, cuya carga d
 
 e) Secretarios de Estudio y Cuenta y Proyectistas en materia familiar, cuya carga de trabajo durante el periodo sea igual o superior a 126 ciento veinte y seis asuntos y presente oportunamente y le sean aprobados al menos 126 ciento veinte y seis proyectos de sentencia definitiva.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+(ADICIONADO, P.O. 13 DE ABRIL DE 2012) (F. DE E., P.O. 18 DE ABRIL DE 2012)
 
-f) Secretarios de Estudio y Cuenta y Proyectistas en materia civil y familiar, cuya carga de trabajo durante el periodo sea en ambas materias igual o superior a 30 quince (sic) asuntos y presente oportunamente y le sean aprobados al menos 30 treinta proyectos de sentencia definitiva.
+f) Secretarios de Estudio y Cuenta y Proyectistas en materia civil y familiar, cuya carga de trabajo durante el periodo sea en ambas materias igual o superior a 30 treinta asuntos y presente oportunamente y le sean aprobados al menos 30 treinta proyectos de sentencia definitiva.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 8 DE JULIO DE 2011)</small>
 
