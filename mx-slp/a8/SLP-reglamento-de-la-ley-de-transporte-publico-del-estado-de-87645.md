@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-transporte-publico-del-estado-de-87645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-19"
-last_updated: "2009-09-19"
+last_updated: "2012-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -511,11 +511,15 @@ c) Automóvil de Alquiler en sitio:
 
 1) Para los municipios que conforman la Zona Centro con excepción de Mexquitic de Carmona y Ahualulco, el exterior del vehículo debe ser en color verde "ecológico", con una franja roja de extremo a extremo en cada costado de la unidad, ubicadas en la parte inferior y con un grosor de 25 a 35 centímetros. El tono de ambos colores son conforme a las muestras que la Secretaría proporcione a los concesionarios.
 
-2) Para los correspondientes a la Ciudad Capital del Estado, el exterior debe ser en color blanco, con dos franjas en verde "ecológico" de extremo a extremo en cada costado de la unidad, la primera de ellas se ubicará en la parte inferior y con un grosor de 25 a 35 centímetros; la segunda en la parte media del vehículo y con un grosor de 15 centímetros, con un intervalo para fijar el número económico. El tono de ambos colores es conforme a las muestras que la Secretaría proporcione a los concesionarios.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+
+2) Para los correspondientes a la Ciudad Capital del Estado, el exterior debe ser en color verde "ecológico", con dos franjas en blanco de extremo a extremo en cada costado de la unidad, la primera de ellas se ubicará en la parte inferior y con un grosor de 25 a 35 centímetros; la segunda en la parte media del vehículo y con un grosor de 15 centímetros, con un intervalo para fijar el número económico. El tono de ambos colores es conforme a las muestras que la Secretaría proporcione a los concesionarios.
 
 El número económico debe colocarse en ambas portezuelas delanteras en su parte media, cada dígito de 19 centímetros de altura y trazo de 3.5 centímetros de grosor, en la parte superior del número económico y centrado la leyenda: "SAN LUIS POTOSÍ", con letras de 6 centímetros de altura y trazo de 1.2 centímetros de grosor, todo en color blanco en tipografía "Helvética" y letras mayúsculas.
 
-Dentro de la franja media del vehículo en su parte posterior, el nombre del sitio con letras de 13 centímetros de altura y trazo de 1 centímetro de grosor en color blanco. En la parte superior de la franja media en las portezuelas traseras y centrado la leyenda "SITIO" en letras de 6 centímetros de altura y trazo de 1.2 centímetros de grosor, todo en color blanco en tipografía "Helvética" y letras mayúsculas.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+
+Dentro de la franja media del vehículo en su parte posterior, el nombre del sitio con letras de 13 centímetros de altura y trazo de 1 centímetro de grosor en color verde "ecológico". En la parte superior de la franja media en las portezuelas traseras y centrado la leyenda “SITIO”· en letras de 6 centímetros de altura y trazo de 1.2 centímetros de grosor, todo en color blanco en tipografía "Helvética" y letras mayúsculas.
 
 En la parte posterior del vehículo en extremo izquierdo la leyenda SITIO acompañada del nombre del mismo y en su extremo derecho el número económico, ambos de 6 centímetros de altura y trazo de 1.2 centímetros de grosor, serán diseñados en color blanco, con tipografía "Helvética" y letras en mayúsculas.
 
@@ -1007,7 +1011,9 @@ Los usuarios no pueden exigir al conductor, tratándose del transporte urbano co
 
 El usuario del servicio de transporte público de pasajeros, debe realizar el pago de la tarifa en el momento en que dicho servicio inicie; en caso de cualquier avería o accidente que le impida llegar a su destino el operador quedará obligado a garantizar su traslado o devolver el importe pagado del viaje.
 
-En el servicio de automóvil de alquiler, el usuario debe realizar el pago al término de su viaje, sin importar que se hagan escalas en el mismo, aplicando un banderazo único. Lo anterior a excepción de los lugares en donde se tenga establecido el prepago. Cuando por cualquier causa no sea posible concluir el viaje, el usuario pagará la parte proporcional al tramo de viaje realizado, descontando el banderazo inicial.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+
+En el servicio de automóvil de alquiler, el usuario debe realizar el pago al término de su viaje, sin importar que se hagan escalas en el mismo, aplicando un banderazo por cada destino y no solo por viaje. Lo anterior a excepción de los lugares en donde se tenga establecido el prepago. Cuando por cualquier causa no sea posible concluir el viaje, el usuario pagará la parte proporcional al tramo de viaje realizado, descontando el banderazo inicial.
 
 En el servicio de transporte de carga, los usuarios pueden convenir libremente con los prestadores del servicio las tarifas y formas de pago. Queda prohibido llevar pasaje distinto al conductor del vehículo o sus dependientes económicos.
 
@@ -1449,9 +1455,11 @@ g) Los anuncios deberán garantizar una vida útil mínima de un año y soportar
 
 h) En la conformidad de anuncios integrales de deberá evitar deslumbrar a los peatones y a los conductores de otros vehículos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 96.
 
-Las licencias publicitarias para comercializar anuncios en los vehículos de uso público, cubrirán los derechos establecidos en la Ley de Hacienda para el Estado y Municipios de San Luis Potosí y, para obtenerlas, las personas físicas o morales deberán presentar solicitud ante la Secretaría, en los formatos que ésta autorice, que serán gratuitos, con los datos documentos y requisitos siguientes:
+Las licencias publicitarias para comercializar anuncios en los vehículos de uso público, cubrirá los derechos establecidos en la Ley de Hacienda para el Estado de San Luis Potosí y, para obtenerlas, las personas físicas o morales deberán presentar solicitud ante la Secretaría, en los formatos que ésta autorice, que serán gratuitos, con los datos, documentos y requisitos siguientes:
 
 I. Nombre o razón social y domicilio del solicitante. Tratándose de personas morales, se deberá exhibir el documento con el que acredite su constitución y personalidad de quien la represente. En ambos casos se deberá exhibir el registro federal de contribuyentes;
 
@@ -1998,3 +2006,19 @@ EL SECRETARIO DE COMUNICACIONES Y TRANSPORTES
 LIC. GUILLERMO PEROGORDO OLIVA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se concede a los concesionarios respectivos, el término de 30 días para dar cumplimiento a las disposiciones del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
