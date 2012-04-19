@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-7037
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2011-05-31"
+last_updated: "2012-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -379,7 +379,9 @@ La custodia de las mujeres estará atendida exclusivamente por personal femenino
 
 Para ser Director de un Centro, se deberán satisfacer los requisitos siguientes:
 
-I. Ser mexicano por nacimiento en pleno goce de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Ser licenciado en Derecho o ciencias sociales afines, con título legalmente expedido y registrado;
 
@@ -1254,3 +1256,17 @@ Los asuntos iniciados con las disposiciones que mediante el presente Decreto, fu
 ###### ARTÍCULO TERCERO.
 
 El Reglamento para los Centros de Readaptación Social del Estado de Tamaulipas, deberá quedar reformado para adecuarlo al presente Decreto, en un plazo no mayor a 90 días naturales, a partir de la entrada en vigor del mismo.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
