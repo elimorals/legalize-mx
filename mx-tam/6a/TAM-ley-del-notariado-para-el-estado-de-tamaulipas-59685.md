@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2008-01-15"
+last_updated: "2012-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -121,7 +121,9 @@ IV. El ministerio de cualquier culto.
 
 El Ejecutivo del Estado expedirá patente de aspirante al cargo de Notario, a quien acredite las siguientes circunstancias:
 
-I. Ser mexicano por nacimiento, con 25 años cumplidos, estar en pleno ejercicio de sus derechos políticos y tener buena conducta;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser mexicano, con 25 años cumplidos, estar en pleno ejercicio de sus derechos políticos y tener buena conducta;
 
 II. Ser abogado con la correspondiente cédula profesional y acreditar cuando menos 3 años de práctica profesional, a partir de la fecha del examen de licenciatura; estar en pleno ejercicio de sus derechos profesionales y tener, por lo menos 5 años de residencia en el Estado;
 
@@ -1790,3 +1792,19 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mil siete.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTlNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
