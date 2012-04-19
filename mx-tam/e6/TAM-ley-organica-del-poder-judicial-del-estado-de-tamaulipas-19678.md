@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2011-11-08"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -47,7 +47,7 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
 La presente ley es reglamentaria del Título Sexto de la Constitución Política del Estado de Tamaulipas, y sus disposiciones, que son de orden público, tienen por objeto regular la estructura y funcionamiento del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 2º.
 
@@ -179,7 +179,7 @@ Durante los días inhábiles deberán dejarse guardias que atiendan los término
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 6º.
 
@@ -229,7 +229,7 @@ El Tribunal Electoral del Poder Judicial del Estado residirá oficialmente en Vi
 
 Existirá, cuando menos, un Juzgado de Primera Instancia en cada Distrito Judicial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -365,7 +365,7 @@ Los Magistrados de Número y los Supernumerarios residirán en la Capital del Es
 
 Para ser designado Magistrado del Supremo Tribunal de Justicia, se requiere cumplir con los requisitos que establece el artículo 111 de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 15.
 
@@ -515,7 +515,7 @@ El Presidente asumirá la representación del Poder Judicial del Estado y tendr�
 
 Las providencias y acuerdos del Presidente podrán ser reclamados ante el Pleno, por escrito fundado de parte interesada, dentro del término de los tres días siguientes a que haya sido hecha la notificación correspondiente. El Pleno tendrá un término de diez días hábiles para resolver lo conducente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 24.
 
@@ -535,7 +535,7 @@ IV.- Atender la correspondencia del Supremo Tribunal de Justicia con las autorid
 
 V.- Las demás que las leyes le confieran.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 25.
 
@@ -615,7 +615,7 @@ XXIV.- Delegar funciones de representación ante los tribunales del trabajo o ad
 
 XXV.- Las demás atribuciones y obligaciones que ésta o cualquiera otra ley le confieran.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO IV. DE LAS SALAS
 
@@ -653,7 +653,7 @@ X.- Imponer a su personal, así como a Jueces, Secretarios y demás servidores p
 
 XI.- Ejercer las demás atribuciones que le asigne esta ley y los acuerdos generales del Pleno del Supremo Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2008)</small>
 
 ###### ARTICULO 27.
 
@@ -739,7 +739,7 @@ Los Magistrados no podrán ausentarse del lugar de su adscripción, ni faltar a 
 
 Los Magistrados Supernumerarios integrarán Sala cuando así lo requieran las necesidades de la administración e impartición de justicia, previo acuerdo del Pleno del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 32.
 
@@ -873,7 +873,7 @@ I.- De los negocios de jurisdicción voluntaria cuyo conocimiento no corresponda
 
 II.- De los negocios contenciosos que versen sobre propiedad y demás derechos reales sobre inmuebles; excepto si se controvierten cuestiones relacionadas con el patrimonio de familia, en que la competencia corresponde a los Jueces de lo Familiar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1103,13 +1103,13 @@ IX.- Reunirse con los Jueces Menores y Jueces de Paz de su adscripción trimestr
 
 X.- Ordenar la remisión oportuna al Archivo Judicial del Estado, de los expedientes a que se refiere esta ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 XI.- Practicar las diligencias que les encomienden el Pleno del Supremo Tribunal de Justicia, los Magistrados de las Salas Colegiadas, Unitarias o Regionales y las autoridades judiciales de la Federación y rendir los informes que al efecto les soliciten;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1117,7 +1117,7 @@ XII.- Verificar que el Secretario de Acuerdos del juzgado cumpla con las obligac
 
 XIII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o el Presidente de éste.
 
-> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 48.
 
@@ -1155,7 +1155,7 @@ El Pleno del Supremo Tribunal de Justicia, previo aprobación del Consejo de la 
 
 El Consejo de la Judicatura tendrá la facultad de autorizar al Juez o Jueces Menores o de Paz de determinados Municipios para que ejerzan jurisdicción y competencia en otros Municipios, en los que por su escaso volumen de trabajo no se justifique su existencia. En este caso, el Juez Menor o el Juez de Paz formulará un programa de visitas que será aprobado por la Presidencia, a fin de constituirse en los lugares de su circunscripción y, en su caso, atender los asuntos de su competencia, sin perjuicio de hacerlo cuando así sea requerido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 50.
 
@@ -1183,7 +1183,7 @@ Corresponde a los Jueces Menores y, en su caso, a los Jueces de Paz, lo siguient
 
 A) Le corresponde a los Jueces Menores:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1363,7 +1363,7 @@ El Secretario General de Acuerdos será auxiliado en sus funciones por dos Subse
 
 ### CAPITULO XI. DE LOS SECRETARIOS DE ACUERDOS DE SALA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 70.
 
@@ -1393,7 +1393,7 @@ I.- Dar cuenta, dentro de las veinticuatro horas siguientes a su recepción, de 
 
 II.- Vigilar, bajo su responsabilidad, que se despachen los asuntos dentro de los términos de ley, asentando las constancias respectivas en autos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1405,25 +1405,25 @@ V.- Certificar con su firma las copias cuya expedición se acuerde por el Magist
 
 VI.- Dar fe y refrendar con su firma las resoluciones que se dicten por el Magistrado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 VII.- Dar cuenta inmediata de las resoluciones que por su urgencia así lo ameriten;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 VIII.- Utilizar el Sistema Electrónico de Gestión Judicial y supervisar el uso de éste por el personal adscrito a la Sala para la realización del trabajo diario; y,
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 IX.- Las demás que les confiera la Ley, el Pleno del Supremo Tribunal de Justicia, su Presidente, o el Magistrado a cuya Sala esté adscrito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO XII. DE LOS SECRETARIOS PROYECTISTAS
 
@@ -1441,7 +1441,7 @@ El Consejo de la Judicatura podrá adscribir libremente a los Secretarios Proyec
 
 ### CAPITULO XIII. DE LOS ACTUARIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 74.
 
@@ -1479,13 +1479,13 @@ I.- Recibir los escritos que se les presenten, asentando al calce la razón del 
 
 II.- Dar cuenta diariamente al Juez bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a la de la presentación, de todos los escritos y promociones de los interesados, así como de los oficios y demás documentos que se reciban en el Juzgado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 III.- Llevar en forma electrónica, a través del Sistema de Gestión Judicial, el libro en el que se registran los negocios del Juzgado, el cual se denominará "Libro de Gobierno";
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1521,13 +1521,13 @@ XVIII.- Vigilar la conducta de los empleados subalternos, dando cuenta inmediata
 
 XIX.- Ejercer, bajo su responsabilidad, la vigilancia que sea necesaria en la oficina para evitar la pérdida de los expedientes o documentos que obren en los mismos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 XX.- Asumir el carácter de jefe inmediato administrativo del Juzgado, y dirigir las labores internas de la oficina de acuerdo con las instrucciones del Juez;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -1649,7 +1649,7 @@ Los servidores públicos judiciales disfrutarán de dos períodos anuales de vac
 
 Los empleados del Poder Judicial tienen derecho a una licencia sin goce de sueldo hasta por seis meses, prorrogables si el Consejo de la Judicatura considera justificada la petición, siempre que no afecte a la administración de la justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 91.
 
@@ -1685,13 +1685,13 @@ Las renuncias de los Magistrados serán sometidas al conocimiento del Pleno del 
 
 ### CAPITULO V. DE LA REMOCION Y DE LA SUSPENSION DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 95.
 
 Los Magistrados serán inamovibles durante el período de su encargo, el cual cesará únicamente en los términos del Título XI de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 Durante el período de su ejercicio, los Jueces de Primera Instancia únicamente podrán ser removidos por el Consejo de la Judicatura, cuando:
 
@@ -1711,7 +1711,7 @@ V.- Sean destituidos mediante el procedimiento de responsabilidad administrativa
 
 VI.- Mediante el procedimiento de juicio político a que se refiere el artículo 151 de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 96.
 
@@ -1729,7 +1729,7 @@ II.- Por corrección disciplinaria cuando hubiere motivo legal para ello; o
 
 III.- Por estar sujeto a proceso administrativo de queja por causa grave a juicio del Consejo de la Judicatura.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 97.
 
@@ -1791,7 +1791,7 @@ Las faltas temporales de los Jueces de Primera Instancia serán suplidas por el 
 
 Cuando se trate de excusas o impedimentos de Jueces de Primera Instancia, conocerá del negocio de que se trate el Juez del mismo ramo más cercano territorialmente y, cuando por cualquier causa ello no fuere posible o existiere duda, el que designe el Supremo Tribunal de Justicia en Pleno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 105.
 
@@ -1817,7 +1817,7 @@ En los casos de excusa o impedimento de Jueces Menores y los Jueces de Paz, el J
 
 Las faltas temporales de los servidores públicos no comprendidos en los artículos anteriores, serán cubiertas por las personas que designe el Presidente del Supremo Tribunal de Justicia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO SEPTIMO (SIC). DEL HABER PARA EL RETIRO
 
@@ -1939,7 +1939,7 @@ El Magistrado o Juez que practique la visita al Centro Estatal de Readaptación 
 
 Se turnará a la Presidencia del Supremo Tribunal de Justicia un informe de lo observado durante la visita, así como las actas mencionadas en el artículo anterior, a fin de que se tomen las previsiones que se estimen convenientes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE MAYO DE 2010)</small>
 
 ## TITULO SEPTIMO. DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
 
@@ -2047,13 +2047,13 @@ XXVI.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de J
 
 XXVII.- Elaborar la cuenta pública anual del Poder Judicial;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 XXVIII.- Dictar las medidas necesarias para la recepción, control y destino de los bienes asegurados y decomisados dentro de un proceso penal o de justicia para adolescentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -2069,7 +2069,7 @@ Las dependencias administrativas estarán a cargo de un director, y tendrán los
 
 ### CAPITULO II. DE LA DIRECCION DE FINANZAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 124.
 
@@ -2145,7 +2145,7 @@ VIII.- Las demás que le asigne el Consejo de la Judicatura o esta ley le confie
 
 #### SECCION SEGUNDA. DEL DEPARTAMENTO DE SERVICIOS GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 129.
 
@@ -2165,7 +2165,7 @@ VI.- Las demás que ésta o cualquier otra ley les asignen.
 
 ### CAPITULO III. DE LA DIRECCION DE CONTRALORIA
 
-> <small>(REFORMADO EL PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO EL PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 130.
 
@@ -2341,7 +2341,7 @@ II.- A la adquisición de mobiliario, equipo, libros de consulta y demás materi
 
 III.- La impartición de toda clase de cursos de capacitación para el mejoramiento profesional de los servidores del Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO VI. DE LA DIRECCION DE INFORMATICA
 
@@ -2405,7 +2405,7 @@ XI.- Realizar las demás funciones y asumir las responsabilidades que las dispos
 
 ### CAPITULO VII. DE LA VISITADURIA JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 147.
 
@@ -2613,7 +2613,7 @@ VI.- Llevar una estadística de los lectores asistentes a la biblioteca; y,
 
 VII.- Las demás que le prescriban las leyes y reglamento respectivos y el Consejo de la Judicatura.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2007)</small>
 
 #### SECCION CUARTA. DEL CENTRO DE MEDIACION
 
@@ -2667,7 +2667,9 @@ XI.- Las demás que establezcan las disposiciones legales.
 
 Para ser Director del Centro o para ser Jefe de Unidad se requiere:
 
-I.- Ser mexicano por nacimiento y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I.- Ser mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II.- Tener cuando menos treinta y cinco años de edad, cumplidos el día de la designación;
 
@@ -2779,7 +2781,7 @@ VI.- Supervisar el Centro de Orientación e Información; y,
 
 VII.- Las demás que le asigne el Consejo de la Judicatura.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 #### SECCION SEXTA. DE LA COORDINACION DE PLANEACION, DESARROLLO ADMINISTRATIVO Y ESTADISTICA
 
@@ -2807,11 +2809,11 @@ VII.- Coordinar el Sistema de Gestión de la Calidad, promoviendo la mejora cont
 
 VIII.- Las demás que le establezcan las disposiciones legales o el Consejo de la Judicatura.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ## TITULO NOVENO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO II. DEL MAGISTRADO PRESIDENTE
 
@@ -2943,7 +2945,7 @@ Para el trámite de las solicitudes de licencia de los magistrados electorales o
 
 Al Tribunal Electoral, su Pleno, sus integrantes y demás órganos del mismo, les serán aplicables, en lo conducente, las disposiciones normativas que rigen el funcionamiento del Supremo Tribunal de Justicia, salvo que en este Título se prevea alguna excepción.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO III. DE LOS MAGISTRADOS ELECTORALES Y SUS PONENCIAS
 
@@ -2989,7 +2991,7 @@ XV.- Las demás que sean necesarias para el buen funcionamiento del Tribunal Ele
 
 Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el magistrado electoral de mayor antigüedad o, en su caso, de mayor edad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO IV. DE LA SECRETARIA GENERAL DE ACUERDOS
 
@@ -3035,7 +3037,7 @@ Los Secretarios y demás personas del Tribunal Electoral se conducirán con impa
 
 Todos los servidores del Tribunal serán considerados personal de confianza.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO V. DE LA COMISION DE ADMINISTRACION, VIGILANCIA Y DISCIPLINA
 
@@ -3083,7 +3085,7 @@ IV.- No ser o haber sido dirigente nacional, estatal o municipal de algún parti
 
 El Secretario General percibirá la remuneración prevista en el presupuesto de egresos y tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal Electoral.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO VI. DE LA JURISPRUDENCIA ELECTORAL
 
@@ -3151,11 +3153,11 @@ La Comisión contará con una Secretaria Administrativa y con los órganos auxil
 
 La Comisión de Administración, Vigilancia y Disciplina del Tribunal Electoral funcionará conforme las disposiciones reglamentarias aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3175,9 +3177,9 @@ III.- Para que el criterio de jurisprudencia resulte obligatorio, se requerirá 
 
 La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos para el Instituto Electoral de Tamaulipas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
 ## TITULO DECIMO. DEL TRIBUNAL ELECTRONICO
 
@@ -3191,7 +3193,7 @@ El Tribunal Electrónico es el sistema integral de procesamiento de información
 
 El objeto principal del Tribunal Electrónico es constituirse en una herramienta tecnológica que contribuya a que los servicios de impartición de justicia se presten con mayor agilidad, calidad, eficacia, eficiencia, seguridad y transparencia, en beneficio de los justiciables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
 
@@ -3239,7 +3241,7 @@ ATENTAMENTE
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 2001.
 
@@ -3386,3 +3388,17 @@ El Pleno del Supremo Tribunal de Justicia deberá, previo al vencimiento del té
 ###### ARTÍCULO TERCERO.
 
 En los asuntos iniciados previamente a la entrada en vigor de la derogación de la fracción II del artículo 68 del Código de Procedimientos Civiles del Estado de Tamaulipas, las notificaciones personales ya ordenadas se realizarán en los términos acordados dentro del expediente correspondiente.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
