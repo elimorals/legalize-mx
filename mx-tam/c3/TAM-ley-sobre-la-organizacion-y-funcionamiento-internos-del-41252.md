@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2012-02-08"
+last_updated: "2012-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -839,7 +839,9 @@ El Secretario General será nombrado por el Pleno con el voto de la mayoría de 
 
 3. Para ser designado Secretario General se requiere:
 
-a) Ser mexicano por nacimiento y no tener otra nacionalidad;
+> <small>(REFORMADO, P. O. 19 DE ABRIL DE 2012)</small>
+
+a) Ser mexicano;
 
 b) Estar en pleno goce de sus derechos políticos y civiles;
 
@@ -1001,7 +1003,9 @@ l) Las demás que se le encomienden a través del Comité del Instituto de Inves
 
 4. Para ser nombrado Coordinador del Instituto de Investigaciones Parlamentarias se requiere:
 
-a) Ser mexicano por nacimiento;
+> <small>(REFORMADO, P. O. 19 DE ABRIL DE 2012)</small>
+
+a) Ser mexicano;
 
 b) Estar en pleno de (sic) goce de sus derechos civiles y políticos;
 
@@ -2512,3 +2516,17 @@ P.O. 8 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P. O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
