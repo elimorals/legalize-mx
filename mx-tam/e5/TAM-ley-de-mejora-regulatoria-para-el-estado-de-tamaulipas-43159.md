@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mejora-regulatoria-para-el-estado-de-tamaulipas-43159"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2006-09-06"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -287,9 +287,11 @@ c) Las demás que le confiera la Junta.
 
 3. Para la remoción del Director General se estará a lo dispuesto por el Título Décimo Primero de la Constitución Política del Estado de Tamaulipas, respecto a las causas de responsabilidad administrativa de los servidores públicos, y a lo que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+
 ###### Artículo 18.
 
-Para ser Director General de la Comisión Estatal de Mejora regulatoria se deberá ser mexicano por nacimiento que no hubiere adquirido otra nacionalidad, tener más de treinta años, estar en pleno ejercicio de sus derechos civiles y políticos, y tener experiencia reconocida en algunas de las materias afines al objeto de la Comisión, a partir de una trayectoria profesional destacada en el sector público, académico, social o privado.
+Para ser Director General de la Comisión Estatal de Mejora regulatoria se deberá ser mexicano, tener más de treinta años, estar en pleno ejercicio de sus derechos civiles y políticos, y tener experiencia reconocida en algunas de las materias afines al objeto de la Comisión, a partir de una trayectoria profesional destacada en el sector público, académico, social o privado.
 
 ###### Artículo 19.
 
@@ -674,3 +676,17 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
