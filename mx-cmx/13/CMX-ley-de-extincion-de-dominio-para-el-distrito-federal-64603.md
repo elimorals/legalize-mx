@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-extincion-de-dominio-para-el-distrito-federal-64603"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-08"
-last_updated: "2010-07-19"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64603&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2008-12-03"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
 
-LEY DE EXTINCION DE DOMINIO PARA EL DISTRITO FEDERAL
+LEY DE EXTINCIÓN DE DOMINIO PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 8 de diciembre de 2008.
 
@@ -68,21 +68,25 @@ III. Agente del Ministerio Público: Agente del Ministerio Público especializad
 
 IV. Bienes: Todos los que puedan ser objeto de apropiación que no estén excluidos del comercio, ya sean muebles e inmuebles, y que actualicen los supuestos señalados en el artículo 5 de esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
 V. Delincuencia organizada: Organización de hecho de tres o más personas para cometer, en forma permanente o reiterada, alguno de los delitos a que se refiere el artículo 254 del Código Penal para el Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
 VI. Delitos Patrimoniales: Robo de vehículos, extorsión, encubrimiento por receptación contemplado en el artículo 243, todos con relación a la delincuencia organizada;
 
-VII. Evento típico: Hecho, típico, constitutivo de cualquiera de los delitos de delincuencia organizada, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2012)</small>
 
-VIII. Hecho Ilícito: Hecho, típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
+VII. Evento típico: Hecho típico, constitutivo de cualquiera de los delitos de delincuencia organizada, Delitos Contra la Salud en su modalidad de Narcomenudeo, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
+
+> <small>(REFORMADA, G.O. 19 DE ABRIL DE 2012)</small>
+
+VIII. Hecho Ilícito: Hecho típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, Delitos Contra la Salud en su modalidad de Narcomenudeo, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
 IX. Juez: Juez de Extinción de Dominio, del Tribunal Superior de Justicia del Distrito Federal;
 
@@ -102,13 +106,17 @@ XVI. Secuestro: Delitos contemplados en el Capítulo III, del Título Cuarto, de
 
 XVII. Tercero: Persona que, sin ser afectado en el procedimiento de Extinción de Dominio, comparece en él para deducir un derecho propio sobre los bienes materia de la acción;
 
-XVIII. Trata de Personas: Delitos contemplados en el Capítulo IV, del Título Sexto, del Libro Segundo, del Código Penal para el Distrito Federal; y
+XVIII. Trata de Personas: Delitos contemplados en el Capítulo IV, del Título Sexto, del Libro Segundo, del Código Penal para el Distrito Federal; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
 XIX. Víctima y Ofendido: Aquellos que en los términos del artículo 45 del Código Penal para el Distrito Federal, tienen la pretensión de que se les repare el daño quienes además tendrán sus derechos expeditos para hacerlos valer en la vía y forma que legalmente corresponda.
+
+> <small>(ADICIONADA, G.O. 19 DE ABRIL DE 2012)</small>
+
+XX. Delitos Contra la Salud en su modalidad de Narcomenudeo: Los previstos en el Capítulo VII, del Título Décimo Octavo de la Ley General de Salud.
 
 ###### ARTÍCULO 3.
 
@@ -116,19 +124,19 @@ En los casos no previstos en esta ley, se estará a las siguientes reglas de sup
 
 I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código de Procedimientos Penales para el Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
 II. En el Procedimiento de Extinción de Dominio, a lo previsto en el Código de Procedimientos Civiles para el Distrito Federal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
 III. En cuanto a los delitos, a lo previsto en el Código Penal para el Distrito Federal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -136,9 +144,11 @@ IV. En los aspectos relativos la regulación de bienes u obligaciones, a lo prev
 
 ### CAPÍTULO II. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 4.
 
-La Extinción de Dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el artículo 5 de esta Ley, sin contraprestación ni compensación alguna para el afectado, cuando se acredite el hecho ilícito en los casos de delincuencia organizada, secuestro, robo de vehículos y trata de personas, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
+La Extinción de Dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el artículo 5 de esta Ley, sin contraprestación ni compensación alguna para el afectado, cuando se acredite el hecho ilícito en los casos de delincuencia organizada, Delitos Contra la Salud en su modalidad de Narcomenudeo, secuestro, robo de vehículos y trata de personas, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita.
 
 La Extinción de Dominio es de naturaleza jurisdiccional, de carácter real y de contenido patrimonial, y procederá sobre cualquier derecho real, principal o accesorio, independientemente de quien los tenga en su poder, o los haya adquirido.
 
@@ -162,7 +172,7 @@ III. Aquellos que estén siendo utilizados para la comisión de delitos por un t
 
 IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -180,13 +190,13 @@ También procederá la acción respecto de los bienes objeto de sucesión heredi
 
 Se restituirán a la víctima u ofendido del delito los bienes de su propiedad que sean materia de la acción, cuando acredite dicha circunstancia en el procedimiento previsto en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
 El derecho a la reparación de daño, para la víctima u ofendido del delito, será procedente de conformidad con la legislación vigente, cuando obren suficientes medios de prueba en el Procedimiento y no se haya dictado sentencia ejecutoriada al respecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -230,7 +240,7 @@ VI. El embargo de bienes; dinero en depósito en el sistema financiero; títulos
 
 VII. Las demás contenidas en la legislación vigente o que considere necesarias, siempre y cuando funde y motive su procedencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -262,7 +272,7 @@ Mientras los recursos en numerario o títulos financieros de valores se encuentr
 
 Previa autorización del Juez, los bienes fungibles, de género, muebles susceptibles de deterioro o pérdida y los demás que en adición a los anteriores determine la Secretaría de Finanzas del Distrito Federal podrán ser enajenados al mejor postor o en condiciones de mercado; cuando fuere el caso, la Dependencia administrará el producto líquido, de acuerdo con las normas vigentes, e informará al Agente del Ministerio Público y al Juez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -280,7 +290,7 @@ Cuando el Agente del Ministerio Público tenga conocimiento de que va a celebrar
 
 Las autoridades y los notarios públicos que intervengan en la celebración de esos actos o en la inscripción de los mismos, están obligados a informar al Ministerio Público cuando tengan conocimiento o indicios de que los bienes objeto de tales actos se encuentran en alguna de las hipótesis previstas en el artículo 5 de esta ley, en caso contrario serán responsables en términos de la legislación penal o administrativa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -464,7 +474,7 @@ El Juez admitirá la acción, en el plazo de setenta y dos horas siguientes a su
 
 El Agente del Ministerio Público subsanará las observaciones de ser procedentes, si considera que no lo son realizará la argumentación correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -626,9 +636,9 @@ Procede el recurso de revocación contra los autos que dicte el juez en el proce
 
 Previa vista que le de a las partes con el recurso de revocación, por el término de dos días hábiles, el Juez resolverá el recurso en un término de dos días hábiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 59.
 
@@ -636,9 +646,9 @@ En contra de la sentencia que ponga fin al juicio, procede el recurso de apelaci
 
 Contra el acuerdo que rechace medios de prueba ofrecidos en tiempo y forma, procede el recurso de apelación que se admitirá solo en el efecto devolutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO [N. DE E. DEROGADO ULTIMO PARRAFO], G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. DEROGADO ÚLTIMO PÁRRAFO], G.O. 19 DE JULIO DE 2010)</small>
 
 ###### ARTÍCULO 60.
 
@@ -662,10 +672,18 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticinco días
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los tres días del mes de diciembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 19 DE JULIO DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguiente (sic) a su publicación en la Gaceta Oficial del Distrito Federa (sic).
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 19 DE ABRIL DE 2012.
+
+Primero. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente Decreto.
