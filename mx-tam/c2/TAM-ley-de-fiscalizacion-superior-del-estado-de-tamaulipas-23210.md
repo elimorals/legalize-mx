@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2010-01-20"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -117,7 +117,7 @@ XII. Fondos y valores públicos: Todo numerario que sea propiedad de las entidad
 
 XIII.- Secretaría: La Secretaría de Finanzas del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 6º.
 
@@ -257,7 +257,7 @@ VI.- Una Dirección de Control y Evaluación; y,
 
 VII.- El personal profesional, técnico y de apoyo administrativo necesario para el cumplimiento de las funciones encomendadas, conforme al presupuesto aprobado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### ARTICULO 10.
 
@@ -275,7 +275,9 @@ El Auditor Superior del Estado podrá ser removido sólo por las causas graves q
 
 Para ser Auditor Superior del Estado se requiere:
 
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos y residente del Estado de Tamaulipas al menos cinco años anteriores al día de su designación;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I.- Ser mexicano, en pleno ejercicio de sus derechos y residente del Estado de Tamaulipas al menos cinco años anteriores al día de su designación;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2007)</small>
 
@@ -431,7 +433,7 @@ Las atribuciones del resto del personal, se precisarán en el reglamento de la p
 
 ### CAPITULO TERCERO. DE SU OBJETIVO Y SUS FUNCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 15.
 
@@ -445,7 +447,7 @@ La fiscalización que realice la Auditoría se realizará de manera independient
 
 En cualquier caso la función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 16.
 
@@ -479,7 +481,7 @@ IX.- Que la administración y el ejercicio de los recursos públicos de las enti
 
 X.- La imposición de las sanciones resarcitorias correspondientes en los términos de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 17.
 
@@ -565,11 +567,11 @@ Las Cuentas Públicas de las entidades sujetas de fiscalización se presentarán
 
 Los Poderes del Estado, los Municipios y los Organismos Públicos Paraestatales y Paramunicipales, en el último año de su administración, podrán, a su elección, presentar la Cuenta Pública en período trimestral. Una vez determinada la opción de la periodicidad, no será factible modificar el calendario para su presentación, salvo que ocurran causas excepcionales que así lo ameriten a juicio del Congreso del Estado.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
 Para la rendición de las Cuentas Públicas en los términos del párrafo anterior, los períodos trimestrales comprenden, el primer trimestre, del 1 de enero al 31 de marzo; el segundo trimestre, del 1 de abril al 30 de junio; el tercer trimestre, del 1 de julio al 30 de septiembre; y, el cuarto trimestre, del 1 de octubre al 31 de diciembre; los períodos semestrales comprenden, el primero, del 1 de enero al 30 de junio; y, el segundo, del 1 de julio al 31 de diciembre; y, los anuales, del 1 de enero al 31 de diciembre.
 
@@ -611,7 +613,7 @@ Cuando el Pleno del Congreso califique una cuenta pública con salvedades o reco
 
 Si de la revisión y fiscalización de la cuenta pública, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños o perjuicios a la hacienda pública de las entidades sujetas de fiscalización, se señalarán en el informe de resultados a la Comisión. Ésta a su vez, lo reflejará en el dictamen respectivo que se presente a la consideración del Pleno del Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 31.
 
@@ -663,7 +665,7 @@ La Auditoría conservará en su poder y bajo reserva las cuentas públicas y los
 
 Se exceptúa de lo establecido en el párrafo anterior los casos en que la Auditoría sea requerida por alguna autoridad judicial, de procuración de justicia o de tribunales laborales para la entrega de información o documentación estrictamente necesaria para el ejercicio de sus atribuciones; y, en los casos que así lo instruya la Comisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 36.
 
@@ -685,7 +687,7 @@ II.- Realizar compulsas con terceros contratados por las entidades sujetas de fi
 
 III.- Practicar auditorías, visitas e inspecciones necesarias para cumplir con sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 38.
 
@@ -799,7 +801,7 @@ Las responsabilidades se fincarán en primer término a los servidores públicos
 
 La determinación de las responsabilidades y el fincamiento de indemnizaciones y sanciones se sujetará al procedimiento siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
 I.- Se citará personalmente a una audiencia al presunto o presuntos responsables, en un término que no deberá ser menor de cinco ni mayor de quince días hábiles, haciéndole saber los hechos que se le imputan y el lugar, día y hora en que se verificará la audiencia.
 
@@ -807,7 +809,7 @@ Se informará al citado de su derecho a ofrecer pruebas y alegar en la audiencia
 
 A la audiencia podrá asistir el representante de la entidad que para tal efecto designe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2007)</small>
 
 II.- Desahogadas las pruebas, si las hubiere, la Auditoría resolverá dentro de los treinta días hábiles siguientes sobre la existencia o inexistencia de responsabilidad y determinará la indemnización exigible, multa o ambas sanciones, según proceda.
 
@@ -919,7 +921,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estad
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO ENCARGADO DEL DESPACHO POR MINISTERIO DE LEY.- BLADIMIR MARTINEZ RUIZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE DICIEMBRE 2002.
 
@@ -976,3 +978,17 @@ P.O. 20 DE ENERO DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
