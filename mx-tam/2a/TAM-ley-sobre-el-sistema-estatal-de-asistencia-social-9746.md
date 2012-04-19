@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2012-02-17"
+last_updated: "2012-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -585,9 +585,11 @@ La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el e
 
 La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 31.
 
-El Director General será ciudadano mexicano por nacimiento, mayor de edad y con experiencia en materia administrativa y de asistencia social.
+El Director General será ciudadano mexicano, mayor de edad y con experiencia en materia administrativa y de asistencia social.
 
 El Gobernador del Estado designará y removerá libremente al Director General.
 
@@ -621,11 +623,11 @@ IX.- Establecer Centros de Mediación previo acuerdo de la Junta de Gobierno, en
 
 X.- Las demás que sean necesarias para el ejercicio de las anteriores.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 33.
 
-El Comisario será designado y removido libremente por el Gobernador del Estado y estará adscrito jerárquica, técnica y funcionalmente a la Contraloría Gubernamental. Deberá ser ciudadano mexicano por nacimiento y tener una experiencia profesional no menor de cinco años.
+El Comisario será designado y removido libremente por el Gobernador del Estado y estará adscrito jerárquica, técnica y funcionalmente a la Contraloría Gubernamental. Deberá ser ciudadano mexicano y tener una experiencia profesional no menor de cinco años.
 
 ###### ARTICULO 34.
 
@@ -820,3 +822,17 @@ P.O. 17 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
