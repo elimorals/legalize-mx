@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-deporte-20339"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-28"
-last_updated: "2004-11-06"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO, SEGUNDO, TERCERO Y CUARTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE FECHA 19 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO, UNA VEZ QUE INICIE LA VIGENCIA DE LA CITADA LEY.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 28 de septiembre de 1999.
 
@@ -185,7 +187,7 @@ XV. Las demás que le otorgue la presente ley y otras disposiciones jurídicas a
 
 Para dar cumplimiento al artículo anterior, el CODE contará con un Consejo Directivo y un Director General. Este último será designado por el Gobernador del Estado, a propuesta en terna presentada por el titular de la Secretaría de Educación Jalisco.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 15.
 
@@ -629,16 +631,42 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 6 DE NOVIEMBRE DE 2004.
 
-DECRETO NÚM. 2672 QUE REFORMA EL ARTICULO 15
+DECRETO NÚM. 2672 QUE REFORMA EL ARTÍCULO 15
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 6 DE NOVIEMBRE DE 2004.
 
-DECRETO NÚM. 20673 QUE REFORMA LOS ARTICULOS 1, 8, 11 Y 33.
+DECRETO NÚM. 20673 QUE REFORMA LOS ARTÍCULOS 1, 8, 11 Y 33.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 19 DE ABRIL 2012.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, a excepción de lo establecido en los artículos transitorios siguientes.
+
+SEGUNDO. Los artículos 36 y 39 entrarán en vigor el día 1.° de enero de 2015; hasta en tanto entren en vigor dichas disposiciones, el Code Jalisco podrá realizar las inscripciones al registro estatal, a quienes lo soliciten de manera voluntaria y cumplan los requisitos dispuestos en la presente ley.
+
+TERCERO. El capítulo IX, denominado del reconocimiento deportivo de la presente ley, entrará (sic) vigor a los tres años siguientes de la entrada en vigor del presente decreto; periodo en el cual el Code Jalisco podrá otorgar dicho reconocimiento a quienes lo soliciten de manera voluntaria y cumplan los requisitos dispuestos en la presente ley.
+
+CUARTO. A partir de la entrada en vigor de esta ley, se abrogan la Ley Estatal del Deporte, contenida en el decreto 18008, publicada en el periódico oficial El Estado de Jalisco el 28 de septiembre de 1999, así como sus reformas y adiciones.
+
+QUINTO. Quedan vigentes los reglamentos y acuerdos administrativos emitidos por el Consejo Directivo del antes denominado Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud, hoy Consejo Estatal para el Fomento Deportivo, en todo lo que no se oponga a la presente ley y en tanto se expidan las nuevas disposiciones que los sustituyan.
+
+SEXTO. En todos los procesos, procedimientos, juicios, convenios, contratos, fianzas, acuerdos y cualquier otro instrumento jurídico suscrito, iniciado o del que forme parte el Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud a la fecha de entrada en vigor de la presente ley se deberá entender que se refiere al organismo público descentralizado denominado Consejo Estatal para el Fomento Deportivo.
+
+SÉPTIMO. En las demás disposiciones legales y reglamentarias en las que se haga referencia al Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud se entenderá que se refiere al organismo público descentralizado denominado Consejo Estatal para el Fomento Deportivo.
+
+OCTAVO. Todos los recursos materiales, financieros y humanos del actual Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud Dirección (sic) pasarán a formar parte del organismo público denominado Consejo Estatal para el Fomento Deportivo.
+
+NOVENO. Para los efectos del artículo anterior deberán respetarse los derechos laborales de los servidores públicos de base.
+
+DÉCIMO. La constitución de los consejos directivos a los que se refieren los artículos 12 y 24 de la presente ley, deberá integrarse en un plazo no mayor de sesenta días naturales siguientes a la fecha de entrada en vigor del presente decreto.
+
+DÉCIMO PRIMERO. El programa estatal deberá ser aprobado dentro de los siguientes sesenta días a partir de la constitución de los consejos directivos a los que se refiere esta ley y actualizarse al menos anualmente.
+
+DÉCIMO SEGUNDO. El titular del Poder Ejecutivo expedirá el Reglamento de la Ley de Cultura Física y Deporte del Estado de Jalisco, en un plazo no mayor de ciento ochenta días siguientes a la fecha de la entrada en vigor del presente decreto.
