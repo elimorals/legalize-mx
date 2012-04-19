@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2012-03-28"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1011,7 +1011,9 @@ El proceso de reclutamiento consiste en la captación de los aspirantes idóneos
 
 En la convocatoria se establecerán los requisitos para la captación de aspirantes y que serán, como mínimo, los siguientes:
 
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles, sin tener otra nacionalidad;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Ser de notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
 
@@ -1301,7 +1303,9 @@ Los aspirantes a ingresar a la Procuraduría, deberán cumplir, cuando menos, co
 
 A. Ministerio Público.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
 II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional;
 
@@ -1319,7 +1323,9 @@ VIII. Presentar y aprobar las evaluaciones de control de confianza previstas en 
 
 B. Peritos.
 
-I. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser ciudadano mexicano y en pleno ejercicio de sus derechos;
 
 II. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente;
 
@@ -1409,9 +1415,7 @@ b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
 
 ###### ARTICULO 86.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción fue injustificada, la Procuraduría sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con lo dispuesto en el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
-
-Tal circunstancia será inscrita en el Registro Nacional correspondiente.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción fue injustificada, la Procuraduría sólo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona removida, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con lo dispuesto en el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el Registro Nacional correspondiente.
 
 ### CAPITULO III. DE LA PROFESIONALIZACION
 
@@ -1900,3 +1904,17 @@ Las Secretarías de Finanzas, de Administración y la Contraloría Gubernamental
 ###### ARTÍCULO TERCERO.
 
 Con motivo de la reubicación administrativa del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, no se afectarán los derechos de los trabajadores del órgano desconcentrado.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
