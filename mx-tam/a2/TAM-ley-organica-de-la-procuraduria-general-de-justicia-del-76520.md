@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2011-09-01"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -1589,7 +1589,9 @@ Los Policías Investigadores, así como las unidades que se llegasen a constitui
 
 Para ser Titular de la Policía Investigadora se requiere:
 
-I. Ser mexicano por nacimiento y originario de Tamaulipas o tener una residencia efectiva en el Estado de tres años anteriores al día de su designación;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser mexicano y originario de Tamaulipas o tener una residencia efectiva en el Estado de tres años anteriores al día de su designación;
 
 II. Tener cuando menos treinta y cinco años de edad;
 
@@ -1665,7 +1667,9 @@ Para ingresar y permanecer como Perito de carrera técnico o profesional, se req
 
 A) Para ingresar:
 
-l. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser ciudadano mexicano, en pleno goce de sus derechos;
 
 II. Acreditar, cuando menos, estudios correspondientes a educación media superior o equivalente;
 
@@ -2183,7 +2187,9 @@ El INCATEP estará a cargo de un Director, quien estará adscrito a la Direcció
 
 Para ser Director del INCATEP se requiere:
 
-I. Ser mexicano por nacimiento en ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
+I. Ser mexicano en ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad;
 
@@ -2472,5 +2478,19 @@ En tanto se expide el Reglamento Interior de la Procuraduría General de Justici
 Cuando con motivo del presente Decreto se confiera una denominación nueva o distinta a alguna unidad administrativa o entidad, cuyas funciones sean referidas por otros ordenamientos legales, dichas atribuciones se entenderán concedidas a la dependencia que determine el presente Decreto.
 
 ###### ARTÍCULO QUINTO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
