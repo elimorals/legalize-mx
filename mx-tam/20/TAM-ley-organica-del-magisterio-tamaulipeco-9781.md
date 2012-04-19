@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-magisterio-tamaulipeco-9781"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1935-12-11"
-last_updated: "1936-09-26"
+last_updated: "2012-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY ORGANICA DEL MAGISTERIO TAMAULIPECO
 
-LEY ÓRGANICA DEL MAGISTERIO TAMAULIPECO
+LEY ORGÁNICA DEL MAGISTERIO TAMAULIPECO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 1936.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial, el 11 de diciembre de 1935.
 
@@ -93,9 +93,11 @@ VIII.- Quienes no cumplan con sus obligaciones profesionales o con las que exige
 
 IX.- Los que tengan defectos físicos notables, padezcan enfermedad contagiosa o crónica, sufran perturbaciones mentales y las mujeres con atenciones de marido o infantes, salvo condiciones extraordinarias de absoluta necesidad plenamente comprobadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL 2012)</small>
+
 ###### Art. 6o.
 
-Para ingresar al servicio escolar en el Estado, se requiere: Ser mexicano por nacimiento, poseer el título correspondiente, mediante los estudios normales respectivos, hechos en escuela oficial acreditada o particular reconocida; no pasar de cuarenta y cinco años de edad; no ser ni haber sido Ministro de algún culto, no padecer enfermedad contagiosa o crónica, no sufrir perturbaciones mentales ni tener defectos físicos notables que impidan el ejercicio profesional; no haber sido condenado ni ser responsable de delito común o de conducta que afecte seriamente la buena fama de un digno elemento social, y las mujeres no tener atenciones de marido ni infantes.
+Para ingresar al servicio escolar en el Estado, se requiere: ser mexicano; poseer título correspondiente, mediante los estudios normales respectivos, hechos en escuela oficial acreditada o particular reconocida; no pasar de cuarenta y cinco años de edad; no ser ministro de algún culto religioso; y no haber sido condenado ni ser responsable de delito común o de conducta que afecte seriamente la buena fama de un digno elemento social.
 
 Solo por carencia del personal necesario podrán aceptarse tamaulipecos no titulados, y por igual causa y notario beneficio social permitirse el ingreso de profesores titulados de otros Estados.
 
@@ -131,7 +133,7 @@ I.- La Dirección General extenderá por escrito los nombramientos y apreciació
 
 II.- Los Inspectores extenderán constancia autorizada de la apreciación que, durante las visitas practicadas en el año, hagan de la labor profesional de cada maestro, o copia autorizada de las actas de esas visitas.
 
-III.- Si algún profesor de grupo no fuere visitado por el Inspector será el Director respectivo quien le entienda constancia autorizada de los informes que acerca de su labor rinda el inspector. Los Directores obtendrán esas constancias para sí de los Inspectores y caso de negativa, ocurrirán en queja a la Dirección General, quien invariablemente las exigirá y pondrá a disposición de los interesados.
+III.- Si algún profesor de grupo no fuere visitado por el Inspector será el Director respectivo quien le entienda constancia autorizada de los informes que acerca de su labor rinda el inspector. Los Directores obtendrán esas constancias para si de los Inspectores y caso de negativa, ocurrirán en queja a la Dirección General, quien invariablemente las exigirá y pondrá a disposición de los interesados.
 
 IV.- Cuando algunas escuelas no fueren visitadas durante el año por los Inspectores y cuando estos o los respectivos Directores se nieguen a extender las constancias indicadas, los profesores afectados se calificaran por el Consejo con la media de treinta y dos puntos.
 
@@ -588,3 +590,17 @@ Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, 
 P.O. 26 DE SEPTIEMBRE DE 1936
 
 TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción del artículo décimo tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a partir de su expedición, por tratarse de normas internas del Congreso del Estado, debiéndose publicar en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
