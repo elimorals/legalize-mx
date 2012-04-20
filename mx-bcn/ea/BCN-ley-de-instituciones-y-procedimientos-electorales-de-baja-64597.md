@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2009-10-30"
+last_updated: "2012-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -3131,6 +3131,10 @@ De la totalidad de las solicitudes de registro, tanto de las candidaturas a dipu
 
 Las listas de candidatos a diputados por el principio de representación proporcional que registren los partidos políticos o coaliciones, se integrarán por lo menos con una candidatura de sexo distinto. Lo anterior sin perjuicio de los mayores avances que en esta materia señale la normatividad interna y los procedimientos de cada partido político.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE ABRIL DE 2012)</small>
+
+En el caso de las candidaturas a diputados a elegirse por mayoría relativa o por el principio de representación proporcional, que sean determinadas mediante un proceso de designación, el propietario y su suplente de la fórmula respectiva, deberán ser preferentemente del mismo género, atendiendo los porcentajes precisados en el presente artículo.
+
 ###### ARTÍCULO 258.
 
 Hecho el cierre de registro de candidaturas, si un partido político o coalición no cumple con lo establecido en el artículo anterior, el Consejo General le requerirá en primera instancia para que un plazo de cuarenta y ocho horas, contadas a partir de la notificación, rectifique la solicitud de registro de candidaturas y le apercibirá de que, en caso de no hacerlo le hará una amonestación pública.
@@ -5992,3 +5996,7 @@ TERCERO.- El Consejo General del Instituto Electoral, en la siguiente sesión p�
 CUARTO.- El Reglamento Interior de la Contraloría General, deberá emitirse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
 QUINTO.- A partir del 2010, en ningún caso, la dieta de los consejeros presidentes de los consejos electorales podrá ser mayor al cinco porciento (sic) del que señale la ley para los consejeros electorales, según corresponda.
+
+P.O. 20 DE ABRIL DE 2012.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
