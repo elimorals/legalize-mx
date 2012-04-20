@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-02-03"
+last_updated: "2012-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1667,6 +1667,20 @@ Artículo 175 QUATER.- Agravación de la pena.- Las penas previstas en los artí
 
 Sin perjuicio de la agravación de la pena, que se imponga conforme al párrafo anterior, la pena se aumentará hasta en una mitad más, cuando el delito se ejecute por un servidor público.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+Artículo 175 QUINQUIES.- Tipo y punibilidad.- Al que por cualquier medio usurpe o suplante con fines ilícitos o de lucro, la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la usurpación o suplantación en su identidad, se le impondrá pena de seis meses a seis años de prisión y de cuatrocientos a seiscientos días multa.
+
+Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien además se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito así como en el supuesto de que el sujeto activo del delito tenga licenciatura, ingeniería o cualquier otro grado académico reconocido en el rubro de la informática, telemática o sus afines.
+
+Serán equiparables al delito de usurpación o suplantación de identidad y se impondrán las penas establecidas por este artículo, cuando se actualicen las siguientes conductas:
+
+I.- Al que por algún uso del medio informático, telemático o electrónico alcance un lucro indebido o genere un daño patrimonial para sí o para otro valiéndose de alguna manipulación informática o intercepción de datos de envío, cuyo objeto sea el empleo no autorizado de datos personales o el acceso no autorizado a base de datos automatizados para suplantar identidades;
+
+II.- Al que transfiera, posea o utilice datos identificativos de otra persona con la intensión de cometer, intentar o favorecer cualquier actividad ilícita, y
+
+III.- Al que asuma, suplante o se apropie o utilice a través del internet, cualquier sistema informático, o medio de comunicación, la identidad de una persona física o jurídica que no le pertenezca.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 168.
@@ -1765,9 +1779,9 @@ Si el medio empleado fuere la violencia, la penalidad se aumentará hasta en una
 
 Cuando el activo del delito tenga parentesco por consanguineidad o afinidad con el ofendido o víctima hasta el tercer grado, el delito se perseguirá por querella de parte.
 
-(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2007))
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
-## TITULO TERCERO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO Y DE LOS SISTEMAS Y EQUIPOS DE INFORMÁTICA
+## TÍTULO TERCERO. DELITOS CONTRA LA INVIOLABILIDAD DEL SECRETO Y DE LOS SISTEMAS Y EQUIPOS DE CÓMPUTO Y PROTECCIÓN DE LOS DATOS PERSONALES
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 14 DE SEPTIEMBRE DE 2007)</small>
 
@@ -4808,3 +4822,7 @@ P.O. 3 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
