@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2012-01-06"
+last_updated: "2012-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -177,9 +177,13 @@ XXIII.- La promoción, prevención y el control de las enfermedades cardiovascul
 
 XXIV.- La orientación médica o prevención del farmacodependiente o consumidor, respectivamente, cuando reciba del Ministerio Público, el reporte de no ejercicio de la acción penal;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XXV.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XXV.- El programa de prevención, atención y control del VIH/SIDA, e infecciones de transmisión sexual.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -319,43 +323,43 @@ V.- Promover, orientar y apoyar las acciones en materia de salubridad local a ca
 
 VI.- Cumplir y hacer cumplir las normas oficiales mexicanas en la materia, cuando su aplicación corresponda a las autoridades locales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 VII.- Coordinarse con la Secretaría de Salud Federal para la ejecución en el Estado, del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 VIII.- Promover y llevar a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de estupefacientes y psicotrópicos, así como las acciones para su detección temprana en el individuo, de conformidad con los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 IX.- Proporcionar información y brindar la atención médica y los tratamientos que requieren las personas que consumen estupefacientes y psicotrópicos; conforme a los términos establecidos por el programa nacional para la prevención y tratamiento de la farmacodependencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 X.- Fomentar la participación de los sectores tanto público, social y privado en la prevención y tratamiento y apoyo a las personas que padecen alguna adicción o se encuentran en riesgo de padecerla;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XI.- La prevención del Consumo de narcóticos y la atención a las adicciones;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
 XII.- Citar al farmacodependiente o consumidor a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos en la materia, una vez que el centro o institución especializado en tratamiento, atención y rehabilitación de farmacodependientes haya recibido de la Secretaria de Salud del Estado el reporte de no ejercicio de la acción penal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -561,7 +565,7 @@ IV.- (REFORMADA [N. DE E. DEROGADA], P.O. 28 DE DICIEMBRE DE 2009)
 
 V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 25.
 
@@ -636,6 +640,14 @@ III.- Los talleres protegidos de rehabilitación psiquiátrica, tienen como obje
 ###### ARTÍCULO 32.
 
 El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determinen las normas oficiales mexicanas en la materia y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+Tratándose de internamiento voluntario, la persona con trastornos mentales tendrá derecho al consentimiento informado, otorgado por escrito por el mismo paciente, su representante o tutor, en relación al tratamiento a recibir, sólo se exceptuará en el caso de internamiento involuntario.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+El internamiento involuntario, se presenta en el caso de usuarios con trastornos mentales severos, que demandan atención urgente o representen un peligro grave o inmediato para sí mismos o para los demás. Requiere la indicación de un médico psiquiatra y la solicitud de un familiar responsable, tutor o representante legal, ambas por escrito. En caso de extrema necesidad, los enfermos mentales en situación de calle o abandono, pueden ingresar asistidos por personal de la secretaría de salud por indicación escrita del médico psiquiatra a cargo del servicio de admisión de la unidad hospitalaria. En cuanto las condiciones del usuario lo permitan, deberá ser informado de su situación de internamiento involuntario, para que en su caso, su condición cambie a la de internamiento voluntario.
 
 ###### ARTÍCULO 33.
 
@@ -759,7 +771,7 @@ Para los efectos del artículo anterior, las Autoridades Sanitarias del Estado p
 
 Se concede acción popular para denunciar ante las Autoridades Sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2005)</small>
 
 #### SECCION IX. DE LA PREVENCION Y EL CONTROL DE LAS ENFERMEDADES BUCODENTALES, AUDITIVAS Y VISUALES
 
@@ -803,7 +815,7 @@ ARTÍCULO 50 BIS 4.- La prevención y control de la salud bucal de los menores e
 
 ARTÍCULO 50 BIS 5.- La Secretaría de Educación y Bienestar Social del Estado en el ámbito de su competencia, coadyuvará con la Secretaría de Salud en la observancia y aplicación de los programas de salud bucal que se instrumenten a la población preescolar, de conformidad con las bases de coordinación que se establezcan entre ambas autoridades.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 #### SECCION X. DONACION Y TRASPLANTES
 
@@ -1019,7 +1031,7 @@ De igual forma vigilarán la calidad del agua para uso y consumo humano, así co
 
 #### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO NUMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1053,7 +1065,9 @@ XI.- Helmintiasis intestinales y extraintestinales;
 
 XII.- Toxoplasmosis;
 
-XIII.- Síndrome de inmunodeficiencia adquirida; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIII.- Síndrome de inmunodeficiencia adquirida/VIH; y
 
 XIV.- Las demás que determinen las disposiciones aplicables.
 
@@ -1069,7 +1083,9 @@ III.- En un plazo no mayor de veinticuatro horas en los casos individuales de en
 
 IV.- En un plazo no mayor de veinticuatro horas, de los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada; y
 
-V.- Será obligatoria la notificación inmediata a la Autoridad Sanitaria más cercana de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus, en alguna persona.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+V.- Será obligatoria la notificación inmediata a la Autoridad Sanitaria más cercana de los casos en que se detecte la presencia del virus de la inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus, en alguna persona, actuando con absoluta confidencialidad y respeto al derecho de privacidad de quienes lo hayan adquirido y diagnosticado.
 
 ###### ARTÍCULO 75.
 
@@ -1163,6 +1179,8 @@ II.- La prevención de la ludopatía mediante la implementación de campañas pe
 
 De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 89.
 
 Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia, realizarán actividades de prevención y control de las enfermedades no transmisibles que las propias autoridades determinen.
@@ -1185,9 +1203,29 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION I. DISPOSICIONES COMUNES
+#### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 106 QUATER.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución en la entidad del Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
+
+I.- Prestar servicios de atención médica integral, detección y tratamiento para los enfermos del VIH/SIDA y otras infecciones de transmisión sexual, así como apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado;
+
+II.- Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
+
+III.- Coordinar acciones con las Autoridades Educativas del Estado para fortalecer la educación integral en sexualidad y la promoción de la salud sexual, así como apoyar la investigación en el campo de la sexualidad humana para prevenir el VIH/SIDA y otras infecciones de transmisión sexual;
+
+IV.- Promover el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer VIH/SIDA y otras infecciones de transmisión sexual, de conformidad con las políticas que determinen las Autoridades Sanitarias competentes;
+
+V.- Fomentar la cultura del respeto, igualdad de derechos y la erradicación del estigma, la discriminación, la homofobia y la violación de los derechos fundamentales de las personas que padecen del VIH/SIDA y otras infecciones de transmisión sexual;
+
+VI.- Impulsar el desarrollo de estrategias de prevención perinatal del VIH/SIDA, así como medidas de prevención sexual, desde la atención materno-infantil, para incrementar la detección oportuna y el tratamiento médico eficaz de las mujeres embarazadas y de los niños que viven con VIH/SIDA;
+
+VII.- Organizar en coordinación con los grupos y organismos de la sociedad civil interesados, actividades específicas para reducir los riesgos de transmisión del VIH/SIDA y otras infecciones de transmisión sexual, permitiendo su plena y total participación en todos los niveles;
+
+VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de VIH/SIDA y otras infecciones de transmisión sexual en los centros penitenciarios del Estado, así como diseñar estrategias fronterizas, atendiendo a la (sic) condiciones de movilidad de los migrantes que transitan por la entidad, para prevenir, atender y controlar la propagación del VIH/SIDA y otras infecciones de transmisión sexual en el Estado, y
+
+IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
 
 ###### ARTÍCULO 92.
 
@@ -1211,6 +1249,10 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 ### CAPITULO OCTAVO. DE LA PREVENCION Y REHABILITACION DE DISCAPACITADOS
 
+#### SECCION I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 #### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 #### SECCION III. DE LAS FUNERARIAS Y PANTEONES
@@ -1219,9 +1261,7 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 #### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
-#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
-
-### CAPITULO NOVENO. DE LAS ADICCIONES
+### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
 ###### ARTÍCULO 94.
 
@@ -1259,9 +1299,11 @@ Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia
 
 Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
+
 ### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
 
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
+#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 ###### ARTÍCULO 99.
 
@@ -1289,7 +1331,7 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 102.
 
@@ -1319,11 +1361,9 @@ Los establecimientos comerciales que vendan productos derivados del tabaco, debe
 
 A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términos de la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 105.
 
@@ -1349,19 +1389,19 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 A los establecimientos, así como a los responsables de los mismos que vendan o utilicen substancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga la Secretaría de Salud del Estado y los Municipios, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
+
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 #### SECCION X. DE LOS TRANSPORTES DE CARGA
+
+### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
 #### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
 
 (NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
-
-### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
-
-#### SECCION I. DE LAS AUTORIZACIONES
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -1385,9 +1425,9 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1407,7 +1447,9 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 114.
 
@@ -1443,7 +1485,7 @@ Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la 
 
 La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción; lo anterior sin perjuicio de las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 116.
 
@@ -1470,6 +1512,8 @@ El traslado de cadáveres dentro de la entidad, sólo podrá hacerse mediante la
 Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntamiento correspondiente.
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
+
+#### SECCION III. DE LOS CERTIFICADOS
 
 ###### ARTÍCULO 120.
 
@@ -1599,7 +1643,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes de carga señalados en el artículo anterior que circulen por el territorio estatal, deberán contar con la autorización sanitaria expedida por la Autoridad Sanitaria correspondiente, una vez cubiertos los requisitos que marca esta Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 147.
 
@@ -1823,7 +1867,7 @@ La construcción y equipamiento de los establecimientos dedicados a la prestaci�
 
 Requieren de tarjeta de control sanitario las personas que realicen actividades mediante las cuales se pueda propagar alguna enfermedad transmisible, en los casos y bajo condiciones que establezcan las disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 157.
 
@@ -2237,7 +2281,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JULIO DE 2002.
 
@@ -2346,3 +2390,19 @@ P.O. 23 DE DICIEMBRE DE 2011.
 P.O. 6 DE ENERO DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2012.
+
+DECRETO No. 186, POR EL QUE SE APRUEBA LA REFORMA A LA FRACCIÓN XXV Y LA CREACIÓN DE LA FRACCIÓN XXVI AL ARTÍCULO 4, LA REFORMA A LA FRACCIÓN XIII DEL ARTÍCULO 73, LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 74, LA ADICIÓN A LA DENOMINACIÓN DEL CAPÍTULO NOVENO, LA CREACIÓN DE LA SECCIÓN V CORRESPONDIENTE AL CAPÍTULO NOVENO, ASÍ COMO LA CREACIÓN DEL ARTÍCULO 106 QUÁTER, TODOS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+Primero.- Las presentes reformas entrará (sic) en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado, contará con un plazo de 180 días, contados a partir de la publicación del presente Decreto, para realizar las adecuaciones reglamentarias, administrativas y presupuestales que correspondan.
+
+P.O. 20 DE ABRIL DE 2012.
+
+DECRETO No. 187 POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 32 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA, QUE ADICIONA EL PÁRRAFO SEGUNDO Y TERCERO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar los Reglamentos respectivos derivados de la Ley de Salud Pública del Estado de Baja California.
