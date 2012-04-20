@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2010-09-03"
+last_updated: "2012-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
+REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -93,67 +93,133 @@ II.- Acotamiento.- Franja comprendida entre la orilla de la superficie de rodami
 
 III.- Alto.- Dispositivo de tránsito que indica la parada total del vehículo, antes de atravesar un cruce de peatones, o bien en intersecciones con vialidades de igual o mayor jerarquía, indicándose a través de señales humanas, gráficas, electromecánicas, marcas en el pavimento, o sonoras. Como señal gráfica se apreciará en forma octagonal, pintado de rojo con letras y filetes blancos;
 
-IV.- Arroyo de circulación o calle.- Superficie de rodamiento para el tránsito de vehículos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-V.- Calzar con cuñas.- Poner una pieza en forma de cuña entre el piso y la rueda de un vehículo para inmovilizarlo;
+IV.- Área de espera ciclista.- Aquella zona, cuya función es la de servir de espacio de detención para los ciclistas durante el alto de un semáforo;
 
-VI.- Carril.- Una de las franjas de circulación en que puede estar dividida la superficie de rodamiento de una vía, marcada o no con anchura suficiente para la circulación en la fila, de vehículos de motor de cuatro ruedas o más;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VII.- Ceder el paso.- Tomar las precauciones necesarias, inclusive detener la marcha del vehículo si es necesario, para que otros no se vean obligados a modificar por virtud de la presencia del primero, su dirección o velocidad;
+V.- Arroyo de circulación o calle.- Superficie de rodamiento para el tránsito de vehículos;
 
-VIII.- Conductor.- Es la persona que conduce un vehículo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-IX.- Cruce.- Intersección de un camino con una vía férrea;
+VI.- Calzar con cuñas.- Poner una pieza en forma de cuña entre el piso y la rueda de un vehículo para inmovilizarlo;
 
-X.- Glorieta.- Entronque de varias vías, en donde la circulación es de un solo sentido que da por resultado un movimiento de tránsito continuo y ordenado;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XI.- Infracción.- Es la conducta realizada por un conductor, peatón o pasajero que transgrede alguna disposición de este Reglamento, y que tiene como consecuencia una sanción;
+VII.- Carril.- Una de las franjas de circulación en que puede estar dividida la superficie de rodamiento de una vía, marcada o no con anchura suficiente para la circulación en la fila, de vehículos de motor de cuatro ruedas o más;
 
-XII.- Intersección.- Área en donde dos o más vialidades se unen o se cruzan, existiendo dos tipos: los entronques y los pasos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XIII.- Pasajero.- Es la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
+VIII.- Ciclista.- Conductor de un vehículo de tracción humana a pedales;
 
-XIV.- Paso.- Zona donde dos vías terrestres se cruzan sin que puedan unirse las corrientes de tránsito, pudiendo contar o no con estructuras a distintos niveles;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XV.- Paso a desnivel.- Estructura que permite la circulación simultánea a diferentes elevaciones a dos o más vías;
+IX.- Ciclocarril.- Carril ubicado en la extrema derecha del área de circulación vehicular, para uso compartido entre ciclistas y vehículos de transporte público y otros vehículos.
 
-XVI.- Peatón.- Es la persona que transita a pie por la vía pública;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XVII.- Peralte.- En las carreteras, la mayor elevación de la parte exterior de la curva, en relación con la interior;
+X.- Ciclovía.- Vía o sección de una vía, exclusiva para la circulación ciclista, físicamente confinada del tránsito automotor;
 
-XVIII.- Peso bruto vehicular.- Es el peso propio del vehículo y su capacidad de carga, especificadas por el fabricante;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XIX.- Remolque.- Vehículo no dotado de medios de propulsión y destinado a ser jalado por un vehículo de motor;
+XI.- Ceder el paso.- Tomar las precauciones necesarias, inclusive detener la marcha del vehículo si es necesario, para que otros no se vean obligados modificar por virtud de la presencia del primero, su dirección o velocidad;
 
-XX.- Semirremolque.- Todo remolque sin eje delantero, destinado a ser acoplado a un tractocamión de manera que parte de su peso sea soportado por éste;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XXI.- Superficie de rodamiento.- Área de una vía sobre la cual transitan los vehículos;
+XII.- Conductor.- Es la persona que conduce un vehículo;
 
-XXII.- Tractocamión.- Vehículo de motor destinado a soportar y jalar semirremolques;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XXIII.- Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
+XIII.- Cruce.- Intersección de un camino con una vía férrea;
 
-XXIV.- Vehículo.- Es el medio de propulsión en el cual se transportan personas o bienes;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XXV.- Vialidad.- Es el sistema de vías públicas utilizado para el tránsito en el Municipio;
+XIV.- Glorieta.- Entronque de varias vías, en donde la circulación es de un solo sentido que da por resultado un movimiento de tránsito continuo y ordenado;
 
-XXVI.- Vías de acceso controlado.- Aquellas en que la entrada o salida de los vehículos se efectúa en lugares específicamente determinados;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XXVII.- Vías de pistas separadas.- Aquellas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a otra, excepto en los lugares destinados al efecto;
+XV.- Infracción.- Es la conducta realizada por un conductor, peatón o pasajero que transgrede alguna disposición de éste Reglamento, y que tiene como consecuencia una sanción;
 
-XXVIII.- Vía Pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+XVI.- Intersección.- Área en donde dos o más vialidades se unen o se cruzan, existiendo dos tipos: los entronques y los pasos;
 
-XXIX.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2009)</small>
+XVII.- Pasajero.- Es la persona que se encuentra a bordo de un vehículo y que no tiene el carácter de conductor;
 
-XXX.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones; y,
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2009)</small>
+XVIII.- Paso.- Zona donde dos vías terrestres se cruzan sin que puedan unirse las corrientes de tránsito, pudiendo contar o no con estructuras a distintos niveles;
 
-XXXI.- Alcoholímetro.- Dispositivo para medir la cantidad de alcohol presente en el aire espirado por una persona.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIX.- Paso a desnivel.- Estructura que permite la circulación simultánea a diferentes elevaciones a dos o más vías;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XX.- Peatón.- Es la persona que transita a pie por la vía pública;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXI.- Peralte.- En las carreteras, la mayor elevación de la parte exterior de la curva, en relación con la interior;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXII.- Peso bruto vehicular.- Es el peso propio del vehículo y su capacidad de carga, especificadas por el fabricante;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXIII.- Remolque.- Vehículo no dotado de medios de propulsión y destinado a ser jalado por un vehículo de motor;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXIV.- Semirremolque.- Todo remolque sin eje delantero, destinado a ser acoplado a un tractocamión de manera que parte de su peso sea soportado por éste;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXV.- Superficie de rodamiento.- Área de una vía sobre la cual transitan los vehículos;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVI.- Tractocamión.- Vehículo de motor destinado a soportar y jalar semirremolques;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVII.- Tránsito.- Es la acción o efecto de trasladarse por la vía pública;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVIII.- Vehículo.- Es el medio de propulsión en el cual se transportan personas o bienes;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXIX.- Vialidad.- Es el sistema de vías públicas utilizado para el tránsito del Municipio;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXX.- Vías de acceso controlado.- Aquellas en que la entrada o salida de los vehículos se efectúa en lugares específicamente determinados;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXI.- Vías de pistas separadas.- Aquellas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a otra, excepto en los lugares destinados al efecto;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXII.- Vía pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXIII.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXIV.- Zona de seguridad.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXV.- Alcoholímetro.- Dispositivo para medir la cantidad de alcohol presente en aire respirado por una persona.
 
 ###### ARTÍCULO 5.
 
@@ -421,29 +487,57 @@ Los conductores de vehículos que observen algún transporte escolar detenido en
 
 Al transitar por las vías públicas del Municipio, los ciclistas deberán observar las siguientes disposiciones:
 
-I.- Circularán a la extrema derecha de la vía sobre la que transiten;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-II.- Maniobrarán con cuidado al rebasar vehículos estacionados;
+I.- Circularán sobre el carril de la extrema derecha de la vía sobre la que transiten;
 
-III.- Circularán en una sola fila;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-IV.- Deberán usar casco protector;
+II.- Circularán en el sentido de la vía;
 
-V.- No llevarán carga o pasajeros que dificulten su visibilidad, su equilibrio o su adecuado manejo, o constituya un peligro para sí o para otros usuarios de la vía pública;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VI.- Se abstendrán de usar radios, reproductores de sonido y demás mecanismos que propicien su distracción al conducir;
+III.- Rebasarán sólo por el carril izquierdo;
 
-VII.- Se abstendrán de circular sobre las banquetas;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VIII.- Obedecerán las señales y dispositivos de tránsito;
+IV.- Usarán aditamentos o bandas reflejantes para uso nocturno;
 
-IX.- Evitarán toda clase de suertes al conducir;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-X.- Se abstendrán de asirse a otro vehículo en movimiento;
+V.- Deberán utilizar casco protector al momento de circular;
 
-XI.- No deberán transitar por los carriles centrales o interiores de las vías de controlado, ni en las vialidades en las que así lo indique el señalamiento; y,
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XII.- Conducirán con todas las precauciones necesarias para evitar accidentes.
+VI.- Circularán preferentemente por las vías destinadas para ello;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VII.- No llevarán carga o pasajeros que dificulten su visibilidad, su equilibrio o su adecuado manejo, o constituya un peligro para sí o para otros usuarios de la vía pública;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VIII.- Indicarán la dirección de su giro o cambio de carril, mediante señales con el brazo y mano;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+IX.- Compartirán de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+X.- Se abstendrán de usar aparatos y demás mecanismos que propicien su distracción al conducir;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XI.- Se abstendrán de circular sobre las banquetas;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XII.- Evitarán toda clase de suertes al conducir; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2012)</small>
+
+XIII.- Se abstendrán de asirse a otro vehículo en movimiento.
 
 ###### ARTÍCULO 33.
 
@@ -725,9 +819,17 @@ X.- Realizar reducciones o aumentos de velocidad en forma gradual;
 
 XI.- Ceder el paso a los peatones que en zonas de cruce permitidas se encuentren sobre los carriles de circulación o hayan iniciado el cruce de éstos;
 
-XII.- Someterse a los exámenes y reconocimientos médicos para detectar si se encuentra bajo el influjo del alcohol, drogas o estupefacientes, en los supuestos que se determinan en el presente Reglamento; y,
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XIII.- En general, respetar todas las disposiciones establecidas en el presente Reglamento y obedecer las señales y dispositivos de control de tránsito.
+XII.- En caso de rebasar a ciclistas, se podrá rebasar sólo por el lado izquierdo otorgando al menos la distancia de 1 metro de separación lateral entre los dos vehículos;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIII.- Someterse a los exámenes y reconocimientos médicos para detectar si se encuentra bajo el influjo del alcohol, drogas o estupefacientes, en los supuestos que se determinan en el presente Reglamento; y,
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIV.- En general, respetar todas las disposiciones establecidas en el presente Reglamento y obedecer las señales y dispositivos de control de tránsito.
 
 ###### ARTÍCULO 54.
 
@@ -810,6 +912,14 @@ XII.- No deberán remolcar a otro vehículo; y,
 XIII.- Les esta prohibido transitar por los carriles centrales o interiores de las vías de acceso controlado y en las vialidades en las que así lo indique el señalamiento.
 
 Las motocicletas cuyo cilindraje sea superior a los cuatrocientos centímetros cúbicos, no estarán sujetas a esta prohibición, pero deberán transitar siempre con las luces encendidas.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIV.- A los ciclistas y motociclistas les está prohibido:
+
+I. Circular entre carriles, salvo cuando el ciclista se encuentre con tránsito detenido y busque colocarse en lugar visible para reiniciar la marcha.
+
+II. Circular por los carriles exclusivos para el transporte público de pasajeros.
 
 #### SECCIÓN SEGUNDA. DE LOS PASAJEROS
 
@@ -1027,7 +1137,21 @@ V.- Carreteras.- Son las vialidades ubicadas fuera de las zonas urbanas, que une
 
 #### SECCIÓN SEGUNDA. NORMAS GENERALES DE CIRCULACIÓN EN LA VÍA PÚBLICA
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 72.
+
+La prioridad en el uso de la vialidad será conforme a la siguiente jerarquía:
+
+I. Peatones;
+
+II. Ciclistas;
+
+III. Usuarios y prestadores del servicio de transporte de pasajeros masivo, colectivo o individual;
+
+IV. Usuarios de transporte particular automotor; y
+
+V. Usuarios y prestadores del servicio de transporte de carga.
 
 Los usuarios de la vía pública deberán abstenerse de todo acto que pueda constituir un obstáculo para el tránsito de peatones y vehículos, poner en peligro a las personas o causar daños a propiedades públicas y privadas.
 
@@ -1891,9 +2015,9 @@ E (sic) apercibimiento no aplicará a los vehículos del servicio público de tr
 
 Al conductor o pasajero que contravenga las disposiciones del presente Reglamento, se le sancionará de acuerdo a la falta cometida con el pago de multa correspondiente en días de salario mínimo general vigente en el Municipio, según se indica en la siguiente:
 
-> <small>N. DE E. VEASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PAGINAS DE LA 96 A LA 106.</small>
+> <small>N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PAGINA 57, P.O. 17 DE OCTUBRE DE 2008, PAGINAS DE LA 41 A LA 42, P.O. 3 DE SEPTIEMBRE DE 2010, PAGINA 34.</small>
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PÁGINA 57, P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42, P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34, P.O. 20 DE ABRIL DE 2012, PÁGINA 57.</small>
 
 ###### ARTÍCULO 148.
 
@@ -1969,7 +2093,7 @@ QUINTO.- Los particulares que impartan educación vial o estén a cargo de centr
 
 SEXTO.- Entretanto la Dirección emite el Manual para el Conductor, continuará vigente el contenido en el Artículo 171 del Reglamento de Tránsito y Transportes para el Municipio de Mexicali, Baja California, publicado en el Periódico Oficial del Estado de fecha 8 de diciembre de 1995.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE FEBRERO DE 2003.
 
@@ -2018,3 +2142,21 @@ P.O. 12 DE JUNIO DE 2009.
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
 Único.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE ABRIL DE 2012.
+
+ACUERDO POR EL QUE SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 4, FRACCIONES IV A XXXI Y ADICIÓN DE LAS FRACCIONES XXXII, XXXIII, XXXIV Y XXXV; ARTÍCULO 32, FRACCIONES I A XII; ARTÍCULO 53, FRACCIONES XII Y XIII Y ADICIÓN DE LA FRACCIÓN XIV; ARTÍCULO 55, ADICIÓN DE LA FRACCIÓN XIV; Y ARTÍCULO 72, TODOS ELLOS DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+PRIMERO.- ...
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 20 DE ABRIL DEL 2012.
+
+ACUERDO POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 147 DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, EN SUS NUMERALES 113, 114, 116 Y 122, RELATIVOS A SANCIONES PECUNIARIAS EN NÚMERO DE DÍAS DE SALARIO MÍNIMO GENERAL VIGENTE EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+SEGUNDO: SE INSTRUYE A LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL, A EFECTO DE QUE DE MANERA PERMANENTE DENTRO DE SUS OPERATIVOS, EJECUTE EL CUMPLIMIENTO EXACTO DE LOS NUMERALES 45, 52 Y 55 DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+TERCERO.- SE INSTRUYE A LA DIRECCIÓN DE COMUNICACIÓN SOCIAL A EFECTO DE QUE LLEVE A CABO UNA CAMPAÑA DE CONCIENTIZACIÓN, PARA EFECTO DE PRESERVAR LA SEGURIDAD DE LOS JÓVENES QUE REPARTEN ALIMENTOS EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA.
+
+CUARTO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
