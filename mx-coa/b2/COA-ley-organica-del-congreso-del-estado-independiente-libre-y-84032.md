@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-8403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-25"
-last_updated: "2011-12-30"
+last_updated: "2012-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1337,19 +1337,21 @@ V. Las demás que se acuerden por el Pleno, la Diputación Permanente, o la Junt
 
 La Diputación Permanente es el órgano del Congreso del Estado, que funcionará cuando el Pleno no esté en período de sesiones.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 114.
 
-La Diputación Permanente se integrará con nueve diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos Secretarios y cinco Vocales, además de nueve sustitutos, los cuales serán designados por el Presidente, de entre los que estén en funciones un día antes de la clausura del período de sesiones.
+La Diputación Permanente se integrará con once diputados propietarios, de los cuales se nombrará un Presidente, un Vicepresidente, dos Secretarios y siete Vocales.
 
 Por cada uno de los diputados electos como propietarios, se designará respectivamente un sustituto, que los sustituirá en caso de ausencia temporal o absoluta.
 
 Para la integración de la Diputación Permanente, se observará lo siguiente:
 
-I. En primer lugar, se asignarán cinco lugares para el Grupo Parlamentario que haya obtenido la mayoría absoluta en el Congreso del Estado.
+I. En primer lugar, se asignarán seis lugares para el Grupo Parlamentario que haya obtenido la mayoría absoluta en el Congreso del Estado.
 
 II. Enseguida, se asignará en orden descendente de representación, un lugar para cada uno de los Grupos Parlamentarios que conforme al resultado electoral estén representados en el Congreso, exceptuando al Grupo Parlamentario mayoritario.
 
-III. De los lugares restantes, se asignará a cada Grupo Parlamentario, por el orden de su representación, la cantidad que proporcionalmente le corresponda en relación a los nueve diputados que conforman la diputación permanente, restándoles el diputado ya asignado en la fracción que antecede. Se exceptúa de lo anterior al Grupo Parlamentario Mayoritario.
+III. De los lugares restantes, se asignarán a los diputados representantes de partidos políticos que no formen Grupo Parlamentario de acuerdo a propuesta de la Junta de Gobierno.
 
 IV. En caso de empate de dos o más Grupos Parlamentarios en la representación en el Congreso, se decidirá por el número de votos obtenidos en el proceso electoral correspondiente.
 
@@ -2702,3 +2704,7 @@ P.O. 30 DE DICIEMBRE DE 2011.
 DECRETO NÚMERO 573, POR EL QUE SE MODIFICAN EL ARTÍCULO 164, EL PRIMER PÁRRAFO DEL ARTÍCULO 46; Y SE ADICIONAN UN QUINTO PÁRRAFO AL ARTÍCULO 46, UN CAPÍTULO IV BIS Y EL ARTÍCULO 206 BIS A (SIC) LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2012.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
