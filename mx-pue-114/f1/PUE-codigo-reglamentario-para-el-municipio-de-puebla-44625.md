@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2011-10-05"
+last_updated: "2012-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,209 +23,73 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023, PUBLICADO EN EL D.O.F. DE 10 DE AGOSTO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2012.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2023 (ABROGADO).
+Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
-Estatuto publicado en la Primera Sección al Número 4 del Diario Oficial de la Federación, el jueves 5 de diciembre de 2019.
+ACUERDO del Honorable Cabido del Municipio de Puebla, de fecha 25 de agosto de 2004, que aprueba el Dictamen presentado por las Comisiones Unidas de Desarrollo Urbano, Obras y Servicios Públicos, de Industria y Comercio, y de Patrimonio y Hacienda Pública Municipal, referente al Código Reglamentario para el Municipio de Puebla.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- SALUD.- Secretaría de Salud.- Sistema Nacional para el Desarrollo Integral de la Familia.
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Honorable Ayuntamiento del Municipio de Puebla.- Periodo 2002-2005.- Secretaría General.
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+LUIS EDUARDO PAREDES MOCTEZUMA, Presidente Municipal Constitucional del H. Ayuntamiento del Municipio de Puebla, a sus habitantes saber:
 
-MARÍA DEL ROCÍO GARCÍA PÉREZ, Titular del Sistema Nacional para el Desarrollo Integral de la Familia, con fundamento en lo establecido por los artículos 10, fracciones XXXI y XXXIII, del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el once de mayo de dos mil dieciséis y considerando:
-
-[...]
-
-Por lo que he tenido a bien expedir el siguiente:
-
-ACUERDO
-
-ÚNICO.- Se expide el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, para quedar como sigue:
-
-ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
 # LIBRO PRIMERO. EL MUNICIPIO DE PUEBLA
 
 ## TÍTULO I. DEL GOBIERNO DEL MUNICIPIO DE PUEBLA
 
-### CAPÍTULO I DE LAS DISPOSICIONES GENERALES DE LA COMPETENCIA Y. LA ORGANIZACIÓN DEL ORGANISMO
+### CAPÍTULO 1
 
 ###### Artículo 1.
 
-El Sistema Nacional para el Desarrollo Integral de la Familia es el organismo público descentralizado a que se refieren los artículos 172 de la Ley General de Salud y 27 de la Ley de Asistencia Social, cuenta con patrimonio y personalidad jurídica propios y es el coordinador del Sistema Nacional de Asistencia Social Pública y Privada.
-
-Cuando en el presente ordenamiento se haga mención del Organismo o la Entidad, se entenderá hecha al Sistema Nacional para el Desarrollo Integral de la Familia.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-El Organismo deberá cumplir con los objetivos que le establecen las convenciones y tratados internacionales de los que el Estado mexicano sea parte, aplicables al Organismo, la Ley General de Salud, la Ley de Asistencia Social, la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Víctimas y las demás disposiciones normativas aplicables.
-
-La administración de la Entidad estará a cargo de la Junta de Gobierno y de la persona Titular del Organismo, quienes fungirán como órganos superiores, y la vigilancia estará a cargo de la Comisaria o Comisario Público, conforme a lo dispuesto en el presente Estatuto, en términos de lo establecido en los artículos 17 y 60, de la Ley Federal de las Entidades Paraestatales, y 31, de la Ley de Asistencia Social.
+Las disposiciones del presente Código Reglamentario del Municipio de Puebla, son de orden público e interés social y reglamentarias de los artículos 115, fracción II de la Constitución Política de los Estados Unidos Mexicanos, 105 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla; 78 fracción IV, 79, 80 y 84 de la Ley Orgánica Municipal del Estado de Puebla, los cuales otorgan al Honorable Ayuntamiento del Municipio de Puebla, la facultad de expedir de acuerdo con las Leyes en materia municipal que emita el Congreso del Estado, las disposiciones administrativas de observancia general dentro de su respectiva jurisdicción, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
 ###### Artículo 2.
 
-El Organismo, para el cumplimiento de sus objetivos y sin perjuicio de las establecidas en los ordenamientos jurídicos aplicables, contará con las siguientes atribuciones:
+En concordancia con el orden constitucional y legal vigente, el presente Código se constituye como el instrumento reglamentario fundamental del Municipio de Puebla, en el cual rige. Para tal efecto, se indica que para los Capítulos en los que no se señalen procedimientos específicos para la verificación del cumplimiento de las disposiciones contenidas en el presente Código Reglamentario, se entenderán señaladas las siguientes etapas procesales:
 
-I. Coordinar el Sistema Nacional de Asistencia Social Pública y Privada;
+I. Se enterará al afectado sobre la materia en la que versará la solicitud de cumplimiento de las disposiciones específicas de los Capítulos del presente Código Reglamentario, mediante un acto de notificación, con el fin de que conozca la existencia de la deficiencia o incumplimiento;
 
-II. Establecer prioridades en materia de asistencia social;
+II. Se otorgará un término de tres días hábiles para que exhiba y acredite la preexistencia de los derechos que en su caso le asistan; y
 
-III. Promover y prestar los servicios de asistencia social a los que se refieren la Ley General de Salud, la Ley de Asistencia Social y demás ordenamientos legales aplicables;
-
-IV. Promover la protección integral de los derechos de las niñas, niños y adolescentes en los términos de la Ley General de los Derechos de Niñas, Niños y Adolescentes, los tratados y convenciones internacionales de los que Estado mexicano sea parte y demás ordenamientos legales aplicables, tomando como imperativo de su actuar el interés superior de la niñez;
-
-V. Promover el desarrollo integral del individuo, de la familia y de la comunidad;
-
-VI. Realizar acciones de apoyo educativo para la integración social y acciones de capacitación para el trabajo a los sujetos de la asistencia social;
-
-VII. Promover la capacitación, formación, desarrollo y certificación de las personas que brindan servicios de asistencia social;
-
-VIII. Establecer escuelas para la formación de personas profesionistas y técnicos en asistencia social, a nivel superior y medio superior, conforme a los programas autorizados por la autoridad correspondiente, así como promover su capacitación y profesionalización continua;
-
-IX. Coordinar y promover estudios e investigaciones científicas y tecnológicas, para mejorar la prestación de los servicios en materia de asistencia social, con la participación, en su caso, de las autoridades asistenciales de los tres órdenes de gobierno;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-X. Promover e impulsar el sano crecimiento de las niñas, niños y adolescentes, conforme al artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás ordenamientos legales aplicables;
-
-XI. Promover, conforme al artículo 45 de la Ley de Asistencia Social, la celebración de convenios entre los tres órdenes de gobierno, con el objeto de ampliar la cobertura y la calidad de los servicios de asistencia social en las entidades federativas, los municipios y las alcaldías, a fin de:
-
-a) Establecer programas conjuntos;
-
-b) Promover la conjunción de los órdenes de gobierno en la aportación de recursos financieros;
-
-c) Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
-
-d) Procurar la integración y fortalecimiento de los regímenes de asistencia privada; y
-
-e) Consolidar los apoyos a los patrimonios de la beneficencia pública de las entidades federativas;
-
-XII. Proponer a la Secretaría de Salud, en su carácter de administradora del patrimonio de la beneficencia pública, programas de asistencia social que contribuyan al uso eficiente de los bienes que la componen;
-
-XIII. Fomentar y apoyar a las organizaciones de la sociedad civil cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias y entidades;
-
-XIV. Operar establecimientos de asistencia social en beneficio de niñas, niños y adolescentes, adultos mayores y personas con algún tipo de discapacidad o en situación de vulnerabilidad;
-
-XV. Llevar a cabo acciones en materia de prevención de discapacidad y de rehabilitación e inclusión de personas con discapacidad, en centros no hospitalarios, con sujeción a la Ley General de Salud;
-
-XVI. Apoyar el ejercicio de la tutela de personas con alguna discapacidad o ejercer la tutela de las niñas, niños y adolescentes, en los términos de las leyes en la materia;
-
-XVII. Poner a disposición del Ministerio Público los elementos a su alcance en la protección de los derechos familiares, de personas con alguna discapacidad o de niñas, niños y adolescentes, en los procedimientos civiles, familiares o de otras índoles que les afecten, de acuerdo con las disposiciones legales correspondientes;
-
-XVIII. Participar en programas de rehabilitación y educación especial;
-
-XIX. Promover el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional;
-
-XX. Recomendar y promover el establecimiento de organismos de asistencia social en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México y prestar a éstos apoyo y colaboración técnica y administrativa;
-
-XXI. Emitir opinión sobre el otorgamiento de donativos y apoyos a instituciones privadas que actúen en el campo de la asistencia social;
-
-XXII. Participar o elaborar, según corresponda, en la formulación de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad, así como coordinar su implementación, desarrollo y seguimiento;
-
-XXIII. Elaborar un Programa Nacional de Asistencia Social, conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Nacional de Desarrollo y demás instrumentos de planeación de la Administración Pública Federal;
-
-XXIV. Promover la creación y el desarrollo de instituciones públicas y privadas de asistencia social;
-
-XXV. Prestar servicios de asistencia jurídica o de orientación social a personas en situación de vulnerabilidad;
-
-XXVI. Coordinar el Sistema Nacional de Información en materia de asistencia social en colaboración con el Instituto Nacional de Estadística y Geografía;
-
-XXVII. Establecer las políticas de integración, difusión y uso del Directorio Nacional de Instituciones de Asistencia Social;
-
-XXVIII. Presentar proyectos de Normas Oficiales Mexicanas en materia de asistencia social y de derechos de niñas, niños y adolescentes, en términos de la legislación aplicable;
-
-XXIX. Promover la aplicación de las Normas Oficiales Mexicanas que rijan la prestación de los servicios de asistencia social, así como aquellas en materia de derechos de niñas, niños y adolescentes;
-
-XXX. Supervisar y evaluar conforme a la normatividad aplicable, la actividad y los servicios de asistencia social que presten instituciones públicas y privadas;
-
-XXXI. Impulsar la profesionalización de las instituciones públicas y privadas, así como de las personas que prestan servicios de asistencia social;
-
-XXXII. Ejercer la Secretaría Ejecutiva del Consejo Nacional del Sistema Nacional de Asistencia Social Pública y Privada;
-
-XXXIII. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de niñas, niños y adolescentes;
-
-XXXIV. Participar, a través de su Titular, en el Gabinete Social de la Presidencia de la República en términos de los artículos 22, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos y 44 Bis, 44 Ter y 44 Quáter, de la Ley Orgánica de la Administración Pública Federal;
-
-XXXV. Participar en el Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en los términos señalados en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y su Reglamento;
-
-XXXVI. Operar, mantener y actualizar el Registro Nacional al que se refiere la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y su Reglamento;
-
-XXXVII. Proteger los derechos de niñas, niños y adolescentes, incluyendo los de cobro de alimentos, cuando los mismos se encuentren vulnerados, en términos de los tratados y convenciones internacionales, la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
-
-XXXVIII. Impulsar la colaboración y coordinación de las autoridades federales, de las entidades federativas, municipales y de las Alcaldías de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección y restitución de derechos de niñas, niños y adolescentes;
-
-XXXIX. Celebrar convenios de colaboración y coordinación con Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios y demás instituciones del sector público e internacionales, así como convenios de concertación con los sectores privado y social;
-
-XL. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como realizar y apoyar estudios e investigaciones en la materia;
-
-XLI. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas por la Ley General de los Derechos de Niñas, Niños y Adolescentes, a las entidades federativas y municipios; y
-
-XLII. Las demás que establezcan las disposiciones normativas aplicables, así como aquellas necesarias para el cumplimiento de sus objetivos.
+III. En caso de no hacer uso de la facultad señalada en la fracción anterior, la autoridad determinará la sanción o medida preventiva que en su caso corresponda, de conformidad con los términos y condiciones señalados en los Capítulos correspondientes del presente Código Reglamentario.
 
 ###### Artículo 3.
 
-Para el despacho de los asuntos de su competencia, el Sistema Nacional para el Desarrollo Integral de la Familia, contará con la siguiente estructura orgánica:
-
-I. Junta de Gobierno;
-
-II. Titular del Organismo;
-
-i Dirección General de Asuntos Jurídicos;
-
-ii Dirección General de Enlace Interinstitucional;
-
-iii Dirección General de Profesionalización de la Asistencia Social;
-
-a Unidad de Atención a Población Vulnerable;
-
-i Dirección General de Alimentación y Desarrollo Comunitario;
-
-ii Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad;
-
-b Unidad de Asistencia e Inclusión Social;
-
-i Dirección General de Integración Social;
-
-ii Dirección General de Rehabilitación e Inclusión;
-
-c Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
-
-i Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes;
-
-ii Dirección General de Regulación de Centros de Asistencia Social;
-
-iii Dirección General de Normatividad, Promoción y Difusión de los Derechos de Niñas, Niñas (sic) y Adolescentes;
-
-iv Dirección General de Coordinación y Políticas;
-
-d Unidad de Administración y Finanzas;
-
-i Dirección General de Programación, Organización y Presupuesto;
-
-ii Dirección General de Recursos Materiales y Servicios Generales;
-
-iii Dirección General de Recursos Humanos.
-
-El Organismo contará con un Órgano Interno de Control cuyo funcionamiento se regirá conforme al presente Estatuto y las demás disposiciones aplicables.
-
-Asimismo, el Organismo contará con las áreas que se establezcan por acuerdo de la Junta de Gobierno, a propuesta de la persona Titular del Organismo.
+El presente Código tiene por objeto desarrollar las bases para la organización y el funcionamiento del gobierno municipal, proveer la exacta observancia de las leyes administrativas del Estado en los ámbitos de su competencia, así como regular las actividades privadas y los servicios públicos que al Ayuntamiento le corresponda reglamentar o proporcionar.
 
 ###### Artículo 4.
 
-Las áreas del Sistema Nacional para el Desarrollo Integral de la Familia conducirán sus actividades de conformidad con las prioridades, políticas y estrategias del Plan Nacional de Desarrollo, del Programa Sectorial de Salud, del Programa Nacional de Asistencia Social, del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, del Programa Nacional de los Derechos de las Niñas, Niños y Adolescentes y del Programa Nacional para el Desarrollo y la Inclusión de las personas con Discapacidad.
-
-El Organismo observará una vinculación sistemática entre sus servicios de representación, asistencia jurídica, de orientación social y de protección de los derechos de niñas, niños y adolescentes y de los demás sujetos de asistencia social, conforme a la normatividad aplicable.
-
-En la prestación de servicios a que se refiere el párrafo anterior y, en general, en los demás que le correspondan y en la realización de acciones a su cargo, el Organismo actuará en colaboración y coordinación con dependencias y entidades paraestatales federales, locales o municipales y con las alcaldías, según la competencia que a éstas otorguen las leyes, así mismo lo hará con las instituciones internacionales con apego a las vías de cooperación internacional, conforme a las modalidades y términos que al efecto establezca la normatividad aplicable.
+Para efectos de la disposición anterior, en este ordenamiento se codifican todos los preceptos reglamentarios de carácter municipal en los ámbitos que señala el artículo siguiente, bajo los principios de simplificación, unificación, desregulación y mejora regulatoria, con el propósito de que todas las disposiciones presentes y futuras relativas a la estructura, organización y adecuado funcionamiento del Municipio de Puebla, así como a los derechos y obligaciones de índole municipal en las materias de su competencia, contenidas en un solo Código y de esta manera, tanto a los servidores públicos del Ayuntamiento como a los habitantes, les resulten claros los objetivos y funciones del gobierno municipal, así como el acceso al marco normativo municipal, el conocimiento práctico de cada una de las materias a las que se refiere y a la aplicación de sus preceptos.
 
 ###### Artículo 5.
 
-La Junta de Gobierno estará integrada por la persona Titular de la Secretaría de Salud, quien la presidirá, por las personas representantes que designen las y los Titulares de las Secretarías de Gobernación, de Hacienda y Crédito Público, de Bienestar, de Educación Pública y del Trabajo y Previsión Social, y de las Direcciones Generales del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Lotería Nacional para la Asistencia Pública, de Pronósticos para la Asistencia Pública y del Instituto Nacional de los Pueblos Indígenas.
+Son materia del presente Código, todas las disposiciones reglamentarias de carácter municipal, que rijan las funciones y actividades de gobernantes y gobernados en el Municipio de Puebla, en los ámbitos siguientes, sin perjuicio de los que puedan derivarse de la aplicación del mismo:
 
-Los miembros de la Junta de Gobierno podrán ser suplidos por las personas representantes que al efecto designe cada uno de los miembros propietarios de la misma.
+I. Gobierno Municipal;
+
+II. Consejos Municipales;
+
+III. Gobernabilidad;
+
+IV. Actividad Ciudadana;
+
+V. Espectáculos;
+
+VI. Actividad Comercial;
+
+VII. Desarrollo Urbano;
+
+VIII. Servicios Públicos;
+
+IX. Medio Ambiente; y
+
+X. Trabajo Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 5 Bis.
 
@@ -233,35 +97,19 @@ Para los efectos del presente Código serán considerados días inhábiles los d
 
 ###### Artículo 6.
 
-La Junta de Gobierno contará con una Secretaría Técnica, que recaerá en la persona nombrada y, en su caso, removida a propuesta de quien la presida, así como con una Prosecretaría Técnica, que recaerá en la persona designada o removida a propuesta de la persona Titular del Organismo.
+Es facultad del Presidente Municipal de Puebla, resolver cualquier duda respecto a la interpretación del presente Código Reglamentario, la aplicación del mismo y las sanciones que establece, así como delegar estas facultades en el funcionario que éste designe.
+
+> <small>(REFORMADO P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
 ###### Artículo 7.
 
-La Junta de Gobierno contará con las siguientes facultades:
+Para la actualización, modificación, reforma y/o adición, del presente ordenamiento jurídico, se requerirá seguir el procedimiento señalado en los artículos 84, 85, 86, 87, 88 y 89 de la Ley Orgánica Municipal del Estado de Puebla.
 
-I. Aprobar los programas, presupuestos e informes de actividades periódicos del Organismo, con la intervención que, en su caso, corresponda a la Comisaria o Comisario Público;
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
-II. Aprobar anualmente, previo informe de la Comisaria o Comisario Público y dictamen de las o los auditores externos, los estados financieros de la Entidad;
+DE LA DENUNCIA POPULAR
 
-III. Aprobar la estructura básica del Organismo y el Estatuto Orgánico, así como las modificaciones o reformas que procedan;
-
-IV. Ratificar, a propuesta de la persona Titular del Organismo, la designación y remoción de las personas servidoras públicas de la Entidad que ocupen cargos en las dos jerarquías administrativas inferiores a la de aquella, salvo en los casos en que la Ley Orgánica de la Administración Pública Federal u otros ordenamientos legales dispongan otra cosa;
-
-V. Aprobar la aceptación de herencias, legados, donaciones, liberalidades, colectas y demás actos jurídicos que representen aportaciones que le correspondan al Organismo;
-
-VI. Aprobar el otorgamiento de donativos y pagos extraordinarios, con sujeción a la Ley Federal de las Entidades Paraestatales;
-
-VII. Aprobar la integración de comités de apoyo, comités técnicos especializados y grupos de trabajo temporales, con sujeción a la Ley Federal de las Entidades Paraestatales y a la Ley de Asistencia Social;
-
-VIII. Aprobar los programas en materia de asistencia social y demás programas que deba realizar el Organismo, así como sus modificaciones, con base en las políticas, estrategias y directrices establecidas en el Plan Nacional de Desarrollo y en los programas realizados de conformidad con la Ley de Planeación;
-
-IX. Aprobar la normatividad necesaria para el cumplimiento de los objetivos de la Entidad a propuesta de la persona Titular del Organismo, con las excepciones que expresamente señalen las leyes;
-
-X. Estudiar y aprobar los proyectos de inversión, conforme a la normatividad aplicable;
-
-XI. Interpretar el presente Estatuto y resolver los casos no previstos, conforme a la normativa referida en el cuerpo del mismo; y
-
-XII. Las demás que establezcan el presente Estatuto y las demás disposiciones normativas aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2006)</small>
 
 ###### Artículo 7 Bis.
 
@@ -329,867 +177,243 @@ En los casos en que el Municipio suscriba acuerdos, convenios o contratos en mat
 
 Asimismo, podrán acordarse los mecanismos para el saneamiento financiero de los municipios o la ejecución de obras y servicios públicos, proyectos productivos o cualquier otro fin de interés social en forma coordinada o el establecimiento de estrategias en materia de planeación, programación, contratación, ejercicio, control, pago y reestructuración de deuda pública.
 
-### CAPÍTULO II DE LOS ÓRGANOS SUPERIORES DEL ORGANISMO
+### CAPÍTULO 2. DE LA EXTENSIÓN TERRITORIAL MUNICIPAL
 
 ###### Artículo 8.
 
-La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran.
+La extensión territorial municipal, es la porción geográfica del Estado a la que se circunscribe la esfera competencial del Municipio. Es el ámbito espacial donde el Municipio ejerce su jurisdicción y autoridad, realizando a través del Ayuntamiento, de manera plena y privativa, sus funciones jurídicas, políticas y administrativas.
+
+Esta extensión es la que de hecho y de derecho le corresponde, comprendiendo la superficie y límites conocidos actualmente, con las colindancias determinadas por el Congreso, y que se forma por las áreas de la cabecera y de los pueblos o juntas auxiliares integrantes del Municipio, incluyendo los centros de población y agrupamientos vecinales en que éstos se dividan para efectos políticos y administrativos.
 
 ###### Artículo 9.
 
-Al frente del Sistema Nacional para el Desarrollo Integral de la Familia habrá una persona Titular del Organismo, quien será designada y removida libremente por la Presidenta o el Presidente de la República.
+La Ciudad de Puebla es la cabecera del Municipio y en ella residirá el Ayuntamiento, el cual podrá trasladarse transitoriamente a otro lugar dentro del mismo Municipio, por causas de fuerza mayor; pero para elevar otra población al rango de cabecera del Municipio y cambiar permanentemente la residencia del Ayuntamiento, se requerirá autorización del Congreso del Estado, previa solicitud de las dos terceras partes de los integrantes del Cabildo y la mayoría de las Juntas Auxiliares.
 
-La persona Titular del Organismo tendrá la ciudadanía mexicana, será mayor de treinta años, y deberá contar con experiencia en materia administrativa y de asistencia social.
-
-A la persona Titular del Organismo corresponderá originalmente la representación, trámite y resolución de los asuntos del Organismo y podrá, para la mejor distribución y desarrollo del trabajo, conferir unilateralmente sus facultades delegables a las personas servidoras públicas subalternas, sin perjuicio de su ejercicio directo, emitiendo los acuerdos relativos, mismos que se publicarán en el Diario Oficial de la Federación.
-
-Cuando en el presente ordenamiento se haga mención a la persona Titular del Organismo, se entenderá hecha a la persona Titular de la Dirección General a que se refieren los artículos 31, inciso b), y 36, de la Ley de Asistencia Social, así como el artículo 59 de la Ley Federal de las Entidades Paraestatales.
-
-### CAPÍTULO III DE LA COMISARIA O COMISARIO PÚBLICO
+### CAPÍTULO 3. DE LA POBLACIÓN
 
 ###### Artículo 10.
 
-Corresponden a la persona Titular del Organismo las siguientes facultades:
+Para efectos del ámbito personal de validez del presente Código, la población del Municipio es el conglomerado de sujetos de derecho, destinatarios del poder público municipal, comprendiendo entre éstos a todas las personas físicas que tengan el carácter de habitantes, vecinos y/o ciudadanos del Municipio, así como todas las personas jurídicas colectivas que tengan su domicilio o se consideren domiciliadas en el mismo.
 
-I. Administrar y representar legalmente al Organismo con las más amplias facultades de dominio, administración, pleitos y cobranzas y aún de aquellas que requieran cláusula especial conforme a las leyes;
-
-II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
-
-III. Presentar a la Junta de Gobierno las propuestas, proyectos e informes que requiera;
-
-IV. Presentar periódicamente a la Junta de Gobierno el informe del desempeño de las actividades de la Entidad, el ejercicio del presupuesto de ingresos y egresos, los estados financieros correspondientes, las metas propuestas y los resultados alcanzados;
-
-V. Formular programas, políticas institucionales y presupuestos del Organismo y presentarlos, para su aprobación, a la Junta de Gobierno;
-
-VI. Proponer a la Junta de Gobierno la designación y remoción de las personas servidoras públicas de la Entidad que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquella, salvo en los casos en que la Ley Orgánica de la Administración Pública Federal u otros ordenamientos legales dispongan otra cosa, en cuyo caso, únicamente hará su presentación;
-
-VII. Designar y remover libremente a las personas servidoras públicas del Organismo que realicen funciones de confianza o tengan nombramientos de confianza. En cuanto a la facultad de remoción, bastará que se emita la comunicación correspondiente;
-
-VIII. Autorizar los nombramientos del personal y manejar las relaciones laborales de acuerdo con las disposiciones normativas aplicables;
-
-IX. Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a la legislación aplicable;
-
-X. Coordinar con los tres órdenes de gobierno, las acciones orientadas a promover e impulsar la prestación de servicios de asistencia social;
-
-XI. Celebrar los convenios, acuerdos, contratos y demás actos jurídicos y administrativos que sean indispensables para el cumplimiento de los objetivos del Organismo;
-
-XII. Presentar ante la Junta de Gobierno el Programa Anual de Trabajo del Organismo, para su aprobación;
-
-XIII. Presentar al Consejo Ciudadano Consultivo el Programa Anual de Trabajo del Organismo;
-
-XIV. Promover y desistirse de los juicios de amparo, en donde el Organismo sea parte, así como delegar en uno o más apoderados dichas facultades;
-
-XV. Presentar a la Junta de Gobierno las modificaciones o reformas al Estatuto Orgánico y la estructura básica del Organismo, para su aprobación;
-
-XVI. Formular, conforme a las disposiciones normativas vigentes, las políticas y disposiciones normativas necesarias para la operación del Organismo y presentarlas, para su aprobación, a la Junta de Gobierno;
-
-XVII. Emitir o expedir los lineamientos y las disposiciones normativas aprobadas por la Junta de Gobierno, así como los acuerdos, circulares y demás instrumentos jurídicos que permitan cumplir con los objetivos del Organismo y tengan por objeto establecer obligaciones específicas, los cuales deberán ser publicados en el Diario Oficial de la Federación;
-
-XVIII. Emitir opinión, como órgano de consulta para otras dependencias y entidades de la administración pública federal, respecto de la expedición de permisos, licencias o autorizaciones que soliciten personas físicas o morales, cuya actividad u objeto sea la asistencia social;
-
-XIX. Proponer a la Junta de Gobierno la creación de comités y grupos de trabajo que coadyuven en la articulación de las disposiciones jurídicas aplicables, con sujeción a la Ley Federal de las Entidades Paraestatales y a la Ley de Asistencia Social;
-
-XX. Impulsar la prestación de servicios de asistencia y orientación social a la población vulnerable;
-
-XXI. Fungir como representante del Organismo, en su carácter de autoridad central en materia de adopciones internacionales, ante las instancias nacionales e internacionales;
-
-XXII. Promover el cobro internacional de alimentos, conforme al procedimiento establecido en la normatividad nacional e internacional aplicable;
-
-XXIII. Fungir como Titular de la Secretaría Ejecutiva del Consejo Nacional del Sistema Nacional de Asistencia Social Pública y Privada;
-
-XXIV. Fungir como integrante del Gabinete Social de la Presidencia de la República en términos de los artículos 22, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, 44 Bis, 44 Ter y 44 Quáter de la Ley Orgánica de la Administración Pública Federal;
-
-XXV. Promover la elaboración de proyectos de Normas Oficiales Mexicanas en el ámbito de competencia del Organismo;
-
-XXVI. Promover la profesionalización de las instituciones públicas y privadas, y de las personas que prestan servicios de asistencia social, así como la formación de personas profesionistas y técnicos en asistencia social, a nivel superior y medio superior;
-
-XXVII. Coordinar el Sistema Nacional de Información en materia de Asistencia Social;
-
-XXVIII. Establecer el funcionamiento del Centro de Información y Documentación sobre asistencia social;
-
-XXIX. Establecer las políticas de integración, difusión y uso del Directorio Nacional de Instituciones de Asistencia Social;
-
-XXX. Promover el desarrollo, implementación y evaluación de modelos de intervención que permitan la estandarización y mejora de los servicios que presta el Organismo;
-
-XXXI. Impulsar la integración y actualización de los sistemas, registros y bases de datos en términos de la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento;
-
-XXXII. Coordinar las acciones de registro, capacitación, evaluación y certificación de las personas y familias que resulten idóneas para efectos de adopción;
-
-XXXIII. Emitir o, en su caso, participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad;
-
-XXXIV. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas del Organismo; y
-
-XXXV. Las demás que establezcan el presente Estatuto y las demás disposiciones normativas aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
+El presente Código Reglamentario, los acuerdos, circulares o cualesquiera otras disposiciones administrativas de observancia general, dictadas conforme al primer ordenamiento por autoridades competentes, benefician e imponen deberes a todas las personas que formen parte de la población del Municipio y que se hallen o actúen a través de sus representantes en cualquier parte de la extensión territorial del Municipio, sean vecinos o no, tengan su domicilio o residencia en él o sean transeúntes, sin perjuicio de las leyes estatales y federales.
 
 ###### Artículo 11.
 
-El Organismo contará con un Órgano de Vigilancia, que estará integrado por una Comisaria o Comisario Público propietario y una persona suplente que serán designados por la Secretaría de la Función Pública, en los términos del Artículo 37, fracción XI, de la Ley Orgánica de la Administración Pública Federal, quienes ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
-
-Para el mejor desarrollo del sistema de control, auditoría y evaluación gubernamental, la Comisaria o Comisario Público analizarán los riesgos y problemas de corrupción y, en su caso, la falta de transparencia en la aplicación de los recursos del Organismo. La Junta de Gobierno y la persona Titular del Organismo deberán proporcionarles la información que les sea solicitada.
-
-La Comisaria o Comisario Público asistirá, en representación de la Secretaría de la Función Pública, con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y podrá asistir a las sesiones de comités y grupos de trabajo especializados a los que sea convocado.
+Son habitantes del Municipio de Puebla, todas las personas que residan habitual o transitoriamente en su extensión territorial, las cuales tendrán las prerrogativas, derechos y obligaciones señaladas en la Constitución Política del Estado de Puebla y en la legislación Municipal.
 
 ###### Artículo 12.
 
-La Comisaria o Comisario Público, además de las previstas en el Reglamento Interior de la Secretaría de la Función Pública, la Ley Federal de las Entidades Paraestatales y su Reglamento, y demás disposiciones aplicables, tendrá las siguientes funciones:
+Se consideran vecinos del Municipio:
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+I. Todas las personas nacidas en el municipio y que radiquen en su territorio; y
 
-I. Vigilar que la administración de los recursos y el funcionamiento del Organismo se haga de acuerdo con lo que disponga la Ley de Asistencia Social, la Ley de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la Ley General de los Derechos de Niñas, Niños y Adolescentes, las demás disposiciones normativas aplicables y los programas y presupuestos aprobados;
+II. Los habitantes que al menos durante seis meses residan de manera permanente en cualquier lugar de su extensión territorial, con el legítimo propósito de establecer su domicilio en él.
 
-II. Rendir un informe sobre los estados financieros, con base en el dictamen de los auditores externos;
-
-III. Recomendar a la Junta de Gobierno y a la persona Titular del Organismo las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la Entidad;
-
-IV. Emitir opinión sobre el Informe de Autoevaluación del Desempeño semestral y anual, presentado ante la Junta de Gobierno por la persona Titular del Organismo; y
-
-V. Las demás que establezcan el presente Estatuto, las disposiciones normativas aplicables en la materia, así como aquellas necesarias para el cumplimiento de sus objetivos.
+Transcurrido el lapso señalado en la fracción II, se tendrá como lugar del domicilio del vecino el de su residencia, a menos que dentro de los quince días siguientes, declara tanto a la autoridad municipal del lugar en que anteriormente residía, como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio ni adquirir uno nuevo, esta declaración no producirá efectos en perjuicio de terceros.
 
 ###### Artículo 13.
 
-Al frente de cada Jefatura de Unidad, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas, habrá una persona Titular que será nombrada por la Junta de Gobierno a propuesta de la persona Titular del Organismo.
-
-En el desempeño de sus funciones dichas personas servidoras públicas serán auxiliadas por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que les esté adscrito conforme a la estructura orgánica vigente.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+La vecindad se presume a partir de cualquier comprobante público de residencia, pero sólo puede probarse de manera fehaciente mediante constancia expedida por el Secretario General, a solicitud del interesado y previa comprobación de que éste ha cumplido con los requisitos correspondientes. El Secretario General se coordinará con el Secretario de Gobernación Municipal para elaborar la resolución que deba recaer a la solicitud del particular, la cual deberá dictarse dentro de los tres días hábiles siguientes a la presentación de ésta.
 
 ###### Artículo 14.
 
-Corresponden a las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y de la Unidad de Administración y Finanzas las siguientes facultades comunes:
+La calidad de vecino se pierde por:
 
-I. Acordar con la persona Titular del Organismo el despacho de los asuntos relevantes de las unidades administrativas a su cargo;
+I. Dejar de residir dentro del territorio del Municipio, por el término de seis meses consecutivos, excepto cuando la no residencia, sea motivada por el desempeño de un cargo público, comisión oficial, empleo privado o actividades culturales, artísticas o deportivas;
 
-II. Desempeñar las funciones y comisiones que la persona Titular del Organismo les delegue y encomiende e informarle sobre el desarrollo de sus actividades, así como establecer estrategias y mecanismos de integración e interrelación institucional que promuevan el óptimo desarrollo y cumplimiento de sus responsabilidades;
+II. Renunciar expresamente a la misma, ante las autoridades municipales; y
 
-III. Formular las políticas, planes, programas y presupuestos que les correspondan y someterlos a consideración de la persona Titular del Organismo;
-
-IV. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad;
-
-V. Proponer a la Secretaría de Salud, en su carácter de Administradora del Patrimonio de la Beneficencia Pública, por conducto de la persona Titular del Organismo, programas de asistencia social que contribuyan al uso eficiente de los bienes que la componen;
-
-VI. Proponer a la Lotería Nacional para la Asistencia Pública y a Pronósticos para la Asistencia Pública, por conducto de la persona Titular del Organismo, programas de asistencia social que contribuyan al fortalecimiento de los servicios de asistencia social que presten los sectores público, social y privado;
-
-VII. Supervisar y evaluar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establecen la Ley General de Salud, la Ley de Asistencia Social y la Ley General de los Derechos de Niñas, Niños y Adolescentes;
-
-VIII. Colaborar en la elaboración de propuestas de proyectos de Normas Oficiales Mexicanas en el ámbito de su competencia;
-
-IX. Coadyuvar en la realización, promoción, difusión y publicación de estudios e investigaciones en el ámbito de su competencia con la participación, en su caso, de los sectores público, privado y social, particularmente con instituciones académicas;
-
-X. Someter a consideración de la persona Titular del Organismo, las políticas y disposiciones normativas necesarias para la operación del Organismo;
-
-XI. Planear, organizar, dirigir y controlar el funcionamiento de las unidades administrativas a su cargo;
-
-XII. Acordar con las personas titulares y demás personal de las unidades administrativas a su cargo, los asuntos de su competencia;
-
-XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y facultades, así como aquellos que les sean señalados por delegación o les correspondan por suplencia;
-
-XIV. Proporcionar información, datos o cooperación técnica que les sean requeridos por dependencias e instituciones públicas y privadas, así como otras unidades administrativas, en términos de la legislación aplicable;
-
-XV. Resolver los recursos administrativos que, conforme a las disposiciones legales y reglamentarias, les correspondan;
-
-XVI. Suplir y representar a la persona Titular del Organismo, de acuerdo con la normatividad aplicable;
-
-XVII. Presidir o participar en los Órganos Colegiados y comités internos que les correspondan, conforme a sus ámbitos de competencia;
-
-XVIII. Establecer los planes de capacitación y profesionalización técnica del personal adscrito a las áreas bajo su responsabilidad;
-
-XIX. Promover y vigilar que, en la atención y resolución de los asuntos de su competencia, se cumplan las políticas y lineamientos emitidos por la persona Titular del Organismo, los ordenamientos legales y las demás disposiciones normativas aplicables;
-
-XX. Coordinar y promover la prestación de servicios en materia de asistencia social establecidos en el artículo 12 de la Ley de Asistencia Social;
-
-XXI. Recabar la información en materia de asistencia social y las demás que establezcan otras disposiciones, en relación con la protección integral de los derechos de niñas, niños y adolescentes;
-
-XXII. Concertar con los sectores público, privado y social, la celebración de convenios y acuerdos para coordinar acciones de asistencia social y de protección integral de los derechos de niñas, niños y adolescentes;
-
-XXIII. Coordinar o participar, en estrategias comunes con las dependencias y entidades de la Administración Pública que permitan articular esfuerzos y recursos;
-
-XXIV. Celebrar convenios de colaboración y coordinación con instituciones públicas e internacionales, así como de concertación con los sectores social y privado, para realizar acciones tendientes a fortalecer la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
-
-XXV. Coordinar los procesos de administración documental de las áreas a su cargo;
-
-XXVI. Suscribir los documentos, convenios y contratos, relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
-
-XXVII. Administrar los recursos humanos, materiales, técnicos y financieros de la Jefatura de Unidad, Procuraduría o Unidad a su cargo, estableciendo medidas para su optimización y racionalización;
-
-XXVIII. Participar en los comités, subcomités y demás órganos colegiados en que se requiera, conforme a la normatividad aplicable;
-
-XXIX. Participar en foros y eventos nacionales e internacionales, relativos a la materia de su competencia;
-
-XXX. Delegar en el personal subalterno de la jerarquía inmediata inferior facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
-
-XXXI. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
-
-XXXII. Las demás que le confiera expresamente la persona Titular del Organismo, aquellas necesarias para el cumplimiento de sus objetivos, así como las que establezcan el presente Estatuto y las demás disposiciones normativas aplicables en la materia.
+III. Declaración de ausencia o presunción de muerte legalmente declarada, ambas en términos de lo establecido por el Código Civil para el Estado Libre y Soberano de Puebla.
 
 ###### Artículo 15.
 
-Corresponden a la Jefa o Jefe de la Unidad de Atención a Población Vulnerable las siguientes facultades:
+Son ciudadanos del Municipio los vecinos de nacionalidad mexicana, hombres y mujeres, que reúnan los siguientes requisitos:
 
-I. Planear, proponer y coordinar la operación y el desempeño de las funciones, programas, proyectos y acciones en materia de asistencia social alimentaria y desarrollo integral individual, familiar y comunitario, así como de la prestación de servicios para la atención, cuidado y desarrollo integral infantil, incluyendo las políticas públicas para la primera infancia y población en situación de vulnerabilidad, en los términos establecidos en la legislación vigente;
+I. Ser poblanos;
 
-II. Proponer a la persona Titular del Organismo estrategias que permitan el desarrollo y promoción de la participación, comunicación y cooperación de las diferentes áreas del Sistema Nacional y dependencias relacionadas, a fin de identificar y promover alternativas de solución a los problemas que originan el estado de vulnerabilidad de las poblaciones;
+II. Haber cumplido dieciocho años de edad; y
 
-III. Dirigir estudios e investigaciones en materia alimentaria, de desarrollo integral individual, familiar y comunitario, y de la prestación de servicios para la atención, cuidado y desarrollo integral infantil, que favorezcan el establecimiento de diagnósticos de las problemáticas sociales, la implementación de políticas públicas y las intervenciones necesarias por parte del Organismo y de los sectores público, privado y social;
+III. Tener un modo honesto de vivir.
 
-IV. Planear, fomentar y, en su caso, coordinar la creación de políticas públicas y acciones integrales apegadas a los derechos humanos, particularmente a los derechos de niñas, niños y adolescentes, que favorezcan la prestación de servicios, dirigidos a la atención y al desarrollo integral de individuos, familias y grupos que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, se encuentren en situación de vulnerabilidad;
-
-V. Conducir la participación del Organismo con los tres órdenes de gobierno en materia de asistencia social, para garantizar la protección y plena integración al bienestar de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la Ley de Migración, la Ley General de Victimas, la Ley General de los Derechos de Niñas, Niños y Adolescentes (sic) demás disposiciones normativas aplicables;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-VI. Coadyuvar, prestar apoyo y colaboración técnica en la creación de establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-VII. Establecer y concertar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los programas, modelos y lineamientos, en el ámbito de su competencia, así como coordinar, monitorear, acompañar, supervisar y darles seguimiento. Respecto de aquellos relacionados con establecimientos de asistencia social para niñas, niños y adolescentes en situación de migración, esta facultad se ejercerá en coadyuvancia con la Unidad de Asistencia e Inclusión Social y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
-
-VIII. Participar, en coordinación, colaboración o concertación con los sectores público, social y privado, en programas asistenciales en materia alimentaria, de desarrollo integral individual, familiar y comunitario, de fomento y fortalecimiento de políticas públicas en favor de la primera infancia, así como de prestación de servicios para la atención, cuidado y desarrollo integral infantil, celebrando, en su caso, los convenios respectivos;
-
-IX. Impulsar la organización y participación social y comunitaria, para la ejecución de programas de asistencia social, correspondientes a su ámbito de competencia y de las direcciones generales que le están adscritas;
-
-X. Coordinar, en el ámbito de sus atribuciones, la prestación de servicios de asesoría, asistencia y de orientación social a personas jóvenes, adultos mayores, personas con alguna discapacidad, madres sujetas de asistencia social, en situación de calle, migrantes, indígenas migrantes, desplazadas o en situación de vulnerabilidad y todas aquellas que por distintas circunstancias no puedan ejercer plenamente sus derechos, así como referir a las instancias competentes de las entidades federativas, municipios y alcaldías las solicitudes de representación a dicha población sujeta de asistencia social;
-
-XI. Coadyuvar en los programas y acciones de ayuda a personas en condiciones de emergencia y situación de vulnerabilidad, afectadas por casos de desastre;
-
-XII. Presentar y dar seguimiento al Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, a los documentos que se deriven de él y a los indicadores correspondientes;
-
-XIII. Coordinar la operación, mantenimiento y actualización del Registro Nacional al que se refiere la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
-
-XIV. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de competencia;
-
-XV. Celebrar convenios de colaboración y coordinación con instituciones públicas e internacionales, así como de concertación con los sectores social y privado, para realizar acciones tendientes a fortalecer la asistencia alimentaria, el desarrollo integral individual, familiar y comunitario, el desarrollo e implementación de políticas públicas en favor de la primera infancia y personas en situación de vulnerabilidad, así como la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
-
-XVI. Impulsar acciones de capacitación y certificación de competencias, en coordinación con la Dirección General de Profesionalización de la Asistencia Social, dirigidas al personal de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
-
-XVII. Supervisar las acciones que se instrumenten para el fomento de la participación de las madres y padres de familia y tutores en la atención, cuidado y desarrollo integral de niñas y niños, así como en la prestación de servicios de los Centros de Atención Infantil;
-
-XVIII. Monitorear la ejecución del Programa Integral de Supervisión y Acompañamiento, Monitoreo y Evaluación de los Centros de Atención Infantil;
-
-XIX. Coadyuvar en la regularización de la situación jurídica de las personas adultas mayores ingresadas en las casas de retiro asistenciales y casas hogar;
-
-XX. Concertar acciones de colaboración y coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, en materia de asistencia jurídica y atención a víctimas;
-
-XXI. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
-
-XXII. Las demás que le confiera expresamente la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+No se perderá la vecindad cuando la persona se traslade a residir a otro lugar para desempañar una comisión o cargo de carácter oficial, no permanente, o con motivo de estudios científicos o artísticos.
 
 ###### Artículo 16.
 
-Corresponden a la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social las siguientes facultades:
-
-I. Planear, organizar, dirigir y controlar el desarrollo general de los programas y acciones de atención a personas con discapacidad o en riesgo de desarrollarla, así como los servicios asistenciales a población en desamparo que otorga el Organismo;
-
-II. Coadyuvar en el establecimiento de centros y servicios de rehabilitación no hospitalaria, en coordinación con los gobiernos de las entidades federativas y de los municipios;
-
-III. Concertar y coordinar los programas bajo su responsabilidad con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como con organizaciones de la sociedad civil;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-IV. Coadyuvar en la creación de establecimientos de asistencia social en las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México, así como prestar a éstos apoyo y colaboración técnica;
-
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-IV. BIS. Coordinar la administración de los Centros de Asistencia Social de niñas, niños y adolescentes en situación de migración no acompañados, con que cuente o habilite el Organismo a través de las actas de habilitación correspondientes que se emitan, conforme a la normatividad aplicable;
-
-V. Coordinar los programas integrales de rehabilitación y de servicios asistenciales, así como fomentar acciones de investigación, enseñanza, capacitación y formación de recursos humanos en salud y asistencia social y las actividades de capacitación y educación continua del personal de las unidades administrativas que le estén adscritas;
-
-VI. Expedir, en coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas, la carta de acreditación de actividades asistenciales a organizaciones de la sociedad civil que pretendan ser donatarias autorizadas, la cual sólo hará las veces de tal, respecto de la actividad asistencial, sin que ello prejuzgue sobre el cumplimiento de requisitos competencia de otras autoridades;
-
-VII. Promover actividades recreativas, culturales y deportivas en favor de personas sujetas de asistencia social;
-
-VIII. Presentar las propuestas de anteproyecto de Normas Oficiales Mexicanas en materia de servicios asistenciales, de inclusión e integración social y de salud, así como para el funcionamiento de establecimientos públicos y privados que proporcionen servicios de rehabilitación y atención integral a personas con discapacidad;
-
-IX. Coordinar los estudios e investigaciones en materia de servicios asistenciales, de inclusión e integración social, rehabilitación y atención integral a personas con discapacidad;
-
-X. Coordinar la formación, de personas profesionistas y técnicos en asistencia social a nivel superior y medio superior, en materia de rehabilitación, terapia física, terapia ocupacional y medicina geriátrica;
-
-XI. Participar en coordinación, colaboración o concertación con los sectores público, social y privado, en programas en materia de servicios asistenciales, de inclusión e integración social, de salud, rehabilitación y atención integral a personas con discapacidad;
-
-XII. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de competencia;
-
-XIII. Celebrar y suscribir convenios, contratos, acuerdos y otros instrumentos que fijen obligaciones convencionales para el Organismo, según el caso, sólo en los términos y asuntos de su competencia;
-
-XIV. Colaborar en el diseño y desarrollo de modelos de atención integral, orientados a la prestación de servicios asistenciales y atención a personas con discapacidad;
-
-XV. Proponer los instrumentos normativos, modelos, protocolos, metodologías y procedimientos, en las materias de su competencia;
-
-XVI. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
-
-XVII. Las demás que le confiera expresamente la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-#### SECCIÓN CUARTA. DE LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+Los derechos y prerrogativas de los ciudadanos del Municipio se suspenden, pierden y recuperan al mismo tiempo que los derechos y prerrogativas de los ciudadanos del Estado, conforme a los supuestos y términos previstos en la Constitución del Estado y las Leyes Locales.
 
 ###### Artículo 17.
 
-Corresponden a la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes las siguientes facultades:
-
-I. Coordinar las estrategias que se implementen en las asesorías y las acciones de representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos;
-
-II. Supervisar que se ejerza la representación coadyuvante, a petición de parte o de oficio, en los procedimientos judiciales y administrativos en que participen niñas, niños y adolescentes;
-
-III. Supervisar las acciones de conciliación y mediación en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones normativas aplicables;
-
-IV. Coordinar la administración del Registro Nacional de Deudores Alimentarios Morosos, conforme a la normatividad aplicable;
-
-V. Fungir como representante del Organismo, en su carácter de autoridad central en materia de cobro internacional de alimentos, conforme al procedimiento establecido en la normatividad nacional e internacional aplicable;
-
-VI. Supervisar que el personal adscrito a la Procuraduría Federal, en aquellos casos que resulte procedente, formule denuncia ante el Ministerio Público respecto de hechos que la ley señale como delitos, cometidos en agravio de niñas, niños y adolescentes;
-
-VII. Solicitar al Ministerio Público competente o, en su caso, ordenar la imposición de medidas urgentes de protección especial idóneas;
-
-VIII. Administrar los sistemas, registros y bases de datos, en términos de la Ley General de los Derechos de Niñas, Niños y Adolescentes y su Reglamento;
-
-IX. Emitir las autorizaciones y revocaciones de las personas que ejerzan las profesiones en trabajo social, psicología o carreras afines de las instituciones públicas o privadas que intervengan en procedimientos de adopción nacional e internacional;
-
-X. Supervisar que se inscriba en el registro correspondiente la revocación de las personas que ejerzan las profesiones en trabajo social, psicología o carreras afines de las instituciones públicas y privadas que intervengan en procedimientos de adopción nacional e internacional, con la finalidad de que se considere boletinada la revocación;
-
-XI. Supervisar las acciones de registro, capacitación, evaluación y certificación de las personas y familias que resulten idóneas en materia de adopción y familias de acogida;
-
-XII. Emitir los certificados de idoneidad, de conformidad con lo dispuesto por los artículos 66 y 71 del Reglamento de la Ley General de los Derechos de Niñas, Niños y Adolescentes;
-
-XIII. Fungir como representante del Organismo en su carácter de autoridad central en materia de adopción internacional y supervisar el procedimiento administrativo de adopción nacional;
-
-XIV. Aprobar los requisitos mínimos y criterios, así como impulsar la elaboración de instrumentos normativos, para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, públicos y privados, y asociaciones, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás normatividad aplicable;
-
-XV. Coordinar las acciones para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social;
-
-XVI. Aprobar la elaboración de normas técnicas o estándares de competencia, para certificar las competencias del personal que labora en los Centros de Asistencia Social, en coordinación con la Dirección General de Profesionalización de la Asistencia Social;
-
-XVII. Supervisar que, en aquellos casos en los que se determine, en el acogimiento temporal de niñas, niños y adolescentes se impulsen las modalidades de cuidados alternativos;
-
-XVIII. Promover Normas Oficiales Mexicanas en asistencia social referentes a los derechos de las niñas, niños y adolescentes y participar en los grupos técnicos para su elaboración;
-
-XIX. Coordinar las acciones de supervisión y seguimiento de las medidas de protección especial, en términos de las disposiciones jurídicas aplicables;
-
-XX. Supervisar la inclusión de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, en las medidas de rehabilitación y asistencia;
-
-XXI. Supervisar las acciones de coadyuvancia para la localización y la reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, privilegiando en todo momento el interés superior de la niñez;
-
-XXII. Coordinar las acciones de supervisión en los Centros de Asistencia Social, respecto de la integración de expedientes y atención integral proporcionada a niñas, niños y adolescentes que se encuentren en acogimiento residencial;
-
-XXIII. Coordinar las acciones de seguimiento de la situación en la que se encuentren niñas, niños y adolescentes, una vez que haya concluido el acogimiento temporal, de conformidad con los instrumentos normativos que para tal efecto se emitan;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XXIV. Autorizar las asesorías técnicas a los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, a las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y los municipios y, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
-
-XXV. Autorizar programas de capacitación en materia de protección y restitución de derechos de niñas, niños y adolescentes, así como aquellos que señalan la Ley General de los Derechos de Niñas, Niños y Adolescentes y su reglamento;
-
-XXVI. Desarrollar instrumentos normativos, modelos, protocolos, metodologías y procedimientos, para la promoción, protección y restitución de los derechos de niñas, niños y adolescentes, para su aprobación, emisión o expedición correspondiente;
-
-XXVII. Autorizar la realización de estudios e investigaciones en materia de promoción, protección y restitución de derechos de niñas, niños y adolescentes;
-
-XXVIII. Coordinar la promoción de la participación de los sectores público, social y privado en la planificación y ejecución de políticas y acciones en favor de la protección integral de niñas, niños y adolescentes;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XXIX. Dirigir la colaboración con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y de los municipios, y demás instituciones del sector público, en el diseño, ejecución y seguimiento de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
-
-XXX. Celebrar convenios de colaboración, acuerdos interinstitucionales de coordinación y concertación en materia de derechos de las niñas, niños y adolescentes con los tres órdenes de gobierno, así como con los sectores privado y social, particularmente con instituciones académicas;
-
-XXXI. Formular políticas alineadas al Programa Nacional de Protección Integral de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
-
-XXXII. Expedir copias certificadas de los documentos que obren en sus archivos;
-
-XXXIII. Solicitar el auxilio de las instituciones policiales competentes, para la imposición de las medidas urgentes de protección, así como de las autoridades de los tres órdenes de gobierno, para el desempeño de sus funciones;
-
-> <small>(REFORMADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
-
-XXXIV. Dirigir la coordinación de la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas;
-
-XXXV. Delegar alguna de las facultades a que se refiere el presente artículo a las personas servidoras públicas titulares de las unidades administrativas que le estén adscritas;
-
-XXXVI. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
-
-XXXVII. Las demás que le instruya la persona Titular del Organismo y le confieran las disposiciones normativas nacionales e internacionales aplicables.
-
-#### SECCIÓN QUINTA. DE LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+En el Municipio se reconoce la capacidad de las personas jurídicas colectivas creadas conforme a las leyes federales y del Distrito Federal, debiendo sujetarse el reconocimiento de las personas jurídicas colectivas extranjeras de naturaleza privada, a lo dispuesto en las leyes federales.
 
 ###### Artículo 18.
 
-Al frente de la Unidad de Administración y Finanzas habrá una Jefa o Jefe de la Unidad quien será nombrada por la Junta de Gobierno, a propuesta de la persona Titular del Organismo, conforme a lo previsto en los artículos 58, fracción XI, y 59, fracción VII, de la Ley Federal de las Entidades Paraestatales.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-En el desempeño de sus funciones, la Jefa o Jefe de la Unidad será auxiliada por las personas Titulares de las Direcciones Generales, Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que le esté adscrito conforme a la estructura orgánica vigente.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+Las personas colectivas de naturaleza privada que tengan su domicilio fuera del Municipio, pero que directamente o por medio de sucursales realicen actos y hechos jurídicos dentro de su extensión territorial, se consideran domiciliadas en el centro de población donde los hayan ejecutado, para todo lo que a esos actos o hechos se refiere en cuanto les sean imputables a ellas mismas o a sus sucursales.
 
 ###### Artículo 19.
 
-Corresponden a la Jefa o Jefe de la Unidad de Administración y Finanzas las siguientes facultades:
+El Poder Público del Municipio dimana del pueblo, se instituye en beneficio de la sociedad y su titularidad se deposita en el Ayuntamiento, como órgano colegiado de Gobierno, al que corresponde el ejercicio de las funciones reglamentaria, administrativa y de justicia que conforman dicho poder, y para lo cual se organiza en la forma que establecen la Ley Orgánica Municipal y este Código.
 
-I. Acordar con la persona Titular del Organismo el despacho de los asuntos relevantes de las unidades administrativas a su cargo;
-
-II. Someter a consideración de la persona Titular del Organismo la estructura programática y el anteproyecto de presupuesto del mismo;
-
-III. Planear, organizar y dirigir el funcionamiento de las unidades administrativas a su cargo;
-
-IV. Definir las políticas, normas, lineamientos y sistemas para la administración y optimización de los recursos humanos, materiales, financieros y tecnológicos del Organismo;
-
-V. Coordinar los actos relativos a la adquisición, la asignación, el arrendamiento, los servicios, la enajenación y la administración de bienes muebles e inmuebles del Organismo;
-
-VI. Conducir los planes, programas de modernización y desarrollo administrativo, así como la mejora y optimización de los procesos y servicios de las unidades administrativas del Organismo;
-
-VII. Coordinar la integración de los proyectos de mejora continua que presenten las unidades administrativas del Organismo;
-
-VIII. Fungir como representante del Organismo, en su carácter de Responsable Oficial de Mejora Regulatoria, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo, conforme a lo dispuesto en la Ley General de Mejora Regulatoria;
-
-IX. Someter a consideración de la persona Titular del Organismo los cambios a la organización interna, actualización del Estatuto Orgánico, Manuales de Organización y de Procedimientos;
-
-X. Impulsar las acciones necesarias para solventar las recomendaciones y observaciones determinadas por las diversas instancias fiscalizadoras a las unidades administrativas del Organismo;
-
-XI. Integrar la información que se presenta a la Junta de Gobierno;
-
-XII. Proporcionar a las unidades administrativas del Organismo los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático, comunicaciones, archivo, seguridad y vigilancia de tecnologías de la información y comunicaciones;
-
-XIII. Impulsar las acciones para la organización y conservación del Archivo General del Organismo, conforme a la normatividad vigente;
-
-XIV. Conducir la política de contratación, administración y desarrollo del personal del Organismo;
-
-XV. Conducir las relaciones laborales del Organismo, expedir los nombramientos del personal, cambios de adscripción, determinación de la rescisión de la relación de trabajo, así como licencias sindicales, las liquidaciones y pagos de cualquier remuneración del personal del Organismo;
-
-XVI. Autorizar los programas anuales de adquisiciones, obra pública y disposición final de bienes muebles y supervisar la contratación, adquisición, mantenimiento y arrendamiento de los bienes y servicios necesarios para el desarrollo de los programas del Organismo;
-
-XVII. Coordinar la elaboración del Programa de Trabajo Interno de Protección Civil;
-
-XVIII. Expedir certificaciones de documentos que obren en los archivos de las unidades administrativas a su cargo;
-
-XIX. Suscribir los documentos, convenios y contratos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
-
-XX. Resolver los recursos administrativos que, conforme a las disposiciones legales y reglamentarias, le correspondan;
-
-XXI. Presidir los comités de apoyo internos, comités técnicos especializados y grupos de trabajo del Organismo;
-
-XXII. Apoyar a la persona Titular del Organismo en la formulación y ejecución de programas sectoriales y especiales, derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad;
-
-XXIII. Observar los lineamientos y directrices que le establezca la Secretaría de Hacienda y Crédito Público conforme al artículo 20 de la Ley Orgánica de la Administración Pública Federal;
-
-XXIV. Delegar en el personal subalterno de la jerarquía inmediata inferior facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
-
-XXV. Ejercer directamente cualquier facultad de las que correspondan a las unidades administrativas que le estén adscritas; y
-
-XXVI. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-### CAPÍTULO IV DE LAS JEFATURAS DE UNIDAD, LA PROCURADURÍA FEDERAL. DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA
-
-UNIDAD DE ADMINISTRACIÓN Y FINANZAS
+### CAPÍTULO 4. DEL GOBIERNO MUNICIPAL
 
 ###### Artículo 20.
 
-El Órgano Interno de Control actuará y ejercerá sus facultades teniendo por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Organismo, manteniendo un adecuado nivel de coordinación con las distintas unidades administrativas que conforman su estructura orgánica y desarrollando sus funciones conforme a los lineamientos emitidos por la Secretaría de la Función Pública y la legislación aplicable.
+El Municipio de Puebla será gobernado por un Cuerpo Colegiado, al que se le denominará "Honorable Ayuntamiento del Municipio de Puebla", integrado por un Presidente Municipal, dieciséis Regidores de Mayoría, hasta siete Regidores que serán acreditados conforme al principio de Representación Proporcional y un Síndico.
 
 ###### Artículo 21.
 
-La persona Titular del Órgano Interno de Control será designada conforme a lo establecido en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal y el Reglamento Interior de la Secretaría de la Función Pública y, en el ejercicio de sus facultades, se auxiliará por las personas titulares de las Áreas de Responsabilidades, de Auditoría Interna, de Auditoría para el Desarrollo y Mejora de la Gestión Pública, y de Quejas designadas en los mismos términos.
+El Ayuntamiento, para la ejecución y cumplimiento de las atribuciones que le señalan las Leyes, se reunirá en el recinto oficial, denominado "Salón de Cabildos del Palacio Municipal del Municipio de Puebla" o cuando el caso lo requiera, en el recinto previamente declarado oficial, para efecto de sesionar en términos de lo dispuesto en la Ley Orgánica y de conformidad con las disposiciones jurídicas señaladas en el presente Código.
 
-### CAPÍTULO V DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO 5. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CABILDO
 
-### CAPÍTULO VI DE LAS DIRECCIONES GENERALES
+### CAPÍTULO 6. DE LAS JUNTAS AUXILIARES
 
 ###### Artículo 22.
 
-Las personas servidoras públicos (sic) a que se refiere el artículo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+El presente Capítulo tiene por objeto regular las Sesiones de Cabildo y la organización y el funcionamiento de las Comisiones del Ayuntamiento. Este ordenamiento será obligatorio para los integrantes del Ayuntamiento y el Secretario General.
 
 ###### Artículo 23.
 
-Al frente de cada Dirección General habrá una Directora o Director General, propuesto por la persona Titular del Organismo y ratificado por la Junta de Gobierno, salvo lo dispuesto en el párrafo siguiente.
-
-En el caso de la persona Titular de la Dirección General de Asuntos Jurídicos, conforme a lo previsto en artículo 43, fracción VII, de la Ley Orgánica de la Administración Pública Federal, el nombramiento y remoción se harán por la persona Titular de la Consejería Jurídica del Ejecutivo Federal, atendiendo a los Lineamientos que para tal efecto se expidan y se formalizará la presentación de la persona servidora pública ante la Junta de Gobierno.
-
-En el desempeño de sus funciones, las personas Titulares de las Direcciones Generales serán auxiliadas por las personas servidoras públicas adscritas a las Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que les esté adscrito, conforme a la estructura orgánica vigente.
+El Presidente, los Regidores y el Síndico Municipal, son inviolables por las opiniones que manifiesten en el ejercicio de su cargo y no podrán ser reconvenidos ni enjuiciados por ellas, con excepción de lo dispuesto en este Capítulo.
 
 ###### Artículo 24.
 
-Corresponden a las personas Titulares de las Direcciones Generales las siguientes facultades comunes:
-
-I. Acordar con las personas superiores jerárquicas el despacho y resolución de los asuntos relevantes de sus ámbitos de competencia;
-
-II. Desempeñar las funciones y comisiones que sus superioras o superiores jerárquicos les deleguen y encomienden, y mantenerlos informados sobre el desarrollo de sus actividades;
-
-III. Asesorar y apoyar a las personas superiores jerárquicas respecto de las funciones que les competan;
-
-IV. Formular los planes, programas y presupuestos que les correspondan y someterlos a la consideración de las o los superiores jerárquicos para su aprobación;
-
-V. Planear, organizar, dirigir y controlar el funcionamiento de las áreas a su cargo;
-
-VI. Formular y proporcionar opiniones, informes y dictámenes en aquellos asuntos que sean propios de su competencia;
-
-VII. Integrar y proponer a la Unidad de Administración y Finanzas las medidas de modernización y mejoramiento administrativo de las áreas a su cargo;
-
-VIII. Participar en la formulación y ejecución de programas sectoriales y especiales derivados del Plan Nacional de Desarrollo, en su ámbito de responsabilidad;
-
-IX. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
-
-X. Proporcionar asesoría, capacitación y apoyo técnico, en las materias de su competencia, a los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
-
-XI. Promover y vigilar que, en la atención y resolución de los asuntos de su competencia, se cumpla con los ordenamientos legales, políticas y lineamientos y demás disposiciones normativas aplicables;
-
-XII. Supervisar, ejecutar y controlar el ejercicio de sus presupuestos autorizados;
-
-XIII. Difundir las Normas Oficiales Mexicanas en materia de asistencia social y supervisar su cumplimiento, en el ámbito de sus respectivas competencias;
-
-XIV. Promover el desarrollo, implantación y evaluación de modelos de intervención, en la materia de su competencia;
-
-XV. Impulsar procesos de capacitación, formación y certificación de las personas que desarrollan acciones de asistencia social, en la materia de su competencia;
-
-XVI. Coadyuvar en la instrumentación y operación del Servicio Nacional de Información sobre la Asistencia Social, así como difundir los servicios con los que cuenta el país en la materia;
-
-XVII. Participar en los comités, subcomités y demás órganos colegiados en que se requiera, conforme a la normatividad aplicable;
-
-XVIII. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la materia de su competencia;
-
-XIX. Delegar en el personal subalterno de la jerarquía inmediata inferior facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
-
-XX. Ejercer directamente cualquier facultad de las que correspondan al personal que les esté adscrito; y
-
-XXI. Las demás que le confiera la persona superior jerárquica, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-#### SECCIÓN SEGUNDA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PERSONA TITULAR DEL ORGANISMO
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+Para efectos de este Capítulo se entiende por Sesión de Cabildo, la reunión que efectúan todos los miembros del Ayuntamiento como cuerpo colegiado con la finalidad de conocer, discutir y en su caso aprobar la instrumentación de medidas específicas que resuelvan las necesidades colectivas que enfrenta la sociedad que representan. Es el acto de Gobierno Municipal de mayor investidura.
 
 ###### Artículo 25.
 
-Corresponden a la persona Titular de la Dirección General de Asuntos Jurídicos las siguientes facultades:
+Las cuestiones no previstas en este ordenamiento serán resueltas por el propio Ayuntamiento por el voto de la mayoría simple de sus miembros y de conformidad con las disposiciones legales.
 
-I. Emitir opinión jurídica de las normas que, en materia de asistencia social, le proponga el Organismo a la Secretaría de Salud;
-
-II. Emitir opinión técnica y formular dictámenes que procedan, respecto de las solicitudes que presenten las unidades administrativas del Organismo y los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como las demás entidades y dependencia federales, actuando como órgano de consulta en la materia jurídica competencia del Organismo;
-
-III. Establecer el criterio del Organismo cuando las unidades administrativas del mismo emitan opiniones o actos contradictorios en aspectos legales;
-
-IV. Establecer, sistematizar, unificar y difundir entre las unidades administrativas del Organismo los criterios de interpretación y de aplicación de las disposiciones legales, reglamentarias y administrativas dentro del ámbito de competencia de la Entidad, así como coordinar la compilación de las mismas;
-
-V. Tramitar la publicación en el Diario Oficial de la Federación de las disposiciones de carácter general y particular, relativas a las materias competencia del Organismo que resulten procedentes, pudiendo, en su caso, emitir opinión jurídica al respecto y requerir a las unidades administrativas solicitantes de las publicaciones las modificaciones, aclaraciones o confirmaciones respectivas;
-
-VI. Formular y revisar los proyectos de leyes, reglamentos, decretos, acuerdos y demás normatividad, competencia del propio Organismo;
-
-VII. Solicitar a las personas titulares de cualquier unidad administrativa del Organismo, la información que se requiera para las propuestas de proyectos de leyes, reglamentos, decretos, acuerdos, iniciativas de decretos, reformas, adiciones, derogaciones y abrogaciones a las disposiciones normativas en las materias de su respectiva competencia, y coordinar la elaboración y presentación de las citadas propuestas ante las instancias correspondientes;
-
-VIII. Fungir como Titular de la Unidad de Enlace Legislativo del Organismo, siempre que sea designada por la persona Titular de la Secretaría de Gobernación, conforme al artículo 27, fracción III, de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos normativos aplicables;
-
-IX. Coordinar la emisión de opiniones respecto de las iniciativas y proyectos formulados por el Poder Legislativo, así como la atención de las demás gestiones legislativas que sean requeridas al Organismo;
-
-X. Representar el interés del Organismo, de su Titular, de la Junta de Gobierno y demás órganos colegiados y unidades administrativas de la Entidad, cuando dicha representación no corresponda a otra unidad administrativa, en toda clase de juicios, investigaciones o procedimientos ante los tribunales de la República, la Comisión Nacional de los Derechos Humanos y las demás de autoridades administrativas, judiciales, laborales, órganos constitucionales autónomos, instancias internacionales y otras de diversa naturaleza, en que sean parte;
-
-XI. Coordinar la defensa jurídica de la persona Titular de la Entidad, los órganos colegiados y las unidades administrativas del Organismo, actuando como Representante General y Apoderado Legal, ejercitando los derechos, acciones, excepciones y defensas que correspondan transigir dentro o fuera de juicio o allanarse, cuando así convenga a los intereses del Organismo, e interponer los recursos que procedan;
-
-XII. Representar el interés del Organismo, de su Titular, de la Junta de Gobierno y demás órganos colegiados y unidades administrativas dependientes de la Entidad, cuando dicha representación no corresponda a otra unidad administrativa, en todos aquellos asuntos en que, sin que sean parte, sea requerida su intervención por la autoridad que conoce de algún juicio o procedimiento, o tengan interés para intervenir conforme a sus atribuciones y, en su caso, poner en conocimiento del Órgano Interno de Control los hechos respectivos;
-
-XIII. Ser la consejera jurídica del Organismo, apoyando legalmente el ejercicio de las atribuciones del mismo y de su Titular, así como atender todos aquellos asuntos en que tengan interés legal, particularmente en su función de integrante del Gabinete Social de la Presidencia de la República, en términos de los artículos 22, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos y 44 Bis, 44 Ter y 44 Quáter, de la Ley Orgánica de la Administración Pública Federal;
-
-XIV. Atender las solicitudes que involucren el ejercicio del derecho de petición de todos aquellos asuntos en materia jurídica dirigidos a la persona Titular del Organismo en su representación;
-
-XV. Coordinar las atenciones que procedan en la materia Derechos Humanos con las personas Titulares de las Jefaturas de Unidad, Procuraduría Federal de Protección de Derechos de Niñas, Niños y Adolescentes, Unidad de Administración y Finanzas y las Direcciones Generales del Organismo, fungiendo como responsable y enlace ante las diversas instancias internas y externas en la materia;
-
-XVI. Formular, presentar y realizar los actos jurídicos que procedan en las demandas de amparo e interponer los medios de impugnación que correspondan en representación del Organismo, de su Titular, de la Junta de Gobierno y demás órganos colegiados y unidades administrativas de la Entidad, cuando dicha representación no corresponda a otra unidad administrativa y sean señalados como autoridades responsables;
-
-XVII. Actuar como Apoderado General para pleitos y cobranzas del Organismo, ante toda clase de autoridades e instancias del fuero común o federal, ejercitando las acciones competentes;
-
-XVIII. Formular denuncias y querellas, así como formular la petición de sobreseimiento del proceso penal u otorgar el perdón, cuando sea procedente, ante tribunales, la Fiscalía General de la República y homólogas de las entidades federativas, según el caso, sobre hechos que pudieran ser constitutivos de delito y que afecten al funcionamiento o patrimonio del Organismo;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XIX. Realizar los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo, en su caso, con el apoyo de la Dirección General de Recursos Materiales y Servicios Generales;
-
-XX. Actuar como Apoderado General para gestionar el registro de los derechos de propiedad intelectual, derechos de autor o patentes que correspondan al Organismo, ante las autoridades administrativas;
-
-XXI. Expedir copias certificadas y constancias de documentos que soliciten las diversas unidades administrativas del Organismo, existentes en sus respectivos archivos, así como las solicitadas por las diversas instancias administrativas, judiciales y legislativas que existan en los archivos de la Entidad;
-
-XXII. Fungir como Titular de la Unidad de Transparencia de conformidad con lo previsto en las Leyes Federal y General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley General de Archivos y demás disposiciones normativas aplicables, asumiendo la presidencia del Comité de Transparencia del Organismo;
-
-XXIII. Revisar, en su contenido y forma, los convenios, contratos, acuerdos y otros instrumentos que fijen derechos y obligaciones convencionales o patrimoniales para el Organismo, cuyos proyectos sean sometidos a su consideración por las personas titulares de las unidades administrativas que tengan atribuciones para convenir señaladas en el presente Estatuto;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XXIV. Apoyar, como enlace, a la Jefa o Jefe de la Unidad de Administración y Finanzas, para el seguimiento y gestión de los asuntos relacionados con los procesos de impacto regulatorio, mejora regulatoria y trámites y servicios del Catálogo Nacional de Trámites y Servicios del Estado en los cuales tenga participación el Organismo;
-
-XXV. Delegar en el personal subalterno de las jerarquías inmediatas inferiores facultades y atribuciones que tengan encomendadas, mismas que deberán constar por escrito;
-
-XXVI. Solicitar información a las personas Titulares de cualquier unidad administrativa del Organismo que se requiera para el cumplimiento de sus facultades; y
-
-XXVII. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+DE LAS SESIONES DE CABILDO
 
 ###### Artículo 26.
 
-Corresponden a la persona Titular de la Dirección General de Enlace Interinstitucional las siguientes facultades:
+Son obligaciones y atribuciones del Presidente Municipal:
 
-I. Establecer y supervisar las políticas y estrategias de cooperación interinstitucional en materia de asistencia social, atención ciudadana, comunicación social, proyectos estratégicos y relaciones públicas del Organismo;
+I. Asistir con puntualidad a las Sesiones de Cabildo para Presidirlas;
 
-II. Fortalecer la relación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, a través de la vinculación institucional para fomentar acciones de asistencia social;
+II. Hacer la declaratoria del inicio de la Sesión de Cabildo;
 
-III. Dirigir las estrategias de coordinación intra e interinstitucional, para la atención de las peticiones ciudadanas ante el Organismo;
+III. Dirigir las Sesiones de Cabildo, cuidando que se desarrollen conforme al orden del Día;
 
-IV. Proponer a la persona Titular del Organismo el programa de comunicación social del mismo, para someterlo a la autorización de las instancias correspondientes;
+IV. Conceder el uso de la palabra en las sesiones de Cabildo, a los integrantes del Ayuntamiento en el orden que lo soliciten;
 
-V. Establecer y fomentar el cumplimiento de lineamientos internos, en materia de comunicación de la imagen institucional, en materiales que genere el Organismo para su distribución y difusión interna o externa, los cuales deberán ser observados por las áreas afines u homólogas de las entidades federativas y de los municipios, cuando ejerzan recursos federales en este rubro y de acuerdo a la normatividad correspondiente;
+V. Hacer uso de la palabra en las Sesiones de Cabildo para emitir su criterio sobre el asunto que se esté tratando, teniendo voto de calidad en caso de empate, sea cual fuere la forma de votación;
 
-VI. Implementar campañas informativas de los programas y servicios que ofrece el Organismo y solicitar a las áreas correspondientes de la Administración Pública Federal, la contratación de espacios en medios de comunicación para su difusión, cuando se destine presupuesto para ello y con apego a la normatividad aplicable;
+VI. Solicitar la votación respectiva al punto en discusión;
 
-VII. Coordinar la vinculación con los representantes de medios de comunicación, a través de la difusión o generación de productos informativos, con los materiales que le propongan las áreas sustantivas del Organismo;
+VII. Observar y hacer que los demás miembros del Ayuntamiento guarden el respeto entre sí y al recinto oficial, durante el desarrollo de las Sesiones de Cabildo pudiendo amonestar o en su caso proponer al pleno la imposición de medidas disciplinarias para lograr el orden necesario, consistentes en retirarle el uso de la palabra, extrañamiento u ordenar el desalojo del recinto donde se realice la Sesión;
 
-VIII. Coordinar y formular, con las diversas unidades administrativas del Organismo, estrategias de comunicación frente a situaciones extraordinarias, en las cuales la Entidad intervenga conforme a sus facultades;
+VIII. Solicitar el auxilio de la fuerza pública con el objeto de salvaguardar la inviolabilidad del recinto oficial del Cabildo;
 
-IX. Coordinar los procesos que permitan compilar y difundir internamente la información de los medios de comunicación, relativa a los acontecimientos de interés para el Organismo;
+IX. Procurar la amplia discusión de cada asunto en las Sesiones de Cabildo;
 
-X. Integrar y formalizar la creación del consejo editorial del Organismo;
+X. Resolver las mociones de procedimiento u orden que se formulen por los integrantes del Ayuntamiento, durante el desarrollo de las sesiones;
 
-XI. Fungir como Secretaría Técnica y ejecutar los acuerdos del consejo editorial del Organismo, así como establecer la política editorial y gráfica de la Entidad en la materia;
+XI. Citar en la sesión del Cabildo en los términos de la Ley Orgánica Municipal a cualquier funcionario de la Administración Pública Municipal, quien sólo podrá ser cuestionado en relación con el tema que motive su comparecencia;
 
-XII. Mantener coordinación y comunicación, cuando así se requiera, con las áreas de comunicación de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como de las instituciones públicas y privadas en materia de la asistencia social;
+XII. Hacer la declaratoria del cierre de la Sesión de Cabildo, cuando esté agotada el orden del día o cuando proceda conforme a lo dispuesto por el presente Capítulo;
 
-XIII. Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Federal, para la ejecución y difusión de programas en materia de asistencia social ante organismos internacionales y multilaterales;
+XIII. Ordenar que los asuntos aprobados en Sesión, se comuniquen a quien corresponda; y
 
-XIV. Representar a la persona Titular del Organismo ante la Secretaría de Relaciones Exteriores, embajadas y consulados mexicanos, así como ante organismos e instituciones internacionales, en requerimientos relacionados con actividades de asistencia social;
-
-XV. Conducir los esfuerzos de coordinación y concertación del Organismo ante la Secretaría de Relaciones Exteriores, para la atención asistencial de connacionales en condición vulnerable, residentes en el extranjero;
-
-XVI. Coordinar con la Secretaría de Relaciones Exteriores y demás autoridades competentes mecanismos de información que permitan conocer el riesgo y vulnerabilidad que afecten a connacionales en el extranjero;
-
-XVII. Proponer proyectos y programas de cooperación internacional, correspondientes a las acciones de protección y asistencia social desarrolladas bajo la responsabilidad del Organismo;
-
-XVIII. Coordinar los requerimientos de información para la presentación de información estratégica;
-
-XIX. Coordinar, con las diversas unidades administrativas del Organismo, mecanismos de integración de información sobre opiniones, solicitudes, avances y cumplimiento de obligaciones y compromisos internacionales del Estado mexicano, en lo que tenga participación la Entidad;
-
-XX. Coordinar con las instancias competentes la participación en foros, congresos, seminarios, reuniones, mecanismos y conferencias nacionales e internacionales, entre otros, en los que el Organismo tenga vinculación en apego a sus atribuciones;
-
-XXI. Coordinar las acciones para la recepción y gestión de donaciones y demás actos jurídicos que representen aportaciones para el Organismo por parte de instituciones gubernamentales, no gubernamentales, nacionales o internacionales u otros otorgantes, así como realizar las transferencias en beneficio de la población sujeta de asistencia social; y
-
-XXII. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+XIV. Vigilar y hacer cumplir el presente Capítulo.
 
 ###### Artículo 27.
 
-Corresponden a la persona Titular de la Dirección General de Profesionalización de la Asistencia Social las siguientes facultades:
-
-I. Coordinar las acciones de las demás unidades administrativas del Organismo inherentes a la elaboración, actualización y divulgación de las Normas Oficiales Mexicanas en materia de la asistencia social;
-
-II. Coordinar las políticas en materia de profesionalización de la asistencia social y orientar su ejecución por parte del Organismo y de las instituciones públicas y privadas respectivas;
-
-III. Coordinar el Subcomité de Asistencia Social del Comité Consultivo Nacional de Normalización de Innovación, Desarrollo, Tecnologías e Información en Salud, para la elaboración y modificación de propuestas de anteproyectos y proyectos de Normas Oficiales Mexicanas en el ámbito de la asistencia social;
-
-IV. Proponer, actualizar y divulgar normas, modelos y buenas prácticas de intervención y lineamientos en materia de profesionalización de la asistencia social;
-
-V. Coordinar el diseño y desarrollo de modelos de intervención para la prestación de servicios asistenciales;
-
-VI. Organizar y operar el Centro de Información y Documentación sobre la Asistencia Social;
-
-VII. Elaborar, actualizar, operar y difundir el Directorio Nacional de las Instituciones de Asistencia Social;
-
-VIII. Administrar, actualizar y difundir el Sistema Nacional de Información en Materia de Asistencia Social;
-
-IX. Coordinar la operación del Campus Virtual DIF;
-
-X. Diseñar e implementar mecanismos de gestión y acciones de capacitación, educación continua, desarrollo y certificación de competencias laborales del personal en materia de asistencia social, para las instituciones y organismos públicos y privados;
-
-XI. Coordinar la formación de personas profesionistas y técnicos en asistencia social a nivel superior y medio superior, en las materias que no se encuentren reservadas a otras unidades administrativas;
-
-XII. Dirigir las acciones y mecanismos para el establecimiento y la administración del Instituto Nacional de Educación Superior para la Asistencia Social, que logre la formación de profesionistas y técnicos en asistencia social, en todas las materias competencia del Organismo a nivel superior y medio superior, conforme a los programas autorizados por las autoridades correspondientes;
-
-XIII. Coordinar las acciones de planeación educativa y fungir como área normativa de la enseñanza de las profesiones a cargo de las escuelas de la Entidad;
-
-XIV. Desarrollar, en coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y municipios, procesos de evaluación y seguimiento de las acciones de profesionalización a las y los prestadores de servicios en materia de asistencia social;
-
-XV. Administrar y operar la Entidad de Certificación y Evaluación del Sistema Nacional DIF, así como la coordinación de acciones de normalización de competencias para la revisión, desarrollo y actualización de estándares en materia de asistencia social;
-
-XVI. Habilitar, regular, coordinar y supervisar la operación de las redes, sedes y centros de evaluación a través de la Entidad de Certificación y Evaluación del Sistema Nacional DIF; y
-
-XVII. Las demás que le confiera la persona Titular del Organismo, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-#### SECCIÓN TERCERA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+Los Regidores forman parte del cuerpo colegiado que delibera, analiza, resuelve, evalúa, controla y vigila los actos de administración y del Gobierno Municipal, además de ser los encargados de vigilar la correcta prestación de los servicios públicos, así como el adecuado funcionamiento de los diversos ramos de la administración municipal, con base en lo dispuesto por la Ley Orgánica Municipal.
 
 ###### Artículo 28.
 
-Corresponden a la persona Titular de la Dirección General de Alimentación y Desarrollo Comunitario las siguientes facultades:
-
-I. Proponer políticas en materia de asistencia social alimentaria, nutrición y desarrollo comunitario;
-
-II. Coordinarse con las instancias correspondientes, a fin promover o realizar y difundir la elaboración de estudios e investigaciones en materia de asistencia social alimentaria, nutrición y desarrollo familiar y comunitario;
-
-III. Promover la creación o actualización de las normas, políticas o lineamientos para la operación y evaluación de los programas alimentarios y de desarrollo individual, familiar y comunitario del Organismo;
-
-IV. Instrumentar estrategias, programas y acciones de carácter nacional en materia de asistencia social alimentaria, nutrición y de desarrollo comunitario, orientadas a mejorar las condiciones de vida de la población en situación de vulnerabilidad;
-
-V. Establecer los criterios para la identificación y selección de personas beneficiarias, así como para la distribución de apoyos alimentarios y la definición de acciones de desarrollo comunitario;
-
-VI. Establecer los criterios de calidad nutricia e inocuidad de insumos alimentarios, considerando la disponibilidad de alimentos y la cultura alimentaria de las diversas regiones del país;
-
-VII. Realizar análisis técnicos y evaluar la calidad nutricia de los insumos en los programas alimentarios operados por los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios;
-
-VIII. Asesorar, monitorear y evaluar las acciones de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios, en materia de orientación alimentaria, de aseguramiento de la calidad alimentaria y de desarrollo comunitario;
-
-IX. Promover una alimentación correcta que contribuya al combate de la malnutrición de la población en situación de vulnerabilidad;
-
-X. Promover la organización y participación social para impulsar programas de desarrollo comunitario y asistencia social alimentaria, en su ámbito de competencia;
-
-XI. Impulsar con los sectores público, privado y social, en el ámbito de la asistencia social, acciones de organización, prevención, atención y ayuda a personas afectadas por desastres;
-
-XII. Promover la firma de convenios entre los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, para la operación coordinada de los programas alimentarios y desarrollo comunitario;
-
-XIII. Participar en el diseño de modelos de atención de carácter integral orientados a la mejora de la nutrición, la asistencia social alimentaria y el desarrollo individual, familiar y comunitario, para promover su aplicación;
-
-XIV. Proponer la distribución del recurso del Ramo 33 Fondo de Aportaciones Múltiples, en su vertiente de Asistencia Social (Fondo V.i.), para la operación de los programas correspondientes a su competencia;
-
-XV. Asesorar, analizar, aprobar y monitorear los proyectos de aplicación de recursos vinculados al desarrollo comunitario;
-
-XVI. Promover acciones de mejora de la actividad y los servicios de asistencia social que presten los Sistemas para el Desarrollo Integral de la Familia de las entidades federativas, y para la operación de los programas alimentarios y de desarrollo comunitario;
-
-XVII. Promover la organización y la participación social, en un marco de corresponsabilidad, en los tres órdenes de gobierno, como mecanismo que favorezca el desarrollo comunitario; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+Los Regidores podrán proponer al Ayuntamiento un plan anual de trabajo de sus respectivas comisiones y podrán generar propuestas para las diversas áreas de la administración municipal; así como la adopción de las medidas que estimen pertinentes para el mejor desempeño de sus funciones.
 
 ###### Artículo 29.
 
-Corresponden a la persona Titular de la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad las siguientes facultades:
+Son obligaciones y atribuciones de los Regidores:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+I. Asistir con puntualidad a las Sesiones de Cabildo;
 
-I. Formular, aplicar y evaluar el Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, para someterlo a la consideración de la Jefa o Jefe de la Unidad de Atención a Población Vulnerable;
+II. Solicitar al Presidente Municipal el uso de la palabra esperando el turno que les corresponda para su intervención en las sesiones de Cabildo;
 
-II. Coadyuvar con la Secretaria o Secretario Técnico del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, en el ejercicio de sus atribuciones;
+III. Guardar el respeto a los demás integrantes del Ayuntamiento, funcionarios, Comparecientes, público asistente y al recinto oficial donde se celebren las Sesiones;
 
-III. Ejecutar las acciones que la persona Titular del Organismo, en su calidad de Presidenta o Presidente del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, le encomiende;
+IV. Manifestar su inconformidad sobre el trámite que dicte el Presidente Municipal para la solución de determinado asunto, debiendo señalar el que a su criterio sea el procedente y exponer los motivos y fundamentos en que se base;
 
-IV. Proponer, en el Marco del Consejo Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, acciones encaminadas a la prestación de servicios para la atención, cuidado y desarrollo integral de la primera infancia, a efecto de fortalecer la garantía de sus derechos, así como coordinar su ejecución;
+V. Solicitar la información que requieran para el desempeño de sus atribuciones a los titulares de las diferentes áreas de la Administración Pública Municipal y al Síndico;
 
-V. Conducir y proponer, en el marco del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, la implementación de políticas públicas integrales en favor de la primera infancia y grupos poblacionales en situación de vulnerabilidad;
+VI. Cumplir con las obligaciones o comisiones que les hayan sido encomendadas;
 
-VI. Operar, mantener y actualizar el Registro Nacional previsto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil;
+VII. Asistir a las reuniones de trabajo de las Comisiones de las cuales sea integrante;
 
-VII. Elaborar y actualizar los Lineamientos a los que se deberán sujetar el funcionamiento y la operación del Registro Nacional previsto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, y someterlos a la consideración de la persona Titular del Organismo, para su aprobación por parte del consejo previsto en dicha ley;
+VIII. Proporcionar al Ayuntamiento todos los informes o dictámenes que les sean requeridos sobre las comisiones que desempeñen; y
 
-VIII. Coordinar la elaboración, ejecución y operación del Programa Nacional de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y del Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento de los Centros de Atención Infantil;
-
-IX. Diseñar, gestionar o coordinar las políticas públicas y las acciones concernientes a los servicios de asistencia social que se consideren primordiales para el beneficio de las personas en situación de vulnerabilidad, especialmente de niñas, niños y adolescentes en situación de migración acompañados y no acompañados, conforme a lo previsto en la normatividad aplicable;
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-X. Coordinar en colaboración con la Procuraduría Federal de Protección a Niñas, Niños y Adolescentes un registro de establecimientos asistenciales para el alojamiento y cuidado de la niñez migrante acompañada o separada, para concretar con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, los elementos que correspondan a la Unidad de Atención a Población Vulnerable a que se refiere la fracción VII del artículo 15 del presente ordenamiento;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-XI. Apoyar, en el marco de sus atribuciones, a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y coadyuvar con los sectores público, privado y social en la atención integral de niñas, niños, adolescentes y personas en situación de vulnerabilidad;
-
-XII. Realizar acciones de coordinación, en el marco de su competencia, con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y los municipios, con las demás instituciones públicas, privadas y sociales en materia de prestación de servicios, a fin de homogeneizar la atención integral de niñas y niños en la primera infancia;
-
-XIII. Impulsar acciones de capacitación en competencias dirigidas al personal de los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como al personal de los Centros de Atención Infantil, en el marco de la legislación vigente;
-
-XIV. Supervisar a los Centros de Atención Infantil en materia de prestación de servicios, en coordinación con las instancias de la Administración Pública de los tres órdenes de gobierno, en el marco de sus respectivas atribuciones;
-
-XV. Fomentar la participación de tutores, madres y padres de familia en la atención, cuidado y desarrollo integral de niñas y niños, así como en la prestación de servicios de los Centros de Atención Infantil;
-
-XVI. Acompañar, monitorear y evaluar los Centros de Atención Infantil, para mejorar, profesionalizar o especializar la prestación del servicio para la atención, cuidado y desarrollo integral infantil, proponiendo acciones de mejores prácticas;
-
-XVII. Diseñar, gestionar o coordinar las políticas públicas y las acciones que atiendan al desarrollo integral de los individuos y familias que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, se encuentren en situación de vulnerabilidad, conforme a lo previsto en la normatividad aplicable; y
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-XVIII. Las demás que le confieran la Jefa o Jefe de la Unidad de Atención a Población Vulnerable, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-#### SECCIÓN CUARTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ASISTENCIA E INCLUSIÓN SOCIAL
+IX. Vigilar el cumplimiento de las disposiciones normativas aplicables, disposiciones administrativas y circulares emanadas del Ayuntamiento.
 
 ###### Artículo 30.
 
-Corresponden a la persona Titular de la Dirección General de Integración Social las siguientes facultades:
+Son obligaciones y atribuciones del Síndico Municipal:
 
-I. Contribuir en la definición de las políticas y estrategias en materia (sic) integración social;
+I. Asistir con toda puntualidad a las Sesiones de Cabildo, con derecho a participar en ellas con voz y con voto;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2021)</small>
+II. Sentarse a la derecha del Presidente Municipal con las excepciones que este Capítulo señala;
 
-II. Administrar y coordinar la operación de establecimientos de asistencia social de su competencia incluyendo los establecimientos asistenciales de niñas, niños y adolescentes en situación de migración no acompañados con que cuente o habilite el Organismo, conforme a la normatividad aplicable, concertando, en su caso, acciones de apoyo y coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
+III. Guardar el orden y respeto a los integrantes del Ayuntamiento y al Recinto Oficial donde se celebren las Sesiones;
 
-III. Desarrollar, ejecutar y actualizar programas de atención integral a personas sujetas de asistencia social;
+IV. Solicitar al Presidente le conceda el uso de la palabra para expresar su criterio respecto al asunto que considere pertinente esperando el turno que le corresponda, durante el desarrollo de las sesiones de Cabildo;
 
-IV. Coadyuvar en la formulación de propuestas de anteproyectos de Normas Oficiales Mexicanas en materia de asistencia e integración social y de salud;
+V. Formular las protestas conducentes cuando estime perjudiciales los acuerdos del Ayuntamiento;
 
-V. Promover procesos de certificación en Normas Técnicas de Competencia Laboral, dirigidas al personal de la Dirección General de Integración Social que participe en los programas de atención a población vulnerable, en coordinación con la Dirección General de Profesionalización de la Asistencia Social;
+VI. Rendir por escrito un informe anual de las actividades realizadas, cuando sea requerido por el Ayuntamiento o por el Presidente Municipal; y (sic)
 
-VI. Proponer Normas Oficiales Mexicanas relativas al funcionamiento de establecimientos públicos y privados que proporcionen servicios asistenciales a personas sujetas de asistencia social, para su respectiva aprobación;
+VII. Proporcionar la información requerida por los miembros del Ayuntamiento;
 
-VII. Promover la formación de médicos geriatras, así como las actividades de capacitación continua al personal paramédico, técnico y auxiliar de la Dirección General de Integración Social;
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-VIII. Emitir opiniones técnicas respecto a la procedencia de la expedición de la carta de acreditación de actividades asistenciales que, de conformidad con su objeto social, soliciten las instituciones privadas de asistencia social, la cual sólo hará las veces de tal, respecto de la actividad asistencial, sin que ello prejuzgue sobre el cumplimiento de requisitos competencia de otras autoridades;
-
-IX. Promover y concertar esfuerzos y acciones con dependencias y entidades de la Administración Pública y la comunidad en general, así como con instituciones privadas, especialmente con organizaciones de la sociedad civil, dedicadas a la prevención, atención e integración, en favor de personas sujetas de asistencia social;
-
-X. Brindar servicios institucionales de recreación, hospedaje y alimentación en los centros recreativos del Organismo, para colaborar con el desarrollo de las potencialidades de la población sujeta de asistencia social;
-
-XI. Promover el desarrollo integral, el mejoramiento y la integración familiar de las personas beneficiarias sujetas de asistencia social;
-
-XII. Ejecutar, cuando la autoridad competente lo determine, las medidas especiales de protección para niñas, niños y adolescentes;
-
-XIII. Supervisar y dar seguimiento a la ejecución del cumplimiento de los convenios de concertación suscritos con las organizaciones de la sociedad civil en materia de servicios de atención especializada;
-
-XIV. Gestionar y realizar canalizaciones de personas beneficiarias a organizaciones de la sociedad civil que tengan celebrados convenios de concertación con el Organismo en materia de atención especializada; y
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 29 DE DICIEMBRE DE 2021)</small>
-
-XV. Las demás que le confieran la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+VIII. Realizar un estudio, análisis y revisión del contenido de la impresión de las Actas de las Sesiones de Cabildo, que serán aprobadas en la Sesión Ordinaria siguiente.
 
 ###### Artículo 31.
 
-Corresponden a la persona Titular de la Dirección General de Rehabilitación e Inclusión, las siguientes facultades:
+Son obligaciones y atribuciones del Secretario del Ayuntamiento:
 
-I. Establecer las políticas y estrategias en materia de prevención y atención integral de las personas con discapacidad o en riesgo de desarrollarla, así como procurar su inclusión social, educativa y laboral;
+I. Citar a Sesiones ordinarias, solemnes y privadas de Cabildo;
 
-II. Desarrollar y operar el Programa de Servicios de Rehabilitación Integral dirigido a las personas con discapacidad o en riesgo de desarrollarla, así como promover la prevención y control de las causas y factores condicionantes de la discapacidad;
+II. Asistir a las Sesiones de Cabildo teniendo voz informativa, careciendo de voto;
 
-III. Desarrollar y operar el Programa de Atención a Personas con Discapacidad, así como promover la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
+III. Sentarse a la izquierda del Presidente con las excepciones que este Capítulo señala;
 
-IV. Prestar servicios de atención, rehabilitación integral y promoción de la inclusión social, educativa y laboral para las personas con discapacidad;
+IV. Recoger y computar los votos de los miembros del Ayuntamiento en la Sesión de Cabildo dando cuenta de ello;
 
-V. Participar en la formulación de propuestas de anteproyecto de Normas Oficiales Mexicanas en materia de prevención de discapacidad y rehabilitación integral de personas con discapacidad;
+V. Levantar acta de las Sesiones agregando los anexos respectivos;
 
-VI. Proponer Normas Oficiales Mexicanas, relativas al funcionamiento de establecimientos públicos y privados que proporcionen servicios de rehabilitación y atención integral a personas con discapacidad, incluyendo la adaptación de prótesis, órtesis y ayudas funcionales que requieran, para su respectiva aprobación;
+VI. Llevar un registro de asistencia a las Sesiones en la que hará constar las faltas injustificadas o justificadas de los miembros del Ayuntamiento;
 
-VII. Administrar, supervisar y coordinar la operación de las unidades y centros de rehabilitación del Organismo, concertando acciones de apoyo y coordinación con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios;
+VII. Notificar los asuntos aprobados en Sesión de Cabildo a quien corresponda;
 
-VIII. Formar personas médicas especialistas en medicina de rehabilitación, con licenciatura en terapia física, con licenciatura en terapia ocupacional y con formación técnica en órtesis y prótesis, con la finalidad de coadyuvar en la prevención, rehabilitación e inclusión social educativa y laboral de las personas con discapacidad;
+VIII. Dar curso a los oficios y documentos que estén dirigidos al Ayuntamiento o por su competencia a alguna de las Comisiones, debiendo llevar el registro de los mismos;
 
-IX. Promover la capacitación y educación continua tanto del personal del Organismo que participa en la atención de las personas con discapacidad o en riesgo de desarrollarla, como a las organizaciones de la sociedad civil, comunidades y familias que trabajen en favor de la inclusión social, educativa y laboral de las personas con discapacidad;
+IX. Facilitar a los miembros del Ayuntamiento, el asesoramiento necesario para el buen desempeño de sus funciones;
 
-X. Conducir la implementación y ejecución oportuna de programas de investigación y, en su caso, desarrollo tecnológico, en materia de prevención de la discapacidad, rehabilitación e inclusión social, educativa y laboral de las personas con discapacidad;
+X. Llevar un archivo sobre citatorios, ordenes del día y cualquier material informativo que ayude para aclaraciones futuras;
 
-XI. Supervisar y emitir opinión sobre la expedición, revalidación o cancelación de licencias a unidades de rehabilitación de organismos públicos y privados;
+XI. Rendir por escrito, los informes que le sean solicitados por el Presidente, Síndico o los Regidores; y (sic)
 
-XII. Promover y concertar esfuerzos y acciones con las dependencias y entidades de la Administración Pública, la comunidad en general, así como con instituciones privadas, especialmente organizaciones de la sociedad civil, dedicadas a la prevención, atención e inclusión de personas con discapacidad;
+XII. Cuidar de la publicación de los dispositivos jurídicos y/o acuerdos del pleno del Cabildo en su caso;
 
-XIII. Coadyuvar en la instrumentación y operación del servicio nacional de información en materia de rehabilitación, así como contribuir con el sistema nacional de información en discapacidad de las personas atendidas en los servicios de rehabilitación no hospitalaria de los Centros de Rehabilitación del Organismos (sic);
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-XIV. Proponer la celebración de acuerdos y convenios con los Sistemas para el Desarrollo Integral de la Familia u homólogos de las entidades federativas y de los municipios, así como con las instituciones de asistencia privada, para la implementación de programas en materia de prevención de discapacidad, atención integral de personas con discapacidad, así como la inclusión social, educativa y laboral de las personas con discapacidad;
+XIII.- Remitir y notificar mediante oficio los acuerdos aprobados por los integrantes del Honorable Cuerpo Edilicio y elaborar las Actas de Cabildo, en un término de 10 días hábiles posteriores a la celebración de la Sesión de Cabildo;
 
-XV. Promover el desarrollo de contenidos y edición de materiales para la prevención, rehabilitación e inclusión social de las personas con discapacidad;
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-XVI. Dictaminar la viabilidad de los proyectos en materia de prevención, rehabilitación e inclusión social de las personas con discapacidad, en el marco del Programa de Atención a Personas con Discapacidad;
+XIV.- Hacer del conocimiento de la Contraloría Municipal la Estructura Administrativa con la que funcionan las Secretarías, Dependencias y Organismos Públicos Descentralizados de la Administración Municipal;
 
-XVII. Evaluar y validar proyectos en materia de prevención, rehabilitación e inclusión social de las personas con discapacidad, en el marco del Programa de Atención a Personas con Discapacidad;
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-XVIII. Diseñar e instrumentar los procedimientos internos para el funcionamiento de los centros de rehabilitación pertenecientes al Organismo y dar cumplimiento a la normatividad externa;
+XV.- Hacer del conocimiento del Ayuntamiento y de los Organismos Públicos Descentralizados, al final de cada año, una memoria documental y estadística de los trabajos realizados por el Cabildo Municipal;
 
-XIX. Promover la aplicación de la normatividad vigente en materia de accesibilidad y modificaciones urbanísticas y arquitectónicas, de acuerdo con las necesidades de las personas con discapacidad en su comunidad;
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
 
-XX. Impulsar procesos de capacitación, formación y certificación de las personas que desarrollan acciones de asistencia social, en la materia de su competencia, en coordinación con la Dirección General de Profesionalización de la Asistencia Social; y
+XVI.- Integrar un archivo trimestral que consigne las Actas Circunstanciadas que se levantan con motivo del trabajo de las Comisiones Permanentes y Transitorias del Honorable Cabildo Municipal.
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XXI. Las demás que le confiera la Jefa o Jefe de la Unidad de Asistencia e Inclusión Social, así como las que le señalen el presente Estatuto y las disposiciones normativas aplicables.
-
-#### SECCIÓN QUINTA
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-DE LAS DIRECCIONES GENERALES ADSCRITAS A LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
 ###### Artículo 31 Bis.
 
@@ -1219,339 +443,63 @@ V.- Llevar una memoria digital o base de datos de las Sesiones de Cabildo efectu
 
 ###### Artículo 32.
 
-Corresponden a la persona Titular de la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes, las siguientes facultades en el ámbito de su competencia:
-
-I. Brindar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público;
-
-II. Ejercer la representación coadyuvante, a petición de parte o de oficio, en los procedimientos judiciales y administrativos en que participen niñas, niños y adolescentes;
-
-III. Fungir, conforme a las disposiciones normativas, aplicables como conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados;
-
-IV. Iniciar o facilitar los procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, prestar asistencia jurídica y realizar las acciones de obtención de pruebas, en materia de cobro internacional de alimentos en coordinación con las autoridades competentes;
-
-V. Denunciar ante el Ministerio Público los hechos que la ley señale como delitos, cometidos en agravio de niñas, niños y adolescentes;
-
-VI. Solicitar al Ministerio Público competente, o, en su caso, ordenar la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes;
-
-VII. Remitir la información de su competencia para la integración de los sistemas y registros previstos en los artículos 29, fracción III, y 32, fracción VII, de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en concordancia con su reglamento;
-
-VIII. Proponer las autorizaciones y revocaciones de las personas que ejerzan las profesiones en trabajo social, psicología o carreras afines de las instituciones públicas o privadas, que intervengan en procedimientos de adopción nacional e internacional;
-
-IX. Inscribir en el registro correspondiente las revocaciones de las personas que ejerzan las profesiones en trabajo social, psicología o carreras afines de las instituciones públicas y privadas que intervengan en procedimientos de adopción nacional e internacional, con la finalidad de que se considere boletinada la revocación;
-
-X. Registrar, evaluar y certificar a las familias que resulten idóneas para el acogimiento pre-adoptivo, así como proponer los certificados de idoneidad;
-
-XI. Participar en coordinación con las instituciones oficiales y privadas, en programas de adopción en que intervenga;
-
-XII. Coadyuvar en la regularización de la situación jurídica de las niñas, niños y adolescentes ingresados en los Centros de Asistencia Social del Organismo, así como en el procedimiento legal de adopción;
-
-XIII. Establecer y operar las acciones del Organismo, en su carácter de autoridad central en materia de adopción internacional, y en el Procedimiento Administrativo de Adopción Nacional;
-
-XIV. Promover, ordenar y dar seguimiento a las medidas de protección especial, en términos de lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones jurídicas aplicables;
-
-XV. Promover la inclusión de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, en las medidas de rehabilitación y asistencia;
-
-XVI. Realizar acciones para coadyuvar en la localización y la reunificación de las familias de niñas, niños y adolescentes, cuando hayan sido privados de ella, privilegiando en todo momento el interés superior de la niñez;
-
-XVII. Supervisar, en el ámbito de su competencia, que en los Centros de Asistencia Social se integren los expedientes y se atiendan de manera integral a las niñas, niños y adolescentes en acogimiento residencial;
-
-XVIII. Impulsar las modalidades de cuidados alternativos, en aquellos casos en los que se determine el acogimiento temporal de niñas, niños y adolescentes;
-
-XIX. Dar seguimiento de la situación en la que se encuentren niñas, niños y adolescentes, una vez que haya concluido el acogimiento temporal, de conformidad con los instrumentos normativos que para tal efecto se emitan;
-
-XX. Impulsar el desarrollo de lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes;
-
-XXI. Proporcionar información de su competencia para la integración del registro de niñas, niños y adolescentes migrantes extranjeros no acompañados que se encuentren en el territorio nacional;
-
-XXII. Resguardar, en coordinación con el Instituto Nacional de Migración, las bases de datos de niñas, niños y adolescentes migrantes mexicanos, que se encuentren en el extranjero, en procesos de repatriación;
-
-XXIII. Impulsar las modalidades de los cuidados alternativos en aquellos casos en los que se determine el acogimiento temporal de niñas, niños y adolescentes; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XXIV. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+Las sesiones de Cabildo se celebrarán en el salón de Cabildo, a menos que por acuerdo del mismo, se declare de manera temporal como recinto oficial otro lugar.
 
 ###### Artículo 33.
 
-Corresponden a la persona Titular de la Dirección General de Regulación de Centros de Asistencia Social, las siguientes facultades:
-
-I. Formular los requisitos mínimos y criterios, así como impulsar la elaboración de instrumentos normativos, para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, públicos y privados, y asociaciones, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, su Reglamento y demás normatividad aplicable;
-
-II. Ejecutar las acciones para autorizar, revocar, registrar, certificar y supervisar el funcionamiento de los Centros de Asistencia Social, o, en su caso, en coordinación con las Procuradurías de Protección de las entidades federativas, de acuerdo con los instrumentos normativos que para tal efecto se emitan;
-
-III. Diseñar e implementar un sistema de certificación de los Centros de Asistencia Social y de las competencias laborales de su personal, en concordancia con la normatividad vigente;
-
-IV. Proponer la elaboración de normas técnicas o estándares de competencia para certificar las competencias del personal que labora en los Centros de Asistencia Social, en coordinación con la Dirección General de Profesionalización de la Asistencia Social;
-
-V. Integrar y actualizar el Registro Nacional de Centros de Asistencia Social a que hace referencia los artículos 112, de la Ley General de los Derechos de Niñas, Niños y Adolescentes y 41, de su reglamento, con la información que proporcionen el Organismo y las Procuradurías de Protección de las entidades federativas;
-
-VI. Sistematizar la información del Registro Nacional de Centros de Asistencia Social;
-
-VII. Registrar los resultados de las visitas de supervisión que las Procuradurías de Protección locales realicen a los Centros de Asistencia Social de sus entidades federativas;
-
-VIII. Dar seguimiento a la ejecución de las acciones legales que correspondan, cuando en la visita de supervisión se detecte que el Centro de Asistencia Social incumple los requisitos que establecen las disposiciones normativas aplicables;
-
-IX. Impulsar el desarrollo de Normas Oficiales Mexicanas en Asistencia Social, referentes a los derechos de las niñas, niños y adolescentes y participar en los grupos técnicos para su elaboración; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-X. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+El lugar o lugares en que se celebren las Sesiones de Cabildo serán inviolables y sólo tendrá acceso la fuerza pública, en los casos establecidos en la Ley Orgánica y en este Capítulo.
 
 ###### Artículo 34.
 
-Corresponden a la persona Titular de la Dirección General de Normatividad, Promoción y Difusión de los Derechos de Niñas, Niños y Adolescentes, las siguientes facultades:
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-I. Asesorar a los Sistemas para el Desarrollo Integral de la Familia u homólogos y a las Procuradurías de Protección de Niñas, Niños y Adolescentes, de las entidades federativas y municipios, así como, en general, a los sectores público, social y privado, en materia de promoción y prevención de derechos de niñas, niños y adolescentes;
-
-II. Promover y llevar a cabo la formación y capacitación de personas servidoras públicas, actoras vinculadas y personas responsables de la guarda y custodia de niñas, niños y adolescentes, mediante la elaboración de herramientas e impartición de cursos, en materia de promoción, protección y restitución integral de derechos de niñas, niños y adolescentes;
-
-III. Capacitar, en las materias de su competencia, a las personas solicitantes de adopción y familias de acogida;
-
-IV. Elaborar instrumentos normativos, modelos, protocolos, metodologías y procedimientos, para la promoción, protección y restitución de los derechos de niñas, niños y adolescentes;
-
-V. Elaborar o impulsar estudios, investigaciones y diagnósticos en materia de la promoción, protección y restitución de los derechos de niñas, niños y adolescentes, especialmente para identificar los factores y situaciones de riesgo que enfrentan;
-
-VI. Elaborar las propuestas de Normas Oficiales Mexicanas referentes a los derechos de las niñas, niños y adolescentes y participar en los grupos técnicos para su elaboración;
-
-VII. Dirigir acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes; y
-
-> <small>(ADICIONADA, D.O.F. 27 DE AGOSTO DE 2021)</small>
-
-VIII. Promover la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas, así como llevar a cabo acciones en materia de participación infantil con dicha Red.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-IX. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+Las sesiones de Cabildo serán ordinarias, extraordinarias y solemnes las cuales serán públicas, y privadas cuando así lo determine el propio Capítulo.
 
 ###### Artículo 35.
 
-Corresponden a la persona Titular de la Dirección General de Coordinación y Políticas, las siguientes facultades en el ámbito de su competencia:
-
-I. Promover la participación de los sectores público, social y privado en la planificación y ejecución de políticas y acciones a favor de la protección integral de niñas, niños y adolescentes;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-II. Colaborar con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y los municipios, así como con las alcaldías, en el diseño, ejecución y seguimiento de políticas públicas, en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-III. Coordinar las acciones con las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de proporcionar asistencia para la transmisión y recepción de solicitudes, la localización de las personas deudoras o acreedoras, la obtención de información sobre sus ingresos u otras circunstancias económicas, la notificación de documentos, el cobro y la transferencia rápida de los pagos de alimentos, la determinación de la filiación y la ejecución continuada, en materia de cobro internacional de alimentos, en los términos de la normatividad aplicable;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-IV. Coordinar las acciones que permitan obtener la colaboración de las Procuradurías de Protección de Niñas, Niños y Adolescentes de las entidades federativas y demás instituciones públicas y privadas, sean nacionales o extranjeras, a efecto de que la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes, facilite o inicie procedimientos de solicitud de pago de alimentos, los de obtención de medidas provisionales y los de medios alternativos de solución de controversias, preste asistencia jurídica y realice las acciones de obtención de pruebas, en materia de cobro internacional de alimentos, en coordinación con dichas instancias;
-
-V. Proponer, actualizar y dar seguimiento a los acuerdos interinstitucionales de coordinación que se celebren con las instancias de los tres órdenes de gobierno e internacionales;
-
-VI. Impulsar y elaborar convenios de cooperación, coordinación y concertación, en materia de los derechos de las niñas, niños y adolescentes con los sectores público, privado y social, particularmente con instituciones académicas, así como con instancias internacionales;
-
-VII. Proponer políticas alineadas al Programa Nacional de Protección Integral de Niñas, Niños y Adolescentes y demás disposiciones normativas aplicables;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-VIII. Implementar y actualizar para el Organismo y la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los registros, bases de datos o archivos, en términos de lo dispuesto en la Ley General de los Derechos de Niñas, Niños y Adolescentes y su reglamento, que no correspondan a otras unidades administrativas;
-
-IX. Administrar, con arreglo a las disposiciones jurídicas aplicables, el Registro Nacional de Deudores Alimentarios Morosos, con la información que proporcionen las entidades federativas;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-X. Formular y revisar los contratos y convenios a celebrar por la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de acuerdo con los requerimientos de las áreas respectivas, remitiéndolos a la Dirección General de Asuntos Jurídicos para su revisión, registro y resguardo; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XI. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
-
-#### SECCIÓN SEXTA. DE LAS DIRECCIONES GENERALES ADSCRITAS A LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
+El Ayuntamiento sesionará ordinariamente, por lo menos una vez al mes, el día y la hora que así lo acuerde, pudiendo modificar esta fecha cuando por razones fundadas así lo considere necesario.
 
 ###### Artículo 36.
 
-Corresponden a la persona Titular de la Dirección General de Programación, Organización y Presupuesto las siguientes facultades:
-
-I. Orientar y coordinar las actividades de planeación, programación, presupuestación y control del gasto público de las unidades administrativas del Organismo;
-
-II. Registrar y dar seguimiento, ante la Secretaría de Hacienda y Crédito Público, a los programas y proyectos de inversión que solicite la Dirección General de Recursos Materiales y Servicios Generales;
-
-III. Proponer, para aprobación superior, los sistemas y procedimientos para la formulación, adecuación, ejercicio y control del presupuesto autorizado a las unidades administrativas del Organismo;
-
-IV. Concertar la estructura programática del Organismo, integrar y consolidar el anteproyecto de presupuesto del gasto de operación, subsidios, otras erogaciones e inversión y su respectivo calendario de gasto, así como administrar su ejercicio;
-
-V. Difundir entre las unidades administrativas del Organismo las normas, lineamientos, políticas y demás disposiciones que, en materia programática, presupuestaria, financiera, contable y de organización, sean de su respectiva competencia;
-
-VI. Integrar y dar seguimiento a los programas sectoriales, especiales e institucionales derivados del Plan Nacional de Desarrollo, salvo aquellos que, por no ser del ámbito de su responsabilidad, su formulación corresponda a otras áreas del Organismo, conforme a la normatividad específica;
-
-VII. Coordinar la integración del Programa Anual (sic) Trabajo del Organismo, así como los informes de actividades que la persona Titular de la Entidad presente a la Junta de Gobierno y a las dependencias que lo requieran;
-
-VIII. Integrar los informes trimestrales sobre la operación y resultados del Organismo;
-
-IX. Coordinar la integración de los informes programático-presupuestales que el Organismo deba presentar;
-
-X. Elaborar, en coordinación con las unidades administrativas del Organismo, documentos estadísticos, informes y otros que sean requeridos en el ámbito de su competencia;
-
-XI. Gestionar ante las instancias correspondientes, en el ámbito de su competencia, el registro de las propuestas de modificación organizacional del Organismo;
-
-XII. Coordinar la elaboración del Manual de Organización General, documentar los cambios de la organización interna, así como colaborar en la actualización del Estatuto Orgánico y de los manuales de procedimientos del Organismo;
-
-XIII. Llevar los registros contables y la formulación de los estados financieros del Organismo;
-
-XIV. Orientar la planeación, operación, registro y control de los ingresos y egresos del Organismo, así como los relativos a depósitos bancarios e inversiones;
-
-XV. Establecer las previsiones presupuestales y el control de los compromisos de pago del Organismo y realizar su liquidación;
-
-XVI. Fungir como ventanilla única de las unidades administrativas del Organismo ante las dependencias y entidades de la Administración Pública Federal y demás instancias que requieran información, en las materias de planeación, presupuestación, ejercicio, control y evaluación del gasto público; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XVII. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+La cita para las Sesiones ordinarias, solemnes ya sea abiertas o privadas estará a cargo del Secretario del Ayuntamiento, quien lo hará por lo menos con setenta y dos horas de anticipación, debiendo anexar el orden del día así como copia de los dictámenes que serán presentados.
 
 ###### Artículo 37.
 
-Corresponden a la persona Titular de la Dirección General de Recursos Materiales y Servicios Generales las siguientes facultades:
+Las Sesiones ordinarias de Cabildo se desarrollarán en el orden siguiente:
 
-I. Establecer y operar las políticas, normas y sistemas para la administración de los recursos materiales y servicios generales del Organismo;
+1. Lista de Asistencia;
 
-II. Establecer y operar los planes y programas anuales de adquisiciones, arrendamientos y servicios, almacenes e inventarios, de mantenimiento y conservación de bienes muebles e inmuebles, obras públicas y servicios relacionados con las mismas, así como los correspondientes a la prestación de los servicios generales de apoyo a las diversas unidades administrativas del Organismo;
+2. Declaratoria de Quórum y apertura de la Sesión;
 
-III. Establecer los mecanismos de planeación y control que aseguren la administración óptima de los bienes muebles e inmuebles, así como de los servicios generales del Organismo, fungiendo como responsable inmobiliario, de conformidad con la Ley General de Bienes Nacionales;
+3. Lectura y Aprobación en su caso del orden del día;
 
-IV. Apoyar a la Dirección General de Asuntos Jurídicos con los actos que requieran la regularización, legalización, adquisición y enajenación de bienes inmuebles del Organismo;
+4. Aprobación del acta de la Sesión anterior;
 
-V. Establecer y difundir a las unidades administrativas del Organismo, las políticas, bases y lineamientos para la adquisición, suministro de recursos y prestación de los servicios de su competencia;
+5. Informe del Secretario del Ayuntamiento de los asuntos existentes en cartera que se hubiesen turnado a Comisiones, así como de los tramitados por el mismo Secretario o el Presidente Municipal;
 
-VI. Conducir los procesos licitatorios del Organismo, para la adquisición de bienes o contratación de servicios, los arrendamientos, las obras públicas y los servicios relacionados con las mismas, referidos en la normatividad aplicable;
+6. Informe mensual de la noticia administrativa y estadística que rinde el Presidente Municipal;
 
-VII. Suscribir los contratos de adquisición de bienes, de arrendamientos, de servicios, de obras públicas y de servicios relacionados con las mismas, así como suscribir los pedidos correspondientes, bajo su responsabilidad, en apego a la normatividad aplicable;
+7. Lectura, discusión y en su caso aprobación de los dictámenes, iniciativas o proposiciones;
 
-VIII. Realizar la supervisión de los contratos relativos a los diversos seguros de bienes muebles e inmuebles contratados por el Organismo;
-
-IX. Realizar la supervisión de los contratos de obras, de mantenimiento y de conservación de los equipos propiedad del Organismo y de los demás que suscriba conforme a sus atribuciones;
-
-X. Actualizar el inventario de bienes muebles del Organismo, proporcionar los servicios de conservación y mantenimiento de los mismos, así como determinar su baja y destino final;
-
-XI. Administrar el uso y asignación del parque vehicular del Organismo, así como ejecutar los programas para su mantenimiento, reparación, aseguramiento y control documental correspondientes;
-
-XII. Establecer y operar los planes y programas de Protección Civil del Organismo, en coordinación con las diversas áreas e instituciones involucradas;
-
-XIII. Coordinar la recepción, custodia, entrega y transferencia de donativos;
-
-XIV. Elaborar y consolidar las propuestas en materia de bienes muebles y obra pública, así como tramitar ante la Dirección General de Programación Organización y Presupuesto, el registro de cartera de los programas y proyectos de inversión del Organismo;
-
-XV. Coordinar y promover la organización y conservación del archivo general del Organismo, conforme a la normatividad vigente en materia archivística;
-
-XVI. Controlar y administrar el ejercicio de los programas y proyectos de inversión, así como gestionar, ante la Dirección General de Programación, Organización y Presupuesto, su registro y seguimiento en los sistemas establecidos por la Secretaría de Hacienda y Crédito Público;
-
-XVII. Iniciar y dar trámite a los procedimientos de rescisión de contratos y pedidos, así como suscribir las determinaciones, comunicaciones y notificaciones correspondientes a la rescisión, en términos de la legislación aplicable; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XVIII. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+8. Asuntos generales.
 
 ###### Artículo 38.
 
-Corresponden a la persona Titular de la Dirección General de Recursos Humanos, las siguientes facultades:
-
-I. Formular y aplicar las políticas, normas, lineamientos, procedimientos y sistemas, en materia de reclutamiento, selección, contratación y movimientos del personal del Organismo;
-
-II. Operar los acuerdos del Organismo con la representación sindical, así como las obligaciones derivadas de las Condiciones Generales de Trabajo;
-
-III. Integrar, administrar y mantener actualizada la plantilla de recursos humanos del Organismo;
-
-IV. Formular el anteproyecto de presupuesto anual de las partidas de gasto del Capítulo 1000, Servicios Personales, así como de las partidas de gasto de operación asociadas, gestionar sus modificaciones, ejecutar su pago, realizar su registro e integrar la información para la Cuenta Pública de la Hacienda Federal y demás informes relacionados;
-
-V. Gestionar, ante la Dirección General de Programación, Organización y Presupuesto, el trámite de pago de nóminas, retenciones, pagos a terceros, prestaciones y servicios relacionados con la administración y el desarrollo de los recursos humanos, así como las erogaciones por resolución judicial en materia laboral y las relacionadas con las y los prestadores de servicio social, prácticas profesionales y residencias médicas;
-
-VI. Formular y ejecutar los procedimientos para integrar, controlar, actualizar y custodiar los expedientes documentales, electrónicos y biométricos, del personal;
-
-VII. Expedir el documento que acredite los nombramientos y constancias laborales de las personas trabajadoras del Organismo;
-
-VIII. Formular, actualizar y gestionar el registro y autorización de los catálogos de puestos y categorías, así como de los tabuladores de sueldos;
-
-IX. Establecer las normas y procedimientos para la operación del Sistema Integral de Recursos Humanos del Organismo y difundirlas a las demás unidades administrativas;
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-X. Designar, por acuerdo de la Jefa o Jefe de la Unidad de Administración y Finanzas, a las personas que fungirán como representantes institucionales ante las comisiones mixtas establecidas en las Condiciones Generales de Trabajo;
-
-XI. Integrar y ejecutar el Programa Anual de Capacitación del Organismo;
-
-XII. Integrar y ejecutar el Programa Anual de Desarrollo Institucional del Organismo;
-
-XIII. Implementar el Programa de Cultura Institucional y de Género, en coordinación con las demás unidades del Organismo;
-
-XIV. Fomentar y coordinar acciones para el bienestar social, la salud y de apoyo a la economía de las personas servidoras públicas (sic) Organismo;
-
-XV. Administrar el otorgamiento y difusión de las prestaciones económicas y contractuales;
-
-XVI. Instrumentar las acciones de revisión, actualización y aprobación de las Condiciones Generales de Trabajo del Organismo;
-
-XVII. Intervenir, registrar y ejecutar las medidas disciplinarias y las sanciones que se determinen al personal del Organismo;
-
-XVIII. Formular y someter a consideración de la Unidad de Administración y Finanzas los acuerdos para la terminación de la relación de trabajo y de los efectos de nombramiento de las personas trabajadoras del Organismo;
-
-XIX. Colaborar con la Dirección General de Programación, Organización y Presupuesto en los estudios de organización que impliquen la modificación de la estructura orgánica y ocupacional del Organismo y opinar respecto de la viabilidad presupuestaria de los movimientos organizacionales, ocupacionales y salariales requeridos por las unidades administrativas; y
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-XX. Las demás que le confiera la Jefa o Jefe de la Unidad de Administración y Finanzas, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
+Serán extraordinarias las sesiones que se celebren cuando algún asunto urgente lo requiera.
 
 ###### Artículo 39.
 
-Durante las ausencias de la persona Titular del Organismo, el despacho y resolución de los asuntos correspondientes al mismo, estarán a cargo de las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de la Unidad de Administración y Finanzas y las direcciones generales adscritas a la persona Titular de la Entidad, en el ámbito de sus respectivas competencias.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+Las Sesiones extraordinarias serán convocadas con una hora mínimo de anticipación, por el Presidente Municipal o la mayoría de los Regidores.
 
 ###### Artículo 40.
 
-Durante la ausencia de las personas titulares, Jefas o Jefes de las Unidades, de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes o de la Unidad de Administración y Finanzas, el despacho y resolución de los asuntos de su competencia, estarán a cargo de las Directoras o Directores Generales adscritos a sus correspondientes áreas de responsabilidad, conforme a sus respectivas atribuciones.
+Cuando la Sesión extraordinaria sea convocada por la mayoría de los Regidores deberán hacerlo por escrito, expresando claramente el motivo que la origine y cuando exista posibilidad, deberán anexar copia de los documentos que sean necesarios para el desahogo del o los temas a tratar.
 
 ###### Artículo 41.
 
-Las ausencias y vacantes de la persona Titular del Órgano Interno de Control, así como de las personas titulares de las áreas de Responsabilidades, de Auditoría Interna, Auditoría para el Desarrollo y Mejora de la Gestión Pública, y de Quejas se sujetarán a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+En las Sesiones extraordinarias sólo se tratarán los asuntos listados en el orden del día.
 
 ###### Artículo 42.
 
-Durante las ausencias de las personas titulares de las Direcciones Generales, éstas serán suplidas por las personas servidoras públicas de la jerarquía inmediata inferior, y durante las ausencias de éstas, serán suplidas por la persona que ocupe un cargo inferior inmediato y así sucesivamente, hasta el nivel de Jefatura de Departamento, dentro de su respectivo ámbito de responsabilidad.
-
-## ARTÍCULOS TRANSITORIOS
-
-PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. Se abroga el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis.
-
-Las referencias que contengan todas disposiciones de jerarquía inferior al presente ordenamiento se entenderán implícitamente aludidas a los términos manejados por el presente Estatuto, sin que se requiera mayor modificación.
-
-Únicamente se derogan las disposiciones normativas de jerarquía inferior al presente ordenamiento en lo que se opongan o contravengan expresamente a sus disposiciones.
-
-La persona Titular del Organismo deberá impulsar, con el apoyo de la Dirección General de Asuntos Jurídicos y las demás unidades administrativas de la Entidad, coordinadas por dicha Dirección General, la actualización progresiva de la normatividad en comento, para su armonización con el presente Estatuto.
-
-TERCERO. Los nombramientos realizados a las personas servidoras públicas que actualmente ocupan la titularidad (sic) las unidades administrativas referidas en el presente Estatuto o del Órgano Interno de Control, mantendrán su vigencia, sin requerir ratificación e independientemente del cambio en la posición de la unidad administrativa a su cargo, dentro de la estructura orgánica del Organismo, o del cambio que haya existido en la denominación, en cuyo caso los nombramientos se entenderán conforme a las denominaciones señaladas en el presente ordenamiento.
-
-Lo anterior sin perjuicio de las facultades que pueden ejercer posterior a la entrada en vigor del presente Estatuto, las instancias correspondientes, respecto de las remociones y nombramientos que les competen.
-
-CUARTO. Los asuntos competencia de la persona Titular de la Oficialía Mayor a que se refiere el artículo 19, fracciones XI, XII y XIII, del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis, serán transferidos y continuarán su trámite por la Dirección General de Profesionalización de la Asistencia Social.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-QUINTO. Salvo lo dispuesto en el Artículo Cuarto Transitorio, los asuntos en trámite por las personas titulares de la Oficialía Mayor, la Unidad de Asistencia e Integración Social, la Dirección General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y la Dirección General de Rehabilitación, continuarán gestionándose hasta su total conclusión por las personas titulares, Jefas o Jefes de la Unidad de Administración y Finanzas, la Unidad de Asistencia e Inclusión Social, la Dirección General de Coordinación y Fomento a Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad y la Dirección General de Rehabilitación e Inclusión, respectivamente.
-
-SEXTO. Por lo que hace a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los asuntos en trámite por las personas Titulares de la Dirección General de Representación Jurídica de Niñas, Niños y Adolescentes y la Dirección General de Restitución de Derechos de Niñas, Niños y Adolescentes, continuarán gestionándose hasta su total conclusión por la persona Titular de la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes.
-
-SÉPTIMO. Las acciones referidas en la fracción VI del artículo 39 del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis, serán transferidas y continuarán su ejecución por la Dirección General de Recursos Materiales y Servicios Generales.
-
-Dicha transferencia deberá quedar concluida en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente ordenamiento.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-OCTAVO. El "ACUERDO por el que el Titular del Sistema Nacional para el Desarrollo Integral de la Familia delega en el Oficial Mayor, las facultades a que se refieren las fracciones I, V, VII, VIII, X, XVI, XVIII, XXX y XXXI del artículo 10 del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia", publicado en el Diario Oficial de la Federación el catorce de septiembre de dos mil dieciocho, permanecerá vigente, en sus facultades delegadas en las fracciones homólogas del presente Estatuto, entendiéndose referidas a la Jefa o Jefe de la Unidad de Administración y Finanzas, hasta la publicación de aquél que lo sustituya.
-
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
-
-NOVENO. En lo relativo al Órgano Interno de Control, se está a lo señalado en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y lo previsto en el sexto transitorio del "DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal", publicado en el Diario Oficial de la Federación el treinta de noviembre de dos mil dieciocho, quedando a cargo la de la Jefa o Jefe de la Unidad de Administración y Finanzas la coordinación de las acciones respectivas.
-
-Se expide en la Ciudad de México, el dieciséis de octubre de dos mil diecinueve.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, María del Rocío García Pérez.- Rúbrica.
-
-D.O.F. 27 DE AGOSTO DE 2021.
+El orden del día de las Sesiones extraordinarias y solemnes se ajustará a lo establecido en este Capítulo y en la ley Orgánica Municipal.
 
 ###### Artículo 43.
 
@@ -1905,7 +853,7 @@ Los Regidores nombrados para integrar alguna Comisión permanente o transitoria,
 
 Las Comisiones rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2007)</small>
 
 DE LAS NOTIFICACIONES POR MEDIOS ELECTRÓNICOS
 
@@ -1981,7 +929,9 @@ II.- A quien haga uso indebido de los medios electrónicos a cargo de los servid
 
 III.- A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa de 100 a 200 días de salario mínimo vigente en el Estado de Puebla y en caso de ser usuario la revocación de su cuenta de correo electrónico.
 
-### CAPÍTULO VII DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS
+### CAPÍTULO 7. DE LA INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS MESAS DIRECTIVAS DE VECINOS DE BARRIOS, COLONIAS, FRACCIONAMIENTOS Y UNIDADES HABITACIONALES
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 108.
 
@@ -2033,9 +983,9 @@ XVII. Santo Tomás Chiautla.
 
 De conformidad con la realidad social, económica, política y tomando en consideración las necesidades y requerimientos del Municipio en su conjunto, el Ayuntamiento solicitará al Congreso del Estado, la supresión e incorporación de las Juntas Auxiliares mencionadas en el artículo anterior, con la naturaleza de colonias pertenecientes a la Ciudad de Puebla.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES DE LA COMPETENCIA Y LA ORGANIZACIÓN DEL ORGANISMO
+### CAPÍTULO 8. DEL CONSEJO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE PUEBLA
 
 ###### Artículo 112.
 
@@ -2115,7 +1065,7 @@ La convocatoria a sesión ordinaria se hará por lo menos con cinco días natura
 
 Las convocatorias mencionadas en el párrafo anterior, deberán contener en ambos casos el orden del día, el lugar, la fecha y la hora donde se verificará la sesión de la Asamblea General y habrá de darse amplia difusión, debiendo remitir copia de las mismas a la Dirección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 121.
 
@@ -2221,7 +1171,7 @@ Los miembros de las Mesas Directivas de Vecinos durarán en su cargo un periodo 
 
 En caso de que sea elegida una nueva Mesa Directiva de Vecinos, la saliente deberá entregar a la entrante, en un término que no exceda de siete días naturales a partir del día de la elección, por escrito, con copia a la Dirección, los documentos, libro de actas de asambleas, valores, muebles e inmuebles que tuviera bajo su resguardo y responsabilidad, así como un informe completo de su administración. Esta misma disposición se aplicará en los casos de substitución de cualquier miembro de la Mesa Directiva de Vecinos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 129.
 
@@ -2399,13 +1349,13 @@ DE LA DESTITUCIÓN O REMOCIÓN DE LOS INTEGRANTES DE LAS MESAS DIRECTIVAS DE
 
 VECINOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 139.
 
 La Asamblea General y la Dirección tendrán la facultad para destituir de su cargo a uno o a todos los miembros de la Mesa Directiva de Vecinos, bajo los siguientes supuestos:
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 A. Será competente la Asamblea por las siguientes causas:
 
@@ -2481,7 +1431,11 @@ II. Si las partes Concilian sus diferencias; o
 
 III. Si al concurrir las partes manifiestan haber conciliado sus intereses.
 
-### CAPÍTULO II. DE LOS ÓRGANOS SUPERIORES DEL ORGANISMO
+### CAPÍTULO 9. POLICÍA Y GOBIERNO
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 148.
 
@@ -2503,7 +1457,7 @@ DE LAS SANCIONES
 
 Las violaciones a lo establecido en este Capítulo por parte de los miembros de la Mesa Directiva de Vecinos, serán sancionadas por la Dirección o la Asamblea en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 152.
 
@@ -2541,7 +1495,9 @@ En caso de que exista al momento de entrar en vigor el presente Código Reglamen
 
 En las Colonias, Fraccionamientos o Unidades Habitacionales, en las que exista al momento de entrar en vigor el presente Código Reglamentario, dos o más Mesas Directivas de Vecinos o bien no exista tal, se procederá a realizar la Convocatoria correspondiente según lo establecido en el presente ordenamiento.
 
-### CAPÍTULO III. DE LA COMISARIA O COMISARIO PÚBLICO
+### CAPÍTULO 10. SEGURIDAD VIAL Y TRÁNSITO MUNICIPAL
+
+OBJETO Y ALCANCES
 
 ###### Artículo 155.
 
@@ -2819,7 +1775,7 @@ XII. Las demás que le confiera el presente capítulo.
 
 DE LAS SESIONES DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2010)</small>
 
 ###### Artículo 177.
 
@@ -3089,7 +2045,9 @@ III. Separación del cargo.
 
 ## TITULO II. DE LA JUSTICIA Y SEGURIDAD MUNICIPAL
 
-### CAPÍTULO IV. DE LAS JEFATURAS DE UNIDAD, LA PROCURADURÍA FEDERAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES Y LA UNIDAD DE ADMINISTRACIÓN Y FINANZAS
+### CAPÍTULO 11. PROTECCIÓN CIVIL MUNICIPAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 206.
 
@@ -3135,7 +2093,7 @@ I. Lugares públicos los de uso común, acceso público o libre tránsito, debie
 
 II. Lugares privados los no comprendidos en la fracción I que antecede y cuyo dominio corresponda exclusivamente a particulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 209.
 
@@ -3285,7 +2243,7 @@ p) Transporten animales feroces y de espectáculos sin jaulas o camiones que gar
 
 q) Inciten a los animales para que se acometan entre ellos o hacer peleas provocadas en un espectáculo público o privado; quedando exceptuadas de esta sanción las corridas de toros, novillos y becerros, así como las peleas de gallos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. CONTRA LOS BIENES DE PROPIEDAD PRIVADA Y PROPIEDAD DEL MUNICIPIO y se sancionará con: 1.- Amonestación, 2.- Multa de quince a cien días de salario mínimo general vigente en el Municipio de Puebla, al momento de determinarla, 3.- Arresto hasta treinta y seis horas, o 4.- Trabajo a favor de la comunidad, a las personas que:
 
@@ -3899,7 +2857,7 @@ V. No haber sido suspendido o inhabilitado para el desempeño de un cargo públi
 
 VI. Aprobar los exámenes que para tal efecto establece el presente Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 234.
 
@@ -3931,7 +2889,7 @@ VII. Presentar a los infractores cuantas veces lo disponga el Juez Calificador;
 
 VIII. No permitirá la estancia de los remisos o detenidos en la sección de la Alcaldía, sino que inmediatamente de recibirlos deberá trasladarlos a la celda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 235.
 
@@ -4115,7 +3073,7 @@ Cuando las personas presentadas denoten peligrosidad o intenciones de evadirse s
 
 Cuando el presunto infractor padezca alguna enfermedad mental, a consideración del Médico de Turno, el Juez Calificador suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo y a faltas de éstas, al Ministerio Público y a las autoridades del Sector Salud que deban intervenir, a fin de que se le proporcione la ayuda asistencial que se requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 241.
 
@@ -4129,7 +3087,7 @@ c) Si el probable infractor, no estuviere acompañado de una persona que fuera t
 
 d) Si transcurridas tres horas a partir del llamado a la Dirección de los Juzgados Calificadores, sin que se logre la comparecencia del traductor o interprete, el Juez sobreseerá el procedimiento y autorizará la salida del probable infractor.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -4247,7 +3205,11 @@ Es facultad del Presidente Municipal, resolver cualquier duda, respecto a la int
 
 En contra de las determinaciones que realice el Juez Calificador procederá el Recurso de Inconformidad en la forma y términos establecidos en el artículo 252 de la Ley Orgánica Municipal.
 
-### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
+### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 #### SECCIÓN PRIMERA DE LA JUNTA DE GOBIERNO
 
@@ -4313,7 +3275,7 @@ DE LA COMPETENCIA Y ATRIBUCIONES
 
 El Ayuntamiento, a través de la Secretaría de Seguridad Pública y Tránsito Municipal, la Dirección de Tránsito Municipal, los agentes de vialidad estarán facultados para la aplicación y observancia de las disposiciones contenidas en el presente Capítulo y, en lo conducente, de los preceptos contenidos en los ordenamientos federales y estatales en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 259.
 
@@ -4425,7 +3387,7 @@ De acuerdo con el artículo 259 del presente Código, los agentes, están facult
 
 La Dirección de Tránsito instalará programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas, para conductores de vehículos para salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 261.
 
@@ -4657,7 +3619,7 @@ Los propietarios y conductores de vehículos deben evitar que éstos sean conduc
 
 DE LOS PEATONES Y PASAJEROS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 279.
 
@@ -4751,7 +3713,7 @@ El conductor que permita alguna de estas infracciones, será sancionado en los m
 
 DE LAS SEÑALES UTILIZADAS PARA REGULAR EL TRÁNSITO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 284.
 
@@ -5971,9 +4933,9 @@ Para la aplicación del presente Capítulo, se estará en todo caso a lo estable
 
 En caso de duda, se faculta al Presidente Municipal para la interpretación de las disposiciones del presente Capítulo.
 
-### CAPÍTULO VI. DE LAS DIRECCIONES GENERALES
+### CAPÍTULO 13. ESPECTACULOS TAURINOS
 
-#### SECCIÓN PRIMERA. DE LAS DISPOSICIONES COMUNES
+DISPOSICIONES GENERALES
 
 ###### Artículo 377.
 
@@ -6121,7 +5083,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -6357,11 +5319,11 @@ XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo 
 
 XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
 
-(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medidas de seguridad que controlen sus accesos; y
 
-(ADICIONAR, P.O. 31 DE DICIEMBRE DE 2008)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
@@ -7073,9 +6035,9 @@ El Programa Municipal de Protección Civil del Municipio de Puebla y sus respect
 
 ## TÍTULO I. DE LOS ESPECTÁCULOS EN EL MUNICIPIO DE PUEBLA
 
-### CAPÍTULO VII. DE LA SUPLENCIA DE LAS PERSONAS SERVIDORAS PÚBLICAS
+### CAPÍTULO 14. VENTA DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PUEBLA
 
-> <small>(F. DE E., D.O.F. 31 DE MARZO DE 2020)</small>
+DISPOSICIONES GENERALES
 
 ###### Artículo 474.
 
@@ -10721,10 +9683,6 @@ XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de p
 
 Son autoridades competentes en la aplicación del presente Capítulo las señaladas en el artículo 639 Ter fracciones I y II, en el ámbito de su competencia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
-
-DE LA LICENCIA DE FUNCIONAMIENTO
-
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 639 Quinquies.
@@ -10929,9 +9887,11 @@ VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no co
 
 DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10939,7 +9899,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -11321,13 +10281,17 @@ Contra la resolución que se emita para efectos de los párrafos que anteceden, 
 
 (DEROGADO, P.O. 27 DE MARZO DE 2006)
 
-# LIBRO TERCERO. URBANÍSTICA DEL MUNICIPIO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+# LIBRO TERCERO. ACCIONES URBANÍSTICAS Y EDIFICACIONES EN EL MUNICIPIO DE PUEBLA
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ### CAPÍTULO 19. LIMPIA, RECOLECCIÓN Y DISPOSICIÓN FINAL DE RESIDUOS
 
 DISPOSICIONES GENERALES
 
-## TÍTULO ÚNICO. DEL DESARROLLO URBANO SUSTENTABLE
+## TÍTULO ÚNICO. CONTROL DEL DESARROLLO URBANO SUSTENTABLE
 
 ###### Artículo 655.
 
@@ -12235,13 +11199,51 @@ Las zonas, áreas o destinos afectas para equipamiento urbano estarán bajo el r
 
 ALINEAMIENTO Y NÚMERO OFICIAL
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 701.
 
-ALINEAMIENTO.- Se entiende por alineamiento oficial, la fijación sobre el terreno, de la línea que señala el límite de una propiedad particular con una vía pública establecida o por establecerse a futuro determinado.
+ALINEAMIENTO.- Se entiende por alineamiento, la fijación sobre el terreno, de la línea que señala el límite de una propiedad con una vía pública establecida en el Programa Municipal de Desarrollo Urbano sustentable vigente.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 702.
 
-NUMERO OFICIAL.- La Dirección, previa solicitud, señalará para cada predio que tenga frente a la vía pública un sólo número oficial que corresponderá a la entrada del mismo. El costo que se asigne al documento que consigne el alineamiento y número oficial, se determinará únicamente de acuerdo al número de metros lineales que limite al predio con la vía pública, con base en la Ley de Ingresos vigente.
+NÚMERO OFICIAL.- El número oficial, es la asignación numérica o alfanumérica que le corresponde a un predio en la secuencia predeterminada por cada vía pública. La Dirección, previa solicitud, señalará para cada predio que tenga frente a la vía pública un sólo número oficial que corresponderá a la entrada del mismo. El costo que se asigne al documento que consigne el alineamiento y número oficial, se determinará únicamente de acuerdo al número de metros lineales que limite al predio con la vía pública, con base en la Ley de Ingresos vigente.
+
+El Alineamiento y Número Oficial estará vigente en tanto el predio objeto del mismo, no sufra alguna modificación tal como fusión, división, subdivisión o segregación, o bien cuando la Autoridad Municipal cambie el nombre de la calle donde se encuentra el predio, aplique algún programa de reordenamiento urbano, o a la actualización del Programa Municipal de Desarrollo Urbano Sustentable de Puebla, en cuyos casos informará a la Dirección de Catastro de la Tesorería, para la reasignación de la clave única catastral.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 702 Bis.
+
+Toda persona física y moral que conforme a las leyes esté en el ejercicio de sus derechos civiles, puede solicitar el alineamiento y número oficial, ya sea, por sí o por quien legalmente la represente.
+
+La Dirección recibirá las solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y entregará comprobante de ingreso del trámite a quien lo presente.
+
+La Dirección, analizará y revisará la procedencia de las solicitudes de alineamiento y número oficial de acuerdo con el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, si es procedente emitirá el alineamiento y número oficial en el término de dos días hábiles, en el caso de improcedencia la Dirección deberá fundar y motivar la misma.
+
+Si dentro de los cinco días hábiles siguientes a la solicitud del trámite la Dirección no acuerda respecto su procedencia o improcedencia, operará la afirmativa ficta a favor del solicitante, en cuyo caso recaerá la responsabilidad en el servidor público que conozca del trámite, por lo que deberá darse vista a la Contraloría Municipal, para determinar las sanciones administrativas correspondientes.
+
+Será obligación de los solicitantes comparecer ante la Dirección para conocer e imponerse de las resoluciones que recaigan a su trámite. En caso de que los solicitantes no se presenten dentro de los cinco días siguientes al inicio del trámite, para notificarse de la resolución que recaiga al mismo, se fijará la resolución respectiva en los estrados o tablas de aviso de la Dirección.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 702 Ter.
+
+Las reglas para la determinación de la asignación del número oficial son:
+
+I. La asignación seguirá una secuencia lógica ascendente de acuerdo con la numeración existente en la calle, avenida o manzana en que se ubique el predio correspondiente;
+
+II. Los predios con dos o más frentes a la vía pública solamente podrán tener asignado un número oficial. El propietario o poseedor determinará en su solicitud la vía pública por la que requiera sea asignado el número oficial, siempre y cuando no exista un antecedente oficial sobre dicho predio;
+
+III. Cuando un predio se subdivida en dos o más fracciones, a cada una de las mismas, se les asignará el número oficial que le corresponda, seguido de una letra en orden alfabético;
+
+IV. Cuando dos o más predios se fusionen en una sola unidad, el número oficial será el que la autoridad establezca de la serie que por secuencia le corresponden a los predios sin fusionar; y
+
+V. Cuando un número oficial haya sido asignado a dos o más predios, la Dirección determinará siguiendo la regla de la fracción I del presente numeral, qué número oficial le corresponde a cada uno de ello (sic), sin perjuicio de los procedimientos.
+
+Para la asignación de Número Oficial en la Zona de Monumentos, se respetará el número que tenga reconocido en el Decreto Presidencial de fecha 18 de noviembre de 1977.
 
 ###### Artículo 703.
 
@@ -12277,13 +11279,31 @@ USOS Y DESTINOS DEL SUELO
 
 Corresponde a la Dirección, la administración de la zonificación comprendida en el Programa de Desarrollo Urbano, regulando entre otros, los usos, reservas territoriales ó ecológicas, destinos y provisiones en el Municipio, con base en dichos Programas.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La Dirección resolverá sobre las solicitudes de referencia que estén debidamente integradas, en un término de tres días hábiles, informando al solicitante el resultado y en caso de improcedencia deberá fundar y motivar la misma, dejando constancia en el expediente electrónico interno.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+###### Artículo 707 Bis.
+
+Toda acción de urbanización tales como apertura, ampliación, o prolongación de calles, cualquier forma de lotificación, división, subdivisión, fraccionamiento, fusión, o cualquier acto de construcción de inmuebles, incluso solares de ejidatarios o comuneros, se sujetará a lo dispuesto por la Ley Agraria de los Estados Unidos Mexicanos, la Ley General de Asentamientos Humanos, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, el presente ordenamiento y demás ordenamientos aplicables.
+
+En términos de lo dispuesto por la Ley Agraria de los Estados Unidos Mexicanos, queda prohibida la urbanización de las tierras ejidales que se ubiquen en áreas naturales protegidas, incluyendo las zonas de preservación ecológica de los centros de población, cuando se contraponga a lo previsto en la declaratoria respectiva.
+
+En todo lo relacionado con fraccionamiento, división y subdivisión de predios, la Dirección podrá determinar los requisitos que deberán presentarse, los cuales deberán estar apegados a lo establecido en la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 708.
 
-La construcción, adaptación, reconstrucción, ampliación, modificación de edificaciones o instalaciones; el uso, destino o cambio de uso en inmuebles, áreas o predios, y toda obra sobre inmuebles deberá obtener, previa a la ejecución de dichas acciones, obras ó utilización, la licencia de uso de suelo expedida por la Dirección, así como la manifestación de impacto ambiental.
+La construcción, adaptación, reconstrucción, ampliación, modificación de edificaciones o instalaciones, el uso, destino o cambio de uso en inmuebles, áreas o predios y toda obra sobre inmuebles deberá obtener, previa a la ejecución de dichas acciones, obras o utilización, la licencia de uso de suelo expedida por la Dirección, así como la manifestación de impacto ambiental, en los supuestos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla y su Reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 709.
 
-PROHIBICIÓN DE CONSTRUCCIÓN EN ZONAS DE RIESGO.- Se prohíbe todo tipo de construcción en las zonas de derrumbes, de ruidos, de conflagración, inundables, de ruinas, de dunas, y aquellas indicadas en los planes.
+PROHIBICIÓN DE CONSTRUCCIÓN EN ZONAS DE RIESGO.- Se prohíbe todo tipo de construcción en las zonas de derrumbes, de ruidos, de conflagración, inundables, de ruinas, de dunas y aquéllas indicadas en los planes y programas de desarrollo urbano, nacionales, estatales o municipales.
 
 LICENCIAS, PERMISOS Y AUTORIZACIONES
 
@@ -12291,17 +11311,21 @@ LICENCIAS, PERMISOS Y AUTORIZACIONES
 
 CONSTANCIA DE USO DE SUELO: La constancia de uso de suelo es el documento en el que se indica la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización del suelo, y el uso o destino asignado por el Programa de Desarrollo Urbano, consignados en la carta urbana vigente, para un inmueble determinado, teniendo validez para efectos de carácter notarial.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 711.
 
-A la solicitud de constancia de uso de suelo se anexarán:
+Los requisitos generales que deberán presentarse para solicitar la constancia de uso de suelo, licencia de uso de suelo y licencia de uso de suelo específico son:
 
-I. La documentación que ampare la propiedad, posesión o tenencia del inmueble o predio;
+I. Formato de solicitud de trámite, debidamente integrado y con firma autógrafa del interesado;
 
-II. Alineamiento y número oficial actualizado;
+II. Copia simple de identificación oficial con fotografía y en su caso, documento que acredite la personalidad del interesado;
 
-III. Fotografía del inmueble; y
+III. Copia simple de comprobante de domicilio;
 
-IV. Los demás requisitos determinados por la Dirección, y que se consideren necesarios, de acuerdo con las características del inmueble.
+IV. Sólo para obtener licencia de uso de suelo específico, fotografías del bien inmueble: dos interiores y dos exteriores, incluyendo fachada principal, posterior y áreas descubiertas; y
+
+V. En caso de que se trate de una construcción mayor de cinco años se solicitará el comprobante de antigüedad correspondiente del inmueble.
 
 FACTIBILIDAD DE USO DE SUELO
 
@@ -12309,23 +11333,35 @@ FACTIBILIDAD DE USO DE SUELO
 
 La factibilidad de uso de suelo es el documento expedido por la Dirección, a solicitud del interesado, en el que se indica la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización de suelo, y el uso que en términos de el Programa de Desarrollo Urbano, así como en la normatividad aplicable, que es factible para desarrollar en un predio determinado, consignados en la carta urbana vigente.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La Dirección podrá otorgar la Factibilidad de Uso de Suelo sobre el inmueble en función de los usos y destinos que autorice el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, y estará vigente en tanto no se modifique el Programa de referencia.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
 ###### Artículo 713.
 
-A la solicitud de factibilidad de uso de suelo se acompañará:
+Los requisitos generales que deberán presentarse para solicitar la factibilidad de uso de suelo son:
 
-I. Documentación que ampare la propiedad, posesión o tenencia del predio o inmueble en general;
+I. Formato de solicitud de trámite, debidamente integrado y con firma autógrafa del interesado;
 
-II. Alineamiento y número oficial actualizado;
+II. Copia simple de identificación oficial con fotografía y en uso (sic) caso, documento que acredite la personalidad del interesado;
 
-III. Fotografía del inmueble;
+III. Copia simple de comprobante de domicilio;
 
-IV. Indicación del uso que se propone para el inmueble; y
+IV. Sólo para obtener licencia de uso de suelo específico, fotografías del bien inmueble: dos interiores y dos exteriores, incluyendo fachada principal, posterior y áreas descubiertas; y
 
-V. Los demás requisitos que sean necesarios, de acuerdo a la naturaleza de la obra o actividad.
+V. En caso de que se trate de una construcción mayor de cinco años se solicitará el comprobante de antigüedad correspondiente del inmueble.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 714.
 
-La constancia de factibilidad y la constancia de uso de suelo no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo. Los derechos que cause la factibilidad de uso de suelo, se tomarán a cuenta de la licencia de uso de suelo.
+La constancia de factibilidad y la constancia de uso de suelo no autorizan la utilización o aprovechamiento del suelo, siendo documentos de carácter meramente indicativo (sic).
+
+La Dirección emitirá la constancia de uso de suelo en la que se indicará la densidad de vivienda por hectárea, los coeficientes de ocupación y utilización del suelo y el uso actual del bien inmueble, asignado por el Programa Municipal de Desarrollo Urbano Sustentable de Puebla, consignados en la Carta Urbana vigente.
+
+La constancia de uso de suelo, será vigente en tanto no se modifique el uso conforme al Programa Municipal de Desarrollo Urbano Sustentable de Puebla o los metros cuadrados del bien inmueble.
 
 LICENCIA DE USO DE SUELO
 
@@ -12338,6 +11374,22 @@ En todo caso, para la edificación sobre un predio, se deberá obtener posterior
 ###### Artículo 716.
 
 Las constancias de uso de suelo, las de factibilidad y las licencias de uso del suelo no constituyen o acreditan apeo y deslinde, ni derechos reales, como propiedad o posesión respecto a los inmuebles sobre los que se otorgan; y se expiden sin afectación a derechos de terceros.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La licencia de uso de suelo, estará vigente en tanto no se modifique el uso conforme al Programa Municipal de Desarrollo Urbano Sustentable de Puebla o se rectifiquen la superficie, medidas o colindancias del bien inmueble.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La Dirección emitirá la licencia de uso de suelo, que indica las normas específicas de utilización y aprovechamiento urbano, así como las medidas de mitigación para una actividad o proyecto en un inmueble determinado, conforme a su Zonificación y lo dispuesto por los programas de Ordenamiento Territorial y Desarrollo Urbano, en un término de cinco días hábiles.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Será obligación de los solicitantes comparecer ante la Dirección para conocer e imponerse de las resoluciones que recaigan a su trámite. En caso de que los solicitantes no se presenten dentro de los cinco días siguientes al inicio del trámite, para notificarse de la resolución que recaiga al mismo, se fijará la resolución respectiva en los estrados o tablas de aviso de la Dirección.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+La norma urbana contenida en la licencia de uso del suelo será la misma durante todo el tiempo que se encuentre vigente el Programa Municipal de Desarrollo Urbano Sustentable de Puebla con el que se emite, sin perjuicio de las contribuciones a que está obligado su Titular.
 
 ###### Artículo 717.
 
@@ -12509,7 +11561,9 @@ Las obras, construcciones, ampliaciones o modificaciones que se hagan sin autori
 
 Las licencias de uso de suelo que se expidan en afectaciones, se considerarán en todo caso como condicionadas; los poseedores de inmuebles afectados para vía pública futura, utilizarán los predios de conformidad con las normas condicionantes que se señalen en la licencia respectiva, debiendo retirar o demoler por su propia cuenta las construcciones, instalaciones o estructuras realizadas en el momento que sea determinado por el Ayuntamiento, dejando de surtir efectos la licencia respectiva.
 
-Restricción es el área libre de terreno, en la cual no se podrá construir.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2011)</small>
+
+Restricción es el área libre de terreno, en la cual no se podrá construir, por tratarse de una vía de paso de instalaciones subterráneas, terrestres o aéreas de electricidad, gas, aguas nacionales o bienes de propiedad nacional.
 
 ###### Artículo 729.
 
@@ -16571,7 +15625,7 @@ VII. Salidas, rampas, pasillos y escaleras.
 
 ###### Artículo 1108.
 
-La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de “Informe de autorización” expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
+La constancia de terminación de obra o construcción en inmuebles de reunión masiva requerirá la obtención previa de "Informe de autorización" expedido por la UOMPROCI según el caso, en el que se haga constar el cumplimiento de las disposiciones consignadas en este apartado.
 
 ###### Artículo 1109.
 
@@ -19411,7 +18465,7 @@ II. No se permitirán anuncios de este tipo en inmuebles destinados a uso habita
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-IIl. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
+III. La altura máxima de los objetos en que figure la publicidad deberá ser de acuerdo a lo que determine la Unidad Operativa Municipal de Protección Civil, previo Dictamen que para tal efecto realice;
 
 IV. Si el objeto es colocado directamente en el piso, debe contar con una protección en forma de valla a cuando menos 2 metros alrededor del mismo;
 
@@ -24303,8 +23357,6 @@ Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artícu
 
 El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del Rastro al que pertenece será inspeccionado por la autoridad sanitaria municipal; la disposición de éste será de acuerdo al criterio del médico veterinario responsable oficial o aprobado; cuando el producto cárnico esté en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, será resellado con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; en caso contrario deberá ser decomisado haciéndose constar tal situación en el acta de decomiso correspondiente y el propietario, a su costa, deberá enviarlo a la planta de rendimiento de su elección para su aprovechamiento como harina de carne y/o desnaturalización, o en su caso, incineración.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 1637 Bis 1.
 
 Para el caso de la reinspección de los productos cárnicos y/o subproductos procedentes de otro establecimiento, los inspectores municipales procederán de la siguiente manera:
@@ -25373,7 +24425,7 @@ El particular podrá impugnar los actos administrativos derivados de la aplicaci
 
 > <small>(REFORMADO EN SU ESTRUCTURA, P.O. 15 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA RABIA
+### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA ZOONOSIS
 
 DISPOSICIONES GENERALES
 
@@ -27699,6 +26751,8 @@ DEL RECURSO INCONFORMIDAD
 
 Las resoluciones dictadas por la autoridad Municipal con motivo de la aplicación del presente Capítulo y disposiciones que de él emanan, que apliquen sanciones y causen agravio personal y directo, podrán ser recurridas en términos de la Ley Orgánica Municipal.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
+
 ### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
@@ -27709,15 +26763,23 @@ El presente Capítulo es de observancia general en el Municipio de Puebla; sus d
 
 I. Propiciar la protección y conservación de los animales no nocivos al hombre, dentro del territorio del Municipio de Puebla;
 
-II. Formular criterios de sustentabilidad para proteger la vida de los animales, y su reproducción;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. Formular criterios de sustentabilidad para proteger la vida, la reproducción y las demás condiciones naturales de desarrollo y bienestar de los animales domésticos y silvestres, dentro del territorio del Municipio de Puebla y en el ámbito de su competencia;
 
 III. Establecer las atribuciones que corresponden a las autoridades del Municipio de Puebla en las materias derivadas del presente Capítulo;
 
-IV. Regular el trato digno y respetuoso a los animales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-V. Definir criterios generales para el trato humanitario a los animales;
+IV. Regular el trato digno y respetuoso a los animales, conforme a las leyes, Normas Oficiales Mexicanas, reglamentos y demás disposiciones jurídicas aplicables que permitan actuar en contra de las personas que los traspasen y con ello dañen el bienestar o abusen activa o pasivamente de la condición de vulnerabilidad e indefensión, de cualquier animal no nocivo con el que se relacionen directamente;
 
-VI. Promover las medidas para el transporte y sacrificio humanitario de los animales, destinados o no al consumo humano;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+V. Definir criterios generales para calificar adecuadamente el trato humanitario a los animales, así como el derecho de cualquier persona a exigir a terceros los comportamientos que las normas consideren obligatorios en sus relaciones con los animales no nocivos o solicitar la intervención de las autoridades competentes para hacerlos cumplir, como para promover la protección, conservación, adopción y salvaguarda de los animales abusados, maltratados o abandonados, en su caso;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VI. Promover las medidas para el transporte y sacrificio humanitario de los animales, destinados o no al consumo humano, de acuerdo con lo establecido en la Ley de Protección a los Animales para el Estado de Puebla, las disposiciones de este Código en el Capítulo de Seguridad Vial y Tránsito Municipal, en materia de transporte de animales, la Norma Oficial Mexicana NOM-024-ZOO-1995 y demás disposiciones aplicables a la materia;
 
 VII. Promover la cultura de protección de los animales y propiciar en la comunidad actitudes de respeto hacia la naturaleza;
 
@@ -27725,91 +26787,183 @@ VIII. Fomentar la participación de los sectores social y privado; y
 
 IX. Fijar el procedimiento correspondiente a la denuncia, vigilancia, medidas de seguridad y sanciones.
 
-En todo lo no previsto en el presente Capítulo, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+En todo lo no previsto en el presente Capítulo, se aplicarán las disposiciones contenidas en la Ley General de Vida Silvestre, la Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla, reglamentos, normas y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1832.
 
-Son objeto de tutela y protección del presente Capítulo, los animales y especies de fauna silvestre que se encuentren dentro del territorio del Municipio de Puebla.
+Son objeto de tutela y protección del presente Capítulo, en el ámbito de competencia que las leyes confieren a los Municipios, los animales, especies de fauna doméstica y silvestre que se introduzcan o se encuentren en el territorio del Municipio de Puebla.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 1833.
 
 Para los efectos del presente Capítulo, además de los conceptos definidos en la Legislación vigente y las Normas Oficiales Mexicanas, se entenderá por:
 
-Animal abandonado: los animales que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación; así como aquellos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Animal deportivo: los animales complementarios o que participen como elemento necesario en la práctica de algún deporte;
+I. Secretaría: Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla;
 
-Animal doméstico: los animales que dependan de un ser humano para subsistir y habiten con éste de forma regular;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Animal feroz: los animales que por su naturaleza se tornen violentos, agresivos y difíciles de someter;
+II. Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identidad u otra forma de identificación, así como aquéllos que queden sin el cuidado o protección de sus propietarios o poseedores dentro de los bienes del dominio privado;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Animal guía: los animales que son utilizados para apoyo terapéutico o adiestrados para ayudar a las personas con cualquier tipo y grado de discapacidad.
+III. Animal deportivo: Los animales complementarios o que participen como elemento necesario en la práctica de algún deporte;
 
-Animal para abasto: aquellos animales que sirven para consumo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Animal para espectáculos: los animales y especies de fauna silvestre mantenidas en cautiverio que son utilizados para o en un espectáculo público o privado bajo el adiestramiento del ser humano;
+IV. Animal doméstico: Los animales que dependan de un ser humano para subsistir y habiten con éste de forma regular;
 
-Animal para monta, carga y tiro: los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Animal para seguridad, protección o guardia: los animales que realicen las funciones de vigilancia, protección o guardia en establecimientos comerciales o prestación de servicios, casa-habitación o instituciones públicas y privadas, así como para ayudar en las acciones públicas dedicadas a la detección de estupefacientes, armas y explosivos y demás acciones análogas;
+V. Animal feraz: Los animales abandonados o silvestres, cuya excesiva fertilidad y multiplicación pueda implicar algún tipo de riesgo o peligro para la integridad, la salud o la seguridad de las personas, para el bienestar de otros animales o para el equilibrio ecológico del Municipio;
 
-Animal peligroso: los animales que por su naturaleza y constitución física pueden causar daño a las personas;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Asociaciones protectoras de animales: las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección a los animales, y que demuestren un trabajo de utilidad pública;
+VI. Animal feroz: Los animales que por su naturaleza se tornen violentos, agresivos y difíciles de someter;
 
-Aves de presa: aves carnívoras con alas, picos y garras adaptadas para cazar y que se adiestran para fines lícitos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Aves urbanas: conjunto de especies de aves que habitan en libertad en el área urbana;
+VII. Animal de zooterapia: Los animales complementarios o que son utilizados para o en apoyos terapéuticos o adiestrados para ayudar al desarrollo de las personas con cualquier tipo de discapacidad;
 
-Bienestar animal: respuesta fisiológica y de comportamiento adecuada de los animales para enfrentar o sobrellevar el entorno;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Campañas: acción pública realizada de manera periódica por la autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
+VIII. Animal para abasto: Aquéllos animales que sirven para consumo;
 
-Cautiverio: el alojamiento temporal o permanente de fauna en áreas o instalaciones distintas a su entorno natural, que no implique maltrato al mismo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IX. Animal para espectáculos: Los animales y especies de fauna silvestre mantenidas en cautiverio que son utilizados en un espectáculo público o privado bajo el adiestramiento del ser humano; los cuales deberán estar registrados e identificados de acuerdo a las disposiciones legales aplicables;
 
-Centro: El Centro Antirrábico, de Referencia Epidemiológica y de Control Animal dependiente de la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla, el cual realiza las funciones de captura, sacrificio humanitario de animales abandonados, la prevención y el control de la rabia, así como las demás actividades análogas;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Condiciones adecuadas: las condiciones de trato digno y respetuoso que este Capítulo establece, así como las referencias que al respecto determinan las normas oficiales mexicanas;
+X. Animal para monta, carga y tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe beneficios económicos a su propietario, poseedor o encargado;
 
-Consejo Municipal de Bioética: el Órgano de Consulta de la Autoridad Municipal, conformado por un académico especialista en bioética, un Médico General, un Médico Veterinario Zootecnista en representación de los Colegios, un biólogo y un representante de las Asociaciones protectoras de animales; todos éstos honoríficos, que tienen como atribución dejar en estado de resolución las solicitudes de experimentos con animales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Criadero: la cohabitación de dos ejemplares de la misma raza y diferente sexo con fines de reproducción para explotación comercial;
+XI. Animal para seguridad, protección o guardia: Los animales que realicen las funciones de vigilancia, protección o guardia en establecimientos comerciales o prestación de servicios, casa-habitación o instituciones públicas y privadas, así como para ayudar en las acciones públicas dedicadas a la detección de estupefacientes, armas y explosivos y demás acciones análogas;
 
-Crueldad: el acto de brutalidad, sádico o zoofóbico contra cualquier animal;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Epizootia: la enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
+XII. Animal peligroso: Los animales que por su naturaleza y constitución física pueden causar daño a las personas;
 
-Especies de fauna silvestre: las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores, que se encuentran bajo control del ser humano;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Fauna nociva: animales o plagas que por su naturaleza o número pongan en riesgo la salud o la seguridad públicas;
+XIII. Asociaciones protectoras de animales: Las instituciones de asistencia privada, organizaciones no gubernamentales y asociaciones civiles legalmente constituidas, que dediquen sus actividades a la protección a los animales, y que demuestren un trabajo de utilidad pública;
 
-Fauna silvestre: las especies animales que nacen, viven y mueren fuera del control del ser humano y cuya regulación está establecida en la Ley General de vida silvestre;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Insensibilización: acción con la que se induce rápidamente al animal a un estado en el que no siente dolor;
+XIV. Aves de presa: Aves carnívoras con alas, picos y garras adaptadas para cazar y que se adiestran para fines lícitos;
 
-Ley: la Ley de Protección a los Animales del Estado de Puebla o su similar vigente, sea cual fuere su denominación;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Lícito: permitido por la ley;
+XV. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el área urbana;
 
-Maltrato: todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, estrés o tormento que ponga en peligro la vida del animal o que afecten gravemente su salud, así como la sobre explotación de su trabajo; (estados de alteración)
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Mascotas: los animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
+XVI. Bienestar animal: Respuesta fisiológica y de comportamiento adecuada basada en los principios de la libertad de sed y hambre, la libertad de incomodidad, la libertad de dolor, la libertad de lesiones y enfermedad, la libertad de expresar un comportamiento normal, la libertad de miedo y angustia. Para enfrentar o sobrellevar el entorno;
 
-Oficial de control canino: personal técnico operativo del centro que realiza actividades de captura, vacunación, inspección, vigilancia y todas aquellas que se lleven a cabo en la vía pública de conformidad con este Capítulo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Sacrificio humanitario: el sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida sin dolor ni sufrimiento innecesario por métodos físicos o químicos, atendiendo a las normas oficiales mexicanas;
+XVII. Campañas: Acción pública realizada de manera periódica por la autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
 
-Trato humanitario: las medidas para evitar dolor innecesario o angustia a los animales durante su crianza, traslado, exhibición, comercialización, adiestramiento, cuarentena y sacrificio;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-Vivisección: abrir vivo a un animal para fines educativos o científicos; y
+XVIII. Cautiverio: El alojamiento temporal o permanente de fauna en áreas o instalaciones distintas a su entorno natural, que no implique maltrato a su bienestar;
 
-Zoonosis: la transmisión de enfermedades de los animales a los seres humanos.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIX. Centro: El Centro de Control Animal o Antirrábico, de referencia epidemiológica o de Atención Canina del Municipio de Puebla, dependiente del Departamento de Protección y Control Animal, de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla, el cual realiza las funciones de captura y sacrificio humanitario de animales abandonados o enfermos, con fines de prevención y control de las zoonosis, así como las demás actividades análogas;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XX. Condiciones adecuadas: Las condiciones de trato digno y respetuoso que este Capítulo establece, así como las referencias que al respecto determinan las Normas Oficiales Mexicanas, la Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla y demás disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXI. Consejo Municipal de Bioética: Es el órgano de Consulta de la Autoridad Municipal, teniendo como atribución dejar en estado de resolución las solicitudes de experimentos con animales. Se integrará previa convocatoria que emita y publique la Comisión de Salubridad y Asistencia del Honorable Ayuntamiento del Municipio de Puebla; conformado por:
+
+a) Académico especialista en bioética;
+
+b) Médico General;
+
+c) Médico Veterinario Zootecnista en representación de los Colegios;
+
+d) Biólogo; y
+
+e) Un representante de las Asociaciones protectoras de animales.
+
+Todos estos nombramientos serán honoríficos no recibirán remuneración económica.
+
+El cual se integrará dentro de los treinta días del mes de marzo, siendo los diez primeros para la emisión y publicación de la convocatoria y los veinte posteriores para la toma de protesta; con un periodo de vigencia de dos años; sesionando a solicitud de la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXII. Consejo: Consejo Ciudadano de los Derechos de los Animales, en términos de la Ley Orgánica Municipal;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXIII. Criadero: Área de cohabitación de dos ejemplares de la misma raza y diferente sexo con fines de reproducción para explotación comercial; que cumplan con las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXIV. Crueldad: El acto de brutalidad, sádico o zoofóbico contra cualquier animal.; (sic)
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXV. Departamento: El Departamento de Protección y Control Animal de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVI. Epizootia: La enfermedad que se presenta en una población animal durante un intervalo dado, con una frecuencia mayor a la esperada;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVII. Fauna nociva: Animales o plagas que por su naturaleza o número pongan en riesgo la salud o la seguridad pública;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXVIII. Fauna silvestre: Las especies animales que nacen, viven y mueren fuera del control del ser humano; subsisten sujetas a los procesos de selección natural, desarrollándose libremente, incluyendo sus poblaciones menores bajo control del ser humano y cuya regulación está establecida en la Ley General de Vida Silvestre;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXIX. Insensibilización: Acción con la que se induce rápidamente al animal a un estado en el que no siente dolor;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXX. Ley: La Ley de Protección a los Animales para el Estado Libre y Soberano de Puebla o su similar vigente, sea cual fuere su denominación;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXI. Maltrato: Todo hecho, acto u omisión, consciente o inconsciente, que pueda ocasionar dolor, estrés, tormento o algún otro estado de alteración que ponga en peligro la vida del animal o que afecte gravemente su salud, así como la sobreexplotación de su trabajo;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXII. Mascotas: Los animales y especies de fauna silvestre o doméstica que sirven de compañía o recreación del ser humano;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXIII. Oficial de control animal: Personal técnico operativo del Centro que realiza actividades de captura, vacunación, inspección, vigilancia, control y todas aquéllas que se lleven a cabo en la vía pública de conformidad con este Capítulo y demás ordenamientos aplicables de la materia;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXIV. Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, por métodos físicos o químicos, atendiendo a las Normas Oficiales Mexicanas;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXV. Trato humanitario: Las medidas indispensables para salvaguardar las condiciones naturales de desarrollo de los animales domésticos o en cautiverio, así como su manejo digno y respetuoso, con el fin de evitarles dolor innecesario o angustia durante su crianza, traslado, exhibición, comercialización, adiestramiento, tenencia, cuarentena y sacrificio;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXVI. Vivisección: Abrir vivo a un animal para fines educativos o científicos, observando siempre los procedimientos técnicos necesarios, dando trato humanitario, evitando el maltrato; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XXXVII. Zoonosis: La transmisión de enfermedades de los animales a los seres humanos.
 
 ###### Artículo 1834.
 
@@ -27817,9 +26971,11 @@ Las autoridades del Municipio de Puebla, en auxilio de las federales, salvaguard
 
 Así mismo las autoridades municipales auxiliarán a las federales para aplicar las medidas necesarias para la regulación del comercio de especies de fauna silvestre, sus productos o subproductos, mediante la celebración de convenios o acuerdos de coordinación.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1835.
 
-Toda persona tiene derecho a que la autoridad municipal ponga a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales. Asimismo, toda persona física o moral que maneje animales tiene la obligación de proporcionar la información que le sea requerida por la autoridad.
+Toda persona tiene derecho a que la autoridad municipal ponga a su disposición la información que le soliciten en materia de trato digno y respetuoso a los animales. Asimismo, toda persona física o jurídica que maneje, mantenga o esté encargada y/o posea uno o más animales, tiene la obligación de proporcionar la información que le sea requerida por la autoridad, así como exhibir al animal para la verificación del estado saludable del mismo. Todo esto con el propósito de proteger y salvaguardar tanto la vida como el trato humanitario, respetuoso y digno del animal.
 
 DE LA COMPETENCIA
 
@@ -27829,9 +26985,13 @@ Las autoridades municipales a las que este Capítulo hace referencia quedan obli
 
 Las autoridades municipales podrán en cualquier momento solicitar el apoyo e intervención del Gobierno del estado para el cumplimiento de este ordenamiento.
 
-El organismo público municipal descentralizado denominado Industrial de Abasto sacrificará a los animales en los términos de este Capítulo.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
-La persona que desempeñe el cargo de Jefe del Centro deberá ser Médico Veterinario Zootecnista titulado y contar con cédula profesional.
+El organismo público municipal descentralizado denominado Industrial de Abastos Puebla, sacrificará a los animales en los términos de este Capítulo y observando la Norma Oficial Mexicana 033 SAGARPA-2007, o la que fuere aplicable.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+La persona que desempeñe el cargo de inspector, de Jefe o Encargado del Centro, deberá ser Médico Veterinario Zootecnista titulado y contar (sic) cédula profesional.
 
 ###### Artículo 1837.
 
@@ -27849,17 +27009,57 @@ V. Celebrar convenios de concertación con los sectores público, social y priva
 
 VI. Las demás que le confiera la Ley, este Capítulo y los ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1838.
 
-Corresponde a la Agencia como ente de la Administración Pública Municipal, el ejercicio de las siguientes facultades:
+Corresponde a la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla, como ente de la Administración Pública Municipal, el ejercicio de las siguientes facultades:
 
-I. La promoción de información y difusión que genere una cultura cívica de protección, responsabilidad, respeto y trato digno a los animales;
+I. La promoción de información y difusión que genere la cultura cívica de protección, tenencia responsable, respeto y bienestar animal, trato digno a los animales;
 
-II. El desarrollo de programas de educación y capacitación en materia de trato digno y respetuoso a los animales, en coordinación con las autoridades competentes relacionadas con las instituciones de educación básica, media y superior, con las organizaciones no gubernamentales legalmente constituidas, así como el desarrollo de programas de educación no formal e informal con el sector social, privado y académico; y
+II. El desarrollo de programas de educación y capacitación en materia de trato digno y respetuoso a los animales, en coordinación con las autoridades competentes, relacionadas con las instituciones de educación básica, media y superior, con las asociaciones protectoras de animales, así como el desarrollo de programas de educación no formal e informal con el sector social, privado y académico; y
 
-III. Las demás que le confiera el Ayuntamiento, este Capítulo y los ordenamientos jurídicos aplicables.
+III. Las demás que le confieran el Ayuntamiento, este Capítulo, el Reglamento Interior de la Secretaría y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### Artículo 1838 Bis.
+
+Corresponde al Departamento el ejercicio de las siguientes facultades:
+
+I. Supervisar el cumplimiento de lo dispuesto por la Norma Oficial Mexicana NOM-011-SSA2-1993 aplicable en Materia de Prevención, Vigilancia y Control de la Rabia;
+
+II. Proporcionar información a la población en general respecto al problema de salud pública y la responsabilidad que implica poseer una mascota;
+
+III. Vigilar que el sacrificio de animales que realice el Centro, en los rastros del Municipio, Industrial de Abastos Puebla, los Médicos Veterinarios Zootecnistas y cualquier otra persona autorizada, se lleve a cabo en los términos de la NOM/033-SAGARPA-2007 y de este Capítulo;
+
+IV. Proceder a capturar animales abandonados, feroces, ferales o peligrosos que deambulen en la vía pública u otras áreas de uso común, en los términos del presente Capítulo, canalizando las especies de fauna silvestre a la autoridad competente;
+
+V. Elaborar el Registro Municipal de Perros y Gatos y el Catálogo de Animales Feroces y Peligrosos, conforme a lo dispuesto en este Capítulo;
+
+VI. Promover y desarrollar campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de vacunación que sean masivas y permanentes, de esterilización y de adopción, en su caso, en coordinación con las autoridades federales, estatales, municipales, con el sector privado, instituciones de educación superior, asociaciones protectoras de animales interesadas y el sector privado;
+
+VII. Recibir y admitir las denuncias que se presenten por violaciones a este Capítulo, dictar las resoluciones necesarias, practicar las medidas de inspección y vigilancia. Turnar las denuncias al Juez Calificador de la jurisdicción territorial correspondiente, para que éste las sustancie y dicte las resoluciones e imponga sanciones definitivas que correspondan, conforme a lo que establece este Capítulo y la Justicia Municipal del Código Reglamentario para el Municipio de Puebla y demás ordenamientos aplicables;
+
+VIII. Ordenar y aplicar las medidas de seguridad que establece este Capítulo y demás ordenamientos aplicables;
+
+IX. Supervisar la integración de los Padrones Municipales de Médicos Veterinarios Zootecnistas y de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, en los términos de este Capítulo;
+
+X. Retirar de la vía pública a los animales muertos, en coordinación con el Organismo Operador del Servicio de Limpia del Municipio de Puebla;
+
+XI. Enviar como residuos patológicos a empresas autorizadas para el manejo de los residuos peligrosos Biológico-Infecciosos, conforme lo establece la NOM-087-ECOL-1995, a los animales que hayan sido sacrificados, para evitar la propagación de enfermedades infecto-contagiosas;
+
+XII. Elaborar el registro de adiestradores, manejadores, así como empresas de seguridad que manejan animales feroces; a fin de conocer sus métodos, tener registro y control médico zootécnico de sus ejemplares;
+
+XIII. Atender los reportes de la observación de animales que soliciten las Instituciones de Salud y retroalimentar la información;
+
+XIV. Requerir en cualquier momento, a los propietarios, poseedores, encargados o custodios de animales agresores, sospechosos de rabia y/o de cualquier enfermedad contagiosa al hombre, que los presente y/o en su caso entreguen al Centro de Control Animal del Municipio de Puebla, para su observación médica y veterinaria correspondiente;
+
+XV. Atender los reportes de la ciudadanía o de otra área de la Administración Municipal, con respecto a los animales peligrosos o sin propietario que deambulen por la vía pública del Municipio, a fin de proceder a su captura;
+
+XVI. Practicar visitas domiciliarias con el objeto de verificar las condiciones sanitarias en las que se encuentren las mascotas que vivan en el inmueble, y emitir las observaciones pertinentes con el objeto de corregir las omisiones hechas a la Ley de Protección a los Animales, al Código Reglamentario para el Municipio de Puebla, al Reglamento de la Secretaría, cuando la posesión o custodia de los animales de compañía ocasiona problemas, emite ruidos excesivos, malos olores por acumulación de excretas o proliferación de insectos y estas condiciones causen daños a la salud pública; y
+
+XVII. Las demás que le confiera el Ayuntamiento, el Titular de la Secretaría, este Capítulo, el Reglamento Interior de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla, y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 1839.
 
@@ -27867,61 +27067,99 @@ Corresponde al Centro el ejercicio de las siguientes facultades:
 
 I. Cumplir con lo dispuesto con la Norma Oficial Mexicana NOM-011-SSA2-1993, aplicable en Materia de Prevención, Vigilancia y Control de la Rabia;
 
-II. Proporcionar información a la población en general respecto al problema de salud pública y la responsabilidad que implica poseer una mascota;
+II. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
 
-III. Aplicar el sacrificio a los animales en los mismos términos de este Capítulo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-IV. Enviar como residuos patológicos a empresas autorizadas para el manejo de los residuos peligrosos Biológico-Infecciosos, conforme lo establece la NOM-087-ECOL-1995, a los animales que hayan sido sacrificados, para evitar la propagación de enfermedades infecto-contagiosas;
+III. Aplicar el sacrificio de animales no destinados al consumo humano, en los mismos términos de este Capítulo, observando las Normas Oficiales Mexicanas, y demás disposiciones jurídicas aplicables.
+
+IV. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
 
 V. Poner a los animales a disposición de la autoridad competente;
 
-VI. Proceder a capturar animales abandonados y feroces en la vía pública, en los términos del presente Capítulo, canalizando los de fauna silvestre a la autoridad competente;
+VI. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
 
-VII. Elaborar el Registro Municipal de perros y gatos en los supuestos de este Capítulo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VIII. Establecer campañas de vacunación masivas y permanentes antirrábicas, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con las autoridades estatales;
+VII. Coadyuvar con el Departamento en la elaboración del Registro Municipal de Perros y Gatos, en los términos de este Capítulo y el Catálogo de Animales Feroces y Peligrosos;
 
-IX. Substanciar las denuncias que se presenten por violaciones a este ordenamiento, con el apoyo de las áreas de la Administración Pública Municipal que considere pertinentes;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-X. Aplicar las medidas de seguridad y sanciones que establece este Capítulo;
+VIII. Coadyuvar con el Departamento en la elaboración del Registro de Adiestradores, manejadores; así como empresas de seguridad que manejan animales feroces; a fin de conocer sus métodos, tener registro y control médico zootécnico de sus ejemplares;
 
-XI. Retirar de la vía pública a los animales muertos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XII. Elaborar el Catálogo de animales feroces y peligrosos para los efectos de este Capítulo; y
+IX. Establecer campañas de vacunación masivas y permanentes antirrábicas; campañas sanitarias para el control y erradicación de enfermedades zoonóticas de desparasitación, de esterilización y adopción en coordinación con las autoridades estatales;
 
-XIII. Las demás que le confiera el Ayuntamiento, este Capítulo y los ordenamientos jurídicos aplicables.
+X. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+
+XI. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XII. Auxiliar al Departamento en la integración de los Padrones Municipales de Médicos Veterinarios Zootecnistas y de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, para los efectos de este Capítulo;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIII. Esterilizar a los perros y gatos, en los casos que proceda:
+
+a) Adopción; y
+
+b) Convencimiento autorizado.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIV. Las demás que le confiera el Jefe del Departamento, el Titular de la Secretaría, el Ayuntamiento, este Capítulo y los ordenamientos jurídicos aplicables.
 
 DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1840.
 
-Las autoridades municipales promoverán la participación de las personas, las instituciones académicas y de investigación, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas, en las acciones gubernamentales relacionadas con el trato digno y respetuoso a los animales y podrán celebrar convenios de concertación con éstas.
+Las autoridades municipales promoverán la participación y cooperación de las personas, las instituciones académicas y de investigación, las asociaciones protectoras de animales y las organizaciones sociales legalmente constituidas, en las acciones gubernamentales relacionadas con la cultura de bienestar y el trato humanitario a los animales y podrán celebrar convenios de colaboración con éstas.
 
-Los particulares en lo personal y las asociaciones protectoras de los animales, prestarán su cooperación para alcanzar los fines que persigue este Capítulo.
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
 
-Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela del presente Capítulo, tiene el derecho de informar a la autoridad municipal de la existencia del mismo. Quien así lo haga será acreedor a un reconocimiento por parte del Ayuntamiento.
+###### Artículo 1840 Bis.
+
+Los (sic) personas físicas, asociaciones protectoras de animales y organizaciones sociales legalmente constituidas, podrán:
+
+I. Participar en las acciones que promueva el Gobierno Municipal, relacionadas con la cultura de bienestar y el trato humanitario a los animales, y prestar su cooperación para alcanzar los fines que persigue este Capítulo, en un marco de respeto y coordinación interinstitucional;
+
+II. Informar a la autoridad municipal, a través de la Secretaría, sobre la existencia de cualquier acto, hecho u omisión cometido en perjuicio de los animales objeto de tutela del presente Capítulo, del que tengan conocimiento;
+
+III. Coadyuvar con la Secretaría, el Departamento y el Centro, previo convenio suscrito con el Ayuntamiento, en el ejercicio de sus facultades, con el objeto de brindar capacitación, educación, protección, conservación y trato humanitario en términos de este Capítulo, y demás disposiciones jurídicas aplicables; y
+
+IV. Inscribirse en el Padrón Municipal de Asociaciones Protectoras de Animales y Organizaciones dedicadas al mismo fin, para los efectos de este Capítulo.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1841.
 
-El Centro podrá acreditar la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas que así lo soliciten, cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin, así como cuando se realicen visitas de verificación a establecimientos que manejen animales. Los observadores podrán emitir recomendaciones, las cuales no tendrán efectos jurídicos con respecto a los actos de autoridad.
+El Centro podrá acreditar la presencia como observadores de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas que así lo soliciten, cuando se realicen actos de sacrificio humanitario de animales en las instalaciones públicas destinadas para dicho fin, así como cuando se realicen visitas de verificación a establecimientos que manejen animales o se desarrolle cualquiera de las campañas previstas en el artículo 1839 fracción IX de este Capítulo. Los observadores podrán emitir recomendaciones, las cuales no tendrán efectos vinculatorios con respecto a los actos de autoridad.
 
-DE LA CULTURA PARA LA PROTECCIÓN A LOS ANIMALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
+
+DE LA CULTURA PARA LA PROTECCIÓN Y EL BIENESTAR DE LOS ANIMALES
 
 ###### Artículo 1842.
 
 Las autoridades municipales, en el ámbito de sus facultades, promoverán mediante programas y campañas de difusión la cultura de protección a los animales objeto de este Capítulo, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en el presente Capítulo en materia de trato digno y respetuoso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1843.
 
-La Agencia promoverá programas de formación en la cultura de protección a los animales, ante las autoridades competentes que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
+La Secretaría promoverá programas de formación en la cultura de protección y bienestar a los animales, ante las autoridades competentes; previo convenio suscrito con el Ayuntamiento, con las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales y asociaciones protectoras de animales.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1844.
 
-El Centro, por sí, o en coordinación de otros organismos y autoridades, realizará y/o promoverá la capacitación y actualización del personal en el manejo de animales a su cargo en los términos de este Capítulo, y en actividades de inspección y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente capítulo.
+El Centro, por sí, o en coordinación con otros organismos y autoridades, realizará o promoverá la capacitación y actualización del personal en el manejo de animales a su cargo en los términos de este Capítulo, y en actividades de inspección y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente Capítulo.
 
-Para cumplimentar con lo dispuesto en este artículo se buscara el apoyo de las autoridades federales y estatales correspondientes.
+Para cumplimentar con lo dispuesto en este artículo se buscará el apoyo de las autoridades federales y estatales correspondientes, asimismo de las personas, instituciones, asociaciones protectoras encargadas del bienestar animal y demás organizaciones sociales legalmente constituidas, que estén interesadas.
 
 DEL TRATO DIGNO Y RESPETUOSO A LOS ANIMALES
 
@@ -27933,13 +27171,21 @@ I. Azuzar a los animales para que se ataquen entre ellos o a las personas y hace
 
 II. Cualquier mutilación orgánica que no sea realizada por médico veterinario con cédula profesional;
 
-III. El abandono en la vía pública o por períodos prolongados en bienes de propiedad de particulares;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+III. El abandono de animales en la vía pública o por periodos prolongados en bienes de propiedad privada;
 
 IV. El golpear y torturar a un animal intencionalmente o por negligencia, así como la sobre explotación en el trabajo;
 
-V. El mantenimiento de animales en condiciones insuficientes de higiene, ventilación y movilidad que les causen o puedan causar hambre, sed, asfixia, insolación, dolor, daños graves a la salud, riesgo de accidentes o la muerte, así como no brindarles abrigo contra la intemperie;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VI. La muerte innecesaria o necesaria cuando ésta se produzca utilizando métodos o sustancias que prolonguen la agonía del animal, causándole dolor innecesario;
+V. El mantenimiento de animales en condiciones inadecuadas de higiene, ventilación y movilidad, que afecten su desarrollo natural y bienestar animal que les causen o puedan causar hambre, sed, asfixia, insolación, dolor, daños graves a la salud, riesgo de accidentes o la muerte, así como no brindarles abrigo contra la intemperie.
+
+Si en un predio propiedad particular, de área delimitada por muro o por valla no existiendo moradores en la propiedad, existiera un animal sin los elementos propios de bienestar animal. Se deberá dar la intervención correspondiente al Ministerio Público y si éste lo determina procedente, Bomberos o Protección Civil y un oficial de control animal del Departamento, podrán ingresar a la propiedad a fin de rescatar al animal en cuestión y realizar las medidas de seguridad requeridas;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VI. La muerte innecesaria o necesaria cuando ésta se produzca utilizando métodos o sustancias que prolonguen la agonía del animal, causándole dolor innecesario, o se practique por personas no autorizadas;
 
 VII. Los actos o acciones que sin motivo razonable o legítimo puedan causar dolor considerable o que afecten gravemente la salud del animal;
 
@@ -27981,9 +27227,23 @@ XIV. Vender o adiestrar animales en áreas en las que se atente contra la integr
 
 XV. Vender o alquilar animales vivos en la vía pública;
 
-XVI. Celebrar peleas de perros; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XVI. Celebrar peleas de perros y otros animales, salvo las excepciones previstas en la fracción I del artículo 1845;
 
 XVII. Arrojar animales sacrificados en barrancas, lotes baldíos con los residuos sólidos municipales o en sitios no aptos.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XVIII. No proporcionar agua y alimento diariamente a los animales que por su naturaleza así lo requieran;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIX. Molestar o azuzar a un animal en cautiverio o domesticado en exhibición, ya sea en eventos o lugares públicos; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XX. Realizar actos dolosos, ilegales e injustos que ocasionen la muerte o mutilación de animales no nocivos, considerando para tal efecto que la intervención quirúrgica, la vivisección y el sacrificio de animales, sólo podrán ser realizados, en los términos de este Capítulo, de las Normas Oficiales Mexicanas y demás disposiciones jurídicas aplicables, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional o por personas distintas previamente autorizadas por el Departamento.
 
 ###### Artículo 1847.
 
@@ -27997,25 +27257,35 @@ III. No se permitirá que el animal deambule solo en la vía pública, salvo que
 
 Las empresas privadas y las dependencias públicas que prestan servicios de seguridad deben inscribir a todos sus perros en el registro municipal de animales.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1848.
 
-Toda persona que mantenga, que esté encargada o posea uno o más animales, debe procurarles agua, alimento y espacio suficientes además de proporcionarle cuidados apropiados y los tratamientos veterinarios curativos y preventivos de las enfermedades de la especie.
+Toda persona que mantenga, que éste encargada o posea uno o más animales, debe procurarles agua, alimento diario, en el caso de que por la naturaleza del animal sea necesario, y espacio suficientes, además de proporcionarle cuidados apropiados y los tratamientos veterinarios curativos y preventivos de las enfermedades de la especie.
+
+En caso de que el propietario del animal por algún motivo tenga que dejarlo solo, tendrá que asegurar las condiciones necesarias para salvaguardar su vida, salud, bienestar animal y trato humanitario correspondiente. De hacer caso omiso, será sujeto a las sanciones y multas establecidas en el presente Capítulo, así como de resarcir los gastos en que incurra la Secretaría, en su caso, por el rescate y cuidado del animal.
 
 ###### Artículo 1849.
 
 Las personas que sean propietarias de peces, así como los establecimientos donde se comercialicen los mismos, deberán mantener las condiciones adecuadas dentro de las peceras, vidrieras o tanques que determine la autoridad competente.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1850.
 
-En todo lugar de estancia o cautiverio como circos, ferias, zoológicos, parques de diversiones, criaderos, centros de adiestramiento, tiendas de mascotas, clínicas veterinarias, pensiones públicas o privadas, establos, caballerizas, acuarios, bioparques y hospitales, se debe proporcionar a los animales, alimento, agua y las condiciones necesarias según su especie así como instalaciones adecuadas que les permitan libertad de movimiento, seguridad, salud e higiene, y contar con un Médico Veterinario Zootecnista responsable del establecimiento con cédula profesional garantizando con ello la salud y bienestar de los animales.
+En todo lugar de estancia o cautiverio como circos, ferias, zoológicos, parques de diversiones, criaderos, centros de adiestramiento, tiendas de mascotas, clínicas veterinarias, pensiones públicas o privadas, establos, caballerizas, acuarios, bioparques y hospitales, se debe proporcionar a los animales, alimento, agua y las condiciones adecuadas según su especie, así como instalaciones apropiadas que les permitan libertad de movimiento, seguridad, salud e higiene, y contar con un Médico Veterinario Zootecnista responsable del establecimiento con cédula profesional, con el objeto de garantizar la salud y bienestar de los animales y de salvaguardar las demás condiciones naturales para su desarrollo y subsistencia.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1851.
 
-Los circos, ferias, zoológicos, parques de diversiones, acuarios y bioparques deberán implementar durante sus espectáculos o recorridos mensajes educativos con respecto al manejo y protección de los animales con los que trabajen.
+Los circos, ferias, zoológicos, parques de diversiones, acuarios y bioparques, deberán implementar durante sus espectáculos o recorridos mensajes educativos con respecto al manejo, protección, trato digno y respetuoso de los animales con los que trabajen.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1852.
 
-Para la celebración de espectáculos públicos con mamíferos marinos, la autorización correspondiente estará sujeta al cumplimiento de la Norma Oficial Mexicana NOM-EM-135-SEMARNAT1-2001 y demás vigentes.
+Para la celebración de espectáculos públicos con animales, la autorización correspondiente estará sujeta al cumplimiento de la Norma Oficial Mexicana NOM-135-SEMARNAT-2004 o la que resulte aplicable a este Capítulo y demás ordenamientos legales aplicables.
 
 ###### Artículo 1853.
 
@@ -28025,25 +27295,33 @@ Los animales deportivos y los de monta, carga y tiro no deberán ser lastimados 
 
 La prestación del servicio de monta recreativa requiere autorización de la autoridad municipal, sujetándose a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1854.
 
-Los perros guía que asistan a personas con discapacidad visual o con otra discapacidad tendrán el libre acceso a todos los lugares públicos y transporte público.
+Los perros guía que asistan a personas ciegas o con otra discapacidad tendrán el libre acceso a todos los lugares públicos y transporte público.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1855.
 
-La captura de animales en la vía pública sólo puede realizarse cuando los animales deambulen, solos o en jauría, sin dueño aparente, deberá ser libre de maltrato.
+La captura de animales en la vía pública deberá ser libre de maltrato y sólo podrá realizarse cuando los animales deambulen, solos o en jauría, sin dueño aparente.
 
-La captura se realizará por los oficiales de control canino debidamente capacitados y equipados, evitando en cualquier momento actos de crueldad, tormento, sobre excitación o escándalo público.
+Todo perro en vía pública, debe ir acompañado de su tenedor o propietario y sujeto con una correa no mayor a tres metros.
 
-Las personas que acrediten la propiedad del animal pero la captura ya se haya realizado, al momento de la reclamación los oficiales de control canino le expedirán el comprobante correspondiente para recogerlo posteriormente en las instalaciones del Centro.
+La captura se realizará por los oficiales de control animal, debidamente capacitados y equipados, evitando en cualquier momento actos de crueldad, tormento o maltrato, sobre excitación o escándalo público.
 
-Asimismo, se sancionará a aquella persona que agreda a los oficiales de control canino, y que cause algún daño a vehículos o al equipo utilizado para tal fin.
+Las personas que acrediten la propiedad del animal después de que la captura se haya realizado, recibirán de los oficiales de control animal al momento de la reclamación, el comprobante correspondiente para que puedan recoger al animal posteriormente en las instalaciones del Centro.
+
+Las mascotas que hayan sido capturadas en razias, o por reporte de agresión, por parte del personal del Departamento se entregarán a las personas que acrediten la propiedad del ejemplar, previa esterilización y vacunación antirrábica del ejemplar; a fin de reducir la reproducción de estos ejemplares.
+
+Cualquier agresión a los oficiales de control animal o daño a los vehículos y equipo utilizados con motivo del cumplimiento de sus deberes, sancionará administrativamente el Juez Calificador, en los términos de este Capítulo; sin perjuicio de las responsabilidades civiles y penales que en su caso procedan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1856.
 
-El dueño podrá reclamar a su mascota que haya sido remitida a cualquier Centro dentro de las 72 horas siguientes a su captura, debiendo comprobar su propiedad o posesión mediante los datos del Registro Municipal de Animales, o cualquier documento que acredite su propiedad. En el caso de no existir ningún documento que acredite la propiedad de la mascota, el particular puede a fin de acreditarla, proporcionar al Centro las características físicas y de conducta particulares o especiales del animal del que se dice propietario, asimismo el Centro evaluará la reacción de la mascota ante la presencia de la persona que la reclama, una vez concluido el procedimiento anterior el Centro procederá a emitir su decisión sobre si el particular acreditó o no la propiedad de la mascota en cuestión.
+El dueño podrá reclamar a su mascota que haya sido remitida a cualquier Centro dentro de las 72 horas siguientes a su captura, debiendo comprobar su propiedad o posesión. En el caso de no existir ningún documento que acredite la propiedad o posesión de la mascota, el particular puede a fin de acreditarla, proporcionar al Centro las características físicas y de conducta particulares o especiales del animal del que se dice propietario o poseedor; asimismo, el Centro evaluará la reacción de la mascota ante la presencia de la persona que la reclama, una vez concluido el procedimiento anterior el Centro procederá a emitir su decisión sobre si el particular acreditó o no la propiedad o posesión de la mascota en cuestión.
 
 Es responsabilidad del Centro o cualquier institución, para todo animal que se retenga de manera temporal, separarlos conforme a su tamaño, alimentarlos adecuadamente y darles de beber agua limpia.
 
@@ -28059,7 +27337,11 @@ Las autoridades municipales deberán implantar acciones tendientes a la regulaci
 
 El transporte de animales en el Municipio de Puebla se rige por las siguientes disposiciones:
 
-I. El transporte por acarreo o en cualquier tipo de vehículo debe llevarse a cabo con los medios más adecuados, que no entrañen maltrato, fatiga extrema, inseguridad, condiciones antihigiénicas, aglomeración excesiva, insolación, carencia de descanso, de agua o de alimento;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+I. El transporte por acarreo o en cualquier tipo de vehículo debe llevarse a cabo con los medios más adecuados, que no entrañen crueldad, maltrato, fatiga extrema, inseguridad, condiciones antihigiénicas, aglomeración excesiva, insolación, carencia de descanso, de agua o de alimento.
+
+El traslado de las mascotas en vehículos se realizará con arneses en el asiento trasero del vehículo o en jaula transportadora asegurándose que la mascota pueda moverse dentro de la jaula y que ésta quede bien asegurada, No se podrá dejar una mascota dentro de un automóvil estacionado a menos que esté una persona con la mascota para asegurar su bienestar animal.
 
 II. Queda prohibido trasladar animales arrastrándolos, suspendidos de los miembros superiores o inferiores, en costales o cajuelas de automóviles;
 
@@ -28079,37 +27361,87 @@ IX. En caso de accidente durante la transportación serán auxiliados los animal
 
 X. Las demás que señalen las disposiciones jurídicas aplicables.
 
-Además cumplir con el trato digno en la movilización de animales se deberá cumplir con lo establecido en la Norma Oficial Mexicana NOM-051-ZOO-1995 y demás vigentes.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+Además de cumplir con el trato humanitario procurando su bienestar, en la movilización de animales, se deberá observar lo establecido en la Norma Oficial Mexicana NOM-051-ZOO-1995 y demás ordenamientos legales aplicables.
 
 DE LOS ANIMALES DOMESTICOS
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1860.
 
-En la vía pública, si un animal causa daños y perjuicios a terceros por no utilizar correa o bozal cuando sea el caso, el propietario, poseedor o custodio será sancionado administrativamente sin menoscabo de las responsabilidades civiles y penales correspondientes.
+En la vía pública, si un animal causa daños y perjuicios a terceros por no utilizar correa o bozal cuando sea el caso, el propietario, poseedor o custodio será sancionado administrativamente por el Juez Calificador, en términos de este Capítulo, sin menoscabo de las responsabilidades civiles y penales correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1861.
 
-Sin perjuicio de otras disposiciones aplicables, los propietarios de animales de compañía tienen la obligación de:
+Sin perjuicio de otras disposiciones aplicables, los propietarios, poseedores y encargados de animales domésticos tienen las siguientes obligaciones con sus animales a su cargo:
 
-I. Vacunar y esterilizar a los animales a su cargo;
+I. Vacunarlos y desparasitarlos;
 
-II. Recolectar las heces fecales de sus animales en vía pública y áreas comunes; y
+II. Esterilizarlos oportunamente a sus animales a su cargo;
 
-III. Guardar y exhibir cuando le sea solicitado, el certificado de vacunación respectivo.
+a) Hembras y machos antes del cruce desde los tres meses de nacidos;
 
-El propietario que no cumpla con las disposiciones de este artículo se hará acreedor a una sanción en términos de este Capítulo.
+b) A los 8 días siguientes después del cruce; y
+
+c) Después de parir si hay crías a las 15 semanas;
+
+III. Proporcionarles agua, alimento diariamente, protección de la intemperie y atención veterinaria;
+
+IV. Recolectar las heces fecales de sus animales en vía pública y áreas comunes, y depositarlas en bolsas o cartón biodegradables, para disponer de ellas como residuos orgánicos y evitar la contaminación ambiental;
+
+V. Guardar y exhibir, cuando le sea solicitado, el certificado o el documento que acredite la vacunación y en su caso, esterilización respectivo;
+
+VI. Inscribir los perros, gatos y mascotas a su cargo en el Registro Municipal de Perros y Gatos, a cargo del Departamento, trámite que no tendrá costo alguno y que servirá para tener las referencias de los animales inscritos, para las reclamaciones y demás gestiones a que haya lugar;
+
+VII. Colocarles una correa, para poder transitar con éllos en la vía pública, así como responder de los daños y perjuicios que llegaren a causar a terceros, en caso de que les permita andar libremente, se le escapen o los abandone en la vía pública; con bozal en caso de los considerados feroces tales como los perros con acondicionamiento para guardia y protección y las razas tales como:
+
+a) Pitt Bull Terrier;
+
+b) Staffordshire Bull Terrier;
+
+c) American Staffordshire Terrier;
+
+d) Rottweiler;
+
+e) Dogo Argentino;
+
+f) Fila Brasileiro;
+
+g) Tosa Inu; y
+
+h) Akita Inu;
+
+O cualquiera de sus cruces con estas razas de animales;
+
+VIII. Educarlos o adiestrarlos, para asegurar su buen comportamiento y evitar que ataquen o dañen a terceros;
+
+IX. Colocarles permanentemente una placa, brazalete o anillo de identificación, en el que consten al menos el nombre del animal o su número de registro y datos del propietario;
+
+X. En general, tratarlos humanitariamente y protegerlos de cualquier maltrato por parte de terceros; y
+
+XI. Garantizar el estado sanitario, así como la reproducción responsable de los animales a su cargo.
+
+El propietario que no cumpla con las disposiciones de este artículo o declara falsamente a las autoridades utilizando certificados de vacunación o placas correspondientes a otros animales, se hará acreedor a ser sancionado en términos (sic) este Capítulo.
 
 ###### Artículo 1862.
 
 Toda persona física o moral que se dedique a la cría, venta o adiestramiento de animales está obligada a cumplir con las disposiciones de la Norma Oficial Mexicana NOM- 148-SCFI- 2001, que establece las prácticas comerciales-elementos normativos para la comercialización de animales de compañía o de servicio, y para la prestación de servicios para su cuidado y/o adiestramiento. Sin perjuicio de las demás disposiciones jurídicas aplicables se observarán los siguientes criterios:
 
-I. Es obligatorio contar con la autorización correspondiente;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+I. Es obligatorio contar con la autorización correspondiente que expide el Departamento, a fin de garantizar el cumplimiento de los elementos del bienestar animal;
 
 II. Debe llevar un registro que estará a disposición de las autoridades municipales en el que constarán los datos de los animales que estén bajo su custodia;
 
 III. Las instalaciones deben estar en buenas condiciones higiénico-sanitarias de acuerdo con las normas jurídicas aplicables;
 
-IV. La educación o adiestramiento de los animales se realizará con los métodos adecuados a la especie y tamaño, libre de maltrato, por lo que se deberá consultar a expertos en la materia;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+IV. La educación o adiestramiento de los animales se realizará con los métodos adecuados a la especie y tamaño, libre de crueldad o maltrato, por lo que se deberá registrarse (sic) en el catálogo de prestadores de estos servicios y estar autorizado por el Departamento;
 
 V. En el adiestramiento de animales no podrá ser aplicada la enseñanza que conlleve golpes, castigos crueles o racionamiento alimenticio;
 
@@ -28117,21 +27449,43 @@ VI. Deben vender los animales desparasitados y libres de toda enfermedad, con la
 
 VII. Están obligados a otorgar al comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas a las que están sujetos por el incumplimiento de las disposiciones del presente Capítulo;
 
-VIII. La exhibición y venta de animales se realizará en locales e instalaciones adecuadas para su correcto cuidado, mantenimiento y protección contra las inclemencias del tiempo.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-IX. Los expendios de animales vivos, rendirán un informe de los perros y gatos ante el Centro en el momento de su venta, para efectos de actualización del registro;
+VIII. La exhibición y venta de animales se realizará en locales con instalaciones adecuadas que aseguren las medidas de bienestar animal;
 
-X. Tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido y olores perjudiciales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XI. Para la venta de animales que se puedan tornar peligrosos se necesitará la autorización de posesión que expedirá el Centro;
+IX. Los expendios de animales vivos, rendirán un informe ante el Departamento de los perros y gatos que comercialicen, después de su venta, para efectos de actualización del Registro Municipal de Perros y Gatos;
 
-XII. Las personas físicas que se dediquen al adiestramiento preferentemente deben contar con acreditación expedida por las instituciones o asociaciones reconocidas en la materia.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+X. Tomar las medidas necesarias con el fin de no causar molestias a sus vecinos por ruido, desechos y olores perjudiciales, siendo obligatorio recolectar y depositar las heces fecales de sus animales en bolsas o cartón biodegradables, para disponer de éllas como residuos orgánicos y evitar la contaminación ambiental; de no hacerlo serán sancionados en términos del procedimiento de la Justicia Municipal y los artículos 1918 y 1920 de este Capítulo, sin perjuicio de las responsabilidades civiles y penales que en su caso procedan;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XI. Para la venta de animales que se puedan tornar peligrosos se necesitará autorización de posesión expedida por el Departamento y cumplir con los siguientes requisitos:
+
+a) Ser mayor de edad;
+
+b) No tener antecedentes penales;
+
+c) No haber sido sancionado administrativamente en materia de tenencia de animales peligrosos;
+
+d) Tener certificado que acredite obediencia del animal; y
+
+e) Aprobar examen psicométrico de estabilidad emocional;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XII. Las personas físicas que se dediquen al adiestramiento profesional; preferentemente deben contar con acreditación expedida por las instituciones o asociaciones reconocidas en la materia y estar registrados ante el Departamento;
 
 XIII. Se prohíbe la instalación y operación de criaderos en inmuebles de uso habitacional.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1863.
 
-Las residencias, clínicas veterinarias, escuelas de adiestramiento e instalaciones de las asociaciones protectoras de animales y demás creadas para alojar temporal o permanentemente a los animales de compañía deben contar con personal capacitado e instalaciones adecuadas para la administración de tratamientos clínicos veterinarios. Asimismo, deben contar con la autorización correspondiente y un registro de los animales que ingresan, que estará a disposición de la autoridad municipal.
+Las residencias, clínicas veterinarias, escuelas de adiestramiento, instalaciones de las asociaciones protectoras de animales, centros de adopción y demás establecimientos destinados para alojar temporal o permanentemente varios animales de compañía de una o más especies, deberán contar con personal capacitado e instalaciones adecuadas, tanto para su estancia como para la administración de tratamientos clínicos veterinarios. Asimismo, deberán contar con la autorización correspondiente y un registro de los animales que ingresan y egresan, que estará a disposición de la autoridad municipal a través del Departamento.
 
 ###### Artículo 1864.
 
@@ -28141,27 +27495,33 @@ I. Solicitar a la Autoridad Municipal la captura de animales que deambulen en su
 
 II. Recibir la información y orientación necesaria de la autoridad municipal en relación con los derechos y obligaciones vinculados con la tenencia de animales y con sus enfermedades; y
 
-III. Obtener la esterilización de sus animales en las instalaciones del Centro, mediante el pago del servicio.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+III. Realizar preferentemente la esterilización de sus animales en las instalaciones del Centro, o ante la autoridad correspondiente. Y obtener certificado o constancia de la esterilización de sus animales expedida por el Centro o en módulos de las campañas de esterilización realizadas por la Secretaría de Salud.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1865.
 
-Toda persona que compre o adquiera un animal doméstico con fines de compañía está obligada a cumplir con las disposiciones correspondientes establecidas en el presente Capítulo y demás ordenamientos jurídicos aplicables.
+Toda persona que compre, adquiera, posea o maneje un animal doméstico con fines de compañía o que por cualquier motivo lo tenga encargado o a su cuidado, está obligada a cumplir con las disposiciones correspondientes establecidas en el presente Capítulo y los demás ordenamientos jurídicos aplicables, toda vez que su tenencia involucra intereses públicos y privados que las autoridades deben salvaguardar.
 
-Así mismo podrán inscribir voluntariamente a sus mascotas en el Registro Municipal de Animales, trámite que no tendrá costo alguno, y que servirá para tener las referencias del animal, para las reclamaciones a que haya lugar.
-
-El propietario de cualquier mascota está obligado a colocarles permanentemente una placa en la que constarán al menos los datos de identificación del propietario, cabe señalar que está prohibido colocar al animal una placa que no le corresponda, o intentar acreditar la vacunación del mismo con un certificado que no sea el suyo.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1866.
 
-Los animales domésticos no deben tenerse aislados, ya que es necesario su contacto cotidiano con el propietario, encargado o poseedor.
+Los animales domésticos no deben tenerse aislados, ya que es necesario su contacto cotidiano con el propietario, encargado o poseedor, como parte de las condiciones naturales para su desarrollo.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1867.
 
-Todo propietario, poseedor o encargado de una mascota está obligado a colocarle una correa al transitar con ella en la vía pública. Asimismo, tienen la responsabilidad de los daños que le ocasione a terceros y de los perjuicios que ocasione, si permite que transiten libremente en la vía pública o que lo abandone.
+La manutención de animales en cualquier espacio debe procurarse de manera que no se generen focos de insalubridad, contaminación, escándalo, inseguridad o maltrato, que afecten el bienestar de las personas y de los animales.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1868.
 
-La persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales.
+La persona que no pueda hacerse cargo de su animal doméstico o mascota, bajo ninguna circunstancia podrá abandonarlo en la vía pública o en zonas rurales o por periodos prolongados en bienes de propiedad particular, por lo que estará obligada a buscarle alojamiento y cuidado, para lo cual podrá acudir ante el Consejo Ciudadano de los Derechos de los Animales, el Departamento o el área asignada en su caso, para que le brinde orientación e información oportuna.
 
 DE LA PREVENCIÓN Y DEL CONTROL DE LA RABIA
 
@@ -28169,9 +27529,11 @@ DE LA PREVENCIÓN Y DEL CONTROL DE LA RABIA
 
 La aplicación de las disposiciones administrativas referentes a la prevención y control de la rabia en el Municipio de Puebla, corresponde al Centro, el cual, para su funcionamiento, se integrará por el personal a que hace referencia este capítulo.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1870.
 
-Los derechos por estudio de laboratorio para detección de la rabia, aplicación de vacunas antirrábicas, sacrificio, esterilización y manutención de animales dentro del Centro, disposición de cadáveres de animales y en general, por cualquier actividad realizada por el Centro, se causarán y pagarán de conformidad con las disposiciones establecidas en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente.
+Los derechos por estudio de laboratorio: Bacteriológico, parapsicológico y serológico, con excepción del que se realice para detección de la rabia, aplicación de vacunas con excepción de la antirrábica, esterilización, manutención de animales dentro del Centro, sacrificio y disposición de cadáveres de animales incluyendo incineración y en general por cualquier actividad realizada por el Centro, en su caso, se causarán y pagarán de conformidad con las disposiciones establecidas en la Ley de Ingresos del Municipio para el ejercicio fiscal correspondiente.
 
 ###### Artículo 1871.
 
@@ -28199,63 +27561,93 @@ III. Realizar estudios epizootiológicos de casos de rabia y elaborar un padrón
 
 IV. Registrar los datos de los Médicos Veterinarios Zootecnistas facultados para expedir responsivas médicas en esta materia, relacionadas con el estado de salud de algún animal en observación;
 
-V. Llevar el padrón de Veterinarios donde mantendrán los siguientes datos; Nombre, edad, lugar de nacimiento, domicilio, Cédula Profesional y teléfono;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VI. En relación con el Registro Municipal de Animales deberá llevar un registro de animales que sean vacunados anualmente en que se hará constar: nombre, raza, color, sexo y señas particulares del animal; el nombre y domicilio del propietario, así como el número de personas que convive con él mismo; fecha de vacunación, lote de vacuna, fabricante de la misma, datos que permitan la identificación del Médico Veterinario Zootecnista que aplicó la vacuna y, número de registro asignado a cada animal;
+V. Integrar el Padrón Municipal de Médicos Veterinarios Zootecnistas, que deberá contener los siguientes datos: nombre, edad, lugar de nacimiento, domicilio, cédula profesional, teléfono y número de registro que se le asigne;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VI. En relación con el Registro Municipal de Perros y Gatos, deberá llevar un registro de los animales vacunados anualmente en que se hará constar: nombre, raza, color, sexo y señas particulares del animal; el nombre y domicilio del propietario, así como los datos que aparecen en la boleta de vacunación; y datos que permitan la identificación del Médico Veterinario Zootecnista que aplicó la vacuna y número de registro asignado a cada animal;
 
 VII. Llevar un registro de todos los animales que por cualquier circunstancia hayan estado internados en el Centro, si éstos animales estuviesen en el registro a que se refiere la fracción anterior no se hará la anotación respectiva;
 
-VIII. Elaborar estadísticas con la información que se obtenga del manejo de los registros a que se refieren las fracciones VI y VII de este artículo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VIII. Elaborar estadísticas con la información que se obtenga del manejo de los padrones y registros a que se refieren las fracciones IV, V, VI y VII de este artículo;
 
 IX. Entregar copia de los registros obtenidos y en general de cualquier dato o estadística referente a las actividades del Centro a las autoridades sanitarias correspondientes;
 
-X. De ser necesario y con la finalidad de que los animales no reclamados, puedan ser utilizados como material educativo o de investigación, enviarlos con el control y de conformidad con el presente Capítulo y las disposiciones aplicables, a las dependencias que lo soliciten, mediante escrito donde se comprometan a evitar el maltrato de dichos animales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+X. De ser conveniente y con la finalidad de que los animales no reclamados, puedan ser adoptados o utilizados como material educativo o de investigación, enviarlos con el control y de conformidad con el presente Capítulo y las disposiciones jurídicas aplicables, previamente esterilizados, a las dependencias, instituciones u organizaciones que lo soliciten mediante escrito donde se comprometan a evitar el maltrato de dichos animales;
 
 XI. Informar a las autoridades competentes cuando exista alguna persona atacada por cualquier animal;
 
 XII. Vigilar la observación y aplicación de este capítulo, así como imponer las sanciones a los infractores al mismo en lo que se refiere a la prevención y control de la Rabia en el Municipio de Puebla;
 
-XIII. Solicitar el auxilio de la fuerza pública para el aseguramiento y captura de animales; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-XIV. Dispensar a solicitud del interesado y tomando en cuenta el informe técnico del Centro el sacrificio de los animales que ingresen al Centro.
+XIII. Solicitar el auxilio de la fuerza pública para el aseguramiento y captura de animales en la vía pública o al interior de cualquier inmueble de propiedad privada, previa orden de visita de inspección en este caso, expedida por la autoridad municipal competente; y
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+XIV. Dispensar a solicitud de persona interesada y tomando en cuenta el informe médico del Centro, el sacrificio de los animales que ingresen al Centro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1873.
 
-Son obligaciones del técnico del Centro, en materia de prevención y control de la rabia, las siguientes:
+Son obligaciones del Técnico del Centro, quién deberá contar con cédula profesional de Médico Veterinario y Zootecnista en materia de prevención y control de la rabia, las siguientes:
 
 I. Sacrificar a todo animal por haber sido agredido o estar en contacto con algún animal rabioso, ser portador o sospechoso de estar infectado;
 
-II. Mantener bajo vigilancia y cuidados durante diez días mínimo a los perros que se consideren sospechosos de tener rabia o que hayan agredido a una persona y de no ser reclamados proceder, en su caso, al sacrificio de los mismos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. Mantener bajo vigilancia y cuidados durante diez días mínimo a los perros que se concluya que es portador o se encuentra infectado de rabia o que hayan agredido a una persona y de no ser reclamados proceder, en su caso, al sacrificio de los mismos;
 
 III. Presentar al Jefe del Centro un reporte de los animales vacunados y de los que se encuentren en observación dentro del Centro; y
 
 IV. Proceder al sacrificio de los animales en términos de este Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1874.
 
-Para los efectos del presente capítulo, son obligaciones del responsable de denuncias municipales:
+Para los efectos del presente Capítulo, son obligaciones del Responsable de Denuncias del Departamento ordenar al Centro cuando sea procedente lo siguiente:
 
 I. Instruir a los encargados de la captura o aseguramiento de animales, para brindar atención y seguimiento a las denuncias realizadas por habitantes del Municipio;
 
 II. Ejecutar las acciones de los programas de control y vigilancia epidemiológica de la rabia que le sean asignadas;
 
-III. Recibir e investigar todo reporte de animal agresor;
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
-IV. Instruir las capturas a los perros, en términos de lo dispuesto en el artículo 1887 del presente Código Reglamentario; y
+III. Recibir e investigar todo reporte de animal agresor, realizando el diagnóstico etológico, a fin de determinar las causas de la agresión y determinar si es un perro agresivo, territorial o mal manejado, para dar soluciones a cada tipo de problema de acuerdo a la respuesta conductual del perro;
+
+IV. Instruir las capturas a los perros, en términos de lo dispuesto en el artículo 1887 del presente Código Reglamentario; y (sic)
 
 V. Instruir el aseguramiento de los animales que se encuentren en cualquiera de los casos señalados en el artículo 1887 de este ordenamiento.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VI. Las demás que le confiera el Ayuntamiento, reglamentos, circulares y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 1875.
 
 Son obligaciones del Médico Veterinario Zootecnista que preste sus servicios en forma particular:
 
-I. Inscribirse en el padrón de Médicos Veterinarios Zootecnistas a cargo del Centro;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+I. Inscribirse en el Padrón Municipal de Médicos Veterinarios Zootecnistas a cargo del Departamento;
 
 II. En el caso de tener en observación algún animal sospechoso de rabia, deberá comunicar al Centro, de forma inmediata el ingreso a la clínica y rendir un informe periódicamente sobre el estado de salud del animal o, en su caso, la muerte del mismo, debiendo entregar el cadáver con la respectiva responsiva médica, de no hacerlo se hará acreedor a las sanciones administrativas contempladas en el presente Capítulo;
 
-III. Entregar semestralmente una relación de los animales que sean vacunados en su clínica que contendrán entre otros datos los siguientes: Nombre y domicilio del propietario, nombre del animal; raza, color, edad y señas particulares; y
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
-IV. Entregar una relación de los animales que no sean vacunados y que asistan a su clínica que contendrá los mismos datos que la relación de la fracción anterior.
+III. Entregar semestralmente al Centro una relación de los animales que sean vacunados en su clínica, que contendrá entre otros datos los siguientes: nombre y domicilio del propietario, nombre del animal, raza, color, edad y señas particulares; y
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+IV. Entregar al Centro una relación de los animales que no sean vacunados y que asistan a su clínica que contendrá los mismos datos que la relación de la fracción anterior.
 
 ###### Artículo 1876.
 
@@ -28277,9 +27669,11 @@ II. Promover la participación cívica para el control y prevención de la rabia
 
 III. Inmunizar todas las especies de animales domésticos susceptibles al virus rábico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1878.
 
-Las medidas de control sobre personas y animales expuestos consistirán en:
+Las medidas de seguridad o control sobre personas y animales expuestos a la rabia consistirán en:
 
 I. Valoración de la exposición;
 
@@ -28291,9 +27685,11 @@ III. Canalización a las dependencias correspondientes para la aplicación, en e
 
 El caso clínico de rabia humana deberá notificarse inmediatamente a la autoridad sanitaria correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1880.
 
-El Centro llevará a cabo medidas de control del reservorio mediante las siguientes actividades:
+El Centro llevará a cabo medidas de seguridad y control del reservorio mediante las siguientes actividades:
 
 I. Para obtener la información necesaria para trabajos de control a nivel municipal, realizará estudios de dinámica de población de perros y gatos;
 
@@ -28307,7 +27703,9 @@ V. Para detectar la existencia de la rabia y vigilarla, deberá realizar la obse
 
 VI. Para interrumpir la circulación del virus rábico, proporcionará la atención de focos rábicos a partir de la notificación, denuncia o confirmación del caso de rabia;
 
-VII. Para limitar el crecimiento de la población de perros, gatos, realizará con la debida participación de la comunidad, la esterilización de los mismos; y
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+VII. Para limitar el crecimiento de la población de perros y gatos, realizará en coordinación con las autoridades correspondientes y la comunidad, la esterilización de los mismos;
 
 VIII. Si se identifican otras especies animales en la transmisión de la rabia, se coordinará con las autoridades correspondientes para realizar, dentro del ámbito de su competencia el control de éstas poblaciones.
 
@@ -28323,7 +27721,9 @@ En cada uno de los casos señalados en el artículo anterior, se otorgará al pr
 
 El Certificado de Vacunación Antirrábica deberá contener los datos de registro del animal vacunado, a efecto de poder comprobar la vacunación, cuantas veces sea requerido por el Centro a través de sus verificadores.
 
-La placa de vacunación expresará el año y número de ésta, a fin de que sea fijada al collar que deberá tener permanentemente el animal vacunado; la cual será distinta a la placa de identificación que se menciona en el artículo 1865 del presente Código Reglamentario.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE ABRIL DE 2012)</small>
+
+La placa de vacunación expresará el año y número de ésta, a fin de que sea fijada al collar que deberá tener permanentemente el animal vacunado, la cual será distinta a la placa de identificación que se menciona en el artículo 1861 fracción IX del presente Código Reglamentario.
 
 ###### Artículo 1884.
 
@@ -28337,9 +27737,11 @@ Durante las campañas de vacunación antirrábica, el Centro participará de acu
 
 Queda prohibido a todas aquellas personas que no pertenezcan a las instituciones oficiales referidas en el presente capítulo, realizar campañas de vacunación antirrábicas, suministrar o aplicar líquidos inocuos como si fueran vacunas oficiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1887.
 
-Los oficiales de control canino capturarán para su observación a los animales que se encuentren en las siguientes circunstancias:
+Los oficiales de control animal capturarán para su observación a los animales que se encuentren en las siguientes circunstancias:
 
 I. Los perros que sin propietario o poseedor transiten libremente en la vía pública;
 
@@ -28349,33 +27751,53 @@ III. Todo animal presuntamente rabioso y que por las circunstancias constituya u
 
 IV. Todo animal que haya sido mordido por animal con síntomas de rabia.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1888.
 
-La observación de los animales señalados en la fracción I del artículo anterior se hará durante las 72 horas siguientes a su captura. La observación de los animales señalados en las fracciones II, III y IV se realizará durante los diez días siguientes a su captura.
+La observación de los animales señalados en la fracción I del artículo anterior se hará durante las 72 horas siguientes a su captura. La observación de los animales señalados en las fracciones II, III y IV se realizará durante los diez días siguientes a su captura, salvo que sus propietarios, poseedores o encargados exhiban certificado vigente de vacunación antirrábica o la responsiva clínica de un Médico Veterinario Zootecnista con cédula profesional en la que dictamine favorablemente sobre la salud del animal y asuma directamente la responsabilidad del caso, hecho lo cual podrán recuperarlos de inmediato.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1889.
 
-En caso de que al animal sujeto a observación no se le detecte la rabia, será devuelto a su propietario después de reunir los siguientes requisitos:
+En caso de que al animal sujeto a observación no se le detecte la rabia, será devuelto a su propietario, poseedor o encargado, después de reunir los siguientes requisitos:
 
-I. Realizar solicitud por escrito al Jefe del Centro, 48 horas anteriores al cumplimiento del periodo de observación señalado por el artículo anterior para las fracciones II, III y IV del artículo 1887 o dentro del término de 72 horas establecido en el artículo 1856 del presente Código Reglamentario, cuando se esté en el supuesto del periodo de observación que el artículo que antecede establece para la fracción I del artículo 1887.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-II. Acredite su calidad de propietario; y
+I. Exhibir al Jefe o Encargado del Centro, el certificado vigente de vacunación antirrábica o la responsiva clínica que señala el artículo anterior, como constancia de la responsabilidad adquirida, y solicitar la devolución inmediata del animal o realizar solicitud por escrito al Jefe del Centro, dentro de las 72 horas anteriores al cumplimiento del periodo de observación establecido para los supuestos a que se refieren las fracciones II, III y IV del artículo 1887 o dentro del término de 72 horas siguientes a su captura de acuerdo con el artículo 1856 del presente Código Reglamentario, cuando se esté en el supuesto del periodo de observación a que se refiere la fracción I del artículo 1887;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. Acreditar su calidad de propietario, poseedor o encargado; y
 
 III. Pague los daños que hubiese ocasionado el animal, las sanciones impuestas en cada caso y cualesquiera de los derechos que se hubiese causado, de acuerdo con lo dispuesto en este ordenamiento.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1890.
 
-Si transcurridos los términos contenidos en el artículo anterior sin que ninguna persona hubiese solicitado la devolución del animal sujeto a observación o presentándose no hubiera reunido con los requisitos señalados en el artículo anterior, el Jefe del Centro procederá al sacrificio de los animales conforme a lo dispuesto en este Capítulo.
+Si transcurridos los términos contenidos en el artículo anterior sin que ninguna persona hubiese solicitado la devolución de los animales sujetos a observación o presentándose no hubieran reunido los requisitos señalados en el mismo precepto, el Jefe del Centro procederá al sacrificio de los animales conforme a lo dispuesto en este Capítulo o ponerlos a disposición de alguna asociación protectora de animales, a instancias de la misma, por recomendación del Consejo Ciudadano de los Derechos de los Animales o en términos del convenio respectivo, para proporcionar alojamiento y cuidados conforme a las disposiciones aplicables y, en su caso, le busquen propietario responsable o promuevan su adopción por terceros.
 
 ###### Artículo 1891.
 
 Conforme a las leyes federales y estatales en la materia, así como de las Normas Oficiales Mexicanas respectivas, el personal autorizado del Centro realizará el sacrificio de los siguientes animales:
 
-I. Los animales enfermos de rabia;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-II. Aquellos animales capturados y que hayan terminado su período de observación y no hayan sido reclamados; y
+I. Los enfermos de rabia;
 
-III. Los perros que hayan sido internados en dos ocasiones, por el hecho de ser agresores.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. Aquéllos capturados y que hayan terminado su período de observación y no hayan sido reclamados, por persona alguna o asociación protectora de animales;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+III. Los perros que hayan sido internados por haber atacado en dos o más ocasiones, por el hecho de ser agresores; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+IV. Los desahuciados médicamente, a solicitud de sus dueños, y los que padezcan alguna otra enfermedad contagiosa e incurable, que represente un riesgo grave para la población o para los demás animales.
 
 ###### Artículo 1892.
 
@@ -28393,27 +27815,43 @@ INTERVENCIONES QUIRÚRGICAS Y EXPERIMENTOS EN ANIMALES
 
 No se utilizarán animales vivos en experimentos, cuando los resultados del procedimiento sean conocidos con anterioridad, o bien esté destinada a favorecer alguna actividad puramente comercial.
 
-El uso de animales de laboratorio se sujetará a lo establecido en las normas oficiales mexicanas en la materia.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+El uso de animales de laboratorio se sujetará a lo establecido en las Normas Oficiales Mexicanas y demás ordenamientos jurídicos aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1895.
 
-En principio, ningún animal debe ser objeto de más de una cirugía de vivisección, asimismo los animales deben ser insensibilizados y alimentados en forma debida antes y después de la intervención. En el caso de que las heridas ocasionadas impidan que el animal pueda tener una vida normal, éste será sacrificado en los términos del presente Capítulo.
+Las intervenciones quirúrgicas y ejercicios de vivisección en animales, se sujetarán a las leyes y Normas Oficiales Mexicanas y demás ordenamientos legales aplicables, así como a las siguientes disposiciones:
 
-Las instituciones educativas que impartan carreras del área biológica y de la salud podrán realizar los ejercicios de vivisección apegándose a los términos del presente Capítulo.
+I. Ningún animal podrá ser objeto de más de una cirugía de vivisección;
 
-Los animales que se empleen para experimentación deberán ser criados para tal fin, cumpliendo en todo momento con la Norma Oficial Mexicana NOM-062-ZOO-1999, que establece las especificaciones técnicas para la producción, cuidado y uso de los animales de laboratorio, y demás normas vigentes.
+II. Los animales deben ser insensibilizados y alimentados en forma debida antes y después de la intervención;
 
-Los ejercicios de vivisección en las instituciones de educación media y media superior, sólo podrán realizarse cuando no puedan ser sustituidos por los medios de la fracción III del artículo siguiente.
+III. En el caso de que las heridas ocasionadas impidan que el animal pueda tener una vida normal al grado de causarle sufrimiento innecesario, éste podrá ser sacrificado en los términos del presente Capítulo;
 
-Para el caso de realizar actividades de colecta científica de material biológico de especies de fauna silvestre se deberá sujetar invariablemente a la Norma Oficial Mexicana NOM- 126-ECOL-2002.
+IV. En las instituciones educativas que impartan carreras del área biológica y de la salud podrán realizar los ejercicios de vivisección apegándose a los términos del presente Capítulo;
+
+V. En las instituciones de educación media y media superior, los ejercicios de vivisección sólo podrán realizarse cuando no puedan ser sustituidos por los medios mencionados en la fracción III del artículo 1896 de este Capítulo y con la anuencia del Consejo de Bioética Municipal;
+
+VI. Los animales que se empleen para experimentación deberán ser criados para tal fin, cumpliendo en todo momento con la Norma Oficial Mexicana NOM-062-ZOO-1999, que establece las especificaciones técnicas para la producción, cuidado y uso de los animales de laboratorio, y demás normas vigentes;
+
+VII. Para el caso de realizar actividades de colecta científica de material biológico de especies de fauna silvestre, los interesados deberán sujetarse a la Norma Oficial Mexicana NOM-126-ECOL-2002; y
+
+VIII. Las intervenciones quirúrgicas en animales domésticos se realizarán exclusivamente por personal con título en medicina veterinaria zootecnista, por lo que la mutilación y muerte de animales causadas en virtud de intervenciones quirúrgicas practicadas por otras personas carentes de autorización, se sancionarán administrativamente en los términos de este Capítulo, sin perjuicio de las demás sanciones que correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1896.
 
-Los experimentos en animales sólo se realizarán cuando estén plenamente justificados y se demuestre que son imprescindibles para el estudio y avance de la ciencia. El experimento se entiende como justificado cuando:
+Los experimentos en animales sólo se realizarán cuando estén plenamente justificados, y se demuestre que son imprescindibles para el estudio y avance de la ciencia y cuenten con la anuencia del Consejo Municipal de Bioética. El experimento se entiende como justificado cuando:
 
 I. Los resultados experimentales deseados no puedan obtenerse por otros medios o alternativas;
 
-II. Las experiencias sean indispensables para el control, prevención, diagnóstico o tratamiento de enfermedades que afecten a humanos o animales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. Su práctica y las experiencias obtenidas sean indispensables para el control, prevención, diagnóstico o tratamiento de enfermedades que afecten a humanos o animales o para el mejor aprendizaje de los alumnos de instituciones educativas que impartan carreras del área biológica o de la salud;
 
 III. Los experimentos en animales vivos no puedan ser sustituidos por dibujos, esquemas, películas, fotografías, videocintas o cualquier medio magnético, electrónico y procedimientos análogos;
 
@@ -28421,15 +27859,19 @@ IV. La persona que dirige el experimento cuente con los conocimientos y la acred
 
 V. Los experimentos se realicen en animales criados específicamente para tal fin.
 
-Para efectos de este Capítulo, no se considera experimento las prácticas con animales que realicen los alumnos de las áreas biológica y de la salud.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1897.
 
 Una vez que el experimentador elabore el expediente con el que justifique el experimento en términos del artículo anterior, deberá agotar el procedimiento siguiente:
 
-I. Presentar solicitud y expediente de justificación por escrito ante la Comisión correspondiente del Ayuntamiento;
+I(REFORMADA, P.O. 20 DE ABRIL DE 2012)
 
-II. La Comisión que se menciona en la fracción anterior, enviará dicha solicitud al Consejo Municipal de Bioética, quien valorará la solicitud y la dejará en estado de resolución remitiéndola nuevamente a la Comisión, quien le dará el tramité correspondiente como propuesta en términos del Capítulo de Sesiones de Cabildo del presente Código Reglamentario; y
+I. Presentar solicitud y expediente de justificación por escrito ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. La Secretaría enviará dicha solicitud al Consejo Municipal de Bioética dentro de las setenta y dos horas siguientes de haberla recibido y éste contará con un plazo de cinco días para valorar la solicitud, dejarla en estado de resolución y remitirla nuevamente a la Secretaría para que dentro de las setenta y dos horas siguientes la Secretaría, le dé el tramité correspondiente; y
 
 III. La resolución será notificada personalmente al promovente de la solicitud.
 
@@ -28437,19 +27879,25 @@ III. La resolución será notificada personalmente al promovente de la solicitud
 
 Ningún particular puede vender, alquilar, prestar o donar animales para que se realicen experimentos en ellos. Así mismo esta prohibido capturar animales abandonados, entregarlos voluntariamente o establecer programas de entrega voluntaria de animales para experimentar con ellos.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1899.
 
-Las intervenciones quirúrgicas en animales domésticos se realizarán exclusivamente por personal con título en medicina veterinaria zootecnista.
+Se prohíbe estrictamente la modificación negativa intencional en los instintos o condiciones naturales de desarrollo de los animales.
 
 DEL SACRIFICIO DE ANIMALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1900.
 
-El sacrificio de animales sólo podrá realizarse en locales adecuados específicamente para tal actividad.
+El sacrificio de animales sólo podrá realizarse en locales adecuados específicamente para tal actividad, por Médicos Veterinarios Zootecnistas que cuenten con cédula profesional, por personal del Centro o de Industrial de Abastos Puebla o por cualquier otra persona autorizada por el Departamento o la Secretaría de Salud Federal o Estatal según corresponda.
 
 Una vez realizado dicho sacrificio los cadáveres podrán ser inhumados o incinerados de conformidad con las Normas Oficiales vigentes. En este último caso, deberá contar con la autorización como generador de residuos peligrosos biológico infecciosos, emitida por la Secretaría de Medio Ambiente, Recursos Naturales, de acuerdo al Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Residuos Peligrosos vigente o su similar sea cual fuere su denominación.
 
-Para el caso del sacrificio de los animales de abasto se deberá cumplir con la NOM-008-ZOO-1994 que establece las especificaciones zoosanitarias para la construcción y equipamiento para el sacrificio de animales destinados para productos cárnicos.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+Para el caso del sacrificio de los animales de abasto se deberá cumplir con la NOM-008-ZOO-1994, que establece las especificaciones zoosanitarias para la construcción y equipamiento para el sacrificio de animales destinados para productos cárnicos, y la NOM-033-ZOO-1995, relativa al sacrificio humanitario de los animales domésticos y silvestres, y demás Normas Oficiales Mexicanas y disposiciones legales aplicables a la materia.
 
 ###### Artículo 1901.
 
@@ -28457,19 +27905,29 @@ El sacrificio humanitario de un animal no destinado al consumo humano, podrá re
 
 I. En razón del sufrimiento que le cause un accidente;
 
-II. Enfermedad;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-III. Incapacidad física o trastornos seniles que comprometan su bienestar animal;
+II. Enfermedad incurable;
 
-IV. Cuando el animal constituya una amenaza para la salud o la economía;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+III. Incapacidad física, trastornos seniles o vejez doliente, que comprometan su bienestar animal;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+IV. Cuando el animal constituya una amenaza para la salud o la seguridad de las personas o para el bienestar y desarrollo de otros animales;
 
 V. Cuando por exceso de su especie signifiquen un peligro grave para la sociedad, porque puedan provocar zoonosis;
 
 VI. Como medida de seguridad sanitaria; y
 
-VII. Como consecuencia de actividades cinegéticas o educativas debidamente autorizadas.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-El sacrificio de animales deberá ser humanitario y de conformidad a lo establecido en las Normas Oficiales Mexicanas.
+VII. Como consecuencia de actividades educativas o de experimentación debidamente autorizadas.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+El sacrificio de animales deberá ser humanitario y de conformidad a lo establecido en la (sic) Normas Oficiales Mexicanas y demás ordenamientos aplicables.
 
 ###### Artículo 1902.
 
@@ -28489,13 +27947,21 @@ IV. El sacrificio de aves deberá ser inmediato a su arribo a los lugares señal
 
 V. Antes del sacrificio, el ganado debe tener un periodo de descanso en corrales dentro del rastro o del lugar autorizado para el sacrificio, durante el cual se les suministrará agua y alimento salvo a los lactantes que deben sacrificarse inmediatamente. Los animales que por cualquier causa se hubiesen lesionado gravemente deben sacrificarse de inmediato;
 
-VI. Antes de proceder al sacrificio de cuadrúpedos, éstos serán invariablemente insensibilizados mediante alguno de los siguientes métodos;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-VII. Con rifles o pistolas de émbolo oculto o cautivo, o cualquier otro aparato de funcionamiento análogo concebido especialmente para la insensibilización de animales;
+VI. Antes de proceder al sacrificio de cuadrúpedos, éstos serán invariablemente insensibilizados mediante alguno de los siguientes métodos:
 
-VIII. Por electro-anestesia; y
+a) Con rifles o pistolas de émbolo oculto o cautivo, o cualquier otro aparato de funcionamiento análogo diseñado especialmente para la insensibilización de animales;
 
-IX. Cualquier innovación tecnológica mejorada para la insensibilización animal.
+b) Por electro-anestesia, previamente tranquilizado; y
+
+c) Cualquier innovación tecnológica mejorada para la insensibilización animal.
+
+VII. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+
+VIII. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
+
+IX. (DEROGADA, P.O. 20 DE ABRIL DE 2012)
 
 ###### Artículo 1904.
 
@@ -28523,17 +27989,27 @@ Nadie puede matar a un animal por envenenamiento, asfixia, estrangulamiento, gol
 
 Se exceptúa de esta disposición el empleo de productos químicos contra fauna nociva para la salud o para combatir plagas domésticas y agrícolas de conformidad con las normas ambientales vigentes.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1906.
 
-Nadie puede sacrificar a un animal en la vía pública, salvo por motivos de peligro inminente y para evitar el sufrimiento innecesario en el animal cuando no sea posible su traslado inmediato a un lugar más adecuado.
+Nadie puede sacrificar a un animal en la vía pública, salvo por motivos de peligro inminente o para evitar el sufrimiento innecesario en el animal cuando no sea posible su traslado inmediato a un lugar más adecuado para proceder en términos de este Capítulo.
 
-DE LA DENUNCIA Y VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN P.O. 20 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+DE LA DENUNCIA, INSPECCIÓN Y VIGILANCIA
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### Artículo 1906 Bis.
+
+La Secretaría, realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente Capítulo y las que de éste se deriven, así como la de imposición de medidas de seguridad y hará del conocimiento los hechos de la visita, si observa que existen violaciones o faltas administrativas, al Juez Calificador de la jurisdicción correspondiente para que éste determine e imponga las sanciones que en su caso procedan conforme a este Capítulo y este Código Reglamentario para el Municipio de Puebla.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1907.
 
-Toda persona podrá denunciar ante la Agencia todo hecho, acto u omisión que contravenga a las disposiciones del presente Capítulo y demás ordenamientos jurídicos aplicables.
+Toda persona podrá denunciar ante el Departamento de Protección y Control Animal de la Secretaría del Medio Ambiente y Servicios Públicos del Municipio de Puebla o el Juez Calificador; todo hecho, acto u omisión que contravenga a las disposiciones del presente Capítulo y demás ordenamientos jurídicos aplicables.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, las autoridades municipales deberán turnarla inmediatamente a la autoridad competente.
 
@@ -28541,37 +28017,75 @@ Si por la naturaleza de los hechos denunciados se tratare de asuntos de competen
 
 La denuncia deberá presentarse por escrito o de manera verbal manifestando al menos:
 
-I. Nombre o razón social, domicilio y teléfono en su caso, salvaguardando la identidad del denunciante;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+I. Nombre o razón social, domicilio y teléfono en su caso, del denunciante o su representante legal, salvaguardando la identidad del mismo;
 
 II. Actos, hechos u omisiones denunciados;
 
-III. Datos que permitan identificar al presunto infractor; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+III. Datos que permitan identificar al presunto infractor o localizar el sitio donde se comete la infracción; y
 
 IV. Pruebas que en su caso ofrezca el denunciante.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1909.
 
-Una vez recepcionada la denuncia o en situaciones de emergencia, se procederá a realizar la visita de verificación correspondiente, a efecto de determinar la existencia o no de la infracción motivo de la denuncia.
+Una vez recepcionada la denuncia por el Departamento o el Juez Calificador, éstos de oficio en situaciones de emergencia, donde haya riesgos en el manejo de animales en las circunstancias siguientes: flagrancia, ataques de animales a personas, peleas de perros, exposiciones, espectáculos de diversión pública, ventas en vía pública y acciones de salvamento en contingencias; ordenar y realizar la visita de inspección y vigilancia correspondiente, por conducto de personal debidamente autorizado y sin perjuicio de otras medidas procedentes para verificar el cumplimiento de este Capítulo incluyendo la presentación del animal a efecto de determinar la existencia de una sanción o falta administrativa.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1910.
 
-El personal a realizar la visita de inspección deberá contar con el documento que lo acredite como inspector, así como la orden escrita expedida por el centro en la que se precisará el domicilio en la que se verificará la inspección, el objeto de la diligencia y el alcance de ésta.
+Las visitas de inspección y vigilancia ordenadas conforme a este Capítulo, se sujetarán a las siguientes disposiciones:
 
-El inspector acreditado deberá verificar previamente que el domicilio de la orden coincida con el lugar en donde se realizará la inspección.
+I. El personal, al realizar la visita de inspección y vigilancia a cualquier domicilio, establecimiento o lugar de uso común o privado, deberá contar con el documento que lo acredite como inspector y lo autorice a realizar actos de inspección y vigilancia, así como con la orden escrita fundada y motivada, expedida por la autoridad competente, en su caso, nombre del propietario o poseedor del animal, nombre del propietario o representante legal del establecimiento, el objeto de la diligencia y las disposiciones legales que fundamenten las visitas de inspección;
 
-El personal autorizado al iniciar la inspección requerirá la presencia del propietario, del Representante legal, del encargado del lugar quienes deberán de nombrar a dos testigos, en caso de negativa los nombrará el inspector.
+II. El inspector acreditado deberá verificar previamente que el domicilio y el nombre de la persona física o jurídica señalados en la orden sean correctos;
+
+III. El personal autorizado, al iniciar la inspección, requerirá la presencia de los propietarios o poseedores del lugar, en su caso, de quien los represente legalmente o de los encargados del lugar y/o del animal, se identificará debidamente con la persona con quien se entienda la diligencia mediante la exhibición de credencial vigente con fotografia expedida por la autoridad municipal competente, le mostrará la orden respectiva entregándole copia de la misma con firma autógrafa y la requerirá para que en el acto designe dos testigos. En caso de negativa o de que los designados no acepten fungir como testigos, el inspector podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la visita de inspección;
+
+IV. De no encontrar persona alguna en el domicilio, establecimiento o lugar sujeto a verificación, se dejará o fijará citatorio para que los propietarios o poseedores del lugar y/o del animal en su caso, quien los represente legalmente o los encargados del lugar y/o del animal, lo aguarden en hora fija y comparezcan o se presenten a la práctica de la diligencia, en el día y hora señalado en el mismo;
+
+V. Si la persona o personas citadas hicieran caso omiso del citatorio, la diligencia se entenderá con cualquier persona capaz que se encuentre en el lugar objeto de la visita, pero si el personal autorizado no encontrara persona alguna o las presentes obstaculizaran o se opusieran a la práctica de los actos de verificación, en caso de resultar urgente la autoridad competente podrá solicitar el auxilio de la fuerza pública sólo para ingresar al sitio donde se localicen el o los animales motivo de la diligencia, practicarla y, en su caso, poder capturar o rescatar a los animales respectivos con el propósito de asegurarlos para prevenir nuevas agresiones, evitar que sean maltratados o salvaguardar su integridad, independientemente de las sanciones a que haya lugar;
+
+VI. Los visitados, sus representantes o la persona con quien se entienda la visita, están obligados a permitir al personal autorizado el libre acceso al lugar o lugares sujetos a verificación, a exhibir el o los animales motivo de la misma, así como mantener a su disposición la documentación que acredite el cumplimiento de las disposiciones legales aplicables;
+
+VII. En toda visita de verificación se levantará acta en la que harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, las medidas de seguridad que deberán instrumentarse de manera inmediata en caso de que se verifique la comisión de infracciones que ameriten su urgente aplicación y las acciones que en este supuesto deben llevar a cabo las personas visitadas para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas, se ordene el retiro de las medidas de seguridad impuestas;
+
+VIII. Concluida la visita, se dará oportunidad a la persona o personas con las que se haya entendido la diligencia, en su caso, para que en el mismo acto formulen observaciones en relación con los hechos u omisiones asentados en el acta respectiva y las medidas de seguridad ordenadas, en su caso, y para que ofrezcan las pruebas que consideren convenientes o hagan uso de ese derecho en el término de cinco días hábiles siguientes a la fecha en que la diligencia se hubiere practicado;
+
+IX. A continuación se procederá a firmar el acta por la persona o personas con quienes se haya entendido la diligencia, por los testigos y por el personal autorizado;
+
+X. Si la persona o personas con quienes se haya entendido la diligencia o los testigos, se negaren a firmar el acta, o aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio; y
+
+XI. Se dejará copia del acta de la visita a la persona con quien se entendió la diligencia, en caso de que no se hubiera entendido con alguien a pesar de haber existido citatorio, el acta se pondrá a disposición del propietario, representante o apoderado legal en los estrados de la autoridad municipal que haya efectuado la visita, por un término de tres días hábiles contados al día siguiente a la visita, en caso de no acudir se seguirá con el procedimiento administrativo correspondiente.
 
 ###### Artículo 1911.
 
 La persona con que se entienda la inspección estará obligada a permitir el libre acceso al lugar o lugares sujetos a inspección, así como proporcionar toda clase de información que se desprenda de la orden respectiva.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1912.
 
-En toda visita de inspección se levantará acta. La que una vez calificada, la autoridad municipal, procederá a dictar la resolución que corresponda.
+Admitidas y desahogadas las pruebas ofrecidas por el o los interesados, o habiendo transcurrido el plazo a que se refiere la fracción VIII o (sic) XI del artículo 1910, sin que hayan hecho uso de ese derecho, la autoridad ordenadora y una vez cumplido el término, lo turnará al Juez Calificador para que dentro de los diez días hábiles siguientes valore los elementos aportados y dicte la resolución definitiva que corresponda, misma que mandará notificar al interesado, personalmente o por correo certificado con acuse de recibo.
+
+Durante el procedimiento y antes de que se dicte resolución definitiva, el o los interesados y la Secretaría, a petición de aquéllos, podrán convenir la realización de las acciones de mitigación y compensación de daños necesarias para corregir las presuntas irregularidades observadas o salvaguardar la vida y el bienestar del animal o los animales motivo de la visita de inspección, incluso con la intervención o apoyo de alguna asociación protectora de animales interesada. La instrumentación y verificación del cumplimiento de dicho convenio, se realizará en los términos del artículo 1913 de este Código.
+
+Durante el procedimiento y antes de que se dicte resolución definitiva, el o los interesados y la Secretaría, podrán recurrir a cualesquiera de los medios alternativos de resolución de controversias establecidos y, en su caso, firmar los acuerdos que correspondan.
+
+Si la conducta lo amerita se podrá poner a disposición del Juez Calificador al infractor y éste procedimiento deberá agotarse conforme a lo establecido por la Justicia Municipal de este Código.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1913.
 
-Sin perjuicio de la resolución señalada en el artículo anterior, la autoridad dará contestación en un plazo de siete días hábiles a partir de su presentación, la que deberá notificar personalmente al denunciante y en la cual se informará del resultado de la verificación, de las medidas que se hayan tomado y, en su caso, de la imposición de la sanción respectiva.
+En el convenio se señalarán las medidas que deberán llevarse a cabo para subsanar las deficiencias o irregularidades observadas en la visita, la intervención o apoyo que corresponda a la asociación protectora de animales interesada, el plazo otorgado al infractor o infractores para satisfacerlas personalmente o con la participación de dicha asociación y las sanciones a las que aquéllos se harán acreedores en caso de incumplimiento.
+
+En los casos en que proceda, la autoridad municipal hará del conocimiento del Ministerio Público o del Juez Calificador la realización de actos u omisiones constatados en el ejercicio de las facultades que les confiere el presente Capítulo, que pudieran configurar uno o más delitos o faltas administrativas.
 
 DE LAS MEDIDAS DE SEGURIDAD
 
@@ -28579,11 +28093,47 @@ DE LAS MEDIDAS DE SEGURIDAD
 
 De existir riesgo inminente o situación de emergencia para las personas y/o animales y se pueda poner en peligro su vida en términos de este Capítulo, las autoridades competentes, en forma fundada y motivada, podrán ordenar inmediatamente alguna o algunas de las siguientes medidas de seguridad:
 
-I. Aseguramiento precautorio de los animales así como los utensilios y elementos utilizados en el hecho que da lugar a la imposición de la medida de seguridad;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+I. Aseguramiento precautorio de los animales o especímenes, productos y subproductos, así como de los utensilios, instrumentos, elementos materiales y demás bienes directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad;
 
 II. Clausura temporal de los establecimientos, instalaciones, servicios o lugares donde se celebren espectáculos públicos con animales, donde se realice sacrificio de animales o donde se comercialicen, donde no se cumpla con las leyes, el presente Capítulo, las normas oficiales mexicanas, así como con los preceptos legales aplicables; y
 
 III. Cualquier acción legal análoga que permita la protección a los animales.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### Artículo 1914 Bis.
+
+La captura, rescate y aseguramiento precautorio de animales procede en todos los casos en que:
+
+I. Muestren signos o hayan sido objeto de crueldad o maltrato graves;
+
+II. Representen un peligro para la salud pública por padecer enfermedades transmisibles, para la seguridad de las personas o para el bienestar y desarrollo natural de otros animales o especies;
+
+III. Se enajenen o exploten en la vía pública;
+
+IV. Sean empleados en espectáculos o eventos no autorizados conforme a las disposiciones aplicables;
+
+V. Se utilicen en actividades de transporte, contraviniendo lo establecido en el presente Capítulo y en las disposiciones legales aplicables;
+
+VI. Sean empleados como instrumentos delictivos;
+
+VII. Se ofrezcan para fines de propaganda o premiación;
+
+VIII. Sean altamente peligrosos o feroces y representen un peligro para la integridad física de las personas, siempre que sus dueños, poseedores o encargados incumplan las disposiciones que al caso correspondan;
+
+IX. Su posesión no esté autorizada por las instancias competentes; y
+
+X. Se contravengan las disposiciones legales y demás normatividad aplicable.
+
+El aseguramiento precautorio, subsistirá por todo el tiempo que dure el procedimiento, hasta que se resuelva el mismo, ya sea ordenando el retiro de la medida o sancionando al infractor o infractores con el decomiso de los animales asegurados.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### Artículo 1914 Ter.
+
+Los animales capturados por haber agredido a una o más personas o animales y que no hayan sido devueltos a sus dueños, poseedores o encargados; los sujetos a observación en los demás supuestos previstos por el artículo 1887 de este Código y que no hayan sido reclamados o devueltos una vez terminado su periodo de observación, y los asegurados precautoriamente en los casos que proceda, como medida de seguridad podrán ser puestos a disposición de alguna asociación protectora de animales, a instancia suya o por recomendación del Consejo Ciudadano de los Derechos de los Animales, para que le den alojamiento y cuidados y, en su caso, le busquen propietario responsable o promuevan su adopción por terceros.
 
 ###### Artículo 1915.
 
@@ -28591,7 +28141,7 @@ Las autoridades municipales podrán ordenar o proceder a la vacunación, atenci�
 
 ###### Artículo 1916.
 
-Cuando la autoridad municipal ordene algunas de las medidas de seguridad previstas en este Capítulo, indicará al interesado, cuando proceda, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene al retiro de la medida de seguridad impuesta.
+(DEROGADO, P.O. 20 DE ABRIL DE 2012)
 
 DE LAS SANCIONES
 
@@ -28603,23 +28153,39 @@ Los padres, madres o tutores de los menores de edad son responsables por las fal
 
 La imposición de cualquier sanción prevista por el presente Capítulo, no excluye la responsabilidad civil o penal y la eventual indemnización o reparación del daño correspondiente que puedan recaer sobre el sancionado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1918.
 
-Las sanciones administrativas podrán ser:
+Las sanciones administrativas por violaciones a las disposiciones legales de este Capítulo, serán sancionadas por los Juzgados Calificadores, conforme al procedimiento de Justicia Municipal previsto en este Código con una o más de las siguientes sanciones:
 
-I. Amonestación;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+I. Apercibimiento por escrito de la autoridad municipal competente o amonestación;
 
-II. Multa o arresto hasta por treinta y seis horas, en los términos del presente Capítulo;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+II. Multa por un importe de 2 a 100 días de salario mínimo vigente en la Ciudad de Puebla, la cual podrá permutarse por arresto hasta por treinta y seis horas o por trabajo a favor de la comunidad, en los términos del presente Capítulo;
 
 III. Clausura definitiva cuando exista reincidencia en los casos que haya motivado una clausura temporal o cuando se trate de hechos, actos u omisiones cuyo fin primordial sea el de realizar actos prohibidos por este Capítulo; y
 
-IV. Decomiso de animales.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+IV. Decomiso de los animales, ejemplares, especies, productos, subproductos e instrumentos, directamente relacionados con infracciones a este Capítulo, el cual implicará la incautación de los mismos a favor del Municipio para su cuidado y disposición posterior;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+V. La suspensión temporal o definitiva de derechos, incluida la cancelación o revocación de permisos, licencias, autorizaciones o registros de competencia municipal y la inhabilitación para poseer, manejar, atender, cuidar o comercializar animales en el Municipio de Puebla; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2012)</small>
+
+VI. Trabajo a favor de la comunidad.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1919.
 
-Procederá la amonestación para aquellos casos en los que por primera vez se moleste a algún animal o se le dé un golpe que no deje huella o secuela y en aquellos casos que contemple el Capítulo de Policía y Gobierno del presente Código Reglamentario.
+Procederá el apercibimiento o amonestación por el Juez Calificador, en su caso, en aquellos supuestos en los que por primera vez se moleste a algún animal o se le dé un golpe que no deje huella o secuela y en aquellos casos que contemple el Capítulo de Policía y Gobierno del presente Código Reglamentario.
 
 ###### Artículo 1920.
 
@@ -28627,11 +28193,17 @@ Las multas causarán un importe de 1 a 100 días de salario mínimo vigente en e
 
 a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 b) Sanciones que se determinarán de la siguiente manera:
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### Artículo 1920 Bis.
+
+Lo recaudado anualmente por el Municipio por concepto de multas derivadas de infracciones a este Capítulo, se destinará en el siguiente ejercicio fiscal para implementar campañas y atender acciones relacionadas con las atribuciones que este ordenamiento le confiere, atendiendo a los procedimientos que para tal efecto resulten necesarios.
 
 ###### Artículo 1921.
 
@@ -28649,31 +28221,45 @@ IV. Los antecedentes, circunstancias y situación socioeconómica del infractor.
 
 Para efectos de este Capítulo, se reincide cuando habiendo quedado firme una resolución que imponga una sanción, se cometa una nueva falta dentro de los doce meses contados a partir de aquélla.
 
-El Centro llevará un registro de las sanciones para saber quien es reincidente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE ABRIL DE 2012)</small>
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+###### Artículo 1922 Bis.
+
+Procede inhabilitar para poseer, manejar, atender, cuidar o comercializar animales en el Municipio de Puebla, a los propietarios de animales que sean víctimas evidentes de actos de crueldad o que hayan agredido más de dos veces y no hayan dado cumplimiento a la obligación de educarlos y adiestrarlos para asegurar su buen comportamiento, según lo dispuesto en este Capítulo, y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1923.
 
-El decomiso de los animales procederá en los siguientes casos:
+Además de las otras sanciones administrativas previstas por este Capítulo, procede la cancelación o revocación de permisos, licencias, autorizaciones o registros de carácter municipal, en caso de que la infracción sea cometida por una persona física o moral en el ejercicio de actividades comerciales o lucrativas, por una asociación protectora de animales, organización o persona dedicada al mismo fin, por un Médico Veterinario Zootecnista o en un establecimiento mercantil con la anuencia o tolerancia de sus dueños o propietarios.
 
-I. Por falta de registro o licencia, en caso de animales peligrosos o feroces;
-
-II. Por reincidencia;
-
-III. Cuando sea un animal patológicamente agresivo y reincidente en la agresión; y
-
-IV. En los casos que se deriven por los convenios celebrados con la federación en materia de fauna silvestre.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1924.
 
-De lo recaudado por concepto de multas anual derivadas de violaciones a este Capítulo, el Gobierno Municipal lo destinará para implementar campañas y atender las acciones relacionadas con las atribuciones que este ordenamiento le confiere para el siguiente año de ejercicio fiscal, atendiendo a los procedimientos que para tal efecto resulten necesarios.
+Procede el decomiso de animales y otros bienes por las autoridades municipales en todos los casos que ameritan aseguramiento provisional, cuando concurra alguna de las siguientes circunstancias:
+
+I. Que a juicio de la autoridad, la posesión del animal o bien por el infractor importe riesgo inminente para aquél de muerte, mutilación, enfermedad o maltrato grave;
+
+II. Cuando se acredite plenamente su utilidad para la comisión de infracciones a este Código o delitos;
+
+III. Cuando se trate de animales sujetos a régimen de protección especial y su posesión no se encuentre autorizada por la autoridad federal, de acuerdo con los instrumentos jurídicos vigentes;
+
+IV. Cuando por la fiereza natural y extrema del animal se produzcan lesiones a seres humanos; y
+
+V. Cuando la enfermedad transmisible portada por el animal sea irreversible o incurable.
 
 ###### Artículo 1925.
 
 Los empleados del Centro y de Industrial de Abastos Puebla, que incurran en faltas al presente Capítulo, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1926.
 
-Cuando exista denuncia presentada en los términos de este Capítulo, el Centro impondrá la sanción administrativa.
+Cuando exista denuncia presentada en los términos de este Capítulo, se impondrá la sanción administrativa consistente en multa, a través de los formatos de pago, mismos que se efectuarán en la Tesorería Municipal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -31275,7 +30861,7 @@ El Comisionado está facultado para autorizar la sustitución o cambio de boxead
 
 I. En Box: en caso de fuerza mayor debidamente comprobada, si alguno de los participantes de una pelea preliminar o estelar no puede actuar en la función anunciada, se sustituirá dicho peleador por el emergente de la misma categoría y peso, si el boxeador fuese de la pelea estelar, además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función;
 
-II. En la lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
+II. En lucha libre: cuando un luchador por causa de fuerza mayor no se haya presentado, será sustituido por otro de la misma categoría y de igual peso, comunicándole a la empresa la obligación de avisar al público asistente, el cambio realizado y si éste es de algún luchador de la "Lucha Estelar", además de anunciar el cambio autorizado, informará al público que la persona que no esté de acuerdo podrá solicitar la devolución del importe de su boleto, siempre que no haya iniciado la función.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -32541,7 +32127,7 @@ I. Amonestaciones públicas o privadas;
 
 II. Sanciones económicas, que puede ir de los diez a los cien días de salario mínimo general vigente de la zona tomando en cuenta los antecedentes de los infractores, la gravedad de la falta y de las circunstancias que hayan mediado el caso;
 
-III. Suspensión temporal de la licencia que pueden ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
+III. Suspensión temporal de la licencia que puedan ser de quince días hasta un año, para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión y tomando en cuenta las circunstancias señaladas en la fracción anterior, y
 
 IV. Suspensión definitiva de la licencia para poder presentar o actuar en espectáculos, exhibiciones y presentaciones en que tengan lugar encuentros de Box y Lucha Libre profesionales en el Municipio, a juicio de la Comisión.
 
@@ -34077,7 +33663,7 @@ NOVENO.- En tanto se realizan las modificaciones conducentes en los sellos, form
 
 Dado en el Palacio Municipal del Municipio de Puebla, en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de agosto de dos mil cuatro.- El Presidente Municipal Constitucional del Municipio de Puebla.- ARQUITECTO LUIS EDUARDO DEL SAGRADO CORAZÓN DE JESÚS PAREDES MOCTEZUMA.- Rúbrica.- El Síndico Municipal del Honorable Ayuntamiento de Puebla.- ABOGADO LUIS ARMANDO OLMOS PINEDA.- Rúbrica.- El Secretario General del Honorable Ayuntamiento de Puebla.- LICENCIADO JORGE ALFONSO PICAZO HERNÁNDEZ.-Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE JUNIO DE 2005.
 
@@ -34131,7 +33717,7 @@ SEXTO.- En caso de muda del acervo que resguarda el Archivo General Municipal, d
 
 P.O. 17 DE FEBRERO DE 2006.
 
-ACUERDO POR EL QUE SE REFORMA EL ARTICULO 1336 Y SE ADICIONAN LOS ARTICULOS 1336 BIS Y 1343 BIS.
+ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 1336 Y SE ADICIONAN LOS ARTÍCULOS 1336 BIS Y 1343 BIS.
 
 ...
 
@@ -34141,7 +33727,7 @@ TERCERO.- La presente reforma y adiciones entrarán en vigor a partir del día s
 
 P.O. 17 DE FEBRERO DE 2006.
 
-ACUERDO POR EL QUE SE ADICIONA EL CAPITULO 34.
+ACUERDO POR EL QUE SE ADICIONA EL CAPÍTULO 34.
 
 PRIMERO.- La presente adición al Código Reglamentario para el Municipio de Puebla, el Libro Séptimo, Capítulo 34 "ESPECTÁCULOS DE BOX y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA", entrará en vigor a partir del día siguiente de la fecha de su aprobación.
 
@@ -34149,7 +33735,7 @@ SEGUNDO.- Se derogan todas las disposiciones existentes que se opongan o sean co
 
 P.O. 17 DE FEBRERO DE 2006.
 
-ACUERDO POR EL QUE SE ADICIONA EL CAPITULO 35.
+ACUERDO POR EL QUE SE ADICIONA EL CAPÍTULO 35.
 
 PRIMERO.- El presente Capítulo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -34243,13 +33829,13 @@ SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
 
 P.O. 12 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 296.
+DECRETO NÚMERO 296, POR EL QUE SE APRUEBA LA ADICIÓN DE LA FRACCIÓN VIII DEL ARTÍCULO 30, LAS FRACCIONES XIII, XIV, XV Y XVI DEL ARTÍCULO 31; Y LOS ARTÍCULOS 31 BIS, 31 TER, 107 BIS, 107 TER, 107 QUATER, 107 QUINQUIES, 107 SEXIES, 107 SEPTIES, 107 OCTIES Y 107 NOVIES DEL CÓDIGO REGLAMENTARIO DEL MUNICIPIO DE PUEBLA EN LOS TÉRMINOS QUE SE ESTABLECEN EN EL CONSIDERANDO XXXIV.
 
 ÚNICO. Las presentes reformas entrarán en vigor noventa días naturales posteriores a su publicación en el Periódico Oficial del Estado de Puebla.
 
 P.O. 12 DE FEBRERO DE 2007.
 
-DECRETO NUMERO 299.
+DECRETO NÚMERO 299, POR EL QUE SE APRUEBA LA INCLUSIÓN DEL CONSEJO CIUDADANO DENOMINADO "DESEMPEÑO GUBERNAMENTAL" EN EL ARTÍCULO 160, SE REFORMA LA FRACCIÓN XVI Y SE ADICIONA LA FRACCIÓN XVII DEL ARTÍCULO 160 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA.
 
 PRIMERO.- El presente Dictamen surtirá efecto a partir de su publicación, en el Periódico Oficial del Estado de Puebla.
 
@@ -34472,6 +34058,16 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en las ref
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
 LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 5 DE OCTUBRE DE 2011.
+
+ÚNICO.- La presente reforma del Código Reglamentario para el Municipio de Puebla, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 20 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo enunciado en el presente Dictamen.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
