@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-extincion-de-dominio-para-el-estado-de-san-luis-69893"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-27"
-last_updated: "2009-08-27"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2009.
 
@@ -617,9 +617,13 @@ Para efectos de la actuación de la Secretaría de Finanzas, y de la Oficialía 
 
 Una vez que cause ejecutoria la sentencia que resuelva la extinción del bien, el juez ordenará su ejecución. El valor de realización de los bienes y sus frutos, cuyo dominio haya sido declarado extinto, mediante sentencia ejecutoriada se destinará, hasta donde alcance, conforme al orden de prelación a que se refiere el artículo 6° de esta Ley.
 
-Los remanentes del valor de los bienes que resulten una vez aplicados los recursos correspondientes en términos del artículo 6° de este Ordenamiento, se depositarán por la Secretaría de Finanzas, en el Fondo a que se refiere el articulo 69 de esta Ley.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
-El destino del valor de realización de los bienes y sus frutos, a que se refiere este artículo, se sujetará a reglas de transparencia y será fiscalizado por la Auditoría Superior del Estado.
+Los recursos correspondientes se depositarán por la Secretaría de Finanzas, en el Fondo de Apoyo a Víctimas Directas y Colaterales, para su aplicación en términos del artículo 6° de este Ordenamiento.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+El destino del valor de realización de los bienes y sus frutos a que se refiere este artículo, se sujetará a reglas de transparencia y, con independencia de su revisión por los órganos de control del Poder Ejecutivo Estatal, será fiscalizado por la Auditoría Superior del Estado.
 
 ###### ARTICULO 68.
 
@@ -627,13 +631,19 @@ Para efecto de lo señalado en el artículo anterior, la Secretaría de Finanzas
 
 Cuando la sentencia de extinción de dominio se emita de manera previa a la del proceso que resuelva la reparación del daño, a petición del agente del Ministerio Público, o juez correspondiente, el juez de extinción podrá ordenar a la Secretaria de Finanzas que conserve los recursos hasta que, de ser el supuesto, la sentencia cause estado. Lo anterior en la cantidad que indique el juez de extinción de dominio, y siempre que no se incrementen los adeudos por créditos garantizados.
 
-El agente del Ministerio Público deberá, en su caso, representar los intereses de quien se conduzca como víctima u ofendido, por los hechos ilícitos a los que se refiere el artículo 7° de esta Ley, y por los que se ejercitó la acción de extinción de dominio.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
-### Capítulo XIII. Del Fondo
+El agente del Ministerio Público deberá, en su caso, representar los intereses de quien se conduzca como víctima u ofendido, por los hechos ilícitos y respecto de los bienes a que se refieren, respectivamente, los artículos 5° y 7° de esta Ley, y por los que se ejercitó la acción de extinción de dominio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### Capítulo XIII. Del Fondo de Apoyo a Víctimas Directas y Colaterales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 69.
 
-Con los recursos a que se refiere el artículo 67 de esta Ley, se constituirá un Fondo, cuya operación será coordinada por la Procuraduría General de Justicia del Estado, con el objeto de que sean administrados hasta que sean destinados de conformidad con lo dispuesto en el artículo 6° de este Ordenamiento, en los términos del artículo siguiente.
+Con los recursos a que se refiere el artículo 67 de esta Ley, se constituirá el Fondo de Apoyo a Víctimas Directas y Colaterales, cuya operación será coordinada por la Procuraduría General de Justicia del Estado, con el objeto de que sean administrados hasta que sean destinados de conformidad con lo dispuesto en el artículo 6° de este Ordenamiento, en los términos del artículo siguiente.
 
 En ningún caso los recursos a que se refiere el párrafo anterior podrán ser utilizados en gasto corriente o pago de salarios.
 
@@ -641,7 +651,9 @@ En ningún caso los recursos a que se refiere el párrafo anterior podrán ser u
 
 Las solicitudes para acceder a los recursos del Fondo a que se refiere el artículo anterior, serán procedentes siempre que:
 
-I. Se trate de los hechos ilícitos a que se refiere el artículo 7° de esta Ley;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+I. Se trate de los hechos ilícitos y los bienes a que se refieren, respectivamente, los artículos 5° y 7° de esta Ley;
 
 II. Que se haya pronunciado sentencia ejecutoriada a favor de la victima u ofendido, en la que se indique que sufrió el daño por dichos ilícitos, así como el monto a pagar;
 
@@ -653,7 +665,9 @@ V. Existan recursos disponibles en el Fondo.
 
 Las solicitudes que se presenten en términos de este artículo, se atenderán en el orden en que se reciban, hasta donde alcancen los recursos del Fondo.
 
-El agente del Ministerio Público se subrogará en los derechos de la víctima u ofendido reconocidos en el proceso penal, que se deriven del pago de reparación de los daños que realice conforme a esta Ley.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+El agente del Ministerio Público se subrogará en los derechos de la víctima u ofendido reconocidos en el proceso penal, y ejercitará las acciones procedentes para lograr el pago de reparación de los daños, conforme a esta Ley y demás disposiciones legales aplicables.
 
 ### Capítulo XIV. De la Nulidad de Actuaciones
 
@@ -742,3 +756,11 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
