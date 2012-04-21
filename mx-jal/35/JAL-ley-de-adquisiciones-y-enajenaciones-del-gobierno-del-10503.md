@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2012-02-23"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 23644/LIX/11 PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2011.</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -61,7 +61,7 @@ V. Manejo de almacenes.
 
 Los órganos de gobierno de los organismos paraestatales deberán emitir, de conformidad a este ordenamiento, las políticas, bases y lineamientos para la contratación de sus adquisiciones o recepción de servicios, tomando en cuenta la naturaleza. fines y metas de los propios organismos, pudiendo, cuando lo crean conveniente, solicitar el apoyo de la administración central.
 
-(ADICIONADO, P.O. 22 DE JUNIO DE 2002)(F. DE E., P.O. 7 DE AGOSTO DE 2003)
+(ADICIONADO, P.O. 22 DE JUNIO DE 2002) (F. DE E., P.O. 7 DE AGOSTO DE 2003)
 
 Los órganos del Poder Judicial del Estado de Jalisco, deberán emitir las bases generales y reglamentos para la contratación de sus adquisiciones y servicios, en el ámbito de competencia que a cada uno le corresponda.
 
@@ -431,7 +431,7 @@ Si transcurrido el término que se señala en el párrafo primero de este artíc
 
 La Secretaría podrá suspender o cancelar el registro de un proveedor del padrón, cuando:
 
-I. Incurra en incumplimiento a lo establecido en esta ley que ameriten la suspensión o cancelación de su registro; y
+I. Incurra en incumplimiento a lo establecido en esta ley que ameriten la suspensión o cancelación de su registro; y (sic)
 
 II. Advierta que la información proporcionada por el proveedor es incompleta o inconsistente, o bien, no se presenten los documentos para acreditarla;
 
@@ -667,7 +667,7 @@ II. La declaración de improcedencia de la inconformidad.
 
 Las secretarías, dependencias y los organismos auxiliares y paraestatales, deberán remitir la información relativa a los pedidos o contratos que regule esta ley cuando la Contraloría del Estado lo solicite.
 
-Para los efectos del párrafo anterior, las secretarías, dependencias, organismos auxiliares y paraestatales, atendiendo a su naturaleza, deberán conservar por el tiempo y en la forma que señale la legislación aplicable o la autoridad competente, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta ley.
+Para los efectos del párrafo anterior, las secretarías, dependencias, organismos auxiliares y paraestatales, atendiendo a su naturaleza, deberán conservar por el tiempo y en forma (sic) que señale la legislación aplicable o la autoridad competente, la documentación que justifique y compruebe la realización de las operaciones reguladas por esta ley.
 
 ###### Artículo 61.
 
