@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2012-02-08"
+last_updated: "2012-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ESTATAL DE EDUCACION DEL ESTADO DE CHIHUAHUA
 
-LEY ESTATAL DE EDUCACIÓN
+LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -45,7 +45,7 @@ Se expide la Ley Estatal de Educación para quedar en los siguientes términos:
 
 > <small>(REFORMADA, P.O. DE 25 DE ABRIL DE 2007)</small>
 
-LEY ESTATAL DE EDUCACION
+LEY ESTATAL DE EDUCACIÓN
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -291,9 +291,15 @@ q. Laboratorios, aulas de medios y talleres;
 
 r. Equipos de cómputo e informática, suficientes para el óptimo aprendizaje y aprovechamiento de las y los alumnos;
 
-s. Programas federales y estatales; y
+s. Programas federales y estatales; y (sic)
 
-t. Otras.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+t. Ludotecas;
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+u. Otras.
 
 IV. Extender la cobertura del nivel preescolar y otorgar a las instituciones oficiales del mismo, el apoyo económico suficiente y los materiales didácticos adecuados;
 
@@ -371,7 +377,7 @@ XXXVIII. Invertir recursos financieros a la investigación pedagógica para la i
 
 XXXIX. Supervisar la Vigilancia del ejercicio profesional en el Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2009)</small>
 
@@ -803,7 +809,7 @@ La educación secundaria se sujetará al plan y programas, acuerdos y demás dis
 
 #### SECCIÓN VI. DE LA EDUCACIÓN ESPECIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 45.
 
@@ -2423,7 +2429,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE MAYO DE 2000.
 
@@ -2539,7 +2545,7 @@ P.O. 17 DE OCTUBRE DE 2009.
 
 P.O. 13 DE ENERO DE 2010.
 
-DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTICULOS 3, 41, 51 Y 116 DE LA LEY ESTATAL DE EDUCACION.
+DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 41, 51 Y 116 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2547,7 +2553,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 13 DE ENERO DE 2010.
 
-DECRETO No. 630/09, POR EL QUE SE REFORMAN LOS ARTICULOS 8 Y 22 DE LA LEY ESTATAL DE EDUCACION.
+DECRETO No. 630/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 8 Y 22 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2634,6 +2640,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE FEBRERO DE 2012.
 
 DECRETO No. 531/2011 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 136 Y LA FRACCIÓN V; Y ADICIONA UNA FRACCIÓN VI, DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ABRIL DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
