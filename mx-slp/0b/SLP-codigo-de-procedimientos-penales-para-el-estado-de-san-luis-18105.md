@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2011-11-17"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -2847,51 +2847,73 @@ VII. Las condiciones económicas del inculpado, y
 
 VIII. La naturaleza de la garantía que se ofrezca.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 411.
 
-La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor no hagan la manifestación mencionada, el juez, de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
+La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad manifestará la forma que elige, para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor no hagan la manifestación mencionada, el Ministerio Público o la autoridad judicial, de acuerdo con el artículo que antecede, fijarán las cantidades que correspondan a cada una de las formas de la caución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 412.
 
-La caución consistente en depósito en efectivo se hará por el inculpado o por terceras personas ante el juez, quien remitirá el certificado o comprobante que en estos casos se expide, a la oficialía mayor del Poder Judicial del Estado para su depósito en el Fondo de Apoyo para la Administración de la Justicia, tomando razón de ello en autos.
+La caución consistente en depósito en efectivo se hará por el inculpado o por terceras personas ante el Ministerio Público o la autoridad judicial, en cuyo caso, el primero remitirá el certificado o comprobante que en estos casos se expide, a la Dirección de Administración de la Procuraduría General de Justicia del Estado, para su depósito en el Fondo de Apoyo para la Procuración de Justicia, y la segunda los remitirá a la Secretaría de Administración del Poder Judicial del Estado para su depósito en el Fondo de Apoyo para la Administración de la Justicia, en ambos casos, asentando razón de ello en autos de la averiguación previa o proceso, según se trate.
 
-Cuando el inculpado no tenga recursos económicos suficientes para efectuar de una sola exhibición el depósito en efectivo, el juez podrá autorizarlo para que lo efectúe en parcialidades, de conformidad con las siguientes reglas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
+Cuando el inculpado no tenga recursos económicos suficientes para efectuar de una sola exhibición el depósito en efectivo, el Ministerio Público o la autoridad judicial podrán autorizarlo para que lo efectúe en parcialidades, de conformidad con las siguientes reglas:
 
 I. Que el inculpado tenga cuando menos un año de residir en forma efectiva en el lugar en que se siga el procedimiento, y demuestre estar desempeñando empleo, profesión u ocupación lícitos que le provean medios de subsistencia;
 
-II. Que el inculpado tenga fiador personal que, a juicio del juez, sea solvente e idóneo y dicho fiador proteste hacerse cargo de las exhibiciones no efectuadas por el inculpado. El juez podrá eximir de esta obligación, para lo cual deberá motivar su resolución;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+II. Que el inculpado tenga fiador personal que, a juicio del Ministerio Público o la autoridad judicial, sea solvente e idóneo, y dicho fiador proteste hacerse cargo de las exhibiciones no efectuadas por el inculpado. Dichas autoridades podrán eximir de esta obligación, para lo cual deberán motivar su resolución;
 
 III. El monto de la primera exhibición no podrá ser inferior al quince por ciento del monto total de la caución fijada, y deberá efectuarse antes de que se tenga la libertad provisional;
 
-IV. El inculpado deberá obligarse a efectuar las exhibiciones por los montos y en los plazos que le fije el juez;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-V. La caución puede constituirse mediante hipoteca sobre inmuebles que no tenga (sic) gravamen alguno y cuyo valor fiscal no sea menor que la suma fijada como caución más la cantidad que el juez estime necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 419 de este Código;
+IV. El inculpado deberá obligarse a efectuar las exhibiciones por los montos y en los plazos que le fijen el Ministerio Público, o la autoridad judicial;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+V. La caución puede constituirse mediante hipoteca sobre inmuebles que no tengan gravamen alguno, y cuyo valor fiscal no sea menor que la suma fijada como caución más la cantidad que el Ministerio Público o la autoridad judicial estimen necesaria para cubrir los gastos destinados a hacer efectiva la garantía en los términos del artículo 419 de este Código;
 
 VI. Es admisible también fianza personal bastante que podrá constituirse en el expediente, y
 
 VII. Póliza de compañía afianzadora legalmente constituida y autorizada con domicilio legal en el Estado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 413.
 
-La fianza personal solamente podrá admitirse cuando el monto de la caución no exceda de cien veces el salario mínimo vigente en la zona económica correspondiente, y el fiador acredite su solvencia e idoneidad.
+La fianza personal solamente podrá admitirse cuando el monto de la caución no exceda de cien veces el salario mínimo vigente en la zona económica correspondiente, el fiador tenga su residencia en el Estado y acredite su solvencia e idoneidad.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 414.
 
-Cuando la fianza sea por cantidad mayor a la señalada en el anterior artículo, se regirá por lo dispuesto en el capítulo relativo a la fianza del Código Civil del Estado, con la salvedad de que, tratándose de empresas afianzadoras legalmente constituidas y autorizadas, no será necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad.
+Cuando la fianza sea por cantidad mayor a la señalada en el anterior artículo, se regirá por lo dispuesto en el capítulo relativo a la fianza del Código Civil del Estado, con la salvedad de que, tratándose de empresas afianzadoras legalmente constituidas y autorizadas, deberán contar con domicilio en el Estado, sin que sea necesario que éstas tengan bienes raíces inscritos en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 415.
 
-El fiador propuesto, excepto cuando se trate de las empresas mencionadas en la fracción VII del artículo 412 de este Código, declarará ante el juzgador, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza y, en su caso la cuantía y circunstancias de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
+El fiador propuesto, excepto cuando se trate de las empresas mencionadas en la fracción VII del artículo 412 de este Código, declarará ante el Ministerio Público o la autoridad judicial, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza y, en su caso, la cuantía y circunstancias de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 416.
 
-Al ordenarse la libertad caucional, se le hará saber al inculpado que contrae las siguientes obligaciones: presentarse ante el juez o tribunal cuantas veces sea citado o requerido para ello; comunicar al mismo los cambios de domicilio que tuviere; presentarse ante el juzgado o tribunal que conozca de su causa el día que se le señale y no ausentarse del lugar de residencia sin permiso del citado Tribunal, el cual no se podrá conceder por tiempo mayor de un mes. También se le hará saber las causas de revocación de su libertad caucional. En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones; pero la omisión de este requisito no exime de ellas ni de sus consecuencias al inculpado.
+Al ordenarse la libertad caucional se le hará saber al inculpado que contrae las siguientes obligaciones: presentarse ante el Ministerio Público o la autoridad judicial, cuantas veces sea citado o requerido para ello; comunicarles los cambios de domicilio que tuviere; presentarse ante el Ministerio Público o la autoridad judicial que conozca de su causa, el día que se le señale y no ausentarse del lugar de residencia sin permiso de aquellos, el cual no se podrá conceder por tiempo mayor de un mes. También se le hará saber las causas de revocación de su libertad caucional. En la notificación se hará constar que se hicieron saber al inculpado las anteriores obligaciones.
 
 ###### ARTICULO 417.
 
 Cuando el inculpado por sí mismo haya garantizado su libertad, con depósito o con hipoteca, aquella se le revocará en los casos siguientes:
 
-I. Cuando desobedeciere, sin causa justa y comprobada las órdenes legítimas del Tribunal que conozca de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por el juez, en caso de habérsele autorizado a efectuar el depósito en parcialidades;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+I. Cuando desobedeciere, sin causa justa y comprobada las órdenes legítimas del Ministerio Público o la autoridad judicial que conozcan de su asunto, o no efectúe las exhibiciones dentro de los plazos fijados por aquéllas, en caso de habérsele autorizado a efectuar el depósito en parcialidades;
 
 II. Cuando fuere sentenciado por un nuevo delito doloso que merezca pena de prisión, antes de que el expediente en que se le concedió la libertad, esté concluido por sentencia ejecutoria;
 
@@ -2911,21 +2933,31 @@ Cuando un tercero haya garantizado la libertad del inculpado por medio de depós
 
 I. En los casos que se mencionan en el artículo anterior;
 
-II. Cuando aquél pida que se le revele de la obligación y presente al inculpado, o
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+II. Cuando aquél pida que se le releve de la obligación y presente al inculpado, o
 
 III. Cuando con posterioridad se demuestre la insolvencia del fiador.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 419.
 
-En los casos de las fracciones I, II, III y VII del artículo 417 de este Código, se mandará reaprender al inculpado y la caución se hará efectiva a cuyo efecto el Juez comunicará a la oficialía mayor para incorporar el importe respectivo al Patrimonio del Fondo de Apoyo para la Administración de la Justicia, y en su caso el testimonio de la hipoteca, para que se ejerciten las acciones procedentes a fin de hacer efectivo tal crédito hipotecario.
+En Averiguación Previa, en los casos de las fracciones, I, III, y VII del artículo 417 de este Código, el Ministerio Público hará efectiva la caución, y ordenará a la Dirección de Administración de la Procuraduría General de Justicia del Estado, para su depósito en el Fondo de Apoyo para la Procuración de Justicia y, en su caso, remitirá el testimonio de la hipoteca, para que se ejerciten las acciones procedentes a fin de hacer efectivo tal crédito hipotecario.
+
+Por su parte, en los casos de las fracciones, I, II, III y VII del artículo 417 de este Código, la autoridad judicial mandará reaprehender al inculpado y la caución se hará efectiva, lo que comunicará a la Secretaría Ejecutiva de Administración del Consejo de la Judicatura, para incorporar el importe respectivo al Patrimonio del Fondo de Apoyo para la Administración de la Justicia y, en su caso, el testimonio de la hipoteca, para que se ejerciten las acciones procedentes a fin de hacer efectivo tal crédito hipotecario.
+
+En los casos de las fracciones, IV del 417, y II del 418, se remitirá el acuerdo a quien generó la garantía.
 
 ###### ARTICULO 420.
 
 En los casos de las fracciones V y VI del artículo 417 y III del 418 de este Código, se ordenará la reaprehensión del inculpado. En los casos de las fracciones IV del artículo 417 y II del 418 se remitirá al acusado al establecimiento que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 421.
 
-El juez ordenará la devolución del depósito o mandará cancelar la garantía:
+La autoridad judicial ordenará la devolución del depósito o mandará cancelar la garantía.
 
 I. Cuando de acuerdo con el artículo anterior remita al acusado al establecimiento correspondiente;
 
@@ -2935,15 +2967,27 @@ III. Cuando éste sea absuelto, y
 
 IV. Cuando se dicte sobreseimiento, auto de libertad o de extinción de la responsabilidad penal.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+Cuando por cualquier causa no se ejercite acción penal, el Ministerio Público ordenará la devolución del depósito o la cancelación de la garantía.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+El Ministerio Público o la autoridad judicial deberán notificar a los interesados, que cuentan con el plazo de noventa días para su reclamación. Una vez concluido y, en caso de no hacerlo, prescribirá a favor del patrimonio del fondo de que se trate.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 422.
 
-Cuando un tercero haya constituido depósito o fianza o hipoteca para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiera desde luego presentar al inculpado, el juez le otorgará un plazo hasta de quince días para que lo haga, sin perjuicio de librar orden de reaprehensión si lo estimare oportuno. Si concluido el plazo concedido al fiador no se obtiene la comparecencia del acusado, se hará efectiva la garantía en los términos del artículo 419 de este Código y se ordenará la reaprehensión del inculpado.
+Cuando un tercero haya constituido depósito, fianza o hipoteca para garantizar la libertad de un inculpado, las órdenes para que comparezca éste se entenderán con aquél. Si no pudiera desde luego presentar al inculpado, el Ministerio Público o la autoridad judicial, le otorgarán un plazo hasta de quince días para que lo haga presente. Si concluido el plazo concedido al fiador no se obtiene la comparecencia del acusado, se hará efectiva la garantía en los términos del artículo 419 de este Código, y la autoridad judicial ordenará la reaprehensión del inculpado.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 423.
 
-Para revocar la libertad caucional, siempre se deberá oír al Ministerio Público. También se oirá en su caso, al procesado o a su defensor o al fiador, en las hipótesis previstas en las fracciones I y III del artículo 417 y III del 418 de este Código.
+Para revocar la libertad caucional siempre se deberá oír al Ministerio Público, cuando tal decisión corresponda a la autoridad judicial. También se oirá, en su caso, al procesado o a su defensor o al fiador, en las hipótesis previstas en las fracciones, I y III del artículo 417; y III del 418, de este Código.
 
-Cuando la libertad se revoque por las causas señaladas en las fracciones I, II, III y VII del artículo 417 o conforme lo previsto en el artículo 418 de este Código, no se concederá nuevamente la libertad caucional en el proceso correspondiente.
+Cuando la libertad se revoque por las causas señaladas en las fracciones, I, II, III y VII del artículo 417, o conforme lo previsto en el artículo 418 de este Código, no se concederá nuevamente la libertad caucional en la averiguación previa o proceso correspondiente.
 
 ### CAPITULO II. LIBERTAD PROVISIONAL BAJO PROTESTA
 
@@ -3960,5 +4004,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 17 DE NOVIEMBRE DE 2011.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 21 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
