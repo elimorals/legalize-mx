@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-consejo-estatal-electoral-y-de-participacion-875
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-03"
-last_updated: "2009-12-03"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA EN MATERIA DE DENUNCIAS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CONSEJO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA EN MATERIA DE DENUNCIAS, PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO ÚNICAMENTE POR LO QUE REFIERE A LOS ARTÍCULOS RELATIVOS ESPECÍFICAMENTE A LA TRAMITACIÓN DEL PROCEDIMIENTO SANCIONADOR GENERAL Y ESPECIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de diciembre de 2009.
 
@@ -758,3 +760,15 @@ Lic. Rafael Rentería Armendáriz
 Secretario de Actas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Con la vigencia del presente acuerdo se abroga el Reglamento del Consejo Estatal Electoral y de Participación Ciudadana en materia de Denuncias, expedido por acuerdo del Pleno del Consejo número 269/11/2009 de fecha 23 de noviembre del año 2009 dos mil nueve, únicamente por lo que refiere a los artículos relativos específicamente a la tramitación del procedimiento sancionador general y especial. Por lo que hace al procedimiento sancionador en materia de financiamiento de los partidos políticos y agrupaciones políticas, continuará con su vigencia hasta en tanto el Pleno del Consejo emita el Reglamento para el desahogo de los procedimientos administrativos respecto de las quejas que se presenten en materia de fiscalización y vigilancia de los recursos de los partidos políticos a que se refiere el artículo 48, fracción XI de la Ley Electoral del Estado.
+
+TERCERO. Los procedimientos sancionadores que se encuentren en trámite a la entrada en vigor del presente Reglamento, se concluirán en los términos de la reglamentación que se abroga.
+
+CUARTO. Publíquese en el Periódico Oficial del Estado para los efectos legales conducentes.
