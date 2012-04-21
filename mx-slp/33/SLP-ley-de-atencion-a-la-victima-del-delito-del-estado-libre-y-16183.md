@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-la-victima-del-delito-del-estado-libre-y-1618
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-11"
-last_updated: "2000-04-11"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE ATENCION A LA VICTIMA DEL DELITO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-LEY DE ATENCION A LA VICTIMA DEL DELITO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
+LEY DE ATENCIÓN A LA VÍCTIMA DEL DELITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de abril de 2000.
 
@@ -63,11 +63,15 @@ La Procuraduría General de Justicia del Estado, así como las dependencias y or
 
 El Centro de Atención a las Víctimas del Delito será un organismo público descentralizado, con personalidad jurídica y patrimonio propio. Funcionará con un cuerpo colegiado de especialistas en las diversas áreas de servicios que contempla esta Ley, y tendrá por objeto prestar en forma integral a las víctimas de delitos, la ayuda que en cada caso se haga necesaria.
 
-###### ARTICULO 5º.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
-Todos los servicios que proporcione el Centro de Atención a las Víctimas del Delito, serán estrictamente gratuitos.
+###### ARTICULO 5°.
 
-Unicamente se autoriza al Centro para recibir las donaciones o aportaciones que se le otorguen, así como las cantidades indispensables para realizar pagos respecto de trámites que así lo requieran, debiendo justificar los gastos con los recibos correspondientes.
+Todos los servicios proporcionados por el Centro de Atención a las Víctimas del Delito, serán estrictamente gratuitos.
+
+Se autoriza al Centro para recibir las donaciones o aportaciones que se le otorguen, así como las cantidades indispensables para realizar pagos respecto de trámites que así lo requieran, debiendo justificar los gastos con los recibos correspondientes.
+
+El Centro, de acuerdo con las bases, políticas y lineamientos establecidos por la Junta de Gobierno, llevará a cabo las gestiones pertinentes ante las instituciones públicas y privadas para la obtención de recursos que permitan proporcionar apoyo a las víctimas del delito.
 
 ###### ARTICULO 6º.
 
@@ -269,6 +273,72 @@ IV. Verificar el correcto tratamiento y evolución de la víctima.
 
 El Centro contará con una estancia infantil para los hijos de la víctima, para facilitar a ésta la asistencia a diligencias y trámites relacionados con el caso.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
+
+## TITULO CUARTO. DEL FONDO DE APOYO A LAS VICTIMAS DEL DELITO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 26.
+
+El Centro contará con el Fondo de Apoyo a las Víctimas del Delito, en adelante Fondo de Apoyo, cuya administración estará a cargo de un fideicomiso.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 27.
+
+El objeto del Fondo de Apoyo será proporcionar servicios de carácter educacional y económico a víctimas de un delito, acorde con las políticas y lineamientos establecidos al efecto por el Centro.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### Capítulo II. De su Integración y Destino
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 28.
+
+El patrimonio del Fideicomiso del Fondo de Apoyo estará integrado por:
+
+I. Las aportaciones o transferencias que se hagan por los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
+
+II. Las donaciones, herencias o legados, así como las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas físicas o morales;
+
+III. Los reembolsos que se obtengan de la reparación del daño de la victima u ofendido, en los casos en que el Centro haya cubierto el costo de los tratamientos curativos y psicoterapéuticos necesarios para las víctimas de delitos;
+
+IV. Los bienes muebles e inmuebles; y dinero o valores depositados o asegurados por los agentes del Ministerio Público y, en su caso, sus productos, que se destinen al Fondo de Apoyo, por la Procuraduría General de Justicia del Estado;
+
+V. Los intereses o rendimientos que generen los valores del Fondo de Apoyo;
+
+VI. Los ingresos que generen los bienes o valores del Fondo de Apoyo señalados en las fracciones anteriores, y
+
+VII. Todo aquello que se incorpore al Fondo y sea legalmente útil para el cumplimiento de su objeto y fines del fideicomiso.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 29.
+
+Con cargo al patrimonio fideicomitido y de acuerdo con la disponibilidad de recursos, se autorizarán, entre otras que determine la Junta de Gobierno, las siguientes erogaciones:
+
+I. Sufragar los gastos que origine el manejo del fideicomiso;
+
+II. Apoyo a la educación;
+
+III. Servicios funerarios;
+
+IV. Gastos médicos extraordinarios, y
+
+V. Gastos extraordinarios generados por el desarrollo de las actividades propias del Centro.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 30.
+
+Las partes del fideicomiso, sus órganos de gobierno, forma de integración y funcionamiento, serán definidos en el Reglamento de la Ley de Atención a la Víctima del Delito del Estado de San Luis Potosí, de acuerdo con la normatividad aplicable.
+
 ## TRANSITORIOS
 
 PRIMERO. Esta Ley entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado, término en el cual deberá quedar debidamente integrado el Centro de Auxilio a las Víctimas del Delito, conforme lo dispone la presente Ley.
@@ -296,3 +366,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
