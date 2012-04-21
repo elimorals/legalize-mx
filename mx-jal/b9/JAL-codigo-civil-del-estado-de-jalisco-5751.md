@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2011-12-27"
+last_updated: "2012-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # CODIGO CIVIL DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2011.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 28645/LIX/11 PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2011.</small>
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -133,7 +133,7 @@ VII. El Derecho extranjero será aplicable en el Estado en casos de reciprocidad
 
 Los habitantes del Estado de Jalisco, quienes en él se encuentren de manera accidental, y las personas jurídicas, tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este código y en las leyes relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 1998)</small>
 
 ###### Art. 17.
 
@@ -287,7 +287,7 @@ Puede igualmente disponer de su cuerpo total o parcialmente, para después de su
 
 La disposición de cuerpos, órganos y tejidos de seres humanos con fines terapéuticos y de investigación, será siempre a título gratuito.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Art. 39.
 
@@ -321,7 +321,7 @@ V. En caso de concurrencia entre dos o más sujetos de los considerados en las f
 
 VI. (DEROGADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO III. De la información privada
 
@@ -2515,7 +2515,7 @@ X. La declaración de ausencia legalmente hecha o la de presunción de muerte, e
 
 XI. La violencia intrafamiliar, entendida ésta como el maltrato físico o psicológico que infiera un cónyuge a otro o contra sus descendientes, con la intención de dañar, humillar o despreciar al ofendido;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 21945/LVIII/07, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2007, SE DEROGA LA FRACCION XII, RECORRIENDOSE LAS DEMAS EN SU ORDEN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 21945/LVIII/07, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2007, SE DEROGA LA FRACCIÓN XII, RECORRIÉNDOSE LAS DEMÁS EN SU ORDEN.</small>
 
 XII. La incompatibilidad de caracteres que haga imposible la vida conyugal, que sólo podrá invocarse después de pasado un año de celebrado el matrimonio;
 
@@ -2563,7 +2563,7 @@ Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divo
 
 El trámite previsto en el artículo anterior se podrá llevar a cabo mediante método alterno, conforme a la Ley de Justicia Alternativa del Estado de Jalisco.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2011)</small>
 
 ###### Art. 406.
 
@@ -3371,7 +3371,7 @@ El juez puede autorizar a favor de un solo adoptante, la adopción de dos o más
 
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 535.
 
@@ -3655,7 +3655,7 @@ Ninguna de las disposiciones enunciadas en este código, debe ser interpretada e
 
 Cuando de una misma fuente de obligaciones resulten acreedores cualquier persona y un niño, prevalecerán los derechos de éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Art. 572.
 
@@ -3863,7 +3863,7 @@ III. Por la mayoría de edad de éste; y
 
 IV. Por la revocación de la adopción simple.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
 
 ###### Art. 598.
 
@@ -4121,7 +4121,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2011)</small>
 
 ###### Art. 639.
 
@@ -4971,7 +4971,7 @@ Los beneficiarios de los bienes afectos al patrimonio de familia serán represen
 
 Sólo se tendrá derecho a constituir por cada familia un patrimonio, en su modalidad de habitación y de instrumentos de trabajo o en una sola de ellas si así se conviniere. Cuando se constituya un patrimonio subsistiendo el anterior, dicho acto carecerá de eficacia jurídica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Art. 784.
 
@@ -6281,7 +6281,7 @@ No se realizarán obras que atenten a la estabilidad e infraestructura del edifi
 
 IV. Las reparaciones urgentes a bienes o instalaciones comunes cuyo desperfecto ponga en peligro la seguridad de los condóminos, la integridad del inmueble o que impidan el buen funcionamiento de los servicios comunes, deberán ser efectuadas por el administrador en tiempo prudente, de no hacerlo o a falta de administrador, se mandarán realizar por cualquier condómino, sin necesidad de autorización previa, a quien le serán reembolsados los gatos de las mismas, repartiendo el costo entre los condóminos, debiéndose someter finalmente dicho pago a justificación y comprobación en la próxima asamblea de condóminos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2000)</small>
 
 ###### Art. 1010.
 
@@ -10907,7 +10907,7 @@ Tienen restricción para celebrar el contrato de compraventa:
 
 I. Los consortes no pueden celebrar entre sí el contrato de compraventa, salvo que el bien pertenezca en exclusiva a uno de ellos, y el importe del precio sea pagado con dinero exclusivo del otro;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 II. Los magistrados, jueces, árbitros, agentes del Ministerio Público, agentes de la Procuraduría Social y defensores oficiales no podrán comprar bienes que sean objeto de juicio que se tramite dentro de su jurisdicción; ni los abogados, procuradores y peritos, de aquellos que lo fueren de juicios en que intervengan. Tampoco podrán, unos ni otros, ser cesionarios de los derechos que tengan sobre los citados bienes.
 
@@ -11873,7 +11873,7 @@ II. El pago de los daños y perjuicios que se hayan causado a otras personas, si
 
 Todos los arrendamientos, sea de predios rústicos o urbanos que no se hayan celebrado por tiempo expresamente determinado, se entenderán por tiempo indefinido y las obligaciones de las partes continuarán hasta que no se dé por terminada la relación contractual.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 2035.
 
@@ -11985,7 +11985,7 @@ Al término del arrendamiento, el arrendatario que haya cumplido en tiempo con t
 
 Para computar el término de prórroga a que se refiere este artículo, se empezará a contar desde el día en que entró en posesión del inmueble como arrendatario, aunque la finca hubiese cambiado de propietario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 2052.
 
@@ -12497,7 +12497,7 @@ Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día pref
 
 Cuando a la falta de pago del importe de la renta por dos o más meses consecutivos tratándose de inmuebles y de dos quincenas para los muebles, se aúne el abandono del bien, previa certificación de la autoridad judicial, se entregará el mismo al arrendador, cesando en ese momento la obligación de seguir pagando rentas, dándose por concluido el contrato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Art. 2143.
 
@@ -17087,7 +17087,7 @@ Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquél de cuya 
 
 Conocida la muerte de aquél a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
 
 ###### Art. 3008.
 
@@ -17775,7 +17775,7 @@ El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
@@ -17873,7 +17873,7 @@ SEGUNDO: Los procedimientos judiciales iniciados con anterioridad a la entrada e
 
 P.O. 29 DE DICIEMBRE DE 2001.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE CÓDIGO.
 
 DECRETO 19432
 
@@ -18081,13 +18081,13 @@ P.O. 8 DE ENERO DE 2011.
 
 P.O. 3 DE MARZO DE 2011.
 
-DECRETO NUMERO 23502/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 2370 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23502/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 2370 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 3 DE MARZO DE 2011.
 
-DECRETO NUMERO 23506/LIX/11, POR EL QUE SE REFORMAN LOS ARTICULOS 2144 Y 2145 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23506/LIX/11, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2144 Y 2145 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
@@ -18095,13 +18095,13 @@ SEGUNDO. Los contratos suscritos con anterioridad a la entrada en vigor del pres
 
 P.O. 5 DE MAYO DE 2011.
 
-DECRETO NUMERO 23525/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 1989 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23525/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 1989 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 5 DE MAYO DE 2011.
 
-DECRETO NUMERO 23526/LIX/11, POR EL QUE SE REFORMA EL ARTICULO 639 DEL CODIGO CIVIL DEL ESTADO DE JALISCO.
+DECRETO NÚMERO 23526/LIX/11, POR EL QUE SE REFORMA EL ARTÍCULO 639 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
