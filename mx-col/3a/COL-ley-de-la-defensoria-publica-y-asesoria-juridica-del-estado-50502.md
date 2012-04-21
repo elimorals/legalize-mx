@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-publica-y-asesoria-juridica-del-estado-505
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-15"
-last_updated: "2006-05-15"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY DE LA DEFENSORIA PUBLICA Y ASESORIA JURIDICA DEL ESTADO DE COLIMA -ANTES LEY DE LA DEFENSORIA DE OFICIO Y ASESORIA JURIDICA DEL ESTADO DE COLIMA-
 
-LEY DE LA DEFENSORIA DE OFICIO Y ASESORIA JURIDICA DEL ESTADO DE COLIMA
+LEY DE LA DEFENSORÍA PÚBLICA Y ASESORÍA JURÍDICA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el lunes 15 de mayo de 2006.
 
@@ -51,47 +51,75 @@ D E C R E T O No. 368
 
 Se aprueba la Ley de la Defensoría de Oficio y Asesoría Jurídica Del Estado De Colima, para quedar en los siguientes términos:
 
-LEY DE LA DEFENSORÍA DE OFICIO Y ASESORÍA JURÍDICA DEL ESTADO DE COLIMA.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2012)</small>
+
+LEY DE LA DEFENSORÍA PÚBLICA Y ASESORÍA JURÍDICA DEL ESTADO DE COLIMA
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de aplicación en todo el territorio del Estado de Colima, tiene por objeto regular la prestación del servicio de defensoría de oficio en asuntos del fuero común, a fin de garantizar el derecho a la defensa en materia penal y en la protección del interés del adolescente; así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en asuntos del orden civil, familiar, administrativo, mercantil, laboral y, amparo en los términos que la misma establece.
+La presente Ley es de orden público e interés social y de aplicación en todo el territorio del Estado de Colima, tiene por objeto regular la prestación del servicio de defensoría de oficio en asuntos del fuero común, a fin de garantizar el derecho a la defensa en materia penal y en la protección del interés del adolescente; así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en asuntos del orden civil, familiar, administrativo, mercantil, laboral, agrario y amparo en los términos que la misma establece.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 2.
 
-El servicio de defensoría de oficio y asesoría jurídica será gratuito, se prestará bajo los principios de probidad, honradez, profesionalismo y de manera obligatoria.
+El servicio de Defensoría Pública y asesoría jurídica será gratuito, se prestará bajo los principios de probidad, honradez, profesionalismo y de manera obligatoria.
 
-El servicio de Asesoría Jurídica se prestará preferentemente, a:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
+El servicio de Asesoría Jurídica se prestará exclusivamente a:
 
 I. Las personas que estén desempleadas y no perciban ingresos;
 
 II. Los jubilados o pensionados, así como a sus cónyuges;
 
-III. Los que reciban, bajo cualquier concepto, ingresos inferiores a los tres salarios mínimos diarios;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+III. Los que reciban, bajo cualquier concepto, ingresos inferiores a los seis salarios mínimos diarios.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+En lo referente a las fracciones II y III, dicho servicio se prestará siempre y cuando no concurran en la especie, alguna de las siguientes hipótesis:
+
+a).- Que se trate de la tramitación de Juicios Civiles Sumarios, en el orden de arrendamiento, cuando la renta mensual sea superior a la cantidad que resulte de sumar 40 salarios mínimos vigente en el Estado de Colima;
+
+b).- En la que se persiga la Liquidación de sociedad conyugal, en relación a bienes inmuebles.
 
 IV. Los indígenas;
 
-V. Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios; y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-VI Los adolescentes que requieran y que tengan entre 12 años cumplidos y menores de 18 años.
+V. Las personas que por enfermedad, cualquier razón social o económica tengan la necesidad de estos servicios; y
+
+VI. Los adolescentes que requieran y que tengan entre 12 años cumplidos y menores de 18 años.
 
 En asuntos del orden laboral el servicio se prestará, indistintamente, a quienes tengan la calidad de trabajadores, jubilados o pensionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 3.
 
-Para la prestación de los servicios contemplados en esta Ley, se crea la Dirección de Defensoría de Oficio y Asesoría Jurídica del Estado de Colima.
+Para la prestación de los servicios contemplados en esta Ley, se crea la Dirección de Defensoría Pública y Asesoría Jurídica del Estado de Colima.
 
 Para los efectos de la presente ley, el término Dirección se referirá a esta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 4.
 
-Los servicios de Defensoría de Oficio y Asesoría Jurídica se prestarán a través de:
+Los servicios de Defensoría Pública y Asesoría Jurídica se prestarán a través de:
 
-I. Defensores de oficio, en los asuntos del orden penal del fuero común, desde la averiguación previa hasta la ejecución de las penas, y para la protección del interés del adolescente en los términos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-II. Asesores jurídicos en asuntos del orden civil, familiar, administrativo, mercantil, laboral y amparo; y
+I. Defensores públicos, en los asuntos del orden penal del fuero común, desde la averiguación previa hasta la ejecución de las penas, y para la protección del interés del adolescente en los términos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+II. Asesores jurídicos en asuntos del orden civil, familiar, administrativo, laboral, agrario y amparo, respecto a la materia mercantil, únicamente se brindaran los servicios cuando se trate de la parte pasiva, consignaciones de dinero, y asesorías en cobros indebidos; y
 
 III. Defensores y asesores jurídicos de segunda instancia.
 
@@ -99,13 +127,17 @@ III. Defensores y asesores jurídicos de segunda instancia.
 
 Los servidores públicos de la Dirección, disfrutarán de una remuneración adecuada en atención al servicio profesional que prestan de acuerdo al presupuesto destinado para ello; y las relaciones laborales se regirá por esta ley, su reglamento, así como por la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 6.
 
-El Director, el Subdirector, los Defensores de Oficio, los Asesores Jurídicos, de la Dirección serán considerados Servidores Públicos de confianza.
+El Director, el Subdirector, los defensores públicos, los Asesores Jurídicos, de la Dirección serán considerados Servidores Públicos de confianza.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 7.
 
-El Supremo Tribunal de Justicia del Estado, los Juzgados de Primera Instancia del Poder Judicial del Estado, la Procuraduría General de Justicia, el Tribunal de lo Contencioso Administrativo, las Juntas Locales de Conciliación y Arbitraje, el Tribunal de Arbitraje y Escalafón del Estado de Colima, y los Órganos e Instituciones que Integran el Sistema estatal de Justicia para Adolescentes, deberán proporcionar en el interior de sus edificios instalaciones apropiadas para el mejor desempeño de los Defensores o Asesores; los Centros Penitenciarios brindarán las facilidades necesarias para que los Defensores de Oficio puedan realizar de manera eficiente y eficaz las actividades inherentes a su encargo.
+El Supremo Tribunal de Justicia del Estado, los Juzgados de Primera Instancia del Poder Judicial del Estado, la Procuraduría General de Justicia, el Tribunal de lo Contencioso Administrativo, las Juntas Locales de Conciliación y Arbitraje, el Tribunal de Arbitraje y Escalafón del Estado de Colima, y los Órganos e Instituciones que Integran el Sistema estatal de Justicia para Adolescentes, deberán proporcionar en el interior de sus edificios instalaciones apropiadas para el mejor desempeño de los Defensores o Asesores; los Centros Penitenciarios brindarán las facilidades necesarias para que los defensores públicos puedan realizar de manera eficiente y eficaz las actividades inherentes a su encargo.
 
 ###### Artículo 8.
 
@@ -117,9 +149,11 @@ El personal de la Dirección se regirá por esta ley, su reglamento, por los acu
 
 ### CAPÍTULO II. De la Dirección
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 10.
 
-Para la prestación del servicio de Defensoría de Oficio y Asesoría Jurídica en las materias Civil, Familiar, Administrativo, Mercantil, Laboral y de Amparo, se crea la Dirección de Defensoría de Oficio y Asesoría Jurídica del Estado, dependiente de la Secretaría General de Gobierno, con independencia técnica y operativa
+Para la prestación del servicio de Defensoría de Oficio y Asesoría Jurídica en las materias Civil, Familiar, Administrativo, Mercantil, laboral, Agrario y de Amparo, se crea la Dirección de Defensoría Pública y Asesoría Jurídica del Estado, dependiente de la Secretaría General de Gobierno, con independencia técnica y operativa.
 
 La Dirección estará integrada por:
 
@@ -127,7 +161,9 @@ I. El Director;
 
 II. Un Subdirector, Jurídico y Administrativo;
 
-III. Los Defensores de Oficio;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+III. Los Defensores Públicos;
 
 IV. Los Asesores Jurídicos; y
 
@@ -137,13 +173,17 @@ V. Una Unidad Administrativa.
 
 El Director, y el Subdirector serán nombrados y removidos libremente por el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 12.
 
-Los defensores de oficio, los asesores jurídicos, y los peritos, serán nombrados por una Comisión integrada por el Secretario General de Gobierno, quién la presidirá, el Director General de Gobierno, y el Director de Asuntos Jurídicos del Gobierno del Estado, a excepción de los asesores jurídicos en funciones de Procurador para la Defensa del Trabajo, quienes serán nombrados y removidos, en los términos del artículo anterior. El procedimiento a que se sujetará la Comisión para tal efecto, invariablemente será por medio de un examen de oposición y deberá establecerse en una de las disposiciones reglamentarias de la presente ley.
+Los defensores públicos, los asesores jurídicos, y los peritos, serán nombrados por una Comisión integrada por el Secretario General de Gobierno, quién la presidirá, el Director General de Gobierno, y el Director de Asuntos Jurídicos del Gobierno del Estado. El procedimiento a que se sujetará la Comisión para tal efecto, invariablemente será por medio de un examen de oposición y deberá establecerse en una de las disposiciones reglamentarias de la presente ley. En el caso de los asesores jurídicos en funciones de Procurador para la Defensa del Trabajo, estos serán nombrados y removidos, en los términos establecidos en el artículo 24 BIS 6 de la Ley Orgánica de la Administración Pública del Estado de Colima.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 13.
 
-La Dirección de Defensoría de Oficio y Asesoría Jurídica del Estado designará la adscripción de los defensores de oficio, de los asesores jurídicos y al personal de auxilio y Administrativo que se requiera.
+La Dirección de Defensoría Pública y Asesoría Jurídica del Estado designará la adscripción de los defensores públicos, de los asesores jurídicos y al personal de auxilio y Administrativo que se requiera.
 
 ###### Artículo 14.
 
@@ -165,17 +205,27 @@ I. Organizar, dirigir, evaluar y controlar los servicios que preste la Direcció
 
 II. Dar seguimiento a los asuntos penales que se estén defendiendo a efecto de conocer, entre otras cosas, si los procesados con derecho a libertad caucional están gozando de ese beneficio, si cumplen con la obligación de presentarse en los plazos fijados, así como si los procesos se encuentran suspendidos o ha transcurrido el término de prescripción de la acción penal;
 
-III. Conocer de las quejas que se presenten contra los Defensores de Oficio y los Asesores Jurídicos, y en su caso, investigar la probable responsabilidad de los empleados de la Dirección;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-IV. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a Defensores de Oficio y Asesores Jurídicos; determinando si ha incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados de la Dirección;
+III. Conocer de las quejas que se presenten contra los defensores públicos y los Asesores Jurídicos, y en su caso, investigar la probable responsabilidad de los empleados de la Dirección;
 
-V. Proponer al Secretario General de Gobierno, las sanciones y correcciones disciplinarias que se deban imponer a los Defensores de Oficio y Asesores Jurídicos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+IV. Vigilar que se cumplan todas y cada una de las obligaciones impuestas a defensores públicos y Asesores Jurídicos; determinando si ha incurrido en alguna causal de responsabilidad por parte de éstos o de los empleados de la Dirección;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+V. Proponer al Secretario General de Gobierno, las sanciones y correcciones disciplinarias que se deban imponer a los defensores públicos y Asesores Jurídicos;
 
 VI. Promover y fortalecer las relaciones de la Dirección con las instituciones públicas, sociales y privadas que por la naturaleza de sus funciones puedan colaborar al cumplimiento de sus atribuciones;
 
-VII. Elaborar un informe semestral de labores sobre las actividades integrales desarrolladas por todos y cada uno de los Defensores de Oficio y Asesores Jurídicos que pertenezcan a la Dirección, el cual deberá ser entregado al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-VIII. Fijar, mediante circulares, la política y las acciones relacionadas con la Defensoría de Oficio, considerando las opiniones que al respecto se le formulen;
+VII. Elaborar un informe semestral de labores sobre las actividades integrales desarrolladas por todos y cada uno de los defensores públicos y Asesores Jurídicos que pertenezcan a la Dirección, el cual deberá ser entregado al Gobernador del Estado;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+VIII. Fijar, mediante circulares, la política y las acciones relacionadas con la Defensoría Pública, considerando las opiniones que al respecto se le formulen;
 
 IX. Proponer al Gobernador del Estado las recompensas y estímulos económicos que se otorguen anualmente al personal de la Dirección conforme al Reglamento de esta Ley; y
 
@@ -203,35 +253,53 @@ II. Auxiliar al Director en sus funciones;
 
 III. Supervisar que el personal de la Dirección cumpla las instrucciones del Director;
 
-IV. Acordar con el Director todos los asuntos inherentes a los servicios jurídicos de la Defensoría de Oficio y Asesoría Jurídica y a su funcionamiento interno;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-V. Informar al Director de la necesidades y requerimientos de los Defensores de Oficio y Asesores Jurídicos para el buen desempeño de sus actividades;
+IV. Acordar con el Director todos los asuntos inherentes a los servicios jurídicos de la Defensoría Pública y Asesoría Jurídica y a su funcionamiento interno;
 
-VI. Supervisar las labores de los defensores de oficio, asesores jurídicos y demás personal de la Dirección, informando periódicamente los resultados de la supervisión al Director, y proponer a éste las medidas que considere adecuadas para el buen funcionamiento del servicio;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+V. Informar al Director de las necesidades y requerimientos de los defensores públicos y Asesores Jurídicos para el buen desempeño de sus actividades;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+VI. Supervisar las labores de los defensores Públicos, asesores jurídicos y demás personal de la Dirección, informando periódicamente los resultados de la supervisión al Director, y proponer a éste las medidas que considere adecuadas para el buen funcionamiento del servicio;
 
 VII. Promover la coordinación con las dependencias de la Administración Pública Federal, Estatal y Municipal así como con las organizaciones de la sociedad en general, para buen desempeño de la Dirección;
 
-VIII. Vigilar que los Defensores de oficio y asesores jurídicos cumplan, con la atención y respeto debido al público, en los negocios jurídicos que le competen;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+VIII. Vigilar que los defensores públicos y asesores jurídicos cumplan, con la atención y respeto debido al público, en los negocios jurídicos que le competen;
 
 IX. Atender las quejas que le presenten las autoridades y los usuarios y, adoptar las medidas que procedan;
 
-X. Nombrar en las faltas temporales a los Defensores de Oficio o Asesores Jurídicos en la adscripción que corresponda de acuerdo al rol de suplencias;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-XI. Designar a petición del usuario cuando el caso lo requiera otro Defensor de Oficio o Asesor Jurídico para que conozca del caso;
+X. Nombrar en las faltas temporales a los defensores públicos o Asesores Jurídicos en la adscripción que corresponda de acuerdo al rol de suplencias;
 
-XII. Designar defensor de Oficio o Asesor Jurídico que lo represente ante la ausencia del defensor particular o representante legal, para la practica de cualquier diligencia sin perjuicio de que en su momento continué interviniendo el profesionista personalmente nombrado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-XIII. Crear los programas de trabajo de los defensores de Oficio y Asesores Jurídicos adscritos a la Dirección; y
+XI. Designar a petición del usuario cuando el caso lo requiera otro defensor público o Asesor Jurídico para que conozca del caso;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+XII. Designar defensor público o Asesor Jurídico que lo represente ante la ausencia del defensor particular o representante legal, para la práctica de cualquier diligencia sin perjuicio de que en su momento continué interviniendo el profesionista personalmente nombrado;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+XIII. Crear los programas de trabajo de los defensores públicos y Asesores Jurídicos adscritos a la Dirección; y
 
 XIV. Todas las demás que le confieren esta Ley, su reglamento y el Director.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 18.
 
-Para ser Defensor de Oficio o Asesor Jurídico se requiere:
+Para ser defensor público o Asesor Jurídico se requiere:
 
-I. Ser ciudadano mexicano, en ejercicio de sus derechos políticos y civiles;
+I.- Ser ciudadano mexicano, en ejercicio de sus derechos políticos y civiles;
 
-II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente;
+II.- Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente;
 
 III.- Tener como mínimo tres años de experiencia profesional en las materias relacionadas con la prestación de sus servicios;
 
@@ -241,9 +309,11 @@ V.- Aprobar los exámenes de ingreso y oposición correspondientes; y
 
 VI.- En materia de Adolescentes tener al menos un año de experiencia en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 19.
 
-Los Defensores de Oficio y Asesores Jurídicos están obligados a:
+Los defensores públicos y Asesores Jurídicos están obligados a:
 
 I.- Prestar personalmente el servicio de defensa, orientación, asesoría y representación a las personas que lo soliciten, en los términos que establece la Constitución Política del Estado Libre y Soberano de Colima, esta Ley y las demás disposiciones aplicables;
 
@@ -259,9 +329,11 @@ VI.- Atender con cortesía a los usuarios y prestar sus servicios con diligencia
 
 VII.- Las demás que se deriven de la naturaleza de sus funciones y de las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 20.
 
-A los defensores de oficio y asesores jurídicos les está prohibido:
+A los defensores públicos y asesores jurídicos les está prohibido:
 
 I.- Desempeñar otro empleo; cargo o comisión en alguno de los tres órdenes de gobierno, salvo el desempeño de actividades docentes;
 
@@ -269,19 +341,25 @@ II.- El ejercicio particular de la profesión de abogado, salvo que se trate de 
 
 III.- Actuar como mandatarios judiciales, tutores, curadores o albaceas, depositarios judiciales, síndicos, administradores, interventores en quiebra o concurso, ni corredores, notarios, comisionistas, árbitros, endosatarios en procuración, o ejercer cualquier otra actividad cuando ésta sea incompatible con sus funciones.
 
-### CAPITULO III. De los Defensores de Oficio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### CAPITULO III. De los Defensores Públicos
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 21.
 
-Los defensores de oficio serán asignados inmediatamente sin más requisitos que la solicitud formulada por el indiciado, el inculpado o procesado, el sentenciado y el Agente del Ministerio Público Investigador o el órgano jurisdiccional, según sea el caso, o bien por los adolescentes o sus representantes de estos, que se encuentren en los Órganos e Instituciones que Integran el Sistema Estatal de Justicia para Adolescentes.
+Los defensores públicos serán asignados inmediatamente sin más requisitos que la solicitud formulada por el indiciado, el inculpado o procesado, el sentenciado y el Agente del Ministerio Público Investigador o el órgano jurisdiccional, según sea el caso, o bien por los adolescentes o sus representantes de estos, que se encuentren en los Órganos e Instituciones que Integran el Sistema Estatal de Justicia para Adolescentes.
 
-En el caso de los adolescentes, el defensor de oficio adscrito al Centro de Internamiento para Adolescentes, deberá enterarse acerca de la imputación que se le haga y presentar los elementos de defensa a favor del propio adolescente.
+En el caso de los adolescentes, el defensor público adscrito al Centro de Internamiento para Adolescentes, deberá enterarse acerca de la imputación que se le haga y presentar los elementos de defensa a favor del propio adolescente.
 
-Cuando el indiciado, el inculpado o procesado, así como el sentenciado, o bien los familiares de éstos no hagan valer su derecho a nombrar un defensor, el Agente del Ministerio Público o el órgano jurisdiccional ante quien se encuentre a su disposición, deberá salvaguardar su garantía de defensa requiriendo para tal efecto que nombre uno, en caso que éste no quiera o no pueda nombrarlo, inmediatamente se requerirá a la Dirección para que le asigne un defensor de oficio.
+Cuando el indiciado, el inculpado o procesado, así como el sentenciado, o bien los familiares de éstos no hagan valer su derecho a nombrar un defensor, el Agente del Ministerio Público o el órgano jurisdiccional ante quien se encuentre a su disposición, deberá salvaguardar su garantía de defensa requiriendo para tal efecto que nombre uno, en caso que éste no quiera o no pueda nombrarlo, inmediatamente se requerirá a la Dirección para que le asigne un defensor público.
 
-###### ARTÍCULO 22.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
-Son obligaciones del Defensor de Oficio ante el Ministerio Público del fuero común o el Ministerio Público para Adolescentes, además de las señaladas en el Código de Procedimientos Penales para el Estado de Colima, las siguientes:
+###### Artículo 22.
+
+Son obligaciones del defensor público ante el Ministerio Público del fuero común o el Ministerio Público para Adolescentes, además de las señaladas en el Código de Procedimientos Penales para el Estado de Colima, las siguientes:
 
 I.- Atender inmediatamente las solicitudes formuladas por el indiciado, el Agente del Ministerio Público del fuero común o por el Agente del Ministerio Público para Adolescentes y asumir desde ese momento la defensa de aquél;
 
@@ -297,9 +375,11 @@ VI.- Analizar las constancias que obren en el expediente a fin de contar con may
 
 VII.- Procurar la continuidad y uniformidad de criterios en la defensa, y las demás promociones necesarias para realizar una defensa conforme a derecho, que propicien una impartición de justicia pronta y expedita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 23.
 
-Son obligaciones del defensor de oficio ante el Supremo Tribunal de Justicia del Estado, los juzgados del fuero común o ante los Órganos e Instituciones que Integran el Sistema Estatal de Justicia para Adolescentes, las siguientes:
+Son obligaciones del defensor Público ante el Supremo Tribunal de Justicia del Estado, los juzgados del fuero común o ante los Órganos e Instituciones que Integran el Sistema Estatal de Justicia para Adolescentes, las siguientes:
 
 I.- Atender inmediatamente las solicitudes que le sean formuladas por el inculpado, por el juez de la causa, por el Magistrado del Supremo Tribunal de Justicia o por los Órganos e Instituciones que Integran el Sistema estatal de Justicia para Adolescentes y asumir desde ese momento la defensa de aquél;
 
@@ -309,7 +389,7 @@ III.- Entrevistar al defendido en privado y de manera previa a su declaración p
 
 IV.- Asistir y asesorar jurídicamente al defendido previamente a que rinda su declaración preparatoria, hacerle saber sus derechos y plantear una defensa adecuada;
 
-V.-Hacer valer los medios que desvirtúen el cuerpo del delito o la probable responsabilidad del defendido, en cualquier etapa del proceso, ofreciendo las pruebas y promoviendo los incidentes, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
+V.- Hacer valer los medios que desvirtúen el cuerpo del delito o la probable responsabilidad del defendido, en cualquier etapa del proceso, ofreciendo las pruebas y promoviendo los incidentes, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
 
 VI.- Formular las conclusiones a que se refiere el Código de Procedimientos Penales para el Estado, en el momento procesal oportuno;
 
@@ -323,9 +403,11 @@ X.- Vigilar el adecuado cumplimiento de las sentencias, procurando para sus repr
 
 XI.- Realizar todas las demás promociones que sean necesarias para una adecuada defensa conforme a derecho.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 24.
 
-Las quejas que formulen los defensores de oficio, los detenidos o internos en establecimientos de detención o reclusión por falta de atención médica, por tortura, por tratos crueles, inhumanos o degradantes, por golpes y cualquier otra violación a sus derechos humanos que provengan de cualquier servidor público, se denunciarán ante el Ministerio Público, o ante la autoridad que tenga a su cargo los reclusorios y Centros de Readaptación Social o los Órganos e Instituciones que Integran el Sistema estatal de Justicia para Adolescentes. Esto con el propósito de que las autoridades adopten las medidas que pongan fin a tales violaciones y, en su caso, se sancione a quienes las hubiesen cometido, de conformidad con la legislación aplicable.
+Las quejas que formulen los defensores públicos, los detenidos o internos en establecimientos de detención o reclusión por falta de atención médica, por tortura, por tratos crueles, inhumanos o degradantes, por golpes y cualquier otra violación a sus derechos humanos que provengan de cualquier servidor público, se denunciarán ante el Ministerio Público, o ante la autoridad que tenga a su cargo los reclusorios y Centros de Readaptación Social o los Órganos e Instituciones que Integran el Sistema estatal de Justicia para Adolescentes. Esto con el propósito de que las autoridades adopten las medidas que pongan fin a tales violaciones y, en su caso, se sancione a quienes las hubiesen cometido, de conformidad con la legislación aplicable.
 
 ### CAPITULO IV. De los Asesores Jurídicos en Asuntos del Orden Familiar, Mercantil y Civil
 
@@ -391,29 +473,41 @@ La asesoría jurídica en materia administrativa se prestará a las personas que
 
 La asesoría en materia de amparo se prestará de manera potestativa en aquellos juicios de Amparo que se promuevan como consecuencia de juicios del orden común que se hayan patrocinado por la Dirección. La asesoría se regirá conforme a los términos que establece la Ley de Amparo.
 
-### CAPITULO VIII. De los Servicios Auxiliares
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2012)</small>
 
-### CAPITULO IX. Capacitación
+### CAPITULO VII BIS. De la Asesoría en materia Agraria
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+Artículo 33 BIS.- La asesoría jurídica en materia agraria se prestará a los campesinos, comuneros, ejidatarios, pequeños propietarios, y en general a toda persona que requiera regularizar la tenencia de la tierra, que además perciba ingresos inferiores a los señalados en el artículo 2 fracción III de esta ley.
+
+### CAPITULO VIII. De los Servicios Auxiliares
 
 ###### Artículo 34.
 
 Cuando las necesidades del servicio lo requieran y para la eficaz atención de los asuntos de su competencia, la Dirección contará con los peritos y trabajadores sociales que se requieran en las diversas artes, ciencias, profesiones u oficios, quienes tendrán las siguientes obligaciones:
 
-I.- Rendir oportunamente los dictámenes periciales que les sean solicitados por defensores de oficio y asesores jurídicos en el desempeño de su cargo y acudir, en su caso, a las diligencias y audiencias que sean necesarias;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+I. Rendir oportunamente los dictámenes periciales que les sean solicitados por los defensores públicos y asesores jurídicos en el desempeño de su cargo y acudir, en su caso, a las diligencias y audiencias que sean necesarias;
 
 II.- Rendir, dentro de los cinco primeros días de cada mes, un informe de las actividades realizadas en el mes inmediato anterior, en el que se consigne el avance de los asuntos a él encomendados; y
 
 III.- Las demás que señale el reglamento de esta ley u otro ordenamiento jurídico aplicable.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 35.
 
-Para promover la participación de estudiantes de la licenciatura en derecho, en los servicios de defensoría de oficio y asesoría jurídica, la Dirección podrá celebrar convenios con las universidades públicas o privadas para que los estudiantes puedan prestar su servicio social, de conformidad con los requisitos que al efecto establezcan las bases generales de organización y funcionamiento.
+Para promover la participación de estudiantes de la licenciatura en derecho, en los servicios de Defensoría Pública y asesoría jurídica, la Dirección podrá celebrar convenios con las universidades públicas o privadas para que los estudiantes puedan prestar su servicio social, de conformidad con los requisitos que al efecto establezcan las bases generales de organización y funcionamiento.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 36.
 
-Las actividades que se realicen por prestadores de servicio social, en todo momento estarán supervisadas por un defensor de oficio o un asesor jurídico, en su caso.
+Las actividades que se realicen por prestadores de servicio social, en todo momento estarán supervisadas por un defensor Público o un asesor jurídico, en su caso.
 
-### CAPITULO X. De Los Exámenes de Oposición
+### CAPITULO IX. Capacitación
 
 ###### Artículo 37.
 
@@ -427,17 +521,21 @@ El personal Técnico Auxiliar será incorporado a los programas de capacitación
 
 La Dirección contará con una biblioteca, cuyo acervo bibliográfico, se especializará en las materias que favorezcan el cumplimiento de los objetivos de la misma.
 
-### CAPÍTULO XI. De los Impedimentos
+### CAPITULO X. De Los Exámenes de Oposición
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 40.
 
-Los exámenes de oposición serán calificados por una comisión integrada por el Director, Subdirector Jurídico y un representante del Secretario General de Gobierno, los cuales se aplicaran a los aspirantes a ocupar el cargo de Defensores de Oficio y al personal Técnico Especializado, previa convocatoria en la que se señalaran las bases de la misma.
+Los exámenes de oposición serán calificados por una comisión integrada por el Director, Subdirector Jurídico y un representante del Secretario General de Gobierno, los cuales se aplicaran a los aspirantes a ocupar el cargo de defensores públicos y al personal Técnico Especializado, previa convocatoria en la que se señalaran las bases de la misma.
 
-### CAPITULO XII. De la Responsabilidad de los Defensores de Oficio y Asesores Jurídicos
+### CAPÍTULO XI. De los Impedimentos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 41.
 
-Los Defensores de Oficio y Asesores Jurídicos deberán excusarse de aceptar, conocer, patrocinar, defender o de continuar una causa legal, cuando exista alguna de las siguientes causas de impedimento:
+Los defensores públicos y Asesores Jurídicos deberán excusarse de aceptar, conocer, patrocinar, defender o de continuar una causa legal, cuando exista alguna de las siguientes causas de impedimento:
 
 I. Cuando hayan vertido amenazas o manifestado de algún modo, su animadversión por quienes lo designen;
 
@@ -457,11 +555,15 @@ VIII. Cuando sea tutor o curador del ofendido o de la contraparte del solicitant
 
 IX. Cuando esté en una situación análoga o más grave de las mencionadas, que pueda afectar su ánimo de tal manera que se traduzca en un perjuicio de los intereses del acusado.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### Artículo 42.
 
-El Defensor de Oficio o en su caso el Asesor Jurídico, expondrá por escrito su excusa al Director, quien después de cerciorarse que es justificada, designará a otro Defensor o Asesor Jurídico.
+El defensor público o en su caso el Asesor Jurídico, expondrá por escrito su excusa al Director, quien después de cerciorarse que es justificada, designará a otro Defensor o Asesor Jurídico.
 
-### CAPITULO XIII. De las Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO XII. De la Responsabilidad de los Defensores Públicos y Asesores Jurídicos
 
 ###### Artículo 43.
 
@@ -495,13 +597,19 @@ XIII. Faltar o llegar tarde frecuentemente a las audiencia en las que deban inte
 
 XIV. Dejar de cumplir cualquiera de las demás obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores.
 
-###### Artículo 44.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
-También serán causas de responsabilidad para cualquier servidor público de los sistemas de procuración y administración de justicia estatal, realizar conductas que atenten contra la autonomía e independencia de los Defensores de Oficio y Asesores Jurídicos, o cualquier otra acción que genere o implique subordinación indebida de estos servidores públicos respecto de alguna persona o autoridad.
+###### Articulo 44.
+
+También serán causas de responsabilidad para cualquier servidor público de los sistemas de procuración y administración de justicia estatal, realizar conductas que atenten contra la autonomía e independencia de los defensores públicos y Asesores Jurídicos, o cualquier otra acción que genere o implique subordinación indebida de estos servidores públicos respecto de alguna persona o autoridad.
+
+### CAPITULO XIII. De las Sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### Artículo 45.
 
-De acuerdo a la gravedad de los hechos que den motivo a responsabilidad, el Secretario General de Gobierno o el Director, podrán imponer a los defensores de oficio y Asesores Jurídicos, las siguientes sanciones:
+De acuerdo a la gravedad de los hechos que den motivo a responsabilidad, el Secretario General de Gobierno o el Director, podrán imponer a los defensores públicos y Asesores Jurídicos, con excepción de los que estén en funciones de Procurador de la Defensa del Trabajo las siguientes sanciones:
 
 I. Extrañamiento;
 
@@ -527,7 +635,9 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan a la present
 
 CUARTO.- Todos los recursos, instalaciones y mobiliario pertenecientes a las Defensorías de Oficio del Estado se entregarán, previo inventario de la Dirección de Patrimonio del Gobierno del Estado, a la Dirección de Defensoría de Oficio del Estado.
 
-QUINTO.- Sin perjuicio de sus derechos laborales, se incorporarán a la Dirección los Defensores de Oficio adscritos a la Dirección de Prevención y Readaptación Social del Gobierno del Estado, a la Procuraduría General de Justicia del Estado, al Tribunal de lo Contencioso Administrativo del Estado, así como el personal de la Procuraduría de la Defensa del Trabajo.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+QUINTO.- Sin perjuicio de sus derechos laborales, se incorporarán a la Dirección los Defensores de Oficio adscritos a la Dirección de Prevención y Readaptación Social del Gobierno del Estado, a la Procuraduría General de Justicia del Estado, y al Tribunal de lo Contencioso Administrativo del Estado.
 
 SEXTO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias conducentes para la debida aplicación de esta ley, dentro de los seis meses siguientes a la entrada en vigor de la misma.
 
@@ -544,3 +654,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los 15 días del mes de mayo del año dos mil seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
