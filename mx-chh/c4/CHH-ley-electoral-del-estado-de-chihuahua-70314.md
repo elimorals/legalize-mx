@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2009-10-03"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -3845,6 +3845,10 @@ f) En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del inc
 
 4. Las multas deberán ser pagadas en el Instituto Estatal Electoral; si el infractor no cumple con su obligación, el órgano dará vista a las autoridades competentes a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+Los ingresos de las multas aplicadas serán destinados al Consejo Estatal de Ciencia, Tecnología e Innovación.
+
 ### CAPÍTULO CUARTO. DE LAS OBLIGACIONES DEL INSTITUTO ESTATAL ELECTORAL EN MATERIA DE SANCIONES APLICABLES POR OTRAS AUTORIDADES
 
 Artículo 254
@@ -5546,3 +5550,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los once días del mes de septiembre del año dos mil nueve.
 
 El Gobernador Constitucional del Estado. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. El Secretario General de Gobierno. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
