@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-04-12"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -293,9 +293,9 @@ II. En caso de fallecimiento de la víctima u ofendido, el cónyuge supérstite 
 
 III. A falta de los anteriores, los demás descendientes y ascendientes que dependieran económicamente de aquéllos al momento de su fallecimiento;
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-IV. El Estado, a través del área encargada de la atención a las víctimas del delito, en los casos en que haya cubierto el costo de los tratamientos curativos y psicoterapéuticos necesarios para las mujeres, niñas y niños víctimas de delitos, contra la libertad, el normal desarrollo psicosexual, de violencia familiar y de género, y
+IV. El Estado, a través del área encargada de la atención a las víctimas del delito, en los casos en que haya cubierto el costo de los tratamientos curativos y psicoterapéuticos necesarios para las víctimas de delitos, y
 
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
 
@@ -415,21 +415,29 @@ Las autoridades competentes procederán de inmediato al aseguramiento de los bie
 
 Los objetos de uso lícito con que se cometa el delito y que sean propiedad del imputado o presunto responsable, se asegurarán de oficio por la autoridad competente o a petición del ofendido para garantizar el pago de la reparación del daño y solamente se levantará el aseguramiento o no se llevará al (sic) cabo si se otorga caución bastante para responder del mismo.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 36.
 
-Los instrumentos o cosas decomisados de uso lícito se destinarán por la autoridad competente al pago de la reparación del daño conforme lo establece el Capítulo Tercero de este Título. Si la reparación del daño ya hubiere sido pagada o garantizada por otro medio, los instrumentos o cosas decomisados se destinarán para beneficio de la administración de la justicia.
+Los instrumentos o cosas decomisados de uso lícito se destinarán por la autoridad competente, al pago de la reparación del daño conforme lo establece el capítulo tercero de este Título. Si la reparación del daño ya hubiere sido pagada o garantizada por otro medio, los instrumentos o cosas decomisados se destinarán para proporcionar apoyo a las víctimas del delito; o en beneficio de la procuración y administración de la justicia.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 37.
 
-Si se tratare de substancias nocivas o peligrosas la autoridad judicial podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción, si fuere indispensable.
+Si se tratare de substancias nocivas o peligrosas, el Ministerio Público o, la autoridad judicial, podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción, si fuere indispensable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 38.
 
-Los objetos que se encuentren a disposición de las autoridades investigadoras y de las judiciales del orden penal, que no hayan sido ni puedan ser decomisados y que en el lapso de un año no sean recogidos por quien tenga derecho para hacerlo, en los casos en que proceda su devolución, se destinarán en definitiva, previa resolución judicial, al mejoramiento de los servicios de la administración de justicia.
+Los objetos que se encuentren a disposición de las autoridades investigadoras y de las judiciales del orden penal, que no hayan sido, ni puedan ser decomisados, y que en el lapso de tres meses, a partir de la notificación a quien tenga derecho para recogerlos en los casos que proceda su devolución, no lo haga, se destinarán en definitiva, previa resolución de la autoridad que conozca del caso, para proporcionar apoyo a las víctimas del delito; o en beneficio de la procuración y administración de la justicia.
 
 Cuando se trate de dinero o valores que estén a disposición de las autoridades mencionadas, se procederá conforme a lo previsto en la última parte del párrafo anterior.
 
-En caso de bienes que se encuentran a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de seis meses, a partir de la notificación que se haga, transcurrido el cual se aplicará al mejoramiento de la administración de justicia.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+En caso de bienes que se encuentran a disposición del Ministerio Público o de la autoridad judicial, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública con el conocimiento de quien tenga derecho al mismo, y el producto se dejará a su disposición por un lapso de treinta días, a partir de la notificación que se haga, transcurrido el cual se aplicará para proporcionar apoyo a las víctimas del delito; o en beneficio de la procuración, y administración de la justicia.
 
 ### CAPITULO VI. SUSPENSION, PRIVACION E INHABILITACION DE DERECHOS
 
@@ -4166,3 +4174,19 @@ P.O. 12 DE ABRIL DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE ABRIL DE 2012.
+
+DECRETO No. 957 POR EL QUE SE REFORMA, LOS ARTÍCULOS, 36 A 39, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
+
+P.O. 21 DE ABRIL DE 2012.
+
+DECRETO No. 958 POR EL QUE SE REFORMA EL ARTÍCULO 23 EN SU FRACCIÓN IV, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
