@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-procuraduria-general-de-justicia-del-69317"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-07"
-last_updated: "2011-11-10"
+last_updated: "2012-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de julio de 2009.
 
@@ -1349,7 +1349,7 @@ VI. Las demás que le confieran otras disposiciones aplicables.
 
 La Contraloría Interna de la Procuraduría determinará las responsabilidades e impondrá las sanciones a que se hagan acreedores los servidores públicos de la institución, en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, mediante el procedimiento que dicha ley y las demás aplicables previenen, a excepción del personal sustantivo de carrera, quienes se regirán por los títulos Tercero y Cuarto de esta Ley, en cuyo caso, solamente substanciará el procedimiento previsto en el Reglamento de la misma, hasta dejar los asuntos en estado de resolución, el que será sancionado con amonestación, suspensión o inhabilitación, según corresponda, por los servidores públicos descritos en el artículo 140 de este Ordenamiento, de acuerdo a su área de adscripción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
 ### Capítulo XII. Del Centro de Evaluación y Control de Confianza; y Del Centro de Operaciones Estratégicas para el Combate al Narcomenudeo
 
@@ -2077,9 +2077,25 @@ VI. Establecer criterios y políticas generales de capacitación, formación, ac
 
 VII. Dictar las normas necesarias para la regulación de su organización y funcionamiento;
 
-VIII. Establecer los órganos y comisiones que deban auxiliarlo en el desempeño de sus funciones, y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
 
-IX. Las demás que le otorguen las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia.
+VIII. Establecer los órganos y comisiones que deban auxiliarlo en el desempeño de sus funciones;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+IX. Proponer al Procurador el otorgamiento de estímulos y recompensas al personal directivo y de carrera;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+X. Determinar el destino y aplicación de los recursos provenientes del Fondo de Apoyo para la Procuración de Justicia;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+XI. Verificar que la Dirección de Administración aplique los recursos del Fondo de Apoyo para la Procuración de Justicia, conforme a las determinaciones emitidas, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2012)</small>
+
+XII. Las demás que le otorguen las disposiciones reglamentarias del Servicio de Carrera de Procuración de Justicia.
 
 ###### ARTICULO 128.
 
@@ -2417,6 +2433,98 @@ Cuando proceda alguna excusa se llevará a cabo lo dispuesto para la suplencia.
 
 La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, dará lugar a las medidas de apremio, o a la imposición de correcciones disciplinarias, según sea el caso, en los términos que previenen las normas aplicables. Cuando la desobediencia o resistencia constituya delito, se le iniciará averiguación previa respectiva.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
+
+## TITULO SEXTO. DEL FONDO DE APOYO PARA LA PROCURACION DE JUSTICIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 151.
+
+Para los efectos de esta Ley se entiende por Fondo de Apoyo, al Fondo de Apoyo para la Procuración de Justicia, que tiene por objeto subsidiar todos aquellos gastos no considerados en el presupuesto anual de egresos asignado a la Procuraduría, y que tienden al mejoramiento de la procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 152.
+
+En la administración del Fondo de Apoyo, la Dirección de Administración de la Procuraduría deberá observar, las políticas y lineamientos de la Secretaría de Finanzas; las determinaciones del Consejo de Carrera de Procuración de Justicia; y las siguientes bases mínimas:
+
+I. Resguardar los bienes o cantidades recibidas en depósitos, mediante certificados nominativos y no negociables;
+
+II. Invertir cantidades en la adquisición de títulos o valores de renta fija, y
+
+III. Cuidar que los bienes muebles o inmuebles que fueron solventados con recursos del Fondo de Apoyo, satisfagan los fines para los que fueron adquiridos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 153.
+
+La Dirección de Administración de la Procuraduría rendirá mensualmente a la Secretaría de Finanzas, y al Consejo de Carrera de Procuración de Justicia, un informe del estado que guarda el Fondo de Apoyo; y enviará una copia del mismo a la Contraloría Interna para los efectos procedentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2012)</small>
+
+### Capitulo II. De su Integración y Destino
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 154.
+
+El Fondo de Apoyo se integrará con:
+
+I. El importe de las cauciones otorgadas para garantizar la libertad provisional, en administración; y en propiedad, las que se hagan efectivas;
+
+II. El monto de la reparación del daño, cuando la parte ofendida o la víctima, renuncie a él, o no lo reclame dentro del plazo de treinta días hábiles, contados a partir de la notificación de que quedó a su disposición;
+
+III. Las multas impuestas por los agentes del Ministerio Público, o por los funcionarios de la Procuraduría que en el ejercicio de sus funciones tengan ese carácter;
+
+IV. Los bienes y valores depositados por cualquier motivo ante el Ministerio Público cuando no fueren reclamados por el depositante o por quien tenga derecho a ellos, dentro del plazo de noventa días hábiles, observándose en su caso lo dispuesto en el Código Penal del Estado sobre objetos puestos a su disposición que no hayan sido, ni puedan ser decomisados;
+
+V. Los intereses o rendimientos provenientes de cantidades consignadas ante el Ministerio Público por los particulares, cualquiera que sea la causa;
+
+VI. El numerario, o los bienes asegurados incautados o decomisados, siguiendo la regla de la fracción I; con excepción de aquéllos a que se refiere la Ley de Extinción de Dominio para el Estado;
+
+VII. Las sanciones económicas que se impongan al personal de la Procuraduría con motivo de procedimientos administrativos disciplinarios o resarcitorios que hayan quedado firmes;
+
+VIII. Los ingresos que generen los bienes o valores del Fondo de Apoyo;
+
+IX. Las aportaciones o transferencias que hagan los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
+
+X. Las donaciones, herencias o legados, así como las aportaciones en efectivo o en especie, que a título gratuito otorguen las personas físicas o morales, y
+
+XI. Todas aquéllas aportaciones o transferencias provenientes de instituciones u organismos nacionales o internacionales.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+###### ARTICULO 155.
+
+Con cargo a los recursos del Fondo de Apoyo se podrán realizar las siguientes erogaciones:
+
+I. Conservación y mantenimiento de bienes muebles e inmuebles asignados a la dependencia;
+
+II. Adquisición de consumibles como son, entre otros, papel, tóner y demás objetos necesarios para integración y confección de expedientes;
+
+III. Aportaciones al Centro de Atención a Víctimas del Delito (CAVID);
+
+IV. Capacitación, formación, desarrollo o actualización profesional para el personal sustantivo y operativo de la Procuraduría;
+
+V. Pago de viáticos, honorarios o contratación de servicios profesionales, conforme a las políticas y lineamientos aplicables;
+
+VI. Adquisición de bienes muebles o inmuebles, así como construcción o remodelación de bienes inmuebles destinados a la procuración de Justicia;
+
+VII. Estímulos y premios por buen desempeño, productividad o calidad en el servicio de procuración de justicia;
+
+VIII. Recompensas por la aportación de datos para el esclarecimiento de un delito, y
+
+IX. Los demás que determine el Consejo de Carrera de Procuración de Justicia.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+
+ARTICULO .156. El Consejo de Carrera de Procuración de Justicia establecerá las bases, políticas y lineamientos específicos para el destino y aplicación de los recursos provenientes del Fondo de Apoyo.
+
 ## TRANSITORIOS
 
 PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
@@ -2474,3 +2582,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 No obstante lo anterior, para la implementación del presente Decreto el Estado contará con un plazo de tres años a partir de su entrada en vigor.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE ABRIL DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a éste.
