@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2011-11-16"
+last_updated: "2012-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -1016,7 +1016,7 @@ Toda persona tendrá derecho a que las autoridades en materia forestal pongan a 
 
 La Secretaría regulará los procedimientos y metodología a fin de que la Comisión integre el Inventario Nacional Forestal y de Suelos, el cual deberá relacionar de manera organizada y sistemática los datos estadísticos y contables de los bienes y servicios ambientales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 45.
 
@@ -1172,7 +1172,7 @@ La Secretaría integrará el Sistema Nacional de Gestión Forestal, partiendo de
 
 Con base en el Sistema Nacional de Información Forestal, la Secretaría deberá elaborar, publicar y difundir un informe bianual sobre la situación del sector forestal, así como las medidas que se adoptarán para revertir los procesos de degradación de los recursos forestales, rezagos y avances de los componentes ambientales, sociales y económicos, con la información que para tal efecto proporcionen la Comisión y otras dependencias o entidades.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
 #### Sección Octava: (sic). Del Estudio Satelital Anual del Índice de Cobertura Forestal
 
@@ -1850,7 +1850,9 @@ La reforestación que se realice con propósitos de conservación y restauració
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios técnicos forestales que, en su caso, funja como encargado técnico será responsable solidario junto con el titular, de la ejecución del programa en este aspecto.
 
-Los tres órdenes de gobierno impulsarán la reforestación con especies forestales autóctonas o nativas. La norma oficial mexicana definirá las especies de vegetación forestal exótica, que por sus características biológicas afecten los procesos o patrones de distribución de la vegetación forestal nativa en terrenos forestales y preferentemente forestales, cuya autorización esté prohibida.
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+Los tres órdenes de gobierno se coordinarán para que, en el ámbito de sus respectivas competencias, implementen programas de reforestación, así como para el monitoreo y seguimiento de los mismos. Se impulsará la reforestación con especies forestales autóctonas o nativas. La norma oficial mexicana definirá las especies de vegetación forestal exótica, que por sus características biológicas afecten los procesos o patrones de distribución de la vegetación forestal nativa en terrenos forestales y preferentemente forestales, cuya autorización esté prohibida.
 
 La reforestación o forestación de las áreas taladas será una acción prioritaria en los programas de manejo prediales, zonales o regionales.
 
@@ -2384,7 +2386,7 @@ México, D.F., a 13 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de febrero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 26 DE DICIEMBRE DE 2005.
 
@@ -2396,12 +2398,16 @@ D.O.F. 24 DE NOVIEMBRE DE 2008.
 
 D.O.F. 16 DE NOVIEMBRE DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL PARRAFO PRIMERO Y SE ADICIONA UNA FRACCION VIII, RECORRIENDOSE LA SUBSECUENTE EN SU ORDEN, AL ARTICULO 45, Y SE ADICIONA UNA FRACCION V AL ARTICULO 46 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UNA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN, AL ARTÍCULO 45, Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 46 DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 16 DE NOVIEMBRE DE 2011.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 74, FRACCION V; Y SE ADICIONAN LOS ARTICULOS 7, CON UNA FRACCION XLIII, RECORRIENDOSE LAS SUBSECUENTES EN SU ORDEN, Y 40, CON UNA FRACCION X, RECORRIENDOSE LAS SUBSECUENTES EN SU ORDEN, DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 74, FRACCIÓN V; Y SE ADICIONAN LOS ARTÍCULOS 7, CON UNA FRACCIÓN XLIII, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN, Y 40, CON UNA FRACCIÓN X, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN, DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
