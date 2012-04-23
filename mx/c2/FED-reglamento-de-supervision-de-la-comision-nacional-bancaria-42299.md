@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-supervision-de-la-comision-nacional-bancaria-4229
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-18"
-last_updated: "2005-01-18"
+last_updated: "2012-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42299&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-01-14"
 ---
 # REGLAMENTO DE SUPERVISION DE LA COMISION NACIONAL BANCARIA Y DE VALORES
 
-REGLAMENTO DE SUPERVISION DE LA COMISION NACIONAL BANCARIA Y DE VALORES
+REGLAMENTO DE SUPERVISIÓN DE LA COMISIÓN NACIONAL BANCARIA Y DE VALORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2012.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 18 de enero de 2005.
 
@@ -35,15 +35,25 @@ Reglamento de Supervisión de la Comisión Nacional Bancaria y de Valores
 
 ### Capítulo Único
 
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular el ejercicio de la función de supervisión que compete a la Comisión Nacional Bancaria y de Valores, respecto de las entidades financieras y personas que realicen actividades previstas en las leyes relativas al sistema financiero.
+El presente Reglamento tiene por objeto regular el ejercicio de la función de supervisión que compete a la Comisión Nacional Bancaria y de Valores respecto de las entidades y entidades financieras a que se refiere el artículo 3, fracción IV de la Ley de la Comisión Nacional Bancaria y de Valores, federaciones a que se refiere la Ley de Ahorro y Crédito Popular, fondos de protección a que aluden la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y la Ley de Ahorro y Crédito Popular, oficinas de representación de entidades financieras del exterior, así como personas físicas o morales que realicen actividades previstas en las leyes relativas al sistema financiero.
 
-La función de supervisión a que se refiere el párrafo que antecede comprende el ejercicio de las facultades de inspección, de vigilancia y de prevención y corrección que los ordenamientos legales y demás disposiciones aplicables le confieren a la Comisión Nacional Bancaria y de Valores.
+Asimismo, tiene por objeto regular la supervisión de centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas, exclusivamente respecto del cumplimiento de los preceptos a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y disposiciones de carácter general que de este deriven.
+
+La función de supervisión a que se refiere este artículo comprende el ejercicio de las facultades de inspección, de vigilancia y de prevención y corrección que los ordenamientos legales y demás disposiciones aplicables le confieren a la Comisión Nacional Bancaria y de Valores. Esta facultad se ejercerá de manera consolidada respecto de las entidades y entidades financieras que conforman un grupo financiero en términos de la Ley para Regular las Agrupaciones Financieras, y estará basada en la medición de riesgos.
+
+Igualmente, la función de supervisión podrá realizarse por la Comisión Nacional Bancaria y de Valores en términos de lo previsto por el presente Reglamento, mediante el análisis de muestras representativas y aleatorias de la información, documentación, sistemas o equipos de las entidades y entidades financieras a que alude el artículo 3, fracción IV de la Ley de la Comisión Nacional Bancaria y de Valores, federaciones a que se refiere la Ley de Ahorro y Crédito Popular, fondos de protección a que se refieren la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y la Ley de Ahorro y Crédito Popular, centros cambiarios, transmisores de dinero, sociedades financieras de objeto múltiple no reguladas y oficinas de representación de entidades financieras del exterior, así como personas físicas o morales que realicen actividades previstas en las leyes relativas al sistema financiero.
+
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
 
 ###### Artículo 2.
 
-Quedan sujetas a lo dispuesto por este Reglamento las entidades financieras y los organismos de integración a que se refiere el artículo 3 de la Ley de la Comisión Nacional Bancaria y de Valores y demás disposiciones aplicables, así como las personas que realicen actividades previstas en las leyes relativas al sistema financiero y que se encuentren sujetas al ámbito de competencia de la Comisión Nacional Bancaria y de Valores.
+Quedan sujetas a lo dispuesto por este Reglamento las entidades y entidades financieras a que se refiere el artículo 3, fracción IV de la Ley de la Comisión Nacional Bancaria y de Valores; las federaciones a que se refiere la Ley de Ahorro y Crédito Popular; los fondos de protección a que se refieren la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y la Ley de Ahorro y Crédito Popular y demás disposiciones aplicables, las oficinas de representación de entidades financieras del exterior, así como las personas que realicen actividades previstas en las leyes relativas al sistema financiero y que se encuentren sujetas al ámbito de competencia de la Comisión Nacional Bancaria y de Valores.
+
+Los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas, quedarán sujetos a lo dispuesto por el presente Reglamento, exclusivamente respecto de la supervisión que la Comisión Nacional Bancaria y de Valores ejerce para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y disposiciones de carácter general que de este deriven.
 
 ###### Artículo 3.
 
@@ -51,13 +61,21 @@ Además de las definiciones que establece el artículo 3 de la Ley de la Comisi�
 
 I. Acuerdo Delegatorio, al Acuerdo que expida el Presidente de la Comisión Nacional Bancaria y de Valores con fundamento en la Ley de la Comisión Nacional Bancaria y de Valores y demás disposiciones aplicables;
 
-II. Entidades Supervisadas, en singular o plural, a las entidades financieras y organismos de integración a que se refiere la Ley de la Comisión Nacional Bancaria y de Valores, así como a las demás entidades que compete supervisar a la Comisión, en términos de las leyes que las rijan;
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+II. Entidades Supervisadas, en singular o plural, a las entidades y entidades financieras a que se refiere el artículo 3, fracción IV de la Ley de la Comisión Nacional Bancaria y de Valores; las federaciones a que se refiere la Ley de Ahorro y Crédito Popular y los fondos de protección a que alude la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo y la Ley de Ahorro y Crédito Popular, las oficinas de representación de entidades financieras del exterior, así como a las demás entidades que compete supervisar a la Comisión, en términos de las leyes que las rijan.
+
+Quedarán comprendidas en esta definición las sociedades financieras de objeto múltiple no reguladas, únicamente respecto de la supervisión que ejerce la Comisión Nacional Bancaria y de Valores para verificar el cumplimiento del artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y demás disposiciones que de este deriven.
 
 III. Inspectores, en singular o plural, a los servidores públicos de la Comisión que auxilien o asistan a los titulares de las unidades administrativas de la Comisión competentes para ejercer la función de inspección, en términos de lo previsto en el Reglamento Interior de la Comisión Nacional Bancaria y de Valores y en el Acuerdo Delegatorio;
 
 IV. Ley, la Ley de la Comisión Nacional Bancaria y de Valores;
 
 V. Personas, en singular o plural, a las personas que, sin ser Entidades Supervisadas, realicen actividades previstas en las leyes relativas al sistema financiero y se encuentren sujetas al ámbito de competencia de la Comisión;
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+Quedarán comprendidas en esta definición los centros cambiarios y transmisores de dinero, exclusivamente respecto de la supervisión que ejerce la Comisión Nacional Bancaria y de Valores para verificar el cumplimiento del artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y demás disposiciones que de este deriven.
 
 VI. Representante Legal o Apoderado, al director general, así como a cualquier funcionario, empleado o persona física a quien una Entidad Supervisada o Persona le haya otorgado poder en el que se contemplen facultades para representarla legalmente ante autoridades administrativas, o bien, tenga atribuidas tales facultades por disposición de ley;
 
@@ -69,9 +87,11 @@ VIII. Reglamento, al presente Reglamento.
 
 ### Capítulo I. Generalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
 ###### Artículo 4.
 
-La inspección se efectuará a través de visitas, verificación de operaciones y auditoría de registros y sistemas, en las instalaciones o equipos automatizados de las Entidades Supervisadas o Personas, con el objeto de comprobar el estado en que se encuentran estas últimas, incluyendo la situación sobre su liquidez, solvencia y estabilidad, así como el adecuado cumplimiento de las disposiciones aplicables. En ejercicio de esta facultad, la Comisión podrá:
+La inspección se efectuará a través de visitas, verificación de operaciones y auditoría de registros y sistemas, en las instalaciones o equipos automatizados de las Entidades Supervisadas o Personas, con el objeto de comprobar el estado en que se encuentran estas últimas, incluyendo la situación sobre su liquidez, solvencia y estabilidad, así como el adecuado cumplimiento de las disposiciones aplicables. El ejercicio de esta facultad podrá realizarse respecto de información ya sea general o específica que se estime necesaria o, en su caso, a través de muestras representativas y aleatorias de la documentación e información, registros, sistemas o equipos automatizados de las Entidades Supervisadas o Personas y para lo cual la Comisión podrá:
 
 I. Revisar, verificar, comprobar y evaluar las operaciones, la organización, el funcionamiento, los procesos, los sistemas de control interno, de administración de riesgos y de información de las Entidades Supervisadas o Personas;
 
@@ -203,17 +223,25 @@ V. La fecha en la cual se iniciará la visita;
 
 VI. El lugar o lugares donde se efectuará la visita;
 
-VII. Relación de la información y documentación inicial que, en su caso, las Entidades Supervisadas o Personas deberán poner a disposición de los Inspectores, indicando el plazo y forma de exhibición, la cual podrá ser detallada en un anexo a la orden de visita. Lo anterior, sin perjuicio de que durante el desarrollo de la visita, los Inspectores puedan solicitar la exhibición de información y documentación adicional;
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-VIII. Nombre de los Inspectores que podrán practicar la visita, indicándose al responsable de coordinarla y, en su caso, de los auditores y demás profesionistas que se encuentren acreditados por la Comisión, así como de los servidores públicos de las autoridades financieras a que se refiere el artículo 18, y
+VII. Domicilio de la Entidad Supervisada o Persona, con independencia de que se trate o no del lugar o lugares en donde se efectuará la visita. Tratándose de las personas a que se refiere el artículo 10 de este Reglamento, bastará con que se mencionen los elementos necesarios que permitan su ubicación;
 
-IX. Nombre, cargo y firma del servidor público de la Comisión que se encuentre facultado para emitir la orden de visita.
+VIII. Relación de la información y documentación inicial que, en su caso, las Entidades Supervisadas o Personas deberán poner a disposición de los Inspectores, indicando el plazo y forma de exhibición, la cual podrá ser detallada en un anexo a la orden de visita. Lo anterior, sin perjuicio de que durante el desarrollo de la visita, los Inspectores puedan solicitar la exhibición de información y documentación adicional;
+
+IX. Nombre de los Inspectores que podrán practicar la visita, indicándose al responsable de coordinarla y, en su caso, de los auditores y demás profesionistas que se encuentren acreditados por la Comisión, así como de los servidores públicos de las autoridades financieras a que se refiere el artículo 18, y
+
+X. Nombre, cargo y firma del servidor público de la Comisión que se encuentre facultado para emitir la orden de visita.
 
 La Comisión podrá, en cualquier tiempo, aumentar o disminuir el número de Inspectores que podrán practicar la visita, así como sustituirlos, debiendo notificar dicha situación a la Entidad Supervisada o Persona, previamente y por escrito, a través del servidor público de la Comisión debidamente facultado para emitir la orden de visita.
 
 ###### Artículo 21.
 
 La orden de visita deberá notificarse al menos con dos días hábiles de anticipación a la fecha en que ésta deba realizarse, cuando se trate de visitas ordinarias y especiales. En el caso de visitas de investigación, podrá notificarse en el acto de inicio de la misma.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+Tratándose de visitas ordinarias, especiales y de investigación practicadas a los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para verificar el cumplimiento de los preceptos a que se refiere el artículo 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito y disposiciones de carácter general que de este deriven, la orden de visita podrá notificarse en el acto de inicio de la misma.
 
 ###### Artículo 22.
 
@@ -223,9 +251,11 @@ Los servidores públicos de las autoridades financieras que participen en la vis
 
 Para efectos de lo dispuesto en este Reglamento, se considerarán como identificaciones oficiales, la credencial para votar, la cédula profesional y el pasaporte, expedidos por las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
 ###### Artículo 23.
 
-De toda visita de inspección que realice la Comisión se levantará por escrito un acta de inicio, en el lugar en donde la Entidad Supervisada o Persona tenga el asiento principal de su administración. El acta de inicio contendrá los requisitos siguientes:
+De toda visita de inspección que realice la Comisión se levantará por escrito un acta de inicio, en el lugar en donde se efectúe la visita. El acta de inicio contendrá los requisitos siguientes:
 
 I. Lugar, hora y fecha en que se levanta;
 
@@ -239,9 +269,11 @@ V. Nombre e identificación del Inspector encargado de coordinar la visita y de 
 
 VI. Nombre, cargo e identificación del Representante Legal o Apoderado de la Entidad Supervisada o Persona y de los testigos, así como la manifestación de darse por enterados del inicio de la visita.
 
-Cuando la visita deba realizarse en lugar distinto al domicilio en el que la Entidad Supervisada o Persona tenga el principal asiento de su administración, el acta de inicio podrá levantarse en el lugar en que efectivamente se realice.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-Si la visita no pudiera iniciarse por no estar presente el Representante Legal o Apoderado de la Entidad Supervisada o Persona, el Inspector encargado de coordinar la visita dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el local ubicado en el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+Si la visita no pudiera iniciarse por no estar presente el Representante Legal o Apoderado de la Entidad Supervisada o Persona, en el domicilio de la Entidad Supervisada o Persona visitada, se dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el local ubicado en el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
 
 Si el Representante Legal o Apoderado de la Entidad Supervisada o Persona no atendiere el citatorio, la visita se entenderá con cualquier persona que se encuentre. Esta circunstancia se hará constar en el acta de inicio de la visita.
 
@@ -431,15 +463,19 @@ A todas las actas a que se refiere este Reglamento deberán adjuntarse copia de 
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
 ###### Artículo 43.
 
-La vigilancia se efectuará a través del análisis de la información contable, legal, económica, financiera, administrativa, de procesos y de procedimientos que obtenga la Comisión con base en las disposiciones que resulten aplicables, con la finalidad de evaluar el apego a la normatividad que rige a las Entidades Supervisadas o Personas, así como la estabilidad y correcto funcionamiento de las Entidades Supervisadas.
+La vigilancia se efectuará a través del análisis de la información contable, legal, económica, financiera, administrativa, de procesos y de procedimientos que obtenga la Comisión con base en las disposiciones que resulten aplicables, con la finalidad de evaluar el apego a la normatividad que rige a las Entidades Supervisadas o Personas, así como la estabilidad y correcto funcionamiento de las Entidades Supervisadas. El ejercicio de esta facultad podrá realizarse respecto de información ya sea general o específica que se estime necesaria o, en su caso, a través de muestras representativas y aleatorias de la documentación e información de las Entidades Supervisadas o Personas, a que se refiere este artículo.
 
 La vigilancia de Entidades Supervisadas en disolución, liquidación o concurso mercantil se sujetará a lo dispuesto en el Título Noveno de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
 ###### Artículo 44.
 
-Las Entidades Supervisadas o Personas deberán entregar a la Comisión la información y documentación que señalen las leyes aplicables y disposiciones de carácter general, dentro de los plazos, periodicidad y formalidades previstas en los referidos ordenamientos. La información y documentación deberá entregarse a través de la oficialía de partes de la Comisión, cuando en las leyes o disposiciones aplicables no se establezca otra forma de entrega.
+Las Entidades Supervisadas o Personas deberán entregar a la Comisión la información y documentación que señalen las leyes aplicables y disposiciones de carácter general, dentro de los plazos, periodicidad y formalidades previstas en los referidos ordenamientos. La información y documentación deberá entregarse a través de la oficialía de partes de la Comisión.
 
 ###### Artículo 45.
 
@@ -469,9 +505,11 @@ V. Relación de la información y documentación que se requiera, el plazo y la 
 
 VI. Nombre, cargo y firma del servidor público de la Comisión que se encuentre debidamente facultado para solicitar la información.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
 ###### Artículo 48.
 
-En caso de que la información presentada a la Comisión no reúna los requisitos o características en tiempo y forma establecidos en la normatividad o señalados en el oficio correspondiente, se considerará como no cumplida la obligación de su presentación y, en consecuencia, se procederá, en su caso, a la imposición de las sanciones correspondientes, en términos de las disposiciones aplicables al efecto.
+En caso de que la información presentada a la Comisión no reúna los requisitos o características en tiempo y forma establecidos en la normatividad o señalados en el oficio correspondiente, o no sea acorde con la realidad de los hechos, actos o acontecimientos que se consignan, se considerará como no cumplida la obligación de su presentación y, en consecuencia, se procederá, en su caso, a la imposición de las sanciones correspondientes, en términos de las disposiciones aplicables al efecto.
 
 El supuesto previsto en el párrafo anterior procederá sin perjuicio de la facultad que tiene la Comisión para solicitar nuevamente dicha información o las aclaraciones que sobre la misma considere pertinentes.
 
@@ -501,13 +539,33 @@ V. Los hechos, actos u omisiones de los que deriven las probables irregularidade
 
 VI. La mención expresa de que las observaciones o recomendaciones se formulan sin perjuicio del inicio del procedimiento para la imposición de las sanciones que resulten procedentes;
 
-VII. El señalamiento de un plazo máximo de 20 días hábiles para que la Entidad Supervisada o Persona manifieste por escrito lo que a su derecho corresponda, pudiendo acompañar a dicho escrito la información y documentación que soporte su manifestación, y
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+VII. El señalamiento de un plazo máximo de veinte días hábiles para que la Entidad Supervisada o Persona manifieste por escrito lo que a su derecho corresponda, pudiendo acompañar a dicho escrito la información y documentación que soporte su manifestación.
+
+El plazo a que se refiere la presente fracción podrá ser de tres días hábiles tratándose de observaciones o recomendaciones relacionadas con las irregularidades siguientes:
+
+a) Contravenir las normas de registro contable aplicables a la Entidad Supervisada, que eventualmente pudiera derivar en la corrección o modificación a sus estados financieros, así como en la publicación de dichas correcciones o modificaciones;
+
+b) Infringir las disposiciones relativas a los requerimientos de capitalización;
+
+c) Incumplir con las normas relativas al proceso de calificación de la cartera crediticia de la Entidad Supervisada, y
+
+d) Las demás que a juicio de la Comisión así se justificaran en protección de los intereses del público, a fin de preservar la estabilidad financiera de las entidades.
 
 VIII. Nombre, cargo y firma del servidor público de la Comisión facultado para emitir el oficio a que se refiere este artículo.
 
-La Comisión, a través del servidor público competente, podrá prorrogar, a solicitud de la Entidad Supervisada o Persona, el plazo a que se refiere la fracción VII de este artículo cuando, a juicio de la propia Comisión, existan situaciones que impidan a la Entidad Supervisada o Persona ejercer su derecho dentro del plazo señalado. La prórroga a que se refiere este artículo no deberá exceder de 10 días hábiles.
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+La Comisión, a través del servidor público competente, podrá prorrogar, a solicitud de la Entidad Supervisada o Persona, el plazo a que se refiere la fracción VII de este artículo cuando, a juicio de la propia Comisión, existan situaciones que impidan a la Entidad Supervisada o Persona ejercer su derecho dentro del plazo señalado y no se trate de las irregularidades señaladas en los incisos a) a d) de dicha fracción VII. La prórroga a que se refiere este artículo no deberá exceder de diez días hábiles.
 
 Tratándose de sociedades de inversión, el oficio por el cual se den a conocer las observaciones podrá dirigirse a las sociedades que presten a la sociedad de inversión alguno de los servicios a que se refiere la Ley de Sociedades de Inversión, para el cumplimiento de su objeto, siempre y cuando dichas sociedades cuenten con facultades suficientes para tales efectos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+###### Artículo 50 Bis.
+
+Sin perjuicio de lo dispuesto en el artículo anterior, la Comisión podrá ordenar a las Entidades Supervisadas, acciones o medidas en términos del Capítulo II del Título Cuarto del presente Reglamento, ante la actualización de los supuestos previstos en los incisos a) a d) de la fracción VII del artículo 50 anterior, en protección de los intereses del público. En todo caso, tales acciones o medidas tendrán carácter precautorio; por lo que, una vez impuestas, se dará derecho de audiencia a la Entidad Supervisada de que se trate para resolver en definitiva.
 
 ###### Artículo 51.
 
@@ -519,7 +577,9 @@ Cuando la Entidad Supervisada o Persona no manifieste lo que a su derecho corres
 
 La Comisión podrá, de conformidad con las disposiciones legales aplicables, ordenar a las Entidades Supervisadas o Personas, mediante oficio, la adopción de las acciones o medidas tendientes a corregir los hechos, actos u omisiones que, derivado de sus funciones de inspección y vigilancia, haya detectado, a fin de que dichas Entidades Supervisadas o Personas ajusten sus actividades y operaciones a las leyes que les sean aplicables, a las disposiciones de carácter general que de ellas deriven, a los sanos usos mercantiles, bancarios y bursátiles, así como a las sanas prácticas de los mercados financieros.
 
-Las medidas que determine la Comisión para corregir las irregularidades que se presenten o para prevenir las que puedan presentarse, podrán llevarse a cabo mediante el establecimiento de acciones, medidas correctivas o programas de cumplimiento forzoso para las Entidades Supervisadas o Personas, de conformidad con lo previsto en la Ley, así como en las leyes que regulan a las Entidades Financieras o Personas y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+Las medidas que determine la Comisión para corregir las irregularidades que se presenten o para prevenir las que puedan presentarse, podrán llevarse a cabo mediante el establecimiento de acciones, medidas correctivas o programas de cumplimiento forzoso para las Entidades Supervisadas o Personas, de conformidad con lo previsto en la Ley, así como en las leyes que regulan a dichas Entidades o Personas y demás disposiciones aplicables.
 
 ###### Artículo 53.
 
@@ -557,19 +617,23 @@ II. Número de oficio y, en su caso, de expediente;
 
 III. Nombre de la Entidad Supervisada o Persona donde labore la persona a quien se dirige el citatorio;
 
-IV. El nombre y cargo de la persona física que deba comparecer;
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-V. El tema sobre el cual tratará la comparecencia;
+IV. Domicilio de la Entidad Supervisada o Persona donde labore la persona física que deba comparecer, o en su caso, domicilio de dicha persona;
 
-VI. El nombre y cargo del servidor público de la Comisión ante el cual deba presentarse la persona citada;
+V. El nombre y cargo de la persona física que deba comparecer;
 
-VII. El día, hora y lugar en que deba comparecer;
+VI. El tema sobre el cual tratará la comparecencia;
 
-VIII. La mención de que la persona citada podrá asistir acompañada de su abogado y de dos testigos. Asimismo, debe contener la mención de que, en caso de que los testigos no comparezcan, los servidores públicos de la Comisión que estén facultados para atender la comparecencia, los designarán de entre las personas que se encuentren presentes;
+VII. El nombre y cargo del servidor público de la Comisión ante el cual deba presentarse la persona citada;
 
-IX. El apercibimiento de que en caso de que no comparezca sin causa justificada, se le impondrán las sanciones que resulten aplicables conforme a las disposiciones legales, y
+VIII. El día, hora y lugar en que deba comparecer;
 
-X. Nombre, cargo y firma de los servidores públicos de la Comisión facultados para emitir el citatorio.
+IX. La mención de que la persona citada podrá asistir acompañada de su abogado y de dos testigos. Asimismo, debe contener la mención de que, en caso de que los testigos no comparezcan, los servidores públicos de la Comisión que estén facultados para atender la comparecencia, los designarán de entre las personas que se encuentren presentes;
+
+X. El apercibimiento de que en caso de que no comparezca sin causa justificada, se le impondrán las sanciones que resulten aplicables conforme a las disposiciones legales, y
+
+XI. Nombre, cargo y firma de los servidores públicos de la Comisión facultados para emitir el citatorio.
 
 ###### Artículo 56.
 
@@ -641,9 +705,13 @@ I. Lugar y fecha de expedición;
 
 II. Número de oficio y de expediente;
 
-III. Nombre de la Entidad Supervisada o Persona a quien se dirige;
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2012)</small>
 
-IV. Nombre y cargo del Representante Legal o Apoderado de la Entidad Supervisada o Persona a quien se dirija el emplazamiento, debiendo remitir copia al director general de la Entidad Supervisada o Persona de que se trate, así como al Presidente de su Consejo de Administración u órgano equivalente y al órgano de vigilancia;
+III. Nombre de la Entidad Supervisada o Persona a quien se dirige, en su carácter de presunto infractor;
+
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+IV. Nombre y cargo del Representante Legal o Apoderado de la Entidad Supervisada o Persona a quien se dirija el emplazamiento;
 
 V. La descripción de los hechos, actos u omisiones que, a juicio de la Comisión, pudieran constituir una infracción a las leyes o disposiciones aplicables;
 
@@ -985,6 +1053,12 @@ Al momento de levantarse la intervención en la Entidad Supervisada de que se tr
 
 Para efectos de lo previsto en el párrafo anterior se levantará un acta de entrega-recepción en la que se hará constar la situación en que se encuentre la Entidad Supervisada, el monto de sus activos, pasivos y su situación corporativa.
 
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+###### Artículo 95 Bis.
+
+Para el caso de que la intervención ordenada respecto de alguna Entidad Supervisada dejare de cumplir con el objeto de la misma, o se hiciere de imposible cumplimiento, así como en su caso hubiere imposibilidad para nombrar administrador, liquidador o síndico, el interventor-gerente podrá solicitar a la Comisión el levantamiento de dicha intervención, presentando al efecto la documentación o información con que cuente. La Comisión podrá eximir al interventor-gerente de la obligación de presentar el inventario y dictamen a que se refiere el artículo anterior, cuando en la Entidad Supervisada no se cuente con la información necesaria para tales efectos o la Entidad Supervisada carezca de recursos económicos para poder generarla, en estos supuestos el interventor deberá elaborar un informe en el que exprese las causas de hecho y de derecho que justifiquen el levantamiento de la misma.
+
 ###### Artículo 96.
 
 Cuando la Comisión acuerde levantar la intervención gerencial, lo comunicará al encargado de la oficina del Registro Público de Comercio en la que se haya hecho la anotación a que se refiere el artículo 89 de este Reglamento, a efecto de que cancele la inscripción respectiva.
@@ -1102,3 +1176,9 @@ TERCERO.- Los artículos 37, 38 y 39 del citado Reglamento de la Comisión Nacio
 CUARTO.- Los actos a que se refieren los Títulos Segundo y Sexto del Reglamento de la Comisión Nacional Bancaria y de Seguros, en Materia de Inspección, Vigilancia y Contabilidad, publicado en el Diario Oficial de la Federación el 24 de noviembre de 1988, que hubieren sido iniciados con anterioridad a la entrada en vigor de este Reglamento, continuarán rigiéndose por lo previsto en el Reglamento que se abroga conforme al artículo segundo transitorio anterior.
 
 Dado en la residencia oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de enero de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 23 DE ABRIL DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
