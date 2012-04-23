@@ -4,7 +4,7 @@ identifier: "LNAC"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-23"
-last_updated: "2005-01-12"
+last_updated: "2012-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11167&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNAC"
 
 LEY DE NACIONALIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 23 de enero de 1998.
 
@@ -190,6 +190,10 @@ I. Bastará una residencia de dos años inmediatamente anteriores a la fecha de 
 
 a) Sea descendiente en línea recta de un mexicano por nacimiento;
 
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2012)</small>
+
+Quedarán exentos de comprobar la residencia que establece la fracción I, aquellos descendientes en línea recta en segundo grado de un mexicano por nacimiento, siempre que no cuente con otra nacionalidad al momento de la solicitud; o bien no le sean reconocidos los derechos adquiridos a partir de su nacimiento;
+
 b) Tenga hijos mexicanos por nacimiento;
 
 c) Sea originario de un país latinoamericano o de la Península Ibérica, o
@@ -330,7 +334,7 @@ México, D.F., a 12 de diciembre de 1997.- Sen. Heladio Ramírez López, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos noventa y siete.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 2 DE DICIEMBRE DE 2004.
 
@@ -341,3 +345,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 12 DE ENERO DE 2005.
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2012.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal, contará con un plazo de 45 días para realizar las adecuaciones al Reglamento de la Ley, con el objetivo de garantizar la viabilidad y aplicación del presente Decreto.
