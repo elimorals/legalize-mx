@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-control-de-los-establecimientos-que-73129"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-01"
-last_updated: "2010-02-01"
+last_updated: "2012-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL CONTROL DE LOS ESTABLECIMIENTOS QUE PROPORCIONAN EL SERVICIO DE INTERNET E INTRANET EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de febrero del 2010.
 
@@ -45,6 +45,8 @@ PRIMERO: Se aprueba el REGLAMENTO PARA EL CONTROL DE LOS ESTABLECIMIENTOS QUE PR
 
 Las disposiciones de este Reglamento son de orden público e interés social, su observancia y cumplimiento son obligatorios dentro del Municipio de Monterrey, Nuevo León; tiene por objeto regular los establecimientos denominados Ciber que de forma onerosa o gratuita, educativa, recreativa o de cualquier clase, operen dentro de este Municipio y presten al público en general equipos de cómputo con conexión y acceso a Internet o intranet.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de este Reglamento, se entenderá por:
@@ -55,13 +57,13 @@ II. EQUIPO DE CÓMPUTO o HARDWARE: Cualquier equipo de cómputo con el que pueda
 
 III. FILTROS ESPECIALES: Programas de cómputo que sirven para restringir el acceso a páginas electrónicas con contenido sexual, erótico y/o pornográfico;
 
-IV. LA COORDINACIÓN: Grupo de inspectores con conocimientos en la materia, adscritos a la Secretaría de Desarrollo Urbano y Ecología, los cuales cuentan con las facultades y atribuciones conferidas en el presente Reglamento así como en las demás disposiciones aplicables;
+IV. LA COORDINACIÓN: Grupo de inspectores con conocimientos en la materia, adscritos a la Secretaría del Ayuntamiento, los cuales cuentan con las facultades y atribuciones conferidas en el presente Reglamento así como en las demás disposiciones aplicables;
 
-V. SECRETARÍA: La Secretaría de Desarrollo Urbano y Ecología;
+V. SECRETARÍA: La Secretaría de Ayuntamiento;
 
 VI. INSPECCIÓN TÉCNICA: Examen que se realizará en los Cibers por medio de la Coordinación, con la finalidad de determinar el cumplimiento de las disposiciones establecidas en el presente Reglamento, así como las incluidas en los demás ordenamientos aplicables;
 
-VII. INTERNET: Siglas del idioma ingles que en castellano se traduce como Red Mundial de Ordenadores, la cual consiste en una red informática mundial, descentralizada, formada por la conexión directa e indirecta entre computadoras u ordenadores mediante un protocolo especial (TCP/IP <http://es.wikipedia.org/wiki/TCP/IP>);
+VII. INTERNET: Siglas del idioma ingles que en castellano se traduce como Red Mundial de Ordenadores, la cual consiste en una red informática mundial, descentralizada, formada por la conexión directa e indirecta entre computadoras u ordenadores mediante un protocolo especial (TCP/IP);
 
 VIII. INTRANET: Siglas del idioma ingles que en castellano se traduce como Red Local que utiliza total o parcialmente las tecnologías del Internet;
 
@@ -69,17 +71,23 @@ IX. USUARIO: Es la persona que contrata, solicita, obtiene o recibe el servicio 
 
 ### CAPITULO II. ATRIBUCIONES Y COMPETENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 3.
 
 La aplicación del presente Reglamento es competencia de las siguientes autoridades:
 
 I. Presidente Municipal;
 
-II. La Secretaría de Desarrollo Urbano y Ecología a través de la Dirección de Control Urbano;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2012)</small>
+
+II. La Secretaría del Ayuntamiento de Monterrey a través de la Coordinación de Espectáculos de la Dirección de Inspección y Vigilancia;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 4.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Ecología, a través de la Dirección de Control Urbano, las siguientes atribuciones:
+Corresponde a la Coordinación de Espectáculos de la Dirección de Inspección y Vigilancia de la Secretaría del Ayuntamiento, las siguientes atribuciones:
 
 I. Expedir las licencias de funcionamiento de los establecimientos objeto del presente Reglamento;
 
@@ -111,9 +119,11 @@ XIV. Las demás que establezcan éste y otros ordenamientos aplicables.
 
 ### CAPITULO III. EXPEDICIÓN DE LA LICENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 5.
 
-La licencia municipal para el funcionamiento de los Cibers será expedida por el Titular de la Dirección de Control Urbano debiendo el solicitante cumplir con los siguientes requisitos:
+La licencia municipal para el funcionamiento de los Cibers será expedida por el Titular de la Dirección de Inspección y Vigilancia de la Secretaría del Ayuntamiento debiendo el solicitante cumplir con los siguientes requisitos:
 
 I. Presentar la solicitud por escrito;
 
@@ -148,6 +158,8 @@ La expedición de la licencia municipal ampara únicamente lo relativo al funcio
 Las licencias se expedirán bajo las condiciones, términos y previo el cumplimiento de los requisitos que establece el presente Reglamento y demás Leyes y/o Reglamentos aplicables.
 
 ### CAPITULO IV. OBLIGACIONES DEL TITULAR DE LA LICENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 11.
 
@@ -193,6 +205,8 @@ En todo tiempo se tendrá la facultad de supervisar mediante inspección técnic
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de inspección técnica estarán obligados en todo momento a permitir el acceso a los inspectores de la Coordinación, y en su caso al personal técnico de apoyo para el desarrollo de la inspección técnica. La negativa para atender una inspección, será considerada como una obstaculización a las funciones de la autoridad en ejercicio de la potestad conferida por este Reglamento y demás disposiciones aplicables, por lo que podrá ser objeto de la sanción administrativa, conforme a la fracción V del artículo 20 del presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 15.
 
 La práctica de la visita respectiva se sujetará a las siguientes bases:
@@ -204,6 +218,8 @@ II. El inspector deberá identificarse ante el responsable, con la credencial vi
 III. Los inspectores practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden; y,
 
 IV. Al inicio de la visita de inspección, el inspector deberá requerir al visitado, para que designe a dos personas, de su preferencia, que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, éstos serán propuestos y nombrados por el propio inspector.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 16.
 
@@ -231,7 +247,9 @@ IX. Nombre y firma de quienes intervinieron en la diligencia si así quisieran h
 
 Las visitas extraordinarias tendrán lugar cuando se presuman irregularidades de incumplimiento al presente Reglamento o se reciba una denuncia por escrito de un ciudadano, las cuales se podrán realizarán en días y horas inhábiles.
 
-De toda visita extraordinaria se levantará acta por triplicado en forma numerada y foliada, en la que se expresará los mismos puntos que para la visita ordinaria, incluyendo la hora, día, mes y año para que tenga verificativo el desahogo de la audiencia a que se refiere el artículo 24 fracción I; (sic)
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+
+De toda visita extraordinaria se levantará acta por triplicado en forma numerada y foliada, en la que se expresará los mismos puntos que para la visita ordinaria, incluyendo la hora, día, mes y año para que tenga verificativo el desahogo de la audiencia a que se refiere el artículo 24 fracción I.
 
 ###### ARTÍCULO 18.
 
@@ -243,6 +261,8 @@ Cuando se presuma que los hechos derivados de la visita de inspección actualiza
 
 Si de la práctica de la visita de inspección reportada en el acta respectiva, se desprende la infracción a alguna disposición del presente Reglamento, la Secretaría, calificará y aplicará la sanción que corresponda, previa la citación del sujeto pasivo a la audiencia de pruebas y alegatos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 20.
 
 Se consideran infracciones a este Reglamento, las siguientes:
@@ -252,6 +272,8 @@ I. Operar el Ciber sin contar con la licencia municipal para el funcionamiento d
 II. Incumplir con cualquiera de las obligaciones contenidas en el artículo 11 del presente Ordenamiento legal;
 
 III. La violación a cualquier disposición del presente Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 21.
 
@@ -267,9 +289,11 @@ IV. Revocación de licencia;
 
 V. Arresto administrativo hasta por 24 horas.
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 22.
 
-El incumplimiento de lo dispuesto por el artículo 11, y que ameritará multa, se hará aplicando la cantidad en pesos que corresponda a una cuota, multiplicada por el número que aparece en el tabulador siguiente:
+El incumplimiento de lo dispuesto por el artículo 11 y que ameritará multa, se hará aplicando la cantidad en pesos que corresponda a una cuota, multiplicada por el número que aparece en el tabulador siguiente:
 
 Artículo Fracción Sanción.
 
@@ -277,9 +301,9 @@ Artículo Fracción Sanción.
 
 11 VIII 20 a 60 cuotas
 
-11 IV; X 50 a 400 cuotas
+11 IV, X 50 a 400 cuotas
 
-11 VI; VII 20 a 100 cuotas
+11 VI, VII 20 a 100 cuotas
 
 11 IX y II 15 a 30 cuotas
 
@@ -291,29 +315,41 @@ Al aplicar las sanciones se tomará en cuenta la capacidad económica del infrac
 
 PROCEDIMIENTO DE IMPOSICIÓN DE SANCIONES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 24.
 
 La imposición de las sanciones de multa, clausura provisional y clausura definitiva del establecimiento, por las causas previstas en este Reglamento, se sujetarán al siguiente procedimiento:
 
-I. De la visita ordinaria, la Secretaría de Desarrollo Urbano y Ecología recibirá el acta circunstanciada de la visita de inspección, estudiará lo contenido en dicha acta y de encontrar evidencias que presuman el incumplimiento del presente reglamento, fijará fecha para la audiencia de pruebas y alegatos en un periodo no mayor a siete días hábiles a partir de la recepción del acta de inspección respectiva; debiendo notificar en forma personal como mínimo 24 horas antes a la audiencia;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2012)</small>
+
+I. De la visita ordinaria, la Secretaría del Ayuntamiento recibirá el acta circunstanciada de la visita de inspección, estudiará lo contenido en dicha acta y de encontrar evidencias que presuman el incumplimiento del presente reglamento, fijará fecha para la audiencia de pruebas y alegatos en un periodo no mayor a siete días hábiles a partir de la recepción del acta de inspección respectiva; debiendo notificar en forma personal como mínimo 24 horas antes a la audiencia;
 
 II. Recibida el acta circunstanciada de la inspección, dicha Secretaría desahogará la audiencia de pruebas y alegatos, con o sin la asistencia de la parte interesada, en un plazo no mayor a cinco días hábiles a partir del levantamiento del acta de inspección respectiva;
 
-III. Cerrada la audiencia de pruebas y alegatos, la Secretaría en un plazo no mayor a cinco días hábiles, calificará la infracción y ordenará, en su caso, la imposición de la multa o sanción que corresponda, enviándose copia a la Dirección de Ingresos de la Tesorería Municipal y/o a la Dirección de Control Urbano para su debido cumplimiento y ejecución;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2012)</small>
+
+III. Cerrada la audiencia de pruebas y alegatos, la Secretaría en un plazo no mayor a cinco días hábiles, calificará la infracción y ordenará, en su caso, la imposición de la multa o sanción que corresponda, enviándose copia a la Dirección de Ingresos de la Tesorería Municipal y/o a la Dirección de Inspección y Vigilancia para su debido cumplimiento y ejecución;
 
 IV. Cuando en la audiencia de pruebas y alegatos no se desprendan elementos para proceder a la calificación e imposición de sanciones, la Secretaría dará por terminado el procedimiento sin la imposición de sanción alguna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 25.
 
 La clausura provisional o definitiva impuesta por la autoridad competente produce la suspensión de las actividades del establecimiento.
 
-I.- Procederá la clausura provisional por tres días:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2012)</small>
+
+I. Procederá la clausura provisional por tres días:
 
 a) Cuando en tres ocasiones, en un periodo de tres meses, se incumpla con alguna de las disposiciones que señala el artículo 11 del presente Reglamento;
 
 b) Si dentro del periodo de tres meses posterior a la imposición de la sanción a que se refiere el inciso anterior, se incumple de nueva cuenta con alguna de las disposiciones que señala el artículo 11 del presente Reglamento.
 
-II.- Procederá la clausura definitiva:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2012)</small>
+
+II. Procederá la clausura definitiva:
 
 a) Cuando se infrinja lo dispuesto por el artículo 20, fracción I;
 
@@ -322,6 +358,8 @@ b) Por haber recibido más de dos clausuras provisionales en un periodo menor a 
 ###### ARTÍCULO 26.
 
 Los sellos y/o símbolos de clausura definitiva se retirarán cuando se determine la revocación de la licencia por la autoridad competente, o exista orden judicial o administrativa en tal sentido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 27.
 
@@ -339,15 +377,21 @@ V. Cuando la clausura definitiva haya quedado firme;
 
 VI. Cuando el titular de la licencia haya proporcionado datos falsos para obtener la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 28.
 
 Si el titular de la licencia se encuentra en alguno de los casos a que se refiere el artículo anterior, se iniciará el procedimiento de revocación de la licencia conforme a lo siguiente:
 
 I. Se citará al interesado, en día, hora y lugar señalado para que manifieste lo que a su derecho convenga, y posteriormente desahogue pruebas y formule sus alegatos, según lo previsto en el artículo 24;
 
-II. Si la Secretaría de Desarrollo Urbano y Ecología confirma la clausura definitiva y ordena la revocación de la licencia, se hará del conocimiento a la Dirección de Ingresos de la Tesorería Municipal, para el cobro de las multas, en su caso;
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2012)</small>
 
-III. Se notificará a la Dirección de Control Urbano de dicha Secretaría acerca de la licencia revocada para darla de baja en el padrón correspondiente;
+II. Si la Secretaría del Ayuntamiento confirma la clausura definitiva y ordena la revocación de la licencia, se hará del conocimiento a la Dirección de Ingresos de la Tesorería Municipal, para el cobro de las multas, en su caso;
+
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2012)</small>
+
+III. Se notificará a la Dirección de Inspección y Vigilancia de dicha Secretaría acerca de la licencia revocada para darla de baja en el padrón correspondiente;
 
 IV. Se notificará al titular de la licencia para que haga entrega de la misma.
 
@@ -359,19 +403,27 @@ Contra los actos y resoluciones que dicte la autoridad Municipal, con motivo de 
 
 ### CAPÍTULO IX. DENUNCIA CIUDADANA
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 30.
 
-Toda persona tiene la facultad de denunciar ante la Secretaría de Desarrollo Urbano y Ecología, cuando considere que en algún Ciber que opere en este Municipio, se esté cometiendo alguna infracción al presente Ordenamiento jurídico.
+Toda persona tiene la facultad de denunciar ante la Secretaría del Ayuntamiento, cuando considere que en algún Ciber que opere en este Municipio, se esté cometiendo alguna infracción al presente ordenamiento jurídico.
 
 ### CAPÍTULO X. REVISIÓN Y CONSULTA
 
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 31.
 
-En los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León en su artículo 166, fracción V; el presente Reglamento será sometido a consulta pública en la medida que se modifiquen las condiciones sociales del municipio, en virtud de su crecimiento demográfico y social así como por el desarrollo de nuevas tecnologías.
+En los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León en su artículo 166 fracción V; el presente Reglamento será sometido a consulta pública en la medida que se modifiquen las condiciones sociales del municipio, en virtud de su crecimiento demográfico y social así como por el desarrollo de nuevas tecnologías.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 32.
 
-Para la revisión y consulta del presente Ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación del R. Ayuntamiento argumentando las razones que la sustenten. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, estudiar y dictaminar sobre las propuestas planteadas. La Comisión mediante escrito fundado y motivado, que hará llegar al promovente, le informará sobre la procedencia o improcedencia de sus propuestas. En caso de considerarse procedente la reforma, se hará del conocimiento del Republicano Ayuntamiento para su consideración y resolución.
+Para la revisión y consulta del presente Ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación del Ayuntamiento argumentando las razones que la sustenten. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, estudiar y dictaminar sobre las propuestas planteadas. La Comisión mediante escrito fundado y motivado, que hará llegar al promovente, le informará sobre la procedencia o improcedencia de sus propuestas.
+
+En caso de considerarse procedente la reforma, se hará del conocimiento del Ayuntamiento para su consideración y resolución.
 
 ## TRANSITORIOS
 
@@ -394,3 +446,15 @@ PRESIDENTE MUNICIPAL
 C. JUAN CARLOS RUIZ GARCÍA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO
+
+Las presentes reformas por modificación y adición del Reglamento para el Control de los Establecimientos que Proporcionan el Servicio de Internet e Intranet en el municipio de Monterrey, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Se ordena a la Secretaría de Desarrollo Urbano y Ecología del Municipio, envié a la Dirección de Inspección y Vigilancia de la Secretaría del Ayuntamiento, todos los procedimientos instaurados conforme el Reglamento para el Control de los Establecimientos que Proporcionan el Servicio de Internet e Intranet en el municipio de Monterrey, Nuevo León, dentro de 15-quince días siguientes a partir de la publicación de las presentes reformas en el Periódico Oficial del Estado.
