@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-ecologia-del-estado-48249"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-22"
-last_updated: "2008-10-31"
+last_updated: "2012-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGIA DEL ESTADO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGIA DEL ESTADO DE GUANAJUATO
+REGLAMENTO INTERIOR DEL INSTITUTO DE ECOLOGÍA DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2012.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el jueves 22 de diciembre de 2005.
 
@@ -111,7 +111,7 @@ XV.- Las demás análogas que conforme a su competencia le correspondan.
 
 ### CAPÍTULO TERCERO. DE LA SEDE Y PATRIMONIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2007)</small>
 
@@ -267,7 +267,7 @@ Para el estudio, planeación, programación, ejecución y despacho de los asunto
 
 I.- Dirección General:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 a) (DEROGADO, P.O. 31 DE OCTUBRE DE 2008)
 
@@ -281,19 +281,19 @@ a) Coordinación de Áreas Naturales Protegidas; y
 
 b) Coordinación de Ordenamiento Ecológico y Programas Especiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 III.- Dirección de Impacto Ambiental y Manejo Integral de Residuos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 a) Coordinación de Impacto y Riesgo Ambiental;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 b) (DEROGADO, P.O. 31 DE OCTUBRE DE 2008)
 
@@ -305,13 +305,13 @@ a) Coordinación de Normatividad Ambiental y Asesoría Jurídica; y
 
 b) Coordinación de Contratos, Convenios y de lo Contencioso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 V.- Dirección de Vinculación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -327,7 +327,7 @@ b) Coordinación de Recursos Financieros y Contabilidad; y
 
 c) Coordinación de Recursos Materiales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -531,13 +531,13 @@ X.- Participar en los consejos y comités en materia de recursos naturales, orde
 
 XI.- Dirigir, organizar y promover el desarrollo, manejo y actualización del Ordenamiento Ecológico del Territorio del Estado y del Sistema Estatal de Información Geográfica Ambiental, así como vincular las acciones necesarias con las instituciones y autoridades competentes para su mejor aprovechamiento; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 XII.- Dirigir y dictaminar los estudios técnicos tendientes al establecimiento de Normas Técnicas Ambientales, relacionadas con las materias de su competencia; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -599,13 +599,13 @@ VII.- Emitir opinión técnica en calidad de dictamen, en los asuntos relativos 
 
 VIII.- Las demás que le confieran el Director General del Instituto y el Director de Recursos Naturales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE IMPACTO AMBIENTAL Y MANEJO INTEGRAL DE RESIDUOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -613,7 +613,7 @@ VIII.- Las demás que le confieran el Director General del Instituto y el Direct
 
 La Dirección de Impacto Ambiental y Manejo Integral de Residuos tiene por función general prevenir, controlar y mitigar el impacto ambiental de las obras o actividades de competencia estatal y el deterioro ambiental producido por los residuos, a través del establecimiento de diferentes medidas y el fomento de su manejo integral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -659,35 +659,35 @@ XVI.- Dirigir y dictaminar los estudios técnicos tendientes al establecimiento 
 
 XVII.- Impulsar y participar en proyectos que contribuyan a la reducción de emisiones de gases de efecto invernadero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 36.
 
 La Dirección de Impacto Ambiental y Manejo Integral de Residuos deberá planear, apoyar dirigir, coordinar y supervisar el trabajo de las siguientes coordinaciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 I.- Coordinación de Impacto y Riesgo Ambiental;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 II.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2008)
 
 III.- Coordinación de Manejo Integral de Residuos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 #### SECCIÓN PRIMERA. COORDINACIÓN DE IMPACTO Y RIESGO AMBIENTAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 37.
 
@@ -709,7 +709,7 @@ VII.- Establecer procesos de definición y controles de cumplimiento de las cond
 
 VIII.- Realizar los estudios técnicos necesarios para la determinación de las obras y actividades que no requieren someterse al proceso de evaluación de impacto ambiental, de acuerdo a la normatividad ambiental vigente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IX.- (DEROGADA, P.O. 31 DE OCTUBRE DE 2008)
 
@@ -723,7 +723,7 @@ XIII.- Promover, coordinar y asesorar en la regeneración y control de la erosi�
 
 XIV.- Elaborar y actualizar el inventario de bancos de material pétreo existentes en el Estado; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -731,7 +731,7 @@ XV.- Las demás que le confieran el Director General del Instituto y el Director
 
 #### SECCIÓN SEGUNDA. COORDINACIÓN DE MEJORAMIENTO DE LA CALIDAD DEL AIRE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 38.
 
@@ -761,7 +761,7 @@ VIII.- Realizar visitas técnicas con motivo de las solicitudes de autorización
 
 IX.- Generar los proyectos de resolución de las solicitudes de autorización para el manejo integral de residuos de manejo especial, solicitando las asesorías administrativas y jurídicas que considere necesarias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -769,13 +769,13 @@ X.- Coadyuvar con los municipios en la formulación, evaluación, implementació
 
 XI.- Promover, coordinar y asesorar en la remediación y control de sitios contaminados por residuos; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 XII.- Proponer y evaluar tecnologías alternativas para la gestión integral de los residuos sólidos urbanos y de manejo especial; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -810,6 +810,10 @@ VIII.- Elaborar los proyectos de resolución o contestación de los recursos de 
 IX.- Asesorar al Director General del Instituto en la contratación de empréstitos del organismo, así como en la enajenación de bienes muebles e inmuebles de éste, de conformidad con las disposiciones normativas aplicables; y
 
 X.- Expedir las certificaciones de los documentos que obren en los archivos de la Dirección a su cargo.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2012)</small>
+
+XI.- Cotejar los documentos jurídicos originales con las copias simples que se presenten derivados de los trámites a que se refieren los artículos 35 fracción III y 56 fracción XI del presente Reglamento, y los demás que se establezcan en las disposiciones jurídicas aplicables para la obtención de las licencias, permisos o autorizaciones competencia del Instituto.
 
 ###### Artículo 42.
 
@@ -863,13 +867,13 @@ VII.- Coadyuvar con las unidades administrativas de la Dirección de Asuntos Jur
 
 VIII.- Las demás que le confieran el Director General del Instituto y el Director de Asuntos Jurídicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMAD SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMAD SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO NOVENO. DE LA DIRECCIÓN DE VINCULACIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -877,7 +881,7 @@ VIII.- Las demás que le confieran el Director General del Instituto y el Direct
 
 La Dirección de Vinculación tiene por función general establecer el enlace entre el Instituto con los sectores público, privado y social, para impulsar la gestión ambiental coordinada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -897,13 +901,13 @@ V.- Dar trámite a las solicitudes o inquietudes de los sectores público, priva
 
 VI.- Fungir como unidad de enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo de conformidad con la normatividad aplicable.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE PLANEACIÓN Y POLÍTICA AMBIENTAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -911,9 +915,9 @@ VI.- Fungir como unidad de enlace con la Unidad de Acceso a la Información Púb
 
 La Dirección de Planeación y Política Ambiental tiene por función general desarrollar elementos que permitan la planeación ambiental continua y la evaluación de las políticas ambientales instrumentadas a través de la creación de mecanismos técnicos y de coordinación entre diversos sectores de la sociedad y el gobierno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 48.
 
@@ -921,7 +925,7 @@ Para el desarrollo, trámite y atención de los asuntos de su competencia, el Di
 
 I.- Definir, desarrollar e implementar los planes estratégicos y operativos del Instituto, congruentes a su objeto y al Plan de Gobierno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -947,45 +951,45 @@ XI.- Diseñar y establecer los criterios, procedimientos y controles necesarios 
 
 XII.- Participar en el diseño de la política ambiental en materia de estímulos e incentivos y proponer la creación de instrumentos económicos para el control de la contaminación ambiental del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 XIII.- Coadyuvar en la elaboración de los programas de educación y capacitación ambiental dirigidos a todos los sectores de la sociedad, enfocados al cuidado del ambiente y la promoción de la concientización ambiental;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 XIV.- Coordinar el funcionamiento y actualización del Padrón de Prestadores de Servicios Ambientales y dar trámite a las solicitudes de los particulares para su inscripción en el mismo, observando lo dispuesto en la normatividad aplicable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 XV.- Coordinar las acciones de mitigación y adaptación al cambio climático que le corresponden al Instituto, así como las de asesoría técnica y de colaboración institucional en esta materia; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 XVI.- Dar seguimiento a los acuerdos tomados en los comités, consejos y comisiones en los que participe el Instituto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO, P.O 31 DE OCTUBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ###### Artículo 48 Bis.
 
 La Dirección de Planeación y Política Ambiental deberá planear, apoyar, dirigir, coordinar y supervisar el trabajo de la Coordinación de Educación Ambiental.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 #### SECCIÓN ÚNICA. COORDINACIÓN DE EDUCACIÓN AMBIENTAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1161,13 +1165,13 @@ VIII.- Prestar a todas las unidades administrativas del Instituto los servicios 
 
 IX.- Las demás que le confieran el Director General del Instituto y el Director Administrativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2008)</small>
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA DIRECCIÓN DE GESTIÓN DE LA CALIDAD DEL AIRE
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1175,7 +1179,7 @@ IX.- Las demás que le confieran el Director General del Instituto y el Director
 
 La Dirección de Gestión de la Calidad del Aire tendrá por función general diseñar e implementar diferentes medidas para prevenir, controlar y mitigar la contaminación atmosférica en el Estado, así como coadyuvar al impulso de acciones de mitigación y adaptación al cambio climático.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2008)</small>
 
@@ -1339,7 +1343,7 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO SUSTENTABLE
 
 HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 P.O. 23 DE ENERO DE 2007.
 
@@ -1348,5 +1352,9 @@ Artículo Primero.- El presente Decreto Gubernativo entrará en vigencia el prim
 Artículo Segundo.- Las promociones para la obtención de autorizaciones, licencias y registros iniciados por los particulares ante el Instituto de Ecología del Estado antes de la entrada en vigencia del presente decreto, serán tramitados y concluidos en la ciudad de Salamanca.
 
 P.O. 31 DE OCTUBRE DE 2008.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE ABRIL DE 2012.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
