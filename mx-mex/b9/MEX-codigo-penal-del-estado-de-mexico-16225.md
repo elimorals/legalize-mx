@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-01-09"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL GACETA DEL GOBIERNO DEL 9 DE ENERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1152,6 +1150,10 @@ La prescripción producirá su efecto, aunque no la alegue en su defensa el incu
 ###### Artículo 96.
 
 El término para la prescripción de la pretensión punitiva será continuo y se contará a partir del día en que se cometió el delito, si fuere instantáneo; desde que cesó, si fuere permanente; desde el día en que se hubiere realizado el último acto de ejecución, si fuere continuado o en caso de tentativa.
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+En los casos de delitos cometidos en contra de menores de edad, el plazo para la prescripción comenzará a contar a partir de que la víctima sea mayor de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE DICIEMBRE DE 2010)</small>
 
@@ -3583,7 +3585,7 @@ XI. Cuando se cometa por los obreros, artesanos o discípulos, en la casa, talle
 
 XII. Cuando el robo recaiga en expedientes o documentos de protocolo, oficina o archivos públicos o en documentos que contengan obligación, liberación o transmisión de deberes que obren en expediente judicial, se impondrán de uno a cinco años de prisión. Si el delito lo comete el servidor público de la dependencia en que se encuentre el expediente o documento, se le impondrán además destitución e inhabilitación de dos a diez años para desempeñar otro empleo, cargo o comisión públicos;
 
-XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros;
+XIII. Cuando el robo se cometa en lugar cerrado, la pena será de tres a nueve años. Se entenderá por lugar cerrado, cualquier recinto notoriamente aislado del espacio circundante al que el activo no tenga libre acceso, independientemente de que se encuentren abiertas la puertas o rotos los muros.
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más, destitución definitiva e inhabilitación por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
@@ -4646,3 +4648,19 @@ DECRETO NÚMERO 406, POR EL QUE SE ADICIONA EL CAPITULO XI IRRUPCIÓN DE EVENTO 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE ABRIL DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno''.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE JULIO DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
