@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-para-la-proteccion-al-ahorro-61923"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-15"
-last_updated: "2011-02-04"
+last_updated: "2012-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61923&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-07-04"
 ---
 # REGLAMENTO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
 
-REGLAMENTO DEL INSTITUTO PARA LA PROTECCION AL AHORRO BANCARIO
+REGLAMENTO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO, PUBLICADO EN EL D.O.F. DE 24 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de julio de 2008.
 
@@ -155,7 +157,7 @@ Las referencias hechas a la Dirección General Jurídica de lo Consultivo, se en
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a cuatro de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 4 DE FEBRERO DE 2011.
 
@@ -176,3 +178,29 @@ TERCERO.- Los asuntos relacionados con las facultades para imponer las sanciones
 CUARTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos relacionados con las facultades para imponer las sanciones previstas en el Título Quinto de la Ley de Protección al Ahorro Bancario, así como para requerir información a las Instituciones y a los terceros especializados por virtud de la entrada en vigor del presente Decreto, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
 
 QUINTO.- Se derogan todas aquellas disposiciones administrativas que se opongan o contravengan lo previsto en el presente Decreto.
+
+D.O.F. 24 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto para la Protección al Ahorro Bancario, publicado en el Diario Oficial de la Federación el 15 de julio de 2008.
+
+TERCERO.- El Instituto para la Protección al Ahorro Bancario realizará las acciones necesarias para que la implementación del presente Reglamento, se realice con los recursos aprobados a dicho organismo público descentralizado, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable.
+
+CUARTO.- Las menciones que se hagan en cualquier disposición administrativa, resoluciones, oficios y demás documentos relacionados con el ejercicio de las atribuciones de las unidades administrativas que desaparecen o cambian de denominación con motivo del presente Reglamento, se entenderán efectuadas en los términos siguientes:
+
+Las referencias hechas a la Dirección General de Operaciones de Protección y Resoluciones Bancarias, se entenderán efectuadas a la Dirección General de Resoluciones Bancarias y Visitas.
+
+Las referencias hechas a la Dirección General del Seguro de Depósito, se entenderán efectuadas a la Dirección General de Seguimiento de Instituciones y Análisis.
+
+Las referencias hechas a la Dirección General de Administración y Enajenación de Activos, se entenderán efectuadas a la Dirección General de Enajenación de Activos y Supervisión de Fideicomisos.
+
+Las referencias hechas a la Dirección General de Supervisión de Residuales, Coordinación y Planeación Estratégica, se entenderán efectuadas a la Dirección General de Simulacros y Supervisión de Instituciones en Liquidación y Quiebra.
+
+Las referencias hechas a la Dirección General de Información, Sistemas y Servicios Generales, se entenderán efectuadas a la Dirección General de Tecnologías de la Información.
+
+QUINTO.- Los asuntos relacionados con las facultades para imponer las sanciones previstas en el Título Quinto de la Ley de Protección al Ahorro Bancario, así como para requerir información a las Instituciones y a los terceros especializados, que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Reglamento y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido su atención conforme a las disposiciones abrogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este Reglamento.
+
+SEXTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos relacionados con las facultades para imponer las sanciones previstas en el Título Quinto de la Ley de Protección al Ahorro Bancario, así como para requerir información a las Instituciones y a los terceros especializados por virtud de la entrada en vigor del presente Reglamento, pasarán a la nueva unidad o unidades administrativas competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+En los movimientos de personal que se realicen con motivo de lo anterior, se respetarán los derechos laborales, en términos de las disposiciones legales aplicables.
