@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2011-01-26"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE ENERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2012.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -84,6 +84,12 @@ XXI. Aditivos, y
 XXII. Los demás que, por su naturaleza y características, sean considerados como alimentos, bebidas, productos de perfumería, belleza o aseo o tabaco, así como las sustancias asociadas con su proceso.
 
 Asimismo, son materia del presente Reglamento el envase, envasado e irradiación de los productos antes precisados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+De igual modo, es objeto del presente ordenamiento, la regulación, control y fomento sanitario de la prestación de los servicios y prácticas de tatuajes, micropigmentaciones y perforaciones.
 
 Los productos, establecimientos, actividades y servicios regulados en el presente Reglamento se refieren a los de uso y consumo humano, excepto cuando expresamente se refiera a otros.
 
@@ -1451,55 +1457,55 @@ No se podrán vender bebidas alcohólicas por medio de máquinas automáticas. T
 
 Para fines promocionales, las presentaciones a que se refiere el párrafo anterior sólo se podrán comercializar en empaques para colección, ya sean múltiples o colectivos, o cuando formen parte de presentaciones artesanales con fines de ornato, o individualmente en tiendas de aeropuertos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 > <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
 
 ## TÍTULO VIGÉSIMO PRIMERO. Tabaco
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 > <small>(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)</small>
 
 ### Capítulo Único
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 180.
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 181.
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 182.
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 183.
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 184.
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 185.
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 ###### ARTÍCULO 186.
 
@@ -1991,13 +1997,213 @@ Los documentos de embarque de los productos, materias primas y aditivos irradiad
 
 En los documentos de embarque, además de lo señalado en el párrafo anterior, se dará a la Secretaría la información apropiada para identificar la instalación en la que se haya irradiado el producto, la cual deberá contar con la licencia oficial expedida por las autoridades competentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+## TÍTULO VIGÉSIMO QUINTO BIS. Tatuajes, Micropigmentaciones y Perforaciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+### Capítulo Único
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 1.
+
+Los tatuadores, micropigmentadores y perforadores, para la prestación de sus servicios, deberán contar con tarjeta de control sanitario, la cual tendrá una vigencia de dos años, contados a partir de la fecha de su expedición.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 2.
+
+La solicitud para obtener la tarjeta de control sanitario, a que se refiere el artículo anterior, deberá presentarse en el formato aprobado por la Secretaría y publicado en el Diario Oficial de la Federación, el cual deberá indicar, cuando menos, el nombre del trámite, el nombre completo y el domicilio del tatuador, perforador o micropigmentador, el domicilio del establecimiento y el horario de atención.
+
+A la solicitud se acompañarán los siguientes documentos:
+
+I. Manual de procedimientos, el cual deberá indicar lo siguiente:
+
+a) Las técnicas de tatuajes, micropigmentaciones o perforaciones que ofrecerá;
+
+b) Descripción detallada de cada procedimiento que utilizará para la prestación de sus servicios, y
+
+c) El material y equipo que utilizará en la prestación de sus servicios.
+
+II. Currículum vitae del solicitante que contenga sus datos generales, estudios y experiencia laboral, relacionados con los procedimientos a realizar;
+
+III. Documentación que compruebe que el solicitante cuenta con conocimientos sobre primeros auxilios y dominio de las técnicas de higiene y asepsia;
+
+IV. Comprobante de vacunación contra el tétanos y la hepatitis B;
+
+V. Dos fotografías tamaño infantil, y
+
+VI. Comprobante de pago de derechos, en términos de la Ley Federal de Derechos.
+
+La Secretaría resolverá las solicitudes de tarjetas de control sanitario de tatuadores, micropigmentadores y perforadores, dentro de los cuarenta días hábiles posteriores a aquél en que se haya presentado la solicitud correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 3.
+
+Los tatuadores, micropigmentadores o perforadores, previo a la realización de los procedimientos de tatuajes, micropigmentaciones o perforaciones, deberán aplicar al usuario un cuestionario, conforme al modelo aprobado por la Secretaría y publicado en el Diario Oficial de la Federación, a efecto de verificar que su estado de salud es óptimo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 4.
+
+Previamente a la ejecución de un tatuaje, micropigmentación o perforación, los tatuadores, micropigmentadores o perforadores, proporcionarán a los usuarios información clara, completa y precisa respecto del procedimiento. Una vez recibida la información correspondiente, los usuarios manifestarán su consentimiento firmando la carta de aceptación respectiva, conforme al modelo emitido por la autoridad sanitaria y publicado en el Diario Oficial de la Federación, la cual contendrá los aspectos siguientes:
+
+I. Los riesgos que conllevan los procedimientos de tatuajes, micropigmentaciones o perforaciones;
+
+II. La irreversibilidad del tatuaje o micropigmentación a realizar y, en su caso, la posibilidad de disminuir la perceptibilidad de los mismos, a través de procedimientos médicos efectuados por personal profesional especializado, y
+
+III. Los cuidados que deben observarse con posterioridad al procedimiento a realizarse.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 5.
+
+Los procedimientos de tatuajes, micropigmentaciones o perforaciones, en menores de dieciocho años de edad, sólo podrán ser realizados en los siguientes casos:
+
+I. Cuando se cuente con la autorización por escrito de uno de quien ejerza la patria potestad o de su tutor, previa comprobación de ese carácter, y
+
+II. Cuando, en el momento de la realización del procedimiento, estén acompañados de uno de sus padres o de su tutor, previo acreditamiento de tal carácter.
+
+La autorización a que se refiere la fracción I de este artículo, deberá constar por escrito, conforme al modelo aprobado por la Secretaría y publicado en el Diario Oficial de la Federación, y deberá anexarse al cuestionario a que se refiere el artículo 224 Bis 3 de este Reglamento.
+
+La autorización deberá estar acompañada de una copia del documento oficial que acredite la relación de parentesco o el ejercicio de la patria potestad o tutela con el menor, según corresponda. La documentación referida deberá mantenerse en resguardo durante un plazo de dos años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 6.
+
+Se prohíbe la realización de procedimientos de tatuajes, micropigmentaciones y perforaciones en personas que se encuentren bajo el influjo del alcohol o de alguna droga, o que no se encuentren en pleno goce de sus facultades mentales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 7.
+
+La joyería, agujas, navajas, punzones u otro material punzo cortante que se utilicen en los procedimientos de tatuajes, micropigmentaciones o perforaciones, deberán ser desechables y usados una sola vez.
+
+Cualquier utensilio, equipo o instrumento susceptibles de ser reutilizados y que sea distinto a los señalados en el párrafo anterior, deberán ser esterilizados y almacenados con anterioridad a su uso, en condiciones que mantengan dicho estado.
+
+Se prohíbe el uso de pistolas para perforar, o cualquier otro equipo, que debido a su imposibilidad de ser esterilizado o desinfectado, en todas sus partes, constituya un riesgo de transmisión de enfermedades.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 8.
+
+Para el caso de perforaciones, deberán utilizarse materiales estériles de implantación o biocompatibles quirúrgicos. En el caso de tatuajes, las tintas deberán ser biocompatibles con el cuerpo humano y mantenerse en sus envases originales. En las micropigmentaciones los pigmentos deberán ser inocuos e insolubles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 9.
+
+Los tatuadores, micropigmentadores y perforadores sólo podrán utilizar anestésicos tópicos para disminuir el dolor de las laceraciones, quemaduras, implantes, escarificaciones o cualquier otra técnica semejante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 10.
+
+Los tatuadores, micropigmentadores o perforadores, al realizar un procedimiento de tatuaje, micropigmentación o perforación, deberán prevenir la transmisión de enfermedades infectocontagiosas y contaminación microbiológica, para lo cual, deberán, por lo menos, utilizar el siguiente material:
+
+I. Equipo de tatuaje, micropigmentación o perforación, nuevo o debidamente esterilizado;
+
+II. Guantes de uso quirúrgico;
+
+III. Cubre boca de material desechable;
+
+IV. Desinfectantes;
+
+V. Autoclave o esterilizador;
+
+VI. Agua corriente, y
+
+VII. Demás materiales y equipo que le permita mantener los niveles de higiene y asepsia necesarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 11.
+
+El manejo de los residuos peligrosos que se generen en los procedimientos de tatuajes, micropigmentaciones y perforaciones deberá realizarse conforme a las disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 12.
+
+El tatuador, micropigmentador o perforador deberá llevar un registro de los usuarios de sus servicios en una libreta encuadernada y foliada, en la que deberá asentar la información personal y los datos de la identificación oficial de quien recibió el servicio, y en el caso de menores de edad, de quien ejerza la patria potestad o tutor, así como una descripción del servicio prestado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 13.
+
+La práctica de tatuajes, perforaciones y micropigmentaciones se deberá realizar conforme al manual de procedimientos a que se refiere la fracción I del artículo 224 Bis 2 del presente Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 14.
+
+La tarjeta de control sanitario a que se refiere el artículo 224 Bis 1 del presente Reglamento, podrá prorrogarse por periodos de dos años.
+
+La solicitud de prórroga de tarjeta de control sanitario deberá presentarse a más tardar quince días hábiles antes del vencimiento de la misma.
+
+La solicitud de prórroga deberá estar acompañada de los siguientes documentos:
+
+I. Original del comprobante del pago de derechos, en términos de la Ley Federal de Derechos, y
+
+II. Número o copia simple de la tarjeta de control sanitario de la cual se pide la prórroga.
+
+La Secretaría resolverá la solicitud de prórroga de tarjeta de control sanitario, dentro de los quince días hábiles contados a partir de aquél en que se presentó la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 15.
+
+La Secretaría podrá revocar en cualquier tiempo la tarjeta de control sanitario correspondiente, a los tatuadores, micropigmentadores y perforadores, en términos de lo dispuesto por el Capítulo II del Título Décimo Sexto de la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 224 Bis 16.
+
+El incumplimiento a las disposiciones previstas en este Capítulo, se sancionará de conformidad con lo previsto en la Ley, en el Capítulo III del Título Vigésimo Séptimo del presente Reglamento y en las demás disposiciones aplicables.
+
 ## TÍTULO VIGÉSIMO SEXTO. Autorizaciones, avisos y certificados
 
 ### Capítulo I. Disposiciones comunes
-
-## TÍTULO VIGÉSIMO SÉPTIMO. Verificación, medidas de seguridad y sanciones
-
-### Capítulo II. Permisos
 
 ###### ARTÍCULO 225.
 
@@ -2025,11 +2231,15 @@ Cuando de la revisión efectuada, la Secretaría determine que el titular deba c
 
 Los trámites a que se refiere el presente título deberán iniciarse utilizando los formatos autorizados y publicados en el Diario Oficial de la Federación. En dichos formatos se especificarán los datos, requisitos y documentos que el solicitante, en cada caso, debe proporcionar, cumplir y acompañar.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2012)</small>
+
 ###### ARTÍCULO 230.
 
-En los productos, servicios, establecimientos y actividades objeto de este Reglamento no se requerirá de la tarjeta de control sanitario a que se refiere el artículo 377 de la Ley.
+Con excepción de los servicios prestados por tatuadores, micropigmentadores y perforadores; en los productos, servicios, establecimientos y actividades objeto de este Reglamento, no se requerirá de la tarjeta de control sanitario a que se refiere el artículo 377 de la Ley.
 
-### Capítulo III. Avisos
+### Capítulo II. Permisos
 
 ###### ARTÍCULO 231.
 
@@ -2083,7 +2293,7 @@ La autoridad sanitaria determinará el destino final de los productos después d
 
 Si la decisión fuera que el producto es apto para ser consumido, la Secretaría se asegurará, particularmente en el caso de perecederos, que al momento de su disposición el producto se mantenga en condiciones microbiológicas, parasitológicas, físicas, químicas y sensoriales apropiadas para el consumo humano. Los gastos de almacenamiento y pérdidas generados durante el tiempo necesario para la dictaminación y, en su caso, la destrucción, correrán por cuenta del exportador o fabricante que haya solicitado el reingreso de los productos al país.
 
-### Capítulo IV. Certificados
+### Capítulo III. Avisos
 
 ###### ARTÍCULO 239.
 
@@ -2095,7 +2305,7 @@ Los propietarios o responsables de los establecimientos que intervengan en la fa
 
 Los avisos sanitarios de importación y los certificados sanitarios del país de origen se presentarán una sola vez al año para cada uno de los productos sujetos a aviso sanitario de importación, y tendrán validez para todos los embarques que se realicen dentro del período de que se trate. En caso de que la Secretaría identifique anomalías en la condición sanitaria o en la identidad, según sea el caso, podrá requerir nuevamente la presentación del aviso o del certificado correspondiente.
 
-### Capítulo V. Terceros autorizados
+### Capítulo IV. Certificados
 
 ###### ARTÍCULO 241.
 
@@ -2115,7 +2325,7 @@ Cuando se soliciten modificaciones a los referidos certificados la Secretaría r
 
 Si el exportador solicita la realización de una visita de verificación con el objeto de que se certifique la calidad sanitaria de sus productos y materias primas para fines de exportación presentará solicitud ante la Secretaría, la cual tendrá un plazo de quince días para llevar a cabo dicha visita.
 
-### Capítulo I. Verificación
+### Capítulo V. Terceros autorizados
 
 ###### ARTÍCULO 243.
 
@@ -2195,7 +2405,9 @@ La Secretaría deberá custodiar y garantizar la confidencialidad de la document
 
 Cuando el tercero autorizado haya cumplido con los términos, condiciones y obligaciones establecidas por la Secretaría, durante el tiempo que le fue otorgada la autorización, podrá prorrogarse la vigencia de ésta por un plazo similar al otorgado inicialmente, para lo cual deberá presentar solicitud un mes antes de su vencimiento.
 
-### Capítulo II. Medidas de seguridad
+## TÍTULO VIGÉSIMO SÉPTIMO. Verificación, medidas de seguridad y sanciones
+
+### Capítulo I. Verificación
 
 ###### ARTÍCULO 253.
 
@@ -2279,7 +2491,7 @@ En la notificación a que se refiere el párrafo anterior, la autoridad sanitari
 
 En caso de que el particular no presente el escrito de referencia en el plazo concedido, la autoridad sanitaria procederá a tomar las medidas pertinentes.
 
-### Capítulo III. Sanciones
+### Capítulo II. Medidas de seguridad
 
 ###### ARTÍCULO 259.
 
@@ -2290,6 +2502,8 @@ La medida de seguridad impuesta deberá ratificarse, modificarse o revocarse en 
 ###### ARTÍCULO 260.
 
 Las autoridades sanitarias competentes podrán ordenar la aplicación de las medidas de seguridad a que se refiere el artículo 404 de la Ley, cuando en las áreas, instalaciones, equipo o proceso de fabricación se afecten la identidad, pureza, conservación o fabricación de los productos; así como por el incumplimiento de las buenas prácticas y, en general, cuando se infrinjan las disposiciones de la Ley, este Reglamento y demás disposiciones aplicables que impliquen un grave riesgo para la salud.
+
+### Capítulo III. Sanciones
 
 ###### ARTÍCULO 261.
 
@@ -4969,15 +5183,15 @@ En las canastillas y cartones de empaque, con excepción de las presentaciones a
 
 Las etiquetas podrán contener la clasificación señalada en el artículo 176 del presente Reglamento, la cual, cuando se utilice, deberá aparecer como lo señala dicho artículo y no deberá ser utilizada con fines promocionales, ni de publicidad de los productos. Los textos de las leyendas precautorias no podrán modificarse ni usar superlativos relativos a la clasificación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 XIX. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 XIX.1. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO.</small>
 
 XIX.2. (DEROGADA POR TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY GENERAL PARA EL CONTROL DEL TABACO, D.O.F. 31 DE MAYO DE 2009)
 
@@ -5351,7 +5565,7 @@ XXIII.3.9. La distribución de la dosis en el producto, y
 
 XXIII.3.10. La fecha de irradiación.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 6 DE ABRIL DE 2006.
 
@@ -5374,3 +5588,9 @@ TERCERO.- Se derogan el capítulo III del Título Cuarto del Reglamento de la Le
 D.O.F. 26 DE ENERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2012.
+
+PRIMERO.- El presente Decreto entrará en vigor ciento veinte días naturales posteriores al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Salud deberá publicar en el Diario Oficial de la Federación, dentro de los sesenta días hábiles siguientes a la publicación del presente Decreto, el formato de solicitud de tarjeta de control sanitario, el modelo que contenga el cuestionario, el consentimiento informado y la autorización del quien ejerza la patria potestad o tutor a que se refieren los artículos 224 Bis 2, 224 Bis 3, 224 Bis 4 y 224 Bis 5.
