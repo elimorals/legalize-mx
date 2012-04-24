@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-del-sistema-de-6195
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2008-07-21"
+last_updated: "2012-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-07-15"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
 
-REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
+REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO, PUBLICADO EN EL D.O.F. DE 24 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de julio de 2008.
 
@@ -748,3 +750,23 @@ SEXTO.- Las acciones que se deriven de la aplicación del presente Reglamento se
 Asimismo, las modificaciones que se lleven a cabo a la estructura orgánica de la Comisión Nacional del Sistema de Ahorro para el Retiro se deberán realizar mediante movimientos compensados, que no impliquen un aumento en el presupuesto regularizable de servicios personales respectivo, aprobado para cada ejercicio fiscal.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 24 DE ABRIL DE 2012.
+
+PRIMERO.- El presente ordenamiento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional del Sistema de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el día 21 de julio de 2008.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente ordenamiento se encuentren en trámite y que conforme al mismo deban ser atendidos por una unidad administrativa diversa a la que hubiere correspondido conforme a las disposiciones vigentes antes de esa fecha, serán transferidos por la unidad administrativa que se encuentre conociendo del asunto de que se trate, a la unidad o unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+
+CUARTO.- Los acuerdos y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente ordenamiento, continuarán en vigor en lo que no se opongan al mismo.
+
+QUINTO.- Las acciones que se deriven de la aplicación del presente Reglamento se sujetarán al presupuesto aprobado para la Comisión Nacional del Sistema de Ahorro para el Retiro, sin que implique la asignación de recursos adicionales.
+
+Asimismo, las modificaciones que se lleven a cabo a la estructura orgánica de la Comisión Nacional del Sistema de Ahorro para el Retiro se deberán realizar mediante movimientos compensados, que no impliquen un aumento en el presupuesto regularizable de servicios personales respectivo, aprobado para cada ejercicio fiscal.
+
+SEXTO.- Las referencias que en su caso se hubiesen hecho, así como las atribuciones que se hubieren otorgado mediante diversas disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+SÉPTIMO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Reglamento, pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
