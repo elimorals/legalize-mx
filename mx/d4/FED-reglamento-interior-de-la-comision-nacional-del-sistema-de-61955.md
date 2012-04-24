@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-del-sistema-de-6195
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-21"
-last_updated: "2008-07-21"
+last_updated: "2012-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61955&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,732 +19,3476 @@ issue_date: "2008-07-15"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
 
-REGLAMENTO INTERIOR DE LA COMISION NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
-Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de julio de 2008.
+Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+El C. LIC. AGUSTIN ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, a sus habitantes, hace saber:
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de de la Constitución Política de los Estados Unidos Mexicanos, con fundamento en los artículos 13, 16, 17 y 31 de la Ley Orgánica de la Administración Pública Federal, y 5o., 8o. y 11 de la Ley de los Sistemas de Ahorro para el Retiro, he tenido a bien expedir el siguiente:
+Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente, se ha servido decretar la siguiente
 
-REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".</small>
 
-## TÍTULO PRIMERO. Bases de Organización
+CONSTITUCION.
 
-### CAPÍTULO ÚNICO
+...
 
-###### Artículo 1.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Comisión Nacional del Sistema de Ahorro para el Retiro, como órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público, tendrá las facultades que le confieren las leyes de los Sistemas de Ahorro para el Retiro, del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, así como otras disposiciones aplicables, en los términos de dichos ordenamientos.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
-Las definiciones a que se refiere el artículo 3o. de la Ley de los Sistemas de Ahorro para el Retiro, en lo sucesivo la Ley, se aplicarán a este Reglamento.
+## TÍTULO PRIMERO. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-Se entenderá por aprobación superior, a la instrucción o consentimiento que exprese un funcionario de nivel jerárquico mayor en línea directa de la unidad administrativa a que se refiera la respectiva facultad prevista en el presente Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 2.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
-La Comisión, para el ejercicio de sus facultades, contará con los siguientes órganos y unidades administrativas:
+### CAPÍTULO PRIMERO. DERECHOS CIVILES, POLÍTICOS, ECONÓMICOS, SOCIALES Y CULTURALES
 
-I. Junta de Gobierno;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Comité Consultivo y de Vigilancia;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013)</small>
 
-III. Presidencia:
+###### ARTICULO 1.
 
-A. Vicepresidencia de Operaciones:
+En el Estado de Guanajuato todas las personas gozan de los derechos humanos y de las garantías para su protección reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como en los consagrados por esta Constitución y sus Leyes Reglamentarias, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
 
-i. Dirección General de Supervisión Operativa, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ii. Dirección General de Supervisión Operativa de la Base de Datos Nacional SAR;
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-B. Vicepresidencia Financiera:
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los Tratados Internacionales de la materia favoreciendo en todo tiempo la protección más amplia a las personas.
 
-i. Dirección General de Planeación Financiera y Estudios Económicos, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ii. Dirección General de Supervisión Financiera;
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-C. Vicepresidencia Jurídica:
+Todas las autoridades del estado y de los municipios, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y restituir las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-i. Dirección General Normativa y Consultiva;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2009)</small>
 
-1. Dirección General Adjunta de Control Legal Interno;
+Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano desde su concepción hasta su muerte natural. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
 
-ii. Dirección General Adjunta de lo Contencioso, y
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-iii. Dirección General Adjunta de Sanciones;
+Queda prohibido todo tipo de discriminación que atente contra la dignidad humana o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
 
-D. Coordinación General de Información y Vinculación:
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-i. Dirección General de Informática;
+La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención del menor y del anciano.
 
-ii. Dirección General Adjunta de Estadísticas e Información, y
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-iii. Dirección General Adjunta de Coordinación Institucional;
+###### ARTICULO 2.
 
-E. Dirección General de Administración;
+El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
 
-F. Dirección General de Comunicación, Difusión y Enlace Institucional.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-La Comisión podrá contar con las demás direcciones generales adjuntas que se establezcan en su estructura y ejercerán las facultades que se les encomienden por parte de la unidad administrativa a la que se encuentren adscritas.
+La ley es igual para todos, de ella emanan las atribuciones de las autoridades y los derechos y obligaciones de todas las personas que se hallen en el Estado de Guanajuato, ya sean domiciliadas o transeúntes. A todos corresponde el disfrute de sus beneficios y el acatamiento de sus disposiciones.
 
-La Comisión contará con un Órgano Interno de Control, que se regirá conforme al artículo 25 de este Reglamento.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-La Junta de Gobierno y la Presidencia, en el ejercicio de sus facultades, se auxiliarán de las vicepresidencias, de la coordinación general, de las direcciones generales y de las direcciones generales adjuntas.
+A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna. Contra su observancia no puede alegarse ignorancia, desuso, costumbre o práctica en contrario.
 
-###### Artículo 3.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-Los vicepresidentes, el coordinador general, los directores generales y los directores generales adjuntos, deberán satisfacer los requisitos a que se refiere el artículo 10 de la Ley.
+La ley establecerá y regulará la mediación y la conciliación como medios alternativos para la resolución de las controversias entre las partes interesadas, respecto a derechos de los cuales tengan libre disposición.
 
-###### Artículo 4.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-La Junta de Gobierno podrá constituir subcomités con fines específicos.
+La mediación y la conciliación se regirán bajo los principios de equidad, imparcialidad, rapidez, profesionalismo y confidencialidad. El Poder Judicial contará con un órgano de mediación y conciliación el cual actuará en forma gratuita a petición de parte interesada. Dicho órgano tendrá la organización, atribuciones y funcionamiento que prevea la ley.
 
-A propuesta del Presidente de la Comisión, la Junta de Gobierno nombrará un Secretario y un Prosecretario de Actas, quien suplirá al Secretario en caso de ausencia. El Secretario y Prosecretario de la Junta de Gobierno tendrán, entre otras, las siguientes facultades:
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-I. Formular y enviar a los miembros de la Junta de Gobierno, las convocatorias para la celebración de las sesiones ordinarias de Junta de Gobierno, a solicitud del Presidente de la Comisión;
+La ley regulará la aplicación de mecanismos alternativos de solución de controversias en la materia penal, en los que se asegure la reparación del daño y se establezcan los casos en los que se requerirá supervisión judicial.
 
-II. Verificar que se cuente con el quórum de asistencia y votación requerido; extender las actas de las sesiones, suscribirlas para constancia, someterlas a la aprobación y firma de quien haya presidido la sesión correspondiente, así como resguardarlas;
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-III. Llevar un registro de los acuerdos tomados y dar seguimiento al cumplimiento de los mismos y expedir las constancias relativas, y
+El Poder Judicial es independiente de los demás poderes del Estado. El Ejecutivo garantizará la plena ejecución de las resoluciones judiciales.
 
-IV. Las demás que expresamente les asigne la Junta de Gobierno.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-###### Artículo 5.
+Las sentencias pronunciadas por los tribunales del Estado, solamente afectarán a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se dicten y a sus causahabientes.
 
-El quórum de la Junta de Gobierno se integrará con la presencia de nueve de sus miembros y las decisiones se tomarán por mayoría de votos de los presentes.
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-De las sesiones de la Junta de Gobierno se extenderá acta, misma que será suscrita por quien haya presidido la sesión y por el Secretario de la propia Junta. En el acta se asentarán el quórum que integró la sesión, así como las resoluciones y recomendaciones que se hayan adoptado.
+Las sentencias que pongan fin a los procedimientos orales, deberán ser explicadas en audiencia pública, previa citación a las partes.
 
-Los acuerdos que se tomen por la Junta de Gobierno serán firmados solamente por el Presidente de la Comisión para su ejecución.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-Los acuerdos podrán ser ejecutados a partir de su aprobación en la sesión y corresponderá al Presidente de la Comisión darles oportuno cumplimiento.
+###### ARTICULO 3.
 
-Los miembros de la Junta de Gobierno tendrán derecho de deliberar libremente y de hacer constar en el acta, a solicitud expresa, su opinión o voto particular sobre los asuntos que se traten.
+Todo individuo tiene derecho a recibir educación. El Estado y los municipios impartirán educación de conformidad con los planes y programas que al efecto determine el Ejecutivo Federal en los términos de la fracción III del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-La Junta de Gobierno podrá delegar sus facultades en el Presidente de la Comisión de conformidad con el artículo 8o. de la Ley, mediante acuerdos delegatorios que se publicarán en el Diario Oficial de la Federación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-La Junta de Gobierno conocerá de las excusas que tengan sus miembros para deliberar, resolver y votar asuntos concretos. Dichos miembros deberán exponer los razonamientos que impidan su participación en la sesión en la cual hayan de discutirse esos asuntos.
+La educación preescolar, primaria, secundaria y media superior, conforman la educación obligatoria.
 
-###### Artículo 7.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Comité Consultivo y de Vigilancia expedirá sus reglas de funcionamiento para el mejor desempeño de sus labores.
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-Los acuerdos del Comité Consultivo y de Vigilancia se tomarán por mayoría de votos. El Presidente de dicho Comité tendrá voto de calidad en caso de empate.
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
-Los acuerdos podrán ser ejecutados a partir de su aprobación en la sesión y corresponderá al Presidente de la Comisión darles oportuno cumplimiento.
+Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
 
-Los miembros del Comité Consultivo y de Vigilancia tendrán derecho a deliberar libremente y de hacer constar en el acta, a solicitud expresa, su opinión o voto particular sobre los asuntos de que se trate.
+Las leyes respectivas, determinarán las profesiones que requerirán de título para su ejercicio, las condiciones para obtenerlo, las instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
 
-En el caso de asuntos extraordinarios, a solicitud del Presidente de la Comisión o del Presidente del Comité Consultivo y de Vigilancia, se podrá, sin la necesidad de sesionar, recabar la opinión y votar acuerdos por parte de los miembros, requiriéndose en este caso contar con la firma y el sentido de los votos. Dichos asuntos serán informados en la siguiente sesión.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-A propuesta del Presidente de la Comisión, el Comité Consultivo y de Vigilancia nombrará un Secretario y un Prosecretario de Actas quien lo suplirá en caso de ausencia.
+###### ARTICULO 4.
 
-El Secretario y Prosecretario del Comité Consultivo y de Vigilancia tendrán las mismas facultades que el Secretario y el Prosecretario de la Junta de Gobierno respecto del Comité, de conformidad con el artículo 4 de este Reglamento.
+La ley establecerá sistemas de impugnación y medios de defensa de los derechos de los particulares frente a los actos de las autoridades.
 
-Las convocatorias para la celebración de sesiones del Comité Consultivo y de Vigilancia deberán estar suscritas por el Secretario o el Prosecretario y se deberán notificar a los miembros del mismo, por lo menos con cinco días naturales de anticipación a la celebración de la sesión.
+La ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, dotado de plena autonomía, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal que violen estos derechos, formulará acuerdos o recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-###### Artículo 8.
+Este organismo no será competente para conocer de quejas que se originen con motivo de acuerdos o decisiones de instancias electorales, ni tratándose de resoluciones de naturaleza jurisdiccional; pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
 
-La Presidencia del Comité Consultivo y de Vigilancia estará a cargo de un representante de las organizaciones nacionales de trabajadores o de patrones, alternativamente, por periodos anuales que correrán del día primero de agosto al día treinta y uno de julio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los miembros del Comité Consultivo y de Vigilancia representantes de las organizaciones nacionales de trabajadores o de patrones, según a que sector corresponda tomar la presidencia de este órgano, deberán presentar al Secretario del Comité a más tardar el día treinta y uno de julio de cada año la propuesta de quien de entre ellos presidirá al Comité durante el periodo anual siguiente, misma que será presentada a la consideración de dicho órgano de gobierno.
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-###### Artículo 9.
+El organismo estatal de protección de los Derechos Humanos, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder, por escrito, las recomendaciones que le presente este organismo.
 
-El Presidente de la Comisión es la máxima autoridad administrativa de la Comisión y ejercerá las facultades previstas en el artículo 12 de la Ley, así como aquéllas que le hayan sido delegadas por la Junta de Gobierno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Presidente de la Comisión podrá, mediante acuerdos delegatorios que deberán ser publicados en el Diario Oficial de la Federación, ejercer las facultades previstas en el artículo 12 de la Ley, así como aquéllas que le hayan sido delegadas por la Junta de Gobierno, a través de los vicepresidentes, el coordinador general, los directores generales, los directores generales adjuntos, los directores y demás personal de la Comisión.
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-Corresponderá al Presidente de la Comisión proponer a la Junta de Gobierno la estructura de la organización administrativa de la Comisión, así como sus modificaciones, a efecto de que se sometan a consideración de la autoridad correspondiente, de acuerdo al presupuesto autorizado.
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Diputación Permanente, podrán llamar, a solicitud del organismo de Derechos Humanos, a las autoridades o servidores públicos responsables para que comparezcan ante la comisión legislativa que determine su Ley Orgánica, a efecto de que expliquen el motivo de su rechazo o incumplimiento.
 
-El Presidente de la Comisión expedirá las disposiciones internas de la Comisión sujetándose a lo previsto en las leyes y ordenamientos citados en el artículo 1o. de este Reglamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En términos del artículo 102 de la Ley, corresponde al Presidente de la Comisión emitir las resoluciones de los recursos de revocación interpuestos en contra de la imposición de sanciones.
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-El Presidente de la Comisión representará a dicho órgano administrativo desconcentrado ante asociaciones, organismos y entidades nacionales e internacionales, pudiendo delegar esta facultad en los vicepresidentes, el coordinador general y los directores generales de la Comisión.
+La elección del titular del organismo estatal de protección de los Derechos Humanos se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la materia.
 
-###### Artículo 10.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Presidente de la Comisión, al rendir el informe anual de labores a la Junta de Gobierno, le informará por escrito respecto del ejercicio del presupuesto, así como de cualquier asunto relativo a las responsabilidades de los servidores públicos de la misma.
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-###### Artículo 11.
+El titular del organismo estatal de protección de los Derechos Humanos, quien lo será también del Consejo Consultivo, durará en su encargo cuatro años, con la posibilidad de ser ratificado por una sola vez, aplicando las reglas establecidas en la ley de la materia y únicamente podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
 
-Los vicepresidentes y coordinador general tendrán las facultades siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Acordar con el Presidente de la Comisión los asuntos de su competencia e informarle sobre el desarrollo de las actividades de las unidades administrativas que tengan adscritas;
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-II. Preparar los asuntos de su competencia que el Presidente de la Comisión deba someter a la consideración y aprobación de la Junta de Gobierno;
+El titular del organismo estatal de protección de los Derechos Humanos enviará anualmente un informe de actividades al Congreso del Estado, el cual se hará de conocimiento del Gobernador del Estado, así como del Supremo Tribunal de Justicia del Estado, de los ayuntamientos y de los organismos que esta Constitución otorga autonomía, en términos de lo que al efecto disponga la Ley de la materia.
 
-III. Planear, formular, dirigir y evaluar los programas anuales de labores y programas específicos que determinen las disposiciones aplicables, así como las actividades de las unidades administrativas a ellos adscritas, conforme a las políticas y lineamientos que determine el Presidente de la Comisión;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Ejercer las funciones y resolver los asuntos que sean competencia de las unidades administrativas a su cargo;
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
-V. Resolver los asuntos que les sean señalados por delegación o que les correspondan por suplencia;
+El titular del organismo estatal de protección de los Derechos Humanos podrá hacer valer las acciones de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el artículo 105, fracción II inciso g), de la Constitución Política de los Estados Unidos Mexicanos.
 
-VI. Emitir opinión al Comité Consultivo y de Vigilancia sobre los asuntos de su competencia que corresponda conocer a dicho Comité;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-VII. Desempeñar las comisiones y demás funciones que les encomiende el Presidente de la Comisión para el cumplimiento de las facultades precedentes, y
+###### ARTICULO 5.
 
-VIII. Las demás que les confieran otras disposiciones.
+El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que señalen las leyes.
 
-###### Artículo 12.
+La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública y mediante indemnización, en la forma y términos que determinan las leyes.
 
-Corresponde a la Dirección General de Supervisión Operativa el ejercicio de las siguientes facultades:
+El Gobernador del Estado hará la declaratoria correspondiente en cada caso especial.
 
-I. Supervisar a los Participantes en los Sistemas de Ahorro para el Retiro respecto de los diversos aspectos operativos establecidos en la normatividad;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-II. Proponer a la aprobación del Presidente de la Comisión el programa anual de supervisión, el cual deberá considerar las acciones de vigilancia y de inspección en materia operativa;
+###### ARTICULO 6.
 
-III. Instrumentar el programa anual de supervisión en materia operativa;
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-IV. Revisar y dictaminar, para aprobación de la Junta de Gobierno, las solicitudes de autorización para constituirse como Participante en los Sistemas de Ahorro para el Retiro en el ámbito de su competencia;
+En los casos especiales previstos en la ley, la audiencia para orden de aprehensión, que por cualquier medio solicite el Ministerio Público, se celebrará dentro de las dos horas siguientes de recibida la solicitud, en la que se emitirá resolución.
 
-V. Revisar que la contabilidad de las Administradoras cumpla con la normatividad;
+Cualquier persona puede detener al inculpado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
 
-VI. Definir los mecanismos de evaluación y aplicar los exámenes, directamente o a través de terceros, a los contralores normativos de las Administradoras, en el ámbito de su competencia;
+En el caso de flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
-VII. Declarar la procedencia o, en su caso, desechar los informes que presenten los Participantes en los Sistemas de Ahorro para el Retiro por conducto de su contralor normativo o funcionario autorizado en términos de los programas de corrección en materia operativa que, con base en la normatividad, instrumenten dichas entidades;
+La autoridad judicial, a petición de los agentes del Ministerio Público que establezca la ley y tratándose de los delitos graves que ésta determine, podrá decretar el arraigo de una persona con las modalidades de lugar y tiempo que la ley señale, sin que pueda exceder del improrrogable plazo de cuarenta días, siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia.
 
-VIII. Ordenar y realizar visitas de inspección a los Participantes en los Sistemas de Ahorro para el Retiro en materia operativa;
+Ningún inculpado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial, salvo que se haya decretado su arraigo. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
 
-IX. Proponer a la aprobación del Vicepresidente de Operaciones de la Comisión, para que éste lo someta a la aprobación del Presidente de la Comisión y éste a su vez a la Junta de Gobierno, la intervención administrativa y gerencial, así como vigilar, en el ámbito de su competencia, el desarrollo de las mismas en coordinación con la Dirección General de Supervisión Financiera;
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
-X. Dar seguimiento y supervisar, en coordinación con la Dirección General de Supervisión Financiera, los procedimientos de intervención, disolución y liquidación de las Administradoras y Sociedades de Inversión, de conformidad con lo establecido en el artículo 56 de la Ley;
+Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacidad de las mismas, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establezca la ley.
 
-XI. Supervisar que las empresas que presten servicios complementarios o auxiliares a los participantes en los Sistemas de Ahorro para el Retiro, en las que las Administradoras tengan participación accionaria, se ajusten en su funcionamiento en materia operativa a las disposiciones que los regulan;
+El Procurador General de Justicia del Estado podrá solicitar a la autoridad judicial federal competente, la autorización para la intervención de cualquier comunicación privada. Para ello, deberá fundar y motivar las causas legales de la solicitud, expresando además, el tipo de intervención, los sujetos de la misma y su duración.
 
-XII. Habilitar como inspectores a quienes presten sus servicios a la Comisión para llevar a cabo los actos de inspección y auditoría de sistemas a los Participantes en los Sistemas de Ahorro para el Retiro en materia operativa, previstos en la Ley y en su reglamento;
+No procederá la intervención de comunicaciones, cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral o administrativo, ni en el caso de las comunicaciones del detenido con su defensor.
 
-XIII. Evaluar el riesgo operativo de los distintos procesos que llevan a cabo los Participantes de los Sistemas de Ahorro para el Retiro y, en los casos de riesgo legal en materia operativa, realizarlo en coordinación con la Dirección General Normativa y Consultiva;
+El Poder Judicial del Estado contará con jueces de control que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los inculpados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
-XIV. Diseñar los diversos aspectos técnicos de la normatividad en materia operativa de los Participantes en los Sistemas de Ahorro para el Retiro;
+Las intervenciones autorizadas se ajustarán a los requisitos y límites previstos en las leyes. Los resultados de las intervenciones que no cumplan con éstos, carecerán de todo valor probatorio.
 
-XV. Proponer, para aprobación superior, los criterios y lineamientos técnicos para la elaboración de los proyectos de reglamentos, circulares, reglas generales y demás disposiciones que deben observar los Participantes en los Sistemas de Ahorro para el Retiro en materia operativa;
+La correspondencia estará libre de todo registro y su violación será penada por la ley.
 
-XVI. Elaborar y proponer, para aprobación superior, la aplicación en las Administradoras y Sociedades de Inversión de un sistema de evaluación y control de su exposición a los riesgos operativos que establezca la normatividad;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XVII. Turnar a la Dirección General Adjunta de Sanciones aquellos asuntos en los que se detecte o sea de su conocimiento, algún posible incumplimiento a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de los Participantes en dichos sistemas, así como del contralor normativo;
+###### ARTICULO 7.
 
-XVIII. Solicitar información y documentación en el ámbito de su competencia a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por los artículos 90 fracción II, 91 y 113 de la Ley;
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-XIX. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
-XX. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
-###### Artículo 13.
+Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-Corresponde a la Dirección General de Supervisión Operativa de la Base de Datos Nacional SAR el ejercicio de las siguientes facultades:
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
 
-I. Supervisar a las Empresas Operadoras respecto de los diversos aspectos operativos establecidos en la normatividad;
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
-II. Proponer a la aprobación del Presidente de la Comisión el programa anual de supervisión a las Empresas Operadoras, el cual deberá considerar las acciones de vigilancia y de inspección en materia operativa;
+Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día.
 
-III. Proponer, para aprobación superior, los criterios y lineamientos técnicos para la elaboración de los proyectos de reglamentos, circulares, reglas generales y demás disposiciones que deben observar las Empresas Operadoras en materia operativa;
+Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
 
-IV. Instrumentar el programa anual de supervisión operativa a las Empresas Operadoras en materia operativa;
+La multa que se imponga al infractor menor de dieciocho años que dependa económicamente de otra persona estará sujeta a las limitaciones aplicables a ésta.
 
-V. Revisar que la contabilidad de las Empresas Operadoras cumpla con la normatividad;
+El arresto comenzará a computarse desde el momento mismo de la detención. Quien efectúe la detención está obligado a poner al infractor, inmediatamente y sin que pueda exceder en ningún caso del plazo de una hora, a disposición de la autoridad competente y ésta, a fijar la sanción alternativa dentro del plazo de una hora.
 
-VI. Ordenar y realizar visitas de inspección a las Empresas Operadoras en materia operativa;
+Las medidas de corrección y las sanciones acordadas por las autoridades administrativas se impondrán siempre con audiencia de la persona a quien se apliquen, salvo rebeldía del infractor, debiendo en ambos casos comunicarse por escrito, precisando los medios y fundamentos de hecho y de derecho de las mismas.
 
-VII. Habilitar como inspectores a quienes presten sus servicios a la Comisión para llevar a cabo los actos de inspección y auditoría de sistemas a las Empresas Operadoras en materia operativa, previstos en la Ley y en su reglamento;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-VIII. Evaluar el riesgo operativo de los distintos procesos que llevan a cabo las Empresas Operadoras y, en los casos de riesgo legal en materia operativa, realizarlo en coordinación con la Dirección General Normativa y Consultiva;
+###### ARTICULO 8.
 
-IX. Diseñar los diversos aspectos técnicos de la normatividad en materia operativa de las Empresas Operadoras;
+Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-X. Elaborar y proponer, para aprobación superior, la aplicación en las Empresas Operadoras un sistema de evaluación y control de su exposición a los riesgos operativos que establezca la normatividad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI. Proponer, para aprobación superior, las cuotas que cobrarán las Empresas Operadoras;
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-XII. Revisar y, en su caso, autorizar los programas de trabajo de las Empresas Operadoras;
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la Ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
-XIII. Emitir visto bueno en materia del presupuesto de las Empresas Operadoras;
+El Estado podrá celebrar convenios con la Federación, otros estados y el Distrito Federal para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
-XIV. Revisar, evaluar y, en su caso, aprobar los manuales de procedimientos transaccionales que elaboren las Empresas Operadoras;
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-XV. Desarrollar o, en su caso, aprobar los procedimientos contingentes que resulten necesarios para atender los casos no previstos en los manuales de procedimientos transaccionales o en los modelos operativos de los Sistemas de Ahorro para el Retiro;
+Corresponde al juez de ejecución, instaurar los procedimientos que se requieran para resolver sobre el otorgamiento de los beneficios y del tratamiento, a los internos sentenciados que tengan derecho a ellos, y las demás atribuciones que le confiere la ley respectiva.
 
-XVI. Dar seguimiento al registro de los agentes promotores de las Administradoras a que se refiere el artículo 36 de la Ley, así como supervisar que ajusten el desempeño de sus actividades a las disposiciones aplicables;
+El trámite de ejecución de sentencias se regirá por los principios de legalidad, equidad, celeridad y real reinserción social del sentenciado.
 
-XVII. Definir los mecanismos de evaluación y aplicar los exámenes, directamente o a través de terceros, a los agentes promotores de las Administradoras, de conformidad con las disposiciones aplicables;
+Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de internos que requieran medidas especiales de seguridad.
 
-XVIII. Turnar a la Dirección General Adjunta de Sanciones aquellos asuntos en los que se detecte o sea de su conocimiento, algún posible incumplimiento a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de las Empresas Operadoras en dichos sistemas;
+Para la reclusión preventiva y la ejecución de sentencias de internos que requieran medidas especiales de seguridad se podrán destinar centros especiales. Las autoridades competentes podrán restringir las comunicaciones de los inculpados y sentenciados con terceros, salvo el acceso a su defensor, e imponer medidas de vigilancia especial a los internos que requieran medidas especiales de seguridad, en términos de la ley.
 
-XIX. Solicitar información y documentación en el ámbito de su competencia a las Empresas Operadoras, de conformidad con lo establecido por los artículos 90 fracción II, 91 y 113 de la Ley;
+La entrega de inculpados, procesados o sentenciados, así como el aseguramiento y entrega de objetos, instrumentos y productos del delito, atendiendo a la autoridad de la Federación, de cualquier entidad federativa o el Distrito Federal, se realizará con la intervención de la Procuraduría General de Justicia del Estado, en los términos de los convenios de colaboración que para tal efecto se celebren.
 
-XX. Llevar a cabo la notificación, inclusive de manera electrónica, a las Empresas Operadoras, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XXI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+###### ARTICULO 9.
 
-###### Artículo 14.
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el inculpado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-Corresponde a la Dirección General de Planeación Financiera y Estudios Económicos el ejercicio de las siguientes facultades:
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del inculpado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el inculpado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra del libre desarrollo de la personalidad y de la salud.
 
-I. Diseñar los diversos aspectos técnicos establecidos en la normatividad en materia financiera de los Participantes en los Sistemas de Ahorro para el Retiro;
+El monto y la forma de la caución que se fije como medida cautelar a cargo del inculpado, serán asequibles. En circunstancias que la ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, pueda imponerse al inculpado.
 
-II. Proponer, para aprobación superior, los criterios y lineamientos técnicos para la elaboración de los proyectos de reglamentos, circulares, reglas y demás disposiciones que deben observar los Participantes en los Sistemas de Ahorro para el Retiro en materia financiera;
+La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
 
-III. Elaborar y proponer, para aprobación superior, la aplicación en las Administradoras y Sociedades de Inversión de un sistema de evaluación y control de su exposición a los riesgos de liquidez, crediticios, de mercado y otros que establezca la normatividad, de los valores que integran las carteras de dichas sociedades;
+El plazo para dictar el auto de vinculación a proceso podrá duplicarse a petición del inculpado o de su defensor, en la forma que señale la ley. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el inculpado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso y del que decrete la prisión preventiva, o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al inculpado en libertad.
 
-IV. Definir la información y metodología que deban utilizar las Sociedades de Inversión para valuar sus carteras de valores;
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-V. Desarrollar y proponer, para aprobación superior, la normatividad contable que deben seguir las Sociedades de Inversión a que se refieren los artículos 84 y 85 de la Ley;
+Si con posterioridad a la emisión del auto de vinculación a proceso, en los casos de los delitos de secuestro, contra la salud, trata de personas, tráfico de menores e incapaces, prostitución de menores, evasión de detenidos y robo de vehículos, el inculpado evade la acción de la justicia o es puesto a disposición de otro juez que lo reclame en el extranjero, se suspenderá el proceso junto con los plazos para la prescripción de la acción penal.
 
-VI. Realizar propuestas, para aprobación de la Junta de Gobierno, en materia del régimen de inversión de las Sociedades de Inversión, respecto de los límites de inversión permitidos en el régimen o a los instrumentos y operaciones previstos en el mismo, así como los criterios de diversificación y límites de riesgo;
+Las leyes sancionarán a las autoridades que infieran, sin motivo legal, malos tratos o molestias en la aprehensión o en la reclusión o impongan cualquier gabela o contribución en las prisiones.
 
-VII. Proponer, para aprobación superior, lineamientos en materia de revelación de información al público en general, por parte de los Participantes en los Sistemas de Ahorro para el Retiro, en materia financiera, particularmente en materia de la rentabilidad obtenida, composición de los portafolios y los riesgos asociados por la inversión de recursos en las Sociedades de Inversión;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-VIII. Proponer al Banco de México la aprobación para celebrar operaciones en corto, con títulos opcionales, futuros y derivados y demás análogas a éstas, así como cualquier tipo de operación distinta a compraventas en firme de valores, por parte de las Sociedades de Inversión, a que se refiere el artículo 48 fracción IX de la Ley;
+###### ARTICULO 10.
 
-IX. Solicitar opinión al Banco de México y a la Comisión Nacional Bancaria y de Valores en materia de régimen de inversión de las Sociedades de Inversión;
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
 
-X. Coordinar las actividades que resulten necesarias para la puesta en operación de nuevos procesos en materia financiera de los Sistemas de Ahorro para el Retiro, así como de las modificaciones que sean aplicadas a los sistemas informáticos que los soporten, en colaboración con la Dirección General de Supervisión Financiera;
+De igual forma, le serán aplicables los principios generales previstos en el Apartado A del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
-XI. Elaborar estudios económicos, financieros y actuariales en materia de sistemas de pensiones, tanto a nivel nacional como internacional, o de cualquier tema relacionado con el mismo;
+En todo proceso de orden penal el inculpado y la víctima o el ofendido tendrán las siguientes garantías:
 
-XII. Apoyar a la Dirección General de Supervisión Financiera en las funciones de supervisión de los Participantes en los Sistemas de Ahorro para el Retiro en materia financiera;
+A. De los derechos de la víctima o del ofendido:
 
-XIII. Turnar a las direcciones generales de Supervisión Operativa o de Supervisión Financiera aquellos asuntos en los que se detecte algún posible incumplimiento a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de los Participantes en dichos sistemas;
+I.- Recibir asesoría jurídica; a que se le proporcione asistencia legal en la etapa de investigación; a ser informado desde su primera intervención en ésta, de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás leyes aplicables; y a que, cuando lo solicite, se le explique la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del procedimiento penal;
 
-XIV. Participar en los comités de Montos Constitutivos, de Valuación y de Análisis de Riesgo, así como en los demás comités que se establezcan conforme a las disposiciones financieras;
+II.- Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
 
-XV. Solicitar información y documentación en el ámbito de su competencia a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
-XVI. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+III.- Recibir, desde la comisión del delito, atención médica, psicológica y asistencia social de urgencia;
 
-XVII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+IV.- Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
 
-### CAPÍTULO PRIMERO. De la Junta de Gobierno
+La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño y para garantizar su pago;
 
-###### Artículo 15.
+V.- A no estar presente en las audiencias en las que concurra el inculpado y al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos sexuales o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
-Corresponde a la Dirección General de Supervisión Financiera el ejercicio de las siguientes facultades:
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. También deberá tomar las medidas necesarias para la protección de los familiares de la víctima, de su domicilio y posesiones cuando se pongan en peligro por el probable responsable o sus cómplices, mediante actos de intimidación o represalias. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
-I. Supervisar los diversos aspectos establecidos en la normatividad en materia financiera de los Participantes en los Sistemas de Ahorro para el Retiro;
+VI.- Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos;
 
-II. Definir los métodos y criterios de vigilancia para detectar desviaciones respecto de la normatividad por parte de los Participantes en los Sistemas de Ahorro para el Retiro en materia financiera;
+VII.- Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño;
 
-III. Proponer, para aprobación del Presidente de la Comisión, el programa anual de supervisión, el cual deberá considerar las acciones de vigilancia y de inspección en materia financiera;
+VIII.- Someterse a la práctica de exámenes físicos o mentales sólo con su expreso consentimiento;
 
-IV. Instrumentar el programa anual de supervisión en materia financiera;
+IX.- Gozar del anonimato sobre su victimización en los medios de comunicación, para proteger su intimidad; y
 
-V. Definir los mecanismos de evaluación y aplicar los exámenes, directamente o a través de terceros, a los contralores normativos y, en su caso, a los demás funcionarios de inversiones y riesgos de las Sociedades de Inversión, en el ámbito de su competencia;
+X. Los demás que otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes.
 
-VI. Autorizar los prospectos de información y folletos explicativos que deben elaborar las Administradoras conforme a lo establecido en el artículo 47 BIS de la Ley, así como supervisar su cumplimiento;
+B. De los derechos de toda persona inculpada:
 
-VII. Revisar y dictaminar, para aprobación de la Junta de Gobierno, las solicitudes de autorización para constituirse como Participante en los Sistemas de Ahorro para el Retiro en el ámbito de su competencia;
+I.- A que se presuma su inocencia mientras no se dicte sentencia firme o ejecutoriada emitida por el juez de la causa;
 
-VIII. Revisar que la contabilidad de las Sociedades de Inversión cumpla con la normatividad;
+II.- A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura, y la intervención de las comunicaciones del detenido con su defensor. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
 
-IX. Vigilar las normas aplicables a la valuación de las acciones que emitan las Sociedades de Inversión;
+III.- A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten.
 
-X. Calcular el Rendimiento Neto de las comisiones de las Sociedades de Inversión que operen las Administradoras en términos del artículo 37 de la Ley;
+La ley establecerá beneficios a favor del inculpado, procesado o sentenciado, que preste ayuda eficaz para la investigación y persecución de los delitos que se señalen en la misma;
 
-XI. Proponer, para aprobación superior, el programa anual de actividades de análisis de riesgos de liquidez, crediticios, de mercado y los que establezca la normatividad financiera, de la cartera de las Sociedades de Inversión y de los valores que las integren;
+IV.- Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
 
-XII. Supervisar el cumplimiento de las normas aplicables a la diversificación de riesgos, la composición de la cartera, los niveles de liquidez, así como los activos y pasivos de las Sociedades de Inversión;
+V.- Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo;
 
-XIII. Ordenar las acciones preventivas y correctivas en el ámbito de su competencia que deberán instrumentar los Participantes en los Sistemas de Ahorro para el Retiro, como resultado de los actos de vigilancia e inspección que se practiquen, incluyendo entre otras, las medidas para corregir los quebrantos resultantes;
+VI.- Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
-XIV. Ordenar y realizar visitas de inspección a los Participantes en los Sistemas de Ahorro para el Retiro en materia financiera;
+El inculpado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
 
-XV. Proponer, para aprobación del Presidente de la Comisión, para que éste lo someta a la aprobación de la Junta de Gobierno, la intervención administrativa y gerencial en los casos que así proceda y vigilar en el ámbito de su competencia el desarrollo de las mismas, en coordinación con la Dirección General de Supervisión Operativa;
+VII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
 
-XVI. Dar seguimiento y supervisar, en coordinación con la Dirección General de Supervisión Operativa, los procedimientos de intervención, disolución y liquidación de las Administradoras y Sociedades de Inversión, de conformidad con lo establecido en el artículo 56 de la Ley;
+VIII.- Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
 
-XVII. Declarar la procedencia o, en su caso, desechar los informes que presenten los Participantes en los Sistemas de Ahorro para el Retiro por conducto de su contralor normativo o funcionario autorizado en términos de los programas de corrección en materia financiera que, con base en la normatividad, instrumenten dichas entidades;
+IX.- En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
-XVIII. Supervisar que las empresas que presten servicios complementarios o auxiliares, en las que las Administradoras tengan participación accionaria, a los participantes en los Sistemas de Ahorro para el Retiro se ajusten en su funcionamiento en materia financiera a las disposiciones que los regulan;
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del inculpado. Si cumplido este término no se ha pronunciado sentencia, el inculpado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
 
-XIX. Habilitar como inspectores a quienes presten sus servicios a la Comisión, para llevar a cabo los actos de inspección y auditoría de sistemas a los Participantes en los Sistemas de Ahorro para el Retiro en materia financiera, previstos en la Ley y en su reglamento;
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención; y
 
-XX. Evaluar los riesgos de liquidez, crediticios, de mercado y los que establezca la normatividad, a los que estén expuestas las carteras de las Sociedades de Inversión, así como proponer para aprobación superior, la aplicación de las medidas correctivas que corresponda en materia financiera;
+X. Los demás que otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes.
 
-XXI. Participar en los comités de Valuación y de Análisis de Riesgo, así como en los demás comités que se establezcan conforme a las disposiciones financieras;
+En los términos y condiciones que señale la ley, el inculpado, la víctima o el ofendido contarán en el proceso con los servicios gratuitos de peritos a cargo del Estado, para proveer a su adecuada defensa, para coadyuvar con el Ministerio Público o para el ejercicio por particulares de la acción penal.
 
-XXII. Turnar a la Dirección General Adjunta de Sanciones aquellos asuntos en los que se detecte o sea de su conocimiento, algún posible incumplimiento a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de los Participantes en dichos sistemas, así como del contralor normativo;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XXIII. Solicitar información y documentación en el ámbito de su competencia a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por los artículos 90 fracción II, 91 y 113 de la Ley;
+###### ARTICULO 11.
 
-XXIV. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél, en el ejercicio de esta función. El Ministerio Público contará entre sus auxiliares con un cuerpo pericial.
 
-XXV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
 
-###### Artículo 16.
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fije la ley.
 
-Corresponde a la Dirección General Normativa y Consultiva el ejercicio de las siguientes facultades:
+La seguridad pública es una función a cargo del Estado y los municipios, que comprende la prevención de los delitos, la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por los Estados Unidos Mexicanos y esta Constitución.
 
-I. Opinar, con el apoyo de las unidades administrativas de la Comisión, respecto del marco legal que rige a la Comisión y a los Sistemas de Ahorro para el Retiro;
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales del Estado y de los municipios deberán coordinarse entre sí y con las instituciones policiales federales para cumplir los objetivos de la seguridad pública y conformarán el Sistema Estatal de Seguridad Pública, que estará sujeto a las bases mínimas establecidas en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-II. Elaborar, con base en los criterios y lineamientos técnicos desarrollados por las distintas unidades administrativas de la Comisión, los proyectos de reglamentos, circulares, reglas y demás disposiciones en las materias que son competencia de la Comisión;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-III. Proponer a la Secretaría de Hacienda y Crédito Público, previo visto bueno del Presidente de la Comisión, el contenido del título de concesión de las Empresas Operadoras de la Base de Datos Nacional SAR;
+###### ARTICULO 12.
 
-IV. Elaborar la manifestación de impacto regulatorio de los proyectos de reglamentos, circulares, reglas y demás disposiciones emitidas por la Comisión en las materias de su competencia, en coordinación con las distintas unidades administrativas de la Comisión, y someterla a dictamen de la Comisión Federal de Mejora Regulatoria;
+Toda pena deberá estar prevista en la ley y ser proporcional al delito que sancione y al bien jurídico afectado.
 
-V. Gestionar ante el Diario Oficial de la Federación la publicación de las disposiciones, resoluciones o avisos que conforme a la Ley, este Reglamento y las demás disposiciones aplicables deban efectuarse;
+Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-VI. Dar seguimiento a las iniciativas y proyectos de iniciativas de ley en materia de los Sistemas de Ahorro para el Retiro y atender solicitudes generadas por las diversas instancias del Congreso de la Unión, incluyendo las que provengan de la Auditoría Superior de la Federación, en coordinación con las autoridades competentes;
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos del artículo 129 de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia.
 
-VII. Emitir opinión, en coordinación con las unidades administrativas responsables de la Comisión, a la Secretaría de Hacienda y Crédito Público, al Banco de México o a otras dependencias o entidades públicas, en todo lo relativo a los Sistemas de Ahorro para el Retiro, con excepción de la materia fiscal;
+Para la extinción de dominio, la ley establecerá un procedimiento que se regirá por las siguientes reglas:
 
-VIII. Emitir las autorizaciones a las Administradoras para invertir en empresas que les presten servicios complementarios o auxiliares en la realización de su objeto, contando previamente con la opinión favorable de las direcciones generales de Supervisión Operativa o de Supervisión Financiera, en las materias de su competencia;
+I.- Será jurisdiccional y autónomo del de materia penal;
 
-IX. Aprobar los estatutos sociales de las Administradoras y Sociedades de Inversión, así como las reformas a dichos estatutos;
+II.- Procederá en los casos de los delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
 
-X. Elaborar los proyectos de autorizaciones que correspondan y, en su caso, de las modificaciones o revocaciones a las mismas, a que se refiere la Ley y demás disposiciones aplicables, para aprobación superior o para ser sometidas a la Junta de Gobierno o el Comité Consultivo y de Vigilancia;
+a) Aquellos que sean instrumento, objeto o producto del delito, donde existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
-XI. Revisar e integrar, para aprobación de la Junta de Gobierno, las solicitudes de autorización para constituirse como Participante en los Sistemas de Ahorro para el Retiro, en el ámbito de su competencia;
+b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
 
-XII. Llevar el registro del otorgamiento, modificación o revocación de las autorizaciones que en términos de la Ley y de las demás disposiciones aplicables, se otorguen a las Administradoras y Sociedades de Inversión, informando de lo conducente a la Dirección General de Administración;
+c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
 
-XIII. Proponer, para autorización superior, al interventor que deba actuar en los casos de intervenciones administrativas y gerenciales aprobadas por la Junta de Gobierno, contando con la opinión de las direcciones generales de Supervisión Operativa y de Supervisión Financiera;
+d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales y el acusado por estos delitos se comporte como dueño.
 
-XIV. Llevar a cabo y coordinar las acciones necesarias para el funcionamiento de las sesiones de la Junta de Gobierno, del Comité Consultivo y de Vigilancia, así como de los demás comités que se consideren necesarios;
+III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
-XV. Coordinar la interrelación de la Comisión con los sectores patronal y obrero, así como con las dependencias, entidades y demás organismos de la Administración Pública Federal representados ante los Órganos de Gobierno de la Comisión;
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XVI. Solicitar información y documentación en el ámbito de su competencia, a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+###### ARTICULO 13.
 
-XVII. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+En el Estado operará, en los términos previstos por esta Constitución y por la ley, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos.
 
-XVIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, juzgados y, autoridades especializados. En los términos y condiciones que se contengan en la ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Los medios alternativos para la resolución de las controversias deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
 
-###### Artículo 17.
+Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
-Corresponde a la Dirección General Adjunta de Control Legal Interno el ejercicio de las siguientes facultades:
+En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
 
-I. Proporcionar apoyo y asesoría jurídica a las diferentes unidades administrativas de la Comisión, respecto de la legislación aplicable a la Administración Pública Federal, así como orientación jurídica para el control legal interno a las unidades administrativas de la Comisión;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-II. Recibir, atender y resolver, en coordinación con las unidades administrativas responsables de la Comisión, consultas en materia de los Sistemas de Ahorro para el Retiro, así como consultas que formulen los Participantes en los Sistemas de Ahorro para el Retiro y las dependencias y entidades públicas en todo lo relativo a los Sistemas de Ahorro para el Retiro;
+###### ARTICULO 14.
 
-III. Coordinar las acciones de la Comisión para dar cumplimiento a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+El Estado organizará un Sistema de Planeación Democrática del Desarrollo de la Entidad, mediante la participación de los Sectores Público, Privado y Social.
 
-IV. Elaborar los proyectos de bases de colaboración y de convenios de asistencia técnica que deba celebrar la Comisión, a solicitud de las unidades administrativas competentes y para la aprobación del Presidente de la Comisión;
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
-V. Instrumentar y actualizar el Registro General de Poderes para considerar acreditada la personalidad de quienes comparezcan en representación de los Participantes en los Sistemas de Ahorro para el Retiro, considerando la utilización de medios electrónicos;
+Tratándose de planes de desarrollo regional se garantizará la participación de los Municipios involucrados.
 
-VI. Llevar y mantener actualizado el registro de los actuarios autorizados para dictaminar planes de pensiones, a que se refiere el artículo 82 de la Ley;
+La Ley establecerá los procedimientos de participación y consulta popular para la planeación.
 
-VII. Solicitar información y documentación en el ámbito de su competencia, a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-VIII. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+### CAPITULO SEGUNDO. DE LAS GARANTIAS POLITICAS
 
-IX. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-## TÍTULO SEGUNDO. Estructura
+###### ARTICULO 15.
 
-### CAPÍTULO SEGUNDO. Del Comité Consultivo y de Vigilancia
+Todo ciudadano guanajuatense tiene derecho a participar en la vida política del Estado, en la forma y términos que señalen las Leyes.
 
-###### Artículo 18.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-Corresponde a la Dirección General Adjunta de lo Contencioso el ejercicio de las siguientes facultades:
+###### ARTICULO 16.
 
-I. Diseñar y someter a autorización superior los requisitos y lineamientos de la defensa jurídica de los actos de autoridad emitidos por la Comisión y de la resolución de los recursos administrativos previstos en la Ley;
+Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-II. Representar a la Comisión en los juicios o procedimientos en los que ésta sea parte o pueda resultar afectada, ejercitando las acciones, excepciones y defensas, así como interponer los recursos que procedan y, en su caso, desistirse de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
-III. Representar jurídicamente a la Comisión en los procedimientos administrativos, así como en los procesos de índole jurisdiccional ante autoridades administrativas o judiciales en los que la Comisión sea parte;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-IV. Proponer los términos de los informes previos y justificados relativos a los juicios de amparo que se interpongan en contra de los actos de la Comisión, de la Junta de Gobierno o del Comité Consultivo y de Vigilancia; intervenir cuando la propia Comisión, la Junta de Gobierno o el Comité Consultivo y de Vigilancia, tengan el carácter de terceros perjudicados en los juicios de amparo; proponer la interposición de los recursos que procedan y actuar en estos juicios con las facultades de delegado en las audiencias;
+###### ARTICULO 17.
 
-V. Coordinar y supervisar el seguimiento de la defensa jurídica en los intereses de la Comisión en asuntos que se ventilen ante otros Órganos de Autoridad;
+Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo. Para ello tendrán el derecho exclusivo de postular candidatos por sí mismos o a través de coaliciones en los términos que establezca la Ley de la materia.
 
-VI. Coordinar y supervisar el trámite de los recursos administrativos que se interpongan ante la Comisión;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VII. Coordinar y supervisar la elaboración de los proyectos de resolución de los recursos administrativos;
+Sólo los ciudadanos guanajuatenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
-VIII. Brindar asesoría jurídica en el estudio, análisis y resolución de los procedimientos administrativos previstos en la Ley;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-IX. Participar en los grupos de trabajo interinstitucionales integrados con otras dependencias, para la defensa constitucional de los Sistemas de Ahorro para el Retiro;
+El Estado garantizará que los partidos políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, los topes y bases a sus gastos de precampaña y de campaña, así como el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
 
-X. Elaborar los proyectos de resolución de los recursos de revocación que se interpongan en contra de las sanciones que imponga la Comisión, someterlos a la aprobación del Presidente de la Comisión y notificar las resoluciones que se dicten;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XI. Solicitar información y documentación en el ámbito de su competencia, a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+El financiamiento público para los partidos políticos que mantengan su registro o acreditación después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico.
 
-XII. Llevar a cabo la expedición y notificación, inclusive de manera electrónica, de los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer, y que deban hacerse del conocimiento de los particulares, y
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-XIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+Para que un Partido Político Estatal conserve su registro, reciba financiamiento y goce de los derechos y las prerrogativas que esta Constitución y la Ley le conceda, deberá obtener el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
 
-###### Artículo 19.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Corresponde a la Dirección General Adjunta de Sanciones el ejercicio de las siguientes facultades:
+Para que un Partido Político Nacional tenga derecho a recibir financiamiento público, deberá haber conservado su acreditación y obtenido cuando menos el dos por ciento de la votación válida estatal de Diputados al Congreso del Estado bajo el principio de mayoría relativa, lo cual deberá ser declarado por el Consejo General del Instituto Electoral del Estado de Guanajuato en la sesión que siga a la calificación de la elección.
 
-I. Analizar los incumplimientos y violaciones a las disposiciones normativas que regulan los Sistemas de Ahorro para el Retiro por parte de los participantes en dichos sistemas, sus Consejeros, Contralores Normativos, Directivos, Comisarios, Apoderados, funcionarios y demás personas que les presten servicios, para en su caso aplicar las sanciones correspondientes;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-II. Elaborar y comunicar a la autoridad competente la opinión que la Comisión deba emitir en materia de delitos previstos en la Ley, en los términos del artículo 108 de la misma;
+Los partidos políticos deberán rendir informes justificados sobre el origen y uso de todos los recursos con que cuenten, para efectos de la fiscalización a que se refiere el artículo 31 de esta Constitución, en los términos de la Ley de la materia. Dichos informes serán públicos.
 
-III. Practicar a los Participantes en los Sistemas de Ahorro para el Retiro sujetas a la supervisión de la Comisión, visitas especiales y de investigación con el objeto de verificar el cumplimiento de las disposiciones legales y administrativas que les resulten aplicables en materia de prevención y detección de actos u operaciones con recursos de procedencia ilícita o para financiar el terrorismo y puedan ubicarse en los supuestos del Código Penal Federal;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-IV. Elaborar la notificación, inclusive de manera electrónica, a los participantes en los Sistemas de Ahorro para el Retiro, a sus Consejeros, Contralores Normativos, Directivos, Comisarios, Apoderados, funcionarios y demás personas que les presten servicios, el incumplimiento en que incurran a las disposiciones normativas que regulan dichos sistemas, en términos de los artículos 52 ó 99 de la Ley, según corresponda, para que ejerzan su derecho a audiencia;
+La Ley fijará los criterios para establecer los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia Ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-V. Analizar y evaluar los argumentos y documentos probatorios que en su defensa, hagan valer los participantes en los Sistemas de Ahorro para el Retiro, sus Consejeros, Contralores Normativos, Directivos, Comisarios, Apoderados, funcionarios y demás personas que les presten servicios, a quienes se les impute el incumplimiento o violación de las disposiciones normativas que regulan los Sistemas de Ahorro para el Retiro, para determinar la procedencia o no de la aplicación de sanciones;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VI. Emitir opinión respecto de aquellas propuestas de sanción, amonestación, suspensión, remoción e inhabilitación que sean sometidas a su consideración por las direcciones generales de Supervisión Operativa y de Supervisión Financiera;
+La Ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales. La duración de las campañas en el año de elecciones para Gobernador no durarán más de setenta y cinco días, las campañas para elegir Diputados al Congreso no durarán más de cuarenta y cinco días y las campañas para elegir ayuntamientos no durarán más de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la Ley.
 
-VII. Hacer del conocimiento de la autoridad competente la probable comisión del delito previsto en el artículo 139 del Código Penal Federal o de hechos que pudieran ubicarse en los supuestos del artículo 400 Bis del mismo Código;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-VIII. Establecer, de conformidad con lo previsto en el Código Fiscal de la Federación, el monto y demás condiciones de la garantía que deberán otorgar ante la Comisión, quienes interpongan recurso de revocación o cualquier otro medio de defensa en contra de las sanciones pecuniarias impuestas en términos de la Ley;
+Los partidos políticos accederán a la radio y la televisión, conforme a las normas establecidas por el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
-IX. Comunicar a la autoridad correspondiente las sanciones impuestas por la Comisión, para que se realice el cobro efectivo de las multas en términos del Artículo 101 de la Ley;
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-X. Proporcionar la opinión que la Comisión debe efectuar ante la autoridad competente en materia de delitos previstos en la Ley, para que en uso de sus facultades actúe en consecuencia;
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la Ley de la materia.
 
-XI. Proporcionar a la autoridad competente en materia de delitos previstos la Ley, la información y apoyo técnico en materia de los Sistemas de Ahorro para el Retiro, para que tenga todos los elementos que le permitan desarrollar sus funciones;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-XII. Solicitar información y documentación en el ámbito de su competencia, a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+## TITULO SEGUNDO. DE LA POBLACION DEL ESTADO
 
-XIII. Llevar a cabo la expedición y notificación, inclusive de manera electrónica, de los actos, acuerdos y resoluciones que se deriven de los procedimientos que le corresponda conocer, incluyendo los relativos a la imposición de sanciones, y que deban hacerse del conocimiento de los particulares, y
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-XIV. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+### CAPITULO PRIMERO. DE LOS HABITANTES
 
-### CAPÍTULO TERCERO. De la Presidencia
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-###### Artículo 20.
+###### ARTICULO 18.
 
-Corresponde a la Dirección General de Informática el ejercicio de las siguientes facultades:
+Son habitantes del Estado de Guanajuato todas las personas que residan dentro de su circunscripción territorial.
 
-I. Planear la infraestructura informática de la Comisión, tanto en sus equipos centrales y personales, como en sus redes y equipos de transmisión remota y proponer, para aprobación superior, la estrategia en materia tecnológica, así como el programa anual de informática de la Comisión y llevar a cabo su ejecución;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-II. Definir y autorizar el equipo y programas o paquetes de cómputo para ser usados por las unidades administrativas de la Comisión; desarrollar y mantener los sistemas automatizados necesarios, así como mantener en operación los servicios informáticos de la misma;
+###### ARTICULO 19.
 
-III. Coordinar con las diferentes unidades administrativas de la Comisión, el diseño de los sistemas sustantivos o administrativos; su programación; mecanismos de mantenimiento permanente o periódico; así como documentación e instructivos de operación correspondientes, además de su implementación y servicio;
+Son obligaciones de los habitantes del Estado:
 
-IV. Establecer en los aspectos relacionados con las funciones de transmisión y acopio de información y de comunicación remota de la Comisión, una coordinación estrecha y permanente con las demás unidades administrativas de ésta, así como con las dependencias y entidades de la Administración Pública Federal, los institutos de seguridad social y los Participantes en los Sistemas de Ahorro para el Retiro, y de otras fuentes, para hacer más eficiente la recepción y entrega de información requerida o producida por el área que corresponda;
+I.- Cumplir con los preceptos constitucionales y los de las Leyes, Reglamentos y disposiciones que se dicten;
 
-V. Identificar oportunidades de mejora para la Comisión, con base en los avances en materia de tecnologías de la información;
+II.- Contribuir a los gastos públicos de la Federación, del Estado y del Municipio de su residencia, en la forma que dispongan las Leyes de la materia;
 
-VI. Mantener en operación los bienes informáticos de la Comisión y llevar el control del inventario de los mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Controlar y actualizar las bases de datos de los sistemas informáticos de la Comisión y sus respaldos, en las que se contengan la información que se produzca o proporcionen a ésta las diferentes unidades administrativas de la Comisión, las dependencias y entidades de la Administración Pública Federal, los institutos de seguridad social, los Participantes en los Sistemas de Ahorro para el Retiro y de otras fuentes;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-VIII. Administrar desde el punto de vista tecnológico la página web de la Comisión;
+III.- Hacer que sus hijos o pupilos menores concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria, secundaria y media superior, y reciban la militar en los términos que establezca la ley; y
 
-IX. Turnar a las direcciones generales de Supervisión Operativa o de Supervisión Financiera aquellos asuntos en los que se detecte algún posible incumplimiento a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de los participantes en dichos sistemas;
+IV.- Las demás que dispongan las Leyes.
 
-X. Solicitar información y documentación en el ámbito de su competencia a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-XI. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+### CAPITULO SEGUNDO. DE LOS GUANAJUATENSES
 
-XII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-###### Artículo 21.
+###### ARTICULO 20.
 
-Corresponde a la Dirección General Adjunta de Estadísticas e Información el ejercicio de las siguientes facultades:
+La calidad de guanajuatense se adquiere por nacimiento o por vecindad.
 
-I. Elaborar los informes a que se refieren los artículos 5o., fracción XIII y 12, fracción III de la Ley, en coordinación con las distintas unidades administrativas de la Comisión;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-II. Elaborar lineamientos en materia de competencia, escuchando la opinión de la Comisión Federal de Competencia, para su observancia por parte de los Participantes en los Sistemas de Ahorro para el Retiro;
+###### ARTICULO 21.
 
-III. Actuar como órgano de consulta, dentro del ámbito de su competencia, de las dependencias y entidades públicas en todo lo relacionado a los Sistemas de Ahorro para el Retiro, en coordinación con la Dirección General Adjunta de Control Legal Interno;
+Son guanajuatenses por nacimiento los nacidos dentro del territorio del Estado, y lo son por vecindad los mexicanos que residan en su territorio durante un período no menor de dos años.
 
-IV. Dar apoyo y asesoría, dentro del ámbito de su competencia, a las diferentes unidades administrativas de la Comisión para el ejercicio de sus funciones;
+La vecindad no se pierde por ausencia en el desempeño de un cargo público de elección popular, o de comisión pública encomendada por el Estado de Guanajuato.
 
-V. Elaborar y publicar indicadores y estadísticas;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-VI. Llevar y mantener actualizado el registro de los planes de pensiones establecidos por patrones o derivados de contrataciones colectivas a que se refieren las leyes de seguridad social;
+### CAPITULO TERCERO. DE LOS CIUDADANOS GUANAJUATENSES
 
-VII. Administrar un centro de documentación y de información en materia de los Sistemas de Ahorro para el Retiro para uso interno de la Comisión;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-VIII. Participar en el Comité de Montos Constitutivos;
+###### ARTICULO 22.
 
-IX. Diseñar mecanismos que permitan a los trabajadores el cálculo de los saldos pensionarios;
+Son ciudadanos del Estado, los guanajuatenses que hayan cumplido 18 años y tengan un modo honesto de vivir.
 
-X. Turnar a las direcciones generales de Supervisión Operativa o de Supervisión Financiera aquellos asuntos en los que se detecte algún posible incumplimiento a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de los Participantes en dichos sistemas;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-XI. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+###### ARTICULO 23.
 
-XII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+Son prerrogativas del ciudadano guanajuatense:
 
-### CAPÍTULO CUARTO. De las Vicepresidencias y la Coordinación General
+I.- Tomar las armas en el Ejército o en la Guardia Nacional para la defensa de la República, del Estado y de sus instituciones;
 
-###### Artículo 22.
+II.- Votar en las elecciones populares;
 
-Corresponde a la Dirección General Adjunta de Coordinación Institucional el ejercicio de las siguientes facultades:
+III.- Poder ser votado o nombrado, respectivamente, para cargos de elección popular o para empleos o comisiones públicas;
 
-I. Diseñar la estrategia que habrá de seguir la Comisión en su relación con los Institutos de Seguridad Social y las demás dependencias y entidades de la Administración Pública Federal, diferentes a la prevista en la fracción XIII del artículo 24 del presente Reglamento;
+IV.- Asociarse para tratar los asuntos políticos del Estado;
 
-II. Coordinar las relaciones entre la Comisión, los Institutos de Seguridad Social y las demás dependencias y entidades de la Administración Pública Federal, diferentes a la prevista en la fracción XIII del artículo 24 del presente Reglamento;
+V.- Ejercer el Derecho de Petición;
 
-III. Verificar que los contratos de prestación de servicios que las Empresas Operadoras celebren con los demás Participantes en los Sistemas de Ahorro para el Retiro y los Institutos de Seguridad Social se ajusten a las disposiciones normativas aplicables en los Sistemas de Ahorro para el Retiro y dar seguimiento a su ejecución;
+VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y,
 
-IV. Dar seguimiento a la ejecución de los contratos de prestación de servicios que las Empresas Operadoras celebren con los demás Participantes en los Sistemas de Ahorro para el Retiro y los Institutos de Seguridad Social;
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-V. Dar seguimiento a la transmisión, manejo e intercambio de información entre las dependencias y entidades de la Administración Pública Federal, los institutos de seguridad social y los Participantes en los Sistemas de Ahorro para el Retiro;
+VII.- Participar en los procesos de plebiscito y referéndum, así como en el procedimiento de iniciativa popular previstos en esta Constitución y en la Ley correspondiente;
 
-VI. Establecer y dar seguimiento al cumplimiento de las bases de colaboración entre las dependencias y entidades públicas participantes en la operación de los Sistemas de Ahorro para el Retiro;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-VII. Dar seguimiento a las actividades que resulten necesarias para la puesta en operación de nuevos procesos en materia operativa de los Sistemas de Ahorro para el Retiro;
+VIII.- Las demás que señalen las leyes.
 
-VIII. Coordinar la participación de la Comisión en reuniones y foros organizados por organismos e instituciones públicas y privadas, así como dar seguimiento a los compromisos institucionales que se deriven de dicha participación;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-IX. Coordinar la interrelación de la Comisión con asociaciones, organismos y entidades nacionales e internacionales y solicitar información a las distintas unidades administrativas de la Comisión en los temas de su competencia;
+###### ARTICULO 24.
 
-X. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+Son obligaciones del ciudadano guanajuatense:
 
-XI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+I.- Desempeñar los cargos de elección popular para los que fuere electo;
 
-###### Artículo 23.
+II.- Alistarse en la Guardia Nacional;
 
-Corresponde a la Dirección General de Administración el ejercicio de las siguientes facultades:
+III.- Votar en las elecciones populares;
 
-I. Crear, proponer, expedir y difundir las políticas, normas y procedimientos internos, a los que deben sujetarse las distintas unidades administrativas de la Comisión, con relación al proceso interno para la programación, presupuestación, seguimiento y autoevaluación, así como para la utilización y aprovechamiento de los recursos financieros y materiales con que cuenta la Comisión, así como observar y hacer observar su cumplimiento;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-II. Elaborar y someter anualmente a consideración del Presidente de la Comisión, los proyectos de presupuesto de ingresos y egresos de la Comisión, así como controlar el ejercicio presupuestario;
+IV.- Votar en los procesos de plebiscito y referéndum;
 
-III. Programar y efectuar las adquisiciones y arrendamientos de bienes y servicios para proporcionarlos a las diferentes unidades administrativas de la Comisión, conforme a las políticas internas y a las normas establecidas por la Administración Pública Federal y efectuar su pago, así como registrar y controlar el almacenaje, entrada y salida de los bienes de la Comisión;
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-IV. Supervisar los arrendamientos y adquisiciones que lleve a cabo la Comisión, así como la prestación de servicios que contrate en materia de su competencia; lo anterior, sin perjuicio de la supervisión y ejecución del contrato o convenio correspondiente, la cual será responsabilidad de la unidad administrativa que solicitó la adquisición o prestación del servicio;
+V.- Desempeñar, de manera gratuita, los cargos que les señale la autoridad competente en los procesos de plebiscito, referéndum, electorales y censales, pero serán retribuidos aquellos que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes; y
 
-V. Representar legalmente a la Comisión en la celebración de toda clase de contratos y convenios, así como para llevar a cabo las adquisiciones de bienes y servicios y ejercer las facultades que le atribuyen al Presidente de la Comisión, la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, La Ley de Obras Públicas y Servicios Relacionados con las Mismas, la Ley General de Bienes Nacionales así como los reglamentos respectivos; igualmente, ante las instancias competentes de la Administración Pública Federal, en lo relativo a la Ley Federal de Presupuesto y Responsabilidad Hacendaria y a la Ley General de Protección Civil, sin perjuicio de la facultad para actuar como coordinador de los planes y programas del comité interno de protección civil; asimismo, para ejercer las facultades que le atribuyen las demás disposiciones aplicables en dichas materias, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-VI. Establecer los sistemas de contabilidad necesarios para el control de las inversiones que realice la Comisión, así como de sus ingresos y egresos;
+VI.- Las demás que dispongan las leyes.
 
-VII. Hacer del conocimiento de las Administradoras los indicadores o los elementos necesarios para que cubran las cantidades a que están obligadas de conformidad con la Ley Federal de Derechos;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-VIII. Administrar los ingresos que correspondan a la Comisión, provenientes del pago de las cuotas, comisiones, derechos u otros ingresos, conforme a lo establecido en la Ley Federal de Derechos y, en su caso, solicitar a la Secretaría de Hacienda y Crédito Público hacerlos efectivos mediante el procedimiento administrativo de ejecución;
+###### ARTICULO 25.
 
-IX. Proporcionar y controlar los servicios de correspondencia, archivo, mantenimiento y distribución de espacios, coordinación logística de eventos, traslado de bienes, así como llevar el control, seguridad, aseguramiento y protección de los bienes muebles e inmuebles de la Comisión.
+Las prerrogativas del ciudadano guanajuatense se suspenden:
 
-Adicionalmente, proveer lo necesario para salvaguardar la seguridad de las instalaciones de la Comisión y de sus servidores públicos;
+I.- Por incumplimiento de las obligaciones a que se refiere el artículo anterior. En este caso la suspensión durará un año y se impondrá independientemente de las demás sanciones a que se haga acreedor;
 
-X. Representar a la Comisión ante las instituciones de seguridad social, entidades y organismos correspondientes para la obtención de prestaciones al personal, de conformidad con las disposiciones vigentes;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XI. Elaborar y coordinar los programas de reclutamiento, selección, y contratación, de personal requerido por las unidades administrativas de la Comisión para cubrir vacantes de las plazas autorizadas; ejecutar el programa de inducción institucional, así como expedir los nombramientos y credenciales de identificación y en su caso remover o notificar cambios de adscripción del personal de la Comisión. Asimismo, cesar y suscribir convenios de terminación de la relación laboral al personal de la Comisión;
+II.- Por estar sujeto a un proceso penal que merezca pena privativa de libertad, a partir de la fecha en que se ordene la prisión preventiva;
 
-XII. Coordinar, en términos de las disposiciones aplicables al servicio profesional de carrera, la aplicación de las políticas de operación de dicho servicio, en términos de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal y su Reglamento;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
-XIII. Instrumentar las políticas y mecanismos para la evaluación del desempeño del personal y coordinar el proceso de evaluación con las diferentes áreas de la Comisión;
+III.- Durante la extinción de una pena privativa de libertad;
 
-XIV. Elaborar y coordinar la ejecución del programa anual de capacitación derivados de la detección y análisis de las necesidades de las distintas unidades administrativas de la Comisión y supervisar el desarrollo de los cursos, así como el otorgamiento y control de becas;
+IV.- Por vagancia, malvivencia, ebriedad consuetudinaria o drogadicción declarada en términos de Ley;
 
-XV. Dictaminar y registrar ante la autoridad competente la estructura organizacional de la Comisión, así como proponer al Presidente de la Comisión las modificaciones que se requieran; así como mantener un control actualizado de la estructura y plazas relativos al catálogo de puestos de la Comisión;
+V.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta la prescripción de la acción penal o de la sanción en su caso; y,
 
-XVI. Aplicar o, en su caso, proponer los lineamientos y disposiciones en materia laboral y de seguridad social, de conformidad con lo que al efecto autorice y señale la normatividad en la materia;
+VI.- Por sentencia ejecutoria que decrete la pena de suspensión de derechos, en los términos que disponga la Ley.
 
-XVII. Imponer y notificar sanciones a los empleados de la Comisión, en caso de que contravengan las disposiciones aplicables en materia de recursos humanos;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-XVIII. Presidir, integrar, coordinar y supervisar los comités creados en el ámbito de su competencia;
+###### ARTICULO 26.
 
-XIX. Expedir los lineamientos para la elaboración de los manuales de organización y procedimientos de la Comisión, así como llevar a cabo su registro y supervisar su actualización;
+Las prerrogativas del ciudadano guanajuatense se recobran:
 
-XX. Turnar a la Dirección General Adjunta de Sanciones aquellos asuntos en los que detecte o sean de su conocimiento, posibles incumplimientos a las disposiciones en materia de los Sistemas de Ahorro para el Retiro por parte de los Participantes en dichos sistemas;
+I.- Por haber cesado la causa que motivó la suspensión;
 
-XXI. Solicitar información y documentación en el ámbito de su competencia, a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+II.- Por rehabilitación; y,
 
-XXII. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+III.- Por la extinción de la pena de suspensión.
 
-XXIII. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-###### Artículo 24.
+###### ARTICULO 27.
 
-Corresponde a la Dirección General de Comunicación, Difusión y Enlace Institucional el ejercicio de las siguientes facultades:
+La ciudadanía guanajuatense se pierde al perderse también la nacionalidad mexicana, o por sentencia ejecutoria que imponga esa pena.
 
-I. Definir y promover la imagen institucional de la Comisión;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-II. Formular y ejecutar los programas de comunicación social, información, difusión y relaciones públicas de la Comisión, así como la estrategia de comunicación social anual de la Comisión ante la Secretaría de Gobernación;
+## TITULO TERCERO. DE LA SOBERANIA Y FORMA DE GOBIERNO
 
-III. Establecer, ejecutar y evaluar los programas de comunicación conjuntos que se desarrollen con terceros para el desarrollo de actividades de promoción y difusión de los Sistemas de Ahorro para el Retiro, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-IV. Ejercer, coordinar y evaluar las actividades de información de la Comisión;
+### CAPITULO PRIMERO. DE LA SOBERANIA DEL ESTADO
 
-V. Intervenir en la contratación y supervisión de los medios de comunicación que se requieran para el adecuado desempeño de sus funciones, así como ordenar la correcta disposición de los elementos técnicos necesarios;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-VI. Ser el receptor único de las consultas en materia de los Sistemas de Ahorro para el Retiro y solicitudes de información de trabajadores que se presenten ante la Comisión, y coordinar su asignación a las distintas unidades administrativas o a la autoridad competente, exceptuando las que provengan de los Participantes en los Sistemas de Ahorro para el Retiro en términos con la fracción II del artículo 17 de este Reglamento;
+###### ARTICULO 28.
 
-VII. Atender, en su caso canalizar, y dar seguimiento a los casos de orientación a trabajadores;
+El Estado de Guanajuato es una Entidad Jurídica Política, y es miembro de los Estados Unidos Mexicanos, en los términos de la Constitución Política de la Nación, por su incorporación al Pacto Federal.
 
-VIII. Ejecutar las actividades de capacitación para las áreas de recursos humanos de empresas, instituciones y organizaciones sindicales que lleva a cabo la Comisión;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-IX. Diseñar y actualizar la página de Internet de la Comisión;
+###### ARTICULO 29.
 
-X. Vigilar el cumplimiento de las normas de publicidad, de atención y de información dirigida al público, así como emitir y notificar las resoluciones en coordinación con la Vicepresidencia Jurídica, por las que se ordene a las Administradoras la modificación o suspensión de su material de publicidad y promoción, cuando contravengan dichas normas y demás disposiciones aplicables;
+El Estado de Guanajuato está constituído por la reunión de sus habitantes y por su territorio, y es libre, soberano e independiente en su administración y gobierno interiores.
 
-XI. Actuar como único enlace entre los medios de comunicación y la Comisión;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-XII. Formular las políticas y ejecutar las relaciones interinstitucionales de la Comisión;
+###### ARTICULO 30.
 
-XIII. Apoyar a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cuando lo solicite, en la elaboración de materiales de difusión y atención de consultas en materia de los Sistemas de Ahorro para el Retiro;
+Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
-XIV. Solicitar información y documentación en el ámbito de su competencia, a los Participantes en los Sistemas de Ahorro para el Retiro, de conformidad con lo establecido por el artículo 113 de la Ley;
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
 
-XV. Llevar a cabo la notificación, inclusive de manera electrónica, a los Participantes en los Sistemas de Ahorro para el Retiro, de los actos, acuerdos y resoluciones que expida en el ámbito de su competencia, y
+El referéndum, el plebiscito y la iniciativa popular son formas de participación ciudadana.
 
-XVI. Llevar a cabo las demás actividades que dentro del ámbito de su competencia, deriven de las disposiciones aplicables o las que le hayan sido delegadas.
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
 
-###### Artículo 25.
+El Organismo Público Autónomo a que se refiere el Artículo 31 de esta Constitución tendrá a su cargo la declaración de procedencia, organización, desarrollo y validación, en su caso, de las formas de participación ciudadana que señala esta Constitución en los términos de la Ley correspondiente.
 
-Al frente del Órgano Interno de Control habrá un Titular designado en términos del artículo 37, fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
 
-Dichos servidores públicos ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos legales y administrativos aplicables, relativas a la investigación, auditoría, visita, trámite de quejas y denuncias, substanciación de procedimientos, imposición de sanciones, resolución de recursos y evaluación, que confieren dichos ordenamientos a la Secretaría de la Función Pública y a los órganos de control interno, así como lo previsto por el Reglamento Interior de dicha Secretaría.
+Los actos y resoluciones que emita el Organismo Público Autónomo en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley correspondiente.
 
-La Comisión proporcionará al Titular del Órgano Interno de Control los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo. Asimismo, los servidores públicos de la Comisión estarán obligados a proporcionarle el auxilio que requiera para el desempeño de sus facultades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA MODIFICACIÓN A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACIÓN AL PRESENTE ARTÍCULO, VER SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 163, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2008.</small>
 
-###### Artículo 26.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2002)</small>
 
-Las atribuciones encomendadas a los titulares de las vicepresidencias, coordinación general, direcciones generales o direcciones generales adjuntas, podrán ser ejercidas por ellos en forma individual o por dos servidores públicos que actúen mancomunadamente en la materia de sus respectivas competencias, siempre y cuando tengan puestos de director de área o superior, y se encuentren subordinados al vicepresidente, coordinador general, director general o director general adjunto, según se trate, de conformidad con el artículo 2 del presente Reglamento. Lo anterior, con excepción de aquellas atribuciones que se ejerzan de manera coordinada entre dos unidades administrativas o que requieran la firma conjunta de éstas; en tal evento, los documentos correspondientes que, en su caso, se expidan deberán ser suscritos respectivamente por un servidor público competente adscrito a cada una de las unidades administrativas de que se trate, los cuales deberán tener puesto de director general adjunto o de rango superior.
+###### ARTICULO 31.
 
-Tratándose de autorizaciones, respuestas a consultas, opiniones que conforme a las leyes corresponda emitir a la Comisión, notificaciones y la celebración de contratos o convenios, que en términos de la Ley competa a la Comisión emitir o celebrar, los documentos relativos deberán ser firmados por un servidor público de la Vicepresidencia Jurídica, según el ámbito de sus atribuciones, junto con un servidor público de la vicepresidencia, coordinación general, dirección general o dirección general adjunta que sea competente para atender y resolver el asunto de que se trate, los cuales deberán tener puesto de director general adjunto o superior. Lo dispuesto en este párrafo no será aplicable a los actos relativos estrictamente a la operación administrativa de la Comisión, en los que intervenga la Dirección General de Administración.
+La Soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los Titulares del Poder Público, del modo y en los términos que establecen la Constitución Federal, esta Constitución y las Leyes.
 
-Para efectos de la imposición de sanciones, se estará a lo dispuesto por la Ley y los Acuerdos Delegatorios emitidos en la materia.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-En el caso de requerimientos a la Comisión efectuados por la Auditoría Superior de la Federación y otras entidades fiscalizadoras, los documentos con que se dé atención a dichos requerimientos, deberán suscribirse conjuntamente por el titular de la unidad administrativa auditada o a quien competa conocer del asunto, y el titular de la Vicepresidencia Jurídica.
+La organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo denominado Instituto Electoral del Estado de Guanajuato, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. Dicho Instituto será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
 
-Lo dispuesto en el primer párrafo de este artículo no será aplicable tratándose de aquellos actos previstos en las disposiciones administrativas internas, en las cuales se establezca un régimen de firmas más riguroso que el previsto en este artículo.
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-###### Artículo 27.
+La certeza, legalidad, independencia, imparcialidad, definitividad, equidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
 
-Los documentos en que consten los actos realizados en ejercicio de las atribuciones que confiere el presente Reglamento, deberán contener la firma autógrafa o firma electrónica avanzada, así como el nombre y puesto del servidor público de la Comisión que lo suscriba.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Los servidores públicos de la Comisión asumen con su firma, la responsabilidad de que los términos y condiciones de los actos contenidos en los documentos que suscriban, están validados conforme a las funciones que correspondan al cargo que desempeñen dentro de la Comisión.
+El Instituto Electoral del Estado de Guanajuato será autoridad en la materia. Profesional en su desempeño y autónomo en sus decisiones; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
 
-## TÍTULO TERCERO. Disposiciones Generales
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-### CAPÍTULO QUINTO. De las Direcciones Generales, las Direcciones Generales Adjuntas y el Órgano Interno de Control
+La Ley establecerá los requisitos mínimos que deberán reunir los funcionarios de los órganos ejecutivos y técnicos del organismo público autónomo, para garantizar la eficacia del principio de imparcialidad, que conforme al párrafo tercero de este artículo es propio de la función electoral.
 
-###### Artículo 28.
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
-De conformidad con lo dispuesto por el artículo 12 fracción I de la Ley, el Presidente, el Vicepresidente Jurídico y el Director General Adjunto de lo Contencioso, tendrán la representación legal de la Comisión para intervenir en los procedimientos judiciales, administrativos o laborales en los que la Comisión sea parte o pueda resultar afectada. Dichos servidores públicos podrán designar apoderados para llevar a cabo la tramitación de los referidos procedimientos.
+El Organo de Dirección, como jerárquicamente superior, se integrará por Consejeros Ciudadanos, por Representantes de los Poderes Legislativo y Ejecutivo y de los Partidos Políticos. Los órganos Ejecutivos y Técnicos dispondrán del personal calificado, el estrictamente necesario, para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los Partidos Políticos. Las Mesas Directivas de casilla estarán integradas por ciudadanos.
 
-El Vicepresidente Jurídico y el Director General Adjunto de lo Contencioso, indistintamente, suplirán al Presidente, vicepresidentes, directores generales y directores generales adjuntos, en su ausencia, para intervenir en los juicios de amparo en los que éstos figuren como autoridad responsable, para efectos del artículo 19 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-###### Artículo 29.
+En los casos previstos y conforme al procedimiento que determine la Ley de la materia, el Instituto Electoral del Estado de Guanajuato podrá convenir con el Instituto Federal Electoral que asuma la organización de los procesos electorales en el Estado. Asimismo, podrá celebrar convenios con la autoridad electoral federal en materia del Registro Federal de Electores.
 
-En las ausencias del Presidente de la Comisión, éste será suplido por el Vicepresidente de Operaciones, el Vicepresidente Financiero, el Vicepresidente Jurídico, el Coordinador General de Información y Vinculación, el Director General de Administración o el Director General de Comunicación, Difusión y Enlace Institucional en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Los vicepresidentes y coordinador general serán suplidos en sus ausencias por los directores generales que de ellos dependan, mientras que los directores generales serán suplidos en sus ausencias, por los directores generales adjuntos o por el director que les estén adscritos, en los asuntos de su respectiva competencia.
+Los Consejeros Ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Legislatura. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
 
-###### Artículo 30.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Los vicepresidentes, el coordinador general y directores generales están facultados para expedir certificaciones de constancias de documentos relativos a los asuntos de su competencia cuando así proceda.
+El Instituto Electoral del Estado de Guanajuato, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la Entidad, así como de los Diputados al Congreso del Estado, hará la asignación de regidores y de Diputados de representación proporcional en los términos de los artículos 44 y 109 de esta Constitución, así mismo fiscalizará el origen y uso de todos los recursos con que cuenten los partidos políticos, coordinándose cuando así proceda, con el órgano técnico del Instituto Federal Electoral, en los términos de la legislación de la materia. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
 
-###### Artículo 31.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Los días en que se suspendan labores o permanezcan cerradas las oficinas de la Comisión, de las Sociedades de Inversión y de las Administradoras, serán considerados inhábiles para todos los efectos legales.
+Para dar definitividad y garantizar la legalidad de las distintas etapas de los Procesos Electorales, la Ley establecerá un sistema de medios de impugnación, de los que conocerán, según la competencia, el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato. También establecerá los casos y los procedimientos conforme a los cuales el Instituto Electoral del Estado de Guanajuato y el Tribunal Electoral del Estado de Guanajuato, en las etapas del proceso electoral que corresponda, realizarán el recuento total o parcial de votación, de la elección de Gobernador, de Diputados al Congreso o de los Ayuntamientos.
 
-### CAPÍTULO ÚNICO
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-## TRANSITORIOS
+El Tribunal Electoral del Estado de Guanajuato es el órgano autónomo y máxima autoridad jurisdiccional electoral, se integrará con cinco magistrados, que conformarán Salas Unitarias que podrán ser regionales, mismos que serán designados por las dos terceras partes de los miembros presentes del Congreso, dos a propuesta del Ejecutivo y tres a propuesta del Pleno del Supremo Tribunal de Justicia del Estado; su funcionamiento y organización estarán previstos en la Ley. Los Poderes Ejecutivo, Legislativo y Judicial garantizarán su debida integración.
 
-PRIMERO.- El presente ordenamiento entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional del Sistema de Ahorro para el Retiro, publicado en el Diario Oficial de la Federación el día 1o. de julio de 2005.
+La designación de Magistrados propuestos por el Pleno del Supremo Tribuna (sic) de Justicia, deberá recaer entre sus miembros quienes actuarán durante el proceso electoral, y en los supuestos que disponga la Ley.
 
-TERCERO.- Los asuntos que a la entrada en vigor del presente ordenamiento se encuentren en trámite y que conforme al mismo deban ser atendidos por una unidad administrativa diversa a la que hubiere correspondido conforme a las disposiciones vigentes antes de esa fecha, serán transferidos por la unidad administrativa que se encuentre conociendo del asunto de que se trate, a la unidad o unidades administrativas a las que se les haya atribuido la competencia en este ordenamiento.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-CUARTO.- Cuando un servidor público sea adscrito a una unidad administrativa diferente o su puesto cambie de denominación o nivel con motivo de las modificaciones a la estructura de la organización administrativa de la Comisión Nacional del Sistema de Ahorro para el Retiro, quedará sujeto a lo dispuesto en el artículo Tercero Transitorio de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+El Tribunal Electoral del Estado de Guanajuato tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral, en materia de participación ciudadana y las diferencias laborales que se presenten entre las autoridades electorales y sus servidores.
 
-Asimismo, para que dicho servidor público sea considerado como servidor público de carrera, estará sujeto al cumplimiento de lo dispuesto en el artículo Décimo Transitorio del Reglamento de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-QUINTO.- Los acuerdos y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente ordenamiento, continuarán en vigor en lo que no se opongan al mismo.
+Para el ejercicio de su competencia, el Tribunal Electoral del Estado de Guanajuato contará con Magistrados y Jueces Instructores.
 
-SEXTO.- Las acciones que se deriven de la aplicación del presente Reglamento se sujetarán al presupuesto aprobado para la Comisión Nacional del Sistema de Ahorro para el Retiro, sin que implique la asignación de recursos adicionales.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
-Asimismo, las modificaciones que se lleven a cabo a la estructura orgánica de la Comisión Nacional del Sistema de Ahorro para el Retiro se deberán realizar mediante movimientos compensados, que no impliquen un aumento en el presupuesto regularizable de servicios personales respectivo, aprobado para cada ejercicio fiscal.
+Los Magistrados del Tribunal Electoral del Estado de Guanajuato, deberán satisfacer los mismos requisitos que esta Constitución señala para ser Magistrado del Supremo Tribunal de Justicia del Estado.
 
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a quince de julio de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Agustín Guillermo Carstens Carstens.- Rúbrica.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+El Pleno del Tribunal Electoral del Estado de Guanajuato, será competente para resolver en segunda instancia los recursos que se interpongan contra la declaratoria de validez de las elecciones de Gobernador, de Diputados o de Ayuntamiento y contra la expedición de la constancia de mayoría y de asignación que, en cada caso, emitan las Autoridades Electorales competentes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+En materia electoral los recursos o medios de impugnación no producirán, en ningún caso, efectos suspensivos del acto o resolución impugnados. La legislación penal y la electoral, respectivamente, tipificarán los delitos y determinarán las faltas en materia electoral, así como las sanciones que les correspondan.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+La Ley garantizará que los consejeros ciudadanos que integrarán el organismo autónomo, a que se refiere este artículo, y los Magistrados del Tribunal Electoral del Estado de Guanajuato, no tengan antecedentes de militancia partidaria.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO SEGUNDO. DE LA FORMA DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 32.
+
+El Gobierno del Estado es Republicano, Representativo y Democrático, teniendo como base de su división territorial y de su organización política y administrativa, el Municipio libre.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO CUARTO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO. DEL TERRITORIO DEL ESTADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+###### ARTICULO 33.
+
+El Estado de Guanajuato se divide en los municipios siguientes: Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo Cuna de la Independencia Nacional, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao de la Victoria, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 34.
+
+Para la erección de un nuevo Municipio, serán necesarios los requisitos siguientes:
+
+I.- Que la superficie territorial en que se pretenda constituir no sea menor de ciento cincuenta kilómetros cuadrados;
+
+II.- Que la población que habite en esa superficie sea mayor de setenta mil habitantes;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+III.- Que lo soliciten los ciudadanos del Municipio afectado, como resultado de un plebiscito que se convoque en los términos de la Ley correspondiente;
+
+IV.- Que el poblado que se elija como Cabecera Municipal tenga una población que no sea inferior a veinte mil habitantes;
+
+V.- Que dicho poblado cuente con los servicios públicos municipales indispensables para su población; y,
+
+VI.- Que de los estudios económicos y fiscales que se practiquen, se demuestre que el probable ingreso fiscal será suficiente para atender los gastos de la Administración Municipal.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 35.
+
+La Ciudad de Guanajuato es la Capital del Estado y la Residencia de sus Poderes; éstos no podrán trasladarse a otro lugar sino por causa grave y cuando lo acuerden así las dos terceras partes de los Miembros del Congreso.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO QUINTO. DE LA DIVISION DE PODERES
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO PRIMERO. GENERALIDADES
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 36.
+
+El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecutivo y Judicial.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 37.
+
+El Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado Libre y Soberano de Guanajuato.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 38.
+
+El Poder Ejecutivo se ejercerá por una sola persona denominada Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 39.
+
+El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, a los jueces y al Consejo del Poder Judicial, en los términos de las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 40.
+
+Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corporación, ni el Legislativo depositar la suma de su poder en una sola persona.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO SEGUNDO. DEL PODER LEGISLATIVO
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION PRIMERA. DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 41.
+
+El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+###### ARTICULO 42.
+
+El Congreso del Estado estará integrado por veintidós Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y catorce Diputados electos según el principio de representación proporcional, mediante el sistema de listas a que se refiere la fracción I del Artículo 44 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 43.
+
+El Congreso del Estado, a propuesta del organismo autónomo a que se refiere el artículo 31 de esta Constitución, aprobará la demarcación de los Distritos Electorales Uninominales, la cual se ajustará a los criterios de carácter técnico que la Ley disponga, relativos a continuidad geográfica y número de electores que comprenderán, a fin de garantizar el equilibrio en la representación popular. La resolución que contenga la propuesta de demarcación distrital, podrá recurrirse por los partidos políticos en los términos que señale la Ley, antes de ser turnada al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 44.
+
+La elección de los Diputados según el principio de representación proporcional mediante el sistema de listas, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+I.- Para obtener el registro de sus listas de candidatos el partido político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos quince de los distritos uninominales y que cuenta con registro como partido político nacional o estatal.
+
+La lista de candidatos de cada partido político se integrará con:
+
+a).- Las propuestas que los partidos políticos presenten; y
+
+b).- Los candidatos de las fórmulas por el principio de mayoría relativa que no hayan obtenido constancia de mayoría pero sean los que hayan obtenido el mayor porcentaje de votación del partido político que los postuló.
+
+La asignación de los Diputados que correspondan a cada partido político la hará el Organismo Público Autónomo de manera alternada cada tres asignaciones de entre las opciones que integran la lista anterior, iniciando por las propuestas contenidas en el inciso a); en la forma y términos que señale la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+II.- Se distribuirán en total dos Diputaciones de representación proporcional; una para cada partido político que habiendo cumplido con lo dispuesto en la fracción anterior, no hubiere alcanzado mayoría en ninguno de los Distritos Uninominales y hubiese obtenido una votación superior al dos por ciento y menor al tres por ciento de los sufragios válidamente emitidos;
+
+III.- En el caso de que fueren más de dos los Partidos Políticos que se encuentren en el supuesto de la fracción anterior, las asignaciones se harán exclusivamente en favor de los dos partidos políticos que, en tal caso, hubieren obtenido mayor número de votos;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+IV.- Doce Diputaciones por el principio de representación proporcional, serán asignadas a los partidos políticos cuyo porcentaje de la votación obtenida hubiere sido cuando menos el tres por ciento de la votación total válidamente emitida;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- Los Partidos Políticos que se encuentren en el supuesto de la fracción anterior tendrán derecho a que les sean asignadas Diputaciones según el Principio de Representación Proporcional, de modo que la suma de sus diputados, por ambos principios, representen el porcentaje más aproximado posible al que de la votación total válidamente emitida, hubiesen obtenido en la elección. En ningún caso un partido político podrá contar con más de veinticinco diputados por ambos principios; y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+VI.- Cuando la asignación de Diputados no pueda realizarse total o parcialmente, en los términos de la fracción II de este artículo, se procederá, en su caso, a adjudicar una Diputación al Partido Político que hubiere obtenido la mayor votación y alcanzado la mayoría de los Distritos Uninominales; aún cuando con ello, rebase la relación de porcentaje ente (sic) la votación obtenida y el número de curules por ambos principios; en el supuesto de que el Partido Político no tenga la mayoría relativa de los miembros del Congreso, se le podrán asignar hasta las dos Diputaciones, de ser posible, de conformidad con lo previsto en este precepto. En el caso de que aun quedaran diputaciones por repartir, éstas se asignarán en los términos de las fracciones IV y V de este artículo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 45.
+
+Para ser Diputado se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
+
+II.- Tener por lo menos 21 años cumplidos al día de la elección; y,
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+III.- Tener residencia en el Estado cuando menos de dos años anteriores a la fecha de la elección.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los guanajuatenses que migren al extranjero tendrán derecho a que se les reconozca la residencia binacional, cuando así lo acrediten en los términos de la ley de la materia, pero en todo caso, para poder ser electos, deberán incorporarse al Estado por lo menos ciento ochenta días previos al de la elección.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 46.
+
+No podrán ser diputados al Congreso del Estado:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+I.- El Gobernador del Estado, cualquiera que sea su denominación, origen y forma de designación; los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo; el Procurador General de Justicia; los Magistrados del Supremo Tribunal de Justicia; los que se encuentren en servicio activo en el Ejército Federal o en otra Fuerza de Seguridad Pública; los presidentes municipales o los presidentes de los Concejos Municipales y quienes funjan como Secretario, Oficia (sic) Mayor o Tesorero, siempre que estos últimos ejerzan sus funciones dentro del Distrito o circunscripción en que habrá de efectuarse la elección, a no ser que cualesquiera de los nombrados se separen de sus cargos cuando menos noventa días antes de la fecha de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+II.- Los que sean Ministros de cualquier culto religioso en los términos de las leyes respectivas; y,
+
+III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 47.
+
+Los Diputados no podrán ser reelectos para el período inmediato. Los Suplentes sólo podrán ser electos para el período inmediato con el carácter de Propietarios, siempre que no hubieren estado en ejercicio. Los Diputados Propietarios no podrán ser electos como Suplentes para el período inmediato.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 48.
+
+La Diputación Permanente registrará las declaratorias de validez y las constancias de mayoría o, en su caso, de asignación, de los Diputados que hubieren resultado electos en los comicios y los convocará para que comparezcan a la sesión de instalación, a que se refiere el artículo 53 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 49.
+
+Los Diputados son inviolables por las opiniones que emitan en el desempeño de su cargo y jamás podrán ser reconvenidos ni juzgados por ellas.
+
+El Presidente del Congreso y, en su caso, el de la Diputación Permanente, velará por el respeto al fuero constitucional de los Miembros del mismo y por la inviolabilidad del recinto donde se reúnan a sesionar.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 50.
+
+Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisión públicos por el que se disfrute de sueldo, hecha excepción de los docentes, sin previa licencia del Congreso o de la Diputación Permanente; pero entonces cesarán en su función representativa mientras dure su nuevo cargo. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION SEGUNDA. DE LOS PERIODOS DE SESIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+###### ARTICULO 51.
+
+El Congreso del Estado tendrá cada año dos Periodos Ordinarios de Sesiones, el primero iniciará el 25 de septiembre y concluirá a más tardar el 31 de diciembre, el segundo comenzará el 15 de enero y concluirá a más tardar el 30 de junio.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 52.
+
+El Congreso celebrará Período Extraordinario de Sesiones cada vez que para ello fuere convocado por el Ejecutivo del Estado o por la Diputación Permanente, pero entonces se limitará a tratar los asuntos comprendidos en la convocatoria.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 53.
+
+El Congreso no puede abrir sus Períodos, ni ejercer sus funciones, sin la concurrencia de la mayoría de sus Miembros.
+
+Los presentes reunidos el día señalado por la Ley para la instalación del Congreso, compelerán a los ausentes a que concurran dentro de los quince días siguientes con la advertencia de que si no lo hiciesen se entenderá, por ese solo hecho, que rehusan su encargo, llamándose de inmediato a sus Suplentes, los que deberán presentarse en un plazo igual, y si tampoco lo hiciesen, se declarará vacante el puesto y se convocará a nuevas elecciones.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+En el caso de las vacantes, en cualquier tiempo, de los miembros del Congreso electos por el Principio de Representación Proporcional, si no concurren los suplentes, dentro de los quince días siguientes, se declarará vacante el puesto y se llamará al candidato de la fórmula que figure como siguiente en el orden de prelación de la lista del mismo partido.
+
+Incurrirán en responsabilidades y se harán acreedores a las sanciones que la Ley señala, quienes habiendo sido electos Diputados no se presenten, sin causa justificada a juicio del Congreso, a desempeñar el cargo, dentro del plazo señalado en el segundo párrafo de este artículo. Se sancionará con la pérdida de su registro a los Partidos Políticos que, habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 54.
+
+Se entiende que los Diputados que dentro de un mismo período falten a tres sesiones sin causa justificada o sin previa licencia del Presidente del Congreso, renuncian a concurrir hasta el período siguiente. En estos casos se llamará desde luego a los Suplentes.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+
+###### ARTICULO 55.
+
+El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán a la Sesión de Apertura del Período Ordinario de Sesiones que se inicia el 25 de septiembre de cada año.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION TERCERA. DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 56.
+
+El derecho de iniciar Leyes o Decretos, compete:
+
+I.- Al Gobernador del Estado;
+
+II.- A los Diputados al Congreso del Estado;
+
+III.- Al Supremo Tribunal de Justicia en el ramo de sus atribuciones; y,
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+IV.- A los Ayuntamientos o Concejos Municipales; y,
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- A los ciudadanos que representen cuando menos el tres por ciento de los inscritos en la lista nominal de electores correspondientes a la Entidad y reúnan los requisitos previstos en la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Cuando la iniciativa incida en la competencia municipal, el Congreso recabará la opinión de los Ayuntamientos durante el proceso legislativo, en los términos de la Ley respectiva.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 57.
+
+Las resoluciones del Congreso tendrán el carácter de Leyes, Decretos o Acuerdos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Las leyes que expida el Congreso, con excepción de las financieras, las orgánicas de los Poderes del Estado y del Gobierno Municipal, y las demás que determine la Ley correspondiente, podrán ser sometidas a referéndum. La Ley de la materia establecerá los requisitos y procedimiento para su ejecución, así como para que el resultado sea vinculatorio para el Congreso del Estado. Si el resultado del referéndum es en el sentido de desaprobar la Ley, el Congreso del Estado emitirá el decreto abrogatorio o derogatorio que proceda en un plazo no mayor de quince días si se encuentra en periodo ordinario, o bien si se encuentra en receso, en la segunda sesión del periodo ordinario inmediato subsecuente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+La realización del referéndum sólo podrá ser solicitada por los Diputados al Congreso del Estado o por los ciudadanos en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto abrogatorio o derogatorio, resultado de un proceso de referéndum, no podrá expedirse Ley en el mismo sentido del abrogado o derogado.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 58.
+
+Todo Proyecto de Ley o Decreto, una vez aprobado, se remitirá al Ejecutivo, quien si no tuviere observaciones que hacer lo publicará inmediatamente.
+
+Se reputará no vetado por el Poder Ejecutivo, toda Ley o Decreto no devuelto con observaciones al Congreso dentro de diez días hábiles, siguientes al de su recepción.
+
+El Proyecto de Ley o Decreto vetado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso. Deberá ser discutido de nuevo por éste, y si fuese confirmado por las dos terceras partes del número total de votos, será Ley o Decreto y volverá al Ejecutivo para su promulgación.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 59.
+
+El Ejecutivo del Estado no podrá vetar las siguientes determinaciones del Congreso:
+
+I.- Acuerdos;
+
+II.- Resoluciones que dicte el Congreso erigido en Colegio Electoral;
+
+III.- Las que dicte el Congreso, en Juicio Político o en Declaración de Procedencia de Desafuero; y,
+
+IV.- Las Leyes y Reglamentos que se refieran a su estructura y funcionamiento;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- Los decretos que abroguen o deroguen una Ley en cumplimiento a un proceso de referéndum.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 60.
+
+Todo Proyecto de Ley o Decreto que fuere desechado por el Congreso, no podrá volver a ser presentado en el mismo Período de Sesiones.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 61.
+
+Las Leyes, Reglamentos, Circulares o cualesquiera otras disposiciones de observancia general obligan y surten sus efectos en el día o término que señalen, con tal de que se publiquen en el Periódico Oficial del Gobierno del Estado de Guanajuato y éste circule desde su fecha, cuando menos tres días antes de la fecha fijada para que aquéllas entren en vigor.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 62.
+
+Las normas contenidas en la Ley dejarán de estar en vigor cuando otra posterior lo declare así expresamente o esta última contenga disposiciones total o parcialmente incompatibles con la Ley anterior.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION CUARTA. DE LAS FACULTADES DEL CONGRESO DEL ESTADO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 63.
+
+Son facultades del Congreso del Estado:
+
+I.- Expedir las Leyes y Reglamentos que regulen su estructura y funcionamiento, las que, para su vigencia, no requerirán de promulgación del Ejecutivo;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+II.- Expedir, reformar y adicionar cuantas leyes o decretos sean conducentes al gobierno y administración en todos los ramos que comprenden y que no estén, de manera exclusiva, reservados a la federación; así como aquellos que resulten conducentes al cumplimiento de la resolución derivada de un proceso de referéndum;
+
+III.- Hacer la codificación de las Leyes del Estado;
+
+IV.- Cambiar provisionalmente la residencia de los Poderes Estatales en casos excepcionales y necesarios;
+
+V.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
+
+VI.- Autorizar el cambio de residencia de las Cabeceras Municipales, erigir nuevos municipios y formular la declaratoria de su inexistencia, siempre que fuere aprobado por el voto de las dos terceras partes de los Diputados y de la mayoría de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+VII.- Aprobar con el voto de cuando menos el setenta por ciento de sus miembros, a propuesta del organismo a que se refiere el artículo 31 de esta Constitución, la división del Estado en Distritos Electorales, atendiendo a criterios de carácter objetivo y técnico, para garantizar el equilibrio en la representación popular. De no aprobarse la propuesta; regresará al organismo autónomo para que formule una nueva;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+VIII.- Nombrar entre los vecinos, cuando se declare la nulidad de elección de ayuntamiento, a los miembros del Concejo Municipal, en tanto se celebran nuevos comicios, y expedir la convocatoria para la celebración de éstos en un plazo no mayor de seis meses.
+
+Convocar a elecciones extraordinarias para Diputados, cuando se declare la nulidad de la elección en uno o varios distritos, o en el caso previsto por el segundo párrafo del artículo 53 de esta Constitución. La convocatoria para elecciones extraordinarias de Diputados, deberá expedirse en un plazo igual al señalado en el párrafo anterior;
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Si de los cómputos de una elección de Ayuntamientos o de Diputados por al (sic) principio de mayoría relativa, resultara en el primer lugar un número igual de votos para dos o más planillas o fórmulas de candidatos, respectivamente, el órgano electoral competente hará la declaratoria del empate correspondiente, misma que hará del conocimiento del Congreso del Estado, una vez que haya quedado firme. El Congreso del Estado convocará a quienes hayan obtenido el empate para que se lleve a cabo una nueva elección, en un plazo no mayor de dos meses. En el caso de que el empate se presente en una elección de Ayuntamiento, se nombrará un concejo municipal en los términos del primer párrafo de esta fracción;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+IX.- Declarar Gobernador electo, mediante formal decreto, a quien en los términos de la declaratoria del Organismo Autónomo Estatal o, en su caso, de la resolución del Tribunal Estatal Electoral haya obtenido mayoría de votos en la elección correspondiente;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+X.- Convocar a elecciones de Gobernador, en caso de nulidad de los comicios, si el electo no se presenta a tomar posesión del cargo, o en caso de falta absoluta ocurrida dentro de los tres primeros años del período constitucional, dicha convocatoria deberá expedirse en un plazo no mayor de seis meses;
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+En los mismos términos se procederá cuando el organismo electoral competente comunique, una vez que quede firme, la declaratoria del empate en primer lugar de la votación en una elección de Gobernador. En este caso la elección se efectuará entre quienes hayan obtenido el empate en un plazo no mayor de dos meses;
+
+XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y con aprobación de la mayoría de los Ayuntamientos, la división política del Estado;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1985)</small>
+
+XII.- Solicitar al Gobernador del Estado la comparecencia de Funcionarios del Poder Ejecutivo para que informen al Congreso, cuando se discuta o estudie un asunto relativo a las funciones que aquéllos ejerzan. Solicitar la comparecencia de los Presidentes de los Ayuntamientos y Concejos Municipales y la de los Titulares de los Organismos Públicos Doscentralizados (sic) de los Municipios, para los mismos efectos;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+XIII.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado presentado por el Gobernador, previa aprobación de la Ley de Ingresos respectiva. Así como autorizar en dicho Presupuesto, las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+En el supuesto de que al iniciarse el año fiscal correspondiente, el Congreso del Estado no hubiese aprobado la Ley de Ingresos o la Ley del Presupuesto General de Egresos, en tanto sean expedidas el Congreso no podrá ocuparse de ninguna otra Ley, mientras tanto se aplicará la vigente en el año inmediato anterior; en tal caso, se estará a lo establecido por la Ley Reglamentaria;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+Los poderes del Estado así como los organismos autónomos que la Constitución o las leyes del Estado reconozcan como tales y las entidades de la administración pública estatal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+XIV.- Autorizar al Ejecutivo del Estado y a los Ayuntamientos para que contraten empréstitos para la ejecución de obras de utilidad pública, designando los recursos con que deben cubrirse y de acuerdo con la Ley de Deuda Pública. Dicha autorización no será necesaria cuando los créditos se contraten como consecuencia de una calamidad general;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XV.- Expedir anualmente las Leyes de Ingresos para los Municipios del Estado. Si al iniciarse el año fiscal correspondiente, el Congreso no hubiese aprobado dichas leyes, no podrá ocuparse de ninguna otra Ley, excepto en el caso en el que el Ayuntamiento respectivo no hubiere presentado su iniciativa. En tanto dichas leyes de ingresos sean expedidas, continuarán aplicándose las correspondientes al año inmediato anterior, en tal caso se estará a lo establecido por la Ley Reglamentaria;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de dominio sobre los bienes inmuebles de dominio privado del Estado, fijando en cada caso las condiciones a que deben sujetarse. Esta facultad la tendrá, en su caso, la Diputación Permanente;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+
+XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las entidades y organismos de la administración pública paraestatal, del Poder Judicial y de los organismos autónomos por Ley; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, en los términos de la Ley Reglamentaria correspondiente;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+
+XIX.- Fiscalizar las cuentas públicas municipales incluyendo las de las entidades y organismos de la administración pública paramunicipal; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, a que se refiere la fracción anterior;
+
+XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XXI.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado de las propuestas que sometan a su consideración, por turnos alternativos, el Gobernador del Estado y el Consejo del Poder Judicial, así como aprobar las solicitudes de licencia de más de seis meses por causa de enfermedad y las renuncias al cargo de Magistrado, cuando éstas sean presentadas al Titular del Poder Ejecutivo del Estado o al Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Separar de su cargo, a solicitud del Consejo del Poder Judicial, a los Magistrados que violen de manera grave, en el desempeño de su función, los principios que rigen la función judicial, consagrados en esta Constitución y en la Ley. Para tal efecto, a la solicitud de separación deberá acompañarse un dictamen de evaluación que la justifique elaborado por la Comisión de Evaluación.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Separar de su cargo, a solicitud del Pleno del Supremo Tribunal de Justicia, a los Consejeros del Poder Judicial que violen de manera grave, en el desempeño de su función, los principios que rigen la función judicial, consagrados en esta Constitución y la Ley. Para tal efecto, a la solicitud de separación deberá acompañarse un dictamen de evaluación que la justifique elaborado por la Comisión de Evaluación.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Designar a los Magistrados Supernumerarios a propuesta del Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Designar a los Consejeros del Poder Judicial en los términos que establece esta Constitución.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+Designar de entre sus miembros, a sus representantes ante el Organismo Autónomo a que se refiere el artículo 31 de esta Constitución, a los Consejeros Ciudadanos en términos de su competencia y a los integrantes del Tribunal Estatal Electoral, de conformidad con la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Designar por el voto de más de la mitad de la totalidad de sus integrantes, al titular del organismo estatal de protección de los Derechos Humanos, de acuerdo a la propuesta que formule el Ejecutivo del Estado de conformidad con el procedimiento de consulta pública contemplado en esta Constitución y en los términos de la Ley de la materia. Así como a los integrantes del Consejo Consultivo. La Diputación Permanente tendrá la facultad de ratificar los nombramientos de los integrantes del Consejo Consultivo, en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Ratificar el nombramiento del Procurador General de Justicia a propuesta del Gobernador del Estado en los términos que establece esta Constitución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Aprobar el nombramiento de los Magistrados del Tribunal de lo Contencioso Administrativo a propuesta del Gobernador del Estado;
+
+XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
+
+XXIII.- Declarar si ha lugar a la formación de causa respecto de los Funcionarios que gocen de Fuero;
+
+XXIV.- Conceder amnistía, en circunstancias extraordinarias, por el voto de las dos terceras partes de los Diputados;
+
+XXV.- Premiar a quienes hayan prestado eminentes servicios al Estado, a la Patria o a la humanidad y recompensar a los buenos servidores del Estado;
+
+XXVI.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna reforma o adición a la Constitución General de la República, el dictado de una Ley o cualquier acto del Gobierno Federal constituyan invasión a la soberanía del Estado;
+
+XXVII.- Decidir sobre las licencias que soliciten los Diputados y el Gobernador del Estado para separarse de sus respectivos cargos;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XXVIII.- Acordar con el voto de las dos terceras partes del total de sus integrantes la práctica de auditorías a los sujetos de fiscalización, cuando exista causa justificada para ello.
+
+Vigilar y evaluar, sin perjuicio de su autonomía técnica, de gestión y presupuestaria, el desempeño del Órgano de Fiscalización Superior, en los términos que disponga la Ley.
+
+Remitir, en los términos de la Ley, al Órgano de Fiscalización Superior las cuentas públicas de los sujetos de fiscalización.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+Declarar la revisión de cuentas públicas, en los términos del informe de resultados que hubiere emitido el Órgano de Fiscalización Superior, dentro de los seis meses siguientes a la presentación de dicho informe y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
+
+XXIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por algunas de las causas graves que la Ley limitativamente prevenga, siempre y cuando los afectados hayan tenido oportunidad para rendir pruebas y hacer los alegatos que, a su juicio, convengan;
+
+XXX.- Designar, de entre los vecinos del Municipio de que se trate, a los Concejos Municipales que concluirán los períodos respectivos, en caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus Miembros, si conforme a la Ley no procediere que entraren en funciones los Suplentes ni que se celebraren nuevas elecciones;
+
+XXXI.- (DEROGADA, P.O. 20 DE MARZO DE 2001)
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXII.- Aprobar, en su caso, la asociación de Municipios del Estado con los de otras entidades federativas para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXIII.- Declarar, cuando sea procedente y previa solicitud de un Ayuntamiento, que éste se encuentra imposibilitado para ejercer una función o prestar un servicio público, para que el Ejecutivo del Estado la ejerza o lo preste, de conformidad con el procedimiento que establezca la Ley; y
+
+XXXIV.- Las demás que de un modo expreso o implícito se le otorguen en cualesquiera de los preceptos de esta Constitución o de la Federal.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION QUINTA. DE LA DIPUTACION PERMANENTE
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 64.
+
+El día de la clausura de cada periodo de sesiones ordinarias, el Congreso del Estado nombrará por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta por once miembros propietarios y cinco suplentes, que durarán en su cargo el tiempo comprendido entre la clausura de un periodo de sesiones ordinarias y la apertura del siguiente. El primero de los nombrados será el Presidente, el segundo el Vicepresidente, el tercero el Secretario y el cuarto el Prosecretario, los demás tendrán carácter de vocales, propietarios y suplentes, según el orden de la votación obtenida.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 65.
+
+Son facultades y obligaciones de la Diputación Permanente:
+
+I.- Recibir las Iniciativas de Leyes y Decretos y turnarlas a las Comisiones que correspondan;
+
+II.- Acordar por sí sola, o a iniciativa del Ejecutivo, la convocatoria al Congreso a Período Extraordinario de Sesiones;
+
+III.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 1994)
+
+IV.- Instalar y presidir la primera junta preparatoria del nuevo Congreso;
+
+V.- Nombrar y remover a los empleados del Congreso, dándole cuenta del ejercicio de esta facultad;
+
+VI.- Conocer de las renuncias de los funcionarios y empleados del Congreso;
+
+VII.- Expeditar los trabajos pendientes al tiempo del receso y ejecutar, en los nuevos, lo que fuere necesario, dando cuenta al Congreso con unos y con otros;
+
+VIII.- Conceder licencias para separarse de su cargo, al Gobernador del Estado, y a los Diputados en los términos de la Fracción XXVII del Artículo 63; y,
+
+IX.- Las demás consignadas de modo expreso en esta Constitución.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2003)</small>
+
+#### SECCION SEXTA. DE LA FISCALIZACION SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2012)</small>
+
+###### ARTICULO 66.
+
+El Órgano de Fiscalización Superior del Congreso del Estado tendrá autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. La función de fiscalización será ejercida conforme a los principios de posterioridad, objetividad, independencia, transparencia, legalidad, definitividad, imparcialidad, confiabilidad y profesionalismo.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+Son sujetos de fiscalización, las entidades señaladas en las fracciones XVIII y XIX del Artículo 63 de esta Constitución, así como el Poder Legislativo. La función fiscalizadora también comprende los recursos públicos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica; asimismo, estas entidades deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos públicos que se les hayan destinado.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+Los organismos autónomos presentarán al Congreso del Estado su cuenta pública trimestralmente y su concentrado anual, en la forma y términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+Los sujetos de fiscalización están obligados a suministrar al Congreso del Estado, por conducto de su órgano de apoyo, los datos, documentos, antecedentes o cualquier otra información que éste les solicite, relacionados con el ejercicio de la función fiscalizadora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2003)</small>
+
+El Órgano de Fiscalización Superior tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+
+I.- Analizar, evaluar y comprobar las cuentas públicas, de conformidad con los programas que para el efecto se aprueben por el Órgano. Si del examen que se realice aparecieran discrepancias entre los ingresos o los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+
+II. Conocer, revisar y evaluar los resultados de la gestión financiera de los sujetos de fiscalización y comprobar si se han ajustado al presupuesto y a sus contenidos programáticos y verificar el cumplimiento de los objetivos contenidos en los programas;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+III.- Investigar los actos u omisiones que puedan constituir daños o perjuicios a la hacienda o patrimonio públicos;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+IV.- Acordar y practicar auditorías conforme a su programa anual y ejecutar las que acuerde el Congreso del Estado en los términos de la fracción XXVIII del Artículo 63 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+V.- Verificar el exacto cumplimiento y apego a la legislación y normatividad aplicable, por parte de los sujetos de fiscalización;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+VI.- Dictaminar los daños y perjuicios causados a la hacienda o patrimonio públicos. La Ley establecerá el procedimiento para hacer efectiva la responsabilidad resarcitoria y los medios de impugnación que procedan;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+VII.- Dictaminar la probable responsabilidad y promover el fincamiento de sanciones ante las autoridades competentes, en los términos de Ley;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2003)</small>
+
+VIII.- Informar al Congreso del Estado, en los términos de la Ley, del resultado de la revisión de la cuenta pública y demás asuntos derivados de la fiscalización, incluyendo los dictámenes, informes de resultados, comentarios y observaciones de las auditorías;
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones hasta que se sancione el Informe de Resultados por el Congreso del Estado, de conformidad con lo establecido en la fracción XXVIII del artículo 63 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+IX.- Dar seguimiento a las observaciones o recomendaciones que emita;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+X.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones; y
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XI.- Celebrar, en los términos de Ley, convenios de coordinación y colaboración con otras entidades u órganos de fiscalización.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+En situaciones excepcionales que determine la Ley, el Órgano de Fiscalización Superior podrá requerir a los sujetos de fiscalización que procedan a la revisión de conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se procederá de conformidad en lo dispuesto en las fracciones VI y VII de este Artículo. Lo anterior, sin perjuicio de que se realicen las auditorías que procedan.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+El titular del Órgano de Fiscalización Superior, será designado por el voto de las dos terceras partes de los miembros de la Legislatura, de entre la terna que presente el órgano de gobierno interior del Congreso del Estado previa convocatoria que para tal efecto se expida. La Ley determinará el procedimiento para su designación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+
+El titular del Órgano de Fiscalización Superior, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del Artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo siete años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO TERCERO. DEL PODER EJECUTIVO
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION PRIMERA. DEL GOBERNADOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 67.
+
+La elección de Gobernador del Estado será por votación directa, secreta, uninominal y por Mayoría Relativa de los ciudadanos guanajuatenses que hayan votado, en los términos de la Ley de la materia, salvo los casos de excepción por falta temporal o definitiva en los que se aplicarán las normas especiales de esta Constitución.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 68.
+
+Para ser Gobernador del Estado se requiere:
+
+I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+II.- Estar en ejercicio de sus derechos; y
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+III.- Tener por lo menos treinta años cumplidos al día de la elección.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 69.
+
+No son elegibles al cargo de Gobernador del Estado:
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+I.- Los Secretarios de Estado de la Federación, los Ministros de la Suprema Corte de Justicia de la Nación, el Procurador General de Justicia de la República, el Jefe del Distrito Federal, los Magistrados del Supremo Tribunal de Justicia del Estado, los Titulares o Encargados de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, los Militares en servicio activo y los ciudadanos con mando de fuerza regular o irregular en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+II.- Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas; y
+
+III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 70.
+
+El Gobernador del Estado, cuyo origen sea el de elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o Encargado del Despacho.
+
+No podrán ser electos para el período inmediato el Gobernador Sustituto, el Interino, el Provisional o el ciudadano que por Ministerio de Ley y bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años de (sic) período.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 71.
+
+El Gobernador del Estado durará en su encargo seis años y comenzará a ejercer sus funciones el 26 de septiembre siguiente a la fecha de su elección.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 72.
+
+En el acto de Toma de Posesión de su cargo el Gobernador deberá rendir protesta, ante el Congreso del Estado o la Diputación Permanente, en su caso, en la forma siguiente: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las Leyes que de ellas emanen y desempeñar con lealtad y patriotismo el cargo que me ha conferido el pueblo, para bien de la Nación y del Estado de Guanajuato, y si así no lo hiciere, que el pueblo me lo demande".
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 73.
+
+El Congreso elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo el electo llenar los requisitos y no estar comprendido en algunas de las prohibiciones que, para desempeñar el cargo, establece esta Constitución, en los siguientes casos:
+
+I.- Cuando el Gobernador electo no se presentare a tomar posesión de su cargo; o,
+
+II.- En caso de falta absoluta ocurrida en los tres primeros años de ejercicio Constitucional.
+
+El Gobernador Interino durará en funciones hasta que tome posesión el que resulte electo en los comicios a que debe convocar el Congreso, de conformidad con lo dispuesto en la Fracción X del Artículo 63 de este Ordenamiento. De no estar en Período de Sesiones el Congreso, la Diputación Permanente lo convocará de inmediato y desde luego designará un Gobernador Provisional.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 74.
+
+Cuando la falta absoluta de Gobernador ocurra en los tres últimos años del ejercicio Constitucional, el Congreso del Estado, erigido en Colegio Electoral, procederá a elegir al Gobernador Sustituto para que termine el Período Constitucional de acuerdo a la Fracción IX del Artículo 63 de este Ordenamiento.
+
+En tanto el Congreso realiza la elección, o de no estar reunido éste, se procederá de conformidad con lo dispuesto en el artículo anterior, en lo que fuere conducente.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 75.
+
+El cargo de Gobernador del Estado sólo es renunciable por causa grave calificada por el Congreso del Estado, ante el cual ha de ser presentada la renuncia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 76.
+
+En las ausencias o faltas temporales del Gobernador del Estado, se observarán las siguientes disposiciones:
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1985)</small>
+
+I.- Las ausencias hasta por noventa días serán suplidas por el Secretario de Gobierno; y
+
+II.- Si la falta temporal excede de noventa días, el Congreso designará un Gobernador Interino para que lo supla durante su ausencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
+
+De no estar reunido el Congreso, la Diputación Permanente lo convocará de inmediato, fungiendo como Gobernador entre tanto, el Secretario de Gobierno, como encargado del Despacho.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 77.
+
+Las facultades y obligaciones del Gobernador del Estado, son:
+
+I.- Guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen;
+
+II.- Promulgar, publicar, cumplir y hacer cumplir las Leyes y Decretos del Estado;
+
+III.- Proveer en la esfera administrativa a la exacta observancia de las Leyes, expidiendo los Reglamentos conducentes;
+
+IV.- Procurar la conservación del orden, y vigilar la tranquilidad y la seguridad del Estado;
+
+V.- Rendir, ante el Congreso del Estado, el Informe a que se refiere el Artículo 78 de este Ordenamiento;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como su Cuenta Pública trimestral y su concentrado anual, en la forma y términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+La iniciativa de Ley del Presupuesto General de Egresos del Estado deberá contener las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley;
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+La iniciativa de Ley del Presupuesto General de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
+VII.- Vigilar que la recaudación y distribución de los Fondos Públicos se sujeten en todo a la Ley;
+
+VIII.- Solicitar a la Diputación Permanente convoque al Congreso a Período Extraordinario de Sesiones, señalando los asuntos que deberán ser tratados en él;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+IX.- Concurrir a la apertura del período ordinario de sesiones del Congreso que se inicie el día veinticinco de septiembre;
+
+X.- Acordar discrecionalmente que los Funcionarios del Poder Ejecutivo comparezcan ante el Congreso en los casos en que éste así lo solicite, cuando se discuta o estudie un negocio relativo a sus funciones;
+
+XI.- Nombrar y remover libremente a todos los Funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las Leyes;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Nombrar al Procurador General de Justicia en los términos de esta Constitución y removerlo libremente;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrados que integrarán el Supremo Tribunal de Justicia del Estado, en los turnos que le correspondan en los términos de Ley.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Proponer al Congreso del Estado, la terna para la designación de Consejero que integre el Consejo del Poder Judicial. Emitir dictamen sobre la propuesta de reelección o de no reelección de un Magistrado cuando le corresponda atendiendo al origen de la propuesta de designación del mismo fundado en el dictamen de evaluación que emita la Comisión de Evaluación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Proponer en terna al Congreso del Estado, a los candidatos para elegir al titular del organismo estatal de protección de los Derechos Humanos, una vez que haya efectuado el procedimiento de consulta pública a que se refiere el artículo 4 de esta Constitución y de conformidad con la Ley de la materia. En caso de que la terna que proponga sea rechazada, formulará una nueva. Si esta segunda terna es rechazada por el Congreso del Estado, el Gobernador del Estado designará de entre los propuestos, a la persona que será el titular del organismo estatal de protección de los Derechos Humanos.
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XIII.- Emitir órdenes a la policía preventiva municipal, en los términos que prevé la fracción XVI del artículo 117 de esta Constitución;
+
+XIV.- Mandar que se instruya y discipline la Guardia Nacional, conforme al Reglamento que expida el Congreso de la Unión y a las prevenciones que determine el Congreso del Estado;
+
+XV.- Auxiliar al Poder Judicial en la ejecución de sus resoluciones;
+
+XVI.- Conceder, conforme a las Leyes, indulto a los reos sentenciados por delitos del orden común;
+
+XVII.- Ejercer actos de dominio sobre los bienes inmuebles de dominio privado pertenecientes al Estado, previa autorización del Congreso o de la Diputación Permanente, en su caso, rindiéndole informe del uso que se hiciere de dicha autorización;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Representar al Estado y delegar esta representación en los términos que establezca la Ley;
+
+XIX.- Rendir informes al Congreso del Estado sobre cualquier Ramo de la Administración Pública, y solicitar informes al Supremo Tribunal de Justicia sobre la administración de la Justicia;
+
+XX.- Expedir, por sí o por acuerdo, los Títulos Profesionales que previene la Ley de la materia;
+
+XXI.- Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y (sic),
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXII.- Convenir en los términos de Ley:
+
+a).- Con la Federación, para que el Estado asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo hagan necesario. Para tal efecto, podrá convenir con los Municipios, para que éstos realicen la prestación de servicios o la atención de las funciones a las que se refiere este párrafo; y,
+
+b).- Con los Municipios, a fin de que éstos lleven a cabo la prestación de servicios o el ejercicio de funciones que le corresponden al Estado, o bien, para que éste efectúe el ejercicio de una función o la prestación de un servicio público, competencia del Municipio.
+
+Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y (sic)
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XXIII.- Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscito;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XXIV.- Instrumentar, en los términos de ley, sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y
+
+XXV.- Las demás que le concedan esta Constitución y las leyes.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Los actos o decisiones del Gobernador del Estado, que se consideren trascendentales para el orden público o el interés social de la Entidad, con excepción de los que se refieran al nombramiento o destitución de los titulares de secretarías o dependencias del Ejecutivo o los realizados por causa de utilidad pública, podrán ser sometidos a plebiscito, a solicitud del Titular del Poder Ejecutivo o los ciudadanos. La Ley de la materia establecerá los requisitos y procedimiento para su ejecución, así como para que el resultado sea vinculatorio para el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto o acuerdo abrogatorio o derogatorio, resultado del plebiscito, no podrá expedirse decreto o acuerdo en el mismo sentido del abrogado o derogado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Salvo en el caso de que el plebiscito sea solicitado por el titular del Poder Ejecutivo, el procedimiento no suspenderá los efectos del acto o decisión correspondiente. Si el resultado del plebiscito es en el sentido de desaprobar dicho acto o decisión, el titular del Poder Ejecutivo emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de quince días.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2009)</small>
+
+###### ARTICULO 78.
+
+El Gobernador del Estado enviará al Congreso del Estado, el primer jueves de marzo, un informe por escrito en el cual exponga la situación que guarda la Administración Pública del Estado.
+
+Los grupos y representaciones parlamentarias que integren el Congreso del Estado, durante el análisis del informe, fijarán su postura en los términos de la legislación correspondiente.
+
+El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como del Procurador General de Justicia y los directores de las entidades paraestatales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+###### ARTICULO 79.
+
+Todas las Leyes, Decretos y Reglamentos, para su cumplimiento, serán promulgados por el Gobernador del Estado y refrendados por el Secretario de Gobierno o por quien haga sus veces, en los términos de la Ley Orgánica del Poder Ejecutivo.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION SEGUNDA. DE LAS DEPENDENCIAS DEL EJECUTIVO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 80.
+
+Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 81.
+
+La ley organizará al Ministerio Público, cuyos servidores serán nombrados y removidos por el Poder Ejecutivo. El titular del Ministerio Público será el Procurador General de Justicia, nombrado por el titular del Poder Ejecutivo, con la ratificación del Congreso del Estado. En tanto el Congreso apruebe el nombramiento, el titular del Poder Ejecutivo podrá designar un encargado de despacho, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2006)</small>
+
+El Ministerio Público contará con instituciones especializadas en la procuración de justicia para adolescentes, cuya estructura, atribuciones y funcionamiento se determinarán en la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+#### SECCION TERCERA. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+###### ARTICULO 82.
+
+El Tribunal de lo Contencioso Administrativo es un órgano de control de legalidad, para la defensa de los derechos de los particulares frente a los actos de las autoridades administrativas estatales y municipales, dotado de plena jurisdicción e imperio para hacer cumplir sus resoluciones. La ley establecerá su competencia, funcionamiento e integración.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO CUARTO. DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 83.
+
+El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+El Poder Judicial contará con un Consejo que será el órgano de administración general, tendrá a su cargo la carrera judicial, la capacitación, disciplina y evaluación de los servidores públicos del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+El Consejo del Poder Judicial estará integrado por cinco miembros, uno de los cuales será el Presidente del Supremo Tribunal de Justicia, que también presidirá el Consejo; un Juez de Partido, que será aquel que cuente con la mejor calificación de acuerdo con el dictamen de evaluación que para el efecto se emita por el Pleno del Consejo en términos de ley; dos Consejeros designados por el Congreso del Estado de entre las ternas que para tal efecto presenten el Poder Ejecutivo y el Pleno del Supremo Tribunal de Justicia, respectivamente; y un Consejero designado por el Congreso del Estado. Los Consejeros, salvo su Presidente, durarán cuatro años en el cargo, serán sustituidos cada año de manera escalonada y no podrán ser nombrados para el periodo inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Los Consejeros del Poder Judicial deberán reunir los requisitos previstos en el artículo 86 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+El Consejo del Poder Judicial funcionará en Pleno; las decisiones que se refieran a cuestiones disciplinarias, de designación, adscripción y sanciones administrativas de los servidores públicos judiciales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+Tratándose de Magistrados el procedimiento disciplinario se tramitará y resolverá por el Pleno del Consejo. De los recursos que conforme a la Ley se interpusieran conocerá el Pleno del Supremo Tribunal de Justicia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+La evaluación de los Magistrados y Consejeros estará a cargo de una Comisión de Evaluación, que se integrará por dos Magistrados del pleno del Supremo Tribunal de Justicia, dos Consejeros y el Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial. El funcionamiento de la Comisión de Evaluación se determinará en la Ley.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 84.
+
+El Supremo Tribunal de Justicia se compondrá del número de Magistrados Propietarios o Supernumerarios que determine el Consejo del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+En la primera sesión de enero de cada dos años el Pleno del Supremo Tribunal de Justicia, elegirá un Presidente de entre sus miembros, en los términos previstos en la ley. El Presidente podrá ser reelecto sólo para un período más.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+No podrá ser electo para ejercer el cargo de Presidente del Supremo Tribunal de Justicia el Magistrado cuyo nombramiento concluya en el periodo en el que habrá de designarse dicho cargo.
+
+El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno y ante el Consejo del Poder Judicial un informe anual de labores en la última sesión del mes de diciembre.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 85.
+
+Las faltas temporales de los Magistrados serán cubiertas por el Magistrado Supernumerario que determine el Pleno del Supremo Tribunal de Justicia, de conformidad con lo que se establezca en la Ley Orgánica del Poder Judicial. Tratándose de separación definitiva se hará un nuevo nombramiento conforme al artículo 87 de esta Constitución.
+
+El Pleno del Supremo Tribunal de Justicia propondrá al Congreso del Estado en ternas la designación de Magistrados Supernumerarios de entre los Jueces de Partido que reúnan los requisitos del artículo 86 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 86.
+
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
+
+I.- Ser ciudadano mexicano y guanajuatense en pleno ejercicio de sus derechos civiles y políticos;
+
+II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+
+III.- Tener título de Abogado o Licenciado en Derecho expedido por institución legalmente facultada para ello y por lo menos diez años de ejercicio en alguna de las ramas de la profesión jurídica;
+
+IV.- Haberse distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión jurídica o ser Juez de Partido y haber satisfecho los requerimientos de la carrera judicial en los términos que establezca la Ley;
+
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
+
+VI.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 87.
+
+Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo siete años y podrán ser reelectos.
+
+Los Magistrados perderán el cargo en los siguientes supuestos:
+
+I.- Por incurrir en responsabilidad en los términos del artículo 126 de esta Constitución y de la Ley;
+
+II.- Por retiro forzoso, al cumplir 75 años de edad o por haber tenido el carácter de Magistrado Propietario por un lapso continuo de 14 años;
+
+III.- Por violación grave a los principios que rigen la función judicial, de acuerdo al dictamen de evaluación, en los términos de esta Constitución y la Ley; o
+
+IV.- Por enfermedad o incapacidad física que les impida ejercer el cargo.
+
+Los Magistrados recibirán un haber de retiro en los términos, cuantía y condiciones que señale la Ley.
+
+Los Magistrados que terminen su período podrán optar por recibir el haber de retiro o bien adquirir la calidad de Juez de Partido, en los términos de Ley, pasado el término de un año a partir de la fecha de conclusión de su cargo. En éste último caso, no podrán ser designados para el cargo de Magistrado.
+
+El Congreso del Estado por el voto de las dos terceras partes de los miembros presentes del Pleno hará la designación de Magistrados al Supremo Tribunal de Justicia de entre las ternas, que por turnos alternativos, presenten el Gobernador del Estado y el Consejo del Poder Judicial, y de los Magistrados Supernumerarios, de las ternas que presente el Pleno del Supremo Tribunal de Justicia. La misma votación calificada se requerirá para separar y reelegir en su cargo a los Magistrados.
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado, el Consejo del Poder Judicial o el Pleno del Supremo Tribunal de Justicia, someterán una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador, el Consejo del Poder Judicial o el Pleno del Supremo Tribunal de Justicia, según corresponda, siempre y cuando se satisfagan los requisitos que exigen para tal efecto esta Constitución y la Ley.
+
+Los Magistrados Supernumerarios podrán ser considerados en las ternas para nombrar Magistrados Propietarios cuando reúnan los requisitos de Ley.
+
+El Gobernador del Estado o el Consejo del Poder Judicial, según corresponda al origen de la propuesta, podrán proponer la reelección de un Magistrado en los términos de esta Constitución y la Ley.
+
+Sólo podrán ser reelectos los Magistrados que de acuerdo al dictamen de evaluación, hayan actuado en su primer cargo, con estricto apego a los principios que rigen la función judicial y que son los de independencia judicial, imparcialidad, eficiencia, eficacia, legalidad, excelencia profesional, honestidad invulnerable, diligencia, celeridad, honradez, veracidad, objetividad, competencia, honorabilidad, lealtad, probidad y rectitud.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 88.
+
+Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su cargo, protestarán ante el Congreso y si éste no estuviere en Período de Sesiones, ante la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 89.
+
+Las facultades y obligaciones del Pleno del Supremo Tribunal de Justicia son:
+
+I.- Iniciar Leyes o decretos relacionados con la impartición de justicia;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+II.- Proponer al Congreso del Estado la terna para designación de Consejeros que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial;
+
+III.- Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
+
+IV.- Establecer jurisprudencia en los términos que fije la Ley;
+
+V.- Decidir los conflictos de competencia jurisdiccional que se susciten entre los funcionarios encargados de la impartición de justicia;
+
+VI.- Elegir al Presidente del Supremo Tribunal de Justicia;
+
+VII.- Conocer de las recusaciones con causa y de las excusas de los Magistrados;
+
+VIII.- Aprobar las licencias de Magistrados que no excedan de seis meses;
+
+IX.- Conocer y resolver las excitativas de justicia que se promuevan contra los Magistrados del Tribunal;
+
+X.- Expedir en el ámbito de su competencia, el reglamento interior del Supremo Tribunal de Justicia remitiéndolo al periódico oficial del Gobierno del Estado para su publicación;
+
+XI.- Conocer de las contradicciones entre las tesis contenidas en las resoluciones de las salas o de los juzgados, para decidir cual debe prevalecer;
+
+XII.- Conocer y resolver los recursos contra las resoluciones que dicte el Consejo del Poder Judicial de conformidad con lo dispuesto en esta Constitución;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XIII.- Designar a los dos Magistrados que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 83; así como proponer al Congreso del Estado la separación del cargo de un Consejero que viole de manera grave los principios que rigen la función judicial de acuerdo al dictamen de evaluación a que se refiere la fracción XXIII del artículo 90;
+
+XIV.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2006)
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XV.- Garantizar la observancia de esta Constitución y además conocer de:
+
+A. Las controversias legales entre:
+
+a).- Dos o más Municipios;
+
+b).- Uno o más Municipios y el Poder Ejecutivo o Legislativo; y
+
+c).- El Poder Ejecutivo y el Legislativo.
+
+B. Las acciones de inconstitucionalidad que promueva al menos una tercera parte de los integrantes del Congreso del Estado y que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
+
+Las acciones de inconstitucionalidad sólo podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma.
+
+Quedan excluidos los conflictos o acciones de carácter electoral.
+
+El procedimiento se substanciará conforme lo disponga la Ley;
+
+XVI.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2006)
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+
+XVII.- Cumplir las demás atribuciones que le señalen las leyes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 90.
+
+Las facultades y obligaciones del Consejo del Poder Judicial son:
+
+I.- Contribuir a la defensa de la independencia y autonomía del Poder Judicial;
+
+II.- Expedir y difundir los acuerdos generales para el adecuado ejercicio de sus funciones;
+
+III.- Administrar la carrera judicial;
+
+IV.- Hacer las propuestas de designación de los Magistrados de acuerdo con las reglas de la carrera judicial, en los turnos que correspondan al Poder Judicial, y someterlos a la aprobación del Congreso del Estado;
+
+V.- Dictar las medidas que sean procedentes para que la impartición de justicia sea pronta, completa e imparcial en términos de Ley;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+VI.- Designar a los jueces y al personal de los juzgados, de acuerdo con las reglas de la carrera judicial, en los términos de la ley;
+
+VII.- Establecer la competencia por materia de las salas, previa opinión del Pleno del Supremo Tribunal de Justicia;
+
+VIII.- Aumentar o disminuir el número de salas previa opinión del Pleno del Supremo Tribunal de Justicia;
+
+IX.- Aumentar o diminuir (sic) el número de juzgados, determinar su organización y funcionamiento y crear o suprimir plazas de servidores públicos del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+X.- Determinar la adscripción y cambio de adscripción de los jueces y del personal de los juzgados, dar curso a las renuncias que se presenten y decidir el cese de jueces;
+
+XI.- Imponer a los servidores públicos judiciales las sanciones que procedan conforme a la Ley, previa garantía de audiencia y defensa;
+
+XII.- Otorgar estímulos y recompensas a los servidores públicos judiciales que se hayan destacado en el desempeño de su cargo;
+
+XIII.- Conceder licencias a los jueces, secretarios y demás empleados hasta por seis meses;
+
+XIV.- Adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial;
+
+XV.- Expedir su reglamento interno remitiéndolo al periódico oficial del Gobierno del Estado para su publicación;
+
+XVI.- Expedir los manuales de organización y procedimientos de los juzgados;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
+
+XVII.- Formular el anteproyecto del presupuesto de egresos y someterlo a la aprobación del Pleno del Supremo Tribunal de Justicia, asimismo deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos;
+
+XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartición de justicia, con transparencia, eficacia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad;
+
+XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;
+
+XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y (sic)
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXI.- Designar a los dos Consejeros que integrarán la Comisión de Evaluación, prevista en el último párrafo del artículo 83;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXII.- Establecer, con arreglo a la Ley, los criterios, lineamientos y procedimientos para el desempeño y la evaluación de los servidores públicos del Poder Judicial;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXIII.- Realizar el seguimiento constante y permanente de la actuación de los servidores judiciales, así como expedir el dictamen de evaluación correspondiente en términos de Ley. Excepto respecto de los Magistrados, cuya evaluación estará a cargo de la Comisión de Evaluación prevista en el último párrafo del artículo 83;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXIV.- Ordenar la práctica de auditorias de desempeño, calidad, administrativas y financieras en los Juzgados del Poder Judicial; así como en los órganos administrativos del Poder Judicial. Las Salas serán evaluadas por la Comisión de Evaluación en los términos de esta Constitución;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXV.- Resolver sobre la procedencia de la propuesta de reelección o de no reelección de un Magistrado, cuando le corresponda, atendiendo al origen de la propuesta de designación del mismo, fundándose en el dictamen que emita la Comisión de Evaluación;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXVI.- Informar periódicamente al Poder Ejecutivo sobre el resultado de la evaluación continua del desempeño de Magistrados que emita la Comisión de Evaluación, cuya propuesta de designación le haya correspondido, a efecto de que determine proponer o no su reelección;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXVII.- Informar periódicamente al Pleno del Supremo Tribunal de Justicia, al Congreso del Estado o al Poder Ejecutivo, sobre el resultado de la evaluación continua del desempeño de los Consejeros del Poder Judicial, que emita la Comisión de Evaluación, atendiendo al origen de designación;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXVIII.- Proponer al Congreso del Estado, cuando por el origen de la propuesta así corresponda, la reelección de un Magistrado;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXIX.- Proponer al Congreso del Estado la separación del cargo de un Magistrado que viole de manera grave los principios que rigen la función judicial de acuerdo al dictamen de evaluación a que se refiere la fracción XXIII de este artículo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXX.- Nombrar y remover al titular del Órgano encargado de la Mediación y la Conciliación y al titular del Órgano de Administración. Ambos durarán en su cargo 3 años y sólo podrán ser designados por otro periodo consecutivo;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXXI.- Presentar trimestralmente al Congreso del Estado, la Cuenta Pública del Poder Judicial y su concentrado anual, en la forma y términos que establezca la Ley; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XXXII.- Las demás que le señalen las leyes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 91.
+
+El Poder Judicial administrará con autonomía su presupuesto. El Consejo del Poder Judicial elaborará el anteproyecto de presupuesto del Poder Judicial y lo someterá a la aprobación del Pleno. Este será remitido por el Presidente del Supremo Tribunal de Justicia para su inclusión en el proyecto de Presupuesto de Egresos del Estado. El anteproyecto de Presupuesto comprenderá los ingresos propios del Poder Judicial para la constitución del Fondo Auxiliar para la impartición de Justicia.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 92.
+
+Los Magistrados, los Consejeros, los Jueces, los Secretarios y los Actuarios del Poder Judicial no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+###### ARTICULO 93.
+
+La Ley Orgánica del Poder Judicial, establecerá:
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+I.- La independencia de los Magistrados y Jueces en el ejercicio de sus funciones jurisdiccionales;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+II.- La estructura, integración, competencia y funcionamiento del Pleno del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+III.- La organización, competencia y funcionamiento de las Salas;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+IV.- La organización, competencia y funcionamiento de sus diferentes juzgados y órganos;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+V.- Las atribuciones del Presidente, de los Magistrados, de los jueces, del Consejo del Poder Judicial y de los demás servidores públicos;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+VI.- Los términos en que será obligatoria la jurisprudencia que establezca el Pleno del Supremo Tribunal de Justicia sobre interpretación de las Leyes, así como los requisitos para su interrupción o modificación;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+VII.- Las obligaciones que deben cumplir los servidores públicos del Poder Judicial y sus responsabilidades, a fin de salvaguardar la imparcialidad, legalidad, honradez, independencia, veracidad, lealtad, celeridad, eficiencia y eficacia en el desempeño de sus funciones; las sanciones disciplinarias que deban imponerse a quienes incumplan sus obligaciones; el procedimiento y los recursos que procedan contra las resoluciones que se dicten, así como la competencia respectiva de cada órgano;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+VIII.- La carrera judicial que fijará el catálogo de puestos, las bases para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+IX.- La observancia de los principios de excelencia, objetividad, imparcialidad, rectitud, probidad e independencia que regirán la carrera judicial;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y (sic)
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Supremo Tribunal de Justicia resolverá los conflictos laborales suscitados entre el Poder Judicial y sus servidores;
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+XII.- Las normas, criterios y procedimientos para la evaluación de jueces y Magistrados del Supremo Tribunal de Justicia, así como de los Consejeros del Poder Judicial y demás servidores judiciales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2010)</small>
+
+#### SECCION SEGUNDA. DE LOS JUECES QUE INTEGRAN EL PODER JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2010)</small>
+
+###### ARTICULO 94.
+
+Los jueces a que se refiere el artículo 39 de esta Constitución, serán nombrados por el Consejo del Poder Judicial atendiendo a las normas y procedimientos de la carrera judicial. Una vez nombrados, sólo podrán ser removidos de su cargo:
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+I.- Por la comisión de faltas administrativas que lo ameriten conforme a la Ley;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+II.- Por determinación del Consejo del Poder Judicial, que se funde en la inobservancia de los principios que rigen a la función judicial consignados en esta Constitución y en la Ley;
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+III.- Por enfermedad o incapacidad física que les impida ejercer el cargo; o
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+
+IV.- Por incurrir en responsabilidad en los términos de esta Constitución y de la Ley.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 95.
+
+La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para ser Juez.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO SEXTO. DEL PATRIMONIO Y DE LA HACIENDA PUBLICA DEL ESTADO
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO PRIMERO. DEL PATRIMONIO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 96.
+
+Los bienes que integran el patrimonio del Estado, son:
+
+I.- De dominio público; y,
+
+II.- De dominio privado.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 97.
+
+Son bienes de dominio público:
+
+I.- Los de uso común;
+
+II.- Los destinados por el Gobierno del Estado a los servicios públicos;
+
+III.- Los inmuebles y muebles de valor histórico y cultural que le pertenezcan; y,
+
+IV.- Los demás que señalen las Leyes respectivas.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 98.
+
+Son bienes de dominio privado del Estado los que ingresen a su patrimonio, no comprendidos en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO SEGUNDO. DE LA HACIENDA PUBLICA
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 99.
+
+La Hacienda Pública del Estado está constituída por:
+
+I.- Los ingresos que determinen las Leyes de la materia; y,
+
+II.- Los ingresos que adquiera por subsidios, participaciones, legados, donaciones o cualesquiera otra causa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+###### ARTICULO 100.
+
+El cobro y administración de los caudales públicos competen a la dependencia que señale la Ley Orgánica del Poder Ejecutivo. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 101.
+
+Todo empleado que maneje caudales Públicos del Estado, de los Municipios y de los Organismos Descentralizados, caucionará suficientemente su manejo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 102.
+
+Los Ordenamientos Fiscales señalarán la fuente de los Arbitrios y las Reglas Generales de Causación, Cobro y Recursos, en forma clara y sencilla. Estos Ordenamientos serán de estricta aplicación y no podrán extenderse a casos no exactamente previstos en los mismos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+La Ley de Ingresos será anual y en ella deberán consignarse solamente las tasas o valores de los conceptos del ingreso. La Ley del Presupuesto General de Egresos también será anual y deberá ser razonablemente proporcional a la estimación del ingreso, tomando en cuenta el correspondiente al año anterior.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+La vigencia anual, tanto de la Ley de Ingresos como de la Ley del Presupuesto General de Egresos tendrá como excepción lo previsto en la fracción XIII del Artículo 63 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO SEPTIMO. DE LA SEGURIDAD PUBLICA DEL ESTADO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 103.
+
+Para cooperar a la defensa de la República y para conservar el orden interior del Estado, habrá en él una Guardia Nacional, sujeta al Reglamento que para ese objeto expida el Congreso de la Unión.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 104.
+
+En el Estado, se integrarán los Cuerpos de Seguridad Pública necesarios para la protección de la paz y tranquilidad de los habitantes, que determinen las Leyes secundarias.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1995)</small>
+
+Para los mismos fines, el Ejecutivo del Estado con la corresponsabilidad de los Ayuntamientos, podrá autorizar el funcionamiento de servicios privados de seguridad, los que operarán en la forma y términos que determine la ley secundaria.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Estado, en coordinación con la federación y los Municipios, participará en el establecimiento de un Sistema Nacional de Seguridad Pública en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 105.
+
+El Gobernador del Estado es el Jefe Superior de la Guardia Nacional.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO OCTAVO. DEL MUNICIPIO LIBRE
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO PRIMERO. DE LOS MUNICIPIOS DEL ESTADO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 106.
+
+El Municipio Libre, base de la división territorial del Estado y de su organización política y administrativa, es una Institución de carácter público, constituída por una comunidad de personas, establecida en un territorio delimitado, con personalidad jurídica y patrimonio propio, autónomo en su Gobierno Interior y libre en la administración de su Hacienda.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+###### ARTICULO 107.
+
+Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayuntamientos se ejercerá en forma exclusiva y no habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO SEGUNDO. DEL GOBIERNO MUNICIPAL
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 108.
+
+Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Síndicos y Regidores que determine la Ley Orgánica, sin que el número total de miembros que los integren sea menor de ocho ni mayor de diecinueve.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Por cada Regidor y Síndico Propietario se elegirá un suplente. Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente y a falta de ambos, se procederá según lo disponga la Ley.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 109.
+
+En todos los Municipios, los Ayuntamientos serán electos por votación popular directa, de acuerdo con las normas que establezca la Ley de la materia, de conformidad con las siguientes Bases:
+
+I.- El Presidente Municipal y los Síndicos de los Ayuntamientos serán electos conforme al Principio de Mayoría Relativa; y,
+
+II.- Los Regidores serán electos por el Principio de Representación Proporcional, de acuerdo con lo que señale la Ley respectiva.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION SEGUNDA. DE LOS TITULARES DEL GOBIERNO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 110.
+
+Para ser Presidente Municipal, Síndico o Regidor, se requiere:
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
+
+II.- Tener, por lo menos, veintiún años cumplidos al día de la elección; y,
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+III.- Tener cuando menos dos años de residir en el municipio en donde deba desempeñar el cargo, al tiempo de la elección.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
+Los guanajuatenses que migren al extranjero tendrán derecho a que se les reconozca la residencia binacional, cuando así lo acrediten en los términos de la ley de la materia, pero en todo caso, para poder ser electos, deberán incorporarse al municipio por lo menos ciento ochenta días previos al de la elección.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 111.
+
+No podrán ser Presidentes Municipales, Síndicos o Regidores:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+I.- Los militares en servicio activo o el Secretario y Tesorero del Ayuntamiento a no ser que se separen de sus cargos cuando menos con sesenta días de anticipación al de la elección;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+II.- Los que sean Ministros de cualquier culto religioso en los términos que establezcan las leyes respectivas; y
+
+III.- Los integrantes de los Organismos Electorales en los términos que señale la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+###### ARTICULO 112.
+
+Los Concejos Municipales se compondrán por el mismo número de miembros que la Ley determine para la integración de los Ayuntamientos.
+
+Si alguno de los integrantes propietarios del Concejo Municipal dejare de desempeñar su cargo, será sustituido por el suplente establecido en el decreto de designación y a falta de ambos, se procederá según lo disponga la Ley.
+
+Para ser miembro de un Concejo Municipal deberán satisfacerse los requisitos que señalan los artículos anteriores.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 113.
+
+Los Presidentes Municipales, Regidores o Síndicos electos popularmente, durarán en su encargo tres años y no podrán ser reelectos para el mismo cargo en el período inmediato. Los Miembros de los Concejos Municipales no podrán ser electos para el período inmediato.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 114.
+
+Ninguno de los Funcionarios Municipales mencionados en el artículo anterior, cuando hayan tenido el carácter de Propietarios, podrán ser electos para el período inmediato como Suplentes, pero éstos sí podrán ser electos para el período inmediato como Propietarios, a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 115.
+
+Ningún ciudadano puede renunciar ni excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo por causa justificada, a juicio del Congreso del Estado, o de la Diputación Permanente, en su caso.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 116.
+
+Los ciudadanos que hayan sido electos en los comicios o, en su caso, los miembros del Concejo Municipal que designe el Congreso, se reunirán para iniciar actividades el día 10 de octubre siguiente a la fecha de la elección.
+
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+
+#### SECCION TERCERA. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 117.
+
+A los Ayuntamientos compete:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- Aprobar, de acuerdo con las Leyes en materia municipal que expida el Congreso del Estado; los Bandos de Policía y Gobierno, Reglamentos, Circulares y disposiciones administrativas de observancia general; que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Ejercer, en los términos de las Leyes federales y estatales, las siguientes facultades:
+
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia;
+
+b).- Participar en la creación y administración de sus reservas territoriales;
+
+c).- Formular los Planes Municipales de Desarrollo, de conformidad con lo dispuesto por esta Constitución, así como participar en la formulación de Planes de Desarrollo Regional, los cuales deberán estar en concordancia con los planes generales de la materia;
+
+d).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e).- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f).- Autorizar divisiones, fusiones, lotificaciones y fraccionamientos de bienes inmuebles, así como otorgar licencias y permisos para construcciones;
+
+g).- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento y fomento en esta materia;
+
+h).- Intervenir, cuando no sea de su competencia exclusiva, en la formulación y aplicación de programas de transporte público de pasajeros, cuando aquellos afecten su ámbito territorial; y
+
+i).- Celebrar convenios para la administración y custodia de las zonas federales.
+
+Asimismo, expedir en lo conducente, los reglamentos y disposiciones administrativas necesarios, de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
+
+III.- Prestar los siguientes Servicios Públicos:
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales;
+
+b).- Alumbrado Público;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+c).- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+
+d).- Mercados y Centrales de Abastos;
+
+e).- Panteones;
+
+f).- Rastros;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+g).- Calles, parques y jardines y su equipamiento;
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+h).- Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+i).- Transporte público urbano y suburbano en ruta fija; y
+
+j).- Las demás que determine la Ley.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los Municipios, con sujeción a la Ley, prestarán los servicios públicos en forma directa o indirecta;
+
+IV.- Formular y aprobar sus Tarifas de Abastos y de los Servicios Públicos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- Crear, en los términos de la Ley, organismos públicos descentralizados, empresas de participación municipal mayoritaria y fideicomisos públicos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI.- Ejercer las funciones o la prestación de los servicios públicos municipales observando lo dispuesto por las Leyes federales y estatales;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2008)</small>
+
+VII.- Formular y aprobar su Presupuesto de Egresos correspondiente al siguiente año fiscal, con base en sus ingresos disponibles, enviando copia certificada al Congreso del Estado de dicho Presupuesto y de su pronóstico de ingresos.
+
+En dicho Presupuesto, se deberán autorizar las erogaciones plurianuales para aquellos proyectos de inversión pública con participación de recursos federal o estatal, que se determinen conforme a lo dispuesto en la Ley; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos.
+
+En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no hubiese aprobado el Presupuesto de Egresos, en tanto sea aprobado, en lo conducente se continuará aplicando el vigente en el año inmediato anterior.
+
+Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+La administración municipal centralizada y paramunicipal, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a lo dispuesto por el artículo 134 de esta Constitución;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VIII.- Proponer al Congreso del Estado, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señale la Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
+
+En tanto los Ayuntamientos no cumplan con lo dispuesto por el párrafo anterior, no podrán aprobar su Presupuesto de Egresos;
+
+IX.- La ejecución de todas las disposiciones relativas a la higiene urbana y la salubridad pública;
+
+X.- La realización de las funciones electorales, federales y estatales, de conformidad a las Leyes de la materia; y (sic),
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XI.- Celebrar convenios en los términos que señale la Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XII.- Emitir las resoluciones que afecten el patrimonio municipal, en los términos de Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIII.- Solicitar al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, que declare que el Municipio está imposibilitado para prestar un servicio público o ejercer una función;
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIV.- Celebrar convenios de coordinación y asociación con otros Municipios para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Para convenir con Municipios de otras entidades federativas, deberán contar con la previa autorización del Congreso del Estado.
+
+Asimismo, los Ayuntamientos podrán convenir con el Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de los servicios públicos o funciones de su competencia; o bien para que el servicio o la función se preste coordinadamente entre el Estado y el Municipio;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XV.- Dar cumplimiento a las resoluciones derivadas de los procesos de referéndum o plebiscito;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XVI.- La policía preventiva estará al mando del presidente municipal en los términos de las leyes de la materia. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2010)</small>
+
+XVII.- Las demás facultades y obligaciones que les señale la ley.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+La justicia administrativa en los municipios del Estado se impartirá a través de un órgano jurisdiccional administrativo de control de legalidad en los municipios, dotado de autonomía para dictar sus fallos; y cuya actuación se sujetará a los principios de igualdad, publicidad, audiencia y legalidad. La competencia, funcionamiento e integración de dicho órgano jurisdiccional se establecerán en la Ley Orgánica Municipal.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Los reglamentos y demás disposiciones de carácter general, así como los actos de gobierno de los Ayuntamientos que se consideren trascendentes para el orden público y el interés social de los municipios, con excepción de los reglamentos que se refieran a la organización y estructura del ayuntamiento y de la administración pública municipal y de los bandos de policía y buen gobierno, de las disposiciones de carácter financiero, de los nombramientos o destitución de los titulares de las dependencias y entidades de la administración pública municipal, podrán ser sometidos a referéndum o plebiscito, a solicitud de los Ayuntamientos o de los ciudadanos en los términos de la Ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Además de los señalados en el párrafo anterior, la Ley establecerá las materias de excepción, así como los requisitos y procedimientos para su ejecución y condiciones para que el resultado sea vinculatorio para los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto o acuerdo abrogatorio o derogatorio, resultado del plebiscito o referéndum, no podrá expedirse decreto o acuerdo en el mismo sentido del abrogado o derogado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Salvo en el caso de que el plebiscito sea solicitado por el ayuntamiento, el procedimiento no suspenderá los efectos del acto o decisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el acto o decisión del Ayuntamiento, éste emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de treinta días.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO TERCERO. DEL PATRIMONIO Y HACIENDA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 118.
+
+Los bienes que conforman el Patrimonio Municipal, son:
+
+I.- De dominio público; y,
+
+II.- De dominio privado.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 119.
+
+Son bienes de dominio público:
+
+I.- Los de uso común;
+
+II.- Los inmuebles destinados a un servicio público;
+
+III.- Los inmuebles y muebles de valor histórico y cultural que le pertenezcan; y,
+
+IV.- Los demás que señalen las Leyes.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 120.
+
+Son bienes del dominio privado los que ingresen a su patrimonio, no comprendidos en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 121.
+
+Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor, y en todo caso:
+
+a).- Percibirán las contribuciones, incluyendo tasas adicionales, que se establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar Convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+b).- Las participaciones y apoyos federales, que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que determine el Congreso del Estado.
+
+c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Las Leyes no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+## TITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2008)</small>
+
+###### ARTICULO 122.
+
+Para los efectos de las responsabilidades a que alude este Título, se reputarán como Servidores Públicos a los representantes de elección popular, a los Miembros del Poder Judicial, a los Funcionarios y Empleados del Estado y de los Municipios, y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública, Estatal o Municipal, así como en los organismos a los que esta Constitución y la Ley otorguen autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+
+Los Servidores Públicos, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+
+La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente público estatal o municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 123.
+
+Los Servidores Públicos son responsables por los delitos que cometan y por las faltas administrativas en que incurran, en los términos que señalen las Leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)</small>
+
+El Estado y sus Municipios son responsables en forma directa y objetiva de los daños que, con motivo de su actividad administrativa irregular, ocasionen a los particulares en sus bienes o derechos, por lo que el afectado tendrá derecho a recibir una indemnización, que se determinará conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 124.
+
+El Gobernador del Estado, los Diputados Locales y los Magistrados del Supremo Tribunal de Justicia, podrán ser sujetos a juicio político en los términos de los Artículos 109, 110 y 114 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Si se recibiere resolución de la Cámara de Senadores, el Congreso del Estado, en ejercicio de sus atribuciones, procederá como corresponda.
+
+Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 125.
+
+Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 126.
+
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos, los Consejeros Ciudadanos integrantes del Organo Estatal de Dirección del Organismo Autónomo Electoral, a que se refiere el artículo 31 de esta Constitución, los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Estatal Electoral, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+El Gobernador del Estado, a partir de la declaratoria de su elección y hasta la terminación de su encargo, sólo podrá ser acusado por delitos graves de orden común.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 127.
+
+La resolución que dicte el Congreso no prejuzga sobre los fundamentos de la acusación.
+
+La prescripción de la acción penal no corre en favor de los Funcionarios a que se refiere el artículo anterior, en tanto gocen del Fuero constitucional.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 128.
+
+Si la resolución del Congreso declara que ha lugar a la acusación, por este solo hecho el Funcionario queda suspendido de su cargo, privado del Fuero constitucional y a disposición de las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 129.
+
+La Ley determinará los casos y las circunstancias en los que se deba sancionar penalmente, por causa de enriquecimiento ilícito, a los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 130.
+
+En las demandas del Orden Civil, no hay fuero ni inmunidad para ningún Funcionario ni Empleado Público.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO DECIMO. PREVENCIONES GENERALES
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2009)</small>
+
+###### ARTICULO 131.
+
+Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos.
+
+Todo cargo de elección popular es incompatible con cualquiera de la Federación, del Estado, de los municipios, organismos públicos autónomos o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero.
+
+No podrá reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero, exceptuándose los cargos docentes. La infracción a esta disposición será motivo de responsabilidad y será castigada conforme a lo establecido en la Ley de Responsabilidades Administrativas de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+###### ARTICULO 132.
+
+Todo funcionario o empleado público recibirá por sus servicios, el sueldo o salario determinado por la Ley, mismo que no podrá ser renunciable. Los cargos de los funcionarios electorales y censales, serán obligatorios y gratuitos sólo serán remunerados aquellos que se presten profesionalmente en los términos que establezcan las Leyes de la materia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 133.
+
+Si el Senado de la República, en ejercicio de sus atribuciones constitucionales, declara desaparecidos los Poderes del Estado de Guanajuato, por el voto de la mayoría de los Presidentes Municipales de la Entidad, será nombrado un Gobernador Provisional, quien, de inmediato, convocará a elecciones, las que se celebrarán en un plazo que no podrá exceder de tres meses, contado a partir de la declaratoria de desaparición de Poderes.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 134.
+
+No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o en Ley posterior.
+
+El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que está establecido por la Ley; y en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalado la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
+
+Dicha remuneración deberá ser equitativa a sus responsabilidades y será determinada anualmente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente. Lo mismo deberá ser observado cuando se trate del Presidente Municipal en el ámbito de su competencia.
+
+III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 131 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función.
+
+En ningún caso el excedente a que se refiere el párrafo anterior podrá ser superior a la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
+
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI.- El Congreso del Estado y los Ayuntamientos en el ámbito de sus competencias, expedirán las leyes o reglamentos para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 135.
+
+Los contratos que tengan que celebrarse para la ejecución de obras públicas, serán adjudicados en Concurso Público, mediante convocatoria, en la que se presenten propuestas en sobres cerrados, que serán abiertos en Junta Pública, con las excepciones que la Ley secundaria señale.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 136.
+
+La infracción de cualquier precepto constitucional, generará acción popular contra el infractor.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 137.
+
+Las Leyes del Estado de Guanajuato, incluyendo las que se refieren al estado y capacidad de las personas, se aplicarán a todos los habitantes del mismo, sean domiciliados o transeúntes; pero tratándose de personas de nacionalidad extranjera se cumplirá con lo que dispongan las Leyes Federales sobre la materia.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 138.
+
+Con excepción de lo relativo a los bienes señalados en el siguiente artículo, los actos jurídicos en todo lo correspondiente a su forma se regirán por las Leyes del lugar en donde se celebren; sin embargo, los otorgantes residentes fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por las Leyes guanajuatenses, cuando el acto haya de tener ejecución dentro de este Estado.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 139.
+
+Los bienes muebles e inmuebles sitos en el Estado, se regirán por las Leyes locales.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 140.
+
+La voluntad de los particulares no puede eximir de la observancia de la Ley ni alterarla o modificarla.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 141.
+
+Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos si las mismas Leyes no disponen otra cosa.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+## TITULO DECIMO PRIMERO. DE LAS REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 142.
+
+Esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, serán la Ley Suprema del Estado de Guanajuato.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+
+###### ARTICULO 143.
+
+En todo tiempo puede ser reformada o adicionada la presente Constitución. Para que las adiciones o reformas lleguen a ser parte de la misma, es indispensable que el Congreso las apruebe por el voto de cuando menos el setenta por ciento de sus miembros y, además, sean aprobadas por la mayoría de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndum por los diputados, los Ayuntamientos o los ciudadanos, en los términos que ésta y la Ley correspondiente establezcan. En el caso de los ciudadanos, éstos deberán representar cuando menos el diez por ciento de los inscritos en el listado nominal de electores correspondiente a la Entidad.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+La resolución derivada del referéndum será vinculatoria cuando en el proceso hayan participado al menos el sesenta por ciento de los ciudadanos inscritos en el listado nominal del Estado, y de ellos al menos el sesenta por ciento se manifiesten en el mismo sentido.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Si el resultado del referéndum es en el sentido de desaprobar la reforma o adición, el Congreso del Estado emitirá el decreto derogatorio que proceda en un plazo no mayor de quince días si se encuentra en periodo ordinario, o bien si se encuentra en receso, en la segunda sesión del periodo ordinario inmediato subsecuente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto derogatorio, resultado de un proceso de referéndum, no podrá expedirse reforma o adición en el mismo sentido de la derogada, salvo cuando la Constitución Política de los Estados Unidos Mexicanos imponga la obligación de hacer adecuaciones al marco constitucional local.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 144.
+
+Si por algún trastorno público dejare de regir en la República la Constitución Federal y, entre tanto el orden se restablece, el Estado de Guanajuato se gobernará solamente por la presente Constitución y por las Leyes que de ella emanen.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+
+###### ARTICULO 145.
+
+Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier causa se interrumpa su observancia en alguna o en algunas de las poblaciones del Estado. Tan luego como desaparezca el motivo, se restablecerá su observancia.
+
+## Artículos transitorios.
+
+Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y será protestada con la mayor solemnidad.
+
+Art. 2º La XXVI Legislatura concluirá su período el 14 de septiembre de 1918.
+
+Art. 3º El período Constitucional de los Magistrados que deben componer el Supremo Tribunal de Justicia, para funcionar conforme al artículo 61 de esta Constitución, concluirá el día 31 de diciembre de 1917.
+
+Art. 4º En virtud de haber sido derogado por el artículo 63, fracción I de esta Carta Fundamental, el recurso de casación, el Supremo Tribunal de Justicia solamente tramitará y resolverá los recursos de esta categoría que se hubieren interpuesto antes de la vigencia de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 1970)</small>
+
+Art. 5º Por una sola vez, circunscrita a los casos que en seguida se enumeran, la periodicidad establecida por los artículos 35 y 76 de la Constitución Política del Estado, para la elección de Diputados a la Legislatura Local y para Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, se regirá por los términos siguientes:
+
+I.- Los Diputados que se elijan el primer domingo de julio de 1971 para integrar la XLVIII Legislatura local, durarán 2 años en su cargo;
+
+II.- Los Presidentes Municipales, los Síndicos y los Regidores que se elijan el tercer domingo de diciembre de 1972, para integrar los diversos Ayuntamientos del Estado, durarán un año en su cargo.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 1970)</small>
+
+Art. 6º La Ley Electoral del Estado proveerá lo necesario en cada caso, a fin de que estas disposiciones tengan un exacto cumplimiento, y para que la modificación a la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las dos fracciones del artículo anterior.
+
+Dada en Guanajuato, a los tres días del mes de septiembre del año de mil novecientos diecisiete.- Presidente, Lic. José M. Ortega, Diputado por el 2º Distrito.- Vice-Presidente, Lic. Catarino Juárez, Diputado por el 9º Distrito.- Primer Secretario, Zabulón Puente, Diputado pon (sic) el 3er Distrito.- Segundo Secretario, J. Cruz Torres jr., Diputado Suplente por el 8º Distrito.- Dr. Luis P. Bustamante, Diputado por el 1er. Distrito.- Dr. Anastasio López Escobedo, Diputado por el 4º Distrito.- J. Trinidad Covarrubias, Diputado por el 5º Distrito.- José J. López. Diputado por el 6º Distrito.- Bartolomé Gutiérrez L., Diputado suplente por el 7º Distrito.- Alfonso Ayala, Diputado por el 10º Distrito.- Juan Barrón, Diputado por el 11º Distrito.- Jesús Delgado, Diputado por el 12º Distrito.- Arnulfo M. Miranda, Diputado por el 13º Distrito.- Ricardo A. Alamán, Diputado por el 14º Distrito.- Manuel Delgado, Diputado por el 15º Distrito."
+
+Por tanto, mando se imprima, publique por bando solemne y circule para su debido cumplimiento.
+
+Dada en Guanajuato, a los tres días del mes de septiembre de mil novecientos diez y siete.
+
+Agustín Alcocer.
+
+El Secretario General del Despacho.
+
+Lic. Francisco Espinosa.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+
+P.O. 23 DE MARZO DE 1919.
+
+Artículo Segundo.- Las anteriores reformas surtirán sus efectos desde el día de la promulgación del presente Decreto, que se hará por bando solemne el 10 del mes actual.
+
+P.O. 30 DE NOVIEMBRE DE 1919.
+
+I.- El Presupuesto General del Estado que actualmente rige, solamente seguirá en vigor hasta el 31 de diciembre del año en curso.
+
+II.- Se faculta al Ejecutivo para que reforme, por lo que hace a plazos y fechas, los artículos de la Ley de Hacienda del Estado y demás relativos que pugnen con el exacto cumplimiento de esta Ley.
+
+P.O. 24 DE NOVIEMBRE DE 1921.
+
+Artículo segundo:- Las reformas a que se refiere la presente Ley, comenzarán a surtir sus efectos desde el día de su publicación.
+
+P.O. 28 DE MAYO DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 31 DE DICIEMBRE DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 22 DE MAYO DE 1924.
+
+###### ARTICULO SEGUNDO
+
+La presente reforma surtirá sus efectos desde la fecha de su promulgación.
+
+P.O. 8 DE JUNIO DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 9 DE NOVIEMBRE DE 1924.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 8 DE SEPTIEMBRE DE 1929.
+
+REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 14 DE ENERO DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 28 DE ABRIL DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 15 DE ENERO DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 7 DE SEPTIEMBRE DE 1933.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 10 DE JULIO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 30 DE MARZO DE 1941.
+
+Artículo Segundo: Este Decreto se publicará por bando solemne en todo el Estado.
+
+P.O. 28 DE MARZO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 11 DE MAYO DE 1944.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 3 DE JUNIO DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 19 DE AGOSTO DE 1945.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 19 DE ENERO DE 1950.
+
+Este Decreto surtirá efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 1951.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁ APLICABLE SUPLETORIAMENTE EL ARTÍCULO 2° DEL CÓDIGO CIVIL VIGENTE.
+
+P.O. 23 DE JULIO DE 1959.
+
+Unico.- Este Decreto entrará en vigor, a partir del día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1961.
+
+###### Artículo 1o.
+
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### Artículo 2o.
+
+Quedarán sin efecto los nombramientos de Magistrado Propietarios y Supernumerarios, hechos por la Legislatura del Estado funcionando en Colegio Electoral, salvo que sean reelectos al ser nombrados los Magistrados Propietarios en los términos del artículo 32, que se reforma, de la Constitución Política del Estado.
+
+###### Artículo 3o.
+
+Los Jueces de Partido y Municipales actualmente en ejercicio cesarán en sus cargos, salvo que sean reelectos al hacerse los nombramientos en los términos del artículo 32, que se reforma, de esta Constitución.
+
+###### Artículo 4o.
+
+Cuando las designaciones recaigan en Jueces de Partido que tengan más de dos años en el desempeño de su cargo, sólo podrán ser privados de él en los términos del artículo 66, que se reforman, de la Constitución Local.
+
+###### Artículo 5o.
+
+Los asuntos que actualmente se tramitan en las Salas Unitarias del Supremo Tribunal de Justicia del Estado, se distribuirán entre los Magistrados de las Colegiadas, de cada Ramo, en igual número, para la sustanciación de los mismos o su resolución por las Salas, según proceda, de conformidad con la Ley Orgánica del Poder Judicial del Estado.
+
+###### Artículo 6o.
+
+Los procesos penales que actualmente se tramitan en primera instancia, en las Salas Unitarias del Supremo Tribunal, pasarán a los Juzgados de Partido a quienes corresponda el conocimiento, y los que estén pendientes de sentencia por el Tribunal Pleno, en segunda instancia, pasarán a la Sala Penal.
+
+P.O. 7 DE JULIO DE 1963.
+
+Artículo Primero.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los tres Magistrados Propietarios que se nombren, para dar cumplimiento al precepto que se reforma, integrarán la Segunda Sala Penal Colegiada del Supremo Tribunal de Justicia del Estado.
+
+Artículo Tercero.- Los asuntos que actualmente se tramitan en la Sala Penal Colegiada del Supremo Tribunal de Justicia del Estado, se distribuirán entre los Magistrados de las Salas Primera y Segunda del propio Ramo, en igual número, para la substanciación de los mismos o su resolución por dichas Salas, según proceda, de conformidad con la Ley Orgánica del Poder Judicial del Estado.
+
+P.O. 16 DE ENERO DE 1966.
+
+UNICO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE OCTUBRE DE 1967.
+
+###### ARTICULO 1o.
+
+Estas reformas a la Constitución entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2o.
+
+Los Magistrados del Supremo Tribunal, los Jueces de Partido y los Municipales actualmente en funciones, concluirán su encargo el 31 de diciembre de 1967.
+
+###### ARTICULO 3o.
+
+Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 12 DE MAYO DE 1968.
+
+UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 1970.
+
+UNICO.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1970.
+
+###### ARTICULO SEGUNDO.
+
+Estas adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1973.
+
+###### ARTICULO UNICO.
+
+Las reformas a la Constitución Política del Estado Libre y Soberano de Guanajuato, contenidas en este decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1973.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1974.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones de las leyes secundarias que se opongan a las contenidas en este decreto.
+
+P.O. 31 DE DICIEMBRE DE 1975.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MARZO DE 1976.
+
+###### ARTICULO UNICO.
+
+Las reformas y adiciones a la Constitución Política del Estado de Guanajuato que se contienen en este Decreto, surtirán efecto el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE JULIO DE 1977.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá efectos efectos (sic) a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE JUNIO DE 1978.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor a los 3 días de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1978.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1979.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Las reformas a la Constitución Política del Estado de Guanajuato que se contiene en este Decreto, surtirán efectos el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las atribuciones, facultades y disposiciones que en la Legislación vigente en el Estado se confieren a las diversas dependencias del Poder Ejecutivo o a sus titulares, conforme a las anteriores denominaciones se asignan expresamente a las nuevas dependencias y titulares a que se refiere la Ley Orgánica del Poder Ejecutivo.
+
+###### ARTICULO TERCERO.
+
+En consecuencia, la Secretaría de Finanzas, la Secretaría de Desarrollo Urbano y Obras Públicas y la Secretaría de Educación y Servicios Sociales, tendrán todas las facultades, atribuciones y responsabilidades que correspondían a la Tesorería General del Estado, a la Dirección General de Obras Públicas y a la Dirección General de Educación Pública, respectivamente, salvo las que expresamente se confieren en la vigente Ley Orgánica del Poder Ejecutivo a cualquier otra dependencia.
+
+P.O. 22 DE OCTUBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE FEBRERO DE 1984.
+
+###### ARTICULO PRIMERO.
+
+Las reformas y adiciones a la Constitución Política del Estado de Guanajuato, que se contienen en este Decreto, entrarán en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTICULO SEGUNDO.
+
+(DEROGADO, P.O. 15 DE NOVIEMBRE DE 1994)
+
+###### ARTICULO TERCERO.
+
+En los casos en que la Ley Secundaria se refiera a los Jueces Municipales, se entenderá que alude a los Jueces Menores que menciona este Decreto.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1987)</small>
+
+###### ARTICULO CUARTO.
+
+Los diputados que se elijan a la Quincuagésima Cuarta Legislatura del H. Congreso del Estado, durarán en funciones del 15 de septiembre de 1988 al 24 de septiembre de 1991.
+
+P.O. 27 DE DICIEMBRE DE 1985.
+
+DECRETO No. 5
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1985.
+
+DECRETO No. 6
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En todos los casos en que las leyes secundarias reglamentarias o cualesquiera otras disposiciones de carácter general se refieran a la Secretaría General del Gobierno o a la Secretaría de Finanzas, se entenderá que aluden a la Secretaría de Gobierno y a la Secretaría de Administración Financiara que se mencionan en el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 1987.
+
+DECRETO No. 136.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas a los artículos 55 de la Constitución y Segundo Transitorio de la misma, surtirán sus efectos a partir del 15 de septiembre de 1989.
+
+###### ARTICULO TERCERO.
+
+El Artículo Cuarto Transitorio, surtirá sus efectos a partir del 15 de septiembre de 1988.
+
+P.O. 23 DE OCTUBRE DE 1987.
+
+DECRETO No. 137.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JUNIO DE 1988.
+
+DECRETO No. 181.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE JUNIO DE 1988.
+
+DECRETO No. 182.
+
+###### ARTICULO PRIMERO.
+
+No se aplicará retroactivamente a los Magistrados que se encuentren en funciones, lo establecido por el artículo 86 reformado, de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE AGOSTO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+LO PREVISTO EN LA FRACCION I DEL ARTICULO QUE REFORMA ESTE DECRETO, ENTRARA EN VIGOR EL DIA 3 DE SEPTIEMBRE DE 1994.
+
+P.O. 15 DE NOVIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+###### ARTICULO SEGUNDO.
+
+EL GOBERNADOR DEL ESTADO QUE SE ELIJA POPULARMENTE CON POSTERIORIDAD A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, DURARA EN FUNCIONES HASTA EL 25 DE SEPTIEMBRE DEL AÑO 2000.
+
+###### ARTICULO TERCERO.
+
+LOS AYUNTAMIENTOS QUE SE ELIJAN EN JULIO DE 1997 O, EN SU CASO, LOS MIEMBROS DEL CONCEJO MUNICIPAL QUE DESIGNE EL CONGRESO, DURARAN EN FUNCIONES DEL 1o. DE ENERO DE 1998 AL 9 DE OCTUBRE DEL AÑO 2000.
+
+###### ARTICULO CUARTO.
+
+EN TANTO SE CREA EL REGISTRO ESTATAL DE ELECTORES, QUEDARAN VIGENTES LOS CONVENIOS QUE SE TENGAN CELEBRADOS CON LA FEDERACION PARA EL USO DEL PADRON ELECTORAL, LAS LISTAS NOMINALES DE ELECTORES Y LA CREDENCIAL PARA VOTAR CON FOTOGRAFIA, EXPEDIDAS Y ELABORADAS POR LA AUTORIDAD ELECTORAL FEDERAL COMPETENTE.
+
+###### ARTICULO QUINTO.
+
+LAS REFORMAS CONTENIDAS EN ESTE DECRETO NO SERAN APLICABLES EN NINGUNA DE SUS ETAPAS AL PROCESO ELECTORAL DE RENOVACION DE AYUNTAMIENTOS A CELEBRARSE EL 4 DE DICIEMBRE DE 1994. LA CITADA ELECCION SE REGIRA POR LAS NORMAS CONSTITUCIONALES Y ORDINARIAS VIGENTES CON ANTERIORIDAD A ESTA REFORMA.
+
+###### ARTICULO SEXTO.
+
+SE DEJA SIN EFECTO, LA MINUTA PROYECTO DE DECRETO, NO PROMULGADA NI PUBLICADA, QUE REFORMA LOS ARTICULOS 17, EN SU PRIMER Y SEGUNDO PARRAFO; 42; 44 EN SUS FRACCIONES I Y IV; 46 EN SU FRACCION II; 48; 51; 63 EN SUS FRACCIONES VIII, IX Y X; 65 EN SU FRACCION III; 69 EN SUS FRACCIONES I Y II; 108 EN SU PRIMER PARRAFO; 111 EN SU FRACCION II; 116 Y 126; QUE ADICIONA LOS ARTICULOS 31 CON SUS PARRAFOS SEGUNDO A DECIMO CUARTO Y 63 EN SU FRACCION VIII CON SUS PARRAFOS SEGUNDO Y TERCERO Y EN SU FRACCION XXI, CON UN PARRAFO TERCERO; Y DEROGA EL PARRAFO TERCERO DEL ARTICULO 17 Y EL ARTICULO SEGUNDO TRANSITORIO DE LA CONSTITUCION POLITICA DEL ESTADO DE GUANAJUATO, APROBADA POR EL CONSTITUYENTE PERMANENTE Y DECLARADA POR LA H. QUINCUAGESIMA QUINTA LEGISLATURA, EN LA SESION DE FECHA 8 DE JULIO DE 1994.
+
+P.O. 24 DE MARZO DE 1995.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 24 DE DICIEMBRE DE 1996.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente a su publicación el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las disposiciones relativas a la integración y funcionamiento del Consejo del Poder Judicial, entrarán en vigor el 1o. de abril de 1997.
+
+Artículo Tercero.- Para los efectos del artículo 87 de esta Constitución que se reforma, corresponderá al Consejo del Poder Judicial iniciar los turnos alternativos para proponer al Congreso del Estado, el nombramiento de Magistrados.
+
+Artículo Cuarto.- Los Consejeros que integrarán el primer Consejo del Poder Judicial tendrán la siguiente duración en su cargo: el Juez de Partido un año; el Consejero Magistrado propuesto por el Ejecutivo dos años; el Consejero Magistrado propuesto por el Poder Judicial tres años y el Consejero Magistrado designado por el Poder Legislativo cuatro años.
+
+Artículo Quinto.- El actual Presidente del Supremo Tribunal de Justicia durará en su cargo hasta la primera sesión del Pleno del Supremo Tribunal de Justicia, que se celebrará en el mes de enero de 1998.
+
+En la elección de Presidente del Supremo Tribunal de Justicia que tendrá lugar en el mes de enero de 1998, en los términos del artículo 84 de esta Constitución que se reforma, serán elegibles todos los Magistrados Propietarios.
+
+Artículo Sexto.- Los Magistrados que actualmente integran el Supremo Tribunal de Justicia durarán en su cargo seis años a partir de la fecha de su nombramiento.
+
+P.O. 18 DE JUNIO DE 1999.
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Congreso del Estado, deberá establecer el procedimiento y condiciones en que el Ejecutivo del Estado transfiera a los Municipios el servicio público de transporte de pasajeros, urbano y suburbano en ruta fija y realizar las adecuaciones necesarias a las Leyes en materia de transporte, conforme a lo dispuesto en este decreto, a más tardar en un año a partir de su entrada en vigor.
+
+Artículo Tercero.- La derogación a la fracción V del artículo 63 entrará en vigor 180 días posteriores a la fecha de publicación del presente decreto.
+
+Los procedimientos fundados en la fracción V del artículo 63 que se encuentren en trámite ante el Congreso del Estado, continuarán desahogándose en los términos acordados por él mismo.
+
+Artículo Cuarto.- La fracción XV del artículo 89 entrará en vigor 180 días posteriores a la fecha de publicación del presente decreto. En ese término se adecuarán las Leyes respectivas para establecer la substanciación del procedimiento.
+
+P.O. 19 DE ABRIL DE 2002.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Congreso del Estado emitirá la Ley que regule los mecanismos de participación ciudadana establecidos en el presente decreto a más tardar en seis meses contados a partir de su entrada en vigor.
+
+P.O. 15 DE ABRIL DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+El Órgano de Fiscalización Superior, iniciará su funcionamiento el 1º primero de enero del año 2004 dos mil cuatro, previa publicación de su Ley Reglamentaria.
+
+Las referencias a la Contaduría Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior.
+
+###### ARTÍCULO TERCERO.
+
+En tanto el Órgano de Fiscalización Superior no empiece a ejercer las atribuciones a que se refiere este Decreto, la Contaduría Mayor de Hacienda continuará ejerciendo las atribuciones que actualmente tiene conforme al Artículo 66 de la Constitución Política del Estado, antes de su reforma, y de la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, así como de la Ley Reglamentaria de la Contaduría Mayor de Hacienda del Congreso del Estado de Guanajuato y demás disposiciones jurídicas aplicables vigentes hasta antes de la entrada en funciones del Órgano de Fiscalización Superior.
+
+###### ARTÍCULO CUARTO.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda no serán afectados en sus derechos laborales con motivo de la entrada en vigor de este Decreto y de las leyes que en consecuencia se emitan.
+
+Una vez creado el Órgano de Fiscalización Superior, todos los recursos materiales y patrimoniales de la Contaduría Mayor de Hacienda, pasarán a formar parte de dicho Órgano.
+
+P.O. 23 DE DICIEMBRE DE 2003.
+
+Artículo Primero.- El presente decreto entrará en vigor el día 1º primero de enero del 2004 dos mil cuatro.
+
+Artículo Segundo.- El Estado y los Municipios deberán contemplar en sus respectivos presupuestos de egresos, a partir de los correspondientes al ejercicio fiscal del 2004 dos mil cuatro, una partida especial para hacer frente a su responsabilidad patrimonial.
+
+Artículo Tercero.- La reforma al artículo 51 entrará en vigor a partir del 25 veinticinco de septiembre del año 2004 dos mil cuatro.
+
+P.O. 18 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ayuntamiento de San Miguel de Allende se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Allende, a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y de su dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1.- A los cuarenta y seis Ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1.- Titular del Poder Ejecutivo Estatal;
+
+2.- Entidades de la Administración Pública Estatal;
+
+3.- Pleno del Supremo Tribunal de Justicia y Consejo del Poder Judicial del Estado; y
+
+4.- Organismos Autónomos.
+
+Federales:
+
+1.- Titular del Poder Ejecutivo Federal;
+
+2.- Entidades de la Administración Pública Federal;
+
+3.- Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4.- Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5.- Tribunal Federal de Justicia Fiscal y Administrativa; y
+
+6.- Organismos Autónomos.
+
+###### ARTÍCULO CUARTO.
+
+Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Allende, se entenderán hechas al Municipio de San Miguel de Allende.
+
+###### ARTÍCULO QUINTO.
+
+El Ayuntamiento de San Miguel de Allende realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2005.
+
+Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- El Ayuntamiento de Dolores Hidalgo Cuna de la Independencia Nacional, se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Dolores Hidalgo, a la entrada en vigor del presente Decreto.
+
+Tercero.- Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y de su dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1.- A los cuarenta y seis ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1.- Titular del Poder Ejecutivo Estatal;
+
+2.- Entidades de la Administración Pública Estatal;
+
+3.-Pleno del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado, y
+
+4.- Organismos Autónomos.
+
+Federales:
+
+1.- Titular del Poder Ejecutivo Federal;
+
+2.- Entidades de la Administración Pública Federal;
+
+3.- Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4.- Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5.- Tribunal Federal de Justicia Fiscal y Administrativa, y
+
+6.- Organismos Autónomos.
+
+Cuarto.- Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Dolores Hidalgo, se entenderá hecha al Municipio de Dolores Hidalgo Cuna de la Independencia Nacional.
+
+Quinto.- El ayuntamiento de Dolores Hidalgo Cuna de la Independencia Nacional, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus reglamentos municipales, bandos de policía y buen gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 16 DE JUNIO DE 2006.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, para el efecto de que el Congreso del Estado emita las leyes que lo reglamente. El Congreso habrá de aprobar las leyes respectivas antes del 31 de agosto del presente año.
+
+Artículo Segundo. El sistema a que se refiere el artículo 13 que se reforma mediante el presente operará a partir del 12 doce de septiembre del año 2006 dos mil seis.
+
+Artículo Tercero. En la Ley se precisará la situación jurídica que deberá corresponder a las personas que encontrándose bajo los supuestos a que se contrae el presente decreto, estén siendo objeto de tratamiento previsto por la Ley de Justicia para Menores; de averiguación previa; de proceso judicial o de ejecución de sentencia, en el momento en que entre en vigor dicha Ley.
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los procedimientos para la evaluación de Magistrados a cargo de la Comisión prevista en el párrafo último del artículo 83, no podrán iniciar hasta en tanto no se reforme la Ley Orgánica del Poder Judicial del Estado de Guanajuato.
+
+Artículo Tercero.- El Congreso del Estado habrá de aprobar las adecuaciones a la Ley Orgánica del Poder Judicial del Estado de Guanajuato, a más tardar antes del 31 de diciembre de 2006.
+
+Artículo Cuarto.- Los Consejeros Magistrados que actualmente integran el Consejo del Poder Judicial asumirán las facultades y las obligaciones que en este Decreto se otorgan a los integrantes del Consejo del Poder Judicial.
+
+P.O. 14 DE NOVIEMBRE DE 2006.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La educación preescolar será obligatoria para todos en los términos que señala el artículo quinto transitorio del decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 12 de noviembre de 2002.
+
+Artículo Tercero.- Los presupuestos estatales y municipales incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas estatales en coordinación con las municipales, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+
+Artículo Cuarto.- El Gobierno del Estado celebrará con el Gobierno Federal convenios de colaboración que les permitan cumplir con la obligatoriedad de la educación preescolar en los términos establecidos en los artículos anteriores.
+
+Artículo Quinto.- Una vez que entre en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley de Educación para el Estado de Guanajuato y demás disposiciones legales aplicables en la materia.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+DECRETO NÚMERO 162, QUE REFORMAN Y ADICIONAN LOS ARTICULOS 82, 117 Y LA SECCIÓN TERCERA AL CAPÍTULO TERCERO DEL TÍTULO QUINTO DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+ÚNICO. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+DECRETO NÚMERO 163, QUE REFORMAN Y ADICIONAN LOS ARTÍCULOS 17, 31, 46, 53, 111 Y 122 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La modificación a la competencia del Tribunal Electoral del Estado de Guanajuato, a que se refiere el artículo 31 de este decreto, surtirá efectos a partir del 1 de noviembre de 2009.
+
+P.O. 8 DE AGOSTO DE 2008.
+
+DECRETO NÚMERO 164, QUE REFORMAN Y ADICIONAN LOS ARTÍCULOS 63, 77 Y 117 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE MAYO DE 2009.
+
+Artículo Único.- El presente decreto entrará en vigor al cuarto día posterior al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE JUNIO DE 2009.
+
+Artículo Primero. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Por única ocasión el informe de gobierno sobre el estado que guarda la Administración Pública, que habrá de enviar el Gobernador, el primer jueves de marzo de 2010, abarcará, además, el periodo comprendido del 1 de agosto al 31 de diciembre de 2008.
+
+P.O. 21 DE JULIO DE 2009.
+
+Artículo Primero.- El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- La prohibición para el desempeño de un cargo de elección popular, con otro cargo o empleo público, comenzará a regir para los presidentes municipales, síndicos y regidores propietarios que se elijan a partir de las elecciones de Ayuntamientos para el periodo 2009-2012.
+
+Artículo Tercero.- El Congreso del Estado efectuará las adecuaciones respecto a la incompatibilidad de cargos correspondientes en la legislación estatal, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente decreto.
+
+P.O. 21 DE AGOSTO DE 2009.
+
+Artículo Único. El presente Decreto entrará en vigor el 1° primero de noviembre del 2009, dos mil nueve, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE FEBRERO DE 2010.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con las excepciones dispuestas en los artículos transitorios siguientes.
+
+Artículo Segundo. El sistema procesal penal acusatorio previsto en los artículos 2 párrafos sexto y último; 6 párrafos primero, segundo y undécimo; 7 párrafo tercero; 9; 10 y 11 párrafo tercero, de esta Constitución, entrará en vigor cuando lo establezcan las legislaciones secundarias correspondientes, sin que dicho término exceda al 19 de junio de 2016.
+
+El Poder Legislativo deberá emitir una declaratoria que se publicará en el Periódico Oficial del Gobierno del Estado, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado plenamente en el Estado Libre y Soberano de Guanajuato y en consecuencia, las garantías que consagran la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, regularán la forma y términos en que se substanciarán los procedimientos penales.
+
+Artículo Tercero. En tanto se determinan en la ley los agentes del Ministerio Público y las modalidades del arraigo a que se refiere el párrafo quinto del artículo 6 de esta Constitución, se podrá pedir arraigo domiciliario por el Procurador General de Justicia, los Subprocuradores y los agentes del Ministerio Público adscritos a la Subprocuraduría de Investigación Especializada, de la Procuraduría General de Justicia.
+
+Asimismo, en tanto se precisan en la ley los delitos graves por los que podrá ordenarse el arraigo, a partir de la entrada en vigor del presente Decreto, procederá por los delitos de secuestro, contra la salud, robo de vehículos, tráfico de menores e incapaces, prostitución de menores, trata de personas y evasión de detenidos.
+
+Artículo Cuarto. El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 8 de esta Constitución, así como el régimen, de modificación y duración de penas, establecido en el párrafo cuarto del artículo 8 de esta Constitución, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del diecinueve de junio de dos mil once.
+
+Artículo Quinto. El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la reforma del sistema de justicia penal y de seguridad pública del Estado, a través de las erogaciones plurianuales que deberán señalarse en forma expresa en el presupuesto general de egresos del estado del ejercicio presupuestal inmediato siguiente a la entrada en vigor del presente decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones plurianuales deberán aplicarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura y la capacitación necesarias.
+
+P.O. 5 DE MARZO DE 2010.
+
+Artículo Primero. El presente Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Las remuneraciones que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto.
+
+Artículo Tercero. A partir del ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Decreto, las percepciones de los magistrados, consejeros y los jueces del Poder Judicial del Estado, los magistrados del Tribunal Electoral del Estado de Guanajuato, los integrantes del Consejo General del Instituto Electoral del Estado de Guanajuato, los magistrados del Tribunal Contencioso Administrativo del Estado de Guanajuato y los titulares de los organismos autónomos que esta Constitución y las leyes reconocen como tales, así como los Ayuntamientos y los titulares de las dependencias de la administración centralizada y de las entidades paramunicipales, que actualmente estén en funciones, se sujetarán a lo siguiente:
+
+a) Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en el artículo 134 fracción II de esta Constitución se mantendrán durante el tiempo que dure su encargo.
+
+b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, sólo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en el artículo 134 fracción II de esta Constitución.
+
+c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+Artículo Cuarto. Los Poderes del Estado y los Ayuntamientos en el ámbito de su competencia, deberán expedir o adecuar la legislación o disposiciones administrativas, según corresponda, de conformidad con los términos del presente Decreto, dentro de un plazo de 180 días naturales siguientes a su entrada en vigor.
+
+P.O. 7 DE OCTUBRE DE 2011.
+
+Artículo Único. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE MAYO DE 2012.
+
+Artículo primero. El presente Decreto entrará en vigor al cuarto día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Las disposiciones contenidas en la reforma al artículo 51, comenzarán su vigencia al veinticinco de septiembre de dos mil doce.
+
+Artículo segundo. El término de siete años en el encargo del titular del Órgano de Fiscalización Superior del Congreso del Estado que señala el último párrafo del artículo 66 será aplicable a partir de la designación de un nuevo titular del Órgano de Fiscalización Superior del Congreso del Estado, a la conclusión de la designación del actual titular, o en su caso, si es el supuesto de designar un nuevo titular, por cualquiera de las cusas (sic) señaladas en esta Constitución y en la Ley de Fiscalización Superior del Estado de Guanajuato.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 64, POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Primero. El presente Decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El Ayuntamiento de Silao de la Victoria, se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Silao, a la entrada en vigor del presente Decreto.
+
+Tercero. Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y del presente dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1. A los cuarenta y seis Ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1. Titular del Poder Ejecutivo Estatal;
+
+2. Entidades de la Administración Pública Estatal;
+
+3. Pleno del Supremo Tribunal de Justicia y Consejo del Poder Judicial del Estado; y
+
+4. Organismos Autónomos.
+
+Federales:
+
+1. Titular del Poder Ejecutivo Federal;
+
+2. Entidades de la Administración Pública Federal;
+
+3. Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4. Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5. Tribunal Federal de Justicia Fiscal y Administrativa; y
+
+6. Organismos Autónomos.
+
+Cuarto. Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Silao, se entenderán hechas al Municipio de Silao de la Victoria.
+
+Quinto. El Ayuntamiento de Silao de la Victoria, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 65, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO SEGUNDO; Y 19, FRACCIÓN III, DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien tenga la edad típica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades, a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado, y en los términos establecidos en los instrumentos del Sistema Nacional y el Sistema Estatal de Planeación Democrática del Desarrollo.
+
+Artículo Tercero. Para dar cumplimiento al principio de obligatoriedad, en los presupuestos de egresos del Estado y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 66, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO PRIMERO PARA QUEDAR COMO «DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS» Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO, PARA QUEDAR COMO «DERECHOS CIVILES, POLÍTICOS, ECONÓMICOS, SOCIALES Y CULTURALES»; SE REFORMAN LOS ARTÍCULOS 1 PÁRRAFO PRIMERO; 8 PÁRRAFO SEGUNDO; Y 63 FRACCIÓN XXI, EN SU PÁRRAFO SÉPTIMO; SE ADICIONAN LOS ARTÍCULOS 1 CON UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO A CUARTO, PARA QUEDAR COMO PÁRRAFOS CUARTO A SEXTO; 3 CON UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS TERCERO Y CUARTO, PARA QUEDAR COMO CUARTO Y QUINTO; 4 CON LOS PÁRRAFOS CUARTO A NOVENO Y 77 FRACCIÓN XII CON UN PÁRRAFO TERCERO Y UN ULTIMO PÁRRAFO; TODOS ELLOS DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 67, POR EL QUE SE REFORMAN LOS ARTÍCULOS 79 Y 100 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
