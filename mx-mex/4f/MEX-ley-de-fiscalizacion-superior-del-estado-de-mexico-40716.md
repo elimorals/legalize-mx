@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2010-05-12"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
 
-LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MEXICO
+LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -79,7 +79,7 @@ XIV. Reglamento: Al Reglamento Interior del Organo Superior de Fiscalización;
 
 XV. Revisiones contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de México de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquellas que realice de manera posterior a la presentación de cuentas públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2007)</small>
 
 ###### Artículo 3.
 
@@ -661,7 +661,7 @@ Durante sus actuaciones, los comisionados que hubieren intervenido en las revisi
 
 ### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO, G.G. 31 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
 
 ###### Artículo 46.
 
@@ -689,7 +689,9 @@ Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipa
 
 ###### Artículo 50.
 
-El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión, el correspondiente Informe de Resultados, mismo que tendrá carácter público; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
+El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen y rendir a la Legislatura, por conducto de la Comisión de Vigilancia, el correspondiente Informe de Resultados, mismo que tendrá carácter público; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
+
+La revisión del Informe que hace referencia el párrafo anterior, la Comisión de Vigilancia del Órgano Superior de Fiscalización, deberá presentarla ante el Pleno de la Legislatura para su votación a más tardar el 15 de noviembre del año en que se presente dicho informe.
 
 ###### Artículo 51.
 
@@ -957,7 +959,7 @@ C. CONSTANTINO ACOSTA DAVILA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 G.G. 22 DE DICIEMBRE DE 2004.
 
@@ -1052,3 +1054,13 @@ SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo 
 SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
+
+G.G. 24 DE ABRIL DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
