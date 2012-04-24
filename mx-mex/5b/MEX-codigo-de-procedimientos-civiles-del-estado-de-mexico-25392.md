@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2011-10-05"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
+CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Ejercicio de la jurisdicción
-
-###### Artículo 1.
-
-1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
-
 Inicio dispositivo e impulso procesal oficioso
 
 ###### Artículo 1.
 
 2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
+
+Ejercicio de la jurisdicción
+
+###### Artículo 1.
+
+1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
 
 Normas genéricas de la jurisdicción
 
@@ -159,7 +159,7 @@ Atribuciones de los Jueces familiares
 
 I. Los asuntos relacionados con el derecho familiar y el estado civil de las personas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -649,7 +649,7 @@ Oportunidad para interponer la recusación
 
 Organo que conoce de la recusación
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MAYO DE 2003)</small>
 
 ### CAPITULO III. De las Recusaciones
 
@@ -869,15 +869,15 @@ Revocación de representante común
 
 ###### Artículo 1.
 
-93.- Todo interesado en cualquier actividad judicial debe tener el patrocinio de un Licenciado en Derecho o su equivalente con título y cédula de ejercicio profesional legalmente expedidos; salvo en materia de violencia familiar, donde el Juez, en su caso, le designará un defensor público.
+93.- Todo interesado en cualquier actividad judicial debe tener el patrocinio de un Licenciado en Derecho o su equivalente con título y cédula de ejercicio profesional legalmente expedidos; salvo en materia de violencia familiar y de alimentos, donde el Juez, en su caso, le designará un defensor público.
 
 Autorización de las promociones
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1.
 
-94.- Los Licenciados en Derecho autorizarán con su firma toda promoción escrita o verbal de sus clientes. Sin ese requisito, no se les dará curso; con excepción de los juicios de violencia familiar, donde el Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar, no quede en estado de indefensión y para ello, tomará la medida citada en el artículo anterior y el defensor público hará suya o ratificará la demanda.
+94.- Los Licenciados en Derecho autorizarán con su firma toda promoción escrita o verbal de sus clientes. Sin ese requisito, no se les dará curso; con excepción de los juicios de violencia familiar y de alimentos donde el Juez tomará las medidas necesarias a efecto de que el demandante de violencia familiar y de alimentos, no quede en estado de indefensión y para ello, tomará la medida citada en el artículo anterior y el defensor público, hará suya o ratificará la demanda.
 
 Exhibición de cédula profesional
 
@@ -897,7 +897,7 @@ Firmas de promociones y actuaciones judiciales
 
 Patrocinio de Licenciado en Derecho
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -915,7 +915,7 @@ Excepción a la nulidad de actuaciones
 
 99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
 
-Actuaciones en idioma español
+Escritura de cantidades y fechas
 
 ## TITULO SEPTIMO. Actos Procesales en General
 
@@ -925,13 +925,13 @@ Forma de las actuaciones y promociones
 
 ###### Artículo 1.
 
-100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
+101.- Las fechas y cantidades se escribirán con letra y número.
 
-Escritura de cantidades y fechas
+Actuaciones en idioma español
 
 ###### Artículo 1.
 
-101.- Las fechas y cantidades se escribirán con letra y número.
+100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
 
 Prohibición de borrar y abreviar
 
@@ -2141,13 +2141,13 @@ Generalidad de la prueba
 
 ###### Artículo 1.
 
-268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
+267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
 
-Clases de confesión
+Efectos de la confesión
 
 ###### Artículo 1.
 
-267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
+268.- La confesión sólo produce efecto en lo que perjudica al que la hace.
 
 Sólo las partes pueden absolver posiciones
 
@@ -2211,7 +2211,7 @@ Calificación de las posiciones
 
 ### CAPITULO II. De la Confesión
 
-Efectos de la confesión
+Clases de confesión
 
 ###### Artículo 1.
 
@@ -3881,6 +3881,10 @@ Corrección de la demanda
 
 109.- Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor, una sola vez, para que dentro de tres días la aclare, corrija o complete, señalándole específicamente sus defectos; apercibiéndole que de no hacerlo, no le será admitida.
 
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+El Juez también debe prevenir al actor, en los mismos términos, cuando se omita alguno de los requisitos a que se refieren los artículos 2.100 y 2.108 de este Código, a efecto de que subsane los requisitos omitidos. En lo conducente, se prevendrá al demandado al formular su contestación, con el apercibimiento de que de no hacerlo, se acordará en los términos en que fue presentada.
+
 El auto admisorio de demanda es irrecurrible
 
 ###### Artículo 2.
@@ -4045,43 +4049,43 @@ Plazo supletorio o complementario de prueba
 
 ### CAPITULO VI. De las Controversias de Orden Familiar
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
 134.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
 135.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
 136.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
 137.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
 138.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
 139.- (DEROGADO, G.G. 6 DE MARZO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
@@ -5085,7 +5089,7 @@ II. Copia certificada del acta de su matrimonio;
 
 III. Copia certificada del acta de nacimiento de sus menores hijos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5101,7 +5105,7 @@ Requisitos para el divorcio por mutuo consentimiento
 
 Al Ministerio Público se le citará cuando estén involucrados derechos de menores o incapaces. La inasistencia de éste no suspenderá la audiencia, lo que se hará del conocimiento de su superior jerárquico, sin perjuicio de la responsabilidad en que incurra.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5115,7 +5119,7 @@ El juez concederá el uso de la palabra a los solicitantes y, en su caso al Mini
 
 Resolución del divorcio
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5133,7 +5137,7 @@ Tutor especial para divorcio
 
 Comparecencia personalísima de los cónyuges
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5141,7 +5145,7 @@ Comparecencia personalísima de los cónyuges
 
 280.- Los cónyuges comparecerán personalmente a la audiencia de avenencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5153,7 +5157,7 @@ Inasistencia de las partes
 
 La inasistencia podrá justificarse hasta la celebración de la audiencia; el juez señalará nuevo día y hora para la audiencia de avenencia dentro de los cinco días siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5467,7 +5471,7 @@ Vía de apremio
 
 326.- Para conferir la tutela, se debe declarar previamente el estado de minoridad o interdicción de la persona que va a quedar sujeta a ella. Lo dispuesto sobre tutela es aplicable a la curatela en lo conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5477,7 +5481,7 @@ Legitimación
 
 Procedencia del nombramiento de tutores y curadores
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5507,13 +5511,13 @@ Prueba de la minoría de edad
 
 328.- Si a la solicitud de declaración de minoría, se acompaña el acta de nacimiento del menor, se hará la declaración de plano; o se hará cuando se exhiba.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 De no existir acta de nacimiento, se citará a una audiencia dentro de los cinco días siguientes, a la que concurrirá el solicitante, el menor y el Ministerio Público; en la que con o sin asistencia de éste último, por la apariencia del menor se hará la declaración respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5553,7 +5557,7 @@ Tramitación de impedimentos y excusas
 
 Objeción a las cuentas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5563,7 +5567,7 @@ Objeción a las cuentas
 
 En la objeción se ofrecerán las pruebas que la justifiquen; se correrá traslado al tutor y, en su caso al curador; se señalará fecha para audiencia dentro de los cinco días siguientes en la que se recibirán pruebas, alegatos y se dictará resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5579,7 +5583,7 @@ Personas que pueden ser tutor interino
 
 336.- El nombramiento de tutor interino deberá recaer entre las personas más idóneas, como: cónyuge, hijos, padres, hermanos o abuelos; y a falta de ellos a la que considere el Juez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5591,13 +5595,13 @@ Requisitos de la petición
 
 I. Nombre, edad, domicilio, estado civil y actual residencia de la persona cuya interdicción se solicita;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2009)</small>
 
 II. Nombre, domicilio del cónyuge o parientes en línea recta o colaterales hasta el cuarto grado, de entre quienes el solicitante hará la propuesta de tutor interino;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5607,7 +5611,7 @@ IV. El certificado o certificados relativos al diagnóstico y pronóstico de la 
 
 V. Especificación de los bienes conocidos como propiedad de la persona y que deben ser sometidos a la vigilancia judicial;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5633,7 +5637,7 @@ III. Se citará al presunto interdicto a la audiencia preliminar; se le correrá
 
 Si el presunto interdicto no puede ser presentado ante el juez, éste se trasladará al lugar en que se encuentre para practicar las diligencias que estime convenientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5647,7 +5651,7 @@ Se le correrá traslado al tutor interino con la solicitud planteada, para que c
 
 Se dictarán las medidas necesarias sobre la persona y bienes del presunto interdicto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5663,7 +5667,7 @@ El juez interrogará al presunto interdicto cuando éste pueda expresarse.
 
 Dictámenes médicos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5687,7 +5691,7 @@ Otros medios de prueba
 
 Resolución
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 2.
 
@@ -5705,7 +5709,7 @@ Impugnación de la resolución
 
 344.- La sentencia sobre estado de interdicción es apelable sin efecto suspensivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5715,7 +5719,7 @@ Revocación de la interdicción
 
 344.1.- La interdicción se revocará cuando cese la causa que la motivó. Para decretar la revocación se observarán las mismas disposiciones que para declararla.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 2.
 
@@ -5737,11 +5741,11 @@ II. Controversia de violencia familiar.
 
 347.- Tratándose de menores, incapaces y adultos mayores de sesenta años, deberá oírseles durante el procedimiento, tomando en consideración su edad, grado de madurez, capacidad para opinar y en todos los asuntos que les afecten con la intervención del Ministerio Público.
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Procedimientos escritos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5749,9 +5753,9 @@ Procedimientos escritos
 
 348.- Los procedimientos que señala este capítulo se iniciarán por escrito. El Poder Judicial del Estado instrumentará un formato de demanda que será distribuido en las Oficialías del Registro Civil, Oficialías Calificadoras y las Mediadora-Conciliadoras en los Municipios, Coordinaciones Municipales de Derechos Humanos, Sistemas Municipales de Desarrollo Integral de la Familia y Juzgados de lo Familiar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Esta demanda podrá ser presentada por:
 
@@ -5767,7 +5771,7 @@ II. Cualquier miembro del grupo familiar; y
 
 III. Cualquier persona que tenga conocimiento de la violencia familiar.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -5809,7 +5813,7 @@ VIII. El ofrecimiento de las pruebas conducentes a acreditar su demanda; y
 
 IX. Protesta y firma del que interpone la demanda o del receptor de la violencia.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 2.
 
@@ -5839,17 +5843,17 @@ Si las partes llegan a un acuerdo se elaborará el convenio correspondiente que 
 
 353.- Los convenios que den por concluido el procedimiento serán vinculatorios y exigibles para las partes en vía de apremio.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 2.
 
 354.- Admitida la demanda se correrá traslado al presunto generador de violencia y se le emplazará para que en el plazo de cinco días conteste y ofrezca pruebas.
 
-> <small>(ADICIONADA SU DENOMINACION, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Medidas de protección
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5891,7 +5895,7 @@ VII. Emitir una orden de protección y auxilio policial, dirigida a las autorida
 
 356.- El generador de violencia al contestar deberá referirse a cada uno de los hechos narrados en la demanda y ofrecerá las pruebas respectivas. El silencio y las evasivas harán que se tengan por admitidos aquellos hechos sobre los que se suscitó controversia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5905,7 +5909,7 @@ En la audiencia inicial podrán revisarse las medidas provisionales.
 
 De no contestarse la demanda, se tendrán por presuntamente aceptados los hechos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5915,7 +5919,7 @@ Día y hora para la audiencia principal
 
 358.- Verificada la audiencia inicial, se señalará día y hora para que, dentro de los diez días siguientes, tenga verificativo la audiencia principal de desahogo de pruebas, alegatos y, en su caso, sentencia, sin perjuicio de dictarla dentro de los cinco días siguientes en audiencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5931,13 +5935,13 @@ Efectos de la sentencia
 
 360.- Son apelables, sin efecto suspensivo, las resoluciones que decreten una de las medidas de protección previstas en el artículo 2.355 de este Código.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 2.
 
 361.- Si en términos de la Convención sobre los Aspectos Civiles de la Sustracción Internacional de Menores o convenio internacional en la materia, se pretende la restitución de un menor que hubiere sido sustraído ilícitamente del país de su residencia habitual o trasladado legalmente y retenido ilícitamente, se procederá de acuerdo con lo previsto en este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5949,7 +5953,7 @@ Juez competente
 
 El que ejerza jurisdicción en el lugar donde se localice el menor, cuando se solicita la restitución de éste por una autoridad central de otro país.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5959,7 +5963,7 @@ Legitimación
 
 363.- Podrán promover este procedimiento quienes ejerzan la patria potestad o la persona o institución que tenga designada la guarda y custodia del menor. Las actuaciones se practicarán con intervención del Ministerio Público, quien en todo momento velará y resguardará los intereses del menor y de las personas o instituciones con los derechos ya mencionados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5973,7 +5977,7 @@ La solicitud reunirá los requisitos que establece la Convención sobre los Aspe
 
 De no existir prevención alguna, el juez remitirá, a la brevedad, la solicitud a la autoridad central de la Secretaría de Relaciones Exteriores para los efectos del trámite de restitución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -5991,7 +5995,7 @@ a) Si accede voluntariamente a la restitución del menor a la persona o instituc
 
 b) Por escrito oponga excepciones y defensas al existir alguna de las causas establecidas en la correspondiente convención y ofrezca pruebas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6007,7 +6011,7 @@ En la audiencia se oirá a ambas partes quienes podrán expresar alegatos, al Mi
 
 El juez resolverá en la audiencia o dentro de los tres días siguientes, si procede o no la restitución, conforme al interés del menor y los términos de las convenciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6017,7 +6021,7 @@ Restitución voluntaria
 
 367.- Si comparece el requerido y accediere a la restitución voluntaria del menor, el juez dará por concluido el procedimiento y ordenará su entrega a la persona o institución que acredite tener la guarda y custodia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6033,7 +6037,7 @@ II. El juez de considerarlo, oirá la opinión del menor en atención a la edad 
 
 III. El juez podrá recabar todos aquellos elementos que estime pertinentes en favor del menor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6051,7 +6055,7 @@ El juez dictará la sentencia en la que precisará los motivos y fundamentos del
 
 De la sentencia quedará constancia íntegra por escrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6061,7 +6065,7 @@ Restitución favorable del menor
 
 370.- Si el juez resolviera favorablemente la restitución del menor, solicitará la colaboración de la autoridad central del Servicio Exterior Mexicano y de las que considere pertinentes a fin de lograr la reincorporación del menor al lugar de su residencia habitual.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6071,7 +6075,7 @@ Supletoriedad
 
 371.- En lo que no se oponga al presente capítulo, se aplicarán los lineamientos que este código establece para las controversias relacionadas con el estado civil de las personas y del derecho familiar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6083,7 +6087,7 @@ Medios de impugnación
 
 ### CAPITULO VIII. Restitución Internacional de Menores
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6095,7 +6099,7 @@ Objeto
 
 #### SECCION SEGUNDA. De la Controversia de Violencia Familiar
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6171,7 +6175,7 @@ Audiencia previa
 
 4.- Se notificará a la persona que sea necesario oírla, haciendo de su conocimiento que quedan las actuaciones a su vista; igualmente se le dará a conocer la fecha para recibir pruebas o para la práctica de las diligencias decretadas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6221,7 +6225,7 @@ Solicitud de venta o gravamen
 
 Substanciación de la solicitud de venta o gravamen
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -6237,7 +6241,7 @@ La resolución que se dicte será apelable con efecto suspensivo.
 
 Nombramiento de perito
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 3.
 
@@ -6281,9 +6285,9 @@ Funciones del síndico
 
 Resolución
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -6293,7 +6297,7 @@ La resolución es apelable con efecto suspensivo.
 
 Revocación de la adopción
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7063,7 +7067,7 @@ Apelación de la adjudicación
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7075,7 +7079,7 @@ Reglas de las controversias
 
 ### CAPITULO II. Actos Procesales en General
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7125,7 +7129,7 @@ IV. En el instrumento a que se refiere la fracción anterior, los legatarios pod
 
 ### CAPITULO III. De la Pruebas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7153,7 +7157,7 @@ Resolución en la tramitación especial
 
 ### CAPITULO IV. De la Demanda
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7169,19 +7173,19 @@ Formalidad de la adjudicación
 
 86.- La adjudicación de bienes hereditarios se hará con la misma formalidad que la ley exige para su venta.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 # LIBRO QUINTO. De las Controversias sobre el Estado Civil de las Personas y del Derecho Familiar
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ## TITULO UNICO. De las Controversias sobre el Estado Civil de las Personas y del Derecho Familiar
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ### CAPITULO V. Audiencia Inicial
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7195,7 +7199,7 @@ Etapas de la audiencia inicial
 
 Las controversias de derecho familiar, se consideran de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para actuar de oficio, especialmente tratándose de menores, discapacitados, en materia de alimentos y de las cuestiones relacionadas con violencia familiar, decretando las medidas cautelares tendentes a preservar la familia y a proteger a sus miembros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7213,7 +7217,7 @@ III. La petición de herencia después de la adjudicación respectiva.
 
 Quedan exceptuadas, las controversias relacionadas con el derecho sucesorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7223,7 +7227,7 @@ Principios del procedimiento
 
 3.- Las controversias se regirán por los principios de oralidad, inmediación, publicidad, concentración y continuidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7235,7 +7239,7 @@ Derecho a la intimidad de las partes
 
 Con ese objetivo podrá prohibir la difusión de datos e imágenes referidos al proceso o a las partes; o disponer, mediante resolución fundada, que todas o algunas de las actuaciones del procedimiento se realicen en forma reservada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7245,7 +7249,7 @@ Suspensión de la audiencia
 
 5.- El procedimiento se desarrollará en audiencias sucesivas hasta su conclusión. El juez podrá suspender el desarrollo de la audiencia por razones de absoluta necesidad por un plazo hasta de diez días, de acuerdo con el motivo de la suspensión, en cuyo caso, comunicará oralmente la fecha y hora de su continuación, lo que se tendrá como suficiente citación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7255,7 +7259,7 @@ Conciliación
 
 6.- En cualquier etapa del proceso, inclusive en segunda instancia hasta antes de dictar sentencia, las partes podrán conciliar sus intereses si la naturaleza del asunto lo permite, se someterá el convenio a la aprobación del juez o sala.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7265,7 +7269,7 @@ Traslado del personal
 
 7.- El juez podrá ordenar el traslado del personal de actuaciones y terceros, al domicilio o lugar donde se encuentren las cosas o personas sobre las que se deba desahogar algún medio probatorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7275,13 +7279,13 @@ Suplencia de la queja
 
 8.- En el conocimiento y decisión de las controversias relacionadas con el derecho familiar y del estado civil de las personas, el juez podrá suplir la deficiencia de la queja.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
 9.- Salvo lo dispuesto en el presente título, las peticiones de las partes se formularán oralmente durante las audiencias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7289,7 +7293,7 @@ Determinaciones orales
 
 ### CAPITULO VI. De la Audiencia Principal
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7299,7 +7303,7 @@ Desarrollo de la audiencia principal
 
 10.- El juez proveerá oralmente y al momento toda petición que le sea planteada durante las audiencias salvo las excepciones de ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7309,7 +7313,7 @@ Diligencias fuera del juzgado
 
 11.- Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado pero dentro de su ámbito de competencia territorial, serán presididas por el juez; se registrarán conforme a lo dispuesto para las audiencias en el juzgado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7321,7 +7325,7 @@ Nulidad de una actuación
 
 La nulidad producida en la audiencia principal deberá reclamarse durante ésta, antes de que el juez pronuncie la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7335,7 +7339,7 @@ A los inasistentes, se notificará conforme a las reglas generales de las notifi
 
 La notificación personal que ordene el juzgador, contendrá un extracto sucinto del acto procesal respectivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7345,7 +7349,7 @@ Tercerías en el procedimiento oral
 
 14.- Las tercerías coadyuvantes que surjan dentro del procedimiento oral, se substanciarán en la misma pieza de autos; las excluyentes, por cuerda separada; conforme a las reglas y procedimientos de la controversia del derecho familiar y en lo demás, acorde a lo dispuesto en el capítulo I, Título Sexto, Libro Segundo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7363,7 +7367,7 @@ Los asuntos conexos se acumularán a instancia de parte o de manera oficiosa, a 
 
 En la acumulación de juicios orales a ordinarios o viceversa, una vez concluida la fase de alegatos, se remitirán al que, por razón de prevención, le corresponda el conocimiento y decisión del asunto para que en una misma sentencia se resuelvan ambos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7375,7 +7379,7 @@ Interés superior del menor
 
 Al resolver una controversia, el juez podrá dictar las medidas que estime pertinentes para salvaguardar el interés superior del menor, entre otras, ordenar terapia médica, psicológica o social a sus progenitores o quienes integren el grupo familiar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7385,7 +7389,7 @@ Suspensión de la audiencia
 
 17.- Las partes podrán de común acuerdo, por una sola vez, solicitar la suspensión de la audiencia, para lo cual, el juez señalará nuevo día y hora para su celebración dentro de un plazo que no excederá de quince días hábiles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7395,7 +7399,7 @@ Registro de audiencias
 
 18.- las audiencias se registrarán en video, audiograbación o cualquier medio apto, a juicio del juez, para producir seguridad en las actuaciones e información que permitan garantizar su fidelidad, integridad, conservación, reproducción de su contenido y acceso, a quienes de acuerdo a la ley tuvieren derecho a ello.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7405,7 +7409,7 @@ Limitación en el uso de la palabra
 
 19.- El juez podrá limitar el tiempo en el uso excesivo de la palabra; asumirá en todo momento la dirección del proceso y aplicará las correcciones disciplinarias que estime pertinentes, incluso ordenar el retiro de la sala de audiencias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7421,7 +7425,7 @@ Si una parte o los terceros llegan al recinto oficial después de iniciada la au
 
 El Secretario hará constar el momento de su incorporación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7431,7 +7435,7 @@ Recesos
 
 21.- El juez decretará los recesos que estime pertinentes para el mejor desarrollo de la audiencia, con la precisión de su duración; las partes quedarán obligadas a asistir a la hora señalada para la continuación y serán apercibidas que de no comparecer, se les tendrá por renunciado su derecho a estar presentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7441,7 +7445,7 @@ Retraso de la audiencia
 
 22.- En caso de que una audiencia en distinto proceso, se prolongue y llegue la hora señalada para la verificación de otra, las personas citadas deberán permanecer en el juzgado hasta que se termine aquella, acorde al orden de audiencias a verificarse. El secretario fijará diariamente en la lista, las audiencias a realizarse, con la mención del número de expediente, si se trata de la audiencia inicial o principal y el nombre de las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7455,7 +7459,7 @@ Cuando la petición se realice en la audiencia, con conocimiento de la contraria
 
 Queda prohibido a las partes, terceros y autoridades, la difusión por cualquier medio de las constancias, video o audiograbaciones de las controversias que regula este título; para lo cual, se estará a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado y al Reglamento del Poder Judicial en la materia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7465,7 +7469,7 @@ Conservación del registro de las audiencias
 
 24.- La conservación de la video y audiograbación o de cualquier otro medio apto estimado por el juez que integren el expediente, se hará por duplicado el que se depositará en el área de seguridad del juzgado; cuando se dañe el soporte material del registro y se afecte su contenido; el juez ordenará reemplazarlo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7475,7 +7479,7 @@ Prohibición para grabar audiencias
 
 25.- Queda prohibido utilizar equipos de telefonía, grabación y videograbación en el recinto oficial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7485,7 +7489,7 @@ Identificación de los registros de las audiencias
 
 26.- A las video o audiograbaciones y cualquier otro registro determinado por el juez, se les asignará un número consecutivo, seguido de las iniciales JOF y el número de expediente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7495,7 +7499,7 @@ Acta de audiencia
 
 27.- De cada audiencia se instrumentará acta que contendrá la fecha, lugar, hora de inicio y término, el nombre de los servidores públicos y personas que hubieren intervenido, la relación de los actos procesales celebrados y la mención sucinta de requerimientos, citaciones, apercibimientos y cualquier otro acto que el juez determine deba comunicarse a las partes o terceros que no asistieron; la cual será firmada por el juez y el secretario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7507,7 +7511,7 @@ Preclusión
 
 El juez determinará el inicio y la conclusión de cada una de las etapas de las audiencias, precluyendo los derechos procesales que debieron ejercitarse en las anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7517,7 +7521,7 @@ Protesta de decir verdad
 
 29.- Al inicio de las audiencias, el juez tomará la protesta de ley a quienes vayan a declarar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7529,7 +7533,7 @@ Ministerio Público adscrito
 
 Cuando se involucren derechos relacionados con menores o incapaces, se dará intervención al Ministerio Público adscrito desde el auto admisorio, con la finalidad de que intervenga y formule pedimentos tendentes a garantizar los derechos de aquellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7561,7 +7565,7 @@ El oficio o exhorto respectivo quedará a disposición del interesado el día de
 
 La falta de interés en el desahogo de estos medios de prueba, surtirá efectos de deserción en perjuicio de la parte oferente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7569,7 +7573,7 @@ Declaración de parte
 
 ### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7589,7 +7593,7 @@ Si el que deba declarar no asiste, la prueba se tendrá por desierta pero se con
 
 El juez interrogará al declarante cuando lo estime pertinente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7601,7 +7605,7 @@ Declaración de parte y confesional
 
 Si se admiten la confesional y declaración de parte, ésta se desahogará al concluir aquélla.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7611,7 +7615,7 @@ Opinión de menores
 
 35.- De existir menores, a petición de parte o de oficio, el juez tomará las providencias necesarias para que sin formalidad alguna, expresen de manera libre su opinión en los asuntos que les afecten, con citación del Ministerio Público adscrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7623,7 +7627,7 @@ Objeción de documentos
 
 El juez proveerá lo conducente para recibir en la audiencia principal las probanzas admitidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7637,7 +7641,7 @@ Sólo una vez se ordenará la presentación del testigo; de no lograrse, se decl
 
 El juez cuidará la indivisibilidad de la prueba.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7689,7 +7693,7 @@ V. Las documentales supervenientes se ofrecerán y desahogarán a más tardar en
 
 VI. los peritos y testigos podrán retirarse del recinto previa autorización del juez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7699,7 +7703,7 @@ Oposición al desahogo de pruebas
 
 39.- Se tendrán por ciertos los hechos que pretendan acreditar las partes al ofrecer los medios de prueba: cuando su contraria impida u obstaculice de cualquier forma su desahogo, no presente a los menores que tenga bajo su custodia y cuando no exhiba algún documento o instrumento de acreditarse que los tiene a su disposición.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -7713,15 +7717,13 @@ En la demanda, reconvención y contestación a éstas, se ofrecerán las pruebas
 
 Además de los medios de prueba que este código establece, las partes podrán ofrecer la declaración de parte, sin más requisitos que los establecidos en este capítulo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Presentación de documentos
+Del formato de demanda de alimentos
 
 ### CAPITULO VIII. De los Recursos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7729,9 +7731,23 @@ Revocación fuera de audiencia
 
 ###### Artículo 5.
 
+40.1.- Las controversias de alimentos podrán iniciarse a través del formato de demanda que instrumentará el Poder Judicial del Estado y que será distribuido en las Oficialías del Registro Civil, Oficialías Calificadoras y las Mediadora-Conciliadoras en los Municipios, Coordinaciones Municipales de Derechos Humanos, Sistemas Estatal y Municipales de Desarrollo Integral de la Familia, Ministerios Públicos, Defensoría Pública y Juzgados de lo Familiar.
+
+Esta demanda podrá ser presentada por quien tenga derecho a los alimentos o por su representante. Para el caso de que no se cuente con el patrocinio de abogado, el Juez de Oficio le designará un Defensor Público.
+
+Igualmente el Poder Judicial del Estado distribuirá un formato de consignación de alimentos en los términos del primer párrafo, en el que bastará la firma del promovente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Presentación de documentos
+
+###### Artículo 5.
+
 41.- La presentación de documentos públicos podrá hacerse en copia simple, si el interesado manifiesta que carece de otra fehaciente, pero no producirá efectos, si no son exhibidos dentro de la audiencia inicial con los requisitos legales necesarios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7741,7 +7757,7 @@ Excepciones supervenientes
 
 42.- Las excepciones supervenientes y los medios para acreditarlas, se harán valer a más tardar en la audiencia principal, antes de la etapa de alegatos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7750,6 +7766,10 @@ Orden de descuento para alimentos
 ###### Artículo 5.
 
 43.- En el auto admisorio de demanda, si el juez considera acreditada la obligación alimentaria, de oficio determinará el monto de la pensión alimenticia provisional y ordenará se realicen los descuentos correspondientes por la vía que considere más rápida.
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+El Juez deberá dictar el auto admisorio de demanda, a más tardar al día siguiente en que haya recibido el escrito de demanda.
 
 > <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
 
@@ -7761,7 +7781,7 @@ Cuando no se acredite la capacidad económica del deudor alimentario, en atenci�
 
 Fuera de los casos anteriores, se ordenará requerir al deudor alimentario sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7771,7 +7791,7 @@ Medidas provisionales
 
 44.- Cuando se controviertan derechos de menores o incapaces, el juez podrá dictar las medidas provisionales que estime pertinentes para salvaguardar los derechos de aquellos, ya sea a petición de parte o de oficio, con conocimiento de la posición de las partes sobre el particular.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7783,7 +7803,7 @@ Revisión de las medidas provisionales
 
 Las resoluciones provisionales dictadas en la audiencia inicial sólo podrán modificarse en sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7793,7 +7813,7 @@ Fecha para la celebración de la audiencia inicial
 
 46.- En el auto que tenga por contestada la demanda o reconvención, en su caso, se citará a las partes a la audiencia inicial a verificarse dentro de los cinco días siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7803,7 +7823,7 @@ Apercibimiento para el caso de inasistencia
 
 47.- El juez apercibirá a las partes, que para el caso de inasistencia a la audiencia inicial, se impondrá una multa de hasta cincuenta días de salario mínimo vigente en el área de residencia del juzgado, que se aplicará a favor del Fondo Auxiliar de la Administración de Justicia, excepto cuando el demandado no haya producido contestación ni cuando a su juicio se cause un perjuicio mayor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7813,7 +7833,7 @@ Citación personal para la audiencia inicial
 
 48.- La citación a la audiencia inicial se realizará mediante notificación personal a las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7827,7 +7847,7 @@ De no ser procedente la conciliación por la naturaleza del asunto, en el auto q
 
 De no existir prueba pendiente por desahogar y el juez no estime necesaria la recepción de alguna, se señalará fecha, dentro de los cinco días siguientes, para la audiencia de alegatos y sentencia que podrá dictarse en la propia audiencia o dentro del plazo legal respectivo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -7843,7 +7863,7 @@ IV. Admisión y preparación de pruebas; y
 
 V. Revisión de las medidas provisionales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7853,7 +7873,7 @@ Inasistencia de las partes
 
 51.- De inasistir las partes a la audiencia inicial, ésta se verificará de manera reservada, sin necesidad de que sea video o audiograbada; sólo se instrumentará un acta en la que se puntualizarán los acuerdos y providencias que se lleguen a emitir en el desahogo de cada fase.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7863,7 +7883,7 @@ Enunciación de la litis
 
 52.- Declarada abierta la audiencia inicial, el juez precisará sucintamente las pretensiones de las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7875,7 +7895,7 @@ Fase conciliatoria
 
 En la etapa de conciliación el juez mencionará los inconvenientes que conlleva la tramitación de un juicio y los instruirá de los alcances de una transacción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7885,7 +7905,7 @@ Conciliación parcial
 
 54.- Si las partes logran conciliar parcialmente sus diferencias, cuando la naturaleza de la litis lo permita, el juez aprobará el convenio y continuará la controversia con los puntos que no fueron objeto de éste.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7897,7 +7917,7 @@ Fase de depuración procesal
 
 La excepción de falta de personalidad del actor o en la objeción que se haga a la del represente al demandado, de declararse fundadas, si fuera subsanable la causa, se otorgará un plazo de diez días para tal efecto, de no hacerlo, si se trata del actor se sobreseerá la controversia; y del demandado, se seguirá en rebeldía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7911,7 +7931,7 @@ Cuando se advierta la falta de algún requisito en el ofrecimiento de una prueba
 
 En los asuntos donde se controviertan derechos de menores e incapaces o en materia de alimentos a favor del acreedor alimentario, el juez podrá ordenar el desahogo y práctica de cualquier medio probatorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7923,7 +7943,7 @@ Desahogo de pruebas fuera de audiencia
 
 En el auto en que se admitan medios de prueba, se dejará a disposición del oferente el oficio o exhorto respectivo para que realice los trámites necesarios a fin de exhibirlo debidamente diligenciado hasta la fecha de la audiencia principal, con el apercibimiento de la deserción de la prueba.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7933,7 +7953,7 @@ Revisión de las medidas provisionales
 
 58.- Las medidas provisionales serán revisadas, a través del análisis conjunto de lo manifestado por las partes y las documentales exhibidas. El juez determinará las que perdurarán durante la tramitación del proceso, y sólo podrán ser modificadas en sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7943,7 +7963,7 @@ Día y hora de la audiencia principal
 
 59.- El juez señalará día y hora para la celebración de la audiencia principal dentro de los quince días siguientes, en la que recibirá las pruebas pendientes de desahogo, se formularán alegatos y, en su caso, dictará la resolución definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7953,7 +7973,7 @@ Recepción de alegatos
 
 60.- Si las pruebas admitidas, por su naturaleza, fueron desahogadas y el juez no considera la recepción de otra, se recibirán alegatos y, en su caso, dictará sentencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -7971,7 +7991,7 @@ De no dictar la sentencia en la audiencia, por la complejidad del asunto, se cit
 
 De la sentencia quedará constancia íntegra por escrito; una copia, se pondrá a disposición de las partes en la secretaría respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7981,7 +8001,7 @@ Causas de suspensión de la audiencia
 
 62.- La audiencia principal sólo se suspenderá por motivo excepcional a juicio del juez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -7995,7 +8015,7 @@ Sólo será admisible la documental y presuncional, salvo que el juez estime el 
 
 El incidente de nulidad no suspende la citación para sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8009,7 +8029,7 @@ El juez dictará las providencias necesarias para su desahogo.
 
 Cuando se hayan solicitado informes de autoridades o particulares, se les requerirá para que, a la brevedad, los rindan. Una vez agotadas las medidas de apremio que se estimen conducentes, el juez podrá tenerlas por desiertas y señalará fecha dentro de los cinco días siguientes para la continuación de la audiencia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -8017,7 +8037,7 @@ Cuando se hayan solicitado informes de autoridades o particulares, se les requer
 
 Para ello, deberán estar agregadas las copias certificadas de las actas de matrimonio y de nacimiento de los menores hijos, en su caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8029,7 +8049,7 @@ Vista al Ministerio Público
 
 El Ministerio Público adscrito desahogará la vista en la propia audiencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8039,7 +8059,7 @@ Análisis del convenio
 
 67.- En la misma audiencia, el juez analizará el convenio y señalará a los cónyuges los puntos que no se apeguen a derecho o que considere inequitativos, para que los corrijan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8049,7 +8069,7 @@ Aprobación del convenio
 
 68.- De encontrar apegado a derecho el convenio y de estar garantizados los derechos de los menores o incapaces, el juez dictará resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8059,7 +8079,7 @@ Derechos de tercero
 
 69.- En lo relativo a la administración y liquidación de la sociedad conyugal, quedan a salvo los derechos de terceros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8073,7 +8093,7 @@ Se procederá inmediatamente a su ejecución en el mismo expediente.
 
 El juez podrá dictar las medidas necesarias para su ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8083,7 +8103,7 @@ Levantamiento de la suspensión de la audiencia
 
 71.- De no decretarse el divorcio por mutuo consentimiento se continuará con la audiencia respectiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8095,7 +8115,7 @@ Efectos de la solicitud de suspensión
 
 Sólo la sentencia que decrete el divorcio por mutuo consentimiento constituirá la extinción de las pretensiones relacionadas con la controversia del orden familiar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8105,13 +8125,13 @@ Aplicación supletoria
 
 73.- Se aplicarán en lo conducente las disposiciones del divorcio por mutuo consentimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 5.
 
 74.- Los autos y decretos dictados fuera de audiencia serán revocables conforme a las reglas generales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8133,7 +8153,7 @@ Los demás decretos y autos dictados en audiencia serán irrecurribles.
 
 La revocación sólo podrá plantearse en la audiencia y al momento de emitirse el auto o decreto. Interpuesta, el juez dará vista a la contraria, de estar presente, para que en el acto la desahogue y dictará resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8149,7 +8169,7 @@ II. El auto interlocutorio que resuelva sobre incompetencia; y
 
 III. Las resoluciones interlocutorias y definitivas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8159,7 +8179,7 @@ Apelación de la sentencia que concede alimentos
 
 77.- La sentencia que concede alimentos será apelable sin efecto suspensivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8169,7 +8189,7 @@ Tramite de la apelación
 
 78.- El trámite y substanciación del recurso de apelación, se sujetará a las disposiciones generales de este código, con la salvedad de que en el auto de la calificación del grado, en su caso, se realizará el turno respectivo para su resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8179,7 +8199,7 @@ Recepción dé pruebas en segunda instancia
 
 79.- La Sala podrá ordenar la recepción o ampliación de pruebas, cuando se trate asuntos que afecten los derechos de menores o incapaces y en materia de alimentos a favor del acreedor alimentario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
@@ -8219,7 +8239,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 G.G. 8 DE MAYO DE 2003
 
@@ -8350,3 +8370,19 @@ PRIMERO.- Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno
 SEGUNDO.- Este Decreto entrará en vigor el día veintisiete de enero de dos mil doce.
 
 TERCERO.- La Legislatura local proveerá lo conducente en la asignación de recursos presupuéstales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales, y financieros para dar cumplimiento a este Decreto.
+
+G.G. 24 DE ABRIL DE 2012.
+
+DECRETO NÚMERO 431, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2.109 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE ABRIL DE 2012.
+
+DECRETO NÚMERO 434, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1.93, 1.94 Y SE ADICIONA EL ARTÍCULO 5.40.1 Y UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 5.43 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
