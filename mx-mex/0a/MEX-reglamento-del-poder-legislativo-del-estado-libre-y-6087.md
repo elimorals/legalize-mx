@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2011-12-02"
+last_updated: "2012-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
+REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE ABRIL DE 2012.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -117,7 +117,7 @@ Los diputados electos que no hubieren asistido a la junta, rendirán protesta co
 
 ### CAPITULO III. DE LAS COMISIONES Y COMITES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 13.
 
@@ -487,11 +487,19 @@ b) De atención a los migrantes mexiquenses; y
 
 c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XXXII. La Comisión de Participación Ciudadana, conocerá de los temas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE ABRIL DE 2012)</small>
+
+XXXII. La Comisión de Participación Ciudadana, conocerá de los temas e iniciativas siguientes:
 
 a) La legislación relacionada con los mecanismos de participación ciudadana; y
 
-b) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+b) De las iniciativas de ley o decreto presentadas por los ciudadanos del Estado;
+
+> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+c) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
 
@@ -531,7 +539,7 @@ Los presidentes de las comisiones recibirán de la Junta de Coordinación Polít
 
 Las reuniones de trabajo de las comisiones, a las que concurran servidores públicos o expertos, se desarrollarán en lo conducente conforme a las reglas señaladas en este ordenamiento para la comparecencia de los servidores públicos ante la Legislatura. Tratándose de la participación del Gobernador del Estado o de las autoridades a quienes la Constitución otorga el derecho de iniciativa, o de los representantes que éstos designen para tal efecto, las comisiones podrán acordar un formato determinado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 19.
 
@@ -597,7 +605,7 @@ Para que una comisión pueda realizar reuniones de trabajo deberán asistir la m
 
 Tratándose de comisiones unidas, para realizar sus reuniones se requerirá de la mitad más uno del total de los integrantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
 
 ###### Artículo 25.
 
@@ -805,7 +813,7 @@ A las sesiones públicas podrá concurrir cualquier persona en los lugares seña
 
 En las sesiones reservadas, permanecerán en el recinto únicamente los diputados, los servidores públicos de apoyo legislativo y las personas que, en su caso, el Presidente de la Legislatura autorice. Los concurrentes están obligados a guardar absoluta reserva sobre lo tratado en la sesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 57.
 
@@ -877,7 +885,7 @@ Para cada tipo de sesión se observarán las disposiciones normativas que la rij
 
 Durante las sesiones, los diputados podrán inconformarse con los acuerdos que dicte el presidente en relación con los trámites legislativos, motivando su pretensión tan luego como aquéllos se hayan producido; y escuchando a un orador en pro y otro en contra de la inconformidad si los hubiere, la Asamblea resolverá lo que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 3 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE MARZO DE 2011)</small>
 
 ###### Artículo 66.
 
@@ -1091,7 +1099,7 @@ Concedido el uso de la palabra por el presidente, los diputados podrán hacer us
 
 En uso de la palabra el orador en turno, dispondrá hasta de quince minutos para exponer su posición respecto al dictamen en discusión y sólo a éste se referirá en su discurso; agotado el tiempo, podrá solicitar una prórroga, hasta por diez minutos. En caso de contravenir las disposiciones de la ley o el reglamento será llamado al orden por el presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 8 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MARZO DE 2011)</small>
 
 ###### Artículo 101.
 
@@ -1415,7 +1423,7 @@ Al entrar y salir del salón de sesiones el Gobernador y el Presidente del Tribu
 
 Las demás sesiones solemnes y las especiales que acuerde la Asamblea, se sujetarán al protocolo que previamente se determine en el respectivo orden del día.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2006)</small>
 
 ###### Artículo 139.
 
@@ -1449,7 +1457,7 @@ Las comisiones de protocolo serán integradas por uno de los miembros de la dire
 
 En la última sesión de cada período de sesiones, el presidente designará comisiones protocolarias para informar al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia de la clausura del período.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2004)</small>
 
 ### CAPITULO XIII. DEL REGISTRO LEGISLATIVO, DEL DIARIO DE DEBATES Y DE LA GACETA PARLAMENTARIA
 
@@ -1535,7 +1543,7 @@ La Unidad de Información se regirá por lo dispuesto en la Ley de Transparencia
 
 La Secretaría de Asuntos Parlamentarios estará a cargo de un titular denominado Secretario de Asuntos Parlamentarios que será nombrado por la Legislatura a propuesta de la Junta de Coordinación Política y dependerá jerárquicamente del Presidente de la misma y por lo que hace a las funciones del proceso legislativo, del Presidente de la Directiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 150.
 
@@ -1553,7 +1561,7 @@ III.- Poseer título de licenciado en derecho, con antigüedad mínima de tres a
 
 La organización administrativa de la Secretaría de Asuntos Parlamentarios será la que determine la Junta de Coordinación Política y la establecida en el manual de organización.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 152.
 
@@ -1719,7 +1727,7 @@ La Secretaría de Administración y Finanzas, es la dependencia del Poder Legisl
 
 La Secretaría de Administración y Finanzas, tendrá como titular un Secretario, nombrado por la Legislatura a propuesta de la Junta de Coordinación Política.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 159.
 
@@ -1731,7 +1739,7 @@ II.- No haber sido condenado mediante sentencia ejecutoria, por delito grave o d
 
 III.- Poseer título profesional en cualquier ramo de la administración o afín a sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 160.
 
@@ -1835,7 +1843,7 @@ ll. No haber sido condenado mediante sentencia ejecutoria, por delito grave o do
 
 III. Poseer conocimiento profesional en cualquier ramo de comunicación o afin a sus funciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 165.
 
@@ -2099,7 +2107,7 @@ C. C. P. JORGE ADALBERTO BECERRIL REYES
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 15 DE ENERO DE 1999.
 
@@ -2191,7 +2199,7 @@ SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de
 
 G.G. 21 DE JULIO DE 2006.
 
-DECRETO NUMERO 239, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTICULOS 8, 19, 40, 139, 147 BIS, 153, 155, 160, 163 Y 165, 168, 169, 171, 172, 173, 174 Y 175 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 239, POR EL QUE SE REFORMAN Y DEROGAN LOS ARTÍCULOS 8, 19, 40, 139, 147 BIS, 153, 155, 160, 163 Y 165, 168, 169, 171, 172, 173, 174 Y 175 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2207,7 +2215,7 @@ La "LVI" Legislatura elegirá a los nuevos titulares de las dependencias o ratif
 
 G.G. 21 DE JULIO DE 2006.
 
-DECRETO NUMERO 240, POR EL QUE SE ADICIONAN LOS ARTICULOS 179, 180, 181, 182, 183, 184, 185, 186 Y 187 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+DECRETO NÚMERO 240, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 179, 180, 181, 182, 183, 184, 185, 186 Y 187 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 ###### ARTICULO PRIMERO.
 
@@ -2293,7 +2301,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 G.G. 15 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 239 QUE ADICIONA LA FRACCION II BIS AL ARTICULO 160.
+DECRETO NÚMERO 239 QUE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 160.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -2301,7 +2309,7 @@ SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en
 
 G.G. 15 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 240 QUE ADICIONA EL ARTICULO 152 QUINQUIES.
+DECRETO NÚMERO 240 QUE ADICIONA EL ARTÍCULO 152 QUINQUIES.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -2346,3 +2354,9 @@ G.G. 2 DE DICIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE ABRIL DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
