@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-prevenir-y-atender-la-violencia-intrafamiliar-del-2285
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2001-12-07"
+last_updated: "2012-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA PREVENIR Y ATENDER LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 7 de diciembre de 2001.
 
@@ -49,9 +49,11 @@ La atención es una función del Estado que tiene como fin salvaguardar la integ
 
 Para prevenir la violencia intrafamiliar, el Estado promoverá y estimulará una cultura que favorezca y coadyuve a crear un marco objetivo de libertad e igualdad, entre los integrantes de la familia eliminando las causas y patrones que la generan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2012)</small>
+
 ###### Artículo 2.
 
-Para efecto de esta Ley, se considera como violencia intrafamiliar:
+Para efecto de esta ley, se considera como violencia familiar, todo acto de poder u omisión que tenga por efecto dominar, someter, controlar o agredir de manera física, verbal, psico-emocional, sexual, económica o patrimonial a cualquier miembro de la familia, dentro o fuera del domicilio familiar, con quien tenga parentesco consanguíneo, tenga o haya tenido parentesco por afinidad o civil, por vínculo de matrimonio, concubinato o relación de hecho y que cause daño o sufrimiento a la víctima, y que puede manifestarse en las siguientes formas:
 
 A).- Conducta Violenta.- El uso de la violencia física o verbal por cualquier miembro de la familia que ponga en riesgo la vida y/o la integridad física o moral de otro de sus integrantes, que le ocasione daños físicos o psicológicos o les impida su sano desarrollo psicosomático.
 
@@ -61,11 +63,23 @@ C).- Maltrato Verbal.- La agresión reiterada que ofenda, difame, injurie, agred
 
 D).- Maltrato Sexual.- La inducción a realizar prácticas sexuales no deseadas o que generen dolor y practicar la celotipia para el control, manipulación o dominio de la pareja. También se considera maltrato sexual, a los delitos contra la libertad sexual y su normal desarrollo previstos y sancionados en el Título Octavo del Código Penal para el Estado de Sinaloa.
 
-E).- Maltrato Psico-Emocional.- La prohibición, condicionamiento, coacción, intimidación, amenazas, actitudes devaluatorias o de abandono que deterioren, disminuyan o afecten la estructura familiar o la personalidad de cualquier integrante de la familia.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
-No se considerará maltrato psico-emocional los actos que tengan por objeto reprender o reconvenir adecuadamente a los menores de edad, siempre que aquéllos sean realizados por los padres o quienes participen en la formación y educación de los mismos, con el consentimiento de los padres del menor y se demuestre que están encaminados a su sano desarrollo.
+E).- Maltrato Psico-Emocional.- la prohibición, condicionamiento, coacción, intimidación, amenazas, actitudes devaluatorias o de abandono que deterioren, disminuyan o afecten la estructura familiar o la personalidad de cualquier integrante de la familia.
 
-E (SIC)).- Celotipia.- Los celos dirigidos a controlar y someter la voluntad de una persona a la propia.
+E (SIC)).- (DEROGADO, P.O. 25 DE ABRIL DE 2012)
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+F).- Celotipia.- Los celos dirigidos a controlar y someter la voluntad de una persona a la propia.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+G).- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; y
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+H).- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima.
 
 ###### Artículo 3.
 
@@ -79,7 +93,9 @@ III.- Miembros de la familia o parentesco familiar.- Es el vínculo jurídico qu
 
 A.- Si están o han estado unidas en matrimonio.
 
-B.- Si viven o han vivido en concubinato o amasiato.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+B.- Si viven o han vivido en concubinato o relación de hecho.
 
 C.- Si han procreado uno o más hijos en común.
 
@@ -87,9 +103,11 @@ D.- Si están vinculadas por parentesco consanguíneo, en línea recta o colater
 
 E.- Si están o han estado vinculadas por parentesco por afinidad o civil.
 
-F.- Si el agresor o la víctima es pariente por consanguinidad, sin limitación de grado, de la persona con quien está o aquel vive o ha vivido en concubinato o amasiato.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
-G.- Si la víctima esta bajo tutela, custodia o protección del agresor aunque no exista parentesco alguno.
+F.- Si la víctima está bajo tutela, custodia o protección del agresor aunque no exista parentesco alguno.
+
+G.- (DEROGADO, P.O. 25 DE ABRIL DE 2012)
 
 IV.- Orden de protección: El mandato expedido por escrito de autoridad competente, en el cual se ordenan las medidas cautelares, que para la familia señala la legislación civil del Estado.
 
@@ -127,7 +145,9 @@ XI. Los Consejos Municipales de prevención y atención de la violencia intrafam
 
 XII. Las organizaciones sociales que se destaquen por su trabajo y estudio en materia familiar; y,
 
-XIII. El Instituto Sinaloense de la Mujer.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
+
+XIII. El Instituto Sinaloense de las Mujeres.
 
 ###### Artículo 5.
 
@@ -618,3 +638,11 @@ Víctor Manuel Díaz Simental
 El Procurador General de Justicia del Estado
 
 Oscar Fidel González Mendivil
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
