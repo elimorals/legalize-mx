@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2012-04-13"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ABRIL DE 2012. EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 322 PUBLICADO EN EL P.O. DE 13 DE ABRIL DE 2012.</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -87,7 +87,7 @@ Del Estado en General, Forma de Gobierno, Nuevoleoneses y Ciudadanos.
 
 ###### Art. 28.
 
-El Estado de Nuevo León comprende el territorio de lo que fue la provincia del Nuevo Reyno de León, con los limites que marcan los convenios relativos con los Estados vecinos. y continúa dividido en las siguientes Municipalidades: Monterrey, (Capital del Estado), Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende, Bustamante, Cadereyta Jiménez, El Carmen, Cerralvo, Ciénega de Flores·, China, Doctor Arroyo, Doctor Coss, Doctor González, Galeana, García, General Bravo, General Escobedo, General Terán, General Treviño, General Zaragoza, General Zuazua, Guadalupe, Hidalgo, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Paras, Pesquerra, Rayanas, Sabinas Hidalgo, Salinas Victoria, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Santiago, Vallecillo, Villaldama y con las demás municipalidades que se formen en lo sucesivo.
+El Estado de Nuevo León comprende el territorio de lo que fue la provincia del Nuevo Reyno de León, con los límites que marcan los convenios relativos con los Estados vecinos, y continúa dividido en las siguientes Municipalidades: Monterrey, (Capital del Estado), Abasolo, Agualeguas, Anáhuac, Apodaca, Aramberri, Allende, Bustamante, Cadereyta Jiménez, El Carmen, Cerralvo, Ciénega de Flores, China, Doctor Arroyo, Doctor Coss, Doctor González, Galeana, García, General Bravo, General Escobedo, General Terán, General Treviño, General Zaragoza, General Zuazua, Guadalupe, Hidalgo, Higueras, Hualahuises, Iturbide, Juárez, Lampazos de Naranjo, Linares, Los Ramones, Los Aldamas, Los Herreras, Marín, Melchor Ocampo, Mier y Noriega, Mina, Montemorelos, Parás, Pesquería, Rayones, Sabinas Hidalgo, Salinas Victoria, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Santiago, Vallecillo, Villaldama y con las demás municipalidades que se formen en lo sucesivo.
 
 ###### Art. 29.
 
@@ -695,7 +695,7 @@ II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutiv
 
 > <small>(REFORMADA, P.O. 13 DE FEBRERO 2012)</small>
 
-III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la información y el Procurador General de Justicia;
+III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Administrativa, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Transparencia y Acceso a la Información y el Procurador General de Justicia;
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -1899,7 +1899,7 @@ XX. Someter a la aprobación del Congreso del Estado, la propuesta que le presen
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2005)</small>
 
-XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo.
+XXI.- Presentar a la Legislatura a más tardar el día veinte de noviembre, el presupuesto de egresos del año siguiente, proponiendo los arbitrios para cubrirlo..
 
 XXII.- (DEROGADA, P.O. 24 DE MAYO DE 1996)
 
@@ -2015,7 +2015,7 @@ Si la falta absoluta o impedimento perpetuo del Gobernador acaeciere dentro de l
 
 ###### Art. 92.
 
-Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos, salvo lo dispuesto en el artículo 89.
+Nunca se concederá al Ejecutivo licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluídala (sic) licencia no se presentare el Gobernador, será llamado por la Legislatura o Diputación; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo disponen los artículos 90 y 91 en sus respectivos casos; salvo lo dispuesto en el artículo 89.
 
 ###### Art. 93.
 
@@ -3909,7 +3909,7 @@ En el caso de que el crecimiento de los centros urbanos forme o tienda a formar 
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
-Cuando dos o más Municipios, cuya área urbana, funciones y actividades rebasan el límite del Municipio o demarcación que originalmente la contenía, incorporando como parta de sí misma o de su área de influencia directa a Municipios vecinos con los que mantiene un alto grado de integración socioeconómicos, de tal manera que se estime conveniente para la planeación y regulación del desarrollo urbano, la ejecución conjunta de obras o la prestación más eficaz de los servicios públicos que les competen, y en los términos que se señalen en la legislación aplicable, los Ayuntamientos respectivos podrán convenir con el Ejecutivo del Estado, la dimensión y los límites de una zona metropolitana.
+Cuando dos o más Municipios, cuya área urbana, funciones y actividades rebasan el límite del Municipio o demarcación que originalmente la contenía, incorporando como parte de sí misma o de su área de influencia directa a Municipios vecinos con los que mantiene un alto grado de integración socioeconómicos, de tal manera que se estime conveniente para la planeación y regulación del desarrollo urbano, la ejecución conjunta de obras o la prestación más eficaz de los servicios públicos que les competen, y en los términos que se señalen en la legislación aplicable, los Ayuntamientos respectivos podrán convenir con el Ejecutivo del Estado, la dimensión y los límites de una zona metropolitana.
 
 ## TITULO IX.
 
@@ -13815,8 +13815,6 @@ El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciend
 
 Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ABRIL DE 2012 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2011)</small>
 
 ###### Art. 3.
@@ -14085,11 +14083,11 @@ Cuando el Estado o sus Municipios, con motivo de su actividad administrativa pú
 
 Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial, y bajo los principios de seguridad jurídica, de la búsqueda de la verdad y de la transparencia, a través de los medios y en los términos que establezca la Ley, Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
+Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial, y bajo los principios de seguridad jurídica, de la búsqueda de la verdad y de la transparencia, a través de los medios y en los términos que establezca la Ley. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de controversias, en la forma y términos establecidos por las leyes. En la materia penal las leyes reglarán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+Toda persona en el Estado tiene derecho a resolver sus diferencias mediante métodos alternos para la solución de controversias, en la forma y términos establecidos por las leyes. En la materia penal las leyes regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -14201,7 +14199,7 @@ La ley establecerá beneficios a favor del inculpado, procesado o sentenciado qu
 
 IV. Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
 
-V. Será juzgado en audiencia pública por un Juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
+V. Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
 
 En delincuencia organizada, las actuaciones realizadas en la fase de investigación podrán tener valor probatorio, cuando no puedan ser reproducidas en juicio o exista riesgo para testigos o víctimas. Lo anterior sin perjuicio del derecho del inculpado de objetarlas o impugnarlas y sin aportar pruebas en contra.
 
@@ -14303,7 +14301,7 @@ El Congreso del Estado podrá legislar en materia de Asentamientos Humanos y Des
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, en los términos que señale la legislación correspondiente. El Programa deberá establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casa de juego y similares.
+El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, en los términos que señale la legislación correspondiente. El Programa deberá establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
@@ -15067,7 +15065,7 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 
 P.O. 23 DE FEBRERO DE 2004.
 
-DECRETO NUMERO 65, QUE REFORMA LOS ARTICULOS 46 Y 55.
+DECRETO NÚMERO 65, QUE REFORMA LOS ARTÍCULOS 46 Y 55.
 
 Articulo Primero.- El presente Decreto entrará en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado.
 
