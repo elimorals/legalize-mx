@@ -4,7 +4,7 @@ identifier: "LFFAOSC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2004-02-09"
-last_updated: "2011-08-05"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFFAOSC"
 
 LEY FEDERAL DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2012.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 9 de febrero de 2004.
 
@@ -96,7 +96,7 @@ Las organizaciones de la sociedad civil constituidas conforme a las leyes extran
 
 ### CAPÍTULO SEGUNDO. De las Organizaciones de la Sociedad Civil
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ENERO DE 2011)</small>
 
 ###### Artículo 5.
 
@@ -118,7 +118,9 @@ VI. Promoción de la equidad de género;
 
 VII. Aportación de servicios para la atención a grupos sociales con discapacidad;
 
-VIII. Cooperación para el desarrollo comunitario;
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2012)</small>
+
+VIII. Cooperación para el desarrollo comunitario en el entorno urbano o rural;
 
 IX. Apoyo en la defensa y promoción de los derechos humanos;
 
@@ -138,11 +140,15 @@ XV. Participación en acciones de protección civil;
 
 XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;
 
-> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 25 DE ABRIL DE 2012)</small>
 
-XVII. Promoción y defensa de los derechos de los consumidores, y
+XVII. Promoción y defensa de los derechos de los consumidores;
 
-XVIII. Las que determinen otras leyes.
+> <small>(ADICIONADA, D.O.F. 25 DE ABRIL DE 2012)</small>
+
+XVIII. Acciones que promuevan el fortalecimiento del tejido social y la seguridad ciudadana, y
+
+XIX. Las que determinen otras leyes.
 
 ###### Artículo 6.
 
@@ -262,7 +268,7 @@ VI. Las demás que le señale la ley.
 
 La Secretaría de Desarrollo Social será la encargada de coordinar a las dependencias y entidades para la realización de las actividades de fomento a que se refiere la presente ley, sin perjuicio de las atribuciones que las demás leyes otorguen a otras autoridades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -506,7 +512,7 @@ México, D.F., a 15 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de enero de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 28 DE ENERO DE 2011.
 
@@ -519,3 +525,7 @@ D.O.F. 16 DE JUNIO DE 2011.
 D.O.F. 5 DE AGOSTO DE 2011.
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE ABRIL DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
