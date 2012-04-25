@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2010-04-16"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-CODIGO CIVIL PARA EL ESTADO DE SINALOA
+CÓDIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -1827,6 +1827,10 @@ VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de lo
 
 Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+En los casos de violencia familiar, las medidas provisionales pertinentes deberán ser permanentes y continuas en la etapa de la averiguación previa penal o durante el proceso del juicio penal y/o civil. En el caso de que la sentencia sea condenatoria, el sujeto activo no regresará a la casa habitación.
+
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 283.
@@ -2105,7 +2109,9 @@ Los integrantes de la familia tienen derecho a que los demás miembros les respe
 
 Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física y psíquica o ambas independientemente de que pueda producir o no lesiones; siempre y cuando el agresor y el agredido habiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+Por violencia familiar se considera todo acto de poder u omisión que tenga por efecto dominar, someter, controlar o agredir de manera física, verbal, psico-emocional, sexual, económica o patrimonial a cualquier miembro de la familia, con quien tenga parentesco consanguíneo o civil, tenga o haya tenido parentesco por afinidad, por vínculo de matrimonio, concubinato o relación de hecho y que cause daño o sufrimiento a la víctima, independientemente de que pueda producir o no lesiones.
 
 ## TITULO VII.
 
@@ -16107,7 +16113,7 @@ El Secretario General de Gobierno,
 
 Lic. ALFREDO CRISTERNA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 16 DE ENERO DE 1941.
 
@@ -16383,7 +16389,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su
 
 P.O. 15 DE FEBRERO DE 2008.
 
-DECRETO NUMERO 48 POR EL QUE SE DEROGAN LOS ARTICULOS 381 Y 382 DEL CODIGO CIVIL PARA EL ESTADO DE SINALOA.
+DECRETO NÚMERO 48 POR EL QUE SE DEROGAN LOS ARTÍCULOS 381 Y 382 DEL CÓDIGO CIVIL PARA EL ESTADO DE SINALOA.
 
 ###### ARTICULO UNICO.
 
@@ -16391,7 +16397,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 P.O. 15 DE FEBRERO DE 2008.
 
-DECRETO NUMERO 49 POR EL QUE SE DEROGAN LOS ARTICULOS 62, 64, 158, 264, 265 Y 289; Y, SE REFORMA EL NUMERAL 288 DEL CODIGO CIVIL PARA EL ESTADO DE SINALOA.
+DECRETO NÚMERO 49 POR EL QUE SE DEROGAN LOS ARTÍCULOS 62, 64, 158, 264, 265 Y 289; Y, SE REFORMA EL NUMERAL 288 DEL CÓDIGO CIVIL PARA EL ESTADO DE SINALOA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -16428,6 +16434,12 @@ P.O. 8 DE FEBRERO DE 2010.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 16 DE ABRIL DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE ABRIL DE 2012.
 
 ###### ARTÍCULO ÚNICO.
 
