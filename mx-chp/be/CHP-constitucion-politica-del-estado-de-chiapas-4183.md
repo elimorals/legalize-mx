@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2012-02-15"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -169,9 +169,13 @@ El Estado de Chiapas, tiene una población pluricultural sustentada originalment
 
 También protege los derechos de los indígenas que por cualquier circunstancia se encuentren asentados dentro del territorio del Estado y que pertenezcan a otros pueblos indígenas.
 
-En el marco de las garantías individuales y los derechos humanos, el Estado protegerá y promoverá el desarrollo de la cultura, lenguas, usos, costumbres, tradiciones, sistemas normativos y formas de organización social, política y económica de las comunidades indígenas. También garantizará a sus integrantes el acceso pleno a la justicia, una vida libre de violencia, los servicios de salud y a una educación bilingüe que preserve y enriquezca su cultura, con perspectiva de género, equidad y no discriminación. Fomentará, asimismo, la plena vigencia de los derechos de los indígenas a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, a una vivienda digna y decorosa, así como los derechos de las mujeres y niños.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
 
-Se reconoce y protege el derecho de las comunidades indígenas para elegir a sus autoridades tradicionales de acuerdo a sus usos, costumbres y tradiciones, fomentando la participación de las mujeres.
+En el marco de las garantías individuales y los derechos humanos, el Estado protegerá y promoverá el desarrollo de la cultura, lenguas, usos, costumbres, tradiciones, sistemas normativos y formas de organización social, política y económica de las comunidades indígenas. También garantizará a sus integrantes el acceso pleno a la justicia, una vida libre de violencia, los servicios de salud y a una educación bilingüe que preserve y enriquezca su cultura, con perspectiva de género, equidad y no discriminación. Fomentará, asimismo, la plena vigencia de los derechos de los indígenas a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, a una vivienda digna y decorosa, así como los derechos de las mujeres, niñas y niños.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+Se reconoce y protege el derecho de las comunidades indígenas para elegir a sus autoridades tradicionales de acuerdo a sus usos, costumbres y tradiciones, fomentando la participación y empoderamiento de las mujeres.
 
 El Estado fomentará el eficaz ejercicio de los derechos de uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestres de las comunidades indígenas, en los términos y con las modalidades que establece la Constitución General de la República y las leyes reglamentarias respectivas.
 
@@ -629,7 +633,9 @@ II. Iniciar ante el Congreso de la Unión las leyes o decretos que sean de la co
 
 III. Crear y suprimir empleos de la Administración Pública Estatal y señalar las remuneraciones que correspondan.
 
-IV. Legislar, de manera enunciativa más no limitativa, en las materias económica, educativa, indígena, cultural, electoral, protección ciudadana, seguridad pública, beneficencia pública o privada, protección y preservación del patrimonio histórico y cultural del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
+
+IV. Legislar, de manera enunciativa más no limitativa, en las materias económica, educativa, indígena, cultural, electoral, protección ciudadana, seguridad pública, beneficencia pública o privada, equidad de género, protección y preservación del patrimonio histórico y cultural del Estado de Chiapas.
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -2619,6 +2625,10 @@ Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposic
 
 XXX. Nada en esta Constitución podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución particular.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+Los derechos consagrados en esta Constitución Política y las leyes reglamentarias emanadas de la misma, así como las referencias a las personas o de quienes conforman los Poderes Públicos, instituciones públicas y los organismos autónomos del Estado, deberán entenderse siempre con un ánimo de lenguaje incluyente y perspectiva de género, por encima de la cuestión gramatical con que se encuentren redactados; en ese tenor los nombramientos que para tal efecto se expidan, deberán referirse en cuanto a su género.
+
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
 ###### Artículo 1o.
@@ -3908,3 +3918,9 @@ Tercero.- La aplicación de las normas jurídicas relativas al Sistema de Justic
 Cuarto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, deberán realizar las gestiones necesarias para proveerse de los recursos económicos que se requieran para la instalación, funcionamiento y capacitación del Sistema de Justicia Acusatorio, correspondiente a la presente anualidad, de igual manera deberán proceder para los ejercicios fiscales subsiguientes en los presupuestos de egresos que al efecto presenten ante el Congreso del Estado.
 
 Quinto.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2012.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
