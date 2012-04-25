@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-sistema-para-el-desarrollo-integral-456
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-05"
-last_updated: "2005-07-05"
+last_updated: "2012-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 25 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 5 de julio de 2005.
 
@@ -478,3 +480,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 25 DE ABRIL DE 2012.
+
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial Gaceta del Gobierno.
+
+TERCERO.- Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 5 de julio de 2005.
