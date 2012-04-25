@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-republicano-ayuntamiento-de-15080"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-20"
-last_updated: "2010-07-02"
+last_updated: "2012-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de agosto de 1999.
 
@@ -791,7 +791,11 @@ b).- Formular estudios para realizar espectáculos gratuitos o de precios módic
 
 c).- Vigilar la correcta inspección y cumplimiento de las disposiciones legales de los establecimientos con venta y consumo de bebidas alcohólicas.
 
-d).- Estudiar, evaluar y poner a consideración del Ayuntamiento los dictámenes que presente el Secretario del Ayuntamiento, para el otorgamiento de las licencias para la venta de bebidas alcohólicas, según los requisitos marcados por el reglamento respectivo.
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+d).- Estudiar y evaluar los expediente (sic) de las solicitudes que le remita la Secretaría del Ayuntamiento, a fin de presentar, para la aprobación del Pleno del máximo órgano colegiado de gobierno municipal, el dictamen con proyecto de acuerdo, en el cual se otorgue o niegue a los solicitantes de los establecimientos con venta o expendio de bebidas alcohólicas la anuencia municipal, requerida para tramitar las licencias de apertura, permisos especiales, cambios de domicilio o de giro, así mismo conocerá, evaluara y presentara al Pleno del Ayuntamiento el proyecto de acuerdo del otorgamiento o negativa de la anuencia municipal relativa al refrendo, cancelación de operaciones, revocaciones y clausura de los establecimientos con venta o expendio de bebidas alcohólicas ubicados en la circunscripción territorial del municipio.
+
+Para el otorgamiento de la anuencia municipal de licencia para la venta de bebidas alcohólicas.
 
 e).- Proponer conjuntamente con la Comisión de Régimen Interior de Gobierno, reformas, modificaciones o adiciones a los Reglamentos que regulan la venta y/o consumo de bebidas alcohólicas, espectáculos, comercio, mercados y todo lo referente a su ramo.
 
@@ -1318,3 +1322,9 @@ P.O. 2 DE JULIO DE 2010.
 PRIMERO.- Las reformas por modificación y adición al articulado del Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L., entraran en vigor al dia siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, N.L.
+
+P.O. 25 DE ABRIL DE 2012.
+
+Primero.- La presente reforma al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Quedan sin efecto así mismo, todas las disposiciones municipales que contravengan lo establecido en la presente reforma al Reglamento Interior del Republicano Ayuntamiento de Guadalupe, Nuevo León.
