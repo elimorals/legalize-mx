@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2009-06-05"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -53,7 +53,7 @@ Sólo puede iniciar un procedimiento judicial o intervenir en él, quién tenga 
 
 Podrán promover los interesados, por sí o por medio de sus representantes o apoderados, el Ministerio Público, y aquéllos cuya intervención esté autorizada por la Ley en casos especiales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -207,7 +207,7 @@ A nadie puede obligarse a intentar, o proseguir una acción contra su voluntad, 
 
 I. Cuando alguno públicamente se jacte de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee. En este caso, el poseedor, o aquél de quien se dice que es deudor puede ocurrir al juez de su propio domicilio, pidiéndole que señale un término al jactancioso para que deduzca la acción que afirme tener, apercibido de que no haciéndolo en el plazo designado se tendrá por desistido de la acción que ha sido objeto de la jactancia. Este juicio se substanciará sumariamente. No se reputa jactancioso al que en algún acto judicial, o administrativo se reserva los derechos que pueda tener contra alguna persona, o sobre alguna cosa. La acción de jactancia prescribe a los tres meses desde la fecha en que tuviere lugar los dichos y hechos que la originan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCIÓN III], P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -217,33 +217,33 @@ II. Cuando alguno tenga acción, o excepción que dependa del ejercicio de acci�
 
 Las acciones duran lo que la obligación que representan, menos en los casos que la ley señala distintos plazos.
 
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000) (F. DE E., P.O. 15 DE ENERO DE 2001) (F. DE E., P.O. 23 DE FEBRERO DE 2001)
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2000)(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 ###### Artículo 34.
 
 Admitida la demanda y formulada la contestación, no podrán modificarse ni alterarse los puntos sobre los que verse la litis, salvo los casos en que la ley lo permita por hechos supervenientes.
 
-(F. DE E., P.O. 15 DE ENERO DE 2001) (F. DE E., P.O. 23 DE FEBRERO DE 2001)
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 El actor podrá desistirse de su demanda, mientras no haya sido emplazado a juicio el demandado, sin que por ello se le pueda fincar condena alguna. Una vez emplazado a juicio el demandado, el actor podrá desistirse de la instancia, pero requerirá para ello el consentimiento de aquél. Tanto el desistimiento de la demanda como el de la instancia, producirán el efecto de que las cosas vuelvan al estado que tenían hasta antes de la presentación de la demanda.
 
-(F. DE E., P.O. 15 DE ENERO DE 2001) (F. DE E., P.O. 23 DE FEBRERO DE 2001)
+(F. DE E., P.O. 15 DE ENERO DE 2001)(F. DE E., P.O. 23 DE FEBRERO DE 2001)
 
 El desistimiento de la pretensión extingue ésta, sin que para ello se requiera el consentimiento del demandado. El actor que se desista de la instancia o de la pretensión, será condenado a restituir al demandado los gastos y costas que hubiere legítimamente erogado, así como al pago de los daños y perjuicios que en su caso se le hubieren causado, salvo convenio en contrario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO SEXTO PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -297,37 +297,37 @@ III. La conexidad por causa;
 
 IV. La falta de personalidad o capacidad en el actor;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 V. La improcedencia de la vía;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VI. La falta de cumplimiento del plazo o de la condición a que esté sujeta la acción intentada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VII. La división;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 VIII. La excusión; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 IX. Las demás a que dieren ese carácter las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -339,7 +339,7 @@ Sólo formarán artículo de previo pronunciamiento la incompetencia, la litispe
 
 La incompetencia puede promoverse por declinatoria o por inhibitoria que se substanciará conforme al Capítulo III Título III.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -347,7 +347,9 @@ La incompetencia puede promoverse por declinatoria o por inhibitoria que se subs
 
 La excepción de litispendencia procede cuando un juez conoce ya del mismo negocio sobre el cual es demandado el reo. Quien la oponga deberá exhibir precisamente copia autorizada de la demanda y contestación del primer juicio, sin lo cual la dilatoria no será admitida a trámite, debiendo desecharse sin ulterior recurso. Del escrito en que se oponga y las constancias que se acompañen, se dará traslado por tres días a la contraria, dictando el juez resolución dentro de los tres días siguientes. Si se estima procedente, el juez sobreseerá y dará por concluido el procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 39.
 
@@ -361,7 +363,7 @@ I. Cuando los pleitos están en diversas instancias;
 
 II. Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan a tribunales de alzada diferentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -369,7 +371,7 @@ II. Cuando los juzgados que conozcan respectivamente de los juicios pertenezcan 
 
 La parte que oponga la excepción de conexidad acompañará a su escrito copia autorizada de todas las constancias del juicio conexo, sin lo cual no se dará trámite a la dilatoria, sin ulterior recurso. Del escrito en que se oponga y las constancias que se acompañen, se dará traslado por tres días a la contraria, dictando el juez resolución dentro de los tres días siguientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -377,7 +379,7 @@ La parte que oponga la excepción de conexidad acompañará a su escrito copia a
 
 Procedente la excepción de conexidad, se mandarán acumular los autos del juicio al más antiguo para que, aunque se sigan por cuerda separada, se resuelvan en la misma sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -409,9 +411,9 @@ Cuando haya transmisión, a un tercero, del interés con que se actúa en juicio
 
 Estas transmisiones no afectan al procedimiento judicial, excepto en los casos en que hagan desaparecer, por confusión substancial de intereses, la materia del litigio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 46 Bis.
 
@@ -421,7 +423,7 @@ Cuando se acredite en juicio el fallecimiento o la extinción de una de las part
 
 También se interrumpe el proceso cuando muere el representante procesal de una parte. En este caso, la interrupción cesa al vencimiento del plazo señalado por el Tribunal para la substitución del representante procesal desaparecido, siendo a perjuicio de la parte si no prove (sic) a su representación en el juicio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -487,7 +489,7 @@ De las actuaciones y resoluciones judiciales.
 
 Para la tramitación y resolución de los asuntos ante los tribunales ordinarios se estará a lo dispuesto por este Código, sin que por convenio de los interesados puedan renunciarse los recursos ni el derecho de recusación, ni alterarse, modificarse o renunciarse las normas del procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -495,7 +497,7 @@ Para la tramitación y resolución de los asuntos ante los tribunales ordinarios
 
 Las actuaciones judiciales y los ocursos de las partes deberán escribirse en español; estos últimos deben llevar la firma autógrafa de los interesados, o en su defecto la huella digital. El tribunal podrá mandar ratificar los escritos antes de darles curso, en los casos que estime conveniente, o cuando lo ordena la ley. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al español. Las fechas y cantidades se escribirán con letra.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -514,6 +516,14 @@ Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el 
 Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que a juicio del tribunal convenga que sean secretas.
 
 El acuerdo será reservado.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
+
+###### Artículo 59 Bis.
+
+En los procedimientos en que intervengan personas quienes no puedan hablar, oír, o no hablen el idioma español, formularán sus preguntas o contestaciones por escrito o por medio de un intérprete, que se designará de entre aquellos autorizados como auxiliares de la administración de justicia o por los colegios, asociaciones, barras de profesionales o instituciones públicas o privadas; en la celebración de audiencias el tribunal deberá otorgar la asistencia necesaria en materia de estenografía proyectada.
+
+Los intérpretes, al iniciar su función, serán advertidos de la (sic) penas en que incurren los falsos declarantes y sobre su obligación de traducir o interpretar fielmente lo dicho.
 
 ###### Artículo 60.
 
@@ -541,7 +551,7 @@ II. La multa, que será hasta de treinta días del salario mínimo general vigen
 
 III. La suspensión que no exceda de un mes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -595,7 +605,7 @@ Sólo se entregarán los autos a las partes para formar o glosar cuentas y para 
 
 Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además pagará los daños y perjuicios, quedando sujeto a las disposiciones del Código Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
 
@@ -7901,7 +7911,7 @@ El Secretario General de Gobierno,
 
 Lic. ALFREDO CRISTERNA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 29 DE MAYO DE 1941.
 
@@ -7951,13 +7961,13 @@ UNICO. El presente Decreto surte sus efectos legales a partir de la fecha de su 
 
 P.O. 15 DE MAYO DE 1948.
 
-DECRETO NO. 102, QUE SUPRIME LOS ARTICULOS 1°, 2° Y 3° TRANSITORIOS DEL DECRETO NUMERO 469, DEL P.O. 15 DE ABRIL DE 1944.
+DECRETO NO. 102, QUE SUPRIME LOS ARTÍCULOS 1°, 2° Y 3° TRANSITORIOS DEL DECRETO NÚMERO 469, DEL P.O. 15 DE ABRIL DE 1944.
 
 Artículo Unico.- El Presente Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 P.O. 15 DE MAYO DE 1948.
 
-DECRETO NO. 103, QUE REFORMA EL ARTICULO 475.
+DECRETO NO. 103, QUE REFORMA EL ARTÍCULO 475.
 
 ###### Artículo 1o.
 
@@ -7973,13 +7983,13 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos a partir de la fecha
 
 P.O. 3 DE MARZO DE 1956.
 
-DECRETO NO. 294, QUE REFORMA LOS ARTICULOS 627, 630 Y 631.
+DECRETO NO. 294, QUE REFORMA LOS ARTÍCULOS 627, 630 Y 631.
 
 UNICO.- El presente decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 3 DE MARZO DE 1956.
 
-DECRETO NO. 311, QUE REFORMA LOS ARTICULOS 110, 113, 114, 118 Y 119.
+DECRETO NO. 311, QUE REFORMA LOS ARTÍCULOS 110, 113, 114, 118 Y 119.
 
 UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
@@ -8154,3 +8164,9 @@ P.O. 5 DE JUNIO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
