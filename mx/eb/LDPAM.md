@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2012-04-09"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2012.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -192,7 +192,7 @@ VIII. De la denuncia popular:
 
 Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
 
-> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO UNICO TRANSITORIO.</small>
+> <small>N. DE E. PARA LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO ÚNICO TRANSITORIO.</small>
 
 > <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2006)</small>
 
@@ -244,7 +244,7 @@ III. Evitar que alguno de sus integrantes cometa cualquier acto de discriminaci�
 
 ### CAPÍTULO I. DE LOS OBJETIVOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 10.
 
@@ -336,7 +336,7 @@ II. Promover en coadyuvancia con la Secretaría de Relaciones Exteriores, la sus
 
 III. Establecer convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 17.
 
@@ -360,7 +360,7 @@ VII. El derecho de hacer uso de las bibliotecas públicas que facilitarán el pr
 
 VIII. Fomentar entre toda la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 18.
 
@@ -394,7 +394,7 @@ b. Serán sujetos de la confidencialidad y participarán en las decisiones que s
 
 c. Tendrán derecho a una nutrición adecuada y apropiada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 19.
 
@@ -622,9 +622,13 @@ h. Instituto Mexicano del Seguro Social.
 
 i. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
+> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2012)</small>
+
+j. Secretaría de Comunicaciones y Transportes.
+
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 31.
 
@@ -672,11 +676,11 @@ El Director General tendrá la representación legal del organismo, con todas la
 
 El Director General tendrá las atribuciones a que se refieren los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ### CAPÍTULO III. DEL CONSEJO CIUDADANO DE PERSONAS ADULTAS MAYORES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
 ###### Artículo 38.
 
@@ -798,7 +802,7 @@ México, D.F., a 30 de abril de 2002.- Sen. Diego Fernández de Cevallos Ramos, 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de junio de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 26 DE ENERO DE 2005.
 
@@ -819,3 +823,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 25 DE ABRIL DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
