@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2009-07-15"
+last_updated: "2012-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -523,9 +523,19 @@ IV. Brindar a las víctimas o al agresor, en su caso, la información integral s
 
 V. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
 
-VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres; y,
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2012)</small>
 
-VII. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+VI. Brindar protección para salvaguardar la integridad física de las víctimas y en su caso de quienes denuncien cualquier tipo de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ABRIL DE 2012)</small>
+
+VII. Crear un sistema de registro sistemático de los delitos cometidos en contra de mujeres, que integre la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia consignación, sanción y reparación del daño;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2012)</small>
+
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, así como en la investigación de feminicidios y violencia sexual; y
+
+IX. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 38.
 
@@ -811,8 +821,14 @@ El Secretario General de Gobierno
 
 Lic. Rafael Oceguera Ramos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE JULIO DE 2009.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE ABRIL DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
