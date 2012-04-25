@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-agricultura-21632"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-10"
-last_updated: "2009-07-31"
+last_updated: "2012-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21632&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-07-09"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, DESARROLLO RURAL, PESCA Y ALIMENTACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE AGRICULTURA, GANADERÍA, DESARROLLO RURAL, PESCA Y ALIMENTACIÓN, PUBLICADO EN EL D.O.F. DE 25 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento Interior publicado en la Primera Sección del Diario Oficial de la Federación, el martes 10 de julio de 2001.
 
@@ -2372,3 +2374,27 @@ QUINTO.- Las modificaciones que en virtud del presente Decreto se lleven a cabo 
 D.O.F. 31 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE ABRIL DE 2012.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, publicado el 10 de julio de 2001 en el Diario Oficial de la Federación y demás disposiciones administrativas que se opongan a este ordenamiento.
+
+TERCERO. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+CUARTO. Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
+
+QUINTO. La Oficialía Mayor de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades que correspondan, en los términos del presente Reglamento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
+
+SEXTO. Los derechos de los trabajadores serán respetados conforme a la ley y en ningún caso serán afectados por la reorganización que implica el presente Reglamento.
+
+SÉPTIMO. En tanto se expidan los manuales que en el presente Reglamento se determinan, se continuarán aplicando, en lo conducente, los vigentes.
+
+OCTAVO. Las atribuciones previstas en los artículos 37 al 60 del Reglamento que se abroga continuarán aplicándose en lo conducente, hasta en tanto se emita el Reglamento Interior del órgano administrativo desconcentrado correspondiente.
+
+NOVENO. Las erogaciones que se generen por la entrada en vigor del presente Reglamento Interior, deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en el ejercicio fiscal correspondiente, por lo que aquellas modificaciones que se lleven a cabo a su estructura orgánica, así como a las de los órganos administrativos desconcentrados, se deberán realizar mediante movimientos compensados que no impliquen aumento en el presupuesto regularizable de servicios personales aprobado para el presente ejercicio fiscal y subsecuentes.
+
+DÉCIMO. En tanto se emiten los reglamentos interiores de los órganos administrativos desconcentrados señalados en la fracción II del artículo 2 del presente Reglamento, el Secretario establecerá la estructura orgánica de apoyo administrativo, previamente aprobada por la Secretaría de la Función Pública, de los órganos administrativos desconcentrados, mediante acuerdos que serán publicados en el Diario Oficial de la Federación.
+
+DÉCIMO PRIMERO. En tanto se emite el Reglamento de la Ley General de Pesca y Acuacultura Sustentables y el Reglamento Interior de la Comisión Nacional de Acuacultura y Pesca, los Delegados de la Secretaría continuarán otorgando permisos y autorizaciones en materia de acuacultura y pesca con excepción de aquéllos cuya expedición competa exclusivamente a la Comisión Nacional de Acuacultura y Pesca, así como atendiendo a las instrucciones de carácter técnico administrativo, sistemas y procedimientos que establezca el titular de dicha Comisión.
