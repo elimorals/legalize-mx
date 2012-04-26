@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2011-del-pleno-del-consejo-de-la-81249"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-05-12"
-last_updated: "2012-02-29"
+last_updated: "2012-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81249&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-03"
 
 ACUERDO GENERAL 11/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2012.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 12 de mayo de 2011.
 
@@ -377,7 +377,9 @@ XXVIII. VIGESIMO OCTAVO CIRCUITO:
 
 2. Un tribunal unitario con sede en Tlaxcala.
 
-3. Dos juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 12/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE ABRIL DE 2012)</small>
+
+3. Tres juzgados de Distrito en el Estado de Tlaxcala, con residencia en la ciudad del mismo nombre.
 
 XXIX. VIGESIMO NOVENO CIRCUITO:
 
@@ -731,9 +733,9 @@ QUINTO. Se contará con:
 
 1. El Centro Auxiliar de la Primera Región, se integrará por nueve tribunales colegiados de Circuito Auxiliares, cuatro con residencia en el Distrito Federal, tres con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y siete juzgados de Distrito auxiliares, cinco con residencia en el Distrito Federal y dos en Cuernavaca, Morelos.
 
-> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 56/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO DÉCIMO DEL ACUERDO GENERAL 12/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE ABRIL DE 2012)</small>
 
-2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y siete juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla.
+2. El Centro Auxiliar de la Segunda Región, se integrará por cuatro tribunales colegiados de Circuito Auxiliares y seis juzgados de Distrito Auxiliares, con residencia en San Andrés Cholula, Puebla y dos juzgados de Distrito Auxiliares, con residencia en Puebla, Puebla.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 31/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2011)</small>
 
@@ -990,3 +992,11 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar, el uno de marzo de dos mil doce, el texto de la reforma al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
+
+D.O.F. 26 DE ABRIL DE 2012.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de circuito y de los Juzgados de distrito. Asimismo la reforma al Acuerdo General 10/2008, del Pleno Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos que lo integrarán.
