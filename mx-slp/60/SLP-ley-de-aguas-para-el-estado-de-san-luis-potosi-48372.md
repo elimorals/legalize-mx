@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2012-02-23"
+last_updated: "2012-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2012.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -681,7 +681,7 @@ Para el cumplimiento del Programa Estatal Hídrico deberá formularse el respect
 
 El Ejecutivo del Estado será quien apruebe el Programa Estatal Hídrico y sus programas operativos anuales, a propuesta de la Comisión.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 2011)</small>
 
 ### CAPITULO IV. Consejo Hídrico Estatal
 
@@ -1763,6 +1763,8 @@ A los contratos se aplicarán lo que respecto a las concesiones se establece en 
 
 #### SECCION TERCERA. De las Concesiones
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2012)</small>
+
 ###### ARTICULO 111.
 
 Como una alternativa para promover la participación de los sectores social y privado en la prestación de los servicios públicos, los organismos operadores descentralizados, podrán constituirse como sociedades anónimas bajo el régimen de empresas de participación municipal, cuando el ayuntamiento así lo considere conveniente, procediéndose a la venta parcial de hasta el cuarenta y nueve por ciento de las acciones representativas de su capital social, en los términos de ley y previa aprobación del Congreso del Estado.
@@ -1781,49 +1783,63 @@ Cuando los sectores social o privado posean más del cincuenta por ciento de las
 
 ###### ARTICULO 114.
 
-Para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, por parte de los particulares, se requerirá de concesión de conformidad con lo dispuesto en este Capítulo.
+Para la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, por parte de los particulares, se requerirá de concesión previa autorización del Congreso del Estado.
 
-Para otorgar una concesión, el ayuntamiento deberá realizar los estudios necesarios que determinen la factibilidad técnica y financiera de dicha concesión.
+El procedimiento para el otorgamiento de las concesiones se regirá por lo que establece el presente capítulo; y la Ley Orgánica del Municipio Libre.
 
-En igualdad de circunstancias se preferirá las empresas potosinas en la asignación de concesiones.
+En igualdad de circunstancias se preferirá a las empresas potosinas en la asignación de concesiones.
+
+En caso de existir organismo operador en el municipio que pretenda otorgar una concesión, éste presentará opinión técnica para justificar la imposibilidad de prestar el servicio público de agua potable, alcantarillado y saneamiento; ésta debe ser avalada por la Junta de Gobierno del mismo.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 115.
 
-Las concesiones mencionadas en el artículo anterior se otorgarán por el ayuntamiento, o por dos o más ayuntamientos en los términos del artículo 130 de esta Ley, previa licitación pública o adjudicación directa.
+Las concesiones se otorgarán por el ayuntamiento que se trate, previa licitación pública y autorización del Congreso del Estado.
 
-No procederá licitación pública cuando en los desarrollos habitacionales, comerciales, industriales y de servicios, dentro de su infraestructura, hayan realizado o contemplado inversiones que, aparte del equipamiento urbano, se contemple la construcción de los sistemas de suministro, distribución, medición, drenaje, alcantarillado y tratamiento de aguas residuales y su reuso. En estos casos procede el otorgar la concesión por adjudicación directa en los términos de esta Ley.
-
-Tanto en los casos de licitación, como en los de adjudicación directa, la concesión que se acuerde, debe ser acorde con el contenido del Proyecto Estratégico de Desarrollo del municipio que corresponda, para lo cual se contará con la opinión técnica de la Comisión y del organismo operador.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2012)</small>
 
 ###### ARTICULO 116.
 
-Las concesiones se otorgarán conforme a lo siguiente:
+Previo al otorgamiento de las concesiones, el ayuntamiento está obligado a:
 
-I. El ayuntamiento expedirá la convocatoria pública correspondiente para que, en un plazo de sesenta días naturales, se presenten las propuestas en sobres cerrados que serán abiertos en un día prefijado y en presencia de todos los participantes;
+I. Emitir convocatoria pública que establezca las bases del concurso del área geográfica donde se deberán prestar los servicios públicos; misma que se publicará simultáneamente en el Periódico Oficial del Estado, en un diario de circulación nacional y en el diario de mayor circulación de la localidad para que en un plazo de sesenta días naturales se presenten las propuestas en sobres cerrados, que serán abiertos en día prefijado y en presencia de las personas participantes;
 
-II. La convocatoria se publicará simultáneamente en el Periódico Oficial del Estado, en un diario de circulación nacional y en el diario de mayor circulación de la localidad;
+II. La convocatoria fijará los criterios para participar en el proceso de licitación pública; las que obligadamente expresarán:
 
-III. Las bases del concurso incluirán el señalamiento del área geográfica donde deberán prestarse los servicios públicos, y los criterios con los que se seleccionará el ganador, los que tomarán en cuenta las contra prestaciones ofrecidas por el otorgamiento de la concesión, la calidad del servicio que se propone, las inversiones comprometidas, las metas de desempeño físico y comercial, y las demás condiciones que se consideren convenientes;
+a) Contraprestaciones ofrecidas por el otorgamiento de la concesión.
 
-IV. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera, y cumplan con los requisitos que establezcan las bases que expida el ayuntamiento;
+b) Calidad del servicio que se propone conforme a las Normas Oficiales.
 
-V. Las propuestas a que se refiere la fracción I de este artículo, deberán contener la descripción técnica general y cronograma de las acciones y obras proyectadas; las estimaciones de los beneficios, costos, valor presente y rentabilidad asociados; las contraprestaciones propuestas; y los demás requisitos que se fijen en las bases de licitación;
+c) Cronograma de acciones.
 
-VI. Sólo se recibirán propuestas de quienes precalifiquen bajo los criterios técnicos y financieros establecidos en las bases de licitación;
+d) Inversiones comprometidas por parte del concursante.
 
-VII. A partir del acto de apertura de propuestas, durante el plazo en que las mismas se estudien y homologuen, se informará a todos los interesados de aquéllas que se desechen y las causas que motivaren tal determinación;
+e) Estimación de los beneficios.
 
-VIII. El ayuntamiento, con base en el análisis comparativo de las propuestas admitidas, emitirá el fallo debidamente fundado y motivado, el que será dado a conocer a todos los participantes;
+f) Metas de cobertura y eficiencia técnicas, físicas y comerciales.
 
-IX. La propuesta ganadora estará a disposición de los participantes durante diez días hábiles, a partir de que se haya dado a conocer el fallo;
+g) Estudios que garanticen la factibilidad técnica y de consumo, física, ambiental y financiera del área que se pretende concesionar.
 
-X. Dentro de los diez días hábiles siguientes al plazo señalado en la fracción anterior, los participantes podrán inconformarse ante el o los ayuntamientos, vencido dicho plazo, el o los ayuntamientos dictarán resolución en un término que no excederá de quince días hábiles, y
+h) Acreditar, en su caso, tener la titularidad de los derechos de explotación, uso o aprovechamiento de las aguas por parte de la persona concursante.
 
-XI. Una vez dictada la resolución, el ayuntamiento, en su caso, adjudicará la concesión, y publicará el título de concesión en el Periódico Oficial del Estado a costa del concesionario.
+i) Acreditar que el título de los derechos de explotación, uso o aprovechamiento de las aguas por parte de la persona concursante, corresponda al servicio que se prestará, en materia de uso público urbano.
 
-No se adjudicará la concesión cuando la o las propuestas presentadas no cumplan con las bases del concurso, o cuando el ayuntamiento, en el caso de la fracción X de este artículo, resuelva en sentido favorable al inconforme. En estos casos, se declarará desierto el concurso y se procederá a expedir una nueva convocatoria.
+j) Las demás condiciones que se consideren convenientes;
 
-En caso de que exista un organismo operador, éste emitirá su opinión respecto de los procedimientos que considere necesarios adoptar, para la transferencia de los bienes destinados a la prestación de los servicios públicos.
+III. Sólo se dará por recibidos e inscritos al concurso las personas que cumplan con las bases y criterios establecidas en la convocatoria;
+
+IV. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien, se informará a todas las personas participantes de aquéllas que se desechen y las causas que motivan tal determinación;
+
+V. El ayuntamiento, con base en el análisis comparativo de las propuestas admitidas, emitirá el fallo debidamente fundado y motivado, el que será dado a conocer a todos los participantes;
+
+VI. A partir de que se haya dado a conocer el fallo de la propuesta ganadora, ésta se encontrará a disposición de las personas participantes durante diez días hábiles;
+
+VII. Dentro de los diez días hábiles siguientes al plazo señalado en la fracción anterior, los participantes podrán inconformarse ante el o los ayuntamientos, vencido dicho plazo, el o los ayuntamientos dictarán resolución en un término que no excederá de quince días hábiles, y
+
+VIII. Una vez dictada la resolución, el ayuntamiento, en su caso, adjudicará la concesión, y mandará publicar el título de concesión en el Periódico Oficial del Estado, a costa del concesionario.
+
+No se adjudicará la concesión cuando la o las propuestas presentadas no cumplan con las bases del concurso; o cuando el ayuntamiento, en el caso de la fracción VII de este artículo, resuelva en sentido favorable al inconforme. En estos casos, se declarará desierto el concurso; y se procederá a expedir nueva convocatoria.
 
 ###### ARTICULO 117.
 
@@ -3043,7 +3059,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JULIO DE 2010.
 
@@ -3053,7 +3069,7 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 4 DE NOVIEMBRE DE 2010.
 
-DECRETO NUMERO 366, POR EL QUE SE REFORMA LOS ARTÍCULOS, 8° EN SU FRACCIÓN X, 23 EN SUS FRACCIONES V Y VI, Y 92 EN SU FRACCIÓN XII; Y ADICIONA A LOS ARTÍCULOS, 8° LAS FRACCIONES XI Y XII, POR LO QUE ACTUALES XI A XXXVII PASAN A SER FRACCIONES XIII A XXXIX, 19 EL PÁRRAFO SEXTO Y LOS INCISOS A) A G), 23 LAS FRACCIONES VII Y VIII, 92 DOS FRACCIONES, ESTAS COMO XIII Y XIV, POR LO QUE ACTUAL XIII PASA A SER FRACCIÓN XV, Y EL ARTÍCULO 190 BIS, DE Y A LA LEY DE AGUAS DEL ESTADO DE SAN LUIS POTOSÍ.
+DECRETO NÚMERO 366, POR EL QUE SE REFORMA LOS ARTÍCULOS, 8° EN SU FRACCIÓN X, 23 EN SUS FRACCIONES V Y VI, Y 92 EN SU FRACCIÓN XII; Y ADICIONA A LOS ARTÍCULOS, 8° LAS FRACCIONES XI Y XII, POR LO QUE ACTUALES XI A XXXVII PASAN A SER FRACCIONES XIII A XXXIX, 19 EL PÁRRAFO SEXTO Y LOS INCISOS A) A G), 23 LAS FRACCIONES VII Y VIII, 92 DOS FRACCIONES, ESTAS COMO XIII Y XIV, POR LO QUE ACTUAL XIII PASA A SER FRACCIÓN XV, Y EL ARTÍCULO 190 BIS, DE Y A LA LEY DE AGUAS DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3120,6 +3136,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 P.O. 23 DE FEBRERO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
