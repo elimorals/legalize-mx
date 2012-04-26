@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-1625
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-30"
-last_updated: "2000-05-30"
+last_updated: "2012-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16259&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-05-23"
 ---
 # REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE EVALUACION DEL IMPACTO AMBIENTAL
 
-REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE EVALUACION DEL IMPACTO AMBIENTAL
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2012.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de mayo de 2000.
 
@@ -99,6 +101,8 @@ VII. Las demás previstas en este reglamento y en otras disposiciones legales y 
 
 ### CAPÍTULO II. DE LAS OBRAS O ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL Y DE LAS EXCEPCIONES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 5o.
 
 Quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización de la Secretaría en materia de impacto ambiental:
@@ -115,7 +119,15 @@ IV. Obras de conducción para el abastecimiento de agua nacional que rebasen los
 
 V. Sistemas de abastecimiento múltiple de agua con diámetros de conducción de más de 25 centímetros y una longitud mayor a 100 kilómetros;
 
-VI. Plantas para el tratamiento de aguas residuales que descarguen líquidos o Iodos en cuerpos receptores que constituyan bienes nacionales;
+> <small>(REFORMADA, D.O.F. 26 DE ABRIL DE 2012)</small>
+
+VI. Plantas para el tratamiento de aguas residuales que descarguen líquidos o Iodos en cuerpos receptores que constituyan bienes nacionales, excepto aquellas en las que se reúnan las siguientes características:
+
+a) Descarguen líquidos hasta un máximo de 100 litros por segundo, incluyendo las obras de descarga en la zona federal;
+
+b) En su tratamiento no realicen actividades consideradas altamente riesgosas, y
+
+c) No le resulte aplicable algún otro supuesto del artículo 28 de la Ley;
 
 VII. Depósito o relleno con materiales para ganar terreno al mar o a otros cuerpos de aguas nacionales;
 
@@ -137,9 +149,17 @@ B) VÍAS GENERALES DE COMUNICACIÓN:
 
 Construcción de carreteras, autopistas, puentes o túneles federales vehiculares o ferroviarios; puertos, vías férreas, aeropuertos, helipuertos, aeródromos e infraestructura mayor para telecomunicaciones que afecten áreas naturales protegidas o con vegetación forestal, selvas, vegetación de zonas áridas, ecosistemas costeros o de humedales y cuerpos de agua nacionales, con excepción de:
 
-a) La instalación de hilos, cables o fibra óptica para la transmisión de señales electrónicas sobre la franja que corresponde al derecho de vía, siempre que se aproveche la infraestructura existente, y
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2012)</small>
 
-b) Las obras de mantenimiento y rehabilitación cuando se realicen en la franja del derecho de vía correspondiente.
+a) La instalación de hilos, cables o fibra óptica para la transmisión de señales electrónicas sobre la franja que corresponde al derecho de vía, siempre que se aproveche la infraestructura existente;
+
+> <small>(REFORMADO, D.O.F. 26 DE ABRIL DE 2012)</small>
+
+b) Las obras de mantenimiento y rehabilitación cuando se realicen en la franja del derecho de vía correspondiente, y
+
+> <small>(ADICIONADO, D.O.F. 26 DE ABRIL DE 2012)</small>
+
+c) Las carreteras que se construyan, para un tránsito promedio diario de hasta un máximo de 500 vehículos, en las cuales la velocidad no exceda de 70 kilómetros por hora, el ancho de calzada y de corona no exceda los 6 metros y no tenga acotamientos, quedando exceptuadas aquellas a las que les resulte aplicable algún otro supuesto del artículo 28 de la Ley.
 
 C) OLEODUCTOS, GASODUCTOS, CARBODUCTOS Y POLIDUCTOS:
 
@@ -268,6 +288,32 @@ c) La construcción de viviendas unifamiliares para las comunidades asentadas en
 R) OBRAS Y ACTIVIDADES EN HUMEDALES, MANGLARES, LAGUNAS, RÍOS, LAGOS Y ESTEROS CONECTADOS CON EL MAR, ASÍ COMO EN SUS LITORALES O ZONAS FEDERALES:
 
 I. Cualquier tipo de obra civil, con excepción de la construcción de viviendas unifamiliares para las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiees para las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requie para las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requie para las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
+
+II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
 
 II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requieren de la presentación de una manifestación de impacto ambiental, así como de las de navegación, autoconsumo o subsistencia de las comunidades asentadas en estos ecosistemas.
 
@@ -866,3 +912,11 @@ Tercero. Todos los procedimientos de solicitudes de evaluación de impacto ambie
 Cuarto. Las obras o actividades que correspondan a remodelaciones de una obra que se encuentre operando desde antes de 1988, no deberán someterse al procedimiento de evaluación de impacto ambiental.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de mayo de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Energía, Luis Téllez Kuenzler.- Rúbrica.- El Secretario de Agricultura, Ganadería y Desarrollo Rural, Romárico Arroyo Marroquín.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE ABRIL DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los trámites que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución, se resolverán conforme a las disposiciones vigentes en el momento de su iniciación.
