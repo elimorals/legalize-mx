@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-centro-de-evaluacion-y-control-de-68801
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-29"
-last_updated: "2009-05-29"
+last_updated: "2012-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE EVALUACION Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO INTERIOR DEL CENTRO DE EVALUACION Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO.
+REGLAMENTO INTERIOR DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA DEL ESTADO DE GUANAJUATO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 29 de mayo de 2009.
 
@@ -55,11 +55,25 @@ Atribuciones generales del Centro
 
 El Centro tendrá a su cargo las atribuciones previstas en su Decreto de creación, el presente Reglamento, el marco normativo de la materia y las disposiciones que emitan las instancias competentes.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
+
 ###### Artículo 3.
 
-Procedimiento de la actividad evaluadora
+Proceso de evaluación de Control de Confianza
 
-La actividad evaluadora y de control de confianza del Centro se llevará a cabo de conformidad a los procedimientos que se establezcan con base en los preceptos de este instrumento reglamentario, así como en los derivados de marco normativo aplicable.
+El proceso de evaluación de control de confianza se llevará a cabo de acuerdo con los lineamientos, criterios, políticas y protocolos que establezcan el Centro. Nacional de Certificación y Acreditación y el propio Centro, así como con base en los demás instrumentos normativos aplicables. Este proceso podrá comprender las siguientes examinaciones:
+
+l. De investigación socioeconómica:
+
+II. Médica;
+
+III. Poligráfica;
+
+IV. Psicológica; y
+
+V. Toxicológica
+
+El Centro aplicará el proceso de evaluación de control de confianza a integrantes y aspirantes a ingresar a instituciones de seguridad pública, y podrá aplicarlo a integrantes y aspirantes a ingresar a instancias de seguridad privada.
 
 ### Capítulo II. Consejo Directivo
 
@@ -109,7 +123,9 @@ b) Coordinación de Desarrollo Institucional;
 
 c) Coordinación de Administración; y
 
-d) Coordinación de Tecnología.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
+
+d). Coordinación de Tecnologías de la Información y Telecomunicaciones.
 
 III. Dirección Técnica:
 
@@ -121,7 +137,9 @@ c) Coordinación de Evaluación e Investigación Socioeconómica;
 
 d) Coordinación de Evaluación Médica y Toxicológica;
 
-e) Coordinación de Evaluación Competencial; y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
+
+e) Coordinación de integración de Resultados y Certificación; y
 
 f) Coordinación Operativa y de Vinculación.
 
@@ -155,7 +173,9 @@ V. Establecer los lineamientos y programas de capacitación para el personal del
 
 VI. Autorizar los cambios de adscripción del personal del Centro;
 
-VII. Proponer, para aprobación del Consejo Directivo, las normas técnicas que rijan los procesos de evaluación y control de confianza que realice el Centro;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+VII. Formular los criterios y normas técnicos (sic) que rijan los procesos de evaluación y control de confianza que realice el Centro de conformidad con la normatividad aplicable;
 
 VIII. Establecer directrices y lineamientos para la ejecución de los procedimientos de evaluación elaborados por el Centro;
 
@@ -175,7 +195,9 @@ XV. Colaborar con las instancias de seguridad pública y procuración de justici
 
 XVI. Definir los lineamientos de reclutamiento, selección, evaluación y ponderación del desempeño del personal adscrito al Centro;
 
-XVII. Asesorar a instancias diversas a las de seguridad pública y procuración de justicia, en la definición, aplicación y seguimiento de evaluaciones de su personal en materia de control de confianza;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XVII. Asesorar en materia de control de confianza a las instituciones de seguridad pública, así como a cualquier otra instancia que así lo solicite;
 
 XVIII. Vincular al Centro con instancias que puedan apoyar la estructuración de mejoras a sus procesos de evaluación;
 
@@ -185,13 +207,31 @@ XX. Establecer sistemas de resguardo seguro de la información generada u obteni
 
 XXI. Crear las bases de datos del Centro, las que deberán ser acordes a las condiciones y características dispuestas para registros y archivos de información en materia de seguridad pública;
 
-XXII. Emitir los dictámenes de evaluación integrados a las instituciones correspondientes;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XXIII. Expedir las constancias y certificaciones que correspondan;
+XXII. Emitir resultados, constancias y, cuando así corresponda, certificados, producto de las evaluaciones realizadas;
 
-XXIV. Divulgar las funciones del Centro y los beneficios de una cultura institucional de evaluación y control de confianza; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XXV. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confiera el Consejo Directivo del Centro.
+XXIII. Ejercer de manera directa cualquiera de las facultades encomendadas a las unidades administrativas del Centro;
+
+XXIV. Divulgar las funciones del Centro y los beneficios de una cultura institucional de evaluación y control de confianza; y (sic)
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXV. Actualizar los resultados emitidos y, en su caso, realizar la cancelación de certificados o la suspensión de sus efectos, conforme a las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXVI. Informar a las instituciones correspondientes sobre las evaluaciones que se practiquen y sobre los certificados que se emitan, con las reservas previstas en la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXVII. Conformar comités, comisiones y equipos de trabajo al interior del Centro; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXVIII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquéllas que le confiera el Consejo Directivo del Centro.
 
 ### Capítulo V. Facultades Genéricas de los Directores y Coordinadores
 
@@ -227,9 +267,15 @@ VIII. Ejercer de manera directa cualquiera de las facultades encomendadas a las 
 
 IX. Coordinar la integración del anteproyecto de presupuesto de las unidades administrativas que les estén adscritas;
 
-X. Proporcionar la información y cooperación técnica que les sea solicitada por otras autoridades del Gobierno del Estado o de los gobiernos Federal, estatales y municipales, y por los particulares, previo acuerdo con el Director General, y de conformidad con la normatividad aplicable; y
+X. Proporcionar la información y cooperación técnica que les sea solicitada por otras autoridades del Gobierno del Estado o de los gobiernos Federal, estatales y municipales, y por los particulares, previo acuerdo con el Director General, y de conformidad con la normatividad aplicable;
 
-XI. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Director General o el Consejo Directivo del Centro.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XI. Expedir copias certificadas de los documentos que se encuentren en los archivos de sus Direcciones; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Director General o el Consejo Directivo del Centro.
 
 ###### Artículo 13.
 
@@ -265,9 +311,15 @@ XIII. Proponer al Director de su adscripción, según corresponda, las modificac
 
 XIV. Intervenir en la selección, adscripción y promoción del personal de la unidad administrativa a su cargo y en el otorgamiento de las licencias a que haya lugar, en los términos de la normatividad aplicable;
 
-XV. Rendir informes sobre las actividades realizadas, con la periodicidad que determine el Director General, el Director respectivo o el Consejo Directivo del Centro; y
+XV. Rendir informes sobre las actividades realizadas, con la periodicidad que determine el Director General, el Director respectivo o el Consejo Directivo del Centro; y (sic)
 
-XVI. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyan, así como aquellas que le confieran el Director General, el Director de su adscripción o el Consejo Directivo del Centro.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XVI. Suscribir las comisiones del personal a su cargo informando de ello a su superior jerárquico; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XVII. Las demás que las disposiciones legales, reglamentarias y administrativas le atribuyen, así como aquellas que le confieran el Director General, el Director de su adscripción o el Consejo Directivo del Centro.
 
 ### Capítulo VI. Dirección de Gestión
 
@@ -283,7 +335,9 @@ II. Coordinación de Desarrollo Institucional;
 
 III. Coordinación de Administración; y
 
-IV. Coordinación de Tecnología.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+IV. Coordinación de Tecnologías de la Información y Telecomunicaciones.
 
 ###### Artículo 15.
 
@@ -319,9 +373,11 @@ La Coordinación de Asuntos Jurídicos tendrá, además de las genéricas, las s
 
 I. Fungir como consejero jurídico del Centro;
 
-II. Representar jurídicamente al Centro y a sus unidades administrativas, previa delegación que de ello haga el Director General, ante cualquier autoridad federal o local, en los juicios, investigaciones o procedimientos de toda índole;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-III. Rendir por ausencia del Director General, los informes previos, justificados y sobre cumplimiento de ejecutorias, comparecencias y medios de impugnación que correspondan;
+II. Representar al Centro ante cualquier autoridad jurisdiccional o administrativa en los procesos o procedimientos en los que sea parte;
+
+III. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 IV. Fungir como órgano de asesoría y consulta en la interpretación de las disposiciones legales competencia del Centro;
 
@@ -345,11 +401,31 @@ XIII. Identificar, compilar y analizar la normativa constitucional, legal y regl
 
 XIV. Someter a consideración de sus superiores los anteproyectos de reglamentos y demás disposiciones para normar la actividad evaluadora de control de confianza, así como las operaciones administrativas del Centro;
 
-XV. Tramitar y, en su caso, interponer, previa delegación de atribuciones por parte del Director General, las denuncias o querellas por hechos presuntamente delictuosos cometidos en agravio del Centro, así como las quejas de índole administrativa que procedan por actos indebidos del personal;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XV. Interponer las denuncias o querellas por hechos presuntamente delictuosos cometidos en agravio del Centro, así como, en su caso, desistirse y otorgar el perdón;
 
 XVI. Formular o revisar todo acto jurídico en el que intervenga el Centro, en coordinación con el área cuya función lo origine; y
 
-XVII. Tramitar y dar respuesta a las solicitudes de información que se realicen al Centro, en los términos de la ley de la materia.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XVII. Instaurar y resolver el procedimiento de responsabilidad administrativa de conformidad con la normativa aplicable, en caso de que así lo determine el titular del Centro;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XVIII. Realizar las acciones necesarias para que los conflictos laborales, que por su naturaleza lo permitan, sean resueltos mediante el procedimiento de conciliación;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XIX. Instaurar y resolver los procedimientos internos en materia laboral de acuerdo a lo previsto en las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XX. Tramitar y dar respuesta a las solicitudes de información que se realicen en el Centro, fungiendo como unidad de enlace con la unidad de acceso a la información pública del Poder Ejecutivo; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXI. Presentar conforme a la normativa aplicable las quejas de índole administrativa que procedan por actos indebidos del personal adscrito al Centro.
 
 #### Sección Segunda. Coordinación de Desarrollo Institucional
 
@@ -359,7 +435,9 @@ Facultades de la Coordinación de Desarrollo Institucional
 
 La Coordinación de Desarrollo Institucional tendrá, además de las genéricas, las siguientes facultades:
 
-I. Impulsar, crear, programar y coordinar estrategias de planeación, seguimiento y control de resultados de las evaluaciones realizadas por el Centro;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+l. Apoyar la formulación de estrategias de planeación, seguimiento y control de resultados de las evaluaciones realizadas por el Centro;
 
 II. Diseñar, impulsar y coordinar proyectos de innovación y crecimiento del Centro;
 
@@ -379,9 +457,13 @@ IX. Establecer los vínculos interinstitucionales necesarios con las áreas del 
 
 X. Apoyar en la instrumentación de un sistema de control para el aprovechamiento eficiente de los recursos humanos, financieros y materiales;
 
-XI. Impulsar el diseño, implementación y desarrollo herramental tecnológico en los procesos del Centro; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XII. Colaborar en el diseño e implementación de programas relativos al desarrollo del personal adscrito al Centro.
+XI. Integrar y proponer para su aprobación el informe y programa anual de trabajo del Centro; y
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XII. Elaborar para su aprobación informes periódicos de seguimiento al programa anual de trabajo del Centro.
 
 #### Sección Tercera. Coordinación de Administración
 
@@ -391,21 +473,33 @@ Facultades de la Coordinación de Administración
 
 La Coordinación de Administración tendrá, además de las genéricas, las siguientes facultades:
 
-I. Planear, controlar, organizar y vigilar la correcta difusión y aplicación de las políticas y los procedimientos para la administración de los recursos financieros, materiales y humanos del Centro;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-II. Elaborar proyectos para la adquisición de equipos y materiales, y verificar el cumplimiento de la normativa aplicable;
+l. Coordinar y vigilar la correcta difusión y aplicación de la normativa aplicable para la administración de los recursos financieros, materiales y humanos del Centro;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+II. Elaborar y presentar para su aprobación los programas de adquisición de bienes y servicios del Centro;
 
 III. Optimizar el uso de todos los bienes muebles e inmuebles asignados al Centro para el óptimo cumplimiento de sus programas, objetivos y metas, y llevar el registro actualizado de los mismos;
 
-IV. Planear, organizar y vigilar las actividades relacionadas con la administración de los recursos humanos, financieros y materiales, de acuerdo a los programas y objetivos del Centro;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-V. Elaborar el anteproyecto de presupuesto anual de egresos, conforme a las necesidades del Centro, así como supervisar y controlar el ejercicio del presupuesto;
+IV. Administrar los recursos humanos, financieros y materiales del Centro de acuerdo a los programas y objetivos institucionales, y de conformidad con las disposiciones normativas aplicables;
 
-VI. Ejercer el presupuesto del Centro a través de las partidas correspondientes previamente autorizadas e informar sobre su manejo;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+V. Formular y proponer a su superior jerárquico el anteproyecto de presupuesto anual de egresos y el pronóstico de ingresos conforme a los objetivos y metas del Centro; así como supervisar y controlar el ejercicio del presupuesto;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+VI. Elaborar y presentar de manera oportuna informes financieros a sus superiores, así como a las demás instancias competentes sobre el ejercicio del presupuesto;
 
 VII. Administrar los ingresos y egresos del Centro y llevar su contabilidad;
 
-VIII. Proponer las modificaciones programáticas y presupuestales que se requieran, de acuerdo con los lineamientos señalados por las autoridades en materia de ejercicio y gasto de los recursos públicos;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+VIII. Sugerir y tramitar las modificaciones programáticas y presupuestales necesarias para el cumplimiento de los programas y objetivos del Centro;
 
 IX. Efectuar los trámites administrativos de contratación, nombramientos, promociones, cambios de adscripción, licencias, vacaciones, bajas, dotación de documentos de identificación y demás necesarios para el manejo adecuado del personal del Centro;
 
@@ -427,17 +521,29 @@ XVII. Implementar sistemas que mejoren la calidad y cantidad de la captura de in
 
 XVIII. Formular mecanismos para la recepción, trámite y despacho de documentación;
 
-XIX. Establecer esquemas archivísticos de resguardo de expedientes e información; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-XX. Supervisar el control de archivos y correspondencia del Centro.
+XIX. Administrar el archivo del Centro en coordinación con los titulares de las áreas que lo integran con excepción de expedientes de evaluados, lo que será competencia de la Dirección Técnica;
 
-#### Sección Cuarta. Coordinación de Tecnología
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XX. Implementar programas relativos al desarrollo del personal; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XXI. Coordinar la seguridad al interior del Centro.
+
+REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2012)
+
+#### Sección Cuarta. Coordinación de Tecnologías de la Información y Telecomunicaciones
 
 ###### Artículo 19.
 
 Facultades de la Coordinación de Tecnología
 
-La Coordinación de Tecnología tendrá, además de las genéricas, las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2012)</small>
+
+La Coordinación de Tecnologías de la Información y Telecomunicaciones tendrá, además de las genéricas, las siguientes facultades:
 
 I. Desarrollar sistemas informáticos que permitan la captura, resguardo, cruce y manejo de datos e información de manera digitalizada, segura y ágil;
 
@@ -481,7 +587,9 @@ III. Coordinación de Evaluación e Investigación Socioeconómica;
 
 IV. Coordinación de Evaluación Médica y Toxicológica;
 
-V. Coordinación de Evaluación Competencial; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+V. Coordinación de Integración de Resultados y Certificación; y
 
 VI. Coordinación Operativa y de Vinculación.
 
@@ -493,11 +601,17 @@ La Dirección Técnica tendrá, además de las genéricas, las siguientes facult
 
 I. Diseñar lineamientos procedimentales de actuación funcional con base en la mejora continua de las áreas bajo su responsabilidad;
 
-II. Formular, en conjunto con los titulares de las coordinaciones a su cargo, las políticas, procedimientos, lineamientos y directrices de índole técnica en materia psicológica, poligráfica, de investigación socioeconómica, médica y toxicológica, de evaluación competencial y de operación y vinculación, así como desarrollar los esquemas, planes, programas y manuales inherentes, así como mantenerlos actualizados;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
 
-III. Desarrollar esquemas de asesoría, supervisión y control en la aplicación de las directrices y políticas de evaluación y emisión de resultados, respecto de los exámenes de control de confianza y aptitud competencial, en observancia a los lineamientos que en la materia emitan las instancias competentes;
+II. Formular, en conjunto con los titulares de las coordinaciones a su cargo, las políticas, procedimientos, lineamientos y directrices de índole técnica en materia psicológica, poligráfica, de investigación socioeconómica, médica y toxicológica, integración de resultados y certificación, de operación y vinculación, así como desarrollar los esquemas, planes, programas y manuales inherentes, así como mantenerlos actualizados;
 
-IV. Coordinar la aplicación técnica de evaluaciones de las coordinaciones de psicología, poligrafía, de investigación socioeconómica, médica y toxicológica, de evaluación competencial y de operación y vinculación;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+III. Desarrollar esquemas de asesoría, supervisión y control en la aplicación de las directrices y políticas de evaluación y emisión de resultados, respecto de los exámenes de control de confianza, en observancia a los lineamientos que en la materia emitan las instancias competentes;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+IV. Coordinar la aplicación técnica de evaluaciones de las coordinaciones de psicología, poligrafía, investigación socioeconómica, médica y toxicológica;
 
 V. Confeccionar los planes, programas y cronogramas de trabajo individuales que se requieran para la atención de los procesos de evaluación que se soliciten al Centro;
 
@@ -507,13 +621,15 @@ VII. Definir y controlar la observancia de los criterios de aceptación que debe
 
 VIII. Obtener y mantener actualizados, para su uso como referencia en cada proceso de evaluación, los perfiles de puestos de las instancias de seguridad pública y de procuración de justicia;
 
-IX. Integrar un grupo de instructores-evaluadores certificados para los procesos de evaluación competencial;
+IX. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 X. Elaborar modelos sistémicos de vinculación entre las coordinaciones bajo su control a efecto de hacer más eficiente la emisión de resultados;
 
 XI. Autorizar e integrar resultados de evaluaciones para su ponderación conjunta;
 
-XII. Conformar, con participación del área de control documental, los expedientes de cada evaluado con apego a los lineamientos de confidencialidad y resguardo de información correspondientes;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+
+XII. Administrar, a través de su área de archivo y con la participación de las coordinaciones del área técnica, la integración, archivo y resguardo de expedientes de los evaluados en apego a las disposiciones aplicables;
 
 XIII. Dar seguimiento a los resultados estadísticos del desempeño de las coordinaciones, para generar un programa de acciones específicas de mejora y productividad; y
 
@@ -525,7 +641,9 @@ XIV. Apoyar al Director General en la exposición de asuntos técnico-metodológ
 
 Facultades coincidentes de los titulares de las Coordinaciones adscritas a la Dirección Técnica
 
-Los titulares de las Coordinaciones de Evaluación Psicológica, Poligráfica, de Investigación Socioeconómica, Médica y Toxicológica, Competencial, y Operativa y de Vinculación, tendrán, en lo que corresponda de acuerdo a la índole de la unidad administrativa bajo su cargo, las siguientes facultades coincidentes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2012)</small>
+
+Los titulares de las Coordinaciones de Evaluación Psicológica, Poligráfica, de Investigación Socioeconómica, Médica y Toxicológica, Integración de Resultados y Certificación, Operativa y de Vinculación, tendrán, en lo que corresponda de acuerdo a la índole de la unidad administrativa bajo su cargo, las siguientes facultades coincidentes:
 
 I. Planear, dirigir, organizar y supervisar las evaluaciones que se practiquen en observancia a las normas, políticas, lineamientos técnicos, procedimientos y metodologías establecidas;
 
@@ -623,23 +741,35 @@ III. Definir los ámbitos a abordar para la obtención de la historia clínica d
 
 IV. Supervisar el cumplimiento de los términos de la entrevista profunda e interrogatorio médico por aparatos y sistemas.
 
-#### Sección Sexta. Coordinación de Evaluación Competencial
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2012)</small>
+
+#### Sección Sexta. Coordinación de Integración de Resultados y Certificación
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
 
 ###### Artículo 27.
 
-Facultades de la Coordinación de Evaluación Competencial
+Facultades de la Coordinación de integración de Resultados y Certificación
 
-La Coordinación de Evaluación Competencial tendrá, además de las genéricas y de las coincidentes, las siguientes facultades:
+La Coordinación de Integración de Resultados y Certificación, tendrá además de las genéricas y de las coincidentes, las siguientes facultades:
 
-I. Conducir la selección de instrumentos de evaluación de acuerdo a la habilidad, destreza o conocimiento a ponderar;
+l. Coordinar la emisión del resultado integral de control de confianza;
 
-II. Convocar y organizar círculos de evaluadores certificados, así como definir reglas de operación;
+II. Revisar, con apego a criterios y procedimientos técnicos, el contenido, orientación y coherencia del resultado integral de control de confianza;
 
-III. Establecer estrategias y lineamientos de trabajo que garanticen el resultado de la evaluación competencial;
+III. Coordinar la participación de los titulares de las áreas técnicas de evaluación para revisar y sustentar el resultado integral de control de confianza;
 
-IV. Establecer coordinación con instituciones que cuenten con instructores evaluadores especializados; y
+IV. Coordinar las actividades necesarias para elaborar, revisar, imprimir, registrar y remitir resultados y certificados;
 
-V. Supervisar la elaboración de reportes de evaluaciones competenciales, así como del diagnóstico resultante con la finalidad de dar seguimiento a la correcta integración y cumplimiento de objetivos.
+V. Establecer y operar sistemas que permitan el registro y control de resultados y certificados; con base en ello, dar seguimiento a su vigencia y señalar próximos periodos de evaluación;
+
+VI. Identificar a los elementos evaluados y aprobados que requieran seguimiento o estén sujetos a una restricción, así como validar y registrar las acciones realizadas por las instituciones de adscripción de los evaluados, para que en coordinación con el área operativa y de vinculación, se programen nuevos procesos evaluatorios cuando así corresponda;
+
+VII. Coordinar las actividades necesarias para que los certificados cuenten con las características y medidas de seguridad que determinen las disposiciones normativas aplicables;
+
+VIII. Operar la cancelación o suspensión de los efectos de certificados conforme a la normativa aplicable; y
+
+IX. Realizar las acciones necesarias para la ágil emisión de resultados y certificados conforme a las disposiciones en la materia.
 
 #### Sección Séptima. Coordinación Operativa y de Vinculación
 
@@ -663,7 +793,7 @@ VI. Formular, en conjunto con las unidades administrativas evaluadoras, el progr
 
 VII. Vigilar el desarrollo de los procesos y atender cualquier incidencia operativa y de seguridad;
 
-VIII. Apoyar en la integración de expedientes de los evaluados por el Centro; y
+VIII. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 IX. Diseñar acciones tendentes al fomento y difusión de la conveniencia y pertinencia de las evaluaciones y controles de confianza, así como de la función del Centro.
 
@@ -701,7 +831,7 @@ IX. Intervenir en los procesos de adjudicación en materia de adquisiciones en l
 
 X. Fiscalizar los recursos federales que ejerza el Centro, derivados de los acuerdos o convenios respectivos;
 
-XI. Participar en los procesos de evaluación como ente fiscalizador de la transparencia y objetividad, así como para atender cualquier incidencia de queja;
+XI. (DEROGADA, P.O. 27 DE ABRIL DE 2012)
 
 XII. Intervenir en las actas de entrega recepción en los términos que establece el Reglamento para la Entrega Recepción de las Dependencias y Entidades del Poder Ejecutivo del Estado;
 
@@ -717,7 +847,9 @@ XV. Las demás que las disposiciones legales y reglamentarias le atribuyan.
 
 Suplencia de los servidores públicos del Centro
 
-El Director General del Centro será suplido en sus ausencias no mayores a quince días por el Director que aquel señale. En caso de exceder de tal plazo, las ausencias serán cubiertas por la persona que designe el Titular del Poder Ejecutivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2012)</small>
+
+El Director General del Centro será suplido en sus ausencias no mayores a quince días por el Director Técnico o por el servidor público que aquél señale. En caso de exceder de tal plazo, las ausencias serán cubiertas por la persona que designe el Titular del Poder Ejecutivo.
 
 Los demás servidores públicos, cuando se ausenten, podrán ser suplidos por el servidor público que designe su superior jerárquico con autorización del Director General.
 
@@ -727,17 +859,19 @@ Percepciones y remuneraciones del Centro
 
 Las percepciones y remuneraciones de los servidores públicos del Centro, serán análogas a las del tabulador de sueldos del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
+
 ###### Artículo 33.
 
 Relaciones laborales de los trabajadores del Centro
 
-Las relaciones laborales del Centro con sus trabajadores se regirán por lo establecido en la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios de Guanajuato y las Condiciones Generales de Trabajo para las Dependencias, Entidades y Unidades de Apoyo de la Administración Pública del Estado de Guanajuato.
+Las relaciones del Centro con sus trabajadores se regirán por lo establecido en las disposiciones laborales aplicables.
 
-Todo el personal del Centro, previo a su ingreso, deberá someterse a las evaluaciones de control de confianza que determine el Director General, con aprobación del Consejo Directivo.
+Por la naturaleza y atribuciones del Centro, sus trabajadores serán considerados de confianza y estarán obligados a mantener reserva de la información a la que tengan acceso con motivo de sus funciones.
 
-Una vez ingresado, el personal será sometido a evaluaciones de control de confianza, cuando menos cada tres años.
+Toda persona que desee ingresar al Centro, deberá· aprobar previamente el proceso de evaluación de control de confianza conforme a la normativa aplicable.
 
-El personal que labore en el Centro, a virtud de la obligatoria actitud de trato confidencial en el manejo de información obtenida o generada en su respectiva área, para efectos del servicio civil de carrera del Poder Ejecutivo, se considerará de libre designación, lo que se operará de conformidad a lo dispuesto en el marco reglamentario respectivo.
+El personal del Centro deberá presentar y aprobar el proceso de evaluación de control de confianza cuando menos cada tres años. En caso de que resulte no aprobado, se podrán dar por terminados los efectos de su nombramiento sin responsabilidad para el Centro.
 
 ### Capítulo X. Disposiciones Finales
 
@@ -747,19 +881,21 @@ Asesores externos
 
 El Director General podrá contratar los servicios de asesores externos que sean necesarios para el buen funcionamiento y cumplimiento de su objeto, atendiendo al presupuesto autorizado.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
+
 ###### Artículo 35.
 
 Subcontratación de evaluaciones
 
-Para la práctica de evaluaciones se podrá subcontratar proveedores examinadores, previo señalamiento y análisis de las condiciones y de la autorización por parte del Consejo Directivo, de conformidad con la normatividad aplicable.
+Para la práctica de evaluaciones el Centro podrá subcontratar proveedores examinadores en apego a las disposiciones que al efecto emita el Centro Nacional de Certificación y Acreditación y demás aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2012)</small>
 
 ###### Artículo 36.
 
-Valoración de resultados de exámenes parciales
+Valoración de examinaciones
 
-Los resultados de las evaluaciones parciales que se practiquen serán valorados de forma conjunta e integral por el Director General, el Director Técnico y los Coordinadores del área examinadora, quienes emitirán el dictamen técnico correspondiente con apego a la normatividad aplicable.
-
-En el supuesto de servicios subcontratados o a través de proveedores externos, la evaluación conjunta se realizará de acuerdo a las condiciones establecidas para cada caso.
+Las examinaciones realizadas durante el proceso de evaluación serán valoradas de forma conjunta e integral por el Director General, el Director Técnico y los Coordinadores del área examinadora. Con base a esta valoración se emitirá el resultado integral correspondiente.
 
 ###### Artículo 37.
 
@@ -816,3 +952,9 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE ABRIL DE 2012.
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
