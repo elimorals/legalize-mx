@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-del-patronato-de-la-casa-1370
 country: "mx"
 rank: "reglamento"
 publication_date: "1964-03-10"
-last_updated: "1964-03-10"
+last_updated: "2012-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DEL PATRONATO DE LA CASA DE LA JUVENTUD DE ENSENADA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO DE ACUERDO ÚNICO, PUBLICADO EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, 27 DE ABRIL DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 10 de marzo de 1964.
 
@@ -129,3 +131,9 @@ El Secretario del Ayuntamiento.
 PROF. JOSUE MOLINA CARRILLO.
 
 (firmado.)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE ABRIL DE 2012.
+
+Primero.- Túrnese a la Secretaría General del Ayuntamiento para su publicación en el Periódico Oficial del Estado de Baja California, para que surta los efectos legales a que haya lugar al día siguiente de su publicación.
