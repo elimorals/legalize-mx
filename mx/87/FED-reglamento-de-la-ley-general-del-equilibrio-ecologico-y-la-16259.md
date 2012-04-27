@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-del-equilibrio-ecologico-y-la-1625
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-30"
-last_updated: "2012-04-26"
+last_updated: "2012-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16259&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2000-05-23"
 ---
 # REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE EN MATERIA DE EVALUACION DEL IMPACTO AMBIENTAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE EN MATERIA DE EVALUACIÓN DEL IMPACTO AMBIENTAL
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ABRIL DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 27 DE ABRIL DE 2012.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 30 de mayo de 2000.
 
@@ -101,8 +101,6 @@ VII. Las demás previstas en este reglamento y en otras disposiciones legales y 
 
 ### CAPÍTULO II. DE LAS OBRAS O ACTIVIDADES QUE REQUIEREN AUTORIZACIÓN EN MATERIA DE IMPACTO AMBIENTAL Y DE LAS EXCEPCIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2012 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 5o.
 
 Quienes pretendan llevar a cabo alguna de las siguientes obras o actividades, requerirán previamente la autorización de la Secretaría en materia de impacto ambiental:
@@ -157,9 +155,9 @@ a) La instalación de hilos, cables o fibra óptica para la transmisión de señ
 
 b) Las obras de mantenimiento y rehabilitación cuando se realicen en la franja del derecho de vía correspondiente, y
 
-> <small>(ADICIONADO, D.O.F. 26 DE ABRIL DE 2012)</small>
+(ADICIONADO, D.O.F. 26 DE ABRIL DE 2012) (F. DE E., D.O.F. 27 DE ABRIL DE 2012)
 
-c) Las carreteras que se construyan, para un tránsito promedio diario de hasta un máximo de 500 vehículos, en las cuales la velocidad no exceda de 70 kilómetros por hora, el ancho de calzada y de corona no exceda los 6 metros y no tenga acotamientos, quedando exceptuadas aquellas a las que les resulte aplicable algún otro supuesto del artículo 28 de la Ley.
+c) Las carreteras que se construyan, sobre caminos ya existentes, para un tránsito promedio diario de hasta un máximo de 500 vehículos, en las cuales la velocidad no exceda de 70 kilómetros por hora, el ancho de calzada y de corona no exceda los 6 metros y no tenga acotamientos, quedando exceptuadas aquellas a las que les resulte aplicable algún otro supuesto del artículo 28 de la Ley.
 
 C) OLEODUCTOS, GASODUCTOS, CARBODUCTOS Y POLIDUCTOS:
 
@@ -288,32 +286,6 @@ c) La construcción de viviendas unifamiliares para las comunidades asentadas en
 R) OBRAS Y ACTIVIDADES EN HUMEDALES, MANGLARES, LAGUNAS, RÍOS, LAGOS Y ESTEROS CONECTADOS CON EL MAR, ASÍ COMO EN SUS LITORALES O ZONAS FEDERALES:
 
 I. Cualquier tipo de obra civil, con excepción de la construcción de viviendas unifamiliares para las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiees para las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requie para las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requie para las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
-
-II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requiea las comunidades asentadas en estos ecosistemas, y
 
 II. Cualquier actividad que tenga fines u objetivos comerciales, con excepción de las actividades pesqueras que no se encuentran previstas en la fracción XII del artículo 28 de la Ley y que de acuerdo con la Ley de Pesca y su reglamento no requieren de la presentación de una manifestación de impacto ambiental, así como de las de navegación, autoconsumo o subsistencia de las comunidades asentadas en estos ecosistemas.
 
